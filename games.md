@@ -1,11 +1,111 @@
 ---
 title: games 2024.12
-updated: 2024-03-20 08:33:58
+updated: 2024-03-21 08:51:51
 ---
 
 # games 2024.12
 
-(date: 2024-03-20 08:33:58)
+(date: 2024-03-21 08:51:51)
+
+---
+
+## The first new guitar controller in years is available to pre-order for $129.99
+
+date: 2024-03-21, updated: 2024-03-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24106046/riffmaster-guitar-controller-pre-order-buy-fortnite-festival-rock-band-4>
+
+---
+
+## All the Halo TV show season 3 news we’ve heard so far
+
+date: 2024-03-21, updated: 2024-03-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24106882/halo-season-3-tv-show-release-cast-news>
+
+---
+
+## Not sure what movie to watch this weekend? Leave a comment, we’ll help
+
+date: 2024-03-21, updated: 2024-03-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/entertainment/2024/3/21/24106727/best-movies-watch-this-weekend-best-recommendations>
+
+---
+
+## Margot Robbie’s producing a Sims movie by the director of Loki
+
+date: 2024-03-21, updated: 2024-03-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24107554/sims-movie-margot-robbie-kate-herron>
+
+---
+
+## Age of Sigmar’s fourth edition arrives this summer with Skaven and a new game mode
+
+date: 2024-03-21, updated: 2024-03-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24107000/age-of-sigmar-4th-edition-stormcast-skaven-cinematic-spearhead-announcement>
+
+---
+
+## 3 Body Problem creators want episode 2’s reveal to sell you on the Netflix show
+
+date: 2024-03-21, updated: 2024-03-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24104928/3-body-problem-episode-2-pilot-why-ye-button>
+
+---
+
+## Rise of the Ronin reinvents hack-and-slash in a remarkable open-world Japan
+
+date: 2024-03-21, updated: 2024-03-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24106792/rise-of-the-ronin-review-samurai-rpg-ps5>
+
+---
+
+## Princess Peach: Showtime! is everything I wanted in a game as a little girl
+
+date: 2024-03-21, updated: 2024-03-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24099786/princess-peach-showtime-nintendo-switch-review>
+
+---
+
+## Converse’s new D&D collection of high tops and other gear are a critical success
+
+date: 2024-03-20, updated: 2024-03-20, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/3/20/24107034/converse-dungeons-dragons-chuck-taylor-fashion-collection-high-tops>
+
+---
+
+## Bodies Bodies Bodies, a horror movie about how talking shit will kill your ass, is now on Netflix
+
+date: 2024-03-20, updated: 2024-03-20, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24106811/bodies-bodies-bodies-movie-netflix-horror-thriller-rachel-sennott-lee-pace>
 
 ---
 

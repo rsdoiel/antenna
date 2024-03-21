@@ -1,11 +1,53 @@
 ---
 title: libraries 2024.12
-updated: 2024-03-20 08:33:58
+updated: 2024-03-21 08:51:51
 ---
 
 # libraries 2024.12
 
-(date: 2024-03-20 08:33:58)
+(date: 2024-03-21 08:51:51)
+
+---
+
+## Distributed sensing along fibers for smart clothing
+
+date: 2024-03-22, from: ETH Zurich, recently added
+
+Hannigan, Brett C.; Cuthbert, Tyler; Ahmadizadeh, Chakaveh; Menon, Carlo 
+
+<http://hdl.handle.net/20.500.11850/665429>
+
+---
+
+## The Economic Consequences of the Peace, by John Maynard Keynes
+
+date: 2024-03-21, from: Standard Ebooks, new releaases
+
+Keyes presents a first-hand account of the 1919 Paris Peace Conference and an analysis of the resulting Versailles treaty. 
+
+<https://standardebooks.org/ebooks/john-maynard-keynes/the-economic-consequences-of-the-peace>
+
+---
+
+## A Roadmap for Developing a US National PID Strategy
+
+date: 2024-03-21, from: Scholarly Kitchen
+
+<p>A new report "Developing a US PID National Strategy," outlines the desirable characteristics of Persistent Identifiers (PIDs) and sets the foundation for a cohesive US national strategy.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/03/21/a-roadmap-for-developing-a-us-national-pid-strategy/">A Roadmap for Developing a US National PID Strategy</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/03/21/a-roadmap-for-developing-a-us-national-pid-strategy/>
+
+---
+
+## Short Fiction, by H. Beam Piper
+
+date: 2024-03-20, from: Standard Ebooks, new releaases
+
+A collection of science fiction stories by H. Beam Piper ordered by date of publication. 
+
+<https://standardebooks.org/ebooks/h-beam-piper/short-fiction>
 
 ---
 

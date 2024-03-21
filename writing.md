@@ -1,11 +1,45 @@
 ---
 title: writing 2024.12
-updated: 2024-03-20 08:33:58
+updated: 2024-03-21 08:51:51
 ---
 
 # writing 2024.12
 
-(date: 2024-03-20 08:33:58)
+(date: 2024-03-21 08:51:51)
+
+---
+
+## Charles Payseur Reviews Short Fiction: Escape Pod, Beneath Ceaseless Skies, Three-Lobed Burning Eye, and Fusion Fragment
+
+date: 2024-03-21, from: Locus Magazine
+
+<p>Escape Pod 11/30/23
+Beneath Ceaseless Skies 11/30/23
+Three-Lobed Burning Eye 11/23
+Fusion Fragment 11/23</p>
+<p>Escape Pod closed out November with a gem in <strong>Uchechukwu Nwaka</strong>’s gripping “<strong>Chal­lenges to Becoming a Pro Dragonracer in Apapa-Downtown</strong>”, which takes place in a future Nigeria where people like Ishola live rather vulnerably, trying to do their best for themselves and their families but facing the grim lack of infrastructure and pervasive  <a href="https://locusmag.com/2024/03/charles-payseur-reviews-short-fiction-escape-pod-beneath-ceaseless-skies-three-lobed-burning-eye-and-fusion-fragment/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/03/charles-payseur-reviews-short-fiction-escape-pod-beneath-ceaseless-skies-three-lobed-burning-eye-and-fusion-fragment/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-03-21, from: Neil Gaiman @ BlueSky)
+
+And it's so good!
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ko6cetkvts2h>
+
+---
+
+## ☎️ How to handle a phone meeting
+
+date: 2024-03-20, from: Interesting, a blog on writing
+
+Acting like you're in the room when you're in your room. 
+
+<https://inneresting.substack.com/p/how-to-handle-a-phone-meeting>
 
 ---
 

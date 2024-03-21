@@ -1,11 +1,57 @@
 ---
 title: mid central 2024.12
-updated: 2024-03-20 08:33:58
+updated: 2024-03-21 08:51:51
 ---
 
 # mid central 2024.12
 
-(date: 2024-03-20 08:33:58)
+(date: 2024-03-21 08:51:51)
+
+---
+
+## Workarounds (and their tradeoffs) for integrated storage constraints
+
+date: 2024-03-21, from: EDN Blog
+
+<img width="1400" height="1435" src="https://www.edn.com/wp-content/uploads/2.5-SATA-SSD.jpg?fit=1400%2C1435" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/2.5-SATA-SSD.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/2.5-SATA-SSD.jpg?w=293 293w, https://www.edn.com/wp-content/uploads/2.5-SATA-SSD.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/2.5-SATA-SSD.jpg?w=999 999w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Got a system with limited internal storage? Got an external drive? This engineer’s positive outcome may also be your ticket to success.</p>
+<p>The post <a href="https://www.edn.com/workarounds-and-their-tradeoffs-for-integrated-storage-constraints/" data-wpel-link="internal">Workarounds (and their tradeoffs) for integrated storage constraints</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/workarounds-and-their-tradeoffs-for-integrated-storage-constraints/>
+
+---
+
+## Silicon carbide (SiC) counterviews at APEC 2024
+
+date: 2024-03-21, from: EDN Blog
+
+<img width="640" height="310" src="https://www.edn.com/wp-content/uploads/Figure-1-Lowe-APEC.jpg?fit=640%2C310" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure-1-Lowe-APEC.jpg?w=640 640w, https://www.edn.com/wp-content/uploads/Figure-1-Lowe-APEC.jpg?w=300 300w" sizes="(max-width: 640px) 100vw, 640px" /><p>Tow keynotes at the opening of APEC 2024 led to two diverging views about the future of SiC semiconductors.</p>
+<p>The post <a href="https://www.edn.com/silicon-carbide-sic-counterviews-at-apec-2024/" data-wpel-link="internal">Silicon carbide (SiC) counterviews at APEC 2024</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/silicon-carbide-sic-counterviews-at-apec-2024/>
+
+---
+
+## Uncovering the heart of Fresno State: A closer look at ‘I Heart Fresno State’ week
+
+date: 2024-03-20, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+“I Heart Fresno State” week takes place every spring semester with the purpose of lifting up the school spirit and for students to make friends in a festive environment. This semester, “I Heart Fresno State” week takes place from March 18-22. The “Bulldogpalooza” event kicked off “I Heart Fresno State” week on Monday at the... 
+
+<https://fscollegian.com/2024/03/uncovering-the-heart-of-fresno-state-a-closer-look-at-i-heart-fresno-state-week/>
+
+---
+
+## Feminist Icon Steinem Takes Center Stage in Theater Production of ‘Gloria: A Life’
+
+date: 2024-03-20, from: Blue Devil News (Merced Community College Student Newspaper)
+
+<p>Gloria Steinem has a legacy befitting a woman who helped change American history. Given her impact, the feminist icon’s life is one that deserves reexamination, including the artistic kind. Merced&#8230;</p>
+<p>The post <a href="https://www.mccd.edu/news/feminist-icon-steinem-takes-center-stage-in-theater-production-of-gloria-a-life/">Feminist Icon Steinem Takes Center Stage in Theater Production of ‘Gloria: A Life’</a> appeared first on <a href="https://www.mccd.edu">Merced College</a>.</p>
+ 
+
+<https://www.mccd.edu/news/feminist-icon-steinem-takes-center-stage-in-theater-production-of-gloria-a-life/>
 
 ---
 
@@ -13,7 +59,7 @@ updated: 2024-03-20 08:33:58
 
 date: 2024-03-20, from: EDN Blog
 
-<img width="279" height="252" src="https://www.edn.com/wp-content/uploads/Fig1-2.jpg?fit=279%2C252" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" /><p>A self-test ensuring a reliable connection between the GPIO and an object in the event there may be a loss of contact, short circuit, etc.</p>
+<img width="279" height="252" src="https://www.edn.com/wp-content/uploads/Fig1-2.jpg?fit=279%2C252" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" /><p>A self-test ensuring a reliable connection between the GPIO and an object in the event there may be a loss of contact, short circuit, etc.</p>
 <p>The post <a href="https://www.edn.com/a-self-testing-gpio/" data-wpel-link="internal">A self-testing GPIO</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
@@ -65,7 +111,7 @@ Hey Bulldogs! My name is Faith Van Hoven, and I am currently an ASI presidential
 
 date: 2024-03-19, from: Blue Devil News (Merced Community College Student Newspaper)
 
-<p>By Luciana Chavez Special to Merced College Merced College Professor Nikki Maddux has been around long enough to see an important demographic shift on campus. “Right now, in our animal&#8230;</p>
+<p>Merced College Professor Nikki Maddux has been around long enough to see an important demographic shift on campus. “Right now, in our animal science department, it’s 87% females,” Maddux said.&#8230;</p>
 <p>The post <a href="https://www.mccd.edu/news/faculty-paving-the-way-for-the-next-generation-of-women-in-ag/">Faculty Paving the Way for the Next Generation of Women in Ag</a> appeared first on <a href="https://www.mccd.edu">Merced College</a>.</p>
  
 

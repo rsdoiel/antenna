@@ -1,11 +1,11 @@
 ---
 title: parks 2024.12
-updated: 2024-03-20 08:33:59
+updated: 2024-03-21 08:51:51
 ---
 
 # parks 2024.12
 
-(date: 2024-03-20 08:33:59)
+(date: 2024-03-21 08:51:51)
 
 ---
 
@@ -186,7 +186,7 @@ date: 2024-03-18, from: Bureau of Land Management, blog
       <div><strong>Tag:</strong> </div>
               <div>
                     <div><a href="https://www.blm.gov/tag/careers" hreflang="en">Careers</a></div>
-              <div><a href="https://www.blm.gov/tag/cadastral-survey" hreflang="en">Cadastral Survey</a></div>
+              <div><a href="https://www.blm.gov/tag/cadastral" hreflang="en">Cadastral Survey</a></div>
               <div><a href="https://www.blm.gov/tag/employee" hreflang="en">Employee</a></div>
                     </div>
           </div>

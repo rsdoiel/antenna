@@ -1,11 +1,237 @@
 ---
 title: weather 2024.12
-updated: 2024-03-20 08:33:58
+updated: 2024-03-21 08:51:51
 ---
 
 # weather 2024.12
 
-(date: 2024-03-20 08:33:58)
+(date: 2024-03-21 08:51:51)
+
+---
+
+## SPC - No MDs are in effect as of Thu Mar 21 15:46:02 UTC 2024
+
+date: 2024-03-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Thu Mar 21 15:46:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Mar 21, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-03-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0746 AM CDT Thu Mar 21 2024
+
+Valid 211300Z - 221200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS TODAY INTO EARLY
+TONIGHT FOR SOUTHEAST TX...
+
+...SUMMARY...
+Isolated severe thunderstorms producing large hail and strong wind
+gusts are possible from the northwest Gulf coast into central Texas.
+
+...TX area through tonight...
+Elevated thunderstorm development is underway this morning over the
+middle TX coastal plain, near and just north of a coastal front. 
+Per the 12z CRP/BRO soundings, the environment is sufficient for a
+couple of slightly elevated supercells capable of producing isolated
+1-2 inch diameter hail and gusts up to 60 mph.  The storms are
+expected to gradually grow upscale in the warm advection regime
+through the morning, with the likelihood that a cluster/MCS will
+evolve and move offshore toward midday/early afternoon.
+
+Farther west, a midlevel shortwave trough over west TX/NM will
+progress eastward to central TX this evening, accompanied by a weak
+surface reflection.  Surface heating in cloud breaks and
+boundary-layer dewpoints in the 55-60 F range will boost MLCAPE into
+the 500-1000 J/kg range across central into northwest TX.  The
+destabilization and weakening convective inhibition, in combination
+with the zone of ascent preceding the midlevel trough, will support
+scattered thunderstorm development by mid afternoon (~20-21z). 
+Steepening low-midlevel lapse rates and modestly long/relatively
+straight hodographs (effective bulk shear 25-35 kt) will favor a mix
+of clusters and some supercell structures capable of producing
+isolated large hail (1-1.5 inches) and outflow gusts of 50-60 mph. 
+The convection will subsequently spread east-southeastward across
+central TX this evening and into southeast TX and possibly far
+southwest LA tonight.
+
+..Thompson/Grams.. 03/21/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 57 Status Reports
+
+date: 2024-03-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0057.html"><img src="https://www.spc.noaa.gov/products/watch/ww0057_radar.gif" border="1" alt="WW 0057 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 57
+
+THE SEVERE WEATHER THREAT CONTINUES ACROSS THE ENTIRE WATCH AREA.
+
+..GRAMS..03/21/24
+
+ATTN...WFO...CRP...HGX...EWX...
+
+
+STATUS REPORT FOR WS 57 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+TXC007-025-039-057-089-123-157-175-239-285-321-391-409-469-481-
+211340-
+
+TX 
+.    TEXAS COUNTIES INCLUDED ARE
+
+ARANSAS              BEE                 BRAZORIA            
+CALHOUN              COLORADO            DEWITT              
+FORT BEND            GOLIAD              JACKSON             
+LAVACA               MATAGORDA           REFUGIO             
+SAN PATRICIO         VICTORIA            WHARTON             
+
+
+GMZ236-237-255-330-350-211340-
+
+CW 
+
+.    ADJACENT COASTAL WATERS INCLUDED ARE
+
+COPANO ARANSAS AND REDFISH BAYS 
+
+SAN ANTONIO MESQUITE AND ESPIRITU SANTO BAYS 
+
+COASTAL WATERS FROM PORT ARANSAS TO MATAGORDA SHIP CHANNEL OUT 20
+NM 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0057.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0057.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 57
+
+date: 2024-03-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0057.html"><img src="https://www.spc.noaa.gov/products/watch/ww0057_radar.gif" border="1" alt="WW 0057 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Watch Number 57
+NWS Storm Prediction Center Norman OK
+625 AM CDT Thu Mar 21 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Severe Thunderstorm Watch for portions of 
+  Middle Texas Coastal Plain
+  Coastal Waters
+
+* Effective this Thursday morning and afternoon from 625 AM until
+  100 PM CDT.
+
+* Primary threats include...
+  Scattered large hail and isolated very large hail events to 2
+    inches in diameter possible
+  Isolated damaging wind gusts to 60 mph possible
+
+SUMMARY...Thunderstorms will increase in coverage/intensity this
+morning while spreading east and northeastward near the middle Texas
+Coast.  A couple of slightly elevated supercells will be possible,
+with the potential to produce 1-2 inch diameter hail and isolated
+damaging gusts near 60 mph.
+
+The severe thunderstorm watch area is approximately along and 50
+statute miles east and west of a line from 50 miles south of
+Victoria TX to 45 miles northwest of Angleton TX. For a complete
+depiction of the watch see the associated watch outline update
+(WOUS64 KWNS WOU7).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Severe Thunderstorm Watch means conditions are
+favorable for severe thunderstorms in and close to the watch area.
+Persons in these areas should be on the lookout for threatening
+weather conditions and listen for later statements and possible
+warnings. Severe thunderstorms can and occasionally do produce
+tornadoes.
+
+&&
+
+AVIATION...A few severe thunderstorms with hail surface and aloft to
+2 inches. Extreme turbulence and surface wind gusts to 50 knots. A
+few cumulonimbi with maximum tops to 500. Mean storm motion vector
+26020.
+
+...Thompson
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0057.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0057.html>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2024-03-21, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0135 AM CDT Thu Mar 21 2024
+
+Valid 221200Z - 231200Z
+
+...NO CRITICAL AREAS...
+
+...Synopsis...
+Elevated fire-weather conditions are possible on Friday afternoon
+across portions of West TX. Elsewhere, a progressive weather pattern
+and associated widespread precipitation -- along with a trailing
+cold front and milder conditions -- will temper any fire-weather
+threat.
+
+...West TX...
+In the wake of an ejecting, mid-level trough, modest
+west-northwesterly flow is forecast over eastern NM and West TX.
+This will lead to dry, downsloping flow and deepening, well-mixed
+boundary layers across West TX. Critical-level relative humidities
+(10-15 percent) are possible across the region by mid-afternoon.
+Given a lack of more robust cyclone development, surface wind speeds
+are expected to be more tempered around 10-15 mph. Parts of the
+region also recently experienced some wetting precipitation, but
+this was relatively limited (around 0.1 inches) and localized in
+nature. Given forecast ERCs in the 70-80th percentiles and generally
+persistent dry and windy conditions, Elevated fire-weather
+conditions appear possible in the delineated area Friday afternoon.
+
+..Flournoy.. 03/21/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -16,145 +242,6 @@ date: 2024-03-20, from: NOAA tornado/severe thunderstorm watches, mesoscale disc
 No watches are valid as of Wed Mar 20 14:03:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Wed Mar 20 14:03:02 UTC 2024
-
-date: 2024-03-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Wed Mar 20 14:03:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Mar 20, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-03-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0738 AM CDT Wed Mar 20 2024
-
-Valid 201300Z - 211200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS THIS
-AFTERNOON/EVENING ACROSS WESTERN OK/NORTHWEST TX...AND EARLY
-THURSDAY MORNING NEAR THE TX COAST...
-
-...SUMMARY...
-Isolated, marginally severe storms will be possible this
-afternoon/evening across parts of western Oklahoma and northwest
-Texas.  Isolated large hail will be possible early Thursday morning
-near the Texas coast.
-
-...Western OK/TX Panhandle this afternoon/evening...
-A midlevel shortwave trough will begin to move eastward from AZ/NM
-toward west TX by tonight, with associated downstream cyclogenesis
-occurring today across eastern NM and the TX Panhandle.  Low-level
-moisture return will be limited in the warm sector, with
-boundary-layer dewpoints ranging from 40-45 F as surface
-temperatures warm into the 70s this afternoon along a surface
-trough/front across western OK and the eastern TX Panhandle. 
-Steepening low-midlevel lapse rates and cool midlevel temperatures
-will support weak buoyancy, and weak ascent along the boundaries
-could result in a few storms with the potential to produce
-marginally severe hail and strong outflow gusts.  There is also a
-low probability of a non-mesocyclone tornado with developing
-updrafts along the slow-moving front in northwest OK later this
-afternoon, given steep low-level lapse rates/vertical vorticity
-along the front.  
-
-...South central TX to the coastal plain late tonight...
-Low-level moisture return will occur in earnest by tonight as a
-maritime tropical air mass spreads northward from the Bay of
-Campeche (along the prior stalled front) to the TX coast.  Near the
-end of the period, destabilization will become sufficient for
-elevated thunderstorm development in the warm advection zone atop a
-diffuse coastal front.  MUCAPE could reach 1000-1500 J/kg as
-moisture increase below midlevel lapse rates of 7.5-8 C/km, in an
-environment with sufficiently long hodographs (and some low-level
-curvature) for a conditional supercell/large hail threat mainly
-09-12z.
-
-...Southern New England this afternoon...
-A deepening midlevel trough will move from ON to New England, as an
-associated cold front moves across New England later today and
-cyclogenesis occurs tonight near the ME coast.  Moisture/buoyancy
-will be scant at best ahead of the cold front across southern New
-England, where some shallow/forced convection may occur along the
-cold front this afternoon.  The convection could be associated with
-a few strong gusts, but the potential for convectively driven severe
-gusts appears too low to warrant introduction of an outlook area.
-
-..Thompson/Grams.. 03/20/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2024-03-20, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0154 AM CDT Wed Mar 20 2024
-
-Valid 211200Z - 221200Z
-
-...NO CRITICAL AREAS...
-
-...Synopsis...
-Predominantly zonal mid-level flow is anticipated across the U.S. on
-Thursday, leading to generally mild conditions and low fire-weather
-concerns. Locally drier and windier conditions could develop in
-portions of the Southern and Central Plains, but confidence is
-currently too low in these scenarios to warrant any Elevated areas
-at this time.
-
-...NE Panhandle and vicinity...
-Confidence has increased in a surface cyclone developing in the lee
-of the Rockies near the NE Panhandle throughout the day on Thursday.
-This will support some moisture return across the Southern Plains,
-as well as relatively dry, downsloping flow in the NE Panhandle,
-eastern WY, and northeastern CO. Deep, well-mixed boundary layers
-could yield relative humidities around 20 percent across the region
-with sustained winds of 15-20 mph. Fuels do not appear to be
-critically dry, but could support some fire spread (e.g., ERCs
-approaching the 70-80th percentiles in some areas). No Elevated area
-is delineated in this outlook due to slightly lower confidence in
-the location of the surface cyclone and attendant moisture
-gradients; guidance will be monitored for possible future inclusion.
-
-
-...West TX...
-An area of slightly stronger mid-level flow is expected to
-overspread West TX on Thursday afternoon, contributing to locally
-gustier surface conditions. Wind speeds around 15-20 mph and
-relative humidities around 15-20 percent could contribute to local
-Elevated fire-weather conditions. However, highlighting a particular
-area is currently difficult due to the chance for wetting
-precipitation Wednesday night into Thursday morning. Confidence in
-such a scenario will continue to be monitored, possibly warranting
-areal delineations in future outlooks.
-
-..Flournoy.. 03/20/2024
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 

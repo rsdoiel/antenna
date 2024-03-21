@@ -1,11 +1,282 @@
 ---
 title: socal north 2024.12
-updated: 2024-03-20 08:33:58
+updated: 2024-03-21 08:51:50
 ---
 
 # socal north 2024.12
 
-(date: 2024-03-20 08:33:58)
+(date: 2024-03-21 08:51:50)
+
+---
+
+## Classifieds – March 21, 2024
+
+date: 2024-03-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/21/classifieds-march-21-2024/">Classifieds &#8211; March 21, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/21/classifieds-march-21-2024/>
+
+---
+
+## It’s time to blame desks rather than our bodies
+
+date: 2024-03-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Plus-size students face a lack of size-inclusive desks, threatening their well-being.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/21/its-time-to-blame-desks-rather-than-our-bodies/">It’s time to blame desks rather than our bodies</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/21/its-time-to-blame-desks-rather-than-our-bodies/>
+
+---
+
+## Roski student debuts first solo show
+
+date: 2024-03-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Alex Carmen’s anticipated exhibit “Trees with Holes in Them” opened Wednesday.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/21/roski-student-debuts-first-solo-show/">Roski student debuts first solo show</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/21/roski-student-debuts-first-solo-show/>
+
+---
+
+## Chief campus health officer discusses opioid epidemic
+
+date: 2024-03-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Student Health distributed Narcan for free at the weekly Trojan Farmer’s Market.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/21/chief-campus-health-officer-discusses-opioid-epidemic/">Chief campus health officer discusses opioid epidemic</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/21/chief-campus-health-officer-discusses-opioid-epidemic/>
+
+---
+
+## Exciting albums coming this spring
+
+date: 2024-03-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Get your earbuds ready for these blockbuster drops from fan-favorite artists.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/21/exciting-albums-coming-this-spring/">Exciting albums coming this spring</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/21/exciting-albums-coming-this-spring/>
+
+---
+
+## Baseball to face rival UCLA in Westwood
+
+date: 2024-03-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC enters Jackie Robinson Stadium as victor of three of its last four matchups.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/21/baseball-to-face-rival-ucla-in-westwood/">Baseball to face rival UCLA in Westwood</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/21/baseball-to-face-rival-ucla-in-westwood/>
+
+---
+
+## Casey Phair continues Angel City’s youth movement
+
+date: 2024-03-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The youngest player to ever feature in a World Cup became the next jewel in ACFC’s crown during the offseason. </p>
+<p>The post <a href="https://dailytrojan.com/2024/03/21/casey-phair-continues-angel-citys-youth-movement/">Casey Phair continues Angel City’s youth movement</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/21/casey-phair-continues-angel-citys-youth-movement/>
+
+---
+
+## New students should consider Thematic Option
+
+date: 2024-03-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Reasons to join T.O. range from small class sizes to free trips in the L.A. area.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/21/new-students-should-consider-thematic-option/">New students should consider Thematic Option</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/21/new-students-should-consider-thematic-option/>
+
+---
+
+## Researchers track ongoing destruction in Ukraine
+
+date: 2024-03-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Associate professor Sylvain Barbot published a study on the impact of the war.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/21/ukraine-destruction-study/">Researchers track ongoing destruction in Ukraine</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/21/ukraine-destruction-study/>
+
+---
+
+## Honoring transgender voices on March 31
+
+date: 2024-03-21, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Queer advocates and allies are honoring Transgender Day of Visibility on March 31 and taking the time to celebrate the lives and triumphs of trans</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/20/honoring-transgender-voices-on-march-31/">Honoring transgender voices on March 31</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/20/honoring-transgender-voices-on-march-31/?utm_source=rss&utm_medium=rss&utm_campaign=honoring-transgender-voices-on-march-31>
+
+---
+
+## Pierce should offer personal financial workshops
+
+date: 2024-03-21, from: The Round Up (Pierce College Student Newspaper)
+
+<p>College students have a lot on their minds, such as work, school, family and food. This leaves students with little time to manage their money</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/20/pierce-should-offer-financial-workshops/">Pierce should offer personal financial workshops</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/20/pierce-should-offer-financial-workshops/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-should-offer-financial-workshops>
+
+---
+
+## UCLA report finds US suburban schools mirroring urban trends
+
+date: 2024-03-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+A February report from the Civil Rights Project at UCLA found that suburban schools have been increasingly experiencing educational policy trends previously restricted to urban districts. 
+
+<https://dailybruin.com/2024/03/20/ucla-report-finds-us-suburban-schools-mirroring-urban-trends/>
+
+---
+
+## UC Regents tables vote on Item J1 until May meeting
+
+date: 2024-03-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Board of Regents voted Wednesday to delay its decision on Item J1 – a policy that would prohibit University departments from making political statements on their website homepages – until it reconvenes in May.&#160;
+The motion to delay the vote until the board’s May meetings passed unanimously and was the second time the regents delayed a vote on the policy since January. 
+
+<https://dailybruin.com/2024/03/20/uc-regents-tables-vote-on-item-j1-until-may-meeting/>
+
+---
+
+## Should college tuition be free? Yes: Free education leads to a greater society
+
+date: 2024-03-20, from: The Round Up (Pierce College Student Newspaper)
+
+<p>College costs in the United States have been rising faster than inflation, and many students have faced financial problems. College should be free for many</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/20/should-college-tuition-be-free-yes-free-education-leads-to-a-greater-society/">Should college tuition be free? Yes: Free education leads to a greater society</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/20/should-college-tuition-be-free-yes-free-education-leads-to-a-greater-society/?utm_source=rss&utm_medium=rss&utm_campaign=should-college-tuition-be-free-yes-free-education-leads-to-a-greater-society>
+
+---
+
+## Should college tuition be free? No: Free college is impractical
+
+date: 2024-03-20, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Just on principle by itself, free college wouldn’t benefit society, school systems or the students. It’s what the ancient Greeks would call a siren song</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/20/should-college-tuition-be-free-no-free-college-is-impractical/">Should college tuition be free? No: Free college is impractical</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/20/should-college-tuition-be-free-no-free-college-is-impractical/?utm_source=rss&utm_medium=rss&utm_campaign=should-college-tuition-be-free-no-free-college-is-impractical>
+
+---
+
+## Pierce swim team deals with aquatic adaptations
+
+date: 2024-03-20, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The pool at Pierce College has been closed since October 2022, but the swim team is still active without it. Lacking a pool of their</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/20/pierce-swim-team-deals-with-aquatic-adaptations/">Pierce swim team deals with aquatic adaptations</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/20/pierce-swim-team-deals-with-aquatic-adaptations/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-swim-team-deals-with-aquatic-adaptations>
+
+---
+
+## Sports Briefs – March 20, 2024
+
+date: 2024-03-20, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce students to compete in National Hillel Basketball Tournament: Seven Pierce College students—for the first time—will be participating in the National Hillel Basketball Tournament at</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/20/sports-briefs-march-20-2024/">Sports Briefs &#8211; March 20, 2024</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/20/sports-briefs-march-20-2024/?utm_source=rss&utm_medium=rss&utm_campaign=sports-briefs-march-20-2024>
+
+---
+
+## UCLA swim and dive has ‘nothing to lose and everything to gain’ at NCAAs
+
+date: 2024-03-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+With their eyes set on high placements at NCAAs, the Bruins mean business.
+No. 21 UCLA swim and dive (5-4, 3-4 Pac-12) is headed to Athens, Georgia, to compete in the national championships March 20 through March 23. 
+
+<https://dailybruin.com/2024/03/20/ucla-swim-and-dive-has-nothing-to-lose-and-everything-to-gain-at-ncaas/>
+
+---
+
+## AFSCME Local 3299 demands higher wages, divestment at UC Board of Regents meeting
+
+date: 2024-03-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 20 at 6:41 p.m.</em>
+Around 100 protesters gathered outside the UC Board of Regents’ meeting Wednesday to call for better contracts and protections for service, patient technical care and skilled craft workers. 
+
+<https://dailybruin.com/2024/03/20/afscme-local-3299-demands-higher-wages-divestment-at-uc-board-of-regents-meeting/>
+
+---
+
+## Entry Period Open for Annual Sister Cities Young Artists and Authors Showcase
+
+date: 2024-03-20, from: City of Santa Clarita
+
+<p>ENTRY PERIOD OPEN FOR ANNUAL SISTER CITIES YOUNG ARTISTS AND AUTHORS SHOWCASE The City of Santa Clarita, in partnership with Santa Clarita Sister Cities, invites local students to submit original artwork, poetry, essays/creative writing, photographs or music for the 2024 Young Artists and Authors Showcase. The theme of the contest this year is “CLIMATESCAPE: Resilient [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/03/20/entry-period-open-for-annual-sister-cities-young-artists-and-authors-showcase/">Entry Period Open for Annual Sister Cities Young Artists and Authors Showcase</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/03/20/entry-period-open-for-annual-sister-cities-young-artists-and-authors-showcase/>
+
+---
+
+## Academic Senate talks bots, course standards
+
+date: 2024-03-20, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Dystopian robot films where bots blend in with humans are no longer a thing of fiction. Bots have now entered academia, posing as students and</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/20/academic-senate-talks-bots-course-standards/">Academic Senate talks bots, course standards</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/20/academic-senate-talks-bots-course-standards/?utm_source=rss&utm_medium=rss&utm_campaign=academic-senate-talks-bots-course-standards>
+
+---
+
+## LAPC Theatre previews first production of spring semester
+
+date: 2024-03-20, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Scene partners Angelo Rosales and Rocio Ibarra stood together and rehearsed an argument between their characters. In the moment, as the pair intensely channeled Helena</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/20/lapc-theatre-previews-first-production-of-spring-semester/">LAPC Theatre previews first production of spring semester</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/20/lapc-theatre-previews-first-production-of-spring-semester/?utm_source=rss&utm_medium=rss&utm_campaign=lapc-theatre-previews-first-production-of-spring-semester>
+
+---
+
+## How much of it is an act?
+
+date: 2024-03-20, from: The Round Up (Pierce College Student Newspaper)
+
+<p>A crime film with a comedy twist set in the 1930s opened the 2024 French Film Festival at Pierce College on March 12.  The first</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/20/how-much-of-it-is-an-act/">How much of it is an act?</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/20/how-much-of-it-is-an-act/?utm_source=rss&utm_medium=rss&utm_campaign=how-much-of-it-is-an-act>
 
 ---
 
@@ -17,6 +288,138 @@ Yates Gym holds its breath in anticipation when music hits the air.
 Gymnasts stop twirling on bars and come to a standstill on beam to watch the Bruins take the floor. 
 
 <https://dailybruin.com/2024/03/20/inside-the-culture-that-defines-ucla-gymnastics-viral-floor-routines/>
+
+---
+
+## Behind the Scenes: The Marketplace Tray Drop
+
+date: 2024-03-20, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>At the Occidental Marketplace, used trays, dishes and excess food rotate around into the seeming abyss. Associate Director of Campus Dining Robert Starec said that the Marketplace was remodeled in 1999, and the tray drop system has been in place for the past 25 years. According to Starec, guests who eat at the Marketplace take [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/03/20/behind-the-scenes-the-marketplace-tray-drop/2911808">Behind the Scenes: The Marketplace Tray Drop</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/culture/2024/03/20/behind-the-scenes-the-marketplace-tray-drop/2911808>
+
+---
+
+## Highland Theatre closure sparks  community mourning and hope for resurrection
+
+date: 2024-03-20, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Feb. 29, five days before its 99th anniversary, the Highland Theatre closed its doors indefinitely. Since then, graffiti has appeared on the theater&#8217;s marquee, and the lobby has remained dim behind drawn gates. Ralph Waxman, president of the Arroyo Arts Collective, said the closure was an inevitable result of the theater&#8217;s recent financial troubles, which [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/03/20/highland-theatre-closure-sparks-community-mourning-and-hope-for-resurrection/2911786">Highland Theatre closure sparks  community mourning and hope for resurrection</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/community/2024/03/20/highland-theatre-closure-sparks-community-mourning-and-hope-for-resurrection/2911786>
+
+---
+
+## Emmons offers a plethora of mental health services
+
+date: 2024-03-20, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>According to their website, Emmons features several mental health services available to students, including drop-in chat spaces and group counseling services, which occur once per week for one to two hours. Examples of these spaces include What’s the Word, Hummingbird? — a space centering the experiences of POC, LGBTQ+, first-generation and international students — and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/03/20/emmons-offers-a-plethora-of-mental-health-services/2911804">Emmons offers a plethora of mental health services</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/culture/2024/03/20/emmons-offers-a-plethora-of-mental-health-services/2911804>
+
+---
+
+## Breakfast
+
+date: 2024-03-20, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>I sit at the table, watching the world go by feeling like pure freedom, I think I can fly and write, and act, and shout with joy out a spell what was this marvel, pray tell? &#160; When the mental hurricane strikes, and your senses shatter, there is no pain or pleasure, nothing really matters, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/media/2024/03/20/breakfast/2911768">Breakfast</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/media/2024/03/20/breakfast/2911768>
+
+---
+
+## Berkus Hall renovations underway, Berkus Gym remodeled
+
+date: 2024-03-20, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>After two weeks of renovations, the Berkus Gym in Berkus Hall reopened March 18 and is now a cardio-only gym and half the size, according to an email from Residential Education and Housing Services (REHS). In comparison to the larger 1,600 square-foot Alumni Gymnasium, the original Berkus Gym was a smaller fitness facility with a selection [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/03/20/berkus-hall-renovations-underway-berkus-gym-remodeled/2911800">Berkus Hall renovations underway, Berkus Gym remodeled</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/03/20/berkus-hall-renovations-underway-berkus-gym-remodeled/2911800>
+
+---
+
+## The Occidental wins seven awards including Best Newspaper from California College Media Association
+
+date: 2024-03-20, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Occidental&#8217;s student-run newspaper, The Occidental, placed in the top three for seven awards and won the Best Newspaper award for the four-year colleges and universities with under 15,000 students division at the 2023 California College Media Association Awards March 9. The senior leadership team of the Spring 2023 to Fall 2023 semesters — former Editor-In-Chiefs [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/03/20/the-occidental-wins-seven-awards-including-best-newspaper-from-california-college-media-association/2911792">The Occidental wins seven awards including Best Newspaper from California College Media Association</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/03/20/the-occidental-wins-seven-awards-including-best-newspaper-from-california-college-media-association/2911792>
+
+---
+
+## Professors on sabbatical dive into planetary metaphysics, Mexican philosophy and more
+
+date: 2024-03-20, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Every year, the Dean’s Office makes decisions about sabbatical applications for Occidental professors. According to Salvador Fernández, Associate Dean for Faculty Affairs, applications from professors for sabbatical leaves are due Dec. 15, and the Dean’s Office takes at least two months to come to a decision about the application. “The College supports sabbaticals to provide release time for intellectual enrichment [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/03/20/professors-on-sabbatical-dive-into-planetary-metaphysics-mexican-philosophy-and-more/2911789">Professors on sabbatical dive into planetary metaphysics, Mexican philosophy and more</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/03/20/professors-on-sabbatical-dive-into-planetary-metaphysics-mexican-philosophy-and-more/2911789>
+
+---
+
+## USC Street Medicine teams treat the homeless one patient at a time
+
+date: 2024-03-20, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>In 2018, USC Street Medicine Founders Brett Feldman and Dr. Jehni Robinson took on one of LA’s greatest obstacles: healthcare for its unsheltered homeless population. The USC Street Medicine Team provides point of care health services that meets homeless patients wherever they are. The program combines medical expertise, social service outreach, and cutting-edge research to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/neighborhood-reporting-project/2024/03/20/usc-street-medicine-teams-treat-the-homeless-one-patient-at-a-time/2911777">USC Street Medicine teams treat the homeless one patient at a time</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/neighborhood-reporting-project/2024/03/20/usc-street-medicine-teams-treat-the-homeless-one-patient-at-a-time/2911777>
+
+---
+
+## Athletes of the Week Koko Butcher and Nico Morales are optimistic about 2024 season
+
+date: 2024-03-20, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Koko Butcher Koko Butcher (junior) had a standout performance at the Convergence water polo Tournament March 1 in wins against UC Merced and Penn State Behrend, totaling eight goals and four assists. “At the end of the game against UC Merced, there was five seconds left, and we got the ball while the game was tied 8-8,&#8221; Butcher [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2024/03/20/athletes-of-the-week-koko-butcher-and-nico-morales-are-optimistic-about-2024-season/2911785">Athletes of the Week Koko Butcher and Nico Morales are optimistic about 2024 season</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/sports/2024/03/20/athletes-of-the-week-koko-butcher-and-nico-morales-are-optimistic-about-2024-season/2911785>
+
+---
+
+## Opinion: Why do I support geoengineering?
+
+date: 2024-03-20, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Before the creation of modern industrial society, it’s hard to say that life for humans was “good” in any meaningful capacity. More than half of children died before age 15 (compared to one in 20 now), life expectancy was less than half what it is now and countries such as the United Kingdom had per-capita [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/opinions/2024/03/20/opinion-why-do-i-support-geoengineering/2911782">Opinion: Why do I support geoengineering?</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/opinions/2024/03/20/opinion-why-do-i-support-geoengineering/2911782>
+
+---
+
+## How much should a 4-year university tuition cost?
+
+date: 2024-03-20, from: The Round Up (Pierce College Student Newspaper)
+
+<p>&#160; &#160; “I feel for a four-year tuition for me—I want to go to UCLA—so I say about $37,000 to $40,000 dollars for four years.”</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/20/how-much-should-a-4-year-university-tuition-cost/">How much should a 4-year university tuition cost?</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/20/how-much-should-a-4-year-university-tuition-cost/?utm_source=rss&utm_medium=rss&utm_campaign=how-much-should-a-4-year-university-tuition-cost>
 
 ---
 

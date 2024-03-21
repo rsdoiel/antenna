@@ -1,11 +1,576 @@
 ---
 title: pacific 2024.12
-updated: 2024-03-20 08:33:58
+updated: 2024-03-21 08:51:51
 ---
 
 # pacific 2024.12
 
-(date: 2024-03-20 08:33:58)
+(date: 2024-03-21 08:51:51)
+
+---
+
+## Golden Arches shine bright: McDonald's hosts Employee Appreciation Parties in Guam and Saipan
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+Once a year, McDonald's of Guam and Saipan closes all restaurant locations early to host their highly anticipated Annual Employee Appreciation Party. This is a special, unforgettable evening filled with recognition awards, lively restaurant team performances, an exciting raffle with over $8,000 in prizes up for grabs, a grand prize of a roundtrip travel destination, and an outpouring of gratitude for the hard work of all McDonald's employees. 
+
+<https://www.mvariety.com/specials/2024/mcdonalds_31/golden-arches-shine-bright-mcdonalds-hosts-employee-appreciation-parties-in-guam-and-saipan/article_a3c6f586-e71e-11ee-8dc8-f3f23f14b3d2.html>
+
+---
+
+## McDonald's celebrates crew members loyalty and commitment
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+At the core of McDonald's success are the dedicated crew members who show up day after day to serve customers with a smile. This year, at the highly anticipated annual Employee Appreciation Party, McDonald's took the time to honor those employees who have given years of loyal service and commitment to the Golden Arches. 
+
+<https://www.mvariety.com/specials/2024/mcdonalds_31/mcdonalds-celebrates-crew-members-loyalty-and-commitment/article_9ea1bc08-e723-11ee-a21c-5fbeac582bdb.html>
+
+---
+
+## McDonald's honors Gisel Achas and Garapan Express
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+The Department Manager of the Year award is a prestigious honor given to McDonald's managers who have truly excelled and exceeded their goals throughout 2023. Their excellent performance and outstanding leadership are recognized with this award. The 2023 winner of the Department Manager of the Year for the McDonald's restaurants across Guam and Saipan is Gisel Achas, a manager at the McDonald's Saipan Chalan Laulau location. Gisel received a cash prize and a commemorative plaque engraved with her name in celebration of this significant achievement. 
+
+<https://www.mvariety.com/specials/2024/mcdonalds_31/mcdonalds-honors-gisel-achas-and-garapan-express/article_159889ca-e721-11ee-8f26-0f5c7671a37d.html>
+
+---
+
+## McDonald's crew members shine as "Crew of the Year" award winners
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+McDonald's successful operations are credited to the dedicated crew members who bring their best to work each day, providing friendly service and ensuring quality food for customers. Each year, McDonald's celebrates the exceptional performance of these hardworking individuals through the highly coveted "Crew of the Year" award. This prestigious honor recognizes one standout crew member from each restaurant location based on their unwavering dedication, initiative, leadership, and overall outstanding contributions to their team. 
+
+<https://www.mvariety.com/specials/2024/mcdonalds_31/mcdonalds-crew-members-shine-as-crew-of-the-year-award-winners/article_bd5204cc-e71f-11ee-8c60-7be52c790dbc.html>
+
+---
+
+## LSA students make film
+
+date: 2024-03-21, from: Marshal Islands Journal
+
+<p>It’s a wrap! Local filmmaker and photographer Chewy Lin and his team&#160;recently finished filming a FISH4ACP film in collaboration with students from Life Skills Academy in Majuro. “We are so proud of our Life Skills Academy students who graduated from our media training with Chewy Lin and Wilmer Joel,” said Samantha Kies-Ryan, a member of [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/lsa-students-make-film/">LSA students make film</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/lsa-students-make-film/>
+
+---
+
+## Hilo baseball, softball sweep Kea‘au; Ka‘u outlasts Kohala
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>Baseball</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/sports/hilo-baseball-softball-sweep-keaau-kau-outlasts-kohala/>
+
+---
+
+## Haili juniors tournament concludes
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>The juniors segment of the 64th annual Haili Volleyball Tournament came to a close, as the top two teams of each of the eight divisions clashed on Wednesday night at Afook-Chinen Civic Auditorium.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/sports/haili-juniors-tournament-concludes/>
+
+---
+
+## Paris Olympics soccer draw: United States women face Germany and Australia. Men meet France
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>PARIS (AP) &#8212; The United States women&#8217;s soccer team will face Germany and Australia at the Paris Olympics when incoming coach Emma Hayes looks to get off to a flying start in the job. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/sports/paris-olympics-soccer-draw-united-states-women-face-germany-and-australia-men-meet-france/>
+
+---
+
+## NFL competition committee proposes a ban on hip-drop tackles and a radical change to kickoffs
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>The NFL competition committee is proposing a rule to penalize so-called &#8220;hip-drop&#8221; tackles and a radical change to kickoffs to add more returns without compromising safety. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/sports/nfl-competition-committee-proposes-a-ban-on-hip-drop-tackles-and-a-radical-change-to-kickoffs/>
+
+---
+
+## No explosives found at Seoul stadium in police search following bomb threat against Ohtani
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL, South Korea (AP) &#8212; South Korean police said they&#8217;ve found no explosives at Seoul&#8217;s Gocheok Sky Dome after searching the site Wednesday following a reported bomb threat against Los Angeles Dodgers star Shohei Ohtani. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/sports/no-explosives-found-at-seoul-stadium-in-police-search-following-bomb-threat-against-ohtani/>
+
+---
+
+## 1 of the few remaining survivors of the attack on Pearl Harbor has died at 102
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8212; Richard C. &#8220;Dick&#8221; Higgins, one of the few remaining survivors of the Japanese attack on Pearl Harbor, has died, a family member said Wednesday. He was 102.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/hawaii-news/1-of-the-few-remaining-survivors-of-the-attack-on-pearl-harbor-has-died-at-102/>
+
+---
+
+## Federal Reserve still foresees 3 interest rate cuts this year despite bump in inflation
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Federal Reserve officials signaled Wednesday that they still expect to cut their key interest rate three times in 2024, fueling a rally on Wall Street, despite signs that inflation remained elevated at the start of the year.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/nation-world-news/federal-reserve-still-foresees-3-interest-rate-cuts-this-year-despite-bump-in-inflation/>
+
+---
+
+## After a long career, Hilo’s Alan Fijimoto went from treating mouths to feeding them
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>A painful, disabling condition caused Hilo dentist Alan Fujimoto to retire several years ago after decades of practice.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/hawaii-news/after-a-long-career-hilos-alan-fijimoto-went-from-treating-mouths-to-feeding-them/>
+
+---
+
+## ‘Clean elections’ measure dead: House committee chair says it lacked ‘the necessary resources’
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>A proposed program that would publicly finance election campaigns in Hawaii is dead after a Big Island lawmaker concluded last week that the plan was fatally flawed.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/hawaii-news/clean-elections-measure-dead-house-committee-chair-says-it-lacked-the-necessary-resources/>
+
+---
+
+## Fire forces closure of popular Pahoa eatery Pele’s Kitchen
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>Pele&#8217;s Kitchen, a popular Pahoa breakfast spot, has closed indefinitely after a fire damaged the restaurant Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/hawaii-news/fire-forces-closure-of-popular-pahoa-eatery-peles-kitchen/>
+
+---
+
+## Biden administration announces rule aimed at expanding electric vehicles
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>The Biden administration on Wednesday issued one of the most significant climate regulations in the nation&#8217;s history, a rule designed to ensure that the majority of new passenger cars and light trucks sold in the United States are all-electric or hybrids by 2032.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/nation-world-news/biden-administration-announces-rule-aimed-at-expanding-electric-vehicles/>
+
+---
+
+## Florida settlement illuminates MAGA strategy
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>In a federal court settlement last week, Florida Gov. Ron DeSantis&#8217; signature &#8220;don&#8217;t say gay&#8221; law &#8212; which cost the state millions in business and led to the governor attempting to subjugate a noncompliant Disney &#8212; was dealt a significant blow. This comes as the legislature abandoned more than 20 other anti-LGBTQ bills in a sign of a changing tide.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/opinion/florida-settlement-illuminates-maga-strategy/>
+
+---
+
+## The difference between a Trump victory and a Biden victory
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>It&#8217;s impossible to predict with confidence who will win the presidency of the United States in November 2024.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/opinion/the-difference-between-a-trump-victory-and-a-biden-victory/>
+
+---
+
+## Hiring booms at SpaceX and Blue Origin making it hard for NASA to attract talent
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>SpaceX and Blue Origin LLC are competing to launch satellites and take humans to the moon. They are also paying big salaries to hire so many young and tireless engineers that old-line aerospace employers like Boeing Co. and NASA are finding it harder to fill positions. Most aerospace students really covet jobs at SpaceX and Blue Origin, recruiters say. The private firms are run by two of the three richest men in the world, Elon Musk and Jeff Bezos, who ultimately imagine people living and working in Earth&#8217;s orbit and on the surface of Mars. Their private firms also often pay more than established space operations. SpaceX is currently listing starting aerospace engineer positions at $95,000 to $115,000 a year. NASA, which follows the federal government&#8217;s General Schedule pay scales, offers starting salaries along a range that starts at $54,557 for engineers with bachelor&#8217;s degrees, $66,731 for master&#8217;s degrees and $73,038 for doctorates at the Kennedy Space Center in Florida.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/nation-world-news/hiring-booms-at-spacex-and-blue-origin-making-it-hard-for-nasa-to-attract-talent/>
+
+---
+
+## Republicans make last-ditch request for Biden to testify as impeachment inquiry winds down
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (AP) &#8212; The House impeachment inquiry into President Joe Biden is all but winding down, lacking the political appetite from within the Republican ranks to go forward with an actual impeachment, but facing political pressure to deliver after months of work.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/nation-world-news/republicans-make-last-ditch-request-for-biden-to-testify-as-impeachment-inquiry-winds-down/>
+
+---
+
+## M. Emmet Walsh, unforgettable character actor from ‘Blood Simple,’ ‘Blade Runner,’ dies at 88
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; M. Emmet Walsh, the character actor who brought his unmistakable face and unsettling presence to films including &#8220;Blood Simple&#8221; and &#8220;Blade Runner,&#8221; has died at age 88, his manager said Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/nation-world-news/m-emmet-walsh-unforgettable-character-actor-from-blood-simple-blade-runner-dies-at-88/>
+
+---
+
+## AP finds grueling conditions in Indian shrimp industry that report calls ‘dangerous and abusive’
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>The Associated Press traveled in February to the state of Andhra Pradesh in southeast India to document working conditions in the booming shrimp industry, after obtaining an advance copy of an investigation released Wednesday by the Chicago-based Corporate Accountability Lab, a human rights legal group, that found workers face &#8220;dangerous and abusive conditions.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/nation-world-news/ap-finds-grueling-conditions-in-indian-shrimp-industry-that-report-calls-dangerous-and-abusive/>
+
+---
+
+## Your Views for March 21
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>Privatizing Medicare&#0010;would hurt millions</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/opinion/your-views-for-march-21-7/>
+
+---
+
+## Judge clears way for Trump to appeal ruling keeping Fani Willis on Georgia 2020 election case
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA &#8212; The judge overseeing the Georgia 2020 election interference case cleared the way Wednesday for Donald Trump and other defendants to appeal a ruling allowing Fulton County District Attorney Fani Willis to remain on the prosecution.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/nation-world-news/judge-clears-way-for-trump-to-appeal-ruling-keeping-fani-willis-on-georgia-2020-election-case/>
+
+---
+
+## Court action on Texas’ migrant arrest law leads to confusion at the US-Mexico border
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>McALLEN, Texas &#8212; A dizzying volley of courtroom maneuvers over a Texas law that would allow the state to arrest and deport people who enter the U.S. illegally sowed confusion at the nation&#8217;s border with Mexico on Wednesday as sheriffs, police chiefs and migrants waited for direction.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/nation-world-news/court-action-on-texas-migrant-arrest-law-leads-to-confusion-at-the-us-mexico-border/>
+
+---
+
+## Idaho police search for escaped inmate and accomplice after ambush at Boise hospital
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>(AP) &#8212; A white supremacist Idaho prison gang member and an accomplice remained on the loose Wednesday after the accomplice staged a brazen overnight attack to free the inmate as he was being transported from a Boise hospital, police said.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/nation-world-news/idaho-police-search-for-escaped-inmate-and-accomplice-after-ambush-at-boise-hospital/>
+
+---
+
+## Obituaries for March 21
+
+date: 2024-03-21, from: Hawaii Tribune Harold
+
+
+				<p>Stanley &#8220;Stan da Man&#8221; Kalehiwa Kelekolio, 53, of Hilo died March 9 at Hilo Medical Center. Born in Hilo, he was a in-studio broadcast producer for KPUA sports, DJ at KAHU radio, Kamehameha Schools cafeteria staff, owner and operator of his mobile disco, DJ at The Pali room and Breakwater nightclubs, and member of The Church of Jesus Christ of Latter-day Saints and The Ohuohu St. Kava gang. Visitation 9-11 a.m. Saturday, March 30, at Dodo Mortuary Chapel. Brief program to follow. Survived by brother, David (Chelle) Kelekolio of Hilo; sister, Dawnaree (Glenn) Arnold of Puna; sisters-in-law, Denise Kelekolio of Hilo and Ilka (Christian) Kaiwi; brother-in-law, Lawrence (Angela) Fong; nieces, nephews, cousins and extended family. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/21/obituaries/obituaries-for-march-21-10/>
+
+---
+
+## Public Health asks community to answer immunization survey
+
+date: 2024-03-21, from: Guam Daily Post
+
+The 2024 National Immunization Survey will take place in April, said Department of Public Health and Social Services officials, who asked the public to answer the call. 
+
+<https://www.postguam.com/news/local/public-health-asks-community-to-answer-immunization-survey/article_2c3f4fd6-e72d-11ee-a769-03053038521a.html>
+
+---
+
+## PBS Guam Read-A-Thon awards ceremony to be held Saturday
+
+date: 2024-03-21, from: Guam Daily Post
+
+The PBS Guam Read-A-Thon Awards Ceremony will be held from 11 a.m. to 2 p.m. Saturday at the Micronesia Mall Center Court, PBS Guam announced recently in a press release. The event is a celebration of literacy, dedication and achievement… 
+
+<https://www.postguam.com/news/local/pbs-guam-read-a-thon-awards-ceremony-to-be-held-saturday/article_d81139ac-e596-11ee-819a-77346010719f.html>
+
+---
+
+## 400 kids participate in STEM charter school’s science fair
+
+date: 2024-03-21, from: Guam Daily Post
+
+For four days, 400 students at a STEM-driven middle school in Tiyan showcased a diverse array of topics and experiments in the schoolwide science fair recently, the school announced in a press release. 
+
+<https://www.postguam.com/news/local/400-kids-participate-in-stem-charter-school-s-science-fair/article_ba6eb0a0-e717-11ee-b36e-7b321ec37080.html>
+
+---
+
+## San Nicolas, Cali triumph in March King and Prince bowling tournament
+
+date: 2024-03-21, from: Guam Daily Post
+
+There was no denying Ray San Nicolas and CJ Cali the March Budweiser King and Prince of the Lanes titles last Sunday at Central Lanes Bowling Center in Tamuning. 
+
+<https://www.postguam.com/sports/local/san-nicolas-cali-triumph-in-march-king-and-prince-bowling-tournament/article_42549974-e706-11ee-9f97-73a8aae92e6c.html>
+
+---
+
+## Bill allows GovGuam sick leave to take care of extended family
+
+date: 2024-03-21, from: Guam Daily Post
+
+Sen. Joe San Agustin has introduced legislation expanding the situations in which government employees can take sick leave. The purpose of the bill is to align the definition of immediate family member with the community and family-centric ideals in Guam… 
+
+<https://www.postguam.com/news/local/bill-allows-govguam-sick-leave-to-take-care-of-extended-family/article_3ebd6922-e692-11ee-b01d-6bda832e8264.html>
+
+---
+
+## Special Olympics event will kick off with 15-mile run
+
+date: 2024-03-21, from: Guam Daily Post
+
+The Special Olympics Guam organization announced the highly anticipated 48th Annual track and field event, scheduled to take place Saturday at Okkodo High School in Dededo. 
+
+<https://www.postguam.com/sports/local/special-olympics-event-will-kick-off-with-15-mile-run/article_792c34f2-e701-11ee-bbee-f7ac59eca4e0.html>
+
+---
+
+## A member of homicide victim's family asks that charges against defendant be dropped
+
+date: 2024-03-21, from: Guam Daily Post
+
+A relative of the victim in a case charged as murder has asked the Office of the Attorney General to drop charges against a suspect accused in a fatal stabbing. 
+
+<https://www.postguam.com/news/local/a-member-of-homicide-victims-family-asks-that-charges-against-defendant-be-dropped/article_28f17b84-e727-11ee-8240-8bd585f4c3c4.html>
+
+---
+
+## Election-related bill sent back to committee amid reservations
+
+date: 2024-03-21, from: Guam Daily Post
+
+Lawmakers resumed debate Thursday morning on Bill 233-37, one of the various election-related measures placed onto the agenda this session. But with Guam now well into the election year, several senators raised concerns over the timing of the bill or… 
+
+<https://www.postguam.com/news/local/election-related-bill-sent-back-to-committee-amid-reservations/article_387f7f0e-e742-11ee-856b-8f32e0d0b3c4.html>
+
+---
+
+## GDOE chief Swanson receives low marks from Guam Education Board after 6 months on job
+
+date: 2024-03-21, from: Guam Daily Post
+
+Guam Department of Education Superintendent Erik Swanson needs to improve his performance, based on a performance evaluation of his first six months on the job. 
+
+<https://www.postguam.com/news/local/gdoe-chief-swanson-receives-low-marks-from-guam-education-board-after-6-months-on-job/article_aefb7a60-e73e-11ee-a283-73c3a44c6cf9.html>
+
+---
+
+## Charter school proposes to use H-1B visa program to fill teacher vacancies
+
+date: 2024-03-21, from: Guam Daily Post
+
+The Guahan Academy Charter School board has a few vacant teacher positions that it has found hard to fill as a result of the nationwide teacher shortage, but the board’s chair believes that sourcing abroad could help fill the school’s… 
+
+<https://www.postguam.com/news/local/charter-school-proposes-to-use-h-1b-visa-program-to-fill-teacher-vacancies/article_8302e6d6-e73a-11ee-b3d7-5b254ddc24c9.html>
+
+---
+
+## Convict to serve 3 more years for molesting 12-year-old boy
+
+date: 2024-03-21, from: Guam Daily Post
+
+A man who pleaded guilty to molesting a 12-year-old boy while high on methamphetamine will spend three more years in prison. 
+
+<https://www.postguam.com/news/local/convict-to-serve-3-more-years-for-molesting-12-year-old-boy/article_b90f317e-e728-11ee-bf26-cb6eab1ce43a.html>
+
+---
+
+## Suspects in armed carjacking at Oka Pay-Less charged
+
+date: 2024-03-21, from: Guam Daily Post
+
+Two men are facing criminal charges connected related to an armed carjacking at Oka Pay-Less on Tuesday afternoon. 
+
+<https://www.postguam.com/news/suspects-in-armed-carjacking-at-oka-pay-less-charged/article_2df0705e-e74a-11ee-9c17-67aa8b9384d1.html>
+
+---
+
+## Israeli military says it killed 90 gunmen at Gaza's Al Shifa hospital
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+JERUSALEM/CAIRO (Reuters) — Israel's military said on Wednesday it had killed around 90 gunmen and arrested 160 in a raid on Gaza's Al Shifa hospital, an allegation the Islamist Hamas group denied. 
+
+<https://www.mvariety.com/news/israeli-military-says-it-killed-90-gunmen-at-gazas-al-shifa-hospital/article_2e8575a2-e752-11ee-9680-0f78d6a14e79.html>
+
+---
+
+## Shein to market supply-chain infrastructure to global brands, WSJ reports
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+(Reuters) — China-founded fast-fashion company Shein will make its supply-chain infrastructure and technology available to global brands, the Wall Street Journal reported on Wednesday, citing a letter to investors from Executive Chairman Donald Tang. 
+
+<https://www.mvariety.com/business/shein-to-market-supply-chain-infrastructure-to-global-brands-wsj-reports/article_f5626760-e74e-11ee-95a9-6b57f9dbd67d.html>
+
+---
+
+## Google defends Digital Markets Act changes, cites complex trade-offs
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+BRUSSELS (Reuters) — Alphabet's Google on Thursday will seek to fend off criticism about changes to its core services mandated by landmark EU tech rules, according to a copy of a senior Google executive's speech seen by Reuters. 
+
+<https://www.mvariety.com/business/google-defends-digital-markets-act-changes-cites-complex-trade-offs/article_d0f5d6ec-e74d-11ee-b498-43b310f91eb8.html>
+
+---
+
+## US lawmakers ask Biden administration to increase tariffs on Chinese-made drones
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+WASHINGTON (Reuters) — A bipartisan group of U.S. lawmakers on Wednesday asked the Biden administration to impose higher tariffs on Chinese drones, including those shipped from other countries, and new incentives to boost U.S. drone manufacturers. 
+
+<https://www.mvariety.com/news/national/us-lawmakers-ask-biden-administration-to-increase-tariffs-on-chinese-made-drones/article_7f1fbc0c-e74d-11ee-b635-473c1545b9b8.html>
+
+---
+
+## Legal spending by Trump group accelerated in February, disclosures show
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+WASHINGTON (Reuters) — A fundraising group run by Donald Trump, who is facing four criminal trials as he seeks the U.S. presidency, stepped up spending on legal fees last month, further draining money from efforts to return him to the White House, financial disclosures showed on Wednesday. 
+
+<https://www.mvariety.com/news/national/legal-spending-by-trump-group-accelerated-in-february-disclosures-show/article_2418d8b6-e74d-11ee-881b-dbd042197845.html>
+
+---
+
+## US-organized helicopter flights begin carrying Americans from Haiti
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+WASHINGTON (Reuters) — U.S. government-chartered helicopter flights began carrying American citizens from the Haitian capital Port-au-Prince on Wednesday amid rising violence, the State Department said, with a first flight transporting more than 15 people to Santo Domingo in the Dominican Republic. 
+
+<https://www.mvariety.com/news/national/us-organized-helicopter-flights-begin-carrying-americans-from-haiti/article_ab2fc32e-e74c-11ee-a804-6391159b69cf.html>
+
+---
+
+## Radewagen: 'National security is only as good as  quality of care for veterans' 
+
+date: 2024-03-21, from: Pacific Island Times
+
+By Pacific Island Times News Staff Rep. Uifa’atali Amata Radewagen, American Samoa's delegate to the U.S. Congress, vowed to prioritize... 
+
+<https://www.pacificislandtimes.com/post/radewagen-national-security-is-only-as-good-as-quality-of-care-for-veterans>
+
+---
+
+## Voice of forgotten fishermen
+
+date: 2024-03-21, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON Setsuko Shimomoto is an unusual advocate for a little known nuclear exposure problem. She didn’t discover that her father had been exposed to Bravo hydrogen bomb test fallout while fishing in the waters of the Marshall Islands until over 30 years after the 1954 Bravo test, and then only because a high school [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/voice-of-forgotten-fishermen/">Voice of forgotten fishermen</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/voice-of-forgotten-fishermen/>
+
+---
+
+## National award for Leeward CC professional development program Kawaimanomano
+
+date: 2024-03-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Kawaimanomano (The Many Waters) developed at Leeward <abbr>CC</abbr>, could now help community colleges across the nation.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/20/national-award-for-leeward-cc-kawaimanomano/">National award for Leeward <abbr>CC</abbr> professional development program Kawaimanomano</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/20/national-award-for-leeward-cc-kawaimanomano/>
+
+---
+
+## Home is Here Hawaiʻi Walls
+
+date: 2024-03-21, from: Home is Here
+
+<p>The Hawai‘i Walls festival started in 2011 under the name Pow!Wow! Hawai‘i...</p>
+<p>The post <a href="https://www.pbshawaii.org/home-is-here-hawai%ca%bbi-walls/">Home is Here &lt;br/&gt;Hawaiʻi Walls</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/home-is-here-hawai%ca%bbi-walls/>
+
+---
+
+## Capturing Hapi Isles Tourism through Photography: Papa Paza
+
+date: 2024-03-20, from: University of the South Pacific (Fiji)
+
+<p>Papa Paza, just a village kid as his social media handles read, graduated from The...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/capturing-hapi-isles-tourism-through-photography-papa-paza/">Capturing Hapi Isles Tourism through Photography: Papa Paza</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/capturing-hapi-isles-tourism-through-photography-papa-paza/>
+
+---
+
+## John gets Nitijela nod
+
+date: 2024-03-20, from: Marshal Islands Journal
+
+<p>The appointment resolution for former Nitijela Member John Silk as Marshall Islands Ambassador to the United Nations was introduced in Parliament Monday. Parliament members unanimously passed the resolution without contest to appoint the former Ebon Parliament Member to the UN post. Silk has been a special consultant to President Hilda Heine since she took office [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/john-gets-nitijela-nod/">John gets Nitijela nod</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/john-gets-nitijela-nod/>
 
 ---
 

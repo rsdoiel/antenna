@@ -1,11 +1,81 @@
 ---
 title: motorcycles 2024.12
-updated: 2024-03-20 08:33:59
+updated: 2024-03-21 08:51:51
 ---
 
 # motorcycles 2024.12
 
-(date: 2024-03-20 08:33:59)
+(date: 2024-03-21 08:51:51)
+
+---
+
+## Bell’s Broozer Helmet Gains ECE 22.06 Certification
+
+date: 2024-03-21, from: Ride Apart, Electric Motorcycle News
+
+A versatile, retro-themed lid that doesn’t skimp on safety one bit.  
+
+<https://www.rideapart.com/news/712375/2024-bell-broozer-ece-2206/>
+
+---
+
+## 2024 LiveWire S2 Mulholland First Look
+
+date: 2024-03-21, from: Cycle World News
+
+The 2024 LiveWire S2 Mulholland is the company’s first all-electric cruiser and the second model built on its more affordable S2 platform. 
+
+<https://www.cycleworld.com/bikes/livewire-s2-mulholland-first-look/>
+
+---
+
+## Watch an 800HP Twin-Turbocharged Hayabusa-Powered Go-Kart Scream To Life
+
+date: 2024-03-21, from: Ride Apart, Electric Motorcycle News
+
+The compound-turbo beast is almost ready to rip.  
+
+<https://www.rideapart.com/news/713051/800hp-suzuki-hayabusa-go-kart-video-watch/>
+
+---
+
+## How Much Power Does the 2024 Kawasaki Eliminator SE Make?
+
+date: 2024-03-21, from: Cycle World News
+
+The 2024 Kawasaki Eliminator SE gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower. 
+
+<https://www.cycleworld.com/bikes/kawasaki-eliminator-se-dyno-test-2024/>
+
+---
+
+## Husqvarna’s 2024 Svartpilen 801 Is Finally Here
+
+date: 2024-03-20, from: Cycle World News
+
+Husqvarna reimagines its scrambler-inspired middleweight as the Svartpilen 801, with more power, new electronics, and fresh styling. 
+
+<https://www.cycleworld.com/bikes/husqvarna-svartpilen-801-first-look/>
+
+---
+
+## Do We Really Need A Gimbal-Mounted Headlight On Our Motorcycles?
+
+date: 2024-03-20, from: Ride Apart, Electric Motorcycle News
+
+BMW certainly thinks so.  
+
+<https://www.rideapart.com/news/713050/bmw-motorrad-gimbal-mounted-headlight/>
+
+---
+
+## This Is The Only Snowmobile Designed By Pininfarina, And It's Electric
+
+date: 2024-03-20, from: Ride Apart, Electric Motorcycle News
+
+Meet Vidde, the Swedish electric snowmobile startup out to keep more than just the snow clean. 
+
+<https://www.rideapart.com/news/712652/vidde-alfa-snowmobile-pininfarina-design/>
 
 ---
 
