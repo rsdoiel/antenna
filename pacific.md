@@ -1,11 +1,210 @@
 ---
 title: pacific 2024.12
-updated: 2024-03-21 08:51:51
+updated: 2024-03-21 17:10:35
 ---
 
 # pacific 2024.12
 
-(date: 2024-03-21 08:51:51)
+(date: 2024-03-21 17:10:35)
+
+---
+
+## UH West Oʻahu esports team wins 1st title
+
+date: 2024-03-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span>  <abbr>UH West</abbr> <span aria-label="Oahu’s">O&#699;ahu’s</span> Pueo Gaming esports club has a collegiate trophy.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/21/uh-west-oahu-esports-team-wins-title/"><abbr>UH</abbr> West Oʻahu esports team wins 1st title</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/21/uh-west-oahu-esports-team-wins-title/>
+
+---
+
+## Rainbow Wahine earns first Big West Field Athlete of the Week honor
+
+date: 2024-03-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Tara Wyllie began the outdoor season by posting the 8th best triple jump mark in the country at 12.69m (41-7.75).</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/21/wyllie-big-west-field-athlete-of-the-week/">Rainbow Wahine earns first Big West Field Athlete of the Week honor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/21/wyllie-big-west-field-athlete-of-the-week/>
+
+---
+
+## Military begins relocation process for wildlife refuge on Guam
+
+date: 2024-03-21, from: Pacific Island Times
+
+By Pacific Island Times News Staff Plans are afoot for the relocation of the wildlife refuge in Ritidian, which is currently located... 
+
+<https://www.pacificislandtimes.com/post/military-begins-relocation-plan-for-wildlife-refuge-on-guam>
+
+---
+
+## March President’s BOR report: FAFSA issues, broadband initiatives
+
+date: 2024-03-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> President Lassner also discussed some of the findings in the <span aria-label="Hawaii">Hawai&#699;i</span> College and Career Readiness Indicators Report.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/21/march-president-bor-report/">March President’s <abbr>BOR</abbr> report: <abbr>FAFSA</abbr> issues, broadband initiatives</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/21/march-president-bor-report/>
+
+---
+
+## UH solar plan looks to energize Mānoa campus
+
+date: 2024-03-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> The plan incorporates <abbr>PV</abbr> over parking structures, walkways, rooftops and throughout buildings across the M&#257;noa campus.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/21/solar-plan-manoa-campus/"><abbr>UH</abbr> solar plan looks to energize Mānoa campus</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/21/solar-plan-manoa-campus/>
+
+---
+
+## Local VIPs use tax $$$
+
+date: 2024-03-21, from: Marshal Islands Journal
+
+<p>Journal 3/20/1987 P3 ‘Loans’ not repaidMore members of the Majuro Atoll Local Government took the stand in court this week and confirmed that airport tax money was used as loans for MALGov members. P11 Canvasback catamaran providing services to Wotje, MaloelapLast week, the Catamaran belonging to the Canvasback organization called in at Majuro briefly before [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/local-vips-use-tax/">Local VIPs use tax $$$</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/local-vips-use-tax/>
+
+---
+
+## BOR awards honorary doctorates to music, cultural leaders
+
+date: 2024-03-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> The awardees are Gerald (Jerry) K. Santos, Fred Kalani Meinecke and Michael D. Nakasone.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/21/honorary-doctorates-santos-meinecke-nakasone/"><abbr>BOR</abbr> awards honorary doctorates to music, cultural leaders</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/21/honorary-doctorates-santos-meinecke-nakasone/>
+
+---
+
+## 2806 Cloverleaf
+
+date: 2024-03-21, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Anthony Otten With you and your dad gone, I live in the quiet. Mostly I’m fine with it. When I want my conversation fix I sit in my wicker chair on the porch, like I am today, and wait &#8230; <a href="https://hawaiipacificreview.org/2024/03/21/2806-cloverleaf/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/03/21/2806-cloverleaf/>
+
+---
+
+## Joeten launches fundraiser for Team Marianas
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+STAUNCH NMI sports supporter Joeten has once again stepped up to assist athletes and officials by launching a fundraiser for the benefit the Team Marianas that will be competing in the Micronesian Games 2024 in the Marshall Islands this summer. 
+
+<https://www.mvariety.com/sports/localsports/joeten-launches-fundraiser-for-team-marianas/article_5da87330-e751-11ee-953a-4b4cb49bbc7d.html>
+
+---
+
+## McDonald’s of Saipan offers $3K hole-in-one prize at NMC Golf Open
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+(NMC) — In support of funding higher education in the CNMI, McDonald’s of Saipan will offer a $3,000 hole-in-one cash prize at the Northern Marianas College Foundation Golf Open on March 23 and 24, 2024 at LaoLao Bay Golf and Resort. 
+
+<https://www.mvariety.com/sports/localsports/mcdonald-s-of-saipan-offers-3k-hole-in-one-prize-at-nmc-golf-open/article_e66d274e-e74f-11ee-932b-e34b64197fcf.html>
+
+---
+
+## Ohtani and Yamamoto are unbelievable in any language. Japanese has several words for them
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+SEOUL, South Korea (AP) — If you’re a fan of the Los Angeles Dodgers’ billion-dollar duo of Shohei Ohtani and Yoshinobu Yamamoto, you might want to learn a couple of Japanese adjectives. 
+
+<https://www.mvariety.com/sports/nationalsports/ohtani-and-yamamoto-are-unbelievable-in-any-language-japanese-has-several-words-for-them/article_4403e28c-e785-11ee-b661-e7caafcccab8.html>
+
+---
+
+## BBJ Fitness Corner ǀ Rhythm & flow
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+WE sometimes lose sight of the reason why we do what we do, which usually results in our falling off the wagon. However, when we are enjoying the activity, then it doesn’t feel like a chore. 
+
+<https://www.mvariety.com/sports/localsports/bbj-fitness-corner-rhythm-flow/article_39e38a16-e74c-11ee-ac86-2f6deaf60383.html>
+
+---
+
+## CNMI local earns top healthcare management credential
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+DOCTOR Cindy Pangelinan Hoepner DHSc, MBA, CPHQ, CPPS, CHC, CMQOE, CQIA, FACHE, recently became a Fellow of the American College of Healthcare Executives, the nation’s leading professional society for healthcare leaders. 
+
+<https://www.mvariety.com/news/local/cnmi-local-earns-top-healthcare-management-credential/article_d9acc2e0-e75d-11ee-b4f2-4789c819d97d.html>
+
+---
+
+## Laly 4 restrooms reopened to public
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+NOW that its broken water pipes have been fixed, the Laly 4 public restrooms are open again to the public, community volunteer Max Aguon said. 
+
+<https://www.mvariety.com/news/local/laly-4-restrooms-reopened-to-public/article_73f873c2-e771-11ee-88b1-7b2c68b5553c.html>
+
+---
+
+## 4 sentenced for reckless driving, 7 for DUI
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+SUPERIOR Court Associate Judge Kenneth L. Govendo recently sentenced seven individuals for driving under the influence of alcohol or DUI, and four others for reckless driving. 
+
+<https://www.mvariety.com/news/local/4-sentenced-for-reckless-driving-7-for-dui/article_9fc8f02c-e757-11ee-95e8-8f233edd1cb1.html>
+
+---
+
+## Cruz, Camacho remain on top in round 2
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+AFTER two rounds, Aric Cruz and Christian Camacho are leading their respective classes in the Marianas Racing Association’s “Moto IV” 2024 Points Race Series at Cowtown Raceway Park. 
+
+<https://www.mvariety.com/sports/localsports/cruz-camacho-remain-on-top-in-round-2/article_9fa30ca2-e77c-11ee-8876-0304ef320bca.html>
+
+---
+
+## Former negotiator highlights uniqueness of Covenant
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+THE Covenant’s legacy has been “very … satisfactory” to the CNMI, former Lt. Gov. Pete A. Tenorio said on Thursday. 
+
+<https://www.mvariety.com/news/local/former-negotiator-highlights-uniqueness-of-covenant/article_dcec89ca-e76e-11ee-bc72-e7569f0a6991.html>
+
+---
+
+## NBA roundup: Celtics top Bucks, win 7th straight
+
+date: 2024-03-21, updated: 2024-03-21, from: Marianas Variety
+
+(Reuters) — Jayson Tatum had 31 points and eight rebounds to help the Boston Celtics extend their winning streak to seven games with a 122-119 victory over the visiting Milwaukee Bucks on Wednesday night. 
+
+<https://www.mvariety.com/sports/nationalsports/nba-roundup-celtics-top-bucks-win-7th-straight/article_fa1047d8-e784-11ee-9d4a-87da25c9a2b1.html>
+
+---
+
+## Vets treat Majuro animals
+
+date: 2024-03-21, from: Marshal Islands Journal
+
+<p>The name RMI Love Animals was beautifully personified by the very team conducting pet treatments in Majuro this week as witnessed by their overall compassion toward the pets. The entire team, although broke down into several stations, functions with utmost compassion toward all the animals regardless of size, breed or status (pet or stray.) The [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/vets-treat-majuro-animals/">Vets treat Majuro animals</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/vets-treat-majuro-animals/>
 
 ---
 

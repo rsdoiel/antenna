@@ -1,11 +1,101 @@
 ---
 title: games 2024.12
-updated: 2024-03-21 08:51:51
+updated: 2024-03-21 17:10:36
 ---
 
 # games 2024.12
 
-(date: 2024-03-21 08:51:51)
+(date: 2024-03-21 17:10:36)
+
+---
+
+## 4 things to know before you see Ghostbusters: Frozen Empire
+
+date: 2024-03-21, updated: 2024-03-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24106960/ghostbusters-frozen-empire-post-credits-sequel-plans-bill-murray>
+
+---
+
+## The 3-body problem is real, and it’s really unsolvable
+
+date: 2024-03-21, updated: 2024-03-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24105247/3-three-body-problem-what-why-unsolvable-netflix-liu-cixin>
+
+---
+
+## GTA Online update for the week of March 21
+
+date: 2024-03-21, updated: 2024-03-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events>
+
+---
+
+## House of the Dragon is forcing you to pick a side with its season 2 trailers
+
+date: 2024-03-21, updated: 2024-03-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24107923/house-dragon-game-thrones-trailer-red-black-team>
+
+---
+
+## Larian Studios won’t make any more Baldur’s Gate games
+
+date: 2024-03-21, updated: 2024-03-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24107939/baldurs-gate-3-larian-studios-no-more-dnd-wizards-of-the-coast>
+
+---
+
+## Get nine years of Earth Defense Force games for $18 at Humble
+
+date: 2024-03-21, updated: 2024-03-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24107779/earth-defense-force-humble-bundle-deal-sale>
+
+---
+
+## The 23 best PlayStation 5 games
+
+date: 2024-03-21, updated: 2024-03-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5>
+
+---
+
+## A New Video Plus about New Game Plus
+
+date: 2024-03-21, updated: 2024-03-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/videos/24106724/new-game-plus-nier-starfield-dragons-dogma>
+
+---
+
+## The Halo TV show blew through all its best lore in the season 2 finale, and it was kind of worth it
+
+date: 2024-03-21, updated: 2024-03-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24107879/halo-tv-show-season-2-finale-review-flood>
 
 ---
 

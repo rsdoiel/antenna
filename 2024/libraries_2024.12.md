@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.12
-updated: 2024-03-21 08:51:51
+updated: 2024-03-21 17:10:36
 ---
 
 # libraries 2024.12
 
-(date: 2024-03-21 08:51:51)
+(date: 2024-03-21 17:10:36)
 
 ---
 
@@ -23,7 +23,7 @@ Hannigan, Brett C.; Cuthbert, Tyler; Ahmadizadeh, Chakaveh; Menon, Carlo
 
 date: 2024-03-21, from: Standard Ebooks, new releaases
 
-Keyes presents a first-hand account of the 1919 Paris Peace Conference and an analysis of the resulting Versailles treaty. 
+Keynes presents a first-hand account of the 1919 Paris Peace Conference and an analysis of the resulting Versailles treaty. 
 
 <https://standardebooks.org/ebooks/john-maynard-keynes/the-economic-consequences-of-the-peace>
 

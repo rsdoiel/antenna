@@ -1,11 +1,81 @@
 ---
 title: motorcycles 2024.12
-updated: 2024-03-21 08:51:51
+updated: 2024-03-21 17:10:36
 ---
 
 # motorcycles 2024.12
 
-(date: 2024-03-21 08:51:51)
+(date: 2024-03-21 17:10:36)
+
+---
+
+## How Much Power Does the 2024 Kawasaki Eliminator SE Make?
+
+date: 2024-03-22, from: Cycle World News
+
+The 2024 Kawasaki Eliminator SE gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower. 
+
+<https://www.cycleworld.com/bikes/kawasaki-eliminator-se-dyno-test-2024/>
+
+---
+
+## MV Agusta Hosts Inaugural Ride for International Women’s Day
+
+date: 2024-03-21, from: Cycle World News
+
+The new relationship between KTM and MV Agusta provides a springboard for a cultural shift at the Italian boutique marque. 
+
+<https://www.cycleworld.com/motorcycle-news/mv-agusta-hosts-inaugural-ride-for-international-womens-day/>
+
+---
+
+## Dawson's Creek Stars James Van Der Beek, Kerr Smith Nearly Died on Jetskis
+
+date: 2024-03-21, from: Ride Apart, Electric Motorcycle News
+
+The two used to ride jetskis while filming the show and got into all sorts of shenanigans, including almost dying.  
+
+<https://www.rideapart.com/news/713339/dawsons-creek-james-van-der-beek-kerr-smith-jetski/>
+
+---
+
+## 2024 Rocket 3 Storm First Look
+
+date: 2024-03-21, from: Cycle World News
+
+Triumph has given its Rocket 3 more horsepower and torque with a blacked-out look for 2024. 
+
+<https://www.cycleworld.com/bikes/triumph-rocket-3-storm-first-look/>
+
+---
+
+## Here's Everything You Need to Know About the All-New LiveWire S2 Mulholland
+
+date: 2024-03-21, from: Ride Apart, Electric Motorcycle News
+
+LiveWire's latest is a sleek cruiser-inspired all-electric and we're intrigued.  
+
+<https://www.rideapart.com/news/713337/2024-livewire-s2-mulholland-specs-price-motorcycle-ev/>
+
+---
+
+## Bajaj Is Gearing Up To Launch First CNG Motorcycle
+
+date: 2024-03-21, from: Ride Apart, Electric Motorcycle News
+
+CNG-powered vehicles pose lower costs and improved efficiency versus their gasoline-powered siblings.  
+
+<https://www.rideapart.com/news/712318/bajaj-cng-motorcycle-coming-2024/>
+
+---
+
+## First Win Looms Large for Ford, McDowell at COTA
+
+date: 2024-03-21, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer Is the pressure on Ford and the new Mustang Dark Horse to find victory lane at Circuit of the Americas (COTA)? Chevrolet opened up the&#8230;  
+
+<https://kickinthetires.net/nascar/first-win-looms-large-ford-mcdowell-cota/>
 
 ---
 
@@ -36,16 +106,6 @@ date: 2024-03-21, from: Ride Apart, Electric Motorcycle News
 The compound-turbo beast is almost ready to rip.  
 
 <https://www.rideapart.com/news/713051/800hp-suzuki-hayabusa-go-kart-video-watch/>
-
----
-
-## How Much Power Does the 2024 Kawasaki Eliminator SE Make?
-
-date: 2024-03-21, from: Cycle World News
-
-The 2024 Kawasaki Eliminator SE gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower. 
-
-<https://www.cycleworld.com/bikes/kawasaki-eliminator-se-dyno-test-2024/>
 
 ---
 
@@ -106,16 +166,6 @@ date: 2024-03-19, from: Cycle World News
 Royal Enfield adds variety and quality to its winning INT 650 and Continental GT 650 models for 2024; we take them for a ride to see how they perform. 
 
 <https://www.cycleworld.com/motorcycle-reviews/royal-enfield-int-650-and-continental-gt-650-first-ride/>
-
----
-
-## 2024 Rocket 3 Storm First Look
-
-date: 2024-03-19, from: Cycle World News
-
-Triumph has given its Rocket 3 more horsepower and torque with a blacked-out look for 2024. 
-
-<https://www.cycleworld.com/bikes/triumph-rocket-3-storm-first-look/>
 
 ---
 

@@ -1,11 +1,53 @@
 ---
 title: mid central 2024.12
-updated: 2024-03-21 08:51:51
+updated: 2024-03-21 17:10:35
 ---
 
 # mid central 2024.12
 
-(date: 2024-03-21 08:51:51)
+(date: 2024-03-21 17:10:35)
+
+---
+
+## Fresno State parts ways with Athletic Director Terry Tumey
+
+date: 2024-03-21, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Less than six years after being hired at Fresno State, Athletic Director Terry Tumey and the university have agreed to part ways, first reported by ESPN senior writer Pete Thamel. Fresno State President Saúl Jiménez-Sandoval released a statement on Thursday afternoon: “I want to share with you that Director of Athletics Terry Tumey and I... 
+
+<https://fscollegian.com/2024/03/fresno-state-parts-ways-with-athletic-director-terry-tumey/>
+
+---
+
+## Faith Van Hoven announced ASI president elect for the 2024-25 academic year
+
+date: 2024-03-21, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+ASI President: Faith Van Hoven Faith Van Hoven is officially the Associated Students Inc. president-elect for the 2024-25 academic year after winning this year&#8217;s ASI elections with a 58% majority vote. “I&#8217;m feeling a lot of things right now and I&#8217;m really just excited to get to work on what we said we were going... 
+
+<https://fscollegian.com/2024/03/faith-van-hoven-announced-asi-president-elect-for-the-2024-25-academic-year/>
+
+---
+
+## California may extend financial aid deadline for students impacted by federal delays
+
+date: 2024-03-21, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Students seeking state financial aid have less than two weeks remaining to beat a California deadline, even as thousands have been locked out of completing the federal application necessary to get that state aid — a problem that particularly affects students who are citizens but whose parents are not. Now a prominent state lawmaker, Assemblymember... 
+
+<https://fscollegian.com/2024/03/california-may-extend-financial-aid-deadline-for-students-impacted-by-federal-delays/>
+
+---
+
+## Merced College Brings VR-Enabled Learning Experiences to Students in STEM
+
+date: 2024-03-21, from: Blue Devil News (Merced Community College Student Newspaper)
+
+<p>MERCED, Calif. — Merced College today announced a new partnership with Dreamscape Learn to offer introductory science courses that bring coursework to life through cinematic, immersive, VR-enabled learning experiences. The&#8230;</p>
+<p>The post <a href="https://www.mccd.edu/news/merced-college-brings-vr-enabled-learning-experiences-to-students-in-stem/">Merced College Brings VR-Enabled Learning Experiences to Students in STEM</a> appeared first on <a href="https://www.mccd.edu">Merced College</a>.</p>
+ 
+
+<https://www.mccd.edu/news/merced-college-brings-vr-enabled-learning-experiences-to-students-in-stem/>
 
 ---
 

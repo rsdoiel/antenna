@@ -1,11 +1,34 @@
 ---
 title: writing 2024.12
-updated: 2024-03-21 08:51:51
+updated: 2024-03-21 17:10:36
 ---
 
 # writing 2024.12
 
-(date: 2024-03-21 08:51:51)
+(date: 2024-03-21 17:10:36)
+
+---
+
+## Around the Web: Interviews with Holly Black and Kelly Link; SF/F among The Atlantic’s Great American Novels; Reviews and an Essay by Lisa Tuttle, Charlie Jane Anders, and Michael Dirda
+
+date: 2024-03-21, from: Locus Magazine
+
+<p>» <strong>Slate, Shasha Leonard</strong>, 18 Mar 2024: Two Decades in, the Queen of Faerie Fantasy Is Doing Just Fine, subtitled &#8220;Author Holly Black reflects on the rise of &#8216;romantasy&#8217; novels, explicit sex scenes, and BookTok.&#8221;</p>
+<p>» <strong>The New Yorker, Katy Waldman</strong>, 17 Mar 2024: Kelly Link Is Committed to the Fantastic, subtitled &#8220;The MacArthur-winning author on the worthwhile frivolity of the fantasy genre, how magic is and is  <a href="https://locusmag.com/2024/03/around-the-web-interviews-with-holly-black-and-kelly-link-sf-f-among-the-atlantics-great-american-novels-reviews-and-an-essay-by-lisa-tuttle-charlie-jane-anders-and-michael-dirda/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/03/around-the-web-interviews-with-holly-black-and-kelly-link-sf-f-among-the-atlantics-great-american-novels-reviews-and-an-essay-by-lisa-tuttle-charlie-jane-anders-and-michael-dirda/>
+
+---
+
+## 2024 International Dylan Thomas Prize Shortlist
+
+date: 2024-03-21, from: Locus Magazine
+
+<p>The shortlist for the 2024 International Dylan Thomas Prize has been announced. The six-title list includes <strong>Biography of X</strong> by Catherine Lacey (Granta).</p>
+<div class="mynomorebulletlist">
+<p>The annual Dylan Thomas prize, in partnership with Swansea University, awards £20,000 &#8220;to the best published or produced literary work in the English language, written by an author aged 39 or under.&#8221; This year&#8217;s judges are Tice Cin, Namita Gokhale, Jon Gower, Seán Hewitt, and Julia Wheeler.</p></div> <a href="https://locusmag.com/2024/03/2024-international-dylan-thomas-prize-shortlist/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/03/2024-international-dylan-thomas-prize-shortlist/>
 
 ---
 
@@ -213,6 +236,17 @@ date: 2024-03-19, from: Final Draft blog
 <p><span>Your script should&nbsp;</span><a href="https://blog.finaldraft.com/5-tips-to-making-your-screenplay-look-professional"><span>look as professional as possible</span></a><span>, or industry professionals will likely pass on your script after a cursory read. In addition to using screenwriting software like Final Draft that&nbsp;</span><a href="https://www.finaldraft.com/company/why-screenwriting-software/"><span>formats your script to industry standards</span></a><span>, you should proofread and edit your writing.</span></p> 
 
 <https://blog.finaldraft.com/5-editing-hacks-for-screenwriters>
+
+---
+
+## Is This Person Going to Ruin Everything?
+
+date: 2024-03-19, from: John August blog
+
+John and Craig wring their hands and ask, how do you make sure the person you’re hiring isn’t a monster? They look at best practices for vetting colleagues, sussing out problematic people, and managing your own emotions when you’re the person with power. We also discuss writing for non-native English speakers, using three examples to [&#8230;]
+The post <a href="https://johnaugust.com/2024/is-this-person-going-to-ruin-everything">Is This Person Going to Ruin Everything?</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/is-this-person-going-to-ruin-everything>
 
 ---
 

@@ -1,21 +1,176 @@
 ---
 title: weather 2024.12
-updated: 2024-03-21 08:51:51
+updated: 2024-03-21 17:10:36
 ---
 
 # weather 2024.12
 
-(date: 2024-03-21 08:51:51)
+(date: 2024-03-21 17:10:36)
 
 ---
 
-## SPC - No MDs are in effect as of Thu Mar 21 15:46:02 UTC 2024
+## SPC - No watches are valid as of Thu Mar 21 23:51:02 UTC 2024
 
 date: 2024-03-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Thu Mar 21 15:46:02 UTC 2024. 
+No watches are valid as of Thu Mar 21 23:51:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Thu Mar 21 23:51:02 UTC 2024
+
+date: 2024-03-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Thu Mar 21 23:51:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2024-03-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0343 PM CDT Thu Mar 21 2024
+
+Valid 231200Z - 291200Z
+
+Critical fire weather conditions are anticipated Sunday afternoon
+across portions of the Southern High Plains, and may re-emerge later
+in the upcoming work week. Elsewhere across the country, a
+combination of precipitation chances, cool temperatures, and/or
+unreceptive fuels will limit the potential for widespread fire
+weather concerns. 
+
+...D4/Sunday - Southern High Plains...
+Confidence continues to increase regarding the fire weather
+potential Sunday afternoon as an upper-level trough settles into the
+Four Corners region. Medium to long-range guidance has maintained a
+strong signal for a deepening lee cyclone over the CO/KS region
+Sunday afternoon amid strengthening upper-level flow over the
+central/southern Rockies. This will establish a swath of strong
+southwesterly flow across eastern NM into western TX behind a
+sharpening dryline. The eastern extent of the fire weather threat
+will be conditional on the progression of the dryline by peak
+heating, with some solutions hinting that this boundary may reach
+into western/central OK and north/northwest TX by 21 UTC. 
+
+Relative humidity values may not be quite as low as previous
+critical fire weather events, but most deterministic/ensemble
+solutions (including bias-corrected guidance) hint that RH minimums
+near 20% should be fairly common. ERC values are currently near the
+50th percentile, and light scattered rainfall is noted over western
+TX as of 20 UTC Thursday. However, even with modest RH reductions
+(by southern Plains standards) and marginal ERC values, an excessive
+loading of fine, 1-hour fuels combined with high probability for
+20-30 mph winds and ~20% RH should support a wind-driven fire
+weather concern. Higher risk probabilities have been introduced from
+far southeast NM into western TX to delineate where guidance
+currently indicates the best overlap of the low-level thermal ridge
+and the mid/upper-level jet maximum should occur. This region will
+see the highest potential for sub-20% RH as well as gusts upwards of
+40-60 mph. Further forecast refinements are anticipated as
+confidence in finer-scale details improves. 
+
+Heading into the upcoming work week, more regional fire weather
+concerns may develop across southwest TX and the Rio Grande river
+valley within a dry post-frontal regime. A more robust fire concern
+is beginning to emerge around the D8/Thursday time frame when a
+second upper trough could move into the region. Confidence in
+surface details is too low at this range to introduce risk
+probabilities, but trends will be monitored for this next system.
+
+..Moore.. 03/21/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/exper/fire_wx/>
+
+---
+
+## SPC Mar 21, 2024 2000 UTC Day 1 Convective Outlook
+
+date: 2024-03-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0232 PM CDT Thu Mar 21 2024
+
+Valid 212000Z - 221200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS
+OF NORTH...CENTRAL AND SOUTHEAST TEXAS INTO SOUTHWEST LOUISIANA...
+
+...SUMMARY...
+Isolated strong to severe thunderstorms may produce a few instances
+of hail in the inch to inch-and-a-half range, and locally strong
+gusts across parts of northern and central Texas this through this
+evening. Additional strong storms overnight may produce locally
+strong gusts and small hail across southeast Texas into southwest
+Louisiana.
+
+...20z Update...
+
+The only changes with the 20z update were to adjust the 10 percent
+general thunderstorm probabilities based on latest trends and short
+term guidance. Severe probabilities are unchanged across TX into
+southwest LA. Isolated strong to severe thunderstorms are expected
+to develop through late afternoon and into this evening, posing a
+risk for a few instances of large hail and strong gusts. For more
+information on short term severe potential reference MCD 0267.
+
+While one or more bowing clusters is expected to develop southeast
+toward southeast TX/southwest LA, convection is expected to remain
+elevated given a poor low-level thermodynamic environment and
+increasing boundary-layer inhibition during the nighttime hours.
+This should limit a greater damaging wind risk overnight.
+
+..Leitman.. 03/21/2024
+
+.PREV DISCUSSION... /ISSUED 1126 AM CDT Thu Mar 21 2024/
+
+...Northern and central Texas to southwestern Louisiana...
+Widespread morning convection, and associated/expansive low cloud
+cover, persists per recent radar and visible satellite imagery
+across roughly the eastern half of Texas.  Farther to the
+west/northwest, from the Big Country southward toward the Concho
+Valley, and areas west, lack of cloud cover will permit diurnal
+heating, which -- given 50s dewpoints -- will contribute to modest
+(500 to 1000 J/kg) mixed-layer CAPE this afternoon.  
+
+As ascent associated with the upper disturbance currently moving
+across eastern New Mexico spreads into Texas, expect storms to
+develop -- initially cellularly but then possibly growing upscale
+into eastward-moving bands.  Small hail appears likely, but the
+low-topped nature of the storms, the rather limited CAPE, and
+somewhat marginal deep-layer shear suggests that more intense,
+rotating updrafts may be somewhat difficult to be sustained. 
+Therefore, coverage of severe-caliber hail (likely limited to the
+inch to inch-and-a-half range) should remain isolated.  As such,
+will maintain only MRGL/5% risk at this time.  A few stronger wind
+gusts will also be possible, but likewise it appears that 5%
+probability is appropriate per current expectations.
+
+Storms will spread eastward across eastern Texas overnight, and
+eventually into southwestern Louisiana, but will be moving into
+areas where widespread convection will have occurred, which should
+limit any more appreciable severe potential.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
 
 ---
 
@@ -232,122 +387,6 @@ conditions appear possible in the delineated area Friday afternoon.
  
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## SPC - No watches are valid as of Wed Mar 20 14:03:02 UTC 2024
-
-date: 2024-03-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Wed Mar 20 14:03:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC Day 3-8 Fire Weather Outlook
-
-date: 2024-03-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3-8 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0337 PM CDT Sun Mar 17 2024
-
-Valid 191200Z - 251200Z
-
-A persistent cut-off low across the Southwest will start to advance
-east toward the middle of this week. As this occurs, some light to
-moderate rain is expected across portions of the southern High
-Plains which will further wet fuels which are already mostly moist.
-Next weekend, troughing and strong mid-level flow will resume across
-the Southwest which will lead to warmer temperatures, drying and
-gusty winds across the southern High Plains. There is moderate
-consensus for the jet to eject across the Plains next Sunday which
-will likely bring dry and breezy conditions to the southern High
-Plains. This pattern will likely support critical meteorological
-conditions, but fuels will be questionable. If sufficient drying
-occurs late this week and over the weekend, critical probabilities
-may need to be added later, but at this time it appears fuels will
-likely remain too moist to support a large-fire threat by next
-weekend.
-
-..Bentley.. 03/17/2024
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/exper/fire_wx/>
-
----
-
-## SPC Mar 17, 2024 2000 UTC Day 1 Convective Outlook
-
-date: 2024-03-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0249 PM CDT Sun Mar 17 2024
-
-Valid 172000Z - 181200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS
-OF THE FLORIDA PANHANDLE AND FLORIDA BIG BEND THROUGH EARLY
-EVENING...
-
-...SUMMARY...
-Local/isolated risk for gusty/damaging winds remains possible the
-remainder of the afternoon/early evening across the Florida
-Panhandle/Big Bend area.
-
-...20z Update...
-
-The main change with the 20z update was to trim marginal severe
-probabilities across far southeast LA and the coastal waters south
-of southern MS/AL behind the ongoing clusters of storms over the
-northern Gulf. Stronger heating has occurred downstream from this
-cluster across parts of the FL Panhandle and FL Big Bend vicinity.
-While instability remain low (less than 500 J/kg MLCAPE), some
-potential for a few strong gusts will continue the remainder of the
-afternoon/early evening. Otherwise, the only other changes were to
-trim portions of the general thunderstorm probability over TX into
-LA/MS/AL.
-
-..Leitman.. 03/17/2024
-
-.PREV DISCUSSION... /ISSUED 1122 AM CDT Sun Mar 17 2024/
-
-...Gulf Coastal area from southeastern Louisiana to the Florida Big
-Bend...
-A well-defined MCS with embedded MCV is moving eastward across the
-southeastern Louisiana vicinity late this morning, along the
-west-to-east synoptic cold front lying roughly across the Gulf Coast
-region.  
-
-West of this convective complex, weak quasi-geostrophic ascent
-across Texas -- within a zone of modest low-level warm advection
-beneath minor mid-level disturbances moving through fast
-west-southwesterly flow aloft southeast of the Desert Southwest
-upper low -- will support occasional deep convection.  However,
-aside from a couple of sporadic stronger storms and possibly
-brief/marginally severe hail/wind risk locally, risk appears too low
-to require inclusion of probabilities in the current outlook.
-
-East of the MCS, limited severe risk remains apparent across coastal
-areas, though the strongest storms should remain over the northern
-Gulf.  Still, gusty/locally damaging winds may occur, warranting
-continuation of 5% wind probability as far east as the Florida Big
-Bend region through tonight.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
 
 ---
 

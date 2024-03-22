@@ -1,11 +1,80 @@
 ---
 title: socal north 2024.12
-updated: 2024-03-21 08:51:50
+updated: 2024-03-21 17:10:35
 ---
 
 # socal north 2024.12
 
-(date: 2024-03-21 08:51:50)
+(date: 2024-03-21 17:10:35)
+
+---
+
+## Immigrants aren’t stealing your jobs
+
+date: 2024-03-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Americans need to reframe their view on immigration: It’s helping our economy.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/21/immigrants-arent-stealing-your-jobs/">Immigrants aren’t stealing your jobs</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/21/immigrants-arent-stealing-your-jobs/>
+
+---
+
+## See You at SENSES! Unveiling an Incredible Lineup of Block Parties
+
+date: 2024-03-21, from: City of Santa Clarita
+
+<p>See You at SENSES! Unveiling an Incredible Lineup of Block Parties By Mayor Cameron Smyth Did you know that each year, Main Street in Old Town Newhall undergoes countless makeovers for different events, such as Light Up Main Street and the Fourth of July Parade? One event in particular, though, transforms the street with a [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/03/21/see-you-at-senses-unveiling-an-incredible-lineup-of-block-parties/">See You at SENSES! Unveiling an Incredible Lineup of Block Parties</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/03/21/see-you-at-senses-unveiling-an-incredible-lineup-of-block-parties/>
+
+---
+
+## UCLA gymnastics Pac-12 championships predictions
+
+date: 2024-03-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+Coming off its third-best score in program history, No. 11 UCLA gymnastics is traveling to Utah to compete in the night session of the Pac-12 championships, attempting to bookend the conference championship&#8217;s all-time history with Bruin-claimed Pac-12 titles. 
+
+<https://dailybruin.com/2024/03/21/ucla-gymnastics-pac-12-championships-predictions/>
+
+---
+
+## UCLA baseball gears up for crosstown rivalry games amid pitching changes
+
+date: 2024-03-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+By Mika McCaffreyDaily Bruin contributor
+The Bruins are preparing for an infamous rivalry match-up.
+
+And Roman Martin is hoping his weekend prowess carries into the crosstown duel. 
+
+<https://dailybruin.com/2024/03/21/ucla-baseball-gears-up-for-crosstown-rivalry-games-amid-pitching-changes/>
+
+---
+
+## Santa Clarita Sister Cities Hosts Matsudo, Japan
+
+date: 2024-03-21, from: City of Santa Clarita
+
+<p>SANTA CLARITA SISTER CITIES HOSTS MATSUDO, JAPAN Promoting Cultural and Student Exchange Across the Globe The City of Santa Clarita, in partnership with Santa Clarita Sister Cities, is proud to host Matsudo, Japan through a youth delegation between the City of Santa Clarita, Santa Clarita Sister Cities, College of the Canyons, Academy of the Canyons [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/03/21/santa-clarita-sister-cities-hosts-matsudo-japan/">Santa Clarita Sister Cities Hosts Matsudo, Japan</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/03/21/santa-clarita-sister-cities-hosts-matsudo-japan/>
+
+---
+
+## California Set Aside Money For Children Orphaned By COVID. Now The State Just Has To Find Them
+
+date: 2024-03-21, updated: 2024-03-21, from: The LAist
+
+Starting next year, California will set up trust funds for kids in low-income families who lost a parent to COVID. The state doesn’t know who all those kids are, though. 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/california-covid-trust-accounts-eligible-children>
 
 ---
 
@@ -225,7 +294,7 @@ No. 21 UCLA swim and dive (5-4, 3-4 Pac-12) is headed to Athens, Georgia, to com
 
 date: 2024-03-20, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated March 20 at 6:41 p.m.</em>
+<em>This post was updated March 21 at 10:35 a.m.</em>
 Around 100 protesters gathered outside the UC Board of Regents’ meeting Wednesday to call for better contracts and protections for service, patient technical care and skilled craft workers. 
 
 <https://dailybruin.com/2024/03/20/afscme-local-3299-demands-higher-wages-divestment-at-uc-board-of-regents-meeting/>

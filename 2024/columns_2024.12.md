@@ -1,11 +1,51 @@
 ---
 title: columns 2024.12
-updated: 2024-03-21 08:51:51
+updated: 2024-03-21 17:10:35
 ---
 
 # columns 2024.12
 
-(date: 2024-03-21 08:51:51)
+(date: 2024-03-21 17:10:35)
+
+---
+
+## The Verge: ‘CarPlay Is Anticompetitive, Too, US Lawsuit Alleges’
+
+date: 2024-03-21, updated: 2024-03-21, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/2024/3/21/24107976/apple-carplay-doj-lawsuit-anticompetitive-digital-key>
+
+---
+
+## Apple Style Guide, March 2024 Edition
+
+date: 2024-03-21, updated: 2024-03-21, from: Daring Fireball
+
+ 
+
+<https://support.apple.com/guide/applestyleguide/welcome/web>
+
+---
+
+## Jason Snell on US v. Apple
+
+date: 2024-03-21, updated: 2024-03-21, from: Daring Fireball
+
+ 
+
+<https://sixcolors.com/post/2024/03/u-s-versus-apple-a-first-reaction/>
+
+---
+
+## Merrick Garland’s Remarks on the Lawsuit Against Apple’s Supposed Monopoly
+
+date: 2024-03-21, updated: 2024-03-21, from: Daring Fireball
+
+ 
+
+<https://www.justice.gov/opa/speech/attorney-general-merrick-b-garland-delivers-remarks-lawsuit-against-apple-monopolizing>
 
 ---
 

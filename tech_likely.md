@@ -1,11 +1,323 @@
 ---
 title: tech likely 2024.12
-updated: 2024-03-21 08:51:51
+updated: 2024-03-21 17:10:35
 ---
 
 # tech likely 2024.12
 
-(date: 2024-03-21 08:51:51)
+(date: 2024-03-21 17:10:35)
+
+---
+
+## NASA’s Tiny BurstCube Mission Launches to Study Cosmic Blasts
+
+date: 2024-03-21, from: NASA breaking news
+
+NASA’s BurstCube, a shoebox-sized satellite designed to study the universe’s most powerful explosions, is on its way to the International Space Station. The spacecraft travels aboard SpaceX’s 30th Commercial Resupply Services mission, which lifted off at 4:55 p.m. EDT on Thursday, March 21, from Launch Complex 40 at Cape Canaveral Space Force Station in Florida. […] 
+
+<https://science.nasa.gov/burstcube/nasas-tiny-burstcube-mission-launches-to-study-cosmic-blasts/>
+
+---
+
+## NASA Science, Hardware Aboard SpaceX’s 30th Resupply Launch to Station
+
+date: 2024-03-21, from: NASA breaking news
+
+Following a successful launch of NASA’s SpaceX 30th commercial resupply mission, new scientific experiments and technology demonstrations for the agency are on the way to the International Space Station, including studies of technologies to measure sea ice and plant growth in space. SpaceX’s Dragon resupply spacecraft, carrying more than 6,000 pounds of cargo to the [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-science-hardware-aboard-spacexs-30th-resupply-launch-to-station/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-03-21, from: Miguel de Icaza Mastondon feed)
+
+<p>Hello Fediverse!  I am also <span class="h-card" translate="no"><a href="https://threads.net/@migueldeicaza/" class="u-url mention">@<span>migueldeicaza@threads.net</span></a></span></p> 
+
+<https://mastodon.social/@Migueldeicaza/112135768382671461>
+
+---
+
+##  In case anyone is ever in the market for strange and cheerful... 
+
+date: 2024-03-21, updated: 2024-03-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/0044237-in-case-anyone-is-ever>
+
+---
+
+## Payload Adapter Testing: A Key Step for Artemis IV Rocket’s Success
+
+date: 2024-03-21, from: NASA breaking news
+
+A test version of the SLS (Space Launch System) rocket’s payload adapter is ready for evaluation, marking a critical milestone on the journey to the hardware’s debut on NASA’s Artemis IV mission. Comprised of two metal rings and eight composite panels, the cone-shaped payload adapter will be part of the SLS Block 1B configuration and [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/payload-adapter-testing-a-key-step-for-artemis-iv-rockets-success/>
+
+---
+
+##  Things That Don’t Work. For instance: “Fixing relationship problems by having a... 
+
+date: 2024-03-21, updated: 2024-03-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/0044238-things-that-dont-work-for>
+
+---
+
+## U.S. Sues Apple Over iPhone Monopoly
+
+date: 2024-03-21, from: Michael Tsai
+
+David McCabe and Tripp Mickle (PDF, CourtListener, Hacker News, MacRumors): The Justice Department joined 16 states and the District of Columbia to file an antitrust lawsuit against Apple on Thursday, the federal government&#8217;s most significant challenge to the reach and influence of the company that has put iPhones in the hands of more than a [&#8230;] 
+
+<https://mjtsai.com/blog/2024/03/21/u-s-sues-apple-over-iphone-monopoly/>
+
+---
+
+## PopClip Leaving the Mac App Store
+
+date: 2024-03-21, from: Michael Tsai
+
+Nick Moore (via andy4222): PopClip&#8217;s almost 13-year journey on the Mac App Store has come to an end. The reason? I can&#8217;t update PopClip with new features on the Mac App Store any more. This is due to Apple&#8217;s sandboxing policy. [&#8230;] The review team did also clarify that if I removed new features from [&#8230;] 
+
+<https://mjtsai.com/blog/2024/03/21/popclip-leaving-the-mac-app-store/>
+
+---
+
+## How to Bypass SwiftUI App Launch During Unit Testing
+
+date: 2024-03-21, from: Michael Tsai
+
+Jon Reid: For apps with an application delegate, I&#8217;ve written How To Switch Your iOS App Delegate for Improved Testing. This lets us set up a separate launch sequence for test runs that does only the bare minimum. Can we do the same thing for SwiftUI apps that use @main? Yes, we can.[&#8230;]Basically, this conditional [&#8230;] 
+
+<https://mjtsai.com/blog/2024/03/21/how-to-bypass-swiftui-app-launch-during-unit-testing/>
+
+---
+
+## Glassdoor No Longer Anonymous
+
+date: 2024-03-21, from: Michael Tsai
+
+cellio (via Hacker News, Reddit): Glassdoor now requires your real name and will add it to older accounts without your consent if they learn it, and your only option is to delete your account. They do not care that this puts people at risk with their employers. They do not care that this seems to [&#8230;] 
+
+<https://mjtsai.com/blog/2024/03/21/glassdoor-no-longer-anonymous/>
+
+---
+
+##  On Returning to Childhood Hobbies 
+
+date: 2024-03-21, updated: 2024-03-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/on-returning-to-childhood-hobbies>
+
+---
+
+## Station Science 101: Cardiovascular Research on Station
+
+date: 2024-03-21, from: NASA breaking news
+
+Everyday physical activities keep the cardiovascular system healthy. The human cardiovascular system, which includes the heart and blood vessels, has evolved to operate in Earth’s gravity. When astronauts travel to space, their bodies begin to adjust to the microgravity of their spacecraft. Blood and other bodily fluids previously pulled downward by gravity now move toward [&#8230;] 
+
+<https://www.nasa.gov/general/station-science-101-cardiovascular-research-on-station/>
+
+---
+
+##  The Majesty of Cold Mountain 
+
+date: 2024-03-21, updated: 2024-03-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/the-majesty-of-cold-mountain>
+
+---
+
+## Electronic Protection Devices' Electro-Clamp line
+
+date: 2024-03-21, from: Computer ads from the Past
+
+The Underrated Virtues of Plain Vanilla 
+
+<https://computeradsfromthepast.substack.com/p/electronic-protection-devices-electro>
+
+---
+
+## Inception Attacks
+
+date: 2024-03-21, updated: 2024-03-21, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/03/21/inception-attacks/>
+
+---
+
+##  Sitting here in an old Patagonia fleece, I couldn&#8217;t feel aesthetically further... 
+
+date: 2024-03-21, updated: 2024-03-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/0044233-sitting-here-in-an-old>
+
+---
+
+## Mentoring the Next Generation of Engineers and Improving Shock Testing Standards
+
+date: 2024-03-21, from: NASA breaking news
+
+The year 2023 was productive for the Loads &#38; Dynamics (L&#38;D) Technical Discipline Team (TDT). New shock and modal analysis techniques were developed and mentoring the next generation of NASA discipline experts continued. Additionally, NESC Technical Bulletin No. 23-3, New Transient Finite Energy Shock Prediction Methodology, was released. Early Career Community Nurtures Development of NASA’s [&#8230;] 
+
+<https://www.nasa.gov/general/mentoring-the-next-generation-of-engineers-and-improving-shock-testing-standards/>
+
+---
+
+## Shuttle, Family Inspire NASA’s Cryogenic Technology Manager
+
+date: 2024-03-21, from: NASA breaking news
+
+By Daniel Boyette Jeremy Kenny squinted his eyes as he looked toward the brilliant light. Then came the deafening sound waves that vibrated his body. This was the moment he’d dreamed about since childhood. It was Nov. 16, 2009, at NASA’s Kennedy Space Center in Florida, and Kenny and his wife were watching space shuttle [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/shuttle-family-inspire-nasas-cryogenic-technology-manager/>
+
+---
+
+##  Diary Comics, Nov. 30-Dec.2 
+
+date: 2024-03-21, updated: 2024-03-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/diary-comics-nov-30-dec2>
+
+---
+
+## Iffy Books Permacomputing Meetup – Sunday, March 24th at 1:00 PM EDT
+
+date: 2024-03-21, from: Tilde.news
+
+<p><a href="https://tilde.news/s/dlchf3/iffy_books_permacomputing_meetup_sunday">Comments</a></p> 
+
+<https://iffybooks.net/event/permacomputing-march-24>
+
+---
+
+## Building a Community of Practice
+
+date: 2024-03-21, from: NASA breaking news
+
+The Thermal and Fluids Analysis Workshop (TFAWS) is an annual event cosponsored by the NESC&#8217;s Thermal Control &#38; Protection, Environmental Control &#38; Life Support, Aerosciences, and Cryogenics Technical Discipline Teams in collaboration with the TFAWS Steering Committee. It is well known for a diverse set of events and remains a model for Community of Practice [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/nesc/building-a-community-of-practice/>
+
+---
+
+## A Tranquil Sunrise
+
+date: 2024-03-21, from: NASA breaking news
+
+A fast boat crosses the waters several hours after NASA’s SpaceX Crew-7 splashdown on March 12, 2024. The SpaceX Dragon Endurance spacecraft landed in the Gulf of Mexico off the coast of Pensacola, Florida. The Crew-7 members spent nearly six months in space as part of Expedition 70 on the International Space Station. Throughout their [&#8230;] 
+
+<https://www.nasa.gov/image-article/a-tranquil-sunrise/>
+
+---
+
+## Advancing Human Spaceflight Safety
+
+date: 2024-03-21, from: NASA breaking news
+
+As NASA continues to pursue new human missions to low Earth orbit, lunar orbit, the lunar surface, and on to Mars, the NESC continues to provide a robust technical resource to address critical challenges. The NESC Environmental Control and Life Support Systems (ECLSS), Crew Systems, and Extravehicular Activity (EVA) discipline is led by the NASA [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/nesc/advancing-human-spaceflight-safety/>
+
+---
+
+##  Making Connections 
+
+date: 2024-03-21, updated: 2024-03-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/making-connections>
+
+---
+
+## NASA, Health and Human Services Highlight Cancer Moonshot Progress
+
+date: 2024-03-21, from: NASA breaking news
+
+During an event at NASA Headquarters in Washington Thursday, NASA Administrator Bill Nelson and U.S. Department of Health and Human Services (HHS) Secretary Xavier Becerra united to note progress their respective agencies are making in space and on Earth toward President Biden and First Lady Jill Biden’s Cancer Moonshot initiative. “We go to space not [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-health-and-human-services-highlight-cancer-moonshot-progress/>
+
+---
+
+## CSG is failing to honor its GPL obligations, say critics
+
+date: 2024-03-21, updated: 2024-03-21, from: Liam Proven's articles at the Register
+
+<h4>Spawn of Citrix and Tibco 'no longer able to support the community edition of JasperReports Server'</h4>
+      <p>Even if you decide to stop offering free editions, you don't get to stop providing the source code to FOSS, users of JasperReports Server are complaining.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/03/21/csg_fails_to_honor_agpl/>
+
+---
+
+## United States files antitrust lawsuit against Apple
+
+date: 2024-03-21, from: OS News
+
+For many years, Apple has built a dominant iPhone platform and ecosystem that has driven the company’s astronomical valuation. At the same time, it has long understood that disruptive technologies and innovative apps, products, and services threatened that dominance by making users less reliant on the iPhone or making it easier to switch to a non-Apple smartphone. Rather than respond to competitive threats by offering lower smartphone prices to consumers or better monetization for developers, Apple would meet competitive threats by imposing a series of shapeshifting rules and restrictions in its App Store guidelines and developer agreements that would allow Apple to extract higher fees, thwart innovation, offer a less secure or degraded user experience, and throttle competitive alternatives. It has deployed this playbook across many technologies, products, and services, including super apps, text messaging, smartwatches, and digital wallets, among many others. Apple’s conduct also stifles new paradigms that threaten Apple’s smartphone dominance, including the cloud, which could make it easier for users to enjoy high-end functionality on a lower priced smartphone—or make users device-agnostic altogether. As one Apple manager recently observed, “Imagine buying a  Android for 25 bux at a garage sale and it works fine … And you have a solid cloud computing device. Imagine how many cases like that there are.” Simply put, Apple feared the disintermediation of its iPhone platform and undertook a course of conduct that locked in users and developers while protecting its profits. Critically, Apple’s anticompetitive conduct not only limits competition in the smartphone market, but also reverberates through the industries that are affected by these restrictions, including financial services, fitness, gaming, social media, news media, entertainment, and more. Unless Apple’s anticompetitive and exclusionary conduct is stopped, it will likely extend and entrench its iPhone monopoly to other markets and parts of the economy. For example, Apple is rapidly expanding its influence and growing its power in the automotive, content creation and entertainment, and financial services industries–and often by doing so in exclusionary ways that further reinforce and deepen the competitive moat around the iPhone. ↫ DoJ antitrust lawsuit vs. Apple The United States Department of Justice is filing an antitrust lawsuit against Apple. 
+
+<https://www.osnews.com/story/138900/united-states-files-antitrust-lawsuit-against-apple/>
+
+---
+
+## HOW THINGS TURN OUT
+
+date: 2024-03-21, from: Howard Jacobson blog
+
+This post is for paid subscribers. Sorry. But needs must. You would make my day were you to consider becoming a paid subscriber yourself. Heres a taster of what, among much else, you&#8217;d be getting &#8230; &#8216;Who&#8217;s the funniest writer you&#8217;ve ever read?&#8217; a woman asked me the other day in a hotel in Tenerife where I&#8217;d gone to recuperate from a London chest infection. I always seem to be recuperating from something these days. But I guess that beats dying from it. 
+
+<https://jacobsonh.substack.com/p/how-things-turn-out>
+
+---
+
+## Why I don’t write dev posts
+
+date: 2024-03-21, from: Manu - I write blog
+
+
+                <p>There are some 400 or so blog posts on this site. I could be wrong but I think I wrote precisely 1 dev focused post. I wrote a few blog posts here and there that are tangentially work-related because they’re about projects I worked on but that’s about it.</p>
+<p>There’s a reason why I don’t write about dev stuff. And it’s not because I find it boring or uninspiring. Quite the contrary. I love learning about web stuff. I love reading Robin’s <a href="https://robinrendle.com/the-cascade/">The Cascade</a> for example. There’s always something new happening on the web, especially in the frontend space. And as a—former?—designer I love learning about front-end stuff.</p>
+<p>The reason why I don’t write about dev stuff it’s because, like many others, I suffer from <a href="https://en.wikipedia.org/wiki/Impostor_syndrome">impostor syndrome</a>. I’ve been working on the web for more than 12 years. I’m still convinced I don’t know shit. I scroll through <a href="https://minimal.gallery/">minimal.gallery</a> or <a href="https://onepagelove.com/">OPL</a>, see the work of all those great designers and developers, and reinforce this idea that there are, in fact, countless people out there who are better than me.</p>
+<p>Don’t get me wrong, the rational part of me knows that’s not entirely true. Of course there are people that are better than me. There will always be people better than me at literally everything. Still, this sensation of not knowing shit keep following me around and it’s the reason why I don’t write about web stuff. This is also the reason why I said no when I was offered the possibility to teach. I know, it’s probably stupid but it is what it is. Dealing with my mind is a tough job.</p>                <hr>
+                <h2>Get in touch</h2>                <p>Have something to share? Want me as your <a href="https://manuelmoreale.com/i-ll-read-it">first reader</a>? Get in touch. My inbox is always open.</p>                <a href="mailto:hello@manuelmoreale.com">Connect</a> — 
+                <a href="https://manuelmoreale.com/guestbook">Guestbook</a>
+                <hr>
+                <h2>One a month</h2>                <p>That's how little it takes to help with my <a href="https://manuelmoreale.com/on-dreams-and-goals">goal</a>. If you feel generous, consider supporting what I do.</p>                <a href="https://ko-fi.com/manuelmoreale">Donate</a> — 
+                <a href="https://manuelmoreale.com/supporters">Supporters</a>
+                <hr>
+                <h2>People and Blogs</h2>                <p>I ask people to talk about themselves and their blogs. <a href="https://peopleandblogs.com/">Learn more</a> or subscribe.</p>                <a href="https://manuelmoreale.com/feed/peopleandblogs">RSS</a> — 
+                <a href="https://buttondown.email/peopleandblogs">Email</a>
+             
+
+<https://manuelmoreale.com/@/page/yZjUFyBIFce9NOxR>
+
+---
+
+##  A nice remembrance of Lisa Lane, perhaps an inspiration for The Queen&#8217;s... 
+
+date: 2024-03-21, updated: 2024-03-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/0044230-a-nice-remembrance-of-lis>
 
 ---
 
@@ -181,18 +493,20 @@ date: 2024-03-21, from: Dave Rupert blog
 date: 2024-03-21, from: Dave Winer's Scripting News
 
 <p>I spent some time this week reviewing the UI of Radio UserLand, released in 2002. It was both a feed reader and a writing tool. </p>
-<p>One would have thought, btw, that from that start that all subsequent blogging tools would have the same connections, even if the functionality was not all in the same product. But then came Twitter and Facebook, and they said they weren't blogs, and presumably would start a new tradition with new user expectations. And that worked. </p>
-<p>So the integration opportunities were limited, something that took me 11 years to fully appreciate, and to give up on. I was in a intellectual cloud, not thinking straight. </p>
+<p>One would have thought, btw, that from that start that all subsequent blogging tools would have the same connections, even if the functionality was not all in the same product. But then came Twitter and Facebook, and they said they weren't blogs, and presumably would start a new tradition with new user expectations. And that worked. The new blogging platforms were <a href="https://en.wikipedia.org/wiki/Information_silo">silos</a>.</p>
+<p>So the integration opportunities were limited, something that took me 11 years to fully appreciate, and to <a href="http://scripting.com/2017/05/05/iWantMyOldBlogBack.html">give up</a> on. I was in a intellectual cloud, not thinking straight. </p>
 <p>Meantime, the tradition of blogging was preserved by WordPress. As a blogging tool, it supported the same connective features that Radio did. There were some it couldn't cover because Radio was a desktop app, not a web app (though it looked like a web app, you installed a piece of software on the desktop). </p>
 <p>This was the <a href="http://scripting.com/davenet/1997/09/14/FractionalHorsepowerHTTPSe.html">Fractional Horsepower HTTP Server</a> idea realized. </p>
-<p>So for example, we had <a href="http://radio.userland.com/userGuide/reference/howUpstreamingWorks">upstreaming</a>, which was a one-way Dropbox, a number of years before Dropbox existed. This meant that the link between the CMS and the server went through the file system. The product didn't live long enough to fulfill the potential of that feature. The idea was that you could use any editor you wanted to write something that was posted to the blog, you could choose to have it rendered through the site template, or uploaded as-is. The <a href="https://imgs.scripting.com/2024/03/21/radioEditorScreenshot.png">editor</a> we supplied with Radio was one of those <a href="http://scripting.com/2024/01/14/031201.html">tiny little text boxes</a>, but I hoped that better editors would emerge. I wanted to make one myself, combining the outliner in Frontier with scripting, to drop posts into the folder structure that Radio expected. </p>
+<p>So for example, we had <a href="http://radio.userland.com/userGuide/reference/howUpstreamingWorks">upstreaming</a>, which was a one-way Dropbox, a number of years before Dropbox existed. This meant that the link between the CMS and the server went through the file system. The product didn't live long enough to fulfill the potential of that feature. The idea was that you could use any editor you wanted to write something that was posted to the blog, you could choose to have it rendered through the site template, or uploaded as-is. </p>
+<p>The <a href="https://imgs.scripting.com/2024/03/21/radioEditorScreenshot.png">editor</a> we supplied with Radio was one of those <a href="http://scripting.com/2024/01/14/031201.html">tiny little text boxes</a>, but I hoped that better editors would emerge. I wanted to make one myself, combining the outliner in Frontier with scripting, to drop posts into the folder structure that Radio expected. </p>
 <p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/03/21/radioEditorScreenshot.png"></center>Radio's tiny little textbox circa 2002.</div></p>
 <p>Years later I tried to do it with Dropbox itself, with a product called <a href="http://fargo.io/docs/whatIsFargo.html">Fargo</a>. Dropbox was so incredibly close to the ideal user-owned storage server system, but they wouldn't go the final step, in creating a class of content that could be shared with two or more apps but not all apps. So the user didn't have enough control for it to work. </p>
 <p>The idea of multiple apps working on the same data would be revolutionary. How do I know? Because that's how computers worked before the web. So to make the thing I want to do work, now, in 2024, I'm going to have to create my own storage system for the user, and I will pay for it, at least to start. </p>
 <p>Hopefully at some point I'll be able to turn that over to Automattic and have them run it, or if they don't want to, maybe someone else will. But it has to be there for the web as a runtime environment to support the same diversity of software that the PC and Mac did in the generation before the web. </p>
-<p>Technology does go backwards, a lot -- we lose valuable things without any thought, when we could keep them. Anyway, more on this later for sure. </p>
+<p>Technology does go backwards, a lot -- we lose valuable things without any thought, when we could keep them. </p>
 <p>BTW, that's why it's good to keep some old people around, we might remember the things that were lost. I'm trying to make sure the really good ideas, the keepers, get another chance. </p>
-<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/03/21/blogrollscreen.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Another random morning bit -- something subtle in the blogroll you might not have noticed. It has no trouble dealing with titled or untitled posts. Blog posts typically have titles, social media posts do not. <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> is opinionated about this -- it <a href="https://imgs.scripting.com/2024/03/21/rssIsOpinionatedAboutOptionalTitles.png">says</a> you should support both views. But the feed reader folk ignored that guidance. My little blogroll shows you how to do it, it's pretty simple. If it doesn't have a title use the description. Think of it this way. What if motorcycles, cars, trucks and bikes couldn't all use the same roads? What kind of way would that be to run a civilization. Same thing with feeds. </p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/03/21/blogrollscreen.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Another random morning bit -- something subtle in the blogroll you might not have noticed. It has no trouble dealing with titled or untitled posts. Blog posts typically have titles, social media posts do not. <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> is opinionated about this -- it <a href="https://imgs.scripting.com/2024/03/21/rssIsOpinionatedAboutOptionalTitles.png">says</a> you should support both views. But the feed reader folk ignored that guidance. My little blogroll shows you how to do it, it's pretty simple. <span>If it doesn't have a title use the description</span>. </p>
+<p>Think of it this way. What if motorcycles, cars, trucks and bikes couldn't all use the same roads? What kind of way would that be to run a civilization. Same thing with feeds. </p>
 <p>There's a screen shot of the blogroll to the right, with Scripting News highlighted and expanded. Some of those posts have titles and some don't. You and I as developers care about that, but we shouldn't show that difference that in the user interface. The users don't care and rightly so. It's confusing and takes their attention away from the writing. </p>
 <p>Another topic. Something I noticed in WordPress's RSS feeds. If I start a post out with an empty title, it uses the post ID to form the URL for the post. That's the right thing to do imho. But then if I add a title, which can happen, it changes the URL to use the title. But URLs shouldn't change. It also changes the guid, so a feed reader will think there were two posts when there was just one. Now I don't know if they can change it at this late date, I imagine there are workarounds out there. But I noticed this the other day, and thought I should mention it. Why not just use the post ID for the guid, esp since it says the guid is not a permalink? And use it in forming the URL. I totally understand the benefit of using the title in the URL. But you can't depend on the title being there. </p>
 <p>Finally, to answer the question raised by the title of this piece -- WordPress is, among other things, a perfect time capsule of open technologies from the early days of innovation on the web, and widely deployed and able to deliver all their benefits, if we widen our view of social media to be a <i>social web,</i> and simply create places where posts with and without titles are equally supported. It's that simple. Without WordPress we would have to build all that, and wait for it to deploy in numbers, to matter in the market. All we have to do now is make the connections. </p>

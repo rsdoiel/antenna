@@ -491,3 +491,4 @@ https://confinedkitchen.blogspot.com/feeds/posts/default "~The Confined Kitchen 
 https://leanrada.com/rss.xml "~Lean Rada's blog"
 https://inkdroid.org/feed.xml "~Ed Summers blog, Inkdroid"
 http://www.enlightenmenteconomics.com/blog/index.php/feed/ "~Enlightenment Economics"
+https://jan.bio/rss.xml "~Jan Schreiber's blog (ncgopher)"
