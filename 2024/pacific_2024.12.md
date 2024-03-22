@@ -1,11 +1,740 @@
 ---
 title: pacific 2024.12
-updated: 2024-03-21 17:10:35
+updated: 2024-03-22 05:45:54
 ---
 
 # pacific 2024.12
 
-(date: 2024-03-21 17:10:35)
+(date: 2024-03-22 05:45:54)
+
+---
+
+## Bill to plug revenue leaks at Guam Customs awaiting governor's signature 
+
+date: 2024-03-22, from: Pacific Island Times
+
+By Pacific Island Times News Staff A landmark piece of legislation to transform and modernize the operations of the Guam Customs and... 
+
+<https://www.pacificislandtimes.com/post/bill-to-plug-revenue-leaks-at-guam-customs-awaiting-governor-s-signature>
+
+---
+
+## In Japan, Ohtani’s ‘perfect person’ image could take a hit with firing of interpreter over gambling
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL, South Korea &#8212; Shohei Ohtani is referred to in Japan as &#8220;kanpeki no hito&#8221; &#8212; the perfect person &#8212; because of his manners and impeccable behavior. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/sports/in-japan-ohtanis-perfect-person-image-could-take-a-hit-with-firing-of-interpreter-over-gambling/>
+
+---
+
+## Monson’s boss says timing of ouster at Long Beach State was designed to inspire March Madness run
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>SALT LAKE CITY (AP) &#8212; Long Beach State&#8217;s athletic director said the timing of his decision to part with coach Dan Monson was done with the hope it might trigger the exact run that led the team on its unexpected trip to March Madness. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/sports/monsons-boss-says-timing-of-ouster-at-long-beach-state-was-designed-to-inspire-march-madness-run/>
+
+---
+
+## KSH baseball shuts out Pahoa
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>The Kamehameha Schools - Hawai&#8216;i baseball team has been unstoppable so far this season, and claimed another victim, downing Pahoa High 11-0 as pitcher Shiloh Santos threw a no-hitter on Thursday afternoon at Walter Victor Baseball Complex in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/sports/ksh-baseball-shuts-out-pahoa/>
+
+---
+
+## First day of March Madness yields upsets and blowouts
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>The first rounds of the NCAA men&#8217;s basketball championship began Thursday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/sports/first-day-of-march-madness-yields-upsets-and-blowouts/>
+
+---
+
+## Yoshinobu Yamamoto lasts 1 inning in Dodgers debut, gives up 5 runs to Padres
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL, South Korea &#8212; Yoshinobu Yamamoto lasted just one inning in his Los Angeles Dodgers&#8217; debut after signing a record $325 million, 12-year contract, giving up five runs to the San Diego Padres in a 15-11 loss on Thursday night. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/sports/yoshinobu-yamamoto-lasts-1-inning-in-dodgers-debut-gives-up-5-runs-to-padres/>
+
+---
+
+## NFL retirees who say the league’s disability plan is a sham can proceed to trial
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>PHILADELPHIA &#8212; A lawsuit accusing the NFL&#8217;s disability plan of violating its duty to retired players by routinely denying valid injury claims can proceed to trial on most counts, a federal judge in Maryland has ruled. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/sports/nfl-retirees-who-say-the-leagues-disability-plan-is-a-sham-can-proceed-to-trial/>
+
+---
+
+## ‘Every shot matters to someone.’ Basketball fans revel in, and bet on, March Madness tournament
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTIC CITY, N.J. &#8212; This is the best time of the year for Mark Bawers: Day after day of uninterrupted college basketball, all of it consequential. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/sports/every-shot-matters-to-someone-basketball-fans-revel-in-and-bet-on-march-madness-tournament/>
+
+---
+
+## Buddhists use karmic healing against one US city’s anti-Asian legacy and nationwide prejudice today
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>ANTIOCH, Calif. &#8212; For one afternoon, on Antioch&#8217;s main street and tranquil riverbank, the fragrance of burning incense was paired with the sound of Buddhist and Tao chants. Their cumulative calming energy was meant to be a balm of sorts to soothe the racial and religious hate that cast a shadow on Antioch&#8217;s legacy.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/nation-world-news/buddhists-use-karmic-healing-against-one-us-citys-anti-asian-legacy-and-nationwide-prejudice-today/>
+
+---
+
+## Surgeons transplant pig kidney into a patient, a medical milestone
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>Surgeons in Boston have transplanted a kidney from a genetically engineered pig into an ailing 62-year-old man, the first procedure of its kind. If successful, the breakthrough offers hope to hundreds of thousands of Americans whose kidneys have failed.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/nation-world-news/surgeons-transplant-pig-kidney-into-a-patient-a-medical-milestone/>
+
+---
+
+## Trump leads in polls but badly trails in crucial 2024 money race
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Donald Trump has an enthusiastic base and a polling advantage in swing states. He does not have anywhere near the amount of money as his rival, President Joe Biden.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/nation-world-news/trump-leads-in-polls-but-badly-trails-in-crucial-2024-money-race/>
+
+---
+
+## Justice Department sues Apple, alleging it illegally monopolized the smartphone market
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Justice Department on Thursday announced a sweeping antitrust lawsuit against Apple, accusing the tech giant of engineering an illegal monopoly in smartphones that boxes out competitors, stifles innovation and keeps prices artificially high.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/nation-world-news/justice-department-sues-apple-alleging-it-illegally-monopolized-the-smartphone-market/>
+
+---
+
+## Pahoa man arrested, released after viral video of dog abuse
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>A video posted on social media appears to be a 30-year-old Pahoa man who was arrested Thursday by police in an animal cruelty case.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/hawaii-news/pahoa-man-arrested-released-after-viral-video-of-dog-abuse/>
+
+---
+
+## Kaneshiro, Mitsunaga federal bribery trial begins
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>Political donor Dennis Mitsunaga, his associates and family members contributed $48,250 in campaign funds to then-&#0173;Honolulu Prosecutor Keith Kaneshiro as Kaneshiro&#8217;s office pursued a criminal case against a fired Mitsunaga employee who later sued the company for discrimination, the U.S. Attorney&#8217;s office said Wednesday on the opening day of the federal bribery trial of Kaneshiro, Mitsunaga and four of Mitsunaga&#8217;s employees.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/hawaii-news/kaneshiro-mitsunaga-federal-bribery-trial-begins/>
+
+---
+
+## A Mexican drug cartel’s new target? Seniors and their timeshares
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>GUADALAJARA, Mexico &#8212; First the cartel cut its teeth with drug trafficking. Then avocados, real estate and construction companies. Now, a Mexican criminal group known for its brutality is moving in on seniors and their timeshares.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/nation-world-news/a-mexican-drug-cartels-new-target-seniors-and-their-timeshares/>
+
+---
+
+## ‘Quiet on Set’ allegations forced Dan Schneider to speak up. Now, more should
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>Child actors were exploited and sexually abused by the adults they worked with on several hit Nickelodeon shows throughout the &#8216;90s and 2000s. When one such adult &#8212; Brian Peck &#8212; was arrested on 11 charges of child sex abuse and then pleaded no contest in 2004, dozens of notable actors and television industry figures openly supported him during the sentencing portion of his case. And after he served his time for raping a child, the Disney Channel hired him to work on one of their hit series, &#8220;The Suite Life with Zack &#38;Cody.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/opinion/quiet-on-set-allegations-forced-dan-schneider-to-speak-up-now-more-should/>
+
+---
+
+## Trump tries to sell a normal-ish second term
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>In the debate about what a second Donald Trump term would mean for the stability of American democracy, parsing the &#8220;true&#8221; meaning of any given Trumpian rhetorical flourish &#8212; <em>Was he just predicting a &#8220;bloodbath&#8221; for the auto industry if Joe Biden wins, or prophesying civil war? </em>&#8212; is about 60 times less useful than figuring out who will actually staff a second Trump administration.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/opinion/trump-tries-to-sell-a-normal-ish-second-term/>
+
+---
+
+## The test Biden can’t pass
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>President Joe Biden recently gave a rough, tough, eyes-ablaze, here-I-come State of the Union speech that some saw as a definitive disposal of his democratically diagnosed mental vacuity. But wait. The speech simultaneously raised all kinds of questions about Biden, and then, not too many days after that, TV sets were once again spreading news about Biden&#8217;s brain gone blank in a different situation, one that had included an impeachment possibility.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/opinion/the-test-biden-cant-pass/>
+
+---
+
+## Police track down escaped Idaho prison gang member and accomplice, say pair may have killed 2 on run
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>Police on Thursday arrested two white supremacist gang members &#8212; an Idaho prison inmate and the accomplice who helped him escape &#8212; following an attack on corrections officers at a Boise hospital, and investigators are looking into whether they killed two people while on the run.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/nation-world-news/police-track-down-escaped-idaho-prison-gang-member-and-accomplice-say-pair-may-have-killed-2-on-run/>
+
+---
+
+## Trump’s lawyers keep fighting $454M fraud appeal bond requirement
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Former President Donald Trump&#8217;s lawyers kept pressing an appellate court Thursday to excuse him from covering a $454 million fraud lawsuit judgment for now, saying he&#8217;d suffer &#8220;irreparable harm&#8221; before his appeal is decided.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/nation-world-news/trumps-lawyers-keep-fighting-454m-fraud-appeal-bond-requirement/>
+
+---
+
+## Lawmakers press for investigation of United Airlines mishaps
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>A series of United Airlines flight mishaps, including midflight mechanical issues and a runway excursion, require deeper investigation by federal authorities, according to two Texas lawmakers.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/nation-world-news/lawmakers-press-for-investigation-of-united-airlines-mishaps/>
+
+---
+
+## The moon is the spotlight at ‘Imiloa special traveling exhibit
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>Learners of all ages are invited to explore the special traveling exhibit &#8220;Kaulana Mahina: Look Up, Look Down, Look All Around!&#8221; at &#8216;Imiloa Astronomy Center until June 9.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/community/the-moon-is-the-spotlight-at-imiloa-special-traveling-exhibit/>
+
+---
+
+## Help shape the future of Hawaii Volcanoes National Park
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>The comment period to provide input about a plan that will address congestion, safety, resource protection and improve the visitor experience in the busy Kilauea summit area of Hawaii Volcanoes National Park has been extended to March 31.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/community/help-shape-the-future-of-hawaii-volcanoes-national-park/>
+
+---
+
+## Obituaries for March 22
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>Bernard Paul K. Haena Sr., 80, of Kailua-Kona died Feb. 3 in Palo Alto, Calif. Born in Hilo, he was a retired mechanic for American Airlines in San Francisco and U.S. Navy veteran. Graveside service and burial 11 a.m. Wednesday (March 27) at West Hawaii Veterans Cemetery. Casual attire. Survived by wife, Sonia; sons, Bernard Jr. and Brian; daughter-in-law, Karen; siblings, Calvin Haena and Josephine Galang; five grandchildren; nieces and nephews. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/obituaries/obituaries-for-march-22-9/>
+
+---
+
+## Blinken says Israeli assault on Gaza’s Rafah would be a ‘mistake’ and isn’t needed to defeat Hamas
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO &#8212; U.S. Secretary of State Antony Blinken said Thursday a major Israeli ground assault on the southern Gaza town of Rafah would be &#8220;a mistake&#8221; and &#8220;unnecessary&#8221; to defeating Hamas, underscoring the further souring of relations between the United States and Israel.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/nation-world-news/blinken-says-israeli-assault-on-gazas-rafah-would-be-a-mistake-and-isnt-needed-to-defeat-hamas/>
+
+---
+
+## Reddit, the self-anointed ‘front page of the internet,’ soars in Wall Street debut
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>Reddit&#8217;s stock soared in its Wall Street debut as investors pushed the value of the company close to $9 billion seconds after it began trading on the New York Stock Exchange.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/nation-world-news/reddit-the-self-anointed-front-page-of-the-internet-soars-in-wall-street-debut/>
+
+---
+
+## Tavana, Brother Noland to perform in Waimea
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>Tavana &#8212; a multi-instrumental one-man band that showcases his diverse, island-inspired blues &#8212; will perform March 30 in Waimea.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/community/tavana-brother-noland-to-perform-in-waimea/>
+
+---
+
+## Puna lawmaker selected for national fellowship
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>House Rep. Greggor Ilagan (D-Puna) is representing the Aloha State as one of 29 Generation Z and millennial lawmakers across the United States to participate in the Future Caucus Innovation Fellowship Class of 2024.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/community/puna-lawmaker-selected-for-national-fellowship/>
+
+---
+
+## CNMI governor: 'Don't dwell on problems, focus on solutions' 
+
+date: 2024-03-22, from: Pacific Island Times
+
+By Bryan Manabat Saipan--- CNMI Gov. Arnold I. Palacios urged the community to lay aside their differences and "take on the challenges... 
+
+<https://www.pacificislandtimes.com/post/cnmi-governor-don-t-dwell-on-problems-focus-on-solutions>
+
+---
+
+## COC endorse the development and application of Cultural Protocols for Offshore Research Expeditions
+
+date: 2024-03-22, from: Island Times
+
+<figure><img width="1024" height="306" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/IMG_2581_cropped.jpg?fit=1024%2C306&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/IMG_2581_cropped.jpg?w=1250&amp;ssl=1 1250w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/IMG_2581_cropped.jpg?resize=300%2C90&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/IMG_2581_cropped.jpg?resize=1024%2C306&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/IMG_2581_cropped.jpg?resize=768%2C229&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/IMG_2581_cropped.jpg?resize=1200%2C358&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/IMG_2581_cropped.jpg?resize=400%2C119&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/IMG_2581_cropped.jpg?resize=706%2C211&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/IMG_2581_cropped.jpg?fit=1024%2C306&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69379" data-permalink="https://islandtimes.org/coc-endorse-the-development-and-application-of-cultural-protocols-for-offshore-research-expeditions/img_2581_cropped/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/IMG_2581_cropped.jpg?fit=1250%2C373&amp;ssl=1" data-orig-size="1250,373" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_2581_cropped" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/IMG_2581_cropped.jpg?fit=300%2C90&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/IMG_2581_cropped.jpg?fit=780%2C233&amp;ssl=1" /></figure>
+<p>A project to develop cultural protocols and the application of traditional knowledge and best practices in offshore scientific expeditions was given the support of Palau’s Council of Chiefs.&#160; The Palau National Marine Sanctuary (PNMS) legislation was enacted into law on October 28, 2015.&#160; Also key to this ambitious national undertaking was the fact that it [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/coc-endorse-the-development-and-application-of-cultural-protocols-for-offshore-research-expeditions/">COC endorse the development and application of Cultural Protocols for Offshore Research Expeditions</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/coc-endorse-the-development-and-application-of-cultural-protocols-for-offshore-research-expeditions/>
+
+---
+
+## Palau Solar Power Plant now Supplementing Grid
+
+date: 2024-03-22, from: Island Times
+
+<figure><img width="900" height="675" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Solar1.jpg?fit=900%2C675&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Solar1.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Solar1.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Solar1.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Solar1.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Solar1.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Solar1.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Solar1.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Solar1.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Solar1.jpg?fit=900%2C675&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69399" data-permalink="https://islandtimes.org/palau-solar-power-plant-now-supplementing-grid/solar1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Solar1.jpg?fit=900%2C675&amp;ssl=1" data-orig-size="900,675" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1711027990&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;5.23&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Solar1" data-image-description="" data-image-caption="&lt;p&gt;PPUC can now turn off diesel generators and bring online solar energy to supplement fuel.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Solar1.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Solar1.jpg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>KOROR, Palau—Solar power generated by Solar Pacific Energy Corporation, an independent power producer, is now supplementing the national grid, according to the Palau Public Utilities Corporation (PPUC). On March 14, &#8220;we shut down two diesel generators for six hours and used energy produced by the solar plant to supplement the energy produced by the remaining [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-solar-power-plant-now-supplementing-grid/">Palau Solar Power Plant now Supplementing Grid</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-solar-power-plant-now-supplementing-grid/>
+
+---
+
+## Palau’s Marine Law Wharf Upgrade completed, marking Milestone in Australia-Palau Partnership
+
+date: 2024-03-22, from: Island Times
+
+<figure><img width="1024" height="577" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240321_092739-scaled.jpg?fit=1024%2C577&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240321_092739-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240321_092739-scaled.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240321_092739-scaled.jpg?resize=1024%2C577&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240321_092739-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240321_092739-scaled.jpg?resize=1536%2C865&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240321_092739-scaled.jpg?resize=2048%2C1153&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240321_092739-scaled.jpg?resize=1200%2C676&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240321_092739-scaled.jpg?resize=1568%2C883&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240321_092739-scaled.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240321_092739-scaled.jpg?resize=706%2C398&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240321_092739-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240321_092739-scaled.jpg?fit=1024%2C577&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69392" data-permalink="https://islandtimes.org/palaus-marine-law-wharf-upgrade-completed-marking-milestone-in-australia-palau-partnership/20240321_092739/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240321_092739-scaled.jpg?fit=2560%2C1442&amp;ssl=1" data-orig-size="2560,1442" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1711013259&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;5.23&quot;,&quot;iso&quot;:&quot;40&quot;,&quot;shutter_speed&quot;:&quot;0.00050200803212851&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20240321_092739" data-image-description="" data-image-caption="&lt;p&gt;Japan and Palau address the growing health care issues and the growing number of young people.  Maiberel women attending the workshop&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240321_092739-scaled.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240321_092739-scaled.jpg?fit=780%2C440&amp;ssl=1" /></figure>
+<p>Koror, Palau &#8211; The Palau Ministry of Justice, Marine Law Enforcement Division (MLE) celebrated a significant achievement yesterday with the completion of a wharf improvement project funded and supported by the Australian government. A ribbon-cutting ceremony was held at the MLE pier to mark the project&#8217;s official conclusion. &#8220;This not only enhances the MLE&#8217;s capabilities [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-marine-law-wharf-upgrade-completed-marking-milestone-in-australia-palau-partnership/">Palau&#8217;s Marine Law Wharf Upgrade completed, marking Milestone in Australia-Palau Partnership</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palaus-marine-law-wharf-upgrade-completed-marking-milestone-in-australia-palau-partnership/>
+
+---
+
+## Palau, Japan Partner on Health Initiative during Diplomatic Anniversary
+
+date: 2024-03-22, from: Island Times
+
+<figure><img width="1024" height="627" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/japan2.jpg?fit=1024%2C627&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/japan2.jpg?w=1890&amp;ssl=1 1890w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/japan2.jpg?resize=300%2C184&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/japan2.jpg?resize=1024%2C627&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/japan2.jpg?resize=768%2C470&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/japan2.jpg?resize=1536%2C940&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/japan2.jpg?resize=1200%2C735&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/japan2.jpg?resize=1568%2C960&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/japan2.jpg?resize=400%2C245&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/japan2.jpg?resize=706%2C432&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/japan2.jpg?fit=1024%2C627&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69389" data-permalink="https://islandtimes.org/palau-japan-partner-on-health-initiative-during-diplomatic-anniversary/japan2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/japan2.jpg?fit=1890%2C1157&amp;ssl=1" data-orig-size="1890,1157" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1711014448&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="japan2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/japan2.jpg?fit=300%2C184&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/japan2.jpg?fit=780%2C478&amp;ssl=1" /></figure>
+<p>KOROR, Palau – To mark the 30th anniversary of diplomatic relations between Palau and Japan, the Japanese Embassy hosted a health workshop for members of Palauan women&#8217;s groups at the ambassador&#8217;s residence on Thursday. The event featured presentations by Dr. Satoshi Ogata of Hiroshima International University and Mr. Amma Nohumichi of Peace Wind. Dr. Ogata [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-japan-partner-on-health-initiative-during-diplomatic-anniversary/">Palau, Japan Partner on Health Initiative during Diplomatic Anniversary</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-japan-partner-on-health-initiative-during-diplomatic-anniversary/>
+
+---
+
+## Confusion surrounds Palau’s Public Safety Director’s Status
+
+date: 2024-03-22, from: Island Times
+
+<p>Koror, Palau &#8211; The status of Cary Levitre, Director of Palau&#8217;s Bureau of Public Safety (BPS), is unclear following mixed messages about his resignation. On February 26, Levitre submitted a letter to Minister of Justice Uduch Sengebau-Senior resigning from his position, effective March 15, 2024. The letter reportedly blamed the Minister for his departure. However, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/confusion-surrounds-palaus-public-safety-directors-status/">Confusion surrounds Palau&#8217;s Public Safety Director&#8217;s Status</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/confusion-surrounds-palaus-public-safety-directors-status/>
+
+---
+
+## U.S. approves $7.1B in aid to freely Associated States
+
+date: 2024-03-22, from: Island Times
+
+<p>WASHINGTON&#160; – In a move hailed as historic by U.S. officials, the enactment of the Compact of Free Association (COFA) Amendments Act of 2024 provides $7.1 billion in funding over 20 years to the Micronesian island nations of Palau, Micronesia, and the Marshall Islands. &#8220;The enactment of this legislation is really a historic occasion and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-spproves-7-1b-in-aid-to-freely-associated-states/">U.S. approves $7.1B in aid to freely Associated States</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/u-s-spproves-7-1b-in-aid-to-freely-associated-states/>
+
+---
+
+## 17 appointees Fill Board vacancies across government agencies
+
+date: 2024-03-22, from: Island Times
+
+<p>Koror, Palau &#8211; Seventeen appointments to various government boards and commissions were approved by the Palau Senate this month, bolstering several agencies that faced challenges due to a lack of quorum. The appointments, spread across twelve entities, including the Palau Housing Authority, Belau National Hospital Authority, and the Palau National Scholarship Board, addressed vacancies that [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/17-appointees-fill-board-vacancies-across-government-agencies/">17 appointees Fill Board vacancies across government agencies</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/17-appointees-fill-board-vacancies-across-government-agencies/>
+
+---
+
+## Airai Elementary School will have a new bus through Japan’s Grassroots Project
+
+date: 2024-03-22, from: Island Times
+
+<figure><img width="1024" height="580" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Japans-Grassroots-Project1.jpg?fit=1024%2C580&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Japans-Grassroots-Project1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Japans-Grassroots-Project1.jpg?resize=300%2C170&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Japans-Grassroots-Project1.jpg?resize=1024%2C580&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Japans-Grassroots-Project1.jpg?resize=768%2C435&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Japans-Grassroots-Project1.jpg?resize=1200%2C680&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Japans-Grassroots-Project1.jpg?resize=400%2C227&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Japans-Grassroots-Project1.jpg?resize=706%2C400&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Japans-Grassroots-Project1.jpg?fit=1024%2C580&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69376" data-permalink="https://islandtimes.org/airai-elementary-school-will-have-a-new-bus-through-japans-grassroots-project/japans-grassroots-project1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Japans-Grassroots-Project1.jpg?fit=1249%2C708&amp;ssl=1" data-orig-size="1249,708" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;YOSHIDA TAMAKI&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Japan’s Grassroots Project1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Japans-Grassroots-Project1.jpg?fit=300%2C170&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Japans-Grassroots-Project1.jpg?fit=780%2C442&amp;ssl=1" /></figure>
+<p>On March 19, 2024, the grant contract signing ceremony for “The Project for the Procurement of School Bus for Airai Elementary School” through Japan’s Grant Assistance for Grassroots Human Security Projects (GGP), was held at the Embassy of Japan. The contract was signed between His Excellencey Mr. ORIKASA Hiroyuki, Ambassador of Japan to Palau, and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/airai-elementary-school-will-have-a-new-bus-through-japans-grassroots-project/">Airai Elementary School will have a new bus through Japan’s Grassroots Project</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/airai-elementary-school-will-have-a-new-bus-through-japans-grassroots-project/>
+
+---
+
+## WCTC donates towards PCS 30th anniversary
+
+date: 2024-03-22, from: Island Times
+
+<figure><img width="600" height="907" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/wctc.jpg?fit=600%2C907&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/wctc.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/wctc.jpg?resize=198%2C300&amp;ssl=1 198w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/wctc.jpg?resize=400%2C605&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/wctc.jpg?fit=600%2C907&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69373" data-permalink="https://islandtimes.org/wctc-donates-towards-pcs-30th-anniversary/wctc/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/wctc.jpg?fit=600%2C907&amp;ssl=1" data-orig-size="600,907" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="wctc" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/wctc.jpg?fit=198%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/wctc.jpg?fit=600%2C907&amp;ssl=1" /></figure>
+<p>The Palau conservation Society would like to thank WCTC for their generous support for the upcoming 30th year anniversary celebrations! WCTC has been one of the longest Corporate Partner for Conservation members of PCS since it first opened its doors in 1994. Their donation of a Mazda Tribute will become one of the main grand [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/wctc-donates-towards-pcs-30th-anniversary/">WCTC donates towards PCS 30th anniversary</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/wctc-donates-towards-pcs-30th-anniversary/>
+
+---
+
+## Empowering Palau: A Call for Minimum Wage Increase
+
+date: 2024-03-22, from: Island Times
+
+<figure><img width="250" height="152" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/03/LETTER-TO-THE-EDITOR2-475x300-1.jpg?fit=250%2C152&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/03/LETTER-TO-THE-EDITOR2-475x300-1.jpg?w=250&amp;ssl=1 250w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/03/LETTER-TO-THE-EDITOR2-475x300-1.jpg?fit=250%2C152&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/03/LETTER-TO-THE-EDITOR2-475x300-1.jpg?fit=250%2C152&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="20636" data-permalink="https://islandtimes.org/taiwan-embassy-denies-lobbying-delay-of-pnms-implementation/letter-to-the-editor2-475x300-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/03/LETTER-TO-THE-EDITOR2-475x300-1.jpg?fit=250%2C152&amp;ssl=1" data-orig-size="250,152" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="LETTER-TO-THE-EDITOR2-475&#215;300" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/03/LETTER-TO-THE-EDITOR2-475x300-1.jpg?fit=250%2C152&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/03/LETTER-TO-THE-EDITOR2-475x300-1.jpg?fit=250%2C152&amp;ssl=1" /></figure>
+<p>In the face of rising inflation and global economic challenges, Palau stands at a critical juncture. The last minimum wage increase legislation was passed in 2013. Meanwhile, inflation increased by more than 30% in just the last several years — this is before PGST was implemented and well beyond the additional 4% that came with [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/empowering-palau-a-call-for-minimum-wage-increase/">Empowering Palau: A Call for Minimum Wage Increase</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/empowering-palau-a-call-for-minimum-wage-increase/>
+
+---
+
+## Mean Girls ~ Toxic Women
+
+date: 2024-03-22, from: Island Times
+
+<figure><img width="400" height="378" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="65054" data-permalink="https://islandtimes.org/intimacy-gone-bad-2/womens-corner-1-7/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" data-orig-size="400,378" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" /></figure>
+<p>It&#8217;s not up to me to make other women to like me. I must be true to myself. I know not to expect other women to be my friends. I mean, you can&#8217;t force friendships. As the old saying goes, &#8216;With friends like these, who needs enemies.&#8221; It&#8217;s a pity that out of self-preservation one [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/mean-girls-toxic-women/">Mean Girls ~ Toxic Women</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/mean-girls-toxic-women/>
+
+---
+
+## The Translator: “Friends to all”
+
+date: 2024-03-22, from: Island Times
+
+<p>A new series in which experts explain the sometimes baffling jargon of international affairs. By Mihai Sora SYDNEY (DEVPOLICY.ORG)&#8212; Heard diplomats or analysts using a new turn of phrase only to wonder, “What does that mean?” Today we ask … What is “Friends to all”? At its core, “Friends to all” is a declaration of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-translator-friends-to-all/"> The Translator: “Friends to all”</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/the-translator-friends-to-all/>
+
+---
+
+## Nuclear legacy likely to persist as the staple of U.S-Marshall Islands talks
+
+date: 2024-03-22, from: Island Times
+
+<p>WASHINGTON/MAJURO (PACIFIC ISLAND TIMES) &#8212;Despite compromises that have been reached on nuclear reparations, the lingering impact of the massive U.S nuclear testing in Bikini Atoll is likely to be the recurring centerpiece of future dialogues between the U.S and the Marshall Islands, a State Department official said. “This is a sensitive issue, and we remember [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/nuclear-legacy-likely-to-persist-as-the-staple-of-u-s-marshall-islands-talks/">Nuclear legacy likely to persist as the staple of U.S-Marshall Islands talks</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/nuclear-legacy-likely-to-persist-as-the-staple-of-u-s-marshall-islands-talks/>
+
+---
+
+## One Tech Tip: How to spot AI-generated deepfake images
+
+date: 2024-03-22, from: Island Times
+
+<figure><img width="1024" height="766" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/One-Tech-Tip.jpg?fit=1024%2C766&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/One-Tech-Tip.jpg?w=1250&amp;ssl=1 1250w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/One-Tech-Tip.jpg?resize=300%2C224&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/One-Tech-Tip.jpg?resize=1024%2C766&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/One-Tech-Tip.jpg?resize=768%2C574&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/One-Tech-Tip.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/One-Tech-Tip.jpg?resize=400%2C299&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/One-Tech-Tip.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/One-Tech-Tip.jpg?resize=1200%2C898&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/One-Tech-Tip.jpg?resize=706%2C528&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/One-Tech-Tip.jpg?fit=1024%2C766&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69362" data-permalink="https://islandtimes.org/one-tech-tip-how-to-spot-ai-generated-deepfake-images/one-tech-tip/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/One-Tech-Tip.jpg?fit=1250%2C935&amp;ssl=1" data-orig-size="1250,935" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="One Tech Tip" data-image-description="" data-image-caption="&lt;p&gt;AI fakery is quickly becoming one of the biggest problems confronting us online. With AI deepfakes cropping up almost every day, depicting everyone from Taylor Swift to Donald Trump, it’s getting harder to tell what’s real from what’s not. The following photo-illustrated graphic highlights a few notable areas of an AI-deepfake of Pope Francis.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/One-Tech-Tip.jpg?fit=300%2C224&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/One-Tech-Tip.jpg?fit=780%2C583&amp;ssl=1" /></figure>
+<p>By KELVIN CHAN and ALI SWENSON Associated Press LONDON (AP) — AI fakery is quickly becoming one of the biggest problems confronting us online. Deceptive pictures, videos and audio are proliferating as a result of the rise and&#160;misuse of generative artificial intelligence tools. With AI deepfakes cropping up almost every day, depicting everyone from&#160;Taylor Swift&#160;to&#160;Donald [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/one-tech-tip-how-to-spot-ai-generated-deepfake-images/">One Tech Tip: How to spot AI-generated deepfake images</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/one-tech-tip-how-to-spot-ai-generated-deepfake-images/>
+
+---
+
+## Death sentence sought for Truong My Lan, the woman allegedly behind Vietnam’s largest-known financial fraud
+
+date: 2024-03-22, from: Island Times
+
+<p>(ABC-Australia) Vietnamese prosecutors have called for the death penalty to be handed to the mastermind of the nation&#8217;s largest financial fraud on record, state media says. Truong My Lan, the chairwoman of real estate developer Van Thinh Phat Holdings Group, faces a trial in the economic hub of Ho Chi Minh City accused of leading [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/death-sentence-sought-for-truong-my-lan-the-woman-allegedly-behind-vietnams-largest-known-financial-fraud/">Death sentence sought for Truong My Lan, the woman allegedly behind Vietnam&#8217;s largest-known financial fraud</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/death-sentence-sought-for-truong-my-lan-the-woman-allegedly-behind-vietnams-largest-known-financial-fraud/>
+
+---
+
+## March is an exciting month for the PSA and for sailing in Palau
+
+date: 2024-03-22, from: Island Times
+
+<figure><img width="1024" height="858" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed-1-1.jpg?fit=1024%2C858&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed-1-1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed-1-1.jpg?resize=300%2C251&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed-1-1.jpg?resize=1024%2C858&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed-1-1.jpg?resize=768%2C644&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed-1-1.jpg?resize=1200%2C1006&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed-1-1.jpg?resize=400%2C335&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed-1-1.jpg?resize=706%2C592&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed-1-1.jpg?fit=1024%2C858&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69357" data-permalink="https://islandtimes.org/march-is-an-exciting-month-for-the-psa-and-for-sailing-in-palau/unnamed-1-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed-1-1.jpg?fit=1249%2C1047&amp;ssl=1" data-orig-size="1249,1047" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="unnamed (1)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed-1-1.jpg?fit=300%2C251&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed-1-1.jpg?fit=780%2C654&amp;ssl=1" /></figure>
+<p>The Palau Sailing Association (PSA) extends sincere thanks to the community for supporting our recent fundraising activities ahead of the 3rd Annual Palau &#8211; Japan OP Dinghy Friendship Race, to be held on Saturday 30 March at Skojio boat ramp. The money raised has enabled the PSA to purchase essential items needed to host a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/march-is-an-exciting-month-for-the-psa-and-for-sailing-in-palau/">March is an exciting month for the PSA and for sailing in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/march-is-an-exciting-month-for-the-psa-and-for-sailing-in-palau/>
+
+---
+
+## Andy Murray beats weary Matteo Berrettini to advance at the Miami Open
+
+date: 2024-03-22, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/andy-Murray.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/andy-Murray.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/andy-Murray.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/andy-Murray.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/andy-Murray.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/andy-Murray.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/andy-Murray.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69354" data-permalink="https://islandtimes.org/andy-murray-beats-weary-matteo-berrettini-to-advance-at-the-miami-open/andy-murray-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/andy-Murray.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.2&quot;,&quot;credit&quot;:&quot;Wilfredo Lee&quot;,&quot;camera&quot;:&quot;ILCE-9M3&quot;,&quot;caption&quot;:&quot;Andy Murray, of Britain, celebrates after beating Matteo Berrettini, of Italy, 4-6, 6-3, 6-4, in his first round match at the Miami Open tennis tournament, Wednesday, March 20, 2024, in Miami Gardens, Fla. (AP Photo\/Wilfredo Lee)&quot;,&quot;created_timestamp&quot;:&quot;1710958425&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved.&quot;,&quot;focal_length&quot;:&quot;400&quot;,&quot;iso&quot;:&quot;1000&quot;,&quot;shutter_speed&quot;:&quot;0.0008&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="andy Murray" data-image-description="" data-image-caption="&lt;p&gt;Andy Murray, of Britain, celebrates after beating Matteo Berrettini, of Italy, 4-6, 6-3, 6-4, in his first round match at the Miami Open tennis tournament, Wednesday, March 20, 2024, in Miami Gardens, Fla. (AP Photo/Wilfredo Lee)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/andy-Murray.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/andy-Murray.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>MIAMI GARDENS, Fla. (AP) — Andy Murray won another lengthy match with Matteo Berrettini, who appeared weary and leaned on his racket to keep his balance during Murray&#8217;s 4-6, 6-3, 6-4 victory Wednesday at the Miami Open. Playing his first match on the ATP Tour this season, Berrettini was serving with Murray leading 5-2 in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/andy-murray-beats-weary-matteo-berrettini-to-advance-at-the-miami-open/">Andy Murray beats weary Matteo Berrettini to advance at the Miami Open</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/andy-murray-beats-weary-matteo-berrettini-to-advance-at-the-miami-open/>
+
+---
+
+## Stephen Curry reaches 300 3-pointers for record fifth time, Warriors beat Grizzlies 137-116
+
+date: 2024-03-22, from: Island Times
+
+<figure><img width="600" height="899" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Stephen-Curry-reaches.jpg?fit=600%2C899&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Stephen-Curry-reaches.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Stephen-Curry-reaches.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Stephen-Curry-reaches.jpg?resize=400%2C599&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Stephen-Curry-reaches.jpg?fit=600%2C899&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69351" data-permalink="https://islandtimes.org/stephen-curry-reaches-300-3-pointers-for-record-fifth-time-warriors-beat-grizzlies-137-116/stephen-curry-reaches/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Stephen-Curry-reaches.jpg?fit=600%2C899&amp;ssl=1" data-orig-size="600,899" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Godofredo A. V\u00e1squez&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Golden State Warriors guard Stephen Curry shoots a 3-point basket during the first half of an NBA basketball game against the Memphis Grizzlies, Wednesday, March 20, 2024, in San Francisco. (AP Photo\/Godofredo A. V\u00e1squez)&quot;,&quot;created_timestamp&quot;:&quot;1710962240&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;2500&quot;,&quot;shutter_speed&quot;:&quot;0.000625&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Stephen Curry reaches" data-image-description="" data-image-caption="&lt;p&gt;Golden State Warriors guard Stephen Curry shoots a 3-point basket during the first half of an NBA basketball game against the Memphis Grizzlies, Wednesday, March 20, 2024, in San Francisco. (AP Photo/Godofredo A. Vásquez)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Stephen-Curry-reaches.jpg?fit=200%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Stephen-Curry-reaches.jpg?fit=600%2C899&amp;ssl=1" /></figure>
+<p>By JANIE McCAULEY AP Sports Writer SAN FRANCISCO (AP) — The Golden State Warriors received a halftime message about taking control of the third quarter and making regular defensive stops, and they wasted no time stealing the momentum once back on the floor. They shared the ball and they took care of it. Stephen Curry [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/stephen-curry-reaches-300-3-pointers-for-record-fifth-time-warriors-beat-grizzlies-137-116/">Stephen Curry reaches 300 3-pointers for record fifth time, Warriors beat Grizzlies 137-116</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/stephen-curry-reaches-300-3-pointers-for-record-fifth-time-warriors-beat-grizzlies-137-116/>
+
+---
+
+## Microsoft pays Inflection $650 million in licensing deal while poaching top talents, source says
+
+date: 2024-03-22, updated: 2024-03-22, from: Marianas Variety
+
+(Reuters) — Microsoft has agreed to pay AI startup Inflection about $650 million in cash in an unusual deal that would allow Microsoft to use Inflection's models and hire most of the startup's staff including its co-founders, a person familiar with the matter told Reuters on Thursday. 
+
+<https://www.mvariety.com/business/microsoft-pays-inflection-650-million-in-licensing-deal-while-poaching-top-talents-source-says/article_fa47e278-e81b-11ee-827b-e329379c815d.html>
+
+---
+
+## Mississippi 'Goon Squad' torture defendants get prison terms of 10 to 40 years
+
+date: 2024-03-22, updated: 2024-03-22, from: Marianas Variety
+
+(Reuters) — A federal judge in Mississippi on Thursday wrapped up sentencing of six white former law enforcement officers who pleaded guilty to the "Goon Squad" torture and sexual abuse of two Black men, leaving the defendants each facing from 10 to 40 years in prison. 
+
+<https://www.mvariety.com/news/national/mississippi-goon-squad-torture-defendants-get-prison-terms-of-10-to-40-years/article_78f74704-e81b-11ee-b678-ab781959cfa1.html>
+
+---
+
+## No charges to be filed in death of Oklahoma nonbinary teen
+
+date: 2024-03-22, updated: 2024-03-22, from: Marianas Variety
+
+(Reuters) — Prosecutors on Thursday announced that no criminal charges would be filed in the death of nonbinary Oklahoma teenager Nex Benedict, who died one day after a fight at school that may have followed bullying due to Benedict's gender identity. 
+
+<https://www.mvariety.com/news/national/no-charges-to-be-filed-in-death-of-oklahoma-nonbinary-teen/article_3c19346e-e81b-11ee-b2a8-cb8d9c018a2b.html>
+
+---
+
+## Third man charged with murder in shooting at Super Bowl rally in Kansas City
+
+date: 2024-03-22, updated: 2024-03-22, from: Marianas Variety
+
+(Reuters) — A third man was charged on Thursday with murder after a gunfight on the fringe of a Super Bowl victory rally in Kansas City, Missouri, last month killed one person and wounded more than 20 others in a quarrel over eye contact, prosecutors said. 
+
+<https://www.mvariety.com/news/national/third-man-charged-with-murder-in-shooting-at-super-bowl-rally-in-kansas-city/article_ce58d236-e81a-11ee-a681-2f12f789b515.html>
+
+---
+
+## Mexico fears discrimination, strained US relations under new Texas immigration law
+
+date: 2024-03-22, updated: 2024-03-22, from: Marianas Variety
+
+WASHINGTON/CIUDAD JUAREZ, Mexico (Reuters) — Mexico filed a court brief supporting the U.S. Department of Justice's opposition to a Republican-backed Texas law that would empower state authorities to arrest and prosecute people suspected of illegally crossing the U.S.-Mexico border. 
+
+<https://www.mvariety.com/news/national/mexico-fears-discrimination-strained-us-relations-under-new-texas-immigration-law/article_3f509204-e81a-11ee-bb6b-af724abf9c7b.html>
+
+---
+
+## Two Idaho fugitives captured day after violent escape
+
+date: 2024-03-22, updated: 2024-03-22, from: Marianas Variety
+
+(Reuters) — An Idaho maximum-security prison inmate and a former cellblock acquaintance who helped him escape from a hospital in a barrage of gunfire were arrested on Thursday without a shot being fired, ending a 36-hour manhunt, authorities said. 
+
+<https://www.mvariety.com/news/national/two-idaho-fugitives-captured-day-after-violent-escape/article_f66687ba-e819-11ee-b257-db132f5dc59d.html>
+
+---
+
+## Haiti gang leader killed as transition council nears completion
+
+date: 2024-03-22, updated: 2024-03-22, from: Marianas Variety
+
+PORT-AU-PRINCE (Reuters) — Attacks, including a shooting that left a gang leader dead, flared in Haiti's capital, Port-au-Prince, on Thursday as political groups appeared nearer to finalizing a transition council to take over from an absent government. 
+
+<https://www.mvariety.com/news/haiti-gang-leader-killed-as-transition-council-nears-completion/article_41311f04-e819-11ee-b5d5-fb100dcf2cda.html>
+
+---
+
+## Japan's broader price trends moderate, complicating BOJ outlook
+
+date: 2024-03-22, updated: 2024-03-22, from: Marianas Variety
+
+TOKYO (Reuters) — Japan's core inflation accelerated in February but an index gauging the broader price trend slowed sharply, data showed, highlighting uncertainty on how soon the central bank will hike interest rates again. 
+
+<https://www.mvariety.com/news/japans-broader-price-trends-moderate-complicating-boj-outlook/article_f8bc3dc6-e818-11ee-bf2c-c78ccd44e1df.html>
+
+---
+
+## GPD: Patrol car made 'imprudent' left turn before collision
+
+date: 2024-03-22, from: Guam Daily Post
+
+A Guam Police Department patrol vehicle "executed a left turn in an imprudent manner" which resulted in a collision with another car, according to a release from GPD. 
+
+<https://www.postguam.com/news/gpd-patrol-car-made-imprudent-left-turn-before-collision/article_f7da8512-e812-11ee-a7b3-cbe6649e263c.html>
+
+---
+
+## GDOE chief Swanson receives low marks from Guam Education Board after 6 months on job
+
+date: 2024-03-22, updated: 2024-03-22, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — Guam Department of Education Superintendent Erik Swanson needs to improve his performance, based on a performance evaluation of his first six months on the job. 
+
+<https://www.mvariety.com/news/gdoe-chief-swanson-receives-low-marks-from-guam-education-board-after-6-months-on-job/article_e394fd8a-e817-11ee-963e-073567d668ae.html>
+
+---
+
+## Employee of AG's office charged with criminal sexual conduct
+
+date: 2024-03-22, from: Guam Daily Post
+
+An employee of the Office of the Attorney General has been charged with third-degree criminal sexual conduct as a second-degree felony. 
+
+<https://www.postguam.com/news/employee-of-ags-office-charged-with-criminal-sexual-conduct/article_ed8c21b8-e80a-11ee-a385-6b912e5a77fe.html>
+
+---
+
+## Public Health asks community to answer immunization survey
+
+date: 2024-03-22, updated: 2024-03-22, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — The 2024 National Immunization Survey will take place in April, said Department of Public Health and Social Services officials, who asked the public to answer the call. 
+
+<https://www.mvariety.com/news/public-health-asks-community-to-answer-immunization-survey/article_509537f2-e817-11ee-bdb3-ef469e6deb86.html>
+
+---
+
+## The Odyssey of Losalini Cara, a woman of wealthy experience
+
+date: 2024-03-22, from: University of the South Pacific (Fiji)
+
+<p>“I don’t remember my mom and have no memory of her! I was born in...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/the-odyssey-of-losalini-cara-a-woman-of-wealthy-experience/">The Odyssey of Losalini Cara, a woman of wealthy experience</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/the-odyssey-of-losalini-cara-a-woman-of-wealthy-experience/>
+
+---
+
+## US, FSM begin exploring military training opportunities in Yap
+
+date: 2024-03-22, from: Pacific Island Times
+
+By Mar-Vic Cagurangan Washington and the Federated States of Micronesia have reaffirmed their defense and security ties, toasting a fresh... 
+
+<https://www.pacificislandtimes.com/post/us-fsm-begin-exploring-new-defense-opportunities-in-pacific-island-region>
+
+---
+
+## GPD investigating collision involving patrol car
+
+date: 2024-03-22, from: Guam Daily Post
+
+Police are investigating a car collision involving a patrol car in Tamuning. 
+
+<https://www.postguam.com/news/gpd-investigating-collision-involving-patrol-car/article_9fc3f8a2-e7e2-11ee-bc0c-87bbbfcb14ac.html>
 
 ---
 
@@ -631,6 +1360,16 @@ date: 2024-03-21, from: Guam Daily Post
 A man who pleaded guilty to molesting a 12-year-old boy while high on methamphetamine will spend three more years in prison. 
 
 <https://www.postguam.com/news/local/convict-to-serve-3-more-years-for-molesting-12-year-old-boy/article_b90f317e-e728-11ee-bf26-cb6eab1ce43a.html>
+
+---
+
+## Police: Carjacking suspects were high on meth
+
+date: 2024-03-21, from: Guam Daily Post
+
+Two men are facing criminal charges related to allegations of an armed carjacking at Oka Pay-Less on Tuesday afternoon. 
+
+<https://www.postguam.com/news/local/police-carjacking-suspects-were-high-on-meth/article_7dd54478-e7db-11ee-bb87-dffbbaf28109.html>
 
 ---
 

@@ -1,11 +1,219 @@
 ---
 title: socal north 2024.12
-updated: 2024-03-21 17:10:35
+updated: 2024-03-22 05:45:54
 ---
 
 # socal north 2024.12
 
-(date: 2024-03-21 17:10:35)
+(date: 2024-03-22 05:45:54)
+
+---
+
+## Senior sports staff’s March Madness predictions
+
+date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>It’s too late to change your men’s bracket, but it’s not too late to know what to expect.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/22/senior-sports-staffs-march-madness-predictions/">Senior sports staff’s March Madness predictions</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/22/senior-sports-staffs-march-madness-predictions/>
+
+---
+
+## Across enemy lines, down the interstate
+
+date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Unlikely but inseparable friends Ainsley Radell and Madi Kriz have reinforced beach volleyball for another title run.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/22/204739/">Across enemy lines, down the interstate</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/22/204739/>
+
+---
+
+## An adieu to a golden age of women’s basketball
+
+date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The dissolution of the Pac-12 looms while it’s witnessing one of its strongest seasons.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/22/204773/">An adieu to a golden age of women&#8217;s basketball</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/22/204773/>
+
+---
+
+## Classifieds – March 22, 2024
+
+date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/22/classifieds-march-22-2024/">Classifieds &#8211; March 22, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/22/classifieds-march-22-2024/>
+
+---
+
+## Tommy unmasked; the first man behind the Trojan armor speaks
+
+date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Neal Pecchenino was the first to don the suit 10 years ago, and he said it was an unforgettable experience.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/22/the-first-man-behind-the-trojan-armor-speaks/">Tommy unmasked; the first man behind the Trojan armor speaks</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/22/the-first-man-behind-the-trojan-armor-speaks/>
+
+---
+
+## There’s no place like home
+
+date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>JuJu Watkins’ home floor wasn’t always Galen Center.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/22/204748/">There’s no place like home</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/22/204748/>
+
+---
+
+## Galen Center hosts March Madness
+
+date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Four teams travel to Los Angeles from around the country for the NCAA Tournament.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/22/galen-center-hosts-march-madness/">Galen Center hosts March Madness</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/22/galen-center-hosts-march-madness/>
+
+---
+
+## Cutting scholarships is a step in the wrong direction
+
+date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC is overlooking the negative effects of removing Academic Achievement Award and Exceptional Funding.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/22/cutting-scholarships-is-a-step-in-the-wrong-direction/">Cutting scholarships is a step in the wrong direction</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/22/cutting-scholarships-is-a-step-in-the-wrong-direction/>
+
+---
+
+## USC Musicians Club cures Monday blues
+
+date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The organization, founded in 2021, provides an outlet for musicians of all levels.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/22/usc-musicians-club-cures-monday-blues/">USC Musicians Club cures Monday blues</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/22/usc-musicians-club-cures-monday-blues/>
+
+---
+
+## SDA presents a reproduction of ‘Twelve Angry Jurors’
+
+date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The play invites the audience to think about justice in current-day society.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/22/sda-presents-a-reproduction-of-twelve-angry-jurors/">SDA presents a reproduction of ‘Twelve Angry Jurors’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/22/sda-presents-a-reproduction-of-twelve-angry-jurors/>
+
+---
+
+## Virtual learning: Here to stay, or ‘Zoom’-ing away?
+
+date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students and faculty shared thoughts on virtual education four years after the coronavirus pandemic moved classes online.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/22/zoom-reflections/">Virtual learning: Here to stay, or &#8216;Zoom&#8217;-ing away?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/22/zoom-reflections/>
+
+---
+
+## New emergency medicine club promotes health, safety knowledge
+
+date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Club members handed out $7,000 worth of Narcan after training passersby.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/22/emergency-medicine-club-of-usc-gives-out-free-narcan/">New emergency medicine club promotes health, safety knowledge</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/22/emergency-medicine-club-of-usc-gives-out-free-narcan/>
+
+---
+
+## Student organization offers free tax preparation assistance
+
+date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Marshall has an opportunity to support USC VITA’s Program.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/22/student-organization-offers-free-tax-preparation-assistance/">Student organization offers free tax preparation assistance</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/22/student-organization-offers-free-tax-preparation-assistance/>
+
+---
+
+## Vibecheck on AI in college: The Battle over B-quality work
+
+date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Ramp up the integrative practice of new AI systems, listen to students and help keep your wise GE professor sane.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/22/vibecheck-on-ai-in-college-the-battle-over-b-quality-work/">Vibecheck on AI in college: The Battle over B-quality work</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/22/vibecheck-on-ai-in-college-the-battle-over-b-quality-work/>
+
+---
+
+## Loyola Project for the Innocent: Fighting for those 'stuck in the system'
+
+date: 2024-03-22, from: Laloyolan (LMU Student Newspaper)
+
+The Loyola Project for the Innocent combines the work of Loyola Law School faculty and students to get victims of wrongful conviction out of jail. Since 2011, the LPI has helped release 18 clients out of jail. 
+
+<https://www.laloyolan.com/news/loyola-project-for-the-innocent-fighting-for-those-stuck-in-the-system/article_cc32a21f-da11-55f1-8da7-7eb9450f055e.html>
+
+---
+
+## Provost Poon addresses administrative reorganization and classroom space in sixth convocation address
+
+date: 2024-03-22, from: Laloyolan (LMU Student Newspaper)
+
+Provost Thomas Poon, Ph.D., spoke to faculty, staff and students about the reorganization of the Academic Affairs Division, as well as the ongoing classroom space shortage and improvements for non-tenure track (NTT) faculty in convocation address. 
+
+<https://www.laloyolan.com/news/provost-poon-addresses-administrative-reorganization-and-classroom-space-in-sixth-convocation-address/article_6f6c878d-76b1-5b66-9efe-b5bc0dd0ae76.html>
+
+---
+
+## BREAKING: ASLMU announces election results for 2024-25 school year
+
+date: 2024-03-22, from: Laloyolan (LMU Student Newspaper)
+
+Luke Antaky, junior political science major, and Charlie Green, junior English major, won president and vice president in the 2024 ASLMU election, respectively, with 1,951 students voting. 
+
+<https://www.laloyolan.com/news/breaking-aslmu-announces-election-results-for-2024-25-school-year/article_bae97139-cb18-5a06-a172-2e9ecda91b96.html>
+
+---
+
+## Unidentified man on campus prompts LMU Emergency Alert
+
+date: 2024-03-22, from: Laloyolan (LMU Student Newspaper)
+
+The University did not consider the man an immediate threat but alerted students to stay clear of both Whelan Lane and Sunken Gardens. 
+
+<https://www.laloyolan.com/news/unidentified-man-on-campus-prompts-lmu-emergency-alert/article_d1ae3c04-e7f3-11ee-b07d-133a4348101b.html>
 
 ---
 

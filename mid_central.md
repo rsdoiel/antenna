@@ -1,11 +1,63 @@
 ---
 title: mid central 2024.12
-updated: 2024-03-21 17:10:35
+updated: 2024-03-22 05:45:54
 ---
 
 # mid central 2024.12
 
-(date: 2024-03-21 17:10:35)
+(date: 2024-03-22 05:45:54)
+
+---
+
+## The role of cache in AI processor design
+
+date: 2024-03-22, from: EDN Blog
+
+<img width="568" height="364" src="https://www.edn.com/wp-content/uploads/Role-of-Cache-Fig-2-Arteris.png?fit=568%2C364" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Role-of-Cache-Fig-2-Arteris.png?w=568 568w, https://www.edn.com/wp-content/uploads/Role-of-Cache-Fig-2-Arteris.png?w=300 300w" sizes="(max-width: 568px) 100vw, 568px" /><p>The advantages of cache are equally applicable to many complex IPs, including artificial intelligence (AI) accelerators.</p>
+<p>The post <a href="https://www.edn.com/the-role-of-cache-in-ai-processor-design/" data-wpel-link="internal">The role of cache in AI processor design</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/the-role-of-cache-in-ai-processor-design/>
+
+---
+
+## March 2024-Hye Sharzhoom
+
+date: 2024-03-22, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+ 
+
+<https://fscollegian.com/2024/03/march-2024-hye-sharzhoom/>
+
+---
+
+## Armenian Studies Scanning Event Materials Now Online
+
+date: 2024-03-22, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+In December 2019, the Armenian Studies Program was awarded a California Humanities grant of nearly $5,000 for the “Amplifying Community: Re-cording the History of the San Joaquin Valley Armenian Music Production,” project, dedicated to recovering the history of Armenian-American music production in the San Joaquin Valley during the first half of the 20th century. Armenian... 
+
+<https://fscollegian.com/2024/03/armenian-studies-scanning-event-materials-now-online/>
+
+---
+
+## AGBU Manoogian-Demirdjian School Students Visit Fresno State
+
+date: 2024-03-22, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+On Friday, February 16, more than fifty 8th grade students and teachers from the AGBU Manoogian-Demirdjian school in Los Angeles visited Fresno State. They met with Armenian Studies Prof. Barlow Der Mugrdechian, who explained to students about the Genocide Monument, which sits impress-ively in the heart of the Fresno State campus. It is the first... 
+
+<https://fscollegian.com/2024/03/agbu-manoogian-demirdjian-school-students-visit-fresno-state/>
+
+---
+
+## A form of Universal Basic Income arrives in Fresno
+
+date: 2024-03-22, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+A forum of Universal Basic Income (UBI) has come to Fresno County this month. The program began on March 15, allowing eligible individuals and families to apply for $500 monthly for 12 months. Last month, the Fresno Economic Opportunities Commission (FEOC) announced that the first guaranteed income program is coming to parts of Fresno County.... 
+
+<https://fscollegian.com/2024/03/a-form-of-universal-basic-income-arrives-in-fresno/>
 
 ---
 
@@ -55,7 +107,7 @@ date: 2024-03-21, from: Blue Devil News (Merced Community College Student Newspa
 
 date: 2024-03-21, from: EDN Blog
 
-<img width="1400" height="1435" src="https://www.edn.com/wp-content/uploads/2.5-SATA-SSD.jpg?fit=1400%2C1435" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/2.5-SATA-SSD.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/2.5-SATA-SSD.jpg?w=293 293w, https://www.edn.com/wp-content/uploads/2.5-SATA-SSD.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/2.5-SATA-SSD.jpg?w=999 999w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Got a system with limited internal storage? Got an external drive? This engineer’s positive outcome may also be your ticket to success.</p>
+<img width="1400" height="1435" src="https://www.edn.com/wp-content/uploads/2.5-SATA-SSD.jpg?fit=1400%2C1435" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/2.5-SATA-SSD.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/2.5-SATA-SSD.jpg?w=293 293w, https://www.edn.com/wp-content/uploads/2.5-SATA-SSD.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/2.5-SATA-SSD.jpg?w=999 999w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Got a system with limited internal storage? Got an external drive? This engineer’s positive outcome may also be your ticket to success.</p>
 <p>The post <a href="https://www.edn.com/workarounds-and-their-tradeoffs-for-integrated-storage-constraints/" data-wpel-link="internal">Workarounds (and their tradeoffs) for integrated storage constraints</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

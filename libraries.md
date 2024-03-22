@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.12
-updated: 2024-03-21 17:10:36
+updated: 2024-03-22 05:45:54
 ---
 
 # libraries 2024.12
 
-(date: 2024-03-21 17:10:36)
+(date: 2024-03-22 05:45:54)
+
+---
+
+## SSP’s Generations Fund Exceeds 75% Mark — Pulls Close to Goal
+
+date: 2024-03-22, from: Scholarly Kitchen
+
+<p>The Generations Fund is celebrating its next milestone achievement and SSP thanks 373 Individual &#038; Organizational Contributors.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/03/22/ssps-generations-fund-exceeds-75-mark-pulls-close-to-goal/">SSP’s Generations Fund Exceeds 75% Mark &#8212; Pulls Close to Goal</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/03/22/ssps-generations-fund-exceeds-75-mark-pulls-close-to-goal/>
 
 ---
 
@@ -16,6 +28,16 @@ date: 2024-03-22, from: ETH Zurich, recently added
 Hannigan, Brett C.; Cuthbert, Tyler; Ahmadizadeh, Chakaveh; Menon, Carlo 
 
 <http://hdl.handle.net/20.500.11850/665429>
+
+---
+
+## CD112 Supports Lymphatic  Migration of Human Dermal Dendritic Cells
+
+date: 2024-03-22, from: ETH Zurich, recently added
+
+Gkountidi, Anastasia-Olga; Jahromi, Neda Haghayegh; Gkountidi, Anastasia-Olga; Collado-Diaz, Victor; Blatter, Katharina; Bauer, Aline; Zambounis, Lito; Medina Sanchez, Jessica Danielly; Russo, Erica; Runge, Peter; Restivo, Gaetana; Gousopoulos, Epameinondas; Lindenblatt, Nicole; Levesque, Mitchell P.; Halin, Cornelia 
+
+<http://hdl.handle.net/20.500.11850/665599>
 
 ---
 

@@ -1,11 +1,111 @@
 ---
 title: games 2024.12
-updated: 2024-03-21 17:10:36
+updated: 2024-03-22 05:45:54
 ---
 
 # games 2024.12
 
-(date: 2024-03-21 17:10:36)
+(date: 2024-03-22 05:45:54)
+
+---
+
+## Halo miniatures game won’t require rulers of any kind, making things much easier for newcomers
+
+date: 2024-03-22, updated: 2024-03-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/tabletop-games/24107809/halo-flashpoint-miniatures-game-pictures-rules-preview>
+
+---
+
+## The best Fighter build for beginners in Dragon’s Dogma 2
+
+date: 2024-03-22, updated: 2024-03-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24107905/fighter-build-best-skills-augments-equipment>
+
+---
+
+## The best Thief build for beginners in Dragon’s Dogma 2
+
+date: 2024-03-22, updated: 2024-03-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24107899/thief-build-best-skills-augments-equipment>
+
+---
+
+## How to get into Battahl in Dragon’s Dogma 2
+
+date: 2024-03-22, updated: 2024-03-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24106986/battahl-how-to-enter-pass-gate-human-beastren>
+
+---
+
+## How to change your vocation in Dragon’s Dogma 2
+
+date: 2024-03-22, updated: 2024-03-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24106904/change-vocation-class-how-to>
+
+---
+
+## How to get more Wakestones in Dragon’s Dogma 2
+
+date: 2024-03-22, updated: 2024-03-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24106895/wakestones-wakestone-shards-how-to-get-revive>
+
+---
+
+## How to change your appearance in Dragon’s Dogma 2
+
+date: 2024-03-22, updated: 2024-03-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24106867/change-appearance-hair-body-barbarie-metamorphosis>
+
+---
+
+## Best Vernworth quest order for Captain Brant in Dragon’s Dogma 2
+
+date: 2024-03-22, updated: 2024-03-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24106544/vernworth-quests-order-monster-culling-disa-plot-caged-magistrate-captain-brant>
+
+---
+
+## How to increase your inventory size in Dragon’s Dogma 2
+
+date: 2024-03-22, updated: 2024-03-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24106196/inventory-size-increase-carrying-capacity-max-encumbrance>
+
+---
+
+## The best Mage build for beginners in Dragon’s Dogma 2
+
+date: 2024-03-22, updated: 2024-03-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24105932/mage-build-best-skills-augments-equipment>
 
 ---
 

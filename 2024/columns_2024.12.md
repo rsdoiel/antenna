@@ -1,11 +1,55 @@
 ---
 title: columns 2024.12
-updated: 2024-03-21 17:10:35
+updated: 2024-03-22 05:45:54
 ---
 
 # columns 2024.12
 
-(date: 2024-03-21 17:10:35)
+(date: 2024-03-22 05:45:54)
+
+---
+
+## Google Pays $10M in Bug Bounties in 2023
+
+date: 2024-03-22, updated: 2024-03-21, from: Bruce Schneier blog
+
+<p>BleepingComputer has the <a href="https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/">details</a>. It&#8217;s $2M less than in 2022, but it&#8217;s still a lot.</p>
+<blockquote><p>The highest reward for a vulnerability report in 2023 was $113,337, while the total tally since the program&#8217;s launch in 2010 has reached $59 million.</p>
+<p>For Android, the world&#8217;s most popular and widely used mobile operating system, the program awarded over $3.4 million.</p>
+<p>Google also increased the maximum reward amount for critical vulnerabilities concerning Android to $15,000, driving increased community reports.</p>
+<p>During security conferences like ESCAL8 and hardwea.io, Google awarded $70,000 for 20 critical discoveries in Wear OS and Android Automotive OS and another $116,000 for 50 reports concerning issues in Nest, Fitbit, and Wearables...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/03/google-pays-10m-in-bug-bounties-in-2023.html>
+
+---
+
+## The "current branch" in git
+
+date: 2024-03-22, updated: 2024-03-22, from: Julia Evans blog
+
+ 
+
+<https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/>
+
+---
+
+## My mentor and friend, Ken Galbraith 
+
+date: 2024-03-22, from: Robert Reich's blog
+
+He gave me a great gift 
+
+<https://robertreich.substack.com/p/my-mentor-ken-galbraith>
+
+---
+
+## Friday 22 March, 2024
+
+date: 2024-03-22, from: John Naughton's online diary
+
+Figures in a cloister Quote of the Day &#8220;I&#8217;ve been accused of vulgarity. I say that&#8217;s bullshit.” Mel Brooks Musical alternative to the morning’s radio news Liam O’Flynn &#124; The Rocks Of Bawn Link Long Read of the Day A &#8230; <a href="https://memex.naughtons.org/friday-22-march-2024/39268/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-22-march-2024/39268/>
 
 ---
 
