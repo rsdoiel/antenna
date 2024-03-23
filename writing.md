@@ -1,11 +1,130 @@
 ---
 title: writing 2024.12
-updated: 2024-03-22 05:45:54
+updated: 2024-03-23 16:16:54
 ---
 
 # writing 2024.12
 
-(date: 2024-03-22 05:45:54)
+(date: 2024-03-23 16:16:54)
+
+---
+
+## #194 - Choosing the voice
+
+date: 2024-03-22, from: Interesting, a blog on writing
+
+It's not just about how characters speak, but why they use that voice. 
+
+<https://inneresting.substack.com/p/194-choosing-the-voice>
+
+---
+
+## 2024 Waterstones Children’s Book Prize
+
+date: 2024-03-22, from: Locus Magazine
+
+<p>Winners have been announced for the 2024 Waterstones Children&#8217;s Book Prize, including titles of genre interest.</p>
+<p><strong>Older Readers&#8217;</strong></p>
+<div class="mynomorebulletlist">
+<ul>
+<li>WINNER:<strong> Thieves&#8217; Gambit</strong>, Kayvion Lewis (Simon &#38; Schuster)</li>
+<li><strong>Girl, Goddess, Queen</strong>, Bea Fitzgerald (Penguin Random House Children&#8217;s UK)</li>
+</ul>
+<p><strong>Younger Readers&#8217;</strong></p>
+<div class="mynomorebulletlist">
+<ul>
+<li>WINNER: <strong>Greenwild: The World Behind the Door</strong>, Pari Thomson (Pan Macmillan)</li>
+<li class="title"><strong>Attack of the Vampire Sheep!</strong>, Emily-Jane Clark, illustrated by Jeff Crowther (Scholastic)</li>
+<li class="title"><strong>Vivi Conway and the Sword </strong></li></ul></div></div> <a href="https://locusmag.com/2024/03/2024-waterstones-childrens-book-prize/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/03/2024-waterstones-childrens-book-prize/>
+
+---
+
+## 2024 Hugo and Lodestar Trophy Designers
+
+date: 2024-03-22, from: Locus Magazine
+
+<p>Iain J. Clark will design the base of the 2024 Hugo Award trophy, and Sara Felix will design the 2024 Lodestar Award trophy.</p>
+<p>Each year, the rocket-shaped Hugo Award trophy &#8220;is given a unique base design to reflect the personality of the hosting Worldcon.&#8221; The Lodestar trophy is also given a unique design every year. Felix previously designed the first Lodestar trophy in 2018.</p>
+<p>The designs will be revealed on  <a href="https://locusmag.com/2024/03/2024-hugo-and-lodestar-trophy-designers/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/03/2024-hugo-and-lodestar-trophy-designers/>
+
+---
+
+## Gary K. Wolfe Reviews Logical Fantasy: The Many Worlds of John Wyndham by John Wyndham
+
+date: 2024-03-22, from: Locus Magazine
+
+<p><strong>Logical Fantasy: The Many Worlds of John Wyndham</strong>, John Wyndham (Subterranean 978-1-64524-143-0, $50.00, 424pp, hc) April 2024.</p>
+<p>So many impressive writers of short fiction have shown up over the past few decades that it’s worth wondering how the writers of earlier generations seem to be holding up. A couple of new collections from two very different figures, Harlan Ellison and John Wyndham, might offer some clues. There was a  <a href="https://locusmag.com/2024/03/gary-k-wolfe-reviews-logical-fantasy-the-many-worlds-of-john-wyndham-by-john-wyndham/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/03/gary-k-wolfe-reviews-logical-fantasy-the-many-worlds-of-john-wyndham-by-john-wyndham/>
+
+---
+
+## New Books Video Is Live for March 22!
+
+date: 2024-03-22, from: Locus Magazine
+
+<p>We hope you all had a fantastic St. Patrick&#8217;s Day! We&#8217;re back at it again with another video for you, so just relax and we’ll catch you up on the top science fiction, fantasy, horror, and YA books that are slated to hit bookstore (and Amazon) shelves for March 18th, with reviews and blurbs and covers! </p>
+<div class="jetpack-video-wrapper"></div>
+<p>Our channel is @locusmagazine. <a href="https://locusmag.com/2024/03/new-books-video-is-live-for-march-22/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/03/new-books-video-is-live-for-march-22/>
+
+---
+
+## Wayward Wormhole
+
+date: 2024-03-22, from: Locus Magazine
+
+<p>The inaugural Wayward Wormhole workshop was held November 1-21, 2023 at Castle de Llaés in Gurb, Spain.</p>
+
+<p>
+
+
+     (adsbygoogle = window.adsbygoogle &#124;&#124; []).push({});
+</p>
+<p><strong>While you are here,</strong> please take a moment to support Locus with a one-time or recurring donation. We rely on reader donations to keep the magazine and site going, and would like to keep the site paywall free, but <strong>WE NEED YOUR FINANCIAL SUPPORT</strong> to continue quality coverage  <a href="https://locusmag.com/2024/03/wayward-wormhole/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/03/wayward-wormhole/>
+
+---
+
+## Vernor Vinge (1944-2024)
+
+date: 2024-03-22, from: Locus Magazine
+
+<p>Author and professor of mathematics Vernor Vinge, 79, died from Parkinson&#8217;s disease on March 20, 2024. He was noted for introducing the technological singularity concept (AKA the Singularity) and known for his gripping hard science fiction.</p>
+<p>Vernor Vinge was born in Waukesha Wisconsin on October 2, 1944. He was married to fellow science fiction author Joan D. Vinge from 1972 to 1979.</p>
+<p>His first published work of science fiction was  <a href="https://locusmag.com/2024/03/vernor-vinge-1944-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/03/vernor-vinge-1944-2024/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-03-22, from: Neil Gaiman @ BlueSky)
+
+Very willing to share Caitlin's gofundme!
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3koc6gtpm732e>
+
+---
+
+## How To Use Digressions To Create Natural Sounding Dialogue
+
+date: 2024-03-22, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-use-digressions-to-create-natural-sounding-dialogue" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/INglourious%20Basterds.jpg" alt="Hans Landa (Christoph Waltz) talking to Perrier LaPadite (Denis Ménochet) in his farmhouse in 'Inglourious Basterds,' How To Use Digressions To Create Natural Sounding Dialogue" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>Many aspiring screenwriters struggle to make&nbsp;</span><a href="https://blog.finaldraft.com/how-to-write-naturalistic-dialogue"><span>dialogue sound naturalistic</span></a><span>. Often, the dialogue is stilted and doesn’t sound like the way people actually speak (this can be said of a few professional screenwriters as well). Or the dialogue is just perfunctory, and the characters are simply spouting exposition, and, once again, it doesn’t sound like the way people speak. Finally, some writers go out of their way to be snarky or colorful in their dialogue and go a little overboard. They’ll fill their dialogue with all kinds of opinions, anecdotes, and digressions.</span></p> 
+
+<https://blog.finaldraft.com/how-to-use-digressions-to-create-natural-sounding-dialogue>
 
 ---
 

@@ -1,11 +1,151 @@
 ---
 title: mid central 2024.12
-updated: 2024-03-22 05:45:54
+updated: 2024-03-23 16:16:54
 ---
 
 # mid central 2024.12
 
-(date: 2024-03-22 05:45:54)
+(date: 2024-03-23 16:16:54)
+
+---
+
+## Hmong American sophomore pursues passion in acting
+
+date: 2024-03-22, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Nubci Her, a first-generation Hmong student, has felt the high expectations of her immigrant parents to become a doctor or lawyer someday. But she decided to pursue her passion for acting. When Her got to play Mrs. Greer, a french maid in the “Annie Jr” play in her sixth grade production, she realized that acting... 
+
+<https://fscollegian.com/2024/03/hmong-american-sophomore-pursues-passion-in-acting/>
+
+---
+
+## Remembering Dragon Ball creator Akira Toriyama
+
+date: 2024-03-22, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Akira Toriyama famed for being the creator of Chrono Trigger, Dragon Quest and the widely popular Dragon Ball Franchise passed away at age 68 on March 1. Since the release of the original Dragon Ball franchise in 1984, the series continues following the adventures of Goku and the Z warriors in the still running Dragon... 
+
+<https://fscollegian.com/2024/03/remembering-dragon-ball-creator-akira-toriyama/>
+
+---
+
+## Photo essay: ‘Doglands’ showcases the vibrant art community of Fresno State
+
+date: 2024-03-22, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+“I Heart Fresno State” is a week-long event that began on Monday. “Doglands” took place on Wednesday, March 20 and is an event dedicated to student showcases. Participants showed off their art, and student clubs got to talk with students. There was a variety of art on display ranging from caricature to ceramic. 
+
+<https://fscollegian.com/2024/03/photo-essay-doglands-showcases-the-vibrant-art-community-of-fresno-state/>
+
+---
+
+## International Marconi Day 2024
+
+date: 2024-03-22, from: Amateur Radio Relay League News
+
+<p>This year, International Marconi Day (IMD) is on April 27. Italian inventor and electrical engineer Guglielmo Giovanni Maria Marconi was born on April 25, 1874, and is credited for inventing the radiotelegraph system, creating Marconi's law, and sending the first wireless transmission over the open sea.</p><p>IMD was created to honor Marconi and is hosted annually by the Cornish Radio Amateur Club, GX...</p> 
+
+<http://www.arrl.org/news/view/international-marconi-day-2024>
+
+---
+
+## FCC to Require Two Factor Authentication for CORES Users
+
+date: 2024-03-22, from: Amateur Radio Relay League News
+
+<p>The Federal Communications Commission (FCC) has announced an upcoming change to the Commission Registration System (CORES) that licensees use to pay any application or regulatory fees, manage or reset a password on an existing FRN, or request a new FRN. Beginning March 29, 2024, multifactor authentication will be implemented. Users will be prompted to request a six-digit secondary verification ...</p> 
+
+<http://www.arrl.org/news/view/fcc-to-require-two-factor-authentication-for-cores-users>
+
+---
+
+## Get Ready for the 2024 ARRL National Convention and Youth Rally
+
+date: 2024-03-22, from: Amateur Radio Relay League News
+
+<p>A full slate of programming has been committed for the 2024 ARRL National Convention, which will be hosted by Dayton Hamvention®, May 17 - 19, in Xenia, Ohio. Hamvention is the largest annual gathering of radio amateurs in the world. Coupled with the National Convention, this year promises to be a Hamvention not to miss. Building on a yearlong theme to "Be Radio Active," ARRL has planned exhibi...</p> 
+
+<http://www.arrl.org/news/view/get-ready-for-the-2024-arrl-national-convention-and-youth-rally>
+
+---
+
+## Opinion: Fresno State’s graduation fees add financial burden on students
+
+date: 2024-03-22, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Late in the Fall 2023 semester, Fresno State&#8217;s office of the registrar emailed me with the subject line, &#8220;Apply Early for Spring 2024 Graduation!&#8221; Knowing I was eligible to apply for graduation was thrilling, but an unpleasant surprise greeted me. &#8220;The regular filing fee is $59,&#8221; the email stated. I stopped for a second, questioning... 
+
+<https://fscollegian.com/2024/03/opinion-fresno-states-graduation-fees-adds-financial-burden-on-students/>
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-03-22, from: Amateur Radio Relay League News
+
+<p>Over March 14-20, new sunspot groups emerged every day except March<br />19. March 18 had two, and each of the other days saw one new sunspot<br />group.<br /><br />It is now Spring in the Northern Hemisphere which is favorable to HF<br />conditions, and solar and geomagnetic numbers both show improvement.<br /><br />Average daily sunspot numbers rose from 82.3 to 94.3, and average<br />daily solar flux jumped from 130.4 to 153.3.<br /><br />Geomagnetic...</p> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-822>
+
+---
+
+## 2-A Schottky rectifiers occupy tiny footprint
+
+date: 2024-03-22, from: EDN Blog
+
+<img width="700" height="527" src="https://www.edn.com/wp-content/uploads/Diodes-SDT2Uxxx.jpg?fit=700%2C527" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Diodes-SDT2Uxxx.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Diodes-SDT2Uxxx.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Three trench Schottky rectifiers from Diodes deliver 2 A with low forward voltage drop in chip-scale packages.</p>
+<p>The post <a href="https://www.edn.com/2-a-schottky-rectifiers-occupy-tiny-footprint/" data-wpel-link="internal">2-A Schottky rectifiers occupy tiny footprint</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/2-a-schottky-rectifiers-occupy-tiny-footprint/>
+
+---
+
+## Kyocera AVX rolls out expansive line of capacitors
+
+date: 2024-03-22, from: EDN Blog
+
+<img width="800" height="457" src="https://www.edn.com/wp-content/uploads/Kyocera-AEF-series.jpg?fit=800%2C457" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Kyocera-AEF-series.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Kyocera-AEF-series.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Kyocera-AEF-series.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Wet aluminum electrolytic capacitors from Kyocera AVX come in 11 different case sizes with capacitance ratings from 2.2 µF to 470 µF.</p>
+<p>The post <a href="https://www.edn.com/kyocera-avx-rolls-out-expansive-line-of-capacitors/" data-wpel-link="internal">Kyocera AVX rolls out expansive line of capacitors</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/kyocera-avx-rolls-out-expansive-line-of-capacitors/>
+
+---
+
+## Plastic ARM-based microcontroller is space-ready
+
+date: 2024-03-22, from: EDN Blog
+
+<img width="700" height="480" src="https://www.edn.com/wp-content/uploads/Frontgrade-UT32M0R500.jpg?fit=700%2C480" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Frontgrade-UT32M0R500.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Frontgrade-UT32M0R500.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Frontgrade Technologies developed a plastic-encapsulated version of its radiation-tolerant microcontroller aimed at space missions.</p>
+<p>The post <a href="https://www.edn.com/plastic-arm-based-microcontroller-is-space-ready/" data-wpel-link="internal">Plastic ARM-based microcontroller is space-ready</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/plastic-arm-based-microcontroller-is-space-ready/>
+
+---
+
+## Image sensor elevates smartphone HDR
+
+date: 2024-03-22, from: EDN Blog
+
+<img width="800" height="457" src="https://www.edn.com/wp-content/uploads/Omnivision-OV50K40.jpg?fit=800%2C457" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Omnivision-OV50K40.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Omnivision-OV50K40.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Omnivision-OV50K40.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Omnivision’s smartphone image sensor with TheiaCel technology achieves human eye-level high dynamic range (HDR) with a single exposure.</p>
+<p>The post <a href="https://www.edn.com/image-sensor-elevates-smartphone-hdr/" data-wpel-link="internal">Image sensor elevates smartphone HDR</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/image-sensor-elevates-smartphone-hdr/>
+
+---
+
+## Snapdragon SoC brings AI to more smartphones
+
+date: 2024-03-22, from: EDN Blog
+
+<img width="800" height="487" src="https://www.edn.com/wp-content/uploads/Qualcomm-Snapdragon-8s.png?fit=800%2C487" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Qualcomm-Snapdragon-8s.png?w=800 800w, https://www.edn.com/wp-content/uploads/Qualcomm-Snapdragon-8s.png?w=300 300w, https://www.edn.com/wp-content/uploads/Qualcomm-Snapdragon-8s.png?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Qualcomm’s Snapdragon 8s Gen 3 SoC offers select features of the high-end Snapdragon 8 Gen 3 for a wider range of premium Android smartphones.</p>
+<p>The post <a href="https://www.edn.com/snapdragon-soc-brings-ai-to-more-smartphones/" data-wpel-link="internal">Snapdragon SoC brings AI to more smartphones</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/snapdragon-soc-brings-ai-to-more-smartphones/>
 
 ---
 
@@ -13,7 +153,7 @@ updated: 2024-03-22 05:45:54
 
 date: 2024-03-22, from: EDN Blog
 
-<img width="568" height="364" src="https://www.edn.com/wp-content/uploads/Role-of-Cache-Fig-2-Arteris.png?fit=568%2C364" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Role-of-Cache-Fig-2-Arteris.png?w=568 568w, https://www.edn.com/wp-content/uploads/Role-of-Cache-Fig-2-Arteris.png?w=300 300w" sizes="(max-width: 568px) 100vw, 568px" /><p>The advantages of cache are equally applicable to many complex IPs, including artificial intelligence (AI) accelerators.</p>
+<img width="568" height="364" src="https://www.edn.com/wp-content/uploads/Role-of-Cache-Fig-2-Arteris.png?fit=568%2C364" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Role-of-Cache-Fig-2-Arteris.png?w=568 568w, https://www.edn.com/wp-content/uploads/Role-of-Cache-Fig-2-Arteris.png?w=300 300w" sizes="(max-width: 568px) 100vw, 568px" /><p>The advantages of cache are equally applicable to many complex IPs, including artificial intelligence (AI) accelerators.</p>
 <p>The post <a href="https://www.edn.com/the-role-of-cache-in-ai-processor-design/" data-wpel-link="internal">The role of cache in AI processor design</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

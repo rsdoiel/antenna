@@ -1,11 +1,54 @@
 ---
 title: columns 2024.12
-updated: 2024-03-22 05:45:54
+updated: 2024-03-23 16:16:54
 ---
 
 # columns 2024.12
 
-(date: 2024-03-22 05:45:54)
+(date: 2024-03-23 16:16:54)
+
+---
+
+## Can Trump Afford to Run for President?
+
+date: 2024-03-22, from: Dan Rather's Steady
+
+His legal fees are trumping campaign cash 
+
+<https://steady.substack.com/p/can-trump-afford-to-run-for-president>
+
+---
+
+## Microsoft’s Brazen AI Inflection
+
+date: 2024-03-22, from: Om Malik blog
+
+Microsoft has hired a big chunk of the team that started Inflection, an AI startup developing large language models. They will lead Microsoft AI, a new division within the company that consolidates its consumer AI initiatives with Copilot, Bing, and Edge. DeepMind co-founder Mustafa Suleyman, who co-founded the company alongside Karén Simonyan, and LinkedIn co-founder &#8230; 
+
+<https://om.co/2024/03/22/microsofts-brazen-ai-inflection/>
+
+---
+
+## Friday Squid Blogging: New Species of Squid Discovered
+
+date: 2024-03-22, updated: 2024-03-14, from: Bruce Schneier blog
+
+<p>A new species of squid was <a href="https://www.popsci.com/science/new-marine-species-discovered/">discovered</a>, along with about a hundred other species.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>
+<p>Read my blog posting guidelines <a href="https://www.schneier.com/blog/archives/2017/03/commenting_poli.html">here</a>.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/03/friday-squid-blogging-new-species-of-squid-discovered.html>
+
+---
+
+## New Humane Demo Video: ‘What Is Ai Pin?’
+
+date: 2024-03-22, updated: 2024-03-22, from: Daring Fireball
+
+ 
+
+<https://www.youtube.com/watch?v=1H4SNFtEzys>
 
 ---
 
@@ -75,7 +118,7 @@ date: 2024-03-21, updated: 2024-03-21, from: Daring Fireball
 
 ## Jason Snell on US v. Apple
 
-date: 2024-03-21, updated: 2024-03-21, from: Daring Fireball
+date: 2024-03-21, updated: 2024-03-23, from: Daring Fireball
 
  
 

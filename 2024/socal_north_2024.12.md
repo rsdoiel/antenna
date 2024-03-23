@@ -1,11 +1,119 @@
 ---
 title: socal north 2024.12
-updated: 2024-03-22 05:45:54
+updated: 2024-03-23 16:16:53
 ---
 
 # socal north 2024.12
 
-(date: 2024-03-22 05:45:54)
+(date: 2024-03-23 16:16:53)
+
+---
+
+## Class of 2028 acceptance rate is 9.2%, USC confirms
+
+date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>This marks yet another sub-10% rate as the University released its admission results Friday afternoon.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/22/class-of-2028-acceptance-rate-is-9-2-usc-confirms/">Class of 2028 acceptance rate is 9.2%, USC confirms</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/22/class-of-2028-acceptance-rate-is-9-2-usc-confirms/>
+
+---
+
+## Avalon boys volleyball team captures tourney title
+
+date: 2024-03-22, from: Catalina Islander
+
+On Saturday March 16, the Avalon Lancers boys volleyball team hosted their second annual volleyball tournament. The Lancers went 3-1 in pool play losing to Southlands Christian in their first pool play game 25-20, 25-22. The Lancers then defeated the next three teams Legacy College Prep 25-18, 25-19. Magnolia Science Reseda 25-15, 25-10, and Magnolia [&#8230;] 
+
+<https://thecatalinaislander.com/avalon-boys-volleyball-team-captures-tourney-title/>
+
+---
+
+## City manager confident hospital will stay open
+
+date: 2024-03-22, from: Catalina Islander
+
+By Charles M. Kelly City Manager David Maistros expressed confidence that Avalon’s current hospital (known as Catalina Island Health) would stay open during his report to the City Council on Tuesday, March 19. In early January, Catalina Island Health CEO Jason Paret told the council that the hospital was in bad financial shape and speculated [&#8230;] 
+
+<https://thecatalinaislander.com/city-manager-confident-hospital-will-stay-open/>
+
+---
+
+## Why Sing?
+
+date: 2024-03-22, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>Why is it that churches sing every Sunday? Why is it that, no matter the week, if you walk into a church service someone (most likely many someones) will say a prayer? The answer may seem obvious at first; they believe in God so they’re going to worship and speak to Him. But what about [&#8230;]</p>
+<p>The post <a href="https://pepperdinebeacon.com/why-sing/">Why Sing?</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+ 
+
+<https://pepperdinebeacon.com/why-sing/?utm_source=rss&utm_medium=rss&utm_campaign=why-sing>
+
+---
+
+## Hans Zimmer – The Greatest Composer of His Time
+
+date: 2024-03-22, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>From representing the traditional African harmonic choral style, Mbube, in Disney’s Lion King (1994) to depicting the vibrant character of Jack Sparrow, Hans Zimmer revolutionized mainstream orchestral music from the 20th century through the creative integration of electronics.&#160; With the employment of the synthesizer and digital sound, Zimmer modernized music’s role in film, forever changing [&#8230;]</p>
+<p>The post <a href="https://pepperdinebeacon.com/hans-zimmer-the-greatest-composer-of-his-time/">Hans Zimmer &#8211; The Greatest Composer of His Time</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+ 
+
+<https://pepperdinebeacon.com/hans-zimmer-the-greatest-composer-of-his-time/?utm_source=rss&utm_medium=rss&utm_campaign=hans-zimmer-the-greatest-composer-of-his-time>
+
+---
+
+## Sheriff’s Log: March 14 to March 20, 2024
+
+date: 2024-03-22, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period March 14 to March 20, 2024. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. March [&#8230;] 
+
+<https://thecatalinaislander.com/sheriffs-log-march-14-to-march-20-2024/>
+
+---
+
+## Straight Up Builders wins league title
+
+date: 2024-03-22, from: Catalina Islander
+
+The final two league games of the Catalina Co-Ed Winter season did not disappoint. First up was Luau Larry’s vs. Bravo’s Landscaping. Luau Larry’s scored four runs on the two RBI home runs from Gabriel Alvarado and Luis Lazaro. Bravo’s Landscaping answered with a solo home run from Marco Gallegos, followed by a base hit [&#8230;] 
+
+<https://thecatalinaislander.com/straight-up-builders-wins-league-title-2/>
+
+---
+
+## UCLA gymnastics to salute Pac-12 with final conference championship
+
+date: 2024-03-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+The end is near.
+Saturday will be the last hurrah for Pac-12 gymnastics.
+No. 11 UCLA gymnastics will compete at the Pac-12 championships in West Valley City, Utah on Saturday in the night session. 
+
+<https://dailybruin.com/2024/03/22/ucla-gymnastics-to-salute-pac-12-with-final-conference-championship/>
+
+---
+
+## Spring forward into Avalon Library programs
+
+date: 2024-03-22, from: Catalina Islander
+
+As the first tendrils of spring touch the Island, with the restaurants starting to stay open ’til 8 p.m. and the sun still shining after 6, your Avalon Library continues to offer your programs, activities, and, yes, books for all ages and sensibilities. Stop by and pick up one of our new fiction books–or place [&#8230;] 
+
+<https://thecatalinaislander.com/spring-forward-into-avalon-library-programs/>
+
+---
+
+## California Lawmakers Extend FAFSA Deadline To May 2, Pending Governor's Signature
+
+date: 2024-03-22, updated: 2024-03-22, from: The LAist
+
+Because of delays at the federal level, some colleges are still waiting to receive financial aid information from the U.S. Department of Education. 
+
+<https://laist.com/news/education/california-legislature-extension-fafsa-deadline-may-2-newsom>
 
 ---
 
@@ -57,12 +165,12 @@ date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## Tommy unmasked; the first man behind the Trojan armor speaks
+## Tommy unmasked: First man behind the Trojan armor speaks
 
 date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Neal Pecchenino was the first to don the suit 10 years ago, and he said it was an unforgettable experience.</p>
-<p>The post <a href="https://dailytrojan.com/2024/03/22/the-first-man-behind-the-trojan-armor-speaks/">Tommy unmasked; the first man behind the Trojan armor speaks</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/22/the-first-man-behind-the-trojan-armor-speaks/">Tommy unmasked: First man behind the Trojan armor speaks</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2024/03/22/the-first-man-behind-the-trojan-armor-speaks/>
@@ -78,6 +186,30 @@ date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/03/22/204748/>
+
+---
+
+## Women’s water polo returns home to face UC Berkeley
+
+date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans face their toughest at-home test of the season.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/22/womens-water-polo-returns-home-to-face-uc-berkeley/">Women&#8217;s water polo returns home to face UC Berkeley</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/22/womens-water-polo-returns-home-to-face-uc-berkeley/>
+
+---
+
+## Lacrosse travels to Tempe
+
+date: 2024-03-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>After falling to Dartmouth Monday, the Trojans will travel to Arizona to take on the Sun Devils.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/22/lacrosse-travels-to-tempe/">Lacrosse travels to Tempe</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/22/lacrosse-travels-to-tempe/>
 
 ---
 

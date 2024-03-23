@@ -1,11 +1,21 @@
 ---
 title: libraries 2024.12
-updated: 2024-03-22 05:45:54
+updated: 2024-03-23 16:16:54
 ---
 
 # libraries 2024.12
 
-(date: 2024-03-22 05:45:54)
+(date: 2024-03-23 16:16:54)
+
+---
+
+## The Book of Jade, by David Park Barnitz
+
+date: 2024-03-22, from: Standard Ebooks, new releaases
+
+A collection of decadent poetry by David Park Barnitz. 
+
+<https://standardebooks.org/ebooks/david-park-barnitz/the-book-of-jade>
 
 ---
 

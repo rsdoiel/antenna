@@ -1,11 +1,71 @@
 ---
 title: motorcycles 2024.12
-updated: 2024-03-22 05:45:55
+updated: 2024-03-23 16:16:54
 ---
 
 # motorcycles 2024.12
 
-(date: 2024-03-22 05:45:55)
+(date: 2024-03-23 16:16:54)
+
+---
+
+## Royal Enfield Shotgun 650 Hits US Dealers at Last
+
+date: 2024-03-22, from: Cycle World News
+
+Royal Enfield’s 2024 Shotgun 650 is now available in the US, with a price of $6,899 for the base model. The updated GT 650 and INT 650 are also now available. 
+
+<https://www.cycleworld.com/bikes/royal-enfield-shotgun-650-pricing-details/>
+
+---
+
+## KTM MotoGP Team Manager Francesco Guidotti Talks 2024
+
+date: 2024-03-22, from: Cycle World News
+
+Red Bull KTM Factory Racing Team Manager Francesco Guidotti takes time to chat with Cycle World before the start of the second MotoGP round in Portimão. 
+
+<https://www.cycleworld.com/motorcycle-racing/ktm-motogp-team-manager-francesco-guidotti-interview/>
+
+---
+
+## Watch Chris Birch Jump the KTM 890 Adventure R Over and Over Again
+
+date: 2024-03-22, from: Ride Apart, Electric Motorcycle News
+
+If you ever want to feel like an inadequate dirt rider, watch Chris Birch put a middleweight KTM 890 Adventure R through hell.  
+
+<https://www.rideapart.com/news/713474/ktm-890-adventure-r-video-chris-birch-watch/>
+
+---
+
+## ‘Superman’ Mason Mitchell Set for ARCA Return in 2024
+
+date: 2024-03-22, from: Kickin the Tires blog
+
+LAS VEGAS, NV. -The 2014 ARCA Menards Series champion, Mason Mitchell, is poised to make a comeback to the driver’s seat for two races in partnership with SIGMA Performance Services&#8230;  
+
+<https://kickinthetires.net/nascar/superman-mason-mitchell-set-for-arca-return-in-2024/>
+
+---
+
+## More Than Just For Fun, Jetskis Save Lives In Hawaii
+
+date: 2024-03-22, from: Ride Apart, Electric Motorcycle News
+
+The Hawaiian Lifeguard Association is promoting the use of Jetskis in rescuing swimmers in distress.  
+
+<https://www.rideapart.com/news/713359/lifeguards-jet-skis-hawaii-surfers-surfing/>
+
+---
+
+## Yamaha Unveils Its Final-Edition Snowmobiles, Saying Farewell to the Industry
+
+date: 2024-03-22, from: Ride Apart, Electric Motorcycle News
+
+Check out a video showcasing the last snowmobiles Yamaha will ever make.  
+
+<https://www.rideapart.com/news/712484/yamaha-final-edition-snowmobiles-2025/>
 
 ---
 

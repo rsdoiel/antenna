@@ -1,11 +1,54 @@
 ---
 title: pacific 2024.12
-updated: 2024-03-22 05:45:54
+updated: 2024-03-23 16:16:54
 ---
 
 # pacific 2024.12
 
-(date: 2024-03-22 05:45:54)
+(date: 2024-03-23 16:16:54)
+
+---
+
+## Kualiʻi earns PacWest Golfer of the Week award
+
+date: 2024-03-22, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Tia <span aria-label="Kualii">Kuali&#699;i</span> landed in second place during the Augustana Spring Fling.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/22/kualii-pacwest-golfer-of-the-week/">Kualiʻi earns PacWest Golfer of the Week award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/22/kualii-pacwest-golfer-of-the-week/>
+
+---
+
+## Performances lead to conference weekly water polo award
+
+date: 2024-03-22, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Jordan Wedderburn led the team to the <abbr title="Number">No.</abbr> 3 spot in the Collegiate Water Polo Association Women’s Varsity Top 25.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/22/wedderburn-big-west-player-of-the-week/">Performances lead to conference weekly water polo award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/22/wedderburn-big-west-player-of-the-week/>
+
+---
+
+## Students use AI to preserve Lahaina’s historical architecture
+
+date: 2024-03-22, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> The course is designed to impart technical skills and foster a deep appreciation for the historical and cultural context of Lahaina.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/22/lahaina-historical-architecture/">Students use <abbr>AI</abbr> to preserve Lahaina’s historical architecture</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/22/lahaina-historical-architecture/>
+
+---
+
+## Coast 360 Upper Tumon grand opening
+
+date: 2024-03-22, from: Guam Daily Post
+
+ 
+
+<https://www.postguam.com/news/local/coast-360-upper-tumon-grand-opening/article_e36e2cc0-e806-11ee-81ca-3f92bf127ab5.html>
 
 ---
 
@@ -16,6 +59,16 @@ date: 2024-03-22, from: Pacific Island Times
 By Pacific Island Times News Staff A landmark piece of legislation to transform and modernize the operations of the Guam Customs and... 
 
 <https://www.pacificislandtimes.com/post/bill-to-plug-revenue-leaks-at-guam-customs-awaiting-governor-s-signature>
+
+---
+
+## Veto override fails for hospital location bill
+
+date: 2024-03-22, from: Guam Daily Post
+
+An override attempt on vetoed Bill 185-37 failed to pass Friday afternoon, with seven votes in favor and eight against. Ten votes are needed to override a veto. 
+
+<https://www.postguam.com/news/veto-override-fails-for-hospital-location-bill/article_7599e96a-e814-11ee-84af-e31cda23adce.html>
 
 ---
 
@@ -343,6 +396,30 @@ date: 2024-03-22, from: Hawaii Tribune Harold
 
 ---
 
+## Mountain View man sought by police
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>Police are requesting the public&#8217;s assistance in locating 47-year-old Reno Maurice Kulakau Mendoza of Mountain View, who should be considered armed and dangerous.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/hawaii-news/mountain-view-man-sought-by-police-2/>
+
+---
+
+## One man killed, two injured in DKI crash
+
+date: 2024-03-22, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating after one man died and two others were injured in a single-vehicle traffic collision late Thursday night on Daniel K. Inouye Highway (Route 200), at the 18-mile marker.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/22/hawaii-news/one-man-killed-two-injured-in-dki-crash/>
+
+---
+
 ## CNMI governor: 'Don't dwell on problems, focus on solutions' 
 
 date: 2024-03-22, from: Pacific Island Times
@@ -350,6 +427,56 @@ date: 2024-03-22, from: Pacific Island Times
 By Bryan Manabat Saipan--- CNMI Gov. Arnold I. Palacios urged the community to lay aside their differences and "take on the challenges... 
 
 <https://www.pacificislandtimes.com/post/cnmi-governor-don-t-dwell-on-problems-focus-on-solutions>
+
+---
+
+## USDA gives $2M in grants to strengthen Guam's food supply chain infrastructure
+
+date: 2024-03-22, from: Guam Daily Post
+
+A cooperative agreement between Guam and the U.S. Department of Agriculture Agricultural Marketing Service has made over $2 million in competitive grant funding available under the Resilient Food Systems Infrastructure Program, USDA announced recently in a press release. 
+
+<https://www.postguam.com/news/local/usda-gives-2m-in-grants-to-strengthen-guams-food-supply-chain-infrastructure/article_9b48724c-e7e9-11ee-b585-4b842de0d537.html>
+
+---
+
+## GPA seeks changes for Ukudu Power Plant agreement
+
+date: 2024-03-22, from: Guam Daily Post
+
+The Consolidated Commission on Utilities will be deciding whether to approve some major changes to the energy conversion agreement, or ECA, between the Guam Power Authority and Guam Ukudu Power LLC, the company that owns - and will ultimately operate… 
+
+<https://www.postguam.com/news/local/gpa-seeks-changes-for-ukudu-power-plant-agreement/article_dd73e994-e717-11ee-a10b-632c461e1e14.html>
+
+---
+
+## St. John's Sachdev finishes high school tennis career where he started: another singles championship
+
+date: 2024-03-22, from: Guam Daily Post
+
+For St. John’s School’s Aarman Sachdev and Sydney Packbier, the 2023-2024 Independent Interscholastic Athletic Association of Guam tennis season can be described in two words: short and sweet. 
+
+<https://www.postguam.com/sports/local/st-johns-sachdev-finishes-high-school-tennis-career-where-he-started-another-singles-championship/article_c4dc387e-e7ca-11ee-9bec-6bfc05f7e8c7.html>
+
+---
+
+## Carjacking suspects also charged in family violence, harassment cases
+
+date: 2024-03-22, from: Guam Daily Post
+
+Two men accused of an armed carjacking at Oka Pay-Less earlier this week also were charged in other cases. 
+
+<https://www.postguam.com/news/local/carjacking-suspects-also-charged-in-family-violence-harassment-cases/article_886262bc-e7dc-11ee-bced-a7fc9c63059f.html>
+
+---
+
+## Behavioral Health Planning Council reports Crisis Response Team recruitment slowed
+
+date: 2024-03-22, from: Guam Daily Post
+
+Crisis Response Team recruitment efforts have slowed, according to Guam Behavioral Health Planning Council member Rita Untalan, who attributed the issue to glitches in the transition of the Government of Guam to a new fiscal management system. 
+
+<https://www.postguam.com/news/local/behavioral-health-planning-council-reports-crisis-response-team-recruitment-slowed/article_bc51ec50-e7ff-11ee-bbd0-2f226b6663ae.html>
 
 ---
 
@@ -725,6 +852,28 @@ date: 2024-03-22, from: Pacific Island Times
 By Mar-Vic Cagurangan Washington and the Federated States of Micronesia have reaffirmed their defense and security ties, toasting a fresh... 
 
 <https://www.pacificislandtimes.com/post/us-fsm-begin-exploring-new-defense-opportunities-in-pacific-island-region>
+
+---
+
+## BOR aims to hire next president by fall 2024
+
+date: 2024-03-22, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The updated timeline was announced at a March 21 <abbr>BOR</abbr> presidential search special meeting.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/21/bor-aims-to-hire-next-president-fall-2024/"><abbr>BOR</abbr> aims to hire next president by fall 2024</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/21/bor-aims-to-hire-next-president-fall-2024/>
+
+---
+
+## Knezkova earns first Big West tennis honor
+
+date: 2024-03-22, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Nelly Knezkova wins consecutive single games.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/21/knezkova-first-big-west-honor/">Knezkova earns first Big West tennis honor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/21/knezkova-first-big-west-honor/>
 
 ---
 
