@@ -1,9 +1,646 @@
 ---
 title: parks 2024.13
-updated: 2024-03-25 08:43:09
+updated: 2024-03-27 08:14:48
 ---
 
 # parks 2024.13
 
-(date: 2024-03-25 08:43:09)
+(date: 2024-03-27 08:14:48)
+
+---
+
+## Interior Department Announces Nearly $12 Million to Protect and Restore Western Wildlife Habitats and Migration Corridors
+
+date: 2024-03-26, from: Bureau of Land Management, California
+
+<div class="field contact-block -teaser-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/teaser/public/images/2024-03/Pronghorn%20in%20snow.jpg?h=a5a9dd53&itok=gROWFXeN" width="150" height="100" alt="A herd of pronghorn wander through snowy rangeland" typeof="foaf:Image">
+
+
+</div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p><strong>WASHINGTON </strong>— The Department of the Interior and National Fish and Wildlife Foundation (NFWF) today <a href="https://www.nfwf.org/sites/default/files/2024-03/NFWF-WesternBigGameMigration-20240314-GS.pdf">announced</a> $11.8 million for 10 projects in seven states that will help restore habitat connectivity and secure key migration corridors for wildlife in the American West. A total of $3 million in grants and $8.8 million in matching contributions will be invested to protect migratory species like elk, mule deer, and pronghorn and their habitats in Arizona, California, Colorado, Idaho, Montana, Oregon and Wyoming. </p>
+
+<p>“Healthy habitats and interconnected spaces to live and roam are key for the sustainability of species,” said <strong>Secretary Deb Haaland</strong>. “The Biden-Harris administration is strengthening public-private partnerships and employing an all-of-government approach to ensure the conservation of fish and wildlife in the West and across America through the protection of key migration corridors and habitats.” </p>
+
+<p>Bureau of Land Management (BLM) Director Tracy Stone-Manning and U.S. Fish and Wildlife Service (FWS) Director Martha Williams highlighted the announcement at the 89th North American Wildlife and Natural Resources Conference in Grand Rapids, Michigan. </p>
+
+<p>The grants are made possible through the <a href="https://www.nfwf.org/programs/rocky-mountain-rangelands/western-big-game-seasonal-habitat-and-migration-corridors-fund">Western Big Game Seasonal Habitat and Migration Corridors Fund</a>, which is administered by NFWF in-part through annual appropriations funding from the BLM, FWS, and the Department of Agriculture. The funding supports <a href="https://www.doi.gov/sites/doi.gov/files/uploads/so_3362_migration.pdf">Secretary’s Order 3362</a>, which seeks to enhance and improve the quality of big-game winter range and migration corridor habitat on federal lands. Today's funding builds on nearly $25 million in funding the Department and NFWF announced in <a href="https://www.doi.gov/pressreleases/us-departments-interior-agriculture-and-state-wyoming-commit-enhancing-wildlife">2021</a>, <a href="https://www.doi.gov/pressreleases/secretary-haaland-announces-progress-toward-conservation-and-restoration-wildlife">2022</a> and <a href="https://www.doi.gov/pressreleases/deputy-secretary-beaudreau-announces-nearly-4-million-protect-and-restore-wildlife">2023</a>. This work supports the President’s <a href="https://www.doi.gov/priorities/america-the-beautiful">America the Beautiful initiative</a>, which aims to conserve, connect and restore 30 percent of our lands and waters by 2030. </p>
+
+<p>Today’s announcement supplements historic funding through President Biden’s Investing in America agenda, which is supporting critical projects to restore habitats, strengthen landscape resilience, and put create good-paying jobs to restore America’s lands and waters in partnership with Tribes, private landowners, hunting and conservation organizations, and state wildlife management agencies. </p>
+
+<p>Last month, Secretary Haaland <a href="https://www.doi.gov/pressreleases/biden-harris-administration-announces-more-157-million-investing-america-agenda">announced</a> more than $157 million from President Biden’s Investing in America agenda to restore our nation’s lands and waters through locally led, landscape-scale restoration projects. The funding from the Bipartisan Infrastructure Law will support 206 ecosystem restoration projects in 48 states, Washington, D.C., and the U.S. Territories and will advance the Department’s <a href="https://www.doi.gov/sites/default/files/interior-department-to-take-action-to-restore-lands-and-waters.pdf">ongoing work</a> across several restoration and resilience programs. </p>
+
+<p><strong>Projects receiving grants and matching contributions are listed below: </strong></p>
+
+<h3>ARIZONA  </h3>
+
+<p><em><strong>Managing Woody Invasives to Improve Habitat Quality on Perrin Ranch State Lands Grassland  </strong></em></p>
+
+<p><strong>Grantee: Arizona Elk Society </strong></p>
+
+<p>Grant Amount: $130,000 </p>
+
+<p>Matching Funds: $130,000 </p>
+
+<p>Total Project Amount: $260,000 </p>
+
+<p>Improve winter habitat quality for migrant and resident mule deer, elk and pronghorn. Project will restore a minimum of 650 acres of grasslands in Northern Arizona by managing the encroachment of woody invasives. </p>
+
+<p><em><strong>Restoring Beaver Creek Watershed to Improve Habitat Connectivity  </strong></em></p>
+
+<p><strong>Grantee: Salt River Project Agricultural Improvement and Power District </strong></p>
+
+<p>Grant Amount: $489,500 </p>
+
+<p>Matching Funds: $3,376,500 </p>
+
+<p>Total Project Amount: $3,866,000 </p>
+
+<p>Restore wildlife habitat and connectivity, reduce wildfire risk, protect water supplies, communities, infrastructure and improve forest resiliency. Project will restore approximately 3,920 acres by removing invading woody species from grasslands and former healthy woodlands that will allow native grass, browse, and forb species to return. </p>
+
+<h3>CALIFORNIA </h3>
+
+<p><em><strong>Restoring Steven's Prairie to Enhance Elk Habitat and Establish New Herds  </strong></em></p>
+
+<p><strong>Grantee: Yurok Tribe </strong></p>
+
+<p>Grant Amount: $181,393 </p>
+
+<p>Matching Funds: $181,393 </p>
+
+<p>Total Project Amount: $362,786 </p>
+
+<p>Enhance meadow habitat for Roosevelt elk and provide a stopover site both for dispersing elk from saturated populations and for the establishment of new herds on Yurok lands. Project will survey and identify priority habitat in 160 acres; restore 80 acres of degraded prairie through removal of encroaching trees and invasive plants; establish a 25-acre fuel break along the perimeter of the restored site; and place 440 acres under various planning stages to improve management. </p>
+
+<h3>COLORADO </h3>
+
+<p><em><strong>Enhancing Elk Habitat Through Vegetation Treatments in Hay Flats </strong></em></p>
+
+<p><strong>Grantee: US Forest Service </strong></p>
+
+<p>Grant Amount: $200,000 </p>
+
+<p>Matching Funds: $199,896 </p>
+
+<p>Total Project Amount: $399,896 </p>
+
+<p>Enhance elk habitat through vegetation treatments in mountain shrub and aspen communities within the vicinity of Hay Flats. Project will improve 2.25 acres of fencing, treat 430 acres with mechanical methods would create a mosaic of snowberry regrowth and allow understory species to take hold, and treat 220 acres with mastication and hand felling to increase forage, cover, and movement opportunities for elk in spring production areas, summer and winter habitat, and movement corridors. </p>
+
+<p><em><strong>Protecting Migration Corridors via the Wolf Mountain VII Conservation Easement  </strong></em></p>
+
+<p><strong>Grantee: Rocky Mountain Elk Foundation </strong></p>
+
+<p>Grant Amount: $100,000 </p>
+
+<p>Matching Funds: $1,977,882 </p>
+
+<p>Total Project Amount: $2,077,882 </p>
+
+<p>Conserve vital aspen woodlands, sagebrush, and riparian habitat, as well as a migration corridor and pathway for two of Colorado’s largest migratory herds. Project will permanently protect approximately 1,630 acres of migration corridors for elk and winter range for mule deer, secure habitat connectivity through the valley bottom and highly developable lands near State Highway 40, protect five stream miles, and support a host of other wildlife, including greater sage grouse.  </p>
+
+<h3>IDAHO </h3>
+
+<p><em><strong>Modifying Fencing to Improve the Migration Route Across Highway 28 </strong></em></p>
+
+<p><strong>Grantee: The Mule Deer Foundation </strong></p>
+
+<p>Grant Amount: $317,922 </p>
+
+<p>Matching Funds: $300,000 </p>
+
+<p>Total Project Amount: $617,922 </p>
+
+<p>Support passage-success of migratory mule deer and elk, reduce animal-vehicle collisions, and simultaneously increase safety for motorists. Project will extend a wildlife funnel fence project on Highway 28 by reconnecting three miles of corridor, improve 10 miles of fencing, remove two miles of fencing, and increase the passage success rate to 95%.</p>
+
+<h3>MONTANA </h3>
+
+<p><em><strong>Collaborating with Montana Grassland Partnership to Improve Big Game Migration </strong></em></p>
+
+<p><strong>Grantee: Ranchers Stewardship Alliance, Inc. </strong></p>
+
+<p>Grant Amount: $275,000 </p>
+
+<p>Matching Funds: $275,000 </p>
+
+<p>Total Project Amount: $550,000 </p>
+
+<p>Support, connect, and contribute to the partnership of big game migration work being done under the umbrella of the Montana Grassland Partnership as part of the Ranchers Stewardship Alliance (RSA) Conservation Committee. Project will work to improve nine miles of fencing, remove nine miles of unneeded fencing, restore 1,000 acres of grassland for added habitat and add a Conservation Director position with RSA to better serve the RSA project area and collaborate within the Montana Grassland Partnership. </p>
+
+<h3>OREGON </h3>
+
+<p><em><strong>Protecting Migration Habitat via a Fee Title Transfer to the Warm Springs Indian Reservation  </strong></em></p>
+
+<p><strong>Grantee: Oregon Wildlife Heritage Foundation </strong></p>
+
+<p>Grant Amount: $199,998 </p>
+
+<p>Matching Funds: $716,350 </p>
+
+<p>Total Project Amount: $916,348 </p>
+
+<p>Protect migration corridors in high use areas in the Metolious winter range. Project will transfer 300-acre acquisition to the Confederated Tribe of the Warm Springs Indian Reservation. </p>
+
+<p><em><strong>Treating Invasives to Improve Migration Corridors for Elk and Nesting Habitat for Sage Grouse (OR) </strong></em></p>
+
+<p><strong>Grantee: Crook County Soil and Water Conservation District </strong></p>
+
+<p>Grant Amount: $190,609 </p>
+
+<p>Matching Funds: $213,586 </p>
+
+<p>Total Project Amount: $404,195 </p>
+
+<p>Enhance understory conditions in sagebrush habitats, which will improve conditions for a host of species including sagebrush obligates and improve migration and seasonal habitat for a variety of wildlife species. Project will restore 415 acres of migration habitat for elk and mule deer as well as seasonal habitat for sage grouse through the removal of woody invasives.</p>
+
+<h3>WYOMING </h3>
+
+<p><em><strong>Restoring Big Game Migration Corridors for Bates Hole, Dubois and Platte Valley Mule Deer Herds </strong></em></p>
+
+<p><strong>Grantee: Wyoming Game and Fish Department </strong></p>
+
+<p>Grant Amount: $961,250 </p>
+
+<p>Matching Funds: $961,250 </p>
+
+<p>Total Project Amount: $1,922,500 </p>
+
+<p>Improve forage resources and connectivity between seasonal ranges for mule deer and a wide variety of other wildlife. Project will implement 13,530 acres of invasive weed treatments, modify 46 miles of fences and restore 150 acres of habitat. </p>
+</div> 
+
+<https://www.blm.gov/press-release/interior-department-announces-nearly-12-million-protect-and-restore-western-wildlife>
+
+---
+
+## Sun Zone Socioeconomic Specialist Hebin Lin blends natural and social sciences
+
+date: 2024-03-25, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Sun Zone Socioeconomic Specialist Hebin Lin blends natural and social sciences</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a3d0b27c-3ae5-4b56-a334-f34fc569c09a" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-03/04_2022%2009_AZ%20SO.jpg?itok=ldp3IeIp" width="631" height="530" alt="A group of BLM Arizona leadership and Hebin Lin stand for a photo in front of two flags." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Hebin Lin with (from left to right) Arizona State Director Ray Suazo, Deputy State Director for Communication Amber Cargile, and Deputy State Director for Resources and Planning Jerry Davis in September 2022.</figcaption>
+</figure>
+
+
+<p paraeid="{91cb31e2-859b-4712-993b-e91ae1c0bda4}{216}" paraid="417519101">Did you know that the Bureau of Land Management has a <a href="https://www.blm.gov/about/how-we-manage/socioeconomics">socioeconomics program</a>? During Women’s History Month, BLM Arizona is celebrating Dr. Hebin Lin, a socioeconomic specialist who powers this program in the Bureau of Land Management’s Sun Zone, which includes not just Arizona, but also New Mexico, Texas, Oklahoma, and Kansas. </p>
+
+<p paraeid="{3504773b-dec7-4399-842b-d52f96e16e78}{28}" paraid="255950683">In her role, Hebin is a connector between natural resource sciences and social sciences. Trained in areas of environmental policy and ecological economics, Hebin came into this role with a variety of experience, including from a different continent. </p>
+
+<p paraeid="{3504773b-dec7-4399-842b-d52f96e16e78}{42}" paraid="1831280312">Before she came to the Bureau of Land Management, Hebin earned a Ph.D. from Kyoto University in Japan. Before that, she also completed a master’s program focused on environmental policy.  </p>
+
+<p paraeid="{3504773b-dec7-4399-842b-d52f96e16e78}{58}" paraid="594580265">“It was very interesting because the campus was in Hiroshima, and so that has a lot of history and culture. Many of my classmates were from Asian countries, African countries, mostly developing countries. This really provided me with an aspect of understanding about cultural values. I moved to Kyoto to do my doctoral study on global ecological economics.” </p>
+
+<p paraeid="{3504773b-dec7-4399-842b-d52f96e16e78}{112}" paraid="494701775">Overall, she spent 11 years in Japan and worked on a variety of projects, including a project with the United Nations and a number of international projects and training programs. Through these projects, she collaborated with foresters, engineers, scientists, policymakers, and local community leaders, bridging the divide between natural and social sciences. </p>
+
+<p paraeid="{88d9c57a-72db-409d-9df2-575b63bbc084}{5}" paraid="2145540812">Beyond her work in Japan, Hebin has also served as an economist for the state of Missouri, as a revenue forecaster for the state of Washington, and as an economic and impact evaluator for the University of Leeds in England. </p>
+
+<p paraeid="{3504773b-dec7-4399-842b-d52f96e16e78}{140}" paraid="1928964784">Her experiences and skillset transitioned incredibly well into her role as socioeconomic specialist at the BLM. </p>
+
+<p paraeid="{3504773b-dec7-4399-842b-d52f96e16e78}{152}" paraid="1482243518">“These experiences really broadened my perspective on how to work on real issues on the ground, especially for environmental protection and climate change. And so, it was natural that BLM was attractive to me,” she said.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a5302ed1-375c-4b02-8938-e862b607362c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-03/Hebin_Lin_NM_Leadership.jpg?itok=QG2sesuy" width="640" height="449" alt="From left to right: BLM New Mexico Branch Chief for Planning, Recreation, and Cultural Resources Glenn Simpson, Hebin, New Mexico Deputy State Director for Lands and Resources Laura Hronec, and New Mexico State Director Melanie Barnes." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>From left to right: Bureau of Land Management New Mexico Branch Chief for Planning, Recreation, and Cultural Resources Glenn Simpson, Hebin Lin, New Mexico Deputy State Director for Lands and Resources Laura Hronec, and New Mexico State Director Melanie Barnes.</figcaption>
+</figure>
+
+
+<p paraeid="{3504773b-dec7-4399-842b-d52f96e16e78}{174}" paraid="1496289568">On a daily basis, she is working hand-in-hand with an interdisciplinary team of field staff across the BLM and the public to understand the different needs and impacts of the BLM’s decision-making, incorporating a wide range of quantitative and qualitative data.  </p>
+
+<p paraeid="{3504773b-dec7-4399-842b-d52f96e16e78}{206}" paraid="711931600">“Only through collaboration can we really make progress,” she said. </p>
+
+<p paraeid="{3504773b-dec7-4399-842b-d52f96e16e78}{216}" paraid="726984546">A priority of the socioeconomic program is ensuring that environmental justice is incorporated into this process.  </p>
+
+<p paraeid="{3504773b-dec7-4399-842b-d52f96e16e78}{226}" paraid="985040807">“Through environmental justice, we consider impacts on different people groups, like minority groups, low-income people, and Tribes,” she said. The socioeconomics program has developed a variety of tools to help BLM staff across disciplines account for diverse groups of people in their decision making and outreach to communities across the state. </p>
+
+<p paraeid="{3504773b-dec7-4399-842b-d52f96e16e78}{252}" paraid="2117861932">Her knowledge of socioeconomics is a great asset to BLM Arizona and other states. </p>
+
+<p paraeid="{9fb1dc83-7767-4a97-b3c7-3f4dc9309645}{3}" paraid="231175983">“Since joining BLM Hebin has really dived into learning our programs, the resources we manage, and the unique challenges that BLM faces.” </p>
+
+<p paraeid="{9fb1dc83-7767-4a97-b3c7-3f4dc9309645}{9}" paraid="1402092992">During her time at the BLM, she has had the opportunity to go field visits, including to Yuma, Lake Havasu, Kingman, Tucson, Safford, Hassayampa field offices and the Arizona State Office.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cf2f81c1-a180-47fd-8ba6-265ade13ecb3" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-03/Hebin_Lin_Gila_District.jpg?itok=EBjMW8qn" width="640" height="428" alt="A group of people in front of a cliff face." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Hebin Lin with a group of Bureau of Land Management staff in the Gila District.</figcaption>
+</figure>
+
+
+<p paraeid="{9fb1dc83-7767-4a97-b3c7-3f4dc9309645}{19}" paraid="959750500">“Any time I visit any office in Arizona, I always feel so welcomed,” she said. “I am a part of the staff, but I don’t have many opportunities to be here in person. Everyone I meet when I am here is always so kind, so inspiring. It is really encouragement.”</p>
+
+<p paraeid="{9fb1dc83-7767-4a97-b3c7-3f4dc9309645}{43}" paraid="1308811562">Hebin also took part in the BLM Arizona-New Mexico mentorship program, where BLM Arizona Deputy State Director for Communications Amber Cargile mentored her. </p>
+
+<p paraeid="{9fb1dc83-7767-4a97-b3c7-3f4dc9309645}{49}" paraid="540623263">“Amber has inspired me in so many ways, especially not only in how to communicate well in the technical aspects but to be able to express myself in a way that other people can understand,” Lin said. “I really admire that.” </p>
+
+<p paraeid="{abf3cdd2-22b2-40ee-9ee6-264ef13fb625}{72}" paraid="1350390000">"It was a pleasure serving as Hebin’s mentor,” said Cargile. “She is an impressive woman who has dedicated her life to knowledge, growth, and self-improvement. I was truly inspired by her personal story and her example--and am proud to be her colleague and friend.” </p>
+
+<p paraeid="{93a708f7-9db7-49b5-b008-ac3a7dd156ce}{209}" paraid="492852044">"It was a pleasure serving as Hebin’s mentor,” Cargile said. “She is an inspiring and impressive woman who has dedicated her life to knowledge, growth and self-improvement.” </p>
+
+<p paraeid="{e3b4347f-dfb9-4190-b407-67c6d8026cd0}{67}" paraid="1868584606">People like Hebin Lin are our greatest resource at the BLM, helping us fulfill our mission to sustain the health, diversity, and productivity of public lands for the use and enjoyment of present and future generations.</p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/careers" hreflang="en">Careers</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-03-25T12:00:00Z">Mon, 03/25/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/arizona-state-office" hreflang="en">Arizona State Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47282/edit" hreflang="en">Hebin Lin, a socioeconomic specialist who powers the socioeconomics program in the Bureau of Land Management’s Sun Zone</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/diversity" hreflang="en">Diversity</a></div>
+              <div><a href="https://www.blm.gov/tag/employee" hreflang="en">Employee</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/arizona" hreflang="en">Arizona</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47282/edit" hreflang="en">Hebin Lin, a socioeconomic specialist who powers the socioeconomics program in the Bureau of Land Management’s Sun Zone</a></div>
+          </div> 
+
+<https://www.blm.gov/blog/2024-03-25/sun-zone-socioeconomic-specialist-hebin-lin-womens-history-month>
+
+---
+
+## Desert tortoises enjoying new home in the Colorado Desert
+
+date: 2024-03-25, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Desert tortoises enjoying new home in the Colorado Desert </h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:11px"><em>Story and photos by Alexandra Studd-Sojka. Wildlife Biologist and Kate Miyamoto, Public Affairs Specialist </em></p>
+
+<p>Nestled in burrows and hidden beneath the leathery leaves of a jojoba bush, desert tortoises translocated in 2023 from an area slated for a renewable energy project are adapting nicely to their new home. </p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="860c317e-42ed-4d7a-b65b-7601f352eade" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-03/IMG_3460.jpg?itok=3Sclo82W" width="640" height="480" alt="Desert tortoise burrow amid green brush" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption><em>Desert tortoise hiding in burrow</em></figcaption>
+</figure>
+
+
+<p>In January 2024, the BLM used radio transmitters to track three female desert tortoises in their new home in the Chuckwalla Bench area, a spectacular landscape that lies between the Chocolate and Chuckwalla Mountain ranges in the Colorado Desert in southern California. Prior to the translocation, the three tortoises were fitted with transmitters to monitor their daily movements and ensure they were not being impacted by construction activities.  </p>
+
+<p>BLM Wildlife Biologist Alex Studd-Sojka discovered two desert tortoises enjoying the comfort of burrows and one hanging out at the base of a jojoba bush, a native desert shrub. As the weather begins to warm, the tortoises are slowly becoming active. Desert tortoises hibernate in burrows for up to nine months each year and are most active from March to June and September to October.  </p>
+
+<p>“It was exciting to find the translocated tortoises enjoying their new home with excellent habitat for them to live out their lives and hopefully multiply,” said Studd-Sojka.  </p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="9047d05e-91b4-49bb-8dd4-3d7cfdead277" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-03/IMG_3464.jpg?itok=CP4e50Ki" width="640" height="480" alt="Desert tortoise hiding under a jojoba bush" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption><em>Desert tortoise hiding under a jojoba bush</em></figcaption>
+</figure>
+
+
+<p>The desert tortoise is a threatened species, so when it comes to project development on BLM-managed public lands, the BLM consults with the U.S. Fish and Wildlife Service on potential impacts. As part of the development process for renewable energy projects, the BLM requires developers to mitigate circumstances impacting the desert tortoise.  Biologists from federal and state agencies work diligently alongside developers to determine the best outcome for the impacted tortoises. </p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="b93398c1-3b54-4a57-b431-d3bf4776b9df" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-03/IMG_3465.jpg?itok=PRDIOq3F" width="640" height="480" alt="Desert tortoise enjoys burrow in the Chuckwalla Bench area" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption><em>Desert tortoise enjoys burrow in the Chuckwalla Bench area</em></figcaption>
+</figure>
+
+
+<p>The translocated desert tortoises have reestablished themselves in a habitat protected from development. The BLM is actively involved in ongoing research projects addressing desert tortoise management and the tortoises are monitored every few months to better understand the effects of the translocation. The BLM will complete an annual health assessment including a visual check, measurements of their shell length and width, and weight.  </p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="bd8197f9-b906-48d3-a598-598f56526c5e" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-03/IMG_3467.jpg?itok=8jTlS6Un" width="640" height="480" alt="Close-up of desert tortoise in burrow" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption><em>Close-up of desert tortoise in burrow</em></figcaption>
+</figure>
+
+
+<p>As a reminder, if you encounter a desert tortoise in the wild, do not approach or move them unless absolutely necessary as your presence can cause stress in the animal, possibly resulting in death. If you must approach a tortoise for their own safety, move slowly, pick up the animal gently, using both hands if necessary and always keep it level, placing it gently back on the ground.   </p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/california-desert-do" hreflang="en">California Desert DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/fish-and-wildlife" hreflang="en">Fish and Wildlife</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-03-25T12:00:00Z">Mon, 03/25/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/california-desert-district-office" hreflang="en">California Desert District Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47280/edit" hreflang="en">Close-up of desert tortoise in burrow</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>On</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/solar-energy" hreflang="en">Solar-Energy</a></div>
+              <div><a href="https://www.blm.gov/tag/wildlife" hreflang="en">Wildlife</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47280/edit" hreflang="en">Close-up of desert tortoise in burrow</a></div>
+          </div> 
+
+<https://www.blm.gov/blog/2024-03-25/desert-tortoises-enjoying-new-home-colorado-desert>
 

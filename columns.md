@@ -1,11 +1,224 @@
 ---
 title: columns 2024.13
-updated: 2024-03-25 08:43:09
+updated: 2024-03-27 08:14:48
 ---
 
 # columns 2024.13
 
-(date: 2024-03-25 08:43:09)
+(date: 2024-03-27 08:14:48)
+
+---
+
+## Security Vulnerability in Saflok’s RFID-Based Keycard Locks
+
+date: 2024-03-27, updated: 2024-03-26, from: Bruce Schneier blog
+
+<p>It&#8217;s <a href="https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/">pretty devastating</a>:</p>
+<blockquote><p>Today, Ian Carroll, Lennert Wouters, and a team of other security researchers are revealing a hotel keycard hacking technique they call <a href="https://unsaflok.com/">Unsaflok</a>. The technique is a collection of security vulnerabilities that would allow a hacker to almost instantly open several models of Saflok-brand RFID-based keycard locks sold by the Swiss lock maker Dormakaba. The Saflok systems are installed on 3 million doors worldwide, inside 13,000 properties in 131 countries. By exploiting weaknesses in both Dormakaba&#8217;s encryption and the underlying RFID system Dormakaba uses, known as MIFARE Classic, Carroll and Wouters have demonstrated just how easily they can open a Saflok keycard lock. Their technique starts with obtaining any keycard from a target hotel&#8212;say, by booking a room there or grabbing a keycard out of a box of used ones&#8212;then reading a certain code from that card with a $300 RFID read-write device, and finally writing two keycards of their own. When they merely tap those two cards on a lock, the first rewrites a certain piece of the lock&#8217;s data, and the second opens it...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/03/security-vulnerability-in-safloks-rfid-based-keycard-locks.html>
+
+---
+
+## Office Hours: NBC fires Ronna McDaniel, former RNC chair. Does the Republican Party have a future?
+
+date: 2024-03-27, from: Robert Reich's blog
+
+Friends, Ronna McDaniel&#8217;s tenure at NBC lasted four days. It ended last night, after network anchors and reporters blasted NBC&#8217;s decision to hire her last Friday. They argued that hiring her gave a green light for election deniers to spread lies as paid contributors. 
+
+<https://robertreich.substack.com/p/office-hours-the-end-of-the-republican>
+
+---
+
+## curl 8.7.0 and 8.7.1
+
+date: 2024-03-27, from: Daniel Stenberg Blog
+
+Numbers the 255th and 256th releases5 changes56 days (total: 9,504)162 bug-fixes (total: 10,050)246 commits (total: 31,931)0 new public libcurl function (total: 93)0 new curl_easy_setopt() option (total: 304)0 new curl command line option (total: 258)92 contributors, 56 new (total: 3,133)37 authors, 15 new (total: 1,252)4 security fixes (total: 155) Versions I first released 8.7.0, but immediately &#8230; <a href="https://daniel.haxx.se/blog/2024/03/27/curl-8-7-0/" class="more-link">Continue reading <span class="screen-reader-text">curl 8.7.0 and 8.7.1</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/03/27/curl-8-7-0/>
+
+---
+
+## The Talk Show: ‘Less Space Than a Nomad? Lame’
+
+date: 2024-03-27, updated: 2024-03-27, from: Daring Fireball
+
+ 
+
+<https://daringfireball.net/thetalkshow/2024/03/26/ep-397>
+
+---
+
+## Wednesday 27 March, 2024
+
+date: 2024-03-27, from: John Naughton's online diary
+
+Picasso’s guitar? No, mine, viewed through a distorting lens. Quote of the Day ”The McDaniel hiring speaks to a long-running poverty of imagination at television’s news divisions. Network bosses have come to believe that the news is a river that &#8230; <a href="https://memex.naughtons.org/wednesday-27-march-2024/39286/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-27-march-2024/39286/>
+
+---
+
+## Canva Acquires Affinity
+
+date: 2024-03-26, updated: 2024-03-26, from: Daring Fireball
+
+ 
+
+<https://mjtsai.com/blog/2024/03/26/canva-acquires-affinity-serif/>
+
+---
+
+## ★ The EU’s Share of Apple’s Global Revenue
+
+date: 2024-03-26, updated: 2024-03-26, from: Daring Fireball
+
+The DMA allows the EC to penalize “gatekeepers” with fines that are vastly disproportionate to the amount of revenue they generate in EU member states. 
+
+<https://daringfireball.net/2024/03/eu_share_of_apples_revenue>
+
+---
+
+## WWDC 2024: June 10–14
+
+date: 2024-03-26, updated: 2024-03-26, from: Daring Fireball
+
+ 
+
+<https://www.apple.com/newsroom/2024/03/apples-worldwide-developers-conference-returns-june-10-2024/>
+
+---
+
+## Why Normal is NOT good
+
+date: 2024-03-26, from: Om Malik blog
+
+As an organization grows in scale, the idiosyncrasy and distinctiveness that was originally informed by the taste of the founders moves toward the mean. Over time, things get more average. That’s because each new customer, each new supplier and each new employee wants or needs something a little more normal, at least sometimes. The drift &#8230; 
+
+<https://om.co/2024/03/26/normal-is-not-good/>
+
+---
+
+## On Secure Voting Systems
+
+date: 2024-03-26, updated: 2024-03-21, from: Bruce Schneier blog
+
+<p>Andrew Appel shepherded a <a href="https://freedom-to-tinker.com/2024/03/18/suggested-principles-for-state-statutes-regarding-ballot-marking-and-vote-tabulation/">public comment</a>&#8212;signed by twenty election cybersecurity experts, including myself&#8212;on best practices for ballot marking devices and vote tabulation. It was written for the Pennsylvania legislature, but it&#8217;s general in nature.</p>
+<p>From the executive summary:</p>
+<blockquote><p>We believe that no system is perfect, with each having trade-offs. Hand-marked and hand-counted ballots remove the uncertainty introduced by use of electronic machinery and the ability of bad actors to exploit electronic vulnerabilities to remotely alter the results. However, some portion of voters mistakenly mark paper ballots in a manner that will not be counted in the way the voter intended, or which even voids the ballot. Hand-counts delay timely reporting of results, and introduce the possibility for human error, bias, or misinterpretation...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/03/on-secure-voting-systems.html>
+
+---
+
+## Dev Digest 108 – Git off my cloud!
+
+date: 2024-03-26, from: Chris Heilmann's blog
+
+Welcome to another edition of the WeAreDevelopers Dev Digest. This time we have am interview with Sead Ahmetovic, CEO of of WeAreDevelopers amd Scott Chacon, co-Founder of GitHub. They talk about careers, early coding days, developer communities, evangelizing git, and how AI is shaping the future of coding. Gitting things done&#8230; So, let&#8217;s get started [&#8230;] 
+
+<https://christianheilmann.com/2024/03/26/dev-digest-108-git-off-my-cloud/>
+
+---
+
+## How Biden can stop Netanyahu 
+
+date: 2024-03-26, from: Robert Reich's blog
+
+The case for restricting U.S. arms sales to Israel 
+
+<https://robertreich.substack.com/p/the-case-for-stopping-us-military>
+
+---
+
+## [Sponsor] Kolide: ‘Struggling to Afford Cybersecurity Insurance? Here’s Why.’
+
+date: 2024-03-26, updated: 2024-03-26, from: Daring Fireball
+
+ 
+
+<https://l.kolide.co/43vcTaN>
+
+---
+
+## ★ European Commission Opens DMA Non-Compliance Investigations Against Google, Apple, and Meta
+
+date: 2024-03-26, updated: 2024-03-26, from: Daring Fireball
+
+You could have set your watch by this announcement dropping the week after the EC held compliance “workshops”. 
+
+<https://daringfireball.net/2024/03/ec_non_compliance_investigations>
+
+---
+
+## Can EU be tough on China Inc?
+
+date: 2024-03-25, from: Om Malik blog
+
+The European Union has opened a non-compliance investigation under the European Digital Markets Act (DMA) against Apple, Google and Meta. It is evident that there is intensified scrutiny on the (US) Big Tech, in Europe. Before today’s investigations, over the past few years, the EU has: Steve Sinofsky, a former high-ranking Microsoft executive, points out &#8230; 
+
+<https://om.co/2024/03/25/can-eu-be-tough-on-china-inc/>
+
+---
+
+## What Were They Thinking?
+
+date: 2024-03-25, from: Dan Rather's Steady
+
+NBC News hires Trump apologist to be on-air commentator 
+
+<https://steady.substack.com/p/what-were-they-thinking>
+
+---
+
+## The Original Original ‘Apple Vision’
+
+date: 2024-03-25, updated: 2024-03-26, from: Daring Fireball
+
+ 
+
+<https://www.youtube.com/watch?v=CU_qKQL5PVk>
+
+---
+
+## Data Suggests Twitter/X Is Bleeding Users
+
+date: 2024-03-25, updated: 2024-03-25, from: Daring Fireball
+
+ 
+
+<https://www.nbcnews.com/tech/tech-news/fewer-people-using-elon-musks-x-struggles-keep-users-rcna144115>
+
+---
+
+## ‘How Comics Were Made: A Visual History of Printing Cartoons’
+
+date: 2024-03-25, updated: 2024-03-25, from: Daring Fireball
+
+ 
+
+<https://www.kickstarter.com/projects/glennf/how-comics-were-made>
+
+---
+
+## The Original ‘AppleVision’ Lineup
+
+date: 2024-03-25, updated: 2024-03-25, from: Daring Fireball
+
+ 
+
+<https://support.apple.com/en-us/112266>
+
+---
+
+## curl distro report
+
+date: 2024-03-25, from: Daniel Stenberg Blog
+
+On March 21 2024 we had a curl distro meeting where people from at least ten different distros and curl project members had a video meeting and talked curl and distro related topics for a while. Here is my summary of what we talked about and concluded. Attendees We had about 25 persons attending. At &#8230; <a href="https://daniel.haxx.se/blog/2024/03/25/curl-distro-report/" class="more-link">Continue reading <span class="screen-reader-text">curl distro report</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/03/25/curl-distro-report/>
 
 ---
 
@@ -92,7 +305,7 @@ And last week's winner
 
 ## ‘Harrison Bergeron’
 
-date: 2024-03-24, updated: 2024-03-24, from: Daring Fireball
+date: 2024-03-24, updated: 2024-03-25, from: Daring Fireball
 
  
 
