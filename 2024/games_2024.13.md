@@ -1,11 +1,111 @@
 ---
 title: games 2024.13
-updated: 2024-03-27 08:14:48
+updated: 2024-03-28 08:13:08
 ---
 
 # games 2024.13
 
-(date: 2024-03-27 08:14:48)
+(date: 2024-03-28 08:13:08)
+
+---
+
+## Warhammer 40K’s God-Emperor is surprisingly active for a skeleton
+
+date: 2024-03-28, updated: 2024-03-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24113824/warhammer-40k-god-emperor-lore-dark-king-star-child-godblight>
+
+---
+
+## Not sure what movie to watch this weekend? Leave a comment, we’ll help
+
+date: 2024-03-28, updated: 2024-03-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/entertainment/2024/3/28/24113465/best-movies-watch-this-weekend-best-recommendations>
+
+---
+
+## How to change your appearance in Dragon’s Dogma 2
+
+date: 2024-03-28, updated: 2024-03-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24106867/change-appearance-hair-body-barbarie-metamorphosis>
+
+---
+
+## A guide to finally getting into Brandon Sanderson books
+
+date: 2024-03-28, updated: 2024-03-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24109139/brandon-sanderson-order-new-books-secret-projects-guides>
+
+---
+
+## Sega Europe laying off 240 workers, selling off Company of Heroes developer Relic
+
+date: 2024-03-28, updated: 2024-03-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24114464/sega-europe-march-2024-layoffs-relic-entertainment>
+
+---
+
+## The Adult Swim Games delisting situation is strange, even to lawyers
+
+date: 2024-03-28, updated: 2024-03-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pc/24113466/adult-swim-games-delisting-law-warner-bros-discovery-archiving>
+
+---
+
+## Embracer has sold Gearbox — and Borderlands — to Take-Two for $460M
+
+date: 2024-03-28, updated: 2024-03-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24114399/embracer-gearbox-borderlands-take-two-2k-sale>
+
+---
+
+## Don’t Starve is getting a board game spin-off
+
+date: 2024-03-27, updated: 2024-03-27, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/tabletop-games/24112612/dont-starve-the-board-game-announcement-price-release-kickstarter>
+
+---
+
+## How to get to Agamen Volcanic Island in Dragon’s Dogma 2
+
+date: 2024-03-27, updated: 2024-03-27, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24112949/agamen-volcanic-island-flamebearer-palace-spellseal-door-how-to-open>
+
+---
+
+## LG’s tried and true 27-inch 1440p gaming monitor is $210
+
+date: 2024-03-27, updated: 2024-03-27, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24113861/lg-1440p-ultragear-gaming-monitor-deal-sale>
 
 ---
 

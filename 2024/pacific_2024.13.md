@@ -1,11 +1,752 @@
 ---
 title: pacific 2024.13
-updated: 2024-03-27 08:14:47
+updated: 2024-03-28 08:13:07
 ---
 
 # pacific 2024.13
 
-(date: 2024-03-27 08:14:47)
+(date: 2024-03-28 08:13:07)
+
+---
+
+## Grace abounds: Lessons in reconciliation
+
+date: 2024-03-28, updated: 2024-03-28, from: Marianas Variety
+
+AS we celebrate Easter - a time of renewal and redemption - we are reminded of the powerful acts of forgiveness and reconciliation at the heart of the Christian faith. On our beautiful island of Saipan, three individuals have experienced journeys of forgiveness that can inspire us all. 
+
+<https://www.mvariety.com/specials/2024/easter_feature/grace-abounds-lessons-in-reconciliation/article_aaca34d6-ec98-11ee-9987-fb21eaa1d670.html>
+
+---
+
+## Saipan speaks: Guide to inner peace and forgiveness
+
+date: 2024-03-28, updated: 2024-03-28, from: Marianas Variety
+
+From local Saipan Facebook groups, Speak Up CNMI and Speak Up Taotao CNMI, a few wise voices among us offer insights into these powerful, though often challenging, processes of forgiveness and reconciliation. 
+
+<https://www.mvariety.com/specials/2024/easter_feature/saipan-speaks-guide-to-inner-peace-and-forgiveness/article_4fe754fe-ec9d-11ee-b6af-170e5542d03b.html>
+
+---
+
+## Your guide to safely coloring, hunting and enjoying Easter eggs
+
+date: 2024-03-28, updated: 2024-03-28, from: Marianas Variety
+
+(TNS) — Easter is a time of celebration, marked by religious traditions infused with the colorful spring season. Central to this holiday’s traditions are Easter eggs. The eggs symbolize new beginnings, tracing back to ancient spring festivals, History reports, and for Christians, these eggs are a powerful reminder of Jesus’ resurrection and new life. 
+
+<https://www.mvariety.com/specials/2024/easter_feature/your-guide-to-safely-coloring-hunting-and-enjoying-easter-eggs/article_8916afc6-eca3-11ee-b9c1-67d5efb047f4.html>
+
+---
+
+## Full Text: Pope Francis’ Easter message to the Catholics in the Holy Land
+
+date: 2024-03-28, updated: 2024-03-28, from: Marianas Variety
+
+POPE Francis has written a letter to Catholics of the Holy Land, released by the Vatican on March 27 in various languages, including Arabic. 
+
+<https://www.mvariety.com/specials/2024/easter_feature/full-text-pope-francis-easter-message-to-the-catholics-in-the-holy-land/article_5d140d3c-ecc7-11ee-a1fe-d70b1cbb3da5.html>
+
+---
+
+## BIIF sports: Ka‘u BVB sweeps Makua Lani; Honoka‘a baseball blanks Kealakehe
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>A plethora of Big Island Interscholastic Federation (BIIF) sporting events occurred around the island on Monday and Tuesday, ranging from volleyball to baseball and softball matchups.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/sports/biif-sports-kau-bvb-sweeps-makua-lani-honokaa-baseball-blanks-kealakehe/>
+
+---
+
+## UConn, San Diego State set for title game rematch in Sweet 16; Iowa State, Illinois target Elite 8
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; Connecticut coach Dan Hurley won&#8217;t shy away from the notion that his team has consistently been the best in college basketball this season. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/sports/uconn-san-diego-state-set-for-title-game-rematch-in-sweet-16-iowa-state-illinois-target-elite-8/>
+
+---
+
+## Opening day 2024: What to watch for on the first full day of the MLB season
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>Here&#8217;s what to watch for on MLB&#8217;s opening day: </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/sports/opening-day-2024-what-to-watch-for-on-the-first-full-day-of-the-mlb-season/>
+
+---
+
+## Trump evokes more anger and fear from Democrats than Biden does from Republicans, AP-NORC poll shows
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA (AP) &#8212; Many Americans are unenthusiastic about a November rematch of the 2020 presidential election. But presumptive GOP nominee Donald Trump appears to stoke more anger and fear among Americans from his opposing party than President Joe Biden does from his.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/nation-world-news/trump-evokes-more-anger-and-fear-from-democrats-than-biden-does-from-republicans-ap-norc-poll-shows/>
+
+---
+
+## Alleged abuser would ‘get mad’ if mom tried to feed 2-year-old
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>The 23-year-old mother of a 2-year-old girl police say is the victim of &#8220;heinous abuse and starvation&#8221; told officers her live-in boyfriend would violently strike the child or withhold food from her as punishment for not showing respect, court documents state.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/hawaii-news/alleged-abuser-would-get-mad-if-mom-tried-to-feed-2-year-old/>
+
+---
+
+## Hawaii says 30 Lahaina fire survivors are moving into housing daily but 3,000 are still in hotels
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8212; Hawaii Gov. Josh Green said Wednesday some 3,000 people displaced by Lahaina&#8217;s wildfires are still living in hotels more than seven months after the August blaze but that up to 30 people are moving to longer-term housing each day.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/hawaii-news/hawaii-says-30-lahaina-fire-survivors-are-moving-into-housing-daily-but-3000-are-still-in-hotels/>
+
+---
+
+## Legal battle brewing after house built on wrong HPP lot
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>A woman who purchased a vacant lot in Puna was surprised to find out a $500,000 house was built on the property by mistake.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/hawaii-news/legal-battle-brewing-after-house-built-on-wrong-hpp-lot/>
+
+---
+
+## Donald Trump assails judge and his daughter after gag order in New York hush-money criminal case
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Donald Trump lashed out Wednesday at the New York judge who put him under a gag order ahead of his April 15 hush-money criminal trial, making a fallacious claim about his daughter and urging him to step aside from the case.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/nation-world-news/donald-trump-assails-judge-and-his-daughter-after-gag-order-in-new-york-hush-money-criminal-case/>
+
+---
+
+## Blessing ceremony held for nonprofit’s permanent Hilo facility
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii-based nonprofit Child and Family Service celebrated its 125th birthday with a blessing ceremony for the future Hilo Community Resource and Counseling Center.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/hawaii-news/blessing-ceremony-held-for-nonprofits-permanent-hilo-facility/>
+
+---
+
+## Former Sen. Joe Lieberman, Democrats’ VP pick in 2000, dead at 82
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>HARTFORD, Conn. &#8212; Former U.S. Sen. Joe Lieberman of Connecticut, who nearly won the vice presidency on the Democratic ticket with Al Gore in the disputed 2000 election and who almost became Republican John McCain&#8217;s running mate eight years later, has died, according to a statement issued by his family.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/nation-world-news/former-sen-joe-lieberman-democrats-vp-pick-in-2000-dead-at-82/>
+
+---
+
+## Interior Department rule aims to crack down on methane leaks from oil, gas drilling on public lands
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Biden administration issued a final rule Wednesday aimed at curbing methane leaks from oil and gas drilling on federal and tribal lands, its latest action to crack down on emissions of methane, a potent greenhouse gas that contributes significantly to global warming.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/nation-world-news/interior-department-rule-aims-to-crack-down-on-methane-leaks-from-oil-gas-drilling-on-public-lands/>
+
+---
+
+## TikTok is under investigation by the FTC over data practices and could face a lawsuit
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK (AP) &#8212; The Federal Trade Commission is investigating TikTok over its data and security practices, a probe that could lead to a settlement or a lawsuit against the company, according to a person familiar with the matter.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/nation-world-news/tiktok-is-under-investigation-by-the-ftc-over-data-practices-and-could-face-a-lawsuit/>
+
+---
+
+## Obituaries for March 28
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>Clotilda &#8220;Tillie&#8221; DeMello, 97, of Honokaa died March 23. Born in Honolulu, she was a homemaker. Visitation 9-10 a.m. Friday, April 12, at Our Lady of Lourdes Catholic Church in Honokaa. Mass at 10 a.m. Burial at a later date. No flowers please. Condolences to: Skip DeMello, P.O. Box 172, Honokaa, HI 96727. Online condolences: homelanimemorialpark.com. Survived by children, Damien &#8220;Skip&#8221; (Dee) DeMello, Raymond &#8220;Sparky&#8221; DeMello and Cindy (Morgan) Matsumura, eight grandchildren and 14 great-grandchildren; nieces, nephews and cousins. Arrangements by Homelani Memorial Park.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/obituaries/obituaries-for-march-28-9/>
+
+---
+
+## Cargo ship had engine maintenance in port before it collided with Baltimore bridge, officials say
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>BALTIMORE &#8212; The cargo ship that lost power and crashed into a bridge in Baltimore underwent &#8220;routine engine maintenance&#8221; in port beforehand, the U.S. Coast Guard said Wednesday, as divers recovered the bodies of two of six workers who plunged into the water when it collapsed. The others were presumed dead, and officials said search efforts had been exhausted.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/nation-world-news/cargo-ship-had-engine-maintenance-in-port-before-it-collided-with-baltimore-bridge-officials-say/>
+
+---
+
+## Ex-Trump lawyer Eastman should lose state law license for efforts to overturn election, judge says
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; A judge has recommended that conservative attorney John Eastman lose his California law license over his efforts to keep former President Donald Trump in power after the 2020 election.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/nation-world-news/ex-trump-lawyer-eastman-should-lose-state-law-license-for-efforts-to-overturn-election-judge-says/>
+
+---
+
+## Israeli strikes in Lebanon kill 16, militant rockets kill 1 Israeli as cross-border violence soars
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>HEBBARIYE, Lebanon &#8212; A series of Israeli airstrikes in southern Lebanon killed 16 people and a barrage of rockets fired by the militant group Hezbollah killed one Israeli man, making Wednesday the deadliest day in more than five months of fighting along the border.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/nation-world-news/israeli-strikes-in-lebanon-kill-16-militant-rockets-kill-1-israeli-as-cross-border-violence-soars/>
+
+---
+
+## 4 people killed and 7 wounded in stabbings in northern Illinois, with a suspect in custody
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>ROCKFORD, Ill. (AP) &#8212; Four people were killed and seven were hurt when a man went on a stabbing rampage Wednesday across multiple locations in a northern Illinois community, authorities said.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/nation-world-news/4-people-killed-and-7-wounded-in-stabbings-in-northern-illinois-with-a-suspect-in-custody/>
+
+---
+
+## Texas’ migrant arrest law will remain on hold under new court ruling
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>NEW ORLEANS &#8212; Texas&#8217; plans to arrest migrants suspected of illegally entering the U.S. will remain on hold under a federal appeals court order that likely prevents enforcement of Republican Gov. Greg Abbott&#8217;s new immigration law until a broader decision on whether it is legal.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/nation-world-news/texas-migrant-arrest-law-will-remain-on-hold-under-new-court-ruling/>
+
+---
+
+## People form a human chain around Slovakia’s public broadcaster that government wants to take over
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>BRATISLAVA, Slovakia (AP) &#8212; Protesters in Slovakia formed a human chain around the country&#8217;s public television and radio building Wednesday in anger over a takeover plan by the government whose populist, pro-Russia prime minister recently labeled several private media outlets his enemies.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/nation-world-news/people-form-a-human-chain-around-slovakias-public-broadcaster-that-government-wants-to-take-over/>
+
+---
+
+## We are seeing a lethal shift in America’s gun violence crisis
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>While gun violence declined last year, a closer look at the data reveals a striking and surprising trend. While the total number of shootings is going down, the lethality of shootings &#8212; the odds of someone dying in a shooting &#8212; seems to be going up. If that trend holds, it could have massive consequences for gun violence in America, with hundreds or thousands more homicides per year.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/opinion/we-are-seeing-a-lethal-shift-in-americas-gun-violence-crisis/>
+
+---
+
+## More free stuff
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>Bernie Sanders emerged from the land of the sugarplum fairies earlier this month to advocate for a 32-hour work week &#8212; all with no reduction in pay.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/opinion/more-free-stuff/>
+
+---
+
+## Your Views for March 28
+
+date: 2024-03-28, from: Hawaii Tribune Harold
+
+
+				<p>HECO responds&#0010;to commentary</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/28/opinion/your-views-for-march-28-6/>
+
+---
+
+## 2024 Easter Fair and Egg Hunt
+
+date: 2024-03-28, from: Guam Daily Post
+
+ 
+
+<https://www.postguam.com/news/local/2024-easter-fair-and-egg-hunt/article_96feb9d6-ec34-11ee-a3ae-afb4b75fc582.html>
+
+---
+
+## Sports reunification begins with girls soccer
+
+date: 2024-03-28, from: Guam Daily Post
+
+When St. John’s School goalkeeper Ha’ani Byerly stepped onto the pitch with her teammates at John F. Kennedy High School to play against Okkodo High School in the season-opener of the Interscholastic Girls High School Football League Friday afternoon, it… 
+
+<https://www.postguam.com/sports/local/sports-reunification-begins-with-girls-soccer/article_127e96c0-ec8b-11ee-9452-0bb534a4f069.html>
+
+---
+
+## Barbarians to play in Hong Kong 7s tournament
+
+date: 2024-03-28, from: Guam Daily Post
+
+ 
+
+<https://www.postguam.com/sports/local/barbarians-to-play-in-hong-kong-7s-tournament/article_c9ec49b6-ec85-11ee-bfd9-e37dc43fba84.html>
+
+---
+
+## Big Ben Borja to play professionally for the Pirates
+
+date: 2024-03-28, from: Guam Daily Post
+
+For Guam basketball big man Ben Borja II, the sky’s the limit. 
+
+<https://www.postguam.com/sports/local/big-ben-borja-to-play-professionally-for-the-pirates/article_4635ffd8-ec83-11ee-9a78-8b87fc69f38d.html>
+
+---
+
+## Sinajana day care sanitary permit suspended
+
+date: 2024-03-28, from: Guam Daily Post
+
+A child care center in Sinajana had its sanitary permit suspended due to a cockroach infestation, according to last week's sanitary inspection results from the Division of Environmental Health at the Department of Public Health and Social Services. 
+
+<https://www.postguam.com/news/local/sinajana-day-care-sanitary-permit-suspended/article_6a0b94da-ebf3-11ee-8044-abe23658ef42.html>
+
+---
+
+## Retreat offers support after abortion
+
+date: 2024-03-28, from: Guam Daily Post
+
+The pain of abortion can be carried for years, but one program aims to provide a chance for healing. 
+
+<https://www.postguam.com/news/local/retreat-offers-support-after-abortion/article_e4f02ea8-ecb7-11ee-b0eb-ebc6d6988836.html>
+
+---
+
+## Duenas retires after 45 years of service to island community
+
+date: 2024-03-28, from: Guam Daily Post
+
+The Guam Memorial Hospital Authority is bidding farewell to its acting administrator of medical services, Dr. Vincent Duenas, after 45 years of service as an internal medicine doctor. 
+
+<https://www.postguam.com/news/local/duenas-retires-after-45-years-of-service-to-island-community/article_0b7a5b06-ecaf-11ee-bfeb-e3d14eb9d036.html>
+
+---
+
+## Bar requests GovGuam lawyers be appointed to indigent cases
+
+date: 2024-03-28, from: Guam Daily Post
+
+The Guam Bar Association is asking the Supreme Court of Guam to appoint government attorneys, with the exception of prosecutors, to represent indigent defendants. 
+
+<https://www.postguam.com/news/local/bar-requests-govguam-lawyers-be-appointed-to-indigent-cases/article_50640468-ecb6-11ee-948e-9b2f1c5c4871.html>
+
+---
+
+## Man denies stealing bus, crashing near base
+
+date: 2024-03-28, from: Guam Daily Post
+
+A man accused of stealing a yellow bus and crashing it near Andersen Air Force Base pleaded not guilty to the charges. 
+
+<https://www.postguam.com/news/local/man-denies-stealing-bus-crashing-near-base/article_2d19a3c8-ecbb-11ee-901e-27e4caa606b4.html>
+
+---
+
+## Man allegedly entered woman’s Sinajana home through window
+
+date: 2024-03-28, from: Guam Daily Post
+
+A man who appeared to be intoxicated was accused of breaking into a woman's home. 
+
+<https://www.postguam.com/news/local/man-allegedly-entered-woman-s-sinajana-home-through-window/article_2fe7a6f2-ecae-11ee-9fca-dbbd4efc55ee.html>
+
+---
+
+## Attorney: Plebiscite exclusion sure to invite legal challenge
+
+date: 2024-03-28, from: Guam Daily Post
+
+An attorney who represented Arnold "Dave" Davis in the lawsuit that ultimately saw Guam's plebiscite law declared unconstitutional has written to the executive director of the Commission on Decolonization, warning him that any effort to enact a law "that offends"… 
+
+<https://www.postguam.com/news/local/attorney-plebiscite-exclusion-sure-to-invite-legal-challenge/article_c5629db2-eca5-11ee-80db-ffcb9ecaa546.html>
+
+---
+
+## Education board grills Swanson on 60 GDOE teacher vacancies
+
+date: 2024-03-28, from: Guam Daily Post
+
+The Guam Department of Education has 60 vacant teacher positions to fill across the school system to meet the Adequate Education Act’s requirement to have a certified teacher in every classroom. 
+
+<https://www.postguam.com/news/local/education-board-grills-swanson-on-60-gdoe-teacher-vacancies/article_6767861a-ecb8-11ee-8ead-c34a100c3859.html>
+
+---
+
+## New GVB solar lights a ‘brilliant example’ to follow, says senator
+
+date: 2024-03-28, from: Guam Daily Post
+
+Sen. Joe San Agustin lauded the Guam Visitors Bureau for installing solar streetlights in the island's tourism district, and said the initiative should be used as a steppingstone to convert streetlights islandwide. 
+
+<https://www.postguam.com/news/local/new-gvb-solar-lights-a-brilliant-example-to-follow-says-senator/article_0699adae-ecc7-11ee-8ccf-6bd4a1732d3c.html>
+
+---
+
+## 21 years for man guilty of fatal 2022 attack
+
+date: 2024-03-28, from: Guam Daily Post
+
+Branty Walliby will spend the next 21 years in prison for his involvement in a fatal attack that resulted in the death of Arnold Narruhn in December 2022. 
+
+<https://www.postguam.com/news/local/21-years-for-man-guilty-of-fatal-2022-attack/article_360ff2ac-eca2-11ee-b4ae-df1817edb71b.html>
+
+---
+
+## RMI appeal for climate justice
+
+date: 2024-03-28, from: Marshal Islands Journal
+
+<p>Marshall Islands Ambassador Doreen deBrum traveled to The Hague in The Netherlands last Friday to officially file the RMI’s written statement on climate change at the International Court of Justice. Ambassador deBrum also filed the Parties to the Nauru Office’s written statement at the request of the office based in Majuro. The Marshall Islands is [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/rmi-appeal-for-climate-justice/">RMI appeal for climate justice</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/rmi-appeal-for-climate-justice/>
+
+---
+
+## Senators push for solarization of Guam streets
+
+date: 2024-03-28, from: Pacific Island Times
+
+By Pacific Island Times News Staff Taking a cue from the sun-powered street lights in the tourist district of Tumon, Guam senators are... 
+
+<https://www.pacificislandtimes.com/post/senators-push-for-solarization-of-guam-streets>
+
+---
+
+## J&J can contest evidence linking its talc to cancer, US judge rules
+
+date: 2024-03-28, updated: 2024-03-28, from: Marianas Variety
+
+NEW YORK (Reuters) — Johnson &amp; Johnson will get a new chance to contest the scientific evidence linking talc to ovarian cancer, a federal judge ruled on Wednesday, potentially disrupting more than 53,000 lawsuits the company is now facing over its talc products. 
+
+<https://www.mvariety.com/business/j-j-can-contest-evidence-linking-its-talc-to-cancer-us-judge-rules/article_76600956-ecd3-11ee-b136-e36d19197d61.html>
+
+---
+
+## Amazon's senior employees may not get a cash pay raise this year
+
+date: 2024-03-28, updated: 2024-03-28, from: Marianas Variety
+
+(Reuters) — Amazon.com Inc said on Wednesday its senior employees, whose compensation includes more stock-related awards than cash, may not receive a cash pay raise this year. 
+
+<https://www.mvariety.com/business/amazons-senior-employees-may-not-get-a-cash-pay-raise-this-year/article_2e8b45d2-ecd3-11ee-9e1d-8b96ab8b4d8f.html>
+
+---
+
+## US court keeps Texas border security law on hold in win for Biden
+
+date: 2024-03-28, updated: 2024-03-28, from: Marianas Variety
+
+(Reuters) — A U.S. appeals court has kept on hold a Republican-backed Texas law that would let state authorities arrest and prosecute people suspected of illegally crossing the U.S.-Mexico border - a statute that President Joe Biden's administration has argued intrudes on the authority of the federal government. 
+
+<https://www.mvariety.com/news/national/us-court-keeps-texas-border-security-law-on-hold-in-win-for-biden/article_9df476e2-ecd2-11ee-855c-63fa83d4bf61.html>
+
+---
+
+## U.S. defense chief reaffirms support for Philippines, chides 'dangerous' Chinese conduct
+
+date: 2024-03-28, updated: 2024-03-28, from: Marianas Variety
+
+MANILA (Reuters) — U.S. Defense Secretary Lloyd Austin has reaffirmed Washington's commitment to a mutual defense treaty with the Philippines and criticized as "dangerous" China's use of water cannon and disruption of a Philippine resupply mission last week. 
+
+<https://www.mvariety.com/news/u-s-defense-chief-reaffirms-support-for-philippines-chides-dangerous-chinese-conduct/article_3c97d0d8-ecd2-11ee-b3c3-573a6d285c4f.html>
+
+---
+
+## Judge seems skeptical of Hunter Biden's request to dismiss tax charges
+
+date: 2024-03-28, updated: 2024-03-28, from: Marianas Variety
+
+LOS ANGELES (Reuters) — A U.S. judge gave a skeptical reception on Wednesday to an attempt by President Joe Biden’s son Hunter to dismiss his criminal tax-evasion case on the grounds that he was selectively targeted for prosecution due to political pressure. 
+
+<https://www.mvariety.com/news/national/judge-seems-skeptical-of-hunter-bidens-request-to-dismiss-tax-charges/article_0738f8fe-ecd2-11ee-ae6d-b7369de8d8a1.html>
+
+---
+
+## Ex-Trump lawyer Eastman should be disbarred, California judge rules
+
+date: 2024-03-28, updated: 2024-03-28, from: Marianas Variety
+
+(Reuters) — A California state judge on Wednesday said attorney John Eastman should be stripped of his law license for his efforts to overturn the results of the 2020 U.S. presidential election on behalf of Donald Trump. 
+
+<https://www.mvariety.com/news/national/ex-trump-lawyer-eastman-should-be-disbarred-california-judge-rules/article_6add36dc-ecd1-11ee-b194-2b9f9e740543.html>
+
+---
+
+## Solomon Islands Youth made considerable strides in the Anti-Corruption Pacific Youth Movement
+
+date: 2024-03-28, from: University of the South Pacific (Fiji)
+
+<p>HONIARA, Solomon Islands 19th March – The Heritage Park Hotel in Honiara, Solomon Islands, hosted...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/solomon-islands-youth-made-considerable-strides-in-the-anti-corruption-pacific-youth-movement/">Solomon Islands Youth made considerable strides in the Anti-Corruption Pacific Youth Movement</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/solomon-islands-youth-made-considerable-strides-in-the-anti-corruption-pacific-youth-movement/>
+
+---
+
+## Japan’s $6m for Sea Patrol
+
+date: 2024-03-28, from: Marshal Islands Journal
+
+<p>Japan is supporting the ongoing Sea Patrol Headquarters project in Delap with a multi-faceted grant which is worth over $6 million. The grant was confirmed by a signing of an Exchanges of Notes last Thursday by Japan Ambassador Tanaka Kazunari and Minister of Foreign Affairs Kalani Kaneko. The first part of the project is $1.3 [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/japans-6m-for-sea-patrol/">Japan&#8217;s $6m for Sea Patrol</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/japans-6m-for-sea-patrol/>
+
+---
+
+## Guam business sector joins fight against mounting crimes on island
+
+date: 2024-03-28, from: Pacific Island Times
+
+By Pacific Island Times News Staff With rising crimes that comprise Guam's economic environment, fence-sitting is no longer an option for... 
+
+<https://www.pacificislandtimes.com/post/guam-business-sector-joins-fight-against-mounting-crimes-on-island>
+
+---
+
+## UH innovation students mentor Japanese students in solving complex Hawaiʻi issues
+
+date: 2024-03-28, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> With the assistance of the <abbr>PACE</abbr> students, they conducted field research and interviews, and developed solutions and prototypes.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/27/pace-meijo-university-program/"><abbr>UH</abbr> innovation students mentor Japanese students in solving complex Hawaiʻi issues</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/27/pace-meijo-university-program/>
+
+---
+
+## Six Rainbow Warriors bow out with Senior Night victory
+
+date: 2024-03-27, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+ 
+
+<https://www.manoanow.org/kaleo/six-rainbow-warriors-bow-out-with-senior-night-victory/article_0272cbbe-ec92-11ee-9f58-8bc1e95a8541.html>
+
+---
+
+## Floor captain Chakas done for the season
+
+date: 2024-03-27, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+ 
+
+<https://www.manoanow.org/kaleo/floor-captain-chakas-done-for-the-season/article_2b38d062-ec91-11ee-b8e7-1363f5ee0656.html>
+
+---
+
+## Study reveals: Pacific Islanders used fire to shape landscapes
+
+date: 2024-03-27, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> New wildfire-based research examined the relationships between historical human land use, climate, and fire occurrence across Micronesian islands.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/27/pacific-islanders-used-fire-to-shape-landscapes/">Study reveals: Pacific Islanders used fire to shape landscapes</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/27/pacific-islanders-used-fire-to-shape-landscapes/>
+
+---
+
+## ARL at UH innovative tech hub for Hawaiʻi, national defense
+
+date: 2024-03-27, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>ARL</abbr> at <abbr>UH</abbr> is the fifth U.S. Navy-sponsored University-Affiliated Research Center, bringing in a total of &#36;139 million since it was established in 2008.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/27/arl-at-uh-research/"><abbr>ARL at UH</abbr> innovative tech hub for Hawaiʻi, national defense</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/27/arl-at-uh-research/>
+
+---
+
+## Student-athletes recover from season-ending injuries
+
+date: 2024-03-27, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+ 
+
+<https://www.manoanow.org/kaleo/student-athletes-recover-from-season-ending-injuries/article_61885b58-ec8f-11ee-adb5-533b693ad161.html>
+
+---
+
+## $140K to advance Alzheimer’s detection in diverse populations
+
+date: 2024-03-27, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The research focuses on evaluating the effectiveness of the blood test for a specific biomarker of the disease.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/27/140k-alzheimers-detection/">$140K to advance Alzheimer’s detection in diverse populations</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/27/140k-alzheimers-detection/>
+
+---
+
+## The rise of UHEsports
+
+date: 2024-03-27, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+ 
+
+<https://www.manoanow.org/kaleo/the-rise-of-uhesports/article_8a161df0-ec8d-11ee-8fa9-ef9ad257bf37.html>
+
+---
+
+## Engaging positively through conflict and disagreement over global and local events
+
+date: 2024-03-27, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> This message was sent out to all University of <span aria-label="Hawaii">Hawai&#699;i</span> at Mānoa faculty, staff and students on March 27, 2024.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/27/engaging-positively-through-conflict-disagreement/">Engaging positively through conflict and disagreement over global and local events</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/27/engaging-positively-through-conflict-disagreement/>
+
+---
+
+## Saipan resident challenges United's pricing policy
+
+date: 2024-03-27, from: Pacific Island Times
+
+By Emmanuel T. Erediano Saipan (Marianas Variety)-- Saipan resident Jesse Torres wants to know why United Airlines is charging $580 for a... 
+
+<https://www.pacificislandtimes.com/post/saipan-resident-challenges-united-s-pricing-policy>
+
+---
+
+## Understanding the Board of Regents
+
+date: 2024-03-27, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+ 
+
+<https://www.manoanow.org/kaleo/understanding-the-board-of-regents/article_a721fc7c-ec8b-11ee-928a-4bc42e6d845f.html>
+
+---
+
+## MEC tanks get overhauled
+
+date: 2024-03-27, from: Marshal Islands Journal
+
+<p>The Majuro Fuel Tank Refurbishment project, funded in part by both Marshalls Energy Company and the Asian Development Bank, is well underway. For many Majuro residents, the glimpses they can see driving by the MEC power plant and tank farm include a 180-foot tall boom crawler crane and scaffolding surrounding three tanks currently being worked [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/mec-tanks-get-overhauled/">MEC tanks get overhauled</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/mec-tanks-get-overhauled/>
+
+---
+
+## Eco-friendly endeavor: UH alumni form Lēʻahi Landscaping
+
+date: 2024-03-27, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> <span aria-label="Leahi">Lē&#699;ahi</span> Landscaping is managed by de Quevedo and Stanich, who both see the value of their <abbr>UH</abbr> education in the company’s success.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/27/shidler-business-leahi-landscaping/">Eco-friendly endeavor: UH alumni form Lēʻahi Landscaping</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/27/shidler-business-leahi-landscaping/>
+
+---
+
+## Workshops aim to help discussions on difficult topics
+
+date: 2024-03-27, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The free series will provide tools to help the campus navigate the divisive conflicts from around the world impacting our communities.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/27/e-hoomalu-mai/">Workshops aim to help discussions on difficult topics</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/27/e-hoomalu-mai/>
+
+---
+
+## Governor appoints Michael Miyahira to Board of Regents
+
+date: 2024-03-27, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Miyahira is the owner of Business Strategies, a company that provides consulting services to family owned and closely held businesses.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/27/michael-miyahira-appointed-to-bor/">Governor appoints Michael Miyahira to Board of Regents</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/27/michael-miyahira-appointed-to-bor/>
+
+---
+
+## UH News Image of the Week: International Night—Mexico
+
+date: 2024-03-27, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> This week’s image is from <abbr>UH</abbr> Hilo's Jim Mellon.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/27/uh-news-image-of-the-week-international-night-mexico/"><abbr>UH</abbr> News Image of the Week: International Night—Mexico</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/27/uh-news-image-of-the-week-international-night-mexico/>
+
+---
+
+## Pentagon cuts military bureaucracy for Guam; trims project decision process
+
+date: 2024-03-27, from: Pacific Island Times
+
+· By Mar-Vic Cagurangan Guam’s combat readiness is marked urgent, hence the Pentagon’s recent move to chop off layers of military... 
+
+<https://www.pacificislandtimes.com/post/pentagon-cuts-military-bureaucracy-for-guam>
 
 ---
 

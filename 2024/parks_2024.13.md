@@ -1,11 +1,185 @@
 ---
 title: parks 2024.13
-updated: 2024-03-27 08:14:48
+updated: 2024-03-28 08:13:08
 ---
 
 # parks 2024.13
 
-(date: 2024-03-27 08:14:48)
+(date: 2024-03-28 08:13:08)
+
+---
+
+## From hometown girl to hometown boss: Mary Jo Rugwell’s career shows power of hard work, courage, and putting people first
+
+date: 2024-03-27, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>From hometown girl to hometown boss: Mary Jo Rugwell’s career shows power of hard work, courage, and putting people first</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p>Mary Jo Rugwell didn’t get the memo. When she started her career with the Federal Government in 1974 as a GS-2, she didn’t realize the odds were pretty low that a woman with a high school education and a young family would one day retire from a Senior Executive Service position with the Bureau of Land Management. Over the span of 46 years, she did just that. </p>
+
+<figure role="group" class="align-right">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="de8fb540-ad1e-488c-b01e-92bb7c867df7" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-03/Rugwell%208.jpg?itok=x7iUOdHf" width="336" height="530" alt="Photo shows Rugwell as a toddler standing on a sidewalk in Cheyenne, Wyoming." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Rugwell as a toddler in her hometown of<br>
+Cheyenne, Wyoming. <br>
+Photo credit: Courtesy, Mary Jo Rugwell</figcaption>
+</figure>
+
+
+<p>Mary Jo was born in Cheyenne, Wyoming, and spent most of her childhood, teenage, and young adult years there. After graduating from high school, she attended the University of Wyoming for one semester before quitting to get married. She moved with her husband, who was serving in the U.S. Air Force, to Great Falls, Montana. She attained her first federal job as a meteorological technician with the National Weather Service.</p>
+
+<p>At the time, Rugwell’s daughter was just eight months old. And Rugwell recalls that working mothers were not always viewed positively.</p>
+
+<p>“One of my male coworkers actually asked me why I was working when I should be home with my baby,” said Rugwell. “My husband was an enlisted man and didn’t make a lot of money, so working for me was a matter of survival. It wasn’t a luxury, which is still the reality for many women today. For someone to say something like that was unacceptable and ridiculous, but that’s the way it was back then.”</p>
+
+<p>Rugwell's young family moved to Anchorage, Alaska, when her husband was transferred. While continuing to work for the National Weather Service there, she went back to school and earned her associate's degree from the University of Alaska. When her husband transferred back to Cheyenne, Rugwell started her first job with BLM as secretary to the branch chief for fluid minerals in the Wyoming State Office.</p>
+
+<p>“I saw a lot of bridge and career ladder job opportunities that didn’t require college degrees in the oil and gas leasing section,” said Rugwell. “So I took a downgrade to move over there and was able to work my way up to an oil and gas leasing team lead.”</p>
+
+<p>While she worked in that program, Rugwell earned a Bachelor’s Degree in Business Administration and a Master’s Degree in Public Administration from the University of Wyoming. She also became aware of, applied for, got accepted into, and successfully completed Department of the Interior leadership training. This gave her confidence to apply for a position as an Assistant Field Manager for Lands and Minerals with the BLM in Carlsbad, New Mexico, which she was selected for.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6ef6d9f0-a551-40dc-90a3-9d7b68539557" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-03/Rugwell%2013.jpg?itok=oDNVGhmD" width="640" height="459" alt="Photo shows Rugwell standing outside with a BLM employee with smoke from a prescribed fire in the background." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Rugwell visiting a prescribed fire while serving as the first woman Field Manager of the BLM<br>
+Kemmerer Field Office in Wyoming. Photo credit: Courtesy, Mary Jo Rugwell</figcaption>
+</figure>
+
+
+<p>From there, Rugwell went on to serve in several leadership positions with the BLM. She became the first woman Field Manager in Kemmerer, Wyoming; the first woman District Manager in Las Vegas, Nevada; Associate State Director in Cheyenne; and the first woman State Director in Cheyenne, the position she retired from in 2019.</p>
+
+<p>Rugwell attributes her career success to a willingness to work hard, having the courage to try new things, seizing opportunities to learn and develop, and focusing on relationships with employees and public land stakeholders to accomplish the agency’s mission.</p>
+
+<p>“Believe in yourself, believe you can do anything you set your mind to,” she advises. “Support others in their career aspirations. Go for your dreams and goals and make sure you bring others along with you.”</p>
+
+<p>Since retirement, Rugwell has continued to support the BLM by serving as a board member with the Public Lands Foundation and currently as the organization’s first woman president.</p>
+
+<p>“The BLM was so good to me and trying to help the agency from ‘the outside’ is a way that I can give back,” said Rugwell. “The BLM is a fantastic place to work. It has a complex and often challenging mission, but our public lands are a real treasure and to help steward them is an incredible opportunity.”</p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-03-27T12:00:00Z">Wed, 03/27/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47351/edit" hreflang="en">Mary Jo Rugwell</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>On</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/employee" hreflang="en">Employee</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47351/edit" hreflang="en">Mary Jo Rugwell</a></div>
+          </div> 
+
+<https://www.blm.gov/blog/2024-03-27/hometown-girl-hometown-boss-mary-jo-rugwells-career-shows-power-hard-work-courage>
 
 ---
 

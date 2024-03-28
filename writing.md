@@ -1,11 +1,90 @@
 ---
 title: writing 2024.13
-updated: 2024-03-27 08:14:48
+updated: 2024-03-28 08:13:08
 ---
 
 # writing 2024.13
 
-(date: 2024-03-27 08:14:48)
+(date: 2024-03-28 08:13:08)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-03-28, from: Neil Gaiman @ BlueSky)
+
+I see no problem.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kor52bgur52b>
+
+---
+
+## James A. Moore (1965-2024)
+
+date: 2024-03-27, from: Locus Magazine
+
+<p>Author James A. Moore, 58, died March 27, 2024. Moore was an award-winning author of more than 50 fantasy and horror titles.</p>
+<p>James Arthur Moore was born September 3, 1965 in Atlanta GA. He began publishing work of genre interest with <strong>House of Secrets</strong> (1995, with Kevin Andrew Murphy), and his first solo novel was <strong>Hell-Storm</strong> (1996). Other notable books include <strong>Under the Overtree</strong> (2000), <strong>Fireworks </strong>(2001), Bram Stoker Award  <a href="https://locusmag.com/2024/03/james-a-moore-1965-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/03/james-a-moore-1965-2024/>
+
+---
+
+## 36th Annual Lambda Awards Finalists
+
+date: 2024-03-27, from: Locus Magazine
+
+<p>The Lambda Literary Foundation has announced finalists for the 36th Annual Lambda Literary Awards (the &#8220;Lammys&#8221;), celebrating &#8220;the best lesbian, gay, bisexual, and transgender books.&#8221; Nominees of genre interest follow.</p>
+<div class="nobullets">
+<p><strong>LGBTQ+ Speculative Fiction</strong></p>
+<ul>
+<li><strong>The Archive Undying</strong>, Emma Mieko Candon (Tordotcom)</li>
+<li><strong>The Saint of Bright Doors</strong>, Vajra Chandrasekera (Tordotcom)</li>
+<li><strong>I Keep My Exoskeletons to Myself</strong>, Marisa Crane (Catapult)</li>
+<li><strong>The Thick and the Lean</strong>, Chana Porter (Saga)</li>
+<li><strong>Bang </strong></li></ul></div> <a href="https://locusmag.com/2024/03/36th-annual-lambda-awards-finalists/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/03/36th-annual-lambda-awards-finalists/>
+
+---
+
+## 💍 The Grimm side of marriage
+
+date: 2024-03-27, from: Interesting, a blog on writing
+
+And other relationship advice. 
+
+<https://inneresting.substack.com/p/the-grimm-side-of-marriage>
+
+---
+
+## 2024 GUFF candidates
+
+date: 2024-03-27, from: Locus Magazine
+
+<p>Kat Clay and Ian Nichols of Australia are the candidates for the 2024 Going Under Fan Fund (GUFF), which will send fans from Oceania to Europe to attend Glasgow 2024: A Worldcon for our Futures, the 82nd World Science Fiction Convention, to be held August 8-12, 2024 in Glasgow, Scotland.</p>
+<p>Voting is open until April 22, 2024. For more information, see the GUFF website.</p>
+<div class="mynomorebulletlist">
+
+<p>
+
+
+     (adsbygoogle = window.adsbygoogle &#124;&#124; []).push({});
+
+<strong>While </strong></p></div> <a href="https://locusmag.com/2024/03/2024-guff-candidates/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/03/2024-guff-candidates/>
+
+---
+
+## Alexandra Pierce Reviews Red Side Story by Jasper Fforde
+
+date: 2024-03-27, from: Locus Magazine
+
+<p><strong>Red Side Story</strong>, Jasper Fforde (Hodder &#38; Stough­ton 978-1444763669, £17.99, 384pp, hc) February 2024. (Soho Press 978-1-64129-628-1, $29.95, 456pp, hc) May 2024.</p>
+<p>When Jasper Fforde did clever things in <strong>The Eyre Affair </strong>(2001), I was one of many people who fell in love with this funny, bizarre, slightly-askew-to-reality world. Fforde was writing humorous fantasy that com­mented on and skewered the real one. It sounded superficially like the Discworld novels  <a href="https://locusmag.com/2024/03/alexandra-pierce-reviews-red-side-story-by-jasper-fforde/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/03/alexandra-pierce-reviews-red-side-story-by-jasper-fforde/>
 
 ---
 

@@ -1,11 +1,42 @@
 ---
 title: columns 2024.13
-updated: 2024-03-27 08:14:48
+updated: 2024-03-28 08:13:08
 ---
 
 # columns 2024.13
 
-(date: 2024-03-27 08:14:48)
+(date: 2024-03-28 08:13:08)
+
+---
+
+## Hardware Vulnerability in Apple’s M-Series Chips
+
+date: 2024-03-28, updated: 2024-03-26, from: Bruce Schneier blog
+
+<p>It&#8217;s <a href="https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/">yet another</a> hardware side-channel attack:</p>
+<blockquote><p>The threat resides in the chips’ data memory-dependent prefetcher, a hardware optimization that predicts the memory addresses of data that running code is likely to access in the near future. By loading the contents into the CPU cache before it’s actually needed, the DMP, as the feature is abbreviated, reduces latency between the main memory and the CPU, a common bottleneck in modern computing. DMPs are a relatively new phenomenon found only in M-series chips and Intel&#8217;s 13th-generation Raptor Lake microarchitecture, although older forms of prefetchers have been common for years...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/03/hardware-vulnerability-in-apples-m-series-chips.html>
+
+---
+
+## The Trump integrity trap
+
+date: 2024-03-28, from: Robert Reich's blog
+
+Once you work for him, you&#8217;re trapped 
+
+<https://robertreich.substack.com/p/the-trump-integrity-trap>
+
+---
+
+## Kara Swisher Interviews Margrethe Vestager
+
+date: 2024-03-27, updated: 2024-03-27, from: Daring Fireball
+
+ 
+
+<https://podcasts.voxmedia.com/show/on-with-kara-swisher>
 
 ---
 
@@ -72,7 +103,7 @@ date: 2024-03-26, updated: 2024-03-26, from: Daring Fireball
 
 ## ★ The EU’s Share of Apple’s Global Revenue
 
-date: 2024-03-26, updated: 2024-03-26, from: Daring Fireball
+date: 2024-03-26, updated: 2024-03-28, from: Daring Fireball
 
 The DMA allows the EC to penalize “gatekeepers” with fines that are vastly disproportionate to the amount of revenue they generate in EU member states. 
 

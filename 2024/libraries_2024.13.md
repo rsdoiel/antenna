@@ -1,11 +1,43 @@
 ---
 title: libraries 2024.13
-updated: 2024-03-27 08:14:48
+updated: 2024-03-28 08:13:08
 ---
 
 # libraries 2024.13
 
-(date: 2024-03-27 08:14:48)
+(date: 2024-03-28 08:13:08)
+
+---
+
+## Putting Research Integrity Checks Where They Belong
+
+date: 2024-03-28, from: Scholarly Kitchen
+
+<p>Research journals and the peer review process should not be the first line of defense in identifying research integrity issues. In today's post, Angela Cochran calls for research institutions to take a larger role in validation and integrity checks.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/03/28/putting-research-integrity-checks-where-they-belong/">Putting Research Integrity Checks Where They Belong</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/03/28/putting-research-integrity-checks-where-they-belong/>
+
+---
+
+## David Harum, by Edward Noyes Westcott
+
+date: 2024-03-27, from: Standard Ebooks, new releaases
+
+An aimless young man leaves the city for a small village to work for a horse-trading country banker. 
+
+<https://standardebooks.org/ebooks/edward-noyes-westcott/david-harum>
+
+---
+
+## The Last Post, by Ford Madox Ford
+
+date: 2024-03-27, from: Standard Ebooks, new releaases
+
+An invalid and his family reflect on recent events in the years after the close of the Great War. 
+
+<https://standardebooks.org/ebooks/ford-madox-ford/the-last-post>
 
 ---
 

@@ -1,11 +1,91 @@
 ---
 title: motorcycles 2024.13
-updated: 2024-03-27 08:14:48
+updated: 2024-03-28 08:13:08
 ---
 
 # motorcycles 2024.13
 
-(date: 2024-03-27 08:14:48)
+(date: 2024-03-28 08:13:08)
+
+---
+
+## Check Out Rev’It's New Tornado 4 H2O And Airwave 4 ADV Suits
+
+date: 2024-03-28, from: Ride Apart, Electric Motorcycle News
+
+One of them is adaptable for all types of weather, and the other one’s all about airflow.  
+
+<https://www.rideapart.com/news/713767/revit-tornado-airwave-4-adv-gear/>
+
+---
+
+## Watch FIM’s Snowcross World Championship Racers Thrash Their Snowmobiles
+
+date: 2024-03-28, from: Ride Apart, Electric Motorcycle News
+
+They throw these snowmobiles around like lightweight dirtbikes and its nothing short of exhilarating.  
+
+<https://www.rideapart.com/news/713771/2024-fim-snowcross-world-championship/>
+
+---
+
+## Suzuki’s New VVT Engine
+
+date: 2024-03-28, from: Cycle World News
+
+The onward development of the internal combustion engine continues, as companies like Suzuki further refine engines for efficacy and emissions. 
+
+<https://www.cycleworld.com/motorcycle-news/suzuki-new-vvt-engine/>
+
+---
+
+## 2025 Triumph Daytona 660
+
+date: 2024-03-28, from: Cycle World News
+
+Triumph hadn’t produced a normal production middleweight sportbike since 2017, but has jumped back into the class with the Trident-based Daytona 660. 
+
+<https://www.cycleworld.com/triumph/daytona-660/>
+
+---
+
+## MV Agusta Under Control of Pierer Mobility
+
+date: 2024-03-27, from: Cycle World News
+
+With MV Agusta’s majority stake secured by Pierer Mobility, has the time come for MV to achieve sales success? Managing director Dr. Luca Martin thinks so. 
+
+<https://www.cycleworld.com/motorcycle-news/mv-agusta-under-control-pierer-mobility/>
+
+---
+
+## Strategy Call Nets Steven Wilson Richmond eNASCAR Win
+
+date: 2024-03-27, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor A mid-race caution combined with a two-tire call from Steven Wilson’s M80 eSports team earned the defending eNASCAR Coca-Cola iRacing Series champion his first win&#8230;  
+
+<https://kickinthetires.net/esports/strategy-wilson-richmond-enascar-win/>
+
+---
+
+## This Experimental Suzuki GSX-R1000R Will Run At The Suzuka 8 Hours
+
+date: 2024-03-27, from: Ride Apart, Electric Motorcycle News
+
+From fuel tank to fairings, it's full of new sustainable bits that Team Suzuki CN Challenge is testing. 
+
+<https://www.rideapart.com/news/714093/suzuki-gsxr1000r-biofuel-suzuka-8-hour/>
+
+---
+
+## 2025 Triumph Daytona 660 First Ride Review
+
+date: 2024-03-27, from: Cycle World News
+
+The middleweight sportbike market is in the midst of a revival, and for 2025, Triumph has jumped back in with its brand-new Daytona 660. 
+
+<https://www.cycleworld.com/motorcycle-reviews/triumph-daytona-660-first-ride-review/>
 
 ---
 

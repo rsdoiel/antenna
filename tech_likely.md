@@ -1,11 +1,607 @@
 ---
 title: tech likely 2024.13
-updated: 2024-03-27 08:14:48
+updated: 2024-03-28 08:13:08
 ---
 
 # tech likely 2024.13
 
-(date: 2024-03-27 08:14:48)
+(date: 2024-03-28 08:13:08)
+
+---
+
+## Algorithm
+
+date: 2024-03-28, from: Dave Winer's Scripting News
+
+<p>An algorithm for content moderation for reducing the human contact trolls have. </p>
+<p>If you notice an account that gets blocked by a lot of people who don't follow them after they reply to one of their posts, then slow them down or throw out their replies in the bit bucket. </p>
+<p>Eventually if it keeps up, you pretty much know it's software, and you can delete the account. </p>
+<p>I guess. Just thinking out loud. ;-)</p>
+ 
+
+<http://scripting.com/2024/03/28/145124.html?title=algorithm>
+
+---
+
+## MEDIA ADVISORY: S24-015 NASA Invites Media to Milestone RS-25 Engine Certification Test
+
+date: 2024-03-28, from: NASA breaking news
+
+NASA will host media to view a milestone RS-25 engine test at NASA’s Stennis Space Center on Wednesday, April 3, to certify full production of new engines to help power the SLS (Space Launch System) rocket on Artemis missions to the Moon and beyond. As NASA explores the universe for the benefit of all, NASA [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/stennis/media-advisory-s24-015/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-03-28, from: Miguel de Icaza Mastondon feed)
+
+<p>Looks like Microsoft threw a good operator under the bus, so they could hire give the title of ceo of AI to a guy with some baggage and none of the organizational chops.</p><p>Sometimes what is marketed as 4d chess is just coin flipping.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112173791332955126>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-03-28, from: Miguel de Icaza Mastondon feed)
+
+<p>Great post from Meredith Whittaker, Signal’s President:</p><p><a href="https://lpeproject.org/blog/social-media-authoritarianism-and-the-world-as-it-is/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">lpeproject.org/blog/social-med</span><span class="invisible">ia-authoritarianism-and-the-world-as-it-is/</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112173789223654591>
+
+---
+
+##  Goat farmers traveling from MN to CA got stuck in traffic in... 
+
+date: 2024-03-28, updated: 2024-03-28, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/0044270-goat-farmers-traveling-fr>
+
+---
+
+## Three-Year Study of Young Stars with NASA’s Hubble Enters New Chapter
+
+date: 2024-03-28, from: NASA breaking news
+
+In the largest and one of the most ambitious Hubble Space Telescope programs ever executed, a team of scientists and engineers collected information on almost 500 stars over a three-year period. This effort offers new insights into the stars’ formation, evolution, and impact on their surroundings.  This comprehensive survey, called ULLYSES (Ultraviolet Legacy Library of Young […] 
+
+<https://science.nasa.gov/missions/hubble/three-year-study-of-young-stars-with-nasas-hubble-enters-new-chapter/>
+
+---
+
+## NASA Astronaut Loral O’Hara, Expedition 70 Science Highlights
+
+date: 2024-03-28, from: NASA breaking news
+
+NASA astronaut Loral O’Hara is returning home after six months aboard the International Space Station. During her time on the orbiting laboratory, O’Hara contributed to dozens of scientific investigations and technology demonstrations to prepare for future space exploration missions and generate innovations and benefits for humanity on Earth. Here is a look at some of [&#8230;] 
+
+<https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-loral-ohara-expedition-70-science-highlights/>
+
+---
+
+## The Social Benefits of Getting Our Brains in Sync
+
+date: 2024-03-28, from: Quanta Magazine
+
+Our brain waves can align when we work and play closely together. The phenomenon, known as interbrain synchrony, suggests that collaboration is biological.            <p>The post <a href="https://www.quantamagazine.org/the-social-benefits-of-getting-our-brains-in-sync-20240328/" target="_blank">The Social Benefits of Getting Our Brains in Sync</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/the-social-benefits-of-getting-our-brains-in-sync-20240328/>
+
+---
+
+## Stunning Echo of 800-year-old Explosion
+
+date: 2024-03-28, from: NASA breaking news
+
+In the year 1181 a rare&#160;supernova&#160;explosion appeared in the night sky, staying visible for 185 consecutive days. Historical records show that the supernova looked like a temporary ‘star’ in the constellation&#160;Cassiopeia&#160;shining as bright as Saturn. Ever since, scientists have tried to find the supernova’s remnant. At first it was thought that this could be the [&#8230;] 
+
+<https://www.nasa.gov/image-article/stunning-echo-of-800-year-old-explosion/>
+
+---
+
+## A Thought on Sixels
+
+date: 2024-03-28, from: mrusme blog
+
+In the age of visually stunning graphical user interfaces (GUIs) and
+interactive designs, there exists a timeless elegance in the simplicity of
+purely text-based interfaces. From command line interfaces (CLIs) to plain
+text file formats like Markdown, the beauty of text lies not only in its
+minimalistic aesthetic but also in the efficiency and clarity it brings to
+digital interactions. 
+
+<https://xn--gckvb8fzb.com/a-thought-on-sixels/>
+
+---
+
+## How Is Flocking Like Computing?
+
+date: 2024-03-28, from: Quanta Magazine
+
+Birds flock. Locusts swarm. Fish school. From chaotic assemblies of life, order somehow emerges. In this episode, co-host Steven Strogatz interviews the evolutionary ecologist Iain Couzin about how and why collective behaviors arise.            <p>The post <a href="https://www.quantamagazine.org/how-is-flocking-like-computing-20240328/" target="_blank">How Is Flocking Like Computing?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/how-is-flocking-like-computing-20240328/>
+
+---
+
+##  &#8220;Ms. Sharr proposed that Olga move into their Cambridge home temporarily so... 
+
+date: 2024-03-28, updated: 2024-03-28, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/0044273-ms-sharr-proposed-that-ol>
+
+---
+
+## Thank You, Experts, for Your Expert Input
+
+date: 2024-03-28, updated: 2024-03-28, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/03/28/thank-you-experts-for-your-expert-input/>
+
+---
+
+## Canonical cracks down on crypto cons following Snap Store scam spree
+
+date: 2024-03-28, updated: 2024-03-28, from: Liam Proven's articles at the Register
+
+<h4>In happier news, Ubuntu Pro extended support now goes up to 12 years</h4>
+      <p>After multiple waves of cryptocurrency credential-stealing apps were uploaded to the Snap store, Canonical is changing its policies.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/03/28/canonical_snap_store_scams/>
+
+---
+
+## Our new theory of change
+
+date: 2024-03-28, from: Raspberry Pi (.org)
+
+<p>One of the Raspberry Pi Foundation’s core values is our focus on impact. This means that we are committed to learning from the best available evidence, and to being rigorous and transparent about the difference we’re making. Like many charities, an important part of our approach to achieving and measuring our impact is our theory&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/theory-of-change-2024/">Our new theory of change</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/theory-of-change-2024/>
+
+---
+
+## lEEt/OS: graphical shell and multitasking environment for DOS
+
+date: 2024-03-28, from: OS News
+
+lEEt/OS is a graphical shell and partially posix-compliant multitasking operating environment that runs on top of a DOS kernel. The latest version can be downloaded from this site. lEEt/OS is tested with FreeDOS 1.2 and ST-DOS, but it may also work with other DOS implementations. It can be compiled with Open Watcom compiler. 8086 binaries are also available from this site. ↫ lEEt/OS website I had never heard of lEEt/OS before, but it looks quite interesting &#8211; and the new ST-DOS kernel the developer is making further adds to its uniqueness. A very cool project I&#8217;m putting on my list of operating systems to write short &#8216;first look&#8217; article about for y&#8217;all. 
+
+<https://www.osnews.com/story/139027/leet-os-graphical-shell-and-multitasking-environment-for-dos/>
+
+---
+
+## ARM64EC (and ARM64X) explained
+
+date: 2024-03-28, from: OS News
+
+Probably the most confused looks I get from other developers when I discuss Windows and ARM64 is when I used the term &#8220;ARM64EC&#8221;.  They ask is the same thing as ARM64?  Is it a different instruction set than ARM64?  How can you tell if an application is or ARM64 ARM64EC? This tutorial will answer those questions by de-mystifying and explaining the difference between what can be called &#8220;classic ARM64&#8221; as it existed since Windows 10, and this new &#8220;ARM64EC&#8221; which was introduced in Windows 11 in 2021. ↫ Darek Mihocka I&#8217;m not going to steal the article&#8217;s thunder, but the short of it is that the &#8216;EC&#8217; stands for &#8216;Emulation Compatible&#8217;, meaning it can call unmodified x86-64 code. ARM64X, meanwhile, is an extended version of Windows PE that allows both ARM64 and emulated x86-64 code to coexist in the same binary (which is not the same as a fat binary, which is an either/or situation). There is a whole lot more to this subject &#8211; and I truly mean a lot, this a monster of an in-depth article &#8211; so be sure to head on over and read it in full. You&#8217;ll be busy for a while. 
+
+<https://www.osnews.com/story/139025/arm64ec-and-arm64x-explained/>
+
+---
+
+## Writing GNOME applications with Swift
+
+date: 2024-03-28, from: OS News
+
+Swift is well-suited for creating user interfaces thanks to the clean syntax, static typing, and special features making code easier to write. Result builders, combined with Swift’s closure expression syntax, can significantly enhance code readability. Adwaita for Swift leverages these Swift features to provide an intuitive interface for developing applications for the GNOME platform. ↫ The Swift blog It seems the Swift project is actively trying to move beyond being the &#8216;Apple programming language&#8217;. 
+
+<https://www.osnews.com/story/139022/writing-gnome-applications-with-swift/>
+
+---
+
+## Mini Observatory | The MagPi #140
+
+date: 2024-03-28, from: Raspberry Pi News (.com)
+
+<p>Finally having the time to focus on his hobbies led one maker to design and build a self-contained star-gazing setup. </p>
+<p>The post <a href="https://www.raspberrypi.com/news/mini-observatory-the-magpi-140/">Mini Observatory | The MagPi #140</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/mini-observatory-the-magpi-140/>
+
+---
+
+## How much electricity would we need for green steel? Some numbers from Chris Goodall's new book
+
+date: 2024-03-28, from: Hannah Richie at Substack
+
+Maybe "hard-to-abate", but not impossible. 
+
+<https://www.sustainabilitybynumbers.com/p/green-steel-goodall>
+
+---
+
+##  Gou Miyagi Skates Very Mellow 
+
+date: 2024-03-28, updated: 2024-03-28, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/gou-miyagi-skates-very-mellow>
+
+---
+
+## Talking Hot Dog gives new meaning to 'Ham radio'
+
+date: 2024-03-28, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Talking Hot Dog gives new meaning to 'Ham radio'</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>...except it was a beef frank. Make your <em>wurst</em> jokes in the comments.</p>
+
+<p><img class="insert-image" width="700" height="auto" alt="Hot Dog exhibiting severe RF burns" src="https://www.jeffgeerling.com/sites/default/files/images/hot-dog-rf-burns-geerling-engineering.jpg"></p>
+
+<p>What you see above is the remains of a hot dog after it has been applied to an AM radio tower operating in its daytime pattern, at around 6 kW.</p>
+
+<p>A couple months ago, soon after we posted our <a href="https://www.youtube.com/watch?v=Aax-ehkRTnQ">If I touch this tower, I die</a> video, a few commenters mentioned you likely wouldn't <em>die</em> after touching a high-power AM tower—rather, you'd have serious RF burns.</p>
+
+<p>I was trying to figure out a way to <em>somewhat</em> safely test the scenario: what would happen if someone walked up and touched the tower, while standing on the ground?</p>
+
+<blockquote><p>If reading's not your thing, check out the short video we posted on Geerling Engineering:</p></blockquote></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-03-27T21:50:45-05:00" title="Wednesday, March 27, 2024 - 21:50" class="datetime">March 27, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/talking-hot-dog-gives-new-meaning-ham-radio>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-28, from: Dave Winer's Scripting News)
+
+I think <a href="https://micro.blog/">micro.blog</a> is going to get very interesting once the APIs for all these random social networks fill out. 
+
+<http://scripting.com/2024/03/27.html#a020223>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-28, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/01/18/bullmancusohahahah.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Journalists who say <a href="https://www.axios.com/2024/03/27/ai-chatbot-letdown-hype-reality">AI is just hype</a> are wrong. 
+
+<http://scripting.com/2024/03/27.html#a015750>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-28, from: Dave Winer's Scripting News)
+
+I'm looking for evidence of <a href="https://www.threads.net/@davew/post/C5ClmbsMrW3">useful federation</a> with an open mind ready to become a believer. 
+
+<http://scripting.com/2024/03/27.html#a015735>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-28, from: Dave Winer's Scripting News)
+
+I tried the new <a href="https://uk.finance.yahoo.com/news/starbucks-discontinued-chicken-sandwich-quietly-184002759.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAN5lwHEXSbu3MdQqpmURpinbGpH440mO7t1lOolTGdgOvaxp4Ik1eryviEO4dcS_9J2bS9TCWSwgeHBE1ceQXCjNmHXsS4LttOtD0WNVeqjo8wLper1K7ez_j9xi8YZwYd1IMivOrEWOzoaeMw9mvt0hkhrap2nIN42yMSJrStix">Starbuck's chicken sandwich</a>. It was the worst thing I've ever had. Avoid. 
+
+<http://scripting.com/2024/03/27.html#a014811>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-28, from: Dave Winer's Scripting News)
+
+My gods the Knicks are <a href="https://sports.yahoo.com/knicks-vs-raptors-game-highlights-015516562.html">masters</a> of the universe this year. 
+
+<http://scripting.com/2024/03/27.html#a014521>
+
+---
+
+##  Road Snacks #1 
+
+date: 2024-03-28, updated: 2024-03-28, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/road-snacks-1>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-28, from: Dave Winer's Scripting News)
+
+I wish I could send ChatGPT a pointer to a page I'm working on and ask it questions about my CSS. Or imagine ChatGPT running in Node, supervising my server app, looking for problems, odd usage patterns, and later looking for optimizations. And that's just the beginning. 
+
+<http://scripting.com/2024/03/27.html#a014043>
+
+---
+
+## Microsoft’s new era of AI PCs will need a Copilot key, says Intel
+
+date: 2024-03-27, from: OS News
+
+Intel, Microsoft, Qualcomm, and AMD have all been pushing the idea of an “AI PC” for months now as we head toward more AI-powered features in Windows. While we’re still waiting to hear the finer details from Microsoft on its big plans for AI in Windows, Intel has started sharing Microsoft’s requirements for OEMs to build an AI PC — and one of the main ones is that an AI PC must have Microsoft’s Copilot key. ↫ Tom Warren at The Verge I lack the words in any of the languages I know to describe the utter disdain I have for this. 
+
+<https://www.osnews.com/story/139020/microsofts-new-era-of-ai-pcs-will-need-a-copilot-key-says-intel/>
+
+---
+
+## Phil Spencer wants Epic Games Store and others on Xbox consoles
+
+date: 2024-03-27, from: OS News
+
+In an interview with Microsoft’s CEO of Gaming during the annual Game Developers Conference, Spencer told Polygon about the ways he’d like to break down the walled gardens that have historically limited players to making purchases through the first-party stores tied to each console. Or, in layperson terms, why you should be able to buy games from other stores on Xbox — not just the official storefront. Spencer mentioned his frustrations with closed ecosystems, so we asked for clarity. Could he really see a future where stores like Itch.io and Epic Games Store existed on Xbox? Was it just a matter of figuring out mountains of paperwork to get there? ↫ Chris Plante at Polygon The answer is yes, Spencer claims. I don&#8217;t know how realistic any of this is, but to me it makes perfect sense, and the gaming world has been moving towards it for a while now. At the moment, I&#8217;m doing something thought unthinkable until very recently: I&#8217;m playing a major Sony PlayStation exclusive, Horizon: Forbidden West, on PC, through Steam on Linux. Sony has been making its major exclusives available on Steam in recent years, and while seeing these games on Xbox might be a bit too much to ask, I wouldn&#8217;t be surprised to see storefronts from companies who don&#8217;t make game consoles pop up on the Xbox and PlayStation. Games have become so expensive to make that limiting them to a single console just doesn&#8217;t make any commercial sense. Why limit your audience? 
+
+<https://www.osnews.com/story/139017/phil-spencer-wants-epic-games-store-and-others-on-xbox-consoles/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-27, from: Dave Winer's Scripting News)
+
+I saw these <a href="https://www.amazon.com/dp/B09YL76VSR?ref=ppx_yo2ov_dt_b_product_details&th=1">Sony buds</a> advertised and I had to try them. They're now my favorite way to listen to music and podcasts. Most ear buds in my experience don't do very well with bass, and I love music with a strong beat. Sony makes great inexpensive headphones. 
+
+<http://scripting.com/2024/03/27.html#a225527>
+
+---
+
+## 2024-03-27 Convert text file to PDF
+
+date: 2024-03-27, from: Alex Schroeder's Blog
+
+<h1 id="2024-03-27-convert-text-file-to-pdf">2024-03-27 Convert text file to PDF</h1>
+
+<p>I just couldn&rsquo;t find a good way to turn a text file into a PDF.
+Within Emacs, <code>ps-print-buffer</code> is hard to configure and my two specific problems were the following:</p>
+
+<ul>
+<li>everything is turned into Latin-1 so I cannot use the EN dash;</li>
+<li>the line length was set too short so that I couldn&rsquo;t print lines longer than 80 characters even though there was plenty of space left.</li>
+</ul>
+
+<p>I wasted some time trying to write something in Bash, turned to Perl and wasted some more time trying to figure out why the encodings were all wrong except when the encodings were OK but Perl gave me a warning for every multi-byte character.
+So frustrating.</p>
+
+<p>The solution ended up not being decoding and encoding the bytes in the Perl script but to use the <code>--encoding</code> option for <code>weasyprint</code>. In this case, it wasn&rsquo;t Perl&rsquo;s fault, it was my fear of Perl&rsquo;s encoding issues that led my down endless variations of <code>binmode</code>, <code>:utf8</code>, <code>decode_utf8</code> and <code>encode_utf8</code>. But I think I have it, now.</p>
+
+<p>But this is what I ended up with:</p>
+
+<ul>
+<li>use <code>weasyprint</code>;</li>
+<li>wrap it all in a <code>pre</code> tag.</li>
+</ul>
+
+<p>I created a script called <code>to-pdf</code> with the following:</p>
+
+<pre><code>#!/usr/bin/env perl
+use Modern::Perl;
+use File::Basename;
+
+if (@ARGV == 0) {
+  die &quot;Usage: to-pdf file.txt ...\n&quot;;
+}
+
+for (@ARGV) {
+  open(my $text, &quot;&lt;&quot;, $_) or die &quot;Cannot read $_\n&quot;;
+  my ($name, $path, $suffix) = fileparse($_, &quot;.txt&quot;);
+  open(my $html, &quot;|-&quot;) || exec &quot;weasyprint&quot;, &quot;--encoding&quot;, &quot;utf-8&quot;, &quot;-&quot;, &quot;$path$name.pdf&quot;;
+
+  print $html &lt;&lt;'BEG';
+&lt;!DOCTYPE html&gt;
+&lt;body&gt;
+&lt;pre style=&quot;font-family: Iosevka; font-size: 10pt&quot;&gt;
+BEG
+
+  for (&lt;$text&gt;) { print $html $_ }; # copy text
+
+  print $html &lt;&lt;'END';
+&lt;/pre&gt;
+&lt;/body&gt;
+END
+}
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Printing">#Printing</a> <a class="tag" href="/search/?q=%23PDF">#PDF</a></p> 
+
+<https://alexschroeder.ch/view/2024-03-27-to-pdf>
+
+---
+
+## US House of Representatives Columbia Accident Documents
+
+date: 2024-03-27, from: NASA breaking news
+
+House Representative Statements The following are some of the statements made by Representatives regarding the loss of the Space Shuttle&#160;Columbia. February 1, 2003:&#160;Representative Sherwood Boehlert PRESS RELEASEDate Released:&#160;Saturday, February 01, 2003House Science Committee Boehlert Statement on Space Shuttle Columbia Tragedy WASHINGTON, D.C. —House Science Committee Chairman Sherwood Boehlert (R-NY) today released the following statement on [&#8230;] 
+
+<https://www.nasa.gov/history/us-house-of-representatives-columbia-accident-documents/>
+
+---
+
+##  What Did You Learn How To Do This Year? 
+
+date: 2024-03-27, updated: 2024-03-27, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/what-did-you-learn-how-to-do-this-year>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-03-27, from: Miguel de Icaza Mastondon feed)
+
+<p>In Godot, there is a panel to configure Importer settings, and the way that it works there is that you need to &quot;Save&quot; the values if you like it.</p><p>I am thinking that on iPad, I should automatically save, without asking the user.   But in that case, perhaps I should add a &quot;Reset to defaults&quot;?</p><p>But that is going to ruin my pretty UI</p> 
+
+<https://mastodon.social/@Migueldeicaza/112169776786047531>
+
+---
+
+## Why selling personal data is a bad idea
+
+date: 2024-03-27, from: Doc Searls (at Harvard), New Old Blog
+
+This post is for the benefit of anyone wondering about, researching, or going into business on the proposition that selling one&#8217;s own personal data is a good idea. Here are some of my learnings from having studied this proposition myself for the last twenty years or more. The business does exist. See eleven companies in [&#8230;] 
+
+<https://doc.searls.com/2024/03/27/why-selling-personal-data-is-a-bad-idea/>
+
+---
+
+## Qualcomm quietly demos Baldur’s Gate 3 and Control on Snapdragon X Elite laptops
+
+date: 2024-03-27, from: OS News
+
+If you read my scoop last week, I bet you’ve been wondering — how well could a Snapdragon chip actually run Windows games? At the 2024 Game Developers Conference, the company claimed Arm could run those titles at close to x86/64 speed, but how fast is fast? With medium-weight games like Control and Baldur’s Gate 3, it looks like the target might be: 30 frames per second at 1080p screen resolution, medium settings, possibly with AMD’s FSR 1.0 spatial upscaling enabled. ↫ Sean Hollister at The Verge Those are some rough numbers for machines Qualcomm claims can run x86 games at &#8220;close to full speed&#8220;. 
+
+<https://www.osnews.com/story/139014/qualcomm-quietly-demos-baldurs-gate-3-and-control-on-snapdragon-x-elite-laptops/>
+
+---
+
+## Why x86 doesn’t need to die
+
+date: 2024-03-27, from: OS News
+
+Hackaday recently published an article titled “Why x86 Needs to Die” – the latest addition in a long-running RISC vs CISC debate. Rather than x86 needing to die, I believe the RISC vs CISC debate needs to die. It should’ve died a long time ago. And by long, I mean really long. About a decade ago, a college professor asked if I knew about the RISC vs CISC debate. I did not. When I asked further, he said RISC aimed for simpler instructions in the hope that simpler hardware implementations would run faster. While my memory of this short, ancient conversation is not perfect, I do recall that he also mentioned the whole debate had already become irrelevant by then: ISA differences were swept aside by the resources a company could put behind designing a chip. This is the fundamental reason why the RISC vs CISC debate remains irrelevant today. Architecture design and implementation matter so much more than the instruction set in play. ↫ Chips and Cheese The number of instruction sets killed by x86 is high, and the number of times people have wrongly predicted the death of x86 &#8211; most recently, after Apple announced its first ARM processors &#8211; is even higher. It seems people are still holding on to what x86 was like in the &#8217;80s and early &#8217;90s, completely forgetting that the x86 we have today is a very, very different beast. As Chips and Cheese details in this article, the differences between x86 and, say, ARM, aren&#8217;t nearly as big and fundamental as people think they are. I&#8217;m a huge fan of computers running anything other than x86, not because I hate or dislike the architecture, but because I like things that are different, and the competition they bring. That&#8217;s why I love POWER9 machines, and can&#8217;t wait for competitive non-Apple ARM machines to come along. If you try to promote non-x86 ISAs out of hatred or dislike of x86, history shows you&#8217;ll eventually lose. 
+
+<https://www.osnews.com/story/139009/why-x86-doesnt-need-to-die/>
+
+---
+
+## NASA Astronaut Don Pettit to Conduct Science During Fourth Mission
+
+date: 2024-03-27, from: NASA breaking news
+
+During his fourth mission to the International Space Station, NASA astronaut Don Pettit will serve as a flight engineer and member of the Expedition 71/72 crew. After blasting off to space, Pettit will conduct scientific investigations and technology demonstrations to help prepare crew for future space missions. Pettit will launch on the Roscosmos Soyuz MS-26 [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-to-conduct-science-during-fourth-mission/>
+
+---
+
+## The Marshall Star for March 27, 2024
+
+date: 2024-03-27, from: NASA breaking news
+
+Marshall Hosts 37th Small Business Alliance Meeting By Celine Smith NASA’s Marshall Space Flight Center hosted its 37th Small Business Alliance meeting March 21 at the U.S. Space &#38; Rocket Center’s Davidson Center for Space Exploration. The event brought together hundreds of attendees from 39 states and 21 countries to network and learn about opportunities [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-march-27-2024/>
+
+---
+
+## Eclipse Citizen Science for Educators
+
+date: 2024-03-27, from: NASA breaking news
+
+“Citizen” here refers to citizens of Planet Earth. These projects are open to everyone, regardless of country of birth or legal citizenship status. If you are not already familiar with NASA’s citizen science opportunities or specific projects related to the April 8 solar eclipse, we encourage you to read Contribute to NASA Research on Eclipse […] 
+
+<https://science.nasa.gov/solar-system/skywatching/eclipse-citizen-science-for-educators/>
+
+---
+
+## Contribute to NASA Research on Eclipse Day – and Every Day
+
+date: 2024-03-27, from: NASA breaking news
+
+NASA is celebrating the Sun during the Heliophysics Big Year, which extends through the end of 2024. You can get involved to help us learn more about our star and its influence on our planet. With exciting experiments happening during the total solar eclipse that will cross North America on April 8, to widespread investigations […] 
+
+<https://science.nasa.gov/solar-system/skywatching/contribute-to-nasa-research-on-eclipse-day-and-every-day/>
+
+---
+
+## “MFA Bombing” Attacks Targeting Apple Users
+
+date: 2024-03-27, from: Michael Tsai
+
+Brian Krebs (MacRumors, Hacker News): Several Apple customers recently reported being targeted in elaborate phishing attacks that involve what appears to be a bug in Apple&#8217;s password reset feature. In this scenario, a target&#8217;s Apple devices are forced to display dozens of system-level prompts that prevent the devices from being used until the recipient responds [&#8230;] 
+
+<https://mjtsai.com/blog/2024/03/27/mfa-bombing-attacks-targeting-apple-users/>
+
+---
+
+## 1Password.co Tracking Links
+
+date: 2024-03-27, from: Michael Tsai
+
+Cabel Sasser: PSA: 1Password uses &#8220;1Password.co&#8221; for email links &#8212; instead of their usual &#8220;1Password.com&#8221; domain. Craig Hockenberry: So the &#8220;phishing link&#8221; with the .co domain was a valid link and documented as such.But I still find it inexcusable.That link caused 30 minutes of complete panic. I know enough about how phishing works to know [&#8230;] 
+
+<https://mjtsai.com/blog/2024/03/27/1password-co-tracking-links/>
+
+---
+
+## Noncopyable Generics Walkthrough
+
+date: 2024-03-27, from: Michael Tsai
+
+Ben Cohen: Non-copyable generics aren&#8217;t for every-day code &#x2013; but we&#8217;ve put a lot of care into making them stay out of your way until you need them, and then keeping them usable once you do. They will allow libraries to unlock more performance and safety for end users.[&#8230;]To help tie all these pieces together, [&#8230;] 
+
+<https://mjtsai.com/blog/2024/03/27/noncopyable-generics-walkthrough/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-03-27, from: Miguel de Icaza Mastondon feed)
+
+<p>Work/life balance:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112169069078860939>
+
+---
+
+## Diez maneras en que los estudiantes pueden prepararse para ser astronautas
+
+date: 2024-03-27, from: NASA breaking news
+
+¿Quieres ser astronauta, pero no sabes por dónde empezar? ¡Estas son algunas maneras en las que puedes comenzar tu viaje! Incluso si no aún no reúnes los requisitos para ser astronauta, mediante la Oficina de Participación STEM (ciencia, tecnología, ingeniería y matemáticas) de la NASA, u OSTEM, hay formas de participar en las misiones de [&#8230;] 
+
+<https://www.nasa.gov/learning-resources/diez-maneras-en-que-los-estudiantes-pueden-prepararse-para-serastronautas/>
+
+---
+
+## Red Hat tries on a McKinsey cap in quest to streamline techies' jobs
+
+date: 2024-03-27, updated: 2024-03-27, from: Liam Proven's articles at the Register
+
+<h4>Some staff are worried – can't think why</h4>
+      <p>Mutterings of alarm are emerging from the cloisters of Red Hat after the world's largest management consultancy was hired to help the IBM subsidiary focus engineers on their highest-value work.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/03/27/red_hat_hires_mckinsey/>
+
+---
+
+##  Dancing on My Own 
+
+date: 2024-03-27, updated: 2024-03-27, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/dancing-on-my-own>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-03-27, from: Miguel de Icaza Mastondon feed)
+
+<p>Gnome 45/46 retrospective by Christian Hergert:</p><p><a href="https://blogs.gnome.org/chergert/2024/03/25/gnome-45-46-retrospective/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">blogs.gnome.org/chergert/2024/</span><span class="invisible">03/25/gnome-45-46-retrospective/</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112168825549657597>
+
+---
+
+## FuryGpu: a hardware GPU implemented on an FPGA
+
+date: 2024-03-27, from: OS News
+
+FuryGpu is a real hardware GPU implemented on a Xilinx Zynq UltraScale+ FPGA, built on a custom PCB and connected to the host computer using PCIe. Supporting hardware features equivalent to a high-end graphics card of the mid 1990s and a full modern Windows software driver stack, it can render real games of that era at beyond real-time frame rates. ↫ FuryGpu A really cool project, undertaking by a single person &#8211; who also wrote the Windows drivers for it, which was apparently the hardest part of the project, as the announcement blog post details. Another blog post explains how the texture units work. 
+
+<https://www.osnews.com/story/139007/furygpu-a-hardware-gpu-implemented-on-an-fpga/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-27, from: Dave Winer's Scripting News)
+
+Issues with <a href="https://feedland.com/">feedland.com</a> earlier in the day appear to be resolved.  :-) 
+
+<http://scripting.com/2024/03/27.html#a154325>
+
+---
+
+##  Big Bite Hot Dog Sparkling Water from 7-Eleven 
+
+date: 2024-03-27, updated: 2024-03-27, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/big-bite-hot-dog-sparkling-water-from-7-eleven>
 
 ---
 
@@ -209,6 +805,19 @@ date: 2024-03-27, from: Greg Egan's feed
 My new novel, MORPHOTROPHIC, can now be preordered. 
 
 <https://www.gregegan.net/MORPHOTROPHIC/00/MorphotrophicExcerpt.html>
+
+---
+
+## Remembering Simon Riggs
+
+date: 2024-03-27, from: PostgreSQL News
+
+<p>The PostgreSQL Core Team is deeply saddened by the loss of our long-time friend and colleague Simon Riggs on the 26th of March, 2024.</p>
+<p>Simon was responsible for many of the enterprise features we find in PostgreSQL today, including point in time recovery, hot standby, and synchronous replication. He was the founder of 2ndQuadrant which employed many of the PostgreSQL developers, later becoming part of EDB where he worked as a Postgres Fellow until his retirement. He was responsible for the UK PostgreSQL conferences for many years until he passed that responsibility to PostgreSQL Europe last year.</p>
+<p>Simon's last community contribution was the presentation of the keynote at PostgreSQL Conference Europe 2023 in Prague, which you can watch <a href="https://www.youtube.com/watch?v=8W-J36IxYv4">on YouTube</a>.</p>
+<p>Simon will be sorely missed by everyone that knew him, and the PostgreSQL Project offers its deepest sympathies to his family and friends at this time.</p> 
+
+<https://www.postgresql.org/about/news/remembering-simon-riggs-2830/>
 
 ---
 
@@ -511,8 +1120,7 @@ date: 2024-03-26, from: Dave Winer's Scripting News
 <p>But the <a href="https://www.nydailynews.com/2024/03/25/knicks-donte-divincenzo-franchise-record-pistons-nba/">Knicks</a> were blowing out the Pistons on the next channel over, and I had tuned in Jen Psaki, who as luck would have it, at the exact moment I switched, was explaining how the fact that she served in the Biden Administration before joining MSNBC was very different from the controversy over Ronna McDaniel, who Maddow went on to explain was basically a terrorist and traitor and Trump co-conspirator (not just an enabler), and not in a war that was over, but one that was still being fought, and not insignificant because this fascist movement has control of one of the two major parties in the US and McDaniel was instrumental in that. There are good arguments that she should be in a prisoner of war camp, not employed by one of America's major news networks.</p>
 <p>That NBC hired McDaniel as a contributor says something awful about Maddow's employer. And Maddow, if she has any details on that, isn't saying what they are. </p>
 <p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/01/26/cartoonChicken.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've had this problem with other reporters in the past whose owners were caught up in some controversy that made them newsworthy. The reporters refused to cover it, or even be a source for others who were. This is where journalism goes wrong imho. Maddow <i>should</i> know the details, and if she does, she is obligated to share them, because they are significant, and go to how much trust any of us should give to any news coming to us from NBC. Maybe she has to quit to do that, and if so, go ahead and quit. Because the shadow it casts over everything touched by NBC, which includes MSNBC and Maddow is just too freaking long. It's similar to the "news" she reported on Facebook, except now instead of steering us to believe lies, she's holding it back, and instead of it being about one very powerful social media company, it's about the future of the government of the US. And maybe she doesn't know, as <a href="https://www.goodreads.com/quotes/21810-it-is-difficult-to-get-a-man-to-understand-something">Upton Sinclair</a> once said: “It is difficult to get a [person] to understand something, when [their] salary depends on [them] not understanding it.” </p>
-<p>I don't blame Maddow for liking her job. But as a reporter, there are more and more reasons not to trust her and esp to not trust the company that employs her. When it was obvious she wasn't going to tell us the story behind McDaniel's hiring, or even name the people responsible for it, I switched back to the Knicks, where at least I think I understand who they are and what they're trying to do.
-</p>
+<p>I don't blame Maddow for liking her job. But as a reporter, there are more and more reasons not to trust her and esp to not trust the company that employs her. When it was obvious she wasn't going to tell us the story behind McDaniel's hiring, or even name the people responsible for it, I switched back to the Knicks, where at least I think I understand who they are and what they're trying to do.  </p>
 <p><a href="https://www.memeorandum.com/240326/p49#a240326p49">Update</a>: MSNBC <a href="https://www.axios.com/2024/03/26/nbc-news-ronna-mcdaniel-commentator">backed down</a> on hiring McDaniel. </p>
  
 
@@ -524,7 +1132,7 @@ date: 2024-03-26, from: Dave Winer's Scripting News
 
 date: 2024-03-26, updated: 2024-03-26, from: Liam Proven's articles at the Register
 
-<h4>Python 2 has been dead for four years</h4>
+<h4><span class="label">Updated</span> Python 2 has been dead for four years</h4>
       <p>Did you know that His Majesty's Revenue and Customs (HMRC) offers free Linux tools? Sadly, though, they recently stopped working.</p> 
 
 <https://go.theregister.com/i/cfa/https://www.theregister.com/2024/03/26/hmrc_linux_paye_tools/>

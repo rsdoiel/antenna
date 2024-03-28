@@ -1,11 +1,285 @@
 ---
 title: socal north 2024.13
-updated: 2024-03-27 08:14:47
+updated: 2024-03-28 08:13:07
 ---
 
 # socal north 2024.13
 
-(date: 2024-03-27 08:14:47)
+(date: 2024-03-28 08:13:07)
+
+---
+
+## Classifieds – March 28, 2024
+
+date: 2024-03-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/28/classifieds-march-28-2024/">Classifieds &#8211; March 28, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/28/classifieds-march-28-2024/>
+
+---
+
+## The power of ‘The Chosen One’
+
+date: 2024-03-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Lebron James has led the change for social justice from the court to the community. </p>
+<p>The post <a href="https://dailytrojan.com/2024/03/28/the-power-of-the-chosen-one/">The power of ‘The Chosen One’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/28/the-power-of-the-chosen-one/>
+
+---
+
+## Down-ballot races should be at the top of your mind
+
+date: 2024-03-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p> If people choose not to vote because of their presidential choices, there may be consequences further down the ballot.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/28/down-ballot-races-should-be-at-the-top-of-your-mind/">Down-ballot races should be at the top of your mind</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/28/down-ballot-races-should-be-at-the-top-of-your-mind/>
+
+---
+
+## Bass speaks on mayoral lessons learned
+
+date: 2024-03-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Karen Bass discussed her experiences as mayor on campus Tuesday evening.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/28/karen-bass-campus-visit/">Bass speaks on mayoral lessons learned</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/28/karen-bass-campus-visit/>
+
+---
+
+## Chalk city: Week one of March Madness wraps
+
+date: 2024-03-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The first weekend was crazy, but upsets became more rare as the games continued.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/28/chalk-city-week-one-of-march-madness-wraps/">Chalk city: Week one of March Madness wraps</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/28/chalk-city-week-one-of-march-madness-wraps/>
+
+---
+
+## Social media is suppressing identity
+
+date: 2024-03-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p> We should become more aware of how social media influences our individuality.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/28/social-media-is-suppressing-identity/">Social media is suppressing identity</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/28/social-media-is-suppressing-identity/>
+
+---
+
+## ‘Only the Young’ revisits Korean avant-garde
+
+date: 2024-03-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>UCLA’s Hammer Museum explores the explosion of new ideas in Korean art.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/28/only-the-young-revisits-korean-avant-garde/">&#8216;Only the Young&#8217; revisits Korean avant-garde</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/28/only-the-young-revisits-korean-avant-garde/>
+
+---
+
+## Thornton Jazz Night gets crowd dancing
+
+date: 2024-03-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Thornton musicians perform jazz classics, student compositions and the sounds of Cuba.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/28/thornton-jazz-night-gets-crowd-dancing/">Thornton Jazz Night gets crowd dancing</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/28/thornton-jazz-night-gets-crowd-dancing/>
+
+---
+
+## Gould promotes interim dean effective April 1
+
+date: 2024-03-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Tolson will be the first Black dean and the second female dean in Gould’s history.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/28/franita-tolson-gould-dean/">Gould promotes interim dean effective April 1</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/28/franita-tolson-gould-dean/>
+
+---
+
+## Baseball welcomes the Pac-12’s finest
+
+date: 2024-03-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans will battle No. 2 Oregon State at yet another home venue this weekend.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/28/baseball-welcomes-the-pac-12s-finest/">Baseball welcomes the Pac-12’s finest</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/28/baseball-welcomes-the-pac-12s-finest/>
+
+---
+
+## Why is youth voter turnout so low, and how can it be improved?
+
+date: 2024-03-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+California held its primary elections March 5, officially kick-starting the election season in the state until the general election in November.
+Despite a competitive Senate race to replace former Sen. 
+
+<https://dailybruin.com/2024/03/27/why-is-youth-voter-turnout-so-low-and-how-can-it-be-improved/>
+
+---
+
+## New beginnings with Nowruz
+
+date: 2024-03-28, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Persian food, refreshments and a Haft-Sin arranged by the Iranian Student Club and faculty members were open to all in the Multicultural Center for a</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/27/new-beginnings-with-nowruz/">New beginnings with Nowruz</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/27/new-beginnings-with-nowruz/?utm_source=rss&utm_medium=rss&utm_campaign=new-beginnings-with-nowruz>
+
+---
+
+## Aiming for the playoffs: women’s basketball reflects on their season
+
+date: 2024-03-28, from: The Round Up (Pierce College Student Newspaper)
+
+<p>With the season at an end and the towels hanging, the noises from the fans on the court seemed to diminish after the women&#8217;s basketball</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/27/aiming-for-the-playoffs-womens-basketball-reflects-on-their-season/">Aiming for the playoffs: women&#8217;s basketball reflects on their season</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/27/aiming-for-the-playoffs-womens-basketball-reflects-on-their-season/?utm_source=rss&utm_medium=rss&utm_campaign=aiming-for-the-playoffs-womens-basketball-reflects-on-their-season>
+
+---
+
+## UCLA baseball shows resilience in chaotic extra-inning victory over UCSB
+
+date: 2024-03-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the bottom of the 12th with the game tied at a dozen apiece, a crack came from Payton Brennan&#8217;s bat.
+The sophomore outfielder sent the ball up the middle for a walk-off RBI single, his second walk-off hit of the season and his seventh hit of the game. 
+
+<https://dailybruin.com/2024/03/27/ucla-baseball-shows-resilience-in-chaotic-extra-inning-victory-over-ucsb/>
+
+---
+
+## Do robot workers benefit the economy? Pro: Harnessing technology for the future
+
+date: 2024-03-27, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Robots can’t catch COVID-19, so college campuses throughout the country used this to their students’ advantage during the pandemic. When working with students, from the</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/27/do-robot-workers-benefit-the-economy-pro-harnessing-technology-for-the-future/">Do robot workers benefit the economy? Pro: Harnessing technology for the future</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/27/do-robot-workers-benefit-the-economy-pro-harnessing-technology-for-the-future/?utm_source=rss&utm_medium=rss&utm_campaign=do-robot-workers-benefit-the-economy-pro-harnessing-technology-for-the-future>
+
+---
+
+## Do robot workers benefit the economy? Con: Overuse of technology comes at the expense of humanity
+
+date: 2024-03-27, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The technologies that shape the world are rapidly evolving, from generative artificial intelligence breakthroughs to improvements in robotics and manufacturing. Although it is important to</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/27/do-robot-workers-benefit-the-economy-con-overuse-of-technology-comes-at-the-expense-of-humanity/">Do robot workers benefit the economy? Con: Overuse of technology comes at the expense of humanity</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/27/do-robot-workers-benefit-the-economy-con-overuse-of-technology-comes-at-the-expense-of-humanity/?utm_source=rss&utm_medium=rss&utm_campaign=do-robot-workers-benefit-the-economy-con-overuse-of-technology-comes-at-the-expense-of-humanity>
+
+---
+
+## News Briefs – March 27, 2024
+
+date: 2024-03-27, from: The Round Up (Pierce College Student Newspaper)
+
+<p>High school students get a glimpse of Pierce: Students from Cleveland High School, John R. Wooden High School and Taft High School visited Pierce College</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/27/news-briefs-march-27-2024/">News Briefs &#8211; March 27, 2024</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/27/news-briefs-march-27-2024/?utm_source=rss&utm_medium=rss&utm_campaign=news-briefs-march-27-2024>
+
+---
+
+## Voices to address the silence
+
+date: 2024-03-27, from: The Round Up (Pierce College Student Newspaper)
+
+<p>In a world where stigma often shrouds discussions of mental health, a presentation on ending the silence and fostering open dialogue, understanding and support was</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/27/voices-to-address-the-silence/">Voices to address the silence</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/27/voices-to-address-the-silence/?utm_source=rss&utm_medium=rss&utm_campaign=voices-to-address-the-silence>
+
+---
+
+## New wave cinema, timeless humor
+
+date: 2024-03-27, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The Multicultural Center got a taste of 1960’s French New Wave cinema and even though it’s dated, the laughter from the audience proved that some</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/27/new-wave-cinema-timeless-humor/">New wave cinema, timeless humor</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/27/new-wave-cinema-timeless-humor/?utm_source=rss&utm_medium=rss&utm_campaign=new-wave-cinema-timeless-humor>
+
+---
+
+## Cougars inch out win over Brahmas
+
+date: 2024-03-27, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The Pierce College softball team battled against the Cuesta College Cougars, taking the lead in the first inning of the game, before Cuesta came back</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/27/cougars-inch-out-win-over-brahmas/">Cougars inch out win over Brahmas</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/27/cougars-inch-out-win-over-brahmas/?utm_source=rss&utm_medium=rss&utm_campaign=cougars-inch-out-win-over-brahmas>
+
+---
+
+## Interim President updates Academic Senate about Welcome Center issues
+
+date: 2024-03-27, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Interim President Ara Aguiar spoke about ongoing issues at the Welcome Center—which is still open but has been slightly restructured—during Monday’s Academic Senate meeting in</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/27/interim-president-updates-academic-senate-about-welcome-center-issues/">Interim President updates Academic Senate about Welcome Center issues</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/27/interim-president-updates-academic-senate-about-welcome-center-issues/?utm_source=rss&utm_medium=rss&utm_campaign=interim-president-updates-academic-senate-about-welcome-center-issues>
+
+---
+
+## Brahmas take the block
+
+date: 2024-03-27, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Building 600 is usually reserved for academic meetings, seminars and award ceremonies. But as the clock struck 5:30 p.m. last Friday, it transformed into a</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/27/brahmas-take-the-block/">Brahmas take the block</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/03/27/brahmas-take-the-block/?utm_source=rss&utm_medium=rss&utm_campaign=brahmas-take-the-block>
+
+---
+
+## Introducing “Wildflowers of California”: A Comprehensive Field Guide
+
+date: 2024-03-27, from: California Native Plants Society
+
+<p>California Native Plant Society and Timber Press announce the release of "Wildflowers of California," a comprehensive guide to the Golden State's most commonly encountered wildflowers.</p>
+<p>The post <a href="https://www.cnps.org/news-releases/new-book-wildflowers-of-california-unveils-a-colorful-guide-to-the-states-native-blooms-37911">Introducing &#8220;Wildflowers of California&#8221;: A Comprehensive Field Guide</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/news-releases/new-book-wildflowers-of-california-unveils-a-colorful-guide-to-the-states-native-blooms-37911>
 
 ---
 
@@ -33,12 +307,12 @@ date: 2024-03-27, from: The Occidental News (Occidental College Student Newspape
 
 ---
 
-## Tom Stritikus named new college president
+## Tom Stritikus named Occidental’s 17th president
 
 date: 2024-03-27, from: The Occidental News (Occidental College Student Newspaper)
 
-<p>After a five-month search process, the Occidental College Board of Trustees unanimously appointed Tom Stritikus as Occidental College’s 17th President, the Board announced in a campus-wide email March 26. Stritikus is currently the president of Fort Lewis College (FLC), a public liberal arts college located in Durango, Colorado. He will begin his term at Occidental [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/03/27/tom-stritikus-named-new-college-president/2911955">Tom Stritikus named new college president</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+<p>After a five-month search process, the Occidental College Board of Trustees unanimously appointed Tom Stritikus as Occidental&#8217;s 17th president, the Board announced in a campus-wide email March 26. Stritikus is currently the president of Fort Lewis College (FLC), a public liberal arts college located in Durango, Colorado. He will begin his term at Occidental July [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/03/27/tom-stritikus-named-new-college-president/2911955">Tom Stritikus named Occidental&#8217;s 17th president</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
  
 
 <https://theoccidentalnews.com/news/2024/03/27/tom-stritikus-named-new-college-president/2911955>
@@ -268,6 +542,16 @@ date: 2024-03-27, from: The Daily Bruin (UCLA Student Newspaper)
 Researchers found in part one of UCLA&#8217;s 2024 Hollywood Diversity Report that while films have improved in racial diversity on- and off-screen this year, the number of female directors has stagnated. 
 
 <https://dailybruin.com/2024/03/26/2024-hollywood-diversity-report-shows-success-increase-in-racially-diverse-films/>
+
+---
+
+## DEVELOPING: University notifies students they shared ‘limited educational records’ to third-party organization without student consent
+
+date: 2024-03-27, from: Laloyolan (LMU Student Newspaper)
+
+On Tuesday, March 26, the Office of the Registrar notified students that some personal information — including mailing addresses, email addresses and GPAs — was shared to the National Society of Leadership and Success without students' knowledge. 
+
+<https://www.laloyolan.com/news/developing-university-notifies-students-they-shared-limited-educational-records-to-third-party-organization-without-student/article_d65b393a-ebe7-11ee-8dba-ab9a090316b2.html>
 
 ---
 
