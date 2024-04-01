@@ -1,11 +1,21 @@
 ---
 title: tech likely 2024.14
-updated: 2024-04-01 08:09:21
+updated: 2024-04-01 08:52:32
 ---
 
 # tech likely 2024.14
 
-(date: 2024-04-01 08:09:21)
+(date: 2024-04-01 08:52:32)
+
+---
+
+## Indoor Kid
+
+date: 2024-04-01, updated: 2024-04-01, from: Robin Rendle Essays
+
+ 
+
+<https://robinrendle.com/notes/indoor-kid/>
 
 ---
 
@@ -42,6 +52,16 @@ After a couple of tests, the fix below is implemented here. For some reason I wa
 <p>Elixir to help me stitch ideas together:</p> 
 
 <https://mastodon.social/@Migueldeicaza/112196476841672872>
+
+---
+
+## Citizen Scientists Invited to Collect Data for NASA During Eclipse
+
+date: 2024-04-01, from: NASA breaking news
+
+On April 8, 2024, as the Moon passes between the Sun and Earth, thousands of amateur citizen scientists will measure air temperatures and snap pictures of clouds. The data they collect will aid researchers who are investigating how the Sun influences climates in different environments. Among those citizen scientists are the fifth- and sixth-grade students […] 
+
+<https://science.nasa.gov/solar-system/skywatching/citizen-scientists-invited-to-collect-data-for-nasa-during-eclipse/>
 
 ---
 

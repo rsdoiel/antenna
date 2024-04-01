@@ -1,11 +1,35 @@
 ---
 title: writing 2024.14
-updated: 2024-04-01 08:09:21
+updated: 2024-04-01 08:52:33
 ---
 
 # writing 2024.14
 
-(date: 2024-04-01 08:09:21)
+(date: 2024-04-01 08:52:33)
+
+---
+
+## Paula Guran Reviews Nightmare, Heartlines Spec, and The Deadlands
+
+date: 2024-04-01, from: Locus Magazine
+
+<p>Nightmare 10/23, 11/23, 12/23
+Heartlines Spec #3
+The Deadlands 10/23, 11/23</p>
+<p>In Nightmare #133, I found “<strong>The Sound of Children Screaming</strong>” by <strong>Rachael K. Jones </strong>to be notable. One of the most terrifying of modern horrors is the slaughter of school children by lone gunmen. Jones conjures a magical escape route for the innocents, but it is far from a safe haven. It’s a difficult theme to attempt,  <a href="https://locusmag.com/2024/04/paula-guran-reviews-nightmare-heartlines-spec-and-the-deadlands/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/paula-guran-reviews-nightmare-heartlines-spec-and-the-deadlands/>
+
+---
+
+## Nalo Hopkinson: What the Magic Is
+
+date: 2024-04-01, from: Locus Magazine
+
+<p></p>
+<p><strong>NALO HOPKINSON</strong> was born December 20, 1960 in Kingston, Jamaica, and grew up there and in Trinidad and Guyana, though she also spent some time in the US as a child. Her father was noted Guyanese poet Muhammad Abdur-Rahman Slade Hopkinson. She moved with her family to Toronto, Canada in 1977, where she lived until relocating to Riverside CA in 2011. She earned a Master’s degree in Writing Popular Fiction  <a href="https://locusmag.com/2024/04/nalo-hopkinson-what-the-magic-is/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/nalo-hopkinson-what-the-magic-is/>
 
 ---
 
