@@ -1,11 +1,33 @@
 ---
 title: libraries 2024.14
-updated: 2024-04-01 08:52:33
+updated: 2024-04-02 08:54:54
 ---
 
 # libraries 2024.14
 
-(date: 2024-04-01 08:52:33)
+(date: 2024-04-02 08:54:54)
+
+---
+
+## Guest Post:  FoSci —  The Emerging Field of Forensic Scientometrics
+
+date: 2024-04-02, from: Scholarly Kitchen
+
+<p>Leslie McIntosh names the emerging field of forensic scientometrics.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/04/02/guest-post-fosci-the-emerging-field-of-forensic-scientometrics/">Guest Post:  FoSci &#8212;  The Emerging Field of Forensic Scientometrics</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/04/02/guest-post-fosci-the-emerging-field-of-forensic-scientometrics/>
+
+---
+
+## The Coming Race, by Edward Bulwer-Lytton
+
+date: 2024-04-01, from: Standard Ebooks, new releaases
+
+While exploring a mine, a man falls through a chasm into an underground world populated by a mysterious race. 
+
+<https://standardebooks.org/ebooks/edward-bulwer-lytton/the-coming-race>
 
 ---
 

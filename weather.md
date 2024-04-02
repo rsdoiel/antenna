@@ -1,11 +1,492 @@
 ---
 title: weather 2024.14
-updated: 2024-04-01 08:52:32
+updated: 2024-04-02 08:54:54
 ---
 
 # weather 2024.14
 
-(date: 2024-04-01 08:52:32)
+(date: 2024-04-02 08:54:54)
+
+---
+
+## SPC MD 344
+
+date: 2024-04-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0344.html"><img src="https://www.spc.noaa.gov/products/md/mcd0344.png" border="1" alt="MD 0344 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0344
+NWS Storm Prediction Center Norman OK
+0959 AM CDT Tue Apr 02 2024
+
+Areas affected...Portions of WV
+
+Concerning...Tornado Watch 74...
+
+Valid 021459Z - 021630Z
+
+The severe weather threat for Tornado Watch 74 continues.
+
+SUMMARY...A substantial severe wind threat (70-90+ mph gusts), along
+with isolated tornadoes, will approach Charleston West Virginia and
+vicinity through noon.
+
+DISCUSSION...KHTS recently measured a significant severe wind gust
+to 80 kt (92 mph) with a compact but well organized cluster
+currently moving quickly eastward across parts of WV. Even though
+the airmass across this region remains only weakly unstable, very
+strong low-level and deep-layer shear is helping to compensate and
+provide convective organization. Recent radar data from KRLX shows
+enhanced inbound velocities embedded within the line that suggest
+70-90+ mph wind gusts will likely continue to be a threat with this
+line as it approaches the Charleston WV metro and vicinity over the
+next hour (through noon EDT). In addition to this substantial
+severe/damaging wind threat, isolated tornadoes embedded within the
+line also appear possible given the strength of the low-level flow
+and related shear.
+
+..Gleason.. 04/02/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...RNK...RLX...JKL...
+
+LAT...LON   38688203 38658123 38328078 37838091 37478126 37528198
+            37928258 38288217 38688203 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0344.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/md/md0344.html>
+
+---
+
+## SPC Tornado Watch 74 Status Reports
+
+date: 2024-04-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0074.html"><img src="https://www.spc.noaa.gov/products/watch/ww0074_radar.gif" border="1" alt="WW 0074 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 74
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 25 E JKL TO
+35 SE HTS TO 15 SSW CRW TO 5 NNW CRW TO 20 SSW PKB.
+
+FOR ADDITIONAL INFORMATION SEE MESOSCALE DISCUSSION 0344
+
+..GLEASON..04/02/24
+
+ATTN...WFO...RLX...
+
+
+STATUS REPORT FOR WT 74 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+WVC005-007-013-015-019-021-035-039-041-045-059-067-075-081-083-
+087-097-101-109-021640-
+
+WV 
+.    WEST VIRGINIA COUNTIES INCLUDED ARE
+
+BOONE                BRAXTON             CALHOUN             
+CLAY                 FAYETTE             GILMER              
+JACKSON              KANAWHA             LEWIS               
+LOGAN                MINGO               NICHOLAS            
+POCAHONTAS           RALEIGH             RANDOLPH            
+ROANE                UPSHUR              WEBSTER             
+WYOMING              
+
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+REFER TO WATCH COUNTY NOTIFICATION STATEMENTS FOR OFFICIAL
+INFORMATION ON COUNTIES...INDEPENDENT CITIES AND MARINE ZONES
+CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0074.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0074.html>
+
+---
+
+## SPC Tornado Watch 74
+
+date: 2024-04-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0074.html"><img src="https://www.spc.noaa.gov/products/watch/ww0074_radar.gif" border="1" alt="WW 0074 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 74
+NWS Storm Prediction Center Norman OK
+1020 AM EDT Tue Apr 2 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  Extreme northeast Kentucky
+  Extreme southern Ohio
+  Southern West Virginia
+
+* Effective this Tuesday morning and afternoon from 1020 AM until
+  100 PM EDT.
+
+* Primary threats include...
+  A couple tornadoes possible
+  Scattered damaging wind gusts to 70 mph likely
+  Isolated large hail events to 1 inch in diameter possible
+
+SUMMARY...A well-developed squall line may persist for a few more
+hours as it moves from Kentucky into West Virginia this morning. 
+Damaging gusts of 60-70 mph and a couple of tornadoes with embedded
+circulations will be possible.
+
+The tornado watch area is approximately along and 35 statute miles
+north and south of a line from 25 miles southwest of Huntington WV
+to 10 miles north northeast of Beckley WV. For a complete depiction
+of the watch see the associated watch outline update (WOUS64 KWNS
+WOU4).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 73...
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 1 inch. Extreme turbulence and surface wind
+gusts to 60 knots. A few cumulonimbi with maximum tops to 450. Mean
+storm motion vector 28050.
+
+...Thompson
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0074.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0074.html>
+
+---
+
+## SPC Tornado Watch 75 Status Reports
+
+date: 2024-04-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0075.html"><img src="https://www.spc.noaa.gov/products/watch/ww0075_radar.gif" border="1" alt="WW 0075 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 75
+
+THE SEVERE WEATHER THREAT CONTINUES ACROSS THE ENTIRE WATCH AREA.
+
+..GLEASON..04/02/24
+
+ATTN...WFO...LMK...PAH...OHX...MEG...
+
+
+STATUS REPORT FOR WT 75 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+KYC001-003-009-035-045-047-053-057-087-099-137-141-169-171-207-
+213-217-219-221-227-021640-
+
+KY 
+.    KENTUCKY COUNTIES INCLUDED ARE
+
+ADAIR                ALLEN               BARREN              
+CALLOWAY             CASEY               CHRISTIAN           
+CLINTON              CUMBERLAND          GREEN               
+HART                 LINCOLN             LOGAN               
+METCALFE             MONROE              RUSSELL             
+SIMPSON              TAYLOR              TODD                
+TRIGG                WARREN              
+
+
+TNC003-005-015-017-021-023-027-031-035-037-039-041-043-049-055-
+061-071-077-079-081-083-085-087-099-101-109-111-117-119-125-133-
+135-137-141-147-149-159-161-165-169-175-177-181-183-185-187-189-
+021640-
+
+TN 
+.    TENNESSEE COUNTIES INCLUDED ARE
+
+BEDFORD              BENTON              CANNON              
+CARROLL              CHEATHAM            CHESTER             
+CLAY                 COFFEE              CUMBERLAND          
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0075.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0075.html>
+
+---
+
+## SPC Tornado Watch 75
+
+date: 2024-04-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0075.html"><img src="https://www.spc.noaa.gov/products/watch/ww0075_radar.gif" border="1" alt="WW 0075 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 75
+NWS Storm Prediction Center Norman OK
+950 AM CDT Tue Apr 2 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  Southern Kentucky
+  Western and middle Tennessee
+
+* Effective this Tuesday morning and afternoon from 950 AM until
+  300 PM CDT.
+
+* Primary threats include...
+  A few tornadoes likely with a couple intense tornadoes possible
+  Widespread damaging winds and isolated significant gusts to 75
+    mph likely
+  Scattered large hail events to 1.5 inches in diameter likely
+
+SUMMARY...A loose cluster of storms in western Tennessee is expected
+to evolve into a couple of supercells while spreading
+east-northeastward toward southern Kentucky and middle Tennessee
+through midday and early afternoon.  The environment ahead of the
+storms will be favorable for tornadoes, a couple of which could be
+strong (roughly EF2), as well as damaging gusts up to 75 mph and
+large hail of 1-1.5 inches in diameter.
+
+The tornado watch area is approximately along and 50 statute miles
+north and south of a line from 20 miles north of Jackson TN to 45
+miles north of Crossville TN. For a complete depiction of the watch
+see the associated watch outline update (WOUS64 KWNS WOU5).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 73...WW 74...
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 1.5 inches. Extreme turbulence and surface wind
+gusts to 65 knots. A few cumulonimbi with maximum tops to 500. Mean
+storm motion vector 24050.
+
+...Thompson
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0075.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0075.html>
+
+---
+
+## SPC Tornado Watch 73 Status Reports
+
+date: 2024-04-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0073.html"><img src="https://www.spc.noaa.gov/products/watch/ww0073_radar.gif" border="1" alt="WW 0073 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 73
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 60 WNW LOZ
+TO 20 S LEX TO 35 NW JKL TO 55 N JKL.
+
+FOR ADDITIONAL INFORMATION SEE MESOSCALE DISCUSSION 0343
+
+..GLEASON..04/02/24
+
+ATTN...WFO...LMK...JKL...ILN...
+
+
+STATUS REPORT FOR WT 73 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+KYC045-063-065-079-137-151-153-165-175-197-205-237-021540-
+
+KY 
+.    KENTUCKY COUNTIES INCLUDED ARE
+
+CASEY                ELLIOTT             ESTILL              
+GARRARD              LINCOLN             MADISON             
+MAGOFFIN             MENIFEE             MORGAN              
+POWELL               ROWAN               WOLFE               
+
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+REFER TO WATCH COUNTY NOTIFICATION STATEMENTS FOR OFFICIAL
+INFORMATION ON COUNTIES...INDEPENDENT CITIES AND MARINE ZONES
+CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0073.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0073.html>
+
+---
+
+## SPC Apr 2, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-04-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0732 AM CDT Tue Apr 02 2024
+
+Valid 021300Z - 031200Z
+
+...THERE IS A MODERATE RISK OF SEVERE THUNDERSTORMS FOR PARTS OF
+NORTHERN AND CENTRAL KENTUCKY...SOUTHEAST INDIANA...AND CENTRAL AND
+SOUTHERN OHIO...
+
+...SUMMARY...
+A severe weather outbreak is possible today over the Ohio Valley
+with the broader severe weather risk including parts of the
+Southeast.  Strong and potentially long-track tornadoes are possible
+from Indiana and Ohio southward into the Mid South.  A threat for
+strong tornadoes may focus this evening into tonight across parts of
+Alabama and Georgia.
+
+...Synopsis...
+A complex and strongly dynamic spring storm system will potentially
+result in a large area of severe-weather risk from the southern
+Great Lakes/OH Valley southward into portions of the Deep South,
+including AL/GA and the western Carolinas late tonight.  
+
+A potent trough over the Upper Midwest this morning will evolve into
+a very strong mid-level low over the southwest Great Lakes by
+Wednesday morning.  An intense mid-level speed max over northern
+Mexico/TX, in association with the southern portion of the
+larger-scale central U.S. trough, will rapidly move east-northeast
+during the period and intensify to 125-kt at 500 mb over the
+southern Appalachians by daybreak Wednesday.  Intense 12-hr midlevel
+height falls are forecast across much of the Great Lakes, OH/TN
+Valley, and the northern Gulf States, where values in excess of 200m
+are expected during the latter half of the period.  The synoptic
+front this morning is draped across the OH Valley and will likely
+advance north due to the digging trough.  
+
+...OH Valley...
+Water-vapor imagery loop overnight showed a southern-stream
+short-wave trough associated with this morning's severe thunderstorm
+activity straddling the OH River in central KY and southern IN. 
+This early-day thunderstorm complex will probably pose a risk for
+wind damage and perhaps a couple of tornadoes before it moves into
+the central Appalachians towards midday (see MCD #341 for short-term
+details).  In its wake, a trailing outflow boundary/effective warm
+frontal zone will likely advance northward into IN/OH later today
+with lower to mid 60s progged to near I-70.  Models continue to show
+an appreciable window of opportunity in which cloud breaks/heating
+and increasing low-level moisture contribute to moderate
+destabilization during the afternoon.  Have adjusted the western
+envelope of severe probabilities farther west across IN to account
+for greater destabilization than earlier forecast, but otherwise
+have left the outlook unchanged across the OH Valley.  Scattered
+thunderstorms will likely develop by early to mid afternoon with
+discrete supercells evolving from the more intense updrafts. 
+Tornadoes, large to very large hail, and damaging gusts are expected
+with the supercells that mature across the warm sector.  Enlarged
+and elongated hodographs imply fast storm motions and the
+possibility for several cyclic tornadic supercells, some of which
+may yield strong and long-lived tornadoes.  
+
+Farther east, strong to severe storms may continue across the
+central Appalachians and perhaps move east into the Mid-Atlantic
+states.  Hail/wind appear to be the primary hazards with this
+activity.
+
+...Southeast this evening/tonight...
+Farther south and initially in the TN/MS/northern AL vicinity,
+severe thunderstorms are forecast to develop this afternoon as the
+leading edge of stronger large-scale ascent impinges on the region. 
+A moisture-rich airmass and wind profile favoring supercells, will
+favor a risk for all severe hazards with the stronger thunderstorms.
+Although it remains unclear with regard to daytime to evening storm
+evolution across MS/AL/TN, the approach of the 500-mb speed max and
+intense shear through a deep layer atop a moist/unstable boundary
+layer, suggest a bimodal severe threat will probably evolve this
+evening into the overnight.  Model guidance indicates messy but
+organized storm modes within a larger area of convection will
+probably develop.  Forecast soundings show 300-500 m2/s2 0-1 km SRH
+from central/eastern AL into GA during the evening and overnight. 
+The risk for tornadoes, including a few strong tornadoes, will be
+possible with this activity eventually reaching the Carolinas and
+the eastern FL Panhandle late.
+
+..Smith/Leitman.. 04/02/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC Tornado Watch 72 Status Reports
+
+date: 2024-04-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0072.html"><img src="https://www.spc.noaa.gov/products/watch/ww0072_radar.gif" border="1" alt="WW 0072 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 72
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 30 N HOP TO
+10 WNW OWB TO 25 ENE EVV TO 40 NE EVV TO 40 SSW BMG.
+
+..LEITMAN..04/02/24
+
+ATTN...WFO...ILX...PAH...IND...
+
+
+STATUS REPORT FOR WT 72 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+INC147-021240-
+
+IN 
+.    INDIANA COUNTIES INCLUDED ARE
+
+SPENCER              
+
+
+KYC059-107-149-177-021240-
+
+KY 
+.    KENTUCKY COUNTIES INCLUDED ARE
+
+DAVIESS              HOPKINS             MCLEAN              
+MUHLENBERG           
+
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+REFER TO WATCH COUNTY NOTIFICATION STATEMENTS FOR OFFICIAL
+INFORMATION ON COUNTIES...INDEPENDENT CITIES AND MARINE ZONES
+CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0072.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0072.html>
 
 ---
 
@@ -26,152 +507,6 @@ date: 2024-04-01, from: NOAA tornado/severe thunderstorm watches, mesoscale disc
 No Mesoscale Discussions are in effect as of Mon Apr  1 13:49:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Apr 1, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-04-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0745 AM CDT Mon Apr 01 2024
-
-Valid 011300Z - 021200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FROM PORTIONS
-OF THE SOUTHERN PLAINS TO THE LOWER MISSOURI AND OHIO VALLEY
-REGIONS...
-
-...SUMMARY...
-Severe thunderstorms are expected today into this evening within a
-broad swath from the southern Plains to the lower Missouri and Ohio
-Valley regions.  Tornadoes (a few strong), destructive hail, and
-damaging thunderstorm gusts all are possible.
-
-...Synopsis...
-The most important mid/upper-level feature for this forecast will be
-a deep, positively tilted, synoptic-scale trough, initially
-extending from the northern High Plains across UT to northern Baja. 
-Several shortwave troughs and vorticity lobes will traverse the
-associated cyclonic flow, as the broader trough shifts eastward.  By
-the end of the period, the synoptic trough should extend from IA
-across KS and the southern High Plains to far west TX and
-northwestern MX.  A lead shortwave perturbation -- evident in
-moisture-channel imagery over the eastern AZ/western NM region and
-southward into adjoining parts of MX -- will eject across the
-southern High Plains today, reaching the TX Panhandle and western OK
-by 00Z.  This feature should proceed northeastward to parts of
-northwestern MO and IA by 12Z tomorrow.
-
-Surface analysis at 11Z showed a frontal-wave low over central KS,
-with warm front to near a line from SZL-STL-ILN.  The low should
-migrate along the slowly northward-moving warm front to MO by 00Z,
-with cold front southwestward across northwestern OK and the
-northernmost TX Panhandle.  A dryline -- drawn initially from the
-low to the eastern TX Panhandle, near MAF, then southward into
-northern Coahuila -- should shift eastward through the afternoon to
-west-central/southwestern OK, extending southward across the TX Hill
-Country to near LRD.  By 00Z, the warm front -- perhaps modulated on
-the mesoscale by areas of precip -- should extend across northern
-MO, central parts of IL/IN, to southern OH and parts of WV.  A
-secondary low may form near the front/dryline intersection over
-western OK.  By 12Z tomorrow, an elongated low-pressure area, with
-more than one center, is possible from the main frontal inflection
-over northeastern MO to central IN.  The main cold front should
-reach southwestern MO, southeastern OK, northwest TX, and
-southeastern NM.  To its southeast, a Pacific front should overtake
-the dryline this evening and overnight, reaching western AR, the
-Arklatex, east TX, and parts of deep south TX by the end of the
-period.
-
-...Southeastern KS and western Ozarks to central TX...
-Scattered (OK/KS) to isolated (central TX) thunderstorms are
-expected to develop this afternoon along/ahead of the dryline and
-front, quickly becoming severe with all hazards possible.  The hail
-threat will be greatest during the first few hours, while tornado
-potential ramps into a probable early-evening peak.  Severe
-downdraft gusts also are possible, given the strong available
-buoyancy and fast cell motions expected.
-
-By late afternoon, much of OK and southeastern KS will reside under
-the left-exit region of a cyclonically curving jet streak, above
-strong low-level moisture transport accompanying a 50-65-kt LLJ.
-Initiation is expected as large-scale ascent preceding the lead
-shortwave starts to impinge upon a favorably heated dryline and
-moist sector, and the basal EML capping layer erodes.  This may
-occur earlier over the northern OK/KS part of the outlook near the
-front.  The environment will be favorable for frequent large hail
-and occasional significant to giant hailstones from any sustained
-supercells.  MLCAPE of 2000-3000 J/kg is possible, amidst 60-75 kt
-effective-shear magnitudes.  Forecast soundings indicate abundant
-inflow-layer moisture content to supply the updrafts, long
-hodographs commonly associated with significant hail (from right- or
-left-moving storms), as well as significant to giant hail in both
-historic analog soundings and a 2D hail-model.
-
-Though convective coverage may become densest north of the Red
-River, the potential for longer-lasting discrete modes near and
-south of the Red River conditionally favor isolated extreme hail
-sizes even into north TX.  Given mesoscale uncertainties and
-inconsistent convection-allowing model signals regarding initiation
-timing (which influences what low-level shear/hodograph space cells
-will enter) and mature storm duration before upscale merging/linear
-evolution occur, will hold hail probabilities at previous levels for
-now.  However, a "hail moderate" may become necessary in this region
-if mesoscale trends and post-12Z/today guidance become better
-focused on timing/density.
-
-The geometry of the pattern aloft will compel a strong component of
-mid/upper-level flow parallel to the convective alignment,
-encouraging eventual merging, training, and quasi-linear evolution. 
-How long that process will take is uncertain, and the line
-ultimately may backbuild into central TX.  Still, with LLJ-expanded
-hodographs and surface-based inflow parcels available in the
-early/mid evening, tornado potential (some strong) should exist with
-any remaining discrete storms, as well as in embedded QLCS
-mesocirculations.  Severe potential should ramp down late tonight
-(after about 06Z) over this region, but persist longer in the next
-(below).
-
-...Lower Missouri Valley to Ohio Valley...
-Multiple episodes of strong-severe thunderstorm development are
-expected this afternoon through tonight, each capable of all severe
-hazards.  The distribution of severe weather over this corridor may
-be quite non-uniform/clustered, as mesoscale convective processes
-and boundaries evolve.  Strong tornadoes may occur over parts of MO
-into central/southern IL while the afternoon/evening CAPE/shear
-parameter space and frontal proximity encourage potential
-development of at least a couple long-lasting supercells.
-Severe to isolated giant hail also is possible, especially from
-discrete supercells the western portion over MO/IL containing
-steepest lapse rates, greatest CAPE, and similarly favorable
-vertical wind profiles as the southern Plains area.
-
-Moist advection should quickly boost boundary-layer mixing ratios
-and dewpoints today, with surface dewpoints in the 60s common along
-and south of the warm front by midafternoon.  Peak/preconvective
-MLCAPE should reach 2000-2500 J/kg south of the warm front over
-parts of MO/IL/IN, diminishing to  1000-1500 J/kg from the
-northeastern KY/southern OH area eastward.  Effective-shear
-magnitudes should range from near 60 kt over MO to 40-50 kt in
-eastern parts of the outlook.  An MCS may evolve this evening from
-convection over MO and sweep east-northeastward on either side of
-the warm front, reaching parts of IN/OH/northern KY late tonight
-before weakening.  Though moving into an airmass that will be
-stabilizing near the surface -- with time and eastward extent --
-such a complex may have enough forced ascent and downward momentum
-transfer behind that to maintain organized wind-damage potential
-over the Ohio Valley tonight.
-
-..Edwards/Leitman.. 04/01/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 

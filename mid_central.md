@@ -1,11 +1,43 @@
 ---
 title: mid central 2024.14
-updated: 2024-04-01 08:52:32
+updated: 2024-04-02 08:54:54
 ---
 
 # mid central 2024.14
 
-(date: 2024-04-01 08:52:32)
+(date: 2024-04-02 08:54:54)
+
+---
+
+## A groovy apparatus for calibrating miniature high sensitivity anemometers
+
+date: 2024-04-02, from: EDN Blog
+
+<img width="683" height="821" src="https://www.edn.com/wp-content/uploads/Figure-3_GroovyDI.png?fit=683%2C821" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-3_GroovyDI.png?w=683 683w, https://www.edn.com/wp-content/uploads/Figure-3_GroovyDI.png?w=250 250w" sizes="(max-width: 683px) 100vw, 683px" /><p>A remix of the typical anemometer DI: Repurposing a phonograph as an accurate and "groovy" method for anemometer test and calibration.</p>
+<p>The post <a href="https://www.edn.com/a-groovy-apparatus-for-calibrating-miniature-high-sensitivity-anemometers/" data-wpel-link="internal">A groovy apparatus for calibrating miniature high sensitivity anemometers</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/a-groovy-apparatus-for-calibrating-miniature-high-sensitivity-anemometers/>
+
+---
+
+## Opinion: Why I regret coming to Fresno State
+
+date: 2024-04-01, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Choosing a college to attend can be one of the most crucial choices in a person&#8217;s life. The decision you make will impact your future, determining your career path and the friends you will have for the rest of your life. With less than two months until I graduate, I am saddened to admit that... 
+
+<https://fscollegian.com/2024/04/opinion-why-i-regret-coming-to-fresno-state/>
+
+---
+
+## SPLASH PARK COMING SOON!
+
+date: 2024-04-01, from: City of Atwater News Releases
+
+Our Splash Park will be opening soon! 
+
+<https://www.atwater.org/splash-park/>
 
 ---
 
@@ -13,7 +45,7 @@ updated: 2024-04-01 08:52:32
 
 date: 2024-04-01, from: EDN Blog
 
-<img width="1400" height="1400" src="https://www.edn.com/wp-content/uploads/overview_no-globe.jpg?fit=1400%2C1400" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/overview_no-globe.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/overview_no-globe.jpg?w=150 150w, https://www.edn.com/wp-content/uploads/overview_no-globe.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/overview_no-globe.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/overview_no-globe.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>It seem heat (along with overenthusiastic marketeers) can be the bane of LED bulb purchasers, as we'll see in this LED teardown...</p>
+<img width="1400" height="1400" src="https://www.edn.com/wp-content/uploads/overview_no-globe.jpg?fit=1400%2C1400" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/overview_no-globe.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/overview_no-globe.jpg?w=150 150w, https://www.edn.com/wp-content/uploads/overview_no-globe.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/overview_no-globe.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/overview_no-globe.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>It seem heat (along with overenthusiastic marketeers) can be the bane of LED bulb purchasers, as we'll see in this LED teardown...</p>
 <p>The post <a href="https://www.edn.com/the-led-based-br40-a-bulb-begging-for-placement-thats-drafty/" data-wpel-link="internal">The LED-based BR40: A bulb begging for placement that’s drafty</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

@@ -1,11 +1,186 @@
 ---
 title: socal north 2024.14
-updated: 2024-04-01 08:52:32
+updated: 2024-04-02 08:54:54
 ---
 
 # socal north 2024.14
 
-(date: 2024-04-01 08:52:32)
+(date: 2024-04-02 08:54:54)
+
+---
+
+## Megan Thee Stallion, Nike host “hottie walk” at Los Angeles Memorial Coliseum
+
+date: 2024-04-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>aNike gave free “Hottie State of Mind” T-shirts and free pairs of its newest walking shoe, the Motiva, to people who participated in the mile and a half-long walk. </p>
+<p>The post <a href="https://dailytrojan.com/2024/04/02/megan-thee-stallion-nike-host-hottie-walk-at-los-angeles-memorial-coliseum/">Megan Thee Stallion, Nike host “hottie walk” at Los Angeles Memorial Coliseum</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/02/megan-thee-stallion-nike-host-hottie-walk-at-los-angeles-memorial-coliseum/>
+
+---
+
+## Students celebrate Arab American Heritage Month
+
+date: 2024-04-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Olympian Yusra Mardini visited campus and spoke about Arab representation.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/02/students-celebrate-arab-american-heritage-month/">Students celebrate Arab American Heritage Month</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/02/students-celebrate-arab-american-heritage-month/>
+
+---
+
+## Classifieds – April 2, 2024
+
+date: 2024-04-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/02/classifieds-april-2-2024/">Classifieds &#8211; April 2, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/02/classifieds-april-2-2024/>
+
+---
+
+## Reflecting on sacrifice and faith this Lent
+
+date: 2024-04-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>There is so much you can gain by giving something up, regardless of your faith.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/02/reflecting-on-sacrifice-self-and-faith-this-lent/">Reflecting on sacrifice and faith this Lent</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/02/reflecting-on-sacrifice-self-and-faith-this-lent/>
+
+---
+
+## Diving into women’s club water polo
+
+date: 2024-04-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The club excels in the pool while creating friendships outside the water.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/02/usc-womens-water-polo/">Diving into women’s club water polo</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/02/usc-womens-water-polo/>
+
+---
+
+## USG needs to implement a transgender medical fund
+
+date: 2024-04-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Gender-affirming care is life-saving, and USG can help make it accessible.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/02/usg-needs-to-implement-a-transgender-medical-fund/">USG needs to implement a transgender medical fund</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/02/usg-needs-to-implement-a-transgender-medical-fund/>
+
+---
+
+## ‘Tall Tales’ tackles grief in futuristic coming-of-age story
+
+date: 2024-04-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>SCA alumni bridge the gap between dystopia and reality in their short film.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/02/tall-tales-tackles-grief-in-futuristic-coming-of-age-story/">‘Tall Tales’ tackles grief in futuristic coming-of-age story</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/02/tall-tales-tackles-grief-in-futuristic-coming-of-age-story/>
+
+---
+
+## Season of celebration finishes for women’s basketball in Elite Eight
+
+date: 2024-04-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Watkins breaks the NCAA Division I freshman scoring record to end her first year.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/01/season-of-celebration-finishes-for-womens-basketball-in-elite-eight/">Season of celebration finishes for women’s basketball in Elite Eight</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/01/season-of-celebration-finishes-for-womens-basketball-in-elite-eight/>
+
+---
+
+## This Week: March 15
+
+date: 2024-04-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+The AI Act passes the European Parliament. A bill to ban TikTok passes the House. Podcasts contributor Lucy Netchvolodoff and Podcasts Editor Jack Garland discuss these stories and more. 
+
+<https://dailybruin.com/2024/04/01/this-week-march-15/>
+
+---
+
+## Crimewatch: March 2024
+
+date: 2024-04-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sources: UCPD. Graphic reporting by Sharla Steinman, city and crime editor. Interactive by Junwon Choi, Data editor.
+UCPD recorded 633 unique entries in its March daily crime log. 
+
+<https://dailybruin.com/2024/04/01/crimewatch-march-2024/>
+
+---
+
+## USC women’s basketball vs. UConn — as it happened
+
+date: 2024-04-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Thomas Johnson and Kasey Kazlienr report live from Moda Center in Portland, Oregon.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/01/usc-womens-basketball-vs-uconn-live-updates/">USC women&#8217;s basketball vs. UConn — as it happened</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/01/usc-womens-basketball-vs-uconn-live-updates/>
+
+---
+
+## Head Coach Andy Enfield leaves USC men’s basketball for SMU
+
+date: 2024-04-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>After 11 years as USC’s head coach, Enfield will have the same role for the Mustangs.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/01/andy-enfield-smu/">Head Coach Andy Enfield leaves USC men’s basketball for SMU</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/01/andy-enfield-smu/>
+
+---
+
+## 28th Annual Santa Clarita Cowboy Festival Brings Several Exciting Activities to William S. Hart Park
+
+date: 2024-04-01, from: City of Santa Clarita
+
+<p>28TH ANNUAL SANTA CLARITA COWBOY FESTIVAL BRINGS SEVERAL EXCITING ACTIVITIES TO WILLIAM S. HART PARK Engage In a Number of Western Experiences on April 20-21 The City of Santa Clarita’s 28th Annual Cowboy Festival, set to return to William S. Hart Park (24151 Newhall Avenue) on Saturday, April 20 and Sunday, April 21, from 10:00 [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/04/01/28th-annual-santa-clarita-cowboy-festival-brings-several-exciting-activities-to-william-s-hart-park/">28th Annual Santa Clarita Cowboy Festival Brings Several Exciting Activities to William S. Hart Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/04/01/28th-annual-santa-clarita-cowboy-festival-brings-several-exciting-activities-to-william-s-hart-park/>
+
+---
+
+## Beauty and the Milkweed
+
+date: 2024-04-01, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce College is not a place that only students can explore—now it’s for a variety of insects that can fly around the campus freely.  A</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/01/beauty-and-the-milkweed/">Beauty and the Milkweed</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/01/beauty-and-the-milkweed/?utm_source=rss&utm_medium=rss&utm_campaign=beauty-and-the-milkweed>
+
+---
+
+## How Are California Schools Spending The $1 Billion Voters Approved For Arts Education?
+
+date: 2024-04-01, updated: 2024-04-02, from: The LAist
+
+Voters approved $1 billion a year in new arts education funding, but there are questions about how districts are spending the money. 
+
+<https://laist.com/news/education/california-arts-education-funding-prop-28-misspent-2024>
 
 ---
 
@@ -234,9 +409,9 @@ date: 2024-03-31, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-03-31, from: The Daily Bruin (UCLA Student Newspaper)
 
-Blue and gold might be the Bruins&#8217; colors.
-But they return donning the home gold and silver.
-No. 4 UCLA women&#8217;s golf finished in a three-way tie for second place with a score of 8-under 856 at the PING/ASU Invitational at the Papago Golf Course in Phoenix, Arizona, from Thursday to Saturday. 
+Blue and gold might be the Bruins’ colors.
+But they return donning gold and silver.
+No. 4 UCLA women’s golf finished in a three-way tie for second place with a score of 8-under 856 at the PING/ASU Invitational at the Papago Golf Course in Phoenix, Arizona, from Thursday to Saturday. 
 
 <https://dailybruin.com/2024/03/31/ucla-womens-golf-swings-into-tie-for-2nd-in-ping-asu-invitational/>
 

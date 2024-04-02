@@ -1,11 +1,111 @@
 ---
 title: games 2024.14
-updated: 2024-04-01 08:52:33
+updated: 2024-04-02 08:54:54
 ---
 
 # games 2024.14
 
-(date: 2024-04-01 08:52:33)
+(date: 2024-04-02 08:54:54)
+
+---
+
+## There’s a little something for everyone in Xbox Game Pass’ April lineup
+
+date: 2024-04-02, updated: 2024-04-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24118920/xbox-game-pass-april-2024-free-games-tomb-raider>
+
+---
+
+## No show is having more fun than Chucky
+
+date: 2024-04-02, updated: 2024-04-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24113753/chucky-tv-show-syfy-usa-peacock-season-3-its-bloody-good>
+
+---
+
+## Helldivers 2 gets huge level cap increase, new hazards, balance changes
+
+date: 2024-04-02, updated: 2024-04-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24118823/helldivers-2-patch-01-000-200-notes-balance-level-cap-hazards>
+
+---
+
+## Bloody martial arts movie Boy Kills World spawned a real-world fighting game
+
+date: 2024-04-02, updated: 2024-04-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24118252/boy-kills-world-game-super-dragon-force-punch-3>
+
+---
+
+## What’s it like to wear the 3 Body Problem headset? We asked the cast
+
+date: 2024-04-02, updated: 2024-04-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24115841/3-body-problem-netflix-headset-cast-interview>
+
+---
+
+## Can Zubat be shiny in Pokémon Go?
+
+date: 2024-04-02, updated: 2024-04-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24118037/can-zubat-be-shiny-golbat-crobat>
+
+---
+
+## The best April Fools’ Day joke this year is the Connections puzzle
+
+date: 2024-04-01, updated: 2024-04-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24118203/connections-april-fools-day-prank-nytimes-emoji-reactions>
+
+---
+
+## Helldivers 2 players get revenge on Automatons, take back Malevelon Creek
+
+date: 2024-04-01, updated: 2024-04-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24118249/helldivers-2-players-malevelon-creek-win>
+
+---
+
+## Dragonsplague causes, symptoms, and cures in Dragon’s Dogma 2
+
+date: 2024-04-01, updated: 2024-04-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24114907/dragonsplague-symptoms-cure-signs-eternal-wakestone>
+
+---
+
+## Warhammer 40K fans create high fashion fan art with the Warp Gala
+
+date: 2024-04-01, updated: 2024-04-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24118255/warhammer-40k-warp-gala-fanart-hollywood-heresy>
 
 ---
 

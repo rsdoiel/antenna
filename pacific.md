@@ -1,11 +1,790 @@
 ---
 title: pacific 2024.14
-updated: 2024-04-01 08:52:32
+updated: 2024-04-02 08:54:54
 ---
 
 # pacific 2024.14
 
-(date: 2024-04-01 08:52:32)
+(date: 2024-04-02 08:54:54)
+
+---
+
+## Guam Supreme Court accepts governor's request regarding AG withdrawal
+
+date: 2024-04-02, from: Guam Daily Post
+
+The Supreme Court of Guam has decided to take on the request for declaratory judgment from the governor regarding the attorney general's temporary withdrawal of legal representation from agencies under investigation by his office. 
+
+<https://www.postguam.com/news/guam-supreme-court-accepts-governors-request-regarding-ag-withdrawal/article_59a0b14c-f0d1-11ee-87ba-d72a454bf2eb.html>
+
+---
+
+## Steer hits grand slam in 10th, Cincinnati Reds beat Philadelphia 6-3; Phillies’ Harper hitless again
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>PHILADELPHIA &#8212; Spencer Steer hit a grand slam in the 10th inning to lift the Cincinnati Reds to a 6-3 victory over the Philadelphia Phillies on Monday night.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/sports/steer-hits-grand-slam-in-10th-cincinnati-reds-beat-philadelphia-6-3-phillies-harper-hitless-again/>
+
+---
+
+## Paige Bueckers lifts UConn back to the Final Four with 80-73 win over JuJu Watkins and USC
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>PORTLAND, Ore. &#8212; After being a spectator a year ago, Paige Bueckers is headed back to the Final Four after scoring 28 points and lifting UConn to a 80-73 win over Southern California in the women&#8217;s NCAA Tournament on Monday night.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/sports/paige-bueckers-lifts-uconn-back-to-the-final-four-with-80-73-win-over-juju-watkins-and-usc/>
+
+---
+
+## Caitlin Clark leads Iowa back to Final Four, scoring 41 points in 94-87 win over defending champ LSU
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>ALBANY, N.Y. &#8212; Caitlin Clark put up another sensational performance to carry Iowa to its second straight Final Four.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/sports/caitlin-clark-leads-iowa-back-to-final-four-scoring-41-points-in-94-87-win-over-defending-champ-lsu/>
+
+---
+
+## Houston’s Blanco throws the first no-hitter in the majors this season in a 10-0 win over Toronto
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>HOUSTON &#8212; Ronel Blanco put a bow on a remarkable week.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/sports/houstons-blanco-throws-the-first-no-hitter-in-the-majors-this-season-in-a-10-0-win-over-toronto/>
+
+---
+
+## Why Trump’s alarmist message on immigration may be resonating beyond his base
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The video shared by former President Donald Trump features horror movie music and footage of migrants purportedly entering the U.S. from countries including Cameroon, Afghanistan and China. Shots of men with tattoos and videos of violent crime are set against close-ups of people waving and wrapping themselves in American flags.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/nation-world-news/why-trumps-alarmist-message-on-immigration-may-be-resonating-beyond-his-base/>
+
+---
+
+## ‘Letting the artist decide’: Hilo art show ongoing through April 25
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>In a Hilo art show, thirty-four local artists are showcasing the art that best represents them and the totality of their work.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/hawaii-news/letting-the-artist-decide-hilo-art-show-ongoing-through-april-25/>
+
+---
+
+## Trump gets bond deal to ward off $454 million judgment, for now
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Former President Donald Trump averted a financial disaster Monday, reaching a deal that will spare him from paying a $454 million judgment in his civil fraud case while he appeals the penalty.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/nation-world-news/trump-gets-bond-deal-to-ward-off-454-million-judgment-for-now/>
+
+---
+
+## Lou Conter, last survivor of USS Arizona from Pearl Harbor attack, dies at 102
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8212; Lou Conter, the last living survivor of the USS Arizona battleship that exploded and sank during the Japanese bombing of Pearl Harbor, has died. He was 102.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/nation-world-news/lou-conter-last-survivor-of-uss-arizona-from-pearl-harbor-attack-dies-at-102/>
+
+---
+
+## Housing density bill curtailed
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>A proposal to increase housing density statewide was substantially cut Monday after lawmakers chose to leave the matter to the counties.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/hawaii-news/housing-density-bill-curtailed/>
+
+---
+
+## Waikoloa Road Rehabilitation project ongoing
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>Work continues on the Waikoloa Road Rehabilitation, which extends from Mamalahoa Highway to Queen Ka&#8216;ahumanu Highway.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/hawaii-news/waikoloa-road-rehabilitation-project-ongoing/>
+
+---
+
+## Planning Commission to mull housing-related bills
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>A trio of Hawaii County Council bills that would change how transient accommodations and &#8216;ohana housing units are regulated will go before the Windward Planning Commission on Thursday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/hawaii-news/planning-commission-to-mull-housing-related-bills/>
+
+---
+
+## The bizarre Chinese murder plot behind Netflix’s ‘3 Body Problem’
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>Lin Qi was a billionaire with a dream. The video game tycoon had wanted to turn one of China&#8217;s most famous science-fiction novels, &#8220;The Three-Body Problem,&#8221; into a global hit. He had started working with Netflix and the creators of the HBO series &#8220;Game of Thrones&#8221; to bring the alien invasion saga to international audiences.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/nation-world-news/the-bizarre-chinese-murder-plot-behind-netflixs-3-body-problem/>
+
+---
+
+## ‘Oppenheimer’ opens in nuclear-scarred Japan, 8 months after US premiere
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>TOKYO &#8212; Watching &#8220;Oppenheimer,&#8221; the Oscar-winning biopic about the father of the atomic bomb that opened in Japan on Friday, Kako Okuno was stunned by a scene in which scientists celebrated the explosion over Hiroshima with thunderous foot stomping and the waving of American flags.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/nation-world-news/oppenheimer-opens-in-nuclear-scarred-japan-8-months-after-us-premiere/>
+
+---
+
+## American YouTube personality is released after being kidnapped in Haiti
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>An American YouTube personality who was kidnapped two weeks ago by a gang leader in Haiti was released over the weekend and was on his way home to the United States on Monday morning, according to his father.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/nation-world-news/american-youtube-personality-is-released-after-being-kidnapped-in-haiti/>
+
+---
+
+## Beijing deplores Taiwan’s next president, but welcomes an old one
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>TAIPEI, Taiwan &#8212; As tensions fester between China and Taiwan, one elder politician from the island democracy is getting an effusive welcome on the mainland: Ma Ying-jeou, a former president.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/nation-world-news/beijing-deplores-taiwans-next-president-but-welcomes-an-old-one/>
+
+---
+
+## Florida Supreme Court upholds state’s 15-week abortion ban, but voters will soon have a say
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>TALLAHASSEE, Fla. &#8212; The Florida Supreme Court on Monday cleared the way for the state to ban abortions after six weeks of pregnancy, before many women know they are pregnant, while also giving voters a chance to remove restrictions in November.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/nation-world-news/florida-supreme-court-upholds-states-15-week-abortion-ban-but-voters-will-soon-have-a-say/>
+
+---
+
+## Invaders from underground are coming in cicada-geddon. It’s the biggest bug emergence in centuries
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>Trillions of evolution&#8217;s bizarro wonders, red-eyed periodical cicadas that have pumps in their heads and jet-like muscles in their rears, are about to emerge in numbers not seen in decades and possibly centuries.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/nation-world-news/invaders-from-underground-are-coming-in-cicada-geddon-its-the-biggest-bug-emergence-in-centuries/>
+
+---
+
+## Why a TikTok ban isn’t what we need
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>The House of Representatives passed a bipartisan bill in March threatening to ban TikTok unless its parent company ByteDance sells the app. It may take the Senate months to address the legislation, which faces some opposition, so a ban is not imminent. But the relative success of this approach highlights the narrow, problematic pathway for data security reform in the U.S. as we continue to avoid real oversight.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/opinion/why-a-tiktok-ban-isnt-what-we-need/>
+
+---
+
+## California judge right to disbar Trump lawyer John Eastman
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>A California State Bar judge has recommended the disbarment of former Donald Trump adviser John Eastman, a onetime fringe academic &#8212; among his longtime obsessions partly overturning the 14th Amendment to kill birthright citizenship &#8212; who came to occupy a central role in the former president&#8217;s efforts to undo the 2020 election.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/opinion/california-judge-right-to-disbar-trump-lawyer-john-eastman/>
+
+---
+
+## Your Views for April 2
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>Ford was right&#0010;about term limits</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/opinion/your-views-for-april-2-6/>
+
+---
+
+## Israeli strike on Iran’s consulate in Syria killed two generals, Iranian officials say
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>DAMASCUS, Syria &#8212; An Israeli airstrike that demolished Iran&#8217;s consulate in Syria on Monday killed two Iranian generals and five officers, according to Iranian officials. The strike appeared to signify an escalation of Israel&#8217;s targeting of military officials from Iran, which supports militant groups fighting Israel in Gaza, and along its border with Lebanon.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/nation-world-news/israeli-strike-on-irans-consulate-in-syria-killed-two-generals-iranian-officials-say/>
+
+---
+
+## Gaza medical officials say Israeli strike kills 4 foreign aid workers, driver after delivering food
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>DEIR AL-BALAH, Gaza Strip &#8212; An apparent Israeli airstrike killed four international aid workers with the World Central Kitchen charity and their Palestinian driver late Monday, hours after the group brought in a new shipload of food by a maritime route the United States has hoped would be an alternative lifeline for northern Gaza, isolated and pushed to the brink of famine by Israel&#8217;s offensive.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/nation-world-news/gaza-medical-officials-say-israeli-strike-kills-4-foreign-aid-workers-driver-after-delivering-food/>
+
+---
+
+## Sailor’s remains identified 82 years after Pearl Harbor
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>On Dec. 7, 1941, the USS California, the flagship of the Navy&#8217;s Pacific Fleet, was moored on &#8220;battleship row&#8221; at Pearl Harbor when it was struck by Japanese torpedoes and bombs. The ship caught fire, flooded and sank over the course of three days, and 103 crew members were killed.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/hawaii-news/sailors-remains-identified-82-years-after-pearl-harbor/>
+
+---
+
+## Trump Media lost $58 million on $4 million in sales last year
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>Donald Trump&#8217;s net worth tumbled by $1 billion along with the shares of his social media business after it disclosed a more than $58 million loss in 2023, as revenue for the former president&#8217;s Truth Social platform trickled in. Trump Media &#38;Technology Group Corp.&#8217;s stock fell 21% Monday to $48.66 per share, below the $49.95 level where the blank-check vehicle it merged with was trading a week ago. Trump owns 57% of the company, according to the filings with the U.S. Securities and Exchange Commission, with his stake now worth $3.76 billion on paper. The slump takes his net worth to $6.4 billion, a fall of 14%, according to data compiled by Bloomberg.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/nation-world-news/trump-media-lost-58-million-on-4-million-in-sales-last-year/>
+
+---
+
+## A channel has opened for vessels clearing wreckage at the Baltimore bridge collapse site
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>BALTIMORE &#8212; The U.S. Coast Guard has opened a temporary, alternate channel for vessels involved in clearing debris from the collapsed Francis Scott Key Bridge in Baltimore, part of a phased approach to opening the main shipping channel leading to the vital port, officials said Monday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/nation-world-news/a-channel-has-opened-for-vessels-clearing-wreckage-at-the-baltimore-bridge-collapse-site/>
+
+---
+
+## Let’s Talk Food: My favorite knives
+
+date: 2024-04-02, from: Hawaii Tribune Harold
+
+
+				<p>Yes, I have a weakness for knives. When I see a knife that looks interesting, odds are that I will purchase it. I have been to many knife and sword shops in Japan, just intrigued at the craftsmanship in knife making. My son is the same way, so we have a collection of knives for every possible use: a sashimi, citrus, bread, several chef&#8217;s, several paring, a couple of bird beak, utility, boning, santoku and nakiri knives.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/02/community/lets-talk-food-my-favorite-knives/>
+
+---
+
+## CME resignation 'might greatly impact' case
+
+date: 2024-04-02, from: Guam Daily Post
+
+The resignation of Chief Medical Examiner Dr. Jeffrey Nine "might greatly impact" how a prosecutor looks at a case where a couple is accused of beating their 1-year-old son to death. 
+
+<https://www.postguam.com/news/local/cme-resignation-might-greatly-impact-case/article_1a86f024-f082-11ee-9e76-63207afd45e7.html>
+
+---
+
+## More debate at 2nd hearing for cannabis use discrimination bill
+
+date: 2024-04-02, from: Guam Daily Post
+
+It's the measure's second public hearing, but stakeholders still had concerns to share about Bill 6-37, the measure seeking to end discrimination in employment over the use of cannabis, also known as marijuana. 
+
+<https://www.postguam.com/news/local/more-debate-at-2nd-hearing-for-cannabis-use-discrimination-bill/article_aa131094-effe-11ee-a824-d310ec83b60e.html>
+
+---
+
+## Support, concern for Jessica's Law bill
+
+date: 2024-04-02, from: Guam Daily Post
+
+The proposal to implement a local version of "Jessica's Law" saw support during the public hearing on the measure Monday morning, although there was written concern coming from the Public Defender Service Corp. 
+
+<https://www.postguam.com/news/local/support-concern-for-jessicas-law-bill/article_1f6d767a-efe8-11ee-b6e1-a7f204a6d09f.html>
+
+---
+
+## GMH writes off $5M, asks for $232M next fiscal year
+
+date: 2024-04-02, from: Guam Daily Post
+
+The Guam Memorial Hospital Authority board of trustees voted through Resolution 2024-28 to write off about $5 million in uncollected patient accounts receivable. 
+
+<https://www.postguam.com/news/local/gmh-writes-off-5m-asks-for-232m-next-fiscal-year/article_1f568000-eff7-11ee-9d2c-93fd5d7fd0ae.html>
+
+---
+
+## Suspect ID'd in Maite gas station carjacking
+
+date: 2024-04-02, from: Guam Daily Post
+
+The Guam Police Department is seeking the community's assistance to find a suspect in a carjacking last month at a Maite gas station. 
+
+<https://www.postguam.com/news/local/suspect-idd-in-maite-gas-station-carjacking/article_a6091d90-f08f-11ee-8f11-bfe825f196a9.html>
+
+---
+
+## Former GPD officer to be sentenced on Wednesday for mailed meth conspiracy
+
+date: 2024-04-02, from: Guam Daily Post
+
+A former Guam Police Department officer will be sentenced in the U.S. District Court of Guam on Wednesday morning for his involvement in drug trafficking. 
+
+<https://www.postguam.com/news/local/former-gpd-officer-to-be-sentenced-on-wednesday-for-mailed-meth-conspiracy/article_15131928-f092-11ee-9736-37dc10bf1070.html>
+
+---
+
+## Governor signs bill for CQA's implementation of new system
+
+date: 2024-04-02, from: Guam Daily Post
+
+With lawmakers and officials from the Guam Customs and Quarantine Agency around her, Gov. Lou Leon Guerrero penned her signature onto Bill 176-37 Tuesday morning at the Guam Integrated Air Cargo Facility in Barrigada, enacting the measure into law. 
+
+<https://www.postguam.com/news/governor-signs-bill-for-cqas-implementation-of-new-system/article_f4522248-f0c2-11ee-abf8-0761bd88cc6c.html>
+
+---
+
+## Ngarchelong Charts Course for Future with First State Masterplan Adoption
+
+date: 2024-04-02, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/received_1981046912293492.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/received_1981046912293492.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/received_1981046912293492.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/received_1981046912293492.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/received_1981046912293492.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/received_1981046912293492.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/received_1981046912293492.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/received_1981046912293492.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/received_1981046912293492.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/received_1981046912293492.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/received_1981046912293492.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/received_1981046912293492.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/received_1981046912293492.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/received_1981046912293492.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/received_1981046912293492.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69567" data-permalink="https://islandtimes.org/ngarchelong-charts-course-for-future-with-first-state-masterplan-adoption/received_1981046912293492/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/received_1981046912293492.jpg?fit=2048%2C1536&amp;ssl=1" data-orig-size="2048,1536" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="received_1981046912293492" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/received_1981046912293492.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/received_1981046912293492.jpg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>Ngarchelong Takes Lead in State-Level Planning (Koror, Palau) Ngarchelong has become the frontrunner in Palau&#8217;s state-level planning by adopting its first official state master plan. On March 29, 2024, the Ngarchelong State Planning Committee submitted the finalized plan, along with a corresponding budget to Governor Dwight Ngiraibai, Chief Uong er-Etei Mattias Erbai, and other state [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ngarchelong-charts-course-for-future-with-first-state-masterplan-adoption/">Ngarchelong Charts Course for Future with First State Masterplan Adoption</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/ngarchelong-charts-course-for-future-with-first-state-masterplan-adoption/>
+
+---
+
+## Ex-Convict Drug Trafficker Back in Jail on New Charges
+
+date: 2024-04-02, from: Island Times
+
+<p>Koror, Palau&#160; &#8211; A convicted drug trafficker, Kalingo Kangich, also known as Kalingo Kang-itz, was ordered back to jail on March 26, 2024, facing new charges of trafficking and possession of a controlled substance. Kangich was reportedly awaiting a parole decision on a previous drug conviction. According to court documents, Kangich was allegedly apprehended during [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ex-convict-drug-trafficker-back-in-jail-on-new-charges/">Ex-Convict Drug Trafficker Back in Jail on New Charges</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/ex-convict-drug-trafficker-back-in-jail-on-new-charges/>
+
+---
+
+## Lawmakers Propose Changes to Land Claims Process
+
+date: 2024-04-02, from: Island Times
+
+<p>A bill has been introduced in Palau&#8217;s Olbiil Era Kelulau that would modify the land claims process overseen by the Land Court. The proposed legislation aims to address several issues, including: A public hearing on the proposed bill will be held this Thursday, April 4, 2024, at 2 pm at OEK Satellite Office in Koror [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/lawmakers-propose-changes-to-land-claims-process/">Lawmakers Propose Changes to Land Claims Process</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/lawmakers-propose-changes-to-land-claims-process/>
+
+---
+
+## Pacific Ocean Commissioner Opens Palau Office, Focuses on Gender Equality and Regional Cooperation
+
+date: 2024-04-02, from: Island Times
+
+<p>KOROR, Palau (AP) — The Office of the Pacific Ocean Commissioner (OPOC) has officially opened in Palau, led by Pacific Ocean Commissioner Dr. Filimon Manoni. Oceans Management and Gender Equality A core mission of the OPOC is advancing the oceans agenda. The office collaborates with CROP agencies and partners, prioritizing gender equality in ocean-related initiatives. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-ocean-commissioner-opens-palau-office-focuses-on-gender-equality-and-regional-cooperation/">Pacific Ocean Commissioner Opens Palau Office, Focuses on Gender Equality and Regional Cooperation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/pacific-ocean-commissioner-opens-palau-office-focuses-on-gender-equality-and-regional-cooperation/>
+
+---
+
+## Youths Hook Fishing Skills and Palauan Traditions at Uchul a Chei Fishers Camp
+
+date: 2024-04-02, from: Island Times
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240329_134556-scaled.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240329_134556-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240329_134556-scaled.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240329_134556-scaled.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240329_134556-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240329_134556-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240329_134556-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240329_134556-scaled.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240329_134556-scaled.jpg?resize=1568%2C882&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240329_134556-scaled.jpg?resize=2000%2C1125&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240329_134556-scaled.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240329_134556-scaled.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240329_134556-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240329_134556-scaled.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69559" data-permalink="https://islandtimes.org/youths-hook-fishing-skills-and-palauan-traditions-at-uchul-a-chei-fishers-camp/20240329_134556/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240329_134556-scaled.jpg?fit=2560%2C1440&amp;ssl=1" data-orig-size="2560,1440" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1711719956&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;80&quot;,&quot;shutter_speed&quot;:&quot;0.01&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20240329_134556" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240329_134556-scaled.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240329_134556-scaled.jpg?fit=780%2C439&amp;ssl=1" /></figure>
+<p>Koror, Palau &#8211; Youths in Koror learned more than just casting a line at a recent fishing camp hosted by the Uchul a Chei Fishers organization. The week-long &#8220;Uchul a Chei Fishers Camp,&#8221; held March 25-29 at Ngetmeduch Park, provided over 20 boys and girls with the opportunity to learn traditional Palauan fishing techniques. Campers [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/youths-hook-fishing-skills-and-palauan-traditions-at-uchul-a-chei-fishers-camp/">Youths Hook Fishing Skills and Palauan Traditions at Uchul a Chei Fishers Camp</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/youths-hook-fishing-skills-and-palauan-traditions-at-uchul-a-chei-fishers-camp/>
+
+---
+
+## MAFE supports bill for rock lobster harvesting
+
+date: 2024-04-02, from: Island Times
+
+<p>The Ministry of Agriculture, Fisheries, and Environment (MAFE) supported the proposed bill to permit berried female rock lobster harvesting and commerce for marine and aquaculture projects. In a letter to Senator Umiich Sengebau, MAFE&#160; Minister Steven Victor said that the Ministry agrees with the bill&#8217;s intent” to promote mariculture and aquaculture development of local food. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/mafe-supports-bill-for-rock-lobster-harvesting/">MAFE supports bill for rock lobster harvesting</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/mafe-supports-bill-for-rock-lobster-harvesting/>
+
+---
+
+## Celebrating 30yrs Palau Conservation Society
+
+date: 2024-04-02, from: Island Times
+
+<figure><img width="659" height="265" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1.jpg?fit=659%2C265&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1.jpg?w=659&amp;ssl=1 659w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1.jpg?resize=300%2C121&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1.jpg?resize=400%2C161&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1.jpg?fit=659%2C265&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69551" data-permalink="https://islandtimes.org/celebrating-30yrs-palau-conservation-society/untitled-1-83/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1.jpg?fit=659%2C265&amp;ssl=1" data-orig-size="659,265" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Untitled-1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1.jpg?fit=300%2C121&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1.jpg?fit=659%2C265&amp;ssl=1" /></figure>
+<p>As the Palau Conservation Society (PCS) marks the onset of its 30th anniversary, an auspicious meeting convened between the PCS Executive Board Officers, co-founders Mr. Noah Idechong and Ms. Sandra Pierantozzi, and President Surangel S. Whipps of the Republic of Palau. This gathering set the stage for a series of celebratory events, highlighting a significant [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/celebrating-30yrs-palau-conservation-society/">Celebrating 30yrs Palau Conservation Society</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/celebrating-30yrs-palau-conservation-society/>
+
+---
+
+## SILENCE is WISER
+
+date: 2024-04-02, from: Island Times
+
+<figure><img width="900" height="900" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/unnamed.jpg?fit=900%2C900&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/unnamed.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/unnamed.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/unnamed.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/unnamed.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/unnamed.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/unnamed.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/unnamed.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/unnamed.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/unnamed.jpg?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/unnamed.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/unnamed.jpg?fit=900%2C900&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69549" data-permalink="https://islandtimes.org/silence-is-wiser/unnamed-20/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/unnamed.jpg?fit=900%2C900&amp;ssl=1" data-orig-size="900,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="unnamed" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/unnamed.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/unnamed.jpg?fit=780%2C780&amp;ssl=1" /></figure>
+<p>A fool vents all her feelings, But a wise Woman holds them back. Proverbs 29:11 This wisdom is a straight kick to the stomach for me as I recall the times I spoke all that I felt without any type of filter. I can make excuses and say I was young and foolish which is [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/silence-is-wiser/">SILENCE is WISER</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/silence-is-wiser/>
+
+---
+
+## The Silent Majority
+
+date: 2024-04-02, from: Island Times
+
+<figure><img width="400" height="403" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/review-icon-png-23.png?fit=400%2C403&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/review-icon-png-23.png?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/review-icon-png-23.png?resize=298%2C300&amp;ssl=1 298w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/review-icon-png-23.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/review-icon-png-23.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/review-icon-png-23.png?fit=400%2C403&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69547" data-permalink="https://islandtimes.org/the-silent-majority-8/review-icon-png-23-8/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/review-icon-png-23.png?fit=400%2C403&amp;ssl=1" data-orig-size="400,403" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="review-icon-png-23" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/review-icon-png-23.png?fit=298%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/review-icon-png-23.png?fit=400%2C403&amp;ssl=1" /></figure>
+<p>by Alonzo Kahalic alkahalic6801@gmail.com Leadership on Air: Empty Words Dear Editor, In leadership, there&#8217;s a stark difference between those who truly lead and those who merely bask in the limelight of public hearings, using carefully crafted words to create an illusion of commitment to the people. Today, I want to shed light on the burden [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-silent-majority-8/">The Silent Majority</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/the-silent-majority-8/>
+
+---
+
+## 2,000 Marines, sailors arrive in Australia for six months of Training, Exercises
+
+date: 2024-04-02, from: Island Times
+
+<p>DARWIN/WASHINGTON, 29 MARCH 2024 (US DEFENCE) &#8212;Approximately 2,000 Marines and sailors deployed to Australia&#8217;s Northern Territory this week to participate alongside their counterparts in the annual iteration of Marine Rotational Force-Darwin, the Pentagon announced today. “Over the next six months, MRF-Darwin will conduct a series of exercises and training events with the Australian Defence Force [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/2000-marines-sailors-arrive-in-australia-for-six-months-of-training-exercises/">2,000 Marines, sailors arrive in Australia for six months of Training, Exercises</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/2000-marines-sailors-arrive-in-australia-for-six-months-of-training-exercises/>
+
+---
+
+## 70 years after Bikini Atoll blast, model boat offers timely reminder
+
+date: 2024-04-02, from: Island Times
+
+<p>MAJURO, 01 APRIL 2024 (ASHASHI SIMBUN)&#8212;A miniature replica of a Japanese tuna fishing boat whose crew encountered fallout from a U.S thermonuclear test at Bikini Atoll in 1954 now takes pride of place in the Marshall Islands. The delicate hand-crafted model of Daigo Fukuryu Maru (Lucky Dragon No. 5) was gifted in 2002 by a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/70-years-after-bikini-atoll-blast-model-boat-offers-timely-reminder/">70 years after Bikini Atoll blast, model boat offers timely reminder</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/70-years-after-bikini-atoll-blast-model-boat-offers-timely-reminder/>
+
+---
+
+## In Taiwan, a group is battling fake news one conversation at a time — with a focus on seniors
+
+date: 2024-04-02, from: Island Times
+
+<figure><img width="1024" height="696" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/In-Taiwan.jpg?fit=1024%2C696&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/In-Taiwan.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/In-Taiwan.jpg?resize=300%2C204&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/In-Taiwan.jpg?resize=768%2C522&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/In-Taiwan.jpg?resize=400%2C272&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/In-Taiwan.jpg?resize=706%2C480&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/In-Taiwan.jpg?fit=1024%2C696&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69538" data-permalink="https://islandtimes.org/in-taiwan-a-group-is-battling-fake-news-one-conversation-at-a-time-with-a-focus-on-seniors/in-taiwan/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/In-Taiwan.jpg?fit=1024%2C696&amp;ssl=1" data-orig-size="1024,696" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS-1D X Mark II&quot;,&quot;caption&quot;:&quot;Students of Fake News Cleaner learn how to use the LINE app to identify fake news during a class in Kaohsiung City, southern Taiwan, Thursday, March 16, 2023. An anti-misinformation group in Taiwan called Fake News Cleaner has hosted more than 500 events, connecting with college students, elementary-school children \u2014 and the seniors that, some say, are the most vulnerable to such efforts. (AP Photo\/Chiang Ying-ying)&quot;,&quot;created_timestamp&quot;:&quot;1678996294&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;88&quot;,&quot;iso&quot;:&quot;1000&quot;,&quot;shutter_speed&quot;:&quot;0.0125&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="In Taiwan" data-image-description="" data-image-caption="&lt;p&gt;Students of Fake News Cleaner learn how to use the LINE app to identify fake news during a class in Kaohsiung City, southern Taiwan, Thursday, March 16, 2023. An anti-misinformation group in Taiwan called Fake News Cleaner has hosted more than 500 events, connecting with college students, elementary-school children — and the seniors that, some say, are the most vulnerable to such efforts. (AP Photo/Chiang Ying-ying)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/In-Taiwan.jpg?fit=300%2C204&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/In-Taiwan.jpg?fit=780%2C530&amp;ssl=1" /></figure>
+<p>By HUIZHONG WU Associated Press TAIPEI, Taiwan (AP) — Their days often began at the crack of dawn. They’d head out to a church, a temple, a park and set up a stall. They’d seek out seniors in particular, those who are perhaps the most vulnerable citizens of the information-saturated society that has enveloped them. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/in-taiwan-a-group-is-battling-fake-news-one-conversation-at-a-time-with-a-focus-on-seniors/">In Taiwan, a group is battling fake news one conversation at a time — with a focus on seniors</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/in-taiwan-a-group-is-battling-fake-news-one-conversation-at-a-time-with-a-focus-on-seniors/>
+
+---
+
+## Election of Donald Trump ‘could put world’s climate goals at risk’
+
+date: 2024-04-02, from: Island Times
+
+<p>WASHINGTON, 01 APRIL 2024 (THE GUARDIAN) &#8212;Victory for Donald Trump in the U.S presidential election this year could put the world’s climate goals at risk, a former UN climate chief has said. The chances of limiting global heating to 1.5C above pre-industrial levels are already slim, and Trump’s antipathy to climate action would have a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/election-of-donald-trump-could-put-worlds-climate-goals-at-risk/">Election of Donald Trump ‘could put world’s climate goals at risk’</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/election-of-donald-trump-could-put-worlds-climate-goals-at-risk/>
+
+---
+
+## LeBron James ties career high with 9 3-pointers, scores 40 points as Lakers beat Nets 116-104
+
+date: 2024-04-02, from: Island Times
+
+<figure><img width="1024" height="701" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Lebron-James-ties.jpg?fit=1024%2C701&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Lebron-James-ties.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Lebron-James-ties.jpg?resize=300%2C205&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Lebron-James-ties.jpg?resize=768%2C526&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Lebron-James-ties.jpg?resize=400%2C274&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Lebron-James-ties.jpg?resize=706%2C483&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Lebron-James-ties.jpg?fit=1024%2C701&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69535" data-permalink="https://islandtimes.org/lebron-james-ties-career-high-with-9-3-pointers-scores-40-points-as-lakers-beat-nets-116-104/lebron-james-ties/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Lebron-James-ties.jpg?fit=1024%2C701&amp;ssl=1" data-orig-size="1024,701" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;John Munson&quot;,&quot;camera&quot;:&quot;Canon EOS-1D X&quot;,&quot;caption&quot;:&quot;Los Angeles Lakers forward LeBron James (23) drives around Brooklyn Nets guard Mikal Bridges (1) during the first half of an NBA basketball game Sunday, March 31, 2024, in New York. (AP Photo\/John Munson)&quot;,&quot;created_timestamp&quot;:&quot;1711910562&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved.&quot;,&quot;focal_length&quot;:&quot;170&quot;,&quot;iso&quot;:&quot;3200&quot;,&quot;shutter_speed&quot;:&quot;0.000625&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Lebron James ties" data-image-description="" data-image-caption="&lt;p&gt;Los Angeles Lakers forward LeBron James (23) drives around Brooklyn Nets guard Mikal Bridges (1) during the first half of an NBA basketball game Sunday, March 31, 2024, in New York. (AP Photo/John Munson)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Lebron-James-ties.jpg?fit=300%2C205&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Lebron-James-ties.jpg?fit=780%2C534&amp;ssl=1" /></figure>
+<p>By CHRIS SHERIDAN Associated Press NEW YORK (AP) — LeBron James would only hint at how long he expects to keep playing NBA basketball. “Not very long, I’m not going to play another 21 years, that’s for damn sure,” James said after he had one of the best shooting nights of his illustrious career, going [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/lebron-james-ties-career-high-with-9-3-pointers-scores-40-points-as-lakers-beat-nets-116-104/">LeBron James ties career high with 9 3-pointers, scores 40 points as Lakers beat Nets 116-104</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/lebron-james-ties-career-high-with-9-3-pointers-scores-40-points-as-lakers-beat-nets-116-104/>
+
+---
+
+## Danielle Collins wins Miami Open on her final try, topping Elena Rybakina in straight sets
+
+date: 2024-04-02, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Danielle-Collins.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Danielle-Collins.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Danielle-Collins.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Danielle-Collins.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Danielle-Collins.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Danielle-Collins.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Danielle-Collins.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69533" data-permalink="https://islandtimes.org/danielle-collins-wins-miami-open-on-her-final-try-topping-elena-rybakina-in-straight-sets/danielle-collins/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Danielle-Collins.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Lynne Sladky&quot;,&quot;camera&quot;:&quot;ILCE-9M3&quot;,&quot;caption&quot;:&quot;Danielle Collins holds her trophy after defeating Elena Rybakina, of Kazakhstan, in the women&#039;s singles final of the Miami Open tennis tournament, Saturday, March 30, 2024, in Miami Gardens, Fla. (AP Photo\/Lynne Sladky)&quot;,&quot;created_timestamp&quot;:&quot;1711819771&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;200&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.00125&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Danielle Collins" data-image-description="" data-image-caption="&lt;p&gt;Danielle Collins holds her trophy after defeating Elena Rybakina, of Kazakhstan, in the women&#8217;s singles final of the Miami Open tennis tournament, Saturday, March 30, 2024, in Miami Gardens, Fla. (AP Photo/Lynne Sladky)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Danielle-Collins.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Danielle-Collins.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By MARC BERMAN Associated Press MIAMI GARDENS, Fla. (AP) — Danielle Collins had the perfect send-off at her final Miami Open, beating Elena Rybakina 7-5, 6-3 on Saturday to capture the title in her home state before an adoring crowd that included Andre Agassi and Martina Navratilova. The 30-year-old Collins announced at the Australian Open [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/danielle-collins-wins-miami-open-on-her-final-try-topping-elena-rybakina-in-straight-sets/">Danielle Collins wins Miami Open on her final try, topping Elena Rybakina in straight sets</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/danielle-collins-wins-miami-open-on-her-final-try-topping-elena-rybakina-in-straight-sets/>
+
+---
+
+## Frontier Airlines overhauls network, turns to premium seats in comeback
+
+date: 2024-04-02, updated: 2024-04-02, from: Marianas Variety
+
+CHICAGO (Reuters) — U.S. no-frills carrier Frontier Airlines is focusing on growing its network in "high fare" markets like Seattle and Detroit at the expense of its footprint in leisure markets such as Las Vegas and Florida in a bid to lift earnings, its CEO told Reuters. 
+
+<https://www.mvariety.com/business/frontier-airlines-overhauls-network-turns-to-premium-seats-in-comeback/article_43881a26-f0b8-11ee-b853-537915d7e581.html>
+
+---
+
+## US, Britain announce partnership on AI safety, testing
+
+date: 2024-04-02, updated: 2024-04-02, from: Marianas Variety
+
+WASHINGTON (Reuters) — The United States and Britain on Monday announced a new partnership on the science of artificial intelligence safety, amid growing concerns about upcoming next-generation versions. 
+
+<https://www.mvariety.com/business/us-britain-announce-partnership-on-ai-safety-testing/article_c8509c70-f0b7-11ee-a7c5-0bb70101cd88.html>
+
+---
+
+## US anti-Muslim incidents hit record high in 2023 due to Israel-Gaza war
+
+date: 2024-04-02, updated: 2024-04-02, from: Marianas Variety
+
+WASHINGTON (Reuters) — Reported discrimination and attacks against Muslims and Palestinians reached a record high in the U.S. in 2023, driven by rising Islamophobia and bias as the Israel-Gaza war raged late in the year, data from an advocacy group showed on Tuesday. 
+
+<https://www.mvariety.com/news/national/us-anti-muslim-incidents-hit-record-high-in-2023-due-to-israel-gaza-war/article_8aef0bb0-f0b6-11ee-ae67-3b74bc9475a0.html>
+
+---
+
+## US tells Iran it 'had no involvement' in Israel strike, Axios reports
+
+date: 2024-04-02, updated: 2024-04-02, from: Marianas Variety
+
+(Reuters) — The U.S. told Iran that it "had no involvement" or advanced knowledge of an Israeli strike on a diplomatic compound in Syria, Axios reported on Monday citing a U.S. official. 
+
+<https://www.mvariety.com/news/national/us-tells-iran-it-had-no-involvement-in-israel-strike-axios-reports/article_9100b338-f0b5-11ee-85f7-07a13d0f33b8.html>
+
+---
+
+## Florida top court allows for near-total abortion ban; says voters can decide issue in November
+
+date: 2024-04-02, updated: 2024-04-02, from: Marianas Variety
+
+(Reuters) — Florida's top court on Monday cleared the way for a Republican-backed law banning abortion after six weeks of pregnancy to take effect, but also approved an initiative to let voters decide whether to amend the state's constitution to establish a right to an abortion. 
+
+<https://www.mvariety.com/news/national/florida-top-court-allows-for-near-total-abortion-ban-says-voters-can-decide-issue-in/article_2b70d1b0-f0b5-11ee-b57e-2f93a673d0a5.html>
+
+---
+
+## Last USS Arizona survivor of Pearl Harbor attack dies at 102
+
+date: 2024-04-02, updated: 2024-04-02, from: Marianas Variety
+
+LOS ANGELES (Reuters) — U.S. Navy veteran Louis Conter, the last surviving crew member from the battleship USS Arizona, which was destroyed by Japanese warplanes in the attack on Pearl Harbor more than eight decades ago, has died at age 102. 
+
+<https://www.mvariety.com/news/national/last-uss-arizona-survivor-of-pearl-harbor-attack-dies-at-102/article_c0702b18-f0b4-11ee-a4f4-ef087fc5c2a0.html>
+
+---
+
+## Iran says Israel bombs its embassy in Syria, kills commanders
+
+date: 2024-04-02, updated: 2024-04-02, from: Marianas Variety
+
+DAMASCUS (Reuters) — Suspected Israeli warplanes bombed Iran's embassy in Syria on Monday in a strike that Iran said killed seven of its military advisers, including three senior commanders, marking a major escalation in Israel's war with its regional adversaries. 
+
+<https://www.mvariety.com/news/iran-says-israel-bombs-its-embassy-in-syria-kills-commanders/article_67d5b4f0-f0b4-11ee-b91f-7fc6ea4f4fb6.html>
+
+---
+
+## Israel airstrike on Gaza kills foreigners working for celebrity chef's NGO
+
+date: 2024-04-02, updated: 2024-04-02, from: Marianas Variety
+
+(Reuters) — Citizens from Australia, Britain and Poland were among at least five people working for celebrity chef Jose Andres' NGO, World Central Kitchen, who were killed in an Israeli airstrike in central Gaza on Monday, a Gaza government media official said. 
+
+<https://www.mvariety.com/news/israel-airstrike-on-gaza-kills-foreigners-working-for-celebrity-chefs-ngo/article_f273f9a2-f0b2-11ee-9dc9-eba0220843b4.html>
+
+---
+
+## Thailand records 9.4 million tourists in first 3 months, $12.4 billion in spending, government says
+
+date: 2024-04-02, updated: 2024-04-02, from: Marianas Variety
+
+(Reuters) — Thailand recorded 9.4 million foreign tourists in the first three months of this year, who contributed an estimated 454.6 billion baht ($12.4 billion) to the economy in spending, the tourism ministry said on Tuesday. 
+
+<https://www.mvariety.com/news/thailand-records-9-4-million-tourists-in-first-3-months-12-4-billion-in-spending/article_a979892e-f0b2-11ee-9fcb-53d9d68b32bb.html>
+
+---
+
+## Panic in Haiti's capital as wild shooting fills streets
+
+date: 2024-04-02, updated: 2024-04-02, from: Marianas Variety
+
+PORT-AU-PRINCE (Reuters) — Panic set in around downtown Port-au-Prince on Monday as wild shooting filled the streets of Haiti's capital, with heavy gunfire near the national palace. 
+
+<https://www.mvariety.com/news/panic-in-haitis-capital-as-wild-shooting-fills-streets/article_ffc49374-f0b1-11ee-a93e-e7758ee67203.html>
+
+---
+
+## INSIGHTS ON PBS HAWAIʻI Public Financing for Elections – The Pros and Cons
+
+date: 2024-04-02, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Join the conversation on our Facebook , Thursday, April 11  at 7:30 pm on INSIGHTS ON PBS HAWAIʻI. Scheduled Guests: tba</p>
+<p>The post <a href="https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-public-financing-for-elections-the-pros-and-cons/">INSIGHTS ON PBS HAWAIʻI &lt;br/&gt;Public Financing for Elections &#8211; The Pros and Cons</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-public-financing-for-elections-the-pros-and-cons/>
+
+---
+
+## GFD extinguishes fire on Cocos Island
+
+date: 2024-04-02, from: Guam Daily Post
+
+Units from the Guam Fire Department extinguished a fire at Cocos Island on Tuesday afternoon. 
+
+<https://www.postguam.com/news/gfd-extinguishes-fire-on-cocos-island/article_719417d0-f090-11ee-9d1a-27c678491163.html>
+
+---
+
+## Self-care focus of nationally recognized presentation
+
+date: 2024-04-02, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> <span aria-label="Kaaiakamanu">Ka&#699;aiakamanu</span>-Quibilan and Ozoa-Aglugub will present at the 2024 <abbr>NACADA</abbr> national conference in October at Pittsburgh, Pennsylvania.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/01/self-care-national-presentation/">Self-care focus of nationally recognized presentation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/01/self-care-national-presentation/>
+
+---
+
+## GPD: Lasy Hauk identified as suspect in Maite gas station carjacking
+
+date: 2024-04-01, from: Guam Daily Post
+
+The Guam Police Department is seeking the community's assistance with finding a suspect in a Maite gas station carjacking last month. 
+
+<https://www.postguam.com/news/gpd-lasy-hauk-identified-as-suspect-in-maite-gas-station-carjacking/article_771ab49a-f07f-11ee-bb6c-cb3ddd2ca615.html>
+
+---
+
+## AI breakthrough: UH researchers help uncover climate impact on whales
+
+date: 2024-04-01, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>UH</abbr> researchers contributed more than 10,000 images of humpback whale tail flukes for the study which utilized artificial intelligence recognition.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/01/ai-breakthrough-climate-impact-on-whales/"><abbr>AI</abbr> breakthrough: <abbr>UH</abbr> researchers help uncover climate impact on whales</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/01/ai-breakthrough-climate-impact-on-whales/>
+
+---
+
+## Davies, Wahinekapu earn women’s basketball academic honors
+
+date: 2024-04-01, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Olivia Davies and Lily Wahinekapu are recognized for their work on the court and in the classroom.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/01/davies-wahinekapu-basketball-academic-honors/">Davies, Wahinekapu earn women’s basketball academic honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/01/davies-wahinekapu-basketball-academic-honors/>
+
+---
+
+## ‘Bows send seniors out in dramatic fashion, 3-2
+
+date: 2024-04-01, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+The Rainbow Warriors closed out their back-to-back series in theatrical fashion against the UC Santa Barbara Gauchos, 25-21, 26-24, 23-25, 25-21,15-12. 
+
+<https://www.manoanow.org/kaleo/bows-send-seniors-out-in-dramatic-fashion-3-2/article_be7b1ee8-f074-11ee-8930-07d2198189c5.html>
+
+---
+
+## April 2024 anniversaries
+
+date: 2024-04-01, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> The University of <span aria-label="Hawaii">Hawai&#699;i</span> celebrates April 2024 faculty and staff anniversaries.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/01/april-2024-anniversaries/">April 2024 anniversaries</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/01/april-2024-anniversaries/>
+
+---
+
+## Components
+
+date: 2024-04-01, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Helena Jiang Somewhere else: the mother bear passed a paw across her child’s head, while informing him of some stories remote, about how somewhere else, somewhere faraway in time there were a pair of shoes, vest-pocket size, one of &#8230; <a href="https://hawaiipacificreview.org/2024/04/01/components/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/04/01/components/>
 
 ---
 
@@ -462,6 +1241,16 @@ date: 2024-03-31, from: Guam Daily Post
  
 
 <https://www.postguam.com/entertainment/lifestyle/families-gather-at-dusit-thani-for-easter-festivities/article_11ca9af6-ef3f-11ee-b28f-b74e3e055b94.html>
+
+---
+
+## Petition against 'suruhano' prompts revamp of Guam's FestPac delegation
+
+date: 2024-03-31, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Guam Council on the Arts and Humanities is set to overhaul the island’s cultural delegation to the... 
+
+<https://www.pacificislandtimes.com/post/petition-against-healer-prompts-overhaul-of-guam-s-festpac-delegation>
 
 ---
 

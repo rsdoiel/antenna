@@ -1,11 +1,71 @@
 ---
 title: motorcycles 2024.14
-updated: 2024-04-01 08:52:33
+updated: 2024-04-02 08:54:55
 ---
 
 # motorcycles 2024.14
 
-(date: 2024-04-01 08:52:33)
+(date: 2024-04-02 08:54:55)
+
+---
+
+## Stop What You're Doing And Look At The Honda Monkey Star Wars Edition
+
+date: 2024-04-02, from: Ride Apart, Electric Motorcycle News
+
+Which side of the Force will you ride on, the Dark Side or the Light Side?  
+
+<https://www.rideapart.com/news/714376/honda-monkey-star-wars-edition/>
+
+---
+
+## You Have to Check Out The Time-Traveling Honda Dax 1978 Special Edition
+
+date: 2024-04-02, from: Ride Apart, Electric Motorcycle News
+
+Cub House Honda is at it again. 
+
+<https://www.rideapart.com/news/714279/honda-dax-1978-special-edition/>
+
+---
+
+## Peugeot Wants To Charge Up Your Commute With The New SPx Concept
+
+date: 2024-04-02, from: Ride Apart, Electric Motorcycle News
+
+It's apparently inspired by the Peugeot 103 of 1971.  
+
+<https://www.rideapart.com/news/712003/peugeot-spx-electric-concept/>
+
+---
+
+## Kymco To Make LiveWire S3
+
+date: 2024-04-01, from: Cycle World News
+
+Harley-Davidson spun off LiveWire as a separate company back in 2021 and has since partnered with Kymco, who will build a scaled-down LiveWire S3. 
+
+<https://www.cycleworld.com/motorcycle-news/kymco-to-make-livewire-s3/>
+
+---
+
+## Chilling Adventures of Sabrina Actor Chance Perdomo Killed in Motorcycle Accident
+
+date: 2024-04-01, from: Ride Apart, Electric Motorcycle News
+
+The actor was 27 years old.  
+
+<https://www.rideapart.com/news/714538/chance-perdomo-motorcycle-accident-death/>
+
+---
+
+## Feast Your Eyes On This Custom Henderson De Luxe Trike
+
+date: 2024-04-01, from: Ride Apart, Electric Motorcycle News
+
+A masterfully crafted amalgamation of automotive parts.  
+
+<https://www.rideapart.com/news/714465/custom-henderson-deluxe-trike/>
 
 ---
 

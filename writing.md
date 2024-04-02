@@ -1,11 +1,175 @@
 ---
 title: writing 2024.14
-updated: 2024-04-01 08:52:33
+updated: 2024-04-02 08:54:54
 ---
 
 # writing 2024.14
 
-(date: 2024-04-01 08:52:33)
+(date: 2024-04-02 08:54:54)
+
+---
+
+## 4 Tips to Never Forget Your Protagonist
+
+date: 2024-04-02, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/4-tips-to-never-forget-your-protagonist" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Star%20Wars.jpg" alt="Luke Skywalker (Mark Hamill) holding a blue lightsaber in 'Star Wars,' 4 Tips to Never Forget Your Protagonist" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>Your protagonist is the main character of your feature screenplay or television pilot.</span></p> 
+
+<https://blog.finaldraft.com/4-tips-to-never-forget-your-protagonist>
+
+---
+
+## Love and Money
+
+date: 2024-04-02, from: John August blog
+
+John and Craig look at four unbelievable stories in the news and ask, How Would This Be a Movie? Stories include a finance journalist who was scammed out of her savings, men who offer dating bounties, a franken-sheep made of cloned animal parts, and how standardized tests changed one woman’s life. We also reveal which [&#8230;]
+The post <a href="https://johnaugust.com/2024/love-and-money">Love and Money</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/love-and-money>
+
+---
+
+## Gabino Iglesias Reviews The Wrong Girl & Other Warnings by Angela Slatter
+
+date: 2024-04-02, from: Locus Magazine
+
+<p><strong>The Wrong Girl &#38; Other Warnings</strong>, An­gela Slatter (Brain Jar Press 978-1-92247-961-7, $14.99, 186pp, tp) October 2023</p>
+<p>Sometimes awards don’t mean much, but Angela Slatter’s accomplishments – a Shirley Jackson Award, a World Fantasy Award, a Brit­ish Fantasy Award, three Australian Shadows Awards, and eight Aurealis Awards – point to one thing very clearly: She’s a superb writer. She’s also a writer who is constantly pushing the envelope of  <a href="https://locusmag.com/2024/04/gabino-iglesias-reviews-the-wrong-girl-other-warnings-by-angela-slatter/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/gabino-iglesias-reviews-the-wrong-girl-other-warnings-by-angela-slatter/>
+
+---
+
+## 2024 Imadjinn Awards Finalists
+
+date: 2024-04-02, from: Locus Magazine
+
+<p>Finalists for the 2024 Imadjinn Awards have been announced.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Science Fiction Novel</strong></p>
+<ul>
+<li><strong>Theft of Fire: Orbital Space #1</strong>, Devon Eriksen (Devon Eriksen LLC)</li>
+<li><strong>Dust of the Ocean</strong>, Dorothy Grant (Self published)</li>
+<li><strong>Prince Liberator</strong>, Fred Hughes (Theogony)</li>
+<li><strong>Standing Among The Tombstones</strong>, William Alan Webb (Self published)</li>
+</ul>
+<p><strong>Best Fantasy Novel</strong></p>
+<ul>
+<li><strong>Nexus</strong>, Jeff Dunne (Wyrder)</li>
+<li><strong>Heart Master</strong>, Nikolas Everhart (Dragon Street Press)</li>
+<li><strong>Dagger of Orion</strong>, </li></ul></div> <a href="https://locusmag.com/2024/04/2024-imadjinn-awards-finalists/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/04/2024-imadjinn-awards-finalists/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-02, from: Neil Gaiman @ BlueSky)
+
+The stars are out tonight. 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kp4io5jcnd2j>
+
+---
+
+## 2023 Chesley Awards Winners
+
+date: 2024-04-01, from: Locus Magazine
+
+<p>The 2023 Chesley Awards winners were announced by the Association of Science Fiction &#38; Fantasy Artists (ASFA):</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Hardback Illustration</strong></p>
+<ul>
+<li>WINNER: Manzi Jackson for <strong>Africa Risen</strong> by Sheree Renée Thomas, Oghenechovwe Donald Ekpeki &#38; Zelda Knight, eds. (Tor)</li>
+</ul>
+<ul>
+<li>Marcela Bolívar for <strong>Blackwater</strong> by Michael McDowell (Suntup Editions)</li>
+<li>Donato Giancola for <strong>The Dragonborne Chair</strong> by Tad Williams (Grim Oak)</li>
+<li>Tran Nguyen for <strong>The Dragon’s Promise</strong> by Elizabeth Lim (Knopf Books for </li></ul></div> <a href="https://locusmag.com/2024/04/2023-chesley-awards-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/04/2023-chesley-awards-winners/>
+
+---
+
+## Weekly Bestsellers, 1 April 2024
+
+date: 2024-04-01, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+<p>The third book in Rebecca Yarros&#8217;s Empyrean series, <b>Onyx Storm</b> (Entangled: Red Tower Books), is now available on the Amazon sites for pre-publication sales &#8212; it will be published Jan. 21, 2025. This morning it ranks #1 on Amazon.com and Amazon Canada, #10 on Amazon UK.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+04.07
+LAT
+03.31
+USAT 
+03.24
+PW 
+04.01
+Amz 
+(04.01)
+UK:
+Amz UK 
+(04.01)
+Canada:
+Amz.ca 
+(04.01) <a href="https://locusmag.com/2024/04/weekly-bestsellers-1-april-2024/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/04/weekly-bestsellers-1-april-2024/>
+
+---
+
+## Scriptnotes, Episode 632: Mystery and Suspense, Transcript
+
+date: 2024-04-01, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August, and this is Episode 632 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today’s episode is about mystery and suspense. It’s also a best of episode. To explain why we’re [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-632-mystery-and-suspense-transcript">Scriptnotes, Episode 632: Mystery and Suspense, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/scriptnotes-episode-632-mystery-and-suspense-transcript>
+
+---
+
+## Scriptnotes, Episode 631: Adapting for Television, Transcript
+
+date: 2024-04-01, from: John August blog
+
+The transcript for this episode can be found here. John August: Hey, this is John. Today’s episode has a few F-bombs, just in the One Cool Thing section. So if you’re listening with your kids in the car, you can skip just that section. Hello and welcome. My name is John August, and you’re listening [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-631-adapting-for-television-transcript">Scriptnotes, Episode 631: Adapting for Television, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/scriptnotes-episode-631-adapting-for-television-transcript>
+
+---
+
+## Jacobs Wins 2024 Philip K. Dick Award
+
+date: 2024-04-01, from: Locus Magazine
+
+<p><strong>These Burning Stars </strong>by Bethany Jacobs (Orbit) is the winner of the 2024 Philip K. Dick Award.</p>
+<p><strong>The Museum of Human History </strong>by Rebekah Bergman (Tin House) received a special citation.</p>
+<p>The other nominees were:</p>
+<ul>
+<li><strong>Danged Black Thing</strong>, Eugen Bacon (Apex)</li>
+<li><strong>Infinity Gate</strong>, M.R. Carey (Orbit)</li>
+<li><strong>Wild Spaces</strong>, S.L. Coney (Tordotcom)</li>
+<li><strong>Where Rivers Go to Die</strong>, Dilman Dila (Rosarium)</li>
+</ul>
+<p>The award is presented annually to a  <a href="https://locusmag.com/2024/04/jacobs-wins-2024-philip-k-dick-award/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/jacobs-wins-2024-philip-k-dick-award/>
 
 ---
 
@@ -33,12 +197,12 @@ date: 2024-04-01, from: Locus Magazine
 
 ---
 
-## Big Break: Take Your Screenwriting Career to the Next Level
+## How Writer Alix Reeves Reached New Heights with Big Break
 
 date: 2024-04-01, from: Final Draft blog
 
 <div class="hs-featured-image-wrapper"> 
- <a href="https://blog.finaldraft.com/big-break-take-your-screenwriting-career-to-the-next-level" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Big%20Break%20logo%202400x1350.jpg" alt="A white background with purple text; Big Break: Take Your Screenwriting Career to the Next Level" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+ <a href="https://blog.finaldraft.com/big-break-take-your-screenwriting-career-to-the-next-level" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Big%20Break%20logo%202400x1350.jpg" alt="A white background with purple text; How Writer Alix Reeves Reached New Heights with Big Break" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
 </div> 
 <p>Screenwriting competitions can take your screenwriting career to the next level, just ask Big Break grand prize winner <a href="https://writers.coverfly.com/profile/writer-d4a7198b8-188041">Alix Reeves</a> for her screenplay, <span style="font-style: italic;"><a href="https://writers.coverfly.com/projects/view/b353e374-6b25-4d1f-bba2-4239cf0c258a/QUEENPINS">QUEENPINS</a>. </span></p> 
 
