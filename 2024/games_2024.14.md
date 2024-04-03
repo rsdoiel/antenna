@@ -1,11 +1,91 @@
 ---
 title: games 2024.14
-updated: 2024-04-02 08:54:54
+updated: 2024-04-03 08:04:35
 ---
 
 # games 2024.14
 
-(date: 2024-04-02 08:54:54)
+(date: 2024-04-03 08:04:35)
+
+---
+
+## Wyrmspan, successor to bestselling Wingspan, doesn’t stray far
+
+date: 2024-04-03, updated: 2024-04-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/tabletop-games/24119049/wyrmspan-wingspan-sequel-review>
+
+---
+
+## You can watch the solar eclipse on Twitch or in Fortnite, thanks to NASA
+
+date: 2024-04-03, updated: 2024-04-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24119895/how-watch-solar-eclipse-what-time-twitch-fortnite-minecraft-nasa>
+
+---
+
+## American Horror Story: Delicate is back to do what AHS does best
+
+date: 2024-04-03, updated: 2024-04-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24111640/american-horror-story-delicate-kardashian-part-2-return>
+
+---
+
+## Destiny 2 is getting its two best missions back before The Final Shape
+
+date: 2024-04-02, updated: 2024-04-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24119354/into-light-whisper-zero-hour-worm-outbreak-final-shape>
+
+---
+
+## Mission Talita is a Grand Theft Auto mod meant to stop trafficking
+
+date: 2024-04-02, updated: 2024-04-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24119385/mission-talita-grand-theft-auto-mod-nonprofit-sex-trafficking>
+
+---
+
+## How to get a Medusa Head in Dragon’s Dogma 2
+
+date: 2024-04-02, updated: 2024-04-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24118905/medusa-head-location-how-to-get-preserved>
+
+---
+
+## In defense of Stardew Valley’s fantastically frustrating fishing
+
+date: 2024-04-02, updated: 2024-04-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gaming/24118191/stardew-valley-fishing-defense>
+
+---
+
+## How to get the true ending of Dragon’s Dogma 2
+
+date: 2024-04-02, updated: 2024-04-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24118332/true-ending-how-to-get-good-bad-endings>
 
 ---
 

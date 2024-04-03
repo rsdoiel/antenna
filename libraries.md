@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.14
-updated: 2024-04-02 08:54:54
+updated: 2024-04-03 08:04:35
 ---
 
 # libraries 2024.14
 
-(date: 2024-04-02 08:54:54)
+(date: 2024-04-03 08:04:35)
+
+---
+
+## Kitchen Essentials: An Interview with Tracey Armstrong of CCC
+
+date: 2024-04-03, from: Scholarly Kitchen
+
+<p>In today’s Kitchen Essentials interview, Roger Schonfeld speaks with Tracey Armstrong of CCC, the information solutions provider to organizations around the world. </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/04/03/kitchen-essentials-tracey-armstrong-ccc/">Kitchen Essentials: An Interview with Tracey Armstrong of CCC</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/04/03/kitchen-essentials-tracey-armstrong-ccc/>
 
 ---
 

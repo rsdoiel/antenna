@@ -1,11 +1,126 @@
 ---
 title: columns 2024.14
-updated: 2024-04-02 08:54:54
+updated: 2024-04-03 08:04:35
 ---
 
 # columns 2024.14
 
-(date: 2024-04-02 08:54:54)
+(date: 2024-04-03 08:04:35)
+
+---
+
+## Class-Action Lawsuit against Google’s Incognito Mode
+
+date: 2024-04-03, updated: 2024-04-02, from: Bruce Schneier blog
+
+<p>The lawsuit has been <a href="https://www.wired.com/story/google-chrome-incognito-mode-data-deletion-settlement/">settled</a>:</p>
+<blockquote><p>Google has agreed to delete &#8220;billions of data records&#8221; the company collected while users browsed the web using Incognito mode, according to <a href="https://www.documentcloud.org/documents/24527732-brown-v-google-llc-settlement-agreement?responsive=1&#038;title=1">documents filed in federal court</a> in San Francisco on Monday. The agreement, part of a settlement in a class action lawsuit filed in 2020, caps off years of disclosures about Google’s practices that shed light on how much data the tech giant siphons from its users­&#8212;even when they’re in private-browsing mode.</p>
+<p>Under the terms of the settlement, Google must further update the Incognito mode “splash page” that appears anytime you open an Incognito mode Chrome window after ...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/04/class-action-lawsuit-against-googles-incognito-mode.html>
+
+---
+
+## AIs as the best of us
+
+date: 2024-04-03, from: Enlightenment Economics blog
+
+Another book of many out on AI is As If Human: Ethics and Artifical Intelligence by Nigel Shadbolt and Roger Hampson. I found this a very accessible book on AI ethics, possibly because neither author is an academic philosopher (sorry, &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2024/04/ais-as-the-best/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2024/04/ais-as-the-best/>
+
+---
+
+## Office hours: Biden’s biggest obstacle?
+
+date: 2024-04-03, from: Robert Reich's blog
+
+I believe he&#8217;ll win, but which potential obstacle deserves most attention? 
+
+<https://robertreich.substack.com/p/office-hours-bidens-biggest-obstacle>
+
+---
+
+## Amazon Ditches ‘Just Walk Out’ Checkouts at Its Grocery Stores
+
+date: 2024-04-03, updated: 2024-04-03, from: Daring Fireball
+
+ 
+
+<https://gizmodo.com/amazon-reportedly-ditches-just-walk-out-grocery-stores-1851381116>
+
+---
+
+## Google to Delete Search Data From Tens of Millions of Users Who Used ‘Incognito’ Mode in Chrome
+
+date: 2024-04-03, updated: 2024-04-03, from: Daring Fireball
+
+ 
+
+<https://www.npr.org/2024/04/01/1242019127/google-incognito-mode-settlement-search-history>
+
+---
+
+## Yahoo Is Acquiring Artifact, Folding It Into Yahoo News
+
+date: 2024-04-03, updated: 2024-04-03, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/2024/4/2/24118436/yahoo-news-artifact-acquisition>
+
+---
+
+## Google Podcasts Moves to the Google Dump
+
+date: 2024-04-02, updated: 2024-04-02, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/2024/4/2/24118873/google-podcasts-shutdown-graveyard>
+
+---
+
+## Wednesday 3 April, 2024
+
+date: 2024-04-02, from: John Naughton's online diary
+
+In the sticks… In the wilds of Donegal. What estate agents, those masters of euphemism, would call “a development opportunity”. Quote of the Day ”I think that maybe if women and children were in charge we would get somewhere.” James &#8230; <a href="https://memex.naughtons.org/wednesday-3-april-2024/39312/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-3-april-2024/39312/>
+
+---
+
+## Why Yahoo bought Artifact’s leftovers
+
+date: 2024-04-02, from: Om Malik blog
+
+TLDR: This is a smart move for Yahoo. It didn’t cost them much. I would say that this was cheaper than the “cheap and cheerful” category. Second, it gives Yahoo News a chance to modernize. ** “A lot of organizations care deeply about news and personalized content and I think they’re looking around and saying &#8230; 
+
+<https://om.co/2024/04/02/why-yahoo-bought-artifact-leftovers/>
+
+---
+
+## xz Utils Backdoor
+
+date: 2024-04-02, updated: 2024-04-02, from: Bruce Schneier blog
+
+<p>The cybersecurity world got really lucky last week. An intentionally placed backdoor in xz Utils, an open-source compression utility, was pretty much <a href="https://www.openwall.com/lists/oss-security/2024/03/29/4">accidentally discovered</a> by a Microsoft engineer&#8212;weeks before it would have been incorporated into both Debian and Red Hat Linux. From <a href="https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/">ArsTehnica</a>:</p>
+<blockquote><p>Malicious code added to xz Utils versions 5.6.0 and 5.6.1 modified the way the software functions. The backdoor manipulated sshd, the executable file used to make remote SSH connections. Anyone in possession of a predetermined encryption key could stash any code of their choice in an SSH login certificate, upload it, and execute it on the backdoored device. No one has actually seen code uploaded, so it&#8217;s not known what code the attacker planned to run. In theory, the code could allow for just about anything, including stealing encryption keys or installing malware...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/04/xz-utils-backdoor.html>
+
+---
+
+## Declassified NSA Newsletters
+
+date: 2024-04-02, updated: 2024-04-01, from: Bruce Schneier blog
+
+<p>Through a 2010 FOIA request (yes, it took that long), we have copies of the NSA&#8217;s KRYPTOS Society Newsletter, &#8220;<a href="https://www.governmentattic.org/53docs/NSAkryptosSocNwsltrs1994-2003.pdf">Tales of the Krypt</a>,&#8221; from 1994 to 2003.</p>
+<p>There are many interesting things in the 800 pages of newsletter. There are many redactions. And a 1994 review of <i>Applied Cryptography</i> by <b>redacted</b>:</p>
+<blockquote><p>Applied Cryptography, for those who don&#8217;t read the internet news, is a book written by Bruce Schneier last year. According to the jacket, Schneier is a data security expert with a master&#8217;s degree in computer science. According to his followers, he is a hero who has finally brought together the loose threads of cryptography for the general public to understand. Schneier has gathered academic research, internet gossip, and everything he could find on cryptography into one 600-page jumble...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/04/declassified-nsa-newsletters.html>
 
 ---
 
@@ -164,7 +279,7 @@ date: 2024-04-01, updated: 2024-04-01, from: Daring Fireball
 
 ## Magic Security Dust
 
-date: 2024-04-01, updated: 2024-04-01, from: Bruce Schneier blog
+date: 2024-04-01, updated: 2024-04-02, from: Bruce Schneier blog
 
 <p>Adam Shostack is selling <a href="https://shostack.org/magic-security-dust">magic security dust</a>.</p>
 <p>It&#8217;s about time someone is commercializing this essential technology.</p>

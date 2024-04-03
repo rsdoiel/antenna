@@ -1,11 +1,623 @@
 ---
 title: pacific 2024.14
-updated: 2024-04-02 08:54:54
+updated: 2024-04-03 08:04:34
 ---
 
 # pacific 2024.14
 
-(date: 2024-04-02 08:54:54)
+(date: 2024-04-03 08:04:34)
+
+---
+
+## Bill aims to exempt private practice physicians from GET
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>A bill resurrected from last year&#8217;s legislative session to exempt medical providers from the state&#8217;s general excise tax will be heard today by the House Committee on Finance.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/hawaii-news/bill-aims-to-exempt-private-practice-physicians-from-get/>
+
+---
+
+## ACLU hopes Supreme Court homeless win helps Honolulu case
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>The American Civil Liberties Union of Hawaii hopes its victory before the Hawaii Supreme Court over Maui County homeless sweeps will bolster its case against Honolulu when its lawsuit over Oahu&#8217;s homeless policies goes to trial in October.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/nation-world-news/aclu-hopes-supreme-court-homeless-win-helps-honolulu-case/>
+
+---
+
+## Puna man faces additional charges in domestic incident
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>A Hilo grand jury on March 27 indicted a 41-year-old Puna man accused of cracking his 21-year-old son&#8217;s skull with a blowtorch gas canister.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/hawaii-news/puna-man-faces-additional-charges-in-domestic-incident/>
+
+---
+
+## Marijuana bill dies in the House
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>A bill that would&#8217;ve legalized the recreational use of cannabis for adults 21 and older is dead.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/hawaii-news/marijuana-bill-dies-in-the-house/>
+
+---
+
+## Contractor and kumu hula lead the Royal Court as Kalakaua, Kapi‘olani
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>Two Hawaii Island residents have been chosen take on the roles of King David Kalakaua and Queen Kapi&#8216;olani during this week&#8217;s Merrie Monarch Festival.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/hawaii-news/contractor-and-kumu-hula-lead-the-royal-court-as-kalakaua-kapiolani/>
+
+---
+
+## A deadly Easter weekend makes 7 traffic fatalities in March
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>A deadly Easter weekend on the Big Island&#8217;s roads pushed the number of traffic fatalities in March alone to higher than the traffic death toll for the first three months of 2023.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/hawaii-news/a-deadly-easter-weekend-makes-7-traffic-fatalities-in-march/>
+
+---
+
+## Police: 78-year-old man found dead under riding mower
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating a fatal home accident incident involving an elderly man and a riding lawn mower that occurred early Saturday afternoon at a Waimea home.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/hawaii-news/police-78-year-old-man-found-dead-under-riding-mower/>
+
+---
+
+## Runnin’ with Rani: Kahakai Students get a blast of color at Rainbow Run
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA-KONA &#8212; What began ten years ago as a simple gathering among a handful of Kahakai Elementary School teachers seeking camaraderie and fitness, has now blossomed into the school&#8217;s signature annual event known as the Rainbow Run.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/sports/runnin-with-rani-kahakai-students-get-a-blast-of-color-at-rainbow-run/>
+
+---
+
+## After losing to Iowa, Angel Reese has a choice to make: Stay at LSU or go pro?
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>ALBANY, N.Y. &#8212; Angel Reese has about 48 hours to make a major life decision while processing a stinging loss in her anticipated showdown against Caitlin Clark in the NCAA Tournament, a setback that left the LSU forward in tears while reflecting on the past year since winning the women&#8217;s basketball championship. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/sports/after-losing-to-iowa-angel-reese-has-a-choice-to-make-stay-at-lsu-or-go-pro/>
+
+---
+
+## BIIF sports roundup: April 1 and 2
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>Softball</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/sports/biif-sports-roundup-april-1-and-2/>
+
+---
+
+## Lavaman Triathlon on tap for this weekend in Waikoloa
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>Lavaman Triathlon, the designated USA Triathlon Hawaii State Championship race, will take place on the west side of the island this weekend. The 15k swim, 40k bike and 10k run will start Sunday morning at Waikoloa Beach Resort.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/sports/lavaman-triathlon-on-tap-for-this-weekend-in-waikoloa/>
+
+---
+
+## Israel’s attack on aid workers can only make hunger in Gaza worse
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>The Israeli strikes that killed seven aid workers overnight as they tried to avert famine in the Gaza Strip will be much debated, but some things are clear.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/opinion/israels-attack-on-aid-workers-can-only-make-hunger-in-gaza-worse/>
+
+---
+
+## A message between water worlds
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>NASA&#8217;s Europa Clipper spacecraft, headed to Jupiter&#8217;s ice-covered moon Europa in October 2024, will carry a laser-etched message that celebrates humanity&#8217;s connection to water. The message pays homage to past NASA missions that carried similar messages.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/opinion/a-message-between-water-worlds/>
+
+---
+
+## Democrats could hit fail safe button to keep Trump from taking office
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>Desperate Democrats have a last ditch fail safe button in their back pocket in case Donald Trump wins the election &#8211; invoking the Constitution&#8217;s insurrection clause in Congress to block him from taking the Oval Office.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/opinion/democrats-could-hit-fail-safe-button-to-keep-trump-from-taking-office/>
+
+---
+
+## Pope exposes confidential details of past conclaves and settles scores with Pope Benedict XVI’s aide
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>VATICAN CITY &#8212; Pope Francis has exposed the political &#8220;maneuvers&#8221; used to sway votes during the two most recent elections of popes, while denying he is planning to reform the process for future conclaves, in a book-length interview published Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/nation-world-news/pope-exposes-confidential-details-of-past-conclaves-and-settles-scores-with-pope-benedict-xvis-aide/>
+
+---
+
+## Larry Lucchino, feisty force behind retro ballpark revolution and curse-busting Red Sox, dies at 78
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; Larry Lucchino, the hard-driving force behind baseball&#8217;s retro ballpark revolution and the transformation of the Boston Red Sox from cursed losers to World Series champions, has died. He was 78. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/sports/larry-lucchino-feisty-force-behind-retro-ballpark-revolution-and-curse-busting-red-sox-dies-at-78/>
+
+---
+
+## Mayor’s Office hosts sculpture of Prince Kuhio
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>The Mayor&#8217;s Office in East Hawaii is currently hosting a bronze sculpture of Prince Jonah Kalaniana&#8216;ole in tribute to his leadership and his profound impact on the Hawaiian people.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/community/mayors-office-hosts-sculpture-of-prince-kuhio/>
+
+---
+
+## It was a great weekend for UH-Hilo sports
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p><strong>SOFTBALL</strong></p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/sports/it-was-a-great-weekend-for-uh-hilo-sports/>
+
+---
+
+## Joel Embiid scores 24 points in his return from knee surgery. Sixers top Thunder 109-105
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>PHILADELPHIA &#8212; Joel Embiid put Philadelphia ahead with four free throws in the final 40 seconds and finished with 24 points in his first game in nine weeks following knee surgery, leading the 76ers to a 109-105 win over the Oklahoma City Thunder on Tuesday night. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/sports/joel-embiid-scores-24-points-in-his-return-from-knee-surgery-sixers-top-thunder-109-105/>
+
+---
+
+## Foodland launches Project Keiki
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>Foodland Super Market on Monday launched Project Keiki, a new monthlong statewide community giving program that will help provide lunches and meals to Hawaii&#8217;s children on days they don&#8217;t have access to school lunches.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/community/foodland-launches-project-keiki/>
+
+---
+
+## Bringing Hawaii’s birds into classrooms: Virtual field trip is a collection of 360-degree images, videos, interviews
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>VOLCANO &#8211; Students across Hawaii are being offered rare access to learn about endangered Hawaiian forest birds.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/community/bringing-hawaiis-birds-into-classrooms-virtual-field-trip-is-a-collection-of-360-degree-images-videos-interviews/>
+
+---
+
+## Nonprofit to perform large underwater cleanup at Honokohau Harbor
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>To celebrate Earth Day in April, a passionate group of local scuba divers and dock volunteers with Ocean Defenders Alliance are spearheading an underwater cleanup from 9.a.m. to noon Saturday at Honokohau Harbor.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/community/nonprofit-to-perform-large-underwater-cleanup-at-honokohau-harbor/>
+
+---
+
+## 1 week later, clearer picture of Key Bridge victims emerges
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>Six construction workers are thought to have perished after the Dali, a Singapore-flagged container ship, smashed into a key support column and sent the bridge and the roadway workers on it into the Patapsco River.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/nation-world-news/1-week-later-clearer-picture-of-key-bridge-victims-emerges/>
+
+---
+
+## Affordability still a challenge for Hawaii homebuyers
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>Real estate data provider ATTOM examined the median home prices during the first quarter for roughly 590 U.S. counties in a new report released Thursday and found that median-priced single-family homes and condos remain less affordable in 95% of the counties for the average U.S. income earner, who makes $71,708 a year.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/hawaii-news/affordability-still-a-challenge-for-hawaii-homebuyers/>
+
+---
+
+## Obituaries for April 3
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>Hedy (DeLima) Franklin, 81, of Keaau died Feb. 26 at Legacy of Hilo. Born in Hilo, she worked in hotel management, banking and office manager of a dental facility. Visitation 8:30-9:30 a.m. Tuesday (April 9) at St. Joseph Catholic Church. Celebration of life Mass at 9:30 a.m. Burial to follow at Homelani Memorial Park, Ilima Section. Casual attire; no flowers. Survived by daughters, Lisa Kapika and Jean Franklin; sisters, Eileene DeLima, Katie (Leroy) Perez and Marlene (Reggie) Leite; sister-in-law, Geraldine DeLima; brother-in-law, Clifford &#8220;Chucky&#8221; Waiau; three grandchildren and eight great-grandchildren. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/obituaries/obituaries-for-april-3-9/>
+
+---
+
+## With famine looming, aid group halts food delivery in Gaza after Israeli strike kills 7 workers
+
+date: 2024-04-03, from: Hawaii Tribune Harold
+
+
+				<p>DEIR AL-BALAH, Gaza Strip &#8212; Some of Israel&#8217;s closest allies on Tuesday condemned the deaths of seven aid workers who were killed by airstrikes in Gaza &#8212; a loss that prompted multiple charities to suspend food deliveries to Palestinians on the brink of starvation.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/03/nation-world-news/with-famine-looming-aid-group-halts-food-delivery-in-gaza-after-israeli-strike-kills-7-workers/>
+
+---
+
+## UH educators dance in Merrie Monarch opening ceremony
+
+date: 2024-04-03, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> The hula cohort was formed to deepen participants' understanding of &#699;ike <span aria-label="Hawaii">Hawai&#699;i</span> in an effort to uplift <abbr>UH</abbr> as a leader in Indigenous education.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/02/uh-educators-merrie-monarch/"><abbr>UH</abbr> educators dance in Merrie Monarch opening ceremony</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/02/uh-educators-merrie-monarch/>
+
+---
+
+## Legislature discusses dieldrin, other issues with Guam EPA
+
+date: 2024-04-03, from: Guam Daily Post
+
+The Guam Environmental Protection Agency Administrator Michelle Lastimoza said the agency is anticipating that a senior toxicologist with the U.S. Environmental Protection Agency will arrive on Guam the week of May 1. That should allow them to finally proceed with… 
+
+<https://www.postguam.com/news/local/legislature-discusses-dieldrin-other-issues-with-guam-epa/article_f9cebd9e-f149-11ee-b37c-1f30e91ccf02.html>
+
+---
+
+## Man sentenced to 10 months for role in inheritance scheme
+
+date: 2024-04-03, from: Guam Daily Post
+
+A man will spend 10 months in prison for his involvement in an inheritance scheme. 
+
+<https://www.postguam.com/news/local/man-sentenced-to-10-months-for-role-in-inheritance-scheme/article_958e2512-f168-11ee-b5f7-6fd5ae4e86e2.html>
+
+---
+
+## Assistive technology expo on Saturday at Micronesia Mall
+
+date: 2024-04-03, from: Guam Daily Post
+
+On April 13, the Guam System for Assistive Technology will be hosting an assistive technology expo as part of the 30th GSAT Conference and Expo, themed Assistive Technology: Empowering Our Island with Limitless Possibilities. 
+
+<https://www.postguam.com/news/local/assistive-technology-expo-on-saturday-at-micronesia-mall/article_c25a2fc4-efdc-11ee-bea2-bb8f814a2b98.html>
+
+---
+
+## Former GPD officer sentenced to 20 years  for methamphetamine trafficking conspiracy
+
+date: 2024-04-03, from: Guam Daily Post
+
+Jose Pablo Ananich will spend the next 20 years in federal prison for his role in a year-and-a-half-long drug trafficking conspiracy. 
+
+<https://www.postguam.com/news/local/former-gpd-officer-sentenced-to-20-years-for-methamphetamine-trafficking-conspiracy/article_b639e288-f159-11ee-be71-97b4e5f6af9d.html>
+
+---
+
+## Man, 40, found guilty of sexually assaulting teen since she was 7
+
+date: 2024-04-03, from: Guam Daily Post
+
+A 40-year-old man was found guilty of three counts of criminal sexual conduct related to sexually assaulting a teen since she was 7 years old. 
+
+<https://www.postguam.com/news/local/man-40-found-guilty-of-sexually-assaulting-teen-since-she-was-7/article_2040a528-f15e-11ee-9ed4-5f46722a0eb2.html>
+
+---
+
+## GPD looking for man to ensure the safety of 16-year-old girl and 9-month-old baby
+
+date: 2024-04-03, from: Guam Daily Post
+
+The Guam Police Department is searching for a man to make sure that a teenage girl and a baby are OK. 
+
+<https://www.postguam.com/news/local/gpd-looking-for-man-to-ensure-the-safety-of-16-year-old-girl-and-9/article_0e67b904-f163-11ee-965d-c334092f238c.html>
+
+---
+
+## New era for UH Mānoa Outreach College: Vibrant learning hub, diverse services
+
+date: 2024-04-03, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Participants are offered various paths to pursue a degree, along with professional development initiatives and outreach programs.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/02/new-era-outreach-college/">New era for <abbr>UH</abbr> Mānoa Outreach College: Vibrant learning hub, diverse services</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/02/new-era-outreach-college/>
+
+---
+
+## Exclusive-Disney prevails over Trian in board fight, sources say
+
+date: 2024-04-03, updated: 2024-04-03, from: Marianas Variety
+
+(Reuters) — Walt Disney Co has secured enough shareholder votes to defeat a challenge against its board mounted by Nelson Peltz's hedge fund Trian Fund Management, people familiar with the matter said on Tuesday. 
+
+<https://www.mvariety.com/business/exclusive-disney-prevails-over-trian-in-board-fight-sources-say/article_467e6dac-f18f-11ee-8060-976e29bd760d.html>
+
+---
+
+## Tokyo inflation slowdown, output slide clouds BOJ's rate hike outlook
+
+date: 2024-04-03, updated: 2024-04-03, from: Marianas Variety
+
+TOKYO (Reuters) — Core inflation in Japan's capital slowed in March and factory output unexpectedly slid in the previous month, heightening uncertainty on how soon the Bank of Japan can raise interest rates again after exiting its radical monetary stimulus. 
+
+<https://www.mvariety.com/business/tokyo-inflation-slowdown-output-slide-clouds-bojs-rate-hike-outlook/article_aba92c90-f18e-11ee-8174-ef7c764aaf81.html>
+
+---
+
+## Storms with typhoon-like winds ravage South China, killing 7
+
+date: 2024-04-03, updated: 2024-04-03, from: Marianas Variety
+
+BEIJING (Reuters) — Rare storms with typhoon-like winds have killed at least seven people in China's southern Jiangxi province since the weekend, three of them blown out of their high-rise apartments in their sleep. 
+
+<https://www.mvariety.com/news/storms-with-typhoon-like-winds-ravage-south-china-killing-7/article_3960a744-f18e-11ee-9f71-cb0f40fde727.html>
+
+---
+
+## One child killed, two wounded in Finland school shooting, 12-year-old boy held
+
+date: 2024-04-03, updated: 2024-04-03, from: Marianas Variety
+
+HELSINKI (Reuters) — One child was killed and two seriously wounded in a shooting at a school outside the Finnish capital on Tuesday, police said, with a 12-year-old fellow pupil suspected of the attack taken into custody. 
+
+<https://www.mvariety.com/news/national/one-child-killed-two-wounded-in-finland-school-shooting-12-year-old-boy-held/article_cc9519ac-f18c-11ee-b5c2-53e0c1551729.html>
+
+---
+
+## Trump calls migrants 'animals,' intensifying focus on illegal immigration
+
+date: 2024-04-03, updated: 2024-04-03, from: Marianas Variety
+
+GREEN BAY, Wisconsin (Reuters) — Donald Trump called immigrants illegally in the United States "animals" and "not human" in a speech in Michigan on Tuesday, resorting to the degrading rhetoric he has employed time and again on the campaign trail. 
+
+<https://www.mvariety.com/news/national/trump-calls-migrants-animals-intensifying-focus-on-illegal-immigration/article_9e25e840-f18b-11ee-b564-f3255ec353cf.html>
+
+---
+
+## US job openings rise slightly; labor market steadily easing
+
+date: 2024-04-03, updated: 2024-04-03, from: Marianas Variety
+
+WASHINGTON (Reuters) — U.S. job openings edged up in February, though labor market conditions are gradually easing in support of expectations that the Federal Reserve will start cutting interest rates by June. 
+
+<https://www.mvariety.com/news/national/us-job-openings-rise-slightly-labor-market-steadily-easing/article_7025d4aa-f18b-11ee-a3e7-1fe6ce66902f.html>
+
+---
+
+## Biden reiterated US concerns over TikTok in call with Xi, White House says
+
+date: 2024-04-03, updated: 2024-04-03, from: Marianas Variety
+
+WASHINGTON (Reuters) — TikTok and its ownership came up as a topic of conversation in the call between U.S. President Joe Biden and his Chinese counterpart Xi Jinping on Tuesday, the White House said, adding Biden raised American concerns about the app's ownership. 
+
+<https://www.mvariety.com/news/national/biden-reiterated-us-concerns-over-tiktok-in-call-with-xi-white-house-says/article_ca5c2222-f18a-11ee-b87e-7fca40c314c5.html>
+
+---
+
+## White House directs NASA to create time standard for the moon
+
+date: 2024-04-03, updated: 2024-04-03, from: Marianas Variety
+
+WASHINGTON (Reuters) — The White House on Tuesday directed NASA to establish a unified standard of time for the moon and other celestial bodies, as the United States aims to set international norms in space amid a growing lunar race among nations and private companies. 
+
+<https://www.mvariety.com/news/national/white-house-directs-nasa-to-create-time-standard-for-the-moon/article_e6bbfe5c-f189-11ee-bef0-937f2a4063cf.html>
+
+---
+
+## US senator urges Biden to review alleged Nippon Steel ties to China
+
+date: 2024-04-03, updated: 2024-04-03, from: Marianas Variety
+
+WASHINGTON/TOKYO (Reuters) — The head of the U.S. Senate Banking Committee on Tuesday urged the White House to scrutinize the relationship between Nippon Steel and the Chinese steel industry, citing national security concerns amid bipartisan opposition in Congress to the Japanese company's $14.9 billion deal to acquire U.S. Steel Corp. 
+
+<https://www.mvariety.com/news/national/us-senator-urges-biden-to-review-alleged-nippon-steel-ties-to-china/article_ce3c76ae-f189-11ee-855f-5b3ac881bcd5.html>
+
+---
+
+## Biden, Xi call navigates Philippines and Taiwan tensions
+
+date: 2024-04-03, updated: 2024-04-03, from: Marianas Variety
+
+WASHINGTON (Reuters) — U.S. President Joe Biden sought to manage tensions over the South China Sea and Taiwan's May presidential inauguration in a call with Chinese President Xi Jinping on Tuesday, their first direct talks since meeting in November. 
+
+<https://www.mvariety.com/news/national/biden-xi-call-navigates-philippines-and-taiwan-tensions/article_4ee07676-f189-11ee-9b0c-5fe3db780c51.html>
+
+---
+
+## Hilo softball athlete secures PacWest Pitcher of the Week
+
+date: 2024-04-03, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span>  Chloe Sales helps the <abbr>UH</abbr> Vulcans move up to 4th place in the PacWest standings.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/02/hilo-athlete-secures-pacwest/">Hilo softball athlete secures PacWest Pitcher of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/02/hilo-athlete-secures-pacwest/>
+
+---
+
+## Ganot earns Coaches vs. Cancer Champion Award
+
+date: 2024-04-03, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Ganot has shown extraordinary leadership and commitment in the fight against cancer.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/02/ganot-coaches-vs-cancer-champion-award/">Ganot earns Coaches <abbr>vs</abbr>. Cancer Champion Award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/02/ganot-coaches-vs-cancer-champion-award/>
+
+---
+
+## Hawaiian Word of the Week: Hoʻokūkū
+
+date: 2024-04-03, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> <span aria-label="Hookuku">Ho&#699;ok&#363;k&#363;</span>&#8212;Contest, game, match. To hold a contest, compete, compare.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/02/hawaiian-word-of-the-week-hookuku/">Hawaiian Word of the Week: Hoʻokūkū</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/02/hawaiian-word-of-the-week-hookuku/>
+
+---
+
+## 6 UH Hilo hoopers awarded academic honors
+
+date: 2024-04-03, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Three players from the men’s basketball and three from the women’s basketball team are recognized for their academic excellence.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/02/6-awarded-academic-honors/">6 <abbr>UH</abbr> Hilo hoopers awarded academic honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/02/6-awarded-academic-honors/>
+
+---
+
+## Swim team, diver set UH records at NCAA Championship
+
+date: 2024-04-03, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Swim team advances their past relay time, and Mackaby Pennington sets the highest score and placement for a <abbr>UH</abbr> diver in the <abbr>NCAA</abbr> championships.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/02/swim-team-diver-at-ncaa-championship/">Swim team, diver set <abbr>UH</abbr> records at <abbr>NCAA</abbr> Championship</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/02/swim-team-diver-at-ncaa-championship/>
+
+---
+
+## New ‘Guardians’ welcome all to UH West Oʻahu
+
+date: 2024-04-03, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> &#8220;N&#257; <span aria-label="Kiai">Kia&#699;i</span> o Kapolei&#8221; a &#8220;beautiful representation of our future.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/02/new-guardians-uh-west-oahu/">New ‘Guardians’ welcome all to <abbr>UH</abbr> West <span aria-label="Oahu">Oʻahu</span></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/02/new-guardians-uh-west-oahu/>
+
+---
+
+## UH Hilo celebrates Merrie Monarch
+
+date: 2024-04-03, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> <abbr>UH</abbr> will host an array of cultural enrichment events open to the public in honor of the annual hula festival.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/02/uh-hilo-celebrates-merrie-monarch/"><abbr>UH</abbr> Hilo celebrates Merrie Monarch</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/02/uh-hilo-celebrates-merrie-monarch/>
+
+---
+
+## UH Maui College prof. picked to head Maui Film Commission
+
+date: 2024-04-03, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Brian Kohne will work with production companies to cultivate Maui Countyʻs film industry.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/02/kohne-to-head-maui-film-commission/"><abbr>UH</abbr> Maui College prof. picked to head Maui Film Commission</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/02/kohne-to-head-maui-film-commission/>
+
+---
+
+## Guam Supreme Court agrees to hear case regarding attorney general's role 
+
+date: 2024-04-02, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Supreme Court of Guam has agreed to hear Gov. Lou Leon Guerrero's request for a declaratory... 
+
+<https://www.pacificislandtimes.com/post/guam-supreme-court-agrees-to-hear-case-regarding-attorney-general-s-role>
+
+---
+
+## Palau president, CNMI governor to keynote UOG’s sustainability conference
+
+date: 2024-04-02, from: Pacific Island Times
+
+By Pacific Island Times News Staff Palau President Surangel Whipps Jr. and CNMI Gov. Arnold Palacios will be the keynote speakers at the... 
+
+<https://www.pacificislandtimes.com/post/palau-president-cnmi-governor-to-keynote-uog-s-sustainability-conference>
+
+---
+
+## Guam hospital nurses get 18% pay hike
+
+date: 2024-04-02, from: Pacific Island Times
+
+By Pacific Island Times News Staff The government of Guam has implemented an 18 percent pay raise for nurses at Guam Memorial Hospital... 
+
+<https://www.pacificislandtimes.com/post/guam-hospital-nurses-get-18-pay-hike>
 
 ---
 
@@ -16,6 +628,16 @@ date: 2024-04-02, from: Guam Daily Post
 The Supreme Court of Guam has decided to take on the request for declaratory judgment from the governor regarding the attorney general's temporary withdrawal of legal representation from agencies under investigation by his office. 
 
 <https://www.postguam.com/news/guam-supreme-court-accepts-governors-request-regarding-ag-withdrawal/article_59a0b14c-f0d1-11ee-87ba-d72a454bf2eb.html>
+
+---
+
+## Guam Supreme Court accepts governor's request regarding AG withdrawal
+
+date: 2024-04-02, from: Guam Daily Post
+
+The Supreme Court of Guam has decided to take on the request for declaratory judgment from the governor regarding the attorney general's temporary withdrawal of legal representation from agencies under investigation by his office. 
+
+<https://www.postguam.com/news/local/guam-supreme-court-accepts-governors-request-regarding-ag-withdrawal/article_59a0b14c-f0d1-11ee-87ba-d72a454bf2eb.html>
 
 ---
 
@@ -1018,7 +1640,7 @@ date: 2024-04-01, from: Guam Daily Post
 
 date: 2024-04-01, from: Guam Daily Post
 
-With a complete game from Patrick Alvarez, where he allowed only three hits, struck out three batters and surrendered zero free passes, Guam defeated New Zealand 11-1 in the 2024 Little League Asia Pacific Senior Division Regionals baseball tournament semifinals… 
+With a complete game from Patrick Saez Alvarez, where he allowed only three hits, struck out three batters and surrendered zero free passes, Guam defeated New Zealand 11-1 in the 2024 Little League Asia Pacific Senior Division Regionals baseball tournament… 
 
 <https://www.postguam.com/sports/local/guam-beats-new-zealand-11-1-advances-to-tuesdays-championship-game-against-korea/article_109ac6e6-efd6-11ee-9243-efbd8e4bb042.html>
 

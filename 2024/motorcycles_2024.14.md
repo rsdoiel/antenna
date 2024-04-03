@@ -1,11 +1,71 @@
 ---
 title: motorcycles 2024.14
-updated: 2024-04-02 08:54:55
+updated: 2024-04-03 08:04:35
 ---
 
 # motorcycles 2024.14
 
-(date: 2024-04-02 08:54:55)
+(date: 2024-04-03 08:04:35)
+
+---
+
+## Watch a Honda Trail 90 Be Rescued and Then Climb Mountains Like a Proper ADV
+
+date: 2024-04-03, from: Ride Apart, Electric Motorcycle News
+
+Why wouldn't you just point a Trail 90 at the mountains and go? 
+
+<https://www.rideapart.com/news/714383/honda-trail-90-barn-find-video-off-road-watch/>
+
+---
+
+## 2025 Indian Scout First Look
+
+date: 2024-04-03, from: Cycle World News
+
+Indian’s 2025 Scout cruiser is available in five unique flavors, including Scout Classic, Super Scout, Scout Bobber, Sport Scout, and 101 Scout.e 
+
+<https://www.cycleworld.com/bikes/indian-scout-first-look/>
+
+---
+
+## Aprilia USA and RideSmart Motorcycle School Announce Partnership
+
+date: 2024-04-03, from: Cycle World News
+
+Aprilia USA announces a new partnership with Texas-based, RideSmart Motorcycle School. 
+
+<https://www.cycleworld.com/the-wire/aprilia-ridesmart-motorcycle-school-enter-partnership/>
+
+---
+
+## Brixton Storr Adventure Bike Revealed
+
+date: 2024-04-02, from: Cycle World News
+
+Although the Brixton name can be seen all over Europe, the Austrian/Chinese company has yet to set up shop in the US. Will the Storr be headed our way soon? 
+
+<https://www.cycleworld.com/motorcycle-news/brixton-storr-adventure-bike-details/>
+
+---
+
+## Maine's Snowmobile Registration Hit an 8-Year Low
+
+date: 2024-04-02, from: Ride Apart, Electric Motorcycle News
+
+Lackluster snow and the warmest winter on record has depressed Maine's snowmobile registrations. This ain't good.  
+
+<https://www.rideapart.com/news/714540/maine-snowmobile-registration-climate-change/>
+
+---
+
+## Everything You Need To Know About Indian’s New Scout Lineup
+
+date: 2024-04-02, from: Ride Apart, Electric Motorcycle News
+
+Indian has brought the Scout unashamedly into the 21st century while retaining its iconic design. Here's everything you need to know. 
+
+<https://www.rideapart.com/news/714570/indian-scout-2025-lineup-motorcycle-specs-price/>
 
 ---
 

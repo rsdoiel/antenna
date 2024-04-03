@@ -1,11 +1,125 @@
 ---
 title: writing 2024.14
-updated: 2024-04-02 08:54:54
+updated: 2024-04-03 08:04:35
 ---
 
 # writing 2024.14
 
-(date: 2024-04-02 08:54:54)
+(date: 2024-04-03 08:04:35)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-03, from: Neil Gaiman @ BlueSky)
+
+Am I saying this will be your new favourite show? That it will make you smile and shiver and puzzle and delight? That it's something really special? That it will ease the pain of waiting for other shows to happen?
+
+Yes. I am saying that.
+
+It's SO good. And it starts in three weeks...
+https://youtu.be/hwJmZ2Ekfbc?si=Yo8BZ7hob9V6Iw2Y 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kpadtz56d725>
+
+---
+
+## Write Now with Scrivener, Episode no. 37: Debbie Urbanski, Science Fiction Author
+
+date: 2024-04-03, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p><iframe frameborder="0" height="200" scrolling="no" src="https://player.fireside.fm/v2/FGsx06Yz+0puyVVA9?theme=light" width="740"></iframe></p>
+
+<p><strong>Show notes</strong>:</p>
+
+
+	<a href="https://debbieurbanski.com" target="_blank">Debbie Urbanski</a>
+	<a href="https://debbieurbanski.com/after-world/" target="_blank">After World</a>
+	<a href="https://us.macmillan.com/books/9781250834003/theworldwithoutus" target="_blank">Alan Weisman, The World Without Us</a>
+	<a href="https://store.orbit-books.co.uk/products/the-girl-with-all-the-gifts" target="_blank">M.R. Caray, The Girl With All the Gifts</a>
+	<a href="https://www.penguin.co.uk/books/448511/the-wall-by-haushofer-marlen/9781784878030" target="_blank">Marlen Haushofer, The Wall</a>
+	<a href="https://www.literatureandlatte.com/blog/how-daydreaming-can-enhance-creativity-for-fiction-writers" target="_blank">How Daydreaming Can Enhance Creativity for Fiction Writers</a>
+	<a href="https://www.instagram.com/reel/CkmedePgF2h" target="_blank">&quot;The first Scrivener file containing 4 years of work on my novel&quot;</a>
+	<a href="https://www.literatureandlatte.com/blog/use-dialog-focus-and-linguistic-focus-to-revise-and-edit-your-writing-in-scrivener" target="_blank">Use Dialogue Focus and Linguistic Focus to Revise and Edit Your Writing in Scrivener</a>
+	<a href="https://www.dawn-king.com/#the-trials" target="_blank">Dawn King, The Trials</a>
+
+
+<p>Learn more about <a href="https://www.literatureandlatte.com/scrivener/overview" target="_blank">Scrivener</a>, and check out the ebook <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>.</p>
+
+<p>If you like the podcast, please <a href="https://podcasts.apple.com/us/podcast/write-now-with-scrivener/id1568550068" target="_blank">follow it in Apple Podcasts</a> or your favorite podcast app. Leave a rating or review, and tell your friends. And check out past episodes of <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+
+
+<p>After many years writing short stories and essays, Debbie Urbanski has published her first novel, After World, about AI at the end of humanity&#39;s physical presence on Earth.</p>
+
+<p>The description of <em>After World</em> sounds chilling: &quot;Faced with uncontrolled and accelerating environmental collapse, humanity asks an artificial intelligence to find a solution. Its answer is simple: remove humans from the ecosystem.&quot; But it is more than just a post-apocalyptic novel; it is &quot;the story of an Artificial Intelligence tasked with writing a novel&mdash;only for it to fall in love with the novel&rsquo;s subject, Sen, the last human on Earth.&quot;</p>
+
+<p>While this is clearly a post-apocalyptic novel, mostly about AI, parts of it feel like nature writing. Debbie explained, &quot;I spent a lot of time on the nature descriptions, I am surrounded by guidebooks about birds and trees and plants. I was really interested in the idea that if humans go away, that the world would be okay. There&#39;d be a lot of other losses, but especially from an AI perspective, it might be that the easiest way to save the planet is having our physical bodies removed.&quot;</p>
+
+<p>Often when people talk about &quot;saving the planet,&quot; they really mean saving humanity. But, said Debbie, &quot;the end of the world often means the end of us. So some people say my novel&#39;s about the end of the world, but it&#39;s really not. It&#39;s about the end of humanity&#39;s physical presence on Earth.&quot;</p>
+
+<p>This sort of subject for a novel can be bleak, but Debbie pointed out that &quot;I always point that I do find it hopeful that the world is still around. I don&#39;t think humans are necessarily exceptional, or more important than other species. So there is the idea in the book that we&#39;re one species, and we could save millions of species. I don&#39;t think we should disappear, but I do think it&#39;s an interesting thought experiment to get out of our heads and value other parts of the world.&quot;</p>
+
+<p>AI is the main theme of the book, and Debbie didn&#39;t just jump on the AI bandwagon when the world heard about GPT and other tools. Back in 2019, when she had written a first draft, &quot;My first agent thought my book was too fragmented, and thought there needed to be a cohesive narrator. We were brainstorming, all humans are gone; who could tell our story? AI was floating around, I don&#39;t think anyone who wasn&#39;t involved in tech thought it would be happening so quickly.&quot;</p>
+
+<p>Since Debbie&#39;s novel focuses on AI, I used GPT-4 to come up with some questions for our interview. These questions were quite pertinent. for example, I asked, &quot;The concept of documenting the end of humanity is a poignant one. What do you believe is the importance of storytelling and record keeping in the face of extinction?&quot;</p>
+
+<p>Debbie replied, &quot;That&#39;s really what my book is about. The AI Narrator uses that as a way to fall in love or care deeply for Sen, the last human on Earth. So it&#39;s a way for the AI narrator to understand humanity by learning to tell a story.&quot;</p>
+
+<p>Debbie used Scrivener to write <em>After World</em>, after having worked on short stories for a long time. &quot;I really love Scrivener. And I recommend it to writers whenever I can. I don&#39;t think it influences how I write but it kind of captures how I write; it&#39;s a perfect fit for how I write. I love it.&quot;</p>
+
+<p>Going from a short story collection to a novel was easy. &quot;When I was working on the short story collection, I found it so useful to be able to move stuff around. So that seemed a really natural fit.&quot;</p>
+
+<p>Debbie&#39;s experience getting from manuscript to publication was complex. She went through multiple agents and multiple editors. &quot;With the novel, because it had been through so many revisions, I kept them all in a project, but I had different folders for each one. So it was really easy for me to compare revisions. And I use the split screen a lot. My novel has braided narratives, so there&#39;s different threads going through the novel. And there is a cool feature, I discovered towards the end, called Focus Mode, where you could look at just a line, a sentence, or a paragraph all at once. And that was mind-blowing, I did it sentence by sentence, but it really let me stop and think do I like the words of the sentence?&quot;</p>
+
+<p>Debbie shared <a href="https://www.instagram.com/reel/CkmedePgF2h" target="_blank">a screen capture of her Scrivener project on Instagram</a>, showing how complex it was, and appreciates how &quot;I feel like I keep discovering things about Scrivener.&quot;</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+ 
+
+<https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-37-debbie-urbanski-science-fiction-author>
+
+---
+
+## Kirk Dougal (1966-2024)
+
+date: 2024-04-02, from: Locus Magazine
+
+<p>Author Kirk Dougal, 57, died March 18, 2024 in a Fort Wayne IN hospital of cancer.  </p>
+<p>His Fallen Angel series includes <b>Dreams of Ivory and Gold</b> (2014) and <b>Valleys of the Earth</b> (2017). His epic fantasy <b>Legacy of Bones</b> (2020) launched series A Tale of Bone &#38; Steel, which also includes <b>Black Shadow Rising</b> (2020), <b>Wings of the Storm</b> (2020), <b>Joiner of Bones</b> (2020), <b>Dragonkiller</b> (2021), <b>Path of Shadows</b> (2021),  <a href="https://locusmag.com/2024/04/kirk-dougal-1966-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/kirk-dougal-1966-2024/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-02, from: Neil Gaiman @ BlueSky)
+
+Fascinating the amount of intelligence out there on TV shows. https://redanianintelligence.com/2024/04/02/the-sandman-season-2-six-episode-titles-revealed/ 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kp6eftm3422l>
+
+---
+
+## 2024 Sturgeon Symposium
+
+date: 2024-04-02, from: Locus Magazine
+
+<p>The Gunn Center for the Study of Science Fiction has announced the third annual Sturgeon Symposium, to be held October 17-18, 2024 at the University of Kansas in Lawrence KS.</p>
+<p>The Symposium is celebrating Samuel R. Delany, who &#8220;has redefined the boundaries of SFF as well as literary criticism through his explorations of language, society, sexuality, and narrative form. This year&#8217;s symposium acknowledges his lasting impact on science fiction, speculative  <a href="https://locusmag.com/2024/04/2024-sturgeon-symposium/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/2024-sturgeon-symposium/>
 
 ---
 
