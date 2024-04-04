@@ -1,48 +1,69 @@
 ---
 title: weather 2024.14
-updated: 2024-04-03 08:04:35
+updated: 2024-04-04 10:17:54
 ---
 
 # weather 2024.14
 
-(date: 2024-04-03 08:04:35)
+(date: 2024-04-04 10:17:54)
+
+---
+
+## SPC - No watches are valid as of Thu Apr  4 17:10:02 UTC 2024
+
+date: 2024-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Thu Apr  4 17:10:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Thu Apr  4 17:10:02 UTC 2024
+
+date: 2024-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Thu Apr  4 17:10:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
 
 ---
 
 ## SPC Day 1 Fire Weather Outlook
 
-date: 2024-04-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Fire Weather Outlook  
 NWS Storm Prediction Center Norman OK
-0952 AM CDT Wed Apr 03 2024
+1131 AM CDT Thu Apr 04 2024
 
-Valid 031700Z - 041200Z
+Valid 041700Z - 051200Z
 
 ...NO CRITICAL AREAS...
 
-The previous forecast reasoning (see below) remains the same, and no
-additions were made with this update. Despite fairly high confidence
-in the development of a north-south corridor of locally elevated
-meteorological conditions from south-central NE through central KS
-this afternoon, marginal fuels limit confidence in any large-fire
-potential -- precluding Elevated highlights.
+The previous forecast (see below) remains on track. Additionally,
+locally elevated fire-weather conditions are possible this afternoon
+across portions of the Southeast, that have missed out on
+appreciable rainfall over the last 1-2 weeks. This includes parts of
+far southern MS, southern AL, and the far western FL Panhandle.
+Here, diurnal heating will contribute to 20-30 percent afternoon RH,
+coincident with breezy/gusty post-frontal winds (sustained around 15
+mph). While these conditions would ordinarily warrant Elevated
+highlights, fuels generally do not appear supportive of large-fire
+potential.
 
-..Weinman.. 04/03/2024
+..Weinman.. 04/04/2024
 
-.PREV DISCUSSION... /ISSUED 1246 AM CDT Wed Apr 03 2024/
+.PREV DISCUSSION... /ISSUED 1256 AM CDT Thu Apr 04 2024/
 
 ...Synopsis...
-A large scale upper-low will amplify across the eastern CONUS today.
-An occluded surface low near Lake Michigan will result in a tight
-pressure gradient across much of the Plains. This pressure gradient
-combined with a deeply mixed atmosphere and strong winds aloft will
-lead to strong northerly winds across the central Plains from
-Nebraska to Oklahoma. In addition, minimum relative humidity will be
-around 20 to 30 percent. Despite these conditions favorable for fire
-weather in the central Plains, no areas are needed due to moist
-fuels.
+A strong mid-level trough will amplify across the West Coast today.
+Ahead of this trough, moderate to strong mid-level flow will
+overspread a deeply mixed airmass in Arizona and the Great Basin.
+This will result in dry and breezy conditions across a broad region.
+However, fuels remain moist in this area and therefore, the fire
+weather threat will be minimal.
 
 ...Please see www.spc.noaa.gov/fire for graphic product...
 
@@ -51,6 +72,51 @@ fuels.
  
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## SPC Apr 4, 2024 1630 UTC Day 1 Convective Outlook
+
+date: 2024-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1125 AM CDT Thu Apr 04 2024
+
+Valid 041630Z - 051200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS THIS
+AFTERNOON/EVENING FROM ID INTO WESTERN MT...
+
+...SUMMARY...
+Isolated, marginally severe hail and wind will be possible this
+afternoon/evening from Idaho into western Montana.
+
+...Synopsis...
+A highly amplified pattern will persist over the CONUS through
+Friday morning, with a deep midlevel trough moving slowly inland
+over the Pacific coast, and a separate/deep low making gradual
+eastward progress over the Mid-Atlantic/southern New England.  Cold
+midlevel temperatures and resulting conditionally unstable
+low-midlevel lapse rates will result in weak buoyancy and low-topped
+convection/isolated lightning flashes today from the upper OH Valley
+into the Mid-Atlantic.  Out west, there will be some potential for a
+strong storm or two along the more north-south front across western
+ID and up to an east-west frontal segment across western MT. 
+Profiles are closer to saturated today compared to yesterday at
+BOI/TFX, and associated clouds will tend to slow surface heating
+along and east-through-south of the frontal segments.  Still, there
+will be enough buoyancy for a low-end wind/hail threat, given strong
+deep-layer, south-southwesterly shear/long hodographs.
+
+..Thompson/Kerr.. 04/04/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 
@@ -894,26 +960,6 @@ CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
  
 
 <https://www.spc.noaa.gov/products/watch/ws0072.html>
-
----
-
-## SPC - No watches are valid as of Mon Apr  1 13:49:02 UTC 2024
-
-date: 2024-04-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Mon Apr  1 13:49:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Mon Apr  1 13:49:02 UTC 2024
-
-date: 2024-04-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Mon Apr  1 13:49:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 

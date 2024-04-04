@@ -1,11 +1,585 @@
 ---
 title: tech likely 2024.14
-updated: 2024-04-03 08:04:35
+updated: 2024-04-04 10:17:54
 ---
 
 # tech likely 2024.14
 
-(date: 2024-04-03 08:04:35)
+(date: 2024-04-04 10:17:54)
+
+---
+
+##  Scientists have created the largest 3D map of our universe to date... 
+
+date: 2024-04-04, updated: 2024-04-04, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044331-scientists-have-created-t>
+
+---
+
+## Save-The-Date: DoD-NASA Lidar Technical Interchange Meeting (TIM)
+
+date: 2024-04-04, from: NASA breaking news
+
+Details DoD-NASA Lidar TIM August 13-15, 2024 MIT Lincoln Laboratory in Arlington, VA (Crystal City)241 18th St S, Arlington, VA 22202 MIT Lincoln Laboratory is hosting a TIM between NASA and DoD to facilitate the sharing of lidar knowledge between these institutions and identify potential areas of collaboration that maximally utilizes the strengths from each [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/nesc/save-the-date-lidar-tim/>
+
+---
+
+##  Total Eclipse of the Heart, Literal Video Version 
+
+date: 2024-04-04, updated: 2024-04-04, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/total-eclipse-of-the-heart-literal-video-version>
+
+---
+
+## Tech Today: Synthetic DNA Diagnoses COVID, Cancer
+
+date: 2024-04-04, from: NASA breaking news
+
+NASA-funded molecular research enables better disease detection 
+
+<https://www.nasa.gov/directorates/stmd/tech-transfer/tech-today-synthetic-dna-diagnoses-covid-cancer/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-04-04, from: Miguel de Icaza Mastondon feed)
+
+<p>I realized I had not posted this here.</p><p>Short version, &quot;AI for Genocide&quot; article:</p><p><a href="https://www.972mag.com/lavender-ai-israeli-army-gaza/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">972mag.com/lavender-ai-israeli</span><span class="invisible">-army-gaza/</span></a></p><p>Further reporting:</p><p><a href="https://www.cnn.com/2024/04/03/middleeast/israel-gaza-artificial-intelligence-bombing-intl/index.html" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">cnn.com/2024/04/03/middleeast/</span><span class="invisible">israel-gaza-artificial-intelligence-bombing-intl/index.html</span></a></p><p><a href="https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">theguardian.com/world/2024/apr</span><span class="invisible">/03/israel-gaza-ai-database-hamas-airstrikes</span></a></p><p><a href="https://www.independent.co.uk/news/world/middle-east/israel-gaza-hamas-war-ai-b2523039.html" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">independent.co.uk/news/world/m</span><span class="invisible">iddle-east/israel-gaza-hamas-war-ai-b2523039.html</span></a></p><p>The infographics on how they determine you are an enemy of the state use cute icons:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112213819944433424>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-04-04, from: Miguel de Icaza Mastondon feed)
+
+<p>I guess my domains moved away from Google Domains, where are we migrating to?</p> 
+
+<https://mastodon.social/@Migueldeicaza/112213785867052597>
+
+---
+
+## NASA Wallops to Launch Three Sounding Rockets During Solar Eclipse
+
+date: 2024-04-04, from: NASA breaking news
+
+Three Black Brant IX sounding rockets for the Atmospheric Perturbations around Eclipse Path (APEP) mission are scheduled to launch from NASA’s Wallops Flight Facility launch range in Virginia. The launch window opens April 8, 2024, at 2:40 p.m. EDT.&#160;&#160; Launching approximately 45 minutes before, during, and after the peak local eclipse, the APEP sounding rockets [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-launch-three-sounding-rockets-during-solar-eclipse/>
+
+---
+
+## Just Watch Shoppers Closely
+
+date: 2024-04-04, updated: 2024-04-04, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/04/04/just-watch-shoppers-closely/>
+
+---
+
+##  This Woman Deconstructs 100-Year-Old Books To Restore Them 
+
+date: 2024-04-04, updated: 2024-04-04, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/this-woman-deconstructs-100-year-old-books-to-restore-them>
+
+---
+
+## Advances in Understanding COPV Structural Life
+
+date: 2024-04-04, from: NASA breaking news
+
+The Structures Technical Discipline Team (TDT) was involved in numerous investigations this past year, but composites, fracture mechanics, and pressure vessels dominate the list. All three of these specialties are important to composite overwrapped pressure vessels (COPV). One of the TDT&#8217;s most important findings this year was the exposure of an inherent vulnerability that underpredicts [&#8230;] 
+
+<https://www.nasa.gov/general/advances-in-understanding-copv-structural-life/>
+
+---
+
+## Dark Energy May Be Weakening, Major Astrophysics Study Finds
+
+date: 2024-04-04, from: Quanta Magazine
+
+A generation of physicists has referred to the dark energy that permeates the universe as “the cosmological constant.” Now the largest map of the cosmos to date hints that this mysterious energy has been changing over billions of years.             <p>The post <a href="https://www.quantamagazine.org/dark-energy-may-be-weakening-major-astrophysics-study-finds-20240404/" target="_blank">Dark Energy May Be Weakening, Major Astrophysics Study Finds</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/dark-energy-may-be-weakening-major-astrophysics-study-finds-20240404/>
+
+---
+
+## Harnessing the 2024 Eclipse for Ionospheric Discovery with HamSCI
+
+date: 2024-04-04, from: NASA breaking news
+
+As the total solar eclipse on April 8, 2024, draws closer, a vibrant community of enthusiastic amateur radio operators, known as “hams,” is gearing up for an exciting project with the Ham Radio Science Citizen Investigation (HamSCI) group. Our goal is clear and ambitious: to use the Moon’s shadow as a natural laboratory to uncover […] 
+
+<https://science.nasa.gov/solar-system/skywatching/2024-eclipse-ionospheric-discovery-with-hamsci/>
+
+---
+
+## Understanding AP and RSS
+
+date: 2024-04-04, from: Dave Winer's Scripting News
+
+<p>What does ActivityPub does that RSS doesn't?</p>
+<p>Off the top of my head, it's not the ability to syndicate, RSS already does that. I can follow anyone on any server. </p>
+<p>I think it's the timeline? And the ability to delete posts. Keeping all that in sync is a lot of work, and presumably a lot of traffic? </p>
+<p>Also replies. If I reply to a post when viewing it on another server, the reply should show up under any other view of that post.</p>
+<p>What else??</p>
+<p>PS: Only thinking about features that are used by Mastodon to federate, not potential future features. If that were the rule, then RSS could do anything AP could do, right -- because you can always add the feature. So, just the features that are in use.</p>
+<p>PPS: I posted this <a href="https://mastodon.social/@davew/112213481032208332">on Mastodon</a> and may post it elsewhere, if I do I'll link them in here. </p>
+ 
+
+<http://scripting.com/2024/04/04/143706.html?title=understandingApAndRss>
+
+---
+
+## Stickerbombed: Star Labs StarBook Mk VI
+
+date: 2024-04-04, from: mrusme blog
+
+A laptop is not only a tool but also a canvas. I take great pleasure in
+personalizing my tools to function and look the way I want them to. 
+
+<https://xn--gckvb8fzb.com/stickerbombed-star-labs-starbook-mk-vi/>
+
+---
+
+## Radxa's SATA HAT makes compact Pi 5 NAS
+
+date: 2024-04-04, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Radxa's SATA HAT makes compact Pi 5 NAS</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Radxa's latest iteration of its <a href="https://radxa.com/products/accessories/penta-sata-hat">Penta SATA HAT</a> has been retooled to work with the Raspberry Pi 5.</p>
+
+<p><img class="insert-image" width="700" height="auto" alt="Radxa Penta SATA HAT for Raspberry Pi 5 with a Pi mug" src="https://www.jeffgeerling.com/sites/default/files/images/radxa-penta-sata-hat-pi-5-and-mug.jpeg"></p>
+
+<p>The Pi 5 includes a PCIe connector, which allows the SATA hat to interface directly via a JMB585 SATA to PCIe bridge, rather than relying on the older <a href="https://wiki.radxa.com/Dual_Quad_SATA_HAT">Dual/Quad SATA HAT's</a> SATA-to-USB-to-PCIe setup.</p>
+
+<p>Does the direct PCIe connection help? <em>Yes.</em></p>
+
+<p>Is the Pi 5 noticeably faster than the Pi 4 for NAS applications? <em>Yes.</em></p>
+
+<p><img class="insert-image" width="700" height="auto" alt="Radxa Penta SATA HAT installed on Pi 5 with Drives next to it" src="https://www.jeffgeerling.com/sites/default/files/images/radxa-penta-sata-hat-drives.jpeg"></p>
+
+<p>Is the Pi 5 + Penta SATA HAT the ultimate low-power NAS solution? <em>Maybe.</em></p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-04-04T09:08:29-05:00" title="Thursday, April 4, 2024 - 09:08" class="datetime">April 4, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/radxas-sata-hat-makes-compact-pi-5-nas>
+
+---
+
+## Death is a Feature
+
+date: 2024-04-04, from: Doc Searls (at Harvard), New Old Blog
+
+When Parisians got tired of cemeteries during the French Revolution, they conscripted priests to relocate bones of more than six million deceased forebears to empty limestone quarries below the city: a hundred miles of rooms and corridors now called The Catacombes. It was from those quarries that much of the city’s famous structures above—Notre Dame, et. al.—were built [&#8230;] 
+
+<https://doc.searls.com/2024/04/04/death-is-a-feature/>
+
+---
+
+## How NASA’s Roman Telescope Will Measure Ages of Stars
+
+date: 2024-04-04, from: NASA breaking news
+
+Guessing your age might be a popular carnival game, but for astronomers it’s a real challenge to determine the ages of stars. Once a star like our Sun has settled into steady nuclear fusion, or the mature phase of its life, it changes little for billions of years. One exception to that rule is the [&#8230;] 
+
+<https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-telescope-will-measure-ages-of-stars/>
+
+---
+
+## NASA Achieves Milestone for Engines to Power Future Artemis Missions
+
+date: 2024-04-04, from: NASA breaking news
+
+NASA achieved a major milestone April 3 for production of new RS-25 engines to help power its Artemis campaign to the Moon and beyond with completion of a critical engine certification test series at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. The 12-test series represents a key step for lead engines contractor Aerojet [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/stennis/nasa-achieves-milestone-for-engines-to-power-future-artemis-missions/>
+
+---
+
+## Looking for DALL-E 3 Help
+
+date: 2024-04-04, from: Doc Searls (at Harvard), New Old Blog
+
+I just returned to DALL-E 3 after using its Microsoft version (currently called Copilot &#124; Designer) for a while. But I can&#8217;t get in. See how it says &#8220;Try in ChatGPT↗︎?&#8221; When I do that, it goes to https://chat.openai.com/. After I log in there, it offers no clue about where DALL-E 3 is. So I [&#8230;] 
+
+<https://doc.searls.com/2024/04/04/looking-for-dall-e-3-help/>
+
+---
+
+## The Gardener
+
+date: 2024-04-04, from: Ayjay blog
+
+I am very pleased that my colleague Philip Jenkins has written about Rudyard Kipling’s “The Gardener,” one of the finest short stories in the world. His care not to spoil the story is exemplary, but it’s virtually impossible to say anything meaningful about the story except in light of its conclusion.  So you should read [&#8230;] 
+
+<https://blog.ayjay.org/the-gardener/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-04-04, from: Miguel de Icaza Mastondon feed)
+
+<p>The name of the program is “where’s daddy” in case you were wondering.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112213064153131546>
+
+---
+
+## Eclipses Near and Far
+
+date: 2024-04-04, from: NASA breaking news
+
+On April 8, 2024, North America will witness its last total solar eclipse for more than twenty years. Other parts of the world will experience the rare celestial event in the coming decade. A total solar eclipse occurs when the Moon passes directly between the Sun and the Earth, blocking its disk from view but [&#8230;] 
+
+<https://www.nasa.gov/history/eclipses-near-and-far/>
+
+---
+
+## NASA Partnerships Bring 2024 Total Solar Eclipse to Everyone
+
+date: 2024-04-04, from: NASA breaking news
+
+On April 8, NASA and its partners will celebrate the wonders of the total solar eclipse as it passes over North America, with the path of totality in the United States, from Kerrville, Texas, to Houlton, Maine. Eclipses are an important contribution to NASA’s research into the Sun’s outer atmosphere, or corona, and the part [&#8230;] 
+
+<https://www.nasa.gov/general/nasa-partnerships-bring-2024-total-solar-eclipse-to-everyone/>
+
+---
+
+## 2024-04-04 An eye for an eye
+
+date: 2024-04-04, from: Alex Schroeder's Blog
+
+<h1 id="2024-04-04-an-eye-for-an-eye">2024-04-04 An eye for an eye</h1>
+
+<p>I often think about the number of dead killed in an incident and the number of dead killed in the reaction.
+It&rsquo;s not really revenge but a sort of &ldquo;we can strike back so we should&rdquo; and then people don&rsquo;t know when to stop.</p>
+
+<p>Personally, I find that &ldquo;an eye for an eye&rdquo; is terrible advice.</p>
+
+<p>I have no words for &ldquo;a hundred eyes for an eye.&rdquo;</p>
+
+<p>Think about Gaza in 2024: over 30,000 dead in half a year.</p>
+
+<blockquote>
+<p>As of 5 March 2024, over 31,000 people (30,228 Palestinian and 1,410 Israeli) have been reported as killed in the Israel–Hamas war, including 94 journalists (89 Palestinian, 2 Israeli and 3 Lebanese) and over 136 UNRWA aid workers.</p>
+
+<p>On 7 October 2023, 1,139 Israelis and foreign nationals, including 764 civilians, were killed, and 248 persons taken hostage during the initial attack on Israel from the Gaza Strip. – <a href="https://en.wikipedia.org/wiki/Casualties_of_the_Israel–Hamas_war">Casualties of the Israel Hamas war</a></p>
+</blockquote>
+
+<p>30228 Palestinians dead after the original incident killed 1139 is more than 25:1.</p>
+
+<p>I wonder about Iraq, too: 300,000 dead in over 20 years.</p>
+
+<blockquote>
+<p>Documented civilian deaths from violence: 187,116 – 210,566</p>
+
+<p>Total violent deaths including combatants: 300,000 – <a href="https://www.iraqbodycount.org/">Iraq Body Count</a></p>
+</blockquote>
+
+<p>And why?</p>
+
+<blockquote>
+<p>Another justification included the alleged connection between the regime of Saddam Hussein and that of terrorist organizations such as Al-Qaeda that had attacked the United States during the September 11, 2001, terrorist attacks. – <a href="https://en.wikipedia.org/wiki/2003_invasion_of_Iraq">2003 invasion of Iraq</a></p>
+</blockquote>
+
+<p>The original incident:</p>
+
+<blockquote>
+<p>Excluding the hijackers, the attacks killed 2,977 people, injured thousands more … – <a href="https://en.wikipedia.org/wiki/September_11_attacks">September 11 attacks</a></p>
+</blockquote>
+
+<p>300,000 dead after the original incident killed 2,977 is more than 100:1.</p>
+
+<p>The two seem somehow related, I just can&rsquo;t put it into words. High tech weapons against civilians, drones, city warfare, a population that hates the invader, news so terrible I can&rsquo;t even finish reading the Wikipedia articles.</p>
+
+<p>Oh, and out of curiosity, I had to look up the situation in Ukraine, too.</p>
+
+<blockquote>
+<p>Ukrainian forces: ~70,000 killed, 100,000–120,000 wounded (US estimates) … Russian forces: ~120,000 killed, 170,000–180,000 wounded (US estimates) … the United Nations confirmed that by 31 January 2024, 10,378 civilians had been killed and 19,632 had been injured, but said they believe the real number is higher. – <a href="https://en.wikipedia.org/wiki/Casualties_of_the_Russo-Ukrainian_War">Casualties of the Russo-Ukrainian War</a></p>
+</blockquote>
+
+<p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a> <a class="tag" href="/search/?q=%23Ukraine">#Ukraine</a> <a class="tag" href="/search/?q=%23Russia">#Russia</a></p> 
+
+<https://alexschroeder.ch/view/2024-04-04-eye-for-an-eye>
+
+---
+
+## Some suggested reading: AI and dopamine
+
+date: 2024-04-04, from: Status-Q blog
+
+Andrew Curry&#8217;s thoughtful newletter &#8216;Just Two Things&#8217; arrives in my inbox three times a week (which, I confess, is slightly too often for me always to give it the attention it deserves).   The two things he talks about today included some gems, though. First, he looks at Ted Gioia&#8217;s article, The State of the <a class="more-link excerpt-link" href="https://statusq.org/archives/2024/04/04/11987/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<https://statusq.org/archives/2024/04/04/11987/>
+
+---
+
+## Careers in computer science: Two perspectives
+
+date: 2024-04-04, from: Raspberry Pi (.org)
+
+<p>As educators, it&#8217;s important that we showcase the wide range of career opportunities available in the field of computing, not only to inspire learners, but also to help them feel sure they&#8217;re choosing to study a subject that is useful for their future. For example, a survey from the BBC in September 2023 found that&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/careers-in-computer-science-two-perspectives/">Careers in computer science: Two perspectives</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/careers-in-computer-science-two-perspectives/>
+
+---
+
+## This wooden PC’s fan is driven by Raspberry Pi Pico
+
+date: 2024-04-04, from: Raspberry Pi News (.com)
+
+<p>Arnov Sharma needed to cool down his home-made wooden PC so he built a Raspberry Pi Pico-powered fan driver.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/this-wooden-pcs-fan-is-driven-by-raspberry-pi-pico/">This wooden PC&#8217;s fan is driven by Raspberry Pi Pico</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/this-wooden-pcs-fan-is-driven-by-raspberry-pi-pico/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-04, from: Dave Winer's Scripting News)
+
+I wonder if people know that <a href="https://news.scripting.com/">news.scripting.com</a> is a simple UI on top of FeedLand. It's 98% FeedLand, 2% hiding the power so people will feel more comfortable. I'm thinking of pulling back the curtain. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/04/03.html#a011349>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-04-04, from: Miguel de Icaza Mastondon feed)
+
+<p>From the other site</p> 
+
+<https://mastodon.social/@Migueldeicaza/112210242920763158>
+
+---
+
+## A training set for bike sharing forecasting
+
+date: 2024-04-04, from: Max Halford Blog
+
+Last night I went to a Toulouse Data Science meetup. The talks were about generative AI and information retrieval, which aren&rsquo;t topics I&rsquo;m knowledgeable about. However, one of the speakers was a friend of mine, so I went to support him. Toulouse is my hometown, so I bumped into a few people I knew. It was a nice evening.
+I chatted with an old office mate from when I interned at INSA Toulouse. 
+
+<https://maxhalford.github.io/blog/bike-sharing-forecasting-training-set/>
+
+---
+
+## macOS Finder is still bad at network file copies
+
+date: 2024-04-03, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">macOS Finder is still bad at network file copies</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>In what is becoming a kind of hobby for me, I've just finished testing another tiny NAS—more on that tomorrow.</p>
+
+<p>But as I was testing, I started getting frustrated with the fact I've never been able to get a Raspberry Pi—regardless of internal storage speeds, even with 800+ MB/sec PCIe-based storage—to consistently <em>write</em> more than around 100 MB/sec write speeds over the network, with either Samba or NFS.</p>
+
+<p>NFS would be more consistent... but it ran around 82 MB/sec:</p>
+
+<p><img class="insert-image" width="398" height="auto" alt="NFS file copy to Raspberry Pi 5 stalled at 80 MB per second" src="https://www.jeffgeerling.com/sites/default/files/images/nfs-file-copy-to-pi-5-macos.png"></p>
+
+<p>Samba would peak around 115 MB/sec, but it was wildly inconsistent, averaging around 70 MB/sec:</p>
+
+<p><img class="insert-image" width="426" height="auto" alt="Samba file copy to Raspberry Pi 5 wild undulations" src="https://www.jeffgeerling.com/sites/default/files/images/samba-file-copy-to-pi-5-macos.png"></p>
+
+<p>I have a problem: I use macOS<sup id="usemac"><a href="#fn:usemac" class="footnote-ref" role="doc-noteref">1</a></sup>.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-04-03T16:56:51-05:00" title="Wednesday, April 3, 2024 - 16:56" class="datetime">April 3, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/macos-finder-still-bad-network-file-copies>
+
+---
+
+## Tribblix image structural changes
+
+date: 2024-04-03, from: OS News
+
+We&#8217;ve talked about Tribblix before on OSNews &#8211; it&#8217;s a distribution of illumos, built by Peter Tribble. In his latest blog post, Tribble details some of the changes he&#8217;s made to the live ISO and other images for the most recent release. All along, there&#8217;s been an overlay (think a group package) called base-iso that lists the packages that are present in the live image. On installation, this is augmented with a few extra packages that you would expect to be present in a running system but which don&#8217;t make much sense in a live image, to construct the base system. You can add additional software, but the base is assumed to be present. The snag with this is that base-iso is very much a single-purpose generic concept. By its very nature it has to be minimal enough to not be overly bloated, yet contain as many drivers as necessary to handle the majority of systems. As such, the regular ISO image has fallen between 2 stools &#8211; it doesn&#8217;t have every single driver, so some systems won&#8217;t work, while it has a lot of unnecessary drivers for a lot of common use cases. ↫ Peter Tribble Tribble then details how he addressed this issue, which is, unsurprisingly, rather clever. I&#8217;m not going to spoil it here, so go on over and read the details. 
+
+<https://www.osnews.com/story/139150/tribblix-image-structural-changes/>
+
+---
+
+##  Farm Animal Family Photos 
+
+date: 2024-04-03, updated: 2024-04-03, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/farm-animal-family-photos>
+
+---
+
+## The Marshall Star for April 3, 2024
+
+date: 2024-04-03, from: NASA breaking news
+
+Huntsville, Marshall Preparing to Celebrate Total Solar Eclipse By Celine Smith On April 8 between 1 and 3 p.m., the Moon will pass between the Sun and Earth to create a total solar eclipse for 15 states. While Alabama will experience a partial eclipse, area residents can enjoy some fun-filled festivities to celebrate the event. [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-april-3-2024/>
+
+---
+
+## Improvements to static analysis in the GCC 14 compiler
+
+date: 2024-04-03, from: OS News
+
+I work at Red Hat on GCC, the GNU Compiler Collection.&#160;For the last five releases of GCC, I&#8217;ve been working on -fanalyzer, a static analysis pass that tries to identify various problems at compile-time, rather than at runtime. It performs &#8220;symbolic execution&#8221; of C source code—effectively simulating the behavior of the code along the various possible paths of execution through it. This article summarizes what&#8217;s new with -fanalyzer in GCC 14, which I hope will be officially released sometime in April 2024. ↫ David Malcolm No matter how many more of you become a Patreon to keep OSNews alive, I&#8217;ll never be able to really add anything meaningful to articles like these. 
+
+<https://www.osnews.com/story/139147/improvements-to-static-analysis-in-the-gcc-14-compiler/>
+
+---
+
+## KDE 6 release: D-Bus and Polkit galore
+
+date: 2024-04-03, from: OS News
+
+The SUSE security team restricts the installation of system wide D-Bus services and Polkit policies in openSUSE distributions and derived SUSE products. Any package that ships these features needs to be reviewed by us first, before it can be added to production repositories. In November, openSUSE KDE packagers approached us with a long list of KDE components for an upcoming KDE6 major release. The packages needed adjusted D-Bus and Polkit whitelistings due to renamed interfaces or other breaking changes. Looking into this many components at once was a unique experience that also led to new insights, which will be discussed in this article. For readers that are new to D-Bus and/or Polkit, the following sections offer a summary to get a better idea about these systems. ↫ Matthias Gerstner You don&#8217;t get these kinds of in-depth looks at how a major new release like KDE 6 gets implemented in a popular distribution like openSUSE. What&#8217;s especially crazy is that this only really covers D-Bus and Polkit, and those are just two of the countless aspects of openSUSE affected by KDE 6. 
+
+<https://www.osnews.com/story/139143/kde-6-release-d-bus-and-polkit-galore/>
+
+---
+
+##  Crows are on the short list of animals that have domesticated humans.... 
+
+date: 2024-04-03, updated: 2024-04-03, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044327-crows-are-on-the-short>
+
+---
+
+## Seven Years of APFS
+
+date: 2024-04-03, from: Michael Tsai
+
+Howard Oakley: Although APFS has certainly had its moments over the last seven years, Apple&#8217;s gambles have paid off, and proved key to the success of Apple silicon Macs. Had there been no APFS, many of the fundamental technologies like Secure Boot and the Signed System Volume (SSV) would have been far tougher if not [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/03/seven-years-of-apfs/>
+
+---
+
+## A Disk So Full, It Couldn’t Be Restored
+
+date: 2024-04-03, from: Michael Tsai
+
+Glenn Fleishman (Mastodon): Turned out, my kid had managed a neat trick, though they were not alone: they had filled macOS&#8217;s startup volume storage so full that the operating system was incapable of deleting files in any fashion. Instead of halting the massive Steam download when the drive became disastrously full, macOS continued to write [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/03/a-disk-so-full-it-couldnt-be-restored/>
+
+---
+
+## Checking Bootable Systems Using bputil
+
+date: 2024-04-03, from: Michael Tsai
+
+Howard Oakley: Apple gives the user control over the level of security to be used, in Startup Security Utility, in Recovery. For this to work with boot volume groups (BVGs), each must have its own set of boot security policies, determined by its LocalPolicy. Without a valid LocalPolicy, Apple silicon Macs will refuse to boot [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/03/checking-bootable-systems-using-bputil/>
+
+---
+
+## Apple’s Problem With Lina Khan
+
+date: 2024-04-03, from: Michael Tsai
+
+Matt Stoller (ArsTechnica): As part of the claim outside of the smartphone, the Antitrust Division asserted that &#8220;Apple&#8217;s conduct extends beyond just monopoly profits and even affects the flow of speech. For example, Apple is rapidly expanding its role as a TV and movie producer and has exercised that role to control content.&#8221; Some economists [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/03/apples-problem-with-lina-khan/>
+
+---
+
+##  &#8220;A 600-Year-Old Blueprint for Weathering Climate Change&#8221; 
+
+date: 2024-04-03, updated: 2024-04-03, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/a-600-year-old-blueprint-for-weathering-climate-change>
+
+---
+
+##  The Discarded by Colin Hamilton sounds interesting&#8230;an imagined librarian pulls imagined books... 
+
+date: 2024-04-03, updated: 2024-04-03, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044318-the-discarded-by-colin-ha>
+
+---
+
+## They Can’t Be Worse Than Most Humans
+
+date: 2024-04-03, updated: 2024-04-03, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/04/03/they-cant-be-worse-than-most-humans/>
+
+---
+
+##  Moira Donegan: &#8220;If the post-Dobbs era has shown us anything, it is... 
+
+date: 2024-04-03, updated: 2024-04-03, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044322-moira-donegan-if-the-post>
+
+---
+
+## Developers’ fireside chat – 6th April
+
+date: 2024-04-03, from: RiscOS Story
+
+This coming Saturday (6th April) is the next opportunity for anyone who is either developing on or for RISC OS, or interested in doing so, to meet up with like-minded folk and discuss that very subject. These &#8216;friendly fireside chats&#8217; are held on a semi-regular basis and allow people to spend an evening at a meeting in which anyone can seek (or give) advice. It doesn&#8217;t matter if you consider yourself an expert, or you haven&#8217;t yet cut your programming teeth, or if you put yourself somewhere between those two&#8230; 
+
+<https://www.riscository.com/2024/developers-fireside-chat-6th-april/>
+
+---
+
+##  Eating Like a Salmon Is Better Than Eating Actual Salmon, Study Finds.... 
+
+date: 2024-04-03, updated: 2024-04-03, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044321-eating-like-a-salmon-is>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-03, from: Dave Winer's Scripting News)
+
+Twitter is the place old friends who haven't heard they should find a new home are still posting. There are quite a few of them. Fact. It's kind of like what Facebook has become. There are a set of people I expect to see there regularly, and that's why I keep going back. Again, fact. 
+
+<http://scripting.com/2024/04/03.html#a152224>
+
+---
+
+##  Paul Simon on The Late Show With Stephen Colbert 
+
+date: 2024-04-03, updated: 2024-04-03, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/paul-simon-on-the-late-show-with-stephen-colbert>
 
 ---
 
@@ -102,6 +676,16 @@ date: 2024-04-03, from: Tilde.news
 <p><a href="https://tilde.news/s/sit7cp/backlight_on_psion_5">Comments</a></p> 
 
 <https://www.hpcfactor.com/forums/forums/thread-view.asp?tid=21343>
+
+---
+
+## Introducing Simpler Project Creation in Deno Deploy
+
+date: 2024-04-03, updated: 2024-04-03, from: Deno blog
+
+Introducing a more simplified project creation flow in Deno Deploy, including seamless CI/CD setup, a more transparent build and deployment step, and more. 
+
+<https://deno.com/blog/simpler-project-creation-deploy>
 
 ---
 
@@ -1544,6 +2128,16 @@ Follow on <a href="https://twitter.com/pgmoneta">Twitter</a>.</p>
 <p><a href="https://pgmoneta.github.io/">pgmoneta</a> is released under the <a href="https://opensource.org/licenses/BSD-3-Clause">3-clause BSD license</a>.</p> 
 
 <https://www.postgresql.org/about/news/pgmoneta-010-2831/>
+
+---
+
+## Center Parcs 2024
+
+date: 2024-04-01, from: Miek Giebin blog
+
+<p>Met Inbal en Yaniv naar Center Parcs in Zandvoort.</p> 
+
+<https://miek.nl/galleries/2024-centerparcs/>
 
 ---
 

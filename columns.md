@@ -1,11 +1,63 @@
 ---
 title: columns 2024.14
-updated: 2024-04-03 08:04:35
+updated: 2024-04-04 10:17:54
 ---
 
 # columns 2024.14
 
-(date: 2024-04-03 08:04:35)
+(date: 2024-04-04 10:17:54)
+
+---
+
+## Surveillance by the New Microsoft Outlook App
+
+date: 2024-04-04, updated: 2024-04-04, from: Bruce Schneier blog
+
+<p>The ProtonMail people are accusing Microsoft&#8217;s new Outlook for Windows app of <a href="https://proton.me/blog/outlook-is-microsofts-new-data-collection-service">conducting extensive surveillance</a> on its users. It shares data with advertisers, a lot of data:</p>
+<blockquote><p>The window informs users that Microsoft and those 801 third parties use their data for a number of purposes, including to:</p>
+<ul>
+<li>Store and/or access information on the user&#8217;s device
+<li>Develop and improve products
+<li>Personalize ads and content
+<li>Measure ads and content
+<li>Derive audience insights
+<li>Obtain precise geolocation data
+<li>Identify users through device scanning </ul>
+</blockquote>
+<p><a href="https://www.ghacks.net/2024/01/12/proton-mail-says-that-the-new-outlook-app-for-windows-is-microsofts-new-data-collection-service/">Commentary</a>.</p>
+...</li></li></li></li></li></li></li> 
+
+<https://www.schneier.com/blog/archives/2024/04/surveillance-by-the-new-microsoft-outlook-app.html>
+
+---
+
+## GroceriesGPT
+
+date: 2024-04-04, from: Paolo Valdemarin's blog
+
+A friend this morning shared a list of vegetables, noting how hard it is to eat 30 different ones in the same week. I immediately turned to my AI chatbot to ask to create a list of commonly eaten vegetables, and of course I got a very good one. At that point I thought that &#8230; <a href="https://val.demar.in/2024/04/groceriesgpt/" class="more-link">Continue reading<span class="screen-reader-text"> "GroceriesGPT"</span></a> 
+
+<https://val.demar.in/2024/04/groceriesgpt/>
+
+---
+
+## Chips, Tech, and Steel
+
+date: 2024-04-04, from: Robert Reich's blog
+
+How to get &#8220;American&#8221; corporations to act in America&#8217;s interest? 
+
+<https://robertreich.substack.com/p/steel-chips-and-big-tech-the-real>
+
+---
+
+## The GOP’s Costly Abortion Strategy
+
+date: 2024-04-04, from: Dan Rather's Steady
+
+How Democrats could flip Florida 
+
+<https://steady.substack.com/p/the-gops-costly-abortion-strategy>
 
 ---
 
@@ -103,7 +155,7 @@ TLDR: This is a smart move for Yahoo. It didn’t cost them much. I would say th
 
 ## xz Utils Backdoor
 
-date: 2024-04-02, updated: 2024-04-02, from: Bruce Schneier blog
+date: 2024-04-02, updated: 2024-04-04, from: Bruce Schneier blog
 
 <p>The cybersecurity world got really lucky last week. An intentionally placed backdoor in xz Utils, an open-source compression utility, was pretty much <a href="https://www.openwall.com/lists/oss-security/2024/03/29/4">accidentally discovered</a> by a Microsoft engineer&#8212;weeks before it would have been incorporated into both Debian and Red Hat Linux. From <a href="https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/">ArsTehnica</a>:</p>
 <blockquote><p>Malicious code added to xz Utils versions 5.6.0 and 5.6.1 modified the way the software functions. The backdoor manipulated sshd, the executable file used to make remote SSH connections. Anyone in possession of a predetermined encryption key could stash any code of their choice in an SSH login certificate, upload it, and execute it on the backdoored device. No one has actually seen code uploaded, so it&#8217;s not known what code the attacker planned to run. In theory, the code could allow for just about anything, including stealing encryption keys or installing malware...</p></blockquote> 

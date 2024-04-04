@@ -1,11 +1,33 @@
 ---
 title: libraries 2024.14
-updated: 2024-04-03 08:04:35
+updated: 2024-04-04 10:17:54
 ---
 
 # libraries 2024.14
 
-(date: 2024-04-03 08:04:35)
+(date: 2024-04-04 10:17:54)
+
+---
+
+## Transitional Agreements Aren’t Working: What Comes Next?
+
+date: 2024-04-04, from: Scholarly Kitchen
+
+<p>Transitional agreements are proving to be neither transitional nor transformative. How should libraries and publishers reassess and chart a different course?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/04/04/transitional-agreements-arent-working-what-comes-next/">Transitional Agreements Aren’t Working: What Comes Next?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/04/04/transitional-agreements-arent-working-what-comes-next/>
+
+---
+
+## Phenobox: Raw images in TIF format of approximately 100 fruits each from 15 different apple cultivars
+
+date: 2024-04-04, from: ETH Zurich, recently added
+
+Broggini, Giovanni 
+
+<http://hdl.handle.net/20.500.11850/590509>
 
 ---
 
@@ -18,6 +40,18 @@ date: 2024-04-03, from: Scholarly Kitchen
  
 
 <https://scholarlykitchen.sspnet.org/2024/04/03/kitchen-essentials-tracey-armstrong-ccc/>
+
+---
+
+## Day in Review (April 1–4)
+
+date: 2024-04-02, from: Association of Research Libraries News
+
+<p>Last Updated on April 4, 2024, 3:42 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 2 &#124; Wednesday, April 3 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-1-4/">Day in Review (April 1–4)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/day-in-review/day-in-review-april-1-4/>
 
 ---
 

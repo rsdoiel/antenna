@@ -1,11 +1,766 @@
 ---
 title: pacific 2024.14
-updated: 2024-04-03 08:04:34
+updated: 2024-04-04 10:17:54
 ---
 
 # pacific 2024.14
 
-(date: 2024-04-03 08:04:34)
+(date: 2024-04-04 10:17:54)
+
+---
+
+## Feelings on the flag
+
+date: 2024-04-04, updated: 2024-04-04, from: Marianas Variety
+
+RECENTLY, a video circulated on social media showing the Commonwealth flag being burned. For many of us who watched the video, these emotions may have come to mind: shock, anger, disgust. To burn a flag usually is a statement of protest, and many groups and organizations have done it to make various statements. 
+
+<https://www.mvariety.com/views/letters_to_editor/feelings-on-the-flag/article_644bc202-f244-11ee-9d86-3f82af76d2d1.html>
+
+---
+
+## Dollar for a good cause
+
+date: 2024-04-04, updated: 2024-04-04, from: Marianas Variety
+
+IT has been reported that Arianna Pando, a respiratory therapist at the Commonwealth Health Center, looked after Jesse Rivera when he suffered cardiac arrest that resulted in anoxic brain injury. Since then, Arianna has been a “guardian angel” to Jesse’s wife, Sharolyn Alvarez, and their two youngest daughters, one of whom was born on Saipan. 
+
+<https://www.mvariety.com/views/letters_to_editor/dollar-for-a-good-cause/article_318bfd4c-f234-11ee-bcdb-b364512e8777.html>
+
+---
+
+## DPS: 4Ds Prevention Campaign a success
+
+date: 2024-04-04, updated: 2024-04-04, from: Marianas Variety
+
+THERE were zero fatalities or serious injuries during the holidays, thanks to the Drunk, Drugged, Drowsy and Distracted Driving or 4Ds Prevention Campaign, Department of Public Safety-Highway Safety Patrol Sgt. Adrian Mendiola said in a press conference on Wednesday. 
+
+<https://www.mvariety.com/news/local/dps-4ds-prevention-campaign-a-success/article_84c4af90-f261-11ee-8c68-b7c174d57b92.html>
+
+---
+
+## First visit to the CNMI
+
+date: 2024-04-04, updated: 2024-04-04, from: Marianas Variety
+
+United States Air Force Secretary Frank Kendall visited Saipan and Tinian Thursday morning. On Saipan, Secretary Kendall was greeted by Gov, Arnold Palacios and Lt. Gov. David Apatang at the airport. They were joined by Commonwealth Ports Authority Board Chair Joe Ayuyu and CPA Executive Director Leo B. Tudela to discuss, among other things, the Air Force activities in the CNMI, including the divert airfield on Tinian. 
+
+<https://www.mvariety.com/news/local/first-visit-to-the-cnmi/article_fc022a86-f245-11ee-8526-2ff41e1713c3.html>
+
+---
+
+## IRT Team is back for another Operation Wellness
+
+date: 2024-04-04, updated: 2024-04-04, from: Marianas Variety
+
+THE Innovative Readiness Training team is back in the CNMI to conduct another Operation Wellness. 
+
+<https://www.mvariety.com/news/local/irt-team-is-back-for-another-operation-wellness/article_a072c742-f273-11ee-b037-13bdd2c772e9.html>
+
+---
+
+## Guard sues security company for labor violations
+
+date: 2024-04-04, updated: 2024-04-04, from: Marianas Variety
+
+MD. Mahamadul Hasan has filed a complaint in federal court against Triple K Corporation, doing business as Global Security Agency, and its principal, Maria Rizallie S. Punzalan, alleging violations of the Fair Labor Standards Act. 
+
+<https://www.mvariety.com/news/local/guard-sues-security-company-for-labor-violations/article_ad07a0fe-f26e-11ee-8e48-afca6e03951c.html>
+
+---
+
+## Official: Casino commission is necessary
+
+date: 2024-04-04, updated: 2024-04-04, from: Marianas Variety
+
+THE existence of the Commonwealth Casino Commission is necessary as long as there is still a valid casino license, CCC Chairman Edward C. Deleon Guerrero said. 
+
+<https://www.mvariety.com/news/local/official-casino-commission-is-necessary/article_b49ae116-f23a-11ee-8a91-eb3ea0ef909b.html>
+
+---
+
+## Help save the Old Man by the Sea
+
+date: 2024-04-04, updated: 2024-04-04, from: Marianas Variety
+
+NON-PROFIT group Island Keepers CNMI is calling on the public to help “Save the Old Man” on April 13 and 14. 
+
+<https://www.mvariety.com/news/local/help-save-the-old-man-by-the-sea/article_73d00cf8-f251-11ee-aef9-a7cfbd1fb59b.html>
+
+---
+
+## NBA roundup: Pistons fall to Hawks despite Malachi Flynn's 50
+
+date: 2024-04-04, updated: 2024-04-04, from: Marianas Variety
+
+(Reuters) — Jalen Johnson recorded the first triple-double of his career and the Atlanta Hawks clinched a spot in the play-in tournament with a 121-113 win over the visiting Detroit Pistons on Wednesday. 
+
+<https://www.mvariety.com/sports/nationalsports/nba-roundup-pistons-fall-to-hawks-despite-malachi-flynns-50/article_26be98d4-f289-11ee-98b1-9713d9a3f4ef.html>
+
+---
+
+## Shohei Ohtani hits first home run for Dodgers, who beat Giants 5-4 for 3-game sweep
+
+date: 2024-04-04, updated: 2024-04-04, from: Marianas Variety
+
+LOS ANGELES (AP) — Shohei Ohtani hit his first home run for the Los Angeles Dodgers, a solo drive in the seventh inning in a 5-4 win over the San Francisco Giants on Wednesday night that finished a three-game sweep. 
+
+<https://www.mvariety.com/sports/nationalsports/shohei-ohtani-hits-first-home-run-for-dodgers-who-beat-giants-5-4-for-3/article_abd77572-f289-11ee-b40d-435fc648c4e7.html>
+
+---
+
+## Love’s End as the Parable of the Elephant
+
+date: 2024-04-04, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Michael J. Morris I wrote to you of tusks but never the rumpled cracks of the grey skin that protected a calm beast. You wrote to me about tails, just tails, as if no body would ever attach to &#8230; <a href="https://hawaiipacificreview.org/2024/04/04/loves-end-as-the-parable-of-the-elephant/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/04/04/loves-end-as-the-parable-of-the-elephant/>
+
+---
+
+## EPA's proposed new rule on hazardous waste treatment counterproductive for Guam, Perez says
+
+date: 2024-04-04, from: Pacific Island Times
+
+By Pacific Island Times News Staff Waste explosive disposal facilities would be exempted from the U.S. Environmental Protection Agency's... 
+
+<https://www.pacificislandtimes.com/post/epa-s-proposed-new-rule-on-hazardous-waste-treatment-counterproductive-for-guam-perez-says>
+
+---
+
+## NAVFAC Pacific announces more than 700 job openings 
+
+date: 2024-04-04, from: Pacific Island Times
+
+By Pacific Island Times News Staff Naval Facilities Engineering Systems Command Pacific today announced more than 700 job openings for... 
+
+<https://www.pacificislandtimes.com/post/navfac-pacific-announces-more-than-700-job-openings>
+
+---
+
+## Obituaries for April 4
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>Ricky &#8220;Rick&#8221; James Botelho, 73, of Kailua-Kona died March 25 at Kona Community Hospital. Born in San Jose, Calif., he was a charter boat and commercial fisherman. Celebration of life at a later date. Survived by wife, Carole of Kona; daughters, Maui and Kiana (Ronnie) Scadina of Kona; son, Kawika &#8220;Na&#8216;ia&#8221; of Kona; brother, Frank Botelho of Sacramento, Calif.; sisters-in-law, Judy (Stuart) and Jackie (Darleen); brother-in-law, Mark (Sandi); six grandchildren; nieces and nephews. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/obituaries/obituaries-for-april-4-12/>
+
+---
+
+## Prosecutors in Trump’s classified documents case sharply rebuke judge’s unusual and ‘flawed’ order
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Federal prosecutors chided the judge presiding over former President Donald Trump&#8217;s classified documents case in Florida, warning her off potential jury instructions that they said rest on a &#8220;fundamentally flawed legal premise.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/nation-world-news/prosecutors-in-trumps-classified-documents-case-sharply-rebuke-judges-unusual-and-flawed-order/>
+
+---
+
+## Key Bridge collapse could be largest-ever financial maritime loss
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>BALTIMORE &#8212; The deadly collapse of Baltimore&#8217;s Francis Scott Key Bridge could rival or beat the maritime industry&#8217;s largest-ever financial loss, with insurance claims expected to reach $1 billion or more.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/nation-world-news/key-bridge-collapse-could-be-largest-ever-financial-maritime-loss/>
+
+---
+
+## Fierce earthquake rattles Taiwan, killing 9 and injuring more than 1,000
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>HUALIEN, Taiwan &#8212; The strongest earthquake in a quarter-century rocked Taiwan Wednesday morning, killing nine people, stranding dozens at quarries and a national park, and sending some residents scrambling out the windows of damaged buildings.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/nation-world-news/fierce-earthquake-rattles-taiwan-killing-9-and-injuring-more-than-1000/>
+
+---
+
+## IOC sets deadline of ‘early 2025’ to keep boxing in the Olympics for Los Angeles with a new partner
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>LAUSANNE, Switzerland (AP) &#8212; The International Olympic Committee on Wednesday said it needs to find a suitable new international boxing body by early next year or else risk boxing dropping out of the Olympics for the Los Angeles Games in 2028. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/sports/ioc-sets-deadline-of-early-2025-to-keep-boxing-in-the-olympics-for-los-angeles-with-a-new-partner/>
+
+---
+
+## Patient fans wait out 5-hour rain delay for Royals vs. Orioles
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>BALTIMORE (AP) &#8212; Fans who showed up for a Wednesday afternoon baseball game at Camden Yards ended up waiting until early evening before the first pitch was finally thrown. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/sports/patient-fans-wait-out-5-hour-rain-delay-for-royals-vs-orioles/>
+
+---
+
+## Angel Reese Declares for the WNBA Draft … in Vogue
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>LSU may have lost to Iowa in the Elite Eight round of the NCAA women&#8217;s basketball tournament, but even two days afterward their star forward Angel Reese was still making headlines &#8212; this time in Vogue. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/sports/angel-reese-declares-for-the-wnba-draft-in-vogue/>
+
+---
+
+## Steve Clifford is stepping down as Hornets coach as ‘grind’ of 82 games becomes too much
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>CHARLOTTE, N.C. &#8212; Steve Clifford said the grind of an 82-game season became too much &#8212; and the losing didn&#8217;t help, either. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/sports/steve-clifford-is-stepping-down-as-hornets-coach-as-grind-of-82-games-becomes-too-much/>
+
+---
+
+## Ho‘ike kicks off 4 nights of hula: Event featured performance by Lahainaluna students
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>The 61st Annual Merrie Monarch Festival shifted into high gear Wednesday night with the Ho&#8216;ike, an exhibition of hula and folk dance from around the Pacific Rim at the Edith Kanaka&#8216;ole Multi-Purpose Stadium in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/hawaii-news/hoike-kicks-off-4-nights-of-hula-event-featured-performance-by-lahainaluna-students/>
+
+---
+
+## Longer council terms rejected following robust criticism
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>A proposal to extend Hawaii County Council members&#8217; terms in office will not be on the ballot this year after it was roundly rejected Tuesday during a council committee hearing.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/hawaii-news/longer-council-terms-rejected-following-robust-criticism/>
+
+---
+
+## Judge rejects Donald Trump’s request to delay hush-money trial until Supreme Court rules on immunity
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A judge on Wednesday rejected Donald Trump&#8217;s bid to delay his April 15 hush money criminal trial until the Supreme Court rules on presidential immunity claims he raised in another of his criminal cases &#8212; spurning another of the former president&#8217;s ploys to put off the historic trial. Several more are pending.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/nation-world-news/judge-rejects-donald-trumps-request-to-delay-hush-money-trial-until-supreme-court-rules-on-immunity/>
+
+---
+
+## Yes, we’re divided. But new AP-NORC poll shows Americans still agree on most core American values
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Despite the country&#8217;s deep political polarization, most Americans share many core beliefs about what it means to be an American, according to a new poll.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/nation-world-news/yes-were-divided-but-new-ap-norc-poll-shows-americans-still-agree-on-most-core-american-values/>
+
+---
+
+## Measure to boost beekeeping draws strong support
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>Big Island beekeepers came out in swarms Tuesday to support a bill that would overhaul how Hawaii County regulates the keeping of bees on residential and other properties.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/hawaii-news/measure-to-boost-beekeeping-draws-strong-support/>
+
+---
+
+## As Earth overheats, scientists test way to repel sun’s rays
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>ALAMEDA, Calif. &#8212; A little before 9 a.m. on Tuesday, an engineer named Matthew Gallelli crouched on the deck of a decommissioned aircraft carrier in San Francisco Bay, pulled on a pair of ear protectors, and flipped a switch.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/features/as-earth-overheats-scientists-test-way-to-repel-suns-rays/>
+
+---
+
+## You don’t need to freak out about Boeing planes (but Boeing sure does)
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;Ah, it&#8217;s a Boeing Max,&#8221; I exclaimed to my travel companions after we boarded our plane a few weeks ago. I looked to see if we were seated next to a hidden door plug panel like the one that blew out on Alaska Airlines Flight 1282 in January. We weren&#8217;t, but joining a trend on social media, we cracked a few jokes at Boeing&#8217;s expense: &#8220;Maybe they can charge extra, saying it&#8217;s <em>potentially</em> an even bigger window seat.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/opinion/you-dont-need-to-freak-out-about-boeing-planes-but-boeing-sure-does/>
+
+---
+
+## Bring buttons and dials back to new cars. Touch screens distract drivers
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>As cars go electric and get more technologically advanced, their interiors are increasingly being built around prominent dashboard touch screens.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/opinion/bring-buttons-and-dials-back-to-new-cars-touch-screens-distract-drivers/>
+
+---
+
+## Your Views for April 4
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>Kim: Big mahalo to&#0010;the Benioffs for aid</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/opinion/your-views-for-april-4-8/>
+
+---
+
+## Ex-deputy says he was fired after refusing to affiliate with alleged deputy gang
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; A former Los Angeles County sheriff&#8217;s deputy says he was fired after refusing to take part in law enforcement gang activity, according to a lawsuit filed in Los Angeles County Superior Court.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/nation-world-news/ex-deputy-says-he-was-fired-after-refusing-to-affiliate-with-alleged-deputy-gang/>
+
+---
+
+## Putin plots war of attrition in Ukraine amid manpower challenges
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>President Vladimir Putin is determined to grind Ukraine into submission, betting he can outlast Kyiv&#8217;s Western backers and claim victory on the battlefield even as Russian troops make only halting progress.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/nation-world-news/putin-plots-war-of-attrition-in-ukraine-amid-manpower-challenges/>
+
+---
+
+## Will artificial intelligence boost productivity? Companies sure hope so.
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>Wendy&#8217;s menu boards. Ben &#38;Jerry&#8217;s grocery store freezers. Abercrombie &#38;Fitch&#8217;s marketing. Many mainstays of the American customer experience are increasingly powered by artificial intelligence.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/nation-world-news/will-artificial-intelligence-boost-productivity-companies-sure-hope-so/>
+
+---
+
+## Boys VB: Kanu gets first win, Hilo beats KSH
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p><strong>KANU 3 - MAKUA LANI 0</strong></p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/sports/boys-vb-kanu-gets-first-win-hilo-beats-ksh/>
+
+---
+
+## Sean ‘Diddy’ Combs’ ex says feds ‘terrorized’ her sons, posts dramatic video of LA raid
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; The mother of Justin Dior Combs, the son of embattled mogul Sean &#8220;Diddy&#8221; Combs, has accused federal agents who raided Combs&#8217; Holmby Hills mansion on March 18 of &#8220;overzealous&#8221; and &#8220;overtly militarized force&#8221; during their investigation.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/nation-world-news/sean-diddy-combs-ex-says-feds-terrorized-her-sons-posts-dramatic-video-of-la-raid/>
+
+---
+
+## Tesla’s sales drop, a sign that its grip on the EV market is slipping
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>Tesla appeared to be losing command of the market it effectively created after it reported a stunning drop in quarterly sales Tuesday, raising fresh questions about Elon Musk&#8217;s leadership of the company.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/nation-world-news/teslas-sales-drop-a-sign-that-its-grip-on-the-ev-market-is-slipping/>
+
+---
+
+## Southern Jaguars are pride of HBCU baseball after its upset of defending national champion LSU
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>In a sport committed to increasing its number of Black players, Southern University&#8217;s upset of LSU this week was a victory for all HBCU baseball programs. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/sports/southern-jaguars-are-pride-of-hbcu-baseball-after-its-upset-of-defending-national-champion-lsu/>
+
+---
+
+## Kealakehe softball continues rampage, Konawaena baseball rides 5-win streak
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p><strong>BASEBALL: KONAWAENA 10 - HPA 0</strong></p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/sports/kealakehe-softball-continues-rampage-konawaena-baseball-rides-5-win-streak/>
+
+---
+
+## Boeing’s new chairman is reaching out directly to US airline CEOs to rebuild trust
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>Boeing Co.&#8217;s new chairman has scrapped formal meetings planned with leaders of the planemaker&#8217;s largest U.S. airline customers as he begins to address a crisis of confidence that culminated in a sweeping management shakeup, according to people familiar with the matter.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/nation-world-news/boeings-new-chairman-is-reaching-out-directly-to-us-airline-ceos-to-rebuild-trust/>
+
+---
+
+## US braces for retaliation after attack on Iran consulate — even as it says it wasn’t involved
+
+date: 2024-04-04, from: Hawaii Tribune Harold
+
+
+				<p>Shortly after an airstrike widely attributed to Israel destroyed an Iranian consulate building in Syria, the United States had an urgent message for Iran: We had nothing to do with it.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/04/nation-world-news/us-braces-for-retaliation-after-attack-on-iran-consulate-even-as-it-says-it-wasnt-involved/>
+
+---
+
+## Taitague seeks override of veto for bill regarding OPA submission deadlines
+
+date: 2024-04-04, from: Guam Daily Post
+
+Sen. Telo Taitague said she will push for an override of the governor's veto of Bill 213-37, the measure that requires the public auditor to establish deadlines for agency heads to submit information required for the Office of Public Accountability… 
+
+<https://www.postguam.com/news/taitague-seeks-override-of-veto-for-bill-regarding-opa-submission-deadlines/article_8a277314-f25c-11ee-a1be-47234d3c5baf.html>
+
+---
+
+## Moylan: Low-interest federal grants, loans available for eligible manåmko' 62 and over
+
+date: 2024-04-04, from: Guam Daily Post
+
+Guam Del. James Moylan is trying to make money available to island residents who are at least 62 years of age and need to make repairs to their home. 
+
+<https://www.postguam.com/news/local/moylan-low-interest-federal-grants-loans-available-for-eligible-man-mko-62-and-over/article_2e68d466-f21e-11ee-8bf4-ffeeb084d40c.html>
+
+---
+
+## 2024 Pet Fest Guam to be held Saturday at Ypao Beach, Tumon
+
+date: 2024-04-04, from: Guam Daily Post
+
+Guam Animals in Need (GAIN) and Milk-Bone announced the 2024 Pet Fest Guam, a day of tail-wagging fun and heartfelt support for our furry companions in need, which will take place at Ypao Beach Park amphitheater Saturday from 10 a.m.… 
+
+<https://www.postguam.com/news/local/2024-pet-fest-guam-to-be-held-saturday-at-ypao-beach-tumon/article_2b8135c0-f234-11ee-b6fe-5352ea1ac017.html>
+
+---
+
+## OAG contracted prosecutor  is disqualified in DOC case
+
+date: 2024-04-04, from: Guam Daily Post
+
+An attorney on contract with the Office of the Attorney General was disqualified from serving as a prosecutor in a Department of Corrections prison contraband case. 
+
+<https://www.postguam.com/news/local/oag-contracted-prosecutor-is-disqualified-in-doc-case/article_cb514cbc-f210-11ee-a690-fb8169e89d2e.html>
+
+---
+
+## Leon Guerrero vetoes bill on submission  deadlines to OPA, other bills are now law
+
+date: 2024-04-04, from: Guam Daily Post
+
+Gov. Lou Leon Guerrero has vetoed Bill 213-37, the measure that requires the public auditor to establish deadlines for agency heads to submit information required for the Office of Public Accountability to carry out its duties and establishes fines if… 
+
+<https://www.postguam.com/news/local/leon-guerrero-vetoes-bill-on-submission-deadlines-to-opa-other-bills-are-now-law/article_4b03a02e-f228-11ee-9ccd-fb3511865a08.html>
+
+---
+
+## 6 educators advance to finals in Teacher of the Year competition
+
+date: 2024-04-04, from: Guam Daily Post
+
+Six Guam Department of Education teachers have advanced to the final round of the 2025 Teacher of the Year competition. 
+
+<https://www.postguam.com/news/local/6-educators-advance-to-finals-in-teacher-of-the-year-competition/article_b61fd5bc-f21e-11ee-97b5-17df6cbebc4a.html>
+
+---
+
+## Champion communicators
+
+date: 2024-04-04, from: Guam Daily Post
+
+ 
+
+<https://www.postguam.com/news/local/champion-communicators/article_4282ffd8-f22f-11ee-8bf2-fb2d932fae61.html>
+
+---
+
+## 'Catch, release and reoffend problem': Moylan requesting oversight, support
+
+date: 2024-04-04, from: Guam Daily Post
+
+Attorney General Douglas Moylan is “strongly” recommending that the Guam Legislature implement legal changes targeting what he describes as a growing “catch, release and reoffend problem” on Guam. 
+
+<https://www.postguam.com/news/local/catch-release-and-reoffend-problem-moylan-requesting-oversight-support/article_70a29274-f190-11ee-9785-13d43f7092fa.html>
+
+---
+
+## 2 felons facing federal charges  for possession of guns, ammo
+
+date: 2024-04-04, from: Guam Daily Post
+
+Two felons are facing federal charges related to possessing a firearm and ammunition. 
+
+<https://www.postguam.com/news/local/2-felons-facing-federal-charges-for-possession-of-guns-ammo/article_882177d6-f225-11ee-8b89-cbf674cf9a49.html>
+
+---
+
+## GEB adopts budget despite ‘lost confidence’ in GDOE leadership
+
+date: 2024-04-04, from: Guam Daily Post
+
+Guam Education Board member Maria Gutierrez believes someone is playing a game with the development of the Guam Department of Education budget request. 
+
+<https://www.postguam.com/news/local/geb-adopts-budget-despite-lost-confidence-in-gdoe-leadership/article_dd440f30-f239-11ee-9d13-bbed90f6daae.html>
+
+---
+
+## School aide allegedly had sex with student
+
+date: 2024-04-04, from: Guam Daily Post
+
+A 21-year-old female school aide was accused of having sex with a 16-year-old male student. 
+
+<https://www.postguam.com/news/local/school-aide-allegedly-had-sex-with-student/article_7361e5e2-f239-11ee-a487-475d80491f14.html>
+
+---
+
+## Albon saluted for pilot service
+
+date: 2024-04-04, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Air Marshall Islands held a surprise ceremony for Captain Albon Jelke Monday at the Amata Kabua International Airport in commemoration of Albon’s last flight as pilot for the local airline. Albon is the longest serving AMI pilot in Marshallese history with a service record of 43 years under his belt. While Albon will [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/albon-saluted-for-pilot-service/">Albon saluted for pilot service</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/albon-saluted-for-pilot-service/>
+
+---
+
+## Support and suggestions for bill that would allow cannabis sales pending lab
+
+date: 2024-04-04, from: Guam Daily Post
+
+Legislation that would exempt cannabis-related businesses from testing requirements pending the establishment of a testing laboratory saw support from those testifying on the measure Thursday, although some recommendations were also suggested. 
+
+<https://www.postguam.com/news/support-and-suggestions-for-bill-that-would-allow-cannabis-sales-pending-lab/article_a27a8c0e-f224-11ee-b94e-9773231c32b2.html>
+
+---
+
+## GPA online and payment services disrupted, not a security threat
+
+date: 2024-04-04, from: Guam Daily Post
+
+The Guam Power Authority is advising customers of a service disruption to its online and payment services that occurred Wednesday evening, and with ongoing intermittency issues. 
+
+<https://www.postguam.com/news/gpa-online-and-payment-services-disrupted-not-a-security-threat/article_c9e40d94-f24f-11ee-8f4c-eb016ba68582.html>
+
+---
+
+## Is this the worst it’s ever been?
+
+date: 2024-04-04, from: Pacific Island Times
+
+Guam’s homeless count has been fairly steady for two decades In today’s climate of ultra-charged news, social media, and different... 
+
+<https://www.pacificislandtimes.com/post/is-this-the-worst-it-s-ever-been>
+
+---
+
+## From lab coat to malo, JABSOM scientist competes at Merrie Monarch
+
+date: 2024-04-04, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span>  Andrew <span aria-label="KekUpaa">Kek&#363;pa&#699;a</span> Knutson has been dancing since he was eight years old.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/03/from-lab-coat-to-malo-jabsom-scientist-competes-at-merrie-monarch/">From lab coat to malo, <abbr>JABSOM</abbr> scientist competes at Merrie Monarch</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/03/from-lab-coat-to-malo-jabsom-scientist-competes-at-merrie-monarch/>
+
+---
+
+## Power crisis continues in Majuro
+
+date: 2024-04-04, from: Pacific Island Times
+
+By Giff Johnson Majuro — Announced and emergency power outages, and power rationing have governed life in the capital of the Marshall... 
+
+<https://www.pacificislandtimes.com/post/power-crisis-continues-in-majuro>
+
+---
+
+## Junior signs fishing pact
+
+date: 2024-04-04, from: Marshal Islands Journal
+
+<p>An important milestone in Pacific Islands relations with the United States was reached late last week in Fiji with the signing of a memorandum of understanding for the US fishing fleet to operate in the Pacific for the rest of 2024, pending the formal adoption of the agreed amendments and revised text of the US [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/junior-signs-fishing-pact/">Junior signs fishing pact</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/junior-signs-fishing-pact/>
+
+---
+
+## GPD: Borja located and detained, children being assessed by medics
+
+date: 2024-04-04, from: Guam Daily Post
+
+A man sought by police to ensure the safety of an infant and teenage girl has been located and detained. 
+
+<https://www.postguam.com/news/local/gpd-borja-located-and-detained-children-being-assessed-by-medics/article_d3c9a5b2-f236-11ee-a9bc-ff2da2167b43.html>
+
+---
+
+## 911 services restored after 2 hour outage
+
+date: 2024-04-04, from: Guam Daily Post
+
+911 services have been restored after being unavailable for about two hours. 
+
+<https://www.postguam.com/news/911-services-restored-after-2-hour-outage/article_83fa8e12-f230-11ee-9066-1f74338ac8c4.html>
+
+---
+
+## GFD: 911 services 'currently unavailable'; Will be restored 'as soon as possible'
+
+date: 2024-04-04, from: Guam Daily Post
+
+The Guam Fire Department has announced that 911 serves are currently unavailable. 
+
+<https://www.postguam.com/news/gfd-911-services-currently-unavailable-will-be-restored-as-soon-as-possible/article_b9750348-f220-11ee-8f7a-671c3c8d6058.html>
+
+---
+
+## Asian-American social workers witness rise in anti-Asian racism
+
+date: 2024-04-04, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The study examined their perspectives in the aftermath of racism toward Asian Americans during the COVID-19 pandemic.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/03/rise-in-anti-asian-racism/">Asian-American social workers witness rise in anti-Asian racism</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/03/rise-in-anti-asian-racism/>
+
+---
+
+## Taxis hike hits hard
+
+date: 2024-04-03, from: Marshal Islands Journal
+
+<p>HILARY HOSIA The cost of taxi fares in Majuro went up this week following unanimous decision made by the Marshall Islands Taxi Drivers Association over the weekend. False promises by current Majuro politicians is the root of the sudden increase, according to MATDA President Anej Ishiguro. During the campaign season, taxi drivers were summoned to [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/taxis-hike-hits-hard/">Taxis hike hits hard</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/taxis-hike-hits-hard/>
+
+---
+
+## Expanded statewide student opportunities through PACE
+
+date: 2024-04-03, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>PACE</abbr> Leaders are eligible for leadership opportunities and scholarships.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/03/statewide-student-opportunities-pace/">Expanded statewide student opportunities through <abbr>PACE</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/03/statewide-student-opportunities-pace/>
+
+---
+
+## ‘If you think the missile defense system will shield Guam, think again’
+
+date: 2024-04-03, from: Pacific Island Times
+
+Defense expert asks:  Where are the shelters? By Mar-Vic Cagurangan The Indo-Pacific Command is requesting $1.2 billion for the Guam... 
+
+<https://www.pacificislandtimes.com/post/if-you-think-the-missile-defense-system-will-shield-guam-think-again>
+
+---
+
+## UH Giving Day urges alumni, supporters, community to contribute
+
+date: 2024-04-03, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Inaugural <abbr>UH</abbr> Giving Day to be held on April 10.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/03/uh-giving-day-2024/"><abbr>UH</abbr> Giving Day urges alumni, supporters, community to contribute</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/03/uh-giving-day-2024/>
+
+---
+
+## UH News Images of the Week: Rainbow Day!
+
+date: 2024-04-03, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> This week's image celebrates National Rainbow Day.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/03/uh-news-image-of-the-week-rainbow-day/"><abbr>UH</abbr> News Images of the Week: Rainbow Day!</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/03/uh-news-image-of-the-week-rainbow-day/>
+
+---
+
+## The Sonny Angel craze at UHM
+
+date: 2024-04-03, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+ 
+
+<https://www.manoanow.org/kaleo/the-sonny-angel-craze-at-uhm/article_de661c1c-f132-11ee-bb1e-8fc72dd4d35b.html>
+
+---
+
+## UHM students celebrate Queen Emma
+
+date: 2024-04-03, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+ 
+
+<https://www.manoanow.org/kaleo/uhm-students-celebrate-queen-emma/article_9d2b28f2-f130-11ee-858d-97103729ffcd.html>
 
 ---
 

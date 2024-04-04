@@ -1,21 +1,91 @@
 ---
 title: motorcycles 2024.14
-updated: 2024-04-03 08:04:35
+updated: 2024-04-04 10:17:54
 ---
 
 # motorcycles 2024.14
 
-(date: 2024-04-03 08:04:35)
+(date: 2024-04-04 10:17:54)
 
 ---
 
-## Watch a Honda Trail 90 Be Rescued and Then Climb Mountains Like a Proper ADV
+## You Have to See Renault’s EV Jetski and Snowbike
 
-date: 2024-04-03, from: Ride Apart, Electric Motorcycle News
+date: 2024-04-04, from: Ride Apart, Electric Motorcycle News
 
-Why wouldn't you just point a Trail 90 at the mountains and go? 
+The French automaker is expanding into both land and water mobility solutions.  
 
-<https://www.rideapart.com/news/714383/honda-trail-90-barn-find-video-off-road-watch/>
+<https://www.rideapart.com/news/714728/renault-new-electric-mobility-solutions/>
+
+---
+
+## BRP Shows Sales Growth Despite Warmest Winter On Record In US, Canada
+
+date: 2024-04-04, from: Ride Apart, Electric Motorcycle News
+
+The official quarterly report mentions "unfavorable winter conditions" no less than 10 times. 
+
+<https://www.rideapart.com/news/714571/skidoo-snowmobile-sales-warm-winter/>
+
+---
+
+## High-End Fashion Meets Real-World Protection in Aether’s Mulholland
+
+date: 2024-04-04, from: Ride Apart, Electric Motorcycle News
+
+We're not restricted to looking like Power Rangers or like we're about to summit Everest. The Mulholland proves we can have it all. 
+
+<https://www.rideapart.com/news/714866/aether-mulholland-motorcycle-jacket-launch/>
+
+---
+
+## Watch Scott’s Prospect Goggles Bend Light Before Your Eyes
+
+date: 2024-04-04, from: Ride Apart, Electric Motorcycle News
+
+Riding from dawn to dusk is a dream for lots of off-roaders. The problem is you'd need a couple of pairs of goggles, but not anymore. 
+
+<https://www.rideapart.com/news/714539/scott-prospect-light-sensitive-goggles/>
+
+---
+
+## Watching This Monster Chopper Build Come Together Is So Satisfying
+
+date: 2024-04-04, from: Ride Apart, Electric Motorcycle News
+
+Grind Hard Plumbing Co has clearly chosen its name for a reason, and nowhere is that clearer than on this project. 
+
+<https://www.rideapart.com/news/714544/grind-hard-monster-chopper-build/>
+
+---
+
+## Voge-BMW Connection Getting Tighter
+
+date: 2024-04-03, from: Cycle World News
+
+Voge, a spinoff from Loncin, and BMW have had a manufacturing partnership since 2005. That partnership has spawned a new wave of upcoming bikes from China. 
+
+<https://www.cycleworld.com/motorcycle-news/voge-bmw-connection-gets-tighter/>
+
+---
+
+## The Value of Hearsay in Motorcycle Maintenance
+
+date: 2024-04-03, from: Cycle World News
+
+Bunk advice regarding motorcycle maintenance is not a product of the internet, it’s been around for much longer. Kevin Cameron recounts some of his favorite stories. 
+
+<https://www.cycleworld.com/blogs/ask-kevin/motorcycle-maintenance-and-value-of-hearsay/>
+
+---
+
+## 2024 Aprilia RS 457 First Ride
+
+date: 2024-04-03, from: Cycle World News
+
+We ride the all-new 2024 Aprilia RS 457 sportbike around a racetrack in Italy. 
+
+<https://www.cycleworld.com/motorcycle-reviews/aprilia-rs-457-first-ride/>
 
 ---
 
@@ -26,6 +96,46 @@ date: 2024-04-03, from: Cycle World News
 Indian’s 2025 Scout cruiser is available in five unique flavors, including Scout Classic, Super Scout, Scout Bobber, Sport Scout, and 101 Scout.e 
 
 <https://www.cycleworld.com/bikes/indian-scout-first-look/>
+
+---
+
+## Harley-Davidson announces Push the Limit: Harley-Davidson Racing Season 2 Debut On YouTube
+
+date: 2024-04-03, from: Cycle World News
+
+Dramatic Six-Episode Docuseries Provides Behind-the-Scenes Perspective of the 2023 MotoAmerica King of the Baggers Race Season. 
+
+<https://www.cycleworld.com/the-wire/harley-davidson-announces-push-the-limit/>
+
+---
+
+## The One Motorcycle Show Teams Up With Flat Out Friday Racing
+
+date: 2024-04-03, from: Ride Apart, Electric Motorcycle News
+
+To celebrate the show's 15th anniversary, the One Moto Show is going (what else) Flat Out. 
+
+<https://www.rideapart.com/news/714700/one-moto-show-2024-details/>
+
+---
+
+## Everything You Need To Know about the 2024 Distinguished Gentleman's Ride
+
+date: 2024-04-03, from: Ride Apart, Electric Motorcycle News
+
+Motorcycles, dapper riders, and raising funds for great causes. Here's how to get involved in the Distinguished Gentlemen's Ride. 
+
+<https://www.rideapart.com/news/714380/distinguished-gentlemens-ride-2024-dgr/>
+
+---
+
+## Watch a Honda Trail 90 Be Rescued and Then Climb Mountains Like a Proper ADV
+
+date: 2024-04-03, from: Ride Apart, Electric Motorcycle News
+
+Why wouldn't you just point a Trail 90 at the mountains and go? 
+
+<https://www.rideapart.com/news/714383/honda-trail-90-barn-find-video-off-road-watch/>
 
 ---
 

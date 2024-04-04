@@ -1,11 +1,111 @@
 ---
 title: games 2024.14
-updated: 2024-04-03 08:04:35
+updated: 2024-04-04 10:17:54
 ---
 
 # games 2024.14
 
-(date: 2024-04-03 08:04:35)
+(date: 2024-04-04 10:17:54)
+
+---
+
+## A hit Bob Marley movie, Sundance, Oscars... How does a big-time director challenge himself?
+
+date: 2024-04-04, updated: 2024-04-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24118982/bob-marley-movie-director-interview-reinaldo-marcus-green-one-love>
+
+---
+
+## Pokémon Go ‘Sizable Surprises’ event, Collection Challenge guide
+
+date: 2024-04-04, updated: 2024-04-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/2024/4/4/24121052/sizable-surprises-event-collection-challenge-shiny-wimpod>
+
+---
+
+## Get The Outer Worlds: Spacer’s Choice Edition on the Epic Games Store for free
+
+date: 2024-04-04, updated: 2024-04-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/2024/4/4/24121002/outer-worlds-spacers-choice-edition-free-epic-games>
+
+---
+
+## The Sand Land anime is proof that Akira Toriyama’s legacy is bigger than Dragon Ball
+
+date: 2024-04-04, updated: 2024-04-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/anime/24119968/sand-land-series-anime-impressions-review>
+
+---
+
+## Marvel celebrates the number 4 with Fantastic Four movie hints and free comics
+
+date: 2024-04-04, updated: 2024-04-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24121000/marvel-fantastic-four-movie-hints-free-comics>
+
+---
+
+## GTA Online update for the week of April 4
+
+date: 2024-04-04, updated: 2024-04-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events>
+
+---
+
+## Pokémon Go ‘World of Wonders’ Special Research and rewards
+
+date: 2024-04-04, updated: 2024-04-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24087716/world-of-wonders-special-research-rewards-poipole>
+
+---
+
+## Immortals of Aveum, now on PS Plus, deserves a second chance
+
+date: 2024-04-04, updated: 2024-04-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/sub-gems/24120268/immortals-aveum-ps-plus-best-2023-shooter>
+
+---
+
+## Japanese police arrest suspect making ‘constant threats’ toward Nintendo
+
+date: 2024-04-04, updated: 2024-04-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24120900/nintendo-live-japan-threats-suspect-arrested>
+
+---
+
+## Not sure what movie to watch this weekend? Leave a comment, we’ll help
+
+date: 2024-04-04, updated: 2024-04-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/entertainment/2024/4/4/24119922/best-movies-watch-this-weekend-best-recommendations>
 
 ---
 

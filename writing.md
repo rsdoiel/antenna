@@ -1,11 +1,134 @@
 ---
 title: writing 2024.14
-updated: 2024-04-03 08:04:35
+updated: 2024-04-04 10:17:54
 ---
 
 # writing 2024.14
 
-(date: 2024-04-03 08:04:35)
+(date: 2024-04-04 10:17:54)
+
+---
+
+## Charles Payseur Reviews Short Fiction: Cast of Wonders, Escape Pod, Strange Horizons and Baffling
+
+date: 2024-04-04, from: Locus Magazine
+
+<p>Baffling 1/24
+Cast of Wonders 12/17/23, 12/29/23, 12/30/23
+Escape Pod 12/14/23, 12/23/23, 1/4/23
+Strange Horizons 12/18/23, 1/1/24, 1/8/24</p>
+<p>I’ll kick things off with the January Baffling, which (as always) features flash fiction with queer themes and characters. The issue starts strong with <strong>D.K. Lawhorn</strong>’s bittersweet ‘‘<strong>Steinway &#38; His Sons</strong>’’, which centers a dead man watching his husband mourn for him. It’s a premise that’s already heavy with  <a href="https://locusmag.com/2024/04/charles-payseur-reviews-short-fiction-cast-of-wonders-escape-pod-strange-horizons-and-baffling/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/charles-payseur-reviews-short-fiction-cast-of-wonders-escape-pod-strange-horizons-and-baffling/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-04, from: Neil Gaiman @ BlueSky)
+
+So cool!
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kpcpfwq6pa2x>
+
+---
+
+## 2023 BSFA Awards Winners
+
+date: 2024-04-04, from: Locus Magazine
+
+<p>The winners for the 2023 British Science Fiction Association (BSFA) Awards have been announced. The categories have been revised and expanded from previous years.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Novel</strong></p>
+<ul>
+<li>WINNER:<strong> The Green Man&#8217;s Quarry</strong>, Juliet E. McKenna (Wizard Tower)</li>
+</ul>
+<ul>
+<li><strong>Descendant Machine</strong>, Gareth L. Powell (Titan)</li>
+<li><strong>Airside</strong>, Christopher Priest (Gollancz)</li>
+<li><strong>HIM</strong>, Geoff Ryman (Angry Robot)</li>
+<li><strong>Shigidi and the Brass Head of Obalufon</strong>, Wole Talabi (Gollancz)</li>
+</ul>
+<p><strong>Best Shorter Fiction (for </strong></p></div> <a href="https://locusmag.com/2024/04/2023-bsfa-awards-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/04/2023-bsfa-awards-winners/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-03, from: Neil Gaiman @ BlueSky)
+
+Jill Thompson is selling one of the most beautiful (and saddest) of all Sandman pages, from Brief Lives, one she pencilled and inked.
+
+@thejillthompson.bsky.social 
+
+https://comics.ha.com/itm/original-comic-art/story-page/jill-thompson-sandman-49-story-page-20-original-art-dc-1993-/a/7369-92168.s?ic4=GalleryView-Thumbnail-071515&fbclid=IwAR1s7wRAleMrH3AIY1tQ5E3_vhyZwsRv091wJlOxO_kPte9EKtG09_2CbUY_aem_Aa15o3I4DYmXO0gXhUe514XbEvJfBBRjv_W58utTkBAEBU3VNwslEih0OqTRpx-QVhtZ1ZOkdPHnbRDy4XAaNq9R 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kpb4rkhtzw2m>
+
+---
+
+## New Books: 2 April 2024
+
+date: 2024-04-03, from: Locus Magazine
+
+<p>Wiswell, John: <b>Someone You Can Build a Nest In</b> (Astra House/DAW 9780756418854, $28, 320pp, formats: hardcover, ebook, audio, 04/02/2024)</p>
+<p>Fantasy novel, a &#8220;creepy, charming monster-slaying sapphic fantasy romance from the monster&#8217;s POV.&#8221; Shesheshen is a shapeshifter, who resides as an amorphous lump at the bottom of a ruined manor. When her rest is interrupted by hunters intent on murdering her, she constructs a body from the remains of past meals.  <a href="https://locusmag.com/2024/04/new-books-2-april-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/new-books-2-april-2024/>
+
+---
+
+## Death Noted: Sharon Green (1942-2022)
+
+date: 2024-04-03, from: Locus Magazine
+
+<p>Author Sharon Green, 79, died February 17, 2022 in Old Bridge NJ.</p>
+<p>Green&#8217;s first publications were the Jalav/Amazon Warrior series, starting with <strong>Crystals of Mida</strong> (1982) and continuing with <strong>An Oath to Mida</strong> (1983), <strong>Chosen of Mida</strong> (1984), <strong>The Will of the Gods</strong> (1985), and <strong>To Battle the Gods</strong> (1986). The Terrilian Sequence began with <strong>The Warrior Within </strong>(1982) and includes <strong>The Warrior Enchained</strong> (1983), <strong>The Warrior Rearmed</strong> (1984), <strong>The </strong> <a href="https://locusmag.com/2024/04/death-noted-sharon-green-1942-2022/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/death-noted-sharon-green-1942-2022/>
+
+---
+
+## Paul Di Filippo Reviews The Bezzle by Cory Doctorow
+
+date: 2024-04-03, from: Locus Magazine
+
+<p class="p1"><b>The Bezzle, </b>Cory Doctorow (Tor 978-1250865878, $27.99, hc, 240pp) February 2024.</p>
+<p class="p1">Cory Doctorow is certainly experiencing a “hot hand” run. That sports phenomenon, where one success impels and invites a subsequent triumph, sometimes in a long streak, can be seen in Doctorow’s two most recent books, which have appeared practically back to back. In November of 2023 came <b>The Lost Cause</b> (reviewed by me for this very publication), which showed  <a href="https://locusmag.com/2024/04/paul-di-filippo-reviews-the-bezzle-by-cory-doctorow/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/paul-di-filippo-reviews-the-bezzle-by-cory-doctorow/>
+
+---
+
+## 😂 Is this thing on?
+
+date: 2024-04-03, from: Interesting, a blog on writing
+
+These are the jokes, folks. 
+
+<https://inneresting.substack.com/p/is-this-thing-on>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-03, from: Neil Gaiman @ BlueSky)
+
+For the people who want to read about the Dead Boy Detectives but don't know where to start, ask your local book or comic book shop to order this for you: 775 pages of story...
+
+amzn.to/3U0qMKY
+https://amzn.to/3U0qMKY 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kpajcof6vl2j>
+
+---
+
+## Colleen Mondor Reviews Calamity by Constance Fay
+
+date: 2024-04-03, from: Locus Magazine
+
+<p><strong>Calamity</strong>, Constance Fay (Bramble 978-1-250-33041-3, $18.99, tpb, 320pp) November 2023.</p>
+<p>Constance Fay’s debut, <strong>Calamity</strong>, is an SF ad­venture set on a distant planet amidst several groups and individuals all operating with their own conflicting purposes and totally willing to kill each other to achieve their goals. The heroes are the small crew of the somewhat dilapidated space vessel Quest, who scout out various planets for whatever their clients,  <a href="https://locusmag.com/2024/04/colleen-mondor-reviews-calamity-by-constance-fay/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/colleen-mondor-reviews-calamity-by-constance-fay/>
 
 ---
 

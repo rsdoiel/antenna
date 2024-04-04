@@ -1,11 +1,302 @@
 ---
 title: socal north 2024.14
-updated: 2024-04-03 08:04:34
+updated: 2024-04-04 10:17:53
 ---
 
 # socal north 2024.14
 
-(date: 2024-04-03 08:04:34)
+(date: 2024-04-04 10:17:53)
+
+---
+
+## UCLA gymnastics aims for national championships ahead of NCAA California Regional
+
+date: 2024-04-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins just barely missed out on a ticket to nationals two years ago.
+They redeemed themselves last year when they reclaimed a spot at nationals in their home regional. 
+
+<https://dailybruin.com/2024/04/04/ucla-gymnastics-aims-for-national-championships-ahead-of-ncaa-california-regional/>
+
+---
+
+## Classifieds – April 4, 2024
+
+date: 2024-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/04/classifieds-april-4-2024/">Classifieds &#8211; April 4, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/04/classifieds-april-4-2024/>
+
+---
+
+## My parents brought me into a ‘semi-charmed life’
+
+date: 2024-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Listening to ’90s music makes me feel closer to my parents despite the distance between us.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/04/my-parents-brought-me-into-a-semi-charmed-life/">My parents brought me into a &#8216;semi-charmed life&#8217;</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/04/my-parents-brought-me-into-a-semi-charmed-life/>
+
+---
+
+## Supremely misunderstood: realities of the high court
+
+date: 2024-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>There are some less-publicized truths about the Supreme Court you deserve to know.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/04/supremely-misunderstood-realities-of-the-high-court/">Supremely misunderstood: realities of the high court</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/04/supremely-misunderstood-realities-of-the-high-court/>
+
+---
+
+## Explore the best movie theaters in LA
+
+date: 2024-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Discover the City of Angels’ cinematic destinations that are a movie lover’s paradise.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/04/explore-the-best-movie-theaters-in-la/">Explore the best movie theaters in LA</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/04/explore-the-best-movie-theaters-in-la/>
+
+---
+
+## Bikers aren’t the issue, safety is up to all of us
+
+date: 2024-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Bikers often face distracted pedestrians, frequent thefts and a lack of infrastructure.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/04/bikers-arent-the-issue-safety-is-up-to-all-of-us/">Bikers aren’t the issue, safety is up to all of us</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/04/bikers-arent-the-issue-safety-is-up-to-all-of-us/>
+
+---
+
+## Keck-managed resource center teaches signs of elder abuse
+
+date: 2024-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The National Center on Elder Abuse will host webinars to increase awareness throughout June. </p>
+<p>The post <a href="https://dailytrojan.com/2024/04/04/elder-abuse-table/">Keck-managed resource center teaches signs of elder abuse</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/04/elder-abuse-table/>
+
+---
+
+## Women’s golf teed off in Arizona
+
+date: 2024-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC ended up in 12th after three days of stroke play at the PING/ASU Invitational.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/04/womens-golf-teed-off-in-arizona/">Women’s golf teed off in Arizona</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/04/womens-golf-teed-off-in-arizona/>
+
+---
+
+## Exploring major USC Athletics renovations
+
+date: 2024-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>New DI facilities come at the expense of recreational tennis and pickleball courts.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/04/exploring-major-usc-athletics-renovations/">Exploring major USC Athletics renovations</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/04/exploring-major-usc-athletics-renovations/>
+
+---
+
+## Sexual assault awareness month underway
+
+date: 2024-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>April’s events are to educate students on what to do in cases of gender- and power-based violence.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/04/sexual-assault-awareness-month/">Sexual assault awareness month underway</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/04/sexual-assault-awareness-month/>
+
+---
+
+## UConn, NC State headline star-studded Final Fours
+
+date: 2024-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The remaining teams ready for a chance to take home a national championship.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/04/uconn-nc-state-headline-star-studded-final-fours/">UConn, NC State headline star-studded Final Fours</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/04/uconn-nc-state-headline-star-studded-final-fours/>
+
+---
+
+## Preserving languages is a preservation of culture
+
+date: 2024-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>We should all care about language extinction and can work to counteract it.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/04/preserving-languages-is-a-preservation-of-culture/">Preserving languages is a preservation of culture</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/04/preserving-languages-is-a-preservation-of-culture/>
+
+---
+
+## Former Louisville guard Skyy Clark commits to UCLA men’s basketball
+
+date: 2024-04-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Scoring was not the Bruins’ bread and butter last season.
+Finishing No. 328 nationally in scoring offense, they mustered 80 or more points only once and at least 70 in less than a third of their games. 
+
+<https://dailybruin.com/2024/04/03/former-louisville-guard-skyy-clark-commits-to-ucla-mens-basketball/>
+
+---
+
+## Freshman slate leads UCLA baseball to victory over Loyola Marymount
+
+date: 2024-04-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+John Savage said mid-game that he wasn&#8217;t thrilled to be playing so many underclassmen. 
+&#8220;It&#8217;s not very fun, to say the least,&#8221; the Bruins&#8217; coach told the ESPN+ broadcast crew. 
+
+<https://dailybruin.com/2024/04/03/freshman-slate-leads-ucla-baseball-to-victory-over-loyola-marymount/>
+
+---
+
+## For Mixed-Status Families Struggling With Financial Aid Forms, Advisors Urge Patience
+
+date: 2024-04-03, updated: 2024-04-03, from: The LAist
+
+Application problems are having a particularly negative impact on many Latino students, threatening their ability to go to college. 
+
+<https://laist.com/news/education/latino-students-last-names-federal-financial-aid-fafsa>
+
+---
+
+## UCLA gymnastics NCAA California Regional 2024 predictions
+
+date: 2024-04-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+No. 9 UCLA gymnastics will have a shot to qualify for nationals for the second straight year at the NCAA California Regional, where it will face off against No. 
+
+<https://dailybruin.com/2024/04/03/ucla-gymnastics-ncaa-california-regional-2024-predictions/>
+
+---
+
+## Narrated Articles — Opinion: Subject of racial representation remains divisive after affirmative action’s end
+
+date: 2024-04-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Listen to Opinion columnist Tavian Williams read his article &#8220;Opinion: Subject of racial representation remains divisive after affirmative action&#8217;s end.&#8221; The article was published October 22, 2023. 
+
+<https://dailybruin.com/2024/04/03/narrated-articles-opinion-subject-of-racial-representation-remains-divisive-after-affirmative-actions-end/>
+
+---
+
+## Katelyn Rosen’s celebrations reflect confidence in first year of UCLA gymnastics
+
+date: 2024-04-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Gymnasts visualize their routines.
+A perfect tumbling pass, a vertical handstand, a wobble-free beam series, a stuck landing.
+Katelyn Rosen also visualizes before taking to the competition floor. 
+
+<https://dailybruin.com/2024/04/03/katelyn-rosens-celebrations-reflect-confidence-in-first-year-of-ucla-gymnastics/>
+
+---
+
+## UCLA football debuts new pro-level coaches in first public spring practice of 2024
+
+date: 2024-04-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+The periodically piercing whistle interrupted the echo of music.
+Heat only intensified as the sun beat down upon the turf.
+It was a familiar scene from years prior &#8211; same setting, same sounds &#8211; but the sights were filled with a fleet of new faces. 
+
+<https://dailybruin.com/2024/04/03/ucla-football-debuts-new-pro-level-coaches-in-first-public-spring-practice-of-2024/>
+
+---
+
+## Review: Hayao Miyazaki’s “The Boy and the Heron” is a beautiful yet complicated tale on loss, grief and closure
+
+date: 2024-04-03, from: The Sundail (CSUN Student Newspaper)
+
+“Anime was a mistake…” thankfully, not this one. From the renowned Hayao Miyazaki and his award-winning company, Studio Ghibli, comes his most recent film, “The Boy and the Heron.” This... 
+
+<https://sundial.csun.edu/179924/arts-entertainment/review-hayao-miyazakis-the-boy-and-the-heron-is-a-beautifully-yet-complicated-tale-on-loss-grief-and-closure/>
+
+---
+
+## Comfort in Gaming: Bringing students together with PCs and consoles
+
+date: 2024-04-03, from: The Sundail (CSUN Student Newspaper)
+
+As fraternization steadily recovers on campus post-pandemic, the Games Room is providing students with a space for recreation. Fluorescent lights shine down on hyperfocused gamers, friends entertain a pool match... 
+
+<https://sundial.csun.edu/179963/print-editions/print-stories/comfort-in-gaming-bringing-students-together-with-pcs-and-consoles/>
+
+---
+
+## AI vs. Jobs: How AI is changing the game industry and people’s jobs
+
+date: 2024-04-03, from: The Sundail (CSUN Student Newspaper)
+
+Game developers have used artificial intelligence since the 1950s, and as the technology develops, it is being used for shortcuts in design without the need of workers. AI has become... 
+
+<https://sundial.csun.edu/179967/print-editions/print-stories/ai-vs-jobs-how-ai-is-changing-the-game-industry-and-peoples-jobs/>
+
+---
+
+## Review: K.Flay at Lodge Room
+
+date: 2024-04-03, from: The Sundail (CSUN Student Newspaper)
+
+Angelenos gathered in Highland Park’s historic Lodge Room on Thursday, March 7, letting loose and singing along to every track by pop-rock artist K. Flay for the second night of... 
+
+<https://sundial.csun.edu/179917/arts-entertainment/review-k-flay-at-lodge-room/>
+
+---
+
+## Gallery: UCLA women’s basketball loses in Sweet 16 for 2nd straight year
+
+date: 2024-04-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA women’s basketball fell to LSU in the NCAA Tournament Regional Semifinal. This marks back-to-back years where the Bruins’ postseason run ended in the Sweet 16, where they hold a 1-5 record over the past 10 years. 
+
+<https://dailybruin.com/2024/04/03/gallery-ucla-womens-basketball-loses-in-sweet-16-for-2nd-straight-year/>
+
+---
+
+## UCLA Dorm Laundry Tips!
+
+date: 2024-04-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/04/03/ucla-dorm-laundry-tips/>
+
+---
+
+## Study abroad more competitive than ever,  many students denied for Fall 2024
+
+date: 2024-04-03, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>In Fall 2024, more Occidental students will be studying abroad than ever, but there is a caveat. Due to an extreme increase in students applying for study abroad programs, the acceptance process was more competitive than students or the college anticipated, according to Robin Craggs, the executive director of the International Programs Office (IPO). Wendy [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/uncategorized/2024/04/03/study-abroad-more-competitive-than-ever-many-students-denied-for-fall-2024/2912125">Study abroad more competitive than ever,  many students denied for Fall 2024</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/uncategorized/2024/04/03/study-abroad-more-competitive-than-ever-many-students-denied-for-fall-2024/2912125>
 
 ---
 
@@ -21,15 +312,25 @@ date: 2024-04-03, from: The Occidental News (Occidental College Student Newspape
 
 ---
 
-## Study abroad more competitive than ever,  many students denied for Fall 2024
+## Matadors reach 10 wins, recover from mentally draining Washington State match
+
+date: 2024-04-03, from: The Sundail (CSUN Student Newspaper)
+
+The match against Washington State took a lot out of the Matadors. Head coach Gary Victor talked to them about their discipline after that loss, and the Matadors answered the... 
+
+<https://sundial.csun.edu/179951/sports/matadors-reach-10-wins-recover-from-mentally-draining-washington-state-match/>
+
+---
+
+## Fake Ted Talks, long walks and lots of hikes: Professors doing (down) time
 
 date: 2024-04-03, from: The Occidental News (Occidental College Student Newspaper)
 
-<p>In Fall 2024, more Occidental students will be studying abroad than ever, but there is a caveat. Due to an extreme increase in students applying for study abroad programs, the acceptance process was more competitive than students or the college anticipated, according to Robin Craggs, the executive director of the International Programs Office (IPO). Wendy [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/uncategorized/2024/04/03/study-abroad-more-competitive-than-ever-many-students-denied-for-fall-2024/2912125">Study abroad more competitive than ever,  many students denied for Fall 2024</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+<p>Interactive Map Jeffrey Cannon, chemistry professor Hobby: Playing Pokémon and biking Location: Occidental College and the Rose Bowl “I play Pokémon Go, and I’ve had what I guess has become a lifelong obsession.” “One of the things about Pokémon Go is that you have to go and do things, and I’ll run into students playing [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/features/2024/04/03/fake-ted-talks-long-walks-and-lots-of-hikes-professors-doing-down-time/2912166">Fake Ted Talks, long walks and lots of hikes: Professors doing (down) time</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
  
 
-<https://theoccidentalnews.com/uncategorized/2024/04/03/study-abroad-more-competitive-than-ever-many-students-denied-for-fall-2024/2912125>
+<https://theoccidentalnews.com/features/2024/04/03/fake-ted-talks-long-walks-and-lots-of-hikes-professors-doing-down-time/2912166>
 
 ---
 
@@ -139,12 +440,12 @@ At Los Angeles City College, students turn toward financial literacy to chart a 
 
 ---
 
-## USG votes to table complaints after hours of debate
+## After extensive debate, USG files away complaint against senator Brandon Tavakoli
 
 date: 2024-04-03, from: The Daily Trojan (USC Student Newspaper)
 
-<p>The Undocumented Trojan Success Assembly received approval for incorporation.</p>
-<p>The post <a href="https://dailytrojan.com/2024/04/03/usg-votes-to-table-complaints-after-hours-of-debate/">USG votes to table complaints after hours of debate</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>Senators spent a considerable portion of Tuesday night's meeting discussing whether to censure Tavakoli for repeated absences. Then they realized the bylaws didn't even define "censure."</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/03/usg-votes-to-table-complaints-after-hours-of-debate/">After extensive debate, USG files away complaint against senator Brandon Tavakoli</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2024/04/03/usg-votes-to-table-complaints-after-hours-of-debate/>
@@ -227,11 +528,23 @@ date: 2024-04-03, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-04-03, from: The Daily Trojan (USC Student Newspaper)
 
-<p>Humor writer Rachel Kozik finds herself inexplicably bonded to the stranger in seat 17C after pretending not to watch their raunchy historical movie.</p>
+<p>Humor writer Rachael Kozik finds herself inexplicably bonded to the stranger in seat 17C after pretending not to watch their raunchy historical movie.</p>
 <p>The post <a href="https://dailytrojan.com/2024/04/03/an-open-letter-to-the-person-watching-a-movie-with-recurring-sex-scenes-next-to-me-on-the-plane/">An open letter to the person watching a movie with recurring sex scenes next to me on the plane</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2024/04/03/an-open-letter-to-the-person-watching-a-movie-with-recurring-sex-scenes-next-to-me-on-the-plane/>
+
+---
+
+## Comic: Learning how to be an adult
+
+date: 2024-04-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Life after graduation still scares me a little.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/03/comic-learning-how-to-be-an-adult/">Comic: Learning how to be an adult</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/03/comic-learning-how-to-be-an-adult/>
 
 ---
 
@@ -365,11 +678,11 @@ On a bright June day, fans filed into Hyde Park in London for a Pink concert, ea
 
 ---
 
-## Op-ed: Antisemitic imagery at UC regents meeting protest threatens campus discourse
+## Op-ed: Antisemitic imagery at UC Regents meeting protest threatens campus discourse
 
 date: 2024-04-03, from: The Daily Bruin (UCLA Student Newspaper)
 
-Since Oct. 7, our campus &#8211; like so many across the country &#8211; has been the site of intense and often tense discourse and action. The divide between those who support the cause of Palestinian liberation and those who support Israel&#8217;s right to exist has deepened more than at any point in my 32 years at UCLA, creating a seemingly unbridgeable gulf between the two sides. 
+Since Oct. 7, our campus – like so many across the country – has been the site of intense and often tense discourse and action. The divide between those who support the cause of Palestinian liberation and those who support Israel’s right to exist has deepened more than at any point in my 32 years at UCLA, creating a seemingly unbridgeable gulf between the two sides. 
 
 <https://dailybruin.com/2024/04/02/op-ed-antisemitic-imagery-at-uc-regents-meeting-protest-threatens-campus-discourse/>
 
@@ -446,6 +759,18 @@ UCLA faculty shared the benefits of studying different forms of hate at a sympos
 Sponsored by the UCLA Initiative to Study Hate, &#8220;The Uses of Hatred&#8221; symposium was held in Royce Hall and aimed to discuss humanities approaches to studying hate. 
 
 <https://dailybruin.com/2024/04/02/ucla-initiative-to-study-hate-hosts-symposium-exploring-hatred-in-art/>
+
+---
+
+## In the Field: CNPS Vegetation Mapping in the North Coast and Coast Ranges
+
+date: 2024-04-02, from: California Native Plants Society
+
+<p>A dedicated team of more than 80 trained botanists and CNPS members conducted over 1,700 vegetation surveys across the Northern California Coast to catalogue the remarkable vegetation diversity in the North Coast.  </p>
+<p>The post <a href="https://www.cnps.org/plant-science/towering-redwoods-and-lost-coasts-38037">In the Field: CNPS Vegetation Mapping in the North Coast and Coast Ranges</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/plant-science/towering-redwoods-and-lost-coasts-38037>
 
 ---
 

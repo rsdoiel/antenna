@@ -1,11 +1,55 @@
 ---
 title: mid central 2024.14
-updated: 2024-04-03 08:04:34
+updated: 2024-04-04 10:17:54
 ---
 
 # mid central 2024.14
 
-(date: 2024-04-03 08:04:34)
+(date: 2024-04-04 10:17:54)
+
+---
+
+## The ML-enabled edge MCUs available in three design tiers
+
+date: 2024-04-04, from: EDN Blog
+
+<img width="1402" height="791" src="https://www.edn.com/wp-content/uploads/Fig-1-PSOC-edge-Infineon-1.png?fit=1402%2C791" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-PSOC-edge-Infineon-1.png?w=1402 1402w, https://www.edn.com/wp-content/uploads/Fig-1-PSOC-edge-Infineon-1.png?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-PSOC-edge-Infineon-1.png?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-PSOC-edge-Infineon-1.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-1-PSOC-edge-Infineon-1.png?w=800 800w" sizes="(max-width: 1402px) 100vw, 1402px" /><p>Three MCUs for edge AI designs aim to facilitate the right product for the right application at the right price point.</p>
+<p>The post <a href="https://www.edn.com/the-ml-enabled-edge-mcus-available-in-three-design-tiers/" data-wpel-link="internal">The ML-enabled edge MCUs available in three design tiers</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/the-ml-enabled-edge-mcus-available-in-three-design-tiers/>
+
+---
+
+## Solar-mains hybrid lamp
+
+date: 2024-04-04, from: EDN Blog
+
+<img width="2056" height="1895" src="https://www.edn.com/wp-content/uploads/Fig.-5-LED-drivers-and-Microcontroller-PCB.jpg?fit=2056%2C1895" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig.-5-LED-drivers-and-Microcontroller-PCB.jpg?w=2056 2056w, https://www.edn.com/wp-content/uploads/Fig.-5-LED-drivers-and-Microcontroller-PCB.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig.-5-LED-drivers-and-Microcontroller-PCB.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig.-5-LED-drivers-and-Microcontroller-PCB.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig.-5-LED-drivers-and-Microcontroller-PCB.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig.-5-LED-drivers-and-Microcontroller-PCB.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig.-5-LED-drivers-and-Microcontroller-PCB.jpg?w=1900 1900w" sizes="(max-width: 2056px) 100vw, 2056px" /><p>A hybrid solar day lamp design that uses both solar PVs and mains power sources to provide a constant light output.</p>
+<p>The post <a href="https://www.edn.com/solar-mains-hybrid-lamp/" data-wpel-link="internal">Solar-mains hybrid lamp</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/solar-mains-hybrid-lamp/>
+
+---
+
+## Hurricane Stan propels student artist to find solace in the artistry of buhurt
+
+date: 2024-04-04, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+After the event of Hurricane Stan in Guatemala, Andrew Turner had turned to the practice of buhurt, a full-contact sport where fighters are dressed in full medieval armor and use dulled weapons. The sport helped to steer him in the right direction and helped to give him purpose. Being in a situation where he’s in... 
+
+<https://fscollegian.com/2024/04/hurricane-stan-propels-student-artist-to-find-solace-in-the-artistry-of-buhurt/>
+
+---
+
+## March’s Top Dog: Sara Tuck earns consecutive All-Big 12 honors
+
+date: 2024-04-04, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Three Fresno State equestrian competitors earned All-Big 12 honors, but Sara Tucker earned hers back-to-back, which is why she is The Collegian’s Top Dog for the month of March. Tucker first earned an All-Big 12 accolade in the flat for the 2022-23 season, finishing with a 7-4-1 overall record. On March 30, she did it... 
+
+<https://fscollegian.com/2024/04/marchs-top-dog-sara-tuck-earns-consecutive-all-big-12-honors/>
 
 ---
 
@@ -13,7 +57,7 @@ updated: 2024-04-03 08:04:34
 
 date: 2024-04-03, from: EDN Blog
 
-<img width="563" height="679" src="https://www.edn.com/wp-content/uploads/No-Float-Figure-1.png?fit=563%2C679" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/No-Float-Figure-1.png?w=563 563w, https://www.edn.com/wp-content/uploads/No-Float-Figure-1.png?w=249 249w" sizes="(max-width: 563px) 100vw, 563px" /><p>Addressing some of the commentary in the previous “No floating nodes” piece with some options on tethering the formerly floating node. </p>
+<img width="563" height="679" src="https://www.edn.com/wp-content/uploads/No-Float-Figure-1.png?fit=563%2C679" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/No-Float-Figure-1.png?w=563 563w, https://www.edn.com/wp-content/uploads/No-Float-Figure-1.png?w=249 249w" sizes="(max-width: 563px) 100vw, 563px" /><p>Addressing some of the commentary in the previous “No floating nodes” piece with some options on tethering the formerly floating node. </p>
 <p>The post <a href="https://www.edn.com/no-floating-nodes-part-2/" data-wpel-link="internal">No floating nodes, Part 2</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
