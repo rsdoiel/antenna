@@ -1,11 +1,67 @@
 ---
 title: writing 2024.14
-updated: 2024-04-04 10:17:54
+updated: 2024-04-05 08:54:36
 ---
 
 # writing 2024.14
 
-(date: 2024-04-04 10:17:54)
+(date: 2024-04-05 08:54:36)
+
+---
+
+## LA Times Book Prize Finalists
+
+date: 2024-04-05, from: Locus Magazine
+
+<p>Finalists have been announced for the 2023 Los Angeles Times Book Prizes, including categories and works of genre interest.</p>
+<div class="mynomorebulletlist">Science Fiction, Fantasy, and Speculative Fiction (formerly the Bradbury Prize):
+<ul>
+<li><strong>The Reformatory</strong>, Tananarive Due (Saga)</li>
+<li><strong>Whalefall</strong>, Daniel Kraus (MTV Books)</li>
+<li><strong>Lone Women</strong>, Victor LaValle (One World)</li>
+<li><strong>The Fragile Threads of Power</strong>, V.E. Schwab (Tor)</li>
+<li><strong>Jewel Box: Stories</strong>, E. Lily Yu (Erewhon)</li>
+</ul>
+<p>Fiction:</p>
+<ul>
+<li><strong>Same Bed Different Dreams</strong></li></ul></div> <a href="https://locusmag.com/2024/04/la-times-book-prize-finalists-3/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/04/la-times-book-prize-finalists-3/>
+
+---
+
+## A.C. Wise Reviews Short Fiction: Augur
+
+date: 2024-04-05, from: Locus Magazine
+
+<p>Augur 6.2</p>
+<p>Several stories in Augur issue 6.2 draw on vari­ous traditions and fairy tales for inspiration. In “<strong>Moon-Eaters &#38; Monsoons</strong>” by Rachel Evange­line Chiong, twin brothers Amihan and Hagbat set out to determine what is ailing one of their realm’s gods. They haven’t spoken in years, and the journey is fraught, their failure to listen to and understand each other putting both of them in danger. “ <a href="https://locusmag.com/2024/04/a-c-wise-reviews-short-fiction-augur/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/a-c-wise-reviews-short-fiction-augur/>
+
+---
+
+## 7 Differences Between Short Stories and Novels
+
+date: 2024-04-05, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/7-differences-between-short-stories-and-novels" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Pile%20of%20Books.jpeg" alt="An open book ontop of several other books; 7 Differences Between Short Stories and Novels" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>While both short stories and novels share the goal of engaging the reader in dynamic, thought-provoking storytelling, there are several significant differences between the two forms.</p> 
+
+<https://blog.finaldraft.com/7-differences-between-short-stories-and-novels>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-05, from: Neil Gaiman @ BlueSky)
+
+Adrian Schiller played Uncle in The Doctor's Wife. Yesterday I was thinking about how very good he was and wondering whether I had a part for him in something coming up. Today I learned he had died, leaving a partner and son, and I contributed to his GoFundMe.
+
+gofund.me/1e719c17
+https://gofund.me/1e719c17 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kpf43fgcwk2q>
 
 ---
 

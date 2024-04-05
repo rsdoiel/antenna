@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.14
-updated: 2024-04-04 10:17:54
+updated: 2024-04-05 08:54:37
 ---
 
 # libraries 2024.14
 
-(date: 2024-04-04 10:17:54)
+(date: 2024-04-05 08:54:37)
+
+---
+
+## The Evolution  of Pronunciation
+
+date: 2024-04-05, from: Scholarly Kitchen
+
+<p>Which words do you mispronounce? Or rather, which words that you mispronounce today will eventually be "correct"?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/04/05/the-evolution-of-pronunciation/">The Evolution  of Pronunciation</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/04/05/the-evolution-of-pronunciation/>
 
 ---
 
@@ -47,7 +59,7 @@ date: 2024-04-03, from: Scholarly Kitchen
 
 date: 2024-04-02, from: Association of Research Libraries News
 
-<p>Last Updated on April 4, 2024, 3:42 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 2 &#124; Wednesday, April 3 &#124; Thursday,...</p>
+<p>Last Updated on April 4, 2024, 3:57 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 2 &#124; Wednesday, April 3 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-1-4/">Day in Review (April 1–4)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -106,4 +118,14 @@ date: 2024-04-01, from: ETH Zurich, recently added
 Zhang, Hanqing; Reuland, Yves; Shan, Jiazeng; Chatzi, Eleni 
 
 <http://hdl.handle.net/20.500.11850/659625>
+
+---
+
+## E-Bike City
+
+date: 2024-04-01, from: ETH Zurich, recently added
+
+Axhausen, Kay W. 
+
+<http://hdl.handle.net/20.500.11850/667723>
 

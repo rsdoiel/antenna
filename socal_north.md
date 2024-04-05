@@ -1,11 +1,445 @@
 ---
 title: socal north 2024.14
-updated: 2024-04-04 10:17:53
+updated: 2024-04-05 08:54:36
 ---
 
 # socal north 2024.14
 
-(date: 2024-04-04 10:17:53)
+(date: 2024-04-05 08:54:36)
+
+---
+
+**@The Daily Trojan (USC Student Newspaper)** (date: 2024-04-05, from: The Daily Trojan (USC Student Newspaper))
+
+<p>The post <a href="https://dailytrojan.com/2024/04/05/206837/"></a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/05/206837/>
+
+---
+
+## Occupational therapy programs promote ‘Lifestyle Redesign’
+
+date: 2024-04-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/04/05/occupational-therapy-programs-promote-lifestyle-redesign/">Occupational therapy programs promote &#8216;Lifestyle Redesign&#8217;</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/05/occupational-therapy-programs-promote-lifestyle-redesign/>
+
+---
+
+## Therapy dogs relieve college pressures at USC
+
+date: 2024-04-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/04/05/therapy-dogs-relieve-college-pressures-at-usc/">Therapy dogs relieve college pressures at USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/05/therapy-dogs-relieve-college-pressures-at-usc/>
+
+---
+
+## The Happy Hour makes time for mental health
+
+date: 2024-04-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/04/05/the-happy-hour-makes-time-for-mental-health/">The Happy Hour makes time for mental health</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/05/the-happy-hour-makes-time-for-mental-health/>
+
+---
+
+## USC’s Climbing Club makes it easy to “Climb On!”
+
+date: 2024-04-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/04/05/uscs-climbing-club-makes-it-easy-to-climb-on/">USC’s Climbing Club makes it easy to “Climb On!”</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/05/uscs-climbing-club-makes-it-easy-to-climb-on/>
+
+---
+
+## Healthy eating not far from USC campus
+
+date: 2024-04-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/04/05/healthy-eating-not-far-from-campus/">Healthy eating not far from USC campus</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/05/healthy-eating-not-far-from-campus/>
+
+---
+
+## Professors discuss mental health in classrooms
+
+date: 2024-04-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/04/05/professors-discuss-mental-health-in-classrooms/">Professors discuss mental health in classrooms</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/05/professors-discuss-mental-health-in-classrooms/>
+
+---
+
+## Classifieds – April 5, 2024
+
+date: 2024-04-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/05/classifieds-april-5-2024/">Classifieds &#8211; April 5, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/05/classifieds-april-5-2024/>
+
+---
+
+## Travis Scott ‘FE!N’s for college student clout
+
+date: 2024-04-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The rapper and producer visited the USC Bookstore on Thursday to promote his new clothing line.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/05/travis-scott-feins-for-college-student-clout/">Travis Scott ‘FE!N’s for college student clout</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/05/travis-scott-feins-for-college-student-clout/>
+
+---
+
+## Humans need to photosynthesize, too
+
+date: 2024-04-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The L.A. sunshine deserves credit for what it’s done for my and others’ moods.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/05/humans-need-to-photosynthesize-too/">Humans need to photosynthesize, too</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/05/humans-need-to-photosynthesize-too/>
+
+---
+
+## USC hires Eric Musselman as men’s basketball head coach
+
+date: 2024-04-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>All aboard the “muss bus.” A new era of Trojan basketball starts now at Galen Center.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/05/usc-hires-eric-musselman-as-mens-basketball-head-coach/">USC hires Eric Musselman as men&#8217;s basketball head coach</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/05/usc-hires-eric-musselman-as-mens-basketball-head-coach/>
+
+---
+
+## USC launches inaugural Armenian History Month celebrations with opening ceremony
+
+date: 2024-04-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The event featured speeches and traditional Armenian carpets, songs and dances.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/05/usc-launches-inaugural-armenian-history-month-celebrations-with-opening-ceremony/">USC launches inaugural Armenian History Month celebrations with opening ceremony</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/05/usc-launches-inaugural-armenian-history-month-celebrations-with-opening-ceremony/>
+
+---
+
+## What the heck are the AI ethicists up to?
+
+date: 2024-04-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>If you’re interested in having a career that is ethically meaningful, technologically inclined, potentially lucrative and intellectually involved, this article is for you!</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/05/what-the-heck-are-the-ai-ethicists-up-to/">What the heck are the AI ethicists up to?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/05/what-the-heck-are-the-ai-ethicists-up-to/>
+
+---
+
+## Men’s volleyball looking to bounce back — and back again
+
+date: 2024-04-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans hope to end a three-game losing streak this weekend against BYU.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/05/mens-volleyball-looking-to-bounce-back-and-back-again/">Men’s volleyball looking to bounce back — and back again</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/05/mens-volleyball-looking-to-bounce-back-and-back-again/>
+
+---
+
+## Women’s water polo and Stanford meet again
+
+date: 2024-04-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC heads up the coast to face the Cardinal in their second meeting this season.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/05/womens-water-polo-and-stanford-meet-again/">Women’s water polo and Stanford meet again</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/05/womens-water-polo-and-stanford-meet-again/>
+
+---
+
+## Start summer after finals with these films
+
+date: 2024-04-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Transport to another time by watching these ’80s and ’90s films after exams.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/05/start-summer-after-finals-with-these-films/">Start summer after finals with these films</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/05/start-summer-after-finals-with-these-films/>
+
+---
+
+## ‘About Face’ shows symbolism of USC art
+
+date: 2024-04-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The iconography walking tour demystified popular art installations across campus. </p>
+<p>The post <a href="https://dailytrojan.com/2024/04/05/about-face-shows-symbolism-of-usc-art/">‘About Face’ shows symbolism of USC art</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/05/about-face-shows-symbolism-of-usc-art/>
+
+---
+
+## Police negotiating with suspect after student’s residence burglarized
+
+date: 2024-04-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The suspect has broken several windows and may have set some small fires.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/04/police-negotiating-with-suspect-after-students-residence-burglarized/">Police negotiating with suspect after student&#8217;s residence burglarized</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/04/police-negotiating-with-suspect-after-students-residence-burglarized/>
+
+---
+
+## UCLA Dining provides new breakfast options for students, increases dining versatility
+
+date: 2024-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+As students wandered out of their dorms bleary-eyed Monday, they were met not just with the new quarter but also new breakfast options at Bruin Caf&#233; and Epicuria at Ackerman. 
+
+<https://dailybruin.com/2024/04/04/ucla-dining-provides-new-breakfast-options-for-students-increases-dining-versatility/>
+
+---
+
+## Student-led Bruincare initiative uses AI to enhance mental health support services
+
+date: 2024-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 4 at 9:01 p.m.</em>
+Anish Dulla wanted to make mental health services on campus more accessible – so the fourth-year statistics and data science student turned to artificial intelligence. 
+
+<https://dailybruin.com/2024/04/04/student-led-bruincare-initiative-uses-ai-to-enhance-mental-health-support-services/>
+
+---
+
+## North Westwood Neighborhood Council recap – April 3
+
+date: 2024-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+The North Westwood Neighborhood Council heard updates from various public officials and discussed issues surrounding transportation and homelessness Wednesday.
+The council, which represents Westwood to the Los Angeles City Council, meets on the first Wednesday of every month in UCLA’s Weyburn Terrace. 
+
+<https://dailybruin.com/2024/04/04/north-westwood-neighborhood-council-recap-april-3/>
+
+---
+
+## Harbor-UCLA OB-GYN residents publish study on accuracy of fetal weight estimations
+
+date: 2024-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 4 at 9:07 p.m.</em>
+Obstetricians at the Harbor-UCLA Medical Center found that while second-year residents are more accurate than first-year residents in estimating fetal weight, first-year residents are also capable of estimating within 10% of the true weight. 
+
+<https://dailybruin.com/2024/04/04/harbor-ucla-ob-gyn-residents-publish-study-on-accuracy-of-fetal-weight-estimations/>
+
+---
+
+## Tutoring at UCLA: Passing on knowledge outside the classroom
+
+date: 2024-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 4 at 6:01 p.m.</em>
+To tutor or to be tutored? That is the question for UCLA students.
+For some, the reality is both. 
+
+<https://dailybruin.com/2024/04/04/tutoring-at-ucla-passing-on-knowledge-outside-the-classroom/>
+
+---
+
+## McCarthy Way Parking Structure, McCarthy Way entrance reopened after accident
+
+date: 2024-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>McCarthy Way faced closures through Thursday afternoon as authorities addressed damages to the structure, after a vehicular accident that breached the wall on the third floor.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/04/vehicle-crashes-into-wall-of-mccarthy-way-parking-structure/">McCarthy Way Parking Structure, McCarthy Way entrance reopened after accident</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/04/vehicle-crashes-into-wall-of-mccarthy-way-parking-structure/>
+
+---
+
+## TV preview: Four spring shows to spice up your quarter
+
+date: 2024-04-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 4 at 10:07 p.m.</em>
+This spring’s long-awaited television slate is finally in bloom.
+Alongside May flowers, this year’s April showers will bring a fresh lineup of engrossing shows to the small screen. 
+
+<https://dailybruin.com/2024/04/04/tv-preview-four-spring-shows-to-spice-up-your-quarter/>
+
+---
+
+## McClendon, Cremonesi join potential outgoing Bruins with transfer portal entrances
+
+date: 2024-04-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+The revolving door of the Bruins’ roster is continuing to spin.
+The latest rotation has another scholarship player on his way out.
+UCLA men’s basketball redshirt sophomore guard Will McClendon entered the transfer portal Thursday afternoon, according to 247Sports national basketball director Eric Bossi. 
+
+<https://dailybruin.com/2024/04/04/mcclendon-cremonesi-join-potential-outgoing-bruins-with-transfer-portal-entrances/>
+
+---
+
+## Healthy Cooking with Canyon Country Farmers Market
+
+date: 2024-04-04, from: City of Santa Clarita
+
+<p>HEALTHY COOKING WITH CANYON COUNTRY FARMERS MARKET Are you tired of spending a fortune on dining out and ready to take charge of your meals? Join us for a series of dynamic cooking classes designed to empower you in the kitchen! Presented by the Canyon Country Farmers Market in collaboration with the City of Santa [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/04/04/healthy-cooking-with-canyon-country-farmers-market/">Healthy Cooking with Canyon Country Farmers Market</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/04/04/healthy-cooking-with-canyon-country-farmers-market/>
+
+---
+
+## Santa Clarita’s City Hall Ceremonies
+
+date: 2024-04-04, from: City of Santa Clarita
+
+<p>Santa Clarita’s City Hall Ceremonies By Councilwoman Marsha McLean “What greater thing is there for two human souls then to feel that they are joined for life — to strengthen each other in all labor, to rest on each other in all sorrow, to minister to each other in silent, unspeakable memories at the moment [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/04/04/santa-claritas-city-hall-ceremonies/">Santa Clarita’s City Hall Ceremonies</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/04/04/santa-claritas-city-hall-ceremonies/>
+
+---
+
+## UCLA women’s tennis rises in the ranks, sweeps CSUN before return to Pac-12 play
+
+date: 2024-04-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins beat the Cardinal on Sunday for the first time since 2021.
+Two days later, they rose three ranks in the national rankings – their highest rank of the season – and also saw two singles players and two doubles teams rise in the ranks. 
+
+<https://dailybruin.com/2024/04/04/ucla-womens-tennis-rises-in-the-ranks-after-dominating-csun/>
+
+---
+
+## Travis Scott at USC — as it happened
+
+date: 2024-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The rapper and producer has been promoting his collegiate-branded clothing lineup, a collaboration with sportswear manufacturer Fanatics, with similar appearances at other college campuses.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/04/travis-scott-at-usc-live-updates/">Travis Scott at USC — as it happened</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/04/travis-scott-at-usc-live-updates/>
+
+---
+
+## Book Preview: Spring brings flings, engagement rings, historical fiction
+
+date: 2024-04-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 4 at 10:13 p.m.</em>
+With flowers in full bloom, the literary landscape is abuzz with a bouquet of new releases.
+Bibliophiles will rejoice as the spring heralds a fresh crop of captivating tales. 
+
+<https://dailybruin.com/2024/04/04/book-preview-spring-brings-flings-engagement-rings-historical-fiction/>
+
+---
+
+## USC hires Eric Musselman as men’s basketball head coach
+
+date: 2024-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>All aboard the “muss bus.” A new era of Trojan basketball starts now at Galen Center.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/04/usc-mens-basketball-hires-arkansas-eric-musselman-as-new-head-coach/">USC hires Eric Musselman as men&#8217;s basketball head coach</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/04/usc-mens-basketball-hires-arkansas-eric-musselman-as-new-head-coach/>
+
+---
+
+## Weekend in Preview: April 4
+
+date: 2024-04-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Beach volleyball
+Sabrina Baker, Daily Bruin staff
+Rainy weather looms over the Bruins’ Pacific Northwest trip.
+No. 1 UCLA beach volleyball (19-4, 1-0 Pac-12) will travel to Alki Beach in Seattle to compete in the Pac-12 North Invitational from Friday to Saturday, where rainy conditions are predicted. 
+
+<https://dailybruin.com/2024/04/04/weekend-in-preview-april-4/>
+
+---
+
+## Gaming Psychology: What are the positive and negative benefits of playing video games?
+
+date: 2024-04-04, from: The Sundail (CSUN Student Newspaper)
+
+Gaming as we know it has evolved in the past few decades. It has become more than just a way for college students to pass time and de-stress amid assignments.... 
+
+<https://sundial.csun.edu/179981/print-editions/print-stories/gaming-psychology-what-are-the-positive-and-negative-benefits-of-playing-video-games/>
+
+---
+
+## Competing and Team Building: The Activities and Goals of Esport Club
+
+date: 2024-04-04, from: The Sundail (CSUN Student Newspaper)
+
+The California State University, Northridge esports club is growing with prospects to bring in more students of all levels amidst the rise of competitive gaming. Within the ever growing gaming... 
+
+<https://sundial.csun.edu/179976/print-editions/print-stories/competing-and-team-building-the-activities-and-goals-of-esport-club/>
+
+---
+
+## Leading in Innovations and Layoffs: The State of the Video Game Industry
+
+date: 2024-04-04, from: The Sundail (CSUN Student Newspaper)
+
+As the new year begins, some of the gaming industry’s biggest players have already announced layoffs. NPR reported almost 6,500 video game workers have been laid off in the first... 
+
+<https://sundial.csun.edu/179970/print-editions/print-stories/leading-in-innovations-and-layoffs-the-state-of-the-video-game-industry/>
+
+---
+
+## UCLA men’s volleyball prepares for top-ranked matchup against Grand Canyon
+
+date: 2024-04-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+On the road to the postseason, two titans atop the MPSF standings will battle in Westwood.
+No. 2 UCLA men&#8217;s volleyball (18-4, 7-1 MPSF) will face No. 
+
+<https://dailybruin.com/2024/04/04/ucla-mens-volleyball-prepares-for-top-ranked-matchup-against-grand-canyon/>
+
+---
+
+## USC guard Kobe Johnson announces transfer to UCLA men’s basketball
+
+date: 2024-04-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Only a day has passed since the Bruins’ first offseason splash, and they’re already making more moves.
+This time, coach Mick Cronin is welcoming in a former rival for the first time. 
+
+<https://dailybruin.com/2024/04/04/usc-guard-kobe-johnson-announces-transfer-to-ucla-mens-basketball/>
 
 ---
 
@@ -13,6 +447,7 @@ updated: 2024-04-04 10:17:53
 
 date: 2024-04-04, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated April 4 at 10:18 p.m.</em>
 The Bruins just barely missed out on a ticket to nationals two years ago.
 They redeemed themselves last year when they reclaimed a spot at nationals in their home regional. 
 

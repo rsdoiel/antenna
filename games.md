@@ -1,11 +1,111 @@
 ---
 title: games 2024.14
-updated: 2024-04-04 10:17:54
+updated: 2024-04-05 08:54:36
 ---
 
 # games 2024.14
 
-(date: 2024-04-04 10:17:54)
+(date: 2024-04-05 08:54:36)
+
+---
+
+## Best FJX Horus loadout, class build in Modern Warfare 3
+
+date: 2024-04-05, updated: 2024-04-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/modern-warfare-3-guides/24121957/best-fjx-horus-loadout-class-build-mw3>
+
+---
+
+## Pokémon Go ‘Glimmers of Gratitude’ Shiny Shaymin Masterwork Research guide
+
+date: 2024-04-05, updated: 2024-04-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24078278/shiny-shaymin-masterwork-research-glimmers-of-gratitude>
+
+---
+
+## New deck-building game has players battle through the story of Avatar: The Last Airbender
+
+date: 2024-04-05, updated: 2024-04-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24120359/avatar-airbender-aangs-destiny-game-preview>
+
+---
+
+## We’re giving away 150 tickets to Spy x Family Code: White in Santa Ana
+
+date: 2024-04-05, updated: 2024-04-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/4/5/24120508/spy-x-family-movie-polygon-screening-frida>
+
+---
+
+## Netflix’s Ripley haunts a beloved movie like a shadow
+
+date: 2024-04-05, updated: 2024-04-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24120993/ripley-netflix-review-andrew-scott>
+
+---
+
+## For some, Helldivers 2’s anti-cheat software limits the ability to play at all
+
+date: 2024-04-05, updated: 2024-04-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24120108/video-game-anti-cheat-software-accessibility-helldivers-2>
+
+---
+
+## You can watch the solar eclipse on Twitch or in Fortnite, thanks to NASA
+
+date: 2024-04-05, updated: 2024-04-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24119895/how-watch-solar-eclipse-what-time-twitch-fortnite-minecraft-nasa>
+
+---
+
+## How to finish the Unmoored World endgame in Dragon’s Dogma 2
+
+date: 2024-04-04, updated: 2024-04-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24121502/unmoored-world-endgame-best-quest-order-new-game-plus>
+
+---
+
+## Who is subjecting us to these things, and why do they hate popcorn?
+
+date: 2024-04-04, updated: 2024-04-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24121455/garfield-movie-popcorn-bucket-where-to-buy-and-why>
+
+---
+
+## How to get high quality Pal oil in Palworld
+
+date: 2024-04-04, updated: 2024-04-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/palworld-guides/24048237/high-quality-pal-oil-how-to-get-locations-relaxaurus>
 
 ---
 
@@ -116,16 +216,6 @@ date: 2024-04-03, updated: 2024-04-03, from: Polygon Website
  
 
 <https://www.polygon.com/tabletop-games/24119049/wyrmspan-wingspan-sequel-review>
-
----
-
-## You can watch the solar eclipse on Twitch or in Fortnite, thanks to NASA
-
-date: 2024-04-03, updated: 2024-04-03, from: Polygon Website
-
- 
-
-<https://www.polygon.com/24119895/how-watch-solar-eclipse-what-time-twitch-fortnite-minecraft-nasa>
 
 ---
 

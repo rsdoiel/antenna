@@ -1,11 +1,53 @@
 ---
 title: columns 2024.14
-updated: 2024-04-04 10:17:54
+updated: 2024-04-05 08:54:36
 ---
 
 # columns 2024.14
 
-(date: 2024-04-04 10:17:54)
+(date: 2024-04-05 08:54:36)
+
+---
+
+## Maybe the Phone System Surveillance Vulnerabilities Will Be Fixed
+
+date: 2024-04-05, updated: 2024-04-04, from: Bruce Schneier blog
+
+<p>It seems that the FCC might be <a href="https://www.theregister.com/AMP/2024/04/02/fcc_ss7_security/">fixing the vulnerabilities</a> in SS7 and the Diameter protocol:</p>
+<blockquote><p>On March 27 the commission asked telecommunications providers to weigh in and detail what they are doing to prevent SS7 and Diameter vulnerabilities from being misused to track consumers&#8217; locations.</p>
+<p>The FCC has also asked carriers to detail any exploits of the protocols since 2018. The regulator wants to know the date(s) of the incident(s), what happened, which vulnerabilities were exploited and with which techniques, where the location tracking occurred, and ­ if known ­ the attacker&#8217;s identity...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/04/maybe-the-phone-system-surveillance-vulnerabilities-will-be-fixed.html>
+
+---
+
+## The man who sacrificed workers to shareholders 
+
+date: 2024-04-05, from: Robert Reich's blog
+
+The Origins of Trumpism, Part 10 
+
+<https://robertreich.substack.com/p/the-three-men-who-killed-american>
+
+---
+
+## Friday 5 April, 2024
+
+date: 2024-04-04, from: John Naughton's online diary
+
+Anyone for truffles? Provence (where else?) Quote of the Day ”A toy car is a projection of a real car, made small enough for a child&#8217;s hand and imagination to grasp. A real car is a projection of a toy &#8230; <a href="https://memex.naughtons.org/friday-5-april-2024/39320/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-5-april-2024/39320/>
+
+---
+
+## Bombs away?
+
+date: 2024-04-04, from: Robert Reich's blog
+
+Biden must stand up to Netanyahu 
+
+<https://robertreich.substack.com/p/bombs-away>
 
 ---
 
@@ -264,6 +306,15 @@ This isn't a "past catastrophe". For the victims <a href="https://nymag.com/inte
 A ruling isn’t expected until April. Since the settlement announcement, the victims have resigned themselves to an even longer wait as Silbert continues to fight. “A year ago, there was a deal that was proposed. Everyone was celebrating in a very similar way,” Asquith said. “Now, I’ll believe it when it’s in my account.”
 </blockquote>
 This case, like Dickens' <a href="https://en.wikipedia.org/wiki/Jarndyce_and_Jarndyce">Jarndyce v Jarndyce</a>, will run and run.<br /> 
+<br />
+<h3>Update 4<sup>th</sup> April 2024</h3>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKPN3C98nYh1GIiubS_0eD0fFT4qhr8l6j0AUBKln3DVDcYhwMiFd8ehex9QT1-IuOXfFI1Aqis1O-FHo4YO6an6OGuwdIcD84rfkJhEJbDakUyLhzBOx8QGZhrpdNOL3iH25rTma-W9IBNEU3RTkuVMpiDQ3w7J36AZO4r8byL2_GI2CFgMAhnI1iVTk9/s2000/RugPull.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1834" data-original-width="2000" height="183" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKPN3C98nYh1GIiubS_0eD0fFT4qhr8l6j0AUBKln3DVDcYhwMiFd8ehex9QT1-IuOXfFI1Aqis1O-FHo4YO6an6OGuwdIcD84rfkJhEJbDakUyLhzBOx8QGZhrpdNOL3iH25rTma-W9IBNEU3RTkuVMpiDQ3w7J36AZO4r8byL2_GI2CFgMAhnI1iVTk9/w200-h183/RugPull.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://bsky.app/profile/ens0.me/post/3kpacscduiv2h">Source</a></td></tr></tbody></table>
+This is possibly peak Left Curve. Molly White reports that <a href="https://www.web3isgoinggreat.com/?id=rug-pull-token"><i>Project promising to rug pull raises almost $29,000</i></a>:<br />
+<blockquote>
+A project describing itself as "The world's first memecoin pre-announced as a rugpull" was explicit in its marketing: "do not buy this coin, as it will go to zero."<br />
+<br />
+Despite that, people sent the creator over 8.8 ETH (almost $29,000) for the project's "pre-sale", even as they repeated on Twitter that the project was a scam and that no one should buy it.
+</blockquote> 
 
 <https://blog.dshr.org/2024/04/the-left-curve.html>
 

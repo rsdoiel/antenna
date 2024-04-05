@@ -1,11 +1,41 @@
 ---
 title: health 2024.14
-updated: 2024-04-04 10:17:54
+updated: 2024-04-05 08:54:37
 ---
 
 # health 2024.14
 
-(date: 2024-04-04 10:17:54)
+(date: 2024-04-05 08:54:37)
+
+---
+
+## Editorial: Translational approaches to combat emerging viral infections: diagnosis, immunopathogenesis, and therapeutics
+
+date: 2024-04-05, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1406240>
+
+---
+
+## Role of the gut microbiota in complications after ischemic stroke
+
+date: 2024-04-05, from: Frontiers in Cellular and Infection Microbiology
+
+Ischemic stroke (IS) is a serious central nervous system disease. Post-IS complications, such as post-stroke cognitive impairment (PSCI), post-stroke depression (PSD), hemorrhagic transformation (HT), gastrointestinal dysfunction, cardiovascular events, and post-stroke infection (PSI), result in neurological deficits. The microbiota-gut-brain axis (MGBA) facilitates bidirectional signal transduction and communication between the intestines and the brain. Recent studies have reported alterations in gut microbiota diversity post-IS, suggesting the involvement of gut microbiota in post-IS complications through various mechanisms such as bacterial translocation, immune regulation, and production of gut bacterial metabolites, thereby affecting disease prognosis. In this review, to provide insights into the prevention and treatment of post-IS complications and improvement of the long-term prognosis of IS, we summarize the interaction between the gut microbiota and IS, along with the effects of the gut microbiota on post-IS complications. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1334581>
+
+---
+
+## Vaginal microbiota molecular profiling and diagnostic performance of artificial intelligence-assisted multiplex PCR testing in women with bacterial vaginosis: a single-center experience
+
+date: 2024-04-05, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundBacterial vaginosis (BV) is a most common microbiological syndrome. The use of molecular methods, such as multiplex real-time PCR (mPCR) and next-generation sequencing, has revolutionized our understanding of microbial communities. Here, we aimed to use a novel multiplex PCR test to evaluate the microbial composition and dominant lactobacilli in non-pregnant women with BV, and combined with machine learning algorithms to determine its diagnostic significance.MethodsResidual material of 288 samples of vaginal secretions derived from the vagina from healthy women and BV patients that were sent for routine diagnostics was collected and subjected to the mPCR test. Subsequently, Decision tree (DT), random forest (RF), and support vector machine (SVM) hybrid diagnostic models were constructed and validated in a cohort of 99 women that included 74 BV patients and 25 healthy controls, and a separate cohort of 189 women comprising 75 BV patients, 30 intermediate vaginal microbiota subjects and 84 healthy controls, respectively.ResultsThe rate or abundance of Lactobacillus crispatus and Lactobacillus jensenii were significantly reduced in BV-affected patients when compared with healthy women, while Lactobacillus iners, Gardnerella vaginalis, Atopobium vaginae, BVAB2, Megasphaera type 2, Prevotella bivia, and Mycoplasma hominis were significantly increased. Then the hybrid diagnostic models were constructed and validated by an independent cohort. The model constructed with support vector machine algorithm achieved excellent prediction performance (Area under curve: 0.969, sensitivity: 90.4%, specificity: 96.1%). Moreover, for subjects with a Nugent score of 4 to 6, the SVM-BV model might be more robust and sensitive than the Nugent scoring method.ConclusionThe application of this mPCR test can be effectively used in key vaginal microbiota evaluation in women with BV, intermediate vaginal microbiota, and healthy women. In addition, this test may be used as an alternative to the clinical examination and Nugent scoring method in diagnosing BV. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1377225>
 
 ---
 
