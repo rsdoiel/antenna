@@ -366,6 +366,7 @@ https://www.levernews.com/rss/ "~The Lever News" curl/8.5.0 (rsdoiel@gmail.com, 
 # Bloggers
 #
 https://val.demar.in/feed/ "~Paolo Valdemarin's blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://yihui.org/en/index.xml "~YiHui Xie blog"
 
 #
 # Software, Technology, and Science
