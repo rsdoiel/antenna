@@ -244,3 +244,9 @@ https://cea.cals.cornell.edu/feed/ "~Cornell Controlled Environment Agriculture"
 https://www.ccc.de/de/rss/updates.xml "~Chaos Computer Club" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 https://xeiaso.net/blog.rss "~Ze Iaso's blog"
+
+#
+# Operating Systems
+#
+https://reactos.org/index.xml "~ReactOS News"
+https://www.redox-os.org/news/index.xml "~Redox OS News"

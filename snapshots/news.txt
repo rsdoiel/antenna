@@ -494,3 +494,7 @@ https://inkdroid.org/feed.xml "~Ed Summers blog, Inkdroid"
 http://www.enlightenmenteconomics.com/blog/index.php/feed/ "~Enlightenment Economics"
 https://jan.bio/rss.xml "~Jan Schreiber's blog (ncgopher)"
 https://xeiaso.net/blog.rss "~Ze Iaso's blog"
+
+# Operating Systems
+https://reactos.org/index.xml "~ReactOS News"
+https://www.redox-os.org/news/index.xml "~Redox OS News"
