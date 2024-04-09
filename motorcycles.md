@@ -1,11 +1,91 @@
 ---
 title: motorcycles 2024.15
-updated: 2024-04-08 08:16:28
+updated: 2024-04-09 08:39:10
 ---
 
 # motorcycles 2024.15
 
-(date: 2024-04-08 08:16:28)
+(date: 2024-04-09 08:39:10)
+
+---
+
+## MV Agusta's Enduro Veloce Is a Faster Rally Machine
+
+date: 2024-04-09, from: Ride Apart, Electric Motorcycle News
+
+It'll certainly be a stylish way to explore the backcountry and by-roads.  
+
+<https://www.rideapart.com/news/715371/mv-agusta-enduro-veloce-price-specs-new/>
+
+---
+
+## Leuel Asnake’s Custom Scoring Pylon Snag NASCAR World’s Attention
+
+date: 2024-04-09, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor After the historic three-wide NASCAR Cup Series photo finish at Atlanta Motor Speedway, one fan, Leuel Asnake, tweeted a video of the reaction of him,&#8230;  
+
+<https://kickinthetires.net/nascar/asnake-custom-scoring-pylon-grabs-nascar/>
+
+---
+
+## Kove Moto Is Offering to Support Riders Who Want To Race Baja
+
+date: 2024-04-09, from: Ride Apart, Electric Motorcycle News
+
+Kove is raising the stakes with cash incentives for racers and winners.  
+
+<https://www.rideapart.com/news/715020/kove-usa-baja-pro-moto-adv-support/>
+
+---
+
+## Kyle Larson’s Martinsville Pole Marks Another Drive for Diversity Milestone
+
+date: 2024-04-08, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor Martinsville, Va. – When Kyle Larson narrowly beat Bubba Wallace for the Cook Out 400 pole at Martinsville Speedway, it marked the second NASCAR Drive&#8230;  
+
+<https://kickinthetires.net/nascar/larson-drive-for-diversity-milestone/>
+
+---
+
+## Say It Ain't So: Atwyld Announces Plans To Pause Operations At End Of Month
+
+date: 2024-04-08, from: Ride Apart, Electric Motorcycle News
+
+The women's gear and apparel company announced the sad news on its socials. 
+
+<https://www.rideapart.com/news/715373/atwyld-pauses-operations-april-2024/>
+
+---
+
+## Kawi Performance is Building a Crazy Supercharged Jet Ski
+
+date: 2024-04-08, from: Ride Apart, Electric Motorcycle News
+
+It’s their most ambitious build to date.  
+
+<https://www.rideapart.com/news/715242/kawi-performance-supercharged-jetski-build/>
+
+---
+
+## REV’IT! Xena 4 Ladies: AAA-rated Women’s Leather One Piece
+
+date: 2024-04-08, from: Cycle World News
+
+With the launch of the all-new Xena 4 Ladies one piece, REV'IT! is shifting gears to set female riders up to shift the status quo. 
+
+<https://www.cycleworld.com/the-wire/revit-xena-4-ladies-aaa-rated-womens-leather-one-piece/>
+
+---
+
+## BMW Motorrad USA announces BMW Motorrad Days Americas 2024
+
+date: 2024-04-08, from: Cycle World News
+
+BMW Motorrad USA is proud to announce the return of BMW Motorrad Days Americas, as part of the storied Barber Vintage Festival, for 2024. 
+
+<https://www.cycleworld.com/the-wire/bmw-motorrad-usa-announces-bmw-motorrad-days-americas-2024/>
 
 ---
 

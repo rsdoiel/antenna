@@ -1,11 +1,754 @@
 ---
 title: pacific 2024.15
-updated: 2024-04-08 08:16:28
+updated: 2024-04-09 08:39:10
 ---
 
 # pacific 2024.15
 
-(date: 2024-04-08 08:16:28)
+(date: 2024-04-09 08:39:10)
+
+---
+
+## UConn concludes a dominant run to its 2nd straight NCAA title, beating Zach Edey and Purdue 75-60
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>GLENDALE, Ariz. &#8212; A basketball beatdown. A coaching clinic. A double-digit domination.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/sports/uconn-concludes-a-dominant-run-to-its-2nd-straight-ncaa-title-beating-zach-edey-and-purdue-75-60/>
+
+---
+
+## Let’s Talk Food: Let’s eat healthy
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>According to Conde Nast Traveler, the ten healthiest countries in the world are as follows:</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/community/lets-talk-food-lets-eat-healthy/>
+
+---
+
+## Mavs co-stars Kyrie Irving and Luka Doncic are working on a better plot after last year’s flop
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>DALLAS &#8212; Kyrie Irving and Luka Doncic draped their arms over each other in a pseudo-embrace, smiles of exhaustion on the faces of the co-stars of the Dallas Mavericks.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/sports/mavs-co-stars-kyrie-irving-and-luka-doncic-are-working-on-a-better-plot-after-last-years-flop/>
+
+---
+
+## Ohtani goes deep for 3rd time in 5 games and hits pair of doubles for Dodgers in 4-2 win over Twins
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>MINNEAPOLIS &#8212; Shohei Ohtani had two doubles and a home run &#8212; his third in five games &#8212; to tie his career high with three extra-base hits and power the Los Angeles Dodgers past the Minnesota Twins 4-2 on Monday night.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/sports/ohtani-goes-deep-for-3rd-time-in-5-games-and-hits-pair-of-doubles-for-dodgers-in-4-2-win-over-twins/>
+
+---
+
+## Trump says abortion restrictions should be left to the states
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>Former President Donald Trump said in a video statement Monday that abortion rights should be left up to the states, remarks that came after months of mixed signals on an issue that he and his advisers have worried could cost him dearly in the election.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/nation-world-news/trump-says-abortion-restrictions-should-be-left-to-the-states/>
+
+---
+
+## Fulton DA’s office urges appeals court not to hear Fani Willis disqualification
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA &#8212; Fulton County prosecutors on Monday urged the state Court of Appeals not to consider a judge&#8217;s ruling allowing District Attorney Fani Willis to continue prosecuting former President Donald Trump and others in the ongoing election interference case.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/nation-world-news/fulton-das-office-urges-appeals-court-not-to-hear-fani-willis-disqualification/>
+
+---
+
+## Total solar eclipse wows North America. Clouds part just in time for most
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>MESQUITE, Texas &#8212; A chilly, midday darkness fell across North America on Monday as a total solar eclipse raced across the continent, thrilling those lucky enough to behold the spectacle through clear skies.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/nation-world-news/total-solar-eclipse-wows-north-america-clouds-part-just-in-time-for-most/>
+
+---
+
+## Biden promotes ‘life-changing’ student loan relief in Wisconsin as he rallies younger voters
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>MADISON, Wis. &#8212; President Joe Biden said Monday that more than 30 million borrowers would see &#8220;life-changing&#8221; relief from his new plan to ease their student loan debt burdens, a fresh attempt by the Democratic president to follow through on a campaign pledge that could buoy his standing with younger voters.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/nation-world-news/biden-promotes-life-changing-student-loan-relief-in-wisconsin-as-he-rallies-younger-voters/>
+
+---
+
+## HMC begins preparing for new modern administrative services building
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>A new facility to house additional office space and a planned medical simulation lab at Hilo Medical Center took a step forward Monday, but is still years away from reality.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/hawaii-news/hmc-begins-preparing-for-new-modern-administrative-services-building/>
+
+---
+
+## Israeli officials express optimism over cease-fire talks with Hamas
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>Senior Israeli officials said progress has been made in negotiations for a cease-fire in Gaza that would include the release of hostages and Palestinian prisoners, a move that drew criticism from far-right ministers who threatened to bring down the government. &#8220;We&#8217;ve reached a critical point,&#8221; Foreign Minister Israel Katz told Army Radio on Monday. &#8220;If matters work out, a large number of hostages will return home and then, in stages, everyone. But remember that we are dealing with Hamas and there is not a lot of time. I am more optimistic than I was.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/nation-world-news/israeli-officials-express-optimism-over-cease-fire-talks-with-hamas/>
+
+---
+
+## Patients hate ‘forever’ drugs. Is Wegovy different?
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>Most people, study after study shows, don&#8217;t take the medicines prescribed for them. It doesn&#8217;t matter what they are &#8212; statins, high blood pressure drugs, drugs to lower blood sugar, asthma drugs. Either patients never start taking them, or they stop.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/nation-world-news/patients-hate-forever-drugs-is-wegovy-different/>
+
+---
+
+## Vatican blasts gender-affirming surgery, surrogacy and gender theory as violations of human dignity
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>VATICAN CITY &#8212; The Vatican on Monday declared gender-affirming surgery and surrogacy as grave violations of human dignity, putting them on par with abortion and euthanasia as practices that it said reject God&#8217;s plan for human life.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/nation-world-news/vatican-blasts-gender-affirming-surgery-surrogacy-and-gender-theory-as-violations-of-human-dignity/>
+
+---
+
+## Facebook wrecked this news outlet’s account. It’s hard to trust social media
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>Thursday morning, the staff of The Kansas Reflector got a jolt: Without warning or explanation, every link to their website was erased from their Facebook page. And it wasn&#8217;t only them &#8212; the same went for every other user who had shared their content.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/opinion/facebook-wrecked-this-news-outlets-account-its-hard-to-trust-social-media/>
+
+---
+
+## Israel is making the same mistake America made in Iraq
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>As the war in the Gaza Strip reaches its six-month mark, I&#8217;m getting a disturbing sense of d&#0233;j&#0224; vu. Israel is facing many of the same challenges that the United States faced in Iraq, and it is making many of the same mistakes.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/opinion/israel-is-making-the-same-mistake-america-made-in-iraq/>
+
+---
+
+## A tantalizing ‘hint’ that astronomers got dark energy all wrong
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>On Thursday, astronomers who are conducting what they describe as the biggest and most precise survey yet of the history of the universe announced that they might have discovered a major flaw in their understanding of dark energy, the mysterious force that is speeding up the expansion of the cosmos.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/nation-world-news/a-tantalizing-hint-that-astronomers-got-dark-energy-all-wrong/>
+
+---
+
+## FAA’s ‘cozy’ relationship with Boeing at issue again after Alaska Air blowout
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>Following the crashes of two 737 Max jets that left more than 300 people dead and Boeing&#8217;s reputation for safety in tatters, Congress held probing hearings that unmasked limp and malleable federal oversight of how American planes are built.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/nation-world-news/faas-cozy-relationship-with-boeing-at-issue-again-after-alaska-air-blowout/>
+
+---
+
+## New York appeals judge rejects Donald Trump’s request to delay his April 15 hush money trial
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A New York appeals court judge on Monday rejected Donald Trump&#8217;s bid to delay his April 15 hush money criminal trial while he fights to move the case out of Manhattan &#8212; foiling the former president&#8217;s latest attempt to put off the historic trial.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/nation-world-news/new-york-appeals-judge-rejects-donald-trumps-request-to-delay-his-april-15-hush-money-trial/>
+
+---
+
+## Lahaina harbor reopening timeline depends on funds
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>State officials say that &#8220;until funding becomes available, there is no way to set a timeline for reopening (Lahaina Harbor).&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/hawaii-news/lahaina-harbor-reopening-timeline-depends-on-funds/>
+
+---
+
+## NCAA president: Prop betting on college athletes ‘enormously problematic’
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>GLENDALE, Ariz. &#8212; NCAA President Charlie Baker has already been pushing for states with legal wagering to ban betting on individual performances for college athletes.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/sports/ncaa-president-prop-betting-on-college-athletes-enormously-problematic/>
+
+---
+
+## 50 years after Hank Aaron’s 715th homer, Hall of Fame announces statue, Postal Service unveils stamp
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA &#8212; The 50th anniversary of Hank Aaron&#8217;s 715th home run was marked Monday with announcements of a new statue at Baseball&#8217;s Hall of Fame and a new commemorative stamp from the U.S. Postal Service.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/sports/50-years-after-hank-aarons-715th-homer-hall-of-fame-announces-statue-postal-service-unveils-stamp/>
+
+---
+
+## Augusta National in bloom and the conditions dry for Masters. So far
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>AUGUSTA, Ga. &#8212; Tony Finau was to the right of the 11th green at Augusta National trying to chip to an imaginary front pin, a tough shot when it matters. This was the first full day of practice Monday at the Masters, and it wasn&#8217;t any easier.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/sports/augusta-national-in-bloom-and-the-conditions-dry-for-masters-so-far/>
+
+---
+
+## Tamara Hutzler Named Interim Special Prosecutor
+
+date: 2024-04-09, from: Island Times
+
+<figure><img width="1005" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240409_035858.jpg?fit=1005%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240409_035858.jpg?w=1057&amp;ssl=1 1057w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240409_035858.jpg?resize=294%2C300&amp;ssl=1 294w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240409_035858.jpg?resize=1005%2C1024&amp;ssl=1 1005w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240409_035858.jpg?resize=768%2C783&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240409_035858.jpg?resize=400%2C408&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240409_035858.jpg?resize=706%2C719&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240409_035858.jpg?fit=1005%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69647" data-permalink="https://islandtimes.org/tamara-hutzler-named-interim-special-prosecutor/20240409_035858/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240409_035858.jpg?fit=1057%2C1077&amp;ssl=1" data-orig-size="1057,1077" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20240409_035858" data-image-description="" data-image-caption="&lt;p&gt;Tamara Hutzler, Interim Special Prosecutor(photo credit; Facebook)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240409_035858.jpg?fit=294%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/20240409_035858.jpg?fit=780%2C795&amp;ssl=1" /></figure>
+<p>Attorney Tamara Hutzler has been designated as Interim Special Prosecutor by Attorney General Ernestine Rengiil. She stepped into the role eight months after the contract of former Special Prosecutor April Dawns Cripps expired. Hutzler will fulfill the responsibilities of Special Prosecutor on an interim basis until a permanent appointment is made. Bringing a wealth of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tamara-hutzler-named-interim-special-prosecutor/">Tamara Hutzler Named Interim Special Prosecutor</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/tamara-hutzler-named-interim-special-prosecutor/>
+
+---
+
+## Ngeremlengui State Prioritizes Community Over Growth
+
+date: 2024-04-09, from: Island Times
+
+<p>Fiscal Focus on Sustainability The Ngeremlengui State government reported a stagnant economic growth rate for the 2023-2024 fiscal year. In response, they have chosen to prioritize strengthening their communities and supporting their population. This approach emphasizes the effective management of land and sea resources to ensure long-term sustainability. Population Decline and Economic Challenges Ngeremlengui&#8217;s annual [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ngeremlengui-state-prioritizes-community-over-growth/">Ngeremlengui State Prioritizes Community Over Growth</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/ngeremlengui-state-prioritizes-community-over-growth/>
+
+---
+
+## Palau Scholarship Shortage Limits Student Aid, Internship Opportunities
+
+date: 2024-04-09, from: Island Times
+
+<p>The Palau National Scholarship Board (PNSB) faces a significant funding shortage. Available resources cover less than half of the financial needs of Palauan students seeking scholarships. According to a PNSB report submitted to Olbiil ERa Kelalau (Palau&#8217;s National Congress), 267 students applied for financial aid in fiscal year (FY) 2024, with a combined requirement of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-scholarship-shortage-limits-student-aid-internship-opportunities/">Palau Scholarship Shortage Limits Student Aid, Internship Opportunities</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-scholarship-shortage-limits-student-aid-internship-opportunities/>
+
+---
+
+## Ngchesar State Confronts Fiscal Challenges in FY2024
+
+date: 2024-04-09, from: Island Times
+
+<p>In its Fiscal Year 2023-2024 Annual and Performance Report, the Ngchesar State government acknowledged facing significant challenges due to a shortfall in resources despite ambitious objectives. The report highlights achievements such as securing commercial leases for piggery and cropping ventures. Additionally, the state has constructed eight fish cages and initiated the development of clam farms. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ngchesar-state-confronts-fiscal-challenges-in-fy2024/">Ngchesar State Confronts Fiscal Challenges in FY2024</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/ngchesar-state-confronts-fiscal-challenges-in-fy2024/>
+
+---
+
+## General honored by governor
+
+date: 2024-04-09, from: Guam Daily Post
+
+Gov. Lou Leon Guerrero on March 28 awarded Maj. Gen. Reginald Neal, deputy commanding general, U.S. Army Pacific, with the Ancient Order of the Chamorri - the highest civilian honor that can be bestowed on a nonnative resident of Guam,… 
+
+<https://www.postguam.com/news/local/general-honored-by-governor/article_5a4202ea-f617-11ee-95d7-a78d8e66bf72.html>
+
+---
+
+## GBHWC gets 3-year accreditation
+
+date: 2024-04-09, from: Guam Daily Post
+
+The Guam Behavioral Health and Wellness Center has earned another three-year accreditation from the Commission on Accreditation of Rehabilitation Facilities, GBHWC announced recently in a press release. CARF surveyed programs and services offered by GBHWC, including outpatient services for adults… 
+
+<https://www.postguam.com/news/local/gbhwc-gets-3-year-accreditation/article_c4c6b5d2-f619-11ee-904b-2b7606345c8e.html>
+
+---
+
+## GDOE working with FEMA to fund temporary SSHS campus
+
+date: 2024-04-09, from: Guam Daily Post
+
+The Guam Department of Education is in contact with the Federal Emergency Management Agency regarding funding for a temporary facility for Simon Sanchez High School students, which would be 90% funded by FEMA and 10% by GDOE, according to Superintendent… 
+
+<https://www.postguam.com/news/local/gdoe-working-with-fema-to-fund-temporary-sshs-campus/article_f021c0fe-f5fc-11ee-a7b0-9bbdac3ba390.html>
+
+---
+
+## Bills would phase in or defer future property tax increases
+
+date: 2024-04-09, from: Guam Daily Post
+
+With an islandwide property revaluation potentially looming in the near future, and increased property taxes possibly following, Speaker Therese Terlaje has introduced two measures meant to either break up the application of increased property taxes after the revaluation or defer… 
+
+<https://www.postguam.com/news/local/bills-would-phase-in-or-defer-future-property-tax-increases/article_d60b4c9a-f57e-11ee-962d-cb5b3b512fe3.html>
+
+---
+
+## Defense: Akoma's accuser 'has other motives'
+
+date: 2024-04-09, from: Guam Daily Post
+
+A doctor on trial for sexual assault allegations believes evidence will show his accuser "has other motives" behind her allegations. 
+
+<https://www.postguam.com/news/local/defense-akomas-accuser-has-other-motives/article_aa67c8b0-f606-11ee-a15d-a31635a52df9.html>
+
+---
+
+## Palau International Coral Reef Center receives grant from Australia’s Government, Department of Foreign Affairs and Trade
+
+date: 2024-04-09, from: Island Times
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/rs2500_DSC_1790-2.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/rs2500_DSC_1790-2.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/rs2500_DSC_1790-2.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/rs2500_DSC_1790-2.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/rs2500_DSC_1790-2.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/rs2500_DSC_1790-2.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/rs2500_DSC_1790-2.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/rs2500_DSC_1790-2.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/rs2500_DSC_1790-2.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/rs2500_DSC_1790-2.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/rs2500_DSC_1790-2.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/rs2500_DSC_1790-2.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/rs2500_DSC_1790-2.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/rs2500_DSC_1790-2.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69641" data-permalink="https://islandtimes.org/palau-international-coral-reef-center-receives-grant-from-australias-government-department-of-foreign-affairs-and-trade/rs2500_dsc_1790-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/rs2500_DSC_1790-2.jpg?fit=2500%2C1666&amp;ssl=1" data-orig-size="2500,1666" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="rs2500_DSC_1790 (2)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/rs2500_DSC_1790-2.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/rs2500_DSC_1790-2.jpg?fit=780%2C519&amp;ssl=1" /></figure>
+<p>Palau International Coral Reef Center (PICRC) recently received a grant from the Australian Government through the Department of Foreign Affairs and Trade (DFAT). This $25,000 grant will support PICRC’s activities in the topic of “Using Research, Education and Outreach to promote Science and support the management of Palau’s Marine Resources”.&#160; The project prioritizes the biological [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-international-coral-reef-center-receives-grant-from-australias-government-department-of-foreign-affairs-and-trade/">Palau International Coral Reef Center receives grant from Australia’s Government, Department of Foreign Affairs and Trade</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-international-coral-reef-center-receives-grant-from-australias-government-department-of-foreign-affairs-and-trade/>
+
+---
+
+## Senators to introduce bill to help veterans secure medical attention
+
+date: 2024-04-09, from: Guam Daily Post
+
+The measure is still being finalized, but Sen. Telo Taitague has announced that she and Sen. Joanne Brown plan to introduce legislation intended on providing a permanent component within the Guam Office of Veterans Affairs to help veterans secure medical… 
+
+<https://www.postguam.com/news/senators-to-introduce-bill-to-help-veterans-secure-medical-attention/article_4a5c9a1c-f648-11ee-91fa-dfc16adb9a4c.html>
+
+---
+
+## Proposed amendments to Ngiwal Constitution is put to the vote in the upcoming General Election on July 9, 2024
+
+date: 2024-04-09, from: Island Times
+
+<p>Ngiwal has two proposed amendments to their Constitution through a resolution adopted by not less than two-third (⅔) of members of the 20th Kelulul a Kiulul. To this effect, a law has been enacted to establish a Political Education Committee tasked to educate the citizens and voters of Ngiwal State about the substance, nature, and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/proposed-amendments-to-ngiwal-constitution-is-put-to-the-vote-in-the-upcoming-general-election-on-july-9-2024/">Proposed amendments to Ngiwal Constitution is put to the vote in the upcoming General Election on July 9, 2024</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/proposed-amendments-to-ngiwal-constitution-is-put-to-the-vote-in-the-upcoming-general-election-on-july-9-2024/>
+
+---
+
+## “Questions Arise Over Solomon Islands PM’s Real Estate Empire”
+
+date: 2024-04-09, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/henderson-property.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/henderson-property.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/henderson-property.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/henderson-property.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/henderson-property.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/henderson-property.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/henderson-property.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/henderson-property.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/henderson-property.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/henderson-property.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/henderson-property.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69632" data-permalink="https://islandtimes.org/questions-arise-over-solomon-islands-pms-real-estate-empire/henderson-property/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/henderson-property.jpg?fit=1920%2C1280&amp;ssl=1" data-orig-size="1920,1280" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="henderson-property" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/henderson-property.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/henderson-property.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By: James O’Brien/OCCRP Solomon Islands Prime Minister Manasseh Sogavare has recently come under scrutiny for his rapidly expanding real estate holdings, despite his modest salary. Over the past few years, Sogavare and his wife, Emmy, have built at least eight new houses in and around the capital city of Honiara. These properties, estimated to cost [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/questions-arise-over-solomon-islands-pms-real-estate-empire/">&#8220;Questions Arise Over Solomon Islands PM&#8217;s Real Estate Empire&#8221;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/questions-arise-over-solomon-islands-pms-real-estate-empire/>
+
+---
+
+## Caught between two worlds: How modern careers changed Palauan diet
+
+date: 2024-04-09, from: Island Times
+
+<p>By Raquel Bagnol KOROR, 08 APRIL 2024 (PACIFIC ISLAND TIMES) &#8212; In earlier times, a Palauan family would sit down for their meal consisting of food they produced from their gardens. Women in the family cultivated the gardens and farm plots where they planted taro, tapioca and vegetables. Palauan women took pride in the quality [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/caught-between-two-worlds-how-modern-careers-changed-palauan-diet/">Caught between two worlds: How modern careers changed Palauan diet</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/caught-between-two-worlds-how-modern-careers-changed-palauan-diet/>
+
+---
+
+## INNER BEAUTY
+
+date: 2024-04-09, from: Island Times
+
+<figure><img width="524" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/WC1.jpg?fit=524%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/WC1.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/WC1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/WC1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/WC1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/WC1.jpg?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/WC1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/WC1.jpg?fit=524%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69629" data-permalink="https://islandtimes.org/inner-beauty-2/wc1-8/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/WC1.jpg?fit=524%2C522&amp;ssl=1" data-orig-size="524,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WC1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/WC1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/WC1.jpg?fit=524%2C522&amp;ssl=1" /></figure>
+<p>We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.” – Maya Angelou. It is in the waiting that changes come. It takes a lot of patience to wait.&#160; So we adjust our thinking mind while waiting. I saw a butterfly this morning outside [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/inner-beauty-2/">INNER BEAUTY</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/inner-beauty-2/>
+
+---
+
+## The Silent Majority
+
+date: 2024-04-09, from: Island Times
+
+<figure><img width="880" height="920" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-icon2.png?fit=880%2C920&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-icon2.png?w=880&amp;ssl=1 880w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-icon2.png?resize=287%2C300&amp;ssl=1 287w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-icon2.png?resize=768%2C803&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-icon2.png?resize=400%2C418&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-icon2.png?resize=706%2C738&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-icon2.png?fit=880%2C920&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69627" data-permalink="https://islandtimes.org/the-silent-majority-9/opinion-icon2-3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-icon2.png?fit=880%2C920&amp;ssl=1" data-orig-size="880,920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="opinion-icon2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-icon2.png?fit=287%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-icon2.png?fit=780%2C815&amp;ssl=1" /></figure>
+<p>Palau at a Political Crossroads: Prioritizing Citizen Welfare over Government Revenue Dear Editor, In recent times, the Republic of Palau finds itself at a critical juncture, grappling with economic challenges exacerbated by the Palau Government Stress Tax (PGST). As the cost of living soars, citizens are burdened with the weight of high prices on essential [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-silent-majority-9/">The Silent Majority</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/the-silent-majority-9/>
+
+---
+
+## U.S Coast Guard gets enhanced powers in Samoa’s waters
+
+date: 2024-04-09, from: Island Times
+
+<p>APIA (BENAR NEWS) &#8212; The United States will have an expanded right to board vessels in Samoa’s waters under an amended maritime law enforcement agreement that could boost the effectiveness of patrols by a Coast Guard ship recently deployed to the Pacific. The updated shiprider pact signed Friday shows the U.S is “committed to safeguarding [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-coast-guard-gets-enhanced-powers-in-samoas-waters/">U.S Coast Guard gets enhanced powers in Samoa’s waters</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/u-s-coast-guard-gets-enhanced-powers-in-samoas-waters/>
+
+---
+
+## Deportations raise alarm in Marshall Islands
+
+date: 2024-04-09, from: Island Times
+
+<p>MAJURO (MARIANAS VARIETY) &#8212; Majuro Mayor Ladie Jack is raising the alarm about criminal behavior involving Marshallese deported from the United States, saying the “impact of these deportees on local community has been nothing short of devastating.” Marshallese deported from the United States have been convicted over the past three years of a murder, a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/deportations-raise-alarm-in-marshall-islands/">Deportations raise alarm in Marshall Islands</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/deportations-raise-alarm-in-marshall-islands/>
+
+---
+
+## Taiwan officials establish last known whereabouts of two Australians missing in earthquake
+
+date: 2024-04-09, from: Island Times
+
+<p>By North Asia correspondent&#160;James Oaten&#160;and Xin-Yun Wu (ABC-Australia) Authorities in Taiwan are honing in on the possible location of two missing Australian-Singaporean nationals, after emergency service workers established their last known whereabouts. Neo Siew Choo and Sim Hwee Kok had been staying in Haulien City but, on the morning of the earthquake boarded a bus [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwan-officials-establish-last-known-whereabouts-of-two-australians-missing-in-earthquake/">Taiwan officials establish last known whereabouts of two Australians missing in earthquake</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/taiwan-officials-establish-last-known-whereabouts-of-two-australians-missing-in-earthquake/>
+
+---
+
+## King tides cause new levels of devastation in Tuvalu, as nation weighs up Falepili Union treaty
+
+date: 2024-04-09, from: Island Times
+
+<p>By&#160;Doug Dingwall (ABC-Australia) Angela Telupe watched her backyard flood as a king tide tightened its grip on the main island of Tuvalu. Outside her home in northern Funafuti, her children swam in an area the family usually uses for picnics. &#8220;On the second day the tide just kept coming up,&#8221; Ms Telupe said. &#8220;It didn&#8217;t [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/king-tides-cause-new-levels-of-devastation-in-tuvalu-as-nation-weighs-up-falepili-union-treaty/">King tides cause new levels of devastation in Tuvalu, as nation weighs up Falepili Union treaty</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/king-tides-cause-new-levels-of-devastation-in-tuvalu-as-nation-weighs-up-falepili-union-treaty/>
+
+---
+
+## Blanco follows no-hitter with six 1-hit innings as Astros beat Rangers 3-1
+
+date: 2024-04-09, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Blanco-follows-no.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Blanco-follows-no.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Blanco-follows-no.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Blanco-follows-no.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Blanco-follows-no.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Blanco-follows-no.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Blanco-follows-no.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69616" data-permalink="https://islandtimes.org/blanco-follows-no-hitter-with-six-1-hit-innings-as-astros-beat-rangers-3-1/blanco-follows-no/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Blanco-follows-no.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;Richard W. Rodriguez&quot;,&quot;camera&quot;:&quot;Canon EOS R3&quot;,&quot;caption&quot;:&quot;Houston Astros pitcher Ronel Blanco delivers in the second inning against the Texas Rangers in the first inning of a baseball game Sunday, April 7, 2024, in Arlington, Texas. (AP Photo\/ Richard W. Rodriguez)&quot;,&quot;created_timestamp&quot;:&quot;1712427448&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;338&quot;,&quot;iso&quot;:&quot;3200&quot;,&quot;shutter_speed&quot;:&quot;0.0005&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Blanco follows no" data-image-description="" data-image-caption="&lt;p&gt;Houston Astros pitcher Ronel Blanco delivers in the second inning against the Texas Rangers in the first inning of a baseball game Sunday, April 7, 2024, in Arlington, Texas. (AP Photo/ Richard W. Rodriguez)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Blanco-follows-no.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Blanco-follows-no.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By STEPHEN HAWKINS AP Baseball Writer ARLINGTON, Texas (AP) — Houston right-hander Ronel Blanco followed his no-hitter with one-hit ball over six scoreless innings, and the Astros beat the Texas Rangers 3-1 on Sunday night. Six nights after throwing a no-hitter at home&#160;against Toronto in his first start of the season, Blanco held the World [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/blanco-follows-no-hitter-with-six-1-hit-innings-as-astros-beat-rangers-3-1/">Blanco follows no-hitter with six 1-hit innings as Astros beat Rangers 3-1</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/blanco-follows-no-hitter-with-six-1-hit-innings-as-astros-beat-rangers-3-1/>
+
+---
+
+## LSU star Angel Reese declares for WNBA draft via Vogue photo shoot, says ‘I didn’t want to be basic’
+
+date: 2024-04-09, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LSU-star-Angel-Reese.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LSU-star-Angel-Reese.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LSU-star-Angel-Reese.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LSU-star-Angel-Reese.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LSU-star-Angel-Reese.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LSU-star-Angel-Reese.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LSU-star-Angel-Reese.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69614" data-permalink="https://islandtimes.org/lsu-star-angel-reese-declares-for-wnba-draft-via-vogue-photo-shoot-says-i-didnt-want-to-be-basic/lsu-star-angel-reese/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LSU-star-Angel-Reese.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Mary Altaffer&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;LSU forward Angel Reese (10) looks to pass against Iowa forward Addison O&#039;Grady (44) during the third quarter of an Elite Eight round college basketball game during the NCAA Tournament, Monday, April 1, 2024, in Albany, N.Y. (AP Photo\/Mary Altaffer)&quot;,&quot;created_timestamp&quot;:&quot;1712003105&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;80&quot;,&quot;iso&quot;:&quot;3200&quot;,&quot;shutter_speed&quot;:&quot;0.0008&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="LSU star Angel Reese" data-image-description="" data-image-caption="&lt;p&gt;LSU forward Angel Reese (10) looks to pass against Iowa forward Addison O&#8217;Grady (44) during the third quarter of an Elite Eight round college basketball game during the NCAA Tournament, Monday, April 1, 2024, in Albany, N.Y. (AP Photo/Mary Altaffer)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LSU-star-Angel-Reese.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LSU-star-Angel-Reese.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By BRETT MARTEL AP Sports Writer Bayou Barbie is WNBA bound. LSU star Angel Reese, who is known for her eyelash extensions, painted fingernails and ferocious play in the paint, formally declared for the WNBA draft on Wednesday. Her announcement comes two days after the&#160;Tigers&#8217; season ended with a loss to Caitlin Clark and Iowa&#160;in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/lsu-star-angel-reese-declares-for-wnba-draft-via-vogue-photo-shoot-says-i-didnt-want-to-be-basic/">LSU star Angel Reese declares for WNBA draft via Vogue photo shoot, says &#8216;I didn&#8217;t want to be basic&#8217;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/lsu-star-angel-reese-declares-for-wnba-draft-via-vogue-photo-shoot-says-i-didnt-want-to-be-basic/>
+
+---
+
+## Yen feels the heat as US Treasury yields rise
+
+date: 2024-04-09, updated: 2024-04-09, from: Marianas Variety
+
+SINGAPORE (Reuters) — The dollar was tentative on Tuesday as it failed to get a meaningful boost from a rise in U.S. Treasury yields, though that kept pressure on the yen which languished near multi-decade lows and left traders on alert for any signs of intervention. 
+
+<https://www.mvariety.com/business/yen-feels-the-heat-as-us-treasury-yields-rise/article_f66c8692-f642-11ee-832f-57042342e29f.html>
+
+---
+
+## Global PC market returns to growth in first quarter after two-year decline, IDC says
+
+date: 2024-04-09, updated: 2024-04-09, from: Marianas Variety
+
+(Reuters) — Global shipments of personal computers returned to growth in the first quarter after two years of decline, according to preliminary results from market research firm International Data Corporation (IDC) released on Monday. 
+
+<https://www.mvariety.com/business/global-pc-market-returns-to-growth-in-first-quarter-after-two-year-decline-idc-says/article_2bbdda14-f641-11ee-8b25-2f504cfb2538.html>
+
+---
+
+## Exclusive-Biden, Kishida likely to discuss Texas bullet train project, sources say
+
+date: 2024-04-09, updated: 2024-04-09, from: Marianas Variety
+
+TOKYO/WASHINGTON (Reuters) — President Joe Biden is seeking to revive interest in a plan to build the first high-speed rail in the U. S. using Japanese bullet trains, with sources saying he is likely to discuss the project with Japan's prime minister in Washington this week. 
+
+<https://www.mvariety.com/news/national/exclusive-biden-kishida-likely-to-discuss-texas-bullet-train-project-sources-say/article_ad20601e-f640-11ee-9fc4-1fecea2fa165.html>
+
+---
+
+## Biden plans to cancel student loan debt, 23 million Americans may be impacted
+
+date: 2024-04-09, updated: 2024-04-09, from: Marianas Variety
+
+MADISON, Wisconsin (Reuters) — President Joe Biden announced on Monday plans to ease student debt that would benefit at least 23 million Americans, addressing a key issue for young voters whose support he needs as he seeks re-election in November. 
+
+<https://www.mvariety.com/news/national/biden-plans-to-cancel-student-loan-debt-23-million-americans-may-be-impacted/article_61350916-f640-11ee-8c44-ebaef4ff4eb3.html>
+
+---
+
+## Special counsel urges US Supreme Court to reject Trump immunity bid
+
+date: 2024-04-09, updated: 2024-04-09, from: Marianas Variety
+
+WASHINGTON (Reuters) — The special counsel pursuing federal criminal charges against Donald Trump for his efforts to overturn his 2020 election loss filed a U.S. Supreme Court brief on Monday urging the justices to reject the former president's bid for immunity from prosecution on the principle that "no person is above the law." 
+
+<https://www.mvariety.com/news/national/special-counsel-urges-us-supreme-court-to-reject-trump-immunity-bid/article_09710e64-f640-11ee-b825-d7795418d122.html>
+
+---
+
+## US envoy to UN to visit Korean border, North Korean defectors
+
+date: 2024-04-09, updated: 2024-04-09, from: Marianas Variety
+
+SEOUL (Reuters) — The U.S. ambassador to the United Nations will travel to the heavily armed Korean border and meet North Korean defectors in South Korea, her office said on Monday, amid faltering U.N. efforts to ensure sanctions enforcement against the North. 
+
+<https://www.mvariety.com/news/national/us-envoy-to-un-to-visit-korean-border-north-korean-defectors/article_79ab3214-f63f-11ee-9062-27ba23ca75ae.html>
+
+---
+
+## Trump loses last-ditch bid to delay hush money trial
+
+date: 2024-04-09, updated: 2024-04-09, from: Marianas Variety
+
+NEW YORK (Reuters) — A New York state appellate judge on Monday denied Donald Trump's bid to delay his April 15 criminal trial on charges stemming from hush money paid to a porn star while the former U.S. president seeks to move the case out of Manhattan. 
+
+<https://www.mvariety.com/news/national/trump-loses-last-ditch-bid-to-delay-hush-money-trial/article_f4a7f606-f63e-11ee-8972-7f11d4651d87.html>
+
+---
+
+## Philippine protesters trample on Xi effigy, condemn China's maritime 'aggression'
+
+date: 2024-04-09, updated: 2024-04-09, from: Marianas Variety
+
+MANILA (Reuters) — Protesters in Manila trampled on an effigy of Chinese President Xi Jinping on Tuesday as they condemned China's "aggression" against the Philippines in the South China Sea. 
+
+<https://www.mvariety.com/news/philippine-protesters-trample-on-xi-effigy-condemn-chinas-maritime-aggression/article_2c4d071e-f63e-11ee-aaea-4bee5a4963a1.html>
+
+---
+
+## Turkey imposes export restrictions on Israel until Gaza ceasefire
+
+date: 2024-04-09, updated: 2024-04-09, from: Marianas Variety
+
+ANKARA (Reuters) — Turkey will impose restrictions on the export of products from 54 different categories to Israel until a ceasefire is declared in Gaza, the Turkish Trade Ministry said on Tuesday, adding the measures would take effect immediately. 
+
+<https://www.mvariety.com/news/turkey-imposes-export-restrictions-on-israel-until-gaza-ceasefire/article_d4ef4c3e-f63d-11ee-b431-476830bc1bf5.html>
+
+---
+
+## Taiwan war games to simulate repelling a Chinese drill that turns into attack
+
+date: 2024-04-09, updated: 2024-04-09, from: Marianas Variety
+
+TAIPEI (Reuters) — Taiwan's annual war games this year will practice "kill" zones at sea to break a blockade and simulate a scenario where China suddenly turns one of its regular drills around the island into an actual attack, the defense ministry said on Tuesday. 
+
+<https://www.mvariety.com/news/taiwan-war-games-to-simulate-repelling-a-chinese-drill-that-turns-into-attack/article_6db127c2-f63d-11ee-8636-8fd95649d7fa.html>
+
+---
+
+## Guam eyes aquaculture industry
+
+date: 2024-04-09, from: Pacific Island Times
+
+By Pacific Island Times News Staff Gov. Lou Leon Guerrero has created the Division of Aquaculture within the Department of Agriculture to... 
+
+<https://www.pacificislandtimes.com/post/guam-eyes-aquaculture-industry>
+
+---
+
+## UOG pollen study reveals the food sources of Guam honeybees
+
+date: 2024-04-09, from: Pacific Island Times
+
+By Pacific Island Times News Staff A first of its kind study for Guam has revealed the food-foraging habits of honeybees and found that... 
+
+<https://www.pacificislandtimes.com/post/uog-pollen-study-reveals-the-food-sources-of-guam-honeybees>
+
+---
+
+## Sen. Hirono kicks off National Native Plant Month at Lyon Arboretum
+
+date: 2024-04-09, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr title="Senator">Sen.</abbr> Mazie Hirono toured Lyon’s Hawaiian Rare Plant Program Greenhouse to see and plant Hawaiian endangered plants.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/08/hirono-national-native-plant-month-lyon-arboretum/"><abbr>Sen.</abbr> Hirono kicks off National Native Plant Month at Lyon Arboretum</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/08/hirono-national-native-plant-month-lyon-arboretum/>
+
+---
+
+## New school introduces 5 departments, inducts inaugural alumni class
+
+date: 2024-04-09, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>SCI</abbr> has 24 faculty members, 305 undergraduate majors and 76 graduate students, with a total of more than 4,000 students taking 220-plus <abbr>SCI</abbr> classes over the course of an academic year.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/08/sci-open-house/">New school introduces 5 departments, inducts inaugural alumni class</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/08/sci-open-house/>
+
+---
+
+## Anti-Corruption consultation to strengthen Pacific Youth Vision
+
+date: 2024-04-09, from: University of the South Pacific (Fiji)
+
+<p>LAUTOKA, Fiji Islands 27th March – The Tanoa Waterfront Hotel in Lautoka, Fiji, hosted over...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/anti-corruption-consultation-to-strengthen-pacific-youth-vision/">Anti-Corruption consultation to strengthen Pacific Youth Vision</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/anti-corruption-consultation-to-strengthen-pacific-youth-vision/>
+
+---
+
+## Future scientists hone communication skills using infographics
+
+date: 2024-04-09, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Cities with complex networks of buried infrastructure have interaction with shallower and saltier groundwater which exacerbates corrosion and failure of critical systems.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/08/future-scientists-comm-skills/">Future scientists hone communication skills using infographics</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/08/future-scientists-comm-skills/>
+
+---
+
+## UH Mānoa kumu tops Merrie Monarch again
+
+date: 2024-04-09, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Ka L&#257; <span aria-label="Onohi">&#699;&#332;nohi</span> Mai O <span aria-label="Haehae">Ha&#699;eha&#699;e</span> captured the competition’s overall award, a combination of scores acquired in both hula kahiko and <span aria-label="auana.">&#699;auana.</span></p>
+The post <a href="https://www.hawaii.edu/news/2024/04/08/kumu-tops-merrie-monarch-again/"><abbr>UH<abbr> Mānoa kumu tops Merrie Monarch again</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/08/kumu-tops-merrie-monarch-again/>
+
+---
+
+## UH West Oʻahu executive to develop Fulbright project in Brazil
+
+date: 2024-04-09, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Jessica L. W. Miranda wants to integrate Indigenous knowledge into assessment practices.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/08/executive-to-develop-fulbright-project/"><abbr>UH<abbr> West Oʻahu executive to develop Fulbright project in Brazil</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/08/executive-to-develop-fulbright-project/>
+
+---
+
+## Removal of Maunakea observatory set to begin in April, completed by August
+
+date: 2024-04-09, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> All individuals working on the project are required to complete cultural training and understand the area’s history and cultural significance.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/08/removal-of-maunakea-observatory-to-begin/">Removal of Maunakea observatory set to begin in April, completed by August</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/08/removal-of-maunakea-observatory-to-begin/>
+
+---
+
+## Free skin cancer checks goes on the road around Oʻahu
+
+date: 2024-04-09, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The new Skin &#10003; Van is the first of its kind in <span aria-label="Hawaii">Hawai&#699;i</span> and will make its debut on April 20.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/08/skin-check-van/">Free skin cancer checks goes on the road around Oʻahu</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/08/skin-check-van/>
+
+---
+
+##  Shopping mecca no more: The demise of luxury brand market on Guam 
+
+date: 2024-04-08, from: Pacific Island Times
+
+By Frank Whitman At its peak seven years ago, Tumon Sands Plaza housed 21 shops offering Guam visitors the opportunity to purchase... 
+
+<https://www.pacificislandtimes.com/post/shopping-mecca-no-more-the-demise-of-luxury-brand-market-on-guam>
+
+---
+
+## Turnstiles
+
+date: 2024-04-08, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by J.B. Stone It’s sixty seconds to midnight &#38; you, I, &#38; whoever else on this lonely rock trapped like cattle, only quartered and left to be devoured sit in cue. Motionless to the sounds of man-made skies plunging scrapyards into &#8230; <a href="https://hawaiipacificreview.org/2024/04/08/turnstiles/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/04/08/turnstiles/>
 
 ---
 
