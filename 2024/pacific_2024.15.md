@@ -1,11 +1,669 @@
 ---
 title: pacific 2024.15
-updated: 2024-04-09 08:39:10
+updated: 2024-04-10 08:58:06
 ---
 
 # pacific 2024.15
 
-(date: 2024-04-09 08:39:10)
+(date: 2024-04-10 08:58:06)
+
+---
+
+## The Hawaiian steel guitar changed American music. Can one man keep that tradition alive?
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA &#8212; Quincy Cortez plucks at a slim black box laid across his legs, his fingers flashing silver.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/features/the-hawaiian-steel-guitar-changed-american-music-can-one-man-keep-that-tradition-alive/>
+
+---
+
+## BIIF sports: Golf enters late season; volleyball, baseball near ends
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>Golf</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/sports/biif-sports-golf-enters-late-season-volleyball-baseball-near-ends/>
+
+---
+
+## Arizona can enforce an 1864 law criminalizing nearly all abortions, court says
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>PHOENIX &#8212; Arizona will soon join 14 other states that have banned abortion at all stages of pregnancy, a change triggered by a state Supreme Court ruling Tuesday that found officials may enforce an 1864 law criminalizing all abortions except when a woman&#8217;s life is at stake.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/nation-world-news/arizona-can-enforce-an-1864-law-criminalizing-nearly-all-abortions-court-says/>
+
+---
+
+## Michigan school shooter’s parents sentenced to 10 years in prison for not stopping a ‘runaway train’
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>PONTIAC, Mich. &#8212; The first parents convicted in a U.S. mass school shooting were sentenced to at least 10 years in prison Tuesday as a Michigan judge lamented missed opportunities that could have prevented their teenage son from possessing a gun and killing four students in 2021.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/nation-world-news/michigan-school-shooters-parents-sentenced-to-10-years-in-prison-for-not-stopping-a-runaway-train/>
+
+---
+
+## Shea Langeliers hits 3 home runs, leads Athletics over Rangers 4-3
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>ARLINGTON, Texas (AP) &#8212; Shea Langeliers hit three home runs, including a two-run drive in the ninth inning that lifted the Oakland Athletics over the Texas Rangers 4-3 on Tuesday night. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/sports/shea-langeliers-hits-3-home-runs-leads-athletics-over-rangers-4-3/>
+
+---
+
+## Kolekole park set to reopen end of April
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>A new and improved Kolekole Gulch Park will reopen later this month after years of closure.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/hawaii-news/kolekole-park-set-to-reopen-end-of-april/>
+
+---
+
+## Flurry of legal action in case involving home built on wrong property
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>Both Hilo Circuit Court judges have bowed out from hearing a case involving a California woman sued by a developer whose contractor mistakenly built a house on her lot in Hawaiian Paradise Park.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/hawaii-news/flurry-of-legal-action-in-case-involving-home-built-on-wrong-property/>
+
+---
+
+## Antetokounmpo leaves Bucks’ game with Celtics after grabbing his left calf while running up court
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>MILWAUKEE &#8212; Giannis Antetokounmpo was undergoing testing on his left calf after leaving the Milwaukee Bucks&#8217; victory over the Boston Celtics on Tuesday night. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/sports/antetokounmpo-leaves-bucks-game-with-celtics-after-grabbing-his-left-calf-while-running-up-court/>
+
+---
+
+## Legal marijuana is making roads deadlier
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>Marijuana legalization is killing a lot of people. Not slowly &#8212; though some studies suggest that it may be doing that, too &#8212; but quickly, in car crashes. It&#8217;s one more symptom of the disastrous rush by lawmakers to capitalize on cannabis sales without doing the hard work needed to keep the public safe.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/opinion/legal-marijuana-is-making-roads-deadlier/>
+
+---
+
+## Criminal justice reform is alive. Thank conservatives
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>Congress eliminated parole from the federal criminal justice system in 1984, but it didn&#8217;t completely do away with post-release supervision. About 3 of every 4 people leaving federal prison remain under supervision, often for years, and often for no good reason.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/opinion/criminal-justice-reform-is-alive-thank-conservatives/>
+
+---
+
+## Videos show Chicago police fired nearly 100 shots over 41 seconds during fatal traffic stop
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO (AP) &#8212; Plainclothes Chicago police officers fired nearly 100 gunshots over 41 seconds during a traffic stop that left one man dead and one officer injured, according to graphic video footage a police oversight agency released Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/nation-world-news/videos-show-chicago-police-fired-nearly-100-shots-over-41-seconds-during-fatal-traffic-stop/>
+
+---
+
+## In landmark climate ruling, European court faults Switzerland
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; Europe&#8217;s top human rights court said Tuesday that the Swiss government had violated its citizens&#8217; rights by not doing enough to stop climate change, a landmark ruling that experts said could bolster activists hoping to use human rights law to hold governments to account.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/nation-world-news/in-landmark-climate-ruling-european-court-faults-switzerland/>
+
+---
+
+## Your Views for April 10
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>Higher standards&#0010;needed for teachers</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/opinion/your-views-for-april-10-7/>
+
+---
+
+## US wildfires are getting bigger and more complex, prompting changes in firefighting workforce
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>PRESCOTT, Ariz. &#8212; It&#8217;s shaping up to be a long wildfire season, with Texas already seeing its largest blaze in recorded history and firefighters becoming overwhelmed with recent blazes in Virginia.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/nation-world-news/us-wildfires-are-getting-bigger-and-more-complex-prompting-changes-in-firefighting-workforce/>
+
+---
+
+## Champions League matches go ahead despite Islamic State terror threat
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>NYON, Switzerland (AP) &#8212; This week&#8217;s Champions League games are going ahead as scheduled despite an Islamic State terror threat, the governing body of European soccer said Tuesday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/sports/champions-league-matches-go-ahead-despite-islamic-state-terror-threat/>
+
+---
+
+## 2-time All-Star Ja Morant acted in self-defense during pickup game fight, judge says
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>MEMPHIS, Tenn. (AP) &#8212; Ja Morant acted in self-defense when a teenager accused the two-time NBA All-Star of punching him during a pickup game at the home of the Memphis Grizzlies guard&#8217;s parents in 2022, a judge has ruled. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/sports/2-time-all-star-ja-morant-acted-in-self-defense-during-pickup-game-fight-judge-says/>
+
+---
+
+## FCC move to restore net neutrality sets stage for familiar fight
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Biden administration&#8217;s move to restore net neutrality will need to pass legal tests to stick, and even then it will be at risk of a rollback under a future administration if Congress doesn&#8217;t act.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/nation-world-news/fcc-move-to-restore-net-neutrality-sets-stage-for-familiar-fight/>
+
+---
+
+## Biden meets Japan’s PM Kishida over shared concerns about China and differences on US Steel deal
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (AP) &#8212; Japanese Prime Minister Fumio Kishida began a much-anticipated visit to Washington on Tuesday that spotlights shared concerns about provocative Chinese military action in the Pacific and at a rare moment of public difference between the two nations over a Japanese company&#8217;s plan to buy an iconic U.S. company.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/nation-world-news/biden-meets-japans-pm-kishida-over-shared-concerns-about-china-and-differences-on-us-steel-deal/>
+
+---
+
+## Norfolk Southern settles derailment suit for $600 million
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>Norfolk Southern announced Tuesday that it agreed to pay $600 million to settle a class-action lawsuit stemming from a February 2023 derailment of a train carrying hazardous materials in East Palestine, Ohio.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/nation-world-news/norfolk-southern-settles-derailment-suit-for-600-million/>
+
+---
+
+## Appeals court rejects Donald Trump’s latest attempt to delay April 15 hush money criminal trial
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A New York appeals court judge Tuesday rejected Donald Trump&#8217;s latest attempt to delay his hush money criminal trial, taking just 12 minutes to swat aside an argument that it should be postponed while the former president fights a gag order.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/nation-world-news/appeals-court-rejects-donald-trumps-latest-attempt-to-delay-april-15-hush-money-criminal-trial/>
+
+---
+
+## Gunman spared pregnant lawyer during fatal shooting, document says
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>LAS VEGAS &#8212; A court document filed hours after a Las Vegas attorney and his wife were fatally shot in a Summerlin law office describes the moments leading up to the killings.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/nation-world-news/gunman-spared-pregnant-lawyer-during-fatal-shooting-document-says/>
+
+---
+
+## What are the next steps for women’s college basketball after title game drew 18.9 million?
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>South Carolina&#8217;s 87-75 victory over Caitlin Clark and Iowa in the women&#8217;s NCAA championship game averaged 18.9 million viewers on ABC and ESPN, making it the second most-watched non-Olympic women&#8217;s sporting event on U.S. television. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/sports/what-are-the-next-steps-for-womens-college-basketball-after-title-game-drew-18-9-million/>
+
+---
+
+## Obituaries for April 10
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>John Agcawile Ancheta, 82, of Honokaa died Jan. 6 at North Hawaii Community Hospital. Born in Paauhau, he was a retired equipment operator for the former Hamakua Sugar Co. and retired truck driver for Hapuna Beach Prince Beach Hotel. Celebration of life noon Saturday, April 20, at Paauilo Hongwanji Hall. Survived by wife, Geraldine Ancheta of Honokaa; daughters, Laura (Anthony) Ross of Waimea, Sui-Lin (Damien) Maikui of Hilo and Ku&#8216;ulei (Daryl) Ancheta of Honolulu; son, Paul (Fay) Ancheta of Honokaa; brothers, Maurice Ancehta of North Carolina and Anthony (Benita) Ancheta of Waimea; sisters, Alice Panui Jr. of Honolulu and Luana Ancheta-Kauwe of Hilo; 11 grandchildren and 13 great-grandchildren; nieces, nephews, cousins, aunts and uncles. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/obituaries/obituaries-for-april-10-8/>
+
+---
+
+## After delay, Delta IV Heavy lifts off for the last time
+
+date: 2024-04-10, from: Hawaii Tribune Harold
+
+
+				<p>The storied career of the Delta family of rockets had to wait a little longer than planned to turn the page on its final chapter, but the last of its kind lifted off on the Space Coast on Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/10/nation-world-news/after-delay-delta-iv-heavy-lifts-off-for-the-last-time/>
+
+---
+
+## GPA, GWA seek CCU approval of pay adjustments for personnel
+
+date: 2024-04-10, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Guam Power Authority and the Guam Waterworks Authority are seeking the Consolidated Commission's... 
+
+<https://www.pacificislandtimes.com/post/gpa-gwa-seek-ccu-approval-of-pay-adjustments-for-personnel>
+
+---
+
+## DOAG accepting applications  for food infrastructure projects
+
+date: 2024-04-10, from: Guam Daily Post
+
+The Guam Department of Agriculture entered into a cooperative agreement with the U.S. Department of Agriculture under the Resilient Food Systems Infrastructure Program. RFSI is authorized by the American Rescue Plan and provides DOAG with a little over $2 million… 
+
+<https://www.postguam.com/news/local/doag-accepting-applications-for-food-infrastructure-projects/article_bb219fda-f61c-11ee-a466-4f27aa31ff8d.html>
+
+---
+
+## GVB announces 2024 Ko'ko' Weekend
+
+date: 2024-04-10, from: Guam Daily Post
+
+The Guam Visitors Bureau conducted a press conference Wednesday to help promote the 2024 Ko'ko' Weekend occurring April 13-14 at the Gov. Joseph Flores Memorial Park in Tumon. The weekend features a half marathon, a 10K road race and a… 
+
+<https://www.postguam.com/news/local/gvb-announces-2024-koko-weekend/article_b8c95b00-f6f4-11ee-8857-5bdb40761681.html>
+
+---
+
+## Guam Supreme Court grants permission for agencies to file briefs on AG issue
+
+date: 2024-04-10, from: Guam Daily Post
+
+Supreme Court of Guam Chief Justice Robert Torres has granted a joint motion from several government entities seeking permission to file an amicus curiae brief in support of Gov. Lou Leon Guerrero, who has asked the court for a declaratory… 
+
+<https://www.postguam.com/news/local/guam-supreme-court-grants-permission-for-agencies-to-file-briefs-on-ag-issue/article_39941a92-f6e4-11ee-b857-739ef1da4dae.html>
+
+---
+
+## Core Tech International presents donations to local community groups
+
+date: 2024-04-10, from: Guam Daily Post
+
+ 
+
+<https://www.postguam.com/news/local/core-tech-international-presents-donations-to-local-community-groups/article_1af52f60-f6d8-11ee-9b93-279acace9054.html>
+
+---
+
+## New FestPac delegates approved, Frank 'Ko' San Nicolas not part of them
+
+date: 2024-04-10, from: Guam Daily Post
+
+Board members for the Guam Council on the Arts and Humanities Agency have approved 110 delegates for the 2024 Festival of Pacific Arts and Culture, or FestPac, none of whom were Frank “Ko” San Nicolas. 
+
+<https://www.postguam.com/news/local/new-festpac-delegates-approved-frank-ko-san-nicolas-not-part-of-them/article_1525a892-f653-11ee-8da3-8f37bbcf6f21.html>
+
+---
+
+## Ex-guardsman given 10 years in federal prison in child porn case
+
+date: 2024-04-10, from: Guam Daily Post
+
+A former Guam National Guard member was sentenced to 10 years in federal prison for enticement of a minor. 
+
+<https://www.postguam.com/news/local/ex-guardsman-given-10-years-in-federal-prison-in-child-porn-case/article_057e2ee0-f54b-11ee-b155-37ce3bfbe26d.html>
+
+---
+
+## 2 Thai Thai restaurant shooting,  robbery suspects plead not guilty
+
+date: 2024-04-10, from: Guam Daily Post
+
+A man and a woman pleaded not guilty to charges related to a fatal shooting and robbery at Thai Thai Healthy Cuisine restaurant earlier this year. 
+
+<https://www.postguam.com/news/local/2-thai-thai-restaurant-shooting-robbery-suspects-plead-not-guilty/article_e8116232-f62b-11ee-bcd9-3bc78293aa7f.html>
+
+---
+
+## Man accused of stealing e-bike, Rolex watch
+
+date: 2024-04-10, from: Guam Daily Post
+
+A man was charged in connection to a string of thefts after he was accused of stealing an e-bike, a $70,000 Rolex watch and a woman's personal belongings on the beach. 
+
+<https://www.postguam.com/news/local/man-accused-of-stealing-e-bike-rolex-watch/article_5888c516-f620-11ee-aa02-cf71de792f57.html>
+
+---
+
+## $3.2M earmarked for Guam airport's terminal roof rehabilitation
+
+date: 2024-04-10, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Federal Aviation Administration has awarded $3.2 million to the A.B. Won Pat International Airport... 
+
+<https://www.pacificislandtimes.com/post/3-2m-earmarked-for-guam-airport-s-terminal-roof-rehabilitation>
+
+---
+
+## US federal court orders Philips to restrict production of sleep apnea devices
+
+date: 2024-04-10, updated: 2024-04-10, from: Marianas Variety
+
+(Reuters) — A U.S. federal court issued a decree to restrict the production and sale of Philips' new sleep apnea machines at several facilities in the country, the Food and Drug Administration said on Tuesday. 
+
+<https://www.mvariety.com/business/us-federal-court-orders-philips-to-restrict-production-of-sleep-apnea-devices/article_112806ce-f70f-11ee-9e75-47ea37aa1e3b.html>
+
+---
+
+## 'Fantastic Four' actress Jessica Alba to step down as creative chief at Honest Company
+
+date: 2024-04-10, updated: 2024-04-10, from: Marianas Variety
+
+(Reuters) — Personal care and baby products maker Honest Company said on Tuesday its founder, actress Jessica Alba, would be stepping down from her role as the chief creative officer. 
+
+<https://www.mvariety.com/lifestyle/fantastic-four-actress-jessica-alba-to-step-down-as-creative-chief-at-honest-company/article_c73fcdf8-f70e-11ee-a019-7faa744d038f.html>
+
+---
+
+## Norfolk Southern agrees to pay $600 million to settle Ohio derailment lawsuit
+
+date: 2024-04-10, updated: 2024-04-10, from: Marianas Variety
+
+WASHINGTON (Reuters) — U.S. railroad operator Norfolk Southern has agreed to pay $600 million to settle a class action lawsuit over a February 2023 East Palestine, Ohio train derailment that spilled toxic chemicals, according to the company and court documents. 
+
+<https://www.mvariety.com/news/national/norfolk-southern-agrees-to-pay-600-million-to-settle-ohio-derailment-lawsuit/article_9c05c84a-f70e-11ee-ae56-2f3a05782492.html>
+
+---
+
+## US power use forecast to reach record highs in 2024 and 2025
+
+date: 2024-04-10, updated: 2024-04-10, from: Marianas Variety
+
+(Reuters) — U.S. power consumption will rise to record highs in 2024 and 2025, the U.S. Energy Information Administration (EIA) said in its Short Term Energy Outlook (STEO) on Tuesday. 
+
+<https://www.mvariety.com/news/national/us-power-use-forecast-to-reach-record-highs-in-2024-and-2025/article_429bafb8-f70e-11ee-950e-9f8bfd283bf0.html>
+
+---
+
+## White House: US condemns Ecuador's armed raid of Mexico's embassy
+
+date: 2024-04-10, updated: 2024-04-10, from: Marianas Variety
+
+(Reuters) — The United States condemned on Tuesday Ecuador's use of force against embassy officials after its police and soldiers raided Mexico's embassy last week to arrest former Vice President Jorge Glas. 
+
+<https://www.mvariety.com/news/national/white-house-us-condemns-ecuadors-armed-raid-of-mexicos-embassy/article_f369f2e2-f70d-11ee-82fd-3742012375e5.html>
+
+---
+
+## Republican operatives to pay $1.25 million for robocalls threatening Black voters, NY prosecutor says
+
+date: 2024-04-10, updated: 2024-04-10, from: Marianas Variety
+
+WASHINGTON (Reuters) — Two conservative operatives who launched a robocall campaign designed to prevent Black New Yorkers from voting by mail in the 2020 U.S. election will pay $1.25 million in a settlement, New York state Attorney General Letitia James said on Tuesday. 
+
+<https://www.mvariety.com/news/national/republican-operatives-to-pay-1-25-million-for-robocalls-threatening-black-voters-ny-prosecutor-says/article_874f7230-f70d-11ee-8b2e-4f145615798f.html>
+
+---
+
+## Chicago officers fired at suspect nearly 100 times at fatal traffic stop, report says
+
+date: 2024-04-10, updated: 2024-04-10, from: Marianas Variety
+
+(Reuters) — Four Chicago police officers shot at a suspect nearly 100 times in less than a minute after the man opened fire on them during a traffic stop last month, according to a report from the city's civilian monitoring office, released on Tuesday. 
+
+<https://www.mvariety.com/news/national/chicago-officers-fired-at-suspect-nearly-100-times-at-fatal-traffic-stop-report-says/article_60fb0e64-f70d-11ee-bdb7-b7abcaf7c899.html>
+
+---
+
+## US sends seized Iranian weapons to Ukraine
+
+date: 2024-04-10, updated: 2024-04-10, from: Marianas Variety
+
+WASHINGTON (Reuters) — The U.S. has transferred to Ukraine thousands of infantry weapons and more than 500,000 rounds of ammunition that were seized more than a year ago as they were being shipped by Iran to Houthi forces in Yemen, the U.S. military said on Tuesday. 
+
+<https://www.mvariety.com/news/national/us-sends-seized-iranian-weapons-to-ukraine/article_4190edf0-f70d-11ee-a5d9-b73f09670932.html>
+
+---
+
+## Deforestation in Brazil's Amazon down 40% in Q1, minister says
+
+date: 2024-04-10, updated: 2024-04-10, from: Marianas Variety
+
+BRASILIA (Reuters) — Deforestation in Brazil's Amazon has decreased 40% in the first three months of 2024 from a year earlier, Environment Minister Marina Silva said on Tuesday, citing data from space research agency INPE. 
+
+<https://www.mvariety.com/news/deforestation-in-brazils-amazon-down-40-in-q1-minister-says/article_95cad5c6-f70c-11ee-a16f-eb0aa768340b.html>
+
+---
+
+## Fire in packed Hong Kong building kills five，dozens in hospital
+
+date: 2024-04-10, updated: 2024-04-10, from: Marianas Variety
+
+HONG KONG (Reuters) — A fire broke out in a densely populated residential building in Hong Kong's bustling Kowloon district on Wednesday, killing five people and injuring 35 others, the city's hospital authority and fire services said. 
+
+<https://www.mvariety.com/news/fire-in-packed-hong-kong-building-kills-five-dozens-in-hospital/article_e0c74678-f70b-11ee-8435-1f08ca028a28.html>
+
+---
+
+## GSWA addresses service delays
+
+date: 2024-04-10, from: Guam Daily Post
+
+The Guam Solid Waste Authority has implemented several immediate measures, including expanding operational hours to meet growing demand, in order to improve efficiency and address a backlog in waste collection, according to a release from the agency. 
+
+<https://www.postguam.com/news/gswa-addresses-service-delays/article_5b4ea15e-f700-11ee-9560-733b7934e318.html>
+
+---
+
+## Digging the CHamoru identity
+
+date: 2024-04-10, from: Pacific Island Times
+
+By Johanna Salinas Chamorro artist Dakota Camacho’s latest project, “Buried Beneath: Bombs &#38; Lattes” is a melodrama, pieced together with... 
+
+<https://www.pacificislandtimes.com/post/digging-the-chamoru-identity>
+
+---
+
+## Hawaiian Word of the Week: Lanakila
+
+date: 2024-04-10, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Lanakila&#8212;Victory, triumph; to triumph, win, overcome, beat.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/09/hawaiian-word-of-the-week-lanakila/">Hawaiian Word of the Week: Lanakila</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/09/hawaiian-word-of-the-week-lanakila/>
+
+---
+
+## Micronesia president says US beefing up military capabilities in the Pacific country
+
+date: 2024-04-10, from: The Guardian, World/Micronesia
+
+<p>Wesley Simina says the US is ‘well advanced’ in plans for $400m airport upgrade in Yap, amid rising tensions with China in the region</p><p>The US is considering military projects across the Federated States of Micronesia (FSM) as it pushes ahead with plans for a $400m airport upgrade in the country to boost defence capabilities in the Pacific, President Wesley Simina said.</p><p>The region is of growing strategic importance to the US amid a <a href="https://www.theguardian.com/world/2024/feb/16/pacific-islands-us-funding-bill-china-relationship-joe-biden">battle for influence with China</a>.</p> <a href="https://www.theguardian.com/world/2024/apr/10/micronesia-president-wesley-simina-military-capabilities-us-airport-upgrade-yap">Continue reading...</a> 
+
+<https://www.theguardian.com/world/2024/apr/10/micronesia-president-wesley-simina-military-capabilities-us-airport-upgrade-yap>
+
+---
+
+## Thousands attend Onizuka Day at UH West Oʻahu; robots, tech, more
+
+date: 2024-04-10, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> This year’s Onizuka Day featured more than 100 interactive booths and exhibits.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/09/onizuka-day-at-uh-west-oahu/">Thousands attend Onizuka Day at <abbr>UH</abbr> West Oʻahu; robots, tech, more</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/09/onizuka-day-at-uh-west-oahu/>
+
+---
+
+## BeachBows Maidment, Miller earn Big West Pairs Team honor
+
+date: 2024-04-10, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Anna Maidment and Sydney Miller scored a perfect 4-0 at the <abbr title="Texas Christian University">TCU</abbr> M&#257;noa Invitational.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/09/maidment-miller-big-west-pairs-honor/">BeachBows Maidment, Miller earn Big West Pairs Team honor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/09/maidment-miller-big-west-pairs-honor/>
+
+---
+
+## Rainbow Wahine water polo wins Big West
+
+date: 2024-04-10, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> The team secured the program’s 6th Big West regular-season title.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/09/wahine-water-polo-wins-big-west/">Rainbow Wahine water polo wins Big West</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/09/wahine-water-polo-wins-big-west/>
+
+---
+
+## Special ops cost: Mental/physical health focus of UH Hilo researcher’s new book
+
+date: 2024-04-10, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Professor Chris Frueh has uncovered a pattern of impacts such as traumatic brain injury, sleep apnea, depression and addiction.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/09/frueh-book-operator-syndrome/">Special ops cost: Mental/physical health focus of <abbr>UH</abbr> Hilo researcher’s new book</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/09/frueh-book-operator-syndrome/>
+
+---
+
+## Cultivating conservation, eco stewards: 20th anniversary for UH Hilo program
+
+date: 2024-04-10, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Students who completed the <abbr>TCBES</abbr> graduate program now  serve as conservation and environmental scientists and managers throughout <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/09/tcbes-20th-anniversary/">Cultivating conservation, eco stewards: 20th anniversary for <abbr>UH</abbr> Hilo program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/09/tcbes-20th-anniversary/>
+
+---
+
+## 2 UH alums earn $25K Milken Educator Award
+
+date: 2024-04-09, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Pham and Inouye are the 81st and 82nd <span aria-label="Hawaii">Hawai&#699;i</span> teachers, respectively, to receive the award since <span aria-label="Hawaii">Hawai&#699;i</span> joined the program in 1990.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/09/milken-award-inouye-pham/">2 <abbr>UH</abbr> alums earn $25<abbr>K</abbr> Milken Educator Award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/09/milken-award-inouye-pham/>
+
+---
+
+## 2024 legislative update:  Senate budget less than ideal, session in home stretch
+
+date: 2024-04-09, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">7</span> <span class="rt-label rt-postfix">minutes</span></span> Kalbert Young, <abbr>UH</abbr> vice president for budget and finance and chief financial officer, shares his analysis.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/09/2024-legislative-update-senate-budget/">2024 legislative update:  Senate budget less than ideal, session in home stretch</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/09/2024-legislative-update-senate-budget/>
+
+---
+
+## UH cancer scientist’s passion leads to national changes, community award
+
+date: 2024-04-09, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Christa Braun-Inglis was awarded the David King Community Clinical Scientist Award.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/09/braun-inglis-accc-award/"><abbr>UH</abbr> cancer scientist’s passion leads to national changes, community award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/09/braun-inglis-accc-award/>
+
+---
+
+## UH Mānoa shines in national grad program rankings: 2 top 25, 13 top 100
+
+date: 2024-04-09, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> The highest ranked programs are in the William S. Richardson School of Law ranking <abbr>No</abbr>. 23 for both best part-time law programs and best environmental law programs.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/09/us-news-best-grad-programs-2024/"><abbr>UH</abbr> Mānoa shines in national grad program rankings: 2 top 25, 13 top 100</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/09/us-news-best-grad-programs-2024/>
+
+---
+
+## Guam has thousands of jobs and a shortage of applicants
+
+date: 2024-04-09, from: Pacific Island Times
+
+‘Now Hiring’ signs are everywhere, but where are the job seekers? By Naina Rao and Mar-Vic Cagurangan No one can say there’s a dearth of... 
+
+<https://www.pacificislandtimes.com/post/guam-has-thousands-of-jobs-and-a-shortage-of-applicants>
+
+---
+
+## Guam gets the short end of the stick
+
+date: 2024-04-09, from: Pacific Island Times
+
+The recent approval of the Compacts of Free Association in Micronesia, Palau and the Marshalls has apparently resolved many of the dire... 
+
+<https://www.pacificislandtimes.com/post/guam-gets-the-short-end-of-the-stick>
+
+---
+
+## Early College Students Present at Chaminade’s Annual Na Liko Na’auao
+
+date: 2024-04-09, from: Chaminade Silversword (Chaminade Univ. student newspaper)
+
+Five of the 28 presenters at Na Liko Na&#8217;auao were dual-enrollment Early College students who are high school juniors at Sacred Hearts Academy. &#8220;I am beyond proud of these girls for coming out and presenting here,&#8221; said Koreen Nakahodo, an English professor and mentor. &#8220;It’s exciting because there is not just one presenter today; the... 
+
+<https://thesilversword.com/news/2024/04/09/early-college-students-present-at-chaminades-annual-na-liko-naauao/>
 
 ---
 
@@ -258,6 +916,30 @@ date: 2024-04-09, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/04/09/sports/augusta-national-in-bloom-and-the-conditions-dry-for-masters-so-far/>
+
+---
+
+## Hilo teacher wins $25,000 Milken award
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>Rory Inouye, a math teacher at Waiakea High School, has won a $25,000 national Milken Educator Award.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/hawaii-news/hilo-teacher-wins-25000-milken-award/>
+
+---
+
+## DOH investigating whooping cough cases on Hawaii Island
+
+date: 2024-04-09, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health is investigating two confirmed cases of pertussis &#8212; also known as whooping cough &#8212; and identified eight probable cases in two separate households without travel-related exposures on Hawaii Island.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/09/hawaii-news/doh-investigating-2-whooping-cough-cases-on-hawaii-island/>
 
 ---
 
@@ -762,6 +1444,16 @@ By Pacific Island Times News Staff The Guam Power Authority said Guam is still o
 
 ---
 
+## Energy, science, technology and climate adaptation take center stage at UOG Conference on Island Sustainability
+
+date: 2024-04-08, from: Pacific Island Times
+
+By Pacific Island Times News Staff As the University of Guam convenes this week for its 15th Conference on Island Sustainability,... 
+
+<https://www.pacificislandtimes.com/post/energy-science-technology-and-climate-adaptation-take-center-stage-at-uog-conference-on-island-sus>
+
+---
+
 ## Army Corps to resume Q&#38;A on right of entry process for inspection of former bomb disposal sites on Guam  
 
 date: 2024-04-08, from: Pacific Island Times
@@ -1260,7 +1952,7 @@ By Chief Warrant Officer Sara Muir USCG Honolulu — Reflecting an ongoing commi
 
 date: 2024-04-08, from: Pacific Island Times
 
-By Mar-Vic Cagurangan China is deemed a lucrative market for the Northern Marianas, warranting its inclusion in the visa waiver program,... 
+By Mar-Vic Cagurangan (This article has been updated to include a U.S. senator's comment on DHS's response) China is deemed a lucrative... 
 
 <https://www.pacificislandtimes.com/post/homeland-security-defends-visa-waiver-for-cnmi-bound-chinese-travelers>
 

@@ -1,11 +1,122 @@
 ---
 title: columns 2024.15
-updated: 2024-04-09 08:39:10
+updated: 2024-04-10 08:58:06
 ---
 
 # columns 2024.15
 
-(date: 2024-04-09 08:39:10)
+(date: 2024-04-10 08:58:06)
+
+---
+
+## In Memoriam: Ross Anderson, 1956-2024
+
+date: 2024-04-10, updated: 2024-04-10, from: Bruce Schneier blog
+
+<p>Last week I posted a <a href="https://www.schneier.com/blog/archives/2024/03/ross-anderson.html">short memorial</a> of Ross Anderson. The <cite>Communications of the ACM</cite> asked me to expand it. Here&#8217;s the <a href="https://www.schneier.com/essays/archives/2024/04/in-memoriam-ross-anderson-1956-2024.html">longer version</a>.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/04/in-memoriam-ross-anderson-1956-2024.html>
+
+---
+
+## Office Hours: Should parents be criminally responsible for a child who kills?
+
+date: 2024-04-10, from: Robert Reich's blog
+
+Friends, I&#8217;m the father of two young men of whom I couldn&#8217;t be prouder. But I don&#8217;t take the credit. They also had a terrific mother, loving grandparents, great teachers and mentors, and supportive friends. And they were fortunate to grow up with most of the resources they needed. 
+
+<https://robertreich.substack.com/p/office-hours-what-responsibility>
+
+---
+
+## Verified curl
+
+date: 2024-04-10, from: Daniel Stenberg Blog
+
+Don&#8217;t trust. Verify. Here follows a brief description on how you can detect if the curl package would ever make an xz. xz (and its library liblzma) was presumably selected as a target because it is an often used component and by extension via systemd it often used by openssh in several Linux distros. libcurl &#8230; <a href="https://daniel.haxx.se/blog/2024/04/10/verified-curl/" class="more-link">Continue reading <span class="screen-reader-text">Verified curl</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/04/10/verified-curl/>
+
+---
+
+## TSMC Will Build Third Arizona Fab After Winning $6.6B in CHIPS Funding
+
+date: 2024-04-10, updated: 2024-04-10, from: Daring Fireball
+
+ 
+
+<https://arstechnica.com/tech-policy/2024/04/tsmc-will-build-third-arizona-fab-after-winning-6-6b-in-chips-funding/>
+
+---
+
+## From the Annals of Underpromising and Overdelivering: Apple’s Timing for the Mac’s Transition to Apple Silicon
+
+date: 2024-04-10, updated: 2024-04-10, from: Daring Fireball
+
+ 
+
+<https://daringfireball.net/2015/11/the_ipad_pro>
+
+---
+
+## Microsoft Preparing New Push for ARM-Powered Windows Laptops
+
+date: 2024-04-10, updated: 2024-04-10, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/2024/4/8/24116587/microsoft-macbook-air-surface-arm-qualcomm-snapdragon-x-elite>
+
+---
+
+## Google Expands in-House Chip Efforts for AI Data Centers
+
+date: 2024-04-10, updated: 2024-04-10, from: Daring Fireball
+
+ 
+
+<https://www.wsj.com/tech/google-expands-in-house-chip-efforts-in-costly-ai-battle-3121c852>
+
+---
+
+## Wednesday 10 April, 2024
+
+date: 2024-04-09, from: John Naughton's online diary
+
+The listening post Dishes in Cambridge’s Lord’s Bridge radio telescope system: listening to the universe. Quote of the Day “He would have been considered a great Emperor, had he never ruled.” Roman historian Tacitus on the Emperor Galba Musical alternative &#8230; <a href="https://memex.naughtons.org/wednesday-10-april-2024/39342/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-10-april-2024/39342/>
+
+---
+
+## Now Trump can’t sidestep his key role in banning abortions
+
+date: 2024-04-09, from: Robert Reich's blog
+
+Friends, Today, Arizona&#8217;s highest court, in a 4-to-2 decision, upheld an Arizona law dating from 1864 that bans nearly all abortions. The law, which was on the books long before Arizona achieved statehood, outlaws abortion from the moment of conception, 
+
+<https://robertreich.substack.com/p/now-trump-cant-sidestep-his-key-role>
+
+---
+
+## ★ From the Department of Spending Tim Cook’s Money: Online Photo Storage Is Surely Expensive to Offer, but Apple Should Offer More
+
+date: 2024-04-09, updated: 2024-04-10, from: Daring Fireball
+
+Like the stingy U.S. minimum wage — which was last increased, to $7.25/hour, in 2009 — these tiers ought to be adjusted for “inflation” periodically, but aren’t. If Apple really wants iPhone users not to worry about photo storage, they should offer more with iCloud, cost-to-Apple be damned. 
+
+<https://daringfireball.net/2024/04/online_photo_storage_is_surely_expensive_but_apple_should_offer_more>
+
+---
+
+## Apple’s New iPhone Ad: ‘Don’t Let Me Go’
+
+date: 2024-04-09, updated: 2024-04-09, from: Daring Fireball
+
+ 
+
+<https://www.youtube.com/watch?v=bks2zGnssMY>
 
 ---
 
@@ -13,10 +124,10 @@ updated: 2024-04-09 08:39:10
 
 date: 2024-04-09, from: David Rosenthal's blog
 
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjgaD_8WZMbIkMY54-xiWUCWCiJRi79yPUfLYZKYFCyVqUywHGBAPaYdQH5qY58OXvr721Bl3U7x1wqKbooLkoYRpR7JPNIBDbyOIAME-BwKHXYS-RhFx-FoFhBNhxg3S0vX9zv68D1z2-TD10lN7ZVUip4_SpattK6EEwvZpB0pLFDzZ8XblhfH2XBsvf/s216/intro.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="81" data-original-width="216" height="81" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjgaD_8WZMbIkMY54-xiWUCWCiJRi79yPUfLYZKYFCyVqUywHGBAPaYdQH5qY58OXvr721Bl3U7x1wqKbooLkoYRpR7JPNIBDbyOIAME-BwKHXYS-RhFx-FoFhBNhxg3S0vX9zv68D1z2-TD10lN7ZVUip4_SpattK6EEwvZpB0pLFDzZ8XblhfH2XBsvf/s1600/intro.jpg" width="216" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.sensitiveresearch.com/Archive/TLG/">Source</a></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjgaD_8WZMbIkMY54-xiWUCWCiJRi79yPUfLYZKYFCyVqUywHGBAPaYdQH5qY58OXvr721Bl3U7x1wqKbooLkoYRpR7JPNIBDbyOIAME-BwKHXYS-RhFx-FoFhBNhxg3S0vX9zv68D1z2-TD10lN7ZVUip4_SpattK6EEwvZpB0pLFDzZ8XblhfH2XBsvf/s216/intro.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="81" data-original-width="216" height="81" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjgaD_8WZMbIkMY54-xiWUCWCiJRi79yPUfLYZKYFCyVqUywHGBAPaYdQH5qY58OXvr721Bl3U7x1wqKbooLkoYRpR7JPNIBDbyOIAME-BwKHXYS-RhFx-FoFhBNhxg3S0vX9zv68D1z2-TD10lN7ZVUip4_SpattK6EEwvZpB0pLFDzZ8XblhfH2XBsvf/s1600/intro.jpg" width="216" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.sensitiveresearch.com/Archive/TLG/">Source</a></td></tr></tbody></table>
 Below the fold is the story of how I got a full-time Internet connection at my apartment 32 years ago next month, and the incredible success of my first ISP.<br />
 <br />
-The reason I'm now able to tell this story is that Tom Jennings, the moving spirit behind the ISP has <a href="https://www.sensitiveresearch.com/Archive/TLG/TLG.html">two</a> <a href="https://www.sensitiveresearch.com/Archive/TLG/">posts</a> describing the history of The Little Garden, which was the name the ISP had adopted (from a Chinese restaurant in Palo Alto) when I joined it in May 1993. Tom's perspective from the ISP's point of view contrasts with my perspective &mdash; that of a fairly early customer enhanced by information via e-mail from John Gilmore and Tim Pozar, who were both involved far earlier than I.<br />
+The reason I'm now able to tell this story is that <a href="https://en.wikipedia.org/wiki/Tom_Jennings">Tom Jennings</a>, the moving spirit behind the ISP has <a href="https://www.sensitiveresearch.com/Archive/TLG/TLG.html">two</a> <a href="https://www.sensitiveresearch.com/Archive/TLG/">posts</a> describing the history of The Little Garden, which was the name the ISP had adopted (from a Chinese restaurant in Palo Alto) when I joined it in May 1993. Tom's perspective from the ISP's point of view contrasts with my perspective — that of a fairly early customer enhanced by information via e-mail from <a href="https://en.wikipedia.org/wiki/John_Gilmore_(activist)">John Gilmore</a> and Tim Pozar, who were both involved far earlier than I.<br />
 <span><a name='more'></a></span>
 <br />
 Jennings <a href="https://www.sensitiveresearch.com/Archive/TLG/TLG.html">starts his story</a>:<br />
@@ -27,7 +138,7 @@ The three little businesses were Cygnus Support (John Gilmore), Epilogue Technol
 <blockquote>
 In the mid-1990s, UUNET was the fastest-growing ISP, outpacing MCI and Sprint. At its peak, Internet traffic was briefly doubling every few months, which translates to 10x growth each year.
 </blockquote>
-<A href="https://en.wikipedia.org/wiki/John_Gilmore_(activist)">John Gilmore</a>, a truly wonderful person, had many friends. So <a href="https://www.sensitiveresearch.com/Archive/TLG/TLG.html">what happened was</a>:<br />
+John Gilmore, a truly wonderful person, had many friends. So <a href="https://www.sensitiveresearch.com/Archive/TLG/TLG.html">what happened was</a>:<br />
 <blockquote>
 As time went on, friends of theirs wanted in on this rare and exciting 'net connection, resulting in Tim Pozar putting an old PC running Phil Karn's KA9Q/NOS program, an amateur radio router capable of TCP/IP, onto Toad Hall's ethernet. Tim installed a pair of modems, then dialed in once and stayed connected 24 hrs/day (Pacific Bell never said you couldn't do that...)
 </blockquote>
@@ -43,7 +154,7 @@ In 1989 Gilmore had co-founded <a href="https://en.wikipedia.org/wiki/Cygnus_Sol
 <br />
 Gilmore was paying more than $300/mo for modem phone lines supporting the Alt Usenet groups, and realized that for less than that he could have a 56K line from Cygnus to his basement in SF. That led to Pozar and Rich Morin's Canta Forda Computer installing the old PC and becoming the first to use the permanent local call idea.<br />
 <br />
-I knew Gilmore from the early days of Sun Microsystems (he was employee #5), so I first found out about the Point of Presence (PoP) in his basement in late 1992 and <i>really</i> wanted to join in. Alas, there was a snag &mdash; the reason the idea worked was that local phone calls were free. From my home in Palo Alto to Toad Hall was a toll call, making it impossibly expensive. But in May 1993 I found out about the PoP on University, 8 blocks from my apartment.<br />
+I knew Gilmore from the early days of Sun Microsystems (he was employee #5), so I first found out about the Point of Presence (PoP) in his basement in late 1992 and <i>really</i> wanted to join in. Alas, there was a snag — the reason the idea worked was that local phone calls were free. From my home in Palo Alto to Toad Hall was a toll call, making it impossibly expensive. But in May 1993 I found out about the PoP on University, 8 blocks from my apartment.<br />
 <br />
 I purchased:<br />
 <ul>
@@ -51,10 +162,10 @@ I purchased:<br />
 <li>A second phone line at my apartment.</li>
 <li>A pair of Zyxel 9.6Kb modems, one for the PoP and one for my apartment.</li>
 </ul>
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRYk1Plr6ALb4ZF_CbV0ZqMDo4aYxXPx9vAPvmCQv50We-_8-1ssb3Qh29M-xaiuIzmM3SKpUPSSD1Too6DMAlyYblCP0szinAiY1yEb7bOXsBP3BBTfJF5Fyv3Rajf9ygjNtSplCZJvll3Kaqm1WkEYtZ1mpyJP_RyF36AV6ZgXmuYDsoKEK03rwcjqoE/s300/SPARCstationSLC.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="300" data-original-width="300" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRYk1Plr6ALb4ZF_CbV0ZqMDo4aYxXPx9vAPvmCQv50We-_8-1ssb3Qh29M-xaiuIzmM3SKpUPSSD1Too6DMAlyYblCP0szinAiY1yEb7bOXsBP3BBTfJF5Fyv3Rajf9ygjNtSplCZJvll3Kaqm1WkEYtZ1mpyJP_RyF36AV6ZgXmuYDsoKEK03rwcjqoE/w200-h200/SPARCstationSLC.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.bogpeople.com/mycomputers/SPARCstationSLC.jpg">SparcStation SLC</a></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRYk1Plr6ALb4ZF_CbV0ZqMDo4aYxXPx9vAPvmCQv50We-_8-1ssb3Qh29M-xaiuIzmM3SKpUPSSD1Too6DMAlyYblCP0szinAiY1yEb7bOXsBP3BBTfJF5Fyv3Rajf9ygjNtSplCZJvll3Kaqm1WkEYtZ1mpyJP_RyF36AV6ZgXmuYDsoKEK03rwcjqoE/s300/SPARCstationSLC.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="300" data-original-width="300" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRYk1Plr6ALb4ZF_CbV0ZqMDo4aYxXPx9vAPvmCQv50We-_8-1ssb3Qh29M-xaiuIzmM3SKpUPSSD1Too6DMAlyYblCP0szinAiY1yEb7bOXsBP3BBTfJF5Fyv3Rajf9ygjNtSplCZJvll3Kaqm1WkEYtZ1mpyJP_RyF36AV6ZgXmuYDsoKEK03rwcjqoE/w200-h200/SPARCstationSLC.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.bogpeople.com/mycomputers/SPARCstationSLC.jpg">SparcStation SLC</a></td></tr></tbody></table>
 If memory serves, it cost $250 installation fee and $70/month, and Tom Jennings helped me plug in one of the modems at the University PoP.  I already had two SparcStations, a <a href="https://en.wikipedia.org/wiki/SPARCstation#Integrated_monitor/portable_systems">SparcStation SLC</a> with an external SCSI hard disk I bought on Sun's employee purchase program, and a <a href="https://en.wikipedia.org/wiki/SPARCstation_1">SparcStation 1+</a>, the prizes Steve Kleiman and I won in an internal "Vision Quest" at Sun. My apartment was open-plan and the 1+'s fans were too noisy to let me sleep, but the SLC was fanless and could be on-line continuously. The SLC, the hard disk and the modem sat on a conveniently large window ledge.  There was a wired Ethernet connection from the window ledge to the desk. When I say "wired" I mean that it ran on the apartments internal phone wires, but the distance was short enough that it worked.<br />
 <br />
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimhA-ZK6o6w6TwF-2RCKhlZwPid3ETmRKdqeGNF36OS-pecuCyek6WZ9Onzqz3oVYQLV3Z_kkl7WgPqwWoUQTOHfX6YURzWrSaOl1y45XijFgNNXQGZAA7v9PRRSp64TYXa-axhdxloekXD28KROYNNGh9An8cR_YV-ah9TSITLtME6S78UkpvG64z5VOo/s496/SPARCstation_1.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="496" data-original-width="448" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimhA-ZK6o6w6TwF-2RCKhlZwPid3ETmRKdqeGNF36OS-pecuCyek6WZ9Onzqz3oVYQLV3Z_kkl7WgPqwWoUQTOHfX6YURzWrSaOl1y45XijFgNNXQGZAA7v9PRRSp64TYXa-axhdxloekXD28KROYNNGh9An8cR_YV-ah9TSITLtME6S78UkpvG64z5VOo/w181-h200/SPARCstation_1.jpg" width="181" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://en.wikipedia.org/wiki/SPARCstation_1">SparcStation 1+</a></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimhA-ZK6o6w6TwF-2RCKhlZwPid3ETmRKdqeGNF36OS-pecuCyek6WZ9Onzqz3oVYQLV3Z_kkl7WgPqwWoUQTOHfX6YURzWrSaOl1y45XijFgNNXQGZAA7v9PRRSp64TYXa-axhdxloekXD28KROYNNGh9An8cR_YV-ah9TSITLtME6S78UkpvG64z5VOo/s496/SPARCstation_1.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="496" data-original-width="448" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimhA-ZK6o6w6TwF-2RCKhlZwPid3ETmRKdqeGNF36OS-pecuCyek6WZ9Onzqz3oVYQLV3Z_kkl7WgPqwWoUQTOHfX6YURzWrSaOl1y45XijFgNNXQGZAA7v9PRRSp64TYXa-axhdxloekXD28KROYNNGh9An8cR_YV-ah9TSITLtME6S78UkpvG64z5VOo/w181-h200/SPARCstation_1.jpg" width="181" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://en.wikipedia.org/wiki/SPARCstation_1">SparcStation 1+</a></td></tr></tbody></table>
 This setup was remarkably reliable. If the call dropped, the SunOS <a href="https://datatracker.ietf.org/doc/html/rfc1055">SLIP</a> software automatically re-dialled it. I have no memory of problems with it; I think the only times it was down were when I upgraded the modems as faster ones became available, or when I put the whole system on an Uninterruptible Power Supply. It may have been then that I noticed it had been up over 500 days. I didn't really need the UPS, Palo Alto's municipal utilities are also very reliable.<br />
 <br />
 As I recall it ran happily until I passed the apartment on to my step-daughter's family in summer 2000. Seven years of impeccable service.  By that time I was working on the LOCKSS program at Stanford, and we had DSL service from Stanford IT. So I went from an ISP with great tech support to an ISP with great support. Then as I relate in <a href="https://blog.dshr.org/2021/01/isp-monopolies.html"><i>ISP Monopolies</i></a> in September 2001 <a href="https://www.paloaltoonline.com/morgue/2001/2001_09_28.ftth28.html">Palo Alto's Fiber-to-the-Home trial</a> went live and I had 10Mbit bi-directional fiber with great support from Palo Alto Utilities. Since the trial ended our ISP has been <a href="https://www.sonic.com/">Sonic</a>, first over 3/1Mbit DSL and now over <a href="https://blog.dshr.org/2021/01/isp-monopolies.html">gigabit fiber</a>. So we are really used to having great support from our ISP.<br />
@@ -122,7 +233,7 @@ date: 2024-04-09, updated: 2024-04-09, from: Bruce Schneier blog
 
 ---
 
-## Need more evidence that RFK Junior is working for Trump?
+## More evidence that RFK Junior is working for Trump (as if you needed it)
 
 date: 2024-04-09, from: Robert Reich's blog
 

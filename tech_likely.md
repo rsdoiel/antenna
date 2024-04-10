@@ -1,11 +1,550 @@
 ---
 title: tech likely 2024.15
-updated: 2024-04-09 08:39:10
+updated: 2024-04-10 08:58:06
 ---
 
 # tech likely 2024.15
 
-(date: 2024-04-09 08:39:10)
+(date: 2024-04-10 08:58:06)
+
+---
+
+## Long Live the B’s
+
+date: 2024-04-10, updated: 2024-04-10, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/04/10/long-live-the-bs/>
+
+---
+
+## Microsoft may want to add a dedicated Windows 11 button for ads and promos
+
+date: 2024-04-10, from: OS News
+
+The company is seemingly contemplating on whether to add a new &#8220;Recommended&#8221; button on the Taskbar. Interestingly, it is unfinished at the moment, or perhaps Microsoft is just not sure if it should proceed with this button at all. ↫ Sayan Sen at Neowin The beatings will continue until morale improves. 
+
+<https://www.osnews.com/story/139234/microsoft-may-want-to-add-a-dedicated-windows-11-button-for-ads-and-promos/>
+
+---
+
+## “Why does part of the Windows 98 Setup program look older than the rest?”
+
+date: 2024-04-10, from: OS News
+
+Well, this is something I never knew. Over on the retrocomputing section of StackExchange, someone asked why the second phase of the Windows 98 installation looked decidedly different from the third phase, even though they&#8217;re both graphical phases (the first phase is textual). The answer turns out to be both surprising, and entirely predictable. The first phase is a DOS program called DOSSETUP.BIN, which is the infamous blue part of the installation. The second part, however, is what we&#8217;re interested in here, and if the first phase is DOS, and the third phase is Windows 98 itself&#8230; What do you think the second phase is running? Yeah, exactly. Basically, because it is running under Windows 3.1 at that point. The second uses this minimal Windows 3.1 to run a Windows 3 program, W98SETUP.BIN (specified as the “shell” in SYSTEM.INI). This starts by copying more files to support all the information-gathering during setup, and various other niceties including the 3D look shown in your screenshot (the contents of the PRECOPY CABs); it ends by copying most of Windows 98, setting the system up so that it will boot Windows 98 from the target drive, and rebooting. ↫ Stephen Kitt So, in order to install Windows 98, you first run DOS, followed by Windows 3.1, ending in Windows 98. I have no idea why this is so funny to me, especially since it fits entirely within expectations of how Microsoft does things. 
+
+<https://www.osnews.com/story/139231/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest/>
+
+---
+
+##  Eclipse COMPLAINTS? 
+
+date: 2024-04-10, updated: 2024-04-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/eclipse-complaints>
+
+---
+
+## Nix is a better Docker image builder than Docker's image builder
+
+date: 2024-04-10, from: Ze Iaso's blog
+
+ 
+
+<https://xeiaso.net/talks/2024/nix-docker-build/>
+
+---
+
+##  The Climate Charts Are Not Okay. &#8220;The charts are hilariously underpowered attempts... 
+
+date: 2024-04-10, updated: 2024-04-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044356-the-climate-charts-are-no>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-10, from: Dave Winer's Scripting News)
+
+For me, using FSD in my Tesla is like riding a roller coaster. I don't trust the car not to kill me though. I spend most of my working life dealing with bugs in software. It's very easy for me to imagine what could go wrong. I don't understand how people can trust a computer with their lives this way. It's also disconcerting that the car coming at me in the other direction could be computer-driven. And nowadays when I see the other car is a Tesla, esp this month when everyone's getting a free demo of FSD, it's somewhat likely the OP is a computer. 
+
+<http://scripting.com/2024/04/10.html#a135000>
+
+---
+
+## Maldives 2024
+
+date: 2024-04-10, from: Alex Schroeder's Blog
+
+<h1 id="maldives-2024">Maldives 2024</h1>
+
+<p>The biosphere as we know it is ending and I’m spending two weeks in the Maldives with my wife for her 50th birthday. I feel conflicted.</p>
+
+<p>The trip to get here was long. Zurich Doha by plane, Doha Male by plane, Male Kurudu by water-plane, Kurudu Komandoo by speedboat. I felt like sleeping for 20h when we finally got here. And all the <a href="2024-04-05-travel">anxiety before leaving</a> was terrible, too.</p>
+
+<p>With that, I think we have all out must-see locations before the end. We went to the <a href="2017-10-28_Australia">Great Barrier Reef</a> in 2017, to the <a href="Galapagos_2020">Galapagos</a> in 2020 and now to the Maldives.</p>
+
+<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Maldives">#Maldives</a></p>
+
+<p><strong>2024-04-06</strong>.
+The last leg of the journey – our water-plane was delayed because of the bad weather.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-1.jpg" alt="" /></p>
+
+<p>Looking out from the porch the ocean is blue, the sky is blue and the reef begins a few meters in.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-5.jpg" alt="" /></p>
+
+<p>We go snorkeling every day. Our last two trips showed me that we need an underwater camera. Oh to have videos of Reef Number Nine in Australia or the penguins and sea lions in the Galapagos! I bought a GoPro Hero 10 before we left.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-2.jpg" alt="" /></p>
+
+<p>This cowtail stingray (?) we keep seeing is about 2m long and likes to hide in the sand.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-3.jpg" alt="" /></p>
+
+<p>There’s sea grass sprouting right now and sea turtles grazing.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-4.jpg" alt="" /></p>
+
+<p>Black tipped reef sharks… harmless! At a later point we did see it attack something hidden in the rocks and it was scary to see!</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-6.jpg" alt="" /></p>
+
+<p>Most corals look dreary! It’s certainly not as colourful and busy as in Australia or the Galapagos.
+This purple giant is cool, though.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-7.jpg" alt="" /></p>
+
+<p>There are still plenty of colourful fish.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-8.jpg" alt="" /></p>
+
+<p>Whenever we’re away on a trip, we play games.
+The most popular tropical island game is Race for the Galaxy.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-9.jpg" alt="" /></p>
+
+<p>Yesterday we also played <a href="http://mixedsignals.ml/games/petition/">Petition</a> by <a class="account" href="https://mastodon.xyz/@klaatu" title="@klaatu@mastodon.xyz">@klaatu</a>.</p>
+
+<p><strong>2024-04-10</strong>. More pictures.</p>
+
+<p>We saw our first hermit crabs in Costa Rica where we spent our honey moon. We love these little ones. Maybe because they’re slow and easily scared and therefore obviously harmless.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-10.jpg" alt="" /></p>
+
+<p>The parrot fish have super sharp teeth and gnaw on the corals. And when you’re snorkeling, you can hear them. Kchrrr! Kchhhrrk!</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-11.jpg" alt="" /></p>
+
+<p>I also love those lone corals harbouring a small school of tiny fearful fish that retreat and hide in the coral as somebody approaches.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-12.jpg" alt="" /></p>
+
+<p>When you swim past the nearby reef the bottom drops out and the deep blue begins. I am always afraid some huge fish will show up.</p>
+
+<video src="/wiki/2024-04-06-maledives-14.mp4" poster="2024-04-06-maledives-13.jpg" width="1920" height="1080" controls muted>
+<img alt="Image of fishes and the deep blue ocean" src="2024-04-06-maledives-13.jpg"/><br>
+<a alt="Video of the same fishes" href="/wiki/2024-04-06-maledives-14.mp4">14 second video</a>
+</video>
+
+<p>There is a strange tourism industry, here. The islands are either uninhabited, inhabited by locals, or reserved for tourism. Tourists can stay on the “local islands” since 2007. Natives are only allowed to work on the tourist islands.</p>
+
+<p>The capital city is <a href="https://en.wikipedia.org/wiki/List_of_cities_proper_by_population_density">one of the densest urban areas</a> on the planet. Just look at the image of <a href="https://en.wikipedia.org/wiki/Mal%C3%A9">Malé on Wikipedia</a>.</p>
+
+<p>I would lament this urban sprawl, the land reclamation, the garbage problem, the democracy deficit, the dependence on tourism – but I know what my friend Peter would say, pointing and the Factfulness book. Check out these stats from the <a href="https://de.m.wikipedia.org/wiki/Malediven">German Wikipedia page on the Maldives</a>:
+In 2020, the Maldives had 541000 inhabitants.
+In 1950, they had about 74000 inhabitants. At the time, a woman had about 7.5 children on average in 1980 but these days they are so much better off that the growth rate has dropped to 1.8% in 2020 and a woman has about 1.8 children on average. Life expectancy rose from 34.5 years in 1950 to 81 for women and 77.8 for men in 2020. An amazing improvement from the point of view of the locals.</p>
+
+<p>From my green perspective, though… let’s not forget the garbage island <a href="https://en.m.wikipedia.org/wiki/Thilafushi">Thilafushi</a>.</p>
+
+<p>If you’re wondering why I’m basically skimming, reading and finally summarizing Wikipedia articles on my blog, I gues the answer is that this is how I try to deal with it all. To not close my eyes.</p> 
+
+<https://alexschroeder.ch/view/2024-04-06-maledives>
+
+---
+
+## Wooden internet kitchen radio powered by Raspberry Pi 4 and a DigiAMP+ HAT
+
+date: 2024-04-10, from: Raspberry Pi News (.com)
+
+<p>Redditor OracleDude33 built this wooden Raspberry Pi 4-powered internet kitchen radio with an impossibly smooth finish.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/wooden-internet-kitchen-radio-powered-by-raspberry-pi-4-and-a-digiamp-hat/">Wooden internet kitchen radio powered by Raspberry Pi 4 and a DigiAMP+ HAT</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/wooden-internet-kitchen-radio-powered-by-raspberry-pi-4-and-a-digiamp-hat/>
+
+---
+
+## Virtually and actually, LXC 6 and Incus 6 are here – both LTS versions
+
+date: 2024-04-10, updated: 2024-04-10, from: Liam Proven's articles at the Register
+
+<h4>There's a new version of Canonical's LXD too, but its community fork seems to be thriving</h4>
+      <p>The community fork of what is now Canonical's in-house virtualization tool seems to be doing well, with major new releases of Incus, LXC and associated tools.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/04/10/lxc_6_and_incus_6/>
+
+---
+
+## Avi Wigderson, Complexity Theory Pioneer, Wins Turing Award
+
+date: 2024-04-10, from: Quanta Magazine
+
+The prolific researcher found deep connections between randomness and computation and spent a career influencing cryptographers, complexity researchers and more.            <p>The post <a href="https://www.quantamagazine.org/avi-wigderson-complexity-theory-pioneer-wins-turing-award-20240410/" target="_blank">Avi Wigderson, Complexity Theory Pioneer, Wins Turing Award</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/avi-wigderson-complexity-theory-pioneer-wins-turing-award-20240410/>
+
+---
+
+## On video podcasts
+
+date: 2024-04-10, from: Manu - I write blog
+
+
+                <p><a href="https://robhope.com/">Rob</a> has a <a href="https://yo.fm/">podcast</a>. It started way back in 2019—damn time flies—and season 3 just started. If you’re into tech/design give it a listen. But Rob’s podcast is just the excuse I needed to complain about something I find quite annoying: video podcasts.</p>
+<p>Season 3 of Yo! is “video first”. Podcasts switching to video to be on YouTube ranks quite high on the list of things that I find annoying. I get why they’re doing it. I’m not an idiot. Yet I still find it annoying. Especially because podcasts that were audio-only would start referencing and talking about things that are “on the screen right now” and now I’m missing out on parts of the conversation because I’m listening to a podcast while I’m driving.</p>
+<p>Video podcasts are the worst of both worlds. They’re not as good as actual video content designed to be consumed exclusively as video and they’re inferior to audio-only podcasts. And if you disagree <a href="mailto:hello@manuelmoreale.com">let me know why</a>.</p>                <hr>
+                <h2>Get in touch</h2>                <p>Have something to share? Want me as your <a href="https://manuelmoreale.com/i-ll-read-it">first reader</a>? Get in touch. My inbox is always open.</p>                <a href="mailto:hello@manuelmoreale.com">Connect</a> — 
+                <a href="https://manuelmoreale.com/guestbook">Guestbook</a>
+                <hr>
+                <h2>One a month</h2>                <p>That's how little it takes to help with my <a href="https://manuelmoreale.com/on-dreams-and-goals">goal</a>. If you feel generous, consider supporting what I do.</p>                <a href="https://ko-fi.com/manuelmoreale">Donate</a> — 
+                <a href="https://manuelmoreale.com/supporters">Supporters</a>
+                <hr>
+                <h2>People and Blogs</h2>                <p>I ask people to talk about themselves and their blogs. <a href="https://peopleandblogs.com/">Learn more</a> or subscribe.</p>                <a href="https://manuelmoreale.com/feed/peopleandblogs">RSS</a> — 
+                <a href="https://buttondown.email/peopleandblogs">Email</a>
+             
+
+<https://manuelmoreale.com/@/page/L1Bow5RZitODaVOx>
+
+---
+
+## Was that a big wildfire?
+
+date: 2024-04-10, from: Hannah Richie at Substack
+
+Tracking global data on the scale of wildfires across the world. 
+
+<https://www.sustainabilitybynumbers.com/p/wildfire-data>
+
+---
+
+## Gritty monochrome photograph
+
+date: 2024-04-10, from: Dave Winer's Scripting News
+
+<p>Via ChatGPT, and a prompt <a href="https://www.facebook.com/photo/?fbid=2223300981210628&set=a.113966572144090&notif_id=1712714911826388&notif_t=feedback_reaction_generic&ref=notif">written</a> by Brad Pettit: "Gritty monochrome photograph, midwestern family, juxtapose common legal vices.”</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/04/09/grittyMonochromePhotograph.png"></center>Gritty monochrome photograph.</div></p>
+ 
+
+<http://scripting.com/2024/04/09/030033.html?title=grittyMonochromePhotograph>
+
+---
+
+##  Sherwood has a really interesting & bloggy front page for a news... 
+
+date: 2024-04-10, updated: 2024-04-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044357-sherwood-has-a-really-int>
+
+---
+
+## Deep Bug
+
+date: 2024-04-10, from: Marginallia log
+
+The project has been haunted by a mysterious bug since sometime February. It relates to the code that constructs the index, particularly the code that merges partial indices.
+In short the search engine constucts the reverse index through successive merging of smaller indices, which reduces the overall memory requirement.
+You can conceptualize the revese index itself as two files, one with offset pointers into another file, which has sorted numbers. This code runs after each partition finishes crawling and processing its data, and has a run time of about 4 hours. 
+
+<https://www.marginalia.nu/log/a_104_dep_bug/>
+
+---
+
+## iXsystems: focusing on Linux makes more sense than FreeBSD
+
+date: 2024-04-09, from: OS News
+
+A few weeks ago we talked about how iXsystems, the company behind TrueNAS CORE and SCALE, has all but confirmed that its FreeBSD-based CORE product will be put in maintenance mode, while the Linux-based SCALE product will get all the attention and focus from here on out. In an interview with Blocks &#38; Files, the company gave more insight into this choice. “We had a huge chunk of our engineering staff spending time improving FreeBSD as opposed to working on features and functionalities. What’s happened now with the transition to having a Debian basis, the people I used to have 90 percent of their time working on FreeBSD, they’re working on ZFS features now … That’s what I want to see; value add for everybody versus sitting around, implementing something Linux had a years ago. And trying to maintain or backport, or just deal with something that you just didn’t get out of box on FreeBSD.” “It’s not knocking against FreeBSD. We love it. That’s our heritage. That’s our roots, I was on the CORE team elected twice. So believe me, if I felt like I could have stayed on FreeBSD for the next 20 years, I would have absolutely preferred to do that … But at some point, you gotta read the writing on the wall and say, well, all the the vendor supported-innovations are happening on the Linux side these days.”  BSD aficionados don’t like this change. Moore said: “Talk is cheap and complaints are free. You know, everyone loves to complain about it. But … if people wanted to push FreeBSD forward for the last 15 years, they would have.” ↫ Chris Mellor at Blocks &#38; Files Above all else, my personal north star is choice, especially in technology, and as such, I want iXsystems to keep focusing on FreeBSD so that not everyone is using Linux for server- and server-like workloads. The fact that TrueNAS was a FreeBSD-based product for this long was amazing, and I would definitely have preferred if it stayed that way for many, many more years to come. However, I don&#8217;t think the people of TrueNAS are saying anything wrong or outrageous here. They&#8217;ve got employees to feed, and the money is in Linux, not FreeBSD. If they spend more money, time, and resources on getting FreeBSD on par with features Linux has had for ages than on actually developing their own product &#8211; TrueNAS &#8211; then they&#8217;re fighting a losing battle. Honestly, I&#8217;m surprised it&#8217;s taken them this long to take this controversial step. All we can hope for is that the things they work on, the features they develop, will make it to FreeBSD regardless. 
+
+<https://www.osnews.com/story/139225/ixsystems-focusing-on-linux-makes-more-sense-than-freebsd/>
+
+---
+
+## HP 200LX and related palmtops
+
+date: 2024-04-09, from: OS News
+
+The HP 200 LX was a successful palmtop computer introduced in 1994. HP continued to sell it through 1999, an unusually long run for a 1990s computer model. In this blog post, we’ll dig into this largely forgotten form factor and why it became such a quiet success. ↫ Dave Farquhar These devices are incredibly cool, but I disagree that they disappeared, as the blog post states. Just recently I reviewed my main laptop, a very small Chuwi MiniBook (2023) with the N100, and in that article I also listed some other similar options that are still being made and sold today, from companies like GPD and OneNetbook. 
+
+<https://www.osnews.com/story/139222/hp-200lx-and-related-palmtops/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-04-09, from: Miguel de Icaza Mastondon feed)
+
+<p>While my UI for Godot on iPad is making a lot of progress, I have come to realize that getting assets into Godot or loading existing projects is an area I haven’t touched.</p><p>The iPad doesn’t make it easy to get files into it.</p><p>Just did a walkthrough - it is possible today to import files, but it is cumbersome - and this is not what I want people’s first impression to be.</p><p>And getting your project out is also not obvious.</p><p>What would people would like to see in terms of getting data in and out?</p> 
+
+<https://mastodon.social/@Migueldeicaza/112243604382776611>
+
+---
+
+##  The Design of Books: An Explainer for Authors, Editors, Agents, and Other... 
+
+date: 2024-04-09, updated: 2024-04-09, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044354-the-design-of-books-an>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-09, from: Dave Winer's Scripting News)
+
+The <a href="https://news.scripting.com/?tab=blogroll">last tab</a> on news.scripting.com now contains news from the <a href="https://imgs.scripting.com/2024/04/09/blogrollScreenShot.png">blogroll</a> on scripting.com. Same feeds, different <a href="https://imgs.scripting.com/2024/04/09/newsScriptingScreenshot.png">view</a>. 
+
+<http://scripting.com/2024/04/09.html#a213549>
+
+---
+
+## NASA’s DC-8 Completes Final Mission, Set to Retire
+
+date: 2024-04-09, from: NASA breaking news
+
+After 37 years of successful airborne science missions, NASA’s DC-8 aircraft completed its final mission and returned to the agency’s Armstrong Flight Research Center Building 703 in Palmdale, California, on April 1. The DC-8 and crew were welcomed back with a celebratory water salute by the U.S Air Force Plant 42 Fire Department after completing [&#8230;] 
+
+<https://www.nasa.gov/image-article/nasas-dc-8-completes-final-mission-set-to-retire/>
+
+---
+
+##  David Lynch: Depression Kills Creativity 
+
+date: 2024-04-09, updated: 2024-04-09, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/david-lynch-depression-kills-creativity>
+
+---
+
+## Unlocking Puyo Puyo Fever for Mac's English Mode
+
+date: 2024-04-09, from: Tilde.news
+
+<p><a href="https://tilde.news/s/wupd5w/unlocking_puyo_puyo_fever_for_mac_s">Comments</a></p> 
+
+<https://www.mistys-internet.website/blog/blog/2024/04/07/unlocking-puyo-puyo-fever-for-macs-english-mode/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-09, from: Dave Winer's Scripting News)
+
+Far more important than machine consciousness is: 1. Human consciousness. 2. Species-level consciousness. 
+
+<http://scripting.com/2024/04/09.html#a202339>
+
+---
+
+## Beeper leaves beta, acquired by Automattic
+
+date: 2024-04-09, from: OS News
+
+If you haven’t already heard of Beeper, welcome! Beeper is a universal chat app for Android, iOS and desktop. Our goal is to build the best chat app on earth.  Beeper is built on an open source chat protocol called Matrix. Over time, we’ll help people migrate from proprietary, siloed chat networks to an open standard for chat. If you’re interested in learning about this, we’ve written more about our intentions. ↫ Beeper team Beeper is just great. Because I&#8217;m European and have ties to two different countries with vastly different chat preferences, as well as a number of friends living all over Europe and the US, I&#8217;ve always had to deal with at least four different instant messaging applications. Beeper, and especially the recent completely redesigned Android version, is so good and seamless that I no longer need to use the individual applications at all. It&#8217;s not perfect &#8211; the new Android version (the iOS version is old and outdated compared to the Android one) still has some issues. If you receive a video and play it, it doesn&#8217;t maximise unless you perform a very delicate zoom in pinch. Sometimes, sending video fails. Some emoji replies on some services look huge and pixellated. I&#8217;m sure these are all relatively low-hanging fruit types of bugs that&#8217;ll get fixes over the coming weeks and months now that the application is out of beta. However, the actual core of the application has been working amazingly well for me. Beeper also has another major announcement. I’m excited to announce that Beeper has been acquired by Automattic. This acquisition marks the beginning of an exciting new chapter as we continue our mission to create the best chat app on earth. ↫ Eric Migicovsky Automattic is the company behind WordPress, Tumblr, Pocket Casts, and a whole load of other products and services. Beeper seems like a good fit, since Automattic recently also acquired Texts.com, another multi-platform messaging client. 
+
+<https://www.osnews.com/story/139220/beeper-leaves-beta-acquired-by-automattic/>
+
+---
+
+## OmniFocus 4.2
+
+date: 2024-04-09, from: Michael Tsai
+
+Ainsley Bourque Olson: For anyone running the Pro edition of OmniFocus, this release also introduces some very exciting new custom perspective rules that support filtering based on dates, repeats, and more: New &#8220;Has date in range&#8221; rule type enables filtering a perspective by assigned date range. New &#8220;Is repeating&#8221; rule enables filtering repeating tasks. New [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/09/omnifocus-4-2/>
+
+---
+
+## Copyright Takedown Against Hundreds of Wordle Clones
+
+date: 2024-04-09, from: Michael Tsai
+
+Jason Koebler: The New York Times has filed a series of copyright takedown requests against Wordle clones and variations in which it asserts not just ownership over the Wordle name but over the broad concepts and mechanics of the word game, which includes its &#8220;5x6 grid&#8221; and &#8220;green tiles to indicate correct guesses.&#8221;The Times filed [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/09/copyright-takedown-against-hundreds-of-wordle-clones/>
+
+---
+
+## AirTag Firmware Rollout Date
+
+date: 2024-04-09, from: Michael Tsai
+
+iSoftware Updates (via Sebastiaan de With): Looks like Apple accidentally set the deployment dates for the 2.0.73 AirTag firmware to &#8220;m/d/24&#8221; instead of &#8220;m/d/2024&#8221; that has used in previous versions and which the AirTag update system uses as date format.As a result, AirTags think the deployment dates are in the year 24 and they just [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/09/airtag-firmware-rollout-date/>
+
+---
+
+## Daylight Saving Time UI Design Test
+
+date: 2024-04-09, from: Michael Tsai
+
+Nikita Prokopov (Hacker News): I have five clocks in my house. All of them I have to change manually twice a year: one hour back in the Autumn and one hour forward in the Spring. Today was one of these days. Each clock presents a unique puzzle. Three out of five have no direct controls [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/09/daylight-saving-time-ui-design-test/>
+
+---
+
+##  Finally: an answer to Aaron&#8217;s question about the confusing freezer knob: do... 
+
+date: 2024-04-09, updated: 2024-04-09, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044355-finally-an-answer-to-aaro>
+
+---
+
+## Google details privacy and security features of its new Find My Device network
+
+date: 2024-04-09, from: OS News
+
+Yesterday, I posted an item about the updated Find My Device network Google launched for Android, but I forgot to link to an additional blog post by Google about the various security and privacy precautions they&#8217;ve taken. One aspect in particular stands out as something new that Apple&#8217;s Find My network doesn&#8217;t do (yet): This is a first-of-its-kind safety protection that makes unwanted tracking to a private location, like your home, more difficult. By default, the Find My Device network requires multiple nearby Android devices to detect a tag before reporting its location to the tag&#8217;s owner. Our research found that the Find My Device network is most valuable in public settings like cafes and airports, where there are likely many devices nearby. By implementing aggregation before showing a tag’s location to its owner, the network can take advantage of its biggest strength – over a billion Android devices that can participate. This helps tag owners find their lost devices in these busier locations while prioritizing safety from unwanted tracking near private locations. In less busy areas, last known location and Nest finding are reliable ways to locate items. ↫ Dave Kleidermacher In addition, when you&#8217;re at home, your devices won&#8217;t contribute any information either. There&#8217;s a whole bunch of other things in there, too, so head on over if you&#8217;re curious. 
+
+<https://www.osnews.com/story/139218/google-details-privacy-and-security-features-of-its-new-find-my-device-network/>
+
+---
+
+##  Hank Green lost his hair during chemotherapy and it grew back curly.... 
+
+date: 2024-04-09, updated: 2024-04-09, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044353-john-green-lost-his-hair>
+
+---
+
+## Acorn Archimedes A3000 Replica PCB
+
+date: 2024-04-09, from: Tilde.news
+
+<p><a href="https://tilde.news/s/ecghqj/acorn_archimedes_a3000_replica_pcb">Comments</a></p> 
+
+<https://www.tindie.com/products/bobsbits/acorn-archimedes-a3000-replica-pcb/>
+
+---
+
+## $10 million says we won’t see human-superior AGI by the end of 2025
+
+date: 2024-04-09, from: Gary Marcus blog
+
+An open letter to Elon Musk 
+
+<https://garymarcus.substack.com/p/10-million-says-we-wont-see-human>
+
+---
+
+##  Amanda, There Is No Audience 
+
+date: 2024-04-09, updated: 2024-04-09, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/amanda-there-is-no-audience>
+
+---
+
+## NASA Astronaut Loral O’Hara to Discuss Space Station Mission
+
+date: 2024-04-09, from: NASA breaking news
+
+After spending six-and-a-half-months aboard the International Space Station, NASA astronaut Loral O’Hara will participate in a news conference at 10:45 a.m. EDT Monday, April 15, at the agency’s Johnson Space Center in Houston. The news conference will air live on NASA+, NASA Television, the NASA app, YouTube, and the agency’s website. Learn how to stream [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-astronaut-loral-ohara-to-discuss-space-station-mission/>
+
+---
+
+##  &#8220;Buying a soccer club is probably one of the worst investments you... 
+
+date: 2024-04-09, updated: 2024-04-09, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044350-buying-a-soccer-club-is>
+
+---
+
+##  As food service in US prisons gets outsourced, quantity and quality is... 
+
+date: 2024-04-09, updated: 2024-04-09, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044349-as-food-service-in-us>
+
+---
+
+## New NASA Strategy Envisions Sustainable Future for Space Operations
+
+date: 2024-04-09, from: NASA breaking news
+
+To address a rapidly changing space operating environment and ensure its preservation for generations to come, NASA released the first part of its integrated Space Sustainability Strategy, on Tuesday advancing the agency’s role as a global leader on this crucial issue. “The release of this strategy marks true progress for NASA on space sustainability,” said [&#8230;] 
+
+<https://www.nasa.gov/news-release/new-nasa-strategy-envisions-sustainable-future-for-space-operations/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-09, from: Dave Winer's Scripting News)
+
+BTW, straight -- everything Kara Swisher claims to be, the insider with the best view of the industry, they got that wrong. The things that matter happen far away from her conferences and dinners. It's as if Silicon Valley were Hollywood. To some people it is. But the big changes are never recognized by those people until they're juggernauts. They don't make the changes. They soak them up and devour them. They best of the people she writes about are not creators, they're pirates. 
+
+<http://scripting.com/2024/04/09.html#a164245>
+
+---
+
+## Seeing Totality
+
+date: 2024-04-09, from: NASA breaking news
+
+On April 8, 2024, a NASA photographer captured the total solar eclipse in Dallas. A small part of North America, from Mexico’s Pacific coast to the Atlantic coast of Newfoundland, Canada, saw the total solar eclipse, while all North America and parts of Central America and Europe saw a partial solar eclipse. The next total [&#8230;] 
+
+<https://www.nasa.gov/image-article/seeing-totality/>
+
+---
+
+## Through Astronaut Eyes, Virtual Reality Propels Gateway Forward
+
+date: 2024-04-09, from: NASA breaking news
+
+NASA astronauts are using virtual reality to explore Gateway. When they slip on their headsets, they're not just seeing the station—they're in it, meticulously surveying every detail and offering crucial insights on design and functionality. 
+
+<https://www.nasa.gov/general/through-astronaut-eyes-virtual-reality-propels-gateway-forward/>
+
+---
+
+## On Tesla, Nazis, X and the Macintosh of cars
+
+date: 2024-04-09, from: Dave Winer's Scripting News
+
+<p>I'm not sure I'd buy a Tesla today because of Musk's politics which he puts in our face, thus influencing other people to inflict their nightmares on us. I bet in the end Musk will be responsible for a lot of people dying. </p>
+<p>On the other hand, I love the car, and thus love the people who developed it, who I don't know. I hope they're not Nazis. I don't see how someone who could design such a thing as a Tesla Model Y, in <a href="http://scripting.com/2021/11/19/140204.html?title=myNewTesla">2021</a>, the year I bought mine, could be anything like that. </p>
+<p>This car is going to be copied. There will be a generation of cars that comes along, some that have not arrived yet, that will have to stand up to a comparison to a Tesla. This is the original. </p>
+<p>To be alive when such a product comes out and not own one, that would be hard for me to do. I don't think my "support" of Tesla could mean that much. The money is already spent. It costs nothing to maintain the car (one of its innovations). </p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/04/09/word.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's like the Macintosh of cars. I would have owned a Macintosh in 1984 even if I wasn't one of Apple's top developers. I also know that Steve Jobs didn't design the machine, he stole it from people at Xerox who did. Apple refined the idea, made it practical, like a Tesla, commercial. That's a huge accomplishment, commercializing and humanizing a concept like the Mac was harder than inventing, imho. I have a feeling that Tesla must stand on the shoulders of giants in a similar way. </p>
+<p>Tesla is always sending me emails, which I usually read, but last week I got one urging me to join X. I thought what bullshit. I don't want these products connected. There was a time, not that long ago, that I would have thought a car hooked up to Twitter as a fantastic and futuristic idea, but now, I think it means no one of principle, certainly no one who is a target of Nazis could work at Tesla in the future. And those are some of the brightest people out there. </p>
+<p>Meanwhile I'm looking at other company's EVs with lust. I might like a Kia or a BMW. If you're making a consumer product, Nazi branding is not a good look. And X is becoming a stinker too. </p>
+<p>PS: I was inspired to write this piece by one written by <a href="https://werd.io/">Ben Wurdmuller</a> <a href="https://werd.io/2024/i-tried-tesla-fsd">posted yesterday</a>. I've had much the same feeling about <a href="https://www.tesla.com/ownersmanual/modely/en_us/GUID-2CB60804-9CEA-4F4B-8B04-09B991368DC5.html">FSD</a>. This piece started out to be about FSD, but the preamble, like the one in his piece, got so long I decided to post it first as its own piece. </p>
+ 
+
+<http://scripting.com/2024/04/09/160339.html?title=onTeslaNazisXAndTheMacintoshOfCars>
 
 ---
 
@@ -86,43 +625,6 @@ date: 2024-04-09, from: NASA breaking news
 Dr. Lola Fatoyinbo, a research scientist at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, received the Esmond B. Martin Royal Geographical Society (RGS) Prize on April 8 in London. The prize, according to the RGS, recognizes “outstanding achievement by an individual in the pursuit and/or application of geographical research, with a particular emphasis on [&#8230;] 
 
 <https://www.nasa.gov/centers-and-facilities/goddard/nasas-lola-fatoyinbo-receives-royal-geographical-society-prize/>
-
----
-
-## Maldives 2024
-
-date: 2024-04-09, from: Alex Schroeder's Blog
-
-<h1 id="maldives-2024">Maldives 2024</h1>
-
-<p>The biosphere as we know it is ending and I’m spending two weeks in the Maldives with my wife for her 50th birthday. I feel conflicted.</p>
-
-<p>The trip to get here was long. Zurich Doha by plane, Doha Male by plane, Male Kurudu by water-plane, Kurudu Komandoo by speedboat. I felt like sleeping for 20h when we finally got here. And all the <a href="2024-04-05-travel">anxiety before leaving</a> was terrible, too.</p>
-
-<p>With that, I think we have all out must-see locations before the end. We went to the <a href="2017-10-28_Australia">Great Barrier Reef</a> in 2017, to the <a href="Galapagos_2020">Galapagos</a> in 2020 and now to the Maledivez.</p>
-
-<p>The last leg of the journey – our water-plane was delayed because of the bad weather.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-1.jpg" alt="" /></p>
-
-<p>Looking out from the porch the ocean is blue, the sky is blue, and the reef begins a few meters in.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-5.jpg" alt="" /></p>
-
-<p>We go snorkeling every day. Our last two trips showed me that we need an underwater camera. Oh to have videos of Reef Number Nine in Australia or the penguins and sea lions in the Galapagos! I bought a GoPro Hero 10 before we left.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-2.jpg" alt="" /></p>
-
-<p>This ray we keep seeing is about 2m long and likes to hide in the sand.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-3.jpg" alt="" /></p>
-
-<p>There’s sea grass sprouting right now and sea turtles grazing.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-4.jpg" alt="" />
-<img loading="lazy" src="2024-04-06-maledives-6.jpg" alt="" /></p> 
-
-<https://alexschroeder.ch/view/2024-04-06-maledives>
 
 ---
 
@@ -256,6 +758,187 @@ date: 2024-04-09, updated: 2024-04-09, from: Anil Dash
  
 
 <https://anildash.com/2024/04/09/systems-heartwarming-stories/>
+
+---
+
+## Go Developer Survey 2024 H1 Results
+
+date: 2024-04-09, updated: 2024-04-09, from: Go language blog
+
+What we learned from our 2024 H1 developer survey 
+
+<https://go.dev/blog/survey2024-h1-results>
+
+---
+
+## Announcing pl/dotnet, version 0.99 (beta)
+
+date: 2024-04-09, from: PostgreSQL News
+
+<h1>Announcing pl/dotnet, version 0.99 (beta)</h1>
+<p>pl/dotnet adds full support for C# and F# to PostgreSQL.  0.99 is our public beta release; we wish to share its amazingness with the world.</p>
+<ul>
+<li>We support all PL operations: functions, procedures, DO, SPI, triggers, records, SRF, OUT/INOUT, table functions, etc</li>
+<li>We natively support 40 out of 46 standard user types, the most of any external PL</li>
+<li>Fully NPGSQL-compatible, and SPI is exposed through the NPGSQL API for maximum compatibility</li>
+<li>In our benchmarks, C# and F# are the fastest Procedural Languages in PostrgreSQL</li>
+<li>All features are fully tested for both C# and F#, with 1013 unit tests</li>
+<li>100% free software under the PostgreSQL license</li>
+</ul>
+<p>This is a beta release; we invite usage and welcome feedback.  </p>
+<p>Accessing it:</p>
+<ul>
+<li><a href="https://pldotnet.brickabode.com/how-to-install-pl-net">Installation instructions: dpkg, docker</a></li>
+<li><a href="https://github.com/Brick-Abode/pldotnet/">Our GitHub</a></li>
+<li><a href="https://github.com/Brick-Abode/pldotnet/discussions">Our discussion forum</a></li>
+<li><a href="https://pldotnet.brickabode.com/">Our WebPage</a></li>
+<li><a href="https://github.com/Brick-Abode/pldotnet/wiki/pldotnet:-Frequently-Asked-Questions">Our FAQ</a></li>
+<li><a href="https://github.com/Brick-Abode/pldotnet/wiki/">Our Wiki</a></li>
+<li><a href="https://github.com/Brick-Abode/pldotnet/wiki/pldotnet:-White-Paper">Our whitepaper</a></li>
+</ul>
+<p>More details below.</p>
+<h2>Usage example</h2>
+<p>pl/dotnet gives you the full power of C# and F# in your PostgreSQL
+procedures, functions, and triggers.</p>
+<pre><code>CREATE OR REPLACE FUNCTION dynamic_record_generator_srf(lim INT8)  
+RETURNS SETOF record  
+AS $$  
+    upperLimit = lim.HasValue ? lim : System.Int32.MaxValue;  
+    for(long i=0;i&lt;upperLimit;i++){ yield return new object?[] { i, $"Number is {i}" }; }  
+$$ LANGUAGE plcsharp;
+
+CREATE OR REPLACE FUNCTION dynamic_record_generator_srf_fsharp(lim INT8)  
+RETURNS SETOF record  
+AS $$  
+    let upperLimit = Option.defaultValue (int64 System.Int32.MaxValue) lim  
+    seq { for i in 0L .. upperLimit - 1L do yield [| box i; $"Number is {i}" |] }  
+$$ LANGUAGE plfsharp;
+</code></pre>
+<h2>SQL features</h2>
+<p>We support all SQL function modes:</p>
+<ul>
+<li>normal procedures and functions</li>
+<li>trigger functions, will full trigger support: trigger arguments, old/new row, row rewriting (where allowed), and all the standard trigger information</li>
+<li>set-returning functions, nicely mapped to iterators in C# and sequences in F#</li>
+<li>table functions, as well as functions returning records or sets of records</li>
+<li>full support for IN/OUT/INOUT functions</li>
+</ul>
+<h2>Data type support</h2>
+<p>We support 40 PostgreSQL types, with all mapped to their NPGSQL-standard dotnet types.
+The only notable exceptions are multirange, enum, and struct types, which we hope
+to add in the future.  All datatypes are nullable, have full array support, and
+are fully unit-tested for C# and F#.  (Formatted as a list of (PostgreSQL
+type: Dotnet type) instead of a table for technical reasons.)</p>
+<ul>
+<li><code>bit</code>: <code>BitArray</code></li>
+<li><code>bool</code>: <code>Bool</code></li>
+<li><code>box</code>: <code>NpgsqlBox</code></li>
+<li><code>bpchar</code>: <code>String</code></li>
+<li><code>bytea</code>: <code>Byte[]</code></li>
+<li><code>cidr</code>: <code>(IPAddress Address, Int Netmask)</code></li>
+<li><code>circle</code>: <code>NpgsqlCircle</code></li>
+<li><code>date</code>: <code>DateOnly</code></li>
+<li><code>daterange</code>: <code>NpgsqlRange&lt;DateOnly&gt;</code></li>
+<li><code>float4</code>: <code>Float</code></li>
+<li><code>float8</code>: <code>Double</code></li>
+<li><code>inet</code>: <code>(IPAddress Address, Int Netmask)</code></li>
+<li><code>int2</code>: <code>Short</code></li>
+<li><code>int4</code>: <code>Int</code></li>
+<li><code>int4range</code>: <code>NpgsqlRange&lt;Int&gt;</code></li>
+<li><code>int8</code>: <code>Long</code></li>
+<li><code>int8range</code>: <code>NpgsqlRange&lt;Long&gt;</code></li>
+<li><code>interval</code>: <code>NpgsqlInterval</code></li>
+<li><code>json</code>: <code>String</code></li>
+<li><code>line</code>: <code>NpgsqlLine</code></li>
+<li><code>lseg</code>: <code>NpgsqlLSeg</code></li>
+<li><code>macaddr8</code>: <code>PhysicalAddress</code></li>
+<li><code>macaddr</code>: <code>PhysicalAddress</code></li>
+<li><code>money</code>: <code>Decimal</code></li>
+<li><code>path</code>: <code>NpgsqlPath</code></li>
+<li><code>point</code>: <code>NpgsqlPoint</code></li>
+<li><code>polygon</code>: <code>NpgsqlPolygon</code></li>
+<li><code>record</code>: <code>Object?[]</code></li>
+<li><code>text</code>: <code>String</code></li>
+<li><code>timestamp</code>: <code>DateTime</code></li>
+<li><code>timestamptz</code>: <code>DateTime</code></li>
+<li><code>time</code>: <code>TimeOnly</code></li>
+<li><code>timetz</code>: <code>DateTimeOffset</code></li>
+<li><code>tsrange</code>: <code>NpgsqlRange&lt;DateTime&gt;</code></li>
+<li><code>tstzrange</code>: <code>NpgsqlRange&lt;DateTime&gt;</code></li>
+<li><code>uuid</code>: <code>Guid</code></li>
+<li><code>varbit</code>: <code>BitArray</code></li>
+<li><code>varchar</code>: <code>String</code></li>
+<li><code>void</code>: <code>Void</code></li>
+<li><code>xml</code>: <code>String</code></li>
+</ul>
+<h2>SPI</h2>
+<p>Our SPI leverages the NPGSQL client library to provide a native dotnet
+implementation which is maximally compatible with existing client code.
+We intercepted the NPGSQL calls at a very low level to replace the
+client protocol handling with SPI calls; otherwise, NPGSQL was unmodified.
+We imported the NPGSQL test suite as stored procedures and are using
+it for our testing, giving us very good understanding of our compatiblity
+level.</p>
+<p>Work remains to improve the compatibility and add features.
+Our biggest category of NPGSQL tests that continue to fail is error
+mapping, because SPI throws exceptions differently than NPGSQL does.
+Such incompatibilities are minor but numerous; we continue working to
+improve them.</p>
+<p>Here are our currently tested SPI operations:</p>
+<ul>
+<li>Data Manipulation Language (DML) Operations<ul>
+<li>Select</li>
+<li>Insert</li>
+<li>Update</li>
+<li>Delete</li>
+</ul>
+</li>
+<li>Data Definition Language (DDL) Operations<ul>
+<li>Create Table</li>
+<li>Alter Table</li>
+<li>Drop Table</li>
+<li>Truncate</li>
+<li>Create Index</li>
+<li>Drop Index</li>
+<li>Create View</li>
+<li>Drop View</li>
+<li>Create Function</li>
+<li>Call Function</li>
+<li>Drop Function</li>
+<li>Create Procedure</li>
+<li>Call Procedure</li>
+<li>Drop Procedure</li>
+</ul>
+</li>
+<li>Transaction Control<ul>
+<li>Begin Transaction</li>
+<li>Commit</li>
+<li>Rollback</li>
+</ul>
+</li>
+<li>Supported Data Types: all pl/dotnet types<ul>
+<li>Basic types (including ranges)</li>
+<li>Array types</li>
+<li>Record</li>
+</ul>
+</li>
+</ul>
+<h2>What we don't have</h2>
+<p>We lack support for multirange, enum, and composite/table types.  We intend to add them.</p>
+<p>Our SPI implementation lacks some minor features like sub-transactions, and we sometimes raise errors in a different (and therefore slightly incompatible) way from NPGSQL.</p>
+<p>Our build system, with both dpkg and binary output, is functional but not as tidy as we would like.</p>
+<p>We welcome code submissions to address any of these issues, and we hope to improve them all in time.</p>
+<h2>Where to get it</h2>
+<p>Our operating system support:</p>
+<ul>
+<li>We fully support Linux and provide dpkg's for Debian and Ubuntu.  (Details on our <a href="https://pldotnet.brickabode.com/how-to-install-pl-net">installation page</a>)</li>
+<li>We have built and tested the system on OSX (arm and x86), but we have not packaged it yet.</li>
+<li>We look forward to having Windows support soon; ping us if you would like to help.</li>
+</ul>
+<h1>Getting in touch</h1>
+<p>We welcome hearing from the community.  You can reach us at our <a href="https://github.com/Brick-Abode/pldotnet/discussions">GitHub discussion forum</a> or email us at <a href="mailto:pldotnet@brickabode.com">pldotnet@brickabode.com</a>.</p> 
+
+<https://www.postgresql.org/about/news/announcing-pldotnet-version-099-beta-2838/>
 
 ---
 

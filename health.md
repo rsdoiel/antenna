@@ -1,11 +1,81 @@
 ---
 title: health 2024.15
-updated: 2024-04-09 08:39:10
+updated: 2024-04-10 08:58:06
 ---
 
 # health 2024.15
 
-(date: 2024-04-09 08:39:10)
+(date: 2024-04-10 08:58:06)
+
+---
+
+## Human immunodeficiency virus and oral microbiota: mutual influence on the establishment of a viral gingival reservoir in individuals under antiretroviral therapy
+
+date: 2024-04-10, from: Frontiers in Cellular and Infection Microbiology
+
+The role of the oral microbiota in the overall health and in systemic diseases has gained more importance in the recent years, mainly due to the systemic effects that are mediated by the chronic inflammation caused by oral diseases, such as periodontitis, through the microbial communities of the mouth. The chronic infection by the human immunodeficiency virus (HIV) interacts at the tissue level (e.g. gut, genital tract, brain) to create reservoirs; the modulation of the gut microbiota by HIV infection is a good example of these interactions. The purpose of the present review is to assess the state of knowledge on the oral microbiota (microbiome, mycobiome and virome) of HIV-infected patients in comparison to that of HIV-negative individuals and to discuss the reciprocal influence of HIV infection and oral microbiota in patients with periodontitis on the potential establishment of a viral gingival reservoir. The influence of different clinical and biological parameters are reviewed including age, immune and viral status, potent antiretroviral therapies, smoking, infection of the airway and viral coinfections, all factors that can modulate the oral microbiota during HIV infection. The analysis of the literature proposed in this review indicates that the comparisons of the available studies are difficult due to their great heterogeneity. However, some important findings emerge: (i) the oral microbiota is less influenced than that of the gut during HIV infection, although some recurrent changes in the microbiome are identified in many studies; (ii) severe immunosuppression is correlated with altered microbiota and potent antiretroviral therapies correct partially these modifications; (iii) periodontitis constitutes a major factor of dysbiosis, which is exacerbated in HIV-infected patients; its pathogenesis can be described as a reciprocal reinforcement of the two conditions, where the local dysbiosis present in the periodontal pocket leads to inflammation, bacterial translocation and destruction of the supporting tissues, which in turn enhances an inflammatory environment that perpetuates the periodontitis cycle. With the objective of curing viral reservoirs of HIV-infected patients in the future years, it appears important to develop further researches aimed at defining whether the inflamed gingiva can serve of viral reservoir in HIV-infected patients with periodontitis. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1364002>
+
+---
+
+## Oral-to-rectum microbial transmission in orthopedic patients without a history of intestinal disorders
+
+date: 2024-04-10, from: Frontiers in Cellular and Infection Microbiology
+
+The enrichment of oral taxa in the gut has recently been reported as a notable alteration in the microbial balance in patients with intestinal disorders. However, translocation in populations without such diseases remains controversial. In this study, we examined 49 pairs of tongue and rectal samples collected from orthopedic patients without a history of intestinal disorders to verify the presence of oral taxa in the rectal microbiota. The bacterial composition of each sample was determined using 16S rRNA gene sequencing and amplicon sequence variant (ASV) analysis. Although the bacterial compositions of the tongue and rectal microbiota were distinctly different, tongue ASVs were detected in 67.3% of the participants and accounted for 0.0%–9.37% of the rectal microbiota. Particularly, Streptococcus salivarius, Fusobacterium nucleatum, and Streptococcus parasanguinis were abundant in the rectal microbiota. According to the network analysis, tongue taxa, such as S. salivarius and S. parasanguinis, formed a cohabiting group with Klebsiella pneumoniae and Alistipes finegoldii in the rectal microbiota. The total abundance of tongue ASVs in the rectal microbiota was significantly higher in participants with older age, hypertension, and proton pump inhibitor (PPI) use. Our study presents an extensive translocation of oral taxa to the rectum of a population without intestinal disorders and suggests that aging, hypertension, and PPI use are associated with an increased abundance of oral taxa and potential pathogenic bacteria in the rectal microbiota. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1358684>
+
+---
+
+## Unveiling Cryptosporidium parvum sporozoite-derived extracellular vesicles: profiling, origin, and protein composition
+
+date: 2024-04-10, from: Frontiers in Cellular and Infection Microbiology
+
+Cryptosporidium parvum is a common cause of a zoonotic disease and a main cause of diarrhea in newborns. Effective drugs or vaccines are still lacking. Oocyst is the infective form of the parasite; after its ingestion, the oocyst excysts and releases four sporozoites into the host intestine that rapidly attack the enterocytes. The membrane protein CpRom1 is a large rhomboid protease that is expressed by sporozoites and recognized as antigen by the host immune system. In this study, we observed the release of CpRom1 with extracellular vesicles (EVs) that was not previously described. To investigate this phenomenon, we isolated and resolved EVs from the excystation medium by differential ultracentrifugation. Fluorescence flow cytometry and transmission electron microscopy (TEM) experiments identified two types of sporozoite-derived vesicles: large extracellular vesicles (LEVs) and small extracellular vesicles (SEVs). Nanoparticle tracking analysis (NTA) revealed mode diameter of 181 nm for LEVs and 105 nm for SEVs, respectively. Immunodetection experiments proved the presence of CpRom1 and the Golgi protein CpGRASP in LEVs, while immune-electron microscopy trials demonstrated the localization of CpRom1 on the LEVs surface. TEM and scanning electron microscopy (SEM) showed that LEVs were generated by means of the budding of the outer membrane of sporozoites; conversely, the origin of SEVs remained uncertain. Distinct protein compositions were observed between LEVs and SEVs as evidenced by their corresponding electrophoretic profiles. Indeed, a dedicated proteomic analysis identified 5 and 16 proteins unique for LEVs and SEVs, respectively. Overall, 60 proteins were identified in the proteome of both types of vesicles and most of these proteins (48 in number) were already identified in the molecular cargo of extracellular vesicles from other organisms. Noteworthy, we identified 12 proteins unique to Cryptosporidium spp. and this last group included the immunodominant parasite antigen glycoprotein GP60, which is one of the most abundant proteins in both LEVs and SEVs. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1367359>
+
+---
+
+## Illuminating microflora: shedding light on the potential of blue light to modulate the cutaneous microbiome
+
+date: 2024-04-10, from: Frontiers in Cellular and Infection Microbiology
+
+Cutaneous diseases (such as atopic dermatitis, acne, psoriasis, alopecia and chronic wounds) rank as the fourth most prevalent human disease, affecting nearly one-third of the world’s population. Skin diseases contribute to significant non-fatal disability globally, impacting individuals, partners, and society at large. Recent evidence suggests that specific microbes colonising our skin and its appendages are often overrepresented in disease. Therefore, manipulating interactions of the microbiome in a non-invasive and safe way presents an attractive approach for management of skin and hair follicle conditions. Due to its proven anti-microbial and anti-inflammatory effects, blue light (380 – 495nm) has received considerable attention as a possible ‘magic bullet’ for management of skin dysbiosis. As humans, we have evolved under the influence of sun exposure, which comprise a significant portion of blue light. A growing body of evidence indicates that our resident skin microbiome possesses the ability to detect and respond to blue light through expression of chromophores. This can modulate physiological responses, ranging from cytotoxicity to proliferation. In this review we first present evidence of the diverse blue light-sensitive chromophores expressed by members of the skin microbiome. Subsequently, we discuss how blue light may impact the dialog between the host and its skin microbiome in prevalent skin and hair follicle conditions. Finally, we examine the constraints of this non-invasive treatment strategy and outline prospective avenues for further research. Collectively, these findings present a comprehensive body of evidence regarding the potential utility of blue light as a restorative tool for managing prevalent skin conditions. Furthermore, they underscore the critical unmet need for a whole systems approach to comprehend the ramifications of blue light on both host and microbial behaviour. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1307374>
+
+---
+
+## Editorial: IgA and mucosal immunity in vaccinology and in protection from infection
+
+date: 2024-04-10, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1409111>
+
+---
+
+## Mendelian randomization analysis identifies druggable genes and drugs repurposing for chronic obstructive pulmonary disease
+
+date: 2024-04-10, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundChronic obstructive pulmonary disease (COPD) is a prevalent condition that significantly impacts public health. Unfortunately, there are few effective treatment options available. Mendelian randomization (MR) has been utilized to repurpose existing drugs and identify new therapeutic targets. The objective of this study is to identify novel therapeutic targets for COPD.MethodsCis-expression quantitative trait loci (cis-eQTL) were extracted for 4,317 identified druggable genes from genomics and proteomics data of whole blood (eQTLGen) and lung tissue (GTEx Consortium). Genome-wide association studies (GWAS) data for doctor-diagnosed COPD, spirometry-defined COPD (Forced Expiratory Volume in one second [FEV1]/Forced Vital Capacity [FVC] <0.7), and FEV1 were obtained from the cohort of FinnGen, UK Biobank and SpiroMeta consortium. We employed Summary-data-based Mendelian Randomization (SMR), HEIDI test, and colocalization analysis to assess the causal effects of druggable gene expression on COPD and lung function. The reliability of these druggable genes was confirmed by eQTL two-sample MR and protein quantitative trait loci (pQTL) SMR, respectively. The potential effects of druggable genes were assessed through the phenome-wide association study (PheWAS). Information on drug repurposing for COPD was collected from multiple databases.ResultsA total of 31 potential druggable genes associated with doctor-diagnosed COPD, spirometry-defined COPD, and FEV1 were identified through SMR, HEIDI test, and colocalization analysis. Among them, 22 genes (e.g., MMP15, PSMA4, ERBB3, and LMCD1) were further confirmed by eQTL two-sample MR and protein SMR analyses. Gene-level PheWAS revealed that ERBB3 expression might reduce inflammation, while GP9 and MRC2 were associated with other traits. The drugs Montelukast (targeting the MMP15 gene) and MARIZOMIB (targeting the PSMA4 gene) may reduce the risk of spirometry-defined COPD. Additionally, an existing small molecule inhibitor of the APH1A gene has the potential to increase FEV1.ConclusionsOur findings identified 22 potential drug targets for COPD and lung function. Prioritizing clinical trials that target these identified druggable genes with existing drugs or novel medications will be beneficial for the development of COPD treatments. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1386506>
+
+---
+
+## Advances in fecal microbiota transplantation for the treatment of diabetes mellitus
+
+date: 2024-04-10, from: Frontiers in Cellular and Infection Microbiology
+
+Diabetes mellitus (DM) refers to a group of chronic diseases with global prevalence, characterized by persistent hyperglycemia resulting from various etiologies. DM can harm various organ systems and lead to acute or chronic complications, which severely endanger human well-being. Traditional treatment mainly involves controlling blood sugar levels through replacement therapy with drugs and insulin; however, some patients still find a satisfactory curative effect difficult to achieve. Extensive research has demonstrated a close correlation between enteric dysbacteriosis and the pathogenesis of various types of DM, paving the way for novel therapeutic approaches targeting the gut microbiota to manage DM. Fecal microbiota transplantation (FMT), a method for re-establishing the intestinal microbiome balance, offers new possibilities for treating diabetes. This article provides a comprehensive review of the correlation between DM and the gut microbiota, as well as the current advancements in FMT treatment for DM, using FMT as an illustrative example. This study aims to offer novel perspectives and establish a theoretical foundation for the clinical diagnosis and management of DM. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1370999>
 
 ---
 

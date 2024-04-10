@@ -1,11 +1,45 @@
 ---
 title: mid central 2024.15
-updated: 2024-04-09 08:39:10
+updated: 2024-04-10 08:58:06
 ---
 
 # mid central 2024.15
 
-(date: 2024-04-09 08:39:10)
+(date: 2024-04-10 08:58:06)
+
+---
+
+## GaN vs SiC: A look at two popular WBG semiconductors in power
+
+date: 2024-04-10, from: EDN Blog
+
+<img width="1014" height="490" src="https://www.edn.com/wp-content/uploads/Power-devices-power-vs-frequency.png?fit=1014%2C490" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Power-devices-power-vs-frequency.png?w=1014 1014w, https://www.edn.com/wp-content/uploads/Power-devices-power-vs-frequency.png?w=300 300w, https://www.edn.com/wp-content/uploads/Power-devices-power-vs-frequency.png?w=768 768w" sizes="(max-width: 1014px) 100vw, 1014px" /><p>The GaN and SiC substrates offer strong advantages for power electronics however, key characteristics differentiate these two semiconductors. </p>
+<p>The post <a href="https://www.edn.com/gan-vs-sic-a-look-at-two-popular-wbg-semiconductors-in-power/" data-wpel-link="internal">GaN vs SiC: A look at two popular WBG semiconductors in power</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/gan-vs-sic-a-look-at-two-popular-wbg-semiconductors-in-power/>
+
+---
+
+## Samsung’s advanced packaging pivot with Nvidia production win
+
+date: 2024-04-10, from: EDN Blog
+
+<img width="1000" height="719" src="https://www.edn.com/wp-content/uploads/Hero-image-advanced-packaging.jpg?fit=1000%2C719" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-advanced-packaging.jpg?w=1000 1000w, https://www.edn.com/wp-content/uploads/Hero-image-advanced-packaging.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-advanced-packaging.jpg?w=768 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><p>Samsung is actively working to increase its silicon interposer technology to compete with TSMC's advanced packaging technologies.</p>
+<p>The post <a href="https://www.edn.com/samsungs-advanced-packaging-pivot-with-nvidia-production-win/" data-wpel-link="internal">Samsung’s advanced packaging pivot with Nvidia production win</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/samsungs-advanced-packaging-pivot-with-nvidia-production-win/>
+
+---
+
+## Diamond ‘Dogs get 3-0 series victory against the Wolf Pack
+
+date: 2024-04-10, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+The bats were hot this weekend for the Diamond ‘Dogs as they swept the University of Nevada, Reno 2-0 in a doubleheader on Saturday, April 6 and capped off the series with a mercy rule win the next day. In their last Mountain West series, Fresno State faced the University of Nevada, Las Vegas where... 
+
+<https://fscollegian.com/2024/04/diamond-dogs-get-3-0-series-victory-against-the-wolf-pack/>
 
 ---
 
@@ -13,7 +47,7 @@ updated: 2024-04-09 08:39:10
 
 date: 2024-04-09, from: EDN Blog
 
-<img width="634" height="357" src="https://www.edn.com/wp-content/uploads/Figure-5_TotemLogic.png?fit=634%2C357" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-5_TotemLogic.png?w=634 634w, https://www.edn.com/wp-content/uploads/Figure-5_TotemLogic.png?w=300 300w" sizes="(max-width: 634px) 100vw, 634px" /><p>Tips and tricks for driving the classic CMOS totem poles with logic signals, AC coupling, and grounded gates.</p>
+<img width="634" height="357" src="https://www.edn.com/wp-content/uploads/Figure-5_TotemLogic.png?fit=634%2C357" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure-5_TotemLogic.png?w=634 634w, https://www.edn.com/wp-content/uploads/Figure-5_TotemLogic.png?w=300 300w" sizes="(max-width: 634px) 100vw, 634px" /><p>Tips and tricks for driving the classic CMOS totem poles with logic signals, AC coupling, and grounded gates.</p>
 <p>The post <a href="https://www.edn.com/driving-cmos-totem-poles-with-logic-signals-ac-coupling-and-grounded-gates/" data-wpel-link="internal">Driving CMOS totem poles with logic signals, AC coupling, and grounded gates</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

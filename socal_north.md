@@ -1,11 +1,446 @@
 ---
 title: socal north 2024.15
-updated: 2024-04-09 08:39:09
+updated: 2024-04-10 08:58:06
 ---
 
 # socal north 2024.15
 
-(date: 2024-04-09 08:39:09)
+(date: 2024-04-10 08:58:06)
+
+---
+
+## COVID-19’s class of 2024 spent their first year of college online; eleven seniors said they took it in stride
+
+date: 2024-04-10, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Occidental’s class of 2024 may be graduating together in May, but just over four years ago, they were dispersed around the world individually, celebrating what seemed to be a one to two-week extension of spring break. Kyle Ahn (senior), from Rancho Palos Verdes, CA, remembered his high school sent the fateful email March 12, 2020 [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/features/2024/04/10/covid-19s-class-of-2024-spent-their-first-year-of-college-online-eleven-seniors-said-they-took-it-in-stride/2912347">COVID-19’s class of 2024 spent their first year of college online; eleven seniors said they took it in stride</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/features/2024/04/10/covid-19s-class-of-2024-spent-their-first-year-of-college-online-eleven-seniors-said-they-took-it-in-stride/2912347>
+
+---
+
+## La Reconquista (the regaining)
+
+date: 2024-04-10, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Everything changes, yet, everything stays the same. It’s that the final days of the world are also the first of the new life. That’s how everything is, different, but the same; the beach and the sea; the sun and the moon; my face and yours. But it’s not that the night and the day are [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/media/2024/04/10/la-reconquista-the-regaining/2912324">La Reconquista (the regaining)</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/media/2024/04/10/la-reconquista-the-regaining/2912324>
+
+---
+
+## Inherited style: family heirlooms as fashion
+
+date: 2024-04-10, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>In a world full of fast fashion, family heirlooms inspire one to look beyond the next season and to the next century, redefining what “trendy” looks like. Occidental College students discuss what their family heirlooms mean to them, including how the items are a source of connection and memory. Leila Anzalone Leila Anzalone (senior) has [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/04/10/inherited-style-family-heirlooms-as-fashion/2912372">Inherited style: family heirlooms as fashion</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/culture/2024/04/10/inherited-style-family-heirlooms-as-fashion/2912372>
+
+---
+
+## Outside Occidental: Gamble House showcases Craftsman-style architecture, preserves the artistic identity of Southern California
+
+date: 2024-04-10, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>In March of 1908, ground was broken at 4 Westmoreland Place, Pasadena, CA, to begin construction on a house for the Gamble family, of the cleaning goods company Procter &#38; Gamble. Two years later, the house was completed, and it still stands in the same location today. Its façade is wide and layered. Plants and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/04/10/outside-occidental-gamble-house-showcases-craftsman-style-architecture-preserves-the-artistic-identity-of-southern-california/2912370">Outside Occidental: Gamble House showcases Craftsman-style architecture, preserves the artistic identity of Southern California</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/culture/2024/04/10/outside-occidental-gamble-house-showcases-craftsman-style-architecture-preserves-the-artistic-identity-of-southern-california/2912370>
+
+---
+
+## Lessons Learned: College may not have been the ‘best four years’ of my life, but it forged me into a warrior
+
+date: 2024-04-10, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>They say college is supposed to be the best four years of your life. As a 17-year-old who was having a hard time in high school because of severe mental health issues, I felt hope. Four years later, I ask myself, who actually believes that? To think this is as good as it gets? College [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/opinions/ltes/2024/04/10/lessons-learned-college-may-not-have-been-the-best-four-years-of-my-life-but-it-forged-me-into-a-warrior/2912343">Lessons Learned: College may not have been the &#8216;best four years&#8217; of my life, but it forged me into a warrior</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/opinions/ltes/2024/04/10/lessons-learned-college-may-not-have-been-the-best-four-years-of-my-life-but-it-forged-me-into-a-warrior/2912343>
+
+---
+
+## In loving memory: Robert Torres
+
+date: 2024-04-10, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>I don’t exactly remember meeting Robert Torres. But during my first summer on campus and my sophomore year — a difficult time — I quickly came to learn that, if I walked into the Tiger Cooler around 4 p.m., there was a man behind the counter who would look at me and ask how I [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/04/10/in-loving-memory-robert-torres/2912309">In loving memory: Robert Torres</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/04/10/in-loving-memory-robert-torres/2912309>
+
+---
+
+## A spectrum of clothing available at Shades of Grey
+
+date: 2024-04-10, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Opened Feb. 10 on York Boulevard, the glassy outer wall of the Highland Park boutique for fashion label Shades of Grey opens to a selection of ready-to-wear pants, shirts, sweaters and jackets. According to brand creator Micah Cohen, he has been interested in clothes since at least the age of 5 but decided to enter [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/04/10/a-spectrum-of-clothing-available-at-shades-of-grey/2912328">A spectrum of clothing available at Shades of Grey</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/community/2024/04/10/a-spectrum-of-clothing-available-at-shades-of-grey/2912328>
+
+---
+
+## Changeist: changing the hearts and minds of youth
+
+date: 2024-04-10, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Growing up in San Jose, Changeist CEO Mario Fedelin said that the impacts of drugs and violence were prevalent in his early life. A nomination from his brother’s English teacher landed Fedelin at a sleep-away camp in Santa Cruz that introduced him to camp counselor John, who Fedelin said he connected with. Later in his [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/04/10/changeist-changing-the-hearts-and-minds-of-youth/2912332">Changeist: changing the hearts and minds of youth</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/community/2024/04/10/changeist-changing-the-hearts-and-minds-of-youth/2912332>
+
+---
+
+## ROSE, college responds to FAQ on student union drive
+
+date: 2024-04-10, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>In advance of an impending election for the Rising Occidental Student Employees (ROSE) to form a union at the college, The Occidental asked questions to a ROSE representative, Noah Weitzner (junior), and the college administration via the director of communications Rachel Warecki regarding the next steps of forming the union. According to the Information for [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/04/10/rose-college-responds-to-faq-on-student-union-drive/2912305">ROSE, college responds to FAQ on student union drive</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/04/10/rose-college-responds-to-faq-on-student-union-drive/2912305>
+
+---
+
+## Sophomore Cecilia Grané wins ASOC presidential election after eventful race
+
+date: 2024-04-10, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Ballots closed April 6 for this year&#8217;s Associated Students of Occidental College (ASOC) elections. According to elections chair Sarah Titcombe (junior), the student body voted for candidates in a variety of positions for the 2024–2025 school year. ASOC announced Monday, April 8 that Cecilia Grané (sophomore) won the presidential race with 209 votes. ASOC, Occidental&#8217;s [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/uncategorized/2024/04/10/sophomore-cecilia-grane-wins-asoc-presidential-election-after-eventful-race/2912303">Sophomore Cecilia Grané wins ASOC presidential election after eventful race</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/uncategorized/2024/04/10/sophomore-cecilia-grane-wins-asoc-presidential-election-after-eventful-race/2912303>
+
+---
+
+## How LA's Streetlights Serve As Beacons To The City's Past
+
+date: 2024-04-10, updated: 2024-04-10, from: The LAist
+
+Los Angeles has the most diversity in street light design of any American city. 
+
+<https://laist.com/news/how-to-la/los-angeles-street-lights-history-electric-moons>
+
+---
+
+## USG announces budget cut plan for 2024-25
+
+date: 2024-04-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Nine of the undergraduate programming assemblies will experience budget cuts.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/10/usg-announces-budget-cut-plan-for-2024-25/">USG announces budget cut plan for 2024-25</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/10/usg-announces-budget-cut-plan-for-2024-25/>
+
+---
+
+## Classifieds – April 10, 2024
+
+date: 2024-04-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/10/classifieds-april-10-2024/">Classifieds &#8211; April 10, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/10/classifieds-april-10-2024/>
+
+---
+
+## UConn tops a dramatic men’s March Madness
+
+date: 2024-04-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Huskies wrapped up their second consecutive title in dominant fashion. </p>
+<p>The post <a href="https://dailytrojan.com/2024/04/10/breaking-down-a-dramatic-march-madness/">UConn tops a dramatic men’s March Madness</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/10/breaking-down-a-dramatic-march-madness/>
+
+---
+
+## Shadowed fears during presidential elections
+
+date: 2024-04-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>With election season imminent, so is stress for the undocumented community.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/10/shadowed-fears-during-presidential-elections/">Shadowed fears during presidential elections</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/10/shadowed-fears-during-presidential-elections/>
+
+---
+
+## Elevator repairs inconvenience Parkside residents
+
+date: 2024-04-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Two elevators are currently being modernized to meet all new safety regulations.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/10/elevator-repairs-inconvenience-parkside-residents/">Elevator repairs inconvenience Parkside residents</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/10/elevator-repairs-inconvenience-parkside-residents/>
+
+---
+
+## Indie film returns with Los Angeles Festival of Movies
+
+date: 2024-04-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The festival takes a personal, multimedia approach to new independent cinema.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/10/indie-film-returns-with-los-angeles-festival-of-movies/">Indie film returns with Los Angeles Festival of Movies</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/10/indie-film-returns-with-los-angeles-festival-of-movies/>
+
+---
+
+## All in a summer’s bloom
+
+date: 2024-04-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>In the world of music, how do the outfits of performers and fans translate into the development of personal style?</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/10/all-in-a-summers-bloom/">All in a summer’s bloom</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/10/all-in-a-summers-bloom/>
+
+---
+
+## SDA hath taken upon itself ‘Richard III’
+
+date: 2024-04-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students showcased their craft in Second Stage’s take on Shakespeare’s classic.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/10/sda-hath-taken-upon-itself-richard-iii/">SDA hath taken upon itself ‘Richard III’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/10/sda-hath-taken-upon-itself-richard-iii/>
+
+---
+
+## The California Ice Cowboy
+
+date: 2024-04-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Chase De Leo’s unique hockey journey endears him to fellow Southern Californians.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/10/the-california-ice-cowboy/">The California Ice Cowboy</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/10/the-california-ice-cowboy/>
+
+---
+
+## To tip or not to tip, that is the question
+
+date: 2024-04-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Tipping culture is toxic and it controls us, but we can learn to tip purposefully.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/10/to-tip-or-not-to-tip-that-is-the-question/">To tip or not to tip, that is the question</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/10/to-tip-or-not-to-tip-that-is-the-question/>
+
+---
+
+## Opinion: Anti-Israel rhetoric undermines Palestinian cause, perpetuates antisemitism
+
+date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+I can&#8217;t believe I&#8217;m watching history repeat itself in front of my eyes.
+It&#8217;s been half a year since Hamas&#8217; Oct. 7 attack, and repulsive antisemitism continues to infect UCLA and other college campuses. 
+
+<https://dailybruin.com/2024/04/09/opinion-anti-israel-rhetoric-undermines-palestinian-cause-perpetuates-antisemitism/>
+
+---
+
+## ‘LA Vibes’: First Thursdays brings mural art, skating and UCLA spirit to Broxton
+
+date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 9 at 9:34 p.m.</em>
+The UCLA community celebrated Los Angeles culture Thursday at April’s First Thursdays block party.
+Roller skating, skate performances, a live mural painting and food trucks were featured on Broxton Avenue for “LA Vibes,” drawing in more than 2,200 attendees, said Eddie North-Hager, interim executive director of UCLA Media. 
+
+<https://dailybruin.com/2024/04/09/la-vibes-first-thursdays-brings-mural-art-skating-and-ucla-spirit-to-broxton/>
+
+---
+
+## Students share experiences with UCLA accommodations during Ramadan
+
+date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 9 at 9:23 p.m.</em>
+For the past four weeks, second-year psychobiology student Tasnim Jahan has woken up just before daybreak to eat before beginning her daylong Ramadan fast. 
+
+<https://dailybruin.com/2024/04/09/students-share-experiences-with-ucla-accommodations-during-ramadan/>
+
+---
+
+## Asian Pacific Coalition celebrates AAPI cultures in annual night market
+
+date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 9 at 9:30 p.m.</em>
+Sunset Village Plaza bustled Thursday with students seeking free drinks, shop coupons and Asian snacks as the Asian Pacific Coalition hosted its annual night market. 
+
+<https://dailybruin.com/2024/04/09/asian-pacific-coalition-celebrates-aapi-cultures-in-annual-night-market/>
+
+---
+
+## Opinion: Finding my place at UCLA amid the chaotic 1st-year transition
+
+date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 9 at 10:03 p.m.</em>
+Entering a university for the first time – especially one with a population as large and diverse as UCLA’s – presents various opportunities to explore adulthood through a new lens. 
+
+<https://dailybruin.com/2024/04/09/opinion-finding-my-place-at-ucla-amid-the-frenetic-1st-year-transition/>
+
+---
+
+## UCLA researchers find sea urchins aid in maintenance of coral reefs
+
+date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+A research team including UCLA doctoral students and professors found that sea urchins help maintain the resilience of coral reefs despite human activity.
+In the study published in February, researchers measured algae height in Pacific coral reefs both in the presence and absence of herbivorous sea urchins and fish, determining that even when most fish had disappeared, a robust urchin population helped reduce algal height and improve reef health. 
+
+<https://dailybruin.com/2024/04/09/ucla-researchers-find-sea-urchins-aid-in-maintenance-of-coral-reefs/>
+
+---
+
+## Students protest for University action on Palestine
+
+date: 2024-04-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The die-in, organized by Trojans for Palestine, lasted approximately one hour.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/09/students-protest-for-university-action-on-palestine/">Students protest for University action on Palestine</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/09/students-protest-for-university-action-on-palestine/>
+
+---
+
+## Gallery: Disposable Stories 2024
+
+date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Equipped with disposable cameras, Daily Bruin staffers documented their spring break adventures and lives as student journalists outside the newsroom. 
+
+<https://dailybruin.com/2024/04/09/gallery-disposable-stories-2024/>
+
+---
+
+## Bruin to Bruin: Mary Nguyen
+
+date: 2024-04-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Mary Nguyen is a UCLA alumnus, Emmy-nominated reporter and lawyer. She sits down with Podcasts contributor Ava Johnson to discuss her career in journalism and law and advice she has for UCLA students. 
+
+<https://dailybruin.com/2024/04/09/bruin-to-bruin-mary-nguyen/>
+
+---
+
+## How to vote in the Associated Students and University Student Union elections
+
+date: 2024-04-09, from: The Sundail (CSUN Student Newspaper)
+
+Voting season is here, and both the Associated Students and University Student Union have begun holding their elections. The Associated Students has candidates running for president, vice president and AS... 
+
+<https://sundial.csun.edu/180240/news/how-to-vote-in-the-associated-students-and-university-student-union-elections/>
+
+---
+
+## UCLA men’s volleyball builds increasing fan base as sport grows
+
+date: 2024-04-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+There’s consistently a throng of fans standing outside the Bruin locker room.
+From children hiding behind their parents&#8217; legs to middle and high schoolers peppering in large groups to college-age students waiting for pictures, dozens linger in Pauley Pavilion long after a match has ended for a glimpse of UCLA men’s volleyball. 
+
+<https://dailybruin.com/2024/04/09/ucla-mens-volleyball-builds-increasing-fan-base-as-sport-grows/>
+
+---
+
+## Verla Nest: CSUN welcomes its first-ever basic needs location to support students
+
+date: 2024-04-09, from: The Sundail (CSUN Student Newspaper)
+
+CSUN is bringing a basic needs and resources center to students starting in the fall 2025 semester. The Verla Nest is the first of its kind in the CSU system.... 
+
+<https://sundial.csun.edu/180145/news/verla-nest-csun-welcomes-its-first-ever-basic-needs-location-to-support-students/>
+
+---
+
+## With experienced players out, UCLA baseball turns to its freshman class
+
+date: 2024-04-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Before the season, coach John Savage was clear.
+He said the goal was to make the 2024 NCAA tournament after the Bruins failed to do so last year. 
+
+<https://dailybruin.com/2024/04/09/with-experienced-players-out-ucla-baseball-turns-to-its-freshman-class/>
+
+---
+
+## Film preview: Upcoming spring flicks find adventure at every turn
+
+date: 2024-04-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 9 at 9:16 p.m.</em>
+Spectacular films will be springing onto screens this season.
+As the flowers begin to bloom, a fresh slate of movies will be budding alongside them. 
+
+<https://dailybruin.com/2024/04/09/film-preview-upcoming-spring-flicks-find-adventure-at-every-turn/>
+
+---
+
+## Felicia’s Findings: Underclassmen have the quality to take UCLA women’s water polo all the way
+
+date: 2024-04-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 9 at 9:54 p.m.</em>
+UCLA women&#8217;s water polo won its last national championship 15 years ago.
+For 15 years, Stanford and USC have traded titles as UCLA has fallen short of that elusive final victory. 
+
+<https://dailybruin.com/2024/04/09/felicias-findings-underclassmen-have-the-quality-to-take-ucla-womens-water-polo-all-the-way/>
+
+---
+
+## CSUN men’s volleyball falls to top-ranked Long Beach State
+
+date: 2024-04-09, from: The Sundail (CSUN Student Newspaper)
+
+In a historic season in which they knocked off the second, third, and fourth-ranked teams in the nation, CSUN men’s volleyball (11-14, 2-6 Big West Conference) was feeling it. Splitting... 
+
+<https://sundial.csun.edu/180174/sports/csun-mens-volleyball-falls-to-top-ranked-long-beach-state/>
+
+---
+
+## Hype It Up!
+
+date: 2024-04-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/04/09/hype-it-up/>
 
 ---
 
@@ -65,6 +500,18 @@ date: 2024-04-09, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/04/09/from-death-valley-to-leavey-library-students-explore-cotopaxis-questival-race/>
+
+---
+
+## Muslim Student Union hosts free iftar dinners for fasting students
+
+date: 2024-04-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The organization has fed over a hundred people four times a week for Ramadan.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/09/muslim-student-union-hosts-free-iftar-dinners-for-fasting-students/">Muslim Student Union hosts free iftar dinners for fasting students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/09/muslim-student-union-hosts-free-iftar-dinners-for-fasting-students/>
 
 ---
 
@@ -189,8 +636,8 @@ Skipping class may free up a day’s schedule, but missing class on a frequent b
 
 date: 2024-04-09, from: The Daily Bruin (UCLA Student Newspaper)
 
-UCLA community members discussed California&#8217;s role in protecting LGBTQ rights at the Williams Institute&#8217;s annual update conference last Friday. 
-Titled &#8220;The Golden State of LGBTQ Rights: California&#8217;s Role in Advancing LGBTQ Policy,&#8221; the conference was open to participants at the UCLA School of Law and over Zoom. 
+<em>This post was updated April 9 at 9:41 p.m.</em>
+UCLA community members discussed California’s role in protecting LGBTQ rights at the Williams Institute’s annual update conference last Friday. 
 
 <https://dailybruin.com/2024/04/08/williams-institutes-annual-conference-explores-lgbtq-rights-in-california/>
 
@@ -240,8 +687,8 @@ For Delta Upsilon, the path toward chartering hasn’t been easy since its estab
 
 date: 2024-04-08, from: The Daily Bruin (UCLA Student Newspaper)
 
-The stands of Pauley Pavilion were filled with cardboard cutouts when the Bruins&#8217; class of now-seniors first took the floor in January 2021.
-Gymnasts couldn&#8217;t share chalk or embrace after routines; they all donned masks when not competing and had begun preseason training late in October. 
+<em>This post was updated April 9 at 9:48 p.m.</em>
+The stands of Pauley Pavilion were filled with cardboard cutouts when the Bruins&#8217; class of now-seniors first took the floor in January 2021. 
 
 <https://dailybruin.com/2024/04/08/ucla-gymnastics-class-of-2024-leaves-lasting-legacy-despite-early-end-to-season/>
 
@@ -251,6 +698,7 @@ Gymnasts couldn&#8217;t share chalk or embrace after routines; they all donned m
 
 date: 2024-04-08, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated April 9 at 9:57 p.m.</em>
 For Rachel Katz, camaraderie builds character in stroke.
 The sophomore took on a new crew with the second varsity four after competing with the third varsity eight in her inaugural season. 
 
@@ -262,8 +710,9 @@ The sophomore took on a new crew with the second varsity four after competing wi
 
 date: 2024-04-08, from: The Daily Bruin (UCLA Student Newspaper)
 
-The Bruins kept the Huskies&#8217; scoring stagnant  in Sunday&#8217;s victory.
-No. 25 UCLA men&#8217;s tennis (10-6, 3-2 Pac-12) bested Washington (8-11, 2-3) at Bill Quillian Tennis Stadium. 
+<em>This post was updated April 9 at 10:01 p.m.</em>
+The Bruins kept the Huskies’ scoring stagnant in Sunday&#8217;s victory.
+No. 25 UCLA men’s tennis (10-6, 3-2 Pac-12) bested Washington (8-11, 2-3) at Bill Quillian Tennis Stadium. 
 
 <https://dailybruin.com/2024/04/08/with-win-against-washington-ucla-mens-tennis-secures-winning-pac-12-record/>
 

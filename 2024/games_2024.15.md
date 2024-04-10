@@ -1,11 +1,111 @@
 ---
 title: games 2024.15
-updated: 2024-04-09 08:39:10
+updated: 2024-04-10 08:58:06
 ---
 
 # games 2024.15
 
-(date: 2024-04-09 08:39:10)
+(date: 2024-04-10 08:58:06)
+
+---
+
+## Wish finally revives the classic Disney villain — but he’s missing something vital
+
+date: 2024-04-10, updated: 2024-04-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24125556/wish-disney-plus-magnifico-chris-pine-disney-villains>
+
+---
+
+## What time does the Avatar: Elements event start in Fortnite?
+
+date: 2024-04-10, updated: 2024-04-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/fortnite-guide/24125284/avatar-elements-event-start-time-release-date-time-zone>
+
+---
+
+## The Fallout TV series is more like a great sequel to the games than just an adaptation
+
+date: 2024-04-10, updated: 2024-04-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24122477/fallout-tv-series-review-prime-video-show>
+
+---
+
+## The Joker 2 trailer introduces Lady Gaga’s Harley Quinn to the hallucinatory stage
+
+date: 2024-04-10, updated: 2024-04-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24124435/joker-2-trailer-lady-gaga>
+
+---
+
+## How to finish ‘The Whisper’ and get Whisper of the Worm in Destiny 2
+
+date: 2024-04-09, updated: 2024-04-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24124313/whisper-walkthrough-worm-exotic-pattern>
+
+---
+
+## EA enlists Dead Space remake team to work on next Battlefield game
+
+date: 2024-04-09, updated: 2024-04-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24125300/ea-battlefield-motive-studios-dead-space-remake-iron-man>
+
+---
+
+## Helldivers 2 fans are shaken by the sudden return of Automatons
+
+date: 2024-04-09, updated: 2024-04-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24125619/helldivers-2-galactic-war-automaton-return-cyberstan>
+
+---
+
+## What you should spend Tomestones of Poetics on in FFXIV
+
+date: 2024-04-09, updated: 2024-04-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24125345/tomestones-poetics-what-to-spend-cap>
+
+---
+
+## Former Destiny leads have a new studio and a new game
+
+date: 2024-04-09, updated: 2024-04-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24125278/probably-monsters-hidden-grove-destiny-bungie>
+
+---
+
+## Destiny 2’s Into the Light update adds 12 all-timer weapons back to the game
+
+date: 2024-04-09, updated: 2024-04-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24124384/destiny-2-into-the-light-patch-notes-onslaught-whisper-zero-hour>
 
 ---
 

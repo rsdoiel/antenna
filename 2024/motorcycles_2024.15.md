@@ -1,11 +1,71 @@
 ---
 title: motorcycles 2024.15
-updated: 2024-04-09 08:39:10
+updated: 2024-04-10 08:58:07
 ---
 
 # motorcycles 2024.15
 
-(date: 2024-04-09 08:39:10)
+(date: 2024-04-10 08:58:07)
+
+---
+
+## Bobby Zalenski: ‘I Can’t Believe We Won’ at Brands Hatch
+
+date: 2024-04-10, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor Bobby Zalenski returned to form in the first eNASCAR Coca-Cola iRacing Series road course race of the season. The Joe Gibbs Racing driver muscled his&#8230;  
+
+<https://kickinthetires.net/esports/zalenski-cant-believe-won-brands-hatch/>
+
+---
+
+## That's Definitely One Way to Transport a New Motorcycle Tire
+
+date: 2024-04-10, from: Ride Apart, Electric Motorcycle News
+
+Gives new meaning to a "spare tire." 
+
+<https://www.rideapart.com/news/715359/motorcyclist-transports-new-tire-around-waist/>
+
+---
+
+## Recall: Accessory Side Case May Detach From the 2024 BMW R 1300 GS
+
+date: 2024-04-10, from: Ride Apart, Electric Motorcycle News
+
+The issue is related to 2024 models fitted with dealer accessory side cases. 
+
+<https://www.rideapart.com/news/714693/bmw-r1300gs-side-case-recall/>
+
+---
+
+## Polaris Upgraded the 2025 Rangers to Get You Further Into the Field
+
+date: 2024-04-09, from: Ride Apart, Electric Motorcycle News
+
+Who's ready to get after it? 
+
+<https://www.rideapart.com/news/715375/2025-polaris-ranger-side-by-side-utv/>
+
+---
+
+## Icon's New Elsinore Monotype Helmet Looks Like It Belongs in Star Wars
+
+date: 2024-04-09, from: Ride Apart, Electric Motorcycle News
+
+No, it's not made of Beskar.  
+
+<https://www.rideapart.com/news/715385/icon-elsinore-monotype-helmet-details/>
+
+---
+
+## Don't Watch This Bonkers Beach Racing Carnage At The 2024 Enduropale
+
+date: 2024-04-09, from: Ride Apart, Electric Motorcycle News
+
+If you do, you may not be able to stop because it's absolutely mad. 
+
+<https://www.rideapart.com/news/715013/beach-racing-2024-enduropale-france/>
 
 ---
 

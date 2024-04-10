@@ -1,11 +1,381 @@
 ---
 title: weather 2024.15
-updated: 2024-04-09 08:39:10
+updated: 2024-04-10 08:58:06
 ---
 
 # weather 2024.15
 
-(date: 2024-04-09 08:39:10)
+(date: 2024-04-10 08:58:06)
+
+---
+
+## SPC - No MDs are in effect as of Wed Apr 10 15:42:04 UTC 2024
+
+date: 2024-04-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Wed Apr 10 15:42:04 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Tornado Watch 102
+
+date: 2024-04-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0102.html"><img src="https://www.spc.noaa.gov/products/watch/ww0102_radar.gif" border="1" alt="WW 0102 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 102
+NWS Storm Prediction Center Norman OK
+955 AM CDT Wed Apr 10 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  Southern Alabama
+  Florida Panhandle
+  Coastal Waters
+
+* Effective this Wednesday morning and afternoon from 955 AM
+  until 500 PM CDT.
+
+* Primary threats include...
+  A few tornadoes likely with a couple intense tornadoes possible
+  Widespread damaging winds likely with isolated significant gusts
+    to 80 mph possible
+
+SUMMARY...Conditions will become increasingly favorable for severe
+storms as tornadoes as additional moistening and destabilization
+occurs, with storms increasing ahead of a squall line, potentially
+leading to multiple rounds of severe storms in some areas through
+mid into late afternoon.
+
+The tornado watch area is approximately along and 85 statute miles
+north and south of a line from 35 miles north northwest of Mobile AL
+to 35 miles east of Evergreen AL. For a complete depiction of the
+watch see the associated watch outline update (WOUS64 KWNS WOU2).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 101...
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 1.5 inches. Extreme turbulence and surface wind
+gusts to 70 knots. A few cumulonimbi with maximum tops to 500. Mean
+storm motion vector 24040.
+
+...Guyer
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0102.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0102.html>
+
+---
+
+## SPC Tornado Watch 102 Status Reports
+
+date: 2024-04-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0102.html"><img src="https://www.spc.noaa.gov/products/watch/ww0102_radar.gif" border="1" alt="WW 0102 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 102
+
+THE SEVERE WEATHER THREAT CONTINUES ACROSS THE ENTIRE WATCH AREA.
+
+..LEITMAN..04/10/24
+
+ATTN...WFO...MOB...BMX...
+
+
+STATUS REPORT FOR WT 102 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+ALC003-013-023-025-035-039-041-047-053-085-091-097-099-119-129-
+131-101640-
+
+AL 
+.    ALABAMA COUNTIES INCLUDED ARE
+
+BALDWIN              BUTLER              CHOCTAW             
+CLARKE               CONECUH             COVINGTON           
+CRENSHAW             DALLAS              ESCAMBIA            
+LOWNDES              MARENGO             MOBILE              
+MONROE               SUMTER              WASHINGTON          
+WILCOX               
+
+
+FLC033-091-113-101640-
+
+FL 
+.    FLORIDA COUNTIES INCLUDED ARE
+
+ESCAMBIA             OKALOOSA            SANTA ROSA          
+
+
+GMZ630-631-632-633-634-635-636-650-655-101640-
+
+CW 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0102.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0102.html>
+
+---
+
+## SPC Tornado Watch 101
+
+date: 2024-04-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0101.html"><img src="https://www.spc.noaa.gov/products/watch/ww0101_radar.gif" border="1" alt="WW 0101 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 101
+NWS Storm Prediction Center Norman OK
+600 AM CDT Wed Apr 10 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  Southeast Louisiana
+  Central and Southern Mississippi
+  Coastal Waters
+
+* Effective this Wednesday morning and afternoon from 600 AM
+  until 100 PM CDT.
+
+* Primary threats include...
+  A few tornadoes likely with a couple intense tornadoes possible
+  Widespread damaging winds and isolated significant gusts to 80
+    mph likely
+  Scattered large hail events to 1.5 inches in diameter possible
+
+SUMMARY...A destabilizing airmass across the central Gulf Coast will
+support an increasing severe thunderstorm and tornado risk this
+morning into the midday.  The tornado risk will likely maximize with
+any supercells that develop within the warm sector as the marine
+warm front advances northward.  A squall line will move west to east
+across the area with a risk for damaging gusts and the tornado risk
+will likely focus with any sustained mesovortex or embedded
+supercell.
+
+The tornado watch area is approximately along and 85 statute miles
+east and west of a line from 95 miles northwest of Meridian MS to 45
+miles west southwest of Boothville LA. For a complete depiction of
+the watch see the associated watch outline update (WOUS64 KWNS
+WOU1).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 99...WW 100...
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 1.5 inches. Extreme turbulence and surface wind
+gusts to 70 knots. A few cumulonimbi with maximum tops to 500. Mean
+storm motion vector 25040.
+
+...Smith
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0101.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0101.html>
+
+---
+
+## SPC Tornado Watch 101 Status Reports
+
+date: 2024-04-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0101.html"><img src="https://www.spc.noaa.gov/products/watch/ww0101_radar.gif" border="1" alt="WW 0101 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 102
+
+THE SEVERE WEATHER THREAT CONTINUES ACROSS THE ENTIRE WATCH AREA.
+
+..LEITMAN..04/10/24
+
+ATTN...WFO...MOB...BMX...
+
+
+STATUS REPORT FOR WT 102 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+ALC003-013-023-025-035-039-041-047-053-085-091-097-099-119-129-
+131-101640-
+
+AL 
+.    ALABAMA COUNTIES INCLUDED ARE
+
+BALDWIN              BUTLER              CHOCTAW             
+CLARKE               CONECUH             COVINGTON           
+CRENSHAW             DALLAS              ESCAMBIA            
+LOWNDES              MARENGO             MOBILE              
+MONROE               SUMTER              WASHINGTON          
+WILCOX               
+
+
+FLC033-091-113-101640-
+
+FL 
+.    FLORIDA COUNTIES INCLUDED ARE
+
+ESCAMBIA             OKALOOSA            SANTA ROSA          
+
+
+GMZ630-631-632-633-634-635-636-650-655-101640-
+
+CW 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0101.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0101.html>
+
+---
+
+## SPC Tornado Watch 100 Status Reports
+
+date: 2024-04-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0100.html"><img src="https://www.spc.noaa.gov/products/watch/ww0100_radar.gif" border="1" alt="WW 0100 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 100
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 55 SW 7R4 TO
+15 NW LFT TO 35 NNE LFT TO 15 ENE ESF.
+
+..LEITMAN..04/10/24
+
+ATTN...WFO...LCH...
+
+
+STATUS REPORT FOR WT 100 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+LAC045-055-099-101-113-101440-
+
+LA 
+.    LOUISIANA PARISHES INCLUDED ARE
+
+IBERIA               LAFAYETTE           ST. MARTIN          
+ST. MARY             VERMILION           
+
+
+GMZ435-436-452-455-101440-
+
+CW 
+
+.    ADJACENT COASTAL WATERS INCLUDED ARE
+
+VERMILION BAY 
+
+  
+
+COASTAL WATERS FROM INTRACOASTAL CITY TO CAMERON LA OUT 20 NM 
+
+COASTAL WATERS FROM LOWER ATCHAFALAYA RIVER TO INTRACOASTAL CITY
+LA OUT 20 NM 
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0100.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0100.html>
+
+---
+
+## SPC Apr 10, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-04-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0742 AM CDT Wed Apr 10 2024
+
+Valid 101300Z - 111200Z
+
+...THERE IS A MODERATE RISK OF SEVERE THUNDERSTORMS FOR PORTIONS OF
+SOUTHEAST LOUISIANA INTO SOUTHERN MISSISSIPPI AND SOUTHWEST
+ALABAMA...
+
+...SUMMARY...
+Numerous severe thunderstorms are forecast across parts of the
+central Gulf Coast States.  The potential will exist for several
+tornadoes, a few of which may be strong, and widespread damaging
+winds.
+
+...Central Gulf Coast States...
+Morning water-vapor imagery shows a well-defined upper low over west
+TX.  This feature will eject east-northeast into the mid-South,
+eventually opening up late in the period as a northern-stream
+short-wave trough digs into the upper MS Valley.  A 70-80kt 500-mb
+speed max will quickly move from the TX coast into the lower MS
+Valley and over AL late tonight.  In the low levels, a maritime warm
+front will gradually advance inland over the coastal plain aided in
+part by a 50+ kt southerly LLJ.  Strong upper forcing for ascent
+moving across the Gulf Coast will continue to promote widespread
+showers/thunderstorms advancing west to east during the period.  
+
+A severe squall line over southwest LA this morning will likely
+intensify through the morning as tropospheric flow strengthens
+across LA into MS.  A reservoir of rich moisture located over
+southern LA and far southern MS is contributing to moderate buoyancy
+(1200 J/kg MLCAPE per the 12z Slidell, LA raob).  Weaker buoyancy
+and lower dewpoints (lower 60s deg F) farther north (reference the
+nil buoyancy on the 12z BMX raob) across east-central MS into the
+northern half of AL will likely serve as a an area where lower
+severe coverage and storm intensity is expected.  In the area across
+south-central MS east into southwest AL and southward to the coast,
+the airmass will likely support both a mix of supercells ahead of
+the squall line and bowing segments with the evolving bow. 
+Widespread damaging winds should accompany this linear band of
+storms. As the boundary layer warms, quasi-discrete supercells
+interacting with enhanced SRH within the warm frontal zone will
+potentially be capable of a few tornadoes, one or more of which may
+be strong.  For short-term details concerning the severe threat
+through mid morning across LA, refer to MCD #412.  As this activity
+spreads east during the afternoon, at least weak destabilization is
+forecast across AL into the FL Panhandle.  An environment supporting
+severe gusts and the potential for tornadoes will likely develop.  A
+gradual lessening in storm intensity and severe coverage is expected
+overnight, but an organized severe threat will probably remain along
+the northeast Gulf Coast.
+
+..Smith/Grams.. 04/10/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
@@ -179,87 +549,6 @@ storm motion vector 25025.
 
 ---
 
-## SPC Apr 9, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-04-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0720 AM CDT Tue Apr 09 2024
-
-Valid 091300Z - 101200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FOR CENTRAL
-INTO EAST TEXAS AND WESTERN LOUISIANA...
-
-...SUMMARY...
-Scattered severe thunderstorms are likely today across much of Texas
-into the lower Mississippi River Valley.  Several tornadoes, a
-couple of which may be strong, large to very large hail, and severe
-gusts are forecast.
-
-...Synopsis...
-A mid- to upper-level low evident in water-vapor imagery near the
-NM/AZ/Mexico border this morning, will move east into northwest TX
-by daybreak Wednesday.  Early morning analysis indicates an
-outflow-reinforced effective frontal zone is draped east to west
-from western LA into central TX, with the western portion of the
-boundary intersecting a surface low over the Permian Basin this
-morning.  This surface low will gradually develop eastward into the
-TX Hill Country by early evening as the mid- to upper-level
-trough/low encroaches on the southern Great Plains.  Little overall
-northward advancement is forecast in the outflow/effective frontal
-zone across central TX eastward into north-central LA during the
-period.  
-
-...TX to Lower MS Valley...
-A multi-scenario severe thunderstorm outlook is lending considerable
-uncertainty to this forecast.  Strong to locally severe
-thunderstorms may continue to develop and increase in coverage over
-northwest/west TX this morning as the leading edge of stronger upper
-forcing for ascent overspreads a capped but moist/unstable airmass
-near/north of the frontal zone (reference 12z Midland raob).  As an
-80-kt 500mb speed max translates through the base of the upper
-trough, additional storm development will likely occur in a
-moist/warm conveyor across portions of central TX eastward into
-western LA.  Models maintain the LLJ across east TX into southern AR
-most of the period.  As a result, episodic bouts of deep convection
-should be noted across this region.  Strong boundary-layer heating
-on the southwestern periphery of active convective clusters (most
-likely to occur over east-central TX and locales farther east) will
-yield a very unstable airmass by mid afternoon.  The presence of
-surface dewpoints near 70 deg F beneath steep 700-500 mb lapse rates
-will yield large buoyancy, and the risk for large to very large hail
-with the stronger updrafts.  Large low-level hodographs (200-300
-m2/s2 0-1 km SRH) in the warm frontal zone will act to enhance both
-supercell development and a tornado risk with any supercells that
-can develop and move into this moist/strong low-level shear
-corridor.  During the evening, large-scale height falls will spread
-east and it seems increasingly probable a squall line will develop. 
-A few tornadoes and 60-80 mph gusts are possible with this potential
-linear MCS.
-
-...Lower Great Lakes...
-Southern influence of a strong short-wave trough will glance
-northern OH into western NY. Boundary-layer heating is expected to
-contribute to modest instability by mid afternoon as surface
-temperatures warm through the mid 60s to near 70F. Ample deep-layer
-shear will exist for a few robust storms capable of generating gusty
-winds and perhaps isolated severe hail. Greatest risk will be with
-convection that develops along the front as it eases southeast into
-this region.
-
-..Smith/Mosier.. 04/09/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
 ## SPC Day 2 Fire Weather Outlook
 
 date: 2024-04-09, from: NOAA Weather Forecasts
@@ -308,14 +597,4 @@ date: 2024-04-08, from: NOAA tornado/severe thunderstorm watches, mesoscale disc
 No watches are valid as of Mon Apr  8 13:58:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Mon Apr  8 13:58:02 UTC 2024
-
-date: 2024-04-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Mon Apr  8 13:58:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/md/>
 

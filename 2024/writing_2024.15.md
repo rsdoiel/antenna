@@ -1,11 +1,359 @@
 ---
 title: writing 2024.15
-updated: 2024-04-09 08:39:10
+updated: 2024-04-10 08:58:06
 ---
 
 # writing 2024.15
 
-(date: 2024-04-09 08:39:10)
+(date: 2024-04-10 08:58:06)
+
+---
+
+## Paula Guran Reviews Apex, Midnight Echo, Podcastle, and Pseudopod
+
+date: 2024-04-10, from: Locus Magazine
+
+<p>Apex #141
+Midnight Echo #18
+Podcastle 10/3/23
+Pseudopod 11/24/23</p>
+<p><strong>J.S. Breukelaar</strong>’s novelette “<strong>Hole World</strong>” in Apex #141 finds the world taken over by ten­tacled somethings. Justin is one of the few left alive. Though limited by a sentient manacle, he still works at Whole Foods, now under “new management,” tending to the frozen meat – guess the source – that is delivered weekly to feed the “managers.”  <a href="https://locusmag.com/2024/04/paula-guran-reviews-apex-midnight-echo-podcastle-and-pseudopod/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/paula-guran-reviews-apex-midnight-echo-podcastle-and-pseudopod/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-10, from: Neil Gaiman @ BlueSky)
+
+https://bsky.app/profile/did:plc:nkahctfdi6bxk72umytfwghw/feed/aaad2q353alqm
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kprrrb3he42r>
+
+---
+
+## 5 Ways to Move and Rearrange Files and Folders in the Scrivener Binder
+
+date: 2024-04-10, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p>One of the most useful elements of Scrivener is the ability to write scenes and chapters in any order then move them around in <a href="https://www.literatureandlatte.com/blog/use-folders-and-texts-to-power-up-the-scrivener-binder" target="_blank">the Binder;&nbsp;the sidebar at the left of the Scrivener window</a>. Instead of scrolling up and down in&nbsp;a long document, you can write projects in documents of any length, and rearrange them at will.</p>
+
+<p>There are several ways to rearrange items in the Binder. In this article we will look at&nbsp;five ways you can move and rearrange files and folders.</p>
+
+<p><strong>1. Drag and drop</strong></p>
+
+<p>The basic method of moving files and folders in the Binder is to drag and drop them with your mouse cursor. Click an item, drag it, and you will see a horizontal line; move that line between the items where you want to situate the document or folder you&#39;re dragging, then release the mouse button.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-images/move-binder1.png" alt="" width="281" />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>If you drag an item onto another item, Scrivener places the first item inside the second item. If you drag a file or folder onto a folder, then that item is added to the folder at the bottom. If you drag a file onto another file, the first file is added to the second in what is called a <em><a href="https://www.literatureandlatte.com/blog/different-ways-of-setting-up-scriveners-binder-for-your-projects#:~:text=File%20groups&amp;text=In%20Scrivener%2C%20a%20file%20can,to%20create%20a%20file%20group" target="_blank">file group</a></em>.</p>
+
+<p>You can also move multiple items together, such as when you want to move a lot of files into a folder containing old versions, for example. To select multiple items in the Binder on the Mac, click one document, then press the Command key and click others; each click will add a document to your selection. On Windows, click one document, then click Ctrl, then click others.</p>
+
+<p><em>Note: If you drag an item into the wrong location, you can always undo the drag by pressing Command-Z (Mac) or Ctrl-Z (Windows).</em></p>
+
+<p><strong>&zwnj;2. Use keyboard shortcuts</strong></p>
+
+<p>You can move items using the keyboard. Once you&#39;ve clicked anywhere in the Binder, you can use the up and down arrow keys to move around and select items. When an item is selected, you can move it by pressing the following keys:</p>
+
+<p><strong>Mac</strong></p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-images/move-binder2.png" alt="" width="212" />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                
+	Control-Command-Up-Arrow
+	Control-Command-Down-Arrow
+	Control-Command-Left-Arrow
+	Control-Command-Right-Arrow
+
+
+<p><strong>Windows</strong></p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-images/move-binder3.png" alt="" width="215" />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                
+	Control-Up
+	Control-Down
+	Control-Left
+	Control-Right
+
+
+<p>You cannot move a file from one folder to another using this method, but you can move files around within a folder, or change the arrangements of folders in the Binder. You can also move a file out of a folder by pressing the keyboard shortcut to move it to the left. Or you can&nbsp;move a file into a file group, if it&#39;s below another file, by pressing the keyboard shortcut to move it to the right.</p>
+
+<p><em>Tip: You can navigate the Binder from the keyboard. If all your folders are closed - if you don&#39;t see any files in them - you can press the right-arrow key when a folder is selected to open it, then press the left arrow key to close it.</em></p>
+
+<p><strong>3. Use the Edit menu</strong></p>
+
+<p>You can move items using the Edit menu; the screenshots above are taken from the Edit &gt; Move submenu. It will certainly take longer to use the menu than to use the keyboard, but some people prefer using menu items.</p>
+
+<p><strong>4. Use toolbar buttons</strong></p>
+
+<p>Scrivener&#39;s toolbar - the section of the window at the top, which, by default, shows a set of icons - is customizable. You can add buttons for moving&nbsp;items to the toolbar.</p>
+
+<p>To do this, choose View &gt; Customize Toolbar (Mac) or View &gt; Customize Toolbars (Windows). On the Mac, drag any of these button sets to the toolbar, in the location where you want to store them.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-images/move-binder41.png" alt="" width="352" />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>On Windows, you see a dialog allowing you to customize the Format Bar and the Main Toolbar. You want to put the Move icons into the Main Toolbar by selecting them, pressing the right arrow button, and then rearranging them. Click Apply to save your changes.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-images/move-binder5.png" alt="" width="672" />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>You can then move any seleced item by clicking these buttons. Buttons that cannot be used according to the current selection are dimmed, so in the example below, I&#39;ve selected a file at the top of a folder, and I can only move it down (to change its order in the folder&#39;s files) or to the left (to remove it from the folder, and bring it up one level in the Binder).</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-images/move-binder6.png" alt=""  />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p><em>Note: After you add the additional buttons, you may not see all your toolbar buttons. These additional buttons will be accessible by clicking the &gt;&gt; icon at the right of the toolbar.</em></p>
+
+<p><strong>5. Use proxy icon</strong></p>
+
+<p>The <em>proxy icon</em> is the small icon in the Header Bar at the top of the editor, which displays when you have selected a file or folder. You can drag this icon to move an item to a new location in the Binder.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-images/move-binder7.png" alt="" width="250" />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>You can also drag an item in the <a href="https://www.literatureandlatte.com/blog/plan-your-project-with-scriveners-outliner" target="_blank">Outliner</a> or <a href="https://www.literatureandlatte.com/blog/organize-your-scrivener-project-with-the-corkboard" target="_blank">Corkboard</a> and move it anywhere in the Binder, as well as rearranging that item in the Outliner or Corkboard. You can select and move&nbsp;multiple items in the Outliner and Corkboard as you do for the Binder.</p>
+
+<p>Depending on how you write, you may move items around in the Binder often, or only when you&#39;ve finished the first draft of your project. Dragging and dropping items is easy, but using some of these other methods can make it much easier to rearrange a Binder with lots of items.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+ 
+
+<https://www.literatureandlatte.com/blog/5-ways-to-move-and-rearrange-files-and-folders-in-the-scrivener-binder>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-10, from: Neil Gaiman @ BlueSky)
+
+Writer of Stuff Peter David is still in hospital. It's been a long time, and I wanted to draw attention to the GoFundMe for him and Kathleen, his wife...
+https://www.gofundme.com/f/peter-david-fund 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kpqjuij4op2o>
+
+---
+
+## Forbes 30 Greatest Book Series of All Time
+
+date: 2024-04-09, from: Locus Magazine
+
+<p>Forbes contributors have released their list of the 30 greatest book series of all time, including the Red Rising Saga by Pierce Brown (Del Rey), the Dresden Files by Jim Butcher (Penguin Random House), the Expanse series by James S.A. Corey (Orbit), The Earthsea Cycle by Ursula K. Le Guin (Simon &#38; Schuster), the Mistborn Trilogy by Brandon Sanderson (Tor), and the Witcher Saga by Andrzej Sapkowski (Hachette).</p>
+<div class="mynomorebulletlist">
+<p>For more </p></div> <a href="https://locusmag.com/2024/04/forbes-30-greatest-book-series-of-all-time/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/04/forbes-30-greatest-book-series-of-all-time/>
+
+---
+
+## ALA Most Challenged Books of 2023
+
+date: 2024-04-09, from: Locus Magazine
+
+<p>The American Library Association (ALA) has released their Top 10 Most Challenged Books of 2023, including some works and authors of genre interest:</p>
+<ul>
+<li><strong>Me and Earl and the Dying Girl</strong>, Jesse Andrews (Amulet Books)</li>
+<li><strong>The Perks of Being a Wallflower</strong>, Stephen Chbosky (MTV Books)</li>
+<li><strong>This Book Is Gay</strong>, Juno Dawson (Sourcebooks Fire)</li>
+<li><strong>The Bluest Eye</strong>, Toni Morrison (Vintage)</li>
+</ul>
+<p>The ALA listed the top 10 most challenged  <a href="https://locusmag.com/2024/04/ala-most-challenged-books-of-2023/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/ala-most-challenged-books-of-2023/>
+
+---
+
+## 2024 International Booker Prize Shortlist
+
+date: 2024-04-09, from: Locus Magazine
+
+<p>The six-title shortlist for the 2024 International Booker Prize has been announced, and includes <strong>Crooked Plow </strong>by Itamar Vieira Junior, translated by   Johnny Lorenz (Verso).</p>
+<p>The award is given &#8220;every year for a single book that is translated into English and published in the UK or Ireland.&#8221; The £50,000 prize is divided equally among the author and translator(s). Shortlisted authors and translators will each receive £1,000. Judges for 2024 are  <a href="https://locusmag.com/2024/04/2024-international-booker-prize-shortlist/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/2024-international-booker-prize-shortlist/>
+
+---
+
+## 2024 CSFFA Hall of Fame Nominees
+
+date: 2024-04-09, from: Locus Magazine
+
+<p>The Canadian Science Fiction and Fantasy Association (CSFFA) announced the current nominees for the CSFFA Hall of Fame:</p>
+<ul>
+<li>Kelley Armstrong</li>
+<li>Clint Budd</li>
+<li>Gordon R. Dickson</li>
+<li>James Alan Gardner</li>
+<li>Chris A. Hadfield</li>
+<li>Karl Johanson</li>
+<li>James Davis Nicoll</li>
+<li>Robert Priest</li>
+<li>Hubert Rogers</li>
+<li>Karl Schroeder</li>
+<li>Diane L. Walton</li>
+<li>Jo Walton</li>
+<li>Lynda Williams</li>
+</ul>
+<p>The CSFFA Hall of Fame &#8220;was created to honour people who have over the past number of decades made a great  <a href="https://locusmag.com/2024/04/2024-csffa-hall-of-fame-nominees/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/2024-csffa-hall-of-fame-nominees/>
+
+---
+
+## 2024 Carol Shields Prize Shortlist
+
+date: 2024-04-09, from: Locus Magazine
+
+<div class="mynomorebulletlist">
+<p>The shortlist has been announced for the 2024 Carol Shields Prize for Fiction, and includes <strong>Birnam Wood</strong> by Eleanor Catton (Farrar, Straus, Giroux) and <strong>Coleman Hill</strong> by Kim Coleman Foote (Zando).</p>
+<p>The winner, to be announced on May 13, 2024, will receive $150,000 and residency at Fogo Island Inn; the runner-ups will each receive $12,500. For more information, including the complete shortlist, visit the Carol Shields Prize website.</p>
+<p>&#160;</p>
+</div>
+
+<p>
+
+
+     (adsbygoogle  <a href="https://locusmag.com/2024/04/2024-carol-shields-prize-shortlist/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/2024-carol-shields-prize-shortlist/>
 
 ---
 
