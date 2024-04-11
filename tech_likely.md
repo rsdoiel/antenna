@@ -1,79 +1,400 @@
 ---
 title: tech likely 2024.15
-updated: 2024-04-10 08:58:06
+updated: 2024-04-11 07:53:07
 ---
 
 # tech likely 2024.15
 
-(date: 2024-04-10 08:58:06)
+(date: 2024-04-11 07:53:07)
 
 ---
 
-## Long Live the B’s
+**@Dave Winer's Scripting News** (date: 2024-04-11, from: Dave Winer's Scripting News)
 
-date: 2024-04-10, updated: 2024-04-10, from: One Foot Tsunami
+In an email to Doc this morning: "The web is such a huge total mess. CSS is a junk pile of reinventing that learned nothing from the ideas it was reinventing. The only reason we put up with this is the freedom we got from it. But that’s been gone for a long time. I have a feeling we’re wasting our golden years overlooking that we’re trying to get creative work done in a corporate crime scene. We won, only to have our victory enshrined by a bunch of corpy wiseasses and nazis." Doc is a very literate and quote-worthy writer, and me too, but we bring out the best from each other. So next time you see Doc thank him for me, thanks for the creativity. We're making the best of a bad situation. It's even worse than it appears and old enough to know better.
+ 
+
+<http://scripting.com/2024/04/11.html#a144842>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-11, from: Dave Winer's Scripting News)
+
+So this <a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3kpsh22d2dx2b">ticking time bomb</a> was sitting there all the time the journalists were talking about how Biden is too old to win the election with Trump. Biden was never the issue, the issue was the freaking Supreme freaking Court. 
+
+<http://scripting.com/2024/04/11.html#a144805>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-11, from: Dave Winer's Scripting News)
+
+I was closing tabs this morning and came across this sweet <a href="http://scripting.com/code/testing/tabstest/index.html?tab=cuckoo">little test app</a> I did when I was working on tabs. I wish there were a practical use for something like this. 
+
+<http://scripting.com/2024/04/11.html#a143824>
+
+---
+
+##  The Pyramids of Giza, Shrouded in Mist 
+
+date: 2024-04-11, updated: 2024-04-11, from: Jason Kottke blog
 
  
 
-<https://onefoottsunami.com/2024/04/10/long-live-the-bs/>
+<https://kottke.org/24/04/the-pyramids-of-giza-shrouded-in-mist>
 
 ---
 
-## Microsoft may want to add a dedicated Windows 11 button for ads and promos
+## NASA’s SERT II: ‘A Genuine Space Success Story’
+
+date: 2024-04-11, from: NASA breaking news
+
+“A genuine space success story,” is how Experiments Manager William Kerslake described NASA’s second Space Electric Rocket Test (SERT II), the first long-duration operation of ion thrusters in space. SERT II provided researchers with data for years beyond its expected lifetime and was a rare example of an entire mission – including the launch, propulsion [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasas-sert-ii-a-genuine-space-success-story/>
+
+---
+
+##  Capricious social media algorithms are modern-day Greek gods: &#8220;Oh my crops failed... 
+
+date: 2024-04-11, updated: 2024-04-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044373-capricious-social-media-a>
+
+---
+
+##  &#8220;Men who say they are pro-life and want to reduce or eliminate... 
+
+date: 2024-04-11, updated: 2024-04-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044370-men-who-say-they-are>
+
+---
+
+## Can Information Escape a Black Hole?
+
+date: 2024-04-11, from: Quanta Magazine
+
+Black holes are inescapable traps for most of what falls into them — but there can be exceptions. The theoretical physicist Leonard Susskind speaks with co-host Janna Levin about the black hole information paradox and how it has propelled modern physics.            <p>The post <a href="https://www.quantamagazine.org/can-information-escape-a-black-hole-20240411/" target="_blank">Can Information Escape a Black Hole?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/can-information-escape-a-black-hole-20240411/>
+
+---
+
+## PumpkinOS carves out a FOSS PalmOS-compatible runtime environment
+
+date: 2024-04-11, updated: 2024-04-11, from: Liam Proven's articles at the Register
+
+<h4>And rePalm may yet bring real PalmOS to new hardware … even the Raspberry Pi</h4>
+      <p>PumpkinOS is a somewhat usable runtime environment that can run some Palm apps on top of Windows or Linux, without using or needing real PalmOS.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/04/11/pumpkin_os_foss_palmos/>
+
+---
+
+## Celebrating the community: Arno & Timo
+
+date: 2024-04-11, from: Raspberry Pi (.org)
+
+<p>We love hearing from members of the community and sharing the stories of amazing young people, volunteers, and educators who are using their passion for technology to create positive change in the world around them. In our latest story, we’re heading to Alkmaar, the Netherlands, to meet Arno and Timo, CoderDojo enthusiasts who have transitioned&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/celebrating-the-community-arno-timo/">Celebrating the community: Arno &amp; Timo</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/celebrating-the-community-arno-timo/>
+
+---
+
+## DIY in-car entertainment display
+
+date: 2024-04-11, from: Raspberry Pi News (.com)
+
+<p>You don't need a swanky vehicle to get the in-car entertainment screen experience. You build a DIY system with Raspberry Pi instead.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/diy-in-car-entertainment-display/">DIY in-car entertainment display</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/diy-in-car-entertainment-display/>
+
+---
+
+## Lately
+
+date: 2024-04-11, from: Rachel Kwon blog
+
+I&rsquo;ve been a little less online lately, but not to worry, I have just been living my life :)
+Several weeks ago, I gave notice at work and left. Some people in my life were surprised, because it was a good job at a good company, I generally enjoyed it, I got to work with wonderful people, and I was paid money to do it. The younger version of me who hadn&rsquo;t yet figured out a career direction would be curious (and more than a little skeptical) about why I would quit such an objectively good job. 
+
+<https://kwon.nyc/notes/lately/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-04-10, from: Miguel de Icaza Mastondon feed)
+
+<p>In retrospect, without the new @Observation macro in SwiftUI, it would have been pointless to try to rewrite the Godot UI in Swift.</p><p>Not only does it prevent you from drowning in bullshit details that you need to get right, but leads to a set of idioms that are just so convenient.</p><p>Will blog as soon as I come down from this progress high.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112249464845057389>
+
+---
+
+## Me and FSD
+
+date: 2024-04-10, from: Dave Winer's Scripting News
+
+<p>Check out my <a href="http://scripting.com/2024/04/09/160339.html">political preamble</a> on Tesla, X and Musk. </p>
+<p>One more disclaimer: I love my Tesla Model Y. Best car ever. I've been driving a Tesla since late 2021, and I still feel privileged to drive the car every time I do. It's the Macintosh of cars.</p>
+<p>I don't generally use <a href="https://www.tesla.com/ownersmanual/modely/en_us/GUID-2CB60804-9CEA-4F4B-8B04-09B991368DC5.html">FSD</a>, even though I paid for it and have had it available all the time I've driven a Tesla.</p>
+<p>They say you should always be fully attentive when using FSD. I am always <i>soooo</i> ready to take over for it. I don't trust it. And I also don't feel that when I'm in <a href="https://en.wikipedia.org/wiki/White-knuckle">white-knuckle</a> mode when it's driving, that my reflexes are anywhere near as good as the reflexes I have when I'm driving, with fifty years of experience, and maybe a few hours of experience supervising a FSD car. I don't have a sense of how to work with it. So I err on the side of turning it off whenever I feel like even slightly scared. </p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2023/04/10/trumpBeingCarriedAway.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I also don't like <a href="https://en.wikipedia.org/wiki/Roller_coaster">roller coasters</a>, but if I did, I'd recognize that this is different. A roller coaster is designed to give the exact same experience to every user every time. It's designed to give the impression that your life is about to end, using gravity and eyesight and all that evolution trained you to be scared of. It fools you into being scared, when you're actually safe. Every so often you read about someone dying on a rollercoaster. That probably improves the fun for thrill-seekers, and gives people like me justification for staying away. People also <a href="https://en.wikipedia.org/wiki/Bungee_jumping">bungee jump</a> knowing there's a chance the chord could break, but they know it's not going to. </p>
+<p>None of that is true for the Tesla. It's making it up as it goes along. And it definitely encounters situations it can't handle, or it misinterprets a set of obvious facts, or even worse it hallucinates just like ChatGPT.</p>
+<p>Yesterday, I was <a href="https://www.google.com/maps/dir/Lake+Katrine,+New+York/Woodstock,+NY/@41.9949908,-74.0943946,13z/data=!4m19!4m18!1m10!1m1!1s0x89dd05c97bfa4075:0xbf2d119b7e29d940!2m2!1d-73.9881934!2d41.9856476!3m4!1m2!1d-74.0796429!2d41.972964!3s0x89dd042d11d4346d:0xbe2f0b18a2064238!1m5!1m1!1s0x89dd0733c0cf4c2b:0xb85cbeef880771fc!2m2!1d-74.1181971!2d42.0409247!3e0?entry=ttu">driving</a> from Lake Katrine to Woodstock with FSD, and it was doing really well, up to a point. First I was on <a href="https://en.wikipedia.org/wiki/New_York_State_Route_28">Route 28</a>, a four-lane road, for about five miles, it <a href="https://www.google.com/maps/@41.9972259,-74.1046808,3a,75y,343.4h,68.85t/data=!3m6!1e1!3m4!1srkTm7bYH3qW0CqLfUyT18w!2e0!7i16384!8i8192?entry=ttu">turned</a> onto <a href="https://en.wikipedia.org/wiki/New_York_State_Route_375">375</a> which is a curvy two-lane road. I was starting to feel slightly comfortable. Then we come up to <a href="https://en.wikipedia.org/wiki/New_York_State_Route_212">212</a>, where 375 ends. A busy <a href="https://www.google.com/maps/@42.0369198,-74.1109242,3a,75y,19.14h,83.49t/data=!3m6!1e1!3m4!1sJbEh3c4hgugNZsCx4uUtZw!2e0!7i16384!8i8192?entry=ttu">intersection</a>. Traffic coming from the left and right, and many are turning onto the road I'm on. I watched in awe as FSD tried to find a way to make a left turn in this complicated situation, starting, stopping, it tried, found itself out in traffic, and got stuck there. I had enough and took over. Luckily the car waiting behind us had left a little room. I've dealt with this intersection probably a few hundred times in the last few years. I know the crazy things the other drivers do here, and I know to watch out for them. The Tesla didn't know.  </p>
+ 
+
+<http://scripting.com/2024/04/10/230303.html?title=meAndFsd>
+
+---
+
+## How does the classic Win32 ListView handle incremental searching?
 
 date: 2024-04-10, from: OS News
 
-The company is seemingly contemplating on whether to add a new &#8220;Recommended&#8221; button on the Taskbar. Interestingly, it is unfinished at the moment, or perhaps Microsoft is just not sure if it should proceed with this button at all. ↫ Sayan Sen at Neowin The beatings will continue until morale improves. 
+The classic Win32 ListView supports incremental search: You can start typing the name of an item to search for it. But it’s a bit more complicated than that. ↫ Raymond Chen Gather &#8217;round, children, Mr Chen is telling a story. 
 
-<https://www.osnews.com/story/139234/microsoft-may-want-to-add-a-dedicated-windows-11-button-for-ads-and-promos/>
-
----
-
-## “Why does part of the Windows 98 Setup program look older than the rest?”
-
-date: 2024-04-10, from: OS News
-
-Well, this is something I never knew. Over on the retrocomputing section of StackExchange, someone asked why the second phase of the Windows 98 installation looked decidedly different from the third phase, even though they&#8217;re both graphical phases (the first phase is textual). The answer turns out to be both surprising, and entirely predictable. The first phase is a DOS program called DOSSETUP.BIN, which is the infamous blue part of the installation. The second part, however, is what we&#8217;re interested in here, and if the first phase is DOS, and the third phase is Windows 98 itself&#8230; What do you think the second phase is running? Yeah, exactly. Basically, because it is running under Windows 3.1 at that point. The second uses this minimal Windows 3.1 to run a Windows 3 program, W98SETUP.BIN (specified as the “shell” in SYSTEM.INI). This starts by copying more files to support all the information-gathering during setup, and various other niceties including the 3D look shown in your screenshot (the contents of the PRECOPY CABs); it ends by copying most of Windows 98, setting the system up so that it will boot Windows 98 from the target drive, and rebooting. ↫ Stephen Kitt So, in order to install Windows 98, you first run DOS, followed by Windows 3.1, ending in Windows 98. I have no idea why this is so funny to me, especially since it fits entirely within expectations of how Microsoft does things. 
-
-<https://www.osnews.com/story/139231/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest/>
+<https://www.osnews.com/story/139244/how-does-the-classic-win32-listview-handle-incremental-searching/>
 
 ---
 
-##  Eclipse COMPLAINTS? 
+##  The Function of Colour in Factories, Schools & Hospitals (1930) 
 
 date: 2024-04-10, updated: 2024-04-10, from: Jason Kottke blog
 
  
 
-<https://kottke.org/24/04/eclipse-complaints>
+<https://kottke.org/24/04/the-function-of-colour-in-factories-schools-hospitals-1930>
 
 ---
 
-## Nix is a better Docker image builder than Docker's image builder
+## The native app install experience
 
-date: 2024-04-10, from: Ze Iaso's blog
+date: 2024-04-10, from: Dave Rupert blog
 
- 
+<p><video controls preload="none" poster="https://cdn.daverupert.com/posts/2024/download-app.jpg" src="https://cdn.daverupert.com/posts/2024/download-app.mp4"></video></p>
+<p>At the end of each MSNBC YouTube video right now they have a 30 second post-roll of Ali Velshi explaining the 5-step process on how to install the new MSNBC app.</p>
+<ol>
+<li>Tap on the App Store on your phone</li>
+<li>Hit “Search” on the bottom right corner</li>
+<li>Type in “MSNBC”</li>
+<li>Click on the MSNBC app</li>
+<li>Click on “Get” or the cloud icon</li>
+</ol>
+<p>There’s an implied sixth step where you need to actually open the newly installed app. Opening the app for the first time you swipe through a little slideshow that has two more (optional) steps: give your email and turn on notifications. Standard engagement economy tactics.</p>
+<p>Hearing the 5-step native app install process a few times a day makes me think we lost something along the way. Remember when the call to action was to visit a URL? Not only is “Visit msnbc.com” more succinct, catchier, private, less prone to user error, and immune to competitive advertisements but it also doesn’t require a paid presenter to coach you through it. Once upon a time users might have needed Ali Velshi’s help getting to a website, but in my experience visiting a website is one of the first computing skills my kids learned without my direct involvement. The URL isn’t a foreign concept anymore.</p>
+<p>I know I’m making a mountain out of a “We just want to promote our new app, maaan” molehill here, but even saying “Visit msnbc.com/mobile” with a redirect to their <a href="https://www.msnbc.com/information/msnbc-info/download-msnbc-app-n1241692">actual app download page</a> would be easier. It boggles my mind why you’d push a clunky app store install flow over a five-letter domain name. I’d even bet $5 that the “native app” is actually a bunch of web views in a trench coat. In an even wilder twist, that app download page isn’t linked anywhere on the website! Ughck. I’m 0% invested on what’s happening over at MSNBC but I’m already getting whiffs of misaligned goals, interdepartmental strife, and poorly designed content management systems.</p>
+<p>Anyways, websites. They’re old tech but still work great from time to time.</p> 
 
-<https://xeiaso.net/talks/2024/nix-docker-build/>
+<https://daverupert.com/2024/04/download-our-native-app/>
 
 ---
 
-##  The Climate Charts Are Not Okay. &#8220;The charts are hilariously underpowered attempts... 
+## EU’s new tech laws are working; small mobile browsers gain market share
+
+date: 2024-04-10, from: OS News
+
+Independent browser companies in the European Union are seeing a spike in users in the first month after EU legislation forced Alphabet&#8217;s Google, Microsoft and Apple to make it easier for users to switch to rivals, according to data provided to Reuters by six companies. The early results come after the EU&#8217;s sweeping Digital Markets Act, which aims to remove unfair competition, took effect on March 7, forcing big tech companies to offer mobile users the ability to select from a list of available web browsers from a &#8220;choice screen.&#8221; ↫ Supantha Mukherjee and Foo Yun Chee I can&#8217;t believe this is even remotely surprising. A lot of especially Apple fans and people from outside of the European Union complained left, right, and centre about the choice screen and how it was ugly, unnecessary, and would just confuse users. These are interesting claims, considering the fact that setting up a modern smartphone such as the iPhone takes the user through 40-50 setup screens chockful of confusing choices to make, so adding one more surely wouldn&#8217;t make a difference. Of course giving users the option to choose a different default browser would lead to an increase in browsers other than Safari (iOS) or Chrome (Android) being set as the default. I&#8217;m pretty sure quite a few users learned, through the choice screen, for the first time, that there even are different browsers to choose from, and that some of those might offer features and benefits they didn&#8217;t even know they could enjoy. That&#8217;s the whole point of this endeavour: informing users that they have a choice, something Apple, Google, and others would rather you either do not have, or at least not know about. It&#8217;s far too early to tell if these spikes are a one-off thing, or if the rise in browsers other than Safari on iOS and Chrome on Android is more structural. I wouldn&#8217;t be surprised if it&#8217;s the latter, and even if the numbers remain in the single digits or low double digits, it will still lead to an increase in competition, and a more vibrant mobile browser market. Good news, regardless. 
+
+<https://www.osnews.com/story/139238/eus-new-tech-laws-are-working-small-mobile-browsers-gain-market-share/>
+
+---
+
+## Microsoft details new features coming in Windows Server 2025
+
+date: 2024-04-10, from: OS News
+
+Microsoft recently held a streaming event in which it detailed a lot of the new features and changes coming in Windows server 2025, and has now followed that up with a blog post, as well. There&#8217;s a lot to go over here, and I&#8217;m anything but a Windows Server specialist, so I&#8217;ll highlight some of the thing I&#8217;m certain will be welcomed by Windows Server administrators. First and foremost, the biggest improvement: hot-patching. Security updates can be installed without having to reboot, because Server 2025 will modify code in memory without restarting the processes in question. Quarterly updates, however, will still require reboots. Hot-patching will be free on all versions of Server 2025. Microsoft also promises a massive performance boost for NVMe drives &#8211; the company claims a 70% improvement going from Server 2022 to Server 2025. Microsoft&#8217;s other file system, ReFS, is also seeing improvements, and Storage Replica&#8217;s compression will be available in all editions of Windows Server 2025. A major improvement in Hyper-V is the ability to partition GPUs, so you can use one GPU to power multiple virtual machines. As far as licensing goes, the most important news here is that you&#8217;ll still be able to buy a normal, regular, run-of-the-mill perpetual license for Windows Server 2025, so even though there&#8217;s various more &#8216;modern&#8217; options, you can also just opt for the way it&#8217;s always been. 
+
+<https://www.osnews.com/story/139236/microsoft-details-new-features-coming-in-windows-server-2025/>
+
+---
+
+## The Marshall Star for April 10, 2024
+
+date: 2024-04-10, from: NASA breaking news
+
+NASA, Marshall Help Viewers Celebrate Total Solar Eclipse in Arkansas A group of Marshall and agency team members traveled to Russellville, Arkansas, to help viewers experience the April 8 total solar eclipse through the eyes of NASA. Science and communication experts from NASA’s Marshall Space Flight Center, Stennis Space Center, Kennedy Space Center, and NASA [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-april-10-2024/>
+
+---
+
+##  Adam Moss and the Creative Process 
 
 date: 2024-04-10, updated: 2024-04-10, from: Jason Kottke blog
 
  
 
-<https://kottke.org/24/04/0044356-the-climate-charts-are-no>
+<https://kottke.org/24/04/adam-moss-and-the-creative-process>
+
+---
+
+## NASA, Japan Advance Space Cooperation, Sign Agreement for Lunar Rover
+
+date: 2024-04-10, from: NASA breaking news
+
+NASA Administrator Bill Nelson and Japan’s Minister of Education, Culture, Sports, Science and Technology (MEXT) Masahito Moriyama have signed an agreement to advance sustainable human exploration of the Moon. Japan will design, develop, and operate a pressurized rover for crewed and uncrewed exploration on the Moon. NASA will provide the launch and delivery of the [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-japan-advance-space-cooperation-sign-agreement-for-lunar-rover/>
+
+---
+
+## More Than 36,000 Volunteers Helped Do NASA Eclipse Science
+
+date: 2024-04-10, from: NASA breaking news
+
+Thank you for helping us out! Over 36,000 people helped do NASA Science during Monday’s total solar eclipse. Together, these volunteers submitted more than 60,000 vital pieces of eclipse data to NASA science projects. More than 30,000 volunteers with the SunSketcher project pointed their smartphones toward the Sun and recorded pictures of Bailey’s beads, flashes of Sunlight […] 
+
+<https://science.nasa.gov/get-involved/citizen-science/more-than-36000-volunteers-helped-do-nasa-eclipse-science/>
+
+---
+
+##  A map of the &#8220;foreign&#8221; origins of our global diet. &#8220;You cannot... 
+
+date: 2024-04-10, updated: 2024-04-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044367-a-map-of-the-foreign>
+
+---
+
+## A Langley Intern Traveled 1,340 Miles to View a Total Solar Eclipse. Here’s What She Saw.
+
+date: 2024-04-10, from: NASA breaking news
+
+Emma Friedman, an Office of Communications intern at NASA’s Langley Research Center in Hampton, Virginia, understood that the total solar eclipse on April 8th, 2024, was an out-of-this-world opportunity she couldn’t miss. Equipped with the proper eye protection, I traveled over one thousand miles to Dallas, Texas, to be in the eclipse’s path of totality. [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/langley/a-langley-intern-traveled-1340-miles-to-view-a-total-solar-eclipse-heres-what-she-saw/>
+
+---
+
+## Run-time Polymorphism in Swift
+
+date: 2024-04-10, from: Michael Tsai
+
+Jordan Rose (Mastodon): There are only three ways to get run-time polymorphism in Swift. Well, three and a half. [&#8230;] Calling a function value (closure) Calling a class member Calling a protocol requirement Manually testing the type of a value [&#8230;] Generics are a powerful and flexible tool, but in general they don&#8217;t result in [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/10/run-time-polymorphism-in-swift/>
+
+---
+
+## Universal macappstore: Links
+
+date: 2024-04-10, from: Michael Tsai
+
+Jeff Johnson: The App Store app on macOS is the default handler of URLs with the macappstore: scheme. App Store preview web pages automatically open the App Store app by setting the location of an HTML &#60;iframe&#62; element to a macappstore: URL. My free open source app Stop The Mac App Store registers itself as [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/10/universal-macappstore-links/>
+
+---
+
+## Facebook Blocking Links to Kansas Reflector
+
+date: 2024-04-10, from: Michael Tsai
+
+Nick Heer: Earlier this week, Dave Kendall of documentary production company Prairie Hollow and formerly of a Topeka, Kansas PBS station, wrote in the Kansas Reflector an article criticizing Meta. Kendall says he tried to promote posts on Facebook for a screening of &#8220;Hot Times in the Heartland&#8221; but was prevented from doing so. A [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/10/facebook-blocking-links-to-kansas-reflector/>
+
+---
+
+## Google Search Changes Hurt Independent Sites
+
+date: 2024-04-10, from: Michael Tsai
+
+Brandon Saltalamacchia (Hacker News, Dennis): The main source of our traffic was through Google Search. Whenever you searched for something retro gaming-related, our hope was that you would stumble across our website for advice, as we have invested hundreds of thousands of dollars into expert journalists to provide you with answers to your retro gaming [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/10/google-search-changes-hurt-independent-sites/>
+
+---
+
+##  The saga of the Coyote vs. Acme movie and what it says... 
+
+date: 2024-04-10, updated: 2024-04-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044365-the-saga-of-the-coyote>
+
+---
+
+## A weighted vest
+
+date: 2024-04-10, from: Dave Rupert blog
+
+<picture style="margin-inline: auto">
+  <source srcset="https://cdn.daverupert.com/posts/2024/vest-dark.svg" media="(prefers-color-scheme: dark)">
+  <img alt="Illustration of a large round man with a tiny vest in the middle of his chest" src="https://cdn.daverupert.com/posts/2024/vest.svg" width="461" height="429" >
+</picture>
+<p>I bought <a href="https://amzn.to/3xsz1Xj">a 40 pound weighted vest for $40 dollars on Amazon</a>. The workout term for this is “rucking” and has connotations with being outdoorsy and/or in the military. Load up a backpack full of weights (or in my case, a vest full of sand bags) and head outdoors. The <a href="https://www.goruck.com/pages/what-is-rucking">marketing benefits</a> of rucking sound great:</p>
+<ul>
+<li>It is simple and anyone can do it</li>
+<li>Gets you outside</li>
+<li>Active Resistance Training™️</li>
+<li>Burns up to 3x more calories than walking</li>
+<li>Good for your back and improves your posture</li>
+<li>Good for your mental health</li>
+</ul>
+<p>A neighbor friend of mine (that’s also a physical therapist) has one and she recommended it.  My body is adept at carrying heavy objects<sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup>, so this seems like an easy way to squeeze out some gains from my regular walks. Bonus points that it gets me outside and gets rid of my developer hunch. After a handful of walks, I’m enjoying the vest and –as expected– my body handles the weight fine but it’s sweatier and hills knock the wind out of me a bit more.</p>
+<p>There’s an army fetish around rucking. It’s hard to tell if that’s fragile male ego in workout culture or if it’s because an armored plate carrier is a well-tested and efficient way to carry weight. My vest doesn’t look that masculine and looks more like I duct taped C4 to my chest. With my uni-bomber glasses, long hair, beard, and resting scowl I don’t need more help looking like a disgruntled domestic terrorist but I suppose this completes the look. If I can sustain <a href="/2021/06/two-options/">the $40 fix</a>, then I’ll upgrade to the $200 plate vest solution.</p>
+<p>The cynical side of me wonders if this is more skinny people shit. As I dawn the weighted vest, the irony is not lost on me I used to be about the same amount of weight heavier. Being heavy never helped me lose weight. No one gives you an approving head nod for walking while fat, but velcro a little vest to your torso and people give you the “good for you” pity eyes.</p>
+<p>Putting my optimist hat back on, <a href="https://www.youtube.com/watch?v=Po4adxJxqZk">it might work this time</a>. Maybe this is the one weird trick my body needs to activate dormant caveman genetics that will unleash my inner Adonis. Walking in hard mode seems sustainable for the time-being and I can already feel my ass morphing into a perfect badonkadonk.</p>
+<section class="footnotes">
+<ol>
+<li id="fn1">
+<p>I cried during the <a href="https://www.youtube.com/watch?v=tQwVKr8rCYw">Luisa’s song “Surface Pressure” in Encanto</a> <a href="#fnref1" class="footnote-backref">↩</a></p>
+</li>
+</ol>
+</section> 
+
+<https://daverupert.com/2024/04/a-weighted-vest/>
+
+---
+
+##  I loved reading through this social history of restaurants in NYC —... 
+
+date: 2024-04-10, updated: 2024-04-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044366-i-loved-reading-through-t>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2024-04-10, from: Dave Winer's Scripting News)
 
-For me, using FSD in my Tesla is like riding a roller coaster. I don't trust the car not to kill me though. I spend most of my working life dealing with bugs in software. It's very easy for me to imagine what could go wrong. I don't understand how people can trust a computer with their lives this way. It's also disconcerting that the car coming at me in the other direction could be computer-driven. And nowadays when I see the other car is a Tesla, esp this month when everyone's getting a free demo of FSD, it's somewhat likely the OP is a computer. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/07/28/marshmallowManFromGhostbusters.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've been trying to pay my NY State income tax and estimated tax for hours. I finally managed to log in, but that doesn't help. They have all kinds of links that say click here to pay the thing you want to pay, and that just takes me to a login page where it says someone with that email address already has an account, which I knew because I'm already logged in using that account. The IRS site was a comparative breeze, even though it had its own mysteries to solve and a certain amount of luck was required to be allowed to pay my freaking taxes. I think when Reagan said the government was the problem this is one of the times he was right about that. 
 
-<http://scripting.com/2024/04/10.html#a135000>
+<http://scripting.com/2024/04/10.html#a180809>
+
+---
+
+##  What Happens If We Do Nothing About the Climate Crisis? 
+
+date: 2024-04-10, updated: 2024-04-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/what-happens-if-we-do-nothing-about-the-climate-crisis>
+
+---
+
+## Media Invited to Learn About NASA’s New Solar Sail Technology
+
+date: 2024-04-10, from: NASA breaking news
+
+Media are invited to learn about NASA’s next-generation solar sail technology – known as the Advanced Composite Solar Sail System – that could enable ambitious lower-cost missions to expand our understanding of the Sun and solar system.  The event will occur from 10-11 a.m. on Tuesday, April 16, at NASA’s Langley Research Center in Hampton, [&#8230;] 
+
+<https://www.nasa.gov/news-release/media-invited-to-learn-about-nasas-new-solar-sail-technology/>
 
 ---
 
@@ -157,15 +478,163 @@ The most popular tropical island game is Race for the Galaxy.</p>
 
 <p>The capital city is <a href="https://en.wikipedia.org/wiki/List_of_cities_proper_by_population_density">one of the densest urban areas</a> on the planet. Just look at the image of <a href="https://en.wikipedia.org/wiki/Mal%C3%A9">Malé on Wikipedia</a>.</p>
 
-<p>I would lament this urban sprawl, the land reclamation, the garbage problem, the democracy deficit, the dependence on tourism – but I know what my friend Peter would say, pointing and the Factfulness book. Check out these stats from the <a href="https://de.m.wikipedia.org/wiki/Malediven">German Wikipedia page on the Maldives</a>:
+<p>I would lament this urban sprawl, the land reclamation, the garbage problem, the democracy deficit, the dependence on tourism – but I know what my friend Peter would say, pointing at the <a href="https://en.wikipedia.org/wiki/Factfulness">Factfulness</a> book. Check out these stats from the <a href="https://de.m.wikipedia.org/wiki/Malediven">German Wikipedia page on the Maldives</a>:
 In 2020, the Maldives had 541000 inhabitants.
 In 1950, they had about 74000 inhabitants. At the time, a woman had about 7.5 children on average in 1980 but these days they are so much better off that the growth rate has dropped to 1.8% in 2020 and a woman has about 1.8 children on average. Life expectancy rose from 34.5 years in 1950 to 81 for women and 77.8 for men in 2020. An amazing improvement from the point of view of the locals.</p>
 
-<p>From my green perspective, though… let’s not forget the garbage island <a href="https://en.m.wikipedia.org/wiki/Thilafushi">Thilafushi</a>.</p>
+<p>From my green perspective, though… let’s not forget the garbage island <a href="https://en.m.wikipedia.org/wiki/Thilafushi">Thilafushi</a>. The picked an island and use it as a garbage dump because they don&rsquo;t know what to do with all the garbage. Sure, every island needs a garbage incinerator now, but in the nineties, there was just garbage and it had to go somewhere. And some of the stuff starts leaking. It accumulates in the the fish. People eat the fish. It&rsquo;s easy to feel grim about this. I need to remind myself that life expectancy was less than 35 years just a generation or two ago (I was born in the seventies). Poverty is much, much worse than pollution and we tend to forget it.</p>
 
-<p>If you’re wondering why I’m basically skimming, reading and finally summarizing Wikipedia articles on my blog, I gues the answer is that this is how I try to deal with it all. To not close my eyes.</p> 
+<p>If you’re wondering why I’m basically skimming, reading and finally summarizing Wikipedia articles on my blog, I guess the answer is that this is how I try to deal with it all. To not close my eyes. Not to look away.</p> 
 
 <https://alexschroeder.ch/view/2024-04-06-maledives>
+
+---
+
+##  A new &#8220;less competitive&#8221; version of Scrabble is coming soon. &#8220;Younger people,... 
+
+date: 2024-04-10, updated: 2024-04-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044364-a-new-less-competitive-ve>
+
+---
+
+## Sometimes Getting the Perfect Picture Really Is Rocket Science
+
+date: 2024-04-10, from: NASA breaking news
+
+NASA Engineer Cindy Fuentes Rosal waves goodbye to a Black Brant IX sounding rocket launching from NASA’s Wallops Flight Facility in Virginia during the total solar eclipse on April 8, 2024. The rocket was part of a series of three launches for the Atmospheric Perturbations around Eclipse Path (APEP) mission to study the disturbances in [&#8230;] 
+
+<https://www.nasa.gov/image-article/sometimes-getting-the-perfect-picture-really-is-rocket-science/>
+
+---
+
+## everyone knows
+
+date: 2024-04-10, from: Ayjay blog
+
+Reading this Jessica Grose piece — so similar to ten thousand other reports made in recent yers — on the miseries induced or exacerbated by digital technologies in the classroom, I think: Everyone knows all this. Everyone knows that living on screens is making children miserable in a dozen different ways, contributing to ever-increasing rates [&#8230;] 
+
+<https://blog.ayjay.org/everyone-knows/>
+
+---
+
+## MAF EAP – Upcoming NASA-Wide EAP Programs (April 2024)
+
+date: 2024-04-10, from: NASA breaking news
+
+Raising Awareness of Substance Use Disorder April 11, 2024 Join us for an enlightening webinar on raising awareness of Substance Use Disorder (SUD). In this informative session, we&#8217;ll delve into the complexities of SUD, exploring its prevalence, impact, and the importance of early detection and intervention. We will discuss effective strategies for recognizing signs of [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/upcoming-nasa-wide-eap-programs-april-2024/>
+
+---
+
+## FreeDOS videos on YouTube
+
+date: 2024-04-10, from: FreeDOS News
+
+<div class="markdown_content"><p>Did you know FreeDOS has a YouTube channel? The latest videos are about getting people interested in programming, like a program to make a <a class="" href="https://www.youtube.com/watch?v=3IUi8HsWxMQ" rel="nofollow">Cylon "eye" move back and forth</a> on the screen, and how to <a class="" href="https://www.youtube.com/watch?v=V1c1PUxda6c" rel="nofollow">write a simple file viewer</a>. We hadn't posted videos in a while, but previous videos from before the break included a <a class="" href="https://www.youtube.com/watch?v=Z5LXMpcZjEw" rel="nofollow">comparison of Quattro Pro</a> with a modern spreadsheet, a demonstration of <a class="" href="https://www.youtube.com/watch?v=0wf-KqsOfnE" rel="nofollow">video resolutions on DOS</a>, how to use <a class="" href="https://www.youtube.com/watch?v=VunVKbu4esM" rel="nofollow">VIM on FreeDOS</a>, and how to <a class="" href="https://www.youtube.com/watch?v=2W6fHooKRB0" rel="nofollow">install Borland TurboC++</a> on FreeDOS. The channel also sometimes covers more general "retrocomputing" topics like a history of <a class="" href="https://www.youtube.com/watch?v=pXmS501wKlU" rel="nofollow">tech writing with ed and nroff</a>, a look back at <a class="" href="https://www.youtube.com/watch?v=uOKzkr7uv9E" rel="nofollow">original style C</a>, and using <a class="" href="https://www.youtube.com/watch?v=S0pXQVMC770" rel="nofollow">Linux like original Unix</a>. For more, subscribe to the <a class="" href="https://www.youtube.com/freedosproject" rel="nofollow">FreeDOS YouTube channel</a>.</p></div> 
+
+<https://sourceforge.net/p/freedos/news/2024/04/freedos-videos-on-youtube/>
+
+---
+
+## Media Invited to NASA’s Student Launch Challenge in Alabama
+
+date: 2024-04-10, from: NASA breaking news
+
+NASA’s 2024 Student Launch challenge will bring students from colleges, universities, high schools, middle schools, and informal education groups to launch amateur rockets and payloads Saturday, April 13, starting at 8:30 a.m. CDT at Bragg Farms in Toney, Alabama, near NASA’s Marshall Space Flight Center in Huntsville. Live streaming will begin at 8:20 a.m. CDT [&#8230;] 
+
+<https://www.nasa.gov/news-release/media-invited-to-nasas-student-launch-challenge-in-alabama/>
+
+---
+
+##  New Japanese anger management technique just dropped: &#8220;Writing down your reaction to... 
+
+date: 2024-04-10, updated: 2024-04-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044362-new-japanese-anger-manage>
+
+---
+
+## NASA Next-Generation Solar Sail Boom Technology Ready for Launch
+
+date: 2024-04-10, from: NASA breaking news
+
+Sailing through space might sound like something out of science fiction, but the concept is no longer limited to books or the big screen. In April, a next-generation solar sail technology – known as the Advanced Composite Solar Sail System – will launch aboard Rocket Lab’s Electron rocket from the company’s Launch Complex 1 in [&#8230;] 
+
+<https://www.nasa.gov/general/nasa-next-generation-solar-sail-boom-technology-ready-for-launch/>
+
+---
+
+## Long Live the B’s
+
+date: 2024-04-10, updated: 2024-04-10, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/04/10/long-live-the-bs/>
+
+---
+
+## Microsoft may want to add a dedicated Windows 11 button for ads and promos
+
+date: 2024-04-10, from: OS News
+
+The company is seemingly contemplating on whether to add a new &#8220;Recommended&#8221; button on the Taskbar. Interestingly, it is unfinished at the moment, or perhaps Microsoft is just not sure if it should proceed with this button at all. ↫ Sayan Sen at Neowin The beatings will continue until morale improves. 
+
+<https://www.osnews.com/story/139234/microsoft-may-want-to-add-a-dedicated-windows-11-button-for-ads-and-promos/>
+
+---
+
+## “Why does part of the Windows 98 Setup program look older than the rest?”
+
+date: 2024-04-10, from: OS News
+
+Well, this is something I never knew. Over on the retrocomputing section of StackExchange, someone asked why the second phase of the Windows 98 installation looked decidedly different from the third phase, even though they&#8217;re both graphical phases (the first phase is textual). The answer turns out to be both surprising, and entirely predictable. The first phase is a DOS program called DOSSETUP.BIN, which is the infamous blue part of the installation. The second part, however, is what we&#8217;re interested in here, and if the first phase is DOS, and the third phase is Windows 98 itself&#8230; What do you think the second phase is running? Yeah, exactly. Basically, because it is running under Windows 3.1 at that point. The second uses this minimal Windows 3.1 to run a Windows 3 program, W98SETUP.BIN (specified as the “shell” in SYSTEM.INI). This starts by copying more files to support all the information-gathering during setup, and various other niceties including the 3D look shown in your screenshot (the contents of the PRECOPY CABs); it ends by copying most of Windows 98, setting the system up so that it will boot Windows 98 from the target drive, and rebooting. ↫ Stephen Kitt So, in order to install Windows 98, you first run DOS, followed by Windows 3.1, ending in Windows 98. I have no idea why this is so funny to me, especially since it fits entirely within expectations of how Microsoft does things. 
+
+<https://www.osnews.com/story/139231/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest/>
+
+---
+
+##  Eclipse COMPLAINTS? 
+
+date: 2024-04-10, updated: 2024-04-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/eclipse-complaints>
+
+---
+
+## Nix is a better Docker image builder than Docker's image builder
+
+date: 2024-04-10, from: Ze Iaso's blog
+
+ 
+
+<https://xeiaso.net/talks/2024/nix-docker-build/>
+
+---
+
+##  The Climate Charts Are Not Okay. &#8220;The charts are hilariously underpowered attempts... 
+
+date: 2024-04-10, updated: 2024-04-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044356-the-climate-charts-are-no>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-10, from: Dave Winer's Scripting News)
+
+For me, using FSD in my Tesla is like riding a roller coaster. I don't trust the car not to kill me though. I spend most of my working life dealing with bugs in software. It's very easy for me to imagine what could go wrong. I don't understand how people can trust a computer with their lives this way. It's also disconcerting that the car coming at me in the other direction could be computer-driven. And nowadays when I see the other car is a Tesla, esp this month when everyone's getting a free demo of FSD, it's somewhat likely the OP is a computer. 
+
+<http://scripting.com/2024/04/10.html#a135000>
 
 ---
 

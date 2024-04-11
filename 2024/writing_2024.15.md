@@ -1,11 +1,104 @@
 ---
 title: writing 2024.15
-updated: 2024-04-10 08:58:06
+updated: 2024-04-11 07:53:07
 ---
 
 # writing 2024.15
 
-(date: 2024-04-10 08:58:06)
+(date: 2024-04-11 07:53:07)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-11, from: Neil Gaiman @ BlueSky)
+
+I'm not saying Dead Boy Detectives will be your new favourite TV show. I'm just saying...
+
+Actually, it may very well be your new favourite show. Who am I trying to kid? 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kpue73553m2z>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-11, from: Neil Gaiman @ BlueSky)
+
+Heartbroken.  I've known Trina Robbins as a person for about 37 years and loved her work since Comix Book in 1976.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kptem3dtp72o>
+
+---
+
+## 2024 Tolkien Society Awards Shortlist
+
+date: 2024-04-10, from: Locus Magazine
+
+<p>The shortlist for the 2024 Tolkien Society Awards has been announced. The awards recognize excellence in the fields of Tolkien scholarship and fandom. The trustees choose the shortlist, with winners to be selected by the membership.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Book</strong></p>
+<ul>
+<li><strong>The Letters of JRR Tolkien: Revised and Expanded Edition</strong>, Humphrey Carpenter &#38; Christopher Tolkien, eds. (William Morrow)</li>
+<li><strong>The Battle of Maldon</strong>, Peter Grybauskas, ed. (William Morrow)</li>
+<li><strong>Pity, Power, and Tolkien’s </strong></li></ul></div> <a href="https://locusmag.com/2024/04/2024-tolkien-society-awards-shortlist/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/04/2024-tolkien-society-awards-shortlist/>
+
+---
+
+## Scriptnotes, Episode 633: Reviving a Dormant Project, Transcript
+
+date: 2024-04-10, from: John August blog
+
+The original post for this episode can be found here. John August: Hey, this is John. Heads up that today’s episode has just a little bit of swearing in it. Hello and welcome. My name is John August, and this is Episode 633 of Scriptnotes, a podcast about screenwriting and things that are interesting to [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-633-reviving-a-dormant-project-transcript">Scriptnotes, Episode 633: Reviving a Dormant Project, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/scriptnotes-episode-633-reviving-a-dormant-project-transcript>
+
+---
+
+## How do you become successful?
+
+date: 2024-04-10, from: Interesting, a blog on writing
+
+And what does that even mean? 
+
+<https://inneresting.substack.com/p/how-do-you-become-successful>
+
+---
+
+## Write On: 'The First Omen' Writers Arkasha Stevenson and Tim Smith
+
+date: 2024-04-10, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-the-first-omen-writers-arkasha-stevenson-and-tim-smith" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20The%20First%20Omen%20Writerdirector%20Arkasha%20Stevenson%20%26%20Writer%20Tim%20Smith.png" alt="Write On: 'The First Omen' Writers Arkasha Stevenson and Tim Smith" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<div> 
+ <div> 
+  <span style="background-color: transparent;">“We had to go back to the ratings board five times. It was a long journey. You have to laugh sometimes because we had some really grotesque imagery in our film. We even have a demon phallus in the film and nobody was worried about that. It was really the image of the vagina that was getting us that rating,” says Arkasha Stevenson, director, and co-screenwriter for The First Omen, about initially getting an NC17 rating from the Motion Picture Association. After much back and forth, the film is now rated R.&nbsp;<br><br>The First Omen was written by Tim Smith and Arkasha Stevenson with Stevenson also directing. The film is a prequel to the classic horror film The Omen (1976) and stays true to the narrative that brings Damian, the antichrist, into the world. But keeping faithful to the original film proved to be challenging in a number of ways.&nbsp;<br><br>“Because we grew up on The Omen,” says Stevenson, “it has such a special place in our hearts. We knew that it has such a special place in every horror fan’s heart, too… We didn't want to tarnish anything, so trying to find a balance where we were trying to create something new, and have our own world, and characters and messages within that, but also pay homage to the original omen, and also have tie-ins and callbacks – it was interesting to try and figure out how to have a conversation with the original film,” she says.<br><br>We also discuss how the film explores the theme of control over women’s bodies and how the current political climate factored into the story considering abortion is such a hot-button issue. To hear more about the writing of the film and how Stevenson and Smith came to the project, listen to the podcast. &nbsp;&nbsp;</span> 
+ </div> 
+ <div>
+   &nbsp; 
+ </div> 
+ <div> 
+  <div class="hs-embed-wrapper hs-fullwidth-embed" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; min-width: 256px; display: block; margin: auto; margin-left: auto; margin-right: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 50%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+  <div> 
+   <div class="hs-embed-wrapper hs-fullwidth-embed" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; min-width: 256px; display: block; margin: auto; margin-left: auto; margin-right: auto;"> 
+    <div class="hs-embed-content-wrapper"> 
+     <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 56.25%; margin: 0px;">  
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<https://blog.finaldraft.com/write-on-the-first-omen-writers-arkasha-stevenson-and-tim-smith>
 
 ---
 

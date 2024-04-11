@@ -1,11 +1,53 @@
 ---
 title: mid central 2024.15
-updated: 2024-04-10 08:58:06
+updated: 2024-04-11 07:53:07
 ---
 
 # mid central 2024.15
 
-(date: 2024-04-10 08:58:06)
+(date: 2024-04-11 07:53:07)
+
+---
+
+## Adaptable pullup
+
+date: 2024-04-11, from: EDN Blog
+
+<img width="239" height="225" src="https://www.edn.com/wp-content/uploads/Fig1_adaptablepullup.jpg?fit=239%2C225" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" /><p>An adaptable pullup can be used in I2C systems where power is restricted or several chips with different I2C modes are used.</p>
+<p>The post <a href="https://www.edn.com/adaptable-pullup/" data-wpel-link="internal">Adaptable pullup</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/adaptable-pullup/>
+
+---
+
+## Judge sentences Lisa Ellen Spoors to five years in jail
+
+date: 2024-04-11, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Former Fresno State graduate teaching assistant Lisa Ellen Spoors has been sentenced to five years in jail for a fatal hit-and-run that killed Hoover High School student Rashad Al-Hakim Jr. in October 2022. Spoors was initially charged with murder, hit-and-run resulting in bodily injury or death and driving under the influence of drug while causing... 
+
+<https://fscollegian.com/2024/04/lisa-ellen-spoors-sentenced-to-five-years-in-jail/>
+
+---
+
+## ASI to discuss resolution for ceasefire in the Gaza Strip today
+
+date: 2024-04-10, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+The Fresno State Associated Students Inc. has scheduled an action item regarding the war in Gaza for its senate meeting today, April 10.  The item is first on the agenda for new business and will present a resolution in support of a ceasefire in the Gaza Strip.  ASI Executive Vice President Frederick Lisitsa will introduce... 
+
+<https://fscollegian.com/2024/04/asi-to-discuss-resolution-for-the-ceasefire-in-the-gaza-strip-today/>
+
+---
+
+## Fresno Grizzlies hit their way to a win in home opening game
+
+date: 2024-04-10, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+For the home opener game of the season, 7,153 fans filled the ballpark for a night of hits, runs, food and fireworks at Chukchansi Park to watch the Fresno Grizzlies battle against the Inland Empire 66ers. Although thousands of fans attended, this was one of the lowest attendance numbers for a home opener game since... 
+
+<https://fscollegian.com/2024/04/fresno-grizzlies-hit-their-way-to-a-win-in-home-opening-game/>
 
 ---
 
@@ -13,7 +55,7 @@ updated: 2024-04-10 08:58:06
 
 date: 2024-04-10, from: EDN Blog
 
-<img width="1014" height="490" src="https://www.edn.com/wp-content/uploads/Power-devices-power-vs-frequency.png?fit=1014%2C490" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Power-devices-power-vs-frequency.png?w=1014 1014w, https://www.edn.com/wp-content/uploads/Power-devices-power-vs-frequency.png?w=300 300w, https://www.edn.com/wp-content/uploads/Power-devices-power-vs-frequency.png?w=768 768w" sizes="(max-width: 1014px) 100vw, 1014px" /><p>The GaN and SiC substrates offer strong advantages for power electronics however, key characteristics differentiate these two semiconductors. </p>
+<img width="1014" height="490" src="https://www.edn.com/wp-content/uploads/Power-devices-power-vs-frequency.png?fit=1014%2C490" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Power-devices-power-vs-frequency.png?w=1014 1014w, https://www.edn.com/wp-content/uploads/Power-devices-power-vs-frequency.png?w=300 300w, https://www.edn.com/wp-content/uploads/Power-devices-power-vs-frequency.png?w=768 768w" sizes="(max-width: 1014px) 100vw, 1014px" /><p>The GaN and SiC substrates offer strong advantages for power electronics however, key characteristics differentiate these two semiconductors. </p>
 <p>The post <a href="https://www.edn.com/gan-vs-sic-a-look-at-two-popular-wbg-semiconductors-in-power/" data-wpel-link="internal">GaN vs SiC: A look at two popular WBG semiconductors in power</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

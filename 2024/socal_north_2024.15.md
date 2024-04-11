@@ -1,11 +1,358 @@
 ---
 title: socal north 2024.15
-updated: 2024-04-10 08:58:06
+updated: 2024-04-11 07:53:06
 ---
 
 # socal north 2024.15
 
-(date: 2024-04-10 08:58:06)
+(date: 2024-04-11 07:53:06)
+
+---
+
+## Classifieds – April 11, 2024
+
+date: 2024-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/11/classifieds-april-11-2024/">Classifieds &#8211; April 11, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/11/classifieds-april-11-2024/>
+
+---
+
+## The greatest guitarist you don’t know
+
+date: 2024-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Kirk Hammett hid his heritage for decades because of rock’s racism.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/11/the-greatest-guitarist-you-dont-know/">The greatest guitarist you don’t know</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/11/the-greatest-guitarist-you-dont-know/>
+
+---
+
+## Showcase features Armenian culture
+
+date: 2024-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The event included performances of Armenian art, poetry, dance and song. </p>
+<p>The post <a href="https://dailytrojan.com/2024/04/11/armenian-students-celebrate-armenian-heritage-month/">Showcase features Armenian culture</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/11/armenian-students-celebrate-armenian-heritage-month/>
+
+---
+
+## Health fair raises sexual assault awareness
+
+date: 2024-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>SAAMLAND, facilitated by Student Health, included poems, music and stickers.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/11/saamland-sexual-assault-awareness/">Health fair raises sexual assault awareness</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/11/saamland-sexual-assault-awareness/>
+
+---
+
+## Beyond theory: liberal arts and ethics
+
+date: 2024-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Consider morals and ethics when extending academic knowledge to your career.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/11/applying-liberal-arts-knowledge-to-the-real-world-is-an-ethical-challenge/">Beyond theory: liberal arts and ethics</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/11/applying-liberal-arts-knowledge-to-the-real-world-is-an-ethical-challenge/>
+
+---
+
+## Women’s golf shines at Augusta event
+
+date: 2024-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans excelled during the fifth Annual Augusta National Women’s Amateur.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/11/womens-golf-shines-at-augusta-event/">Women’s golf shines at Augusta event</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/11/womens-golf-shines-at-augusta-event/>
+
+---
+
+## Commencement speakers for more schools revealed
+
+date: 2024-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The speakers include actors, entrepreneurs and a CEO, all with school connections.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/11/2024-satellite-commencement/">Commencement speakers for more schools revealed</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/11/2024-satellite-commencement/>
+
+---
+
+## Celebrate Armenian History Month with these musicians
+
+date: 2024-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Michel Legrand and Bei Ru lead this crop of talented artists to honor this April.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/11/celebrate-armenian-history-month-with-these-musicians/">Celebrate Armenian History Month with these musicians</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/11/celebrate-armenian-history-month-with-these-musicians/>
+
+---
+
+## Baseball aims to extend winning streak with Oregon series
+
+date: 2024-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC moved back to a .500 record following a weekday win over No. 12 UC Irvine.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/11/baseball-aims-to-extend-winning-streak-with-oregon-series/">Baseball aims to extend winning streak with Oregon series</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/11/baseball-aims-to-extend-winning-streak-with-oregon-series/>
+
+---
+
+## It doesn’t take a college education to hate the Electoral College
+
+date: 2024-04-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p> Between swing states and diluted voting power, the Electoral College makes our presidential elections less equitable.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/11/it-doesnt-take-a-college-education-to-hate-the-electoral-college/">It doesn’t take a college education to hate the Electoral College</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/11/it-doesnt-take-a-college-education-to-hate-the-electoral-college/>
+
+---
+
+## Bruin to Bruin: Leonard Kleinrock
+
+date: 2024-04-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+Leonard Kleinrock is considered one of the founding fathers of the internet, and he has served on the UCLA faculty for over 60 years. Podcasts contributor Marty Johnson sits down with Professor Kleinrock to discuss his life, career, and advice he has for UCLA students. 
+
+<https://dailybruin.com/2024/04/10/bruin-to-bruin-leonard-kleinrock/>
+
+---
+
+## Cars for the ages
+
+date: 2024-04-11, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Grandparents, parents, kids, grandkids—most all generations find their way to Supercar Sunday at Pierce College.  Sunday’s event in Lot 7 was Ferrari Day sponsored by</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/10/cars-for-the-ages/">Cars for the ages</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/10/cars-for-the-ages/?utm_source=rss&utm_medium=rss&utm_campaign=cars-for-the-ages>
+
+---
+
+## Pierce students win at National Hillel Basketball Tournament
+
+date: 2024-04-11, from: The Round Up (Pierce College Student Newspaper)
+
+<p>A group of Pierce College students beating out teams from the University of Texas and UCLA at a collegiate basketball tournament? Yes, it happened.  Brahmas</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/10/pierce-students-win-at-national-hillel-basketball-tournament/">Pierce students win at National Hillel Basketball Tournament</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/10/pierce-students-win-at-national-hillel-basketball-tournament/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-students-win-at-national-hillel-basketball-tournament>
+
+---
+
+## Enterprise editor Lex Wang appointed Daily Bruin 2024-2025 editor in chief
+
+date: 2024-04-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+The ASUCLA Communications Board appointed Enterprise editor Lex Wang as editor in chief of the Daily Bruin for the 2024-2025 academic year.
+Wang, a third-year history and political science student, joined the Daily Bruin in 2021 as an intern for The Quad, the paper&#8217;s explanatory journalism section. 
+
+<https://dailybruin.com/2024/04/10/enterprise-editor-lex-wang-appointed-daily-bruin-2024-2025-editor-in-chief/>
+
+---
+
+## Multiple CSUN organizations come together to hold vigil for Palestine
+
+date: 2024-04-11, from: The Sundail (CSUN Student Newspaper)
+
+As the conflict in the Middle East continues, a vigil for Palestine was held Wednesday, April 3 in front of the University Library Lawn. The vigil was held on the... 
+
+<https://sundial.csun.edu/180352/news/multiple-csun-organizations-come-together-to-hold-vigil-for-palestine/>
+
+---
+
+## Music Preview: Familar artists bloom once again in upcoming spring releases
+
+date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+Like many Bruins, these icons of pop culture are coming out of hibernation.
+Following several years between projects, artists are making their return to music this season. 
+
+<https://dailybruin.com/2024/04/10/music-preview-familar-artists-bloom-once-again-in-upcoming-spring-releases/>
+
+---
+
+## What Support Do Community College Students Need To Transfer?
+
+date: 2024-04-10, updated: 2024-04-10, from: The LAist
+
+Across the country, transfer rates remain bleak. Here’s how UCLA’s Scholars Program is working to change that. 
+
+<https://laist.com/news/education/ucla-center-community-college-partnerships-scholars-program-transfer-students>
+
+---
+
+## UCLA football offense evolves under Foster, Bieniemy in expletive-fueled practices
+
+date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Expletives had various connotations during a practice laden with them.
+One moment, redshirt junior quarterback Ethan Garbers cursed with joy, applauding his wide receivers following a well-executed play. 
+
+<https://dailybruin.com/2024/04/10/ucla-football-offense-evolves-under-foster-bieniemy-in-expletive-fueled-practices/>
+
+---
+
+## World Wide Climate Justice Education Week: A week of gardens, community and education
+
+date: 2024-04-10, from: The Sundail (CSUN Student Newspaper)
+
+April 2 through April 5 was World Wide Climate Justice Education Week at CSUN. With spring in full gear and Earth Day on the 22nd of the month, it&#8217;s the... 
+
+<https://sundial.csun.edu/180339/news/world-wide-climate-justice-education-week-a-week-of-gardens-community-and-education/>
+
+---
+
+## Children with disabilities need inclusion in classroom settings
+
+date: 2024-04-10, from: The Sundail (CSUN Student Newspaper)
+
+Growing up, I was always taught to be inclusive to everyone, especially my classmates who I would see every day. My godbrother has autism, and being inclusive has always been... 
+
+<https://sundial.csun.edu/180334/opinions/children-with-disabilities-need-inclusion-in-classroom-settings/>
+
+---
+
+## CSUN women’s water polo rallies for comeback win on Senior Day
+
+date: 2024-04-10, from: The Sundail (CSUN Student Newspaper)
+
+No. 25 CSUN Water Polo (17-14, 1-5 Big West) showcased their unwavering fight in a thrilling last minute of a game on a highly emotional Senior Day. Defender Anna Pal... 
+
+<https://sundial.csun.edu/180327/sports/csun-womens-water-polo-rallies-for-comeback-win-on-senior-day/>
+
+---
+
+## UCLA men’s volleyball gears up for final two regular season matches
+
+date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+This weekend will present a conundrum for the Bruin faithful &#8211; looking forward or savoring the present.
+For the former, after this weekend&#8217;s contests, the Bruins will have a chance to repeat as conference champions. 
+
+<https://dailybruin.com/2024/04/10/ucla-mens-volleyball-gears-up-for-final-two-regular-season-matches/>
+
+---
+
+## It’s the fall of the Titans as UCLA softball shuts out Cal State Fullerton
+
+date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Titans were not impervious to Kaitlyn Terry on Tuesday night.
+&#8220;She was on fire,&#8221; said junior catcher Jayla Castro. &#8220;When she gets into a rhythm and a mode, it&#8217;s really hard to kind of snap her out of that and it&#8217;s so easy working with her when she gets like that.&#8221;
+The freshman pitcher/outfielder mowed down eight batters as No. 
+
+<https://dailybruin.com/2024/04/10/its-the-fall-of-the-titans-as-ucla-softball-shuts-out-cal-state-fullerton/>
+
+---
+
+## Kyreeana Alexander’s ‘We Cool’ reimagines childhood hope for today’s adults
+
+date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Kyreeana Alexander and her three teddy bears are tapping into the wonder of childhood.
+The graduate student in choreographic inquiry is set to perform her capstone project &#8220;We Cool&#8221; on Friday and Saturday evening in Kaufman Hall. 
+
+<https://dailybruin.com/2024/04/10/kyreeana-alexanders-we-cool-reimagines-childhood-hope-for-todays-adults/>
+
+---
+
+## Title IX website changes
+
+date: 2024-04-10, from: The Sundail (CSUN Student Newspaper)
+
+Title IX website changes CSUN is seeking to enhance its Office of Equity and Compliance website to improve student awareness regarding campus safety, as well as protections against sexual misconduct... 
+
+<https://sundial.csun.edu/180150/news/title-ix-website-changes/>
+
+---
+
+## CSUN Hip-Hop prepares for Kinesis performance
+
+date: 2024-04-10, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN Hip-Hop club recently finished a practice video for its second choreography. The rehearsal was held on March 11. The group of dancers are now deciding what to do... 
+
+<https://sundial.csun.edu/180178/news/csun-hip-hop-prepares-for-kinesis-performance/>
+
+---
+
+## Gallery: UCLA students, community witness partial solar eclipse
+
+date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Monday marked the second solar eclipse that moved across the United States in the last seven years. While people in Los Angeles only saw a partial – rather than total – eclipse, UCLA students and community members still came out to witness the phenomenon. 
+
+<https://dailybruin.com/2024/04/10/gallery-ucla-students-community-witness-partial-solar-eclipse/>
+
+---
+
+## Pepperdine washes out UCLA baseball as debuting pitchers navigate choppy waters
+
+date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Jackie Robinson Stadium’s outfield wall is littered with coach John Savage&#8217;s accomplishments.
+The scoreboard&#8217;s right side lists his Pac-12 titles – 2011, 2012, 2015 and 2019 – and the left lists his College World Series appearances – 2010, 2012 and 2013. 
+
+<https://dailybruin.com/2024/04/10/pepperdine-washes-out-ucla-baseball-as-debuting-pitchers-navigate-choppy-waters/>
+
+---
+
+## Writing and Rhetoric Department becomes “College Writing Program”
+
+date: 2024-04-10, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>As students and faculty perused the Course Counts website during course registration, the attentive browser might have noticed a change: the disappearance of the Writing and Rhetoric Department (WRD). If they looked further, they might have even seen the appearance of a new subject, titled &#8220;College Writing Program.&#8221; These changes are no programming errors. Writing [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/04/10/writing-and-rhetoric-department-becomes-college-writing-program/2912312">Writing and Rhetoric Department becomes &#8220;College Writing Program”</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/04/10/writing-and-rhetoric-department-becomes-college-writing-program/2912312>
+
+---
+
+## Your Guide to a (Virtual) Spring Season Getaway
+
+date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/04/10/your-guide-to-a-virtual-spring-season-getaway/>
+
+---
+
+## Self-proclaimed “Loud Woman” Lindy West ’04 to deliver 2024 commencement address
+
+date: 2024-04-10, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Before the eyes of hundreds of capped students, decorated with leis and colorful cords, a speaker stands. In 2019, it was the 42nd Mayor of LA, Eric Garcetti. In 2022, California Senator María Elena Durazo. Just last year, in 2023, author Isabel Wilkerson stood before the graduating class in the Remsen Bird Theatre. As graduation [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/04/10/self-proclaimed-loud-woman-lindy-west-04-to-deliver-2024-commencement-address/2912383">Self-proclaimed &#8220;Loud Woman&#8221; Lindy West &#8217;04 to deliver 2024 commencement address</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/04/10/self-proclaimed-loud-woman-lindy-west-04-to-deliver-2024-commencement-address/2912383>
 
 ---
 
@@ -126,6 +473,16 @@ date: 2024-04-10, from: The Occidental News (Occidental College Student Newspape
  
 
 <https://theoccidentalnews.com/uncategorized/2024/04/10/sophomore-cecilia-grane-wins-asoc-presidential-election-after-eventful-race/2912303>
+
+---
+
+## How LA's Streetlights Serve As Beacons To The City's Past
+
+date: 2024-04-10, updated: 2024-04-10, from: The LAist
+
+Los Angeles has the most diversity in street light design of any American city. 
+
+<https://laist.com/news/la-history/los-angeles-street-lights-history-electric-moons>
 
 ---
 
@@ -263,8 +620,9 @@ date: 2024-04-10, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
 
-I can&#8217;t believe I&#8217;m watching history repeat itself in front of my eyes.
-It&#8217;s been half a year since Hamas&#8217; Oct. 7 attack, and repulsive antisemitism continues to infect UCLA and other college campuses. 
+<em>This post was updated April 10 at 10:02 a.m.</em>
+I can’t believe I’m watching history repeat itself in front of my eyes.
+It’s been half a year since Hamas’ Oct. 
 
 <https://dailybruin.com/2024/04/09/opinion-anti-israel-rhetoric-undermines-palestinian-cause-perpetuates-antisemitism/>
 

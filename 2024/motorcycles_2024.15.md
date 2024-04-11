@@ -1,11 +1,71 @@
 ---
 title: motorcycles 2024.15
-updated: 2024-04-10 08:58:07
+updated: 2024-04-11 07:53:07
 ---
 
 # motorcycles 2024.15
 
-(date: 2024-04-10 08:58:07)
+(date: 2024-04-11 07:53:07)
+
+---
+
+## The 2024 Honda CB125R Gets A TFT Display And Four New Colors
+
+date: 2024-04-11, from: Ride Apart, Electric Motorcycle News
+
+Euro 5+ emissions compliance also comes standard on the updated bike. 
+
+<https://www.rideapart.com/news/715169/2024-honda-cb125r-updates-euro5plus/>
+
+---
+
+## We Should Bring back Iconic Dash Designs in the TFT Era
+
+date: 2024-04-11, from: Ride Apart, Electric Motorcycle News
+
+Most OEMs love to pay homage to their histories, as they should. Why not bring TFTs into the mix? 
+
+<https://www.rideapart.com/news/715673/retro-motorcycle-dash-design-tft/>
+
+---
+
+## Airbag Equipped Harley-Davidson Smart Vest Offers Advanced Protection
+
+date: 2024-04-10, from: Cycle World News
+
+The new Harley-Davidson Smart Vest combines comfort and style with advanced airbag protection to offer riders peace of mind. 
+
+<https://www.cycleworld.com/the-wire/airbag-equipped-harley-davidson-smart-vest-offers-advanced-protection/>
+
+---
+
+## AMA US Hard Enduro Series Teams Up With onX Offroad To Go Further
+
+date: 2024-04-10, from: Ride Apart, Electric Motorcycle News
+
+onX Offroad will serve as the official mapping partner of the 2024 USHE.  
+
+<https://www.rideapart.com/news/715556/2024-ama-ushe-onx-offroad-partnership/>
+
+---
+
+## Watch Hard Enduro Dirt Bikers Jump a Creek and Fail Spectacularly
+
+date: 2024-04-10, from: Ride Apart, Electric Motorcycle News
+
+We're not saying we could do any better. 
+
+<https://www.rideapart.com/news/715666/hard-enduro-dirt-bike-jump-fail-video/>
+
+---
+
+## 2024 Triumph TF 250-X First Ride
+
+date: 2024-04-10, from: Cycle World News
+
+Cycle World headed to Florida’s Gatorback Cycle Park for a first test of Triumph’s brand-new and first-ever 250cc motocross bike. Is the TF 250-X a contender? 
+
+<https://www.cycleworld.com/motorcycle-reviews/triumph-tf-250-x-first-ride/>
 
 ---
 

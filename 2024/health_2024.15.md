@@ -1,11 +1,21 @@
 ---
 title: health 2024.15
-updated: 2024-04-10 08:58:06
+updated: 2024-04-11 07:53:07
 ---
 
 # health 2024.15
 
-(date: 2024-04-10 08:58:06)
+(date: 2024-04-11 07:53:07)
+
+---
+
+## Evaluating the therapeutic potential of moxibustion on polycystic ovary syndrome: a rat model study on gut microbiota and metabolite interaction
+
+date: 2024-04-11, from: Frontiers in Cellular and Infection Microbiology
+
+Polycystic ovary syndrome (PCOS) is a common systemic disorder related to endocrine disorders, affecting the fertility of women of childbearing age. It is associated with glucose and lipid metabolism disorders, altered gut microbiota, and insulin resistance. Modern treatments like pioglitazone, metformin, and spironolactone target specific symptoms of PCOS, while in Chinese medicine, moxibustion is a common treatment. This study explores moxibustion’s impact on PCOS by establishing a dehydroepiandrosterone (DHEA)-induced PCOS rat model. Thirty-six specific pathogen-free female Sprague-Dawley rats were divided into four groups: a normal control group (CTRL), a PCOS model group (PCOS), a moxibustion treatment group (MBT), and a metformin treatment group (MET). The MBT rats received moxibustion, and the MET rats underwent metformin gavage for two weeks. We evaluated ovarian tissue changes, serum testosterone, fasting blood glucose (FBG), and fasting insulin levels. Additionally, we calculated the insulin sensitivity index (ISI) and the homeostasis model assessment of insulin resistance index (HOMA-IR). We used 16S rDNA sequencing for assessing the gut microbiota, 1H NMR spectroscopy for evaluating metabolic changes, and Spearman correlation analysis for investigating the associations between metabolites and gut microbiota composition. The results indicate that moxibustion therapy significantly ameliorated ovarian dysfunction and insulin resistance in DHEA-induced PCOS rats. We observed marked differences in the composition of gut microbiota and the spectrum of fecal metabolic products between CTRL and PCOS rats. Intriguingly, following moxibustion intervention, these differences were largely diminished, demonstrating the regulatory effect of moxibustion on gut microbiota. Specifically, moxibustion altered the gut microbiota by increasing the abundance of UCG-005 and Turicibacter, as well as decreasing the abundance of Desulfovibrio. Concurrently, we also noted that moxibustion promoted an increase in levels of short-chain fatty acids (including acetate, propionate, and butyrate) associated with the gut microbiota of PCOS rats, further emphasizing its positive impact on gut microbes. Additionally, moxibustion also exhibited effects in lowering FBG, testosterone, and fasting insulin levels, which are key biochemical indicators associated with PCOS and insulin resistance. Therefore, these findings suggest that moxibustion could alleviate DHEA-induced PCOS by regulating metabolic levels, restoring balance in gut microbiota, and modulating interactions between gut microbiota and host metabolites. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1328741>
 
 ---
 

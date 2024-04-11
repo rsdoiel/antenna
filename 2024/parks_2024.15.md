@@ -1,19 +1,19 @@
 ---
 title: parks 2024.15
-updated: 2024-04-10 08:58:06
+updated: 2024-04-11 07:53:07
 ---
 
 # parks 2024.15
 
-(date: 2024-04-10 08:58:06)
+(date: 2024-04-11 07:53:07)
 
 ---
 
-## With summer around the corner, BLM Arizona and partners share tips for preventing roadside fires during rest area events
+## The BLM encourages visitor safety on public lands during wildflower season in the California desert
 
-date: 2024-04-09, from: Bureau of Land Management, blog
+date: 2024-04-10, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/interior-department-announces-nearly-12-million-protect-and-restore-western-wildlife" hreflang="en">Interior Department Announces Nearly $12 Million to Protect and Restore Western Wildlife Habitats and Migration Corridors</a></h2></div>
+<div class="field contact-block -title"><h1>The BLM encourages visitor safety on public lands during wildflower season in the California desert</h1></div>
       
 
 
@@ -21,189 +21,155 @@ date: 2024-04-09, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Publication Date:</strong> </div>
-              <div><time datetime="2024-03-26T12:00:00Z">Tue, 03/26/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
+            <div class="field contact-block -body"><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">PALM SPRINGS, Calif.</span></b><span lang="EN-CA" style="font-family:Roboto"> – After much needed winter rain, the California desert comes alive in the spring. Precious plants invisible under the sand will bloom overnight, adding colorful pink, yellow and white flowers across the landscape. </span></span></span></span></p>
 
+<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">While enjoying your desert excursions this spring, remember to recreate responsibly. Always plan trips in advance. Tell someone where you’re going and your expected return time. To avoid disturbing plants and wildlife, only travel on designated roads and trails. </span></span></span><span style="font-size:11.0pt"><span style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Capture the beauty of wildflowers through photography and leave them where they bloom. </span></span></span></span><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">For more safety tips, visit the California State Park’s <a href="https://www.parks.ca.gov/?page_id=30078" style="color:blue; text-decoration:underline">website</a>. </span></span></span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:#212529">Here are locations to view wildflowers on BLM-managed public lands in the California desert:</span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">Barstow Field Office: </span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="89cb682e-5365-44b4-b279-35940a571ac8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
 
 
 
 
   
 
-            <div class="field contact-block -body"><p><strong>WASHINGTON&nbsp;</strong>— The Department of the Interior and National Fish and Wildlife Foundation (NFWF) today&nbsp;<a href="https://www.nfwf.org/sites/default/files/2024-03/NFWF-WesternBigGameMigration-20240314-GS.pdf">announced</a>&nbsp;$11.8 million for 10 projects in seven states that will help restore habitat connectivity and secure key migration corridors for wildlife in the American West. A total of $3 million in grants and $8.8 million in matching contributions will be invested to protect migratory species like elk, mule deer, and pronghorn and their habitats in Arizona, California, Colorado, Idaho, Montana, Oregon and Wyoming.&nbsp;</p>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/32945873063_e6abe7b65c_c.jpg?itok=O1W1xekJ" width="640" height="426" alt="Purple flowers in the desert" typeof="foaf:Image">
 
-<p>“Healthy habitats and interconnected spaces to live and roam are key for the sustainability of species,” said&nbsp;<strong>Secretary Deb Haaland</strong>. “The Biden-Harris administration is strengthening public-private partnerships and employing an all-of-government approach to ensure the conservation of fish and wildlife in the West and across America through the protection of key migration corridors and habitats.”&nbsp;</p>
 
-<p>Bureau of Land Management (BLM) Director Tracy Stone-Manning and U.S. Fish and Wildlife Service (FWS) Director Martha Williams highlighted the announcement at the 89th North American Wildlife and Natural Resources Conference in Grand Rapids, Michigan.&nbsp;</p>
-
-<p>The grants are made possible through the&nbsp;<a href="https://www.nfwf.org/programs/rocky-mountain-rangelands/western-big-game-seasonal-habitat-and-migration-corridors-fund">Western Big Game Seasonal Habitat and Migration Corridors Fund</a>, which is administered by NFWF in-part through annual appropriations funding from the BLM, FWS, and the Department of Agriculture. The funding supports&nbsp;<a href="https://www.doi.gov/sites/doi.gov/files/uploads/so_3362_migration.pdf">Secretary’s Order 3362</a>, which seeks to enhance and improve the quality of big-game winter range and migration corridor habitat on federal lands. Today's funding builds on nearly $25 million in funding the Department and NFWF announced in&nbsp;<a href="https://www.doi.gov/pressreleases/us-departments-interior-agriculture-and-state-wyoming-commit-enhancing-wildlife">2021</a>,&nbsp;<a href="https://www.doi.gov/pressreleases/secretary-haaland-announces-progress-toward-conservation-and-restoration-wildlife">2022</a>&nbsp;and&nbsp;<a href="https://www.doi.gov/pressreleases/deputy-secretary-beaudreau-announces-nearly-4-million-protect-and-restore-wildlife">2023</a>. This work supports the President’s&nbsp;<a href="https://www.doi.gov/priorities/america-the-beautiful">America the Beautiful&nbsp;initiative</a>, which aims to conserve, connect and restore 30 percent of our lands and waters by 2030.&nbsp;</p>
-
-<p>Today’s announcement supplements historic funding through President Biden’s Investing in America agenda, which is supporting critical projects to restore habitats, strengthen landscape resilience, and put create good-paying jobs to restore America’s lands and waters in partnership with Tribes, private landowners, hunting and conservation organizations, and state wildlife management agencies.&nbsp;</p>
-
-<p>Last month, Secretary Haaland&nbsp;<a href="https://www.doi.gov/pressreleases/biden-harris-administration-announces-more-157-million-investing-america-agenda">announced</a>&nbsp;more than $157 million from President Biden’s Investing in America agenda to restore our nation’s lands and waters through locally led, landscape-scale restoration projects. The funding from the Bipartisan Infrastructure Law will support 206 ecosystem restoration projects in 48 states, Washington, D.C., and the U.S. Territories and will advance the Department’s&nbsp;<a href="https://www.doi.gov/sites/default/files/interior-department-to-take-action-to-restore-lands-and-waters.pdf">ongoing work</a>&nbsp;across several restoration and resilience programs.&nbsp;</p>
-
-<p><strong>Projects receiving grants and matching contributions are listed below:&nbsp;</strong></p>
-
-<h3>ARIZONA&nbsp;&nbsp;</h3>
-
-<p><em><strong>Managing Woody Invasives to Improve Habitat Quality on Perrin Ranch State Lands Grassland&nbsp;&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Arizona Elk Society&nbsp;</strong></p>
-
-<p>Grant Amount: $130,000&nbsp;</p>
-
-<p>Matching Funds: $130,000&nbsp;</p>
-
-<p>Total Project Amount: $260,000&nbsp;</p>
-
-<p>Improve winter habitat quality for migrant and resident mule deer, elk and pronghorn. Project will restore a minimum of 650 acres of grasslands in Northern Arizona by managing the encroachment of woody invasives.&nbsp;</p>
-
-<p><em><strong>Restoring Beaver Creek Watershed to Improve Habitat Connectivity&nbsp;&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Salt River Project Agricultural Improvement and Power District&nbsp;</strong></p>
-
-<p>Grant Amount: $489,500&nbsp;</p>
-
-<p>Matching Funds: $3,376,500&nbsp;</p>
-
-<p>Total Project Amount: $3,866,000&nbsp;</p>
-
-<p>Restore wildlife habitat and connectivity, reduce wildfire risk, protect water supplies, communities, infrastructure and improve forest resiliency. Project will restore approximately 3,920 acres by removing invading woody species from grasslands and former healthy woodlands that will allow native grass, browse, and forb species to return.&nbsp;</p>
-
-<h3>CALIFORNIA&nbsp;</h3>
-
-<p><em><strong>Restoring Steven's Prairie to Enhance Elk Habitat and Establish New Herds&nbsp;&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Yurok Tribe&nbsp;</strong></p>
-
-<p>Grant Amount: $181,393&nbsp;</p>
-
-<p>Matching Funds: $181,393&nbsp;</p>
-
-<p>Total Project Amount: $362,786&nbsp;</p>
-
-<p>Enhance meadow habitat for Roosevelt elk and provide a stopover site both for dispersing elk from saturated populations and for the establishment of new herds on Yurok lands. Project will survey and identify priority habitat in 160 acres; restore 80 acres of degraded prairie through removal of encroaching trees and invasive plants; establish a 25-acre fuel break along the perimeter of the restored site; and place 440 acres under various planning stages to improve management.&nbsp;</p>
-
-<h3>COLORADO&nbsp;</h3>
-
-<p><em><strong>Enhancing Elk Habitat Through Vegetation Treatments in Hay Flats&nbsp;</strong></em></p>
-
-<p><strong>Grantee: US Forest Service&nbsp;</strong></p>
-
-<p>Grant Amount: $200,000&nbsp;</p>
-
-<p>Matching Funds: $199,896&nbsp;</p>
-
-<p>Total Project Amount: $399,896&nbsp;</p>
-
-<p>Enhance elk habitat through vegetation treatments in mountain shrub and aspen communities within the vicinity of Hay Flats. Project will improve 2.25 acres of fencing, treat 430 acres with mechanical methods would create a mosaic of snowberry regrowth and allow understory species to take hold, and treat 220 acres with mastication and hand felling to increase forage, cover, and movement opportunities for elk in spring production areas, summer and winter habitat, and movement corridors.&nbsp;</p>
-
-<p><em><strong>Protecting Migration Corridors via the Wolf Mountain VII Conservation Easement&nbsp;&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Rocky Mountain Elk Foundation&nbsp;</strong></p>
-
-<p>Grant Amount: $100,000&nbsp;</p>
-
-<p>Matching Funds: $1,977,882&nbsp;</p>
-
-<p>Total Project Amount: $2,077,882&nbsp;</p>
-
-<p>Conserve vital aspen woodlands, sagebrush, and riparian habitat, as well as a migration corridor and pathway for two of Colorado’s largest migratory herds. Project will permanently protect approximately 1,630 acres of migration corridors for elk and winter range for mule deer, secure habitat connectivity through the valley bottom and highly developable lands near State Highway 40, protect five stream miles, and support a host of other wildlife, including greater sage grouse.&nbsp;&nbsp;</p>
-
-<h3>IDAHO&nbsp;</h3>
-
-<p><em><strong>Modifying Fencing to Improve the Migration Route Across Highway 28&nbsp;</strong></em></p>
-
-<p><strong>Grantee: The Mule Deer Foundation&nbsp;</strong></p>
-
-<p>Grant Amount: $317,922&nbsp;</p>
-
-<p>Matching Funds: $300,000&nbsp;</p>
-
-<p>Total Project Amount: $617,922&nbsp;</p>
-
-<p>Support passage-success of migratory mule deer and elk, reduce animal-vehicle collisions, and simultaneously increase safety for motorists. Project will extend a wildlife funnel fence project on Highway 28 by reconnecting three miles of corridor, improve 10 miles of fencing, remove two miles of fencing, and increase the passage success rate to 95%.</p>
-
-<h3>MONTANA&nbsp;</h3>
-
-<p><em><strong>Collaborating with Montana Grassland Partnership to Improve Big Game Migration&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Ranchers Stewardship Alliance, Inc.&nbsp;</strong></p>
-
-<p>Grant Amount: $275,000&nbsp;</p>
-
-<p>Matching Funds: $275,000&nbsp;</p>
-
-<p>Total Project Amount: $550,000&nbsp;</p>
-
-<p>Support, connect, and contribute to the partnership of big game migration work being done under the umbrella of the Montana Grassland Partnership as part of the Ranchers Stewardship Alliance (RSA) Conservation Committee. Project will work to improve nine miles of fencing, remove nine miles of unneeded fencing, restore 1,000 acres of grassland for added habitat and add a Conservation Director position with RSA to better serve the RSA project area and collaborate within the Montana Grassland Partnership.&nbsp;</p>
-
-<h3>OREGON&nbsp;</h3>
-
-<p><em><strong>Protecting Migration Habitat via a Fee Title Transfer to the Warm Springs Indian Reservation&nbsp;&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Oregon Wildlife Heritage Foundation&nbsp;</strong></p>
-
-<p>Grant Amount: $199,998&nbsp;</p>
-
-<p>Matching Funds: $716,350&nbsp;</p>
-
-<p>Total Project Amount: $916,348&nbsp;</p>
-
-<p>Protect migration corridors in high use areas in the Metolious winter range. Project will transfer 300-acre acquisition to the Confederated Tribe of the Warm Springs Indian Reservation.&nbsp;</p>
-
-<p><em><strong>Treating Invasives to Improve Migration Corridors for Elk and Nesting Habitat for Sage Grouse (OR)&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Crook County Soil and Water Conservation District&nbsp;</strong></p>
-
-<p>Grant Amount: $190,609&nbsp;</p>
-
-<p>Matching Funds: $213,586&nbsp;</p>
-
-<p>Total Project Amount: $404,195&nbsp;</p>
-
-<p>Enhance understory conditions in sagebrush habitats, which will improve conditions for a host of species including sagebrush obligates and improve migration and seasonal habitat for a variety of wildlife species. Project will restore 415 acres of migration habitat for elk and mule deer as well as seasonal habitat for sage grouse through the removal of woody invasives.</p>
-
-<h3>WYOMING&nbsp;</h3>
-
-<p><em><strong>Restoring Big Game Migration Corridors for Bates Hole, Dubois and Platte Valley Mule Deer Herds&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Wyoming Game and Fish Department&nbsp;</strong></p>
-
-<p>Grant Amount: $961,250&nbsp;</p>
-
-<p>Matching Funds: $961,250&nbsp;</p>
-
-<p>Total Project Amount: $1,922,500&nbsp;</p>
-
-<p>Improve forage resources and connectivity between seasonal ranges for mule deer and a wide variety of other wildlife. Project will implement 13,530 acres of invasive weed treatments, modify 46 miles of fences and restore 150 acres of habitat.&nbsp;</p>
 </div>
       
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/Scjdfc" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/Scjdfc</b></a></span></span></span></span></p>
+
+<p style="margin-top:16px; margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Ord Mountains feature beautiful cactus flowers, specifically in the Kane Wash area. Access requires a four-wheel drive vehicle. <a name="_Hlk162941596">Please follow </a></span></span><a href="https://www.blm.gov/visit/barstow" style="color:blue; text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">these practices</span></a><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> to help protect this special place for future visitors. </span></span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">The Fremont Peak area, northwest of Barstow, is typically excellent for wildflowers. Open routes off U.S. Route 395 provide access to the area. Drive with caution as dirt roads may be rutted out in spots. </span></span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">Copper City Road north of Barstow provides access to patches of wildflowers. Vehicles with high clearance are recommended since rocks may be encountered in the road. Many species of wildflowers can be found along Copper City Road including a Joshua tree grove. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">El Centro Field Office: </span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="337d6dde-2707-4b69-8a7c-491008615781" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -fiscal-year">
-    <div><strong>Fiscal Year:</strong> </div>
-              <div>2024</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53645185278_10fb9e852f_c.jpg?itok=HNzJgGne" width="640" height="427" alt="Purple flowers in sand dunes" typeof="foaf:Image">
 
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJrABy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJrABy</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Blooms in the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/north-algodones-dunes-wilderness" style="color:blue; text-decoration:underline">North Algodones Dunes Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be seen from Osborne Overlook in the Imperial Sand Dunes Recreation Area. </span></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Permits are required from October 1 through April 15. Permits</span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be purchased at the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/cahuilla-ranger-station" style="color:blue; text-decoration:underline">Cahuilla Ranger Station</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">,</span></span></span> <span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none">Friday-Sunday for $50 or </span></span></span></span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.isdpermits.net/" style="color:blue; text-decoration:underline">online</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none"> for $35.</span></span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Wildlife Viewing Area in Imperial Sand Dunes Recreation Area provides access to the North Algodones Dunes Wilderness. Safely park along Ted Kipf Road before walking into the wilderness area. The gravel road crosses sandy washes, so four-wheel drive is recommended. Geographic coordinates: 33.0207, -115.1075</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.google.com/maps/place/Sacatone+Scenic+Overlook/@32.7137584,-116.2273486,4577m/data=!3m1!1e3!4m6!3m5!1s0x80d9973ab502dfb3:0x78a8d69f9d8ffe5a!8m2!3d32.7137683!4d-116.2300356!16s%2Fg%2F11r_m7h8nw?entry=ttu" style="color:blue; text-decoration:underline">Sacatone Overlook</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> in McCain Valley offers views of the desert valley below. Four-wheel drive is required.</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Carrizo Overlook in McCain Valley offers views of the surrounding area. Roads are passable with a two-wheel drive vehicle. Geographic coordinates: 32.773957, -116.282389</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Needles Field Office:</span></span></u></b><u> </u></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="558d6f56-37f2-486d-8a38-9fb39a79961e" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -organization">
-    <div><strong>Organization:</strong> </div>
-              <div>Bureau of Land Management</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643079231_40a3b47918_c.jpg?itok=YFQrReTQ" width="351" height="530" alt="Desert primrose in the crevice of a dune" typeof="foaf:Image">
 
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJm5qL" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJm5qL</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJfNyp" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJfNyp</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Mojave Road, based on the indigenous Mojave trail network, starts at the Colorado River, travels west across </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/mojave-trails-national-monument" style="color:blue; text-decoration:underline">Mojave Trails National Monument</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and passes through Mojave National Preserve, before continuing through Afton Canyon in the Barstow Field Office. The historic route was utilized by many California Tribes and later by pioneers and cavalrymen. This road requires four-wheel drive vehicles with high clearance. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/snaggletooth-primitive-rv-camp" style="color:blue; text-decoration:underline">Snaggletooth Primitive Campground</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, located off U.S. Route 95, is 30 minutes south of Needles and offers spectacular views across the western portion of Mojave Trails National Monument. Two-wheel drive vehicles can access the area.&nbsp; </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Palm Springs – South Coast Field Office: </span></span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6f061473-9f54-449b-bed7-a1c7420147f5" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/50167011236_03ec5f0a4e_k.jpg?itok=TF5aU8mg" width="640" height="480" alt="Bright yellow and orange flowers on a hill" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2jr63DA" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2jr63DA</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2dY4USM" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2dY4USM</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/santa-rosa-and-san-jacinto-mountains-national-monument" style="color:blue; text-decoration:underline"><span style="background:white">The Santa Rosa and San Jacinto Mountains National Monument</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> Visitor Center, located off California Highway 74 in Palm Desert, has breathtaking views of the Coachella Valley with accessible walking and hiking trails. Park at the visitor center to see wildflowers along the Ed Hastey Garden Trail or hike the Randall Henderson Trail. </span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto">Explore </span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/mecca-hills-wilderness" style="color:blue; text-decoration:underline"><span style="background:white">Mecca Hills Wilderness</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> to admire wildflowers along the San Andreas Fault Line. </span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Box Canyon Road, which cherrystems the wilderness area, is accessible from Mecca, CA, or Interstate 10 at the south end of Joshua Tree National Park. Safely pull-off at designated or previously disturbed areas to avoid crushing vegetation. Box Canyon Road is accessible in a two-wheel drive vehicle. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Ridgecrest Field Office: </span></span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="7631733f-f808-4a02-b38c-675b370eebd8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643481760_67ae62e582_c.jpg?itok=Fu4KGwCO" width="640" height="480" alt="Bright yellow flowers under towering rock formations" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJhSdy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJhSdy</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJsVaR" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJsVaR</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Short Canyon trail, in </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/owens-peak-wilderness-short-canyon" style="color:blue; text-decoration:underline">Owens Peak Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, is approximately 20 minutes northwest of Ridgecrest and is open to hikers and equestrians. &nbsp;</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Directions to Short Canyon: From the intersection of U.S. Highway 395 and State Route 14, travel north for one mile to Leliter Road and turn west to cross U.S. Highway 395. On the west side of the highway, follow the Short Canyon signs and take the graded dirt road to the Power line Road. Then turn south and proceed for half a mile to the intersection with BLM Route SE138. Turn west and follow this dirt road all the way to the parking lot and trailhead. Four-wheel drive vehicles with high clearance are recommended. &nbsp;&nbsp;</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Searles Valley, containing the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/trona-pinnacles" style="color:blue; text-decoration:underline">Trona Pinnacles</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, a National Natural Landmark, </span></span><span lang="EN-CA" style="font-family:Roboto">offers views of wildflowers near the southwestern boundary of Death Valley National Park.</span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> Drive along Pinnacle Road, a six-mile graded road, to see blooms. </span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">For additional questions and information, contact the appropriate field office. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px">&nbsp;</p>
+
+<p><em>Julia Mogen, Public Affairs Specialist, California Desert District, 760-835-4612, <a href="mailto:jmogen@blm.gov">jmogen@blm.gov</a></em></p>
+</div>
+      
 
 
 
@@ -213,14 +179,8 @@ date: 2024-04-09, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
-          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
-          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
-          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
-          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
-          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
-          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
-          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
+              <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/california-desert-do" hreflang="en">California Desert DO</a></div>
               </div>
       </div>
 
@@ -230,13 +190,12 @@ date: 2024-04-09, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -tag">
-    <div><strong>Tag:</strong> </div>
-          <div>
-              <div><a href="https://www.blm.gov/tag/bil" hreflang="en">BIL</a></div>
-          <div><a href="https://www.blm.gov/tag/wildlife" hreflang="en">Wildlife</a></div>
-              </div>
-      </div>
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/recreation" hreflang="en">Recreation</a></div>
+                </div>
+  </div>
 
 
 
@@ -244,39 +203,59 @@ date: 2024-04-09, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -contact">
-    <div><strong>Contact:</strong> </div>
-          <div>
-              <div>
-
-  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-  <div class="field contact-block -label">
-    <div><strong>Name:</strong> </div>
-              <div>BLM Press</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -email">
-    <div><strong>Email:</strong> </div>
-              <div>blm_press@blm.gov</div>
-          </div>
-
-      </div>
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-04-10T12:00:00Z">Wed, 04/10/2024 - 12:00 pm UTC</time>
 </div>
-              </div>
-      </div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/california-desert-district-office" hreflang="en">California Desert District Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47570/edit" hreflang="en">Cadiz Dunes Wilderness, Jesse Pluim</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>On</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/wildflowers" hreflang="en">Wildflowers</a></div>
+                    </div>
+          </div>
+  </div>
 
 
 
@@ -287,9 +266,572 @@ date: 2024-04-09, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
               </div>
-      </div> 
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47572/edit" hreflang="en">Trona Pinnacles</a></div>
+          </div> 
+
+<https://www.blm.gov/blog/2024-04-10/blm-encourages-visitor-safety-public-lands-during-wildflower-season-california>
+
+---
+
+## Desert tortoise rescued from mineshaft in Newberry Mountains Wilderness
+
+date: 2024-04-09, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>The BLM encourages visitor safety on public lands during wildflower season in the California desert</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">PALM SPRINGS, Calif.</span></b><span lang="EN-CA" style="font-family:Roboto"> – After much needed winter rain, the California desert comes alive in the spring. Precious plants invisible under the sand will bloom overnight, adding colorful pink, yellow and white flowers across the landscape. </span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">While enjoying your desert excursions this spring, remember to recreate responsibly. Always plan trips in advance. Tell someone where you’re going and your expected return time. To avoid disturbing plants and wildlife, only travel on designated roads and trails. </span></span></span><span style="font-size:11.0pt"><span style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Capture the beauty of wildflowers through photography and leave them where they bloom. </span></span></span></span><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">For more safety tips, visit the California State Park’s <a href="https://www.parks.ca.gov/?page_id=30078" style="color:blue; text-decoration:underline">website</a>. </span></span></span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:#212529">Here are locations to view wildflowers on BLM-managed public lands in the California desert:</span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">Barstow Field Office: </span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="89cb682e-5365-44b4-b279-35940a571ac8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/32945873063_e6abe7b65c_c.jpg?itok=O1W1xekJ" width="640" height="426" alt="Purple flowers in the desert" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/Scjdfc" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/Scjdfc</b></a></span></span></span></span></p>
+
+<p style="margin-top:16px; margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Ord Mountains feature beautiful cactus flowers, specifically in the Kane Wash area. Access requires a four-wheel drive vehicle. <a name="_Hlk162941596">Please follow </a></span></span><a href="https://www.blm.gov/visit/barstow" style="color:blue; text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">these practices</span></a><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> to help protect this special place for future visitors. </span></span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">The Fremont Peak area, northwest of Barstow, is typically excellent for wildflowers. Open routes off U.S. Route 395 provide access to the area. Drive with caution as dirt roads may be rutted out in spots. </span></span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">Copper City Road north of Barstow provides access to patches of wildflowers. Vehicles with high clearance are recommended since rocks may be encountered in the road. Many species of wildflowers can be found along Copper City Road including a Joshua tree grove. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">El Centro Field Office: </span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="337d6dde-2707-4b69-8a7c-491008615781" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53645185278_10fb9e852f_c.jpg?itok=HNzJgGne" width="640" height="427" alt="Purple flowers in sand dunes" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJrABy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJrABy</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Blooms in the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/north-algodones-dunes-wilderness" style="color:blue; text-decoration:underline">North Algodones Dunes Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be seen from Osborne Overlook in the Imperial Sand Dunes Recreation Area. </span></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Permits are required from October 1 through April 15. Permits</span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be purchased at the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/cahuilla-ranger-station" style="color:blue; text-decoration:underline">Cahuilla Ranger Station</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">,</span></span></span> <span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none">Friday-Sunday for $50 or </span></span></span></span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.isdpermits.net/" style="color:blue; text-decoration:underline">online</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none"> for $35.</span></span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Wildlife Viewing Area in Imperial Sand Dunes Recreation Area provides access to the North Algodones Dunes Wilderness. Safely park along Ted Kipf Road before walking into the wilderness area. The gravel road crosses sandy washes, so four-wheel drive is recommended. Geographic coordinates: 33.0207, -115.1075</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.google.com/maps/place/Sacatone+Scenic+Overlook/@32.7137584,-116.2273486,4577m/data=!3m1!1e3!4m6!3m5!1s0x80d9973ab502dfb3:0x78a8d69f9d8ffe5a!8m2!3d32.7137683!4d-116.2300356!16s%2Fg%2F11r_m7h8nw?entry=ttu" style="color:blue; text-decoration:underline">Sacatone Overlook</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> in McCain Valley offers views of the desert valley below. Four-wheel drive is required.</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Carrizo Overlook in McCain Valley offers views of the surrounding area. Roads are passable with a two-wheel drive vehicle. Geographic coordinates: 32.773957, -116.282389</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Needles Field Office:</span></span></u></b><u> </u></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="558d6f56-37f2-486d-8a38-9fb39a79961e" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643079231_40a3b47918_c.jpg?itok=YFQrReTQ" width="351" height="530" alt="Desert primrose in the crevice of a dune" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJm5qL" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJm5qL</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJfNyp" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJfNyp</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Mojave Road, based on the indigenous Mojave trail network, starts at the Colorado River, travels west across </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/mojave-trails-national-monument" style="color:blue; text-decoration:underline">Mojave Trails National Monument</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and passes through Mojave National Preserve, before continuing through Afton Canyon in the Barstow Field Office. The historic route was utilized by many California Tribes and later by pioneers and cavalrymen. This road requires four-wheel drive vehicles with high clearance. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/snaggletooth-primitive-rv-camp" style="color:blue; text-decoration:underline">Snaggletooth Primitive Campground</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, located off U.S. Route 95, is 30 minutes south of Needles and offers spectacular views across the western portion of Mojave Trails National Monument. Two-wheel drive vehicles can access the area.&nbsp; </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Palm Springs – South Coast Field Office: </span></span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6f061473-9f54-449b-bed7-a1c7420147f5" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/50167011236_03ec5f0a4e_k.jpg?itok=TF5aU8mg" width="640" height="480" alt="Bright yellow and orange flowers on a hill" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2jr63DA" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2jr63DA</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2dY4USM" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2dY4USM</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/santa-rosa-and-san-jacinto-mountains-national-monument" style="color:blue; text-decoration:underline"><span style="background:white">The Santa Rosa and San Jacinto Mountains National Monument</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> Visitor Center, located off California Highway 74 in Palm Desert, has breathtaking views of the Coachella Valley with accessible walking and hiking trails. Park at the visitor center to see wildflowers along the Ed Hastey Garden Trail or hike the Randall Henderson Trail. </span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto">Explore </span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/mecca-hills-wilderness" style="color:blue; text-decoration:underline"><span style="background:white">Mecca Hills Wilderness</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> to admire wildflowers along the San Andreas Fault Line. </span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Box Canyon Road, which cherrystems the wilderness area, is accessible from Mecca, CA, or Interstate 10 at the south end of Joshua Tree National Park. Safely pull-off at designated or previously disturbed areas to avoid crushing vegetation. Box Canyon Road is accessible in a two-wheel drive vehicle. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Ridgecrest Field Office: </span></span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="7631733f-f808-4a02-b38c-675b370eebd8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643481760_67ae62e582_c.jpg?itok=Fu4KGwCO" width="640" height="480" alt="Bright yellow flowers under towering rock formations" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJhSdy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJhSdy</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJsVaR" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJsVaR</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Short Canyon trail, in </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/owens-peak-wilderness-short-canyon" style="color:blue; text-decoration:underline">Owens Peak Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, is approximately 20 minutes northwest of Ridgecrest and is open to hikers and equestrians. &nbsp;</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Directions to Short Canyon: From the intersection of U.S. Highway 395 and State Route 14, travel north for one mile to Leliter Road and turn west to cross U.S. Highway 395. On the west side of the highway, follow the Short Canyon signs and take the graded dirt road to the Power line Road. Then turn south and proceed for half a mile to the intersection with BLM Route SE138. Turn west and follow this dirt road all the way to the parking lot and trailhead. Four-wheel drive vehicles with high clearance are recommended. &nbsp;&nbsp;</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Searles Valley, containing the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/trona-pinnacles" style="color:blue; text-decoration:underline">Trona Pinnacles</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, a National Natural Landmark, </span></span><span lang="EN-CA" style="font-family:Roboto">offers views of wildflowers near the southwestern boundary of Death Valley National Park.</span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> Drive along Pinnacle Road, a six-mile graded road, to see blooms. </span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">For additional questions and information, contact the appropriate field office. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px">&nbsp;</p>
+
+<p><em>Julia Mogen, Public Affairs Specialist, California Desert District, 760-835-4612, <a href="mailto:jmogen@blm.gov">jmogen@blm.gov</a></em></p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/california-desert-do" hreflang="en">California Desert DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/recreation" hreflang="en">Recreation</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-04-10T12:00:00Z">Wed, 04/10/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/california-desert-district-office" hreflang="en">California Desert District Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47570/edit" hreflang="en">Cadiz Dunes Wilderness, Jesse Pluim</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>On</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/wildflowers" hreflang="en">Wildflowers</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47572/edit" hreflang="en">Trona Pinnacles</a></div>
+          </div> 
+
+<https://www.blm.gov/blog/2024-04-09/desert-tortoise-rescued-mineshaft-newberry-mountains-wilderness>
+
+---
+
+## With summer around the corner, BLM Arizona and partners share tips for preventing roadside fires during rest area events
+
+date: 2024-04-09, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>The BLM encourages visitor safety on public lands during wildflower season in the California desert</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">PALM SPRINGS, Calif.</span></b><span lang="EN-CA" style="font-family:Roboto"> – After much needed winter rain, the California desert comes alive in the spring. Precious plants invisible under the sand will bloom overnight, adding colorful pink, yellow and white flowers across the landscape. </span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">While enjoying your desert excursions this spring, remember to recreate responsibly. Always plan trips in advance. Tell someone where you’re going and your expected return time. To avoid disturbing plants and wildlife, only travel on designated roads and trails. </span></span></span><span style="font-size:11.0pt"><span style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Capture the beauty of wildflowers through photography and leave them where they bloom. </span></span></span></span><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">For more safety tips, visit the California State Park’s <a href="https://www.parks.ca.gov/?page_id=30078" style="color:blue; text-decoration:underline">website</a>. </span></span></span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:#212529">Here are locations to view wildflowers on BLM-managed public lands in the California desert:</span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">Barstow Field Office: </span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="89cb682e-5365-44b4-b279-35940a571ac8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/32945873063_e6abe7b65c_c.jpg?itok=O1W1xekJ" width="640" height="426" alt="Purple flowers in the desert" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/Scjdfc" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/Scjdfc</b></a></span></span></span></span></p>
+
+<p style="margin-top:16px; margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Ord Mountains feature beautiful cactus flowers, specifically in the Kane Wash area. Access requires a four-wheel drive vehicle. <a name="_Hlk162941596">Please follow </a></span></span><a href="https://www.blm.gov/visit/barstow" style="color:blue; text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">these practices</span></a><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> to help protect this special place for future visitors. </span></span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">The Fremont Peak area, northwest of Barstow, is typically excellent for wildflowers. Open routes off U.S. Route 395 provide access to the area. Drive with caution as dirt roads may be rutted out in spots. </span></span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">Copper City Road north of Barstow provides access to patches of wildflowers. Vehicles with high clearance are recommended since rocks may be encountered in the road. Many species of wildflowers can be found along Copper City Road including a Joshua tree grove. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">El Centro Field Office: </span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="337d6dde-2707-4b69-8a7c-491008615781" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53645185278_10fb9e852f_c.jpg?itok=HNzJgGne" width="640" height="427" alt="Purple flowers in sand dunes" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJrABy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJrABy</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Blooms in the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/north-algodones-dunes-wilderness" style="color:blue; text-decoration:underline">North Algodones Dunes Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be seen from Osborne Overlook in the Imperial Sand Dunes Recreation Area. </span></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Permits are required from October 1 through April 15. Permits</span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be purchased at the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/cahuilla-ranger-station" style="color:blue; text-decoration:underline">Cahuilla Ranger Station</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">,</span></span></span> <span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none">Friday-Sunday for $50 or </span></span></span></span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.isdpermits.net/" style="color:blue; text-decoration:underline">online</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none"> for $35.</span></span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Wildlife Viewing Area in Imperial Sand Dunes Recreation Area provides access to the North Algodones Dunes Wilderness. Safely park along Ted Kipf Road before walking into the wilderness area. The gravel road crosses sandy washes, so four-wheel drive is recommended. Geographic coordinates: 33.0207, -115.1075</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.google.com/maps/place/Sacatone+Scenic+Overlook/@32.7137584,-116.2273486,4577m/data=!3m1!1e3!4m6!3m5!1s0x80d9973ab502dfb3:0x78a8d69f9d8ffe5a!8m2!3d32.7137683!4d-116.2300356!16s%2Fg%2F11r_m7h8nw?entry=ttu" style="color:blue; text-decoration:underline">Sacatone Overlook</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> in McCain Valley offers views of the desert valley below. Four-wheel drive is required.</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Carrizo Overlook in McCain Valley offers views of the surrounding area. Roads are passable with a two-wheel drive vehicle. Geographic coordinates: 32.773957, -116.282389</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Needles Field Office:</span></span></u></b><u> </u></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="558d6f56-37f2-486d-8a38-9fb39a79961e" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643079231_40a3b47918_c.jpg?itok=YFQrReTQ" width="351" height="530" alt="Desert primrose in the crevice of a dune" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJm5qL" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJm5qL</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJfNyp" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJfNyp</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Mojave Road, based on the indigenous Mojave trail network, starts at the Colorado River, travels west across </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/mojave-trails-national-monument" style="color:blue; text-decoration:underline">Mojave Trails National Monument</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and passes through Mojave National Preserve, before continuing through Afton Canyon in the Barstow Field Office. The historic route was utilized by many California Tribes and later by pioneers and cavalrymen. This road requires four-wheel drive vehicles with high clearance. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/snaggletooth-primitive-rv-camp" style="color:blue; text-decoration:underline">Snaggletooth Primitive Campground</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, located off U.S. Route 95, is 30 minutes south of Needles and offers spectacular views across the western portion of Mojave Trails National Monument. Two-wheel drive vehicles can access the area.&nbsp; </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Palm Springs – South Coast Field Office: </span></span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6f061473-9f54-449b-bed7-a1c7420147f5" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/50167011236_03ec5f0a4e_k.jpg?itok=TF5aU8mg" width="640" height="480" alt="Bright yellow and orange flowers on a hill" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2jr63DA" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2jr63DA</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2dY4USM" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2dY4USM</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/santa-rosa-and-san-jacinto-mountains-national-monument" style="color:blue; text-decoration:underline"><span style="background:white">The Santa Rosa and San Jacinto Mountains National Monument</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> Visitor Center, located off California Highway 74 in Palm Desert, has breathtaking views of the Coachella Valley with accessible walking and hiking trails. Park at the visitor center to see wildflowers along the Ed Hastey Garden Trail or hike the Randall Henderson Trail. </span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto">Explore </span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/mecca-hills-wilderness" style="color:blue; text-decoration:underline"><span style="background:white">Mecca Hills Wilderness</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> to admire wildflowers along the San Andreas Fault Line. </span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Box Canyon Road, which cherrystems the wilderness area, is accessible from Mecca, CA, or Interstate 10 at the south end of Joshua Tree National Park. Safely pull-off at designated or previously disturbed areas to avoid crushing vegetation. Box Canyon Road is accessible in a two-wheel drive vehicle. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Ridgecrest Field Office: </span></span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="7631733f-f808-4a02-b38c-675b370eebd8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643481760_67ae62e582_c.jpg?itok=Fu4KGwCO" width="640" height="480" alt="Bright yellow flowers under towering rock formations" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJhSdy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJhSdy</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJsVaR" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJsVaR</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Short Canyon trail, in </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/owens-peak-wilderness-short-canyon" style="color:blue; text-decoration:underline">Owens Peak Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, is approximately 20 minutes northwest of Ridgecrest and is open to hikers and equestrians. &nbsp;</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Directions to Short Canyon: From the intersection of U.S. Highway 395 and State Route 14, travel north for one mile to Leliter Road and turn west to cross U.S. Highway 395. On the west side of the highway, follow the Short Canyon signs and take the graded dirt road to the Power line Road. Then turn south and proceed for half a mile to the intersection with BLM Route SE138. Turn west and follow this dirt road all the way to the parking lot and trailhead. Four-wheel drive vehicles with high clearance are recommended. &nbsp;&nbsp;</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Searles Valley, containing the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/trona-pinnacles" style="color:blue; text-decoration:underline">Trona Pinnacles</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, a National Natural Landmark, </span></span><span lang="EN-CA" style="font-family:Roboto">offers views of wildflowers near the southwestern boundary of Death Valley National Park.</span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> Drive along Pinnacle Road, a six-mile graded road, to see blooms. </span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">For additional questions and information, contact the appropriate field office. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px">&nbsp;</p>
+
+<p><em>Julia Mogen, Public Affairs Specialist, California Desert District, 760-835-4612, <a href="mailto:jmogen@blm.gov">jmogen@blm.gov</a></em></p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/california-desert-do" hreflang="en">California Desert DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/recreation" hreflang="en">Recreation</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-04-10T12:00:00Z">Wed, 04/10/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/california-desert-district-office" hreflang="en">California Desert District Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47570/edit" hreflang="en">Cadiz Dunes Wilderness, Jesse Pluim</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>On</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/wildflowers" hreflang="en">Wildflowers</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47572/edit" hreflang="en">Trona Pinnacles</a></div>
+          </div> 
 
 <https://www.blm.gov/blog/2024-04-09/blm-arizona-tips-preventing-roadside-fires>
 
@@ -299,7 +841,7 @@ date: 2024-04-09, from: Bureau of Land Management, blog
 
 date: 2024-04-08, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/interior-department-announces-nearly-12-million-protect-and-restore-western-wildlife" hreflang="en">Interior Department Announces Nearly $12 Million to Protect and Restore Western Wildlife Habitats and Migration Corridors</a></h2></div>
+<div class="field contact-block -title"><h1>The BLM encourages visitor safety on public lands during wildflower season in the California desert</h1></div>
       
 
 
@@ -307,189 +849,155 @@ date: 2024-04-08, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Publication Date:</strong> </div>
-              <div><time datetime="2024-03-26T12:00:00Z">Tue, 03/26/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
+            <div class="field contact-block -body"><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">PALM SPRINGS, Calif.</span></b><span lang="EN-CA" style="font-family:Roboto"> – After much needed winter rain, the California desert comes alive in the spring. Precious plants invisible under the sand will bloom overnight, adding colorful pink, yellow and white flowers across the landscape. </span></span></span></span></p>
 
+<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">While enjoying your desert excursions this spring, remember to recreate responsibly. Always plan trips in advance. Tell someone where you’re going and your expected return time. To avoid disturbing plants and wildlife, only travel on designated roads and trails. </span></span></span><span style="font-size:11.0pt"><span style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Capture the beauty of wildflowers through photography and leave them where they bloom. </span></span></span></span><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">For more safety tips, visit the California State Park’s <a href="https://www.parks.ca.gov/?page_id=30078" style="color:blue; text-decoration:underline">website</a>. </span></span></span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:#212529">Here are locations to view wildflowers on BLM-managed public lands in the California desert:</span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">Barstow Field Office: </span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="89cb682e-5365-44b4-b279-35940a571ac8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
 
 
 
 
   
 
-            <div class="field contact-block -body"><p><strong>WASHINGTON&nbsp;</strong>— The Department of the Interior and National Fish and Wildlife Foundation (NFWF) today&nbsp;<a href="https://www.nfwf.org/sites/default/files/2024-03/NFWF-WesternBigGameMigration-20240314-GS.pdf">announced</a>&nbsp;$11.8 million for 10 projects in seven states that will help restore habitat connectivity and secure key migration corridors for wildlife in the American West. A total of $3 million in grants and $8.8 million in matching contributions will be invested to protect migratory species like elk, mule deer, and pronghorn and their habitats in Arizona, California, Colorado, Idaho, Montana, Oregon and Wyoming.&nbsp;</p>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/32945873063_e6abe7b65c_c.jpg?itok=O1W1xekJ" width="640" height="426" alt="Purple flowers in the desert" typeof="foaf:Image">
 
-<p>“Healthy habitats and interconnected spaces to live and roam are key for the sustainability of species,” said&nbsp;<strong>Secretary Deb Haaland</strong>. “The Biden-Harris administration is strengthening public-private partnerships and employing an all-of-government approach to ensure the conservation of fish and wildlife in the West and across America through the protection of key migration corridors and habitats.”&nbsp;</p>
 
-<p>Bureau of Land Management (BLM) Director Tracy Stone-Manning and U.S. Fish and Wildlife Service (FWS) Director Martha Williams highlighted the announcement at the 89th North American Wildlife and Natural Resources Conference in Grand Rapids, Michigan.&nbsp;</p>
-
-<p>The grants are made possible through the&nbsp;<a href="https://www.nfwf.org/programs/rocky-mountain-rangelands/western-big-game-seasonal-habitat-and-migration-corridors-fund">Western Big Game Seasonal Habitat and Migration Corridors Fund</a>, which is administered by NFWF in-part through annual appropriations funding from the BLM, FWS, and the Department of Agriculture. The funding supports&nbsp;<a href="https://www.doi.gov/sites/doi.gov/files/uploads/so_3362_migration.pdf">Secretary’s Order 3362</a>, which seeks to enhance and improve the quality of big-game winter range and migration corridor habitat on federal lands. Today's funding builds on nearly $25 million in funding the Department and NFWF announced in&nbsp;<a href="https://www.doi.gov/pressreleases/us-departments-interior-agriculture-and-state-wyoming-commit-enhancing-wildlife">2021</a>,&nbsp;<a href="https://www.doi.gov/pressreleases/secretary-haaland-announces-progress-toward-conservation-and-restoration-wildlife">2022</a>&nbsp;and&nbsp;<a href="https://www.doi.gov/pressreleases/deputy-secretary-beaudreau-announces-nearly-4-million-protect-and-restore-wildlife">2023</a>. This work supports the President’s&nbsp;<a href="https://www.doi.gov/priorities/america-the-beautiful">America the Beautiful&nbsp;initiative</a>, which aims to conserve, connect and restore 30 percent of our lands and waters by 2030.&nbsp;</p>
-
-<p>Today’s announcement supplements historic funding through President Biden’s Investing in America agenda, which is supporting critical projects to restore habitats, strengthen landscape resilience, and put create good-paying jobs to restore America’s lands and waters in partnership with Tribes, private landowners, hunting and conservation organizations, and state wildlife management agencies.&nbsp;</p>
-
-<p>Last month, Secretary Haaland&nbsp;<a href="https://www.doi.gov/pressreleases/biden-harris-administration-announces-more-157-million-investing-america-agenda">announced</a>&nbsp;more than $157 million from President Biden’s Investing in America agenda to restore our nation’s lands and waters through locally led, landscape-scale restoration projects. The funding from the Bipartisan Infrastructure Law will support 206 ecosystem restoration projects in 48 states, Washington, D.C., and the U.S. Territories and will advance the Department’s&nbsp;<a href="https://www.doi.gov/sites/default/files/interior-department-to-take-action-to-restore-lands-and-waters.pdf">ongoing work</a>&nbsp;across several restoration and resilience programs.&nbsp;</p>
-
-<p><strong>Projects receiving grants and matching contributions are listed below:&nbsp;</strong></p>
-
-<h3>ARIZONA&nbsp;&nbsp;</h3>
-
-<p><em><strong>Managing Woody Invasives to Improve Habitat Quality on Perrin Ranch State Lands Grassland&nbsp;&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Arizona Elk Society&nbsp;</strong></p>
-
-<p>Grant Amount: $130,000&nbsp;</p>
-
-<p>Matching Funds: $130,000&nbsp;</p>
-
-<p>Total Project Amount: $260,000&nbsp;</p>
-
-<p>Improve winter habitat quality for migrant and resident mule deer, elk and pronghorn. Project will restore a minimum of 650 acres of grasslands in Northern Arizona by managing the encroachment of woody invasives.&nbsp;</p>
-
-<p><em><strong>Restoring Beaver Creek Watershed to Improve Habitat Connectivity&nbsp;&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Salt River Project Agricultural Improvement and Power District&nbsp;</strong></p>
-
-<p>Grant Amount: $489,500&nbsp;</p>
-
-<p>Matching Funds: $3,376,500&nbsp;</p>
-
-<p>Total Project Amount: $3,866,000&nbsp;</p>
-
-<p>Restore wildlife habitat and connectivity, reduce wildfire risk, protect water supplies, communities, infrastructure and improve forest resiliency. Project will restore approximately 3,920 acres by removing invading woody species from grasslands and former healthy woodlands that will allow native grass, browse, and forb species to return.&nbsp;</p>
-
-<h3>CALIFORNIA&nbsp;</h3>
-
-<p><em><strong>Restoring Steven's Prairie to Enhance Elk Habitat and Establish New Herds&nbsp;&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Yurok Tribe&nbsp;</strong></p>
-
-<p>Grant Amount: $181,393&nbsp;</p>
-
-<p>Matching Funds: $181,393&nbsp;</p>
-
-<p>Total Project Amount: $362,786&nbsp;</p>
-
-<p>Enhance meadow habitat for Roosevelt elk and provide a stopover site both for dispersing elk from saturated populations and for the establishment of new herds on Yurok lands. Project will survey and identify priority habitat in 160 acres; restore 80 acres of degraded prairie through removal of encroaching trees and invasive plants; establish a 25-acre fuel break along the perimeter of the restored site; and place 440 acres under various planning stages to improve management.&nbsp;</p>
-
-<h3>COLORADO&nbsp;</h3>
-
-<p><em><strong>Enhancing Elk Habitat Through Vegetation Treatments in Hay Flats&nbsp;</strong></em></p>
-
-<p><strong>Grantee: US Forest Service&nbsp;</strong></p>
-
-<p>Grant Amount: $200,000&nbsp;</p>
-
-<p>Matching Funds: $199,896&nbsp;</p>
-
-<p>Total Project Amount: $399,896&nbsp;</p>
-
-<p>Enhance elk habitat through vegetation treatments in mountain shrub and aspen communities within the vicinity of Hay Flats. Project will improve 2.25 acres of fencing, treat 430 acres with mechanical methods would create a mosaic of snowberry regrowth and allow understory species to take hold, and treat 220 acres with mastication and hand felling to increase forage, cover, and movement opportunities for elk in spring production areas, summer and winter habitat, and movement corridors.&nbsp;</p>
-
-<p><em><strong>Protecting Migration Corridors via the Wolf Mountain VII Conservation Easement&nbsp;&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Rocky Mountain Elk Foundation&nbsp;</strong></p>
-
-<p>Grant Amount: $100,000&nbsp;</p>
-
-<p>Matching Funds: $1,977,882&nbsp;</p>
-
-<p>Total Project Amount: $2,077,882&nbsp;</p>
-
-<p>Conserve vital aspen woodlands, sagebrush, and riparian habitat, as well as a migration corridor and pathway for two of Colorado’s largest migratory herds. Project will permanently protect approximately 1,630 acres of migration corridors for elk and winter range for mule deer, secure habitat connectivity through the valley bottom and highly developable lands near State Highway 40, protect five stream miles, and support a host of other wildlife, including greater sage grouse.&nbsp;&nbsp;</p>
-
-<h3>IDAHO&nbsp;</h3>
-
-<p><em><strong>Modifying Fencing to Improve the Migration Route Across Highway 28&nbsp;</strong></em></p>
-
-<p><strong>Grantee: The Mule Deer Foundation&nbsp;</strong></p>
-
-<p>Grant Amount: $317,922&nbsp;</p>
-
-<p>Matching Funds: $300,000&nbsp;</p>
-
-<p>Total Project Amount: $617,922&nbsp;</p>
-
-<p>Support passage-success of migratory mule deer and elk, reduce animal-vehicle collisions, and simultaneously increase safety for motorists. Project will extend a wildlife funnel fence project on Highway 28 by reconnecting three miles of corridor, improve 10 miles of fencing, remove two miles of fencing, and increase the passage success rate to 95%.</p>
-
-<h3>MONTANA&nbsp;</h3>
-
-<p><em><strong>Collaborating with Montana Grassland Partnership to Improve Big Game Migration&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Ranchers Stewardship Alliance, Inc.&nbsp;</strong></p>
-
-<p>Grant Amount: $275,000&nbsp;</p>
-
-<p>Matching Funds: $275,000&nbsp;</p>
-
-<p>Total Project Amount: $550,000&nbsp;</p>
-
-<p>Support, connect, and contribute to the partnership of big game migration work being done under the umbrella of the Montana Grassland Partnership as part of the Ranchers Stewardship Alliance (RSA) Conservation Committee. Project will work to improve nine miles of fencing, remove nine miles of unneeded fencing, restore 1,000 acres of grassland for added habitat and add a Conservation Director position with RSA to better serve the RSA project area and collaborate within the Montana Grassland Partnership.&nbsp;</p>
-
-<h3>OREGON&nbsp;</h3>
-
-<p><em><strong>Protecting Migration Habitat via a Fee Title Transfer to the Warm Springs Indian Reservation&nbsp;&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Oregon Wildlife Heritage Foundation&nbsp;</strong></p>
-
-<p>Grant Amount: $199,998&nbsp;</p>
-
-<p>Matching Funds: $716,350&nbsp;</p>
-
-<p>Total Project Amount: $916,348&nbsp;</p>
-
-<p>Protect migration corridors in high use areas in the Metolious winter range. Project will transfer 300-acre acquisition to the Confederated Tribe of the Warm Springs Indian Reservation.&nbsp;</p>
-
-<p><em><strong>Treating Invasives to Improve Migration Corridors for Elk and Nesting Habitat for Sage Grouse (OR)&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Crook County Soil and Water Conservation District&nbsp;</strong></p>
-
-<p>Grant Amount: $190,609&nbsp;</p>
-
-<p>Matching Funds: $213,586&nbsp;</p>
-
-<p>Total Project Amount: $404,195&nbsp;</p>
-
-<p>Enhance understory conditions in sagebrush habitats, which will improve conditions for a host of species including sagebrush obligates and improve migration and seasonal habitat for a variety of wildlife species. Project will restore 415 acres of migration habitat for elk and mule deer as well as seasonal habitat for sage grouse through the removal of woody invasives.</p>
-
-<h3>WYOMING&nbsp;</h3>
-
-<p><em><strong>Restoring Big Game Migration Corridors for Bates Hole, Dubois and Platte Valley Mule Deer Herds&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Wyoming Game and Fish Department&nbsp;</strong></p>
-
-<p>Grant Amount: $961,250&nbsp;</p>
-
-<p>Matching Funds: $961,250&nbsp;</p>
-
-<p>Total Project Amount: $1,922,500&nbsp;</p>
-
-<p>Improve forage resources and connectivity between seasonal ranges for mule deer and a wide variety of other wildlife. Project will implement 13,530 acres of invasive weed treatments, modify 46 miles of fences and restore 150 acres of habitat.&nbsp;</p>
 </div>
       
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/Scjdfc" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/Scjdfc</b></a></span></span></span></span></p>
+
+<p style="margin-top:16px; margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Ord Mountains feature beautiful cactus flowers, specifically in the Kane Wash area. Access requires a four-wheel drive vehicle. <a name="_Hlk162941596">Please follow </a></span></span><a href="https://www.blm.gov/visit/barstow" style="color:blue; text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">these practices</span></a><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> to help protect this special place for future visitors. </span></span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">The Fremont Peak area, northwest of Barstow, is typically excellent for wildflowers. Open routes off U.S. Route 395 provide access to the area. Drive with caution as dirt roads may be rutted out in spots. </span></span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">Copper City Road north of Barstow provides access to patches of wildflowers. Vehicles with high clearance are recommended since rocks may be encountered in the road. Many species of wildflowers can be found along Copper City Road including a Joshua tree grove. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">El Centro Field Office: </span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="337d6dde-2707-4b69-8a7c-491008615781" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -fiscal-year">
-    <div><strong>Fiscal Year:</strong> </div>
-              <div>2024</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53645185278_10fb9e852f_c.jpg?itok=HNzJgGne" width="640" height="427" alt="Purple flowers in sand dunes" typeof="foaf:Image">
 
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJrABy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJrABy</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Blooms in the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/north-algodones-dunes-wilderness" style="color:blue; text-decoration:underline">North Algodones Dunes Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be seen from Osborne Overlook in the Imperial Sand Dunes Recreation Area. </span></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Permits are required from October 1 through April 15. Permits</span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be purchased at the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/cahuilla-ranger-station" style="color:blue; text-decoration:underline">Cahuilla Ranger Station</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">,</span></span></span> <span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none">Friday-Sunday for $50 or </span></span></span></span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.isdpermits.net/" style="color:blue; text-decoration:underline">online</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none"> for $35.</span></span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Wildlife Viewing Area in Imperial Sand Dunes Recreation Area provides access to the North Algodones Dunes Wilderness. Safely park along Ted Kipf Road before walking into the wilderness area. The gravel road crosses sandy washes, so four-wheel drive is recommended. Geographic coordinates: 33.0207, -115.1075</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.google.com/maps/place/Sacatone+Scenic+Overlook/@32.7137584,-116.2273486,4577m/data=!3m1!1e3!4m6!3m5!1s0x80d9973ab502dfb3:0x78a8d69f9d8ffe5a!8m2!3d32.7137683!4d-116.2300356!16s%2Fg%2F11r_m7h8nw?entry=ttu" style="color:blue; text-decoration:underline">Sacatone Overlook</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> in McCain Valley offers views of the desert valley below. Four-wheel drive is required.</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Carrizo Overlook in McCain Valley offers views of the surrounding area. Roads are passable with a two-wheel drive vehicle. Geographic coordinates: 32.773957, -116.282389</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Needles Field Office:</span></span></u></b><u> </u></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="558d6f56-37f2-486d-8a38-9fb39a79961e" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -organization">
-    <div><strong>Organization:</strong> </div>
-              <div>Bureau of Land Management</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643079231_40a3b47918_c.jpg?itok=YFQrReTQ" width="351" height="530" alt="Desert primrose in the crevice of a dune" typeof="foaf:Image">
 
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJm5qL" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJm5qL</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJfNyp" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJfNyp</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Mojave Road, based on the indigenous Mojave trail network, starts at the Colorado River, travels west across </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/mojave-trails-national-monument" style="color:blue; text-decoration:underline">Mojave Trails National Monument</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and passes through Mojave National Preserve, before continuing through Afton Canyon in the Barstow Field Office. The historic route was utilized by many California Tribes and later by pioneers and cavalrymen. This road requires four-wheel drive vehicles with high clearance. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/snaggletooth-primitive-rv-camp" style="color:blue; text-decoration:underline">Snaggletooth Primitive Campground</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, located off U.S. Route 95, is 30 minutes south of Needles and offers spectacular views across the western portion of Mojave Trails National Monument. Two-wheel drive vehicles can access the area.&nbsp; </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Palm Springs – South Coast Field Office: </span></span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6f061473-9f54-449b-bed7-a1c7420147f5" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/50167011236_03ec5f0a4e_k.jpg?itok=TF5aU8mg" width="640" height="480" alt="Bright yellow and orange flowers on a hill" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2jr63DA" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2jr63DA</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2dY4USM" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2dY4USM</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/santa-rosa-and-san-jacinto-mountains-national-monument" style="color:blue; text-decoration:underline"><span style="background:white">The Santa Rosa and San Jacinto Mountains National Monument</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> Visitor Center, located off California Highway 74 in Palm Desert, has breathtaking views of the Coachella Valley with accessible walking and hiking trails. Park at the visitor center to see wildflowers along the Ed Hastey Garden Trail or hike the Randall Henderson Trail. </span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto">Explore </span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/mecca-hills-wilderness" style="color:blue; text-decoration:underline"><span style="background:white">Mecca Hills Wilderness</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> to admire wildflowers along the San Andreas Fault Line. </span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Box Canyon Road, which cherrystems the wilderness area, is accessible from Mecca, CA, or Interstate 10 at the south end of Joshua Tree National Park. Safely pull-off at designated or previously disturbed areas to avoid crushing vegetation. Box Canyon Road is accessible in a two-wheel drive vehicle. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Ridgecrest Field Office: </span></span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="7631733f-f808-4a02-b38c-675b370eebd8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643481760_67ae62e582_c.jpg?itok=Fu4KGwCO" width="640" height="480" alt="Bright yellow flowers under towering rock formations" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJhSdy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJhSdy</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJsVaR" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJsVaR</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Short Canyon trail, in </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/owens-peak-wilderness-short-canyon" style="color:blue; text-decoration:underline">Owens Peak Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, is approximately 20 minutes northwest of Ridgecrest and is open to hikers and equestrians. &nbsp;</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Directions to Short Canyon: From the intersection of U.S. Highway 395 and State Route 14, travel north for one mile to Leliter Road and turn west to cross U.S. Highway 395. On the west side of the highway, follow the Short Canyon signs and take the graded dirt road to the Power line Road. Then turn south and proceed for half a mile to the intersection with BLM Route SE138. Turn west and follow this dirt road all the way to the parking lot and trailhead. Four-wheel drive vehicles with high clearance are recommended. &nbsp;&nbsp;</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Searles Valley, containing the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/trona-pinnacles" style="color:blue; text-decoration:underline">Trona Pinnacles</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, a National Natural Landmark, </span></span><span lang="EN-CA" style="font-family:Roboto">offers views of wildflowers near the southwestern boundary of Death Valley National Park.</span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> Drive along Pinnacle Road, a six-mile graded road, to see blooms. </span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">For additional questions and information, contact the appropriate field office. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px">&nbsp;</p>
+
+<p><em>Julia Mogen, Public Affairs Specialist, California Desert District, 760-835-4612, <a href="mailto:jmogen@blm.gov">jmogen@blm.gov</a></em></p>
+</div>
+      
 
 
 
@@ -499,14 +1007,8 @@ date: 2024-04-08, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
-          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
-          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
-          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
-          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
-          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
-          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
-          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
+              <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/california-desert-do" hreflang="en">California Desert DO</a></div>
               </div>
       </div>
 
@@ -516,13 +1018,12 @@ date: 2024-04-08, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -tag">
-    <div><strong>Tag:</strong> </div>
-          <div>
-              <div><a href="https://www.blm.gov/tag/bil" hreflang="en">BIL</a></div>
-          <div><a href="https://www.blm.gov/tag/wildlife" hreflang="en">Wildlife</a></div>
-              </div>
-      </div>
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/recreation" hreflang="en">Recreation</a></div>
+                </div>
+  </div>
 
 
 
@@ -530,39 +1031,59 @@ date: 2024-04-08, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -contact">
-    <div><strong>Contact:</strong> </div>
-          <div>
-              <div>
-
-  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-  <div class="field contact-block -label">
-    <div><strong>Name:</strong> </div>
-              <div>BLM Press</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -email">
-    <div><strong>Email:</strong> </div>
-              <div>blm_press@blm.gov</div>
-          </div>
-
-      </div>
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-04-10T12:00:00Z">Wed, 04/10/2024 - 12:00 pm UTC</time>
 </div>
-              </div>
-      </div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/california-desert-district-office" hreflang="en">California Desert District Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47570/edit" hreflang="en">Cadiz Dunes Wilderness, Jesse Pluim</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>On</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/wildflowers" hreflang="en">Wildflowers</a></div>
+                    </div>
+          </div>
+  </div>
 
 
 
@@ -573,9 +1094,20 @@ date: 2024-04-08, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
               </div>
-      </div> 
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47572/edit" hreflang="en">Trona Pinnacles</a></div>
+          </div> 
 
 <https://www.blm.gov/blog/2024-04-08/blm-arizona-geologists-day>
 
@@ -585,7 +1117,7 @@ date: 2024-04-08, from: Bureau of Land Management, blog
 
 date: 2024-04-08, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/interior-department-announces-nearly-12-million-protect-and-restore-western-wildlife" hreflang="en">Interior Department Announces Nearly $12 Million to Protect and Restore Western Wildlife Habitats and Migration Corridors</a></h2></div>
+<div class="field contact-block -title"><h1>The BLM encourages visitor safety on public lands during wildflower season in the California desert</h1></div>
       
 
 
@@ -593,189 +1125,155 @@ date: 2024-04-08, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Publication Date:</strong> </div>
-              <div><time datetime="2024-03-26T12:00:00Z">Tue, 03/26/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
+            <div class="field contact-block -body"><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">PALM SPRINGS, Calif.</span></b><span lang="EN-CA" style="font-family:Roboto"> – After much needed winter rain, the California desert comes alive in the spring. Precious plants invisible under the sand will bloom overnight, adding colorful pink, yellow and white flowers across the landscape. </span></span></span></span></p>
 
+<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">While enjoying your desert excursions this spring, remember to recreate responsibly. Always plan trips in advance. Tell someone where you’re going and your expected return time. To avoid disturbing plants and wildlife, only travel on designated roads and trails. </span></span></span><span style="font-size:11.0pt"><span style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Capture the beauty of wildflowers through photography and leave them where they bloom. </span></span></span></span><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">For more safety tips, visit the California State Park’s <a href="https://www.parks.ca.gov/?page_id=30078" style="color:blue; text-decoration:underline">website</a>. </span></span></span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:#212529">Here are locations to view wildflowers on BLM-managed public lands in the California desert:</span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">Barstow Field Office: </span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="89cb682e-5365-44b4-b279-35940a571ac8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
 
 
 
 
   
 
-            <div class="field contact-block -body"><p><strong>WASHINGTON&nbsp;</strong>— The Department of the Interior and National Fish and Wildlife Foundation (NFWF) today&nbsp;<a href="https://www.nfwf.org/sites/default/files/2024-03/NFWF-WesternBigGameMigration-20240314-GS.pdf">announced</a>&nbsp;$11.8 million for 10 projects in seven states that will help restore habitat connectivity and secure key migration corridors for wildlife in the American West. A total of $3 million in grants and $8.8 million in matching contributions will be invested to protect migratory species like elk, mule deer, and pronghorn and their habitats in Arizona, California, Colorado, Idaho, Montana, Oregon and Wyoming.&nbsp;</p>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/32945873063_e6abe7b65c_c.jpg?itok=O1W1xekJ" width="640" height="426" alt="Purple flowers in the desert" typeof="foaf:Image">
 
-<p>“Healthy habitats and interconnected spaces to live and roam are key for the sustainability of species,” said&nbsp;<strong>Secretary Deb Haaland</strong>. “The Biden-Harris administration is strengthening public-private partnerships and employing an all-of-government approach to ensure the conservation of fish and wildlife in the West and across America through the protection of key migration corridors and habitats.”&nbsp;</p>
 
-<p>Bureau of Land Management (BLM) Director Tracy Stone-Manning and U.S. Fish and Wildlife Service (FWS) Director Martha Williams highlighted the announcement at the 89th North American Wildlife and Natural Resources Conference in Grand Rapids, Michigan.&nbsp;</p>
-
-<p>The grants are made possible through the&nbsp;<a href="https://www.nfwf.org/programs/rocky-mountain-rangelands/western-big-game-seasonal-habitat-and-migration-corridors-fund">Western Big Game Seasonal Habitat and Migration Corridors Fund</a>, which is administered by NFWF in-part through annual appropriations funding from the BLM, FWS, and the Department of Agriculture. The funding supports&nbsp;<a href="https://www.doi.gov/sites/doi.gov/files/uploads/so_3362_migration.pdf">Secretary’s Order 3362</a>, which seeks to enhance and improve the quality of big-game winter range and migration corridor habitat on federal lands. Today's funding builds on nearly $25 million in funding the Department and NFWF announced in&nbsp;<a href="https://www.doi.gov/pressreleases/us-departments-interior-agriculture-and-state-wyoming-commit-enhancing-wildlife">2021</a>,&nbsp;<a href="https://www.doi.gov/pressreleases/secretary-haaland-announces-progress-toward-conservation-and-restoration-wildlife">2022</a>&nbsp;and&nbsp;<a href="https://www.doi.gov/pressreleases/deputy-secretary-beaudreau-announces-nearly-4-million-protect-and-restore-wildlife">2023</a>. This work supports the President’s&nbsp;<a href="https://www.doi.gov/priorities/america-the-beautiful">America the Beautiful&nbsp;initiative</a>, which aims to conserve, connect and restore 30 percent of our lands and waters by 2030.&nbsp;</p>
-
-<p>Today’s announcement supplements historic funding through President Biden’s Investing in America agenda, which is supporting critical projects to restore habitats, strengthen landscape resilience, and put create good-paying jobs to restore America’s lands and waters in partnership with Tribes, private landowners, hunting and conservation organizations, and state wildlife management agencies.&nbsp;</p>
-
-<p>Last month, Secretary Haaland&nbsp;<a href="https://www.doi.gov/pressreleases/biden-harris-administration-announces-more-157-million-investing-america-agenda">announced</a>&nbsp;more than $157 million from President Biden’s Investing in America agenda to restore our nation’s lands and waters through locally led, landscape-scale restoration projects. The funding from the Bipartisan Infrastructure Law will support 206 ecosystem restoration projects in 48 states, Washington, D.C., and the U.S. Territories and will advance the Department’s&nbsp;<a href="https://www.doi.gov/sites/default/files/interior-department-to-take-action-to-restore-lands-and-waters.pdf">ongoing work</a>&nbsp;across several restoration and resilience programs.&nbsp;</p>
-
-<p><strong>Projects receiving grants and matching contributions are listed below:&nbsp;</strong></p>
-
-<h3>ARIZONA&nbsp;&nbsp;</h3>
-
-<p><em><strong>Managing Woody Invasives to Improve Habitat Quality on Perrin Ranch State Lands Grassland&nbsp;&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Arizona Elk Society&nbsp;</strong></p>
-
-<p>Grant Amount: $130,000&nbsp;</p>
-
-<p>Matching Funds: $130,000&nbsp;</p>
-
-<p>Total Project Amount: $260,000&nbsp;</p>
-
-<p>Improve winter habitat quality for migrant and resident mule deer, elk and pronghorn. Project will restore a minimum of 650 acres of grasslands in Northern Arizona by managing the encroachment of woody invasives.&nbsp;</p>
-
-<p><em><strong>Restoring Beaver Creek Watershed to Improve Habitat Connectivity&nbsp;&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Salt River Project Agricultural Improvement and Power District&nbsp;</strong></p>
-
-<p>Grant Amount: $489,500&nbsp;</p>
-
-<p>Matching Funds: $3,376,500&nbsp;</p>
-
-<p>Total Project Amount: $3,866,000&nbsp;</p>
-
-<p>Restore wildlife habitat and connectivity, reduce wildfire risk, protect water supplies, communities, infrastructure and improve forest resiliency. Project will restore approximately 3,920 acres by removing invading woody species from grasslands and former healthy woodlands that will allow native grass, browse, and forb species to return.&nbsp;</p>
-
-<h3>CALIFORNIA&nbsp;</h3>
-
-<p><em><strong>Restoring Steven's Prairie to Enhance Elk Habitat and Establish New Herds&nbsp;&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Yurok Tribe&nbsp;</strong></p>
-
-<p>Grant Amount: $181,393&nbsp;</p>
-
-<p>Matching Funds: $181,393&nbsp;</p>
-
-<p>Total Project Amount: $362,786&nbsp;</p>
-
-<p>Enhance meadow habitat for Roosevelt elk and provide a stopover site both for dispersing elk from saturated populations and for the establishment of new herds on Yurok lands. Project will survey and identify priority habitat in 160 acres; restore 80 acres of degraded prairie through removal of encroaching trees and invasive plants; establish a 25-acre fuel break along the perimeter of the restored site; and place 440 acres under various planning stages to improve management.&nbsp;</p>
-
-<h3>COLORADO&nbsp;</h3>
-
-<p><em><strong>Enhancing Elk Habitat Through Vegetation Treatments in Hay Flats&nbsp;</strong></em></p>
-
-<p><strong>Grantee: US Forest Service&nbsp;</strong></p>
-
-<p>Grant Amount: $200,000&nbsp;</p>
-
-<p>Matching Funds: $199,896&nbsp;</p>
-
-<p>Total Project Amount: $399,896&nbsp;</p>
-
-<p>Enhance elk habitat through vegetation treatments in mountain shrub and aspen communities within the vicinity of Hay Flats. Project will improve 2.25 acres of fencing, treat 430 acres with mechanical methods would create a mosaic of snowberry regrowth and allow understory species to take hold, and treat 220 acres with mastication and hand felling to increase forage, cover, and movement opportunities for elk in spring production areas, summer and winter habitat, and movement corridors.&nbsp;</p>
-
-<p><em><strong>Protecting Migration Corridors via the Wolf Mountain VII Conservation Easement&nbsp;&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Rocky Mountain Elk Foundation&nbsp;</strong></p>
-
-<p>Grant Amount: $100,000&nbsp;</p>
-
-<p>Matching Funds: $1,977,882&nbsp;</p>
-
-<p>Total Project Amount: $2,077,882&nbsp;</p>
-
-<p>Conserve vital aspen woodlands, sagebrush, and riparian habitat, as well as a migration corridor and pathway for two of Colorado’s largest migratory herds. Project will permanently protect approximately 1,630 acres of migration corridors for elk and winter range for mule deer, secure habitat connectivity through the valley bottom and highly developable lands near State Highway 40, protect five stream miles, and support a host of other wildlife, including greater sage grouse.&nbsp;&nbsp;</p>
-
-<h3>IDAHO&nbsp;</h3>
-
-<p><em><strong>Modifying Fencing to Improve the Migration Route Across Highway 28&nbsp;</strong></em></p>
-
-<p><strong>Grantee: The Mule Deer Foundation&nbsp;</strong></p>
-
-<p>Grant Amount: $317,922&nbsp;</p>
-
-<p>Matching Funds: $300,000&nbsp;</p>
-
-<p>Total Project Amount: $617,922&nbsp;</p>
-
-<p>Support passage-success of migratory mule deer and elk, reduce animal-vehicle collisions, and simultaneously increase safety for motorists. Project will extend a wildlife funnel fence project on Highway 28 by reconnecting three miles of corridor, improve 10 miles of fencing, remove two miles of fencing, and increase the passage success rate to 95%.</p>
-
-<h3>MONTANA&nbsp;</h3>
-
-<p><em><strong>Collaborating with Montana Grassland Partnership to Improve Big Game Migration&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Ranchers Stewardship Alliance, Inc.&nbsp;</strong></p>
-
-<p>Grant Amount: $275,000&nbsp;</p>
-
-<p>Matching Funds: $275,000&nbsp;</p>
-
-<p>Total Project Amount: $550,000&nbsp;</p>
-
-<p>Support, connect, and contribute to the partnership of big game migration work being done under the umbrella of the Montana Grassland Partnership as part of the Ranchers Stewardship Alliance (RSA) Conservation Committee. Project will work to improve nine miles of fencing, remove nine miles of unneeded fencing, restore 1,000 acres of grassland for added habitat and add a Conservation Director position with RSA to better serve the RSA project area and collaborate within the Montana Grassland Partnership.&nbsp;</p>
-
-<h3>OREGON&nbsp;</h3>
-
-<p><em><strong>Protecting Migration Habitat via a Fee Title Transfer to the Warm Springs Indian Reservation&nbsp;&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Oregon Wildlife Heritage Foundation&nbsp;</strong></p>
-
-<p>Grant Amount: $199,998&nbsp;</p>
-
-<p>Matching Funds: $716,350&nbsp;</p>
-
-<p>Total Project Amount: $916,348&nbsp;</p>
-
-<p>Protect migration corridors in high use areas in the Metolious winter range. Project will transfer 300-acre acquisition to the Confederated Tribe of the Warm Springs Indian Reservation.&nbsp;</p>
-
-<p><em><strong>Treating Invasives to Improve Migration Corridors for Elk and Nesting Habitat for Sage Grouse (OR)&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Crook County Soil and Water Conservation District&nbsp;</strong></p>
-
-<p>Grant Amount: $190,609&nbsp;</p>
-
-<p>Matching Funds: $213,586&nbsp;</p>
-
-<p>Total Project Amount: $404,195&nbsp;</p>
-
-<p>Enhance understory conditions in sagebrush habitats, which will improve conditions for a host of species including sagebrush obligates and improve migration and seasonal habitat for a variety of wildlife species. Project will restore 415 acres of migration habitat for elk and mule deer as well as seasonal habitat for sage grouse through the removal of woody invasives.</p>
-
-<h3>WYOMING&nbsp;</h3>
-
-<p><em><strong>Restoring Big Game Migration Corridors for Bates Hole, Dubois and Platte Valley Mule Deer Herds&nbsp;</strong></em></p>
-
-<p><strong>Grantee: Wyoming Game and Fish Department&nbsp;</strong></p>
-
-<p>Grant Amount: $961,250&nbsp;</p>
-
-<p>Matching Funds: $961,250&nbsp;</p>
-
-<p>Total Project Amount: $1,922,500&nbsp;</p>
-
-<p>Improve forage resources and connectivity between seasonal ranges for mule deer and a wide variety of other wildlife. Project will implement 13,530 acres of invasive weed treatments, modify 46 miles of fences and restore 150 acres of habitat.&nbsp;</p>
 </div>
       
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/Scjdfc" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/Scjdfc</b></a></span></span></span></span></p>
+
+<p style="margin-top:16px; margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Ord Mountains feature beautiful cactus flowers, specifically in the Kane Wash area. Access requires a four-wheel drive vehicle. <a name="_Hlk162941596">Please follow </a></span></span><a href="https://www.blm.gov/visit/barstow" style="color:blue; text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">these practices</span></a><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> to help protect this special place for future visitors. </span></span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">The Fremont Peak area, northwest of Barstow, is typically excellent for wildflowers. Open routes off U.S. Route 395 provide access to the area. Drive with caution as dirt roads may be rutted out in spots. </span></span></span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">Copper City Road north of Barstow provides access to patches of wildflowers. Vehicles with high clearance are recommended since rocks may be encountered in the road. Many species of wildflowers can be found along Copper City Road including a Joshua tree grove. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">El Centro Field Office: </span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="337d6dde-2707-4b69-8a7c-491008615781" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -fiscal-year">
-    <div><strong>Fiscal Year:</strong> </div>
-              <div>2024</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53645185278_10fb9e852f_c.jpg?itok=HNzJgGne" width="640" height="427" alt="Purple flowers in sand dunes" typeof="foaf:Image">
 
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJrABy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJrABy</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Blooms in the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/north-algodones-dunes-wilderness" style="color:blue; text-decoration:underline">North Algodones Dunes Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be seen from Osborne Overlook in the Imperial Sand Dunes Recreation Area. </span></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Permits are required from October 1 through April 15. Permits</span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be purchased at the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/cahuilla-ranger-station" style="color:blue; text-decoration:underline">Cahuilla Ranger Station</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">,</span></span></span> <span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none">Friday-Sunday for $50 or </span></span></span></span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.isdpermits.net/" style="color:blue; text-decoration:underline">online</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none"> for $35.</span></span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Wildlife Viewing Area in Imperial Sand Dunes Recreation Area provides access to the North Algodones Dunes Wilderness. Safely park along Ted Kipf Road before walking into the wilderness area. The gravel road crosses sandy washes, so four-wheel drive is recommended. Geographic coordinates: 33.0207, -115.1075</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.google.com/maps/place/Sacatone+Scenic+Overlook/@32.7137584,-116.2273486,4577m/data=!3m1!1e3!4m6!3m5!1s0x80d9973ab502dfb3:0x78a8d69f9d8ffe5a!8m2!3d32.7137683!4d-116.2300356!16s%2Fg%2F11r_m7h8nw?entry=ttu" style="color:blue; text-decoration:underline">Sacatone Overlook</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> in McCain Valley offers views of the desert valley below. Four-wheel drive is required.</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Carrizo Overlook in McCain Valley offers views of the surrounding area. Roads are passable with a two-wheel drive vehicle. Geographic coordinates: 32.773957, -116.282389</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Needles Field Office:</span></span></u></b><u> </u></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="558d6f56-37f2-486d-8a38-9fb39a79961e" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -organization">
-    <div><strong>Organization:</strong> </div>
-              <div>Bureau of Land Management</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643079231_40a3b47918_c.jpg?itok=YFQrReTQ" width="351" height="530" alt="Desert primrose in the crevice of a dune" typeof="foaf:Image">
 
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJm5qL" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJm5qL</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJfNyp" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJfNyp</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Mojave Road, based on the indigenous Mojave trail network, starts at the Colorado River, travels west across </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/mojave-trails-national-monument" style="color:blue; text-decoration:underline">Mojave Trails National Monument</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and passes through Mojave National Preserve, before continuing through Afton Canyon in the Barstow Field Office. The historic route was utilized by many California Tribes and later by pioneers and cavalrymen. This road requires four-wheel drive vehicles with high clearance. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/snaggletooth-primitive-rv-camp" style="color:blue; text-decoration:underline">Snaggletooth Primitive Campground</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, located off U.S. Route 95, is 30 minutes south of Needles and offers spectacular views across the western portion of Mojave Trails National Monument. Two-wheel drive vehicles can access the area.&nbsp; </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Palm Springs – South Coast Field Office: </span></span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6f061473-9f54-449b-bed7-a1c7420147f5" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/50167011236_03ec5f0a4e_k.jpg?itok=TF5aU8mg" width="640" height="480" alt="Bright yellow and orange flowers on a hill" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2jr63DA" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2jr63DA</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2dY4USM" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2dY4USM</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/santa-rosa-and-san-jacinto-mountains-national-monument" style="color:blue; text-decoration:underline"><span style="background:white">The Santa Rosa and San Jacinto Mountains National Monument</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> Visitor Center, located off California Highway 74 in Palm Desert, has breathtaking views of the Coachella Valley with accessible walking and hiking trails. Park at the visitor center to see wildflowers along the Ed Hastey Garden Trail or hike the Randall Henderson Trail. </span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto">Explore </span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/mecca-hills-wilderness" style="color:blue; text-decoration:underline"><span style="background:white">Mecca Hills Wilderness</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> to admire wildflowers along the San Andreas Fault Line. </span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Box Canyon Road, which cherrystems the wilderness area, is accessible from Mecca, CA, or Interstate 10 at the south end of Joshua Tree National Park. Safely pull-off at designated or previously disturbed areas to avoid crushing vegetation. Box Canyon Road is accessible in a two-wheel drive vehicle. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Ridgecrest Field Office: </span></span></u></b></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="7631733f-f808-4a02-b38c-675b370eebd8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643481760_67ae62e582_c.jpg?itok=Fu4KGwCO" width="640" height="480" alt="Bright yellow flowers under towering rock formations" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJhSdy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJhSdy</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJsVaR" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJsVaR</b></a></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Short Canyon trail, in </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/owens-peak-wilderness-short-canyon" style="color:blue; text-decoration:underline">Owens Peak Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, is approximately 20 minutes northwest of Ridgecrest and is open to hikers and equestrians. &nbsp;</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Directions to Short Canyon: From the intersection of U.S. Highway 395 and State Route 14, travel north for one mile to Leliter Road and turn west to cross U.S. Highway 395. On the west side of the highway, follow the Short Canyon signs and take the graded dirt road to the Power line Road. Then turn south and proceed for half a mile to the intersection with BLM Route SE138. Turn west and follow this dirt road all the way to the parking lot and trailhead. Four-wheel drive vehicles with high clearance are recommended. &nbsp;&nbsp;</span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Searles Valley, containing the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/trona-pinnacles" style="color:blue; text-decoration:underline">Trona Pinnacles</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, a National Natural Landmark, </span></span><span lang="EN-CA" style="font-family:Roboto">offers views of wildflowers near the southwestern boundary of Death Valley National Park.</span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> Drive along Pinnacle Road, a six-mile graded road, to see blooms. </span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">For additional questions and information, contact the appropriate field office. </span></span></span></span></span></p>
+
+<p style="margin-bottom:13px">&nbsp;</p>
+
+<p><em>Julia Mogen, Public Affairs Specialist, California Desert District, 760-835-4612, <a href="mailto:jmogen@blm.gov">jmogen@blm.gov</a></em></p>
+</div>
+      
 
 
 
@@ -785,14 +1283,8 @@ date: 2024-04-08, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
-          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
-          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
-          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
-          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
-          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
-          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
-          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
+              <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/california-desert-do" hreflang="en">California Desert DO</a></div>
               </div>
       </div>
 
@@ -802,13 +1294,12 @@ date: 2024-04-08, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -tag">
-    <div><strong>Tag:</strong> </div>
-          <div>
-              <div><a href="https://www.blm.gov/tag/bil" hreflang="en">BIL</a></div>
-          <div><a href="https://www.blm.gov/tag/wildlife" hreflang="en">Wildlife</a></div>
-              </div>
-      </div>
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/recreation" hreflang="en">Recreation</a></div>
+                </div>
+  </div>
 
 
 
@@ -816,39 +1307,59 @@ date: 2024-04-08, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -contact">
-    <div><strong>Contact:</strong> </div>
-          <div>
-              <div>
-
-  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-  <div class="field contact-block -label">
-    <div><strong>Name:</strong> </div>
-              <div>BLM Press</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -email">
-    <div><strong>Email:</strong> </div>
-              <div>blm_press@blm.gov</div>
-          </div>
-
-      </div>
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-04-10T12:00:00Z">Wed, 04/10/2024 - 12:00 pm UTC</time>
 </div>
-              </div>
-      </div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/california-desert-district-office" hreflang="en">California Desert District Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47570/edit" hreflang="en">Cadiz Dunes Wilderness, Jesse Pluim</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>On</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/wildflowers" hreflang="en">Wildflowers</a></div>
+                    </div>
+          </div>
+  </div>
 
 
 
@@ -859,9 +1370,20 @@ date: 2024-04-08, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
               </div>
-      </div> 
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47572/edit" hreflang="en">Trona Pinnacles</a></div>
+          </div> 
 
 <https://www.blm.gov/blog/2024-04-08/blm-helps-conduct-groundbreaking-research-wildlife-and-solar-development>
 

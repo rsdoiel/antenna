@@ -1,11 +1,81 @@
 ---
 title: games 2024.15
-updated: 2024-04-10 08:58:06
+updated: 2024-04-11 07:53:07
 ---
 
 # games 2024.15
 
-(date: 2024-04-10 08:58:06)
+(date: 2024-04-11 07:53:07)
+
+---
+
+## Not sure what movie to watch this weekend? Leave a comment, we’ll help
+
+date: 2024-04-11, updated: 2024-04-11, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/entertainment/2024/4/11/24126167/best-movies-watch-this-weekend-best-recommendations>
+
+---
+
+## Alex Garland has a 2-part agenda for Civil War
+
+date: 2024-04-11, updated: 2024-04-11, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24126438/civil-war-politics-alex-garland-interview>
+
+---
+
+## Destiny 2 Iron Banner schedule dates for Season of the Wish
+
+date: 2024-04-11, updated: 2024-04-11, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/23971548/iron-banner-schedule-dates-when-next>
+
+---
+
+## One author thinks your D&D party should get out more and socialize... in-character
+
+date: 2024-04-11, updated: 2024-04-11, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/tabletop-games/24126673/you-dont-meet-in-a-tavern-ttrpg-book-preview>
+
+---
+
+## Destiny 2 power level guide, all caps and Powerful and Pinnacle gear sources explained
+
+date: 2024-04-11, updated: 2024-04-11, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/23611953/power-level-cap-powerful-pinnacle-gear>
+
+---
+
+## Some must-have Steam Deck and PS Portal accessories are buy 1, get 1 free
+
+date: 2024-04-11, updated: 2024-04-11, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24126203/deckmate-steam-deck-rog-ally-playstation-portable-mechanism-accessories-bogo-deal-sale>
+
+---
+
+## The Fallout TV show gives the game’s mascot an origin story that matters
+
+date: 2024-04-11, updated: 2024-04-11, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24126711/fallout-tv-show-vault-boy-origin-story-walton-goggins-ghoul>
 
 ---
 

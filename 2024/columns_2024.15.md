@@ -1,11 +1,61 @@
 ---
 title: columns 2024.15
-updated: 2024-04-10 08:58:06
+updated: 2024-04-11 07:53:07
 ---
 
 # columns 2024.15
 
-(date: 2024-04-10 08:58:06)
+(date: 2024-04-11 07:53:07)
+
+---
+
+## Backdoor in XZ Utils That Almost Happened
+
+date: 2024-04-11, updated: 2024-04-10, from: Bruce Schneier blog
+
+<p>Last week, the internet dodged a major nation-state attack that would have had catastrophic cybersecurity repercussions worldwide. It’s a catastrophe that didn’t happen, so it won’t get much attention&#8212;but it should. There’s an important moral to the <a href="https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/">story of the attack</a> and its <a href="https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html">discovery</a>: The security of the global internet depends on countless obscure pieces of software written and maintained by even more obscure unpaid, distractible, and sometimes vulnerable volunteers. It’s an untenable situation, and one that is being exploited by malicious actors. Yet precious little is being done to remedy it...</p> 
+
+<https://www.schneier.com/blog/archives/2024/04/backdoor-in-xz-utils-that-almost-happened.html>
+
+---
+
+## Money, money, money
+
+date: 2024-04-11, from: Enlightenment Economics blog
+
+Money has always seemed mysterious to me, and so I&#8217;ve always carefully avoided monetary economics as too difficult (which makes it ironic that when I returned from my US PhD programme to a job in the UK Treasury in 1985 &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2024/04/money-money-money-2/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2024/04/money-money-money-2/>
+
+---
+
+## Why I draw
+
+date: 2024-04-11, from: Robert Reich's blog
+
+Drawings and ideas flow together 
+
+<https://robertreich.substack.com/p/why-i-draw>
+
+---
+
+## Why are we still suffering inflation? Monopoly power!
+
+date: 2024-04-10, from: Robert Reich's blog
+
+Friends, We learned today that the Consumer Price Index climbed 3.5 percent in March from a year earlier, up from 3.2 percent in February, and faster than most economists anticipated. This poses a conundrum for central bankers who have made it clear that they want to see further evidence that inflation is cooling before they cut interest rates. 
+
+<https://robertreich.substack.com/p/why-are-we-still-suffering-inflation>
+
+---
+
+## Notes on git's error messages
+
+date: 2024-04-10, updated: 2024-04-10, from: Julia Evans blog
+
+ 
+
+<https://jvns.ca/blog/2024/04/10/notes-on-git-error-messages/>
 
 ---
 

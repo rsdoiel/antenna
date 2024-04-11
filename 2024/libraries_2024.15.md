@@ -1,11 +1,53 @@
 ---
 title: libraries 2024.15
-updated: 2024-04-10 08:58:06
+updated: 2024-04-11 07:53:07
 ---
 
 # libraries 2024.15
 
-(date: 2024-04-10 08:58:06)
+(date: 2024-04-11 07:53:07)
+
+---
+
+## ETH RDM Summer School 2024 for early career scientists
+
+date: 2024-04-11, from: ETH Zurich Research Archives
+
+The ETH Research Data Management Summer School 2024 still has some open spots. Take this great opportunity to learn more about the topic between 10-14th June 2024! Registration and more information<img src="https://analytics.library.ethz.ch/piwik.php?idsite=1&amp;rec=1&amp;url=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Feth-rdm-summer-school-2024-for-early-career-scientists%2F&amp;action_name=ETH+RDM+Summer+School+2024+for+early+career+scientists&amp;urlref=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" /> 
+
+<https://rc-blog.ethz.ch/en/eth-rdm-summer-school-2024-for-early-career-scientists/>
+
+---
+
+## Gates Policy Refresh: What Would Success Look Like?
+
+date: 2024-04-11, from: Scholarly Kitchen
+
+<p>While the BMGF may be all-in, from an industry perspective the Gates Policy Refresh represents a small but potentially valuable experiment.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/04/11/bmgf-gates-policy-refresh-what-would-success-look-like/">Gates Policy Refresh: What Would Success Look Like?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/04/11/bmgf-gates-policy-refresh-what-would-success-look-like/>
+
+---
+
+## The Missing Chums, by Franklin W. Dixon
+
+date: 2024-04-11, from: Standard Ebooks, new releaases
+
+Two friends go missing on a boat trip, and the Hardy Boys investigate. 
+
+<https://standardebooks.org/ebooks/franklin-w-dixon/the-missing-chums>
+
+---
+
+## Honeycomb, by Dorothy M. Richardson
+
+date: 2024-04-11, from: Standard Ebooks, new releaases
+
+Our protagonist takes a new position as governess for a wealthy family. 
+
+<https://standardebooks.org/ebooks/dorothy-m-richardson/honeycomb>
 
 ---
 
@@ -36,7 +78,7 @@ date: 2024-04-10, from: Scholarly Kitchen
 
 date: 2024-04-09, from: Association of Research Libraries News
 
-<p>Last Updated on April 9, 2024, 3:25 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 9 &#124; Wednesday, April 10 &#124; Thursday,...</p>
+<p>Last Updated on April 10, 2024, 3:30 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 9 &#124; Wednesday, April 10 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-8-11/">Day in Review (April 8–11)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
