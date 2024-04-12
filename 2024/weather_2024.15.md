@@ -1,11 +1,156 @@
 ---
 title: weather 2024.15
-updated: 2024-04-11 07:53:07
+updated: 2024-04-12 08:48:10
 ---
 
 # weather 2024.15
 
-(date: 2024-04-11 07:53:07)
+(date: 2024-04-12 08:48:10)
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2024-04-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1032 AM CDT Fri Apr 12 2024
+
+Valid 121700Z - 131200Z
+
+No changes to the ongoing forecast.
+
+..Wendt.. 04/12/2024
+
+.PREV DISCUSSION... /ISSUED 0200 AM CDT Fri Apr 12 2024/
+
+...Synopsis...
+In the wake of the upper-level cyclone departing to the east,
+transient ridging aloft will give way to increasingly strong
+southwest flow over the southern Rockies. An embedded perturbation
+passing overhead will aid in deepening a lee trough over parts of
+the southern High Plains Friday. Downslope surface winds are
+forecast to increase through afternoon over part of eastern NM and
+southeastern CO. Dry southerly return flow is also possible across
+parts of the TX Rio Grande Valley. The gusty winds and low humidity
+will likely support elevated to locally critical fire-weather
+conditions.
+
+...Northeast New Mexico and southern Colorado...
+As flow aloft begins to strengthen ahead of the approaching
+shortwave trough, a deepening lee trough will bolster westerly
+surface flow over northeastern NM and southern CO. Dry downslope
+trajectories and daytime heating should support widespread minimum
+RH values of 10-15%. Overlapping with sustained surface winds of
+15-25 mph, and dry fuels devoid of recent rainfall, several hours of
+elevated to locally critical fire-weather conditions are likely over
+parts of NM and southern CO.
+
+...Texas Rio Grande Valley...
+To the east of the deepening lee trough, southerly winds are forest
+to increase through much of the day with the approach of the
+upper-level shortwave trough. With limited surface moisture in place
+behind the previous frontal passage, dry return flow is expected
+over parts of South TX and the central Rio Grande Valley. Periodic
+surface wind gusts of 15-20 mph and diurnal RH minimums of 15-20%
+may support a few hours of elevated fire-weather conditions.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## SPC - No watches are valid as of Fri Apr 12 15:35:02 UTC 2024
+
+date: 2024-04-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri Apr 12 15:35:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Fri Apr 12 15:35:02 UTC 2024
+
+date: 2024-04-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Fri Apr 12 15:35:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Apr 12, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-04-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0748 AM CDT Fri Apr 12 2024
+
+Valid 121300Z - 131200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+NORTHERN NEVADA...EASTERN OREGON...IDAHO...AND FAR WESTERN
+MONTANA...
+
+...SUMMARY...
+Isolated severe wind gusts and hail may occur with thunderstorms
+over northern Nevada, eastern Oregon, Idaho, and far western Montana
+late this afternoon and early evening.
+
+...Northern Nevada into Eastern Oregon, Idaho, and Far Western
+Montana...
+An upper low over the eastern Pacific will dig southward towards the
+northern/central CA Coast through tonight, with a belt of moderately
+enhanced flow extending over parts of the Northwest. Low-level
+moisture across the northern Great Basin into the northern Rockies
+is expected to remain quite meager, with PW values generally around
+0.7 inch or less. Even so, daytime heating should encourage a very
+well-mixed boundary layer to develop by later this afternoon as a
+surface low consolidates over northern NV. Isolated to scattered
+thunderstorms should develop this afternoon from parts of northern
+NV and eastern OR into ID and eventually western MT. With up to 500
+J/kg of MLCAPE present amid sufficient deep-layer for some updraft
+organization, some of this activity could become strong to severe.
+Isolated severe wind gusts may occur with any convective downdrafts,
+as low/mid-level lapse rates will likely be quite steep. Occasional
+hail also appears possible with the more robust cores. Convection
+should weaken this evening with eastward extent into ID/western MT
+with the loss of daytime heating.
+
+...Ohio Valley into the Mid-Atlantic and Northeast...
+Low-topped thunderstorms should develop along a cold front this
+morning into the afternoon across parts of the Northeast. Poor lapse
+rates, weak buoyancy, and generally meridional flow at low/mid
+levels across eastern NY into parts of southern New England will
+likely hinder an organized severe threat from developing.
+
+A separate area of convection may develop this afternoon across
+parts of the OH Valley into the central Appalachians and perhaps
+Carolinas. This activity will be tied to cold mid-level temperatures
+associated with a shortwave trough embedded within a broad upper
+trough/low over the eastern CONUS. With generally west-northwesterly
+flow behind a front, instability should remain very weak. Still,
+enhanced low-level winds may reach the surface with a well-mixed
+boundary layer, and occasional strong/gusty winds could occur this
+afternoon.
+
+..Gleason/Grams.. 04/12/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
@@ -181,99 +326,6 @@ COASTAL WATERS FROM FERNANDINA BEACH TO ST. AUGUSTINE FL OUT 20
 
 ---
 
-## SPC Apr 11, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-04-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0752 AM CDT Thu Apr 11 2024
-
-Valid 111300Z - 121200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FOR EASTERN
-OHIO AND NORTHWEST WEST VIRGINIA...
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR FAR SOUTHERN
-GEORGIA INTO NORTH AND CENTRAL PARTS OF FLORIDA...
-
-...SUMMARY...
-Severe thunderstorms with a few tornadoes, scattered damaging winds,
-and isolated large hail are possible across the upper Ohio River
-Valley and parts of the Appalachians this afternoon.  Scattered
-damaging winds and a couple of tornadoes are possible in far
-southern Georgia into central Florida, mainly this morning through
-early afternoon.
-
-...Synopsis...
-Water-vapor imagery this morning shows a potent mid-level low/trough
-centered near the AR/MS/TN border with an upstream trough over the
-Upper Midwest forecast to phase with the Southeast trough.  A
-cyclone near the TN/MS border will deepen as it develops
-north-northeast into the Lower Great Lakes by early evening.  A
-trailing surface cold front will push east across portions of the
-Southeast/southern Appalachians during the day, before clearing the
-Southeast coast by early Friday morning.  
-
-...Upper OH River Valley...
-Considerable uncertainty remains for this forecast in terms of the
-magnitude of destabilization across the OH Valley late this morning
-through the afternoon.  This uncertainty is primarily due to low
-cloud cover and weak capping resulting in scattered
-showers/low-topped thunderstorm activity and the potential to remain
-relatively cool in the boundary layer.  However, mid-level dry air
-evident in water-vapor imagery is wrapping through the base of the
-mid-level low/trough over TN, and this mid-level dry intrusion
-forecast to spread northeast into portions of the Upper OH Valley. 
-Weak instability coupled with some enlargement of the hodograph can
-support an environment in which discrete cells and semi-discrete
-clusters evolve into supercells.  A few tornadoes are possible if
-stronger updrafts/supercells manage to develop, in addition to an
-accompanying threat for damaging gusts and perhaps marginally severe
-hail.  
-
-...Florida/Georgia...
-Ongoing pre-frontal broken band of strong to severe thunderstorms
-over north FL and the eastern Gulf of Mexico will gradually shift
-east across the northern half of the Peninsula through the morning
-and into the afternoon.  The northern rim of rich low-level moisture
-(upper 60s to lower 70s deg F surface dewpoints) have advected into
-north FL early this morning.  Although lapse rates will remain
-modest, it appears the richer moisture will contribute to adequate
-surface-based buoyancy (500-1250 J/kg MLCAPE) across the northern
-half of the Peninsula today.  The Jacksonville and Tampa 88D VAD
-wind profiles are quite strong this morning and will likely remain
-so through the early afternoon as the larger-scale mid-level trough
-pivots eastward over the FL Peninsula by early evening.  The risk
-for a couple of tornadoes and damaging gusts will likely maximize
-through the midday before the thunderstorm band moves offshore and
-forcing for ascent gradually abates by late afternoon as the
-synoptic low lifts well to the north.
-
-...Mid-Atlantic states into Carolinas...
-A less focused and more conditional severe risk seems evident for
-the Carolinas later this afternoon and northward into the
-Mid-Atlantic states this evening as the upper trough encroaches on
-the general region.  A broad warm-air advection regime north of the
-FL/GA early-day MCS will slowly destabilize today, aided in part by
-lower 60 deg F dewpoints north, mid to upper 60s south.  Long
-hodographs will favor storm organization with any robust updrafts. 
-Isolated to widely scattered strong to severe storms capable of a
-threat for damaging gusts and a couple of tornadoes are possible,
-mainly over parts of western VA, with lower coverage expected
-farther east over the coastal plain/Delmarva.
-
-..Smith/Mosier.. 04/11/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
 ## SPC Day 2 Fire Weather Outlook
 
 date: 2024-04-11, from: NOAA Weather Forecasts
@@ -322,16 +374,6 @@ monitored).
  
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## SPC - No MDs are in effect as of Wed Apr 10 15:42:04 UTC 2024
-
-date: 2024-04-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Wed Apr 10 15:42:04 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -794,14 +836,4 @@ storm motion vector 25025.
  
 
 <https://www.spc.noaa.gov/products/watch/ww0094.html>
-
----
-
-## SPC - No watches are valid as of Mon Apr  8 13:58:02 UTC 2024
-
-date: 2024-04-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Mon Apr  8 13:58:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/watch/>
 

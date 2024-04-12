@@ -1,11 +1,113 @@
 ---
 title: columns 2024.15
-updated: 2024-04-11 07:53:07
+updated: 2024-04-12 08:48:10
 ---
 
 # columns 2024.15
 
-(date: 2024-04-11 07:53:07)
+(date: 2024-04-12 08:48:10)
+
+---
+
+## Smuggling Gold by Disguising it as Machine Parts
+
+date: 2024-04-12, updated: 2024-04-11, from: Bruce Schneier blog
+
+<p>Someone got caught trying to <a href="https://jalopnik.com/10-million-in-gold-disguised-as-machine-parts-seized-f-1851397958">smuggle</a> 322 pounds of gold (that&#8217;s about 1/4 of a cubic foot) out of Hong Kong. It was disguised as machine parts:</p>
+<blockquote><p>On March 27, customs officials x-rayed two air compressors and discovered that they contained gold that had been &#8220;concealed in the integral parts&#8221; of the compressors. Those gold parts had also been painted silver to match the other components in an attempt to throw customs off the trail.</p></blockquote>
+ 
+
+<https://www.schneier.com/blog/archives/2024/04/smuggling-gold-by-disguising-it-as-machine-parts.html>
+
+---
+
+## Don’t call it the “hush money” case
+
+date: 2024-04-12, from: Robert Reich's blog
+
+Trump wants you to think that all he did was try to cover up a sexual affair 
+
+<https://robertreich.substack.com/p/dont-call-it-the-hush-money-case>
+
+---
+
+## The Verge’s Review Scale
+
+date: 2024-04-12, updated: 2024-04-12, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/pages/how-we-rate>
+
+---
+
+## David Pierce Reviews Humane’s AI Pin: ‘Nope. Nuh-Uh. No Way.’
+
+date: 2024-04-12, updated: 2024-04-12, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/24126502/humane-ai-pin-review>
+
+---
+
+## Eclipses Should Be Celebrations of Science, Not Pseudoscience
+
+date: 2024-04-11, updated: 2024-04-12, from: Daring Fireball
+
+ 
+
+<https://www.womenshealthmag.com/life/a60428945/how-solar-eclipse-will-affect-zodiac/>
+
+---
+
+## Mattel Makes New Version of Scrabble for Dum-Dums
+
+date: 2024-04-11, updated: 2024-04-11, from: Daring Fireball
+
+ 
+
+<https://www.cnn.com/2024/04/09/business/scrabble-together-game-scli-intl-gbr/index.html>
+
+---
+
+## Will Trump’s Major Flip Be a Flop?
+
+date: 2024-04-11, from: Dan Rather's Steady
+
+A massive policy change is easy when you have no convictions 
+
+<https://steady.substack.com/p/will-trumps-major-flip-be-a-flop>
+
+---
+
+## Friday 12 April, 2024
+
+date: 2024-04-11, from: John Naughton's online diary
+
+The Public House The OED says that “pub” is an abbreviation of ‘Public House’ or inn. This legendary institution has been around since 1754, so it was likely to have been called a ‘public house’ for quite a while. (The &#8230; <a href="https://memex.naughtons.org/friday-12-april-2024/39349/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-12-april-2024/39349/>
+
+---
+
+## Automattic Acquires Beeper, Will Merge With Texts
+
+date: 2024-04-11, updated: 2024-04-11, from: Daring Fireball
+
+ 
+
+<https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/>
+
+---
+
+## OJ Simpson Dies From Cancer at 76
+
+date: 2024-04-11, updated: 2024-04-11, from: Daring Fireball
+
+ 
+
+<https://www.latimes.com/obituaries/story/2024-04-11/oj-simpson-dead>
 
 ---
 
@@ -61,9 +163,10 @@ date: 2024-04-10, updated: 2024-04-10, from: Julia Evans blog
 
 ## In Memoriam: Ross Anderson, 1956-2024
 
-date: 2024-04-10, updated: 2024-04-10, from: Bruce Schneier blog
+date: 2024-04-10, updated: 2024-04-11, from: Bruce Schneier blog
 
 <p>Last week I posted a <a href="https://www.schneier.com/blog/archives/2024/03/ross-anderson.html">short memorial</a> of Ross Anderson. The <cite>Communications of the ACM</cite> asked me to expand it. Here&#8217;s the <a href="https://www.schneier.com/essays/archives/2024/04/in-memoriam-ross-anderson-1956-2024.html">longer version</a>.</p>
+<p>EDITED TO ADD (4/11): Two weeks before he passed away, Ross gave an 80-minute <a href="https://www.youtube.com/watch?v=jkd-xp4xzlw">interview</a> where he told his life story.</p>
  
 
 <https://www.schneier.com/blog/archives/2024/04/in-memoriam-ross-anderson-1956-2024.html>

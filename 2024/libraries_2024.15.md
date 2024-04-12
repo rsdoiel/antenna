@@ -1,11 +1,45 @@
 ---
 title: libraries 2024.15
-updated: 2024-04-11 07:53:07
+updated: 2024-04-12 08:48:11
 ---
 
 # libraries 2024.15
 
-(date: 2024-04-11 07:53:07)
+(date: 2024-04-12 08:48:11)
+
+---
+
+## Inclusivity is Making This Year’s SSP Annual Meeting Better than Ever
+
+date: 2024-04-12, from: Scholarly Kitchen
+
+<p>Behind the scenes, we've been working over the last 9 months to re-engineer the SSP's Annual Meeting program to include more new voices in our industry, and we can't wait to share the results with you.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/04/12/inclusivity-is-making-this-years-ssp-annual-meeting-better-than-ever/">Inclusivity is Making This Year’s SSP Annual Meeting Better than Ever</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/04/12/inclusivity-is-making-this-years-ssp-annual-meeting-better-than-ever/>
+
+---
+
+## Reading with Run DMC
+
+date: 2024-04-12, from: Scholarly Kitchen
+
+<p>On today's episode, Run DMC pay a visit to Reading Rainbow.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/04/12/reading-with-run-dmc/">Reading with Run DMC</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/04/12/reading-with-run-dmc/>
+
+---
+
+## Bayesian parameter estimation for ground-motion correlation models
+
+date: 2024-04-12, from: ETH Zurich, recently added
+
+Bodenmann, Lukas 
+
+<http://hdl.handle.net/20.500.11850/643796>
 
 ---
 
@@ -78,7 +112,7 @@ date: 2024-04-10, from: Scholarly Kitchen
 
 date: 2024-04-09, from: Association of Research Libraries News
 
-<p>Last Updated on April 10, 2024, 3:30 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 9 &#124; Wednesday, April 10 &#124; Thursday,...</p>
+<p>Last Updated on April 11, 2024, 4:07 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 9 &#124; Wednesday, April 10 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-8-11/">Day in Review (April 8–11)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

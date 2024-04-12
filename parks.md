@@ -1,11 +1,99 @@
 ---
 title: parks 2024.15
-updated: 2024-04-11 07:53:07
+updated: 2024-04-12 08:48:11
 ---
 
 # parks 2024.15
 
-(date: 2024-04-11 07:53:07)
+(date: 2024-04-12 08:48:11)
+
+---
+
+## Biden-Harris Administration delivers historic milestones, new actions for clean energy on public lands
+
+date: 2024-04-11, from: Bureau of Land Management, California
+
+<div class="field contact-block -teaser-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/teaser/public/images/2023-06/Renewable%20Energy%20Rule%20hero_0.jpg?h=a1e1a043&amp;itok=mumtQDmM" width="150" height="100" alt="Renewable Energy Development in the California Desert" typeof="foaf:Image">
+
+
+</div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="62f730dc-f80c-4007-a535-c30d9474e7d1" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-06/Renewable%20Energy%20Rule%20hero_0.jpg?itok=Y7yr4JzH" width="640" height="427" alt="Renewable Energy Development in the California Desert" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Renewable Energy Development in the California Desert. Photo by Tom Brewster</figcaption>
+</figure>
+
+
+<p><strong>WASHINGTON — </strong>The Biden-Harris administration today announced a series of historic milestones and actions to promote responsible clean energy development on public lands and help achieve President Biden’s goal of creating a carbon pollution-free power sector by 2035. &nbsp;</p>
+
+<p>Secretary of the Interior Deb Haaland today announced that the Department has now permitted more than 25 gigawatts of clean energy projects – surpassing a major milestone ahead of 2025 – enough clean energy to power more than 12 million homes across the country. This includes solar, wind and geothermal projects, as well as gen-tie lines on public lands that are essential for connecting clean electricity projects on both federal and non-federal land to the grid.&nbsp;</p>
+
+<p>“Since Day One, the Biden-Harris administration has worked tirelessly to expand responsible clean energy development to address climate change, enhance America’s energy security and create good-paying union jobs. Surpassing our goal of permitting 25 gigawatts of clean energy by 2025 underscores the significant progress we have made in helping build modern, resilient climate infrastructure that protects our communities from the worsening impacts of climate change,” <strong>said Secretary Deb Haaland</strong>. “The Interior Department will continue to advance projects that will add enough clean energy to the grid to power millions more homes and help ensure a livable planet for future generations.”&nbsp;</p>
+
+<p>The Department today also announced a <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy rule</a> from the Bureau of Land Management (BLM) that will lower consumer energy costs and the cost of developing solar and wind projects, improve renewable energy project application processes, and incentivize developers to continue responsibly developing solar and wind projects on public lands. Consistent with the Biden-Harris administration’s commitment to create high-quality jobs in the clean energy economy and support American manufacturing, the final rule includes additional incentives for use of project labor agreements and American-made materials. &nbsp;</p>
+
+<p>“Our public lands are playing a critical role in the clean energy transition,” <strong>said Acting Deputy Secretary Laura Daniel-Davis</strong>. “Finalizing the Renewable Energy Rule is a significant milestone that will allow the Interior Department to continue leading the way on renewable energy while furthering President Biden’s commitment to building a clean energy economy, tackling the climate crisis, protecting lands and waters, promoting American energy security, and creating jobs in communities across the country.”&nbsp;</p>
+
+<p>In addition, the BLM announced that two solar projects – the Arica and Victory Pass projects in California – are now fully operational, adding 465 megawatts of clean electricity to the grid. With these two projects coming online, more than 10 gigawatts of clean energy are currently being generated on public lands, powering more than 5 million homes across the West.&nbsp;</p>
+
+<p>“Renewable energy projects like Arica and Victory Pass on public lands create good-paying jobs and are crucial in achieving the Biden-Harris administration’s goal of a carbon pollution-free power sector by 2035,” <strong>said BLM Director Tracy Stone-Manning</strong>. “Investing in clean and reliable renewable energy represents the BLM's commitment to addressing climate change. BLM personnel are working tirelessly to efficiently review and approve projects, with significant and thoughtful engagement from states, Tribes and other partners, to ensure we supply families and communities with clean energy that will lower costs and help tackle climate change.” &nbsp;</p>
+
+<h3>Surpassed President Biden’s Goal of 25 Gigawatts by 2025&nbsp;</h3>
+
+<p>The Department and BLM have worked diligently to review and approve dozens of new clean energy projects, including solar, wind, and geothermal projects, as well as interconnected gen-tie lines that are vital to clean energy projects proposed on non-federal land.&nbsp;</p>
+
+<p>Today’s announcement that the Department has surpassed the goal to permit 25 gigawatts of renewable energy includes the approval of more than double the number of projects than were approved during the previous Administration. The Department has now permitted nearly 29 gigawatts of clean energy – enough to power more than 12 million homes across the country. In addition to specific project approvals, the Department has also leased eight new areas in Solar Energy Zones with the capacity to generate nearly 2.5 gigawatts of additional clean energy. &nbsp;</p>
+
+<p>As the Department continues its momentum to spur a clean energy future, the BLM is currently processing permits for an additional 66 utility-scale clean energy projects proposed on public lands in the western United States. These projects have the combined potential to create thousands of good-paying jobs, add more than 32 additional gigawatts of renewable energy to the western electric grid and power millions of more homes. The BLM is also undertaking a preliminary review of about 200 applications for solar and wind development, as well as more than 100 applications for solar and wind energy site area testing. The BLM continues to track this clean energy permitting progress through an <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="43a9bf88-2e8c-4f79-9056-c54920385dec" href="https://www.blm.gov/programs/energy-and-minerals/renewable-energy/active-renewable-projects" rel="noreferrer noopener" target="_blank">online dashboard</a>.&nbsp;&nbsp;</p>
+
+<p>These investments in a clean energy future help further the President’s Bidenomics strategy and Investing in America agenda, which are growing the American economy from the middle out and bottom up – from rebuilding our nation’s infrastructure, to driving over half a trillion dollars in new private sector manufacturing and clean energy investments in the United States, to creating good-paying jobs and building a clean energy economy that will combat the climate crisis and make our communities more resilient.&nbsp;&nbsp;</p>
+
+<h3>Finalized Renewable Energy Rule to Continue Responsible Development&nbsp;</h3>
+
+<p>The Department today also announced the update of its renewable energy regulations to promote the development of solar and wind energy on public lands. The final Renewable Energy Rule will reduce capacity fees for these projects by 80 percent and facilitate development in priority areas by streamlining application review, delivering greater certainty for the private sector and the opportunity for more clean energy for American households.</p>
+
+<p>The Energy Act of 2020 authorized the BLM to reduce acreage rents and capacity fees to promote the greatest use of wind and solar energy resources. The BLM initially reduced these fees through guidance in 2022. Today’s final rule codifies further reductions, improving financial predictability for developers pursuing long-term projects on public land.&nbsp;</p>
+
+<p>The final Renewable Energy Rule will facilitate development in identified priority areas for wind and solar energy while maintaining appropriate flexibility to ensure a fair return for the use of public lands. It expands the BLM’s ability to accept leasing applications in these priority areas without first going through a full auction but retains the BLM’s ability to hold competitive auctions where appropriate. &nbsp;&nbsp;</p>
+
+<p>The final rule continues the Biden-Harris administration’s commitment to creating American manufacturing jobs while helping to build a clean energy economy, including by providing financial incentives for developers to use project labor agreements and domestic materials. The BLM sought comment on these additional incentives in last year’s proposed rule and developed the final provisions following public feedback, including from labor unions and a wide range of clean energy industry stakeholders. &nbsp;&nbsp;</p>
+
+<p>Today’s rule also complements the BLM’s ongoing efforts to advance responsible clean energy development by updating the Western Solar Plan. The BLM is currently <a href="https://blmsolar.anl.gov/solar-peis-2023" rel="noreferrer noopener" target="_blank">taking comment</a> on a draft analysis of the Utility-Scale Solar Energy Programmatic Environmental Impact Statement, with the goal of streamlining the BLM’s framework for siting solar energy projects across the West in order to support current and future national clean energy goals, long-term energy security, climate resilience, and improved conservation outcomes. &nbsp;&nbsp;</p>
+
+<h3>Announced California Solar Projects are Fully Operational&nbsp;</h3>
+
+<p>In another step towards achieving President Biden’s vision of a fully carbon pollution-free power sector by 2035, the Department today announced the Arica and Victory Pass solar projects are both fully operational. These projects, the first two approved under the Desert Renewable Energy Conservation Plan (DRECP), are located in eastern Riverside County, California. With the completion of these two solar projects, the BLM has also surpassed 10 gigawatts of renewable energy generation from projects on public lands.&nbsp;</p>
+
+<p>The two projects represent a combined infrastructure investment of about $689 million, will generate $5.9 million in annual operational economic benefit, provide power to nearly 139,000 homes, and add up to 465 megawatts of clean energy generating capacity and 400 megawatts of battery storage. The Department <a href="https://www.doi.gov/pressreleases/biden-harris-administration-approves-construction-two-solar-projects-california" rel="noreferrer noopener" target="_blank">issued</a> final approval for construction of the Arica and Victory Pass solar projects in 2022.&nbsp;&nbsp;</p>
+
+<p>The DRECP is a landscape-level plan created in collaboration with the State of California for more than 22 million acres, focused on 10.8 million acres of public lands, in the desert regions of seven California counties that balances renewable energy development with the conservation of unique and valuable desert ecosystems and outdoor recreation opportunities. To approve these sites for renewable energy projects, the Department and the BLM worked with Tribal governments, local communities, state regulators, industry and other federal agencies.&nbsp;</p>
+
+<p>The BLM today also announced the beginning of construction for the Camino Solar project in Kern County, California. The 44-megawatt solar photovoltaic facility is expected to power nearly 13,400 homes. The project will employ around 150 people during peak construction, include a 34.5-kV underground electrical collector line, and connect to the existing Southern California Edison Whirlwind Substation through the Manzana Wind Substation and associated 220 kV generation-tie line.&nbsp;</p>
+</div> 
+
+<https://www.blm.gov/press-release/biden-harris-administration-delivers-historic-milestones-new-actions-clean-energy>
 
 ---
 
@@ -13,7 +101,7 @@ updated: 2024-04-11 07:53:07
 
 date: 2024-04-10, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>The BLM encourages visitor safety on public lands during wildflower season in the California desert</h1></div>
+<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/biden-harris-administration-delivers-historic-milestones-new-actions-clean-energy" hreflang="en">Biden-Harris Administration delivers historic milestones, new actions for clean energy on public lands</a></h2></div>
       
 
 
@@ -21,15 +109,20 @@ date: 2024-04-10, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">PALM SPRINGS, Calif.</span></b><span lang="EN-CA" style="font-family:Roboto"> – After much needed winter rain, the California desert comes alive in the spring. Precious plants invisible under the sand will bloom overnight, adding colorful pink, yellow and white flowers across the landscape. </span></span></span></span></p>
+  <div class="field contact-block -release-date">
+    <div><strong>Publication Date:</strong> </div>
+              <div><time datetime="2024-04-11T12:00:00Z">Thu, 04/11/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
-<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">While enjoying your desert excursions this spring, remember to recreate responsibly. Always plan trips in advance. Tell someone where you’re going and your expected return time. To avoid disturbing plants and wildlife, only travel on designated roads and trails. </span></span></span><span style="font-size:11.0pt"><span style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Capture the beauty of wildflowers through photography and leave them where they bloom. </span></span></span></span><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">For more safety tips, visit the California State Park’s <a href="https://www.parks.ca.gov/?page_id=30078" style="color:blue; text-decoration:underline">website</a>. </span></span></span></span></span></span></p>
 
-<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:#212529">Here are locations to view wildflowers on BLM-managed public lands in the California desert:</span></span></span></span></span></span></p>
 
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">Barstow Field Office: </span></u></b></span></span></span></p>
 
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="89cb682e-5365-44b4-b279-35940a571ac8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+
+  
+
+            <div class="field contact-block -body"><figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="62f730dc-f80c-4007-a535-c30d9474e7d1" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -38,7 +131,7 @@ date: 2024-04-10, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/32945873063_e6abe7b65c_c.jpg?itok=O1W1xekJ" width="640" height="426" alt="Purple flowers in the desert" typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-06/Renewable%20Energy%20Rule%20hero_0.jpg?itok=Y7yr4JzH" width="640" height="427" alt="Renewable Energy Development in the California Desert" typeof="foaf:Image">
 
 
 </div>
@@ -46,130 +139,90 @@ date: 2024-04-10, from: Bureau of Land Management, blog
 </div>
 </div>
 
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/Scjdfc" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/Scjdfc</b></a></span></span></span></span></p>
-
-<p style="margin-top:16px; margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Ord Mountains feature beautiful cactus flowers, specifically in the Kane Wash area. Access requires a four-wheel drive vehicle. <a name="_Hlk162941596">Please follow </a></span></span><a href="https://www.blm.gov/visit/barstow" style="color:blue; text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">these practices</span></a><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> to help protect this special place for future visitors. </span></span></span></span></span></p>
-
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">The Fremont Peak area, northwest of Barstow, is typically excellent for wildflowers. Open routes off U.S. Route 395 provide access to the area. Drive with caution as dirt roads may be rutted out in spots. </span></span></span></span></span></p>
-
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">Copper City Road north of Barstow provides access to patches of wildflowers. Vehicles with high clearance are recommended since rocks may be encountered in the road. Many species of wildflowers can be found along Copper City Road including a Joshua tree grove. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">El Centro Field Office: </span></u></b></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="337d6dde-2707-4b69-8a7c-491008615781" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
+<figcaption>Renewable Energy Development in the California Desert. Photo by Tom Brewster</figcaption>
+</figure>
 
 
+<p><strong>WASHINGTON — </strong>The Biden-Harris administration today announced a series of historic milestones and actions to promote responsible clean energy development on public lands and help achieve President Biden’s goal of creating a carbon pollution-free power sector by 2035. &nbsp;</p>
 
+<p>Secretary of the Interior Deb Haaland today announced that the Department has now permitted more than 25 gigawatts of clean energy projects – surpassing a major milestone ahead of 2025 – enough clean energy to power more than 12 million homes across the country. This includes solar, wind and geothermal projects, as well as gen-tie lines on public lands that are essential for connecting clean electricity projects on both federal and non-federal land to the grid.&nbsp;</p>
 
-  
+<p>“Since Day One, the Biden-Harris administration has worked tirelessly to expand responsible clean energy development to address climate change, enhance America’s energy security and create good-paying union jobs. Surpassing our goal of permitting 25 gigawatts of clean energy by 2025 underscores the significant progress we have made in helping build modern, resilient climate infrastructure that protects our communities from the worsening impacts of climate change,” <strong>said Secretary Deb Haaland</strong>. “The Interior Department will continue to advance projects that will add enough clean energy to the grid to power millions more homes and help ensure a livable planet for future generations.”&nbsp;</p>
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53645185278_10fb9e852f_c.jpg?itok=HNzJgGne" width="640" height="427" alt="Purple flowers in sand dunes" typeof="foaf:Image">
+<p>The Department today also announced a <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy rule</a> from the Bureau of Land Management (BLM) that will lower consumer energy costs and the cost of developing solar and wind projects, improve renewable energy project application processes, and incentivize developers to continue responsibly developing solar and wind projects on public lands. Consistent with the Biden-Harris administration’s commitment to create high-quality jobs in the clean energy economy and support American manufacturing, the final rule includes additional incentives for use of project labor agreements and American-made materials. &nbsp;</p>
 
+<p>“Our public lands are playing a critical role in the clean energy transition,” <strong>said Acting Deputy Secretary Laura Daniel-Davis</strong>. “Finalizing the Renewable Energy Rule is a significant milestone that will allow the Interior Department to continue leading the way on renewable energy while furthering President Biden’s commitment to building a clean energy economy, tackling the climate crisis, protecting lands and waters, promoting American energy security, and creating jobs in communities across the country.”&nbsp;</p>
 
+<p>In addition, the BLM announced that two solar projects – the Arica and Victory Pass projects in California – are now fully operational, adding 465 megawatts of clean electricity to the grid. With these two projects coming online, more than 10 gigawatts of clean energy are currently being generated on public lands, powering more than 5 million homes across the West.&nbsp;</p>
+
+<p>“Renewable energy projects like Arica and Victory Pass on public lands create good-paying jobs and are crucial in achieving the Biden-Harris administration’s goal of a carbon pollution-free power sector by 2035,” <strong>said BLM Director Tracy Stone-Manning</strong>. “Investing in clean and reliable renewable energy represents the BLM's commitment to addressing climate change. BLM personnel are working tirelessly to efficiently review and approve projects, with significant and thoughtful engagement from states, Tribes and other partners, to ensure we supply families and communities with clean energy that will lower costs and help tackle climate change.” &nbsp;</p>
+
+<h3>Surpassed President Biden’s Goal of 25 Gigawatts by 2025&nbsp;</h3>
+
+<p>The Department and BLM have worked diligently to review and approve dozens of new clean energy projects, including solar, wind, and geothermal projects, as well as interconnected gen-tie lines that are vital to clean energy projects proposed on non-federal land.&nbsp;</p>
+
+<p>Today’s announcement that the Department has surpassed the goal to permit 25 gigawatts of renewable energy includes the approval of more than double the number of projects than were approved during the previous Administration. The Department has now permitted nearly 29 gigawatts of clean energy – enough to power more than 12 million homes across the country. In addition to specific project approvals, the Department has also leased eight new areas in Solar Energy Zones with the capacity to generate nearly 2.5 gigawatts of additional clean energy. &nbsp;</p>
+
+<p>As the Department continues its momentum to spur a clean energy future, the BLM is currently processing permits for an additional 66 utility-scale clean energy projects proposed on public lands in the western United States. These projects have the combined potential to create thousands of good-paying jobs, add more than 32 additional gigawatts of renewable energy to the western electric grid and power millions of more homes. The BLM is also undertaking a preliminary review of about 200 applications for solar and wind development, as well as more than 100 applications for solar and wind energy site area testing. The BLM continues to track this clean energy permitting progress through an <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="43a9bf88-2e8c-4f79-9056-c54920385dec" href="https://www.blm.gov/programs/energy-and-minerals/renewable-energy/active-renewable-projects" rel="noreferrer noopener" target="_blank">online dashboard</a>.&nbsp;&nbsp;</p>
+
+<p>These investments in a clean energy future help further the President’s Bidenomics strategy and Investing in America agenda, which are growing the American economy from the middle out and bottom up – from rebuilding our nation’s infrastructure, to driving over half a trillion dollars in new private sector manufacturing and clean energy investments in the United States, to creating good-paying jobs and building a clean energy economy that will combat the climate crisis and make our communities more resilient.&nbsp;&nbsp;</p>
+
+<h3>Finalized Renewable Energy Rule to Continue Responsible Development&nbsp;</h3>
+
+<p>The Department today also announced the update of its renewable energy regulations to promote the development of solar and wind energy on public lands. The final Renewable Energy Rule will reduce capacity fees for these projects by 80 percent and facilitate development in priority areas by streamlining application review, delivering greater certainty for the private sector and the opportunity for more clean energy for American households.</p>
+
+<p>The Energy Act of 2020 authorized the BLM to reduce acreage rents and capacity fees to promote the greatest use of wind and solar energy resources. The BLM initially reduced these fees through guidance in 2022. Today’s final rule codifies further reductions, improving financial predictability for developers pursuing long-term projects on public land.&nbsp;</p>
+
+<p>The final Renewable Energy Rule will facilitate development in identified priority areas for wind and solar energy while maintaining appropriate flexibility to ensure a fair return for the use of public lands. It expands the BLM’s ability to accept leasing applications in these priority areas without first going through a full auction but retains the BLM’s ability to hold competitive auctions where appropriate. &nbsp;&nbsp;</p>
+
+<p>The final rule continues the Biden-Harris administration’s commitment to creating American manufacturing jobs while helping to build a clean energy economy, including by providing financial incentives for developers to use project labor agreements and domestic materials. The BLM sought comment on these additional incentives in last year’s proposed rule and developed the final provisions following public feedback, including from labor unions and a wide range of clean energy industry stakeholders. &nbsp;&nbsp;</p>
+
+<p>Today’s rule also complements the BLM’s ongoing efforts to advance responsible clean energy development by updating the Western Solar Plan. The BLM is currently <a href="https://blmsolar.anl.gov/solar-peis-2023" rel="noreferrer noopener" target="_blank">taking comment</a> on a draft analysis of the Utility-Scale Solar Energy Programmatic Environmental Impact Statement, with the goal of streamlining the BLM’s framework for siting solar energy projects across the West in order to support current and future national clean energy goals, long-term energy security, climate resilience, and improved conservation outcomes. &nbsp;&nbsp;</p>
+
+<h3>Announced California Solar Projects are Fully Operational&nbsp;</h3>
+
+<p>In another step towards achieving President Biden’s vision of a fully carbon pollution-free power sector by 2035, the Department today announced the Arica and Victory Pass solar projects are both fully operational. These projects, the first two approved under the Desert Renewable Energy Conservation Plan (DRECP), are located in eastern Riverside County, California. With the completion of these two solar projects, the BLM has also surpassed 10 gigawatts of renewable energy generation from projects on public lands.&nbsp;</p>
+
+<p>The two projects represent a combined infrastructure investment of about $689 million, will generate $5.9 million in annual operational economic benefit, provide power to nearly 139,000 homes, and add up to 465 megawatts of clean energy generating capacity and 400 megawatts of battery storage. The Department <a href="https://www.doi.gov/pressreleases/biden-harris-administration-approves-construction-two-solar-projects-california" rel="noreferrer noopener" target="_blank">issued</a> final approval for construction of the Arica and Victory Pass solar projects in 2022.&nbsp;&nbsp;</p>
+
+<p>The DRECP is a landscape-level plan created in collaboration with the State of California for more than 22 million acres, focused on 10.8 million acres of public lands, in the desert regions of seven California counties that balances renewable energy development with the conservation of unique and valuable desert ecosystems and outdoor recreation opportunities. To approve these sites for renewable energy projects, the Department and the BLM worked with Tribal governments, local communities, state regulators, industry and other federal agencies.&nbsp;</p>
+
+<p>The BLM today also announced the beginning of construction for the Camino Solar project in Kern County, California. The 44-megawatt solar photovoltaic facility is expected to power nearly 13,400 homes. The project will employ around 150 people during peak construction, include a 34.5-kV underground electrical collector line, and connect to the existing Southern California Edison Whirlwind Substation through the Manzana Wind Substation and associated 220 kV generation-tie line.&nbsp;</p>
 </div>
       
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJrABy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJrABy</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Blooms in the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/north-algodones-dunes-wilderness" style="color:blue; text-decoration:underline">North Algodones Dunes Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be seen from Osborne Overlook in the Imperial Sand Dunes Recreation Area. </span></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Permits are required from October 1 through April 15. Permits</span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be purchased at the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/cahuilla-ranger-station" style="color:blue; text-decoration:underline">Cahuilla Ranger Station</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">,</span></span></span> <span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none">Friday-Sunday for $50 or </span></span></span></span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.isdpermits.net/" style="color:blue; text-decoration:underline">online</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none"> for $35.</span></span></span></span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Wildlife Viewing Area in Imperial Sand Dunes Recreation Area provides access to the North Algodones Dunes Wilderness. Safely park along Ted Kipf Road before walking into the wilderness area. The gravel road crosses sandy washes, so four-wheel drive is recommended. Geographic coordinates: 33.0207, -115.1075</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.google.com/maps/place/Sacatone+Scenic+Overlook/@32.7137584,-116.2273486,4577m/data=!3m1!1e3!4m6!3m5!1s0x80d9973ab502dfb3:0x78a8d69f9d8ffe5a!8m2!3d32.7137683!4d-116.2300356!16s%2Fg%2F11r_m7h8nw?entry=ttu" style="color:blue; text-decoration:underline">Sacatone Overlook</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> in McCain Valley offers views of the desert valley below. Four-wheel drive is required.</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Carrizo Overlook in McCain Valley offers views of the surrounding area. Roads are passable with a two-wheel drive vehicle. Geographic coordinates: 32.773957, -116.282389</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Needles Field Office:</span></span></u></b><u> </u></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="558d6f56-37f2-486d-8a38-9fb39a79961e" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643079231_40a3b47918_c.jpg?itok=YFQrReTQ" width="351" height="530" alt="Desert primrose in the crevice of a dune" typeof="foaf:Image">
+  <div class="field contact-block -subtitle">
+    <div><strong>Subtitle:</strong> </div>
+              <div>Finalized rule to further promote responsible solar and wind energy development on public lands, including through 80% lower fees</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJm5qL" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJm5qL</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJfNyp" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJfNyp</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Mojave Road, based on the indigenous Mojave trail network, starts at the Colorado River, travels west across </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/mojave-trails-national-monument" style="color:blue; text-decoration:underline">Mojave Trails National Monument</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and passes through Mojave National Preserve, before continuing through Afton Canyon in the Barstow Field Office. The historic route was utilized by many California Tribes and later by pioneers and cavalrymen. This road requires four-wheel drive vehicles with high clearance. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/snaggletooth-primitive-rv-camp" style="color:blue; text-decoration:underline">Snaggletooth Primitive Campground</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, located off U.S. Route 95, is 30 minutes south of Needles and offers spectacular views across the western portion of Mojave Trails National Monument. Two-wheel drive vehicles can access the area.&nbsp; </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Palm Springs – South Coast Field Office: </span></span></u></b></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6f061473-9f54-449b-bed7-a1c7420147f5" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/50167011236_03ec5f0a4e_k.jpg?itok=TF5aU8mg" width="640" height="480" alt="Bright yellow and orange flowers on a hill" typeof="foaf:Image">
+  <div class="field contact-block -fiscal-year">
+    <div><strong>Fiscal Year:</strong> </div>
+              <div>2024</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2jr63DA" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2jr63DA</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2dY4USM" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2dY4USM</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/santa-rosa-and-san-jacinto-mountains-national-monument" style="color:blue; text-decoration:underline"><span style="background:white">The Santa Rosa and San Jacinto Mountains National Monument</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> Visitor Center, located off California Highway 74 in Palm Desert, has breathtaking views of the Coachella Valley with accessible walking and hiking trails. Park at the visitor center to see wildflowers along the Ed Hastey Garden Trail or hike the Randall Henderson Trail. </span></span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto">Explore </span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/mecca-hills-wilderness" style="color:blue; text-decoration:underline"><span style="background:white">Mecca Hills Wilderness</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> to admire wildflowers along the San Andreas Fault Line. </span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Box Canyon Road, which cherrystems the wilderness area, is accessible from Mecca, CA, or Interstate 10 at the south end of Joshua Tree National Park. Safely pull-off at designated or previously disturbed areas to avoid crushing vegetation. Box Canyon Road is accessible in a two-wheel drive vehicle. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Ridgecrest Field Office: </span></span></u></b></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="7631733f-f808-4a02-b38c-675b370eebd8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643481760_67ae62e582_c.jpg?itok=Fu4KGwCO" width="640" height="480" alt="Bright yellow flowers under towering rock formations" typeof="foaf:Image">
+  <div class="field contact-block -organization">
+    <div><strong>Organization:</strong> </div>
+              <div>Department of the Interior</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJhSdy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJhSdy</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJsVaR" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJsVaR</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Short Canyon trail, in </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/owens-peak-wilderness-short-canyon" style="color:blue; text-decoration:underline">Owens Peak Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, is approximately 20 minutes northwest of Ridgecrest and is open to hikers and equestrians. &nbsp;</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Directions to Short Canyon: From the intersection of U.S. Highway 395 and State Route 14, travel north for one mile to Leliter Road and turn west to cross U.S. Highway 395. On the west side of the highway, follow the Short Canyon signs and take the graded dirt road to the Power line Road. Then turn south and proceed for half a mile to the intersection with BLM Route SE138. Turn west and follow this dirt road all the way to the parking lot and trailhead. Four-wheel drive vehicles with high clearance are recommended. &nbsp;&nbsp;</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Searles Valley, containing the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/trona-pinnacles" style="color:blue; text-decoration:underline">Trona Pinnacles</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, a National Natural Landmark, </span></span><span lang="EN-CA" style="font-family:Roboto">offers views of wildflowers near the southwestern boundary of Death Valley National Park.</span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> Drive along Pinnacle Road, a six-mile graded road, to see blooms. </span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">For additional questions and information, contact the appropriate field office. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px">&nbsp;</p>
-
-<p><em>Julia Mogen, Public Affairs Specialist, California Desert District, 760-835-4612, <a href="mailto:jmogen@blm.gov">jmogen@blm.gov</a></em></p>
-</div>
-      
 
 
 
@@ -179,8 +232,17 @@ date: 2024-04-10, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
-          <div><a href="https://www.blm.gov/region/california-desert-do" hreflang="en">California Desert DO</a></div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
+          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
+          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+          <div><a href="https://www.blm.gov/region/nevada" hreflang="en">Nevada</a></div>
+          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+          <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
+          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
               </div>
       </div>
 
@@ -190,12 +252,13 @@ date: 2024-04-10, from: Bureau of Land Management, blog
 
   
 
-<div class="blog-topics">
-    <div class="field contact-block -blog-topic">
-      <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/recreation" hreflang="en">Recreation</a></div>
-                </div>
-  </div>
+  <div class="field contact-block -tag">
+    <div><strong>Tag:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/tag/rule" hreflang="en">Rule</a></div>
+          <div><a href="https://www.blm.gov/tag/renewable-energy" hreflang="en">Renewable Energy</a></div>
+              </div>
+      </div>
 
 
 
@@ -203,59 +266,39 @@ date: 2024-04-10, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-04-10T12:00:00Z">Wed, 04/10/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -office">
-    <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/california-desert-district-office" hreflang="en">California Desert District Office</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -thumbnail-image">
-    <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47570/edit" hreflang="en">Cadiz Dunes Wilderness, Jesse Pluim</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -featured">
-    <div><strong>Featured:</strong> </div>
-              <div>On</div>
-          </div>
-
-
-
-
-
-  
-
-<div class="blog-tags">
-    <div class="field contact-block -tag">
-      <div><strong>Tag:</strong> </div>
+  <div class="field contact-block -contact">
+    <div><strong>Contact:</strong> </div>
+          <div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/wildflowers" hreflang="en">Wildflowers</a></div>
-                    </div>
+
+  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+  <div class="field contact-block -label">
+    <div><strong>Name:</strong> </div>
+              <div>Interior Press</div>
           </div>
-  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -email">
+    <div><strong>Email:</strong> </div>
+              <div>Interior_press@ios.doi.gov</div>
+          </div>
+
+      </div>
+</div>
+              </div>
+      </div>
 
 
 
@@ -266,20 +309,9 @@ date: 2024-04-10, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
               </div>
-      </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -teaser-image">
-    <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47572/edit" hreflang="en">Trona Pinnacles</a></div>
-          </div> 
+      </div> 
 
 <https://www.blm.gov/blog/2024-04-10/blm-encourages-visitor-safety-public-lands-during-wildflower-season-california>
 
@@ -289,7 +321,7 @@ date: 2024-04-10, from: Bureau of Land Management, blog
 
 date: 2024-04-09, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>The BLM encourages visitor safety on public lands during wildflower season in the California desert</h1></div>
+<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/biden-harris-administration-delivers-historic-milestones-new-actions-clean-energy" hreflang="en">Biden-Harris Administration delivers historic milestones, new actions for clean energy on public lands</a></h2></div>
       
 
 
@@ -297,15 +329,20 @@ date: 2024-04-09, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">PALM SPRINGS, Calif.</span></b><span lang="EN-CA" style="font-family:Roboto"> – After much needed winter rain, the California desert comes alive in the spring. Precious plants invisible under the sand will bloom overnight, adding colorful pink, yellow and white flowers across the landscape. </span></span></span></span></p>
+  <div class="field contact-block -release-date">
+    <div><strong>Publication Date:</strong> </div>
+              <div><time datetime="2024-04-11T12:00:00Z">Thu, 04/11/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
-<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">While enjoying your desert excursions this spring, remember to recreate responsibly. Always plan trips in advance. Tell someone where you’re going and your expected return time. To avoid disturbing plants and wildlife, only travel on designated roads and trails. </span></span></span><span style="font-size:11.0pt"><span style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Capture the beauty of wildflowers through photography and leave them where they bloom. </span></span></span></span><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">For more safety tips, visit the California State Park’s <a href="https://www.parks.ca.gov/?page_id=30078" style="color:blue; text-decoration:underline">website</a>. </span></span></span></span></span></span></p>
 
-<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:#212529">Here are locations to view wildflowers on BLM-managed public lands in the California desert:</span></span></span></span></span></span></p>
 
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">Barstow Field Office: </span></u></b></span></span></span></p>
 
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="89cb682e-5365-44b4-b279-35940a571ac8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+
+  
+
+            <div class="field contact-block -body"><figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="62f730dc-f80c-4007-a535-c30d9474e7d1" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -314,7 +351,7 @@ date: 2024-04-09, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/32945873063_e6abe7b65c_c.jpg?itok=O1W1xekJ" width="640" height="426" alt="Purple flowers in the desert" typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-06/Renewable%20Energy%20Rule%20hero_0.jpg?itok=Y7yr4JzH" width="640" height="427" alt="Renewable Energy Development in the California Desert" typeof="foaf:Image">
 
 
 </div>
@@ -322,130 +359,90 @@ date: 2024-04-09, from: Bureau of Land Management, blog
 </div>
 </div>
 
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/Scjdfc" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/Scjdfc</b></a></span></span></span></span></p>
-
-<p style="margin-top:16px; margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Ord Mountains feature beautiful cactus flowers, specifically in the Kane Wash area. Access requires a four-wheel drive vehicle. <a name="_Hlk162941596">Please follow </a></span></span><a href="https://www.blm.gov/visit/barstow" style="color:blue; text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">these practices</span></a><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> to help protect this special place for future visitors. </span></span></span></span></span></p>
-
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">The Fremont Peak area, northwest of Barstow, is typically excellent for wildflowers. Open routes off U.S. Route 395 provide access to the area. Drive with caution as dirt roads may be rutted out in spots. </span></span></span></span></span></p>
-
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">Copper City Road north of Barstow provides access to patches of wildflowers. Vehicles with high clearance are recommended since rocks may be encountered in the road. Many species of wildflowers can be found along Copper City Road including a Joshua tree grove. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">El Centro Field Office: </span></u></b></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="337d6dde-2707-4b69-8a7c-491008615781" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
+<figcaption>Renewable Energy Development in the California Desert. Photo by Tom Brewster</figcaption>
+</figure>
 
 
+<p><strong>WASHINGTON — </strong>The Biden-Harris administration today announced a series of historic milestones and actions to promote responsible clean energy development on public lands and help achieve President Biden’s goal of creating a carbon pollution-free power sector by 2035. &nbsp;</p>
 
+<p>Secretary of the Interior Deb Haaland today announced that the Department has now permitted more than 25 gigawatts of clean energy projects – surpassing a major milestone ahead of 2025 – enough clean energy to power more than 12 million homes across the country. This includes solar, wind and geothermal projects, as well as gen-tie lines on public lands that are essential for connecting clean electricity projects on both federal and non-federal land to the grid.&nbsp;</p>
 
-  
+<p>“Since Day One, the Biden-Harris administration has worked tirelessly to expand responsible clean energy development to address climate change, enhance America’s energy security and create good-paying union jobs. Surpassing our goal of permitting 25 gigawatts of clean energy by 2025 underscores the significant progress we have made in helping build modern, resilient climate infrastructure that protects our communities from the worsening impacts of climate change,” <strong>said Secretary Deb Haaland</strong>. “The Interior Department will continue to advance projects that will add enough clean energy to the grid to power millions more homes and help ensure a livable planet for future generations.”&nbsp;</p>
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53645185278_10fb9e852f_c.jpg?itok=HNzJgGne" width="640" height="427" alt="Purple flowers in sand dunes" typeof="foaf:Image">
+<p>The Department today also announced a <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy rule</a> from the Bureau of Land Management (BLM) that will lower consumer energy costs and the cost of developing solar and wind projects, improve renewable energy project application processes, and incentivize developers to continue responsibly developing solar and wind projects on public lands. Consistent with the Biden-Harris administration’s commitment to create high-quality jobs in the clean energy economy and support American manufacturing, the final rule includes additional incentives for use of project labor agreements and American-made materials. &nbsp;</p>
 
+<p>“Our public lands are playing a critical role in the clean energy transition,” <strong>said Acting Deputy Secretary Laura Daniel-Davis</strong>. “Finalizing the Renewable Energy Rule is a significant milestone that will allow the Interior Department to continue leading the way on renewable energy while furthering President Biden’s commitment to building a clean energy economy, tackling the climate crisis, protecting lands and waters, promoting American energy security, and creating jobs in communities across the country.”&nbsp;</p>
 
+<p>In addition, the BLM announced that two solar projects – the Arica and Victory Pass projects in California – are now fully operational, adding 465 megawatts of clean electricity to the grid. With these two projects coming online, more than 10 gigawatts of clean energy are currently being generated on public lands, powering more than 5 million homes across the West.&nbsp;</p>
+
+<p>“Renewable energy projects like Arica and Victory Pass on public lands create good-paying jobs and are crucial in achieving the Biden-Harris administration’s goal of a carbon pollution-free power sector by 2035,” <strong>said BLM Director Tracy Stone-Manning</strong>. “Investing in clean and reliable renewable energy represents the BLM's commitment to addressing climate change. BLM personnel are working tirelessly to efficiently review and approve projects, with significant and thoughtful engagement from states, Tribes and other partners, to ensure we supply families and communities with clean energy that will lower costs and help tackle climate change.” &nbsp;</p>
+
+<h3>Surpassed President Biden’s Goal of 25 Gigawatts by 2025&nbsp;</h3>
+
+<p>The Department and BLM have worked diligently to review and approve dozens of new clean energy projects, including solar, wind, and geothermal projects, as well as interconnected gen-tie lines that are vital to clean energy projects proposed on non-federal land.&nbsp;</p>
+
+<p>Today’s announcement that the Department has surpassed the goal to permit 25 gigawatts of renewable energy includes the approval of more than double the number of projects than were approved during the previous Administration. The Department has now permitted nearly 29 gigawatts of clean energy – enough to power more than 12 million homes across the country. In addition to specific project approvals, the Department has also leased eight new areas in Solar Energy Zones with the capacity to generate nearly 2.5 gigawatts of additional clean energy. &nbsp;</p>
+
+<p>As the Department continues its momentum to spur a clean energy future, the BLM is currently processing permits for an additional 66 utility-scale clean energy projects proposed on public lands in the western United States. These projects have the combined potential to create thousands of good-paying jobs, add more than 32 additional gigawatts of renewable energy to the western electric grid and power millions of more homes. The BLM is also undertaking a preliminary review of about 200 applications for solar and wind development, as well as more than 100 applications for solar and wind energy site area testing. The BLM continues to track this clean energy permitting progress through an <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="43a9bf88-2e8c-4f79-9056-c54920385dec" href="https://www.blm.gov/programs/energy-and-minerals/renewable-energy/active-renewable-projects" rel="noreferrer noopener" target="_blank">online dashboard</a>.&nbsp;&nbsp;</p>
+
+<p>These investments in a clean energy future help further the President’s Bidenomics strategy and Investing in America agenda, which are growing the American economy from the middle out and bottom up – from rebuilding our nation’s infrastructure, to driving over half a trillion dollars in new private sector manufacturing and clean energy investments in the United States, to creating good-paying jobs and building a clean energy economy that will combat the climate crisis and make our communities more resilient.&nbsp;&nbsp;</p>
+
+<h3>Finalized Renewable Energy Rule to Continue Responsible Development&nbsp;</h3>
+
+<p>The Department today also announced the update of its renewable energy regulations to promote the development of solar and wind energy on public lands. The final Renewable Energy Rule will reduce capacity fees for these projects by 80 percent and facilitate development in priority areas by streamlining application review, delivering greater certainty for the private sector and the opportunity for more clean energy for American households.</p>
+
+<p>The Energy Act of 2020 authorized the BLM to reduce acreage rents and capacity fees to promote the greatest use of wind and solar energy resources. The BLM initially reduced these fees through guidance in 2022. Today’s final rule codifies further reductions, improving financial predictability for developers pursuing long-term projects on public land.&nbsp;</p>
+
+<p>The final Renewable Energy Rule will facilitate development in identified priority areas for wind and solar energy while maintaining appropriate flexibility to ensure a fair return for the use of public lands. It expands the BLM’s ability to accept leasing applications in these priority areas without first going through a full auction but retains the BLM’s ability to hold competitive auctions where appropriate. &nbsp;&nbsp;</p>
+
+<p>The final rule continues the Biden-Harris administration’s commitment to creating American manufacturing jobs while helping to build a clean energy economy, including by providing financial incentives for developers to use project labor agreements and domestic materials. The BLM sought comment on these additional incentives in last year’s proposed rule and developed the final provisions following public feedback, including from labor unions and a wide range of clean energy industry stakeholders. &nbsp;&nbsp;</p>
+
+<p>Today’s rule also complements the BLM’s ongoing efforts to advance responsible clean energy development by updating the Western Solar Plan. The BLM is currently <a href="https://blmsolar.anl.gov/solar-peis-2023" rel="noreferrer noopener" target="_blank">taking comment</a> on a draft analysis of the Utility-Scale Solar Energy Programmatic Environmental Impact Statement, with the goal of streamlining the BLM’s framework for siting solar energy projects across the West in order to support current and future national clean energy goals, long-term energy security, climate resilience, and improved conservation outcomes. &nbsp;&nbsp;</p>
+
+<h3>Announced California Solar Projects are Fully Operational&nbsp;</h3>
+
+<p>In another step towards achieving President Biden’s vision of a fully carbon pollution-free power sector by 2035, the Department today announced the Arica and Victory Pass solar projects are both fully operational. These projects, the first two approved under the Desert Renewable Energy Conservation Plan (DRECP), are located in eastern Riverside County, California. With the completion of these two solar projects, the BLM has also surpassed 10 gigawatts of renewable energy generation from projects on public lands.&nbsp;</p>
+
+<p>The two projects represent a combined infrastructure investment of about $689 million, will generate $5.9 million in annual operational economic benefit, provide power to nearly 139,000 homes, and add up to 465 megawatts of clean energy generating capacity and 400 megawatts of battery storage. The Department <a href="https://www.doi.gov/pressreleases/biden-harris-administration-approves-construction-two-solar-projects-california" rel="noreferrer noopener" target="_blank">issued</a> final approval for construction of the Arica and Victory Pass solar projects in 2022.&nbsp;&nbsp;</p>
+
+<p>The DRECP is a landscape-level plan created in collaboration with the State of California for more than 22 million acres, focused on 10.8 million acres of public lands, in the desert regions of seven California counties that balances renewable energy development with the conservation of unique and valuable desert ecosystems and outdoor recreation opportunities. To approve these sites for renewable energy projects, the Department and the BLM worked with Tribal governments, local communities, state regulators, industry and other federal agencies.&nbsp;</p>
+
+<p>The BLM today also announced the beginning of construction for the Camino Solar project in Kern County, California. The 44-megawatt solar photovoltaic facility is expected to power nearly 13,400 homes. The project will employ around 150 people during peak construction, include a 34.5-kV underground electrical collector line, and connect to the existing Southern California Edison Whirlwind Substation through the Manzana Wind Substation and associated 220 kV generation-tie line.&nbsp;</p>
 </div>
       
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJrABy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJrABy</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Blooms in the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/north-algodones-dunes-wilderness" style="color:blue; text-decoration:underline">North Algodones Dunes Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be seen from Osborne Overlook in the Imperial Sand Dunes Recreation Area. </span></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Permits are required from October 1 through April 15. Permits</span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be purchased at the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/cahuilla-ranger-station" style="color:blue; text-decoration:underline">Cahuilla Ranger Station</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">,</span></span></span> <span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none">Friday-Sunday for $50 or </span></span></span></span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.isdpermits.net/" style="color:blue; text-decoration:underline">online</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none"> for $35.</span></span></span></span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Wildlife Viewing Area in Imperial Sand Dunes Recreation Area provides access to the North Algodones Dunes Wilderness. Safely park along Ted Kipf Road before walking into the wilderness area. The gravel road crosses sandy washes, so four-wheel drive is recommended. Geographic coordinates: 33.0207, -115.1075</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.google.com/maps/place/Sacatone+Scenic+Overlook/@32.7137584,-116.2273486,4577m/data=!3m1!1e3!4m6!3m5!1s0x80d9973ab502dfb3:0x78a8d69f9d8ffe5a!8m2!3d32.7137683!4d-116.2300356!16s%2Fg%2F11r_m7h8nw?entry=ttu" style="color:blue; text-decoration:underline">Sacatone Overlook</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> in McCain Valley offers views of the desert valley below. Four-wheel drive is required.</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Carrizo Overlook in McCain Valley offers views of the surrounding area. Roads are passable with a two-wheel drive vehicle. Geographic coordinates: 32.773957, -116.282389</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Needles Field Office:</span></span></u></b><u> </u></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="558d6f56-37f2-486d-8a38-9fb39a79961e" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643079231_40a3b47918_c.jpg?itok=YFQrReTQ" width="351" height="530" alt="Desert primrose in the crevice of a dune" typeof="foaf:Image">
+  <div class="field contact-block -subtitle">
+    <div><strong>Subtitle:</strong> </div>
+              <div>Finalized rule to further promote responsible solar and wind energy development on public lands, including through 80% lower fees</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJm5qL" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJm5qL</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJfNyp" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJfNyp</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Mojave Road, based on the indigenous Mojave trail network, starts at the Colorado River, travels west across </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/mojave-trails-national-monument" style="color:blue; text-decoration:underline">Mojave Trails National Monument</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and passes through Mojave National Preserve, before continuing through Afton Canyon in the Barstow Field Office. The historic route was utilized by many California Tribes and later by pioneers and cavalrymen. This road requires four-wheel drive vehicles with high clearance. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/snaggletooth-primitive-rv-camp" style="color:blue; text-decoration:underline">Snaggletooth Primitive Campground</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, located off U.S. Route 95, is 30 minutes south of Needles and offers spectacular views across the western portion of Mojave Trails National Monument. Two-wheel drive vehicles can access the area.&nbsp; </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Palm Springs – South Coast Field Office: </span></span></u></b></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6f061473-9f54-449b-bed7-a1c7420147f5" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/50167011236_03ec5f0a4e_k.jpg?itok=TF5aU8mg" width="640" height="480" alt="Bright yellow and orange flowers on a hill" typeof="foaf:Image">
+  <div class="field contact-block -fiscal-year">
+    <div><strong>Fiscal Year:</strong> </div>
+              <div>2024</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2jr63DA" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2jr63DA</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2dY4USM" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2dY4USM</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/santa-rosa-and-san-jacinto-mountains-national-monument" style="color:blue; text-decoration:underline"><span style="background:white">The Santa Rosa and San Jacinto Mountains National Monument</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> Visitor Center, located off California Highway 74 in Palm Desert, has breathtaking views of the Coachella Valley with accessible walking and hiking trails. Park at the visitor center to see wildflowers along the Ed Hastey Garden Trail or hike the Randall Henderson Trail. </span></span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto">Explore </span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/mecca-hills-wilderness" style="color:blue; text-decoration:underline"><span style="background:white">Mecca Hills Wilderness</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> to admire wildflowers along the San Andreas Fault Line. </span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Box Canyon Road, which cherrystems the wilderness area, is accessible from Mecca, CA, or Interstate 10 at the south end of Joshua Tree National Park. Safely pull-off at designated or previously disturbed areas to avoid crushing vegetation. Box Canyon Road is accessible in a two-wheel drive vehicle. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Ridgecrest Field Office: </span></span></u></b></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="7631733f-f808-4a02-b38c-675b370eebd8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643481760_67ae62e582_c.jpg?itok=Fu4KGwCO" width="640" height="480" alt="Bright yellow flowers under towering rock formations" typeof="foaf:Image">
+  <div class="field contact-block -organization">
+    <div><strong>Organization:</strong> </div>
+              <div>Department of the Interior</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJhSdy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJhSdy</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJsVaR" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJsVaR</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Short Canyon trail, in </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/owens-peak-wilderness-short-canyon" style="color:blue; text-decoration:underline">Owens Peak Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, is approximately 20 minutes northwest of Ridgecrest and is open to hikers and equestrians. &nbsp;</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Directions to Short Canyon: From the intersection of U.S. Highway 395 and State Route 14, travel north for one mile to Leliter Road and turn west to cross U.S. Highway 395. On the west side of the highway, follow the Short Canyon signs and take the graded dirt road to the Power line Road. Then turn south and proceed for half a mile to the intersection with BLM Route SE138. Turn west and follow this dirt road all the way to the parking lot and trailhead. Four-wheel drive vehicles with high clearance are recommended. &nbsp;&nbsp;</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Searles Valley, containing the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/trona-pinnacles" style="color:blue; text-decoration:underline">Trona Pinnacles</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, a National Natural Landmark, </span></span><span lang="EN-CA" style="font-family:Roboto">offers views of wildflowers near the southwestern boundary of Death Valley National Park.</span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> Drive along Pinnacle Road, a six-mile graded road, to see blooms. </span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">For additional questions and information, contact the appropriate field office. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px">&nbsp;</p>
-
-<p><em>Julia Mogen, Public Affairs Specialist, California Desert District, 760-835-4612, <a href="mailto:jmogen@blm.gov">jmogen@blm.gov</a></em></p>
-</div>
-      
 
 
 
@@ -455,8 +452,17 @@ date: 2024-04-09, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
-          <div><a href="https://www.blm.gov/region/california-desert-do" hreflang="en">California Desert DO</a></div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
+          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
+          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+          <div><a href="https://www.blm.gov/region/nevada" hreflang="en">Nevada</a></div>
+          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+          <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
+          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
               </div>
       </div>
 
@@ -466,12 +472,13 @@ date: 2024-04-09, from: Bureau of Land Management, blog
 
   
 
-<div class="blog-topics">
-    <div class="field contact-block -blog-topic">
-      <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/recreation" hreflang="en">Recreation</a></div>
-                </div>
-  </div>
+  <div class="field contact-block -tag">
+    <div><strong>Tag:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/tag/rule" hreflang="en">Rule</a></div>
+          <div><a href="https://www.blm.gov/tag/renewable-energy" hreflang="en">Renewable Energy</a></div>
+              </div>
+      </div>
 
 
 
@@ -479,59 +486,39 @@ date: 2024-04-09, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-04-10T12:00:00Z">Wed, 04/10/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -office">
-    <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/california-desert-district-office" hreflang="en">California Desert District Office</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -thumbnail-image">
-    <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47570/edit" hreflang="en">Cadiz Dunes Wilderness, Jesse Pluim</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -featured">
-    <div><strong>Featured:</strong> </div>
-              <div>On</div>
-          </div>
-
-
-
-
-
-  
-
-<div class="blog-tags">
-    <div class="field contact-block -tag">
-      <div><strong>Tag:</strong> </div>
+  <div class="field contact-block -contact">
+    <div><strong>Contact:</strong> </div>
+          <div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/wildflowers" hreflang="en">Wildflowers</a></div>
-                    </div>
+
+  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+  <div class="field contact-block -label">
+    <div><strong>Name:</strong> </div>
+              <div>Interior Press</div>
           </div>
-  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -email">
+    <div><strong>Email:</strong> </div>
+              <div>Interior_press@ios.doi.gov</div>
+          </div>
+
+      </div>
+</div>
+              </div>
+      </div>
 
 
 
@@ -542,20 +529,9 @@ date: 2024-04-09, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
               </div>
-      </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -teaser-image">
-    <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47572/edit" hreflang="en">Trona Pinnacles</a></div>
-          </div> 
+      </div> 
 
 <https://www.blm.gov/blog/2024-04-09/desert-tortoise-rescued-mineshaft-newberry-mountains-wilderness>
 
@@ -565,7 +541,7 @@ date: 2024-04-09, from: Bureau of Land Management, blog
 
 date: 2024-04-09, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>The BLM encourages visitor safety on public lands during wildflower season in the California desert</h1></div>
+<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/biden-harris-administration-delivers-historic-milestones-new-actions-clean-energy" hreflang="en">Biden-Harris Administration delivers historic milestones, new actions for clean energy on public lands</a></h2></div>
       
 
 
@@ -573,15 +549,20 @@ date: 2024-04-09, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">PALM SPRINGS, Calif.</span></b><span lang="EN-CA" style="font-family:Roboto"> – After much needed winter rain, the California desert comes alive in the spring. Precious plants invisible under the sand will bloom overnight, adding colorful pink, yellow and white flowers across the landscape. </span></span></span></span></p>
+  <div class="field contact-block -release-date">
+    <div><strong>Publication Date:</strong> </div>
+              <div><time datetime="2024-04-11T12:00:00Z">Thu, 04/11/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
-<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">While enjoying your desert excursions this spring, remember to recreate responsibly. Always plan trips in advance. Tell someone where you’re going and your expected return time. To avoid disturbing plants and wildlife, only travel on designated roads and trails. </span></span></span><span style="font-size:11.0pt"><span style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Capture the beauty of wildflowers through photography and leave them where they bloom. </span></span></span></span><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">For more safety tips, visit the California State Park’s <a href="https://www.parks.ca.gov/?page_id=30078" style="color:blue; text-decoration:underline">website</a>. </span></span></span></span></span></span></p>
 
-<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:#212529">Here are locations to view wildflowers on BLM-managed public lands in the California desert:</span></span></span></span></span></span></p>
 
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">Barstow Field Office: </span></u></b></span></span></span></p>
 
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="89cb682e-5365-44b4-b279-35940a571ac8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+
+  
+
+            <div class="field contact-block -body"><figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="62f730dc-f80c-4007-a535-c30d9474e7d1" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -590,7 +571,7 @@ date: 2024-04-09, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/32945873063_e6abe7b65c_c.jpg?itok=O1W1xekJ" width="640" height="426" alt="Purple flowers in the desert" typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-06/Renewable%20Energy%20Rule%20hero_0.jpg?itok=Y7yr4JzH" width="640" height="427" alt="Renewable Energy Development in the California Desert" typeof="foaf:Image">
 
 
 </div>
@@ -598,130 +579,90 @@ date: 2024-04-09, from: Bureau of Land Management, blog
 </div>
 </div>
 
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/Scjdfc" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/Scjdfc</b></a></span></span></span></span></p>
-
-<p style="margin-top:16px; margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Ord Mountains feature beautiful cactus flowers, specifically in the Kane Wash area. Access requires a four-wheel drive vehicle. <a name="_Hlk162941596">Please follow </a></span></span><a href="https://www.blm.gov/visit/barstow" style="color:blue; text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">these practices</span></a><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> to help protect this special place for future visitors. </span></span></span></span></span></p>
-
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">The Fremont Peak area, northwest of Barstow, is typically excellent for wildflowers. Open routes off U.S. Route 395 provide access to the area. Drive with caution as dirt roads may be rutted out in spots. </span></span></span></span></span></p>
-
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">Copper City Road north of Barstow provides access to patches of wildflowers. Vehicles with high clearance are recommended since rocks may be encountered in the road. Many species of wildflowers can be found along Copper City Road including a Joshua tree grove. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">El Centro Field Office: </span></u></b></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="337d6dde-2707-4b69-8a7c-491008615781" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
+<figcaption>Renewable Energy Development in the California Desert. Photo by Tom Brewster</figcaption>
+</figure>
 
 
+<p><strong>WASHINGTON — </strong>The Biden-Harris administration today announced a series of historic milestones and actions to promote responsible clean energy development on public lands and help achieve President Biden’s goal of creating a carbon pollution-free power sector by 2035. &nbsp;</p>
 
+<p>Secretary of the Interior Deb Haaland today announced that the Department has now permitted more than 25 gigawatts of clean energy projects – surpassing a major milestone ahead of 2025 – enough clean energy to power more than 12 million homes across the country. This includes solar, wind and geothermal projects, as well as gen-tie lines on public lands that are essential for connecting clean electricity projects on both federal and non-federal land to the grid.&nbsp;</p>
 
-  
+<p>“Since Day One, the Biden-Harris administration has worked tirelessly to expand responsible clean energy development to address climate change, enhance America’s energy security and create good-paying union jobs. Surpassing our goal of permitting 25 gigawatts of clean energy by 2025 underscores the significant progress we have made in helping build modern, resilient climate infrastructure that protects our communities from the worsening impacts of climate change,” <strong>said Secretary Deb Haaland</strong>. “The Interior Department will continue to advance projects that will add enough clean energy to the grid to power millions more homes and help ensure a livable planet for future generations.”&nbsp;</p>
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53645185278_10fb9e852f_c.jpg?itok=HNzJgGne" width="640" height="427" alt="Purple flowers in sand dunes" typeof="foaf:Image">
+<p>The Department today also announced a <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy rule</a> from the Bureau of Land Management (BLM) that will lower consumer energy costs and the cost of developing solar and wind projects, improve renewable energy project application processes, and incentivize developers to continue responsibly developing solar and wind projects on public lands. Consistent with the Biden-Harris administration’s commitment to create high-quality jobs in the clean energy economy and support American manufacturing, the final rule includes additional incentives for use of project labor agreements and American-made materials. &nbsp;</p>
 
+<p>“Our public lands are playing a critical role in the clean energy transition,” <strong>said Acting Deputy Secretary Laura Daniel-Davis</strong>. “Finalizing the Renewable Energy Rule is a significant milestone that will allow the Interior Department to continue leading the way on renewable energy while furthering President Biden’s commitment to building a clean energy economy, tackling the climate crisis, protecting lands and waters, promoting American energy security, and creating jobs in communities across the country.”&nbsp;</p>
 
+<p>In addition, the BLM announced that two solar projects – the Arica and Victory Pass projects in California – are now fully operational, adding 465 megawatts of clean electricity to the grid. With these two projects coming online, more than 10 gigawatts of clean energy are currently being generated on public lands, powering more than 5 million homes across the West.&nbsp;</p>
+
+<p>“Renewable energy projects like Arica and Victory Pass on public lands create good-paying jobs and are crucial in achieving the Biden-Harris administration’s goal of a carbon pollution-free power sector by 2035,” <strong>said BLM Director Tracy Stone-Manning</strong>. “Investing in clean and reliable renewable energy represents the BLM's commitment to addressing climate change. BLM personnel are working tirelessly to efficiently review and approve projects, with significant and thoughtful engagement from states, Tribes and other partners, to ensure we supply families and communities with clean energy that will lower costs and help tackle climate change.” &nbsp;</p>
+
+<h3>Surpassed President Biden’s Goal of 25 Gigawatts by 2025&nbsp;</h3>
+
+<p>The Department and BLM have worked diligently to review and approve dozens of new clean energy projects, including solar, wind, and geothermal projects, as well as interconnected gen-tie lines that are vital to clean energy projects proposed on non-federal land.&nbsp;</p>
+
+<p>Today’s announcement that the Department has surpassed the goal to permit 25 gigawatts of renewable energy includes the approval of more than double the number of projects than were approved during the previous Administration. The Department has now permitted nearly 29 gigawatts of clean energy – enough to power more than 12 million homes across the country. In addition to specific project approvals, the Department has also leased eight new areas in Solar Energy Zones with the capacity to generate nearly 2.5 gigawatts of additional clean energy. &nbsp;</p>
+
+<p>As the Department continues its momentum to spur a clean energy future, the BLM is currently processing permits for an additional 66 utility-scale clean energy projects proposed on public lands in the western United States. These projects have the combined potential to create thousands of good-paying jobs, add more than 32 additional gigawatts of renewable energy to the western electric grid and power millions of more homes. The BLM is also undertaking a preliminary review of about 200 applications for solar and wind development, as well as more than 100 applications for solar and wind energy site area testing. The BLM continues to track this clean energy permitting progress through an <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="43a9bf88-2e8c-4f79-9056-c54920385dec" href="https://www.blm.gov/programs/energy-and-minerals/renewable-energy/active-renewable-projects" rel="noreferrer noopener" target="_blank">online dashboard</a>.&nbsp;&nbsp;</p>
+
+<p>These investments in a clean energy future help further the President’s Bidenomics strategy and Investing in America agenda, which are growing the American economy from the middle out and bottom up – from rebuilding our nation’s infrastructure, to driving over half a trillion dollars in new private sector manufacturing and clean energy investments in the United States, to creating good-paying jobs and building a clean energy economy that will combat the climate crisis and make our communities more resilient.&nbsp;&nbsp;</p>
+
+<h3>Finalized Renewable Energy Rule to Continue Responsible Development&nbsp;</h3>
+
+<p>The Department today also announced the update of its renewable energy regulations to promote the development of solar and wind energy on public lands. The final Renewable Energy Rule will reduce capacity fees for these projects by 80 percent and facilitate development in priority areas by streamlining application review, delivering greater certainty for the private sector and the opportunity for more clean energy for American households.</p>
+
+<p>The Energy Act of 2020 authorized the BLM to reduce acreage rents and capacity fees to promote the greatest use of wind and solar energy resources. The BLM initially reduced these fees through guidance in 2022. Today’s final rule codifies further reductions, improving financial predictability for developers pursuing long-term projects on public land.&nbsp;</p>
+
+<p>The final Renewable Energy Rule will facilitate development in identified priority areas for wind and solar energy while maintaining appropriate flexibility to ensure a fair return for the use of public lands. It expands the BLM’s ability to accept leasing applications in these priority areas without first going through a full auction but retains the BLM’s ability to hold competitive auctions where appropriate. &nbsp;&nbsp;</p>
+
+<p>The final rule continues the Biden-Harris administration’s commitment to creating American manufacturing jobs while helping to build a clean energy economy, including by providing financial incentives for developers to use project labor agreements and domestic materials. The BLM sought comment on these additional incentives in last year’s proposed rule and developed the final provisions following public feedback, including from labor unions and a wide range of clean energy industry stakeholders. &nbsp;&nbsp;</p>
+
+<p>Today’s rule also complements the BLM’s ongoing efforts to advance responsible clean energy development by updating the Western Solar Plan. The BLM is currently <a href="https://blmsolar.anl.gov/solar-peis-2023" rel="noreferrer noopener" target="_blank">taking comment</a> on a draft analysis of the Utility-Scale Solar Energy Programmatic Environmental Impact Statement, with the goal of streamlining the BLM’s framework for siting solar energy projects across the West in order to support current and future national clean energy goals, long-term energy security, climate resilience, and improved conservation outcomes. &nbsp;&nbsp;</p>
+
+<h3>Announced California Solar Projects are Fully Operational&nbsp;</h3>
+
+<p>In another step towards achieving President Biden’s vision of a fully carbon pollution-free power sector by 2035, the Department today announced the Arica and Victory Pass solar projects are both fully operational. These projects, the first two approved under the Desert Renewable Energy Conservation Plan (DRECP), are located in eastern Riverside County, California. With the completion of these two solar projects, the BLM has also surpassed 10 gigawatts of renewable energy generation from projects on public lands.&nbsp;</p>
+
+<p>The two projects represent a combined infrastructure investment of about $689 million, will generate $5.9 million in annual operational economic benefit, provide power to nearly 139,000 homes, and add up to 465 megawatts of clean energy generating capacity and 400 megawatts of battery storage. The Department <a href="https://www.doi.gov/pressreleases/biden-harris-administration-approves-construction-two-solar-projects-california" rel="noreferrer noopener" target="_blank">issued</a> final approval for construction of the Arica and Victory Pass solar projects in 2022.&nbsp;&nbsp;</p>
+
+<p>The DRECP is a landscape-level plan created in collaboration with the State of California for more than 22 million acres, focused on 10.8 million acres of public lands, in the desert regions of seven California counties that balances renewable energy development with the conservation of unique and valuable desert ecosystems and outdoor recreation opportunities. To approve these sites for renewable energy projects, the Department and the BLM worked with Tribal governments, local communities, state regulators, industry and other federal agencies.&nbsp;</p>
+
+<p>The BLM today also announced the beginning of construction for the Camino Solar project in Kern County, California. The 44-megawatt solar photovoltaic facility is expected to power nearly 13,400 homes. The project will employ around 150 people during peak construction, include a 34.5-kV underground electrical collector line, and connect to the existing Southern California Edison Whirlwind Substation through the Manzana Wind Substation and associated 220 kV generation-tie line.&nbsp;</p>
 </div>
       
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJrABy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJrABy</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Blooms in the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/north-algodones-dunes-wilderness" style="color:blue; text-decoration:underline">North Algodones Dunes Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be seen from Osborne Overlook in the Imperial Sand Dunes Recreation Area. </span></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Permits are required from October 1 through April 15. Permits</span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be purchased at the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/cahuilla-ranger-station" style="color:blue; text-decoration:underline">Cahuilla Ranger Station</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">,</span></span></span> <span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none">Friday-Sunday for $50 or </span></span></span></span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.isdpermits.net/" style="color:blue; text-decoration:underline">online</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none"> for $35.</span></span></span></span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Wildlife Viewing Area in Imperial Sand Dunes Recreation Area provides access to the North Algodones Dunes Wilderness. Safely park along Ted Kipf Road before walking into the wilderness area. The gravel road crosses sandy washes, so four-wheel drive is recommended. Geographic coordinates: 33.0207, -115.1075</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.google.com/maps/place/Sacatone+Scenic+Overlook/@32.7137584,-116.2273486,4577m/data=!3m1!1e3!4m6!3m5!1s0x80d9973ab502dfb3:0x78a8d69f9d8ffe5a!8m2!3d32.7137683!4d-116.2300356!16s%2Fg%2F11r_m7h8nw?entry=ttu" style="color:blue; text-decoration:underline">Sacatone Overlook</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> in McCain Valley offers views of the desert valley below. Four-wheel drive is required.</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Carrizo Overlook in McCain Valley offers views of the surrounding area. Roads are passable with a two-wheel drive vehicle. Geographic coordinates: 32.773957, -116.282389</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Needles Field Office:</span></span></u></b><u> </u></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="558d6f56-37f2-486d-8a38-9fb39a79961e" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643079231_40a3b47918_c.jpg?itok=YFQrReTQ" width="351" height="530" alt="Desert primrose in the crevice of a dune" typeof="foaf:Image">
+  <div class="field contact-block -subtitle">
+    <div><strong>Subtitle:</strong> </div>
+              <div>Finalized rule to further promote responsible solar and wind energy development on public lands, including through 80% lower fees</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJm5qL" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJm5qL</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJfNyp" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJfNyp</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Mojave Road, based on the indigenous Mojave trail network, starts at the Colorado River, travels west across </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/mojave-trails-national-monument" style="color:blue; text-decoration:underline">Mojave Trails National Monument</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and passes through Mojave National Preserve, before continuing through Afton Canyon in the Barstow Field Office. The historic route was utilized by many California Tribes and later by pioneers and cavalrymen. This road requires four-wheel drive vehicles with high clearance. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/snaggletooth-primitive-rv-camp" style="color:blue; text-decoration:underline">Snaggletooth Primitive Campground</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, located off U.S. Route 95, is 30 minutes south of Needles and offers spectacular views across the western portion of Mojave Trails National Monument. Two-wheel drive vehicles can access the area.&nbsp; </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Palm Springs – South Coast Field Office: </span></span></u></b></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6f061473-9f54-449b-bed7-a1c7420147f5" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/50167011236_03ec5f0a4e_k.jpg?itok=TF5aU8mg" width="640" height="480" alt="Bright yellow and orange flowers on a hill" typeof="foaf:Image">
+  <div class="field contact-block -fiscal-year">
+    <div><strong>Fiscal Year:</strong> </div>
+              <div>2024</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2jr63DA" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2jr63DA</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2dY4USM" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2dY4USM</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/santa-rosa-and-san-jacinto-mountains-national-monument" style="color:blue; text-decoration:underline"><span style="background:white">The Santa Rosa and San Jacinto Mountains National Monument</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> Visitor Center, located off California Highway 74 in Palm Desert, has breathtaking views of the Coachella Valley with accessible walking and hiking trails. Park at the visitor center to see wildflowers along the Ed Hastey Garden Trail or hike the Randall Henderson Trail. </span></span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto">Explore </span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/mecca-hills-wilderness" style="color:blue; text-decoration:underline"><span style="background:white">Mecca Hills Wilderness</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> to admire wildflowers along the San Andreas Fault Line. </span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Box Canyon Road, which cherrystems the wilderness area, is accessible from Mecca, CA, or Interstate 10 at the south end of Joshua Tree National Park. Safely pull-off at designated or previously disturbed areas to avoid crushing vegetation. Box Canyon Road is accessible in a two-wheel drive vehicle. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Ridgecrest Field Office: </span></span></u></b></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="7631733f-f808-4a02-b38c-675b370eebd8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643481760_67ae62e582_c.jpg?itok=Fu4KGwCO" width="640" height="480" alt="Bright yellow flowers under towering rock formations" typeof="foaf:Image">
+  <div class="field contact-block -organization">
+    <div><strong>Organization:</strong> </div>
+              <div>Department of the Interior</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJhSdy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJhSdy</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJsVaR" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJsVaR</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Short Canyon trail, in </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/owens-peak-wilderness-short-canyon" style="color:blue; text-decoration:underline">Owens Peak Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, is approximately 20 minutes northwest of Ridgecrest and is open to hikers and equestrians. &nbsp;</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Directions to Short Canyon: From the intersection of U.S. Highway 395 and State Route 14, travel north for one mile to Leliter Road and turn west to cross U.S. Highway 395. On the west side of the highway, follow the Short Canyon signs and take the graded dirt road to the Power line Road. Then turn south and proceed for half a mile to the intersection with BLM Route SE138. Turn west and follow this dirt road all the way to the parking lot and trailhead. Four-wheel drive vehicles with high clearance are recommended. &nbsp;&nbsp;</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Searles Valley, containing the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/trona-pinnacles" style="color:blue; text-decoration:underline">Trona Pinnacles</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, a National Natural Landmark, </span></span><span lang="EN-CA" style="font-family:Roboto">offers views of wildflowers near the southwestern boundary of Death Valley National Park.</span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> Drive along Pinnacle Road, a six-mile graded road, to see blooms. </span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">For additional questions and information, contact the appropriate field office. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px">&nbsp;</p>
-
-<p><em>Julia Mogen, Public Affairs Specialist, California Desert District, 760-835-4612, <a href="mailto:jmogen@blm.gov">jmogen@blm.gov</a></em></p>
-</div>
-      
 
 
 
@@ -731,8 +672,17 @@ date: 2024-04-09, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
-          <div><a href="https://www.blm.gov/region/california-desert-do" hreflang="en">California Desert DO</a></div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
+          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
+          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+          <div><a href="https://www.blm.gov/region/nevada" hreflang="en">Nevada</a></div>
+          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+          <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
+          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
               </div>
       </div>
 
@@ -742,12 +692,13 @@ date: 2024-04-09, from: Bureau of Land Management, blog
 
   
 
-<div class="blog-topics">
-    <div class="field contact-block -blog-topic">
-      <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/recreation" hreflang="en">Recreation</a></div>
-                </div>
-  </div>
+  <div class="field contact-block -tag">
+    <div><strong>Tag:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/tag/rule" hreflang="en">Rule</a></div>
+          <div><a href="https://www.blm.gov/tag/renewable-energy" hreflang="en">Renewable Energy</a></div>
+              </div>
+      </div>
 
 
 
@@ -755,59 +706,39 @@ date: 2024-04-09, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-04-10T12:00:00Z">Wed, 04/10/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -office">
-    <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/california-desert-district-office" hreflang="en">California Desert District Office</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -thumbnail-image">
-    <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47570/edit" hreflang="en">Cadiz Dunes Wilderness, Jesse Pluim</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -featured">
-    <div><strong>Featured:</strong> </div>
-              <div>On</div>
-          </div>
-
-
-
-
-
-  
-
-<div class="blog-tags">
-    <div class="field contact-block -tag">
-      <div><strong>Tag:</strong> </div>
+  <div class="field contact-block -contact">
+    <div><strong>Contact:</strong> </div>
+          <div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/wildflowers" hreflang="en">Wildflowers</a></div>
-                    </div>
+
+  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+  <div class="field contact-block -label">
+    <div><strong>Name:</strong> </div>
+              <div>Interior Press</div>
           </div>
-  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -email">
+    <div><strong>Email:</strong> </div>
+              <div>Interior_press@ios.doi.gov</div>
+          </div>
+
+      </div>
+</div>
+              </div>
+      </div>
 
 
 
@@ -818,20 +749,9 @@ date: 2024-04-09, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
               </div>
-      </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -teaser-image">
-    <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47572/edit" hreflang="en">Trona Pinnacles</a></div>
-          </div> 
+      </div> 
 
 <https://www.blm.gov/blog/2024-04-09/blm-arizona-tips-preventing-roadside-fires>
 
@@ -841,7 +761,7 @@ date: 2024-04-09, from: Bureau of Land Management, blog
 
 date: 2024-04-08, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>The BLM encourages visitor safety on public lands during wildflower season in the California desert</h1></div>
+<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/biden-harris-administration-delivers-historic-milestones-new-actions-clean-energy" hreflang="en">Biden-Harris Administration delivers historic milestones, new actions for clean energy on public lands</a></h2></div>
       
 
 
@@ -849,15 +769,20 @@ date: 2024-04-08, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">PALM SPRINGS, Calif.</span></b><span lang="EN-CA" style="font-family:Roboto"> – After much needed winter rain, the California desert comes alive in the spring. Precious plants invisible under the sand will bloom overnight, adding colorful pink, yellow and white flowers across the landscape. </span></span></span></span></p>
+  <div class="field contact-block -release-date">
+    <div><strong>Publication Date:</strong> </div>
+              <div><time datetime="2024-04-11T12:00:00Z">Thu, 04/11/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
-<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">While enjoying your desert excursions this spring, remember to recreate responsibly. Always plan trips in advance. Tell someone where you’re going and your expected return time. To avoid disturbing plants and wildlife, only travel on designated roads and trails. </span></span></span><span style="font-size:11.0pt"><span style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Capture the beauty of wildflowers through photography and leave them where they bloom. </span></span></span></span><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">For more safety tips, visit the California State Park’s <a href="https://www.parks.ca.gov/?page_id=30078" style="color:blue; text-decoration:underline">website</a>. </span></span></span></span></span></span></p>
 
-<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:#212529">Here are locations to view wildflowers on BLM-managed public lands in the California desert:</span></span></span></span></span></span></p>
 
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">Barstow Field Office: </span></u></b></span></span></span></p>
 
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="89cb682e-5365-44b4-b279-35940a571ac8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+
+  
+
+            <div class="field contact-block -body"><figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="62f730dc-f80c-4007-a535-c30d9474e7d1" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -866,7 +791,7 @@ date: 2024-04-08, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/32945873063_e6abe7b65c_c.jpg?itok=O1W1xekJ" width="640" height="426" alt="Purple flowers in the desert" typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-06/Renewable%20Energy%20Rule%20hero_0.jpg?itok=Y7yr4JzH" width="640" height="427" alt="Renewable Energy Development in the California Desert" typeof="foaf:Image">
 
 
 </div>
@@ -874,130 +799,90 @@ date: 2024-04-08, from: Bureau of Land Management, blog
 </div>
 </div>
 
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/Scjdfc" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/Scjdfc</b></a></span></span></span></span></p>
-
-<p style="margin-top:16px; margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Ord Mountains feature beautiful cactus flowers, specifically in the Kane Wash area. Access requires a four-wheel drive vehicle. <a name="_Hlk162941596">Please follow </a></span></span><a href="https://www.blm.gov/visit/barstow" style="color:blue; text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">these practices</span></a><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> to help protect this special place for future visitors. </span></span></span></span></span></p>
-
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">The Fremont Peak area, northwest of Barstow, is typically excellent for wildflowers. Open routes off U.S. Route 395 provide access to the area. Drive with caution as dirt roads may be rutted out in spots. </span></span></span></span></span></p>
-
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">Copper City Road north of Barstow provides access to patches of wildflowers. Vehicles with high clearance are recommended since rocks may be encountered in the road. Many species of wildflowers can be found along Copper City Road including a Joshua tree grove. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">El Centro Field Office: </span></u></b></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="337d6dde-2707-4b69-8a7c-491008615781" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
+<figcaption>Renewable Energy Development in the California Desert. Photo by Tom Brewster</figcaption>
+</figure>
 
 
+<p><strong>WASHINGTON — </strong>The Biden-Harris administration today announced a series of historic milestones and actions to promote responsible clean energy development on public lands and help achieve President Biden’s goal of creating a carbon pollution-free power sector by 2035. &nbsp;</p>
 
+<p>Secretary of the Interior Deb Haaland today announced that the Department has now permitted more than 25 gigawatts of clean energy projects – surpassing a major milestone ahead of 2025 – enough clean energy to power more than 12 million homes across the country. This includes solar, wind and geothermal projects, as well as gen-tie lines on public lands that are essential for connecting clean electricity projects on both federal and non-federal land to the grid.&nbsp;</p>
 
-  
+<p>“Since Day One, the Biden-Harris administration has worked tirelessly to expand responsible clean energy development to address climate change, enhance America’s energy security and create good-paying union jobs. Surpassing our goal of permitting 25 gigawatts of clean energy by 2025 underscores the significant progress we have made in helping build modern, resilient climate infrastructure that protects our communities from the worsening impacts of climate change,” <strong>said Secretary Deb Haaland</strong>. “The Interior Department will continue to advance projects that will add enough clean energy to the grid to power millions more homes and help ensure a livable planet for future generations.”&nbsp;</p>
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53645185278_10fb9e852f_c.jpg?itok=HNzJgGne" width="640" height="427" alt="Purple flowers in sand dunes" typeof="foaf:Image">
+<p>The Department today also announced a <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy rule</a> from the Bureau of Land Management (BLM) that will lower consumer energy costs and the cost of developing solar and wind projects, improve renewable energy project application processes, and incentivize developers to continue responsibly developing solar and wind projects on public lands. Consistent with the Biden-Harris administration’s commitment to create high-quality jobs in the clean energy economy and support American manufacturing, the final rule includes additional incentives for use of project labor agreements and American-made materials. &nbsp;</p>
 
+<p>“Our public lands are playing a critical role in the clean energy transition,” <strong>said Acting Deputy Secretary Laura Daniel-Davis</strong>. “Finalizing the Renewable Energy Rule is a significant milestone that will allow the Interior Department to continue leading the way on renewable energy while furthering President Biden’s commitment to building a clean energy economy, tackling the climate crisis, protecting lands and waters, promoting American energy security, and creating jobs in communities across the country.”&nbsp;</p>
 
+<p>In addition, the BLM announced that two solar projects – the Arica and Victory Pass projects in California – are now fully operational, adding 465 megawatts of clean electricity to the grid. With these two projects coming online, more than 10 gigawatts of clean energy are currently being generated on public lands, powering more than 5 million homes across the West.&nbsp;</p>
+
+<p>“Renewable energy projects like Arica and Victory Pass on public lands create good-paying jobs and are crucial in achieving the Biden-Harris administration’s goal of a carbon pollution-free power sector by 2035,” <strong>said BLM Director Tracy Stone-Manning</strong>. “Investing in clean and reliable renewable energy represents the BLM's commitment to addressing climate change. BLM personnel are working tirelessly to efficiently review and approve projects, with significant and thoughtful engagement from states, Tribes and other partners, to ensure we supply families and communities with clean energy that will lower costs and help tackle climate change.” &nbsp;</p>
+
+<h3>Surpassed President Biden’s Goal of 25 Gigawatts by 2025&nbsp;</h3>
+
+<p>The Department and BLM have worked diligently to review and approve dozens of new clean energy projects, including solar, wind, and geothermal projects, as well as interconnected gen-tie lines that are vital to clean energy projects proposed on non-federal land.&nbsp;</p>
+
+<p>Today’s announcement that the Department has surpassed the goal to permit 25 gigawatts of renewable energy includes the approval of more than double the number of projects than were approved during the previous Administration. The Department has now permitted nearly 29 gigawatts of clean energy – enough to power more than 12 million homes across the country. In addition to specific project approvals, the Department has also leased eight new areas in Solar Energy Zones with the capacity to generate nearly 2.5 gigawatts of additional clean energy. &nbsp;</p>
+
+<p>As the Department continues its momentum to spur a clean energy future, the BLM is currently processing permits for an additional 66 utility-scale clean energy projects proposed on public lands in the western United States. These projects have the combined potential to create thousands of good-paying jobs, add more than 32 additional gigawatts of renewable energy to the western electric grid and power millions of more homes. The BLM is also undertaking a preliminary review of about 200 applications for solar and wind development, as well as more than 100 applications for solar and wind energy site area testing. The BLM continues to track this clean energy permitting progress through an <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="43a9bf88-2e8c-4f79-9056-c54920385dec" href="https://www.blm.gov/programs/energy-and-minerals/renewable-energy/active-renewable-projects" rel="noreferrer noopener" target="_blank">online dashboard</a>.&nbsp;&nbsp;</p>
+
+<p>These investments in a clean energy future help further the President’s Bidenomics strategy and Investing in America agenda, which are growing the American economy from the middle out and bottom up – from rebuilding our nation’s infrastructure, to driving over half a trillion dollars in new private sector manufacturing and clean energy investments in the United States, to creating good-paying jobs and building a clean energy economy that will combat the climate crisis and make our communities more resilient.&nbsp;&nbsp;</p>
+
+<h3>Finalized Renewable Energy Rule to Continue Responsible Development&nbsp;</h3>
+
+<p>The Department today also announced the update of its renewable energy regulations to promote the development of solar and wind energy on public lands. The final Renewable Energy Rule will reduce capacity fees for these projects by 80 percent and facilitate development in priority areas by streamlining application review, delivering greater certainty for the private sector and the opportunity for more clean energy for American households.</p>
+
+<p>The Energy Act of 2020 authorized the BLM to reduce acreage rents and capacity fees to promote the greatest use of wind and solar energy resources. The BLM initially reduced these fees through guidance in 2022. Today’s final rule codifies further reductions, improving financial predictability for developers pursuing long-term projects on public land.&nbsp;</p>
+
+<p>The final Renewable Energy Rule will facilitate development in identified priority areas for wind and solar energy while maintaining appropriate flexibility to ensure a fair return for the use of public lands. It expands the BLM’s ability to accept leasing applications in these priority areas without first going through a full auction but retains the BLM’s ability to hold competitive auctions where appropriate. &nbsp;&nbsp;</p>
+
+<p>The final rule continues the Biden-Harris administration’s commitment to creating American manufacturing jobs while helping to build a clean energy economy, including by providing financial incentives for developers to use project labor agreements and domestic materials. The BLM sought comment on these additional incentives in last year’s proposed rule and developed the final provisions following public feedback, including from labor unions and a wide range of clean energy industry stakeholders. &nbsp;&nbsp;</p>
+
+<p>Today’s rule also complements the BLM’s ongoing efforts to advance responsible clean energy development by updating the Western Solar Plan. The BLM is currently <a href="https://blmsolar.anl.gov/solar-peis-2023" rel="noreferrer noopener" target="_blank">taking comment</a> on a draft analysis of the Utility-Scale Solar Energy Programmatic Environmental Impact Statement, with the goal of streamlining the BLM’s framework for siting solar energy projects across the West in order to support current and future national clean energy goals, long-term energy security, climate resilience, and improved conservation outcomes. &nbsp;&nbsp;</p>
+
+<h3>Announced California Solar Projects are Fully Operational&nbsp;</h3>
+
+<p>In another step towards achieving President Biden’s vision of a fully carbon pollution-free power sector by 2035, the Department today announced the Arica and Victory Pass solar projects are both fully operational. These projects, the first two approved under the Desert Renewable Energy Conservation Plan (DRECP), are located in eastern Riverside County, California. With the completion of these two solar projects, the BLM has also surpassed 10 gigawatts of renewable energy generation from projects on public lands.&nbsp;</p>
+
+<p>The two projects represent a combined infrastructure investment of about $689 million, will generate $5.9 million in annual operational economic benefit, provide power to nearly 139,000 homes, and add up to 465 megawatts of clean energy generating capacity and 400 megawatts of battery storage. The Department <a href="https://www.doi.gov/pressreleases/biden-harris-administration-approves-construction-two-solar-projects-california" rel="noreferrer noopener" target="_blank">issued</a> final approval for construction of the Arica and Victory Pass solar projects in 2022.&nbsp;&nbsp;</p>
+
+<p>The DRECP is a landscape-level plan created in collaboration with the State of California for more than 22 million acres, focused on 10.8 million acres of public lands, in the desert regions of seven California counties that balances renewable energy development with the conservation of unique and valuable desert ecosystems and outdoor recreation opportunities. To approve these sites for renewable energy projects, the Department and the BLM worked with Tribal governments, local communities, state regulators, industry and other federal agencies.&nbsp;</p>
+
+<p>The BLM today also announced the beginning of construction for the Camino Solar project in Kern County, California. The 44-megawatt solar photovoltaic facility is expected to power nearly 13,400 homes. The project will employ around 150 people during peak construction, include a 34.5-kV underground electrical collector line, and connect to the existing Southern California Edison Whirlwind Substation through the Manzana Wind Substation and associated 220 kV generation-tie line.&nbsp;</p>
 </div>
       
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJrABy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJrABy</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Blooms in the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/north-algodones-dunes-wilderness" style="color:blue; text-decoration:underline">North Algodones Dunes Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be seen from Osborne Overlook in the Imperial Sand Dunes Recreation Area. </span></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Permits are required from October 1 through April 15. Permits</span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be purchased at the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/cahuilla-ranger-station" style="color:blue; text-decoration:underline">Cahuilla Ranger Station</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">,</span></span></span> <span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none">Friday-Sunday for $50 or </span></span></span></span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.isdpermits.net/" style="color:blue; text-decoration:underline">online</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none"> for $35.</span></span></span></span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Wildlife Viewing Area in Imperial Sand Dunes Recreation Area provides access to the North Algodones Dunes Wilderness. Safely park along Ted Kipf Road before walking into the wilderness area. The gravel road crosses sandy washes, so four-wheel drive is recommended. Geographic coordinates: 33.0207, -115.1075</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.google.com/maps/place/Sacatone+Scenic+Overlook/@32.7137584,-116.2273486,4577m/data=!3m1!1e3!4m6!3m5!1s0x80d9973ab502dfb3:0x78a8d69f9d8ffe5a!8m2!3d32.7137683!4d-116.2300356!16s%2Fg%2F11r_m7h8nw?entry=ttu" style="color:blue; text-decoration:underline">Sacatone Overlook</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> in McCain Valley offers views of the desert valley below. Four-wheel drive is required.</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Carrizo Overlook in McCain Valley offers views of the surrounding area. Roads are passable with a two-wheel drive vehicle. Geographic coordinates: 32.773957, -116.282389</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Needles Field Office:</span></span></u></b><u> </u></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="558d6f56-37f2-486d-8a38-9fb39a79961e" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643079231_40a3b47918_c.jpg?itok=YFQrReTQ" width="351" height="530" alt="Desert primrose in the crevice of a dune" typeof="foaf:Image">
+  <div class="field contact-block -subtitle">
+    <div><strong>Subtitle:</strong> </div>
+              <div>Finalized rule to further promote responsible solar and wind energy development on public lands, including through 80% lower fees</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJm5qL" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJm5qL</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJfNyp" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJfNyp</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Mojave Road, based on the indigenous Mojave trail network, starts at the Colorado River, travels west across </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/mojave-trails-national-monument" style="color:blue; text-decoration:underline">Mojave Trails National Monument</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and passes through Mojave National Preserve, before continuing through Afton Canyon in the Barstow Field Office. The historic route was utilized by many California Tribes and later by pioneers and cavalrymen. This road requires four-wheel drive vehicles with high clearance. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/snaggletooth-primitive-rv-camp" style="color:blue; text-decoration:underline">Snaggletooth Primitive Campground</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, located off U.S. Route 95, is 30 minutes south of Needles and offers spectacular views across the western portion of Mojave Trails National Monument. Two-wheel drive vehicles can access the area.&nbsp; </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Palm Springs – South Coast Field Office: </span></span></u></b></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6f061473-9f54-449b-bed7-a1c7420147f5" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/50167011236_03ec5f0a4e_k.jpg?itok=TF5aU8mg" width="640" height="480" alt="Bright yellow and orange flowers on a hill" typeof="foaf:Image">
+  <div class="field contact-block -fiscal-year">
+    <div><strong>Fiscal Year:</strong> </div>
+              <div>2024</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2jr63DA" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2jr63DA</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2dY4USM" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2dY4USM</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/santa-rosa-and-san-jacinto-mountains-national-monument" style="color:blue; text-decoration:underline"><span style="background:white">The Santa Rosa and San Jacinto Mountains National Monument</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> Visitor Center, located off California Highway 74 in Palm Desert, has breathtaking views of the Coachella Valley with accessible walking and hiking trails. Park at the visitor center to see wildflowers along the Ed Hastey Garden Trail or hike the Randall Henderson Trail. </span></span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto">Explore </span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/mecca-hills-wilderness" style="color:blue; text-decoration:underline"><span style="background:white">Mecca Hills Wilderness</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> to admire wildflowers along the San Andreas Fault Line. </span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Box Canyon Road, which cherrystems the wilderness area, is accessible from Mecca, CA, or Interstate 10 at the south end of Joshua Tree National Park. Safely pull-off at designated or previously disturbed areas to avoid crushing vegetation. Box Canyon Road is accessible in a two-wheel drive vehicle. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Ridgecrest Field Office: </span></span></u></b></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="7631733f-f808-4a02-b38c-675b370eebd8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643481760_67ae62e582_c.jpg?itok=Fu4KGwCO" width="640" height="480" alt="Bright yellow flowers under towering rock formations" typeof="foaf:Image">
+  <div class="field contact-block -organization">
+    <div><strong>Organization:</strong> </div>
+              <div>Department of the Interior</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJhSdy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJhSdy</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJsVaR" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJsVaR</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Short Canyon trail, in </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/owens-peak-wilderness-short-canyon" style="color:blue; text-decoration:underline">Owens Peak Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, is approximately 20 minutes northwest of Ridgecrest and is open to hikers and equestrians. &nbsp;</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Directions to Short Canyon: From the intersection of U.S. Highway 395 and State Route 14, travel north for one mile to Leliter Road and turn west to cross U.S. Highway 395. On the west side of the highway, follow the Short Canyon signs and take the graded dirt road to the Power line Road. Then turn south and proceed for half a mile to the intersection with BLM Route SE138. Turn west and follow this dirt road all the way to the parking lot and trailhead. Four-wheel drive vehicles with high clearance are recommended. &nbsp;&nbsp;</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Searles Valley, containing the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/trona-pinnacles" style="color:blue; text-decoration:underline">Trona Pinnacles</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, a National Natural Landmark, </span></span><span lang="EN-CA" style="font-family:Roboto">offers views of wildflowers near the southwestern boundary of Death Valley National Park.</span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> Drive along Pinnacle Road, a six-mile graded road, to see blooms. </span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">For additional questions and information, contact the appropriate field office. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px">&nbsp;</p>
-
-<p><em>Julia Mogen, Public Affairs Specialist, California Desert District, 760-835-4612, <a href="mailto:jmogen@blm.gov">jmogen@blm.gov</a></em></p>
-</div>
-      
 
 
 
@@ -1007,8 +892,17 @@ date: 2024-04-08, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
-          <div><a href="https://www.blm.gov/region/california-desert-do" hreflang="en">California Desert DO</a></div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
+          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
+          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+          <div><a href="https://www.blm.gov/region/nevada" hreflang="en">Nevada</a></div>
+          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+          <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
+          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
               </div>
       </div>
 
@@ -1018,12 +912,13 @@ date: 2024-04-08, from: Bureau of Land Management, blog
 
   
 
-<div class="blog-topics">
-    <div class="field contact-block -blog-topic">
-      <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/recreation" hreflang="en">Recreation</a></div>
-                </div>
-  </div>
+  <div class="field contact-block -tag">
+    <div><strong>Tag:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/tag/rule" hreflang="en">Rule</a></div>
+          <div><a href="https://www.blm.gov/tag/renewable-energy" hreflang="en">Renewable Energy</a></div>
+              </div>
+      </div>
 
 
 
@@ -1031,59 +926,39 @@ date: 2024-04-08, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-04-10T12:00:00Z">Wed, 04/10/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -office">
-    <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/california-desert-district-office" hreflang="en">California Desert District Office</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -thumbnail-image">
-    <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47570/edit" hreflang="en">Cadiz Dunes Wilderness, Jesse Pluim</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -featured">
-    <div><strong>Featured:</strong> </div>
-              <div>On</div>
-          </div>
-
-
-
-
-
-  
-
-<div class="blog-tags">
-    <div class="field contact-block -tag">
-      <div><strong>Tag:</strong> </div>
+  <div class="field contact-block -contact">
+    <div><strong>Contact:</strong> </div>
+          <div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/wildflowers" hreflang="en">Wildflowers</a></div>
-                    </div>
+
+  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+  <div class="field contact-block -label">
+    <div><strong>Name:</strong> </div>
+              <div>Interior Press</div>
           </div>
-  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -email">
+    <div><strong>Email:</strong> </div>
+              <div>Interior_press@ios.doi.gov</div>
+          </div>
+
+      </div>
+</div>
+              </div>
+      </div>
 
 
 
@@ -1094,20 +969,9 @@ date: 2024-04-08, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
               </div>
-      </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -teaser-image">
-    <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47572/edit" hreflang="en">Trona Pinnacles</a></div>
-          </div> 
+      </div> 
 
 <https://www.blm.gov/blog/2024-04-08/blm-arizona-geologists-day>
 
@@ -1117,7 +981,7 @@ date: 2024-04-08, from: Bureau of Land Management, blog
 
 date: 2024-04-08, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>The BLM encourages visitor safety on public lands during wildflower season in the California desert</h1></div>
+<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/biden-harris-administration-delivers-historic-milestones-new-actions-clean-energy" hreflang="en">Biden-Harris Administration delivers historic milestones, new actions for clean energy on public lands</a></h2></div>
       
 
 
@@ -1125,15 +989,20 @@ date: 2024-04-08, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">PALM SPRINGS, Calif.</span></b><span lang="EN-CA" style="font-family:Roboto"> – After much needed winter rain, the California desert comes alive in the spring. Precious plants invisible under the sand will bloom overnight, adding colorful pink, yellow and white flowers across the landscape. </span></span></span></span></p>
+  <div class="field contact-block -release-date">
+    <div><strong>Publication Date:</strong> </div>
+              <div><time datetime="2024-04-11T12:00:00Z">Thu, 04/11/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
-<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">While enjoying your desert excursions this spring, remember to recreate responsibly. Always plan trips in advance. Tell someone where you’re going and your expected return time. To avoid disturbing plants and wildlife, only travel on designated roads and trails. </span></span></span><span style="font-size:11.0pt"><span style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Capture the beauty of wildflowers through photography and leave them where they bloom. </span></span></span></span><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">For more safety tips, visit the California State Park’s <a href="https://www.parks.ca.gov/?page_id=30078" style="color:blue; text-decoration:underline">website</a>. </span></span></span></span></span></span></p>
 
-<p><span style="font-size:12pt"><span style="background:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:#212529">Here are locations to view wildflowers on BLM-managed public lands in the California desert:</span></span></span></span></span></span></p>
 
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">Barstow Field Office: </span></u></b></span></span></span></p>
 
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="89cb682e-5365-44b4-b279-35940a571ac8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+
+  
+
+            <div class="field contact-block -body"><figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="62f730dc-f80c-4007-a535-c30d9474e7d1" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -1142,7 +1011,7 @@ date: 2024-04-08, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/32945873063_e6abe7b65c_c.jpg?itok=O1W1xekJ" width="640" height="426" alt="Purple flowers in the desert" typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-06/Renewable%20Energy%20Rule%20hero_0.jpg?itok=Y7yr4JzH" width="640" height="427" alt="Renewable Energy Development in the California Desert" typeof="foaf:Image">
 
 
 </div>
@@ -1150,130 +1019,90 @@ date: 2024-04-08, from: Bureau of Land Management, blog
 </div>
 </div>
 
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/Scjdfc" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/Scjdfc</b></a></span></span></span></span></p>
-
-<p style="margin-top:16px; margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Ord Mountains feature beautiful cactus flowers, specifically in the Kane Wash area. Access requires a four-wheel drive vehicle. <a name="_Hlk162941596">Please follow </a></span></span><a href="https://www.blm.gov/visit/barstow" style="color:blue; text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">these practices</span></a><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> to help protect this special place for future visitors. </span></span></span></span></span></p>
-
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">The Fremont Peak area, northwest of Barstow, is typically excellent for wildflowers. Open routes off U.S. Route 395 provide access to the area. Drive with caution as dirt roads may be rutted out in spots. </span></span></span></span></span></p>
-
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"><span style="font-family:Roboto"><span style="color:black">Copper City Road north of Barstow provides access to patches of wildflowers. Vehicles with high clearance are recommended since rocks may be encountered in the road. Many species of wildflowers can be found along Copper City Road including a Joshua tree grove. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto">El Centro Field Office: </span></u></b></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="337d6dde-2707-4b69-8a7c-491008615781" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
+<figcaption>Renewable Energy Development in the California Desert. Photo by Tom Brewster</figcaption>
+</figure>
 
 
+<p><strong>WASHINGTON — </strong>The Biden-Harris administration today announced a series of historic milestones and actions to promote responsible clean energy development on public lands and help achieve President Biden’s goal of creating a carbon pollution-free power sector by 2035. &nbsp;</p>
 
+<p>Secretary of the Interior Deb Haaland today announced that the Department has now permitted more than 25 gigawatts of clean energy projects – surpassing a major milestone ahead of 2025 – enough clean energy to power more than 12 million homes across the country. This includes solar, wind and geothermal projects, as well as gen-tie lines on public lands that are essential for connecting clean electricity projects on both federal and non-federal land to the grid.&nbsp;</p>
 
-  
+<p>“Since Day One, the Biden-Harris administration has worked tirelessly to expand responsible clean energy development to address climate change, enhance America’s energy security and create good-paying union jobs. Surpassing our goal of permitting 25 gigawatts of clean energy by 2025 underscores the significant progress we have made in helping build modern, resilient climate infrastructure that protects our communities from the worsening impacts of climate change,” <strong>said Secretary Deb Haaland</strong>. “The Interior Department will continue to advance projects that will add enough clean energy to the grid to power millions more homes and help ensure a livable planet for future generations.”&nbsp;</p>
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53645185278_10fb9e852f_c.jpg?itok=HNzJgGne" width="640" height="427" alt="Purple flowers in sand dunes" typeof="foaf:Image">
+<p>The Department today also announced a <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy rule</a> from the Bureau of Land Management (BLM) that will lower consumer energy costs and the cost of developing solar and wind projects, improve renewable energy project application processes, and incentivize developers to continue responsibly developing solar and wind projects on public lands. Consistent with the Biden-Harris administration’s commitment to create high-quality jobs in the clean energy economy and support American manufacturing, the final rule includes additional incentives for use of project labor agreements and American-made materials. &nbsp;</p>
 
+<p>“Our public lands are playing a critical role in the clean energy transition,” <strong>said Acting Deputy Secretary Laura Daniel-Davis</strong>. “Finalizing the Renewable Energy Rule is a significant milestone that will allow the Interior Department to continue leading the way on renewable energy while furthering President Biden’s commitment to building a clean energy economy, tackling the climate crisis, protecting lands and waters, promoting American energy security, and creating jobs in communities across the country.”&nbsp;</p>
 
+<p>In addition, the BLM announced that two solar projects – the Arica and Victory Pass projects in California – are now fully operational, adding 465 megawatts of clean electricity to the grid. With these two projects coming online, more than 10 gigawatts of clean energy are currently being generated on public lands, powering more than 5 million homes across the West.&nbsp;</p>
+
+<p>“Renewable energy projects like Arica and Victory Pass on public lands create good-paying jobs and are crucial in achieving the Biden-Harris administration’s goal of a carbon pollution-free power sector by 2035,” <strong>said BLM Director Tracy Stone-Manning</strong>. “Investing in clean and reliable renewable energy represents the BLM's commitment to addressing climate change. BLM personnel are working tirelessly to efficiently review and approve projects, with significant and thoughtful engagement from states, Tribes and other partners, to ensure we supply families and communities with clean energy that will lower costs and help tackle climate change.” &nbsp;</p>
+
+<h3>Surpassed President Biden’s Goal of 25 Gigawatts by 2025&nbsp;</h3>
+
+<p>The Department and BLM have worked diligently to review and approve dozens of new clean energy projects, including solar, wind, and geothermal projects, as well as interconnected gen-tie lines that are vital to clean energy projects proposed on non-federal land.&nbsp;</p>
+
+<p>Today’s announcement that the Department has surpassed the goal to permit 25 gigawatts of renewable energy includes the approval of more than double the number of projects than were approved during the previous Administration. The Department has now permitted nearly 29 gigawatts of clean energy – enough to power more than 12 million homes across the country. In addition to specific project approvals, the Department has also leased eight new areas in Solar Energy Zones with the capacity to generate nearly 2.5 gigawatts of additional clean energy. &nbsp;</p>
+
+<p>As the Department continues its momentum to spur a clean energy future, the BLM is currently processing permits for an additional 66 utility-scale clean energy projects proposed on public lands in the western United States. These projects have the combined potential to create thousands of good-paying jobs, add more than 32 additional gigawatts of renewable energy to the western electric grid and power millions of more homes. The BLM is also undertaking a preliminary review of about 200 applications for solar and wind development, as well as more than 100 applications for solar and wind energy site area testing. The BLM continues to track this clean energy permitting progress through an <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="43a9bf88-2e8c-4f79-9056-c54920385dec" href="https://www.blm.gov/programs/energy-and-minerals/renewable-energy/active-renewable-projects" rel="noreferrer noopener" target="_blank">online dashboard</a>.&nbsp;&nbsp;</p>
+
+<p>These investments in a clean energy future help further the President’s Bidenomics strategy and Investing in America agenda, which are growing the American economy from the middle out and bottom up – from rebuilding our nation’s infrastructure, to driving over half a trillion dollars in new private sector manufacturing and clean energy investments in the United States, to creating good-paying jobs and building a clean energy economy that will combat the climate crisis and make our communities more resilient.&nbsp;&nbsp;</p>
+
+<h3>Finalized Renewable Energy Rule to Continue Responsible Development&nbsp;</h3>
+
+<p>The Department today also announced the update of its renewable energy regulations to promote the development of solar and wind energy on public lands. The final Renewable Energy Rule will reduce capacity fees for these projects by 80 percent and facilitate development in priority areas by streamlining application review, delivering greater certainty for the private sector and the opportunity for more clean energy for American households.</p>
+
+<p>The Energy Act of 2020 authorized the BLM to reduce acreage rents and capacity fees to promote the greatest use of wind and solar energy resources. The BLM initially reduced these fees through guidance in 2022. Today’s final rule codifies further reductions, improving financial predictability for developers pursuing long-term projects on public land.&nbsp;</p>
+
+<p>The final Renewable Energy Rule will facilitate development in identified priority areas for wind and solar energy while maintaining appropriate flexibility to ensure a fair return for the use of public lands. It expands the BLM’s ability to accept leasing applications in these priority areas without first going through a full auction but retains the BLM’s ability to hold competitive auctions where appropriate. &nbsp;&nbsp;</p>
+
+<p>The final rule continues the Biden-Harris administration’s commitment to creating American manufacturing jobs while helping to build a clean energy economy, including by providing financial incentives for developers to use project labor agreements and domestic materials. The BLM sought comment on these additional incentives in last year’s proposed rule and developed the final provisions following public feedback, including from labor unions and a wide range of clean energy industry stakeholders. &nbsp;&nbsp;</p>
+
+<p>Today’s rule also complements the BLM’s ongoing efforts to advance responsible clean energy development by updating the Western Solar Plan. The BLM is currently <a href="https://blmsolar.anl.gov/solar-peis-2023" rel="noreferrer noopener" target="_blank">taking comment</a> on a draft analysis of the Utility-Scale Solar Energy Programmatic Environmental Impact Statement, with the goal of streamlining the BLM’s framework for siting solar energy projects across the West in order to support current and future national clean energy goals, long-term energy security, climate resilience, and improved conservation outcomes. &nbsp;&nbsp;</p>
+
+<h3>Announced California Solar Projects are Fully Operational&nbsp;</h3>
+
+<p>In another step towards achieving President Biden’s vision of a fully carbon pollution-free power sector by 2035, the Department today announced the Arica and Victory Pass solar projects are both fully operational. These projects, the first two approved under the Desert Renewable Energy Conservation Plan (DRECP), are located in eastern Riverside County, California. With the completion of these two solar projects, the BLM has also surpassed 10 gigawatts of renewable energy generation from projects on public lands.&nbsp;</p>
+
+<p>The two projects represent a combined infrastructure investment of about $689 million, will generate $5.9 million in annual operational economic benefit, provide power to nearly 139,000 homes, and add up to 465 megawatts of clean energy generating capacity and 400 megawatts of battery storage. The Department <a href="https://www.doi.gov/pressreleases/biden-harris-administration-approves-construction-two-solar-projects-california" rel="noreferrer noopener" target="_blank">issued</a> final approval for construction of the Arica and Victory Pass solar projects in 2022.&nbsp;&nbsp;</p>
+
+<p>The DRECP is a landscape-level plan created in collaboration with the State of California for more than 22 million acres, focused on 10.8 million acres of public lands, in the desert regions of seven California counties that balances renewable energy development with the conservation of unique and valuable desert ecosystems and outdoor recreation opportunities. To approve these sites for renewable energy projects, the Department and the BLM worked with Tribal governments, local communities, state regulators, industry and other federal agencies.&nbsp;</p>
+
+<p>The BLM today also announced the beginning of construction for the Camino Solar project in Kern County, California. The 44-megawatt solar photovoltaic facility is expected to power nearly 13,400 homes. The project will employ around 150 people during peak construction, include a 34.5-kV underground electrical collector line, and connect to the existing Southern California Edison Whirlwind Substation through the Manzana Wind Substation and associated 220 kV generation-tie line.&nbsp;</p>
 </div>
       
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto">Image: </span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJrABy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJrABy</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Blooms in the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/north-algodones-dunes-wilderness" style="color:blue; text-decoration:underline">North Algodones Dunes Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be seen from Osborne Overlook in the Imperial Sand Dunes Recreation Area. </span></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529">Permits are required from October 1 through April 15. Permits</span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> can be purchased at the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/cahuilla-ranger-station" style="color:blue; text-decoration:underline">Cahuilla Ranger Station</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto">,</span></span></span> <span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none">Friday-Sunday for $50 or </span></span></span></span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.isdpermits.net/" style="color:blue; text-decoration:underline">online</a></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span lang="EN-CA" style="font-family:Roboto"><span style="text-decoration:none"><span style="text-underline:none"> for $35.</span></span></span></span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Wildlife Viewing Area in Imperial Sand Dunes Recreation Area provides access to the North Algodones Dunes Wilderness. Safely park along Ted Kipf Road before walking into the wilderness area. The gravel road crosses sandy washes, so four-wheel drive is recommended. Geographic coordinates: 33.0207, -115.1075</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.google.com/maps/place/Sacatone+Scenic+Overlook/@32.7137584,-116.2273486,4577m/data=!3m1!1e3!4m6!3m5!1s0x80d9973ab502dfb3:0x78a8d69f9d8ffe5a!8m2!3d32.7137683!4d-116.2300356!16s%2Fg%2F11r_m7h8nw?entry=ttu" style="color:blue; text-decoration:underline">Sacatone Overlook</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> in McCain Valley offers views of the desert valley below. Four-wheel drive is required.</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Carrizo Overlook in McCain Valley offers views of the surrounding area. Roads are passable with a two-wheel drive vehicle. Geographic coordinates: 32.773957, -116.282389</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Needles Field Office:</span></span></u></b><u> </u></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="558d6f56-37f2-486d-8a38-9fb39a79961e" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643079231_40a3b47918_c.jpg?itok=YFQrReTQ" width="351" height="530" alt="Desert primrose in the crevice of a dune" typeof="foaf:Image">
+  <div class="field contact-block -subtitle">
+    <div><strong>Subtitle:</strong> </div>
+              <div>Finalized rule to further promote responsible solar and wind energy development on public lands, including through 80% lower fees</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJm5qL" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJm5qL</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJfNyp" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJfNyp</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Mojave Road, based on the indigenous Mojave trail network, starts at the Colorado River, travels west across </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/mojave-trails-national-monument" style="color:blue; text-decoration:underline">Mojave Trails National Monument</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and passes through Mojave National Preserve, before continuing through Afton Canyon in the Barstow Field Office. The historic route was utilized by many California Tribes and later by pioneers and cavalrymen. This road requires four-wheel drive vehicles with high clearance. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/snaggletooth-primitive-rv-camp" style="color:blue; text-decoration:underline">Snaggletooth Primitive Campground</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, located off U.S. Route 95, is 30 minutes south of Needles and offers spectacular views across the western portion of Mojave Trails National Monument. Two-wheel drive vehicles can access the area.&nbsp; </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Palm Springs – South Coast Field Office: </span></span></u></b></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6f061473-9f54-449b-bed7-a1c7420147f5" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/50167011236_03ec5f0a4e_k.jpg?itok=TF5aU8mg" width="640" height="480" alt="Bright yellow and orange flowers on a hill" typeof="foaf:Image">
+  <div class="field contact-block -fiscal-year">
+    <div><strong>Fiscal Year:</strong> </div>
+              <div>2024</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2jr63DA" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2jr63DA</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2dY4USM" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2dY4USM</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/programs/national-conservation-lands/california/santa-rosa-and-san-jacinto-mountains-national-monument" style="color:blue; text-decoration:underline"><span style="background:white">The Santa Rosa and San Jacinto Mountains National Monument</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> Visitor Center, located off California Highway 74 in Palm Desert, has breathtaking views of the Coachella Valley with accessible walking and hiking trails. Park at the visitor center to see wildflowers along the Ed Hastey Garden Trail or hike the Randall Henderson Trail. </span></span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto">Explore </span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/mecca-hills-wilderness" style="color:blue; text-decoration:underline"><span style="background:white">Mecca Hills Wilderness</span></a></span><span lang="EN-CA" style="background:white"><span style="font-family:Roboto"><span style="color:#212529"> to admire wildflowers along the San Andreas Fault Line. </span></span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Box Canyon Road, which cherrystems the wilderness area, is accessible from Mecca, CA, or Interstate 10 at the south end of Joshua Tree National Park. Safely pull-off at designated or previously disturbed areas to avoid crushing vegetation. Box Canyon Road is accessible in a two-wheel drive vehicle. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><u><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Ridgecrest Field Office: </span></span></u></b></span></span></span></p>
-
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="7631733f-f808-4a02-b38c-675b370eebd8" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/53643481760_67ae62e582_c.jpg?itok=Fu4KGwCO" width="640" height="480" alt="Bright yellow flowers under towering rock formations" typeof="foaf:Image">
+  <div class="field contact-block -organization">
+    <div><strong>Organization:</strong> </div>
+              <div>Department of the Interior</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Images: </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJhSdy" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJhSdy</b></a></span><b><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, and </span></span></b><span lang="EN-CA" style="font-family:Roboto"><a href="https://flic.kr/p/2pJsVaR" style="color:blue; text-decoration:underline"><b>https://flic.kr/p/2pJsVaR</b></a></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Short Canyon trail, in </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/owens-peak-wilderness-short-canyon" style="color:blue; text-decoration:underline">Owens Peak Wilderness</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, is approximately 20 minutes northwest of Ridgecrest and is open to hikers and equestrians. &nbsp;</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Directions to Short Canyon: From the intersection of U.S. Highway 395 and State Route 14, travel north for one mile to Leliter Road and turn west to cross U.S. Highway 395. On the west side of the highway, follow the Short Canyon signs and take the graded dirt road to the Power line Road. Then turn south and proceed for half a mile to the intersection with BLM Route SE138. Turn west and follow this dirt road all the way to the parking lot and trailhead. Four-wheel drive vehicles with high clearance are recommended. &nbsp;&nbsp;</span></span></span></span></span></p>
-
-<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">The Searles Valley, containing the </span></span><span lang="EN-CA" style="font-family:Roboto"><a href="https://www.blm.gov/visit/trona-pinnacles" style="color:blue; text-decoration:underline">Trona Pinnacles</a></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">, a National Natural Landmark, </span></span><span lang="EN-CA" style="font-family:Roboto">offers views of wildflowers near the southwestern boundary of Death Valley National Park.</span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black"> Drive along Pinnacle Road, a six-mile graded road, to see blooms. </span></span><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">For additional questions and information, contact the appropriate field office. </span></span></span></span></span></p>
-
-<p style="margin-bottom:13px">&nbsp;</p>
-
-<p><em>Julia Mogen, Public Affairs Specialist, California Desert District, 760-835-4612, <a href="mailto:jmogen@blm.gov">jmogen@blm.gov</a></em></p>
-</div>
-      
 
 
 
@@ -1283,8 +1112,17 @@ date: 2024-04-08, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
-          <div><a href="https://www.blm.gov/region/california-desert-do" hreflang="en">California Desert DO</a></div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
+          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
+          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+          <div><a href="https://www.blm.gov/region/nevada" hreflang="en">Nevada</a></div>
+          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+          <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
+          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
               </div>
       </div>
 
@@ -1294,12 +1132,13 @@ date: 2024-04-08, from: Bureau of Land Management, blog
 
   
 
-<div class="blog-topics">
-    <div class="field contact-block -blog-topic">
-      <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/recreation" hreflang="en">Recreation</a></div>
-                </div>
-  </div>
+  <div class="field contact-block -tag">
+    <div><strong>Tag:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/tag/rule" hreflang="en">Rule</a></div>
+          <div><a href="https://www.blm.gov/tag/renewable-energy" hreflang="en">Renewable Energy</a></div>
+              </div>
+      </div>
 
 
 
@@ -1307,59 +1146,39 @@ date: 2024-04-08, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-04-10T12:00:00Z">Wed, 04/10/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -office">
-    <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/california-desert-district-office" hreflang="en">California Desert District Office</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -thumbnail-image">
-    <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47570/edit" hreflang="en">Cadiz Dunes Wilderness, Jesse Pluim</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -featured">
-    <div><strong>Featured:</strong> </div>
-              <div>On</div>
-          </div>
-
-
-
-
-
-  
-
-<div class="blog-tags">
-    <div class="field contact-block -tag">
-      <div><strong>Tag:</strong> </div>
+  <div class="field contact-block -contact">
+    <div><strong>Contact:</strong> </div>
+          <div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/wildflowers" hreflang="en">Wildflowers</a></div>
-                    </div>
+
+  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+  <div class="field contact-block -label">
+    <div><strong>Name:</strong> </div>
+              <div>Interior Press</div>
           </div>
-  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -email">
+    <div><strong>Email:</strong> </div>
+              <div>Interior_press@ios.doi.gov</div>
+          </div>
+
+      </div>
+</div>
+              </div>
+      </div>
 
 
 
@@ -1370,20 +1189,9 @@ date: 2024-04-08, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
               </div>
-      </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -teaser-image">
-    <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47572/edit" hreflang="en">Trona Pinnacles</a></div>
-          </div> 
+      </div> 
 
 <https://www.blm.gov/blog/2024-04-08/blm-helps-conduct-groundbreaking-research-wildlife-and-solar-development>
 

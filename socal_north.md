@@ -1,11 +1,487 @@
 ---
 title: socal north 2024.15
-updated: 2024-04-11 07:53:06
+updated: 2024-04-12 08:48:10
 ---
 
 # socal north 2024.15
 
-(date: 2024-04-11 07:53:06)
+(date: 2024-04-12 08:48:10)
+
+---
+
+## FemFest organizers reflect on March concert cancellation
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Staff spoke on the process of setting up the event and the process of looking forward.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/12/femfest-organizers-reflect-on-march-concert-cancellation/">FemFest organizers reflect on March concert cancellation</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/12/femfest-organizers-reflect-on-march-concert-cancellation/>
+
+---
+
+## Rally for inclusive desks launched by graduate students
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A social work student led the protest after her letter to the editor went unnoticed. </p>
+<p>The post <a href="https://dailytrojan.com/2024/04/12/rally-for-inclusive-desks-launched-by-graduate-students/">Rally for inclusive desks launched by graduate students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/12/rally-for-inclusive-desks-launched-by-graduate-students/>
+
+---
+
+## Jane Fonda champions climate activism
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Climate experts spoke with faculty at Annenberg Hall about political engagement.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/12/jane-fonda-champions-climate-activism/">Jane Fonda champions climate activism</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/12/jane-fonda-champions-climate-activism/>
+
+---
+
+## Falta simpatía para los inmigrantes
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>La tragedia del colapso de un puente en Maryland es un llamado al cambio.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/12/falta-simpatia-para-los-inmigrantes/">Falta simpatía para los inmigrantes</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/12/falta-simpatia-para-los-inmigrantes/>
+
+---
+
+## [ESP/ENG] Coachella contrapone la economía con la realidad local
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>La gente local de Coachella tiene sentimientos mixtos sobre el festival de música.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/12/coachella-contrapone-la-economia-con-la-realidad-local/">[ESP/ENG] Coachella contrapone la economía con la realidad local</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/12/coachella-contrapone-la-economia-con-la-realidad-local/>
+
+---
+
+## Shakira factura con su nuevo álbum
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>El doceavo álbum de la colombiana desnuda un viaje de desamor y soltería.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/12/shakira-factura-con-su-nuevo-album/">Shakira factura con su nuevo álbum</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/12/shakira-factura-con-su-nuevo-album/>
+
+---
+
+## La salsa y el reggaetón se apoderan de Bovard
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Break On 2 puso la danza latinoamericana en alto en su reciente presentación.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/12/la-salsa-y-el-reggaeton-se-apoderan-de-bovard/">La salsa y el reggaetón se apoderan de Bovard</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/12/la-salsa-y-el-reggaeton-se-apoderan-de-bovard/>
+
+---
+
+## Latino Students in Medicine prepara su primera conferencia
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>El evento ofrecerá recursos para los estudiantes interesados en la medicina.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/12/latino-students-in-medicine-prepara-su-primera-conferencia/">Latino Students in Medicine prepara su primera conferencia</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/12/latino-students-in-medicine-prepara-su-primera-conferencia/>
+
+---
+
+## Classifieds – April 12, 2024
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/12/classifieds-april-12-2024/">Classifieds &#8211; April 12, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/12/classifieds-april-12-2024/>
+
+---
+
+## Profesoras crean primera guía de lenguaje neutro
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>El libro explica el uso del lenguaje inclusivo en español y su enseñanza.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/12/profesoras-crean-primera-guia-de-lenguaje-neutro/">Profesoras crean primera guía de lenguaje neutro</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/12/profesoras-crean-primera-guia-de-lenguaje-neutro/>
+
+---
+
+## Cambios en el Latine Student Assembly: Una conversación con sus nuevas directoras
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>La organización acaba de elegir nuevas directoras ejecutivas para el entrante año escolar 2024-25.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/12/cambios-en-el-latine-student-assembly-una-conversacion-con-sus-nuevas-directoras/">Cambios en el Latine Student Assembly: Una conversación con sus nuevas directoras</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/12/cambios-en-el-latine-student-assembly-una-conversacion-con-sus-nuevas-directoras/>
+
+---
+
+## Carson Pickett is an inspiration on and off the pitch
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Racing Louisville defender is inspiring athletes and kids with limb differences.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/12/carson-pickett-is-an-inspiration-on-and-off-the-pitch/">Carson Pickett is an inspiration on and off the pitch</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/12/carson-pickett-is-an-inspiration-on-and-off-the-pitch/>
+
+---
+
+## Welcome to the league: WNBA mock draft 2024
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The following players are best suited to transition from the NCAA to the pros.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/12/wnba-mock-draft-2024/">Welcome to the league: WNBA mock draft 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/12/wnba-mock-draft-2024/>
+
+---
+
+## In a sea full of Nathans, who am I?
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>My name is common, but it means more than I give it credit for.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/12/in-a-sea-full-of-nathans-who-am-i/">In a sea full of Nathans, who am I?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/12/in-a-sea-full-of-nathans-who-am-i/>
+
+---
+
+## ‘La Traviata’ toasts its way to greatness
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The iconic Verdi masterpiece recently opened at the Los Angeles Opera.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/12/la-traviata-toasts-its-way-to-greatness/">‘La Traviata’ toasts its way to greatness</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/12/la-traviata-toasts-its-way-to-greatness/>
+
+---
+
+## Breaking free from monotonous student life
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p> Exploring opportunities and new possibilities helps make student life more interesting.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/12/breaking-free-from-monotonous-student-life/">Breaking free from monotonous student life</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/12/breaking-free-from-monotonous-student-life/>
+
+---
+
+## Housing headaches continue off-campus
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Some students say they can’t find reliable resources and affordable housing options.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/12/off-campus-housing-struggles-reemerge/">Housing headaches continue off-campus</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/12/off-campus-housing-struggles-reemerge/>
+
+---
+
+## Studying abroad will change the course of your life
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Taking the chance to cross the pond was the best decision I’ve ever made.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/12/studying-abroad-will-change-the-course-of-your-life/">Studying abroad will change the course of your life</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/12/studying-abroad-will-change-the-course-of-your-life/>
+
+---
+
+## USAC recap – April 9
+
+date: 2024-04-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its second meeting of spring quarter Tuesday.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<https://dailybruin.com/2024/04/11/usac-recap-april-9-2/>
+
+---
+
+## O.J. Simpson dies after battle with cancer
+
+date: 2024-04-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The controversial former Trojan running back passed away at age 76.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/11/o-j-simpson-dies-after-battle-with-cancer/">O.J. Simpson dies after battle with cancer</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/11/o-j-simpson-dies-after-battle-with-cancer/>
+
+---
+
+## UCLA-hosted talk discusses link between distrust of science, partisan divide
+
+date: 2024-04-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+On Tuesday, James Druckman, a professor of political science at the University of Rochester, presented to around 20 students and faculty on the relationship between growing distrust in science and growing division in politics. 
+
+<https://dailybruin.com/2024/04/11/ucla-hosted-talk-discusses-link-between-distrust-of-science-partisan-divide/>
+
+---
+
+## USC student, UCLA Blood & Platelet Center collaborate to host blood drive
+
+date: 2024-04-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Bruins and Trojans have spilled &#8220;blood&#8221; for nearly a century &#8211; so for University of Southern California student Aidan Dayani, UCLA was a natural place to look for blood. 
+
+<https://dailybruin.com/2024/04/11/usc-student-ucla-blood-platelet-center-collaborate-to-host-blood-drive/>
+
+---
+
+## Op-ed: Latinx dental providers are paving the way to equitable health care access
+
+date: 2024-04-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+The United States is experiencing the catastrophic consequences of a health care system that promotes profit over long-term patient well-being. The dental industry poses structural inequity for all Americans, particularly for working-class, elderly and minority communities. 
+
+<https://dailybruin.com/2024/04/11/op-ed-latinx-dental-providers-are-paving-the-way-to-equitable-health-care-access/>
+
+---
+
+## ASLMU President vetoes senate legislation that would abstain funds from BDS list
+
+date: 2024-04-12, from: Laloyolan (LMU Student Newspaper)
+
+On Thursday, April 11, ASLMU President Drew Hartz vetoed the pending senate bylaw and resolution to abstain funds from companies on the Boycott, Divestment, Sanctions (BDS) list and ASLMU’s own cease-to-purchase list, which are both associated with companies that support… 
+
+<https://www.laloyolan.com/news/aslmu-president-vetoes-senate-legislation-that-would-abstain-funds-from-bds-list/article_32e56a16-f879-11ee-b541-571c85f91883.html>
+
+---
+
+## Did the University's release of students’ information violate FERPA?
+
+date: 2024-04-12, from: Laloyolan (LMU Student Newspaper)
+
+Although the University shared students’ GPAs with a third party organization, it is unclear whether it was a blatant violation of the Family Educational Rights and Privacy Act. 
+
+<https://www.laloyolan.com/news/did-the-universitys-release-of-students-information-violate-ferpa/article_cad6d2d7-4fb3-5856-91a8-e1c419bec8a3.html>
+
+---
+
+## Antaky and Green: Get to know the leaders of the next ASLMU administration
+
+date: 2024-04-12, from: Laloyolan (LMU Student Newspaper)
+
+Luke Antaky and Charlie Green, ASLMU president-elect and vice president-elect, sat down with the Loyolan to discuss their goals to connect with students for the next school year. 
+
+<https://www.laloyolan.com/news/antaky-and-green-get-to-know-the-leaders-of-the-next-aslmu-administration/article_107add4a-f86e-11ee-8a71-1312cd600091.html>
+
+---
+
+## UCLA experts discuss potential impact of CA’s budget deficit on UC funding
+
+date: 2024-04-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+As Gov. Gavin Newsom and the California legislature tackle the state&#8217;s nearly $60 billion estimated budget deficit, some UCLA experts said the UC&#8217;s funding might be at risk &#8211; which could lead to tuition hikes or altered admissions &#8211; while others said the University will remain unaffected. 
+
+<https://dailybruin.com/2024/04/11/ucla-experts-discuss-potential-impact-of-cas-budget-deficit-on-uc-funding/>
+
+---
+
+## Prep.Pie assembles studying resources for Bruins through generative AI
+
+date: 2024-04-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+A new app is giving UCLA students a more detailed studying experience &#8211; with a side of a Chick-fil-A giveaway &#8211; using generative artificial intelligence.
+Prep.Pie converts users&#8217; class materials to detailed notes and question sets to help students study, said Damian Lee, the app&#8217;s chief strategy officer. 
+
+<https://dailybruin.com/2024/04/11/prep-pie-assembles-studying-resources-for-bruins-through-generative-ai/>
+
+---
+
+## Campus eclipsed by rare solar phenomenon
+
+date: 2024-04-11, from: The Sundail (CSUN Student Newspaper)
+
+The last time a total eclipse was visible in the U.S. was in 2017, nearly seven years ago, but for Southern California, it’s been over 100 years. Eric Collins, CSUN... 
+
+<https://sundial.csun.edu/180422/news/campus-eclipsed-by-rare-solar-phenomenon/>
+
+---
+
+## Explore the World at Celebrate!
+
+date: 2024-04-11, from: City of Santa Clarita
+
+<p>Explore the World at Celebrate! By Councilmember Jason Gibbs Have you ever wanted to journey to another country to experience an array of new and unique cultures and customs? Well, you can do that and more by simply traveling to the Canyon Country Community Center (18410 Sierra Highway) for the anticipated return of the Celebrate [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/04/11/explore-the-world-at-celebrate/">Explore the World at Celebrate!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/04/11/explore-the-world-at-celebrate/>
+
+---
+
+## Aquiles Montoya named head coach of women’s volleyball
+
+date: 2024-04-11, from: The Sundail (CSUN Student Newspaper)
+
+Athletics Director Shawn Chin-Farrell announced that Aquiles Montoya will be named the head coach of the women’s volleyball team. The decision comes after former head coach John Price retired following... 
+
+<https://sundial.csun.edu/180417/sports/aquiles-montoya-named-head-coach-of-womens-volleyball/>
+
+---
+
+## UCLA softball will look to defeat California batters with help from Kaitlyn Terry
+
+date: 2024-04-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 11 at 9:18 p.m.&#160;</em>
+Her teammates call her the &#8220;lawnmower&#8221; in reference to her mowing down batters by striking them out. 
+
+<https://dailybruin.com/2024/04/11/ucla-softball-will-look-to-defeat-california-batters-with-help-from-kaitlyn-terry/>
+
+---
+
+## UCLA baseball seeks 1st road Pac-12 series win in battle against Washington
+
+date: 2024-04-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 11 at 9:22 p.m.&#160;</em>
+A road victory was elusive for more than five weeks.
+While Loyola Marymount is less than ten miles from Westwood, the Bruins’ win over the Lions broke their seasonlong road losing streak last Tuesday. 
+
+<https://dailybruin.com/2024/04/11/ucla-baseball-seeks-1st-road-pac-12-series-win-in-battle-against-washington/>
+
+---
+
+## Changes to the 2024-2025 FAFSA form cause complications for CSUN students
+
+date: 2024-04-11, from: The Sundail (CSUN Student Newspaper)
+
+Jemima Uriostegui, a CSUN junior, was finally able to speak to a representative after months of unsuccessful attempts to get through to the Federal Student Aid office when she was... 
+
+<https://sundial.csun.edu/180348/news/changes-to-the-2024-2025-fafsa-form-cause-complications-for-csun-students/>
+
+---
+
+## CSUN’s Planetarium hosts a stellar show
+
+date: 2024-04-11, from: The Sundail (CSUN Student Newspaper)
+
+The Donald E. Bianchi Planetarium reopened its doors in February for the first time since closing its doors due to the pandemic in 2020. Located next to Citrus Hall, the... 
+
+<https://sundial.csun.edu/180257/arts-entertainment/csuns-planetarium-hosts-a-stellar-show/>
+
+---
+
+## Resilient and proud: Challenges facing minorities in the CSU school system
+
+date: 2024-04-11, from: The Sundail (CSUN Student Newspaper)
+
+Despite being the largest public university system in the United States and having one of the highest populations of Latinx students, Latinx faculty remain underrepresented in the California State University... 
+
+<https://sundial.csun.edu/180187/news/resilient-and-proud-challenges-facing-minority-in-the-csu-school-system/>
+
+---
+
+## Weekend in Preview: April 11
+
+date: 2024-04-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 11 at 9:39 p.m.&#160;</em>
+Beach volleyball
+Lori Garavartanian, Daily Bruin contributor 
+
+The Pac-12 tournament will mark seven weeks since UCLA’s last loss if the team continues its 15-game winning streak in the coming days. 
+
+<https://dailybruin.com/2024/04/11/weekend-in-preview-april-11/>
+
+---
+
+## ‘End of an era’: UCLA men’s golf to play final Pac-12 regular season tournament
+
+date: 2024-04-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 11 at 9:34 p.m.&#160;</em>
+All good things must come to an end.
+But there is still time to write a final chapter in the book of the 2024 season for graduate student Mason Greene and his teammates. 
+
+<https://dailybruin.com/2024/04/11/end-of-an-era-ucla-mens-golf-to-play-final-pac-12-regular-season-tournament/>
+
+---
+
+## Issue 8 – March 2024
+
+date: 2024-04-11, from: The Sundail (CSUN Student Newspaper)
+
+Letter from the Editor: Issue 8 Volume 64 Yesterday&#8217;s News: Comfort in Gaming Technology: AI vs. Jobs Power in Numbers: Leading in Innovations and Layoffs Competing and Team Building Gaming... 
+
+<https://sundial.csun.edu/180381/print-editions/issue-8-march-2024/>
+
+---
+
+## UCLA beach volleyball completes Senior Day sweep as regular season nears end
+
+date: 2024-04-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students and parents alike waited on the sidelines of Mapes Beach to cheer on UCLA at its final home beach volleyball matchup of the season.
+And led by the graduate student quartet of Rileigh Powers, Jaden Whitmarsh, Devon Newberry and Lexy Denaburg, the Bruins put on a show for their fans. 
+
+<https://dailybruin.com/2024/04/11/ucla-beach-volleyball-completes-senior-day-sweep-as-regular-season-nears-end/>
+
+---
+
+## Santa Clarita Residents Invited to Pre-Register to Volunteer at the 2024 Neighborhood Cleanup on April 27
+
+date: 2024-04-11, from: City of Santa Clarita
+
+<p>SANTA CLARITA RESIDENTS INVITED TO PRE-REGISTER TO VOLUNTEER AT THE 2024 NEIGHBORHOOD CLEANUP ON APRIL 27 Registered Participants Pick&#8211;Up Free Supplies to Improve the Community City of Santa Clarita residents are invited to register for the Neighborhood Cleanup (NCU) taking place on Saturday, April 27, 2024, and join the City in removing litter from their [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/04/11/santa-clarita-residents-invited-to-pre-register-to-volunteer-at-the-2024-neighborhood-cleanup-on-april-27/">Santa Clarita Residents Invited to Pre-Register to Volunteer at the 2024 Neighborhood Cleanup on April 27</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/04/11/santa-clarita-residents-invited-to-pre-register-to-volunteer-at-the-2024-neighborhood-cleanup-on-april-27/>
+
+---
+
+## Partial totality, full community gathering
+
+date: 2024-04-11, from: The Round Up (Pierce College Student Newspaper)
+
+<p>A large, steady stream of students, faculty, staff and local residents eagerly accepted pairs of eclipse glasses handed out by members of the Los Angeles</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/11/partial-totality-full-community-gathering/">Partial totality, full community gathering</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/11/partial-totality-full-community-gathering/?utm_source=rss&utm_medium=rss&utm_campaign=partial-totality-full-community-gathering>
 
 ---
 
@@ -188,7 +664,7 @@ As the conflict in the Middle East continues, a vigil for Palestine was held Wed
 
 date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
 
-&#160;
+<em>This post was updated April 11 at 7:34 p.m.&#160;</em>
 Like many Bruins, these icons of pop culture are coming out of hibernation.
 Following several years between projects, artists are making their return to music this season. 
 
@@ -210,6 +686,7 @@ Across the country, transfer rates remain bleak. Here’s how UCLA’s Scholars 
 
 date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated April 11 at 9:31 p.m.&#160;</em>
 Expletives had various connotations during a practice laden with them.
 One moment, redshirt junior quarterback Ethan Garbers cursed with joy, applauding his wide receivers following a well-executed play. 
 
@@ -274,8 +751,9 @@ The freshman pitcher/outfielder mowed down eight batters as No.
 
 date: 2024-04-10, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated April 11 at 7:16 p.m.&#160;</em>
 Kyreeana Alexander and her three teddy bears are tapping into the wonder of childhood.
-The graduate student in choreographic inquiry is set to perform her capstone project &#8220;We Cool&#8221; on Friday and Saturday evening in Kaufman Hall. 
+The graduate student in choreographic inquiry is set to perform her capstone project “We Cool” on Friday and Saturday evening in Kaufman Hall. 
 
 <https://dailybruin.com/2024/04/10/kyreeana-alexanders-we-cool-reimagines-childhood-hope-for-todays-adults/>
 

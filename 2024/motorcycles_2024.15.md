@@ -1,11 +1,121 @@
 ---
 title: motorcycles 2024.15
-updated: 2024-04-11 07:53:07
+updated: 2024-04-12 08:48:11
 ---
 
 # motorcycles 2024.15
 
-(date: 2024-04-11 07:53:07)
+(date: 2024-04-12 08:48:11)
+
+---
+
+## Watch Alpinestars' New Tech-Air 7X Airbag Jacket Deploy in Slow Motion
+
+date: 2024-04-12, from: Ride Apart, Electric Motorcycle News
+
+It deploys faster than a blink of an eye.  
+
+<https://www.rideapart.com/news/715903/alpine-stars-tech-air-7x-airbag-deployed-in-slow-motion/>
+
+---
+
+## Is The Dayang TMV 450 Timo Just Another Copycat V-Twin Cruiser?
+
+date: 2024-04-12, from: Ride Apart, Electric Motorcycle News
+
+Squint hard enough, and you just might think you're looking at a Harley.  
+
+<https://www.rideapart.com/news/715391/dayang-tmv-450-timo-chinese-cruiser/>
+
+---
+
+## Get Your Kids On Two Wheels With Beta’s E-Kinder Race E-Bikes
+
+date: 2024-04-12, from: Ride Apart, Electric Motorcycle News
+
+The E-Kinder Race comes in three sizes for youngsters.  
+
+<https://www.rideapart.com/news/715393/beta-ekinder-race-kids-ebikes/>
+
+---
+
+## Oruga Unitrack
+
+date: 2024-04-11, from: Cycle World News
+
+Latvian company is working on tracked electric powersports vehicle to tackle the off-highway market. 
+
+<https://www.cycleworld.com/motorcycle-news/oruga-unitrack/>
+
+---
+
+## Indian Motorcycle Announces Sponsorship of Handbuilt Motorcycle Show in Austin With 2025 Scout Demos
+
+date: 2024-04-11, from: Cycle World News
+
+America’s First Motorcycle Company, today announced sponsorship of the renowned Handbuilt Motorcycle Show in Austin, Texas, taking place April 12-14. In conjunction with the show, and in celebration of riding season. 
+
+<https://www.cycleworld.com/the-wire/indian-motorcycle-announces-sponsorship-handbuilt-motorcycle-show-in-austin-with-2025-scout-demos/>
+
+---
+
+## Here's What To Do If You're Riding a Motorcycle During an Earthquake
+
+date: 2024-04-11, from: Ride Apart, Electric Motorcycle News
+
+The recent earthquake in Taiwan got us wondering what you should actually do. So we called a few experts.  
+
+<https://www.rideapart.com/news/715008/motorcycle-earthquake-riding-what-to-do-how-to/>
+
+---
+
+## Everything is Ready in Pontedera for the Vespa World Days 2024
+
+date: 2024-04-11, from: Cycle World News
+
+With a week to go before kick-off, everything is ready for the 2024 edition of the Vespa World Days. 
+
+<https://www.cycleworld.com/the-wire/everything-ready-in-pontedera-for-vespa-world-days-2024/>
+
+---
+
+## 2024 Kawasaki Z500 First Ride
+
+date: 2024-04-11, from: Cycle World News
+
+We ride the new 2024 Kawasaki Z500 in downtown San Diego. 
+
+<https://www.cycleworld.com/motorcycle-reviews/kawasaki-z500-first-ride/>
+
+---
+
+## Watch This Dirt Bike Fly Through Four Seasons In One Stunning Lap
+
+date: 2024-04-11, from: Ride Apart, Electric Motorcycle News
+
+This magic cinematic experience brought to you by one talented rider, multiple drones, and at least one gleeful video editor. 
+
+<https://www.rideapart.com/news/715684/carson-brown-four-seasons-video/>
+
+---
+
+## The Two-Valve Hemi Combustion Chamber
+
+date: 2024-04-11, from: Cycle World News
+
+Are there redeeming qualities of a two-valve hemispherical head? Or has four-valves made the configuration obsolete? 
+
+<https://www.cycleworld.com/blogs/ask-kevin/two-valve-hemi-combustion-chamber/>
+
+---
+
+## Ducati’s “Fisica In Moto” Summer School Is Any Bike Kid’s Dream Come True
+
+date: 2024-04-11, from: Ride Apart, Electric Motorcycle News
+
+I would've lost my mind as a kid. 
+
+<https://www.rideapart.com/news/715390/ducati-summer-school-fisica-in-moto/>
 
 ---
 

@@ -1,11 +1,21 @@
 ---
 title: health 2024.15
-updated: 2024-04-11 07:53:07
+updated: 2024-04-12 08:48:11
 ---
 
 # health 2024.15
 
-(date: 2024-04-11 07:53:07)
+(date: 2024-04-12 08:48:11)
+
+---
+
+## Exploration of agr types, virulence−associated genes, and biofilm formation ability in Staphylococcus aureus isolates from hemodialysis patients with vascular access infections
+
+date: 2024-04-12, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionStaphylococcus aureus,  is a pathogen commonly encountered in both community and hospital settings. Patients receiving hemodialysis treatment face an elevated risk of vascular access infections (VAIs) particularly Staphylococcus aureus,  infection. This heightened risk is attributed to the characteristics of Staphylococcus aureus, , enabling it to adhere to suitable surfaces and form biofilms, thereby rendering it resistant to external interventions and complicating treatment efforts.MethodsTherefore this study utilized PCR and microtiter dish biofilm formation assay to determine the difference in the virulence genes and biofilm formation among in our study collected of 103 Staphylococcus aureus,  isolates from hemodialysis patients utilizing arteriovenous grafts (AVGs), tunneled cuffed catheters (TCCs), and arteriovenous fistulas (AVFs) during November 2013 to December 2021.ResultsOur findings revealed that both MRSA and MSSA isolates exhibited strong biofilm production capabilities. Additionally, we confirmed the presence of agr types and virulence genes through PCR analysis. The majority of the collected isolates were identified as agr type I. However, agr type II isolates displayed a higher average number of virulence genes, with MRSA isolates exhibiting a variety of virulence genes. Notably, combinations of biofilm-associated genes, such as eno−clfA−clfB−fib−icaA−icaD and eno−clfA−clfB−fib−fnbB−icaA−icaD, were prevalent among Staphylococcus aureus,  isolates obtained from vascular access infections.DiscussionThese insights contribute to a better understanding of the molecular characteristics associated with Staphylococcus aureus,  infections in hemodialysis patients and provided more targeted and effective treatment approaches.	 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1367016>
 
 ---
 
@@ -16,6 +26,16 @@ date: 2024-04-11, from: Frontiers in Cellular and Infection Microbiology
 Polycystic ovary syndrome (PCOS) is a common systemic disorder related to endocrine disorders, affecting the fertility of women of childbearing age. It is associated with glucose and lipid metabolism disorders, altered gut microbiota, and insulin resistance. Modern treatments like pioglitazone, metformin, and spironolactone target specific symptoms of PCOS, while in Chinese medicine, moxibustion is a common treatment. This study explores moxibustion’s impact on PCOS by establishing a dehydroepiandrosterone (DHEA)-induced PCOS rat model. Thirty-six specific pathogen-free female Sprague-Dawley rats were divided into four groups: a normal control group (CTRL), a PCOS model group (PCOS), a moxibustion treatment group (MBT), and a metformin treatment group (MET). The MBT rats received moxibustion, and the MET rats underwent metformin gavage for two weeks. We evaluated ovarian tissue changes, serum testosterone, fasting blood glucose (FBG), and fasting insulin levels. Additionally, we calculated the insulin sensitivity index (ISI) and the homeostasis model assessment of insulin resistance index (HOMA-IR). We used 16S rDNA sequencing for assessing the gut microbiota, 1H NMR spectroscopy for evaluating metabolic changes, and Spearman correlation analysis for investigating the associations between metabolites and gut microbiota composition. The results indicate that moxibustion therapy significantly ameliorated ovarian dysfunction and insulin resistance in DHEA-induced PCOS rats. We observed marked differences in the composition of gut microbiota and the spectrum of fecal metabolic products between CTRL and PCOS rats. Intriguingly, following moxibustion intervention, these differences were largely diminished, demonstrating the regulatory effect of moxibustion on gut microbiota. Specifically, moxibustion altered the gut microbiota by increasing the abundance of UCG-005 and Turicibacter, as well as decreasing the abundance of Desulfovibrio. Concurrently, we also noted that moxibustion promoted an increase in levels of short-chain fatty acids (including acetate, propionate, and butyrate) associated with the gut microbiota of PCOS rats, further emphasizing its positive impact on gut microbes. Additionally, moxibustion also exhibited effects in lowering FBG, testosterone, and fasting insulin levels, which are key biochemical indicators associated with PCOS and insulin resistance. Therefore, these findings suggest that moxibustion could alleviate DHEA-induced PCOS by regulating metabolic levels, restoring balance in gut microbiota, and modulating interactions between gut microbiota and host metabolites. 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2024.1328741>
+
+---
+
+## AMR mechanisms in L. interrogans serovars: a comprehensive study
+
+date: 2024-04-11, from: Frontiers in Cellular and Infection Microbiology
+
+Antimicrobial resistance (AMR) is one of the global health challenges of the 21st century. Data regarding AMR mechanisms in Leptospira interrogans, the causative agents of leptospirosis, have been relatively limited. Therefore, our study aimed to identify resistance genes and explore potential resistance mechanisms specific to particular serovars. We conducted a comprehensive analysis of 98 Leptospira strains, representing 10 common serovars, using whole-genome sequencing (WGS) FASTA files. Employing the PATRIC tool from the Bacterial and Viral Bioinformatics Resource Center (BV-BRC), we scrutinized the genomes for AMR genes. Our investigation revealed 32 genes associated with AMR, with 20 key genes consistently prevalent across most strains. Notably, we identified unique efflux pump systems in serovar Pomona, indicating distinctive resistance mechanisms in this serovar. In summary, our findings shed light on the genetic landscape of AMR in Leptospira, uncovering both common and serovar-specific resistance elements. The presence of unique efflux pump systems in serovar Pomona introduces a novel dimension to our understanding of resistance mechanisms. These insights underscore the importance of tailored intervention strategies and collaborative efforts between human and veterinary healthcare professionals, as well as environmental scientists, to address the complex dynamics of leptospirosis and its implications for antibiotic resistance. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1384427>
 
 ---
 

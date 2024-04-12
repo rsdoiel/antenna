@@ -1,11 +1,51 @@
 ---
 title: mid central 2024.15
-updated: 2024-04-11 07:53:07
+updated: 2024-04-12 08:48:10
 ---
 
 # mid central 2024.15
 
-(date: 2024-04-11 07:53:07)
+(date: 2024-04-12 08:48:10)
+
+---
+
+## Vance Walberg will make his first media appearance
+
+date: 2024-04-12, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+On Friday, April 12, a press conference will be held to formally introduce the new Fresno State men’s basketball Head Coach, Vance Walberg. Here’s what you may expect: Connection to the Valley How does Walberg feel staying in the Central Valley after coaching at Clovis West High School? Is Walberg’s family a component of why... 
+
+<https://fscollegian.com/2024/04/vance-walberg-will-make-his-first-media-appearance/>
+
+---
+
+## ASI adopts ceasefire resolution and calls for peace in Gaza
+
+date: 2024-04-11, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Fresno State’s Associated Students, Inc. voted to adopt a ceasefire resolution at their senate meeting on Wednesday, April 10, calling for an immediate ceasefire for the conflict in Gaza. The resolution, which was drafted primarily by ASI President Karen Carrillo and Executive Vice President Frederick Lisitsa, had input from senators, students and staff. The ceasefire... 
+
+<https://fscollegian.com/2024/04/asi-adopts-ceasefire-resolution-and-calls-for-peace-in-gaza/>
+
+---
+
+## Preview: Tee Off golf set to come to Valley Children’s Stadium
+
+date: 2024-04-11, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Bulldog Bread Collective and Stadium Links are partnering up to bring Tee Off to the Valley. It is an event that will turn Valley Children’s Stadium into a unique golfing experience, allowing participants to tee off from the upper deck of the stadium to targets hundreds of feet below. Tee Off will take place from... 
+
+<https://fscollegian.com/2024/04/preview-tee-off-golf-set-to-come-to-valley-childrens-stadium/>
+
+---
+
+## Book lovers at Fresno State enjoy a free ‘blind date’
+
+date: 2024-04-11, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Fresno State students had a “blind date” with a book on Wednesday in which they were able to pick a mystery book, make friendship bracelets and design their own bookmarks. Spotlight Events handed out 37 random books and 40 tote bags to students as part of their “Blind Date with a Book” event. The event... 
+
+<https://fscollegian.com/2024/04/book-lovers-at-fresno-state-enjoy-a-free-blind-date/>
 
 ---
 
@@ -25,7 +65,7 @@ date: 2024-04-11, from: EDN Blog
 
 date: 2024-04-11, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-Former Fresno State graduate teaching assistant Lisa Ellen Spoors has been sentenced to five years in jail for a fatal hit-and-run that killed Hoover High School student Rashad Al-Hakim Jr. in October 2022. Spoors was initially charged with murder, hit-and-run resulting in bodily injury or death and driving under the influence of drug while causing... 
+Former Fresno State graduate teaching assistant Lisa Ellen Spoors has been sentenced to five years in jail for a fatal hit-and-run that killed Hoover High School student Rashad Al-Hakim Jr. in October 2022. Spoors was initially charged with murder, hit-and-run resulting in bodily injury or death, and driving under the influence of drug while causing... 
 
 <https://fscollegian.com/2024/04/lisa-ellen-spoors-sentenced-to-five-years-in-jail/>
 

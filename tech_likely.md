@@ -1,17 +1,839 @@
 ---
 title: tech likely 2024.15
-updated: 2024-04-11 07:53:07
+updated: 2024-04-12 08:48:10
 ---
 
 # tech likely 2024.15
 
-(date: 2024-04-11 07:53:07)
+(date: 2024-04-12 08:48:10)
+
+---
+
+## Do not use Kagi
+
+date: 2024-04-12, from: OS News
+
+For quite a while now, you might have noticed various people recommending a search engine called &#8220;Kagi&#8221;. From random people on the internet, to prominent bloggers like John Gruber and David Pierce, they&#8217;ve all been pushing this seemingly new search engine as a paid-for alternative to Google that respects your privacy. Over the past few months to a year, though, more and more cracks started to appear in Kagi&#8217;s image, and I&#8217;ve been meaning to assemble those cracks and tie a bow on them. Well, it turns out I don&#8217;t have to, because lori (I&#8217;m not aware of their full name, so I&#8217;ll stick to lori) already did it for me in a blog post titled &#8220;Why I lost faith in Kagi&#8220;. Even though I knew all of these stories, and even though I was intending to list them in more or less the same way, it&#8217;s still damning to see it all laid out so well (both the story itself, as well as the lovely, accessible, approachable, and simple HTML, but that&#8217;s neither here nor there). Lori&#8217;s summary hits on all the pain points (but you should really read the whole thing): Between the absolute blase attitude towards privacy, the 100% dedication to AI being the future of search, and the completely misguided use of the company&#8217;s limited funds, I honestly can&#8217;t see Kagi as something I could ever recommend to people. Is the search good? I mean…it&#8217;s not really much better than any other search, it heavily leverages Bing like DDG and the other indie search platforms do, the only real killer feature it has to me is the ability to block domains from your results, which I can currently only do in other search engines via a user script that doesn&#8217;t help me on mobile. But what good is filtering out all of the AI generated spamblogs on a search platform that wants to spit more AI generated bullshit at me directly? Sure I can turn it off, but who&#8217;s to say that they won&#8217;t start using my data to fuel their own LLM? They already have an extremely skewed idea of what counts as PII or not. They could easily see using people&#8217;s searches as being &#8220;anonymized&#8221; and decide they&#8217;re fine to use, because their primary business isn&#8217;t search, it&#8217;s AI. ↫ lori at lori&#8217;s blog The examples underpinning all these pain points are just baffling, like how the company was originally an &#8220;AI&#8221; company, made a search engine that charges people for Bing results, and now is going full mask-off with countless terrible, non-working, privacy-invasive &#8220;AI&#8221; tools. Or that thing where the company spent one third of their funding round of $670,000 on starting a T-shirt company in Germany (Kagi is US-based) to print 20,000 free T-shirts for their users that don&#8217;t even advertise Kagi. Or that thing where they claimed they &#8220;forgot&#8221; to pay sales tax for two years and had to raise prices to pay their back taxes. And I can just keep on going. To make matters worse, after publication of the blog post, Kagi&#8217;s CEO started harassing lori over email, and despite lori stating repeatedly they wanted him to stop emailing them, he just kept on going. Never a good look. The worst part of it, though, is the lack of understanding about what privacy means, while telling their users they are super serious about it. Add to that the CEO&#8217;s &#8220;trust me, bro&#8221; attitude, their deals with the shady and homophobic crypto company Brave, and many other things, and the conclusion is that, no, your data is not safe at Kagi at all, and with their primary business being &#8220;AI&#8221; and not search, you know exactly what that means. Do not use Kagi. 
+
+<https://www.osnews.com/story/139270/do-not-use-kagi/>
+
+---
+
+## Amazon virtually kills efforts to develop Alexa Skills, disappointing dozens
+
+date: 2024-04-12, from: OS News
+
+There was a time when it thought that Alexa would yield a robust ecosystem of apps, or Alexa Skills, that would make the voice assistant an integral part of users&#8217; lives. Amazon envisioned tens of thousands of software developers building valued abilities for Alexa that would grow the voice assistant&#8217;s popularity—and help Amazon make some money. But about seven years after launching a rewards program to encourage developers to build Skills, Alexa&#8217;s most preferred abilities are the basic ones, like checking the weather. And on June 30, Amazon will stop giving out the monthly Amazon Web Services credits that have made it free for third-party developers to build and host Alexa Skills. The company also recently told devs that its Alexa Developer Rewards program was ending, virtually disincentivizing third-party devs to build for Alexa. ↫ Scharon Harding at Ars Technica I&#8217;ve never used Alexa &#8211; Amazon doesn&#8217;t really have a footprint in either The Netherlands or Sweden, so I never really had to care &#8211; but I always thought the Skills were the reason it was so loved. It seemingly makes no sense to me to start killing off this feature, but then, I&#8217;m assuming Amazon has the data to back up the fact people aren&#8217;t using them. It sucks, I guess? Can someone who uses Alexa fill in the blanks for me here? 
+
+<https://www.osnews.com/story/139273/amazon-virtually-kills-efforts-to-develop-alexa-skills-disappointing-dozens/>
+
+---
+
+##  20 Minutes of Charles Schulz Drawing Peanuts Comics 
+
+date: 2024-04-12, updated: 2024-04-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/20-minutes-of-charles-schulz-drawing-peanuts-comics>
+
+---
+
+## Some Personal News
+
+date: 2024-04-12, from: Dave Karpf's blog
+
+"Why the Future Never Arrives" has a publisher! 
+
+<https://davekarpf.substack.com/p/some-personal-news>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-12, from: Dave Winer's Scripting News)
+
+I really want to see <a href="https://en.wikipedia.org/wiki/Civil_War_(film)">Civil War</a>. Gets an <a href="https://www.nytimes.com/2024/04/11/movies/civil-war-review.html?unlocked_article_code=1.j00.0dgt.ypcBLXWqMNLX&smid=url-share">amazing review</a> from the NYT movie critic. 
+
+<http://scripting.com/2024/04/12.html#a140815>
+
+---
+
+## Photographing the 2024 Total Solar Eclipse (results)
+
+date: 2024-04-12, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Photographing the 2024 Total Solar Eclipse (results)</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>The path of totality for the 2017 Total Solar Eclipse ran right through my backyard, and it was my first experience <a href="https://www.jeffgeerling.com/blog/2017/photographing-2017-total-solar-eclipse">photographing totality</a>. <em>Total</em> solar eclipses, when the moon completely covers the sun, are rare. After this year's eclipse, the lower 48 United States will see a brief bit of totality up around Montana in 2044, and a major event across the US <a href="https://www.timeanddate.com/eclipse/solar/2045-august-12">in 2045</a>—and I'll be near retirement!</p>
+
+<p>
+<img width="700" height="auto" alt="2024 Total Solar Eclipse composite photo by Jeff Geerling" src="https://www.jeffgeerling.com/sites/default/files/images/2024-eclipse-composite-jeff-geerling.jpg"><br><em>See the <a href="https://www.flickr.com/photos/lifeisaprayer/53640397112">full-size image of the eclipse composite</a> on Flickr.</em>
+</p>
+
+<p>The above photograph is a composite image of all the stages of the 2024 eclipse. I took the pictures in the midst of a few thousand people scattered Fruitland, Missouri, during the April 8, 2024 Total Solar Eclipse.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-04-12T09:08:12-05:00" title="Friday, April 12, 2024 - 09:08" class="datetime">April 12, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/photographing-2024-total-solar-eclipse-results>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-12, from: Dave Winer's Scripting News)
+
+In some ways the look of Ripley resembles <a href="https://en.wikipedia.org/wiki/Poor_Things_(film)">Poor Things</a>, another eclectic and lovely to look at presentation. 
+
+<http://scripting.com/2024/04/12.html#a140338>
+
+---
+
+## How Do Machines ‘Grok’ Data?
+
+date: 2024-04-12, from: Quanta Magazine
+
+By apparently overtraining them, researchers have seen neural networks discover novel solutions to problems.            <p>The post <a href="https://www.quantamagazine.org/how-do-machines-grok-data-20240412/" target="_blank">How Do Machines ‘Grok’ Data?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/how-do-machines-grok-data-20240412/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-12, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/04/12/ripley.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I just finished <a href="https://en.wikipedia.org/wiki/Ripley_(TV_series)">Ripley</a> on Netflix, an 8-part miniseries remake of <a href="https://en.wikipedia.org/wiki/The_Talented_Mr._Ripley_(film)">The Talented Mr. Ripley</a>, which I remember, probably incorrectly, as a light-hearted story. There was very little to laugh about in this new version, but omg it is such a beautifully presented story. Even if you hated the plot you'd have to watch it just to see the art. And if you're Italian or love Italy, you have to watch it. Anyway now that I know all the twists and how it ends, I'm going to have to watch it again, but I might wait to recover from the experience. It is, at times, hard to watch. But oh so goooood. 
+
+<http://scripting.com/2024/04/12.html#a135629>
+
+---
+
+##  Moira Donegan: &#8220;OJ Simpson died the comfortable death in old age that... 
+
+date: 2024-04-12, updated: 2024-04-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044382-moira-donegan-oj-simpson->
+
+---
+
+## Narayan’s Malgudi
+
+date: 2024-04-12, from: Ayjay blog
+
+In his newsletter today, my buddy Austin Kleon mentions in passing the Hindu concept of the ashramas or stages of life, which is funny because I’ve just been thinking about a novel based on those stages: The Guide, by R. K. Narayan.  Narayan was a great, great genius, and maybe the best comic novelist since [&#8230;] 
+
+<https://blog.ayjay.org/narayans-malgudi/>
+
+---
+
+## Tech Today: Folding NASA Experience into an Origami Toolkit
+
+date: 2024-04-12, from: NASA breaking news
+
+Math for designing lasers becomes artist’s key to creating complex crease patterns 
+
+<https://www.nasa.gov/general/tech-today-folding-nasa-experience-into-an-origami-toolkit/>
+
+---
+
+## Tracing COVID via Sewer Pipes
+
+date: 2024-04-12, updated: 2024-04-12, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/04/12/tracing-covid-via-sewer-pipes/>
+
+---
+
+##  This &#8220;overexposed&#8221; photo of the total eclipse by Randy Olson is just... 
+
+date: 2024-04-12, updated: 2024-04-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044379-this-overexposed-photo-of>
+
+---
+
+## My Fantastic Voyage at Quanta Magazine
+
+date: 2024-04-12, from: Quanta Magazine
+
+Founding editor-in-chief Thomas Lin looks back at a decade of Quanta journalism and forward to what’s next for the magazine.            <p>The post <a href="https://www.quantamagazine.org/my-fantastic-voyage-at-quanta-magazine-20240412/" target="_blank">My Fantastic Voyage at Quanta Magazine</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/my-fantastic-voyage-at-quanta-magazine-20240412/>
+
+---
+
+##  The UN&#8217;s climate chief says governments, business leaders and development banks have... 
+
+date: 2024-04-12, updated: 2024-04-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044378-the-uns-climate-chief-say>
+
+---
+
+## Hubble Spots a Galaxy Hidden in a Dark Cloud
+
+date: 2024-04-12, from: NASA breaking news
+
+The subject of this image taken with the NASA/ESA Hubble Space Telescope is the spiral galaxy IC 4633, located 100 million light-years away from us in the constellation Apus. IC 4633 is a galaxy rich in star-forming activity and also hosts an active galactic nucleus at its core. From our point of view, the galaxy […] 
+
+<https://science.nasa.gov/missions/hubble/hubble-spots-a-galaxy-hidden-in-a-dark-cloud/>
+
+---
+
+## How we built JSR
+
+date: 2024-04-12, updated: 2024-04-12, from: Deno blog
+
+A modern JavaScript registry needs to be fast, reliable, and be as simple as possible for end users. Here's how we built JSR. 
+
+<https://deno.com/blog/how-we-built-jsr>
+
+---
+
+## P&B: Tracy Durnell
+
+date: 2024-04-12, from: Manu - I write blog
+
+
+                <p>This is the 33rd edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have Tracy Durnell and her blog, <a href="https://tracydurnell.com">tracydurnell.com</a></p>
+<p>To follow this series <a href="https://peopleandblogs.com">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed">RSS feed</a>.</p>
+<p>If you’re enjoying P&amp;B consider supporting on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a>.</p>
+<hr />
+<div class="q"><p><strong>Let&#039;s start from the basics: can you introduce yourself?</strong></p></div>
+<div class="a"><p>I'm a writer and graphic designer in the Seattle area. I can't get enough writing; on top of <a href="https://tracydurnell.com/mind-garden/">blogging</a>, I also write speculative fiction. I love reading, mostly fiction, and use my website as an alternative to Goodreads to write reviews and <a href="https://tracydurnell.com/reading/read-in-2024/">track reads</a>. Over the past several years, I've added more and more things to my site: listens, playlists, recipes, follows, accountability tracking, big questions. </p>
+<p>I work in sustainability, previously in local government and now as a consultant. My background is in ecology; I thought I wanted to be a wildlife biologist, but after one field season studying lizards in the Los Angeles suburbs, I realized the itinerant research biologist lifestyle was not for me. </p>
+<p>Now I stay connected to nature through my wildlife garden. My yard backs up to a greenbelt, so on top of <a href="https://cascadiainspired.com/diy-lawn-replacement-overview/">ripping out our lawn</a> and planting native plants, we also restored the natural area adjacent. (I ran a blog devoted to Pacific Northwest nature for ten years!) </p>
+<p>This probably makes it sound like I blog a lot about the environment, but I get enough of that in my work life, so not much actually! I'll keep notes from webinars and bookmark articles related to work on my website since they're related to learning, but I try to preserve my blog as a non-work thinking space for me to play.</p></div>
+<div class="q"><p><strong>What&#039;s the story behind your blog?</strong></p></div>
+<div class="a"><p>I started my current blog at <a href="https://tracydurnell.com/mind-garden/">tracydurnell.com</a> when I encountered the idea of a <a href="https://indieweb.org/digital_garden">digital garden</a>* in 2021. The concept appealed to me for its looseness and built-in acceptance of incompleteness and imperfection. On my previous blog, <a href="https://cascadiainspired.com/">Cascadia Inspired</a>, I'd locked myself into a narrow pool of topics that no longer matched my life, and felt constrained. Releasing myself upon a boundless format with lower expectations unleashed a deluge of thoughts I hadn't realized had no outlet before (or that I hadn't really given myself space to think). </p>
+<p>*(Having learned more about digital gardens, the blog itself is more of a <a href="https://indieweb.org/commonplace_book">commonplace book</a>, but I feel it's fine to trick our brains however we need to to grant ourselves permission to create. Some people <a href="https://tracydurnell.com/2022/11/09/tricking-your-brain-into-writing-the-way-you-want/">write in all lowercase</a>, I tell myself my blog is a garden.)</p>
+<p>I'd had a handmade HTML portfolio site parked on the domain for years because I felt obliged to have one, but it was a huge pain to update without a content management system. Letting go of that was a great relief in itself, and then reinless blogging was joyfully liberating. (Ironically, this means that one of the last things I now rely on a third party site to host is my design portfolio 😂)</p>
+<p>That switch from professional portfolio to blog is why I've done so little to personalize the design of my website: I used the base theme from the year I launched the blog and tweaked the colors slightly, but otherwise only add CSS to solve specific layout or display issues. For too long, I'd been paralyzed by the need to design and code a fully customized site that "represented me as a designer," so I decided to completely release myself from that burden and use the absolute simplest design option. I chose to not care whether people judge me for using a generic template because the purpose of the site is the information on it, not its aesthetics. As long as the styling works to convey the info I want, I'm happy to leave the default. (This prioritization is a design decision in itself, which I suppose represents my practicality when it comes to design 🤷‍♀️) </p>
+<p>I first <a href="https://tracydurnell.com/2023/09/23/my-20th-anniversary-of-blogging/">started blogging twenty years ago</a>, when I went to college, to share what I was doing with my family. In that initial blogging phase, I focused on writing about "mini adventures" I took -- but after college I found I didn't <em>do</em> enough to warrant writing about because I was too exhausted after work. I half-heartedly tried some commentary style blogging, but it didn't stick. </p>
+<p>In 2012, missing that creative outlet, I started writing at Cascadia Inspired as a way to connect more deeply with Washington nature and explore creative processes. I hoped that having the site would prompt me to go on more hikes, which worked for a while, then became an albatross. </p>
+<p>When I started blogging at <a href="http://tracydurnell.com/">TracyDurnell.com</a>, I then faced the conundrum of <a href="https://tracydurnell.com/2022/10/27/deciding-what-belongs-on-my-website/">what writing belonged on which blog</a>. More and more, I shifted my writing over to the new site. Now that I was letting myself write about anything, I wanted to. Finally, I put the Cascadia Inspired blog on hiatus last fall.</p>
+<p>Since going freelance, I've also been posting weeknotes to help me recognize the progress I'm making on long term projects and keep myself honest about how much I can do in a week. My website is a toolbox in itself: a tool for thinking, a place for storing information, a non-corporate means of tracking my intake, a method of self-kindness and personal growth, an outlet for reflection. It's endlessly adaptable and expandable to my needs. Part of the fun is that it's always evolving.</p>
+<p>As an adult, I learned my grandpa had been a letterpress printer, as had his mother; it tickles me that I have wound up in design and (digital) publishing too.</p></div>
+<div class="q"><p><strong>What does your creative process look like when it comes to blogging?</strong></p></div>
+<div class="a"><p>Most of my blogging is reactive, prompted by something I've read. (I've written about <a href="https://tracydurnell.com/2023/12/18/choosing-between-ideas-for-blog-posts/">choosing between ideas</a> for posts.) I especially enjoy finding connections between pieces and seeing whether pairing articles reveals something more than either alone; Tom Critchlow described this, or something like it, as <a href="https://tomcritchlow.com/2023/01/20/digital-bricolage/">digital bricolage</a>.</p>
+<p>Because lots of my blogging is interspersed with online reading, it happens <em>where</em> I read... which is primarily on my phone. I blog most often in my phone's browser window, which is not ergonomic. For pieces over a certain length and complexity, I do try to move to my desktop, where I still write directly in the browser. (I've written at length about my process for <a href="https://tracydurnell.com/2023/09/27/how-i-approach-crafting-a-blog-post/">crafting long blog posts</a> -- tl;dr many (too many) rounds of revisions.) </p>
+<p>I've been paying attention to <a href="https://tracydurnell.com/2024/01/02/challenging-myself-playfully/">what I admire on other blogs</a>, and one of my goals this year is to write more self-prompted articles. Right now I'm experimenting with writing a longer piece in Scrivener, the writing software I use for fiction. Switching to Scrivener for fiction writing made a massive difference, helping me organize my thoughts better, so I'm curious how it will affect blogging. I've also read a couple books specifically for this article -- a fun return to purpose-driven research, which I've rarely had cause for since college. We'll see whether it comes together or I've gathered too much material and overwhelmed myself!</p></div>
+<div class="q"><p><strong>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</strong></p></div>
+<div class="a"><p>Ideas aren't a limiting factor for me; I can be creative anywhere, but the question for me is whether I can <em>work</em> in a space. Physical comfort is the most important aspect of a work space for me: decent ergonomics, enough light, not too loud, not too cold. I find not having enough space to spread out to be limiting -- I prefer to have enough room for both my computer and a notebook for brainstorming on paper. </p>
+<p>Before the pandemic, I used to work in coffee shops regularly as a commitment device, but it was never that productive because I'd get distracted by friends or noise, be crammed into small tables with my laptop perched precariously, or feel anxious whether I'd bought enough food and drinks. Now I much prefer working at my wide desk with a large monitor and ergonomic keyboard.</p></div>
+<div class="q"><p><strong>A question for the techie readers: can you run us through your tech stack?</strong></p></div>
+<div class="a"><p>My webhosting is through HostGator, and my domain registrar is NameCheap. I'm on shared hosting, which is sufficient to host all of my websites. </p>
+<p>I self-host WordPress as my content management system with <a href="https://tracydurnell.com/2023/12/11/my-current-wordpress-plugins-and-customizations/">these plugins</a>. I use the IndieWeb plugin to enable Webmentions, so I can send and receive comments from other websites. </p>
+<p>I also have a <a href="https://notes.tracydurnell.com/">notes blog</a> on a subdomain, powered by micro.blog, which is federated.</p></div>
+<div class="q"><p><strong>Given your experience, if you were to start a blog today, would you do anything differently?</strong></p></div>
+<div class="a"><p>While I've run most of my sites on WordPress since 2012, if I was starting today I might explore other options. There's a lot that's great about WordPress, but I find the block structure poorly suited to blogging; fortunately, I can use a plugin to restore the classic editor (for now).</p>
+<p>I've chosen to blog under my real name for a number of reasons, but I also can see the value and freedom in anonymity. There are some subjects I'd like to write about that are too personally revealing. (When I first blogged, I wrote openly about some things I now keep private; were the times simpler or was I more naive?)</p>
+<p>From a content perspective, I'd try to be more social with my website earlier. Discovering the IndieWeb and meeting other people who think keeping websites is rad has totally enlivened my blogging. I feel <a href="https://tracydurnell.com/2023/11/30/building-community-out-of-strangers/">much more connected to the online community</a> than I ever did during my first decade and a half of blogging.</p>
+<p>Back in the day I followed mostly big name bloggers and topic-focused blogs, which fostered more parasocial relationships between writer and audience; now <a href="https://tracydurnell.com/blogroll/">I follow a lot of other 'normal people'</a> with personal websites who are sharing their ponderings and slices of life. It's easier for me to engage in a bloggy conversation with people who feel like peers, and fun to join in with what I see others writing about. (How much do our follows reveal our interests versus shape them?)</p></div>
+<div class="q"><p><strong>Financial question since the web is obsessed with money: how much does it cost to run your blog? Is it just a cost or does it generate some revenue? And what&#039;s your position on people monetising personal blogs?</strong></p></div>
+<div class="a"><p>Webhosting costs me about $200 a year, and my domain about $15. (Of course, like many people with websites, I have way too many domains so they add up 😉) I begrudgingly subscribe to Google Drive, where I have automatic website backups stored, for $20 a year. Micro.blog is another $5 a month. As a hobby, I consider blogging reasonably affordable at about $25 a month.</p>
+<p>I don't mind other people monetizing their blogs, especially with affiliate links, membership programs, and donations. It totally makes sense for people who need more expensive hosting than I can get away with -- but I also think it's fine for people to charge for their work even if they don't "need the money" -- creators shouldn't be ashamed for earning money from their work. The only aspect that troubles me is when content is paywalled, which then removes it from the open web, but I understand that people need to make money and people come first.</p></div>
+<div class="q"><p><strong>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</strong></p></div>
+<div class="a"><p>Blog recommendations: </p>
+<ul>
+<li>Mandy Brown's <a href="https://aworkinglibrary.com/writing/">A Working Library</a>, with reading notes and reflections, and <a href="https://everythingchanges.us/blog/">Everything Changes</a>, with business-adjacent life musings, are both insightful</li>
+<li>Anna Havron writes thoughtfully about a meaningful life at <a href="http://annahavron.com/">annahavron.com</a> and practically about getting work done at <a href="https://analogoffice.net/">Analog Office</a></li>
+<li>At <a href="https://going-medieval.com/">Going Medieval</a>, Dr. Eleanor Janega writes hilariously (and informatively) about medieval history, gender roles, and how these all tie in to our lives today</li>
+</ul>
+<p>It'd be interesting to hear from Reimena Yee, a comic artist who has a fun <a href="https://reimenayee.com/">website</a> and interesting <a href="https://blog.reimenayee.com/">blog</a>. I'd also love to hear from <a href="https://erinkissane.com/">Erin Kissane</a>, and if we're going big, Deb Perelman of <a href="https://smittenkitchen.com/">Smitten Kitchen</a>!</p></div>
+<div class="q"><p><strong>Final question: is there anything you want to share with us?</strong></p></div>
+<div class="a"><p>I'd encourage anyone who wants to meet other bloggers and website makers to check out an <a href="https://events.indieweb.org/">IndieWeb online event</a> like Homebrew Website Club, which is held regularly in European and North American timezones. It's not just for technical folks!</p></div>
+<hr />
+<p>This was the 33rd edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Tracy. Make sure to <a href="https://tracydurnell.com">follow her blog</a> (<a href="https://tracydurnell.com/feed/">RSS</a>) and get in touch with her if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a> and all supporters will be listed here as well as on the <a href="https://peopleandblogs.com">official site</a> of the newsletter.</p>
+<p><a href="https://www.thingelstad.com">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml">RSS</a>) — <a href="https://some.studio">Piet Terheyden</a> — <a href="https://minim.blog">Raul Montala</a> (<a href="http://github.com/rmontala/minim/commits.atom">RSS</a>) — Eleonora — <a href="https://carlbarenbrug.com">Carl Barenbrug</a> (<a href="https://carlbarenbrug.com/feed/rss">RSS</a>) — <a href="https://tangiblelife.net">Steve Ledlow</a> (<a href="https://tangiblelife.net/feed.rss">RSS</a>) — Paolo Ruggeri — <a href="https://thejollyteapot.com">Nicolas Magand</a> (<a href="https://thejollyteapot.com/feed.rss">RSS</a>) — <a href="https://robhope.com">Rob Hope</a> — <a href="https://chrishannah.me">Chris Hannah</a> (<a href="https://chrishannah.me/index.xml">RSS</a>) — <a href="https://blog.pcora.eu">Pedro Corá</a> (<a href="https://blog.pcora.eu/feed.xml">RSS</a>) — <a href="https://jeremysarber.com">Jeremy Sarber</a> (<a href="https://jeremysarber.com/feed.rss">RSS</a>) — <a href="https://colinwalker.blog/">Colin Walker</a> (<a href="https://colinwalker.blog/dailyfeed.xml">RSS</a>) — <a href="https://softlandings.world/">Sixian Lim</a> (<a href="https://www.softlandings.world/feed.rss">RSS</a>) — <a href="https://mattstein.com">Matt Stein</a> (<a href="https://mattstein.com/rss.xml">RSS</a>) — <a href="https://winnielim.org">Winnie Lim</a> (<a href="https://winnielim.org/feed/">RSS</a>) — <a href="https://flamedfury.com/">Flamed</a> (<a href="https://flamedfury.com/feed.xml/">RSS</a>) — <a href="https://skyhold.org">C Jackdaw</a> (<a href="https://journal.miso.town/atom?url=https://skyhold.org/index.html">RSS</a>) — <a href="https://tiv.today">Kevin Humdrum</a> (<a href="https://tiv.today/feed.rss">RSS</a>) — <a href="https://www.doc.cc/">Fabricio Teixeira</a> (<a href="https://www.doc.cc/feed.xml">RSS</a>) — <a href="https://rosalindcroad.com">Rosalind Croad</a> — <a href="https://frankmeeuwsen.com">Frank Meeuwsen</a> (<a href="https://frankmeeuwsen.com/feed.xml">RSS</a>) — <a href="https://www.elmike.me">Mike Walsh</a> (<a href="https://www.elmike.me/feed.xml">RSS</a>) — <a href="https://www.byzero.de/">Markus Heurung</a> — <a href="https://jeremybassetti.com">Jeremy Bassetti</a> (<a href="https://jeremybassetti.com/index.xml">RSS</a>) — <a href="https://cleverlaziness.xyz/">Juan Villela</a> (<a href="https://cleverlaziness.xyz/posts/index.xml">RSS</a>) — <a href="https://mwarrenarts.com/">Michael Warren</a> (<a href="https://mwarrenarts.com/rss">RSS</a>) — <a href="https://cagrimmett.com/">Chuck Grimmett</a> (<a href="https://cagrimmett.com/feed">RSS</a>) — <a href="https://eatweeds.co.uk">Robin Harford</a> (<a href="https://www.eatweeds.co.uk/feed/">RSS</a>) — <a href="https://bryanmanio.com/">Bryan Maniotakis</a> (<a href="https://bryanmanio.com/feed/">RSS</a>) — <a href="https://bjhess.com/">Barry Hess</a> (<a href="https://bjhess.com/posts_feed">RSS</a>) — <a href="https://chrisjung.xyz">Chris Jung</a> (<a href="https://chrisjung.xyz/feed/rss">RSS</a>) — <a href="https://ivanmoreale.com">Ivan Moreale</a> — <a href="https://islandinthenet.com">Khürt Williams</a> (<a href="https://islandinthenet.com/feed/">RSS</a>) — <a href="https://werd.io/">Ben Werdmuller</a> (<a href="https://werd.io/feed">RSS</a>) — <a href="https://corygibbons.com">Cory Gibbons</a> — <a href="https://www.lkhrs.com/">Luke Harris</a> (<a href="https://www.lkhrs.com/blog/index.xml">RSS</a>) — <a href="https://lars-christian.com/">Lars-Christian Simonsen</a> (<a href="https://lars-christian.com/feed/">RSS</a>) — <a href="https://sethw.xyz">Seth Werkheiser</a> (<a href="https://sethw.xyz/feed/">RSS</a>) — <a href="https://www.codyschultz.com">Cody Schultz</a> — <a href="https://bradbarrish.com">Brad Barrish</a> (<a href="https://bradbarrish.com/feed/">RSS</a>) — <a href="https://galaiko.rocks">Nikita Galaiko</a> — Erik Blankvoort — <a href="https://jagasantagostino.com">Jaga Santagostino</a> — <a href="https://andzuck.com/">Andrew Zuckerman</a> — <a href="https://www.mattiacompagnucci.com">Mattia Compagnucci</a> (<a href="https://mattiacompagnucci.com/feed.rss">RSS</a>) — <a href="https://tdh.se/">Thord D. Hedengren</a> (<a href="https://tdh.se/feed/feed.xml">RSS</a>) — Sean Gallagher — Fabien Sauser — <a href="http://dizzard.net/">Maxwell Omdal</a> — <a href="https://numericcitizen.me">Numeric Citizen</a> (<a href="https://feedpress.me/numericcitizen-feeds.xml?ref=numericcitizen.me">RSS</a>) — <a href="https://heydingus.net">Jarrod Blundy</a> (<a href="https://heydingus.net/feeds">RSS</a>) — <a href="https://gwtf.it">Andrea Contino</a> (<a href="https://gwtf.it/feed">RSS</a>) — <a href="https://sebastiandedeyne.com/">Sebastian De Deyne</a> (<a href="https://sebastiandedeyne.com/index.xml">RSS</a>) — <a href="https://koolinus.net/blog/">Nicola Losito</a> (<a href="https://koolinus.net/blog/feed/">RSS</a>) — <a href="https://amerpie.lol/">Lou Plummer</a> (<a href="https://amerpie.lol/feed.xml">RSS</a>) — <a href="https://lmika.org/">Leon Mika</a> (<a href="https://lmika.org/feed.xml">RSS</a>) — <a href="http://veronique.ink">Veronique</a> (<a href="https://veronique.ink/feed/">RSS</a>) — <a href="https://surplusjouissance.com">Neil Gorman</a> (<a href="https://www.surplusjouissance.com/rss/">RSS</a>) — <a href="https://reaper.is/">Reaper</a> (<a href="https://reaper.is/rss.xml">RSS</a>) — <a href="https://www.mattrutherford.co.uk/">Matt Rutherford</a> (<a href="https://www.mattrutherford.co.uk/rss/">RSS</a>)</p>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale">support on Ko-Fi</a>;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol>                <hr>
+                <h2>Get in touch</h2>                <p>Have something to share? Want me as your <a href="https://manuelmoreale.com/i-ll-read-it">first reader</a>? Get in touch. My inbox is always open.</p>                <a href="mailto:hello@manuelmoreale.com">Connect</a> — 
+                <a href="https://manuelmoreale.com/guestbook">Guestbook</a>
+                <hr>
+                <h2>One a month</h2>                <p>That's how little it takes to help with my <a href="https://manuelmoreale.com/on-dreams-and-goals">goal</a>. If you feel generous, consider supporting what I do.</p>                <a href="https://ko-fi.com/manuelmoreale">Donate</a> — 
+                <a href="https://manuelmoreale.com/supporters">Supporters</a>
+                <hr>
+                <h2>People and Blogs</h2>                <p>I ask people to talk about themselves and their blogs. <a href="https://peopleandblogs.com/">Learn more</a> or subscribe.</p>                <a href="https://manuelmoreale.com/feed/peopleandblogs">RSS</a> — 
+                <a href="https://buttondown.email/peopleandblogs">Email</a>
+             
+
+<https://manuelmoreale.com/@/page/ydEkJ6YEYiO26Xqu>
+
+---
+
+## GCC 14 dropping IA64 support is final nail in the coffin for Itanium architecture
+
+date: 2024-04-12, updated: 2024-04-12, from: Liam Proven's articles at the Register
+
+<h4>Linux kernel cut it loose, now leading FOSS compiler lands depth-charge on Itanic</h4>
+      <p>GNU Compiler Collection (GCC) 14 should appear any month now, and when it does, it will no longer build binaries for IA64 – or Itanic, as The Reg dubbed it.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/04/12/gcc_14_sinks_itanic/>
+
+---
+
+## Discord is nuking Nintendo Switch emulator devs and their entire servers
+
+date: 2024-04-12, from: OS News
+
+Discord has shut down the Discord servers for the Nintendo Switch emulators Suyu and Sudachi and has completely disabled their lead developers’ accounts — and the company isn’t answering our questions about why it went that far. Both Suyu and Sudachi began as forks of Yuzu, the emulator that Nintendo sued out of existence on March 4th. ↫ Sean Hollister at The Verge This is exactly what people were worried about when Nintendo and Yuzu settled for millions of dollars. Even though it&#8217;s a settlement and not a court ruling, and even tough the code to Yuzu is entirely unaffected by the settlement and freely shareable and usable by anyone, and even though emulators are legal &#8211; the chilling effect this settlement is having is absolutely undeniable. Here we have Discord going far beyond its own official policy, without even giving the affected parties any recourse. It&#8217;s absolutely wild, and highlights just how dangerous it is to rely on Discord for, well, anything. I wish that for once, we&#8217;d actually see a case related to console emulation go to court in either the EU or the US, to make it even clearer that yes, unless you distribute copyrighted code like game ROMs or console firmware, emulators are entirely legal and without any risk. You know, a recent court ruling we could point to to dissuade bullies like Nintendo from threatening innocent developers and ruining their lives because of entirely legal activities. And let me reiterate: don&#8217;t use Discord as for anything other than basic chat. This platform ain&#8217;t got your back. 
+
+<https://www.osnews.com/story/139267/discord-is-nuking-nintendo-switch-emulator-devs-and-their-entire-servers/>
+
+---
+
+## DwarfFS: a read-only compression file system
+
+date: 2024-04-12, from: OS News
+
+DwarFS is a read-only file system with a focus on achieving very high compression ratios in particular for very redundant data.  DwarFS also doesn&#8217;t compromise on speed and for my use cases I&#8217;ve found it to be on par with or perform better than SquashFS. For my primary use case, DwarFS compression is an order of magnitude better than SquashFS compression, it&#8217;s 6 times faster to build the file system, it&#8217;s typically faster to access files on DwarFS and it uses less CPU resources. ↫ DwarfFS GitHub page DwarfFS supports both Linux, macOS, and Windows, but macOS and Windows support is experimental at this point. It seems to have higher compression ratios at faster speeds than various alternatives, so if you have a use case for compression file systems &#8211; give DwarfFS a look. 
+
+<https://www.osnews.com/story/139265/dwarffs-a-read-only-compression-file-system/>
+
+---
+
+## Meet Michael Omotosho and his Mindful Droid robot
+
+date: 2024-04-12, from: Raspberry Pi News (.com)
+
+<p>Sometimes data isn’t enough. Sometimes we need a little robot that tells us what to do!</p>
+<p>The post <a href="https://www.raspberrypi.com/news/meet-michael-omotosho-and-his-mindful-droid-robot/">Meet Michael Omotosho and his Mindful Droid robot</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/meet-michael-omotosho-and-his-mindful-droid-robot/>
+
+---
+
+## OpenBSD is a cozy operating system
+
+date: 2024-04-12, from: OS News
+
+With the recent release of OpenBSD 7.5, I decided to run through my personal OpenBSD &#8220;installer&#8221; for laptop/desktop devices. The project is built off of the dwm tiling window manager and only installs a few basic packages. The last time I updated it was with the release of 7.3, so it&#8217;s been due for an minor rework. While making these minor changes, I remembered how incredibly easy the entire install process for OpenBSD is and how cozy the entire operating system feels. All the core systems just work out the box. Yes, you need to &#8220;patch&#8221; in WiFi with a firmware update, so you&#8217;ll need an Ethernet connection during the initial setup. Yes, the default desktop environment is not intuitive or ideal for newcomers. But the positives heavily outweigh the negatives (in my opinion). ↫ Bradley Taunt OpenBSD has a very dedicated community, and I&#8217;ve noticed they tend to be very helpful and friendly. It&#8217;s making me curious about trying it out, and both this article and the helpful posts it links to will be a great way to start. 
+
+<https://www.osnews.com/story/139263/openbsd-is-a-cozy-operating-system/>
+
+---
+
+## Android 15 Beta 1 is here, but details are still under wraps
+
+date: 2024-04-12, from: OS News
+
+After two months of developer previews, Google has finally released Android 15 Beta 1. While the beta usually offers more user-facing changes, Google is still pretty light on details with this build, giving us only a few more details on what we can expect. Instead, the company is pointing to Google I/O for more details, which will take place on May 14 this year, basically confirming that this is when we will get the second beta with more features. ↫ Manuel Vonau There&#8217;s very little of interest in this beta, so unless you&#8217;re really into Android development, I&#8217;d wait out installing any betas until after Google I/O. 
+
+<https://www.osnews.com/story/139261/android-15-beta-1-is-here-but-details-are-still-under-wraps/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-04-12, from: Miguel de Icaza Mastondon feed)
+
+<p>Some days I have good hacking days, other days I have to use NSItemProvider</p> 
+
+<https://mastodon.social/@Migueldeicaza/112255304185889875>
+
+---
+
+## Greenmask v0.1.7 Release
+
+date: 2024-04-12, from: PostgreSQL News
+
+<h1>Greenmask v0.1.7 Release</h1>
+<h2>PostgreSQL Dump and Obfuscation Tool</h2>
+<p>This release introduces a new Greenmask command, improvements, bug fixes, and documentation updates.</p>
+<h1>Greenmask Overview</h1>
+<h2>Key Features</h2>
+<ul>
+<li><strong>Cross-platform</strong> — can be easily built and executed on any platform, thanks to its Go-based architecture,
+  which eliminates platform dependencies.</li>
+<li><strong>Interactive</strong> - allows to check the transformation result and show problems if any using the single command <code>validate</code></li>
+<li><strong>Schema difference check</strong> - validate your current database with the previous dump in storage and show diff</li>
+<li><strong>Database type safe</strong> — ensures data integrity by validating data and utilizing the database driver for
+  encoding and decoding operations. This approach guarantees the preservation of data formats.</li>
+<li><strong>Transformation validation and easy maintainable</strong> — during obfuscation development, Greenmask provides validation warnings and a transformation diff feature, allowing you to monitor and maintain transformations effectively throughout the software lifecycle.</li>
+<li><strong>Partitioned tables transformation inheritance</strong> — define transformation configurations once and apply them to all partitions within partitioned tables, simplifying the obfuscation process.</li>
+<li><strong>Stateless</strong> — Greenmask operates as a logical dump and does not impact your existing database schema.</li>
+<li><strong>Backward compatible</strong> — it fully supports the same features and protocols as existing vanilla PostgreSQL utilities. Dumps created by Greenmask can be successfully restored using the pg_restore utility.</li>
+<li><strong>Extensible</strong> — users have the flexibility to implement domain-based transformations in any programming language or use predefined templates.</li>
+<li><strong>Declarative</strong> — Greenmask allows you to define configurations in a structured, easily parsed, and recognizable format.</li>
+<li><strong>Integrable</strong> — integrate Greenmask seamlessly into your CI/CD system for automated database obfuscation and restoration.</li>
+<li><strong>Parallel execution</strong> — take advantage of parallel dumping and restoration, significantly reducing the time required to deliver results.</li>
+<li><strong>Provide a variety of storage</strong> — Greenmask offers a variety of storage options for local and remote data storage, including directories and S3-like storage solutions.</li>
+</ul>
+<h3>Greenmask is ideally suited for:</h3>
+<ul>
+<li>Routine backup and restoration tasks, ensuring data integrity and availability.</li>
+<li>Anonymization and data masking for staging environments and analytics, protecting sensitive information while maintaining data utility.</li>
+</ul>
+<h2>Release Notes</h2>
+<h3>v0.1.7</h3>
+<h5>New features</h5>
+<ul>
+<li>Added restoration filtering by <code>--table</code>, <code>--schema</code> and <code>--exclude-schema</code> parameters</li>
+<li>Validate command without parameters validates only the configuration file</li>
+<li>Added the <code>--schema</code> parameter, which allows to make a schema diff between the previous dump and the current. This 
+  is useful when you want to check if the schema has changed after the migration. By controlling it we can exclude 
+  data leakage after migration</li>
+<li>Validate command divided by many stages that can be controlled using parameters<ul>
+<li>Configuration validation</li>
+<li>Transformer validation</li>
+<li>Constraint violation check</li>
+<li>Data difference check</li>
+<li>Schema difference check</li>
+</ul>
+</li>
+</ul>
+<h5>Improvements</h5>
+<ul>
+<li>Improved Hash transformer <ul>
+<li>Added salt parameter that can be set via config or via <code>GREENMASK_GLOBAL_SALT</code></li>
+<li>Added sha3 functions support in different modes (sha3-224, sha3-256, sha3-384, sha3-512)</li>
+</ul>
+</li>
+<li>Refactored <code>Cmd</code> transformer logic<ul>
+<li>Json API: Now it allows to use of column names instead of column indexes in JSON format</li>
+<li>Csv API: Now it can use the column order from config via column remapping</li>
+</ul>
+</li>
+<li>The <code>validate</code> command was rewritten almost from scratch.<ul>
+<li>New option <code>--transformed-only</code> - displays only columns that are transformed with a primary key (if exists). This
+  allows to reduce the output data and make it more readable</li>
+<li>Implemented <code>json</code> format for output</li>
+<li>Added the <code>--table-format</code> parameter which is responsible for the <code>vertical</code> and <code>horizontal</code> table orientation.
+  This works only when <code>--format=text</code></li>
+<li>Added the <code>--warnings</code> parameter, if it is specified then not only fatal-warnings will be displayed, but also
+  those with a lower severity</li>
+</ul>
+</li>
+</ul>
+<h5>Fixes</h5>
+<ul>
+<li>Fixed <code>--use-list</code> option - now it applies to entries according to the order in the list file</li>
+<li>Fixed <code>--use-list</code> option behavior together with <code>--list-format</code> option (<code>json</code> or <code>text</code>). Now it
+  generates a temporal list file in text format for providing it to the pg_restore call</li>
+<li>Updated documentation according to the latest changes</li>
+</ul>
+<h3>v0.1.2 - v0.1.6</h3>
+<ul>
+<li>Fixed uncontrolled buffer growth in the restore command</li>
+<li>The <code>Hash</code> transformer has been completely remastered and now has the <code>function</code> parameter to choose from several hash algorithm options and the <code>max_length</code> parameter to truncate the hash tail.</li>
+<li>Split information about transformers between the <code>list-transformers</code> and new <code>show-transformer</code> CLI commands, which allows for more comprehensible and useful outputs for both commands </li>
+<li>Added error severity for the <code>Cmd</code> parameter validator</li>
+<li>Significantly refactored the structure and content of documentation</li>
+<li>Fixed metadata enrichment for validation warnings caused by <code>RawValueValidator</code></li>
+<li>Fixed a typo in the <code>credit_card</code> value for the <code>type</code> parameter of the <code>Masking</code> transformer</li>
+<li>Fixed Greenmask Playground environment variables and the <code>cleanup</code> command</li>
+<li>Fixed <code>list-dump</code>, <code>list-transformers</code>, and <code>restore</code> commands exit code on error</li>
+<li>Fixed database connection parameters behavior fields</li>
+<li>Fixed Json transformer: now it correctly parses operations field</li>
+<li>Fixed bug when raw COPY lines were parsed incorrectly</li>
+<li>Fixed <code>--version</code> parameter behavior</li>
+</ul>
+<h2>Useful Links</h2>
+<p>Change log <a href="https://greenmask.io/release_notes/greenmask_0_1_7/">greenmask.io</a></p>
+<p>Explore detailed <a href="https://greenmask.io/">Documentation</a></p>
+<p>Access the <a href="https://github.com/GreenmaskIO/greenmask/releases/tag/v0.1.7">Latest Release on GitHub</a></p>
+<p>Contact us for support at <a href="mailto:support@greenmask.io">Email Support</a></p> 
+
+<https://www.postgresql.org/about/news/greenmask-v017-release-2825/>
+
+---
+
+## pgtt v3.2 has been released
+
+date: 2024-04-12, from: PostgreSQL News
+
+<p>Hanoi, Vietnam - April 12th, 2024</p>
+<h2>PostgreSQL Global Temporary Tables</h2>
+<p>pgtt is a PostgreSQL extension to create, manage and use DB2 or Oracle-style
+Global Temporary Tables. Once created the use is just like with the other RDBMS.</p>
+<p>pgtt v3.2 has been released, this is a maintenance release to fix issues reported
+by users since latest release and add compatibility with future PG 17.</p>
+<p>Complete list of changes is available <a href="https://github.com/darold/pgtt/blob/v3.2/ChangeLog">here</a></p>
+<h2>Links &amp; Credits</h2>
+<p>pgtt is an open project. Any contribution to build a better tool is
+welcome. You just have to send your ideas, features requests or patches
+using the GitHub tools or directly to gilles@darold.net.</p>
+<p><strong>Links :</strong></p>
+<ul>
+<li>Download:  <a href="https://github.com/darold/pgtt/releases/">https://github.com/darold/pgtt/releases/</a></li>
+<li>Support: use GitHub report tool at <a href="https://github.com/darold/pgtt/issues">https://github.com/darold/pgtt/issues</a>
+  or contact gilles@darold.net.</li>
+</ul>
+<h2>About pgtt</h2>
+<p>Docs &amp; Download at <a href="https://github.com/darold/pgtt/">https://github.com/darold/pgtt/</a></p> 
+
+<https://www.postgresql.org/about/news/pgtt-v32-has-been-released-2840/>
+
+---
+
+## My 1988 driver's license
+
+date: 2024-04-11, from: Dave Winer's Scripting News
+
+<p>Found this in my desk drawer today. Amazing the things you carry with you over the ages. I lived in an apartment building on top of a hill in the <a href="https://www.google.com/maps/place/1100+Sharon+Park+Dr,+Menlo+Park,+CA+94025/@37.424696,-122.2298177,15z/data=!4m6!3m5!1s0x808fa4f7ba716f5d:0x4318060066990628!8m2!3d37.4247727!4d-122.2181447!16s%2Fg%2F11c1343h_f?entry=ttu">middle of a golf course</a>, smack in the heart of Silicon Valley, if it actually had a heart, and that's debatable. All the Sand Hill Road VCs were on the other side of the hill. And one exit south on 280 was Xerox PARC, and where NeXT had its startup offices. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/04/11/driverslicensesmall1988.png"></center>My 1988 driver's license.</div></p>
+<p>This was the place where I started development of what became <a href="http://frontier.userland.com">Frontier</a>. I always wanted to do a great system level scripting thing, based on what I learned from Unix and what I loved about the graphic user interface. </p>
+<p>It became a lot bigger than I anticipated. In the beginning it was meant to be a replacement for the Macintosh Finder, with an outliner for a file system browser, and of course a fantastic scripting ability, of the OS and of scriptable apps. I wish Apple had supported this effort but I didn't understand at the time that they couldn't. They weren't set up to let anyone but Bill and Andy make great products, even if their products weren't all that great, imho of course. You have to live with the mythology you create. </p>
+<p>A lot of people got their first programming experience with Hypercard. I would have loved if more of them get their first experience with Frontier. Even better would have been if our products worked together, but that wasn't in the cards either. </p>
+ 
+
+<http://scripting.com/2024/04/11/223201.html?title=my1988DriversLicense>
+
+---
+
+##  Viral Videos I Missed: Is This Available? (Attorney General) 
+
+date: 2024-04-11, updated: 2024-04-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/viral-videos-i-missed-is-this-available-attorney-general>
+
+---
+
+## GNU Hurd ported to AArch64, and more Hurd news
+
+date: 2024-04-11, from: OS News
+
+Hurd, the kernel that is supposed to form the basis of the GNU operating system, is perpetually a research project that doesn&#8217;t get anywhere close to being a replacement for Linux, but that doesn&#8217;t mean the project doesn&#8217;t make progress and has a place in the world of operating systems. Their most recent major improvement has been porting GNU Hurd to AArch64, spearheaded by Hurd developer Sergey Bugaev. Since then, however, I have been (some may say, relentlessly) working on filling in the missing piece, namely porting GNU Mach (with important help &#38; contributions by Luca D.). I am happy to report that we now have an experimental port of GNU Mach that builds and works on AArch64! While that may sound impressive, note that various things about it are in an extremely basic, proof-of-concept state rather than being seriously production-ready; and also that Mach is a small kernel (indeed, a microkernel), and it was designed from the start (back in the 80s) to be portable, so most of the &#8220;buisness logic&#8221; functionality (virtual memory, IPC, tasks/threads/scheduler) is explicitly arch-independent. Despite the scary &#8220;WIP proof-of-concept&#8221; status, there is enough functionality in Mach to run userland code, handle exceptions and syscalls, interact with the MMU to implement all the expected virtual memory semantics, schedule/switch tasks and threads, and so on. Moreover, all of GNU Mach&#8217;s userspace self-tests pass! ↫ Sergey Bugaev On top of all this, glibc works on the AArch64 port, and several important Hurd servers work as well, namely ext2fs, exec, startup, auth, and proc, as a do a number of basic UNIX programs. This is an exceptional effort, and highlights that while people tend to make fun of Hurd, it&#8217;s got some real talent working on it that bring the platform forward. While we may not see any widely usable release any time soon, every bit of progress helps and is welcome. Speaking of progress, the progress report for GNU Hurd covering the first quarter of 2024 has also been published, and it lists a number of other improvements and fixes made aside from the AArch64 port. For instance, the console will now use xkbcommon instead of X11 for handling keyboard layouts, which reduced code complexity a lot and improved keyboard layout coverage, to boot. The port of GDB to the 64 bit version of Hurd is also progressing, and SMP has seen a ton of fixes too. Another awesome bit of news comes from, once again, Sergey Bugaev, as he announced a new Hurd distribution based on Alpine Linux. Work on this project has only recently begun, but he&#8217;s already had some success and about 299 Alpine packages are available. His reasons for starting this new project is that while Debian GNU/Hurd is a great base to work from for Hurd users and developers, Debian is also a bit strict and arcane in its packaging requirements, which might make sense for Debian GNU/Linux, but is annoying to work with when you&#8217;re trying to get a lot of low-level work done. For now, there&#8217;s no name yet, and he&#8217;s asking for help from the Hurd community for name ideas, hosting, and so on. That&#8217;s a lot of GNU Hurd progress this quarter, and that&#8217;s good news. 
+
+<https://www.osnews.com/story/139255/gnu-hurd-ported-to-aarch64-and-more-hurd-news/>
+
+---
+
+## Altitude Chamber Gets Upgrade for Artemis II, Spacecraft Testing Begins
+
+date: 2024-04-11, from: NASA breaking news
+
+Before the Orion spacecraft is stacked atop NASA’s powerful SLS (Space Launch System) rocket ahead of the Artemis II mission, engineers will put it through a series of rigorous tests to ensure it is ready for lunar flight. In preparation for testing, teams at the agency’s Kennedy Space Center in Florida have made significant upgrades [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/kennedy/altitude-chamber-gets-upgrade-for-artemis-ii-spacecraft-testing-begins/>
+
+---
+
+## Media Get Close-Up of NASA’s Jupiter-Bound Europa Clipper
+
+date: 2024-04-11, from: NASA breaking news
+
+Excitement is mounting as the largest spacecraft NASA has ever built for a planetary mission gets readied for an October launch. Engineers at NASA’s Jet Propulsion Laboratory in Southern California are running final tests and preparing the agency’s Europa Clipper spacecraft for the next leg of its journey: launching from NASA’s Kennedy Space Center in [&#8230;] 
+
+<https://www.nasa.gov/missions/europa-clipper/media-get-close-up-of-nasas-jupiter-bound-europa-clipper/>
+
+---
+
+## Used Genuine Apple Parts and Parts Pairing
+
+date: 2024-04-11, from: Michael Tsai
+
+Apple (MacRumors): Today Apple announced an upcoming enhancement to existing repair processes that will enable customers and independent repair providers to utilize used Apple parts in repairs. [&#8230;] And in order to simplify the repair process, customers and service providers will no longer need to provide a device&#8217;s serial number when ordering parts from the [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/11/used-genuine-apple-parts-and-parts-pairing/>
+
+---
+
+## Apple Alerts Users to Mercenary Spyware Attacks
+
+date: 2024-04-11, from: Michael Tsai
+
+Manish Singh (via Hacker News, MacRumors, Reddit): Apple sent threat notifications to iPhone users in 92 countries on Wednesday, warning them that they may have been targeted by mercenary spyware attacks.[&#8230;]Apple previously described the attackers as &#8220;state-sponsored&#8221; but has replaced all such references with &#8220;mercenary spyware attacks.&#8221; Apple: Apple threat notifications are designed to inform [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/11/apple-alerts-users-to-mercenary-spyware-attacks/>
+
+---
+
+## Humane Ai Pin Reviews
+
+date: 2024-04-11, from: Michael Tsai
+
+David Pierce (Hacker News): The AI Pin is an interesting idea that is so thoroughly unfinished and so totally broken in so many unacceptable ways that I can&#8217;t think of anyone to whom I&#8217;d recommend spending the $699 for the device and the $24 monthly subscription. AI Pin and its AI OS, Cosmos, are about [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/11/humane-ai-pin-reviews/>
+
+---
+
+## Automattic Acquires Beeper
+
+date: 2024-04-11, from: Michael Tsai
+
+Eric Migicovsky (tweet, Hacker News, MacRumors): I&#8217;m excited to announce that Beeper has been acquired by Automattic. This acquisition marks the beginning of an exciting new chapter as we continue our mission to create the best chat app on earth. [&#8230;] Given the state of the messaging landscape today, we believe there is a huge [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/11/automattic-acquires-beeper/>
+
+---
+
+##  Take a Letter Maria, the Live Audience Music Video 
+
+date: 2024-04-11, updated: 2024-04-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/take-a-letter-maria-live-audience-music-video>
+
+---
+
+##  What&#8217;s Happening Now That Might Only Make Sense in 1,200 Years? 
+
+date: 2024-04-11, updated: 2024-04-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/whats-happening-now-that-might-only-make-sense-in-1200-years>
+
+---
+
+## NASA’s PACE Data on Ocean, Atmosphere, Climate Now Available
+
+date: 2024-04-11, from: NASA breaking news
+
+NASA is now publicly distributing science-quality data from its newest Earth-observing satellite, providing first-of-their-kind measurements of&#160;ocean health, air quality,&#160;and the effects of a changing climate. The Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) satellite was launched on Feb. 8, and has been put through several weeks of in-orbit testing of the spacecraft and instruments to ensure [&#8230;] 
+
+<https://www.nasa.gov/earth/nasas-pace-data-on-ocean-atmosphere-climate-now-available/>
+
+---
+
+## Freakout Day on the internet
+
+date: 2024-04-11, from: Dave Winer's Scripting News
+
+<p>I have a suggestion for an internet holiday.</p>
+<p>Call it Freakout Day.</p>
+<p>Works like this.</p>
+<p>When you think of a pronouncement you'd like to make, write it in your favorite "tiny little text box", but before you send it, add the word "freaking" between every word in the punchline.</p>
+<p>Like so --</p>
+<p>The Arizona court decision won’t just have an effect on the politics of Arizona. It will have effect on the politics of the entire freaking United freaking States of freaking America.</p>
+<p>Really impresses people. 😀</p>
+ 
+
+<http://scripting.com/2024/04/11/182025.html?title=freakoutDayOnTheInternet>
+
+---
+
+## Humane AI pins review confirm what we already expected: it’s useless trash
+
+date: 2024-04-11, from: OS News
+
+I didn&#8217;t want to spend too much time on this thing, but I feel like we can all use a good laugh at a stupid product hyped only by the tech media. The Verge reviewed the Humane AI pin, and entirely predictably, it&#8217;s a complete and utter trashfire. But until all of that happens, and until the whole AI universe gets better, faster, and more functional, the AI Pin isn’t going to feel remotely close to being done. It’s a beta test, a prototype, a proof of concept that maybe someday there might be a killer device that does all of these things. I know with absolute certainty that the AI Pin is not that device. It’s not worth $700, or $24 a month, or all the time and energy and frustration that using it requires. It’s an exciting idea and an infuriating product.&#160; AI gadgets might one day be great. But this isn’t that day, and the AI Pin isn’t that product. I’ll take my phone back now, thanks. ↫ David Pierce at The Verge It takes dozens of seconds to reply to any query, the battery is severely lacking, the answers you get are mostly wrong or useless, sending text messages is effectively broken, and tons of promised features don&#8217;t work because they&#8217;re not implemented. In another video review, MrMobile also shows the device overheating all the time, a problem that&#8217;s common to all of the devices. I don&#8217;t think trashfire is harsh enough to describe this junk. 
+
+<https://www.osnews.com/story/139253/humane-ai-pins-review-confirm-what-we-already-expected-its-useless-trash/>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2024-04-11, from: Dave Winer's Scripting News)
 
-In an email to Doc this morning: "The web is such a huge total mess. CSS is a junk pile of reinventing that learned nothing from the ideas it was reinventing. The only reason we put up with this is the freedom we got from it. But that’s been gone for a long time. I have a feeling we’re wasting our golden years overlooking that we’re trying to get creative work done in a corporate crime scene. We won, only to have our victory enshrined by a bunch of corpy wiseasses and nazis." Doc is a very literate and quote-worthy writer, and me too, but we bring out the best from each other. So next time you see Doc thank him for me, thanks for the creativity. We're making the best of a bad situation. It's even worse than it appears and old enough to know better.
+The Arizona court decision won’t just have an effect on the politics of Arizona. It will have effect on the politics of the entire freaking United freaking states of freaking America. 
+
+<http://scripting.com/2024/04/11.html#a181708>
+
+---
+
+##  It&#8217;s National Card & Letter Writing Month (🎉), and Metafilter just drew... 
+
+date: 2024-04-11, updated: 2024-04-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044377-april-is-national-letter->
+
+---
+
+## So it begins: Microsoft starts showing full-screen ads about the end of Windows 10 support
+
+date: 2024-04-11, from: OS News
+
+We are about 18 months away from the end of mainstream Windows 10 support, but Microsoft thinks it is time to start nagging warning Windows 10 users about the inevitable. Users on Reddit report spotting a new full-screen ad with a notification that Windows 10 is about to reach its end of life in October 2025, even though it is still getting new features (there are even rumors about Microsoft re-opening the Windows Insider Program for Windows 10). ↫ Taras Buria at Neowin I mean, I have a long history of crying foul over Windows being adware now, but I don&#8217;t think warning users that their operating system is losing support and that they should upgrade to a new version really constitutes an ad. Sure, technically it does, but I think we can all agree that such a warning is useful and informative. 
+
+<https://www.osnews.com/story/139251/so-it-begins-microsoft-starts-showing-full-screen-ads-about-the-end-of-windows-10-support/>
+
+---
+
+##  Diary Comics, Dec. 6-8 
+
+date: 2024-04-11, updated: 2024-04-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/diary-comics-dec-6-8>
+
+---
+
+## Corne V3
+
+date: 2024-04-11, from: mrusme blog
+
+A build log and brief review of the Corne V3, as well as the *Kunai* case. 
+
+<https://xn--gckvb8fzb.com/corne-v3/>
+
+---
+
+## NASA Invites Media to Switzerland Artemis Accords Signing Ceremony
+
+date: 2024-04-11, from: NASA breaking news
+
+NASA will welcome Switzerland as the 37th country to sign the Artemis Accords during a ceremony at 11:30 a.m. EDT on Monday, April 15 at the agency’s headquarters in Washington. NASA Administrator Bill Nelson will host Swiss Federal Councillor Guy Parmelin, Minister for Economic Affairs, Education &#38; Research, along with other officials from Switzerland and [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-switzerland-artemis-accords-signing-ceremony/>
+
+---
+
+## Part 3 – Babylon.js 7.0: One incredible community
+
+date: 2024-04-11, from: Windows Developer Blog
+
+<p>Babylon.js is powered and supported by one of the most incredible open source communities in the world. Over 500 people from across the globe have contributed to making it one of the most powerful, beautiful, simple, and open web rendering engines ou</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2024/04/11/part-3-babylon-js-7-0-one-incredible-community/">Part 3 – Babylon.js 7.0: One incredible community</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<https://blogs.windows.com/windowsdeveloper/2024/04/11/part-3-babylon-js-7-0-one-incredible-community/>
+
+---
+
+## Updated article on grap
+
+date: 2024-04-11, from: ldbeth Lisp/Music Programmer blog
+
+<p>I found some other issue with Faber's <code>grap</code>
+and how to work around with the Unix one.</p> 
+
+<https://ldbeth.sdf.org/articles/grap.html>
+
+---
+
+## Sing ‘Happy Birthday’ to the RiscPC with ROUGOL
+
+date: 2024-04-11, from: RiscOS Story
+
+It seems like only ten years ago that the RiscPC turned twenty years old, and there was an article posted here to commemorate the event, and we even had cake and celebrated at that year&#8217;s Wakefield Show &#8211; and that&#8217;s because it was only ten years ago! If you move forward ten years from that, you of course reach thirty, so it&#8217;s worth remembering the machine once again. However, the thirtieth anniversary of the computer&#8217;s launch &#8211; on 15th April &#8211; just happens to fall on the same day that&#8230; 
+
+<https://www.riscository.com/2024/sing-happy-birthday-to-the-riscpc-with-rougol/>
+
+---
+
+##  What Are the Odds? 
+
+date: 2024-04-11, updated: 2024-04-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/what-are-the-odds>
+
+---
+
+## Hexen 1.07 released
+
+date: 2024-04-11, from: RiscOS Story
+
+If you attended the Southwest Show back in February, you&#8217;ll know that there was a new release of Hexen from R-Comp, which saw some significant updates over the older version &#8211; amongst other things meaning it can now be run on more modern RISC OS computer systems. It seems that the programmer responsible for the updated port of the game, Gerph, has been continuing to improve it, because there is now a new version available &#8211; 1.07 &#8211; which R-Comp&#8217;s Andrew Rawnsley says is a major update. Described as the&#8230; 
+
+<https://www.riscository.com/2024/hexen-1-07-released/>
+
+---
+
+##  It works! Three men stranded on a tiny Pacific island for more... 
+
+date: 2024-04-11, updated: 2024-04-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044376-it-works-three-men-strand>
+
+---
+
+## Good and useful writing
+
+date: 2024-04-11, updated: 2024-04-11, from: Robin Rendle Essays
+
+ 
+
+<https://robinrendle.com/notes/good-and-useful-writing-/>
+
+---
+
+## NASA’s Jet Propulsion Laboratory Announces 3 Personnel Appointments
+
+date: 2024-04-11, from: NASA breaking news
+
+The staff changes tap into a deep well of talent and experience across JPL as the laboratory looks to the future. NASA’s Jet Propulsion Laboratory is pleased to announce three key staff appointments, naming Keyur Patel the associate director for Flight Projects and Mission Success, Howard Eisen chief engineer, and Todd Gaier director for Astronomy [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/jpl/nasas-jet-propulsion-laboratory-announces-3-personnel-appointments/>
+
+---
+
+##  How to Be a Climate Activist Even Though You&#8217;re Too Shy to... 
+
+date: 2024-04-11, updated: 2024-04-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044368-how-to-be-a-climate>
+
+---
+
+## Prototype even faster with the Gradio UI for Figma component library
+
+date: 2024-04-11, from: Mozilla Developer Network blog
+
+<p>In the fast-paced world of generative AI, staying ahead means moving swiftly and smartly. That's why we've embraced Gradio, the low-code prototyping toolkit from Hugging Face, as our go-to for bringing new ideas to life. </p>
+<p>The post <a href="https://hacks.mozilla.org/2024/04/prototype-even-faster-with-the-gradio-ui-for-figma-component-library/">Prototype even faster with the Gradio UI for Figma component library</a> appeared first on <a href="https://hacks.mozilla.org">Mozilla Hacks - the Web developer blog</a>.</p>
+ 
+
+<https://hacks.mozilla.org/2024/04/prototype-even-faster-with-the-gradio-ui-for-figma-component-library/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-11, from: Dave Winer's Scripting News)
+
+A <a href="http://scripting.com/2022/10/01/133834.html?title=docQuixote">piece</a> I wrote about Doc in 2022 entitled Doc Quixote. 
+
+<http://scripting.com/2024/04/11.html#a150314>
+
+---
+
+## State of the 1980’s Art
+
+date: 2024-04-11, updated: 2024-04-11, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/04/11/state-of-the-1980s-art/>
+
+---
+
+## Viruses Finally Reveal Their Complex Social Life
+
+date: 2024-04-11, from: Quanta Magazine
+
+New research has uncovered a social world of viruses full of cheating, cooperation and other intrigues, suggesting that viruses make sense only as members of a community.            <p>The post <a href="https://www.quantamagazine.org/viruses-finally-reveal-their-complex-social-life-20240411/" target="_blank">Viruses Finally Reveal Their Complex Social Life</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/viruses-finally-reveal-their-complex-social-life-20240411/>
+
+---
+
+##  I&#8217;m the Draft List at This Brewery and No, You Can&#8217;t Have... 
+
+date: 2024-04-11, updated: 2024-04-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044369-im-the-draft-list-at>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-11, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/08/17/doctorNick.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">In an email to <a href="https://en.wikipedia.org/wiki/Doc_Searls">Doc</a> this morning: "The web is such a huge total mess. CSS is a junk pile of reinventing that learned nothing from the ideas it was reinventing. The only reason we put up with this is the freedom we got from it. But that’s been gone for a long time. I have a feeling we’re wasting our golden years overlooking that we’re trying to get creative work done in a corporate crime scene. We won, only to have our victory enshrined by a bunch of corpy wiseasses and nazis." Doc is a very literate and quote-worthy writer, and we bring out the best from each other. So next time you see Doc thank him for me, for the creativity. We're making the best of a bad situation. It's even worse than it appears and I'm old enough to know better.
  
 
 <http://scripting.com/2024/04/11.html#a144842>
@@ -23,6 +845,16 @@ In an email to Doc this morning: "The web is such a huge total mess. CSS is a ju
 So this <a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3kpsh22d2dx2b">ticking time bomb</a> was sitting there all the time the journalists were talking about how Biden is too old to win the election with Trump. Biden was never the issue, the issue was the freaking Supreme freaking Court. 
 
 <http://scripting.com/2024/04/11.html#a144805>
+
+---
+
+## NASA’s TESS Temporarily Pauses Science Observations
+
+date: 2024-04-11, from: NASA breaking news
+
+NASA’s TESS (Transiting Exoplanet Survey Satellite) entered into safe mode April 8, temporarily interrupting science observations. The team is investigating the root cause of the safe mode, which occurred during scheduled engineering activities. The satellite itself remains in good health. The team will continue investigating the issue and is in the process of returning TESS […] 
+
+<https://science.nasa.gov/missions/tess/nasas-tess-temporarily-pauses-science-observations/>
 
 ---
 
@@ -41,6 +873,16 @@ date: 2024-04-11, updated: 2024-04-11, from: Jason Kottke blog
  
 
 <https://kottke.org/24/04/the-pyramids-of-giza-shrouded-in-mist>
+
+---
+
+## How Netlify used Deno Subhosting to build a successful edge functions product
+
+date: 2024-04-11, updated: 2024-04-11, from: Deno blog
+
+Learn why Netlify chose Deno Subhosting over building their own solution with AWS Lambda to offer a successful edge functions product within weeks. 
+
+<https://deno.com/blog/netlify-subhosting>
 
 ---
 
@@ -81,6 +923,16 @@ date: 2024-04-11, from: Quanta Magazine
 Black holes are inescapable traps for most of what falls into them — but there can be exceptions. The theoretical physicist Leonard Susskind speaks with co-host Janna Levin about the black hole information paradox and how it has propelled modern physics.            <p>The post <a href="https://www.quantamagazine.org/can-information-escape-a-black-hole-20240411/" target="_blank">Can Information Escape a Black Hole?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
 
 <https://www.quantamagazine.org/can-information-escape-a-black-hole-20240411/>
+
+---
+
+## Shawnta M. Ball Turns Obstacles into Opportunities in Goddard’s Education Office
+
+date: 2024-04-11, from: NASA breaking news
+
+When it comes to transforming obstacles into opportunities, it’s all about a “grow where you’re planted” mentality, says Shawnta M. Ball, a program support specialist in Goddard’s education office. Name: Shawnta M. Ball Title: Program Support Specialist Formal Job Classification: Administrative Support Assistant Organization: Office of STEM Engagement (OSTEM, Code 160) How would you describe [&#8230;] 
+
+<https://www.nasa.gov/people-of-nasa/goddard-people/shawnta-ball-turns-obstacles-into-opportunities-in-goddards-education-office/>
 
 ---
 
@@ -127,6 +979,16 @@ I&rsquo;ve been a little less online lately, but not to worry, I have just been 
 Several weeks ago, I gave notice at work and left. Some people in my life were surprised, because it was a good job at a good company, I generally enjoyed it, I got to work with wonderful people, and I was paid money to do it. The younger version of me who hadn&rsquo;t yet figured out a career direction would be curious (and more than a little skeptical) about why I would quit such an objectively good job. 
 
 <https://kwon.nyc/notes/lately/>
+
+---
+
+## 2024 Steering Committee Strategic Planning Meeting Recap
+
+date: 2024-04-11, from: The United States Research Software Engineer Association
+
+In February, the Steering Committee continued the tradition of yearly strategic planning meetings. Like last year, we focused on the direction and areas of focus for US-RSE over the next 3-5 years. We started by reflecting on the highlights and successes of the past year, including the receipt of the... 
+
+<https://us-rse.org/2024-04-11-sc-planning/>
 
 ---
 

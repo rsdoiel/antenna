@@ -1,11 +1,88 @@
 ---
 title: writing 2024.15
-updated: 2024-04-11 07:53:07
+updated: 2024-04-12 08:48:10
 ---
 
 # writing 2024.15
 
-(date: 2024-04-11 07:53:07)
+(date: 2024-04-12 08:48:10)
+
+---
+
+## Jake Casella Brookins Reviews The Siege of Burning Grass>/b> by Premee Mohamed
+
+date: 2024-04-12, from: Locus Magazine
+
+<p><strong>The Siege of Burning Grass</strong>, Premee Mohamed (Solaris 978-1-8378-6046-3, $27.99, 432pp, hc) March 2023.</p>
+<p>“Weird” is a word that’s been worn thin with use, even in regular conversation. I hesitate to apply it in a genre sense – whether old or New – for fear of misusing it, wading too deep into niche catego­rization, or merely adding more wear to the term. But there’s a sense in which its  <a href="https://locusmag.com/2024/04/jake-casella-brookins-reviews-the-siege-of-burning-grass-b-by-premee-mohamed/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/jake-casella-brookins-reviews-the-siege-of-burning-grass-b-by-premee-mohamed/>
+
+---
+
+## How To Create the Suspension of Disbelief in Your Screenplay
+
+date: 2024-04-12, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-create-the-suspension-of-disbelief-in-your-screenplay" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Star%20Wars%20The%20Empire%20Strikes%20Back-1.jpg" alt="Darth Vader holding his hand out to Luke Skywalker in 'Star Wars: The Empire Strikes Back;' How To Create the Suspension of Disbelief in Your Screenplay" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>Suspension of disbelief is when someone takes a fictional narrative and ignores certain aspects that are unrealistic or implausible. English poet and philosopher Samuel Taylor Coleridge is often attributed with introducing the concept of "suspension of disbelief" in his 1817 work Biographia Literaria. However, this notion was acknowledged by earlier Greek writers such as Aristotle.</span></p> 
+
+<https://blog.finaldraft.com/how-to-create-the-suspension-of-disbelief-in-your-screenplay>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-12, from: Neil Gaiman @ BlueSky)
+
+For Coraline fans and for Jill Thompson fans. Her art from the Neil Gaiman colouring book is up for auction:
+
+https://comics.ha.com/c/search/results.zx?dept=1938&mode=live&auction_name=322416&consignor_no=69&type=friend-consignorlive-notice&fbclid=IwAR2ZIECFEHzkVgBRIYJgmE-Jajd8-FQT2Fa3Fj_wk_2p4WkjzCzFJR6c_VM 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kpvmvkc4y52r>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-12, from: Neil Gaiman @ BlueSky)
+
+We don't know that he's horny in this scene. I mean, we can suspect. But he's definitely magical. 
+
+https://ew.com/see-lukas-gage-as-a-horny-cat-king-dead-boy-detectives-clip-8629887 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kpvmdiogmu2z>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-12, from: Neil Gaiman @ BlueSky)
+
+Small true thread.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kpvm3htnj72h>
+
+---
+
+## 2024 Whiting Award Winners
+
+date: 2024-04-11, from: Locus Magazine
+
+<p>The 2024 Whiting Award winners have been announced. Authors of genre interest include Aaliyah Bilal and Yoon Choi, both in the fiction category.</p>
+<p>The ten winners, &#8220;emerging writers in fiction, nonfiction, poetry, and drama,&#8221; each receive $50,000. The award was created by New York investor and philanthropist Flora Ettlinger Whiting in 1971. Recipients of the award are selected by an anonymous committee appointed by the Foundation.</p>
+<p>For more information, including  <a href="https://locusmag.com/2024/04/2024-whiting-award-winners/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/2024-whiting-award-winners/>
+
+---
+
+## Ian Mond Reviews Parasol Against the Axe by Helen Oyeyemi
+
+date: 2024-04-11, from: Locus Magazine
+
+<p><strong>Parasol Against the Axe</strong>, Helen Oyeyemi (Faber &#38; Faber 978-0571366620, £16.99, 272pp, hc) February 2024. (Riverhead 978-0-59319-236-8, $28.00, 272pp, hc) March 2024.</p>
+<p>Helen Oyeyemi’s new novel, <strong>Parasol Against the Axe</strong>, takes place in Prague, Oyeyemi’s home since 2013. Interviewed by The Guardian in 2019, Oyeyemi described Prague as a “very layered city; it could be a film set; it could be a fairytale; it could be a gritty,  <a href="https://locusmag.com/2024/04/ian-mond-reviews-parasol-against-the-axe-by-helen-oyeyemi/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/ian-mond-reviews-parasol-against-the-axe-by-helen-oyeyemi/>
 
 ---
 

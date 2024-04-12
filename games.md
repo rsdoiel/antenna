@@ -1,11 +1,111 @@
 ---
 title: games 2024.15
-updated: 2024-04-11 07:53:07
+updated: 2024-04-12 08:48:10
 ---
 
 # games 2024.15
 
-(date: 2024-04-11 07:53:07)
+(date: 2024-04-12 08:48:10)
+
+---
+
+## How to prepare for Elden Ring’s Shadow of the Erdtree DLC
+
+date: 2024-04-12, updated: 2024-04-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24126482/how-to-prepare-dlc-gear-quests-endgame>
+
+---
+
+## Genshin Impact version 4.6 livestream codes
+
+date: 2024-04-12, updated: 2024-04-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/genshin-impact-guides/24127452/patch-version-4-6-primogem-codes-redeem>
+
+---
+
+## Fallout fans spent years debating who dropped the bombs — then the show made a call
+
+date: 2024-04-12, updated: 2024-04-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24126632/fallout-tv-nuclear-war-bomb-vault-tec-explainer>
+
+---
+
+## Stardew Valley 1.6 kicked up a mad dash for modders, but they were in good hands
+
+date: 2024-04-12, updated: 2024-04-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24127575/stardew-valley-1-6-mod-expanded-east-scarp>
+
+---
+
+## Deadpool & Wolverine extended look is a swear-filled explanation of a multiversal mission
+
+date: 2024-04-11, updated: 2024-04-11, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24127531/deadpool-3-wolverine-trailer-clip-tva-multiverse-rated-r>
+
+---
+
+## Every Easter egg in the Fallout show, in which Easter eggs are very cheeky
+
+date: 2024-04-11, updated: 2024-04-11, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24126630/fallout-easter-egg-season-1-show>
+
+---
+
+## How to change your vocation in Dragon’s Dogma 2
+
+date: 2024-04-11, updated: 2024-04-11, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24106904/change-vocation-class-how-to>
+
+---
+
+## Avatar: The Last Airbender creators’ first movie finds its Aang
+
+date: 2024-04-11, updated: 2024-04-11, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24075133/avatar-last-airbender-animated-sequel-creators-netflix-live-action>
+
+---
+
+## Fallout’s glimpse of the Enclave is just the beginning
+
+date: 2024-04-11, updated: 2024-04-11, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24127532/fallout-enclave-explained-dog-scientist-who-what>
+
+---
+
+## After Barbie tackled the patriarchy, Margot Robbie’s Monopoly movie could take a shot at capitalism next
+
+date: 2024-04-11, updated: 2024-04-11, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24127426/margot-robbie-monopoly-announcement-hasbro-lizzie-magie-capitalism>
 
 ---
 
