@@ -1,11 +1,111 @@
 ---
 title: games 2024.15
-updated: 2024-04-12 08:48:10
+updated: 2024-04-12 17:34:03
 ---
 
 # games 2024.15
 
-(date: 2024-04-12 08:48:10)
+(date: 2024-04-12 17:34:03)
+
+---
+
+## Kung Fu Panda 4, Argylle, Netflix’s The Bricklayer, and every new movie to watch this weekend
+
+date: 2024-04-12, updated: 2024-04-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/4/12/24123440/new-movies-watch-the-bricklayer-netflix-argylle-kung-fu-panda-4>
+
+---
+
+## 4 key things we learned at CinemaCon about 2024’s biggest movies
+
+date: 2024-04-12, updated: 2024-04-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24128842/new-movies-2024-cinemacon-best-trailers-clips>
+
+---
+
+## How to get to the Nameless Village in Dragon’s Dogma 2
+
+date: 2024-04-12, updated: 2024-04-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24110465/nameless-village-how-to-reach>
+
+---
+
+## How to get a house in Dragon’s Dogma 2
+
+date: 2024-04-12, updated: 2024-04-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24106543/buy-house-cost-vernworth-bakbattahl-a-place-to-call-home>
+
+---
+
+## How to play GTA Online solo
+
+date: 2024-04-12, updated: 2024-04-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gta-online-guides/24127344/solo-play-how-to-closed-session>
+
+---
+
+## How to unlock all vocations in Dragon’s Dogma 2
+
+date: 2024-04-12, updated: 2024-04-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24105051/vocations-list-unlock-all-best-what-to-pick-class>
+
+---
+
+## Everything Fallout has revealed about the NCR
+
+date: 2024-04-12, updated: 2024-04-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24125642/fallout-ncr-california-republic-explainer-timeline>
+
+---
+
+## Civil War ditches present politics in favor of gripping action and emotion
+
+date: 2024-04-12, updated: 2024-04-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24099490/civil-war-review-2024-alex-garland>
+
+---
+
+## Add the cast of the Fallout show to your next game of Wasteland Warfare
+
+date: 2024-04-12, updated: 2024-04-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/2024/4/12/24127711/fallout-amazon-tv-show-wasteland-warfare-tabletop-minis>
+
+---
+
+## Arcadian’s shocking aliens can’t fix its criminal Nicolas Cage shortage
+
+date: 2024-04-12, updated: 2024-04-12, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24127309/arcadian-review-nicolas-cage-alien-action-movie>
 
 ---
 

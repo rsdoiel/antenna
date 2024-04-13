@@ -1,11 +1,223 @@
 ---
 title: socal north 2024.15
-updated: 2024-04-12 08:48:10
+updated: 2024-04-12 17:34:02
 ---
 
 # socal north 2024.15
 
-(date: 2024-04-12 08:48:10)
+(date: 2024-04-12 17:34:02)
+
+---
+
+## Undefeated UCLA women’s water polo will travel north to face California
+
+date: 2024-04-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Together they stand, divided they fall.
+With only a few games left in the season, the road to a championship is in sight. 
+And it&#8217;s one the Bruins are walking together. 
+
+<https://dailybruin.com/2024/04/12/undefeated-ucla-womens-water-polo-will-travel-north-to-face-california/>
+
+---
+
+## The City of Santa Clarita Opens 38th Park
+
+date: 2024-04-12, from: City of Santa Clarita
+
+<p>Welcome to Skyline Ranch Park! This past weekend, hundreds of residents joined Santa Clarita City Council and dignitaries for the grand opening of the City’s newest amenity – Skyline Ranch Park! Marking the 38th park in the community, the 10.5-acre park offers activities for everyone! “When the City incorporated in December of 1987, we inherited [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/04/12/the-city-of-santa-clarita-opens-38th-park/">The City of Santa Clarita Opens 38th Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/04/12/the-city-of-santa-clarita-opens-38th-park/>
+
+---
+
+## Former walk-on Kanye Clark earns scholarship, set to fill defensive gaps
+
+date: 2024-04-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Ikaika Malloe remembers the day his walk-on status transformed into a scholarship.
+&#8220;I really cried,&#8221; UCLA football&#8217;s defensive coordinator said. &#8220;I cherish those moments, and I&#8217;ve always held that deep inside.&#8221;
+More than 25 years after his time as a Washington linebacker, one of Malloe&#8217;s players experienced the same transformation as his coach. 
+
+<https://dailybruin.com/2024/04/12/former-walk-on-kanye-clark-earns-scholarship-set-to-fill-defensive-gaps/>
+
+---
+
+## UCLA women’s golf secures 9th place at the Chevron Silverado Showdown
+
+date: 2024-04-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+A year ago, then-sophomore Caroline Canales jumped 16 spots up the leaderboard to finish in the top 10.
+This year, the now-junior climbed eight spots past opponents to secure a third-place finish. 
+
+<https://dailybruin.com/2024/04/12/ucla-womens-golf-secures-9th-place-at-the-chevron-silverado-showdown/>
+
+---
+
+## Meet The Students Running For You!
+
+date: 2024-04-12, from: CI View (CSCI Student Newspaper)
+
+By Ashley Tolteca and Allen Monge 
+
+<http://civiewnews.com/broadcasting/interviewing-your-asi-present-and-vice-president-candidates-for-student-government/?utm_source=rss&utm_medium=rss&utm_campaign=interviewing-your-asi-present-and-vice-president-candidates-for-student-government>
+
+---
+
+## Want to Learn More About Student Elections and ASI? Check Out This Infographic For Everything You Need!
+
+date: 2024-04-12, from: CI View (CSCI Student Newspaper)
+
+By Hilda Lopez 
+
+<http://civiewnews.com/news/why-you-should-vote-and-how-to-do-it/?utm_source=rss&utm_medium=rss&utm_campaign=why-you-should-vote-and-how-to-do-it>
+
+---
+
+## UCLA women’s tennis rides a wave of victory as they best Pepperdine
+
+date: 2024-04-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+It was elation suspended. One final twist in a theater of turns.
+As the ball sailed off Elise Wagle’s racket and touched the opposite baseline, her opponent raised a finger – the shot was called out. 
+
+<https://dailybruin.com/2024/04/12/ucla-womens-tennis-rides-a-wave-of-victory-as-they-best-pepperdine/>
+
+---
+
+## This Week: April 12
+
+date: 2024-04-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Updates from the war in Gaza. President Biden unveils a new student debt relief plan. Podcasts editor Jack Garland and Podcasts contributor Sofia Alcomendas discuss these stories and more. 
+
+<https://dailybruin.com/2024/04/12/this-week-april-12/>
+
+---
+
+## Serving guides UCLA men’s volleyball to sweep of Concordia University Irvine
+
+date: 2024-04-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+John Speraw has long stressed serving as the key to winning volleyball games.
+In his team&#8217;s latest match, the coach&#8217;s theory worked out.
+&#8220;We played hard and we served the ball really well,&#8221; Speraw said. 
+
+<https://dailybruin.com/2024/04/12/serving-guides-ucla-mens-volleyball-to-sweep-of-concordia-university-irvine/>
+
+---
+
+## Ingrid Garner to Present “Eleanor’s Story: An American Girl in Hitler’s Germany”
+
+date: 2024-04-12, from: City of Santa Clarita
+
+<p>Ingrid Garner to Present “Eleanor&#8217;s Story: An American Girl in Hitler&#8217;s Germany”A Profound Odyssey of Survival at The MAIN Join Ingrid Garner is bringing her grandmother’s captivating memoir to the stage this April with “Eleanor’s Story: An American Girl in Hitler’s Germany.” Garner’s internationally acclaimed production sheds light on children in wartime, delivering a powerful [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/04/12/ingrid-garner-to-present-eleanors-story-an-american-girl-in-hitlers-germany/">Ingrid Garner to Present “Eleanor&#8217;s Story: An American Girl in Hitler&#8217;s Germany”</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/04/12/ingrid-garner-to-present-eleanors-story-an-american-girl-in-hitlers-germany/>
+
+---
+
+## Gallery: UCLA beach volleyball celebrates Senior Day with back-to-back sweeps
+
+date: 2024-04-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA beach volleyball took down both Long Beach State and Cal State Northridge 5-0 during its final home duals of the season. The Bruins gave their seniors a farewell at Mapes Beach and now prepare for the Center of Effort Challenge in San Luis Obispo, California. 
+
+<https://dailybruin.com/2024/04/12/gallery-ucla-beach-volleyball-celebrates-senior-day-with-back-to-back-sweeps/>
+
+---
+
+## Jaden Smith feeds kids in need at KICKit World festival
+
+date: 2024-04-12, from: The Sundail (CSUN Student Newspaper)
+
+The first annual KICKit World festival took place in Inglewood, California on April 6, 2024. The event featured a variety of activities and panels, including live performances and masterclasses hosted... 
+
+<https://sundial.csun.edu/180553/multimedia/watch/jaden-smith-feeds-kids-in-need-at-kickit-world-festival/>
+
+---
+
+## Telek: A rising water polo superstar, proud of her Hungarian roots, and driven by a passion for victory
+
+date: 2024-04-12, from: The Sundail (CSUN Student Newspaper)
+
+In collegiate water polo, Dorottya Telek, a junior, has been creating ripples everywhere she plays. Her exceptional talent and unwavering determination have distinguished her as a critical player for CSUN’s... 
+
+<https://sundial.csun.edu/180318/sports/telek-a-rising-water-polo-superstar-proud-of-her-hungarian-roots-and-driven-by-a-passion-for-victory/>
+
+---
+
+## CSUN lecturer continues to encourage social change around the world
+
+date: 2024-04-12, from: The Sundail (CSUN Student Newspaper)
+
+Her journey first began as a little girl. For CSUN lecturer Denice Labertew, advocacy for social change has always been a part of her life. “My mom always said I... 
+
+<https://sundial.csun.edu/180193/news/csun-lecturer-continues-to-encourage-social-change-around-the-world/>
+
+---
+
+## UCLA men’s basketball’s Adem Bona declares for the 2024 NBA Draft
+
+date: 2024-04-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Uncertainty surrounded the status of the Bruins’ starting big – until Thursday.
+Adem Bona will be declaring for the NBA Draft.
+UCLA men’s basketball’s most experienced starter is set to pursue the league, he announced on Instagram on Friday. 
+
+<https://dailybruin.com/2024/04/12/ucla-mens-basketballs-adem-bona-declares-for-the-2024-nba-draft/>
+
+---
+
+## You Are What You Listen To
+
+date: 2024-04-12, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>Consumption is an essential part of human life. Often, when assessing the term ‘consumption,’ people immediately visualize sustenance, clothing, and other physical goods that are most prominent and easily observable in day-to-day life. Nowadays, especially on college campuses, it&#8217;s hard to find students without headphones or earbuds in their ears, making the consumption of music [&#8230;]</p>
+<p>The post <a href="https://pepperdinebeacon.com/you-are-what-you-listen-to/">You Are What You Listen To</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+ 
+
+<https://pepperdinebeacon.com/you-are-what-you-listen-to/?utm_source=rss&utm_medium=rss&utm_campaign=you-are-what-you-listen-to>
+
+---
+
+## Pepperdine Beacon publishes inaugural print edition
+
+date: 2024-04-12, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>The Pepperdine Beacon is proud to publish our inaugural print edition. This collection of articles symbolizes the Beacon’s dedication to Biblical values, free inquiry, and viewpoint diversity. With articles that include coverage of Chris Pratt’s September 11 Remembrance Ceremony remarks, diplomat Richard Haass’ lecture on the future of American democracy, the late Dr. Ted V. [&#8230;]</p>
+<p>The post <a href="https://pepperdinebeacon.com/pepperdine-beacon-publishes-inaugural-print-edition/">Pepperdine Beacon publishes inaugural print edition</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+ 
+
+<https://pepperdinebeacon.com/pepperdine-beacon-publishes-inaugural-print-edition/?utm_source=rss&utm_medium=rss&utm_campaign=pepperdine-beacon-publishes-inaugural-print-edition>
+
+---
+
+## Pepperdine University embraces healthcare for Christian mission, opens College of Health Science
+
+date: 2024-04-12, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>On March 11, Pepperdine Provost Jay Brewster announced that the Board of Regents approved plans for a College of Health Science. The College is scheduled to offer classes at both a School of Nursing and a School of Speech-Language Pathology beginning in August of 2025.&#160; The School of Nursing currently plans to offer a Bachelor [&#8230;]</p>
+<p>The post <a href="https://pepperdinebeacon.com/pepperdine-university-embraces-healthcare-for-christian-mission-opens-college-of-health-science/">Pepperdine University embraces healthcare for Christian mission, opens College of Health Science</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+ 
+
+<https://pepperdinebeacon.com/pepperdine-university-embraces-healthcare-for-christian-mission-opens-college-of-health-science/?utm_source=rss&utm_medium=rss&utm_campaign=pepperdine-university-embraces-healthcare-for-christian-mission-opens-college-of-health-science>
+
+---
+
+## Brahma Blotter: March 25 to April 7, 2024
+
+date: 2024-04-12, from: The Round Up (Pierce College Student Newspaper)
+
+<p>No crimes were reported between March 25 and April 7, 2024. The crime log is made publicly available at the Pierce College Sheriff’s Office.</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/12/brahma-blotter-march-25-to-april-7-2024/">Brahma Blotter: March 25 to April 7, 2024</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/12/brahma-blotter-march-25-to-april-7-2024/?utm_source=rss&utm_medium=rss&utm_campaign=brahma-blotter-march-25-to-april-7-2024>
 
 ---
 
@@ -674,7 +886,7 @@ Following several years between projects, artists are making their return to mus
 
 ## What Support Do Community College Students Need To Transfer?
 
-date: 2024-04-10, updated: 2024-04-10, from: The LAist
+date: 2024-04-10, updated: 2024-04-12, from: The LAist
 
 Across the country, transfer rates remain bleak. Here’s how UCLA’s Scholars Program is working to change that. 
 

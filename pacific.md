@@ -1,11 +1,64 @@
 ---
 title: pacific 2024.15
-updated: 2024-04-12 08:48:10
+updated: 2024-04-12 17:34:02
 ---
 
 # pacific 2024.15
 
-(date: 2024-04-12 08:48:10)
+(date: 2024-04-12 17:34:02)
+
+---
+
+## Hawaiʻi to Berlin: Alumna’s passion for sustainability spurs green startup
+
+date: 2024-04-12, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Genefer Baxter is the chief marketing officer for Aula Future.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/12/genefer-baxter-aula-future/">Hawaiʻi to Berlin: Alumna’s passion for sustainability spurs green startup</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/12/genefer-baxter-aula-future/>
+
+---
+
+## UH volleyball great addresses triumphs, challenges in new memoir
+
+date: 2024-04-12, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> &#8220;Greece Lightning,&#8221; as he was affectionately called by fans, had one of the most decorated careers in <abbr>NCAA</abbr> college sports history.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/12/costas-warrior-for-life/"><abbr>UH</abbr> volleyball great addresses triumphs, challenges in new memoir</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/12/costas-warrior-for-life/>
+
+---
+
+## 19 UH track, field athletes earn academic accolades
+
+date: 2024-04-12, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Women’s track and field student-athletes earn recognition for their performances in the classroom and in competition during the indoor season.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/12/19-track-field-athletes-earn-academic-accolades/">19 <abbr>UH</abbr> track, field athletes earn academic accolades</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/12/19-track-field-athletes-earn-academic-accolades/>
+
+---
+
+## Future Silverswords Explore Chaminade At Admitted Students Day
+
+date: 2024-04-12, from: Chaminade Silversword (Chaminade Univ. student newspaper)
+
+Students and their families came to campus on Saturday to celebrate their acceptance to Chaminade. They toured the campus, received financial aid help, took celebration photos, and learned about all the resources Chaminade offers. They started the day with a welcome from President Lynn Babington and the Assistant Vice President of Enrollment Management, Abigail Hurgo. Admitted... 
+
+<https://thesilversword.com/news/2024/04/12/future-silverswords-explore-chaminade-at-admitted-students-day/>
+
+---
+
+## Chaminade’s Taste of Culture Celebration Showcases Campus Diversity
+
+date: 2024-04-12, from: Chaminade Silversword (Chaminade Univ. student newspaper)
+
+On Wednesday, CSGA hosted its much-anticipated Taste of Culture, a showcase of diversity, flavors, and community spirit. With each club providing a unique dish or two, it allowed students to try food from various cultures all while staying in the grounds of Zuberano Lawn. The coordinator of the event and Student Life Vice President, Sean-Zacharry... 
+
+<https://thesilversword.com/news/2024/04/12/chaminades-taste-of-culture-celebration-showcases-campus-diversity/>
 
 ---
 

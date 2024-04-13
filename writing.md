@@ -1,15 +1,103 @@
 ---
 title: writing 2024.15
-updated: 2024-04-12 08:48:10
+updated: 2024-04-12 17:34:03
 ---
 
 # writing 2024.15
 
-(date: 2024-04-12 08:48:10)
+(date: 2024-04-12 17:34:03)
 
 ---
 
-## Jake Casella Brookins Reviews The Siege of Burning Grass>/b> by Premee Mohamed
+## 2023 HWA Specialty Awards
+
+date: 2024-04-12, from: Locus Magazine
+
+<p>The Horror Writers Association (HWA) has announced the recipients of its 2023 Specialty Awards.</p>
+<p>Thunderstorm Books is the recipient of the Specialty Press Award, given &#8220;to a publisher whose work has substantially influenced the horror and dark fantasy genres.&#8221;</p>
+<p>The Richard Laymon President&#8217;s Award, &#8220;presented to a member who has served HWA in an exemplary manner and shown exceptional dedication to the organization,&#8221; goes to Brian W. Matthews. The winner  <a href="https://locusmag.com/2024/04/2023-hwa-specialty-awards/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/2023-hwa-specialty-awards/>
+
+---
+
+## 🪤 #196 - It's A Trap!
+
+date: 2024-04-12, from: Interesting, a blog on writing
+
+"The trap isn't a trap if you know the trap is trying to trap you. It's a face-off." -Peter Quill 
+
+<https://inneresting.substack.com/p/196-its-a-trap>
+
+---
+
+## Moonshot Initiative Wants To Help You Pitch Your Pilot in Hollywood
+
+date: 2024-04-12, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/moonshot-initiative-wants-to-help-you-pitch-your-pilot-in-hollywood" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Pilot%20Accelerator%20Fellows%202021%20and%202023.jpg" alt="Moonshot Initiative Wants To Help You Pitch Your Pilot in Hollywood" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Getting into a room to pitch your ideas for a new series is the dream for screenwriters. These meetings are a big part of selling scripts, landing writing assignments, or breaking into writers' rooms in Hollywood, but getting into the room can seem impossible.</p> 
+
+<https://blog.finaldraft.com/moonshot-initiative-wants-to-help-you-pitch-your-pilot-in-hollywood>
+
+---
+
+## Mokkil Wins 2024 AC Bose Grant
+
+date: 2024-04-12, from: Locus Magazine
+
+<p class="p1"></p>
+<p>Vineetha Mokkil is the recipient of the 2024 A.C. Bose Grant for South Asian Speculative Literature, presented by the Speculative Literature Foundation (SLF) and DesiLit.</p>
+<p>The $1,000 grant is given annually to &#8220;a South Asian / South Asian diaspora writer developing speculative fiction.&#8221; Saini’s winning work is &#8220;No One Has To Know and Other Stories&#8221;.</p>
+<p>For more information, see the SLF website.</p>
+
+<p>
+
+
+     (adsbygoogle = window.adsbygoogle &#124;&#124; []).push({});
+
+<strong>While you are </strong> <a href="https://locusmag.com/2024/04/mokkil-wins-2024-ac-bose-grant/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/mokkil-wins-2024-ac-bose-grant/>
+
+---
+
+## 2024 Romantic Novel Awards Shortlists
+
+date: 2024-04-12, from: Locus Magazine
+
+<p>The Romantic Novelists&#8217; Association (RNA) has announced shortlists for the 2024 Romantic Novel Awards, including titles of genre interest.</p>
+<div class="mynomorebulletlist">
+<p><strong>The Fantasy Romantic Novel Award</strong></p>
+<ul>
+<li><strong>Girl, Goddess, Queen</strong>, Bea Fitzgerald (Penguin)</li>
+<li><strong>One Christmas Morning</strong>, Rachel Greenlaw (Harper Collins)</li>
+<li><strong>Maybe Next Time</strong>, Cesca Major (Harper Fiction)</li>
+<li><strong>Ghosted</strong>, Rosie Mullender (Sphere)</li>
+<li><strong>The Wicked in Me,</strong> Suzanne Wright (Piatkus)</li>
+</ul>
+<p><strong>The Contemporary Romantic Novel Award</strong></p>
+<ul>
+<li><strong>A Midnight Kiss on Ever After </strong></li></ul></div> <a href="https://locusmag.com/2024/04/2024-romantic-novel-awards-shortlists/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/04/2024-romantic-novel-awards-shortlists/>
+
+---
+
+## John Barth (1930-2024)
+
+date: 2024-04-12, from: Locus Magazine
+
+<p>Author John Barth, 93, died April 2, 2024 at a hospice in Bonita Springs FL. Barth was famed for his (often hilarious) experimental fiction.</p>
+<p>His debut <strong>The Floating Opera</strong> appeared in 1956, but he attained literary fame with his third novel, <strong>The Sot-Weed Factor</strong> (1960). His innovations occasionally led him into speculative territory, notably in <strong>Giles Goat-Boy </strong>(1966) and <strong>The Last Voyage of Somebody the Sailor</strong> (1991). His 1967 essay  <a href="https://locusmag.com/2024/04/john-barth-1930-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/john-barth-1930-2024/>
+
+---
+
+## Jake Casella Brookins Reviews The Siege of Burning Grass by Premee Mohamed
 
 date: 2024-04-12, from: Locus Magazine
 

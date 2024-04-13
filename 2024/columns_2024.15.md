@@ -1,11 +1,74 @@
 ---
 title: columns 2024.15
-updated: 2024-04-12 08:48:10
+updated: 2024-04-12 17:34:03
 ---
 
 # columns 2024.15
 
-(date: 2024-04-12 08:48:10)
+(date: 2024-04-12 17:34:03)
+
+---
+
+## Microsoft Is Testing Ads in the Windows 11 Start Menu
+
+date: 2024-04-12, updated: 2024-04-12, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/2024/4/12/24128640/microsoft-windows-11-start-menu-ads-app-recommendations>
+
+---
+
+## Friday Squid Blogging: The Awfulness of Squid Fishing Boats
+
+date: 2024-04-12, updated: 2024-04-05, from: Bruce Schneier blog
+
+<p>It&#8217;s a pretty <a href="https://pulitzercenter.org/stories/they-catch-squid-worlds-table-deckhands-chinese-ships-pay-deadly-price">awful story</a>.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>
+<p>Read my blog posting guidelines <a href="https://www.schneier.com/blog/archives/2017/03/commenting_poli.html">here</a>.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/04/friday-squid-blogging-the-awfulness-of-squid-fishing-boats.html>
+
+---
+
+## Joanna Stern’s Humane AI Pin (Mini) Review
+
+date: 2024-04-12, updated: 2024-04-12, from: Daring Fireball
+
+ 
+
+<https://twitter.com/joannastern/status/1778469290988994741>
+
+---
+
+## Cherlynn Low’s Humane AI Pin Review for Engadget
+
+date: 2024-04-12, updated: 2024-04-12, from: Daring Fireball
+
+ 
+
+<https://www.engadget.com/the-humane-ai-pin-is-the-solution-to-none-of-technologys-problems-120002469.html>
+
+---
+
+## Green’s Dictionary of Slang
+
+date: 2024-04-12, updated: 2024-04-12, from: Daring Fireball
+
+ 
+
+<https://greensdictofslang.com/>
+
+---
+
+## Microsoft’s Hard-Sell Pitch to Windows 10 Users With PCs Ineligible for Windows 11
+
+date: 2024-04-12, updated: 2024-04-12, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/2024/4/11/24127497/microsoft-windows-10-upgrade-prompt-windows-11>
 
 ---
 
@@ -21,11 +84,11 @@ date: 2024-04-12, updated: 2024-04-11, from: Bruce Schneier blog
 
 ---
 
-## Don’t call it the “hush money” case
+## How to understand next week's Trump criminal felony trial
 
 date: 2024-04-12, from: Robert Reich's blog
 
-Trump wants you to think that all he did was try to cover up a sexual affair 
+Trump wants you to think that all he did was try to cover up a sexual affair. Wrong. 
 
 <https://robertreich.substack.com/p/dont-call-it-the-hush-money-case>
 
@@ -93,7 +156,7 @@ The Public House The OED says that “pub” is an abbreviation of ‘Public Hou
 
 ## Automattic Acquires Beeper, Will Merge With Texts
 
-date: 2024-04-11, updated: 2024-04-11, from: Daring Fireball
+date: 2024-04-11, updated: 2024-04-12, from: Daring Fireball
 
  
 

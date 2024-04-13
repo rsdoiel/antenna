@@ -1,11 +1,336 @@
 ---
 title: tech likely 2024.15
-updated: 2024-04-12 08:48:10
+updated: 2024-04-12 17:34:02
 ---
 
 # tech likely 2024.15
 
-(date: 2024-04-12 08:48:10)
+(date: 2024-04-12 17:34:02)
+
+---
+
+## Microsoft tests ads in the Start menu
+
+date: 2024-04-12, from: OS News
+
+Building on top of recent improvements like grouping recently installed apps and showing your frequently used apps, we are now trying out recommendations to help you discover great apps from the Microsoft Store under Recommended on the Start menu. This will appear only for Windows Insiders in the Beta Channel in the U.S. and will not apply to commercial devices (devices managed by organizations). This can be turned off by going to Settings > Personalization > Start and turning off the toggle for “Show recommendations for tips, app promotions, and more”. As a reminder, we regularly try out new experiences and concepts that may never get released with Windows Insiders to get feedback. Should you see this experience on the Start menu, let us know what you think. We are beginning to roll this out to a small set of Insiders in the Beta Channel at first. ↫ Amanda Langowski and Brandon LeBlanc The Start menu, August 24, 1995 &#8211; April 12, 2024. You made it almost 30 years, buddy. 
+
+<https://www.osnews.com/story/139276/microsoft-tests-ads-in-the-start-menu/>
+
+---
+
+## This Week in the IndieWeb
+
+date: 2024-04-12, from: This week in Indie Web
+
+
+
+<h1><a href="https://indieweb.org/this-week/2024-04-12.html">April 5-12, 2024</a></h1>
+<h2 id="recent-events">Recent Events</h2><p>From <a href="https://events.indieweb.org/archive">events.indieweb.org/archive</a>:</p>
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/04/homebrew-website-club-pacific-0qnrWmKCwpGQ" class="u-url">Homebrew Website Club - Pacific</a></div>
+<time class="dt-start" datetime="2024-04-10T18:00:00+00:00">Wednesday, April 10 at 6:00pm</time><br>
+<div><img src="https://indieweb.org/this-week/images/2024-04-12/ee53cf1c5dcab7631158e406c9d47d0bbd26e577.jpg" style="width:100%" class="u-photo"></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/04/homebrew-website-club-europe-london-M8iPbD1KKfx6" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-04-10T19:00:00+00:00">Wednesday, April 10 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary"><p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, a coder, or all the above.</p></div><div><img src="https://indieweb.org/this-week/images/2024-04-12/75d10a7f6023305ace9617b0120153ae94f52f96.jpg" style="width:100%" class="u-photo"></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/04/homebrew-website-club-nuremberg-germany-jWjJuRLEP8Q6" class="u-url">Homebrew Website Club - Nuremberg/Germany</a></div>
+<time class="dt-start" datetime="2024-04-10T18:00:00+00:00">Wednesday, April 10 at 6:00pm</time><br>
+<ul><li>FÜRTH, Bayern: Fab Lab Region Nürnberg e.V.</li></ul><div style="font-style: italic" class="e-summary"><p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p></div><div><img src="https://indieweb.org/this-week/images/2024-04-12/c68524818ac360bf01f29640c1ecd408c675e4e4.jpg" style="width:100%" class="u-photo"></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/04/bonus-online-homebrew-website-club-writing-edition-GfCS201HYMFe" class="u-url">Bonus Online Homebrew Website Club - Writing Edition</a></div>
+<time class="dt-start" datetime="2024-04-08T20:00:00+00:00">Monday, April 8 at 8:00pm</time><br>
+</div>
+<h2 id="upcoming-events">Upcoming Events</h2><p>From <a href="https://events.indieweb.org/">events.indieweb.org</a>:</p>
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/04/homebrew-website-club-pacific-Jj04nioaVNRW" class="u-url">Homebrew Website Club - Pacific</a></div>
+<time class="dt-start" datetime="2024-04-24T18:00:00-07:00">Wednesday, April 24 at 6:00pm</time><br>
+</div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/04/homebrew-website-club-edinburgh-R0PUj1pjs3wC" class="u-url">Homebrew Website Club Edinburgh</a></div>
+<time class="dt-start" datetime="2024-04-30T18:00:00+01:00">Tuesday, April 30 at 6:00pm</time><br>
+<ul><li>EDINBURGH, Scotland: </li></ul></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/05/homebrew-website-club-nuremberg-germany-ZV7tRJTKsL71" class="u-url">Homebrew Website Club - Nuremberg/Germany</a></div>
+<time class="dt-start" datetime="2024-05-08T18:00:00+02:00">Wednesday, May 8 at 6:00pm</time><br>
+<ul><li>FÜRTH, Bayern: Fab Lab Region Nürnberg e.V.</li></ul><div style="font-style: italic" class="e-summary"><p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/05/indiewebcamp-düsseldorf-2024-lPSJYTuqCdL2" class="u-url">IndieWebCamp Düsseldorf 2024</a></div>
+<time class="dt-start" datetime="2024-05-11T00:00:00+00:00">May 11</time> - <time class="dt-end" datetime="2024-05-12T00:00:00+00:00">May 12</time><br>
+<ul><li>DÜSSELDORF, Nordrhein-Westfalen: Düsseldorf city libraries</li></ul><div style="font-style: italic" class="e-summary"><p>IndieWebCamp Düsseldorf 2024 is scheduled for 2024-05-11…12, the weekend before btconf Düsseldorf 2024, at The City Library on Saturday, and Organizers are looking for local suggestions for a Sunday venue!</p></div></div>
+<h2 id="news">What We’re Reading</h2><p>From <a href="https://news.indieweb.org/en">news.indieweb.org</a>:</p><div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://manuelmoreale.com/thoughts/pb-tracy-durnell" class="u-url p-name">Tracy’s site is great and has so much good content. It’s cool to hear how it’s changed over the years.</a></div><div>by <a href="https://manuelmoreale.com" class="p-author h-card">manuelmoreale.com</a> on <a href="https://manuelmoreale.com/thoughts/pb-tracy-durnell"><time class="dt-published" datetime="2024-04-12T19:26:45+00:00">April 12</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://werd.io/2024/writing-a-web-first-resum%C3%A9" class="u-url p-name">Writing a web-first resumé</a></div><div>by <a href="https://werd.io/profile/benwerd" class="p-author h-card">werd.io/profile/benwerd</a> on <a href="https://werd.io/2024/writing-a-web-first-resum%C3%A9"><time class="dt-published" datetime="2024-04-09T16:03:24+00:00">April 9</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://seirdy.one/notes/2024/04/09/partial-credit-for-css-naked-day/" class="u-url p-name">Partial credit for CSS Naked Day</a></div><div>by <a href="https://seirdy.one/" class="p-author h-card">seirdy.one</a> on <a href="https://seirdy.one/notes/2024/04/09/partial-credit-for-css-naked-day/"><time class="dt-published" datetime="2024-04-09T04:04:52+00:00">April 9</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://jamesg.blog/2024/04/03/homebrew-website-club/" class="u-url p-name">homebrew website club</a></div><div>by <a href="https://jamesg.blog" class="p-author h-card">jamesg.blog</a> on <a href="https://jamesg.blog/2024/04/03/homebrew-website-club/"><time class="dt-published" datetime="2024-04-08T14:04:47+00:00">April 8</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://jamesg.blog/2024/04/08/wander/" class="u-url p-name">My wander page</a></div><div>by <a href="https://jamesg.blog" class="p-author h-card">jamesg.blog</a> on <a href="https://jamesg.blog/2024/04/08/wander/"><time class="dt-published" datetime="2024-04-08T14:04:13+00:00">April 8</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://indiebookclub.biz/updates#post-2024-04-07" class="u-url p-name">indiebookclub version 0.1.2 launched</a></div><div>by <a href="https://indiebookclub.biz" class="p-author h-card">indiebookclub.biz</a> on <a href="https://indiebookclub.biz/updates#post-2024-04-07"><time class="dt-published" datetime="2024-04-07T20:14:37+00:00">April 7</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://seirdy.one/posts/2024/04/04/mdn-ai-help-and-lucid-lies/" class="u-url p-name">MDN’s AI Help and lucid lies</a></div><div>by <a href="https://seirdy.one/" class="p-author h-card">seirdy.one</a> on <a href="https://seirdy.one/posts/2024/04/04/mdn-ai-help-and-lucid-lies/"><time class="dt-published" datetime="2024-04-05T23:41:22+00:00">April 5</time></a></div></div>
+
+
+<h2 id="new-wiki-pages">Top New Wiki Pages</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb Wiki: New Pages</a>:</p>
+<h3><a href="https://indieweb.org/Flarum">Flarum</a></h3><p>Flarum is open source forum software used to run IndieWebForum.</p><p style="font-size:0.8em;">Created by gRegor on Friday and edited 1 more time</p>
+<h3><a href="https://indieweb.org/roach_motel">roach motel</a></h3><p>roach motel is a metaphor for a silo that accepts data but does not allow exporting to other platforms based on a US insect trap advertisement campaign "roaches check in, but they don't check out".</p><p style="font-size:0.8em;">Created by [aciccarello] on Tuesday and edited 1 more time</p>
+<h2 id="new-event-notes">New Event Notes</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb Wiki: New Pages</a>:</p>
+
+<p><b>Homebrew Website Club Europe/London:</b> <a href="https://indieweb.org/events/2024-04-10-hwc-europe">2024-04-10</a></p>
+<p><b>Bonus Online Homebrew Website Club - Writing Edition:</b> <a href="https://indieweb.org/events/2024-04-08-hwc-europe-writing">2024-04-08</a></p>
+<p><b>Homebrew Website Club - Nuremberg/Germany:</b> <a href="https://indieweb.org/events/2024-04-10-hwc-nuremberg">2024-04-10</a></p>
+<p><b>Homebrew Website Club - Pacific:</b> <a href="https://indieweb.org/events/2024-04-10-hwc-pacific">2024-04-10</a></p>
+
+<h2 id="changed-wiki-pages">Top Edited Wiki Pages</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?namespace=0&title=Special%3ARecentChanges">IndieWeb Wiki: Recent Changes</a>:</p>
+<ul>
+<li><b><a href="https://indieweb.org/2024/D%C3%BCsseldorf">2024/Düsseldorf</a></b> <a href="https://indieweb.org/wiki/index.php?title=2024%2FD%C3%BCsseldorf&amp;action=historysubmit&amp;diff=94599&amp;oldid=90248">4 edits</a> by tantek.com</li>
+<li><b><a href="https://indieweb.org/discuss">discuss</a></b> <a href="https://indieweb.org/wiki/index.php?title=discuss&amp;action=historysubmit&amp;diff=94547&amp;oldid=94486">4 edits</a> by alabut.com and tantek.com</li>
+<li><b><a href="https://indieweb.org/large_language_model">large language model</a></b> <a href="https://indieweb.org/wiki/index.php?title=large+language+model&amp;action=historysubmit&amp;diff=94560&amp;oldid=94411">3 edits</a> by loqi.me and tantek.com</li>
+<li><b><a href="https://indieweb.org/markdown">markdown</a></b> <a href="https://indieweb.org/wiki/index.php?title=markdown&amp;action=historysubmit&amp;diff=94540&amp;oldid=90368">3 edits</a> by qubyte.codes</li>
+<li><b><a href="https://indieweb.org/Planning">Planning</a></b> <a href="https://indieweb.org/wiki/index.php?title=Planning&amp;action=historysubmit&amp;diff=94595&amp;oldid=94230">2 edits</a> by tantek.com</li>
+<li><b><a href="https://indieweb.org/stream">stream</a></b> <a href="https://indieweb.org/wiki/index.php?title=stream&amp;action=historysubmit&amp;diff=94593&amp;oldid=91636">2 edits</a> by loqi.me and www.ciccarello.me</li>
+<li><b><a href="https://indieweb.org/Homebrew_Website_Club">Homebrew Website Club</a></b> <a href="https://indieweb.org/wiki/index.php?title=Homebrew+Website+Club&amp;action=historysubmit&amp;diff=94573&amp;oldid=94511">2 edits</a> by bjoern.stierand.org</li>
+<li><b><a href="https://indieweb.org/small_web">small web</a></b> <a href="https://indieweb.org/wiki/index.php?title=small+web&amp;action=historysubmit&amp;diff=94554&amp;oldid=90851">2 edits</a> by tantek.com and loqi.me</li></ul>
+
+ 
+
+<https://indieweb.org/this-week/2024-04-12.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-04-12, from: Miguel de Icaza Mastondon feed)
+
+<p>The one thing I am dreading about Godot/iPad is setting up the CI on Xcode Cloud.</p><p>Those devices are powered by modded raspberry pis running MacOS.</p><p>I am thinking that one hack might be to use GitHub CI + custom runners that SSH into my Studio to do the heavy lifting, and then use those binaries as the input to Xcode Cloud.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112260334321425886>
+
+---
+
+## No Photoshop needed!
+
+date: 2024-04-12, from: Status-Q blog
+
+I was, unfortunately, beheaded today, while visiting Teylers Museum in Haarlem.  This was a trifle inconvenient, but I still managed to smile about it.  This is straight out of the iPhone camera, with no image manipulation. I look a slightly funny colour not because of embarrassment at my recent decapitation, because I got rather too <a class="more-link excerpt-link" href="https://statusq.org/archives/2024/04/12/12003/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<https://statusq.org/archives/2024/04/12/12003/>
+
+---
+
+## Superhuman AGI is not nigh
+
+date: 2024-04-12, from: Gary Marcus blog
+
+Why Elon was probably wise not to take the bet 
+
+<https://garymarcus.substack.com/p/superhuman-agi-is-not-nigh>
+
+---
+
+##  Proudly Second Best! 
+
+date: 2024-04-12, updated: 2024-04-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/proudly-second-best>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-04-12, from: Tomosino's Mastodon feed)
+
+<p>What specific thing this week reminded you that we are living in the evil universe?</p> 
+
+<https://tilde.zone/@tomasino/112259956243195255>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-04-12, from: Miguel de Icaza Mastondon feed)
+
+<p>So I was quite happy with some UI to connect signals on the iPad, when I thought &quot;Miguel, let us try this without the hardware keyboard&quot;.</p><p>Now I need to go back to the drawing board.</p><p>Thinking I can stash the &quot;search&quot; on the navigation bar.</p><p>It is a replacement for the UI on the 3rd screenshot:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112259843614276394>
+
+---
+
+##  Starting in 1978, a high school science teacher told his students that... 
+
+date: 2024-04-12, updated: 2024-04-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044389-starting-in-1978-a-high>
+
+---
+
+## The April 8 Total Solar Eclipse: Through the Eyes of NASA
+
+date: 2024-04-12, from: NASA breaking news
+
+On April 8, 2024, the Moon’s shadow swept across North America, treating millions to a breathtaking view of a total solar eclipse. As the Moon passed in front of the Sun, it revealed the Sun’s wispy white outer atmosphere — the corona. Pictures of total solar eclipses are beautiful — they capture a moment happening […] 
+
+<https://science.nasa.gov/solar-system/skywatching/april-8-total-solar-eclipse-through-the-eyes-of-nasa/>
+
+---
+
+## Swift for C++ Practitioners
+
+date: 2024-04-12, from: Michael Tsai
+
+Doug Gregor: I&#8217;ve started a blog series aimed at C++ programmers who are interested in learning #SwiftLang. It teaches the breadth of the Swift language, but anchored in the features and idioms of C++. So if you know your Rule Of Fives and your SFINAEs and think you might be interested in Swift, I&#8217;d love [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/12/swift-for-c-practitioners/>
+
+---
+
+## Effects of the DMA’s Browser Choice Requirement
+
+date: 2024-04-12, from: Michael Tsai
+
+Ashley Belanger: Smaller web browsers are gaining traction in the European Union after the Digital Markets Act (DMA) started requiring designated gatekeepers like Google and Apple to make it easier to switch default web browsers on devices.[&#8230;]Reuters collected data from six companies, confirming that, when presented with a choice screen, many EU users will swap [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/12/effects-of-the-dmas-browser-choice-requirement/>
+
+---
+
+## “Don’t Let Me Go” and iCloud Storage Tiers
+
+date: 2024-04-12, from: Michael Tsai
+
+John Gruber: The gist of the commercial is that you shouldn&#8217;t worry about deleting photos to free up storage, because modern iPhones have plenty of space. [&#8230;] But this commercial made me want to yell at my TV each time it came on: &#8220;The problem is iCloud storage, not on-device storage!&#8221; The free tier of [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/12/dont-let-me-go-and-icloud-storage-tiers/>
+
+---
+
+## Grindr’s Plan to Squeeze Its Users
+
+date: 2024-04-12, from: Michael Tsai
+
+Zo&#235; Schiffer: Since its initial public offering in 2022, Grindr has been on a rocky road financially. Its stock has fallen 70 percent since its SPAC. After hitting an IPO-high of $71.51, it currently sits at $10.13. Last summer, employees announced plans to unionize, amid industry layoffs and worries that the company was losing its [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/12/grindrs-plan-to-squeeze-its-users/>
+
+---
+
+## 45 Years Ago: Space Shuttle Enterprise Arrives at NASA’s Kennedy Space Center
+
+date: 2024-04-12, from: NASA breaking news
+
+Enterprise, the first space shuttle orbiter that NASA built, arrived at NASA’s Kennedy Space Center (KSC) in Florida on April 10, 1979. Although not space worthy, as a pathfinder Enterprise carried out tasks critical to ensuring the success of the space shuttle program. During its four-month stay at KSC, Enterprise validated procedures for the assembly [&#8230;] 
+
+<https://www.nasa.gov/history/45-years-ago-space-shuttle-enterprise-arrives-at-nasas-kennedy-space-center/>
+
+---
+
+## The Ocean Touches Everything: Celebrate Earth Day with NASA
+
+date: 2024-04-12, from: NASA breaking news
+
+On Earth Day, Learn How NASA Investigates the Blue in Our Blue Planet This Earth Day, join us in person and online to learn how NASA studies the ocean from space. Explore the complex connections between sea, air, land, and climate through a mix of in-person and virtual activities, talks, and trivia. For nearly five [&#8230;] 
+
+<https://www.nasa.gov/earth/earth-day/the-ocean-touches-everything-celebrate-earth-day-with-nasa/>
+
+---
+
+##  Liam Neeson is starring in a Naked Gun reboot? Why? Is it... 
+
+date: 2024-04-12, updated: 2024-04-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044385-liam-neeson-is-starring-i>
+
+---
+
+## The First Space Shuttle
+
+date: 2024-04-12, from: NASA breaking news
+
+In this image from April 12, 1981, the first space shuttle, STS-1, launches from NASA’s Kennedy Space Center in Florida with NASA astronauts John W. Young, commander, and Robert L. Crippen, pilot, aboard. STS-1 was meant to demonstrate a safe launch into orbit and a safe return of the orbiter and crew, as well as [&#8230;] 
+
+<https://www.nasa.gov/image-article/the-first-space-shuttle/>
+
+---
+
+## CRY HAVOC! 
+
+date: 2024-04-12, from: Howard Jacobson blog
+
+I&#8217;m not sure why I&#8217;ve written these thoughts on chaos. I think what&#8217;s prompted it is an exchange in that supremely intelligent film The Anatomy of a Fall in the course of which the heroine, accused of murdering her husband, makes this spirited defence of marital havoc to the prosecuting counsel - &#8216;I don't know you, and you come here with your notes and explain to me who Samuel was, and what we were going through... But what you say is not reality. There are times when a couple is 
+
+<https://jacobsonh.substack.com/p/cry-havoc>
+
+---
+
+##  Mount Etna Volcano Blowing Perfect Smoke Rings 
+
+date: 2024-04-12, updated: 2024-04-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/mount-etna-volcano-blowing-perfect-smoke-rings>
+
+---
+
+## NASA Invites Media to Mars Sample Return Update
+
+date: 2024-04-12, from: NASA breaking news
+
+NASA will host a media teleconference at 1 p.m. EDT, Monday, April 15, to discuss the agency’s response to a Mars Sample Return Independent Review Board report from September 2023, including next steps for the program. The teleconference will livestream at: https://www.nasa.gov/nasatv Mars Sample Return has been a major long-term goal of international planetary exploration [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-mars-sample-return-update/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-12, from: Dave Winer's Scripting News)
+
+My wpidentity package now has <a href="https://github.com/scripting/wpIdentity/blob/main/docs/storage.md">storage</a>. 
+
+<http://scripting.com/2024/04/12.html#a165119>
+
+---
+
+##  Why don&#8217;t we have solar eclipses every month? Because we don&#8217;t deserve... 
+
+date: 2024-04-12, updated: 2024-04-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044381-why-dont-we-have-solar>
+
+---
+
+## OpenBSD 7.5 locks down with root disk encryption and syscall limitations
+
+date: 2024-04-12, updated: 2024-04-12, from: Liam Proven's articles at the Register
+
+<h4>The most secure Unix-like OS to date?</h4>
+      <p>The OpenBSD project's 56th release is arguably the most secure Unix-like OS to date.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/04/12/openbsd_75/>
+
+---
+
+##  Jamelle Bouie on the inappropriate use of the presumed intent of the... 
+
+date: 2024-04-12, updated: 2024-04-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044384-jamelle-bouie-on-the-inap>
 
 ---
 
@@ -51,7 +376,7 @@ date: 2024-04-12, from: Dave Karpf's blog
 
 **@Dave Winer's Scripting News** (date: 2024-04-12, from: Dave Winer's Scripting News)
 
-I really want to see <a href="https://en.wikipedia.org/wiki/Civil_War_(film)">Civil War</a>. Gets an <a href="https://www.nytimes.com/2024/04/11/movies/civil-war-review.html?unlocked_article_code=1.j00.0dgt.ypcBLXWqMNLX&smid=url-share">amazing review</a> from the NYT movie critic. 
+I really want to see <a href="https://en.wikipedia.org/wiki/Civil_War_(film)">Civil War</a>. Gets an <a href="https://www.nytimes.com/2024/04/11/movies/civil-war-review.html?unlocked_article_code=1.j00.0dgt.ypcBLXWqMNLX&smid=url-share">amazing review</a> in NYT. 
 
 <http://scripting.com/2024/04/12.html#a140815>
 
@@ -1472,16 +1797,6 @@ date: 2024-04-10, updated: 2024-04-10, from: Jason Kottke blog
 
 ---
 
-## Nix is a better Docker image builder than Docker's image builder
-
-date: 2024-04-10, from: Ze Iaso's blog
-
- 
-
-<https://xeiaso.net/talks/2024/nix-docker-build/>
-
----
-
 ##  The Climate Charts Are Not Okay. &#8220;The charts are hilariously underpowered attempts... 
 
 date: 2024-04-10, updated: 2024-04-10, from: Jason Kottke blog
@@ -2383,7 +2698,7 @@ Apple (Hacker News): 4.7: Added games from retro game console emulator apps to t
 
 date: 2024-04-08, from: Doc Searls (at Harvard), New Old Blog
 
-Contrails form behind jet aircraft flying through the stratosphere. Since high-altitude aviation is happening all around the earth more or less constantly, planes are painting the sky everywhere. (Here is one time-lapse.) Many contrails don&#8217;t last, of course, but many do, and together they account for much of the cloud cover we see every day. [&#8230;] 
+Contrails form behind jet aircraft flying through the stratosphere. Since high-altitude aviation is happening all around the earth more or less constantly, planes are painting the sky everywhere. (Here is one time-lapse. And another. And one of my own.) Many contrails don&#8217;t last, of course, but many do, and together they account for much of [&#8230;] 
 
 <https://doc.searls.com/2024/04/08/aviation-vs-eclipse/>
 

@@ -1,11 +1,31 @@
 ---
 title: motorcycles 2024.15
-updated: 2024-04-12 08:48:11
+updated: 2024-04-12 17:34:03
 ---
 
 # motorcycles 2024.15
 
-(date: 2024-04-12 08:48:11)
+(date: 2024-04-12 17:34:03)
+
+---
+
+## Watch What Happens When You Take A Honda Gold Wing Ice Fishing
+
+date: 2024-04-12, from: Ride Apart, Electric Motorcycle News
+
+Sketch City, population: You. 
+
+<https://www.rideapart.com/news/715809/honda-goldwing-ice-fishing-mattspears/>
+
+---
+
+## CNG-Powered Bajaj on Way
+
+date: 2024-04-12, from: Cycle World News
+
+Indian brand Bajaj is one of the largest motorcycle makers in the world, and is looking to add a pair of CNG-powered models to its lineup for the domestic market. 
+
+<https://www.cycleworld.com/motorcycle-news/cng-powered-bajaj-coming-soon/>
 
 ---
 

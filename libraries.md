@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.15
-updated: 2024-04-12 08:48:11
+updated: 2024-04-12 17:34:03
 ---
 
 # libraries 2024.15
 
-(date: 2024-04-12 08:48:11)
+(date: 2024-04-12 17:34:03)
+
+---
+
+## National Library Week 2024 Round-up
+
+date: 2024-04-12, from: Association of Research Libraries News
+
+<p>Last Updated on April 12, 2024, 4:45 pm ET As the Association of Research Libraries concludes our celebration of National Library Week 2024, we recognize the important contributions that libraries...</p>
+<p>The post <a href="https://www.arl.org/blog/national-library-week-2024-round-up/">National Library Week 2024 Round-up</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/blog/national-library-week-2024-round-up/>
 
 ---
 

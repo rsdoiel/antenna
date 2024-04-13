@@ -10,6 +10,7 @@ https://www.cnps.org/feed "~California Native Plants Society"
 https://www.cnps-scv.org/?format=feed&type=rss "~California Native Plants Society, Santa Clarita"
 https://antonz.org/all/index.xml "~Anton Zhiyanov blog"
 #https://us11.campaign-archive.com/feed?u=b45e3f84fc6604dfac0c95efa&id=aba581b08e "~Ion Caltech"
+https://tracydurnell.com/feed/ "~Tracy Durnell Blog"
 
 #
 # Corporate blogs
