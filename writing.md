@@ -1,11 +1,65 @@
 ---
 title: writing 2024.16
-updated: 2024-04-15 09:53:28
+updated: 2024-04-15 17:43:19
 ---
 
 # writing 2024.16
 
-(date: 2024-04-15 09:53:28)
+(date: 2024-04-15 17:43:19)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-15, from: Neil Gaiman @ BlueSky)
+
+In which I am mercilessly guyed and yet somehow come out ahead:
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kq765kfcrb2l>
+
+---
+
+## Weekly Bestsellers, 15 April 2024
+
+date: 2024-04-15, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+<p>Three titles debut on lists this week. Kelly Andrew&#8217;s <b>Your Blood, My Bones</b> (Scholastic) ranks #9 on the New York Times&#8216; Young Adult Hardcover list; F.T. Lukens&#8217;s <b>Otherworldly</b> (McElderry) is #10 on the same list; and Jennifer Thorne&#8217;s <b>Diavola</b> (Tor Nightfire) is #114 on the USA Today list.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+04.21
+LAT
+04.14
+USAT 
+04.07
+PW 
+04.15
+Amz 
+(04.15)
+UK:
+Amz UK 
+(04.15)
+Canada: <a href="https://locusmag.com/2024/04/weekly-bestsellers-15-april-2024/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/04/weekly-bestsellers-15-april-2024/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-15, from: Neil Gaiman @ BlueSky)
+
+The first five minutes of Dead Boy Detectives can be watched at https://www.netflix.com/tudum/videos/dead-boy-detectives-first-5-minutes 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kq6rojaghj2x>
 
 ---
 

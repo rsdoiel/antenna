@@ -1,11 +1,331 @@
 ---
 title: parks 2024.16
-updated: 2024-04-15 09:53:28
+updated: 2024-04-15 17:43:19
 ---
 
 # parks 2024.16
 
-(date: 2024-04-15 09:53:28)
+(date: 2024-04-15 17:43:19)
+
+---
+
+## BLM announces Sunlight Storage II Battery System is fully operational
+
+date: 2024-04-15, from: Bureau of Land Management, California
+
+<div class="field contact-block -teaser-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/teaser/public/images/2024-04/52945816430_559ef51a51_w.jpg?h=7c002f1b&amp;itok=oYODNjIn" width="150" height="100" alt="Rows of Solar Batteries in the desert" typeof="foaf:Image">
+
+
+</div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="da259508-580d-461e-9031-9f1eaaf577ad" data-langcode="en" class="align-left embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/52945816430_559ef51a51_w.jpg?itok=7s9u5acx" width="400" height="225" alt="Rows of Solar Batteries in the desert" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p style="margin:0in;mso-pagination:none;background:white;mso-background-themecolor:
+background1"><b><span style="color:black;border:none windowtext 1.0pt;
+mso-border-alt:none windowtext 0in;padding:0in">PALM SPRINGS, Calif.</span></b><span style="color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+padding:0in">&nbsp;—&nbsp;The Bureau of Land Management today announced that the <a name="_Hlk163662017">Sunlight Storage II Battery Energy Storage System is now fully operational</a>. The battery energy storage system adds an additional 300 megawatts (MW) of energy storage to the </span><span style="color:black;mso-color-alt:windowtext"><a href="https://eplanning.blm.gov/eplanning-ui/project/65802/510"><span style="border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+padding:0in">Desert Sunlight Solar Farm</span></a><span style="border:none windowtext 1.0pt;
+mso-border-alt:none windowtext 0in;padding:0in"> in eastern Riverside County, bringing the total energy storage capacity of the project to 530 MW. The new project component allows solar energy to be stored and then released when the power is needed most, increasing the reliability and availability of clean energy on the state grid.<span style="mso-spacerun:yes">&nbsp; </span></span><o:p></o:p></span></p>
+
+<p style="margin:0in;mso-pagination:none;background:white;mso-background-themecolor:
+background1"><span style="color:black"><o:p>&nbsp;</o:p></span></p>
+
+<p style="margin:0in;mso-pagination:none;background:white;mso-background-themecolor:
+background1"><span style="color:black;mso-themecolor:text1">The Interior Department </span><span style="color:black;mso-color-alt:windowtext"><a href="https://www.doi.gov/pressreleases/biden-harris-administration-delivers-historic-milestones-new-actions-clean-energy">recently announced</a></span><span style="color:black;mso-themecolor:text1"> that it has now permitted more than 25 gigawatts of clean energy projects – surpassing a major milestone ahead of 2025 – enough clean energy to power more than 12 million homes across the country. This includes solar, wind and geothermal projects, as well as gen-tie lines on public lands that are essential for connecting clean electricity projects on both federal and non-federal land to the grid.<o:p></o:p></span></p>
+
+<p style="margin:0in;mso-pagination:none;background:white;mso-background-themecolor:
+background1"><span style="color:black;mso-themecolor:text1"><o:p>&nbsp;</o:p></span></p>
+
+<p style="margin:0in;mso-pagination:none;background:white;mso-background-themecolor:
+background1"><span style="color:black;border:none windowtext 1.0pt;mso-border-alt:
+none windowtext 0in;padding:0in;background:white">“BLM-managed public lands play a critical role in the clean energy transition,” <b><i>said California Desert District Manager Shelly Lynch.</i></b> “The demand for renewable energy has never been greater and Sunlight Storage II contributes to a robust and sustainable clean energy economy.”</span><span style="color:black;border:none windowtext 1.0pt;
+mso-border-alt:none windowtext 0in;padding:0in"> <o:p></o:p></span></p>
+
+<p style="margin:0in;mso-pagination:none;background:white;mso-background-themecolor:
+background1"><span style="color:black;border:none windowtext 1.0pt;mso-border-alt:
+none windowtext 0in;padding:0in;background:white"><o:p>&nbsp;</o:p></span></p>
+
+<p style="margin:0in;mso-pagination:none;background:white;mso-background-themecolor:
+background1"><span style="color:black;border:none windowtext 1.0pt;mso-border-alt:
+none windowtext 0in;padding:0in">The&nbsp;<span class="mark7z38h33qn">battery</span>&nbsp;<span class="markf2i0hmlze">storage</span>&nbsp;<span class="marko6bbnz269">system</span>&nbsp;is in an area analyzed and identified as suitable for</span><span style="color:black;mso-themecolor:text1"> </span><span style="color:black;
+border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;padding:0in">renewable <span class="mark2ac810g75">energy</span> development as part of </span><span style="color:black;mso-color-alt:windowtext"><a href="https://www.blm.gov/programs/planning-and-nepa/plans-in-development/california/desert-renewable-energy-conservation-plan">Desert Renewable&nbsp;Energy&nbsp;Conservation Plan Land Use Plan Amendment</a><span style="border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+padding:0in">. The Desert Renewable Energy Conservation Plan is a landscape-level plan focused on 10.8 million acres of public lands in the desert regions of seven California counties that streamlines renewable energy development while conserving unique and valuable desert ecosystems and providing outdoor recreation opportunities. To approve these sites for renewable energy projects, the Department of the Interior and the BLM work with Tribal governments, local communities, state regulators, industry, and other federal agencies. <o:p></o:p></span></span></p>
+
+<p style="margin:0in;mso-pagination:none;background:white;mso-background-themecolor:
+background1"><span style="color:black;border:none windowtext 1.0pt;mso-border-alt:
+none windowtext 0in;padding:0in"><o:p>&nbsp;</o:p></span></p>
+
+<p style="margin:0in;mso-pagination:none;background:white;mso-background-themecolor:
+background1"><span style="color:black">Additional information is available at the&nbsp;<a href="https://eplanning.blm.gov/eplanning-ui/project/2023119/510" target="_blank"><span style="border:none windowtext 1.0pt;mso-border-alt:none windowtext 0in;
+padding:0in">BLM National NEPA Register</span></a><span style="border:none windowtext 1.0pt;
+mso-border-alt:none windowtext 0in;padding:0in">.<o:p></o:p></span></span></p>
+
+<p style="margin:0in;mso-pagination:none;background:white;mso-background-themecolor:
+background1"><span style="color:black;border:none windowtext 1.0pt;mso-border-alt:
+none windowtext 0in;padding:0in"><o:p>&nbsp;</o:p></span></p>
+
+<p style="margin:0in;mso-pagination:none;background:white;mso-background-themecolor:
+background1"><span class="normaltextrun"><span style="color:#242424">The BLM manages vast stretches of public lands that have the potential to make significant contributions to the nation’s renewable energy portfolio. To promote the development of these energy sources, the BLM provides sites for environmentally sound development of renewable energy on public lands. The efficient deployment of renewable energy from our nation’s public lands is crucial in achieving the Biden-Harris administration’s goal of a carbon pollution-free power sector by 2035. Recently, the Department of the Interior announced that BLM had achieved the </span></span><span style="color:black;
+mso-color-alt:windowtext"><a href="https://www.doi.gov/pressreleases/biden-harris-administration-delivers-historic-milestones-new-actions-clean-energy">major milestone of permitting 25 gigawatts</a></span><span class="normaltextrun"><span style="color:#242424"> of clean energy projects on public lands, including solar, wind, geothermal, and gen-ties</span></span><span style="color:#212529;
+background:white"> (transmission lines that cross public lands to connect renewable energy projects on private lands to the grid)</span><span class="eop"><span style="color:#242424">.</span></span><span style="color:black;border:none windowtext 1.0pt;
+mso-border-alt:none windowtext 0in;padding:0in"><o:p></o:p></span></p>
+</div> 
+
+<https://www.blm.gov/press-release/blm-announces-sunlight-storage-ii-battery-system-fully-operational>
+
+---
+
+## $18 million investment from Inflation Reduction Act benefits native seed increase projects in the Mojave Desert
+
+date: 2024-04-15, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>$18 million investment from Inflation Reduction Act benefits native seed increase projects in the Mojave Desert </h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p><em><span style="font-size:11pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-family:Roboto"><span style="color:black">Story by:</span></span></b><span style="font-family:Roboto"><span style="color:black"> Julia Mogen, BLM California Desert District Public Affairs Specialist</span></span></span></span></span></span></em></p>
+
+<p><em><span style="font-size:11pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-family:Roboto"><span style="color:black">Photos by:</span></span></b><span style="font-family:Roboto"><span style="color:black"> Judy Perkins, BLM California </span></span><span style="font-family:Roboto"><span style="color:black">Mojave Desert Ecoregional Native Plant Coordinator; Jesse Pluim, Public Affairs Specialist</span></span></span></span></span></span></em></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="881d0f76-d867-4f9b-b1f1-1b200b5ac3ed" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/Needles-66.jpg?itok=QcVJbLYL" width="640" height="427" alt="A woman examines a bright yellow flower" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p><span style="color: black; font-family: Roboto; font-size: 11pt;">With the Department of the Interior’s recent announcement of nearly $18 million in new investments from the Inflation Reduction Act, BLM California is thrilled to expand upon native seed growth improvement projects.</span></p>
+
+<p><span style="font-size:11pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto"><span style="color:black">This historic investment will contribute to Interior’s<span style="background:white"> new&nbsp;</span></span></span><span style="font-family:Roboto"><span style="color:black"><a href="https://www.doi.gov/media/document/national-seed-strategy-keystone-initiative" style="color:blue; text-decoration:underline" target="_blank"><span style="background:white"><span style="color:black"><span style="text-decoration:none"><span style="text-underline:none">National Seed Strategy Keystone Initiative</span></span></span></span></a></span></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span style="background:white"><span style="font-family:Roboto"><span style="color:black"><span style="text-decoration:none"><span style="text-underline:none">, built to implement the proper infrastructure, tools, research and labor needed to support a strong native seed supply chain. </span></span></span></span></span></span></span><span style="font-family:Roboto"><span style="color:black">The </span></span><span style="font-family:Roboto"><span style="color:black"><a href="https://www.doi.gov/media/document/national-seed-strategy-keystone-initiative" style="color:blue; text-decoration:underline" target="_blank"><span style="background:white"><span style="color:black"><span style="text-decoration:none"><span style="text-underline:none">National Seed Strategy Keystone Initiative</span></span></span></span></a></span></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span style="background:white"><span style="font-family:Roboto"><span style="color:black"><span style="text-decoration:none"><span style="text-underline:none"> outlines goals for ecosystem restoration,</span></span></span></span></span></span></span><span style="font-family:Roboto"><span style="color:black"> biodiversity support, and the reduction of climate change risks. <span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span style="background:white"><span style="color:black"><span style="text-decoration:none"><span style="text-underline:none">Example projects include </span></span></span></span></span></span></span></span><span style="background:white"><span style="font-family:Roboto"><span style="color:#212529">expanding Tribal greenhouse facilities, assisting local farmers transition from high-water crops to low-water native plant crops and connecting with underserved communities in native seed collection via the </span></span></span><span style="font-family:Roboto"><span style="color:black"><a href="https://www.blm.gov/sites/blm.gov/files/program_nativeplants_collection_quick%20links_SOS%20Handout.pdf" style="color:blue; text-decoration:underline">Seeds of Success program</a></span></span><span style="background:white"><span style="font-family:Roboto"><span style="color:#212529">.</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto"><span style="color:black">The Victor Valley College Native Seed Production project under the BLM </span></span><span style="font-family:Roboto"><span style="color:black"><a href="https://gis.blm.gov/DETODownload/Docs/The_Mojave_Desert_Native_Plant_Program.pdf" style="color:blue; text-decoration:underline">Mojave Desert Native Plant Program</a></span></span><span style="font-family:Roboto"><span style="color:black"> in southern California, will benefit from the investment. </span></span><span style="font-family:Roboto"><span style="color:black">Started in 2022, the BLM partnership with Victor Valley College is a joint effort to grow native plants, increase native seed output and develop seed harvest protocols for Mojave Desert habitat restoration. </span></span><span style="font-family:Roboto"><span style="color:black">The project </span></span><span style="font-family:Roboto"><span style="color:black">is forecasted to span five years to meet seed production goals. &nbsp;</span></span></span></span></span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="057376e0-2407-480c-bc10-4d191c88f10b" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/Dakota%20Brooks%20and%20Dolores%20Gault%20with%20VVC%20seed%20increase%20plot.JPG?itok=T4UOGksj" width="640" height="480" alt="two students pose in front of a garden bed." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption><em>Victor Valley College students, Dakota Brooks and Dolores Gault, with field of Acton’s Brittlebush used for seed growth.</em></figcaption>
+</figure>
+
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto">Prioritizing outreach and collaboration with the local community, staff on this project will assist local farmers transition from alfalfa farming to less water intensive native plants. The seed increase program supports farmers who are losing water rights, in turn affecting their alfalfa farming, while also contributing to habitat resilience against climate change.</span></span></span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="431e8fbe-539d-468e-b424-1b68d1ec4a79" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/Vegas%20Alkali%20Sacaton%20in%20seed%20increase%20plot.JPG?itok=IU4LMStZ" width="640" height="480" alt="Field of Vegas Alkali Sacaton for seed growth at Victor Valley College" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption><em>Field of Vegas Alkali Sacaton for seed growth at Victor Valley College.</em></figcaption>
+</figure>
+
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto"><span style="color:black">“Students are developing native plant growing techniques to increase seed production,” Judy Perkins, Mojave Desert Ecoregional Native Plant Coordinator for the BLM California State Office said. “Then they will start scaling up seed increase project size to the agricultural field scale.”</span></span></span></span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="070e44a2-91df-4918-b908-e6be40061e42" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/Native%20seeds%20VVC.JPG?itok=L8S-nbc-" width="640" height="480" alt="Seeds used in projects at Victor Valley College in partnership with BLM." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption><em>Seeds used in projects at Victor Valley College in partnership with BLM.</em></figcaption>
+</figure>
+
+
+<p align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoCaption" style="margin-bottom: 13px;"><span style="font-size:11pt"><span style="background:white"><span style="line-height:16.8pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto"><span style="color:black">BLM California is delighted to be awarded funds from the Inflation Reduction Act for seed strategy projects. These resources will help expand and sustain ecosystem restoration initiatives across the state, thereby improving the health of the habitats they manage.</span></span></span></span></span></span></p>
+
+<p>&nbsp;</p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/california-desert-do" hreflang="en">California Desert DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/weeds-and-invasives" hreflang="en">Weeds and Invasives</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-04-15T12:00:00Z">Mon, 04/15/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/california-state-office" hreflang="en">California State Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47629/edit" hreflang="en">Judy Perkins 1</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>On</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/seeds-success" hreflang="en">Seeds of Success</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47629/edit" hreflang="en">Judy Perkins 1</a></div>
+          </div> 
+
+<https://www.blm.gov/blog/2024-04-15/18-million-investment-inflation-reduction-act-benefits-native-seed-increase>
 
 ---
 

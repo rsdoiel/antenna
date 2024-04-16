@@ -1,11 +1,110 @@
 ---
 title: socal north 2024.16
-updated: 2024-04-15 09:53:27
+updated: 2024-04-15 17:43:18
 ---
 
 # socal north 2024.16
 
-(date: 2024-04-15 09:53:27)
+(date: 2024-04-15 17:43:18)
+
+---
+
+## Theater student Kimmy Miller spreads joy, educational messages through puppetry
+
+date: 2024-04-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Kimmy Miller is turning her puppetry passion into a profession.
+The first-year theater student said her fascination with the art form started at a young age. 
+
+<https://dailybruin.com/2024/04/15/theater-student-kimmy-miller-spreads-joy-educational-messages-through-puppetry/>
+
+---
+
+## Scouting report: UCLA men’s volleyball pre-playoffs
+
+date: 2024-04-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+No. 1 seed UCLA men&#8217;s volleyball (22-4, 11-1 MPSF) is entering the postseason in this Thursday&#8217;s MPSF semifinal. The Bruins have a chance to repeat as conference champions for the first time since 2001 and have already secured a first-round bye. 
+
+<https://dailybruin.com/2024/04/15/scouting-report-ucla-mens-volleyball-pre-playoffs/>
+
+---
+
+## CSUN gets caked at Big Show
+
+date: 2024-04-15, from: The Sundail (CSUN Student Newspaper)
+
+Over 4,000 CSUN students and guests gathered for the annual Big Show on Saturday, April 6th to see the one and only Steve Aoki. “I am here to see Steve... 
+
+<https://sundial.csun.edu/180624/arts-entertainment/csun-gets-caked-at-big-show/>
+
+---
+
+## Valedictorian will not speak at Class of 2024 commencement
+
+date: 2024-04-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The decision came less than a week after prominent pro-Israel groups accused valedictorian Asna Tabassum of being antisemitic.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/15/valedictorian-will-not-speak-at-class-of-2024-commencement/">Valedictorian will not speak at Class of 2024 commencement</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/15/valedictorian-will-not-speak-at-class-of-2024-commencement/>
+
+---
+
+## UCLA track and field divides and conquers at ‘Legends,’ Bryan Clay invitationals
+
+date: 2024-04-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+A new Bruin rose to her debut as the sun dipped below the horizon at Drake Stadium.
+Donning the blue and gold, graduate student Lea Riedel won first place in the women&#8217;s shot put, reaching No. 
+
+<https://dailybruin.com/2024/04/15/ucla-track-and-field-divides-and-conquers-at-legends-bryan-clay-invitationals/>
+
+---
+
+## Concerts in the Park is Back with a Fresh, New Lineup
+
+date: 2024-04-15, from: City of Santa Clarita
+
+<p>Central Park to Become Vibrant Stage for Outdoor Concerts in July and August The City of Santa Clarita’s exciting Concerts in the Park series, presented by Logix Federal Credit Union, makes its highly anticipated return this summer for friends, families and neighbors to gather under the evening sky and enjoy free, live musical performances on [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/04/15/concerts-in-the-park-is-back-with-a-fresh-new-lineup/">Concerts in the Park is Back with a Fresh, New Lineup</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/04/15/concerts-in-the-park-is-back-with-a-fresh-new-lineup/>
+
+---
+
+## UCLA men’s soccer hires Tulsa’s Jose Robles as new assistant coach
+
+date: 2024-04-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+A new face will stand on the Bruins’ sideline next season.
+UCLA men’s soccer announced the hiring of former Tulsa associate head coach Jose Robles as the program’s newest assistant coach Wednesday. 
+
+<https://dailybruin.com/2024/04/15/ucla-mens-soccer-hires-tulsas-jose-robles-as-new-assistant-coach/>
+
+---
+
+## UCLA baseball goes 1-2 against Washington, secures 1st conference road win
+
+date: 2024-04-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+A ground ball sent Roch Cholowsky ranging to his right with two outs in the bottom of the ninth and the winning run barreling down the third base line Friday. 
+
+<https://dailybruin.com/2024/04/15/ucla-baseball-goes-2-1-against-washington-secures-1st-conference-road-win/>
+
+---
+
+## 2024 Cowboy Festival Road Closures, Parking and Public Transportation Details
+
+date: 2024-04-15, from: City of Santa Clarita
+
+<p>The 28th Santa Clarita Cowboy Festival makes its anticipated return to William S. Hart Park (24141 Newhall Avenue) this upcoming weekend! Residents are encouraged to prepare for road closures around the event site and plan transportation accordingly for Saturday, April 20 and Sunday, April 21.  The 2024 Cowboy Festival is expected to draw thousands of [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/04/15/2024-cowboy-festival-road-closures-parking-and-public-transportation-details/">2024 Cowboy Festival Road Closures, Parking and Public Transportation Details</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/04/15/2024-cowboy-festival-road-closures-parking-and-public-transportation-details/>
 
 ---
 

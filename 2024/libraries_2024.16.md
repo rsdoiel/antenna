@@ -1,11 +1,21 @@
 ---
 title: libraries 2024.16
-updated: 2024-04-15 09:53:28
+updated: 2024-04-15 17:43:19
 ---
 
 # libraries 2024.16
 
-(date: 2024-04-15 09:53:28)
+(date: 2024-04-15 17:43:19)
+
+---
+
+## The Kural, by Thiruvalluvar
+
+date: 2024-04-15, from: Standard Ebooks, new releaases
+
+An Indian weaver-philosopher expounds on the subjects of righteousness, wealth, and love. 
+
+<https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar>
 
 ---
 

@@ -1,11 +1,33 @@
 ---
 title: pacific 2024.16
-updated: 2024-04-15 09:53:27
+updated: 2024-04-15 17:43:18
 ---
 
 # pacific 2024.16
 
-(date: 2024-04-15 09:53:27)
+(date: 2024-04-15 17:43:18)
+
+---
+
+## Computer science student earns research fellowship as she aims for grad degree
+
+date: 2024-04-15, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Carol Wong's fellowship is a five-year program that provides three years of financial support inclusive of an annual stipend of $37,000.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/15/nsf-grad-research-fellowship-carol-wong/">Computer science student earns research fellowship as she aims for grad degree</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/15/nsf-grad-research-fellowship-carol-wong/>
+
+---
+
+## Rising seas to eat away at underground infrastructure in Hawaiʻi, globally
+
+date: 2024-04-15, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Cities with complex networks of buried infrastructure have interaction with shallower and saltier groundwater which exacerbates corrosion and failure of critical systems.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/15/underground-infrastructure-corroding/">Rising seas to eat away at underground infrastructure in Hawaiʻi, globally</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/15/underground-infrastructure-corroding/>
 
 ---
 
@@ -19,23 +41,13 @@ by Adam D. Week I eat berries for breakfast in the morning, an orange slice in f
 
 ---
 
-## CPA urged to terminate lease of Rota Terminal
+## MVA upgrades two more Rota sites
 
 date: 2024-04-15, updated: 2024-04-15, from: Marianas Variety
 
-FOLLOWING the Department of Commerce’s official notification terminating Rota Terminal and Transfer Co., Inc.’s legal existence, the Commonwealth Ports Authority should terminate the company's exclusive use of the Rota West Dock due to its failure to comply with many of the lease terms and agreements, Sen. Paul A. Manglona said. 
+ 
 
-<https://www.mvariety.com/news/local/cpa-urged-to-terminate-lease-of-rota-terminal/article_5fb25fba-fb06-11ee-accd-6baedd1363be.html>
-
----
-
-## DPW chief: Beach Road construction to be completed in October
-
-date: 2024-04-15, updated: 2024-04-15, from: Marianas Variety
-
-THE construction of Beach Road on Saipan is expected to be completed in October 2024, Department of Public Works Secretary Ray N. Yumul said. 
-
-<https://www.mvariety.com/news/local/dpw-chief-beach-road-construction-to-be-completed-in-october/article_86a6febc-fae5-11ee-8b00-437e4e1835da.html>
+<https://www.mvariety.com/news/community_bulletins/mva-upgrades-two-more-rota-sites/article_5c2aeb0e-fb39-11ee-bdc6-6f6f8fe952d6.html>
 
 ---
 
@@ -49,6 +61,16 @@ date: 2024-04-15, updated: 2024-04-15, from: Marianas Variety
 
 ---
 
+## Tina Sablan unveils CNMI's climate action initiatives
+
+date: 2024-04-15, updated: 2024-04-15, from: Marianas Variety
+
+TINA Sablan, the governor’s special assistant for climate policy and planning, on Thursday shared some details about the CNMI’s greenhouse gas inventory, the administration’s climate action plan, and an upcoming deadline to apply for federal funds to address climate change. 
+
+<https://www.mvariety.com/news/local/tina-sablan-unveils-cnmis-climate-action-initiatives/article_1ceae340-fb2f-11ee-80fe-3f4de32675b5.html>
+
+---
+
 ## CHCC supports revolving fund for HNP, tax credit for hospital donations
 
 date: 2024-04-15, updated: 2024-04-15, from: Marianas Variety
@@ -56,6 +78,26 @@ date: 2024-04-15, updated: 2024-04-15, from: Marianas Variety
 THE Commonwealth Healthcare Corp. supports House Bill 23-57, which would create a revolving fund for the Health Network Program, and H.B. 23-39, which would provide tax credits to those who make donations to CHCC and other clinics in the CNMI. 
 
 <https://www.mvariety.com/news/local/chcc-supports-revolving-fund-for-hnp-tax-credit-for-hospital-donations/article_4142ad46-faf7-11ee-95c0-83be62da28e6.html>
+
+---
+
+## DPW chief: Beach Road construction to be completed in October
+
+date: 2024-04-15, updated: 2024-04-15, from: Marianas Variety
+
+THE construction of Beach Road on Saipan is expected to be completed in October 2024, Department of Public Works Secretary Ray N. Yumul said. 
+
+<https://www.mvariety.com/news/local/dpw-chief-beach-road-construction-to-be-completed-in-october/article_86a6febc-fae5-11ee-8b00-437e4e1835da.html>
+
+---
+
+## Two more charged with assaulting Corrections officer; Weilbacher dismissed from case
+
+date: 2024-04-15, updated: 2024-04-15, from: Marianas Variety
+
+A 17-year-old minor and Antwon David S. Indalecio, 18, have been charged for their involvement in the assault of a Corrections officer at a bar in Garapan on March 23, 2024. 
+
+<https://www.mvariety.com/news/local/two-more-charged-with-assaulting-corrections-officer-weilbacher-dismissed-from-case/article_84d35cb2-fb2f-11ee-882e-9b8ea0268411.html>
 
 ---
 
@@ -69,13 +111,23 @@ PERRY Tudela is accused of punching a female police sergeant in the face.
 
 ---
 
-## Tina Sablan unveils CNMI's climate action initiatives
+## Variety editor’s 4th book now available at Joeten Susupe
 
 date: 2024-04-15, updated: 2024-04-15, from: Marianas Variety
 
-TINA Sablan, the governor’s special assistant for climate policy and planning, on Thursday shared some details about the CNMI’s greenhouse gas inventory, the administration’s climate action plan, and an upcoming deadline to apply for federal funds to address climate change. 
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is now available at the Joeten Shopping Center in Susupe. 
 
-<https://www.mvariety.com/news/local/tina-sablan-unveils-cnmis-climate-action-initiatives/article_1ceae340-fb2f-11ee-80fe-3f4de32675b5.html>
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-now-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## CPA urged to terminate lease of Rota Terminal
+
+date: 2024-04-15, updated: 2024-04-15, from: Marianas Variety
+
+FOLLOWING the Department of Commerce’s official notification terminating Rota Terminal and Transfer Co., Inc.’s legal existence, the Commonwealth Ports Authority should terminate the company's exclusive use of the Rota West Dock due to its failure to comply with many of the lease terms and agreements, Sen. Paul A. Manglona said. 
+
+<https://www.mvariety.com/news/local/cpa-urged-to-terminate-lease-of-rota-terminal/article_5fb25fba-fb06-11ee-accd-6baedd1363be.html>
 
 ---
 
@@ -99,16 +151,6 @@ ANNE Lee claimed the U14 girls singles and doubles titles of the 2024 North Paci
 
 ---
 
-## Two more charged with assaulting Corrections officer; Weilbacher dismissed from case
-
-date: 2024-04-15, updated: 2024-04-15, from: Marianas Variety
-
-A 17-year-old minor and Antwon David S. Indalecio, 18, have been charged for their involvement in the assault of a Corrections officer at a bar in Garapan on March 23, 2024. 
-
-<https://www.mvariety.com/news/local/two-more-charged-with-assaulting-corrections-officer-weilbacher-dismissed-from-case/article_84d35cb2-fb2f-11ee-882e-9b8ea0268411.html>
-
----
-
 ## Lamesa Kusina, Savemore eliminate foes to secure playoff  spots
 
 date: 2024-04-15, updated: 2024-04-15, from: Marianas Variety
@@ -116,6 +158,16 @@ date: 2024-04-15, updated: 2024-04-15, from: Marianas Variety
 LAMESA Kusina and Savemore reached the playoffs of the Legends Sports Association Invitational Basketball League, season 2 by eliminating their respective opponents during the  knockout games at the TSL Sports Complex on Saturday. 
 
 <https://www.mvariety.com/sports/localsports/lamesa-kusina-savemore-eliminate-foes-to-secure-playoff-spots/article_1aae03dc-fb34-11ee-80e2-db757316a03a.html>
+
+---
+
+## FEATURE ǀ Confronting the Great Pacific Garbage Patch: Earth Day's call to action
+
+date: 2024-04-15, updated: 2024-04-15, from: Marianas Variety
+
+AS we come together to celebrate Earth Day this year 2024, we must focus on one of the most pressing environmental issues of our time: the Great Pacific Garbage Patch. This massive pile of floating waste, located between California and Hawaii, is not just a collection of garbage; it's a stark reminder of the plastic pollution crisis that our planet is facing. 
+
+<https://www.mvariety.com/views/columnists/feature-confronting-the-great-pacific-garbage-patch-earth-days-call-to-action/article_a53efe32-fb36-11ee-88c8-ebec20e66840.html>
 
 ---
 
@@ -163,7 +215,7 @@ On Monday afternoon, during a roundtable discussion that also spanned contraband
 
 date: 2024-04-15, from: Pacific Island Times
 
-But Palau president endorses US territories By Mar-Vic Cagurangan The federal government has poured cold water on Guam and American... 
+But Palau president endorses the US territories By Mar-Vic Cagurangan The federal government has poured cold water on Guam and American... 
 
 <https://www.pacificislandtimes.com/post/washington-nixes-guam-and-american-samoa-s-bid-for-pif-membership>
 
@@ -382,6 +434,18 @@ date: 2024-04-15, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/04/15/opinion/o-j-simpsons-legacy-wont-be-the-one-he-may-have-imagined/>
+
+---
+
+## More rolling outages possible today after Saturday generator failure, Hawaiian Electric warns
+
+date: 2024-04-15, from: Hawaii Tribune Harold
+
+
+				<p>Hawaiian Electric may implement rolling outages throughout the Big Island this morning and possibly this evening after an equipment failure over the weekend.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/15/hawaii-news/more-rolling-outages-possible-today-after-saturday-generator-failure-hawaiian-electric-warns/>
 
 ---
 

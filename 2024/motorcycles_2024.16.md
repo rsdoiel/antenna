@@ -1,11 +1,81 @@
 ---
 title: motorcycles 2024.16
-updated: 2024-04-15 09:53:28
+updated: 2024-04-15 17:43:19
 ---
 
 # motorcycles 2024.16
 
-(date: 2024-04-15 09:53:28)
+(date: 2024-04-15 17:43:19)
+
+---
+
+## Viñales Sweeps COTA MotoGP
+
+date: 2024-04-15, from: Cycle World News
+
+Aprilia’s Maverick Viñales captured all the top honors this weekend at COTA: pole, lap record, the Tissot Sprint, and Sunday’s GP. 
+
+<https://www.cycleworld.com/motorcycle-racing/circuit-of-the-americas-motogp-race-report-2024/>
+
+---
+
+## Indian Motorcycle Factory Rider Troy Herfoss Secures First-Career King of the Baggers Victory
+
+date: 2024-04-15, from: Cycle World News
+
+In what proved to be an exciting weekend at Circuit of The Americas (COTA) during MotoGP, Indian Motorcycle factory rider, and three-time Australian Superbike Champion. 
+
+<https://www.cycleworld.com/the-wire/indian-motorcycle-factory-rider-troy-herfoss-secures-first-career-king-of-the-baggers-victory/>
+
+---
+
+## Rapid K-1988 Brings Akira Manga to Life
+
+date: 2024-04-15, from: Cycle World News
+
+Based on Shōtarō Kaneda’s bike from the Akira manga anime series, Rapid’s K-1988 electric scooter is about to come to life as a production model. 
+
+<https://www.cycleworld.com/motorcycle-news/rapid-k-1988-electric-scooter/>
+
+---
+
+## Show Us Your Rad and Rowdy Motorcycle Tattoos
+
+date: 2024-04-15, from: Ride Apart, Electric Motorcycle News
+
+Let's see your ink. 
+
+<https://www.rideapart.com/news/716166/motorcycle-tattoo-comments-cool/>
+
+---
+
+## Watch a Honda Gold Wing Take On Montana's BDR Treacherous Off-Road Trails
+
+date: 2024-04-15, from: Ride Apart, Electric Motorcycle News
+
+Matt Spears takes his girlfriend along for an unforgettable two-up adventure aboard Piggy the Enduro Gold Wing.  
+
+<https://www.rideapart.com/news/716036/matt-spears-goldwing-magruder-corridor-montana-bdr/>
+
+---
+
+## Harley-Davidson Factory Racer Kyle Wyman Sets a New Track Record and Wins in Texas
+
+date: 2024-04-15, from: Cycle World News
+
+Harley-Davidson Factory Racing rider Kyle Wyman made his mark at Circuit of the Americas with a dramatic win, a new class track record, and the MotoAmerica Mission King of the Baggers points lead. 
+
+<https://www.cycleworld.com/the-wire/harley-davidson-factory-racer-kyle-wyman-sets-new-track-record-and-wins-in-texas/>
+
+---
+
+## Landslide Causes Road Closures Along California’s Highway 1
+
+date: 2024-04-15, from: Ride Apart, Electric Motorcycle News
+
+A portion of Highway 1 has been closed off as a chunk of the road collapsed following a recent storm.  
+
+<https://www.rideapart.com/news/715686/landslide-road-collapse-california-highway1/>
 
 ---
 

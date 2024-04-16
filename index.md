@@ -12,6 +12,7 @@ to promote their content. Right now Antenna is build the following lists
 	- [pacific.txt](pacific.txt)
 - [Mid Central](mid_central.html), feeds from Central California's in the vicinity of Merced County
 - [Games](games.html), feeds about interactive games, [games.txt](games.txt)
+- [Retro Computing](retro_computing.html), feeds cover historic systems and retro computing
 - [Columns](columns.html), posts that frequently end up in my [Pocket](https://getpocket.com) reading list, [columns.txt](columns.txt)
 - [Tech Likely](tech_likely.html), miscellanious feeds, mostly computing related, [tech_likely.txt](tech_likely.txt)
 - [Motor Cycles](motorcycles.html), A test feed of interesting Motorcycle related news, [motorcycles.txt](motorcycles.txt)

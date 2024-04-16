@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.16
-updated: 2024-04-15 09:53:27
+updated: 2024-04-15 17:43:18
 ---
 
 # mid central 2024.16
 
-(date: 2024-04-15 09:53:27)
+(date: 2024-04-15 17:43:18)
+
+---
+
+## Merced College Steals the Show at Statewide PR and Marketing Awards
+
+date: 2024-04-15, from: Blue Devil News (Merced Community College Student Newspaper)
+
+<p>MERCED, Calif. — Merced College was recognized for its outstanding work in marketing and public relations, taking home six first-place awards and 14 awards overall at the statewide Community College&#8230;</p>
+<p>The post <a href="https://www.mccd.edu/news/merced-college-steals-the-show-at-statewide-pr-and-marketing-awards/">Merced College Steals the Show at Statewide PR and Marketing Awards</a> appeared first on <a href="https://www.mccd.edu">Merced College</a>.</p>
+ 
+
+<https://www.mccd.edu/news/merced-college-steals-the-show-at-statewide-pr-and-marketing-awards/>
 
 ---
 
