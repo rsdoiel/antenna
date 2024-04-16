@@ -1,0 +1,1426 @@
+---
+title: parks 2024.15
+updated: 2024-04-12 17:34:03
+---
+
+# parks 2024.15
+
+(date: 2024-04-12 17:34:03)
+
+---
+
+## Meet Athena: the 5-year-old halter-started mare available for adoption from the Wheatland Corral
+
+date: 2024-04-12, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Meet Athena: the 5-year-old halter-started mare available for adoption from the Wheatland Corral </h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">Meet Athena, a five-year-old pinto mare available for adoption at the Wheatland Off-Range Corral’s (ORC) upcoming adoption even happening April 19. Athena is one of 29 wild horses to be offered for adoption at the Wheatland ORC’s first in-person event of 2024. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">While each animals brings its own uniqueness in physical attributes and demeanor, what sets Athena apart is her backstory and training foundation. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">Athena was born at the BLM Rock Springs Holding Facility in 2019 from a mare gathered from the Green Mountain Herd Management Area in central Wyoming. After she was weaned and prepped for adoption (freeze marked, dewormed, and Coggins tested) she traveled to the Mantle Training Facility in Wheatland, Wyo., in February 2020. She was then adopted from the Mantles as a halter-trained horse in May 2021. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">During routine compliance checks conducted by BLM staff, it was found that Athena’s original adopter had failed to title her before giving her away. Luckily for Athena, staff were able to work with the original adopter to track her down. Through discussion with the original adopter and the person she had been given to, it was decided that it would be in Athena’s best interest to be repossessed. Her journey brought her back to Wheatland, where she has since been cared for by the Wheatland ORC. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Upon arrival to the Wheatland ORC, Athena was dewormed, vaccinated, and had hooves trimmed. Considering her previous training and demeanor, the staff at Wheatland took her on as an additional project to their normal day-to-day work. Wild horse and burro specialist Mike North and Kirren Seiler, wild horse program assistant, began working with Athena shortly after her arrival. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Seiler had this to say about Athena:</span></span></span></span></span></span></span></p>
+
+<p style="margin-left:48px; margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">“When starting to work with Athena, we wanted to evaluate what she knew and where we needed to start. She was nervous and distracted with her new surroundings and strange people, but she was never mean. After working with her for a few weeks, it was evident that she had a good foundation and just needed a restart with consistency. She is learning to respect personal space, is very responsive on the lead, has started meeting us at the gate, and follows us back to the gate after un-haltering. She walks right in the trailer but can get nervous once inside; however, she’s learning to quiet down and walk straight or back out nicely. She can get distracted easily and fidgets but is willing to learn and settles down the more she’s worked with. Overall, she is a very sweet and willing mare and will make a great horse for someone that gives her consistent training – makes her think and focus on a task.”</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Due to her training, Athena does not qualify for the Adoption Incentive Program. However, the Wheatland ORC will have 29 other nice animals available for adoption at the facility’s adoption event happening from 8 a.m. to noon on Friday, April 19. The live competitive auction starts at 9 a.m.</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">“We hope that potential adopters will come out to Wheatland to see all the great animals we have to offer, and that Athena finds the right fit with a new adopter,” says facility manager JJ Nolan. “She still has a way to go, but she has a solid foundation under her hooves thanks to the training by the Mantles, as well as Mike and Kirren.”</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="border:none windowtext 1.0pt; background:white; padding:0in"><span style="font-family:Roboto"><span style="color:black">To learn more about our Adoption Incentive Program, go to&nbsp;</span></span></span><u><span lang="EN-CA" style="border:none windowtext 1.0pt; background:white; padding:0in"><span style="font-family:Roboto"><span style="color:blue"><a data-auth="Verified" data-linkindex="1" href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.usa.gov%2FxmBgm&amp;data=05%7C02%7Ctfinnicum%40blm.gov%7C2cf3dc83617a475062e608dc59aac813%7C0693b5ba4b184d7b9341f32f400a5494%7C0%7C0%7C638483837233527925%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=YnXCdrglqPhotR%2Fl3EniAKzJlP2S5lKoOJ%2F5F3HjjoM%3D&amp;reserved=0" style="color:blue; text-decoration:underline" target="_blank" title="Original URL: https://go.usa.gov/xmBgm. Click or tap if you trust this link."><span style="font-variant-ligatures:normal; text-align:start"><span style="font-variant-numeric:inherit"><span style="font-variant-east-asian:inherit"><span style="font-variant-alternates:inherit"><span style="font-variant-position:inherit"><span style="font-stretch:inherit"><span style="line-height:inherit"><span style="font-optical-sizing:inherit"><span style="font-kerning:inherit"><span style="font-feature-settings:inherit"><span style="font-variation-settings:inherit"><span style="text-decoration-thickness:initial"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial">https://go.usa.gov/xmBgm</span></span></span></span></span></span></span></span></span></span></span></span></span></span></a></span></span></span></u><span lang="EN-CA" style="border:none windowtext 1.0pt; background:white; padding:0in"><span style="font-family:Roboto"><span style="color:black"><span style="font-variant-ligatures:normal; text-align:start"><span style="font-variant-numeric:inherit"><span style="font-variant-east-asian:inherit"><span style="font-variant-alternates:inherit"><span style="font-variant-position:inherit"><span style="font-stretch:inherit"><span style="line-height:inherit"><span style="font-optical-sizing:inherit"><span style="font-kerning:inherit"><span style="font-feature-settings:inherit"><span style="font-variation-settings:inherit"><span style="text-decoration-thickness:initial"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial">. To learn more about our sales authority program, please visit&nbsp;<a data-auth="Verified" data-linkindex="2" href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.blm.gov%2Fprograms%2Fwild-horse-and-burro%2Fadoption-and-sales%2Fsales-program&amp;data=05%7C02%7Ctfinnicum%40blm.gov%7C2cf3dc83617a475062e608dc59aac813%7C0693b5ba4b184d7b9341f32f400a5494%7C0%7C0%7C638483837233537568%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=CrsaZ99auPeTw8A8svr%2FGIDv4Jn9Kha96SDFfbGDFbQ%3D&amp;reserved=0" style="color:blue; text-decoration:underline" target="_blank" title="Original URL: https://www.blm.gov/programs/wild-horse-and-burro/adoption-and-sales/sales-program. Click or tap if you trust this link.">https://www.blm.gov/programs/wild-horse-and-burro/adoption-and-sales/sales-program</a></span></span></span></span></span></span></span></span></span></span></span></span></span></span>. </span></span></span></span></span></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f69eb83a-b4e1-4ef1-b38f-dafa5e03837b" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/IMG_9084_0.JPG?itok=co1Qr-y0" width="640" height="463" alt="A red and white pinto horse. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="5c76b2ac-cc2f-4de0-96c6-d64fe65974a0" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/IMG_9122.JPG?itok=rGDFxuIR" width="640" height="360" alt="A red and white horse. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="7d8fa518-f44d-4ebc-a3e3-c00e8f80181f" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/IMG_9105.JPG?itok=CphhIo28" width="640" height="360" alt="A red a white horse wearing halter with cloudy sky in background. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Athena at the Wheatland Off-Range Corral.</figcaption>
+</figure>
+
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/wild-horse-and-burro" hreflang="en">Wild Horse and Burro</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-04-12T12:00:00Z">Fri, 04/12/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/high-plains-district-office" hreflang="en">High Plains District Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47619/edit" hreflang="en">Athena1</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/wild-horse-and-burro" hreflang="en">Wild Horse and Burro</a></div>
+              <div><a href="https://www.blm.gov/tag/wild-horse-and-burro-event" hreflang="en">Wild Horse and Burro Event</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/wyoming" hreflang="en">Wyoming</a></div>
+          <div><a href="https://www.blm.gov/editorial-access/high-plains-do" hreflang="en">High Plains DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47618/edit" hreflang="en">Athena1</a></div>
+          </div> 
+
+<https://www.blm.gov/blog/2024-04-12/meet-athena-5-year-old-halter-started-mare-available-adoption-wheatland-corral>
+
+---
+
+## BLM ensures fair taxpayer return, strengthens accountability for oil and gas operations on public lands
+
+date: 2024-04-12, from: Bureau of Land Management, California
+
+<div class="field contact-block -teaser-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/teaser/public/images/2023-07/BLM-CO-Oil-Gas-Compliance-check-Silt-FO-BobWick.jpg?h=e5565190&amp;itok=gUYueMs5" width="150" height="100" alt="BLM Staff conducting compliance check on oil and gas development in Colorado" typeof="foaf:Image">
+
+
+</div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p paraeid="{d00ded98-6353-403c-87a2-3e79d9e8e115}{202}" paraid="2042212170"><strong>WASHINGTON</strong> — The Department of the Interior today announced a final rule to revise the Bureau of Land Management’s (BLM) oil and gas leasing regulations, which will ensure a balanced approach to development, provide a fair return to taxpayers, and help keep drilling activities from conflicting with the protection of important wildlife habitat or cultural sites.&nbsp;</p>
+
+<p paraeid="{d00ded98-6353-403c-87a2-3e79d9e8e115}{244}" paraid="319488044">The<em> </em><a href="https://www.blm.gov/onshore-oil-and-gas-leasing-rule" rel="noreferrer noopener" target="_blank">Fluid Mineral Leases and Leasing Process rule</a> revises outdated fiscal terms of the onshore federal oil and gas leasing program – including for bonding requirements, royalty rates, and minimum bids – which will increase returns to the public and disincentivize speculators and irresponsible actors. The rule is the BLM’s first comprehensive update to the federal onshore oil and gas leasing framework since 1988, the first update to minimum bonding levels since 1960, and the first increase in royalty rates in more than 100 years.&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="c62f03b9-efee-4179-b8b5-303692f5002e" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-07/BLM-CO-Oil-Gas-Compliance-check-Silt-FO-BobWick.jpg?itok=c22S7o68" width="640" height="426" alt="BLM Staff conducting compliance check on oil and gas development in Colorado" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>BLM staff checking on oil and gas development site on Bureau of Land Management lands in Colorado. BLM Photo by Bob Wick</figcaption>
+</figure>
+
+
+<p paraeid="{21a5d503-c618-4f01-8942-736cee4ccc63}{38}" paraid="1495608566">The rule codifies fiscal provisions included in the Inflation Reduction Act and implements recommendations from the Department’s <a href="https://www.doi.gov/sites/doi.gov/files/report-on-the-federal-oil-and-gas-leasing-program-doi-eo-14008.pdf">Report on the Federal Oil and Gas Leasing Program</a>.&nbsp;</p>
+
+<p paraeid="{21a5d503-c618-4f01-8942-736cee4ccc63}{66}" paraid="2081527079">“These are the most significant reforms to the federal oil and gas leasing program in decades, and they will cut wasteful speculation, increase returns for the public, and protect taxpayers from being saddled with the costs of environmental cleanups,” said <strong>Secretary Deb Haaland</strong>. “Alongside the historic investments we are making through President Biden’s Investing in America Agenda to clean up orphaned oil and gas wells, these reforms will help safeguard the health of our public lands and nearby communities for generations to come.”&nbsp;</p>
+
+<p paraeid="{21a5d503-c618-4f01-8942-736cee4ccc63}{84}" paraid="334834134">The rule will guide BLM efforts to focus oil and gas leasing in areas that are the most likely to be developed — areas with existing infrastructure and high oil and gas potential — lessening development pressure on areas that contain sensitive wildlife habitat, cultural resources, high recreational usage, or other special resources and values. This approach will provide transparency and clarity for industry, while better managing public lands for other important resources.&nbsp;&nbsp;</p>
+
+<p paraeid="{21a5d503-c618-4f01-8942-736cee4ccc63}{164}" paraid="1019093303">“This rule will give industry additional certainty about lease terms moving forward and give the public the certainty that their voices will be heard when the BLM is proposing areas for leasing,” said <strong>Principal Deputy Assistant Secretary for Land and Minerals Management Dr. Steve Feldgus</strong>. “It also addresses a number of longstanding Government Accountability Office (GAO) and Inspector General recommendations, ensuring we have a modern oil and gas leasing program that protects the public’s interests.”&nbsp;</p>
+
+<p paraeid="{21a5d503-c618-4f01-8942-736cee4ccc63}{212}" paraid="1153840737">“Our public lands are owned by all Americans, and the Bureau of Land Management remains committed to managing them in a balanced, responsible way,” said <strong>BLM Director Tracy Stone-Manning</strong>. “This rule will help protect critical wildlife habitat, cultural resources, and recreational values, and it will ensure a fair return for American taxpayers.”&nbsp;</p>
+
+<p paraeid="{21a5d503-c618-4f01-8942-736cee4ccc63}{226}" paraid="626447958">The rule also updates minimum bonding amounts for federal oil and gas operations for the first time in over 60 years, helping to ensure that taxpayers are not left with the bill for cleaning up orphaned wells. The GAO noted that the BLM is responsible for managing <a href="https://www.gao.gov/products/gao-18-250">thousands of idled wells</a> that pose a risk of becoming orphaned. The <a href="https://www.gao.gov/products/gao-19-615">increased bonds</a> better reflect the actual costs of reclaiming wells and will mean those costs are borne by oil and gas companies rather than taxpayers. More about updates to bonding included in the rule <a href="https://www.blm.gov/sites/default/files/docs/2024-04/BLM-Final-Onshore-Oil-and-Gas-Leasing-Rule-Bonding-Fact-sheet.pdf">here</a>.&nbsp;</p>
+
+<p paraeid="{b55dbb86-e431-4d01-bb5a-887fa2cb6a54}{31}" paraid="1131270575">Key elements of the rule include: &nbsp;</p>
+
+<ul role="list">
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}" data-listid="15" role="listitem">
+	<p paraeid="{b55dbb86-e431-4d01-bb5a-887fa2cb6a54}{41}" paraid="1729234689"><strong>Bonding Requirements:</strong> The rule increases the minimum lease bond amount to $150,000 and the minimum statewide bond to $500,000, and it eliminates nationwide and unit bonds. The previous lease bond amount of $10,000 -- established in 1960 -- no longer provided an adequate incentive for companies to meet their reclamation obligations, nor does it cover the potential costs to reclaim a well should this obligation not be met, leaving taxpayers at risk for the cost of cleanup. Bond amounts will be adjusted for inflation every ten years. &nbsp;</p>
+	</li>
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}" data-listid="15" role="listitem">
+	<p paraeid="{b55dbb86-e431-4d01-bb5a-887fa2cb6a54}{84}" paraid="967026893"><strong>Protecting Wildlife and Cultural Resources:</strong> The rule helps steer oil and gas development away from important wildlife habitat and important cultural sites by establishing BLM's preference to offer lands for lease that are close to existing infrastructure or have high potential for oil and gas production. &nbsp;</p>
+	</li>
+	<li><strong>Fiscal Terms:</strong> A number of fiscal terms are changed to reflect provisions of the Inflation Reduction Act, including:&nbsp;
+	<ul>
+		<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Courier New" data-leveltext="o" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Courier New&quot;,&quot;469769242&quot;:[9675],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;o&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}" data-listid="16" role="listitem">
+		<p paraeid="{b55dbb86-e431-4d01-bb5a-887fa2cb6a54}{154}" paraid="1452247162"><strong>Royalty rates</strong> for leases are set at 16.67 percent until August 16, 2032—ten years after enactment of the Inflation Reduction Act—then 16.67 percent will become the minimum royalty rate. Previously, the minimum royalty rate was 12.5 percent.&nbsp;</p>
+		</li>
+		<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Courier New" data-leveltext="o" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Courier New&quot;,&quot;469769242&quot;:[9675],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;o&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}" data-listid="16" role="listitem">
+		<p paraeid="{b55dbb86-e431-4d01-bb5a-887fa2cb6a54}{183}" paraid="1534304131"><strong>Minimum bids:</strong> The minimum amount companies can bid at auctions for federal oil and gas leases increases to $10 per acre, up from $2 per acre. After August 16, 2032, that amount will be regularly adjusted for inflation.&nbsp;</p>
+		</li>
+		<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Courier New" data-leveltext="o" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Courier New&quot;,&quot;469769242&quot;:[9675],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;o&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}" data-listid="16" role="listitem">
+		<p paraeid="{b55dbb86-e431-4d01-bb5a-887fa2cb6a54}{216}" paraid="883769187"><strong>Base, or minimum, rental rate:</strong> Leases will include a rental of $3 per acre per year during the first two-year period beginning upon lease issuance, then $5 per acre per year for the subsequent 6 years, and then $15 per acre per year thereafter. After August 16, 2032, those rental rates will become minimums and are subject to increase. Previously, companies paid $1.50/acre for each of the first five years of holding a lease, then $2/acre for the next five years.&nbsp;</p>
+		</li>
+		<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="4" data-font="Courier New" data-leveltext="o" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Courier New&quot;,&quot;469769242&quot;:[9675],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;o&quot;,&quot;469777815&quot;:&quot;multilevel&quot;}" data-listid="16" role="listitem">
+		<p paraeid="{b55dbb86-e431-4d01-bb5a-887fa2cb6a54}{253}" paraid="2096683578"><strong>Expressions of Interest:</strong> The Inflation Reduction Act established a new $5/acre fee for expressions of interest. The rule implements how the fee will be collected.&nbsp;&nbsp;</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+
+<p paraeid="{e30cbf00-e975-435a-ac64-e20cb256ab52}{19}" paraid="2067552971">Today’s final rule follows a proposed rule issued by the BLM last year. Based on more than 130,000 public comments received from a wide range of stakeholders, the BLM has finalized these key provisions with some technical changes, including adding inflation adjustment mechanisms.&nbsp;</p>
+</div> 
+
+<https://www.blm.gov/press-release/blm-ensures-fair-taxpayer-return-strengthens-accountability-oil-and-gas-operations>
+
+---
+
+## Biden-Harris Administration delivers historic milestones, new actions for clean energy on public lands
+
+date: 2024-04-11, from: Bureau of Land Management, California
+
+<div class="field contact-block -teaser-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/teaser/public/images/2023-06/Renewable%20Energy%20Rule%20hero_0.jpg?h=a1e1a043&amp;itok=mumtQDmM" width="150" height="100" alt="Renewable Energy Development in the California Desert" typeof="foaf:Image">
+
+
+</div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="62f730dc-f80c-4007-a535-c30d9474e7d1" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-06/Renewable%20Energy%20Rule%20hero_0.jpg?itok=Y7yr4JzH" width="640" height="427" alt="Renewable Energy Development in the California Desert" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Renewable Energy Development in the California Desert. Photo by Tom Brewster</figcaption>
+</figure>
+
+
+<p><strong>WASHINGTON — </strong>The Biden-Harris administration today announced a series of historic milestones and actions to promote responsible clean energy development on public lands and help achieve President Biden’s goal of creating a carbon pollution-free power sector by 2035. &nbsp;</p>
+
+<p>Secretary of the Interior Deb Haaland today announced that the Department has now permitted more than 25 gigawatts of clean energy projects – surpassing a major milestone ahead of 2025 – enough clean energy to power more than 12 million homes across the country. This includes solar, wind and geothermal projects, as well as gen-tie lines on public lands that are essential for connecting clean electricity projects on both federal and non-federal land to the grid.&nbsp;</p>
+
+<p>“Since Day One, the Biden-Harris administration has worked tirelessly to expand responsible clean energy development to address climate change, enhance America’s energy security and create good-paying union jobs. Surpassing our goal of permitting 25 gigawatts of clean energy by 2025 underscores the significant progress we have made in helping build modern, resilient climate infrastructure that protects our communities from the worsening impacts of climate change,” <strong>said Secretary Deb Haaland</strong>. “The Interior Department will continue to advance projects that will add enough clean energy to the grid to power millions more homes and help ensure a livable planet for future generations.”&nbsp;</p>
+
+<p>The Department today also announced a <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy rule</a> from the Bureau of Land Management (BLM) that will lower consumer energy costs and the cost of developing solar and wind projects, improve renewable energy project application processes, and incentivize developers to continue responsibly developing solar and wind projects on public lands. Consistent with the Biden-Harris administration’s commitment to create high-quality jobs in the clean energy economy and support American manufacturing, the final rule includes additional incentives for use of project labor agreements and American-made materials. &nbsp;</p>
+
+<p>“Our public lands are playing a critical role in the clean energy transition,” <strong>said Acting Deputy Secretary Laura Daniel-Davis</strong>. “Finalizing the Renewable Energy Rule is a significant milestone that will allow the Interior Department to continue leading the way on renewable energy while furthering President Biden’s commitment to building a clean energy economy, tackling the climate crisis, protecting lands and waters, promoting American energy security, and creating jobs in communities across the country.”&nbsp;</p>
+
+<p>In addition, the BLM announced that two solar projects – the Arica and Victory Pass projects in California – are now fully operational, adding 465 megawatts of clean electricity to the grid. With these two projects coming online, more than 10 gigawatts of clean energy are currently being generated on public lands, powering more than 5 million homes across the West.&nbsp;</p>
+
+<p>“Renewable energy projects like Arica and Victory Pass on public lands create good-paying jobs and are crucial in achieving the Biden-Harris administration’s goal of a carbon pollution-free power sector by 2035,” <strong>said BLM Director Tracy Stone-Manning</strong>. “Investing in clean and reliable renewable energy represents the BLM's commitment to addressing climate change. BLM personnel are working tirelessly to efficiently review and approve projects, with significant and thoughtful engagement from states, Tribes and other partners, to ensure we supply families and communities with clean energy that will lower costs and help tackle climate change.” &nbsp;</p>
+
+<h3>Surpassed President Biden’s Goal of 25 Gigawatts by 2025&nbsp;</h3>
+
+<p>The Department and BLM have worked diligently to review and approve dozens of new clean energy projects, including solar, wind, and geothermal projects, as well as interconnected gen-tie lines that are vital to clean energy projects proposed on non-federal land.&nbsp;</p>
+
+<p>Today’s announcement that the Department has surpassed the goal to permit 25 gigawatts of renewable energy includes the approval of more than double the number of projects than were approved during the previous Administration. The Department has now permitted nearly 29 gigawatts of clean energy – enough to power more than 12 million homes across the country. In addition to specific project approvals, the Department has also leased eight new areas in Solar Energy Zones with the capacity to generate nearly 2.5 gigawatts of additional clean energy. &nbsp;</p>
+
+<p>As the Department continues its momentum to spur a clean energy future, the BLM is currently processing permits for an additional 66 utility-scale clean energy projects proposed on public lands in the western United States. These projects have the combined potential to create thousands of good-paying jobs, add more than 32 additional gigawatts of renewable energy to the western electric grid and power millions of more homes. The BLM is also undertaking a preliminary review of about 200 applications for solar and wind development, as well as more than 100 applications for solar and wind energy site area testing. The BLM continues to track this clean energy permitting progress through an <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="43a9bf88-2e8c-4f79-9056-c54920385dec" href="https://www.blm.gov/programs/energy-and-minerals/renewable-energy/active-renewable-projects" rel="noreferrer noopener" target="_blank">online dashboard</a>.&nbsp;&nbsp;</p>
+
+<p>These investments in a clean energy future help further the President’s Bidenomics strategy and Investing in America agenda, which are growing the American economy from the middle out and bottom up – from rebuilding our nation’s infrastructure, to driving over half a trillion dollars in new private sector manufacturing and clean energy investments in the United States, to creating good-paying jobs and building a clean energy economy that will combat the climate crisis and make our communities more resilient.&nbsp;&nbsp;</p>
+
+<h3>Finalized Renewable Energy Rule to Continue Responsible Development&nbsp;</h3>
+
+<p>The Department today also announced the update of its renewable energy regulations to promote the development of solar and wind energy on public lands. The final Renewable Energy Rule will reduce capacity fees for these projects by 80 percent and facilitate development in priority areas by streamlining application review, delivering greater certainty for the private sector and the opportunity for more clean energy for American households.</p>
+
+<p>The Energy Act of 2020 authorized the BLM to reduce acreage rents and capacity fees to promote the greatest use of wind and solar energy resources. The BLM initially reduced these fees through guidance in 2022. Today’s final rule codifies further reductions, improving financial predictability for developers pursuing long-term projects on public land.&nbsp;</p>
+
+<p>The final Renewable Energy Rule will facilitate development in identified priority areas for wind and solar energy while maintaining appropriate flexibility to ensure a fair return for the use of public lands. It expands the BLM’s ability to accept leasing applications in these priority areas without first going through a full auction but retains the BLM’s ability to hold competitive auctions where appropriate. &nbsp;&nbsp;</p>
+
+<p>The final rule continues the Biden-Harris administration’s commitment to creating American manufacturing jobs while helping to build a clean energy economy, including by providing financial incentives for developers to use project labor agreements and domestic materials. The BLM sought comment on these additional incentives in last year’s proposed rule and developed the final provisions following public feedback, including from labor unions and a wide range of clean energy industry stakeholders. &nbsp;&nbsp;</p>
+
+<p>Today’s rule also complements the BLM’s ongoing efforts to advance responsible clean energy development by updating the Western Solar Plan. The BLM is currently <a href="https://blmsolar.anl.gov/solar-peis-2023" rel="noreferrer noopener" target="_blank">taking comment</a> on a draft analysis of the Utility-Scale Solar Energy Programmatic Environmental Impact Statement, with the goal of streamlining the BLM’s framework for siting solar energy projects across the West in order to support current and future national clean energy goals, long-term energy security, climate resilience, and improved conservation outcomes. &nbsp;&nbsp;</p>
+
+<h3>Announced California Solar Projects are Fully Operational&nbsp;</h3>
+
+<p>In another step towards achieving President Biden’s vision of a fully carbon pollution-free power sector by 2035, the Department today announced the Arica and Victory Pass solar projects are both fully operational. These projects, the first two approved under the Desert Renewable Energy Conservation Plan (DRECP), are located in eastern Riverside County, California. With the completion of these two solar projects, the BLM has also surpassed 10 gigawatts of renewable energy generation from projects on public lands.&nbsp;</p>
+
+<p>The two projects represent a combined infrastructure investment of about $689 million, will generate $5.9 million in annual operational economic benefit, provide power to nearly 139,000 homes, and add up to 465 megawatts of clean energy generating capacity and 400 megawatts of battery storage. The Department <a href="https://www.doi.gov/pressreleases/biden-harris-administration-approves-construction-two-solar-projects-california" rel="noreferrer noopener" target="_blank">issued</a> final approval for construction of the Arica and Victory Pass solar projects in 2022.&nbsp;&nbsp;</p>
+
+<p>The DRECP is a landscape-level plan created in collaboration with the State of California for more than 22 million acres, focused on 10.8 million acres of public lands, in the desert regions of seven California counties that balances renewable energy development with the conservation of unique and valuable desert ecosystems and outdoor recreation opportunities. To approve these sites for renewable energy projects, the Department and the BLM worked with Tribal governments, local communities, state regulators, industry and other federal agencies.&nbsp;</p>
+
+<p>The BLM today also announced the beginning of construction for the Camino Solar project in Kern County, California. The 44-megawatt solar photovoltaic facility is expected to power nearly 13,400 homes. The project will employ around 150 people during peak construction, include a 34.5-kV underground electrical collector line, and connect to the existing Southern California Edison Whirlwind Substation through the Manzana Wind Substation and associated 220 kV generation-tie line.&nbsp;</p>
+</div> 
+
+<https://www.blm.gov/press-release/biden-harris-administration-delivers-historic-milestones-new-actions-clean-energy>
+
+---
+
+## The BLM encourages visitor safety on public lands during wildflower season in the California desert
+
+date: 2024-04-10, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Meet Athena: the 5-year-old halter-started mare available for adoption from the Wheatland Corral </h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">Meet Athena, a five-year-old pinto mare available for adoption at the Wheatland Off-Range Corral’s (ORC) upcoming adoption even happening April 19. Athena is one of 29 wild horses to be offered for adoption at the Wheatland ORC’s first in-person event of 2024. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">While each animals brings its own uniqueness in physical attributes and demeanor, what sets Athena apart is her backstory and training foundation. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">Athena was born at the BLM Rock Springs Holding Facility in 2019 from a mare gathered from the Green Mountain Herd Management Area in central Wyoming. After she was weaned and prepped for adoption (freeze marked, dewormed, and Coggins tested) she traveled to the Mantle Training Facility in Wheatland, Wyo., in February 2020. She was then adopted from the Mantles as a halter-trained horse in May 2021. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">During routine compliance checks conducted by BLM staff, it was found that Athena’s original adopter had failed to title her before giving her away. Luckily for Athena, staff were able to work with the original adopter to track her down. Through discussion with the original adopter and the person she had been given to, it was decided that it would be in Athena’s best interest to be repossessed. Her journey brought her back to Wheatland, where she has since been cared for by the Wheatland ORC. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Upon arrival to the Wheatland ORC, Athena was dewormed, vaccinated, and had hooves trimmed. Considering her previous training and demeanor, the staff at Wheatland took her on as an additional project to their normal day-to-day work. Wild horse and burro specialist Mike North and Kirren Seiler, wild horse program assistant, began working with Athena shortly after her arrival. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Seiler had this to say about Athena:</span></span></span></span></span></span></span></p>
+
+<p style="margin-left:48px; margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">“When starting to work with Athena, we wanted to evaluate what she knew and where we needed to start. She was nervous and distracted with her new surroundings and strange people, but she was never mean. After working with her for a few weeks, it was evident that she had a good foundation and just needed a restart with consistency. She is learning to respect personal space, is very responsive on the lead, has started meeting us at the gate, and follows us back to the gate after un-haltering. She walks right in the trailer but can get nervous once inside; however, she’s learning to quiet down and walk straight or back out nicely. She can get distracted easily and fidgets but is willing to learn and settles down the more she’s worked with. Overall, she is a very sweet and willing mare and will make a great horse for someone that gives her consistent training – makes her think and focus on a task.”</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Due to her training, Athena does not qualify for the Adoption Incentive Program. However, the Wheatland ORC will have 29 other nice animals available for adoption at the facility’s adoption event happening from 8 a.m. to noon on Friday, April 19. The live competitive auction starts at 9 a.m.</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">“We hope that potential adopters will come out to Wheatland to see all the great animals we have to offer, and that Athena finds the right fit with a new adopter,” says facility manager JJ Nolan. “She still has a way to go, but she has a solid foundation under her hooves thanks to the training by the Mantles, as well as Mike and Kirren.”</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="border:none windowtext 1.0pt; background:white; padding:0in"><span style="font-family:Roboto"><span style="color:black">To learn more about our Adoption Incentive Program, go to&nbsp;</span></span></span><u><span lang="EN-CA" style="border:none windowtext 1.0pt; background:white; padding:0in"><span style="font-family:Roboto"><span style="color:blue"><a data-auth="Verified" data-linkindex="1" href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.usa.gov%2FxmBgm&amp;data=05%7C02%7Ctfinnicum%40blm.gov%7C2cf3dc83617a475062e608dc59aac813%7C0693b5ba4b184d7b9341f32f400a5494%7C0%7C0%7C638483837233527925%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=YnXCdrglqPhotR%2Fl3EniAKzJlP2S5lKoOJ%2F5F3HjjoM%3D&amp;reserved=0" style="color:blue; text-decoration:underline" target="_blank" title="Original URL: https://go.usa.gov/xmBgm. Click or tap if you trust this link."><span style="font-variant-ligatures:normal; text-align:start"><span style="font-variant-numeric:inherit"><span style="font-variant-east-asian:inherit"><span style="font-variant-alternates:inherit"><span style="font-variant-position:inherit"><span style="font-stretch:inherit"><span style="line-height:inherit"><span style="font-optical-sizing:inherit"><span style="font-kerning:inherit"><span style="font-feature-settings:inherit"><span style="font-variation-settings:inherit"><span style="text-decoration-thickness:initial"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial">https://go.usa.gov/xmBgm</span></span></span></span></span></span></span></span></span></span></span></span></span></span></a></span></span></span></u><span lang="EN-CA" style="border:none windowtext 1.0pt; background:white; padding:0in"><span style="font-family:Roboto"><span style="color:black"><span style="font-variant-ligatures:normal; text-align:start"><span style="font-variant-numeric:inherit"><span style="font-variant-east-asian:inherit"><span style="font-variant-alternates:inherit"><span style="font-variant-position:inherit"><span style="font-stretch:inherit"><span style="line-height:inherit"><span style="font-optical-sizing:inherit"><span style="font-kerning:inherit"><span style="font-feature-settings:inherit"><span style="font-variation-settings:inherit"><span style="text-decoration-thickness:initial"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial">. To learn more about our sales authority program, please visit&nbsp;<a data-auth="Verified" data-linkindex="2" href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.blm.gov%2Fprograms%2Fwild-horse-and-burro%2Fadoption-and-sales%2Fsales-program&amp;data=05%7C02%7Ctfinnicum%40blm.gov%7C2cf3dc83617a475062e608dc59aac813%7C0693b5ba4b184d7b9341f32f400a5494%7C0%7C0%7C638483837233537568%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=CrsaZ99auPeTw8A8svr%2FGIDv4Jn9Kha96SDFfbGDFbQ%3D&amp;reserved=0" style="color:blue; text-decoration:underline" target="_blank" title="Original URL: https://www.blm.gov/programs/wild-horse-and-burro/adoption-and-sales/sales-program. Click or tap if you trust this link.">https://www.blm.gov/programs/wild-horse-and-burro/adoption-and-sales/sales-program</a></span></span></span></span></span></span></span></span></span></span></span></span></span></span>. </span></span></span></span></span></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f69eb83a-b4e1-4ef1-b38f-dafa5e03837b" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/IMG_9084_0.JPG?itok=co1Qr-y0" width="640" height="463" alt="A red and white pinto horse. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="5c76b2ac-cc2f-4de0-96c6-d64fe65974a0" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/IMG_9122.JPG?itok=rGDFxuIR" width="640" height="360" alt="A red and white horse. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="7d8fa518-f44d-4ebc-a3e3-c00e8f80181f" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/IMG_9105.JPG?itok=CphhIo28" width="640" height="360" alt="A red a white horse wearing halter with cloudy sky in background. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Athena at the Wheatland Off-Range Corral.</figcaption>
+</figure>
+
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/wild-horse-and-burro" hreflang="en">Wild Horse and Burro</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-04-12T12:00:00Z">Fri, 04/12/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/high-plains-district-office" hreflang="en">High Plains District Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47619/edit" hreflang="en">Athena1</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/wild-horse-and-burro" hreflang="en">Wild Horse and Burro</a></div>
+              <div><a href="https://www.blm.gov/tag/wild-horse-and-burro-event" hreflang="en">Wild Horse and Burro Event</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/wyoming" hreflang="en">Wyoming</a></div>
+          <div><a href="https://www.blm.gov/editorial-access/high-plains-do" hreflang="en">High Plains DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47618/edit" hreflang="en">Athena1</a></div>
+          </div> 
+
+<https://www.blm.gov/blog/2024-04-10/blm-encourages-visitor-safety-public-lands-during-wildflower-season-california>
+
+---
+
+## Desert tortoise rescued from mineshaft in Newberry Mountains Wilderness
+
+date: 2024-04-09, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Meet Athena: the 5-year-old halter-started mare available for adoption from the Wheatland Corral </h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">Meet Athena, a five-year-old pinto mare available for adoption at the Wheatland Off-Range Corral’s (ORC) upcoming adoption even happening April 19. Athena is one of 29 wild horses to be offered for adoption at the Wheatland ORC’s first in-person event of 2024. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">While each animals brings its own uniqueness in physical attributes and demeanor, what sets Athena apart is her backstory and training foundation. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">Athena was born at the BLM Rock Springs Holding Facility in 2019 from a mare gathered from the Green Mountain Herd Management Area in central Wyoming. After she was weaned and prepped for adoption (freeze marked, dewormed, and Coggins tested) she traveled to the Mantle Training Facility in Wheatland, Wyo., in February 2020. She was then adopted from the Mantles as a halter-trained horse in May 2021. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">During routine compliance checks conducted by BLM staff, it was found that Athena’s original adopter had failed to title her before giving her away. Luckily for Athena, staff were able to work with the original adopter to track her down. Through discussion with the original adopter and the person she had been given to, it was decided that it would be in Athena’s best interest to be repossessed. Her journey brought her back to Wheatland, where she has since been cared for by the Wheatland ORC. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Upon arrival to the Wheatland ORC, Athena was dewormed, vaccinated, and had hooves trimmed. Considering her previous training and demeanor, the staff at Wheatland took her on as an additional project to their normal day-to-day work. Wild horse and burro specialist Mike North and Kirren Seiler, wild horse program assistant, began working with Athena shortly after her arrival. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Seiler had this to say about Athena:</span></span></span></span></span></span></span></p>
+
+<p style="margin-left:48px; margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">“When starting to work with Athena, we wanted to evaluate what she knew and where we needed to start. She was nervous and distracted with her new surroundings and strange people, but she was never mean. After working with her for a few weeks, it was evident that she had a good foundation and just needed a restart with consistency. She is learning to respect personal space, is very responsive on the lead, has started meeting us at the gate, and follows us back to the gate after un-haltering. She walks right in the trailer but can get nervous once inside; however, she’s learning to quiet down and walk straight or back out nicely. She can get distracted easily and fidgets but is willing to learn and settles down the more she’s worked with. Overall, she is a very sweet and willing mare and will make a great horse for someone that gives her consistent training – makes her think and focus on a task.”</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Due to her training, Athena does not qualify for the Adoption Incentive Program. However, the Wheatland ORC will have 29 other nice animals available for adoption at the facility’s adoption event happening from 8 a.m. to noon on Friday, April 19. The live competitive auction starts at 9 a.m.</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">“We hope that potential adopters will come out to Wheatland to see all the great animals we have to offer, and that Athena finds the right fit with a new adopter,” says facility manager JJ Nolan. “She still has a way to go, but she has a solid foundation under her hooves thanks to the training by the Mantles, as well as Mike and Kirren.”</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="border:none windowtext 1.0pt; background:white; padding:0in"><span style="font-family:Roboto"><span style="color:black">To learn more about our Adoption Incentive Program, go to&nbsp;</span></span></span><u><span lang="EN-CA" style="border:none windowtext 1.0pt; background:white; padding:0in"><span style="font-family:Roboto"><span style="color:blue"><a data-auth="Verified" data-linkindex="1" href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.usa.gov%2FxmBgm&amp;data=05%7C02%7Ctfinnicum%40blm.gov%7C2cf3dc83617a475062e608dc59aac813%7C0693b5ba4b184d7b9341f32f400a5494%7C0%7C0%7C638483837233527925%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=YnXCdrglqPhotR%2Fl3EniAKzJlP2S5lKoOJ%2F5F3HjjoM%3D&amp;reserved=0" style="color:blue; text-decoration:underline" target="_blank" title="Original URL: https://go.usa.gov/xmBgm. Click or tap if you trust this link."><span style="font-variant-ligatures:normal; text-align:start"><span style="font-variant-numeric:inherit"><span style="font-variant-east-asian:inherit"><span style="font-variant-alternates:inherit"><span style="font-variant-position:inherit"><span style="font-stretch:inherit"><span style="line-height:inherit"><span style="font-optical-sizing:inherit"><span style="font-kerning:inherit"><span style="font-feature-settings:inherit"><span style="font-variation-settings:inherit"><span style="text-decoration-thickness:initial"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial">https://go.usa.gov/xmBgm</span></span></span></span></span></span></span></span></span></span></span></span></span></span></a></span></span></span></u><span lang="EN-CA" style="border:none windowtext 1.0pt; background:white; padding:0in"><span style="font-family:Roboto"><span style="color:black"><span style="font-variant-ligatures:normal; text-align:start"><span style="font-variant-numeric:inherit"><span style="font-variant-east-asian:inherit"><span style="font-variant-alternates:inherit"><span style="font-variant-position:inherit"><span style="font-stretch:inherit"><span style="line-height:inherit"><span style="font-optical-sizing:inherit"><span style="font-kerning:inherit"><span style="font-feature-settings:inherit"><span style="font-variation-settings:inherit"><span style="text-decoration-thickness:initial"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial">. To learn more about our sales authority program, please visit&nbsp;<a data-auth="Verified" data-linkindex="2" href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.blm.gov%2Fprograms%2Fwild-horse-and-burro%2Fadoption-and-sales%2Fsales-program&amp;data=05%7C02%7Ctfinnicum%40blm.gov%7C2cf3dc83617a475062e608dc59aac813%7C0693b5ba4b184d7b9341f32f400a5494%7C0%7C0%7C638483837233537568%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=CrsaZ99auPeTw8A8svr%2FGIDv4Jn9Kha96SDFfbGDFbQ%3D&amp;reserved=0" style="color:blue; text-decoration:underline" target="_blank" title="Original URL: https://www.blm.gov/programs/wild-horse-and-burro/adoption-and-sales/sales-program. Click or tap if you trust this link.">https://www.blm.gov/programs/wild-horse-and-burro/adoption-and-sales/sales-program</a></span></span></span></span></span></span></span></span></span></span></span></span></span></span>. </span></span></span></span></span></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f69eb83a-b4e1-4ef1-b38f-dafa5e03837b" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/IMG_9084_0.JPG?itok=co1Qr-y0" width="640" height="463" alt="A red and white pinto horse. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="5c76b2ac-cc2f-4de0-96c6-d64fe65974a0" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/IMG_9122.JPG?itok=rGDFxuIR" width="640" height="360" alt="A red and white horse. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="7d8fa518-f44d-4ebc-a3e3-c00e8f80181f" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/IMG_9105.JPG?itok=CphhIo28" width="640" height="360" alt="A red a white horse wearing halter with cloudy sky in background. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Athena at the Wheatland Off-Range Corral.</figcaption>
+</figure>
+
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/wild-horse-and-burro" hreflang="en">Wild Horse and Burro</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-04-12T12:00:00Z">Fri, 04/12/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/high-plains-district-office" hreflang="en">High Plains District Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47619/edit" hreflang="en">Athena1</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/wild-horse-and-burro" hreflang="en">Wild Horse and Burro</a></div>
+              <div><a href="https://www.blm.gov/tag/wild-horse-and-burro-event" hreflang="en">Wild Horse and Burro Event</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/wyoming" hreflang="en">Wyoming</a></div>
+          <div><a href="https://www.blm.gov/editorial-access/high-plains-do" hreflang="en">High Plains DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47618/edit" hreflang="en">Athena1</a></div>
+          </div> 
+
+<https://www.blm.gov/blog/2024-04-09/desert-tortoise-rescued-mineshaft-newberry-mountains-wilderness>
+
+---
+
+## With summer around the corner, BLM Arizona and partners share tips for preventing roadside fires during rest area events
+
+date: 2024-04-09, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Meet Athena: the 5-year-old halter-started mare available for adoption from the Wheatland Corral </h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">Meet Athena, a five-year-old pinto mare available for adoption at the Wheatland Off-Range Corral’s (ORC) upcoming adoption even happening April 19. Athena is one of 29 wild horses to be offered for adoption at the Wheatland ORC’s first in-person event of 2024. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">While each animals brings its own uniqueness in physical attributes and demeanor, what sets Athena apart is her backstory and training foundation. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">Athena was born at the BLM Rock Springs Holding Facility in 2019 from a mare gathered from the Green Mountain Herd Management Area in central Wyoming. After she was weaned and prepped for adoption (freeze marked, dewormed, and Coggins tested) she traveled to the Mantle Training Facility in Wheatland, Wyo., in February 2020. She was then adopted from the Mantles as a halter-trained horse in May 2021. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">During routine compliance checks conducted by BLM staff, it was found that Athena’s original adopter had failed to title her before giving her away. Luckily for Athena, staff were able to work with the original adopter to track her down. Through discussion with the original adopter and the person she had been given to, it was decided that it would be in Athena’s best interest to be repossessed. Her journey brought her back to Wheatland, where she has since been cared for by the Wheatland ORC. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Upon arrival to the Wheatland ORC, Athena was dewormed, vaccinated, and had hooves trimmed. Considering her previous training and demeanor, the staff at Wheatland took her on as an additional project to their normal day-to-day work. Wild horse and burro specialist Mike North and Kirren Seiler, wild horse program assistant, began working with Athena shortly after her arrival. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Seiler had this to say about Athena:</span></span></span></span></span></span></span></p>
+
+<p style="margin-left:48px; margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">“When starting to work with Athena, we wanted to evaluate what she knew and where we needed to start. She was nervous and distracted with her new surroundings and strange people, but she was never mean. After working with her for a few weeks, it was evident that she had a good foundation and just needed a restart with consistency. She is learning to respect personal space, is very responsive on the lead, has started meeting us at the gate, and follows us back to the gate after un-haltering. She walks right in the trailer but can get nervous once inside; however, she’s learning to quiet down and walk straight or back out nicely. She can get distracted easily and fidgets but is willing to learn and settles down the more she’s worked with. Overall, she is a very sweet and willing mare and will make a great horse for someone that gives her consistent training – makes her think and focus on a task.”</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Due to her training, Athena does not qualify for the Adoption Incentive Program. However, the Wheatland ORC will have 29 other nice animals available for adoption at the facility’s adoption event happening from 8 a.m. to noon on Friday, April 19. The live competitive auction starts at 9 a.m.</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">“We hope that potential adopters will come out to Wheatland to see all the great animals we have to offer, and that Athena finds the right fit with a new adopter,” says facility manager JJ Nolan. “She still has a way to go, but she has a solid foundation under her hooves thanks to the training by the Mantles, as well as Mike and Kirren.”</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="border:none windowtext 1.0pt; background:white; padding:0in"><span style="font-family:Roboto"><span style="color:black">To learn more about our Adoption Incentive Program, go to&nbsp;</span></span></span><u><span lang="EN-CA" style="border:none windowtext 1.0pt; background:white; padding:0in"><span style="font-family:Roboto"><span style="color:blue"><a data-auth="Verified" data-linkindex="1" href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.usa.gov%2FxmBgm&amp;data=05%7C02%7Ctfinnicum%40blm.gov%7C2cf3dc83617a475062e608dc59aac813%7C0693b5ba4b184d7b9341f32f400a5494%7C0%7C0%7C638483837233527925%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=YnXCdrglqPhotR%2Fl3EniAKzJlP2S5lKoOJ%2F5F3HjjoM%3D&amp;reserved=0" style="color:blue; text-decoration:underline" target="_blank" title="Original URL: https://go.usa.gov/xmBgm. Click or tap if you trust this link."><span style="font-variant-ligatures:normal; text-align:start"><span style="font-variant-numeric:inherit"><span style="font-variant-east-asian:inherit"><span style="font-variant-alternates:inherit"><span style="font-variant-position:inherit"><span style="font-stretch:inherit"><span style="line-height:inherit"><span style="font-optical-sizing:inherit"><span style="font-kerning:inherit"><span style="font-feature-settings:inherit"><span style="font-variation-settings:inherit"><span style="text-decoration-thickness:initial"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial">https://go.usa.gov/xmBgm</span></span></span></span></span></span></span></span></span></span></span></span></span></span></a></span></span></span></u><span lang="EN-CA" style="border:none windowtext 1.0pt; background:white; padding:0in"><span style="font-family:Roboto"><span style="color:black"><span style="font-variant-ligatures:normal; text-align:start"><span style="font-variant-numeric:inherit"><span style="font-variant-east-asian:inherit"><span style="font-variant-alternates:inherit"><span style="font-variant-position:inherit"><span style="font-stretch:inherit"><span style="line-height:inherit"><span style="font-optical-sizing:inherit"><span style="font-kerning:inherit"><span style="font-feature-settings:inherit"><span style="font-variation-settings:inherit"><span style="text-decoration-thickness:initial"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial">. To learn more about our sales authority program, please visit&nbsp;<a data-auth="Verified" data-linkindex="2" href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.blm.gov%2Fprograms%2Fwild-horse-and-burro%2Fadoption-and-sales%2Fsales-program&amp;data=05%7C02%7Ctfinnicum%40blm.gov%7C2cf3dc83617a475062e608dc59aac813%7C0693b5ba4b184d7b9341f32f400a5494%7C0%7C0%7C638483837233537568%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=CrsaZ99auPeTw8A8svr%2FGIDv4Jn9Kha96SDFfbGDFbQ%3D&amp;reserved=0" style="color:blue; text-decoration:underline" target="_blank" title="Original URL: https://www.blm.gov/programs/wild-horse-and-burro/adoption-and-sales/sales-program. Click or tap if you trust this link.">https://www.blm.gov/programs/wild-horse-and-burro/adoption-and-sales/sales-program</a></span></span></span></span></span></span></span></span></span></span></span></span></span></span>. </span></span></span></span></span></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f69eb83a-b4e1-4ef1-b38f-dafa5e03837b" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/IMG_9084_0.JPG?itok=co1Qr-y0" width="640" height="463" alt="A red and white pinto horse. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="5c76b2ac-cc2f-4de0-96c6-d64fe65974a0" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/IMG_9122.JPG?itok=rGDFxuIR" width="640" height="360" alt="A red and white horse. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="7d8fa518-f44d-4ebc-a3e3-c00e8f80181f" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/IMG_9105.JPG?itok=CphhIo28" width="640" height="360" alt="A red a white horse wearing halter with cloudy sky in background. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Athena at the Wheatland Off-Range Corral.</figcaption>
+</figure>
+
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/wild-horse-and-burro" hreflang="en">Wild Horse and Burro</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-04-12T12:00:00Z">Fri, 04/12/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/high-plains-district-office" hreflang="en">High Plains District Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47619/edit" hreflang="en">Athena1</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/wild-horse-and-burro" hreflang="en">Wild Horse and Burro</a></div>
+              <div><a href="https://www.blm.gov/tag/wild-horse-and-burro-event" hreflang="en">Wild Horse and Burro Event</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/wyoming" hreflang="en">Wyoming</a></div>
+          <div><a href="https://www.blm.gov/editorial-access/high-plains-do" hreflang="en">High Plains DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47618/edit" hreflang="en">Athena1</a></div>
+          </div> 
+
+<https://www.blm.gov/blog/2024-04-09/blm-arizona-tips-preventing-roadside-fires>
+
+---
+
+## Geologists rock at the Bureau of Land Management Arizona
+
+date: 2024-04-08, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Meet Athena: the 5-year-old halter-started mare available for adoption from the Wheatland Corral </h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">Meet Athena, a five-year-old pinto mare available for adoption at the Wheatland Off-Range Corral’s (ORC) upcoming adoption even happening April 19. Athena is one of 29 wild horses to be offered for adoption at the Wheatland ORC’s first in-person event of 2024. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">While each animals brings its own uniqueness in physical attributes and demeanor, what sets Athena apart is her backstory and training foundation. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">Athena was born at the BLM Rock Springs Holding Facility in 2019 from a mare gathered from the Green Mountain Herd Management Area in central Wyoming. After she was weaned and prepped for adoption (freeze marked, dewormed, and Coggins tested) she traveled to the Mantle Training Facility in Wheatland, Wyo., in February 2020. She was then adopted from the Mantles as a halter-trained horse in May 2021. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">During routine compliance checks conducted by BLM staff, it was found that Athena’s original adopter had failed to title her before giving her away. Luckily for Athena, staff were able to work with the original adopter to track her down. Through discussion with the original adopter and the person she had been given to, it was decided that it would be in Athena’s best interest to be repossessed. Her journey brought her back to Wheatland, where she has since been cared for by the Wheatland ORC. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Upon arrival to the Wheatland ORC, Athena was dewormed, vaccinated, and had hooves trimmed. Considering her previous training and demeanor, the staff at Wheatland took her on as an additional project to their normal day-to-day work. Wild horse and burro specialist Mike North and Kirren Seiler, wild horse program assistant, began working with Athena shortly after her arrival. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Seiler had this to say about Athena:</span></span></span></span></span></span></span></p>
+
+<p style="margin-left:48px; margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">“When starting to work with Athena, we wanted to evaluate what she knew and where we needed to start. She was nervous and distracted with her new surroundings and strange people, but she was never mean. After working with her for a few weeks, it was evident that she had a good foundation and just needed a restart with consistency. She is learning to respect personal space, is very responsive on the lead, has started meeting us at the gate, and follows us back to the gate after un-haltering. She walks right in the trailer but can get nervous once inside; however, she’s learning to quiet down and walk straight or back out nicely. She can get distracted easily and fidgets but is willing to learn and settles down the more she’s worked with. Overall, she is a very sweet and willing mare and will make a great horse for someone that gives her consistent training – makes her think and focus on a task.”</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Due to her training, Athena does not qualify for the Adoption Incentive Program. However, the Wheatland ORC will have 29 other nice animals available for adoption at the facility’s adoption event happening from 8 a.m. to noon on Friday, April 19. The live competitive auction starts at 9 a.m.</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">“We hope that potential adopters will come out to Wheatland to see all the great animals we have to offer, and that Athena finds the right fit with a new adopter,” says facility manager JJ Nolan. “She still has a way to go, but she has a solid foundation under her hooves thanks to the training by the Mantles, as well as Mike and Kirren.”</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="border:none windowtext 1.0pt; background:white; padding:0in"><span style="font-family:Roboto"><span style="color:black">To learn more about our Adoption Incentive Program, go to&nbsp;</span></span></span><u><span lang="EN-CA" style="border:none windowtext 1.0pt; background:white; padding:0in"><span style="font-family:Roboto"><span style="color:blue"><a data-auth="Verified" data-linkindex="1" href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.usa.gov%2FxmBgm&amp;data=05%7C02%7Ctfinnicum%40blm.gov%7C2cf3dc83617a475062e608dc59aac813%7C0693b5ba4b184d7b9341f32f400a5494%7C0%7C0%7C638483837233527925%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=YnXCdrglqPhotR%2Fl3EniAKzJlP2S5lKoOJ%2F5F3HjjoM%3D&amp;reserved=0" style="color:blue; text-decoration:underline" target="_blank" title="Original URL: https://go.usa.gov/xmBgm. Click or tap if you trust this link."><span style="font-variant-ligatures:normal; text-align:start"><span style="font-variant-numeric:inherit"><span style="font-variant-east-asian:inherit"><span style="font-variant-alternates:inherit"><span style="font-variant-position:inherit"><span style="font-stretch:inherit"><span style="line-height:inherit"><span style="font-optical-sizing:inherit"><span style="font-kerning:inherit"><span style="font-feature-settings:inherit"><span style="font-variation-settings:inherit"><span style="text-decoration-thickness:initial"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial">https://go.usa.gov/xmBgm</span></span></span></span></span></span></span></span></span></span></span></span></span></span></a></span></span></span></u><span lang="EN-CA" style="border:none windowtext 1.0pt; background:white; padding:0in"><span style="font-family:Roboto"><span style="color:black"><span style="font-variant-ligatures:normal; text-align:start"><span style="font-variant-numeric:inherit"><span style="font-variant-east-asian:inherit"><span style="font-variant-alternates:inherit"><span style="font-variant-position:inherit"><span style="font-stretch:inherit"><span style="line-height:inherit"><span style="font-optical-sizing:inherit"><span style="font-kerning:inherit"><span style="font-feature-settings:inherit"><span style="font-variation-settings:inherit"><span style="text-decoration-thickness:initial"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial">. To learn more about our sales authority program, please visit&nbsp;<a data-auth="Verified" data-linkindex="2" href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.blm.gov%2Fprograms%2Fwild-horse-and-burro%2Fadoption-and-sales%2Fsales-program&amp;data=05%7C02%7Ctfinnicum%40blm.gov%7C2cf3dc83617a475062e608dc59aac813%7C0693b5ba4b184d7b9341f32f400a5494%7C0%7C0%7C638483837233537568%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=CrsaZ99auPeTw8A8svr%2FGIDv4Jn9Kha96SDFfbGDFbQ%3D&amp;reserved=0" style="color:blue; text-decoration:underline" target="_blank" title="Original URL: https://www.blm.gov/programs/wild-horse-and-burro/adoption-and-sales/sales-program. Click or tap if you trust this link.">https://www.blm.gov/programs/wild-horse-and-burro/adoption-and-sales/sales-program</a></span></span></span></span></span></span></span></span></span></span></span></span></span></span>. </span></span></span></span></span></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f69eb83a-b4e1-4ef1-b38f-dafa5e03837b" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/IMG_9084_0.JPG?itok=co1Qr-y0" width="640" height="463" alt="A red and white pinto horse. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="5c76b2ac-cc2f-4de0-96c6-d64fe65974a0" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/IMG_9122.JPG?itok=rGDFxuIR" width="640" height="360" alt="A red and white horse. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="7d8fa518-f44d-4ebc-a3e3-c00e8f80181f" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/IMG_9105.JPG?itok=CphhIo28" width="640" height="360" alt="A red a white horse wearing halter with cloudy sky in background. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Athena at the Wheatland Off-Range Corral.</figcaption>
+</figure>
+
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/wild-horse-and-burro" hreflang="en">Wild Horse and Burro</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-04-12T12:00:00Z">Fri, 04/12/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/high-plains-district-office" hreflang="en">High Plains District Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47619/edit" hreflang="en">Athena1</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/wild-horse-and-burro" hreflang="en">Wild Horse and Burro</a></div>
+              <div><a href="https://www.blm.gov/tag/wild-horse-and-burro-event" hreflang="en">Wild Horse and Burro Event</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/wyoming" hreflang="en">Wyoming</a></div>
+          <div><a href="https://www.blm.gov/editorial-access/high-plains-do" hreflang="en">High Plains DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47618/edit" hreflang="en">Athena1</a></div>
+          </div> 
+
+<https://www.blm.gov/blog/2024-04-08/blm-arizona-geologists-day>
+
+---
+
+## BLM helps conduct groundbreaking research on wildlife and solar development
+
+date: 2024-04-08, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Meet Athena: the 5-year-old halter-started mare available for adoption from the Wheatland Corral </h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">Meet Athena, a five-year-old pinto mare available for adoption at the Wheatland Off-Range Corral’s (ORC) upcoming adoption even happening April 19. Athena is one of 29 wild horses to be offered for adoption at the Wheatland ORC’s first in-person event of 2024. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">While each animals brings its own uniqueness in physical attributes and demeanor, what sets Athena apart is her backstory and training foundation. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">Athena was born at the BLM Rock Springs Holding Facility in 2019 from a mare gathered from the Green Mountain Herd Management Area in central Wyoming. After she was weaned and prepped for adoption (freeze marked, dewormed, and Coggins tested) she traveled to the Mantle Training Facility in Wheatland, Wyo., in February 2020. She was then adopted from the Mantles as a halter-trained horse in May 2021. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:#222222">During routine compliance checks conducted by BLM staff, it was found that Athena’s original adopter had failed to title her before giving her away. Luckily for Athena, staff were able to work with the original adopter to track her down. Through discussion with the original adopter and the person she had been given to, it was decided that it would be in Athena’s best interest to be repossessed. Her journey brought her back to Wheatland, where she has since been cared for by the Wheatland ORC. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Upon arrival to the Wheatland ORC, Athena was dewormed, vaccinated, and had hooves trimmed. Considering her previous training and demeanor, the staff at Wheatland took her on as an additional project to their normal day-to-day work. Wild horse and burro specialist Mike North and Kirren Seiler, wild horse program assistant, began working with Athena shortly after her arrival. </span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Seiler had this to say about Athena:</span></span></span></span></span></span></span></p>
+
+<p style="margin-left:48px; margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">“When starting to work with Athena, we wanted to evaluate what she knew and where we needed to start. She was nervous and distracted with her new surroundings and strange people, but she was never mean. After working with her for a few weeks, it was evident that she had a good foundation and just needed a restart with consistency. She is learning to respect personal space, is very responsive on the lead, has started meeting us at the gate, and follows us back to the gate after un-haltering. She walks right in the trailer but can get nervous once inside; however, she’s learning to quiet down and walk straight or back out nicely. She can get distracted easily and fidgets but is willing to learn and settles down the more she’s worked with. Overall, she is a very sweet and willing mare and will make a great horse for someone that gives her consistent training – makes her think and focus on a task.”</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">Due to her training, Athena does not qualify for the Adoption Incentive Program. However, the Wheatland ORC will have 29 other nice animals available for adoption at the facility’s adoption event happening from 8 a.m. to noon on Friday, April 19. The live competitive auction starts at 9 a.m.</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-family:Roboto"><span style="color:black">“We hope that potential adopters will come out to Wheatland to see all the great animals we have to offer, and that Athena finds the right fit with a new adopter,” says facility manager JJ Nolan. “She still has a way to go, but she has a solid foundation under her hooves thanks to the training by the Mantles, as well as Mike and Kirren.”</span></span></span></span></span></span></span></p>
+
+<p style="margin-bottom:13px"><span style="font-size:11pt"><span style="background:white"><span style="vertical-align:baseline"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="border:none windowtext 1.0pt; background:white; padding:0in"><span style="font-family:Roboto"><span style="color:black">To learn more about our Adoption Incentive Program, go to&nbsp;</span></span></span><u><span lang="EN-CA" style="border:none windowtext 1.0pt; background:white; padding:0in"><span style="font-family:Roboto"><span style="color:blue"><a data-auth="Verified" data-linkindex="1" href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.usa.gov%2FxmBgm&amp;data=05%7C02%7Ctfinnicum%40blm.gov%7C2cf3dc83617a475062e608dc59aac813%7C0693b5ba4b184d7b9341f32f400a5494%7C0%7C0%7C638483837233527925%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=YnXCdrglqPhotR%2Fl3EniAKzJlP2S5lKoOJ%2F5F3HjjoM%3D&amp;reserved=0" style="color:blue; text-decoration:underline" target="_blank" title="Original URL: https://go.usa.gov/xmBgm. Click or tap if you trust this link."><span style="font-variant-ligatures:normal; text-align:start"><span style="font-variant-numeric:inherit"><span style="font-variant-east-asian:inherit"><span style="font-variant-alternates:inherit"><span style="font-variant-position:inherit"><span style="font-stretch:inherit"><span style="line-height:inherit"><span style="font-optical-sizing:inherit"><span style="font-kerning:inherit"><span style="font-feature-settings:inherit"><span style="font-variation-settings:inherit"><span style="text-decoration-thickness:initial"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial">https://go.usa.gov/xmBgm</span></span></span></span></span></span></span></span></span></span></span></span></span></span></a></span></span></span></u><span lang="EN-CA" style="border:none windowtext 1.0pt; background:white; padding:0in"><span style="font-family:Roboto"><span style="color:black"><span style="font-variant-ligatures:normal; text-align:start"><span style="font-variant-numeric:inherit"><span style="font-variant-east-asian:inherit"><span style="font-variant-alternates:inherit"><span style="font-variant-position:inherit"><span style="font-stretch:inherit"><span style="line-height:inherit"><span style="font-optical-sizing:inherit"><span style="font-kerning:inherit"><span style="font-feature-settings:inherit"><span style="font-variation-settings:inherit"><span style="text-decoration-thickness:initial"><span style="text-decoration-style:initial"><span style="text-decoration-color:initial">. To learn more about our sales authority program, please visit&nbsp;<a data-auth="Verified" data-linkindex="2" href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.blm.gov%2Fprograms%2Fwild-horse-and-burro%2Fadoption-and-sales%2Fsales-program&amp;data=05%7C02%7Ctfinnicum%40blm.gov%7C2cf3dc83617a475062e608dc59aac813%7C0693b5ba4b184d7b9341f32f400a5494%7C0%7C0%7C638483837233537568%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=CrsaZ99auPeTw8A8svr%2FGIDv4Jn9Kha96SDFfbGDFbQ%3D&amp;reserved=0" style="color:blue; text-decoration:underline" target="_blank" title="Original URL: https://www.blm.gov/programs/wild-horse-and-burro/adoption-and-sales/sales-program. Click or tap if you trust this link.">https://www.blm.gov/programs/wild-horse-and-burro/adoption-and-sales/sales-program</a></span></span></span></span></span></span></span></span></span></span></span></span></span></span>. </span></span></span></span></span></span></span></span></p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f69eb83a-b4e1-4ef1-b38f-dafa5e03837b" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/IMG_9084_0.JPG?itok=co1Qr-y0" width="640" height="463" alt="A red and white pinto horse. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="5c76b2ac-cc2f-4de0-96c6-d64fe65974a0" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/IMG_9122.JPG?itok=rGDFxuIR" width="640" height="360" alt="A red and white horse. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="7d8fa518-f44d-4ebc-a3e3-c00e8f80181f" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/IMG_9105.JPG?itok=CphhIo28" width="640" height="360" alt="A red a white horse wearing halter with cloudy sky in background. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Athena at the Wheatland Off-Range Corral.</figcaption>
+</figure>
+
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/wild-horse-and-burro" hreflang="en">Wild Horse and Burro</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-04-12T12:00:00Z">Fri, 04/12/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/high-plains-district-office" hreflang="en">High Plains District Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47619/edit" hreflang="en">Athena1</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/wild-horse-and-burro" hreflang="en">Wild Horse and Burro</a></div>
+              <div><a href="https://www.blm.gov/tag/wild-horse-and-burro-event" hreflang="en">Wild Horse and Burro Event</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/wyoming" hreflang="en">Wyoming</a></div>
+          <div><a href="https://www.blm.gov/editorial-access/high-plains-do" hreflang="en">High Plains DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/47618/edit" hreflang="en">Athena1</a></div>
+          </div> 
+
+<https://www.blm.gov/blog/2024-04-08/blm-helps-conduct-groundbreaking-research-wildlife-and-solar-development>
+

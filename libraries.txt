@@ -4,3 +4,26 @@ http://feeds.feedburner.com/c4lj "~Cod4Lib Journal" curl/8.5.0 curl/8.5.0 (rsdoi
 https://scholarlykitchen.sspnet.org/feed/ "~Scholarly Kitchen" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://theparachute.blogspot.com/feeds/posts/default?alt=rss "~Parachute blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://blog.scielo.org/en/feed/ "~SciELO in Perspective" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.research-collection.ethz.ch/feed/rss_2.0/site "~ETH Zurich, recently added"
+#https://www.rc-blog.ethz.ch/en/feed/ "~ETH Zurich Research Archives", redirects as of 2023-12-06
+https://rc-blog.ethz.ch/en/feed/ "~ETH Zurich Research Archives"
+https://jon-e.net/blog/feed.xml "~Jonny Saunders blog"
+https://standardebooks.org/feeds/rss/new-releases "~Standard Ebooks, new releaases" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://blog.arxiv.org/feed/ "~arXiv blog"
+
+#
+# Software Research (Acedemic and Industrial)
+#
+https://www.research-collection.ethz.ch/feed/rss_2.0/site "~ETH Zurich, recently added"
+
+#
+# Library, Archives and Museums
+#
+https://blog.openlibrary.org/feed/ "~Open Library Blog"
+https://libcal.caltech.edu/rss.php?m=month&iid=3271&cid=3754 "~Caltech Library Events"
+https://library.csun.edu/blogs/cited/feed/ "~CSUN Library Blog, Cited"
+https://www.santaclaritalibrary.com/feed/ "~Santa Clarita Public Library"
+#https://export.arxiv.org/rss/cs?version=2.0 "~arXiv Computer Science deposits"
+#https://fis.uni-bamberg.de/feed/atom_1.0/site?locale=en "~University of Bamberg, IR publications feed" # feed no longer available, 2023-10-10
+##https://iiif.io/news/atom.xml "~IIIF News" # Feed removed, discovered 2023-10-10
+

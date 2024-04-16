@@ -1,10 +1,15 @@
 ---
 title: weather 2023.50
+<<<<<<< HEAD
 updated: 2023-12-17 09:46:13
+=======
+updated: 2023-12-17 11:13:29
+>>>>>>> 8087c72b68e24cb3d3acf19d37b3226bcbf2df14
 ---
 
 # weather 2023.50
 
+<<<<<<< HEAD
 (date: 2023-12-17 09:46:13)
 
 ---
@@ -75,6 +80,9 @@ No watches are valid as of Sun Dec 17 17:19:02 UTC 2023.
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
 </span>
+=======
+(date: 2023-12-17 11:13:29)
+>>>>>>> 8087c72b68e24cb3d3acf19d37b3226bcbf2df14
 
 ---
 
@@ -133,6 +141,153 @@ LAT...LON   33227967 33697946 34387880 34757814 34987730 34907648
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/md/md2333.html">https://www.spc.noaa.gov/products/md/md2333.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/md2333.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Tornado Watch 722 Status Reports
+
+date: 2023-12-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0722.html"><img src="https://www.spc.noaa.gov/products/watch/ww0722_radar.gif" border="1" alt="WW 0722 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS FOR WATCH 0722 HAS NOT BEEN ISSUED YET
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0722.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/ws0722.html">https://www.spc.noaa.gov/products/watch/ws0722.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/ws0722.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Tornado Watch 722
+
+date: 2023-12-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0722.html"><img src="https://www.spc.noaa.gov/products/watch/ww0722_radar.gif" border="1" alt="WW 0722 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 722
+NWS Storm Prediction Center Norman OK
+150 PM EST Sun Dec 17 2023
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  eastern North Carolina
+  Coastal Waters
+
+* Effective this Sunday afternoon and evening from 150 PM until
+  800 PM EST.
+
+* Primary threats include...
+  A few tornadoes and a couple intense tornadoes possible
+  Scattered damaging wind gusts to 65 mph possible
+
+SUMMARY...Potential for locally damaging winds and a couple of
+tornadoes will gradually increase this afternoon and into this
+evening, as locally intense thunderstorms shift north-northeastward
+across the North Carolina Coastal Plain and Outer Banks area.
+
+The tornado watch area is approximately along and 45 statute miles
+east and west of a line from 110 miles northeast of New Bern NC to
+30 miles south of Wilmington NC. For a complete depiction of the
+watch see the associated watch outline update (WOUS64 KWNS WOU2).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 0.5 inches. Extreme turbulence and surface wind
+gusts to 55 knots. A few cumulonimbi with maximum tops to 400. Mean
+storm motion vector 18040.
+
+...Goss
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0722.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/ww0722.html">https://www.spc.noaa.gov/products/watch/ww0722.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/ww0722.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC - No watches are valid as of Sun Dec 17 17:51:01 UTC 2023
+
+date: 2023-12-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Sun Dec 17 17:51:01 UTC 2023.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Dec 17, 2023 1730 UTC Day 2 Convective Outlook
+
+date: 2023-12-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1114 AM CST Sun Dec 17 2023
+
+Valid 181200Z - 191200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FROM NEW JERSEY
+INTO SOUTHERN NEW ENGLAND...
+
+...SUMMARY...
+A few damaging gusts are possible from the eastern shore of New
+Jersey into southern New England Monday morning. A few isolated
+lightning flashes are possible along the northern/central California
+coast.
+
+...Northeast...
+
+A strong coastal low, oriented near NJ/DE Monday morning, will
+continue to modestly deepen as it lifts north/northeast through the
+period. Very strong deep-layer south/southeasterly flow ahead of the
+low and the associated shortwave trough will be oriented over the
+offshore waters and overspreading New England. While this will allow
+for 50s F dewpoints to spread across parts of southern New England,
+very moist and warm low/midlevel thermodynamic profiles are
+forecast. Widespread showers and cloud cover will preclude much
+heating, and low/midlevel lapse rates will remain poor. As a result,
+instability will remain meager. Nevertheless, strong ascent may be
+sufficient for a few lightning flashes and perhaps a stronger
+convective element or two moving onshore from the New Jersey to
+southern New England coast. With forecast winds in the 925-850 mb
+layer well over 50 kt, strong/damaging gusts are possible despite
+the overall poor thermodynamic environment. 
+
+...Northern/Central CA...
+
+A shortwave trough will move onshore during the afternoon and into
+the nighttime hours on Monday. Cool temperatures aloft and strong
+large-scale ascent may be sufficient for a few lightning flashes
+through the afternoon hours.
+
+..Leitman.. 12/17/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">Save to Pocket</a>
 </span>
 
 ---

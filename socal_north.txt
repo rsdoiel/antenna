@@ -40,7 +40,7 @@ http://civiewnews.com/feed/ "~CI View (CSCI Student Newspaper)"
 #
 # NGO and community sites
 #
-https://www.tataviam-nsn.us/feed/ "~Tatavium Tribal News"
+#https://www.tataviam-nsn.us/feed/ "~Tatavium Tribal News" # feed not working 2023-12-20, cert not validating, unknown authority
 # Gabrielino Tribe feeds and be returning forbidden for a couple weeks, 2023-10-30 RSD
 #https://gabrielinotribe.org/tribal-news/feed/ "~Tongva Tribal News"
 https://laconservancy.tumblr.com/rss "~L.A. Conservancy Blog"

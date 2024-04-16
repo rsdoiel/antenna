@@ -6,7 +6,7 @@ SUNDAY = $(shell reldate sunday)
 SATURDAY = $(shell reldate saturday)
 VOL_NO = $(shell date +%Y.%W)
 
-YEAR = 2023
+YEAR = 2024
 ifneq ($(vol),)
         VOL_NO=$(vol)
 endif
@@ -20,13 +20,20 @@ endif
 
 PROJECT = Antenna
 
-section_names = socal_north pacific mid_central tech_likely columns weather writing games libraries parks
+section_names = socal_north pacific mid_central tech_likely columns weather writing games libraries parks health motorcycles retro_computing
 
 md_files = $(addsuffix .md,$(section_names))
 
 html_files = $(addsuffix .html,$(section_names))
 
-build: harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind
+build: harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind dump
+
+world: snapshots harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind dump
+
+california: harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind dump
+
+snapshots: .FORCE
+	cd snapshots && make
 
 website: markdown html archives index.html about.html search.html README.html pagefind
 
@@ -35,7 +42,7 @@ harvest: *.skim
 *.skim: *.txt
 
 *.txt: .FORCE
-	skimmer $@
+	-skimmer $@
 
 #
 # Helper rules to retrieve and debug specific feed lists
@@ -70,13 +77,24 @@ libraries: .FORCE
 parks: .FORCE
 	skimmer parks.txt
 
+health: .FORCE
+	skimmer health.txt
+
+motorcycles: .FORCE
+	skimmer motorcycles.txt
+
+retro_computing: .FORCE
+	skimmer retro_computing.txt
+
 markdown: $(md_files)
 
 $(md_files): .FORCE
+	#"DELETE FROM items WHERE LOWER(QUOTE(dc_ext)) LIKE '%sponsor%'"
+	sqlite3 $(basename $@).skim "DELETE FROM items WHERE LOWER(QUOTE(dc_ext)) LIKE '%sponsor%'"
 	sqlite3 $(basename $@).skim "UPDATE items SET status = 'read'"
 	sqlite3 $(basename $@).skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 	skim2md -title "$(shell echo $(basename $@) | sed -E 's/_/ /g') $(VOL_NO)" \
-		-frontmatter -pocket $(basename $@).skim \
+		-frontmatter $(basename $@).skim \
 		>$@
 	mkdir -p $(YEAR)
 	cp -v "$@" "$(YEAR)/$(basename $@)_$(VOL_NO).md"
@@ -99,6 +117,13 @@ html: front_page.tmpl $(html_files)
            --template front_page.tmpl \
            $< \
            >$@
+
+dump: .FORCE
+	./skimmer_to_sql.bash
+	git add *.sql.gz
+
+load: .FORCE
+	./sql_to_skimmer.bash
 
 archives: mk_archives.bash archives.tmpl
 	./mk_archives.bash      
@@ -210,6 +235,7 @@ refresh:
 	git pull origin $(BRANCH)
 
 publish: .FORCE
-	./publish.bash
+	@if [ "$(msg)" != "" ]; then git commit -am "$(msg)"; else git commit -am "Publish Site"; fi
+	git push origin main
 
 .FORCE:

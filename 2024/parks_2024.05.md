@@ -1,0 +1,1482 @@
+---
+title: parks 2024.05
+updated: 2024-02-02 17:13:17
+---
+
+# parks 2024.05
+
+(date: 2024-02-02 17:13:17)
+
+---
+
+## Community Partnerships: Cerbat Ridge Runners leaving it better than they found it
+
+date: 2024-02-02, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Community Partnerships: Cerbat Ridge Runners leaving it better than they found it</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:11px">On February 1, the Cerbat Ridge Runners UTV/ATV Club of Kingman, conducted a desert clean-up of garbage scattered throughout BLM-administered lands at the base of the Hualapai Mountains east of Kingman (Hualapai Mountain Road, around mile marker 4.5).</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="8ea02eb4-22f8-4032-97a1-1bce61c8fc4c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/CRD_KFO_1Feb2024_CerbatRidgeRunners_Cleanup.jpeg?itok=Br7HYABO" width="640" height="480" alt="Members, volunteers and agency partners group photo opportunity as they start the clean-up. Approximately 20 people are standing or in the front row on a knee.  " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Cerbat Ridge Runners OHV/UTV group members and volunteers are joined by BLM, State, and County agency partners to help clean up garbage scattered across a section of the Hualapai Mountain Road, on BLM-administered public lands.</figcaption>
+</figure>
+
+
+<p>The effort involved over 20 members and volunteers who loaded up their off-road machines to remove 3,780 pounds of illegally dumped waste from public land. The garbage consisted of five tires and one refrigerator, in addition to target shooting and camping debris.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="64765586-3521-46d9-a6c4-ad4d0145651a" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/CRD_KFO_1Feb2024_CerbatRidgeRiders_CleanUp_DesertHillsUTVs.jpeg?itok=kh3XOo5I" width="640" height="480" alt="Trucks and off-road vehicles are positioned to help volunteers on the desert hillsides. People are seen loading full trash bags into the backs of these vehicles. Others are on the landscape in the background picking up trash" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Hualapai Mountain Road clean-up volunteers from the Cerbat Ridge Runners load up their trucks and off-road vehicles with trashbags filled with garbage they have collected from the desert hills.</figcaption>
+</figure>
+
+
+<p>Representatives from the Bureau of Land Management Kingman Field Office, Mohave County ERACE (Environmental Rural Area Clean-up Enforcement), and Arizona Game and Fish Department also assisted in the clean-up effort.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="73608502-9609-4797-b860-e595f1230959" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/CRD_KFO_1Feb2024_CerbatRidgeRunners_CleanUp_TreesTrashBags.jpeg?itok=RY7QpUp7" width="640" height="480" alt="Volunteers with large black trash bags collecting trash from the ground underneath a grouping of trees," typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Volunteers collected target shooting and camping debris, in addition to illegally dumped tires and a refrigerator.</figcaption>
+</figure>
+
+
+<p>“Thanks to the Cerbat Ridge Runners and our partners, many wild animals, not just groundhogs, will be happy to emerge from their desert burrows this winter, “said Officer Carrie Wostal, BLM Law Enforcement Ranger, whose primary area of response are the BLM-administered lands in southern Mohave County including the Kingman area.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="0a82ca07-6d7a-4faf-86c2-02e9d6068cf8" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/CRD_KFO_1Feb2024_CerbatRidgeRunners_CleanUp_4WheelVolunteer.jpeg?itok=jrkZz36w" width="640" height="480" alt="Man on 4-wheeler hauling a small trailer filled with garbage on a dirt road." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>A volunteer happily removes a trailer load of garbage with his 4-wheeler.</figcaption>
+</figure>
+
+
+<p>We hope to see the Cerbat Ridge Runners again and again out on our public lands helping to leave the public lands they enjoy better than they found it. Their efforts are appreciated in all seasons.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="3af26502-5e46-40e8-acf6-e78653829b43" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/CRD_KFO_1Feb2024_CerbatRidgeRunners_CleanUp_DesertVolunteer.jpeg?itok=rKbnnnJJ" width="640" height="480" alt="Desert clean-up volunteer stands clutching a black garbage bag and trash grabbers . The tailgate of an Arizona Game and Fish vehicle is visible to the right in the background. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Volunteers braved the wind and cold to pick up garbage on the public lands they enjoy recreating on, and we thank them for their commitment.</figcaption>
+</figure>
+
+
+<p><em>Editor's Note: Thank you, Officer Carrie Wostal, for coordinating and participating in these events as part of your outreach efforts on the public lands you serve.</em></p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="c2de3e67-55df-4ec7-9770-8351f1dfa11a" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/CRD_KFO_1Feb2024_CerbatRidgeriders_CleanUp_GroupFullDumpster.jpeg?itok=S05Tm95M" width="640" height="480" alt="Volunteers and agency partners stand in front of a large dumpster trailer collected 3,780 pounds of garbage.  " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Volunteers and agency partners collected 3,780 pounds  garbage at this event.</figcaption>
+</figure>
+
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/colorado-river-do" hreflang="en">Colorado River DO</a></div>
+          <div><a href="https://www.blm.gov/region/kingman-fo" hreflang="en">Kingman FO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/partnerships" hreflang="en">Partnerships</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-02-02T12:00:00Z">Fri, 02/02/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/kingman-field-office" hreflang="en">Kingman Field Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46696/edit" hreflang="en">AZ_CRD_KFO_1Feb2024_CerbatRidgeriders_CleanUp_GroupFullDumpster</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/partnerships" hreflang="en">Partnerships</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/arizona" hreflang="en">Arizona</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46696/edit" hreflang="en">AZ_CRD_KFO_1Feb2024_CerbatRidgeriders_CleanUp_GroupFullDumpster</a></div>
+          </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-02-02/community-partnerships-cerbat-ridge-runners-leaving-it-better-they-found-it">https://www.blm.gov/blog/2024-02-02/community-partnerships-cerbat-ridge-runners-leaving-it-better-they-found-it</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-02-02/community-partnerships-cerbat-ridge-runners-leaving-it-better-they-found-it">Save to Pocket</a>
+</span>
+
+---
+
+## Dr. Annie Roach: A True Triple Wild Horse Heroine
+
+date: 2024-02-01, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Dr. Annie Roach: A True Triple Wild Horse Heroine</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p class="text-align-center"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen frameborder="0" height="315" src="https://www.youtube.com/embed/Q49_p4onLT0?si=jJTHxbiEjDPYW8No" title="YouTube video player" width="560"></iframe></p>
+
+<p>Annie Roach grew up in Reno, Nevada in the shadow of the Sierra Nevada mountains. She loved to watch the wild horses running freely on the range near her childhood home, the very same horses whose forebears inspired the grass roots campaign that achieved federal protection for them and free roaming burros in 1971. Though Dr. Roach was born many years after her death, Velma Johnston, the Reno woman nicknamed “Wild Horse Annie” for galvanizing a nation to push for the protection of these beloved icons, would have been very proud to know her.  </p>
+
+<p>Roach grew up with a love of horses and was an avid youth competitor in hunter jumper shows along the west coast. She always planned to be a veterinarian, so after finishing undergraduate studies at the University of California, Davis, Roach moved to Colorado to complete her master’s degree in Assisted Reproductive Technologies. It was while living in Fort Collins that Roach met her future husband, Zach, and they soon relocated to his home state of Minnesota so that Annie could pursue her veterinary degree.  </p>
+
+<p>As busy as she was with school and her upcoming marriage, Roach found she missed the simple joy of having her own equine partner. She decided that the perfect complement to her life would be a nice trail horse. Once the decision was made to add an equine family member, the choice seemed obvious, and she began looking into adopting a wild horse like the ones she grew up admiring. “I guess it was inevitable,” she said with a laugh.  “I grew up my whole life watching those beautiful horses on the range, and it seemed only fitting that I finally own one.” </p>
+
+<p>A gorgeous black mare available for adoption through the TIP (Trainer Incentive Program) caught her eye.  The mare was located in South Dakota, and Annie convinced her new husband (as in BRAND new – they were driving home to Minnesota after their wedding in California!), to make a short segue off the freeway to meet her potential new partner. Roach took one look at the mare she would name Willow and a love affair was born.  The rest, as they say, was history. </p>
+
+<p>After bringing five-year-old Willow home to Minnesota, Roach sent her to a nearby trainer to be started under saddle, and soon Willow was the trusted trail horse and partner that Annie had dreamed of.  </p>
+
+<p>After her graduation from vet school, Roach and her husband moved to Idaho for her internship at Idaho Equine Hospital in Nampa.  While working at Idaho Equine, Annie developed a close friendship with one of her mentors, Dr. Liz Scott, and the two discovered their mutual love of the American wild horse.  Dr. Scott is one of the veterinarians charged with overseeing the health of equines housed at the Bureau of Land Management’s Boise Off-Range Wild Horse Corral, and a staunch advocate for the horses and burros protected under the 1971 Wild Free-Roaming Horse and Burro Act.</p>
+
+<p>Roach and her husband fell in love with the Boise area and made the decision to settle in the Treasure Valley after her internship was completed. They eventually added another wild horse to their family with the adoption of a pretty palomino mare, Peach.  Peach was a competitor in the 2022 Mustang Mania Under-Saddle Competition with local trainer Emily Hickey. Under Hickey’s guidance, Peach was named the winner of the competition and Annie and Zach knew she’d be the perfect companion to accompany them and Willow as they explored  the trails around their new home.  <br>
+ <br>
+When Willow came down with colic in September 2023, no thought was required about who would provide the mare’s emergency medical care; she was rushed to Idaho Equine Hospital, and when the situation was unable to be resolved medically, Dr. Pete Knox performed life-saving surgery. The surgical intervention was successful, but Willow’s recovery was a long process, fraught with many challenges that required frequent follow-up appointments at the clinic.  </p>
+
+<p>It was during one of those appointments that Roach was introduced to two young foals that had been brought to the hospital for additional care following Idaho’s Black Mountain, Hardtrigger and Sands Basin wild horse gather.  The chestnut fillies were being looked after by Dr. Scott, and Scott’s veterinary technician Cassidy, a close friend of Annie, who broached the idea of her fostering one of the foals.  </p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="46274742-de75-4ce6-ab2f-fc217b4a998e" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/wildhorse_blog_Veterinarian%20Liz%20Scott%20and%20team.JPG?itok=fi6d4q5Z" width="640" height="442" alt="Three people in a room with two wild horse foals" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Dr. Liz Scott of Idaho Equine Hospital and her staff check on two wild horse foals  </figcaption>
+</figure>
+
+
+<p>“Cassidy approached me and asked if I would be willing to take one of the little ones home to care for her until she was old enough to be weaned and adopted out to a good home. I knew the commitment it would take to care for a foal that young, especially with her needing to be fed every four hours, so I did “ask” (air quotes from Roach herself) my husband if it would be OK. He is used to being married to a vet though, so I don’t think he was super surprised,” she said with a laugh.</p>
+
+<p>Before long the request turned to the fostering of both foals, and as Roach recounted, “The answer was, well, if I’m going to care for one, I might as well have two!” The babies moved to Roach’s home in Eagle where they were good company for the recuperating Willow, who was confined to a small pen as she recovered from her illness and the complications she experienced after surgery. </p>
+
+<p>It was during a subsequent follow-up visit for Willow at Idaho Equine that Roach learned there was a third foal at the clinic that needed help. A young paint colt had been brought in to ensure he received some extra attention.  This new foal also needed a foster home until he was old enough to be adopted, and when Dr. Scott mentioned the baby to Roach, she felt it was only right to add him to her nursery. The two chestnut fillies were joined by their new brother, Lemon, about a week after they settled into their Eagle foster home.  </p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="57de9e64-afa2-4c45-8445-61be4a67609d" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/wildhorse_blog_Three%20foals.JPEG?itok=xX_3b__8" width="640" height="480" alt="Three foals in a pen. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Three wild horse foals being cared for by a team of Idaho veterinarians</figcaption>
+</figure>
+
+
+<p>Providing the daily around the clock care required by these foals wasn’t possible for Roach to do alone, so she gratefully accepted help from a group of veterinary technician friends who took shifts caring for the youngsters during times when she could not be there. “I was so lucky to be able to count on my group of friends who volunteered to help with the feeding and monitoring of my little charges,” she recounted.  “It truly took a village, and I would not have been able to do it without them.”  </p>
+
+<p>At first all of the babies seemed to thrive, but within days the paint colt started to show signs of distress. “Lemon didn’t adjust well to the feeding at first,” Roach explained.  “He got behind nutritionally, and one manifestation of his health problems was an extreme photosensitivity, or adverse reaction to sunlight. He lost his hair in patches wherever the sunlight hit him, and he also developed kidney problems that required treatment back at the equine hospital.  He was a very sick little guy, and we were so fortunate to have a talented team that refused to give up on him,” she said. </p>
+
+<p>Once the foal had recovered enough to leave the hospital for the second time, he rejoined his adopted siblings, but with one big change.  “Lemon had to wear a full-body jacket when he came home to keep the sun off the patches where his hair was growing back. He was so cute, all decked out in his own baby horse clothes,” she said with a laugh.  Happily, Lemon made a full recovery after his initial setback and has overtaken his sisters in both height and weight since he regained his health. </p>
+
+<p>We visited the Roach’s idyllic Eagle property to meet the babies and hear the incredible story of the loving care that has gone into raising them. The beautiful, obviously healthy trio lives in a large paddock featuring a shelter brimming with straw and fresh hay and plenty of room to run. They share their lovely oasis with two exuberant dogs and a variety of chickens and geese. </p>
+
+<p>It was immediately obvious that the young horses were well-socialized; they approached us for scratches and pats as soon as we entered their pasture. Dr. Roach explained, however, that the foals were raised carefully to ensure they didn’t associate their human caretakers with actual mother figures.  Foals often test the environment and their boundaries by playfully biting and kicking their friends and their horse mamas, a behavior that can quickly become dangerous to human caretakers as the babies grow to their mature size and weight of 1,000 pounds or more.  “We were careful to feed them from buckets hung on the fence rather than hand-feeding with an actual bottle,” she explained.  “As anyone who has raised a foal at home knows, these little guys can get pretty demanding with their dams when they are hungry. I didn’t want to take a chance with anyone’s safety as they grew and became more habituated to their feeding schedules.”  </p>
+
+<p>The foals were a true testament to the horsemanship that has shaped their young lives. Annie fitted them each in matching blue halters and we took them out for a stroll around her bucolic property. They were as obedient as any toddler in a new environment can possibly be, with a healthy dose of playfulness and inquisitiveness thrown in just to prove they were still babies. </p>
+
+<p>At the completion of our field trip, we had to ask the obvious question: what’s next for the adorable trio? Annie laughed, “Welllllll, Zach and I haven’t really talked about it yet, but I’d like to keep one of them.” Which one? She ruffled the fuzzy forelock of the bald-faced chestnut filly she named Juniper and calls Junie for short. “Probably this one,” she said with a smile. “I love them all, but this little girl is really special to me.” The blaze-faced filly Aspen and the leggy paint colt Lemon looked on, seemingly unperturbed at not being Roach’s first choice. “We will definitely make sure they go to good homes, and I know they will make really nice horses for someone,” she said. “I can’t wait to watch them go on and do great things.”</p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="1a8eca0a-0e7b-44bf-ac8a-9f2afa0951ea" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/wildhorse_blog_Annie_foal.JPG?itok=Yn3YtgXd" width="640" height="427" alt="Woman standing with young horse. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Idaho veterinarian Annie Roach and one of the foals in her care</figcaption>
+</figure>
+
+
+<p>Dr. Annie Roach is a compliment to her profession and a true example of dedicated  horsemanship and love of the equine species.  We feel honored to feature her as a triple hero to the American wild horse.  </p>
+
+<p class="text-align-center"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="87af4004-e98b-4c6e-aeaf-63123be0dbe1" href="https://www.blm.gov/programs/wild-horse-and-burro/adoption-and-sales/events">Make plans to adopt your own wild horse or burro and create your own story</a>! </p>
+
+<p class="text-align-center">Submit your own wild horse or burro story to <a href="mailto:wildhorse@blm.gov">wildhorse@blm.gov</a>. </p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/wild-horse-and-burro" hreflang="en">Wild Horse and Burro</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-02-01T12:00:00Z">Thu, 02/01/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46678/edit" hreflang="en">wildhorse_blog_Annie_foal</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>On</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -related-content">
+    <div><strong>Related Content:</strong> </div>
+          <div>
+              <div>
+
+  <div class="paragraph paragraph--type--wysiwyg paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+            <div class="field contact-block -summary"><h3 class="gray-background"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="c14b0485-526f-4877-8c23-5eb2142c2433" href="https://www.blm.gov/programs/wild-horse-and-burro/tales-from-the-trails-blog">Back to the Tales from the Trails blog</a></h3>
+</div>
+      
+      </div>
+</div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/wild-horse-and-burro" hreflang="en">Wild Horse and Burro</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/260-wild-horse-and-burros" hreflang="en">260 - Wild Horse and Burros</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46678/edit" hreflang="en">wildhorse_blog_Annie_foal</a></div>
+          </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-02-01/dr-annie-roach-true-triple-wild-horse-heroine">https://www.blm.gov/blog/2024-02-01/dr-annie-roach-true-triple-wild-horse-heroine</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-02-01/dr-annie-roach-true-triple-wild-horse-heroine">Save to Pocket</a>
+</span>
+
+---
+
+## BLM plans prescribed burn at Lathrop Bayou
+
+date: 2024-02-01, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>BLM plans prescribed burn at Lathrop Bayou</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p><strong>FALLS CHURCH, Va. –</strong> The Bureau of Land Management plans to conduct a prescribed burn at Lathrop Bayou, located in Bay County, Florida east of Tyndall Air Force Base in East Bay, as weather and fuel conditions allow. The fuels treatment, slated for the week of Feb. 5, 2024, will remove vegetative material that contributes to the severity of potential wildfires and improve the health of fire-adapted habitats for wildlife and people.</p>
+
+<p>In close collaboration with state and federal partners, BLM will apply fire to approximately 561 acres on four islands in Lathrop Bayou as well as on adjacent private lands. The last burn at Lathrop Bayou occurred in 2020, and damage from extreme weather, including hurricanes and tropical storms, has added additional fuels to the area.</p>
+
+<p>Lathrop Bayou’s longleaf and slash pine ecosystem requires fire to be healthy. The fire prescription will reduce ground fuel vegetation (e.g., leaves, pine needles, and logs) and improve habitat conditions for imperiled plants and animals such as the endangered red-cockaded woodpecker and several threatened plants, including the Florida skullcap and white-birds-in-a-nest wildflower. The ideal fire regime to maintain a healthy pine ecosystem occurs about every 2-4 years.</p>
+
+<p>Fully trained and experienced prescribed fire applicators from the BLM and U.S. Fish and Wildlife Service will conduct the burn. The fire will be lit aerially with ground support, containment will be achievable due to presence of surrounding water bodies. Ground and boat crews will also be onsite to monitor the progress of the fire. </p>
+
+<p>Smoke from the prescribed burn may be visible throughout the day of the burn, mostly during the warmest part of the day. With cooler temperatures in the evening, smoke may linger and accumulate in low-lying areas. Firefighters will be on site throughout the day of ignition and may periodically patrol the burn for several days afterward if conditions require.</p>
+
+<p>To help protect public health and safety, the BLM plans to conduct the prescribed burn under wind and weather conditions that minimize smoke and ash impacts to nearby towns and roads. Smoke emissions will be managed in accordance with the Florida Department of Environmental Protection regulations.</p>
+
+<p>Fire is a natural and an important ecological force in Florida. Prescribed burns help reduce wildfire risk by thinning trees and brush and creating fuel breaks, which lessens wildfire severity and slows fire spread. Fire also helps to create various stages of plant succession, which is critical to the health of fire-adapted ecosystems. Plants and animals benefit as well. Native wildlife is adapted to and depend on periodic fire for survival.</p>
+
+<p>For general information about the burn operation, contact John Norton-Jensen, BLM Eastern States Fuels Program Manager, at <a href="mailto:jnortonjensen@blm.gov">jnortonjensen@blm.gov</a>. For media inquiries, contact Kristen Peters, BLM Eastern States Deputy State Director for Communications, at <a href="mailto:kpeters@blm.gov">kpeters@blm.gov</a>.</p>
+
+<p> </p>
+
+<p class="text-align-center"><em>-BLM-</em></p>
+
+<p> </p>
+
+<p><em>The BLM manages more than 245 million acres of public land located primarily in 12 western states, including Alaska, on behalf of the American people. The BLM also administers 700 million acres of sub-surface mineral estate throughout the nation. Our mission is to sustain the health, diversity, and productivity of America’s public lands for the use and enjoyment of present and future generations.</em></p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/eastern-states" hreflang="en">Eastern States</a></div>
+          <div><a href="https://www.blm.gov/region/southeastern-states-do" hreflang="en">Southeastern States DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/fire" hreflang="en">Fire</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-02-01T12:00:00Z">Thu, 02/01/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -files">
+    <div><strong>Files:</strong> </div>
+          <div>
+              <div><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-file"><span class="file file--mime-application-vnd-openxmlformats-officedocument-wordprocessingml-document file--x-office-document"><a href="https://www.blm.gov/sites/default/files/docs/2024-02/Lathrop%20Bayou%20Prescribed%20Burn%20News%20Bulletin_0.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document">Lathrop Bayou Prescribed Burn News Bulletin_0.docx</a></span>
+  <span>(90.39 KB)</span>
+</div>
+      
+</div>
+</div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/eastern-states-state-office" hreflang="en">Eastern States State Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46656/edit" hreflang="en">Firefighter monitors during prescribed burn</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>On</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/air-quality" hreflang="en">Air Quality</a></div>
+              <div><a href="https://www.blm.gov/tag/fire" hreflang="en">Fire</a></div>
+              <div><a href="https://www.blm.gov/tag/prescribed-fire" hreflang="en">Prescribed Fire</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/eastern-states" hreflang="en">Eastern States</a></div>
+          <div><a href="https://www.blm.gov/editorial-access/southeastern-states-do" hreflang="en">Southeastern States DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46656/edit" hreflang="en">Firefighter monitors during prescribed burn</a></div>
+          </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-02-01/blm-plans-prescribed-burn-lathrop-bayou">https://www.blm.gov/blog/2024-02-01/blm-plans-prescribed-burn-lathrop-bayou</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-02-01/blm-plans-prescribed-burn-lathrop-bayou">Save to Pocket</a>
+</span>
+
+---
+
+## BLM California selects Matthew Lohr as the new El Centro Field Manager
+
+date: 2024-01-31, from: Bureau of Land Management, California
+
+<div class="field contact-block -teaser-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/teaser/public/images/2024-01/53499004024_42da7c1d21_w.jpg?h=645a59ef&itok=pWPKjqOq" width="150" height="100" alt="Matt Lohr stands in front of a cactus with desert mountains in the background." typeof="foaf:Image">
+
+
+</div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="00157952-2bcc-42e6-97ea-a804f497792b" data-langcode="en" class="align-left embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/53499004024_42da7c1d21_w.jpg?itok=AfsHZj44" width="300" height="400" alt="Matt Lohr stands in front of a cactus with desert mountains in the background." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p>EL CENTRO, Calif. – The Bureau of Land Management welcomes Matthew Lohr as the new El Centro Field Manager. Lohr will oversee the management of 1.4 million acres of public lands in Imperial and San Diego counties. Lohr started his position on Jan. 29 and succeeds Michael Ryan Chatterton, who vacated the position in 2022.</p>
+
+<p>“We are thrilled to have Matt lead the El Centro Field Office,” Shelly Lynch, California Desert District Manager said. “He brings years of experience working across various levels of government and his previous leadership roles will help him manage the many issues and programs within the field office.”</p>
+
+<p>“I’m excited to join the BLM and work through the unique challenges of managing public land for multiple uses,” Matthew Lohr said.</p>
+
+<p>Lohr has more than 25 years of experience in city, county, special district, and state government. Lohr joins the BLM from California State Parks where he served as sector superintendent. His previous roles also include parks and recreation management and supervision for the city of Riverside, city of Newport Beach, and city of Ceres and parks superintendent for Riverside County Regional Parks & Open Space. He has experience with interpretive services and park maintenance, managing park rangers, collaborating with communities, and managing off-highway vehicle programs. Lohr holds a bachelor’s degree in parks and recreation administration from California State University, Chico, and a master’s degree in public administration from California State University, San Bernadino.</p>
+
+<p>Lohr is an Imperial Valley native from Brawley and is returning to his roots and reuniting with family in the area. In his personal time, he enjoys swimming, hiking, traveling, and volunteering.</p>
+
+<p>The El Centro Field Office has an active recreation program including the popular Imperial Sand Dunes Recreation Area, the largest mass of sand dunes in North America. The field office also has several long-term visitor areas, Tumco Historic Mine, segments of the Juan Bautista de Anza Historic Trail and Pacific Crest Trail; and 12 wilderness areas. For more information visit: <a href="https://www.blm.gov/office/el-centro-field-office">https://www.blm.gov/office/el-centro-field-office</a>.</p>
+</div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/press-release/blm-california-selects-matthew-lohr-new-el-centro-field-manager">https://www.blm.gov/press-release/blm-california-selects-matthew-lohr-new-el-centro-field-manager</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/press-release/blm-california-selects-matthew-lohr-new-el-centro-field-manager">Save to Pocket</a>
+</span>
+
+---
+
+## BLM Fire team from California Desert District hosts successful hiring event
+
+date: 2024-01-30, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>BLM Fire team from California Desert District hosts successful hiring event </h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:11px">The California Desert Interagency Fire Program recently held a hiring event in Riverside, California to fill over 40 wildland firefighter and support positions for the 2024 Fire Year. The event drew in over one hundred attendees seeking opportunities in firefighting and dispatching.</p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="236af552-b46b-46d6-878f-cde1ea495e37" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/CDD%20Fire%20Hiring%20Event%202023.jpg?itok=jZK_JRdN" width="489" height="530" alt="Attendee speaks with representative about BLM Fire program." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption><em>Attendee speaks with representative about BLM Fire program.</em></figcaption>
+</figure>
+
+
+<p style="margin-bottom:11px">The Fire Program’s meticulous planning quickly paid off during the weekend. Six teams conducted 129 interviews on-site, eight of which were conducted remotely.</p>
+
+<p>Staff from the BLM California State Office and Human Resources, played a pivotal role, providing valuable insights in breakout sessions on resume building and navigating the USAJOBS website.</p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="afdaa84e-1697-458c-962a-6aa6b4099f1d" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/CDD%20Fire%20Hiring%20Event%202023-2.jpg?itok=BJVQlB9p" width="640" height="480" alt="BLM HR team speaks with attendees in breakout session." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption><em>BLM HR team speaks with attendees in breakout session.</em></figcaption>
+</figure>
+
+
+<p>For a unique touch, fire engines and equipment were displayed on-site where participants could get a firsthand look into the Fire Program’s operational procedures and engage with the tools and technology used to safeguard our landscapes.</p>
+
+<p>“The event helped us recruit dedicated and talented individuals for wildland firefighting and dispatching,” said Paul Gibbs, BLM Fire Chief for the California Desert Interagency Fire Program.</p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="1ec9a7a0-275f-4655-95e9-ad01d6af0b53" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/CDD%20Fire%20Hiring%20Event%202023-1.jpg?itok=AAoToY9r" width="640" height="480" alt="Attendees in a breakout session." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption><em>Attendees in a breakout session.</em></figcaption>
+</figure>
+
+
+<p>The California Desert Interagency Fire Program is comprised of Federal, State, and local wildland firefighting agencies working together with communities to prevent or lessen fire danger in southern California. Thanks to an interagency cooperative fire protection agreement, Californians have one of the best coordinated fire suppression efforts in the country. The California Desert District manages 12 million acres of BLM-managed public lands in the state.</p>
+
+<p>BLM California will be hosting an additional hiring event in Sacramento from February 2-4, 2024 and will be filling more than 70 positions throughout the state. To learn more, please visit the <a href="https://www.blm.gov/california-firehire">event webpage</a>.</p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/california-desert-do" hreflang="en">California Desert DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/fire" hreflang="en">Fire</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-01-31T12:00:00Z">Wed, 01/31/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/california-desert-district-office" hreflang="en">California Desert District Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46627/edit" hreflang="en">Fire Hire 1</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>On</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/careers" hreflang="en">Careers</a></div>
+              <div><a href="https://www.blm.gov/tag/fire" hreflang="en">Fire</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46627/edit" hreflang="en">Fire Hire 1</a></div>
+          </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-01-31/blm-fire-team-california-desert-district-hosts-successful-hiring-event">https://www.blm.gov/blog/2024-01-31/blm-fire-team-california-desert-district-hosts-successful-hiring-event</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-01-31/blm-fire-team-california-desert-district-hosts-successful-hiring-event">Save to Pocket</a>
+</span>
+
+---
+
+## BLM seeks assistance in case involving 19 dead wild burros
+
+date: 2024-01-30, from: Bureau of Land Management, California
+
+<div class="field contact-block -teaser-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/teaser/public/images/2024-01/Picture1.jpg?h=20e14557&itok=FMycjBU7" width="150" height="100" alt="A montage of security camera footage depicting a white tacoma" typeof="foaf:Image">
+
+
+</div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p>NEEDLES, Calif. – The Bureau of Land Management is offering a $10,000 reward for information leading to justice for the ongoing investigation of the shooting and killing of 19 wild burros. The animals were found along Interstate 15 between Baker, California and Primm, Nevada on August 13, 2019.</p>
+
+<p>BLM law enforcement identified two vehicles of interest and want to speak with the owners of a gray or silver 2008 Toyota extended cab pickup with flared fenders and a brush guard, and a white 2008 Toyota extended cab pickup with a white camper shell, white rims, sunroof, and brush guard. Video surveillance captured both vehicles traveling together and last seen in Primm, Nevada, on August 13, 2019, at approximately 06:32 a.m., in the parking lot of Whiskey Pete’s Hotel and Casino. Actual images of both vehicles and the crime scene are below.</p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="e7311057-745b-4e26-8a96-6a028562a843" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/Picture1.jpg?itok=li6JTHXJ" width="545" height="205" alt="A montage of security camera footage depicting a white tacoma" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p> </p>
+
+<p>BLM special agents identified the weapon used to kill the wild burros as a .30-06 caliber rifle, possibly vintage based on the rifling of the projectiles recovered, that could have been manufactured by Browning, Remington, Springfield, U.S. Military Arms, or Winchester. The rifle is chambered for .30-06 Springfield ammunition.  Special agents also believe the person or persons responsible used reloaded ammunition marked with red/orange paint on the bottom of their cartridges.</p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="b7395a82-4cdf-47f7-aecf-89fb79732539" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/Picture2.jpg?itok=7H1k4MbV" width="640" height="465" alt="A bullet jacket in the ground." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p> </p>
+
+<p>Anyone with any knowledge of this crime is strongly encouraged to contact the 24-hour <a href="https://www.wetip.com/">WeTip</a> crime reporting system at 909-987-5005. BLM special agents encourage callers to leave contact information for follow up. Information leading to the successful prosecution of the person or persons responsible for this crime will receive the reward.</p>
+
+<p>The animals are federally protected under the <a href="https://www.blm.gov/programs/wild-horse-and-burro/about-the-program/program-history">Wild Free-Roaming Horses and Burros Act of 1971</a>. The Act protects wild, free-roaming horses and burros from capture, branding, harassment, or death; and considers them an integral part of the natural system of public lands managed by BLM.<span style="font-size:11pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-CA" style="font-size:12.0pt"><span style="background:white"><span style="font-family:"Times New Roman",serif"><span style="color:#222222"> </span></span></span></span></span></span></span></span></p>
+</div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/press-release/blm-seeks-assistance-case-involving-19-dead-wild-burros">https://www.blm.gov/press-release/blm-seeks-assistance-case-involving-19-dead-wild-burros</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/press-release/blm-seeks-assistance-case-involving-19-dead-wild-burros">Save to Pocket</a>
+</span>
+
+---
+
+## El Centro Staff Makes Impact at Calexico High School Resource Fair with BLM Booth
+
+date: 2024-01-30, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>El Centro Staff Makes Impact at Calexico High School Resource Fair with BLM Booth </h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p paraeid="{97a7ed93-aed5-45bb-8f2c-7a28c076c18c}{179}" paraid="233182881"><em>Story by: Julia Mogen, BLM </em></p>
+
+<p paraeid="{97a7ed93-aed5-45bb-8f2c-7a28c076c18c}{189}" paraid="2113007780"><em>Photos by: Damian Montano, BLM El Centro Park Ranger and Arturo Casarez, BLM El Centro Park Rangers </em></p>
+
+<p paraeid="{97a7ed93-aed5-45bb-8f2c-7a28c076c18c}{223}" paraid="1168755929">In a wonderful display of community engagement, members of the El Centro Field Office returned to their alma mater, Calexico High School, to host a compelling BLM booth during the recent Resource Fair. This outreach event was significant for both staff and the local community. </p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="5a41bfec-be50-4ca5-9a53-979283793570" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/El%20Centro%20Team%20at%20Calexico%20Outreach%20Event.jpg?itok=JsaNRzkL" width="640" height="480" alt="A group of BLM  employees stand in front of OHVs" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption><em>Park Ranger Arturo Casarez speaks with students about Imperial Sand Dunes Recreation Area.<br>
+Photo by Damian Montano BLM.</em></figcaption>
+</figure>
+
+
+<p paraeid="{753f77cd-cbf8-4dcd-aed6-104fb897c59e}{2}" paraid="1916957852"> </p>
+
+<p paraeid="{753f77cd-cbf8-4dcd-aed6-104fb897c59e}{41}" paraid="1937896548">“Ten of our BLM staff members are alumni from Calexico,” Damian Montano, BLM Park Ranger, said. “It was a privilege to return to our old high school and give back to our community.”  </p>
+
+<p paraeid="{753f77cd-cbf8-4dcd-aed6-104fb897c59e}{73}" paraid="1172692633">A remarkable 2,000 students attended the Resource Fair where 20 different agencies were present. The BLM booth drew a large crowd and made more than 500 contacts.  </p>
+
+<p paraeid="{753f77cd-cbf8-4dcd-aed6-104fb897c59e}{123}" paraid="644607758">Staff shared knowledge about BLM careers in a lively and interactive manner. Activities included animal identification games with resources staff, trying on law enforcement's Kevlar vests and taking pictures with the restoration crew’s Can-Am.  </p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="eed00c00-1e7b-450b-b89d-15a1a104287c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/El%20Centro%20BLM%20Booth%20at%20Calexico%20Outreach%20Event.jpg?itok=OraDc-3Z" width="640" height="480" alt="BLM staff speak with students at booth from left, Park Ranger Lead Michael Mujica in a black shirt, Park Ranger Damian Montano and Law Enforcement Ranger Alfonso Luquin. Photo by Arturo Casarez BLM. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption><em>BLM staff speak with students at booth from left, Park Ranger Lead Michael Mujica in a black shirt,<br>
+Park Ranger Damian Montano and Law Enforcement Ranger Alfonso Luquin. Photo by Arturo Casarez BLM</em>. </figcaption>
+</figure>
+
+
+<p paraeid="{753f77cd-cbf8-4dcd-aed6-104fb897c59e}{166}" paraid="429233335">The students gained valuable insights into potential career paths while experiencing firsthand the dynamic and impactful work carried out by the El Centro Field Office and the BLM.  </p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/california-desert-do" hreflang="en">California Desert DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/youth-and-educators" hreflang="en">Youth and Educators</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-01-31T12:00:00Z">Wed, 01/31/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46621/edit" hreflang="en">El Centro Team at Calexico Outreach Event</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>On</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/youth-programs" hreflang="en">Youth Programs</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
+              </div>
+      </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-01-31/el-centro-staff-makes-impact-calexico-high-school-resource-fair-blm-booth">https://www.blm.gov/blog/2024-01-31/el-centro-staff-makes-impact-calexico-high-school-resource-fair-blm-booth</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-01-31/el-centro-staff-makes-impact-calexico-high-school-resource-fair-blm-booth">Save to Pocket</a>
+</span>
+
+---
+
+## Bringing Tribal culture and tradition to life with help from our public lands
+
+date: 2024-01-30, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Bringing Tribal culture and tradition to life with help from our public lands </h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f5ce2daa-f52c-43fd-9fd3-ded5c085a634" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/Headwaters%20partnership%20log%20photo.png?itok=gvsCPlpn" width="640" height="480" alt="Hauling a log for construction in Headwaters Reserve. BLM Photo." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Hauling a log for construction in Headwaters Reserve. BLM Photo.</figcaption>
+</figure>
+
+
+<p><b>ARCATA, Calif.</b> – The Bureau of Land Management is contributing to an immersive experience and time-honored Tribal tradition along California’s North Coast.</p>
+
+<p>The BLM and two timber companies partnered to provide the Bear River Band of Rohnerville Rancheria a downed redwood tree from public lands so the Tribe can build a traditional dance house and living quarter. Tribal members at the Tish Non Village Community Center near Loleta will use the buildings to share experiences of their ancestors dating back to time immemorial.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="7fc1ed23-de5c-43cd-a77c-c4aca4b29066" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/Headwaters%20pond.jpg?itok=gjPD2ILI" width="640" height="480" alt="A small pond in Headwaters Reserve. Photo by Bob Wick, BLM." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>A small pond in Headwaters Reserve. Photo by Bob Wick, BLM.</figcaption>
+</figure>
+
+
+<p>“We are so proud to support Native cultural practitioners who collect forest resources for traditional uses and look forward to seeing this locally-led conservation project develop,” said <strong>BLM Arcata Field Office Assistant Manager Jennifer Wheeler.</strong></p>
+
+<p>“It’s going to be a community thing, revitalizing our culture and revitalizing our community,” said <strong>Edward “Gusto” Bowie, Tribal council member at large for the Bear River Band</strong>. “It is a healing process. Our goal is to have these houses built up and down the coast, just as it used to be.” </p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="bb9a743e-e203-44ac-9c79-0740e093d607" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/Headwaters%20trees%20looking%20up.jpg?itok=u0cOHO6x" width="640" height="426" alt="Looking up at old growth trees in Headwaters Forest Reserve. Photo by Bob Wick, BLM." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Looking up at old growth redwoods in Headwaters Forest Reserve. Photo by Bob Wick, BLM.</figcaption>
+</figure>
+
+
+<p>BLM archaeologist Sharyl Kinnear Ferris worked with Bowie to select a segment of downed redwood tree from public lands in the Salmon Pass area of the <a href="https://www.blm.gov/programs/national-conservation-lands/california/headwaters-forest-reserve">Headwaters Forest Reserve</a> near Fortuna. Leonardo Logging owner Dave Carter volunteered his time and expertise to load and haul the massive log to Loleta using equipment provided by Humboldt Redwood Company. Members of the Tribe will split and slowly dry the wood before cutting and building with it.</p>
+
+<p>Headwaters Forest Reserve was established in 1999, after the BLM and <a href="https://wcb.ca.gov/">California State Wildlife Conservation Board</a> purchased the 7,400-acre Headwaters Forest for public ownership. The BLM and <a href="https://wildlife.ca.gov/">California Department of Fish and Wildlife</a> collaborate to protect old growth redwoods, forest stands, streams, and wildlife in the reserve.</p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/partnerships" hreflang="en">Partnerships</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-01-29T12:00:00Z">Mon, 01/29/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/45043/edit" hreflang="en">Headwaters Pop Links</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/headwaters-forest-reserve" hreflang="en">Headwaters Forest Reserve</a></div>
+              <div><a href="https://www.blm.gov/tag/partnerships" hreflang="en">Partnerships</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
+          <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46613/edit" hreflang="en">Headwaters Reserve hauling log</a></div>
+          </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-01-29/bringing-tribal-culture-and-tradition-life-help-our-public-lands">https://www.blm.gov/blog/2024-01-29/bringing-tribal-culture-and-tradition-life-help-our-public-lands</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-01-29/bringing-tribal-culture-and-tradition-life-help-our-public-lands">Save to Pocket</a>
+</span>
+
+---
+
+## BLM cancels advisory council field tour, will conduct business meeting
+
+date: 2024-01-29, from: Bureau of Land Management, California
+
+<div class="field contact-block -teaser-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/teaser/public/images/2024-01/50166878466_86d2f91808_w.jpg?h=33c888f3&itok=S-Y9l6nJ" width="150" height="100" alt="A high desert meadow during a rain storm with mountains in the background." typeof="foaf:Image">
+
+
+</div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="40781d9b-ca77-49ef-84b6-9ab7c0cf6e73" data-langcode="en" class="align-left embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/50166878466_86d2f91808_w.jpg?itok=Na3EJrXJ" width="400" height="202" alt="A high desert meadow during a rain storm with mountains in the background." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p>REDDING, Calif.  –  The Bureau of Land Management is announcing the cancellation of a Northern California District Resource Advisory Council field tour, originally set for Wednesday, Jan. 31, due to forecasted inclement weather.</p>
+
+<p>The business meeting remains on the calendar for Thursday, Feb. 1, from 8 a.m. to 2 p.m., at the BLM Northern California District Office, 6640 Lockheed Drive, in Redding. Anyone interested may attend in person or virtually by registering at <a href="https://ow.ly/wSEc50QtllH">https://ow.ly/wSEc50QtllH</a>. The council accept public comments at 11 a.m.</p>
+
+<p>Agenda items include an update on development of the Northern California Integrated Resource Management Plan, overviews of the BLM fire and law enforcement programs, and reports from the BLM California Acting State Director and field offices of the Northern California District.</p>
+
+<p>The 15-member council is composed of varied public land interests including recreation, livestock grazing, timber and forest products, environmental organizations, wild horse and burro management, local government, the academic sector, state natural resource agencies and the public at large. It focuses on lands managed by the Northern California District, which includes land in far northwest Nevada.</p>
+
+<p>More information is available from BLM Public Affairs Officer Jeff Fontana, 530-260-0189.</p>
+</div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/press-release/blm-cancels-advisory-council-field-tour-will-conduct-business-meeting">https://www.blm.gov/press-release/blm-cancels-advisory-council-field-tour-will-conduct-business-meeting</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/press-release/blm-cancels-advisory-council-field-tour-will-conduct-business-meeting">Save to Pocket</a>
+</span>
+
+
+
+<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+

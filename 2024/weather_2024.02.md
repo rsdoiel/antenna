@@ -1,0 +1,228 @@
+---
+title: weather 2024.02
+updated: 2024-01-14 11:32:36
+---
+
+# weather 2024.02
+
+(date: 2024-01-14 11:32:36)
+
+---
+
+## SPC - No watches are valid as of Sun Jan 14 17:47:01 UTC 2024
+
+date: 2024-01-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Sun Jan 14 17:47:01 UTC 2024.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC MD 63
+
+date: 2024-01-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0063.html"><img src="https://www.spc.noaa.gov/products/md/mcd0063.png" border="1" alt="MD 0063 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0063
+NWS Storm Prediction Center Norman OK
+1049 AM CST Sun Jan 14 2024
+
+Areas affected...Southeast New York into the New England region
+
+Concerning...Snow Squall 
+
+Valid 141649Z - 142045Z
+
+SUMMARY...Thermodynamic conditions will remain favorable for snow
+squalls as a cold front pushes east into the New England region.
+
+DISCUSSION...Recent regional radar depicts broken bands of shallow
+convection along an eastward moving cold front from upstate NY into
+eastern PA. Visibility reductions between 1/4 to 1 mile have been
+observed with the passage of these bands and are primarily being
+driven by bursts of moderate to heavy snow with 25-35 mph wind
+gusts. The 12 UTC PIT sounding likely sampled the convective
+environment most accurately with nearly dry adiabatic lapse rates
+from the surface to ~750 mb, which appears to be represented well by
+recent 0-3 km lapse rate analyses. The plume of 8+ C/km low-level
+lapse rates is forecast to spread to the northeast into the New
+England region through the day in tandem with the cooler mid-level
+temperatures associated with the primary trough axis. Low-level
+instability should be bolstered by modest diurnal heating between
+cloud breaks through the afternoon, and a weak influx of moisture
+may support occasional lightning flashes, though sustained,
+lightning-producing convection is not necessarily anticipated.
+Nonetheless, the combination of improving low-level thermodynamics,
+focused ascent along the front, and 30-40 mph winds within the
+boundary layer should maintain the snow squall potential well into
+the afternoon.
+
+..Moore.. 01/14/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...GYX...BOX...BTV...OKX...ALY...PHI...BGM...
+
+LAT...LON   40817558 41267567 42257496 44237351 44587283 44747124
+            44797089 44607048 44146998 43776984 43257045 42577077
+            41467167 41237225 41187286 40497484 40817558 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0063.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/md0063.html">https://www.spc.noaa.gov/products/md/md0063.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/md0063.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Jan 14, 2024 1730 UTC Day 2 Convective Outlook
+
+date: 2024-01-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1120 AM CST Sun Jan 14 2024
+
+Valid 151200Z - 161200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not expected on Monday.
+
+...Synopsis and Discussion...
+An arctic airmass and large upper cyclone will continue to dominate
+much of the CONUS on Monday. Little thunderstorm potential is
+evident, with one exception across FL. Generally 60s surface
+dewpoints will be present along/south of a front over parts of the
+FL Peninsula. Poor lapse rates aloft and warm mid-level temperatures
+should hinder the development of any more than weak instability for
+much of the day. But, enough MUCAPE should eventually be present to
+support isolated thunderstorm potential mainly Monday evening into
+early Tuesday morning as a weak southern-stream shortwave trough
+moves across this region. Severe thunderstorms are not expected.
+
+..Gleason.. 01/14/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2024-01-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1045 AM CST Sun Jan 14 2024
+
+Valid 141700Z - 151200Z
+
+...NO CRITICAL AREAS...
+
+The previous forecast (see below) remains on track, with no changes
+or additions made.
+
+..Squitieri.. 01/14/2024
+
+.PREV DISCUSSION... /ISSUED 1109 PM CST Sat Jan 13 2024/
+
+...Synopsis...
+Immediately ahead of a stalled cold front across the southern High
+Plains, enhanced downslope flow and a modest surface pressure
+gradient will contribute to locally dry/breezy conditions over far
+southeast NM into the TX Trans-Pecos. While 15-20 mph sustained
+westerly surface winds and around 15 percent RH could favor locally
+elevated fire-weather conditions, the overlap of dry/breezy
+conditions appears too localized/marginal for Elevated highlights at
+this time.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Jan 14, 2024 1630 UTC Day 1 Convective Outlook
+
+date: 2024-01-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1005 AM CST Sun Jan 14 2024
+
+Valid 141630Z - 151200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Isolated thunderstorms are possible over parts of south Florida, as
+well as from southeastern New York across parts of New England.
+
+...Synopsis...
+Mid-morning water-vapor imagery and upper-air analyses continue to
+show the east/northeastward progression of a strong upper wave over
+the upper OH River Valley/New England with an attendant - but slowly
+occluding - surface cyclone over eastern Canada. A trailing cold
+front is noted in surface observations from upstate NY to the
+southwest along the southern Appalachians into the lower MS Valley
+and TX Gulf Coast region. This boundary will continue migrating
+east/southeast through the day as an arctic air mass overspreads
+much of the eastern two-thirds of the CONUS. The frigid air will
+negate convective potential for most regions today with the
+exception of south Florida and parts of New England. 
+
+...South Florida...
+A residual frontal boundary from a previous cool air intrusion into
+the Gulf is noted in visible imagery across south FL with occasional
+convection/lightning flashes noted over the past few hours. Regional
+12 UTC soundings sampled poor mid-level lapse rates, but sufficient
+elevated buoyancy is in place above the shallow frontal layer to
+continue to support isolated thunderstorms through today/tonight as
+lift ahead of an approaching mid-level disturbance overspreads the
+region.
+
+...New England...
+Shallow convection is noted along/behind the cold front across
+portions of PA and NY this morning. While this activity is currently
+too cool and shallow to support lightning production, a combination
+of diurnal warming, a weak influx of moisture from the Mid-Atlantic
+coast, and cool mid-level temperatures may provide adequate buoyancy
+for a few lightning flashes later this afternoon across southeast NY
+into the New England region.
+
+..Moore.. 01/14/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
+</span>
+
+
+
+<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+

@@ -1,0 +1,259 @@
+---
+title: health 2024.14
+updated: 2024-04-05 08:54:37
+---
+
+# health 2024.14
+
+(date: 2024-04-05 08:54:37)
+
+---
+
+## Editorial: Translational approaches to combat emerging viral infections: diagnosis, immunopathogenesis, and therapeutics
+
+date: 2024-04-05, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1406240>
+
+---
+
+## Role of the gut microbiota in complications after ischemic stroke
+
+date: 2024-04-05, from: Frontiers in Cellular and Infection Microbiology
+
+Ischemic stroke (IS) is a serious central nervous system disease. Post-IS complications, such as post-stroke cognitive impairment (PSCI), post-stroke depression (PSD), hemorrhagic transformation (HT), gastrointestinal dysfunction, cardiovascular events, and post-stroke infection (PSI), result in neurological deficits. The microbiota-gut-brain axis (MGBA) facilitates bidirectional signal transduction and communication between the intestines and the brain. Recent studies have reported alterations in gut microbiota diversity post-IS, suggesting the involvement of gut microbiota in post-IS complications through various mechanisms such as bacterial translocation, immune regulation, and production of gut bacterial metabolites, thereby affecting disease prognosis. In this review, to provide insights into the prevention and treatment of post-IS complications and improvement of the long-term prognosis of IS, we summarize the interaction between the gut microbiota and IS, along with the effects of the gut microbiota on post-IS complications. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1334581>
+
+---
+
+## Vaginal microbiota molecular profiling and diagnostic performance of artificial intelligence-assisted multiplex PCR testing in women with bacterial vaginosis: a single-center experience
+
+date: 2024-04-05, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundBacterial vaginosis (BV) is a most common microbiological syndrome. The use of molecular methods, such as multiplex real-time PCR (mPCR) and next-generation sequencing, has revolutionized our understanding of microbial communities. Here, we aimed to use a novel multiplex PCR test to evaluate the microbial composition and dominant lactobacilli in non-pregnant women with BV, and combined with machine learning algorithms to determine its diagnostic significance.MethodsResidual material of 288 samples of vaginal secretions derived from the vagina from healthy women and BV patients that were sent for routine diagnostics was collected and subjected to the mPCR test. Subsequently, Decision tree (DT), random forest (RF), and support vector machine (SVM) hybrid diagnostic models were constructed and validated in a cohort of 99 women that included 74 BV patients and 25 healthy controls, and a separate cohort of 189 women comprising 75 BV patients, 30 intermediate vaginal microbiota subjects and 84 healthy controls, respectively.ResultsThe rate or abundance of Lactobacillus crispatus and Lactobacillus jensenii were significantly reduced in BV-affected patients when compared with healthy women, while Lactobacillus iners, Gardnerella vaginalis, Atopobium vaginae, BVAB2, Megasphaera type 2, Prevotella bivia, and Mycoplasma hominis were significantly increased. Then the hybrid diagnostic models were constructed and validated by an independent cohort. The model constructed with support vector machine algorithm achieved excellent prediction performance (Area under curve: 0.969, sensitivity: 90.4%, specificity: 96.1%). Moreover, for subjects with a Nugent score of 4 to 6, the SVM-BV model might be more robust and sensitive than the Nugent scoring method.ConclusionThe application of this mPCR test can be effectively used in key vaginal microbiota evaluation in women with BV, intermediate vaginal microbiota, and healthy women. In addition, this test may be used as an alternative to the clinical examination and Nugent scoring method in diagnosing BV. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1377225>
+
+---
+
+## Thymoquinone is a natural antibiofilm and pathogenicity attenuating agent in Pseudomonas aeruginosa
+
+date: 2024-04-04, from: Frontiers in Cellular and Infection Microbiology
+
+Pseudomonas aeruginosa belongs to the critical pathogens that represent a global public health problem due to their high rate of resistance as listed by WHO. P. aeruginosa can result in many nosocomial infections especially in individuals with compromised immune systems. Attenuating virulence factors by interference with quorum sensing (QS) systems is a promising approach to treat P. aeruginosa-resistant infections. Thymoquinone is a natural compound isolated from Nigella sativa (black seed) essential oil. In this study, the minimum inhibitory concentration of thymoquinone was detected followed by investigating the antibiofilm and antivirulence activities of the subinhibitory concentration of thymoquinone against P. aeruginosa PAO1. The effect of thymoquinone on the expression of QS genes was assessed by quantitative real-time PCR, and the protective effect of thymoquinone against the pathogenesis of PAO1 in mice was detected by the mouse survival test. Thymoquinone significantly inhibited biofilm, pyocyanin, protease activity, and swarming motility. At the molecular level, thymoquinone markedly downregulated QS genes lasI, lasR, rhlI, and rhlR. Moreover, thymoquinone could protect mice from the pathologic effects of P. aeruginosa increasing mouse survival from 20% to 100%. In conclusion, thymoquinone is a promising natural agent that can be used as an adjunct therapeutic agent with antibiotics to attenuate the pathogenicity of P. aeruginosa. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1382289>
+
+---
+
+## Illumina and Nanopore sequencing in culture-negative samples from suspected lower respiratory tract infection patients
+
+date: 2024-04-04, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveTo evaluate the diagnostic value of metagenomic sequencing technology based on Illumina and Nanopore sequencing platforms for patients with suspected lower respiratory tract infection whose pathogen could not be identified by conventional microbiological tests.MethodsPatients admitted to the Respiratory and Critical Care Medicine in Shanghai Ruijin Hospital were retrospectively studied from August 2021 to March 2022. Alveolar lavage or sputum was retained in patients with clinically suspected lower respiratory tract infection who were negative in conventional tests. Bronchoalveolar lavage fluid (BALF) samples were obtained using bronchoscopy. Sputum samples were collected, while BALF samples were not available due to bronchoscopy contraindications. Samples collected from enrolled patients were simultaneously sent for metagenomic sequencing on both platforms.ResultsThirty-eight patients with suspected LRTI were enrolled in this study, consisting of 36 parts of alveolar lavage and 2 parts of sputum. According to the infection diagnosis, 31 patients were confirmed to be infected with pathogens, while 7 patients were diagnosed with non-infectious disease. With regard to the diagnosis of infectious diseases, the sensitivity and specificity of Illumina and Nanopore to diagnose infection in patients were 80.6% vs. 93.5% and 42.9 vs. 28.6%, respectively. In patients diagnosed with bacterial, Mycobacterium, and fungal infections, the positive rates of Illumina and Nanopore sequencer were 71.4% vs. 78.6%, 36.4% vs. 90.9%, and 50% vs. 62.5%, respectively. In terms of pathogen diagnosis, the sensitivity and specificity of pathogens detected by Illumina and Nanopore were 55.6% vs. 77.8% and 42.9% vs. 28.6%, respectively. Among the patients treated with antibiotics in the last 2 weeks, 61.1% (11/18) and 77.8% (14/18) cases of pathogens were accurately detected by Illumina and Nanopore, respectively, among which 8 cases were detected jointly. The consistency between Illumina and diagnosis was 63.9% (23/36), while the consistency between Nanopore and diagnosis was 83.3% (30/36). Between Illumina and Nanopore sequencing methods, the consistency ratio was 55% (22/42) based on pathogen diagnosis.ConclusionBoth platforms play a certain value in infection diagnosis and pathogen diagnosis of CMT-negative suspected LRTI patients, providing a theoretical basis for clinical accurate diagnosis and symptomatic treatment. The Nanopore platform demonstrated potential advantages in the identification of Mycobacterium and could further provide another powerful approach for patients with suspected Mycobacterium infection. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1230650>
+
+---
+
+## Mast cell activation triggered by SARS-CoV-2 causes inflammation in brain microvascular endothelial cells and microglia
+
+date: 2024-04-04, from: Frontiers in Cellular and Infection Microbiology
+
+SARS-CoV-2–induced excessive inflammation in brain leads to damage of blood–brain barrier, hypoxic-ischemic injury, and neuron degeneration. The production of inflammatory cytokines by brain microvascular endothelial cells and microglia is reported to be critically associated with the brain pathology of COVID-19 patients. However, the cellular mechanisms for SARS-CoV-2–inducing activation of brain cells and the subsequent neuroinflammation remain to be fully delineated. Our research, along with others’, has recently demonstrated that SARS-CoV-2–induced accumulation and activation of mast cells (MCs) in mouse lung could further induce inflammatory cytokines and consequent lung damages. Intracerebral MCs activation and their cross talk with other brain cells could induce neuroinflammation that play important roles in neurodegenerative diseases including virus-induced neuro-pathophysiology. In this study, we investigated the role of MC activation in SARS-CoV-2–induced neuroinflammation. We found that (1) SARS-CoV-2 infection triggered MC accumulation in the cerebrovascular region of mice; (2) spike/RBD (receptor-binding domain) protein–triggered MC activation induced inflammatory factors in human brain microvascular endothelial cells and microglia; (3) MC activation and degranulation destroyed the tight junction proteins in brain microvascular endothelial cells and induced the activation and proliferation of microglia. These findings reveal a cellular mechanism of SARS-CoV-2–induced neuroinflammation. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1358873>
+
+---
+
+## Current progresses and challenges for microbiome research in human health: a perspective
+
+date: 2024-04-04, from: Frontiers in Cellular and Infection Microbiology
+
+It is becoming increasingly clear that the human microbiota, also known as “the hidden organ”, possesses a pivotal role in numerous processes involved in maintaining the physiological functions of the host, such as nutrient extraction, biosynthesis of bioactive molecules, interplay with the immune, endocrine, and nervous systems, as well as resistance to the colonization of potential invading pathogens. In the last decade, the development of metagenomic approaches based on the sequencing of the bacterial 16s rRNA gene via Next Generation Sequencing, followed by whole genome sequencing via third generation sequencing technologies, has been one of the great advances in molecular biology, allowing a better profiling of the human microbiota composition and, hence, a deeper understanding of the importance of microbiota in the etiopathogenesis of different pathologies. In this scenario, it is of the utmost importance to comprehensively characterize the human microbiota in relation to disease pathogenesis, in order to develop novel potential treatment or preventive strategies by manipulating the microbiota. Therefore, this perspective will focus on the progress, challenges, and promises of the current and future technological approaches for microbiome profiling and analysis. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1377012>
+
+---
+
+## Gut microbiota’s influence on erysipelas: evidence from a two-sample Mendelian randomization analysis
+
+date: 2024-04-04, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundPrevious studies have suggested a link between gut microbiota and skin diseases, including erysipelas, an inflammatory skin condition. Despite this, the precise nature of the relationship between erysipelas and gut microbiota remains unclear and subject to debate.MethodsWe conducted a Mendelian Randomization (MR) analysis using publicly available summary data from genome-wide association studies (GWAS) to explore the potential causal relationship between gut microbiota and erysipelas. Instrumental variables (IVs) were identified using a comprehensive set of screening methods. We then performed MR analyses primarily using the Inverse Variance Weighted (IVW) method, complemented by alternative approaches such as MR Egger, weighted median, simple mode, and weighted mode. A series of sensitivity analyses, including Cochran’s Q test, MR-Egger intercept test, Mendelian Randomization Pleiotropy RESidual Sum and Outlier (MR-PRESSO) test, and a leave-one-out test, were executed to ensure the robustness and validity of our findings.ResultsWe identified potential associations between erysipelas and various gut microbiota, including Alcaligenaceae (OR 1.23; 95% CI 1.06-1.43; p=0.006), Rikenellaceae (OR 0.77; 95% CI 0.67-0.90; p=0.001), and others. Notably, associations with Actinomyces, Lachnospiraceae NC2004 group, Ruminiclostridium 9, Ruminococcaceae UCG014, Odoribacter, and Actinobacteria were also observed. Sensitivity analyses confirmed the robustness of these associations.ConclusionOur MR analysis suggests both potentially beneficial and harmful causal relationships between various gut microbiota and the incidence of erysipelas. This study provides new theoretical and empirical insights into the pathogenesis of erysipelas and underscores the potential for innovative preventive and therapeutic approaches. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1371591>
+
+---
+
+## Study on the inhibition activity and mechanism of Tanreqing against Klebsiella pneumoniae biofilm formation in vitro and in vivo
+
+date: 2024-04-04, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveTo evaluate the antibacterial effect of Tanreqing (TRQ) against K. pneumoniae and its inhibition activity on bacterial biofilm formation in vitro and in vivo, and to explore the mechanism of the inhibitory effects of TRQ on K. pneumoniae biofilm formation.MethodsAn in vitro biofilm model of K. pneumoniae was established, and the impact of TRQ on biofilm formation was evaluated using crystal violet staining and scanning electron microscopy (SEM). Furthermore, the clearance effect of TRQ against K. pneumoniae in the biofilm was assessed using the viable plate counting method; q-RT PCR was used to evaluate the inhibitory effect of different concentrations of TRQ on the expression of biofilm-related genes in Klebsiella pneumoniae; The activity of quorum sensing signal molecule AI-2 was detected by Vibrio harveyi bioluminescence assay; Meanwhile, a guinea pig lung infection model of Klebsiella pneumoniae was constructed, and after treated with drugs, pathological analysis of lung tissue and determination of bacterial load in lung tissue were performed. The treatment groups included TRQ group, imipenem(IPM) group, TRQ+IPM group, and sterile saline group as the control.ResultsThe formation of K. pneumoniae biofilm was significantly inhibited by TRQ in vitro experiments. Furthermore, when combined with IPM, the clearance of K. pneumoniae in the biofilm was notably increased compared to the TRQ group and IPM group alone. q-RT PCR analysis revealed that TRQ down-regulated the expression of genes related to biofilm formation in K. pneumoniae, specifically luxS, wbbm, wzm, and lsrK, and also inhibited the activity of AI-2 molecules in the bacterium. In vivo experiments demonstrated that TRQ effectively treated guinea pig lung infections, resulting in reduced lung inflammation. Additionally, when combined with IPM, there was a significant reduction in the bacterial load in lung tissue.ConclusionTRQ as a potential therapeutic agent plays a great role in the treatment of K. pneumoniae infections, particularly in combination with conventional antibiotics. And TRQ can enhanced the clearance effect on the bacterium by inhibiting the K. pneumoniae biofilm formation, which provided experimental evidence in support of clinical treatment of TRQ against K. pneumoniae infections. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1368450>
+
+---
+
+## Uropathogenic Escherichia coli infection: innate immune disorder, bladder damage, and Tailin Fang II
+
+date: 2024-04-04, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundUropathogenic Escherichia coli (UPEC) activates innate immune response upon invading the urinary tract, whereas UPEC can also enter bladder epithelial cells (BECs) through interactions with fusiform vesicles on cell surfaces and subsequently escape from the vesicles into the cytoplasm to establish intracellular bacterial communities, finally evading the host immune system and leading to recurrent urinary tract infection (RUTI). Tailin Fang II (TLF-II) is a Chinese herbal formulation composed of botanicals that has been clinically proven to be effective in treating urinary tract infection (UTI). However, the underlying therapeutic mechanisms remain poorly understood.MethodsNetwork pharmacology analysis of TLF-II was conducted. Female Balb/C mice were transurethrally inoculated with UPEC CFT073 strain to establish the UTI mouse model. Levofloxacin was used as a positive control. Mice were randomly divided into four groups: negative control, UTI, TLF-II, and levofloxacin. Histopathological changes in bladder tissues were assessed by evaluating the bladder organ index and performing hematoxylin-eosin staining. The bacterial load in the bladder tissue and urine sample of mice was quantified. Activation of the TLR4-NF-κB pathway was investigated through immunohistochemistry and western blotting. The urinary levels of interleukin (IL)-1β and IL-6 and urine leukocyte counts were monitored. We also determined the protein expressions of markers associated with fusiform vesicles, Rab27b and Galectin-3, and levels of the phosphate transporter protein SLC20A1. Subsequently, the co-localization of Rab27b and SLC20A1 with CFT073 was examined using confocal fluorescence microscopy.ResultsData of network pharmacology analysis suggested that TLF-II could against UTI through multiple targets and pathways associated with innate immunity and inflammation. Additionally, TLF-II significantly attenuated UPEC-induced bladder injury and reduced the bladder bacterial load. Meanwhile, TLF-II inhibited the expression of TLR4 and NF-κB on BECs and decreased the urine levels of IL-1β and IL-6 and urine leukocyte counts. TLF-II reduced SLC20A1 and Galectin-3 expressions and increased Rab27b expression. The co-localization of SLC20A1 and Rab27b with CFT073 was significantly reduced in the TLF-II group.ConclusionCollectively, innate immunity and bacterial escape from fusiform vesicles play important roles in UPEC-induced bladder infections. Our findings suggest that TLF-II combats UPEC-induced bladder infections by effectively mitigating bladder inflammation and preventing bacterial escape from fusiform vesicles into the cytoplasm. The findings suggest that TLF-II is a promising option for treating UTI and reducing its recurrence. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1322119>
+
+---
+
+## Second booster dose improves antibody neutralization against BA.1, BA.5 and BQ.1.1 in individuals previously immunized with CoronaVac plus BNT162B2 booster protocol
+
+date: 2024-04-04, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionSARS-CoV-2 vaccines production and distribution enabled the return to normalcy worldwide, but it was not fast enough to avoid the emergence of variants capable of evading immune response induced by prior infections and vaccination. This study evaluated, against Omicron sublineages BA.1, BA.5 and BQ.1.1, the antibody response of a cohort vaccinated with a two doses CoronaVac protocol and followed by two heterologous booster doses.MethodsTo assess vaccination effectiveness, serum samples were collected from 160 individuals, in 3 different time points (9, 12 and 18 months after CoronaVac protocol). For each time point, individuals were divided into 3 subgroups, based on the number of additional doses received (No booster, 1 booster and 2 boosters), and a viral microneutralization assay was performed to evaluate neutralization titers and seroconvertion rate. ResultsThe findings presented here show that, despite the first booster, at 9m time point, improved neutralization level against omicron ancestor BA.1 (133.1 to 663.3), this trend was significantly lower for BQ.1.1 and BA.5 (132.4 to 199.1, 63.2 to 100.2, respectively). However, at 18m time point, the administration of a second booster dose considerably improved the antibody neutralization, and this was observed not only against BA.1 (2361.5), but also against subvariants BQ.1.1 (726.1) and BA.5 (659.1). Additionally, our data showed that, after first booster, seroconvertion rate for BA.5 decayed over time (93.3% at 12m to 68.4% at 18m), but after the second booster, seroconvertion was completely recovered (95% at 18m). DiscussionOur study reinforces the concerns about immunity evasion of the SARS-CoV-2 omicron subvariants, where BA.5 and BQ.1.1 were less neutralized by vaccine induced antibodies than BA.1. On the other hand, the administration of a second booster significantly enhanced antibody neutralization capacity against these subvariants. It is likely that, as new SARS-CoV-2 subvariants continue to emerge, additional immunizations will be needed over time. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1371695>
+
+---
+
+## A review of the mechanisms that confer antibiotic resistance in pathotypes of E. coli
+
+date: 2024-04-04, from: Frontiers in Cellular and Infection Microbiology
+
+The dissemination of antibiotic resistance in Escherichia coli poses a significant threat to public health worldwide. This review provides a comprehensive update on the diverse mechanisms employed by E. coli in developing resistance to antibiotics. We primarily focus on pathotypes of E. coli (e.g., uropathogenic E. coli) and investigate the genetic determinants and molecular pathways that confer resistance, shedding light on both well-characterized and recently discovered mechanisms. The most prevalent mechanism continues to be the acquisition of resistance genes through horizontal gene transfer, facilitated by mobile genetic elements such as plasmids and transposons. We discuss the role of extended-spectrum β-lactamases (ESBLs) and carbapenemases in conferring resistance to β-lactam antibiotics, which remain vital in clinical practice. The review covers the key resistant mechanisms, including: 1) Efflux pumps and porin mutations that mediate resistance to a broad spectrum of antibiotics, including fluoroquinolones and aminoglycosides; 2) adaptive strategies employed by E. coli, including biofilm formation, persister cell formation, and the activation of stress response systems, to withstand antibiotic pressure; and 3) the role of regulatory systems in coordinating resistance mechanisms, providing insights into potential targets for therapeutic interventions. Understanding the intricate network of antibiotic resistance mechanisms in E. coli is crucial for the development of effective strategies to combat this growing public health crisis. By clarifying these mechanisms, we aim to pave the way for the design of innovative therapeutic approaches and the implementation of prudent antibiotic stewardship practices to preserve the efficacy of current antibiotics and ensure a sustainable future for healthcare. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1387497>
+
+---
+
+## Targeted remodeling of the human gut microbiome using Juemingzi (Senna seed extracts)
+
+date: 2024-04-04, from: Frontiers in Cellular and Infection Microbiology
+
+The genus Senna contains globally distributed plant species of which the leaves, roots, and seeds have multiple traditional medicinal and nutritional uses. Notable chemical compounds derived from Senna spp. include sennosides and emodin which have been tested for antimicrobial effects in addition to their known laxative functions. However, studies of the effects of the combined chemical components on intact human gut microbiome communities are lacking. This study evaluated the effects of Juemingzi (Senna sp.) extract on the human gut microbiome using SIFR® (Systemic Intestinal Fermentation Research) technology. After a 48-hour human fecal incubation, we measured total bacterial cell density and fermentation products including pH, gas production and concentrations of short chain fatty acids (SCFAs). The initial and post-incubation microbial community structure and functional potential were characterized using shotgun metagenomic sequencing. Juemingzi (Senna seed) extracts displayed strong, taxon-specific anti-microbial effects as indicated by significant reductions in cell density (40%) and intra-sample community diversity. Members of the Bacteroidota were nearly eliminated over the 48-hour incubation. While generally part of a healthy gut microbiome, specific species of Bacteroides can be pathogenic. The active persistence of the members of the Enterobacteriaceae and selected Actinomycetota despite the reduction in overall cell numbers was demonstrated by increased fermentative outputs including high concentrations of gas and acetate with correspondingly reduced pH. These large-scale shifts in microbial community structure indicate the need for further evaluation of dosages and potential administration with prebiotic or synbiotic supplements. Overall, the very specific effects of these extracts may offer the potential for targeted antimicrobial uses or as a tool in the targeted remodeling of the gut microbiome. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1296619>
+
+---
+
+## Case report: Cutaneous anthrax diagnosed using mNGS of a formalin-fixed paraffin-embedded tissue sample
+
+date: 2024-04-04, from: Frontiers in Cellular and Infection Microbiology
+
+The metagenomic next-generation sequencing (mNGS) method is preferred for genotyping useful for the identification of organisms, illumination of metabolic pathways, and determination of microbiota. It can accurately obtain all the nucleic acid information in the test sample. Anthrax is one of the most important zoonotic diseases, infecting mainly herbivores and occasionally humans. The disease has four typical clinical forms, cutaneous, gastrointestinal, inhalation, and injection, all of which may result in sepsis or meningitis, with cutaneous being the most common form. Here, we report a case of cutaneous anthrax diagnosed by mNGS in a butcher. Histopathology of a skin biopsy revealed PAS-positive bacilli. Formalin-fixed paraffin-embedded (FFPE) tissue sample was confirmed the diagnosis of anthrax by mNGS. He was cured with intravenous penicillin. To our knowledge, this is the first case of cutaneous anthrax diagnosed by mNGS using FFPE tissue. mNGS is useful for identifying pathogens that are difficult to diagnose with conventional methods, and FFPE samples are simple to manage. Compared with traditional bacterial culture, which is difficult to cultivate and takes a long time, mNGS can quickly and accurately help us diagnose anthrax, so that anthrax can be controlled in a timely manner and prevent the outbreak of epidemic events. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1329235>
+
+---
+
+## Derangements of immunological proteins in HIV-associated diffuse large B-cell lymphoma: the frequency and prognostic impact
+
+date: 2024-04-03, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionDiffuse large B-cell lymphoma (DLBCL) is an aggressive malignancy of B-cells frequently encountered among people living with HIV. Immunological abnormalities are common in immunocompetent individuals with DLBCL, and are often associated with poorer outcomes. Currently, data on derangements of immunological proteins, such as cytokines and acute phase reactants, and their impact on outcomes in HIV-associated DLBCL (HIV-DLBCL) is lacking. This study assessed the levels and prognostic relevance of interleukin (IL)-6, IL-10 and Transforming Growth Factor Beta (TGFβ), the acute phase proteins C-reactive protein (CRP) and ferritin; serum free light chains (SFLC) (elevation of which reflects a prolonged pro-inflammatory state); and the activity of the immunosuppressive enzyme Indoleamine 2,3-dioxygenase (IDO)in South African patients with DLBCL.MethodsSeventy-six patients with incident DLBCL were enrolled, and peripheral blood IL-6, IL-10, TGFβ, SFLC and IDO-activity measured in selected patients. Additional clinical and laboratory findings (including ferritin and CRP) were recorded from the hospital records.ResultsSixty-one (80.3%) of the included patients were people living with HIV (median CD4-count = 148 cells/ul), and survival rates were poor (12-month survival rate 30.0%). The majority of the immunological proteins, except for TGFβ and ferritin, were significantly higher among the people living with HIV. Elevation of IL-6, SFLC and IDO-activity were not associated with survival in HIV-DLBCL, while raised IL-10, CRP, ferritin and TGFβ were. On multivariate analysis, immunological proteins associated with survival independently from the International Prognostic Index (IPI) included TGFβ, ferritin and IL-10.ConclusionDerangements of immunological proteins are common in HIV-DLBCL, and have a differential association with survival compared to that reported elsewhere. Elevation of TGFβ, IL-10 and ferritin were associated with survival independently from the IPI. In view of the poor survival rates in this cohort, investigation of the directed targeting of these cytokines would be of interest in our setting. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1340096>
+
+---
+
+## Exploring the impact of pathogenic microbiome in orthopedic diseases: machine learning and deep learning approaches
+
+date: 2024-04-03, from: Frontiers in Cellular and Infection Microbiology
+
+Osteoporosis, arthritis, and fractures are examples of orthopedic illnesses that not only significantly impair patients’ quality of life but also complicate and raise the expense of therapy. It has been discovered in recent years that the pathophysiology of orthopedic disorders is significantly influenced by the microbiota. By employing machine learning and deep learning techniques to conduct a thorough analysis of the disease-causing microbiome, we can enhance our comprehension of the pathophysiology of many illnesses and expedite the creation of novel treatment approaches. Today’s science is undergoing a revolution because to the introduction of machine learning and deep learning technologies, and the field of biomedical research is no exception. The genesis, course, and management of orthopedic disorders are significantly influenced by pathogenic microbes. Orthopedic infection diagnosis and treatment are made more difficult by the lengthy and imprecise nature of traditional microbial detection and characterization techniques. These cutting-edge analytical techniques are offering previously unheard-of insights into the intricate relationships between orthopedic health and pathogenic microbes, opening up previously unimaginable possibilities for illness diagnosis, treatment, and prevention. The goal of biomedical research has always been to improve diagnostic and treatment methods while also gaining a deeper knowledge of the processes behind the onset and development of disease. Although traditional biomedical research methodologies have demonstrated certain limits throughout time, they nevertheless rely heavily on experimental data and expertise. This is the area in which deep learning and machine learning approaches excel. The advancements in machine learning (ML) and deep learning (DL) methodologies have enabled us to examine vast quantities of data and unveil intricate connections between microorganisms and orthopedic disorders. The importance of ML and DL in detecting, categorizing, and forecasting harmful microorganisms in orthopedic infectious illnesses is reviewed in this work. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1380136>
+
+---
+
+## Deciphering the epidemiological dynamics: Toxoplasma gondii seroprevalence in mainland China’s food animals, 2010-2023
+
+date: 2024-04-03, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundToxoplasma gondii (T. gondii) is a significant protozoan pathogen among food animals. Despite the threat to public health by T. gondii infections, there’s limited understanding of its seroprevalence and trends in food animals across mainland China. This study aimed to estimate the seroprevalence of T. gondii infections among swine, sheep, goats, chickens, and cattle in mainland China from 2010 to 2023.MethodsWe searched cross-sectional studies published between 2010 and 2023 that reported the prevalence of T. gondii in food animals from databases including PubMed, Embase, Web of Science, China Biology Medicine Disc (CBM), China National Knowledge Infrastructure (CNKI), Wanfang data, and the China Science and Technology Journal Database (CQVIP). We performed subgroup analyses to explore the impact of different factors on the seroprevalence of T. gondii. Pooled estimates of T. gondii seroprevalence were calculated with a random-effects model.ResultsAn analysis of 184 studies involving 211985 animals revealed a T. gondii overall seroprevalence of 15.3% (95% CI: 13.1-17.8). Although the seroprevalence of food animals across mainland China was relatively stable from 2010 to 2023, notable variations were observed across different animal types and regions (P < 0.01), along with changes in geographical distribution. Sample type, detection method, animal age, and history of abortion were identified as key risk factors for T. gondii seroprevalence.ConclusionThe study conducted a meta-analysis on the seroprevalence of T. gondii in mainland China’s Food Animals from 2010 to 2023, and identified key risk factors. These findings advance our understanding of T. gondii infection dynamics, offering critical insights for developing control strategies and guiding public health policies. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1381537>
+
+---
+
+## Improved diagnostic markers for invasive pulmonary aspergillosis in COPD patients
+
+date: 2024-04-03, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe prevalence of invasive pulmonary aspergillosis (IPA) among patients with chronic obstructive pulmonary disease (COPD) is steadily increasing, leading to high mortality. Although early diagnosis can significantly reduce mortality, the efficacy of current diagnostic methods is limited. Consequently, there is a need for novel approaches for early IPA detection.MethodsThis retrospective study involved 383 hospitalized COPD patients with GOLD stages III and IV. The IPA group (67 patients) and non-IPA group (316 patients) were identified at the First Affiliated Hospital of Guangzhou Medical University between January 2016 and February 2022. We analyzed common serological indicators in our hospital to identify predictive indicators for the early diagnosis of IPA in COPD patients.ResultsThe sensitivity and specificity of C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), procalcitonin (PCT), lactate dehydrogenase (LDH), and ceruloplasmin (CER) for diagnosing IPA in COPD patients were as follows: CRP (91.2%, 57.7%), ESR (77.5%, 73.0%), PCT (60.5%, 71.4%), LDH (50.0%, 88.8%), and CER (60.7%, 74.3%). Combinations of biomarkers, such as CRP-ESR, CRP-LDH, ESR-LDH, ESR-CER, and LDH-CER, showed promising diagnostic potential, with larger area under the curve (AUC) values for IPA diagnosis in COPD patients. However, no statistically significant difference was observed between the diagnostic efficacy of single biomarkers and combined biomarkers. Notably, compared to those in the unassisted ventilation group, the patients in the assisted ventilation group (including noninvasive ventilation and tracheal intubation/incision-assisted ventilation group) exhibited significantly greater PCT and LDH levels, while the CER significantly decreased (p=0.021). There were no significant differences in biomarker levels between the ICU group and the non-ICU group. CRP (p<0.01), ESR (p=0.028), PCT (p<0.01), and CER (p<0.01) were positively correlated with hospitalization duration, whereas LDH was not correlated with hospitalization duration.ConclusionOur study highlights the diagnostic potential of CRP, ESR, PCT, LDH, and CER for IPA in COPD patients. CRP and LDH can also initially predict the need for assisted ventilation, while CRP can initially estimate the length of hospitalization. This study represents the first report of the potential of CER for diagnosing IPA, suggesting its significance for further research. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1294971>
+
+---
+
+## Editorial: Reviews in parasite & host
+
+date: 2024-04-03, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1391289>
+
+---
+
+## Swine influenza A virus: challenges and novel vaccine strategies
+
+date: 2024-04-03, from: Frontiers in Cellular and Infection Microbiology
+
+Swine Influenza A Virus (IAV-S) imposes a significant impact on the pork industry and has been deemed a significant threat to global public health due to its zoonotic potential. The most effective method of preventing IAV-S is vaccination. While there are tremendous efforts to control and prevent IAV-S in vulnerable swine populations, there are considerable challenges in developing a broadly protective vaccine against IAV-S. These challenges include the consistent diversification of IAV-S, increasing the strength and breadth of adaptive immune responses elicited by vaccination, interfering maternal antibody responses, and the induction of vaccine-associated enhanced respiratory disease after vaccination. Current vaccination strategies are often not updated frequently enough to address the continuously evolving nature of IAV-S, fail to induce broadly cross-reactive responses, are susceptible to interference, may enhance respiratory disease, and can be expensive to produce. Here, we review the challenges and current status of universal IAV-S vaccine research. We also detail the current standard of licensed vaccines and their limitations in the field. Finally, we review recently described novel vaccines and vaccine platforms that may improve upon current methods of IAV-S control. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1336013>
+
+---
+
+## Editorial: Impact of viral co-infection on cellular or human health and its clinical outcome
+
+date: 2024-04-03, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1399184>
+
+---
+
+## A novel approach to designing viral precision vaccines applied to SARS-CoV-2
+
+date: 2024-04-02, from: Frontiers in Cellular and Infection Microbiology
+
+Efficient precision vaccines against several highly pathogenic zoonotic viruses are currently lacking. Proteolytic activation is instrumental for a number of these viruses to gain host-cell entry and develop infectivity. For SARS-CoV-2, this process is enhanced by the insertion of a furin cleavage site at the junction of the spike protein S1/S2 subunits upstream of the metalloprotease TMPRSS2 common proteolytic site. Here, we describe a new approach based on specific epitopes selection from the region involved in proteolytic activation and infectivity for the engineering of precision candidate vaccinating antigens. This approach was developed through its application to the design of SARS-CoV-2 cross-variant candidates vaccinating antigens. It includes an in silico structural analysis of the viral region involved in infectivity, the identification of conserved immunogenic epitopes and the selection of those eliciting specific immune responses in infected people. The following step consists of engineering vaccinating antigens that carry the selected epitopes and mimic their 3D native structure. Using this approach, we demonstrated through a Covid-19 patient-centered study of a 500 patients’ cohort, that the epitopes selected from SARS-CoV-2 protein S1/S2 junction elicited a neutralizing antibody response significantly associated with mild and asymptomatic COVID-19 (p<0.001), which strongly suggests protective immunity. Engineered antigens containing the SARS-CoV-2 selected epitopes and mimicking the native epitopes 3D structure generated neutralizing antibody response in mice. Our data show the potential of this combined computational and experimental approach for designing precision vaccines against viruses whose pathogenicity is contingent upon proteolytic activation. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1346349>
+
+---
+
+## Development and application of one-step multiplex Real-Time PCR for detection of three main pathogens associated with bovine neonatal diarrhea
+
+date: 2024-04-02, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p>Neonatal calf diarrhea (NCD) is one of the most common diseases in calves, causing huge economic and productivity losses to the bovine industry worldwide. The main pathogens include bovine rotavirus (BRV), bovine coronavirus (BCoV), and Enterotoxigenic Escherichia coli (ETEC) K99. Since multiple infectious agents can be involved in calf diarrhea, detecting each causative agent by traditional methods is laborious and expensive.</p></sec><sec><title>Methods</title><p>In this study, we developed a one-step multiplex Real-Time PCR assay to simultaneously detect BRV, BCoV, and E. coli K99+. The assay performance on field samples was evaluated on 1100 rectal swabs of diseased cattle with diarrhea symptoms and compared with the conventional gel-based RT-PCR assay detect BRV, BCoV, and E. coli K99+.</p></sec><sec><title>Results</title><p>The established assay could specifically detect the target pathogens without cross-reactivity with other pathogens. A single real-time PCR can detect ~1 copy/µL for each pathogen, and multiplex real-time PCR has a detection limit of 10 copies/µL. Reproducibility as measured by standard deviation and coefficient of variation were desirable. The triple real-time PCR method established in this study was compared with gel-based PT-PCR. Both methods are reasonably consistent, while the real-time PCR assay was more sensitive and could rapidly distinguish these three pathogens in one tube.  Analysis of surveillance data showed that BRV and BCoV are major enteric viral pathogens accounting for calves’ diarrhea in China. </p></sec><sec><title>Discussion</title><p>The established assay has excellent specificity and sensitivity and was suitable for clinical application. The robustness and high-throughput performance of the developed assay make it a powerful tool in diagnostic applications and calf diarrhea research. ​</p></sec> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1367385>
+
+---
+
+## Enterovirus A71 infection-induced dry eye-like symptoms by damaging the lacrimal glands
+
+date: 2024-04-02, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Purpose</title><p>To determine the effects of EV-A71 (Enterovirus A71) infection on ocular surface and its mechanism.</p></sec><sec><title>Methods</title><p>AG6 mice aged two to three weeks were randomly divided into control and EV-A71 infected groups. Slit-lamp observation, fluorescein staining, and phenol red thread test were used to assess symptoms of ocular surface at 4 dpi (days post infection). The pathological changes of cornea and lacrimal gland were observed by H&amp;E staining, PAS staining, TUNEL assay, IHC staining and qRT-PCR. Corneas and lacrimal glands from mice were obtained and processed for RNA sequencing analysis. Newly diagnosed HFMD patients caused by EV-A71 were recruited and ensured they met the inclusion criteria. Ocular surface parameters (TMH and NIKBUT) were measured using the OCULUS Keratograph 5M. Tear samples were taken to examine Cxcl1 and IL-6 levels through the ELISA method.</p></sec><sec><title>Results</title><p>Mice studies revealed that EV-A71 infection caused tear film instability, decreased tear secretions, decreased in lacrimal gland size, and distinct goblet cell loss. It also resulted in increased large vacuoles within acinar cells and structural damage in lacrimal gland. Apart from minor damage to the epidermis, there was no obvious inflammatory changes or apoptosis in the cornea. However, there were significant inflammatory injury and apoptosis in the lacrimal gland. RNA-seq analysis showed IL-17 and NF-κB signaling pathways were activated in the lacrimal glands of mice infected with EV-A71. In HFMD patients, the THM was in a low range and NITBUT was significantly shorter than the control group by Oculus Keratograph 5M. ELISA assay showed a higher tear Cxcl1 and IL-6 level in them.</p></sec><sec><title>Conclusion</title><p>EV-A71 infection affected lacrimal gland structure and function and induced dry eye-like symptoms.</p></sec> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1340075>
+
+---
+
+## Francisella tularensis-specific antibody levels in sera from Swedish patients with suspected tularemia during a 13-year period
+
+date: 2024-04-02, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionFor a majority of tularemia patients, serology is the basis for the diagnosis. The aim of this study was to perform an analysis of the samples analyzed at a Swedish reference laboratory for the presence of Francisella tularensis-specific antibody levels in sera from individuals with suspected tularemia. Annual and monthly variations of the total number of samples and proportions of positive samples were analyzed, as well as the influence of age and gender.MethodsWe performed a retrospective analysis of the presence of F. tularensis-specific antibodies in serological samples from patients with suspected tularemia analyzed during the period 2010 - 2022 at the University Hospital of Umeå in Sweden, a national reference laboratory, by use of various statistical methods. In total, some 15,100 serum samples had been analyzed for the presence of IgG and IgM antibodies by ELISA during the 13-year period.ResultsOverall, there were higher number of samples with IgG positive or borderline titers, 2,522 and 921, respectively, than with IgM positive or borderline titers, 1,802 and 409, respectively. Repeated samples were obtained from some 1,930 individuals and approximately a third of the cases, which were initially seronegative, had seroconverted when resampled. Peak number of monthly samples were recorded in August and September, > 3,000. Annual numbers varied greatly and peak numbers were observed in 2015 and 2019, 1,832 and 2,250, respectively, whereas some other years the numbers were 700 – 800. There was also much variation in the annual and monthly percentages of positive samples and they varied between less than 10% to greater than 20%. The highest percentages of positive samples were recorded in September and October. IgG and IgM titers declined with age and these differences were highly significant for IgG titers, with decreasing average titers for each 20-year interval.DiscussionCollectively, the data demonstrate the marked annual and seasonal variations in tularemia sampling occurring in Sweden. Also, the proportion of positive samples increased during months and years with peak number of samples. Another notable finding was that average antibody titers decreased with increased age. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1381776>
+

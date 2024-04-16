@@ -1,0 +1,466 @@
+---
+title: tech likely 2024.02
+updated: 2024-01-14 11:32:36
+---
+
+# tech likely 2024.02
+
+(date: 2024-01-14 11:32:36)
+
+---
+
+## On enjoying the process
+
+date: 2024-01-14, from: Manu - I write blog
+
+<p>Working on a project of any kind is a journey. And like any type of journey, what matters the most is not the destination, but the journey itself. It’s easy for me to forget that crucial aspect while I’m working through any type of project. I jump from one project to the next, with my eyes set on the finish line but I forget to pay attention to the process. And in doing that I often find myself to be quite miserable. Because there’s no joy to be found at the finish line. The enjoyable part is the process. Trying new things, failing, making mistakes, experimenting, getting hurt. It’s all part of the process and it’s what makes the journey enjoyable.</p>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/2QT4GBm1LwjmoflN">https://manuelmoreale.com/@/page/2QT4GBm1LwjmoflN</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/2QT4GBm1LwjmoflN">Save to Pocket</a>
+</span>
+
+---
+
+## HOWTO: Change your behavior
+
+date: 2024-01-14, from: Matt Might blog
+
+
+<p>In theory, behavior change should be easy.</p>
+
+<p>At first glance, it seems like <em>you</em> control your behavior.</p>
+
+<p>So, if you desire different behavior, why doesn&#8217;t your behavior change as instantly as your desire to change it?</p>
+
+<p>In short, lasting change of habitual behaviors is a multi-stage process.</p>
+
+<p>In 1977, as psychologists James Prochaska and Carlo DiClemente were studying the behavior of smokers, they identified these stages.</p>
+
+<p>Their <a href="https://www.amazon.com/Changing-Good-Revolutionary-Overcoming-Positively/dp/038072572X?pd_rd_i=038072572X&amp;psc=1&amp;linkCode=ll1&amp;tag=mmamzn06-20&amp;linkId=10d08f55149cd797828a0557f1a1594b&amp;language=en_US&amp;ref_=as_li_ss_tl">transtheoretical model of behavior change</a> captures the process of behavior change in six different stages: (1) precontemplation; (2) contemplation; (3) preparation; (4) action; (5) maintenance; and (6) relapse.</p>
+
+<img src="images/dall-e-escher-ttm.png" class="abstract-image" />
+
+<center>
+<em>DALL-E's depiction of behavior change in the transtheoretical model.</em>
+</center>
+
+<p>In the years since, this landmark model has been found to be applicable to many habitual human behaviors.</p>
+
+<p>The key takeaway is that the odds of successful long-term behavior change improve if you calibrate your strategy to the stage of change you&#8217;re in.</p>
+
+<p>The goal of this article is to provide an actionable summary of this model and interventions for each stage, so that you can more effectively change your behavior in the long-term.</p>
+
+<p>Understanding the model may also help you to understand why you may have struggled with behavior change in the past.</p>
+
+<p><strong>Disclaimer</strong>: This article is based on my survey of the scientific literature and my own lived experience. I am not a mental health professional, and if you are struggling with behavior change or any other mental health condition, please immediately consult a qualified professional.</p>
+   <p><a href="http://matt.might.net/articles/how-to-change-your-behavior/">Click here to read the rest of the article</a></p>
+   
+
+<span class="feed-item-link">
+<a href="http://matt.might.net/articles/how-to-change-your-behavior/">http://matt.might.net/articles/how-to-change-your-behavior/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://matt.might.net/articles/how-to-change-your-behavior/">Save to Pocket</a>
+</span>
+
+---
+
+## Raspberry Pi 5 shortages shouldn't last long
+
+date: 2024-01-14, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Raspberry Pi 5 shortages shouldn't last long</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><em>Or at least that's the hope, based on current production rates.</em></p>
+
+<p><img src="https://www.jeffgeerling.com/sites/default/files/images/ces-eben-upton-jeff-geerling.jpg" width="700" height="auto" class="insert-image" alt="Jeff Geerling speaks to Eben Upton at CES 2024" /></p>
+
+<p>At CES 2024, I had the opportunity to chat with Eben Upton, Raspberry Pi's CEO. We discussed the future of AI on the Pi, RP2040's successor, the impending launch of Compute Module 5, and current production rates of Pi 4 and Pi 5 computers—Raspberry Pi's bread and butter.</p>
+
+<p>The news is good: currently (as of last week), they are manufacturing Pi 5 at a rate of 70,000 per week. By the end of January? 90,000 per week.</p>
+
+<p>That would put manufacturing capacity for Pi 5 alone at 400,000 units <em>every month</em>.</p>
+
+<p><img src="https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-manufacturing.jpeg" width="700" height="auto" class="insert-image" alt="Raspberry Pi 4 manufacturing line" /></p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-01-14T12:00:57-06:00" title="Sunday, January 14, 2024 - 12:00" class="datetime">January 14, 2024</time></span>
+
+<span class="feed-item-link">
+<a href="https://www.jeffgeerling.com/blog/2024/raspberry-pi-5-shortages-shouldnt-last-long">https://www.jeffgeerling.com/blog/2024/raspberry-pi-5-shortages-shouldnt-last-long</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jeffgeerling.com/blog/2024/raspberry-pi-5-shortages-shouldnt-last-long">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-14, from: Dave Winer's Scripting News)
+
+One man gathers what another man spills.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/14.html#a172336">http://scripting.com/2024/01/14.html#a172336</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/14.html#a172336">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-14, from: Dave Winer's Scripting News)
+
+<a href="https://www.youtube.com/watch?v=W-s0lFpflQw">Another Dead song</a> that must've been fun to <a href="https://www.dead.net/song/saint-stephen">sing</a>. "Stephen would answer if he only knew how."
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/14.html#a171755">http://scripting.com/2024/01/14.html#a171755</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/14.html#a171755">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-14, from: Dave Winer's Scripting News)
+
+BTW, what are the proper pronouns for The Creator?
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/14.html#a161012">http://scripting.com/2024/01/14.html#a161012</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/14.html#a161012">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-14, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/09/24/barbie.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">With mystique of Substack in decline, now -- if we had a proper identity system with storage, we could make it easy for people to hook their world up to email, ie newsletters, and preserve choice, and be able to build editors that were more than tiny little textboxes. I was part of the PC wave in the 80s when writing tools advanced incredibly quickly. In the space of ten years we advanced in so many directions -- from line-oriented editors on Unix and early Apples, to screen editors, then with the Mac, we got wizzy, and page layout, and outliners for thinking and presentations. In the same time period programming changed from something requiring a million dollar investment in hardware and infrastructure, to something most students could afford. Just ten years. Since then our world has been reduced to copying and pasting into tiny text boxes. The question is bigger than if we need journalism, the question is do we need writers?
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/14.html#a160204">http://scripting.com/2024/01/14.html#a160204</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/14.html#a160204">Save to Pocket</a>
+</span>
+
+---
+
+## Where we stand regarding the climate
+
+date: 2024-01-14, from: Alex Schroeder's Blog
+
+<h1>Where we stand regarding the climate</h1>
+
+<p>This is a repost of <a href="https://mastodon.green/@peterdutoit/1117534198618423710">a thread</a> by <a class="account" href="https://mastodon.green/@peterdutoit" title="@peterdutoit@mastodon.green">@peterdutoit</a>, with some additinal quotes from the sources linked.
+Peter du Toit has been posting climate related posts on fedi for quite a while.
+This is a recommendation to follow his account.</p>
+
+<p>He says:</p>
+
+<p>We are firmly on a path to chaos.
+We continue to pour greenhouse gases into the atmosphere. Here is our track record for the period 1990-2022:</p>
+
+<p><img loading="lazy" src="2024-01-14-climate-1.png" alt="Total green house gas emissions going from 38 GtCO₂ in 1990 to 57 GtCO₂ in 2022" /></p>
+
+<p>Graph sourced from this report:</p>
+
+<blockquote>
+<p>All sectors apart from transport have fully rebounded from the drop
+in emissions induced by the COVID-19 pandemic and now exceed 2019
+levels. CO2 emissions from fossil fuel combustion and industrial
+processes were the main contributors to the overall increase,
+accounting for about two thirds of current GHG emissions. Emissions
+of methane (CH4), nitrous oxide (N2O) and fluorinated gases
+(F-gases), which have higher global warming potentials and account
+for about one quarter of current GHG emissions, are increasing
+rapidly: in 2022, F-gas emissions grew by 5.5 per cent, followed by
+CH4 at 1.8 per cent and N2O at 0.9 per cent. – <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/43922/EGR2023.pdf">Broken Record:
+Temperatures hit new highs, yet world fails to cut emissions
+(again)</a>,
+by the UN environment programme.</p>
+</blockquote>
+
+<p>As a result of the above, 2023 ended as the hottest year on record at
++1.45°C above the preindustrial average, based on the six
+international climate datasets.</p>
+
+<blockquote>
+<p>The annual average global temperature approached 1.5° Celsius above
+pre-industrial levels – symbolic because the Paris Agreement on
+climate change aims to limit the long-term temperature increase
+(averaged over decades rather than an individual year like 2023) to
+no more than 1.5° Celsius above pre-industrial levels. – <a href="https://wmo.int/news/media-centre/wmo-confirms-2023-smashes-global-temperature-record">WMO
+confirms that 2023 smashes global temperature
+record</a>.</p>
+</blockquote>
+
+<p>At time of writing, using the standard decadal averages, we have
+currently heated by about +1.29ºC above the preindustrial average
+using four of the above datasets.</p>
+
+<blockquote>
+<p>This number shows an up-to-the-second assessment of human-induced
+global warming since the second half of the 19th century. – <a href="https://www.globalwarmingindex.org/">Global
+Warming Index</a></p>
+</blockquote>
+
+<p>The consequences of a world that has heated by +1.3ºC has become very
+clear during the past year. Here is a month-by-month look at the
+extreme events of 2023.</p>
+
+<blockquote>
+<p>The number of global extreme weather events has seen a &ldquo;staggering
+rise&rdquo; in the past 30 years, said the United Nations, and experts
+warn climate change is &ldquo;supercharging” the problem, per The
+Associated Press. – <a href="https://theweek.com/in-depth/1021278/2023-extreme-weather">The extreme weather events of
+2023</a>, by
+Devika Rao, for The Week US, behind a subscription wall</p>
+</blockquote>
+
+<p>With the emission trajectory for both CO₂ and Methane still
+increasing, the earth will continue to heat. There is no negotiation
+with the physics of this.</p>
+
+<p><img loading="lazy" src="2024-01-14-climate-2.png" alt="Global atmospheric concentration of CO₂ going from below 380 to nearly 420 ppb" />
+<img loading="lazy" src="2024-01-14-climate-3.png" alt="Global atmospheric concentration of methane going from below 1760 to over 1900 ppb" /></p>
+
+<p>With our fossil fuel burning ways entrenched, we are firmly on track
+to pass the 1.5°C threshold in the near future.</p>
+
+<p>Various groups have attempted to extrapolate when exactly this will
+become the earth’s permanent background baseline temperature.</p>
+
+<p>Here is a projection from Berkley Earth:</p>
+
+<p><img loading="lazy" src="2024-01-14-climate-4.png" alt="Global temperature anomaly going to ~2°C by 2057" /></p>
+
+<blockquote>
+<p>The last nine years have included all nine of the warmest years
+observed in the instrumental record. – <a href="https://berkeleyearth.org/global-temperature-report-for-2023/">Global Temperature Report
+for 2023</a>,
+by Robert Rohde, for Berkley Earth</p>
+</blockquote>
+
+<p>Here is the projection from Copernicus Climate Change:</p>
+
+<p><img loading="lazy" src="2024-01-14-climate-5.png" alt="Global warming reaches 1.5°C by November 2033" /></p>
+
+<blockquote>
+<p>Global warming reached an estimated 1.26°C in December 2023. If the
+30-year warming trend leading up then continued, global warming
+would reach 1.5°C by November 2033. – <a href="https://cds.climate.copernicus.eu/cdsapp#!/software/app-c3s-global-temperature-trend-monitor">Global temperature trend
+monitor</a></p>
+</blockquote>
+
+<p>There are others, like Dr James Hanson et al, who believe that these
+estimates are too conservative and that we will arrive at this
+threshold much sooner as they illustrate below.</p>
+
+<p><img loading="lazy" src="2024-01-14-climate-6.png" alt="Global temperature will continue to grow in the next 5-8 months, carrying the 12-month running-mean to at least 1.6-1.7°C" /></p>
+
+<blockquote>
+<p>We expect record monthly temperatures to continue into mid-2024 due
+to the present large planetary energy imbalance, with the 12- month
+running-mean global temperature reaching +1.6-1.7°C relative to
+1880-1920 and falling to only +1.4 ± 0.1°C during the following La
+Nina. Considering the large planetary energy imbalance, it will be
+clear that the world is passing through the 1.5°C ceiling, and is
+headed much higher, unless steps are taken to affect Earth’s energy
+imbalance. – <a href="http://www.columbia.edu/~jeh1/mailings/2024/AnnualT2023.2024.01.12.pdf">Global Warming Acceleration: Causes and
+Consequences</a></p>
+</blockquote>
+
+<p>Whichever of the above projections end up being what transpires in
+reality, we know for sure that we are going to smash right past the
+1.5°C threshold sometime between 2024 and 2033.</p>
+
+<p>The devastation we witnessed in 2023 at +1.3°C of heating will seem
+mild as we reach higher levels of heating. We now also have solid
+research that shows crossing 1.5°C permanently, will set in motion
+tipping points that will unleash even more climate chaos as a result
+of their cascading effects.</p>
+
+<blockquote>
+<p>Climate system tipping elements are components of the Earth system
+susceptible to a tipping point, that is, a critical threshold beyond
+which the system reorganises, often abruptly and/or irreversibly.
+Improved scientific understanding has shown that triggering climate
+system tipping points already this century cannot be ruled out, far
+sooner and at lower levels of warming than previously assumed. The
+goal of this chapter is to review the state of knowledge of climate
+system tipping points. – <a href="https://www.oecd-ilibrary.org/sites/abc5a69e-en/1/3/2/index.html?itemId=/content/publication/abc5a69e-en&amp;_csp_=6d00888f3885b1fcadfb107c6ede4c51&amp;itemIGO=oecd&amp;itemContentType=book#">Climate Tipping Points: Insights for
+Effective Policy
+Action</a>,
+OECD iLibrary</p>
+</blockquote>
+
+<p>Our current response to what the physics requires to slow the
+emissions freight train is nothing short of a joke. The current
+policies put us on track for a +2.7°C world. Talk about an overshoot!</p>
+
+<p>The UNEP on what is required starting immediately:</p>
+
+<blockquote>
+<p>To reach emission levels consistent with a below 2°C pathway in
+2030, the cuts required per year are now 5.3 per cent from 2024,
+reaching 8.7 per cent per year on average for the 1.5°C pathway. To
+compare, the fall in total global GHG emissions from 2019 to 2020
+due to the COVID-19 pandemic was 4.7 per cent. – <a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/43922/EGR2023.pdf">Broken Record:
+Temperatures hit new highs, yet world fails to cut emissions
+(again)</a>,
+by the UN environment programme.</p>
+</blockquote>
+
+<p>As we start 2024 there is NO indication that we have any intent to
+approach this with the same urgency and determination which was
+displayed during the Covid pandemic.</p>
+
+<p>Look around, it’s all business as usual.</p>
+
+<p>As as result we are, as the UN Secretary General put it, &ldquo;on a highway
+to climate hell with our foot still on the accelerator.&rdquo;</p>
+
+<p>Right now, there are billions of people on the frontlines of this.</p>
+
+<p>We are entering the period of climate induced chaos.</p>
+
+<p><a class="tag" href="/search/?q=%23Climate">#Climate</a></p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-01-14-climate">https://alexschroeder.ch/view/2024-01-14-climate</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-01-14-climate">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-14, from: Dave Winer's Scripting News)
+
+It makes sense that AI is coming into existence at the time the human species, and most living things on the planet, appear about to cease to exist. It's possible that we are just building our successor. A sort of ark of intellect. It would make sense, if there is a Creator, that they would arrange things this way. Just-in-time species reboot.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/14.html#a145854">http://scripting.com/2024/01/14.html#a145854</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/14.html#a145854">Save to Pocket</a>
+</span>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-01-14, from: Tomosino's Mastodon feed)
+
+<p>Our volcanic eruption by Grindavík restarted this morning. The lava is about 450m from the town and will likely reach it today.</p>
+
+<span class="feed-item-link">
+<a href="https://tilde.zone/@tomasino/111753896070770333">https://tilde.zone/@tomasino/111753896070770333</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tilde.zone/@tomasino/111753896070770333">Save to Pocket</a>
+</span>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-01-14, from: Tomosino's Mastodon feed)
+
+<p>I painted my first mini last night. Shadows first as an undercoat. I'm pretty happy with the results.</p>
+
+<span class="feed-item-link">
+<a href="https://tilde.zone/@tomasino/111753883711288554">https://tilde.zone/@tomasino/111753883711288554</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tilde.zone/@tomasino/111753883711288554">Save to Pocket</a>
+</span>
+
+---
+
+## Stitch images together with Stitchy
+
+date: 2024-01-14, from: Dave Rupert blog
+
+<p>From time to time I need to stitch together two or three images into a horizontal or vertical image. It seems so wasteful to spin up a whole design document for that task. What I really wanted was a CLI that does that for me and I found one that does the job: Stitchy.</p>
+<h2>How to use Stitchy</h2>
+<p>Stitchy is a Rust package that does what it says on the tin, it stitches images together.</p>
+<p><a href="https://www.rust-lang.org/tools/install">Install Rust and Cargo</a></p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="bash">curl <span class="nt">--proto</span> <span class="s1">'=https'</span> <span class="nt">--tlsv1</span>.2 <span class="nt">-sSf</span> https://sh.rustup.rs | sh
+</code></pre></div></div>
+<p>Install <a href="https://lib.rs/crates/stitchy">Stitchy</a></p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="bash">cargo <span class="nb">install </span>stitchy
+</code></pre></div></div>
+<p>Use Stitchy</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="bash">stitchy image1.png image2.png
+</code></pre></div></div>
+<p>If you’re feeling even lazier and don’t want to type file names, you can have Stitchy grab the <code>n</code> latest images in the directory and/or set the <code>--order</code> flag to <code>alphabetical</code>.</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="bash">stitchy 4 
+stitchy 4 <span class="nt">--order</span><span class="o">=</span>alphabetical 
+</code></pre></div></div>
+<h2>Stitchy for responsive images</h2>
+<p>By default Stitchy will assemble the images in order in a tight grid. Where Stitchy really shines is generating responsive images where you might show a grid of images on mobile and a horizontal filmstrip on desktop.</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="bash">stitchy 4     <span class="c"># layout images in a grid</span>
+stitchy 4 <span class="nt">-h</span>  <span class="c"># layout images horizontally</span>
+</code></pre></div></div>
+<p>Here’s an example of a responsive image treatment I did on <a href="https://daverupert.com/2023/12/vibe-check-30/">a recent Vibe Check</a>.</p>
+<figure>
+<p><img src="https://cdn.daverupert.com/posts/2023/vc30-read.jpg" alt="Four books covers (The Big Myth, The Hard Switch, The Oven, and Subtract) arranged in a horizontal row" /></p>
+  <figcaption>The desktop version of the last four books I've read</figcaption>
+</figure>
+<p>If you resize your browser to a smaller viewport, you can see how the wide but short image is loses hierarchy and readability on mobile. So I used <code>stitchy</code> to cut a new version for desktop.</p>
+<figure>
+<p><img src="https://cdn.daverupert.com/posts/2023/vc30-read-mobile.jpg" alt="Four books covers (The Big Myth, The Hard Switch, The Oven, and Subtract) arranged in a staggered grid" /></p>
+  <figcaption>The mobile version of the last four books I've read</figcaption>
+</figure>
+<p>No one noticed I did this, no one said “thanks”, but these small touches are still my favorite responsive image techniques.</p>
+<h2>Other things Stitchy can do</h2>
+<p>Stitchy gives you a bit more control in setting a <code>--maxw</code> or <code>--maxh</code> if that’s part of the effect. You can also set the output format to <code>--jpg</code> or <code>--png</code> if needed as well as control the <code>--quality</code>.</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="bash">stitchy 4 <span class="nt">--png</span>
+stitchy 4 <span class="nt">--jpg</span> <span class="nt">--quality</span><span class="o">=</span>75
+</code></pre></div></div>
+<h2>Enjoy Stitchy</h2>
+<p>And that’s Stitchy! It’s pretty handy if you ask me.</p>
+<p>I wrote this post because I use it so infrequently and it’s not very well documented beyond the <code>--help</code> command, so I wanted to have this to remember how to use it.</p>
+
+<span class="feed-item-link">
+<a href="https://daverupert.com/2024/01/stitchy/">https://daverupert.com/2024/01/stitchy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daverupert.com/2024/01/stitchy/">Save to Pocket</a>
+</span>
+
+---
+
+## I was a fast-food worker. Let me tell you about burnout. [2019]
+
+date: 2024-01-14, from: Tilde.news
+
+<p><a href="https://tilde.news/s/szzsek/i_was_fast_food_worker_let_me_tell_you_about">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.vox.com/the-highlight/2019/7/6/20681186/fast-food-worker-burnout">https://www.vox.com/the-highlight/2019/7/6/20681186/fast-food-worker-burnout</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.vox.com/the-highlight/2019/7/6/20681186/fast-food-worker-burnout">Save to Pocket</a>
+</span>
+
+---
+
+## ISDN History: Why It (Mostly) Failed To Make A Mark
+
+date: 2024-01-14, from: Tilde.news
+
+<p><a href="https://tilde.news/s/xqzcpy/isdn_history_why_it_mostly_failed_make">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://tedium.co/2024/01/12/isdn-history-retrospective/">https://tedium.co/2024/01/12/isdn-history-retrospective/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tedium.co/2024/01/12/isdn-history-retrospective/">Save to Pocket</a>
+</span>
+
+---
+
+## Full Circle Weekly News 348
+
+date: 2024-01-14, from: Full Circle Magazine
+
+<ul>
+<li>
+<p><a href="https://content.minetest.net/packages/aerkiaga/nodeverse/">Update to Nodeverse:</a></p>
+</li>
+<li>
+<p><a href="https://gnuplot.sourceforge.net/ReleaseNotes_6_0_0.html">Release of Gnuplot 6.0:</a></p>
+</li>
+<li>
+<p><a href="https://www.scribus.net/scribus-1-6-0-released/">Release of Scribus 1.6.0:</a></p>
+</li>
+<li>
+<p><a href="https://github.com/snooppr/snoop">Release of Snoop 1.4.0:</a></p>
+</li>
+<li>
+<p><a href="https://www.vim.org/news/news.php">Release of Vim 9.1:</a></p>
+</li>
+<li>
+<p><a href="https://blog.ipfire.org/post/ipfire-2-27-core-update-182-released">Release of IPFire 2.27 Core 182:</a></p>
+</li>
+<li>
+<p><a href="https://blog.lenot.re/a/introduction">Maestro core, written in Rust and partially compatible with Linux:</a></p>
+</li>
+</ul>
+<p><strong>Credits</strong></p>
+<ul>
+<li>Host: <a href="https://twitter.com/bardictriad">@bardictriad</a>, <a href="mailto:zaivala@hostux.social">@zaivala</a></li>
+<li>Bumper: <a href="https://canonical.com/">Canonical</a></li>
+<li>Theme Music: From The Dust - Stardust</li>
+<li><a href="https://soundcloud.com/ftdmusic">https://soundcloud.com/ftdmusic</a></li>
+<li><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></li>
+</ul>
+
+<span class="feed-item-link">
+<a href="https://fullcirclemagazine.org/podcasts/podcast-348/">https://fullcirclemagazine.org/podcasts/podcast-348/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fullcirclemagazine.org/podcasts/podcast-348/">Save to Pocket</a>
+</span>
+
+
+
+<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+

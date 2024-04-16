@@ -1,0 +1,712 @@
+---
+title: weather 2024.03
+updated: 2024-01-19 15:57:50
+---
+
+# weather 2024.03
+
+(date: 2024-01-19 15:57:50)
+
+---
+
+## SPC - No watches are valid as of Fri Jan 19 17:50:02 UTC 2024
+
+date: 2024-01-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri Jan 19 17:50:02 UTC 2024.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC - No MDs are in effect as of Fri Jan 19 17:50:02 UTC 2024
+
+date: 2024-01-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Fri Jan 19 17:50:02 UTC 2024.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Jan 19, 2024 1730 UTC Day 2 Convective Outlook
+
+date: 2024-01-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1100 AM CST Fri Jan 19 2024
+
+Valid 201200Z - 211200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Thunderstorms are not expected across the continental U.S. Saturday
+or Saturday night.
+
+...Synopsis...
+Water-vapor imagery midday Friday shows a potent mid- to upper-level
+low/trough over the eastern Pacific west of the CA coast.  This
+feature is forecast to weaken as it moves northeast into the Pacific
+Northwest during daylight hours on Saturday while a weaker
+perturbation moves through the larger-scale trough's base and into
+southern CA late Saturday night.  Farther east, a mid-level ridge
+will shift into the Great Plains concurrent with a trough's
+influence abating along the East Coast.  In the low levels, cool
+and/or stable conditions over much of the Lower 48 states will
+preclude thunderstorm development.
+
+..Smith.. 01/19/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2024-01-19, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1048 AM CST Fri Jan 19 2024
+
+Valid 191700Z - 201200Z
+
+...NO CRITICAL AREAS...
+
+No changes. See previous discussion below.
+
+..Bentley.. 01/19/2024
+
+.PREV DISCUSSION... /ISSUED 1241 AM CST Fri Jan 19 2024/
+
+...Synopsis...
+High pressure will build today across the northern Rockies as an
+upper-level low brings rain and snow chances across the Pacific
+Northwest. Across the central/eastern US, a cool post-frontal air
+mass will be in place under building surface high pressure. Given
+the cool and moist conditions, fire weather concerns will remain low
+across the CONUS today.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Jan 19, 2024 1630 UTC Day 1 Convective Outlook
+
+date: 2024-01-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1030 AM CST Fri Jan 19 2024
+
+Valid 191630Z - 201200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not expected, but a few thunderstorms may
+occur across parts of south Florida and along the central California
+Coast.
+
+...Discussion...
+An amplified but progressive large-scale pattern will exist over the
+CONUS, including a prominent upper trough over the Eastern CONUS. A
+semi-moist environment, albeit with weak lapse rates, may support a
+few thunderstorms today across or near south Florida prior to a cold
+front moving through the region. 
+
+In the West, a few lightning flashes will be possible particularly
+into tonight, as convection moves inland ahead of the advancing
+Pacific trough and an associated surface cold front. Weak
+instability and the anticipated weak/elevated nature of this
+convection is suggestive of a negligible severe risk.
+
+..Guyer/Lyons.. 01/19/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Jan 19, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-01-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0645 AM CST Fri Jan 19 2024
+
+Valid 191300Z - 201200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+A few thunderstorms may be noted across parts of south Florida and
+along the central California Coast.
+
+...Synopsis...
+The upper flow field across the U.S. will be characterized by fast
+cyclonic flow over the eastern 2/3 of the country today and tonight,
+while ridging prevails over the West.  Ridging will be gradually
+shunted eastward however, as a low-trough over the eastern Pacific
+approaches -- and eventually reaches -- the West Coast.
+
+At the surface, a cold front will move southward across Florida and
+the Gulf of Mexico, as high pressure gradually expands southward to
+encompass a large portion of the U.S. east of the Rockies.  While
+cold stable air associated with this high will preclude thunder
+potential in most areas, showers and a few thunderstorms will be
+possible across parts of southern Florida ahead of the front, today
+and into this evening.  However, weak lapse rates -- and resulting
+weak CAPE -- will preclude any appreciable severe potential.
+
+In the West, a few lightning flashes will be possible later in the
+period, as convection moves inland ahead of the advancing Pacific
+trough and an associated surface cold front.  However, weak
+instability and the anticipated/elevated nature of this convection
+suggests minimal, if any, severe risk.
+
+..Goss.. 01/19/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2024-01-19, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1251 AM CST Fri Jan 19 2024
+
+Valid 201200Z - 211200Z
+
+...NO CRITICAL AREAS...
+
+...Synopsis...
+An upper-level ridge will build in across the CONUS by Saturday.
+Under this regime, primarily light winds will remain keeping fire
+weather concerns low.
+
+..Thornton.. 01/19/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">https://www.spc.noaa.gov/products/fire_wx/fwdy2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Jan 18, 2024 0100 UTC Day 1 Convective Outlook
+
+date: 2024-01-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0619 PM CST Wed Jan 17 2024
+
+Valid 180100Z - 181200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Thunderstorms remain unlikely tonight.
+
+...01z Update...
+
+Stable conditions exist across the CONUS this evening with offshore
+flow now dominant across the FL Peninsula. Any meaningful buoyancy
+has been shunted south of the FL Straits, thus the prospect for
+lightning is very low tonight.
+
+..Darrow.. 01/18/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html">https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC MD 78
+
+date: 2024-01-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0078.html"><img src="https://www.spc.noaa.gov/products/md/mcd0078.png" border="1" alt="MD 0078 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0078
+NWS Storm Prediction Center Norman OK
+0149 PM CST Wed Jan 17 2024
+
+Areas affected...Washington...northeast Oregon...northern
+Idaho...and western Montana
+
+Concerning...Heavy snow 
+
+Valid 171949Z - 172345Z
+
+SUMMARY...Heavy snowfall rates between 1-2 inches per hour are
+probable - especially at higher elevations - through the afternoon
+and early evening.
+
+DISCUSSION...Surface observations over the past hour have reported
+an uptick in snowfall intensity across portions of OR and northern
+ID. This comes as a swath of precipitation becomes more widespread
+ahead of a compact, progressive upper disturbance moving into the
+Pacific Northwest. Lift will likely be focused/maximized along a
+mid-level baroclinic zone between 850-700 mb, which should overlap
+to some degree with a DGZ between 700-600 mb (based on recent
+forecast soundings). The combination of more focused ascent within a
+portion of the DGZ should support moderate to heavy snowfall rates
+up to 1 inch/hour. More localized orographic ascent will likely
+enhance snowfall rates within the higher elevations, and could
+support snowfall rates up to (and possibly exceeding) 2 inches/hour.
+A minimum in snowfall rates is anticipated across central WA where
+orographic ascent contribution will be considerably smaller.
+
+..Moore.. 01/17/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...TFX...PIH...MSO...BOI...OTX...PDT...SEW...PQR...
+
+LAT...LON   43741612 44651774 44931811 45281833 45861883 46051943
+            46172017 46232081 46132148 46802166 47772154 48162145
+            48712115 48912075 48981908 48941667 48921651 48961360
+            48821298 47921283 44061289 43751324 43471384 43451480
+            43481542 43741612 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0078.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/md0078.html">https://www.spc.noaa.gov/products/md/md0078.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/md0078.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2024-01-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0335 PM CST Wed Jan 17 2024
+
+Valid 191200Z - 251200Z
+
+Upper ridging will build into the central CONUS through the weekend,
+with a stationary upper trough moving in and settling over the
+southern Plains through the middle of next week. Initially, surface
+high pressure and colder air beneath the upper ridge will remain in
+place across the central and eastern United Stated into early next
+week. Thereafter, the anticipated persistent mid-level troughing in
+the southern Plains will encourage low-level moisture return for
+multiple days across the south-central into the southeastern U.S.
+Through the extended forecast period, the combination of cool or
+moist surface conditions and poorly receptive fuels will limit
+wildfire-spread potential.
+
+..Squitieri.. 01/17/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">https://www.spc.noaa.gov/products/exper/fire_wx/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/exper/fire_wx/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Jan 17, 2024 2000 UTC Day 1 Convective Outlook
+
+date: 2024-01-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0141 PM CST Wed Jan 17 2024
+
+Valid 172000Z - 181200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Thunderstorms are not expected in the conterminous U.S. through
+tonight.
+
+Thunderstorms remain unlikely across the CONUS today, with cool
+and/or stable air over land. Sporadic weak convection may produce a
+few lightning flashes from the FL Straits into the Bahamas, aided by
+warm water temperature beneath a midlevel moist plume.
+
+..Jewell.. 01/17/2024
+
+.PREV DISCUSSION... /ISSUED 0951 AM CST Wed Jan 17 2024/
+
+...Synopsis...
+The majority of the CONUS is dominated by a continental polar air
+mass, with the associated front now into the Bahamas/Cuba/northern
+Yucatan.  Substantial low-level moisture and buoyancy are likely to
+remain to the south of FL, and little to no buoyancy is expected
+with the shortwave trough over the Great Basin/central Rockies. 
+Thus, thunderstorms are not expected through Thursday morning.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html">https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC MD 73
+
+date: 2024-01-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0073.html"><img src="https://www.spc.noaa.gov/products/md/mcd0073.png" border="1" alt="MD 0073 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0073
+NWS Storm Prediction Center Norman OK
+0749 AM CST Tue Jan 16 2024
+
+Areas affected...Parts of the Mid Atlantic into southern New England
+
+Concerning...Winter mixed precipitation 
+
+Valid 161349Z - 161745Z
+
+SUMMARY...Locally moderate winter precipitation rates will spread
+northeastward this morning, with some modest ice accretion possible
+where freezing rain persists.
+
+DISCUSSION...A surface low currently off of the Mid Atlantic coast
+is forecast to gradually deepen as it moves northeast toward coastal
+southern New England this morning. Multiple waves of light to
+locally moderate precipitation are ongoing and will continue to
+spread northeastward in conjunction with the surface low. While
+interior portions of the Northeast will likely continue to see snow
+(with generally light to moderate rates) this morning, low-level
+warm advection will support a transition from snow to sleet across
+parts of southern New England, with freezing rain persisting over
+portions of the Mid Atlantic region.
+
+As the low deepens offshore, a modest uptick in precipitation
+intensity will be possible through the morning. While rates will
+likely remain light to locally moderate, antecedent cold conditions
+(with temperatures initially in the 20s F) may result in relatively
+efficient ice accretion in areas that transition to freezing rain.
+Pockets of moderate sleet/snow will also be possible into parts of
+southern New England. Low-level warm advection will support a
+gradual transition to rain along the Mid Atlantic and southern New
+England coasts, but subfreezing temperatures may persist inland
+through the morning.
+
+..Dean.. 01/16/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...GYX...BOX...OKX...ALY...PHI...LWX...
+
+LAT...LON   39497504 38747620 38747652 39137660 39727603 41187450
+            42147322 42607220 42787134 42627089 42347101 41377217
+            40937321 40307434 39497504 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0073.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/md0073.html">https://www.spc.noaa.gov/products/md/md0073.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/md0073.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC MD 74
+
+date: 2024-01-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0074.html"><img src="https://www.spc.noaa.gov/products/md/mcd0074.png" border="1" alt="MD 0074 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0074
+NWS Storm Prediction Center Norman OK
+1017 AM CST Tue Jan 16 2024
+
+Areas affected...Central Florida
+
+Concerning...Severe potential...Watch unlikely 
+
+Valid 161617Z - 161815Z
+
+Probability of Watch Issuance...5 percent
+
+SUMMARY...A line of storms moving onto the Florida west coast within
+the next hour may pose a risk of damaging winds. Watch issuance is
+not anticipated.
+
+DISCUSSION...A band of convection focused along a cold front is
+slowly approaching the FL west coast per recent radar/satellite
+imagery. GOES IR and lightning trends show a few intensifying
+updrafts within the line, denoted by concentrated lightning clusters
+and cooling cloud top temperatures. This trend should continue as
+the line moves onshore where temperatures are warming into the
+low/mid 70s and MLCAPE values are slowly increasing to 1000-1500
+J/kg. VWP observations from KTBW show 0-6 km BWD values around 50-60
+knots, but deep-layer shear vectors are largely oriented along the
+boundary with weak line-normal deep-layer shear. This may limit the
+overall organization/intensity of the line, but may support stronger
+embedded segments capable of damaging winds. This kinematic regime
+is not overly favorable for line-embedded tornadoes, but a brief
+tornado appears possible if a portion of the line can become more
+oriented from southeast to northwest. Confidence in this scenario is
+low at this time given recent storm trends, and a damaging wind risk
+appears more probable. Regardless, the overall severe threat appears
+too limited to warrant watch issuance.
+
+..Moore/Thompson.. 01/16/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...MLB...TBW...JAX...
+
+LAT...LON   28268276 28578263 28918271 29598115 29228100 28878081
+            28458073 28238066 28158070 27668245 27638262 27658273
+            27868287 28028286 28268276 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0074.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/md0074.html">https://www.spc.noaa.gov/products/md/md0074.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/md0074.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC MD 69
+
+date: 2024-01-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0069.html"><img src="https://www.spc.noaa.gov/products/md/mcd0069.png" border="1" alt="MD 0069 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0069
+NWS Storm Prediction Center Norman OK
+1150 AM CST Mon Jan 15 2024
+
+Areas affected...parts of middle and eastern Tennessee
+
+Concerning...Heavy snow 
+
+Valid 151750Z - 152045Z
+
+SUMMARY...An area of heavier snow rates, occasionally approaching 1
+inch per hour, may be maintained east-northeastward across portions
+of middle and eastern Tennessee through 2-4 PM CST, before gradually
+diminishing through early evening.
+
+DISCUSSION...A mid-level speed maximum propagating across northern
+Mississippi is forecast to reach the Cumberland Plateau by early
+evening.  This  still appears associated with an area of enhanced
+mid/upper forcing for ascent, which might be maintained through the
+20-22Z time frame while overspreading portions of middle through
+eastern Tennessee.  Thereafter, frontogenetic forcing is forecast to
+generally weaken across the Tennessee Valley through southern
+Appalachians vicinity, yielding diminishing precipitation rates. 
+Until then, it appears that the area of enhanced lift will include
+upward vertical motion maximized within the favorably cold mid-level
+layer (centered around or above 600 mb) for large dendritic ice
+crystal growth.  It appears this may remain strong enough to support
+continuing potential for occasional heavy snow rates up to around 1
+inch per hour, where lower/mid tropospheric profiles are maintained
+at or below freezing (roughly north of the 0 C isotherm at 859 mb).
+
+..Kerr.. 01/15/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...MRX...OHX...HUN...
+
+LAT...LON   34978743 35118584 35718402 36408364 36298463 36048579
+            35848708 34978743 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0069.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/md0069.html">https://www.spc.noaa.gov/products/md/md0069.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/md0069.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC MD 68
+
+date: 2024-01-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0068.html"><img src="https://www.spc.noaa.gov/products/md/mcd0068.png" border="1" alt="MD 0068 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0068
+NWS Storm Prediction Center Norman OK
+1117 AM CST Mon Jan 15 2024
+
+Areas affected...Louisiana into Mississippi and northern Alabama
+
+Concerning...Winter mixed precipitation 
+
+Valid 151717Z - 152115Z
+
+SUMMARY...A wintry mix of snow, sleet, and freezing rain is expected
+to spread east from southeast Arkansas and northern Louisiana into
+Mississippi and northern Alabama through early afternoon.
+
+DISCUSSION...Surface observations, LSRs, and MPING reports over the
+past 1-2 hours continue to show a mix of snow, sleet, and freezing
+rain from the ArkLaTex region into northern MS/AL within a broad
+precipitation swath. Isentropic ascent over a 925-850 mb frontal
+zone is forecast to persist through early afternoon as a
+low-amplitude wave, currently over the southern Plains, migrates
+east. Recent sleet LSRs and forecast soundings suggest that a mix of
+snow and sleet will be more likely where surface temperatures are in
+the low 20s or lower. Areas where temperatures are in the mid-20s or
+higher should have too shallow/warm of a sub-freezing layer to
+support much re-freezing of hydrometeors, making a sleet/freezing
+rain mix more probable. Forecast guidance suggests that
+precipitation intensity may gradually wane heading into the
+mid-afternoon hours, but a zone of impactful wintry precipitation
+appears probable prior to this occurring.
+
+..Moore.. 01/15/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...BMX...HUN...MEG...JAN...LZK...SHV...
+
+LAT...LON   32389370 32969267 34238987 34948780 34978610 34718575
+            34368570 33158810 32298989 31939125 31739213 31609304
+            31669354 31849381 32109389 32389370 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0068.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/md0068.html">https://www.spc.noaa.gov/products/md/md0068.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/md0068.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC MD 63
+
+date: 2024-01-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0063.html"><img src="https://www.spc.noaa.gov/products/md/mcd0063.png" border="1" alt="MD 0063 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0063
+NWS Storm Prediction Center Norman OK
+1049 AM CST Sun Jan 14 2024
+
+Areas affected...Southeast New York into the New England region
+
+Concerning...Snow Squall 
+
+Valid 141649Z - 142045Z
+
+SUMMARY...Thermodynamic conditions will remain favorable for snow
+squalls as a cold front pushes east into the New England region.
+
+DISCUSSION...Recent regional radar depicts broken bands of shallow
+convection along an eastward moving cold front from upstate NY into
+eastern PA. Visibility reductions between 1/4 to 1 mile have been
+observed with the passage of these bands and are primarily being
+driven by bursts of moderate to heavy snow with 25-35 mph wind
+gusts. The 12 UTC PIT sounding likely sampled the convective
+environment most accurately with nearly dry adiabatic lapse rates
+from the surface to ~750 mb, which appears to be represented well by
+recent 0-3 km lapse rate analyses. The plume of 8+ C/km low-level
+lapse rates is forecast to spread to the northeast into the New
+England region through the day in tandem with the cooler mid-level
+temperatures associated with the primary trough axis. Low-level
+instability should be bolstered by modest diurnal heating between
+cloud breaks through the afternoon, and a weak influx of moisture
+may support occasional lightning flashes, though sustained,
+lightning-producing convection is not necessarily anticipated.
+Nonetheless, the combination of improving low-level thermodynamics,
+focused ascent along the front, and 30-40 mph winds within the
+boundary layer should maintain the snow squall potential well into
+the afternoon.
+
+..Moore.. 01/14/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...GYX...BOX...BTV...OKX...ALY...PHI...BGM...
+
+LAT...LON   40817558 41267567 42257496 44237351 44587283 44747124
+            44797089 44607048 44146998 43776984 43257045 42577077
+            41467167 41237225 41187286 40497484 40817558 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0063.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/md0063.html">https://www.spc.noaa.gov/products/md/md0063.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/md0063.html">Save to Pocket</a>
+</span>
+
+
+
+<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+

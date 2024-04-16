@@ -1,11 +1,56 @@
 ---
 title: pacific 2023.50
+<<<<<<< HEAD
 updated: 2023-12-17 09:46:13
+=======
+updated: 2023-12-17 11:13:29
+>>>>>>> 8087c72b68e24cb3d3acf19d37b3226bcbf2df14
 ---
 
 # pacific 2023.50
 
+<<<<<<< HEAD
 (date: 2023-12-17 09:46:13)
+=======
+(date: 2023-12-17 11:13:29)
+
+---
+
+## Public asked to participate in survey on next UH President
+
+date: 2023-12-17, from: University of Hawaiʻi News
+
+<p>The <abbr>BOR</abbr> is currently in the process of hiring, by January 31, an executive search company.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/17/public-survey-next-uh-president/">Public asked to participate in survey on next <abbr>UH</abbr> President</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/17/public-survey-next-uh-president/">https://www.hawaii.edu/news/2023/12/17/public-survey-next-uh-president/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/17/public-survey-next-uh-president/">Save to Pocket</a>
+</span>
+
+---
+
+## Serbian populist party looks to extend rule in double-header vote
+
+date: 2023-12-17, from: The Guam Daily Post
+
+Serbians headed to the polls Sunday in elections that will likely see President Aleksandar Vucic's populist party extend its rule, with the strongman leader promising stability and vowing to curb inflation after months of protests.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/serbian-populist-party-looks-to-extend-rule-in-double-header-vote/article_a1fc340c-1365-54bf-bf8a-adbb6b326e6e.html">https://www.postguam.com/news/national/serbian-populist-party-looks-to-extend-rule-in-double-header-vote/article_a1fc340c-1365-54bf-bf8a-adbb6b326e6e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/serbian-populist-party-looks-to-extend-rule-in-double-header-vote/article_a1fc340c-1365-54bf-bf8a-adbb6b326e6e.html">Save to Pocket</a>
+</span>
+
+---
+
+## South Korea military says North fires ballistic missile
+
+date: 2023-12-17, from: The Guam Daily Post
+
+North Korea fired a short-range ballistic missile on Sunday, Seoul's military said, as the United States and South Korea warned any nuclear attack would lead to the end of Pyongyang's regime.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/south-korea-military-says-north-fires-ballistic-missile/article_04debafb-238f-5653-8917-88314d3fe8e9.html">https://www.postguam.com/news/national/south-korea-military-says-north-fires-ballistic-missile/article_04debafb-238f-5653-8917-88314d3fe8e9.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/south-korea-military-says-north-fires-ballistic-missile/article_04debafb-238f-5653-8917-88314d3fe8e9.html">Save to Pocket</a>
+</span>
+>>>>>>> 8087c72b68e24cb3d3acf19d37b3226bcbf2df14
 
 ---
 
@@ -293,18 +338,6 @@ A man who allegedly lashed out at his ex-girlfriend after seeing her new love in
 
 <span class="feed-item-link">
 <a href="https://www.postguam.com/news/local/man-allegedly-threatens-couple-with-knife/article_51af2a18-9c71-11ee-b19a-cf9e5e4603cd.html">https://www.postguam.com/news/local/man-allegedly-threatens-couple-with-knife/article_51af2a18-9c71-11ee-b19a-cf9e5e4603cd.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/man-allegedly-threatens-couple-with-knife/article_51af2a18-9c71-11ee-b19a-cf9e5e4603cd.html">Save to Pocket</a>
-</span>
-
----
-
-## Serbian populist party looks to extend rule in double-header vote
-
-date: 2023-12-17, from: The Guam Daily Post
-
-Serbians headed to the polls Sunday in elections that will likely see President Aleksandar Vucic's populist party extend its rule, as the strongman leader promised stability and vowed to curb inflation after months of protests.
-
-<span class="feed-item-link">
-<a href="https://www.postguam.com/news/national/serbian-populist-party-looks-to-extend-rule-in-double-header-vote/article_a1fc340c-1365-54bf-bf8a-adbb6b326e6e.html">https://www.postguam.com/news/national/serbian-populist-party-looks-to-extend-rule-in-double-header-vote/article_a1fc340c-1365-54bf-bf8a-adbb6b326e6e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/serbian-populist-party-looks-to-extend-rule-in-double-header-vote/article_a1fc340c-1365-54bf-bf8a-adbb6b326e6e.html">Save to Pocket</a>
 </span>
 
 ---
