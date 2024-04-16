@@ -1,11 +1,461 @@
 ---
 title: tech likely 2024.16
-updated: 2024-04-15 17:43:18
+updated: 2024-04-16 14:55:23
 ---
 
 # tech likely 2024.16
 
-(date: 2024-04-15 17:43:18)
+(date: 2024-04-16 14:55:23)
+
+---
+
+## Mac Sync-inator VGA Sync Converter
+
+date: 2024-04-16, from: Tilde.news
+
+<p><a href="https://tilde.news/s/fxagrl/mac_sync_inator_vga_sync_converter">Comments</a></p> 
+
+<https://www.bigmessowires.com/mac-sync-inator/>
+
+---
+
+## Ubuntu 24.04 supports easy installation of OpenZFS root file-system with encryption
+
+date: 2024-04-16, from: OS News
+
+So with Ubuntu 24.04 LTS is the ability to continue with a standard EXT4 file-system install, an encrypted file-system using LVM, or using OpenZFS with/without encryption. Ubuntu 24.04 LTS also has the ability to enjoy hardware-backed full-disk encryption with TPM as another new experimental option. Or, of course, the Ubuntu desktop installer continues supporting manual (custom) partitioning as well. ↫ Michael Larabel I just use whatever Btrfs setup Fedora automatically recommends when I let it take over a disk &#8211; file systems for desktops seems a bit like a solved problem to me personally &#8211; but I&#8217;m still curious what benefits, for instance, an OpenZFS setup could bring to a desktop user compared to Btrfs or a basic Ext4 setup. Why should a desktop user use OpenZFS? 
+
+<https://www.osnews.com/story/139317/ubuntu-24-04-supports-easy-installation-of-openzfs-root-file-system-with-encryption/>
+
+---
+
+## BioNutrients-3 Experiment Completed During Analog Astronaut Mission
+
+date: 2024-04-16, from: NASA breaking news
+
+BioNutrients-3 Kefir Growth Experiment Completed During Analog Astronaut Mission From March 4 to 9 at the Hawaiian Space Exploration Analog and Simulation (HI-SEAS) located on Mauna Loa volcano on the Big Island, NASA Ames Scientist Katie Fisher participated as Mission Commander for the 6-day lunar analog. During the mission, she collaborated with the Synthetic Biology [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/bionutrients-3-experiment-completed-during-analog-astronaut-mission/>
+
+---
+
+## NASA to Host a Pair of Briefings for Starliner Crew Flight
+
+date: 2024-04-16, from: NASA breaking news
+
+NASA will host two media opportunities on Thursday, April 25, in preparation for the agency’s Boeing Crew Flight Test to the International Space Station. The mission is targeting launch at 10:34 p.m. EDT on Monday, May 6, from Space Launch Complex-41 at Cape Canaveral Space Force Station in Florida. NASA astronauts Butch Wilmore and Suni [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-to-host-a-pair-of-briefings-for-starliner-crew-flight/>
+
+---
+
+##  🎵 &#8220;We get &#8216;em from the earth, and they&#8217;re our friends.&#8221; Someone... 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044396-we-get-em-from-the>
+
+---
+
+## NASA Observations Find What Helps Heat Roots of ‘Moss’ on Sun
+
+date: 2024-04-16, from: NASA breaking news
+
+Did you know the Sun has moss? Due to its resemblance to the earthly plants, scientists have named a small-scale, bright, patchy structure made of plasma in the solar atmosphere “moss.” This moss, which was first identified in 1999 by NASA’s TRACE mission, blossoms around the center of a sunspot group, where magnetic conditions are […] 
+
+<https://science.nasa.gov/science-research/heliophysics/nasa-observations-find-what-helps-heat-roots-of-moss-on-sun/>
+
+---
+
+## Space Biosciences Tri-Valley Innovation Fair 2024
+
+date: 2024-04-16, from: NASA breaking news
+
+Space Biosciences Division at the 6th Tri-Valley Innovation Fair For the third consecutive year, six Ames Space Biosciences Division and one member from Space Sciences proudly participated in the 6th Tri-Valley Innovation Fair on Saturday, April 13, 2024, in Pleasanton, CA.  The fair was a resounding success, providing an excellent platform for showcasing NASA&#8217;s contributions to innovation [&#8230;] 
+
+<https://www.nasa.gov/general/space-biosciences-tri-valley-innovation-fair-2024/>
+
+---
+
+## Dirigentes de la NASA visitarán México, se fortalecerá cooperación espacial
+
+date: 2024-04-16, from: NASA breaking news
+
+Read this release in English&#160;here. Como parte de una serie de reuniones con funcionarios gubernamentales clave alrededor del mundo, el titular de la agencia espacial estadounidense (NASA, por sus siglas en inglés), Bill Nelson, y su segunda al mando, Pam Melroy, visitarán la Ciudad de México, los días 22 y 23 de abril. Nelson se [&#8230;] 
+
+<https://www.nasa.gov/news-release/dirigentes-de-la-nasa-visitaran-mexico-se-fortalecera-cooperacion-espacial/>
+
+---
+
+##  The homicide rate continues to plummet in major American cities. &#8220;The nation... 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044414-the-homicide-rate-continu>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-16, from: Dave Winer's Scripting News)
+
+If Tesla went out of business, would my Model Y stop working?? 
+
+<http://scripting.com/2024/04/16.html#a194230>
+
+---
+
+## They’re looting the internet
+
+date: 2024-04-16, from: OS News
+
+This is the state of the modern internet — ultra-profitable platforms outright abdicating any responsibility toward the customer, offering not a &#8220;service&#8221; or a &#8220;portal,&#8221; but cramming as many ways to interrupt the user and push them into doing things that make the company money. The greatest lie in tech is that Facebook and Instagram are for &#8220;catching up with your friends,&#8221; because that&#8217;s no longer what they do. These platforms are now pathways for the nebulous concept of &#8220;content discovery,&#8221; a barely-personalized entertainment network that occasionally drizzles people or things you choose to see on top of sponsored content and groups that a relational database has decided are &#8220;good for you.&#8221; ↫ Edward Zitron Corporate social media has gotten so bad, they&#8217;re basically unusable. The rare times I open Facebook to like a picture my mother posted or whatever, I&#8217;m just gobsmacked by how utterly unusable it has become. I&#8217;ve never used Instagram, but whenever I accidentally end up there, I have no idea how to navigate that place. YouTube is more ads than video if you don&#8217;t pay for Premium (which I do, because I use YouTube a lot so I get enough value out of it). Twitter is barely worth a mention &#8211; it&#8217;s no surprise that a social network bought and run by a nazi is now even fuller of nazis than it already was. It&#8217;s not just social networks, either. The web as a whole feels like it&#8217;s been looted and plundered, and turned into a flyover state strip mall. Browsing the web is, for me at least, virtually impossible without autoplay blockers, my Pi-Hole, Consent-O-Matic, and settings to permanently block requests for location and notification access. The rise of &#8220;AI&#8221; has only made everything even worse, especially now that the big, wealthy content networks that, yes, own all your favourite technology news websites are also looking into it. Luckily, there&#8217;s also a countermovement brewing. I&#8217;ve focused OSNews&#8217; entire &#8220;social&#8221; strategy on Mastodon (and the various other ActivityPub tools), as it&#8217;s the only social medium that&#8217;s usable and enjoyable. With the nazis remaining on Twitter, and all the brands and influencers on Facebook (or Threads or whatever), everyone else interested in technology coalesced around the Fediverse, and it&#8217;s been a massive boon for a small website like OSNews trying to steer clear from all the SEO enshittification. There&#8217;s no spam, only relatively small, approachable brands, no influencers, no algorithms &#8211; just real, ordinary people, who also care about a usable, fair, and equitable web. I hope that OSNews can eventually be run without any ads at all, but that&#8217;s going to take a lot more consistent work from me to convince more and more people to support us through Patreon or Ko-Fi, or for companies to become sponsors. However, I am convinced it&#8217;s a better route to take than trying to chase the SEO dragon, because we all know where that leads to. 
+
+<https://www.osnews.com/story/139310/theyre-looting-the-internet/>
+
+---
+
+##  How Candles Are Made 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/how-candles-are-made>
+
+---
+
+## Kate A. McGinnis: Ready to “Go” with PACE Testing
+
+date: 2024-04-16, from: NASA breaking news
+
+PACE Systems Engineer Kate A. McGinnis spent years planning the vibration, acoustic, and shock tests for the PACE spacecraft before saying “Systems is ‘go’” to start each test. Name: Kate A. McGinnisTitle: Plankton, Aerosol, Cloud, and Ocean Ecosystem Mission (PACE) Systems EngineerFormal Job Classification: Systems engineerOrganization: Mission Systems Engineering Branch, Engineering and Technology Directorate (Code [&#8230;] 
+
+<https://www.nasa.gov/people-of-nasa/goddard-people/kate-a-mcginnis-ready-to-go-with-pace-testing/>
+
+---
+
+## Space Biosciences Events
+
+date: 2024-04-16, from: NASA breaking news
+
+Upcoming Events and Activities Analysis Working Group Symposium 2024 To explore deeper into space, it is crucial that we learn how our bodies change and adapt to the unique environment of space. The Open Science Data Repository (a combination of GeneLab and Ames Life Sciences Data Archive &#8211; ALSDA &#8211; datasets) helps scientists understand how [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/sc-division-events/>
+
+---
+
+## NASA Leadership to Visit Mexico, Strengthen Cooperation
+
+date: 2024-04-16, from: NASA breaking news
+
+Lee esta nota de prensa en español aquí. Continuing their significant engagement with key government officials around the world to deepen ties and strengthen space collaboration, NASA Administrator Bill Nelson and Deputy Administrator Pam Melroy will visit Mexico City on Monday, April 22 and Tuesday, April 23.&#160; Nelson and Melroy will meet with senior Mexican government [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-leadership-to-visit-mexico-strengthen-cooperation/>
+
+---
+
+##  Apparently you can teach rats to drive tiny cars? Chef Gusteau: &#8220;Anyone... 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044407-apparently-you-can-teach->
+
+---
+
+## NASA’s VIPER Gets Its Head and Neck
+
+date: 2024-04-16, from: NASA breaking news
+
+In this image from Feb. 12, 2024, engineers lift a mast into place on NASA’s VIPER (Volatiles Investigating Polar Exploration Rover) robotic Moon rover. VIPER’s mast and the suite of instruments affixed to it look a lot like the rover’s “neck” and “head.” The mast instruments are designed to help the team of rover drivers [&#8230;] 
+
+<https://www.nasa.gov/image-article/nasas-viper-gets-its-head-and-neck/>
+
+---
+
+##  E-bike subsidies should be more widespread, following the lead of Colorado ($450... 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044409-e-bike-subsidies-should-b>
+
+---
+
+## NASA Goddard to Build Quake Detector for Artemis III Moon Landing
+
+date: 2024-04-16, from: NASA breaking news
+
+NASA’s Goddard Space Flight Center in Greenbelt, Maryland, will build a moonquake detector for astronauts to deploy on the Moon in 2026 during the Artemis III mission, which will return astronauts to the lunar surface for the first time in more than 50 years. &#160; NASA selected the instrument, the Lunar Environment Monitoring Station (LEMS) [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/goddard/nasa-goddard-to-build-quake-detector-for-artemis-iii-moon-landing/>
+
+---
+
+## Torvalds intentionally complicates his use of indentation in kconfig
+
+date: 2024-04-16, updated: 2024-04-16, from: Liam Proven's articles at the Register
+
+<h4>The paramount penguin forces more robust whitespace handling</h4>
+      <p>Linux supremo Linus Torvalds has made the use of indentation in kernel config files more ambiguous – intentionally, to weed out inferior parsers.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/04/16/torvalds_complicates_his_indents/>
+
+---
+
+##  Eric Topol interviews Jennifer Doudna on the bright future of genome editing... 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044397-eric-topol-interviews-jen>
+
+---
+
+##  The Longest Total Solar Eclipse Ever (73 Minutes!) 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/the-longest-total-solar-eclipse-ever-73-minutes>
+
+---
+
+## Show Zeus Your Muscular Physique
+
+date: 2024-04-16, updated: 2024-04-16, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/04/16/show-zeus-your-muscular-physique/>
+
+---
+
+##  A brief history of the LAN party. In the 90s, if you... 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044401-a-brief-history-of-the>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-16, from: Dave Winer's Scripting News)
+
+Good morning NBA fans. Today is the official beginning of the post-season, and this Knicks fan is one freaking happy camper. Just thought I'd get that outta the way before getting down to business. 
+
+<http://scripting.com/2024/04/16.html#a142915>
+
+---
+
+##  So, I saw Civil War last night and while it&#8217;s well-made with... 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044411-so-i-saw-civil-war>
+
+---
+
+## Working together
+
+date: 2024-04-16, from: Dave Winer's Scripting News
+
+<p>Each form of online discussion has a <i>grain</i> to it. Doc and I used to <a href="https://imgs.scripting.com/2024/04/16/followsthegrain.png">talk</a> about how something "follows the grain of the web." Twitter has its own grain, formed by its character limit, what information is shared (ie number of followers in both directions). </p>
+<p>I made a list of some of the social networks I've been on starting in the mid-70s. The list is very long. And each of them had their own limits, rules and features, and each led to a certain kinds of relationships between the participants. Mail lists that gain traction always flame out. It's hard to get people to read your blog. If you make it easier it changes into something else. Instagram, Youtube, TikTok form hierarchies of influencers. I think of thos as the networks Taylor Lorenz covers. </p>
+<p>But there isn't a structure that I'm aware of that leads to people working together. It's a puzzle I keep trying to figure out. </p>
+<p>We need "working together" to survive climate change and fascism. It would be good to crack this nut. </p>
+<p>One of the nicest things about ChatGPT is that it's always up for working with together with you. The critics of AI don't begin to understand this. As an example, I'm going to ask ChatGPT to draw a picture of people working together. <a href="https://imgs.scripting.com/2024/04/16/peopleWorkingTogether.png">Here it is</a>.</p>
+<p>What got me thinking this way this morning is a bit of collaboration I did <a href="https://www.threads.net/@palafo/post/C5zHWbPOJun">with palafo</a> on Threads. It's remarkable. We actually did some work together. It may be hard to read the thread but if you're curious about collaborative systems, here's a real example. Serendipitous, unplanned, but we figured something out by combining our experiences. Fantastic.</p>
+<p>Later, Ben Werdmuller, a person who I've gotten to know a little recently, is intelligent and asks good questions. He asked one <a href="https://www.threads.net/@ben.werdmuller/post/C50vyIruTCB">today</a>, how do they get the live audience on SNL to laugh when they want them to laugh. I had an idea and <a href="https://www.threads.net/@davew/post/C50wy5NsYD0">shared</a> it. </p>
+<p>If you take away one thing from this post it's that we can collaborate with the machines, and maybe that will unlock collaboration between humans. In fact, in a way they are facilitating the collaboration. If you want to be part of the collective human intelligence, you may be thinking about the machines in the wrong way. Maybe they're the most human thing we have, because AI is made up of humans, like <a href="https://www.youtube.com/watch?v=4UPDUpjkHg0">Soylent Green</a>. <span class="spOldSchoolEmoji">😄</span></p>
+<p>PS: I asked ChatGPT to draw a picture of <a href="https://imgs.scripting.com/2024/04/16/cleaningAMess.png">humans working together</a> to clean up a mess. </p>
+<p>PPS: Yesterday I gave John O'Nolan what I think is a <a href="https://www.threads.net/@davew/post/C5y7iVoJP4r">good idea</a> for getting his Ghost blogs federating with Threads, Mastodon et al. I didn't expect thanks or even a response, but I wonder if he even heard it. Most of the time, trying to help other people results in not even an acknowledgment that they saw it. If I were him I'd look for a painless, quick way to get maximum interop. Something like <a href="http://ghost.social/">ghost.social</a>. I'd give the same advice to Matt at Automattic (in fact I think I did). </p>
+<p>PPPS: I think acknowledgment is a key part of "working together" on the web. Nothing more than "I wanted you to know I saw it" is often all that's needed to grease the skids of discourse. I've had a friendly disagreement with Manton at micro.blog about this. </p>
+ 
+
+<http://scripting.com/2024/04/16/140810.html?title=workingTogether>
+
+---
+
+##  Today&#8217;s Work Music: Philip Glass Solo 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/todays-work-music-philip-glass-solo>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-16, from: Dave Winer's Scripting News)
+
+I've never been to TED or SXSW. 
+
+<http://scripting.com/2024/04/16.html#a135822>
+
+---
+
+## A comment on comments
+
+date: 2024-04-16, from: Manu - I write blog
+
+
+                <p>Someone asked me about my stance on not having comments on my blog. I’m not a fan of comments in general and I think commenting on something should be done in one of two ways:</p>
+<ol>
+<li>Privately via email or via direct messaging</li>
+<li>Publicly by posting a reply on your own website</li>
+</ol>
+<p>Setting up your server to send a webmention is an extra bonus point but I don’t consider that to be necessary. That’s the ideal commenting setup in my opinion but I’m sure some of you out there disagree.</p>                <hr>
+                <h2>Get in touch</h2>                <p>Have something to share? Want me as your <a href="https://manuelmoreale.com/i-ll-read-it">first reader</a>? Get in touch. My inbox is always open.</p>                <a href="mailto:hello@manuelmoreale.com">Connect</a> — 
+                <a href="https://manuelmoreale.com/guestbook">Guestbook</a>
+                <hr>
+                <h2>One a month</h2>                <p>That's how little it takes to help with my <a href="https://manuelmoreale.com/on-dreams-and-goals">goal</a>. If you feel generous, consider supporting what I do.</p>                <a href="https://ko-fi.com/manuelmoreale">Donate</a> — 
+                <a href="https://manuelmoreale.com/supporters">Supporters</a>
+                <hr>
+                <h2>People and Blogs</h2>                <p>I ask people to talk about themselves and their blogs. <a href="https://peopleandblogs.com/">Learn more</a> or subscribe.</p>                <a href="https://manuelmoreale.com/feed/peopleandblogs">RSS</a> — 
+                <a href="https://buttondown.email/peopleandblogs">Email</a>
+             
+
+<https://manuelmoreale.com/@/page/M8FpFOXmWXyCmMMk>
+
+---
+
+## Pleasure or Pain? He Maps the Neural Circuits That Decide.
+
+date: 2024-04-16, from: Quanta Magazine
+
+The work of the neuroscientist Ishmail Abdus-Saboor has opened up a world of insights into precisely how much pleasure and pain animals experience during different forms of touch.            <p>The post <a href="https://www.quantamagazine.org/pleasure-or-pain-he-maps-the-neural-circuits-that-decide-20240416/" target="_blank">Pleasure or Pain? He Maps the Neural Circuits That Decide.</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/pleasure-or-pain-he-maps-the-neural-circuits-that-decide-20240416/>
+
+---
+
+##  I do not think people should keep octopuses as pets, but I... 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044403-i-do-not-think-people>
+
+---
+
+## Reproducing the printer hack of Windows 95
+
+date: 2024-04-16, from: OS News
+
+During my daily web crawl I encountered a very interesting gif that I haven&#8217;t seen in a long time. It was a hack of an unspecified version of Windows 95, which showed how to bypass the login screen with the help of the menu and printing dialog. However, after a brief check, I found a fair amount of people stating that &#8220;just hitting the cancel&#8221; button would do the same. Sharp-eyed viewers would notice that it was the very first action taken in the picture. In order to find out if the hack is real at all, I decided to reproduce it and document it for the good of the internet. ↫ David Polakovic So this hack is actually a lot more involved than I thought it was going to be, and yet, it still feels utterly insane that operating systems were this easy to get into, passwords were this easy to decrypt, and security settings were this trivial to disable. Anyway, the gif is sort-of real, in that yes, you can &#8216;hack&#8217; Windows 95&#8217;s login security through the printing and help subsystems. Things were different back then, man. I vaguely remember that my high school used to lock us out of the desktop, File Explorer, the Control Panel, and so on, making it impossible for us to access DOS or the games built into Windows 9x. I don&#8217;t remember the exact things we used to do, but most of us were aware and used several different methods of bypassing the school lockdowns just to mess around. We never did anything malicious &#8211; this is pre-internet, and we just wanted to play some Solitaire or Pinball &#8211; but anybody with malicious intent surely could&#8217;ve. 
+
+<https://www.osnews.com/story/139308/reproducing-the-printer-hack-of-windows-95/>
+
+---
+
+## Google’s Generic Kernel Image now required on all Android form factors
+
+date: 2024-04-16, from: OS News
+
+New TVs that launch with Android TV 14 or later on Linux kernel 5.15 or higher will be required to meet Google&#8217;s Generic Kernel Image (GKI) requirements in order to pass certification! This means that GKI is now enforced on all major Android form factors with AArch64 chipsets: handhelds, watches, automotive, &#38; televisions. ↫ Mishaal Rahman What this means is that all the major Android form factors will be running kernels that adhere to the GKI requirements, which means SoC and board support is not part of the core kernel, but instead achieved through loadable modules. This should, in theory, make it easier to provide long-term support. 
+
+<https://www.osnews.com/story/139304/googles-generic-kernel-image-now-required-on-all-android-form-factors/>
+
+---
+
+## Global Impact: Empowering young people in Kenya and South Africa
+
+date: 2024-04-16, from: Raspberry Pi (.org)
+
+<p>We work with mission-aligned educational organisations all over the world to support young people&#8217;s computing education. In 2023 we established four partnerships in Kenya and South Africa with organisations Coder:LevelUp, Blue Roof, Oasis Mathare, and Tech Kidz Africa, which support young people in underserved communities. Our shared goal is to support educators to establish and&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/global-impact-empowering-young-people-in-kenya-and-south-africa/">Global Impact: Empowering young people in Kenya and South Africa</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/global-impact-empowering-young-people-in-kenya-and-south-africa/>
+
+---
+
+## RP2040 controls 60 LEDs to tell the time on this wristwatch
+
+date: 2024-04-16, from: Raspberry Pi News (.com)
+
+<p>Redditor littlespleen made their own RP2040-powered wristwatch. It features tons of LEDs to tell the time in three different colours.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/rp2040-controls-60-leds-to-tell-the-time-on-this-wristwatch/">RP2040 controls 60 LEDs to tell the time on this wristwatch</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/rp2040-controls-60-leds-to-tell-the-time-on-this-wristwatch/>
+
+---
+
+## Org-mode Tutorial / Cheat Sheet (2012)
+
+date: 2024-04-16, from: Tilde.news
+
+<p><a href="https://tilde.news/s/oru0x4/org_mode_tutorial_cheat_sheet_2012">Comments</a></p> 
+
+<http://emacsclub.github.io/html/org_tutorial.html>
+
+---
+
+## How to manage a quantum computing emergency
+
+date: 2024-04-16, updated: 2024-04-16, from: Educated Guesswork blog
+
+ 
+
+<https://educatedguesswork.org/posts/pq-emergency/>
+
+---
+
+## GHC 9.6.5 is now available
+
+date: 2024-04-16, from: Glasgow Haskell Compiler
+
+<h1>GHC 9.6.5 is now available</h1>
+<h4 class="text-muted">Zubin Duggal - 2024-04-16</h4>
+
+<p>The GHC developers are happy to announce the availability of GHC 9.6.5. Binary
+distributions, source distributions, and documentation are available on the
+<a href="/download_ghc_9_6_5.html">release page</a>.</p>
+<p>This release is primarily a bugfix release addressing some issues
+found in the 9.6 series. These include:</p>
+<ul>
+<li>Bumping the bundled <code>process</code> library to 1.6.19.0 to avoid a potential
+<a href="https://github.com/haskell/security-advisories/blob/main/advisories/hackage/process/HSEC-2024-0003.md">command injection vulnerability</a> on Windows for clients of this library. This isn’t
+known to affect GHC itself, but allows users who depend on the installed
+version of the <code>process</code> to avoid the issue.</li>
+<li>Fixing a bug resulting in the distributed <code>hsc2hs</code> wrapper using flags from the
+compiler build environment (<a href="https://gitlab.haskell.org/ghc/ghc/issues/24050">#24050</a>).</li>
+<li>Disabling the <code>-fasm-shortcutting</code> optimisation with <code>-O2</code> as it is known
+to result in unsoundess and incorrect runtime results in some cases (<a href="https://gitlab.haskell.org/ghc/ghc/issues/24507">#24507</a>).</li>
+<li>Ensuring we take <code>LDFLAGS</code> into account when configuring a linker (<a href="https://gitlab.haskell.org/ghc/ghc/issues/24565">#24565</a>).</li>
+<li>Fixing a bug arising from incorrect parsing of paths containing spaces in the
+settings file (<a href="https://gitlab.haskell.org/ghc/ghc/issues/24265">#24265</a>).</li>
+<li>And many more fixes</li>
+</ul>
+<p>A full accounting of changes can be found in the <a href="https://downloads.haskell.org/~ghc/9.6.5/docs/users_guide/9.6.5-notes.html">release notes</a>. As
+some of the fixed issues do affect correctness users are encouraged to
+upgrade promptly.</p>
+<p>We would like to thank Microsoft Azure, GitHub, IOG, the Zw3rk stake pool,
+Well-Typed, Tweag I/O, Serokell, Equinix, SimSpace, Haskell Foundation, and
+other anonymous contributors whose on-going financial and in-kind support has
+facilitated GHC maintenance and release management over the years. Finally,
+this release would not have been possible without the hundreds of open-source
+contributors whose work comprise this release.</p>
+<p>As always, do give this release a try and open a <a href="https://gitlab.haskell.org/ghc/ghc/-/issues/new">ticket</a> if you see
+anything amiss.</p>
+<p>Enjoy!</p>
+<p>-Zubin</p>
+ 
+
+<http://haskell.org/ghc/blog/20240416-ghc-9.6.5-released.html>
 
 ---
 
@@ -285,16 +735,6 @@ NASA Administrator Bill Nelson shared on Monday the agency’s path forward on t
 
 ---
 
-## How to manage a quantum computing emergency
-
-date: 2024-04-15, updated: 2024-04-15, from: Educated Guesswork blog
-
- 
-
-<https://educatedguesswork.org/posts/pq-emergency/>
-
----
-
 ##  End-Stage Poverty Is Killing People in Safety Net-Free America 
 
 date: 2024-04-15, updated: 2024-04-15, from: Jason Kottke blog
@@ -327,7 +767,7 @@ date: 2024-04-15, updated: 2024-04-15, from: Jason Kottke blog
 
 ## CCC trauert um Reinhard Schrutzki
 
-date: 2024-04-15, updated: 2024-04-15, from: Chaos Computer Club
+date: 2024-04-15, updated: 2024-04-16, from: Chaos Computer Club
 
 Am 22.03.2024 ist nach kurzer, schwerer Krankheit Reinhard Schrutzki aka Goblin – im Alter von 67 Jahren – von uns gegangen. 
 
@@ -561,7 +1001,7 @@ Next up, let's connect <a href="http://docserver.scripting.com/drummer/blogging.
 
 ---
 
-## On Openings Essays, Conferences Talks, and Jam Jars
+## On Opening Essays, Conference Talks, and Jam Jars
 
 date: 2024-04-15, from: Maggie Appleton blog
 

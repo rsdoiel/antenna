@@ -1,11 +1,313 @@
 ---
 title: columns 2024.16
-updated: 2024-04-15 17:43:18
+updated: 2024-04-16 14:55:23
 ---
 
 # columns 2024.16
 
-(date: 2024-04-15 17:43:18)
+(date: 2024-04-16 14:55:23)
+
+---
+
+## Recipes as a score for improvisation
+
+date: 2024-04-16, from: Tracy Durnell Blog
+
+The backwards process she describes of composing a meal from what&#8217;s on hand is a valuable skill, but hard to learn. To gaze into the fridge and see soup or a frittata where there are wilting veggies and a smidge of dairy is a daily struggle. It also requires a vast mental repertoire of dishes [&#8230;] 
+
+<https://tracydurnell.com/2024/04/16/recipes-as-a-score-for-improvisation/>
+
+---
+
+##  🎵 &#8220;We get &#8216;em from the earth, and they&#8217;re our friends.&#8221; Someone... 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044396-we-get-em-from-the>
+
+---
+
+##  The homicide rate continues to plummet in major American cities. &#8220;The nation... 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044414-the-homicide-rate-continu>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-16, from: Dave Winer's Scripting News)
+
+If Tesla went out of business, would my Model Y stop working?? 
+
+<http://scripting.com/2024/04/16.html#a194230>
+
+---
+
+##  How Candles Are Made 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/how-candles-are-made>
+
+---
+
+##  Apparently you can teach rats to drive tiny cars? Chef Gusteau: &#8220;Anyone... 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044407-apparently-you-can-teach->
+
+---
+
+##  E-bike subsidies should be more widespread, following the lead of Colorado ($450... 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044409-e-bike-subsidies-should-b>
+
+---
+
+## Embrace the weird
+
+date: 2024-04-16, from: Matt Haughey blog
+
+<p>The other day I was complaining to a friend how I&apos;ve been spinning my wheels lately, having trouble finding any projects or gigs I could work on.</p><p>He came back with a quick, short, smart response:</p><p><em>Who cares? Just make weird shit</em>.</p><hr><p>It hit me like a ton</p> 
+
+<https://a.wholelottanothing.org/embrace-the-weird/>
+
+---
+
+##  Eric Topol interviews Jennifer Doudna on the bright future of genome editing... 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044397-eric-topol-interviews-jen>
+
+---
+
+##  The Longest Total Solar Eclipse Ever (73 Minutes!) 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/the-longest-total-solar-eclipse-ever-73-minutes>
+
+---
+
+##  A brief history of the LAN party. In the 90s, if you... 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044401-a-brief-history-of-the>
+
+---
+
+## Elon Musk: Threat or Menace Part 4
+
+date: 2024-04-16, from: David Rosenthal's blog
+
+The previous post in this series, <a href="https://blog.dshr.org/2023/10/elon-musk-threat-or-menace-part-3.html"><i>Elon Musk: Threat or Menace Part 3</i></a>, was based on the impressively detailed reporting from a team at the <i>Washington Post</i> on the crash that killed Jeremy Banner in <a href="https://www.washingtonpost.com/technology/interactive/2023/tesla-autopilot-crash-analysis/"><i>The final 11 seconds of a fatal Tesla Autopilot crash</i></a>. The team's subsequent equally detailed <a href="https://www.washingtonpost.com/technology/interactive/2024/tesla-full-self-driving-fatal-crash/"><i>Tesla worker killed in fiery crash may be first ‘Full Self-Driving’ fatality</i></a> triggered <a href="https://blog.dshr.org/2023/10/elon-musk-threat-or-menace-part-3.html?showComment=1707875945458#c5436365092676631737">this comment</a> which concluded:<br />
+<blockquote>
+  It seems the driver thought that it was OK to drive home with a blood alcohol level of 0.26 because he believed Musk's hype that Fake Self Driving would handle it despite having to repeatedly override it on the way out. 
+</blockquote>
+Now, the team's Faiz Siddiqui and Trisha Thadani are out with <a href="https://www.washingtonpost.com/technology/2024/04/07/tesla-autopilot-crash-trial/"><i>In 2018 crash, Tesla’s Autopilot just followed the lane lines</i></a>. Below the fold I look into what it reveals about Autopilot.<br />
+<span><a name='more'></a></span>
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L7DBFRGP3E5QBHA4XVV3KTURZQ.jpg&amp;w=916" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="414" data-original-width="800" height="104" src="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L7DBFRGP3E5QBHA4XVV3KTURZQ.jpg&amp;w=916" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L7DBFRGP3E5QBHA4XVV3KTURZQ.jpg&amp;w=916">Source</a></td></tr></tbody></table>
+The article is based upon depositions in a <a href="https://www.washingtonpost.com/technology/2024/04/07/tesla-autopilot-crash-trial/">trial about to start</a>:<br />
+<blockquote>
+The case involves a fatal crash in March 2018, when a Tesla in Autopilot careened into a highway barrier near Mountain View, Calif., after getting confused by what the company’s lawyers described in court documents as a “faded and nearly obliterated” lane line.<br />
+<br />
+The driver, Walter Huang, 38, was killed. An investigation by the National Transportation Safety Board later cited Tesla’s failure to limit the use of Autopilot in such conditions as a contributing factor: The company has acknowledged to National Transportation Safety Board that Autopilot is designed for areas with “clear lane markings.”
+</blockquote>
+Musk's and Tesla's marketing hype conflict with the <a href="https://www.washingtonpost.com/technology/2024/04/07/tesla-autopilot-crash-trial/">deposition</a>:<br />
+<blockquote>
+Under oath, however, Tesla engineer Akshay Phatak last year described the software as fairly basic in at least one respect: the way it steers on its own.<br />
+<br />
+“If there are clearly marked lane lines, the system will follow the lane lines,” Phatak said under questioning in July 2023. Tesla’s groundbreaking system, he said, was simply “designed” to follow painted lane lines.<br />
+...<br />
+In his deposition, Phatak said Autopilot will work wherever the car’s cameras detect lines on the road: “As long as there are painted lane lines, the system will follow them,” he said.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZVIDOLUW3NXGECQ2MDDAKFQ4DY.jpg&amp;w=916" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="506" data-original-width="800" height="127" src="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZVIDOLUW3NXGECQ2MDDAKFQ4DY.jpg&amp;w=916" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZVIDOLUW3NXGECQ2MDDAKFQ4DY.jpg&amp;w=916">Source</a></td></tr></tbody></table>
+In this case, <a href="https://www.washingtonpost.com/technology/2024/04/07/tesla-autopilot-crash-trial/">it did</a>:<br />
+<blockquote>
+Huang, an engineer at Apple, bought his Tesla Model X in fall 2017 and drove it regularly to work along U.S. Highway 101, a crowded multilane freeway that connects San Francisco to the tech hubs of Silicon Valley. On the day of the crash, his car began to drift as a lane line faded. It then picked up a clearer line to the left — putting the car between lanes and on a direct trajectory for a safety barrier separating the highway from an exit onto State Route 85.<br />
+<br />
+Huang’s car hit the barrier at 71 mph, pulverizing its front end, twisting it into unrecognizable heap. Huang was pronounced dead hours later, according to court documents.<br />
+...<br />
+In the months preceding the crash, Huang’s vehicle swerved in a similar location eleven times, according to internal Tesla data discussed by Huang’s lawyers during a court hearing last month. According to the data, the car corrected itself seven times. Four other times, it required Huang’s intervention. Huang was allegedly playing a game on his phone when the crash occurred.
+</blockquote>
+It has been evident for a long time that just following the lines doesn't <a href="https://www.washingtonpost.com/technology/2024/04/07/tesla-autopilot-crash-trial/">live up to the hype</a>:<br />
+<blockquote>
+For years, Tesla and federal regulators have been aware of problems with Autopilot following lane lines, including cars being guided in the wrong direction of travel and placed in the path of cross-traffic — with sometimes fatal results. Unlike vehicles that are designed to be completely autonomous, like cars from Waymo or Cruise, Teslas do not currently use sensors such as radar or lidar to detect obstacles. Instead, Teslas rely on cameras.
+</blockquote>
+As usual, Tesla's response to the crash was to <a href="https://www.washingtonpost.com/technology/2024/04/07/tesla-autopilot-crash-trial/">do as little as possible</a>:<br />
+<blockquote>
+After the crash that killed Huang, Tesla told officials that it updated its software to better recognize “poor and faded” lane markings and to audibly alert drivers when vehicles might lose track of a fading lane. The updates stopped short of forcing the feature to disengage on its own in those situations, however. About two years after Huang died, federal investigators said they could not determine whether those updates would have been sufficient to “accurately and consistently detect unusual or worn lane markings” and therefore prevent Huang’s crash.
+</blockquote>
+The most important thing for Tesla is never to remind the driver of the limitations of their software because doing so would exacerbate the fall in the stock price, currently down 57% from its peak. As I wrote in <a href="https://blog.dshr.org/2024/01/autonomous-vehicles-trough-of.html"><i>Autonomous Vehicles: Trough of Disillusionment</i></a>:<br />
+<blockquote>
+Elon Musk famously claimed that <a href="https://www.autoevolution.com/news/elon-musk-says-tesla-is-worth-zero-without-fsd-why-he-is-completely-wrong-191416.html">Tesla is worth zero without Full Self Driving</a>. But although this is typical Musk BS, ... unlike some other utterances it contains a kernel of truth. Tesla is valued as a <i>technology</i> company not a <i>car</i> company. Thus it is critical for Telsa that its technology be viewed as better than those of other car companies; anything that suggests it is limited or inadequate is a big problem not just for the company but also for Musk's personal wealth.
+</blockquote>
+Liam Denning describes the problem for Musk if <a href="https://www.bloomberg.com/opinion/articles/2024-01-16/musk-s-many-billions-and-tesla-s-are-made-of-ai-dreams">doubts emerge about the AIs driving Teslas</a>:<br />
+<blockquote>
+Tesla is, overwhelmingly, a maker of electric vehicles, combining high growth with high margins — until recently anyway. Deliveries increased by 38% in 2023 — below the company’s long-term target of 50% per year — and the consensus for 2024 implies just 21%. Trailing 12-month net profit as of the third-quarter was actually down, year over year.<br />
+<br />
+Yet in the most starry-eyed Wall Street financial models, the making and selling of vehicles — generating 92% of Tesla’s current gross profit — accounts for only a fraction of Tesla’s purported valuation. The rest relates to whatever Tesla’s next big thing might turn out to be, usually something related to artificial intelligence, be it robotaxis, licensed self-driving systems, the Optimus humanoid robot or just something else that might spring from the company’s Dojo supercomputing project.<br />
+<br />
+Amorphous as the narrative may be, remove it and the tenuous tether between Tesla’s valuation and something approximating a potential future reality evaporates entirely.
+</blockquote>
+In <a href="https://aisupremacy.substack.com/p/the-biggest-ai-hype-fraud-of-all"><i>The Biggest AI Hype Fraud of All Time</i></a> Michael Spencer writes:<br />
+<blockquote>
+Tesla's FSD costs have tripled since 2019, costing more than $15,000 in the United States. This pumped up, fraudulently, Tesla’s margins on selling vehicles, however Elon Musk’s promises did not come to fruition after many deadlines have passed.<br />
+</blockquote>
+Spencer notes that "<a href="https://aisupremacy.substack.com/p/the-biggest-ai-hype-fraud-of-all">desperation at Tesla is very noticeable in 2024</a>":<br />
+<blockquote>
+In a push for end-of-quarter sales, Musk recently mandated that all sales and service staff install and demo FSD for customers before handing over the keys.<br />
+...<br />
+In a recent April 5th Tweet on X, Elon Musk says full level 5 FSD is coming in August, 2024. Tesla’s stock so far in 2024 is down 33%.<br />
+</blockquote>
+He focuses on Musk's <a href="https://aisupremacy.substack.com/p/the-biggest-ai-hype-fraud-of-all">pivot to x.AI</a>:<br />
+<blockquote>
+The myth that Tesla is a technology or AI company has been very crucial in the false promise marketing around the brand. Elon Musk’s weird response to this failure in 2024 is to poach AI talent from his Tesla to his own x.AI company.<br />
+<br />
+This is because x.AI plans to do a huge $3 Billion funding round that would value the AI startup at $18 Billion. This is all more or less breaking news.<br />
+<br />
+The problem is AI frauds have a habit of big declines. Elon Musk may have to make his SpaceX company, valued at around $180 billion as of early 2024, go public with an IPO to raise the funds needed to support his X Corp empire.
+</blockquote>
+Maintaining the illusion of superior technology requires <a href="https://www.washingtonpost.com/technology/2024/04/07/tesla-autopilot-crash-trial/">leaps of logic</a>:<br />
+<blockquote>
+Since 2017, officials with NTSB have urged Tesla to limit Autopilot use to highways without cross traffic, the areas for which the company’s user manuals specify Autopilot is intended. Asked by an attorney for Huang’s family if Tesla “has decided it’s not going to do anything” on that recommendation, Phatak argued that Tesla was already following the NTSB’s guidance by limiting Autopilot use to roads that have lane lines.
+</blockquote>
+Note how, in Tesla's world, any "roads that have lane lines" are "highways without cross traffic", and that Tesla is <i>not</i> limiting Autopilot's use but <i>asking their customers to limit its use</i>. A significant difference.
+And Musk's <a href="https://en.wikipedia.org/wiki/Reality_distortion_field">reality distortion field</a> is in <a href="https://www.washingtonpost.com/technology/2024/04/07/tesla-autopilot-crash-trial/">full effect</a>:<br />
+<blockquote>
+When asked whether Autopilot would use GPS or other mapping systems to ensure a road was suitable for the technology, Phatak said it would not. “It’s not map based,” he said — an answer that diverged from Musk’s statement in a 2016 conference call with reporters that Tesla could turn to GPS as a backup “when the road markings may disappear.” In an audio recording of the call cited by Huang family attorneys, Musk said the cars could rely on satellite navigation “for a few seconds” while searching for lane lines.
+</blockquote>
+This casual attitude to operating in the real world is <a href="https://www.washingtonpost.com/technology/2024/04/07/tesla-autopilot-crash-trial/">typical of Tesla</a>:<br />
+<blockquote>
+Phatak’s testimony also shed light on other driver-assist design choices, such as Tesla’s decision to monitor driver attention through sensors that gauge pressure on the steering wheel. Asked repeatedly by the Huang family’s lawyer what tests or studies Tesla performed to ensure the effectiveness of this method, Phatak said it simply tested it with employees.
+</blockquote>
+Given Musk's notorious hair-trigger <a href="https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html">firings in response to disagreement</a>, testing with employees is pretty much guaranteed to discover that the system performs almost perfectly.<br />
+<br />
+The <i>Washington Post</i> team points out that this poor engineering of life-critical systems has <a href="https://www.washingtonpost.com/technology/2024/04/07/tesla-autopilot-crash-trial/">real-world impacts</a>:<br />
+<blockquote>
+Tesla’s heavy reliance on lane lines reflects the broader lack of redundancy within its systems when compared to rivals. The Post has previously reported that Tesla’s decision to omit radar from newer models, at Musk’s behest, culminated in an uptick in crashes.
+</blockquote>
+Whereas other companies <a href="https://www.washingtonpost.com/technology/2024/04/07/tesla-autopilot-crash-trial/">behave responsibly</a>:<br />
+<blockquote>
+Other Tesla design decisions have differed from competitors pursuing autonomous vehicles. For one thing, Tesla sells its systems to consumers, while other companies tend to deploy their own fleets as taxis. It also employs a unique, camera-based system and places fewer limits on where the software can be engaged. For example, a spokesperson for Waymo, the Alphabet-owned self-driving car company, said its vehicles operate only in areas that have been rigorously mapped and where the cars have been tested in conditions including fog and rain, a process known as “geo-fencing.”<br />
+<br />
+“We’ve designed our system knowing that lanes and their markings can change, be temporarily occluded, move, and sometimes, disappear completely,” Waymo spokeswoman Katherine Barna said.
+</blockquote>
+So that's all there is to Autopilot. No radar, no lidar, no GPS, no map, no geofencing, no proper driver monitoring. It just uses the camera to follow the lines. It doesn't disengage if it can't see the lines, it just keeps going. So much for Tesla's vaunted AI capabilities! I wonder how much more you get for the $15K extra you pay for Fake Self Driving?<br />
+<br /> 
+
+<https://blog.dshr.org/2024/04/elon-musk-threat-or-menace-part-4.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-16, from: Dave Winer's Scripting News)
+
+Good morning NBA fans. Today is the official beginning of the post-season, and this Knicks fan is one freaking happy camper. Just thought I'd get that outta the way before getting down to business. 
+
+<http://scripting.com/2024/04/16.html#a142915>
+
+---
+
+##  So, I saw Civil War last night and while it&#8217;s well-made with... 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044411-so-i-saw-civil-war>
+
+---
+
+## Working together
+
+date: 2024-04-16, from: Dave Winer's Scripting News
+
+<p>Each form of online discussion has a <i>grain</i> to it. Doc and I used to <a href="https://imgs.scripting.com/2024/04/16/followsthegrain.png">talk</a> about how something "follows the grain of the web." Twitter has its own grain, formed by its character limit, what information is shared (ie number of followers in both directions). </p>
+<p>I made a list of some of the social networks I've been on starting in the mid-70s. The list is very long. And each of them had their own limits, rules and features, and each led to a certain kinds of relationships between the participants. Mail lists that gain traction always flame out. It's hard to get people to read your blog. If you make it easier it changes into something else. Instagram, Youtube, TikTok form hierarchies of influencers. I think of thos as the networks Taylor Lorenz covers. </p>
+<p>But there isn't a structure that I'm aware of that leads to people working together. It's a puzzle I keep trying to figure out. </p>
+<p>We need "working together" to survive climate change and fascism. It would be good to crack this nut. </p>
+<p>One of the nicest things about ChatGPT is that it's always up for working with together with you. The critics of AI don't begin to understand this. As an example, I'm going to ask ChatGPT to draw a picture of people working together. <a href="https://imgs.scripting.com/2024/04/16/peopleWorkingTogether.png">Here it is</a>.</p>
+<p>What got me thinking this way this morning is a bit of collaboration I did <a href="https://www.threads.net/@palafo/post/C5zHWbPOJun">with palafo</a> on Threads. It's remarkable. We actually did some work together. It may be hard to read the thread but if you're curious about collaborative systems, here's a real example. Serendipitous, unplanned, but we figured something out by combining our experiences. Fantastic.</p>
+<p>Later, Ben Werdmuller, a person who I've gotten to know a little recently, is intelligent and asks good questions. He asked one <a href="https://www.threads.net/@ben.werdmuller/post/C50vyIruTCB">today</a>, how do they get the live audience on SNL to laugh when they want them to laugh. I had an idea and <a href="https://www.threads.net/@davew/post/C50wy5NsYD0">shared</a> it. </p>
+<p>If you take away one thing from this post it's that we can collaborate with the machines, and maybe that will unlock collaboration between humans. In fact, in a way they are facilitating the collaboration. If you want to be part of the collective human intelligence, you may be thinking about the machines in the wrong way. Maybe they're the most human thing we have, because AI is made up of humans, like <a href="https://www.youtube.com/watch?v=4UPDUpjkHg0">Soylent Green</a>. <span class="spOldSchoolEmoji">😄</span></p>
+<p>PS: I asked ChatGPT to draw a picture of <a href="https://imgs.scripting.com/2024/04/16/cleaningAMess.png">humans working together</a> to clean up a mess. </p>
+<p>PPS: Yesterday I gave John O'Nolan what I think is a <a href="https://www.threads.net/@davew/post/C5y7iVoJP4r">good idea</a> for getting his Ghost blogs federating with Threads, Mastodon et al. I didn't expect thanks or even a response, but I wonder if he even heard it. Most of the time, trying to help other people results in not even an acknowledgment that they saw it. If I were him I'd look for a painless, quick way to get maximum interop. Something like <a href="http://ghost.social/">ghost.social</a>. I'd give the same advice to Matt at Automattic (in fact I think I did). </p>
+<p>PPPS: I think acknowledgment is a key part of "working together" on the web. Nothing more than "I wanted you to know I saw it" is often all that's needed to grease the skids of discourse. I've had a friendly disagreement with Manton at micro.blog about this. </p>
+ 
+
+<http://scripting.com/2024/04/16/140810.html?title=workingTogether>
+
+---
+
+##  Today&#8217;s Work Music: Philip Glass Solo 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/todays-work-music-philip-glass-solo>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-16, from: Dave Winer's Scripting News)
+
+I've never been to TED or SXSW. 
+
+<http://scripting.com/2024/04/16.html#a135822>
+
+---
+
+##  I do not think people should keep octopuses as pets, but I... 
+
+date: 2024-04-16, updated: 2024-04-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044403-i-do-not-think-people>
+
+---
+
+## X.com Automatically Changing Link Text but Not URLs
+
+date: 2024-04-16, updated: 2024-04-15, from: Bruce Schneier blog
+
+<p>Brian Krebs <a href="https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/">reported</a> that X (formerly known as Twitter) started automatically changing twitter.com links to x.com links. The problem is: (1) it changed <i>any</i> domain name that ended with &#8220;twitter.com,&#8221; and (2) it only changed the link&#8217;s appearance (anchortext), not the underlying URL. So if you were a clever phisher and registered fedetwitter.com, people would see the link as fedex.com, but it would send people to fedetwitter.com.</p>
+<p>Thankfully, the problem has been fixed.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/04/x-com-automatically-changing-link-names-but-not-links.html>
+
+---
+
+## The Big Picture: Trump’s ongoing attempted coup 
+
+date: 2024-04-16, from: Robert Reich's blog
+
+His presidential campaign is treasonous 
+
+<https://robertreich.substack.com/p/trumps-attempted-coup-is-ongoing>
 
 ---
 

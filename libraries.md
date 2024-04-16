@@ -1,11 +1,33 @@
 ---
 title: libraries 2024.16
-updated: 2024-04-15 17:43:19
+updated: 2024-04-16 14:55:23
 ---
 
 # libraries 2024.16
 
-(date: 2024-04-15 17:43:19)
+(date: 2024-04-16 14:55:23)
+
+---
+
+## The Sea Mystery, by Freeman Wills Crofts
+
+date: 2024-04-16, from: Standard Ebooks, new releaases
+
+The dogged detective is called in to investigate the grisly contents of a cask dragged up from the bottom of the sea. 
+
+<https://standardebooks.org/ebooks/freeman-wills-crofts/the-sea-mystery>
+
+---
+
+## Honest Signaling and Research Integrity
+
+date: 2024-04-16, from: Scholarly Kitchen
+
+<p>Promoting research integrity is not just identifying bad behavior: problem articles can also be detected by the absence of 'honest' signals of integrity.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/04/16/honest-signaling-and-research-integrity/">Honest Signaling and Research Integrity</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/04/16/honest-signaling-and-research-integrity/>
 
 ---
 

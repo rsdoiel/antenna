@@ -1,11 +1,143 @@
 ---
 title: writing 2024.16
-updated: 2024-04-15 17:43:19
+updated: 2024-04-16 14:55:23
 ---
 
 # writing 2024.16
 
-(date: 2024-04-15 17:43:19)
+(date: 2024-04-16 14:55:23)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-16, from: Neil Gaiman @ BlueSky)
+
+Fascinating Harper's article on Hollywood, streaming TV, antitrust laws and the Writers Strike.
+
+https://harpers.org/archive/2024/05/the-life-and-death-of-hollywood-daniel-bessner/ 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kqbpehwrhx22>
+
+---
+
+## Publishers Join Iowa Book Ban Lawsuit
+
+date: 2024-04-16, from: Locus Magazine
+
+<p>Hachette, HarperCollins, Macmillan, Simon &#38; Schuster, and Sourcebooks have joined a previously reported lawsuit opposing Iowa&#8217;s SF 496, a law that seeks to ban books depicting sex or involving gender identity or sexual orientation. They join existing plaintiffs Penguin Random House; the Iowa State Education Association (ISEA); authors Laurie Halse Anderson, John Green, Malinda Lo, and Jodi Picoult; three teachers; and a high school student.</p>
+<p>“We as publishers are uniting  <a href="https://locusmag.com/2024/04/publishers-join-iowa-lawsuit/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/publishers-join-iowa-lawsuit/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-16, from: Neil Gaiman @ BlueSky)
+
+Reading Mark Evanier @evanier.bsky.social  on the Wolverine creator controversy: Part 1
+https://www.newsfromme.com/2024/04/08/claws-for-debate-part-1/ 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kqbhlnp6e22f>
+
+---
+
+## The Secret To Writing Good Jokes in a Script
+
+date: 2024-04-16, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/the-secret-to-writing-good-jokes-in-a-script" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Tragedy%20Girls.jpg" alt="Two girls in cheerleading uniforms smiling at their phones in 'Tragedy Girls,' The Secret To Writing Good Jokes in a Script" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>Any comedic writer will tell you there’s nothing more satisfying than a well-placed joke. That’s probably because writing comedy isn’t easy. Just like any other screenplay, a comedic screenplay has to have a well-developed story and three-dimensional characters while making audiences laugh. You have to be funny while trying not to be funny while remaining true to the situation at hand and the character’s personality. This is no easy feat.&nbsp;</span></p> 
+
+<https://blog.finaldraft.com/the-secret-to-writing-good-jokes-in-a-script>
+
+---
+
+## 2024 Gotham Book Prize Finalists
+
+date: 2024-04-16, from: Locus Magazine
+
+<p>The finalists have been announced for the 2024 Gotham Book Prize, given for best New York City-based novel, including <strong>We Are a Haunting</strong> by Tyriek White (Astra) and <strong>Crook Manifesto</strong> by Colson Whitehead (Doubleday). The winner will be named at the Queens Public Library’s annual gala on June 5, 2024.</p>
+<p>The $50,000 prize was created in July 2020 by Bradley Tusk and Howard Wolfson to &#8220;support New York City and  <a href="https://locusmag.com/2024/04/2024-gotham-book-prize-finalists/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/2024-gotham-book-prize-finalists/>
+
+---
+
+## Ashing-Giwa Wins Compton Crook Award
+
+date: 2024-04-16, from: Locus Magazine
+
+<p>The Baltimore Science Fiction Society (BSFS) has announced that <b>The Splinter in the Sky</b> by Kemi Ashing-Giwa (Saga) is the winner of the 2023 Compton Crook Award.</p>
+<div class="mynomorebulletlist">
+<p>Other nominees were:</p>
+<ul>
+<li style="font-weight: 400;"><strong>To Shape a Dragon’s Breath</strong>, Moniquill Blackgoose (Del Rey)</li>
+<li style="font-weight: 400;"><strong>These Burning Stars</strong>, Bethany Jacobs (Orbit)</li>
+<li style="font-weight: 400;"><strong>Deathwind</strong>, Brad Pawlowski (Sunquake)</li>
+<li><strong>How to Be Remembered</strong>, Michael Thompson (Sourcebooks Landmark)</li>
+</ul>
+</div>
+<p>The award honors the best first SF/fantasy/horror novel of  <a href="https://locusmag.com/2024/04/ashing-giwa-wins-compton-crook-award/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/ashing-giwa-wins-compton-crook-award/>
+
+---
+
+## 2024 Jim Baen Memorial Short Story Award Winner
+
+date: 2024-04-16, from: Locus Magazine
+
+<p><strong></strong>&#8220;Locus of Control&#8221; by Zack Be is the winner of the 2024 Jim Baen Memorial Short Story Award, for &#8220;original stories celebrating optimistic, near-future space exploration.&#8221; Trent Guillory won second place for &#8220;Extraction&#8221; and William Paul Jones won third place for “Saving Gallivander”.</p>
+<p>Be and the runners-up will be honored in a ceremony at the 2024 International Space Development Conference in Los Angeles CA, May 23-26, 2024. Be will also  <a href="https://locusmag.com/2024/04/2024-jim-baen-memorial-short-story-award-winner/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/2024-jim-baen-memorial-short-story-award-winner/>
+
+---
+
+## Trina Robbins (1938-2024)
+
+date: 2024-04-16, from: Locus Magazine
+
+<p>Artist, editor, and author Trina Robbins, 85, died April 10, 2024 of a stroke in San Francisco CA. Though best known as a legendary feminist comics writer and artist, she was also a science fiction fan and occasional SF writer, with stories including &#8220;Lines from a Diary&#8221; (1992) and &#8220;Innana: Witchwoman&#8221; (2011). She wrote and illustrated a comics adaptation of Tanith Lee&#8217;s <strong>The Silver Metal Lover</strong> in 1985, and was  <a href="https://locusmag.com/2024/04/trina-robbins-1938-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/trina-robbins-1938-2024/>
+
+---
+
+## Intrinsic Motivation
+
+date: 2024-04-16, from: John August blog
+
+John and Craig can’t help but look at intrinsic motivations &#8212; those specific internal drives that guide characters behavior. They discuss how to structure and expose that internal drive, the importance of an innate irritability, how it can stop your characters from becoming flat, and rewarding that intrinsic motivation with choice. But first, we follow [&#8230;]
+The post <a href="https://johnaugust.com/2024/intrinsic-motivation">Intrinsic Motivation</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/intrinsic-motivation>
+
+---
+
+## Ian Mond Reviews The Invisible Hotel by Yeji Y. Ham
+
+date: 2024-04-16, from: Locus Magazine
+
+<p><strong>The Invisible Hotel</strong>, Yeji Y. Ham (Zando 978-1-63893-137-9, $28.00, 320pp, hc) March 2024.</p>
+<p>Early on in Yeji Y. Ham’s intense debut novel, <strong>The Invisible Hotel, </strong>our narrator, Yewon, describes her mother’s daily ritual of cleaning of their ances­tor’s bones in the family’s bathtub.</p>
+<p>My stomach began to thrash. I didn’t want to see it. I didn’t want to smell it. Heat, breath, sweat, the odor that rose into the  <a href="https://locusmag.com/2024/04/ian-mond-reviews-the-invisible-hotel-by-yeji-y-ham/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/ian-mond-reviews-the-invisible-hotel-by-yeji-y-ham/>
+
+---
+
+## New Books, 16 April 2024
+
+date: 2024-04-16, from: Locus Magazine
+
+<p>Castro, V.: <b>Immortal Pleasures</b>
+(Penguin Random House/Del Rey 9780593499726, $17.99, 304pp, formats: trade paperback, ebook, audio, 04/16/2024)</p>
+<p>Dark fantasy novel about Malinalli, once the infamous Malinche who aided Cortés in his destruction of the Aztec empire, now an immortal vampire avenging conquered peoples by regaining their plundered artifacts, but also looking for love and intrigued by a horror novelist who finds her strange condition fascinating.</p>
+<p>&#160;</p>
+<p>Chang, Molly X.: <b>To </b> <a href="https://locusmag.com/2024/04/new-books-16-april-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/new-books-16-april-2024/>
 
 ---
 

@@ -1,11 +1,111 @@
 ---
 title: motorcycles 2024.16
-updated: 2024-04-15 17:43:19
+updated: 2024-04-16 14:55:23
 ---
 
 # motorcycles 2024.16
 
-(date: 2024-04-15 17:43:19)
+(date: 2024-04-16 14:55:23)
+
+---
+
+## Aprilia Unveils RSV4 Factory Special Edition in Texas
+
+date: 2024-04-16, from: Cycle World News
+
+Aprilia celebrates its World Superbike triumphs with the limited-edition RSV4 Factory SBK and Tuono V4 Factory SBK models, revealed at the Austin MotoGP. 
+
+<https://www.cycleworld.com/bikes/aprilia-rsv4-factory-special-edition-first-look/>
+
+---
+
+## Take A Look Inside Ducati’s New 698cc Superquadro Mono
+
+date: 2024-04-16, from: Cycle World News
+
+Cycle World’s Italian editor gets out his wrenches and camera, and reveals what makes the Ducati 698 Superquadro tick. 
+
+<https://www.cycleworld.com/motorcycle-news/ducati-698cc-superquadro-mono-single-engine/>
+
+---
+
+## This EV Charging Station Stuck Me In An App Loop and Wouldn't Let Me Charge
+
+date: 2024-04-16, from: Ride Apart, Electric Motorcycle News
+
+EV charging accessibility is far from perfect in the US in 2024, but it also doesn't have to be this big of a mess. 
+
+<https://www.rideapart.com/news/716185/volta-shell-recharge-station-problems/>
+
+---
+
+## 2024 Kawasaki Ninja 500 First Ride Review
+
+date: 2024-04-16, from: Cycle World News
+
+Displacement creep is a real phenomenon, and Kawasaki’s 2024 Ninja 500 is the latest example. But it’s a good thing for the latest small Ninja. 
+
+<https://www.cycleworld.com/motorcycle-reviews/kawasaki-ninja-500-first-ride-review/>
+
+---
+
+## Give Yourself A Gundam Moto Makeover With Kushitani's New Gear
+
+date: 2024-04-16, from: Ride Apart, Electric Motorcycle News
+
+If you're a motorcycle-loving Mobile Suit Gundam fan, this is the collection for you. 
+
+<https://www.rideapart.com/news/715527/kushitani-gundam-motorcycle-gear-collection/>
+
+---
+
+## MV Agusta Offers New Service Promo On Previous-Gen Bikes
+
+date: 2024-04-16, from: Ride Apart, Electric Motorcycle News
+
+Bikes from 2018 onwards get free checkups and 20-percent off on certain spare parts.  
+
+<https://www.rideapart.com/news/715392/mv-agusta-service-promo-2018-onwards/>
+
+---
+
+## Why Yes, You Can Fit a Full-Size Dirt Bike Into the Back of a Tesla Cybertruck
+
+date: 2024-04-16, from: Ride Apart, Electric Motorcycle News
+
+You can actually fit three if you're good at Tetris. 
+
+<https://www.rideapart.com/news/716163/tesla-cybertruck-dirt-bike-video/>
+
+---
+
+## Ryan Vargas Survives European ‘Big One’ at Valencia
+
+date: 2024-04-16, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor When Ryan Vargas hopped ‘across the pond’ to compete in the NASCAR Whelen Euro Series (EuroNASCAR), one aspect of the traditional American NASCAR stock car&#8230;  
+
+<https://kickinthetires.net/nascar/ryan-vargas-european-big-one-valencia/>
+
+---
+
+## The Insta360 X4 Brings 8K 360-Degree Video To The Party
+
+date: 2024-04-16, from: Ride Apart, Electric Motorcycle News
+
+The action camera maker's latest flagship 360 cam wants to take your shots to the next level. 
+
+<https://www.rideapart.com/news/716198/insta360-x4-360-camera-specs/>
+
+---
+
+## Take A Good Look At Dirt Freak's Custom Honda GB350 S
+
+date: 2024-04-16, from: Ride Apart, Electric Motorcycle News
+
+The Japanese motorcycle accessories specialist trained its sights on the Honda GB350 S, and here's what happened. 
+
+<https://www.rideapart.com/news/715513/dirt-freak-honda-gb350-s/>
 
 ---
 

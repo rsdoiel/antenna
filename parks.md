@@ -1,11 +1,11 @@
 ---
 title: parks 2024.16
-updated: 2024-04-15 17:43:19
+updated: 2024-04-16 14:55:23
 ---
 
 # parks 2024.16
 
-(date: 2024-04-15 17:43:19)
+(date: 2024-04-16 14:55:23)
 
 ---
 
@@ -101,7 +101,7 @@ mso-border-alt:none windowtext 0in;padding:0in"><o:p></o:p></span></p>
 
 date: 2024-04-15, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>$18 million investment from Inflation Reduction Act benefits native seed increase projects in the Mojave Desert </h1></div>
+<div class="field contact-block -title"><h1>Asking the right questions: New science for sagebrush management</h1></div>
       
 
 
@@ -109,11 +109,16 @@ date: 2024-04-15, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><p><em><span style="font-size:11pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-family:Roboto"><span style="color:black">Story by:</span></span></b><span style="font-family:Roboto"><span style="color:black"> Julia Mogen, BLM California Desert District Public Affairs Specialist</span></span></span></span></span></span></em></p>
+            <div class="field contact-block -body"><p>When the BLM <a href="https://www.blm.gov/programs/planning-and-nepa/planning-101/how-plans-are-updated">updates</a> its resource management plans, we state the reasons for proposing to do so in the environmental effects analysis required by the <a href="https://www.blm.gov/programs/planning-and-nepa/what-informs-our-plans/nepa">National Environmental Policy Act</a>.&nbsp;</p>
 
-<p><em><span style="font-size:11pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span style="font-family:Roboto"><span style="color:black">Photos by:</span></span></b><span style="font-family:Roboto"><span style="color:black"> Judy Perkins, BLM California </span></span><span style="font-family:Roboto"><span style="color:black">Mojave Desert Ecoregional Native Plant Coordinator; Jesse Pluim, Public Affairs Specialist</span></span></span></span></span></span></em></p>
+<p>In the case of the <a href="https://eplanning.blm.gov/eplanning-ui/project/2016719/510">current effort</a> to update <a href="https://www.blm.gov/programs/fish-and-wildlife/sagegrouse/blm-sagegrouse-plans">plans for conserving greater sage-grouse habitat</a> on BLM-managed public lands, we are looking closely at recently published scientific literature and data gathered since 2015 to determine where changing these plans could strengthen our conservation efforts. We want the best conservation work for sage-grouse to happen in the right places.&nbsp;</p>
 
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="881d0f76-d867-4f9b-b1f1-1b200b5ac3ed" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+<hr>
+<p><br>
+The most basic information is <strong>the number of greater sage-grouse</strong> -- which, over the last 10 years, has continued its long-term decline. During the first five years the current management plans were in effect (2015-2019), there were more than 40 instances where populations dipped below minimum thresholds established for the areas covered by those plans.&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="de4b0962-f0f6-4394-80cf-733674b84c92" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -122,7 +127,7 @@ date: 2024-04-15, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/Needles-66.jpg?itok=QcVJbLYL" width="640" height="427" alt="A woman examines a bright yellow flower" typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/GRSG-cameos%2Bbluesky_USFWS-T.Koerner.jpg?itok=VK04v29B" width="640" height="473" alt="two greater sage-grouse emerge from sagebrush under blue sky" typeof="foaf:Image">
 
 
 </div>
@@ -130,39 +135,15 @@ date: 2024-04-15, from: Bureau of Land Management, blog
 </div>
 </div>
 
-
-<p><span style="color: black; font-family: Roboto; font-size: 11pt;">With the Department of the Interior’s recent announcement of nearly $18 million in new investments from the Inflation Reduction Act, BLM California is thrilled to expand upon native seed growth improvement projects.</span></p>
-
-<p><span style="font-size:11pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto"><span style="color:black">This historic investment will contribute to Interior’s<span style="background:white"> new&nbsp;</span></span></span><span style="font-family:Roboto"><span style="color:black"><a href="https://www.doi.gov/media/document/national-seed-strategy-keystone-initiative" style="color:blue; text-decoration:underline" target="_blank"><span style="background:white"><span style="color:black"><span style="text-decoration:none"><span style="text-underline:none">National Seed Strategy Keystone Initiative</span></span></span></span></a></span></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span style="background:white"><span style="font-family:Roboto"><span style="color:black"><span style="text-decoration:none"><span style="text-underline:none">, built to implement the proper infrastructure, tools, research and labor needed to support a strong native seed supply chain. </span></span></span></span></span></span></span><span style="font-family:Roboto"><span style="color:black">The </span></span><span style="font-family:Roboto"><span style="color:black"><a href="https://www.doi.gov/media/document/national-seed-strategy-keystone-initiative" style="color:blue; text-decoration:underline" target="_blank"><span style="background:white"><span style="color:black"><span style="text-decoration:none"><span style="text-underline:none">National Seed Strategy Keystone Initiative</span></span></span></span></a></span></span><span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span style="background:white"><span style="font-family:Roboto"><span style="color:black"><span style="text-decoration:none"><span style="text-underline:none"> outlines goals for ecosystem restoration,</span></span></span></span></span></span></span><span style="font-family:Roboto"><span style="color:black"> biodiversity support, and the reduction of climate change risks. <span class="MsoHyperlink" style="color:blue"><span style="text-decoration:underline"><span style="background:white"><span style="color:black"><span style="text-decoration:none"><span style="text-underline:none">Example projects include </span></span></span></span></span></span></span></span><span style="background:white"><span style="font-family:Roboto"><span style="color:#212529">expanding Tribal greenhouse facilities, assisting local farmers transition from high-water crops to low-water native plant crops and connecting with underserved communities in native seed collection via the </span></span></span><span style="font-family:Roboto"><span style="color:black"><a href="https://www.blm.gov/sites/blm.gov/files/program_nativeplants_collection_quick%20links_SOS%20Handout.pdf" style="color:blue; text-decoration:underline">Seeds of Success program</a></span></span><span style="background:white"><span style="font-family:Roboto"><span style="color:#212529">.</span></span></span></span></span></span></span></p>
-
-<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="background:white"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto"><span style="color:black">The Victor Valley College Native Seed Production project under the BLM </span></span><span style="font-family:Roboto"><span style="color:black"><a href="https://gis.blm.gov/DETODownload/Docs/The_Mojave_Desert_Native_Plant_Program.pdf" style="color:blue; text-decoration:underline">Mojave Desert Native Plant Program</a></span></span><span style="font-family:Roboto"><span style="color:black"> in southern California, will benefit from the investment. </span></span><span style="font-family:Roboto"><span style="color:black">Started in 2022, the BLM partnership with Victor Valley College is a joint effort to grow native plants, increase native seed output and develop seed harvest protocols for Mojave Desert habitat restoration. </span></span><span style="font-family:Roboto"><span style="color:black">The project </span></span><span style="font-family:Roboto"><span style="color:black">is forecasted to span five years to meet seed production goals. &nbsp;</span></span></span></span></span></span></p>
-
-<figure role="group" class="align-center">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="057376e0-2407-480c-bc10-4d191c88f10b" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
-  
-  
-
-
-
-
-  
-
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/Dakota%20Brooks%20and%20Dolores%20Gault%20with%20VVC%20seed%20increase%20plot.JPG?itok=T4UOGksj" width="640" height="480" alt="two students pose in front of a garden bed." typeof="foaf:Image">
-
-
-</div>
-      
-</div>
-</div>
-
-<figcaption><em>Victor Valley College students, Dakota Brooks and Dolores Gault, with field of Acton’s Brittlebush used for seed growth.</em></figcaption>
+<figcaption>A study published in 2021 found that greater sage-grouse populations had declined 37% since 2002 (<a href="https://doi.org/10.3133/ofr20201154">Coates et al.</a>) | <em>USFWS/Tom Koerner</em></figcaption>
 </figure>
 
 
-<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto">Prioritizing outreach and collaboration with the local community, staff on this project will assist local farmers transition from alfalfa farming to less water intensive native plants. The seed increase program supports farmers who are losing water rights, in turn affecting their alfalfa farming, while also contributing to habitat resilience against climate change.</span></span></span></span></p>
+<p><br>
+Although all states with greater sage-grouse have seen long-term declines in their numbers, populations change at varying rates across the 145 million acres of sagebrush habitat in the U.S. In managing close to half of those acres, the BLM relies heavily on information that state agencies collect in their work of managing sage-grouse populations. Our <strong>understanding of local conditions and trends</strong> deepens with each round of data collection.&nbsp;</p>
 
-<figure role="group" class="align-center">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="431e8fbe-539d-468e-b424-1b68d1ec4a79" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="e4eaee34-25a9-425a-b80c-d1ef3971cd90" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -171,7 +152,7 @@ date: 2024-04-15, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/Vegas%20Alkali%20Sacaton%20in%20seed%20increase%20plot.JPG?itok=IU4LMStZ" width="640" height="480" alt="Field of Vegas Alkali Sacaton for seed growth at Victor Valley College" typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/AIM-vegcover-height.jpg?itok=T8vuUwiX" width="640" height="360" alt="two people taking vegetation measurements in sagebrush habitat" typeof="foaf:Image">
 
 
 </div>
@@ -179,39 +160,72 @@ date: 2024-04-15, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption><em>Field of Vegas Alkali Sacaton for seed growth at Victor Valley College.</em></figcaption>
+<figcaption>The BLM <a href="https://www.blm.gov/blog/2022-02-04/more-numbers-evaluating-progress-sage-grouse-conservation">monitors</a> sagebrush habitat areas on nearly 67 million acres of public lands using<br>
+a <a href="https://eplanning.blm.gov/public_projects/lup/21152/48421/52584/GRSG-FINAL-Monitoring_Framework_20140530.pdf">framework</a> adopted with the 2015 habitat management plans. | <em>BLM-AIM Program</em></figcaption>
 </figure>
 
-
-<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto"><span style="color:black">“Students are developing native plant growing techniques to increase seed production,” Judy Perkins, Mojave Desert Ecoregional Native Plant Coordinator for the BLM California State Office said. “Then they will start scaling up seed increase project size to the agricultural field scale.”</span></span></span></span></span></p>
-
-<figure role="group" class="align-center">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="070e44a2-91df-4918-b908-e6be40061e42" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
-  
-  
-
-
-
-
-  
-
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/Native%20seeds%20VVC.JPG?itok=L8S-nbc-" width="640" height="480" alt="Seeds used in projects at Victor Valley College in partnership with BLM." typeof="foaf:Image">
-
-
-</div>
-      
-</div>
-</div>
-
-<figcaption><em>Seeds used in projects at Victor Valley College in partnership with BLM.</em></figcaption>
-</figure>
-
-
-<p align="center" style="text-align:center">&nbsp;</p>
-
-<p class="MsoCaption" style="margin-bottom: 13px;"><span style="font-size:11pt"><span style="background:white"><span style="line-height:16.8pt"><span style="font-family:Calibri,sans-serif"><span style="font-family:Roboto"><span style="color:black">BLM California is delighted to be awarded funds from the Inflation Reduction Act for seed strategy projects. These resources will help expand and sustain ecosystem restoration initiatives across the state, thereby improving the health of the habitats they manage.</span></span></span></span></span></span></p>
 
 <p>&nbsp;</p>
+
+<p>Recent research calls attention to the <strong>effects of <a href="https://www.blm.gov/about/how-we-manage/climate-change">climate change</a></strong> on sagebrush habitat and how this in turn can accelerate declines in the number of sage-grouse. We need to consider whether these effects require adjustments to management decisions made in 2015.&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="b2f563f8-50aa-4ccc-9493-b509e21eed0c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/post-Soda-cheatgrass_BLM-A.Hedrick.jpg?itok=TP1YTsns" width="640" height="427" alt="dry cheatgrass that has overtaken sagebrush habitat" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Climate change seems to <a href="https://www.blm.gov/blog/2024-02-26/unhealthy-competition">worsen the spread of non-native grasses</a> that outcompete sagebrush<br>
+and intensify wildfire cycles in sage-grouse habitat. | <em>BLM-Idaho/Antonia Hedrick</em></figcaption>
+</figure>
+
+
+<p><br>
+New science can also help resource managers better understand how sage-grouse select and make use of <strong>breeding habitat</strong>, and what conditions are needed for these areas to remain available year after year.&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="4fcb390c-3925-4d85-abee-3d141f3017f8" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2022-01/sunrise-steenslek-apr2016_gshine.jpg?itok=ByIrjPtX" width="640" height="370" alt="A BLM biologist views a sage-grouse lek near Steens Mountain, Oregon" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Observing breeding activity on a <a href="https://www.blm.gov/blog/2024-04-02/rites-spring">lek</a> can disrupt it if the researcher is too close or<br>
+too conspicuous. | <em>BLM-Oregon/Greg Shine</em></figcaption>
+</figure>
+
+
+<p><br>
+By considering new biological research, we will designate and conserve habitat which maintains the <strong>genetic diversity and connections</strong> that local sage-grouse populations need to adapt to changing conditions.&nbsp;<br>
+&nbsp;</p>
+
+<hr>
+<p><br>
+<strong>GET INVOLVED |&nbsp;</strong>Review and comment in the <a href="https://eplanning.blm.gov/eplanning-ui/project/2016719/570">draft environmental analysis of proposed options</a> for strengthening protection of the greater sage-grouse's habitat on BLM-managed public lands. The public comment period is open through June 13, 2024.&nbsp;<br>
+&nbsp;</p>
 </div>
       
 
@@ -223,8 +237,7 @@ date: 2024-04-15, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
-          <div><a href="https://www.blm.gov/region/california-desert-do" hreflang="en">California Desert DO</a></div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
               </div>
       </div>
 
@@ -237,7 +250,7 @@ date: 2024-04-15, from: Bureau of Land Management, blog
 <div class="blog-topics">
     <div class="field contact-block -blog-topic">
       <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/weeds-and-invasives" hreflang="en">Weeds and Invasives</a></div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/sage-grouse" hreflang="en">Sage-grouse</a></div>
                 </div>
   </div>
 
@@ -249,19 +262,8 @@ date: 2024-04-15, from: Bureau of Land Management, blog
 
   <div class="field contact-block -release-date">
     <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-04-15T12:00:00Z">Mon, 04/15/2024 - 12:00 pm UTC</time>
+              <div><time datetime="2024-04-16T12:00:00Z">Tue, 04/16/2024 - 12:00 pm UTC</time>
 </div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -office">
-    <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/california-state-office" hreflang="en">California State Office</a></div>
           </div>
 
 
@@ -272,7 +274,7 @@ date: 2024-04-15, from: Bureau of Land Management, blog
 
   <div class="field contact-block -thumbnail-image">
     <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47629/edit" hreflang="en">Judy Perkins 1</a></div>
+              <div><a href="https://www.blm.gov/media/22195/edit" hreflang="en">Programs_FishandWildlifesagegrousehero.jpg</a></div>
           </div>
 
 
@@ -283,7 +285,7 @@ date: 2024-04-15, from: Bureau of Land Management, blog
 
   <div class="field contact-block -featured">
     <div><strong>Featured:</strong> </div>
-              <div>On</div>
+              <div>Off</div>
           </div>
 
 
@@ -296,7 +298,9 @@ date: 2024-04-15, from: Bureau of Land Management, blog
     <div class="field contact-block -tag">
       <div><strong>Tag:</strong> </div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/seeds-success" hreflang="en">Seeds of Success</a></div>
+                    <div><a href="https://www.blm.gov/tag/planning-and-nepa" hreflang="en">Planning and NEPA</a></div>
+              <div><a href="https://www.blm.gov/tag/science" hreflang="en">Science</a></div>
+              <div><a href="https://www.blm.gov/tag/sage-grouse" hreflang="en">Sage-Grouse</a></div>
                     </div>
           </div>
   </div>
@@ -310,7 +314,155 @@ date: 2024-04-15, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
+              </div>
+      </div> 
+
+<https://www.blm.gov/blog/2024-04-15/18-million-investment-inflation-reduction-act-benefits-native-seed-increase>
+
+---
+
+## Asking the right questions: New science for sagebrush management
+
+date: 2024-04-15, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Asking the right questions: New science for sagebrush management</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p>When the BLM <a href="https://www.blm.gov/programs/planning-and-nepa/planning-101/how-plans-are-updated">updates</a> its resource management plans, we state the reasons for proposing to do so in the environmental effects analysis required by the <a href="https://www.blm.gov/programs/planning-and-nepa/what-informs-our-plans/nepa">National Environmental Policy Act</a>.&nbsp;</p>
+
+<p>In the case of the <a href="https://eplanning.blm.gov/eplanning-ui/project/2016719/510">current effort</a> to update <a href="https://www.blm.gov/programs/fish-and-wildlife/sagegrouse/blm-sagegrouse-plans">plans for conserving greater sage-grouse habitat</a> on BLM-managed public lands, we are looking closely at recently published scientific literature and data gathered since 2015 to determine where changing these plans could strengthen our conservation efforts. We want the best conservation work for sage-grouse to happen in the right places.&nbsp;</p>
+
+<hr>
+<p><br>
+The most basic information is <strong>the number of greater sage-grouse</strong> -- which, over the last 10 years, has continued its long-term decline. During the first five years the current management plans were in effect (2015-2019), there were more than 40 instances where populations dipped below minimum thresholds established for the areas covered by those plans.&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="de4b0962-f0f6-4394-80cf-733674b84c92" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/GRSG-cameos%2Bbluesky_USFWS-T.Koerner.jpg?itok=VK04v29B" width="640" height="473" alt="two greater sage-grouse emerge from sagebrush under blue sky" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>A study published in 2021 found that greater sage-grouse populations had declined 37% since 2002 (<a href="https://doi.org/10.3133/ofr20201154">Coates et al.</a>) | <em>USFWS/Tom Koerner</em></figcaption>
+</figure>
+
+
+<p><br>
+Although all states with greater sage-grouse have seen long-term declines in their numbers, populations change at varying rates across the 145 million acres of sagebrush habitat in the U.S. In managing close to half of those acres, the BLM relies heavily on information that state agencies collect in their work of managing sage-grouse populations. Our <strong>understanding of local conditions and trends</strong> deepens with each round of data collection.&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="e4eaee34-25a9-425a-b80c-d1ef3971cd90" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/AIM-vegcover-height.jpg?itok=T8vuUwiX" width="640" height="360" alt="two people taking vegetation measurements in sagebrush habitat" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>The BLM <a href="https://www.blm.gov/blog/2022-02-04/more-numbers-evaluating-progress-sage-grouse-conservation">monitors</a> sagebrush habitat areas on nearly 67 million acres of public lands using<br>
+a <a href="https://eplanning.blm.gov/public_projects/lup/21152/48421/52584/GRSG-FINAL-Monitoring_Framework_20140530.pdf">framework</a> adopted with the 2015 habitat management plans. | <em>BLM-AIM Program</em></figcaption>
+</figure>
+
+
+<p>&nbsp;</p>
+
+<p>Recent research calls attention to the <strong>effects of <a href="https://www.blm.gov/about/how-we-manage/climate-change">climate change</a></strong> on sagebrush habitat and how this in turn can accelerate declines in the number of sage-grouse. We need to consider whether these effects require adjustments to management decisions made in 2015.&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="b2f563f8-50aa-4ccc-9493-b509e21eed0c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/post-Soda-cheatgrass_BLM-A.Hedrick.jpg?itok=TP1YTsns" width="640" height="427" alt="dry cheatgrass that has overtaken sagebrush habitat" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Climate change seems to <a href="https://www.blm.gov/blog/2024-02-26/unhealthy-competition">worsen the spread of non-native grasses</a> that outcompete sagebrush<br>
+and intensify wildfire cycles in sage-grouse habitat. | <em>BLM-Idaho/Antonia Hedrick</em></figcaption>
+</figure>
+
+
+<p><br>
+New science can also help resource managers better understand how sage-grouse select and make use of <strong>breeding habitat</strong>, and what conditions are needed for these areas to remain available year after year.&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="4fcb390c-3925-4d85-abee-3d141f3017f8" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2022-01/sunrise-steenslek-apr2016_gshine.jpg?itok=ByIrjPtX" width="640" height="370" alt="A BLM biologist views a sage-grouse lek near Steens Mountain, Oregon" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Observing breeding activity on a <a href="https://www.blm.gov/blog/2024-04-02/rites-spring">lek</a> can disrupt it if the researcher is too close or<br>
+too conspicuous. | <em>BLM-Oregon/Greg Shine</em></figcaption>
+</figure>
+
+
+<p><br>
+By considering new biological research, we will designate and conserve habitat which maintains the <strong>genetic diversity and connections</strong> that local sage-grouse populations need to adapt to changing conditions.&nbsp;<br>
+&nbsp;</p>
+
+<hr>
+<p><br>
+<strong>GET INVOLVED |&nbsp;</strong>Review and comment in the <a href="https://eplanning.blm.gov/eplanning-ui/project/2016719/570">draft environmental analysis of proposed options</a> for strengthening protection of the greater sage-grouse's habitat on BLM-managed public lands. The public comment period is open through June 13, 2024.&nbsp;<br>
+&nbsp;</p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
               </div>
       </div>
 
@@ -320,12 +472,78 @@ date: 2024-04-15, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -teaser-image">
-    <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47629/edit" hreflang="en">Judy Perkins 1</a></div>
-          </div> 
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/sage-grouse" hreflang="en">Sage-grouse</a></div>
+                </div>
+  </div>
 
-<https://www.blm.gov/blog/2024-04-15/18-million-investment-inflation-reduction-act-benefits-native-seed-increase>
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-04-16T12:00:00Z">Tue, 04/16/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/22195/edit" hreflang="en">Programs_FishandWildlifesagegrousehero.jpg</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/planning-and-nepa" hreflang="en">Planning and NEPA</a></div>
+              <div><a href="https://www.blm.gov/tag/science" hreflang="en">Science</a></div>
+              <div><a href="https://www.blm.gov/tag/sage-grouse" hreflang="en">Sage-Grouse</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
+              </div>
+      </div> 
+
+<https://www.blm.gov/blog/2024-04-16/asking-right-questions-new-science-sagebrush-management>
 
 ---
 
@@ -384,7 +602,7 @@ date: 2024-04-15, from: Bureau of Land Management, California
 	<li><em>WYOMING: Dry Piney Creek Watershed, Sublette County.</em>&nbsp;BLM is actively working in Sublette County to increase floodplain connectivity in Dry Piney Creek. This project will reduce stream downcutting and erosion.</li>
 	<li><em>MONTANA: Public lands in Petroleum County.</em>&nbsp;BLM will inventory and treat sulphur cinquefoil, spotted knapweed, Russian knapweed, and leafy spurge throughout the county. These aggressive invasive species crowd-out native vegetation and increase wildfire risk in the sagebrush ecosystem, a habitat of critical importance for the sage-grouse.</li>
 	<li><em>CALIFORNIA: Great Basin Desert, Lahontan Watershed.&nbsp;</em>BLM will remove invasive annual grasses throughout the watershed, then re-seed with native species to restore core sage grouse habitats and improve ecosystem function. The Lahontan Watershed is located in a Sagebrush Collaborative Restoration Landscape area encompassing parts of California, Nevada and Oregon under&nbsp;<a data-auth="Verified" data-linkindex="2" href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flink.mediaoutreach.meltwater.com%2Fls%2Fclick%3Fupn%3Du001.UIQBc019dAQpAh-2BR3Cx6RA5O-2FqtBIuv0oCvg-2B4tn2vY8YkLVz3nD-2Fg4BjYgl46-2BmpYoQawHw-2FubfNxyDk48knWbNwA7CWltQUBUjDGwPnAbjqgYjZYiHzMYgSGsPO14kgWk3t4pS-2BhCNDX9us9GchRwHhGRNFvEvMI-2FpFJffjgw-3D31MC_lCKVgvTt2dkTSd6eCwM4DyC8soEQffNkw37CitNG34adeX-2FEHSBPsI2CqCz7C4YJ3oIDPTO2bf8cgMt2yynWxAEXkBL7xbWoP7436JKwKLgwx0HzYmGSW9sGFoQ9GebvERRaFjCYRVq737I8BmOLQYlyEh1ARKx3m3eWk-2Fhb4nSj4YEVxxCV2-2FLFsssh-2BDDNbfWbGIoSEMUFizO96dp2pCpZwc5Bzp9AFSl96lg0TjLpHnq1ixjKgUX7-2BmlQVhZai7PpFRTE5-2FdevVJ7igdb3MoI5XCH5mzapKo5Ea0bafltKIULVMH-2Fz6Cy8XK2-2Fskw0ZcjUkiDT9hdjl2pdS9W6fM0Y9ae5XSwMiC7MGSMvHkpfRxkD0XxgBqyDmgRIO9i&amp;data=05%7C02%7Ccwhiteman%40blm.gov%7C799ac8f02bab429f7edb08dc5d652c86%7C0693b5ba4b184d7b9341f32f400a5494%7C0%7C0%7C638487936321169916%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=twlryfOwp7ehvotTxjgb358KYODdcJzkgD3g3tEOdLE%3D&amp;reserved=0" originalsrc="https://link.mediaoutreach.meltwater.com/ls/click?upn=u001.UIQBc019dAQpAh-2BR3Cx6RA5O-2FqtBIuv0oCvg-2B4tn2vY8YkLVz3nD-2Fg4BjYgl46-2BmpYoQawHw-2FubfNxyDk48knWbNwA7CWltQUBUjDGwPnAbjqgYjZYiHzMYgSGsPO14kgWk3t4pS-2BhCNDX9us9GchRwHhGRNFvEvMI-2FpFJffjgw-3D31MC_lCKVgvTt2dkTSd6eCwM4DyC8soEQffNkw37CitNG34adeX-2FEHSBPsI2CqCz7C4YJ3oIDPTO2bf8cgMt2yynWxAEXkBL7xbWoP7436JKwKLgwx0HzYmGSW9sGFoQ9GebvERRaFjCYRVq737I8BmOLQYlyEh1ARKx3m3eWk-2Fhb4nSj4YEVxxCV2-2FLFsssh-2BDDNbfWbGIoSEMUFizO96dp2pCpZwc5Bzp9AFSl96lg0TjLpHnq1ixjKgUX7-2BmlQVhZai7PpFRTE5-2FdevVJ7igdb3MoI5XCH5mzapKo5Ea0bafltKIULVMH-2Fz6Cy8XK2-2Fskw0ZcjUkiDT9hdjl2pdS9W6fM0Y9ae5XSwMiC7MGSMvHkpfRxkD0XxgBqyDmgRIO9i" rel="noopener noreferrer" shash="RaFqxE/mTTqCaTbwALHDFXNyLlw1bTmFod7Zom/+hMBgbe3CGjV0LCjNfXam3wygxdqu+Iu7EJsdLRM49yY9dXNdMwZ786bKqXHFSA2PkImTunkhUu6P2CsxiseqP759nd35FwHomL7z1FVeFA9ZPqMbdEdqt8cx80w+LfUMaNQ=" target="_blank" title="Original URL: https://link.mediaoutreach.meltwater.com/ls/click?upn=u001.UIQBc019dAQpAh-2BR3Cx6RA5O-2FqtBIuv0oCvg-2B4tn2vY8YkLVz3nD-2Fg4BjYgl46-2BmpYoQawHw-2FubfNxyDk48knWbNwA7CWltQUBUjDGwPnAbjqgYjZYiHzMYgSGsPO14kgWk3t4pS-2BhCNDX9us9GchRwHhGRNFvEvMI-2FpFJffjgw-3D31MC_lCKVgvTt2dkTSd6eCwM4DyC8soEQffNkw37CitNG34adeX-2FEHSBPsI2CqCz7C4YJ3oIDPTO2bf8cgMt2yynWxAEXkBL7xbWoP7436JKwKLgwx0HzYmGSW9sGFoQ9GebvERRaFjCYRVq737I8BmOLQYlyEh1ARKx3m3eWk-2Fhb4nSj4YEVxxCV2-2FLFsssh-2BDDNbfWbGIoSEMUFizO96dp2pCpZwc5Bzp9AFSl96lg0TjLpHnq1ixjKgUX7-2BmlQVhZai7PpFRTE5-2FdevVJ7igdb3MoI5XCH5mzapKo5Ea0bafltKIULVMH-2Fz6Cy8XK2-2Fskw0ZcjUkiDT9hdjl2pdS9W6fM0Y9ae5XSwMiC7MGSMvHkpfRxkD0XxgBqyDmgRIO9i. Click or tap if you trust this link.">DOI’s Sagebrush Keystone Initiative</a>.</li>
-	<li><em>CALIFORNIA: Bull Creek Watershed, Humboldt County.</em>&nbsp;BLM will remove and control invasive annual grasses and encroaching conifers across high-elevation sagebrush ecosystems in Bull Creek in Northeastern California. Treatments are intended to remove competition for native tree and shrub species.</li>
+	<li><em>NEVADA: Bull Creek Watershed, Washoe County, NV.</em>&nbsp;BLM will remove and control invasive annual grasses and encroaching conifers across high-elevation sagebrush ecosystems in Bull Creek in Northwestern Nevada. Treatments are intended to remove competition for native tree and shrub species. BLM California has administrative responsibilities for this project.</li>
 	<li><em>COLORADO:</em>&nbsp;<em>Dry Creek Basin, San Miguel County.</em>&nbsp;BLM will concentrate efforts on reducing downcutting and erosion along a mile-long stretch of the West Fork of Dry Creek. These efforts aim to improve habitat conditions for sage-grouse and other wildlife. The area is adjacent to the Dry Creek Basin State Wildlife Area.</li>
 </ul>
 </div> 

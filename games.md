@@ -1,11 +1,111 @@
 ---
 title: games 2024.16
-updated: 2024-04-15 17:43:19
+updated: 2024-04-16 14:55:23
 ---
 
 # games 2024.16
 
-(date: 2024-04-15 17:43:19)
+(date: 2024-04-16 14:55:23)
+
+---
+
+## Who is Miquella in Elden Ring anyway?
+
+date: 2024-04-16, updated: 2024-04-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24131400/elden-ring-dlc-miquella-shadow-of-the-erdtree>
+
+---
+
+## Get RollerCoaster Tycoon classic on Steam for just $5
+
+date: 2024-04-16, updated: 2024-04-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24132275/roller-coaster-tycoon-classic-steam-deal-sale>
+
+---
+
+## Hades 2 is giving fans their first chance to get their hands on the game
+
+date: 2024-04-16, updated: 2024-04-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24132181/hades-2-release-date-early-acess-technical-test-update>
+
+---
+
+## GameStop is having a buy 2, get 1 free sale on all pre-owned games including new releases
+
+date: 2024-04-16, updated: 2024-04-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24132164/gamestop-pre-owned-used-games-buy-2-get-1-free-deal-sale>
+
+---
+
+## The Elden Ring DLC statuettes make a pre-order extra tempting
+
+date: 2024-04-16, updated: 2024-04-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24079161/elden-ring-shadow-erdtree-preorder-guide-standard-deluxe-premium-collectors-edition>
+
+---
+
+## Overwatch 2’s mythic skin prices revealed to be (unsurprisingly) very expensive
+
+date: 2024-04-16, updated: 2024-04-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24132048/overwatch-2-mythic-skin-store-prices-prisms>
+
+---
+
+## Kyle MacLachlan’s subtle dread and kind smile made him perfect for Fallout
+
+date: 2024-04-16, updated: 2024-04-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24128755/fallout-cast-kyle-maclachlan-twin-peaks-perfect>
+
+---
+
+## Riley’s hot dad was the hardest character for the animators to get right on Inside Out 2
+
+date: 2024-04-16, updated: 2024-04-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24131331/inside-out-2-rileys-hot-dad-new-movie>
+
+---
+
+## Who to give the Jadeite Orb to in Dragon’s Dogma 2
+
+date: 2024-04-16, updated: 2024-04-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/dragons-dogma-2-guide/24107709/jadeite-orb-quest-walkthrough-everard-or-offulve-reward>
+
+---
+
+## The best action movies of the year so far
+
+date: 2024-04-16, updated: 2024-04-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24091121/best-action-movies-2024-watch>
 
 ---
 
