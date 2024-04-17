@@ -1,11 +1,81 @@
 ---
 title: games 2024.16
-updated: 2024-04-16 14:55:23
+updated: 2024-04-17 08:24:36
 ---
 
 # games 2024.16
 
-(date: 2024-04-16 14:55:23)
+(date: 2024-04-17 08:24:36)
+
+---
+
+## My favorite anime: Singer-songwriter Yaeji on the shows she loves
+
+date: 2024-04-17, updated: 2024-04-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/anime/24132093/my-favorite-anime-yaeji-nurse-angel-ririka-sos-nichijou>
+
+---
+
+## Nintendo Indie World: All the news, trailers, and announcements
+
+date: 2024-04-17, updated: 2024-04-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24132237/nintendo-indie-world-april-2024-news-announcements-trailers>
+
+---
+
+## Surreal puzzler Lorelei and the Laser Eyes announced for May release
+
+date: 2024-04-17, updated: 2024-04-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24132816/lorelei-and-the-laser-eyes-nintendo-direct-april-2024-release-date>
+
+---
+
+## Why is the X-Men theme song so catchy? ‘It just rips,’ say X-Men ’97 composers
+
+date: 2024-04-17, updated: 2024-04-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24132090/x-men-theme-song-97-comparison>
+
+---
+
+## Did Knuckles have an OK time at the Knuckles premiere? He looked stressed
+
+date: 2024-04-17, updated: 2024-04-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24132864/knuckles-cast-idris-elba-premiere>
+
+---
+
+## Watch Nintendo’s new Indie World showcase here
+
+date: 2024-04-17, updated: 2024-04-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24130841/nintendo-direct-indie-world-april-2024-how-to-watch>
+
+---
+
+## Botany Manor is not just about growing plants
+
+date: 2024-04-17, updated: 2024-04-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24132130/botany-manor-cozy-games-review-pc>
 
 ---
 

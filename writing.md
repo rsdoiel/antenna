@@ -1,11 +1,196 @@
 ---
 title: writing 2024.16
-updated: 2024-04-16 14:55:23
+updated: 2024-04-17 08:24:36
 ---
 
 # writing 2024.16
 
-(date: 2024-04-16 14:55:23)
+(date: 2024-04-17 08:24:36)
+
+---
+
+## 3 Final Draft 13 Features You Might've Missed
+
+date: 2024-04-17, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/3-final-draft-13-features-you-mightve-missed" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Fantastic%20Voyage%20.jpg" alt="A man looking through a magnifying glass in 'Fantastic Voyage'; 3 Final Draft 13 Features You Might've Missed'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>The latest version of the world’s #1 screenwriting program,&nbsp;</span><a href="https://blog.finaldraft.com/final-draft-13-is-here"><span>Final Draft 13</span></a><span>, has been updated to meet the ever-changing needs of screenwriters. With the upgrade are several&nbsp;</span><a href="https://www.finaldraft.com/products/whats-new-fd13/"><span>new features</span></a><span>&nbsp;like Writing Goals and Productivity Stats, Emoji support, Typewriter view, Navigator 2.0, Structure Lines, Character Development Tools, and improvements to many of the program's time-tested features.</span></p> 
+
+<https://blog.finaldraft.com/3-final-draft-13-features-you-mightve-missed>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-17, from: Neil Gaiman @ BlueSky)
+
+Good luck!
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kqdgrsqb2d2g>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-17, from: Neil Gaiman @ BlueSky)
+
+I didn't know Bob Beerbohm, but we argued on the Internet and the proto-internet... Here's a gift link:
+
+Robert Beerbohm, 71, Dies; Pioneering Comic Book Retailer and Historian https://www.nytimes.com/2024/04/15/arts/robert-beerbohm-dead.html?unlocked_article_code=1.lE0.xUXF.5UaEEeGwsfkw 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kqdcdenilb2l>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-17, from: Neil Gaiman @ BlueSky)
+
+It's a terrific book.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kqdbyggngr2l>
+
+---
+
+## How to Customize the Scrivener Toolbar
+
+date: 2024-04-17, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p>Scrivener has lots of features, and many of them are available by clicking a menu and choosing a menu item, or by using a keyboard shortcut if you know what it is. But you can also trigger many of Scrivener&#39;s features by clicking buttons in the toolbar, the bar with buttons at the top of the window. By default, Scrivener displays a set of toolbar buttons, but you can customize the toolbar to remove features you don&#39;t use and add buttons for features you use often. Here&#39;s how.</p>
+
+Why use the toolbar?
+
+<p>All apps today, on Mac and Windows, offer multiple ways to access and trigger features. You can click menus, press keyboard shortcuts, and click toolbar buttons. The quickest way to access many features is to use keyboard shortcuts. You may be familiar with some of the most common ones, such as Command-C (Mac) or Ctrl+C (Windows) to copy something, Command-X / Ctrl+X to cut something, and Command-V / Ctrl+V to paste.</p>
+
+<p>You can save a lot of time <a href="https://www.literatureandlatte.com/blog/5-scrivener-productivity-tips-keyboard-shortcuts" target="_blank">by learning additional keyboard shortcuts for the features you use often</a>, but you can&#39;t remember them all.</p>
+
+<p>Clicking menus and menu items is great because you can access all of an app&#39;s features, but there are so many that you might forget where the ones you need are located.</p>
+
+<p>If the features you use often have buttons in the toolbar, this can be an easy way to access them, because there are visual reminders of what these buttons do. And you can customize the toolbar on both Mac and Windows versions of Scrivener, to display the buttons for the features you use often.</p>
+
+<p>You may want to add buttons for Targets, Annotations, or Comments, or a Focus menu (the v to the right of the button indicates that it opens a menu), to enable Focus mode by line, sentence, or paragraph.</p>
+
+<p>Note that not all features offer toolbar buttons.</p>
+
+How to customize the toolbar on Mac
+
+<p>To customize the toolbar in Scrivener on macOS, right-click anywhere on the toolbar and choose Customize Toolbar, or choose View &gt; Customize Toolbar.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-articles/toolbar1.png" alt=""  />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>When you do this, a dialog displays showing all the available toolbar buttons for Scrivener.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-articles/toolbar2.png" alt=""  />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>As you can see, there are dozens of toolbar buttons; to add any to your toolbar, just drag a button to the location where you want it to stay. To remove any toolbar buttons, drag them off of the toolbar onto the desktop. You can also rearrange toolbar buttons by dragging them around on the toolbar. When you have finished, click Done to save your changes.</p>
+
+<p>You can use Spaces and Flexible Spaces to separate groups of buttons; just drag them to the toolbar. You can see spaces and how they work in the default button set at the bottom of the dialog.</p>
+
+<p>Note that, at any time, you can drag the default set of toolbar buttons, which displays at the bottom of the Customize Toolbar dialogue, to the toolbar to reset these buttons to the default. You can also remove any button, at any time, by pressing the Command key and dragging the button to the desktop.</p>
+
+<p>One other option, which you can see both in the first screenshot when right-clicking the toolbar, and in the Customize Toolbar dialogue, is to display icons with text, icons only, or text only. If you display icons only, you&#39;ll be able to fit more buttons on the toolbar. And if you have too many buttons to display on the toolbar, click the &gt;&gt; button at the right of the toolbar to display a menu with additional buttons.</p>
+
+<p>You can also tweak what&#39;s visible in the Formatting Bar; see <a href="https://www.literatureandlatte.com/blog/how-to-use-the-format-bar-header-bar-and-ruler-in-scriveners-editor" target="_blank">this article to learn how to change its options</a>.</p>
+
+How to customize the toolbar on Windows
+
+<p>To customize the toolbar on Windows, choose View &gt; Customize Toolbars. On Windows, you have access to two toolbars: the Main Toolbar, the one with buttons, and the Format Toolbar, the one where you can choose styles, fonts, and other formatting options. See <a href="https://www.literatureandlatte.com/blog/how-to-use-the-format-bar-header-bar-and-ruler-in-scriveners-editor" target="_blank">this article to learn how to work with the Format Bar</a>.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-articles/toolbar3.png" alt=""  />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>To customize the Main Toolbar on Windows, find a button you want to add in the list on the left. Click it to select it, then click the &rarr; button. To move it around among the current buttons, use the &darr; and &uarr; buttons. To remove a button, select it and click the &nbsp; &larr; button. When you&#39;ve finished making changes, click Apply.&nbsp;</p>
+
+<p>On Windows, you can also add Separators and Gaps. Separators are vertical lines that help you see the difference between groups of buttons, and Gaps are spaces that allow you to separate buttons or groups of buttons. You can see that there are already a number of Separators and Gaps in the default button set, so you can see how they display in the toolbar.</p>
+
+<p>If you have too many buttons to display on the toolbar, click the &gt;&gt; button at the right of the toolbar to display a menu with additional buttons.</p>
+
+<p>If you want to reset the toolbar buttons to the default set, click Restore Defaults at the bottom of the dialog.</p>
+
+<p>Have a look at the toolbar and see if there are any buttons that you don&#39;t use and any features that would be practical to have in the toolbar for one-click access. It only takes a few seconds to customize the toolbar, and it can save you a lot of time.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+ 
+
+<https://www.literatureandlatte.com/blog/how-to-customize-the-scrivener-toolbar>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-17, from: Neil Gaiman @ BlueSky)
+
+Um...
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kqc4w2rvzx2p>
 
 ---
 

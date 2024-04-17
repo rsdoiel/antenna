@@ -1,11 +1,475 @@
 ---
 title: pacific 2024.16
-updated: 2024-04-16 14:55:23
+updated: 2024-04-17 08:24:36
 ---
 
 # pacific 2024.16
 
-(date: 2024-04-16 14:55:23)
+(date: 2024-04-17 08:24:36)
+
+---
+
+## Suspect in deadly hit-and-run allegedly was highly intoxicated
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>A 25-year-old Pahoa woman accused of killing a Hilo pedestrian in a hit-and-run incident over the weekend had more three times the legal amount of alcohol in her system.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/hawaii-news/suspect-in-deadly-hit-and-run-allegedly-was-highly-intoxicated/>
+
+---
+
+## Maui Fire Department report on deadly wildfire details need for more equipment and mutual aid plans
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8212; When wildfires broke out across Maui last August, some firefighters carried victims piggyback over downed power lines to safety and sheltered survivors inside their engines. Another drove a moped into a burning neighborhood again and again, whisking people away from danger one at a time.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/hawaii-news/maui-fire-department-report-on-deadly-wildfire-details-need-for-more-equipment-and-mutual-aid-plans/>
+
+---
+
+## Love for ukulele on display at annual event
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>Over 400 kupuna from around the island gathered in Hilo on Tuesday to share their ukulele skills with 10 performances from Hawaii County senior center classes.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/hawaii-news/love-for-ukulele-on-display-at-annual-event/>
+
+---
+
+## Prosecutors and defense lawyers begin to seat jurors for Trump trial
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The daunting work of selecting a jury for the first criminal trial of a former American president rapidly gained momentum Tuesday as seven New Yorkers were picked to sit in judgment of Donald Trump, accelerating a crucial phase of the case that many had expected to be a slog.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/nation-world-news/prosecutors-and-defense-lawyers-begin-to-seat-jurors-for-trump-trial/>
+
+---
+
+## Your Views for April 17
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>Think about animals&#0010;during disaster prep</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/opinion/your-views-for-april-17-8/>
+
+---
+
+## Florida aims to protect teens from social media addiction
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>Studies show that young children and social media can be a bad combination. Florida is doing something about it.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/opinion/florida-aims-to-protect-teens-from-social-media-addiction/>
+
+---
+
+## Iran’s attack failed. Its threat to peace remains
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>Though largely thwarted by Israel and its allies, the assault launched by Iran against the Jewish state over the weekend was a powerful reminder that the Tehran regime remains the biggest threat to peace in the Middle East. Israel&#8217;s security would be best served now through resolve and restraint, rather than military escalation. Iranian leaders tried to portray Saturday&#8217;s attack as a proportional response to a presumed Israeli strike that killed a top Iranian commander and several advisers in Damascus, Syria, on April 1. The operation involved more than 300 drones and cruise and ballistic missiles, with Iran attacking Israel from its own territory for the first time. The assault dramatically increased the risk of a regionwide war, even if Iran hoped the matter was now &#8220;concluded.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/opinion/irans-attack-failed-its-threat-to-peace-remains/>
+
+---
+
+## UHH softball sweeps Chaminade; baseball splits
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p><strong>SOFTBALL</strong></p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/sports/uhh-softball-sweeps-chaminade-baseball-splits/>
+
+---
+
+## Scientology tried to ‘derail’ star’s rape trial by harassing prosecutor, suit says; church calls claim ‘false’
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Nearly six months after actor Danny Masterson was convicted of sexually assaulting two fellow members of the Church of Scientology, lawyers for his victims filed a document that contained a stunning new allegation against the faith.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/nation-world-news/scientology-tried-to-derail-stars-rape-trial-by-harassing-prosecutor-suit-says-church-calls-claim-false/>
+
+---
+
+## LeBron James and the Lakers secure a playoff berth with 110-106 win over the Pelicans
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>NEW ORLEANS &#8212; LeBron James had 23 points, nine assists and nine rebounds, and the Los Angeles Lakers secured a playoff berth with a 110-106 victory over the New Orleans Pelicans in the Western Conference play-in tournament on Tuesday night. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/sports/lebron-james-and-the-lakers-secure-a-playoff-berth-with-110-106-win-over-the-pelicans/>
+
+---
+
+## BIIF volleyball: Pahoa sweeps Ka‘u; Kanu making late-season playoff push
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p><strong>PAHOA 3 - KA&#8216;U 0</strong></p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/sports/biif-volleyball-pahoa-sweeps-kau-kanu-making-late-season-playoff-push/>
+
+---
+
+## BIIF judo: Hilo boys and girls take BIIF titles
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA-KONA &#8212; The Big Island Interscholastic Federation (BIIF) judo season wrapped up Saturday at Kealakehe High School, and perhaps nobody is happier than the Hilo boys and girls teams.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/sports/biif-judo-hilo-boys-and-girls-take-biif-titles/>
+
+---
+
+## Nevada’s Republican fake electors accuse state of withholding exculpatory evidence
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>LAS VEGAS &#8212; Attorneys representing Nevada&#8217;s Republican electors who submitted fake electoral documents falsely declaring Donald Trump the winner of the Silver State are accusing the state of withholding evidence that could clear them of wrongdoing.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/nation-world-news/nevadas-republican-fake-electors-accuse-state-of-withholding-exculpatory-evidence/>
+
+---
+
+## Sen. Menendez, charged in bribery scheme, may blame his wife
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>Sen. Bob Menendez, D-N.J., may blame his wife, Nadine Menendez, for the bribery charges the couple is facing by claiming that she hid information from him and led him to believe that &#8220;nothing unlawful was taking place,&#8221; according to court papers unsealed on Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/nation-world-news/sen-menendez-charged-in-bribery-scheme-may-blame-his-wife/>
+
+---
+
+## Fed’s Powell: Elevated inflation will likely delay rate cuts this year
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (AP) &#8212; Federal Reserve Chair Jerome Powell cautioned Tuesday that persistently elevated inflation will likely delay any Fed interest rate cuts until later this year, opening the door to a period of higher-for-longer rates.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/nation-world-news/feds-powell-elevated-inflation-will-likely-delay-rate-cuts-this-year/>
+
+---
+
+## Biden bashes Trump as a pawn of billionaires as he lays out his tax plan
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>SCRANTON, Pa. &#8212; President Joe Biden delivered a flurry of attacks on former President Donald Trump during a Tuesday speech in Pennsylvania about taxes and economic policy, painting his Republican rival as a puppet of plutocrats who had ignored the working class.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/nation-world-news/biden-bashes-trump-as-a-pawn-of-billionaires-as-he-lays-out-his-tax-plan/>
+
+---
+
+## Yellen says Iran’s actions could cause global economic spillovers as White House vows new sanctions
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Treasury Secretary Janet Yellen warned Tuesday of potential global economic damage from rising tensions in the Middle East as the Biden administration said it was readying new sanctions in response to Iran&#8217;s malevolent activity in the region.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/nation-world-news/yellen-says-irans-actions-could-cause-global-economic-spillovers-as-white-house-vows-new-sanctions/>
+
+---
+
+## Biden’s latest plan for student loan cancellation moves forward as a proposed regulation
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden&#8217;s latest plan for student loan cancellation is moving forward as a proposed regulation, offering him a fresh chance to deliver on a campaign promise and energize young voters ahead of the November election.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/nation-world-news/bidens-latest-plan-for-student-loan-cancellation-moves-forward-as-a-proposed-regulation/>
+
+---
+
+## Facing a Republican revolt, House Speaker Johnson pushes ahead on US aid for Ukraine, allies
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Defiant and determined, House Speaker Mike Johnson pushed back Tuesday against mounting Republican anger over his proposed U.S. aid package for Ukraine, Israel and other allies, and rejected a call to step aside or risk a vote to oust him from office.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/nation-world-news/facing-a-republican-revolt-house-speaker-johnson-pushes-ahead-on-us-aid-for-ukraine-allies/>
+
+---
+
+## USC cancels valedictorian’s speech after pro-Israel groups object
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>The University of Southern California said it has canceled plans for a graduation speech by this year&#8217;s valedictorian, Asna Tabassum, who is Muslim. The school said the decision stemmed from security concerns based on emails and other electronic communications warning of a plan to disrupt the commencement, including at least one that targeted Tabassum.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/nation-world-news/usc-cancels-valedictorians-speech-after-pro-israel-groups-object/>
+
+---
+
+## Supreme Court questions obstruction charges brought against Jan. 6 rioters and Trump
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p> The Supreme Court on Tuesday questioned whether federal prosecutors went too far in bringing obstruction charges against hundreds of participants in the Jan. 6, 2021, Capitol riot. But it wasn&#8217;t clear how the justices would rule in a case that also could affect the prosecution of former President Donald Trump, who faces the same charge for his efforts to overturn his election loss in 2020.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/nation-world-news/supreme-court-questions-obstruction-charges-brought-against-jan-6-rioters-and-trump/>
+
+---
+
+## Obituaries for April 17
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>Lawrence &#8220;Skip&#8221; Lee Black, 60, of Keaau died April 4 at Hilo Medical Center. Born in Honolulu, he was retired. Private services held. Survived by wife, Loriann Black of Keaau; children, Cheynne Black and Jonah Black of Keaau, Tiana Black of Sweden; stepchildren, Zachry Hernandez of Las Vegas and Jordan Hernandez of Georgia; mother, Dianna Black of Kailua, Oahu; brother, Lewis Black Jr. of Kailua, Oahu; mother-in-law, Rosita Yoro of Keaau; nine grandchildren. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/obituaries/obituaries-for-april-18-6/>
+
+---
+
+## Guam GDP rose 5.1% in 2022
+
+date: 2024-04-17, from: Guam Daily Post
+
+The island's real gross domestic product increased 5.1% in 2022 after going up 2.1% in 2021, according to a recent release from the U.S. Bureau of Economic Analysis. This increase is a reflection of increases in exports, private fixed investment,… 
+
+<https://www.postguam.com/news/guam-gdp-rose-5-1-in-2022/article_55b1db58-fc73-11ee-b4ff-db387bb4fa53.html>
+
+---
+
+## Judge may recuse self from homicide case
+
+date: 2024-04-17, from: Guam Daily Post
+
+A judge may be recused from a homicide case because of his past representation of a witness in the case during his time as a private defense attorney. 
+
+<https://www.postguam.com/news/local/judge-may-recuse-self-from-homicide-case/article_2ef61b9e-fc61-11ee-b63f-1be8d769799f.html>
+
+---
+
+## 3rd Moore shooting trial set for April 30
+
+date: 2024-04-17, from: Guam Daily Post
+
+ 
+
+<https://www.postguam.com/news/local/3rd-moore-shooting-trial-set-for-april-30/article_3f239446-fc53-11ee-9bc4-932bc5b22598.html>
+
+---
+
+## Bill proposes labeling standards,  random testing of bottled water
+
+date: 2024-04-17, from: Guam Daily Post
+
+Sen. Sabina Perez has introduced new legislation proposing standard labeling and testing requirements for bottled water on Guam. 
+
+<https://www.postguam.com/news/local/bill-proposes-labeling-standards-random-testing-of-bottled-water/article_18a823a8-fc63-11ee-a91c-470c42c01912.html>
+
+---
+
+## Man, 57, given 25-year sentence  for raping 3 girls over 9-year span
+
+date: 2024-04-17, from: Guam Daily Post
+
+A 57-year-old man was sentenced to serve 25 years in prison for raping three female minors. 
+
+<https://www.postguam.com/news/local/man-57-given-25-year-sentence-for-raping-3-girls-over-9-year-span/article_791d1706-fc5a-11ee-a33d-876f25de993c.html>
+
+---
+
+## Complaint: Woman flew to Guam with ecstasy, Xanax
+
+date: 2024-04-17, from: Guam Daily Post
+
+A 29-year-old woman allegedly flew to Guam with an assortment of drugs that included ecstasy, or MDMA, and Xanax. 
+
+<https://www.postguam.com/news/local/complaint-woman-flew-to-guam-with-ecstasy-xanax/article_7f071ed0-fc6b-11ee-8733-fbb60951b467.html>
+
+---
+
+## Hawaiian Word of the Week: ʻApelila
+
+date: 2024-04-17, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> &#699;Apelila&#8212;April.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/16/hawaiian-word-of-the-week-apelila/">Hawaiian Word of the Week: ʻApelila</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/16/hawaiian-word-of-the-week-apelila/>
+
+---
+
+## Bureau of Economic Analysis: Guam posts 5.1 % GPD growth 
+
+date: 2024-04-17, from: Pacific Island Times
+
+By Pacific Island Times News Staff Guam's economy posted a 5.1 percent growth in the real gross domestic product in 2022, driven by the... 
+
+<https://www.pacificislandtimes.com/post/bureau-of-economic-analysis-guam-posts-5-1-gpd-growth>
+
+---
+
+## Pacific island countries gear up for talks on revised draft Plastics Treaty
+
+date: 2024-04-17, from: Pacific Island Times
+
+By Pacific Island Times News Staff Pacific island nations are headed to Canada this month to advocate for the region's priorities at the... 
+
+<https://www.pacificislandtimes.com/post/pacific-island-countries-gear-up-for-talks-on-revised-draft-plastics-treaty>
+
+---
+
+## Bureau of Economic Analysis: Guam's GDP growth robust +5.1%
+
+date: 2024-04-17, updated: 2024-04-17, from: Marianas Variety
+
+HAGÅTÑA (Office of the Guam Governor) — This week, the Bureau of Economic Analysis announced Guam's remarkable economic achievements in 2022, showcasing a robust growth in the Real Gross Domestic Product of 5.1%.  The announcement follows a productive virtual meeting with representatives from the Bureau of Economic Analysis on Tuesday morning. 
+
+<https://www.mvariety.com/news/regional_world/bureau-of-economic-analysis-guams-gdp-growth-robust-5-1/article_9b6878da-fc7f-11ee-96af-877a6fcc750c.html>
+
+---
+
+## University of Hawaiʻi Foundation raises $593,538 on first UH Giving Day
+
+date: 2024-04-17, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The University of <span aria-label="Hawaii">Hawai&#699;i</span> <span aria-label="ohana">&#699;ohana</span> came together for the first <abbr>UH</abbr> Giving Day, raising $593,538.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/16/first-uh-giving-day/">University of Hawaiʻi Foundation raises $593,538 on first <abbr>UH</abbr> Giving Day</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/16/first-uh-giving-day/>
+
+---
+
+## 8 basketball ‘Bows awarded academic honors
+
+date: 2024-04-17, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Three players from the men’s basketball and five from the women’s basketball team were recognized for their academic excellence.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/16/8-bows-awarded-academic-honors/">8 basketball ‘Bows awarded academic honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/16/8-bows-awarded-academic-honors/>
+
+---
+
+## Track and field thrower achieves Big West Field Athlete honors
+
+date: 2024-04-17, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Hallee Mohr leads the Big West mark at 55.53<abbr title="meters">m</abbr> (182-2).</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/16/thrower-achieves-big-west-honors/">Track and field thrower achieves Big West Field Athlete honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/16/thrower-achieves-big-west-honors/>
+
+---
+
+## SAFE awards outstanding first-year students
+
+date: 2024-04-17, from: University of the South Pacific (Fiji)
+
+<p>Outstanding first-year students in Accounting and Economics and top-scoring Year 13 students in both these...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/safe-awards-outstanding-first-year-students/">SAFE awards outstanding first-year students</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/safe-awards-outstanding-first-year-students/>
+
+---
+
+## Eclipse thrills UH Hilo astronomer
+
+date: 2024-04-17, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>UH</abbr> Hilo Associate Professor Pierre Martin was one of the millions of people in Texas who observed the April 2024 eclipse in Texas.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/16/eclipse-thrills-uh-hilo-astronomer/">Eclipse thrills <abbr>UH</abbr> Hilo astronomer</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/16/eclipse-thrills-uh-hilo-astronomer/>
+
+---
+
+## GDOE corrects deficiencies in Head Start program
+
+date: 2024-04-17, from: Guam Daily Post
+
+The Guam Department of Education has successfully addressed deficiencies identified in March 2023 monitoring reports from the Office of Head Start, the department announced in a release. 
+
+<https://www.postguam.com/news/gdoe-corrects-deficiencies-in-head-start-program/article_cb436a36-fc54-11ee-97e8-53efbbfc6c09.html>
+
+---
+
+## Culinary Institute of America training chefs at Culinary Institute of the Pacific
+
+date: 2024-04-17, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The program is designed for both professional chefs and people aspiring to join the foodservice and hospitality workforce</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/16/cia-training-chefs-at-cip/">Culinary Institute of America training chefs at Culinary Institute of the Pacific</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/16/cia-training-chefs-at-cip/>
+
+---
+
+## Climate change impacts on Koʻolau Poko focus of new collaboration
+
+date: 2024-04-16, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>UH</abbr> M&#257;noa researchers participated in the kick-off meeting hosted by the Marine Corps Base <span aria-label="Hawaii">Hawai&#699;i</span> for the <span aria-label="Koolau">Ko&#699;olau</span> Poko Resilience Review project.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/16/climate-change-koolau-poko/">Climate change impacts on Koʻolau Poko focus of new collaboration</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/16/climate-change-koolau-poko/>
+
+---
+
+## $950K to support next generation of climate change researchers in Hawaiʻi
+
+date: 2024-04-16, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> The Institute for Sustainability and Resilience received $950,000 from the Healy Foundation to support a five-year cohort of Healy Climate Fellows.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/16/950k-climate-change-researchers/">$950K to support next generation of climate change researchers in Hawaiʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/16/950k-climate-change-researchers/>
 
 ---
 
@@ -50,6 +514,96 @@ date: 2024-04-16, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/04/16/patsy-t-minks-legacy-and-impact/">Q&A: Patsy T. Mink’s legacy and impact</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/04/16/patsy-t-minks-legacy-and-impact/>
+
+---
+
+## SBDC Network to host two-part training series on becoming procurement-ready
+
+date: 2024-04-16, updated: 2024-04-17, from: Marianas Variety
+
+(SBDC) — In its efforts to expand access to economic opportunities for the Commonwealth's business communities, the CNMI Small Business Development Center Network is proud to announce "Federal Contracting 101: Pre-positioning Your Business to Be Procurement-ready," a comprehensive training session designed to arm local businesses in developing their capacity towards bidding for military and/or federal contracts. 
+
+<https://www.mvariety.com/business/business_news/sbdc-network-to-host-two-part-training-series-on-becoming-procurement-ready/article_63338f28-fbf7-11ee-acad-ebfaa209d627.html>
+
+---
+
+## Contractor suspends crane services to Rota Terminal
+
+date: 2024-04-16, updated: 2024-04-17, from: Marianas Variety
+
+INTERNATIONAL Bridge &amp; Construction Marianas Inc., the contractor that provides equipment to Rota Terminal &amp; Transfer, has informed the Commonwealth Ports Authority that it has suspended its crane services to the stevedoring company. 
+
+<https://www.mvariety.com/news/local/contractor-suspends-crane-services-to-rota-terminal/article_c6521f80-fbc9-11ee-b3b3-7743d7b344a7.html>
+
+---
+
+## HK High Court orders liquidation of IPI Holdings
+
+date: 2024-04-16, updated: 2024-04-17, from: Marianas Variety
+
+THE High Court of Hong Kong has ordered Imperial Pacific International Holdings Ltd. to be “wound up,” with a provisional liquidator appointed, according to GGRAsia, a Macau-based website and newsletter that reports on the Asian gaming industry. 
+
+<https://www.mvariety.com/news/local/hk-high-court-orders-liquidation-of-ipi-holdings/article_858171d0-fbd4-11ee-b409-df1566376046.html>
+
+---
+
+## Zaji: ‘I shall not be silenced’
+
+date: 2024-04-16, updated: 2024-04-17, from: Marianas Variety
+
+SAYING he shall not be silenced, Zaji Obatala Zajradhara has filed a lawsuit against Northern Marianas College in federal court, demanding $100 million. 
+
+<https://www.mvariety.com/news/local/zaji-i-shall-not-be-silenced/article_13be9f5c-fbd2-11ee-ad8c-7bc1b646a157.html>
+
+---
+
+## Earth Day-themed Mini Night Market coming to Chalan Kanoa
+
+date: 2024-04-16, updated: 2024-04-17, from: Marianas Variety
+
+LOCAL Girls Marianas on Tuesday announced that they will honor Earth Day with a Mini Night Market on April 22 at the Saipan and Northern Islands Memorial Kiosku in Chalan Kanoa. 
+
+<https://www.mvariety.com/lifestyle/earth-day-themed-mini-night-market-coming-to-chalan-kanoa/article_6b406564-fbdf-11ee-9f7d-dbcd485c79df.html>
+
+---
+
+## Analysis: Hush money trial could help Trump in 2024 presidential race
+
+date: 2024-04-16, updated: 2024-04-17, from: Marianas Variety
+
+(Reuters) — When Donald Trump was indicted a bit more than a year ago over hush money paid to a porn star, it turbocharged the Republican's presidential campaign. He surged ahead of his rivals for the White House nomination, gaining a lead he never relinquished. 
+
+<https://www.mvariety.com/news/national/analysis-hush-money-trial-could-help-trump-in-2024-presidential-race/article_fb02dd72-fc01-11ee-85f0-6f4d8a0486fb.html>
+
+---
+
+## Certificate of appreciation
+
+date: 2024-04-16, updated: 2024-04-17, from: Marianas Variety
+
+The Japanese Society of the Northern Mariana Islands paid a visit to Saipan Mayor RB Camacho recently to formally introduce themselves and their new members. They thanked the mayor for his support, and asked that he continue his support for the Japanese Society. Photo shows the mayor receiving a certificate of appreciation from Seiji Sato, the group’s chairman. 
+
+<https://www.mvariety.com/lifestyle/certificate-of-appreciation/article_ff0624f6-fc06-11ee-ba69-23a41422a490.html>
+
+---
+
+## NMC, 500 Sails to host traditional navigation workshop
+
+date: 2024-04-16, updated: 2024-04-17, from: Marianas Variety
+
+(NMC) — Interested community members on Saipan who are looking to learn more about the foundational principles and essential knowledge that have guided seafarers for centuries are invited to register for a four-week traditional navigation program hosted by Northern Marianas College’s Community Development Institute in collaboration with 500 Sails. 
+
+<https://www.mvariety.com/lifestyle/nmc-500-sails-to-host-traditional-navigation-workshop/article_4e7ca5f0-fc07-11ee-bd27-13451e64e642.html>
+
+---
+
+## SCS holds Art and Young Writers Showcase at Crowne Plaza Resort Saipan
+
+date: 2024-04-16, updated: 2024-04-17, from: Marianas Variety
+
+(Special Advertising Feature) — Come join us at the Crowne Plaza Resort Saipan for an evening packed with flavor, music, and creativity! Join us at Mari Bar's Loco Local BBQ Street Market with the chance to view an exclusive Art Show and Young Writers Showcase by the talented students at Saipan Community School on Thursday, April 18, from 5 p.m. to 9:30 p.m. 
+
+<https://www.mvariety.com/lifestyle/scs-holds-art-and-young-writers-showcase-at-crowne-plaza-resort-saipan/article_75131e0c-fc06-11ee-b2d8-87aec5ab8a52.html>
 
 ---
 
@@ -143,16 +697,6 @@ WITH 10 seconds left on the clock, a defensive rebound found Pegs’ James Kintz
 
 ---
 
-## Earth Day-themed Mini Night Market coming to Chalan Kanoa
-
-date: 2024-04-16, updated: 2024-04-16, from: Marianas Variety
-
-LOCAL Girls Marianas on Tuesday announced that they will honor Earth Day with a Mini Night Market on April 22 at the Saipan and Northern Islands Memorial Kiosku in Chalan Kanoa. 
-
-<https://www.mvariety.com/lifestyle/earth-day-themed-mini-night-market-coming-to-chalan-kanoa/article_6b406564-fbdf-11ee-9f7d-dbcd485c79df.html>
-
----
-
 ## Pacific island states affected by global bleaching event, scientists say
 
 date: 2024-04-16, from: Pacific Island Times
@@ -173,7 +717,7 @@ Superior Court of Guam Judge Arthur Barcinas has denied a motion to dismiss the 
 
 ---
 
-## Decriminalisation of same-sex relations in Cook Islands
+## Decriminalization of same-sex relations in Cook Islands
 
 date: 2024-04-16, from: Pacific Island Times
 
@@ -454,6 +998,18 @@ date: 2024-04-16, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/04/16/community/lets-talk-food-big-island-chocolate-festival/>
+
+---
+
+## Hawaiian Electric: Conserve power to help avoid rolling blackouts tonight
+
+date: 2024-04-16, from: Hawaii Tribune Harold
+
+
+				<p>Hawaiian Electric this afternoon urged all customers on Hawaii Island to continue to reduce their electricity use to prevent the need for brief rolling outages tonight.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/16/hawaii-news/hawaiian-electric-conserve-power-to-help-avoid-rolling-blackouts-tonight/>
 
 ---
 

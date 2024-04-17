@@ -1,11 +1,249 @@
 ---
 title: socal north 2024.16
-updated: 2024-04-16 14:55:22
+updated: 2024-04-17 08:24:35
 ---
 
 # socal north 2024.16
 
-(date: 2024-04-16 14:55:22)
+(date: 2024-04-17 08:24:35)
+
+---
+
+## Prom Prep Starts Early For These Students Who Grow The Flowers Themselves
+
+date: 2024-04-17, updated: 2024-04-17, from: The LAist
+
+Floriculture blends science, sustainability, financial literacy, and creativity. At Sylmar Charter High, the school’s gardens also invite a rare moment of calm in a hectic high school day. 
+
+<https://laist.com/news/education/sylmar-charter-high-school-floriculture-horticulture-program-prom-flowers>
+
+---
+
+## Senate addresses state of USG, budget
+
+date: 2024-04-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Senators discussed and then passed several amendments to the body’s constitution.  </p>
+<p>The post <a href="https://dailytrojan.com/2024/04/17/usg-addresses-state-of-the-union-budget/">Senate addresses state of USG, budget</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/17/usg-addresses-state-of-the-union-budget/>
+
+---
+
+## Classifieds – April 17, 2024
+
+date: 2024-04-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/17/classifieds-april-17-2024/">Classifieds &#8211; April 17, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/17/classifieds-april-17-2024/>
+
+---
+
+## I’m not counting on DEI
+
+date: 2024-04-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>I’m the director of Diversity, Equity and Inclusion at the Daily Trojan.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/17/im-not-counting-on-dei/">I’m not counting on DEI</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/17/im-not-counting-on-dei/>
+
+---
+
+## Celebrations, goodbyes take center stage at SSO
+
+date: 2024-04-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Student Symphony Orchestra underlined their seniors and original scores.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/17/celebrations-goodbyes-take-center-stage-at-sso/">Celebrations, goodbyes take center stage at SSO</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/17/celebrations-goodbyes-take-center-stage-at-sso/>
+
+---
+
+## Men’s volleyball playoffs to take over campus
+
+date: 2024-04-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans seek their first conference title since 2009 at the MPSF tournament. </p>
+<p>The post <a href="https://dailytrojan.com/2024/04/17/playoff-mens-volleyball-takes-over-campus/">Men’s volleyball playoffs to take over campus</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/17/playoff-mens-volleyball-takes-over-campus/>
+
+---
+
+## The appreciation and rejection of purely functional fashion
+
+date: 2024-04-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Fashion and functionality do not always go hand in hand, but they can when considering individuality, growth and the element of surprise.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/17/the-appreciation-and-rejection-of-purely-functional-fashion/">The appreciation and rejection of purely functional fashion</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/17/the-appreciation-and-rejection-of-purely-functional-fashion/>
+
+---
+
+## The opinions that didn’t make it, part three
+
+date: 2024-04-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Not every opinion I had made it into its own column.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/17/208300/">The opinions that didn’t make it, part three</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/17/208300/>
+
+---
+
+## Community learns about Armenian genocide
+
+date: 2024-04-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A lecture by the Institute of Armenian Studies shed light on its historical context.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/17/community-learns-about-armenian-genocide/">Community learns about Armenian genocide</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/17/community-learns-about-armenian-genocide/>
+
+---
+
+## LACMA delivers historic Ruscha retrospective
+
+date: 2024-04-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The exhibit “ED RUSCHA / NOW THEN” features works from the figure of L.A. art. Angeles art.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/17/lacma-delivers-historic-ruscha-retrospective/">LACMA delivers historic Ruscha retrospective</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/17/lacma-delivers-historic-ruscha-retrospective/>
+
+---
+
+## Opinion: Armenian cultural week is an important tribute to resilience, identity
+
+date: 2024-04-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sona Nalbandian is performing &#8220;Kamancha&#8221; on the aptly named four-stringed instrument, the kamancha.
+As the fourth-year ethnomusicology student plays, I feel the history of an entire people in the rippling vibrations of the strings. 
+
+<https://dailybruin.com/2024/04/16/opinion-armenian-cultural-week-is-an-important-tribute-to-resilience-identity/>
+
+---
+
+## Road to Royce: Student bands face off for chance to perform at historic Royce Hall
+
+date: 2024-04-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Student bands battled it out onstage at UCLA&#8217;s newest venue for a chance to perform at the university&#8217;s most historic one.
+Co-hosted by the Student Committee for the Arts and UCLA Radio, the Road to Royce took place Monday night at the UCLA Nimoy Theater and gave four student groups the opportunity to compete for an opening spot at SCA&#8217;s Royce Hall show May 16. 
+
+<https://dailybruin.com/2024/04/16/road-to-royce-student-bands-face-off-for-chance-to-perform-at-historic-royce-hall/>
+
+---
+
+## Editorial Cartoon: “Coughing Fits and Fits of Rage”
+
+date: 2024-04-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<https://dailybruin.com/2024/04/16/editorial-cartoon-coughing-fits-and-fits-of-rage/>
+
+---
+
+## USAC 2024 election features 40 candidates, 1 referendum
+
+date: 2024-04-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA undergraduate students will vote on 40 candidates and one referendum in the upcoming Undergraduate Students Association Council election.
+Voting will open on the MyUCLA website May 3 at 2 p.m. 
+
+<https://dailybruin.com/2024/04/16/usac-2024-election-features-40-candidates-1-referendum/>
+
+---
+
+## Review: Lanthimos’ Oscar-winning “Poor Things” is an unhinged yet impactful masterpiece
+
+date: 2024-04-17, from: The Sundail (CSUN Student Newspaper)
+
+Yorgos Lanthimos’ most recent film, “Poor Things” won four Oscars and was the second most awarded film of the night behind “Oppenheimer.” The film won Best Production Design, Best Hair... 
+
+<https://sundial.csun.edu/180802/arts-entertainment/review-lanthimos-oscar-winning-poor-things-is-an-unhinged-yet-impactful-masterpiece/>
+
+---
+
+## 8E8 Thai Street Food’s rise to the top of the UCLA food truck chain
+
+date: 2024-04-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 16 at 10:05 p.m.&#160;</em>
+When Montre Liwirun moved from Thailand to the United States in 1991, he did not want to get into the food business. 
+
+<https://dailybruin.com/2024/04/16/8e8-thai-street-foods-rise-to-the-top-of-the-ucla-food-truck-chain/>
+
+---
+
+## Student organizations say: Let our valedictorian speak at commencement
+
+date: 2024-04-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Our open letter has been co-signed by 54 University student and local organizations.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/16/student-organizations-say-let-our-valedictorian-speak-at-commencement/">Student organizations say: Let our valedictorian speak at commencement</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/16/student-organizations-say-let-our-valedictorian-speak-at-commencement/>
+
+---
+
+## UCLA Store to accept on-campus meal swipes in market
+
+date: 2024-04-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Store announced it will accept meal swipes for residents living on the Hill. 
+Students previously could exchange meal swipes in the 2022-2023 academic year, but the ability to do so was removed this academic year. 
+
+<https://dailybruin.com/2024/04/16/ucla-store-to-accept-on-campus-meal-swipes-in-market/>
+
+---
+
+## Q&A: ‘Multiple Talking Women’ hosts discuss origins of podcast, importance of improv
+
+date: 2024-04-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Returning to their old stomping ground, the “Multiple Talking Women” are honoring their comedic roots.
+The improvised satirical podcast performed a live recorded episode, featuring special guests Bob Odenkirk, Michaela Watkins and Maggie Baird in celebration of The Groundlings Theatre’s 50th anniversary Friday. 
+
+<https://dailybruin.com/2024/04/16/qa-multiple-talking-women-hosts-discuss-origins-of-podcast-importance-of-improv/>
+
+---
+
+## Ira’s Intuition: UCLA men’s volleyball sophomore trio crushes, crumples, cuts its competition
+
+date: 2024-04-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 16 at 8:36 p.m.</em>
+Rock, paper, scissors.
+Its beauty lies in its simplicity and universality, an apt game to break the monotony of dull moments. 
+
+<https://dailybruin.com/2024/04/16/iras-intuition-ucla-mens-volleyball-sophomore-trio-crushes-crumples-cuts-its-competition/>
+
+---
+
+## Former Brooklyn And Los Angeles Dodgers Pitcher And Special Olympics Advocate Carl Erskine Dies At 97
+
+date: 2024-04-16, updated: 2024-04-16, from: The LAist
+
+Erskine had two career no-hitters and won a World Series with the Dodgers in 1955. But many remember his friendship with Jackie Robinson at a time when segregation was legal. 
+
+<https://laist.com/news/la-history/former-brooklyn-and-los-angeles-dodgers-pitcher-and-special-olympics-advocate-carl-erskine-dies-at-97>
 
 ---
 
@@ -25,7 +263,8 @@ date: 2024-04-16, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-04-16, from: The Daily Bruin (UCLA Student Newspaper)
 
-No. 1 seed UCLA men&#8217;s volleyball (22-4, 11-1 MPSF) attained a first-round bye to propel itself directly into Thursday&#8217;s semifinal against Wednesday&#8217;s winner of No. 4 seed Pepperdine and No. 
+<em>This post was updated April 16 at 8:51 p.m.</em>
+No. 1 seed UCLA men’s volleyball (22-4, 11-1 MPSF) attained a first-round bye to propel itself directly into Thursday’s semifinal against Wednesday’s winner of No. 
 
 <https://dailybruin.com/2024/04/16/ucla-mens-volleyball-mpsf-tournament-predictions-2024/>
 
@@ -35,8 +274,8 @@ No. 1 seed UCLA men&#8217;s volleyball (22-4, 11-1 MPSF) attained a first-round 
 
 date: 2024-04-16, from: The Daily Bruin (UCLA Student Newspaper)
 
-Kirk Walker was intentional when choosing Friday&#8217;s series opener against California as the date for UCLA softball&#8217;s Pride Game.
-&#8220;I knew when we picked this date &#8211; it was on purpose. 
+<em>This post was updated April 16 at 8:31 p.m.</em>
+Kirk Walker was intentional when choosing Friday&#8217;s series opener against California as the date for UCLA softball&#8217;s Pride Game. 
 
 <https://dailybruin.com/2024/04/16/ucla-softball-celebrates-lgbtq-community-at-pride-game/>
 
@@ -46,7 +285,8 @@ Kirk Walker was intentional when choosing Friday&#8217;s series opener against C
 
 date: 2024-04-16, from: The Daily Bruin (UCLA Student Newspaper)
 
-Mick Cronin is gradually piecing together his roster.&#160;
+<em>This post was updated April 16 at 8:23 p.m.</em>
+Coach Mick Cronin is gradually piecing together his roster.&#160;
 Tuesday morning, the 2024-2025 mosaic gained another member – this time with a Big 12 shine.&#160;
 Former Oklahoma State forward Eric Dailey Jr. 
 
@@ -58,7 +298,8 @@ Former Oklahoma State forward Eric Dailey Jr.
 
 date: 2024-04-16, from: The Daily Bruin (UCLA Student Newspaper)
 
-Class of 2024 Bruins will hear from UCLA alumnus and actor Sean Astin at the UCLA College commencement June 14, UCLA announced Tuesday.&#160;
+<em>This post was updated April 16 at 10:01 p.m.&#160;</em>
+Class of 2024 Bruins will hear from UCLA alumnus and actor Sean Astin at the UCLA College commencement June 14, the university announced Tuesday.&#160;
 Astin graduated from UCLA with honors in 1997 after transferring from Los Angeles Valley College. 
 
 <https://dailybruin.com/2024/04/16/sean-astin-announced-as-keynote-speaker-at-ucla-college-commencement-ceremonies/>
@@ -195,6 +436,16 @@ date: 2024-04-16, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
+## Community in support of Israel expresses concern over ASLMU divestment legislation
+
+date: 2024-04-16, from: Laloyolan (LMU Student Newspaper)
+
+Many members of the Jewish community on campus were surprised to hear about ASLMU’s pending legislation to abstain funds from pro-Israel companies, which the ASLMU senate passed on Thursday, April 4. The documents — a resolution and a pending bylaw… 
+
+<https://www.laloyolan.com/news/community-in-support-of-israel-expresses-concern-over-aslmu-divestment-legislation/article_f47c8360-fbaa-11ee-bac4-8bab46dbfac9.html>
+
+---
+
 ## Breaking down the Vatican's comments on gender-affirming surgery
 
 date: 2024-04-16, from: Laloyolan (LMU Student Newspaper)
@@ -225,6 +476,16 @@ Over 100 members of the LMU community protested on Monday, April 15 following AS
 
 ---
 
+## Inside the ASLMU divestment veto decision
+
+date: 2024-04-16, from: Laloyolan (LMU Student Newspaper)
+
+On Thursday, April 11, ASLMU President Drew Hartz vetoed the senate legislation to abstain funds from companies on the Boycott, Divestment and Sanctions (BDS) and ASLMU’s own curated cease-to-purchase list. This decision was met with heavy backlash on social media.… 
+
+<https://www.laloyolan.com/news/inside-the-aslmu-divestment-veto-decision/article_924ea45e-b6fc-56bc-b70a-4839f2f02db1.html>
+
+---
+
 ## ‘WE DON’T TRUST YOU’ and ‘WE STILL DON’T TRUST YOU’ light a spark in hip-hop
 
 date: 2024-04-16, from: The Daily Trojan (USC Student Newspaper)
@@ -241,6 +502,7 @@ date: 2024-04-16, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-04-16, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated April 16 at 8:12 p.m.</em>
 Moreno Valley local Charisma Osborne is taking her talents to the Valley of the Sun.&#160;
 The former UCLA women’s basketball guard and the program’s second-leading scorer was drafted as the No. 
 
@@ -318,8 +580,9 @@ date: 2024-04-15, from: City of Santa Clarita
 
 date: 2024-04-15, from: The Daily Bruin (UCLA Student Newspaper)
 
-A new face will stand on the Bruins’ sideline next season.
-UCLA men’s soccer announced the hiring of former Tulsa associate head coach Jose Robles as the program’s newest assistant coach Wednesday. 
+<em>This post is updated April 16 at 8:43 p.m.</em>
+A new face will appear on the Bruins’ sideline next season.
+UCLA men’s soccer announced the hiring of former Tulsa associate head coach Jose Robles as the program’s newest assistant coach April 10. 
 
 <https://dailybruin.com/2024/04/15/ucla-mens-soccer-hires-tulsas-jose-robles-as-new-assistant-coach/>
 
@@ -359,12 +622,12 @@ date: 2024-04-15, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## After Jewish student’s mezuzah torn from doorway, worries of campus antisemitism grow anew
+## After Jewish student says mezuzah torn from doorway, worries of campus antisemitism grow anew
 
 date: 2024-04-15, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The Department of Public Safety said it didn’t find evidence of a hate crime. But Bella Yadegar says the incident still left her on edge.</p>
-<p>The post <a href="https://dailytrojan.com/2024/04/15/after-jewish-students-mezuzah-torn-from-doorway-worries-of-campus-antisemitism-grow-anew/">After Jewish student&#8217;s mezuzah torn from doorway, worries of campus antisemitism grow anew</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/15/after-jewish-students-mezuzah-torn-from-doorway-worries-of-campus-antisemitism-grow-anew/">After Jewish student says mezuzah torn from doorway, worries of campus antisemitism grow anew</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2024/04/15/after-jewish-students-mezuzah-torn-from-doorway-worries-of-campus-antisemitism-grow-anew/>

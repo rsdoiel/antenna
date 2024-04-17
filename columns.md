@@ -1,11 +1,198 @@
 ---
 title: columns 2024.16
-updated: 2024-04-16 14:55:23
+updated: 2024-04-17 08:24:36
 ---
 
 # columns 2024.16
 
-(date: 2024-04-16 14:55:23)
+(date: 2024-04-17 08:24:36)
+
+---
+
+##  Are the Kids Alright When They Grow Up? 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/are-the-kids-alright-when-they-grow-up>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-17, from: Dave Winer's Scripting News)
+
+I just tripped across this <a href="https://unberkeley.wordpress.com/2009/12/12/wordpress-com-implements-the-twitter-api-2/">post from 2009</a> where Matt had sent me an email saying they were supporting the Twitter API in WordPress. I had forgotten this. That's how long it's been that he's wanted to hook WP up to the social web. It doesn't look like I posted that to Scripting News. I wonder what other nuggets of forgotten history I'll find there. 
+
+<http://scripting.com/2024/04/17.html#a143526>
+
+---
+
+##  The Flooding Will Come &#8220;No Matter What&#8221;, an excerpt from Abrahm Lustgarten&#8217;s... 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044415-the-flooding-will-come-no>
+
+---
+
+## AM phasor has no setting for 'stun'
+
+date: 2024-04-17, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">AM phasor has no setting for 'stun'</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Today on <a href="https://www.youtube.com/c/GeerlingEngineering">Geerling Engineering</a>, my Dad and I toured the tower site for WSDZ-AM, located in Belleville, IL. It's a 20kW AM radio station broadcasting with an array of <em>eight</em> individual towers:</p>
+
+<p><img class="insert-image" width="700" height="auto" alt="WSDZ 8-tower AM transmitter site array" src="https://www.jeffgeerling.com/sites/default/files/images/wsdz-tower-site-8-towers-drone-shot.jpeg"></p>
+
+<p>How does one get a single coherent signal out of an eight-tower array? Enter the <em>phasor</em>:</p>
+
+<p><img class="insert-image" width="700" height="auto" alt="WSDZ Phasor - Insides" src="https://www.jeffgeerling.com/sites/default/files/images/wsdz-phasor-inside.jpg"></p>
+
+<p><img class="insert-image" width="700" height="auto" alt="WSDZ - Phasor Knobs" src="https://www.jeffgeerling.com/sites/default/files/images/wsdz-phasor-knobs.jpeg"></p>
+
+<p>That's <em>phasor</em> with an <em>o</em>, not <em>phaser</em> with an <em>e</em>, so Trekkies need not fret about a misspelling.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-04-17T09:01:59-05:00" title="Wednesday, April 17, 2024 - 09:01" class="datetime">April 17, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/am-phasor-has-no-setting-stun>
+
+---
+
+## Peer-to-peer Git: Radicle Seed Node on OpenBSD
+
+date: 2024-04-17, from: mrusme blog
+
+While Git is decentralized by design, in many cases it still depends on a
+classical server-client architecture. Many projects rely on GitHub, GitLab, or
+another centralized platform to host their repositories and thereby make them
+available to everyone. What if we could have Git, but without depending on
+*any* centralized servers at all, and instead use it peer-to-peer? 
+
+<https://xn--gckvb8fzb.com/peer-to-peer-git-radicle-seed-node-on-openbsd/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-17, from: Dave Winer's Scripting News)
+
+Video: <a href="https://www.youtube.com/watch?v=6mdi8C3aDC0">Design issues in FeedLand blogrolls</a>. 
+
+<http://scripting.com/2024/04/17.html#a134647>
+
+---
+
+## Using AI-Generated Legislative Amendments as a Delaying Technique
+
+date: 2024-04-17, updated: 2024-04-14, from: Bruce Schneier blog
+
+<p>Canadian legislators proposed <a href="https://www.cbc.ca/news/politics/sustainable-jobs-bill-amendments-1.7171414">19,600 amendments</a>&#8212;almost certainly AI-generated&#8212;to a bill in an attempt to delay its adoption.</p>
+<p>I wrote about many different legislative delaying tactics in <a href="https://www.schneier.com/books/a-hackers-mind/"><cite>A Hacker&#8217;s Mind</cite></a>, but this is a new one.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/04/using-ai-generated-legislative-amendments-as-a-delaying-technique.html>
+
+---
+
+## Calling all Manchester and surrounding – come to / apply for CODE100 on 22nd of May!
+
+date: 2024-04-17, from: Chris Heilmann's blog
+
+The next edition of CODE100 is in Manchester in the UK and I am super excited to come back to the isle! It will be my first time in Manchester and as a huge Joy Division/New Order fan, I really look forward to it. CODE100 is not your typical coding competition; it&#8217;s a coding game [&#8230;] 
+
+<https://christianheilmann.com/2024/04/17/calling-all-manchester-and-surrounding-come-to-apply-for-code100-on-22nd-of-may/>
+
+---
+
+## Office Hours: Biden in Pennsylvania, Trump in court — who gets the biggest boost? 
+
+date: 2024-04-17, from: Robert Reich's blog
+
+Friends, Donald Trump is spending most of this week, and much of the coming month or two, in a Manhattan courtroom facing criminal charges. He claims he&#8217;s being politically persecuted and is acting the part of a martyr. He wants the public to see a courageous individual versus a corrupt deep state. 
+
+<https://robertreich.substack.com/p/office-hours-biden-in-pennsylvania>
+
+---
+
+## The vulnerability of having taste
+
+date: 2024-04-17, from: Tracy Durnell Blog
+
+I suspect the rise of inspiration-sharing platforms might be making me, and everyone else on the collaborative internet, more focused on publicising our taste rather than feeding it. &#160; See also: The draw of the herd Algorithmic recommendations create &#8220;curiosity ruts&#8221; Performing yourself on social media Watched The 5 Secrets to Designing a Feelgood Home [&#8230;] 
+
+<https://tracydurnell.com/2024/04/16/the-vulnerability-of-having-taste/>
+
+---
+
+## rewilding
+
+date: 2024-04-17, from: Ayjay blog
+
+The essay by Maria Farrell and Robin Berjon on “Rewilding the Internet” is absolutely essential — and you might know that I would think so if you read my essay from a few years back on “Tending the Digital Commons.” (See also my reflections on “manorial technocracy” and the tag, visible at the bottom of [&#8230;] 
+
+<https://blog.ayjay.org/rewilding-2/>
+
+---
+
+## ‘MKBHDs for Everything’
+
+date: 2024-04-17, updated: 2024-04-17, from: Daring Fireball
+
+ 
+
+<https://stratechery.com/2024/mkbhds-for-everything/>
+
+---
+
+## Walt Mossberg, Still the King
+
+date: 2024-04-17, updated: 2024-04-17, from: Daring Fireball
+
+ 
+
+<https://www.wired.com/2004/05/mossberg/>
+
+---
+
+## Jackass of the Week: Daniel Vassallo
+
+date: 2024-04-17, updated: 2024-04-17, from: Daring Fireball
+
+ 
+
+<https://twitter.com/dvassallo/status/1779753281960722706?ref_src=twsrc%5Etfw>
+
+---
+
+## No Notes
+
+date: 2024-04-16, updated: 2024-04-17, from: Daring Fireball
+
+ 
+
+<https://www.afr.com/technology/apple-s-secret-to-success-don-t-take-notes-and-worry-about-the-numbers-20240415-p5fjuz>
+
+---
+
+## Wednesday 17 April, 2024
+
+date: 2024-04-16, from: John Naughton's online diary
+
+Manuel Castells, the first great scholar of cyberspace Quote of the Day “If you&#8217;re too open-minded; your brains will fall out.” Lawrence Ferlinghetti Musical alternative to the morning’s radio news Mark Knopfler’s Guitar Heroes &#124; Going Home (Theme From Local &#8230; <a href="https://memex.naughtons.org/wednesday-17-april-2024/39361/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-17-april-2024/39361/>
+
+---
+
+## Playing Politics with People’s Lives
+
+date: 2024-04-16, from: Dan Rather's Steady
+
+Russia advances, Ukraine begs, Republicans dither 
+
+<https://steady.substack.com/p/playing-politics-with-peoples-lives>
 
 ---
 
@@ -26,6 +213,26 @@ date: 2024-04-16, updated: 2024-04-16, from: Jason Kittke's blog
  
 
 <https://kottke.org/24/04/0044396-we-get-em-from-the>
+
+---
+
+## Seeing What One Wants to See
+
+date: 2024-04-16, updated: 2024-04-16, from: Daring Fireball
+
+ 
+
+<https://twitter.com/matthewstoller/status/1779879588715192569>
+
+---
+
+## The Financial Times Pretends Apple Plays the Market Share Game
+
+date: 2024-04-16, updated: 2024-04-16, from: Daring Fireball
+
+ 
+
+<https://www.ft.com/content/2c13254b-9995-4408-b02b-6f07ce706b8e>
 
 ---
 
@@ -54,6 +261,16 @@ date: 2024-04-16, updated: 2024-04-16, from: Jason Kittke's blog
  
 
 <https://kottke.org/24/04/how-candles-are-made>
+
+---
+
+## Not All Web APIs Are Good APIs
+
+date: 2024-04-16, updated: 2024-04-16, from: Daring Fireball
+
+ 
+
+<https://www.threads.net/@sdusteric/post/C5y2zJCytBk>
 
 ---
 
@@ -244,17 +461,17 @@ date: 2024-04-16, updated: 2024-04-16, from: Jason Kittke's blog
 
 date: 2024-04-16, from: Dave Winer's Scripting News
 
-<p>Each form of online discussion has a <i>grain</i> to it. Doc and I used to <a href="https://imgs.scripting.com/2024/04/16/followsthegrain.png">talk</a> about how something "follows the grain of the web." Twitter has its own grain, formed by its character limit, what information is shared (ie number of followers in both directions). </p>
-<p>I made a list of some of the social networks I've been on starting in the mid-70s. The list is very long. And each of them had their own limits, rules and features, and each led to a certain kinds of relationships between the participants. Mail lists that gain traction always flame out. It's hard to get people to read your blog. If you make it easier it changes into something else. Instagram, Youtube, TikTok form hierarchies of influencers. I think of thos as the networks Taylor Lorenz covers. </p>
+<p>Each form of online discussion has a <i>grain</i> to it. <a href="https://en.wikipedia.org/wiki/Doc_Searls">Doc</a> and I used to <a href="https://imgs.scripting.com/2024/04/16/followsthegrain.png">talk</a> about how something "follows the grain of the web." Twitter has its own grain, formed by its character limit, what information is shared (ie number of followers in both directions). </p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2021/06/26/baseballScene.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I made a list of some of the social networks I've been on starting in the mid-70s. The list is very long. And each of them had their own limits, rules and features, and each led to a certain kinds of relationships between the participants. Mail lists that gain traction always flame out. It's hard to get people to read your blog. If you make it easier it changes into something else. Instagram, Youtube, TikTok form hierarchies of influencers. I think of those as the networks <a href="https://en.wikipedia.org/wiki/Taylor_Lorenz">Taylor Lorenz</a> covers. </p>
 <p>But there isn't a structure that I'm aware of that leads to people working together. It's a puzzle I keep trying to figure out. </p>
-<p>We need "working together" to survive climate change and fascism. It would be good to crack this nut. </p>
-<p>One of the nicest things about ChatGPT is that it's always up for working with together with you. The critics of AI don't begin to understand this. As an example, I'm going to ask ChatGPT to draw a picture of people working together. <a href="https://imgs.scripting.com/2024/04/16/peopleWorkingTogether.png">Here it is</a>.</p>
-<p>What got me thinking this way this morning is a bit of collaboration I did <a href="https://www.threads.net/@palafo/post/C5zHWbPOJun">with palafo</a> on Threads. It's remarkable. We actually did some work together. It may be hard to read the thread but if you're curious about collaborative systems, here's a real example. Serendipitous, unplanned, but we figured something out by combining our experiences. Fantastic.</p>
-<p>Later, Ben Werdmuller, a person who I've gotten to know a little recently, is intelligent and asks good questions. He asked one <a href="https://www.threads.net/@ben.werdmuller/post/C50vyIruTCB">today</a>, how do they get the live audience on SNL to laugh when they want them to laugh. I had an idea and <a href="https://www.threads.net/@davew/post/C50wy5NsYD0">shared</a> it. </p>
-<p>If you take away one thing from this post it's that we can collaborate with the machines, and maybe that will unlock collaboration between humans. In fact, in a way they are facilitating the collaboration. If you want to be part of the collective human intelligence, you may be thinking about the machines in the wrong way. Maybe they're the most human thing we have, because AI is made up of humans, like <a href="https://www.youtube.com/watch?v=4UPDUpjkHg0">Soylent Green</a>. <span class="spOldSchoolEmoji">😄</span></p>
+<p>We need <a href="http://scripting.com/2024/04/16/140810.html?title=workingTogether">working together</a> to survive climate change and fascism. It would be good to crack this nut. </p>
+<p>One of the nicest things about ChatGPT is that it's always up for working with you. The critics of AI don't begin to understand this. As an example, I'm going to ask ChatGPT to draw a picture of people working together. <a href="https://imgs.scripting.com/2024/04/16/peopleWorkingTogether.png">Here it is</a>. I didn't have to wait. It didn't look at my follower count, or my bank statement to decide if it was willing to work with me. I pay the $20 a month, and I've got a persistent always-on collaborator. </p>
+<p>What got me thinking this way this morning is a bit of collaboration I did <a href="https://www.threads.net/@palafo/post/C5zHWbPOJun">with palafo</a> (a <a href="https://www.nytimes.com/by/patrick-laforge">human</a>) on Threads. It's remarkable. We actually did some work together. No sarcasm. It may be hard to read the <a href="https://www.threads.net/@palafo/post/C5zHWbPOJun">thread</a> but if you're curious about collaborative systems, here's a real example. Serendipitous, unplanned, but we figured something out by combining our experiences. Fantastic.</p>
+<p>Later, <a href="https://werd.io/">Ben Werdmuller</a>, a person who I've gotten to know recently, is intelligent and asks good questions. He asked one <a href="https://www.threads.net/@ben.werdmuller/post/C50vyIruTCB">today</a>, how do they get the live audience on SNL to laugh when they want them to laugh. I had an idea and <a href="https://www.threads.net/@davew/post/C50wy5NsYD0">shared</a> it. (This was <a href="https://www.reddit.com/r/LiveFromNewYork/comments/1v5hy6/how_does_the_snl_audience_know_when_to_laugh/">discussed</a> on Reddit. I also <a href="https://chat.openai.com/share/463e08c0-0380-4e65-9e6c-2742ce91f0db">checked</a> with ChatGPT.) </p>
+<p>If you take away one thing from this post it's that we can collaborate with the machines, and maybe that will unlock collaboration between humans. In fact, in a way they are facilitating the collaboration. If you want to be part of the collective human intelligence, you may be thinking about the machines the wrong way. Maybe they're the most human thing we have, because AI is made up of humans, somewhat like <a href="https://www.youtube.com/watch?v=4UPDUpjkHg0">Soylent Green</a>. <span class="spOldSchoolEmoji">😄</span></p>
 <p>PS: I asked ChatGPT to draw a picture of <a href="https://imgs.scripting.com/2024/04/16/cleaningAMess.png">humans working together</a> to clean up a mess. </p>
-<p>PPS: Yesterday I gave John O'Nolan what I think is a <a href="https://www.threads.net/@davew/post/C5y7iVoJP4r">good idea</a> for getting his Ghost blogs federating with Threads, Mastodon et al. I didn't expect thanks or even a response, but I wonder if he even heard it. Most of the time, trying to help other people results in not even an acknowledgment that they saw it. If I were him I'd look for a painless, quick way to get maximum interop. Something like <a href="http://ghost.social/">ghost.social</a>. I'd give the same advice to Matt at Automattic (in fact I think I did). </p>
-<p>PPPS: I think acknowledgment is a key part of "working together" on the web. Nothing more than "I wanted you to know I saw it" is often all that's needed to grease the skids of discourse. I've had a friendly disagreement with Manton at micro.blog about this. </p>
+<p>PPS: Yesterday I gave <a href="https://john.onolan.org/">John O'Nolan</a> what I think is a <a href="https://www.threads.net/@davew/post/C5y7iVoJP4r">good idea</a> for getting his Ghost blogs federating with Threads, Mastodon et al. I didn't expect thanks or even a response, but I wonder if he even heard it. Most of the time, trying to help other people results in not even an acknowledgment that they saw it. If I were him I'd look for a painless, quick way to get maximum interop. Something like <a href="http://ghost.social/">ghost.social</a>. I'd give the same advice to <a href="https://ma.tt/">Matt</a> at Automattic (in fact I think I did). </p>
+<p>PPPS: I think acknowledgment is a key part of <a href="http://scripting.com/2024/04/16/140810.html?title=workingTogether">working together</a> on the web. Nothing more than "I wanted you to know I saw it" is often all that's needed to grease the skids of discourse. I've had a friendly disagreement with Manton at micro.blog about this. </p>
  
 
 <http://scripting.com/2024/04/16/140810.html?title=workingTogether>
@@ -308,6 +525,26 @@ date: 2024-04-16, from: Robert Reich's blog
 His presidential campaign is treasonous 
 
 <https://robertreich.substack.com/p/trumps-attempted-coup-is-ongoing>
+
+---
+
+## The Etak Navigator
+
+date: 2024-04-16, updated: 2024-04-16, from: Daring Fireball
+
+ 
+
+<https://maphappenings.com/2024/04/11/story-of-etak/>
+
+---
+
+## John Sterling, Radio Voice of the Yankees for 36 Years, Retires at 85
+
+date: 2024-04-16, updated: 2024-04-16, from: Daring Fireball
+
+ 
+
+<https://www.mlb.com/yankees/news/john-sterling-retires>
 
 ---
 

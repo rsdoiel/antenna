@@ -1,11 +1,46 @@
 ---
 title: libraries 2024.16
-updated: 2024-04-16 14:55:23
+updated: 2024-04-17 08:24:36
 ---
 
 # libraries 2024.16
 
-(date: 2024-04-16 14:55:23)
+(date: 2024-04-17 08:24:36)
+
+---
+
+## Representing the Humanities collection on the SciELO platform (2022-2023)
+
+date: 2024-04-17, from: SciELO in Perspective
+
+<p>In this post, the representatives of the Humanities and Applied Social Sciences Collection on the SciELO platform's Advisory Committee discuss their work fronts in the 2022-2023 biennium and the challenges that remain for the coming years. Besides issues related to the Open Science Program, we discuss the threats posed to our journals’ sustainability. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2024/04/17/representing-the-humanities-collection-on-the-scielo-platform-2022-2023/" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/en/2024/04/17/representing-the-humanities-collection-on-the-scielo-platform-2022-2023/">Representing the Humanities collection on the SciELO platform (2022-2023)</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://blog.scielo.org/en/2024/04/17/representing-the-humanities-collection-on-the-scielo-platform-2022-2023/>
+
+---
+
+## Preprints,  Journals and Openness: Disentangling Goals and Incentives
+
+date: 2024-04-17, from: Scholarly Kitchen
+
+<p>Robert Harington discusses the value of preprints, the importance of peer review, research integrity and openness.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/04/17/robert-harington-discusses-the-value-of-preprints-the-importance-of-peer-review-research-integrity-and-openness/">Preprints,  Journals and Openness: Disentangling Goals and Incentives</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/04/17/robert-harington-discusses-the-value-of-preprints-the-importance-of-peer-review-research-integrity-and-openness/>
+
+---
+
+## Day in Review (April 16–18)
+
+date: 2024-04-17, from: Association of Research Libraries News
+
+<p>Last Updated on April 17, 2024, 3:33 am ET Sign up to receive the Day in Review by email. Jump to: Wednesday, April 17 &#124; Thursday, April 18 Tuesday, April...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-16-18/">Day in Review (April 16–18)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/day-in-review/day-in-review-april-16-18/>
 
 ---
 

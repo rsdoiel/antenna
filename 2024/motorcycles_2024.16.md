@@ -1,11 +1,51 @@
 ---
 title: motorcycles 2024.16
-updated: 2024-04-16 14:55:23
+updated: 2024-04-17 08:24:36
 ---
 
 # motorcycles 2024.16
 
-(date: 2024-04-16 14:55:23)
+(date: 2024-04-17 08:24:36)
+
+---
+
+## KTM Rolls Out Updated Motocross Machines For 2025
+
+date: 2024-04-17, from: Ride Apart, Electric Motorcycle News
+
+The KTM 150 SX makes a comeback for the 2025 model-year.  
+
+<https://www.rideapart.com/news/716038/ktm-updates-2025-sx-sxf-bikes/>
+
+---
+
+## We’re Drooling All Over Aprilia’s SE-09 SBK RSV4 And Tuono V4 Factory
+
+date: 2024-04-17, from: Ride Apart, Electric Motorcycle News
+
+The limited-edition models commemorate Max Biaggi’s success back in 2009.  
+
+<https://www.rideapart.com/news/716037/aprilia-rsv4-tuono-v4-se09-sbk-editions/>
+
+---
+
+## 2024 Harley-Davidson Homecoming Festival Kicks Off in 100 Days
+
+date: 2024-04-16, from: Cycle World News
+
+The countdown has started. In just 100 days, Milwaukee will host the music and mototainment event of the season when the annual Harley-Davidson Homecoming Festival kicks off its four-day run. 
+
+<https://www.cycleworld.com/the-wire/2024-harley-davidson-homecoming-festival-kicks-off-in-100-days/>
+
+---
+
+## Chinese Eight-Cylinder Motorcycles Launching Soon
+
+date: 2024-04-16, from: Cycle World News
+
+Chinese car company Great Wall Motor is working on a new flat-eight engine that will power a Honda Gold Wing competitor, as well as a power cruiser. 
+
+<https://www.cycleworld.com/motorcycle-news/great-wall-motor-eight-cylinder-motorcycles-coming-soon/>
 
 ---
 

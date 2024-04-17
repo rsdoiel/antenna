@@ -1,11 +1,236 @@
 ---
 title: parks 2024.16
-updated: 2024-04-16 14:55:23
+updated: 2024-04-17 08:24:36
 ---
 
 # parks 2024.16
 
-(date: 2024-04-16 14:55:23)
+(date: 2024-04-17 08:24:36)
+
+---
+
+## Phoenix District staff blaze a trail in recreational shooting site management
+
+date: 2024-04-16, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Asking the right questions: New science for sagebrush management</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p>When the BLM <a href="https://www.blm.gov/programs/planning-and-nepa/planning-101/how-plans-are-updated">updates</a> its resource management plans, we state the reasons for proposing to do so in the environmental effects analysis required by the <a href="https://www.blm.gov/programs/planning-and-nepa/what-informs-our-plans/nepa">National Environmental Policy Act</a>.&nbsp;</p>
+
+<p>In the case of the <a href="https://eplanning.blm.gov/eplanning-ui/project/2016719/510">current effort</a> to update <a href="https://www.blm.gov/programs/fish-and-wildlife/sagegrouse/blm-sagegrouse-plans">plans for conserving greater sage-grouse habitat</a> on BLM-managed public lands, we are looking closely at recently published scientific literature and data gathered since 2015 to determine where changing these plans could strengthen our conservation efforts. We want the best conservation work for sage-grouse to happen in the right places.&nbsp;</p>
+
+<hr>
+<p><br>
+The most basic information is <strong>the number of greater sage-grouse</strong> -- which, over the last 10 years, has continued its long-term decline. During the first five years the current management plans were in effect (2015-2019), there were more than 40 instances where populations dipped below minimum thresholds established for the areas covered by those plans.&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="de4b0962-f0f6-4394-80cf-733674b84c92" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/GRSG-cameos%2Bbluesky_USFWS-T.Koerner.jpg?itok=VK04v29B" width="640" height="473" alt="two greater sage-grouse emerge from sagebrush under blue sky" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>A study published in 2021 found that greater sage-grouse populations had declined 37% since 2002 (<a href="https://doi.org/10.3133/ofr20201154">Coates et al.</a>) | <em>USFWS/Tom Koerner</em></figcaption>
+</figure>
+
+
+<p><br>
+Although all states with greater sage-grouse have seen long-term declines in their numbers, populations change at varying rates across the 145 million acres of sagebrush habitat in the U.S. In managing close to half of those acres, the BLM relies heavily on information that state agencies collect in their work of managing sage-grouse populations. Our <strong>understanding of local conditions and trends</strong> deepens with each round of data collection.&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="e4eaee34-25a9-425a-b80c-d1ef3971cd90" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/AIM-vegcover-height.jpg?itok=T8vuUwiX" width="640" height="360" alt="two people taking vegetation measurements in sagebrush habitat" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>The BLM <a href="https://www.blm.gov/blog/2022-02-04/more-numbers-evaluating-progress-sage-grouse-conservation">monitors</a> sagebrush habitat areas on nearly 67 million acres of public lands using<br>
+a <a href="https://eplanning.blm.gov/public_projects/lup/21152/48421/52584/GRSG-FINAL-Monitoring_Framework_20140530.pdf">framework</a> adopted with the 2015 habitat management plans. | <em>BLM-AIM Program</em></figcaption>
+</figure>
+
+
+<p>&nbsp;</p>
+
+<p>Recent research calls attention to the <strong>effects of <a href="https://www.blm.gov/about/how-we-manage/climate-change">climate change</a></strong> on sagebrush habitat and how this in turn can accelerate declines in the number of sage-grouse. We need to consider whether these effects require adjustments to management decisions made in 2015.&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="b2f563f8-50aa-4ccc-9493-b509e21eed0c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/post-Soda-cheatgrass_BLM-A.Hedrick.jpg?itok=TP1YTsns" width="640" height="427" alt="dry cheatgrass that has overtaken sagebrush habitat" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Climate change seems to <a href="https://www.blm.gov/blog/2024-02-26/unhealthy-competition">worsen the spread of non-native grasses</a> that outcompete sagebrush<br>
+and intensify wildfire cycles in sage-grouse habitat. | <em>BLM-Idaho/Antonia Hedrick</em></figcaption>
+</figure>
+
+
+<p><br>
+New science can also help resource managers better understand how sage-grouse select and make use of <strong>breeding habitat</strong>, and what conditions are needed for these areas to remain available year after year.&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="4fcb390c-3925-4d85-abee-3d141f3017f8" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2022-01/sunrise-steenslek-apr2016_gshine.jpg?itok=ByIrjPtX" width="640" height="370" alt="A BLM biologist views a sage-grouse lek near Steens Mountain, Oregon" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Observing breeding activity on a <a href="https://www.blm.gov/blog/2024-04-02/rites-spring">lek</a> can disrupt it if the researcher is too close or<br>
+too conspicuous. | <em>BLM-Oregon/Greg Shine</em></figcaption>
+</figure>
+
+
+<p><br>
+By considering new biological research, we will designate and conserve habitat which maintains the <strong>genetic diversity and connections</strong> that local sage-grouse populations need to adapt to changing conditions.&nbsp;<br>
+&nbsp;</p>
+
+<hr>
+<p><br>
+<strong>GET INVOLVED |&nbsp;</strong>Review and comment in the <a href="https://eplanning.blm.gov/eplanning-ui/project/2016719/570">draft environmental analysis of proposed options</a> for strengthening protection of the greater sage-grouse's habitat on BLM-managed public lands. The public comment period is open through June 13, 2024.&nbsp;<br>
+&nbsp;</p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/sage-grouse" hreflang="en">Sage-grouse</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-04-16T12:00:00Z">Tue, 04/16/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/22195/edit" hreflang="en">Programs_FishandWildlifesagegrousehero.jpg</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/planning-and-nepa" hreflang="en">Planning and NEPA</a></div>
+              <div><a href="https://www.blm.gov/tag/science" hreflang="en">Science</a></div>
+              <div><a href="https://www.blm.gov/tag/sage-grouse" hreflang="en">Sage-Grouse</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
+              </div>
+      </div> 
+
+<https://www.blm.gov/blog/2024-04-16/phoenix-district-staff-blaze-trail-recreational-shooting-site-management>
 
 ---
 

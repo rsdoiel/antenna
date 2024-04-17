@@ -1,11 +1,330 @@
 ---
 title: tech likely 2024.16
-updated: 2024-04-16 14:55:23
+updated: 2024-04-17 08:24:36
 ---
 
 # tech likely 2024.16
 
-(date: 2024-04-16 14:55:23)
+(date: 2024-04-17 08:24:36)
+
+---
+
+## NASA Invites Media for Climate Update, New Earth Missions
+
+date: 2024-04-17, from: NASA breaking news
+
+In anticipation of Earth Day, NASA invites media to a briefing at the agency’s headquarters on Friday, April 19, at 11 a.m. EDT. The event will share updates on NASA’s climate science and early data from the agency’s ocean-watching PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) mission, as well as reveal upcoming Earth airborne missions. The [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-for-climate-update-new-earth-missions/>
+
+---
+
+## Hopes of Big Bang Discoveries Ride on a Future Spacecraft
+
+date: 2024-04-17, from: Quanta Magazine
+
+Physicists and cosmologists will have a new probe of primordial processes when Europe launches the Laser Interferometer Space Antenna (LISA) next decade.            <p>The post <a href="https://www.quantamagazine.org/hopes-of-big-bang-discoveries-ride-on-a-future-spacecraft-20240417/" target="_blank">Hopes of Big Bang Discoveries Ride on a Future Spacecraft</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/hopes-of-big-bang-discoveries-ride-on-a-future-spacecraft-20240417/>
+
+---
+
+## Tech Today: Taking Earth’s Pulse with NASA Satellites
+
+date: 2024-04-17, from: NASA breaking news
+
+Natural disasters like volcanic eruptions, floods, and tornados can dramatically change the surface of Earth to the point where alterations are visible in space. Changes driven by human actions and interventions, such as mining and deforestation, are also visible in satellite imagery. For over 50 years, NASA’s Landsat satellites have recorded our planet’s changing surface. [&#8230;] 
+
+<https://www.nasa.gov/directorates/stmd/tech-transfer/tech-today-taking-earths-pulse-with-nasa-satellites/>
+
+---
+
+##  Are the Kids Alright When They Grow Up? 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/are-the-kids-alright-when-they-grow-up>
+
+---
+
+## Astronauts To Patch Up NASA’s NICER Telescope
+
+date: 2024-04-17, from: NASA breaking news
+
+NASA is planning to repair NICER (Neutron star Interior Composition Explorer), an X-ray telescope on the International Space Station, during a spacewalk later this year. It will be the fourth science observatory in orbit serviced by astronauts. In May 2023, scientists discovered that NICER had developed a “light leak.” Unwanted sunlight was entering the instrument […] 
+
+<https://science.nasa.gov/missions/station/iss-research/nicer/astronauts-to-patch-up-nasas-nicer-telescope/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-17, from: Dave Winer's Scripting News)
+
+I just tripped across this <a href="https://unberkeley.wordpress.com/2009/12/12/wordpress-com-implements-the-twitter-api-2/">post from 2009</a> where Matt had sent me an email saying they were supporting the Twitter API in WordPress. I had forgotten this. That's how long it's been that he's wanted to hook WP up to the social web. It doesn't look like I posted that to Scripting News. I wonder what other nuggets of forgotten history I'll find there. 
+
+<http://scripting.com/2024/04/17.html#a143526>
+
+---
+
+## AlmaLinux 9.4 beta prepares to tread where RHEL dares not
+
+date: 2024-04-17, updated: 2024-04-17, from: Liam Proven's articles at the Register
+
+<h4>CIQ also has an alternative approach to compatible kernels with RockyLinux</h4>
+      <p>The bigger RHELatives continue to diverge slightly from Red Hat, with additional drivers and newer kernel versions.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/04/17/almalinux_94_ciq_lts_kernels/>
+
+---
+
+##  The Flooding Will Come &#8220;No Matter What&#8221;, an excerpt from Abrahm Lustgarten&#8217;s... 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044415-the-flooding-will-come-no>
+
+---
+
+## AM phasor has no setting for 'stun'
+
+date: 2024-04-17, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">AM phasor has no setting for 'stun'</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Today on <a href="https://www.youtube.com/c/GeerlingEngineering">Geerling Engineering</a>, my Dad and I toured the tower site for WSDZ-AM, located in Belleville, IL. It's a 20kW AM radio station broadcasting with an array of <em>eight</em> individual towers:</p>
+
+<p><img class="insert-image" width="700" height="auto" alt="WSDZ 8-tower AM transmitter site array" src="https://www.jeffgeerling.com/sites/default/files/images/wsdz-tower-site-8-towers-drone-shot.jpeg"></p>
+
+<p>How does one get a single coherent signal out of an eight-tower array? Enter the <em>phasor</em>:</p>
+
+<p><img class="insert-image" width="700" height="auto" alt="WSDZ Phasor - Insides" src="https://www.jeffgeerling.com/sites/default/files/images/wsdz-phasor-inside.jpg"></p>
+
+<p><img class="insert-image" width="700" height="auto" alt="WSDZ - Phasor Knobs" src="https://www.jeffgeerling.com/sites/default/files/images/wsdz-phasor-knobs.jpeg"></p>
+
+<p>That's <em>phasor</em> with an <em>o</em>, not <em>phaser</em> with an <em>e</em>, so Trekkies need not fret about a misspelling.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-04-17T09:01:59-05:00" title="Wednesday, April 17, 2024 - 09:01" class="datetime">April 17, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/am-phasor-has-no-setting-stun>
+
+---
+
+## NASA’s Roman Space Telescope’s ‘Eyes’ Pass First Vision Test
+
+date: 2024-04-17, from: NASA breaking news
+
+Engineers at L3Harris Technologies in Rochester, New York, have combined all 10 mirrors for NASA’s Nancy Grace Roman Space Telescope. Preliminary tests show the newly aligned optics, collectively called the IOA (Imaging Optics Assembly), will direct light into Roman’s science instruments extremely precisely. This will yield crisp images of space once the observatory launches. “This [&#8230;] 
+
+<https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-eyes-pass-first-vision-test/>
+
+---
+
+## Going Through Changes: Total Eclipse Over NASA Hangar
+
+date: 2024-04-17, from: NASA breaking news
+
+This composite image shows the dazzling phases of the total solar eclipse, seen above the Flight Research Building at NASA’s Glenn Research Center in Cleveland on April 8, 2024. Glenn was the only NASA center in the eclipse path of totality, plunging into darkness for nearly four minutes as the face of the Sun was [&#8230;] 
+
+<https://www.nasa.gov/general/going-through-changes-total-eclipse-over-nasa-hangar/>
+
+---
+
+## Peer-to-peer Git: Radicle Seed Node on OpenBSD
+
+date: 2024-04-17, from: mrusme blog
+
+While Git is decentralized by design, in many cases it still depends on a
+classical server-client architecture. Many projects rely on GitHub, GitLab, or
+another centralized platform to host their repositories and thereby make them
+available to everyone. What if we could have Git, but without depending on
+*any* centralized servers at all, and instead use it peer-to-peer? 
+
+<https://xn--gckvb8fzb.com/peer-to-peer-git-radicle-seed-node-on-openbsd/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-17, from: Dave Winer's Scripting News)
+
+Video: <a href="https://www.youtube.com/watch?v=6mdi8C3aDC0">Design issues in FeedLand blogrolls</a>. 
+
+<http://scripting.com/2024/04/17.html#a134647>
+
+---
+
+## A Bad Look for the Beijing Half
+
+date: 2024-04-17, updated: 2024-04-17, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/04/17/a-bad-look-for-the-beijing-half/>
+
+---
+
+## Bike crash 2023 anniversary
+
+date: 2024-04-17, from: Liam Proven blog
+
+(Not really update 22.)<br /><br />Huh. Missed the anniversary of the latest bike crash – it was on Monday. <br /><br />Today, the ever-helpful Google showed me a selfie I took from my hospital bed a year ago. (Thanks *so* much for the reminder, Googs.)<br /><br />So, a year ago today I had more or less got some kind of alertness back and was hoping to get transferred over to Liverpool for my arm to be reassembled. Little did I know it would take another 4 days, because they were hoping to put me in an ordinary airline seat...<br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=lproven&ditemid=309377" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+
+<https://lproven.dreamwidth.org/309377.html>
+
+---
+
+## Robot Etch A Sketch
+
+date: 2024-04-17, from: Raspberry Pi News (.com)
+
+<p>What maker Micah Tilton lacks in drawing skills, he more than makes up for in robotics know-how. So rather than spend years learning how to create a masterpiece of illustration, he automated an Etch A Sketch with Raspberry Pi.  </p>
+<p>The post <a href="https://www.raspberrypi.com/news/robot-etch-a-sketch/">Robot Etch A Sketch</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/robot-etch-a-sketch/>
+
+---
+
+## NetBSD 10 proves old tech can still kick apps and take names three decades later
+
+date: 2024-04-17, updated: 2024-04-17, from: Liam Proven's articles at the Register
+
+<h4><span class="label">FOSDEM 2024</span> Proper old-school Unix, not like those lazy, decadent Linux types</h4>
+      <p>NetBSD 10 marks a new level of maturity for this venerable open source Unix system, which somehow manages to be both modern and retro at the same time.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/04/17/30yo_netbsd_releases_v10/>
+
+---
+
+## A better, more compact UI for Firefox
+
+date: 2024-04-17, from: OS News
+
+Proton is Firefox’s new design, starting from Firefox 89. Photon is the old design of Firefox which was used until version 88. Proton’s overall feel is good, but there were a few things I didn’t like and wanted to improve.That’s why this project was born, and Lepton to denote light theme layer. Lepton’s photon styled is preserve Photon’s feeling while keep Original Lepton’s strengths. ↫ Firefox UI Fix GitHub page I do not like the current Firefox user interface, because even with the &#8216;compact&#8217; layout re-enabled in about:config, I find it just too bulky and wasteful of my screen real estate. I&#8217;ve been using the above Firefox user interface mod for ages now, and I can&#8217;t imagine using Firefox without it. The GitHub pages and guides are a bit of a mess and difficult to follow due to the project consisting of several overlapping different styles, but I just use the script listed here, selecting the style &#8220;2&#8221; when running the script. It won&#8217;t be for everyone, but for me, it makes Firefox nice and compact, turning it into a mouse-first interface without trying to accommodate touch. This is also by far not the only project with this goal, so if you&#8217;re using something else &#8211; feel free to list them. 
+
+<https://www.osnews.com/story/139322/a-better-more-compact-ui-for-firefox/>
+
+---
+
+## LAMENT FOR THE PLEAT
+
+date: 2024-04-17, from: Howard Jacobson blog
+
+The above is not a photograph of me, even as I was in my hey-day. But those are my trousers. Pleated. Pleated, reader! Pleated as trousers used to be, prior to plebeian flat-fronts which are to trousers what pug noses are to dogs. They are in a museum now, as soon will I be. We both belong to a more elegant, grander, more spacious epoch, before the advent of casual wear. Imagine Sebastian Flyte pacing the terraces of Brideshead pleatless. Or Gatsby - The Not So Great Gatsby - in crowded-crotch chinos. 
+
+<https://jacobsonh.substack.com/p/lament-for-the-pleat>
+
+---
+
+## Twitter’s Pivot to x.com Is a Gift to Phishers
+
+date: 2024-04-17, from: Michael Tsai
+
+Brian Krebs (Hacker News): On April 9, Twitter/X began automatically modifying links that mention &#8220;twitter.com&#8221; to read &#8220;x.com&#8221; instead. But over the past 48 hours, dozens of new domain names have been registered that demonstrate how this change could be used to craft convincing phishing links &#8212; such as fedetwitter[.]com, which until very recently rendered [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/16/twitters-pivot-to-x-com-is-a-gift-to-phishers/>
+
+---
+
+## The Apple curl Security Incident
+
+date: 2024-04-17, from: Michael Tsai
+
+Daniel Stenberg (Hacker News, Slashdot): The friendly reporter showed how the curl version bundled with macOS behaves differently than curl binaries built entirely from open source. Even when running the same curl version on the same macOS machine. The curl command line option --cacert provides a way for the user to say to curl that [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/16/the-apple-curl-security-incident/>
+
+---
+
+## The Race to Replace Redis
+
+date: 2024-04-17, from: Michael Tsai
+
+Steven Vaughan-Nichols (via Hacker News): For those of you who aren&#8217;t open-source licensing experts, this means developers can no longer use Redis&#8217; code. Sure, they can look at it, but they can&#8217;t export, borrow from, or touch it.Redis pulled this same kind of trick in 2018 with some of its subsidiary code. Now it&#8217;s done [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/16/the-race-to-replace-redis/>
+
+---
+
+## Mojo Is Open Source
+
+date: 2024-04-17, from: Michael Tsai
+
+Modular (Hacker News): We firmly believe for Mojo to reach its full potential, it must be open source. We have been progressively open-sourcing more of Mojo and parts of the MAX platform, and today we&#8217;re thrilled to announce the release of the core modules from the Mojo standard library under the Apache 2 license! [&#8230;] [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/16/mojo-is-open-source/>
+
+---
+
+## rewilding
+
+date: 2024-04-17, from: Ayjay blog
+
+The essay by Maria Farrell and Robin Berjon on “Rewilding the Internet” is absolutely essential — and you might know that I would think so if you read my essay from a few years back on “Tending the Digital Commons.” (See also my reflections on “manorial technocracy” and the tag, visible at the bottom of [&#8230;] 
+
+<https://blog.ayjay.org/rewilding-2/>
+
+---
+
+## NASA’s Ingenuity Mars Helicopter Team Says Goodbye … for Now
+
+date: 2024-04-17, from: NASA breaking news
+
+The final downlink shift by the Ingenuity team was a time to reflect on a highly successful mission — and to prepare the first aircraft on another world for its new role. Engineers working on NASA’s Ingenuity Mars Helicopter assembled for one last time in a control room at the agency’s Jet Propulsion Laboratory in [&#8230;] 
+
+<https://www.nasa.gov/missions/mars-2020-perseverance/ingenuity-helicopter/nasas-ingenuity-mars-helicopter-team-says-goodbye-for-now/>
+
+---
+
+## 41 new projects awarded
+
+date: 2024-04-17, updated: 2024-04-17, from: nlnet feed
+
+ 
+
+<https://nlnet.nl/news/2024/20240417-announcing-projects.html>
+
+---
+
+## A Clinical Decision Support System for Earth-independent Medical Operations
+
+date: 2024-04-16, from: NASA breaking news
+
+Deep space exploration requires a paradigm shift in astronaut medical support toward Earth-independent medical operations. Currently, astronauts rely on real-time communication with ground-based medical providers. However, as the distance from Earth increases, so do communication delays and disruptions. Deep space exploration crews will need to autonomously detect, diagnose, treat, and prevent medical conditions. One potential [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/a-clinical-decision-support-system-for-earth-independent-medical-operations/>
+
+---
+
+## Space Life Science Highlights
+
+date: 2024-04-16, from: NASA breaking news
+
+Spaceflight Atrophy Studied with Machine Learning Multi-Drug Resistant Bacteria Found on ISS Mutating to Become Functionally Distinct On-demand Nutrient Production System for Long-duration Missions A Clinical Decision Support System for Earth-independent Medical Operations in Space 
+
+<https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/space-life-science-highlights/>
+
+---
+
+## BioNutrients Flight Experiments
+
+date: 2024-04-16, from: NASA breaking news
+
+On-demand nutrient production system for long-duration missions When astronauts embark on long space missions, they&#8217;ll need to grow their own food because pre-packaged meals from Earth lose their nutritional value over time. The BioNutrients project at Ames Research Center&#8217;s Space Biosciences Division has solved this problem by using genetic engineering to create microbially-based food that can [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/bionutrients-flight-experiments/>
+
+---
+
+## Spaceflight Atrophy Studied with Machine Learning
+
+date: 2024-04-16, from: NASA breaking news
+
+Background: Even intense exercise by astronauts cannot compensate for muscle atrophy caused by microgravity. Atrophy occurs, in part, by way of an underlying mechanism that regulates calcium uptake. Recent research has shown exposure to spaceflight alters the uptake of calcium in muscles. However, the molecular mechanisms that drive these changes are not well studied. Researchers [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/spaceflight-atrophy-studied-with-machine-learning/>
 
 ---
 
@@ -197,12 +516,12 @@ NASA’s Goddard Space Flight Center in Greenbelt, Maryland, will build a moonqu
 
 ---
 
-## Torvalds intentionally complicates his use of indentation in kconfig
+## Torvalds intentionally complicates his use of indentation in Linux Kconfig
 
 date: 2024-04-16, updated: 2024-04-16, from: Liam Proven's articles at the Register
 
-<h4>The paramount penguin forces more robust whitespace handling</h4>
-      <p>Linux supremo Linus Torvalds has made the use of indentation in kernel config files more ambiguous – intentionally, to weed out inferior parsers.</p> 
+<h4>Paramount penguin forces more robust whitespace handling</h4>
+      <p>Linux kernel supremo Linus Torvalds has made the use of indentation in kernel config files more ambiguous – intentionally to weed out inferior parsers.</p> 
 
 <https://go.theregister.com/i/cfa/https://www.theregister.com/2024/04/16/torvalds_complicates_his_indents/>
 
@@ -270,17 +589,17 @@ date: 2024-04-16, updated: 2024-04-16, from: Jason Kottke blog
 
 date: 2024-04-16, from: Dave Winer's Scripting News
 
-<p>Each form of online discussion has a <i>grain</i> to it. Doc and I used to <a href="https://imgs.scripting.com/2024/04/16/followsthegrain.png">talk</a> about how something "follows the grain of the web." Twitter has its own grain, formed by its character limit, what information is shared (ie number of followers in both directions). </p>
-<p>I made a list of some of the social networks I've been on starting in the mid-70s. The list is very long. And each of them had their own limits, rules and features, and each led to a certain kinds of relationships between the participants. Mail lists that gain traction always flame out. It's hard to get people to read your blog. If you make it easier it changes into something else. Instagram, Youtube, TikTok form hierarchies of influencers. I think of thos as the networks Taylor Lorenz covers. </p>
+<p>Each form of online discussion has a <i>grain</i> to it. <a href="https://en.wikipedia.org/wiki/Doc_Searls">Doc</a> and I used to <a href="https://imgs.scripting.com/2024/04/16/followsthegrain.png">talk</a> about how something "follows the grain of the web." Twitter has its own grain, formed by its character limit, what information is shared (ie number of followers in both directions). </p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2021/06/26/baseballScene.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I made a list of some of the social networks I've been on starting in the mid-70s. The list is very long. And each of them had their own limits, rules and features, and each led to a certain kinds of relationships between the participants. Mail lists that gain traction always flame out. It's hard to get people to read your blog. If you make it easier it changes into something else. Instagram, Youtube, TikTok form hierarchies of influencers. I think of those as the networks <a href="https://en.wikipedia.org/wiki/Taylor_Lorenz">Taylor Lorenz</a> covers. </p>
 <p>But there isn't a structure that I'm aware of that leads to people working together. It's a puzzle I keep trying to figure out. </p>
-<p>We need "working together" to survive climate change and fascism. It would be good to crack this nut. </p>
-<p>One of the nicest things about ChatGPT is that it's always up for working with together with you. The critics of AI don't begin to understand this. As an example, I'm going to ask ChatGPT to draw a picture of people working together. <a href="https://imgs.scripting.com/2024/04/16/peopleWorkingTogether.png">Here it is</a>.</p>
-<p>What got me thinking this way this morning is a bit of collaboration I did <a href="https://www.threads.net/@palafo/post/C5zHWbPOJun">with palafo</a> on Threads. It's remarkable. We actually did some work together. It may be hard to read the thread but if you're curious about collaborative systems, here's a real example. Serendipitous, unplanned, but we figured something out by combining our experiences. Fantastic.</p>
-<p>Later, Ben Werdmuller, a person who I've gotten to know a little recently, is intelligent and asks good questions. He asked one <a href="https://www.threads.net/@ben.werdmuller/post/C50vyIruTCB">today</a>, how do they get the live audience on SNL to laugh when they want them to laugh. I had an idea and <a href="https://www.threads.net/@davew/post/C50wy5NsYD0">shared</a> it. </p>
-<p>If you take away one thing from this post it's that we can collaborate with the machines, and maybe that will unlock collaboration between humans. In fact, in a way they are facilitating the collaboration. If you want to be part of the collective human intelligence, you may be thinking about the machines in the wrong way. Maybe they're the most human thing we have, because AI is made up of humans, like <a href="https://www.youtube.com/watch?v=4UPDUpjkHg0">Soylent Green</a>. <span class="spOldSchoolEmoji">😄</span></p>
+<p>We need <a href="http://scripting.com/2024/04/16/140810.html?title=workingTogether">working together</a> to survive climate change and fascism. It would be good to crack this nut. </p>
+<p>One of the nicest things about ChatGPT is that it's always up for working with you. The critics of AI don't begin to understand this. As an example, I'm going to ask ChatGPT to draw a picture of people working together. <a href="https://imgs.scripting.com/2024/04/16/peopleWorkingTogether.png">Here it is</a>. I didn't have to wait. It didn't look at my follower count, or my bank statement to decide if it was willing to work with me. I pay the $20 a month, and I've got a persistent always-on collaborator. </p>
+<p>What got me thinking this way this morning is a bit of collaboration I did <a href="https://www.threads.net/@palafo/post/C5zHWbPOJun">with palafo</a> (a <a href="https://www.nytimes.com/by/patrick-laforge">human</a>) on Threads. It's remarkable. We actually did some work together. No sarcasm. It may be hard to read the <a href="https://www.threads.net/@palafo/post/C5zHWbPOJun">thread</a> but if you're curious about collaborative systems, here's a real example. Serendipitous, unplanned, but we figured something out by combining our experiences. Fantastic.</p>
+<p>Later, <a href="https://werd.io/">Ben Werdmuller</a>, a person who I've gotten to know recently, is intelligent and asks good questions. He asked one <a href="https://www.threads.net/@ben.werdmuller/post/C50vyIruTCB">today</a>, how do they get the live audience on SNL to laugh when they want them to laugh. I had an idea and <a href="https://www.threads.net/@davew/post/C50wy5NsYD0">shared</a> it. (This was <a href="https://www.reddit.com/r/LiveFromNewYork/comments/1v5hy6/how_does_the_snl_audience_know_when_to_laugh/">discussed</a> on Reddit. I also <a href="https://chat.openai.com/share/463e08c0-0380-4e65-9e6c-2742ce91f0db">checked</a> with ChatGPT.) </p>
+<p>If you take away one thing from this post it's that we can collaborate with the machines, and maybe that will unlock collaboration between humans. In fact, in a way they are facilitating the collaboration. If you want to be part of the collective human intelligence, you may be thinking about the machines the wrong way. Maybe they're the most human thing we have, because AI is made up of humans, somewhat like <a href="https://www.youtube.com/watch?v=4UPDUpjkHg0">Soylent Green</a>. <span class="spOldSchoolEmoji">😄</span></p>
 <p>PS: I asked ChatGPT to draw a picture of <a href="https://imgs.scripting.com/2024/04/16/cleaningAMess.png">humans working together</a> to clean up a mess. </p>
-<p>PPS: Yesterday I gave John O'Nolan what I think is a <a href="https://www.threads.net/@davew/post/C5y7iVoJP4r">good idea</a> for getting his Ghost blogs federating with Threads, Mastodon et al. I didn't expect thanks or even a response, but I wonder if he even heard it. Most of the time, trying to help other people results in not even an acknowledgment that they saw it. If I were him I'd look for a painless, quick way to get maximum interop. Something like <a href="http://ghost.social/">ghost.social</a>. I'd give the same advice to Matt at Automattic (in fact I think I did). </p>
-<p>PPPS: I think acknowledgment is a key part of "working together" on the web. Nothing more than "I wanted you to know I saw it" is often all that's needed to grease the skids of discourse. I've had a friendly disagreement with Manton at micro.blog about this. </p>
+<p>PPS: Yesterday I gave <a href="https://john.onolan.org/">John O'Nolan</a> what I think is a <a href="https://www.threads.net/@davew/post/C5y7iVoJP4r">good idea</a> for getting his Ghost blogs federating with Threads, Mastodon et al. I didn't expect thanks or even a response, but I wonder if he even heard it. Most of the time, trying to help other people results in not even an acknowledgment that they saw it. If I were him I'd look for a painless, quick way to get maximum interop. Something like <a href="http://ghost.social/">ghost.social</a>. I'd give the same advice to <a href="https://ma.tt/">Matt</a> at Automattic (in fact I think I did). </p>
+<p>PPPS: I think acknowledgment is a key part of <a href="http://scripting.com/2024/04/16/140810.html?title=workingTogether">working together</a> on the web. Nothing more than "I wanted you to know I saw it" is often all that's needed to grease the skids of discourse. I've had a friendly disagreement with Manton at micro.blog about this. </p>
  
 
 <http://scripting.com/2024/04/16/140810.html?title=workingTogether>
