@@ -1,11 +1,66 @@
 ---
 title: writing 2024.16
-updated: 2024-04-17 08:24:36
+updated: 2024-04-18 08:55:31
 ---
 
 # writing 2024.16
 
-(date: 2024-04-17 08:24:36)
+(date: 2024-04-18 08:55:31)
+
+---
+
+## Russell Letson Reviews Doorway to the Stars by Jack McDevitt
+
+date: 2024-04-18, from: Locus Magazine
+
+<p><strong>Doorway to the Stars</strong>, Jack McDevitt (Subter­ranean 978-1-64524-188-1, $40.00, 107 pp, hc) February 2024. Cover by Edward Miller.</p>
+<p>In two novels nearly 20 years apart, Jack McDe­vitt offered a platter full of puzzles and oddities. <strong>Ancient Shores </strong>(1996) and <strong>Thunderbird </strong>(2015) begin with the discovery of certain artifacts and buildings on what, 12,000 years earlier, had been the shore of the inland sea of Lake Agassiz in North Dakota:  <a href="https://locusmag.com/2024/04/russell-letson-reviews-doorway-to-the-stars-by-jack-mcdevitt/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/russell-letson-reviews-doorway-to-the-stars-by-jack-mcdevitt/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-18, from: Neil Gaiman @ BlueSky)
+
+The correct link is
+
+deadboydetectives.netflixvirtualscreenings.com
+
+But right now the RSVP is showing up as full... 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kqfzobubnt2i>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-18, from: Neil Gaiman @ BlueSky)
+
+I'll be joining the 'Dead Boy Detectives' co-showrunners and cast on April 24th for a conversation about the show. Sign up for early access to the panel and an exclusive screening of the first episode. If there are any questions you're dying to have answered about it, drop them below in the replies. 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kqfz7grtce2z>
+
+---
+
+## 🤔💭 Writing about what you don't know
+
+date: 2024-04-17, from: Interesting, a blog on writing
+
+"What do we do to learn something new? We look it up!" &#8212;Elmo 
+
+<https://inneresting.substack.com/p/writing-about-what-you-dont-know>
+
+---
+
+## Paula Guran Reviews The Sunday Morning Transport, Uncanny, and The Dark
+
+date: 2024-04-17, from: Locus Magazine
+
+<p>The Sunday Morning Transport 12/17/23, 12/3/23, 11/19/23, 11/12/23, 11/5/23
+Uncanny 11-12/23
+The Dark 11/23</p>
+<p>By the time you read this, the new year of 2024 will no longer be so new, but there’s still some short fiction from the end of 2023 to catch up on.</p>
+<p>A laundry that washes stars? <strong>Nikki Brazie </strong>takes the unique premise of cleaning luminous celestial bodies and weaves it into a touching tale about  <a href="https://locusmag.com/2024/04/paula-guran-reviews-the-sunday-morning-transport-uncanny-and-the-dark/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/paula-guran-reviews-the-sunday-morning-transport-uncanny-and-the-dark/>
 
 ---
 
@@ -14,7 +69,7 @@ updated: 2024-04-17 08:24:36
 date: 2024-04-17, from: Final Draft blog
 
 <div class="hs-featured-image-wrapper"> 
- <a href="https://blog.finaldraft.com/3-final-draft-13-features-you-mightve-missed" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Fantastic%20Voyage%20.jpg" alt="A man looking through a magnifying glass in 'Fantastic Voyage'; 3 Final Draft 13 Features You Might've Missed'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+ <a href="https://blog.finaldraft.com/3-final-draft-13-features-you-mightve-missed" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/3%20Final%20Draft%2013%20Features%20You%20Mightve%20Missed.jpg" alt="3 Final Draft 13 Features You Might've Missed" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
 </div> 
 <p><span>The latest version of the world’s #1 screenwriting program,&nbsp;</span><a href="https://blog.finaldraft.com/final-draft-13-is-here"><span>Final Draft 13</span></a><span>, has been updated to meet the ever-changing needs of screenwriters. With the upgrade are several&nbsp;</span><a href="https://www.finaldraft.com/products/whats-new-fd13/"><span>new features</span></a><span>&nbsp;like Writing Goals and Productivity Stats, Emoji support, Typewriter view, Navigator 2.0, Structure Lines, Character Development Tools, and improvements to many of the program's time-tested features.</span></p> 
 

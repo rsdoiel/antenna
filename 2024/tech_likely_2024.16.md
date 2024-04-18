@@ -1,11 +1,744 @@
 ---
 title: tech likely 2024.16
-updated: 2024-04-17 08:24:36
+updated: 2024-04-18 08:55:31
 ---
 
 # tech likely 2024.16
 
-(date: 2024-04-17 08:24:36)
+(date: 2024-04-18 08:55:31)
+
+---
+
+##  &#8220;You still don&#8217;t see the link? It&#8217;s right there on the bottom... 
+
+date: 2024-04-18, updated: 2024-04-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044421-you-still-dont-see-the>
+
+---
+
+## Climate Change Research
+
+date: 2024-04-18, from: NASA breaking news
+
+Science in Space: April 2024 Everyone on Earth is touched by the effects of climate change, such as hotter temperatures, shifts in rain patterns, and sea level rise. Collecting climate data helps communities better plan for these changes and build more resilience to them. The International Space Station, one of dozens of NASA missions contributing [&#8230;] 
+
+<https://www.nasa.gov/missions/station/iss-research/climate-change-research/>
+
+---
+
+## Cryptography Tricks Make a Hard Problem a Little Easier
+
+date: 2024-04-18, from: Quanta Magazine
+
+Researchers have shown how to find the simplest description of a data set faster than by simply  checking every possibility.            <p>The post <a href="https://www.quantamagazine.org/cryptography-tricks-make-a-hard-problem-a-little-easier-20240418/" target="_blank">Cryptography Tricks Make a Hard Problem a Little Easier</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/cryptography-tricks-make-a-hard-problem-a-little-easier-20240418/>
+
+---
+
+##  The strange and turbulent global world of ant geopolitics. &#8220;There are roughly... 
+
+date: 2024-04-18, updated: 2024-04-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044417-the-strange-and-turbulent>
+
+---
+
+**@Ayjay blog** (date: 2024-04-18, from: Ayjay blog)
+
+The Internet’s New Favorite Philosopher &#124; The New Yorker: Maret is part of a growing coterie of readers who have embraced [Byung-Chul] Han as a kind of sage of the Internet era. Elizabeth Nakamura, a twentysomething art-gallery associate in San Francisco, had a similar conversion experience, during the early days of pandemic lockdown, after someone [&#8230;] 
+
+<https://blog.ayjay.org/46073-2/>
+
+---
+
+## Hubble Goes Hunting for Small Main Belt Asteroids
+
+date: 2024-04-18, from: NASA breaking news
+
+Like boulders, rocks, and pebbles scattered across a landscape, asteroids come in a wide range of sizes. Cataloging asteroids in space is tricky because they are faint and they don’t stop to be photographed as they zip along their orbits around the Sun. Astronomers recently used a trove of archived images taken by NASA’s Hubble […] 
+
+<https://science.nasa.gov/missions/hubble/hubble-goes-hunting-for-small-main-belt-asteroids/>
+
+---
+
+##  Helsinki Bus Station Theory of Creativity 
+
+date: 2024-04-18, updated: 2024-04-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/helsinki-bus-station-theory-of-creativity>
+
+---
+
+## Comics from 1986/06 Australian Personal Computer Mag
+
+date: 2024-04-18, from: Computer ads from the Past
+
+It&#8217;s that time of the month. This time let&#8217;s look at humor from down under. These comics are from the June 1986 issue of Australian Computer magazine. Enjoy! What computer ads would you like to see in the future? Please comment below. If you enjoyed it, please share it with your friends and relatives. Thank you. 
+
+<https://computeradsfromthepast.substack.com/p/comics-from-198606-australian-personal>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-18, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2012/02/16/1984.jpg" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Suppose you're working deep inside a complex project and have an unrelated idea. How long does it take to switch to writing mode, get the idea down, and return to what you were doing. The less time it takes the more <i>fluidity. </i>Twitter totally won there. And we, the bloggers, made a tradeoff. We accepted fewer features and writing in a silo because it was practical. It worked, where less fluid software didn't. So they got all the causal writing, and over time sucked the life out of blogging. I think it's time to put the fluidity back, without compromising on features and lock-in. 
+
+<http://scripting.com/2024/04/18.html#a134722>
+
+---
+
+## Grok Invents Bizarre Brick-Vandalism Spree
+
+date: 2024-04-18, updated: 2024-04-18, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/04/18/grok-invents-bizarre-brick-vandalism-spree/>
+
+---
+
+##  Wired&#8217;s Steven Levy on how 8 Google Employees Invented Modern AI. (They... 
+
+date: 2024-04-18, updated: 2024-04-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044416-wireds-steven-levy-on-how>
+
+---
+
+## Announcing the Neon Serverless Driver on JSR
+
+date: 2024-04-18, updated: 2024-04-18, from: Deno blog
+
+Neon, a performant, edge-compatible, serverless Postgres driver, arrives on JSR. 
+
+<https://deno.com/blog/neon-on-jsr>
+
+---
+
+## Dice Master 2000 allows visually impaired gamers to keep playing
+
+date: 2024-04-18, from: Raspberry Pi News (.com)
+
+<p>YouTuber Hiro made this project as a birthday present for a friend who is visually impaired. It rolls dice for him and announces the result.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/dice-master-2000-allows-visually-impaired-gamers-to-keep-playing/">Dice Master 2000 allows visually impaired gamers to keep playing</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/dice-master-2000-allows-visually-impaired-gamers-to-keep-playing/>
+
+---
+
+## COSMIC continues march towards alpha release
+
+date: 2024-04-18, from: OS News
+
+COSMIC, System76&#8217;s Rust-based desktop that&#8217;s going to replace GNOME in Pop!_OS, is nearing its alpha release, and the Linux OEM has published another blog post detailing the latest progress it&#8217;s made. First and foremost, theming support has been further refined by adding support for theming GTK applications (both GTK3 and 4) and flatpak applications. If the user has enabled global themes, these themes will be applied automatically whenever selecting a theme to apply. Support for custom icon packs has also been added. COSMIC now also has an application store, much like GNOME Software and KDE&#8217;s Discover, which also takes care of updating installed applications. You can now also drag windows from anywhere inside the window by holding down the super key, which is both a nice addition in general as well as a usability feature. The Settings application has also seen work, and gets a new keyboard settings panel, as well as various other smaller additions. COSMIC also now implements on-screen display toasts for things like changing volume and brightness, and plugging in power. System76 isn&#8217;t the only one working on COSMIC &#8211; community members have implemented things like window snapping, touchpad gestures, thumbnail previews in the dock, and more. The community is also working on things like an emoi picker, and a fan control graphical user interface. There&#8217;s a lot more in the blog post, so be sure to give it a read. I&#8217;m genuinely excited for COSMIC to hit the shelves, because I&#8217;m dying to try it out. 
+
+<https://www.osnews.com/story/139347/cosmic-continues-march-towards-alpha-release/>
+
+---
+
+## Top tea tips!
+
+date: 2024-04-18, from: Liam Proven blog
+
+<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a" style="margin: 0.5em 0px 0px; white-space: pre-wrap; overflow-wrap: break-word; font-family: system-ui, -apple-system, &quot;system-ui&quot;, &quot;.SFNSText-Regular&quot;, sans-serif; color: rgb(5, 5, 5); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><div dir="auto" style="font-family: inherit; text-align: start;">Number 1.</div></div><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a" style="margin: 0.5em 0px 0px; white-space: pre-wrap; overflow-wrap: break-word; font-family: system-ui, -apple-system, &quot;system-ui&quot;, &quot;.SFNSText-Regular&quot;, sans-serif; color: rgb(5, 5, 5); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><div dir="auto" style="font-family: inherit; text-align: start;">There is a rash of flavoured teas in British supermarkets since I returned. Shortbread flavoured tea, for instance. I find them weird and a bit sickly. So I tried a mixture of ordinary black teabags and flavoured teabags. This worked rather better and I recommend it. It takes the edge off.</div></div><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a" style="margin: 0.5em 0px 0px; white-space: pre-wrap; overflow-wrap: break-word; font-family: system-ui, -apple-system, &quot;system-ui&quot;, &quot;.SFNSText-Regular&quot;, sans-serif; color: rgb(5, 5, 5); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><div dir="auto" style="font-family: inherit; text-align: start;">Number 2.</div></div><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a" style="margin: 0.5em 0px 0px; white-space: pre-wrap; overflow-wrap: break-word; font-family: system-ui, -apple-system, &quot;system-ui&quot;, &quot;.SFNSText-Regular&quot;, sans-serif; color: rgb(5, 5, 5); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><div dir="auto" style="font-family: inherit; text-align: start;">*But* I did something bad and wrong: I made a pot with Earl Grey and shortcake flavoured tea. (Okay, I didn't, my lovely wife did.)</div></div><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a" style="margin: 0.5em 0px 0px; white-space: pre-wrap; overflow-wrap: break-word; font-family: system-ui, -apple-system, &quot;system-ui&quot;, &quot;.SFNSText-Regular&quot;, sans-serif; color: rgb(5, 5, 5); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><div dir="auto" style="font-family: inherit; text-align: start;">It's great. Better than the sum of its parts. Try it.</div></div><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a" style="margin: 0.5em 0px 0px; white-space: pre-wrap; overflow-wrap: break-word; font-family: system-ui, -apple-system, &quot;system-ui&quot;, &quot;.SFNSText-Regular&quot;, sans-serif; color: rgb(5, 5, 5); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><div dir="auto" style="font-family: inherit; text-align: start;">Number 3.</div></div><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a" style="margin: 0.5em 0px 0px; white-space: pre-wrap; overflow-wrap: break-word; font-family: system-ui, -apple-system, &quot;system-ui&quot;, &quot;.SFNSText-Regular&quot;, sans-serif; color: rgb(5, 5, 5); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><div dir="auto" style="font-family: inherit; text-align: start;">If you try to make masala chai by adding some garam masala to a cup of black tea, it doesn't really work and tastes weird. Don't do this.</div></div><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a" style="margin: 0.5em 0px 0px; white-space: pre-wrap; overflow-wrap: break-word; font-family: system-ui, -apple-system, &quot;system-ui&quot;, &quot;.SFNSText-Regular&quot;, sans-serif; color: rgb(5, 5, 5); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><div dir="auto" style="font-family: inherit; text-align: start;">But, while it is a truth universally acknowledged that instant tea is an abomination unto Om, instant masala chai from your friendly local Indian grocery is pretty good. Try it.</div></div><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a" style="margin: 0.5em 0px 0px; white-space: pre-wrap; overflow-wrap: break-word; font-family: system-ui, -apple-system, &quot;system-ui&quot;, &quot;.SFNSText-Regular&quot;, sans-serif; color: rgb(5, 5, 5); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><div dir="auto" style="font-family: inherit; text-align: start;">P. S. Number 3 and a half.</div></div><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a" style="margin: 0.5em 0px 0px; white-space: pre-wrap; overflow-wrap: break-word; font-family: system-ui, -apple-system, &quot;system-ui&quot;, &quot;.SFNSText-Regular&quot;, sans-serif; color: rgb(5, 5, 5); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><div dir="auto" style="font-family: inherit; text-align: start;">However if you can get real Indian masala chai tea leaves, use them. Follow the instructions. You have to boil it. But it's great and blows the socks off the feeble so called chai that European grocers sell.</div></div><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=lproven&ditemid=309757" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+
+<https://lproven.dreamwidth.org/309757.html>
+
+---
+
+## Debian spices up APT package manager with a dash of color, squishes ancient bug
+
+date: 2024-04-18, updated: 2024-04-18, from: Liam Proven's articles at the Register
+
+<h4>2.9 gives a taste of what's to come</h4>
+      <p>Major updates to Debian's Advanced Packaging Tool don't come along very often, but APT 2.9 is here with a significant facelift.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/04/18/apt_3_debian/>
+
+---
+
+## 2024-04-17 A map generator for solo play
+
+date: 2024-04-18, from: Alex Schroeder's Blog
+
+<h1 id="2024-04-17-a-map-generator-for-solo-play">2024-04-17 A map generator for solo play</h1>
+
+<p>Inspired by <a class="account" href="https://ttrpg-hangout.social/@enfors" title="@enfors@ttrpg-hangout.social">@enfors</a> quest for a random map generator that would work for solo-gaming, where the exploration roll happens as you enter a new hex and no overall map is known beforehand, I&rsquo;ve been thinking of a <a href="https://campaignwiki.org/text-mapper/solo/random">Solo algorithm</a> for <a href="Text_Mapper">Text Mapper</a>.</p>
+
+<p>As always, my main issue with maps is river systems. I just can’t help it! 😅 The solo-gaming constraint makes this an interesting challenge because you can’t ever go back and redo a hex that’s been discovered.</p>
+
+<p>The first problem was that I needed a model of how the map was going to be explored to simulate the key constraint. What I use is a biased random walk of ever increasing length that keeps starting in the middle of the map, where the &ldquo;safe haven&rdquo; is imagined to be. The random walk is biased in as much as it prefers to pick an unexplored hex, if possible.</p>
+
+<p><img loading="lazy" src="2024-04-17-solo-map-1.jpg" alt="Example explorations on the map." /></p>
+
+<p>When debugging, the numbers on the map represent the order in which the hexes are discovered, the coordinates and the altitude from 0 to 10.</p>
+
+<p>Of course my algorithm still runs into impossible situations like rivers meeting in a local minimum that I can&rsquo;t fix because there are no take-backs. In those situations I have decided to place a cave entrance and would run it as an entrance into the underworld. Who wouldn&rsquo;t want rivers to disappear into the underworld‽</p>
+
+<blockquote>
+<p>Examples: In the map above, when entering 1008 or 1405, river flow could turn out to be problematic since all the surrounding hexes have been explored and can no longer be changed.</p>
+</blockquote>
+
+<p>Every hex has two extra data points:</p>
+
+<ol>
+<li>altitude from 0 (the deep ocean) to 10 (the highest peaks)</li>
+<li>optionally, a direction of water flow (where it goes to)</li>
+</ol>
+
+<p>The strange part about this is that you cannot tell which hex is &ldquo;up river&rdquo; without actually going there and seeing whether this is where the water came from. If the next hex has no river then you followed a small creek that got smaller and smaller and finally it disappeared. If the next hex has a river that flows elsewhere, then you crossed a ridge and now you&rsquo;re in another valley.</p>
+
+<p>When determining a random neighbour, roll a d6: 1 is north, 2 is north-east, 3 is south-east, 4 is south, 5 is south-west, 6 is north-west.</p>
+
+<p>Here&rsquo;s how you start the map:</p>
+
+<ol>
+<li>Roll a d6 for the <em>preferred direction</em> of water for this map.</li>
+<li>Pick a hex in the middle of the map. Assign it the altitude 5.</li>
+<li>Roll a d6 for the <em>direction of the local river</em>. The starting hex always has a river.</li>
+<li>Roll 2d6 and <em>adjust the altitude</em> (see below).</li>
+<li>Use the same 2d6 result for the check whether the new hex has <em>water flow</em> (see below).</li>
+<li>Now that altitude and water flow are known, determine the terrain (see below).</li>
+<li>Use the same 2d6 result for the check whether the new hex has a <em>settlement or ruin</em> (see below).
+The starting hex always starts with a village.</li>
+<li>When entering a new hex, go back to step 4.</li>
+</ol>
+
+<h2 id="adjust-the-altitude">Adjust the altitude</h2>
+
+<p>The provisional altitude of the new hex starts out as the altitude of where you&rsquo;re coming from (no sudden changes).</p>
+
+<p>The altitude of the new hex is adjusted based on the 2d6 roll made above.</p>
+
+<ol>
+<li>If all the known hexes around the current hex are at altitudes 0–1, then the max altitude is 0 (deep ocean). No other factors come into play, so you can skip the rest of the altitude adjustment.</li>
+<li>If there are neighbouring hexes with water flowing from there to the current hex, then their lowest altitude is the current&rsquo;s hex max altitude (because rivers don&rsquo;t flow up).</li>
+</ol>
+
+<p>Take the 2d6 roll made above and look up the altitude change on the following table:</p>
+
+<table>
+<thead>
+<tr>
+<th align="center">2d6</th>
+<th align="center">Change</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">2</td>
+<td align="center">-2</td>
+</tr>
+
+<tr>
+<td align="center">3</td>
+<td align="center">-1</td>
+</tr>
+
+<tr>
+<td align="center">4–9</td>
+<td align="center">see below</td>
+</tr>
+
+<tr>
+<td align="center">10</td>
+<td align="center">+1</td>
+</tr>
+
+<tr>
+<td align="center">11</td>
+<td align="center">+1</td>
+</tr>
+
+<tr>
+<td align="center">12</td>
+<td align="center">+2</td>
+</tr>
+</tbody>
+</table>
+<p>On a result of 4–9 it depends on the slope:</p>
+
+<p>If coming from altitude 7 or higher, then check the direction you&rsquo;re moving in.
+If you&rsquo;re moving in the direction of the preferred slope or in the opposite direction, there is no change.
+If you&rsquo;re moving in a different direction, the change is -1.</p>
+
+<blockquote>
+<p>Example: Assume the slope is &ldquo;north&rdquo;. If you&rsquo;re moving &ldquo;south&rdquo; (the opposite of &ldquo;north&rdquo;) from a hex with an altitude of 8, then there is no change.</p>
+</blockquote>
+
+<p>If coming from altitude 6 or lower, the check the direction you&rsquo;re moving in.
+If you&rsquo;re moving in the direction of the preferred slope, the change is -1.</p>
+
+<blockquote>
+<p>Example: Assume the slope is &ldquo;north&rdquo;. If you&rsquo;re moving &ldquo;south&rdquo; from a hex with an altitude of 6, then there is no change.</p>
+</blockquote>
+
+<p>The idea is that mountain chains form along rivers and rivers have a tendency to run towards the ocean.
+Whether this actually works as intended, I don&rsquo;t know.</p>
+
+<p>Apply the change to the provisional altitude and adjust for the maximum.</p>
+
+<blockquote>
+<p>Example: You&rsquo;re entering a new hex from a hex with altitude 5. You know is that is has a neighbouring hex with altitude 4 that has a river going towards the same hex. The max altitude is therefore a 4. Roll 2d6. If you get a 2, the change is -2 and the new hex has an altitude of 5 - 2 = 3; otherwise it has an altitude of 4 because of the max and you don&rsquo;t need to bother with anything else.</p>
+</blockquote>
+
+<p><img loading="lazy" src="2024-04-17-solo-map-2.jpg" alt="A height map without the effects of water flow" /></p>
+
+<h2 id="water-flow">Water flow</h2>
+
+<p>If the altitude of the new hex is 0, there is no water flow (deep ocean).</p>
+
+<p>The new hex has water flow if any of the following is true:</p>
+
+<ol>
+<li>if there is a river flowing from a neighbouring hex into the new hex;</li>
+<li>if the altitude of the new hex is 1 (so that lakes can drain);</li>
+<li>if the altitude is 2–8 and the 2d6 roll for altitude adjustment was a 5–8.</li>
+</ol>
+
+<p>If so, determine the direction of the water, trying one of the following:</p>
+
+<ol>
+<li>pick at random from the unknown neighbouring hexes and the known neighbouring hexes at a <em>lower</em> altitude with a river that doesn&rsquo;t end up in the new hex you&rsquo;re looking at (avoid circular rivers); if there is more than one candidate, prefer a hex in the direction of the <em>preferred slope</em> ±1 (to the left or right of the preferred slope);</li>
+<li>pick a random, known, neighbouring hex at the <em>same</em> altitude with a river that doesn&rsquo;t end up in the new hex you&rsquo;re looking at (avoid circular rivers); if there is more than one candidate, prefer a hex in the direction of the <em>preferred slope</em> ±1 (to the left or right of the preferred slope);</li>
+<li>or – &ldquo;it&rsquo;s magic!&rdquo; – just pick one from the neighbouring hexes (all of them at a higher altitude, of course) with a river that doesn&rsquo;t end up in the new hex you&rsquo;re looking at (avoid circular rivers); if there is more than one candidate, prefer a hex in the direction of the <em>preferred slope</em> ±1 (to the left or right of the preferred slope)</li>
+<li>finally, if all else fails, then it&rsquo;s an <em>entrance into the underworld</em> and the river ends right here!</li>
+</ol>
+
+<blockquote>
+<p>Example: Entering a new hex from the south, with the preferred slope being &ldquo;north&rdquo;. The altitudes and directions of the known neighbours are as follows: current hex, 5; south (where you came from), 4; north-west, 4; north, 5. Randomly pick between north-west and north-east (an unknown hex!) since north-west is to the left of the preferred slope and north-east is to the right of the preferred slope. North is at the same altitude and south is in the wrong direction.</p>
+</blockquote>
+
+<p>Sadly, this algorithm doesn&rsquo;t tell you whether a newly discovered hex at altitude 1 is a sweet water lake or salty coastal waters.
+As mentioned above, this algorithm also doesn&rsquo;t tell you from which neighbouring hex a river comes from.</p>
+
+<h2 id="terrain">Terrain</h2>
+
+<p>Based on altitude and water flow, the terrain can be determined.</p>
+
+<table>
+<thead>
+<tr>
+<th align="center">Altitude</th>
+<th>With river</th>
+<th>No river</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">0</td>
+<td colspan="2">ocean</td>
+</tr>
+
+<tr>
+<td align="center">1</td>
+<td colspan="2">coastal</td>
+</tr>
+
+<tr>
+<td align="center">2</td>
+<td>swamp</td>
+<td>desert</td>
+</tr>
+
+<tr>
+<td align="center">3</td>
+<td>swamp</td>
+<td>plain</td>
+</tr>
+
+<tr>
+<td align="center">4</td>
+<td>forest</td>
+<td>plain</td>
+</tr>
+
+<tr>
+<td align="center">5</td>
+<td>forest</td>
+<td>plain</td>
+</tr>
+
+<tr>
+<td align="center">6</td>
+<td>forested hills</td>
+<td>rough</td>
+</tr>
+
+<tr>
+<td align="center">7</td>
+<td>green hills</td>
+<td>hills</td>
+</tr>
+
+<tr>
+<td align="center">8</td>
+<td colspan="2">mountains</td>
+</tr>
+
+<tr>
+<td align="center">9</td>
+<td colspan="2">mountain or volcano</td>
+</tr>
+
+<tr>
+<td align="center">10</td>
+<td colspan="2">glacier</td>
+</tr>
+</tbody>
+</table>
+<p>In this context, a swamp is a forested wetland; rough are stony badlands, unfit for agriculture but possibly suited for goat nomads. Green hills are suitable for sheep farming and cattle grazing.</p>
+
+<p>There&rsquo;s a 1-in-6 chance of a mountain being in fact a volcano. Roll 1d6 to find out.</p>
+
+<h2 id="settlements-or-ruins">Settlements or ruins</h2>
+
+<p>If this is the <em>starting hex</em>, the settlement is a village.</p>
+
+<p>If the 2d6 roll for altitude adjustment was a 7, there might be a settlement or ruin in the new hex.</p>
+
+<p>If the terrain is <em>forest</em> or <em>forested hill</em>, pick at random: village, ruin, tower, ruined tower, castle or ruined-castle.</p>
+
+<p>If the terrain is <em>desert</em>, <em>swamp</em> or <em>green hills</em>, pick at random: ruin, ruined tower, ruined castle.</p>
+
+<p><img loading="lazy" src="2024-04-17-solo-map-3.jpg" alt="A map with rivers, terrain, and settlements" /></p>
+
+<p><a class="tag" href="/search/?q=%23Text_Mapper">#Text Mapper</a> <a class="tag" href="/search/?q=%23Maps">#Maps</a> <a class="tag" href="/search/?q=%23RPG">#RPG</a></p> 
+
+<https://alexschroeder.ch/view/2024-04-17-solo-map>
+
+---
+
+## Broadcom says “many” VMware perpetual licenses got support extensions
+
+date: 2024-04-18, from: OS News
+
+Broadcom CEO Hock Tan this week publicized some concessions aimed at helping customers and partners ease into VMware’s recent business model changes. Tan reiterated that the controversial changes, like the end of perpetual licensing, aren&#8217;t going away. But amid questioning from antitrust officials in the European Union (EU), Tan announced that the company has already given support extensions for some VMware perpetual license holders. ↫ Scharon Harding at Ars Technica I&#8217;m linking to the Ars Technica writeup here, because the original blog post from Broadcom&#8217;s CEO is effectively unreadable to me, as steeped in corpospeak as it is. The basic gist is that the storm of criticism that&#8217;s been hovering around Broadcom ever since the changes it announced to VMware&#8217;s licensing strategy isn&#8217;t going away, and even attracted the attention of the European Union. As such, Broadcom is giving existing perpetual VMware license holders some breathing room, but not much, and their plans will be executed as-is regardless. I doubt Broadcom and VMware are big and crucial enough for the full might of the EU to come down on them, so I don&#8217;t think we&#8217;ll see any sudden turnarounds like we did with Apple and Facebook, for instance, but at least some cracks are clearly starting to show. If the aforementioned storm keeps up, pressure from customers might actually force more concessions out of Broadcom. 
+
+<https://www.osnews.com/story/139345/broadcom-says-many-vmware-perpetual-licenses-got-support-extensions/>
+
+---
+
+## gifboy - Create tiny GIF animations in Lua and share them using data URLs
+
+date: 2024-04-18, from: Tilde.news
+
+<p><a href="https://tilde.news/s/4yfbmb/gifboy_create_tiny_gif_animations_lua">Comments</a></p> 
+
+<https://gifboy.io>
+
+---
+
+## OSDR hosts Blue Origin Erika Wagner
+
+date: 2024-04-18, from: NASA breaking news
+
+Open Science Data Repository Team Hosts Blue Origin’s Dr Erika Wagner at the Meet the Expert Seminar Series Focused on Flight Integrators Friday, March 29, 2024—The Open Science Data Repository hosted the sixth presentation showcasing flight integrators in the “Meet the Expert” series. This series is targeted for the Open Science Analysis Working Group (AWG) [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/osdr-hosts-blue-origin-erika-wagner/>
+
+---
+
+## Dnsmasq wins the first BlueHats Prize
+
+date: 2024-04-18, updated: 2024-04-18, from: nlnet feed
+
+ 
+
+<https://nlnet.nl/news/2024/20240418-BlueHatsPrize1.html>
+
+---
+
+## NASA’s TESS Returns to Science Operations
+
+date: 2024-04-17, from: NASA breaking news
+
+NASA’s TESS (Transiting Exoplanet Survey Satellite) has returned to work after science observations were suspended on April 8, when the spacecraft entered into safe mode. All instruments are powered on and, following the successful download of previously collected science data stored in the mission’s recorder, are now making new science observations. Analysis of what triggered […] 
+
+<https://science.nasa.gov/missions/tess/nasas-tess-temporarily-pauses-science-observations/>
+
+---
+
+## Linus Torvalds really prefers tabs
+
+date: 2024-04-17, from: OS News
+
+Linus Torvalds really doesn&#8217;t like spaces &#8211; as in, tabs vs. spaces &#8211; and got a little annoyed that a commit removed a hidden tab because it &#8220;apparently showed breakage in some third-party kernel config parsing tool&#8221;. So, Torvalds decided to add some hidden tabs to trigger breakages like this, and is threatening to add more hidden tabs if necessary. It wasn&#8217;t clear what tool it was, but let&#8217;s make sure it gets fixed. Because if you can&#8217;t parse tabs as whitespace, you should not be parsing the kernel Kconfig files. In fact, let&#8217;s make such breakage more obvious than some esoteric ftrace record size option. If you can&#8217;t parse tabs, you can&#8217;t have page sizes. ↫ Linus Torvalds I&#8217;m not a programmer so I&#8217;m not going to wade into this debate &#8211; I have a personal Mastodon account to state it&#8217;s obviously tabs &#8211; but I did note that it seems like, at least in this commit message, Torvalds uses a double space after a period. Which is objectively the worst thing, right before Fahrenheit. 
+
+<https://www.osnews.com/story/139334/linus-torvalds-really-prefers-tabs/>
+
+---
+
+## LXQt 2.0.0 released, completes move to Qt 6
+
+date: 2024-04-17, from: OS News
+
+LXQt, the lightweight Qt desktop environment, has released a major new version, which brings with it a whole slew of very important changes and upgrades, with two main focal point. First and foremost, the desktop environment is now using Qt 6 across the board, meaning the transition from Qt 5 to Qt 6 is now complete. To support themes and the LXQt File Dialog for Qt5-based apps you can install libqtxdg-3.12.0, lxqt-qtplugin-1.4.1, and libfm-qt-1.4.0 alongside the new Qt 6 variants for backwards compatibility. One exception here is QTerminal, whose Qt 6 port ran into some issues, so a separate Qt 6 release will come later. The second major upgrade that&#8217;s still in progress is support for Wayland. LXQt 2.0.0 brings Wayland support for PCManFM-Qt, LXQt Runner, and LXQt Desktop Notifications, and for LXQt 2.1.0 they plan to make everything else available under Wayland as well. This means that more popular desktop environment like Cinnamon and Xfce are starting to feel a little out of step when it comes to Wayland. One of the major user-facing new features is a new default menu for the panel which supports favourites, a new and improved search feature, and more. 
+
+<https://www.osnews.com/story/139332/lxqt-2-0-0-released-completes-move-to-qt-6/>
+
+---
+
+##  Letter from the editors of Scientific American: We Need to Make Cities... 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044430-letter-from-the-editors-o>
+
+---
+
+## MIDICSV: Convert MIDI File to and from CSV (2004)
+
+date: 2024-04-17, from: Tilde.news
+
+<p><a href="https://tilde.news/s/mrc2zj/midicsv_convert_midi_file_from_csv_2004">Comments</a></p> 
+
+<http://www.fourmilab.ch/webtools/midicsv>
+
+---
+
+##  CCTV Footage Cross-Stitch 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/cctv-footage-cross-stitch>
+
+---
+
+##  PodcastAP allows you to follow podcasts and music feeds in the fediverse.... 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044422-podcastap-allows-you-to-f>
+
+---
+
+## The Marshall Star for April 17, 2024
+
+date: 2024-04-17, from: NASA breaking news
+
+The Full Experience: NASA, Marshall, and Arkansas Celebrate Total Solar Eclipse By Celine Smith More than 100,000 people from across the world gathered April 8 in Russellville, Arkansas, to witness an astronomical syzygy – the alignment of the Sun, Moon, and Earth – creating a solar eclipse with totality lasting 4 minutes and 12 seconds. [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-april-17-2024/>
+
+---
+
+##  I don&#8217;t really know how to describe this but here goes: Tavi... 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044424-i-dont-really-know-how>
+
+---
+
+## Remote Hero?
+
+date: 2024-04-17, from: Status-Q blog
+
+I know some of my readers will have seen this on John&#8217;s blog, but for others&#8230; A wonderful thing has happened. There is a new and marvellous recording of one of my all-time favourite tracks, Mark Knopfler&#8217;s Going Home, the theme music from the also-wonderful movie Local Hero. As if that weren&#8217;t enough, it includes <a class="more-link excerpt-link" href="https://statusq.org/archives/2024/04/17/12010/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<https://statusq.org/archives/2024/04/17/12010/>
+
+---
+
+##  This sounds really good: astrophysicist Katie Mack and curious person John Green... 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044429-this-sounds-really-good-a>
+
+---
+
+## NASA’s Near Space Network Enables PACE Climate Mission to ‘Phone Home’
+
+date: 2024-04-17, from: NASA breaking news
+
+The PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) mission has delivered its first operational data back to researchers, a feat made possible in part by innovative, data-storing technology from NASA’s Near Space Network, which introduced two key enhancements for PACE and other upcoming science missions. As a satellite orbits in space, its systems generate critical data [&#8230;] 
+
+<https://www.nasa.gov/technology/space-comms/nasas-near-space-network-enables-pace-climate-mission-to-phone-home/>
+
+---
+
+## Graphics offload revisited
+
+date: 2024-04-17, from: Gtk Developer blog
+
+We first introduced support for dmabufs and graphics offload last fall, and it is included in GTK 4.14. Since then, some improvements have happened, so it is time for an update. Improvements down the stack The GStreamer 1.24 release has improved support for explicit modifiers, and the GStreamer media backend in GTK has been updated &#8230; <a href="https://blog.gtk.org/2024/04/17/graphics-offload-revisited/" class="more-link">Continue reading<span class="screen-reader-text"> "Graphics offload revisited"</span></a> 
+
+<https://blog.gtk.org/2024/04/17/graphics-offload-revisited/>
+
+---
+
+## NASA Photographer Honored for Thrilling Inverted In-Flight Image
+
+date: 2024-04-17, from: NASA breaking news
+
+Riding in the back seat of a car can be boring. Riding in the back of a NASA aircraft is exhilarating, especially for photographers capturing NASA’s story. Jim Ross, photo lead at NASA’s Armstrong Flight Research Center in Edwards, California, was awarded first place for an image he took while flying upside down in a [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-photographer-honored-for-thrilling-inverted-in-flight-image/>
+
+---
+
+##  Drawing Media, an Interview With Nick Catucci 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/drawing-media-an-interview-with-nick-catucci>
+
+---
+
+## NASA to Hoist Its Sail: Solar Sail Mission Gets Ready for Launch
+
+date: 2024-04-17, from: NASA breaking news
+
+A NASA mission testing a new way of navigating our solar system is ready to hoist its sail into space – not to catch the wind, but the propulsive power of sunlight. The Advanced Composite Solar Sail System is targeting launch on Tuesday, April 23 (Wednesday, April 24 in New Zealand) aboard a Rocket Lab Electron [&#8230;] 
+
+<https://www.nasa.gov/image-article/nasa-to-hoist-its-sail-solar-sail-mission-gets-ready-for-launch/>
+
+---
+
+## Microsoft installs Copilot “AI” app on Windows Servers by accident, it claims
+
+date: 2024-04-17, from: OS News
+
+Do you administer Windows Server machines, and were you surprised to find a Windows Copilot application on your servers, that neither you nor your users installed? Well, it turns out that Microsoft installed this application alongside an update to the Edge browser &#8211; but the company claims this is in error, and the application will be removed in a future update. Updates to Edge browser version 123.0.2420.65, released on March 28, 2024 and later, might incorrectly install a new package (MSIX) called ‘Microsoft chat provider for Copilot in Windows’ on Windows devices. Resulting from this, the Microsoft Copilot app might appear in the Installed apps in Settings menu. It is important to note that the Microsoft chat provider for Copilot in Windows does not execute any code or process, and does not acquire, analyze, or transmit device or environment data in any capacity. ↫ Windows 11 known issues and notifications The company claims this was an enablement package to prepare some Windows devices for the arrival of Copilot, and that it was unintentionally installed on devices. While it doesn&#8217;t mean Copilot was actually installed on your PC or server, it&#8217;s still a chilling reminder of who really controls your PC or server. 
+
+<https://www.osnews.com/story/139330/microsoft-installs-copilot-ai-app-on-windows-servers-by-accident-it-claims/>
+
+---
+
+## It’s Time for a New AirPort
+
+date: 2024-04-17, from: Michael Tsai
+
+Joe Rosensteel (Mastodon): Jason didn&#8217;t get that speed boost from an Apple-made wireless router, because Apple got out of making those long ago. He didn&#8217;t get that speed from a wireless router currently for sale at the Apple Store because the only two options are the Linksys Velop AX4200 WiFi 6 Mesh System, and AmpliFi [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/17/its-time-for-a-new-airport/>
+
+---
+
+## macOS 14 Sonoma vs. exFAT
+
+date: 2024-04-17, from: Michael Tsai
+
+Mike Wuerthele and Malcolm Owen (via Ric Ford): An issue preventing some external drives from mounting onto a Mac running macOS Sonoma has plagued users for months, and it probably was caused by changes Apple made to drive handling.[&#8230;]Unlike the Windows-preferred NTFS or Apple&#8217;s APFS, exFAT can be read from and written to by both [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/17/macos-14-sonoma-vs-exfat/>
+
+---
+
+## Jpegli
+
+date: 2024-04-17, from: Michael Tsai
+
+Google (via Hacker News): To improve on this, we are introducing Jpegli, an advanced JPEG coding library that maintains high backward compatibility while offering enhanced capabilities and a 35% compression ratio improvement at high quality compression settings.[&#8230;]When images are compressed or decompressed through Jpegli, more precise and psychovisually effective computations are performed and images will [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/17/jpegli/>
+
+---
+
+## Rediscovering CardDAV
+
+date: 2024-04-17, from: Michael Tsai
+
+Jan-Piet Men (2020, via Hacker News): I can no longer sync iOS&#8217; Contacts with my macOS Catalina&#8217;s Finder (the iOS sync portion of iTunes is now built into the Finder in macOS Catalina); the OS insists I&#8217;ve iCloud configured for Contacts which I do not. [&#8230;] I was spilling my sorrows on Christoph who simply [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/17/rediscovering-carddav/>
+
+---
+
+## Framework lays out plan to improve its firmware and software development cycle
+
+date: 2024-04-17, from: OS News
+
+Only two days ago we were talking about the software and firmware issues at Framework, and today the company&#8217;s CEO has announced they&#8217;re taking some pretty big steps to address these problems. When building products to last, it’s not enough to design the hardware to be repairable, upgradeable, and customizable.&#160;The overall longevity of devices as complex as modern notebooks also depends on how long the software and firmware continues to be useful. That includes compatibility updates to support newer generations hardware modules, fixes for bugs or compatibility issues found by end users, and especially patches for security vulnerabilities.&#160;We recognize that we have fallen short of where we need to be on software updates, and we are making the needed investments to resolve this. We now have a dedicated team of engineers at our manufacturing partner and a set of internal stakeholders focused on ongoing software updates for all of our products, going back to our original Framework Laptop with 11th Gen Intel Core. In the past, we were reliant on ad-hoc availability of engineering time from our suppliers (basically borrowing staffing from whichever new product development we had ongoing). This was inconsistent and resulted in slow progress. With a dedicated team, there is no longer resource contention, and we are able deliver shorter turnaround times from discovering issues to resolving them. ↫ Nirav Patel They&#8217;ve also shared exactly how the development, testing, and release process new firmware releases will work, from identifying any issues to the final release to consumers, and they&#8217;re hiring new employees focused entirely on expediting this process. They also promise to support each device for as long as their upstream silicon vendors will, but they can&#8217;t give any guarantees on how long that will be since those upstream vendors aren&#8217;t sharing details like that. All in all, I think this is about as good a response as you can get from an OEM, but as they themselves note, they&#8217;ll have to show their customers these aren&#8217;t just mere words. Assuming it pans out the way Framework is promising here, I think it&#8217;s a fair and customer-friendly process. 
+
+<https://www.osnews.com/story/139328/framework-lays-out-plan-to-improve-its-firmware-and-software-development-cycle/>
+
+---
+
+## Wystan and Erika
+
+date: 2024-04-17, from: Ayjay blog
+
+The couple above are W. H. Auden and Erika Mann. The photo was taken by a student at The Downs School, where Auden was then teaching. Erika, the daughter of the novelist Thomas Mann and an ardent opponent of Nazism, had been living in England but was in imminent danger of being repatriated to Germany. [&#8230;] 
+
+<https://blog.ayjay.org/wystan-and-erica/>
+
+---
+
+##  Matthew Haughey: Embrace the Weird. &#8220;Who cares? Just make weird shit.&#8221; I... 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044419-matthew-haughey-embrace-t>
+
+---
+
+## Technoptimism, TED, and The Road to the Future
+
+date: 2024-04-17, from: Gary Marcus blog
+
+It&#8217;s kind of surreal to compare some of the talks at TED yesterday with reality. Microsoft&#8217;s Mustafa Suleyman promised that hallucinations would be cured &#8220;soon&#8221;, yet my X feed is still filled with examples like these from Princeton Professor Aleksandra Korolova: 
+
+<https://garymarcus.substack.com/p/technoptimism-ted-and-the-road-to>
+
+---
+
+## NASA Announces Winners of Power to Explore Challenge
+
+date: 2024-04-17, from: NASA breaking news
+
+NASA announced the winners on Wednesday of the third annual Power to Explore Challenge, a national writing competition designed to teach K-12 students about the power of radioisotopes for space exploration. The competition asked students to learn about NASA’s Radioisotope Power Systems (RPS), “nuclear batteries” the agency uses to explore some of the most extreme [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-announces-winners-of-power-to-explore-challenge/>
+
+---
+
+##  An appreciation of Calvin and Hobbes and its creator Bill Watterson by... 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044420-an-appreciation-of-calvin>
+
+---
+
+## An intro to TSConfig for JavaScript Developers
+
+date: 2024-04-17, updated: 2024-04-17, from: Deno blog
+
+TypeScript, one of the fastest growing languages, helps JavaScript developers improve code quality and productivity. But getting started can be challenging. Here's an introduction to TSConfig. 
+
+<https://deno.com/blog/intro-to-tsconfig>
 
 ---
 
@@ -165,6 +898,18 @@ date: 2024-04-17, updated: 2024-04-17, from: One Foot Tsunami
 
 ---
 
+## 
+                Reviving PC DOS 7 in QEMU
+            
+
+date: 2024-04-17, updated: 2024-04-17, from: Uninformative blog
+
+ 
+
+<https://www.uninformativ.de/blog/postings/2024-04-17/0/POSTING-en.html>
+
+---
+
 ## Bike crash 2023 anniversary
 
 date: 2024-04-17, from: Liam Proven blog
@@ -285,6 +1030,143 @@ date: 2024-04-17, updated: 2024-04-17, from: nlnet feed
  
 
 <https://nlnet.nl/news/2024/20240417-announcing-projects.html>
+
+---
+
+## Query Parsing and Understanding
+
+date: 2024-04-17, from: Marginallia log
+
+Been working on improving Marginalia Search query parsing and understanding. This is going to be a pretty long update, as it&rsquo;s a few months&rsquo; work.
+Apart from cleaning up the somewhat messy query parsing code, a problem I&rsquo;m trying to address is that the search engine is currently only good at dealing with fairly focused queries, they don&rsquo;t need to be short, but if you try to qualify a search that is too broad by adding more terms, it often doesn&rsquo;t produce anything useful. 
+
+<https://www.marginalia.nu/log/a_103_query_parsing/>
+
+---
+
+## Announcing IvorySQL 3.2: New Oracle XML Function Compatibility and Upgrade to PostgreSQL 16.2
+
+date: 2024-04-17, from: PostgreSQL News
+
+<p>Dear Community Members,</p>
+<p>We are excited to introduce IvorySQL 3.2, a significant update that includes a brand new feature for Oracle XML function compatibility alongside an upgrade to PostgreSQL 16.2. This release strengthens our PostgreSQL-based database project with improved capabilities and compatibility.</p>
+<h3>What's New in IvorySQL 3.2:</h3>
+<ul>
+<li><strong>New Oracle XML Function Compatibility</strong>: Introduces compatibility with a variety of Oracle XML functions, broadening our support for Oracle-based systems.</li>
+<li><strong>Upgraded to PostgreSQL 16.2</strong>: Updates the core database engine to PostgreSQL 16.2, incorporating the latest enhancements and bug fixes.</li>
+</ul>
+<h3>Fixed Issues:</h3>
+<ul>
+<li>Resolved a documentation build failure: <a href="https://github.com/IvorySQL/IvorySQL/issues/645">Issue #645</a></li>
+<li>Eliminated build warnings: <a href="https://github.com/IvorySQL/IvorySQL/issues/649">Issue #649</a></li>
+<li>Corrected a parameter issue with the <code>to_date</code> function: <a href="https://github.com/IvorySQL/IvorySQL/issues/592">Issue #592</a></li>
+<li>Fixed label issues in the <code>create function</code> syntax: <a href="https://github.com/IvorySQL/IvorySQL/issues/624">Issue #624</a></li>
+</ul>
+<p>For a detailed list of all the new features and fixes, please visit our release notes on <a href="https://github.com/IvorySQL/IvorySQL/releases">IvorySQL GitHub Releases</a> and the <a href="https://www.ivorysql.org/releases-page">IvorySQL Release Page</a>.</p>
+<h3>Acknowledgments and Contributions:</h3>
+<p>A huge thank you to all our users who contributed patches, reported bugs, and proposed new features. The names of all contributors to this release are listed in the release notes.</p>
+<p>IvorySQL thrives on community contributions. We warmly welcome your ideas, feature requests, or patches. Please share your contributions on our <a href="https://github.com/IvorySQL/IvorySQL/">GitHub page</a>.</p>
+<h3>Useful Links:</h3>
+<ul>
+<li><strong>Homepage</strong>: <a href="https://www.ivorysql.org">IvorySQL Official Site</a></li>
+<li><strong>Documentation</strong>: <a href="https://docs.ivorysql.org/">IvorySQL Docs</a></li>
+<li><strong>GitHub Repository</strong>: <a href="https://github.com/IvorySQL/IvorySQL">IvorySQL GitHub</a></li>
+<li><strong>Website Repository</strong>: <a href="https://github.com/IvorySQL/Ivory-www">Website GitHub</a></li>
+<li><strong>Document Repository</strong>: <a href="https://github.com/IvorySQL/ivory-doc-builder">Document Site GitHub</a></li>
+<li><strong>Download IvorySQL</strong>: <a href="https://www.ivorysql.org/releases-page">Download Page</a></li>
+<li><strong>Support</strong>: Report issues <a href="https://github.com/IvorySQL/IvorySQL/">here</a> or contact contact(at)highgo(dot)ca</li>
+</ul>
+<p>We look forward to your feedback on IvorySQL 3.2 and your continued support in making IvorySQL even better.</p>
+<p>Best regards,</p>
+<p>The IvorySQL Development Team</p> 
+
+<https://www.postgresql.org/about/news/announcing-ivorysql-32-new-oracle-xml-function-compatibility-and-upgrade-to-postgresql-162-2839/>
+
+---
+
+## pgdbDiffo 5.0 Released!
+
+date: 2024-04-17, from: PostgreSQL News
+
+<p>The <strong>dbDiffo Developer Team</strong> is happy to announce the release of <strong>pgdbDiffo 5.0</strong>, which is a <strong>free online data modeler for PostgreSQL</strong>.  </p>
+<p>Starting from this version, <strong>pgdbDiffo</strong> is integrated with <strong>Make Love, Not Code!</strong>, a <strong>low-code/no-code application generator</strong> for HTML/JS/PHP/PostgreSQL projects.  </p>
+<p>See <a href="https://dbdiffo.com">https://dbdiffo.com</a> for more information and download links.</p>
+<h2>About pgdbDiffo</h2>
+<p><a href="https://dbdiffo.com/#pgdbdiffo">pgdbDiffo</a> is an alternate version of <a href="https://dbdiffo.com/#dbdiffo">dbDiffo</a>, which is a <strong>really free online data modeler</strong> (database schema designer). It runs on your on-premises servers and in your browser. 
+It can generate SQL scripts from your model. You can execute the generated SQL scripts (create and change/alter scripts) in your database with a click.  </p>
+<p>It is integrated with <strong>Make Love, Not Code!</strong>, which is a powerful <strong>low-code/no-code application generator</strong> for HTML/JS/PHP/PostgreSQL projects. You can use your application even within a few minutes (depending on how many tables your database has).  </p>
+<p>Free for <strong>commercial</strong> and <strong>non-commercial</strong> use.  </p>
+<p>Free for <strong>unlimited database tables</strong> and <strong>unlimited projects</strong>.</p> 
+
+<https://www.postgresql.org/about/news/pgdbdiffo-50-released-2829/>
+
+---
+
+## PL/Haskell v4.0 Released
+
+date: 2024-04-17, from: PostgreSQL News
+
+<p>We are pleased to announce the release of version 4.0 of the <a href="https://github.com/ed-o-saurus/PLHaskell/releases/4.0">PL/Haskell extension</a>. This extension allows users to write PostgreSQL functions in the Haskell functional programming language. Instructions can be found <a href="https://github.com/ed-o-saurus/PLHaskell/blob/main/README.md">here</a>.</p>
+<p>Version 4.0 adds the ability to work with arrays.</p>
+<p>This release adds the ability to pass composite values to queries.</p>
+<p>Note that there is a break of backwards comparability regarding composite types returned from queries. </p>
+<p>Users of Ubuntu and Fedora can install the extension directly from the rpm and apt <a href="https://github.com/ed-o-saurus/PLHaskell/blob/main/README.md#package-repositories">repositories</a>.</p>
+<p>If you have problems with the extension or a feature request, please submit a Github issue.</p> 
+
+<https://www.postgresql.org/about/news/plhaskell-v40-released-2842/>
+
+---
+
+## SmartXML 1.0 Tool for loading XML into PostgreSQL
+
+date: 2024-04-17, from: PostgreSQL News
+
+<p><strong>SmartXML</strong> 1.0 released </p>
+<p>SmartXML is a tool that allows you to parse XML and load data into PostgreSQL.</p>
+<h4>Key features:</h4>
+<ul>
+<li>
+<p>does not require programming skills</p>
+</li>
+<li>
+<p>works with very large and complex XML files</p>
+</li>
+<li>
+<p>does not require XSD schema</p>
+</li>
+<li>
+<p>can process XML with fuzzy structure</p>
+</li>
+<li>
+<p>supports batch insertion into PostgreSQL</p>
+</li>
+<li>
+<p>table patches can be generated from XML</p>
+</li>
+<li>
+<p>support for generating ON CONFLICT DO queries</p>
+</li>
+</ul>
+<h4>Operation Systems:</h4>
+<p>Windows: full support</p>
+<p>Linux: alpha version</p>
+<h4>Links:</h4>
+<p>Website: <a href="https://redata.dev/smartxml">https://redata.dev/smartxml</a></p> 
+
+<https://www.postgresql.org/about/news/smartxml-10-tool-for-loading-xml-into-postgresql-2841/>
+
+---
+
+## PGConf.BE : Speakers online and Registrations open
+
+date: 2024-04-17, from: PostgreSQL News
+
+<p><a href="https://pgconf.be/index.html">PGConf.BE 2024</a> will be held in Haasrode, Leuven, about 25km from Brussels.</p>
+<p>The conference will take place on May 7th, 2024. <a href="https://pgconf.be/#registration">Registrations</a> are open.</p>
+<p>The <a href="https://pgconf.be/#speakers">speakers</a> and their sessions are available, as well as the <a href="https://pgconf.be/#schedule">preliminary schedule</a>.</p>
+<p>See you in Leuven in May 2024!</p> 
+
+<https://www.postgresql.org/about/news/pgconfbe-speakers-online-and-registrations-open-2837/>
 
 ---
 
@@ -534,6 +1416,16 @@ date: 2024-04-16, updated: 2024-04-16, from: Jason Kottke blog
  
 
 <https://kottke.org/24/04/0044397-eric-topol-interviews-jen>
+
+---
+
+## Diversifying Access to the Local Historical Record with Community Webs
+
+date: 2024-04-16, from: Internet Archive Blog
+
+Since 2017, Community Webs has partnered with public libraries and heritage organizations to document and diversify the historical record. These organizations have collectively archived over 100 terabytes of web-based community [&#8230;] 
+
+<https://blog.archive.org/2024/04/16/diversifying-access-to-the-local-historical-record-with-community-webs/>
 
 ---
 

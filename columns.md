@@ -1,11 +1,562 @@
 ---
 title: columns 2024.16
-updated: 2024-04-17 08:24:36
+updated: 2024-04-18 08:55:31
 ---
 
 # columns 2024.16
 
-(date: 2024-04-17 08:24:36)
+(date: 2024-04-18 08:55:31)
+
+---
+
+##  &#8220;You still don&#8217;t see the link? It&#8217;s right there on the bottom... 
+
+date: 2024-04-18, updated: 2024-04-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044421-you-still-dont-see-the>
+
+---
+
+##  The strange and turbulent global world of ant geopolitics. &#8220;There are roughly... 
+
+date: 2024-04-18, updated: 2024-04-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044417-the-strange-and-turbulent>
+
+---
+
+**@Ayjay blog** (date: 2024-04-18, from: Ayjay blog)
+
+The Internet’s New Favorite Philosopher &#124; The New Yorker: Maret is part of a growing coterie of readers who have embraced [Byung-Chul] Han as a kind of sage of the Internet era. Elizabeth Nakamura, a twentysomething art-gallery associate in San Francisco, had a similar conversion experience, during the early days of pandemic lockdown, after someone [&#8230;] 
+
+<https://blog.ayjay.org/46073-2/>
+
+---
+
+##  Helsinki Bus Station Theory of Creativity 
+
+date: 2024-04-18, updated: 2024-04-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/helsinki-bus-station-theory-of-creativity>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-18, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2012/02/16/1984.jpg" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Suppose you're working deep inside a complex project and have an unrelated idea. How long does it take to switch to writing mode, get the idea down, and return to what you were doing. The less time it takes the more <i>fluidity. </i>Twitter totally won there. And we, the bloggers, made a tradeoff. We accepted fewer features and writing in a silo because it was practical. It worked, where less fluid software didn't. So they got all the causal writing, and over time sucked the life out of blogging. I think it's time to put the fluidity back, without compromising on features and lock-in. 
+
+<http://scripting.com/2024/04/18.html#a134722>
+
+---
+
+##  Wired&#8217;s Steven Levy on how 8 Google Employees Invented Modern AI. (They... 
+
+date: 2024-04-18, updated: 2024-04-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044416-wireds-steven-levy-on-how>
+
+---
+
+## Other Attempts to Take Over Open Source Projects
+
+date: 2024-04-18, updated: 2024-04-18, from: Bruce Schneier blog
+
+<p>After the XZ Utils discovery, people have been <a href="https://openjsf.org/blog/openssf-openjs-alert-social-engineering-takeovers">examining</a> other open-source projects. Surprising no one, the incident is not unique:</p>
+<blockquote><p>The OpenJS Foundation Cross Project Council received a suspicious series of emails with similar messages, bearing different names and overlapping GitHub-associated emails. These emails implored OpenJS to take action to update one of its popular JavaScript projects to &#8220;address any critical vulnerabilities,&#8221; yet cited no specifics. The email author(s) wanted OpenJS to designate them as a new maintainer of the project despite having little prior involvement. This approach bears strong resemblance to the manner in which &#8220;Jia Tan&#8221; positioned themselves in the XZ/liblzma backdoor...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/04/other-attempts-to-take-over-open-source-projects.html>
+
+---
+
+## 2024-04-17 A map generator for solo play
+
+date: 2024-04-18, from: Alex Schroeder's Blog
+
+<h1 id="2024-04-17-a-map-generator-for-solo-play">2024-04-17 A map generator for solo play</h1>
+
+<p>Inspired by <a class="account" href="https://ttrpg-hangout.social/@enfors" title="@enfors@ttrpg-hangout.social">@enfors</a> quest for a random map generator that would work for solo-gaming, where the exploration roll happens as you enter a new hex and no overall map is known beforehand, I&rsquo;ve been thinking of a <a href="https://campaignwiki.org/text-mapper/solo/random">Solo algorithm</a> for <a href="Text_Mapper">Text Mapper</a>.</p>
+
+<p>As always, my main issue with maps is river systems. I just can’t help it! 😅 The solo-gaming constraint makes this an interesting challenge because you can’t ever go back and redo a hex that’s been discovered.</p>
+
+<p>The first problem was that I needed a model of how the map was going to be explored to simulate the key constraint. What I use is a biased random walk of ever increasing length that keeps starting in the middle of the map, where the &ldquo;safe haven&rdquo; is imagined to be. The random walk is biased in as much as it prefers to pick an unexplored hex, if possible.</p>
+
+<p><img loading="lazy" src="2024-04-17-solo-map-1.jpg" alt="Example explorations on the map." /></p>
+
+<p>When debugging, the numbers on the map represent the order in which the hexes are discovered, the coordinates and the altitude from 0 to 10.</p>
+
+<p>Of course my algorithm still runs into impossible situations like rivers meeting in a local minimum that I can&rsquo;t fix because there are no take-backs. In those situations I have decided to place a cave entrance and would run it as an entrance into the underworld. Who wouldn&rsquo;t want rivers to disappear into the underworld‽</p>
+
+<blockquote>
+<p>Examples: In the map above, when entering 1008 or 1405, river flow could turn out to be problematic since all the surrounding hexes have been explored and can no longer be changed.</p>
+</blockquote>
+
+<p>Every hex has two extra data points:</p>
+
+<ol>
+<li>altitude from 0 (the deep ocean) to 10 (the highest peaks)</li>
+<li>optionally, a direction of water flow (where it goes to)</li>
+</ol>
+
+<p>The strange part about this is that you cannot tell which hex is &ldquo;up river&rdquo; without actually going there and seeing whether this is where the water came from. If the next hex has no river then you followed a small creek that got smaller and smaller and finally it disappeared. If the next hex has a river that flows elsewhere, then you crossed a ridge and now you&rsquo;re in another valley.</p>
+
+<p>When determining a random neighbour, roll a d6: 1 is north, 2 is north-east, 3 is south-east, 4 is south, 5 is south-west, 6 is north-west.</p>
+
+<p>Here&rsquo;s how you start the map:</p>
+
+<ol>
+<li>Roll a d6 for the <em>preferred direction</em> of water for this map.</li>
+<li>Pick a hex in the middle of the map. Assign it the altitude 5.</li>
+<li>Roll a d6 for the <em>direction of the local river</em>. The starting hex always has a river.</li>
+<li>Roll 2d6 and <em>adjust the altitude</em> (see below).</li>
+<li>Use the same 2d6 result for the check whether the new hex has <em>water flow</em> (see below).</li>
+<li>Now that altitude and water flow are known, determine the terrain (see below).</li>
+<li>Use the same 2d6 result for the check whether the new hex has a <em>settlement or ruin</em> (see below).
+The starting hex always starts with a village.</li>
+<li>When entering a new hex, go back to step 4.</li>
+</ol>
+
+<h2 id="adjust-the-altitude">Adjust the altitude</h2>
+
+<p>The provisional altitude of the new hex starts out as the altitude of where you&rsquo;re coming from (no sudden changes).</p>
+
+<p>The altitude of the new hex is adjusted based on the 2d6 roll made above.</p>
+
+<ol>
+<li>If all the known hexes around the current hex are at altitudes 0–1, then the max altitude is 0 (deep ocean). No other factors come into play, so you can skip the rest of the altitude adjustment.</li>
+<li>If there are neighbouring hexes with water flowing from there to the current hex, then their lowest altitude is the current&rsquo;s hex max altitude (because rivers don&rsquo;t flow up).</li>
+</ol>
+
+<p>Take the 2d6 roll made above and look up the altitude change on the following table:</p>
+
+<table>
+<thead>
+<tr>
+<th align="center">2d6</th>
+<th align="center">Change</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">2</td>
+<td align="center">-2</td>
+</tr>
+
+<tr>
+<td align="center">3</td>
+<td align="center">-1</td>
+</tr>
+
+<tr>
+<td align="center">4–9</td>
+<td align="center">see below</td>
+</tr>
+
+<tr>
+<td align="center">10</td>
+<td align="center">+1</td>
+</tr>
+
+<tr>
+<td align="center">11</td>
+<td align="center">+1</td>
+</tr>
+
+<tr>
+<td align="center">12</td>
+<td align="center">+2</td>
+</tr>
+</tbody>
+</table>
+<p>On a result of 4–9 it depends on the slope:</p>
+
+<p>If coming from altitude 7 or higher, then check the direction you&rsquo;re moving in.
+If you&rsquo;re moving in the direction of the preferred slope or in the opposite direction, there is no change.
+If you&rsquo;re moving in a different direction, the change is -1.</p>
+
+<blockquote>
+<p>Example: Assume the slope is &ldquo;north&rdquo;. If you&rsquo;re moving &ldquo;south&rdquo; (the opposite of &ldquo;north&rdquo;) from a hex with an altitude of 8, then there is no change.</p>
+</blockquote>
+
+<p>If coming from altitude 6 or lower, the check the direction you&rsquo;re moving in.
+If you&rsquo;re moving in the direction of the preferred slope, the change is -1.</p>
+
+<blockquote>
+<p>Example: Assume the slope is &ldquo;north&rdquo;. If you&rsquo;re moving &ldquo;south&rdquo; from a hex with an altitude of 6, then there is no change.</p>
+</blockquote>
+
+<p>The idea is that mountain chains form along rivers and rivers have a tendency to run towards the ocean.
+Whether this actually works as intended, I don&rsquo;t know.</p>
+
+<p>Apply the change to the provisional altitude and adjust for the maximum.</p>
+
+<blockquote>
+<p>Example: You&rsquo;re entering a new hex from a hex with altitude 5. You know is that is has a neighbouring hex with altitude 4 that has a river going towards the same hex. The max altitude is therefore a 4. Roll 2d6. If you get a 2, the change is -2 and the new hex has an altitude of 5 - 2 = 3; otherwise it has an altitude of 4 because of the max and you don&rsquo;t need to bother with anything else.</p>
+</blockquote>
+
+<p><img loading="lazy" src="2024-04-17-solo-map-2.jpg" alt="A height map without the effects of water flow" /></p>
+
+<h2 id="water-flow">Water flow</h2>
+
+<p>If the altitude of the new hex is 0, there is no water flow (deep ocean).</p>
+
+<p>The new hex has water flow if any of the following is true:</p>
+
+<ol>
+<li>if there is a river flowing from a neighbouring hex into the new hex;</li>
+<li>if the altitude of the new hex is 1 (so that lakes can drain);</li>
+<li>if the altitude is 2–8 and the 2d6 roll for altitude adjustment was a 5–8.</li>
+</ol>
+
+<p>If so, determine the direction of the water, trying one of the following:</p>
+
+<ol>
+<li>pick at random from the unknown neighbouring hexes and the known neighbouring hexes at a <em>lower</em> altitude with a river that doesn&rsquo;t end up in the new hex you&rsquo;re looking at (avoid circular rivers); if there is more than one candidate, prefer a hex in the direction of the <em>preferred slope</em> ±1 (to the left or right of the preferred slope);</li>
+<li>pick a random, known, neighbouring hex at the <em>same</em> altitude with a river that doesn&rsquo;t end up in the new hex you&rsquo;re looking at (avoid circular rivers); if there is more than one candidate, prefer a hex in the direction of the <em>preferred slope</em> ±1 (to the left or right of the preferred slope);</li>
+<li>or – &ldquo;it&rsquo;s magic!&rdquo; – just pick one from the neighbouring hexes (all of them at a higher altitude, of course) with a river that doesn&rsquo;t end up in the new hex you&rsquo;re looking at (avoid circular rivers); if there is more than one candidate, prefer a hex in the direction of the <em>preferred slope</em> ±1 (to the left or right of the preferred slope)</li>
+<li>finally, if all else fails, then it&rsquo;s an <em>entrance into the underworld</em> and the river ends right here!</li>
+</ol>
+
+<blockquote>
+<p>Example: Entering a new hex from the south, with the preferred slope being &ldquo;north&rdquo;. The altitudes and directions of the known neighbours are as follows: current hex, 5; south (where you came from), 4; north-west, 4; north, 5. Randomly pick between north-west and north-east (an unknown hex!) since north-west is to the left of the preferred slope and north-east is to the right of the preferred slope. North is at the same altitude and south is in the wrong direction.</p>
+</blockquote>
+
+<p>Sadly, this algorithm doesn&rsquo;t tell you whether a newly discovered hex at altitude 1 is a sweet water lake or salty coastal waters.
+As mentioned above, this algorithm also doesn&rsquo;t tell you from which neighbouring hex a river comes from.</p>
+
+<h2 id="terrain">Terrain</h2>
+
+<p>Based on altitude and water flow, the terrain can be determined.</p>
+
+<table>
+<thead>
+<tr>
+<th align="center">Altitude</th>
+<th>With river</th>
+<th>No river</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">0</td>
+<td colspan="2">ocean</td>
+</tr>
+
+<tr>
+<td align="center">1</td>
+<td colspan="2">coastal</td>
+</tr>
+
+<tr>
+<td align="center">2</td>
+<td>swamp</td>
+<td>desert</td>
+</tr>
+
+<tr>
+<td align="center">3</td>
+<td>swamp</td>
+<td>plain</td>
+</tr>
+
+<tr>
+<td align="center">4</td>
+<td>forest</td>
+<td>plain</td>
+</tr>
+
+<tr>
+<td align="center">5</td>
+<td>forest</td>
+<td>plain</td>
+</tr>
+
+<tr>
+<td align="center">6</td>
+<td>forested hills</td>
+<td>rough</td>
+</tr>
+
+<tr>
+<td align="center">7</td>
+<td>green hills</td>
+<td>hills</td>
+</tr>
+
+<tr>
+<td align="center">8</td>
+<td colspan="2">mountains</td>
+</tr>
+
+<tr>
+<td align="center">9</td>
+<td colspan="2">mountain or volcano</td>
+</tr>
+
+<tr>
+<td align="center">10</td>
+<td colspan="2">glacier</td>
+</tr>
+</tbody>
+</table>
+<p>In this context, a swamp is a forested wetland; rough are stony badlands, unfit for agriculture but possibly suited for goat nomads. Green hills are suitable for sheep farming and cattle grazing.</p>
+
+<p>There&rsquo;s a 1-in-6 chance of a mountain being in fact a volcano. Roll 1d6 to find out.</p>
+
+<h2 id="settlements-or-ruins">Settlements or ruins</h2>
+
+<p>If this is the <em>starting hex</em>, the settlement is a village.</p>
+
+<p>If the 2d6 roll for altitude adjustment was a 7, there might be a settlement or ruin in the new hex.</p>
+
+<p>If the terrain is <em>forest</em> or <em>forested hill</em>, pick at random: village, ruin, tower, ruined tower, castle or ruined-castle.</p>
+
+<p>If the terrain is <em>desert</em>, <em>swamp</em> or <em>green hills</em>, pick at random: ruin, ruined tower, ruined castle.</p>
+
+<p><img loading="lazy" src="2024-04-17-solo-map-3.jpg" alt="A map with rivers, terrain, and settlements" /></p>
+
+<p><a class="tag" href="/search/?q=%23Text_Mapper">#Text Mapper</a> <a class="tag" href="/search/?q=%23Maps">#Maps</a> <a class="tag" href="/search/?q=%23RPG">#RPG</a></p> 
+
+<https://alexschroeder.ch/view/2024-04-17-solo-map>
+
+---
+
+## The Party’s Over 
+
+date: 2024-04-18, from: Robert Reich's blog
+
+Friends, Last Sunday, on ABC&#8217;s &#8220;This Week,&#8221; host George Stephanopoulos asked New Hampshire&#8217;s Republican governor Chris Sununu about his recent switch from supporting former South Carolina governor Nikki Haley for the Republican presidential nomination to supporting former president Trump. 
+
+<https://robertreich.substack.com/p/the-partys-over>
+
+---
+
+## Rewilding for resilience
+
+date: 2024-04-18, from: Tracy Durnell Blog
+
+Taken together, the enclosure of infrastructure and imposition of technology monoculture forecloses our futures. As a top-down, built environment, the internet has become something that is done to us, not something we collectively remake every day. Rewilding is a work in progress. It’s not about trying to revert ecosystems to a mythical Eden. Instead, rewilders [&#8230;] 
+
+<https://tracydurnell.com/2024/04/17/rewilding-for-resilience/>
+
+---
+
+## remint (for remind)
+
+date: 2024-04-18, from: Jirka's blog
+
+Just a short  note: the "remint"  {sup}1{/sup}  is a nice too which  makes use of the Remind calendar system ("remind")  {sup}2{/sup}. Somewhat easier. 
+
+<http://jirka.1-2-8.net/20240418-0440_remint>
+
+---
+
+## ★ European Data Protection Board Goes There, Rules Against Meta’s ‘Pay or OK’ Model
+
+date: 2024-04-18, updated: 2024-04-18, from: Daring Fireball
+
+If Meta caves and complies with this ruling by offering a free tier with significantly lower ARPU, that opens the door for regulators and legislative bodies around the globe to demand the same. 
+
+<https://daringfireball.net/2024/04/edpb_meta_pay_or_ok>
+
+---
+
+## ‘Oh the Humanity’
+
+date: 2024-04-18, updated: 2024-04-18, from: Daring Fireball
+
+ 
+
+<https://www.sandofsky.com/humane/>
+
+---
+
+## Ippei Mizuhara, Shohei Ohtani’s Interpreter and Friend, Stole $16 Million to Pay Only a Portion of His Gambling Losses
+
+date: 2024-04-18, updated: 2024-04-18, from: Daring Fireball
+
+ 
+
+<https://www.nytimes.com/2024/04/13/business/shohei-ohtani-interpreter-details.html>
+
+---
+
+## NBA Bars Jontay Porter for Betting
+
+date: 2024-04-18, updated: 2024-04-18, from: Daring Fireball
+
+ 
+
+<https://theathletic.com/5423208/2024/04/17/jontay-porter-banned-nba-betting/>
+
+---
+
+## Style vs. taste
+
+date: 2024-04-17, from: Tracy Durnell Blog
+
+&#8230;taste can be a practice—a result, even, of living authentically. Complement to yesterday&#8217;s quote about taste requiring vulnerability: style is following trends instead of self-knowledge, which is needed to define personal taste. Here, Kyle Chayka&#8217;s talking about the same lack of meaning in style trends today that Nahman points to: Decades ago, friction was what [&#8230;] 
+
+<https://tracydurnell.com/2024/04/17/style-vs-taste/>
+
+---
+
+##  Letter from the editors of Scientific American: We Need to Make Cities... 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044430-letter-from-the-editors-o>
+
+---
+
+##  CCTV Footage Cross-Stitch 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/cctv-footage-cross-stitch>
+
+---
+
+## Of Course Regulation Can Work
+
+date: 2024-04-17, updated: 2024-04-17, from: Daring Fireball
+
+ 
+
+<https://sixcolors.com/post/2024/04/want-apple-to-change-regulation-works/>
+
+---
+
+##  PodcastAP allows you to follow podcasts and music feeds in the fediverse.... 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044422-podcastap-allows-you-to-f>
+
+---
+
+## Feeling duped by Amazon's "magical AI" bullshit
+
+date: 2024-04-17, from: Matt Haughey blog
+
+<p>Back in the Summer of 2019, I was in Seattle doing customer interviews for work, and I stopped by a friend&apos;s apartment in downtown Seattle. I spent a few hours there while using his wifi along with a spare desk. Nothing was too unusual until I went to</p> 
+
+<https://a.wholelottanothing.org/feeling-duped-by-amazon/>
+
+---
+
+## Delta Game Emulator Now Available From the App Store
+
+date: 2024-04-17, updated: 2024-04-18, from: Daring Fireball
+
+ 
+
+<https://www.macrumors.com/2024/04/17/delta-game-emulator-iphone/>
+
+---
+
+##  I don&#8217;t really know how to describe this but here goes: Tavi... 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044424-i-dont-really-know-how>
+
+---
+
+## The obscenity of women’s pleasure
+
+date: 2024-04-17, from: Tracy Durnell Blog
+
+They come for the mail order abortion drugs first, but mark my words, they will try to use these 1800s Comstock Laws to block mail delivery of birth control too: for what could be more obscene than a woman copulating for pleasure, with no intention of breeding? 😱 Companies have already set this precedent by [&#8230;] 
+
+<https://tracydurnell.com/2024/04/17/the-obscenity-of-womens-pleasure/>
+
+---
+
+##  This sounds really good: astrophysicist Katie Mack and curious person John Green... 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044429-this-sounds-really-good-a>
+
+---
+
+## AltStore PAL Launches in the EU
+
+date: 2024-04-17, updated: 2024-04-17, from: Daring Fireball
+
+ 
+
+<https://rileytestut.com/blog/2024/04/17/introducing-altstore-pal/>
+
+---
+
+##  Drawing Media, an Interview With Nick Catucci 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/drawing-media-an-interview-with-nick-catucci>
+
+---
+
+## Wystan and Erika
+
+date: 2024-04-17, from: Ayjay blog
+
+The couple above are W. H. Auden and Erika Mann. The photo was taken by a student at The Downs School, where Auden was then teaching. Erika, the daughter of the novelist Thomas Mann and an ardent opponent of Nazism, had been living in England but was in imminent danger of being repatriated to Germany. [&#8230;] 
+
+<https://blog.ayjay.org/wystan-and-erica/>
+
+---
+
+##  Matthew Haughey: Embrace the Weird. &#8220;Who cares? Just make weird shit.&#8221; I... 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044419-matthew-haughey-embrace-t>
+
+---
+
+## Donald Trump Writes and Narrates Documentary Short Film on the Battle of Gettysburg
+
+date: 2024-04-17, updated: 2024-04-17, from: Daring Fireball
+
+ 
+
+<https://twitter.com/Randall_Stps/status/1780295504561131876>
+
+---
+
+##  An appreciation of Calvin and Hobbes and its creator Bill Watterson by... 
+
+date: 2024-04-17, updated: 2024-04-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044420-an-appreciation-of-calvin>
 
 ---
 
@@ -84,6 +635,18 @@ Video: <a href="https://www.youtube.com/watch?v=6mdi8C3aDC0">Design issues in Fe
 
 ---
 
+## 
+                Reviving PC DOS 7 in QEMU
+            
+
+date: 2024-04-17, updated: 2024-04-17, from: Uninformative blog
+
+ 
+
+<https://www.uninformativ.de/blog/postings/2024-04-17/0/POSTING-en.html>
+
+---
+
 ## Using AI-Generated Legislative Amendments as a Delaying Technique
 
 date: 2024-04-17, updated: 2024-04-14, from: Bruce Schneier blog
@@ -123,6 +686,16 @@ date: 2024-04-17, from: Tracy Durnell Blog
 I suspect the rise of inspiration-sharing platforms might be making me, and everyone else on the collaborative internet, more focused on publicising our taste rather than feeding it. &#160; See also: The draw of the herd Algorithmic recommendations create &#8220;curiosity ruts&#8221; Performing yourself on social media Watched The 5 Secrets to Designing a Feelgood Home [&#8230;] 
 
 <https://tracydurnell.com/2024/04/16/the-vulnerability-of-having-taste/>
+
+---
+
+## ‘Papyrus 2’
+
+date: 2024-04-17, updated: 2024-04-17, from: Daring Fireball
+
+ 
+
+<https://kottke.org/24/04/papyrus-2-a-bold-new-look-for-avatar>
 
 ---
 
@@ -528,6 +1101,16 @@ His presidential campaign is treasonous
 
 ---
 
+## [Sponsor] Kolide: ‘Looking Past the Smoke and Mirrors of the MGM Hack’
+
+date: 2024-04-16, updated: 2024-04-16, from: Daring Fireball
+
+ 
+
+<https://l.kolide.co/43vcTaN>
+
+---
+
 ## The Etak Navigator
 
 date: 2024-04-16, updated: 2024-04-16, from: Daring Fireball
@@ -752,16 +1335,6 @@ date: 2024-04-15, updated: 2024-04-15, from: Jason Kittke's blog
  
 
 <https://kottke.org/24/04/0044380-as-optical-illusions-go-t>
-
----
-
-##  Papyrus 2: A Bold New Look for Avatar 
-
-date: 2024-04-15, updated: 2024-04-15, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/04/papyrus-2-a-bold-new-look-for-avatar>
 
 ---
 

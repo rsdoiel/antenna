@@ -1,11 +1,111 @@
 ---
 title: games 2024.16
-updated: 2024-04-17 08:24:36
+updated: 2024-04-18 08:55:31
 ---
 
 # games 2024.16
 
-(date: 2024-04-17 08:24:36)
+(date: 2024-04-18 08:55:31)
+
+---
+
+## Everything we know about Baldur’s Gate 4
+
+date: 2024-04-18, updated: 2024-04-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24133289/baldurs-gate-4-sequel-hasbro-larian-studios-video-games>
+
+---
+
+## Disney Plus is adding channels as streaming inches ever closer back to cable
+
+date: 2024-04-18, updated: 2024-04-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24133387/disney-plus-streaming-channels-criterion-cable>
+
+---
+
+## An explosive episode of Critical Role kept viewers hooked for 5 horrifying hours
+
+date: 2024-04-18, updated: 2024-04-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24133044/critical-role-fresh-cut-grass-death-sam-riegel-tpk>
+
+---
+
+## Where to find Taken Blights in Destiny 2’s ‘Whispers of the Taken’ quest
+
+date: 2024-04-18, updated: 2024-04-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24133426/taken-blights-locations-where-to-find-whispers-of-the-taken>
+
+---
+
+## Not sure what movie to watch this weekend? Leave a comment, we’ll help
+
+date: 2024-04-18, updated: 2024-04-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/entertainment/2024/4/18/24132929/best-movies-watch-this-weekend-best-recommendations>
+
+---
+
+## First Transformers One trailer shows Optimus Prime and Megatron as best buds
+
+date: 2024-04-18, updated: 2024-04-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24127435/transformers-one-trailer-chris-hemsworth-optimus-prime>
+
+---
+
+## Everything we know about Hades 2
+
+date: 2024-04-18, updated: 2024-04-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/23501759/hades-2-trailer-release-date-characters-melinoe>
+
+---
+
+## The Fallout series’ most authentic performances happen in the Wasteland
+
+date: 2024-04-18, updated: 2024-04-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24132071/fallout-series-prime-npc-wasteland-cast>
+
+---
+
+## Final Fantasy 12’s combat is a neglected masterpiece of game design
+
+date: 2024-04-18, updated: 2024-04-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gaming/24133011/final-fantasy-12-combat-gambits>
+
+---
+
+## Hades 2 gods somehow even hotter than Hades gods
+
+date: 2024-04-17, updated: 2024-04-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24133438/hades-2-characters-art-gods-reactions>
 
 ---
 

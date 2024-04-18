@@ -1,11 +1,697 @@
 ---
 title: pacific 2024.16
-updated: 2024-04-17 08:24:36
+updated: 2024-04-18 08:55:31
 ---
 
 # pacific 2024.16
 
-(date: 2024-04-17 08:24:36)
+(date: 2024-04-18 08:55:31)
+
+---
+
+## Differences on bill seeking to address AG's withdrawal
+
+date: 2024-04-18, from: Guam Daily Post
+
+Department of Administration Director Edward Birn asked the Guam Legislature to advance a bill meant to address the attorney general's withdrawal of representation from certain agencies, while Attorney General Douglas Moylan has asked lawmakers to hold off on the measure… 
+
+<https://www.postguam.com/news/differences-on-bill-seeking-to-address-ags-withdrawal/article_699829de-fd3f-11ee-8e11-37de285ed118.html>
+
+---
+
+## Liberal bias at NPR, old-school journalism and the reluctance to admit a mistake
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>Uri Berliner, a journalist of a certain age, has been feeling some heartburn over what has been transpiring at his longtime employer, National Public Radio.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/opinion/liberal-bias-at-npr-old-school-journalism-and-the-reluctance-to-admit-a-mistake/>
+
+---
+
+## Iran’s true promise of terror: A dud of an attack that meant to murder
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>Operation True Promise, Iran&#8217;s missile and drone attack on Israel, a blatant act of war and the first-ever direct assault by Tehran on the Jewish state, was the most monumental flop in the history of combat, more embarrassing than the Spanish Armada or the Charge of the Light Brigade or Custer&#8217;s Last Stand.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/opinion/irans-true-promise-of-terror-a-dud-of-an-attack-that-meant-to-murder/>
+
+---
+
+## Senate rejects impeachment articles against Mayorkas, ending trial against Cabinet secretary
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Senate dismissed all impeachment charges against Homeland Security Secretary Alejandro Mayorkas on Wednesday, ending the House Republican push to remove the Cabinet secretary from office over his handling of the the U.S.-Mexico border and shutting down his trial before arguments even began.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/nation-world-news/senate-rejects-impeachment-articles-against-mayorkas-ending-trial-against-cabinet-secretary/>
+
+---
+
+## Biden vows to shield US steel industry by blocking Japanese merger and seeking new Chinese tariffs
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>PITTSBURGH &#8212; President Joe Biden promised cheering, unionized steelworkers on Wednesday that his administration would block the acquisition of U.S. Steel by a Japanese company, and he called for a tripling of tariffs on Chinese steel, seeking to use trade policy to win over working-class votes in the battleground state of Pennsylvania.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/nation-world-news/biden-vows-to-shield-us-steel-industry-by-blocking-japanese-merger-and-seeking-new-chinese-tariffs/>
+
+---
+
+## Your Views for April 18
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>Please honor isle&#8217;s&#0010;911 dispatchers</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/opinion/your-views-for-april-18-9/>
+
+---
+
+## Inside the late-night parties where Hawaii politicians raked in money
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8212; For the better part of a decade, some of Hawaii&#8217;s most powerful people huddled together at late-night parties in a cramped second-floor office where lobbyists and executives seeking government contracts lined up to drop cash and checks into a metal lockbox.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/hawaii-news/inside-the-late-night-parties-where-hawaii-politicians-raked-in-money/>
+
+---
+
+## UHH dominates at PacWest finals
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>PUAKO &#8212; UH-Hilo&#8217;s men&#8217;s and women&#8217;s golf teams had an excellent showing at the Pacific West Conference Championships &#8212; as sophomore Kiersten Saludares placed No.1 to lead UHH&#8217;s women&#8217;s team to a third-place finish and fifth-year Nicholas Gomez also placed first to lead the men to a repeat conference title on Wednesday afternoon in South Kohala.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/sports/uhh-dominates-at-pacwest-finals/>
+
+---
+
+## Communications breakdown left authorities in the dark and residents without alerts amid Maui fire
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8212; As unpredictable wildfires roared across Maui last August, the head of the emergency management agency dragged his heels about returning to the island amid the unfolding crisis, while a broad communications breakdown left authorities in the dark and residents without emergency alerts, according to a report released Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/nation-world-news/communications-breakdown-left-authorities-in-the-dark-and-residents-without-alerts-amid-maui-fire/>
+
+---
+
+## Murder charge anticipated in death of infant
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>Neither police nor prosecutors are identifying the suspect in the murder of a 5-month-old boy on New Year&#8217;s Eve 2022, but all publicly available evidence points to the mother, Yasmine Michelle Lilia Butterfield, who also is known as Lilia Alameda.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/hawaii-news/murder-charge-anticipated-in-death-of-infant/>
+
+---
+
+## NBA bans Jontay Porter after gambling probe shows he shared information, bet on games
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>Toronto Raptors player Jontay Porter was banned for life from the NBA on Wednesday after a league probe found he disclosed confidential information to sports bettors and wagered on games, even betting on the Raptors to lose.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/sports/nba-bans-jontay-porter-after-gambling-probe-shows-he-shared-information-bet-on-games/>
+
+---
+
+## Klay Thompson misses all 10 shots in what might have been his final game with the Warriors
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>SACRAMENTO, Calif. &#8212; Klay Thompson has provided so many memorable moments during his decade-plus run as Stephen Curry&#8217;s Splash Brother running mate for the Golden State Warriors dynasty. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/sports/klay-thompson-misses-all-10-shots-in-what-might-have-been-his-final-game-with-the-warriors/>
+
+---
+
+## The sons of several former NFL stars are ready to carve their path into the league through the draft
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>Jeremiah Trotter Jr. wears his dad&#8217;s No. 54, plays the same position and celebrates sacks and big tackles with the same signature axe swing. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/sports/the-sons-of-several-former-nfl-stars-are-ready-to-carve-their-path-into-the-league-through-the-draft/>
+
+---
+
+## Zion Williamson out for playoff play-in game vs. Kings; out 2 weeks if Pelicans advance
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>NEW ORLEANS &#8212; Zion Williamson has been ruled out of the New Orleans Pelicans&#8217; Western Conference play-in game against the Sacramento Kings on Friday night because of a left hamstring injury &#8212; and is expected to miss up to two weeks should New Orleans advance to the NBA playoffs. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/sports/zion-williamson-out-for-playoff-play-in-game-vs-kings-out-2-weeks-if-pelicans-advance/>
+
+---
+
+## Tesla asks shareholders to restore $56B Elon Musk pay package that was voided by Delaware judge
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>DETROIT &#8212; Tesla is asking shareholders to restore a $56 billion pay package for CEO Elon Musk that was rejected by a Delaware judge this year, and to shift the company&#8217;s corporate home to Texas.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/nation-world-news/tesla-asks-shareholders-to-restore-56b-elon-musk-pay-package-that-was-voided-by-delaware-judge/>
+
+---
+
+## BIIF volleyball: Wildcats remained undefeated
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p><strong>KONAWAENA 3 - KA &#8216;UMEKE 0</strong></p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/sports/biif-volleyball-wildcats-remained-undefeated/>
+
+---
+
+## Boeing put under Senate scrutiny during back-to-back hearings on aircraft maker’s safety culture
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>An engineer at Boeing said Wednesday that the aircraft company, in rushing to produce as many planes as possible, is taking manufacturing shortcuts that could lead to jetliners breaking apart.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/nation-world-news/boeing-put-under-senate-scrutiny-during-back-to-back-hearings-on-aircraft-makers-safety-culture/>
+
+---
+
+## Netanyahu brushes off calls for restraint, saying Israel will decide how to respond to Iran’s attack
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Israeli Prime Minister Benjamin Netanyahu said Wednesday his country would be the one to decide whether and how to respond to Iran&#8217;s major air assault earlier this week, brushing off calls for restraint from close allies.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/nation-world-news/netanyahu-brushes-off-calls-for-restraint-saying-israel-will-decide-how-to-respond-to-irans-attack/>
+
+---
+
+## Trump complains jury selection moving too fast in Manhattan hush money trial
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Former President Donald Trump complained Wednesday about jury selection in his Manhattan hush money case as the trial moves faster than expected toward opening statements.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/nation-world-news/trump-complains-jury-selection-moving-too-fast-in-manhattan-hush-money-trial/>
+
+---
+
+## Obituaries for April 18
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>Blaine &#8220;Boding&#8221; Aribal, 98, of Honokaa died April 9 at Hale Ho&#8216;ola Hamakua in Honokaa. Born in Catmon, Cebu, Philippines, she was a husker/roaster for Hawaiian Holiday Mac Nuts, member of Hamakua Visayan Club, self-employed streamstress and Hale Ho&#8216;ola Hamakua and R.S.V.P. volunteer. Visitation 8-9:30 a.m. Friday, April 26, at Our Lady of Lourdes Catholic Church in Honokaa. Mass at 10 a.m. Burial to follow at Honokaa Catholic Church Cemetery. Casual/aloha attire; flowers/lei welcome. Survived by sons, Sundie (Debra) Aribal of Waimea and Ivan (Grace) Aribal of Honolulu; sisters, Naucisa Colinares Majaducon of Iligan, Mindanao, Philippines and Zenaida Toledo of Ozamiz, Mindanao, Philippines; 15 grandchildren, 20 great-grandchildren and two great-great-grandchildren; nephews and nieces. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/obituaries/obituaries-for-april-18-7/>
+
+---
+
+## Asian Americans and Pacific Islanders in US more likely to believe in climate change: AP-NORC poll
+
+date: 2024-04-18, from: Hawaii Tribune Harold
+
+
+				<p>Asian Americans, Native Hawaiians and Pacific Islanders in the United States are more likely than the overall adult population to believe in human-caused climate change, according to a new poll. It also suggests that partisanship may not have as much of an impact on this group&#8217;s environmental views, compared to Americans overall.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/18/nation-world-news/asian-americans-and-pacific-islanders-in-us-more-likely-to-believe-in-climate-change-ap-norc-poll/>
+
+---
+
+## Påtgon Jiu Jitsu Tournament, GTA team up
+
+date: 2024-04-18, from: Guam Daily Post
+
+Ahead of the April 27 Påtgon Jiu Jitsu Tournament, local telecom company GTA announced its continued support of the kids-only sporting event. 
+
+<https://www.postguam.com/sports/local/p-tgon-jiu-jitsu-tournament-gta-team-up/article_112139d8-fd0f-11ee-b066-7b25962d7cf7.html>
+
+---
+
+## Guam youth tennis players qualify for Fiji
+
+date: 2024-04-18, from: Guam Daily Post
+
+After a week of junior tennis at the 2024 North Pacific Regional Championship in the Commonwealth of the Northern Mariana Islands, where 73 competitors from the Federated States of Micronesia, Guam, Nauru, Palau and Saipan competed for a chance to… 
+
+<https://www.postguam.com/sports/local/guam-youth-tennis-players-qualify-for-fiji/article_21dbc7d0-fd0e-11ee-8515-a7d492796c82.html>
+
+---
+
+## Marianas Pro Manila aims to thrill
+
+date: 2024-04-18, from: Guam Daily Post
+
+Over 40 jiujitsu athletes from Guam are part of the 800-plus who will compete in this weekend’s Marianas Pro Manila event, according to a press release from Marianas Open. 
+
+<https://www.postguam.com/sports/local/marianas-pro-manila-aims-to-thrill/article_555739a0-fd18-11ee-bef8-679045ab0087.html>
+
+---
+
+## 19 players picked for training trip
+
+date: 2024-04-18, from: Guam Daily Post
+
+The Guam Football Association's U17 women's national team head coach, Chyna Ramirez, picked 19 athletes to train in Dammam, Saudi Arabia, according to a press release from GFA. 
+
+<https://www.postguam.com/sports/local/19-players-picked-for-training-trip/article_120ef622-fd10-11ee-b2ab-4b9fc12705c3.html>
+
+---
+
+## GPD to conduct checkpoints Friday
+
+date: 2024-04-18, from: Guam Daily Post
+
+DWI sobriety checkpoints will be conducted on Friday, the Guam Police Department said in a public service announcement. 
+
+<https://www.postguam.com/news/local/gpd-to-conduct-checkpoints-friday/article_24cf6dc0-fd2c-11ee-ba47-b3eda4c8ec77.html>
+
+---
+
+## Guam GDP rose 5.1% in 2022
+
+date: 2024-04-18, from: Guam Daily Post
+
+The island's real gross domestic product increased 5.1% in 2022 after going up 2.1% in 2021, according to a recent press release from the U.S. Bureau of Economic Analysis. This increase is a reflection of increases in exports, private fixed… 
+
+<https://www.postguam.com/news/local/guam-gdp-rose-5-1-in-2022/article_34cf262a-fca0-11ee-8218-7bb3c1ac4fb6.html>
+
+---
+
+## Swanson: Decrease in teacher vacancies
+
+date: 2024-04-18, from: Guam Daily Post
+
+Guam Department of Education Superintendent Kenneth Erik Swanson reported progress with meeting the Adequate Education Act requirement to have a certified teacher in every classroom. 
+
+<https://www.postguam.com/news/local/swanson-decrease-in-teacher-vacancies/article_8c7349d0-fd2f-11ee-acd1-576aa4e04cd4.html>
+
+---
+
+## GEB discusses hiring, incentives, teacher overpay with GFT, GDOE
+
+date: 2024-04-18, from: Guam Daily Post
+
+The Guam Education Board on Tuesday during a board meeting with the Guam Department of Education discussed issues centered around teacher pay and recruitment and retention of staff to meet the provisions of the Collective Bargaining Agreement between the board… 
+
+<https://www.postguam.com/news/local/geb-discusses-hiring-incentives-teacher-overpay-with-gft-gdoe/article_45487120-fd2a-11ee-acbf-4bee5366b4ac.html>
+
+---
+
+## Lawmakers to consider islandwide trash collection bill in session Friday
+
+date: 2024-04-18, from: Guam Daily Post
+
+Mandatory participation in trash collection services may become a reality on Guam following the legislative session this month, even if implementation won't actually occur until several months after the beginning of next year. 
+
+<https://www.postguam.com/news/local/lawmakers-to-consider-islandwide-trash-collection-bill-in-session-friday/article_74a54652-fd1e-11ee-a247-17d979f6ada2.html>
+
+---
+
+## GFD: Minor injuries sustained in Mangilao crash
+
+date: 2024-04-18, from: Guam Daily Post
+
+A two-car collision near the Mobil gas station in Mangilao sent one person to the hospital with minor injuries. 
+
+<https://www.postguam.com/news/local/gfd-minor-injuries-sustained-in-mangilao-crash/article_9bcdefa6-fd35-11ee-8a88-3b4ec303455e.html>
+
+---
+
+## Juror misconduct witness in Jerry Kitchen trial is granted immunity
+
+date: 2024-04-18, from: Guam Daily Post
+
+A man who allegedly made posts on social media related to knowing a juror in the trial involving a red Jeep driving into Tamuning restaurant Jerry Kitchen in 2021 was granted immunity and will testify on May 5. 
+
+<https://www.postguam.com/news/local/juror-misconduct-witness-in-jerry-kitchen-trial-is-granted-immunity/article_cace1c6a-fd1a-11ee-a181-a73581255784.html>
+
+---
+
+## GFD responds to multiple cars on fire in Harmon
+
+date: 2024-04-18, from: Guam Daily Post
+
+The Guam Fire Department responded to multiple cars on fire at a junkyard. 
+
+<https://www.postguam.com/news/local/gfd-responds-to-multiple-cars-on-fire-in-harmon/article_18836548-fd41-11ee-95bd-8b158d477c8e.html>
+
+---
+
+## Barnett: Correction officers not fired for positive drug tests, assaulting inmates
+
+date: 2024-04-18, from: Guam Daily Post
+
+Two prison officers who tested positive for amphetamines were given suspension and verbal warning, while another was issued a letter of reprimand for assaulting an inmate, engaging in mutual combat and arranging a fight between two inmates, Sen. Chris Barnett… 
+
+<https://www.postguam.com/news/local/barnett-correction-officers-not-fired-for-positive-drug-tests-assaulting-inmates/article_7d68ea40-fd1f-11ee-9af8-5b0ffa1c2f62.html>
+
+---
+
+## Suspect allegedly 'high on drugs' doesn't remember molesting girl
+
+date: 2024-04-18, from: Guam Daily Post
+
+A man accused of sexually assaulting a 17-year-old girl allegedly didn't remember because he was "high on drugs." 
+
+<https://www.postguam.com/news/local/suspect-allegedly-high-on-drugs-doesnt-remember-molesting-girl/article_69bd1882-fd37-11ee-8101-7fc8a01aa156.html>
+
+---
+
+## CMI opens its doors
+
+date: 2024-04-18, from: Marshal Islands Journal
+
+<p>WILMER JOEL High school students were invited to an open house at the College of the Marshall Islands last Tuesday to kick off the College of the Marshall Islands&#8217; anniversary month. CMI President Dr. Elizabeth Switaj told the Journal that one of the main purposes of the event is “to reach out to high school [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/college-of-the-marshall-islands-anniversary-month/">CMI opens its doors</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/college-of-the-marshall-islands-anniversary-month/>
+
+---
+
+## Guam Power Authority proposes pay increase plan for employees 
+
+date: 2024-04-18, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Guam Power Authority is requesting the Consolidated Commission on Utilities to adopt a proposed... 
+
+<https://www.pacificislandtimes.com/post/guam-power-authority-proposes-pay-increase-plan-for-employees>
+
+---
+
+## MicSem finds home in Yap
+
+date: 2024-04-18, from: Marshal Islands Journal
+
+<p>Tens of thousands of dollars are headed to Yap to re-open the Micronesian Seminar Library, now situated on the campus of Yap Catholic High School.Over four decades, Micronesian Seminar built an internationally recognized library of over 120,000 documents, photos and recordings. But a dozen years ago, the Pohnpei-based organization, better known as MicSem, was shut [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/micsem-finds-home-in-yap/">MicSem finds home in Yap</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/micsem-finds-home-in-yap/>
+
+---
+
+## ASC Trust acquires Bank of Guam Holding's BG Investment Services
+
+date: 2024-04-18, from: Pacific Island Times
+
+By Pacific Island Times News Staff ASC Trust LLC has acquired 100 percent ownership of BankGuam Holding Company's BG Investment Services ... 
+
+<https://www.pacificislandtimes.com/post/asc-trust-acquires-bank-of-guam-holding-s-bg-investment-services>
+
+---
+
+## Harvesting Success: Florentina Pereira’s Journey of Financial Empowerment
+
+date: 2024-04-18, from: University of the South Pacific (Fiji)
+
+<p>Nestled along the serene coastline of Timor-Leste, there lived a determined woman named Florentina Pereira....</p>
+<p>The post <a href="https://www.usp.ac.fj/news/harvesting-success-florentina-pereiras-journey-of-financial-empowerment/">Harvesting Success: Florentina Pereira&#8217;s Journey of Financial Empowerment</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/harvesting-success-florentina-pereiras-journey-of-financial-empowerment/>
+
+---
+
+## USP staff and students undertake two-day training on Agent-based Modelling
+
+date: 2024-04-18, from: University of the South Pacific (Fiji)
+
+<p>A two-day training session was organised by the Pacific Centre for Environment and Sustainable Development...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-staff-students-undertake-two-day-training-on-agent-based-modelling/">USP staff and students undertake two-day training on Agent-based Modelling</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-staff-students-undertake-two-day-training-on-agent-based-modelling/>
+
+---
+
+## Daniel Arakawa selected as Truman Scholar, eyes federal judiciary
+
+date: 2024-04-18, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Arakawa is the 22nd awardee from a <abbr>UH</abbr> System campus since the program’s inception in 1977.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/17/daniel-arakawa-truman-scholar/">Daniel Arakawa selected as Truman Scholar, eyes federal judiciary</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/17/daniel-arakawa-truman-scholar/>
+
+---
+
+##  Terra Firma in the middle of nowhere
+
+date: 2024-04-17, from: Pacific Island Times
+
+Details of the Lou Leon Guerrero Guam Memorial Hospital fiasco will, no doubt, be studied for years to come. But some things already seem... 
+
+<https://www.pacificislandtimes.com/post/terra-firma-in-the-middle-of-nowhere>
+
+---
+
+## Hawaiʻi navigator Nainoa Thompson receives national geographer award
+
+date: 2024-04-17, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Thompson learned to sail using traditional methods of stars, wind and waves from master navigator Mau Piailug of Satawal.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/17/honorary-geographer-award-nainoa-thompson/">Hawaiʻi navigator Nainoa Thompson receives national geographer award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/17/honorary-geographer-award-nainoa-thompson/>
+
+---
+
+## Fishermen rescued by Majuro vessel
+
+date: 2024-04-17, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON Twenty-two fishermen and one fisheries observer were rescued Sunday morning April 14 as their vessel was sinking in the South Pacific. The FV Marielle, a purse seine fishing vessel owned by the Caroline Fisheries Corporation in Micronesia, put out a distress signal Saturday night after one of its engines caught fire and the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/fishermen-rescued-by-majuro-vessel/">Fishermen rescued by Majuro vessel</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/fishermen-rescued-by-majuro-vessel/>
+
+---
+
+## UHM Maui residents forge community with new hui
+
+date: 2024-04-17, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+ 
+
+<https://www.manoanow.org/kaleo/uhm-maui-residents-forge-community-with-new-hui/article_f4e6422c-fd04-11ee-8081-b725706d5273.html>
+
+---
+
+## Fulbright award boosts professor’s work to strengthen Cambodian academic programs
+
+date: 2024-04-17, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Miriam Stark specializes in Southeast Asian archaeology, particularly Cambodia’s deep history, using archaeological field methods and analytical techniques.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/17/fulbright-award-miriam-stark/">Fulbright award boosts professor’s work to strengthen Cambodian academic programs</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/17/fulbright-award-miriam-stark/>
+
+---
+
+## Immunotherapy shows promise for aggressive breast cancer
+
+date: 2024-04-17, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> The study evaluated the safety and effectiveness of pembrolizumab as a maintenance therapy following chemotherapy.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/17/immunotherapy-breast-cancer-study/">Immunotherapy shows promise for aggressive breast cancer</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/17/immunotherapy-breast-cancer-study/>
+
+---
+
+## What you need to know about graduation
+
+date: 2024-04-17, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+ 
+
+<https://www.manoanow.org/kaleo/what-you-need-to-know-about-graduation/article_91613fcc-fc37-11ee-9f05-8f2825dba60c.html>
+
+---
+
+## Six public forums scheduled for UH president’s search
+
+date: 2024-04-17, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The <abb>UH</abb> Board of Regents has scheduled six county forums to gather feedback from the general public to help inform the search for the next president of the 10-campus <abb>UH</abb> System.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/17/six-public-forums-scheduled-uh-presidents-search/">Six public forums scheduled for <abbr>UH</abbr> president’s search</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/17/six-public-forums-scheduled-uh-presidents-search/>
+
+---
+
+## Images of the Week: Kabuki
+
+date: 2024-04-17, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> This week's image is from <abbr>UH</abbr> Mānoa's Kennedy Theatre.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/17/images-of-the-week-kabuki/">Images of the Week: Kabuki</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/17/images-of-the-week-kabuki/>
+
+---
+
+## $3.8M in Technical Assistance Program grants to support US territories, FAS 
+
+date: 2024-04-17, from: Pacific Island Times
+
+By Pacific Island Times News Staff Washington– The U.S. Department of the Interior’s Office of Insular Affairs today announced $3.8... 
+
+<https://www.pacificislandtimes.com/post/3-8m-in-technical-assistance-program-grants-to-support-us-territories-fas>
+
+---
+
+## Uncertainty and division intensify in New Caledonia as Paris imposes its will
+
+date: 2024-04-17, from: Pacific Island Times
+
+By Denise Fisher Work is needed now to ensure history does not repeat. Two years after the inconclusive third independence referendum... 
+
+<https://www.pacificislandtimes.com/post/uncertainty-and-division-intensify-in-new-caledonia-as-paris-imposes-its-will>
+
+---
+
+## Variety editor’s 4th book now available at Joeten Susupe
+
+date: 2024-04-17, updated: 2024-04-18, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is now available at the Joeten Shopping Center in Susupe. 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-now-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## 2023 baseball awardees
+
+date: 2024-04-17, updated: 2024-04-18, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/sports/localsports/2023-baseball-awardees/article_dc23fae0-fcc8-11ee-b745-afb22562a051.html>
+
+---
+
+## MLB roundup: Amed Rosario rallies Rays over Angels in 13
+
+date: 2024-04-17, updated: 2024-04-18, from: Marianas Variety
+
+(Reuters) — Amed Rosario's two-out infield single scored Richie Palacios from third base in the bottom of the 13th inning Tuesday, lifting the Tampa Bay Rays to a 7-6 victory over the Los Angeles Angels in St. Petersburg, Fla. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-amed-rosario-rallies-rays-over-angels-in-13/article_cdfab860-fcc7-11ee-9c39-334f50f0c93b.html>
+
+---
+
+## LeBron James, Lakers edge Pelicans, clinch playoff bid
+
+date: 2024-04-17, updated: 2024-04-18, from: Marianas Variety
+
+(Reuters) — LeBron James recorded 23 points, nine rebounds and nine assists and the Los Angeles Lakers clinched a playoff berth with a 110-106 victory over the host New Orleans Pelicans on Tuesday night. 
+
+<https://www.mvariety.com/sports/nationalsports/lebron-james-lakers-edge-pelicans-clinch-playoff-bid/article_3a2cfa8e-fcc8-11ee-b820-c3581d7b194d.html>
+
+---
+
+## Three teams vie for top spot in U17 boys soccer
+
+date: 2024-04-17, updated: 2024-04-18, from: Marianas Variety
+
+LATTE and Matansa football clubs join Kanoa FC in a three-way tie for the top spot in the U17 boys division of the TakeCare Youth Soccer League, Spring 2024 after beating their respective opponents at the NMI Soccer Training Center in Koblerville on Saturday. 
+
+<https://www.mvariety.com/sports/localsports/three-teams-vie-for-top-spot-in-u17-boys-soccer/article_6009b4bc-fcc9-11ee-876e-734e0701ffe1.html>
+
+---
+
+## Lamesa Kusina, Savemore eliminate opponents
+
+date: 2024-04-17, updated: 2024-04-18, from: Marianas Variety
+
+LAMESA Kusina and Savemore are the first teams in their brackets to reach the quarterfinals of the Legends Sports Association Invitational Basketball League as they came out victorious over their respective adversaries at the TSL Sports Complex on Tuesday. 
+
+<https://www.mvariety.com/sports/localsports/lamesa-kusina-savemore-eliminate-opponents/article_34829b28-fcca-11ee-b6f5-4fc5c3887f0f.html>
+
+---
+
+## 2 MHS teams remain unbeaten in boys volleyball
+
+date: 2024-04-17, updated: 2024-04-18, from: Marianas Variety
+
+AFTER two rounds of action, Marianas High School’s varsity and junior varsity teams have yet to taste defeat, notching their second straight win at the MHS gym on Thursday last week to lead their respective divisions in the NMIVA-PSS Interscholastic Volleyball League SY23-24. 
+
+<https://www.mvariety.com/sports/localsports/2-mhs-teams-remain-unbeaten-in-boys-volleyball/article_bbc3bca8-fcc9-11ee-8a33-33bc1572e247.html>
+
+---
+
+## French artist in race against time to finish monumental piece
+
+date: 2024-04-17, updated: 2024-04-18, from: Marianas Variety
+
+SAINT-OUEN, France (Reuters) — A couple of months ago, Baptiste Chebassier quit his consulting job to fully focus on his art project — writing the names of all the 30,249 medalists in modern Olympics' 128-year history before this year's Games start in Paris. 
+
+<https://www.mvariety.com/lifestyle/french-artist-in-race-against-time-to-finish-monumental-piece/article_79c0257e-fccb-11ee-a33d-634c934a4a1e.html>
+
+---
+
+## Artisan night market set for Monday, April 22
+
+date: 2024-04-17, updated: 2024-04-18, from: Marianas Variety
+
+(SNIMC) — The Saipan and Northern Islands Municipal Council is supporting the artisan night market organized by Local Girls Marianas’ Ashley Reiko Pangelinan and Tiara Deleon Guerrero in celebration of Earth Day. 
+
+<https://www.mvariety.com/lifestyle/artisan-night-market-set-for-monday-april-22/article_cd78beb4-fcc2-11ee-8d8e-678d947ac010.html>
+
+---
+
+## Agroforestry and harnessing nature’s wisdom
+
+date: 2024-04-17, updated: 2024-04-18, from: Marianas Variety
+
+AT a recently concluded regenerative agricultural workshop hosted by Northern Marianas College-Cooperative Research, Extension, and Education Services, guest speaker Dr. Craig Elevitch discussed agroforestry with island residents. 
+
+<https://www.mvariety.com/news/local/agroforestry-and-harnessing-nature-s-wisdom/article_8d6b3f38-fcc0-11ee-8ccd-5306feca1f49.html>
 
 ---
 
@@ -273,6 +959,18 @@ date: 2024-04-17, from: Hawaii Tribune Harold
 
 ---
 
+## Another blackouts warning from HECO; lawmakers seek investigation
+
+date: 2024-04-17, from: Hawaii Tribune Harold
+
+
+				<p>Hawaiian Electric again is urging Hawaii Island customers to conserve energy this evening to avoid power outages.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/17/hawaii-news/another-blackouts-warning-from-heco-lawmakers-seek-investigation/>
+
+---
+
 ## Guam GDP rose 5.1% in 2022
 
 date: 2024-04-17, from: Guam Daily Post
@@ -303,7 +1001,7 @@ date: 2024-04-17, from: Guam Daily Post
 
 ---
 
-## Bill proposes labeling standards,  random testing of bottled water
+## Bill proposes labeling standards, random testing of bottled water
 
 date: 2024-04-17, from: Guam Daily Post
 
@@ -1018,7 +1716,7 @@ date: 2024-04-16, from: Hawaii Tribune Harold
 date: 2024-04-16, from: Island Times
 
 <figure><img width="1024" height="714" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/collage-1.jpg?fit=1024%2C714&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/collage-1.jpg?w=1855&amp;ssl=1 1855w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/collage-1.jpg?resize=300%2C209&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/collage-1.jpg?resize=1024%2C714&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/collage-1.jpg?resize=768%2C535&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/collage-1.jpg?resize=1536%2C1071&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/collage-1.jpg?resize=1200%2C836&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/collage-1.jpg?resize=1568%2C1093&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/collage-1.jpg?resize=400%2C279&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/collage-1.jpg?resize=706%2C492&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/collage-1.jpg?fit=1024%2C714&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69747" data-permalink="https://islandtimes.org/features-photo/collage-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/collage-1.jpg?fit=1855%2C1293&amp;ssl=1" data-orig-size="1855,1293" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="collage" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/collage-1.jpg?fit=300%2C209&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/collage-1.jpg?fit=780%2C544&amp;ssl=1" /></figure>
-<p>New company seeking to connect Korea to Palau and beyond using private jets arrived Palal last Friday with couple of Korean celebrities.</p>
+<p>New company seeking to connect Korea to Palau and beyond using private jets arrived Palau last Friday with a couple of Korean celebrities.</p>
 <p>The post <a href="https://islandtimes.org/features-photo/">Features Photo</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
 
@@ -1433,16 +2131,6 @@ date: 2024-04-15, updated: 2024-04-15, from: Marianas Variety
 PERRY Tudela is accused of punching a female police sergeant in the face. 
 
 <https://www.mvariety.com/news/local/man-arrested-for-punching-police-sergeant/article_8e25677c-fb31-11ee-8130-4f69c5e0d0fb.html>
-
----
-
-## Variety editor’s 4th book now available at Joeten Susupe
-
-date: 2024-04-15, updated: 2024-04-15, from: Marianas Variety
-
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is now available at the Joeten Shopping Center in Susupe. 
-
-<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-now-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
 
 ---
 

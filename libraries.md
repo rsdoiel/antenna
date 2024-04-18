@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.16
-updated: 2024-04-17 08:24:36
+updated: 2024-04-18 08:55:31
 ---
 
 # libraries 2024.16
 
-(date: 2024-04-17 08:24:36)
+(date: 2024-04-18 08:55:31)
+
+---
+
+## Guest Post – Making Sense of Retractions and Tackling Research Misconduct
+
+date: 2024-04-18, from: Scholarly Kitchen
+
+<p>Christos Petrou presents evidence suggesting that growth in retractions has not been universal across regions and subject areas, and it is primarily driven by the industrial-scale activity of papermills (rather than the activity of individual researchers) and the growth of research from China.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/04/18/guest-post-making-sense-of-retractions-and-tackling-research-misconduct/">Guest Post &#8211; Making Sense of Retractions and Tackling Research Misconduct</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/04/18/guest-post-making-sense-of-retractions-and-tackling-research-misconduct/>
 
 ---
 
@@ -36,7 +48,7 @@ date: 2024-04-17, from: Scholarly Kitchen
 
 date: 2024-04-17, from: Association of Research Libraries News
 
-<p>Last Updated on April 17, 2024, 3:33 am ET Sign up to receive the Day in Review by email. Jump to: Wednesday, April 17 &#124; Thursday, April 18 Tuesday, April...</p>
+<p>Last Updated on April 18, 2024, 1:46 am ET Sign up to receive the Day in Review by email. Jump to: Wednesday, April 17 &#124; Thursday, April 18 Tuesday, April...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-16-18/">Day in Review (April 16–18)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

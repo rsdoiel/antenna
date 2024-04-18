@@ -1,11 +1,101 @@
 ---
 title: motorcycles 2024.16
-updated: 2024-04-17 08:24:36
+updated: 2024-04-18 08:55:32
 ---
 
 # motorcycles 2024.16
 
-(date: 2024-04-17 08:24:36)
+(date: 2024-04-18 08:55:32)
+
+---
+
+## What Does 100cc Get You? Here's The Difference Between Kawasaki Z500 And Z400 Engines
+
+date: 2024-04-18, from: Ride Apart, Electric Motorcycle News
+
+New year, new displacement. I think that’s how the saying goes, right? 
+
+<https://www.rideapart.com/news/716338/kawasaki-500cc-parallel-twin-engine/>
+
+---
+
+## Vespa World Days Is A Global Gathering Of Passionate Vespisti
+
+date: 2024-04-18, from: Ride Apart, Electric Motorcycle News
+
+More than 8,000 enthusiasts from all over the world will flock to Pontedera from April 18 to 21, 2024.  
+
+<https://www.rideapart.com/news/715542/2024-vespa-world-days-details/>
+
+---
+
+## New Metzeler Roadtec 02 Tires Are Finally Ready To Hit The Road
+
+date: 2024-04-18, from: Ride Apart, Electric Motorcycle News
+
+Metzeler boldly claims that the new Roadtec 02 offers the versatility of “two tires in one.”  
+
+<https://www.rideapart.com/news/716041/metzeler-roadtec-02-tires-launched/>
+
+---
+
+## 45-Year-Old Vespa Sets Guinness World Record
+
+date: 2024-04-17, from: Cycle World News
+
+Valerio Boni piloted his 1979 Vespa 50 Special to a Guinness World Record, covering 766 miles in 24 hours. 
+
+<https://www.cycleworld.com/motorcycle-news/vespa-50-special-sets-guinness-world-record/>
+
+---
+
+## You Can Win Your Own Custom Race Suit In REV’IT!’s Design Contest
+
+date: 2024-04-17, from: Ride Apart, Electric Motorcycle News
+
+A dream come true for any moto enthusiast.  
+
+<https://www.rideapart.com/news/716039/revit-tailortech-design-and-win-contest/>
+
+---
+
+## How To Watch MotoAmerica Superbikes at Road Atlanta
+
+date: 2024-04-17, from: Cycle World News
+
+Everything you need to know to watch the weekend racing in Atlanta. 
+
+<https://www.cycleworld.com/the-wire/how-to-watch-motoamerica-superbikes-at-road-atlanta/>
+
+---
+
+## Yamaha Reveals 2024 MotoAmerica Superbike Team
+
+date: 2024-04-17, from: Cycle World News
+
+Attack Performance Progressive Yamaha Racing is ready to launch its fifth-consecutive MotoAmerica Superbike title campaign with returning riders Jake Gagne and Cameron Petersen. 
+
+<https://www.cycleworld.com/the-wire/yamaha-reveals-2024-motoamerica-superbike-team/>
+
+---
+
+## Why Ford Could be Due to Overcome Talladega, Who Can Get it Done
+
+date: 2024-04-17, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer Chase Elliott may have snapped a 42-race winless streak, but he also added fuel to what’s been a fiery, season-long gauntlet for supremacy in the&#8230;  
+
+<https://kickinthetires.net/nascar/ford-could-overcome-talladega-get-done/>
+
+---
+
+## Husqvarna Trek Heads To Spain For The First Time Ever
+
+date: 2024-04-17, from: Ride Apart, Electric Motorcycle News
+
+The event is scheduled for November 18 to 22, 2024.  
+
+<https://www.rideapart.com/news/715832/2024-husqvarna-trek-goes-to-spain/>
 
 ---
 

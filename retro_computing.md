@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.16
-updated: 2024-04-17 08:24:36
+updated: 2024-04-18 08:55:32
 ---
 
 # retro computing 2024.16
 
-(date: 2024-04-17 08:24:36)
+(date: 2024-04-18 08:55:32)
+
+---
+
+## Comics from 1986/06 Australian Personal Computer Mag
+
+date: 2024-04-18, from: Computer ads from the Past
+
+It&#8217;s that time of the month. This time let&#8217;s look at humor from down under. These comics are from the June 1986 issue of Australian Computer magazine. Enjoy! What computer ads would you like to see in the future? Please comment below. If you enjoyed it, please share it with your friends and relatives. Thank you. 
+
+<https://computeradsfromthepast.substack.com/p/comics-from-198606-australian-personal>
 
 ---
 

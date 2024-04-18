@@ -1,15 +1,421 @@
 ---
 title: socal north 2024.16
-updated: 2024-04-17 08:24:35
+updated: 2024-04-18 08:55:31
 ---
 
 # socal north 2024.16
 
-(date: 2024-04-17 08:24:35)
+(date: 2024-04-18 08:55:31)
 
 ---
 
-## Prom Prep Starts Early For These Students Who Grow The Flowers Themselves
+## Classifieds – April 18, 2024
+
+date: 2024-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/18/classifieds-april-18-2024/">Classifieds &#8211; April 18, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/18/classifieds-april-18-2024/>
+
+---
+
+## DEI needs to stay in medical schools
+
+date: 2024-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>It’s essential for progress that the medical field does not remove inclusion efforts.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/18/dei-needs-to-stay-in-medical-schools/">DEI needs to stay in medical schools</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/18/dei-needs-to-stay-in-medical-schools/>
+
+---
+
+## Jazz groups excite at Carson Soundstage
+
+date: 2024-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Instrumentalists and vocal groups showcased different sides of jazz Monday night.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/18/jazz-groups-excite-carson-soundstage/">Jazz groups excite at Carson Soundstage</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/18/jazz-groups-excite-carson-soundstage/>
+
+---
+
+## Students deserve recreational space
+
+date: 2024-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Tennis and pickleball court removal will make outdoor space less accessible at USC.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/18/students-deserve-recreational-space/">Students deserve recreational space</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/18/students-deserve-recreational-space/>
+
+---
+
+## I find joy in judging CDs
+
+date: 2024-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>What started out as picking a random J-pop CD has now become an ever-growing collection.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/18/i-find-joy-in-judging-cds/">I find joy in judging CDs</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/18/i-find-joy-in-judging-cds/>
+
+---
+
+## We’re not just girls; we’re so much more
+
+date: 2024-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The "just a girl" trend is antithetical to feminism: We must respect ourselves.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/18/were-not-just-girls-were-so-much-more/">We’re not just girls; we’re so much more</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/18/were-not-just-girls-were-so-much-more/>
+
+---
+
+## Woes persist for men’s tennis in UCLA matchup
+
+date: 2024-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans struggled to find consistency against their crosstown rivals Tuesday.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/18/woes-persist-for-mens-tennis-in-ucla-matchup/">Woes persist for men’s tennis in UCLA matchup</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/18/woes-persist-for-mens-tennis-in-ucla-matchup/>
+
+---
+
+## Campus health reflects on year
+
+date: 2024-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Data from the Student Well-being Index Survey will help judge new health resources.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/18/chief-campus-health-officer-reflects-on-year/">Campus health reflects on year</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/18/chief-campus-health-officer-reflects-on-year/>
+
+---
+
+## Friends reflect on Cecil Murray’s legacy
+
+date: 2024-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>University leaders remember the late reverend’s impact on USC students and staff.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/18/cecil-murray-dies-at-94/">Friends reflect on Cecil Murray’s legacy</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/18/cecil-murray-dies-at-94/>
+
+---
+
+## Rising Ballers: America’s next great hope
+
+date: 2024-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Manchester City found its latest starlet in … Pennsylvania? </p>
+<p>The post <a href="https://dailytrojan.com/2024/04/18/rising-ballers-americas-next-great-hope/">Rising Ballers: America’s next great hope</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/18/rising-ballers-americas-next-great-hope/>
+
+---
+
+## Earth Day-themed Broxton Nights showcases small businesses, sustainable vendors
+
+date: 2024-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+With an Earth Day-themed celebration, April&#8217;s edition of Broxton Nights brought together small businesses, The Pop-Up Shoppes, new Bruins and locals to exchange clothing on Broxton Avenue. 
+
+<https://dailybruin.com/2024/04/17/earth-day-themed-broxton-nights-showcases-small-businesses-sustainable-vendors/>
+
+---
+
+## USC has been foolishly consistent on campus free expression
+
+date: 2024-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University’s decision to bar the valedictorian from speaking echoes its stifling of John Strauss’ free speech.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/17/usc-has-been-foolishly-consistent-on-campus-free-expression/">USC has been foolishly consistent on campus free expression</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/17/usc-has-been-foolishly-consistent-on-campus-free-expression/>
+
+---
+
+## CSUN baseball sweeps doubleheader against Dirtbags
+
+date: 2024-04-18, from: The Sundail (CSUN Student Newspaper)
+
+After a disappointing blowout loss at home to California Baptist last week, CSUN (20-14, 8-4 Big West) bounced back with a vengeance, securing a dominating series win by sweeping a... 
+
+<https://sundial.csun.edu/180843/sports/csun-baseball-sweeps-doubleheader-against-dirtbags/>
+
+---
+
+## Brahmas prepare for the future
+
+date: 2024-04-18, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The Pierce College men’s volleyball team is at the end of their season and ready to wrap things up and prepare for the next. Though</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/17/brahmas-prepare-for-the-future/">Brahmas prepare for the future</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/17/brahmas-prepare-for-the-future/?utm_source=rss&utm_medium=rss&utm_campaign=brahmas-prepare-for-the-future>
+
+---
+
+## Learning the mindfulness of meditation
+
+date: 2024-04-18, from: The Round Up (Pierce College Student Newspaper)
+
+<p>A circle of people, of many different ages and backgrounds, filled the conference room in SSB 48271 as they sought to learn ways of relieving</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/17/learning-the-mindfulness-of-meditation/">Learning the mindfulness of meditation</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/17/learning-the-mindfulness-of-meditation/?utm_source=rss&utm_medium=rss&utm_campaign=learning-the-mindfulness-of-meditation>
+
+---
+
+## By the community, for the community
+
+date: 2024-04-18, from: The Round Up (Pierce College Student Newspaper)
+
+<p>One handmade blanket, assembled hygiene kit, donated pint of blood and planted tree at a time, volunteers gathered at Pierce College on Sunday and supported those</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/17/by-the-community-for-the-community/">By the community, for the community</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/17/by-the-community-for-the-community/?utm_source=rss&utm_medium=rss&utm_campaign=by-the-community-for-the-community>
+
+---
+
+## Aftershocks ring in wake of USC valedictorian speech decision
+
+date: 2024-04-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Several statements, local and national headlines, and tens of thousands of petition signatures later, a picture of general anger and frustration emerges.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/17/aftershocks-ring-in-wake-of-usc-valedictorian-speech-decision/">Aftershocks ring in wake of USC valedictorian speech decision</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/17/aftershocks-ring-in-wake-of-usc-valedictorian-speech-decision/>
+
+---
+
+## Hillel at UCLA hosts first interfaith Passover Seder, brings students together
+
+date: 2024-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Hillel at UCLA hosted its first interfaith Passover Seder Monday, bringing together students and administrators to build connections across campus. 
+The celebration &#8211; jointly hosted by the Interfaith Living Learning Community and Dialogue Across Differences at UCLA &#8211; featured readings, Jewish prayers and teaching about Passover traditions. 
+
+<https://dailybruin.com/2024/04/17/hillel-at-ucla-hosts-first-interfaith-passover-seder-brings-students-together/>
+
+---
+
+## CalTeach program lets STEM students explore teaching careers, earn credentials
+
+date: 2024-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Growing up, education just never seemed to click for Daria Rego. 
+&#8220;I&#8217;ve always had a hard time connecting with education,&#8221; Rego said. &#8220;For a while, I thought I might not even be able to go through a traditional education pathway and might not even be able to go to college.&#8221; 
+Now, the fourth-year biochemistry transfer student is part of UCLA&#8217;s CalTeach program on the way to becoming a teacher. 
+
+<https://dailybruin.com/2024/04/17/calteach-program-lets-stem-students-explore-teaching-careers-pursue-education/>
+
+---
+
+## A deep dive into UCLA swim and dive’s 2023-2024 season
+
+date: 2024-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA swim and dive splits its year into two distinct seasons. In the fall, the swimmers build up to their best times at the end with the Art Adamson Invitational, while in the winter, they build up to the Pac-12 championship and beyond. 
+
+<https://dailybruin.com/2024/04/17/a-deep-dive-into-ucla-swim-and-dives-2023-2024-season/>
+
+---
+
+## UCLA men’s tennis completes season sweep over USC with 5th consecutive win
+
+date: 2024-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Rivalry matches are inevitable in sports.
+They produce legendary matchups – Barcelona and Real Madrid, Duke and North Carolina, Roger Federer and Rafael Nadal, to name a few. 
+
+<https://dailybruin.com/2024/04/17/ucla-mens-tennis-completes-season-sweep-over-usc-with-5th-consecutive-win/>
+
+---
+
+## Concert preview: Music nostalgia and novelty spring onstage this quarter
+
+date: 2024-04-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+This quarter, artists are hopping onto the stage. 
+From decades-long discographies to the latest lullabies, musicians are setting off the spring soundwaves. Whether it&#8217;s a return to the stage or a celebration of newness, there&#8217;s something for every stage of life this season. 
+
+<https://dailybruin.com/2024/04/17/concert-preview-music-nostalgia-and-novelty-spring-onstage-this-quarter/>
+
+---
+
+## Metrolink to Hold Public Meetings on Antelope Valley Line Capacity and Service Improvements Project
+
+date: 2024-04-17, from: City of Santa Clarita
+
+<p>The City of Santa Clarita is Working with Metrolink to Enhance the Antelope Valley Line The 76.6-mile-long Antelope Valley Line (AVL) has the third-highest ridership in Metrolink’s system with an estimated average of 9,000 passengers daily. However, the uneven terrain and single-tracking along the line in some areas forces trains to travel at a slower [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/04/17/metrolink-to-hold-public-meetings-on-antelope-valley-line-capacity-and-service-improvements-project/">Metrolink to Hold Public Meetings on Antelope Valley Line Capacity and Service Improvements Project</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/04/17/metrolink-to-hold-public-meetings-on-antelope-valley-line-capacity-and-service-improvements-project/>
+
+---
+
+## Brahma Blotter: April 8-14, 2024
+
+date: 2024-04-17, from: The Round Up (Pierce College Student Newspaper)
+
+<p>No crimes were reported between April 8-14, 2024. Update: The hit-and-run on March 22, 2024, that occurred in Lot 7 involved two parked vehicles and</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/17/brahma-blotter-april-8-14-2024/">Brahma Blotter: April 8-14, 2024</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/17/brahma-blotter-april-8-14-2024/?utm_source=rss&utm_medium=rss&utm_campaign=brahma-blotter-april-8-14-2024>
+
+---
+
+## News Briefs – April 17, 2024
+
+date: 2024-04-17, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Election Forum: A Student Trustee and Associated Student Election Forum will be held in the ASO Student Engagement Center (LLC 5100) from noon to 1:30</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/17/news-briefs-april-17-2024/">News Briefs – April 17, 2024</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/17/news-briefs-april-17-2024/?utm_source=rss&utm_medium=rss&utm_campaign=news-briefs-april-17-2024>
+
+---
+
+## A center for student life to enhance the college experience
+
+date: 2024-04-17, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Essentials for a student experience at school include socializing, access to resources and a convenient place to shop for school supplies. All of these can</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/17/a-center-for-student-life-to-enhance-the-college-experience/">A center for student life to enhance the college experience</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/17/a-center-for-student-life-to-enhance-the-college-experience/?utm_source=rss&utm_medium=rss&utm_campaign=a-center-for-student-life-to-enhance-the-college-experience>
+
+---
+
+## Bachelor’s degree program discussed at Academic Senate
+
+date: 2024-04-17, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Students, staff and faculty came back from spring break only to find that their community college is now a four-year college—kind of. At the Pierce</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/17/bachelors-degree-program-discussed-at-academic-senate/">Bachelor’s degree program discussed at Academic Senate</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/17/bachelors-degree-program-discussed-at-academic-senate/?utm_source=rss&utm_medium=rss&utm_campaign=bachelors-degree-program-discussed-at-academic-senate>
+
+---
+
+## Board of Trustees highlights students’ involvement, achievements
+
+date: 2024-04-17, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The LACCD Board of Trustees adjourned its April 10 meeting in memory of Martin Ray Linley, a 37-year-old custodian at East Los Angeles College, who</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/17/board-of-trustees-highlights-students-involvement-achievements/">Board of Trustees highlights students’ involvement, achievements</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/17/board-of-trustees-highlights-students-involvement-achievements/?utm_source=rss&utm_medium=rss&utm_campaign=board-of-trustees-highlights-students-involvement-achievements>
+
+---
+
+## Celebrando el teatro y las artes chicanos
+
+date: 2024-04-17, from: The Round Up (Pierce College Student Newspaper)
+
+<p>To read this story in the original English, click here. Traducción por Violet Garcia. — Dos hombres poderosos subieron al escenario recitando un himno muy</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/17/celebrando-el-teatro-y-las-artes-chicanos/">Celebrando el teatro y las artes chicanos</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/17/celebrando-el-teatro-y-las-artes-chicanos/?utm_source=rss&utm_medium=rss&utm_campaign=celebrando-el-teatro-y-las-artes-chicanos>
+
+---
+
+## Celebrating Chicano theater and arts
+
+date: 2024-04-17, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Para leer el artículo en español, haga clic aquí. Two renowned men stood on stage reciting an anthem well-known in the Chicano movement. One man</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/17/celebrating-chicano-theater-and-arts/">Celebrating Chicano theater and arts</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/17/celebrating-chicano-theater-and-arts/?utm_source=rss&utm_medium=rss&utm_campaign=celebrating-chicano-theater-and-arts>
+
+---
+
+## Incoming Freshman Welcomed at Admitted Matadors Day
+
+date: 2024-04-17, from: The Sundail (CSUN Student Newspaper)
+
+Welcoming all new Matadors to CSUN! Admitted Matadors Day was the place to be for all incoming freshmen for the Fall 2024-25 school season. It was a full day filled... 
+
+<https://sundial.csun.edu/180841/multimedia/watch/incoming-freshman-welcomed-at-admitted-matadors-day/>
+
+---
+
+## ‘Nobody so far’: UCLA football anticipates maintaining roster as portal opens
+
+date: 2024-04-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Student-athletes are also, well, students. Distinctive identities dwell in jerseys and helmets.
+But for two weeks in the spring, they become hot commodities in an athletic bazaar. 
+
+<https://dailybruin.com/2024/04/17/nobody-so-far-ucla-football-anticipates-maintaining-roster-as-portal-opens/>
+
+---
+
+## Despite outhitting the Gauchos, UCLA baseball falls on the road
+
+date: 2024-04-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Freshman catcher Cashel Duggar smoked a low offspeed pitch down the first-base line with two runners on.
+Rather than escaping the infield for a hit, the ball was cleanly picked at first base, turning a hard-hit ball into an inning-ending 3-6-1 double play. 
+
+<https://dailybruin.com/2024/04/17/despite-outhitting-the-gauchos-ucla-baseball-falls-on-the-road/>
+
+---
+
+## PARTY AT A PIT STOP: CITY PAVES THE WAY FOR 20TH ANNUAL BIKE TO WORK CHALLENGE
+
+date: 2024-04-17, from: City of Santa Clarita
+
+<p>Local Businesses Invited to Join the No-Pollute Commute During the Week of May 13 This year marks the 20th year that the City of Santa Clarita has been hosting the annual Bike to Work Challenge. The community is invited to celebrate by riding a bike to work the week of May 13, and stopping by [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/04/17/party-at-a-pit-stop-city-paves-the-way-for-20th-annual-bike-to-work-challenge/">PARTY AT A PIT STOP: CITY PAVES THE WAY FOR 20TH ANNUAL BIKE TO WORK CHALLENGE</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/04/17/party-at-a-pit-stop-city-paves-the-way-for-20th-annual-bike-to-work-challenge/>
+
+---
+
+## Two UCLA gymnasts to compete at NCAA national championships
+
+date: 2024-04-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Selena Harris&#8217; eyes aren&#8217;t just set on a national beam title.
+The Pac-12 Gymnast of the Year will observe the nationals field in the hopes of getting her team back on the stage next season. 
+
+<https://dailybruin.com/2024/04/17/two-ucla-gymnasts-to-compete-at-ncaa-national-championships/>
+
+---
+
+## In Garden At A Sylmar High School, Students Connect With City’s Floricultural History
 
 date: 2024-04-17, updated: 2024-04-17, from: The LAist
 
@@ -119,7 +525,7 @@ date: 2024-04-17, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-04-17, from: The Daily Trojan (USC Student Newspaper)
 
-<p>The exhibit “ED RUSCHA / NOW THEN” features works from the figure of L.A. art. Angeles art.</p>
+<p>The exhibit “ED RUSCHA / NOW THEN” features works from the figure of Los Angeles art.</p>
 <p>The post <a href="https://dailytrojan.com/2024/04/17/lacma-delivers-historic-ruscha-retrospective/">LACMA delivers historic Ruscha retrospective</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
@@ -131,7 +537,7 @@ date: 2024-04-17, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-04-17, from: The Daily Bruin (UCLA Student Newspaper)
 
-Sona Nalbandian is performing &#8220;Kamancha&#8221; on the aptly named four-stringed instrument, the kamancha.
+Sona Nalbandian is performing “Kamancha” on the aptly named four-stringed instrument, the kamancha.
 As the fourth-year ethnomusicology student plays, I feel the history of an entire people in the rippling vibrations of the strings. 
 
 <https://dailybruin.com/2024/04/16/opinion-armenian-cultural-week-is-an-important-tribute-to-resilience-identity/>
@@ -195,7 +601,7 @@ When Montre Liwirun moved from Thailand to the United States in 1991, he did not
 
 date: 2024-04-17, from: The Daily Trojan (USC Student Newspaper)
 
-<p>Our open letter has been co-signed by 54 University student and local organizations.</p>
+<p>Our open letter has been co-signed by 65 University student and local organizations.</p>
 <p>The post <a href="https://dailytrojan.com/2024/04/16/student-organizations-say-let-our-valedictorian-speak-at-commencement/">Student organizations say: Let our valedictorian speak at commencement</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
