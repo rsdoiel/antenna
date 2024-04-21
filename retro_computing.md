@@ -1,49 +1,23 @@
 ---
 title: retro computing 2024.16
-updated: 2024-04-18 08:55:32
+updated: 2024-04-21 09:39:33
 ---
 
 # retro computing 2024.16
 
-(date: 2024-04-18 08:55:32)
+(date: 2024-04-21 09:39:33)
 
 ---
 
-## Comics from 1986/06 Australian Personal Computer Mag
+## Five hundred and thirty reasons to visit Bradford
 
-date: 2024-04-18, from: Computer ads from the Past
+date: 2024-04-21, from: RiscOS Open
 
-It&#8217;s that time of the month. This time let&#8217;s look at humor from down under. These comics are from the June 1986 issue of Australian Computer magazine. Enjoy! What computer ads would you like to see in the future? Please comment below. If you enjoyed it, please share it with your friends and relatives. Thank you. 
+<p>This year&#8217;s <a href="https://www.wakefieldshow.org.uk/">show organised by <span class="caps">WROCC</span></a> is once again taking place in the Cedar Court Hotel in <strong>Bradford</strong> on Saturday 27th April from 10:30am to 4:30pm. The venue has convenient road and rail access &#8211; see the Google <a href="https://maps.app.goo.gl/QXjRkuyyE6bJL6UF7">map</a> for directions.</p>
+<p><img src="/images/third_party/wroccshow24.png" title="Banner" alt="Banner" /></p>
+<h3>Worth a visit</h3>
+<p>Whether you&#8217;re travelling from La Rochelle (France), Mannheim (Germany), Svenstrup (Denmark), or even Hovden (Norway), that 530 mile trip is sure to be worth making &#8211; drop by the <span class="caps">RISC</span> OS Open stand to discuss the latest developments in <span class="caps">RISC</span> OS and share your thoughts for the future with us.</p>
+<p>Over in the show theatre a number of talks will be <a href="https://www.wakefieldshow.org.uk/theatre">taking place</a> during the day, including <span class="caps">RISC</span> OS Open.</p> 
 
-<https://computeradsfromthepast.substack.com/p/comics-from-198606-australian-personal>
-
----
-
-## E-Z Tax
-
-date: 2024-04-15, from: Computer ads from the Past
-
-The Tax Break You've Been Looking for ! 
-
-<https://computeradsfromthepast.substack.com/p/e-z-tax>
-
----
-
-## Tech Time Capsule: Early 1990s Clip Art Captured an Era
-
-date: 2024-04-15, from: Vintage Computing
-
-Clip art collections from the early 1990s are today&#8217;s forgotten cultural time capsules, freezing life three decades ago as digital illustrations full of obsolete tech, vintage fashions, and more. Just for fun, let&#8217;s explore computer art from a time just before the Internet hit it big. [Benj&#8217;s note—I wrote this piece years ago, and it [&#8230;] 
-
-<https://www.vintagecomputing.com/index.php/archives/3337/tech-time-capsule-early-1990s-clip-art-captured-an-era>
-
----
-
-## Lintek Computer Accessories' Paper Tamer
-
-date: 2024-04-15, from: Computer ads from the Past
-
-Restore Order (to your printer) 
-
-<https://computeradsfromthepast.substack.com/p/lintek-computer-accessories-paper>
+<http://www.riscosopen.org/news/articles/2024/04/21/five-hundred-and-thirty-reasons-to-visit-bradford>
 
