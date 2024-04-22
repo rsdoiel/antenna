@@ -1,0 +1,1475 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8" >
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" >
+  <title>tech likely 2024.17</title>
+<!--  <link rel="stylesheet" type="text/css"  href="../webfonts/fonts.css" media="screen" > -->
+  <link rel="stylesheet" type="text/css"  href="../css/site.css" media="screen" >
+</head>
+<body>
+<header>
+	<img class="logo" 
+	src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Antenna_1_-_The_Noun_Project.svg"
+	alt="line art showing an antenna"
+	height="80" width="60" >
+	<h1>The Antenna</h1> 
+	<h2>finding signal in the noise</h2>
+</header>
+<nav>
+<ul>
+	<li><a href="../">The Antenna</a></li>
+	<li><a href="../../socal_north.html" title="news from the Northern side of Southern California" >SoCal North!</a></li>
+	<li><a href="../../pacific.html" title="News from Micronesia and Pacific">Pacific</a></li>
+	<li><a href="../../mid_central.html" title="news from Mid Central California">Mid Central</a></li>
+	<li><a href="../columns.html" title="blogs I read like columnists">Columns</a></li>
+	<li><a href="../parks.html" title="new about parks">Parks</a></li>
+	<li><a href="../../tech_likely.html" title="likely tech news fed but other stuff happens too">Tech Likely</a></li>
+	<li><a href="../../libraries.html" title="Libraries, Archives and Museam related stuff happens too">Libraries</a></li>
+	<li><a href="../weather.html" title="U.S. National Weather">Weather</a></li>
+	<li><a href="./">Archives</a></li>
+	<li><a href="../search.html">Search</a></li>
+	<li><a href="../about.html">About</a></li>
+</ul>
+</nav>
+<section>
+<div class="description-for-items">
+<h2>tech likely 2024.17</h2>
+An experiment in personal news aggregation.
+</div>
+<h1 id="tech-likely-2024.17">tech likely 2024.17</h1>
+<p>(date: 2024-04-22 15:39:56)</p>
+<hr />
+<h2 id="apr-2024">23 Apr 2024</h2>
+<p>date: 2024-04-24, from: Miguel de Icaza’s blog</p>
+<h1 id="embeddable-game-engine">
+Embeddable Game Engine
+</h1>
+<p>
+<img
+src="https://migueldeicaza.github.io/SwiftGodotDocs/images/SwiftGodot%20Header.png"
+align="right" width=240> Many years ago, when working at Xamarin, where
+we were building cross-platform libraries for mobile developers, we
+wanted to offer both 2D and 3D gaming capabilities for our users in the
+form of adding 2D or 3D content to their mobile applications.
+</p>
+<p>
+For 2D, we contributed and developed assorted Cocos2D-inspired
+libraries.
+</p>
+<p>
+For 3D, the situation was more complex. We funded a few over the years,
+and we contributed to others over the years, but nothing panned out (the
+history of this is worth a dedicated post).
+</p>
+<p>
+Around 2013, we looked around, and there were two contenders at the
+time, one was an embeddable engine with many cute features but not great
+UI support called Urho, and the other one was a
+<a href="https://en.wikipedia.org/wiki/Godot_(game_engine)">Godot</a>,
+which had a great IDE, but did not support being embedded.
+</p>
+<p>
+I reached out to Juan at the time to discuss whether Godot could be
+turned into such engine. While I tend to take copious notes of all my
+meetings, those notes sadly were gone as part of the Microsoft
+acquisition, but from what I can remember Juan told me, "Godot is not
+what you are looking for" in two dimensions, there were no immediate
+plans to turn it into an embeddable library, and it was not as advanced
+as Urho, so he recommended that I go with Urho.
+</p>
+<p>
+We invested heavily in binding Urho and created
+<a href="https://github.com/xamarin/urho">UrhoSharp</a> that would go
+into becoming a
+<a href="https://devblogs.microsoft.com/xamarin/bring-3d-models-life-augmented-reality-urhosharp/">great
+3D library for our C# users</a> and worked not only on every desktop and
+mobile platform, but we did a ton of work to make it great for AR and VR
+headsets. Sadly, Microsoft’s management left UrhoSharp to die.
+</p>
+<p>
+Then, the maintainer of Urho stepped down, and Godot became one of the
+most popular open-source projects in the world.
+</p>
+<p>
+Last year, <span class="citation"
+data-cites="Faolan-Rad">@Faolan-Rad</span>
+<a href="https://github.com/godotengine/godot/pull/72883">contributed a
+patch to Godot</a> to turn it into a library that could be embedded into
+applications. I used this library to build
+<a href="https://github.com/migueldeicaza/SwiftGodotKit">SwiftGodotKit</a>
+and have been very happy with it ever since - allowing people to embed
+Godot content into their application.
+</p>
+<p>
+However, the patch had severe limitations; it could only ever run one
+Godot game as an embedded system and could not do much more. The folks
+at <a href="https://www.smirk.gg">Smirk Software</a> wanted to take this
+further. They wanted to host independent Godot scenes in their app and
+have more control over those so they could sprinkle Godot content at
+their heart’s content on their mobile app
+(<a href="https://x.com/JoshBromberg1/status/1721564103859114132">demo</a>)
+</p>
+<p>
+They funded some initial work to do this and hired
+<a href="https://migeran.com">Gergely Kis’s company</a> to do this work.
+</p>
+<p>
+Gergely demoed this work at GodotCon last year. I came back very excited
+from GodotCon and I decided to turn my
+<a href="https://x.com/migueldeicaza/status/1723765594653167892">prototype
+Godot on iPad</a> into a
+<a href="https://blog.la-terminal.net/igodot/">complete product</a>.
+</p>
+<p>
+One of the features that I needed was the ability to embed chunks of
+Godot in discrete components in my iPad UI, so we worked with Gergely to
+productize and polish this patch for general consumption.
+</p>
+<p>
+Now, there is a
+<a href="https://github.com/godotengine/godot/pull/90510">complete patch
+under review</a> to allow people to embed arbitrary Godot scenes into
+their apps. For SwiftUI users, this means that you can embed a Godot
+scene into a <code>View</code> and display and control it at will.
+</p>
+<p>
+Hopefully, the team will accept this change into Godot, and once this is
+done, I will update SwiftGodotKit to get these new capabilities to Swift
+users (bindings for other platforms and languages are left as an
+exercise to the reader).
+</p>
+<p>
+It only took a decade after talking to Juan, but I am back firmly in
+Godot land.
+</p>
+<p><a href="https://tirania.org/blog/archive/2024/Apr-23.html"
+class="uri">https://tirania.org/blog/archive/2024/Apr-23.html</a></p>
+<hr />
+<h2 id="denis-villeneuves-four-favorite-films">Denis Villeneuve’s Four
+Favorite Films</h2>
+<p>date: 2024-04-22, updated: 2024-04-22, from: Jason Kottke blog</p>
+<p><a
+href="https://kottke.org/24/04/denis-villeneuves-four-favorite-films"
+class="uri">https://kottke.org/24/04/denis-villeneuves-four-favorite-films</a></p>
+<hr />
+<h2 id="nasa-astronaut-to-inspire-artemis-generation-in-boston">NASA
+Astronaut to Inspire Artemis Generation in Boston</h2>
+<p>date: 2024-04-22, from: NASA breaking news</p>
+<p>April 22, 2024  NASA astronaut Stephen Bowen, along with
+representatives from NASA and the International Space Station National
+Laboratory, will visit Boston on Wednesday, April 24, and Thursday,
+April 25, as part of the agency’s Destination Station to highlight
+research opportunities aboard the station. Destination Station was
+created to educate the public and engage prospective […]</p>
+<p><a
+href="https://www.nasa.gov/news-release/nasa-astronaut-to-inspire-artemis-generation-in-boston/"
+class="uri">https://www.nasa.gov/news-release/nasa-astronaut-to-inspire-artemis-generation-in-boston/</a></p>
+<hr />
+<h2 id="gopher-again">2024-04-22 Gopher, again</h2>
+<p>date: 2024-04-22, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-04-22-gopher-again">
+2024-04-22 Gopher, again
+</h1>
+<p>
+Having found a separate server, written in Go, monitored by systemd, to
+be the superior solution for double hosting my site for Gemini, I kept
+thinking about Gopher. With <a href="Oddmu">Oddmu</a> using a version of
+Markdown that is very close to the standard, and having found a library
+that I understand, more or less, which I had successfully grafted onto
+the Gemini server I’m using, I figured that I might use the same library
+to turn Markdown into suitable Gopher pages again.
+</p>
+<p>
+It took some wrangling and it’s probably not great, but the main menu
+matches my front page and the blog posts look mostly OK, and so the site
+is back as a gopher hole on port 70!
+</p>
+<p>
+See <a href="https://src.alexschroeder.ch/markdown-gopher.git">Markdown
+Gopher</a> for the Gopher server code.
+</p>
+<p>
+See my <a href="https://src.alexschroeder.ch/satellite.git">patched
+Satellite</a> for the Gemini server code,
+<a href="2023-11-03-other-ports">discussed back in 2023</a>.
+</p>
+<p>
+And naturally I’m immediately annoyed by the lack of UTF-8 support in
+this client I’m using.
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Gopher">#Gopher</a>
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-04-22-gopher"
+class="uri">https://alexschroeder.ch/view/2024-04-22-gopher</a></p>
+<hr />
+<h2
+id="nasa-invites-media-to-learn-about-new-tech-mission-powered-by-the-sun">NASA
+Invites Media to Learn About New Tech Mission Powered by the Sun</h2>
+<p>date: 2024-04-22, from: NASA breaking news</p>
+<p>A new NASA mission is testing a new way to navigate our solar system
+by hoisting its sail into space – not to catch the wind, but the
+propulsive power of sunlight. NASA’s Advanced Composite Solar Sail
+System is led by the agency’s Ames Research Center in California’s
+Silicon Valley. The microwave oven-sized CubeSat is scheduled to
+launch aboard a […]</p>
+<p><a
+href="https://www.nasa.gov/centers-and-facilities/ames/nasa-invites-media-to-learn-about-new-tech-mission-powered-by-the-sun/"
+class="uri">https://www.nasa.gov/centers-and-facilities/ames/nasa-invites-media-to-learn-about-new-tech-mission-powered-by-the-sun/</a></p>
+<hr />
+<h2 id="paying-for-it-doesnt-make-it-a-market">Paying for it doesn’t
+make it a market</h2>
+<p>date: 2024-04-22, from: OS News</p>
+<p>Cory Doctorow, nailing it as usual. If you care about how people are
+treated by platforms, you can’t just tell them to pay for services
+instead of using ad-supported media. The most important factor in
+getting decent treatment out of a tech company isn’t whether you pay
+with cash instead of attention – it’s whether you’re locked in, and thus
+a flight risk whom the platform must cater to. ↫ Cory Doctorow I’m sick
+and tired of the phrase “if you’re not paying for the product, you’re
+the product”, because it implies that if just you pay for a product or
+service, you’re not going to be treated like ass. The problem is, as
+Doctorow points out, that this simply is not supported by the evidence,
+and that it isn’t whether or not you’re paying that makes you have a
+good or bad experience – it’s whether or not you’re locked in. If you’ve
+got nowhere else to go, then corporations can treat you like ass. There
+are so, so many free services and products I use where I’m anything but
+a “product”. My Linux distribution of choice, Fedora. My web browser,
+Firefox. The countless open source applications I use on my desktops,
+laptops, and smartphone. Those are all cases where even though I’m not
+paying, I know I’m being treated with respect, and I feel entirely
+comfortable with all of those. And no, you don’t get to exclude the open
+source world just because it’s inconvenient for the “you’re the product”
+argument. There are also countless services and products where the
+opposite is true; I’m a paying customer, but I still feel like I’m the
+product. I pay for additional Google Drive storage. I pay for an Office
+364 subscription because I needed it as a translator (I’m working on
+OSNews full-time now, and could use your help keeping the site going),
+but I can’t cancel it because my wife, my parents, and my parents-in-law
+use that same subscription. We pay for Netflix and one or two other
+video services. I don’t know if our ISP or wireless provider do anything
+malicious, but it wouldn’t surprise me. And so on. Being a paying
+customer means nothing. It’s how easy it is for you to stop being a
+customer that matters.</p>
+<p><a
+href="https://www.osnews.com/story/139393/paying-for-it-doesnt-make-it-a-market/"
+class="uri">https://www.osnews.com/story/139393/paying-for-it-doesnt-make-it-a-market/</a></p>
+<hr />
+<h2
+id="how-to-use-experimental-swift-versions-and-features-in-xcode">How to
+Use Experimental Swift Versions and Features in Xcode</h2>
+<p>date: 2024-04-22, from: Michael Tsai</p>
+<p>Donny Wals: We can click the Universal download link to install the
+Swift toolchain that you’re interested in. For example, if you’re eager
+to try out a cutting edge feature like Swift 6’s isolation regions
+feature you can download the trunk development toolchain. Or if you’re
+interested in trying out a feature that has made […]</p>
+<p><a
+href="https://mjtsai.com/blog/2024/04/22/how-to-use-experimental-swift-versions-and-features-in-xcode/"
+class="uri">https://mjtsai.com/blog/2024/04/22/how-to-use-experimental-swift-versions-and-features-in-xcode/</a></p>
+<hr />
+<h2 id="apple-maps-in-tokyo">Apple Maps in Tokyo</h2>
+<p>date: 2024-04-22, from: Michael Tsai</p>
+<p>Joe Rosensteel: When searching for a business, like your hotel which
+is part of a very large hotel chain, Google will show the one saved in
+your list as the first search result when you start typing. Apple Maps
+will show you the search results in the same order you’d see them
+otherwise, but it […]</p>
+<p><a href="https://mjtsai.com/blog/2024/04/22/apple-maps-in-tokyo/"
+class="uri">https://mjtsai.com/blog/2024/04/22/apple-maps-in-tokyo/</a></p>
+<hr />
+<h2 id="hackintosh-is-almost-dead">Hackintosh Is Almost Dead</h2>
+<p>date: 2024-04-22, from: Michael Tsai</p>
+<p>Aleksandar Vacić (via Hacker News, Ric Ford): It’s true that latest
+macOS 14 (Sonoma) still supports the latest generations of Intel Macs
+and it’s very likely that at least one or two major versions will still
+be compatible. But there’s one particular development that is de-facto
+killing off the Hackintosh scene. In Sonoma, Apple has […]</p>
+<p><a
+href="https://mjtsai.com/blog/2024/04/22/hackintosh-is-almost-dead/"
+class="uri">https://mjtsai.com/blog/2024/04/22/hackintosh-is-almost-dead/</a></p>
+<hr />
+<h2 id="the-apple-jonathan">The Apple Jonathan</h2>
+<p>date: 2024-04-22, from: Michael Tsai</p>
+<p>Stephen Hackett (Hacker News): Those four machines are well known,
+but there was a fifth possibility in the mix, named the Jonathan. In his
+book Inventing the Future, John Buck writes about the concept, which was
+led by Apple engineer Jonathan Fitch starting in the fall of 1984.This
+concept envisioned a computer that would expand […]</p>
+<p><a href="https://mjtsai.com/blog/2024/04/22/the-apple-jonathan/"
+class="uri">https://mjtsai.com/blog/2024/04/22/the-apple-jonathan/</a></p>
+<hr />
+<h2 id="they-fixed-it-nasa-is-able-to-talk-to-voyager-i-again.">They
+fixed it: NASA is able to talk to Voyager I again….</h2>
+<p>date: 2024-04-22, updated: 2024-04-22, from: Jason Kottke blog</p>
+<p><a href="https://kottke.org/24/04/0044459-they-fixed-it-nasa-is"
+class="uri">https://kottke.org/24/04/0044459-they-fixed-it-nasa-is</a></p>
+<hr />
+<h2
+id="nasa-announces-30th-human-exploration-rover-challenge-winners">NASA
+Announces 30th Human Exploration Rover Challenge Winners</h2>
+<p>date: 2024-04-22, from: NASA breaking news</p>
+<p>NASA announced the winners of the 30th Human Exploration Rover
+Challenge (HERC) April 22, with Parish Episcopal School, from Dallas,
+winning first place in the high school division, and the University of
+Alabama in Huntsville, capturing the college/university title. The
+annual engineering competition – one of NASA’s longest standing
+challenges – held its concluding event […]</p>
+<p><a
+href="https://www.nasa.gov/news-release/nasa-announces-30th-human-exploration-rover-challenge-winners/"
+class="uri">https://www.nasa.gov/news-release/nasa-announces-30th-human-exploration-rover-challenge-winners/</a></p>
+<hr />
+<h2 id="a-little-comments-check-in">A Little Comments Check-In</h2>
+<p>date: 2024-04-22, updated: 2024-04-22, from: Jason Kottke blog</p>
+<p><a href="https://kottke.org/24/04/a-little-comments-check-in"
+class="uri">https://kottke.org/24/04/a-little-comments-check-in</a></p>
+<hr />
+<h2
+id="a-database-of-useful-biological-numbers-including-the-duration-of-an-eye">A
+database of useful biological numbers, including the duration of an
+eye…</h2>
+<p>date: 2024-04-22, updated: 2024-04-22, from: Jason Kottke blog</p>
+<p><a href="https://kottke.org/24/04/0044451-a-database-of-useful-biol"
+class="uri">https://kottke.org/24/04/0044451-a-database-of-useful-biol</a></p>
+<hr />
+<h2 id="nasa-nurtures-promising-tech-ideas-from-small-businesses">NASA
+Nurtures Promising Tech Ideas from Small Businesses</h2>
+<p>date: 2024-04-22, from: NASA breaking news</p>
+<p>New space technology ideas emerge every day from innovators across
+the country, and NASA’s Small Business Innovation Research (SBIR)
+program on Monday selected more than 100 projects for funding. This
+program offers small businesses in the United States early-stage funding
+and support to advance the agency’s goals of exploring the unknown in
+air and space […]</p>
+<p><a
+href="https://www.nasa.gov/news-release/nasa-nurtures-promising-tech-ideas-from-small-businesses/"
+class="uri">https://www.nasa.gov/news-release/nasa-nurtures-promising-tech-ideas-from-small-businesses/</a></p>
+<hr />
+<h2 id="our-beautiful-water-world">Our Beautiful Water World</h2>
+<p>date: 2024-04-22, from: NASA breaking news</p>
+<p>This Jan. 30, 2012 image of Earth was created from photographs taken
+by the Visible/Infrared Imager Radiometer Suite (VIIRS) instrument
+aboard the Suomi NPP satellite. Many features of North America and the
+Western Hemisphere are particularly visible. The composite was created
+from the data collected during four orbits of the robotic satellite
+taken earlier in […]</p>
+<p><a
+href="https://www.nasa.gov/image-article/our-beautiful-water-world/"
+class="uri">https://www.nasa.gov/image-article/our-beautiful-water-world/</a></p>
+<hr />
+<h2 id="hold-the-line-is-a-piece-of-sound-art-generated-by-data">Hold
+the Line is a “piece of sound art generated by data…</h2>
+<p>date: 2024-04-22, updated: 2024-04-22, from: Jason Kottke blog</p>
+<p><a href="https://kottke.org/24/04/0044447-hold-the-line-is-a"
+class="uri">https://kottke.org/24/04/0044447-hold-the-line-is-a</a></p>
+<hr />
+<h2
+id="facebook-opens-its-android-based-quest-operating-system-to-other-vr-device-makers">Facebook
+opens its Android-based Quest operating system to other VR device
+makers</h2>
+<p>date: 2024-04-22, from: OS News</p>
+<p>Today we’re taking the next step toward our vision for a more open
+computing platform for the metaverse. We’re opening up the operating
+system powering our Meta Quest devices to third-party hardware makers,
+giving more choice to consumers and a larger ecosystem for developers to
+build for. We’re working with leading global technology companies to
+bring this new ecosystem to life and making it even easier for
+developers to build apps and reach their audiences on the platform. Meta
+Horizon OS is the result of a decade of work by Meta to build a
+next-generation computing platform. To pioneer standalone headsets, we
+developed technologies like inside-out tracking, and for more natural
+interaction systems and social presence, we developed eye, face, hand,
+and body tracking. For mixed reality, we built a full stack of
+technologies for blending the digital and physical worlds, including
+high-resolution Passthrough, Scene Understanding, and Spatial Anchors.
+This long-term investment that began on the mobile-first foundations of
+the Android Open Source Project has produced a full mixed reality
+operating system used by millions of people. ↫ Facebook’s blog In
+summary, Facebook wants the operating system of their Quest series of
+virtual reality devices – an Android Open Source Project fork optimised
+for this use – to become the default platform for virtual reality
+devices from all kinds of OEMs. Today, they’re announcing that both Asus
+and Lenovo will be releasing devices running this Meta Horizon OS, with
+the former focusing on high-end VR gaming, and the latter on more
+general use cases of work, entertainment, and so on. Facebook will also
+be working together with Microsoft to create a Quest “inspired by Xbox”.
+The Meta Quest Store, the on-device marketplace for applications and
+games, will be renamed to the Meta Horizon Store, and the App Lab, where
+developers can more easily get their applications and games on devices
+and in the hands of consumers as long as they meet basic technical and
+content guidelines, will be integrated into the Meta Horizon Store for
+easier access than before. In addition, in a mildly spicy move, Facebook
+is openly inviting Google to bring the Google Play Store to the VR
+Android fork, “where it can operate with the same economic model it does
+on other platforms”. The odds of me buying anything from Facebook are
+slim, so I really hope this new move won’t corner the market for VR
+headsets right out of the gate; I don’t want another Android/iOS
+duopoly. I’m not particularly interested in VR quite yet – but give it a
+few more years, and I certainly won’t pass up on a capable device that
+allows me to play Beat Saber and other exercise-focused applications and
+games. I just don’t want it to be a Facebook device or operating
+system.</p>
+<p><a
+href="https://www.osnews.com/story/139391/facebook-opens-its-android-based-quest-operating-system-to-other-vr-device-makers/"
+class="uri">https://www.osnews.com/story/139391/facebook-opens-its-android-based-quest-operating-system-to-other-vr-device-makers/</a></p>
+<hr />
+<h2 id="for-all-mankind-has-been-renewed-for-a-fifth-season-and-the">For
+All Mankind has been renewed for a fifth season and the…</h2>
+<p>date: 2024-04-22, updated: 2024-04-22, from: Jason Kottke blog</p>
+<p><a href="https://kottke.org/24/04/0044450-for-all-mankind-has-been"
+class="uri">https://kottke.org/24/04/0044450-for-all-mankind-has-been</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-04-22, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/04/22/uncleArno.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The
+idea of us all
+<a href="http://scripting.com/2024/04/16/140810.html">working
+together</a> to federate is the right idea, but making ActivityPub the
+hurdle everyone has to jump over is imho the wrong idea. I’m building on
+feeds – RSS, Atom, RDF. A lot of good stuff works on that basis. And
+it’s a much shorter path to
+<a href="http://scripting.com/2021/12/16/153331.html?title=myProductIsInterop">interop</a>
+than ActivityPub.</p>
+<p><a href="http://scripting.com/2024/04/22.html#a171256"
+class="uri">http://scripting.com/2024/04/22.html#a171256</a></p>
+<hr />
+<h2 id="the-lost-mixtape-from-the-hood-internet">The Lost Mixtape From
+The Hood Internet</h2>
+<p>date: 2024-04-22, updated: 2024-04-22, from: Jason Kottke blog</p>
+<p><a
+href="https://kottke.org/24/04/the-lost-mixtape-from-the-hood-internet"
+class="uri">https://kottke.org/24/04/the-lost-mixtape-from-the-hood-internet</a></p>
+<hr />
+<h2
+id="fedora-40-is-just-around-the-corner-with-more-spins-and-flavors-than-ever">Fedora
+40 is just around the corner with more spins and flavors than ever</h2>
+<p>date: 2024-04-22, updated: 2024-04-22, from: Liam Proven’s articles
+at the Register</p>
+<h4>
+KDE edition has the most conspicuous changes, and could become future
+flagship
+</h4>
+<pre><code>  &lt;p&gt;Fedora 40 is in the final stretch before launch tomorrow, with release candidate 1.14 in testing.&lt;/p&gt; </code></pre>
+<p><a
+href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/04/22/fedora_40_at_rc_stage/"
+class="uri">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/04/22/fedora_40_at_rc_stage/</a></p>
+<hr />
+<h2
+id="this-had-me-cackling-in-laughter-this-morning-kevin-del-aguila-hamming">This
+had me cackling in laughter this morning: Kevin Del Aguila hamming…</h2>
+<p>date: 2024-04-22, updated: 2024-04-22, from: Jason Kottke blog</p>
+<p><a href="https://kottke.org/24/04/0044453-this-had-me-cackling-in"
+class="uri">https://kottke.org/24/04/0044453-this-had-me-cackling-in</a></p>
+<hr />
+<h2
+id="mathematicians-marvel-at-crazy-cuts-through-four-dimensions">Mathematicians
+Marvel at ‘Crazy’ Cuts Through Four Dimensions</h2>
+<p>date: 2024-04-22, from: Quanta Magazine</p>
+Topologists prove two new results that bring some order to the
+confoundingly difficult study of four-dimensional shapes.
+<p>
+The post
+<a href="https://www.quantamagazine.org/mathematicians-marvel-at-crazy-cuts-through-four-dimensions-20240422/" target="_blank">Mathematicians
+Marvel at ‘Crazy’ Cuts Through Four Dimensions</a> first appeared on
+<a href="https://api.quantamagazine.org" target="_blank">Quanta
+Magazine</a>
+</p>
+<p><a
+href="https://www.quantamagazine.org/mathematicians-marvel-at-crazy-cuts-through-four-dimensions-20240422/"
+class="uri">https://www.quantamagazine.org/mathematicians-marvel-at-crazy-cuts-through-four-dimensions-20240422/</a></p>
+<hr />
+<h2
+id="vast-and-rich-studying-the-ocean-with-nasa-computer-simulations">‘Vast
+and Rich:’ Studying the Ocean With NASA Computer Simulations</h2>
+<p>date: 2024-04-22, from: NASA breaking news</p>
+<p>“Every time I help with visualizing [ocean] simulation data, I learn
+about an entirely new area of ocean or climate research, and I’m
+reminded of how vast and rich this area of research is. And…the real
+magic happens at the intersection and interaction of simulated and
+observed data. It is a great honor – and […]</p>
+<p><a
+href="https://www.nasa.gov/image-article/vast-and-rich-studying-the-ocean-with-nasa-computer-simulations/"
+class="uri">https://www.nasa.gov/image-article/vast-and-rich-studying-the-ocean-with-nasa-computer-simulations/</a></p>
+<hr />
+<h2 id="a-bot-that-pairs-the-clichéd-i-hope-this-email-finds-you">A bot
+that pairs the clichéd “I hope this email finds you”…</h2>
+<p>date: 2024-04-22, updated: 2024-04-22, from: Jason Kottke blog</p>
+<p><a href="https://kottke.org/24/04/0044452-a-bot-that-pairs-the"
+class="uri">https://kottke.org/24/04/0044452-a-bot-that-pairs-the</a></p>
+<hr />
+<h2
+id="why-is-methane-seeping-on-mars-nasa-scientists-have-new-ideas">Why
+is Methane Seeping on Mars? NASA Scientists Have New Ideas</h2>
+<p>date: 2024-04-22, from: NASA breaking news</p>
+<p>The most surprising revelation from NASA’s Curiosity Mars Rover —
+that methane is seeping from the surface of Gale Crater — has scientists
+scratching their heads. Living creatures produce most of the methane on
+Earth. But scientists haven’t found convincing signs of current or
+ancient life on Mars, and thus didn’t expect to find methane […]</p>
+<p><a
+href="https://science.nasa.gov/solar-system/planets/mars/why-is-methane-seeping-on-mars-nasa-scientists-have-new-ideas/"
+class="uri">https://science.nasa.gov/solar-system/planets/mars/why-is-methane-seeping-on-mars-nasa-scientists-have-new-ideas/</a></p>
+<hr />
+<h2
+id="this-looks-promising-an-rna-based-vaccine-effective-against-any-strain-of-a">This
+looks promising: an RNA-based vaccine effective against any strain of
+a…</h2>
+<p>date: 2024-04-22, updated: 2024-04-22, from: Jason Kottke blog</p>
+<p><a href="https://kottke.org/24/04/0044449-this-looks-promising-an-r"
+class="uri">https://kottke.org/24/04/0044449-this-looks-promising-an-r</a></p>
+<hr />
+<h2
+id="nasa-sets-coverage-of-roscosmos-spacewalk-outside-space-station">NASA
+Sets Coverage of Roscosmos Spacewalk Outside Space Station</h2>
+<p>date: 2024-04-22, from: NASA breaking news</p>
+<p>NASA will provide live coverage, beginning at 10:30 a.m. EDT
+Thursday, April 25, as two Roscosmos cosmonauts conduct a spacewalk
+outside the International Space Station. The spacewalk is expected to
+begin at 10:55 a.m. and could last up to seven hours. NASA will stream
+the spacewalk on NASA+, NASA Television, the NASA app, YouTube, and
+[…]</p>
+<p><a
+href="https://www.nasa.gov/news-release/nasa-sets-coverage-of-roscosmos-spacewalk-outside-space-station-2/"
+class="uri">https://www.nasa.gov/news-release/nasa-sets-coverage-of-roscosmos-spacewalk-outside-space-station-2/</a></p>
+<hr />
+<h2
+id="once-again-it-is-cheaper-to-decarbonize-our-world-now-than-to">Once
+again, it is cheaper to decarbonize our world now than to…</h2>
+<p>date: 2024-04-22, updated: 2024-04-22, from: Jason Kottke blog</p>
+<p><a href="https://kottke.org/24/04/0044448-once-again-it-is-cheaper"
+class="uri">https://kottke.org/24/04/0044448-once-again-it-is-cheaper</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-04-22, from: Dave Winer’s Scripting
+News)</p>
+<p>I hate paywalls tied to subscription. I’m never going to subscribe to
+a Philadelphia news org, but based on
+<a href="https://bsky.app/profile/jayrosen.bsky.social/post/3kqnxdwej3s2c">Jay’s
+recommendation</a> I might pay $1 on my
+<a href="http://scripting.com/2022/10/04/130438.html?title=howEzpassForNewsWouldWork">EZ
+Pass for News</a> to read
+<a href="https://www.inquirer.com/opinion/commentary/civil-war-movie-about-journalism-20240421.html">this
+story</a>, esp since I saw the
+<a href="https://en.wikipedia.org/wiki/Civil_War_(film)">Civil War</a>
+movie. I just had a thought, I might subscribe to a Philadelphia news
+org for a week or two, given that the Knicks are playing their NBA team
+right now in the first round of the playoffs. I really want to know
+everything there is to know about this faceoff. See, I want to pay for
+journalism here, but journalism hasn’t been willing to sell it to me, at
+any price. They’ve never gotten the basic truth of: “The customer is
+always right.” Really important point and true in every way.</p>
+<p><a href="http://scripting.com/2024/04/22.html#a132020"
+class="uri">http://scripting.com/2024/04/22.html#a132020</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-04-22, from: Dave Winer’s Scripting
+News)</p>
+<p>Over the weekend I
+<a href="https://techfightclub.wpcomstaging.com/">tested</a> the
+<a href="https://blogroll.social/">blogroll</a> plugin for WordPress. It
+worked. After a little more testing and docs-writing we’ll be ready for
+other people to test it, an important step before wider use. So if
+you’re a regular Scripting News reader, and are curious what this
+blogroll stuff is about, you’ll be able to try it out pretty soon.</p>
+<p><a href="http://scripting.com/2024/04/22.html#a130009"
+class="uri">http://scripting.com/2024/04/22.html#a130009</a></p>
+<hr />
+<h2 id="the-patriotism-of-paying-your-fair-share">The Patriotism of
+Paying Your Fair Share</h2>
+<p>date: 2024-04-22, updated: 2024-04-22, from: One Foot Tsunami</p>
+<p><a
+href="https://onefoottsunami.com/2024/04/22/the-patriotism-of-paying-your-fair-share/"
+class="uri">https://onefoottsunami.com/2024/04/22/the-patriotism-of-paying-your-fair-share/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-04-22, from: Dave Winer’s Scripting
+News)</p>
+<p>Jeff Jarvis
+<a href="https://mastodon.social/@jeffjarvis/112314943773347273">writes</a>
+that a German man who died with 70K books in his house was obsessed with
+the work of writer Arno Schmidt, who was
+<a href="https://www.google.com/search?q=site%3Ascripting.com+arno&rlz=1C5CHFA_enUS743US747&oq=site%3Ascr&aqs=chrome.0.69i59l3j69i57j69i64j69i58j69i65.24769j0j4&sourceid=chrome&ie=UTF-8">my
+great-uncle</a>, my grandmother’s brother.</p>
+<p><a href="http://scripting.com/2024/04/22.html#a125147"
+class="uri">http://scripting.com/2024/04/22.html#a125147</a></p>
+<hr />
+<h2 id="gilead-revisited">Gilead revisited</h2>
+<p>date: 2024-04-22, from: Ayjay blog</p>
+<p>The way we speak and think of the Puritans seems to me a serviceable
+model for important aspects of the phenomenon we call Puritanism. Very
+simply, it is a great example of our collective eagerness to disparage
+without knowledge or information about the thing disparaged, when the
+reward is the pleasure of sharing an attitude […]</p>
+<p><a href="https://blog.ayjay.org/46090-2/"
+class="uri">https://blog.ayjay.org/46090-2/</a></p>
+<hr />
+<h2 id="costs">costs</h2>
+<p>date: 2024-04-22, from: Ayjay blog</p>
+<p>A brief follow-up to this post from last week: In our current climate
+of political assholery, no self-described “activist” can answer what I
+think of as an essential question: If you get what you want, what will
+be the costs? Every choice — every choice ever made by every human being
+— carries costs. Some […]</p>
+<p><a href="https://blog.ayjay.org/costs/"
+class="uri">https://blog.ayjay.org/costs/</a></p>
+<hr />
+<h2
+id="new-version-of-tiny11-builder-lets-you-debloat-any-windows-11-build-or-version">New
+version of Tiny11 Builder lets you debloat any Windows 11 build or
+version</h2>
+<p>date: 2024-04-22, from: OS News</p>
+<p>The maker of Tiny11, a third-party project that aims to make Windows
+11 less bloated with unnecessary parts, released a new version of Tiny11
+Builder, a special tool that lets you create a custom Windows 11 image
+tailored to your needs and preferences. The latest release makes it much
+easier to create a lightweight Windows 11 ISO without worrying about
+installing a system modified by unknown third parties. ↫ Taras Buria at
+Neowin Perhaps you can make Windows 11 slightly more bearable with this.
+If there’s any interest from y’all, I could build my own debloated
+Windows 11 install and see if I can make this platform bearable for
+myself? Let me know in the comments.</p>
+<p><a
+href="https://www.osnews.com/story/139389/new-version-of-tiny11-builder-lets-you-debloat-any-windows-11-build-or-version/"
+class="uri">https://www.osnews.com/story/139389/new-version-of-tiny11-builder-lets-you-debloat-any-windows-11-build-or-version/</a></p>
+<hr />
+<h2 id="inside-the-super-nintendo-cartridges">Inside the Super Nintendo
+cartridges</h2>
+<p>date: 2024-04-22, from: OS News</p>
+<p>One of the remarkable characteristics of the Super Nintendo was the
+ability for game cartridges (cart) to pack more than instructions and
+assets into ROM chips. If we open and look at the PCBs, we can find
+inside things like the CIC copy protection chip, SRAM, and even
+“enhancement processors”. ↫ Fabien Sanglard When I was a child and
+teenager in the ’90s, the capabilities of the SNES cartridge were a bit
+of a legend. We’d talk about what certain games would use which
+additional processors and chips in the cartridge, right or wrong, often
+boasting about the games we owned, and talking down the games we didn’t.
+Much of it was probably nonsense, but there’s some good memories there.
+We’re decades deep into the internet age now, and all the mysteries of
+the SNES cartridge can just be looked up on Wikipedia and endless
+numbers of other websites. The mystery’s all gone, but at least now we
+can accurately marvel at just how versatile the SNES really was.</p>
+<p><a
+href="https://www.osnews.com/story/139387/inside-the-super-nintendo-cartridges/"
+class="uri">https://www.osnews.com/story/139387/inside-the-super-nintendo-cartridges/</a></p>
+<hr />
+<h2
+id="read-floppy-disks-and-cd-roms-with-raspberry-pi-5-magpimonday">Read
+floppy disks and CD-ROMs with Raspberry Pi 5 | #MagPiMonday</h2>
+<p>date: 2024-04-22, from: Raspberry Pi News (.com)</p>
+<p>
+Play old games from original media, back up your floppies before they
+die, and image replacement disks.
+</p>
+<p>
+The post
+<a href="https://www.raspberrypi.com/news/read-floppy-disks-and-cd-roms-with-raspberry-pi-5-magpimonday/">Read
+floppy disks and CD-ROMs with Raspberry Pi 5 | #MagPiMonday</a> appeared
+first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.
+</p>
+<p><a
+href="https://www.raspberrypi.com/news/read-floppy-disks-and-cd-roms-with-raspberry-pi-5-magpimonday/"
+class="uri">https://www.raspberrypi.com/news/read-floppy-disks-and-cd-roms-with-raspberry-pi-5-magpimonday/</a></p>
+<hr />
+<h2
+id="young-peoples-astro-pi-code-is-sent-to-the-international-space-station">Young
+people’s Astro Pi code is sent to the International Space Station</h2>
+<p>date: 2024-04-22, from: Raspberry Pi (.org)</p>
+<p>
+Young people taking part in the European Astro Pi Challenge are about to
+have their computer programs sent to the International Space Station
+(ISS). Astro Pi is run annually in collaboration by us and ESA
+Education, and offers two ways to get involved: Mission Zero and Mission
+Space Lab. This year, over 25,000 young people…
+</p>
+<p>
+The post
+<a href="https://www.raspberrypi.org/blog/young-peoples-astro-pi-code-is-sent-to-the-international-space-station/">Young
+people’s Astro Pi code is sent to the International Space Station</a>
+appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi
+Foundation</a>.
+</p>
+<p><a
+href="https://www.raspberrypi.org/blog/young-peoples-astro-pi-code-is-sent-to-the-international-space-station/"
+class="uri">https://www.raspberrypi.org/blog/young-peoples-astro-pi-code-is-sent-to-the-international-space-station/</a></p>
+<hr />
+<h2 id="humans.txt">humans.txt</h2>
+<p>date: 2024-04-22, from: Tilde.news</p>
+<p>
+<a href="https://tilde.news/s/3zljfs/humans_txt">Comments</a>
+</p>
+<p><a href="https://www.datagubbe.se/humans.txt"
+class="uri">https://www.datagubbe.se/humans.txt</a></p>
+<hr />
+<h2 id="archives-as-commons">Archives as Commons</h2>
+<p>date: 2024-04-22, from: Doc Searls (at Harvard), New Old Blog</p>
+<p>The Santa Barbara News-Press was born in 1868 and died in 2023 at age
+155. Its glory years ran from 1932 until 2000, when the New York
+Times sold it to Wendy McCaw, who rode it to hell. That ride began with
+the Santa Barbara News Press Controversy in 2006 and ended when
+Ampersand, the company McCaw created […]</p>
+<p><a href="https://doc.searls.com/2024/04/21/archives-as-commons/"
+class="uri">https://doc.searls.com/2024/04/21/archives-as-commons/</a></p>
+<hr />
+<h2
+id="creative-computer-publishes-interview-with-the-guy-behind-the-death-star-trench-run-1978">Creative
+Computer Publishes Interview with the Guy Behind the Death Star Trench
+Run (1978)</h2>
+<p>date: 2024-04-22, from: Computer ads from the Past</p>
+<p>An Interview With Star Wars Animator Larry Cuba</p>
+<p><a
+href="https://computeradsfromthepast.substack.com/p/creative-computer-publishes-interview"
+class="uri">https://computeradsfromthepast.substack.com/p/creative-computer-publishes-interview</a></p>
+<hr />
+<h2 id="pgdsat-v1.1-released">pgdsat v1.1 released</h2>
+<p>date: 2024-04-22, from: PostgreSQL News</p>
+<p>
+Hanoi, Vietnam - April 19th, 2024
+</p>
+<h2>
+pgdsat - PostgreSQL Database Security Assessment Tool
+</h2>
+<p>
+pgdsat is a security assessment tool that checks around 80 PostgreSQL
+security controls of your PostgreSQL clusters including all
+recommendations from the CIS compliance benchmark but not only.
+</p>
+<p>
+This PostgreSQL Security Assessment Tool allow assessments to be carried
+out in an automated manner to verify the security policies established
+inside the company. It also gives understanding of the security issued
+that your cluster can be faced.
+</p>
+<p>
+It consists in a single command that must be run on the PostgreSQL
+server to collect all necessaries system and PostgreSQL information to
+compute a security assessment report. A report consist in a summary of
+all tests status and a second part with all detailed information. See a
+<a href="https://www.darold.net/sample_pgdsat/report.html">sample
+report</a>.
+</p>
+<p>
+This release adds new checks and fixes issues reported by users since
+the first release published for the event of FOSSASIA 2024 in Hanoi. New
+features:
+</p>
+<ul>
+<li>
+Add cluster version mismatch check if <code>–cluster</code> is used.
+</li>
+<li>
+Add a check to ensure a data anonymization extension is installed
+(pg_anonymize or anon).
+</li>
+<li>
+Add check to ensure tablespace location is not inside the PGDATA.
+</li>
+<li>
+Add statistics about checksum failures if any.
+</li>
+<li>
+Double check the Unix socket permission on disk.
+</li>
+<li>
+Add check to ensure that the public schema is protected in all database.
+</li>
+</ul>
+<p>
+For the complete list of changes, please checkout the release note on
+<a href="https://github.com/hexacluster/pgdsat/blob/master/ChangeLog">https://github.com/hexacluster/pgdsat/blob/master/ChangeLog</a>
+</p>
+<h2>
+Links &amp; Credits
+</h2>
+<p>
+pgdsat is an open project. Any contribution to build a better tool is
+welcome. You just have to send your ideas, features requests or patches
+using the GitHub tools.
+</p>
+<p>
+Thank to the developers who submitted patches and users who reported
+bugs and feature requests, they are all cited in the ChangeLog file.
+</p>
+<p>
+Links:
+</p>
+<ul>
+<li>
+Sample report:
+<a href="http://www.darold.net/sample_pgdsat/report.html">http://www.darold.net/sample_pgdsat/report.html</a>
+</li>
+<li>
+Download:
+<a href="https://github.com/hexacluster/pgdsat/releases">https://github.com/hexacluster/pgdsat/releases</a>
+</li>
+<li>
+Development:
+<a href="https://github.com/hexacluster/pgdsat">https://github.com/hexacluster/pgdsat</a>
+</li>
+<li>
+Changelog:
+<a>https://github.com/hexacluster/pgdsat/blob/master/ChangeLog</a>
+</li>
+</ul>
+<hr>
+<p>
+<strong>About pgdsat</strong>
+</p>
+<p>
+The objective of pgdsat is to have an Open Source and free tool to help
+PostgreSQL users to enforce the security of their PostgreSQL clusters.
+Not all checks might correspond to your security policies but pgdsat
+aims to be a reference on which you can rely to check the compliance of
+security points with your policy.
+</p>
+<p>
+Tool created at HexaCluster Corp and maintained by Gilles Darold.
+</p>
+<p>
+pgdsat works on Linux platform and is available under the GPLv3 licence.
+</p>
+<p><a
+href="https://www.postgresql.org/about/news/pgdsat-v11-released-2845/"
+class="uri">https://www.postgresql.org/about/news/pgdsat-v11-released-2845/</a></p>
+<hr />
+<h2 id="announcing-e-maj-4.4.0.">Announcing E-Maj 4.4.0.</h2>
+<p>date: 2024-04-22, from: PostgreSQL News</p>
+<p>
+We are very glad to announce the <strong>4.4.0</strong> version of
+<strong>E-Maj</strong>.
+</p>
+<p>
+E-Maj is a PostgreSQL extension which enables fine-grained write logging
+and time travel on subsets of the database.
+</p>
+<p>
+This new 4.4 version mainly improves the visibility of tables groups and
+extension versions histories. It also fixes a few bugs. The
+<em>Emaj_web</em> client has been enhanced to take benefit of these new
+features.
+</p>
+<p>
+E-Maj 4.4.0 is compatible with Postgres 11 to 16 versions.
+</p>
+<p>
+The full <a href="http://emaj.readthedocs.io">documentation</a> is
+available on line. The core extension is available at
+<a href="http://http://pgxn.org/dist/e-maj/">pgxn.org</a> for
+installation or <a>github.org</a> for development.
+</p>
+<p>
+The <strong>Emaj_web</strong> client is also available at
+<a href="https://github.com/dalibo/emaj_web">github.org</a>.
+</p>
+<p>
+Have fun with E-Maj !
+</p>
+<p><a
+href="https://www.postgresql.org/about/news/announcing-e-maj-440-2846/"
+class="uri">https://www.postgresql.org/about/news/announcing-e-maj-440-2846/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-04-21, from: Dave Winer’s Scripting
+News)</p>
+<p>I asked
+<a href="https://www.meta.ai/c/853f1272-e6cc-4e09-9191-a31dab6b6d8e">meta.ai</a>
+to <a href="https://www.youtube.com/watch?v=DAb4lj_4b54">draw a pastoral
+scene</a> with sheep and dogs, birds, fish, airplanes, clams and
+seagoing ships in ancient England.</p>
+<p><a href="http://scripting.com/2024/04/21.html#a235226"
+class="uri">http://scripting.com/2024/04/21.html#a235226</a></p>
+<hr />
+<h2 id="episode-130---algol-part-ii">Episode 130 - ALGOL, Part II</h2>
+<p>date: 2024-04-21, from: Advent of Computing</p>
+<p data-pm-slice="1 1 []">
+This is a hefty one. I usually try to keep things as accessible as
+possible, but this time we have to get a little more technical than
+usual. We are picking up in 1964, with the first proposals for a new
+version of ALGOL. From there we sail through the fraught waters of ALGOL
+X, Y, W, and finally 68. Along the way we see how a language evolves
+over time, and how people and politics mesh with technical issues.
+</p>
+<p>
+Selected Sources:
+</p>
+<p>
+<a href="https://dl.acm.org/doi/pdf/10.5555/1061112.1061118" rel="noopener noreferrer nofollow" data-link-auto= "">https://dl.acm.org/doi/pdf/10.5555/1061112.1061118</a> -
+Successes and Failures of the ALGOL Effort
+</p>
+<p>
+<a href="https://sci-hub.se/10.1109/MAHC.2010.8" rel= "noopener noreferrer nofollow" data-link-auto= "">https://sci-hub.se/10.1109/MAHC.2010.8</a> -
+Cold War Origins of IFIP
+</p>
+<p>
+<a href= "https://archive.computerhistory.org/resources/text/algol/algol_bulletin/" rel="noopener noreferrer nofollow" data-link-auto= "">https://archive.computerhistory.org/resources/text/algol/algol_bulletin/</a>
+- The ALGOL Bulletin
+</p>
+<p><a
+href="https://adventofcomputing.libsyn.com/episode-130-algol-part-ii"
+class="uri">https://adventofcomputing.libsyn.com/episode-130-algol-part-ii</a></p>
+<hr />
+<h2 id="niri-0.1.5-released">Niri 0.1.5 released</h2>
+<p>date: 2024-04-21, from: OS News</p>
+<p>Earlier this year, we talked about Niri, a very unique tiling window
+manager for Wayland that scrolls infinitely to the right. I’ve never
+seen anything quite like it, and while it seems polarising, I think it’s
+absolutely worthy of a dedicated niche. The project’s got a major new
+release out, and there’s a lot of improvements here. First and foremost,
+virtually all animations have been overhauled, and new ones have been
+added for almost every kind of interaction. The videos on the release
+page do a really good job of highlighting what they’re going for, and I
+think it looks great, and for the animation-averse, every individual
+animation can be turned off. Niri now also supports variable refresh
+rate, and the IPC mechanism has been improved. Among the smaller
+improvements is a welcome one: when using the touchscreen, the mouse
+cursor disappears. I really think this one has to be tried before
+judged, and I’m seriously contemplating setting up a Wayland environment
+just for this one, to see if it works for me. My window “flow”, if that
+makes sense, is already left-to-right, so the idea of having that
+effectively automated with an infinite canvas sounds very appealing to
+me, especially on smaller displays. I just need to figure out if it
+works in reality.</p>
+<p><a href="https://www.osnews.com/story/139385/niri-0-1-5-released/"
+class="uri">https://www.osnews.com/story/139385/niri-0-1-5-released/</a></p>
+<hr />
+<h2
+id="microsoft-now-lets-you-download-app-executables-directly-from-the-microsoft-store-website">Microsoft
+now lets you download app executables directly from the Microsoft Store
+website</h2>
+<p>date: 2024-04-21, from: OS News</p>
+<p>Microsoft is on a roll with updating its app store on Windows 10 and
+11. Following the recent release of performance upgrades and improved
+algorithms, the company announced big changes in how the web version of
+the Microsoft Store works. Now, every user can download app executables
+directly from the website using new “installers for web.” ↫ Taras Buria
+at Neowin Neat.</p>
+<p><a
+href="https://www.osnews.com/story/139383/microsoft-now-lets-you-download-app-executables-directly-from-the-microsoft-store-website/"
+class="uri">https://www.osnews.com/story/139383/microsoft-now-lets-you-download-app-executables-directly-from-the-microsoft-store-website/</a></p>
+<hr />
+<h2
+id="lunatik-a-framework-for-scripting-the-linux-kernel-with-lua">Lunatik:
+a framework for scripting the Linux kernel with Lua</h2>
+<p>date: 2024-04-21, from: OS News</p>
+<p>Lunatik is a framework for scripting the Linux kernel with Lua. It is
+composed by the Lua interpreter modified to run in the kernel; a device
+driver (written in Lua =)) and a command line tool to load and run
+scripts and manage runtime environments from the user space; a C API to
+load and run scripts and manage runtime environments from the kernel;
+and Lua APIs for binding kernel facilities to Lua scripts. ↫ Lunatik
+GitHub page I’m not knowledgeable enough to understand what this might
+be used for, but I figured y’all would be interested in this.</p>
+<p><a
+href="https://www.osnews.com/story/139381/lunatik-a-framework-for-scripting-the-linux-kernel-with-lua/"
+class="uri">https://www.osnews.com/story/139381/lunatik-a-framework-for-scripting-the-linux-kernel-with-lua/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-04-21, from: Dave Winer’s Scripting
+News)</p>
+<p>Doc asks the
+<a href="https://twitter.com/dsearls/status/1782145396950835248">question</a>
+on all our minds: “Why does ChatGPT misspell the f*ck out of words on
+images?” Don Park, Wes Felter and JY Stervinou chime in.</p>
+<p><a href="http://scripting.com/2024/04/21.html#a212728"
+class="uri">http://scripting.com/2024/04/21.html#a212728</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-04-21, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2021/02/11/frescaBlackberryCitrus.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Back
+in the old days, during a great sport event, we’d post our feelings, pro
+or con, to Twitter. I
+<a href="https://twitter.com/davewiner/status/1782032706903195993">observed</a>
+as follows: “Let’s do something great with our lives! In the meantime I
+miss the role that twitter used to play and never will play again. It
+was the place to go to say ‘How about those Knicks!’ when they win a
+game like the one they won last night. Not no mo.”
+<a href="http://scripting.com/2005/01/27.html#When:9:35:10AM">Betsy
+Devine</a> was the first to like this. I felt heard.</p>
+<p><a href="http://scripting.com/2024/04/21.html#a212552"
+class="uri">http://scripting.com/2024/04/21.html#a212552</a></p>
+<hr />
+<h2 id="humans-versus-machines-the-hallucination-edition">Humans versus
+Machines: The Hallucination Edition</h2>
+<p>date: 2024-04-21, from: Gary Marcus blog</p>
+<p>So many people are confused about the relation between human
+cognitive errors and LLM hallucinations that I wrote this short
+explainer: Humans say things that aren’t true for many different reasons
+• Sometimes they lie • Sometimes they misremember things</p>
+<p><a
+href="https://garymarcus.substack.com/p/humans-versus-machines-the-hallucination"
+class="uri">https://garymarcus.substack.com/p/humans-versus-machines-the-hallucination</a></p>
+<hr />
+<p><strong><span class="citation"
+data-cites="Tomosino">@Tomosino</span>’s Mastodon feed</strong> (date:
+2024-04-21, from: Tomosino’s Mastodon feed)</p>
+<p>
+If any of you are going by the kitchen can you grab me some water?
+Thanks
+</p>
+<p><a href="https://tilde.zone/@tomasino/112310028733771128"
+class="uri">https://tilde.zone/@tomasino/112310028733771128</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-04-21, from: Dave Winer’s Scripting
+News)</p>
+<p>Good morning sports fans!</p>
+<p><a href="http://scripting.com/2024/04/21.html#a154110"
+class="uri">http://scripting.com/2024/04/21.html#a154110</a></p>
+<hr />
+<h2 id="facing-facts">Facing Facts</h2>
+<p>date: 2024-04-21, from: Gary Marcus blog</p>
+<p>“The definition of insanity is doing the same thing over and over
+again while expecting different results.” If all we had was ChatGPT, we
+could say, hmm “maybe hallucinations are just a bug”, and fantasize that
+they weren’t hard to fix. If all we had was Gemini, we could say, hmm
+“maybe hallucinations are just a bug”.</p>
+<p><a href="https://garymarcus.substack.com/p/facing-facts"
+class="uri">https://garymarcus.substack.com/p/facing-facts</a></p>
+<hr />
+<h2 id="section"></h2>
+<pre><code>            &lt;code&gt;dusage&lt;/code&gt; for the command line and &lt;code&gt;PMdusage&lt;/code&gt; for OS/2
+        </code></pre>
+<p>date: 2024-04-21, updated: 2024-04-21, from: Uninformative blog</p>
+<p><a
+href="https://www.uninformativ.de/blog/postings/2024-04-21/0/POSTING-en.html"
+class="uri">https://www.uninformativ.de/blog/postings/2024-04-21/0/POSTING-en.html</a></p>
+<hr />
+<h2 id="maldives-2024">Maldives 2024</h2>
+<p>date: 2024-04-21, from: Alex Schroeder’s Blog</p>
+<h1 id="maldives-2024">
+Maldives 2024
+</h1>
+<p>
+The biosphere as we know it is ending and I’m spending two weeks in the
+Maldives with my wife for her 50th birthday. I feel conflicted.
+</p>
+<p>
+The trip to get here was long. Zurich Doha by plane, Doha Male by plane,
+Male Kurudu by water-plane, Kurudu Komandoo by speedboat. I felt like
+sleeping for 20h when we finally got here. And all the
+<a href="2024-04-05-travel">anxiety before leaving</a> was terrible,
+too.
+</p>
+<p>
+With that, I think we have all out must-see locations before the end. We
+went to the <a href="2017-10-28_Australia">Great Barrier Reef</a> in
+2017, to the <a href="Galapagos_2020">Galapagos</a> in 2020 and now to
+the Maldives.
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Pictures">#Pictures</a>
+<a class="tag" href="/search/?q=%23Maldives">#Maldives</a>
+</p>
+<p>
+<strong>2024-04-06</strong>. The last leg of the journey – our
+water-plane was delayed because of the bad weather.
+</p>
+<p>
+<img loading="lazy" src="2024-04-06-maledives-1.jpg" alt="" />
+</p>
+<p>
+Looking out from the porch the ocean is blue, the sky is blue and the
+reef begins a few meters in.
+</p>
+<p>
+<img loading="lazy" src="2024-04-06-maledives-5.jpg" alt="" />
+</p>
+<p>
+We go snorkeling every day. Our last two trips showed me that we need an
+underwater camera. Oh to have videos of Reef Number Nine in Australia or
+the penguins and sea lions in the Galapagos! I bought a GoPro Hero 10
+before we left.
+</p>
+<p>
+<img loading="lazy" src="2024-04-06-maledives-2.jpg" alt="" />
+</p>
+<p>
+This cowtail stingray (?) we keep seeing is about 2m long and likes to
+hide in the sand.
+</p>
+<p>
+<img loading="lazy" src="2024-04-06-maledives-3.jpg" alt="" />
+</p>
+<p>
+There’s sea grass sprouting right now and sea turtles grazing.
+</p>
+<p>
+<img loading="lazy" src="2024-04-06-maledives-4.jpg" alt="" />
+</p>
+<p>
+Black tipped reef sharks… harmless! At a later point we did see it
+attack something hidden in the rocks and it was scary to see!
+</p>
+<p>
+<img loading="lazy" src="2024-04-06-maledives-6.jpg" alt="" />
+</p>
+<p>
+Most corals look dreary! It’s certainly not as colourful and busy as in
+Australia or the Galapagos. This purple giant is cool, though.
+</p>
+<p>
+<img loading="lazy" src="2024-04-06-maledives-7.jpg" alt="" />
+</p>
+<p>
+There are still plenty of colourful fish.
+</p>
+<p>
+<img loading="lazy" src="2024-04-06-maledives-8.jpg" alt="" />
+</p>
+<p>
+Whenever we’re away on a trip, we play games. The most popular tropical
+island game is Race for the Galaxy.
+</p>
+<p>
+<img loading="lazy" src="2024-04-06-maledives-9.jpg" alt="" />
+</p>
+<p>
+Yesterday we also played
+<a href="http://mixedsignals.ml/games/petition/">Petition</a> by
+<a class="account" href="https://mastodon.xyz/@klaatu" title="@klaatu@mastodon.xyz"><span
+class="citation" data-cites="klaatu">@klaatu</span></a>.
+</p>
+<p>
+<strong>2024-04-10</strong>. More pictures.
+</p>
+<p>
+We saw our first hermit crabs in Costa Rica where we spent our honey
+moon. We love these little ones. Maybe because they’re slow and easily
+scared and therefore obviously harmless.
+</p>
+<p>
+<img loading="lazy" src="2024-04-06-maledives-10.jpg" alt="" />
+</p>
+<p>
+The parrot fish have super sharp teeth and gnaw on the corals. And when
+you’re snorkeling, you can hear them. Kchrrr! Kchhhrrk!
+</p>
+<p>
+<img loading="lazy" src="2024-04-06-maledives-11.jpg" alt="" />
+</p>
+<p>
+I also love those lone corals harbouring a small school of tiny fearful
+fish that retreat and hide in the coral as somebody approaches.
+</p>
+<p>
+<img loading="lazy" src="2024-04-06-maledives-12.jpg" alt="" />
+</p>
+<p>
+When you swim past the nearby reef the bottom drops out and the deep
+blue begins. I am always afraid some huge fish will show up.
+</p>
+<video src="/wiki/2024-04-06-maledives-14.mp4" poster="2024-04-06-maledives-13.jpg" width="1920" height="1080" controls muted>
+<img alt="Image of fishes and the deep blue ocean" src="2024-04-06-maledives-13.jpg"/><br>
+<a alt="Video of the same fishes" href="/wiki/2024-04-06-maledives-14.mp4">14
+second video</a>
+</video>
+<p>
+There is a strange tourism industry, here. The islands are either
+uninhabited, inhabited by locals, or reserved for tourism. Tourists can
+stay on the “local islands” since 2007. Natives are only allowed to work
+on the tourist islands.
+</p>
+<p>
+The capital city is
+<a href="https://en.wikipedia.org/wiki/List_of_cities_proper_by_population_density">one
+of the densest urban areas</a> on the planet. Just look at the image of
+<a href="https://en.wikipedia.org/wiki/Mal%C3%A9">Malé on Wikipedia</a>.
+</p>
+<p>
+I would lament this urban sprawl, the land reclamation, the garbage
+problem, the democracy deficit, the dependence on tourism – but I know
+what my friend Peter would say, pointing at the
+<a href="https://en.wikipedia.org/wiki/Factfulness">Factfulness</a>
+book. Check out these stats from the
+<a href="https://de.m.wikipedia.org/wiki/Malediven">German Wikipedia
+page on the Maldives</a>: In 2020, the Maldives had 541000 inhabitants.
+In 1950, they had about 74000 inhabitants. At the time, a woman had
+about 7.5 children on average in 1980 but these days they are so much
+better off that the growth rate has dropped to 1.8% in 2020 and a woman
+has about 1.8 children on average. Life expectancy rose from 34.5 years
+in 1950 to 81 for women and 77.8 for men in 2020. An amazing improvement
+from the point of view of the locals.
+</p>
+<p>
+From my green perspective, though… let’s not forget the garbage island
+<a href="https://en.m.wikipedia.org/wiki/Thilafushi">Thilafushi</a>. The
+picked an island and use it as a garbage dump because they don’t know
+what to do with all the garbage. Sure, every island needs a garbage
+incinerator now, but in the nineties, there was just garbage and it had
+to go somewhere. And some of the stuff starts leaking. It accumulates in
+the the fish. People eat the fish. It’s easy to feel grim about this. I
+need to remind myself that life expectancy was less than 35 years just a
+generation or two ago (I was born in the seventies). Poverty is much,
+much worse than pollution and we tend to forget it.
+</p>
+<p>
+If you’re wondering why I’m basically skimming, reading and finally
+summarizing Wikipedia articles on my blog, I guess the answer is that
+this is how I try to deal with it all. To not close my eyes. Not to look
+away.
+</p>
+<p>
+<strong>2024-04-12</strong>. Bad luck for Claudia. Yesterday, late at
+night, she stuck her small toe in a gap between two planks, took another
+step, nearly fell and twisted her foot. There’s a huge dark bruise on
+its back and a significant dark bruise below. No more fins, for a while.
+😭
+</p>
+<p>
+We had signed up for a snorkel safari when suddenly the buzz was that
+the young humpback whale they had seen two days ago was still around and
+so the ship picked up some extra passengers and Claudia came along to do
+some whale watching.
+</p>
+<p>
+The whale watching did not disappoint.
+</p>
+<video src="/wiki/2024-04-06-maledives-15.mov" poster="2024-04-06-maledives-15.jpg" width="1920" height="1080" controls muted>
+<img alt="Image of a whale slapping its fin" src="2024-04-06-maledives-15.jpg"/><br>
+<a alt="Video of the whale slapping its fin" href="/wiki/2024-04-06-maledives-15.mov">5
+second video</a>
+</video>
+<p>
+This adolescent
+<a href="https://en.m.wikipedia.org/wiki/Humpback_whale">humpback
+whale</a> was about 8m long. It’s unusual to find a whales here, now, so
+close to the reef, so young, without its family. There was speculation
+that it might be waiting for its family to pick it up again, or that
+perhaps it was sick.
+</p>
+<video src="/wiki/2024-04-06-maledives-14.mov" poster="2024-04-06-maledives-14.jpg" width="1920" height="1080" controls muted>
+<img alt="Image of a young humpback whale swimming by" src="2024-04-06-maledives-14.jpg"/><br>
+<a alt="Video of the same whale" href="/wiki/2024-04-06-maledives-14.mov">6
+second video</a>
+</video>
+<p>
+<strong>2024-04-13</strong>. To it is raining. Good for Claudia since
+she is supposed to rest her foot.
+</p>
+<p>
+<img loading="lazy" src="2024-04-06-maledives-16.jpg" alt="" />
+</p>
+<p>
+<strong>2024-04-21</strong>. After snorkling with the whale, not much
+seemed to be worth posting about.
+</p>
+<p>
+Before going on this trip, I bought an older GoPro HERO 10. Now I have a
+few gigabytes of reef snorkeling footage. I don’t know what to do with
+it. Post it? Unlikely! It takes too much space and nobody would look at
+it. Donate it to YouTube? Unlikely! Upload it to some Peertube instance
+and thereby offload the cost? Unlikely.
+</p>
+<p>
+Regarding the economy of the Maldives and the shock when I learned about
+the garbage island and my dismay when I saw the skyline of Malé island –
+when we flew back, I got a closer look at Malé from the air as we landed
+and while it wasn’t an island nature paradise, it was just a city with
+nice, tall buildings and roads and palm trees and construction sites and
+glass fronts and cars and motorcycles. In other words, it seemed like a
+perfectly normal city and it wasn’t shabby and it didn’t have slums and
+so I keep coming back to the main issue: Beating poverty is of ultimate
+importance in order to improve people’s lives and giving them options so
+that they can work on the problems they care about. When we flew over
+Thilafushi, the garbage island didn’t look “apocalyptic” but just like
+some industrial zone elsewhere in the world, except it’s an island in
+the middle of the ocean.
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-04-06-maledives"
+class="uri">https://alexschroeder.ch/view/2024-04-06-maledives</a></p>
+<hr />
+<h2 id="this-thing-is-bigger-than-journalism">This Thing is Bigger Than
+Journalism</h2>
+<p>date: 2024-04-21, from: Doc Searls (at Harvard), New Old Blog</p>
+<p>Journalism as we knew it is washing away. But the story is bigger
+than journalism alone, and bigger than a story alone can tell.
+(Image borrowed from the brilliant Despair.com.) We who care about
+journalism are asked to join the Save Journalism Project, and its fight
+against Big Tech. Their pitch begins, and adds, On the first point, we
+[…]</p>
+<p><a
+href="https://doc.searls.com/2024/04/20/this-thing-is-bigger-than-journalism/"
+class="uri">https://doc.searls.com/2024/04/20/this-thing-is-bigger-than-journalism/</a></p>
+<hr />
+<h2 id="full-circle-weekly-news-362">Full Circle Weekly News 362</h2>
+<p>date: 2024-04-21, from: Full Circle Magazine</p>
+<ul>
+<li>
+<p>
+<a href="https://lore.kernel.org/lkml/wwkqc7ugdewzde6gdej5bi6kb3bsvoqzqkexxejcl64d5r3pow@46qmmqq5wx4y/">Bcachefs
+patches to fix the FS:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://www.mail-archive.com/info-gnu@gnu.org/msg03275.html">Release
+of GNU Stow 2.4:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://github.com/migueletto/PumpkinOS">The PumpkinOS project
+develops PalmOS reincarnation:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://gitlab.com/apt-mirror2/apt-mirror2/-/releases/v4">Release
+of apt-mirror2 4:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://github.com/pivpn/pivpn/releases/tag/v4.6.0">PiVPN
+project discontinued:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://github.com/cloudflare/pingora/releases">First edition
+of Pingora:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://pagure.io/fesco/issue/3191#comment-904697">Fedora 41
+approved DNF5:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://lists.linuxaudio.org/hyperkitty/list/linux-audio-announce@lists.linuxaudio.org/thread/WJFB554MUA2BHOZMYIANTDAG7WCESIC2/">Rivendell
+4.2 is available:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://github.com/nixys/nxs-backup/releases/tag/v3.4.0">Release
+of nxs-backup 3.4.0:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://www.mail-archive.com/openssl-announce@openssl.org/msg00445.html">Release
+of OpenSSL 3.3.0:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://kubuntu.org/news/celebrating-creativity-announcing-the-winners-of-the-kubuntu-contests/">Kubuntu
+project presented an updated logo and branding elements:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://geti2p.net/en/blog/post/2024/04/08/new_release_i2p_2.5.0">Release
+of I2P 2.5.0 anonymous network:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://www.gentoo.org/news/2024/04/10/SPI-associated-project.html">Project
+Gentoo and SPI:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://blog.openziti.io/announcing-openziti-v1">OpenZiti
+1.0:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://openinventionnetwork.com/founding-open-source-zone-members-oin-the-linux-foundation-and-microsoft-mark-five-years-of-successes-in-protecting-open-source-software-from-patent-assertion-entities/">OS
+Zone Initiative Revokes 54 Anti-Open Software Patents:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://lore.kernel.org/all/ZhBRSM2j0v7cOLn%252F@oracle.com/T/%23u">Oracle
+has published DTrace 2.0.0-1.14 for Linux</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://ardour.org/whatsnew.html">Release of Ardor 8.5:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://fridge.ubuntu.com/2024/04/12/ubuntu-24-04-lts-noble-numbat-beta-released/">Ubuntu
+24.04 beta release:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://translate.google.com/website?sl=auto&amp;tl=en&amp;hl=en-US&amp;client=webapp&amp;u=https://kde.org/announcements/frameworks/6/6.1.0/">Release
+of KDE Frameworks 6.1.0:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://lakka.tv/articles/2024/04/13/lakka-5.0/">Lakka 5.0:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://github.com/lutris/lutris/releases/tag/v0.5.17">Release
+of Lutris 0.5.17:</a>
+</p>
+</li>
+</ul>
+<p>
+<strong>Credits</strong>
+</p>
+<ul>
+<li>
+Host: <a href="https://twitter.com/bardictriad"><span class="citation"
+data-cites="bardictriad">@bardictriad</span></a>,
+<a href="mailto:zaivala@hostux.social"><span class="citation"
+data-cites="zaivala">@zaivala</span></a>
+</li>
+<li>
+Bumper: <a href="https://canonical.com/">Canonical</a>
+</li>
+<li>
+Theme Music: From The Dust - Stardust
+</li>
+<li>
+<a href="https://soundcloud.com/ftdmusic">https://soundcloud.com/ftdmusic</a>
+</li>
+<li>
+<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+</li>
+</ul>
+<p><a href="https://fullcirclemagazine.org/podcasts/podcast-362/"
+class="uri">https://fullcirclemagazine.org/podcasts/podcast-362/</a></p>
+<hr />
+<h2 id="i-somehow-managed-to-lock-myself-out-of-my-authy-secrets">I
+somehow managed to lock myself out of my Authy secrets</h2>
+<p>date: 2024-04-21, from: Ze Iaso’s blog</p>
+<p><a href="https://xeiaso.net/notes/2024/authy-fuckup/"
+class="uri">https://xeiaso.net/notes/2024/authy-fuckup/</a></p>
+<hr />
+<h2
+id="no-way-to-prevent-this-say-users-of-only-language-where-this-regularly-happens">“No
+way to prevent this” say users of only language where this regularly
+happens</h2>
+<p>date: 2024-04-21, from: Ze Iaso’s blog</p>
+<p><a
+href="https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-2961/"
+class="uri">https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-2961/</a></p>
+</section>
+<footer>
+Antenna is a personal aggregation of items found around the web.
+Curated with <a href="https://rsdoiel.github.io/skimmer">skimmer</a> and <a href="https://sqlite.org">sqlite</a> then rendered with <a href="https://pandoc.org">Pandoc</a> with search provided by <a href="https://pagefind.app">PageFind</a>.
+</footer>
+<script type="module">
+    await import('/pagefind/pagefind-highlight.js');
+    new PagefindHighlight({ highlightParam: "highlight" });
+</script>
+</body>
+</html>
