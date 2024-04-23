@@ -1,31 +1,205 @@
 ---
 title: weather 2024.17
-updated: 2024-04-22 15:39:56
+updated: 2024-04-23 09:49:41
 ---
 
 # weather 2024.17
 
-(date: 2024-04-22 15:39:56)
+(date: 2024-04-23 09:49:41)
 
 ---
 
-## SPC - No watches are valid as of Mon Apr 22 22:06:02 UTC 2024
+## SPC - No watches are valid as of Tue Apr 23 16:28:02 UTC 2024
 
-date: 2024-04-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-04-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Mon Apr 22 22:06:02 UTC 2024. 
+No watches are valid as of Tue Apr 23 16:28:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Mon Apr 22 22:06:02 UTC 2024
+## SPC Apr 23, 2024 1630 UTC Day 1 Convective Outlook
 
-date: 2024-04-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-04-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Mon Apr 22 22:06:02 UTC 2024. 
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1123 AM CDT Tue Apr 23 2024
+
+Valid 231630Z - 241200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FOR NORTHWEST
+TEXAS...
+
+...SUMMARY...
+Isolated severe thunderstorms capable of producing large hail
+(potentially 2+ inch diameter) and gusts to 65 mph will be possible
+this afternoon and evening across northwest Texas.
+
+...Northwest TX...
+Visible satellite imagery and surface analysis this morning indicate
+the initial stage of moisture return is occurring across the
+southern Great Plains in the wake of a frontal intrusion into the
+Gulf a few days ago.  A mid-level ridge will increasingly become
+established across the central/southern Rockies and adjacent High
+Plains as a Great Lakes disturbance gradually becomes more displaced
+from the region.  An associated cold front will move southward
+across KS/OK before eventually stalling tonight across southeast OK
+and northwest TX.  Weak lee cyclogenesis will aid in maintaining a
+southerly low-level fetch across central into west TX as strong
+heating results in a sharpening dryline by late afternoon.  Isolated
+thunderstorm development will be most probable near the triple point
+20-22Z.  Steep lapse rates coupled with adequate moisture (1500-2000
+J/kg MLCAPE) and veering flow beneath moderate westerlies, will
+support an initial supercell mode.  Isolated very large hail of
+2-2.5 inches in diameter will be the main threat, along with a few
+55-65 mph gusts.
+
+...Northern IL/southeast WI/Lower MI late this afternoon/evening...
+Have not changed the existing outlook for this region due primarily
+to consistency in model data and the forecast conceptual model not
+deviating.  Water-vapor imagery this morning shows a mid-level
+trough over the Upper Midwest and this will continue southeast into
+the central Great Lakes by mid evening.  An associated surface
+trough will likewise move southeastward, and this trough will be
+preceded by a band of rain with minimal buoyancy.  Behind the rain
+band, surface heating with steepening low-level lapse rates and
+cooling midlevel temperatures will support weak surface-based
+buoyancy just ahead of a secondary frontal surge.  Some low-topped
+convection will be possible late this afternoon through late evening
+from northern IL/southeast WI into Lower MI.  The stronger storms
+could yield a localized marginal hail/damaging wind threat.
+
+..Smith/Moore.. 04/23/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
+
+---
+
+## SPC - No MDs are in effect as of Tue Apr 23 16:28:02 UTC 2024
+
+date: 2024-04-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Tue Apr 23 16:28:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2024-04-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1107 AM CDT Tue Apr 23 2024
+
+Valid 231700Z - 241200Z
+
+...NO CRITICAL AREAS...
+
+The previous forecast (see below) remains on track, with no changes
+or additions made.
+
+..Squitieri.. 04/23/2024
+
+.PREV DISCUSSION... /ISSUED 0128 AM CDT Tue Apr 23 2024/
+
+...Synopsis...
+A midlevel trough will advance east-southeastward from the Midwest
+toward the Northeast through the period, while an upper ridge
+encompasses much of the West. On the backside of the midlevel
+trough, a post-frontal air mass will infiltrate the northern and
+central Plains, where breezy/gusty northerly surface winds are
+expected. Over portions of southern NE and KS, these winds could
+briefly overlap 20-30 percent afternoon RH, favoring locally
+elevated fire-weather conditions -- given receptive fuels across the
+area. However, these conditions appear too brief and marginal for
+Elevated highlights at this time.
+
+Farther west, dry/breezy conditions are expected across the
+Southwest during the afternoon. However, fuels are generally not
+supportive of large fires at this time.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## SPC Apr 23, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-04-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0726 AM CDT Tue Apr 23 2024
+
+Valid 231300Z - 241200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS LATE THIS
+AFTERNOON/EVENING ACROSS NORTHWEST TX...
+
+...SUMMARY...
+Isolated severe thunderstorms capable of producing large hail (2+
+inch diameter) and gusts to 65 mph will be possible this afternoon
+and evening across northwest Texas. Additional strong storms
+producing hail up to 1 inch diameter and gusts up to 60 mph are
+possible from southeast Wisconsin and northern Illinois into Lower
+Michigan.
+
+...Northwest TX area this afternoon/evening...
+No appreciable changes to the prior outlook.  In the wake of a
+midlevel trough crossing the Great Lakes, a surface cold front will
+move southward across KS/OK today, eventually stalling by tonight
+across southeast OK and northwest TX.  There will be sufficient
+cross-Rockies flow aloft for lee cyclogenesis across eastern NM and
+adjacent west central TX, which will maintain southerly low-level
+flow and northward advection of a modifying western Gulf air mass
+into the frontal zone by mid-late afternoon.  Strong surface heating
+along the west edge of the returning moisture will result in a
+sharpening dryline by late afternoon, with a dryline/front triple
+point likely just off the Caprock.  Isolated thunderstorm
+development will be most probable near the triple point after 21z,
+and convection will subsequently move southeastward before weakening
+by late evening.  The storm environment will be characterized by
+moderate buoyancy (MLCAPE of 1500-2000 J/kg), steep midlevel lapse
+rates near 9 C/km, and sufficient deep-layer shear for supercells. 
+Isolated very large hail of 2-2.5 inches in diameter will be the
+main threat, along with a few 55-65 mph outflow gusts.
+
+...Northern IL/southeast WI/Lower MI late this afternoon/evening...
+Only minor changes to the MRGL risk area in lower MI.  A midlevel
+trough over the upper MS Valley this morning will continue
+east-southeastward over the Great Lakes by Wednesday morning.  An
+associated surface trough will likewise move southeastward, and this
+trough will be preceded by a band of rain with minimal buoyancy. 
+Behind the rain band, surface heating with steepening low-level
+lapse rates and cooling midlevel temperatures will support weak
+surface-based buoyancy just ahead of a secondary frontal surge. 
+Some low-topped convection will be possible in this zone late this
+afternoon through late evening from northern IL/southeast WI into
+lower MI.  The storms could pose a marginal hail/wind threat.
+
+..Thompson/Kerr.. 04/23/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
@@ -166,152 +340,4 @@ large-fire spread at this time.
  
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## SPC Apr 21, 2024 1630 UTC Day 1 Convective Outlook
-
-date: 2024-04-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1124 AM CDT Sun Apr 21 2024
-
-Valid 211630Z - 221200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS NORTH
-FLORIDA AND SOUTH GEORGIA...
-
-...SUMMARY...
-Isolated damaging gusts and marginally severe hail will be possible
-for a few hours this afternoon/evening across south Georgia and
-north Florida.
-
-...North FL/south GA this afternoon/evening...
-Visible satellite imagery late this morning shows a cumulus field
-and a destabilizing airmass to the east of an ongoing band of
-convection near a southwest-northeast oriented front.  Ample heating
-over the area to the east of patchy cirrus will promote temperatures
-warming into the lower 80s deg F.  12z model guidance so far has a
-negative bias on surface dewpoints across north FL compared to
-observations (3-6 deg F too dry).  This is partially explained by a
-richer moist profile observed through almost 850 mb via the 12z
-Tallahassee raob.  As a result, slightly higher dewpoints (upper 60s
-deg F) and greater buoyancy (1000-1500 J/kg MLCAPE) are expected
-than previously forecast.  Water-vapor imagery shows a lead
-disturbance moving east across the central Gulf Coast, and it will
-reach the northeast Gulf by late this afternoon/early evening. 
-Ascent and some strengthening in flow will aid in some storm
-organization (reference 50-kt 2-6 km flow at Tallahassee on the 88D
-VAD).  Limited low-level convergence and a warm layer near 800 mb
-may act to hinder an otherwise more organized potential severe
-setup.  Regardless, isolated 50-65 mph gusts and marginally severe
-hail are possible with the stronger storms this afternoon into the
-early evening.
-
-..Smith/Jewell.. 04/21/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2024-04-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-1107 AM CDT Sun Apr 21 2024
-
-Valid 211700Z - 221200Z
-
-...NO CRITICAL AREAS...
-
-The previous forecast (see below) remains on track, with no changes
-or additions made.
-
-..Squitieri.. 04/21/2024
-
-.PREV DISCUSSION... /ISSUED 0154 AM CDT Sun Apr 21 2024/
-
-...Synopsis...
-A midlevel westerly jet streak will cross the northern Rockies
-during the afternoon, while a related cold front overspreads the
-region. Strong post-frontal winds are expected across northern MT,
-which could briefly overlap 20-30 percent RH. Dry/breezy pre-frontal
-conditions are also possible over eastern MT into the western
-Dakotas. While locally elevated conditions are possible for both
-areas, marginal fuels and a limited overlap of the strongest winds
-and lowest RH cast uncertainty on the large-fire threat.
-
-Farther east, breezy/gusty west-northwesterly winds and 25-35
-percent RH are possible from MN to Lower MI -- along the southern
-periphery of strong northwesterly flow aloft. This could yield
-locally elevated conditions, though these conditions appear too
-marginal for highlights, given the current state of fuels.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
-
----
-
-## SPC Apr 21, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-04-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0745 AM CDT Sun Apr 21 2024
-
-Valid 211300Z - 221200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS THIS
-AFTERNOON/EVENING ACROSS NORTH FL/SOUTH GA...
-
-...SUMMARY...
-Isolated damaging winds near 60 mph and large hail near 1 inch
-diameter will be possible for a few hours this afternoon/evening
-across south Georgia and north Florida.
-
-...North FL/south GA this afternoon/evening...
-A low amplitude shortwave trough over the north central Gulf coast
-will progress eastward over south GA/north FL by late afternoon, in
-advance of an upstream trough over the mid MS Valley.  An associated
-cold front will move slowly southeastward and offshore of the
-Carolinas this afternoon, and into central FL by Monday morning. 
-Regional 12z soundings from JAX/TLH show lingering steep midlevel
-lapse rates and an associated cap which is expected to weaken from
-the west by afternoon, when thunderstorm development will become
-more probable with surface heating, ascent along the front, and with
-larger-scale ascent related to the approaching midlevel trough.  The
-warm sector ahead of the front across south GA/north FL will be
-characterized by mid 60s dewpoints and surface temperatures ranging
-from the mid 70s to lower 80s in cloud breaks by afternoon, where
-MLCAPE could approach 1000 J/kg.  Coincident with diurnal
-destabilization, midlevel flow will increase to 50 kt with largely
-straight hodographs and effective bulk shear of 35-40 kt.  This
-environment of moderate buoyancy and vertical shear will support the
-potential for multicell clusters and/or low-end supercells capable
-of producing isolated damaging gusts near 60 mph and large hail near
-1 inch in diameter for a few hours this afternoon/evening.
-
-..Thompson/Kerr.. 04/21/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 

@@ -1,11 +1,258 @@
 ---
 title: columns 2024.17
-updated: 2024-04-22 15:39:56
+updated: 2024-04-23 09:49:41
 ---
 
 # columns 2024.17
 
-(date: 2024-04-22 15:39:56)
+(date: 2024-04-23 09:49:41)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
+
+I don't have time to write about it but the end of last night's Knicks game was one of the most dramatic bits of NY sports ever. I would like to <a href="https://www.reddit.com/r/nba/comments/dern8c/kevin_durant_explains_why_free_agents_wont_join/">thank Kevin Durant</a> for saying the Knicks weren't cool. It's somewhat like the <a href="https://en.wikipedia.org/wiki/Streisand_effect">Streisand Effect</a> where the thing KD was trying to hide was that <i>he</i> was no longer cool. Classic case of projection. I'd love to hear what he says now. Obviously he was not the hot shit he thought he was in 2019. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/04/23.html#a161806>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2021/06/26/baseballScene.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I have big ideas for the blogging world. I'd like to combine AI and search to make a really great search engine for bloggers. We would contribute what we know (we already do) and in return, along with everyone else, get to benefit from the collection. And when we browse, it knows which blog we write. So it has a very good idea of what we mean when we ask a question and what we already know. This is totally missing in ChatGPT and is something Google and other search engines have never been willing to do (or even understood, I guess). But this is a huge idea. I'd like to give it <a href="https://feedland.social/opml?screenname=davewiner&catname=blogroll">my blogroll</a> too, so it knows which sources I consider credible. I love that it creates an incentive to post to your blog, and it makes <a href="http://scripting.com/2024/04/16/140810.html?title=workingTogether">working together</a> automatic. 
+
+<http://scripting.com/2024/04/23.html#a161338>
+
+---
+
+##  Scientists have repurposed a 50-year-old drug to revolutionize bone marrow transplants. &#8220;Today,... 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044463-scientists-have-repurpose>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
+
+<a href="https://www.google.com/search?q=site%3Ascripting.com+ez+pass+for+news">EZ Pass for News</a> is formula for functional relationships between local news pubs and people in far away places (ie not their locality) who may from time to time want to read an article or a series of articles on their site, and pay per-issue instead of buying a subscription. 
+
+<http://scripting.com/2024/04/23.html#a161153>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
+
+<a href="https://twitter.com/davewiner/status/1782577146679976202">John Palfrey</a> as the mover behind <a href="https://www.macfound.org/press/article/press-forward-a-national-initiative-to-support-the-revitalization-of-local-news">Press Forward</a> will bring the <a href="http://scripting.com/2024/04/22.html#a132020">gospel</a> of EZ Pass for News on his "ongoing whistle-stop tour" of local news orgs. JP was my boss/rabbi when I was at Berkman, and is why we got so much done there. He ran air cover for what we did, the BloggerCons, giving RSS a home, podcasting, blogs for everyone, the people and democracy. Now he's doing it for the local news business. 
+
+<http://scripting.com/2024/04/23.html#a160607>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
+
+The "largest open publishing network in the world" is the web. Ghost <a href="https://activitypub.ghost.org/">says</a> it's ActivityPub. Think bigger. 
+
+<http://scripting.com/2024/04/23.html#a160340>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
+
+I was chatting with a friend who went to <a href="https://en.wikipedia.org/wiki/Bronx_High_School_of_Science">Bronx Science</a>, as I did, and we were talking about Isaac Asimov, and I said I thought he went to Science too. So I fired up ChatGPT and asked if Asimov went to Science, and <a href="https://chat.openai.com/share/81199c5a-ca0a-4a2c-b610-e0799722a03f">it said yes</a>. Then I asked where he went to high school and it said Bronx Science. But by then I was pretty sure he didn't, so I went to Google and meta.ai, and neither knew where he went to high school. So I asked on Twitter, Mastodon, <a href="https://mastodon.social/@davew/112321321415008740">Blue Sky</a> and Threads. Not sure why I even care! Oh well. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/04/23.html#a155601>
+
+---
+
+##  Happy to announce that thanks to folks buying The Process Tee, we&#8217;ve... 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044464-happy-to-announce-that-th>
+
+---
+
+## The Roach Motel Of Banking
+
+date: 2024-04-23, from: David Rosenthal's blog
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0VMeig7L7HWfEiy-_W-76Z0bxqV2-sGRhND8TKQw6yL2-MDdVqA0AXNE1V2OTnlzGQunxzfoaiGHiAxtAUnWa6x8RmPH12G6cpgitApk-jTXWWUUj7MFkCIEE8CSmKAc6Wh8Y-_jzhAn06C4zCsgwWnwPQdPhxmxSqd5AA1f8ALXl2pCb2BhGF2StrIGE/s759/BitcoinATM-locations.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="565" data-original-width="759" height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0VMeig7L7HWfEiy-_W-76Z0bxqV2-sGRhND8TKQw6yL2-MDdVqA0AXNE1V2OTnlzGQunxzfoaiGHiAxtAUnWa6x8RmPH12G6cpgitApk-jTXWWUUj7MFkCIEE8CSmKAc6Wh8Y-_jzhAn06C4zCsgwWnwPQdPhxmxSqd5AA1f8ALXl2pCb2BhGF2StrIGE/w200-h149/BitcoinATM-locations.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.bloomberg.com/news/articles/2024-04-17/bitcoin-atms-flood-black-latino-areas-charging-fees-up-to-22">Source</a></td></tr></tbody></table>
+You may have seen a Bitcoin Teller Machine (BTM) and wondered who would use one and and why. I have, there is one in our local Safeway. Elijah Nicholson-Messmer and Ella Ceron look into BTMs in <a href="https://www.bloomberg.com/news/articles/2024-04-17/bitcoin-atms-flood-black-latino-areas-charging-fees-up-to-22"><i>Bitcoin ATMs Flood Black, Latino Areas, Charging Fees up to 22%</i></a>. The headline sums up the story well, but there is a rather interesting sting in the tail of their article.<br />
+<br />
+Follow me below the fold as I discuss the article and finally get to why the sting in the tail is interesting..<br />
+<span><a name='more'></a></span>
+<br />
+The article <a href="https://www.bloomberg.com/news/articles/2024-04-17/bitcoin-atms-flood-black-latino-areas-charging-fees-up-to-22">starts</a>:<br />
+<blockquote>
+The BTM industry surged during the pandemic: The number of installed units increased more than five-fold over four years to about 31,100 units nationwide, <a href="https://coinatmradar.com/country/226/bitcoin-atm-united-states/">according to</a> Coin ATM Radar. But a closer look into the BTM boom revealed that the machines are often disproportionately located in areas with a majority of Black and Latino residents, charging fees as high as 22% per transaction.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhyphenhyphenolkLbs32SfiP6TNF01JeKOGLVFUZ4gvx_hQVdW2GAB0FwXdoM24qzZbtNpJAYycCVzK3KwOXAmh4C4fCMjMk7MWZet_qkVs4VxSSQw685CIpBDXzNSBOlBex24in-3mtyVoCh2UzAxowFJe_GVncslSVcm91GvXKIVbkvK3QOh3LBg22qQc8H0t-A2A/s4160/BitcoinATM.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="4160" data-original-width="2080" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhyphenhyphenolkLbs32SfiP6TNF01JeKOGLVFUZ4gvx_hQVdW2GAB0FwXdoM24qzZbtNpJAYycCVzK3KwOXAmh4C4fCMjMk7MWZet_qkVs4VxSSQw685CIpBDXzNSBOlBex24in-3mtyVoCh2UzAxowFJe_GVncslSVcm91GvXKIVbkvK3QOh3LBg22qQc8H0t-A2A/w100-h200/BitcoinATM.jpg" width="100" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://commons.wikimedia.org/wiki/File:CoinFlip%C2%AE_Cryptocurrency_ATM_in_Peoria,_Illinois.jpg">Wrosenb2</a><br /><a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></td></tr></tbody></table>
+Bitcoin Depot, "the largest US operator with about 7,300 BTMs as of April 8", naturally denies the <a href="https://www.bloomberg.com/news/articles/2024-04-17/bitcoin-atms-flood-black-latino-areas-charging-fees-up-to-22">implication</a>:<br />
+<blockquote>
+A Bloomberg review of Bitcoin Depot locations and data from the Census Bureau shows that states with proportionally large Black and Latino populations tend to have more of the company’s BTMs, especially in southern states like Georgia and Texas. Bitcoin Depot President and Chief Executive Officer Brandon Mintz dismissed any suggestion that the company targeted areas with underrepresented groups in deciding where to place its machines.<br />
+<br />
+“Never in our history have we once targeted an area based on any sort of racial profile,” Mintz told Bloomberg News. “Our focus is targeting areas that have low competition and that have populations that can support a Bitcoin ATM profitably.”
+</blockquote>
+But clearly there is something different about <a href="https://www.bloomberg.com/news/articles/2024-04-17/bitcoin-atms-flood-black-latino-areas-charging-fees-up-to-22">the populations of these areas</a>:<br />
+<blockquote>
+In Alabama, the concentration of Black and Latino residents within a mile radius of Bitcoin Depot BTMs is 20 percentage points higher than the broader state average, per a Bloomberg analysis of location data and the 2022 American Consumer Survey. In Dallas, BTMs are consistently located in areas where the highest percentages of Black and Latino people live. 
+</blockquote>
+Among the mantras the crypto-bros never tire of repeating is that they are "banking the unbanked" and promoting <a href="https://www.bloomberg.com/news/articles/2024-04-17/bitcoin-atms-flood-black-latino-areas-charging-fees-up-to-22">"financial inclusion"</a>:<br />
+<blockquote>
+Proponents of cryptocurrency often tout the asset as a way to reach unbanked people, who lack a more traditional bank account. In the US, that comprised 6% of adults in 2022, per the Federal Reserve. Black and Hispanic people were more likely to be more unbanked than their White counterparts.
+</blockquote>
+The BTM operators are <a href="https://www.bloomberg.com/news/articles/2024-04-17/bitcoin-atms-flood-black-latino-areas-charging-fees-up-to-22">no exception</a>:<br />
+<blockquote>
+Bitcoin Depot, the largest US operator with about 7,300 BTMs as of April 8, charges some of the highest fees in the industry while touting <a href="https://coinatmradar.com/country/226/bitcoin-atm-united-states/">financial inclusion</a>, a concept that ensures that all customers, regardless of their socioeconomic standing, have access to such financial services as savings, credit and insurance. Over 80% of Bitcoin Depot’s customers earn less than $80,000 a year, according to <a href="https://d1io3yog0oux5.cloudfront.net/_f35c9984c4e67907bcfb05c59f7a314b/bitcoindepot/db/3583/33137/pdf/Bitcoin+Depot+Investor+Presentation_Q3-2023_120623+.pdf">a November 2023 investor presentation</a> from the company.
+</blockquote>
+I am a bit baffled as to how HODL-ing Bitcoin would provide "access to such financial services as savings, credit and insurance". I don't think Equifax and Trans-Union pay attention to your pseudonymous HODL-ings.  And there is the matter of the fees the BTM operators charge for <a href="https://www.bloomberg.com/news/articles/2024-04-17/bitcoin-atms-flood-black-latino-areas-charging-fees-up-to-22">providing this access</a>:<br />
+<blockquote>
+Mintz, the Bitcoin Depot CEO, said the percentage of a transaction the Atlanta-based company retains as its fees is typically in the “low twenties,” but would not provide a bottom or top boundary. “Nothing’s definitive, it just depends on the market and what we need to do to cover our expenses,” Mintz said.   The company also charges a flat $3 fee on every transaction<br />
+...<br />
+CoinFlip and Bitstop, Bitcoin Depot’s main rivals, charge transaction fees as high as 22%, depending on the location, according to company representatives and customer service agents. CoinFlip also charges a “network fee” of $2.49 on every transaction. 
+</blockquote>
+How do the BTMs end up in <a href="https://www.bloomberg.com/news/articles/2024-04-17/bitcoin-atms-flood-black-latino-areas-charging-fees-up-to-22">locations near people lacking "financial inclusion"</a>?<br />
+<blockquote>
+One restaurant owner in Essex, Maryland, who declined to give his name, said Bitcoin Depot paid $145 a month for the kiosk that was installed a month ago. Another store owner in New Jersey, who identified himself only as Jai, said his store received $200 a month for the kiosk, also operated by Bitcoin Depot.
+</blockquote>
+$145/month at 22% would be the fees on $660/month in transactions, and $200/month would be the fees on $909/month, which puts a floor on the business these BTMs do. It is likely much higher.<br />
+<br />
+With all that as background, now for the <a href="https://www.bloomberg.com/news/articles/2024-04-17/bitcoin-atms-flood-black-latino-areas-charging-fees-up-to-22">sting in the tail</a>:<br />
+<blockquote>
+The majority of BTMs — 92% of machines in the US, as indexed by Coin ATM Radar — don’t allow users to sell their crypto in exchange for cash.
+</blockquote>
+These machines are the Roach Motels of banking, your cash can check in but it can't check out.
+The question in my mind is:<br />
+<blockquote>
+What kind of customer needs to pay 22% plus $3 for "access to ... financial services" which <i>won't let you cash out</i>?
+</blockquote>
+Clearly, someone who cannot use conventional banks which, even if they do charge fees, will let you take money out. Two kinds of customers come immediately to mind:<br />
+<ul>
+<li><b>Criminals</b>, who are willing to pay high fees to launder their ill-gotten cash into Bitcoin, which they will then convert into Tether at some exchange.</li>
+<li><b>Victims</b> of crimes such as <a href="https://blog.dshr.org/2024/03/more-on-pig-butchering.html">pig-butchering</a>, where the perpetrators require payment in Bitcoin.</li>
+</ul> 
+
+<https://blog.dshr.org/2024/04/the-roach-motel-of-banking.html>
+
+---
+
+##  Sharks: &#8220;the scary triangles of the sea&#8221;. (What are the scary triangles... 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044460-sharks-the-scary-triangle>
+
+---
+
+##  What Are you Starting Right Now? 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/what-are-you-starting-right-now>
+
+---
+
+##  Why earthquakes on the East Coast are felt farther away than ones... 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044441-why-earthquakes-on-the-ea>
+
+---
+
+## The Radiant Future! (Of 1995)
+
+date: 2024-04-23, updated: 2024-04-23, from: Charlie's Diary
+
+The AI hype in the media obscures the fact that we're clearly in another goddamn venture capital bubble right now. As the Wall Street Journal said earlier this month (article is paywalled), "... In a presentation earlier this month, the... 
+
+<http://www.antipope.org/charlie/blog-static/2024/04/the-radiant-future-of-1995.html>
+
+---
+
+## Microsoft and Security Incentives
+
+date: 2024-04-23, updated: 2024-04-23, from: Bruce Schneier blog
+
+<p>Former senior White House cyber policy director A. J. Grotto <a href="https://www.theregister.com/AMP/2024/04/21/microsoft_national_security_risk/">talks about the economic incentives</a> for companies to improve their security&#8212;in particular, Microsoft:</p>
+<blockquote><p>Grotto told us Microsoft had to be &#8220;dragged kicking and screaming&#8221; to provide logging capabilities to the government by default, and given the fact the mega-corp banked around $20 billion in revenue from security services last year, the concession was minimal at best.</p>
+<p>[&#8230;]</p>
+<p>&#8220;The government needs to focus on encouraging and catalyzing competition,&#8221; Grotto said. He believes it also needs to publicly scrutinize Microsoft and make sure everyone knows when it messes up...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/04/microsoft-and-security-incentives.html>
+
+---
+
+## 2024-04-22 Gopher, again
+
+date: 2024-04-23, from: Alex Schroeder's Blog
+
+<h1 id="2024-04-22-gopher-again">2024-04-22 Gopher, again</h1>
+
+<p>Having found a separate server, written in Go, monitored by systemd, to be the superior solution for double hosting my site for Gemini, I kept thinking about Gopher. With <a href="Odd%C2%B5">Oddµ</a> using a version of Markdown that is very close to the standard, and having found a library that I understand, more or less, which I had successfully grafted onto <a href="https://sr.ht/~gsthnz/satellite/">Satellite</a>, the Gemini server I’m using, based on renderer code I found in the <a href="https://github.com/tdemin/gmnhg">Hugo-to-Gemini converter</a> that used the same Markdown parsing library I was using for Oddµ, I figured that I might use the same library to turn Markdown into suitable Gopher pages.</p>
+
+<p>It took some wrangling and it’s probably not great, but the main menu matches my front page and the blog posts look mostly OK, and so the site is back as a gopher hole on port 70!</p>
+
+<p>See <a href="https://src.alexschroeder.ch/markdown-gopher.git">Markdown Gopher</a> for the Gopher server code.</p>
+
+<p>See my <a href="https://src.alexschroeder.ch/satellite.git">patched Satellite</a> for the Gemini server code, <a href="2023-11-03-other-ports">discussed back in 2023</a>.</p>
+
+<p>And naturally I’m immediately annoyed by the lack of UTF-8 support in this client I’m using.</p>
+
+<p><a class="tag" href="/search/?q=%23Gopher">#Gopher</a></p> 
+
+<https://alexschroeder.ch/view/2024-04-22-gopher>
+
+---
+
+## The most important thing I teach my students
+
+date: 2024-04-23, from: Robert Reich's blog
+
+And why Columbia&#8217;s faculty should issue a vote of no confidence in its president, Nemat Shafik 
+
+<https://robertreich.substack.com/p/the-most-important-thing-i-teach>
+
+---
+
+## “Webbing” the IndieWeb
+
+date: 2024-04-23, from: Tracy Durnell Blog
+
+Human Protocols by Chris In summary, the IndieWeb will thrive because of the human protocols we develop by using it. We don’t need a central standards body to define those protocols. Instead, we will refine them through continuous conversations with ourselves. Let&#8217;s keep talking about it 👏 I think the next phase of the IndieWeb [&#8230;] 
+
+<https://tracydurnell.com/2024/04/22/webbing-the-indieweb/>
+
+---
+
+## Desk changes
+
+date: 2024-04-23, from: Jirka's blog
+
+I have decided  to re-organise my desk.For  a few years (~5)  I had one shared keyboard for  "all" my machines but  two LCDs - one  for most of systems and one just for the SGI O2 (the O2 works best with the special SGI 1600SW screen - a special  17" 1600x1024 device with a non-standard connector). 
+
+<http://jirka.1-2-8.net/20240423-0440_Desk_changes>
+
+---
+
+## Sometimes a camera is not just a camera!
+
+date: 2024-04-22, from: Om Malik blog
+
+Over a year ago, Opal Camera CEO Veeraj Chugh and his co-founder, Stefan Sohlstrom, convinced me to replace my trusted Logitech Streamcam with their new sleek device, Opal&#160;C1. The Opal C1 is&#160;a beautifully designed (temporarily disabled) 4k&#160;webcam&#160;that was better than what others had to offer.&#160;Opal&#160;also sells another cute and&#160;well-designed&#160;webcam called&#160;Tadpole, primarily&#160;for Windows Laptop&#160;users.&#160; Every startup &#8230; 
+
+<https://om.co/2024/04/22/sometimes-a-camera-is-not-just-a-camera/>
 
 ---
 
@@ -26,28 +273,6 @@ date: 2024-04-22, updated: 2024-04-22, from: Jason Kittke's blog
  
 
 <https://kottke.org/24/04/denis-villeneuves-four-favorite-films>
-
----
-
-## 2024-04-22 Gopher, again
-
-date: 2024-04-22, from: Alex Schroeder's Blog
-
-<h1 id="2024-04-22-gopher-again">2024-04-22 Gopher, again</h1>
-
-<p>Having found a separate server, written in Go, monitored by systemd, to be the superior solution for double hosting my site for Gemini, I kept thinking about Gopher. With <a href="Oddmu">Oddmu</a> using a version of Markdown that is very close to the standard, and having found a library that I understand, more or less, which I had successfully grafted onto the Gemini server I’m using, I figured that I might use the same library to turn Markdown into suitable Gopher pages again.</p>
-
-<p>It took some wrangling and it’s probably not great, but the main menu matches my front page and the blog posts look mostly OK, and so the site is back as a gopher hole on port 70!</p>
-
-<p>See <a href="https://src.alexschroeder.ch/markdown-gopher.git">Markdown Gopher</a> for the Gopher server code.</p>
-
-<p>See my <a href="https://src.alexschroeder.ch/satellite.git">patched Satellite</a> for the Gemini server code, <a href="2023-11-03-other-ports">discussed back in 2023</a>.</p>
-
-<p>And naturally I’m immediately annoyed by the lack of UTF-8 support in this client I’m using.</p>
-
-<p><a class="tag" href="/search/?q=%23Gopher">#Gopher</a></p> 
-
-<https://alexschroeder.ch/view/2024-04-22-gopher>
 
 ---
 

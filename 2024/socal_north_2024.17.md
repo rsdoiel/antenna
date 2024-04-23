@@ -1,11 +1,281 @@
 ---
 title: socal north 2024.17
-updated: 2024-04-22 15:39:56
+updated: 2024-04-23 09:49:41
 ---
 
 # socal north 2024.17
 
-(date: 2024-04-22 15:39:56)
+(date: 2024-04-23 09:49:41)
+
+---
+
+## Study Apps for Students
+
+date: 2024-04-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/04/23/study-apps-for-students/>
+
+---
+
+## Editorial Cartoon: “Heat Fighter:
+
+date: 2024-04-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<https://dailybruin.com/2024/04/23/editorial-cartoon-heat-fighter/>
+
+---
+
+## Sun sets on Indio’s music-lover mecca
+
+date: 2024-04-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Coachella Valley Music and Arts Festival was a sun-soaked feast for the senses.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/23/sun-sets-on-indios-music-lover-mecca/">Sun sets on Indio’s music-lover mecca</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/23/sun-sets-on-indios-music-lover-mecca/>
+
+---
+
+## Classifieds – April 23, 2024
+
+date: 2024-04-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/23/classifieds-april-23-2024/">Classifieds &#8211; April 23, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/23/classifieds-april-23-2024/>
+
+---
+
+## I’ve become more Indian after moving abroad
+
+date: 2024-04-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>International students need to make active efforts to embrace their roots at college.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/23/ive-become-more-indian-after-moving-abroad/">I’ve become more Indian after moving abroad</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/23/ive-become-more-indian-after-moving-abroad/>
+
+---
+
+## ‘Unbearable Hotness’ brings work and fun together in harmony
+
+date: 2024-04-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The short yet entertaining student play manages to be hilarious and charismatic. </p>
+<p>The post <a href="https://dailytrojan.com/2024/04/23/unbearable-hotness-brings-work-and-fun-together-in-harmony/">‘Unbearable Hotness’ brings work and fun together in harmony</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/23/unbearable-hotness-brings-work-and-fun-together-in-harmony/>
+
+---
+
+## B1G spring game officially sends USC to a new conference
+
+date: 2024-04-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans donned the Pac-12 logo for the last time at the summer-starting matchup.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/23/b1g-spring-game-officially-sends-usc-to-a-new-conference/">B1G spring game officially sends USC to a new conference</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/23/b1g-spring-game-officially-sends-usc-to-a-new-conference/>
+
+---
+
+## Find solace in the words of women
+
+date: 2024-04-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Sylvia Plath’s “Fig Tree” reflects the universal beauty of feminist literature.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/23/find-solace-in-the-words-of-women/">Find solace in the words of women</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/23/find-solace-in-the-words-of-women/>
+
+---
+
+## Turner Classic Movies celebrates 30 years with annual film festival
+
+date: 2024-04-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>TCM engaged fans with iconic films over four days of screenings in Hollywood.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/23/turner-classic-movies-celebrates-30-years-in-annual-film-festival/">Turner Classic Movies celebrates 30 years with annual film festival</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/23/turner-classic-movies-celebrates-30-years-in-annual-film-festival/>
+
+---
+
+## Get to know Gould’s new dean
+
+date: 2024-04-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Franita Tolson has been with the Gould School of Law for the last five years.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/23/get-to-know-goulds-new-dean/">Get to know Gould’s new dean</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/23/get-to-know-goulds-new-dean/>
+
+---
+
+## Women’s tennis pursues Pac-12 title
+
+date: 2024-04-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>After losing to the Bruins, the Trojans will battle for a shot at the Pac-12 crown. </p>
+<p>The post <a href="https://dailytrojan.com/2024/04/23/womens-tennis-pursues-pac-12-title/">Women’s tennis pursues Pac-12 title</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/23/womens-tennis-pursues-pac-12-title/>
+
+---
+
+## Students discuss end of Khan Academy LSAT prep
+
+date: 2024-04-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Khan Academy and the Law School Admission Council will end their partnership. </p>
+<p>The post <a href="https://dailytrojan.com/2024/04/23/students-discuss-end-of-khan-academy-lsat-prep/">Students discuss end of Khan Academy LSAT prep</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/23/students-discuss-end-of-khan-academy-lsat-prep/>
+
+---
+
+## “Forever chemicals” reported in study spark concern for the incarcerated
+
+date: 2024-04-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+A paper co-written by a UCLA professor revealed high potential exposure rates of dangerous chemicals in United States prison water.
+A study published in May 2024’s edition of the American Journal of Public Health found that 47% of carceral institutions were located in a watershed boundary that is in the same boundary and a lower elevation level than a site with per- and polyfluoroalkyl substances, said Lindsay Poirier, a co-author of the paper and an assistant professor of statistical and data sciences at Smith College. 
+
+<https://dailybruin.com/2024/04/22/forever-chemicals-reported-in-study-spark-concern-for-the-incarcerated/>
+
+---
+
+## Brahmas say goodbye to two sophomore players in final home game
+
+date: 2024-04-23, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The Pierce College softball team took an 8-0 loss against Moorpark College after battling against their pitcher at the start of the game. The Brahmas</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/22/brahmas-say-goodbye-to-two-sophomore-players-in-final-home-game/">Brahmas say goodbye to two sophomore players in final home game</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/22/brahmas-say-goodbye-to-two-sophomore-players-in-final-home-game/?utm_source=rss&utm_medium=rss&utm_campaign=brahmas-say-goodbye-to-two-sophomore-players-in-final-home-game>
+
+---
+
+## LMU community expresses mixed response to senate vote on divestment legislation
+
+date: 2024-04-23, from: Laloyolan (LMU Student Newspaper)
+
+ASLMU’s Instagram posted a clarification regarding the divestment resolution and bylaw on Thursday, April 18, leaving students both in favor and against the legislation unsatisfied with ASLMU's handling of the incorrect announcement. 
+
+<https://www.laloyolan.com/news/lmu-community-expresses-mixed-response-to-senate-vote-on-divestment-legislation/article_5277cffc-012c-11ef-aad9-e346c257b84e.html>
+
+---
+
+## FAFSA delays leave students unsure of their financial aid status
+
+date: 2024-04-23, from: Laloyolan (LMU Student Newspaper)
+
+A new FAFSA form for the 2024-25 academic year encountered glitches and caused multiple delays, leaving LMU students in limbo as they await their financial aid package approval. 
+
+<https://www.laloyolan.com/news/fafsa-delays-leave-students-unsure-of-their-financial-aid-status/article_ec409a3e-0121-11ef-84c4-c30162cb7d72.html>
+
+---
+
+## Non-tenure track faculty and supporters hold march to deliver petitions to President's office
+
+date: 2024-04-23, from: Laloyolan (LMU Student Newspaper)
+
+In their first public demonstration, non-tenure track faculty and supporters of their unionization efforts marched from Alumni Mall to the Office of the President in University Hall. 
+
+<https://www.laloyolan.com/news/non-tenure-track-faculty-and-supporters-hold-march-to-deliver-petitions-to-presidents-office/article_058c9a3e-0126-11ef-8c6a-7f4035aafbbc.html>
+
+---
+
+## Mobilizing for Mobility educates attendees on transportation policy, advocacy
+
+date: 2024-04-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+Public transit supporters discussed advocacy strategies at last Thursday&#8217;s Mobilizing for Mobility event.
+Co-hosted by Move LA and the Undergraduate Students Association Council Facilities Commission&#8217;s Transportation Equity and Access Committee, the event focused on universal basic mobility initiatives, transit advocacy and transportation solutions. 
+
+<https://dailybruin.com/2024/04/22/mobilizing-for-mobility-educates-attendees-on-transportation-policy-advocacy/>
+
+---
+
+## Bruin to Bruin: Eric Deeds
+
+date: 2024-04-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+Listen to professor, researcher and Vice Chair of the UCLA Life Sciences Core Education Department Dr. Eric Deeds discuss his career and time at UCLA with Podcasts contributor Megan Vahdat. 
+
+<https://dailybruin.com/2024/04/22/bruin-to-bruin-eric-deeds/>
+
+---
+
+## LA Times Festival of Books 2024: Day 2 showcases hidden histories, fantasy fiction
+
+date: 2024-04-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+Book aficionados gathered for a weekend of literary immersion.
+Reading enthusiasts crowded the University of Southern California on Sunday for the annual LA Times Festival of Books. 
+
+<https://dailybruin.com/2024/04/22/la-times-festival-of-books-2024-day-2-showcases-hidden-histories-fantasy-fiction/>
+
+---
+
+## Taylor Tinsley powers UCLA softball’s weekend sweep over Stanford
+
+date: 2024-04-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+Last year, NiJaree Canady&#8217;s debut against UCLA spurred a battle of the pitchers.
+But during the Bruins&#8217; weekend trip north, the circle was assumed by a new ace. 
+
+<https://dailybruin.com/2024/04/22/taylor-tinsley-powers-ucla-softballs-weekend-sweep-over-stanford/>
+
+---
+
+## UCLA football shines bright at fan-filled Friday Night Lights showcase
+
+date: 2024-04-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+The voice of UCLA football defensive analyst  Shea Pitts &#8211; amplified by a microphone &#8211; echoed about a brimming Wasserman Football Center.
+Coach DeShaun Foster and the Bruins&#8217; Friday Night Lights practice &#8211; a showcase to conclude week three of spring camp &#8211; brought in hundreds of recruits, donors and fans alike. 
+
+<https://dailybruin.com/2024/04/22/ucla-football-shines-bright-at-fan-filled-friday-night-lights-showcase/>
+
+---
+
+## BREAKING: John Legend and Janelle Monáe announced to speak at LMU commencements
+
+date: 2024-04-23, from: Laloyolan (LMU Student Newspaper)
+
+EGOT-winning singer-songwriter and previous First Amendment Week speaker John Legend will address the class of 2024 on May 4, and Grammy-nominated artist Janelle Monáe will speak at the graduate commencement on May 5. 
+
+<https://www.laloyolan.com/news/breaking-john-legend-and-janelle-mon-e-announced-to-speak-at-lmu-commencements/article_c04a405a-0104-11ef-a74d-27a85f8c57bd.html>
+
+---
+
+## Back-to-back sweeps over Utah, UCSD extend UCLA men’s tennis winning streak
+
+date: 2024-04-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+Billy Martin&#8217;s squad was fueled by the pursuit of vengeance.
+&#8220;You talk about revenge as a powerful motivator,&#8221; the coach said. &#8220;I think it was for our match on Friday.&#8221;
+
+The Bruins had a shot to exact retribution against the Utes. 
+
+<https://dailybruin.com/2024/04/22/back-to-back-sweeps-over-utah-ucsd-extend-ucla-mens-tennis-winning-streak/>
 
 ---
 
@@ -84,7 +354,7 @@ date: 2024-04-22, from: The Daily Bruin (UCLA Student Newspaper)
 
 ## Your Guide To Following California’s 'Compost' Law
 
-date: 2024-04-22, updated: 2024-04-22, from: The LAist
+date: 2024-04-22, updated: 2024-04-23, from: The LAist
 
 We’re two years into a state law that requires us to keep food waste out of the trash. It’s anything but straightforward, but here is how to do it right. 
 

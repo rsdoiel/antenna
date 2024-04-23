@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.17
-updated: 2024-04-22 15:39:57
+updated: 2024-04-23 09:49:41
 ---
 
 # libraries 2024.17
 
-(date: 2024-04-22 15:39:57)
+(date: 2024-04-23 09:49:41)
+
+---
+
+## Guest Post: The Future of Image Integrity in Scientific Research
+
+date: 2024-04-23, from: Scholarly Kitchen
+
+<p>As high profile cases about image integrity problems in scientific papers become more frequent, the community must consider how to overcome the issues with the manual image review process and the benefits of AI in rapidly detecting, and potentially preventing, these issues.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/04/23/guest-post-the-future-of-image-integrity-in-scientific-research/">Guest Post: The Future of Image Integrity in Scientific Research</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/04/23/guest-post-the-future-of-image-integrity-in-scientific-research/>
 
 ---
 

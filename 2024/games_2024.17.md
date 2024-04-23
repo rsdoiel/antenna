@@ -1,11 +1,111 @@
 ---
 title: games 2024.17
-updated: 2024-04-22 15:39:57
+updated: 2024-04-23 09:49:41
 ---
 
 # games 2024.17
 
-(date: 2024-04-22 15:39:57)
+(date: 2024-04-23 09:49:41)
+
+---
+
+## Snufkin: Melody of Moominvalley highlights Moomin’s anti-authoritarian streak
+
+date: 2024-04-23, updated: 2024-04-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24137675/snufkin-melody-of-moominvalley-review-nintendo-switch-pc>
+
+---
+
+## How to find Wiglett in Pokémon Go
+
+date: 2024-04-23, updated: 2024-04-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24138204/wiglett-beach-biome-how-to-find>
+
+---
+
+## Shōgun’s stunt coordinator on the show’s ‘no bullshit’ approach to action
+
+date: 2024-04-23, updated: 2024-04-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24137203/shogun-action-sword-fights-stunt-coordinator-interview-approach>
+
+---
+
+## Ninjon shares what it took to win his first Golden Demon trophy at AdeptiCon 2024
+
+date: 2024-04-23, updated: 2024-04-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24134925/jon-ninjon-ninas-golden-demon-adepticon-2024-interview>
+
+---
+
+## The cursed Vault Boy drawing Fallout creators would like to forget, but fans never will
+
+date: 2024-04-23, updated: 2024-04-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24133363/fallout-vault-boy-child-killer-reputation-perk>
+
+---
+
+## Why Nintendo wouldn’t let Samus be in Fortnite
+
+date: 2024-04-23, updated: 2024-04-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24138083/samus-fortnite-skin-nintendo-refused>
+
+---
+
+## Polygon investigates: How much of Elden Ring did George R.R. Martin write?
+
+date: 2024-04-23, updated: 2024-04-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24135223/elden-ring-did-george-r-r-martin-write-shadow-of-the-erdtree-dlc>
+
+---
+
+## Star Wars Jedi: Survivor is a late addition to April’s Game Pass lineup
+
+date: 2024-04-23, updated: 2024-04-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24131925/xbox-game-pass-april-lineup-ea-sports-nhl-24-manor-lords>
+
+---
+
+## Pokémon Go ‘Rediscover Kanto’ Special Research quest steps, rewards
+
+date: 2024-04-23, updated: 2024-04-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24138021/rediscover-kanto-special-research-quest-steps-rewards>
+
+---
+
+## Can Trubbish be shiny in Pokémon Go?
+
+date: 2024-04-23, updated: 2024-04-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24137180/can-trubbish-be-shiny-garbodor>
 
 ---
 

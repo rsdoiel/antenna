@@ -1,11 +1,53 @@
 ---
 title: mid central 2024.17
-updated: 2024-04-22 15:39:56
+updated: 2024-04-23 09:49:41
 ---
 
 # mid central 2024.17
 
-(date: 2024-04-22 15:39:56)
+(date: 2024-04-23 09:49:41)
+
+---
+
+## Power Tips #128: Designing a high voltage DC-link capacitor active precharge circuit
+
+date: 2024-04-23, from: EDN Blog
+
+<img width="1358" height="697" src="https://www.edn.com/wp-content/uploads/PowerTips128_Figure1.png?fit=1358%2C697" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/PowerTips128_Figure1.png?w=1358 1358w, https://www.edn.com/wp-content/uploads/PowerTips128_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/PowerTips128_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/PowerTips128_Figure1.png?w=1024 1024w" sizes="(max-width: 1358px) 100vw, 1358px" /><p>A straightforward approach to designing an efficient, active pre-charge circuit using a spreadsheet calculator.</p>
+<p>The post <a href="https://www.edn.com/power-tips-128-designing-a-high-voltage-dc-link-capacitor-active-precharge-circuit/" data-wpel-link="internal">Power Tips #128: Designing a high voltage DC-link capacitor active precharge circuit</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/power-tips-128-designing-a-high-voltage-dc-link-capacitor-active-precharge-circuit/>
+
+---
+
+## Photo essay: Anime Gaming Con takes over Fresno State’s 50th annual Vintage Days
+
+date: 2024-04-23, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Anime Gaming Con at Fresno State&#8217;s 50th Vintage Days took over the Resnick Student Union, filling the building with game and anime lovers from April 19-21. The event allowed attendees to escape the heat while enjoying popular games and goodies. 
+
+<https://fscollegian.com/2024/04/photo-essay-anime-gaming-con-takes-over-fresno-states-50th-annual-vintage-days/>
+
+---
+
+## Video: Codiciado discute su gira “Ando Enfocado Tour” y show en Fresno
+
+date: 2024-04-23, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Erick Aragón habla con el Collegian sobre su gira &#8220;Ando Enfocado Tour&#8221; en los Estados Unidos. Parara en Fresno el 4 de mayo en el Save Mart Center. 
+
+<https://fscollegian.com/2024/04/video-codiciado-discute-su-gira-ando-enfocado-tour-y-show-en-fresno/>
+
+---
+
+## Artista regional Mexicano Codiciado se prepara para gira en los Estados Unidos
+
+date: 2024-04-23, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+La música regional mexicana es un género que ha crecido mucho durante los últimos años. Ha tomado por tormenta en las listas musicales mundiales, especialmente en los Estados Unidos. Uno de esos artistas es Erick Aragón, más conocido por su nombre musical Codiciado. Aragón empezó su carrera como la fuerza detrás del exitoso grupo Grupo... 
+
+<https://fscollegian.com/2024/04/artista-regional-mexicano-codiciado-se-prepara-para-gira-en-los-estados-unidos/>
 
 ---
 
@@ -23,7 +65,7 @@ Entering its weekend series against San Jose State, Fresno State’s baseball te
 
 date: 2024-04-22, from: EDN Blog
 
-<img width="604" height="346" src="https://www.edn.com/wp-content/uploads/Fig-1-Palladium-Cadence.jpg?fit=604%2C346" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-Palladium-Cadence.jpg?w=604 604w, https://www.edn.com/wp-content/uploads/Fig-1-Palladium-Cadence.jpg?w=300 300w" sizes="(max-width: 604px) 100vw, 604px" /><p>Palladium Z3 and Protium X3 deliver fast pre-silicon verification and validation of the large, complex chip designs.</p>
+<img width="604" height="346" src="https://www.edn.com/wp-content/uploads/Fig-1-Palladium-Cadence.jpg?fit=604%2C346" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-1-Palladium-Cadence.jpg?w=604 604w, https://www.edn.com/wp-content/uploads/Fig-1-Palladium-Cadence.jpg?w=300 300w" sizes="(max-width: 604px) 100vw, 604px" /><p>Palladium Z3 and Protium X3 deliver fast pre-silicon verification and validation of the large, complex chip designs.</p>
 <p>The post <a href="https://www.edn.com/palladium-emulation-nvidias-jensen-huang-is-a-fan/" data-wpel-link="internal">Palladium emulation: Nvidia’s Jensen Huang is a fan</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
@@ -53,7 +95,7 @@ Anime Gaming Con at Fresno State’s Vintage Days is giving people a chance to e
 
 ---
 
-## McLane High school students show the behind the scenes at Vintage Days
+## Video: McLane High school students show the behind the scenes at Vintage Days
 
 date: 2024-04-22, from: The Collegian (Cal State Fresno's Student Newspaper)
 

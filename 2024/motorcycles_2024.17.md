@@ -1,11 +1,131 @@
 ---
 title: motorcycles 2024.17
-updated: 2024-04-22 15:39:57
+updated: 2024-04-23 09:49:41
 ---
 
 # motorcycles 2024.17
 
-(date: 2024-04-22 15:39:57)
+(date: 2024-04-23 09:49:41)
+
+---
+
+## A Tesla Driver Using Autopilot Killed a Motorcyclist
+
+date: 2024-04-23, from: Ride Apart, Electric Motorcycle News
+
+Autopilot still needs you to have your eyes on the road.  
+
+<https://www.rideapart.com/news/717171/tesla-autopilot-kill-motorcyclist/>
+
+---
+
+## This Is the Best Demonstration of Why Half Helmets Suck and It's In Japanese
+
+date: 2024-04-23, from: Ride Apart, Electric Motorcycle News
+
+No translation needed.  
+
+<https://www.rideapart.com/news/717160/half-helmet-lacking-safety-japanese-video/>
+
+---
+
+## KTM's Updated XC And XC-F Dirt Bikes Give You Pro-Level Race Tech
+
+date: 2024-04-23, from: Ride Apart, Electric Motorcycle News
+
+Will an improved chassis and upgraded tech make these bikes the ultimate cross country racers?  
+
+<https://www.rideapart.com/news/717041/2025-ktm-xc-xcf-unveiled-dirt-bike/>
+
+---
+
+## This Polaris Build Says "#Vanlife But Make It Off-Road"
+
+date: 2024-04-23, from: Ride Apart, Electric Motorcycle News
+
+A different kind of overlanding for a different kind of adventurer. 
+
+<https://www.rideapart.com/news/717034/polaris-xpedition-vanlife-custom-build/>
+
+---
+
+## This All Electric Jet Ski Can Charge To Full in Just An Hour
+
+date: 2024-04-23, from: Ride Apart, Electric Motorcycle News
+
+Silent hysterics with an EV jet ski? Sign us up.  
+
+<https://www.rideapart.com/news/717021/all-electric-jet-ski-viva/>
+
+---
+
+## Keep The Rain Off You With This Weird Motorcycle Rain Hood
+
+date: 2024-04-23, from: Ride Apart, Electric Motorcycle News
+
+The worst part about riding in the rain is getting wet. Would you ride with a device like this to stop it? 
+
+<https://www.rideapart.com/news/717003/rain-riding-sepal-shield-india/>
+
+---
+
+## Daniel Suarez Embracing Role Model Status as International NASCAR Start Leader
+
+date: 2024-04-23, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor A career milestone in NASCAR can come in many forms, typically a first win, the first pole position, or a driver’s 100th career start. For&#8230;  
+
+<https://kickinthetires.net/nascar/suarez-embracing-international-leader/>
+
+---
+
+## RevZilla Puts Babies on Motorcycles and It Probably Isn't a Good Idea
+
+date: 2024-04-23, from: Ride Apart, Electric Motorcycle News
+
+It probably won't win you Dad of the Year from the NHTSA.  
+
+<https://www.rideapart.com/news/717004/revzilla-babies-motorcycles-test-video/>
+
+---
+
+## WorldSBK's Spinelli Subs For an Injured Petrucci At Assen Track
+
+date: 2024-04-23, from: Ride Apart, Electric Motorcycle News
+
+Petrux continues to give us updates on his recovery.  
+
+<https://www.rideapart.com/news/716879/wsbk-spinelli-substitute-injured-petrucci/>
+
+---
+
+## Quad Lock Has New Mounts For Cruiser Motorcycles With Thick Bars
+
+date: 2024-04-23, from: Ride Apart, Electric Motorcycle News
+
+You can have it in either black or chrome to suit your steed’s styling.  
+
+<https://www.rideapart.com/news/716881/quad-lock-chrome-large-mounts/>
+
+---
+
+## Absent Scoring Pylons Shed Light on NASCAR’s Fundamentals
+
+date: 2024-04-23, from: Kickin the Tires blog
+
+TALLADEGA, Ala. – For the second consecutive race weekend, NASCAR industry workers and racing fans came to the surprise of yet another scoring pylon in absence at Talladega Superspeedway. Last&#8230;  
+
+<https://kickinthetires.net/nascar/absent-scoring-pylons-shed-light-on-nascars-fundamentals/>
+
+---
+
+## Super73 Has New Special Editions E-Bikes Built For Every Rider
+
+date: 2024-04-22, from: Ride Apart, Electric Motorcycle News
+
+A perfect beach cruiser or commuter with style.  
+
+<https://www.rideapart.com/news/716972/super73-2024-lineup-special-editions-e-bikes/>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: tech likely 2024.17
-updated: 2024-04-22 15:39:56
+updated: 2024-04-23 09:49:41
 ---
 
 # tech likely 2024.17
 
-(date: 2024-04-22 15:39:56)
+(date: 2024-04-23 09:49:41)
 
 ---
 
@@ -71,6 +71,269 @@ other platforms and languages are left as an exercise to the reader).</p>
 
 ---
 
+##  Mountain Bike Advice? 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/mountain-bike-advice>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
+
+I don't have time to write about it but the end of last night's Knicks game was one of the most dramatic bits of NY sports ever. I would like to <a href="https://www.reddit.com/r/nba/comments/dern8c/kevin_durant_explains_why_free_agents_wont_join/">thank Kevin Durant</a> for saying the Knicks weren't cool. It's somewhat like the <a href="https://en.wikipedia.org/wiki/Streisand_effect">Streisand Effect</a> where the thing KD was trying to hide was that <i>he</i> was no longer cool. Classic case of projection. I'd love to hear what he says now. Obviously he was not the hot shit he thought he was in 2019. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/04/23.html#a161806>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2021/06/26/baseballScene.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I have big ideas for the blogging world. I'd like to combine AI and search to make a really great search engine for bloggers. We would contribute what we know (we already do) and in return, along with everyone else, get to benefit from the collection. And when we browse, it knows which blog we write. So it has a very good idea of what we mean when we ask a question and what we already know. This is totally missing in ChatGPT and is something Google and other search engines have never been willing to do (or even understood, I guess). But this is a huge idea. I'd like to give it <a href="https://feedland.social/opml?screenname=davewiner&catname=blogroll">my blogroll</a> too, so it knows which sources I consider credible. I love that it creates an incentive to post to your blog, and it makes <a href="http://scripting.com/2024/04/16/140810.html?title=workingTogether">working together</a> automatic. 
+
+<http://scripting.com/2024/04/23.html#a161338>
+
+---
+
+##  Scientists have repurposed a 50-year-old drug to revolutionize bone marrow transplants. &#8220;Today,... 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044463-scientists-have-repurpose>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
+
+<a href="https://www.google.com/search?q=site%3Ascripting.com+ez+pass+for+news">EZ Pass for News</a> is formula for functional relationships between local news pubs and people in far away places (ie not their locality) who may from time to time want to read an article or a series of articles on their site, and pay per-issue instead of buying a subscription. 
+
+<http://scripting.com/2024/04/23.html#a161153>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
+
+<a href="https://twitter.com/davewiner/status/1782577146679976202">John Palfrey</a> as the mover behind <a href="https://www.macfound.org/press/article/press-forward-a-national-initiative-to-support-the-revitalization-of-local-news">Press Forward</a> will bring the <a href="http://scripting.com/2024/04/22.html#a132020">gospel</a> of EZ Pass for News on his "ongoing whistle-stop tour" of local news orgs. JP was my boss/rabbi when I was at Berkman, and is why we got so much done there. He ran air cover for what we did, the BloggerCons, giving RSS a home, podcasting, blogs for everyone, the people and democracy. Now he's doing it for the local news business. 
+
+<http://scripting.com/2024/04/23.html#a160607>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
+
+The "largest open publishing network in the world" is the web. Ghost <a href="https://activitypub.ghost.org/">says</a> it's ActivityPub. Think bigger. 
+
+<http://scripting.com/2024/04/23.html#a160340>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
+
+I was chatting with a friend who went to <a href="https://en.wikipedia.org/wiki/Bronx_High_School_of_Science">Bronx Science</a>, as I did, and we were talking about Isaac Asimov, and I said I thought he went to Science too. So I fired up ChatGPT and asked if Asimov went to Science, and <a href="https://chat.openai.com/share/81199c5a-ca0a-4a2c-b610-e0799722a03f">it said yes</a>. Then I asked where he went to high school and it said Bronx Science. But by then I was pretty sure he didn't, so I went to Google and meta.ai, and neither knew where he went to high school. So I asked on Twitter, Mastodon, <a href="https://mastodon.social/@davew/112321321415008740">Blue Sky</a> and Threads. Not sure why I even care! Oh well. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/04/23.html#a155601>
+
+---
+
+##  Happy to announce that thanks to folks buying The Process Tee, we&#8217;ve... 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044464-happy-to-announce-that-th>
+
+---
+
+##  Sharks: &#8220;the scary triangles of the sea&#8221;. (What are the scary triangles... 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044460-sharks-the-scary-triangle>
+
+---
+
+## Your page can’t change media features
+
+date: 2024-04-23, from: Kilian Valkhof's blog
+
+<p>Yesterday on Mastodon we had a short discussion about the (terribly named) overflow media feature. Because it has the same name as a CSS property it&#8217;s easy to think it has more power than it really does. Underlying that is the issue that your page can&#8217;t change the value of a media feature: media features [&#8230;]</p>
+The post <a href="https://kilianvalkhof.com/2024/css-html/your-page-cant-change-media-features/">Your page can’t change media features</a> first appeared on <a href="https://kilianvalkhof.com">Kilian Valkhof</a>. 
+
+<https://kilianvalkhof.com/2024/css-html/your-page-cant-change-media-features/>
+
+---
+
+## Voyager 1 Is Back From the Dead
+
+date: 2024-04-23, updated: 2024-04-23, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/04/23/voyager-1-is-back-from-the-dead/>
+
+---
+
+##  What Are you Starting Right Now? 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/what-are-you-starting-right-now>
+
+---
+
+## Explore the Universe with the First E-Book from NASA’s Fermi
+
+date: 2024-04-23, from: NASA breaking news
+
+To commemorate a milestone anniversary for NASA’s Fermi spacecraft, the mission team has published an e-book called “Our High-Energy Universe: 15 Years with the Fermi Gamma-ray Space Telescope.” Readers can download the e-book in PDF and EPUB formats. The e-book is aimed at general audiences with an interest in space. Launched on June 11, 2008, […] 
+
+<https://science.nasa.gov/missions/fermi/explore-the-universe-with-the-first-e-book-from-nasas-fermi/>
+
+---
+
+## AI Starts to Sift Through String Theory’s Near-Endless Possibilities
+
+date: 2024-04-23, from: Quanta Magazine
+
+Using machine learning, string theorists are finally showing how microscopic configurations of extra dimensions translate into sets of elementary particles — though not yet those of our universe.            <p>The post <a href="https://www.quantamagazine.org/ai-starts-to-sift-through-string-theorys-near-endless-possibilities-20240423/" target="_blank">AI Starts to Sift Through String Theory&#8217;s Near-Endless Possibilities</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/ai-starts-to-sift-through-string-theorys-near-endless-possibilities-20240423/>
+
+---
+
+## Hubble Celebrates 34th Anniversary with a Look at the Little Dumbbell Nebula
+
+date: 2024-04-23, from: NASA breaking news
+
+In celebration of the 34th anniversary of the launch of NASA’s legendary Hubble Space Telescope on April 24, astronomers took a snapshot of the Little Dumbbell Nebula (also known as Messier 76, M76, or NGC 650/651) located 3,400 light-years away in the northern circumpolar constellation Perseus. The photogenic nebula is a favorite target of amateur astronomers. M76 […] 
+
+<https://science.nasa.gov/missions/hubble/hubble-celebrates-34th-anniversary-with-little-dumbbell-nebula/>
+
+---
+
+## Pushing the Limits of Sub-Kilowatt Electric Propulsion Technology to Enable Planetary Exploration and Commercial Mission Concepts
+
+date: 2024-04-23, from: NASA breaking news
+
+NASA has developed an advanced propulsion technology to facilitate future planetary exploration missions using small spacecraft. Not only will this technology enable new types of planetary science missions, one of NASA’s commercial partners is already preparing to use it for another purpose—to extend the lifetimes of spacecraft that are already in orbit. Identifying the opportunity […] 
+
+<https://science.nasa.gov/science-research/science-enabling-technology/pushing-the-limits-of-sub-kilowatt-electric-propulsion-technology-to-enable-planetary-exploration-and-commercial-mission-concepts/>
+
+---
+
+##  Why earthquakes on the East Coast are felt farther away than ones... 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044441-why-earthquakes-on-the-ea>
+
+---
+
+## NetBSD 9.4 released
+
+date: 2024-04-23, from: OS News
+
+Hot on the heels of NetBSD 10.0 comes NetBSD 9.4, a minor release in the previous release branch. NetBSD 9.4 is primarily a bug and security fix release, however, there are some new features, such as support for more MegaRAID controllers, ZTE MF112 and D-Link DWM222 USB 3G modems, and improved CPU feature detection for newer AMD/Intel devices. All users of netbsd-9 should upgrade if they are not following the stable branch. ↫ NetBSD 9.4 release announcement A very important note here is that the version of OpenSSL in NetBSD 9.4 is no longer supported unless you have a support contract with OpenSSL. They suggest upgrading to NetBSD 10.0, or to use OpenSSL from pkgsrc. 
+
+<https://www.osnews.com/story/139403/netbsd-9-4-released/>
+
+---
+
+## Tribblix SPARC milestone 30 released
+
+date: 2024-04-23, from: OS News
+
+Tribblix, the unique ilumos distribution &#8211; think Solaris &#8211; has a new SPARC milestone. It&#8217;s one of the few platforms still actively supporting SPARC, so even if the amount of users might be slim, I think it&#8217;s an important contribution to the ecosystem. The application software here roughly corresponds to m34 on x86 systems, although the underlying illumos is still closer to m25/m26. Note that there are no functional illumos changes from the m28 sparc release &#8211; if that release didn&#8217;t work on your system, this one won&#8217;t either. ↫ Peter Tribble I&#8217;m still looking for my mythical, unobtanium Sun Ultra 45, a goal farther away now than it&#8217;s ever been (Patreon maybe? One-time donation? Help me out after I took OSNews full-time?), and the SPARC version of Tribblix would be my first go-to. 
+
+<https://www.osnews.com/story/139401/tribblix-sparc-milestone-30-released/>
+
+---
+
+## Announcing the Hookdeck SDK on JSR
+
+date: 2024-04-23, updated: 2024-04-23, from: Deno blog
+
+Hookdeck, an event gateway for distributed and async architecture, now has an SDK on JSR. 
+
+<https://deno.com/blog/hookdeck-on-jsr>
+
+---
+
+## Making a flute controlled mouse
+
+date: 2024-04-23, from: OS News
+
+There is something about surprising interfaces: clapping to switch on lights is more fun than a flipping a switch. Pressing a panic-button to order a pizza is more fun than ordering via an app. Recently I came across this surprising interface: a flute controlled mouse cursor for a first person shooter. I recognize a good idea when I see one, and immediately wanted replicate the idea and make it freely available. So I got to work. ↫ Joren Six I don&#8217;t think I have ever seen something quite so unique. 
+
+<https://www.osnews.com/story/139399/making-a-flute-controlled-mouse/>
+
+---
+
+## A-BiRD uses Raspberry Pi to identify different species singing at the same time
+
+date: 2024-04-23, from: Raspberry Pi News (.com)
+
+<p>A-BiRD’s audio data can provide insights into bird behaviour, species preferences, habitats, and migration patterns without human intervention.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/a-bird-uses-raspberry-pi-to-identify-different-species-singing-at-the-same-time/">A-BiRD uses Raspberry Pi to identify different species singing at the same time</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/a-bird-uses-raspberry-pi-to-identify-different-species-singing-at-the-same-time/>
+
+---
+
+## 2024-04-22 Gopher, again
+
+date: 2024-04-23, from: Alex Schroeder's Blog
+
+<h1 id="2024-04-22-gopher-again">2024-04-22 Gopher, again</h1>
+
+<p>Having found a separate server, written in Go, monitored by systemd, to be the superior solution for double hosting my site for Gemini, I kept thinking about Gopher. With <a href="Odd%C2%B5">Oddµ</a> using a version of Markdown that is very close to the standard, and having found a library that I understand, more or less, which I had successfully grafted onto <a href="https://sr.ht/~gsthnz/satellite/">Satellite</a>, the Gemini server I’m using, based on renderer code I found in the <a href="https://github.com/tdemin/gmnhg">Hugo-to-Gemini converter</a> that used the same Markdown parsing library I was using for Oddµ, I figured that I might use the same library to turn Markdown into suitable Gopher pages.</p>
+
+<p>It took some wrangling and it’s probably not great, but the main menu matches my front page and the blog posts look mostly OK, and so the site is back as a gopher hole on port 70!</p>
+
+<p>See <a href="https://src.alexschroeder.ch/markdown-gopher.git">Markdown Gopher</a> for the Gopher server code.</p>
+
+<p>See my <a href="https://src.alexschroeder.ch/satellite.git">patched Satellite</a> for the Gemini server code, <a href="2023-11-03-other-ports">discussed back in 2023</a>.</p>
+
+<p>And naturally I’m immediately annoyed by the lack of UTF-8 support in this client I’m using.</p>
+
+<p><a class="tag" href="/search/?q=%23Gopher">#Gopher</a></p> 
+
+<https://alexschroeder.ch/view/2024-04-22-gopher>
+
+---
+
+## Sols 4161-4163: Double Contact Science
+
+date: 2024-04-22, from: NASA breaking news
+
+Earth planning date: Friday, April 19, 2024 Curiosity has a three-sol weekend plan coming up as it makes progress along the edge of upper Gediz Vallis ridge. We have observations planned to investigate multiple bedrock targets with interesting rippled textures, dark-toned float, and the ridge. With two contact science targets, lots of targeted and untargeted […] 
+
+<https://science.nasa.gov/missions/mars-science-laboratory/curiosity-rover/sols-4161-4163-double-contact-science/>
+
+---
+
+## What we learned inside a North Korean internet server
+
+date: 2024-04-22, from: OS News
+
+A misconfigured North Korean Internet cloud server has provided a fascinating glance into the world of North Korean animation outsourcing and how foreign companies might be inadvertently employing North Korean companies on information technology (IT) projects. The incident also underlines how difficult it is for foreign companies to verify their outsourced work is not potentially breaking sanctions and ending up on computers in Pyongyang. ↫ Martyn Williams at 38 North What an absolutely wild story. 
+
+<https://www.osnews.com/story/139397/what-we-learned-inside-a-north-korean-internet-server/>
+
+---
+
 ##  Denis Villeneuve&#8217;s Four Favorite Films 
 
 date: 2024-04-22, updated: 2024-04-22, from: Jason Kottke blog
@@ -88,28 +351,6 @@ date: 2024-04-22, from: NASA breaking news
 April 22, 2024&#160; NASA astronaut Stephen Bowen, along with representatives from NASA and the International Space Station National Laboratory, will visit Boston on Wednesday, April 24, and Thursday, April 25, as part of the agency’s Destination Station to highlight research opportunities aboard the station. Destination Station was created to educate the public and engage prospective [&#8230;] 
 
 <https://www.nasa.gov/news-release/nasa-astronaut-to-inspire-artemis-generation-in-boston/>
-
----
-
-## 2024-04-22 Gopher, again
-
-date: 2024-04-22, from: Alex Schroeder's Blog
-
-<h1 id="2024-04-22-gopher-again">2024-04-22 Gopher, again</h1>
-
-<p>Having found a separate server, written in Go, monitored by systemd, to be the superior solution for double hosting my site for Gemini, I kept thinking about Gopher. With <a href="Oddmu">Oddmu</a> using a version of Markdown that is very close to the standard, and having found a library that I understand, more or less, which I had successfully grafted onto the Gemini server I’m using, I figured that I might use the same library to turn Markdown into suitable Gopher pages again.</p>
-
-<p>It took some wrangling and it’s probably not great, but the main menu matches my front page and the blog posts look mostly OK, and so the site is back as a gopher hole on port 70!</p>
-
-<p>See <a href="https://src.alexschroeder.ch/markdown-gopher.git">Markdown Gopher</a> for the Gopher server code.</p>
-
-<p>See my <a href="https://src.alexschroeder.ch/satellite.git">patched Satellite</a> for the Gemini server code, <a href="2023-11-03-other-ports">discussed back in 2023</a>.</p>
-
-<p>And naturally I’m immediately annoyed by the lack of UTF-8 support in this client I’m using.</p>
-
-<p><a class="tag" href="/search/?q=%23Gopher">#Gopher</a></p> 
-
-<https://alexschroeder.ch/view/2024-04-22-gopher>
 
 ---
 

@@ -1,11 +1,810 @@
 ---
 title: pacific 2024.17
-updated: 2024-04-22 15:39:56
+updated: 2024-04-23 09:49:41
 ---
 
 # pacific 2024.17
 
-(date: 2024-04-22 15:39:56)
+(date: 2024-04-23 09:49:41)
+
+---
+
+## Roots of resilience: The Chamorro spirit of Chief Petty Officer Luis Jose Reyes Blas
+
+date: 2024-04-23, updated: 2024-04-23, from: Marianas Variety
+
+(U.S. Coast Guard Forces Micronesia/Sector Guam) — In the vast expanse of the Pacific, where the horizon seems to stretch infinitely, blending sea and sky, Chief Petty Officer Luis Jose Reyes Blas charts a profoundly personal and universally inspiring course. 
+
+<https://www.mvariety.com/news/local/roots-of-resilience-the-chamorro-spirit-of-chief-petty-officer-luis-jose-reyes-blas/article_91b55ae0-0177-11ef-983a-7f84a313bd9d.html>
+
+---
+
+## NMI officials break ground for 2 public parks
+
+date: 2024-04-23, updated: 2024-04-23, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios, Lt. Gov. David M. Apatang, Office of Grants Management Administrator Ephiphanio E. Cabrera Jr. and other CNMI government officials gathered in San Antonio on Tuesday to break ground for the Pakpak Beach Park and Koblerville Children's Park projects. 
+
+<https://www.mvariety.com/news/local/nmi-officials-break-ground-for-2-public-parks/article_10421ef8-0140-11ef-b598-876903bdba9f.html>
+
+---
+
+## Please secure your cows
+
+date: 2024-04-23, updated: 2024-04-23, from: Marianas Variety
+
+COMMUNITY volunteer and Division of Parks and Recreation staffer Max Aguon is once again asking cow owners to secure their cattle as the animals could endanger motorists in Marpi. 
+
+<https://www.mvariety.com/news/local/please-secure-your-cows/article_616ab39c-015b-11ef-a68c-af1a0923ec8a.html>
+
+---
+
+## PSS secures $1.45M FEMA grant for school windows, doors
+
+date: 2024-04-23, updated: 2024-04-23, from: Marianas Variety
+
+THE Federal Emergency Management Agency has awarded the Public School System $1.458 million in hazard mitigation grant for six public schools. 
+
+<https://www.mvariety.com/news/local/pss-secures-1-45m-fema-grant-for-school-windows-doors/article_f2e1c306-016a-11ef-9599-37380b652fd7.html>
+
+---
+
+## May 6 to 10 is Public Service Recognition Week
+
+date: 2024-04-23, updated: 2024-04-23, from: Marianas Variety
+
+MARIE Muna, chair of the public service recognition committee, held a press conference at the Office of Personnel Management in Gualo Rai on Tuesday, April 23 alongside her co-chair Dencio Manglona to announce the upcoming activities for Public Service Recognition Week. 
+
+<https://www.mvariety.com/news/local/may-6-to-10-is-public-service-recognition-week/article_4599522c-0160-11ef-a6b0-8b9e8c61e585.html>
+
+---
+
+## Parole Office employee testifies in chief's forgery trial
+
+date: 2024-04-23, updated: 2024-04-23, from: Marianas Variety
+
+SHIRLYN Laniyo of the CNMI Parole Office testified in the bench trial of Chief Parole Officer Nick Masga Reyes on Tuesday. 
+
+<https://www.mvariety.com/news/local/parole-office-employee-testifies-in-chiefs-forgery-trial/article_2084e44e-015e-11ef-b586-7720547845d1.html>
+
+---
+
+## USS Emory S. Land visits Saipan, sailors to volunteer in community
+
+date: 2024-04-23, updated: 2024-04-23, from: Marianas Variety
+
+ASAN, Guam (Commander, Joint Region Marianas) — Sailors of USS Emory S. Land (AS 39) will conduct training and volunteer their time during a port visit in Saipan, in the Commonwealth of the Northern Mariana Islands, Wednesday, April 24. 
+
+<https://www.mvariety.com/news/local/uss-emory-s-land-visits-saipan-sailors-to-volunteer-in-community/article_739c94ca-0176-11ef-abab-a329282f2f3a.html>
+
+---
+
+## Governor OKs opioid settlement fund bill with concerns
+
+date: 2024-04-23, updated: 2024-04-23, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios on Friday signed into law a measure to establish an opioid settlement fund and council in the CNMI, but expressed concern about the lack of representation from the judiciary and a possible conflict of interest on his part. 
+
+<https://www.mvariety.com/news/local/governor-oks-opioid-settlement-fund-bill-with-concerns/article_cc1877d0-0131-11ef-8625-878a2c421a3b.html>
+
+---
+
+## Governor meets with Rota leaders
+
+date: 2024-04-23, updated: 2024-04-23, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios took a day trip to Rota last week Wednesday to meet with Rota Mayor Aubry Hocog, the resident department heads and the members of the island’s legislative delegation to discuss community infrastructure projects, among other topics. 
+
+<https://www.mvariety.com/news/local/governor-meets-with-rota-leaders/article_78e94590-0144-11ef-8b64-a3bd45fb344c.html>
+
+---
+
+## MVA joins ADEX Ocean Festival Singapore 2024
+
+date: 2024-04-23, updated: 2024-04-23, from: Marianas Variety
+
+(MVA) — Fresh off its Japan Marine Diving Awards selection as #2 Best Diving Area Global early this month, the Marianas touted its diving and other attractions on April 12-14, 2024, at ADEX Ocean Festival Singapore, the largest dive expo in Asia. 
+
+<https://www.mvariety.com/news/local/mva-joins-adex-ocean-festival-singapore-2024/article_d319816a-0176-11ef-8acc-570a2cbe6bad.html>
+
+---
+
+## BIIF tennis: East side dominates individual championships
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA-KONA &#8212; The Big Island Interscholastic Federation (BIIF) individual tennis season wrapped up Saturday morning during the boys and girls championships at Holua Racket and Paddle, and there was plenty to celebrate for windward-side competitors, who dominated the contest all week. Championship matches for singles and doubles took place after play began on Thursday and Friday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/sports/biif-tennis-east-side-dominates-individual-championships/>
+
+---
+
+## Matt Ryan calls it a career. The quarterback officially announces his retirement
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>FLOWERY BRANCH, Ga. &#8212; On the very first pass of his very first NFL minicamp, Matt Ryan delivered a wobbly throw that left his new Atlanta Falcons teammates shaking their heads.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/sports/matt-ryan-calls-it-a-career-the-quarterback-officially-announces-his-retirement/>
+
+---
+
+## No Giannis? No Leonard? No problem just yet for the Bucks and Clippers in the postseason
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>MILWAUKEE &#8212; The Milwaukee Bucks and Los Angeles Clippers remain unsure just when they&#8217;ll have their top players back on the floor.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/sports/no-giannis-no-leonard-no-problem-just-yet-for-the-bucks-and-clippers-in-the-postseason/>
+
+---
+
+## Jets trade quarterback Zach Wilson to the Broncos, AP source says
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>Zach Wilson was expected to be the face of the franchise for the New York Jets. Instead, he became a symbol of disappointment.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/sports/jets-trade-quarterback-zach-wilson-to-the-broncos-ap-source-says/>
+
+---
+
+## Donovan Mitchell scores 23 as Cavaliers power to 96-86 win over Magic and 2-0 lead in series
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>CLEVELAND &#8212; Through two games, the Cavaliers have been tough guys in these playoffs.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/sports/donovan-mitchell-scores-23-as-cavaliers-power-to-96-86-win-over-magic-and-2-0-lead-in-series/>
+
+---
+
+## Yankees manager Aaron Boone is ejected 5 pitches into a game. He says a fan berated the umpire
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK (AP) &#8212; Aaron Boone didn&#8217;t tie the record for fastest ejection. The New York Yankees manager did think it was among the most unjust dismissals.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/sports/yankees-manager-aaron-boone-is-ejected-5-pitches-into-a-game-he-says-a-fan-berated-the-umpire/>
+
+---
+
+## Oprah Winfrey and Dwayne Johnson pledged $10M for Maui wildfire survivors. They gave much more.
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>Lana Vierra misses the swing set at her Lahaina home, which was reduced to ashes in the wildfires that swept through her community last summer.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/hawaii-news/oprah-winfrey-and-dwayne-johnson-pledged-10m-for-maui-wildfire-survivors-they-gave-much-more/>
+
+---
+
+## New tsunami video ‘has it all in one place’
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>In response to Gov. Josh Green proclaiming April as Tsunami Awareness Month in Hawaii, the University of Hawaii Sea Grant College Progra partnered with organizations across the state to promote tsunami preparedness by creating a new 2024 Hawaii Tsunami Preparedness video.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/hawaii-news/new-tsunami-video-has-it-all-in-one-place/>
+
+---
+
+## Your Views for April 23
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>Self-immolation&#0010;raises questions</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/opinion/your-views-for-april-23-9/>
+
+---
+
+## The circus Trump wanted outside his trial hasn’t arrived
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Donald Trump was evidently not happy with what he saw out the window of his chauffeured SUV as he rode through lower Manhattan on Monday morning for the beginning of opening arguments in his first criminal trial.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/nation-world-news/the-circus-trump-wanted-outside-his-trial-hasnt-arrived/>
+
+---
+
+## An unprecedented trial opens with two visions of Trump
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Manhattan prosecutors delivered a raw recounting of Donald Trump&#8217;s seamy past Monday as they debuted their case against him to jurors, the nation and the world, reducing the former president to a co-conspirator in a plot to cover up three sex scandals that threatened his 2016 election win.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/nation-world-news/an-unprecedented-trial-opens-with-two-visions-of-trump/>
+
+---
+
+## Rail spikes hammered, bullet train being built from Sin City to the City of Angels
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>LAS VEGAS &#8212; A $12 billion passenger bullet train linking Las Vegas and the Los Angeles area was dubbed the first true high-speed rail line in the nation on Monday, with the private company building it predicting millions of ticket-buyers will be boarding trains by 2028.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/nation-world-news/rail-spikes-hammered-bullet-train-being-built-from-sin-city-to-the-city-of-angels/>
+
+---
+
+## Maui officials push back on some details in Hawaii attorney general report on deadly wildfire
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU (AP) &#8212; Days after the Hawaii attorney general&#8217;s office released an outside report that flagged communications issues in the response to the deadly August wildfire, Maui County officials pushed back and offered &#8220;clarifications&#8221; on some of the report&#8217;s details.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/hawaii-news/maui-officials-push-back-on-some-details-in-hawaii-attorney-general-report-on-deadly-wildfire/>
+
+---
+
+## Civic engagement should not be performed ‘All By Myself’
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>With the death of singer-songwriter Eric Carmen last month and Earth Day coming up, I got to thinking about Carmen&#8217;s song &#8220;All By Myself&#8221; and how deeper forms of activism are both essential to making change and a powerful antidote to our growing epidemic of loneliness.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/opinion/civic-engagement-should-not-be-performed-all-by-myself/>
+
+---
+
+## The NIH’s words matter, especially to long COVID patients
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>Bernie Sanders, who chairs the Senate&#8217;s Health, Education, Labor and Pensions Committee, has proposed allocating $1 billion annually for 10 years to the National Institutes of Health for long COVID research. One potential stumbling block to this good idea is bipartisan criticism of the NIH&#8217;s sluggishness in producing useful results from the initial $1.15 billion allocated to long COVID.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/opinion/the-nihs-words-matter-especially-to-long-covid-patients/>
+
+---
+
+## Israel’s military intelligence chief resigns over failure to prevent Hamas attack on Oct. 7
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>TEL AVIV, Israel &#8212; The head of Israeli military intelligence resigned on Monday because of Hamas&#8217; Oct. 7 attack, becoming the first senior figure to step down over his role in the stunning failure to anticipate or quickly respond to the deadliest assault in Israel&#8217;s history.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/nation-world-news/israels-military-intelligence-chief-resigns-over-failure-to-prevent-hamas-attack-on-oct-7/>
+
+---
+
+## Aid approval brings Ukraine closer to replenishing troops struggling to hold front lines
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Ukrainian commander Oleksiy Tarasenko witnessed a frightening shift last month in Russia&#8217;s efforts to punch through Kyiv&#8217;s defense of the industrial region known as the Donbas.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/nation-world-news/aid-approval-brings-ukraine-closer-to-replenishing-troops-struggling-to-hold-front-lines/>
+
+---
+
+## Elon Musk’s robotaxi dreams plunge Tesla into chaos
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>Elon Musk&#8217;s underlings at Tesla Inc. are accustomed to chaos. It comes with the territory of working for a chief executive who sets exacting targets and often abruptly switches directions &#8212; whose biographer describes his more intense moods as &#8220;demon mode.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/nation-world-news/elon-musks-robotaxi-dreams-plunge-tesla-into-chaos/>
+
+---
+
+## TikTok digs in to fight US ban with 170 million users at stake
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>Four years ago, when the Trump administration threatened to ban TikTok in the U.S., its Chinese parent company ByteDance Ltd. worked out a preliminary deal to sell the short video app&#8217;s business. Not this time.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/nation-world-news/tiktok-digs-in-to-fight-us-ban-with-170-million-users-at-stake/>
+
+---
+
+## Obituaries for April 23
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>Jay N. Ishimoto, 87, of Hilo died April 7 at home. Born in Waialua, Oahu, he was a retired teacher at Hilo Intermediate School, retired member of Hawaii State Teacher&#8217;s Association, photographer for the Lyman Museum and founding member of the former Big Island Film Club. Private services held. No flowers or koden (monetary gifts). Survived by wife, Maureen Ishimoto of Hilo; sons, Guy K. (Rosemary) Ishimoto of Roswell, Ga., And Dean H. (Shelley) Ishimoto of Hilo; sisters-in-law, Mabel Ishimoto and Sheila Black of Honolulu; brother-in-law, George Ueda of Hilo; a granddaughter; nieces and nephews. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/obituaries/obituaries-for-april-23-12/>
+
+---
+
+## Pro-Palestinian protests sweep US college campuses following mass arrests at Columbia
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Columbia canceled in-person classes, dozens of protesters were arrested at Yale and the gates to Harvard Yard were closed to the public on Monday as some of the most prestigious U.S. universities sought to diffuse campus tensions over Israel&#8217;s war with Hamas.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/nation-world-news/pro-palestinian-protests-sweep-us-college-campuses-following-mass-arrests-at-columbia/>
+
+---
+
+## With homelessness on the rise, the Supreme Court weighs bans on sleeping outdoors
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court wrestled with major questions about the growing issue of homelessness on Monday as it considered whether cities can punish people for sleeping outside when shelter space is lacking.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/hawaii-news/with-homelessness-on-the-rise-the-supreme-court-weighs-bans-on-sleeping-outdoors/>
+
+---
+
+## NFL teams often misfire on drafting QBs. But how often do they fail? And why?
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>The Minnesota Vikings need a quarterback in this draft. That much is easy to see. The hard part is picking the right one &#8212; and determining what it&#8217;s worth to them to get him.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/sports/nfl-teams-often-misfire-on-drafting-qbs-but-how-often-do-they-fail-and-why/>
+
+---
+
+## Bail cut in half for man accused of attempted murder
+
+date: 2024-04-23, from: Hawaii Tribune Harold
+
+
+				<p>A 31-year-old Hawaiian Paradise Park man admitted shooting an acquaintance Friday morning &#8212; and there is video footage of the incident, according to court documents filed by police.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/23/hawaii-news/hpp-man-charged-with-attempted-murder-in-shooting/>
+
+---
+
+## President Whipps to Deliver 4th State of the Republic Address
+
+date: 2024-04-23, from: Island Times
+
+<figure><img width="1024" height="521" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr.jpg?fit=1024%2C521&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr.jpg?w=1440&amp;ssl=1 1440w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr.jpg?resize=300%2C153&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr.jpg?resize=1024%2C521&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr.jpg?resize=768%2C390&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr.jpg?resize=1200%2C610&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr.jpg?resize=400%2C203&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr.jpg?resize=706%2C359&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr.jpg?fit=1024%2C521&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69858" data-permalink="https://islandtimes.org/president-whipps-to-deliver-4th-state-of-the-republic-address/surangel-whipps-jr/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr.jpg?fit=1440%2C732&amp;ssl=1" data-orig-size="1440,732" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Surangel-Whipps-Jr" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr.jpg?fit=300%2C153&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr.jpg?fit=780%2C397&amp;ssl=1" /></figure>
+<p>(Koror, Palau) President Surangel Whipps Jr. will deliver his fourth State of the Republic Address (SORA) on Thursday, April 25, 2024, following a joint resolution passed by the Olbiil Era Kelulau (OEK). The address is the last SORA of President Whipps’s first term in office, offering a chance to reflect on his three and a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/president-whipps-to-deliver-4th-state-of-the-republic-address/">President Whipps to Deliver 4th State of the Republic Address</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/president-whipps-to-deliver-4th-state-of-the-republic-address/>
+
+---
+
+## High-Tech Takes Flight to Document Ancient Palauan Terraces
+
+date: 2024-04-23, from: Island Times
+
+<figure><img width="1024" height="767" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?fit=1024%2C767&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?resize=1024%2C767&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?resize=768%2C575&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?resize=1536%2C1150&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?resize=2048%2C1534&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?resize=1568%2C1174&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?resize=2000%2C1498&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?resize=706%2C529&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?fit=1024%2C767&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69854" data-permalink="https://islandtimes.org/high-tech-takes-flight-to-document-ancient-palauan-terraces/dji_0294/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?fit=2560%2C1917&amp;ssl=1" data-orig-size="2560,1917" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;L2D-20c&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1713551052&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;12.29&quot;,&quot;iso&quot;:&quot;140&quot;,&quot;shutter_speed&quot;:&quot;0.066666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="DJI_0294" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/DJI_0294-scaled.jpg?fit=780%2C584&amp;ssl=1" /></figure>
+<p>(Aimeliik, Palau) Archaeologists in Palau have embarked on a groundbreaking journey, utilizing LiDAR technology to document the expansive network of ancient man-made terraces in Aimeliik State. LiDAR, an acronym for Light Detection and Ranging, employs pulsed lasers to measure distances and create detailed three-dimensional point clouds of environments, enabling us to virtually step back in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/high-tech-takes-flight-to-document-ancient-palauan-terraces/">High-Tech Takes Flight to Document Ancient Palauan Terraces</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/high-tech-takes-flight-to-document-ancient-palauan-terraces/>
+
+---
+
+## Appellate Court Reverses Decision on Ngercheu Island Ownership
+
+date: 2024-04-23, from: Island Times
+
+<figure><img width="450" height="338" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1-4.jpg?fit=450%2C338&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1-4.jpg?w=450&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1-4.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1-4.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1-4.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1-4.jpg?fit=450%2C338&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69850" data-permalink="https://islandtimes.org/appellate-court-reverses-decision-on-ngercheu-island-ownership/untitled-1-87/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1-4.jpg?fit=450%2C338&amp;ssl=1" data-orig-size="450,338" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Untitled-1" data-image-description="" data-image-caption="&lt;p&gt;Ngercheu Island&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1-4.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1-4.jpg?fit=450%2C338&amp;ssl=1" /></figure>
+<p>KOROR, Palau &#8211;&#160; The Edaruchei Clan of Ngerkeyukl in Peleliu has been declared the rightful owner of Ngercheu Island, according to a recent appellate court decision. This reverses a 2021 trial court decision that awarded ownership to the Edaruchei Clan of Ngerdelolk. The appellate court&#8217;s decision remanded the case back to the trial court for [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/appellate-court-reverses-decision-on-ngercheu-island-ownership/">Appellate Court Reverses Decision on Ngercheu Island Ownership</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/appellate-court-reverses-decision-on-ngercheu-island-ownership/>
+
+---
+
+## Palau Calls for Halt on Deep-Sea Mining at Our Ocean Conference
+
+date: 2024-04-23, from: Island Times
+
+<p>Koror, Palau &#8211; Palau President Surangel Whipps Jr. renewed calls for a moratorium on deep-sea mining at the Our Ocean Conference held last week in Greece. During a side event, Whipps Jr. emphasized the urgency of the issue, stating that deep-sea mining poses a significant threat to deep-sea ecosystems and could cause irreversible damage. The [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-calls-for-halt-on-deep-sea-mining-at-our-ocean-conference/">Palau Calls for Halt on Deep-Sea Mining at Our Ocean Conference</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-calls-for-halt-on-deep-sea-mining-at-our-ocean-conference/>
+
+---
+
+## Senate Committee Holds Oversight Hearing on Election Commission
+
+date: 2024-04-23, from: Island Times
+
+<p>(Koror,&#160; Palau) The Senate Committee on Judiciary and Governmental Affairs is holding an oversight hearing today to discuss matters concerning the Election Commission as the November general elections approach. In a letter from Committee Chair Seciliil Elbedechel to the Election Commission Board Chairperson, the chair stated that the hearing will address topics such as the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/senate-committee-holds-oversight-hearing-on-election-commission/">Senate Committee Holds Oversight Hearing on Election Commission</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/senate-committee-holds-oversight-hearing-on-election-commission/>
+
+---
+
+## Palau Surpasses Tax Collection Goals in Second Quarter
+
+date: 2024-04-23, from: Island Times
+
+<p>KOROR, Palau — Palau&#8217;s government collected over 60% of its projected tax revenue for fiscal year 2024 by the end of the second quarter, according to a financial report released by the Ministry of Finance. The report, issued by Minister Kaleb Udui Jr. on March 31, 2024, shows strong performance in key tax categories. Total [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-surpasses-tax-collection-goals-in-second-quarter/">Palau Surpasses Tax Collection Goals in Second Quarter</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-surpasses-tax-collection-goals-in-second-quarter/>
+
+---
+
+## China steps up efforts to win Palau but Whipps says he won’t cave in
+
+date: 2024-04-23, from: Pacific Island Times
+
+By Mar-Vic Cagurangan Beijing has been dangling lures in a bid to convince Palau to sever ties with Taiwan and switch to China, Surangel... 
+
+<https://www.pacificislandtimes.com/post/china-steps-up-efforts-to-win-palau-but-whipps-says-he-won-t-cave-in>
+
+---
+
+## GRMC opens transitional care clinic
+
+date: 2024-04-23, from: Guam Daily Post
+
+The Guam Regional Medical City recently launched a transitional care clinic to better serve patients and improve outcomes, GRMC announced recently in a press release. 
+
+<https://www.postguam.com/news/local/grmc-opens-transitional-care-clinic/article_3ec3a612-0112-11ef-9fc4-77cbb80f41d5.html>
+
+---
+
+## Law Month declared on Guam
+
+date: 2024-04-23, from: Guam Daily Post
+
+April 22 to May 20 was declared Law Month by the island's leaders. 
+
+<https://www.postguam.com/news/local/law-month-declared-on-guam/article_68a66be2-010b-11ef-b048-f750b2e2383d.html>
+
+---
+
+## Triple J installs EV charging station at Dusit Thani Guam
+
+date: 2024-04-23, from: Guam Daily Post
+
+Triple J Enterprises Inc., in collaboration with Dusit Thani Guam Resort, has launched the Blink Series 8 Level 2 charging station, Triple J announced in a press release. This cutting-edge addition to the Blink® Charging network sets a new standard… 
+
+<https://www.postguam.com/news/local/triple-j-installs-ev-charging-station-at-dusit-thani-guam/article_036b2d50-0118-11ef-ab10-db38b69b2ee6.html>
+
+---
+
+## Exemption category added, trash service mandate makes voting file
+
+date: 2024-04-23, from: Guam Daily Post
+
+The measure that would require residential owners to participate in waste collection services proceeded to the voting file on Monday, but with an added exemption category for those choosing to use residential transfer stations. 
+
+<https://www.postguam.com/news/local/exemption-category-added-trash-service-mandate-makes-voting-file/article_ef8282d2-011e-11ef-9560-a330bfad2b3a.html>
+
+---
+
+## Detainee escapes, captured 3 hours later
+
+date: 2024-04-23, from: Guam Daily Post
+
+A detainee housed at the Department of Corrections Mangilao Adult Correctional Facility escaped on Tuesday morning before being captured three hours later in Barrigada, the department said. 
+
+<https://www.postguam.com/news/local/detainee-escapes-captured-3-hours-later/article_200a5e8c-0117-11ef-bf29-3bce47f70cfa.html>
+
+---
+
+## Viral videos lead to 2 men being charged with theft
+
+date: 2024-04-23, from: Guam Daily Post
+
+Two men were charged in connection to a series of thefts in September 2023. 
+
+<https://www.postguam.com/news/local/viral-videos-lead-to-2-men-being-charged-with-theft/article_8d9056ba-00fd-11ef-b0aa-4f2683ec2e98.html>
+
+---
+
+## Another energy credit extension is proposed as last wave expires
+
+date: 2024-04-23, from: Guam Daily Post
+
+Sen. William Parkinson and five other senators are calling for yet another extension to the $100-per-month energy credit program that has been in place since mid-2022, the Prugråman Ayuda Para I Taotao-ta Energy Credit Program. 
+
+<https://www.postguam.com/news/local/another-energy-credit-extension-is-proposed-as-last-wave-expires/article_1c489eec-0114-11ef-891d-678680c032bd.html>
+
+---
+
+## Earth day 2024 – ROCK ISLAND BEACH CLEAN-UP AT NGerBLOBANG
+
+date: 2024-04-23, from: Island Times
+
+<figure><img width="616" height="465" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1-3.jpg?fit=616%2C465&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1-3.jpg?w=616&amp;ssl=1 616w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1-3.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1-3.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1-3.jpg?resize=400%2C302&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1-3.jpg?fit=616%2C465&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69844" data-permalink="https://islandtimes.org/earth-day-2024-rock-island-beach-clean-up-at-ngerblobang/untitled-1-86/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1-3.jpg?fit=616%2C465&amp;ssl=1" data-orig-size="616,465" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Untitled-1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1-3.jpg?fit=300%2C226&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Untitled-1-3.jpg?fit=616%2C465&amp;ssl=1" /></figure>
+<p>With support from the Koror State Governor and the Koror State Department of Conservation &#38; Law Enforcement; the Australian Embassy commemorated Earth Day on 22 April by organising a clean up event at Ngerblobang. Joined by members from the Australian community in Palau, the Ministry of State and diplomatic corps; more than 30 full bags [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/earth-day-2024-rock-island-beach-clean-up-at-ngerblobang/">Earth day 2024 – ROCK ISLAND BEACH CLEAN-UP AT NGerBLOBANG</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/earth-day-2024-rock-island-beach-clean-up-at-ngerblobang/>
+
+---
+
+## The LAND
+
+date: 2024-04-23, from: Island Times
+
+<figure><img width="400" height="400" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LNkCVQv8_400x400-1.jpg?fit=400%2C400&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LNkCVQv8_400x400-1.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LNkCVQv8_400x400-1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LNkCVQv8_400x400-1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LNkCVQv8_400x400-1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LNkCVQv8_400x400-1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LNkCVQv8_400x400-1.jpg?fit=400%2C400&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69837" data-permalink="https://islandtimes.org/the-land/lnkcvqv8_400x400-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LNkCVQv8_400x400-1.jpg?fit=400%2C400&amp;ssl=1" data-orig-size="400,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="LNkCVQv8_400x400" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LNkCVQv8_400x400-1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/LNkCVQv8_400x400-1.jpg?fit=400%2C400&amp;ssl=1" /></figure>
+<p>&#8220;Words are everything.&#8221; Says the poet.&#160; &#8220;But are they?&#8221;&#160; I ask. Body language speaks louder than words.&#160; When my mind isn&#8217;t free, my brain is foggy. I can&#8217;t even begin to form a thought into a sentence.&#160; Not because I don&#8217;t know how but because I have no words. I can&#8217;t find words. Time to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-land/">The LAND</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/the-land/>
+
+---
+
+## Global Energy leaders stress urgent redesign of renewable energy infrastructure to combat climate change
+
+date: 2024-04-23, from: Island Times
+
+<figure><img width="920" height="920" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-according-to-microphone.png?fit=920%2C920&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-according-to-microphone.png?w=920&amp;ssl=1 920w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-according-to-microphone.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-according-to-microphone.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-according-to-microphone.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-according-to-microphone.png?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-according-to-microphone.png?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-according-to-microphone.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-according-to-microphone.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-according-to-microphone.png?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-according-to-microphone.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-according-to-microphone.png?fit=920%2C920&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69835" data-permalink="https://islandtimes.org/global-energy-leaders-stress-urgent-redesign-of-renewable-energy-infrastructure-to-combat-climate-change/opinion-according-to-microphone/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-according-to-microphone.png?fit=920%2C920&amp;ssl=1" data-orig-size="920,920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="opinion-according-to-microphone" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-according-to-microphone.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/opinion-according-to-microphone.png?fit=780%2C780&amp;ssl=1" /></figure>
+<p>By Pita Ligaiula in Abu Dhabi, UAE ABU DHABI, 19 APRIL 2024 (PACNEWS) &#8212;- President of the 14th International Renewable Energy Agency (IRENA) Assembly and Rwandan Minister of Infrastructure, Dr Jimmy Gasore says the shifts towards renewable electricity and green hydrogen are crucial to reducing carbon emissions, requiring a redesign and strengthening of energy infrastructure. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/global-energy-leaders-stress-urgent-redesign-of-renewable-energy-infrastructure-to-combat-climate-change/">Global Energy leaders stress urgent redesign of renewable energy infrastructure to combat climate change</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/global-energy-leaders-stress-urgent-redesign-of-renewable-energy-infrastructure-to-combat-climate-change/>
+
+---
+
+## Baron Waqa negotiating – No start date for incoming Pacific Islands Forum boss yet
+
+date: 2024-04-23, from: Island Times
+
+<p>RAROTONGA, 22 APRIL 2024 (RNZ PACIFIC) &#8212; The incoming head of the Pacific region&#8217;s main political body is yet to sign his contract, almost six months after the 2023 Pacific Islands Forum (PIF) Leaders meeting in Rarotonga. Former Nauru president, Baron Waqa, who is to take on the high-level diplomatic post has been heavily criticised [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/baron-waqa-negotiating-no-start-date-for-incoming-pacific-islands-forum-boss-yet/">Baron Waqa negotiating &#8211; No start date for incoming Pacific Islands Forum boss yet</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/baron-waqa-negotiating-no-start-date-for-incoming-pacific-islands-forum-boss-yet/>
+
+---
+
+## Inspection results: two sanitary permits suspended, one reinstated
+
+date: 2024-04-23, from: Guam Daily Post
+
+The Division of Environmental Health at the Department of Public Health and Social Services suspended two sanitary permits between April 8 and April 21, and reinstated one before the end of the period. 
+
+<https://www.postguam.com/news/inspection-results-two-sanitary-permits-suspended-one-reinstated/article_056c5d3c-0121-11ef-83f5-a3e815bb0ddc.html>
+
+---
+
+## Sogavare returns for his 7th term
+
+date: 2024-04-23, from: Island Times
+
+<p>HONIARA, 22 APRIL 2024 (SOLOMON STAR) &#8212; Caretaker Prime Minister Manasseh Sogavare has been re-elected for his seventh tenure as the Member of Parliament for East Choiseul. The four-time Prime Minister secured his seventh parliamentary election by a total of 1,808 votes, beating his runner-up David Qurusu of the Solomon Islands Democratic Party by 259 [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/sogavare-returns-for-his-7th-term/">Sogavare returns for his 7th term</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/sogavare-returns-for-his-7th-term/>
+
+---
+
+## China pledges more infrastructure investments and economic aid for FSM
+
+date: 2024-04-23, from: Island Times
+
+<p>PALIKIR, 22 APRIL 2024 (PACIFIC ISLAND TIMES) &#8212; Barely a month after completing new agreements under the Compact of Free Association with Washington, Micronesian President Wesley Simina recently met with Chinese President Xi Jinping, who offered to bring more infrastructure investments and other economic assistance to the Pacific Island nation under Beijing’s Belt and Road [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/china-pledges-more-infrastructure-investments-and-economic-aid-for-fsm/">China pledges more infrastructure investments and economic aid for FSM</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/china-pledges-more-infrastructure-investments-and-economic-aid-for-fsm/>
+
+---
+
+## American Samoa says Pacific Islands Forum membership still on the table
+
+date: 2024-04-23, from: Island Times
+
+<p>PAGO PAGO, 22 APRIL 2024 (RNZ PACIFIC) &#8212; The American Samoa Government has rubbished reports about the U.S shooting down its hopes of becoming a member of the Pacific Islands Forum (PIF). In a statement, the government said its efforts to seek associate membership status in the Pacific Islands Forum are not being opposed by [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/american-samoa-says-pacific-islands-forum-membership-still-on-the-table/">American Samoa says Pacific Islands Forum membership still on the table</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/american-samoa-says-pacific-islands-forum-membership-still-on-the-table/>
+
+---
+
+## Micronesia: Prolonged drought now impacting food and water across region
+
+date: 2024-04-23, from: Island Times
+
+<p>PALIKIR, 22 APRIL 2024 (RNZ PACIFIC) &#8212; Extreme droughts in the Western Pacific region are expected to persist over the next three months. Parts of the Marshall Islands, Guam, Palau, Mariana Islands, and the Federated States of Micronesia (FSM) are now designated under extreme and exceptional drought. These conditions are causing a massive strain on [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/micronesia-prolonged-drought-now-impacting-food-and-water-across-region/">Micronesia: Prolonged drought now impacting food and water across region</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/micronesia-prolonged-drought-now-impacting-food-and-water-across-region/>
+
+---
+
+## Europe is the fastest-warming continent, at nearly twice the average global rate, report says
+
+date: 2024-04-23, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Europe-is-the-fastest.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Europe-is-the-fastest.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Europe-is-the-fastest.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Europe-is-the-fastest.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Europe-is-the-fastest.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Europe-is-the-fastest.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Europe-is-the-fastest.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69821" data-permalink="https://islandtimes.org/europe-is-the-fastest-warming-continent-at-nearly-twice-the-average-global-rate-report-says/europe-is-the-fastest/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Europe-is-the-fastest.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5&quot;,&quot;credit&quot;:&quot;THANASSIS STAVRAKIS&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;FILE - Burnt trees and a car after yesterday&#039;s fire in Mandra, west of Athens, on Wednesday, July 19, 2023. Europe is the fastest-warming continent and its temperatures are rising at roughly twice the global average, two top climate monitoring organizations reported Monday, April 22, 2024, warning of the consequences for human health, glacier melt and economic activity. (AP Photo\/Thanassis Stavrakis, File)&quot;,&quot;created_timestamp&quot;:&quot;1689765625&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;88&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.0004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Europe is the fastest" data-image-description="" data-image-caption="&lt;p&gt;FILE &#8211; Burnt trees and a car after yesterday&#8217;s fire in Mandra, west of Athens, on Wednesday, July 19, 2023. Europe is the fastest-warming continent and its temperatures are rising at roughly twice the global average, two top climate monitoring organizations reported Monday, April 22, 2024, warning of the consequences for human health, glacier melt and economic activity. (AP Photo/Thanassis Stavrakis, File)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Europe-is-the-fastest.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Europe-is-the-fastest.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By JAMEY KEATEN Associated Press NAPLES, Italy (AP) — Europe is the fastest-warming continent and its temperatures are rising at roughly twice the global average, two top climate monitoring organizations reported Monday, warning of the consequences for human health, glacier melt and economic activity. The U.N.&#8217;s World Meteorological Organization and the European Union&#8217;s climate agency, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/europe-is-the-fastest-warming-continent-at-nearly-twice-the-average-global-rate-report-says/">Europe is the fastest-warming continent, at nearly twice the average global rate, report says</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/europe-is-the-fastest-warming-continent-at-nearly-twice-the-average-global-rate-report-says/>
+
+---
+
+## The House votes for possible TikTok ban in the US, but don’t expect the app to go away anytime soon
+
+date: 2024-04-23, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/TikTok-ban.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/TikTok-ban.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/TikTok-ban.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/TikTok-ban.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/TikTok-ban.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/TikTok-ban.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/TikTok-ban.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69819" data-permalink="https://islandtimes.org/the-house-votes-for-possible-tiktok-ban-in-the-us-but-dont-expect-the-app-to-go-away-anytime-soon/tiktok-ban/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/TikTok-ban.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5&quot;,&quot;credit&quot;:&quot;Ted Shaffrey&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark III&quot;,&quot;caption&quot;:&quot;FILE - A man carries a Free TikTok sign in front of the courthouse where the hush-money trial of Donald Trump got underway April 15, 2024, in New York. The House has passed legislation Saturday, April 20, to ban TikTok in the U.S. if its China-based owner doesn&#039;t sell its stake, sending it to the Senate as part of a larger package of bills that would send aid to Ukraine and Israel. House Republicans&#039; decision to add the TikTok bill to the foreign aid package fast-tracked the legislation after it had stalled in the Senate. The aid bill is a priority for President Joe Biden that has broad congressional support. (AP Photo\/Ted Shaffrey, File)&quot;,&quot;created_timestamp&quot;:&quot;1713170681&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.005&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="TikTok ban" data-image-description="" data-image-caption="&lt;p&gt;FILE &#8211; A man carries a Free TikTok sign in front of the courthouse where the hush-money trial of Donald Trump got underway April 15, 2024, in New York. The House has passed legislation Saturday, April 20, to ban TikTok in the U.S. if its China-based owner doesn&#8217;t sell its stake, sending it to the Senate as part of a larger package of bills that would send aid to Ukraine and Israel. House Republicans&#8217; decision to add the TikTok bill to the foreign aid package fast-tracked the legislation after it had stalled in the Senate. The aid bill is a priority for President Joe Biden that has broad congressional support. (AP Photo/Ted Shaffrey, File)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/TikTok-ban.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/TikTok-ban.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By MARY CLARE JALONICK and HALELUYA HADERO Associated Press WASHINGTON (AP) — The House passed legislation Saturday that would ban&#160;TikTok&#160;in the United States if the popular social media platform&#8217;s China-based owner doesn’t sell its stake within a year, but don&#8217;t expect the app to go away anytime soon. The decision by House Republicans to include [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-house-votes-for-possible-tiktok-ban-in-the-us-but-dont-expect-the-app-to-go-away-anytime-soon/">The House votes for possible TikTok ban in the US, but don&#8217;t expect the app to go away anytime soon</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/the-house-votes-for-possible-tiktok-ban-in-the-us-but-dont-expect-the-app-to-go-away-anytime-soon/>
+
+---
+
+## Dodgers’ Shohei Ohtani passes Hideki Matsui for most MLB homers by a Japanese-born player
+
+date: 2024-04-23, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Dodgers.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Dodgers.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Dodgers.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Dodgers.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Dodgers.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Dodgers.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Dodgers.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69817" data-permalink="https://islandtimes.org/dodgers-shohei-ohtani-passes-hideki-matsui-for-most-mlb-homers-by-a-japanese-born-player/dodgers-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Dodgers.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;Kyusung Gong&quot;,&quot;camera&quot;:&quot;NIKON Z 9&quot;,&quot;caption&quot;:&quot;Los Angeles Dodgers&#039; Shohei Ohtani bats during the first inning of a baseball game against the New York Mets in Los Angeles, Sunday, April 21, 2024. (AP Photo\/Kyusung Gong)&quot;,&quot;created_timestamp&quot;:&quot;1713705464&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved.&quot;,&quot;focal_length&quot;:&quot;340&quot;,&quot;iso&quot;:&quot;800&quot;,&quot;shutter_speed&quot;:&quot;0.0003125&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Dodgers" data-image-description="" data-image-caption="&lt;p&gt;Los Angeles Dodgers&#8217; Shohei Ohtani bats during the first inning of a baseball game against the New York Mets in Los Angeles, Sunday, April 21, 2024. (AP Photo/Kyusung Gong)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Dodgers.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Dodgers.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By GREG BEACHAM AP Sports Writer LOS ANGELES (AP) — Shohei Ohtani made another piece of baseball history Sunday when he surpassed a mark set by one of his heroes. The Los Angeles Dodgers slugger crushed his 176th career homer in the third inning, breaking Hideki Matsui&#8217;s record for the most home runs hit by [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/dodgers-shohei-ohtani-passes-hideki-matsui-for-most-mlb-homers-by-a-japanese-born-player/">Dodgers&#8217; Shohei Ohtani passes Hideki Matsui for most MLB homers by a Japanese-born player</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/dodgers-shohei-ohtani-passes-hideki-matsui-for-most-mlb-homers-by-a-japanese-born-player/>
+
+---
+
+## Shai Gilgeous-Alexander scores 28 points as top-seeded Thunder edge Pelicans 94-92 in Game 1
+
+date: 2024-04-23, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Shai-Gilgeous.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Shai-Gilgeous.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Shai-Gilgeous.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Shai-Gilgeous.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Shai-Gilgeous.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Shai-Gilgeous.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Shai-Gilgeous.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69815" data-permalink="https://islandtimes.org/shai-gilgeous-alexander-scores-28-points-as-top-seeded-thunder-edge-pelicans-94-92-in-game-1/shai-gilgeous/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Shai-Gilgeous.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Kyle Phillips&quot;,&quot;camera&quot;:&quot;NIKON D850&quot;,&quot;caption&quot;:&quot;Oklahoma City Thunder guard Shai Gilgeous-Alexander (2) drives past New Orleans Pelicans center Jonas Valanciunas, left, and forward Herbert Jones (5) in the first half of Game 1 of an NBA basketball first-round playoff series, Sunday, April 21, 2024, in Oklahoma City. (AP Photo\/Kyle Phillips)&quot;,&quot;created_timestamp&quot;:&quot;1713732241&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved.&quot;,&quot;focal_length&quot;:&quot;90&quot;,&quot;iso&quot;:&quot;2000&quot;,&quot;shutter_speed&quot;:&quot;0.001&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Shai Gilgeous" data-image-description="" data-image-caption="&lt;p&gt;Oklahoma City Thunder guard Shai Gilgeous-Alexander (2) drives past New Orleans Pelicans center Jonas Valanciunas, left, and forward Herbert Jones (5) in the first half of Game 1 of an NBA basketball first-round playoff series, Sunday, April 21, 2024, in Oklahoma City. (AP Photo/Kyle Phillips)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Shai-Gilgeous.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Shai-Gilgeous.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By CLIFF BRUNT AP Sports Writer OKLAHOMA CITY (AP) — Hours after the NBA announced Shai Gilgeous-Alexander was selected as a finalist for the league’s Most Valuable Player award, Oklahoma City&#8217;s All-Star guard showed why. Gilgeous-Alexander scored 28 points, including the go-ahead basket in the final minute, and the top-seeded Thunder edged the New Orleans [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/shai-gilgeous-alexander-scores-28-points-as-top-seeded-thunder-edge-pelicans-94-92-in-game-1/">Shai Gilgeous-Alexander scores 28 points as top-seeded Thunder edge Pelicans 94-92 in Game 1</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/shai-gilgeous-alexander-scores-28-points-as-top-seeded-thunder-edge-pelicans-94-92-in-game-1/>
+
+---
+
+## Josh Naylor’s 3 RBIs sends Guardians to 6-2 win, sweep of A’s and continues best start since 1999
+
+date: 2024-04-23, from: Island Times
+
+<figure><img width="683" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Josh-Naylor.jpg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Josh-Naylor.jpg?w=683&amp;ssl=1 683w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Josh-Naylor.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Josh-Naylor.jpg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Josh-Naylor.jpg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69813" data-permalink="https://islandtimes.org/josh-naylors-3-rbis-sends-guardians-to-6-2-win-sweep-of-as-and-continues-best-start-since-1999/josh-naylor/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Josh-Naylor.jpg?fit=683%2C1024&amp;ssl=1" data-orig-size="683,1024" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;Nick Cammett&quot;,&quot;camera&quot;:&quot;NIKON Z 9&quot;,&quot;caption&quot;:&quot;Cleveland Guardians&#039; Josh Naylor starts to run out a three-run double during the seventh inning of a baseball game against the Oakland Athletics, Sunday, April 21, 2024, in Cleveland. (AP Photo\/Nick Cammett)&quot;,&quot;created_timestamp&quot;:&quot;1713714862&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All Rights Reserved.&quot;,&quot;focal_length&quot;:&quot;400&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.00025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Josh Naylor" data-image-description="" data-image-caption="&lt;p&gt;Cleveland Guardians&#8217; Josh Naylor starts to run out a three-run double during the seventh inning of a baseball game against the Oakland Athletics, Sunday, April 21, 2024, in Cleveland. (AP Photo/Nick Cammett)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Josh-Naylor.jpg?fit=200%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Josh-Naylor.jpg?fit=683%2C1024&amp;ssl=1" /></figure>
+<p>By TOM WITHERS AP Sports Writer CLEVELAND (AP) — Josh Naylor delivered a clutch, three-run double in the seventh inning as the Guardians continued their best start in 25 years with a 6-2 win over the Oakland Athletics on Sunday to complete a three-game sweep. With the Guardians up 3-2, Naylor, who celebrated a two-run [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/josh-naylors-3-rbis-sends-guardians-to-6-2-win-sweep-of-as-and-continues-best-start-since-1999/">Josh Naylor&#8217;s 3 RBIs sends Guardians to 6-2 win, sweep of A&#8217;s and continues best start since 1999</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/josh-naylors-3-rbis-sends-guardians-to-6-2-win-sweep-of-as-and-continues-best-start-since-1999/>
+
+---
+
+## Bethea earns 2nd Big West Player of the week honors
+
+date: 2024-04-23, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Mya’Liah Bethea slugged a team best 1.667 in a three-game conference against <abbr>CSU</abbr>, Bakersfield.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/22/bethea-2nd-big-west-player/">Bethea earns 2nd Big West Player of the week honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/22/bethea-2nd-big-west-player/>
+
+---
+
+## USP MBA programme ranked fourth in Oceania
+
+date: 2024-04-23, from: University of the South Pacific (Fiji)
+
+<p>The endeavours of the Master of Business Administration (MBA) programme at The University of the...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-mba-programme-ranked-fourth-in-oceania/">USP MBA programme ranked fourth in Oceania</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-mba-programme-ranked-fourth-in-oceania/>
+
+---
+
+## From classroom to nation’s capital: UH grad, diplomat’s journey
+
+date: 2024-04-23, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> The Thomas R. Pickering Foreign Affairs Fellowship includes funds for tuition and living expenses, and a five-year position as a public diplomacy officer with the U.S. Department of State.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/22/classroom-nations-capital-monica-orillo/">From classroom to nation’s capital: <abbr>UH</abbr> grad, diplomat’s journey</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/22/classroom-nations-capital-monica-orillo/>
+
+---
+
+## 3 tennis Vulcans sweep All-PacWest team honors
+
+date: 2024-04-23, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Ryo Minakata, Cian McDonnell, Lamar Bartley recognized for their excellence on the court.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/22/3-tennis-vulcans-pacwest-honors/">3 tennis Vulcans sweep All-PacWest team honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/22/3-tennis-vulcans-pacwest-honors/>
+
+---
+
+## UH Hilo golfer Saludares secures PacWest title
+
+date: 2024-04-23, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Saludares finishes with scores of 71 and 72 to finish at +4.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/22/saludares-secures-pacwest-title/"><abbr>UH</abbr> Hilo golfer Saludares secures PacWest title</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/22/saludares-secures-pacwest-title/>
+
+---
+
+## DOC director: escaped detainee captured
+
+date: 2024-04-23, from: Guam Daily Post
+
+An escaped detainee has been captured, according to Department of Corrections Director Fred Bordallo Jr. 
+
+<https://www.postguam.com/news/doc-director-escaped-detainee-captured/article_95392602-0103-11ef-8368-7f43b4f78ce6.html>
+
+---
+
+## Detainee escapes on Tuesday morning; DOC, GPD conducting search
+
+date: 2024-04-22, from: Guam Daily Post
+
+Law enforcement is actively searching for a Department of Corrections detainee who was unaccounted for on Tuesday morning. 
+
+<https://www.postguam.com/news/detainee-escapes-on-tuesday-morning-doc-gpd-conducting-search/article_11c8c406-00fb-11ef-863f-ebdba6e0869d.html>
 
 ---
 
@@ -41,7 +840,7 @@ by Kristian Sean O&#8217;Hare Headline taken from Smithsonian Magazine, May 2022
 
 ---
 
-## Saipan casino buried in $165M debt but hoping to regroup and resume business
+## Hanging by a thread: Saipan casino buried in $165M debt but still hoping to regroup and resume business
 
 date: 2024-04-22, from: Pacific Island Times
 
@@ -351,6 +1150,30 @@ date: 2024-04-22, from: Hawaii Tribune Harold
 
 ---
 
+## DOH shuts down Waikoloa restaurant due to rat infestation
+
+date: 2024-04-22, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health issued a red &#8220;Closed&#8221; placard and immediately shut down Ocean Club at Hali&#8216;i Kai on Friday due to an active rodent infestation, contaminated food products and unsanitary conditions within the facility.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/22/hawaii-news/doh-shuts-down-waikoloa-restaurant-due-to-rat-infestation-2/>
+
+---
+
+## DOH shuts down Waikoloa restaurant due to rat infestation
+
+date: 2024-04-22, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health issued a red &#8220;Closed&#8221; placard and immediately shut down Ocean Club at Hali&#699;i Kai on Friday due to an active rodent infestation, contaminated food products and unsanitary conditions within the facility.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/22/hawaii-news/doh-shuts-down-waikoloa-restaurant-due-to-rat-infestation/>
+
+---
+
 ## As protests grow in New Caledonia, Australia backs France’s Indo-Pacific Strategy
 
 date: 2024-04-22, from: Pacific Island Times
@@ -438,6 +1261,16 @@ date: 2024-04-22, from: Guam Daily Post
 Heading out to the beach? The Don Don Donki Village of Donki has your needs covered. Need fresh fruits and vegetables? The Village of Donki has got that covered too. With an assortment of Japanese and American products, it’s a… 
 
 <https://www.postguam.com/news/local/sneak-peak-of-village-of-donki-amazes/article_40bad4f4-0063-11ef-bd12-83bbe9cc0efd.html>
+
+---
+
+## Camacho says her resignation a result of ‘political pressure’
+
+date: 2024-04-22, from: Guam Daily Post
+
+Joann Camacho told The Guam Daily Post on Monday that her resignation as deputy superintendent of finance and administrative services for the Guam Department of Education was a result of “political pressure” placed on the department’s chief. 
+
+<https://www.postguam.com/news/local/camacho-says-her-resignation-a-result-of-political-pressure/article_4e5be702-0080-11ef-aefd-bb98b6c14a47.html>
 
 ---
 
