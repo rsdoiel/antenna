@@ -1,11 +1,287 @@
 ---
 title: tech likely 2024.17
-updated: 2024-04-23 09:49:41
+updated: 2024-04-24 07:36:07
 ---
 
 # tech likely 2024.17
 
-(date: 2024-04-23 09:49:41)
+(date: 2024-04-24 07:36:07)
+
+---
+
+## JSR Is Not Another Package Manager
+
+date: 2024-04-24, updated: 2024-04-24, from: Deno blog
+
+JSR introduces a new way to share JavaScript and TypeScript code across platforms, focusing on simplifying distribution without replacing existing package managers. 
+
+<https://deno.com/blog/jsr-is-not-another-package-manager>
+
+---
+
+## Ecologists Struggle to Get a Grip on ‘Keystone Species’
+
+date: 2024-04-24, from: Quanta Magazine
+
+More than 50 years after Bob Paine’s experiment with starfish, hundreds of species have been pronounced “keystones” in their ecosystems. Has the powerful metaphor lost its mathematical meaning?            <p>The post <a href="https://www.quantamagazine.org/ecologists-struggle-to-get-a-grip-on-keystone-species-20240424/" target="_blank">Ecologists Struggle to Get a Grip on ‘Keystone Species’</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/ecologists-struggle-to-get-a-grip-on-keystone-species-20240424/>
+
+---
+
+## No Need to Fact-Check This
+
+date: 2024-04-24, updated: 2024-04-24, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/04/24/no-need-to-fact-check-this/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-24, from: Dave Winer's Scripting News)
+
+When I started working with Automattic last year, one of the big milestones we were aiming for was getting FeedLand and WordPress working together. Now we have <a href="http://scripting.com/2024/04/24/132025.html?title=feedlandAndWordpress">the first step</a>. I hope you take a moment to give it a try and let us know how it works. Scripting News readers have helped bootstrap all kinds of cool stuff, we can do it again. 
+
+<http://scripting.com/2024/04/24.html#a141352>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-24, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@jay_gilmore/post/C6JBZ-SuGXi">Jay Gilmore</a>: "ActivityPub breaks my brain. It doesn’t need to be that hard given the payloads we are talking about." True. 
+
+<http://scripting.com/2024/04/24.html#a140452>
+
+---
+
+##  Two men swapped at birth – one Indigenous, one white – finally... 
+
+date: 2024-04-24, updated: 2024-04-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044406-two-men-swapped-at-birth>
+
+---
+
+## FeedLand and WordPress
+
+date: 2024-04-24, from: Dave Winer's Scripting News
+
+<p>There's a <a href="https://github.com/a8cteam51/feedland-blogroll">new plugin</a> that adds a <a href="https://blogroll.social/">blogroll</a> to a WordPress site. </p>
+<p>It would be helpful if people who are regular readers of Scripting News who use WordPress, set up a test site, give it a try and let us know how it goes. You can help us get to the next level with this stuff. </p>
+<p>So there are two sides, the FeedLand side and the WordPress side.</p>
+<ul>
+<li><b>The FeedLand side</b>. <a href="https://feedland.com/?signonscreen=true">Sign on</a> to FeedLand, create an account if you don't have one, and subscribe to a bunch of feeds. These will be the feeds in your blogroll.  There are some tips on how to find feeds, in the <a href="http://scripting.com/2024/04/24/132025.html#a134443">next section</a>.</li>
+<li><b>The WordPress side</b>. There's a <a href="https://github.com/a8cteam51/feedland-blogroll">new plugin</a>, developed by the people at the Team51 group at Automattic. They have a <a href="https://github.com/a8cteam51/feedland-blogroll/blob/trunk/README.md">checklist</a> for how to install the plugin in a WordPress site. </li>
+</ul>
+<p>If you have questions or comments, or need help getting it working, post a note in the <a href="">discussion group</a> here. </p>
+<p>You can get ideas for feeds for your blogroll from reading other people's feed lists. When you see a checkbox that isn't checked, you can subscribe to the feed simply by checking the box. </p>
+<p>Have a look at <a href="https://feedland.com/?username=davewiner">my feed list</a> for ideas. Here's a list of <a href="https://feedland.com/?userslist">recent users</a>, click on their names to see their feed lists. You don't have to finish this now, you can come back and tune this up anytime.</p>
+<p>Developers: Use <a href="https://github.com/scripting/feedlandBlogrollToolkit">feedlandBlogrollToolkit</a> to add blogrolls to other platforms. </p>
+ 
+
+<http://scripting.com/2024/04/24/132025.html?title=feedlandAndWordpress>
+
+---
+
+## How I tricked iOS into giving me EU DMA features
+
+date: 2024-04-24, from: OS News
+
+In iOS 17.4, Apple introduced a new system called eligibilityd. This works with countryd (which you might have heard about when it first appeared in iOS 16.2) and the Apple ID system to decide where you physically are. The idea is that multiple sources need to agree on where you are, before giving you access to features such as those mandated by the Digital Markets Act. ↫ Adam Demasi The way Adam Demasi managed to convince Apple his very much Australian iPhone in Australia was, in fact, a European Union iPhone in the European Union was by making sure not a single wireless signal managed to escape the device. He had to disable location services, insert an Italian SIM, set up a pfSense Wi-Fi router using the regulatory country of Italy, and go into his basement where there&#8217;s no mobile signal. Between all these steps, the phone was reset multiple times. And then, and only then, did the iPhone think it was in the European Union, with all the benefits that entails. Demasi has no idea which of these steps are actually needed, but the process of figuring this all out is ongoing, and more information is sure to be discovered as smart people sink their teeth into the process by which Apple determines where an iPhone is from. 
+
+<https://www.osnews.com/story/139416/how-i-tricked-ios-into-giving-me-eu-dma-features/>
+
+---
+
+## NASA Glenn Interactive Exhibit Earns Gold
+
+date: 2024-04-24, from: NASA breaking news
+
+The Ohio Museums Association (OMA) presented NASA’s Glenn Research Center in Cleveland with two OMA 2023 Visual Communications Awards during its annual meeting in Sandusky, Ohio, on April 14. NASA Glenn and contractor Impact Inc. received the Gold Award (Level 2) and the Best in Show Award for the updated “Science in Space: Interactive International Space [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-interactive-exhibit-earns-gold/>
+
+---
+
+## NASA Participates in NCAA Women’s Championship Game
+
+date: 2024-04-24, from: NASA breaking news
+
+Just before tipoff at the live national broadcast of the NCAA Women’s Final Four Championship Game on April 7, 31 women scientists, engineers, and leaders from NASA stood at center court inside Rocket Mortgage FieldHouse in downtown Cleveland to hold a large American flag during the opening ceremony.  &#160;   &#160; The crowd cheered as  astronaut Jessica [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-participates-in-ncaa-womens-championship-game/>
+
+---
+
+## NASA Glenn Teams Up with Cleveland Monsters
+
+date: 2024-04-24, from: NASA breaking news
+
+NASA’s Glenn Research Center joined the Cleveland Monsters to celebrate their total solar eclipse-themed game against the Rochester Americans at the Rocket Mortgage FieldHouse in Cleveland on March 30. NASA Glenn staff were on hand to discuss the total solar eclipse and NASA’s presence at Great Lakes Science Center’s Total Eclipse Fest 2024, April 6-8. [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-teams-up-with-cleveland-monsters/>
+
+---
+
+## NASA Glenn Joins Big Hoopla STEM Challenge
+
+date: 2024-04-24, from: NASA breaking news
+
+NASA’s Glenn Research Center in Cleveland joined in the adventure of the Big Hoopla STEM Challenge held at the Dayton Convention Center on March 17. The free family event for kids (K-8) tied together the excitement of college basketball and the power of STEM education. NASA Glenn Deputy Center Director Dawn Schaible participated in the [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-joins-big-hoopla-stem-challenge/>
+
+---
+
+## NASA Mentors, Students Rock FIRST Buckeye Regional
+
+date: 2024-04-24, from: NASA breaking news
+
+NASA’s Glenn Research Center in Cleveland supported the 25th annual FIRST Robotics Buckeye Regional Competition, March 20 to 23, at Cleveland State University’s Wolstein Center. Fifty-five teams of high school students competed in the robotics competition, which aims to inspire young people to be science and technology leaders and innovators by engaging them in mentor-based [&#8230;] 
+
+<https://www.nasa.gov/general/nasa-mentors-students-rock-first-buckeye-regional/>
+
+---
+
+## Cleveland School Students Learn About STEM Careers
+
+date: 2024-04-24, from: NASA breaking news
+
+NASA’s Glenn Research Center in Cleveland opened its doors to Cleveland Metropolitan School District (CMSD) students to explore various Science, Technology, Engineering, and Mathematics (STEM) careers. &#160; &#160; NASA Glenn’s Office of STEM Engagement invited high school students onsite to explore center facilities and talk to NASA experts during NASA Career Exploration Day. Students learned about NASA [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/cleveland-school-students-learn-about-stem-careers/>
+
+---
+
+**@Ayjay blog** (date: 2024-04-24, from: Ayjay blog)
+
+Matt Crawford, on Substack: Probing his riding companions, Robert [Pirsig, in Zen and the Art of Motorcycle Maintenance] comes to understand that John and Sylvia’s attitude of non-involvement with “technology” is emblematic of a wider phenomenon that was then emerging, a countercultural sensibility that seeks escape from the Man and all his works: “the whole [&#8230;] 
+
+<https://blog.ayjay.org/46116-2/>
+
+---
+
+## Civil War (the movie) is a blunt object. 
+
+date: 2024-04-24, from: Dave Karpf's blog
+
+And the bluntness is the point. 
+
+<https://davekarpf.substack.com/p/civil-war-the-movie-is-a-blunt-object>
+
+---
+
+## A load of cobblers
+
+date: 2024-04-24, from: Status-Q blog
+
+The Dutch, I gather, don&#8217;t have a specific word for &#8216;pothole&#8217; because, well, they don&#8217;t need one. Having just returned from a two-week campervan tour there, I don&#8217;t think I saw a single one. I knew I was back in Blighty yesterday evening, though, when I had to swerve to avoid them before I even <a class="more-link excerpt-link" href="https://statusq.org/archives/2024/04/24/12023/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<https://statusq.org/archives/2024/04/24/12023/>
+
+---
+
+## 2024-04-24 Micro-blogs
+
+date: 2024-04-24, from: Alex Schroeder's Blog
+
+<h1 id="2024-04-24-micro-blogs">2024-04-24 Micro-blogs</h1>
+
+<p>Recently, I jokingly replied to <a class="account" href="https://merveilles.town/@jameschip" title="@jameschip@merveilles.town">@jameschip</a> when he said &ldquo;maybe we need a new word for types of blogs that have comments and federation&rdquo; that we should have kept the word micro-blogs. Regular blogs, with a character limit.</p>
+
+<p>Then again, micro-blogs in that sense, from Identi.ca to GNU Social, Twitter, Facebook, Google+ and the Fediverse now have a big plus: Notification actually works. If you mention another account, they get notified. If you get a reply, you get notified. It&rsquo;s glorious.</p>
+
+<p>For regular blogs, notification works with the oldest, universal, federated, communication medium online: email. Conversely, if you don&rsquo;t have email or don&rsquo;t do, you don&rsquo;t get notified and most likely you can&rsquo;t even comment. 😐</p>
+
+<p>I tried web-mentions and they didn&rsquo;t work I wanted them to. Far too few other blogs supported them, and for this blog, I didn&rsquo;t know what to do with them. I didn&rsquo;t want to send myself email so I turned them into comments, but mentions aren&rsquo;t as strong a signal as a comment. Mentions aren&rsquo;t public but comments are. Mentions don&rsquo;t need a strong connection to the main article but comments do. By turning mentions into comments, I had made a mistake and the result was frustrating. So <a href="2023-09-20-web-mentions-vs-referrals">I got rid of them</a>.</p>
+
+<p>And so here we are, it&rsquo;s 2024, and blogs still don&rsquo;t have good (spam-free) comments and notifications where as micro-blogs do. 😢</p>
+
+<p><a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Blogs">#Blogs</a> <a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p> 
+
+<https://alexschroeder.ch/view/2024-04-24-micro-blog>
+
+---
+
+## The opposite of pudding?
+
+date: 2024-04-24, from: Status-Q blog
+
+This cafe in Zutphen, Netherlands, is of my way of thinking&#8230; 
+
+<https://statusq.org/archives/2024/04/24/12020/>
+
+---
+
+## The problem with new URL(), and how URL.parse() fixes that
+
+date: 2024-04-24, from: Kilian Valkhof's blog
+
+<p>As someone building a browser I need to parse a lot of URLs. Partially to validate them, but also to normalize them or get specific parts out of the URL. The URL API in browsers lets you do that, but it&#8217;s ergonomics aren&#8217;t ideal. The problem with new URL() The &#8220;new&#8221; in front of new [&#8230;]</p>
+The post <a href="https://kilianvalkhof.com/2024/javascript/the-problem-with-new-url-and-how-url-parse-fixes-that/">The problem with new URL(), and how URL.parse() fixes that</a> first appeared on <a href="https://kilianvalkhof.com">Kilian Valkhof</a>. 
+
+<https://kilianvalkhof.com/2024/javascript/the-problem-with-new-url-and-how-url-parse-fixes-that/>
+
+---
+
+## Learning from our hybrid training programme for youth and community organisations
+
+date: 2024-04-24, from: Raspberry Pi (.org)
+
+<p>At the Raspberry Pi Foundation, we aim to democratise access to digital skills and technologies. One of the ways we do this is via partnerships with youth and community organisations that deliver frontline services to young people experiencing educational disadvantage. In 2023 we delivered a hybrid training programme to 14 youth organisations in the UK&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/learning-from-our-hybrid-training-programme-for-youth-and-community-organisations/">Learning from our hybrid training programme for youth and community organisations</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/learning-from-our-hybrid-training-programme-for-youth-and-community-organisations/>
+
+---
+
+## OpenBSD as a daily driver
+
+date: 2024-04-24, from: OS News
+
+I always like it when I can link to an article written by an OSNews, and this time it&#8217;s even relevant to me as I&#8217;m exploring OpenBSD myself. OSNews reader and silver Patreon supporter Morgan has written an article about using OpenBSD as a daily driver. OpenBSD is forever tied in first place with Void Linux as my favorite desktop OS. This is particularly funny because OpenBSD isn’t “just a desktop OS”; in its purest form, the base installation without any installed packages, it makes for an excellent Ethernet router, firewall, or web server. It even ships with its own fork of X11 called Xenocara, along with fvwm2 and its own calm window manager, so there’s a rudimentary desktop OS in there too. With that said, in 2024 there is no such thing as a fully functioning desktop computer or workstation without at least a web browser of some kind, and if you’re adding packages you may as well build a full desktop system to suit your needs. So how do you go from the amazing but unfortunately limited base install to a “daily driver” workstation operating system? There are many ways to do this, and I will present a couple of paths I take depending on the hardware and use case involved. Before I do that, a bit of prep is necessary to get OpenBSD into more of a desktop OS mode. ↫ Morgan I&#8217;ll be using this guide over the coming days to make sure I end up with something usable. I still haven&#8217;t decided on what desktop environment I want to go for &#8211; I&#8217;m not interested in running GNOME or KDE, so Xfce is probably the most likely option. I&#8217;d also love to try out LXQt, but it seems the version OpenBSD has in its repositories is very, very outdated (1.0.0 from years ago, when 2.0.0 was just released). There&#8217;s a small chance I might suck it up and use one of those &#8220;build your own desktop environment&#8221; options, but I have no idea which one I should go for. 
+
+<https://www.osnews.com/story/139413/openbsd-as-a-daily-driver/>
+
+---
+
+## Re: Growth is a mind cancer
+
+date: 2024-04-24, from: Manu - I write blog
+
+
+                <p>Yesterday I stumbled on an interesting article by <a href="https://www.wheresyoured.at">Ed Zitron</a> titled <em>"<a href="https://www.wheresyoured.at/the-men-who-killed-google/">The Man Who Killed Google Search</a>"</em> that is closely related to my recent post about the growth mentality.</p>
+<blockquote>
+<p>Raghavan is a hall-of-fame rot economist, and one of the many managerial types that have caused immeasurable damage to the Internet in the name of growth and “shareholder value." And I believe these uber-managers - these ultra-pencil-pushers and growth-hounds - are the forces destroying tech's ability to innovate.</p>
+</blockquote>
+<p>If you're interested in the subject and want to get some insights into how the pursuit of growth can be bad give it a read.</p>                <hr>
+                <h2>Get in touch</h2>                <p>Have something to share? Want me as your <a href="https://manuelmoreale.com/i-ll-read-it">first reader</a>? Get in touch. My inbox is always open.</p>                <a href="mailto:hello@manuelmoreale.com">Connect</a> — 
+                <a href="https://manuelmoreale.com/guestbook">Guestbook</a>
+                <hr>
+                <h2>One a month</h2>                <p>That's how little it takes to help with my <a href="https://manuelmoreale.com/on-dreams-and-goals">goal</a>. If you feel generous, consider supporting what I do.</p>                <a href="https://ko-fi.com/manuelmoreale">Donate</a> — 
+                <a href="https://manuelmoreale.com/supporters">Supporters</a>
+                <hr>
+                <h2>People and Blogs</h2>                <p>I ask people to talk about themselves and their blogs. <a href="https://peopleandblogs.com/">Learn more</a> or subscribe.</p>                <a href="https://manuelmoreale.com/feed/peopleandblogs">RSS</a> — 
+                <a href="https://buttondown.email/peopleandblogs">Email</a>
+             
+
+<https://manuelmoreale.com/@/page/HEl59SPtqsFLejy0>
+
+---
+
+## New memory variants for the Raspberry Pi Compute Module family
+
+date: 2024-04-24, from: Raspberry Pi News (.com)
+
+<p>Our Compute Module 4S industrial boards are now available in 1GB, 2GB, 4GB, and 8GB SDRAM variants.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/new-memory-variants-for-the-raspberry-pi-compute-module-family/">New memory variants for the Raspberry Pi Compute Module family</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/new-memory-variants-for-the-raspberry-pi-compute-module-family/>
 
 ---
 
@@ -71,6 +347,254 @@ other platforms and languages are left as an exercise to the reader).</p>
 
 ---
 
+## rational choices
+
+date: 2024-04-24, from: Ayjay blog
+
+The race is not always to the swift, nor the battle to the strong; but that is the way to bet.  — Hugh E. Keogh  There’s too much to read, right? Especially contemporary fiction. Too many choices. You have to develop a strategy of selection, a method of triage. I will always read more old [&#8230;] 
+
+<https://blog.ayjay.org/rational-choices/>
+
+---
+
+## The future of SQL: conversational hands-on problem solving
+
+date: 2024-04-24, from: John Udell blog
+
+Here&#8217;s the latest installment in the series on working with LLMS: https://thenewstack.io/the-future-of-sql-conversational-hands-on-problem-solving/ I keep returning to the theme of choral explanations (#4 on my list of best practices), and it&#8217;s especially relevant in the SQL domain where there are just so many ways to write a query. Exploring the range of possibilities used to be &#8230; <a href="https://blog.jonudell.net/2024/04/23/the-future-of-sql-conversational-hands-on-problem-solving/" class="more-link">Continue reading <span class="screen-reader-text">The future of SQL: conversational hands-on problem solving</span></a> 
+
+<https://blog.jonudell.net/2024/04/23/the-future-of-sql-conversational-hands-on-problem-solving/>
+
+---
+
+## PGDay UK 2024, September 11th, London, England
+
+date: 2024-04-24, from: PostgreSQL News
+
+<p>PGDay UK 2024 will take place in London on September 11th at the Cavendish Conference Centre, London, UK.</p>
+<p>Our Call for Papers and Call for Sponsors are now open.</p>
+<p>We are accepting proposals for talks in English. Each session will last 50 minutes, and may be on any topic related to PostgreSQL. The submission deadline is 9th June 2024 23:59:59 BST. Selected speakers will be notified on or before July 1st, 2024. Please submit your proposals here:</p>
+<p><a href="https://2024.pgday.uk/call-for-papers/">https://2024.pgday.uk/call-for-papers/</a></p>
+<p>The proposals will be considered by a committee who will produce a schedule to be published nearer the conference date. The members of the committee are listed on the website linked above. All selected speakers will get free entry to the conference.</p>
+<p>Our Call for Sponsors is also open. Take your chance to present your services or products to the PostgreSQL community - or see it as a give-back opportunity. The benefactor sponsorship level also includes a free entrance ticket. Please head to:</p>
+<p><a href="https://2024.pgday.uk/become-sponsor/">https://2024.pgday.uk/become-sponsor/</a> for more details.</p>
+<p>As usual, if you have any questions, don't hesitate to contact us at <a href="mailto:contact@pgday.uk">contact@pgday.uk</a>.</p>
+<p>We look forward to seeing you in London on September the 11th!</p>
+<p><em>PGDay UK 2024 is a <a href="https://www.postgresql.eu/">PostgreSQL Europe</a> event run according to the <a href="https://www.postgresql.org/about/policies/conferences/">PostgreSQL Community Conference Recognition programme</a>. Local logistics and other services are provided by Slonik Enterprises Ltd. on a not-for-profit basis.</em></p> 
+
+<https://www.postgresql.org/about/news/pgday-uk-2024-september-11th-london-england-2847/>
+
+---
+
+## Logitech adds ChatGPT to its computer mice
+
+date: 2024-04-23, from: OS News
+
+Did you know there&#8217;s one surefire way to know when a technology has truly jumped the shark? When they start adding it to computer mice. In today&#8217;s fast-paced, technology-enabled world, everyone is learning to work differently with breakthroughs in Generative AI. Mastering prompt building enhances your efficiency and creativity. That&#8217;s why we developed the Logi AI Prompt Builder, a time and click-saving solution. Rephrase, summarize, and create custom-made prompt recipes with ChatGPT faster, with virtually no disruption to your workflow. ↫ Logitech&#8217;s &#8220;AI&#8221; thing page Logitech mice users were surprised to find out that after the latest mouse software update, it now contains an &#8220;AI&#8221; prompt builder tool, so that you can click anywhere and have a little pop-up appear that taps into ChatGPT. I&#8217;m done. 
+
+<https://www.osnews.com/story/139409/logitech-adds-chatgpt-to-its-computer-mice/>
+
+---
+
+## The man who killed Google Search
+
+date: 2024-04-23, from: OS News
+
+These emails — which I encourage you to look up — tell a dramatic story about how Google’s finance and advertising teams, led by Raghavan with the blessing of CEO Sundar Pichai, actively worked to make Google worse to make the company more money. This is what I mean when I talk about the Rot Economy — the illogical, product-destroying mindset that turns the products you love into torturous, frustrating quasi-tools that require you to fight the company’s intentions to get the service you want. ↫ Edward Zitron Quite the read. 
+
+<https://www.osnews.com/story/139407/the-man-who-killed-google-search/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-04-23, from: Miguel de Icaza Mastondon feed)
+
+<p>I have now been shadow-banned on Twitter for the fourth time over my support for Palestinians under attack.</p><p>It is still an important forum to spread news, hence why I am still spreading important news there.</p><p>I am not sure that I reach a lot of uninformed in here as I do there, but I will bring some toots here.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112322929726181907>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-04-23, from: Miguel de Icaza Mastondon feed)
+
+<p>The Yak Shaving never ends, Godot on iPad edition.</p><p>As more code is rewritten for native code, I figured &quot;Maybe I should also redo the documentation renderer to use WebKit&quot;.</p><p>I drew inspiration from DocC (I would have taken the whole stylesheet, but that looks like too much work):</p> 
+
+<https://mastodon.social/@Migueldeicaza/112322851452681799>
+
+---
+
+##  Designer/creative Connell McCarthy: &#8220;I got married and over-engineered everything.&#8221; He obviously designed... 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044470-designercreative-connell->
+
+---
+
+## The AMW Origin Story, and Beyond
+
+date: 2024-04-23, from: Asilomar Microcomputer Workshop News
+
+AMW has been held annually at the Asilomar Conference Grounds since 1975. The 2024 workshop will be its 50th annual gathering. This Origin Story draws heavily from the late Ted Laliotis, one of AMW&#8217;s founders. Direct questions to Brian Berg at b.berg@ieee.org. 
+
+<https://amw.org/the-amw-origin-story-and-beyond/>
+
+---
+
+##  Cool Art: Naja Tepe&#8217;s Pottery 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/naja-tepe-pottery>
+
+---
+
+##  Okay, here&#8217;s a toy car for actually cleaning floors. You load it... 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044466-okay-heres-a-kids-toy>
+
+---
+
+## Elegant Concurrency Operations in Core Data
+
+date: 2024-04-23, from: Michael Tsai
+
+Fatbobman (Mastodon): This article aims to explore how to introduce elegant and safe concurrency operations similar to those of SwiftData into Core Data, implementing a Core Data version of @ModelActor. [&#8230;] Following the fundamental principles of Core Data concurrency operations, all operations on managed objects must be performed on the thread of their owning context. [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/23/elegant-concurrency-operations-in-core-data/>
+
+---
+
+## Charles Edge, RIP
+
+date: 2024-04-23, from: Michael Tsai
+
+Adam Engst: News started to spread this morning on the MacAdmins Slack, Rich Trouton&#8217;s Der Flounder blog, and Tom Bridge&#8217;s site about how our friend and Take Control author Charles Edge died suddenly and unexpectedly on 19 April 2024. He was in his late 40s, and yes, his standard bio picture below gives you a [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/23/charles-edge-rip/>
+
+---
+
+## Fairphone Fairbuds
+
+date: 2024-04-23, from: Michael Tsai
+
+Samuel Gibbs: Fairphone, the repairable and ethical electronics pioneer, is back with a pair of some of the first Bluetooth earbuds to make it so easy and cheap to replace their batteries that you can do it at home in minutes. [&#8230;] The earbuds have a little door hidden behind a silicone sleeve, which opens [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/23/fairphone-fairbuds/>
+
+---
+
+## Porting a cross-platform GUI application to Rust
+
+date: 2024-04-23, from: Mozilla Developer Network blog
+
+<p>In this blog post, we delve into the motivations for choosing Rust for our crash reporter, outline the unique challenges of designing an application that operates when the main browser has failed, and discuss the new architecture we've implemented. We also share insights into the technical nuances of the implementation, demonstrating how Rust's features are leveraged to handle crashes more effectively and securely.</p>
+<p>The post <a href="https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/">Porting a cross-platform GUI application to Rust</a> appeared first on <a href="https://hacks.mozilla.org">Mozilla Hacks - the Web developer blog</a>.</p>
+ 
+
+<https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/>
+
+---
+
+## NASA Wins 6 Webby Awards, 8 Webby People’s Voice Awards
+
+date: 2024-04-23, from: NASA breaking news
+
+NASA’s broad reach across digital platforms has been recognized by the International Academy of Digital Arts and Sciences (IADAS), which awarded NASA 6 Webbys in the 28th Annual Webby Awards. Editor’s Note: This article has been updated to add Hubble’s Inside the Image to the list of Webby Award wins. NASA was recognized today by [&#8230;] 
+
+<https://www.nasa.gov/general/nasa-wins-6-webby-awards-7-webby-peoples-voice-awards/>
+
+---
+
+##  Music for Programming, a collection of &#8220;the most compelling music for sustained... 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044465-music-for-programming-a-c>
+
+---
+
+## Sols 4164-4165: What’s Around the Ridge-bend?
+
+date: 2024-04-23, from: NASA breaking news
+
+Earth planning date: Monday, April 22, 2024   Curiosity succeeded on a ~14 m drive along a bend in upper Gediz Vallis ridge (uGVR) to park next to “Pinnacle Ridge,” an outcrop of uGVR to the north. Benefitting from a surplus in power, Curiosity’s already substantial targeted science block was extended to 2 hours. This […] 
+
+<https://science.nasa.gov/missions/mars-science-laboratory/sols-4164-4165-whats-around-the-ridge-bend/>
+
+---
+
+## First NASA Mars Analog Crew Nears End of Mission
+
+date: 2024-04-23, from: NASA breaking news
+
+The first crew to take part in a yearlong NASA Mars analog mission reached the 300-day mark of its mission on April 20. The team of four volunteers entered the CHAPEA (Crew Health and Performance Exploration Analog) habitat at NASA’s Johnson Space Center in Houston on June 25, 2023, and is expected to complete the [&#8230;] 
+
+<https://www.nasa.gov/missions/analog-field-testing/chapea/first-nasa-mars-analog-crew-nears-end-of-mission/>
+
+---
+
+## Fedora 40 released with KDE Plasma 6 and GNOME 46
+
+date: 2024-04-23, from: OS News
+
+It&#8217;s a big day for Fedora users such as myself &#8211; and especially for Fedora KDE users, also such as myself. Fedora 40 has been released today, and while the main focus is always on the GNOME release &#8211; although not everyone is happy about that &#8211; the various other spins, in Fedora parlance, have also seen major updates. Most prominently among them is the KDE spin, which ships with KDE&#8217;s recent megarelease, KDE Plasma 6. Starting at the top, Fedora 40 Workstation comes with the latest GNOME release, 46, which we covered when it was released earlier this year. It also comes with IPV4 Address Conflict Detection to resolve duplicate IPV4 addresses in the same physical network, and the PyTorch machine learning framework is now in the Fedora software repositories for easier installation and implementation by developers &#8211; a harbinger of what&#8217;s to come. The KDE spin comes, as already mentioned, with KDE Plasma 6, and inherits the non-GNOME improvements and fixes as well, of course. There&#8217;s also countless other spins covering pretty much every desktop environment and window manager under the sun, and Fedora 40 is also the first release to implement the new naming scheme for Fedora&#8217;s various immutable editions &#8211; the Atomic Desktops. 
+
+<https://www.osnews.com/story/139405/fedora-40-released-with-kde-plasma-6-and-gnome-46/>
+
+---
+
+## Short note re Progress and NuSphere
+
+date: 2024-04-23, from: Ocelot SQL GUI blog
+
+Progress Software on April 19 said more about &#8220;considering&#8221; an offer for MariaDB plc (the company not the foundation). They own NuSphere which had a dispute with MySQL AB which was settled in 2002. My happy history as a MySQL employee biases me but I thought that NuSphere was not acting angelically. I think it&#8230; <a class="continue" href="https://ocelot.ca/blog/blog/2024/04/23/short-note-re-progress-and-nusphere/">Continue Reading Short note re Progress and NuSphere</a> 
+
+<https://ocelot.ca/blog/blog/2024/04/23/short-note-re-progress-and-nusphere/>
+
+---
+
+##  Fascinated by this &#8220;WTF Notebook&#8221; post because 1) it&#8217;s a really good... 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044440-fascinated-by-this-wtf-no>
+
+---
+
+## NASA’s CloudSat Ends Mission Peering Into the Heart of Clouds
+
+date: 2024-04-23, from: NASA breaking news
+
+Over the course of nearly two decades, its powerful radar provided never-before-seen details of clouds and helped advance global weather and climate predictions. CloudSat, a NASA mission that peered into hurricanes, tallied global snowfall rates, and achieved other weather and climate firsts, has ended its operations. Originally proposed as a 22-month mission, the spacecraft was [&#8230;] 
+
+<https://www.nasa.gov/missions/cloudsat/nasas-cloudsat-ends-mission-peering-into-the-heart-of-clouds/>
+
+---
+
+## Miracle-WM tiling window manager for Mir hits 0.2.0
+
+date: 2024-04-23, updated: 2024-04-23, from: Liam Proven's articles at the Register
+
+<h4>What are Mir and Wayland all about anyway?</h4>
+      <p>Mir-based tiling window manager Miracle-WM version 0.2.0 is here, building on the basis of the initial release. Will Mir bring peace and harmony and convergence after all?</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/04/23/miracle_wm_020/>
+
+---
+
 ##  Mountain Bike Advice? 
 
 date: 2024-04-23, updated: 2024-04-23, from: Jason Kottke blog
@@ -83,7 +607,7 @@ date: 2024-04-23, updated: 2024-04-23, from: Jason Kottke blog
 
 **@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
 
-I don't have time to write about it but the end of last night's Knicks game was one of the most dramatic bits of NY sports ever. I would like to <a href="https://www.reddit.com/r/nba/comments/dern8c/kevin_durant_explains_why_free_agents_wont_join/">thank Kevin Durant</a> for saying the Knicks weren't cool. It's somewhat like the <a href="https://en.wikipedia.org/wiki/Streisand_effect">Streisand Effect</a> where the thing KD was trying to hide was that <i>he</i> was no longer cool. Classic case of projection. I'd love to hear what he says now. Obviously he was not the hot shit he thought he was in 2019. <span class="spOldSchoolEmoji">😄</span> 
+I don't have time to write about it now but the end of last night's Knicks game was one of the <a href="https://www.youtube.com/watch?v=7VUvcuHwgtw">most dramatic bits</a> of NY sports ever. I would like to <a href="https://www.reddit.com/r/nba/comments/dern8c/kevin_durant_explains_why_free_agents_wont_join/">thank Kevin Durant</a> for saying the Knicks weren't cool. It's somewhat like the <a href="https://en.wikipedia.org/wiki/Streisand_effect">Streisand Effect</a> where the thing KD was trying to hide was that <i>he</i> was no longer cool. Classic <a href="https://www.psychologytoday.com/us/basics/projection">projection</a>. Obviously he was not the hot shit he thought he was in 2019. <span class="spOldSchoolEmoji">😄</span> 
 
 <http://scripting.com/2024/04/23.html#a161806>
 
@@ -91,7 +615,7 @@ I don't have time to write about it but the end of last night's Knicks game was 
 
 **@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2021/06/26/baseballScene.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I have big ideas for the blogging world. I'd like to combine AI and search to make a really great search engine for bloggers. We would contribute what we know (we already do) and in return, along with everyone else, get to benefit from the collection. And when we browse, it knows which blog we write. So it has a very good idea of what we mean when we ask a question and what we already know. This is totally missing in ChatGPT and is something Google and other search engines have never been willing to do (or even understood, I guess). But this is a huge idea. I'd like to give it <a href="https://feedland.social/opml?screenname=davewiner&catname=blogroll">my blogroll</a> too, so it knows which sources I consider credible. I love that it creates an incentive to post to your blog, and it makes <a href="http://scripting.com/2024/04/16/140810.html?title=workingTogether">working together</a> automatic. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2021/06/26/baseballScene.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">A big idea for the blogging world. I'd like to combine AI and search to make a really great search engine for bloggers. We would contribute what we know (we already do) and in return, along with everyone else, get to benefit from the collection. And when we browse, <i>it knows which blog we write.</i> So it has a very good idea of what we mean when we ask a question and what we already know. This is totally missing in ChatGPT and is something Google and other search engines have never been willing to do (or even understood, I guess). But this is a huge idea. I'd like to give it <a href="https://feedland.social/opml?screenname=davewiner&catname=blogroll">my blogroll</a> too, so it knows which sources I consider credible. I love that it creates an incentive to post to your blog, and it makes <a href="http://scripting.com/2024/04/16/140810.html?title=workingTogether">working together</a> automatic. 
 
 <http://scripting.com/2024/04/23.html#a161338>
 
@@ -117,7 +641,7 @@ date: 2024-04-23, updated: 2024-04-23, from: Jason Kottke blog
 
 **@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
 
-<a href="https://twitter.com/davewiner/status/1782577146679976202">John Palfrey</a> as the mover behind <a href="https://www.macfound.org/press/article/press-forward-a-national-initiative-to-support-the-revitalization-of-local-news">Press Forward</a> will bring the <a href="http://scripting.com/2024/04/22.html#a132020">gospel</a> of EZ Pass for News on his "ongoing whistle-stop tour" of local news orgs. JP was my boss/rabbi when I was at Berkman, and is why we got so much done there. He ran air cover for what we did, the BloggerCons, giving RSS a home, podcasting, blogs for everyone, the people and democracy. Now he's doing it for the local news business. 
+<a href="https://twitter.com/davewiner/status/1782577146679976202">John Palfrey</a> as the mover behind <a href="https://www.macfound.org/press/article/press-forward-a-national-initiative-to-support-the-revitalization-of-local-news">Press Forward</a> will bring the <a href="http://scripting.com/2024/04/22.html#a132020">gospel</a> of <a href="https://www.google.com/search?q=site%3Ascripting.com+ez+pass+for+news">EZ Pass for News</a> on his "ongoing whistle-stop tour" of local news orgs. JP was my boss/rabbi when I was at Berkman, and is why we got so much done there. He ran air cover for what we did, the BloggerCons, giving RSS a home, podcasting, blogs for everyone, the people and democracy. Now he's doing it for the local news business. 
 
 <http://scripting.com/2024/04/23.html#a160607>
 
@@ -125,7 +649,7 @@ date: 2024-04-23, updated: 2024-04-23, from: Jason Kottke blog
 
 **@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
 
-The "largest open publishing network in the world" is the web. Ghost <a href="https://activitypub.ghost.org/">says</a> it's ActivityPub. Think bigger. 
+<a href="https://www.threads.net/@davew/post/C6GpymzrPu0">The</a> "largest open publishing network in the world" is the web. 
 
 <http://scripting.com/2024/04/23.html#a160340>
 
@@ -172,7 +696,7 @@ The post <a href="https://kilianvalkhof.com/2024/css-html/your-page-cant-change-
 
 ## Voyager 1 Is Back From the Dead
 
-date: 2024-04-23, updated: 2024-04-23, from: One Foot Tsunami
+date: 2024-04-23, updated: 2024-04-24, from: One Foot Tsunami
 
  
 
@@ -311,6 +835,16 @@ date: 2024-04-23, from: Alex Schroeder's Blog
 <p><a class="tag" href="/search/?q=%23Gopher">#Gopher</a></p> 
 
 <https://alexschroeder.ch/view/2024-04-22-gopher>
+
+---
+
+## ReplayWeb.page 2.0
+
+date: 2024-04-23, updated: 2024-04-23, from: Web Recorder
+
+We’re thrilled to announce the release of ReplayWeb.page, our embeddable browser-based web archive viewer. This release features updated branding, reorganized documentation, various UI improvements, experimental ad-blocking support, and a more robust codebase with TypeScript. 
+
+<https://webrecorder.net//2024/04/23/replaywebpage-2-0.html>
 
 ---
 

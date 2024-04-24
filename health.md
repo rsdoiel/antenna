@@ -1,11 +1,41 @@
 ---
 title: health 2024.17
-updated: 2024-04-23 09:49:41
+updated: 2024-04-24 07:36:07
 ---
 
 # health 2024.17
 
-(date: 2024-04-23 09:49:41)
+(date: 2024-04-24 07:36:07)
+
+---
+
+## Antimicrobial peptides in livestock: a review with a one health approach
+
+date: 2024-04-24, from: Frontiers in Cellular and Infection Microbiology
+
+Antimicrobial peptides (AMPs), often referred to as nature’s antibiotics, are ubiquitous in living organisms, spanning from bacteria to humans. Their potency, versatility, and unique mechanisms of action have garnered significant research attention. Unlike conventional antibiotics, peptides are biodegradable, adding to their appeal as potential candidates to address bacterial resistance in livestock farming—a challenge that has been under scrutiny for decades. This issue is complex and multifactorial, influenced by a variety of components. The World Health Organization (WHO) has proposed a comprehensive approach known as One Health, emphasizing the interconnectedness of human-animal-environment relationships in tackling such challenges. This review explores the application of AMPs in livestock farming and how they can mitigate the impact of this practice within the One Health framework. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1339285>
+
+---
+
+## A combination of GRA3, GRA6 and GRA7 peptides offer a useful tool for serotyping type II and III Toxoplasma gondii infections in sheep and pigs
+
+date: 2024-04-24, from: Frontiers in Cellular and Infection Microbiology
+
+The clinical consequences of toxoplasmosis are greatly dependent on the Toxoplasma gondii strain causing the infection. To better understand its epidemiology and design appropriate control strategies, it is important to determine the strain present in infected animals. Serotyping methods are based on the detection of antibodies that react against segments of antigenic proteins presenting strain-specific polymorphic variations, offering a cost-effective, sensitive, and non-invasive alternative to genotyping techniques. Herein, we evaluated the applicability of a panel of peptides previously characterized in mice and humans to serotype sheep and pigs. To this end, we used 51 serum samples from experimentally infected ewes (32 type II and 19 type III), 20 sheep samples from naturally infected sheep where the causative strain was genotyped (18 type II and 2 type III), and 40 serum samples from experimentally infected pigs (22 type II and 18 type III). Our ELISA test results showed that a combination of GRA peptide homologous pairs can discriminate infections caused by type II and III strains of T. gondii in sheep and pigs. Namely, the GRA3-I/III-43 vs. GRA3-II-43, GRA6-I/III-213 vs. GRA6-II-214 and GRA6-III-44 vs. GRA6-II-44 ratios showed a statistically significant predominance of the respective strain-type peptide in sheep, while in pigs, in addition to these three peptide pairs, GRA7-II-224 vs. GRA7-III-224 also showed promising results. Notably, the GRA6-44 pair, which was previously deemed inefficient in mice and humans, showed a high prediction capacity, especially in sheep. By contrast, GRA5-38 peptides failed to correctly predict the strain type in most sheep and pig samples, underpinning the notion that individual standardization is needed for each animal species. Finally, we recommend analyzing for each animal at least 2 samples taken at different time points to confirm the obtained results. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1384393>
+
+---
+
+## Integrating environmental conservation and public health strategies to combat zoonotic disease emergence: a call to action from the Amazon rainforest
+
+date: 2024-04-24, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1405472>
 
 ---
 

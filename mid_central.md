@@ -1,11 +1,53 @@
 ---
 title: mid central 2024.17
-updated: 2024-04-23 09:49:41
+updated: 2024-04-24 07:36:07
 ---
 
 # mid central 2024.17
 
-(date: 2024-04-23 09:49:41)
+(date: 2024-04-24 07:36:07)
+
+---
+
+## Sidereal time versus solar time
+
+date: 2024-04-24, from: EDN Blog
+
+<img width="305" height="285" src="https://www.edn.com/wp-content/uploads/Sidereal-1.png?fit=305%2C285" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Sidereal-1.png?w=305 305w, https://www.edn.com/wp-content/uploads/Sidereal-1.png?w=300 300w" sizes="(max-width: 305px) 100vw, 305px" /><p>Understanding the difference in time-keeping when we use sidereal days instead of solar days. </p>
+<p>The post <a href="https://www.edn.com/sidereal-time-versus-solar-time/" data-wpel-link="internal">Sidereal time versus solar time</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/sidereal-time-versus-solar-time/>
+
+---
+
+## Tower Porchfest plans to celebrate community with performances from local musicians
+
+date: 2024-04-24, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Tower Porchfest, a vibrant celebration in Tower District, is more than just a music festival, it&#8217;s a testament to community and local talent. This annual event transforms the neighborhood into a stage for local bands and artists, drawing neighbors and visitors together to enjoy a diverse range of musical performances right from the porches of... 
+
+<https://fscollegian.com/2024/04/tower-porchfest-plans-to-celebrate-community-with-performances-from-local-musicians/>
+
+---
+
+## Fresno State’s graphic design students showcase their art in vibrant exhibition
+
+date: 2024-04-24, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Fresno State&#8217;s graduating artists welcomed friends, family and prospective employers to the Phebe Conley Art Gallery opening reception for the Kaleido 2024 BFA Portfolio Show on Friday, April 19. The showcase served not only as a platform to display the work of student graphic designers, illustrators and multimedia artists in the BFA program, but also... 
+
+<https://fscollegian.com/2024/04/fresno-states-graphic-design-students-showcase-their-art-in-vibrant-exhibition/>
+
+---
+
+## Preview: The Fresno State community is ready to wear denim tomorrow in solidarity of Denim Day
+
+date: 2024-04-24, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+“It is a fact of common experience that it is nearly impossible to slip off tight jeans even partly without the active collaboration of the person who is wearing them.” This is what the Italian Supreme Court had to say in 1998 to the 18-year-old woman who was bringing charges against her 45-year-old driving instructor... 
+
+<https://fscollegian.com/2024/04/preview-the-fresno-state-community-is-ready-to-wear-denim-tomorrow-in-solidarity-of-denim-day/>
 
 ---
 
@@ -13,7 +55,7 @@ updated: 2024-04-23 09:49:41
 
 date: 2024-04-23, from: EDN Blog
 
-<img width="1358" height="697" src="https://www.edn.com/wp-content/uploads/PowerTips128_Figure1.png?fit=1358%2C697" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/PowerTips128_Figure1.png?w=1358 1358w, https://www.edn.com/wp-content/uploads/PowerTips128_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/PowerTips128_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/PowerTips128_Figure1.png?w=1024 1024w" sizes="(max-width: 1358px) 100vw, 1358px" /><p>A straightforward approach to designing an efficient, active pre-charge circuit using a spreadsheet calculator.</p>
+<img width="1358" height="697" src="https://www.edn.com/wp-content/uploads/PowerTips128_Figure1.png?fit=1358%2C697" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/PowerTips128_Figure1.png?w=1358 1358w, https://www.edn.com/wp-content/uploads/PowerTips128_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/PowerTips128_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/PowerTips128_Figure1.png?w=1024 1024w" sizes="(max-width: 1358px) 100vw, 1358px" /><p>A straightforward approach to designing an efficient, active pre-charge circuit using a spreadsheet calculator.</p>
 <p>The post <a href="https://www.edn.com/power-tips-128-designing-a-high-voltage-dc-link-capacitor-active-precharge-circuit/" data-wpel-link="internal">Power Tips #128: Designing a high voltage DC-link capacitor active precharge circuit</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

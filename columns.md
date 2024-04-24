@@ -1,17 +1,325 @@
 ---
 title: columns 2024.17
-updated: 2024-04-23 09:49:41
+updated: 2024-04-24 07:36:07
 ---
 
 # columns 2024.17
 
-(date: 2024-04-23 09:49:41)
+(date: 2024-04-24 07:36:07)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-24, from: Dave Winer's Scripting News)
+
+When I started working with Automattic last year, one of the big milestones we were aiming for was getting FeedLand and WordPress working together. Now we have <a href="http://scripting.com/2024/04/24/132025.html?title=feedlandAndWordpress">the first step</a>. I hope you take a moment to give it a try and let us know how it works. Scripting News readers have helped bootstrap all kinds of cool stuff, we can do it again. 
+
+<http://scripting.com/2024/04/24.html#a141352>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-24, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@jay_gilmore/post/C6JBZ-SuGXi">Jay Gilmore</a>: "ActivityPub breaks my brain. It doesn’t need to be that hard given the payloads we are talking about." True. 
+
+<http://scripting.com/2024/04/24.html#a140452>
+
+---
+
+##  Two men swapped at birth – one Indigenous, one white – finally... 
+
+date: 2024-04-24, updated: 2024-04-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044406-two-men-swapped-at-birth>
+
+---
+
+## FeedLand and WordPress
+
+date: 2024-04-24, from: Dave Winer's Scripting News
+
+<p>There's a <a href="https://github.com/a8cteam51/feedland-blogroll">new plugin</a> that adds a <a href="https://blogroll.social/">blogroll</a> to a WordPress site. </p>
+<p>It would be helpful if people who are regular readers of Scripting News who use WordPress, set up a test site, give it a try and let us know how it goes. You can help us get to the next level with this stuff. </p>
+<p>So there are two sides, the FeedLand side and the WordPress side.</p>
+<ul>
+<li><b>The FeedLand side</b>. <a href="https://feedland.com/?signonscreen=true">Sign on</a> to FeedLand, create an account if you don't have one, and subscribe to a bunch of feeds. These will be the feeds in your blogroll.  There are some tips on how to find feeds, in the <a href="http://scripting.com/2024/04/24/132025.html#a134443">next section</a>.</li>
+<li><b>The WordPress side</b>. There's a <a href="https://github.com/a8cteam51/feedland-blogroll">new plugin</a>, developed by the people at the Team51 group at Automattic. They have a <a href="https://github.com/a8cteam51/feedland-blogroll/blob/trunk/README.md">checklist</a> for how to install the plugin in a WordPress site. </li>
+</ul>
+<p>If you have questions or comments, or need help getting it working, post a note in the <a href="">discussion group</a> here. </p>
+<p>You can get ideas for feeds for your blogroll from reading other people's feed lists. When you see a checkbox that isn't checked, you can subscribe to the feed simply by checking the box. </p>
+<p>Have a look at <a href="https://feedland.com/?username=davewiner">my feed list</a> for ideas. Here's a list of <a href="https://feedland.com/?userslist">recent users</a>, click on their names to see their feed lists. You don't have to finish this now, you can come back and tune this up anytime.</p>
+<p>Developers: Use <a href="https://github.com/scripting/feedlandBlogrollToolkit">feedlandBlogrollToolkit</a> to add blogrolls to other platforms. </p>
+ 
+
+<http://scripting.com/2024/04/24/132025.html?title=feedlandAndWordpress>
+
+---
+
+**@Ayjay blog** (date: 2024-04-24, from: Ayjay blog)
+
+Matt Crawford, on Substack: Probing his riding companions, Robert [Pirsig, in Zen and the Art of Motorcycle Maintenance] comes to understand that John and Sylvia’s attitude of non-involvement with “technology” is emblematic of a wider phenomenon that was then emerging, a countercultural sensibility that seeks escape from the Man and all his works: “the whole [&#8230;] 
+
+<https://blog.ayjay.org/46116-2/>
+
+---
+
+## Dan Solove on Privacy Regulation
+
+date: 2024-04-24, updated: 2024-04-24, from: Bruce Schneier blog
+
+<p>Law professor Dan Solove has a <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4333743">new article</a> on privacy regulation. In his email to me, he writes: &#8220;I’ve been pondering privacy consent for more than a decade, and I think I finally made a breakthrough with this article.&#8221; His mini-abstract:</p>
+<blockquote><p>In this Article I argue that most of the time, privacy consent is fictitious. Instead of futile efforts to try to turn privacy consent from fiction to fact, the better approach is to lean into the fictions. The law can&#8217;t stop privacy consent from being a fairy tale, but the law can ensure that the story ends well. I argue that privacy consent should confer less legitimacy and power and that it be backstopped by a set of duties on organizations that process personal data based on consent...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/04/dan-solove-on-privacy-regulation.html>
+
+---
+
+## 2024-04-24 Micro-blogs
+
+date: 2024-04-24, from: Alex Schroeder's Blog
+
+<h1 id="2024-04-24-micro-blogs">2024-04-24 Micro-blogs</h1>
+
+<p>Recently, I jokingly replied to <a class="account" href="https://merveilles.town/@jameschip" title="@jameschip@merveilles.town">@jameschip</a> when he said &ldquo;maybe we need a new word for types of blogs that have comments and federation&rdquo; that we should have kept the word micro-blogs. Regular blogs, with a character limit.</p>
+
+<p>Then again, micro-blogs in that sense, from Identi.ca to GNU Social, Twitter, Facebook, Google+ and the Fediverse now have a big plus: Notification actually works. If you mention another account, they get notified. If you get a reply, you get notified. It&rsquo;s glorious.</p>
+
+<p>For regular blogs, notification works with the oldest, universal, federated, communication medium online: email. Conversely, if you don&rsquo;t have email or don&rsquo;t do, you don&rsquo;t get notified and most likely you can&rsquo;t even comment. 😐</p>
+
+<p>I tried web-mentions and they didn&rsquo;t work I wanted them to. Far too few other blogs supported them, and for this blog, I didn&rsquo;t know what to do with them. I didn&rsquo;t want to send myself email so I turned them into comments, but mentions aren&rsquo;t as strong a signal as a comment. Mentions aren&rsquo;t public but comments are. Mentions don&rsquo;t need a strong connection to the main article but comments do. By turning mentions into comments, I had made a mistake and the result was frustrating. So <a href="2023-09-20-web-mentions-vs-referrals">I got rid of them</a>.</p>
+
+<p>And so here we are, it&rsquo;s 2024, and blogs still don&rsquo;t have good (spam-free) comments and notifications where as micro-blogs do. 😢</p>
+
+<p><a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Blogs">#Blogs</a> <a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p> 
+
+<https://alexschroeder.ch/view/2024-04-24-micro-blog>
+
+---
+
+## Office Hours: How are you talking with your pro-Trump or anti-Biden family members about the upcoming election?
+
+date: 2024-04-24, from: Robert Reich's blog
+
+Friends, Many of you say that the worst aspect of the fraught political time we&#8217;re going through as the 2024 election looms is what it&#8217;s doing to your relationships with members of your family &#8212; with your parents, your children, your in-laws, and your siblings. 
+
+<https://robertreich.substack.com/p/office-hours-how-are-you-talking>
+
+---
+
+## Six billion docker pulls
+
+date: 2024-04-24, from: Daniel Stenberg Blog
+
+We provide an official curl container. Why would you use curl in a container? We actually don&#8217;t ask, we just provide the image, but I can think of a few reasons&#8230; Six billion as of now The official curl docker repository now (as of 06:43 UTC April 24, 2024) reports that the curl container has &#8230; <a href="https://daniel.haxx.se/blog/2024/04/24/six-billion-docker-pulls/" class="more-link">Continue reading <span class="screen-reader-text">Six billion docker pulls</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/04/24/six-billion-docker-pulls/>
+
+---
+
+## Senate Passes Bill to Force Sale of TikTok
+
+date: 2024-04-24, updated: 2024-04-24, from: Daring Fireball
+
+ 
+
+<https://www.washingtonpost.com/technology/2024/04/23/tiktok-ban-senate-vote-sale-biden/>
+
+---
+
+## Apple Renews ‘For All Mankind’ and Announces New Spinoff Series ‘Star City’
+
+date: 2024-04-24, updated: 2024-04-24, from: Daring Fireball
+
+ 
+
+<https://www.apple.com/tv-pr/news/2024/04/apple-renews-globally-acclaimed-hit-space-drama-for-all-mankind-for-season-five-and-announces-new-spinoff-series-star-city/>
+
+---
+
+## rational choices
+
+date: 2024-04-24, from: Ayjay blog
+
+The race is not always to the swift, nor the battle to the strong; but that is the way to bet.  — Hugh E. Keogh  There’s too much to read, right? Especially contemporary fiction. Too many choices. You have to develop a strategy of selection, a method of triage. I will always read more old [&#8230;] 
+
+<https://blog.ayjay.org/rational-choices/>
+
+---
+
+## The future of SQL: conversational hands-on problem solving
+
+date: 2024-04-24, from: Jonudell blog
+
+Here&#8217;s the latest installment in the series on working with LLMS: https://thenewstack.io/the-future-of-sql-conversational-hands-on-problem-solving/ I keep returning to the theme of choral explanations (#4 on my list of best practices), and it&#8217;s especially relevant in the SQL domain where there are just so many ways to write a query. Exploring the range of possibilities used to be &#8230; <a href="https://blog.jonudell.net/2024/04/23/the-future-of-sql-conversational-hands-on-problem-solving/" class="more-link">Continue reading <span class="screen-reader-text">The future of SQL: conversational hands-on problem solving</span></a> 
+
+<https://blog.jonudell.net/2024/04/23/the-future-of-sql-conversational-hands-on-problem-solving/>
+
+---
+
+## Wednesday 24 April, 2024
+
+date: 2024-04-23, from: John Naughton's online diary
+
+Quai d’Orsay But not the one on the bank of the Seine. This one found its way to Ely, Cambridgeshire! “Quai d’Orsay” is often synonymous with the French Foreign Ministry, which occupies a magnificent building there. I remember a veteran &#8230; <a href="https://memex.naughtons.org/wednesday-24-april-2024/39377/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-24-april-2024/39377/>
+
+---
+
+##  Designer/creative Connell McCarthy: &#8220;I got married and over-engineered everything.&#8221; He obviously designed... 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044470-designercreative-connell->
+
+---
+
+## Bertrand Serlet: ‘Why LLMs Work’
+
+date: 2024-04-23, updated: 2024-04-23, from: Daring Fireball
+
+ 
+
+<https://www.youtube.com/watch?v=QwtyIDmhxh4>
+
+---
+
+## FTC Announces Rule Banning Noncompetes
+
+date: 2024-04-23, updated: 2024-04-23, from: Daring Fireball
+
+ 
+
+<https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes>
+
+---
+
+##  Cool Art: Naja Tepe&#8217;s Pottery 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/naja-tepe-pottery>
+
+---
+
+## How the Free Speech Movement was born
+
+date: 2024-04-23, from: Robert Reich's blog
+
+And how it helped Ronald Reagan into the White House 
+
+<https://robertreich.substack.com/p/how-the-free-speech-movement-was>
+
+---
+
+## NASA Engineers Successfully Debugged Voyager 1 From a Light-Day Away
+
+date: 2024-04-23, updated: 2024-04-23, from: Daring Fireball
+
+ 
+
+<https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/>
+
+---
+
+## Charles Edge Dies
+
+date: 2024-04-23, updated: 2024-04-23, from: Daring Fireball
+
+ 
+
+<https://tidbits.com/2024/04/22/take-control-author-charles-edge-dies/>
+
+---
+
+## Inside TSMC’s Expansion Struggles in Arizona
+
+date: 2024-04-23, updated: 2024-04-23, from: Daring Fireball
+
+ 
+
+<https://restofworld.org/2024/tsmc-arizona-expansion/>
+
+---
+
+##  Okay, here&#8217;s a toy car for actually cleaning floors. You load it... 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044466-okay-heres-a-kids-toy>
+
+---
+
+## Sonar Is Now Taska
+
+date: 2024-04-23, updated: 2024-04-23, from: Daring Fireball
+
+ 
+
+<https://madebywindmill.com/taska/>
+
+---
+
+## King County Parks Levy survey: an exercise in defining success
+
+date: 2024-04-23, from: Tracy Durnell Blog
+
+King County Parks is preparing for their 2025 levy vote. Taking their survey made me change my mind about how I prioritized things &#8212; defining success for something as big as a park system was an interesting thought experiment. I like that they didn&#8217;t provide any examples, but simply listened. Prioritization of themes Respondents are [&#8230;] 
+
+<https://tracydurnell.com/2024/04/23/king-county-parks-levy-survey-an-exercise-in-defining-success/>
+
+---
+
+##  Music for Programming, a collection of &#8220;the most compelling music for sustained... 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044465-music-for-programming-a-c>
+
+---
+
+## Apple Announces ‘Let Loose’ Event on May 7, Presumably to Announce New iPad Lineup
+
+date: 2024-04-23, updated: 2024-04-23, from: Daring Fireball
+
+ 
+
+<https://www.macrumors.com/2024/04/23/apple-event-let-loose-may-7/>
+
+---
+
+##  Fascinated by this &#8220;WTF Notebook&#8221; post because 1) it&#8217;s a really good... 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044440-fascinated-by-this-wtf-no>
+
+---
+
+##  Mountain Bike Advice? 
+
+date: 2024-04-23, updated: 2024-04-23, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/mountain-bike-advice>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
 
-I don't have time to write about it but the end of last night's Knicks game was one of the most dramatic bits of NY sports ever. I would like to <a href="https://www.reddit.com/r/nba/comments/dern8c/kevin_durant_explains_why_free_agents_wont_join/">thank Kevin Durant</a> for saying the Knicks weren't cool. It's somewhat like the <a href="https://en.wikipedia.org/wiki/Streisand_effect">Streisand Effect</a> where the thing KD was trying to hide was that <i>he</i> was no longer cool. Classic case of projection. I'd love to hear what he says now. Obviously he was not the hot shit he thought he was in 2019. <span class="spOldSchoolEmoji">😄</span> 
+I don't have time to write about it now but the end of last night's Knicks game was one of the <a href="https://www.youtube.com/watch?v=7VUvcuHwgtw">most dramatic bits</a> of NY sports ever. I would like to <a href="https://www.reddit.com/r/nba/comments/dern8c/kevin_durant_explains_why_free_agents_wont_join/">thank Kevin Durant</a> for saying the Knicks weren't cool. It's somewhat like the <a href="https://en.wikipedia.org/wiki/Streisand_effect">Streisand Effect</a> where the thing KD was trying to hide was that <i>he</i> was no longer cool. Classic <a href="https://www.psychologytoday.com/us/basics/projection">projection</a>. Obviously he was not the hot shit he thought he was in 2019. <span class="spOldSchoolEmoji">😄</span> 
 
 <http://scripting.com/2024/04/23.html#a161806>
 
@@ -19,7 +327,7 @@ I don't have time to write about it but the end of last night's Knicks game was 
 
 **@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2021/06/26/baseballScene.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I have big ideas for the blogging world. I'd like to combine AI and search to make a really great search engine for bloggers. We would contribute what we know (we already do) and in return, along with everyone else, get to benefit from the collection. And when we browse, it knows which blog we write. So it has a very good idea of what we mean when we ask a question and what we already know. This is totally missing in ChatGPT and is something Google and other search engines have never been willing to do (or even understood, I guess). But this is a huge idea. I'd like to give it <a href="https://feedland.social/opml?screenname=davewiner&catname=blogroll">my blogroll</a> too, so it knows which sources I consider credible. I love that it creates an incentive to post to your blog, and it makes <a href="http://scripting.com/2024/04/16/140810.html?title=workingTogether">working together</a> automatic. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2021/06/26/baseballScene.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">A big idea for the blogging world. I'd like to combine AI and search to make a really great search engine for bloggers. We would contribute what we know (we already do) and in return, along with everyone else, get to benefit from the collection. And when we browse, <i>it knows which blog we write.</i> So it has a very good idea of what we mean when we ask a question and what we already know. This is totally missing in ChatGPT and is something Google and other search engines have never been willing to do (or even understood, I guess). But this is a huge idea. I'd like to give it <a href="https://feedland.social/opml?screenname=davewiner&catname=blogroll">my blogroll</a> too, so it knows which sources I consider credible. I love that it creates an incentive to post to your blog, and it makes <a href="http://scripting.com/2024/04/16/140810.html?title=workingTogether">working together</a> automatic. 
 
 <http://scripting.com/2024/04/23.html#a161338>
 
@@ -45,7 +353,7 @@ date: 2024-04-23, updated: 2024-04-23, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
 
-<a href="https://twitter.com/davewiner/status/1782577146679976202">John Palfrey</a> as the mover behind <a href="https://www.macfound.org/press/article/press-forward-a-national-initiative-to-support-the-revitalization-of-local-news">Press Forward</a> will bring the <a href="http://scripting.com/2024/04/22.html#a132020">gospel</a> of EZ Pass for News on his "ongoing whistle-stop tour" of local news orgs. JP was my boss/rabbi when I was at Berkman, and is why we got so much done there. He ran air cover for what we did, the BloggerCons, giving RSS a home, podcasting, blogs for everyone, the people and democracy. Now he's doing it for the local news business. 
+<a href="https://twitter.com/davewiner/status/1782577146679976202">John Palfrey</a> as the mover behind <a href="https://www.macfound.org/press/article/press-forward-a-national-initiative-to-support-the-revitalization-of-local-news">Press Forward</a> will bring the <a href="http://scripting.com/2024/04/22.html#a132020">gospel</a> of <a href="https://www.google.com/search?q=site%3Ascripting.com+ez+pass+for+news">EZ Pass for News</a> on his "ongoing whistle-stop tour" of local news orgs. JP was my boss/rabbi when I was at Berkman, and is why we got so much done there. He ran air cover for what we did, the BloggerCons, giving RSS a home, podcasting, blogs for everyone, the people and democracy. Now he's doing it for the local news business. 
 
 <http://scripting.com/2024/04/23.html#a160607>
 
@@ -53,7 +361,7 @@ date: 2024-04-23, updated: 2024-04-23, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-04-23, from: Dave Winer's Scripting News)
 
-The "largest open publishing network in the world" is the web. Ghost <a href="https://activitypub.ghost.org/">says</a> it's ActivityPub. Think bigger. 
+<a href="https://www.threads.net/@davew/post/C6GpymzrPu0">The</a> "largest open publishing network in the world" is the web. 
 
 <http://scripting.com/2024/04/23.html#a160340>
 
@@ -173,7 +481,7 @@ date: 2024-04-23, updated: 2024-04-23, from: Jason Kittke's blog
 
 ## The Radiant Future! (Of 1995)
 
-date: 2024-04-23, updated: 2024-04-23, from: Charlie's Diary
+date: 2024-04-23, updated: 2024-04-24, from: Charlie's Diary
 
 The AI hype in the media obscures the fact that we're clearly in another goddamn venture capital bubble right now. As the Wall Street Journal said earlier this month (article is paywalled), "... In a presentation earlier this month, the... 
 

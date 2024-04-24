@@ -1,11 +1,170 @@
 ---
 title: writing 2024.17
-updated: 2024-04-23 09:49:41
+updated: 2024-04-24 07:36:07
 ---
 
 # writing 2024.17
 
-(date: 2024-04-23 09:49:41)
+(date: 2024-04-24 07:36:07)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-24, from: Neil Gaiman @ BlueSky)
+
+No, Marvel still have the rights. Interesting trivia — according to the court case, Todd is still obligated to pay me royalties for these. And he never has. Once a crooked publisher, always a crooked publisher, I guess.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kquzji76gk2z>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-24, from: Neil Gaiman @ BlueSky)
+
+I’m so glad.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kquzent2h22u>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-24, from: Neil Gaiman @ BlueSky)
+
+Today I am thinking about my late cousin Helen Fagin, and wishing I had her here to talk about the world we are in. 
+
+https://www.themarginalian.org/2018/12/18/a-velocity-of-being-helen-fagin/?fbclid=IwZXh0bgNhZW0BMQABHeoMwdpwsezAjQoR_PC4QGLEyUbk2ONzzShUfeDPFpstmdYlO1etmNcUzA_aem_AWerKfSbx4GB2JvN46ilqwyHh1az4Au5UlnVZax5DGIn15YqyFEDHvtDV5gG1syM5OU 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kquzcmn3hs2t>
+
+---
+
+## Why You Might Want to Use Online Spelling and Grammar Checkers
+
+date: 2024-04-24, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p>Every writer makes mistakes. They may make errors in verb agreement, type the wrong preposition, or use incorrect punctuation. In addition, there are many types of grammatical errors that are hard to spot when you&rsquo;re rereading your work. For example, you might not spot when you type &ldquo;in&rdquo; instead of &ldquo;on,&rdquo; &ldquo;of&rdquo; instead of &ldquo;off,&rdquo; or type &ldquo;the the&rdquo; before a noun.</p>
+
+<p>Computers, tablets, and smartphones have built-in spelling and grammar checkers, but these tools generally just find misspelled words or basic grammatical errors. To give your writing a once-over, you might want to use an online spelling and grammar checker. Here&rsquo;s why.</p>
+
+Spelling and grammar checking on computers
+
+<p>While computing devices can check spelling and grammar, they are limited and not totally accurate. They are very good at spotting and even automatically replacing misspelled words. However, they are poor at incorrect preposition use, incorrect plural agreement, and other errors that aren&rsquo;t just spelling.</p>
+
+<p>It&rsquo;s rare that when using Scrivener on Mac or Windows you will end up with misspelled words in your projects, as long as you use the inline spell checker. But grammar errors are much harder to flag, and it&rsquo;s not a good idea to totally depend on computers.</p>
+
+<p>Even if you carefully proofread and edit your work, you won&rsquo;t find every error. When you&rsquo;ve been working on a text for a long time, you become blind to the sentences you&rsquo;ve read a dozen times, and it&rsquo;s harder to spot errors.</p>
+
+<p>One tip for proofreading: when you write, use one font, and when you proofread use a different font. The words will appear different, and you&rsquo;re likely to spot errors that you don&rsquo;t see in the original.</p>
+
+Online spelling and grammar checkers
+
+<p>Online spelling and grammar checkers are much more powerful than the tools built into computer operating systems. They use different algorithms, based on very large data sets, which allow them to spot the kind of errors that writers may miss.</p>
+
+<p>There are many online spelling and grammar checkers; here are three that are worth checking out. All of these services have both free and paid plans.</p>
+
+
+	<strong><a href="https://app.grammarly.com/" target="_blank">Grammarly</a></strong>: Grammarly&rsquo;s free plan lets you check spelling, punctuation, and basic grammar; what the service calls &ldquo;correctness.&rdquo; Their premium plan also makes suggestions for style, and tone, can rewrite full sentences, and more.
+	<strong><a href="https://app.prowritingaid.com" target="_blank">ProWritingAid</a></strong>: ProWritingAid&rsquo;s free plan checks grammar, spelling, and punctuation. Its premium plan adds features like advanced style improvements, a custom style guide, rephrasing, and more. It&rsquo;s worth noting that <a href="https://www.literatureandlatte.com/blog/check-grammar-in-your-scrivener-projects-with-prowritingaid" target="_blank">ProWritingAid can interface directly with Scrivener</a>.
+	<strong><a href="https://quillbot.com/grammar-check" target="_blank">QuillBot</a></strong>: QuillBot&rsquo;s free plan checks grammar, spelling, and punctuation errors. Its premium plan offers advanced style features, as well as summarization and paraphrasing. It offers grammar checking in a half-dozen languages, unlike Grammarly and ProWritingAid, which are only available in English.
+
+
+<p>You use these tools by copying a text from your Scrivener project and pasting it into a website. (With ProWritingAid, you can use its Scrivener integration, if you wish.) After you&rsquo;ve made your corrections, you then copy the text and paste it back into your Scrivener project. It&rsquo;s a good idea to <a href="https://www.literatureandlatte.com/blog/use-snapshots-in-scrivener-to-save-versions-of-your-projects" target="_blank">make snapshots of each document in your Scrivener project</a> before pasting in the corrected version, in case you want to revert to the original.</p>
+
+<p>All of these spelling and grammar checkers also include AI tools in their paid plans. Many of these AI tools are available in other ways, using the many AI options available today, but having them in a spelling and grammar checker may be useful. You can use these tools to rewrite sections of texts, rephrase long sentences, get bullet points for articles, compose descriptions, shorten and simplify texts, and more. These tools are mostly useful for non-fiction and academic writing.</p>
+
+<p>With the rise of generative AI, it&rsquo;s likely that these spelling and grammar checkers will improve, and it&rsquo;s likely that spelling and grammar checking on computers will also get a boost from this new technology.</p>
+
+Why you might not want to use an online spelling and grammar checker
+
+<p>These online tools are not perfect. They can miss more complex errors and may flag specific elements of your personal voice as incorrect. They also have difficulty with dialog, which you may write in incomplete sentences or with signs that a character is speaking in dialect.</p>
+
+<p>They can also flag too many false positives, or give suggestions that aren&rsquo;t adapted to the type of writing you do. When they make suggestions for rephrasing text, the language can often be overly formal or bland, it can sound like AI language. One thing I find, when comparing different online grammar checkers, is that they use different rules regarding commas. One grammar checker will tell me to add commas, and another will tell me to remove commas from the same text. Over time, you get used to this, but you can&rsquo;t just accept all of their corrections en masse. However, using these tools, you may discover writing quirks that you hadn&rsquo;t noticed, and that you might wish to change.</p>
+
+<p>You should also consider how the texts you upload are handled. Here are what the three different services mentioned above say.</p>
+
+
+	
+	<p><a href="https://www.grammarly.com/trust" target="_blank">Grammarly</a>: No one at Grammarly can read your text at will, as we tightly control access to user data within the company. You own what you write.</p>
+	
+	
+	<p><a href="https://prowritingaid.com/trust-center" target="_blank">ProWritingAid</a>: Your text segments are transmitted securely to our cloud service. Our writing suggestions use our unique Natural Language Processing models that never retain your text. Suggested improvements are transmitted securely back.</p>
+	
+	
+	<p><a href="https://help.quillbot.com/hc/en-us/articles/360056530894-How-does-QuillBot-use-my-data" target="_blank">QuillBot</a>: When you write with QuillBot, your data is used to improve our algorithms. We aim for writing created with QuillBot to be natural, accurate, and satisfactory to our users, and understanding our users&rsquo; inputs helps us achieve this.</p>
+	
+
+
+<p>The first two services have many enterprise users, and it&rsquo;s important to businesses that the data their users send for correction be secure and private. QuillBot, however, clearly uses all the text that you send them to &ldquo;improve our algorithms.&rdquo; If you use a service like this, it&rsquo;s a good idea to be aware of what they do with your texts.</p>
+
+<p>There are pros and cons to using online spelling and grammar checkers. At a minimum, they can catch spelling errors that computers miss; going further, they can offer style corrections to improve your writing. Try them out and see if they help.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+ 
+
+<https://www.literatureandlatte.com/blog/why-you-might-want-to-use-online-spelling-and-grammar-checkers>
+
+---
+
+## New Climate Fiction Prize
+
+date: 2024-04-23, from: Locus Magazine
+
+<p>Storytelling organization Climate Spring has announced the new Climate Fiction Prize, to &#8220;showcase novels of powerful literary merit and to solidify, grow and expand fiction that engages with the climate crisis.&#8221; The prize will be launched at this year’s Hay Festival, to be held May 23 &#8211; June 2, 2024.</p>
+<p>The award is supported by Climate Spring, and the winner will receive £10,000. The judges for the inaugural year are  <a href="https://locusmag.com/2024/04/new-climate-fiction-prize/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/new-climate-fiction-prize/>
+
+---
+
+## 2024 O. Henry Prize for Short Fiction Winners
+
+date: 2024-04-23, from: Locus Magazine
+
+<p>The winners of the O. Henry Prize for Short Fiction have been announced, honoring contemporary short stories.</p>
+<p>Winners of genre interest include:</p>
+<ul>
+<li>“Rain,” Colin Barrett (Granta 11/12/22)</li>
+<li>“The Castle of Rose Tellin,” Kate DiCamillo (Harper’s Magazine 7/23)</li>
+<li>“The Honor of Your Presence,” Dave Eggers (One Story 6/22/23)</li>
+<li>“Serranos,” Francisco Gonzalez (McSweeney’s Quarterly Concern 70)</li>
+<li>“The Last Grownup,” Allegra Goodman (The New Yorker 2/20/23)</li>
+<li>“Mobilization,” Allegra Hyde (Story 16)</li>
+</ul>
+<p>To view  <a href="https://locusmag.com/2024/04/2024-o-henry-prize-for-short-fiction-winners/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/2024-o-henry-prize-for-short-fiction-winners/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-23, from: Neil Gaiman @ BlueSky)
+
+Your last reminder to RSVP... 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kqt2om2his2y>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-23, from: Neil Gaiman @ BlueSky)
+
+I wondered if the Cats Laughing cover of Gloomy Sunday was out there in the world, and it's on the Internet Archive. No need to thank me. https://archive.org/details/CatsLaughingGloomySunday 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kqszcmmins2a>
 
 ---
 

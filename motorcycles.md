@@ -1,11 +1,81 @@
 ---
 title: motorcycles 2024.17
-updated: 2024-04-23 09:49:41
+updated: 2024-04-24 07:36:07
 ---
 
 # motorcycles 2024.17
 
-(date: 2024-04-23 09:49:41)
+(date: 2024-04-24 07:36:07)
+
+---
+
+## Alaska Appealing Judge's Decision to Ban Jet-Skis On Kachemak Bay
+
+date: 2024-04-24, from: Ride Apart, Electric Motorcycle News
+
+Fish and Game repealed the ban a few years ago, while residents are now fighting to reinstate it. 
+
+<https://www.rideapart.com/news/717176/alaska-jet-ski-ban/>
+
+---
+
+## Watch This Guy Build The World's First Screw Bike With Wild 3D-Printed Wheels
+
+date: 2024-04-24, from: Ride Apart, Electric Motorcycle News
+
+Just about the only thing off-the-shelf about this build is some of the tools he uses. 
+
+<https://www.rideapart.com/news/717184/james-bruton-screw-bike-mecanum/>
+
+---
+
+## Keeway Acquires Italian Brand Morbidelli But What Does This Mean For The Industry?
+
+date: 2024-04-24, from: Ride Apart, Electric Motorcycle News
+
+Keeway’s parent company QJ Motor seems to be on a quest for world domination.  
+
+<https://www.rideapart.com/news/717107/keeway-mbp-acquires-morbidelli-brand/>
+
+---
+
+## Royal Enfield’s Rental Tours Let You Travel The World On Two Wheels
+
+date: 2024-04-24, from: Ride Apart, Electric Motorcycle News
+
+The program covers over 60 destinations in 25 countries.  
+
+<https://www.rideapart.com/news/717038/royal-enfield-rental-tours/>
+
+---
+
+## Battery Swapping Motorcycles Are Coming To Brazil From Startup Vammo
+
+date: 2024-04-24, from: Ride Apart, Electric Motorcycle News
+
+It employs battery swapping technology similar to what we’re seeing in Asia.  
+
+<https://www.rideapart.com/news/717043/vammo-emobility-startup-brazil/>
+
+---
+
+## Felo Tooz Electric Promises Huge Range
+
+date: 2024-04-23, from: Cycle World News
+
+Has new Chinese motorcycle maker Felo cracked the EV range issue, or are the claims for its new Tooz just marketing-speak? 
+
+<https://www.cycleworld.com/motorcycle-news/felo-tooz-electric-tourer-promises-extended-range/>
+
+---
+
+## Erik Jones Suffers Back Fracture in Talladega Crash, Out for Dover
+
+date: 2024-04-23, from: Kickin the Tires blog
+
+Erik Jones will miss the NASCAR Cup Series race at Dover Motor Speedway this weekend, marking his first absence in the field since 2017, 262 starts ago. After meeting with&#8230;  
+
+<https://kickinthetires.net/nascar/cup/erik-jones-suffers-back-fracture-in-talladega-crash-out-for-dover/>
 
 ---
 

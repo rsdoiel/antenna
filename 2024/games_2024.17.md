@@ -1,11 +1,111 @@
 ---
 title: games 2024.17
-updated: 2024-04-23 09:49:41
+updated: 2024-04-24 07:36:07
 ---
 
 # games 2024.17
 
-(date: 2024-04-23 09:49:41)
+(date: 2024-04-24 07:36:07)
+
+---
+
+## Stellar Blade is more than skin deep
+
+date: 2024-04-24, updated: 2024-04-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24137538/stellar-blade-review-shift-up-playstation-5>
+
+---
+
+## Roll20 coming directly to your Discord server
+
+date: 2024-04-24, updated: 2024-04-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/tabletop-games/24137609/roll20-discord-activity>
+
+---
+
+## Fallout 76 has seen a million players in a single day, and 5 million across the franchise
+
+date: 2024-04-24, updated: 2024-04-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24131018/fallout-games-steam-player-count-bethesda-tv-show>
+
+---
+
+## Where to find Taken Blights in Destiny 2’s ‘Whispers of the Taken’ quest
+
+date: 2024-04-24, updated: 2024-04-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24133426/taken-blights-locations-where-to-find-whispers-of-the-taken>
+
+---
+
+## Where to find the Oracles in ‘The Whisper’ mission in Destiny 2
+
+date: 2024-04-24, updated: 2024-04-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24133446/oracles-whisper-worm-oracular-seeker-locations>
+
+---
+
+## How to unlock all archetypes in Remnant 2
+
+date: 2024-04-24, updated: 2024-04-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/guides/23815603/remnant-2-archetypes-unlock-classes>
+
+---
+
+## How to unlock the Invoker in Remnant 2’s The Forgotten Kingdom DLC
+
+date: 2024-04-24, updated: 2024-04-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/guides/24137676/invoker-archetype-unlock-remnant-2-forgotten-kingdom>
+
+---
+
+## Where to find Archie in Destiny 2
+
+date: 2024-04-24, updated: 2024-04-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24138396/archie-location-where-in-the-system-tower>
+
+---
+
+## This Slowpoke plush is as big as the real thing, and costs $450
+
+date: 2024-04-23, updated: 2024-04-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/4/23/24138429/slowpoke-pokemon-plush-pre-order>
+
+---
+
+## Anyone but You’s real draw is the supporting cast
+
+date: 2024-04-23, updated: 2024-04-23, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24137377/anyone-but-you-netflix-funny-rom-com-supporting-cast>
 
 ---
 

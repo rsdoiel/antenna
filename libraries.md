@@ -1,11 +1,44 @@
 ---
 title: libraries 2024.17
-updated: 2024-04-23 09:49:41
+updated: 2024-04-24 07:36:07
 ---
 
 # libraries 2024.17
 
-(date: 2024-04-23 09:49:41)
+(date: 2024-04-24 07:36:07)
+
+---
+
+## Is the Bill and Melinda Gates Foundation’s new OA policy the start of a shift towards preprints? [Originally published in the LSE Impact blog in April/2024]
+
+date: 2024-04-24, from: SciELO in Perspective
+
+<p>Following the announcement of the Bill and Melinda Gates Foundation’s new open access policy, Richard Sever assesses whether this change signals the beginning of a wider preprint-led open access transition. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blogs.lse.ac.uk/impactofsocialsciences/2024/04/09/is-the-bill-and-melinda-gates-foundations-new-oa-policy-the-start-of-a-shift-towards-preprints/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2024/04/09/is-the-bill-and-melinda-gates-foundations-new-oa-policy-the-start-of-a-shift-towards-preprints/#new_tab">Is the Bill and Melinda Gates Foundation’s new OA policy the start of a shift towards preprints? [Originally published in the LSE Impact blog in April/2024]</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://blogs.lse.ac.uk/impactofsocialsciences/2024/04/09/is-the-bill-and-melinda-gates-foundations-new-oa-policy-the-start-of-a-shift-towards-preprints/#new_tab>
+
+---
+
+## Flourishing in a Machine-intermediated World: The STM Trends Report
+
+date: 2024-04-24, from: Scholarly Kitchen
+
+<p>The latest STM Trends is out, showing a future where humans and machines are integrated and engaged, supporting research and output sharing.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/04/24/flourishing-in-a-machine-intermediated-world-stm-trends-report/">Flourishing in a Machine-intermediated World: The STM Trends Report</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/04/24/flourishing-in-a-machine-intermediated-world-stm-trends-report/>
+
+---
+
+## April is Armenian Heritage Month
+
+date: 2024-04-24, from: CSUN Library Blog, Cited
+
+<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2024/04/Pomegranate_in_Ararat_province_04.jpg" class="attachment-medium size-medium wp-post-image" alt="Photograph of a pomegranate with dew" decoding="async" style="margin-bottom: 15px;" fetchpriority="high" /></div>The Armenian community remains a vibrant part of CSUN, and Los Angeles &#8212; as April is Armenian Heritage Month, and April 24th is nationally recognized&#8230; 
+
+<https://library.csun.edu/blogs/cited/2024/04/24/april-is-armenian-heritage-month/>
 
 ---
 
@@ -25,7 +58,7 @@ date: 2024-04-23, from: Scholarly Kitchen
 
 date: 2024-04-22, from: Association of Research Libraries News
 
-<p>Last Updated on April 22, 2024, 4:08 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 23 &#124; Wednesday, April 24 &#124; Thursday,...</p>
+<p>Last Updated on April 23, 2024, 4:15 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 23 &#124; Wednesday, April 24 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-22-25/">Day in Review (April 22–25)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
