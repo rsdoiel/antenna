@@ -210,6 +210,11 @@ https://willnorris.com/atom.xml "~Will Norris blog"
 https://blog.gtk.org/feed/ "~Gtk Developer blog"
 
 #
+# Publications
+#
+https://www.oreilly.com/radar/feed/index.xml "~O'Reilly Rador"
+
+#
 # Problem feeds
 #
 https://prolost.com/blog?format=rss "~Stu Maschwitz blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
