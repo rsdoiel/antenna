@@ -1,11 +1,101 @@
 ---
 title: writing 2024.17
-updated: 2024-04-24 07:36:07
+updated: 2024-04-25 06:01:51
 ---
 
 # writing 2024.17
 
-(date: 2024-04-24 07:36:07)
+(date: 2024-04-25 06:01:51)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-25, from: Neil Gaiman @ BlueSky)
+
+@indyfromspace.bsky.social sorry. https://www.tumblr.com/neil-gaiman/748667456255606784/in-this-case-the-word-satirical-is-being-used-to?source=share 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kqxfjjfxz22d>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-25, from: Neil Gaiman @ BlueSky)
+
+It just gets better as it goes.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kqwdtioqkc2q>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-24, from: Neil Gaiman @ BlueSky)
+
+The series will go live about 9 hours from now on Netflix.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kqvwjfvoxs2y>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-24, from: Neil Gaiman @ BlueSky)
+
+So glad you enjoyed it.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kqvw7q73d22q>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-24, from: Neil Gaiman @ BlueSky)
+
+It's a joy to experience @robinince.bsky.social's enthusiastic joy in books and in his father:
+
+https://youtu.be/3-hlOjK5Q0Y?si=usB_slFXGPM36Zc3 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kqvnjeg7ts2d>
+
+---
+
+## 📬 Quick Answers
+
+date: 2024-04-24, from: Interesting, a blog on writing
+
+Questions from the past with evergreen responses. 
+
+<https://inneresting.substack.com/p/quick-answers>
+
+---
+
+## Society of Illustrators Hall of Fame
+
+date: 2024-04-24, from: Locus Magazine
+
+<p>The Society of Illustrators has announced the 2024 inductees into its Hall of Fame. Honorees &#8220;are chosen based on their body of work and the impact it has made on the field of illustration.&#8221;</p>
+<p><b>2024 Hall of Fame Laureates
+</b></p>
+<ul>
+<li>Steve Brodner</li>
+<li>Gustave Doré</li>
+<li>Robert Grossman</li>
+<li>Gregory Manchess</li>
+<li>Yuko Shimizu</li>
+<li>Virginia Frances Sterrett</li>
+</ul>
+<p>The artists will be honored at the 2024 Hall of Fame Induction Ceremony, to be held September 26,  <a href="https://locusmag.com/2024/04/society-of-illustrators-hall-of-fame-2/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/society-of-illustrators-hall-of-fame-2/>
+
+---
+
+## Liz Bourke Reviews Someone You Can Build a Nest In by John Wiswell
+
+date: 2024-04-24, from: Locus Magazine
+
+<p><strong>Someone You Can Build a Nest In</strong>, John Wiswell (DAW 978-0-75641-885-4, $28.00, 320pp, hc.) April 2024.</p>
+<p><strong>Someone You Can Build a Nest In </strong>is award-winning short fiction writer John Wiswell’s debut novel. I went in expecting good things, and I wasn’t disappointed. The most straightforward shorthand I have to describe it is: ‘‘It’s as if T. Kingfisher wrote one of her fantasy romance novels from the point of view  <a href="https://locusmag.com/2024/04/liz-bourke-reviews-someone-you-can-build-a-nest-in-by-john-wiswell/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/liz-bourke-reviews-someone-you-can-build-a-nest-in-by-john-wiswell/>
 
 ---
 
@@ -229,7 +319,7 @@ date: 2024-04-23, from: Locus Magazine
 
 ---
 
-## New Books, 23 August 2024
+## New Books, 23 April 2024
 
 date: 2024-04-23, from: Locus Magazine
 

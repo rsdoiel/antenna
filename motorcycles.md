@@ -1,11 +1,81 @@
 ---
 title: motorcycles 2024.17
-updated: 2024-04-24 07:36:07
+updated: 2024-04-25 06:01:51
 ---
 
 # motorcycles 2024.17
 
-(date: 2024-04-24 07:36:07)
+(date: 2024-04-25 06:01:51)
+
+---
+
+## This Aprilia MotoGP Clone Will Set You Back $80,000
+
+date: 2024-04-25, from: Ride Apart, Electric Motorcycle News
+
+That's a lot of zeroes.  
+
+<https://www.rideapart.com/news/717351/aprilia-xtrenta-rsv4-motogp-price/>
+
+---
+
+## Someone Stuffed BMW's R 18 Motorcycle Engine Into A Mini
+
+date: 2024-04-25, from: Ride Apart, Electric Motorcycle News
+
+A surprise, to be sure, but a welcome one.  
+
+<https://www.rideapart.com/news/717240/custom-austin-mini-bmw-r18-engine/>
+
+---
+
+## Yamaha XSR900 GP Gets Even More Retro With New 80s Classic Fairings
+
+date: 2024-04-24, from: Ride Apart, Electric Motorcycle News
+
+We still can't have it and just keep rubbing our faces in it, Yamaha. 
+
+<https://www.rideapart.com/news/717362/yamaha-xsr900gp-rzv500-fz400r/>
+
+---
+
+## 2024 Triumph Tiger 1200 First Ride Review
+
+date: 2024-04-24, from: Cycle World News
+
+For 2024, Triumph’s flagship adventure-tourer gets additional refinements. Are they enough to keep the Tiger at the fore? 
+
+<https://www.cycleworld.com/motorcycle-reviews/triumph-tiger-1200-first-ride-review/>
+
+---
+
+## Benda Napoleon 250’s Weird Suspension Secrets
+
+date: 2024-04-24, from: Cycle World News
+
+We recently took a look at Chinese company Benda’s odd prototype bobber. But now that bike has been released as the Napoleon 250 and sports unusual suspension. 
+
+<https://www.cycleworld.com/motorcycle-news/benda-napoleon-250-unique-suspension-revealed/>
+
+---
+
+## 2024 ARCA West at Bakersfield: Team Reactions, Analysis
+
+date: 2024-04-24, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires The cancellation on March 30 of the Irwindale Speedway race, which was postponed to July 6, will have made us wait nearly&#8230;  
+
+<https://kickinthetires.net/nascar/arca-west-bakersfield-reactions-analysis/>
+
+---
+
+## You Can't See These Scorpion Helmets Thanks to Kryptek's Camo Patterns
+
+date: 2024-04-24, from: Ride Apart, Electric Motorcycle News
+
+They've gone full John Cena.  
+
+<https://www.rideapart.com/news/717348/scorpion-helmets-kryptek-hunting-camo/>
 
 ---
 
@@ -246,16 +316,6 @@ date: 2024-04-22, from: Kickin the Tires blog
 By Vincent Delforge, Special to Kickin&#8217; the Tires The second of twelve races of the ARCA Menards Series West season, the MMI Oil Workers 150 presented by the West Coast&#8230;  
 
 <https://kickinthetires.net/nascar/arca-west-2024-bakersfield-race-review/>
-
----
-
-## 2024 Triumph Tiger 1200 First Ride Review
-
-date: 2024-04-22, from: Cycle World News
-
-For 2024, Triumph’s flagship adventure-tourer gets additional refinements. Are they enough to keep the Tiger at the fore? 
-
-<https://www.cycleworld.com/motorcycle-reviews/triumph-tiger-1200-first-ride-review/>
 
 ---
 

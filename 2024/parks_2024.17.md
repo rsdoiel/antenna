@@ -1,11 +1,11 @@
 ---
 title: parks 2024.17
-updated: 2024-04-24 07:36:07
+updated: 2024-04-25 06:01:51
 ---
 
 # parks 2024.17
 
-(date: 2024-04-24 07:36:07)
+(date: 2024-04-25 06:01:51)
 
 ---
 
@@ -13,7 +13,7 @@ updated: 2024-04-24 07:36:07
 
 date: 2024-04-24, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>From Toys for Tots to BLM Arizona, Steven Ala shines on National Administrative Professionals Day</h1></div>
+<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/biden-harris-administration-finalizes-strategy-guide-balanced-management-conservation" hreflang="en">Biden-Harris Administration finalizes strategy to guide balanced management, conservation of public lands</a></h2></div>
       
 
 
@@ -21,107 +21,30 @@ date: 2024-04-24, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/CQqPESeqhaM?si=tvr5ZkX7u2IZpb2B" title="From Toys for Tots to BLM Arizona, Steven Ala shines on National Administrative Professionals Day
-"></iframe></div>
+  <div class="field contact-block -release-date">
+    <div><strong>Publication Date:</strong> </div>
+              <div><time datetime="2024-04-18T12:00:00Z">Thu, 04/18/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
-<p style="margin-bottom:11px"><em>For a version of this video with audio descriptions, visit:&nbsp;<a href="https://youtu.be/zB0n_51G22k">https://youtu.be/zB0n_51G22k</a></em></p>
 
-<p style="margin-bottom:11px">In the cool winter months during the first year of the COVID-19 pandemic, stacks of toys piled up in a warehouse in New Orleans.</p>
 
-<p>Nearly 60,000 items, from books to bikes, were collected, benefitting the city’s less fortunate families and children. Thanks to the hard work and passion of Steven Ala, a U.S. Marine Corps service member who managed the warehouse during the 2020-2021 season, the holidays were a little bit brighter.</p>
 
-<p>Including New Orleans, his military service took him to both coasts of the United States and as far away as Japan and Korea.</p>
 
-<p>“Transitioning military service specifically, I still live by those core values of honor, courage and commitment,” Steven said.</p>
+  
 
-<p>After six years in the Marine Corps, these values guide the work he does as staff assistant for the Bureau of Land Management Arizona’s Division of Resources and Planning.</p>
+            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/yssRQ8Z0nu8?si=bfjOBNEDwtaqQDwF" title="Public Lands Rule"></iframe></div>
 
-<p>“All the things that you would want in a leader you are getting when you hire veterans,” Steven said.</p>
+<p>&nbsp;</p>
 
-<p>In his staff assistant role, Steven supports the various programs of the division, from recreation to archaeology to the Wild Horse and Burro program, with permitting, correspondence, and more.</p>
+<p><strong>WASHINGTON – </strong>The Department of the Interior today announced a final rule to help guide the balanced management of America’s public lands. The <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="876a3ccf-e418-402c-80b0-a400b77c8e92" href="https://www.blm.gov/public-lands-rule" rel="noreferrer noopener" target="_blank">final Public Lands Rule</a> provides tools for the Bureau of Land Management (BLM) to help improve the health and resilience of public lands in the face of a changing climate; conserve important wildlife habitat and intact landscapes; facilitate responsible development; and better recognize unique cultural and natural resources on public lands.&nbsp;</p>
 
-<p>“It's often like a box of chocolates. You never know what you're going to get,” Steven said about the range of work he does.</p>
+<p>The Public Lands Rule builds on historic investments in public lands, waters and clean energy deployment provided by <a href="https://www.doi.gov/investing-america" rel="noreferrer noopener" target="_blank">President Biden’s Investing in America agenda</a>, which recognizes the critical value of our public lands to all Americans. It also complements the President’s <em><a href="https://www.doi.gov/priorities/america-the-beautiful" rel="noreferrer noopener" target="_blank">America the Beautiful</a></em> initiative, a 10-year, locally led and nationally scaled effort to protect, conserve, connect and restore the lands, waters and wildlife upon which we all depend.&nbsp;</p>
 
-<p>Before Steven came to work for the BLM, he was unfamiliar with the agency as a New Englander, and he visited his first national park when he was a Marine attending school in California.</p>
-
-<p>“I just had a feeling of calmness and serenity, and I've made it my mission essentially to go to as many of our public lands as possible,” he said. “I'm a huge advocate for sharing the opportunities and experiences that we have, connecting with our public lands.”</p>
-
-<p><v:shape id="_x0000_s1027" o:gfxdata="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
-AOcNAAAAAA==
-" stroked="f" type="#_x0000_t202"> <v:textbox inset="0,0,0,0"> </v:textbox></v:shape></p>
-
-<p>Beyond his division, Steven is also the Hispanic and Latino Special Emphasis Program Manager for BLM Arizona, supporting this community in connecting with public lands, feeling supported as land management employees, and more.</p>
+<p>Building on decades of land management experience and emphasizing the use of science and data, including Indigenous Knowledge, to guide balanced decision-making, the rule applies the existing fundamentals of land health across BLM programs, establishes restoration and mitigation leases, and clarifies practices to designate and protect Areas of Critical Environmental Concern (ACECs). The rule will help to ensure the BLM continues to protect land health while managing other uses of the public lands, such as clean energy development and outdoor recreation.&nbsp;&nbsp;</p>
 
 <figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="18e5f316-c4f3-4de1-8e13-2ca93048e9ef" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="77b0b3f1-9f20-446b-a9c1-308a0a194612" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -130,7 +53,7 @@ AOcNAAAAAA==
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/Steven%20Ala.jpg?itok=h5Yg86dl" width="530" height="530" alt="Steven Ala in a military uniform." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-05/Cosumnes_large.jpg?itok=c5z08u7f" width="640" height="282" alt="Duck fly over a wetland" typeof="foaf:Image">
 
 
 </div>
@@ -138,19 +61,76 @@ AOcNAAAAAA==
 </div>
 </div>
 
-<figcaption>Steven Ala served in the U.S. Marine Corps for six years. (Photo courtesy of Steven Ala)</figcaption>
+<figcaption>The Cosumnes River Preserve is home to California’s largest remaining valley oak riparian forest, and is one of the few protected wetland habitat areas in the state.. Photo by John Ciccarelli, BLM.</figcaption>
 </figure>
 
 
-<p>“Although Steve was new to federal civilian service,” said Jim Gipson, BLM Arizona Equal Employment Opportunity Manager, “he quickly figured out the important role that Special Emphasis Program Managers can play in helping management build a more racially and ethnically diverse workforce and supporting workplaces where all feel welcomed and included.”</p>
+<p>“As stewards of America’s public lands, the Interior Department takes seriously our role in helping bolster landscape resilience in the face of worsening climate impacts. Today’s final rule helps restore balance to our public lands as we continue using the best-available science to restore habitats, guide strategic and responsible development, and sustain our public lands for generations to come,” <strong>said Secretary Deb Haaland</strong>. “Complemented with historic investments from President Biden’s Investing in America agenda, we are implementing enduring changes that will benefit wildlife, communities and habitats.”&nbsp;&nbsp;</p>
 
-<p>“Inclusion is incredibly important for us because it helps create a stronger workforce. Diversity is something that binds us together, not only vertically, but horizontally as well,” Steven said. “It is incredibly important for our workforce to reflect our nation and us as public servants need to be conscious that we are a direct reflection of the nation. So having different backgrounds, learning from each other, all those things create a stronger environment and a stronger team so we can achieve the mission.”</p>
+<p>“America’s public lands are our national treasures and need to be managed and made resilient for future generations of Americans,” said <strong>John Podesta, Senior Advisor to the President for International Climate Policy</strong>. “Today’s final rule from the Department of the Interior is a huge win for ensuring balance on our public lands, helping them withstand the challenges of climate change and environmental threats like invasive species, and making sure they continue to provide services to the American people for decades to come.”&nbsp;</p>
 
-<p>In this Special Emphasis Program Manager role, Steven helps build and sustain a work environment where every employee feels respected, valued, included and safe.</p>
+<p>“The Interior Department is ensuring our public lands are managed with an eye to future generations, complementing President Biden’s ambitious conservation agenda,” said <strong>White House Council on Environmental Quality Chair Brenda Mallory</strong>. “From the most rugged backcountry spots to popular close-to-home recreation areas, these reforms will help deliver cleaner water, healthier lands, abundant wildlife, and more recreation opportunities for all of us.”&nbsp;</p>
 
-<p>“A lot of people are doing a lot of great work, and I would love for the public to be more aware of that,” Steven said.</p>
+<p>The final rule comes amid growing pressures and historic challenges facing land managers. The impacts of climate change—including prolonged drought, increasing wildfires, and an influx of invasive species—pose increasing risks to communities, wildlife and ecosystems. The Public Lands Rule will help the BLM navigate changing conditions on the ground, while helping public lands continue to serve as economic drivers across the West.&nbsp;</p>
+
+<p>“The BLM received and considered over 200,000 comments on the proposed rule from individuals, state, Tribal and local governments, industry groups and advocacy organizations, which led to important improvements in this final rule,” said<strong> Principal Deputy Assistant Secretary for Land and Minerals Management Dr. Steve Feldgus</strong>. “Continued broad collaboration with this diverse group of partners will be key to our implementation of this rule to ensure that our public lands are being managed for all Americans.”&nbsp;</p>
+
+<p>“Our public lands provide wildlife habitat and clean water, the energy that lights our homes, the wood we build with, and the places where we make family memories,” said <strong>BLM Director Tracy Stone-Manning</strong>. “This rule honors our obligation to current and future generations to help ensure our public lands and waters remain healthy amid growing pressures and change.”&nbsp;</p>
+
+<p>The final rule clarifies and refines concepts <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a3dbb21a-e603-4e08-ae95-812badce4d4c" href="https://www.blm.gov/press-release/interior-department-releases-proposed-plan-guide-balanced-management-public-lands" rel="noreferrer noopener" target="_blank">first proposed in April 2023</a>. The BLM provided a 90-day comment period on this rule, holding five public meetings and receiving over 200,000 comments, the vast majority of which supported the effort. In response to the substantive comments received, the BLM clarified and refined concepts laid out in the proposed rule.&nbsp;</p>
+
+<p>The final rule:&nbsp;</p>
+
+<ul role="list">
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{92}" paraid="1845017194"><strong>Directs BLM to manage for landscape health.</strong> Successful public land management that delivers natural resources, wildlife habitat and clean water requires a thorough understanding of the health and condition of the landscape, especially as conditions shift on the ground due to climate change. To help sustain the health of our lands and waters, the rule directs the BLM to manage public land uses in accordance with the fundamentals of land health, which will help watersheds support soils, plants, and water; ecosystems provide healthy populations and communities of plants and animals; and wildlife habitats on public lands protect threatened and endangered species consistent with the multiple use and sustained yield framework.&nbsp;&nbsp;</p>
+	</li>
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{167}" paraid="948577800"><strong>Provides a mechanism for restoring and protecting our public lands through restoration and mitigation leases.</strong> Restoration leases provide greater clarity for the BLM to work with appropriate partners to restore degraded lands. Mitigation leases will provide a clear and consistent mechanism for developers to offset their impacts by investing in land health elsewhere on public lands, like they currently can on state and private lands. The final rule clarifies who can obtain a restoration or mitigation lease, limiting potential lessees to qualified individuals, businesses, non-governmental organizations, Tribal governments, conservation districts, or state fish and wildlife agencies. Restoration and mitigation leases will not be issued if they would conflict with existing authorized uses.&nbsp;</p>
+	</li>
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{25}" paraid="2007072068"><strong>Clarifies the designation and management of ACECs. </strong>The final rule provides greater detail about how the BLM will continue to follow the direction in the Federal Land Policy and Management Act to prioritize the designation and protection of ACECs. Following public comments, the final rule clarifies how BLM consideration of new ACEC nominations and temporary management options does not interfere with the BLM’s discretion to continue advancing pending project applications.&nbsp;&nbsp;</p>
+	</li>
+</ul>
+
+<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{88}" paraid="142264570">The Public Lands Rule complements the BLM’s recently announced <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy Rule</a>, providing consistent direction and new tools for mitigation, helping advance the efficient and environmentally responsible development of renewable energy on BLM-managed public lands, providing greater clarity and consistency in permitting, and allowing for the continued acceleration of project reviews and approvals, while managing public lands under the principles of multiple use and sustained yield.&nbsp;</p>
+
+<p paraeid="{d394f3eb-337f-44b5-9c1e-b8510fed2d8e}{177}" paraid="201596216">The final rule will publish in the Federal Register in the coming days.&nbsp;</p>
 </div>
       
+
+
+
+
+  
+
+  <div class="field contact-block -subtitle">
+    <div><strong>Subtitle:</strong> </div>
+              <div>Public Lands Rule will help conserve wildlife habitat, restore places impacted by wildfire and drought, expand outdoor recreation, and guide thoughtful development</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -fiscal-year">
+    <div><strong>Fiscal Year:</strong> </div>
+              <div>2024</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -organization">
+    <div><strong>Organization:</strong> </div>
+              <div>Bureau of Land Management</div>
+          </div>
+
 
 
 
@@ -160,7 +140,19 @@ AOcNAAAAAA==
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+          <div><a href="https://www.blm.gov/region/alaska" hreflang="en">Alaska</a></div>
+          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
+          <div><a href="https://www.blm.gov/region/eastern-states" hreflang="en">Eastern States</a></div>
+          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
+          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+          <div><a href="https://www.blm.gov/region/nevada" hreflang="en">Nevada</a></div>
+          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+          <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
+          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
               </div>
       </div>
 
@@ -170,12 +162,13 @@ AOcNAAAAAA==
 
   
 
-<div class="blog-topics">
-    <div class="field contact-block -blog-topic">
-      <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/careers" hreflang="en">Careers</a></div>
-                </div>
-  </div>
+  <div class="field contact-block -tag">
+    <div><strong>Tag:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
+          <div><a href="https://www.blm.gov/tag/rule" hreflang="en">Rule</a></div>
+              </div>
+      </div>
 
 
 
@@ -183,60 +176,72 @@ AOcNAAAAAA==
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-04-24T12:00:00Z">Wed, 04/24/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -office">
-    <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/arizona-state-office" hreflang="en">Arizona State Office</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -thumbnail-image">
-    <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47741/edit" hreflang="en">Steven Ala</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -featured">
-    <div><strong>Featured:</strong> </div>
-              <div>Off</div>
-          </div>
-
-
-
-
-
-  
-
-<div class="blog-tags">
-    <div class="field contact-block -tag">
-      <div><strong>Tag:</strong> </div>
+  <div class="field contact-block -contact">
+    <div><strong>Contact:</strong> </div>
+          <div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/employee" hreflang="en">Employee</a></div>
-              <div><a href="https://www.blm.gov/tag/veterans" hreflang="en">veterans</a></div>
-                    </div>
+
+  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+  <div class="field contact-block -label">
+    <div><strong>Name:</strong> </div>
+              <div>Interior Press</div>
           </div>
-  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -email">
+    <div><strong>Email:</strong> </div>
+              <div>Interior_Press@ios.doi.gov</div>
+          </div>
+
+      </div>
+</div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -related-content">
+    <div><strong>Related Content:</strong> </div>
+          <div>
+              <div>
+
+  <div class="paragraph paragraph--type--wysiwyg paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+            <div class="field contact-block -summary"><ul>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="4f604006-b8a9-43b5-90cf-2d3b0b90baa4" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_general-factsheet_508.pdf">General Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="f99f8a1f-ea7f-4ce4-ac83-edc5dc658672" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_ACEC_508.pdf">ACECs Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="008578b3-f5b3-4581-9395-a4618a37bfde" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Land%20Health_508.pdf">Land Health Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="970f5162-0030-46fc-8e45-5068eb4379ab" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Restoration%20and%20Mitigation%20Leases_508.pdf">Restoration &amp; Mitigation Leases Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="6e15f147-5842-44e9-816b-d9e37a75eec1" href="https://www.blm.gov/sites/default/files/docs/2024-04/BLM-Final-Public-Land-Rule-Infographic.pdf">Infographic</a></li>
+</ul>
+</div>
+      
+      </div>
+</div>
+              </div>
+      </div>
 
 
 
@@ -247,20 +252,9 @@ AOcNAAAAAA==
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/arizona" hreflang="en">Arizona</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
               </div>
-      </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -teaser-image">
-    <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47741/edit" hreflang="en">Steven Ala</a></div>
-          </div> 
+      </div> 
 
 <https://www.blm.gov/blog/2024-04-24/blm-arizona-steven-ala-national-administrative-professionals-day>
 
@@ -270,7 +264,7 @@ AOcNAAAAAA==
 
 date: 2024-04-23, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>From Toys for Tots to BLM Arizona, Steven Ala shines on National Administrative Professionals Day</h1></div>
+<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/biden-harris-administration-finalizes-strategy-guide-balanced-management-conservation" hreflang="en">Biden-Harris Administration finalizes strategy to guide balanced management, conservation of public lands</a></h2></div>
       
 
 
@@ -278,107 +272,30 @@ date: 2024-04-23, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/CQqPESeqhaM?si=tvr5ZkX7u2IZpb2B" title="From Toys for Tots to BLM Arizona, Steven Ala shines on National Administrative Professionals Day
-"></iframe></div>
+  <div class="field contact-block -release-date">
+    <div><strong>Publication Date:</strong> </div>
+              <div><time datetime="2024-04-18T12:00:00Z">Thu, 04/18/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
-<p style="margin-bottom:11px"><em>For a version of this video with audio descriptions, visit:&nbsp;<a href="https://youtu.be/zB0n_51G22k">https://youtu.be/zB0n_51G22k</a></em></p>
 
-<p style="margin-bottom:11px">In the cool winter months during the first year of the COVID-19 pandemic, stacks of toys piled up in a warehouse in New Orleans.</p>
 
-<p>Nearly 60,000 items, from books to bikes, were collected, benefitting the city’s less fortunate families and children. Thanks to the hard work and passion of Steven Ala, a U.S. Marine Corps service member who managed the warehouse during the 2020-2021 season, the holidays were a little bit brighter.</p>
 
-<p>Including New Orleans, his military service took him to both coasts of the United States and as far away as Japan and Korea.</p>
 
-<p>“Transitioning military service specifically, I still live by those core values of honor, courage and commitment,” Steven said.</p>
+  
 
-<p>After six years in the Marine Corps, these values guide the work he does as staff assistant for the Bureau of Land Management Arizona’s Division of Resources and Planning.</p>
+            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/yssRQ8Z0nu8?si=bfjOBNEDwtaqQDwF" title="Public Lands Rule"></iframe></div>
 
-<p>“All the things that you would want in a leader you are getting when you hire veterans,” Steven said.</p>
+<p>&nbsp;</p>
 
-<p>In his staff assistant role, Steven supports the various programs of the division, from recreation to archaeology to the Wild Horse and Burro program, with permitting, correspondence, and more.</p>
+<p><strong>WASHINGTON – </strong>The Department of the Interior today announced a final rule to help guide the balanced management of America’s public lands. The <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="876a3ccf-e418-402c-80b0-a400b77c8e92" href="https://www.blm.gov/public-lands-rule" rel="noreferrer noopener" target="_blank">final Public Lands Rule</a> provides tools for the Bureau of Land Management (BLM) to help improve the health and resilience of public lands in the face of a changing climate; conserve important wildlife habitat and intact landscapes; facilitate responsible development; and better recognize unique cultural and natural resources on public lands.&nbsp;</p>
 
-<p>“It's often like a box of chocolates. You never know what you're going to get,” Steven said about the range of work he does.</p>
+<p>The Public Lands Rule builds on historic investments in public lands, waters and clean energy deployment provided by <a href="https://www.doi.gov/investing-america" rel="noreferrer noopener" target="_blank">President Biden’s Investing in America agenda</a>, which recognizes the critical value of our public lands to all Americans. It also complements the President’s <em><a href="https://www.doi.gov/priorities/america-the-beautiful" rel="noreferrer noopener" target="_blank">America the Beautiful</a></em> initiative, a 10-year, locally led and nationally scaled effort to protect, conserve, connect and restore the lands, waters and wildlife upon which we all depend.&nbsp;</p>
 
-<p>Before Steven came to work for the BLM, he was unfamiliar with the agency as a New Englander, and he visited his first national park when he was a Marine attending school in California.</p>
-
-<p>“I just had a feeling of calmness and serenity, and I've made it my mission essentially to go to as many of our public lands as possible,” he said. “I'm a huge advocate for sharing the opportunities and experiences that we have, connecting with our public lands.”</p>
-
-<p><v:shape id="_x0000_s1027" o:gfxdata="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
-AOcNAAAAAA==
-" stroked="f" type="#_x0000_t202"> <v:textbox inset="0,0,0,0"> </v:textbox></v:shape></p>
-
-<p>Beyond his division, Steven is also the Hispanic and Latino Special Emphasis Program Manager for BLM Arizona, supporting this community in connecting with public lands, feeling supported as land management employees, and more.</p>
+<p>Building on decades of land management experience and emphasizing the use of science and data, including Indigenous Knowledge, to guide balanced decision-making, the rule applies the existing fundamentals of land health across BLM programs, establishes restoration and mitigation leases, and clarifies practices to designate and protect Areas of Critical Environmental Concern (ACECs). The rule will help to ensure the BLM continues to protect land health while managing other uses of the public lands, such as clean energy development and outdoor recreation.&nbsp;&nbsp;</p>
 
 <figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="18e5f316-c4f3-4de1-8e13-2ca93048e9ef" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="77b0b3f1-9f20-446b-a9c1-308a0a194612" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -387,7 +304,7 @@ AOcNAAAAAA==
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/Steven%20Ala.jpg?itok=h5Yg86dl" width="530" height="530" alt="Steven Ala in a military uniform." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-05/Cosumnes_large.jpg?itok=c5z08u7f" width="640" height="282" alt="Duck fly over a wetland" typeof="foaf:Image">
 
 
 </div>
@@ -395,19 +312,76 @@ AOcNAAAAAA==
 </div>
 </div>
 
-<figcaption>Steven Ala served in the U.S. Marine Corps for six years. (Photo courtesy of Steven Ala)</figcaption>
+<figcaption>The Cosumnes River Preserve is home to California’s largest remaining valley oak riparian forest, and is one of the few protected wetland habitat areas in the state.. Photo by John Ciccarelli, BLM.</figcaption>
 </figure>
 
 
-<p>“Although Steve was new to federal civilian service,” said Jim Gipson, BLM Arizona Equal Employment Opportunity Manager, “he quickly figured out the important role that Special Emphasis Program Managers can play in helping management build a more racially and ethnically diverse workforce and supporting workplaces where all feel welcomed and included.”</p>
+<p>“As stewards of America’s public lands, the Interior Department takes seriously our role in helping bolster landscape resilience in the face of worsening climate impacts. Today’s final rule helps restore balance to our public lands as we continue using the best-available science to restore habitats, guide strategic and responsible development, and sustain our public lands for generations to come,” <strong>said Secretary Deb Haaland</strong>. “Complemented with historic investments from President Biden’s Investing in America agenda, we are implementing enduring changes that will benefit wildlife, communities and habitats.”&nbsp;&nbsp;</p>
 
-<p>“Inclusion is incredibly important for us because it helps create a stronger workforce. Diversity is something that binds us together, not only vertically, but horizontally as well,” Steven said. “It is incredibly important for our workforce to reflect our nation and us as public servants need to be conscious that we are a direct reflection of the nation. So having different backgrounds, learning from each other, all those things create a stronger environment and a stronger team so we can achieve the mission.”</p>
+<p>“America’s public lands are our national treasures and need to be managed and made resilient for future generations of Americans,” said <strong>John Podesta, Senior Advisor to the President for International Climate Policy</strong>. “Today’s final rule from the Department of the Interior is a huge win for ensuring balance on our public lands, helping them withstand the challenges of climate change and environmental threats like invasive species, and making sure they continue to provide services to the American people for decades to come.”&nbsp;</p>
 
-<p>In this Special Emphasis Program Manager role, Steven helps build and sustain a work environment where every employee feels respected, valued, included and safe.</p>
+<p>“The Interior Department is ensuring our public lands are managed with an eye to future generations, complementing President Biden’s ambitious conservation agenda,” said <strong>White House Council on Environmental Quality Chair Brenda Mallory</strong>. “From the most rugged backcountry spots to popular close-to-home recreation areas, these reforms will help deliver cleaner water, healthier lands, abundant wildlife, and more recreation opportunities for all of us.”&nbsp;</p>
 
-<p>“A lot of people are doing a lot of great work, and I would love for the public to be more aware of that,” Steven said.</p>
+<p>The final rule comes amid growing pressures and historic challenges facing land managers. The impacts of climate change—including prolonged drought, increasing wildfires, and an influx of invasive species—pose increasing risks to communities, wildlife and ecosystems. The Public Lands Rule will help the BLM navigate changing conditions on the ground, while helping public lands continue to serve as economic drivers across the West.&nbsp;</p>
+
+<p>“The BLM received and considered over 200,000 comments on the proposed rule from individuals, state, Tribal and local governments, industry groups and advocacy organizations, which led to important improvements in this final rule,” said<strong> Principal Deputy Assistant Secretary for Land and Minerals Management Dr. Steve Feldgus</strong>. “Continued broad collaboration with this diverse group of partners will be key to our implementation of this rule to ensure that our public lands are being managed for all Americans.”&nbsp;</p>
+
+<p>“Our public lands provide wildlife habitat and clean water, the energy that lights our homes, the wood we build with, and the places where we make family memories,” said <strong>BLM Director Tracy Stone-Manning</strong>. “This rule honors our obligation to current and future generations to help ensure our public lands and waters remain healthy amid growing pressures and change.”&nbsp;</p>
+
+<p>The final rule clarifies and refines concepts <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a3dbb21a-e603-4e08-ae95-812badce4d4c" href="https://www.blm.gov/press-release/interior-department-releases-proposed-plan-guide-balanced-management-public-lands" rel="noreferrer noopener" target="_blank">first proposed in April 2023</a>. The BLM provided a 90-day comment period on this rule, holding five public meetings and receiving over 200,000 comments, the vast majority of which supported the effort. In response to the substantive comments received, the BLM clarified and refined concepts laid out in the proposed rule.&nbsp;</p>
+
+<p>The final rule:&nbsp;</p>
+
+<ul role="list">
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{92}" paraid="1845017194"><strong>Directs BLM to manage for landscape health.</strong> Successful public land management that delivers natural resources, wildlife habitat and clean water requires a thorough understanding of the health and condition of the landscape, especially as conditions shift on the ground due to climate change. To help sustain the health of our lands and waters, the rule directs the BLM to manage public land uses in accordance with the fundamentals of land health, which will help watersheds support soils, plants, and water; ecosystems provide healthy populations and communities of plants and animals; and wildlife habitats on public lands protect threatened and endangered species consistent with the multiple use and sustained yield framework.&nbsp;&nbsp;</p>
+	</li>
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{167}" paraid="948577800"><strong>Provides a mechanism for restoring and protecting our public lands through restoration and mitigation leases.</strong> Restoration leases provide greater clarity for the BLM to work with appropriate partners to restore degraded lands. Mitigation leases will provide a clear and consistent mechanism for developers to offset their impacts by investing in land health elsewhere on public lands, like they currently can on state and private lands. The final rule clarifies who can obtain a restoration or mitigation lease, limiting potential lessees to qualified individuals, businesses, non-governmental organizations, Tribal governments, conservation districts, or state fish and wildlife agencies. Restoration and mitigation leases will not be issued if they would conflict with existing authorized uses.&nbsp;</p>
+	</li>
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{25}" paraid="2007072068"><strong>Clarifies the designation and management of ACECs. </strong>The final rule provides greater detail about how the BLM will continue to follow the direction in the Federal Land Policy and Management Act to prioritize the designation and protection of ACECs. Following public comments, the final rule clarifies how BLM consideration of new ACEC nominations and temporary management options does not interfere with the BLM’s discretion to continue advancing pending project applications.&nbsp;&nbsp;</p>
+	</li>
+</ul>
+
+<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{88}" paraid="142264570">The Public Lands Rule complements the BLM’s recently announced <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy Rule</a>, providing consistent direction and new tools for mitigation, helping advance the efficient and environmentally responsible development of renewable energy on BLM-managed public lands, providing greater clarity and consistency in permitting, and allowing for the continued acceleration of project reviews and approvals, while managing public lands under the principles of multiple use and sustained yield.&nbsp;</p>
+
+<p paraeid="{d394f3eb-337f-44b5-9c1e-b8510fed2d8e}{177}" paraid="201596216">The final rule will publish in the Federal Register in the coming days.&nbsp;</p>
 </div>
       
+
+
+
+
+  
+
+  <div class="field contact-block -subtitle">
+    <div><strong>Subtitle:</strong> </div>
+              <div>Public Lands Rule will help conserve wildlife habitat, restore places impacted by wildfire and drought, expand outdoor recreation, and guide thoughtful development</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -fiscal-year">
+    <div><strong>Fiscal Year:</strong> </div>
+              <div>2024</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -organization">
+    <div><strong>Organization:</strong> </div>
+              <div>Bureau of Land Management</div>
+          </div>
+
 
 
 
@@ -417,7 +391,19 @@ AOcNAAAAAA==
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+          <div><a href="https://www.blm.gov/region/alaska" hreflang="en">Alaska</a></div>
+          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
+          <div><a href="https://www.blm.gov/region/eastern-states" hreflang="en">Eastern States</a></div>
+          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
+          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+          <div><a href="https://www.blm.gov/region/nevada" hreflang="en">Nevada</a></div>
+          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+          <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
+          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
               </div>
       </div>
 
@@ -427,12 +413,13 @@ AOcNAAAAAA==
 
   
 
-<div class="blog-topics">
-    <div class="field contact-block -blog-topic">
-      <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/careers" hreflang="en">Careers</a></div>
-                </div>
-  </div>
+  <div class="field contact-block -tag">
+    <div><strong>Tag:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
+          <div><a href="https://www.blm.gov/tag/rule" hreflang="en">Rule</a></div>
+              </div>
+      </div>
 
 
 
@@ -440,60 +427,72 @@ AOcNAAAAAA==
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-04-24T12:00:00Z">Wed, 04/24/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -office">
-    <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/arizona-state-office" hreflang="en">Arizona State Office</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -thumbnail-image">
-    <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47741/edit" hreflang="en">Steven Ala</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -featured">
-    <div><strong>Featured:</strong> </div>
-              <div>Off</div>
-          </div>
-
-
-
-
-
-  
-
-<div class="blog-tags">
-    <div class="field contact-block -tag">
-      <div><strong>Tag:</strong> </div>
+  <div class="field contact-block -contact">
+    <div><strong>Contact:</strong> </div>
+          <div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/employee" hreflang="en">Employee</a></div>
-              <div><a href="https://www.blm.gov/tag/veterans" hreflang="en">veterans</a></div>
-                    </div>
+
+  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+  <div class="field contact-block -label">
+    <div><strong>Name:</strong> </div>
+              <div>Interior Press</div>
           </div>
-  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -email">
+    <div><strong>Email:</strong> </div>
+              <div>Interior_Press@ios.doi.gov</div>
+          </div>
+
+      </div>
+</div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -related-content">
+    <div><strong>Related Content:</strong> </div>
+          <div>
+              <div>
+
+  <div class="paragraph paragraph--type--wysiwyg paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+            <div class="field contact-block -summary"><ul>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="4f604006-b8a9-43b5-90cf-2d3b0b90baa4" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_general-factsheet_508.pdf">General Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="f99f8a1f-ea7f-4ce4-ac83-edc5dc658672" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_ACEC_508.pdf">ACECs Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="008578b3-f5b3-4581-9395-a4618a37bfde" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Land%20Health_508.pdf">Land Health Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="970f5162-0030-46fc-8e45-5068eb4379ab" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Restoration%20and%20Mitigation%20Leases_508.pdf">Restoration &amp; Mitigation Leases Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="6e15f147-5842-44e9-816b-d9e37a75eec1" href="https://www.blm.gov/sites/default/files/docs/2024-04/BLM-Final-Public-Land-Rule-Infographic.pdf">Infographic</a></li>
+</ul>
+</div>
+      
+      </div>
+</div>
+              </div>
+      </div>
 
 
 
@@ -504,20 +503,9 @@ AOcNAAAAAA==
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/arizona" hreflang="en">Arizona</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
               </div>
-      </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -teaser-image">
-    <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47741/edit" hreflang="en">Steven Ala</a></div>
-          </div> 
+      </div> 
 
 <https://www.blm.gov/blog/2024-04-23/public-lands-provide-respite-people-autism>
 
@@ -527,7 +515,7 @@ AOcNAAAAAA==
 
 date: 2024-04-22, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>From Toys for Tots to BLM Arizona, Steven Ala shines on National Administrative Professionals Day</h1></div>
+<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/biden-harris-administration-finalizes-strategy-guide-balanced-management-conservation" hreflang="en">Biden-Harris Administration finalizes strategy to guide balanced management, conservation of public lands</a></h2></div>
       
 
 
@@ -535,107 +523,30 @@ date: 2024-04-22, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/CQqPESeqhaM?si=tvr5ZkX7u2IZpb2B" title="From Toys for Tots to BLM Arizona, Steven Ala shines on National Administrative Professionals Day
-"></iframe></div>
+  <div class="field contact-block -release-date">
+    <div><strong>Publication Date:</strong> </div>
+              <div><time datetime="2024-04-18T12:00:00Z">Thu, 04/18/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
-<p style="margin-bottom:11px"><em>For a version of this video with audio descriptions, visit:&nbsp;<a href="https://youtu.be/zB0n_51G22k">https://youtu.be/zB0n_51G22k</a></em></p>
 
-<p style="margin-bottom:11px">In the cool winter months during the first year of the COVID-19 pandemic, stacks of toys piled up in a warehouse in New Orleans.</p>
 
-<p>Nearly 60,000 items, from books to bikes, were collected, benefitting the city’s less fortunate families and children. Thanks to the hard work and passion of Steven Ala, a U.S. Marine Corps service member who managed the warehouse during the 2020-2021 season, the holidays were a little bit brighter.</p>
 
-<p>Including New Orleans, his military service took him to both coasts of the United States and as far away as Japan and Korea.</p>
 
-<p>“Transitioning military service specifically, I still live by those core values of honor, courage and commitment,” Steven said.</p>
+  
 
-<p>After six years in the Marine Corps, these values guide the work he does as staff assistant for the Bureau of Land Management Arizona’s Division of Resources and Planning.</p>
+            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/yssRQ8Z0nu8?si=bfjOBNEDwtaqQDwF" title="Public Lands Rule"></iframe></div>
 
-<p>“All the things that you would want in a leader you are getting when you hire veterans,” Steven said.</p>
+<p>&nbsp;</p>
 
-<p>In his staff assistant role, Steven supports the various programs of the division, from recreation to archaeology to the Wild Horse and Burro program, with permitting, correspondence, and more.</p>
+<p><strong>WASHINGTON – </strong>The Department of the Interior today announced a final rule to help guide the balanced management of America’s public lands. The <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="876a3ccf-e418-402c-80b0-a400b77c8e92" href="https://www.blm.gov/public-lands-rule" rel="noreferrer noopener" target="_blank">final Public Lands Rule</a> provides tools for the Bureau of Land Management (BLM) to help improve the health and resilience of public lands in the face of a changing climate; conserve important wildlife habitat and intact landscapes; facilitate responsible development; and better recognize unique cultural and natural resources on public lands.&nbsp;</p>
 
-<p>“It's often like a box of chocolates. You never know what you're going to get,” Steven said about the range of work he does.</p>
+<p>The Public Lands Rule builds on historic investments in public lands, waters and clean energy deployment provided by <a href="https://www.doi.gov/investing-america" rel="noreferrer noopener" target="_blank">President Biden’s Investing in America agenda</a>, which recognizes the critical value of our public lands to all Americans. It also complements the President’s <em><a href="https://www.doi.gov/priorities/america-the-beautiful" rel="noreferrer noopener" target="_blank">America the Beautiful</a></em> initiative, a 10-year, locally led and nationally scaled effort to protect, conserve, connect and restore the lands, waters and wildlife upon which we all depend.&nbsp;</p>
 
-<p>Before Steven came to work for the BLM, he was unfamiliar with the agency as a New Englander, and he visited his first national park when he was a Marine attending school in California.</p>
-
-<p>“I just had a feeling of calmness and serenity, and I've made it my mission essentially to go to as many of our public lands as possible,” he said. “I'm a huge advocate for sharing the opportunities and experiences that we have, connecting with our public lands.”</p>
-
-<p><v:shape id="_x0000_s1027" o:gfxdata="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
-AOcNAAAAAA==
-" stroked="f" type="#_x0000_t202"> <v:textbox inset="0,0,0,0"> </v:textbox></v:shape></p>
-
-<p>Beyond his division, Steven is also the Hispanic and Latino Special Emphasis Program Manager for BLM Arizona, supporting this community in connecting with public lands, feeling supported as land management employees, and more.</p>
+<p>Building on decades of land management experience and emphasizing the use of science and data, including Indigenous Knowledge, to guide balanced decision-making, the rule applies the existing fundamentals of land health across BLM programs, establishes restoration and mitigation leases, and clarifies practices to designate and protect Areas of Critical Environmental Concern (ACECs). The rule will help to ensure the BLM continues to protect land health while managing other uses of the public lands, such as clean energy development and outdoor recreation.&nbsp;&nbsp;</p>
 
 <figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="18e5f316-c4f3-4de1-8e13-2ca93048e9ef" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="77b0b3f1-9f20-446b-a9c1-308a0a194612" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -644,7 +555,7 @@ AOcNAAAAAA==
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/Steven%20Ala.jpg?itok=h5Yg86dl" width="530" height="530" alt="Steven Ala in a military uniform." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-05/Cosumnes_large.jpg?itok=c5z08u7f" width="640" height="282" alt="Duck fly over a wetland" typeof="foaf:Image">
 
 
 </div>
@@ -652,19 +563,76 @@ AOcNAAAAAA==
 </div>
 </div>
 
-<figcaption>Steven Ala served in the U.S. Marine Corps for six years. (Photo courtesy of Steven Ala)</figcaption>
+<figcaption>The Cosumnes River Preserve is home to California’s largest remaining valley oak riparian forest, and is one of the few protected wetland habitat areas in the state.. Photo by John Ciccarelli, BLM.</figcaption>
 </figure>
 
 
-<p>“Although Steve was new to federal civilian service,” said Jim Gipson, BLM Arizona Equal Employment Opportunity Manager, “he quickly figured out the important role that Special Emphasis Program Managers can play in helping management build a more racially and ethnically diverse workforce and supporting workplaces where all feel welcomed and included.”</p>
+<p>“As stewards of America’s public lands, the Interior Department takes seriously our role in helping bolster landscape resilience in the face of worsening climate impacts. Today’s final rule helps restore balance to our public lands as we continue using the best-available science to restore habitats, guide strategic and responsible development, and sustain our public lands for generations to come,” <strong>said Secretary Deb Haaland</strong>. “Complemented with historic investments from President Biden’s Investing in America agenda, we are implementing enduring changes that will benefit wildlife, communities and habitats.”&nbsp;&nbsp;</p>
 
-<p>“Inclusion is incredibly important for us because it helps create a stronger workforce. Diversity is something that binds us together, not only vertically, but horizontally as well,” Steven said. “It is incredibly important for our workforce to reflect our nation and us as public servants need to be conscious that we are a direct reflection of the nation. So having different backgrounds, learning from each other, all those things create a stronger environment and a stronger team so we can achieve the mission.”</p>
+<p>“America’s public lands are our national treasures and need to be managed and made resilient for future generations of Americans,” said <strong>John Podesta, Senior Advisor to the President for International Climate Policy</strong>. “Today’s final rule from the Department of the Interior is a huge win for ensuring balance on our public lands, helping them withstand the challenges of climate change and environmental threats like invasive species, and making sure they continue to provide services to the American people for decades to come.”&nbsp;</p>
 
-<p>In this Special Emphasis Program Manager role, Steven helps build and sustain a work environment where every employee feels respected, valued, included and safe.</p>
+<p>“The Interior Department is ensuring our public lands are managed with an eye to future generations, complementing President Biden’s ambitious conservation agenda,” said <strong>White House Council on Environmental Quality Chair Brenda Mallory</strong>. “From the most rugged backcountry spots to popular close-to-home recreation areas, these reforms will help deliver cleaner water, healthier lands, abundant wildlife, and more recreation opportunities for all of us.”&nbsp;</p>
 
-<p>“A lot of people are doing a lot of great work, and I would love for the public to be more aware of that,” Steven said.</p>
+<p>The final rule comes amid growing pressures and historic challenges facing land managers. The impacts of climate change—including prolonged drought, increasing wildfires, and an influx of invasive species—pose increasing risks to communities, wildlife and ecosystems. The Public Lands Rule will help the BLM navigate changing conditions on the ground, while helping public lands continue to serve as economic drivers across the West.&nbsp;</p>
+
+<p>“The BLM received and considered over 200,000 comments on the proposed rule from individuals, state, Tribal and local governments, industry groups and advocacy organizations, which led to important improvements in this final rule,” said<strong> Principal Deputy Assistant Secretary for Land and Minerals Management Dr. Steve Feldgus</strong>. “Continued broad collaboration with this diverse group of partners will be key to our implementation of this rule to ensure that our public lands are being managed for all Americans.”&nbsp;</p>
+
+<p>“Our public lands provide wildlife habitat and clean water, the energy that lights our homes, the wood we build with, and the places where we make family memories,” said <strong>BLM Director Tracy Stone-Manning</strong>. “This rule honors our obligation to current and future generations to help ensure our public lands and waters remain healthy amid growing pressures and change.”&nbsp;</p>
+
+<p>The final rule clarifies and refines concepts <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a3dbb21a-e603-4e08-ae95-812badce4d4c" href="https://www.blm.gov/press-release/interior-department-releases-proposed-plan-guide-balanced-management-public-lands" rel="noreferrer noopener" target="_blank">first proposed in April 2023</a>. The BLM provided a 90-day comment period on this rule, holding five public meetings and receiving over 200,000 comments, the vast majority of which supported the effort. In response to the substantive comments received, the BLM clarified and refined concepts laid out in the proposed rule.&nbsp;</p>
+
+<p>The final rule:&nbsp;</p>
+
+<ul role="list">
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{92}" paraid="1845017194"><strong>Directs BLM to manage for landscape health.</strong> Successful public land management that delivers natural resources, wildlife habitat and clean water requires a thorough understanding of the health and condition of the landscape, especially as conditions shift on the ground due to climate change. To help sustain the health of our lands and waters, the rule directs the BLM to manage public land uses in accordance with the fundamentals of land health, which will help watersheds support soils, plants, and water; ecosystems provide healthy populations and communities of plants and animals; and wildlife habitats on public lands protect threatened and endangered species consistent with the multiple use and sustained yield framework.&nbsp;&nbsp;</p>
+	</li>
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{167}" paraid="948577800"><strong>Provides a mechanism for restoring and protecting our public lands through restoration and mitigation leases.</strong> Restoration leases provide greater clarity for the BLM to work with appropriate partners to restore degraded lands. Mitigation leases will provide a clear and consistent mechanism for developers to offset their impacts by investing in land health elsewhere on public lands, like they currently can on state and private lands. The final rule clarifies who can obtain a restoration or mitigation lease, limiting potential lessees to qualified individuals, businesses, non-governmental organizations, Tribal governments, conservation districts, or state fish and wildlife agencies. Restoration and mitigation leases will not be issued if they would conflict with existing authorized uses.&nbsp;</p>
+	</li>
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{25}" paraid="2007072068"><strong>Clarifies the designation and management of ACECs. </strong>The final rule provides greater detail about how the BLM will continue to follow the direction in the Federal Land Policy and Management Act to prioritize the designation and protection of ACECs. Following public comments, the final rule clarifies how BLM consideration of new ACEC nominations and temporary management options does not interfere with the BLM’s discretion to continue advancing pending project applications.&nbsp;&nbsp;</p>
+	</li>
+</ul>
+
+<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{88}" paraid="142264570">The Public Lands Rule complements the BLM’s recently announced <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy Rule</a>, providing consistent direction and new tools for mitigation, helping advance the efficient and environmentally responsible development of renewable energy on BLM-managed public lands, providing greater clarity and consistency in permitting, and allowing for the continued acceleration of project reviews and approvals, while managing public lands under the principles of multiple use and sustained yield.&nbsp;</p>
+
+<p paraeid="{d394f3eb-337f-44b5-9c1e-b8510fed2d8e}{177}" paraid="201596216">The final rule will publish in the Federal Register in the coming days.&nbsp;</p>
 </div>
       
+
+
+
+
+  
+
+  <div class="field contact-block -subtitle">
+    <div><strong>Subtitle:</strong> </div>
+              <div>Public Lands Rule will help conserve wildlife habitat, restore places impacted by wildfire and drought, expand outdoor recreation, and guide thoughtful development</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -fiscal-year">
+    <div><strong>Fiscal Year:</strong> </div>
+              <div>2024</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -organization">
+    <div><strong>Organization:</strong> </div>
+              <div>Bureau of Land Management</div>
+          </div>
+
 
 
 
@@ -674,7 +642,19 @@ AOcNAAAAAA==
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+          <div><a href="https://www.blm.gov/region/alaska" hreflang="en">Alaska</a></div>
+          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
+          <div><a href="https://www.blm.gov/region/eastern-states" hreflang="en">Eastern States</a></div>
+          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
+          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+          <div><a href="https://www.blm.gov/region/nevada" hreflang="en">Nevada</a></div>
+          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+          <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
+          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
               </div>
       </div>
 
@@ -684,12 +664,13 @@ AOcNAAAAAA==
 
   
 
-<div class="blog-topics">
-    <div class="field contact-block -blog-topic">
-      <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/careers" hreflang="en">Careers</a></div>
-                </div>
-  </div>
+  <div class="field contact-block -tag">
+    <div><strong>Tag:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
+          <div><a href="https://www.blm.gov/tag/rule" hreflang="en">Rule</a></div>
+              </div>
+      </div>
 
 
 
@@ -697,60 +678,72 @@ AOcNAAAAAA==
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-04-24T12:00:00Z">Wed, 04/24/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -office">
-    <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/arizona-state-office" hreflang="en">Arizona State Office</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -thumbnail-image">
-    <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47741/edit" hreflang="en">Steven Ala</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -featured">
-    <div><strong>Featured:</strong> </div>
-              <div>Off</div>
-          </div>
-
-
-
-
-
-  
-
-<div class="blog-tags">
-    <div class="field contact-block -tag">
-      <div><strong>Tag:</strong> </div>
+  <div class="field contact-block -contact">
+    <div><strong>Contact:</strong> </div>
+          <div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/employee" hreflang="en">Employee</a></div>
-              <div><a href="https://www.blm.gov/tag/veterans" hreflang="en">veterans</a></div>
-                    </div>
+
+  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+  <div class="field contact-block -label">
+    <div><strong>Name:</strong> </div>
+              <div>Interior Press</div>
           </div>
-  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -email">
+    <div><strong>Email:</strong> </div>
+              <div>Interior_Press@ios.doi.gov</div>
+          </div>
+
+      </div>
+</div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -related-content">
+    <div><strong>Related Content:</strong> </div>
+          <div>
+              <div>
+
+  <div class="paragraph paragraph--type--wysiwyg paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+            <div class="field contact-block -summary"><ul>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="4f604006-b8a9-43b5-90cf-2d3b0b90baa4" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_general-factsheet_508.pdf">General Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="f99f8a1f-ea7f-4ce4-ac83-edc5dc658672" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_ACEC_508.pdf">ACECs Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="008578b3-f5b3-4581-9395-a4618a37bfde" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Land%20Health_508.pdf">Land Health Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="970f5162-0030-46fc-8e45-5068eb4379ab" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Restoration%20and%20Mitigation%20Leases_508.pdf">Restoration &amp; Mitigation Leases Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="6e15f147-5842-44e9-816b-d9e37a75eec1" href="https://www.blm.gov/sites/default/files/docs/2024-04/BLM-Final-Public-Land-Rule-Infographic.pdf">Infographic</a></li>
+</ul>
+</div>
+      
+      </div>
+</div>
+              </div>
+      </div>
 
 
 
@@ -761,20 +754,9 @@ AOcNAAAAAA==
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/arizona" hreflang="en">Arizona</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
               </div>
-      </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -teaser-image">
-    <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47741/edit" hreflang="en">Steven Ala</a></div>
-          </div> 
+      </div> 
 
 <https://www.blm.gov/blog/2024-04-22/doug-page-blm-arizona-site-steward-volunteer>
 
@@ -784,7 +766,7 @@ AOcNAAAAAA==
 
 date: 2024-04-22, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>From Toys for Tots to BLM Arizona, Steven Ala shines on National Administrative Professionals Day</h1></div>
+<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/biden-harris-administration-finalizes-strategy-guide-balanced-management-conservation" hreflang="en">Biden-Harris Administration finalizes strategy to guide balanced management, conservation of public lands</a></h2></div>
       
 
 
@@ -792,107 +774,30 @@ date: 2024-04-22, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/CQqPESeqhaM?si=tvr5ZkX7u2IZpb2B" title="From Toys for Tots to BLM Arizona, Steven Ala shines on National Administrative Professionals Day
-"></iframe></div>
+  <div class="field contact-block -release-date">
+    <div><strong>Publication Date:</strong> </div>
+              <div><time datetime="2024-04-18T12:00:00Z">Thu, 04/18/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
-<p style="margin-bottom:11px"><em>For a version of this video with audio descriptions, visit:&nbsp;<a href="https://youtu.be/zB0n_51G22k">https://youtu.be/zB0n_51G22k</a></em></p>
 
-<p style="margin-bottom:11px">In the cool winter months during the first year of the COVID-19 pandemic, stacks of toys piled up in a warehouse in New Orleans.</p>
 
-<p>Nearly 60,000 items, from books to bikes, were collected, benefitting the city’s less fortunate families and children. Thanks to the hard work and passion of Steven Ala, a U.S. Marine Corps service member who managed the warehouse during the 2020-2021 season, the holidays were a little bit brighter.</p>
 
-<p>Including New Orleans, his military service took him to both coasts of the United States and as far away as Japan and Korea.</p>
 
-<p>“Transitioning military service specifically, I still live by those core values of honor, courage and commitment,” Steven said.</p>
+  
 
-<p>After six years in the Marine Corps, these values guide the work he does as staff assistant for the Bureau of Land Management Arizona’s Division of Resources and Planning.</p>
+            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/yssRQ8Z0nu8?si=bfjOBNEDwtaqQDwF" title="Public Lands Rule"></iframe></div>
 
-<p>“All the things that you would want in a leader you are getting when you hire veterans,” Steven said.</p>
+<p>&nbsp;</p>
 
-<p>In his staff assistant role, Steven supports the various programs of the division, from recreation to archaeology to the Wild Horse and Burro program, with permitting, correspondence, and more.</p>
+<p><strong>WASHINGTON – </strong>The Department of the Interior today announced a final rule to help guide the balanced management of America’s public lands. The <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="876a3ccf-e418-402c-80b0-a400b77c8e92" href="https://www.blm.gov/public-lands-rule" rel="noreferrer noopener" target="_blank">final Public Lands Rule</a> provides tools for the Bureau of Land Management (BLM) to help improve the health and resilience of public lands in the face of a changing climate; conserve important wildlife habitat and intact landscapes; facilitate responsible development; and better recognize unique cultural and natural resources on public lands.&nbsp;</p>
 
-<p>“It's often like a box of chocolates. You never know what you're going to get,” Steven said about the range of work he does.</p>
+<p>The Public Lands Rule builds on historic investments in public lands, waters and clean energy deployment provided by <a href="https://www.doi.gov/investing-america" rel="noreferrer noopener" target="_blank">President Biden’s Investing in America agenda</a>, which recognizes the critical value of our public lands to all Americans. It also complements the President’s <em><a href="https://www.doi.gov/priorities/america-the-beautiful" rel="noreferrer noopener" target="_blank">America the Beautiful</a></em> initiative, a 10-year, locally led and nationally scaled effort to protect, conserve, connect and restore the lands, waters and wildlife upon which we all depend.&nbsp;</p>
 
-<p>Before Steven came to work for the BLM, he was unfamiliar with the agency as a New Englander, and he visited his first national park when he was a Marine attending school in California.</p>
-
-<p>“I just had a feeling of calmness and serenity, and I've made it my mission essentially to go to as many of our public lands as possible,” he said. “I'm a huge advocate for sharing the opportunities and experiences that we have, connecting with our public lands.”</p>
-
-<p><v:shape id="_x0000_s1027" o:gfxdata="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
-AOcNAAAAAA==
-" stroked="f" type="#_x0000_t202"> <v:textbox inset="0,0,0,0"> </v:textbox></v:shape></p>
-
-<p>Beyond his division, Steven is also the Hispanic and Latino Special Emphasis Program Manager for BLM Arizona, supporting this community in connecting with public lands, feeling supported as land management employees, and more.</p>
+<p>Building on decades of land management experience and emphasizing the use of science and data, including Indigenous Knowledge, to guide balanced decision-making, the rule applies the existing fundamentals of land health across BLM programs, establishes restoration and mitigation leases, and clarifies practices to designate and protect Areas of Critical Environmental Concern (ACECs). The rule will help to ensure the BLM continues to protect land health while managing other uses of the public lands, such as clean energy development and outdoor recreation.&nbsp;&nbsp;</p>
 
 <figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="18e5f316-c4f3-4de1-8e13-2ca93048e9ef" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="77b0b3f1-9f20-446b-a9c1-308a0a194612" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -901,7 +806,7 @@ AOcNAAAAAA==
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/Steven%20Ala.jpg?itok=h5Yg86dl" width="530" height="530" alt="Steven Ala in a military uniform." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-05/Cosumnes_large.jpg?itok=c5z08u7f" width="640" height="282" alt="Duck fly over a wetland" typeof="foaf:Image">
 
 
 </div>
@@ -909,19 +814,76 @@ AOcNAAAAAA==
 </div>
 </div>
 
-<figcaption>Steven Ala served in the U.S. Marine Corps for six years. (Photo courtesy of Steven Ala)</figcaption>
+<figcaption>The Cosumnes River Preserve is home to California’s largest remaining valley oak riparian forest, and is one of the few protected wetland habitat areas in the state.. Photo by John Ciccarelli, BLM.</figcaption>
 </figure>
 
 
-<p>“Although Steve was new to federal civilian service,” said Jim Gipson, BLM Arizona Equal Employment Opportunity Manager, “he quickly figured out the important role that Special Emphasis Program Managers can play in helping management build a more racially and ethnically diverse workforce and supporting workplaces where all feel welcomed and included.”</p>
+<p>“As stewards of America’s public lands, the Interior Department takes seriously our role in helping bolster landscape resilience in the face of worsening climate impacts. Today’s final rule helps restore balance to our public lands as we continue using the best-available science to restore habitats, guide strategic and responsible development, and sustain our public lands for generations to come,” <strong>said Secretary Deb Haaland</strong>. “Complemented with historic investments from President Biden’s Investing in America agenda, we are implementing enduring changes that will benefit wildlife, communities and habitats.”&nbsp;&nbsp;</p>
 
-<p>“Inclusion is incredibly important for us because it helps create a stronger workforce. Diversity is something that binds us together, not only vertically, but horizontally as well,” Steven said. “It is incredibly important for our workforce to reflect our nation and us as public servants need to be conscious that we are a direct reflection of the nation. So having different backgrounds, learning from each other, all those things create a stronger environment and a stronger team so we can achieve the mission.”</p>
+<p>“America’s public lands are our national treasures and need to be managed and made resilient for future generations of Americans,” said <strong>John Podesta, Senior Advisor to the President for International Climate Policy</strong>. “Today’s final rule from the Department of the Interior is a huge win for ensuring balance on our public lands, helping them withstand the challenges of climate change and environmental threats like invasive species, and making sure they continue to provide services to the American people for decades to come.”&nbsp;</p>
 
-<p>In this Special Emphasis Program Manager role, Steven helps build and sustain a work environment where every employee feels respected, valued, included and safe.</p>
+<p>“The Interior Department is ensuring our public lands are managed with an eye to future generations, complementing President Biden’s ambitious conservation agenda,” said <strong>White House Council on Environmental Quality Chair Brenda Mallory</strong>. “From the most rugged backcountry spots to popular close-to-home recreation areas, these reforms will help deliver cleaner water, healthier lands, abundant wildlife, and more recreation opportunities for all of us.”&nbsp;</p>
 
-<p>“A lot of people are doing a lot of great work, and I would love for the public to be more aware of that,” Steven said.</p>
+<p>The final rule comes amid growing pressures and historic challenges facing land managers. The impacts of climate change—including prolonged drought, increasing wildfires, and an influx of invasive species—pose increasing risks to communities, wildlife and ecosystems. The Public Lands Rule will help the BLM navigate changing conditions on the ground, while helping public lands continue to serve as economic drivers across the West.&nbsp;</p>
+
+<p>“The BLM received and considered over 200,000 comments on the proposed rule from individuals, state, Tribal and local governments, industry groups and advocacy organizations, which led to important improvements in this final rule,” said<strong> Principal Deputy Assistant Secretary for Land and Minerals Management Dr. Steve Feldgus</strong>. “Continued broad collaboration with this diverse group of partners will be key to our implementation of this rule to ensure that our public lands are being managed for all Americans.”&nbsp;</p>
+
+<p>“Our public lands provide wildlife habitat and clean water, the energy that lights our homes, the wood we build with, and the places where we make family memories,” said <strong>BLM Director Tracy Stone-Manning</strong>. “This rule honors our obligation to current and future generations to help ensure our public lands and waters remain healthy amid growing pressures and change.”&nbsp;</p>
+
+<p>The final rule clarifies and refines concepts <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a3dbb21a-e603-4e08-ae95-812badce4d4c" href="https://www.blm.gov/press-release/interior-department-releases-proposed-plan-guide-balanced-management-public-lands" rel="noreferrer noopener" target="_blank">first proposed in April 2023</a>. The BLM provided a 90-day comment period on this rule, holding five public meetings and receiving over 200,000 comments, the vast majority of which supported the effort. In response to the substantive comments received, the BLM clarified and refined concepts laid out in the proposed rule.&nbsp;</p>
+
+<p>The final rule:&nbsp;</p>
+
+<ul role="list">
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{92}" paraid="1845017194"><strong>Directs BLM to manage for landscape health.</strong> Successful public land management that delivers natural resources, wildlife habitat and clean water requires a thorough understanding of the health and condition of the landscape, especially as conditions shift on the ground due to climate change. To help sustain the health of our lands and waters, the rule directs the BLM to manage public land uses in accordance with the fundamentals of land health, which will help watersheds support soils, plants, and water; ecosystems provide healthy populations and communities of plants and animals; and wildlife habitats on public lands protect threatened and endangered species consistent with the multiple use and sustained yield framework.&nbsp;&nbsp;</p>
+	</li>
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{167}" paraid="948577800"><strong>Provides a mechanism for restoring and protecting our public lands through restoration and mitigation leases.</strong> Restoration leases provide greater clarity for the BLM to work with appropriate partners to restore degraded lands. Mitigation leases will provide a clear and consistent mechanism for developers to offset their impacts by investing in land health elsewhere on public lands, like they currently can on state and private lands. The final rule clarifies who can obtain a restoration or mitigation lease, limiting potential lessees to qualified individuals, businesses, non-governmental organizations, Tribal governments, conservation districts, or state fish and wildlife agencies. Restoration and mitigation leases will not be issued if they would conflict with existing authorized uses.&nbsp;</p>
+	</li>
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{25}" paraid="2007072068"><strong>Clarifies the designation and management of ACECs. </strong>The final rule provides greater detail about how the BLM will continue to follow the direction in the Federal Land Policy and Management Act to prioritize the designation and protection of ACECs. Following public comments, the final rule clarifies how BLM consideration of new ACEC nominations and temporary management options does not interfere with the BLM’s discretion to continue advancing pending project applications.&nbsp;&nbsp;</p>
+	</li>
+</ul>
+
+<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{88}" paraid="142264570">The Public Lands Rule complements the BLM’s recently announced <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy Rule</a>, providing consistent direction and new tools for mitigation, helping advance the efficient and environmentally responsible development of renewable energy on BLM-managed public lands, providing greater clarity and consistency in permitting, and allowing for the continued acceleration of project reviews and approvals, while managing public lands under the principles of multiple use and sustained yield.&nbsp;</p>
+
+<p paraeid="{d394f3eb-337f-44b5-9c1e-b8510fed2d8e}{177}" paraid="201596216">The final rule will publish in the Federal Register in the coming days.&nbsp;</p>
 </div>
       
+
+
+
+
+  
+
+  <div class="field contact-block -subtitle">
+    <div><strong>Subtitle:</strong> </div>
+              <div>Public Lands Rule will help conserve wildlife habitat, restore places impacted by wildfire and drought, expand outdoor recreation, and guide thoughtful development</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -fiscal-year">
+    <div><strong>Fiscal Year:</strong> </div>
+              <div>2024</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -organization">
+    <div><strong>Organization:</strong> </div>
+              <div>Bureau of Land Management</div>
+          </div>
+
 
 
 
@@ -931,7 +893,19 @@ AOcNAAAAAA==
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+          <div><a href="https://www.blm.gov/region/alaska" hreflang="en">Alaska</a></div>
+          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
+          <div><a href="https://www.blm.gov/region/eastern-states" hreflang="en">Eastern States</a></div>
+          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
+          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+          <div><a href="https://www.blm.gov/region/nevada" hreflang="en">Nevada</a></div>
+          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+          <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
+          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
               </div>
       </div>
 
@@ -941,12 +915,13 @@ AOcNAAAAAA==
 
   
 
-<div class="blog-topics">
-    <div class="field contact-block -blog-topic">
-      <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/careers" hreflang="en">Careers</a></div>
-                </div>
-  </div>
+  <div class="field contact-block -tag">
+    <div><strong>Tag:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
+          <div><a href="https://www.blm.gov/tag/rule" hreflang="en">Rule</a></div>
+              </div>
+      </div>
 
 
 
@@ -954,60 +929,72 @@ AOcNAAAAAA==
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-04-24T12:00:00Z">Wed, 04/24/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -office">
-    <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/arizona-state-office" hreflang="en">Arizona State Office</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -thumbnail-image">
-    <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47741/edit" hreflang="en">Steven Ala</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -featured">
-    <div><strong>Featured:</strong> </div>
-              <div>Off</div>
-          </div>
-
-
-
-
-
-  
-
-<div class="blog-tags">
-    <div class="field contact-block -tag">
-      <div><strong>Tag:</strong> </div>
+  <div class="field contact-block -contact">
+    <div><strong>Contact:</strong> </div>
+          <div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/employee" hreflang="en">Employee</a></div>
-              <div><a href="https://www.blm.gov/tag/veterans" hreflang="en">veterans</a></div>
-                    </div>
+
+  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+  <div class="field contact-block -label">
+    <div><strong>Name:</strong> </div>
+              <div>Interior Press</div>
           </div>
-  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -email">
+    <div><strong>Email:</strong> </div>
+              <div>Interior_Press@ios.doi.gov</div>
+          </div>
+
+      </div>
+</div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -related-content">
+    <div><strong>Related Content:</strong> </div>
+          <div>
+              <div>
+
+  <div class="paragraph paragraph--type--wysiwyg paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+            <div class="field contact-block -summary"><ul>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="4f604006-b8a9-43b5-90cf-2d3b0b90baa4" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_general-factsheet_508.pdf">General Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="f99f8a1f-ea7f-4ce4-ac83-edc5dc658672" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_ACEC_508.pdf">ACECs Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="008578b3-f5b3-4581-9395-a4618a37bfde" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Land%20Health_508.pdf">Land Health Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="970f5162-0030-46fc-8e45-5068eb4379ab" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Restoration%20and%20Mitigation%20Leases_508.pdf">Restoration &amp; Mitigation Leases Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="6e15f147-5842-44e9-816b-d9e37a75eec1" href="https://www.blm.gov/sites/default/files/docs/2024-04/BLM-Final-Public-Land-Rule-Infographic.pdf">Infographic</a></li>
+</ul>
+</div>
+      
+      </div>
+</div>
+              </div>
+      </div>
 
 
 
@@ -1018,20 +1005,9 @@ AOcNAAAAAA==
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/arizona" hreflang="en">Arizona</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
               </div>
-      </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -teaser-image">
-    <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47741/edit" hreflang="en">Steven Ala</a></div>
-          </div> 
+      </div> 
 
 <https://www.blm.gov/blog/2024-04-23/price-field-office-wilderness-monitoring-little-grand-canyon-utah>
 
@@ -1041,7 +1017,7 @@ AOcNAAAAAA==
 
 date: 2024-04-22, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>From Toys for Tots to BLM Arizona, Steven Ala shines on National Administrative Professionals Day</h1></div>
+<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/biden-harris-administration-finalizes-strategy-guide-balanced-management-conservation" hreflang="en">Biden-Harris Administration finalizes strategy to guide balanced management, conservation of public lands</a></h2></div>
       
 
 
@@ -1049,107 +1025,30 @@ date: 2024-04-22, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/CQqPESeqhaM?si=tvr5ZkX7u2IZpb2B" title="From Toys for Tots to BLM Arizona, Steven Ala shines on National Administrative Professionals Day
-"></iframe></div>
+  <div class="field contact-block -release-date">
+    <div><strong>Publication Date:</strong> </div>
+              <div><time datetime="2024-04-18T12:00:00Z">Thu, 04/18/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
-<p style="margin-bottom:11px"><em>For a version of this video with audio descriptions, visit:&nbsp;<a href="https://youtu.be/zB0n_51G22k">https://youtu.be/zB0n_51G22k</a></em></p>
 
-<p style="margin-bottom:11px">In the cool winter months during the first year of the COVID-19 pandemic, stacks of toys piled up in a warehouse in New Orleans.</p>
 
-<p>Nearly 60,000 items, from books to bikes, were collected, benefitting the city’s less fortunate families and children. Thanks to the hard work and passion of Steven Ala, a U.S. Marine Corps service member who managed the warehouse during the 2020-2021 season, the holidays were a little bit brighter.</p>
 
-<p>Including New Orleans, his military service took him to both coasts of the United States and as far away as Japan and Korea.</p>
 
-<p>“Transitioning military service specifically, I still live by those core values of honor, courage and commitment,” Steven said.</p>
+  
 
-<p>After six years in the Marine Corps, these values guide the work he does as staff assistant for the Bureau of Land Management Arizona’s Division of Resources and Planning.</p>
+            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/yssRQ8Z0nu8?si=bfjOBNEDwtaqQDwF" title="Public Lands Rule"></iframe></div>
 
-<p>“All the things that you would want in a leader you are getting when you hire veterans,” Steven said.</p>
+<p>&nbsp;</p>
 
-<p>In his staff assistant role, Steven supports the various programs of the division, from recreation to archaeology to the Wild Horse and Burro program, with permitting, correspondence, and more.</p>
+<p><strong>WASHINGTON – </strong>The Department of the Interior today announced a final rule to help guide the balanced management of America’s public lands. The <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="876a3ccf-e418-402c-80b0-a400b77c8e92" href="https://www.blm.gov/public-lands-rule" rel="noreferrer noopener" target="_blank">final Public Lands Rule</a> provides tools for the Bureau of Land Management (BLM) to help improve the health and resilience of public lands in the face of a changing climate; conserve important wildlife habitat and intact landscapes; facilitate responsible development; and better recognize unique cultural and natural resources on public lands.&nbsp;</p>
 
-<p>“It's often like a box of chocolates. You never know what you're going to get,” Steven said about the range of work he does.</p>
+<p>The Public Lands Rule builds on historic investments in public lands, waters and clean energy deployment provided by <a href="https://www.doi.gov/investing-america" rel="noreferrer noopener" target="_blank">President Biden’s Investing in America agenda</a>, which recognizes the critical value of our public lands to all Americans. It also complements the President’s <em><a href="https://www.doi.gov/priorities/america-the-beautiful" rel="noreferrer noopener" target="_blank">America the Beautiful</a></em> initiative, a 10-year, locally led and nationally scaled effort to protect, conserve, connect and restore the lands, waters and wildlife upon which we all depend.&nbsp;</p>
 
-<p>Before Steven came to work for the BLM, he was unfamiliar with the agency as a New Englander, and he visited his first national park when he was a Marine attending school in California.</p>
-
-<p>“I just had a feeling of calmness and serenity, and I've made it my mission essentially to go to as many of our public lands as possible,” he said. “I'm a huge advocate for sharing the opportunities and experiences that we have, connecting with our public lands.”</p>
-
-<p><v:shape id="_x0000_s1027" o:gfxdata="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
-AOcNAAAAAA==
-" stroked="f" type="#_x0000_t202"> <v:textbox inset="0,0,0,0"> </v:textbox></v:shape></p>
-
-<p>Beyond his division, Steven is also the Hispanic and Latino Special Emphasis Program Manager for BLM Arizona, supporting this community in connecting with public lands, feeling supported as land management employees, and more.</p>
+<p>Building on decades of land management experience and emphasizing the use of science and data, including Indigenous Knowledge, to guide balanced decision-making, the rule applies the existing fundamentals of land health across BLM programs, establishes restoration and mitigation leases, and clarifies practices to designate and protect Areas of Critical Environmental Concern (ACECs). The rule will help to ensure the BLM continues to protect land health while managing other uses of the public lands, such as clean energy development and outdoor recreation.&nbsp;&nbsp;</p>
 
 <figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="18e5f316-c4f3-4de1-8e13-2ca93048e9ef" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="77b0b3f1-9f20-446b-a9c1-308a0a194612" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -1158,7 +1057,7 @@ AOcNAAAAAA==
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/Steven%20Ala.jpg?itok=h5Yg86dl" width="530" height="530" alt="Steven Ala in a military uniform." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-05/Cosumnes_large.jpg?itok=c5z08u7f" width="640" height="282" alt="Duck fly over a wetland" typeof="foaf:Image">
 
 
 </div>
@@ -1166,19 +1065,76 @@ AOcNAAAAAA==
 </div>
 </div>
 
-<figcaption>Steven Ala served in the U.S. Marine Corps for six years. (Photo courtesy of Steven Ala)</figcaption>
+<figcaption>The Cosumnes River Preserve is home to California’s largest remaining valley oak riparian forest, and is one of the few protected wetland habitat areas in the state.. Photo by John Ciccarelli, BLM.</figcaption>
 </figure>
 
 
-<p>“Although Steve was new to federal civilian service,” said Jim Gipson, BLM Arizona Equal Employment Opportunity Manager, “he quickly figured out the important role that Special Emphasis Program Managers can play in helping management build a more racially and ethnically diverse workforce and supporting workplaces where all feel welcomed and included.”</p>
+<p>“As stewards of America’s public lands, the Interior Department takes seriously our role in helping bolster landscape resilience in the face of worsening climate impacts. Today’s final rule helps restore balance to our public lands as we continue using the best-available science to restore habitats, guide strategic and responsible development, and sustain our public lands for generations to come,” <strong>said Secretary Deb Haaland</strong>. “Complemented with historic investments from President Biden’s Investing in America agenda, we are implementing enduring changes that will benefit wildlife, communities and habitats.”&nbsp;&nbsp;</p>
 
-<p>“Inclusion is incredibly important for us because it helps create a stronger workforce. Diversity is something that binds us together, not only vertically, but horizontally as well,” Steven said. “It is incredibly important for our workforce to reflect our nation and us as public servants need to be conscious that we are a direct reflection of the nation. So having different backgrounds, learning from each other, all those things create a stronger environment and a stronger team so we can achieve the mission.”</p>
+<p>“America’s public lands are our national treasures and need to be managed and made resilient for future generations of Americans,” said <strong>John Podesta, Senior Advisor to the President for International Climate Policy</strong>. “Today’s final rule from the Department of the Interior is a huge win for ensuring balance on our public lands, helping them withstand the challenges of climate change and environmental threats like invasive species, and making sure they continue to provide services to the American people for decades to come.”&nbsp;</p>
 
-<p>In this Special Emphasis Program Manager role, Steven helps build and sustain a work environment where every employee feels respected, valued, included and safe.</p>
+<p>“The Interior Department is ensuring our public lands are managed with an eye to future generations, complementing President Biden’s ambitious conservation agenda,” said <strong>White House Council on Environmental Quality Chair Brenda Mallory</strong>. “From the most rugged backcountry spots to popular close-to-home recreation areas, these reforms will help deliver cleaner water, healthier lands, abundant wildlife, and more recreation opportunities for all of us.”&nbsp;</p>
 
-<p>“A lot of people are doing a lot of great work, and I would love for the public to be more aware of that,” Steven said.</p>
+<p>The final rule comes amid growing pressures and historic challenges facing land managers. The impacts of climate change—including prolonged drought, increasing wildfires, and an influx of invasive species—pose increasing risks to communities, wildlife and ecosystems. The Public Lands Rule will help the BLM navigate changing conditions on the ground, while helping public lands continue to serve as economic drivers across the West.&nbsp;</p>
+
+<p>“The BLM received and considered over 200,000 comments on the proposed rule from individuals, state, Tribal and local governments, industry groups and advocacy organizations, which led to important improvements in this final rule,” said<strong> Principal Deputy Assistant Secretary for Land and Minerals Management Dr. Steve Feldgus</strong>. “Continued broad collaboration with this diverse group of partners will be key to our implementation of this rule to ensure that our public lands are being managed for all Americans.”&nbsp;</p>
+
+<p>“Our public lands provide wildlife habitat and clean water, the energy that lights our homes, the wood we build with, and the places where we make family memories,” said <strong>BLM Director Tracy Stone-Manning</strong>. “This rule honors our obligation to current and future generations to help ensure our public lands and waters remain healthy amid growing pressures and change.”&nbsp;</p>
+
+<p>The final rule clarifies and refines concepts <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a3dbb21a-e603-4e08-ae95-812badce4d4c" href="https://www.blm.gov/press-release/interior-department-releases-proposed-plan-guide-balanced-management-public-lands" rel="noreferrer noopener" target="_blank">first proposed in April 2023</a>. The BLM provided a 90-day comment period on this rule, holding five public meetings and receiving over 200,000 comments, the vast majority of which supported the effort. In response to the substantive comments received, the BLM clarified and refined concepts laid out in the proposed rule.&nbsp;</p>
+
+<p>The final rule:&nbsp;</p>
+
+<ul role="list">
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{92}" paraid="1845017194"><strong>Directs BLM to manage for landscape health.</strong> Successful public land management that delivers natural resources, wildlife habitat and clean water requires a thorough understanding of the health and condition of the landscape, especially as conditions shift on the ground due to climate change. To help sustain the health of our lands and waters, the rule directs the BLM to manage public land uses in accordance with the fundamentals of land health, which will help watersheds support soils, plants, and water; ecosystems provide healthy populations and communities of plants and animals; and wildlife habitats on public lands protect threatened and endangered species consistent with the multiple use and sustained yield framework.&nbsp;&nbsp;</p>
+	</li>
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{167}" paraid="948577800"><strong>Provides a mechanism for restoring and protecting our public lands through restoration and mitigation leases.</strong> Restoration leases provide greater clarity for the BLM to work with appropriate partners to restore degraded lands. Mitigation leases will provide a clear and consistent mechanism for developers to offset their impacts by investing in land health elsewhere on public lands, like they currently can on state and private lands. The final rule clarifies who can obtain a restoration or mitigation lease, limiting potential lessees to qualified individuals, businesses, non-governmental organizations, Tribal governments, conservation districts, or state fish and wildlife agencies. Restoration and mitigation leases will not be issued if they would conflict with existing authorized uses.&nbsp;</p>
+	</li>
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{25}" paraid="2007072068"><strong>Clarifies the designation and management of ACECs. </strong>The final rule provides greater detail about how the BLM will continue to follow the direction in the Federal Land Policy and Management Act to prioritize the designation and protection of ACECs. Following public comments, the final rule clarifies how BLM consideration of new ACEC nominations and temporary management options does not interfere with the BLM’s discretion to continue advancing pending project applications.&nbsp;&nbsp;</p>
+	</li>
+</ul>
+
+<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{88}" paraid="142264570">The Public Lands Rule complements the BLM’s recently announced <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy Rule</a>, providing consistent direction and new tools for mitigation, helping advance the efficient and environmentally responsible development of renewable energy on BLM-managed public lands, providing greater clarity and consistency in permitting, and allowing for the continued acceleration of project reviews and approvals, while managing public lands under the principles of multiple use and sustained yield.&nbsp;</p>
+
+<p paraeid="{d394f3eb-337f-44b5-9c1e-b8510fed2d8e}{177}" paraid="201596216">The final rule will publish in the Federal Register in the coming days.&nbsp;</p>
 </div>
       
+
+
+
+
+  
+
+  <div class="field contact-block -subtitle">
+    <div><strong>Subtitle:</strong> </div>
+              <div>Public Lands Rule will help conserve wildlife habitat, restore places impacted by wildfire and drought, expand outdoor recreation, and guide thoughtful development</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -fiscal-year">
+    <div><strong>Fiscal Year:</strong> </div>
+              <div>2024</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -organization">
+    <div><strong>Organization:</strong> </div>
+              <div>Bureau of Land Management</div>
+          </div>
+
 
 
 
@@ -1188,7 +1144,19 @@ AOcNAAAAAA==
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+          <div><a href="https://www.blm.gov/region/alaska" hreflang="en">Alaska</a></div>
+          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
+          <div><a href="https://www.blm.gov/region/eastern-states" hreflang="en">Eastern States</a></div>
+          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
+          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+          <div><a href="https://www.blm.gov/region/nevada" hreflang="en">Nevada</a></div>
+          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+          <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
+          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
               </div>
       </div>
 
@@ -1198,12 +1166,13 @@ AOcNAAAAAA==
 
   
 
-<div class="blog-topics">
-    <div class="field contact-block -blog-topic">
-      <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/careers" hreflang="en">Careers</a></div>
-                </div>
-  </div>
+  <div class="field contact-block -tag">
+    <div><strong>Tag:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
+          <div><a href="https://www.blm.gov/tag/rule" hreflang="en">Rule</a></div>
+              </div>
+      </div>
 
 
 
@@ -1211,60 +1180,72 @@ AOcNAAAAAA==
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-04-24T12:00:00Z">Wed, 04/24/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -office">
-    <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/arizona-state-office" hreflang="en">Arizona State Office</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -thumbnail-image">
-    <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47741/edit" hreflang="en">Steven Ala</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -featured">
-    <div><strong>Featured:</strong> </div>
-              <div>Off</div>
-          </div>
-
-
-
-
-
-  
-
-<div class="blog-tags">
-    <div class="field contact-block -tag">
-      <div><strong>Tag:</strong> </div>
+  <div class="field contact-block -contact">
+    <div><strong>Contact:</strong> </div>
+          <div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/employee" hreflang="en">Employee</a></div>
-              <div><a href="https://www.blm.gov/tag/veterans" hreflang="en">veterans</a></div>
-                    </div>
+
+  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+  <div class="field contact-block -label">
+    <div><strong>Name:</strong> </div>
+              <div>Interior Press</div>
           </div>
-  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -email">
+    <div><strong>Email:</strong> </div>
+              <div>Interior_Press@ios.doi.gov</div>
+          </div>
+
+      </div>
+</div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -related-content">
+    <div><strong>Related Content:</strong> </div>
+          <div>
+              <div>
+
+  <div class="paragraph paragraph--type--wysiwyg paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+            <div class="field contact-block -summary"><ul>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="4f604006-b8a9-43b5-90cf-2d3b0b90baa4" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_general-factsheet_508.pdf">General Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="f99f8a1f-ea7f-4ce4-ac83-edc5dc658672" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_ACEC_508.pdf">ACECs Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="008578b3-f5b3-4581-9395-a4618a37bfde" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Land%20Health_508.pdf">Land Health Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="970f5162-0030-46fc-8e45-5068eb4379ab" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Restoration%20and%20Mitigation%20Leases_508.pdf">Restoration &amp; Mitigation Leases Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="6e15f147-5842-44e9-816b-d9e37a75eec1" href="https://www.blm.gov/sites/default/files/docs/2024-04/BLM-Final-Public-Land-Rule-Infographic.pdf">Infographic</a></li>
+</ul>
+</div>
+      
+      </div>
+</div>
+              </div>
+      </div>
 
 
 
@@ -1275,20 +1256,9 @@ AOcNAAAAAA==
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/arizona" hreflang="en">Arizona</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
               </div>
-      </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -teaser-image">
-    <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47741/edit" hreflang="en">Steven Ala</a></div>
-          </div> 
+      </div> 
 
 <https://www.blm.gov/blog/2024-04-22/blm-utah-participates-19th-annual-ride-utah-big-ride-2024>
 
@@ -1298,7 +1268,7 @@ AOcNAAAAAA==
 
 date: 2024-04-22, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>From Toys for Tots to BLM Arizona, Steven Ala shines on National Administrative Professionals Day</h1></div>
+<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/biden-harris-administration-finalizes-strategy-guide-balanced-management-conservation" hreflang="en">Biden-Harris Administration finalizes strategy to guide balanced management, conservation of public lands</a></h2></div>
       
 
 
@@ -1306,107 +1276,30 @@ date: 2024-04-22, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/CQqPESeqhaM?si=tvr5ZkX7u2IZpb2B" title="From Toys for Tots to BLM Arizona, Steven Ala shines on National Administrative Professionals Day
-"></iframe></div>
+  <div class="field contact-block -release-date">
+    <div><strong>Publication Date:</strong> </div>
+              <div><time datetime="2024-04-18T12:00:00Z">Thu, 04/18/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
-<p style="margin-bottom:11px"><em>For a version of this video with audio descriptions, visit:&nbsp;<a href="https://youtu.be/zB0n_51G22k">https://youtu.be/zB0n_51G22k</a></em></p>
 
-<p style="margin-bottom:11px">In the cool winter months during the first year of the COVID-19 pandemic, stacks of toys piled up in a warehouse in New Orleans.</p>
 
-<p>Nearly 60,000 items, from books to bikes, were collected, benefitting the city’s less fortunate families and children. Thanks to the hard work and passion of Steven Ala, a U.S. Marine Corps service member who managed the warehouse during the 2020-2021 season, the holidays were a little bit brighter.</p>
 
-<p>Including New Orleans, his military service took him to both coasts of the United States and as far away as Japan and Korea.</p>
 
-<p>“Transitioning military service specifically, I still live by those core values of honor, courage and commitment,” Steven said.</p>
+  
 
-<p>After six years in the Marine Corps, these values guide the work he does as staff assistant for the Bureau of Land Management Arizona’s Division of Resources and Planning.</p>
+            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/yssRQ8Z0nu8?si=bfjOBNEDwtaqQDwF" title="Public Lands Rule"></iframe></div>
 
-<p>“All the things that you would want in a leader you are getting when you hire veterans,” Steven said.</p>
+<p>&nbsp;</p>
 
-<p>In his staff assistant role, Steven supports the various programs of the division, from recreation to archaeology to the Wild Horse and Burro program, with permitting, correspondence, and more.</p>
+<p><strong>WASHINGTON – </strong>The Department of the Interior today announced a final rule to help guide the balanced management of America’s public lands. The <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="876a3ccf-e418-402c-80b0-a400b77c8e92" href="https://www.blm.gov/public-lands-rule" rel="noreferrer noopener" target="_blank">final Public Lands Rule</a> provides tools for the Bureau of Land Management (BLM) to help improve the health and resilience of public lands in the face of a changing climate; conserve important wildlife habitat and intact landscapes; facilitate responsible development; and better recognize unique cultural and natural resources on public lands.&nbsp;</p>
 
-<p>“It's often like a box of chocolates. You never know what you're going to get,” Steven said about the range of work he does.</p>
+<p>The Public Lands Rule builds on historic investments in public lands, waters and clean energy deployment provided by <a href="https://www.doi.gov/investing-america" rel="noreferrer noopener" target="_blank">President Biden’s Investing in America agenda</a>, which recognizes the critical value of our public lands to all Americans. It also complements the President’s <em><a href="https://www.doi.gov/priorities/america-the-beautiful" rel="noreferrer noopener" target="_blank">America the Beautiful</a></em> initiative, a 10-year, locally led and nationally scaled effort to protect, conserve, connect and restore the lands, waters and wildlife upon which we all depend.&nbsp;</p>
 
-<p>Before Steven came to work for the BLM, he was unfamiliar with the agency as a New Englander, and he visited his first national park when he was a Marine attending school in California.</p>
-
-<p>“I just had a feeling of calmness and serenity, and I've made it my mission essentially to go to as many of our public lands as possible,” he said. “I'm a huge advocate for sharing the opportunities and experiences that we have, connecting with our public lands.”</p>
-
-<p><v:shape id="_x0000_s1027" o:gfxdata="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
-AOcNAAAAAA==
-" stroked="f" type="#_x0000_t202"> <v:textbox inset="0,0,0,0"> </v:textbox></v:shape></p>
-
-<p>Beyond his division, Steven is also the Hispanic and Latino Special Emphasis Program Manager for BLM Arizona, supporting this community in connecting with public lands, feeling supported as land management employees, and more.</p>
+<p>Building on decades of land management experience and emphasizing the use of science and data, including Indigenous Knowledge, to guide balanced decision-making, the rule applies the existing fundamentals of land health across BLM programs, establishes restoration and mitigation leases, and clarifies practices to designate and protect Areas of Critical Environmental Concern (ACECs). The rule will help to ensure the BLM continues to protect land health while managing other uses of the public lands, such as clean energy development and outdoor recreation.&nbsp;&nbsp;</p>
 
 <figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="18e5f316-c4f3-4de1-8e13-2ca93048e9ef" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="77b0b3f1-9f20-446b-a9c1-308a0a194612" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -1415,7 +1308,7 @@ AOcNAAAAAA==
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-04/Steven%20Ala.jpg?itok=h5Yg86dl" width="530" height="530" alt="Steven Ala in a military uniform." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-05/Cosumnes_large.jpg?itok=c5z08u7f" width="640" height="282" alt="Duck fly over a wetland" typeof="foaf:Image">
 
 
 </div>
@@ -1423,19 +1316,76 @@ AOcNAAAAAA==
 </div>
 </div>
 
-<figcaption>Steven Ala served in the U.S. Marine Corps for six years. (Photo courtesy of Steven Ala)</figcaption>
+<figcaption>The Cosumnes River Preserve is home to California’s largest remaining valley oak riparian forest, and is one of the few protected wetland habitat areas in the state.. Photo by John Ciccarelli, BLM.</figcaption>
 </figure>
 
 
-<p>“Although Steve was new to federal civilian service,” said Jim Gipson, BLM Arizona Equal Employment Opportunity Manager, “he quickly figured out the important role that Special Emphasis Program Managers can play in helping management build a more racially and ethnically diverse workforce and supporting workplaces where all feel welcomed and included.”</p>
+<p>“As stewards of America’s public lands, the Interior Department takes seriously our role in helping bolster landscape resilience in the face of worsening climate impacts. Today’s final rule helps restore balance to our public lands as we continue using the best-available science to restore habitats, guide strategic and responsible development, and sustain our public lands for generations to come,” <strong>said Secretary Deb Haaland</strong>. “Complemented with historic investments from President Biden’s Investing in America agenda, we are implementing enduring changes that will benefit wildlife, communities and habitats.”&nbsp;&nbsp;</p>
 
-<p>“Inclusion is incredibly important for us because it helps create a stronger workforce. Diversity is something that binds us together, not only vertically, but horizontally as well,” Steven said. “It is incredibly important for our workforce to reflect our nation and us as public servants need to be conscious that we are a direct reflection of the nation. So having different backgrounds, learning from each other, all those things create a stronger environment and a stronger team so we can achieve the mission.”</p>
+<p>“America’s public lands are our national treasures and need to be managed and made resilient for future generations of Americans,” said <strong>John Podesta, Senior Advisor to the President for International Climate Policy</strong>. “Today’s final rule from the Department of the Interior is a huge win for ensuring balance on our public lands, helping them withstand the challenges of climate change and environmental threats like invasive species, and making sure they continue to provide services to the American people for decades to come.”&nbsp;</p>
 
-<p>In this Special Emphasis Program Manager role, Steven helps build and sustain a work environment where every employee feels respected, valued, included and safe.</p>
+<p>“The Interior Department is ensuring our public lands are managed with an eye to future generations, complementing President Biden’s ambitious conservation agenda,” said <strong>White House Council on Environmental Quality Chair Brenda Mallory</strong>. “From the most rugged backcountry spots to popular close-to-home recreation areas, these reforms will help deliver cleaner water, healthier lands, abundant wildlife, and more recreation opportunities for all of us.”&nbsp;</p>
 
-<p>“A lot of people are doing a lot of great work, and I would love for the public to be more aware of that,” Steven said.</p>
+<p>The final rule comes amid growing pressures and historic challenges facing land managers. The impacts of climate change—including prolonged drought, increasing wildfires, and an influx of invasive species—pose increasing risks to communities, wildlife and ecosystems. The Public Lands Rule will help the BLM navigate changing conditions on the ground, while helping public lands continue to serve as economic drivers across the West.&nbsp;</p>
+
+<p>“The BLM received and considered over 200,000 comments on the proposed rule from individuals, state, Tribal and local governments, industry groups and advocacy organizations, which led to important improvements in this final rule,” said<strong> Principal Deputy Assistant Secretary for Land and Minerals Management Dr. Steve Feldgus</strong>. “Continued broad collaboration with this diverse group of partners will be key to our implementation of this rule to ensure that our public lands are being managed for all Americans.”&nbsp;</p>
+
+<p>“Our public lands provide wildlife habitat and clean water, the energy that lights our homes, the wood we build with, and the places where we make family memories,” said <strong>BLM Director Tracy Stone-Manning</strong>. “This rule honors our obligation to current and future generations to help ensure our public lands and waters remain healthy amid growing pressures and change.”&nbsp;</p>
+
+<p>The final rule clarifies and refines concepts <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a3dbb21a-e603-4e08-ae95-812badce4d4c" href="https://www.blm.gov/press-release/interior-department-releases-proposed-plan-guide-balanced-management-public-lands" rel="noreferrer noopener" target="_blank">first proposed in April 2023</a>. The BLM provided a 90-day comment period on this rule, holding five public meetings and receiving over 200,000 comments, the vast majority of which supported the effort. In response to the substantive comments received, the BLM clarified and refined concepts laid out in the proposed rule.&nbsp;</p>
+
+<p>The final rule:&nbsp;</p>
+
+<ul role="list">
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{92}" paraid="1845017194"><strong>Directs BLM to manage for landscape health.</strong> Successful public land management that delivers natural resources, wildlife habitat and clean water requires a thorough understanding of the health and condition of the landscape, especially as conditions shift on the ground due to climate change. To help sustain the health of our lands and waters, the rule directs the BLM to manage public land uses in accordance with the fundamentals of land health, which will help watersheds support soils, plants, and water; ecosystems provide healthy populations and communities of plants and animals; and wildlife habitats on public lands protect threatened and endangered species consistent with the multiple use and sustained yield framework.&nbsp;&nbsp;</p>
+	</li>
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{167}" paraid="948577800"><strong>Provides a mechanism for restoring and protecting our public lands through restoration and mitigation leases.</strong> Restoration leases provide greater clarity for the BLM to work with appropriate partners to restore degraded lands. Mitigation leases will provide a clear and consistent mechanism for developers to offset their impacts by investing in land health elsewhere on public lands, like they currently can on state and private lands. The final rule clarifies who can obtain a restoration or mitigation lease, limiting potential lessees to qualified individuals, businesses, non-governmental organizations, Tribal governments, conservation districts, or state fish and wildlife agencies. Restoration and mitigation leases will not be issued if they would conflict with existing authorized uses.&nbsp;</p>
+	</li>
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{25}" paraid="2007072068"><strong>Clarifies the designation and management of ACECs. </strong>The final rule provides greater detail about how the BLM will continue to follow the direction in the Federal Land Policy and Management Act to prioritize the designation and protection of ACECs. Following public comments, the final rule clarifies how BLM consideration of new ACEC nominations and temporary management options does not interfere with the BLM’s discretion to continue advancing pending project applications.&nbsp;&nbsp;</p>
+	</li>
+</ul>
+
+<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{88}" paraid="142264570">The Public Lands Rule complements the BLM’s recently announced <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy Rule</a>, providing consistent direction and new tools for mitigation, helping advance the efficient and environmentally responsible development of renewable energy on BLM-managed public lands, providing greater clarity and consistency in permitting, and allowing for the continued acceleration of project reviews and approvals, while managing public lands under the principles of multiple use and sustained yield.&nbsp;</p>
+
+<p paraeid="{d394f3eb-337f-44b5-9c1e-b8510fed2d8e}{177}" paraid="201596216">The final rule will publish in the Federal Register in the coming days.&nbsp;</p>
 </div>
       
+
+
+
+
+  
+
+  <div class="field contact-block -subtitle">
+    <div><strong>Subtitle:</strong> </div>
+              <div>Public Lands Rule will help conserve wildlife habitat, restore places impacted by wildfire and drought, expand outdoor recreation, and guide thoughtful development</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -fiscal-year">
+    <div><strong>Fiscal Year:</strong> </div>
+              <div>2024</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -organization">
+    <div><strong>Organization:</strong> </div>
+              <div>Bureau of Land Management</div>
+          </div>
+
 
 
 
@@ -1445,7 +1395,19 @@ AOcNAAAAAA==
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+          <div><a href="https://www.blm.gov/region/alaska" hreflang="en">Alaska</a></div>
+          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
+          <div><a href="https://www.blm.gov/region/eastern-states" hreflang="en">Eastern States</a></div>
+          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
+          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+          <div><a href="https://www.blm.gov/region/nevada" hreflang="en">Nevada</a></div>
+          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+          <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
+          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
               </div>
       </div>
 
@@ -1455,12 +1417,13 @@ AOcNAAAAAA==
 
   
 
-<div class="blog-topics">
-    <div class="field contact-block -blog-topic">
-      <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/careers" hreflang="en">Careers</a></div>
-                </div>
-  </div>
+  <div class="field contact-block -tag">
+    <div><strong>Tag:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
+          <div><a href="https://www.blm.gov/tag/rule" hreflang="en">Rule</a></div>
+              </div>
+      </div>
 
 
 
@@ -1468,60 +1431,72 @@ AOcNAAAAAA==
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-04-24T12:00:00Z">Wed, 04/24/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -office">
-    <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/arizona-state-office" hreflang="en">Arizona State Office</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -thumbnail-image">
-    <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47741/edit" hreflang="en">Steven Ala</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -featured">
-    <div><strong>Featured:</strong> </div>
-              <div>Off</div>
-          </div>
-
-
-
-
-
-  
-
-<div class="blog-tags">
-    <div class="field contact-block -tag">
-      <div><strong>Tag:</strong> </div>
+  <div class="field contact-block -contact">
+    <div><strong>Contact:</strong> </div>
+          <div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/employee" hreflang="en">Employee</a></div>
-              <div><a href="https://www.blm.gov/tag/veterans" hreflang="en">veterans</a></div>
-                    </div>
+
+  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+  <div class="field contact-block -label">
+    <div><strong>Name:</strong> </div>
+              <div>Interior Press</div>
           </div>
-  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -email">
+    <div><strong>Email:</strong> </div>
+              <div>Interior_Press@ios.doi.gov</div>
+          </div>
+
+      </div>
+</div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -related-content">
+    <div><strong>Related Content:</strong> </div>
+          <div>
+              <div>
+
+  <div class="paragraph paragraph--type--wysiwyg paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+            <div class="field contact-block -summary"><ul>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="4f604006-b8a9-43b5-90cf-2d3b0b90baa4" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_general-factsheet_508.pdf">General Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="f99f8a1f-ea7f-4ce4-ac83-edc5dc658672" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_ACEC_508.pdf">ACECs Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="008578b3-f5b3-4581-9395-a4618a37bfde" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Land%20Health_508.pdf">Land Health Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="970f5162-0030-46fc-8e45-5068eb4379ab" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Restoration%20and%20Mitigation%20Leases_508.pdf">Restoration &amp; Mitigation Leases Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="6e15f147-5842-44e9-816b-d9e37a75eec1" href="https://www.blm.gov/sites/default/files/docs/2024-04/BLM-Final-Public-Land-Rule-Infographic.pdf">Infographic</a></li>
+</ul>
+</div>
+      
+      </div>
+</div>
+              </div>
+      </div>
 
 
 
@@ -1532,20 +1507,9 @@ AOcNAAAAAA==
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/arizona" hreflang="en">Arizona</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
               </div>
-      </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -teaser-image">
-    <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/47741/edit" hreflang="en">Steven Ala</a></div>
-          </div> 
+      </div> 
 
 <https://www.blm.gov/blog/2024-04-23/clean-energy-healthy-habitat>
 

@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.17
-updated: 2024-04-24 07:36:07
+updated: 2024-04-25 06:01:51
 ---
 
 # libraries 2024.17
 
-(date: 2024-04-24 07:36:07)
+(date: 2024-04-25 06:01:51)
+
+---
+
+## Guest Post — Elevating Scholarly Publishing through Collaboration: Insights from Publisherspeak US 2023 Part 1
+
+date: 2024-04-25, from: Scholarly Kitchen
+
+<p>Part one of a look back at the Publisherspeak meeting -- today's themes: author experience (AX) and AI.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/04/25/guest-post-elevating-scholarly-publishing-through-collaboration-insights-from-publisherspeak-us-2023-part-1/">Guest Post &#8212; Elevating Scholarly Publishing through Collaboration: Insights from Publisherspeak US 2023 Part 1</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/04/25/guest-post-elevating-scholarly-publishing-through-collaboration-insights-from-publisherspeak-us-2023-part-1/>
 
 ---
 
@@ -58,7 +70,7 @@ date: 2024-04-23, from: Scholarly Kitchen
 
 date: 2024-04-22, from: Association of Research Libraries News
 
-<p>Last Updated on April 23, 2024, 4:15 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 23 &#124; Wednesday, April 24 &#124; Thursday,...</p>
+<p>Last Updated on April 24, 2024, 3:32 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 23 &#124; Wednesday, April 24 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-22-25/">Day in Review (April 22–25)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

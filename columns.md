@@ -1,11 +1,363 @@
 ---
 title: columns 2024.17
-updated: 2024-04-24 07:36:07
+updated: 2024-04-25 06:01:51
 ---
 
 # columns 2024.17
 
-(date: 2024-04-24 07:36:07)
+(date: 2024-04-25 06:01:51)
+
+---
+
+## influence and citation
+
+date: 2024-04-25, from: Ayjay blog
+
+I have an essay coming out in the July issue of Harper’s which I titled “The Mythical Method” but which will probably end up with the title “Yesterday’s Men: The Death of the Mythical Method.” It concerns the rise and fall of myth as a central, or perhaps at times the central, concept of humanistic [&#8230;] 
+
+<https://blog.ayjay.org/influence-and-citation/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-25, from: Dave Winer's Scripting News)
+
+ChatGPT has memory across chats. This just <a href="https://imgs.scripting.com/2024/04/25/chatgptmessage.png">popped up</a> on the screen. I'd like to tell it that until further notice I use Node.js and do not use Express, and do use jQuery for my browser-based JavaScript, and I use the debugger all the time, so you can assume that. If this works, I now have a programming partner with memory. And maybe I can somehow get it to read all my blog posts going back 30 years? I have good archives of most of it. I fed Also, of course I <a href="https://imgs.scripting.com/2024/04/25/chatgptcomments.png">fed this post</a> to ChatGPT of course. 
+
+<http://scripting.com/2024/04/25.html#a123234>
+
+---
+
+## The Rise of Large-Language-Model Optimization
+
+date: 2024-04-25, updated: 2024-04-25, from: Bruce Schneier blog
+
+<p>The web has become so interwoven with everyday life that it is easy to forget what an extraordinary accomplishment and treasure it is. In just a few decades, much of human knowledge has been collectively written up and made available to anyone with an internet connection.</p>
+<p>But all of this is coming to an end. The advent of AI threatens to destroy the complex online ecosystem that allows writers, artists, and other creators to reach human audiences.</p>
+<p>To understand why, you must understand publishing. Its core task is to connect writers to an audience. Publishers work as gatekeepers, filtering candidates and then amplifying the chosen ones. Hoping to be selected, writers shape their work in various ways. This article might be written very differently in an academic publication, for example, and publishing it here entailed pitching an editor, revising multiple drafts for style and focus, and so on...</p> 
+
+<https://www.schneier.com/blog/archives/2024/04/the-rise-of-large.html>
+
+---
+
+## You are worth $47. 
+
+date: 2024-04-25, from: Om Malik blog
+
+Almost a year ago,&#160;the&#160;Federal Trade Commission (FTC) sued subsidiary Ring, the camera security company that started off selling a video&#160;doorbell,&#160;for allowing employees and contractors to access private data without permission. The two parties have reached&#160;a settlement.&#160;Ring will pay $5.6 million to 117,000 customers whose data was accessed. That works out to $47.&#160; That is what &#8230; 
+
+<https://om.co/2024/04/25/ftc-settles-with-ring/>
+
+---
+
+## 2024-04-24 Micro-blogs
+
+date: 2024-04-25, from: Alex Schroeder's Blog
+
+<h1 id="2024-04-24-micro-blogs">2024-04-24 Micro-blogs</h1>
+
+<p>Recently, I jokingly replied to <a class="account" href="https://merveilles.town/@jameschip" title="@jameschip@merveilles.town">@jameschip</a> when he said &ldquo;maybe we need a new word for types of blogs that have comments and federation&rdquo; that we should have kept the word micro-blogs. Regular blogs, with a character limit.</p>
+
+<p>Then again, micro-blogs in that sense, from Identi.ca to GNU Social, Twitter, Facebook, Google+ and the Fediverse now have a big plus: Notification actually works. If you mention another account, they get notified. If you get a reply, you get notified. It&rsquo;s glorious.</p>
+
+<p>For regular blogs, notification works with the oldest, universal, federated, communication medium online: email. Conversely, if you don&rsquo;t have email or don&rsquo;t do, you don&rsquo;t get notified and most likely you can&rsquo;t even comment. 😐</p>
+
+<p>I tried web-mentions and they didn&rsquo;t work I wanted them to. Far too few other blogs supported them, and for this blog, I didn&rsquo;t know what to do with them. I didn&rsquo;t want to send myself email so I turned them into comments, but mentions aren&rsquo;t as strong a signal as a comment. Mentions aren&rsquo;t public but comments are. Mentions don&rsquo;t need a strong connection to the main article but comments do. By turning mentions into comments, I had made a mistake and the result was frustrating. So <a href="2023-09-20-web-mentions-vs-referrals">I got rid of them</a>.</p>
+
+<p>And so here we are, it&rsquo;s 2024, and blogs still don&rsquo;t have good (spam-free) comments and notifications where as micro-blogs do. 😢</p>
+
+<p><a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Blogs">#Blogs</a> <a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p>
+
+<p><strong>2024-04-24</strong>. I got an email from <a class="account" href="https://social.sdf.org/@reidrac" title="@reidrac@social.sdf.org">@reidrac</a> with a link to a related blog post, where he wrestles with webmentions:</p>
+
+<blockquote>
+<p>This blog doesn’t have comments, although you can always send me an email if you want to comment anything, and some people have done that. Not often, but if I have received a handful of emails, that’s more comments that my old blog had in its last few years. – <a href="https://www.usebox.net/jjm/blog/connecting-blogs/">Connecting blogs</a></p>
+</blockquote>
+
+<p>James also had this to say:</p>
+
+<blockquote>
+<p>If your blog then has comments, and likes, and people on other platforms can comment, like, and share posts directly, is it really a blog any more? … Should blogs even have comments and notifications?</p>
+</blockquote>
+
+<p>I don&rsquo;t know.</p>
+
+<p>I know that back when the Old School RPG blogosphere was strong, there were often questions that got tackled by multiple people. You&rsquo;d see a post about something interesting and post your own take and link back to the original. More people would jump onto the band-wagon, link to the four or five related blog posts they could find and add their take. It was cool! Those &ldquo;replies&rdquo; weren&rsquo;t just replies, they sometimes built on what had been said before, reformulated it, distilled it. It was great! The replies were also hard to find, unfortunately. People relied on the blogrolls of well-connected bloggers and blog aggregators like the <a href="https://campaignwiki.org/rpg">RPG Planet</a> I&rsquo;m running and similar sites like the RPGA, and forums like EN World, Dragonsfoot, ODD74, and so on.</p>
+
+<p>I think we have to do the work and link to other people&rsquo;s blogs.</p> 
+
+<https://alexschroeder.ch/view/2024-04-24-micro-blog>
+
+---
+
+## Elon Musk’s grotesque distortion of capitalism
+
+date: 2024-04-25, from: Robert Reich's blog
+
+He&#8217;s demanding the largest pay package in corporate history while extorting his shareholders and firing 14,000 workers 
+
+<https://robertreich.substack.com/p/elon-musks-grotesque-distortion-of>
+
+---
+
+## Dear SCOTUS, Look What You Have Done
+
+date: 2024-04-25, from: Dan Rather's Steady
+
+The unintended consequences that could affect the election 
+
+<https://steady.substack.com/p/dear-scotus-look-what-you-have-done>
+
+---
+
+## Dumbphones in 2024
+
+date: 2024-04-24, updated: 2024-04-24, from: Daring Fireball
+
+ 
+
+<https://www.newyorker.com/culture/infinite-scroll/the-dumbphone-boom-is-real>
+
+---
+
+## The Scientific Method, part 4: Eating elephants and The Big News Principle
+
+date: 2024-04-24, updated: 2024-04-24, from: Ron Garret
+
+This is the fourth in a series about the scientific method and how it can be applied to everyday life.&nbsp; In this installment I'm going to suggest a way to approach all the science-y stuff without getting overwhelmed.There is an old joke that goes, "How do you eat an elephant?&nbsp; One bite at a time."&nbsp; That answer might be good for a laugh, but it wouldn't actually work, either for a 
+
+<https://blog.rongarret.info/2024/04/the-scientific-method-part-4-eating.html>
+
+---
+
+## Ed Zitron: ‘The Man Who Killed Google Search’
+
+date: 2024-04-24, updated: 2024-04-24, from: Daring Fireball
+
+ 
+
+<https://www.wheresyoured.at/the-men-who-killed-google/?ref=ed-zitrons-wheres-your-ed-at-newsletter>
+
+---
+
+## Why Your Most-Used Keyboard Keys Get Shiny
+
+date: 2024-04-24, updated: 2024-04-24, from: Daring Fireball
+
+ 
+
+<https://mastodon.social/@jgamet/112323590880011048>
+
+---
+
+##  What does it mean to &#8220;be a serious person&#8221;? I don&#8217;t know... 
+
+date: 2024-04-24, updated: 2024-04-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044457-what-does-it-mean-to>
+
+---
+
+##  Can I Lick It? (Yes, You Can?!) 
+
+date: 2024-04-24, updated: 2024-04-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/can-i-lick-it-yes-you-can>
+
+---
+
+##  &#8220;What would you consider as the most recognizable bitmap fonts in tech... 
+
+date: 2024-04-24, updated: 2024-04-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044475-what-would-you-consider-a>
+
+---
+
+##  The novelist R.O. Kwon: The Parents Who Regret Having Children. &#8220;It&#8217;s possible... 
+
+date: 2024-04-24, updated: 2024-04-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044471-the-novelist-ro-kwon-the>
+
+---
+
+##  Bizarre Traveling Flame Discovery 
+
+date: 2024-04-24, updated: 2024-04-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/bizarre-traveling-flame-discovery>
+
+---
+
+## Access to capital for change
+
+date: 2024-04-24, from: Tracy Durnell Blog
+
+Killing the Middlemen in the Rideshare Industry by Hamilton Nolan and Erik Forman The main barrier is access to capital. We can build businesses that generate profit, but because the business is worker-owned, it doesn&#8217;t fit in the normative forms that venture capital prefers, and there really isn&#8217;t a large supply of risk capital for [&#8230;] 
+
+<https://tracydurnell.com/2024/04/24/access-to-capital-for-change/>
+
+---
+
+## more on costs and choices
+
+date: 2024-04-24, from: Ayjay blog
+
+Isaiah Berlin, “The Originality of Machiavelli”: The ideals of Christianity are charity, mercy, sacrifice, love of God, forgiveness of enemies, contempt for the goods of this world, faith in the life hereafter, belief in the salvation of the individual soul as being of incomparable value &#8211; higher than, indeed wholly incommensurable with, any social or [&#8230;] 
+
+<https://blog.ayjay.org/46122-2/>
+
+---
+
+##  A Day in Tokyo: A 1968 Film Captures a City Reborn 23... 
+
+date: 2024-04-24, updated: 2024-04-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044405-a-day-in-tokyo-a>
+
+---
+
+##  Vintage Japanese Train Tickets 
+
+date: 2024-04-24, updated: 2024-04-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/vintage-japanese-train-tickets>
+
+---
+
+## Maldives 2024
+
+date: 2024-04-24, from: Alex Schroeder's Blog
+
+<h1 id="maldives-2024">Maldives 2024</h1>
+
+<p>The biosphere as we know it is ending and I’m spending two weeks in the Maldives with my wife for her 50th birthday. I feel conflicted.</p>
+
+<p>The trip to get here was long. Zurich Doha by plane, Doha Male by plane, Male Kurudu by water-plane, Kurudu Komandoo by speedboat. I felt like sleeping for 20h when we finally got here. And all the <a href="2024-04-05-travel">anxiety before leaving</a> was terrible, too.</p>
+
+<p>With that, I think we have all out must-see locations before the end. We went to the <a href="2017-10-28_Australia">Great Barrier Reef</a> in 2017, to the <a href="Galapagos_2020">Galapagos</a> in 2020 and now to the Maldives.</p>
+
+<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Maldives">#Maldives</a></p>
+
+<p><strong>2024-04-06</strong>.
+The last leg of the journey – our water-plane was delayed because of the bad weather.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-1.jpg" alt="" /></p>
+
+<p>Looking out from the porch the ocean is blue, the sky is blue and the reef begins a few meters in.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-5.jpg" alt="" /></p>
+
+<p>We go snorkeling every day. Our last two trips showed me that we need an underwater camera. Oh to have videos of Reef Number Nine in Australia or the penguins and sea lions in the Galapagos! I bought a GoPro Hero 10 before we left.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-2.jpg" alt="" /></p>
+
+<p>This cowtail stingray (?) we keep seeing is about 2m long and likes to hide in the sand.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-3.jpg" alt="" /></p>
+
+<p>There’s sea grass sprouting right now and sea turtles grazing.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-4.jpg" alt="" /></p>
+
+<p>Black tipped reef sharks… harmless! At a later point we did see it attack something hidden in the rocks and it was scary to see!</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-6.jpg" alt="" /></p>
+
+<p>Most corals look dreary! It’s certainly not as colourful and busy as in Australia or the Galapagos.
+This purple giant is cool, though.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-7.jpg" alt="" /></p>
+
+<p>There are still plenty of colourful fish.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-8.jpg" alt="" /></p>
+
+<p>Whenever we’re away on a trip, we play games.
+The most popular tropical island game is Race for the Galaxy.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-9.jpg" alt="" /></p>
+
+<p>Yesterday we also played <a href="http://mixedsignals.ml/games/petition/">Petition</a> by <a class="account" href="https://mastodon.xyz/@klaatu" title="@klaatu@mastodon.xyz">@klaatu</a>.</p>
+
+<p><strong>2024-04-10</strong>. More pictures.</p>
+
+<p>We saw our first hermit crabs in Costa Rica where we spent our honey moon. We love these little ones. Maybe because they’re slow and easily scared and therefore obviously harmless.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-10.jpg" alt="" /></p>
+
+<p>The parrot fish have super sharp teeth and gnaw on the corals. And when you’re snorkeling, you can hear them. Kchrrr! Kchhhrrk!</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-11.jpg" alt="" /></p>
+
+<p>I also love those lone corals harbouring a small school of tiny fearful fish that retreat and hide in the coral as somebody approaches.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-12.jpg" alt="" /></p>
+
+<p>When you swim past the nearby reef the bottom drops out and the deep blue begins. I am always afraid some huge fish will show up.</p>
+
+<video src="/wiki/2024-04-06-maledives-14.mp4" poster="2024-04-06-maledives-13.jpg" width="1920" height="1080" controls muted>
+<img alt="Image of fishes and the deep blue ocean" src="2024-04-06-maledives-13.jpg"/><br>
+<a alt="Video of the same fishes" href="/wiki/2024-04-06-maledives-14.mp4">14 second video</a>
+</video>
+
+<p>There is a strange tourism industry, here. The islands are either uninhabited, inhabited by locals, or reserved for tourism. Tourists can stay on the “local islands” since 2007. Natives are only allowed to work on the tourist islands.</p>
+
+<p>The capital city is <a href="https://en.wikipedia.org/wiki/List_of_cities_proper_by_population_density">one of the densest urban areas</a> on the planet. Just look at the image of <a href="https://en.wikipedia.org/wiki/Mal%C3%A9">Malé on Wikipedia</a>.</p>
+
+<p>I would lament this urban sprawl, the land reclamation, the garbage problem, the democracy deficit, the dependence on tourism – but I know what my friend Peter would say, pointing at the <a href="https://en.wikipedia.org/wiki/Factfulness">Factfulness</a> book. Check out these stats from the <a href="https://de.m.wikipedia.org/wiki/Malediven">German Wikipedia page on the Maldives</a>:
+In 2020, the Maldives had 541000 inhabitants.
+In 1950, they had about 74000 inhabitants. At the time, a woman had about 7.5 children on average in 1980 but these days they are so much better off that the growth rate has dropped to 1.8% in 2020 and a woman has about 1.8 children on average. Life expectancy rose from 34.5 years in 1950 to 81 for women and 77.8 for men in 2020. An amazing improvement from the point of view of the locals.</p>
+
+<p>From my green perspective, though… let’s not forget the garbage island <a href="https://en.m.wikipedia.org/wiki/Thilafushi">Thilafushi</a>. The picked an island and use it as a garbage dump because they don&rsquo;t know what to do with all the garbage. Sure, every island needs a garbage incinerator now, but in the nineties, there was just garbage and it had to go somewhere. And some of the stuff starts leaking. It accumulates in the the fish. People eat the fish. It&rsquo;s easy to feel grim about this. I need to remind myself that life expectancy was less than 35 years just a generation or two ago (I was born in the seventies). Poverty is much, much worse than pollution and we tend to forget it.</p>
+
+<p>If you’re wondering why I’m basically skimming, reading and finally summarizing Wikipedia articles on my blog, I guess the answer is that this is how I try to deal with it all. To not close my eyes. Not to look away.</p>
+
+<p><strong>2024-04-12</strong>. Bad luck for Claudia. Yesterday, late at night, she stuck her small toe in a gap between two planks, took another step, nearly fell and twisted her foot. There’s a huge dark bruise on its back and a significant dark bruise below. No more fins, for a while. 😭</p>
+
+<p>We had signed up for a snorkel safari when suddenly the buzz was that the young humpback whale they had seen two days ago was still around and so the ship picked up some extra passengers and Claudia came along to do some whale watching.</p>
+
+<p>The whale watching did not disappoint.</p>
+
+<video src="/wiki/2024-04-06-maledives-15.mov" poster="2024-04-06-maledives-15.jpg" width="1920" height="1080" controls muted>
+<img alt="Image of a whale slapping its fin" src="2024-04-06-maledives-15.jpg"/><br>
+<a alt="Video of the whale slapping its fin" href="/wiki/2024-04-06-maledives-15.mov">5 second video</a>
+</video>
+
+<p>This adolescent <a href="https://en.m.wikipedia.org/wiki/Humpback_whale">humpback whale</a> was about 8m long. It’s unusual to find a whales here, now, so close to the reef, so young, without its family. There was speculation that it might be waiting for its family to pick it up again, or that perhaps it was sick.</p>
+
+<video src="/wiki/2024-04-06-maledives-14.mov" poster="2024-04-06-maledives-14.jpg" width="1920" height="1080" controls muted>
+<img alt="Image of a young humpback whale swimming by" src="2024-04-06-maledives-14.jpg"/><br>
+<a alt="Video of the same whale" href="/wiki/2024-04-06-maledives-14.mov">6 second video</a>
+</video>
+
+<p><strong>2024-04-13</strong>. To it is raining. Good for Claudia since she is supposed to rest her foot.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-16.jpg" alt="" /></p>
+
+<p><strong>2024-04-21</strong>. After snorkling with the whale, not much seemed to be worth posting about.</p>
+
+<p>Before going on this trip, I bought an older GoPro HERO 10. Now I have a few gigabytes of reef snorkeling footage. I don&rsquo;t know what to do with it. Post it? Unlikely! It takes too much space and nobody would look at it. Donate it to YouTube? Unlikely! Upload it to some Peertube instance and thereby offload the cost? Unlikely.</p>
+
+<p>Regarding the economy of the Maldives and the shock when I learned about the garbage island and my dismay when I saw the skyline of Malé island – when we flew back, I got a closer look at Malé from the air as we landed and while it wasn&rsquo;t an island nature paradise, it was just a city with nice, tall buildings and roads and palm trees and construction sites and glass fronts and cars and motorcycles. In other words, it seemed like a perfectly normal city and it wasn&rsquo;t shabby and it didn&rsquo;t have slums and so I keep coming back to the main issue: Beating poverty is of ultimate importance in order to improve people&rsquo;s lives and giving them options so that they can work on the problems they care about. When we flew over Thilafushi, the garbage island didn&rsquo;t look &ldquo;apocalyptic&rdquo; but just like some industrial zone elsewhere in the world, except it&rsquo;s an island in the middle of the ocean.</p>
+
+<p><strong>2024-04-24</strong>. Ugh. Seems like Claudia broke her foot, after all. 😰</p> 
+
+<https://alexschroeder.ch/view/2024-04-06-maledives>
 
 ---
 
@@ -46,10 +398,10 @@ date: 2024-04-24, from: Dave Winer's Scripting News
 <li><b>The FeedLand side</b>. <a href="https://feedland.com/?signonscreen=true">Sign on</a> to FeedLand, create an account if you don't have one, and subscribe to a bunch of feeds. These will be the feeds in your blogroll.  There are some tips on how to find feeds, in the <a href="http://scripting.com/2024/04/24/132025.html#a134443">next section</a>.</li>
 <li><b>The WordPress side</b>. There's a <a href="https://github.com/a8cteam51/feedland-blogroll">new plugin</a>, developed by the people at the Team51 group at Automattic. They have a <a href="https://github.com/a8cteam51/feedland-blogroll/blob/trunk/README.md">checklist</a> for how to install the plugin in a WordPress site. </li>
 </ul>
-<p>If you have questions or comments, or need help getting it working, post a note in the <a href="">discussion group</a> here. </p>
 <p>You can get ideas for feeds for your blogroll from reading other people's feed lists. When you see a checkbox that isn't checked, you can subscribe to the feed simply by checking the box. </p>
 <p>Have a look at <a href="https://feedland.com/?username=davewiner">my feed list</a> for ideas. Here's a list of <a href="https://feedland.com/?userslist">recent users</a>, click on their names to see their feed lists. You don't have to finish this now, you can come back and tune this up anytime.</p>
 <p>Developers: Use <a href="https://github.com/scripting/feedlandBlogrollToolkit">feedlandBlogrollToolkit</a> to add blogrolls to other platforms. </p>
+<p>If you have questions or comments, or need help getting it working, post a note in the <a href="https://github.com/a8cteam51/feedland-blogroll/discussions/15">discussion group</a> here. </p>
  
 
 <http://scripting.com/2024/04/24/132025.html?title=feedlandAndWordpress>
@@ -72,28 +424,6 @@ date: 2024-04-24, updated: 2024-04-24, from: Bruce Schneier blog
 <blockquote><p>In this Article I argue that most of the time, privacy consent is fictitious. Instead of futile efforts to try to turn privacy consent from fiction to fact, the better approach is to lean into the fictions. The law can&#8217;t stop privacy consent from being a fairy tale, but the law can ensure that the story ends well. I argue that privacy consent should confer less legitimacy and power and that it be backstopped by a set of duties on organizations that process personal data based on consent...</p></blockquote> 
 
 <https://www.schneier.com/blog/archives/2024/04/dan-solove-on-privacy-regulation.html>
-
----
-
-## 2024-04-24 Micro-blogs
-
-date: 2024-04-24, from: Alex Schroeder's Blog
-
-<h1 id="2024-04-24-micro-blogs">2024-04-24 Micro-blogs</h1>
-
-<p>Recently, I jokingly replied to <a class="account" href="https://merveilles.town/@jameschip" title="@jameschip@merveilles.town">@jameschip</a> when he said &ldquo;maybe we need a new word for types of blogs that have comments and federation&rdquo; that we should have kept the word micro-blogs. Regular blogs, with a character limit.</p>
-
-<p>Then again, micro-blogs in that sense, from Identi.ca to GNU Social, Twitter, Facebook, Google+ and the Fediverse now have a big plus: Notification actually works. If you mention another account, they get notified. If you get a reply, you get notified. It&rsquo;s glorious.</p>
-
-<p>For regular blogs, notification works with the oldest, universal, federated, communication medium online: email. Conversely, if you don&rsquo;t have email or don&rsquo;t do, you don&rsquo;t get notified and most likely you can&rsquo;t even comment. 😐</p>
-
-<p>I tried web-mentions and they didn&rsquo;t work I wanted them to. Far too few other blogs supported them, and for this blog, I didn&rsquo;t know what to do with them. I didn&rsquo;t want to send myself email so I turned them into comments, but mentions aren&rsquo;t as strong a signal as a comment. Mentions aren&rsquo;t public but comments are. Mentions don&rsquo;t need a strong connection to the main article but comments do. By turning mentions into comments, I had made a mistake and the result was frustrating. So <a href="2023-09-20-web-mentions-vs-referrals">I got rid of them</a>.</p>
-
-<p>And so here we are, it&rsquo;s 2024, and blogs still don&rsquo;t have good (spam-free) comments and notifications where as micro-blogs do. 😢</p>
-
-<p><a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Blogs">#Blogs</a> <a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p> 
-
-<https://alexschroeder.ch/view/2024-04-24-micro-blog>
 
 ---
 
@@ -481,7 +811,7 @@ date: 2024-04-23, updated: 2024-04-23, from: Jason Kittke's blog
 
 ## The Radiant Future! (Of 1995)
 
-date: 2024-04-23, updated: 2024-04-24, from: Charlie's Diary
+date: 2024-04-23, updated: 2024-04-25, from: Charlie's Diary
 
 The AI hype in the media obscures the fact that we're clearly in another goddamn venture capital bubble right now. As the Wall Street Journal said earlier this month (article is paywalled), "... In a presentation earlier this month, the... 
 
@@ -961,126 +1291,6 @@ date: 2024-04-21, from: Robert Reich's blog
 And last week's winner 
 
 <https://robertreich.substack.com/p/sunday-caption-contest-support>
-
----
-
-## Maldives 2024
-
-date: 2024-04-21, from: Alex Schroeder's Blog
-
-<h1 id="maldives-2024">Maldives 2024</h1>
-
-<p>The biosphere as we know it is ending and I’m spending two weeks in the Maldives with my wife for her 50th birthday. I feel conflicted.</p>
-
-<p>The trip to get here was long. Zurich Doha by plane, Doha Male by plane, Male Kurudu by water-plane, Kurudu Komandoo by speedboat. I felt like sleeping for 20h when we finally got here. And all the <a href="2024-04-05-travel">anxiety before leaving</a> was terrible, too.</p>
-
-<p>With that, I think we have all out must-see locations before the end. We went to the <a href="2017-10-28_Australia">Great Barrier Reef</a> in 2017, to the <a href="Galapagos_2020">Galapagos</a> in 2020 and now to the Maldives.</p>
-
-<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Maldives">#Maldives</a></p>
-
-<p><strong>2024-04-06</strong>.
-The last leg of the journey – our water-plane was delayed because of the bad weather.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-1.jpg" alt="" /></p>
-
-<p>Looking out from the porch the ocean is blue, the sky is blue and the reef begins a few meters in.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-5.jpg" alt="" /></p>
-
-<p>We go snorkeling every day. Our last two trips showed me that we need an underwater camera. Oh to have videos of Reef Number Nine in Australia or the penguins and sea lions in the Galapagos! I bought a GoPro Hero 10 before we left.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-2.jpg" alt="" /></p>
-
-<p>This cowtail stingray (?) we keep seeing is about 2m long and likes to hide in the sand.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-3.jpg" alt="" /></p>
-
-<p>There’s sea grass sprouting right now and sea turtles grazing.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-4.jpg" alt="" /></p>
-
-<p>Black tipped reef sharks… harmless! At a later point we did see it attack something hidden in the rocks and it was scary to see!</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-6.jpg" alt="" /></p>
-
-<p>Most corals look dreary! It’s certainly not as colourful and busy as in Australia or the Galapagos.
-This purple giant is cool, though.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-7.jpg" alt="" /></p>
-
-<p>There are still plenty of colourful fish.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-8.jpg" alt="" /></p>
-
-<p>Whenever we’re away on a trip, we play games.
-The most popular tropical island game is Race for the Galaxy.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-9.jpg" alt="" /></p>
-
-<p>Yesterday we also played <a href="http://mixedsignals.ml/games/petition/">Petition</a> by <a class="account" href="https://mastodon.xyz/@klaatu" title="@klaatu@mastodon.xyz">@klaatu</a>.</p>
-
-<p><strong>2024-04-10</strong>. More pictures.</p>
-
-<p>We saw our first hermit crabs in Costa Rica where we spent our honey moon. We love these little ones. Maybe because they’re slow and easily scared and therefore obviously harmless.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-10.jpg" alt="" /></p>
-
-<p>The parrot fish have super sharp teeth and gnaw on the corals. And when you’re snorkeling, you can hear them. Kchrrr! Kchhhrrk!</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-11.jpg" alt="" /></p>
-
-<p>I also love those lone corals harbouring a small school of tiny fearful fish that retreat and hide in the coral as somebody approaches.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-12.jpg" alt="" /></p>
-
-<p>When you swim past the nearby reef the bottom drops out and the deep blue begins. I am always afraid some huge fish will show up.</p>
-
-<video src="/wiki/2024-04-06-maledives-14.mp4" poster="2024-04-06-maledives-13.jpg" width="1920" height="1080" controls muted>
-<img alt="Image of fishes and the deep blue ocean" src="2024-04-06-maledives-13.jpg"/><br>
-<a alt="Video of the same fishes" href="/wiki/2024-04-06-maledives-14.mp4">14 second video</a>
-</video>
-
-<p>There is a strange tourism industry, here. The islands are either uninhabited, inhabited by locals, or reserved for tourism. Tourists can stay on the “local islands” since 2007. Natives are only allowed to work on the tourist islands.</p>
-
-<p>The capital city is <a href="https://en.wikipedia.org/wiki/List_of_cities_proper_by_population_density">one of the densest urban areas</a> on the planet. Just look at the image of <a href="https://en.wikipedia.org/wiki/Mal%C3%A9">Malé on Wikipedia</a>.</p>
-
-<p>I would lament this urban sprawl, the land reclamation, the garbage problem, the democracy deficit, the dependence on tourism – but I know what my friend Peter would say, pointing at the <a href="https://en.wikipedia.org/wiki/Factfulness">Factfulness</a> book. Check out these stats from the <a href="https://de.m.wikipedia.org/wiki/Malediven">German Wikipedia page on the Maldives</a>:
-In 2020, the Maldives had 541000 inhabitants.
-In 1950, they had about 74000 inhabitants. At the time, a woman had about 7.5 children on average in 1980 but these days they are so much better off that the growth rate has dropped to 1.8% in 2020 and a woman has about 1.8 children on average. Life expectancy rose from 34.5 years in 1950 to 81 for women and 77.8 for men in 2020. An amazing improvement from the point of view of the locals.</p>
-
-<p>From my green perspective, though… let’s not forget the garbage island <a href="https://en.m.wikipedia.org/wiki/Thilafushi">Thilafushi</a>. The picked an island and use it as a garbage dump because they don&rsquo;t know what to do with all the garbage. Sure, every island needs a garbage incinerator now, but in the nineties, there was just garbage and it had to go somewhere. And some of the stuff starts leaking. It accumulates in the the fish. People eat the fish. It&rsquo;s easy to feel grim about this. I need to remind myself that life expectancy was less than 35 years just a generation or two ago (I was born in the seventies). Poverty is much, much worse than pollution and we tend to forget it.</p>
-
-<p>If you’re wondering why I’m basically skimming, reading and finally summarizing Wikipedia articles on my blog, I guess the answer is that this is how I try to deal with it all. To not close my eyes. Not to look away.</p>
-
-<p><strong>2024-04-12</strong>. Bad luck for Claudia. Yesterday, late at night, she stuck her small toe in a gap between two planks, took another step, nearly fell and twisted her foot. There’s a huge dark bruise on its back and a significant dark bruise below. No more fins, for a while. 😭</p>
-
-<p>We had signed up for a snorkel safari when suddenly the buzz was that the young humpback whale they had seen two days ago was still around and so the ship picked up some extra passengers and Claudia came along to do some whale watching.</p>
-
-<p>The whale watching did not disappoint.</p>
-
-<video src="/wiki/2024-04-06-maledives-15.mov" poster="2024-04-06-maledives-15.jpg" width="1920" height="1080" controls muted>
-<img alt="Image of a whale slapping its fin" src="2024-04-06-maledives-15.jpg"/><br>
-<a alt="Video of the whale slapping its fin" href="/wiki/2024-04-06-maledives-15.mov">5 second video</a>
-</video>
-
-<p>This adolescent <a href="https://en.m.wikipedia.org/wiki/Humpback_whale">humpback whale</a> was about 8m long. It’s unusual to find a whales here, now, so close to the reef, so young, without its family. There was speculation that it might be waiting for its family to pick it up again, or that perhaps it was sick.</p>
-
-<video src="/wiki/2024-04-06-maledives-14.mov" poster="2024-04-06-maledives-14.jpg" width="1920" height="1080" controls muted>
-<img alt="Image of a young humpback whale swimming by" src="2024-04-06-maledives-14.jpg"/><br>
-<a alt="Video of the same whale" href="/wiki/2024-04-06-maledives-14.mov">6 second video</a>
-</video>
-
-<p><strong>2024-04-13</strong>. To it is raining. Good for Claudia since she is supposed to rest her foot.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-16.jpg" alt="" /></p>
-
-<p><strong>2024-04-21</strong>. After snorkling with the whale, not much seemed to be worth posting about.</p>
-
-<p>Before going on this trip, I bought an older GoPro HERO 10. Now I have a few gigabytes of reef snorkeling footage. I don&rsquo;t know what to do with it. Post it? Unlikely! It takes too much space and nobody would look at it. Donate it to YouTube? Unlikely! Upload it to some Peertube instance and thereby offload the cost? Unlikely.</p>
-
-<p>Regarding the economy of the Maldives and the shock when I learned about the garbage island and my dismay when I saw the skyline of Malé island – when we flew back, I got a closer look at Malé from the air as we landed and while it wasn&rsquo;t an island nature paradise, it was just a city with nice, tall buildings and roads and palm trees and construction sites and glass fronts and cars and motorcycles. In other words, it seemed like a perfectly normal city and it wasn&rsquo;t shabby and it didn&rsquo;t have slums and so I keep coming back to the main issue: Beating poverty is of ultimate importance in order to improve people&rsquo;s lives and giving them options so that they can work on the problems they care about. When we flew over Thilafushi, the garbage island didn&rsquo;t look &ldquo;apocalyptic&rdquo; but just like some industrial zone elsewhere in the world, except it&rsquo;s an island in the middle of the ocean.</p> 
-
-<https://alexschroeder.ch/view/2024-04-06-maledives>
 
 ---
 

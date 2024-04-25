@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.17
-updated: 2024-04-24 07:36:07
+updated: 2024-04-25 06:01:50
 ---
 
 # mid central 2024.17
 
-(date: 2024-04-24 07:36:07)
+(date: 2024-04-25 06:01:50)
+
+---
+
+## 5 considerations when choosing a haptics manufacturer
+
+date: 2024-04-25, from: EDN Blog
+
+<img width="1024" height="423" src="https://www.edn.com/wp-content/uploads/Hero-image-Haptics-Titan.png?fit=1024%2C423" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Haptics-Titan.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-Haptics-Titan.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Haptics-Titan.png?w=768 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><p>Here is all you need to know about designing and manufacturing products with high-definition haptic effects.</p>
+<p>The post <a href="https://www.edn.com/5-considerations-when-choosing-a-haptics-manufacturer/" data-wpel-link="internal">5 considerations when choosing a haptics manufacturer</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/5-considerations-when-choosing-a-haptics-manufacturer/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2024-04-24 07:36:07
 
 date: 2024-04-24, from: EDN Blog
 
-<img width="305" height="285" src="https://www.edn.com/wp-content/uploads/Sidereal-1.png?fit=305%2C285" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Sidereal-1.png?w=305 305w, https://www.edn.com/wp-content/uploads/Sidereal-1.png?w=300 300w" sizes="(max-width: 305px) 100vw, 305px" /><p>Understanding the difference in time-keeping when we use sidereal days instead of solar days. </p>
+<img width="305" height="285" src="https://www.edn.com/wp-content/uploads/Sidereal-1.png?fit=305%2C285" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Sidereal-1.png?w=305 305w, https://www.edn.com/wp-content/uploads/Sidereal-1.png?w=300 300w" sizes="(max-width: 305px) 100vw, 305px" /><p>Understanding the difference in time-keeping when we use sidereal days instead of solar days. </p>
 <p>The post <a href="https://www.edn.com/sidereal-time-versus-solar-time/" data-wpel-link="internal">Sidereal time versus solar time</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
@@ -41,7 +53,7 @@ Fresno State&#8217;s graduating artists welcomed friends, family and prospective
 
 ---
 
-## Preview: The Fresno State community is ready to wear denim tomorrow in solidarity of Denim Day
+## Preview: The Fresno State community is ready to wear denim in solidarity of Denim Day
 
 date: 2024-04-24, from: The Collegian (Cal State Fresno's Student Newspaper)
 

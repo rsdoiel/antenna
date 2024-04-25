@@ -1,11 +1,321 @@
 ---
 title: tech likely 2024.17
-updated: 2024-04-24 07:36:07
+updated: 2024-04-25 06:01:51
 ---
 
 # tech likely 2024.17
 
-(date: 2024-04-24 07:36:07)
+(date: 2024-04-25 06:01:51)
+
+---
+
+## What Does Milk Do for Babies?
+
+date: 2024-04-25, from: Quanta Magazine
+
+Human nutrition begins with milk, but the wondrous biofluid does much more than feed babies. In this episode, co-host Steven Strogatz speaks with molecular nutritionist Elizabeth Johnson about her research into the impact of human milk on a healthy microbiome.            <p>The post <a href="https://www.quantamagazine.org/what-does-milk-do-for-babies-20240425/" target="_blank">What Does Milk Do for Babies?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/what-does-milk-do-for-babies-20240425/>
+
+---
+
+##  A Message from the Chancellor on the Recent Student Protest. &#8220;But this... 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044478-a-message-from-the-chance>
+
+---
+
+## influence and citation
+
+date: 2024-04-25, from: Ayjay blog
+
+I have an essay coming out in the July issue of Harper’s which I titled “The Mythical Method” but which will probably end up with the title “Yesterday’s Men: The Death of the Mythical Method.” It concerns the rise and fall of myth as a central, or perhaps at times the central, concept of humanistic [&#8230;] 
+
+<https://blog.ayjay.org/influence-and-citation/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-25, from: Dave Winer's Scripting News)
+
+ChatGPT has memory across chats. This just <a href="https://imgs.scripting.com/2024/04/25/chatgptmessage.png">popped up</a> on the screen. I'd like to tell it that until further notice I use Node.js and do not use Express, and do use jQuery for my browser-based JavaScript, and I use the debugger all the time, so you can assume that. If this works, I now have a programming partner with memory. And maybe I can somehow get it to read all my blog posts going back 30 years? I have good archives of most of it. I fed Also, of course I <a href="https://imgs.scripting.com/2024/04/25/chatgptcomments.png">fed this post</a> to ChatGPT of course. 
+
+<http://scripting.com/2024/04/25.html#a123234>
+
+---
+
+## Get young people making interactive websites with JavaScript and our ‘More web’ path
+
+date: 2024-04-25, from: Raspberry Pi (.org)
+
+<p>Modern web design has turned websites from static and boring walls of information into ways of providing fun and engaging experiences to the user. Our new ‘More web’ project path shows young creators how to add interaction and animation to a webpage through JavaScript code. Why learn JavaScript? As of 2024, JavaScript is the most&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/more-web-learn-javascript/">Get young people making interactive websites with JavaScript and our ‘More web’ path</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/more-web-learn-javascript/>
+
+---
+
+## I Hope We Eventually Get to See the Painting
+
+date: 2024-04-25, updated: 2024-04-25, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/04/25/i-hope-we-eventually-get-to-see-the-painting/>
+
+---
+
+## Sleepless in San Francisco
+
+date: 2024-04-25, updated: 2024-04-25, from: Robin Rendle Essays
+
+ 
+
+<https://robinrendle.com/notes/sleepless-in-san-francisco/>
+
+---
+
+## Mt32-pi Atari ST | The MagPi #141
+
+date: 2024-04-25, from: Raspberry Pi News (.com)
+
+<p>Alongside his day job as The MagPi and Hackspace magazines’ publisher, Brian Jepson likes to track down and restore old computers. </p>
+<p>The post <a href="https://www.raspberrypi.com/news/mt32-pi-atari-st-the-magpi-141/">Mt32-pi Atari ST | The MagPi #141</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/mt32-pi-atari-st-the-magpi-141/>
+
+---
+
+## 2024-04-24 Micro-blogs
+
+date: 2024-04-25, from: Alex Schroeder's Blog
+
+<h1 id="2024-04-24-micro-blogs">2024-04-24 Micro-blogs</h1>
+
+<p>Recently, I jokingly replied to <a class="account" href="https://merveilles.town/@jameschip" title="@jameschip@merveilles.town">@jameschip</a> when he said &ldquo;maybe we need a new word for types of blogs that have comments and federation&rdquo; that we should have kept the word micro-blogs. Regular blogs, with a character limit.</p>
+
+<p>Then again, micro-blogs in that sense, from Identi.ca to GNU Social, Twitter, Facebook, Google+ and the Fediverse now have a big plus: Notification actually works. If you mention another account, they get notified. If you get a reply, you get notified. It&rsquo;s glorious.</p>
+
+<p>For regular blogs, notification works with the oldest, universal, federated, communication medium online: email. Conversely, if you don&rsquo;t have email or don&rsquo;t do, you don&rsquo;t get notified and most likely you can&rsquo;t even comment. 😐</p>
+
+<p>I tried web-mentions and they didn&rsquo;t work I wanted them to. Far too few other blogs supported them, and for this blog, I didn&rsquo;t know what to do with them. I didn&rsquo;t want to send myself email so I turned them into comments, but mentions aren&rsquo;t as strong a signal as a comment. Mentions aren&rsquo;t public but comments are. Mentions don&rsquo;t need a strong connection to the main article but comments do. By turning mentions into comments, I had made a mistake and the result was frustrating. So <a href="2023-09-20-web-mentions-vs-referrals">I got rid of them</a>.</p>
+
+<p>And so here we are, it&rsquo;s 2024, and blogs still don&rsquo;t have good (spam-free) comments and notifications where as micro-blogs do. 😢</p>
+
+<p><a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Blogs">#Blogs</a> <a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p>
+
+<p><strong>2024-04-24</strong>. I got an email from <a class="account" href="https://social.sdf.org/@reidrac" title="@reidrac@social.sdf.org">@reidrac</a> with a link to a related blog post, where he wrestles with webmentions:</p>
+
+<blockquote>
+<p>This blog doesn’t have comments, although you can always send me an email if you want to comment anything, and some people have done that. Not often, but if I have received a handful of emails, that’s more comments that my old blog had in its last few years. – <a href="https://www.usebox.net/jjm/blog/connecting-blogs/">Connecting blogs</a></p>
+</blockquote>
+
+<p>James also had this to say:</p>
+
+<blockquote>
+<p>If your blog then has comments, and likes, and people on other platforms can comment, like, and share posts directly, is it really a blog any more? … Should blogs even have comments and notifications?</p>
+</blockquote>
+
+<p>I don&rsquo;t know.</p>
+
+<p>I know that back when the Old School RPG blogosphere was strong, there were often questions that got tackled by multiple people. You&rsquo;d see a post about something interesting and post your own take and link back to the original. More people would jump onto the band-wagon, link to the four or five related blog posts they could find and add their take. It was cool! Those &ldquo;replies&rdquo; weren&rsquo;t just replies, they sometimes built on what had been said before, reformulated it, distilled it. It was great! The replies were also hard to find, unfortunately. People relied on the blogrolls of well-connected bloggers and blog aggregators like the <a href="https://campaignwiki.org/rpg">RPG Planet</a> I&rsquo;m running and similar sites like the RPGA, and forums like EN World, Dragonsfoot, ODD74, and so on.</p>
+
+<p>I think we have to do the work and link to other people&rsquo;s blogs.</p> 
+
+<https://alexschroeder.ch/view/2024-04-24-micro-blog>
+
+---
+
+## How many people died from disasters in 2023?
+
+date: 2024-04-25, from: Hannah Richie at Substack
+
+More than usual, with most lives lost in devastating earthquakes. 
+
+<https://www.sustainabilitybynumbers.com/p/disaster-deaths-2023>
+
+---
+
+## Designing The Cascade
+
+date: 2024-04-25, updated: 2024-04-25, from: Robin Rendle Essays
+
+ 
+
+<https://robinrendle.com/notes/designing-the-cascade/>
+
+---
+
+## Google postpones phasing out third party cookies in Chrome once more
+
+date: 2024-04-24, from: OS News
+
+While Firefox and Safari phased out third party cookies years ago, it&#8217;s taking Chrome a bit longer because, well, daddy Google got ads to sell. As such, Google has been developing a complicated new alternative to third party cookies that it calls &#8220;Privacy sandbox&#8221;, a name in the vain of &#8220;Greenland&#8221;. This process has not exactly been going well, because Google has had to postpone phasing out third party cookies several times now, and today, they had to postpone it again. This time, however, it&#8217;s because the UK competition authority, the CMA, still has some questions. We recognize that there are ongoing challenges related to reconciling divergent feedback from the industry, regulators and developers, and will continue to engage closely with the entire ecosystem. It&#8217;s also critical that the CMA has sufficient time to review all evidence including results from industry tests, which the CMA has asked market participants to provide by the end of June. Given both of these significant considerations, we will not complete third-party cookie deprecation during the second half of Q4. We remain committed to engaging closely with the CMA and ICO and we hope to conclude that process this year. Assuming we can reach an agreement, we envision proceeding with third-party cookie deprecation starting early next year. ↫ Google&#8217;s Greenland blog Making a browser good enough to take over almost the entire browser market was an absolute master stroke by Google. Now can you all please switch over to Firefox or like Lynx or something? 
+
+<https://www.osnews.com/story/139425/google-postpones-phasing-out-third-party-cookies-in-chrome-once-more/>
+
+---
+
+## Sols 4166-4167: A Garden Full of Rocks
+
+date: 2024-04-24, from: NASA breaking news
+
+Earth planning date: Wednesday April 24, 2024 Here on Earth (in Toronto, specifically), it’s a very typical April which can’t quite make up its mind about whether or not it wants to be spring. On Mars (in Gale Crater), we’re well into spring, and Curiosity is enjoying the (relatively) warmer weather. As the days get […] 
+
+<https://science.nasa.gov/missions/mars-science-laboratory/sols-4166-4167-a-garden-full-of-rocks/>
+
+---
+
+##  What does it mean to &#8220;be a serious person&#8221;? I don&#8217;t know... 
+
+date: 2024-04-24, updated: 2024-04-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044457-what-does-it-mean-to>
+
+---
+
+## The Marshall Star for April 24, 2024
+
+date: 2024-04-24, from: NASA breaking news
+
+NASA Announces 30th Human Exploration Rover Challenge Winners NASA announced the winners of the 30th&#160;Human Exploration Rover Challenge&#160;(HERC) April 22, with Parish Episcopal School, from Dallas, winning first place in the high school division, and the University of Alabama in Huntsville,capturing the college/university title. The annual engineering competition – one of NASA’s longest standing challenges [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-april-24-2024/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-04-24, from: Miguel de Icaza Mastondon feed)
+
+<p>Godot on iPad, now debugging side-by-side the game.</p><p>The SwiftUI UI is mostly hidden in this one:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112328005668118023>
+
+---
+
+## Test21
+
+date: 2024-04-24, from: NASA breaking news
+
+Please Disgregard. This is a test. 
+
+<https://science.nasa.gov/uncategorized/test21/>
+
+---
+
+##  Can I Lick It? (Yes, You Can?!) 
+
+date: 2024-04-24, updated: 2024-04-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/can-i-lick-it-yes-you-can>
+
+---
+
+##  &#8220;What would you consider as the most recognizable bitmap fonts in tech... 
+
+date: 2024-04-24, updated: 2024-04-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044475-what-would-you-consider-a>
+
+---
+
+## Snapdragon X Plus will bring ARM to ‘even more’ Windows laptops
+
+date: 2024-04-24, from: OS News
+
+While it’s still yet to debut, Qualcomm’s Snapdragon X Elite is looking like a big deal for ARM-powered Windows machines and, now, it’s getting a more affordable cousin in the Snapdragon X Plus. Announced today, Snapdragon X Plus is based on the same Oryon CPU as Snapdragon X Elite, just with a bit less power. The chip has 10 cores to the Elite’s 12, and is also clocked down from the Elite’s 3.8GHz to 3.4GHz. ↫ Ben Schoon at 9To5Google It really seems like it&#8217;s finally happening &#8211; ARM computers for the general public (that aren&#8217;t from Apple). I really hope that Qualcomm can deliver on its promises, and that Microsoft&#8217;s involvement means these computers will be fairly standardised so it&#8217;s easier for non-Windows platforms to support them. I&#8217;ve seen quite a few rumblings from people invited to Qualcomm&#8217;s press events for these new ARM chips that the company is delivering Linux support alongside Windows support, so that&#8217;s at least a good start. Whenever we talk about ARM coming to the generic PC market, people rightfully point out the lack of standardisation in the ARM space, so that really is the deciding factor here for people like us, who tend to not be all too interested in locked-down platforms. If every one of these machines is different enough that supporting them is a nightmare &#8211; like the world of smartphones &#8211; ARM for PCs will be dead on arrival for me because I have zero interest in buying Windows-only hardware. One thing Microsoft tends to be good at is getting at least some standardisation to stick in the PC market, and I hope they&#8217;re going to that here, too &#8211; Microsoft probably isn&#8217;t relishing supporting each individual ARM machine in Windows &#8216;by hand&#8217; either. Let&#8217;s keep our fingers crossed. 
+
+<https://www.osnews.com/story/139421/snapdragon-x-plus-will-bring-arm-to-even-more-windows-laptops/>
+
+---
+
+##  The novelist R.O. Kwon: The Parents Who Regret Having Children. &#8220;It&#8217;s possible... 
+
+date: 2024-04-24, updated: 2024-04-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044471-the-novelist-ro-kwon-the>
+
+---
+
+## TikTok Ban
+
+date: 2024-04-24, from: Michael Tsai
+
+Demetri Sevastopulo and James Fontanella-Khan (2020, Hacker News, CNBC): TikTok will be removed from US app stores from midnight on Sunday&#160;as Washington implements executive orders from President Donald Trump that also target WeChat, a Chinese social media app.[&#8230;]Oracle and ByteDance have submitted a proposal that would spin out TikTok&#8217;s global business into a new US [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/24/tiktok-ban/>
+
+---
+
+## Extending Section 702 of FISA
+
+date: 2024-04-24, from: Michael Tsai
+
+H.R.7888: Section 701(b)(4) is amended[&#8230;] by inserting after subparagraph (D) the following new subparagraph[&#8230;] any other service provider who has access to equipment that is being or may be used to transmit or store wire or electronic communications[&#8230;] Elizabeth Goitein: Buried in the Section 702 reauthorization bill (RISAA) passed by the House on Friday is [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/24/extending-section-702-of-fisa/>
+
+---
+
+## Tracking Spring Flooding
+
+date: 2024-04-24, from: NASA breaking news
+
+Ural River levels peak in this April 13, 2024, enhanced color image from Landsat 9; here, vegetation appears red, while water is blue-green. After heavy rain and rapid snowmelt, rivers in southern Russia and northern Kazakhstan swelled, flooding homes and displacing thousands of people. Landsat 9, the latest satellite in the Landsat series, contributes a [&#8230;] 
+
+<https://www.nasa.gov/image-article/tracking-spring-flooding/>
+
+---
+
+## US Senate passes TikTok ban bill
+
+date: 2024-04-24, from: OS News
+
+A bill that would force China-based company ByteDance to sell TikTok —&#160;or else face a US ban of the platform — is all but certain to become law after the Senate passed a foreign aid package including the measure. It now heads to President Joe Biden, who already committed to signing the TikTok legislation should it make it through both chambers of Congress. The House passed the foreign aid package that includes the TikTok bill on Saturday. ↫ Lauren Feiner at The Verge I hope the EU follows. 
+
+<https://www.osnews.com/story/139418/us-senate-passes-tiktok-ban-bill/>
+
+---
+
+##  Bizarre Traveling Flame Discovery 
+
+date: 2024-04-24, updated: 2024-04-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/bizarre-traveling-flame-discovery>
+
+---
+
+## more on costs and choices
+
+date: 2024-04-24, from: Ayjay blog
+
+Isaiah Berlin, “The Originality of Machiavelli”: The ideals of Christianity are charity, mercy, sacrifice, love of God, forgiveness of enemies, contempt for the goods of this world, faith in the life hereafter, belief in the salvation of the individual soul as being of incomparable value &#8211; higher than, indeed wholly incommensurable with, any social or [&#8230;] 
+
+<https://blog.ayjay.org/46122-2/>
+
+---
+
+##  A Day in Tokyo: A 1968 Film Captures a City Reborn 23... 
+
+date: 2024-04-24, updated: 2024-04-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044405-a-day-in-tokyo-a>
 
 ---
 
@@ -16,6 +326,158 @@ date: 2024-04-24, updated: 2024-04-24, from: Deno blog
 JSR introduces a new way to share JavaScript and TypeScript code across platforms, focusing on simplifying distribution without replacing existing package managers. 
 
 <https://deno.com/blog/jsr-is-not-another-package-manager>
+
+---
+
+##  Vintage Japanese Train Tickets 
+
+date: 2024-04-24, updated: 2024-04-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/vintage-japanese-train-tickets>
+
+---
+
+## Maldives 2024
+
+date: 2024-04-24, from: Alex Schroeder's Blog
+
+<h1 id="maldives-2024">Maldives 2024</h1>
+
+<p>The biosphere as we know it is ending and I’m spending two weeks in the Maldives with my wife for her 50th birthday. I feel conflicted.</p>
+
+<p>The trip to get here was long. Zurich Doha by plane, Doha Male by plane, Male Kurudu by water-plane, Kurudu Komandoo by speedboat. I felt like sleeping for 20h when we finally got here. And all the <a href="2024-04-05-travel">anxiety before leaving</a> was terrible, too.</p>
+
+<p>With that, I think we have all out must-see locations before the end. We went to the <a href="2017-10-28_Australia">Great Barrier Reef</a> in 2017, to the <a href="Galapagos_2020">Galapagos</a> in 2020 and now to the Maldives.</p>
+
+<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Maldives">#Maldives</a></p>
+
+<p><strong>2024-04-06</strong>.
+The last leg of the journey – our water-plane was delayed because of the bad weather.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-1.jpg" alt="" /></p>
+
+<p>Looking out from the porch the ocean is blue, the sky is blue and the reef begins a few meters in.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-5.jpg" alt="" /></p>
+
+<p>We go snorkeling every day. Our last two trips showed me that we need an underwater camera. Oh to have videos of Reef Number Nine in Australia or the penguins and sea lions in the Galapagos! I bought a GoPro Hero 10 before we left.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-2.jpg" alt="" /></p>
+
+<p>This cowtail stingray (?) we keep seeing is about 2m long and likes to hide in the sand.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-3.jpg" alt="" /></p>
+
+<p>There’s sea grass sprouting right now and sea turtles grazing.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-4.jpg" alt="" /></p>
+
+<p>Black tipped reef sharks… harmless! At a later point we did see it attack something hidden in the rocks and it was scary to see!</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-6.jpg" alt="" /></p>
+
+<p>Most corals look dreary! It’s certainly not as colourful and busy as in Australia or the Galapagos.
+This purple giant is cool, though.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-7.jpg" alt="" /></p>
+
+<p>There are still plenty of colourful fish.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-8.jpg" alt="" /></p>
+
+<p>Whenever we’re away on a trip, we play games.
+The most popular tropical island game is Race for the Galaxy.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-9.jpg" alt="" /></p>
+
+<p>Yesterday we also played <a href="http://mixedsignals.ml/games/petition/">Petition</a> by <a class="account" href="https://mastodon.xyz/@klaatu" title="@klaatu@mastodon.xyz">@klaatu</a>.</p>
+
+<p><strong>2024-04-10</strong>. More pictures.</p>
+
+<p>We saw our first hermit crabs in Costa Rica where we spent our honey moon. We love these little ones. Maybe because they’re slow and easily scared and therefore obviously harmless.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-10.jpg" alt="" /></p>
+
+<p>The parrot fish have super sharp teeth and gnaw on the corals. And when you’re snorkeling, you can hear them. Kchrrr! Kchhhrrk!</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-11.jpg" alt="" /></p>
+
+<p>I also love those lone corals harbouring a small school of tiny fearful fish that retreat and hide in the coral as somebody approaches.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-12.jpg" alt="" /></p>
+
+<p>When you swim past the nearby reef the bottom drops out and the deep blue begins. I am always afraid some huge fish will show up.</p>
+
+<video src="/wiki/2024-04-06-maledives-14.mp4" poster="2024-04-06-maledives-13.jpg" width="1920" height="1080" controls muted>
+<img alt="Image of fishes and the deep blue ocean" src="2024-04-06-maledives-13.jpg"/><br>
+<a alt="Video of the same fishes" href="/wiki/2024-04-06-maledives-14.mp4">14 second video</a>
+</video>
+
+<p>There is a strange tourism industry, here. The islands are either uninhabited, inhabited by locals, or reserved for tourism. Tourists can stay on the “local islands” since 2007. Natives are only allowed to work on the tourist islands.</p>
+
+<p>The capital city is <a href="https://en.wikipedia.org/wiki/List_of_cities_proper_by_population_density">one of the densest urban areas</a> on the planet. Just look at the image of <a href="https://en.wikipedia.org/wiki/Mal%C3%A9">Malé on Wikipedia</a>.</p>
+
+<p>I would lament this urban sprawl, the land reclamation, the garbage problem, the democracy deficit, the dependence on tourism – but I know what my friend Peter would say, pointing at the <a href="https://en.wikipedia.org/wiki/Factfulness">Factfulness</a> book. Check out these stats from the <a href="https://de.m.wikipedia.org/wiki/Malediven">German Wikipedia page on the Maldives</a>:
+In 2020, the Maldives had 541000 inhabitants.
+In 1950, they had about 74000 inhabitants. At the time, a woman had about 7.5 children on average in 1980 but these days they are so much better off that the growth rate has dropped to 1.8% in 2020 and a woman has about 1.8 children on average. Life expectancy rose from 34.5 years in 1950 to 81 for women and 77.8 for men in 2020. An amazing improvement from the point of view of the locals.</p>
+
+<p>From my green perspective, though… let’s not forget the garbage island <a href="https://en.m.wikipedia.org/wiki/Thilafushi">Thilafushi</a>. The picked an island and use it as a garbage dump because they don&rsquo;t know what to do with all the garbage. Sure, every island needs a garbage incinerator now, but in the nineties, there was just garbage and it had to go somewhere. And some of the stuff starts leaking. It accumulates in the the fish. People eat the fish. It&rsquo;s easy to feel grim about this. I need to remind myself that life expectancy was less than 35 years just a generation or two ago (I was born in the seventies). Poverty is much, much worse than pollution and we tend to forget it.</p>
+
+<p>If you’re wondering why I’m basically skimming, reading and finally summarizing Wikipedia articles on my blog, I guess the answer is that this is how I try to deal with it all. To not close my eyes. Not to look away.</p>
+
+<p><strong>2024-04-12</strong>. Bad luck for Claudia. Yesterday, late at night, she stuck her small toe in a gap between two planks, took another step, nearly fell and twisted her foot. There’s a huge dark bruise on its back and a significant dark bruise below. No more fins, for a while. 😭</p>
+
+<p>We had signed up for a snorkel safari when suddenly the buzz was that the young humpback whale they had seen two days ago was still around and so the ship picked up some extra passengers and Claudia came along to do some whale watching.</p>
+
+<p>The whale watching did not disappoint.</p>
+
+<video src="/wiki/2024-04-06-maledives-15.mov" poster="2024-04-06-maledives-15.jpg" width="1920" height="1080" controls muted>
+<img alt="Image of a whale slapping its fin" src="2024-04-06-maledives-15.jpg"/><br>
+<a alt="Video of the whale slapping its fin" href="/wiki/2024-04-06-maledives-15.mov">5 second video</a>
+</video>
+
+<p>This adolescent <a href="https://en.m.wikipedia.org/wiki/Humpback_whale">humpback whale</a> was about 8m long. It’s unusual to find a whales here, now, so close to the reef, so young, without its family. There was speculation that it might be waiting for its family to pick it up again, or that perhaps it was sick.</p>
+
+<video src="/wiki/2024-04-06-maledives-14.mov" poster="2024-04-06-maledives-14.jpg" width="1920" height="1080" controls muted>
+<img alt="Image of a young humpback whale swimming by" src="2024-04-06-maledives-14.jpg"/><br>
+<a alt="Video of the same whale" href="/wiki/2024-04-06-maledives-14.mov">6 second video</a>
+</video>
+
+<p><strong>2024-04-13</strong>. To it is raining. Good for Claudia since she is supposed to rest her foot.</p>
+
+<p><img loading="lazy" src="2024-04-06-maledives-16.jpg" alt="" /></p>
+
+<p><strong>2024-04-21</strong>. After snorkling with the whale, not much seemed to be worth posting about.</p>
+
+<p>Before going on this trip, I bought an older GoPro HERO 10. Now I have a few gigabytes of reef snorkeling footage. I don&rsquo;t know what to do with it. Post it? Unlikely! It takes too much space and nobody would look at it. Donate it to YouTube? Unlikely! Upload it to some Peertube instance and thereby offload the cost? Unlikely.</p>
+
+<p>Regarding the economy of the Maldives and the shock when I learned about the garbage island and my dismay when I saw the skyline of Malé island – when we flew back, I got a closer look at Malé from the air as we landed and while it wasn&rsquo;t an island nature paradise, it was just a city with nice, tall buildings and roads and palm trees and construction sites and glass fronts and cars and motorcycles. In other words, it seemed like a perfectly normal city and it wasn&rsquo;t shabby and it didn&rsquo;t have slums and so I keep coming back to the main issue: Beating poverty is of ultimate importance in order to improve people&rsquo;s lives and giving them options so that they can work on the problems they care about. When we flew over Thilafushi, the garbage island didn&rsquo;t look &ldquo;apocalyptic&rdquo; but just like some industrial zone elsewhere in the world, except it&rsquo;s an island in the middle of the ocean.</p>
+
+<p><strong>2024-04-24</strong>. Ugh. Seems like Claudia broke her foot, after all. 😰</p> 
+
+<https://alexschroeder.ch/view/2024-04-06-maledives>
+
+---
+
+## NASA’s Chandra Releases Doubleheader of Blockbuster Hits
+
+date: 2024-04-24, from: NASA breaking news
+
+New movies of two of the most famous objects in the sky — the Crab Nebula and Cassiopeia A — are being released from NASA’s Chandra X-ray Observatory. Each includes X-ray data collected by Chandra over about two decades. They show dramatic changes in the debris and radiation remaining after the explosion of two massive [&#8230;] 
+
+<https://www.nasa.gov/missions/chandra/nasas-chandra-releases-doubleheader-of-blockbuster-hits/>
+
+---
+
+## Kiyun Kim: From Intern to Accessibility Advocate
+
+date: 2024-04-24, from: NASA breaking news
+
+Kiyun Kim began at Goddard as a summer intern. Impressed by the center’s community bonds, Kim is now co-chair of a center resource group that champions accessibility and inclusivity. Name: Kiyun KimTitle: Software EngineerOrganization: Ground Software Systems Branch (Code 583) What do you do at Goddard Space Flight Center? I&#8217;m a software engineer on the [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/goddard/kiyun-kim-from-intern-to-accessibility-advocate/>
 
 ---
 
@@ -76,10 +538,10 @@ date: 2024-04-24, from: Dave Winer's Scripting News
 <li><b>The FeedLand side</b>. <a href="https://feedland.com/?signonscreen=true">Sign on</a> to FeedLand, create an account if you don't have one, and subscribe to a bunch of feeds. These will be the feeds in your blogroll.  There are some tips on how to find feeds, in the <a href="http://scripting.com/2024/04/24/132025.html#a134443">next section</a>.</li>
 <li><b>The WordPress side</b>. There's a <a href="https://github.com/a8cteam51/feedland-blogroll">new plugin</a>, developed by the people at the Team51 group at Automattic. They have a <a href="https://github.com/a8cteam51/feedland-blogroll/blob/trunk/README.md">checklist</a> for how to install the plugin in a WordPress site. </li>
 </ul>
-<p>If you have questions or comments, or need help getting it working, post a note in the <a href="">discussion group</a> here. </p>
 <p>You can get ideas for feeds for your blogroll from reading other people's feed lists. When you see a checkbox that isn't checked, you can subscribe to the feed simply by checking the box. </p>
 <p>Have a look at <a href="https://feedland.com/?username=davewiner">my feed list</a> for ideas. Here's a list of <a href="https://feedland.com/?userslist">recent users</a>, click on their names to see their feed lists. You don't have to finish this now, you can come back and tune this up anytime.</p>
 <p>Developers: Use <a href="https://github.com/scripting/feedlandBlogrollToolkit">feedlandBlogrollToolkit</a> to add blogrolls to other platforms. </p>
+<p>If you have questions or comments, or need help getting it working, post a note in the <a href="https://github.com/a8cteam51/feedland-blogroll/discussions/15">discussion group</a> here. </p>
  
 
 <http://scripting.com/2024/04/24/132025.html?title=feedlandAndWordpress>
@@ -184,28 +646,6 @@ The Dutch, I gather, don&#8217;t have a specific word for &#8216;pothole&#8217; 
 
 ---
 
-## 2024-04-24 Micro-blogs
-
-date: 2024-04-24, from: Alex Schroeder's Blog
-
-<h1 id="2024-04-24-micro-blogs">2024-04-24 Micro-blogs</h1>
-
-<p>Recently, I jokingly replied to <a class="account" href="https://merveilles.town/@jameschip" title="@jameschip@merveilles.town">@jameschip</a> when he said &ldquo;maybe we need a new word for types of blogs that have comments and federation&rdquo; that we should have kept the word micro-blogs. Regular blogs, with a character limit.</p>
-
-<p>Then again, micro-blogs in that sense, from Identi.ca to GNU Social, Twitter, Facebook, Google+ and the Fediverse now have a big plus: Notification actually works. If you mention another account, they get notified. If you get a reply, you get notified. It&rsquo;s glorious.</p>
-
-<p>For regular blogs, notification works with the oldest, universal, federated, communication medium online: email. Conversely, if you don&rsquo;t have email or don&rsquo;t do, you don&rsquo;t get notified and most likely you can&rsquo;t even comment. 😐</p>
-
-<p>I tried web-mentions and they didn&rsquo;t work I wanted them to. Far too few other blogs supported them, and for this blog, I didn&rsquo;t know what to do with them. I didn&rsquo;t want to send myself email so I turned them into comments, but mentions aren&rsquo;t as strong a signal as a comment. Mentions aren&rsquo;t public but comments are. Mentions don&rsquo;t need a strong connection to the main article but comments do. By turning mentions into comments, I had made a mistake and the result was frustrating. So <a href="2023-09-20-web-mentions-vs-referrals">I got rid of them</a>.</p>
-
-<p>And so here we are, it&rsquo;s 2024, and blogs still don&rsquo;t have good (spam-free) comments and notifications where as micro-blogs do. 😢</p>
-
-<p><a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Blogs">#Blogs</a> <a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p> 
-
-<https://alexschroeder.ch/view/2024-04-24-micro-blog>
-
----
-
 ## The opposite of pudding?
 
 date: 2024-04-24, from: Status-Q blog
@@ -258,7 +698,7 @@ date: 2024-04-24, from: Manu - I write blog
 <blockquote>
 <p>Raghavan is a hall-of-fame rot economist, and one of the many managerial types that have caused immeasurable damage to the Internet in the name of growth and “shareholder value." And I believe these uber-managers - these ultra-pencil-pushers and growth-hounds - are the forces destroying tech's ability to innovate.</p>
 </blockquote>
-<p>If you're interested in the subject and want to get some insights into how the pursuit of growth can be bad give it a read.</p>                <hr>
+<p>If you're interested in the subject and want to get some insights into how the pursuit of growth can be bad, give it a read.</p>                <hr>
                 <h2>Get in touch</h2>                <p>Have something to share? Want me as your <a href="https://manuelmoreale.com/i-ll-read-it">first reader</a>? Get in touch. My inbox is always open.</p>                <a href="mailto:hello@manuelmoreale.com">Connect</a> — 
                 <a href="https://manuelmoreale.com/guestbook">Guestbook</a>
                 <hr>
@@ -347,6 +787,16 @@ other platforms and languages are left as an exercise to the reader).</p>
 
 ---
 
+## A Happy Ending For Some Manual Labor (And a Call for Support)
+
+date: 2024-04-24, from: Internet Archive Blog
+
+A great saga of rescue and preservation is coming towards its end, and there&#8217;s a chance to bask in the victory, and help push towards its conclusion. I got word [&#8230;] 
+
+<https://blog.archive.org/2024/04/24/a-happy-ending-for-some-manual-labor-and-a-call-for-support/>
+
+---
+
 ## rational choices
 
 date: 2024-04-24, from: Ayjay blog
@@ -383,6 +833,66 @@ date: 2024-04-24, from: PostgreSQL News
 <p><em>PGDay UK 2024 is a <a href="https://www.postgresql.eu/">PostgreSQL Europe</a> event run according to the <a href="https://www.postgresql.org/about/policies/conferences/">PostgreSQL Community Conference Recognition programme</a>. Local logistics and other services are provided by Slonik Enterprises Ltd. on a not-for-profit basis.</em></p> 
 
 <https://www.postgresql.org/about/news/pgday-uk-2024-september-11th-london-england-2847/>
+
+---
+
+## Common views and questions about metadata across Africa
+
+date: 2024-04-24, from: Crossref Blog
+
+<p>This past year has been a captivating journey of immersion within the Crossref community, a mix of online interactions and meaningful in-person experiences. From the engaging Sustainability Research and Innovation Conference in Port Elizabeth, South Africa, to the impactful webinars conducted globally, this has been more than just a professional endeavour; it has been a personal exploration of collaboration, insights, and a shared commitment to pushing the boundaries of scholarly communication.</p>
+<h2 id="working-collaboratively-with-research-funders-and-research-organisations">Working collaboratively with research funders and research organisations</h2>
+<div style="float:right;margin:10px">
+<figure class="img-responsive"><img src="https://www.crossref.org/images/blog/2024/cocreation-activity-SRI.JPG"
+alt="Cocreation activity in smaller groups at the SRI conference." width="400px"/><figcaption>
+<p>Cocreation activity in smaller groups at the SRI conference.</p>
+</figcaption>
+</figure>
+</div>
+<p>The adventure began with a significant in-person event, the Sustainability Research and Innovation Conference. In the coastal city of Port Elizabeth, South Africa, I had the honour of hosting a parallel co-creation session titled &ldquo;Connecting Science to Society: A Network Approach to Improving Science Communication in the Global South.&rdquo; The co-creation session addressed research discoverability and accessibility among early-career researchers. Apart from some immediate feedback from the researchers in the room about how they might use co-creation beyond the conference to improve their research experience and outcome, I also had conversations with research funders from the Belmont Forum, Future Earth, and National Research Foundation - South Africa and the National Research Foundation - Mozambique about connecting their grants and grantees with their published outputs referencing Crossref’s <a href="https://www.crossref.org/services/funder-registry/" target="_blank">Open Funder Registry</a> and <a href="https://www.crossref.org/community/grants/" target="_blank">research grants registration</a>. A different side conversation was about a community organisation in Botswana that is interested in registering patents with Crossref for proper referencing and protecting the intellectual property of their research on the indigenous communities’ innovations and the associated published work. These conversations are ongoing, unveiling a new understanding of unique needs and opportunities to pursue with research funders and research organisations working on indigenous knowledge and innovations.</p>
+<h2 id="learning-from-organisations-in-gem-eligible-countries">Learning from organisations in GEM-eligible countries</h2>
+<p>The journey extended globally through a series of webinars conducted in Bangladesh, Tanzania, Nepal, and Ghana. Collaborating with dedicated Ambassadors and my colleagues leading the <a href="https://www.crossref.org/gem/" target="_blank">Global Equitable Membership (GEM) program</a>, we witnessed an increase in Crossref membership from the GEM countries and initial metadata registration. The GEM Program offers relief from both Crossref membership and Crossref content registration fees for organisations in the least economically advantaged countries in the world, based on the World Bank&rsquo;s IDA list. Susan, in her blog post, &ldquo;<a href="https://www.crossref.org/blog/the-gem-program-year-one/" target="_blank">The GEM Program: Year One</a>&rdquo;, elaborated on the significance of these efforts and their impact on fostering equitable access to scholarly resources and communication through the expansion of Crossref&rsquo;s membership base in underrepresented regions, such as Bangladesh, Tanzania, Nepal, and Ghana. Specific concerns encountered while presenting the GEM program included feedback expressing reservations about the program&rsquo;s approach, particularly in deciding on eligible countries, and advocating eligibility for the program to be extended to all the non-GEM countries in Africa. Additionally, a conversation with some organisations brought up concerns regarding the program&rsquo;s sustainability, with inquiries about whether GEM was merely a free trial or freemium service, and seeking assurances against future fees. The audience found these sessions helpful, acknowledging that joining fees were no longer going to be a barrier, yet questions about the program&rsquo;s longevity brought out the need for sustained support.</p>
+<h2 id="discussing-how-the-research-nexus-can-support-the-community">Discussing how The Research Nexus can support the community</h2>
+<p>My journey then led me to Makerere University in Uganda for the Consortium of Uganda University Libraries (CUUL 2023) conference and the Forum for Open Research in MENA (FORM 2023) in Abu Dhabi. In Uganda, I noticed the synergy between university libraries, institutional repositories, and the research and education network service provider formed a consortium that played a crucial role in bridging the digital gap and supporting the adoption of open infrastructure. The event was mainly attended by librarians from different universities in Uganda. Most of those I connected with needed more information about Crossref and had questions about how Crossref DOIs are different from ARKs, which they commonly use in their publishing workflows. At FORM 2023, in my presentation titled, &ldquo;The Research Nexus: A Rich and Reusable Open Network of Relationships in the Scholarly Record,&rdquo; I shared Crossref&rsquo;s vision for a connected research ecosystem with the audience that comprised of researchers, research administrators, and funders, and a good number of big publishers like IEEE and Taylor &amp; Francis. The <a href="https://www.crossref.org/blog/the-gem-program-year-one/" target="_blank">Research Nexus</a> seeks to reveal relationships beyond persistent identifiers, utilising rich metadata to connect various scholarly components. I also took the opportunity at both events to share about <a href="https://theplace.discourse.group/" target="_blank">The Publishers Learning And Community Exchange (PLACE)</a>, an online forum promoting best practices in scholarly publishing. The goal was to show attendees how they can actively contribute to and benefit from this vision, fostering a robust and interconnected research community through Crossref&rsquo;s open infrastructure.</p>
+<div style="text-align:center;margin:10px">
+<figure><img src="https://www.crossref.org/images/blog/2024/Dr-SAlwan-and-Obanda.jpg"
+alt="Photo with Dr. Salwan Abdulateef, Crossref Ambassador - Iraq" width="50%"/><figcaption>
+<p>Photo with Dr. Salwan Abdulateef, rossref Ambassador - Iraq</p>
+</figcaption>
+</figure>
+</div>
+<p>I enjoyed the opportunity to join the National Open Science Dialogue by TCC Africa, which provided crucial insights, emphasising the need for assessing awareness, implementing comprehensive policies, and fostering collaboration around Open Science. Higher education institutions were recognized as influencers in the global Open Science movement, while a call for an inclusive research environment was underscored through open access and data sharing. The dialogue emphasized a collective effort involving policymakers, educators, researchers, and institutions, focusing on inclusivity and collaboration to advance Open Science in East Africa.</p>
+<h2 id="exploring-how-rich-metadata-can-provide-trust-signals-with-members-in-kenya">Exploring how rich metadata can provide trust signals with members in Kenya</h2>
+<p>Reflecting on the Crossref Nairobi event that happened in February 2024, it was an enriching experience exploring key issues shaping scholarly publishing in Kenya. The discussions also touched on the role of metadata as a trust signal and a tool for the persistence of the scholarly record, particularly in regions where data protection challenges persist. This is exemplified by concerns raised during the event about the fear of data theft, misuse, or loss, especially in places with comparatively weaker data protection laws. The presence of robust metadata, particularly with detailed provenance information, becomes crucial in such contexts, as it enables better identification and handling of potential misuse. Thus, through effective metadata implementation and the persistence facilitated by identifiers, the management of data risks can be significantly improved.</p>
+<p>The insights from existing Crossref members pointed out contextual challenges, regional differences, and the importance of effective post-publication processes. The conference served as a valuable platform for dialogue, emphasising the collective commitment to continuous improvement of scholarly communication in the country, and the need for continuous awareness and training on making the most of Crossref services. The roundtable discussions during the Crossmark service consultation brought to light various reflections and considerations regarding post-publication changes in publishing workflows. The Crossmark service was a new discovery for most participants, with potential value recognized in facilitating current updates on articles. However, there are existing barriers such as a lack of awareness and technical expertise, suggesting the need for further education to facilitate adoption. Overall, the consultation provided a platform for introspection and exploration of avenues for improving post-publication practices in scholarly publishing.</p>
+<div style="text-align:center;margin:10px">
+<figure class="img-responsive"><img src="https://www.crossref.org/images/blog/2024/Crossref-Nairobi-Group-Photo.jpg"
+alt="Crossref Nairobi group photo" width="75%"/><figcaption>
+<p>Crossref Nairobi group photo</p>
+</figcaption>
+</figure>
+</div>
+<p>We organised the Crossref Nairobi event with the help of colleagues from the outreach team and local Ambassadors, Mercury Shitindo of Kenya, Baraka Ngussa of Tanzania and our Board Members in Kenya, Oscar Donde. It was the first time I saw both my colleagues and Ambassadors in action and working closely together - making presentations and accommodating last-minute facilitation changes to the program. Compared to attending or speaking at an event, organising one was a unique experience requiring a lot of planning in advance for logistics and the event program, identifying and keeping in touch with important stakeholders, ushering guests and being on standby for any matters that come up about the event. All of that went very well thanks to the team on the ground and cooperative participants.</p>
+<h2 id="exploring-the-role-of-open-infrastructure-for-african-universities">Exploring the role of open infrastructure for African universities</h2>
+<p>Attending the recent WACREN 2024 conference was an eye-opening experience, unfolding the role of open infrastructure in addressing challenges faced by African universities. A focus on open access systems and advocacy for decolonizing knowledge were voiced too, including challenges of affordability of DOIs and questions of local ownership amidst global initiatives. Global persistent identifier providers, including ORCID and DataCite too, had a presence at the conference, alongside passionate advocates for more locally managed, decentralised infrastructure. These are concerns that Crossref needs to understand better, as we seek to find effective ways of supporting equitable participation in the Research Nexus. The conference resonated with a call for continued work in fostering accessibility, sharing, and leveraging resources to accelerate research and innovation in Africa.</p>
+<div style="text-align:center;margin:10px">
+<figure><img src="https://www.crossref.org/images/blog/2024/WACREN-Ambassadors2.jpeg"
+alt="Photo with our Ambassadors from West Africa at WACREN 2024 event: Blessing Abumere - Nigeria, Audrey Kenni Nganmeni - Cameroon, Richard Lamptey - Ghana and Oumy Ndiaye - Senegal." width="75%"/><figcaption>
+<p>Photo with our Ambassadors from West Africa at WACREN 2024 event: Blessing Abumere - Nigeria, Audrey Kenni Nganmeni - Cameroon, Richard Lamptey - Ghana and Oumy Ndiaye - Senegal.</p>
+</figcaption>
+</figure>
+</div>
+<p>Conversations with Crossref Ambassadors brought about a shared narrative across universities in some African countries. These institutions are actively embracing digital shifts, setting up institutional repositories using platforms like DSpace and OJS. However, challenges persist, particularly in funding and technical capacity. It&rsquo;s heartening to see how national and regional research and education networks step in to help in internet connectivity, opening up collaboration opportunities with other interoperable infrastructure, setting up repositories, providing hosting services and event managing content identifiers.</p>
+<p>Deceptive publishing practices remain a shared concern, and we’ve had requests at these meetings for stricter inclusion criteria for membership of Crossref to ensure quality and trustworthiness of articles accessible through Crossref metadata.</p>
+<p>We’ve explained to those we’ve met that Crossref doesn’t (and can’t) assess the quality of content or the integrity of the research process. We don’t have the people or the skills, and it isn’t our mission to be the gatekeepers of research quality. A DOI record is just an indication that something was published, it isn’t an indication of quality.</p>
+<p>However, we do still have a vital role in preserving the integrity of the scholarly record. We provide the infrastructure which enables those who produce scholarly outputs to provide metadata (effectively evidence) about how they ensure the quality of content and how the outputs fit into the scholarly record. The scholarly record - that network of published outputs, inputs, relationships and contexts - is captured through the metadata records that our members register with us, and that we then distribute freely and openly through our API. The richer and more comprehensive Crossref records are, the more context there is for our members and for the whole scholarly research ecosystem to make their own decisions around trustworthiness. Blocking access to the infrastructure creates gaps in the scholarly record, but also potentially blocks legitimate newcomers.</p>
+<p>“Crossref is focused on enriching metadata to provide more and better trust signals while keeping barriers to membership and participation as low as possible to enable an inclusive scholarly record.”
+Read more about <a href="https://www.crossref.org/blog/isr-part-one-what-is-our-role-in-preserving-the-integrity-of-the-scholarly-record/" target="_blank">Crossref’s role in preserving the integrity of the Scholarly record</a> in the blog post by Amanda Bartell.</p>
+<p>While the landscape of digital scholarly publication witnesses significant strides, a crucial need persists, the importance of preserving and interconnecting metadata to the global scholarly record. It&rsquo;s not just about discoverability, a theme resonating strongly within the community, but about enabling reproducibility, upholding research and editorial integrity, and facilitating reporting and assessment.</p>
+<h2 id="the-path-forward">The path forward</h2>
+<p>As I reflect on this year of immersing myself within the Crossref community, building awareness in new communities, and learning more about the different perceptions across the region, it feels like a personal progression of growth and discovery. From the captivating in-person moments to the global webinars and collaborative efforts to address challenges in scholarly communication, this journey is not just a professional pursuit; it&rsquo;s a personal exploration. The path forward involves continued support, intensified awareness-building, and sustained dialogue, ensuring that the scholarly ecosystem continues to thrive, evolve, and leave a lasting impact.</p> 
+
+<https://www.crossref.org/blog/common-views-and-questions-about-metadata-across-africa/>
 
 ---
 
@@ -804,6 +1314,16 @@ There is something about surprising interfaces: clapping to switch on lights is 
 
 ---
 
+## Rising Tide Rents and Robber Baron Rents
+
+date: 2024-04-23, from: O'Reilly Rador
+
+Why is it that Google, a company once known for its distinctive “Do no evil” guideline, is now facing the same charges of “surveillance capitalism” as Facebook, a company that never made such claims? Why is it now subject to the same kind of antitrust complaints once faced by Microsoft, the “evil empire” of the [&#8230;] 
+
+<https://www.oreilly.com/radar/rising-tide-rents-and-robber-baron-rents/>
+
+---
+
 ## A-BiRD uses Raspberry Pi to identify different species singing at the same time
 
 date: 2024-04-23, from: Raspberry Pi News (.com)
@@ -1124,6 +1644,16 @@ date: 2024-04-22, updated: 2024-04-22, from: Jason Kottke blog
  
 
 <https://kottke.org/24/04/0044449-this-looks-promising-an-r>
+
+---
+
+## Advent of Computing: Episode 129 - ALGOL, Part I
+
+date: 2024-04-22, from: Tilde.news
+
+<p><a href="https://tilde.news/s/8v1vh8/advent_computing_episode_129_algol_part_i">Comments</a></p> 
+
+<https://adventofcomputing.libsyn.com/episode-129-algol-part-i>
 
 ---
 
@@ -1455,126 +1985,6 @@ date: 2024-04-21, updated: 2024-04-21, from: Uninformative blog
  
 
 <https://www.uninformativ.de/blog/postings/2024-04-21/0/POSTING-en.html>
-
----
-
-## Maldives 2024
-
-date: 2024-04-21, from: Alex Schroeder's Blog
-
-<h1 id="maldives-2024">Maldives 2024</h1>
-
-<p>The biosphere as we know it is ending and I’m spending two weeks in the Maldives with my wife for her 50th birthday. I feel conflicted.</p>
-
-<p>The trip to get here was long. Zurich Doha by plane, Doha Male by plane, Male Kurudu by water-plane, Kurudu Komandoo by speedboat. I felt like sleeping for 20h when we finally got here. And all the <a href="2024-04-05-travel">anxiety before leaving</a> was terrible, too.</p>
-
-<p>With that, I think we have all out must-see locations before the end. We went to the <a href="2017-10-28_Australia">Great Barrier Reef</a> in 2017, to the <a href="Galapagos_2020">Galapagos</a> in 2020 and now to the Maldives.</p>
-
-<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Maldives">#Maldives</a></p>
-
-<p><strong>2024-04-06</strong>.
-The last leg of the journey – our water-plane was delayed because of the bad weather.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-1.jpg" alt="" /></p>
-
-<p>Looking out from the porch the ocean is blue, the sky is blue and the reef begins a few meters in.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-5.jpg" alt="" /></p>
-
-<p>We go snorkeling every day. Our last two trips showed me that we need an underwater camera. Oh to have videos of Reef Number Nine in Australia or the penguins and sea lions in the Galapagos! I bought a GoPro Hero 10 before we left.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-2.jpg" alt="" /></p>
-
-<p>This cowtail stingray (?) we keep seeing is about 2m long and likes to hide in the sand.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-3.jpg" alt="" /></p>
-
-<p>There’s sea grass sprouting right now and sea turtles grazing.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-4.jpg" alt="" /></p>
-
-<p>Black tipped reef sharks… harmless! At a later point we did see it attack something hidden in the rocks and it was scary to see!</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-6.jpg" alt="" /></p>
-
-<p>Most corals look dreary! It’s certainly not as colourful and busy as in Australia or the Galapagos.
-This purple giant is cool, though.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-7.jpg" alt="" /></p>
-
-<p>There are still plenty of colourful fish.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-8.jpg" alt="" /></p>
-
-<p>Whenever we’re away on a trip, we play games.
-The most popular tropical island game is Race for the Galaxy.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-9.jpg" alt="" /></p>
-
-<p>Yesterday we also played <a href="http://mixedsignals.ml/games/petition/">Petition</a> by <a class="account" href="https://mastodon.xyz/@klaatu" title="@klaatu@mastodon.xyz">@klaatu</a>.</p>
-
-<p><strong>2024-04-10</strong>. More pictures.</p>
-
-<p>We saw our first hermit crabs in Costa Rica where we spent our honey moon. We love these little ones. Maybe because they’re slow and easily scared and therefore obviously harmless.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-10.jpg" alt="" /></p>
-
-<p>The parrot fish have super sharp teeth and gnaw on the corals. And when you’re snorkeling, you can hear them. Kchrrr! Kchhhrrk!</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-11.jpg" alt="" /></p>
-
-<p>I also love those lone corals harbouring a small school of tiny fearful fish that retreat and hide in the coral as somebody approaches.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-12.jpg" alt="" /></p>
-
-<p>When you swim past the nearby reef the bottom drops out and the deep blue begins. I am always afraid some huge fish will show up.</p>
-
-<video src="/wiki/2024-04-06-maledives-14.mp4" poster="2024-04-06-maledives-13.jpg" width="1920" height="1080" controls muted>
-<img alt="Image of fishes and the deep blue ocean" src="2024-04-06-maledives-13.jpg"/><br>
-<a alt="Video of the same fishes" href="/wiki/2024-04-06-maledives-14.mp4">14 second video</a>
-</video>
-
-<p>There is a strange tourism industry, here. The islands are either uninhabited, inhabited by locals, or reserved for tourism. Tourists can stay on the “local islands” since 2007. Natives are only allowed to work on the tourist islands.</p>
-
-<p>The capital city is <a href="https://en.wikipedia.org/wiki/List_of_cities_proper_by_population_density">one of the densest urban areas</a> on the planet. Just look at the image of <a href="https://en.wikipedia.org/wiki/Mal%C3%A9">Malé on Wikipedia</a>.</p>
-
-<p>I would lament this urban sprawl, the land reclamation, the garbage problem, the democracy deficit, the dependence on tourism – but I know what my friend Peter would say, pointing at the <a href="https://en.wikipedia.org/wiki/Factfulness">Factfulness</a> book. Check out these stats from the <a href="https://de.m.wikipedia.org/wiki/Malediven">German Wikipedia page on the Maldives</a>:
-In 2020, the Maldives had 541000 inhabitants.
-In 1950, they had about 74000 inhabitants. At the time, a woman had about 7.5 children on average in 1980 but these days they are so much better off that the growth rate has dropped to 1.8% in 2020 and a woman has about 1.8 children on average. Life expectancy rose from 34.5 years in 1950 to 81 for women and 77.8 for men in 2020. An amazing improvement from the point of view of the locals.</p>
-
-<p>From my green perspective, though… let’s not forget the garbage island <a href="https://en.m.wikipedia.org/wiki/Thilafushi">Thilafushi</a>. The picked an island and use it as a garbage dump because they don&rsquo;t know what to do with all the garbage. Sure, every island needs a garbage incinerator now, but in the nineties, there was just garbage and it had to go somewhere. And some of the stuff starts leaking. It accumulates in the the fish. People eat the fish. It&rsquo;s easy to feel grim about this. I need to remind myself that life expectancy was less than 35 years just a generation or two ago (I was born in the seventies). Poverty is much, much worse than pollution and we tend to forget it.</p>
-
-<p>If you’re wondering why I’m basically skimming, reading and finally summarizing Wikipedia articles on my blog, I guess the answer is that this is how I try to deal with it all. To not close my eyes. Not to look away.</p>
-
-<p><strong>2024-04-12</strong>. Bad luck for Claudia. Yesterday, late at night, she stuck her small toe in a gap between two planks, took another step, nearly fell and twisted her foot. There’s a huge dark bruise on its back and a significant dark bruise below. No more fins, for a while. 😭</p>
-
-<p>We had signed up for a snorkel safari when suddenly the buzz was that the young humpback whale they had seen two days ago was still around and so the ship picked up some extra passengers and Claudia came along to do some whale watching.</p>
-
-<p>The whale watching did not disappoint.</p>
-
-<video src="/wiki/2024-04-06-maledives-15.mov" poster="2024-04-06-maledives-15.jpg" width="1920" height="1080" controls muted>
-<img alt="Image of a whale slapping its fin" src="2024-04-06-maledives-15.jpg"/><br>
-<a alt="Video of the whale slapping its fin" href="/wiki/2024-04-06-maledives-15.mov">5 second video</a>
-</video>
-
-<p>This adolescent <a href="https://en.m.wikipedia.org/wiki/Humpback_whale">humpback whale</a> was about 8m long. It’s unusual to find a whales here, now, so close to the reef, so young, without its family. There was speculation that it might be waiting for its family to pick it up again, or that perhaps it was sick.</p>
-
-<video src="/wiki/2024-04-06-maledives-14.mov" poster="2024-04-06-maledives-14.jpg" width="1920" height="1080" controls muted>
-<img alt="Image of a young humpback whale swimming by" src="2024-04-06-maledives-14.jpg"/><br>
-<a alt="Video of the same whale" href="/wiki/2024-04-06-maledives-14.mov">6 second video</a>
-</video>
-
-<p><strong>2024-04-13</strong>. To it is raining. Good for Claudia since she is supposed to rest her foot.</p>
-
-<p><img loading="lazy" src="2024-04-06-maledives-16.jpg" alt="" /></p>
-
-<p><strong>2024-04-21</strong>. After snorkling with the whale, not much seemed to be worth posting about.</p>
-
-<p>Before going on this trip, I bought an older GoPro HERO 10. Now I have a few gigabytes of reef snorkeling footage. I don&rsquo;t know what to do with it. Post it? Unlikely! It takes too much space and nobody would look at it. Donate it to YouTube? Unlikely! Upload it to some Peertube instance and thereby offload the cost? Unlikely.</p>
-
-<p>Regarding the economy of the Maldives and the shock when I learned about the garbage island and my dismay when I saw the skyline of Malé island – when we flew back, I got a closer look at Malé from the air as we landed and while it wasn&rsquo;t an island nature paradise, it was just a city with nice, tall buildings and roads and palm trees and construction sites and glass fronts and cars and motorcycles. In other words, it seemed like a perfectly normal city and it wasn&rsquo;t shabby and it didn&rsquo;t have slums and so I keep coming back to the main issue: Beating poverty is of ultimate importance in order to improve people&rsquo;s lives and giving them options so that they can work on the problems they care about. When we flew over Thilafushi, the garbage island didn&rsquo;t look &ldquo;apocalyptic&rdquo; but just like some industrial zone elsewhere in the world, except it&rsquo;s an island in the middle of the ocean.</p> 
-
-<https://alexschroeder.ch/view/2024-04-06-maledives>
 
 ---
 

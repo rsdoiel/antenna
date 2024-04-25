@@ -1,11 +1,111 @@
 ---
 title: games 2024.17
-updated: 2024-04-24 07:36:07
+updated: 2024-04-25 06:01:51
 ---
 
 # games 2024.17
 
-(date: 2024-04-24 07:36:07)
+(date: 2024-04-25 06:01:51)
+
+---
+
+## When does Manor Lords release?
+
+date: 2024-04-25, updated: 2024-04-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/manor-lords-guides/24139558/manor-lords-release-time-steam-gog-game-pass>
+
+---
+
+## The 25 best games on Game Pass
+
+date: 2024-04-24, updated: 2024-04-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox>
+
+---
+
+## Honkai: Star Rail codes for April 2024
+
+date: 2024-04-24, updated: 2024-04-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade>
+
+---
+
+## How to complete the Yo-kai Watch event in FFXIV
+
+date: 2024-04-24, updated: 2024-04-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24139170/yo-kai-watch-fate-locations-minions-weapons-mount-rewards-coins>
+
+---
+
+## X-Men ’97’s big villain reveal gives mutants their second-greatest enemy
+
+date: 2024-04-24, updated: 2024-04-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24139132/x-men-97-bastion-ozt-operation-zero-tolerance>
+
+---
+
+## Dawnrunner is a mecha-kaiju comic about the ‘Bandai-ification’ of the military-industrial complex
+
+date: 2024-04-24, updated: 2024-04-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24138337/dawnrunner-interview-ram-v-evan-cagle-dark-horse-comics>
+
+---
+
+## Are video game addiction lawsuits having a moment?
+
+date: 2024-04-24, updated: 2024-04-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24138572/video-game-addiction-lawsuits-2023-2024>
+
+---
+
+## Fallout is ‘probably the best-performing Commander set ever,’ says Hasbro CEO
+
+date: 2024-04-24, updated: 2024-04-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24139124/mtg-fallout-best-selling-commander-set-ever>
+
+---
+
+## ‘TikTok ban’ gets signed into law — here’s what happens next
+
+date: 2024-04-24, updated: 2024-04-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24139127/tiktok-ban-law-biden-timeline>
+
+---
+
+## Shōgun is a great war epic that never actually shows us any war
+
+date: 2024-04-24, updated: 2024-04-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24138469/shogun-finale-review-war-toranaga-explained-episode>
 
 ---
 

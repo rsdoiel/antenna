@@ -1,11 +1,455 @@
 ---
 title: socal north 2024.17
-updated: 2024-04-24 07:36:06
+updated: 2024-04-25 06:01:50
 ---
 
 # socal north 2024.17
 
-(date: 2024-04-24 07:36:06)
+(date: 2024-04-25 06:01:50)
+
+---
+
+## What School Issues Might Sway Voters In LAUSD Board Election This Fall?
+
+date: 2024-04-25, updated: 2024-04-25, from: The LAist
+
+Incumbent Los Angeles Unified School Board member Tanya Ortiz Franklin will retain her seat representing District 7 and three other school board races are headed to runoffs. 
+
+<https://laist.com/news/education/lausd-2024-los-angeles-unified-primary-election-results-fall-runoffs>
+
+---
+
+## Daily Trojan Staff Diversity Report shows decreased representation
+
+date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The report had an 84.6% response rate — a 27.6% increase from Fall 2023.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/25/daily-trojan-staff-diversity-report-shows-decreased-representation/">Daily Trojan Staff Diversity Report shows decreased representation</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/25/daily-trojan-staff-diversity-report-shows-decreased-representation/>
+
+---
+
+## Faculty support student protest for Palestine
+
+date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Professors and lecturers marched in solidarity and gave speeches.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/25/209744/">Faculty support student protest for Palestine</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/25/209744/>
+
+---
+
+## Pro-Palestinian protesters occupy Alumni Park
+
+date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>More than 35 protesters were arrested for trespassing. One was arrested for assault with a deadly weapon.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/25/pro-palestinian-protesters-occupy-alumni-park/">Pro-Palestinian protesters occupy Alumni Park</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/25/pro-palestinian-protesters-occupy-alumni-park/>
+
+---
+
+## Encampment protest ripples across campus communities
+
+date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students faced difficulties finding campus exits and moved their activities.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/25/encampment-protest-ripples-across-campus-communities/">Encampment protest ripples across campus communities</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/25/encampment-protest-ripples-across-campus-communities/>
+
+---
+
+## Classifieds – April 25, 2024
+
+date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/25/classifieds-april-25-2024/">Classifieds &#8211; April 25, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/25/classifieds-april-25-2024/>
+
+---
+
+## An open letter to my brother who refuses to vote
+
+date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/04/25/an-open-letter-to-my-brother-who-refuses-to-vote/">An open letter to my brother who refuses to vote</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/25/an-open-letter-to-my-brother-who-refuses-to-vote/>
+
+---
+
+## Find your network of people
+
+date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>In a world of stress and uncertainty, hold onto the people that add love, support and inspiration to your life.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/25/find-your-network-of-people/">Find your network of people</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/25/find-your-network-of-people/>
+
+---
+
+## Reggie Bush is Heisman winner again
+
+date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The former electric USC star running back got his trophy “reinstated” Wednesday.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/25/reggie-bush-is-heisman-winner-again/">Reggie Bush is Heisman winner again</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/25/reggie-bush-is-heisman-winner-again/>
+
+---
+
+## The Figueroa Street Ferrari
+
+date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>When Kayleigh Heckel joins women’s basketball, USC will be off and running.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/25/the-figueroa-street-ferrari/">The Figueroa Street Ferrari</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/25/the-figueroa-street-ferrari/>
+
+---
+
+## Ring in summer with this year’s blockbusters
+
+date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>As finals approach, here are the best movies to celebrate once they’re all over.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/25/ring-in-summer-with-this-years-blockbusters/">Ring in summer with this year’s blockbusters</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/25/ring-in-summer-with-this-years-blockbusters/>
+
+---
+
+## ‘Soliloquy’ thrills as casting call commentary
+
+date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojan Filmmakers Club’s film, the result of student work, debuts soon.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/25/soliloquy-thrills-as-casting-call-commentary/">‘Soliloquy’ thrills as casting call commentary</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/25/soliloquy-thrills-as-casting-call-commentary/>
+
+---
+
+## Last Bruin Flea of school year hosts variety of vendors, raises money for unhoused
+
+date: 2024-04-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+Broxton Avenue came to life Friday as the Bruin Flea hosted its last event of the school year. 
+The monthly flea, held from 3 to 8:30 p.m on the third Friday of each month, featured vendors and activities including henna art, jewelry and clothes. 
+
+<https://dailybruin.com/2024/04/24/last-bruin-flea-of-school-year-hosts-variety-of-vendors-raises-money-for-unhoused/>
+
+---
+
+## UCLA baseball records 25th loss of season in defeat to UC Irvine
+
+date: 2024-04-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+Third basemen Roch Cholowsky sent a home run &#8212; his second of the game &#8212; deep into the night sky.
+The freshman&#8217;s first  long ball of the night tied the game in the fourth &#8211; and the next gave the Bruins a two-run lead in the bottom of the eighth. 
+
+<https://dailybruin.com/2024/04/24/ucla-baseball-records-25th-loss-of-season-in-defeat-to-uc-irvine/>
+
+---
+
+## Graduate Student Association election results announced
+
+date: 2024-04-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Graduate Student Association (GSA) election results were announced Wednesday.
+Six candidates ran for four positions: president, vice president of internal affairs, vice president of external affairs and vice president of academic affairs. 
+
+<https://dailybruin.com/2024/04/24/graduate-student-association-election-results-announced/>
+
+---
+
+## USIE program allows fourth-year to facilitate class about summer camp benefits
+
+date: 2024-04-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+The final slide of Idella Smolyar&#8217;s classes isn&#8217;t homework or review questions but a childhood photo of her at summer camp.
+Education 88SB: &#8220;Educational and Psychological Impacts of Summer Camps on Children and Adolescents&#8221; is a one-unit seminar exploring the behavioral, social and academic impacts of summer camps on children. 
+
+<https://dailybruin.com/2024/04/24/usie-program-allows-fourth-year-to-facilitate-class-about-summer-camp-benefits/>
+
+---
+
+## Commemorating the Armenian Genocide
+
+date: 2024-04-25, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Clad in black, the dark-haired woman approached the stage, and her voice resonated throughout the Multicultural Center as she performed two songs, “Andouni” and “Kanche</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/24/commemorating-the-armenian-genocide/">Commemorating the Armenian Genocide</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/24/commemorating-the-armenian-genocide/?utm_source=rss&utm_medium=rss&utm_campaign=commemorating-the-armenian-genocide>
+
+---
+
+## Breaking stigmas: Go with the Flow holds DIY pad workshop
+
+date: 2024-04-24, from: The Sundail (CSUN Student Newspaper)
+
+CSUN program Go with the Flow held a DIY pad workshop on April 10 from 2-5 p.m., where students learned how to make reusable menstrual pads. Go with the Flow... 
+
+<https://sundial.csun.edu/181096/news/breaking-stigmas-go-with-the-flow-holds-diy-pad-workshop/>
+
+---
+
+## UCLA softball beats Long Beach as Sharlize Palacios hits 11th home run of season
+
+date: 2024-04-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+A fresh bat was the answer the Bruins needed.
+With the game tied at two in the sixth inning, redshirt senior catcher Sharlize Palacios stepped up to the batter&#8217;s box as a pinch hitter. 
+
+<https://dailybruin.com/2024/04/24/ucla-softball-beats-long-beach-as-sharlize-palacios-hits-11th-home-run-of-season/>
+
+---
+
+## Cantando: Mental Health Songs
+
+date: 2024-04-24, from: The Sundail (CSUN Student Newspaper)
+
+The 80s and early aughts saw a rise in music emphasizing themes about mental health and perseverance. Following cultural shifts and the influence of pop culture, artists expressed their personal... 
+
+<https://sundial.csun.edu/180976/print-editions/print-stories/cantando-mental-health-songs/>
+
+---
+
+## Jay Toia returns to UCLA football after brief portal entrance, shores up line
+
+date: 2024-04-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sometimes there is little warmth in welcome-back sentiments.
+At least, not on a cool and cloudy Tuesday morning.
+Making his practice return after a one-week absence, UCLA football defensive lineman Jay Toia dug his hand into the turf and squatted down at the line of scrimmage, getting set for a third play of 11-on-11 drills. 
+
+<https://dailybruin.com/2024/04/24/jay-toia-returns-to-ucla-football-after-brief-portal-entrance-shores-up-line/>
+
+---
+
+## Exploring identities and sharing stories
+
+date: 2024-04-24, from: The Round Up (Pierce College Student Newspaper)
+
+<p>XXX. The task was daunting, emotionally draining and complicated—economically quantifying how slavery and its aftermath hindered the prosperity of African Americans. When Pierce College Economics</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/24/exploring-identities-and-sharing-stories/">Exploring identities and sharing stories</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/24/exploring-identities-and-sharing-stories/?utm_source=rss&utm_medium=rss&utm_campaign=exploring-identities-and-sharing-stories>
+
+---
+
+## Brahma Blotter: April 15-21, 2024
+
+date: 2024-04-24, from: The Round Up (Pierce College Student Newspaper)
+
+<p>No crimes were reported between April 15-21, 2024. The crime log is made publicly available at the Pierce College Sheriff’s Office. No se reportaron crímenes</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/24/brahma-blotter-april-15-21-2024/">Brahma Blotter: April 15-21, 2024</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/24/brahma-blotter-april-15-21-2024/?utm_source=rss&utm_medium=rss&utm_campaign=brahma-blotter-april-15-21-2024>
+
+---
+
+## News Briefs – April 24, 2024
+
+date: 2024-04-24, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Finalists for Pierce College President selected: Four finalists for the position of president have been selected by the Search Committee for Los Angeles Pierce College</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/24/news-briefs-april-24-2024/">News Briefs – April 24, 2024</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/24/news-briefs-april-24-2024/?utm_source=rss&utm_medium=rss&utm_campaign=news-briefs-april-24-2024>
+
+---
+
+## New professor, big ideas
+
+date: 2024-04-24, from: The Round Up (Pierce College Student Newspaper)
+
+<p>An accomplished powwow dancer and singer who grew up on the Pine Ridge Indian Reservation in South Dakota. An esteemed professor who attended Harvard University</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/24/new-professor-big-ideas/">New professor, big ideas</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/24/new-professor-big-ideas/?utm_source=rss&utm_medium=rss&utm_campaign=new-professor-big-ideas>
+
+---
+
+## U.S. bilingual education standards already do enough
+
+date: 2024-04-24, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Spanish, Cantonese, Mandarin, Tagalog, Vietnamese and French are some of the most spoken languages in the United States, and it shows Americans are not shying</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/24/u-s-bilingual-education-standards-already-do-enough/">U.S. bilingual education standards already do enough</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/24/u-s-bilingual-education-standards-already-do-enough/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-bilingual-education-standards-already-do-enough>
+
+---
+
+## Elevating bilingual and foreign language standards in U.S. education
+
+date: 2024-04-24, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Exploring a different language may be difficult in the beginning, and our education system in schools around the United States can always use new ways</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/24/elevating-bilingual-and-foreign-language-standards-in-u-s-education/">Elevating bilingual and foreign language standards in U.S. education</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/24/elevating-bilingual-and-foreign-language-standards-in-u-s-education/?utm_source=rss&utm_medium=rss&utm_campaign=elevating-bilingual-and-foreign-language-standards-in-u-s-education>
+
+---
+
+## We need to kick bots and take names
+
+date: 2024-04-24, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Before the COVID-19 lockdowns, the first week of the semester was a time of reviewing syllabi, getting an introduction to the course and getting acclimated</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/24/we-need-to-kick-bots-and-take-names/">We need to kick bots and take names</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/24/we-need-to-kick-bots-and-take-names/?utm_source=rss&utm_medium=rss&utm_campaign=we-need-to-kick-bots-and-take-names>
+
+---
+
+## UCLA men’s tennis heads to Ojai for Pac-12 championship quarterfinals
+
+date: 2024-04-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+Tennis hinges on quick movements and rapid reflexes.
+And for coach Billy Martin, this week&#8217;s Pac-12 championship is the ultimate physical test.
+“It’s going to be a real physical contest – it&#8217;ll be the first time we&#8217;ll potentially play three matches in a row,” Martin said. 
+
+<https://dailybruin.com/2024/04/24/ucla-mens-tennis-heads-to-ojai-for-pac-12-championship-quarterfinals/>
+
+---
+
+## UCLA women’s water polo 2024 MPSF tournament predictions
+
+date: 2024-04-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+No. 1 seed UCLA women&#8217;s water polo (21-0, 6-0 MPSF) is heading to Bloomington, Indiana, for the MPSF tournament this weekend. The Bruins earned a bye on Friday and will face the winner of  No. 
+
+<https://dailybruin.com/2024/04/24/ucla-womens-water-polo-2024-mpsf-tournament-predictions/>
+
+---
+
+## Investor expectations shift as consumer prices surge unexpectedly
+
+date: 2024-04-24, from: The Sundail (CSUN Student Newspaper)
+
+U.S. consumer prices rose last month by a bigger-than-expected amount in a surprise development that jolted expectations of the economy and could induce investors to further adjust predictions for interest... 
+
+<https://sundial.csun.edu/181032/opinions/investor-expectations-shift-as-consumer-prices-surge-unexpectedly/>
+
+---
+
+## Passionately Accessible: UCS’ commitment to helping students
+
+date: 2024-04-24, from: The Sundail (CSUN Student Newspaper)
+
+Colleges were shutting down across the country amid COVID-19’s rapid spread in 2020, and California State University, Northridge students needed support in a manner yet explored on campus. Amid the... 
+
+<https://sundial.csun.edu/180968/print-editions/print-stories/passionately-accessible-ucs-commitment-to-helping-students/>
+
+---
+
+## Warmer Days Ahead
+
+date: 2024-04-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/04/24/warmer-days-ahead/>
+
+---
+
+## South Dakota State forward William Kyle III marks 5th transfer addition for UCLA
+
+date: 2024-04-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+Coach Mick Cronin recruited out of Power Five schools for his first four transfer commitments of the offseason.&#160;
+For his fifth, he turned his sights to a mid-major program – and added a top defender in the process.&#160;
+Former South Dakota State forward William Kyle III announced his commitment to UCLA men’s basketball on X, formerly known as Twitter, on Wednesday morning. 
+
+<https://dailybruin.com/2024/04/24/south-dakota-state-forward-william-kyle-iii-marks-5th-transfer-addition-for-ucla/>
+
+---
+
+## A romantic comedy, 400 years in the making
+
+date: 2024-04-24, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Featuring dramatic sword flourishes, intricate Elizabethan-style costumes, lively drum beats and comedic allusions to several classic plays, “Shakespeare in Love” isn’t subtle—and it’s not supposed</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/24/a-romantic-comedy-400-years-in-the-making/">A romantic comedy, 400 years in the making</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/24/a-romantic-comedy-400-years-in-the-making/?utm_source=rss&utm_medium=rss&utm_campaign=a-romantic-comedy-400-years-in-the-making>
+
+---
+
+## A scientific search of the skies
+
+date: 2024-04-24, from: The Round Up (Pierce College Student Newspaper)
+
+<p>A group of students and visitors sat in reclining chairs and stared in awe of the world as we know it—and this was only the</p>
+<p>The post <a href="https://theroundupnews.com/2024/04/24/a-scientific-search-of-the-skies/">A scientific search of the skies</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/04/24/a-scientific-search-of-the-skies/?utm_source=rss&utm_medium=rss&utm_campaign=a-scientific-search-of-the-skies>
+
+---
+
+## The Bruin Bachelor(ette): Episode 1
+
+date: 2024-04-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+Welcome to the Bruin Bachelor(ette), a dating show hosted by Podcasts contributors Fonda Hu, Alexa Miramontes and Zoe Vilchez. We wanted to investigate the dating scene at UCLA, and what better way to do that than to host our own dating show? 
+
+<https://dailybruin.com/2024/04/24/the-bruin-bachelorette-episode-1/>
+
+---
+
+## Bruin to Bruin: Brent Knapp
+
+date: 2024-04-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA alumnus and founder of Common Space Brewery, Brent Knapp, discusses his career and time at UCLA with Podcasts contributor Aidan Teeger.
+
+Aidan Teeger: Today, we&#8217;re sitting down with Brent Knapp, the founder of LA&#8217;s very own Common Space Brewing Company. 
+
+<https://dailybruin.com/2024/04/24/bruin-to-bruin-brent-knapp/>
+
+---
+
+## Editorial Cartoon: “Good Morning UCLA”
+
+date: 2024-04-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<https://dailybruin.com/2024/04/24/editorial-cartoon-good-morning-ucla/>
 
 ---
 

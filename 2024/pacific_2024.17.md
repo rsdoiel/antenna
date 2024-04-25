@@ -1,11 +1,569 @@
 ---
 title: pacific 2024.17
-updated: 2024-04-24 07:36:07
+updated: 2024-04-25 06:01:50
 ---
 
 # pacific 2024.17
 
-(date: 2024-04-24 07:36:07)
+(date: 2024-04-25 06:01:50)
+
+---
+
+## HPP lot owner cross-examined in house snafu case
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>Attorneys for a developer and construction company that in 2022 built a house on the wrong lot in Hawaiian Paradise Park on Wednesday cross-examined the lot&#8217;s owner, who they&#8217;re suing for unjust enrichment.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/hawaii-news/hpp-lot-owner-cross-examined-in-house-snafu-case/>
+
+---
+
+## NATO puts on a show of force in the shadow of Russia’s war
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>JEDRZYCHOWICE, Poland &#8212; About 90,000 NATO troops have been training in Europe this spring for the Great Power war that most hope will never come: a clash between Russia and the West with potentially catastrophic consequences.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/nation-world-news/nato-puts-on-a-show-of-force-in-the-shadow-of-russias-war/>
+
+---
+
+## Hawaiian Electric lifts request for power conservation
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>Hawaiian Electric on Wednesday lifted its call for energy conservation on Hawaii Island, and customers can resume their normal use of electricity.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/hawaii-news/hawaiian-electric-lifts-request-for-power-conservation/>
+
+---
+
+## Supreme Court appears sharply divided in emergency abortion case
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court appeared sharply divided Wednesday over whether federal law should allow doctors to perform emergency abortions in states with near-total bans on the procedure, in a case that could determine access to abortion in emergency rooms across the country.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/nation-world-news/supreme-court-appears-sharply-divided-in-emergency-abortion-case/>
+
+---
+
+## ‘A good day for world peace’: Biden signs aid bill for Ukraine and Israel
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden signed a $95.3 billion package of aid to Ukraine, Israel and Taiwan on Wednesday, reaffirming U.S. support for Ukraine in the fight against Russia&#8217;s military assault after months of congressional gridlock put the centerpiece of the White House&#8217;s foreign policy in jeopardy.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/nation-world-news/a-good-day-for-world-peace-biden-signs-aid-bill-for-ukraine-and-israel/>
+
+---
+
+## Kolekole park reopens: ‘Places like this are the heart and soul of the community’
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>A Hamakua beach park finally reopened Wednesday after seven years of closure and renovations.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/hawaii-news/kolekole-park-reopens-places-like-this-are-the-heart-and-soul-of-the-community/>
+
+---
+
+## Toughman season off to hot start
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>It was a successful start to another season of youth kickboxing as Toughman Hawaii Next Generation held its first show of the year last Saturday in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/sports/toughman-season-off-to-hot-start/>
+
+---
+
+## Gilgeous-Alexander’s 33 points lead Thunder past Pelicans 124-92; OKC takes 2-0 lead
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>OKLAHOMA CITY &#8212; Shai Gilgeous-Alexander scored 33 points and the Oklahoma City Thunder beat the New Orleans Pelicans 124-92 on Wednesday night to take a 2-0 lead in their first-round Western Conference playoff series. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/sports/gilgeous-alexanders-33-points-lead-thunder-past-pelicans-124-92-okc-takes-2-0-lead/>
+
+---
+
+## Your Views for April 25
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>Regarding Waikoloa&#0010;roundabout idea</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/opinion/your-views-for-april-25-11/>
+
+---
+
+## Aid votes show Congress can still work
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>On Saturday, the capitals of four democracies were strengthened when the U.S. House finally passed long-stalled foreign-aid bills. The three overseas capitals &#8212; Kyiv, Jerusalem and Taipei &#8212; were boosted by the $95 billion invested in security for Ukraine, Israel and Taiwan.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/opinion/aid-votes-show-congress-can-still-work/>
+
+---
+
+## High seeds sweep BIIF softball semifinals
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>No upsets were had.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/sports/high-seeds-sweep-biif-softball-semifinals/>
+
+---
+
+## David Pecker’s bombshell testimony at hush money trial detailed media manipulation that helped Trump win
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Publishing honcho David Pecker&#8217;s testimony this week at Donald Trump&#8217;s Manhattan trial opened a rare window on an unholy alliance that helped propel Trump into the Oval Office and spawned a vortex of unflattering stories smearing his political opponents and manipulating news cycles to divert the attention of the American electorate.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/nation-world-news/david-peckers-bombshell-testimony-at-hush-money-trial-detailed-media-manipulation-that-helped-trump-win/>
+
+---
+
+## Shohei Ohtani has 3 doubles, Landon Knack get 1st victory as Dodgers rout Nationals 11-2
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Shohei Ohtani had three doubles to improve his major league-leading batting average to .371, rookie Landon Knack got his first victory and the Los Angeles Dodgers routed the Washington Nationals 11-2 on Wednesday night. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/sports/shohei-ohtani-has-3-doubles-landon-knack-get-1st-victory-as-dodgers-rout-nationals-11-2/>
+
+---
+
+## Cubs OF Cody Bellinger sidelined by two fractured ribs on his right side
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO &#8212; Cody Bellinger has two fractured ribs on his right side, sidelining another key player for the Chicago Cubs.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/sports/cubs-of-cody-bellinger-sidelined-by-two-fractured-ribs-on-his-right-side/>
+
+---
+
+## The Supreme Court cannot allow homelessness to be a crime
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>If you are homeless and have nowhere to go &#8212; neither a temporary shelter bed nor a permanent home &#8212; can you be fined or, worse, jailed for sleeping on a sidewalk? Or is that cruel and unusual punishment?</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/opinion/the-supreme-court-cannot-allow-homelessness-to-be-a-crime/>
+
+---
+
+## Motherʻs Day concert at the Volcano Art Center
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>Volcano Art Center is pleased to present the Volcano Chamber Players, who will perform a classical music concert to celebrate Mother&#8217;s Day at 4 p.m. on Sunday, May 12, at VAC&#8217;s Dietrich Varez Hall in Volcano Village.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/community/mother%ca%bbs-day-concert-at-the-volcano-art-center/>
+
+---
+
+## Zappa tribute show Saturday at Palace
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>Hilo might be the only place on Earth a Frank Zappa tribute concert would be considered a return to normalcy.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/entertainment/zappa-tribute-show-saturday-at-palace/>
+
+---
+
+## Sun, fun, surf: Nearly 150 keiki attend event at Kohanaiki
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>Kohanaiki, also known as Pine Trees, was bustling Saturday with families attending the 26th annual Surf for the Earth and Beach Clean Up.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/community/sun-fun-surf-nearly-150-keiki-attend-event-at-kohanaiki/>
+
+---
+
+## Herro scores 24, Heat hit franchise playoff-record 23 3s to beat Boston and even series 1-1
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; The Miami Heat beat Boston with an unprecedented barrage of 3-pointers on Wednesday night to erase the home-court advantage the Celtics worked all season to establish. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/sports/herro-scores-24-heat-hit-franchise-playoff-record-23-3s-to-beat-boston-and-even-series-1-1/>
+
+---
+
+## ‘Thunder run’: Behind lawmakers’ secretive push to pass the TikTok bill
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>Just over a year ago, lawmakers displayed a rare show of bipartisanship when they grilled Shou Chew, TikTok&#8217;s CEO, about the video app&#8217;s ties to China. Their harsh questioning suggested that Washington was gearing up to force the company to sever ties with its Chinese owner &#8212; or even ban the app.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/nation-world-news/thunder-run-behind-lawmakers-secretive-push-to-pass-the-tiktok-bill/>
+
+---
+
+## DII boys volleyball playoffs kick off today
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>The 2024 Central Pacific Bank/Big Island Interscholastic Association Division II boys volleyball playoffs begin today, as four teams &#8212; all of which happen to be from the isle&#8217;s north side &#8212; will clash in the first round tonight in Waimea.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/sports/dii-boys-volleyball-playoffs-kick-off-today/>
+
+---
+
+## Obituaries for April 25
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>Darrell Lee Lehmann, 72, of Kailua-Kona died April 21 at Kona Community Hospital. Born in Idaho, he was a metal fabrication business owner, farmer and president of Wehilani Estates. Private services. Survived by his wife, Kathleen Lehmann of Kailua-Kona; daughter, Amanda Nemitz of Kailua-Kona; sisters, Dolly Goolsby of Sacramento, Calif., and Kay Lehmann of Idaho; brother, Lee Lehmann of Washington; a grandson; nieces, nephews and cousins. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/obituaries/obituaries-for-april-25-10/>
+
+---
+
+## College protesters make divestment from Israel a rallying cry
+
+date: 2024-04-25, from: Hawaii Tribune Harold
+
+
+				<p>As they gathered near the guarded gates of Columbia University in upper Manhattan on Tuesday, a hundred or so protesters began to chant: &#8220;Disclose, divest, we will not stop, we will not rest.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/25/nation-world-news/college-protesters-make-divestment-from-israel-a-rallying-cry/>
+
+---
+
+## Community called to action to combat weekend hunger in kids
+
+date: 2024-04-25, from: Guam Daily Post
+
+BeHeartfelt, a nonprofit organization, has helped hundreds of middle school and elementary school students combat weekend hunger by sending them home from school with a two-day supply of food every Friday, according to the organization. To achieve the ultimate goal… 
+
+<https://www.postguam.com/news/local/community-called-to-action-to-combat-weekend-hunger-in-kids/article_564489fc-02a0-11ef-8e47-5f703b3dcd49.html>
+
+---
+
+## OAG disqualified from prosecuting GRTA corruption case
+
+date: 2024-04-25, from: Guam Daily Post
+
+The Office of the Attorney General has been disqualified from prosecuting five Guam Regional Transit Authority officials accused of corruption. 
+
+<https://www.postguam.com/news/local/oag-disqualified-from-prosecuting-grta-corruption-case/article_0b50b5e6-02d3-11ef-b93a-7b1b4eef8a9a.html>
+
+---
+
+## Officials hopeful pay increase will attract nurses to hospital
+
+date: 2024-04-25, from: Guam Daily Post
+
+Local officials said they are hopeful that the nurse salary increase that began April 1 will make nurses want to work at Guam Memorial Hospital. 
+
+<https://www.postguam.com/news/local/officials-hopeful-pay-increase-will-attract-nurses-to-hospital/article_e255c2f8-02aa-11ef-93b4-c348dae231a4.html>
+
+---
+
+## 2 more officially file for delegate race, 3 total so far
+
+date: 2024-04-25, from: Guam Daily Post
+
+Three individuals are now officially in the running to become Guam's next delegate to Congress. Incumbent Guam Del. James Moylan, a Republican, officially filed his candidacy on Wednesday, as did Ginger Cruz, who filed under the Democratic side of the… 
+
+<https://www.postguam.com/news/local/2-more-officially-file-for-delegate-race-3-total-so-far/article_acd91ecc-02b4-11ef-b528-eb1f1c728460.html>
+
+---
+
+## DEA: Meth suspect posted photo of drug package information on Facebook
+
+date: 2024-04-25, from: Guam Daily Post
+
+A man suspected of drug trafficking posted a photo to his Facebook story showing tracking information of a package later found to contain methamphetamine. 
+
+<https://www.postguam.com/news/local/dea-meth-suspect-posted-photo-of-drug-package-information-on-facebook/article_2b9e7a34-0294-11ef-98ca-9371dcc71a19.html>
+
+---
+
+## Cost.U.Less to open location at Agana Shopping Center
+
+date: 2024-04-25, from: Guam Daily Post
+
+Cost.U.Less, a beloved retail staple in Guam for over three decades, has broken ground on its newest store, which will be located in the Agana Shopping Center, the company announced in a press release. The new 50,000-square-foot concept store will… 
+
+<https://www.postguam.com/news/local/cost-u-less-to-open-location-at-agana-shopping-center/article_fe5fd362-01dd-11ef-84b7-63f9fd578e05.html>
+
+---
+
+## Guam flooded with job opportunities at UOG job fair with over 70 participating employers
+
+date: 2024-04-25, from: Pacific Island Times
+
+By Pacific Island Times News Staff Guam's job market continues to soar with hundreds of employment opportunities offered by more than 70... 
+
+<https://www.pacificislandtimes.com/post/guam-flooded-with-job-opportunities-at-uog-job-fair-with-over-70-participating-employers>
+
+---
+
+## Load shedding on Guam eases as GPA adds 20MW power capacity to grid 
+
+date: 2024-04-25, from: Pacific Island Times
+
+Mawar damaged Yigo combustion turbine and Talofofo diesel unit back online By Pacific Island Times News Staff Two power units... 
+
+<https://www.pacificislandtimes.com/post/load-shedding-on-guam-eases-as-gpa-adds-20mw-power-capacity-to-grid>
+
+---
+
+## Senator proposes supplemental funds for Guam Election Commission
+
+date: 2024-04-25, from: Pacific Island Times
+
+By Pacific Island Times News Staff As candidates for this year's elections get ready to hit the campaign trail, Sen. Joe San Agustin... 
+
+<https://www.pacificislandtimes.com/post/senator-proposes-supplemental-funds-for-guam-election-commission>
+
+---
+
+## Judge Camacho finds Nick Reyes not guilty of misconduct and forgery
+
+date: 2024-04-25, updated: 2024-04-25, from: Marianas Variety
+
+More details to follow. 
+
+<https://www.mvariety.com/news/local/judge-camacho-finds-nick-reyes-not-guilty-of-misconduct-and-forgery/article_ee657a38-02ce-11ef-9bde-8ff6fe187352.html>
+
+---
+
+## Taxis criticized for rate hike
+
+date: 2024-04-25, from: Marshal Islands Journal
+
+<p>WILMER JOEL The Majuro Taxi Drivers Association was accused last week by EPPSO director Fred deBrum of violating the Retail Price Monitoring Act of 1992 by increasing taxi fares over the 25 percent price baseline. “What the taxi drivers did, they instantly went up to 30 some percent,” said deBrum. “They told me the reason [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/taxis-criticized-for-rate-hike/">Taxis criticized for rate hike</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/taxis-criticized-for-rate-hike/>
+
+---
+
+## Teacher Appreciation
+
+date: 2024-04-25, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>In this episode of HIKI NŌ on PBS Hawai‘i, student storytellers honor Teacher’s Appreciation week...</p>
+<p>The post <a href="https://www.pbshawaii.org/teacher-appreciation/">Teacher Appreciation</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/teacher-appreciation/>
+
+---
+
+## PaCE-SD Postgraduate students initiative on proper waste disposal
+
+date: 2024-04-25, from: University of the South Pacific (Fiji)
+
+<p>Their message was simple: to maintain the commitment to having a clean environment, not only...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/pace-sd-postgraduate-students-initiative-on-proper-waste-disposal/">PaCE-SD Postgraduate students initiative on proper waste disposal</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/pace-sd-postgraduate-students-initiative-on-proper-waste-disposal/>
+
+---
+
+## Using Oreos to study moon phases, grad student creates dynamic STEM lessons
+
+date: 2024-04-25, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Krieger recently won a $1,000 Kalo Grant for Edukits <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/24/dynamic-stem-lessons-candide-krieger/">Using Oreos to study moon phases, grad student creates dynamic <abbr>STEM</abbr> lessons</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/24/dynamic-stem-lessons-candide-krieger/>
+
+---
+
+## Hilda checks out hospital
+
+date: 2024-04-24, from: Marshal Islands Journal
+
+<p>HILARY HOSIA President Hilda Heine led a high-level visit to the Ministry of Heath and Human Services last Friday. The visit included a tour of the facility with the hospital leadership team followed by a program at the Wellness Center to recognize female outer islands health workers and recent graduates from Fiji National University. President [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/hilda-checks-out-hospital/">Hilda checks out hospital</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/hilda-checks-out-hospital/>
+
+---
+
+## Trio of UH athletes named 2024 Bonham Award winners
+
+date: 2024-04-24, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The Jack Bonham Award is considered the most prestigious award in <abbr>UH</abbr> athletics.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/24/jack-bonham-award-winners-2024/">Trio of <abbr>UH</abbr> athletes named 2024 Bonham Award winners</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/24/jack-bonham-award-winners-2024/>
+
+---
+
+## UH News Image of the Week: Medea/Antigone Now
+
+date: 2024-04-24, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> This week's image is from Windward <abbr>CC</abbr>'s Nicole Tessier.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/24/uh-news-image-of-the-week-medea/">UH News Image of the Week: Medea/Antigone Now</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/24/uh-news-image-of-the-week-medea/>
+
+---
+
+## UH spring 2024 commencement schedule
+
+date: 2024-04-24, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Graduates will be celebrated throughout the University of <span aria-label="Hawaii">Hawai&#699;i</span> 10-campus system this spring 2024.</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/24/spring-2024-commencement-schedule/"><abbr>UH</abbr> spring 2024 commencement schedule</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/24/spring-2024-commencement-schedule/>
+
+---
+
+## DFEMS assistant chief accepted to national leadership program
+
+date: 2024-04-24, updated: 2024-04-25, from: Marianas Variety
+
+DEPARTMENT of Fire &amp; Emergency Services Assistant Chief Cody T. Norita has been accepted to the National Fire Academy's Executive Fire Officer Program. The academy is an entity of the Federal Emergency Management Agency, which is part of the U.S. Department of Homeland Security. 
+
+<https://www.mvariety.com/news/local/dfems-assistant-chief-accepted-to-national-leadership-program/article_0f615a5e-01df-11ef-9978-db9a537b6ba8.html>
+
+---
+
+## Green flag on Managaha
+
+date: 2024-04-24, updated: 2024-04-25, from: Marianas Variety
+
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Managaha’s recreational beaches and dock as part of the regularly scheduled sampling.  None of the samples collected this week contained excessive concentrations of fecal indicator bacteria nor did they exceed CNMI marine water quality standards. Therefore, BECQ assigns all of the sampled beach sites a green flag. Enjoy our waters! 
+
+<https://www.mvariety.com/news/local/green-flag-on-managaha/article_3574ad88-024b-11ef-b15d-271dc296725b.html>
+
+---
+
+## Luka Doncic helps Mavericks even series vs. Clippers
+
+date: 2024-04-24, updated: 2024-04-25, from: Marianas Variety
+
+(Reuters) — Luka Doncic had 32 points and nine assists and Kyrie Irving added 23 points as the Dallas Mavericks got the best of the Los Angeles Clippers 96-93 in Game 2 on Tuesday to even their first-round playoff series. 
+
+<https://www.mvariety.com/sports/nationalsports/luka-doncic-helps-mavericks-even-series-vs-clippers/article_edfd98a4-024d-11ef-96c8-6bbb11045264.html>
+
+---
+
+## Marianas Milk
+
+date: 2024-04-24, updated: 2024-04-25, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/views/columnists/marianas-milk/article_1ef40174-0252-11ef-a364-cfabc45ce077.html>
+
+---
+
+## NMC nursing students represent CNMI at non-communicable disease workshop
+
+date: 2024-04-24, updated: 2024-04-25, from: Marianas Variety
+
+(NMC) — Northern Marianas College nursing students Ninfa Rabago and Joanne Samson recently had the opportunity to represent the CNMI in the Pacific Non-Communicable Disease Youth Ambassadors Regional Workshop held in New Caledonia. 
+
+<https://www.mvariety.com/news/community_bulletins/nmc-nursing-students-represent-cnmi-at-non-communicable-disease-workshop/article_e2024be6-0255-11ef-ba72-478c45cde546.html>
+
+---
+
+## 670 Rollers defeat Madflex, 70-67
+
+date: 2024-04-24, updated: 2024-04-25, from: Marianas Variety
+
+IN a thrilling game between titans, the 670 Rollers reigned supreme  against Madflex, 70-67, to earn their third win in the Pokka Cup 2024 basketball league at the Gilbert C. Ada gym on Sunday. 
+
+<https://www.mvariety.com/sports/localsports/670-rollers-defeat-madflex-70-67/article_6cdcc690-024e-11ef-a417-03a5b5f8a316.html>
+
+---
+
+## John Lennon's lost 1960s acoustic guitar to go up for auction
+
+date: 2024-04-24, updated: 2024-04-25, from: Marianas Variety
+
+LONDON (Reuters) — A previously lost 12-string acoustic guitar that belonged to the late John Lennon will go up for sale at an auction in May after it was recently found in the attic of a home in Britain. 
+
+<https://www.mvariety.com/lifestyle/john-lennons-lost-1960s-acoustic-guitar-to-go-up-for-auction/article_4369b994-0253-11ef-93f0-fb9635f13563.html>
+
+---
+
+## Tania Tan sets new NMI and personal record in 10,000m
+
+date: 2024-04-24, updated: 2024-04-25, from: Marianas Variety
+
+TANIA Tan set a new NMI and personal record or PR in the 10,000m distance by clocking 36:48:49 in the Bryan Clay Invitational 2024 at the Azusa Pacific University in California over the weekend. 
+
+<https://www.mvariety.com/sports/localsports/tania-tan-sets-new-nmi-and-personal-record-in-10-000m/article_bb3f8888-0251-11ef-a6f0-a31555457639.html>
+
+---
+
+## Photographer alleges he was forced to watch Megan Thee Stallion have sex and was unfairly fired
+
+date: 2024-04-24, updated: 2024-04-25, from: Marianas Variety
+
+LOS ANGELES (AP) — A photographer who worked for Megan Thee Stallion said in a lawsuit filed Tuesday that he was forced to watch her have sex, was unfairly fired soon after and was abused as her employee. 
+
+<https://www.mvariety.com/lifestyle/photographer-alleges-he-was-forced-to-watch-megan-thee-stallion-have-sex-and-was-unfairly/article_7179901c-0252-11ef-8401-13c1fda206f7.html>
 
 ---
 
@@ -173,7 +731,7 @@ date: 2024-04-24, from: Hawaii Tribune Harold
 
 ---
 
-## Obituaries for April 23
+## Obituaries for April 24
 
 date: 2024-04-24, from: Hawaii Tribune Harold
 
@@ -449,6 +1007,18 @@ date: 2024-04-24, from: Hawaii Tribune Harold
 
 ---
 
+## DOH: Recent cases of whooping cough indicate community spread on Hawaii Island
+
+date: 2024-04-24, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health has confirmed one additional case of whooping cough (pertussis) in a third distinct region of Hawaii Island which is unrelated to previous cases.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/04/24/hawaii-news/doh-recent-cases-of-whooping-cough-indicate-community-spread-on-hawaii-island/>
+
+---
+
 ## Finest On-line casino A real income Internet sites In the Philippines 2024
 
 date: 2024-04-24, from: MicroSem News
@@ -476,6 +1046,86 @@ date: 2024-04-24, from: MicroSem News
 Blogs Uk No-deposit Gambling enterprises April Spend 10 Score 50 Free Revolves To the Starburst 5 Deposit Cellular Gambling enterprises Instead of Gamstop Any kind of Differences when considering Gambling enterprise Web sites And you may Slots Websites Maybe not To the Gamstop? Yet, it might be essential to say that credit cards is https://top-casino-promo-codes.com/hopa-casino-promo-codes/ &#8230; <p class="link-more"><a href="https://micsem.org/1-deposit-local-casino-united-kingdom-the-best-1-lb-put-gambling-enterprises/" class="more-link">Continue reading<span class="screen-reader-text"> "1 Deposit Local casino United kingdom, The best 1 Lb Put Gambling enterprises"</span></a></p> 
 
 <https://micsem.org/1-deposit-local-casino-united-kingdom-the-best-1-lb-put-gambling-enterprises/>
+
+---
+
+## ‘Todu i Tiempo i Pås Para Hita’: 80th Liberation theme announced
+
+date: 2024-04-24, from: Guam Daily Post
+
+Hagåtña, Guam – The Office of the Governor of Guam, along with the Mayors’ Council of Guam and the Guam Visitors Bureau, announced in a press release the theme for the 80th commemoration of Guam's Liberation: “Todu i Tiempo i… 
+
+<https://www.postguam.com/news/local/todu-i-tiempo-i-p-s-para-hita-80th-liberation-theme-announced/article_26c788c8-01e2-11ef-b6a5-e724674e578b.html>
+
+---
+
+## Exercise goes over cyberattack scenarios
+
+date: 2024-04-24, from: Guam Daily Post
+
+Federal and local government entities, as well as private sector partners, gathered at the RIHGA Royal Laguna Guam Resort on Wednesday to take part in the National Level Exercise 2024, where participants took part in table-top exercises that considered scenarios… 
+
+<https://www.postguam.com/news/local/exercise-goes-over-cyberattack-scenarios/article_3baf54bc-01ee-11ef-9dc4-a78de8ca3726.html>
+
+---
+
+## $62.4M awarded for Solar for All
+
+date: 2024-04-24, from: Guam Daily Post
+
+The Leon Guerrero-Tenorio Administration announced the recent award of $62.4 million under the U.S. Environmental Protection Agency’s Solar for All program. This substantial investment will empower low and moderate-income households across Guam with access to renewable energy solutions, marking a… 
+
+<https://www.postguam.com/news/local/62-4m-awarded-for-solar-for-all/article_9c0ddbb2-01df-11ef-be9f-53563d9dddf3.html>
+
+---
+
+## Feds investigated GPD, airport officers for illegal gambling club
+
+date: 2024-04-24, from: Guam Daily Post
+
+A Guam Police Department officer was investigated by federal authorities after being suspected of running an illegal gambling operation in 2020. 
+
+<https://www.postguam.com/news/local/feds-investigated-gpd-airport-officers-for-illegal-gambling-club/article_c003196c-01e2-11ef-963a-7fb8c6ecb198.html>
+
+---
+
+## Escapee 'wanted to go see his girlfriend'
+
+date: 2024-04-24, from: Guam Daily Post
+
+A detainee allegedly escaped the Department of Corrections Mangilao Adult Correctional Facility because "he did not deserve to be locked up and wanted to see his girlfriend." 
+
+<https://www.postguam.com/news/local/escapee-wanted-to-go-see-his-girlfriend/article_afeb8378-01ee-11ef-941b-8f689020f99f.html>
+
+---
+
+## Peredo: Decrease in meth seizures result of arrests of 'major dealers'
+
+date: 2024-04-24, from: Guam Daily Post
+
+In the past two years, the amount of methamphetamine seized in the mail has dropped after the arrests of "several of the major leaders dealing ice," according to Guam Customs and Quarantine Director Ignacio Q. "Ike" Peredo. 
+
+<https://www.postguam.com/news/local/peredo-decrease-in-meth-seizures-result-of-arrests-of-major-dealers/article_ad5acc8c-01ca-11ef-9051-4f3458fe3bac.html>
+
+---
+
+## Contractor faces $1M in penalties for trench work safety violations
+
+date: 2024-04-24, from: Guam Daily Post
+
+Giant Construction Corp., a general contractor in Guam, faces more than $1 million in penalties after federal inspectors discovered multiple alleged violations regarding the protection of employees working in trenches. 
+
+<https://www.postguam.com/news/local/contractor-faces-1m-in-penalties-for-trench-work-safety-violations/article_1798dfda-01ee-11ef-ae3a-4367f1b291be.html>
+
+---
+
+## Tumon bar closed by 3-month suspension
+
+date: 2024-04-24, from: Guam Daily Post
+
+The longest-serving bar in Tumon was ordered to close for three months after an investigation discovered alcohol was being sold after 2 a.m. and customers were being told to not park in front of the bar. 
+
+<https://www.postguam.com/news/local/tumon-bar-closed-by-3-month-suspension/article_d2c4f3e8-01da-11ef-a62d-df39fe760fb4.html>
 
 ---
 
