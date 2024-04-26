@@ -1,19 +1,383 @@
 ---
 title: socal north 2024.17
-updated: 2024-04-25 06:01:50
+updated: 2024-04-26 08:51:07
 ---
 
 # socal north 2024.17
 
-(date: 2024-04-25 06:01:50)
+(date: 2024-04-26 08:51:07)
 
 ---
 
-## What School Issues Might Sway Voters In LAUSD Board Election This Fall?
+## DPS turned peaceful protest violent, organizers say, as they vow to continue demonstrating
+
+date: 2024-04-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>In the group’s first public address since the beginning of the occupation, they condemned the actions of Department of Public Safety and Los Angeles Police Department officers and affirmed that they will continue to speak out in support of Palestine.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/26/dps-turned-peaceful-protest-violent-organizers-say-as-they-vow-to-continue-demonstrating/">DPS turned peaceful protest violent, organizers say, as they vow to continue demonstrating</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/26/dps-turned-peaceful-protest-violent-organizers-say-as-they-vow-to-continue-demonstrating/>
+
+---
+
+## UCLA Cafés
+
+date: 2024-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/04/26/ucla-cafs/>
+
+---
+
+## We cannot trust you, Provost Guzman and President Folt
+
+date: 2024-04-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>An open letter from Annenberg professor Mike Ananny to Provost Andrew Guzman and President Carol Folt.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/25/we-cannot-trust-you-provost-guzman-and-president-folt/">We cannot trust you, Provost Guzman and President Folt</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/25/we-cannot-trust-you-provost-guzman-and-president-folt/>
+
+---
+
+## ‘They took away everything’: USC cancels main commencement
+
+date: 2024-04-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>In a decision graduating students and faculty called “frustrating” and “disappointing,” USC will not hold a general commencement ceremony in May, citing “new safety measures.”</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/25/they-took-away-everything-usc-cancels-main-commencement/">‘They took away everything’: USC cancels main commencement</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/25/they-took-away-everything-usc-cancels-main-commencement/>
+
+---
+
+## Caleb Williams selected No. 1 overall by the Chicago Bears
+
+date: 2024-04-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Heisman winner will embark on his next chapter in the Windy City</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/25/caleb-williams-selected-no-1-overall-by-the-chicago-bears/">Caleb Williams selected No. 1 overall by the Chicago Bears</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/25/caleb-williams-selected-no-1-overall-by-the-chicago-bears/>
+
+---
+
+## Counter-protesters demonstrate against pro-Palestine encampment
+
+date: 2024-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Counter-protesters gathered Thursday afternoon and evening in Dickson Plaza, waving Israeli flags to demonstrate against an ongoing encampment in support of Palestine.
+The encampment, led by UCLA’s chapters of Students for Justice in Palestine and the UC Divest Coalition, began early that morning – just as the war in Gaza passed its 200th day. 
+
+<https://dailybruin.com/2024/04/25/counter-protesters-demonstrate-against-pro-palestine-encampment/>
+
+---
+
+## From ages nine to 18, Max Steinberg’s UCLA journey has been full of magic numbers
+
+date: 2024-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Most students in Chemistry 14A are around 19 years old, fresh out of high school and ready to take on the challenge of college.
+Max Steinberg, on the other hand, was nine. 
+
+<https://dailybruin.com/2024/04/25/from-ages-nine-to-18-max-steinbergs-ucla-journey-has-been-full-of-magic-numbers/>
+
+---
+
+## USAC recap – April 23
+
+date: 2024-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its fourth meeting of spring quarter Tuesday.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<https://dailybruin.com/2024/04/25/usac-recap-april-23-3/>
+
+---
+
+## Running on bike power, Coastalong 2024 brings music and sustainability to UCLA
+
+date: 2024-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+At the Coastalong Music and Sustainability Festival, helping the environment while listening to tunes is easier than riding a bicycle.
+Less than a week after Earth Day, the 11th annual Coastalong festival will be held Saturday from 12 to 5:30 p.m. 
+
+<https://dailybruin.com/2024/04/25/running-on-bike-power-coastalong-2024-brings-music-and-sustainability-to-ucla/>
+
+---
+
+## Aquilah Ohemeng innovates with ‘PASS US NOT: Holy Ghosted’ choreography
+
+date: 2024-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Aquilah Ohemeng is bringing her reimagining of a 64-year-old dance to the modern stage.
+The graduate student in choreographic inquiry is imbuing modern artistic expression into one of the most influential pieces of choreographed dance &#8211; Alvin Ailey&#8217;s &#8220;Revelations.&#8221; Titled &#8220;PASS US NOT: Holy Ghosted,&#8221; Ohemeng&#8217;s piece builds on the trailblazing choreographer&#8217;s creation, which uses traditional African American spirituals, blues and work songs to tell a story of faith and perseverance as it relates to slavery and freedom. 
+
+<https://dailybruin.com/2024/04/25/aquilah-ohemeng-innovates-with-pass-us-not-holy-ghosted-choreography/>
+
+---
+
+## Pro-Palestine encampment features teach-ins, speeches as counter-protesters engage
+
+date: 2024-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 25 at 1:06 a.m.</em>
+Organizers led chants and speeches in Dickson Plaza on Thursday afternoon as the protest encampment continued and counter-protests formed. 
+
+<https://dailybruin.com/2024/04/25/pro-palestine-encampment-features-teach-ins-speeches-as-counterprotesters-respond/>
+
+---
+
+## Student onlookers express differing opinions on pro-Palestine encampment
+
+date: 2024-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students and community members had mixed feelings about the ongoing pro-Palestine encampment on campus, with some expressing support while others said it made them uncomfortable.
+Hundreds of people gathered with tents outside Royce Hall on Thursday to call for the UC to divest from companies associated with the Israeli military and to boycott Israeli academic institutions. 
+
+<https://dailybruin.com/2024/04/25/student-onlookers-express-differing-opinions-on-pro-palestine-encampment/>
+
+---
+
+## Report examines deaths of people experiencing homelessness in LA in 2023
+
+date: 2024-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Los Angeles City Controller&#8217;s office found that deaths among the city&#8217;s unhoused population in 2023 were caused in part by increasing overdoses and inadequate services. 
+
+<https://dailybruin.com/2024/04/25/report-examines-deaths-of-people-experiencing-homelessness-in-la-in-2023/>
+
+---
+
+## Resnick Center hosts food law and policy conference, reflects on its future
+
+date: 2024-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA scholars, students, and food law and policy leaders reflected on the past, present and future of the field at a conference celebrating the 10th anniversary of the Resnick Center for Food Law and Policy on April 18 and 19. 
+
+<https://dailybruin.com/2024/04/25/resnick-center-hosts-food-law-and-policy-conference-reflects-on-its-future/>
+
+---
+
+## Opinion: UCLA needs an undergraduate business major to increase choice, job market options
+
+date: 2024-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA has long been known for its top-ranked programs in medicine, law and engineering.
+However, there is one field of study that has been notably absent at the university: undergraduate business. 
+
+<https://dailybruin.com/2024/04/25/opinion-ucla-needs-an-undergraduate-business-major-to-increase-choice-job-market-options/>
+
+---
+
+## Laiatu Latu selected 15th overall by Indianapolis Colts at 2024 NFL Draft
+
+date: 2024-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Doctors told Laiatu Latu he would never play again.
+The defensive lineman suffered a neck injury in spring practice during his sophomore year of college and was forced to medically retire from football altogether. 
+
+<https://dailybruin.com/2024/04/25/laiatu-latu-selected-15th-overall-by-indianapolis-colts-at-2024-nfl-draft/>
+
+---
+
+## Panelists discuss mental health amid conflict in Nagorno-Karabakh, Iran
+
+date: 2024-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Armenian and Iranian sororities hosted a panel to discuss the impacts of military conflict in Nagorno-Karabakh and government crackdowns in Iran on the mental health of UCLA community members. 
+
+<https://dailybruin.com/2024/04/25/panelists-discuss-mental-health-amid-conflict-in-nagorno-karabakh-iran/>
+
+---
+
+## Gallery: Acura Grand Prix of Long Beach breaks attendance record in 49th edition
+
+date: 2024-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Roughly 194,000 people attended the three-day Grand Prix in Long Beach, which is dubbed “Southern California’s 200-MPH Beach Party.” The event has run longer than any other major street race in North America. 
+
+<https://dailybruin.com/2024/04/25/gallery-acura-grand-prix-of-long-beach-breaks-attendance-record-in-49th-edition/>
+
+---
+
+## Undefeated UCLA women’s water polo heads to MPSF semifinal with first-round bye
+
+date: 2024-04-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 25 at 11:31 p.m.</em>
+With a winning streak longer than a Shakespearean sonnet, the Bruins are penning their own cut tale heading into their first postseason tournament. 
+
+<https://dailybruin.com/2024/04/25/undefeated-ucla-womens-water-polo-heads-to-mpsf-semifinal-with-first-round-bye/>
+
+---
+
+## Examining parallels to 1985 student calls for divestment from South Africa
+
+date: 2024-04-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 25 at 1:05 a.m.</em>
+Student and faculty calls for divestment Thursday echoed the demands made against apartheid in South Africa in 1985, which led to divestment from the UC a year later. 
+
+<https://dailybruin.com/2024/04/25/examining-parallels-to-1985-student-calls-for-divestment-from-south-africa/>
+
+---
+
+## USC cancels main stage commencement
+
+date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University also said it would introduce a number of safety measures as attendees join the remaining satellite commencements and miscellaneous ceremonies.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/25/usc-cancels-main-stage-commencement/">USC cancels main stage commencement</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/25/usc-cancels-main-stage-commencement/>
+
+---
+
+## Weekend in Preview: April 25
+
+date: 2024-04-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 25 at 11:33 p.m.</em>
+Men’s golf
+Connor Dullinger, Daily Bruin contributor
+With the Pac-12 championship on the horizon, the Bruins will begin their quest for their sixth title in program history this weekend. 
+
+<https://dailybruin.com/2024/04/25/weekend-in-preview-april-25/>
+
+---
+
+## UCLA softball to face Arizona on Senior Weekend
+
+date: 2024-04-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 25 at 11:37 p.m.</em>
+Last year on Senior Day, then-graduate student Aaliyah Jordan stepped up to the plate in the bottom of the seventh. 
+
+<https://dailybruin.com/2024/04/25/ucla-softball-to-face-arizona-on-senior-weekend/>
+
+---
+
+## UCLA women’s golf finishes fourth in Pac-12, prepares for NCAA regionals
+
+date: 2024-04-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+Only 11 schools sponsor women&#8217;s golf in the Pac-12, despite its name. 
+But while it may not be the largest conference, the Pac-12 boasts the second-most ranked teams at six, only behind the 14-team Southeastern Conference. 
+
+<https://dailybruin.com/2024/04/25/ucla-womens-golf-finishes-fourth-in-pac-12-prepares-for-ncaa-regionals/>
+
+---
+
+## ‘Taking the helm’: Night of Cultura controls narrative, reflects diverse community
+
+date: 2024-04-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 25 at 8:42 p.m.</em>
+The Latine Film and Theatre Association is uprooting societal stereotypes in its upcoming Night of Cultura.
+Gracing the Northwest Campus Auditorium stage April 26 and 27, the annual two-day event will showcase a combination of short films and plays, entirely produced by Latine artists on campus. 
+
+<https://dailybruin.com/2024/04/25/taking-the-helm-night-of-cultura-controls-narrative-reflects-diverse-community/>
+
+---
+
+## Entering a New Era: A student’s feelings about leaving university
+
+date: 2024-04-25, from: The Sundail (CSUN Student Newspaper)
+
+Saying that I feel uneasy about graduating is the understatement of a lifetime. Especially when considering that I am entering a polarizing election year and an unstable job market, it... 
+
+<https://sundial.csun.edu/181078/print-editions/print-stories/entering-a-new-era-a-students-feelings-about-leaving-university/>
+
+---
+
+## Matador Marquee: Films about mental health and university life
+
+date: 2024-04-25, from: The Sundail (CSUN Student Newspaper)
+
+College is a place that can be full of triumph, but also adversity. Challenges can vary from other students, bullying, academics or lack of accommodations. Due to this, many students... 
+
+<https://sundial.csun.edu/181062/print-editions/print-stories/matador-marquee-films-about-mental-health-and-university-life/>
+
+---
+
+## Some Americans would rather vote for a third-party candidate. Here’s why.
+
+date: 2024-04-25, from: The Sundail (CSUN Student Newspaper)
+
+We often hear that our country has not been so bitterly divided since the Civil Rights era–maybe even since the Civil War. Americans cannot seem to agree on hot-button issues... 
+
+<https://sundial.csun.edu/181035/opinions/some-americans-would-rather-vote-for-a-third-party-candidate-than-for-either-trump-or-biden-heres-why/>
+
+---
+
+## Review: Cano’s “The Fall” takes a story about identity, sports and self-discovery to a new level
+
+date: 2024-04-25, from: The Sundail (CSUN Student Newspaper)
+
+A 20-something-year-old trying to figure out who he is. A domineering father figure pushing his son towards a career path he’s unsure of. The son coming into his own and... 
+
+<https://sundial.csun.edu/181110/arts-entertainment/review-the-fall-takes-a-story-about-identity-sports-and-self-discovery-to-a-new-level/>
+
+---
+
+## Review: Long live the King
+
+date: 2024-04-25, from: The Sundail (CSUN Student Newspaper)
+
+As time rolls around, many monsters get their time in the sun. Ever since the Academy Award-winning “Godzilla: Minus One” left theaters and lingers in the minds of many film... 
+
+<https://sundial.csun.edu/181107/arts-entertainment/review-long-live-the-king/>
+
+---
+
+## Spring Cleaning in Your Neighborhood
+
+date: 2024-04-25, from: City of Santa Clarita
+
+<p>By Mayor Cameron Smyth Spring heralds a time of renewal and rejuvenation, not just in the natural world, but within our homes and lives as well. The tradition of spring cleaning, deeply embedded in cultures around the globe, symbolizes more than the act of tidying and decluttering—it represents a chance to start fresh, to reevaluate [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/04/25/spring-cleaning-in-your-neighborhood/">Spring Cleaning in Your Neighborhood</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/04/25/spring-cleaning-in-your-neighborhood/>
+
+---
+
+## ‘Gaza Solidarity Occupation’ at USC, and the aftermath — live updates
+
+date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Protesters are gathered in Founders Park, demanding USC take action against “the genocide in Palestine.” The Daily Trojan is live on the ground.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/25/gaza-solidarity-occupation-to-at-alumni-park-live-updates/">‘Gaza Solidarity Occupation’ at USC, and the aftermath — live updates</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/25/gaza-solidarity-occupation-to-at-alumni-park-live-updates/>
+
+---
+
+## Pro-Palestinian protesters occupy Alumni Park
+
+date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>More than 90 protesters were arrested for trespassing. One was arrested for assault with a deadly weapon.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/25/pro-palestinian-protesters-occupy-alumni-park/">Pro-Palestinian protesters occupy Alumni Park</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/25/pro-palestinian-protesters-occupy-alumni-park/>
+
+---
+
+## The LAUSD Board Election Could Shake Things Up This Fall. Here Are Key Issues
 
 date: 2024-04-25, updated: 2024-04-25, from: The LAist
 
-Incumbent Los Angeles Unified School Board member Tanya Ortiz Franklin will retain her seat representing District 7 and three other school board races are headed to runoffs. 
+One incumbent, Tanya Ortiz Franklin, already held on to her District 7 seat. Three other school board races are headed to runoffs. 
 
 <https://laist.com/news/education/lausd-2024-los-angeles-unified-primary-election-results-fall-runoffs>
 
@@ -40,18 +404,6 @@ date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/04/25/209744/>
-
----
-
-## Pro-Palestinian protesters occupy Alumni Park
-
-date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
-
-<p>More than 35 protesters were arrested for trespassing. One was arrested for assault with a deadly weapon.</p>
-<p>The post <a href="https://dailytrojan.com/2024/04/25/pro-palestinian-protesters-occupy-alumni-park/">Pro-Palestinian protesters occupy Alumni Park</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2024/04/25/pro-palestinian-protesters-occupy-alumni-park/>
 
 ---
 
@@ -83,6 +435,7 @@ date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
 
+<p>The power of youth voting will significantly impact the  future of our democracy.</p>
 <p>The post <a href="https://dailytrojan.com/2024/04/25/an-open-letter-to-my-brother-who-refuses-to-vote/">An open letter to my brother who refuses to vote</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
@@ -111,6 +464,18 @@ date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/04/25/reggie-bush-is-heisman-winner-again/>
+
+---
+
+## [ENG/ESP] ’Esa es mi bandera’: Latin pride prevails at Coachella 2024
+
+date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Latine influence was ever-present at this year’s mega-festival in Indio.</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/25/eng-esp-esa-es-mi-bandera-latin-pride-prevails-at-coachella-2024/">[ENG/ESP] ’Esa es mi bandera’: Latin pride prevails at Coachella 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/25/eng-esp-esa-es-mi-bandera-latin-pride-prevails-at-coachella-2024/>
 
 ---
 
@@ -147,6 +512,18 @@ date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/04/25/soliloquy-thrills-as-casting-call-commentary/>
+
+---
+
+## In Photos: LAPD cracks down on student protests for Gaza
+
+date: 2024-04-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>By the end of the demonstration, police arrested 93 protesters for "trespassing."</p>
+<p>The post <a href="https://dailytrojan.com/2024/04/24/in-photos-lapd-cracks-down-on-student-protests-for-gaza/">In Photos: LAPD cracks down on student protests for Gaza</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/04/24/in-photos-lapd-cracks-down-on-student-protests-for-gaza/>
 
 ---
 

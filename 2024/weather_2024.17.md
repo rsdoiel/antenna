@@ -1,101 +1,368 @@
 ---
 title: weather 2024.17
-updated: 2024-04-25 06:01:51
+updated: 2024-04-26 08:51:08
 ---
 
 # weather 2024.17
 
-(date: 2024-04-25 06:01:51)
+(date: 2024-04-26 08:51:08)
 
 ---
 
-## SPC Apr 25, 2024 1300 UTC Day 1 Convective Outlook
+## SPC MD 525
 
-date: 2024-04-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-04-26, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0525.html"><img src="https://www.spc.noaa.gov/products/md/mcd0525.png" border="1" alt="MD 0525 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0525
+NWS Storm Prediction Center Norman OK
+0933 AM CDT Fri Apr 26 2024
+
+Areas affected...central northeast Texas
+
+Concerning...Severe potential...Watch possible 
+
+Valid 261433Z - 261700Z
+
+Probability of Watch Issuance...60 percent
+
+SUMMARY...Scattered storms are likely to form throughout the day,
+and some are likely to become severe with tornado and large hail
+potential. A watch may be needed by midday.
+
+DISCUSSION...The morning FWD sounding shows a deep moist layer early
+this morning, with 50 kt winds below 850 mb resulting in strong
+low-level shear. Satellite imagery shows broken to overcast
+conditions over much of central TX, with scattered to broken over
+much of northern TX, leading to areas of heating.
+
+The very moist air mass is already aiding early development of
+storms between Austin and Stephenville, and indications are that
+this activity will gradually increase during the day beneath a
+persistent low-level jet. This will lead to a long duration of
+moist, unstable and sheared environment, with a few supercells
+likely within the developing cluster of warm sector storms, leading
+to a developing tornado risk as the activity spreads toward
+northeast TX.
+
+..Jewell/Hart.. 04/26/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...SHV...TSA...HGX...FWD...OUN...
+
+LAT...LON   31109646 31039777 31339853 31749866 32329848 32719829
+            33129802 33729636 33949543 33859483 33749425 33609404
+            33349396 32859407 32099463 31799507 31109646 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0525.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/md/md0525.html>
+
+---
+
+## SPC Tornado Watch 139 Status Reports
+
+date: 2024-04-26, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0139.html"><img src="https://www.spc.noaa.gov/products/watch/ww0139_radar.gif" border="1" alt="WW 0139 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS FOR WATCH 0139 HAS NOT BEEN ISSUED YET
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0139.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0139.html>
+
+---
+
+## SPC Tornado Watch 139
+
+date: 2024-04-26, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0139.html"><img src="https://www.spc.noaa.gov/products/watch/ww0139_radar.gif" border="1" alt="WW 0139 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 139
+NWS Storm Prediction Center Norman OK
+1010 AM CDT Fri Apr 26 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  Southeast Oklahoma
+  Central and Northeast Texas
+
+* Effective this Friday morning and evening from 1010 AM until
+  600 PM CDT.
+
+* Primary threats include...
+  A few tornadoes possible
+  Scattered large hail and isolated very large hail events to 2.5
+    inches in diameter possible
+  Scattered damaging wind gusts to 70 mph possible
+
+SUMMARY...Thunderstorms are expected increase in coverage and
+intensity through the late morning and afternoon, with a few severe
+thunderstorms possible.  Large hail, damaging winds, and a few
+tornadoes may occur.
+
+The tornado watch area is approximately along and 60 statute miles
+north and south of a line from 50 miles west of Temple TX to 65
+miles north northeast of Longview TX. For a complete depiction of
+the watch see the associated watch outline update (WOUS64 KWNS
+WOU9).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 138...
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 2.5 inches. Extreme turbulence and surface wind
+gusts to 60 knots. A few cumulonimbi with maximum tops to 500. Mean
+storm motion vector 25030.
+
+...Hart
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0139.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0139.html>
+
+---
+
+## SPC Tornado Watch 138
+
+date: 2024-04-26, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0138.html"><img src="https://www.spc.noaa.gov/products/watch/ww0138_radar.gif" border="1" alt="WW 0138 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 138
+NWS Storm Prediction Center Norman OK
+535 AM CDT Fri Apr 26 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  Eastern Oklahoma
+
+* Effective this Friday morning from 535 AM until 1100 AM CDT.
+
+* Primary threats include...
+  A few tornadoes possible
+  Scattered damaging wind gusts to 70 mph possible
+  Isolated large hail events to 1 inch in diameter possible
+
+SUMMARY...A squall line with embedded bowing segments/mesovortices
+will pose a continued threat for a couple of tornadoes, damaging
+gusts of 60-70 mph and isolated large hail near 1 inch diameter
+through mid morning.
+
+The tornado watch area is approximately along and 45 statute miles
+east and west of a line from 25 miles east northeast of Tulsa OK to
+35 miles east southeast of Mcalester OK. For a complete depiction of
+the watch see the associated watch outline update (WOUS64 KWNS
+WOU8).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 137...
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 1 inch. Extreme turbulence and surface wind
+gusts to 60 knots. A few cumulonimbi with maximum tops to 500. Mean
+storm motion vector 25040.
+
+...Thompson
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0138.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0138.html>
+
+---
+
+## SPC Tornado Watch 138 Status Reports
+
+date: 2024-04-26, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0138.html"><img src="https://www.spc.noaa.gov/products/watch/ww0138_radar.gif" border="1" alt="WW 0138 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 138
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 35 S MLC TO
+20 SE MLC TO 25 ENE MLC TO 25 W RKR TO 20 NW RKR TO 30 WNW FSM TO
+25 NNW FSM TO 30 SSW UMN.
+
+..JEWELL..04/26/24
+
+ATTN...WFO...TSA...
+
+
+STATUS REPORT FOR WT 138 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+OKC077-079-127-135-261440-
+
+OK 
+.    OKLAHOMA COUNTIES INCLUDED ARE
+
+LATIMER              LE FLORE            PUSHMATAHA          
+SEQUOYAH             
+
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+REFER TO WATCH COUNTY NOTIFICATION STATEMENTS FOR OFFICIAL
+INFORMATION ON COUNTIES...INDEPENDENT CITIES AND MARINE ZONES
+CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0138.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0138.html>
+
+---
+
+## SPC Apr 26, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-04-26, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0731 AM CDT Thu Apr 25 2024
+0753 AM CDT Fri Apr 26 2024
 
-Valid 251300Z - 261200Z
+Valid 261300Z - 271200Z
 
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS THIS EVENING
-ACROSS WESTERN KS AND TONIGHT ACROSS NORTHWEST TX INTO CENTRAL OK...
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS THIS
+AFTERNOON/EVENING ACROSS NORTHEAST KS/SOUTHEAST NE/NORTHWEST
+MO/SOUTHWEST IA...
 
 ...SUMMARY...
-Very large hail up to 3 inches in diameter and a strong tornado or
-two will be possible this evening across western Kansas.  Large hail
-up to 2.5 inches in diameter, damaging winds to 70 mph and a few
-tornadoes will be possible tonight from northwest Texas into central
-Oklahoma.
+A few tornadoes, including a couple of strong tornadoes, isolated
+very large hail (greater than 2 inch diameter) and isolated wind
+damage will be possible, mainly this afternoon/evening from
+northeast Kansas/southeast Nebraska into northwest Missouri and
+southwest Iowa.  Occasional severe storms are expected farther south
+into Arkansas, eastern Oklahoma and northeast Texas.
 
-...Synopsis...
-A midlevel shortwave trough and associated 70 kt jet will eject
-northeastward toward western KS by late tonight and Friday morning. 
-An associated lee cyclone is expected to deepen this afternoon
-across northeast CO, with a sharpening dryline arcing to its south
-across western KS and the TX/OK Panhandles.  Farther east, a warm
-front will continue to move northward from OK into KS, though
-northward progress of the front will be slowed by elevated
-convection (posing an isolated large hail threat) that will
-reinforce the cool side of the boundary during the day.  A somewhat
-bimodal threat distribution is expected - the warm sector in western
-KS and a second corridor overnight from northwest TX into OK.
+...Mid MO Valley to TX through tonight...
+A complex surface pattern is evident this morning with a cyclone in
+northern KS, a trailing dryline/Pacific front into western OK, and
+the east edge of the warm sector demarcated by a warm front from
+eastern OK into eastern KS.  An ongoing QLCS with occasional wind
+damage and tornado reports is moving across eastern OK near the warm
+front, with an area of rain-cooled/overturned in OK in the wake of
+these storms.  Farther north, an undisturbed portion of the warm
+sector extends across central KS.
 
-...Western KS this afternoon/evening...
-An unstable warm sector will be present through this evening, with
-boundary-layer dewpoints in the 60s beneath steep midlevel lapse
-rates.  The base of the elevated mixed layer will be relatively
-warm, suggesting the need for surface temperatures into the 80s on
-the immediate moist side of the dryline.  The better potential for
-storm development this afternoon will be across western KS, where
-dryline parcel residence times will be longer and in closer
-proximity to the left-exit region of the approaching mid-upper jet. 
-The initial dryline storms will likely become supercells capable of
-producing very large hail of 2-3 inches in diameter, and these
-storms could continue northeastward as elevated supercells atop the
-warm front.  The potential for a strong tornado or two will increase
-this evening as the storms encounter richer low-level moisture and
-increasing low-level shear.  However, the window of opportunity will
-not be particularly large given the presence of a rain-reinforced
-front to the northeast and increasing convective inhibition by late
-evening.
+The eastern OK convection will likely persist through the day toward
+western AR, with additional expansion of rain/thunderstorms farther
+northeast into southwest/central MO.  The OK/AR portion of this
+convection will be the most likely to maintain access to the surface
+warm sector through the day, where a mix of bowing segments or
+embedded supercells will be possible with all hazards.  
 
-...Northwest TX into OK overnight...
-A general consensus of most overnight forecast guidance suggests a
-southern corridor of greater hail/wind threat starting early tonight
-just off the Caprock and then spreading northeastward over northwest
-TX into southwest/central OK early Friday morning.  Thunderstorm
-initiation will become more probable by 03-06z in association with
-cooling/moistening at the base of the elevated mixed layer,
-coincident with the beginning of eastward movement of the
-dryline/Pacific cold front along the trailing influence of the
-ejecting midlevel trough.  Storm mode will likely trend to
-clusters/line segments while spreading northeastward. 
-Boundary-layer dewpoints approaching the upper 60s beneath steep
-midlevel lapse rates will contribute to MUCAPE in excess of 2000
-J/kg through the overnight hours, which will favor the potential for
-both large hail (especially with any embedded supercells) and
-damaging winds of 60-70 mph.  A few tornadoes may also occur with
-embedded circulations as low-level shear increases tonight.
+The clouds/rain will slow the northeastward progress of the warm
+sector, and northward advection of the overturned airmass in OK will
+potentially impact the breadth and quality of the unstable warm
+sector this afternoon.  Assuming sufficient recovery during the day,
+there will be a window of opportunity for tornadic supercells along
+the dryline this afternoon/evening starting in northeast
+KS/southeast NE and spreading into northwest MO/southwest IA. 
+MLCAPE at or above 2000 J/kg, boundary-layer dewpoints in the mid
+60s, and sufficiently long hodographs with low-level hodograph
+curvature (effective bulk shear in excess of 50 kt, and effective
+SRH of 200-300 m2/s2) suggest the potential for a couple of strong
+tornadoes with any persistent, semi-discrete supercells.  Isolated
+very large hail (in excess of 2 inches in diameter) will also be
+possible, while the potential for a few damaging gusts will
+accompany any upscale growth into line segments this evening.
 
-...TX Panhandle/western OK this afternoon/evening...
-A conditionally favorable environment for supercells with very large
-hail and tornadoes will exist this afternoon/evening across the
-eastern TX Panhandle into western OK.  The primary uncertainty here
-will be lingering convective inhibition and substantial uncertainty
-in storm coverage/location along the dryline.  For these reasons,
-have lowered the overall severe threat, but maintained some
-conditional significant severe potential.
+Additional thunderstorm development will be possible today farther
+southwest into TX, in association with weak height falls on the
+southern fringe of the ejecting midlevel trough.  The 12z FWD
+sounding showed only a weak cap, so the SLGT has been expanded some
+to the southwest to account for large hail/wind damage potential
+today.  Storms will likely weaken by this evening as weak height
+rises commence and the remnant dryline begins to retreat to the
+west.
 
-..Thompson/Kerr.. 04/25/2024
+..Thompson/Guyer.. 04/26/2024
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
  
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 137 Status Reports
+
+date: 2024-04-26, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0137.html"><img src="https://www.spc.noaa.gov/products/watch/ww0137_radar.gif" border="1" alt="WW 0137 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 137
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 50 W GYI TO
+10 WNW ADM TO 40 NNE ADM TO 15 N MLC.
+
+..JEWELL..04/26/24
+
+ATTN...WFO...OUN...FWD...
+
+
+STATUS REPORT FOR WS 137 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+OKC005-013-019-029-063-069-085-095-099-123-261440-
+
+OK 
+.    OKLAHOMA COUNTIES INCLUDED ARE
+
+ATOKA                BRYAN               CARTER              
+COAL                 HUGHES              JOHNSTON            
+LOVE                 MARSHALL            MURRAY              
+PONTOTOC             
+
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+REFER TO WATCH COUNTY NOTIFICATION STATEMENTS FOR OFFICIAL
+INFORMATION ON COUNTIES...INDEPENDENT CITIES AND MARINE ZONES
+CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0137.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0137.html>
 
 ---
 
@@ -116,53 +383,6 @@ date: 2024-04-25, from: NOAA tornado/severe thunderstorm watches, mesoscale disc
 No Mesoscale Discussions are in effect as of Thu Apr 25 12:36:01 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/md/>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-04-25, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br />
-TTAA00 KNHC DDHHMM RRA<br />
-<br />
-Special Tropical Weather Outlook<br />
-NWS National Hurricane Center Miami FL<br />
-410 PM EDT Wed Apr 24 2024<br />
-<br />
-For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />
-<br />
-East-Central Subtropical Atlantic:<br />
-An area of low pressure located about 900 miles northwest of the <br />
-Cabo Verde Islands has been producing a small but persistent area <br />
-of showers and thunderstorms to the east of its center since this <br />
-morning.  However, the low is forecast to move southwestward at 10 <br />
-to 15 mph into an area of stronger upper-level winds tonight and <br />
-tomorrow, and additional development is not expected.<br />
-<br />
-No additional Special Tropical Weather Outlooks are scheduled for <br />
-this system unless conditions warrant.  Regularly scheduled <br />
-Tropical Weather Outlooks will resume on May 15, 2024, and Special <br />
-Tropical Weather Outlooks will be issued as necessary during the <br />
-remainder of the off-season.<br />
-* Formation chance through 48 hours...low...10 percent.<br />
-* Formation chance through 7 days...low...10 percent.<br />
-<br />
-$$<br />
-Forecaster Berg/Brown <br />
-NNNN<br />
-<br />
-</div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
@@ -274,6 +494,16 @@ Critical highlights at this time.
  
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-04-24, from: Graphical Tropical Weather Outlooks
+
+The Atlantic hurricane season runs from June 1st through November 30th. 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 

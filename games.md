@@ -1,11 +1,111 @@
 ---
 title: games 2024.17
-updated: 2024-04-25 06:01:51
+updated: 2024-04-26 08:51:08
 ---
 
 # games 2024.17
 
-(date: 2024-04-25 06:01:51)
+(date: 2024-04-26 08:51:08)
+
+---
+
+## How to prepare for Destiny 2: The Final Shape
+
+date: 2024-04-26, updated: 2024-04-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24137235/final-shape-prep-guide-bounties-gear-content-leaving>
+
+---
+
+## Honkai: Star Rail 2.2 livestream codes
+
+date: 2024-04-26, updated: 2024-04-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/honkai-star-rail-guides/2024/4/26/24140548/2-2-livestream-codes-jade-redeem-version-patch>
+
+---
+
+## The best TV of 2024 so far
+
+date: 2024-04-26, updated: 2024-04-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series>
+
+---
+
+## Jim Carrey gave the Knuckles cast permission to make the funniest show possible
+
+date: 2024-04-26, updated: 2024-04-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24140560/knuckles-cast-adam-pally-kid-cudi-interview>
+
+---
+
+## Is Manor Lords’ historical authenticity a blessing or a curse?
+
+date: 2024-04-26, updated: 2024-04-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24140347/manor-lords-early-access-impressions-pc>
+
+---
+
+## How to farm in Manor Lords
+
+date: 2024-04-26, updated: 2024-04-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/manor-lords-guides/24139739/farm-farming-field-crop-emmer-wheat-flax-barley-harvest-grow>
+
+---
+
+## How to grow your village and build a town in Manor Lords
+
+date: 2024-04-26, updated: 2024-04-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/manor-lords-guides/24139652/town-village-settlement-level-upgrade>
+
+---
+
+## 9 things to know before starting Manor Lords
+
+date: 2024-04-26, updated: 2024-04-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/manor-lords-guides/24132401/beginners-guide-tips-tricks>
+
+---
+
+## How do marketplaces work in Manor Lords?
+
+date: 2024-04-26, updated: 2024-04-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/manor-lords-guides/24132152/marketplaces-goods>
+
+---
+
+## How to upgrade burgage plots in Manor Lords
+
+date: 2024-04-26, updated: 2024-04-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/manor-lords-guides/24131996/burgage-plots-how-to-upgrade-extensions>
 
 ---
 

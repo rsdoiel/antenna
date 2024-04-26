@@ -1,11 +1,709 @@
 ---
 title: tech likely 2024.17
-updated: 2024-04-25 06:01:51
+updated: 2024-04-26 08:51:08
 ---
 
 # tech likely 2024.17
 
-(date: 2024-04-25 06:01:51)
+(date: 2024-04-26 08:51:08)
+
+---
+
+##  An experimental data sonification of what a &#8220;decentralized, digitized, decarbonized electricity grid&#8221;... 
+
+date: 2024-04-26, updated: 2024-04-26, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044480-an-experimental-data-soni>
+
+---
+
+## NASA’s Hubble Pauses Science Due to Gyro Issue
+
+date: 2024-04-26, from: NASA breaking news
+
+NASA is working to resume science operations of the agency’s Hubble Space Telescope after it entered safe mode April 23 due to an ongoing gyroscope (gyro) issue. Hubble’s instruments are stable, and the telescope is in good health. The telescope automatically entered safe mode when one of its three gyroscopes gave faulty readings. The gyros […] 
+
+<https://science.nasa.gov/missions/hubble/nasas-hubble-pauses-science-due-to-gyro-issue/>
+
+---
+
+## NASA’s Commercial Partners Deliver Cargo, Crew for Station Science
+
+date: 2024-04-26, from: NASA breaking news
+
+NASA partners with commercial companies to provide safe, reliable, and cost-effective transportation of cargo and crew members to and from the International Space Station. A platform for long-duration research in microgravity, the station has operated continuously for more than 23 years, its crew members conducting a broad range of technology demonstrations and thousands of experiments [&#8230;] 
+
+<https://www.nasa.gov/missions/station/iss-research/nasas-commercial-partners-deliver-cargo-crew-for-station-science/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-26, from: Dave Winer's Scripting News)
+
+<a href="https://github.com/scripting/Scripting-News/issues/305">Braintrust query</a>: I'm interested in getting an <a href="https://www.amazon.com/s?k=adjustable+height+desk&crid=MCC8BTA0NVXB&sprefix=adjustable+height+desk%2Caps%2C131&ref=nb_sb_noss_1">adjustable height desk</a>. I'd like to start with an inexpensive one, and if I like it, I'll get a real one. If I can get it via Amazon that would be best. 
+
+<http://scripting.com/2024/04/26.html#a133921>
+
+---
+
+##  Sounds like The Onion has been rescued from an agonizing death by... 
+
+date: 2024-04-26, updated: 2024-04-26, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044491-sounds-like-the-onion-has>
+
+---
+
+## Live together in perfect harmony…
+
+date: 2024-04-26, from: Status-Q blog
+
+I&#8217;m fond of both milk and dark chocolate. Milk chocolate is yummy kiddy comfort food. Dark chocolate is more sophisticated, more bitter, more &#8216;adult&#8217;. It&#8217;s also less likely to melt at inconvenient times, so helping you preserve that more sophisticated appearance. But the problem, I find, is that dark chocolate often has too little taste. <a class="more-link excerpt-link" href="https://statusq.org/archives/2024/04/26/12039/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<https://statusq.org/archives/2024/04/26/12039/>
+
+---
+
+## NASA’s ORCA, AirHARP Projects Paved Way for PACE to Reach Space
+
+date: 2024-04-26, from: NASA breaking news
+
+It took the Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) mission just 13 minutes to reach low-Earth orbit from Cape Canaveral Space Force Station in February 2024. It took a network of scientists at NASA and research institutions around the world more than 20 years to carefully craft and test the novel instruments that allow PACE [&#8230;] 
+
+<https://www.nasa.gov/missions/pace/nasas-orca-airharp-projects-paved-way-for-pace-to-reach-space/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-26, from: Dave Winer's Scripting News)
+
+I won't believe the NYT has any integrity until they let people criticize them on their op-ed page. 
+
+<http://scripting.com/2024/04/26.html#a121849>
+
+---
+
+## Hubble Spots a Magnificent Barred Galaxy
+
+date: 2024-04-26, from: NASA breaking news
+
+The magnificent central bar of NGC 2217 (also known as AM 0619-271) shines bright in the constellation of Canis Major (The Greater Dog), in this image taken by the NASA/ESA Hubble Space Telescope. Roughly 65 million light-years from Earth, this barred spiral galaxy is a similar size to our Milky Way at 100,000 light-years across. Many stars are concentrated in […] 
+
+<https://science.nasa.gov/missions/hubble/hubble-spots-a-magnificent-barred-galaxy/>
+
+---
+
+## P&B: Veronique
+
+date: 2024-04-26, from: Manu - I write blog
+
+
+                <p>This is the 35th edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have Veronique and her blog, <a href="https://veronique.ink">veronique.ink</a></p>
+<p>To follow this series <a href="https://peopleandblogs.com">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed">RSS feed</a>.</p>
+<p>If you're enjoying the People and Blogs series and you want to see it grow, consider supporting on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a>.</p>
+<hr />
+<h2>Let's start from the basics: can you introduce yourself?</h2>
+<p>Hi, my name is Veronique, and I’m an artist, writer, and zine maker. I live in Toronto with my dog, Muskoka. I love making zines and championing small-press indie writers. I enjoy discovering new artists, going for trail hikes with my doggo, making art while listening to tunes, daydreaming, exchanging emails as personal letters, and discovering new personal blogs. Lately, I’ve been teaching myself how to play my late father’s guitar.</p>
+<h2>What’s the story behind your blog?</h2>
+<p>I started my blog in August 2022, after stumbling upon a few personal sites. I became enchanted by these quiet spaces away from social media. One blog in particular, <em>TMO</em> (no longer active), inspired me to start writing. His vulnerable, daily slice-of-life posts immediately catapulted me into wanting to document my life through blogging. </p>
+<p>My search for a simple writing platform took some time, but eventually, I came across <a href="https://bearblog.dev"><em>Bearblog</em></a>, which won me over with its simplicity. I’m not tech-savvy, so the fewer bells and whistles a platform has, the more I can concentrate on what matters—writing. </p>
+<p>My dad fell ill in the fall of 2022, and writing on my blog became a lifeline. Writing online created a cocooned arena for exploring my wayward thoughts and feelings and forged an invisible string, tying me to far-flung strangers across the web. Blogging felt like a refuge and reminded me that we’re all sharing this bumpy, precarious timeline together.</p>
+<p>I read once that you should write your obsessions. Not only for yourself but also to find your <em>kind</em>. Being an introvert, this sentiment really resonated with me. Connecting through personal blogs can sometimes feel deeper than in-person interactions. Since writing on my blog, I’ve met the most wonderful internet denizens who have morphed into veritable email comrades—and I love it. </p>
+<h2>What does your creative process look like when it comes to blogging?</h2>
+<p>My posts are primarily short-form and meant to be a catch-all container for ideas and preserving fragments of ordinary moments. I prefer to write in spontaneous, off-the-cuff spurts. Thoughts, ideas, and links to things I want to share are written in my phone notes app or the myriad unfinished journals around my apartment. </p>
+<p>I’ve been fond of writing posts in bullet form lately. It's a quick way to record passing thoughts and share pictures, ideas, and quotes I like. I feel like personal blogs are in constant flux and unpolished by nature, which appeals to me. </p>
+<h2>Do you have an ideal creative environment? Also, do you believe the physical space influences your creativity?</h2>
+<p>I like to write first thing in the morning before I'm swayed emotionally by other people's output.</p>
+<p>I’ve romanticized having an old wooden "writers’ desk" in the corner of my living room, but I have a sneaking suspicion I’d still end up on the couch, scrunched up with horrible posture with my laptop over my legs. </p>
+<p>I like to blog on my phone when I'm out and about—busy pubs, cafes, or on the bus. Plunking myself in new places sharpens my observational rolodex and removes me from my regular inner dialogue. </p>
+<h2>A question for the techie readers: can you run us through your tech stack?</h2>
+<p>My setup is minimal. I write on my MacBook Air M2 laptop and iPhone 15 Pro phone. Bearblog hosts my blog, and my domain name is registered with GoDaddy. C'est tout!</p>
+<h2>Given your experience, if you were to start a blog today, would you do anything differently?</h2>
+<p>I haven’t been blogging long, but I wish I was more versed in HTML and CSS. I’ve spent countless hours combing the net for tips on how best to tinker with my site. I enjoy it, though, as it feels like solving a mini-puzzle.</p>
+<p>The other thing would be allowing people to subscribe to my blog with their email. I need to remedy that asap. </p>
+<h2>Financial question since the web is obsessed with money: how much does it cost to run your blog? Is it just a cost or does it generate some revenue? And what's your position on people monetizing personal blogs?</h2>
+<p>For now, Bearblog is $20 a year, and it costs me about $35 to renew my domain. </p>
+<p>Monetizing a blog feels like a touchy subject, and a lot of people are put off by paying someone for online writing. Newsletter fatigue is real, and being hit with member fees in every nook and cranny on the net is rampant. </p>
+<p>But from a creative perspective, people still have to pay rent, and people still need to eat. </p>
+<p>Artists, writers, and makers should and <em>can</em> make a living doing what they love. </p>
+<p>I’m a huge proponent of supporting artists for their work. I allocate about $20 a month to support my favorites through platforms like Patreon, BMAC, Ko-Fi, independent newsletters, and one-off coffees. </p>
+<p>I'd love to make a living from writing on my blog. Is this realistic, especially without ads, trackers, sponsored posts, or paywalls? I don’t know, but I spend a lot of time thinking about how to make it work. I keep trying different things and am not afraid to pivot if something isn’t working. It's tough, but it's something I love working towards. </p>
+<p>The idea of making money from my writing still feels uncomfortable sometimes. There’s a touch of imposter syndrome, low self-esteem, and not feeling in league with the high-caliber writers of Substack, etc, but I keep pushing through. However, money aside, writing and sharing things on my blog is something I deeply cherish and will continue doing regardless of monetary gain. </p>
+<h2>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</h2>
+<p>There are so many blog gems I love! Here's a few favs: </p>
+<ul>
+<li><a href="https://anhvn.com/">Anh's</a> website is so fun and whimsical. I’m in awe of her site’s aesthetic and how she incorporates her illustrations to further express herself.</li>
+<li><a href="https://lili.bearblog.dev">Lili's Musings</a>. Uncut, thought-provoking writing. Themes include diary-like entries, thoughts on academia, unraveling the writing process, trans struggles, and processing anxieties. </li>
+<li><a href="https://dahlstrand.net/2024/03/14/this-is-a.html">Sven Dahlstrand</a>. A cool human being with a really fun blog who's always linking to interesting things. </li>
+<li><a href="https://rusi.me">Growing Old With You</a>. Ru’s blog is a tapestry of poignant writing and laid-bare slices of life, and I admire her vulnerability on the page.</li>
+<li><a href="https://thewallflowerdigest.co.uk">The Wallflower Digest</a> Alice’s blog is new to me, and I’m having so much fun devouring her writing. She’s a book-loving introvert who grapples with social anxiety (like me!), and her writing topics and hobbies are wide and varied. </li>
+</ul>
+<p><em>Lili</em> and <em>Anh</em> would both be great guests for your next interview!</p>
+<h2>Final question: is there anything you want to share with us?</h2>
+<p>Read more poetry and zines! </p>
+<ul>
+<li>New to zines? Let Bre from <a href="https://www.youtube.com/@brattyxbre">brattyxbre</a> and Wesley from <a href="https://youtube.com/@TwentyTwoZines">Twenty-Two Zines</a> guide you. </li>
+<li><a href="https://www.aswirlzine.com">Aswirl</a>. Concrete poetry in quarterly installments.</li>
+<li><a href="https://ctrl-c.club/~loghead/ctrl-zine.html">Ctrl-ZINE</a> A collaborative zine celebrating tech and the Smol Web.</li>
+<li><a href="https://evtso.bigcartel.com">Ellen Viola</a>. Colorful and charming comic zines.</li>
+<li><a href="https://lizmasonisawesome.com">Liz Mason</a> She's been making zines for over 20 years and manages <a href="https://www.quimbys.com">Quimby's</a> Bookstore in Chicago. </li>
+</ul>
+<p>If you're an artist/writer, check out <a href="https://www.creativepeptalk.com">Creative Peptalk</a> podcast by Andy J. Pizza and <a href="http://www.codycookparrott.com">Cody Cook-Parrott's</a> weekly newsletter. </p>
+<p>Here's to happy-accident email friendships, shared curiosities, daydreams, and personal blogs!</p>
+<hr />
+<p>This was the 35th edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Veronique. Make sure to <a href="https://veronique.ink">follow her blog</a> (<a href="https://veronique.ink/feed/?type=rss">RSS</a>) and get in touch with her if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a> and all supporters will be listed here as well as on the <a href="https://peopleandblogs.com">official site</a> of the newsletter.</p>
+<p><a href="https://www.thingelstad.com">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml">RSS</a>) — <a href="https://some.studio">Piet Terheyden</a> — <a href="https://minim.blog">Raul Montala</a> (<a href="http://github.com/rmontala/minim/commits.atom">RSS</a>) — Eleonora — <a href="https://carlbarenbrug.com">Carl Barenbrug</a> (<a href="https://carlbarenbrug.com/feed/rss">RSS</a>) — <a href="https://tangiblelife.net">Steve Ledlow</a> (<a href="https://tangiblelife.net/feed.rss">RSS</a>) — Paolo Ruggeri — <a href="https://thejollyteapot.com">Nicolas Magand</a> (<a href="https://thejollyteapot.com/feed.rss">RSS</a>) — <a href="https://robhope.com">Rob Hope</a> — <a href="https://chrishannah.me">Chris Hannah</a> (<a href="https://chrishannah.me/index.xml">RSS</a>) — <a href="https://blog.pcora.eu">Pedro Corá</a> (<a href="https://blog.pcora.eu/feed.xml">RSS</a>) — <a href="https://jeremysarber.com">Jeremy Sarber</a> (<a href="https://jeremysarber.com/feed.rss">RSS</a>) — <a href="https://colinwalker.blog/">Colin Walker</a> (<a href="https://colinwalker.blog/dailyfeed.xml">RSS</a>) — <a href="https://softlandings.world/">Sixian Lim</a> (<a href="https://www.softlandings.world/feed.rss">RSS</a>) — <a href="https://mattstein.com">Matt Stein</a> (<a href="https://mattstein.com/rss.xml">RSS</a>) — <a href="https://winnielim.org">Winnie Lim</a> (<a href="https://winnielim.org/feed/">RSS</a>) — <a href="https://flamedfury.com/">Flamed</a> (<a href="https://flamedfury.com/feed.xml/">RSS</a>) — <a href="https://skyhold.org">C Jackdaw</a> (<a href="https://journal.miso.town/atom?url=https://skyhold.org/index.html">RSS</a>) — <a href="https://tiv.today">Kevin Humdrum</a> (<a href="https://tiv.today/feed.rss">RSS</a>) — <a href="https://www.doc.cc/">Fabricio Teixeira</a> (<a href="https://www.doc.cc/feed.xml">RSS</a>) — <a href="https://rosalindcroad.com">Rosalind Croad</a> — <a href="https://frankmeeuwsen.com">Frank Meeuwsen</a> (<a href="https://frankmeeuwsen.com/feed.xml">RSS</a>) — <a href="https://www.elmike.me">Mike Walsh</a> (<a href="https://www.elmike.me/feed.xml">RSS</a>) — <a href="https://www.byzero.de/">Markus Heurung</a> — <a href="https://jeremybassetti.com">Jeremy Bassetti</a> (<a href="https://jeremybassetti.com/index.xml">RSS</a>) — <a href="https://cleverlaziness.xyz/">Juan Villela</a> (<a href="https://cleverlaziness.xyz/posts/index.xml">RSS</a>) — <a href="https://mwarrenarts.com/">Michael Warren</a> (<a href="https://mwarrenarts.com/rss">RSS</a>) — <a href="https://cagrimmett.com/">Chuck Grimmett</a> (<a href="https://cagrimmett.com/feed">RSS</a>) — <a href="https://eatweeds.co.uk">Robin Harford</a> (<a href="https://www.eatweeds.co.uk/feed/">RSS</a>) — <a href="https://bryanmanio.com/">Bryan Maniotakis</a> (<a href="https://bryanmanio.com/feed/">RSS</a>) — <a href="https://bjhess.com/">Barry Hess</a> (<a href="https://bjhess.com/posts_feed">RSS</a>) — <a href="https://chrisjung.xyz">Chris Jung</a> (<a href="https://chrisjung.xyz/feed/rss">RSS</a>) — <a href="https://ivanmoreale.com">Ivan Moreale</a> — <a href="https://islandinthenet.com">Khürt Williams</a> (<a href="https://islandinthenet.com/feed/">RSS</a>) — <a href="https://werd.io/">Ben Werdmuller</a> (<a href="https://werd.io/feed">RSS</a>) — <a href="https://corygibbons.com">Cory Gibbons</a> — <a href="https://www.lkhrs.com/">Luke Harris</a> (<a href="https://www.lkhrs.com/blog/index.xml">RSS</a>) — <a href="https://lars-christian.com/">Lars-Christian Simonsen</a> (<a href="https://lars-christian.com/feed/">RSS</a>) — <a href="https://sethw.xyz">Seth Werkheiser</a> (<a href="https://sethw.xyz/feed/">RSS</a>) — <a href="https://www.codyschultz.com">Cody Schultz</a> — <a href="https://bradbarrish.com">Brad Barrish</a> (<a href="https://bradbarrish.com/feed/">RSS</a>) — <a href="https://galaiko.rocks">Nikita Galaiko</a> — Erik Blankvoort — <a href="https://jagasantagostino.com">Jaga Santagostino</a> — <a href="https://andzuck.com/">Andrew Zuckerman</a> — <a href="https://www.mattiacompagnucci.com">Mattia Compagnucci</a> (<a href="https://mattiacompagnucci.com/feed.rss">RSS</a>) — <a href="https://tdh.se/">Thord D. Hedengren</a> (<a href="https://tdh.se/feed/feed.xml">RSS</a>) — Sean Gallagher — Fabien Sauser — <a href="http://dizzard.net/">Maxwell Omdal</a> — <a href="https://numericcitizen.me">Numeric Citizen</a> (<a href="https://feedpress.me/numericcitizen-feeds.xml?ref=numericcitizen.me">RSS</a>) — <a href="https://heydingus.net">Jarrod Blundy</a> (<a href="https://heydingus.net/feeds">RSS</a>) — <a href="https://gwtf.it">Andrea Contino</a> (<a href="https://gwtf.it/feed">RSS</a>) — <a href="https://sebastiandedeyne.com/">Sebastian De Deyne</a> (<a href="https://sebastiandedeyne.com/index.xml">RSS</a>) — <a href="https://koolinus.net/blog/">Nicola Losito</a> (<a href="https://koolinus.net/blog/feed/">RSS</a>) — <a href="https://amerpie.lol/">Lou Plummer</a> (<a href="https://amerpie.lol/feed.xml">RSS</a>) — <a href="https://lmika.org/">Leon Mika</a> (<a href="https://lmika.org/feed.xml">RSS</a>) — <a href="http://veronique.ink">Veronique</a> (<a href="https://veronique.ink/feed/">RSS</a>) — <a href="https://surplusjouissance.com">Neil Gorman</a> (<a href="https://www.surplusjouissance.com/rss/">RSS</a>) — <a href="https://reaper.is/">Reaper</a> (<a href="https://reaper.is/rss.xml">RSS</a>) — <a href="https://www.mattrutherford.co.uk/">Matt Rutherford</a> (<a href="https://www.mattrutherford.co.uk/rss/">RSS</a>) — <a href="https://therealadam.com">Adam Keys</a> (<a href="https://therealadam.com/feed.xml">RSS</a>) — <a href="https://aleemshaun.com/">Aleem Ali</a> (<a href="https://aleemshaun.com/feed">RSS</a>)</p>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale">support on Ko-Fi</a>;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol>                <hr>
+                <h2>Get in touch</h2>                <p>Have something to share? Want me as your <a href="https://manuelmoreale.com/i-ll-read-it">first reader</a>? Get in touch. My inbox is always open.</p>                <a href="mailto:hello@manuelmoreale.com">Connect</a> — 
+                <a href="https://manuelmoreale.com/guestbook">Guestbook</a>
+                <hr>
+                <h2>One a month</h2>                <p>That's how little it takes to help with my <a href="https://manuelmoreale.com/on-dreams-and-goals">goal</a>. If you feel generous, consider supporting what I do.</p>                <a href="https://ko-fi.com/manuelmoreale">Donate</a> — 
+                <a href="https://manuelmoreale.com/supporters">Supporters</a>
+                <hr>
+                <h2>People and Blogs</h2>                <p>I ask people to talk about themselves and their blogs. <a href="https://peopleandblogs.com/">Learn more</a> or subscribe.</p>                <a href="https://manuelmoreale.com/feed/peopleandblogs">RSS</a> — 
+                <a href="https://buttondown.email/peopleandblogs">Email</a>
+             
+
+<https://manuelmoreale.com/@/page/uzescngN6jxTDEb3>
+
+---
+
+## Corporate greed from Apple and Google have destroyed the passkey future
+
+date: 2024-04-26, from: OS News
+
+William Brown, developer of webauthn-rs, has written a scathing blog post detailing how corporate interests &#8211; namely, Apple and Google &#8211; have completely and utterly destroyed the concept of passkeys. The basic gist is that Apple and Google were more interested in control and locking in users than in providing a user-friendly passwordless future, and in doing so have made passkeys effectively a worse user experience than just using passwords in a password manager. Since then Passkeys are now seen as a way to capture users and audiences into a platform. What better way to encourage long term entrapment of users then by locking all their credentials into your platform, and even better, credentials that can&#8217;t be extracted or exported in any capacity. Both Chrome and Safari will try to force you into using either hybrid (caBLE) where you scan a QR code with your phone to authenticate &#8211; you have to click through menus to use a security key. caBLE is not even a good experience, taking more than 60 seconds work in most cases. The UI is beyond obnoxious at this point. Sometimes I think the password game has a better ux. The more egregious offender is Android, which won&#8217;t even activate your security key if the website sends the set of options that are needed for Passkeys. This means the IDP gets to choose what device you enroll without your input. And of course, all the developer examples only show you the options to activate &#8220;Google Passkeys stored in Google Password Manager&#8221;. After all, why would you want to use anything else? ↫ William Brown The whole post is a sobering read of how a dream of passwordless, and even usernameless, authentication was right within our grasp, usable by everyone, until Apple and Google got involved and enshittified the standards and tools to promote lock-in and their own interests above the user experience. If even someone as knowledgeable about this subject as Brown, who writes actual software to make these things work, is advising against using passkeys, you know something&#8217;s gone horribly wrong. I also looked into possibly using passkeys, including using things like a Yubikey, but the process seems so complex and unpleasant that I, too, concluded just sticking to Bitwarden and my favourite open source TFA application was a far superior user experience. 
+
+<https://www.osnews.com/story/139447/corporate-greed-from-apple-and-google-have-destroyed-the-passkey-future/>
+
+---
+
+## Gentoo bans use of “AI” tools
+
+date: 2024-04-26, from: OS News
+
+Gentoo, the venerable Linux distribution which in my headcanon I describe as &#8216;classy&#8217;, has banned any use of &#8220;AI&#8221;. A proposal by Gentoo Council member Michał Górny from February of this year banning its use has been unanimously accepted by the Gentoo Council. The new policy reads: It is expressly forbidden to contribute to Gentoo any content that has been created with the assistance of Natural Language Processing artificial intelligence tools. This motion can be revisited, should a case been made over such a tool that does not pose copyright, ethical and quality concerns. ↫ Michał Górny We&#8217;ll have to see how this policy will be implemented, but I like that Gentoo is willing to take a stand. 
+
+<https://www.osnews.com/story/139444/gentoo-bands-use-of-ai-tools/>
+
+---
+
+## Open- source braille embosser | HackSpace #78
+
+date: 2024-04-26, from: Raspberry Pi News (.com)
+
+<p>In the latest issue of HackSpace magazine, out now, Andrew Gregory finds out how Stéphane Godin made an open-source braille embosser. </p>
+<p>The post <a href="https://www.raspberrypi.com/news/open-source-braille-embosser-hackspace-78/">Open- source braille embosser | HackSpace #78</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/open-source-braille-embosser-hackspace-78/>
+
+---
+
+## CloudNativePG 1.23.0, 1.22.3 and 1.21.5 Released!
+
+date: 2024-04-26, from: PostgreSQL News
+
+<p>The <strong>CloudNativePG Community</strong> is excited to announce the release of version
+1.23.0 of the <strong>CloudNativePG Operator</strong>!</p>
+<p>This release brings a host of new features and enhancements, including support
+for PostgreSQL image catalogs, synchronization of user-defined replication
+slots, and Pod Disruption Budget (PDB) configuration.</p>
+<p>We've revised our Community support to enhance our focus and optimize resources.
+The supported versions will be the last minor, plus the previous minor, which will be
+supported for three months once the new minor is out.
+This is in effect adding two more months of support to the outgoing minor over
+what we used to have.</p>
+<h2>What's New in 1.23</h2>
+<h3>PostgreSQL Image Catalogs</h3>
+<p>Say goodbye to PostgreSQL version management headaches! With image catalogs
+based on major versions, managing your database fleet has never been easier.
+Simply request the PostgreSQL major version you need and control how your
+databases stay up-to-date. We've introduced two new resources
+(<code>ClusterImageCatalog</code> and <code>ImageCatalog</code>) and a new stanza
+(<code>spec.imageCatalogRef</code>), setting the stage for simpler management of default images.
+The Community will provide catalogs, and you could also use third-party ones,
+or even build your own.</p>
+<h3>Synchronization of User-Defined Replication Slots</h3>
+<p>Ensure seamless failover with extended physical replication slot
+synchronization, now covering persistence of user-defined slots after failover.</p>
+<h3>Pod Disruption Budget (PDB) Configuration</h3>
+<p>Customize PDB settings with the new <code>.spec.enablePDB</code> field. Disable PDBs
+on primary instances for single-instance deployments, ensuring smooth pod
+eviction during maintenance operations. This marks our first step towards
+deprecating the node maintenance window feature.</p>
+<h2>Upgrade and Maintenance</h2>
+<p>Before upgrading, carefully review the
+<a href="https://cloudnative-pg.io/documentation/current/installation_upgrade/#upgrading-to-1230-1223-or-1215">detailed instructions</a>.
+New patch releases are now available for all supported versions, including
+1.22.3 and 1.21.5.</p>
+<p>We recommend upgrading to CloudNativePG 1.23.0 at your earliest convenience.
+Alternatively, update to the latest patch version within your current minor
+release.</p>
+<h2>End of Life Announcement</h2>
+<p>With the release of 1.23.0, the 1.21.x minor version will reach its <a href="https://cloudnative-pg.io/documentation/1.23/supported_releases/#support-status-of-cloudnativepg-releases">end of
+life</a>
+on May 24, 2024. Plan your upgrade to ensure continued support and
+security.</p>
+<h2>Join the Community</h2>
+<p>Become a valued member of our expanding open-source, vendor-neutral, and openly
+governed Community! Engage with fellow users, exchange insights, and receive
+support! Join our <a href="https://cloudnativepg.slack.com/join/shared_invite/zt-237bhehx3-htDW2kz2hKJxEhn1W4VTnw#/shared-invite/email">Slack channel</a>
+and follow us on <a href="https://twitter.com/CloudNativePg">X (Twitter)</a> to stay informed
+about the latest news and announcements.</p>
+<h2>Release Notes</h2>
+<p>For a comprehensive list of changes and bug fixes, check out the release notes
+for:</p>
+<ul>
+<li><a href="https://cloudnative-pg.io/documentation/1.23/release_notes/v1.23/">1.23.0</a></li>
+<li><a href="https://cloudnative-pg.io/documentation/1.22/release_notes/v1.22/">1.22.3</a></li>
+<li><a href="https://cloudnative-pg.io/documentation/1.21/release_notes/v1.21/">1.21.5</a></li>
+</ul>
+<p>Thank you for your ongoing support and engagement with CloudNativePG! Upgrade
+today and unlock the full potential of your PostgreSQL deployments.</p>
+<h2>About CloudNativePG</h2>
+<p><a href="https://cloudnative-pg.io">CloudNativePG</a> stands as a groundbreaking
+open-source Kubernetes Operator designed explicitly for PostgreSQL workloads.
+Seamlessly orchestrating the entire life cycle of a PostgreSQL cluster,
+CloudNativePG takes charge from bootstrapping and configuration to ensuring
+high availability, connection routing, and comprehensive backup and disaster
+recovery mechanisms.
+Leveraging PostgreSQL's native streaming replication, CloudNativePG efficiently
+distributes data across pods, nodes, and zones, utilizing standard Kubernetes
+patterns. This enables seamless scaling of replicas in a Kubernetes-native
+manner, with the operator autonomously and safely reconfiguring replication as
+needed.
+Originally conceived and supported by <a href="https://www.enterprisedb.com/">EDB</a>,
+CloudNativePG represents a paradigm shift in managing PostgreSQL workloads
+within Kubernetes environments.</p> 
+
+<https://www.postgresql.org/about/news/cloudnativepg-1230-1223-and-1215-released-2849/>
+
+---
+
+## This year's call for expressions of interest to join our board
+
+date: 2024-04-26, from: Crossref Blog
+
+<p>The Crossref Nominating Committee is inviting expressions of interest to join the Board of Directors of Crossref for the term starting in January 2025. The committee will gather responses from those interested and create the slate of candidates that our membership will vote on in an election in September.</p>
+<p><strong>Expressions of interest will be due Monday, May 27th, 2024</strong></p>
+<p>This is an exciting time to join the board, as we have a number of active projects underway: We are considering resourcing Crossref for a sustainable future and board members will be part of deciding any changes to our fees scheme and overseeing its implementation. We&rsquo;re focusing on how our community and metadata can contribute to ensuring the integrity of the scholarly record. We’re broadening our metadata record to capture richer funding and institutional affiliations. We&rsquo;re working towards a future where the scholarly record prioritizes relationships between research outputs to build a holistic research nexus. The board helps guide this work.</p>
+<h3 id="about-the-board-elections">About the board elections</h3>
+<p>The board is elected through the “one member, one vote” policy wherein every member organization of Crossref has a single vote to elect representatives to the Crossref board. Board terms are for three years, and this year, there are four seats open for election.</p>
+<p>The board maintains a balance of seats, with eight seats for smaller members and eight seats for larger members (based on total revenue to Crossref). This is an effort to ensure that the scholarly community&rsquo;s diversity of experiences and perspectives is represented in decisions made at Crossref.</p>
+<p>This year, we will elect two of the larger member seats (membership tiers $3,900 and above) and two of the smaller member seats (membership tiers $1,650 and below). You don’t need to specify which seat you are applying for; we will provide that information to the nominating committee.</p>
+<p>The online election will open in September, with results announced at the annual meeting on October 29th, 2024. New members will begin their term in January 2025.</p>
+<h3 id="about-the-nominating-committee">About the Nominating Committee</h3>
+<p>The Nominating Committee reviews the expressions of interest and selects a slate of candidates for election. The slate put forward will exceed the total number of open seats. The committee considers the statements of interest, organizational size, geography, and experience.</p>
+<p>2024 Nominating Committee</p>
+<ul>
+<li>James Phillpotts*, Director of Content Transformation and Standards, Oxford University Press, committee chair</li>
+<li>Oscar Donde*, Editor in Chief, Pan Africa Science Journal</li>
+<li>Rose L’Huillier*, Senior Vice President Researcher Products, Elsevier</li>
+<li>Ivy Mutambanengwe-Matanga, Chief Operating Officer, African Journals Online</li>
+<li>Adam Sewell, Chief Technology Officer, IOP Publishing</li>
+</ul>
+<p>(*) indicates Crossref board member</p>
+<h3 id="what-is-the-committee-looking-for-this-year">What is the committee looking for this year</h3>
+<p>The committee looks for skills and experience that will complement the rest of the board. Candidates from countries and regions not currently reflected on the board are strongly encouraged to apply. Successful candidates often have some or all of these characteristics:</p>
+<ul>
+<li>Demonstrate a commitment to or understanding of our <a href="https://www.crossref.org/strategy/" target="_blank">strategic agenda</a> or the <a href="https://openscholarlyinfrastructure.org/" target="_blank">Principles of Open Scholarly Infrastructure</a>;</li>
+<li>Have expertise that may be underrepresented on the board currently;</li>
+<li>Hold senior/director-level positions in their organizations;</li>
+<li>Have experience with governance or community involvement;</li>
+<li>Represent member organizations that are active in the scholarly communications ecosystem;</li>
+<li>Demonstrate metadata best practices as shown in the member’s <a href="https://www.crossref.org/members/prep/" target="_blank">participation report</a></li>
+</ul>
+<p>The board is also encouraging Crossref members who are research funders to apply.</p>
+<h3 id="board-roles-and-responsibilities">Board roles and responsibilities</h3>
+<p>Crossref’s services provide a central infrastructure for scholarly communications. Crossref’s board helps shape the future of our services and by extension, impacts the broader scholarly ecosystem. We are looking for board members to contribute their experience and perspective.</p>
+<p>The role of the board at Crossref is to provide strategic and financial oversight of the organization, as well as guidance to the Executive Director and the staff leadership team, with the key responsibilities being:</p>
+<ul>
+<li>Setting the strategic direction for the organization;</li>
+<li>Providing financial oversight; and</li>
+<li>Approving new policies and services.</li>
+</ul>
+<p>The board is representative of our membership base and guides the staff leadership team on trends affecting scholarly communications. The board sets strategic directions for the organization while also providing oversight into policy changes and implementation. Board members have a fiduciary responsibility to ensure sound operations. They do this by attending board meetings as well as joining more specific board committees.</p>
+<h3 id="who-can-apply-to-join-the-board">Who can apply to join the board?</h3>
+<p>Any active member of Crossref can apply to join the board. Crossref membership is open to organizations that produce content, such as academic presses, commercial publishers, standards organizations, and research funders.</p>
+<h3 id="what-is-expected-of-board-members">What is expected of board members?</h3>
+<p>Board members attend four meetings each year that typically take place in January, March, July, and November. Meetings have taken place in a variety of international locations and travel support is provided when needed. January, March, and November board meetings are held virtually, and all committee meetings take place virtually. Each board member should sit on at least one Crossref committee. Care is taken to accommodate the wide range of time zones in which our board members live.</p>
+<p>While the expressions of interest are specific to an individual, the seat that is elected to the board belongs to the member organization. The primary board member also names an alternate who may attend meetings in the event that the primary board member is unable to. There is no personal financial obligation to sit on the board. The member organization must remain in good standing.</p>
+<p>Board members are expected to be comfortable assuming the responsibilities listed above and to prepare and participate in board meeting discussions.</p>
+<h3 id="how-to-apply">How to apply</h3>
+<p>Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSf5m9mXCYRGQgu_6qlo7xaIz0LyFgmzIXTeOC-UW8_2C20pmw/viewform" target="_blank">click here to submit your expression of interest</a>. We ask for a brief statement about how your organization could enhance the our board and a brief personal statement about your interest and experience with Crossref.</p>
+<p>Please contact me with any questions at <a href="mailto:lofiesh@crossref.org">lofiesh@crossref.org</a></p> 
+
+<https://www.crossref.org/blog/this-years-call-for-expressions-of-interest-to-join-our-board/>
+
+---
+
+## FTC Bans Noncompetes
+
+date: 2024-04-25, from: Michael Tsai
+
+FTC (tweet, Hacker News): Today, the Federal Trade Commission issued a final rule to promote competition by banning noncompetes nationwide, protecting the fundamental freedom of workers to change jobs, increasing innovation, and fostering new business formation. [&#8230;] The FTC estimates that the final rule banning noncompetes will lead to new business formation growing by 2.7% [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/25/ftc-bans-noncompetes/>
+
+---
+
+## FCC Reinstates Network Neutrality
+
+date: 2024-04-25, from: Michael Tsai
+
+Jon Brodkin (Hacker News, Slashdot): The Federal Communications Commission voted 3&#x2013;2 to impose net neutrality rules today, restoring the common-carrier regulatory framework enforced during the Obama era and then abandoned while Trump was president.The rules prohibit Internet service providers from blocking and throttling lawful content and ban paid prioritization.[&#8230;]The court battle against the FCC will [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/25/fcc-reinstates-network-neutrality/>
+
+---
+
+## Alexa Copyright Violations
+
+date: 2024-04-25, from: Michael Tsai
+
+Lindsay Clark (via Hacker News): According to Ghaderi&#8217;s account in the complaint, she returned to work after giving birth in January 2023, inheriting a large language model project. Part of her role was flagging violations of Amazon&#8217;s internal copyright policies and escalating these concerns to the in-house legal team. In March 2023, the filing claims, [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/25/alexa-copyright-violations/>
+
+---
+
+##  Just a Beautiful Drawing of Bluebells 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/just-a-beautiful-drawing-of-bluebells>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-25, from: Dave Winer's Scripting News)
+
+When you really have federation no one needs to hype it, people don't even realize it because things just work the way you expect them to. Every time I hear "Where ever you get your podcasts," I'm reminded of how well that worked. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/04/25.html#a200556>
+
+---
+
+## Ideas for my dream CMS
+
+date: 2024-04-25, from: Dave Rupert blog
+
+<p>Matt Haughey wrote <a href="https://a.wholelottanothing.org/a-blueprint-of-my-dream-blogging-cms/">a blueprint for his “Dream CMS”</a> and <a href="https://shoptalkshow.com/612/">we had him on ShopTalk</a> to talk about it. That got me thinking about what features I’d want in <em>my</em> dream CMS. It’s fun to think of what a modern CMS might have like inline editing, asset serving, monetization/membership functionality, and more imaginative comment moderation.</p>
+<p>Most of my dream CMS features center around improving my writing and content surfacing. All these ideas seem like a pretty good fit for LLMs or AI, even though I don’t drink from that particular well often.</p>
+<h2>1. On-the-fly fact-checking</h2>
+<p>As <a href="https://daverupert.com/2024/03/lies-damned-lies-and-stochastics/">I think more about verifying outputs</a>, I’d love a feedback tool that did a quick fact check before I hit publish. Did I not cite a source? Did I make a false assertion that ruins the credibility of the whole post? Did I not consider some perspective I should have? Am I just bitching and moaning? CMS, help me, please! I’m making an idiot out of myself.</p>
+<h2>2. Auto-tagging</h2>
+<p>I write a lot of posts but I’m shit at tagging them. I wish I could tell my CMS “Hey, here’s a general list of topics I write about, please recommend tags before I hit publish.” Then I think it’d be cool if the little robot butler could crawl old posts suggest tags for those or find themes emanating from my subconscious that I hadn’t picked up on.</p>
+<aside>
+<p>Sideblog: IMHO, tag templates are an underserved part of web design and it’s my goal to give all my tag pages the full blow-out treatment like I started to do with my <a href="https://daverupert.com/tag/vibecheck">vibechecks</a>.</p>
+</aside>
+<h2>3. Topic bundling</h2>
+<p>À la auto-tagging, it would be neat if a CMS observed my content at a high-level and suggested opportunities to bundle posts of a similar theme into an online “zine” to offer new topic-based entry points for new readers. My lists of reverse chronological posts are thematically scattershot and I think some readers might find this more useful.</p>
+<p>This idea gets into listicle territory pretty quick, but I often pull on thought threads over the course of months or years but that is entirely unsurfaced on my blog. I’d also love it if the machine could bundle links I share on my Mastodon feed to pull in other perspectives as well.</p>
+<h2>4. Idea validation</h2>
+<p>I’d love to know what content is outperforming other content. I’m sure I could piece this together myself with a half-dozen spreadsheets from Google Analytics, but I’d love to log into my CMS and know “Your CSS posts tend to have 10x engagement over your longform thoughtvomit” or “Your shitposts are driving traffic but are negatively impacting the quality of your site”. I don’t play the engagement game much but I’d love some data-driven validation nudging me in a positive direction when I’m discouraged, perhaps it could even suggest a handful of topics.</p>
+<p>There’s a gross content farm machine version of this idea that identifies popular topics, suggests titles, an LLM writes posts based on those titles, and Dall-E plops an unsplashy image at the top… but that gives me the ick. At that point, you’re not blogging your thoughts or offering anyone any human value, you’re just clicking ✨ Sparkle Buttons.</p>
+<hr />
+<p>For what it’s worth, baking these features into a CMS has little material benefit for me. This site is statically generated from markdown so it’s practically the opposite of a full-featured CMS. Or… perhaps it’s the perfect situation to start exploring some of these ideas.</p> 
+
+<https://daverupert.com/2024/04/ideas-for-my-dream-cms/>
+
+---
+
+##  Life-Ruining Mistakes? 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/life-ruining-mistakes>
+
+---
+
+## Ubuntu 24.04 LTS released
+
+date: 2024-04-25, from: OS News
+
+It wasn&#8217;t too long ago that new Ubuntu releases were major happenings in the Linux world, as it was the default Linux distribution for many, both old and newcomers, in the desktop Linux space. These days, Ubuntu release hit a little different, with Canonical&#8217;s focus having shifted much more to the enterprise, and several aspects of the distribution being decidedly unpopular, like the snap package management system. Still, Ubuntu is probably still one of the most popular, if not the most popular, distributions out there, so any new release, like today&#8217;s Ubuntu 24.0 LTS, is still a big deal. Ubuntu Desktop brings the Subiquity installer to an LTS for the first time. In addition to a refreshed user experience and a minimal install by default, the installer now includes experimental support for ZFS and TPM-based full disk encryption and the ability to import auto-install configurations. Post install, users will be greeted with the latest GNOME 46 alongside a new App Center and firmware-updater. Netplan is now the default for networking configuration and supports bidirectionality with NetworkManager. ↫ Utkarsh Gupta on ubuntu-announce Of course, all the various other Ubuntu editions have also seen new releases: Edubuntu, Kubuntu, Lubuntu, Ubuntu Budgie, Ubuntu Cinnamon, Ubuntu Kylin, Ubuntu MATE, Ubuntu Studio, Ubuntu Unity, and Xubuntu. Yes, that&#8217;s a long list. They all mostly share the same improvements as Ubuntu&#8217;s main course, but paired with the latest versions of the respective desktop environments instead. Except for Kubuntu. Unlike just about any other major distribution released over the last few months, such as Fedora 40 only a few days ago, Kubuntu does not ship with the new KDE Plasma 6, opting for Plasma 5.27.11 instead. There simply wasn&#8217;t enough time between the release of Plasma 6 and the Ubuntu feature freeze, so they made the &#8211; in my opinion &#8211; understandable call to stick to Plasma 5 for now, moving Plasma 6 to the next release later this year. 
+
+<https://www.osnews.com/story/139439/ubuntu-24-04-lts-released/>
+
+---
+
+##  The Feeling That the Time for Doing Something Has Passed 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/the-feeling-that-the-time-for-doing-something-has-passed>
+
+---
+
+## NASA Finds New Homes for Artemis Generation of ‘Moon Trees’ Across US
+
+date: 2024-04-25, from: NASA breaking news
+
+After careful review of hundreds of applications, NASA has selected organizations from across the country to receive ‘Moon Tree’ seedlings that flew around the Moon on the agency’s Artemis I mission in 2022, to plant in their communities. Notifications to selected institutions will be made in phases, with the first beginning this spring, followed by [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-finds-new-homes-for-artemis-generation-of-moon-trees-across-us/>
+
+---
+
+##  Size XXXS, Miniature Sweaters 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/size-xxxs>
+
+---
+
+##  &#8220;I have no training for this work. I got the job by... 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044484-i-have-no-training-for>
+
+---
+
+## NASA’s Optical Comms Demo Transmits Data Over 140 Million Miles
+
+date: 2024-04-25, from: NASA breaking news
+
+NASA’s Deep Space Optical Communications experiment also interfaced with the Psyche spacecraft’s communication system for the first time, transmitting engineering data to Earth. Riding aboard NASA’s Psyche spacecraft, the agency’s Deep Space Optical Communications technology demonstration continues to break records. While the asteroid-bound spacecraft doesn’t rely on optical communications to send data, the new technology [&#8230;] 
+
+<https://www.nasa.gov/missions/psyche-mission/nasas-optical-comms-demo-transmits-data-over-140-million-miles/>
+
+---
+
+##  Diary Comics, Dec. 15 & 16 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/diary-comics-dec-15-16>
+
+---
+
+## Corporate Open Source is Dead
+
+date: 2024-04-25, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Corporate Open Source is Dead</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>IBM is <a href="https://www.reuters.com/markets/deals/ibm-buy-hashicorp-64-billion-deal-expand-cloud-software-2024-04-24/">buying HashiCorp for $6.4 <em>billion</em></a>.</p>
+
+<p>That's four months after <a href="https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license">HashiCorp rugpulled their <em>entire</em> development community</a> and ditched open source for the 'Business Source License.'</p>
+
+<p>As <a href="https://news.ycombinator.com/item?id=40135490">someone on Hacker News</a> pointed out so eloquently:</p>
+
+<blockquote>
+  <p>IBM is like a juicer that takes all the delicious flavor out of a fruit</p>
+</blockquote>
+
+<p>skywhopper replied:</p>
+
+<blockquote>
+  <p>HashiCorp has done a good job of pre-draining any flavor it once had.</p>
+</blockquote>
+
+<p><a href="https://twitter.com/jgunnink/status/1783303926042996928">Some people wonder</a> if HashiCorp's decision to drop open source was <em>because</em> they wanted to juice the books for a higher price. I mean, <em>six billion dollars?</em> And they're not even a pointless AI company!</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-04-25T11:38:43-05:00" title="Thursday, April 25, 2024 - 11:38" class="datetime">April 25, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/corporate-open-source-dead>
+
+---
+
+## Navigating the Moon with Art
+
+date: 2024-04-25, from: NASA breaking news
+
+An artist uses an airbrush to recreate the lunar surface on one of the four models comprising the LOLA, or Lunar Orbit and Landing Approach, simulator in this November 12, 1964, photo. Project LOLA was a simulator built at Langley to study problems related to landing on the lunar surface. In “Spaceflight Revolution: NASA Langley [&#8230;] 
+
+<https://www.nasa.gov/image-article/navigating-the-moon-with-art/>
+
+---
+
+##  A Huge Collaborative Flipbook Animation 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/a-huge-collaborative-flipbook-animation>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-25, from: Dave Winer's Scripting News)
+
+A <a href="https://chat.openai.com/share/a5f524c2-e9c2-480f-9587-9ef2ee5f74b8">backgrounder</a> on how the web is used for conversation, the pros and cons of each variant, and what role RSS can play in it, thanks to ChatGPT. 
+
+<http://scripting.com/2024/04/25.html#a155555>
+
+---
+
+## Too little, and too much, self-promotion
+
+date: 2024-04-25, from: Manu - I write blog
+
+
+                <p>Self-promotion is a weird subject. It’s one of those things that is strictly tied to who you are as a person. I am, broadly speaking, a shy and reserved person. I don’t like to be in the spotlight, I don’t like to draw attention to myself. I also really care about other people's space and time, which is why I’ve always been incredibly conservative when it comes to promoting things I do online.</p>
+<p>Every time I need to do something that is marketing-related, I can feel the tension in my brain as if a part of me is trying to fight against it. And this is for the most benign things. I’ll give you an example. I recently edited all P&amp;B interviews and added a line at the end of the intro that reads:</p>
+<blockquote>
+<p>If you're enjoying the People and Blogs series and you want to see it grow, consider supporting on Ko-Fi.</p>
+</blockquote>
+<p>A line of text and a link. The reason why I did that is because the only place where Ko-Fi was mentioned was way at the of each interview and I thought that most people probably stop reading when they reach the end of the interview. And so I added that single line. But adding that single line was a struggle. Because in my head, it’s obvious that if you do enjoy something and are willing to support it, you’d probably go look for a way to do it. That’s how my brain works. But unfortunately, that’s not how the internet works. Apparently, the correct approach seems to be the opposite one. You have to constantly remind people to like and subscribe, to support, to contribute, and to share.</p>
+<p>How much self-promotion is too much? Substack interrupting your reading experience to remind you to subscribe feels too much to me. An overlay interrupting your browsing to ask you to subscribe to a newsletter is also too much. Am I wrong? Am I crazy in thinking it’s too much?</p>
+<p>Also, is promoting something I’m doing any different than advertising? I know it’s conceptually not the same thing but for you, on the other side of this, is it any different? So many questions. It’s goddamn hard to do “marketing” with integrity.</p>                <hr>
+                <h2>Get in touch</h2>                <p>Have something to share? Want me as your <a href="https://manuelmoreale.com/i-ll-read-it">first reader</a>? Get in touch. My inbox is always open.</p>                <a href="mailto:hello@manuelmoreale.com">Connect</a> — 
+                <a href="https://manuelmoreale.com/guestbook">Guestbook</a>
+                <hr>
+                <h2>One a month</h2>                <p>That's how little it takes to help with my <a href="https://manuelmoreale.com/on-dreams-and-goals">goal</a>. If you feel generous, consider supporting what I do.</p>                <a href="https://ko-fi.com/manuelmoreale">Donate</a> — 
+                <a href="https://manuelmoreale.com/supporters">Supporters</a>
+                <hr>
+                <h2>People and Blogs</h2>                <p>I ask people to talk about themselves and their blogs. <a href="https://peopleandblogs.com/">Learn more</a> or subscribe.</p>                <a href="https://manuelmoreale.com/feed/peopleandblogs">RSS</a> — 
+                <a href="https://buttondown.email/peopleandblogs">Email</a>
+             
+
+<https://manuelmoreale.com/@/page/ShBJdZxPWoH3qe85>
+
+---
+
+## Llamafile’s progress, four months in
+
+date: 2024-04-25, from: Mozilla Developer Network blog
+
+<p>When Mozilla’s Innovation group first launched the llamafile project late last year, we were thrilled by the immediate positive response from open source AI developers. It’s become one of Mozilla’s top three most-favorited repositories on GitHub, attracting a number of contributors, some excellent PRs, and a growing community on our Discord server.</p>
+<p>The post <a href="https://hacks.mozilla.org/2024/04/llamafiles-progress-four-months-in/">Llamafile’s progress, four months in</a> appeared first on <a href="https://hacks.mozilla.org">Mozilla Hacks - the Web developer blog</a>.</p>
+ 
+
+<https://hacks.mozilla.org/2024/04/llamafiles-progress-four-months-in/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-25, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/06/29/alice.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I don't think conversation on the web has been the big benefit some people think. Do you remember when you first realized that people weren't talking to you in a response to your post, they were talking over your shoulder to the people who read your post. I guess it depends on who you are, but I don't see any value in providing a surface for spam. These days I block people without much thought if I think that's what they're doing. So, why should you design a protocol, and pay the cost of supporting, something that is a vector for spam and abuse? That's the argument in favor of using <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> to glue things together. You can comment on my post, in your space, but my followers don't have to see it. That's up to me. I think it would change the nature of discourse, for the better. 
+
+<http://scripting.com/2024/04/25.html#a153349>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-04-25, from: Tomosino's Mastodon feed)
+
+<p>One of today's highlights is the installation InStability, an interactive exhibit by two close friends ( <span class="h-card" translate="no"><a href="https://mas.to/@karafuto" class="u-url mention" rel="nofollow noopener noreferrer" target="_blank">@<span>karafuto</span></a></span> ) that explores seizmic activity in the Reykjanes peninsula (Reykjavík-ish). Using capacitive textiles and pressure sensitive layers the exhibit lets visitors touch the land and create earthquakes at their fingertips. The many seizmic sensors across the land light up as the waves propagate. A deep soundscape (hard to video) permeates the entire venue (a small concert hall) as the quakes strike. </p><p>I was lucky enough to help a tiny bit in the production of the textiles a few evenings. They did such an amazing job. I'm so proud.</p><p>If you're in <a href="https://tilde.zone/tags/reykjavik" class="mention hashtag" rel="tag">#<span>reykjavik</span></a> swing by Mengi this weekend to see it in action.</p> 
+
+<https://tilde.zone/@tomasino/112332579124731333>
+
+---
+
+## Johnson Unveils Modern Four Nine Team Conference Center
+
+date: 2024-04-25, from: NASA breaking news
+
+On April 10, 2024, Johnson Space Center celebrated the opening of the Four Nine Team conference center housed in building 419. The event marked the unveiling of a dynamic hub for Johnson employees, whether for team brainstorms, meetings with offsite companies, or remote work for those not typically onsite.&#160;&#160; During the open house, selected vendors [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/johnson-unveils-modern-four-nine-team-conference-center/>
+
+---
+
+##  Kelly Hayes: the double standards of conservatism (i.e. &#8220;there must be in-groups... 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044485-kelly-hayes-the-double-st>
+
+---
+
+##  The Biden administration is imposing new regulations on coal burning power plants.... 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044487-the-biden-administration->
+
+---
+
+##  What Bird Is That? 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/what-bird-is-that>
+
+---
+
+## Does AI Know What an Apple Is? She Aims to Find Out.
+
+date: 2024-04-25, from: Quanta Magazine
+
+The computer scientist Ellie Pavlick is translating philosophical concepts such as “meaning” into concrete, testable ideas.            <p>The post <a href="https://www.quantamagazine.org/does-ai-know-what-an-apple-is-she-aims-to-find-out-20240425/" target="_blank">Does AI Know What an Apple Is? She Aims to Find Out.</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/does-ai-know-what-an-apple-is-she-aims-to-find-out-20240425/>
+
+---
+
+## The only viable Android and iOS competitor intends to leave China and go global
+
+date: 2024-04-25, from: OS News
+
+Huawei plans to expand its native HarmonyOS smartphone platform worldwide, despite coming under US-led sanctions that have deprived it of access to key technologies. The Chinese tech megacorp released its own phone platform in 2019, the same year that US sanctions blocked Huawei from having further access to Google&#8217;s Android software to power its devices. More recently, the company saw its Mate 60 Pro smartphone become the top selling device in China&#8217;s huge consumer market, displacing rivals such as Apple&#8217;s iPhone. It also has a newer device, the Pura 70, that could pose a bigger threat to Apple sales in the country. ↫ Dan Robinson at The Register If there is one company that has the capabilities and will to truly offer a third alternative, it&#8217;s Huawei with HarmonyOS. This company has the full might of the Chinese state behind it, and it clearly has the drive to prove itself after the various sanctions levied against it in recent years that barred it from using Google&#8217;s Android. It&#8217;s obviously already experiencing major success in its home market, but now the company intends to go global, country by country, to positino HarmonyOS alongside iOS and Android. Huawei basically takes a brute-force approach, explaining that they identify the 5000 most popular applications, which they claim cover 99% of users&#8217; time with their smartphones, and port those over first. I&#8217;m not entirely sure how they convince developers to port over their applications, but I&#8217;m guessing money is involved. Fair play, I would say &#8211; it&#8217;s not like anything else is going to break the stranglehold Apple and Google have over the mobile application market. We haven&#8217;t really spent much time talking about HarmonyOS in the west in general, and on OSNews in particular, which is a bit of a shame because it has some interesting characteristics. For instance, it has a multi-kernel design, where it uses the Linux kernel on more powerful devices like smartphones and tablets, and the RTOS LiteOS kernel on lower power IoT devices. DSoftBus is another interesting part of the operating system, which allows multiple devices to kind of join together and share data, applications, and control seamlessly. HarmonyOS supports both Android and true HarmonyOS applications, the latter of which are marked with a little logo in the corner of the application icon, but the unique features of HarmonyOS, like DSoftBus, are only accessible to true HarmonyOS applications. Developing these native applications can be done in DevEco Studio, which is built atop IntelliJ IDEA, using ArkUI. Huawei even went so far as to develop its own browser engine for HarmonyOS, which it recently released as open source, called ArkWeb. While HarmonyOS currently still supports running Android applications, this will soon no longer be the case as the company is working on HarmonyOS NEXT, which will remove Android compatibility to focus entirely on true HarmonyOS applications instead. NEXT also does away entirely with the multikernel approach, ditching both the Linux and LiteOS kernels for a new HarmonyOS microkernel, and uses Huawei&#8217;s own Cangjie programming language for application development. HarmonyOS NEXT is currently being tested on a variety of Huawei devices, with a beta and final release planned for later this year. It&#8217;s just our luck that the only potentially viable competitor to Android and iOS is a party closed-source operating system from China, which will surely bring with it a whole host of security concerns in the west. It&#8217;s really difficult at the moment to ascertain just how much of HarmonyOS &#8211; and specifically, HarmonyOS NEXT &#8211; is available as open source, which is a major bummer. I don&#8217;t think I&#8217;d ever want to use a (partly) closed source Chinese operating system for anything major in my life, but if it&#8217;s open source we could at least see non-Chinese forks that I&#8217;d find easier to trust. The road of iOS and Android competitors is littered with the bodies of failed attempts &#8211; Symbian, the various iterations of Windows Phone, BlackBerry, Sailfish, Ubuntu Touch, the GNOME/Plasma attempts that just can&#8217;t grow beyond proof of concepts &#8211; and there is no way to know if Huawei can pull off outside of China what it did with HarmonyOS inside China. Western markets are incredibly weary of anything related to Huawei, and for all we know, this operating system won&#8217;t ever even be allowed inside the US and the EU in the first place. Regardless of international politics and the CCP&#8217;s brutal, totalitarian, genocidal regime, HarmonyOS NEXT seems like a very interesting platform with fresh ideas, and I&#8217;d love to at least try it out once it hits international markets with proper localisation into English. I&#8217;ll take a problematic Chinese smartphone operating system competitor over no competitor at all &#8211; even if I won&#8217;t use it myself, it&#8217;ll be at least some form of competition both Apple and Google desperately need. 
+
+<https://www.osnews.com/story/139424/the-only-viable-android-and-ios-competitor-intends-to-leave-china-and-go-global/>
+
+---
+
+## Palm OS and the devices that ran it
+
+date: 2024-04-25, from: OS News
+
+But just as smartphones would do, PDAs offered a dizzying array of operating systems and applications, and a great many of them ran Palm OS. (I bought my first Palm, an m505, new in 2001, upgrading from an HP 95LX.) Naturally, there’s no way we could enumerate every single such device in this article. So in this Ars retrospective, we’ll look back at some notable examples of the technical evolution of the Palm operating system and the devices that ran it—and how they paved the way for what we use now. ↫ Cameron Kaiser at Ars Technica This sure takes me back to my own in-depth Palm retrospective from &#8211; checks notes &#8211; 11 years ago (!). It turns out all the images from that article no longer load, so I should set aside some time to fix that up. 
+
+<https://www.osnews.com/story/139434/palm-os-and-the-devices-that-ran-it/>
+
+---
+
+##  How teens benefit from having the choice to read &#8220;disturbing&#8221; books. They... 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044479-how-teens-benefit-from-re>
+
+---
+
+## Washington State High Schooler Wins 2024 NASA Student Art Contest
+
+date: 2024-04-25, from: NASA breaking news
+
+A 12th grade artist with a passion for NASA and space took home the top prize for the 2024 NASA Student Art Contest, a nationwide competition hosted by NASA’s Langley Research Center in Hampton, Virginia. Esther Lee, of Washington State, was selected as the grand prize winner for her submission “Beyond Imagination,” which depicts a [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/langley/washington-state-high-schooler-wins-2024-nasa-student-art-contest/>
 
 ---
 
@@ -41,7 +739,7 @@ I have an essay coming out in the July issue of Harper’s which I titled “The
 
 **@Dave Winer's Scripting News** (date: 2024-04-25, from: Dave Winer's Scripting News)
 
-ChatGPT has memory across chats. This just <a href="https://imgs.scripting.com/2024/04/25/chatgptmessage.png">popped up</a> on the screen. I'd like to tell it that until further notice I use Node.js and do not use Express, and do use jQuery for my browser-based JavaScript, and I use the debugger all the time, so you can assume that. If this works, I now have a programming partner with memory. And maybe I can somehow get it to read all my blog posts going back 30 years? I have good archives of most of it. I fed Also, of course I <a href="https://imgs.scripting.com/2024/04/25/chatgptcomments.png">fed this post</a> to ChatGPT of course. 
+ChatGPT has memory across chats. This just <a href="https://imgs.scripting.com/2024/04/25/chatgptmessage.png">popped up</a> on the screen. I'd like to tell it that until further notice I use Node.js and do not use Express, and do use jQuery for my browser-based JavaScript, and I use the debugger all the time, so you can assume that. If this works, I now have a programming partner with memory. And maybe I can somehow get it to read all my blog posts going back 30 years? I have good archives of most of it. Also, of course I <a href="https://imgs.scripting.com/2024/04/25/chatgptcomments.png">fed this post</a> to ChatGPT of course. So ChatGPT is not resting on its laurels. That's good. I'd really like a <i>Personal ChatGPT, </i>and this is on the way to that goal. 
 
 <http://scripting.com/2024/04/25.html#a123234>
 
@@ -66,6 +764,16 @@ date: 2024-04-25, updated: 2024-04-25, from: One Foot Tsunami
  
 
 <https://onefoottsunami.com/2024/04/25/i-hope-we-eventually-get-to-see-the-painting/>
+
+---
+
+## My favorite books for tech writers
+
+date: 2024-04-25, from: Blog by Fabrizio Ferri-Benedetti
+
+<p>Recommending books for technical writers that aren&rsquo;t <a href="https://passo.uno/why-collect-read-old-computer-manuals/">old technical manuals</a> is hard. There are very few books on the craft of technical writing, a shortage that I find sharply ironic for a writers&rsquo; profession like ours. When <a href="https://passo.uno/how-did-i-become-tech-writer/">I became a tech writer</a>, the books that helped me the most were about other topics that make up the job, like English language, design, and the programmer&rsquo;s mind. Let me share them with you.</p> 
+
+<https://passo.uno/best-tech-writing-books/>
 
 ---
 
@@ -148,6 +856,47 @@ date: 2024-04-25, updated: 2024-04-25, from: Robin Rendle Essays
  
 
 <https://robinrendle.com/notes/designing-the-cascade/>
+
+---
+
+## pgmoneta 0.11
+
+date: 2024-04-25, from: PostgreSQL News
+
+<p>The <a href="https://pgmoneta.github.io/">pgmoneta</a> community is happy to
+announce version <a href="https://pgmoneta.github.io/release/announcement/2024/04/23/pgmoneta-0.11.0.html">0.11.0</a>.</p>
+<p><strong>New features</strong></p>
+<ul>
+<li>Hot standby</li>
+<li>Improved tracking of timelines</li>
+<li>Rate limit for network and disk</li>
+<li>Improve Prometheus metrics</li>
+<li>Support for MacOS</li>
+</ul>
+<p><strong>pgmoneta</strong></p>
+<p><a href="https://pgmoneta.github.io/">pgmoneta</a> is a backup / restore solution for <a href="https://www.postgresql.org/">PostgreSQL</a> 13+.</p>
+<p>Read our <a href="https://pgmoneta.github.io/gettingstarted.html">getting started</a> guide to setup
+<a href="https://pgmoneta.github.io/">pgmoneta</a> for your backup needs.</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>Full backup</li>
+<li>Restore</li>
+<li>Compression (gzip, zstd, lz4, bzip2)</li>
+<li>AES encryption support</li>
+<li>Symlink support</li>
+<li>WAL shipping support</li>
+<li>Prometheus support</li>
+<li>Remote management</li>
+<li>Offline mode</li>
+<li>Transport Layer Security (TLS) v1.2+ support</li>
+<li>Daemon mode</li>
+<li>User vault</li>
+</ul>
+<p>Learn more on our <a href="https://pgmoneta.github.io/">web site</a> or <a href="https://github.com/pgmoneta/pgmoneta">GitHub</a>.
+Follow on <a href="https://twitter.com/pgmoneta">Twitter</a>.</p>
+<p><a href="https://pgmoneta.github.io/">pgmoneta</a> is released under the <a href="https://opensource.org/licenses/BSD-3-Clause">3-clause BSD license</a>.</p> 
+
+<https://www.postgresql.org/about/news/pgmoneta-011-2848/>
 
 ---
 
@@ -1068,7 +1817,7 @@ It&#8217;s a big day for Fedora users such as myself &#8211; and especially for 
 
 date: 2024-04-23, from: Ocelot SQL GUI blog
 
-Progress Software on April 19 said more about &#8220;considering&#8221; an offer for MariaDB plc (the company not the foundation). They own NuSphere which had a dispute with MySQL AB which was settled in 2002. My happy history as a MySQL employee biases me but I thought that NuSphere was not acting angelically. I think it&#8230; <a class="continue" href="https://ocelot.ca/blog/blog/2024/04/23/short-note-re-progress-and-nusphere/">Continue Reading Short note re Progress and NuSphere</a> 
+Progress Software on 2024-04-19 said more about &#8220;considering&#8221; an offer for MariaDB plc (the company not the foundation). They own NuSphere which had a dispute with MySQL AB which was settled in 2002. My happy history as a MySQL employee biases me but I thought that NuSphere was not acting angelically. I think it won&#8217;t&#8230; <a class="continue" href="https://ocelot.ca/blog/blog/2024/04/23/short-note-re-progress-and-nusphere/">Continue Reading Short note re Progress and NuSphere</a> 
 
 <https://ocelot.ca/blog/blog/2024/04/23/short-note-re-progress-and-nusphere/>
 
@@ -1644,16 +2393,6 @@ date: 2024-04-22, updated: 2024-04-22, from: Jason Kottke blog
  
 
 <https://kottke.org/24/04/0044449-this-looks-promising-an-r>
-
----
-
-## Advent of Computing: Episode 129 - ALGOL, Part I
-
-date: 2024-04-22, from: Tilde.news
-
-<p><a href="https://tilde.news/s/8v1vh8/advent_computing_episode_129_algol_part_i">Comments</a></p> 
-
-<https://adventofcomputing.libsyn.com/episode-129-algol-part-i>
 
 ---
 

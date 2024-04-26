@@ -1,11 +1,359 @@
 ---
 title: columns 2024.17
-updated: 2024-04-25 06:01:51
+updated: 2024-04-26 08:51:08
 ---
 
 # columns 2024.17
 
-(date: 2024-04-25 06:01:51)
+(date: 2024-04-26 08:51:08)
+
+---
+
+##  An experimental data sonification of what a &#8220;decentralized, digitized, decarbonized electricity grid&#8221;... 
+
+date: 2024-04-26, updated: 2024-04-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044480-an-experimental-data-soni>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-26, from: Dave Winer's Scripting News)
+
+<a href="https://github.com/scripting/Scripting-News/issues/305">Braintrust query</a>: I'm interested in getting an <a href="https://www.amazon.com/s?k=adjustable+height+desk&crid=MCC8BTA0NVXB&sprefix=adjustable+height+desk%2Caps%2C131&ref=nb_sb_noss_1">adjustable height desk</a>. I'd like to start with an inexpensive one, and if I like it, I'll get a real one. If I can get it via Amazon that would be best. 
+
+<http://scripting.com/2024/04/26.html#a133921>
+
+---
+
+##  Sounds like The Onion has been rescued from an agonizing death by... 
+
+date: 2024-04-26, updated: 2024-04-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044491-sounds-like-the-onion-has>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-26, from: Dave Winer's Scripting News)
+
+I won't believe the NYT has any integrity until they let people criticize them on their op-ed page. 
+
+<http://scripting.com/2024/04/26.html#a121849>
+
+---
+
+## Long Article on GM Spying on Its Cars’ Drivers
+
+date: 2024-04-26, updated: 2024-04-25, from: Bruce Schneier blog
+
+<p>Kashmir Hill has a <a href="https://www.nytimes.com/2024/04/23/technology/general-motors-spying-driver-data-consent.html?unlocked_article_code=1.m00.gIzH.YdQ-yszzdzq6&#038;utm_source=substack&#038;utm_medium=email">really good article</a> on how GM tricked its drivers into letting it spy on them&#8212;and then sold that data to insurance companies.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/04/long-article-on-gm-spying-on-its-cars-drivers.html>
+
+---
+
+## The Supreme Court’s Farce and Ruse
+
+date: 2024-04-26, from: Robert Reich's blog
+
+And Michael Johnson&#8217;s absurd demand 
+
+<https://robertreich.substack.com/p/the-supreme-courts-farce-and-ruse>
+
+---
+
+## The “creative industries”
+
+date: 2024-04-26, from: Tracy Durnell Blog
+
+[O]ur contemporary understanding of creativity and the creative person cannot be separated from their political, commercial, and economic valance. Far from being an innate human essence, creativity as a concept is, then, shaped by systems of power. Our relationship to creativity as a concept is largely a reflection of our relationship to systems of power. [&#8230;] 
+
+<https://tracydurnell.com/2024/04/25/the-creative-industries/>
+
+---
+
+## [Sponsor] WorkOS
+
+date: 2024-04-26, updated: 2024-04-26, from: Daring Fireball
+
+ 
+
+<https://workos.com/?utm_source=daringfireball&utm_medium=display&utm_campaign=q12024>
+
+---
+
+## Horse : Content :: Carriage : Ads
+
+date: 2024-04-25, updated: 2024-04-25, from: Daring Fireball
+
+ 
+
+<https://www.goodreads.com/quotes/9027526-we-don-t-make-movies-to-make-money-we-make-money>
+
+---
+
+## Friday 26 April, 2024
+
+date: 2024-04-25, from: John Naughton's online diary
+
+Warning! I often think I should put this cautionary pic up as a spoiler alert when writing about stuff that’s above my intellectual pay-grade. Quote of the Day ”You have no idea how much nastier I would be if I &#8230; <a href="https://memex.naughtons.org/friday-26-april-2024/39385/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-26-april-2024/39385/>
+
+---
+
+## More on Keycap Shine
+
+date: 2024-04-25, updated: 2024-04-25, from: Daring Fireball
+
+ 
+
+<https://en.wikipedia.org/wiki/Keycap>
+
+---
+
+## ★ Base-Model RAM in Apple Devices
+
+date: 2024-04-25, updated: 2024-04-25, from: Daring Fireball
+
+It’s downright bizarre to think that come this fall, all iPhone 16 models will sport as much RAM as base model Macs. 
+
+<https://daringfireball.net/2024/04/base-model_ram_in_apple_devices>
+
+---
+
+##  Just a Beautiful Drawing of Bluebells 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/just-a-beautiful-drawing-of-bluebells>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-25, from: Dave Winer's Scripting News)
+
+When you really have federation no one needs to hype it, people don't even realize it because things just work the way you expect them to. Every time I hear "Where ever you get your podcasts," I'm reminded of how well that worked. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/04/25.html#a200556>
+
+---
+
+## Ideas for my dream CMS
+
+date: 2024-04-25, from: Dave Rupert blog
+
+<p>Matt Haughey wrote <a href="https://a.wholelottanothing.org/a-blueprint-of-my-dream-blogging-cms/">a blueprint for his “Dream CMS”</a> and <a href="https://shoptalkshow.com/612/">we had him on ShopTalk</a> to talk about it. That got me thinking about what features I’d want in <em>my</em> dream CMS. It’s fun to think of what a modern CMS might have like inline editing, asset serving, monetization/membership functionality, and more imaginative comment moderation.</p>
+<p>Most of my dream CMS features center around improving my writing and content surfacing. All these ideas seem like a pretty good fit for LLMs or AI, even though I don’t drink from that particular well often.</p>
+<h2>1. On-the-fly fact-checking</h2>
+<p>As <a href="https://daverupert.com/2024/03/lies-damned-lies-and-stochastics/">I think more about verifying outputs</a>, I’d love a feedback tool that did a quick fact check before I hit publish. Did I not cite a source? Did I make a false assertion that ruins the credibility of the whole post? Did I not consider some perspective I should have? Am I just bitching and moaning? CMS, help me, please! I’m making an idiot out of myself.</p>
+<h2>2. Auto-tagging</h2>
+<p>I write a lot of posts but I’m shit at tagging them. I wish I could tell my CMS “Hey, here’s a general list of topics I write about, please recommend tags before I hit publish.” Then I think it’d be cool if the little robot butler could crawl old posts suggest tags for those or find themes emanating from my subconscious that I hadn’t picked up on.</p>
+<aside>
+<p>Sideblog: IMHO, tag templates are an underserved part of web design and it’s my goal to give all my tag pages the full blow-out treatment like I started to do with my <a href="https://daverupert.com/tag/vibecheck">vibechecks</a>.</p>
+</aside>
+<h2>3. Topic bundling</h2>
+<p>À la auto-tagging, it would be neat if a CMS observed my content at a high-level and suggested opportunities to bundle posts of a similar theme into an online “zine” to offer new topic-based entry points for new readers. My lists of reverse chronological posts are thematically scattershot and I think some readers might find this more useful.</p>
+<p>This idea gets into listicle territory pretty quick, but I often pull on thought threads over the course of months or years but that is entirely unsurfaced on my blog. I’d also love it if the machine could bundle links I share on my Mastodon feed to pull in other perspectives as well.</p>
+<h2>4. Idea validation</h2>
+<p>I’d love to know what content is outperforming other content. I’m sure I could piece this together myself with a half-dozen spreadsheets from Google Analytics, but I’d love to log into my CMS and know “Your CSS posts tend to have 10x engagement over your longform thoughtvomit” or “Your shitposts are driving traffic but are negatively impacting the quality of your site”. I don’t play the engagement game much but I’d love some data-driven validation nudging me in a positive direction when I’m discouraged, perhaps it could even suggest a handful of topics.</p>
+<p>There’s a gross content farm machine version of this idea that identifies popular topics, suggests titles, an LLM writes posts based on those titles, and Dall-E plops an unsplashy image at the top… but that gives me the ick. At that point, you’re not blogging your thoughts or offering anyone any human value, you’re just clicking ✨ Sparkle Buttons.</p>
+<hr />
+<p>For what it’s worth, baking these features into a CMS has little material benefit for me. This site is statically generated from markdown so it’s practically the opposite of a full-featured CMS. Or… perhaps it’s the perfect situation to start exploring some of these ideas.</p> 
+
+<https://daverupert.com/2024/04/ideas-for-my-dream-cms/>
+
+---
+
+##  Life-Ruining Mistakes? 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/life-ruining-mistakes>
+
+---
+
+## Self-promotion vs. advertising
+
+date: 2024-04-25, from: Tracy Durnell Blog
+
+Manu asks where the line falls between self-promotion and advertising. Asking for money feels like a necessity for creators in an age where our jobs are all precarious, wages aren&#8217;t keeping up, we lack sufficient safety nets, and the value of art and writing are under attack. Frankly, a lot of creative folks don&#8217;t ask [&#8230;] 
+
+<https://tracydurnell.com/2024/04/25/self-promotion-vs-advertising/>
+
+---
+
+##  The Feeling That the Time for Doing Something Has Passed 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/the-feeling-that-the-time-for-doing-something-has-passed>
+
+---
+
+##  Size XXXS, Miniature Sweaters 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/size-xxxs>
+
+---
+
+## P’tit Belliveau – Income Tax
+
+date: 2024-04-25, from: Tracy Durnell Blog
+
+This video is ridiculously great. 
+
+<https://tracydurnell.com/2024/04/25/ptit-belliveau-income-tax/>
+
+---
+
+##  &#8220;I have no training for this work. I got the job by... 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044484-i-have-no-training-for>
+
+---
+
+## The most important thing I teach my students
+
+date: 2024-04-25, from: Robert Reich's blog
+
+Friends, Several of you asked that I repost this from earlier this week because you read it once and couldn&#8217;t find it again or you heard about it and didn&#8217;t know where it was. Herewith: The most important thing I teach my students is to seek out people who disagree with them. 
+
+<https://robertreich.substack.com/p/the-most-important-thing-i-teach-555>
+
+---
+
+##  Diary Comics, Dec. 15 & 16 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/diary-comics-dec-15-16>
+
+---
+
+## Corporate Open Source is Dead
+
+date: 2024-04-25, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Corporate Open Source is Dead</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>IBM is <a href="https://www.reuters.com/markets/deals/ibm-buy-hashicorp-64-billion-deal-expand-cloud-software-2024-04-24/">buying HashiCorp for $6.4 <em>billion</em></a>.</p>
+
+<p>That's four months after <a href="https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license">HashiCorp rugpulled their <em>entire</em> development community</a> and ditched open source for the 'Business Source License.'</p>
+
+<p>As <a href="https://news.ycombinator.com/item?id=40135490">someone on Hacker News</a> pointed out so eloquently:</p>
+
+<blockquote>
+  <p>IBM is like a juicer that takes all the delicious flavor out of a fruit</p>
+</blockquote>
+
+<p>skywhopper replied:</p>
+
+<blockquote>
+  <p>HashiCorp has done a good job of pre-draining any flavor it once had.</p>
+</blockquote>
+
+<p><a href="https://twitter.com/jgunnink/status/1783303926042996928">Some people wonder</a> if HashiCorp's decision to drop open source was <em>because</em> they wanted to juice the books for a higher price. I mean, <em>six billion dollars?</em> And they're not even a pointless AI company!</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-04-25T11:38:43-05:00" title="Thursday, April 25, 2024 - 11:38" class="datetime">April 25, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/corporate-open-source-dead>
+
+---
+
+##  A Huge Collaborative Flipbook Animation 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/a-huge-collaborative-flipbook-animation>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-25, from: Dave Winer's Scripting News)
+
+A <a href="https://chat.openai.com/share/a5f524c2-e9c2-480f-9587-9ef2ee5f74b8">backgrounder</a> on how the web is used for conversation, the pros and cons of each variant, and what role RSS can play in it, thanks to ChatGPT. 
+
+<http://scripting.com/2024/04/25.html#a155555>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-04-25, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/06/29/alice.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I don't think conversation on the web has been the big benefit some people think. Do you remember when you first realized that people weren't talking to you in a response to your post, they were talking over your shoulder to the people who read your post. I guess it depends on who you are, but I don't see any value in providing a surface for spam. These days I block people without much thought if I think that's what they're doing. So, why should you design a protocol, and pay the cost of supporting, something that is a vector for spam and abuse? That's the argument in favor of using <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> to glue things together. You can comment on my post, in your space, but my followers don't have to see it. That's up to me. I think it would change the nature of discourse, for the better. 
+
+<http://scripting.com/2024/04/25.html#a153349>
+
+---
+
+##  Kelly Hayes: the double standards of conservatism (i.e. &#8220;there must be in-groups... 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044485-kelly-hayes-the-double-st>
+
+---
+
+##  The Biden administration is imposing new regulations on coal burning power plants.... 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044487-the-biden-administration->
+
+---
+
+##  What Bird Is That? 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/what-bird-is-that>
+
+---
+
+##  How teens benefit from having the choice to read &#8220;disturbing&#8221; books. They... 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044479-how-teens-benefit-from-re>
+
+---
+
+##  A Message from the Chancellor on the Recent Student Protest. &#8220;But this... 
+
+date: 2024-04-25, updated: 2024-04-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044478-a-message-from-the-chance>
 
 ---
 
@@ -21,7 +369,7 @@ I have an essay coming out in the July issue of Harper’s which I titled “The
 
 **@Dave Winer's Scripting News** (date: 2024-04-25, from: Dave Winer's Scripting News)
 
-ChatGPT has memory across chats. This just <a href="https://imgs.scripting.com/2024/04/25/chatgptmessage.png">popped up</a> on the screen. I'd like to tell it that until further notice I use Node.js and do not use Express, and do use jQuery for my browser-based JavaScript, and I use the debugger all the time, so you can assume that. If this works, I now have a programming partner with memory. And maybe I can somehow get it to read all my blog posts going back 30 years? I have good archives of most of it. I fed Also, of course I <a href="https://imgs.scripting.com/2024/04/25/chatgptcomments.png">fed this post</a> to ChatGPT of course. 
+ChatGPT has memory across chats. This just <a href="https://imgs.scripting.com/2024/04/25/chatgptmessage.png">popped up</a> on the screen. I'd like to tell it that until further notice I use Node.js and do not use Express, and do use jQuery for my browser-based JavaScript, and I use the debugger all the time, so you can assume that. If this works, I now have a programming partner with memory. And maybe I can somehow get it to read all my blog posts going back 30 years? I have good archives of most of it. Also, of course I <a href="https://imgs.scripting.com/2024/04/25/chatgptcomments.png">fed this post</a> to ChatGPT of course. So ChatGPT is not resting on its laurels. That's good. I'd really like a <i>Personal ChatGPT, </i>and this is on the way to that goal. 
 
 <http://scripting.com/2024/04/25.html#a123234>
 
@@ -111,7 +459,7 @@ The unintended consequences that could affect the election
 
 ## Dumbphones in 2024
 
-date: 2024-04-24, updated: 2024-04-24, from: Daring Fireball
+date: 2024-04-24, updated: 2024-04-25, from: Daring Fireball
 
  
 
@@ -129,9 +477,9 @@ This is the fourth in a series about the scientific method and how it can be app
 
 ---
 
-## Ed Zitron: ‘The Man Who Killed Google Search’
+## Ed Zitron on ‘The Man Who Killed Google Search’
 
-date: 2024-04-24, updated: 2024-04-24, from: Daring Fireball
+date: 2024-04-24, updated: 2024-04-25, from: Daring Fireball
 
  
 
@@ -141,7 +489,7 @@ date: 2024-04-24, updated: 2024-04-24, from: Daring Fireball
 
 ## Why Your Most-Used Keyboard Keys Get Shiny
 
-date: 2024-04-24, updated: 2024-04-24, from: Daring Fireball
+date: 2024-04-24, updated: 2024-04-25, from: Daring Fireball
 
  
 
@@ -811,7 +1159,7 @@ date: 2024-04-23, updated: 2024-04-23, from: Jason Kittke's blog
 
 ## The Radiant Future! (Of 1995)
 
-date: 2024-04-23, updated: 2024-04-25, from: Charlie's Diary
+date: 2024-04-23, updated: 2024-04-26, from: Charlie's Diary
 
 The AI hype in the media obscures the fact that we're clearly in another goddamn venture capital bubble right now. As the Wall Street Journal said earlier this month (article is paywalled), "... In a presentation earlier this month, the... 
 
@@ -976,7 +1324,7 @@ date: 2024-04-22, updated: 2024-04-22, from: Jason Kittke's blog
 
 ## On-Device AI Craves RAM
 
-date: 2024-04-22, updated: 2024-04-22, from: Daring Fireball
+date: 2024-04-22, updated: 2024-04-25, from: Daring Fireball
 
  
 

@@ -1,11 +1,161 @@
 ---
 title: motorcycles 2024.17
-updated: 2024-04-25 06:01:51
+updated: 2024-04-26 08:51:08
 ---
 
 # motorcycles 2024.17
 
-(date: 2024-04-25 06:01:51)
+(date: 2024-04-26 08:51:08)
+
+---
+
+## Can These Guys Revive A Pair Of Salvage Bikes In 48 Hours And Ride Away?
+
+date: 2024-04-26, from: Ride Apart, Electric Motorcycle News
+
+Is it a bad bike idea or a mad bike idea? That all depends on if they pull it off. 
+
+<https://www.rideapart.com/news/717527/brick-house-builds-revival-challenge/>
+
+---
+
+## 2024 MV Agusta Enduro Veloce First Ride
+
+date: 2024-04-26, from: Cycle World News
+
+MV Agusta has jumped into the adventure-touring market with its Enduro Veloce. This triple-powered machine features upmarket components and a full suite of advanced rider aids. 
+
+<https://www.cycleworld.com/motorcycle-reviews/mv-agusta-enduro-veloce-first-ride/>
+
+---
+
+## No, You Shouldn't Be Able to Run Down a Wolf With a Snowmobile
+
+date: 2024-04-26, from: Ride Apart, Electric Motorcycle News
+
+As a hunter, I vehemently oppose such cruelty.  
+
+<https://www.rideapart.com/news/717528/wolf-snowmobile-law-predator-wildlife-conservation-hunting/>
+
+---
+
+## This California Sheriff's Deputy May Have Been a Secret Outlaw Biker
+
+date: 2024-04-26, from: Ride Apart, Electric Motorcycle News
+
+Probably not the best second job... 
+
+<https://www.rideapart.com/news/717372/california-sheriff-deputy-outlaw-biker-mongols/>
+
+---
+
+## Red Bull's 217 Mph Drone Aims to Revolutionize Race Broadcasting
+
+date: 2024-04-26, from: Ride Apart, Electric Motorcycle News
+
+Motorsports can live and die by our ability to portray the live-action. Finally, we have a drone capable of showcasing MotoGP's ferocity.  
+
+<https://www.rideapart.com/news/717526/worlds-fastest-camera-drone-motogp-redbull/>
+
+---
+
+## Kawasaki Is Turning Into Bimota Racing Team For The 2025 WSBK Season
+
+date: 2024-04-26, from: Ride Apart, Electric Motorcycle News
+
+More specifically, the new team will be called 'Bimota by Kawasaki Racing Team'. 
+
+<https://www.rideapart.com/news/717498/kawasaki-bimota-world-superbike-2025/>
+
+---
+
+## Don’t Miss Your Chance To Own One of the Rarest Yamahas Ever
+
+date: 2024-04-26, from: Ride Apart, Electric Motorcycle News
+
+This FZR750R homologation special is one of just 500 units, and Iconic's no-reserve auction is your best chance to re-home it.  
+
+<https://www.rideapart.com/news/717371/yamaha-fzr750r-0w01-auction/>
+
+---
+
+## KTM's 450 Rally Replica Gets A Major Overhaul For The New Year
+
+date: 2024-04-26, from: Ride Apart, Electric Motorcycle News
+
+New engine, new frame, and a connected system of fuel tanks that holds over 9 gallons are three of the highlights. 
+
+<https://www.rideapart.com/news/717352/2025-ktm-450-rally-replica/>
+
+---
+
+## Ducati North America Announces its Entry Into the NORRA Mexican 1000 with the Ducati DesertX Rally
+
+date: 2024-04-25, from: Cycle World News
+
+Ducati North America proudly announces its entry into the prestigious NORRA Mexican 1000 Pro Rally Class, featuring riders Alexander Smith and Steve Kamrad piloting two 2024 Ducati DesertX Rally motorcycles. 
+
+<https://www.cycleworld.com/the-wire/ducati-north-america-announces-entry-norra-mexican-1000-with-desertx-rally/>
+
+---
+
+## Automatic Emergency Braking Tech Still Can't Really Detect Motorcycles
+
+date: 2024-04-25, from: Ride Apart, Electric Motorcycle News
+
+As crash prevention technology improved safety for SUVs and cars, it potentially made riding a bike more dangerous. 
+
+<https://www.rideapart.com/news/717499/iihs-front-crash-prevention-test/>
+
+---
+
+## Will Kymco’s EV-Motos Finally Become A Reality Thanks to LiveWire?
+
+date: 2024-04-25, from: Ride Apart, Electric Motorcycle News
+
+Kymco’s joint development with LiveWire for the S3 could lay the foundation for a bunch of new models.  
+
+<https://www.rideapart.com/news/717215/kymco-developing-livewire-s3-electric-motorcycles/>
+
+---
+
+## This Fashion Brand is Selling $12,500 Knock-Off Motorcycle Pants
+
+date: 2024-04-25, from: Ride Apart, Electric Motorcycle News
+
+Sashay away! 
+
+<https://www.rideapart.com/news/717477/balenciaga-pantashoes-motorcycle-pants-price/>
+
+---
+
+## Nolan’s X-804 RS Ultra Flagship Racing Helment Is Ready For Action
+
+date: 2024-04-25, from: Ride Apart, Electric Motorcycle News
+
+It follows in the footsteps of the X-Lite X-803.  
+
+<https://www.rideapart.com/news/717233/nolan-x804-race-helmet-launched/>
+
+---
+
+## KTM MotoGP Chief Says Pedro Acosta Isn't Switching Teams
+
+date: 2024-04-25, from: Ride Apart, Electric Motorcycle News
+
+Despite rumors, there are no plans on switching Acosta to KTM.  
+
+<https://www.rideapart.com/news/717353/ktm-motogp-pedro-acosta-gasgas-switch/>
+
+---
+
+## This Wild EV-Enduro Was Built By Some of the Biggest Names in the Game
+
+date: 2024-04-25, from: Ride Apart, Electric Motorcycle News
+
+It’s based on the Fantic XEF, and swaps out the gas engine for an electric motor.  
+
+<https://www.rideapart.com/news/717214/fantic-lizcat-xe1-electric-enduro/>
 
 ---
 
@@ -296,16 +446,6 @@ date: 2024-04-22, from: Cycle World News
 We ride the new 2024 Kawasaki Z500 in downtown San Diego. 
 
 <https://www.cycleworld.com/motorcycle-reviews/kawasaki-z500-first-ride/>
-
----
-
-## 2024 MV Agusta Enduro Veloce First Ride
-
-date: 2024-04-22, from: Cycle World News
-
-MV Agusta has jumped into the adventure-touring market with its Enduro Veloce. This triple-powered machine features upmarket components and a full suite of advanced rider aids. 
-
-<https://www.cycleworld.com/motorcycle-reviews/mv-agusta-enduro-veloce-first-ride/>
 
 ---
 

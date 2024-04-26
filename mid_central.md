@@ -1,11 +1,125 @@
 ---
 title: mid central 2024.17
-updated: 2024-04-25 06:01:50
+updated: 2024-04-26 08:51:08
 ---
 
 # mid central 2024.17
 
-(date: 2024-04-25 06:01:50)
+(date: 2024-04-26 08:51:08)
+
+---
+
+## Vibration sensor aids predictive maintenance
+
+date: 2024-04-26, from: EDN Blog
+
+<img width="700" height="431" src="https://www.edn.com/wp-content/uploads/Murata-PKGM-200D-R.jpg?fit=700%2C431" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Murata-PKGM-200D-R.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Murata-PKGM-200D-R.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Murata’s vibration sensor detects high-frequency vibrations up to 11 kHz to assist predictive maintenance in production equipment.</p>
+<p>The post <a href="https://www.edn.com/vibration-sensor-aids-predictive-maintenance/" data-wpel-link="internal">Vibration sensor aids predictive maintenance</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/vibration-sensor-aids-predictive-maintenance/>
+
+---
+
+## Generator delivers analog signals up to 40 GHz
+
+date: 2024-04-26, from: EDN Blog
+
+<img width="800" height="315" src="https://www.edn.com/wp-content/uploads/RS-SMB100B.jpg?fit=800%2C315" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/RS-SMB100B.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/RS-SMB100B.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/RS-SMB100B.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>A microwave signal generator, the SMB100B from R&#038;S offers four frequency options covering 8 kHz to 12.75 GHz, 20 GHz, 31.8 GHz, and 40 GHz.</p>
+<p>The post <a href="https://www.edn.com/generator-delivers-analog-signals-up-to-40-ghz/" data-wpel-link="internal">Generator delivers analog signals up to 40 GHz</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/generator-delivers-analog-signals-up-to-40-ghz/>
+
+---
+
+## Gate driver targets 24/48-V automotive market
+
+date: 2024-04-26, from: EDN Blog
+
+<img width="800" height="447" src="https://www.edn.com/wp-content/uploads/Infineon-Motix-TLE9140.jpg?fit=800%2C447" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Infineon-Motix-TLE9140.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Infineon-Motix-TLE9140.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Infineon-Motix-TLE9140.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Tailored for automotive motor control, the TLE9140EQW gate driver from Infineon eases the migration of systems from 12 V to 24 V or 48 V.</p>
+<p>The post <a href="https://www.edn.com/gate-driver-targets-24-48-v-automotive-market/" data-wpel-link="internal">Gate driver targets 24/48-V automotive market</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/gate-driver-targets-24-48-v-automotive-market/>
+
+---
+
+## LDO regulators provide flexible outputs
+
+date: 2024-04-26, from: EDN Blog
+
+<img width="800" height="397" src="https://www.edn.com/wp-content/uploads/STMicro-LDH40_LDQ40.jpg?fit=800%2C397" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/STMicro-LDH40_LDQ40.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/STMicro-LDH40_LDQ40.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/STMicro-LDH40_LDQ40.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>ST’s LDH40 and LDQ40 voltage regulators deliver up to 200 mA and 250 mA, respectively, for use in industrial and automotive applications.</p>
+<p>The post <a href="https://www.edn.com/ldo-regulators-provide-flexible-outputs/" data-wpel-link="internal">LDO regulators provide flexible outputs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/ldo-regulators-provide-flexible-outputs/>
+
+---
+
+## Scope software improves multi-signal analysis
+
+date: 2024-04-26, from: EDN Blog
+
+<img width="800" height="424" src="https://www.edn.com/wp-content/uploads/Tektronix-V5.4-800.jpg?fit=800%2C424" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Tektronix-V5.4-800.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Tektronix-V5.4-800.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Tektronix-V5.4-800.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Version 5.4 of SignalVu Spectrum Analyzer software from Tektronix allows multichannel modulation analysis of up to eight signals in parallel.</p>
+<p>The post <a href="https://www.edn.com/scope-software-improves-multi-signal-analysis/" data-wpel-link="internal">Scope software improves multi-signal analysis</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/scope-software-improves-multi-signal-analysis/>
+
+---
+
+## What’s that?…A fuel cell that harvests energy from…dirt?
+
+date: 2024-04-26, from: EDN Blog
+
+<img width="970" height="650" src="https://www.edn.com/wp-content/uploads/Power-Points-Blog158_dirt-harvesting_Fig1.png?fit=970%2C650" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Power-Points-Blog158_dirt-harvesting_Fig1.png?w=970 970w, https://www.edn.com/wp-content/uploads/Power-Points-Blog158_dirt-harvesting_Fig1.png?w=300 300w, https://www.edn.com/wp-content/uploads/Power-Points-Blog158_dirt-harvesting_Fig1.png?w=768 768w" sizes="(max-width: 970px) 100vw, 970px" /><p>A soil microbial fuel cell where microbes in dirt could power applications which are literally “in the field”.</p>
+<p>The post <a href="https://www.edn.com/whats-that-a-fuel-cell-that-harvests-energy-fromdirt/" data-wpel-link="internal">What’s that?&#8230;A fuel cell that harvests energy from…dirt?</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/whats-that-a-fuel-cell-that-harvests-energy-fromdirt/>
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-04-26, from: Amateur Radio Relay League News
+
+<p>"ASWFC GEOMAGNETIC DISTURBANCE WARNING ISSUED AT 0733 UTC/26 APRIL2024 BY THE AUSTRALIAN SPACE WEATHER FORECASTING CENTRE.</p><p>"A coronal hole wind stream has moderately enhanced the solar wind<br />speed and been associated with several hours’ worth of southward IMF<br />parameter Bz. For this reason, it is possible that periods of G1-G2<br />geomagnetic storm conditions may be observed.<br /><br />"INCREASED GEOMAGNETIC ACTIVI...</p> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-827>
+
+---
+
+## Central High School wide receiver gets picked in Round 1 of the NFL Draft
+
+date: 2024-04-26, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Xavier Worthy, a Central Valley native wide receiver, got selected by the Kansas City Chiefs in Round 1 of the NFL draft as the 28th pick. Worthy is a Central High School alumni who graduated in 2021. He played three seasons as a Grizzly, totaling 1,281 yards. He was also selected to play in the... 
+
+<https://fscollegian.com/2024/04/central-high-school-wide-receiver-gets-picked-in-round-1-of-the-nfl-draft/>
+
+---
+
+## Fresno State Judo Club makes history in National Championship victory
+
+date: 2024-04-26, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+The Fresno State Judo Club made history after its women’s team won the National Collegiate Judo Association (NCJA) National Championship, taking first place in two divisions on April 6, at Texas A&#38;M University. Senior Sara Beberian won first place in the women’s -78kg division and sophomore Vanessa Luna took home the gold in the -63kg... 
+
+<https://fscollegian.com/2024/04/fresno-state-judo-club-makes-history-in-national-championship-victory/>
+
+---
+
+## Universal analog-to-digital multiplexer-demultiplexer
+
+date: 2024-04-25, from: EDN Blog
+
+<img width="1345" height="881" src="https://www.edn.com/wp-content/uploads/Fig.-2-15.jpg?fit=1345%2C881" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig.-2-15.jpg?w=1345 1345w, https://www.edn.com/wp-content/uploads/Fig.-2-15.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig.-2-15.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig.-2-15.jpg?w=1024 1024w" sizes="(max-width: 1345px) 100vw, 1345px" /><p>A universal analog-to-digital multiplexer-demultiplexer for switching both analog and digital signals of positive polarity.</p>
+<p>The post <a href="https://www.edn.com/universal-analog-to-digital-multiplexer-demultiplexer/" data-wpel-link="internal">Universal analog-to-digital multiplexer-demultiplexer</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/universal-analog-to-digital-multiplexer-demultiplexer/>
 
 ---
 
@@ -13,7 +127,7 @@ updated: 2024-04-25 06:01:50
 
 date: 2024-04-25, from: EDN Blog
 
-<img width="1024" height="423" src="https://www.edn.com/wp-content/uploads/Hero-image-Haptics-Titan.png?fit=1024%2C423" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Haptics-Titan.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-Haptics-Titan.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Haptics-Titan.png?w=768 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><p>Here is all you need to know about designing and manufacturing products with high-definition haptic effects.</p>
+<img width="1024" height="423" src="https://www.edn.com/wp-content/uploads/Hero-image-Haptics-Titan.png?fit=1024%2C423" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Haptics-Titan.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-Haptics-Titan.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Haptics-Titan.png?w=768 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><p>Here is all you need to know about designing and manufacturing products with high-definition haptic effects.</p>
 <p>The post <a href="https://www.edn.com/5-considerations-when-choosing-a-haptics-manufacturer/" data-wpel-link="internal">5 considerations when choosing a haptics manufacturer</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
