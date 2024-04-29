@@ -1,14 +1,28 @@
 #!/bin/bash
 #
 
+function mk_archive_for_feed() {
+	FEED_NAME="$1"
+	FEED_PREFIX="$2"
+	# Find all our socal_north markdown files to archive.
+	printf '\n## %s\n\n' "${FEED_NAME}" >>"archives/${YEAR}/index.md"
+	CMD="ls -1 archives/${YEAR}/${FEED_PREFIX}_*.md"
+	$CMD | sort -r |\
+	while read -r FNAME; do
+		BNAME=$(basename "$FNAME" ".md")
+		LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
+		printf '* [%s](%s)\n' "$LABEL" "$BNAME.md" >>"archives/${YEAR}/index.md"
+	done
+}
+
 #
 # Generate the archives of the week's news aggregations
 #
 YEAR=$(date +%Y)
 # Make a folder for the year's archive
-mkdir -p "$YEAR"
+mkdir -p "archives/$YEAR"
 # Generate the start of the archives index.md
-cat <<TXT >"${YEAR}/index.md"
+cat <<TXT >"archives/${YEAR}/index.md"
 ---
 title: Antenna Archives
 ---
@@ -17,85 +31,20 @@ title: Antenna Archives
 
 TXT
 
-# Find all our socal_north markdown files to archive.
-printf '\n## Socal North\n\n' >>"${YEAR}/index.md"
-CMD="ls -1 ${YEAR}/socal_north_*.md"
-$CMD | sort -r |\
-while read -r FNAME; do
-	BNAME=$(basename "$FNAME" ".md")
-	LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
-	printf '* [%s](%s)\n' "$LABEL" "$BNAME.md" >>"$YEAR/index.md"
-done
 
-# Find all the weather markdown files to archive.
-printf '\n## Weather\n\n' >>"${YEAR}/index.md"
-CMD="ls -1 ${YEAR}/weather_*.md"
-$CMD | sort -r |\
-while read -r FNAME; do
-	BNAME=$(basename "$FNAME" ".md")
-	LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
-	printf '* [%s](%s)\n' "$LABEL" "$BNAME.md" >>"$YEAR/index.md"
-done
 
-# Find all our socal_north markdown files to archive.
-printf '\n## Pacific\n\n' >>"${YEAR}/index.md"
-CMD="ls -1 ${YEAR}/pacific_*.md"
-$CMD | sort -r |\
-while read -r FNAME; do
-	BNAME=$(basename "$FNAME" ".md")
-	LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
-	printf '* [%s](%s)\n' "$LABEL" "$BNAME.md" >>"$YEAR/index.md"
-done
+mk_archive_for_feed "SoCal North" "socal_north"
+mk_archive_for_feed "Weather" "weather"
+mk_archive_for_feed "Pacific" "pacific"
+mk_archive_for_feed "Mid Central" "mid_central"
+mk_archive_for_feed "Tech Likely" "tech_likely"
+mk_archive_for_feed "Writing" "writing"
+mk_archive_for_feed "Parks" "parks"
+mk_archive_for_feed "Libaries, Archives and Museums" "libraries"
+mk_archive_for_feed "Columns" "columns"
+mk_archive_for_feed "Retro Computing" "retro_computing"
+mk_archive_for_feed "Journalism" "journalism"
+mk_archive_for_feed "Eletrict Motocycles" "motorcycles"
 
-# Find all our mid_central markdown files to archive.
-printf '\n## Mid Central\n\n' >>"${YEAR}/index.md"
-CMD="ls -1 ${YEAR}/mid_central_*.md"
-$CMD | sort -r |\
-while read -r FNAME; do
-	BNAME=$(basename "$FNAME" ".md")
-	LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
-	printf '* [%s](%s)\n' "$LABEL" "$BNAME.md" >>"$YEAR/index.md"
-done
-
-# Find all our mid_central markdown files to archive.
-printf '\n## Tech Likely\n\n' >>"${YEAR}/index.md"
-CMD="ls -1 ${YEAR}/tech_likely_*.md"
-$CMD | sort -r |\
-while read -r FNAME; do
-	BNAME=$(basename "$FNAME" ".md")
-	LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
-	printf '* [%s](%s)\n' "$LABEL" "$BNAME.md" >>"$YEAR/index.md"
-done
-
-# Find all our mid_central markdown files to archive.
-printf '\n## IF & Writing\n\n' >>"${YEAR}/index.md"
-CMD="ls -1 ${YEAR}/writing_*.md"
-$CMD | sort -r |\
-while read -r FNAME; do
-	BNAME=$(basename "$FNAME" ".md")
-	LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
-	printf '* [%s](%s)\n' "$LABEL" "$BNAME.md" >>"$YEAR/index.md"
-done
-
-# Find all our parks markdown files to archive.
-printf '\n## Parks\n\n' >>"${YEAR}/index.md"
-CMD="ls -1 ${YEAR}/parks_*.md"
-$CMD | sort -r |\
-while read -r FNAME; do
-	BNAME=$(basename "$FNAME" ".md")
-	LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
-	printf '* [%s](%s)\n' "$LABEL" "$BNAME.md" >>"$YEAR/index.md"
-done
-
-# Find all our mid_central markdown files to archive.
-printf '\n## Libraries, Archives and Museums\n\n' >>"${YEAR}/index.md"
-CMD="ls -1 ${YEAR}/libraries_*.md"
-$CMD | sort -r |\
-while read -r FNAME; do
-	BNAME=$(basename "$FNAME" ".md")
-	LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
-	printf '* [%s](%s)\n' "$LABEL" "$BNAME.md" >>"$YEAR/index.md"
-done
-
-echo >>"$YEAR/index.md"
-git add "$YEAR/"
+echo >>"archives/$YEAR/index.md"
+git add "archives/$YEAR/"

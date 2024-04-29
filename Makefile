@@ -20,7 +20,7 @@ endif
 
 PROJECT = Antenna
 
-section_names = socal_north pacific mid_central tech_likely columns weather writing games libraries parks health motorcycles retro_computing
+section_names = socal_north pacific mid_central tech_likely columns weather writing games journalism libraries parks motorcycles retro_computing health
 
 md_files = $(addsuffix .md,$(section_names))
 
@@ -74,6 +74,9 @@ games: .FORCE
 libraries: .FORCE
 	skimmer libraries.txt
 
+journalism: .FORMCE
+	skimmer journalism.txt
+
 parks: .FORCE
 	skimmer parks.txt
 
@@ -97,7 +100,7 @@ $(md_files): .FORCE
 		-frontmatter $(basename $@).skim \
 		>$@
 	mkdir -p $(YEAR)
-	cp -v "$@" "$(YEAR)/$(basename $@)_$(VOL_NO).md"
+	cp -v "$@" "archives/$(YEAR)/$(basename $@)_$(VOL_NO).md"
 
 html: front_page.tmpl $(html_files)
 
@@ -125,10 +128,12 @@ dump: .FORCE
 load: .FORCE
 	./sql_to_skimmer.bash
 
-archives: mk_archives.bash archives.tmpl
+archives: mk_archives.bash archive_index.tmpl archive_year.tmpl
 	./mk_archives.bash      
-	cd $(YEAR) && make
-	git add $(YEAR)
+	cd archives/$(YEAR) && make
+	cd archives && make
+	git add archives
+	
 
 pagefind: .FORCE
 	pagefind \
@@ -148,7 +153,22 @@ clean: .FORCE
 	-rm weather.html 2>/dev/null
 	-rm pacific.md 2>/dev/null
 	-rm pacific.html 2>/dev/null
-	cd $(YEAR) && make clean
+	-rm jouranlism.md 2>/dev/null
+	-rm jouranlism.html 2>/dev/null
+	-rm retro_computing.md 2>/dev/null
+	-rm retro_computing.html 2>/dev/null
+	-rm motocycles.md 2>/dev/null
+	-rm motocycles.html 2>/dev/null
+	-rm libraries.md 2>/dev/null
+	-rm libraries.html 2>/dev/null
+	-rm parks.md 2>/dev/null
+	-rm parks.html 2>/dev/null
+	-rm writing.md 2>/dev/null
+	-rm writing.html 2>/dev/null
+	-rm health.md 2>/dev/null
+	-rm health.html 2>/dev/null
+	cd archives/$(YEAR) && make clean
+	cd archives && make clean
 
 CITATION.cff: .FORCE
 	@cat codemeta.json | sed -E   's/"@context"/"at__context"/g;s/"@type"/"at__type"/g;s/"@id"/"at__id"/g' >_codemeta.json

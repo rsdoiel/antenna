@@ -6,21 +6,25 @@
 The Antenna is organized around lists of RSS, Atom and JSONfeeds that websites publish
 to promote their content. Right now Antenna is build the following lists
 
-- [SoCal North](socal_north.html), feeds from the Northern end of Southern California
-	- [socal_north.txt](socal_north.txt)
-- [Pacific](pacific.html), feeds from the Micronesia, Hawaii and the Pacific
-	- [pacific.txt](pacific.txt)
-- [Mid Central](mid_central.html), feeds from Central California's in the vicinity of Merced County
-- [Games](games.html), feeds about interactive games, [games.txt](games.txt)
-- [Retro Computing](retro_computing.html), feeds cover historic systems and retro computing
-- [Columns](columns.html), posts that frequently end up in my [Pocket](https://getpocket.com) reading list, [columns.txt](columns.txt)
-- [Tech Likely](tech_likely.html), miscellanious feeds, mostly computing related, [tech_likely.txt](tech_likely.txt)
-- [Motor Cycles](motorcycles.html), A test feed of interesting Motorcycle related news, [motorcycles.txt](motorcycles.txt)
-- [Weather](weather.html), national weather information from [NOAA's](https://noaa.gov) [weather.gov](https://weather.gov) website.
-	- [weather.txt](weather.txt)
-- [Snapshots](snapshots/) aggregation in waterhose built from [snapshots/news.txt](snapshots/news.txt). It is very experimental and is focused on exploring Pagefind as a Personal Search Engine.
+Collection                                Description of Posts                                               list
+---------------------------------         --------------------------------------------------------------     --------------------------------
+[SoCal North](socal_north.html)           Northern end of Southern California                                [socal_north.txt](socal_north.txt)
+[Pacific](pacific.html)                   Micronesia, Hawaii and the Pacific                                 [pacific.txt](pacific.txt)
+[Mid Central](mid_central.html)           California's Central Valley                                        [mid_central.txt](mid_central.txt)
+[Parks](parks.html)                       From the city, state or national parks                             [parks.txt](parks.txt)
+[Columns](columns.html)                   Frequent [Pocket](https://getpocket.com)ed                         [columns.txt](columns.txt)
+[Retro Computing](retro_computing.html)   Computer history and systems                                       [retro_computing.txt](retro_computing.txt)
+[Games](games.html)                       Interactive games                                                  [games.txt](games.txt)
+[Libraries](libraries.html)               Libraries, Archives and Museums                                    [libraries.txt](libraries.txt)
+[Journalism](journalism.html)             Journalism and the 4th estate                                      [journalism.txt](journalism.txt)
+[Tech Likely](tech_likely.html)           Miscellanious, often technology related                            [tech_likely.txt](tech_likely.txt)
+[Motorcycles](motorcycles.html)           Electric motorcycle and related                                    [motorcycles.txt](motorcycles.txt)
+[Writing](writing.html)                   Writing and Writing Tools                                          [writing.txt](writing.txt)
+[Weather](weather.html)                   [NOAA's](https://noaa.gov) and [weather.gov](https://weather.gov)  [weather.txt](weather.txt)
+[Snapshots](snapshots/)                   A Sometimes daily aggregation                                      [snapshots/news.txt](snapshots/news.txt)
 
-All the feed items are responsibility of the organizations that publish the feed. My choice is the specific feeds I select for my aggregation.
+
+All the feed items are responsibility of the organizations that publish the feed. My choice is the specific feeds I select for my aggregations.
 
 To read more about this experiment in the [README](README.md) file.
 
