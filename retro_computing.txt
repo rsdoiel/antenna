@@ -1,25 +1,43 @@
 #
 # Retro Computing News
 #
+
+# RISC OS
+https://www.riscository.com/feed/ "~RiscOS Story"
+https://www.riscosopen.org/news/xml/rss20/feed.xml "~RiscOS Open"
+http://riscosblog.huber-net.de/feed/ "~Hubersn RISC OS blog"
+https://riscosbits.blog/feed/ "~Riscosbits Blog"
+https://www.iconbar.com/rss-rss20.php "~Icon Bar, RISC OS News"
+
+# C64
 https://www.c64os.com/feed/ "~C64 OS Blog"
+
+# Pascal Machines, Modula and Oberon
 http://pascal.hansotten.com/feed/ "~Hans Otten's Pascal for small machines"
 http://www.hansotten.com/feed/ "~Han's Otten Blog"
+https://freepages.modula2.org/rss/fmp.rss "~Freepages, Module-2.org"
+
+# DOS and CP/M
+https://sourceforge.net/p/freedos/news/feed.rss "~FreeDOS News"
+https://kevinboone.me/rss.html "~Kevin Boone (CP/M with cpmemu article)"
+
+# Apple
+https://www.folklore.org/folklore.xml "~Folklore, Apple History"
+
+# Lisp and Pop-2
+https://lisp-machine.org/feed/ "~Lispmachine-org blog"
+
+# Projects and recreations
 https://www.go4retro.com/feed/ "~Retro Innovations blog"
+https://solar.lowtechmagazine.com/posts/index.xml "~Low-tech magazine"
+
+# Computure History
 http://www.hookedonthepast.com/feed/ "~Hooked on the Past blog"
 https://computerhistory.org/stories/feed/ "~Computer History: Stores"
-https://lisp-machine.org/feed/ "~Lispmachine-org blog"
-https://solar.lowtechmagazine.com/posts/index.xml "~Low-tech magazine"
-https://sourceforge.net/p/freedos/news/feed.rss "~FreeDOS News"
 https://twobithistory.org/feed.xml "~Two bit History"
 https://vcfed.org/wp/feed/ "~Vintage Computing Federation"
 https://www.itforarchivists.com/index.xml "~IT for Archivists"
 https://www.vintagecomputing.com/index.php/feed "~Vintage Computing"
-http://riscosblog.huber-net.de/feed/ "~Hubersn RISC OS blog"
-https://riscosbits.blog/feed/ "~Riscosbits Blog"
-https://www.riscository.com/feed/ "~RiscOS Story"
-https://www.riscosopen.org/news/xml/rss20/feed.xml "~RiscOS Open"
-https://www.folklore.org/folklore.xml "~Folklore, Apple History"
-https://freepages.modula2.org/rss/fmp.rss "~Freepages, Module-2.org"
 https://computerhistory.org/stories/feed/ "~Computer History: Stores"
 https://computeradsfromthepast.substack.com/feed "~Computer ads from the Past"
 https://www.filfre.net/feed/ "~Digital Antiquarian"
