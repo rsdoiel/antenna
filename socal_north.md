@@ -1,11 +1,308 @@
 ---
 title: socal north 2024.18
-updated: 2024-04-29 13:26:36
+updated: 2024-04-30 19:19:58
 ---
 
 # socal north 2024.18
 
-(date: 2024-04-29 13:26:36)
+(date: 2024-04-30 19:19:58)
+
+---
+
+## CSUN baseball clinches sweep over Roadrunners, extends its winning streak to eight
+
+date: 2024-05-01, from: The Sundail (CSUN Student Newspaper)
+
+CSUN wrapped up its three-game home series with a triumphant sweep over Cal State Bakersfield, extending its winning streak to eight. Outfielder Will Linberg&#8217;s exceptional performance set the pace during... 
+
+<https://sundial.csun.edu/181271/sports/csun-baseball-clinches-sweep-over-roadrunners-extends-its-winning-streak-to-eight/>
+
+---
+
+## Gallery: Thousands of pro-Israel, pro-Palestine protesters rally near UCLA encampment
+
+date: 2024-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Counter-protesters demonstrated against pro-Palestine protesters Sunday, filling Dickson Plaza and Portola Plaza with thousands of people.&#160;
+The counter-protest, organized by the Israeli American Council, drew thousands of participants. 
+
+<https://dailybruin.com/2024/04/30/gallery-thousands-of-pro-israel-pro-palestine-protesters-rally-near-ucla-encampment/>
+
+---
+
+## Block indicates potential consequences for protesters, condemns campus aggression
+
+date: 2024-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+For the Daily Bruin’s full coverage of the UC Divest Coalition and Students for Justice in Palestine encampment, see here.
+Chancellor Gene Block released a statement Tuesday saying the university has increased its security presence around the pro-Palestine encampment in Dickson Plaza, has requested law enforcement investigations into allegations of violence and has begun the student conduct process that may result in disciplinary action. 
+
+<https://dailybruin.com/2024/04/30/block-indicates-potential-consequences-for-protesters-condemns-campus-aggression/>
+
+---
+
+## CSUN Women’s Basketball season ends with struggles
+
+date: 2024-05-01, from: The Sundail (CSUN Student Newspaper)
+
+The Matadors concluded their season with a reasonable effort, but more was needed to secure a spot in the postseason conference tournament for the third consecutive year. Through the uphill... 
+
+<https://sundial.csun.edu/181263/sports/csun-womens-basketball-season-ends-with-struggles/>
+
+---
+
+## UCLA declares encampment unlawful, states potential consequences for participants
+
+date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+For the Daily Bruin’s full coverage of the UC Divest Coalition and Students for Justice in Palestine encampment, see here.
+UCLA released a letter Tuesday to those inside the pro-Palestine encampment in Dickson Plaza saying their protest is “unlawful and violates university policy” and could result in suspension or expulsion. 
+
+<https://dailybruin.com/2024/04/30/ucla-declares-encampment-unlawful-states-potential-consequences-for-participants/>
+
+---
+
+## Angie Ned named head coach of CSUN women’s basketball
+
+date: 2024-04-30, from: The Sundail (CSUN Student Newspaper)
+
+CSUN Athletic Director Shawn Chin-Farrell has announced that Angie Ned will be the next head coach for the women’s basketball team. Ned comes to Northridge from California Baptist University, where... 
+
+<https://sundial.csun.edu/181258/sports/angie-ned-named-head-coach-of-csun-womens-basketball/>
+
+---
+
+## UCLA’s De Neve Late Night relaunches for increased evening meal options
+
+date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Bruins on the Hill are now enjoying midnight meals.
+De Neve Late Night relaunched this quarter, offering build-your-own pizzas in the dining hall from 10 p.m. 
+
+<https://dailybruin.com/2024/04/30/uclas-de-neve-late-night-relaunches-for-increased-evening-meal-options/>
+
+---
+
+## Forward Berke Buyuktuncel set to transfer out of UCLA men’s basketball
+
+date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+One is the loneliest number – or so the song goes.
+The Bruins weren’t Harry Nilsson’s inspiration when he wrote the piece, but he might as well have sung about them. 
+
+<https://dailybruin.com/2024/04/30/forward-berke-buyuktuncel-set-to-transfer-out-of-ucla-mens-basketball/>
+
+---
+
+## Republican lawmakers condemn campus antisemitism, demand UCLA’s Congress testimony
+
+date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Federal lawmakers summoned UCLA officials Tuesday to testify in front of a congressional committee to address their concerns about rising antisemitism on campus and the university’s handling of ongoing protests over the war in Gaza. 
+
+<https://dailybruin.com/2024/04/30/republican-lawmakers-condemn-campus-antisemitism-demand-uclas-congress-testimony/>
+
+---
+
+## Protester detained by UCPD atop Powell scaffolding, classes affected by encampment
+
+date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Police detained a student protester inside Powell Library for an hour Tuesday morning. Royce Hall was closed to students, and some classes across campus were moved online shortly after. 
+
+<https://dailybruin.com/2024/04/30/protester-detained-by-ucpd-atop-powell-scaffolding-classes-affected-by-encampment/>
+
+---
+
+## UCLA men’s volleyball advances to NCAA semifinal with sweep of Fort Valley State
+
+date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+John Speraw has long stressed the importance of coming out the gates firing.
+In the coach’s past two matches, his team failed to complete the task. 
+
+<https://dailybruin.com/2024/04/30/ucla-mens-volleyball-advances-to-ncaa-semifinal-with-sweep-of-fort-valley-state/>
+
+---
+
+## Q&A: Inside alumnus Terry Hu’s journey from STEM to Hollywood as a queer Asian American
+
+date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Alumnus Terry Hu is paving the way for Asian and nonbinary actors in the film industry.
+The former neuroscience student turned actor will be appearing in Hulu&#8217;s upcoming comedy film &#8220;Prom Dates,&#8221; which is premiering May 3. 
+
+<https://dailybruin.com/2024/04/30/qa-inside-alumnus-terry-hus-journey-from-stem-to-hollywood-as-a-queer-asian-american/>
+
+---
+
+## UCLA men’s golf places in the middle of Pac-12 championships
+
+date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins had one final chance to win a Pac-12 title.
+But after rough conditions tinted their opportunities, they came up short. 
+UCLA men&#8217;s golf placed sixth in the Pac-12 championships at the Desert Forest Golf Club over the weekend, ultimately finishing in the middle of the pack in a tournament that was its last before a potential NCAA regional appearance. 
+
+<https://dailybruin.com/2024/04/30/ucla-mens-golf-places-in-the-middle-of-pac-12-championships/>
+
+---
+
+## Northridge Review promotes creative expression among students
+
+date: 2024-04-30, from: The Sundail (CSUN Student Newspaper)
+
+It’s an evening full of both excitement and nervousness. Over a dozen people filled auditorium chairs, talking and laughing with one another. Within a few minutes, the room suddenly became... 
+
+<https://sundial.csun.edu/181241/news/northridge-review-promotes-creative-expression-among-students/>
+
+---
+
+## UCLA track and field concludes regular season with loss at USC dual meet
+
+date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+A kaleidoscope of blue and red hues filled the Colich Throws Center and Loker Stadium as the rivals competed.
+Yet instead of seizing the title of &#8220;We Run LA,&#8221; the Bruins were swept by their opponents. 
+
+<https://dailybruin.com/2024/04/30/ucla-track-and-field-concludes-regular-season-with-loss-at-usc-dual-meet/>
+
+---
+
+## UCLA women’s tennis seeded No. 8 for NCAA championships
+
+date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 30 at 6:32 p.m.</em>
+<em>Editor&#8217;s note: This article was updated to reflect a correction issued by the NCAA that UCLA women&#8217;s tennis will host San Diego State on May 3, and not Denver.</em> 
+
+<https://dailybruin.com/2024/04/30/ucla-womens-tennis-seeded-no-8-for-ncaa-championships/>
+
+---
+
+## Autistic, Black and Proud: An interview with David Adam Tucker
+
+date: 2024-04-30, from: The Sundail (CSUN Student Newspaper)
+
+In this divisive year of 2024, many are divided between race, party and neurodiversity. These topics came to a head on March 9, 2024, as 15-year-old Ryan Gainer of Apple... 
+
+<https://sundial.csun.edu/181234/news/autistic-black-and-proud-an-interview-with-david-adam-tucker/>
+
+---
+
+## Oxy SJP and Oxy JVP stage encampment for Palestine, plan to stay ‘as long as possible’
+
+date: 2024-04-30, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>April 29, 4 a.m., Occidental Students for Justice in Palestine (Oxy SJP) and Occidental Jewish Voice for Peace (Oxy JVP) assembled an encampment of 17 tents on the Academic Quad, below the steps of the Arthur G. Coons Administrative Building, to show solidarity with Palestinians against Israeli occupation in the West Bank and the conflict [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/04/30/oxy-sjp-and-oxy-jvp-stage-encampment-for-palestine-plan-to-stay-as-long-as-possible/2912445">Oxy SJP and Oxy JVP stage encampment for Palestine, plan to stay &#8216;as long as possible&#8217;</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/04/30/oxy-sjp-and-oxy-jvp-stage-encampment-for-palestine-plan-to-stay-as-long-as-possible/2912445>
+
+---
+
+## UCPD responds to counter-protesters’ midnight attempt to breach encampment
+
+date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Around 60 counter-protesters attempted to breach the entrance of the encampment in Dickson Plaza around midnight Tuesday morning, drawing the presence of six UCPD officers in riot gear. 
+
+<https://dailybruin.com/2024/04/30/ucpd-responds-to-counter-protesters-midnight-attempt-to-breach-encampment/>
+
+---
+
+## Opinion: UC Berkeley must acknowledge, denounce ethnic cleansing against Armenians
+
+date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+UC Berkeley as an educational institution has long been synonymous with student activism and civic engagement, its campus serving as the backdrop to catalytic movements ranging from the Free Speech Movement to the Disability Rights Movement. 
+
+<https://dailybruin.com/2024/04/30/opinion-uc-berkeley-must-acknowledge-denounce-ethnic-cleansing-against-armenians/>
+
+---
+
+## Issue 9 – April 2024
+
+date: 2024-04-30, from: The Sundail (CSUN Student Newspaper)
+
+Letter from the Editor: Issue 9 Volume 64 Staff Highlight: The students who make the Sundial possible Sundial Alumni Advice: Where they are and how they got there Passionately accessible:... 
+
+<https://sundial.csun.edu/181223/print-editions/issue-9-april-2024/>
+
+---
+
+## Restaurant review: The Poke Co. & Wings provides diverse, accessible option for Bruins
+
+date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Poke Co. &#38; Wings is proving that opposites do attract.
+Located in the same vicinity as Trader Joe&#8217;s and Ministry of Coffee, the restaurant opened April 5. 
+
+<https://dailybruin.com/2024/04/29/restaurant-review-the-poke-co-wings-provides-diverse-accessible-option-for-bruins/>
+
+---
+
+## Amarasekare’s circle alleges collective punishment. Critics say her claims are one-sided.
+
+date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+It started with a maxed-out credit card and a blood test she couldn’t get for her sick child. Soon, the mortgage bill came in. Ecology and evolutionary biology professor Priyanga Amarasekare realized she was facing foreclosure. 
+
+<https://dailybruin.com/2024/04/29/amarasekares-circle-alleges-collective-punishment-critics-say-her-claims-are-one-sided/>
+
+---
+
+## Editorial: UCLA Dining must prioritize consistency in students’ dining experiences
+
+date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 29 at 7:09 p.m.&#160;</em>
+One step forward, two steps back.
+Since the return of students to campus after the COVID-19 pandemic, UCLA Dining has failed to build upon the momentum of its small wins and ultimately struggled to find its footing. 
+
+<https://dailybruin.com/2024/04/29/editorial-ucla-dining-must-prioritize-consistency-in-students-dining-experiences/>
+
+---
+
+## Bruin to Bruin: Bonique Edwards
+
+date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Entrepreneur, leadership development coach, and diversity, equity and inclusion expert Bonique Edwards discusses her time at UCLA and advice for UCLA students with Podcasts contributor Reese Dahlgren. 
+
+<https://dailybruin.com/2024/04/29/bruin-to-bruin-bonique-edwards/>
+
+---
+
+## Gallery: Hammer Student Association, CEC host annual Arts Party with headliner Yves Tumor
+
+date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+In collaboration with UCLA’s Campus Events Commission, the Hammer Student Association threw its annual Arts Party at the Hammer Museum Friday. The college-student-exclusive event featured a performance from artist and producer Yves Tumor, as well as various art-making workshops. 
+
+<https://dailybruin.com/2024/04/29/gallery-hammer-student-association-cec-host-annual-arts-party-with-headliner-yves-tumor/>
+
+---
+
+## Candidates in upcoming USAC elections participate in solidarity encampment
+
+date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Several candidates for the upcoming Undergraduate Students Association Council (USAC) elections participated in the ongoing Gaza solidarity encampment in Dickson Plaza.
+The encampment – organized by the UC Divest Coalition and Students for Justice in Palestine at UCLA – began Thursday morning and continued throughout Friday. 
+
+<https://dailybruin.com/2024/04/29/candidates-in-upcoming-usac-elections-participate-in-solidarity-encampment/>
+
+---
+
+## EV Car Show brings sustainability to CSUN
+
+date: 2024-04-29, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN Institute for Sustainability hosted the third annual EV Car Show on Wednesday, April 17, 2024 from 10 a.m. to 3 p.m. The cars were lined up on the... 
+
+<https://sundial.csun.edu/181212/news/ev-car-show-brings-sustainability-to-csun/>
 
 ---
 

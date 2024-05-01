@@ -1,11 +1,182 @@
 ---
 title: writing 2024.18
-updated: 2024-04-29 13:26:37
+updated: 2024-04-30 19:19:58
 ---
 
 # writing 2024.18
 
-(date: 2024-04-29 13:26:37)
+(date: 2024-04-30 19:19:58)
+
+---
+
+## Scriptnotes, Episode 637: Love and Money, Transcript
+
+date: 2024-05-01, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August. Craig Mazin: My name is Craig Mazin. John: And this is Episode 637 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, Cowboy Carter is the new [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-637-love-and-money-transcript">Scriptnotes, Episode 637: Love and Money, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/scriptnotes-episode-637-love-and-money-transcript>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-30, from: Neil Gaiman @ BlueSky)
+
+For people who enjoyed DEAD BOY DETECTIVES, the cast and some of the creators tell you things and answer questions:
+
+https://youtu.be/SZ46HfOaOzU?si=29vSZoS0BJtGHJ2K 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kres7qthh22p>
+
+---
+
+## Clay Wins 2024 GUFF
+
+date: 2024-04-30, from: Locus Magazine
+
+<p>Kat Clay has won the 2024 Going Under Fan Fund (GUFF), intended to send one fan from Australasia to Glasgow 2024, the 82nd Worldcon. Ian Nichols was the other nominee. There were 81 votes counted. The fund is currently administered in Europe by Alison Scott and in Australasia by Simon Litten.</p>
+<p>For more information, see the GUFF website.</p>
+<div class="mynomorebulletlist">
+
+<p>
+
+
+     (adsbygoogle = window.adsbygoogle &#124;&#124; []).push({});
+
+<strong>While you are here,</strong> please take a </p></div> <a href="https://locusmag.com/2024/04/clay-wins-2024-guff/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/04/clay-wins-2024-guff/>
+
+---
+
+## What Characters Know
+
+date: 2024-04-30, from: John August blog
+
+John and Craig investigate what characters know and how we know they know what they know. It’s something that can be as confusing as that last sentence was, but they offer clear guidance on building informed characters, audience expectations, and how to get everybody on the same page. We also look at how ad breaks [&#8230;]
+The post <a href="https://johnaugust.com/2024/what-characters-know">What Characters Know</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/what-characters-know>
+
+---
+
+## Niall Harrison Reviews Jumpnauts by Hao Jingfang
+
+date: 2024-04-30, from: Locus Magazine
+
+<p><strong>Jumpnauts</strong>, Hao Jingfang (trans. Ken Liu) (Saga 978-1-53442-211-7, 368pp, $18.99). March 2024.</p>
+<p>Deep in the bowels of Hao Jingfang’s <strong>Jumpnauts</strong>, an alien guide reveals to the human protagonists that what defines civilisational progression, from their elevated perspective, is ‘‘the capacity for information exchange.’’ The development of writing, which allows information to be transmit­ted widely in space and time, was the necessary precondition to reach the ‘‘zeroth rank’’ of  <a href="https://locusmag.com/2024/04/niall-harrison-reviews-jumpnauts-by-hao-jingfang/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/niall-harrison-reviews-jumpnauts-by-hao-jingfang/>
+
+---
+
+## On-Set Etiquette for Screenwriters
+
+date: 2024-04-30, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/on-set-etiquette-for-screenwriters" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/What%20Do%20Screenwriters%20Do%20on%20Film%20Sets.jpg" alt="What Do Screenwriters Do on Film Sets?" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>It all starts with the script. But once the script&nbsp;</span><span>is finished</span><span>&nbsp;and ready to be turned into a movie, writers can often feel completely cut off from the process.&nbsp;</span><span>I've</span><span>&nbsp;heard tales of screenwriters walking down a closed-off street and realizing a film they wrote was&nbsp;</span><span>being shot</span><span>, and they had no idea.&nbsp;</span></p> 
+
+<https://blog.finaldraft.com/on-set-etiquette-for-screenwriters>
+
+---
+
+## 2024 SLF Writers Grant Applications Open
+
+date: 2024-04-29, from: Locus Magazine
+
+<p>Submissions for the Speculative Literature Foundation&#8217;s (SLF) Older Writers Grant are open through May 31, 2024.</p>
+<p>The $1,000 grant is awarded to a writer who is 50 years of age or older and &#8220;just starting to work at a professional level.&#8221; The award is &#8220;to be used as each writer determines will best assist their work.&#8221; The recipient will be selected by SLF members and announced on July 15, 2024. <a href="https://locusmag.com/2024/04/2024-slf-writers-grant-applications-open/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/04/2024-slf-writers-grant-applications-open/>
+
+---
+
+## Magazines Received – April
+
+date: 2024-04-29, from: Locus Magazine
+
+<div class="blockquote">This list covers new SF/F/H print, online, and electronic periodicals (including regularly updated websites) seen by Locus magazine, focusing on those that publish fiction or reviews and criticism. To submit titles for listing on these pages, please send to Locus Publications, 655 13th St. #100, Oakland CA 94612 or email locus@locusmag.com.</div>
+<div>
+<div class="mynomorebulletlist">
+<div class="mynomorebulletlist">
+<div class="mynomorebulletlist">
+<div class="mynomorebulletlist">
+
+<div class="mynomorebulletlist">
+<p>Bourbon Penn</p>
+<ul>
+<li>Erik Secker, ed.</li>
+<li>Issue No. 32, March 2024, $14.95 print/$2.99 digital/free online, three times a year, 162pp, </li></ul></div></div></div></div></div></div> <a href="https://locusmag.com/2024/04/magazines-received-april-4/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/04/magazines-received-april-4/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-04-29, from: Neil Gaiman @ BlueSky)
+
+For everyone who ever gets sad at the prices cool books go for in auctions and wishes for raffles for a good cause instead...
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3krcg7zdg7c24>
+
+---
+
+## Scriptnotes, Episode 636: Whispering Loudly, Transcript
+
+date: 2024-04-29, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August, and this is Episode 636 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. (Whispers:) Today on the show, what’s with all the whispering in movies? Is it a deliberate narrative [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-636-whispering-loudly-transcript">Scriptnotes, Episode 636: Whispering Loudly, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/scriptnotes-episode-636-whispering-loudly-transcript>
+
+---
+
+## 2024 Tomorrow Prize Finalists and Green Feather Winner
+
+date: 2024-04-29, from: Locus Magazine
+
+<div class="mynomorebulletlist">
+<p>The Omega Sci-Fi Awards has announced the finalists for its Tomorrow Prize short story competition:</p>
+<ul>
+<li>&#8220;Our Blue Sky&#8221;, Isabel Ceballos</li>
+<li>&#8220;Stardust&#8221;, Shajid Islam</li>
+<li>&#8220;Pandemonium Porcellus&#8221;, Steven Ortega</li>
+<li>&#8220;Goodbye, Said the Machine&#8221;, Ariel Preston</li>
+<li>&#8220;My Nellhan&#8221;, Avery Watson</li>
+</ul>
+<p>Honorable mentions were given to the following stories:</p>
+<ul>
+<li>“Saving Aquarion”, Rylee Christiansen</li>
+<li>“Remembered Stories”, Izzy Kellett</li>
+<li>“Wake Up”, Lydia Kim</li>
+<li>“Herman: The Street Merchant&#8221;, Angel Martinez</li>
+<li>“Ouroboros”, Aubrey Reyes</li>
+</ul>
+<p>The Tomorrow Prize is </p></div> <a href="https://locusmag.com/2024/04/2024-tomorrow-prize-finalists-and-green-feather-winner/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/04/2024-tomorrow-prize-finalists-and-green-feather-winner/>
+
+---
+
+## 2024 Seiun Awards Nominees
+
+date: 2024-04-29, from: Locus Magazine
+
+<p>Yanekon, the 62nd Japan Science Fiction Convention, has announced the finalists for the 2024 Seiun Awards (the Japanese equivalent of the Hugo Awards), honoring the best original and translated works published last year in Japan.</p>
+<div class="nobullets">
+<p><strong>Best Translated Novel</strong></p>
+<ul>
+<li><strong>Mickey 7</strong>, Edward Ashton, translated by Mayumi Otani (Hayakawa Bunko SF)</li>
+<li><strong>The Greenhouse at the End of the World</strong>, Kim Cho-yeop, translated by Kang Bang-hwa (Hayakawa Shobo)</li>
+<li><strong>Civilizations</strong>, Laurent </li></ul></div> <a href="https://locusmag.com/2024/04/2024-seiun-awards-nominees/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/04/2024-seiun-awards-nominees/>
 
 ---
 

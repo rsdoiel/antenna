@@ -1,11 +1,496 @@
 ---
 title: tech likely 2024.18
-updated: 2024-04-29 13:26:37
+updated: 2024-04-30 19:19:58
 ---
 
 # tech likely 2024.18
 
-(date: 2024-04-29 13:26:37)
+(date: 2024-04-30 19:19:58)
+
+---
+
+## U.S. Department of State Open House at NASA Headquarters
+
+date: 2024-05-01, from: NASA breaking news
+
+This event was part of Space Diplomacy Week, focused on deepening bilateral relationships, specifically how international partnerships are strengthened by space exploration. 
+
+<https://www.nasa.gov/image-article/u-s-department-of-state-open-house-at-nasa-headquarters/>
+
+---
+
+## NASA Ames Astrogram – March/April 2024
+
+date: 2024-04-30, from: NASA breaking news
+
+Advanced Composite Solar Sail System Successfully Launches On April 23, the Advanced Composite Solar Sail System&#160;CubeSat mission launched successfully aboard an Electron rocket launched by Rocket Lab and carried Ames’ payload from Māhia, New Zealand. The CubeSat was subsequently delivered to a Sun-synchronous orbit around Earth. Ames has pioneered the use of CubeSats and small [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/ames/nasa-ames-astrogram-march-april-2024/>
+
+---
+
+##  Amazon has renewed Fallout for a second season. I&#8217;ve been watching this... 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044520-amazon-has-renewed-fallou>
+
+---
+
+##  Mike Masnick shares how he uses AI to help write Techdirt. &#8220;No,... 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044518-mike-masnick-shares-how-h>
+
+---
+
+## Ive Drives Icons
+
+date: 2024-04-30, from: Michael Tsai
+
+Louie Mantia (Mastodon): It&#8217;s been 15 years since the original and 12 years since the sequel. Volume 3 contains a staggering 125 hard drive icons, comprising of 25 metal colors (most&#8212;if not all&#8212;of Apple&#8217;s modern product colors), with 5 varieties of each. Beautiful external drive icons up to 1,024&#xD7;1,024. I&#8217;m not sure whether there&#8217;s a [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/30/ive-drives-icons/>
+
+---
+
+## iPadOS Also a Digital Gatekeeper in EU
+
+date: 2024-04-30, from: Michael Tsai
+
+Tim Hardwick (Hacker News): EU antitrust officials on Monday identified iPadOS, Apple&#8217;s operating system for iPads, as a significant digital gatekeeper under the EU&#8217;s new tech regulations, which carry strict requirements that aim to promote fair competition and expand options for consumers. [&#8230;]&#8220;Apple&#8217;s business user numbers exceeded the quantitative threshold elevenfold, while its end user [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/30/ipados-also-a-digital-gatekeeper-in-eu/>
+
+---
+
+## Swift Proposal: Synchronous Mutual Exclusion Lock
+
+date: 2024-04-30, from: Michael Tsai
+
+SE-0433: Not all code may be able (or want) to adopt actors. Reasons for this can be very varied, for example code may have to execute synchronously without any potential for other tasks interleaving with it. Or the async effect introduced on methods may prevent legacy code which cannot use Swift Concurrency from interacting with [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/30/swift-proposal-synchronous-mutual-exclusion-lock/>
+
+---
+
+## Losing Screen Time Settings
+
+date: 2024-04-30, from: Michael Tsai
+
+Craig Grannell: Needed to turn off Screen Time temporarily. Apple: &#8220;bollocks to you, then&#8221;. Infers the set-up is wiped and has me start from scratch. I go through the set-up, and it merges the new one with what was already there. But the block set-ups have been randomly wiped.[&#8230;]It&#8217;s astonishing that this is the way [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/30/losing-screen-time-settings/>
+
+---
+
+## Hearing for Apple Violating Epic’s Injunction
+
+date: 2024-04-30, from: Michael Tsai
+
+games fray (PDF, via Michael Love): Judge Yvonne Gonzalez Rogers of the United States District Court for the Northern District of California, who presided over the 2021 Epic v. Apple trial and made the ruling in question, has now reached the preliminary conclusion that Apple is presently out of compliance with the injunction, which could [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/30/hearing-for-apple-violating-epics-injunction/>
+
+---
+
+## Google Lays Off Python Team
+
+date: 2024-04-30, from: Michael Tsai
+
+Sarah Perez (Reddit): Ahead of Google&#8217;s annual I/O developer conference in May, the tech giant has laid off staff across key teams like Flutter, Dart, Python and others, according to reports from affected employees shared on social media. zem: in addition to contributing to upstream python, wemaintained a stable version of python within google, and [&#8230;] 
+
+<https://mjtsai.com/blog/2024/04/30/google-lays-off-python-team/>
+
+---
+
+## Sols 4171-4172: Scoot Over!
+
+date: 2024-04-30, from: NASA breaking news
+
+Earth planning date: Monday, April 29, 2024 On this two sol-planning day, the Curiosity science team logged in and found ourselves face to face with ‘Pinnacle Ridge’ (pictured above), part of the upper Gediz Vallis Ridge (uGVR). We saw two types of rocks in our workspace: light-toned layered rocks and darker toned rocks. Rocks that […] 
+
+<https://science.nasa.gov/blogs/sols-4171-4172-scoot-over/>
+
+---
+
+##  Art Celebrity Doppelgängers 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/art-celebrity-doppelgangers>
+
+---
+
+## You can’t just assume UTF-8
+
+date: 2024-04-30, from: OS News
+
+Humans speak countless different languages. Not only are these languages incompatible, but runtime transpilation is a real pain. Sadly, every standardisation initiative has failed. At least there is someone to blame for this state-of-affairs: God. It was him, after-all, who cursed humanity to speak different languages, in an early dispute over a controversial property development. However, mankind can only blame itself for the fact that computers struggle to talk to each other. And one of the biggest problems is the most simple: computers do not agree on how to write letters in binary. ↫ Cal Paterson For most users, character encoding issues are not something they have to deal with. Programmers and other people who deal with the lower levels of computing, however, deal with this way more often than they should. 
+
+<https://www.osnews.com/story/139508/you-cant-just-assume-utf-8/>
+
+---
+
+## LinuxFest Northwest 2024
+
+date: 2024-04-30, from: Stephen Smith's blog
+
+Introduction LinuxFest Northwest is an annual gathering of open source enthusiasts held in Bellingham halfway between the major cities of Vancouver, BC and Seattle, Washington. Sadly, the last proper event was held in 2019, then during COVID they tried running a virtual event with limited success and then when COVID ended they were going to [&#8230;] 
+
+<https://smist08.wordpress.com/2024/04/30/linuxfest-northwest-2024/>
+
+---
+
+##  A lovely profile of Daniel Radcliffe. &#8220;If there’s a sweet spot to... 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044517-a-lovely-profile-of-danie>
+
+---
+
+## NASA Balloons Head North of Arctic Circle for Long-Duration Flights
+
+date: 2024-04-30, from: NASA breaking news
+
+NASA is set to begin launch operations mid-May for the 2024 Sweden Long-Duration Scientific Balloon Campaign. Four stadium-sized, scientific balloons carrying science missions and technology demonstrations are scheduled to lift off from Swedish Space Corporation’s Esrange Space Center, situated north of the Arctic Circle near Kiruna, Sweden. The campaign will continue through early July. “NASA’s [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/wallops/nasa-balloons-head-north-of-arctic-circle-for-long-duration-flights/>
+
+---
+
+## A few facts about POSIX
+
+date: 2024-04-30, from: OS News
+
+Over 35 years ago, these problems with software portability led to the emergence of the first POSIX standard in 1988. The acronym was coined by Richard Stallman, who added &#8220;X&#8221; to the end of Portable Operating System Interface. It&#8217;s meant to provide a specification of the interface that different Unix operating systems should have in common, including programming languages and tools. It&#8217;s important to note that the interface is portable, and not the implementation. ↫ vorakl While POSIX certainly isn&#8217;t perfect, and support for it in various operating systems claiming to support POSIX even less so, there&#8217;s no denying its success. Even if the dream of 100% source code portability isn&#8217;t possible under POSIX for applications that are a little more complex than basic CLI tools, there&#8217;s enough portability that platforms like Linux, the various BSDs, macOS, and others, can share quite a bit of code. One of my favourite things about POSIX is that it shows up in the most unexpected of places. Windows, for instance, has had various options for POSIX compatibility, some of which straight from Microsoft itself, like the currently well-known Windows Subsystem for Linux, but also mostly forgotten options like the Microsoft POSIX subsystem that shipped with Windows NT until Windows 2000, or the very rudimentary POSIX compatibility in the Windows C Runtime Library and Windows Sockets API. OS/2 had POSIX compatibility as well, through EMX (Eberhard Mattes eXtender). It gave OS/2 &#8211; and MS-DOS &#8211; a POSIX API, and even provided access to native OS/2 APIs as well, and could run 32bit applications. You&#8217;d be surprised by how many more operating systems offered forms of POSIX compatibility, either out of the box or through first or third party add-ons. 
+
+<https://www.osnews.com/story/139506/a-few-facts-about-posix/>
+
+---
+
+## NASA Showcases Innovations at the 2024 FIRST Robotics World Championships
+
+date: 2024-04-30, from: NASA breaking news
+
+NASA engaged with fans, student robotics teams, and industry leaders at the 2024 FIRST Robotics World Championships held April 17-20, at the George R. Brown Convention Center in Houston. The exhibit highlighted the future of technology and spaceflight, attracting over 50,000 participants from across the United States and worldwide.&#160; The FIRST Robotics World Championships was [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/nasa-showcases-innovations-at-the-2024-first-robotics-world-championships/>
+
+---
+
+##  The JWST recently captured the Horsehead Nebula in &#8220;unprecedented detail&#8221;.... 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044516-the-jwst-recently-capture>
+
+---
+
+##  The AP is reporting that the DEA will reclassify marijuana as a... 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044515-the-ap-is-reporting-that>
+
+---
+
+## RISC-V support in Android just got a big setback
+
+date: 2024-04-30, from: OS News
+
+Although Google has shown significant progress in recent weeks in improving RISC-V support in Android, it seems that we’re still quite a bit away from seeing RISC-V hardware running certified builds of Android. Earlier today, a Senior Staff Software Engineer at Google who, according to their LinkedIn, leads the Android Systems Team and works on Android’s Linux kernel fork, submitted a series of patches to AOSP that “remove ACK’s support for riscv64.” The description of these patches states that “support for risc64 GKI kernels is discontinued.” ↫ Mishaal Rahman Google provided Android Authority with a statement, claiming that Android will continue to support RISC-V. What these patches do, however, is remove support for the architecture from the Generic Kernel Image, which is the only type of kernel Google certifies for Android, which means that it is now no longer possible to ship a certified Android device that uses RISC-V. Any OEM shipping a RISC-V Android device will have to create and maintain its own kernel fork with the required patches. This doesn&#8217;t seem to align with Google&#8217;s statement. So, unless Google intends to add RISC-V support back into GKI, there won&#8217;t be any officially certified Android devices running on RISC-V. Definitely an odd chain of events here. 
+
+<https://www.osnews.com/story/139504/risc-v-support-in-android-just-got-a-big-setback/>
+
+---
+
+## Johnson Celebrates New Opportunities for Space Industry in Texas
+
+date: 2024-04-30, from: NASA breaking news
+
+NASA’s Johnson Space Center was recently involved in two major announcements with important implications for the future of space exploration and the aerospace industry. On Feb. 29, 2024, NASA announced that the American Center for Manufacturing and Innovation (ACMI) signed an agreement to become a tenant at Johnson’s 240-acre Exploration Park. ACMI will lease a [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/johnson-celebrates-new-opportunities-for-space-industry-in-texas/>
+
+---
+
+## St. Mark’s Place
+
+date: 2024-04-30, from: Ayjay blog
+
+The Five Spot, on St. Mark&#8217;s Place in Manhattan, hosted most of the great jazz musicians of the middle part of the twentieth century — Charles Mingus, for instance: It was also a block-and-a-half from 77 St. Mark&#8217;s Place, which is where for a long time Auden lived for about half of each year. (Leon [&#8230;] 
+
+<https://blog.ayjay.org/st-marks-place/>
+
+---
+
+## NASA’s Hubble Pauses Science Due to Gyro Issue
+
+date: 2024-04-30, from: NASA breaking news
+
+Updated April 30, 2024 Editor’s note: On April 30, 2024, NASA announced it restored the agency’s Hubble Space Telescope to science operations April 29. The spacecraft is in good health and once again operating using all three of its gyros. All of Hubble’s instruments are online, and the spacecraft has resumed taking science observations.  Published April 26, 2024 NASA […] 
+
+<https://science.nasa.gov/missions/hubble/nasas-hubble-pauses-science-due-to-gyro-issue/>
+
+---
+
+## NASA Grants Support Academic Collaborations for STEM Student Success
+
+date: 2024-04-30, from: NASA breaking news
+
+NASA has awarded $3.9 million to 13 teams at under-resourced academic institutions across the country, to support collaborative projects with NASA that offer students mentorship and career development in science, technology, engineering, and math. This is the second round of seed funding awards given through the agency’s Science Mission Directorate (SMD) Bridge Program, which was [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-grants-support-academic-collaborations-for-stem-student-success/>
+
+---
+
+##  AI Image Feedback Loop 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/ai-image-feedback-loop>
+
+---
+
+## Tech Today: Stay Safe with Battery Testing for Space
+
+date: 2024-04-30, from: NASA breaking news
+
+NASA battery safety exams influence commercial product testing 
+
+<https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/tech-today-stay-safe-with-battery-testing-for-space/>
+
+---
+
+## And the lion shall lie down with…?
+
+date: 2024-04-30, from: Status-Q blog
+
+From our &#8220;this may help you win a bet in the pub&#8221; collection&#8230; If you know the quiz show &#8216;QI&#8217;, you might imagine Stephen Fry asking &#8220;With whom will the lion lie down?&#8221;, and Alan Davies sheepishly responding &#8220;The lamb?&#8221;&#8230; before the claxons start, indicating a wrong answer. Because if you look at Isaiah chapter <a class="more-link excerpt-link" href="https://statusq.org/archives/2024/04/30/12054/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<https://statusq.org/archives/2024/04/30/12054/>
+
+---
+
+##  Super cool photos from this story about a nuclear-powered submarine. Interesting detail:... 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044510-super-cool-photos-from-th>
+
+---
+
+## Cricket Deserved Better
+
+date: 2024-04-30, updated: 2024-04-30, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/04/30/cricket-deserved-better/>
+
+---
+
+##  I love watching these genetic algorithm thingies. &#8220;The program uses a simple... 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044508-i-love-watching-these-gen>
+
+---
+
+## NASA’s Commitment to Safety Starts with its Culture
+
+date: 2024-04-30, from: NASA breaking news
+
+NASA works on projects that often have never been done, or perhaps the way they are being done has never been tried. Living on the edge of innovation requires a high degree of risk. After organizational silence led to the loss of space shuttle Challenger and its crew in 1986, NASA vowed to change the [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasas-commitment-to-safety-starts-with-its-culture/>
+
+---
+
+##  Check In On Those Around You 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/check-in-on-those-around-you>
+
+---
+
+## To Pack Spheres Tightly, Mathematicians Throw Them at Random
+
+date: 2024-04-30, from: Quanta Magazine
+
+Four mathematicians broke a 75-year-old record by finding a denser way to pack high-dimensional spheres.            <p>The post <a href="https://www.quantamagazine.org/to-pack-spheres-tightly-mathematicians-throw-them-at-random-20240430/" target="_blank">To Pack Spheres Tightly, Mathematicians Throw Them at Random</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/to-pack-spheres-tightly-mathematicians-throw-them-at-random-20240430/>
+
+---
+
+##  &#8220;It’s clear to me that sharing our shortcomings and weaknesses with each... 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/04/0044501-its-clear-to-me-that>
+
+---
+
+## 3D printing a Raspberry Pi 5 in resin
+
+date: 2024-04-30, from: Raspberry Pi News (.com)
+
+<p>The first job for our new resin 3D printer was an oversized Raspberry Pi 5, naturally. Here's how we went about it.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/3d-printing-a-raspberry-pi-5-in-resin/">3D printing a Raspberry Pi 5 in resin</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/3d-printing-a-raspberry-pi-5-in-resin/>
+
+---
+
+## It's different after its gone
+
+date: 2024-04-30, from: Dave Winer's Scripting News
+
+<p><i>Note: This post is the summary of a <a href="http://scripting.com/2024/04/30/weNeedMoreChange.m4a">podcast</a>. </i></p>
+<p>When my mother died in 2018, it didn't settle in that the context in which I lived, my whole life, was gone. </p>
+<p>She lived in the house I was raised in. Very little had changed in that house. I hadn't lived there since I went away to college, but it still defined who I was, an adult who didn't live in his childhood home. When we sold the house, the last time I saw it, it was empty, and that was when it hit me. That part of my life is over. I no longer have a home I can return to.</p>
+<p>The same is true with our understanding of who we are as adult American citizens. Until now we felt we had a vote. But that is over, unless we change our view of the country we live in. It's not that it's about to change, which is what you hear in the news, and on social web -- <i>it has already changed. </i></p>
+<p>We now understand that Trump may be above the law but that masks a bigger truth, the Supreme Court is already above the law. They take bribes, openly. They cannot be prosecuted (just try it and see what happens). They openly side with the insurrection, yet don't recuse when deciding issues of what to do with the insurrectionists. They imagine the president is a monarch. </p>
+<p>We're already living in the authoritarian state we're worried about. We haven't caught up with that reality yet. </p>
+<p>Our government is more concerned about our right to own guns than it is with our right to own our own bodies. Stop for a moment and let that sink in. If I said you don't own your own body, what would you think I'm talking about? Answer: Slavery. </p>
+<p>If we did catch up with that reality, we would start organizing now to undo that mistake. We would not only re-elect Biden in a landslide, but we'd insist that he expand the court to 100 members serving 10-year terms each, retroactive. And thus we would eliminate one of the huge problems in our system of government. Have they proved they need this kind of correction? Yes, the overturning of Roe, and the lack of prosecution of Trump for trying to overthrow the government are all the proof we need. </p>
+<p>And from then-on, no politician in any branch of government would take us for granted.</p>
+ 
+
+<http://scripting.com/2024/04/30/125735.html?title=itsDifferentAfterItsGone>
+
+---
+
+## Xubuntu 24.04: A minimal install that does what it says on the tin
+
+date: 2024-04-30, updated: 2024-04-30, from: Liam Proven's articles at the Register
+
+<h4>This nearly Snap-free Ubuntu remix may be about about to win friends and influence people</h4>
+      <p>Xubuntu 24.04 is out, and offers a minimal installation option that is considerably more minimal than the other official flavors.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/04/30/xubuntu_2404_snapless_ubuntu/>
+
+---
+
+## Teaching a generation of AI innovators in Malaysia with Experience AI
+
+date: 2024-04-30, from: Raspberry Pi (.org)
+
+<p>Today’s blog is from Aimy Lee, Chief Operating Officer at Penang Science Cluster, part of our global partner network for Experience AI. Artificial intelligence (AI) is transforming the world at an incredible pace, and at Penang Science Cluster, we are determined to be at the forefront of this fast-changing landscape. The Malaysian government is actively&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/teaching-a-generation-of-ai-innovators-in-malaysia-with-experience-ai/">Teaching a generation of AI innovators in Malaysia with Experience AI</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/teaching-a-generation-of-ai-innovators-in-malaysia-with-experience-ai/>
+
+---
+
+## To understand the risks posed by AI, follow the money
+
+date: 2024-04-30, from: O'Reilly Rador
+
+By Rufus Rock, UCL; Tim O&#8217;Reilly, UCL; Ilan Strauss, UCL; and Mariana Mazzucato, UCL Time and again, leading scientists, technologists, and philosophers have made&#160;spectacularly terrible guesses&#160;about the direction of innovation. Even Einstein was not immune,&#160;claiming,&#160;“There is not the slightest indication that nuclear energy will ever be obtainable,” just ten years before Enrico Fermi completed construction [&#8230;] 
+
+<https://www.oreilly.com/radar/to-understand-the-risks-posed-by-ai-follow-the-money/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-04-30, from: Miguel de Icaza Mastondon feed)
+
+<p><a href="https://www.middleeasteye.net/news/exclusive-israel-planning-ring-checkpoints-prevent-men-fleeing-rafah" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">middleeasteye.net/news/exclusi</span><span class="invisible">ve-israel-planning-ring-checkpoints-prevent-men-fleeing-rafah</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112357825714391011>
+
+---
+
+## This Month in Redox - April 2024
+
+date: 2024-04-30, from: Redox OS News
+
+April was a very exciting month for Redox! Here&rsquo;s all the latest news.
+Donate to Redox If you would like to support Redox, please consider donating or buying some merch!
+ Donate Merch  Self-Hosting Improvements Jeremy fixed a &ldquo;copy-on-write&rdquo; bug in his recent RedoxFS performance optimizations, where small data chunks could truncate records. This was causing page faults on small executables built inside of Redox (like a Hello World program). 
+
+<https://www.redox-os.org/news/this-month-240430/>
+
+---
+
+## pgvector 0.7.0 Released!
+
+date: 2024-04-30, from: PostgreSQL News
+
+<p><a href="https://github.com/pgvector/pgvector/">pgvector</a>, an open-source PostgreSQL extension that provides vector similarity search capabilities, has released <a href="https://github.com/pgvector/pgvector/releases/tag/v0.7.0">v0.7.0</a>. This new release includes many new functional and performance features for supporting vector similarity search workloads in PostgreSQL.</p>
+<p>This latest version of pgvector adds new vector types, including <code>halfvec</code> (2-byte floats; indexing up to 4,000 dimensions) and <code>sparsevec</code> (indexing up to 1,000 nonzero dimensions), and includes indexing support for binary vectors using the <code>bit</code> type (indexing up to 64,000 dimensions). Additionally, this release adds support for quantizing vectors using expression indexes, including from 4-byte to 2-byte floats and binary quantization using <code>binary_quantize</code> function. pgvector 0.7.0 also adds new distance functions, including <code>hamming_distance</code> and <code>jaccard_distance</code> for <code>bit</code> vectors, and now supports HNSW indexing for L1 distance operations. pgvector 0.7.0 also includes additional support for SIMD with CPU dispatching for Linux x86-64 architectures.</p>
+<p>For more information, please see the <a href="https://github.com/pgvector/pgvector/blob/master/CHANGELOG.md#070-2024-04-29">CHANGELOG for 0.7.0</a>:</p>
+<p><a href="https://github.com/pgvector/pgvector/blob/master/CHANGELOG.md#070-2024-04-29">https://github.com/pgvector/pgvector/blob/master/CHANGELOG.md#070-2024-04-29</a></p>
+<p>For more information about pgvector, including how to get started, please visit the <a href="https://github.com/pgvector/pgvector">project repository on GitHub</a>:</p>
+<p><a href="https://github.com/pgvector/pgvector">https://github.com/pgvector/pgvector</a></p> 
+
+<https://www.postgresql.org/about/news/pgvector-070-released-2852/>
+
+---
+
+## PGConf.dev 2024 - Registration selling out - please register ASAP!
+
+date: 2024-04-30, from: PostgreSQL News
+
+<p><a href="https://2024.pgconf.dev/">PostgreSQL Development Conference 2024</a> (<a href="https://2024.pgconf.dev/">PGConf.dev 2024</a>) (May 28, 2024 - May 31, 2024; Vancouver, Canada) is where users, developers, and community organizers come together to focus on PostgreSQL development and community growth. Meet PostgreSQL contributors, learn about upcoming features, and discuss development problems with PostgreSQL enthusiasts!</p>
+<p>Given the overwhelming support from the <a href="https://www.postgresql.org">PostgreSQL</a> community, we're already almost at the capacity of our venue for this year and are close to selling out. If you have not already <a href="https://2024.pgconf.dev/registration/">registered for PGConf.dev 2024</a>, please do so today:</p>
+<p><a href="https://2024.pgconf.dev/registration/">https://2024.pgconf.dev/registration/</a></p>
+<p>Once we have reached our registration capacity, we will open up a first-come, first-serve waitlist.</p>
+<p>We're thrilled to have a wonderful lineup of talks that highlight topics on PostgreSQL development and community growth, featuring stories from users, developers, and community organizers. You can find out more about the <a href="https://www.pgevents.ca/events/pgconfdev2024/schedule/">PGConf.dev 2024 schedule</a> here:</p>
+<p><a href="https://www.pgevents.ca/events/pgconfdev2024/schedule/">https://www.pgevents.ca/events/pgconfdev2024/schedule/</a></p>
+<p>PGConf.dev 2024 is not possible without the generous support of our <a href="https://2024.pgconf.dev/sponsors/">sponsors</a>. Sponsorship helps us bring together the worldwide PostgreSQL community to focus on upcoming development and community building topics.  You can find out more about <a href="https://2024.pgconf.dev/sponsor-levels/">sponsorship opportunities</a> here:</p>
+<p><a href="https://2024.pgconf.dev/sponsor-levels/">https://2024.pgconf.dev/sponsor-levels/</a></p>
+<p>We look forward to seeing you in Vancouver in May!</p> 
+
+<https://www.postgresql.org/about/news/pgconfdev-2024-registration-selling-out-please-register-asap-2850/>
+
+---
+
+## Datasentinel 2024.04 released
+
+date: 2024-04-30, from: PostgreSQL News
+
+<p>We're pleased to announce that the latest edition of Datasentinel for PostgreSQL is now available</p>
+<h4>Role Based Access Enhancement</h4>
+<p>Administrators can now assign multiple roles to Datasentinel users either directly through the UI or programmatically via the API. This enhancement significantly simplifies user management, especially in large-scale environments with hundreds of PostgreSQL instances.</p>
+<h4>Datasentinel 2024 Updates</h4>
+<p>Datasentinel's 2024 updates include full compatibility with PostgreSQL 16 and the introduction of <strong>I/O Insights</strong>, a new feature that uses the pg_stat_io view to provide detailed I/O metrics. Additionally, we have enhanced our agentless service startup, ensuring quicker launch times and improved performance. This is particularly beneficial in large-instance environments during system boots or post-upgrade reboots. 
+Together, these enhancements further bolster Datasentinel's robust PostgreSQL monitoring capabilities  </p>
+<p>Refer to <a href="https://docs.datasentinel.io/manual/release-notes">Release Notes</a> for more details.</p>
+<p>Datasentinel team</p>
+<p><a href="https://www.datasentinel.io">https://www.datasentinel.io</a></p> 
+
+<https://www.postgresql.org/about/news/datasentinel-202404-released-2843/>
 
 ---
 
@@ -179,7 +664,7 @@ date: 2024-04-29, updated: 2024-04-29, from: One Foot Tsunami
 
 **@Dave Winer's Scripting News** (date: 2024-04-29, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/04/29/loveNy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The Knicks keep winning my heart. They play the game exactly as it should be played. And they don't take the bait to make it about anything other than what happens on the court, and to trust in the league to take care of players who don't play by the rules. And <i>of course</i> the Philadelphia arena was full of Knicks fans. The tickets cost a lot less than NYC tickets, and it's only 2 hours away by car, and there's good train service. If the series goes back to Philadelphia, the same thing will happen. I feel sorry for fans of small town teams, because no matter where you go in the US, there are always lots of Knicks fans. Largest city in the country. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/04/29/loveNy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The Knicks keep <a href="https://www.espn.com/nba/story/_/id/40046466/embiid-disappointing-knicks-fans-flooded-philly-arena">winning</a> my heart. They play the game exactly as it should be played. And they don't take the bait to make it about anything other than what happens on the court, and to trust in the league to take care of players who don't play by the rules. And <i>of course</i> the Philadelphia arena was full of Knicks fans. The tickets cost a lot less than NYC tickets, and it's only 2 hours away by car, and there's good train service. If the series goes back to Philadelphia, the same thing will happen. I feel sorry for fans of small town teams, because no matter where you go in the US, there are always lots of Knicks fans. Largest city in the country. 
 
 <http://scripting.com/2024/04/29.html#a150813>
 

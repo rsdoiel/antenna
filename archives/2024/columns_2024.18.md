@@ -1,11 +1,277 @@
 ---
 title: columns 2024.18
-updated: 2024-04-29 13:26:37
+updated: 2024-04-30 19:19:58
 ---
 
 # columns 2024.18
 
-(date: 2024-04-29 13:26:37)
+(date: 2024-04-30 19:19:58)
+
+---
+
+## Wednesday 1 May, 2024
+
+date: 2024-04-30, from: John Naughton's online diary
+
+Present at the Creation This is a pic of the world’s very first Web server — Tim Berners-Lee’s NEXT machine at CERN. Note the handwritten note on the machine. (Source: Jeremy Reimer on ArsTechnica.) Quote of the Day ”The rain &#8230; <a href="https://memex.naughtons.org/wednesday-1-may-2024/39397/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-1-may-2024/39397/>
+
+---
+
+##  Amazon has renewed Fallout for a second season. I&#8217;ve been watching this... 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044520-amazon-has-renewed-fallou>
+
+---
+
+##  Mike Masnick shares how he uses AI to help write Techdirt. &#8220;No,... 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044518-mike-masnick-shares-how-h>
+
+---
+
+##  Art Celebrity Doppelgängers 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/art-celebrity-doppelgangers>
+
+---
+
+##  A lovely profile of Daniel Radcliffe. &#8220;If there’s a sweet spot to... 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044517-a-lovely-profile-of-danie>
+
+---
+
+##  The JWST recently captured the Horsehead Nebula in &#8220;unprecedented detail&#8221;.... 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044516-the-jwst-recently-capture>
+
+---
+
+## My new book project is officially a go
+
+date: 2024-04-30, from: Matt Haughey blog
+
+<p>I mentioned a book I was planning to write in my &quot;<a href="https://a.wholelottanothing.org/embrace-the-weird/" rel="noreferrer">Embrace the weird</a>&quot; post a couple weeks ago. This book idea is definitely weird, as it&apos;s a super niche one. </p><div class="kg-card kg-header-card kg-v2 kg-layout-split kg-width-full kg-swapped " style="background-color: #1f5723;" data-background-color="#1f5723">
+            
+            <div class="kg-header-card-content">
+                
+            <picture><img class="kg-header-card-image" src="https://a.wholelottanothing.org/content/images/2024/04/IMG_4800-1.JPG" srcset="https://a.wholelottanothing.org/content/images/size/w600/2024/04/IMG_4800-1.JPG 600w, https://a.wholelottanothing.org/content/images/size/w1000/2024/04/IMG_4800-1.JPG 1000w, https://a.wholelottanothing.org/content/images/size/w1600/2024/04/IMG_4800-1.JPG 1600w, https://a.wholelottanothing.org/content/images/2024/04/IMG_4800-1.JPG 2000w" loading="lazy" alt></picture>
+        
+                <div class="kg-header-card-text ">
+                    <h2 id="im-writing-a-guidebook-to-the-fourteen-different-stadiums-that-make-up-the-us-national-womens-soccer-league" class="kg-header-card-heading" style="color: #FFFFFF;" data-text-color="#FFFFFF"><span style="white-space: pre-wrap;">I&apos;m writing a guidebook to the fourteen different stadiums that make up the</span></h2></div></div></div> 
+
+<https://a.wholelottanothing.org/the-book-project-is-a-go/>
+
+---
+
+##  The AP is reporting that the DEA will reclassify marijuana as a... 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044515-the-ap-is-reporting-that>
+
+---
+
+## St. Mark’s Place
+
+date: 2024-04-30, from: Ayjay blog
+
+The Five Spot, on St. Mark&#8217;s Place in Manhattan, hosted most of the great jazz musicians of the middle part of the twentieth century — Charles Mingus, for instance: It was also a block-and-a-half from 77 St. Mark&#8217;s Place, which is where for a long time Auden lived for about half of each year. (Leon [&#8230;] 
+
+<https://blog.ayjay.org/st-marks-place/>
+
+---
+
+##  AI Image Feedback Loop 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/ai-image-feedback-loop>
+
+---
+
+##  Super cool photos from this story about a nuclear-powered submarine. Interesting detail:... 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044510-super-cool-photos-from-th>
+
+---
+
+## Reality check: AI Hardware is experimental
+
+date: 2024-04-30, from: Om Malik blog
+
+Tech’s past tells us that the future doesn't unfold along a predetermined timeline. Despite the rocky starts of Humane’s AI Pin &#038; Rabbit’s R1 device, we're heading to a promising era where invisible information interfaces become as commonplace as screens. 
+
+<https://om.co/2024/04/30/the-reality-optimism-of-ai-hardware/>
+
+---
+
+##  I love watching these genetic algorithm thingies. &#8220;The program uses a simple... 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044508-i-love-watching-these-gen>
+
+---
+
+## The 50th Asilomar Microcomputer Workshop
+
+date: 2024-04-30, from: David Rosenthal's blog
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDCGXLJSTa5jIjuuanNRJeKcxh-NClB4oCMc_gwMYAn85jYl1D9xDolLPH9LTlRdGqSqzFuhDL_oom6RjG9t-3cRGZs8Skw0T_LbeZo7D08pOmLjpmab1EAG_oXkJnRnZCnMhF1cCptF0PRSu7r3f4ttZLuMZ5XSSJmqHfAG6fH78_YSFnCG12KsAvAKYF/s512/AMW.png" style="clear: right; display: block; margin-left: auto; margin-right: auto; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="512" data-original-width="512" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDCGXLJSTa5jIjuuanNRJeKcxh-NClB4oCMc_gwMYAn85jYl1D9xDolLPH9LTlRdGqSqzFuhDL_oom6RjG9t-3cRGZs8Skw0T_LbeZo7D08pOmLjpmab1EAG_oXkJnRnZCnMhF1cCptF0PRSu7r3f4ttZLuMZ5XSSJmqHfAG6fH78_YSFnCG12KsAvAKYF/s200/AMW.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://amw.org/">Source</a></td></tr></tbody></table>Last week I attended the 50<sup>th</sup> <a href="https://amw.org/">Asilomar Microcomputer Workshop</a>. For a crew of volunteers to keep a small, invitation-only, off-the-record workshop going for half a century is an amazing achievement. A lot of the credit goes to the late <a href="https://blog.dshr.org/2018/11/john-wharton-rip.html">John H. Wharton</a>, who chaired it from 1985 to 2017 with one missing year. He was responsible for the current format, and the eclecticism of the program's topics.<br />
+<br />
+Brian Berg has written a short history of the workshop for the IEEE entitled <a href="https://www.computer.org/publications/tech-news/events/asilomar-microcomputer-workshop"><i>The Asilomar Microcomputer Workshop: Its Origin Story, and Beyond</i></a>. It was started by "Three Freds and a Ted" and one of the Freds, Fred Coury has also written about it in <a href="https://amw.org/a-short-history-of-amw-by-fred-coury/">here</a>.Six years ago David Laws wrote <a href="https://computerhistory.org/blog/the-asilomar-microcomputer-workshop-and-the-billion-dollar-toilet-seat/"><i>The Asilomar Microcomputer Workshop and the Billion Dollar Toilet Seat</i></a> for the Computer History Museum.<br />
+<br />
+I have attended almost all of them since 1987. I have been part of the volunteer crew for many, including this one, and have served on the board of the 501C3 behind the workshop for some years.<br />
+<br />
+This year's <a href="https://amw.org/wp-content/uploads/2024/04/prog24.pdf">program</a> featured a keynote from <a href="https://en.wikipedia.org/wiki/Yale_Patt">Yale Patt</a>, and a session from four of his ex-students, <a href="https://en.wikipedia.org/wiki/Michael_Shebanow">Michael Shebanow</a>, <a href="https://en.wikipedia.org/wiki/Wen-mei_Hwu">Wen-mei Hwu</a>, <a href="http://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf">Onur Mutlu</a> and Wen-Ti Liu. Other talks came from <a href="https://en.wikipedia.org/wiki/Alvy_Ray_Smith">Alvy Ray Smith</a> based on his book <a href="https://search.worldcat.org/title/1163953124"><i>A Biography of the Pixel</i></a>, <a href="https://en.wikipedia.org/wiki/Mary_Lou_Jepsen">Mary Lou Jepsen</a> on <a href="openwater.health">OpenWater</a>, her attempt to cost-reduce diagnosis and treatment, and Brandon Holland and Jaden Cohen, two high-school students on applying AI to the Prisoner's Dilemma. I interviewed <a href="https://en.wikipedia.org/wiki/Chris_Malachowsky">Chris Malachowsky</a> about the history of <a href="https://nvidia.com">NVIDIA</a>. And, as always, the RATS (Rich Asilomar Tradition Session) in which almost everyone gives a 10-minute talk lasted past midnight.<br />
+<br />
+The workshop is strictly off-the-record unless the speaker publishes it elsewhere, so I can't discuss the content of the talks.<br />
+<br /> 
+
+<https://blog.dshr.org/2024/04/the-50th-asilomar-microcomputer-workshop.html>
+
+---
+
+##  Check In On Those Around You 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/check-in-on-those-around-you>
+
+---
+
+##  &#8220;It’s clear to me that sharing our shortcomings and weaknesses with each... 
+
+date: 2024-04-30, updated: 2024-04-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/04/0044501-its-clear-to-me-that>
+
+---
+
+## It's different after its gone
+
+date: 2024-04-30, from: Dave Winer's Scripting News
+
+<p><i>Note: This post is the summary of a <a href="http://scripting.com/2024/04/30/weNeedMoreChange.m4a">podcast</a>. </i></p>
+<p>When my mother died in 2018, it didn't settle in that the context in which I lived, my whole life, was gone. </p>
+<p>She lived in the house I was raised in. Very little had changed in that house. I hadn't lived there since I went away to college, but it still defined who I was, an adult who didn't live in his childhood home. When we sold the house, the last time I saw it, it was empty, and that was when it hit me. That part of my life is over. I no longer have a home I can return to.</p>
+<p>The same is true with our understanding of who we are as adult American citizens. Until now we felt we had a vote. But that is over, unless we change our view of the country we live in. It's not that it's about to change, which is what you hear in the news, and on social web -- <i>it has already changed. </i></p>
+<p>We now understand that Trump may be above the law but that masks a bigger truth, the Supreme Court is already above the law. They take bribes, openly. They cannot be prosecuted (just try it and see what happens). They openly side with the insurrection, yet don't recuse when deciding issues of what to do with the insurrectionists. They imagine the president is a monarch. </p>
+<p>We're already living in the authoritarian state we're worried about. We haven't caught up with that reality yet. </p>
+<p>Our government is more concerned about our right to own guns than it is with our right to own our own bodies. Stop for a moment and let that sink in. If I said you don't own your own body, what would you think I'm talking about? Answer: Slavery. </p>
+<p>If we did catch up with that reality, we would start organizing now to undo that mistake. We would not only re-elect Biden in a landslide, but we'd insist that he expand the court to 100 members serving 10-year terms each, retroactive. And thus we would eliminate one of the huge problems in our system of government. Have they proved they need this kind of correction? Yes, the overturning of Roe, and the lack of prosecution of Trump for trying to overthrow the government are all the proof we need. </p>
+<p>And from then-on, no politician in any branch of government would take us for granted.</p>
+ 
+
+<http://scripting.com/2024/04/30/125735.html?title=itsDifferentAfterItsGone>
+
+---
+
+## WhatsApp in India
+
+date: 2024-04-30, updated: 2024-04-29, from: Bruce Schneier blog
+
+<p>Meta has threatened to <a href="https://thewire.in/law/disappearing-messages-whatsapp-says-will-leave-india-is-forced-to-break-encryption">pull WhatsApp</a> out of India if the courts try to force it to break its end-to-end encryption.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/04/whatsapp-in-india.html>
+
+---
+
+## What to say to a Republican who complains about the federal debt. 
+
+date: 2024-04-30, from: Robert Reich's blog
+
+Friends, Republicans are attacking Biden for expanding the federal debt, and the House &#8220;Freedom Caucus&#8221; is livid that Speaker Mike Johnson has agreed to more funds for Ukraine, claiming it will expand the debt even further. Can we just have some sanity here? 
+
+<https://robertreich.substack.com/p/what-to-say-to-a-republican-who-complains>
+
+---
+
+## The Talk Show: ‘I Decapitated the MacBook Air’
+
+date: 2024-04-30, updated: 2024-04-30, from: Daring Fireball
+
+ 
+
+<https://daringfireball.net/thetalkshow/2024/04/29/ep-399>
+
+---
+
+## Google Security Blog: ‘How We Fought Bad Apps and Bad Actors in 2023’
+
+date: 2024-04-30, updated: 2024-04-30, from: Daring Fireball
+
+ 
+
+<https://security.googleblog.com/2024/04/how-we-fought-bad-apps-and-bad-actors-in-2023.html>
+
+---
+
+## The Scientific Method part 5:  Illusions, Delusions, and Dreams
+
+date: 2024-04-29, updated: 2024-04-29, from: Ron Garret
+
+(This is the fifth in a series on the scientific method. )Daniel Dennett died last week.&nbsp; He was a shining light of rationality and clarity in a world that is often a dark and murky place.&nbsp; He was also the author of, among many other works, Consciousness Explained, which I think is one of the most important books ever written because it gives a plausible answer to what seems like an 
+
+<https://blog.rongarret.info/2024/04/the-scientific-method-part-5-illusions.html>
+
+---
+
+## European Commission Designates iPadOS a DMA ‘Gatekeeping’ Platform Too
+
+date: 2024-04-29, updated: 2024-04-29, from: Daring Fireball
+
+ 
+
+<https://ec.europa.eu/commission/presscorner/detail/en/IP_24_2363>
+
+---
+
+## Biden’s Plea to Save Democracy
+
+date: 2024-04-29, from: Dan Rather's Steady
+
+To a crowd you wouldn&#8217;t expect 
+
+<https://steady.substack.com/p/bidens-plea-to-save-democracy>
 
 ---
 
@@ -89,7 +355,7 @@ date: 2024-04-29, updated: 2024-04-29, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-04-29, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/04/29/loveNy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The Knicks keep winning my heart. They play the game exactly as it should be played. And they don't take the bait to make it about anything other than what happens on the court, and to trust in the league to take care of players who don't play by the rules. And <i>of course</i> the Philadelphia arena was full of Knicks fans. The tickets cost a lot less than NYC tickets, and it's only 2 hours away by car, and there's good train service. If the series goes back to Philadelphia, the same thing will happen. I feel sorry for fans of small town teams, because no matter where you go in the US, there are always lots of Knicks fans. Largest city in the country. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/04/29/loveNy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The Knicks keep <a href="https://www.espn.com/nba/story/_/id/40046466/embiid-disappointing-knicks-fans-flooded-philly-arena">winning</a> my heart. They play the game exactly as it should be played. And they don't take the bait to make it about anything other than what happens on the court, and to trust in the league to take care of players who don't play by the rules. And <i>of course</i> the Philadelphia arena was full of Knicks fans. The tickets cost a lot less than NYC tickets, and it's only 2 hours away by car, and there's good train service. If the series goes back to Philadelphia, the same thing will happen. I feel sorry for fans of small town teams, because no matter where you go in the US, there are always lots of Knicks fans. Largest city in the country. 
 
 <http://scripting.com/2024/04/29.html#a150813>
 
@@ -239,6 +505,16 @@ date: 2024-04-29, from: Dave Rupert blog
 </section> 
 
 <https://daverupert.com/2024/04/thoughts-on-cosmotechnics/>
+
+---
+
+## Paul Thurrott Reviews the 15-Inch M3 MacBook Air
+
+date: 2024-04-29, updated: 2024-04-30, from: Daring Fireball
+
+ 
+
+<https://www.thurrott.com/mobile/mac-and-macos/301371/apple-macbook-air-15-inch-m3-review>
 
 ---
 

@@ -1,11 +1,81 @@
 ---
 title: motorcycles 2024.18
-updated: 2024-04-29 13:26:37
+updated: 2024-04-30 19:19:59
 ---
 
 # motorcycles 2024.18
 
-(date: 2024-04-29 13:26:37)
+(date: 2024-04-30 19:19:59)
+
+---
+
+## 2024 MotoGP Jerez Report
+
+date: 2024-04-30, from: Cycle World News
+
+MotoGP in 2024 is at times unpredictable, but the one thing that remains constant is that Ducati has the best bike and is almost always in the hunt for victory. 
+
+<https://www.cycleworld.com/motorcycle-racing/jerez-motogp-race-report-2024/>
+
+---
+
+## Ultraviolette’s F77 Mach 2 EV-Moto Should Come to the US
+
+date: 2024-04-30, from: Ride Apart, Electric Motorcycle News
+
+We sure hope it makes its way to other markets soon.  
+
+<https://www.rideapart.com/news/717769/ultraviolette-f77-mach2-launch-india/>
+
+---
+
+## Bagnaia And Marquez Dueling In Spain Is Exactly Why We Love MotoGP
+
+date: 2024-04-30, from: Ride Apart, Electric Motorcycle News
+
+It doesn't get any more top-notch, edge-of-your-seat than this matchup. Brilliant. 
+
+<https://www.rideapart.com/news/717917/bagnaia-marquez-spanish-motogp-2024/>
+
+---
+
+## Spy Shots: This Could Be the 2026 Triumph Street Triple
+
+date: 2024-04-30, from: Ride Apart, Electric Motorcycle News
+
+Forget your SuperDukes and Panagalies because in the real world, what's more exciting than a new Street Triple? 
+
+<https://www.rideapart.com/news/717723/spied-2026-triumph-street-triple/>
+
+---
+
+## Dakar Will No Longer Feature ATVs
+
+date: 2024-04-30, from: Ride Apart, Electric Motorcycle News
+
+After decades of riding, the series says goodbye.  
+
+<https://www.rideapart.com/news/717895/dakar-atv-ban-quad/>
+
+---
+
+## HOG Rally Aims to Be Harley -Davidson's European Sturgis
+
+date: 2024-04-30, from: Ride Apart, Electric Motorcycle News
+
+Tons of music, bikes, food, and fun.  
+
+<https://www.rideapart.com/news/717792/2024-european-hog-rally-additonal-details/>
+
+---
+
+## DJI's New Avata 2 FPV Drone Is Ready To Capture Your Daringest Rides
+
+date: 2024-04-30, from: Ride Apart, Electric Motorcycle News
+
+It comes with DJI Goggles 3 and RC Motion 3 for a fully immersive flying experience.  
+
+<https://www.rideapart.com/news/717767/new-dji-avata2-fpv-drone/>
 
 ---
 

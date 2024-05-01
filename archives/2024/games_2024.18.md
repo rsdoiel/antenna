@@ -1,11 +1,111 @@
 ---
 title: games 2024.18
-updated: 2024-04-29 13:26:37
+updated: 2024-04-30 19:19:59
 ---
 
 # games 2024.18
 
-(date: 2024-04-29 13:26:37)
+(date: 2024-04-30 19:19:59)
+
+---
+
+## Sam Raimi’s Spider-Man trilogy has the strongest moral arc in superhero movies
+
+date: 2024-04-30, updated: 2024-04-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/23043438/best-spider-man-movies-sam-raimi-explained-theaters>
+
+---
+
+## Where to find Archie in Destiny 2
+
+date: 2024-04-30, updated: 2024-04-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24138396/archie-location-where-in-the-system-tower>
+
+---
+
+## Call of Duty makes its return to the Xbox Showcase stage
+
+date: 2024-04-30, updated: 2024-04-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24145559/xbox-games-showcase-june-2024-call-of-duty-black-ops>
+
+---
+
+## Sea of Thieves’ newest update includes 7 hilarious tools
+
+date: 2024-04-30, updated: 2024-04-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24145505/sea-of-thieves-season-twelve-update-playstation-launch>
+
+---
+
+## Do not let anyone spoil Sugar’s big twist for you
+
+date: 2024-04-30, updated: 2024-04-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24144679/sugar-twist-apple-tv-plus>
+
+---
+
+## How to get sheep in Manor Lords
+
+date: 2024-04-30, updated: 2024-04-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/manor-lords-guides/24145230/sheep-farm-livestock-trading-post-wool-yarn>
+
+---
+
+## Please, don’t pay more than $325 for a Nintendo Switch OLED
+
+date: 2024-04-30, updated: 2024-04-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24145456/amazon-nintendo-switch-oled-deal-sale>
+
+---
+
+## Yaoi would save a repressed Edwardian schoolboy — just ask Dead Boy Detectives
+
+date: 2024-04-30, updated: 2024-04-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24141759/dead-boy-detectives-queer-yaoi-supernatural>
+
+---
+
+## This Stardew Valley-like farms while you work
+
+date: 2024-04-30, updated: 2024-04-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gaming/24145363/stardew-valley-like-idle-farming-sim-rustys-retirement>
+
+---
+
+## The Fall Guy was its stunt team’s explosive dream come true
+
+date: 2024-04-30, updated: 2024-04-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24134146/fall-guy-stunt-team-action-interview>
 
 ---
 

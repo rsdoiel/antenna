@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.18
-updated: 2024-04-29 13:26:37
+updated: 2024-04-30 19:19:59
 ---
 
 # libraries 2024.18
 
-(date: 2024-04-29 13:26:37)
+(date: 2024-04-30 19:19:59)
 
 ---
 
@@ -19,11 +19,23 @@ Lennon, Sarah; Chaker, Jade; Price, Elliott J.; Hollender, Juliane; Huber, Carol
 
 ---
 
+## The Impact of AI on Information Discovery: From Information Gathering to Knowledge Application
+
+date: 2024-04-30, from: Scholarly Kitchen
+
+<p>In this post – the first of two discussing artificial intelligence and information discovery – we explore the evolution of information discovery, its role in the research journey, and how it can be applied to help researchers and publishers alike.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/04/30/the-impact-of-ai-on-information-discovery-from-information-gathering-to-knowledge-application/">The Impact of AI on Information Discovery: From Information Gathering to Knowledge Application</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/04/30/the-impact-of-ai-on-information-discovery-from-information-gathering-to-knowledge-application/>
+
+---
+
 ## Day in Review (April 29–May 2)
 
 date: 2024-04-29, from: Association of Research Libraries News
 
-<p>Last Updated on April 29, 2024, 3:14 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 30 &#124; Wednesday, May 1 &#124; Thursday,...</p>
+<p>Last Updated on April 30, 2024, 4:00 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 30 &#124; Wednesday, May 1 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-29-may-2/">Day in Review (April 29–May 2)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -40,4 +52,14 @@ date: 2024-04-29, from: Scholarly Kitchen
  
 
 <https://scholarlykitchen.sspnet.org/2024/04/29/mental-health-awareness-mondays-the-menopausal-effect-on-the-workforce/>
+
+---
+
+## Radiation damping of a Rayleigh scatterer illuminated by a linearly polarized plane wave
+
+date: 2024-04-29, from: ETH Zurich, recently added
+
+Abbassi, Mohammad Ali; Novotny, Lukas 
+
+<http://hdl.handle.net/20.500.11850/671018>
 
