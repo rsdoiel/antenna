@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.18
-updated: 2024-04-30 19:19:59
+updated: 2024-05-01 08:24:18
 ---
 
 # libraries 2024.18
 
-(date: 2024-04-30 19:19:59)
+(date: 2024-05-01 08:24:18)
+
+---
+
+## Ask the Community: What Do Campus Disability Services Staff Most Want Publishers to Know?
+
+date: 2024-05-01, from: Scholarly Kitchen
+
+<p>We asked Campus Disability Services leaders, "What would you most like Publishers to know?"</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/05/01/ask-the-community-what-do-campus-disability-services-staff-most-want-publishers-to-know/">Ask the Community: What Do Campus Disability Services Staff Most Want Publishers to Know?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/05/01/ask-the-community-what-do-campus-disability-services-staff-most-want-publishers-to-know/>
 
 ---
 

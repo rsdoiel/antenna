@@ -1,11 +1,55 @@
 ---
 title: socal north 2024.18
-updated: 2024-04-30 19:19:58
+updated: 2024-05-01 08:24:17
 ---
 
 # socal north 2024.18
 
-(date: 2024-04-30 19:19:58)
+(date: 2024-05-01 08:24:17)
+
+---
+
+## Editorial: UCLA is complicit in violence inflicted upon protesters, failed to protect students
+
+date: 2024-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+It began with ear-piercing screams of wailing babies loudly emitting from speakers.
+Counter-protesters tearing down the barricades. Laser pointers flashing into the encampment. People in masks waving strobe lights.&#160;
+Tear gas. 
+
+<https://dailybruin.com/2024/05/01/editorial-ucla-is-complicit-in-violence-inflicted-upon-protesters-failed-to-protect-students/>
+
+---
+
+## Pro-Israel counter-protesters attempt to storm encampment, sparking violence
+
+date: 2024-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 1 at 3:47 a.m.</em>
+This is a developing story and will be updated.&#160;
+Fireworks, tear gas and fights broke out just after 10:50 p.m. 
+
+<https://dailybruin.com/2024/05/01/pro-israel-counter-protesters-attempt-to-storm-encampment-sparking-violence/>
+
+---
+
+## Gallery: UCLA women’s tennis, men’s tennis fall short at Pac-12 championships
+
+date: 2024-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+No. 1 seed UCLA women’s tennis and No. 3 seed UCLA men’s tennis traveled up to Ojai, California last week to compete in the Pac-12 championships. 
+
+<https://dailybruin.com/2024/04/30/gallery-ucla-womens-tennis-mens-tennis-fall-short-at-pac-12-championships/>
+
+---
+
+## AI JAM: AI technology solve CSUN’s challenge
+
+date: 2024-05-01, from: The Sundail (CSUN Student Newspaper)
+
+California State University, Northridge (CSUN) is hosting the third annual Digital Equity Day, focusing on the intersection of Artificial Intelligence (AI). Distinguished speakers Stephen Than and Deone Zell will discuss... 
+
+<https://sundial.csun.edu/181221/multimedia/watch/ai-jam-ai-technology-solve-csuns-challenge/>
 
 ---
 
@@ -55,8 +99,8 @@ The Matadors concluded their season with a reasonable effort, but more was neede
 
 date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
 
-For the Daily Bruin’s full coverage of the UC Divest Coalition and Students for Justice in Palestine encampment, see here.
-UCLA released a letter Tuesday to those inside the pro-Palestine encampment in Dickson Plaza saying their protest is “unlawful and violates university policy” and could result in suspension or expulsion. 
+<em>This post was updated May 1 at 3:14 a.m.</em>
+For the Daily Bruin’s full coverage of the UC Divest Coalition and Students for Justice in Palestine encampment, see here. 
 
 <https://dailybruin.com/2024/04/30/ucla-declares-encampment-unlawful-states-potential-consequences-for-participants/>
 
@@ -87,6 +131,7 @@ De Neve Late Night relaunched this quarter, offering build-your-own pizzas in th
 
 date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated April 30 at 9:10 p.m.</em>
 One is the loneliest number – or so the song goes.
 The Bruins weren’t Harry Nilsson’s inspiration when he wrote the piece, but he might as well have sung about them. 
 
@@ -98,6 +143,7 @@ The Bruins weren’t Harry Nilsson’s inspiration when he wrote the piece, but 
 
 date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated May 1 at 3:11 a.m.</em>
 Federal lawmakers summoned UCLA officials Tuesday to testify in front of a congressional committee to address their concerns about rising antisemitism on campus and the university’s handling of ongoing protests over the war in Gaza. 
 
 <https://dailybruin.com/2024/04/30/republican-lawmakers-condemn-campus-antisemitism-demand-uclas-congress-testimony/>
@@ -118,6 +164,7 @@ Police detained a student protester inside Powell Library for an hour Tuesday mo
 
 date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated April 30 at 9:07 p.m.</em>
 John Speraw has long stressed the importance of coming out the gates firing.
 In the coach’s past two matches, his team failed to complete the task. 
 
@@ -129,8 +176,9 @@ In the coach’s past two matches, his team failed to complete the task.
 
 date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
 
+This post was updated April 30 at 7:52 p.m.
 Alumnus Terry Hu is paving the way for Asian and nonbinary actors in the film industry.
-The former neuroscience student turned actor will be appearing in Hulu&#8217;s upcoming comedy film &#8220;Prom Dates,&#8221; which is premiering May 3. 
+The former neuroscience student turned actor will be appearing in Hulu’s upcoming comedy film “Prom Dates,” which is premiering May 3. 
 
 <https://dailybruin.com/2024/04/30/qa-inside-alumnus-terry-hus-journey-from-stem-to-hollywood-as-a-queer-asian-american/>
 
@@ -140,9 +188,9 @@ The former neuroscience student turned actor will be appearing in Hulu&#8217;s u
 
 date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated April 30 at 9:28 p.m.</em>
 The Bruins had one final chance to win a Pac-12 title.
 But after rough conditions tinted their opportunities, they came up short. 
-UCLA men&#8217;s golf placed sixth in the Pac-12 championships at the Desert Forest Golf Club over the weekend, ultimately finishing in the middle of the pack in a tournament that was its last before a potential NCAA regional appearance. 
 
 <https://dailybruin.com/2024/04/30/ucla-mens-golf-places-in-the-middle-of-pac-12-championships/>
 
@@ -162,8 +210,8 @@ It’s an evening full of both excitement and nervousness. Over a dozen people f
 
 date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
 
-A kaleidoscope of blue and red hues filled the Colich Throws Center and Loker Stadium as the rivals competed.
-Yet instead of seizing the title of &#8220;We Run LA,&#8221; the Bruins were swept by their opponents. 
+<em>The post was updated April 30 at 9:38 p.m.</em>
+A kaleidoscope of blue and red hues filled the Colich Throws Center and Loker Stadium as the rivals competed. 
 
 <https://dailybruin.com/2024/04/30/ucla-track-and-field-concludes-regular-season-with-loss-at-usc-dual-meet/>
 
@@ -216,6 +264,7 @@ Around 60 counter-protesters attempted to breach the entrance of the encampment 
 
 date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated April 30 at 8:23 p.m.</em>
 UC Berkeley as an educational institution has long been synonymous with student activism and civic engagement, its campus serving as the backdrop to catalytic movements ranging from the Free Speech Movement to the Disability Rights Movement. 
 
 <https://dailybruin.com/2024/04/30/opinion-uc-berkeley-must-acknowledge-denounce-ethnic-cleansing-against-armenians/>
@@ -257,7 +306,7 @@ It started with a maxed-out credit card and a blood test she couldn’t get for 
 
 date: 2024-04-30, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated April 29 at 7:09 p.m.&#160;</em>
+<em>This post was updated April 30 at 8:00 p.m.&#160;</em>
 One step forward, two steps back.
 Since the return of students to campus after the COVID-19 pandemic, UCLA Dining has failed to build upon the momentum of its small wins and ultimately struggled to find its footing. 
 

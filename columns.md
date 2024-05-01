@@ -1,11 +1,165 @@
 ---
 title: columns 2024.18
-updated: 2024-04-30 19:19:58
+updated: 2024-05-01 08:24:17
 ---
 
 # columns 2024.18
 
-(date: 2024-04-30 19:19:58)
+(date: 2024-05-01 08:24:17)
+
+---
+
+##  Electronic Plastic 
+
+date: 2024-05-01, updated: 2024-05-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/electronic-plastic>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-01, from: Dave Winer's Scripting News)
+
+My father taught me how to organize my thinking when I was trying to figure out how something works. And that's basically what I've spent my whole life on, figuring out how things work. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/05/01.html#a143101>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-01, from: Dave Winer's Scripting News)
+
+When I log on to meta.ai, <a href="https://imgs.scripting.com/2024/05/01/suggestions.png">these</a> are the suggestions. None of them relate to things I'm thinking about. I haven't been a student or interviewed for a job in decades. But I've been on Facebook for many years, and I had to connect this to my Facebook account to use it, so presumably it knows all that Facebook knows about me, about me. How long before this is customized? 
+
+<http://scripting.com/2024/05/01.html#a142154>
+
+---
+
+##  Gen X and millennials who have been posting selfies on social media... 
+
+date: 2024-05-01, updated: 2024-05-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044519-gen-x-and-millennials-who>
+
+---
+
+##  Artist Alex Tomlinson wonders, “What if owls had flags?”... 
+
+date: 2024-05-01, updated: 2024-05-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044513-artist-alex-tomlinson-ask>
+
+---
+
+## 2024-04-22 Gopher, again
+
+date: 2024-05-01, from: Alex Schroeder's Blog
+
+<h1 id="2024-04-22-gopher-again">2024-04-22 Gopher, again</h1>
+
+<p>Having found a separate server, written in Go, monitored by systemd, to be the superior solution for double hosting my site for Gemini, I kept thinking about Gopher. With <a href="Odd%C2%B5">Oddµ</a> using a version of Markdown that is very close to the standard, and having found a library that I understand, more or less, which I had successfully grafted onto <a href="https://sr.ht/~gsthnz/satellite/">Satellite</a>, the Gemini server I’m using, based on renderer code I found in the <a href="https://github.com/tdemin/gmnhg">Hugo-to-Gemini converter</a> that used the same Markdown parsing library I was using for Oddµ, I figured that I might use the same library to turn Markdown into suitable Gopher pages.</p>
+
+<p>It took some wrangling and it’s probably not great, but the main menu matches my front page and the blog posts look mostly OK, and so the site is back as a gopher hole on port 70!</p>
+
+<p>See <a href="https://src.alexschroeder.ch/markdown-gopher.git">Markdown Gopher</a> for the Gopher server code.</p>
+
+<p>See my <a href="https://src.alexschroeder.ch/satellite.git">patched Satellite</a> for the Gemini server code, <a href="2023-11-03-other-ports">discussed back in 2023</a>.</p>
+
+<p>And naturally I’m immediately annoyed by the lack of UTF-8 support in this client I’m using.</p>
+
+<p><a class="tag" href="/search/?q=%23Gopher">#Gopher</a></p>
+
+<p><strong>2024-05-01</strong>. I think I finally managed to get decent word-wrapping!</p> 
+
+<https://alexschroeder.ch/view/2024-04-22-gopher>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-01, from: Dave Winer's Scripting News)
+
+If you're a blogger, here's something to think about. Whose writing influenced the way you write? Here's my list: Kurt Vonnegut, My uncle Ken (not his writing, rather his way of telling stories), my father, <a href="https://en.wikipedia.org/wiki/Russell_Baker">Russell Baker</a>, Robert Hunter (lyricist for the Dead), <a href="https://en.wikipedia.org/wiki/Douglas_Coupland">Douglas Coupland</a> (specifically <a href="https://en.wikipedia.org/wiki/Microserfs">MicroSerfs</a>), the Suck.com guys, everyone who was writing at Hotwired in 1995. I'll think of others, but those are the ones who come to mind. I have been a constant reader since I was a little kid, so there's a mix of writing styles from authors I don't immediately remember. I should also do one of these lists for who inspired my software. 
+
+<http://scripting.com/2024/05/01.html#a130058>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-01, from: Dave Winer's Scripting News)
+
+I'm looking for a quick and easy and ideally free way to upload an MP3 of a podcast and get back a transcript. I have a feeling that a podcast I recorded yesterday will work better as a written document, but I don't have the patience to transcribe it myself. I asked on <a href="https://twitter.com/davewiner/status/1785442296466747624">Twitter</a>, <a href="https://bsky.app/profile/scripting.com/post/3krf2vjg3nk2w">Bluesky</a>, <a href="https://mastodon.social/@davew/112362620201313010">Mastodon</a>, <a href="https://www.threads.net/@davew/post/C6Zy6uyJRz1">Threads</a>, <a href="https://chat.openai.com/share/32dce589-58c8-498b-85bd-c1f9a2c1b892">ChatGPT</a>, <a href="https://www.meta.ai/c/6b8ecc0f-2163-4162-aa48-67e32f4260cc">Meta.ai</a>. 
+
+<http://scripting.com/2024/05/01.html#a123347>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-01, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/01/waltFrazier.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I have to admit I like <a href="https://www.google.com/search?q=tyrese+maxey">Tyrese Maxey</a> of the Sixers, who <a href="https://www.espn.com/nba/story/_/id/40061591/amazing-maxey-late-burst-helps-76ers-stay-alive-ot-win-knicks">spoiled a Knicks victory</a> last night that would have closed out the first round of the playoffs. It felt like the Knicks had won the game when Maxie single-handedly pulled the Sixers back into contention. Now the Knicks are up 3-2 with the next game in Philadelphia tomorrow night. But! I didn't flip out this time like I did for the last game, and I think it was because I was able to watch it on <a href="https://www.msgnetworks.com/">local TV</a> with the familiar play by play guy, Mike Breen, and the best color guy for any sport, <a href="https://www.google.com/search?q=walt+clyde+frazier">Walt Clyde Frazier</a>. If he wasn't flipping out why should I. One of the things I love about his <a href="https://www.google.com/search?q=clydisms">narration</a> is that he uses words incorrectly, kind of like <a href="https://thelastdrivein.com/2015/07/02/the-archie-bunker-malapropism-dictionary-of-mangled-english/">Archie Bunker</a>. I keep wanting to <a href="https://knowyourmeme.com/memes/you-keep-using-that-word-i-do-not-think-it-means-what-you-think-it-means">say</a> "I do not think it means what you think it means," but then I realized, last night, for the first time, it's freaking poetry! A lot of it even rhymes. And it's a poem that will go on as long as the Knicks do. Unfortunately I don't think the MSG crew is going to be doing the <a href="https://www.google.com/search?q=nba+schedule&rlz=1C5CHFA_enUS743US747&oq=nba+schedule&aqs=chrome.0.69i59j69i56i59j0i131i433i512j0i20i263i512j0i131i433i512j0i512j0i131i433i512l3j0i512.30465j0j4&sourceid=chrome&ie=UTF-8#sie=m;/g/11vwxq3z2y;3;/m/05jvx;dt;fp;1;;;">next game</a>. And btw, they do a much better job of camera work than ESPN. Maybe it's because the TV people have been able to iterate the camera setup the same way I iterate the UI of a piece of software. The same company owns the TV network as owns the arena as owns the team. It's all totally horizontally integrated. At dinner the other night a friend asked, if the <a href="https://en.wikipedia.org/wiki/James_L._Dolan">owner</a> of the Knicks wasn't a putz. I said of course, he's the worst but, the Knicks now are being well managed. So maybe he's mellowed out a bit? 
+
+<http://scripting.com/2024/05/01.html#a122811>
+
+---
+
+## AI Voice Scam
+
+date: 2024-05-01, updated: 2024-04-30, from: Bruce Schneier blog
+
+<p>Scammers <a href="https://www.theguardian.com/technology/2024/apr/28/bbc-presenters-likeness-used-in-advert-after-firm-tricked-by-ai-generated-voice">tricked</a> a company into believing they were dealing with a BBC presenter. They faked her voice, and accepted money intended for her.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/05/ai-voice-scam.html>
+
+---
+
+## Sayers the middlebrow writer
+
+date: 2024-05-01, from: Ayjay blog
+
+Robert Graves and Alan Hodge, in The Lost Week-End (1940), their generally fascinating and informative social history of Great Britain between the world wars, make a great many Olympian pronouncements. They say, for instance, that Auden “perhaps never wrote an original line,” a claim that, to the person who has read even a handful of [&#8230;] 
+
+<https://blog.ayjay.org/sayers-the-middlebrow/>
+
+---
+
+## Office Hours: Will Israel’s war in Gaza harm Biden in November? If so, what should Biden do now? 
+
+date: 2024-05-01, from: Robert Reich's blog
+
+Friends, 
+
+<https://robertreich.substack.com/p/office-hours-will-israels-war-in>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-05-01, from: Jessica Smith's blog)
+
+<p>So I know I’ve been really quiet on here for a while, but since my fatigue has improved massively, and we’ve now done the early scans and tests to confirm things are progressing well, I guess I can post this… 😅</p>
+<p>I am pregnant! Viv and I are expecting around Halloween. We had our first ultrasound last week and got to see Baby waving their arms about, annnnnd yeah. It&rsquo;s nerve-wracking and scary but exciting, and while I don&rsquo;t intend it to become the ONLY thing I post about, it&rsquo;s definitely a big thing happening in my life right now. It feels weird to say “I&rsquo;m hoping to get back into social media&quot; (even when this encompasses IndieWeb microblogging) but uhhhh&hellip; kinda. Haha. Anyway, that’s my big news!</p> 
+
+<https://www.jayeless.net/2024/05/exciting-personal-news.html>
+
+---
+
+## Polaroids, memories, associations
+
+date: 2024-05-01, from: Tracy Durnell Blog
+
+Haven&#8217;t thought of this song in decades probably but it popped into my head at dinner. Wild how lyrics become etched into the subconscious. When I was a kid I usually paired this with Galileo by the Indigo Girls, (which I see also came out in 1992), but today I&#8217;m going literal and matching with [&#8230;] 
+
+<https://tracydurnell.com/2024/04/30/polaroids-memories-associations/>
+
+---
+
+## Human dimensions
+
+date: 2024-05-01, from: Tracy Durnell Blog
+
+Robin Sloan on the AI training == human learning argument: This might be a reasonable argument if AI models operated at the speed and fidelity of human writers and artists. It’s true, Robin Sloan did read a ton of copyrighted books. However, he did not read all the copyrighted books, and even then, the task [&#8230;] 
+
+<https://tracydurnell.com/2024/04/30/human-dimensions/>
 
 ---
 
@@ -80,7 +234,7 @@ date: 2024-04-30, from: Matt Haughey blog
             <picture><img class="kg-header-card-image" src="https://a.wholelottanothing.org/content/images/2024/04/IMG_4800-1.JPG" srcset="https://a.wholelottanothing.org/content/images/size/w600/2024/04/IMG_4800-1.JPG 600w, https://a.wholelottanothing.org/content/images/size/w1000/2024/04/IMG_4800-1.JPG 1000w, https://a.wholelottanothing.org/content/images/size/w1600/2024/04/IMG_4800-1.JPG 1600w, https://a.wholelottanothing.org/content/images/2024/04/IMG_4800-1.JPG 2000w" loading="lazy" alt></picture>
         
                 <div class="kg-header-card-text ">
-                    <h2 id="im-writing-a-guidebook-to-the-fourteen-different-stadiums-that-make-up-the-us-national-womens-soccer-league" class="kg-header-card-heading" style="color: #FFFFFF;" data-text-color="#FFFFFF"><span style="white-space: pre-wrap;">I&apos;m writing a guidebook to the fourteen different stadiums that make up the</span></h2></div></div></div> 
+                    <h2 id="im-writing-a-guidebook-to-the-fourteen-stadiums-that-host-national-womens-soccer-league-teams" class="kg-header-card-heading" style="color: #FFFFFF;" data-text-color="#FFFFFF"><span style="white-space: pre-wrap;">I&apos;m writing a guidebook to the fourteen stadiums that host National Women&apos;</span></h2></div></div></div> 
 
 <https://a.wholelottanothing.org/the-book-project-is-a-go/>
 
@@ -126,7 +280,7 @@ date: 2024-04-30, updated: 2024-04-30, from: Jason Kittke's blog
 
 ---
 
-## Reality check: AI Hardware is experimental
+## AI Hardware is experimental & it’s okay!
 
 date: 2024-04-30, from: Om Malik blog
 

@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.18
-updated: 2024-04-30 19:19:59
+updated: 2024-05-01 08:24:18
 ---
 
 # retro computing 2024.18
 
-(date: 2024-04-30 19:19:59)
+(date: 2024-05-01 08:24:18)
+
+---
+
+## IBM RISC System/6000 Family
+
+date: 2024-05-01, from: Computer ads from the Past
+
+Just when PowerSeeker thought they had nowhere to go... 
+
+<https://computeradsfromthepast.substack.com/p/ibm-risc-system6000-family>
 
 ---
 

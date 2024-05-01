@@ -1,11 +1,33 @@
 ---
 title: mid central 2024.18
-updated: 2024-04-30 19:19:58
+updated: 2024-05-01 08:24:17
 ---
 
 # mid central 2024.18
 
-(date: 2024-04-30 19:19:58)
+(date: 2024-05-01 08:24:17)
+
+---
+
+## Non-linear pullup for multi-rate I2C buses
+
+date: 2024-05-01, from: EDN Blog
+
+<img width="889" height="456" src="https://www.edn.com/wp-content/uploads/Figure-2_multi-rateI2C.jpg?fit=889%2C456" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-2_multi-rateI2C.jpg?w=889 889w, https://www.edn.com/wp-content/uploads/Figure-2_multi-rateI2C.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-2_multi-rateI2C.jpg?w=768 768w" sizes="(max-width: 889px) 100vw, 889px" /><p>An autonomous, non-linear pullup method that meets the timing requirements of multi-rate I2C buses in the presence of large bus capacitances.</p>
+<p>The post <a href="https://www.edn.com/non-linear-pullup-for-multi-rate-i2c-buses/" data-wpel-link="internal">Non-linear pullup for multi-rate I2C buses</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/non-linear-pullup-for-multi-rate-i2c-buses/>
+
+---
+
+## CQ Magazine Publisher Dick Ross, K2MGA, SK
+
+date: 2024-05-01, from: Amateur Radio Relay League News
+
+<p>Longtime amateur radio publisher Dick Ross, K2MGA, has become a Silent Key. He passed away on April 27, 2024.</p><p>In 1960, Ross started working for Cowan Publishing Company and quickly became Associate Editor for <i>CQ</i>. In 1964, he was promoted to Editor of <i>CQ</i>, when Cowan Publishing moved its offices to Long Island, New York. As Ross became more involved with the business side of the magazine, he was e...</p> 
+
+<http://www.arrl.org/news/view/cq-magazine-publisher-dick-ross-k2mga-sk>
 
 ---
 
@@ -43,7 +65,7 @@ The Fresno State Academic Senate approved a resolution on April 29 to address th
 
 date: 2024-04-30, from: EDN Blog
 
-<img width="394" height="516" src="https://www.edn.com/wp-content/uploads/Figure-2_HVGated555.png?fit=394%2C516" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-2_HVGated555.png?w=394 394w, https://www.edn.com/wp-content/uploads/Figure-2_HVGated555.png?w=229 229w" sizes="(max-width: 394px) 100vw, 394px" /><p>An elaboration of the original “Gated 555 astable hits the ground running” DI showing how it works even when Vreset is not equal to V+.</p>
+<img width="394" height="516" src="https://www.edn.com/wp-content/uploads/Figure-2_HVGated555.png?fit=394%2C516" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure-2_HVGated555.png?w=394 394w, https://www.edn.com/wp-content/uploads/Figure-2_HVGated555.png?w=229 229w" sizes="(max-width: 394px) 100vw, 394px" /><p>An elaboration of the original “Gated 555 astable hits the ground running” DI showing how it works even when Vreset is not equal to V+.</p>
 <p>The post <a href="https://www.edn.com/gated-555-astables-can-still-the-ground-running-even-when-vreset-doesnt-equal-v/" data-wpel-link="internal">Gated 555 astables can still the ground running even when Vreset doesn’t equal V+</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

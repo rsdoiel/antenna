@@ -1,11 +1,93 @@
 ---
 title: writing 2024.18
-updated: 2024-04-30 19:19:58
+updated: 2024-05-01 08:24:17
 ---
 
 # writing 2024.18
 
-(date: 2024-04-30 19:19:58)
+(date: 2024-05-01 08:24:17)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-01, from: Neil Gaiman @ BlueSky)
+
+Terrifying and educational.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3krgkkajv4k2u>
+
+---
+
+## Issue 760 Table of Contents, May 2024
+
+date: 2024-05-01, from: Locus Magazine
+
+<p>The May 2024 issue of Locus has interviews with Malka Older and Victor Manibo. News includes the 2024 Hugo Awards Ballot, Bethany Jacobs&#8217;s Philip K. Dick Award win, the Small Press Distribution shutdown, the Chesley Awards winners, and more. Photo reports cover the 2024 International Conference on the Fantastic in the Arts, Norwescon 46, and the Williamson Lectureship. Daria Piskozub reports on SF in Ukraine: On Fantasy Tropes and Romanticizing  <a href="https://locusmag.com/2024/05/issue-760-table-of-contents-may-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/issue-760-table-of-contents-may-2024/>
+
+---
+
+## Write Now with Scrivener, Episode no. 38: Veronica G. Henry, Fantasy and Mystery Author
+
+date: 2024-05-01, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p><iframe frameborder="0" height="200" scrolling="no" src="https://player.fireside.fm/v2/FGsx06Yz+f6PZxkJY?theme=dark" width="740"></iframe></p>
+
+<p><strong>Show notes</strong>:</p>
+
+
+	<a href="https://www.veronicahenry.net/" target="_blank">Veronica G. Henry</a>
+	<a href="https://www.veronicahenry.net/copy-of-bacchanal" target="_blank">The Canopy Keepers</a>
+	<a href="https://www.japan.travel/en/guide/forest-bathing/" target="_blank">Shinrin-yoku - forest bathing</a>
+	<a href="https://www.literatureandlatte.com/blog/do-you-write-longhand-store-handwritten-notes-and-texts-in-scrivener-projects" target="_blank">How to Store Handwritten Notes and Texts in Scrivener Projects</a>
+	<a href="https://amazonpublishing.amazon.com/47north.html" target="_blank">47North</a>
+	<a href="https://tracyclarkbooks.com/Books/hide-harriet-foster-1/" target="_blank">Tracy Clark: Hide</a>
+
+
+<p>Learn more about <a href="https://www.literatureandlatte.com/scrivener/overview" target="_blank">Scrivener</a>, and check out the ebook <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>.</p>
+
+<p>If you like the podcast, please <a href="https://podcasts.apple.com/us/podcast/write-now-with-scrivener/id1568550068" target="_blank">follow it in Apple Podcasts</a> or your favorite podcast app. Leave a rating or review, and tell your friends. And check out past episodes of <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+
+
+<p>Veronica Henry has written four novels, across different but related genres. She has written fantasy, mysteries, and thrillers. Most authors stick to one genre, but Veronica likes to write &ldquo;what I like to call speculative fiction, which encompasses a wide range of fiction, about the fantastical, things that are a little outside of your everyday life.&rdquo;</p>
+
+<p>Early on, she faced a choice whether she should &ldquo;establish a career writing one thing for a very long period of time, and then branch out, or book the trend and write what I want.&rdquo; She chose the genre switch, and hasn&rsquo;t regretted it; neither have, it seems, her fans.</p>
+
+<p>Veronica&rsquo;s first published novel is <em>Bacchanal</em>, a fantasy novel, but, before that, she says &ldquo;The first novel that I wrote was a sci-fi novel that no one will ever see. Thank goodness.&rdquo; But after that, influenced by Ray Bradbury&rsquo;s <em>Something Wicked This Way Comes</em>, she asked herself &ldquo;that quintessential author question. What if? What if this was told from my perspective, and the perspective of someone in my family in South Carolina. But that &ldquo;what if&rdquo; question about what that story would look like, told from a perspective set in the South, a perspective from someone that was black, African-American. I thought this could be interesting. Of course, the story that I told ended up being nothing like <em>Something Wicked This Way Comes</em>. But it served as that spearhead of the idea to say, &lsquo;Okay, I could take this in a different direction.&rsquo;&rdquo;</p>
+
+<p>I mentioned that I had grown up in the 1970s, reading authors like Ray Bradbury, and Robert Heinlein, and there were very few African-American voices in science fiction. Veronica said that it was the same for her. &ldquo;It took a long while for me to even discover Samuel R. Delaney and Octavia Butler, who were our pioneers in the space. But I did the same thing as you: I read Herbert, I read Heinlein, and I read Bradbury, I read all of those folks. And I read those books over and over again. But again, not discovering that there were people like me who did this much until later had an impact.&rdquo;</p>
+
+<p>Science fiction can be set anywhere, such as Veronica&rsquo;s novels set in the depression in the South, or in New Orleans; it gives much more latitude than other genres. &ldquo;It absolutely does. It&#39;s one of those genres that makes it very clear that no matter where you are from, no matter what you look like, no matter your gender, our stories are really very similar. We all want the same things. We all struggle with the same things.&rdquo;</p>
+
+<p>Veronica&rsquo;s latest novel, <em>The Canopy Keepers</em>, is an ecological science fantasy. &ldquo;I read about the fires that happen in Sequoia National Park and the devastation to the giant sequoia trees. And I thought that if we keep doing this, we destroy these trees, we destroy the trees in the Amazon, we are setting ourselves up for some trouble. So I got the idea to write a story about nature and about the environment, but from the perspective of nature being a little angry at us about what we&#39;re doing. We always see nature as this passive victim of human evolution. I wanted to spin that and say, &lsquo;What if nature is taking notice and saying, You know what, I&#39;ve had enough.&rsquo;&rdquo;</p>
+
+<p>Veronica mentioned two books that influenced <em>The Canopy Keepers</em>: Richard Powers&rsquo; The Overstory, and Jeff VanderMeer&rsquo;s <em>Annihilation</em>. She said that, when reading books like that, &ldquo;the trick is to read them during the research process, before you start to write a word. That way, you have enough of a distance between another author&#39;s thoughts and another author&#39;s way of telling a story and your own, so that you&#39;re not subconsciously filtering in some of that into your own work.&rdquo;</p>
+
+<p>Veronica has used Scrivener to write all four of her published novels. But she writes longhand first, then types up her chapters the next day, &ldquo;making some little changes on the fly, making it sound a little better. In that way, I finished with a first draft and maybe a little bit of a second draft at the same time.&rdquo;</p>
+
+<p>&ldquo;What I love about [Scrivener] is, that I never found anything that matched everything that I need in a writing tool. Being able to organize my research and have it at hand is critical. Being able to label and color-code my chapters, because I often write from multiple points of view. And there&#39;s so much research that goes into my work that has to be organized. I have what I call the <em>vault</em> in my Binder. I have information about certain things about ecology, about the roles of firefighters, what their job is like, what type of equipment they use. All that research, all those notes that I take by hand, generally end up in Scrivener, so I can easily access them, particularly when I&#39;m going through the editing process.&rdquo;</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+ 
+
+<https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-38-veronica-g-henry-fantasy-and-mystery-author>
 
 ---
 

@@ -1,11 +1,81 @@
 ---
 title: motorcycles 2024.18
-updated: 2024-04-30 19:19:59
+updated: 2024-05-01 08:24:18
 ---
 
 # motorcycles 2024.18
 
-(date: 2024-04-30 19:19:59)
+(date: 2024-05-01 08:24:18)
+
+---
+
+## Ducati's Very Proud of The Panigale V4’s Origin Story
+
+date: 2024-05-01, from: Ride Apart, Electric Motorcycle News
+
+A new exhibition gave enthusiasts a rare glimpse into the life story of one of the most desired sportbikes on the market.  
+
+<https://www.rideapart.com/news/718061/ducati-milan-design-week-2024/>
+
+---
+
+## MIT Still Working on Hydrogen Fuel Cell Motorcycles
+
+date: 2024-05-01, from: Ride Apart, Electric Motorcycle News
+
+The team sees hydrogen as a viable alternative fuel source.  
+
+<https://www.rideapart.com/news/718062/mit-open-source-hydrogen-motorcycle-design/>
+
+---
+
+## Polestar Charged an EV Car in 10 Minutes, Says It'd Work for Bikes, Too
+
+date: 2024-05-01, from: Ride Apart, Electric Motorcycle News
+
+This could fix one of the biggest issues with EV bikes.  
+
+<https://www.rideapart.com/news/718059/polestar-storedot-ev-charging-10-minutes/>
+
+---
+
+## This BMW EV Motorcycle Uses a 3-Series' Alternator for its Motor
+
+date: 2024-05-01, from: Ride Apart, Electric Motorcycle News
+
+Who knew? 
+
+<https://www.rideapart.com/news/718058/bmw-ce-o2-ev-motorcycle-alternator-motor/>
+
+---
+
+## The Mitt 808 Traveler Is A Harley Road Glide If You Squint Hard Enough
+
+date: 2024-05-01, from: Ride Apart, Electric Motorcycle News
+
+A large fairing, built-in storage, and lots of chrome.  
+
+<https://www.rideapart.com/news/717915/mitt-808-traveler-cruiser-launch/>
+
+---
+
+## Stop Watching FortNine's Videos For Motorcycle Safety Awareness Month
+
+date: 2024-05-01, from: Ride Apart, Electric Motorcycle News
+
+If you hint that people shouldn't be wearing armor without giving a viable alternative, your channel deserves to take a hit this month.  
+
+<https://www.rideapart.com/news/717727/fort9-motorcycle-armor/>
+
+---
+
+## Guilty Patricia Driscoll Gets Two Year Probation Sentence, 240 Hours Community Service, $75 fee
+
+date: 2024-05-01, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor WASHINGTON D.C. – Hiding her face with a sweater, Patricia Pauline Driscoll bolted from the E. Barrett Prettyman Federal Courthouse and jumped into a waiting Nissan&#8230;  
+
+<https://kickinthetires.net/nascar/guilty-patricia-driscoll-gets-two-year-probation-sentence-240-hours-community-service-75-fee/>
 
 ---
 
@@ -43,7 +113,7 @@ It doesn't get any more top-notch, edge-of-your-seat than this matchup. Brillian
 
 date: 2024-04-30, from: Ride Apart, Electric Motorcycle News
 
-Forget your SuperDukes and Panagalies because in the real world, what's more exciting than a new Street Triple? 
+Forget your SuperDukes and Panigales because in the real world, what's more exciting than a new Street Triple? 
 
 <https://www.rideapart.com/news/717723/spied-2026-triumph-street-triple/>
 

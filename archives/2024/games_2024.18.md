@@ -1,11 +1,111 @@
 ---
 title: games 2024.18
-updated: 2024-04-30 19:19:59
+updated: 2024-05-01 08:24:18
 ---
 
 # games 2024.18
 
-(date: 2024-04-30 19:19:59)
+(date: 2024-05-01 08:24:18)
+
+---
+
+## Pokémon Go leader counters for Sierra, Arlo, and Cliff in May 2024
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses>
+
+---
+
+## Pokémon Go Giovanni counters, team line-up in May 2024
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket>
+
+---
+
+## Pokémon Go Ditto disguises list for May 2024
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny>
+
+---
+
+## Pokémon Go Spotlight Hour schedule for May 2024
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule>
+
+---
+
+## The best board games of 2024 so far
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/what-to-play/24144632/best-board-games-2024-new>
+
+---
+
+## Diablo 4’s next season heralds a major reset — and it’s all in the name
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24146174/diablo-4-season-4-loot-reborn>
+
+---
+
+## Every movie and show coming to Netflix in May
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/entertainment/2024/5/1/24139390/new-netflix-may-2024-movies-tv-to-watch>
+
+---
+
+## Where to find Archie in the Cosmodrome in Destiny 2
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24138396/archie-location-where-in-the-system-tower>
+
+---
+
+## Destiny 2 The Pantheon bosses list, rewards, and guide to how it works
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24145806/the-pantheon-bosses-order-rewards-guide>
+
+---
+
+## Workers seek to alter the balance of power in Canadian video game industry
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24145830/game-workers-unite-csn-union-2024>
 
 ---
 
@@ -16,16 +116,6 @@ date: 2024-04-30, updated: 2024-04-30, from: Polygon Website
  
 
 <https://www.polygon.com/23043438/best-spider-man-movies-sam-raimi-explained-theaters>
-
----
-
-## Where to find Archie in Destiny 2
-
-date: 2024-04-30, updated: 2024-04-30, from: Polygon Website
-
- 
-
-<https://www.polygon.com/destiny-2-guide-walkthrough/24138396/archie-location-where-in-the-system-tower>
 
 ---
 

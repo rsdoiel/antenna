@@ -1,11 +1,268 @@
 ---
 title: tech likely 2024.18
-updated: 2024-04-30 19:19:58
+updated: 2024-05-01 08:24:17
 ---
 
 # tech likely 2024.18
 
-(date: 2024-04-30 19:19:58)
+(date: 2024-05-01 08:24:17)
+
+---
+
+## Big Science Drives Wallops’ Upgrades for NASA Suborbital Missions
+
+date: 2024-05-01, from: NASA breaking news
+
+Large amounts of data collected by today’s sensitive science instruments present a data-handling challenge to small rocket and balloon suborbital mission computing and avionics systems. 
+
+<https://www.nasa.gov/technology/goddard-tech/big-science-drives-wallops-suborbital-upgrades/>
+
+---
+
+##  Electronic Plastic 
+
+date: 2024-05-01, updated: 2024-05-01, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/electronic-plastic>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-01, from: Dave Winer's Scripting News)
+
+My father taught me how to organize my thinking when I was trying to figure out how something works. And that's basically what I've spent my whole life on, figuring out how things work. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/05/01.html#a143101>
+
+---
+
+## Worlds Collide
+
+date: 2024-05-01, updated: 2024-05-01, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/05/01/worlds-collide/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-01, from: Dave Winer's Scripting News)
+
+When I log on to meta.ai, <a href="https://imgs.scripting.com/2024/05/01/suggestions.png">these</a> are the suggestions. None of them relate to things I'm thinking about. I haven't been a student or interviewed for a job in decades. But I've been on Facebook for many years, and I had to connect this to my Facebook account to use it, so presumably it knows all that Facebook knows about me, about me. How long before this is customized? 
+
+<http://scripting.com/2024/05/01.html#a142154>
+
+---
+
+## Scientists Find a Fast Way to Describe Quantum Systems
+
+date: 2024-05-01, from: Quanta Magazine
+
+After years of false starts, a team of computer scientists has found a way to efficiently deduce the Hamiltonian of a physical system at any constant temperature.            <p>The post <a href="https://www.quantamagazine.org/scientists-find-a-fast-way-to-describe-quantum-systems-20240501/" target="_blank">Scientists Find a Fast Way to Describe Quantum Systems</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/scientists-find-a-fast-way-to-describe-quantum-systems-20240501/>
+
+---
+
+##  Gen X and millennials who have been posting selfies on social media... 
+
+date: 2024-05-01, updated: 2024-05-01, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044519-gen-x-and-millennials-who>
+
+---
+
+## Asian-American and Native Hawaiian Pacific Islander Heritage Month
+
+date: 2024-05-01, from: NASA breaking news
+
+In honor of Asian-American and Native Hawaiian Pacific Islander Heritage Month, we recognize astronauts with Asian roots who have flown to the International Space Station and contributed to its assembly, operations and research activities. Other pioneers preceded them into space. The first person of Asian origin to reach space, Phạm Tuân of Vietnam spent eight [&#8230;] 
+
+<https://www.nasa.gov/history/asian-american-and-native-hawaiian-pacific-islander-heritage-month-2024/>
+
+---
+
+##  Artist Alex Tomlinson wonders, “What if owls had flags?”... 
+
+date: 2024-05-01, updated: 2024-05-01, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044513-artist-alex-tomlinson-ask>
+
+---
+
+## 2024-04-22 Gopher, again
+
+date: 2024-05-01, from: Alex Schroeder's Blog
+
+<h1 id="2024-04-22-gopher-again">2024-04-22 Gopher, again</h1>
+
+<p>Having found a separate server, written in Go, monitored by systemd, to be the superior solution for double hosting my site for Gemini, I kept thinking about Gopher. With <a href="Odd%C2%B5">Oddµ</a> using a version of Markdown that is very close to the standard, and having found a library that I understand, more or less, which I had successfully grafted onto <a href="https://sr.ht/~gsthnz/satellite/">Satellite</a>, the Gemini server I’m using, based on renderer code I found in the <a href="https://github.com/tdemin/gmnhg">Hugo-to-Gemini converter</a> that used the same Markdown parsing library I was using for Oddµ, I figured that I might use the same library to turn Markdown into suitable Gopher pages.</p>
+
+<p>It took some wrangling and it’s probably not great, but the main menu matches my front page and the blog posts look mostly OK, and so the site is back as a gopher hole on port 70!</p>
+
+<p>See <a href="https://src.alexschroeder.ch/markdown-gopher.git">Markdown Gopher</a> for the Gopher server code.</p>
+
+<p>See my <a href="https://src.alexschroeder.ch/satellite.git">patched Satellite</a> for the Gemini server code, <a href="2023-11-03-other-ports">discussed back in 2023</a>.</p>
+
+<p>And naturally I’m immediately annoyed by the lack of UTF-8 support in this client I’m using.</p>
+
+<p><a class="tag" href="/search/?q=%23Gopher">#Gopher</a></p>
+
+<p><strong>2024-05-01</strong>. I think I finally managed to get decent word-wrapping!</p> 
+
+<https://alexschroeder.ch/view/2024-04-22-gopher>
+
+---
+
+## Chinese Tencent-owned Riot Games installs rootkit on every League of Legends players’ computer
+
+date: 2024-05-01, from: OS News
+
+With 14.9, Vanguard, Riot’s proprietary Anti-Cheat system will be deployed and active in League of Legends. This means that active enforcement of Vanguard will be in effect and working hard to make sure your queues are free from scripters, botters, and cheaters! We recently released a blog detailing the “why” behind bringing Vanguard to League that you can check out here. It’s a bit of a long read, but it does have some pictures. ↫ Lilu Cabreros in the League of Legends patch notes The basic gist is that Vanguard is a closed-source, kernel-level rootkit for Windows that runs at all times, with the supposed goal of detecting and banning cheaters from playing League of Legends. This being a rootkit designed specifically to inject itself into the Windows kernel, it won&#8217;t work on Linux, and as such, the entire League on Linux community, which has been playing League for years now and even at times communicated with Riot employees to keep the game running, is now gone. Interestingly enough, Riot is not implementing Vanguard on macOS, which League of Legends also supports &#8211; because Apple simply doesn&#8217;t allow it. This is probably the most invasive, disturbing form of anticheat we&#8217;ve seen so far, especially since it involves such a hugely popular game. It&#8217;s doubly spicy because Riot Games is owned by Tencent, a Chinese company, which means a company owned and controlled by the Chinese government now has rootkits installed on the roughly 150 million players&#8217; computers all over the world. While we&#8217;re all (rightly, in my opinion) worried about TikTok, China just slipped 150 million rootkits onto computers all over the world. One really has to wonder where these increasingly invasive, anti-privacy and anti-user anticheat measures are going from here. Now that this rootkit can keep tabs on literally every single thing you do on your Windows computer, what&#8217;s going to be the next step? Anticheat might have to move towards using webcams to watch you play to prevent you from cheating, because guess what? The next level of cheating is already here, and it doesn&#8217;t even involve your computer. Earlier this year, hardware maker MSI showed off a gaming monitor that uses &#8220;AI&#8221; to see what&#8217;s going on on your monitor, and then injects overlays onto your monitor to help you cheat. MSI showed off how the monitor will use the League of Legends minimap to follow enemy champions and other relevant content, and then show warnings on your screen when enemies approach from off-screen. All of this happens entirely on the monitor&#8217;s hardware, and never sends any data whatsoever to the computer it&#8217;s attached to. It&#8217;s cheating that literally cannot be detected by anything running on your computer, rootkit or not. So, the only logical next step as such forms of cheating become more advanced and widespread is to force users to turn on their webcams, and point them at their displays. I fired up League of Legends today on my gaming computer &#8211; which runs Linux, of course &#8211; and after the League client &#8220;installed&#8221; the rootkit, it just got stuck in an endless loop of asking me to restart the client. I&#8217;ve been playing League of Legends for close to 14 years, and while I know the game &#8211; and especially its community &#8211; has a deservedly so bad reputation, I&#8217;ve always enjoyed the game with friends, and especially with my wife, who&#8217;s been playing for years and years as well. Speaking of my wife &#8211; even though she runs Windows and could easily install the rootkit if she wanted to, she has some serious doubts about this. When I explained what the Vanguard rootkit can do, her mouse pointer slowly moved away from the &#8220;Update&#8221; button, saying, &#8220;I&#8217;m not so sure about this&#8230;&#8221; 
+
+<https://www.osnews.com/story/139517/chinese-tencent-owned-company-riot-games-installs-rootkit-on-every-league-of-legends-players-computer/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-01, from: Dave Winer's Scripting News)
+
+If you're a blogger, here's something to think about. Whose writing influenced the way you write? Here's my list: Kurt Vonnegut, My uncle Ken (not his writing, rather his way of telling stories), my father, <a href="https://en.wikipedia.org/wiki/Russell_Baker">Russell Baker</a>, Robert Hunter (lyricist for the Dead), <a href="https://en.wikipedia.org/wiki/Douglas_Coupland">Douglas Coupland</a> (specifically <a href="https://en.wikipedia.org/wiki/Microserfs">MicroSerfs</a>), the Suck.com guys, everyone who was writing at Hotwired in 1995. I'll think of others, but those are the ones who come to mind. I have been a constant reader since I was a little kid, so there's a mix of writing styles from authors I don't immediately remember. I should also do one of these lists for who inspired my software. 
+
+<http://scripting.com/2024/05/01.html#a130058>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-01, from: Dave Winer's Scripting News)
+
+I'm looking for a quick and easy and ideally free way to upload an MP3 of a podcast and get back a transcript. I have a feeling that a podcast I recorded yesterday will work better as a written document, but I don't have the patience to transcribe it myself. I asked on <a href="https://twitter.com/davewiner/status/1785442296466747624">Twitter</a>, <a href="https://bsky.app/profile/scripting.com/post/3krf2vjg3nk2w">Bluesky</a>, <a href="https://mastodon.social/@davew/112362620201313010">Mastodon</a>, <a href="https://www.threads.net/@davew/post/C6Zy6uyJRz1">Threads</a>, <a href="https://chat.openai.com/share/32dce589-58c8-498b-85bd-c1f9a2c1b892">ChatGPT</a>, <a href="https://www.meta.ai/c/6b8ecc0f-2163-4162-aa48-67e32f4260cc">Meta.ai</a>. 
+
+<http://scripting.com/2024/05/01.html#a123347>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-01, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/01/waltFrazier.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I have to admit I like <a href="https://www.google.com/search?q=tyrese+maxey">Tyrese Maxey</a> of the Sixers, who <a href="https://www.espn.com/nba/story/_/id/40061591/amazing-maxey-late-burst-helps-76ers-stay-alive-ot-win-knicks">spoiled a Knicks victory</a> last night that would have closed out the first round of the playoffs. It felt like the Knicks had won the game when Maxie single-handedly pulled the Sixers back into contention. Now the Knicks are up 3-2 with the next game in Philadelphia tomorrow night. But! I didn't flip out this time like I did for the last game, and I think it was because I was able to watch it on <a href="https://www.msgnetworks.com/">local TV</a> with the familiar play by play guy, Mike Breen, and the best color guy for any sport, <a href="https://www.google.com/search?q=walt+clyde+frazier">Walt Clyde Frazier</a>. If he wasn't flipping out why should I. One of the things I love about his <a href="https://www.google.com/search?q=clydisms">narration</a> is that he uses words incorrectly, kind of like <a href="https://thelastdrivein.com/2015/07/02/the-archie-bunker-malapropism-dictionary-of-mangled-english/">Archie Bunker</a>. I keep wanting to <a href="https://knowyourmeme.com/memes/you-keep-using-that-word-i-do-not-think-it-means-what-you-think-it-means">say</a> "I do not think it means what you think it means," but then I realized, last night, for the first time, it's freaking poetry! A lot of it even rhymes. And it's a poem that will go on as long as the Knicks do. Unfortunately I don't think the MSG crew is going to be doing the <a href="https://www.google.com/search?q=nba+schedule&rlz=1C5CHFA_enUS743US747&oq=nba+schedule&aqs=chrome.0.69i59j69i56i59j0i131i433i512j0i20i263i512j0i131i433i512j0i512j0i131i433i512l3j0i512.30465j0j4&sourceid=chrome&ie=UTF-8#sie=m;/g/11vwxq3z2y;3;/m/05jvx;dt;fp;1;;;">next game</a>. And btw, they do a much better job of camera work than ESPN. Maybe it's because the TV people have been able to iterate the camera setup the same way I iterate the UI of a piece of software. The same company owns the TV network as owns the arena as owns the team. It's all totally horizontally integrated. At dinner the other night a friend asked, if the <a href="https://en.wikipedia.org/wiki/James_L._Dolan">owner</a> of the Knicks wasn't a putz. I said of course, he's the worst but, the Knicks now are being well managed. So maybe he's mellowed out a bit? 
+
+<http://scripting.com/2024/05/01.html#a122811>
+
+---
+
+## Sayers the middlebrow writer
+
+date: 2024-05-01, from: Ayjay blog
+
+Robert Graves and Alan Hodge, in The Lost Week-End (1940), their generally fascinating and informative social history of Great Britain between the world wars, make a great many Olympian pronouncements. They say, for instance, that Auden “perhaps never wrote an original line,” a claim that, to the person who has read even a handful of [&#8230;] 
+
+<https://blog.ayjay.org/sayers-the-middlebrow/>
+
+---
+
+## May’s Night Sky Notes: Stargazing for Beginners
+
+date: 2024-05-01, from: NASA breaking news
+
+Were you inspired by the solar eclipse to become an amateur astronomer? If so, here are some high-level tips on how to get started, from Night Sky Notes! 
+
+<https://science.nasa.gov/solar-system/skywatching/night-sky-network/may2024-night-sky-notes/>
+
+---
+
+## An update from the Raspberry Pi Computing Education Research Centre
+
+date: 2024-05-01, from: Raspberry Pi (.org)
+
+<p>It’s been nearly two years since the launch of the Raspberry Pi Computing Education Research Centre. Today, the Centre’s Director Dr Sue Sentance shares an update about the Centre’s work. The Raspberry Pi Computing Education Research Centre (RPCERC) is unique for two reasons: we are a joint initiative between the University of Cambridge and the&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/an-update-from-the-raspberry-pi-computing-education-research-centre/">An update from the Raspberry Pi Computing Education Research Centre</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/an-update-from-the-raspberry-pi-computing-education-research-centre/>
+
+---
+
+## Linux Mint: non-GNOME GTK desktop environments need to work together in the face of libadwaita
+
+date: 2024-05-01, from: OS News
+
+Anyone who has spent any time recently using non-GNOME GTK desktop environments, like Cinnamon, MATE, or Xfce, has had to deal with the unfortunate reality of a lot of GTK applications becoming GNOME applications instead, using GNOME&#8217;s own libadwaita. These applications are hard to theme, and do not integrate at all with the proper GTK applications non-GNOME desktop environments ship with. With how popular GNOME is, this has meant that the number of non-GNOME GTK applications has been dwindling. Linux Mint, the popular Linux distribution that also develops the Cinnamon desktop environment, has long made a bundle of GTK applications called XApps &#8211; basically forks of various core GNOME 3.x applications to ensure they would have access to non-GNOME GTK applications. With GNOME effectively forking GTK into its own, unique, GNOME-specific style (like libaidwaita), other GTK environments have suffered, and XApps were intended to close that gap. That hasn&#8217;t really happened though, as XApps remained mostly a Mint-only thing, managed by Mint, as part of the Mint/Cinnamon GitHub projects. Other distributions and GTK desktop environments, such as Xfce, MATE, Budgie, and so on, didn&#8217;t really pick them up. The Linux Mint project intends to change that, and will &#8216;spin off&#8217; the XApps into its own, dedicated, independent project to facilitate cross-distribution and cross-DE collaboration, decision-making and development, all in an effort to ensure the long-term viability of non-GNOME GTK desktop environments. They also intend to fork a lot more of the GNOME 3 applications, for the same reason I mentioned earlier: GNOME applications are no longer GTK applications, but GNOME applications &#8211; they look and feel horribly out of place in environments that don&#8217;t use the GNOME-specific libadwaita. As such, Celluloid, GNOME Calculator, Simple Scan, Baobab, System Monitor, GNOME Calendar, File Roller, and Zenity were recently downgraded in Linux Mint to their last GTK 3 versions, and will most likely be forked in the near future. In addition, the Adwaita theme, the default GNOME/GTK theme, will be removed from the list of available themes in Cinnamon 6.2. Adwaita, too, has become increasingly GNOME-only, and thus, increasingly broken on non-GNOME desktop environments. Flat-our removing Adwaita altogether is not possible, since it&#8217;s a GTK dependency, but hiding it from the theme selector is not an issue, of course. As project lead Clément Lefèbvre writes: libAdwaita is for GNOME and GNOME only. We can’t blame GNOME for this, they’ve been very clear about it from the start. It was made specifically for GNOME to have more freedom and build its own ecosystem without impacting GTK. We want to send a strong signal upstream and towards other projects. We cannot and will not support applications which do not support our users and environments. We can’t promote applications to our users which don’t support our users. The software manager will be vigilant towards that going forward and list compatible software by default. ↫ Clément Lefèbvre All of this is great news to hear. I&#8217;ve been making extensive use of Xfce on OpenBSD lately, and on the Fedora Xfce spin in the weeks before that, and the situation has become almost comical. If you install any GNOME application on Xfce, theming just breaks down completely, as most themes are either not made to support the massive headerbars GNOME uses, or they do support it but still look horribly out of place compared to the more sane titlebar plus menubar plus toolbar layout of traditional desktop environments like Xfce. I&#8217;ve long been saying that the non-GNOME GTK desktop environments need to work together to formulate an answer to the onslaught of libadwaita and the GNOME-ification of GTK, because each of them risks becoming entirely tied to whatever GNOME and libadwaita decides to do, for better or worse. It seems the Linux Mint team has finally realised this as well, and I really hope &#8211; and strongly suggest &#8211; Xfce, MATE, and others join them as well. If they don&#8217;t, there won&#8217;t be an Xfce in a few years. What&#8217;s the point in developing Xfce if you&#8217;re at the mercy of whatever choices GNOME makes? 
+
+<https://www.osnews.com/story/139512/linux-mint-non-gnome-gtk-desktop-environments-need-to-work-together-in-the-face-of-libadwaita/>
+
+---
+
+## Redox gets USB HID support
+
+date: 2024-05-01, from: OS News
+
+Another month, another detailed report about the progress made in Redox, the Rust-based operating system. A major improvements this month is support for USB HID, allowing USB keyboards and mice to work on Redox, but the project does note USB hubs are still problematic and might not work properly. Thanks to these USB improvements, Redox&#8217; desktop environment Orbital now also ran on ARM64 in Qemu for the first time, which is a great step towards running it on real ARM64 hardware. A massive documentation pass has also taken place, fixing various errors and improving and simplifying the writing. More programs have been ported, of course, and various lower-level improvements and fixes, along with a number of other fixes and changes across the operating system. 
+
+<https://www.osnews.com/story/139514/redox-gets-usb-hid-support/>
+
+---
+
+## Deno 1.43: Improved Language Server performance
+
+date: 2024-05-01, updated: 2024-05-01, from: Deno blog
+
+Deno 1.43 enhances productivity with a faster language server, improved npm compatibility, a new `deno serve` subcommand, URL.parse() API, and announcements regarding Deno 2. 
+
+<https://deno.com/blog/v1.43>
+
+---
+
+## How NASA Continues Inspiring Engineer’s Future
+
+date: 2024-05-01, from: NASA breaking news
+
+Work at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, takes one site engineer back to a childhood memory, where a dream of being a member of the NASA team began. Now, Briou Bourgeois is working to launch a career with even bigger aspirations. 
+
+<https://www.nasa.gov/image-article/how-nasa-continues-inspiring-engineers-future/>
+
+---
+
+## Sign language translation glasses
+
+date: 2024-05-01, from: Raspberry Pi News (.com)
+
+<p>These sign language translation glasses use Raspberry Pi Zero 2 W and a camera to translate signs to speech in real time.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/sign-language-translation-glasses/">Sign language translation glasses</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/sign-language-translation-glasses/>
+
+---
+
+## The Moloch Trap of Environmental Problems
+
+date: 2024-05-01, from: Hannah Richie at Substack
+
+Zero-sum thinking will get us nowhere. 
+
+<https://www.sustainabilitybynumbers.com/p/moloch-trap>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-05-01, from: Jessica Smith's blog)
+
+<p>So I know I’ve been really quiet on here for a while, but since my fatigue has improved massively, and we’ve now done the early scans and tests to confirm things are progressing well, I guess I can post this… 😅</p>
+<p>I am pregnant! Viv and I are expecting around Halloween. We had our first ultrasound last week and got to see Baby waving their arms about, annnnnd yeah. It&rsquo;s nerve-wracking and scary but exciting, and while I don&rsquo;t intend it to become the ONLY thing I post about, it&rsquo;s definitely a big thing happening in my life right now. It feels weird to say “I&rsquo;m hoping to get back into social media&quot; (even when this encompasses IndieWeb microblogging) but uhhhh&hellip; kinda. Haha. Anyway, that’s my big news!</p> 
+
+<https://www.jayeless.net/2024/05/exciting-personal-news.html>
+
+---
+
+## IBM RISC System/6000 Family
+
+date: 2024-05-01, from: Computer ads from the Past
+
+Just when PowerSeeker thought they had nowhere to go... 
+
+<https://computeradsfromthepast.substack.com/p/ibm-risc-system6000-family>
 
 ---
 
@@ -16,6 +273,53 @@ date: 2024-05-01, from: NASA breaking news
 This event was part of Space Diplomacy Week, focused on deepening bilateral relationships, specifically how international partnerships are strengthened by space exploration. 
 
 <https://www.nasa.gov/image-article/u-s-department-of-state-open-house-at-nasa-headquarters/>
+
+---
+
+## Seeking consultancy: understanding joining obstacles for non-member journals
+
+date: 2024-05-01, from: Crossref Blog
+
+<p>Crossref is undertaking a large program, dubbed <a href="https://www.crossref.org/community/special-programs/resourcing-crossref/">'RCFS' (Resourcing Crossref for Future Sustainability)</a> that will initially tackle five specific issues with our fees. We haven’t increased any of our fees in nearly two decades, and while we’re still okay financially and do not have a revenue growth goal, we do have inclusion and simplification goals. <a href="https://www.crossref.org/pdfs/research-consulting-rcfs-report-public.pdf">This report from Research Consulting</a> helped to narrow down the five priority projects for 2024-2025 around these three core goals:</p>
+<h2 id="scope-of-the-rcfs-program-2024-2025">Scope of the RCFS Program 2024-2025</h2>
+<div class="shortcode-divwrap green-highlight">
+<span><h4 id="goal-more-equitable-fees">GOAL: MORE EQUITABLE FEES</h4>
+<ol>
+<li><strong>Project 1</strong>: Evaluate the USD $275 annual membership fee tier and propose a more equitable pricing structure, which might entail breaking this down into two or more different tiers.</li>
+<li><strong>Project 2</strong>: Define a new basis for sizing and tiering members for their capacity to pay</li>
+</ol>
+<h4 id="goal-simplify-complex-fees">GOAL: SIMPLIFY COMPLEX FEES</h4>
+<ol start="3">
+<li><strong>Project 3</strong>: Address and adjust <em>volume</em> discounts for Content Registration</li>
+<li><strong>Project 4</strong>: Address and adjust <em>backfile</em> discounts for Content Registration</li>
+</ol>
+<h4 id="goal-rebalance-revenue-sources">GOAL: REBALANCE REVENUE SOURCES</h4>
+<ol start="5">
+<li><strong>Project 5</strong>: Reflect the increasing value of Crossref as a metadata source, likley increasing Metadata Plus fees</li>
+</ol>
+</span>
+</div>
+<h2 id="work-to-date">Work to date</h2>
+<p>As part of the RCFS program, we are working closely with our Membership &amp; Fees Committee to discuss insights, gather feedback, and make recommendations to the Board. As a first step, we have surveyed and received responses from around 1000 of the current 8,000 Crossref members in our lowest membership fee tier ($275 USD). We are now starting to distill that data and will discuss it on our <a href="https://www.crossref.org/events/the-shape-of-things-to-come">community call on May 8th</a> and subsequently with the M&amp;F Committee to inform recommendations for fee changes that may going into effect in 2025 or 2026.</p>
+<h2 id="request-for-information-rfi-about-community-consultation-project">Request For Information (RFI) about community consultation project</h2>
+<p>While we have useful data from existing Crossref members, we know that there are many thousands of journals that are not (yet) members, and we need to understand this group better, in particular, to document and address the financial obstacles as well as the technical or social challenges.</p>
+<blockquote>
+<p>We are looking for community facilitation expertise, with multiple language skills, to conduct a series of focus groups with non-member journals, with a summary and insights report (in English) provided by the end of June 2024.</p>
+</blockquote>
+<p>All the data and documentation will be available publicly on the dedicated <a href="https://www.crossref.org/community/special-programs/resourcing-crossref/">RCFS Program website</a></p>
+<p>As well as designing, conducting, and summarising the results of some focus groups (participants for which will be gathered via our own contacts and those of partners such as DOAJ, EIFL, and the Free Journal Network) we would like the consultant to review work such as the <a href="https://diamasproject.eu/diamas-results-institutional-landscape-survey/" target="_blank">DIAMAS institutional publishing report</a>, and identify data relevant to Crossref’s fee model.</p>
+<p>If you would like to respond, please provide the following information and send it to Kora Korzec at <a href="mailto:feedback@crossref.org">feedback@crossref.org</a> by <strong>15th May</strong>:</p>
+<ul>
+<li>Your consultancy organisation and your role within it</li>
+<li>Examples of similar market research undertaken</li>
+<li>Languages spoken within your team</li>
+<li>Confirmation that the timeline is workable</li>
+<li>Approximate fee, likely range, or structure/basis for your fee</li>
+</ul>
+<p>Equally, if you represent a journal or group of journals, such as Diamond Open Access journals, and are not yet using Crossref, please get in touch and we can include your group in the research.</p>
+<p>Thank you!</p> 
+
+<https://www.crossref.org/blog/seeking-consultancy-understanding-joining-obstacles-for-non-member-journals/>
 
 ---
 

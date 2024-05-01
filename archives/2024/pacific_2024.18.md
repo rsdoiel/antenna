@@ -1,11 +1,381 @@
 ---
 title: pacific 2024.18
-updated: 2024-04-30 19:19:58
+updated: 2024-05-01 08:24:17
 ---
 
 # pacific 2024.18
 
-(date: 2024-04-30 19:19:58)
+(date: 2024-05-01 08:24:17)
+
+---
+
+## Trump is fined for contempt before a witness reveals seamy deal-making
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The judge overseeing Donald Trump&#8217;s criminal case in Manhattan held him in contempt Tuesday, fining the former president $9,000 for repeatedly violating a gag order and warning that he could go to jail if he continued to attack witnesses and jurors.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/nation-world-news/trump-is-fined-for-contempt-before-a-witness-reveals-seamy-deal-making/>
+
+---
+
+## Manono Street project clears another hurdle
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>Despite some misgivings, a Hawaii County Council committee has approved a plan to redevelop a derelict Hilo residential lot.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/hawaii-news/manono-street-project-clears-another-hurdle/>
+
+---
+
+## $750K donated for Waimea community center
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>Waimea residents are one step closer to getting a new community center/emergency shelter thanks to a generous financial donation.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/hawaii-news/750k-donated-for-waimea-community-center/>
+
+---
+
+## US agency recommends reclassifying marijuana as less dangerous drug
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Drug Enforcement Administration is recommending cannabis be reclassified as less risky, people familiar with the matter said &#8212; a move that could help the legal marijuana industry benefit from tax breaks.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/nation-world-news/us-agency-recommends-reclassifying-marijuana-as-less-dangerous-drug/>
+
+---
+
+## $1B is pledged for undersea internet cables
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>What promises to be a significant step in bridging Hawaii&#8217;s digital divide &#8212; a $1 billion project to build undersea fiber-optic internet cables &#8212; was unveiled Tuesday in Honolulu.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/hawaii-news/1b-is-pledged-for-undersea-internet-cables/>
+
+---
+
+## Brewers overcome brawl, ejections to down Rays
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>Freddy Peralta allowed just one hit &#8212; a solo homer &#8212; before being ejected in the sixth inning to lead the Milwaukee Brewers to a wild 8-2 victory over the visiting Tampa Bay Rays on Tuesday night in a game also marred by an eighth-inning fight.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/sports/brewers-overcome-brawl-ejections-to-down-rays/>
+
+---
+
+## Tyrese Maxey-led 76ers rally late, stay alive with OT win over Knicks
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>Tyrese Maxey scored a playoff career-high 46 points, including the tying 35-foot 3-pointer with 15.3 seconds left in regulation, and Kelly Oubre Jr. converted the tiebreaking layup with 1:02 remaining in overtime as the visiting Philadelphia 76ers avoided elimination with a 112-106 victory over the New York Knicks Tuesday night in Game 5 of an Eastern Conference first-round series.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/sports/tyrese-maxey-led-76ers-rally-late-stay-alive-with-ot-win-over-knicks/>
+
+---
+
+## BIIF volleyball finals end today
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>The BIIF boys volleyball season will come to a climax as the Central Pacific Bank/BIIF boys volleyball championships condlude tonight at Hilo High.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/sports/biif-volleyball-finals-end-today/>
+
+---
+
+## Angels OF Mike Trout to undergo knee surgery
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>Los Angeles Angels star outfielder Mike Trout has a torn meniscus in his left knee and will undergo surgery that will keep him out for an undetermined amount of time.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/sports/angels-of-mike-trout-to-undergo-knee-surgery/>
+
+---
+
+## Clippers eye third win of series vs. Mavs without Kawhi Leonard
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>As James Harden turns back the clock, the Los Angeles Clippers are alive and well in a first-round Western Conference playoff series against the Dallas Mavericks.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/sports/clippers-eye-third-win-of-series-vs-mavs-without-kawhi-leonard/>
+
+---
+
+## Student protest is an essential part of education
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>Anyone who was at Columbia University in the spring of 1968 cannot help but see a reprise of those stormy, fateful and thrilling days in what is happening on the Morningside Heights campus today.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/opinion/student-protest-is-an-essential-part-of-education/>
+
+---
+
+## In killing this bill, California Democrats proved they’re lap dogs for Gov. Newsom
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>California Democrats are demonstrating that they view Sacramento as their own little club, where duly-elected Republicans have no power. This malignant feature of California&#8217;s one-party state results in a legislature that seems to us like a mere puppet of the Governor.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/opinion/in-killing-this-bill-california-democrats-proved-theyre-lap-dogs-for-gov-newsom/>
+
+---
+
+## Cavaliers edge Magic on late block, take 3-2 series lead
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>Evan Mobley blocked Franz Wagner&#8217;s attempted layup with 5.1 seconds remaining in the fourth quarter, helping the host Cleveland Cavaliers secure a 104-103 win over the Orlando Magic on Tuesday in Game 5 of their Eastern Conference first-round playoff series.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/sports/cavaliers-edge-magic-on-late-block-take-3-2-series-lead/>
+
+---
+
+## World news in brief
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>Russian missile hits educational institution, kills five in Odesa</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/nation-world-news/world-news-in-brief/>
+
+---
+
+## Supreme Court allows, for now, Texas law restricting access to porn
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court refused on Tuesday to block a Texas law that seeks to limit minors&#8217; access to pornography on the internet by requiring age verification measures like the submission of government-issued IDs.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/nation-world-news/supreme-court-allows-for-now-texas-law-restricting-access-to-porn/>
+
+---
+
+## Police clear pro-Palestinian protesters from Columbia University’s Hamilton Hall after occupation
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Police cleared 30 to 40 people from inside Columbia University&#8217;s Hamilton Hall late Tuesday after pro-Palestinian protesters occupied the administration building in New York earlier in the day.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/nation-world-news/police-clear-pro-palestinian-protesters-from-columbia-universitys-hamilton-hall-after-occupation/>
+
+---
+
+## U.S. plan to protect oceans has a problem, some say: Too much fishing
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>New details of the Biden administration&#8217;s signature conservation effort, made public this month amid a burst of other environmental announcements, have alarmed some scientists who study marine protected areas because the plan would count certain commercial fishing zones as conserved.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/nation-world-news/u-s-plan-to-protect-oceans-has-a-problem-some-say-too-much-fishing/>
+
+---
+
+## Eight newspapers sue Microsoft, OpenAI over the new artificial intelligence
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>Eight newspapers sued Microsoft and OpenAI on Tuesday, claiming the technology giants illegally harvested millions of copyrighted articles to create their cutting-edge &#8220;generative&#8221; artificial intelligence products including OpenAI&#8217;s ChatGPT and Microsoft&#8217;s Copilot.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/nation-world-news/eight-newspapers-sue-microsoft-openai-over-the-new-artificial-intelligence/>
+
+---
+
+## In reversal, expert panel recommends breast cancer screening at 40
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>(NYT) &#8212; Citing rising breast cancer rates in young women, an expert panel on Tuesday recommended starting regular mammography screening at age 40, reversing long-standing and controversial guidance that most women wait until 50.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/nation-world-news/in-reversal-expert-panel-recommends-breast-cancer-screening-at-40/>
+
+---
+
+## Federal attorneys defend government’s Red Hill response as first lawsuit opens
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>U.S. Department of Justice attorneys opened the first day of a class-action lawsuit by defending the government&#8217;s response to the Red Hill water crisis while acknowledging some Navy liability in contaminating the water supply for tens of thousands of residents.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/hawaii-news/federal-attorneys-defend-governments-red-hill-response-as-first-lawsuit-opens/>
+
+---
+
+## Trending news in brief
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>Trump refuses to answer abortion questions in new interview</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/nation-world-news/trending-news-in-brief/>
+
+---
+
+## More details emerge about 8 officers shot, 4 fatally, while serving warrant in Charlotte
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>Eight law officers were shot Monday, four fatally, as a U.S. Marshals fugitive task force tried to serve a warrant in Charlotte, North Carolina, police said, in one of the deadliest days for law enforcement in recent years.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/nation-world-news/more-details-emerge-about-8-officers-shot-4-fatally-while-serving-warrant-in-charlotte/>
+
+---
+
+## US news in brief
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>Democratic leaders to back House Speaker Johnson in potential motion to vacate</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/nation-world-news/us-news-in-brief/>
+
+---
+
+## Netanyahu again vows to invade Rafah ‘with or without’ cease-fire deal
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>Prime Minister Benjamin Netanyahu of Israel once again pledged Tuesday to launch a ground invasion into the city of Rafah in the southern Gaza Strip, a move that could undermine efforts to negotiate a cease-fire agreement after seven months of war in the Palestinian enclave.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/nation-world-news/netanyahu-again-vows-to-invade-rafah-with-or-without-cease-fire-deal/>
+
+---
+
+## Obituaries for May 1
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>Gloria Jean Beattie, 78, of Kailua-Kona died April 28 at home. Born in Gainesville, Fla., she was an early childhood educator and stay-at-home mom. Services at a later date in Florida. Survived by husband, Scott Beattie of Kailua-Kona; sons, Matthew (Hilarie) Beattie of Huntington Beach, Calif., and Adrian Robinson of Kailua-Kona; daughter, Sarah Beattie of Detroi; brothers, Cris Beckham and Jerry Beckham of Cedar Key, Fla.; two grandsons; nieces, nephews and cousins. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/obituaries/obituaries-for-may-1-10/>
+
+---
+
+## AstroDay: ‘May the 4th Be With You’
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;Star Wars&#8221; fans are welcome to invade Hilo&#8217;s Prince Kuhio Plaza on Saturday for the annual AstroDay &#8212; where attendees can learn about scientific discoveries and technology all day from 10 a.m. to 4 p.m.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/community/astroday-may-the-4th-be-with-you/>
+
+---
+
+## Hilo Lei Day Festival today at Kalakaua Park
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;May Day is Lei Day in Hawaii,&#8221; so the song tells us.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/community/hilo-lei-day-festival-today-at-kalakaua-park/>
+
+---
+
+## County to host third Hawaii Sustainability Summit
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>In a continued effort toward its long-term and short-term sustainability goals, Hawaii County will host the 2024 Hawaii Sustainability Summit presented by Outrigger Hospitality Group, set to take place this Friday and Saturday at the Outrigger Kona Resort and Spa.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/community/county-to-host-third-hawaii-sustainability-summit/>
+
+---
+
+## AARP offers free night of comedy with Augie T.
+
+date: 2024-05-01, from: Hawaii Tribune Harold
+
+
+				<p>AARP Hawaii presents a evening of comedy with comedian Augie T. at Aunty Salley&#8217;s in Hilo at 6 p.m. Thursday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/01/community/aarp-offers-free-night-of-comedy-with-augie-t/>
+
+---
+
+## Pacific TAFE hosts Vanuatu Industry Consultation
+
+date: 2024-05-01, from: University of the South Pacific (Fiji)
+
+<p>The post <a href="https://www.usp.ac.fj/news/pacific-tafe-hosts-vanuatu-industry-consultation/">Pacific TAFE hosts Vanuatu Industry Consultation</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/pacific-tafe-hosts-vanuatu-industry-consultation/>
+
+---
+
+## Hawaiian Word of the Week: Mei
+
+date: 2024-05-01, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Mei&#8212;May</p>
+The post <a href="https://www.hawaii.edu/news/2024/04/30/hawaiian-word-of-the-week-mei/">Hawaiian Word of the Week: Mei</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/04/30/hawaiian-word-of-the-week-mei/>
 
 ---
 
@@ -120,7 +490,7 @@ The post <a href="https://www.hawaii.edu/news/2024/04/30/uh-manoa-prettiest-coll
 
 ## Judge fines Trump $9,000, threatens jail for contempt in hush money trial
 
-date: 2024-04-30, updated: 2024-04-30, from: Marianas Variety
+date: 2024-04-30, updated: 2024-05-01, from: Marianas Variety
 
 (Reuters) — The judge overseeing Donald Trump's criminal hush money trial fined the former U.S. president $9,000 for contempt of court on Tuesday and said he would consider jailing him if he continued to violate a gag order. 
 
@@ -140,39 +510,9 @@ date: 2024-04-30, from: Island Conservation News
 
 ---
 
-## Kanoa, Shirley’s extend win streak in women’s soccer
-
-date: 2024-04-30, updated: 2024-04-30, from: Marianas Variety
-
-KANOA and Shirley’s football clubs have yet to face defeat in the Tikekcha-Awaal division of the Dove Women’s League Spring 2024 after defeating their respective opponents at the NMI Soccer Training Center in Koblerville on Sunday. 
-
-<https://www.mvariety.com/sports/localsports/kanoa-shirley-s-extend-win-streak-in-women-s-soccer/article_6b8d8e9e-06f1-11ef-aa8e-2b9f74d9f35f.html>
-
----
-
-## Nick Sablan Jr. Secures hole-in-one victory at Saipan Chamber of Commerce 15th Annual Golf Tournament
-
-date: 2024-04-30, updated: 2024-04-30, from: Marianas Variety
-
-(SCC) — The Saipan Chamber of Commerce is thrilled to announce Nick Sablan Jr. as the winner of the hole-in-one contest during the 15th Annual Golf Tournament on April 27, 2024. Nick Jr. showcased remarkable golf skills by achieving a hole-in-one on hole #13, which posed a challenging distance of 180 yards. As a recognition of his exceptional achievement, Nick Jr. was awarded a brand new 2024 Nissan Versa SR sponsored by Joeten Motors, along with a $10,000 cash prize sponsored by TurnKey Solutions. 
-
-<https://www.mvariety.com/sports/localsports/nick-sablan-jr-secures-hole-in-one-victory-at-saipan-chamber-of-commerce-15th-annual/article_b24d515e-06ef-11ef-8c38-cb8d543bba33.html>
-
----
-
-## Atalig, Dela Cruz bag low gross title in chamber golf tournament
-
-date: 2024-04-30, updated: 2024-04-30, from: Marianas Variety
-
-WITH a score of 61 (11-under par), JJ Atalig and Joey Dela Cruz topped the low gross category of the 15th Annual Saipan Chamber of Commerce Scholarship Golf Tournament at Laolao Bay Golf &amp; Resort on Saturday. 
-
-<https://www.mvariety.com/sports/localsports/atalig-dela-cruz-bag-low-gross-title-in-chamber-golf-tournament/article_0319607a-06f3-11ef-90d5-436411535e0a.html>
-
----
-
 ## NotTurtle: NotCo releases AI-designed 'turtle' soup
 
-date: 2024-04-30, updated: 2024-04-30, from: Marianas Variety
+date: 2024-04-30, updated: 2024-05-01, from: Marianas Variety
 
 SANTIAGO (Reuters) — It tastes like sought-after turtle soup but there is no trace of shelled critters in the bowl: Chilean plant-based food firm NotCo recreated this famous dish using artificial intelligence and in doing so hopes to help raise awareness about the endangered reptile. 
 
@@ -182,7 +522,7 @@ SANTIAGO (Reuters) — It tastes like sought-after turtle soup but there is no t
 
 ## Hyatt Regency Saipan issues official statement
 
-date: 2024-04-30, updated: 2024-04-30, from: Marianas Variety
+date: 2024-04-30, updated: 2024-05-01, from: Marianas Variety
 
 “HYATT Regency Saipan is closing its doors after 43 years. 
 
@@ -192,7 +532,7 @@ date: 2024-04-30, updated: 2024-04-30, from: Marianas Variety
 
 ## Lady Blue Jays win third straight softball title
 
-date: 2024-04-30, updated: 2024-04-30, from: Marianas Variety
+date: 2024-04-30, updated: 2024-05-01, from: Marianas Variety
 
 THE Lady Blue Jays won the title for the third time in a row by outlasting BDE, 7-5, in game 2 of the ladies division championship series of the 2024 Budweiser Belau Amateur Softball Association League at the Dandan baseball field on Sunday. 
 
@@ -202,7 +542,7 @@ THE Lady Blue Jays won the title for the third time in a row by outlasting BDE, 
 
 ## Start me up: The Stones kick off North America tour in Houston
 
-date: 2024-04-30, updated: 2024-04-30, from: Marianas Variety
+date: 2024-04-30, updated: 2024-05-01, from: Marianas Variety
 
 HOUSTON (Reuters) — The Rolling Stones kicked off their North America tour at a sold-out venue in Houston on Sunday, with people traveling from various cities to watch one of the world's most enduring rock bands amid worries that this could be their last tour. 
 
@@ -212,7 +552,7 @@ HOUSTON (Reuters) — The Rolling Stones kicked off their North America tour at 
 
 ## Prepare to get hot and bothered with stylish, synthy tennis drama ‘Challengers’
 
-date: 2024-04-30, updated: 2024-04-30, from: Marianas Variety
+date: 2024-04-30, updated: 2024-05-01, from: Marianas Variety
 
 (AP) — “Challengers” is a bit of a tease. That’s what makes it fun. 
 
@@ -222,11 +562,41 @@ date: 2024-04-30, updated: 2024-04-30, from: Marianas Variety
 
 ## Atkins Kroll celebrates 110th anniversary milestone
 
-date: 2024-04-30, updated: 2024-04-30, from: Marianas Variety
+date: 2024-04-30, updated: 2024-05-01, from: Marianas Variety
 
 TAMUNING, Guam —  Atkins Kroll Inc. Guam, an Inchcape Company, celebrated its 110th Anniversary on April 27, 2024, during a gala event at the Dusit Thani Guam Resort. 
 
 <https://www.mvariety.com/news/community_bulletins/atkins-kroll-celebrates-110th-anniversary-milestone/article_39bcb17e-06ba-11ef-bd36-ab9700a0d793.html>
+
+---
+
+## Kanoa, Shirley’s extend win streak in women’s soccer
+
+date: 2024-04-30, updated: 2024-05-01, from: Marianas Variety
+
+KANOA and Shirley’s football clubs have yet to face defeat in the Tikekcha-Awaal division of the Dove Women’s League Spring 2024 after defeating their respective opponents at the NMI Soccer Training Center in Koblerville on Sunday. 
+
+<https://www.mvariety.com/sports/localsports/kanoa-shirley-s-extend-win-streak-in-women-s-soccer/article_6b8d8e9e-06f1-11ef-aa8e-2b9f74d9f35f.html>
+
+---
+
+## Nick Sablan Jr. Secures hole-in-one victory at Saipan Chamber of Commerce 15th Annual Golf Tournament
+
+date: 2024-04-30, updated: 2024-05-01, from: Marianas Variety
+
+(SCC) — The Saipan Chamber of Commerce is thrilled to announce Nick Sablan Jr. as the winner of the hole-in-one contest during the 15th Annual Golf Tournament on April 27, 2024. Nick Jr. showcased remarkable golf skills by achieving a hole-in-one on hole #13, which posed a challenging distance of 180 yards. As a recognition of his exceptional achievement, Nick Jr. was awarded a brand new 2024 Nissan Versa SR sponsored by Joeten Motors, along with a $10,000 cash prize sponsored by TurnKey Solutions. 
+
+<https://www.mvariety.com/sports/localsports/nick-sablan-jr-secures-hole-in-one-victory-at-saipan-chamber-of-commerce-15th-annual/article_b24d515e-06ef-11ef-8c38-cb8d543bba33.html>
+
+---
+
+## Atalig, Dela Cruz bag low gross title in chamber golf tournament
+
+date: 2024-04-30, updated: 2024-05-01, from: Marianas Variety
+
+WITH a score of 61 (11-under par), JJ Atalig and Joey Dela Cruz topped the low gross category of the 15th Annual Saipan Chamber of Commerce Scholarship Golf Tournament at Laolao Bay Golf &amp; Resort on Saturday. 
+
+<https://www.mvariety.com/sports/localsports/atalig-dela-cruz-bag-low-gross-title-in-chamber-golf-tournament/article_0319607a-06f3-11ef-90d5-436411535e0a.html>
 
 ---
 
@@ -880,41 +1250,37 @@ The post <a href="https://www.hawaii.edu/news/2024/04/29/graduation-ceremonies-m
 date: 2024-04-29, from: FSM Public Information Office (Simina Administration)
 
 <p><img src="https://gov.fm/images/2024/FSM_Seal3.png" /></p><p style="text-align: center;">
-	<strong><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Statement<br />
+	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong>Statement<br />
 	By<br />
 	H. E. Wesley W. Simina<br />
 	President<br />
-	Federated States of Micronesia</span></span></strong></p>
+	Federated States of Micronesia</strong></span></span></p>
 <div>
 	<div style="text-align: center;">
-		<strong><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">World Tuna Day</span></span></strong></div>
+		<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong>World Tuna Day</strong></span></span></div>
 	<div style="text-align: center;">
-		<strong><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">May 2, 2024</span></span></strong></div>
+		<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong>May 2, 2024</strong></span></span></div>
 </div>
 <p>
 	&nbsp;</p>
 <p>
-	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">My fellow citizens, on behalf of Vice President Palik, and I extend to you all warm greetings of Kaselehlie, Ran Anim, Lenwo and Mogethin. Kamorale and Happy National Tuna Day!</span></span></p>
+	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My fellow citizens, on behalf of Vice President Palik, and I extend to you all warm greetings of Kaselehlie, Ran Anim, Lenwo and Mogethin. Kamorale and Happy National Tuna Day!</span></span></p>
 <p>
-	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">May 2nd marks the 8th year since the United Nations General Assembly adopted UNGA Resolution A/RES/71/124 on December 7, 2016, proclaiming May 2 every year as World Tuna Day. The FSM joins our United Nations family by celebrating May 2 as National Tuna Day throughout the Federated States of Micronesia.</span></span></p>
+	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; May 2nd marks the 8th year since the United Nations General Assembly adopted UNGA Resolution A/RES/71/124 on December 7, 2016, proclaiming May 2 every year as World Tuna Day. The FSM joins our United Nations family by celebrating May 2 as National Tuna Day throughout the Federated States of Micronesia.</span></span></p>
 <p>
-	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">This year&#39;s theme, &quot;Our Tuna, Our Legacy,&quot; underscores our shared responsibility in celebrating National Tuna Day. I urge all citizens of our respective States to join us in commemorating May 2 by organizing various activities that highlight the importance of tuna in our lives as a young island nation. Your active participation is crucial in making this celebration a success.</span></span></p>
-<div>
-	<p>
-		<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Tuna is a major source of protein for our people and a cash generator for our local fishermen and national treasury. Today, on average, we generate $65 million a year from the sale of licenses to foreign and domestic fleets. Today, we can see the impact of our Onshore investments, employment, and other spin-off benefits visible in our states particularly in Pohnpei and Kosrae. The adoption of the first FSM National Oceanic Fisheries Investment Policy, which all five governments of this federation have endorsed, now provides clear guidance to us all on how we move forward together to increase our benefits through collective action and cooperation to improve the investment climate in fisheries. I would like to thank the four Governors of Pohnpei, Yap, Chuuk, and Kosrae for their confidence in the policy. Your national government is ready to work hand-in-hand to achieve new levels and greater benefits from our tuna resources.</span></span></p>
-	<div>
-		<p>
-			<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">My fellow citizens, our tuna serves as a crucial source of nutrition for our nation and the global community, sustaining our livelihoods and ensuring food security. Let us recognize the importance of this resource and work together to safeguard its continued availability for generations to come. To this end, conservation and management guided by a sustainable development policy of our tuna ensure they remain healthy and resilient to fishing pressure and development. Of course, we face many challenges to achieve our long-term goals, such as the most threatening matter we all face today: Climate Change. Climate change is not only an existential threat to our people and islands, but also to the migration and distribution of tunas. While there is clear evidence that climate change will change the distribution of tuna fishing biomass over time, we are engaged at national, regional, and international fora to protect our rights and the rights of securing our EEZ and the benefits we enjoy through various actions, including the permanency of our maritime boundaries. This, I believe, will ensure that the fishing opportunities in the coastal and tuna fishery today remain with FSM over time as the impact of climate change takes hold as a result of human-induced changes.</span></span></p>
-		<div>
-			<p>
-				<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">This also highlights the need for a better understanding of our Tuna. I call on all our fishermen catching tuna in the FSM to be on the lookout for tags on the tuna. Bring the tagged tuna to your fisheries offices! Although for a small fee, your tuna will go a long way as your contribution to improving our understanding of our tuna resources to ensure we are able to pass on a healthy resource to the next generation.</span></span></p>
-			<p>
-				<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">My fellow citizens, today, FSM, in partnership with the Waitt Foundation through the Blue Prosperity Micronesia, is working on setting aside conservation areas through Marine Spatial Planning programs, which aim to protect vulnerable marine areas and ecosystems. It is our belief that marine spatial planning will undoubtedly assure that our finite fisheries resources can be developed sustainably and protect the ecosystems in which they thrive.</span></span></p>
-			<p>
-				<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">As we celebrate this year&#39;s National Tuna Day, I encourage all citizens to actively engage in all National Tuna Day activities organized by your respective States and contribute to ensuring greater understanding and appreciation of the legacy we must chart for ourselves and for the future generations of the FSM.</span></p>
-		</div>
-	</div>
-</div>
+	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This year&rsquo;s theme, &rdquo;Our Tuna, Our Legacy,&rdquo; underscores our shared responsibility in celebrating National Tuna Day. I encourage all citizens of our respective States to join us in commemorating May 2 by organizing various activities that highlight the importance of tuna in our lives as a young island nation. Your active participation is crucial in making this celebration a success.</span></span></p>
+<p>
+	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tuna is a major source of protein for our people and a source of livelihood for our local fishermen and national economy. On average, we generate $65 million a year from the sale of licenses to foreign and domestic fleets. Today, we can see the impact of our Onshore investments, employment, and other spin-off benefits visible in our states particularly in Pohnpei and Kosrae. The adoption of the first FSM National Oceanic Fisheries Investment Policy, which all five governments of this federation have endorsed, now provides clear guidance to us all on how we move forward together to increase our benefits through collective action and cooperation to improve the investment climate in fisheries. I would like to thank the four Governors of Pohnpei, Yap, Chuuk, and Kosrae fortheir confidence in this policy. Your national government is ready to work hand-in-hand to achieve new levels and greater benefits from our tuna resources.</span></span></p>
+<p>
+	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My fellow citizens, our tuna serves as a crucial source of nutrition for our nation and the global community, sustaining our livelihoods and ensuring food security. Let us recognize the importance of this resource and work together to safeguard its continued availability for generations to come. To this end, conservation and management guided by a sustainable development policy of our tuna ensures they remain healthy and resilient to fishing pressure and development. Of course, we face many challenges to achieve our long-term goals, such as the most threatening matter we all face today: Climate Change. Climate change is not only an existential threat to our people and islands, but also to the migration and distribution of tunas. While there is clear evidence that climate change will change the distribution of tuna fishing biomass over time, we are engaged at national, regional, and international fora to protect our rights and the rights of securing our EEZ and the benefits we enjoy through various actions, including the permanency of our maritime boundaries. This, I believe, will ensure that the fishing opportunities in the coastal and tuna fishery today remain with the FSM over time as the impact of climate change takes hold as the result of human-induced changes.</span></span></p>
+<p>
+	<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This also highlights the need for a better understanding of our tuna. I call on all our fishermen catching tuna in the FSM to be on the lookout for tags on the tuna. Bring the tagged tuna to your fisheries offices! Although for a small fee, your tuna will go a long way as your contribution to improving our understanding of our tuna resources to ensure we are able to pass on a healthy resource to the next generation.</span></p>
+<p>
+	<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My fellow citizens, today, the FSM, in partnership with the Waitt Foundation through Blue Prosperity Micronesia, is working on setting aside conservation areas through Marine Spatial Planning programs, which aim to protect vulnerable marine areas and ecosystems. It is our belief that marine spatial planning will undoubtedly assure that our finite fisheries resources can be developed sustainably and protect the ecosystems in which they thrive.</span></p>
+<p>
+	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As we celebrate this year&rsquo;s National Tuna Day, I encourage all citizens to actively engage in all National Tuna Day activities organized by your respective States and contribute to ensuring greater understanding and appreciation of the legacy we must chart for ourselves and for the future generations of the FSM.</span></span></p>
+<p>
+	&nbsp;</p>
 <p>
 	<style type="text/css">
 .container {
