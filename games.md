@@ -1,11 +1,101 @@
 ---
 title: games 2024.18
-updated: 2024-05-01 08:24:18
+updated: 2024-05-01 17:02:49
 ---
 
 # games 2024.18
 
-(date: 2024-05-01 08:24:18)
+(date: 2024-05-01 17:02:49)
+
+---
+
+## Star Wars: The Old Republic gets cozy with a new farming homestead
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24146695/star-wars-the-old-republic-farming-homestead-date-night-broadsword>
+
+---
+
+## AniMay is bringing big discounts on some of our favorite anime
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24146561/anime-blu-ray-4k-uhd-amazon-deal-sale>
+
+---
+
+## How to trade, set trade rules, and trade routes in Manor Lords, explained
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/manor-lords-guides/24146213/trade-trading-post-trade-rule-set-no-trade>
+
+---
+
+## What you should spend Tomestones of Poetics on in FFXIV
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24125345/tomestones-poetics-what-to-spend-cap>
+
+---
+
+## How to get a Heavensward (Anima) relic weapon in FFXIV
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24146448/heavensward-anima-relic-weapon-quest-steps-aetheric-density>
+
+---
+
+## I’m very scared of Helldivers 2’s new fight against the Terminid threat
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24146443/helldivers-2-major-orders-terminid-mutation-invisible-stalkers-narrative>
+
+---
+
+## Starfield’s most annoying feature just got nerfed
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24146378/starfield-improved-maps-difficulty-options>
+
+---
+
+## My Favorite Anime: Che Lingo’s journey from Death Note to Jujutsu Kaisen
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/anime/24144447/my-favorite-anime-che-lingo-death-note-jujutsu-kaisen>
+
+---
+
+## Pokémon Go ‘Glitz and Glam’ Diancie Special Research
+
+date: 2024-05-01, updated: 2024-05-01, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24146352/glitz-and-glam-diancie-special-research>
 
 ---
 

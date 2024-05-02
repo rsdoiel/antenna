@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.18
-updated: 2024-05-01 08:24:18
+updated: 2024-05-01 17:02:49
 ---
 
 # retro computing 2024.18
 
-(date: 2024-05-01 08:24:18)
+(date: 2024-05-01 17:02:49)
+
+---
+
+## WROCC May 2024 meeting - Gerph talks games
+
+date: 2024-05-01, from: Icon Bar, RISC OS News
+
+Wakefield's May speaker was Charles Ferguson, aka Gerph, talking about his past and present work creating games for RISC OS. 
+
+<http://www.iconbar.com/comments/rss/news2069.html>
 
 ---
 

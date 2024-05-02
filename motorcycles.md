@@ -1,11 +1,31 @@
 ---
 title: motorcycles 2024.18
-updated: 2024-05-01 08:24:18
+updated: 2024-05-01 17:02:49
 ---
 
 # motorcycles 2024.18
 
-(date: 2024-05-01 08:24:18)
+(date: 2024-05-01 17:02:49)
+
+---
+
+## Benda 250 Roadster
+
+date: 2024-05-01, from: Cycle World News
+
+Chinese company Benda already has plans to enter the US market, but will a 250–300cc naked be headed our way? 
+
+<https://www.cycleworld.com/motorcycle-news/benda-250-roadster/>
+
+---
+
+## Honda Finally Brings The NX500, CB500F, And CBR500R To The US
+
+date: 2024-05-01, from: Ride Apart, Electric Motorcycle News
+
+It was only a matter of time, but now that time is here. 
+
+<https://www.rideapart.com/news/718063/honda-nx500-cb500f-cbr500r-america/>
 
 ---
 

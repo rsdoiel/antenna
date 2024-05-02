@@ -1,11 +1,21 @@
 ---
 title: mid central 2024.18
-updated: 2024-05-01 08:24:17
+updated: 2024-05-01 17:02:48
 ---
 
 # mid central 2024.18
 
-(date: 2024-05-01 08:24:17)
+(date: 2024-05-01 17:02:48)
+
+---
+
+## Fresno State students to peacefully protest in solidarity with Palestine today
+
+date: 2024-05-01, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Collegiate protests and campus sit-ins are spreading like wildfire throughout the United States with students standing in solidarity with Palestinians, calling for their universities to sever all ties with Israel and divest funding. This surge of student activism stems from the latest Israel-Hamas war that has been happening since Oct. 7, 2023. Fresno State will... 
+
+<https://fscollegian.com/2024/05/fresno-state-students-to-peacefully-protest-in-solidarity-with-palestine-today/>
 
 ---
 

@@ -1,11 +1,239 @@
 ---
 title: socal north 2024.18
-updated: 2024-05-01 08:24:17
+updated: 2024-05-01 17:02:48
 ---
 
 # socal north 2024.18
 
-(date: 2024-05-01 08:24:17)
+(date: 2024-05-01 17:02:48)
+
+---
+
+## Port of Hueneme Delegation On-the-Move During Trade Mission to South Korea and Japan
+
+date: 2024-05-01, from: Port Hueneme
+
+A focus on Green Corridors and Economic Prosperity Download Press Release [Port Hueneme, CA &#8211; May 1] What is a more fitting way to usher in World Trade Week in Southern California than by having the Port of Hueneme complete a series of collaborative discussions, strategic meetings, and site visits during a whirlwind 10-day economic <a class="read-more-style" href="https://www.portofhueneme.org/korea-japan-delegation-2024/">Read More</a> 
+
+<https://www.portofhueneme.org/korea-japan-delegation-2024/>
+
+---
+
+## UCLA women’s tennis NCAA tournament predictions 2024
+
+date: 2024-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+No. 8 seed UCLA women&#8217;s tennis (18-5, 9-1 Pac-12) will host the first three rounds of the NCAA championships for the first time in three years. 
+
+<https://dailybruin.com/2024/05/01/ucla-womens-tennis-ncaa-tournament-predictions-2024/>
+
+---
+
+## Day one of Palestine protest at CSUN
+
+date: 2024-05-01, from: The Sundail (CSUN Student Newspaper)
+
+Students for Justice in Palestine and other CSUN organizations are working together to protest at CSUN. Located in front of Sierra Tower, pro-Palestine faculty and students are gathering to show... 
+
+<https://sundial.csun.edu/181296/multimedia/watch/day-one-of-palestine-protest-at-csun/>
+
+---
+
+## US Education Department Now Promising Three-Day Turnaround On Lingering FAFSA Applications
+
+date: 2024-05-01, updated: 2024-05-01, from: The LAist
+
+Education Department says issues are fixed, begs remaining students to submit. 
+
+<https://laist.com/news/education/fafsa-submissions-department-education-campaign>
+
+---
+
+## UCLA cancels classes following violence at Palestine solidarity encampment
+
+date: 2024-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+For the Daily Bruin’s full coverage of the UC Divest Coalition and Students for Justice in Palestine encampment, see here.
+A senior UCLA official indicated Wednesday afternoon that classes will be canceled Thursday, as Chancellor Gene Block condemned violence caused Tuesday night and Wednesday morning by counter-protesters. 
+
+<https://dailybruin.com/2024/05/01/ucla-cancels-classes-following-violence-at-palestine-solidarity-encampment/>
+
+---
+
+## UCLA rowing wraps up regular season with a win at the Dexter Lake Invitational
+
+date: 2024-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Rowing races typically go straight from start to finish.
+On Saturday morning, the Bruins&#8217; route took a detour.
+About 350 meters into UCLA rowing&#8217;s third varsity eight race of the Dexter Lake Invitational, a piece of Gonzaga&#8217;s boat fell off, causing the Bulldog&#8217;s boat to run into the Bruin&#8217;s boat. 
+
+<https://dailybruin.com/2024/05/01/ucla-rowing-wraps-up-regular-season-with-a-win-at-the-dexter-lake-invitational/>
+
+---
+
+## UCLA baseball crashes Waves in 14-run midweek win over Pepperdine
+
+date: 2024-05-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Midweek baseball basked in the sun and breeze at Eddy D. Field Stadium, with views of the Pacific Ocean beyond the left-field wall.
+The picture-perfect setting starkly contrasted the two teams on the field, who had lost 28 games each heading into Tuesday. 
+
+<https://dailybruin.com/2024/05/01/ucla-baseball-crashes-waves-in-14-run-midweek-win-over-pepperdine/>
+
+---
+
+## ‘Gaza Solidarity Occupation’ at USC passes first week — live updates
+
+date: 2024-05-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Protesters continue their occupation, demanding that USC take action against “the genocide in Palestine.” The Daily Trojan is live on the ground.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/01/gaza-solidarity-occupation-at-usc-passes-first-week-live-updates/">‘Gaza Solidarity Occupation’ at USC passes first week — live updates</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/01/gaza-solidarity-occupation-at-usc-passes-first-week-live-updates/>
+
+---
+
+## Celebrate Día de los Niños/Día de los Libros at the Santa Clarita Public Library
+
+date: 2024-05-01, from: City of Santa Clarita
+
+<p>Bring the Whole Family for a Cultural Adventure! The Santa Clarita Public Library is excited to announce its upcoming celebration in honor of Día de los Niños/Día de los Libros on Saturday, May 4, from 10:00 a.m. to 12:00 p.m. at the Canyon Country Jo Anne Darcy Library Branch. Día de los Niños, or Day [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/05/01/celebrate-dia-de-los-ninos-dia-de-los-libros-at-the-santa-clarita-public-library/">Celebrate Día de los Niños/Día de los Libros at the Santa Clarita Public Library</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/05/01/celebrate-dia-de-los-ninos-dia-de-los-libros-at-the-santa-clarita-public-library/>
+
+---
+
+## Spring 2024 USU and Associated Students election results
+
+date: 2024-05-01, from: The Sundail (CSUN Student Newspaper)
+
+After about two weeks, the spring 2024 University Student Union (USU) Board of Directors election has been decided for the 2024-2025 academic year. Four CSUN students have been elected to... 
+
+<https://sundial.csun.edu/181279/news/spring-2024-usu-and-associated-students-election-results/>
+
+---
+
+## News Briefs – May 1, 2024
+
+date: 2024-05-01, from: The Round Up (Pierce College Student Newspaper)
+
+<p>8th Annual Speech Tournament: The Department of Communications Studies at Pierce College will be hosting its 8th Annual Speech Tournament—and the first one back on</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/01/news-briefs-may-1-2024/">News Briefs – May 1, 2024</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/01/news-briefs-may-1-2024/?utm_source=rss&utm_medium=rss&utm_campaign=news-briefs-may-1-2024>
+
+---
+
+## Pierce College Council talks crime and class options
+
+date: 2024-05-01, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The Pierce College Council discussed several issues on and around the campus on Thursday, April 25. One of those topics was the increase in crime</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/01/pierce-college-council-talks-crime-and-class-options/">Pierce College Council talks crime and class options</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/01/pierce-college-council-talks-crime-and-class-options/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-college-council-talks-crime-and-class-options>
+
+---
+
+## Updates on Old Trapper’s Lodge
+
+date: 2024-05-01, from: The Round Up (Pierce College Student Newspaper)
+
+<p>There’s a California Historical Landmark on the Pierce College campus—but most students don’t know about it, and many of those who do are not happy</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/01/updates-on-old-trappers-lodge/">Updates on Old Trapper’s Lodge</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/01/updates-on-old-trappers-lodge/?utm_source=rss&utm_medium=rss&utm_campaign=updates-on-old-trappers-lodge>
+
+---
+
+## Helping the homeless through hygiene kit access
+
+date: 2024-05-01, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce College should make it a priority to be of service for college students who may be homeless, as well as homeless people in the</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/01/helping-the-homeless-through-hygiene-kit-access/">Helping the homeless through hygiene kit access</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/01/helping-the-homeless-through-hygiene-kit-access/?utm_source=rss&utm_medium=rss&utm_campaign=helping-the-homeless-through-hygiene-kit-access>
+
+---
+
+## Earth Day Bash
+
+date: 2024-05-01, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Each year, Earth Day takes place on April 22, and Pierce College students were among those who took part in the day’s education and celebration</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/01/earth-day-bash/">Earth Day Bash</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/01/earth-day-bash/?utm_source=rss&utm_medium=rss&utm_campaign=earth-day-bash>
+
+---
+
+## Aún no es noviembre, pero es hora de elegir a un presidente
+
+date: 2024-05-01, from: The Round Up (Pierce College Student Newspaper)
+
+<p>To read this story in the original English, click here. Traducción por Delilah Brumer y Daniela Raymundo. &#8212; Pierce College ha tenido un presidente provisional</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/01/aun-no-es-noviembre-pero-es-hora-de-elegir-a-un-presidente/">Aún no es noviembre, pero es hora de elegir a un presidente</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/01/aun-no-es-noviembre-pero-es-hora-de-elegir-a-un-presidente/?utm_source=rss&utm_medium=rss&utm_campaign=aun-no-es-noviembre-pero-es-hora-de-elegir-a-un-presidente>
+
+---
+
+## Kindness Carnival inspires children
+
+date: 2024-05-01, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Hundreds of children in identical teal T-shirts reading “kindness is free” explored, created art and played carnival games on the Pierce College campus on Saturday. </p>
+<p>The post <a href="https://theroundupnews.com/2024/05/01/kindness-carnival-inspires-children/">Kindness Carnival inspires children</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/01/kindness-carnival-inspires-children/?utm_source=rss&utm_medium=rss&utm_campaign=kindness-carnival-inspires-children>
+
+---
+
+## A blossoming escape
+
+date: 2024-05-01, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Spending time in nature can provide benefits toward cognitive function, an overall improved mood and a decrease in stress, according to the American Psychological Association.</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/01/2634217/">A blossoming escape</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/01/2634217/?utm_source=rss&utm_medium=rss&utm_campaign=2634217>
+
+---
+
+## It’s not yet November, but it’s time to pick a president
+
+date: 2024-05-01, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Para leer el artículo en español, haga clic aquí. Pierce College has had an interim president for about two-and-half years, and come June, the position</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/01/its-not-yet-november-but-its-time-to-pick-a-president/">It’s not yet November, but it’s time to pick a president</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/01/its-not-yet-november-but-its-time-to-pick-a-president/?utm_source=rss&utm_medium=rss&utm_campaign=its-not-yet-november-but-its-time-to-pick-a-president>
+
+---
+
+## Brahmas go to the polls
+
+date: 2024-05-01, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Brahmas can now vote for their 2024-25 Associated Student Organization (ASO) officers and LACCD Student Trustee.  Students and potential candidates for the positions gathered in</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/01/brahmas-go-to-the-polls/">Brahmas go to the polls</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/01/brahmas-go-to-the-polls/?utm_source=rss&utm_medium=rss&utm_campaign=brahmas-go-to-the-polls>
 
 ---
 
@@ -47,7 +275,7 @@ No. 1 seed UCLA women’s tennis and No. 3 seed UCLA men’s tennis traveled up 
 
 date: 2024-05-01, from: The Sundail (CSUN Student Newspaper)
 
-California State University, Northridge (CSUN) is hosting the third annual Digital Equity Day, focusing on the intersection of Artificial Intelligence (AI). Distinguished speakers Stephen Than and Deone Zell will discuss... 
+California State University, Northridge (CSUN) hosted the third annual Digital Equity Day on April 19, focusing on the intersection of Artificial Intelligence (AI). Distinguished speakers Stephen Than and Deone Zell... 
 
 <https://sundial.csun.edu/181221/multimedia/watch/ai-jam-ai-technology-solve-csuns-challenge/>
 

@@ -1,11 +1,118 @@
 ---
 title: columns 2024.18
-updated: 2024-05-01 08:24:17
+updated: 2024-05-01 17:02:48
 ---
 
 # columns 2024.18
 
-(date: 2024-05-01 08:24:17)
+(date: 2024-05-01 17:02:48)
+
+---
+
+## How “AI” is helping my writing process
+
+date: 2024-05-01, from: Om Malik blog
+
+People often talk about how AI will kill us, and take our jobs.&#160; It may do all that, but for now, I think of it as technology that augments my capabilities, and I see this play out every day in my life as a writer. For instance, yesterday I interviewed Matthew Prince, co-founder of CloudFlare. &#8230; 
+
+<https://om.co/2024/05/01/how-ai-has-helped-my-writing-process/>
+
+---
+
+##  The World Central Kitchen Cookbook by José Andrés was just announced as... 
+
+date: 2024-05-01, updated: 2024-05-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044531-the-world-central-kitchen>
+
+---
+
+##  Bubblegum Aliens 
+
+date: 2024-05-01, updated: 2024-05-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/bubblegum-aliens>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-01, from: Dave Winer's Scripting News)
+
+There's a <a href="https://github.com/scripting/feedlandBlogrollToolkit">FeedLand Blogroll Toolkit</a> if you want to adapt it to work in your blogging environment. We already have a <a href="http://scripting.com/2024/04/24/132025.html">WordPress plugin</a>. 
+
+<http://scripting.com/2024/05/01.html#a184141>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-01, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/01/bernardoGui.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://en.wikipedia.org/wiki/F._Murray_Abraham">F. Murray Abraham</a>, pictured to the right, played the part of the bad guy in a fantastic <a href="https://en.wikipedia.org/wiki/The_Name_of_the_Rose_(film)#:~:text=The%20Name%20of%20the%20Rose%20is%20a%201986%20historical%20mystery,mystery%20in%20a%20medieval%20abbey.">movie</a> about the <a href="https://en.wikipedia.org/wiki/Inquisition">Inquisition</a>. We're headed that way in the US. A man very much like <a href="https://en.wikipedia.org/wiki/Bernard_Gui">Bernardo Gui</a> will be advising women and their doctors on what is permitted in women's health care. 
+
+<http://scripting.com/2024/05/01.html#a182514>
+
+---
+
+##  Great piece on the existential threat faced by TV & film writers.... 
+
+date: 2024-05-01, updated: 2024-05-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044533-the-existential-threat-fa>
+
+---
+
+##  &#8220;What they are afraid of grows even as they starve it, which... 
+
+date: 2024-05-01, updated: 2024-05-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044532-what-they-are-afraid-of>
+
+---
+
+##  PLEASE STOP EMAILING US HARRIET. The internet is still good, people are... 
+
+date: 2024-05-01, updated: 2024-05-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044530-please-stop-emailing-us-h>
+
+---
+
+## 4-way NVMe RAID comes to Raspberry Pi 5
+
+date: 2024-05-01, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">4-way NVMe RAID comes to Raspberry Pi 5</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>With the Raspberry Pi 5's exposed PCI Express connector comes many new possibilities—which I test and document in my <a href="https://pipci.jeffgeerling.com/hats">Pi PCIe Database</a>. Today's board is the <a href="https://geekworm.com/products/x1011">Geekwork X1011</a>, which puts four NVMe SSDs under a Raspberry Pi.</p>
+
+<p><img class="insert-image" width="700" height="auto" alt="Inland 256GB NVMe SSDs installed on X1011 on Raspberry Pi 5" src="https://www.jeffgeerling.com/sites/default/files/images/x1011-08-pi-nas-nvme-inland.jpeg"></p>
+
+<p>Unlike the <a href="https://www.jeffgeerling.com/blog/2024/radxas-sata-hat-makes-compact-pi-5-nas">Penta SATA HAT</a> I tested last month, this carrier uses thinner and faster NVMe storage, making it a highly-compact storage expansion option, which has the added benefit of freeing up the top of the Pi 5 for other HAT expansion options.</p>
+
+<p><img class="insert-image" width="700" height="auto" alt="Raspberry Pi 5 installed atop Geekworm X1011 NVMe SSD carrier" src="https://www.jeffgeerling.com/sites/default/files/images/x1011-01-raspberry-pi-5.jpeg"></p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-05-01T10:59:58-05:00" title="Wednesday, May 1, 2024 - 10:59" class="datetime">May 1, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/4-way-nvme-raid-comes-raspberry-pi-5>
+
+---
+
+##  Love this: a grid-based CSS solution for displaying sheet music (staffs, notes,... 
+
+date: 2024-05-01, updated: 2024-05-01, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044522-love-this-a-grid-based-cs>
 
 ---
 
@@ -21,7 +128,7 @@ date: 2024-05-01, updated: 2024-05-01, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-05-01, from: Dave Winer's Scripting News)
 
-My father taught me how to organize my thinking when I was trying to figure out how something works. And that's basically what I've spent my whole life on, figuring out how things work. <span class="spOldSchoolEmoji">😄</span> 
+My father taught me how to organize my thinking when I was trying to figure out how something works. And that's basically what I've spent my life on, figuring out how things work. The most interesting and gratifying was understanding things that didn't exist until I pieced their story together. 
 
 <http://scripting.com/2024/05/01.html#a143101>
 

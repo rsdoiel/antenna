@@ -1,11 +1,21 @@
 ---
 title: parks 2024.18
-updated: 2024-05-01 08:24:18
+updated: 2024-05-01 17:02:49
 ---
 
 # parks 2024.18
 
-(date: 2024-05-01 08:24:18)
+(date: 2024-05-01 17:02:49)
+
+---
+
+## North Rim of Grand Canyon to reopen May 15 for 2024 season
+
+date: 2024-05-01, from: Press Releases
+
+The North Rim of Grand Canyon National Park will open on Sunday, May 15 at 6 a.m. to mark the official start of the 2024 season. Grand Canyon Lodge and Grand Canyon Trail Rides will also commence their 2024 seasonal operations on this date. https://www.nps.gov/grca/learn/news/north-rim-reopens-may-15-for-2024-season.htm 
+
+<https://www.nps.gov/grca/learn/news/north-rim-reopens-may-15-for-2024-season.htm>
 
 ---
 

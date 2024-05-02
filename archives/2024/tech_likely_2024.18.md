@@ -1,11 +1,248 @@
 ---
 title: tech likely 2024.18
-updated: 2024-05-01 08:24:17
+updated: 2024-05-01 17:02:48
 ---
 
 # tech likely 2024.18
 
-(date: 2024-05-01 08:24:17)
+(date: 2024-05-01 17:02:48)
+
+---
+
+## The Marshall Star for May 1, 2024
+
+date: 2024-05-01, from: NASA breaking news
+
+Marshall Prepares for Strategic Facilities Updates&#160; NASA’s Marshall Space Flight Center is getting ready for the next big step in the evolution of its main campus. Through a series of multi-year infrastructure projects, Marshall is optimizing its footprint to assure its place as a vibrant and vital hub for the aerospace community in the next [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-may-1-2024/>
+
+---
+
+##  The World Central Kitchen Cookbook by José Andrés was just announced as... 
+
+date: 2024-05-01, updated: 2024-05-01, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044531-the-world-central-kitchen>
+
+---
+
+## NASA Selects BAE Systems to Develop Air Quality Instrument for NOAA
+
+date: 2024-05-01, from: NASA breaking news
+
+NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has selected BAE Systems (formerly known as Ball Aerospace &#38; Technologies Corporation) of Boulder, Colorado, to develop an instrument to monitor air quality and provide information about the impact of air pollutants on Earth for NOAA’s Geostationary Extended Observations (GeoXO) satellite program. This cost-plus-award-fee [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-selects-bae-systems-to-develop-air-quality-instrument-for-noaa/>
+
+---
+
+##  Bubblegum Aliens 
+
+date: 2024-05-01, updated: 2024-05-01, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/bubblegum-aliens>
+
+---
+
+## Photos Syncing With iCloud Paused
+
+date: 2024-05-01, from: Michael Tsai
+
+I just ran into an iCloud issue I&#8217;d not seen before. Photos on my Mac now shows &#8220;Syncing with iCloud Paused. Optimizing System Performance&#8221; at the bottom of the photos grid. It&#8217;s not clear to me what this means because the Mac is essentially idle and not running on battery power. There&#8217;s a Sync Now [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/01/photos-syncing-with-icloud-paused/>
+
+---
+
+## The Joy of Shortcuts
+
+date: 2024-05-01, from: Michael Tsai
+
+Jarrod Blundy: I love building shortcuts. I have 579 of them in my personal library at the moment, and I&#8217;d guess that I built or modified about half of those at some point or another. Between my HeyDingus Shortcuts Library and my old home on RoutineHub, I&#8217;ve shared over 40 of them publicly, thinking that [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/01/the-joy-of-shortcuts/>
+
+---
+
+## Qi2 Battery Packs and Chargers
+
+date: 2024-05-01, from: Michael Tsai
+
+Christian Selig: Qi2 was supposed to be a glass of ice water to those in hell of Qi1, and I was hyped! Apple stopped making MagSafe battery packs themselves, and their old pack used Lightning instead of the newer USB-C, so I was excited to see third-parties bring MagSafe into the golden age of USB-C. [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/01/qi2-battery-packs-and-chargers/>
+
+---
+
+## Compelled to Unlock With Fingerprint
+
+date: 2024-05-01, from: Michael Tsai
+
+Jon Brodkin: The US Constitution&#8217;s Fifth Amendment protection against self-incrimination does not prohibit police officers from forcing a suspect to unlock a phone with a thumbprint scan, a federal appeals court ruled yesterday. The ruling does not apply to all cases in which biometrics are used to unlock an electronic device but is a significant [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/01/compelled-to-unlock-with-fingerprint/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-01, from: Dave Winer's Scripting News)
+
+There's a <a href="https://github.com/scripting/feedlandBlogrollToolkit">FeedLand Blogroll Toolkit</a> if you want to adapt it to work in your blogging environment. We already have a <a href="http://scripting.com/2024/04/24/132025.html">WordPress plugin</a>. 
+
+<http://scripting.com/2024/05/01.html#a184141>
+
+---
+
+## ScienceCraft for Outer Planet Exploration (SCOPE)
+
+date: 2024-05-01, from: NASA breaking news
+
+Mahmooda SultanaNASA Goddard Space Flight Center Missions to the outer solar system are an important part of NASA&#8217;s goals because these scarcely visited worlds, particularly the ice giants Neptune and Uranus, hold secrets about the formation and evolution of our solar system and countless others. However, due to the high cost, long travel time and [&#8230;] 
+
+<https://www.nasa.gov/directorates/stmd/niac/niac-studies/sciencecraft-for-outer-planet-exploration-scope/>
+
+---
+
+## Flexible Levitation on a Track (FLOAT)
+
+date: 2024-05-01, from: NASA breaking news
+
+Ethan SchalerNASA Jet Propulsion Laboratory We want to build the first lunar railway system, which will provide reliable, autonomous, and efficient payload transport on the Moon. A durable, long-life robotic transport system will be critical to the daily operations of a sustainable lunar base in the 2030&#8217;s, as envisioned in NASA&#8217;s Moon to Mars plan [&#8230;] 
+
+<https://www.nasa.gov/directorates/stmd/niac/niac-studies/flexible-levitation-on-a-track-float/>
+
+---
+
+## Radioisotope Thermoradiative Cell Power Generator
+
+date: 2024-05-01, from: NASA breaking news
+
+Stephen PollyRochester Institute of Technology In this project we will continue our Phase I efforts to develop and demonstrate the feasibility of a revolutionary power source for missions to the outer planets utilizing a new paradigm in thermal power conversion, the thermoradiative cell (TRC). Operating like a solar cell in reverse, the TRC converts heat [&#8230;] 
+
+<https://www.nasa.gov/directorates/stmd/niac/niac-studies/radioisotope-thermoradiative-cell-power-generator-2/>
+
+---
+
+## The Great Observatory for Long Wavelengths (GO-LoW)
+
+date: 2024-05-01, from: NASA breaking news
+
+Mary KnappMIT Humankind has never before seen the low frequency radio sky. It is hidden from ground-based telescopes by the Earth&#8217;s ionosphere and challenging to access from space with traditional missions because the long wavelengths involved (meter- to kilometer-scale) require infeasibly massive telescopes to see clearly. Electromagnetic radiation at these low frequencies carries crucial information [&#8230;] 
+
+<https://www.nasa.gov/directorates/stmd/niac/niac-studies/the-great-observatory-for-long-wavelengths-go-low/>
+
+---
+
+## Pulsed Plasma Rocket (PPR): Shielded, Fast Transits for Humans to Mars
+
+date: 2024-05-01, from: NASA breaking news
+
+Brianna ClementsHowe Industries The future of a space-faring civilization will depend on the ability to move both cargo and humans efficiently and rapidly. Due to the extremely large distances that are involved in space travel, the spacecraft must reach high velocities for reasonable mission transit times. Thus, a propulsion system that produces a high thrust [&#8230;] 
+
+<https://www.nasa.gov/directorates/stmd/niac/niac-studies/pulsed-plasma-rocket-ppr-shielded-fast-transits-for-humans-to-mars/>
+
+---
+
+## Fluidic Telescope (FLUTE): Enabling the Next Generation of Large Space Observatories
+
+date: 2024-05-01, from: NASA breaking news
+
+Edward BalabanNASA ARC The future of space-based UV/optical/IR astronomy requires ever larger telescopes. The highest priority astrophysics targets, including Earth-like exoplanets, first generation stars, and early galaxies, are all extremely faint, which presents an ongoing challenge for current missions and is the opportunity space for next generation telescopes: larger telescopes are the primary way to [&#8230;] 
+
+<https://www.nasa.gov/directorates/stmd/niac/niac-studies/fluidic-telescope-flute-enabling-the-next-generation-of-large-space-observatories-2/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-01, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/01/bernardoGui.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://en.wikipedia.org/wiki/F._Murray_Abraham">F. Murray Abraham</a>, pictured to the right, played the part of the bad guy in a fantastic <a href="https://en.wikipedia.org/wiki/The_Name_of_the_Rose_(film)#:~:text=The%20Name%20of%20the%20Rose%20is%20a%201986%20historical%20mystery,mystery%20in%20a%20medieval%20abbey.">movie</a> about the <a href="https://en.wikipedia.org/wiki/Inquisition">Inquisition</a>. We're headed that way in the US. A man very much like <a href="https://en.wikipedia.org/wiki/Bernard_Gui">Bernardo Gui</a> will be advising women and their doctors on what is permitted in women's health care. 
+
+<http://scripting.com/2024/05/01.html#a182514>
+
+---
+
+## Two Small NASA Satellites Will Measure Soil Moisture, Volcanic Gases
+
+date: 2024-05-01, from: NASA breaking news
+
+Two NASA pathfinding missions were recently deployed into low-Earth orbit, where they are demonstrating novel technologies for observing atmospheric gases, measuring freshwater, and even detecting signs of potential volcanic eruptions. The Signals of Opportunity P-Band Investigation (SNoOPI), a low-noise radio receiver, tests a new technique for measuring root-zone soil moisture by harnessing radio signals produced […] 
+
+<https://science.nasa.gov/earth/two-small-nasa-satellites-will-measure-soil-moisture-volcanic-gases/>
+
+---
+
+##  Great piece on the existential threat faced by TV & film writers.... 
+
+date: 2024-05-01, updated: 2024-05-01, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044533-the-existential-threat-fa>
+
+---
+
+## By Their Powers Combined
+
+date: 2024-05-01, from: NASA breaking news
+
+This April 20, 2024, image shows a first: all six radio frequency antennas at the Madrid Deep Space Communication Complex, part of NASA&#8217;s Deep Space Network (DSN), carried out a test to receive data from the agency&#8217;s Voyager 1 spacecraft at the same time. Combining the antennas’ receiving power, or arraying, lets the DSN collect [&#8230;] 
+
+<https://www.nasa.gov/image-article/by-their-powers-combined/>
+
+---
+
+##  &#8220;What they are afraid of grows even as they starve it, which... 
+
+date: 2024-05-01, updated: 2024-05-01, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044532-what-they-are-afraid-of>
+
+---
+
+##  PLEASE STOP EMAILING US HARRIET. The internet is still good, people are... 
+
+date: 2024-05-01, updated: 2024-05-01, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044530-please-stop-emailing-us-h>
+
+---
+
+## 4-way NVMe RAID comes to Raspberry Pi 5
+
+date: 2024-05-01, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">4-way NVMe RAID comes to Raspberry Pi 5</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>With the Raspberry Pi 5's exposed PCI Express connector comes many new possibilities—which I test and document in my <a href="https://pipci.jeffgeerling.com/hats">Pi PCIe Database</a>. Today's board is the <a href="https://geekworm.com/products/x1011">Geekwork X1011</a>, which puts four NVMe SSDs under a Raspberry Pi.</p>
+
+<p><img class="insert-image" width="700" height="auto" alt="Inland 256GB NVMe SSDs installed on X1011 on Raspberry Pi 5" src="https://www.jeffgeerling.com/sites/default/files/images/x1011-08-pi-nas-nvme-inland.jpeg"></p>
+
+<p>Unlike the <a href="https://www.jeffgeerling.com/blog/2024/radxas-sata-hat-makes-compact-pi-5-nas">Penta SATA HAT</a> I tested last month, this carrier uses thinner and faster NVMe storage, making it a highly-compact storage expansion option, which has the added benefit of freeing up the top of the Pi 5 for other HAT expansion options.</p>
+
+<p><img class="insert-image" width="700" height="auto" alt="Raspberry Pi 5 installed atop Geekworm X1011 NVMe SSD carrier" src="https://www.jeffgeerling.com/sites/default/files/images/x1011-01-raspberry-pi-5.jpeg"></p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-05-01T10:59:58-05:00" title="Wednesday, May 1, 2024 - 10:59" class="datetime">May 1, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/4-way-nvme-raid-comes-raspberry-pi-5>
+
+---
+
+##  Love this: a grid-based CSS solution for displaying sheet music (staffs, notes,... 
+
+date: 2024-05-01, updated: 2024-05-01, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044522-love-this-a-grid-based-cs>
 
 ---
 
@@ -31,7 +268,7 @@ date: 2024-05-01, updated: 2024-05-01, from: Jason Kottke blog
 
 **@Dave Winer's Scripting News** (date: 2024-05-01, from: Dave Winer's Scripting News)
 
-My father taught me how to organize my thinking when I was trying to figure out how something works. And that's basically what I've spent my whole life on, figuring out how things work. <span class="spOldSchoolEmoji">😄</span> 
+My father taught me how to organize my thinking when I was trying to figure out how something works. And that's basically what I've spent my life on, figuring out how things work. The most interesting and gratifying was understanding things that didn't exist until I pieced their story together. 
 
 <http://scripting.com/2024/05/01.html#a143101>
 
@@ -273,6 +510,16 @@ date: 2024-05-01, from: NASA breaking news
 This event was part of Space Diplomacy Week, focused on deepening bilateral relationships, specifically how international partnerships are strengthened by space exploration. 
 
 <https://www.nasa.gov/image-article/u-s-department-of-state-open-house-at-nasa-headquarters/>
+
+---
+
+## Evolving the Go Standard Library with math/rand/v2
+
+date: 2024-05-01, updated: 2024-05-01, from: Go language blog
+
+Go 1.23 adds math/rand/v2 and charts a course for the evolution of the Go standard library. 
+
+<https://go.dev/blog/randv2>
 
 ---
 

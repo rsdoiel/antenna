@@ -1,11 +1,106 @@
 ---
 title: writing 2024.18
-updated: 2024-05-01 08:24:17
+updated: 2024-05-01 17:02:49
 ---
 
 # writing 2024.18
 
-(date: 2024-05-01 08:24:17)
+(date: 2024-05-01 17:02:49)
+
+---
+
+## Alexandra Pierce Reviews The Man Who Saw Seconds by Alexander Boldizar
+
+date: 2024-05-02, from: Locus Magazine
+
+<p><strong>The Man Who Saw Seconds, </strong>Alexander Boldizar (Clash 978-1-96098-807-2, $19.95, 325pp, tp) Cover by Joel Amat Güell. May 2024.</p>
+<p>A precog, an anarchist, and an assistant director of the NSA walk into a bar&#8230;.</p>
+<p>Preble Jefferson can see five seconds into the future. Fish is an anarchist, lawyer, and Jefferson’s friend. Thad Bigman is an assistant director at the NSA. The action in <strong>The Man Who Saw Seconds </strong>centres on  <a href="https://locusmag.com/2024/05/alexandra-pierce-reviews-the-man-who-saw-seconds-by-alexander-boldizar/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/alexandra-pierce-reviews-the-man-who-saw-seconds-by-alexander-boldizar/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-01, from: Neil Gaiman @ BlueSky)
+
+It's not up to me. It's up to viewing figures, completion rates, and algorithms. If you like it get people to watch it.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3krhnh5um322p>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-01, from: Neil Gaiman @ BlueSky)
+
+I would love to do this if I didn't dislike Mont Blancs so much. One day Pilot or Lamy or someone nice will come and call...
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3krhneifvdc2a>
+
+---
+
+## Paula Guran Reviews The Proper Thing and Other Stories by Seanan McGuire
+
+date: 2024-05-01, from: Locus Magazine
+
+<p><strong>The Proper Thing and Other Stories, </strong>Seanan McGuire (Subterranean ISBN 978-1-64524-192-8, 508pp. $50.00, hc) April 2024. Cover by Carla McNeil.</p>
+<p>Probably best-known for her Wayward Children series, Hugo, Nebula, and Locus Award-winner Seanan McGuire is also a prolific writer of short fiction. McGuire’s second collection (she has two others writing as Mira Grant) is both massive and enchanting. The two dozen stories tend toward darkness but, more often than not,  <a href="https://locusmag.com/2024/05/paula-guran-reviews-the-proper-thing-and-other-stories-by-seanan-mcguire/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/paula-guran-reviews-the-proper-thing-and-other-stories-by-seanan-mcguire/>
+
+---
+
+## Paul Auster (1947-2024)
+
+date: 2024-05-01, from: Locus Magazine
+
+<p>Author Paul Auster, 77, died April 30, 2024 of lung cancer at home in Brooklyn NY. Auster wrote more than 30 books, inluding literary novels and non-fiction, and occasionally incorporated surreal and genre elements in his fiction.</p>
+<p>Paul Benjamin Auster was born February 3, 1947 in Newark NJ. He attended Columbia University, graduating with bachelor&#8217;s and master&#8217;s degrees before moving to Paris in 1970, where he worked as a translator.  <a href="https://locusmag.com/2024/05/paul-auster-1947-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/paul-auster-1947-2024/>
+
+---
+
+## 🙃 Making unnecessary and possibly horrible changes
+
+date: 2024-05-01, from: Interesting, a blog on writing
+
+Can you say no when you see a problem with the notes? 
+
+<https://inneresting.substack.com/p/making-unnecessary-and-possibly-horrible>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-01, from: Neil Gaiman @ BlueSky)
+
+They can't hurt.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3krh4kgd4222b>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-01, from: Neil Gaiman @ BlueSky)
+
+It's up to people watching it and the Netflix Algorithms  -- how much they watch it, how many of them finish all 8 episodes within the time frame.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3krh2u7pc2224>
+
+---
+
+## A.C. Wise Reviews Short Fiction: khōréō
+
+date: 2024-05-01, from: Locus Magazine
+
+<p>khōréō 3.3</p>
+<p>khōréō 3.3 includes two short stories and a nov­elette in two parts. The one I found to be most effective of the three is “<strong>The Blue Glow</strong>” by <strong>Lisa Hosokawa</strong>, which follows a failed suicide pilot as he returns home in search of his family, and finds only destruction. His journey is plagued by ghosts, but he holds onto hope that his mother and baby  <a href="https://locusmag.com/2024/05/a-c-wise-reviews-short-fiction-khoreo/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/a-c-wise-reviews-short-fiction-khoreo/>
 
 ---
 
@@ -116,7 +211,8 @@ https://youtu.be/SZ46HfOaOzU?si=29vSZoS0BJtGHJ2K
 
 date: 2024-04-30, from: Locus Magazine
 
-<p>Kat Clay has won the 2024 Going Under Fan Fund (GUFF), intended to send one fan from Australasia to Glasgow 2024, the 82nd Worldcon. Ian Nichols was the other nominee. There were 81 votes counted. The fund is currently administered in Europe by Alison Scott and in Australasia by Simon Litten.</p>
+<p><strong></strong>Kat Clay has won the 2024 Going Under Fan Fund (GUFF), intended to send one fan from Australasia to Glasgow 2024, the 82nd Worldcon. Ian Nichols was the other nominee. There were 81 votes counted.</p>
+<p>The fund is currently administered in Europe by Alison Scott and in Australasia by Simon Litten.</p>
 <p>For more information, see the GUFF website.</p>
 <div class="mynomorebulletlist">
 
