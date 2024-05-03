@@ -414,3 +414,7 @@ https://xeiaso.net/blog.rss "~Ze Iaso's blog"
 # Operating Systems
 https://reactos.org/index.xml "~ReactOS News"
 https://www.redox-os.org/news/index.xml "~Redox OS News"
+
+# theology and comp sci
+
+https://www.coreystephan.com/feed/ "~Corey Stephan blog"
