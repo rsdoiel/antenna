@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.18
-updated: 2024-05-01 17:02:49
+updated: 2024-05-03 08:28:39
 ---
 
 # retro computing 2024.18
 
-(date: 2024-05-01 17:02:49)
+(date: 2024-05-03 08:28:39)
+
+---
+
+## Archive Edition 27:2 reviewed
+
+date: 2024-05-02, from: Icon Bar, RISC OS News
+
+Archive Magazine Volume 27 issue 2 was available at Wakefield and should be on its way or already arrived if you are a subscriber. 
+
+<http://www.iconbar.com/comments/rss/news2066.html>
 
 ---
 

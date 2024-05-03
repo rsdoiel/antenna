@@ -1,11 +1,383 @@
 ---
 title: socal north 2024.18
-updated: 2024-05-01 17:02:48
+updated: 2024-05-03 08:28:38
 ---
 
 # socal north 2024.18
 
-(date: 2024-05-01 17:02:48)
+(date: 2024-05-03 08:28:38)
+
+---
+
+## Daily Bruin Print Issue – May 3, 2024
+
+date: 2024-05-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>The Daily Bruin publishes print issues every Monday, Wednesday and Friday. With much of campus closed this Friday, please view the day&#8217;s print issue here.</em> 
+
+<https://dailybruin.com/2024/05/03/daily-bruin-print-issue-may-3/>
+
+---
+
+## Faculty express disappointment in administration after webinar
+
+date: 2024-05-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Some professors said the University has failed to provide the transparency the USC community deserves. </p>
+<p>The post <a href="https://dailytrojan.com/2024/05/03/210595/">Faculty express disappointment in administration after webinar</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/03/210595/>
+
+---
+
+## Gallery: Counter-protesters attack; police clear pro-Palestine encampment at UCLA
+
+date: 2024-05-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+After Chancellor Gene Block declared Tuesday that the Palestine solidarity encampment was “unlawful,” pro-Israel counter-protesters attempted to storm the encampment in a violent attack that same night. 
+
+<https://dailybruin.com/2024/05/03/gallery-counter-protesters-attack-police-clear-pro-palestine-encampment-at-ucla/>
+
+---
+
+## In Photos: A nation shaken by camps for Gaza
+
+date: 2024-05-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Encampments and protests in solidarity with Palestine swept through college campuses in recent weeks. The Daily Trojan, the Daily Bruin, the Emory Wheel, The Daily Californian, Washington Square News, the Berkeley Beacon and the Daily Texan came together and compiled a photo essay depicting the student movements unfolding across the nation. 
+
+<https://dailytrojan.com/2024/05/02/in-photos-a-nation-shaken-by-camps-for-gaza/>
+
+---
+
+## UCLA women’s tennis adjusts mindset to prepare for start of NCAA tournament
+
+date: 2024-05-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two key ingredients will take center stage Friday &#8211; location and attitude.
+The Bruins have the location advantage, hosting up to three rounds of the national tournament starting this week. 
+
+<https://dailybruin.com/2024/05/02/ucla-womens-tennis-adjusts-mindset-to-prepare-for-start-of-ncaa-tournament/>
+
+---
+
+## Faculty march in support of student protest rights
+
+date: 2024-05-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The United USC group marched from Bovard Auditorium to Trousdale gates and read a prepared statement.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/02/faculty-march-in-support-of-student-protest-rights/">Faculty march in support of student protest rights</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/02/faculty-march-in-support-of-student-protest-rights/>
+
+---
+
+## UCLA men’s volleyball advances to NCAA finals with five-set victory over UC Irvine
+
+date: 2024-05-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+LONG BEACH, CALIF. – Like the tide, volleyball is a game of highs and lows.&#160;
+One moment you’re riding the crest, and the next you’re beneath the waves, struggling to stay afloat.&#160;
+For the Bruins, it took every ounce of energy to ascend for air. 
+
+<https://dailybruin.com/2024/05/02/ucla-mens-volleyball-advances-to-ncaa-finals-with-five-set-victory-over-uc-irvine/>
+
+---
+
+## Occidental administration agrees to bring divestment proposal to Board of Trustees in June
+
+date: 2024-05-03, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>According to a memo obtained by The Occidental titled &#8220;Investment Committee Response to SJP Proposal,&#8221; Ronald Hahn, Chair of Occidental&#8217;s Board of Trustees&#8217; Investment Committee, has agreed to bring Oxy Students Justice for Palestine (Oxy SJP) and Oxy Jewish Voice for Peace&#8217;s (Oxy JVP) divestment proposal to the Board of Trustees next meeting, in June.* [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/05/02/occidental-administration-agrees-to-bring-divestment-proposal-to-board-of-trustees-in-june/2912460">Occidental administration agrees to bring divestment proposal to Board of Trustees in June</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/05/02/occidental-administration-agrees-to-bring-divestment-proposal-to-board-of-trustees-in-june/2912460>
+
+---
+
+## Four Occidental students arrested at UCLA pro-Palestinian encampment
+
+date: 2024-05-03, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Four Occidental students were arrested at UCLA early May 2 when the Los Angeles Police Departmet cleared a pro-Palestinian encampment, according to Occidental Students for Justice in Palestine (Oxy SJP) spokesperson Matthew Vickers (junior). Vickers, who was not present at the UCLA protest May 1 or May 2, said via text that the four students [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/05/02/four-occidental-students-arrested-at-ucla-pro-palestinian-encampment/2912447">Four Occidental students arrested at UCLA pro-Palestinian encampment</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/05/02/four-occidental-students-arrested-at-ucla-pro-palestinian-encampment/2912447>
+
+---
+
+## SYNC seeks to harmonize creative efforts of UCLA singer-songwriters, filmmakers
+
+date: 2024-05-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+These women are reinventing sync placements.
+First-year sociology student Rachel Jos, first-year business economics student Kate Iwamoto and first-year sociology student Candace Tsay launched the student organization SYNC in winter quarter. 
+
+<https://dailybruin.com/2024/05/02/sync-seeks-to-harmonize-creative-efforts-of-ucla-singer-songwriters-filmmakers/>
+
+---
+
+## CSUN library hosts Maria Varela photo exhibit
+
+date: 2024-05-02, from: The Sundail (CSUN Student Newspaper)
+
+Dozens of CSUN faculty, students and others attended the “Time To Get Ready: Fotografía Social with Maria Varela” on March 26 at the University Library. The event was an opportunity... 
+
+<https://sundial.csun.edu/181357/news/csun-library-hosts-maria-varela-photo-exhibit/>
+
+---
+
+## Film review: Unexpected romance wins hearts in ‘The Idea of You’
+
+date: 2024-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Despite its cheesy dubiousness, &#8220;The Idea of You&#8221; formulates a satisfying romance.
+The film adaptation of Robinne Lee&#8217;s contemporary romance novel of the same name swooned fan fiction enthusiasts this Thursday with a story of inevitable love between a 40-year-old divorced mother (Anne Hathaway) and a 24-year-old boy band superstar (Nicholas Galitzine). 
+
+<https://dailybruin.com/2024/05/02/film-review-unexpected-romance-wins-hearts-in-the-idea-of-you/>
+
+---
+
+## Chancellor Block claims unsafe university conditions led to encampment closure
+
+date: 2024-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 3 at 12:53 a.m.</em>
+Chancellor Gene Block released a statement Thursday afternoon claiming that the Palestine solidarity encampment had been shut down because it led to unsafe university conditions and interfered with UCLA&#8217;s educational mission. 
+
+<https://dailybruin.com/2024/05/02/chancellor-block-claims-unsafe-university-conditions-led-to-encampment-closure/>
+
+---
+
+## Councilmember Imelda Padilla holds Armenian rally in Sun Valley
+
+date: 2024-05-02, from: The Sundail (CSUN Student Newspaper)
+
+A day of remembrance of the Armenian Genocide took place at Sun Valley Recreation Center on Saturday, April 27. Lake Balboa Field Deputy Rosie Avetisyan, who works for CSUN alumnus... 
+
+<https://sundial.csun.edu/181370/news/councilmember-imelda-padilla-holds-armenian-rally-in-sun-valley/>
+
+---
+
+## Storm at Valley State protestor pardoned by Governor Newsom
+
+date: 2024-05-02, from: The Sundail (CSUN Student Newspaper)
+
+California Governor Gavin Newsom granted a posthumous pardon to William Burwell, a former San Fernando Valley State College (SFVSC) student, now known as California State University, Northridge, and founding member... 
+
+<https://sundial.csun.edu/181366/news/storm-at-valley-state-protestor-pardoned-by-governor-newsom/>
+
+---
+
+## UCLA baseball to play Cal State Fullerton in multi-site, three-part series
+
+date: 2024-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins are heading south to kick off their weekend series after fracturing a nine-game losing streak. 
+UCLA baseball (14-28, 6-18 Pac-12) will face off against Cal State Fullerton (13-28, 5-16 Big West) in a three-game series. 
+
+<https://dailybruin.com/2024/05/02/ucla-baseball-to-play-cal-state-fullerton-in-multi-site-three-part-series/>
+
+---
+
+## UCLA men’s volleyball heads to semifinals, sets sights on NCAA trophy
+
+date: 2024-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+A dropped match at Pauley Pavilion to miss the title game two years ago.
+
+National champions in 2023.
+Now, the Bruins are on track to go back-to-back for trophy No. 
+
+<https://dailybruin.com/2024/05/02/ucla-mens-volleyball-heads-to-semifinals-sets-sights-on-ncaa-trophy/>
+
+---
+
+## UCLA beach volleyball kicks off NCAA championship against Texas A&M-Corpus Christi
+
+date: 2024-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Trophy No. 122 is hanging in UCLA&#8217;s balance.
+The Bruins will garner their veteran experience to bring it home.
+No. 2 seed UCLA beach volleyball (32-6, 2-0 Pac-12) will face No. 
+
+<https://dailybruin.com/2024/05/02/ucla-beach-volleyball-kicks-off-ncaa-championship-against-texas-am-corpus-christi/>
+
+---
+
+## Op-ed: Faculty stands with pro-Palestine protesters, demands full amnesty for all arrested
+
+date: 2024-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+This post was updated May 2 at 9:06 p.m.
+As Faculty for Justice in Palestine at UCLA, we call upon the governor of California, the mayor of Los Angeles, the University of California system and all other complicit authorities to grant full legal, academic and disciplinary amnesty for all protesters. 
+
+<https://dailybruin.com/2024/05/02/op-ed-faculty-stands-with-pro-palestine-protesters-demands-full-amnesty-for-all-arrested/>
+
+---
+
+## Code Red: Episode 2
+
+date: 2024-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+This three-part series explores the causes and consequences of extremism in the online world. In this episode, Podcasts contributors Izzy Greig and Ciara Terry discuss how technology can foster extremism. 
+
+<https://dailybruin.com/2024/05/02/code-red-episode-2/>
+
+---
+
+## From Fear Of Pirates To Dreams Of Leisure — How LA's Beaches Evolved
+
+date: 2024-05-02, updated: 2024-05-02, from: The LAist
+
+We talk to historian Elsa Devienne about how beaches developed and her new book Sand Rush: The Revival of the Beach in Twentieth-Century Los Angeles. 
+
+<https://laist.com/news/la-history/los-angeles-beach-elsa-devienne-history-sand-rush>
+
+---
+
+## April 29 Palestine Rally
+
+date: 2024-05-02, from: California Tech (Caltech Student Newspaper)
+
+On Monday, April 29th, a group of demonstrators led by Caltech Students for Justice in Palestine (SJP) in conjunction with Pasadena for Palestine and other faith-based groups from local churches. 
+
+<https://tech.caltech.edu/2024/04/26/palestine-rally/>
+
+---
+
+## Donations matched this month!
+
+date: 2024-05-02, from: Theodore Paine Foundation
+
+The first Farewell-to-Spring (Clarkia) blooms of the season are upon us, signaling that spring is in full effect in Southern California! As you admire the blooms this month, consider making a tax-deductible donation to support Theodore Payne Foundation (TPF). Just like our beloved native plants, TPF’s revenues go through a seasonal cycle, with a busy [&#8230;] 
+
+<https://theodorepayne.org/donations-matched-this-month/>
+
+---
+
+## California Native Plant Society Applauds President Biden’s National Monument Expansions
+
+date: 2024-05-02, from: California Native Plants Society
+
+<p>The President's actions create permanent protection for more than 122,000 acres, including Molok Luyuk. </p>
+<p>The post <a href="https://www.cnps.org/news-releases/biden-national-monument-expansion-molok-luyuk-san-gabriel-38368">California Native Plant Society Applauds President Biden’s National Monument Expansions</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/news-releases/biden-national-monument-expansion-molok-luyuk-san-gabriel-38368>
+
+---
+
+## Police continue to clear Dickson Plaza encampment, protesters face mass arrests
+
+date: 2024-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 3 at 12:42 a.m.</em>
+For the Daily Bruin’s full coverage of the UC Divest Coalition and Students for Justice in Palestine encampment at UCLA, see here. 
+
+<https://dailybruin.com/2024/05/02/police-continue-to-clear-dickson-plaza-encampment-protesters-face-mass-arrests/>
+
+---
+
+## CSUN Theater brought attendees to Bikini Bottom
+
+date: 2024-05-02, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN theatre department took attendees to Bikini Bottom for their interpretation of “The Spongebob Musical” on Monday, April 15 at the Campus Theatre located in Nordhoff Hall. The immersive... 
+
+<https://sundial.csun.edu/181305/arts-entertainment/csun-theater-brought-attendees-to-bikini-bottom/>
+
+---
+
+## The Getty Center welcomes students to its annual College Night event
+
+date: 2024-05-02, from: The Sundail (CSUN Student Newspaper)
+
+The Getty Center held its annual College Night event on Monday, Apr. 15 from 6 p.m. to 9 p.m. Open to all college students across Southern California, the event included... 
+
+<https://sundial.csun.edu/181298/arts-entertainment/the-getty-center-welcomes-students-to-its-annual-college-night-event/>
+
+---
+
+## Hundreds of protesters detained after police breach pro-Palestine encampment at UCLA
+
+date: 2024-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 3 at 12:30 a.m.</em>
+For the Daily Bruin’s full coverage of the UC Divest Coalition and Students for Justice in Palestine encampment, see here. 
+
+<https://dailybruin.com/2024/05/02/lapd-breaches-palestine-solidarity-encampment-at-ucla-in-dispersal-attempt/>
+
+---
+
+## Ode to Ojai: UCLA men’s, women’s tennis play final Pac-12 championships
+
+date: 2024-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+A haven resides comfortably within an incision in time. Turned relic by legend, it’s laden with memories and weathered by years past.
+Spanish colonial arches indicate the entrance, decorated by green banners and insignia dating back over 100 years. 
+
+<https://dailybruin.com/2024/05/01/ode-to-ojai-ucla-mens-womens-tennis-play-final-pac-12-championships/>
+
+---
+
+## Palestine solidarity encampment at UCLA braces for police sweep
+
+date: 2024-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 3 at 1:03 a.m.</em>
+For the Daily Bruin’s full coverage of the UC Divest Coalition and Students for Justice in Palestine encampment, see&#160;here. 
+
+<https://dailybruin.com/2024/05/01/palestine-solidarity-encampment-at-ucla-braces-for-police-sweep/>
+
+---
+
+## A Timeline of the Encampment Attack
+
+date: 2024-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+A Timeline of the Encampment Attack: April 30 &#8211; May 1 
+
+<https://dailybruin.com/2024/05/01/a-timeline-of-the-encampment-attack/>
+
+---
+
+## Students express support for UCLA’s shift to remote classes after campus violence
+
+date: 2024-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 3 at 1:10 a.m.</em>
+For the Daily Bruin’s full coverage of the UC Divest Coalition and Students for Justice in Palestine encampment, see&#160;here. 
+
+<https://dailybruin.com/2024/05/01/students-express-support-for-uclas-shift-to-remote-classes-after-campus-violence/>
+
+---
+
+## Behind the scenes with Advanced Games Project directors
+
+date: 2024-05-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>What's it like being in the USC Games program? What goes into making a video game? Advanced Games Project directors Luke Todaro and Edward Cheng answer these and more on this episode of Rhythm and News, as they sit down with host Abi Mann to talk about the video games they have been creating for the past year.</p>
+<p>This episode was hosted by Abi Mann; written by Aubrie Cole; edited by Amrita Sundaresan; and produced by Auburn D’Artell and Jonathan Park. “Rhythm and News” is one of four shows on the Daily Trojan podcast network. You can find more episodes anywhere you listen to podcasts, as well as our website, dailytrojan.com</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/01/behind-the-scenes-with-advanced-games-project-directors/">Behind the scenes with Advanced Games Project directors</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/01/behind-the-scenes-with-advanced-games-project-directors/>
+
+---
+
+## Local and state officials condemn late response from law enforcement at encampment
+
+date: 2024-05-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+For the Daily Bruin’s full coverage of the UC Divest Coalition and Students for Justice in Palestine encampment, see here.
+Local and state officials condemned UCLA and law enforcement agencies’ lack of a timely response to a counter-protester attack on the Palestine solidarity encampment Tuesday night. 
+
+<https://dailybruin.com/2024/05/01/local-and-state-officials-condemn-late-response-from-law-enforcement-at-encampment/>
 
 ---
 
@@ -41,7 +413,7 @@ Students for Justice in Palestine and other CSUN organizations are working toget
 
 ## US Education Department Now Promising Three-Day Turnaround On Lingering FAFSA Applications
 
-date: 2024-05-01, updated: 2024-05-01, from: The LAist
+date: 2024-05-01, updated: 2024-05-03, from: The LAist
 
 Education Department says issues are fixed, begs remaining students to submit. 
 
@@ -114,6 +486,18 @@ date: 2024-05-01, from: The Sundail (CSUN Student Newspaper)
 After about two weeks, the spring 2024 University Student Union (USU) Board of Directors election has been decided for the 2024-2025 academic year. Four CSUN students have been elected to... 
 
 <https://sundial.csun.edu/181279/news/spring-2024-usu-and-associated-students-election-results/>
+
+---
+
+## Brahma Blotter: April 22-28, 2024
+
+date: 2024-05-01, from: The Round Up (Pierce College Student Newspaper)
+
+<p>No crimes were reported between April 22-28, 2024. The crime log is made publicly available at the Pierce College Sheriff’s Office. No se reportaron crímenes</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/01/brahma-blotter-april-22-28-2024/">Brahma Blotter: April 22-28, 2024</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/01/brahma-blotter-april-22-28-2024/?utm_source=rss&utm_medium=rss&utm_campaign=brahma-blotter-april-22-28-2024>
 
 ---
 

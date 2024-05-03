@@ -1,11 +1,514 @@
 ---
 title: columns 2024.18
-updated: 2024-05-01 17:02:48
+updated: 2024-05-03 08:28:38
 ---
 
 # columns 2024.18
 
-(date: 2024-05-01 17:02:48)
+(date: 2024-05-03 08:28:38)
+
+---
+
+##  The Art of Work in the Age of AI Production 
+
+date: 2024-05-03, updated: 2024-05-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/the-art-of-work-in-the-age-of-ai-production>
+
+---
+
+## P.S.A.
+
+date: 2024-05-03, from: Ayjay blog
+
+A number of people have asked me for my thoughts about the current university campus protests. I have very few. As the novelist John Barth said when asked why he hadn’t been involved in the anti-war protests of the Sixties, “the fact that the situation is desperate doesn’t make it any more interesting.” People who [&#8230;] 
+
+<https://blog.ayjay.org/p-s-a/>
+
+---
+
+##  Designing a 3D-Printed Rollercoaster Clock. &#8220;I used to play tons of Rollercoaster... 
+
+date: 2024-05-03, updated: 2024-05-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044526-designing-a-3d-printed-ro>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-03, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/03/shootThisDog.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">One more thing. Can we please have a nice slogan we can chant at rallies saying that we think that women owning their own bodies is at least as important as everyone being <a href="https://www.google.com/search?q=armed+to+the+teeth+origin">armed to the teeth</a> so they can shoot their dogs. I think the Repubs learned something after one of their own boasted that <a href="https://www.theguardian.com/us-news/article/2024/may/02/kristi-noem-response-dog-killing">she killed her own dog</a> with a gun. They learned that Republican voters think the right to bear arms does not make them hate dogs for crying out loud and to their surprise <i>they don't endorse shooting them.</i> Maybe shooting Jews, immigrants, people of color and libruls and libtards of all flavors would probably be okay but for crying out loud not dogs!! They're so freaking cute. 
+
+<http://scripting.com/2024/05/03.html#a131429>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-03, from: Dave Winer's Scripting News)
+
+BTW, there are plenty of relatively low priced <a href="https://www.stubhub.com/indiana-pacers-indianapolis-tickets-5-10-2024/event/152902691/?quantity=2">tickets available</a> at the Pacers arena for the May 10 game when the playoff heads to Indiana. This is one of the Knicks fans' favorite tactics. Since there are so many New Yorkers, spread out all over the country, and we're pretty much all Knicks fans, this can create a demoralizing effect for the opposition players who assume their hometown crowd will be rooting for them, not the other team. It had a pretty adverse effect on the Sixers a few days ago. I was chatting about this with fellow Knicks fan <a href="https://www.google.com/search?q=NakedJen">NakedJen</a> during last night's harrowing game, and said this might be a good tactic somehow in the election, if every time the opposition had a rally they discovered that most of the attendees were actually in favor of democracy and abortion rights. 
+
+<http://scripting.com/2024/05/03.html#a130252>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-03, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/07/02/knicks.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Since I write so <a href="https://www.google.com/search?q=site%3Ascripting.com+knicks">much</a> about the Knicks here, I need to tell you that <a href="https://www.nba.com/news/knicks-sixers-takeaways-game-6-2024-nba-playoffs">the Knicks won</a> their first round playoff series against the <a href="https://en.wikipedia.org/wiki/Philadelphia_76ers">Philadelphia team</a> last night. Almost all playoff series that aren't sweeps are intense, but this one was especially so. So we're on to the <a href="https://fox59.com/sports/pacers/schedule-released-for-pacers-knicks-playoff-series/">next round</a>, starting Monday, back in NYC, against the Indiana Pacers, an excellent team this year. And Doc Searls, who is also a Knicks fan, now lives in Indiana, so he is somewhat justified in believing the world revolves around him. I've always had that intuition. 
+
+<http://scripting.com/2024/05/03.html#a125217>
+
+---
+
+## Rare Interviews with Enigma Cryptanalyst Marian Rejewski
+
+date: 2024-05-03, updated: 2024-05-02, from: Bruce Schneier blog
+
+<p>The Polish Embassy has <a href="https://www.flyingpenguin.com/?p=56989">posted</a> a series of short interview segments with Marian Rejewski, the first person to crack the Enigma.</p>
+<p>Details from his <a href="https://www.flyingpenguin.com/?p=49767">biography</a>.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/05/rare-interviews-with-enigma-cryptanalyst-marian-rejewski.html>
+
+---
+
+## refuge
+
+date: 2024-05-03, from: Ayjay blog
+
+Bryan Garsten:  Liberal societies, I want to suggest, are those that offer refuge from the very people they empower. The reach of this formulation will become evident when we allow ourselves to use “refuge” in both a literal and a metaphorical sense, so that institutions and practices can offer refuge from a powerful person as [&#8230;] 
+
+<https://blog.ayjay.org/refuge/>
+
+---
+
+## My T-group in Big Sur, 1969
+
+date: 2024-05-03, from: Robert Reich's blog
+
+Friends, From time to time, I share with you some of my personal history so that you understand where my values come from. The late 1960s was a time of experimentation &#8212; &#8220;sex, drugs, and rock-and-roll&#8221; and a lot more. The giant baby-boom generation was heading out into the world that seemed to many of us to be nuts. Some of us joined cults. Others, urban communes. Others, utopian communities in the countryside. 
+
+<https://robertreich.substack.com/p/my-t-group-in-big-sur-1969>
+
+---
+
+## What’s really motivating the protests?
+
+date: 2024-05-03, from: Robert Reich's blog
+
+Friends, I&#8217;ve been spending the last several weeks trying to find out what&#8217;s really going on with the campus protests. I&#8217;ve met with students at Berkeley, visited with faculty at Columbia University, and talked with young people and faculty at many other universities. 
+
+<https://robertreich.substack.com/p/whats-really-motivating-the-protests>
+
+---
+
+## Annotating Tim Cook’s Remarks on the Q2 Analyst Call
+
+date: 2024-05-03, updated: 2024-05-03, from: Daring Fireball
+
+ 
+
+<https://sixcolors.com/post/2024/05/this-is-tim-transcript-of-apples-q2-2024-analyst-call/>
+
+---
+
+## Hobbies are productive
+
+date: 2024-05-03, from: Tracy Durnell Blog
+
+I&#8217;m not a birder*, but I endorse this perspective that doing things that enliven you is important, even if no one else sees them as productive. *(I get excited about plants the way birders do about birds 🌱 Actually, I realized that I have even made some trips explicitly to see a particular plant 😂🤔 [&#8230;] 
+
+<https://tracydurnell.com/2024/05/02/hobbies-are-productive/>
+
+---
+
+## Friday 3 May, 2024
+
+date: 2024-05-02, from: John Naughton's online diary
+
+Maybe there will be a Summer after all In a college garden the other day. Quote of the Day “Every society honors its live conformists and its dead troublemakers.” Marshall McLuhan Musical alternative to the morning’s radio news Franz Schubert &#8230; <a href="https://memex.naughtons.org/friday-3-may-2024/39405/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-3-may-2024/39405/>
+
+---
+
+## Apple’s Regional Segments for Financial Reporting
+
+date: 2024-05-02, updated: 2024-05-02, from: Daring Fireball
+
+ 
+
+<https://investor.apple.com/investor-relations/default.aspx>
+
+---
+
+## Describe scents by mood
+
+date: 2024-05-02, from: Tracy Durnell Blog
+
+My approach to scent descriptions is to choose honesty over accuracy. &#8212; Tracy Wan &#160; See also: 5-4-3-2-1 Sensory Details to Enrich Settings Read The Museum of Scent Obsession with scent 
+
+<https://tracydurnell.com/2024/05/02/describe-scents-by-mood/>
+
+---
+
+## Apple Q2 2024 Results
+
+date: 2024-05-02, updated: 2024-05-02, from: Daring Fireball
+
+ 
+
+<https://www.apple.com/newsroom/2024/05/apple-reports-second-quarter-results/>
+
+---
+
+## Why Did Trump Do the Time Interview?
+
+date: 2024-05-02, from: Dan Rather's Steady
+
+Maybe he wanted the cover for his wall 
+
+<https://steady.substack.com/p/why-did-trump-do-the-time-interview>
+
+---
+
+## "AI now beats humans at basic tasks": Really? 
+
+date: 2024-05-02, from: Melanie Mitchell, AI Guide for Human Thinking
+
+Two weeks ago, Nature, one of the world&#8217;s most prestigious journals, had this jarring headline: The article explained this further: &#8220;Artificial intelligence (AI) systems, such as the chatbot ChatGPT, have become so advanced that they now very nearly match or exceed human performance in tasks including reading comprehension, image classification and competition-level mathematics, according to a new report&#8221;. 
+
+<https://aiguide.substack.com/p/ai-now-beats-humans-at-basic-tasks>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-02, from: Dave Winer's Scripting News)
+
+I asked <a href="https://imgs.scripting.com/2024/05/02/northqueensresidential.png?nodialog">ChatGPT</a> and <a href="https://imgs.scripting.com/2024/05/02/queensstreetmetaai.png?nodialog">Meta.ai</a> to draw a typical residential street in north Queens. 
+
+<http://scripting.com/2024/05/02.html#a213912>
+
+---
+
+##  Ancient-ish Woolen Dutch Hats 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/ancient-ish-woolen-dutch-hats>
+
+---
+
+##  Sorry to link to a paywall, but if you like my comics,... 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044538-if-you-like-my-comics>
+
+---
+
+##  Copy the Shrug Emoji. A website for copying the shrug emoji. Too... 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044541-copy-the-shrug-emoji-a>
+
+---
+
+## If not now, when?
+
+date: 2024-05-02, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/05/02/ifnotnowwhen.png"></center>It's time to do whatever you were sent here to do.</div></p>
+ 
+
+<http://scripting.com/2024/05/02/193826.html?title=ifNotNowWhen>
+
+---
+
+##  Reading About Listening to J.S. Bach 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/reading-about-listening-to-js-bach>
+
+---
+
+##  Can&#8217;t resist an I Called Off My Wedding essay! (&#8220;On another plane... 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044540-cant-resist-an-i-called>
+
+---
+
+##  Diary Comics, Dec. 19 & 20 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/diary-comics-dec-19-20>
+
+---
+
+##  The Native Youth Olympics 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/the-native-youth-olympics>
+
+---
+
+##  An FAQ About Your New Birth Control: The Music of Rush. &#8220;Imagine... 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044534-an-faq-about-your-new>
+
+---
+
+## Alicante, Spain
+
+date: 2024-05-02, from: mrusme blog
+
+"Alicante is a city and municipality in the Valencian Community, Spain. It is
+the capital of the province of Alicante and a historic Mediterranean port. The
+population of the city was 337,482 as of 2020, the second-largest in the
+Valencian Community." 
+
+<https://xn--gckvb8fzb.com/travel/spain/alicante/>
+
+---
+
+## attention please
+
+date: 2024-05-02, from: Ayjay blog
+
+Nathan Heller: “Attention as a category isn’t that salient for younger folks,” Jac Mullen, a writer and a high-school teacher in New Haven, told me recently. “It takes a lot to show that how you pay attention affects the outcome — that if you focus your attention on one thing, rather than dispersing it across [&#8230;] 
+
+<https://blog.ayjay.org/attention-please/>
+
+---
+
+## First browser-based blogging tool
+
+date: 2024-05-02, from: Dave Winer's Scripting News
+
+<p><a href="http://scripting.com/davenet/1999/02/22/whatAMonth.html">In February 1999</a>, playing with blog writing in the browser. This was a new idea at that point. Full-size <a href="http://scripting.com/gifs/controlpanel4.gif">screen shot</a>. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/05/02/myControlPanel.png"></center><a href="http://scripting.com/gifs/controlpanel4.gif">Screen shot</a> of browser-based blogging tool, c 1999.</div></p>
+ 
+
+<http://scripting.com/2024/05/02/152921.html?title=firstBrowserbasedBloggingTool>
+
+---
+
+##  Video of a tornado in Nebraska going right over a train, filmed... 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044535-video-of-a-tornado-in>
+
+---
+
+## Two podcast episodes
+
+date: 2024-05-02, from: Dave Winer's Scripting News
+
+<p>If you want a new perspective on the election, two recommendations.</p>
+<ul>
+<li>Greg Sargent interviewed political consultant <a href="https://podcasts.apple.com/us/podcast/dont-be-fooled-heres-how-we-know-rfk-jr-is-tacitly/id1728152109?i=1000653431136">Joe Trippi</a>, who explains why third parties could make all the difference in the election. </li>
+<li>Chris Lydon interviewed <a href="https://radioopensource.org/american-disorder/">Richard Slotkin</a> about the four major stories of American politics. </li>
+</ul>
+<p>Both very illuminating and immediately influenced my thinking.</p>
+ 
+
+<http://scripting.com/2024/05/02/151338.html?title=twoPodcastEpisodes>
+
+---
+
+##  Rock stars that sound like&#8230; (Kurt Cobain as a coffee grinder, Ozzy... 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044509-rock-stars-that-sound-lik>
+
+---
+
+## What became of 1999.io
+
+date: 2024-05-02, from: Dave Winer's Scripting News
+
+<p>TL;DR: It's gone -- you can't get <a href="http://1999.io/">there</a>. Because it uses Twitter for identity. It and bingeworthy.io are the two apps I miss the most. </p>
+<p><a href="https://www.google.com/search?q=site%3Ascripting.com+1999.io">1999 was a rewrite</a> of blogging software from the point of view of both 1999 and 2016. Both timeframes. I had learned a lot inbetween, and the art of online interaction had moved forward a lot. I had become a user of Facebook, and was impressed with how their software worked. I was imploring them to turn it into a blogging system, it was achingly close. When I realized they weren't going to do it, I set out to do it myself, how I imagined Facebook would do a blogging system. Of course I didn't have their source code, so I built it from scratch. </p>
+<p>Because 1999 used Twitter for identity, I couldn't use it. I also couldn't use Radio, because it ran on Windows and a now-obsolete version of the Mac OS. It's made me think that maybe in a few years or even months you might not be able to use <a href="https://feedland.com/">FeedLand</a> or <a href="http://drummer.land/">Drummer</a>. Then I thought about how I can better future-safe them for users. And that led me to adding a simple feature to FeedLand that will help if a FeedLand server you depend on should go off the air. See the next post, below.</p>
+ 
+
+<http://scripting.com/2024/05/02/140941.html?title=whatBecameOf1999io>
+
+---
+
+## Dear Fiona…
+
+date: 2024-05-02, from: Matt Haughey blog
+
+<p>The thing I remember most about your first few days on this planet was the anxiety. </p><p>The actual birth was an ordeal in and of itself, but barely 24 hours later nurses were shoving us out of the hospital, giving two young adults with the least amount of experience around</p> 
+
+<https://a.wholelottanothing.org/may-2nd/>
+
+---
+
+##  This Sliding Door Sounds Like a Screaming R2-D2 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/this-sliding-door-sounds-like-a-screaming-r2-d2-1>
+
+---
+
+## Protecting your FeedLand subscription lists
+
+date: 2024-05-02, from: Dave Winer's Scripting News
+
+<p>First and foremost, you should keep a current backup copy of your subscription list. It's very easy to do. </p>
+<ul>
+<li>In <a href="https://feedland.com/">FeedLand</a>, choose <i>My feed list</i> in the first menu.</li>
+<li>Click on the white-on-orange XML icon, in the upper right corner of the page.</li>
+<li>That will open a standard OPML version of your subscription list. This is the format that all feed reading software understands. </li>
+<li>In your browser, choose the <i>Save Page As</i> command in the File menu (or something like that, there are lots of browsers) and save it along with your other backups.</li>
+<li>You can also automate it if you can run a script that gets stuff over the internet. Once a night would be fine, not a huge burden on the server. </li>
+</ul>
+<p>I added another way to preserve your feed list, using localStorage.</p>
+<ul>
+<li>Every time you sign in FeedLand now saves a copy of your subscription list in localStorage. </li>
+<li>And if the FeedLand server you're using should happen to disappear, if you have not taken a backup in a while, if you have a tab open, you'll at least have a copy in localStorage. </li>
+<li>If you want to see it -- visit feedland.org or feedland.com, wherever you have an account, and do a hard reload. Then open the JavaScript console, and enter this line:</li>
+<ul>
+<li><code>console.log (localStorage.savedUserSubs)</code></li>
+</ul>
+<li>If you have questions, here's a <a href="https://github.com/scripting/feedlandSupport/issues/240">thread</a>.</li>
+</ul>
+ 
+
+<http://scripting.com/2024/05/02/135643.html?title=protectingYourFeedlandSubscriptionLists>
+
+---
+
+## On mistaking a transient state for a permanent one
+
+date: 2024-05-02, updated: 2024-05-03, from: Charlie's Diary
+
+It's quite apparent that right now we're seeing the build-out of a whole new communications technology that hasn't quite hit the public eye yet&mdash;ubiquitous satellite broadband and telephony. This is still in the very early stages. Right now my iPhone... 
+
+<http://www.antipope.org/charlie/blog-static/2024/05/on-mistaking-a-transient-state.html>
+
+---
+
+## The UK Bans Default Passwords
+
+date: 2024-05-02, updated: 2024-05-02, from: Bruce Schneier blog
+
+<p>The UK is the first country to <a href="https://therecord.media/united-kingdom-bans-defalt-passwords-iot-devices">ban default passwords</a> on IoT devices.</p>
+<blockquote><p>On Monday, the United Kingdom became the first country in the world to ban default guessable usernames and passwords from these IoT devices. Unique passwords installed by default are still permitted.</p>
+<p>The <a href="https://www.legislation.gov.uk/ukpga/2022/46/contents/enacted">Product Security and Telecommunications Infrastructure Act 2022</a> (PSTI) introduces new minimum-security standards for manufacturers, and demands that these companies are open with consumers about how long their products will receive security updates for.</p></blockquote>
+<p>The UK may be the first country, but as far as I know, California is the first jurisdiction. It ...</p> 
+
+<https://www.schneier.com/blog/archives/2024/05/the-uk-bans-default-passwords.html>
+
+---
+
+## brows illustrated
+
+date: 2024-05-02, from: Ayjay blog
+
+Russell Lynes’s 1949 essay for Harper’s, “Highbrow, Lowbrow, Middlebrow” — about which I’ll have more to say later — features this illustration by Saul Steinberg.  
+
+<https://blog.ayjay.org/brows-illustrated/>
+
+---
+
+## Lawless Trump demands law and order on campuses
+
+date: 2024-05-02, from: Robert Reich's blog
+
+Friends, Trump yesterday urged college presidents to be tougher on students protesting the war in Gaza, calling them &#8220;raging lunatics.&#8221; He continued: &#8220;To every college president, I say remove the encampments immediately. Vanquish the radicals and take back our campuses for all of the normal students.&#8221; 
+
+<https://robertreich.substack.com/p/conflict-discord-and-the-2024-election>
+
+---
+
+## 2024-04-22 Gopher, again
+
+date: 2024-05-02, from: Alex Schroeder's Blog
+
+<h1 id="2024-04-22-gopher-again">2024-04-22 Gopher, again</h1>
+
+<p>Having found a separate server, written in Go, monitored by systemd, to be the superior solution for double hosting my site for Gemini, I kept thinking about Gopher. With <a href="Odd%C2%B5">Oddµ</a> using a version of Markdown that is very close to the standard, and having found a library that I understand, more or less, which I had successfully grafted onto <a href="https://sr.ht/~gsthnz/satellite/">Satellite</a>, the Gemini server I’m using, based on renderer code I found in the <a href="https://github.com/tdemin/gmnhg">Hugo-to-Gemini converter</a> that used the same Markdown parsing library I was using for Oddµ, I figured that I might use the same library to turn Markdown into suitable Gopher pages.</p>
+
+<p>It took some wrangling and it’s probably not great, but the main menu matches my front page and the blog posts look mostly OK, and so the site is back as a gopher hole on port 70!</p>
+
+<p>See <a href="https://src.alexschroeder.ch/markdown-gopher.git">Markdown Gopher</a> for the Gopher server code.</p>
+
+<p>See my <a href="https://src.alexschroeder.ch/satellite.git">patched Satellite</a> for the Gemini server code, <a href="2023-11-03-other-ports">discussed back in 2023</a>.</p>
+
+<p>And naturally I’m immediately annoyed by the lack of UTF-8 support in this client I’m using.</p>
+
+<p><a class="tag" href="/search/?q=%23Gopher">#Gopher</a></p>
+
+<p><strong>2024-05-01</strong>. I think I finally managed to get decent word-wrapping!</p>
+
+<p><strong>2024-05-02</strong>. I think I&rsquo;m fine with the limitations I&rsquo;ve set myself for the Markdown Gopher server. It really leans into the plain text aesthetic.</p>
+
+<ol>
+<li>no links;</li>
+<li>no emphasis;</li>
+<li>no images;</li>
+<li>no searches.</li>
+</ol> 
+
+<https://alexschroeder.ch/view/2024-04-22-gopher>
+
+---
+
+## Spring at the Rhododendron Species Botanical Garden
+
+date: 2024-05-02, from: Tracy Durnell Blog
+
+We first visited the Rhododendron Species Botanical Garden in June 2021, mostly missing the rhodies &#8212; but today we caught them! Even a week earlier, there would have been more &#8212; but there were still plenty to see, and cool foliage too. There was a super high pollen count today so I masked up but [&#8230;] 
+
+<https://tracydurnell.com/2024/05/02/spring-at-the-rhododendron-species-botanical-garden/>
+
+---
+
+## The rotating bookshelf art show
+
+date: 2024-05-02, from: Tracy Durnell Blog
+
+A few weeks back, I did a print swap with Joe and now have finally gotten a frame for his cool riso print! I went with pink 😃 I&#8217;ve added it to my rotating bookcase gallery to start, and in a few months I&#8217;ll find it a more permanent home. It&#8217;s fun to showcase different [&#8230;] 
+
+<https://tracydurnell.com/2024/05/01/the-rotating-bookshelf-art-show/>
 
 ---
 
@@ -152,37 +655,13 @@ date: 2024-05-01, updated: 2024-05-01, from: Jason Kittke's blog
 
 ---
 
-##  Artist Alex Tomlinson wonders, “What if owls had flags?”... 
+##  “What if owls had flags?” wonders artist Alex Tomlinson.... 
 
 date: 2024-05-01, updated: 2024-05-01, from: Jason Kittke's blog
 
  
 
 <https://kottke.org/24/05/0044513-artist-alex-tomlinson-ask>
-
----
-
-## 2024-04-22 Gopher, again
-
-date: 2024-05-01, from: Alex Schroeder's Blog
-
-<h1 id="2024-04-22-gopher-again">2024-04-22 Gopher, again</h1>
-
-<p>Having found a separate server, written in Go, monitored by systemd, to be the superior solution for double hosting my site for Gemini, I kept thinking about Gopher. With <a href="Odd%C2%B5">Oddµ</a> using a version of Markdown that is very close to the standard, and having found a library that I understand, more or less, which I had successfully grafted onto <a href="https://sr.ht/~gsthnz/satellite/">Satellite</a>, the Gemini server I’m using, based on renderer code I found in the <a href="https://github.com/tdemin/gmnhg">Hugo-to-Gemini converter</a> that used the same Markdown parsing library I was using for Oddµ, I figured that I might use the same library to turn Markdown into suitable Gopher pages.</p>
-
-<p>It took some wrangling and it’s probably not great, but the main menu matches my front page and the blog posts look mostly OK, and so the site is back as a gopher hole on port 70!</p>
-
-<p>See <a href="https://src.alexschroeder.ch/markdown-gopher.git">Markdown Gopher</a> for the Gopher server code.</p>
-
-<p>See my <a href="https://src.alexschroeder.ch/satellite.git">patched Satellite</a> for the Gemini server code, <a href="2023-11-03-other-ports">discussed back in 2023</a>.</p>
-
-<p>And naturally I’m immediately annoyed by the lack of UTF-8 support in this client I’m using.</p>
-
-<p><a class="tag" href="/search/?q=%23Gopher">#Gopher</a></p>
-
-<p><strong>2024-05-01</strong>. I think I finally managed to get decent word-wrapping!</p> 
-
-<https://alexschroeder.ch/view/2024-04-22-gopher>
 
 ---
 

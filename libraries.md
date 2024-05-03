@@ -1,11 +1,77 @@
 ---
 title: libraries 2024.18
-updated: 2024-05-01 17:02:49
+updated: 2024-05-03 08:28:38
 ---
 
 # libraries 2024.18
 
-(date: 2024-05-01 17:02:49)
+(date: 2024-05-03 08:28:38)
+
+---
+
+## Music Paralysis as We Age
+
+date: 2024-05-03, from: Scholarly Kitchen
+
+<p>When do we stop making the effort to find new music?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/05/03/music-paralysis-as-we-age/">Music Paralysis as We Age</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/05/03/music-paralysis-as-we-age/>
+
+---
+
+## A feature selection method for multimodal multispectral LiDAR sensing
+
+date: 2024-05-03, from: ETH Zurich, recently added
+
+Han, Yu; Salido Monzú, David; Butt, Jemil Avers; Schweizer, Sebastian; Wieser, Andreas 
+
+<http://hdl.handle.net/20.500.11850/671418>
+
+---
+
+## Anne of the Island, by L. M. Montgomery
+
+date: 2024-05-02, from: Standard Ebooks, new releaases
+
+A young woman learns life lessons while away at college and during visits back home. 
+
+<https://standardebooks.org/ebooks/l-m-montgomery/anne-of-the-island>
+
+---
+
+## The Food of the Gods, by H. G. Wells
+
+date: 2024-05-02, from: Standard Ebooks, new releaases
+
+Two scientists discover a substance which promotes rapid and extreme growth in plants, animals, and humans, leading to unexpected and alarming consequences. 
+
+<https://standardebooks.org/ebooks/h-g-wells/the-food-of-the-gods>
+
+---
+
+## April 2024
+
+date: 2024-05-02, from: Association of Research Libraries News
+
+<p>Last Updated on May 2, 2024, 1:28 pm ET ARL Public Policy Briefing (April 2024) This issue includes: Accessibility ARL Influences US Department of Justice (DOJ) Disability Regulations Canadian Federal...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/april-2024/">April 2024</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/april-2024/>
+
+---
+
+## A Case Study: Investing in Open Scholarly Infrastructure in Ireland Will Save Time and Money. It’ll Also Be Good for Research.
+
+date: 2024-05-02, from: Scholarly Kitchen
+
+<p>National PID strategies are on the rise. In this post, Phill Jones reports the findings of cost-benefit analysis of investment in PIDs and research infrastructure in Ireland.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/05/02/a-case-study-investing-in-open-scholarly-infrastructure-in-ireland-will-save-time-and-money-itll-also-be-good-for-research/">A Case Study: Investing in Open Scholarly Infrastructure in Ireland Will Save Time and Money. It’ll Also Be Good for Research.</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/05/02/a-case-study-investing-in-open-scholarly-infrastructure-in-ireland-will-save-time-and-money-itll-also-be-good-for-research/>
 
 ---
 
@@ -47,7 +113,7 @@ date: 2024-04-30, from: Scholarly Kitchen
 
 date: 2024-04-29, from: Association of Research Libraries News
 
-<p>Last Updated on April 30, 2024, 4:00 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 30 &#124; Wednesday, May 1 &#124; Thursday,...</p>
+<p>Last Updated on May 3, 2024, 10:39 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 30 &#124; Wednesday, May 1 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-29-may-2/">Day in Review (April 29–May 2)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

@@ -1,11 +1,145 @@
 ---
 title: mid central 2024.18
-updated: 2024-05-01 17:02:48
+updated: 2024-05-03 08:28:38
 ---
 
 # mid central 2024.18
 
-(date: 2024-05-01 17:02:48)
+(date: 2024-05-03 08:28:38)
+
+---
+
+## 3 basic considerations for vibration control in chip manufacturing
+
+date: 2024-05-03, from: EDN Blog
+
+<img width="1170" height="658" src="https://www.edn.com/wp-content/uploads/Hero-image-Samsung-Fab.jpg?fit=1170%2C658" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Samsung-Fab.jpg?w=1170 1170w, https://www.edn.com/wp-content/uploads/Hero-image-Samsung-Fab.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Samsung-Fab.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Samsung-Fab.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-Samsung-Fab.jpg?w=800 800w" sizes="(max-width: 1170px) 100vw, 1170px" /><p>Vibrations sources from machines and wind can pose a significant challenge for semiconductor fab engineers.</p>
+<p>The post <a href="https://www.edn.com/3-basic-considerations-for-vibration-control-in-chip-manufacturing/" data-wpel-link="internal">3 basic considerations for vibration control in chip manufacturing</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/3-basic-considerations-for-vibration-control-in-chip-manufacturing/>
+
+---
+
+## Photo essay: Fresno State students participate in national surge of activism in solidarity with Palestine
+
+date: 2024-05-03, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Students for Palestinian Liberation at Fresno State (SPL) organized and executed a peaceful sit-in on May 1 in the Peace Garden on campus. Hundreds of Fresno State students and faculty members attended in solidarity with Palestine. The sit-in lasted a few hours and remained civil the entire time. Fresno State is one of the many... 
+
+<https://fscollegian.com/2024/05/photo-essay-fresno-state-students-participate-in-national-surge-of-activism-in-solidarity-with-palestine/>
+
+---
+
+## University Theatre presents ‘Spring Awakening,’ a seasonal comeback to musical theater
+
+date: 2024-05-03, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+After a year and a half, musical theater returns to the Fresno State theater. In a world struggling to define the line between consent, conversations about respect, autonomy and understanding sexuality are more critical than ever. “Spring Awakening,” a coming-of-age rock musical set in 1891, originally told by Duncan Sheik and Steven Sater, takes the... 
+
+<https://fscollegian.com/2024/05/university-theatre-presents-spring-awakening-a-seasonal-comeback-to-musical-theatre/>
+
+---
+
+## Keysight hones post-quantum algorithm testing
+
+date: 2024-05-02, from: EDN Blog
+
+<img width="800" height="460" src="https://www.edn.com/wp-content/uploads/Keysight-Inspector.jpg?fit=800%2C460" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Keysight-Inspector.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Keysight-Inspector.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Keysight-Inspector.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Keysight announced additional testing capabilities for its Inspector security platform to assess the robustness of post-quantum cryptography.</p>
+<p>The post <a href="https://www.edn.com/keysight-hones-post-quantum-algorithm-testing/" data-wpel-link="internal">Keysight hones post-quantum algorithm testing</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/keysight-hones-post-quantum-algorithm-testing/>
+
+---
+
+## High-side switch suits automotive loads
+
+date: 2024-05-02, from: EDN Blog
+
+<img width="700" height="466" src="https://www.edn.com/wp-content/uploads/HMI-HL8518.jpg?fit=700%2C466" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/HMI-HL8518.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/HMI-HL8518.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>HMI’s HL8518 is a single-channel high-side power switch for automotive low-watt lamps, high-side relays and valves, and other general loads.</p>
+<p>The post <a href="https://www.edn.com/high-side-switch-suits-automotive-loads/" data-wpel-link="internal">High-side switch suits automotive loads</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/high-side-switch-suits-automotive-loads/>
+
+---
+
+## 32-bit MCUs embed high level of security
+
+date: 2024-05-02, from: EDN Blog
+
+<img width="800" height="441" src="https://www.edn.com/wp-content/uploads/Microchip-PIC32CK.jpg?fit=800%2C441" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Microchip-PIC32CK.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Microchip-PIC32CK.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Microchip-PIC32CK.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Powered by an Arm Cortex-M33 core, Microchip’s 32-bit MCUs leverage both a hardware security module and Arm’s TrustZone security architecture.</p>
+<p>The post <a href="https://www.edn.com/32-bit-mcus-embed-high-level-of-security/" data-wpel-link="internal">32-bit MCUs embed high level of security</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/32-bit-mcus-embed-high-level-of-security/>
+
+---
+
+## USB signal conditioner is self-adapting
+
+date: 2024-05-02, from: EDN Blog
+
+<img width="700" height="481" src="https://www.edn.com/wp-content/uploads/Diodes-PI5USB212.jpg?fit=700%2C481" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Diodes-PI5USB212.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Diodes-PI5USB212.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Operating from a supply voltage down to 2.3 V, the signal conditioner IC from Diodes automatically detects a USB 2.0 high-speed connection.</p>
+<p>The post <a href="https://www.edn.com/usb-signal-conditioner-is-self-adapting/" data-wpel-link="internal">USB signal conditioner is self-adapting</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/usb-signal-conditioner-is-self-adapting/>
+
+---
+
+## Inline power sensor covers low frequencies
+
+date: 2024-05-02, from: EDN Blog
+
+<img width="700" height="496" src="https://www.edn.com/wp-content/uploads/Anritsu-MA24103A.jpg?fit=700%2C496" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Anritsu-MA24103A.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Anritsu-MA24103A.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>The MA24103A inline power sensor from Anritsu performs peak power measurements from 25 MHz to 1 GHz with a power range of 2 mW to 150 W.</p>
+<p>The post <a href="https://www.edn.com/inline-power-sensor-covers-low-frequencies/" data-wpel-link="internal">Inline power sensor covers low frequencies</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/inline-power-sensor-covers-low-frequencies/>
+
+---
+
+## ISM bands and frequencies: Comparisons and case studies
+
+date: 2024-05-02, from: EDN Blog
+
+<img width="892" height="882" src="https://www.edn.com/wp-content/uploads/featured-image-9.jpg?fit=892%2C882" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/featured-image-9.jpg?w=892 892w, https://www.edn.com/wp-content/uploads/featured-image-9.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/featured-image-9.jpg?w=768 768w" sizes="(max-width: 892px) 100vw, 892px" /><p>License-free spectrum is a Siren Song for systems developers of all types, shapes, and sizes; not just for Bluetooth and Wi-Fi.</p>
+<p>The post <a href="https://www.edn.com/ism-bands-and-frequencies-comparisons-and-case-studies/" data-wpel-link="internal">ISM bands and frequencies: Comparisons and case studies</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/ism-bands-and-frequencies-comparisons-and-case-studies/>
+
+---
+
+## Get ready to party with the BEST organization on campus
+
+date: 2024-05-02, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Black Excellence in Science and Technology (BEST), an organization at Fresno State, is calling out to the community to help fundraise, participate in various activities and stay for a concert by Fashawn. The BEST Concert of 2024 will take place on Saturday, May 4 from 11:30 a.m. to 8 p.m. at The Delta located on... 
+
+<https://fscollegian.com/2024/05/get-ready-to-party-with-the-best-organization-on-campus/>
+
+---
+
+## Fresno State students organize and execute peaceful protest for Palestine
+
+date: 2024-05-02, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+A sit-in protest took place on Fresno State’s campus today, organized by Students for Palestinian Liberation at Fresno State (SPL). SPL President Haneen, who did not disclose her last name to the media, led the demonstration in which students held signs in support for the Palestinian people, calling for ceasefire in Gaza and for a... 
+
+<https://fscollegian.com/2024/05/fresno-state-students-organize-and-execute-peaceful-protest-for-palestine/>
+
+---
+
+## Dissecting the bars behind Kendrick, Drake and Metro Boomin beef
+
+date: 2024-05-02, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Often regarded as one of the greatest rappers of all time, Kendrick Lamar took the hip-hop scene by storm when he was featured on the current #1 track on the Billboard music charts “Like That.” “Like That” is a song on record producer Metro Boomin and rapper Future’s collaborative studio album titled “We Don’t Trust... 
+
+<https://fscollegian.com/2024/05/how-will-drake-respond-to-kendricks-diss-euphoria/>
 
 ---
 
@@ -23,7 +157,7 @@ Collegiate protests and campus sit-ins are spreading like wildfire throughout th
 
 date: 2024-05-01, from: EDN Blog
 
-<img width="889" height="456" src="https://www.edn.com/wp-content/uploads/Figure-2_multi-rateI2C.jpg?fit=889%2C456" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-2_multi-rateI2C.jpg?w=889 889w, https://www.edn.com/wp-content/uploads/Figure-2_multi-rateI2C.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-2_multi-rateI2C.jpg?w=768 768w" sizes="(max-width: 889px) 100vw, 889px" /><p>An autonomous, non-linear pullup method that meets the timing requirements of multi-rate I2C buses in the presence of large bus capacitances.</p>
+<img width="889" height="456" src="https://www.edn.com/wp-content/uploads/Figure-2_multi-rateI2C.jpg?fit=889%2C456" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure-2_multi-rateI2C.jpg?w=889 889w, https://www.edn.com/wp-content/uploads/Figure-2_multi-rateI2C.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-2_multi-rateI2C.jpg?w=768 768w" sizes="(max-width: 889px) 100vw, 889px" /><p>An autonomous, non-linear pullup method that meets the timing requirements of multi-rate I2C buses in the presence of large bus capacitances.</p>
 <p>The post <a href="https://www.edn.com/non-linear-pullup-for-multi-rate-i2c-buses/" data-wpel-link="internal">Non-linear pullup for multi-rate I2C buses</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

@@ -1,11 +1,915 @@
 ---
 title: tech likely 2024.18
-updated: 2024-05-01 17:02:48
+updated: 2024-05-03 08:28:38
 ---
 
 # tech likely 2024.18
 
-(date: 2024-05-01 17:02:48)
+(date: 2024-05-03 08:28:38)
+
+---
+
+## Your Low Code Solution Needs an Escape Hatch
+
+date: 2024-05-03, updated: 2024-05-03, from: Deno blog
+
+A low-code solution is a simple way to offer some flexibility for your users. However, to accommodate further customization (especially for enterprise users), you should have an “escape hatch” — simple, code-level customization. Here are three product scenarios and where an escape hatch makes most sense. 
+
+<https://deno.com/blog/low-code-needs-an-escape-hatch>
+
+---
+
+##  The Art of Work in the Age of AI Production 
+
+date: 2024-05-03, updated: 2024-05-03, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/the-art-of-work-in-the-age-of-ai-production>
+
+---
+
+## P.S.A.
+
+date: 2024-05-03, from: Ayjay blog
+
+A number of people have asked me for my thoughts about the current university campus protests. I have very few. As the novelist John Barth said when asked why he hadn’t been involved in the anti-war protests of the Sixties, “the fact that the situation is desperate doesn’t make it any more interesting.” People who [&#8230;] 
+
+<https://blog.ayjay.org/p-s-a/>
+
+---
+
+##  Designing a 3D-Printed Rollercoaster Clock. &#8220;I used to play tons of Rollercoaster... 
+
+date: 2024-05-03, updated: 2024-05-03, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044526-designing-a-3d-printed-ro>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-03, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/03/shootThisDog.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">One more thing. Can we please have a nice slogan we can chant at rallies saying that we think that women owning their own bodies is at least as important as everyone being <a href="https://www.google.com/search?q=armed+to+the+teeth+origin">armed to the teeth</a> so they can shoot their dogs. I think the Repubs learned something after one of their own boasted that <a href="https://www.theguardian.com/us-news/article/2024/may/02/kristi-noem-response-dog-killing">she killed her own dog</a> with a gun. They learned that Republican voters think the right to bear arms does not make them hate dogs for crying out loud and to their surprise <i>they don't endorse shooting them.</i> Maybe shooting Jews, immigrants, people of color and libruls and libtards of all flavors would probably be okay but for crying out loud not dogs!! They're so freaking cute. 
+
+<http://scripting.com/2024/05/03.html#a131429>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-05-03, from: Miguel de Icaza Mastondon feed)
+
+<p>Good post by <span class="h-card" translate="no"><a href="https://mastodon.social/@heckj" class="u-url mention">@<span>heckj</span></a></span>  on what he learned and the tradeoffs he did when designing an API for strict swift concurrency support.</p><p>The best part are the regrets he has, good guidance for those of us starting on our strict journey:</p><p><a href="https://rhonabwy.com/2024/04/29/designing-a-swift-library-with-data-race-safety/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">rhonabwy.com/2024/04/29/design</span><span class="invisible">ing-a-swift-library-with-data-race-safety/</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112377304931427463>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-03, from: Dave Winer's Scripting News)
+
+BTW, there are plenty of relatively low priced <a href="https://www.stubhub.com/indiana-pacers-indianapolis-tickets-5-10-2024/event/152902691/?quantity=2">tickets available</a> at the Pacers arena for the May 10 game when the playoff heads to Indiana. This is one of the Knicks fans' favorite tactics. Since there are so many New Yorkers, spread out all over the country, and we're pretty much all Knicks fans, this can create a demoralizing effect for the opposition players who assume their hometown crowd will be rooting for them, not the other team. It had a pretty adverse effect on the Sixers a few days ago. I was chatting about this with fellow Knicks fan <a href="https://www.google.com/search?q=NakedJen">NakedJen</a> during last night's harrowing game, and said this might be a good tactic somehow in the election, if every time the opposition had a rally they discovered that most of the attendees were actually in favor of democracy and abortion rights. 
+
+<http://scripting.com/2024/05/03.html#a130252>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-03, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/07/02/knicks.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Since I write so <a href="https://www.google.com/search?q=site%3Ascripting.com+knicks">much</a> about the Knicks here, I need to tell you that <a href="https://www.nba.com/news/knicks-sixers-takeaways-game-6-2024-nba-playoffs">the Knicks won</a> their first round playoff series against the <a href="https://en.wikipedia.org/wiki/Philadelphia_76ers">Philadelphia team</a> last night. Almost all playoff series that aren't sweeps are intense, but this one was especially so. So we're on to the <a href="https://fox59.com/sports/pacers/schedule-released-for-pacers-knicks-playoff-series/">next round</a>, starting Monday, back in NYC, against the Indiana Pacers, an excellent team this year. And Doc Searls, who is also a Knicks fan, now lives in Indiana, so he is somewhat justified in believing the world revolves around him. I've always had that intuition. 
+
+<http://scripting.com/2024/05/03.html#a125217>
+
+---
+
+## Hubble Hunts Visible Light Sources of X-Rays
+
+date: 2024-05-03, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image features the dwarf galaxy IC 776. This swirling collection of new and old stars is located in the constellation Virgo, in the Virgo galaxy cluster, 100 million light-years from Earth. Although IC 776 is a dwarf galaxy, it’s also classified as a SAB-type or ‘weakly barred’ spiral. This highly […] 
+
+<https://science.nasa.gov/missions/hubble/hubble-hunts-visible-light-sources-of-x-rays/>
+
+---
+
+## refuge
+
+date: 2024-05-03, from: Ayjay blog
+
+Bryan Garsten:  Liberal societies, I want to suggest, are those that offer refuge from the very people they empower. The reach of this formulation will become evident when we allow ourselves to use “refuge” in both a literal and a metaphorical sense, so that institutions and practices can offer refuge from a powerful person as [&#8230;] 
+
+<https://blog.ayjay.org/refuge/>
+
+---
+
+## P&B: Cory Dransfeldt
+
+date: 2024-05-03, from: Manu - I write blog
+
+
+                <p>This is the 36th edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have Cory Dransfeldt and his blog, <a href="https://coryd.dev">coryd.dev</a></p>
+<p>To follow this series <a href="https://peopleandblogs.com">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed">RSS feed</a>.</p>
+<p>If you're enjoying the People and Blogs series and you want to see it grow, consider supporting on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a>.</p>
+<hr />
+<h2>Let's start from the basics: can you introduce yourself?</h2>
+<p>My name is Cory Dransfeldt and I'm located in Camarillo, California (a suburban town north of Los Angeles and where I grew up). I studied business in college and minored in economics. At the time I thought it was a practical choice and I was also terrified of the math involved in studying computer science. In hindsight, I wish I'd made a different choice, but don't necessarily regret the one I made at the time.</p>
+<p>My first job out of college was working on the website of the local newspaper (I started as a freelance employee during college and became full-time after). This role was focused on updating the website with content the night before the print edition became available and was done in a utilitarian, but reliable Django-based CMS. I picked up some basic front end development knowledge working on multimedia projects and building my own tools to make the job easier.</p>
+<p>I began to learn JavaScript by writing themes for <a href="http://bowtieapp.com/">Bowtie</a> and <a href="https://en.wikipedia.org/wiki/Ecoute">Ecoute</a> as part of the MacThemes forum community. I expanded my web development knowledge by volunteering to build websites for metal bands I remain a fan of and friends with like <a href="https://linktr.ee/cyniconline">Cynic</a> and <a href="https://augurymetal.com/">Augury</a>. I gained a lot of knowledge and ended up with merch, concert tickets and some really great experiences out if it all.</p>
+<p>I've built a career out of being a self-taught frontend-focused developer and have worked at startups, nationally recognized retailers (I've worked on every eCommerce stack short of Shopify) and several different SaaS providers. The backend developer I worked with at my first startup told me to learn languages and pickup frameworks as needed — that advice continues to serve me well.</p>
+<p>Unsurprisingly, programming and blogging remain my favorite hobbies, along with searching for and discovering new music (I enjoy everything from artists like <a href="https://en.wikipedia.org/wiki/Tom_Waits">Tom Waits</a> to punk acts like <a href="https://en.wikipedia.org/wiki/Nomeansno">NoMeansNo</a> and myriad death metal artists like <a href="https://en.wikipedia.org/wiki/Carcass_(band)">Carcass</a>, <a href="https://en.wikipedia.org/wiki/Autopsy_(band)">Autopsy</a> and newer groups like <a href="https://en.wikipedia.org/wiki/Tomb_Mold">Tomb Mold</a>). If I'm not at the computer, I'm spending time with my lovely wife of 9 years, our two children and our 4 rescue dogs (all terrier/chihuahua mixes). I also mentor via <a href="https://www.underdogdevs.org/">Underdog Devs</a> and help organize the <a href="https://11tymeetup.dev/">Eleventy meetup</a>. I've been getting tattooed more over the past few years and am in the process of completing a sleeve on my right arm but am not sure that qualifies as a hobby.</p>
+<h2>What's the story behind your blog?</h2>
+<p>I started blogging after I graduated from college in 2010 and have managed to recover posts dating back to 2013 that I've imported into the current iteration on my site. I was inspired by blogs like Daring Fireball and MacStories, though I don't follow them quite as closely as I once did. I viewed blogging as both a creative outlet and as a way to continue practicing web development by having my own project to experiment on and iterate with.</p>
+<p>I started out on Tumblr, before moving to the first version of Kirby, then on to Statamic, Jekyll, Next.js, <a href="https://home.omg.lol/">omg.lol</a>'s weblog service and now, finally (and quite happily) <a href="https://www.11ty.dev/">Eleventy</a>. All of these presented me with an opportunity to learn new languages, frameworks, tools and development approaches. I love the simplicity and flexibility of Eleventy and adore the community around both it and omg.lol. I like the simplicity of blogging under my own name and settled on a domain name that reflects both that and the development/technology focus.</p>
+<h2>What does your creative process look like when it comes to blogging?</h2>
+<p>My creative process tends to be very informal — I read a lot of articles via the blogs I follow through RSS and enjoy both audio and written books. I'm interested in web development, the state of the industry and music, so my posts typically center around those topics (and, occasionally, how they connect or overlap). I'll often write a single draft, edit it for clarity, brevity and correctness before my confidence in the post wanes and publish it.</p>
+<p>I want to grow into doing more research-focused writing to compliment these briefer pieces and am excited about that approach as an area where I can grow as a writer.</p>
+<p>I write posts in markdown using <a href="https://bear.app/">Bear</a> and then insert Eleventy frontmatter that I store as a snippet in <a href="https://www.sublimetext.com/">Sublime Text</a>.</p>
+<h2>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</h2>
+<p>I typically write in an office that I share with my wife — I work from home and have a corner desk with my personal machine (a typically docked M2 MacBook Air), work machine and a lightly-used TV in between. I struggle to concentrate in silence and will typically write and program with death or black metal playing. I find the music helps me focus and the lack of intelligible lyrics keeps it from distracting me.</p>
+<h2>A question for the techie readers: can you run us through your tech stack?</h2>
+<p>My blog is hosted at Netlify and I pay for the pro plan while staying well under its limits, but this allows me the piece of mind to rebuild the site regularly to update <a href="https://coryd.dev/now">my now page</a> and other dynamically populated elements like <a href="https://coryd.dev/links/">my links page</a>.</p>
+<p>I moved my domains to DNSimple last year after Gandi was acquired.</p>
+<p>The code for my site is versioned and <a href="https://github.com/cdransf/coryd.dev">available to view at GitHub</a>. I use a GitHub action to trigger hourly rebuilds of my site, another to post content from a feed that combines my blog posts, shared links, read books and watched movies to Mastodon, another to add my blog posts to my README, another to test my site's performance using a <a href="https://speedlify.coryd.dev/">Speedlify instance</a> and yet another to retrieve and cache the chart data for music I've listened to over the last week from <a href="https://coryd.dev/posts/2024/building-a-scrobbler-using-plex-webhooks-edge-functions-and-blob-storage/">the charts I derive from Plex</a> (this is then syndicated to Mastodon via the aforementioned feed and action).</p>
+<h2>Given your experience, if you were to start a blog today, would you do anything differently?</h2>
+<p>If I were to start a blog today, I suppose I'd start from where I've arrived at now, but I don't think I could've arrived here without the experience and discovery I went through along the way. I'm not a particularly great designer, so I favor simplicity and performance in presentation and, from a technical perspective, 11ty really lends itself to that. I think I've found a set of tools and a community that I deeply enjoy engaging with.</p>
+<h2>Financial question since the web is obsessed with money: how much does it cost to run your blog? Is it just a cost or does it generate some revenue? And what's your position on people monetising personal blogs?</h2>
+<p>The expenses to run my site are fairly straightforward: hosting (Netlify), analytics (Clicky) and feed hosting/analytics (Feedpress). A quick estimate for a given year would be around $400 which I'm happy with for something I enjoy so much. There's also a tiny fee monthly for a Backblaze B2 bucket I use to cache JSON used to populate my links page (they're fetched from the Readwise Reader API which is paginated and rate-limited — this allows me to persist link data and puts less of a burden on their service).</p>
+<p>I'm not opposed to bloggers monetizing their sites, but I appreciate when, say, content is clearly marked as sponsored. I have a Buy Me a Coffee link in my site's navigation, but nothing outside of that — if someone wants to send something along I appreciate it and, if not, that's totally fine too!</p>
+<p>I support a few larger publications that started on and have since left Substack. Among my favorites are Paris Marx's <a href="https://disconnect.blog/">Disconnect</a> and <a href="https://www.garbageday.email/">Garbage Day</a>.</p>
+<h2>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</h2>
+<p>I'll start off by saying I <em>love</em> the resurgence of blogs and personal sites we're seeing. I have a <a href="https://coryd.dev/blogroll">blogroll</a> on my site with some of my favorites (they're also bundled into a .opml file that you can download). <a href="https://rknight.me/">Robb Knight</a>'s blog remains one of my favorites — the design is stellar and he's constantly experimenting with and adding new features. I also thoroughly enjoy <a href="https://notes.neatnik.net/">Adam Newbold</a>'s writing and seeing what he's working on for omg.lol. I could go on and on I love <a href="https://gkeenan.co/avgb">Keenan</a>'s writing, <a href="https://blog.mayank.co/">Mayank</a> is a gifted developer and similarly talented writer, <a href="https://sarajoy.dev/">Sara Joy</a> is exceedingly kind and has created awesome projects like <a href="https://rs.sjoy.lol/">RS.S JOY.lol dev</a>. The internet's changing and seeing everyone writing and building makes me so happy.</p>
+<h2>Final question: is there anything you want to share with us?</h2>
+<p>If you want to mentor some great, deserving folks, check out <a href="https://www.underdogdevs.org/">Underdog Devs</a>. If you're building with Eleventy we'd love to have you <a href="https://11tymeetup.dev/">present at the meetup</a>. The best book I've finished this year has been <a href="https://app.thestorygraph.com/books/05de5de3-3572-4d50-b70e-651909502ca1"><em>NoMeansNo: From Obscurity to Oblivion</em></a> — they're my favorite band so, naturally,  I'm biased, but it's a fun read and is built around interviews with the band, their friends, family and other popular musicians. </p>
+<p>I don't have any active side projects at the moment (but I'm kicking around some ideas) — fitting everything in is tough! I'd love to build something that makes it easier for small bands to quickly build lightweight websites that they can host anywhere and really bring my journey full circle — a static site generator as a service with portable code and easy CMS integration?  More robust than LinkTree, with less overhead than Squarespace and more open than both. I'm more interested in supporting musicians than I am in monetizing anything I suppose.</p>
+<p>I'm also excited to see what Robb Knight is cooking up with <a href="https://echofeed.app/">EchoFeed</a>.</p>
+<p>Thanks for reading! I post a lot on <a href="https://coryd.dev/">my site</a> and on <a href="https://social.lol/@cory">Mastodon</a> so come say hi!</p>
+<hr />
+<p>This was the 36th edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Cory. Make sure to <a href="https://coryd.dev">follow his blog</a> (<a href="https://feedpress.me/coryd">RSS</a>) and get in touch with him if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a> and all supporters will be listed here as well as on the <a href="https://peopleandblogs.com">official site</a> of the newsletter.</p>
+<p><a href="https://www.thingelstad.com">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml">RSS</a>) — <a href="https://some.studio">Piet Terheyden</a> — <a href="https://minim.blog">Raul Montala</a> (<a href="http://github.com/rmontala/minim/commits.atom">RSS</a>) — Eleonora — <a href="https://carlbarenbrug.com">Carl Barenbrug</a> (<a href="https://carlbarenbrug.com/feed/rss">RSS</a>) — <a href="https://tangiblelife.net">Steve Ledlow</a> (<a href="https://tangiblelife.net/feed.rss">RSS</a>) — Paolo Ruggeri — <a href="https://thejollyteapot.com">Nicolas Magand</a> (<a href="https://thejollyteapot.com/feed.rss">RSS</a>) — <a href="https://robhope.com">Rob Hope</a> — <a href="https://chrishannah.me">Chris Hannah</a> (<a href="https://chrishannah.me/index.xml">RSS</a>) — <a href="https://blog.pcora.eu">Pedro Corá</a> (<a href="https://blog.pcora.eu/feed.xml">RSS</a>) — <a href="https://jeremysarber.com">Jeremy Sarber</a> (<a href="https://jeremysarber.com/feed.rss">RSS</a>) — <a href="https://colinwalker.blog/">Colin Walker</a> (<a href="https://colinwalker.blog/dailyfeed.xml">RSS</a>) — <a href="https://softlandings.world/">Sixian Lim</a> (<a href="https://www.softlandings.world/feed.rss">RSS</a>) — <a href="https://mattstein.com">Matt Stein</a> (<a href="https://mattstein.com/rss.xml">RSS</a>) — <a href="https://winnielim.org">Winnie Lim</a> (<a href="https://winnielim.org/feed/">RSS</a>) — <a href="https://flamedfury.com/">Flamed</a> (<a href="https://flamedfury.com/feed.xml/">RSS</a>) — <a href="https://skyhold.org">C Jackdaw</a> (<a href="https://journal.miso.town/atom?url=https://skyhold.org/index.html">RSS</a>) — <a href="https://tiv.today">Kevin Humdrum</a> (<a href="https://tiv.today/feed.rss">RSS</a>) — <a href="https://www.doc.cc/">Fabricio Teixeira</a> (<a href="https://www.doc.cc/feed.xml">RSS</a>) — <a href="https://rosalindcroad.com">Rosalind Croad</a> — <a href="https://frankmeeuwsen.com">Frank Meeuwsen</a> (<a href="https://frankmeeuwsen.com/feed.xml">RSS</a>) — <a href="https://www.elmike.me">Mike Walsh</a> (<a href="https://www.elmike.me/feed.xml">RSS</a>) — <a href="https://www.byzero.de/">Markus Heurung</a> — <a href="https://jeremybassetti.com">Jeremy Bassetti</a> (<a href="https://jeremybassetti.com/index.xml">RSS</a>) — <a href="https://cleverlaziness.xyz/">Juan Villela</a> (<a href="https://cleverlaziness.xyz/posts/index.xml">RSS</a>) — <a href="https://mwarrenarts.com/">Michael Warren</a> (<a href="https://mwarrenarts.com/rss">RSS</a>) — <a href="https://cagrimmett.com/">Chuck Grimmett</a> (<a href="https://cagrimmett.com/feed">RSS</a>) — <a href="https://eatweeds.co.uk">Robin Harford</a> (<a href="https://www.eatweeds.co.uk/feed/">RSS</a>) — <a href="https://bryanmanio.com/">Bryan Maniotakis</a> (<a href="https://bryanmanio.com/feed/">RSS</a>) — <a href="https://bjhess.com/">Barry Hess</a> (<a href="https://bjhess.com/posts_feed">RSS</a>) — <a href="https://chrisjung.xyz">Chris Jung</a> (<a href="https://chrisjung.xyz/feed/rss">RSS</a>) — <a href="https://ivanmoreale.com">Ivan Moreale</a> — <a href="https://islandinthenet.com">Khürt Williams</a> (<a href="https://islandinthenet.com/feed/">RSS</a>) — <a href="https://werd.io/">Ben Werdmuller</a> (<a href="https://werd.io/feed">RSS</a>) — <a href="https://corygibbons.com">Cory Gibbons</a> — <a href="https://www.lkhrs.com/">Luke Harris</a> (<a href="https://www.lkhrs.com/blog/index.xml">RSS</a>) — <a href="https://lars-christian.com/">Lars-Christian Simonsen</a> (<a href="https://lars-christian.com/feed/">RSS</a>) — <a href="https://sethw.xyz">Seth Werkheiser</a> (<a href="https://sethw.xyz/feed/">RSS</a>) — <a href="https://www.codyschultz.com">Cody Schultz</a> — <a href="https://bradbarrish.com">Brad Barrish</a> (<a href="https://bradbarrish.com/feed/">RSS</a>) — <a href="https://galaiko.rocks">Nikita Galaiko</a> — Erik Blankvoort — <a href="https://jagasantagostino.com">Jaga Santagostino</a> — <a href="https://andzuck.com/">Andrew Zuckerman</a> — <a href="https://www.mattiacompagnucci.com">Mattia Compagnucci</a> (<a href="https://mattiacompagnucci.com/feed.rss">RSS</a>) — <a href="https://tdh.se/">Thord D. Hedengren</a> (<a href="https://tdh.se/feed/feed.xml">RSS</a>) — Fabien Sauser — <a href="http://dizzard.net/">Maxwell Omdal</a> — <a href="https://numericcitizen.me">Numeric Citizen</a> (<a href="https://feedpress.me/numericcitizen-feeds.xml?ref=numericcitizen.me">RSS</a>) — <a href="https://heydingus.net">Jarrod Blundy</a> (<a href="https://heydingus.net/feeds">RSS</a>) — <a href="https://gwtf.it">Andrea Contino</a> (<a href="https://gwtf.it/feed">RSS</a>) — <a href="https://sebastiandedeyne.com/">Sebastian De Deyne</a> (<a href="https://sebastiandedeyne.com/index.xml">RSS</a>) — <a href="https://koolinus.net/blog/">Nicola Losito</a> (<a href="https://koolinus.net/blog/feed/">RSS</a>) — <a href="https://amerpie.lol/">Lou Plummer</a> (<a href="https://amerpie.lol/feed.xml">RSS</a>) — <a href="https://lmika.org/">Leon Mika</a> (<a href="https://lmika.org/feed.xml">RSS</a>) — <a href="http://veronique.ink">Veronique</a> (<a href="https://veronique.ink/feed/">RSS</a>) — <a href="https://surplusjouissance.com">Neil Gorman</a> (<a href="https://www.surplusjouissance.com/rss/">RSS</a>) — <a href="https://reaper.is/">Reaper</a> (<a href="https://reaper.is/rss.xml">RSS</a>) — <a href="https://www.mattrutherford.co.uk/">Matt Rutherford</a> (<a href="https://www.mattrutherford.co.uk/rss/">RSS</a>) — <a href="https://therealadam.com">Adam Keys</a> (<a href="https://therealadam.com/feed.xml">RSS</a>) — <a href="https://aleemshaun.com/">Aleem Ali</a> (<a href="https://aleemshaun.com/feed">RSS</a>) — <a href="https://www.ismailsevik.com/">İsmail Şevik</a> (<a href="https://www.ismailsevik.com/feeds/posts/default?alt=rss">RSS</a>) — <a href="https://nikkin.dev/">Nikkin</a> (<a href="https://nikkin.dev/feed.xml">RSS</a>) — <a href="https://jeremyfelt.com/">Jeremy Felt</a> (<a href="https://jeremyfelt.com/feed">RSS</a>) — <a href="https://hansfast.net">Hans</a></p>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale">support on Ko-Fi</a>;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol>                <hr>
+                <h2>Get in touch</h2>                <p>Have something to share? Want me as your <a href="https://manuelmoreale.com/i-ll-read-it">first reader</a>? Get in touch. My inbox is always open.</p>                <a href="mailto:hello@manuelmoreale.com">Connect</a> — 
+                <a href="https://manuelmoreale.com/guestbook">Guestbook</a>
+                <hr>
+                <h2>One a month</h2>                <p>That's how little it takes to help with my <a href="https://manuelmoreale.com/on-dreams-and-goals">goal</a>. If you feel generous, consider supporting what I do.</p>                <a href="https://ko-fi.com/manuelmoreale">Donate</a> — 
+                <a href="https://manuelmoreale.com/supporters">Supporters</a>
+                <hr>
+                <h2>People and Blogs</h2>                <p>I ask people to talk about themselves and their blogs. <a href="https://peopleandblogs.com/">Learn more</a> or subscribe.</p>                <a href="https://manuelmoreale.com/feed/peopleandblogs">RSS</a> — 
+                <a href="https://buttondown.email/peopleandblogs">Email</a>
+             
+
+<https://manuelmoreale.com/@/page/50aifxEnQNlrL4Kl>
+
+---
+
+## May the fourth be with you and this 3D printed stormtrooper helmet
+
+date: 2024-05-03, from: Raspberry Pi News (.com)
+
+<p>Our Maker in Residence decided to 3D print a full-size stormtrooper helmet to wear at work on Star Wars Day.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/may-the-fourth-be-with-you-and-this-3d-printed-stormtrooper-helmet/">May the fourth be with you and this 3D printed stormtrooper helmet</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/may-the-fourth-be-with-you-and-this-3d-printed-stormtrooper-helmet/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-05-03, from: Tomosino's Mastodon feed)
+
+<p>You know what really grinds my gears?</p><p>At some point some real jerk-of-a-boss told his team, "I don't care if it's not done. Ship it anyway and we'll charge the customer to get the rest," and it actually worked. And now we get games that require DLCs to play anything. I hate that we fell for it and that guy probably got promoted. </p><p>(This is not a commentary on Unity's new CEO... but in a way...)</p> 
+
+<https://tilde.zone/@tomasino/112374658129898406>
+
+---
+
+## Lateral Thinking
+
+date: 2024-05-03, from: Memo Garcia blog
+
+For me, lateral thinking is:
+Solving problems using an indirect and creative approach. Using reasoning that is not immediately obvious and involving ideas that might not be obtainable by using traditional step-by-step logic.
+One &ldquo;simple&rdquo; approach to &ldquo;think outside the box&rdquo; is:
+Understanding WHAT you want to achieve. Understanding WHY you want to achieve it. Knowing the rules of the game constraints like environment, budget, physical limitations, etc. Reframing WHAT you want in a way that ignores these rules of the game. 
+
+<https://memo.mx/posts/lateral-thinking/>
+
+---
+
+## Simplicity vs familiarity
+
+date: 2024-05-03, from: Memo Garcia blog
+
+I&rsquo;ve been thinking a lot about how we interact with technology, and I&rsquo;ve come to realize that being familiar with something doesn&rsquo;t always mean it&rsquo;s simple. In fact, it can sometimes make things more complicated.
+For example, when I&rsquo;m working on code or documentation, I find myself getting too close to the issue. It&rsquo;s easy to lose sight of the bigger picture and get caught up in the details. That&rsquo;s why it&rsquo;s important for us to take a step back, look at our work from a different perspective, and ask for feedback. 
+
+<https://memo.mx/posts/simplicity-vs-familiarity/>
+
+---
+
+## Optimizations
+
+date: 2024-05-03, from: Memo Garcia blog
+
+In order to make it faster, we need to understand why it is slow. 
+
+<https://memo.mx/posts/optimization/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-05-03, from: Tomosino's Mastodon feed)
+
+<p>I don't have a cat. I rent this apartment and there's no pets allowed. If we were allowed we would have a cat. I would pet the cat. It would be warm and soft and lovely.</p><p>Do you have a cat? If so can you pet it for me and report back. Warm? Soft? Lovely?</p> 
+
+<https://tilde.zone/@tomasino/112374406957913282>
+
+---
+
+## Microservices vs monoliths
+
+date: 2024-05-03, from: Memo Garcia blog
+
+Which architecture should I choose?
+I don&rsquo;t think this is the right question to ask. A better question would be, given the current state of my service/product, which architecture will provide what I&rsquo;m looking for? For example, performance, independent deployments, application boundaries, etc.
+For example, many people mention that we should start with a monolith and while I agree with some of the arguments (simplified development and deployment, consistent performance), it tends to ignore the fact that it might be better to prioritize freedom and experimentation at early stages rather than performance. 
+
+<https://memo.mx/posts/microservices-vs-monoliths/>
+
+---
+
+## Building a social network from scratch on a whiteboard
+
+date: 2024-05-03, from: Ze Iaso's blog
+
+ 
+
+<https://xeiaso.net/talks/2024/shashin/>
+
+---
+
+## The Schedule is out for POSETTE: An Event for Postgres 2024!
+
+date: 2024-05-03, from: PostgreSQL News
+
+<h1>Amazing Talks &amp; Speakers for POSETTE 2024</h1>
+<p>The talk selection team is so excited about all the talks planned for our 3rd annual free &amp; virtual developer event, happening June 11-13, 2024. Take a look at the <strong><a href="https://www.citusdata.com/posette/2024/schedule/">schedule for POSETTE: An Event for Postgres 2024</a></strong>, and see which talks you’re most interested in.</p>
+<h1>Save the Date</h1>
+<p>Before your schedule books up, we hope that you will Save the Date. Add one or more livestreams to your calendar:</p>
+<ul>
+<li>#1: <a href="https://www.addevent.com/event/Zi19909939">June 11th @ 8:00am – 1:30pm PDT</a></li>
+<li>#2: <a href="https://www.addevent.com/event/bq19909949">June 12th @ 8:00am – 1:30pm CEST</a></li>
+<li>#3: <a href="https://www.addevent.com/event/kw19909943">June 12th @ 8:00am – 1:30pm PDT</a></li>
+<li>#4: <a href="https://www.addevent.com/event/Wm19909952">June 13th @ 8:00am – 1:30pm CEST</a></li>
+</ul>
+<h1>Things to know about the Schedule</h1>
+<p><strong>42 talks</strong> from 44 amazing speakers—with 10-11 unique talks in each of the 4 livestreams</p>
+<p><strong>Look at all 4 tabs on <a href="https://www.citusdata.com/posette/2024/schedule/">the Schedule page</a></strong>—one for each livestream</p>
+<p><strong>Speakers page is live too</strong>: You can get a good overview of who’s presenting by looking at the <strong><a href="https://www.citusdata.com/posette/2024/speakers/">new Speakers page</a></strong>.</p>
+<p><strong>Individual Speaker pages</strong> for each of the speakers. Just click on their photo on the <a href="https://www.citusdata.com/posette/2024/speakers/">POSETTE Speakers page</a> to access their expanded bio and this year’s talk &amp; abstract. Plus, you’ll find YouTube &amp; Episode links for speakers who have spoken at our previous events including Citus Con and the Path To Citus Con podcast.</p>
+<h2>Keynote Speakers</h2>
+<p><strong>Charles Feddersen</strong>, Partner Director Product Management @ Microsoft, will speak on “All the Postgres Things at Microsoft, POSETTE edition"</p>
+<p><strong>Regina Obe</strong>, CEO @ Paragon Corporation &amp; PostGIS PSC, will talk about “The Open Source Geospatial Community, PostGIS &amp; Postgres" </p>
+<p><strong>Sarah Novotny</strong>, Open Source Wonk, will tell us “Why I love open source development &amp; what I learned from K8s” </p>
+<p><strong>Thomas Munro</strong>, PostgreSQL hacker working @ Microsoft, will give us “A Walking Tour of Postgres” </p>
+<p>We hope to see you (virtually) in June.</p> 
+
+<https://www.postgresql.org/about/news/the-schedule-is-out-for-posette-an-event-for-postgres-2024-2855/>
+
+---
+
+## My issue with Github Actions
+
+date: 2024-05-02, from: Memo Garcia blog
+
+GitHub actions are a problem because they lock you by the balls and you cannot reproduce your pipelines.
+Getting to depend on all those small Actions saves 5 minutes today, only to make migrations immensely painful tomorrow.
+Build, package, and release software should be written as standalone scripts that in principle could even run in the developer&rsquo;s machine. Moving them to CI is just changing the machine that will run the scripts. 
+
+<https://memo.mx/posts/github-actions/>
+
+---
+
+## RISC OS Open 5.30 arrives with Raspberry Pi Wi-Fi support
+
+date: 2024-05-02, from: OS News
+
+This is, in a way, a mature OS with an ecosystem and an aftermarket. (Which, we feel we must explicitly spell out, means that quite a few of those third-party applications and drivers will cost you money.) There are emulators that will let you run 20th century Acorn apps that you can find online, but this isn&#8217;t an emulated vintage environment like Amiga Forever. It&#8217;s not meant for running games from thirty years ago. This is a native bare-metal OS, built on 1980s roots but updated for 21st century hardware. It&#8217;s also not an experimental project with little practical use, like Redox OS or Serenity OS, interesting though those are. ↫ Liam Proven at The Register I grew up with RISC OS and still run a RISC OS machine to this day. As Liam Proven explains affectionately in this article, while as an operating system it&#8217;s missing many features we now take for granted (memory protection, pre-emptive multitasking, compositing), some of the user interface ideas it implements still manage to feel advanced compared to modern-day desktops (no need for menu bars, no clunky file dialogues, elegant mouse button assignments). The fact it&#8217;s found a home on the Raspberry Pi and continues to support an active community is testament to its enduring appeal and the amazing work of the RISC OS Open project. Some additional notes from Thom: this new release supports 7 ARM platforms, most notably the Raspberry Pi Zero, 1, 2, 3 and 4 (but not the 5), and it even supports WiFi on the 3 and 4, which is an absolutely incredible achievement. The number of fixed bugs and addressed issues is massive, and there&#8217;s even more to come later during the year, as The Register&#8217;s article notes. I was waiting on this release to spur me on to buy a new Raspberry Pi (my only other Pi is our Pi-Hole), so I&#8217;ll definitely be on the lookout for a good deal. This release deserves my full attention for OSNews. 
+
+<https://www.osnews.com/story/139527/risc-os-open-5-30-arrives-with-raspberry-pi-wi-fi-support/>
+
+---
+
+## The BASIC programming language turns 60
+
+date: 2024-05-02, from: OS News
+
+Sixty years ago, on May 1, 1964, at 4 am in the morning, a quiet revolution in computing began at Dartmouth College. That&#8217;s when mathematicians John G. Kemeny and Thomas E. Kurtz successfully ran the first program written in their newly developed BASIC (Beginner&#8217;s All-Purpose Symbolic Instruction Code) programming language on the college&#8217;s General Electric GE-225 mainframe. Little did they know that their creation would go on to democratize computing and inspire generations of programmers over the next six decades. ↫ Benj Edwards at Ars Technica Even I have used BASIC in the past, when I was a child and discovered QBasic (or possibly GW-BASIC, I&#8217;m a bit hazy on the details) and started messing around with it. My experiences with BASIC didn&#8217;t lead to a path of ever more complex programming languages, but for huge numbers of people, it did &#8211; it&#8217;s wild just how many people over a certain age got their programming start with BASIC in the 8 bit home computer era. I mean, 30 GOTO 10 is such a widespread morsel of knowledge it made its way into all kinds of popular media, such as a few Easter egg jokes in Futurama. BASIC has effectively achieved immortality. 
+
+<https://www.osnews.com/story/139534/the-basic-programming-language-turns-60/>
+
+---
+
+## Inside the Snapdragon 855’s iGPU
+
+date: 2024-05-02, from: OS News
+
+Qualcomm’s Adreno 6xx architecture has been superseded Adreno 7xx, but it’s still used in countless devices, including the current-gen Snapdragon 8cx Gen 3. Here, I’ll be looking at the Adreno 640 GPU in the Snapdragon 855. Zarif98 on Reddit kindly provided a OnePlus 7 Pro, and I’ll be using that to check out Adreno 640. Compared to the older Snapdragon 821’s Adreno 530, Adreno 640 dramatically increases compute throughput while still working within a very constrained power and thermal envelope. Process node improvements help, and TSMC’s 7 nm process should be far better than the 14 nm Samsung node used in the Snapdragon 821. But cell phone SoC constraints meant Qualcomm couldn’t go around copy-pasting basic GPU building blocks and call it a day. ↫ Chips and Cheese Chips and Cheese with another deep dive. 
+
+<https://www.osnews.com/story/139531/inside-the-snapdragon-855s-igpu/>
+
+---
+
+## At Microsoft, years of security debt come crashing down
+
+date: 2024-05-02, from: OS News
+
+Years of accumulated security debt at Microsoft are seemingly crashing down upon the company in a manner that many critics warned about, but few ever believed would actually come to light.&#160; Microsoft is an entrenched enterprise provider, owning nearly one-quarter of the global cloud infrastructure services market and, as of Q1 last year, nearly 20% of the worldwide SaaS application market, according to Synergy Research Group. Though not immune to scandal, in the wake of two major nation-state breaches of its core enterprise platforms, Microsoft is facing one of its most serious reputational crises. ↫ David Jones at Cybersecurity Dive It&#8217;s almost like having the entire US government dependent on a single vendor is a bad idea. Just spitballing here. 
+
+<https://www.osnews.com/story/139528/at-microsoft-years-of-security-debt-come-crashing-down/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-02, from: Dave Winer's Scripting News)
+
+I asked <a href="https://imgs.scripting.com/2024/05/02/northqueensresidential.png?nodialog">ChatGPT</a> and <a href="https://imgs.scripting.com/2024/05/02/queensstreetmetaai.png?nodialog">Meta.ai</a> to draw a typical residential street in north Queens. 
+
+<http://scripting.com/2024/05/02.html#a213912>
+
+---
+
+## NASA Research Park Public Documents
+
+date: 2024-05-02, from: NASA breaking news
+
+Economic Benefits Study: Development Plans: NASA Research Park Environmental Reports: Environmental Management Division Public Documents: Environmental Impact Statement: RFP Housing Asbestos &#38; Lead Based Paint Documents: FP Housing Misc Due Diligence Documents: Miscellaneous Documents: 
+
+<https://www.nasa.gov/centers-and-facilities/ames/nasa-research-park-public-documents/>
+
+---
+
+##  Ancient-ish Woolen Dutch Hats 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/ancient-ish-woolen-dutch-hats>
+
+---
+
+##  Sorry to link to a paywall, but if you like my comics,... 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044538-if-you-like-my-comics>
+
+---
+
+## Core Technology Fee Exemptions
+
+date: 2024-05-02, from: Michael Tsai
+
+Apple (MacRumors): Today, we&#8217;re introducing two additional conditions in which the CTF is not required: First, no CTF is required if a developer has no revenue whatsoever. This includes creating a free app without monetization that is not related to revenue of any kind (physical, digital, advertising, or otherwise). This condition is intended to give [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/02/core-technology-fee-exemptions/>
+
+---
+
+## EagleFiler 1.9.14
+
+date: 2024-05-02, from: Michael Tsai
+
+EagleFiler 1.9.14 is a maintenance release for my Mac information organizer app. Some interesting bugs were: EagleFiler uses NSXMLParser to read Evernote&#8217;s ENEX files, which it then converts to standard RTF/RTFD files that any app can read. Some customers had files that were causing it to fail with NSXMLParserUndeclaredEntityError even though the referenced entities did [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/02/eaglefiler-1-9-14/>
+
+---
+
+## Delta Emulator in the App Store
+
+date: 2024-05-02, from: Michael Tsai
+
+Kyle Orland (MacRumors): Apple&#8217;s decision earlier this month to open the iOS App Store to generic retro game emulators is already bearing fruit. Delta launched Wednesday as one of the first officially approved iOS apps to emulate Nintendo consoles from the NES through the N64 and the Game Boy through the Nintendo DS (though unofficial [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/02/delta-emulator-in-the-app-store/>
+
+---
+
+## AltStore PAL
+
+date: 2024-05-02, from: Michael Tsai
+
+Riley Testut: I&#8217;m thrilled to announce a brand new version of AltStore &#8212; AltStore PAL &#8212; is launching TODAY as an Apple-approved alternative app marketplace in the EU. AltStore PAL is an open-source app store made specifically for independent developers, designed to address the problems I and so many others have had with the App [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/02/altstore-pal/>
+
+---
+
+##  Copy the Shrug Emoji. A website for copying the shrug emoji. Too... 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044541-copy-the-shrug-emoji-a>
+
+---
+
+## If not now, when?
+
+date: 2024-05-02, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/05/02/ifnotnowwhen.png"></center>It's time to do whatever you were sent here to do.</div></p>
+ 
+
+<http://scripting.com/2024/05/02/193826.html?title=ifNotNowWhen>
+
+---
+
+##  Reading About Listening to J.S. Bach 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/reading-about-listening-to-js-bach>
+
+---
+
+## 2024 Total Solar Eclipse: Prediction vs. Reality
+
+date: 2024-05-02, from: NASA breaking news
+
+Before a total solar eclipse crossed North America on April 8, 2024, scientists at Predictive Science Inc. of San Diego aimed to foresee what the Sun’s outer atmosphere, the corona, would look like during totality. The predictions help researchers understand the accuracy of their models of the Sun’s corona, which extends along its magnetic field. […] 
+
+<https://science.nasa.gov/image-article/2024-total-solar-eclipse-prediction-vs-reality/>
+
+---
+
+## Researchers Develop ‘Founding Document’ on Synthetic Cell Development
+
+date: 2024-05-02, from: NASA breaking news
+
+Cells are the fundamental units of life, forming the variety of all living things on Earth as individual cells and multi-cellular organisms. To better understand how cells perform the essential functions of life, scientists have begun developing synthetic cells – non-living bits of cellular biochemistry wrapped in a membrane that mimic specific biological processes. The [&#8230;] 
+
+<https://www.nasa.gov/general/researchers-develop-founding-document-on-synthetic-cell-development/>
+
+---
+
+##  Can&#8217;t resist an I Called Off My Wedding essay! (&#8220;On another plane... 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044540-cant-resist-an-i-called>
+
+---
+
+## Hi-C Rocket Experiment Achieves Never-Before-Seen Look at Solar Flares
+
+date: 2024-05-02, from: NASA breaking news
+
+By Jessica Barnett&#160; After months of preparation and years since its last flight, the upgraded High Resolution Coronal Imager Flare mission – Hi-C Flare, for short – took to the skies for a never-before-seen view of a solar flare. The low-noise cameras – built at NASA’s Marshall Space Flight Center in Huntsville, Alabama – are [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/hi-c-rocket-experiment-achieves-never-before-seen-look-at-solar-flares/>
+
+---
+
+## Galaxy Evolution Explorer Searches for Light
+
+date: 2024-05-02, from: NASA breaking news
+
+This Dec. 21, 2002, artist’s concept of NASA’s Galaxy Evolution Explorer imagines what the space telescope would look like during its mission. Launched April 28, 2003, it studied the shape, brightness, size and distance of galaxies across 10 billion years of cosmic history. By observing ultraviolet wavelengths, the telescope measured the history of star formation [&#8230;] 
+
+<https://www.nasa.gov/image-article/galaxy-evolution-explorer-searches-for-light/>
+
+---
+
+## Sols 4173-4174: Reflections
+
+date: 2024-05-02, from: NASA breaking news
+
+Earth planning date: Wednesday, May 1, 2024 Today’s planning was a little out of the ordinary. Not in terms of the plan itself, Curiosity’s team built an exciting plan utilizing much of its science toolkit. Today’s plan was unusual rather due to my role as APXS PUDL Reverse Shadow (PUDL = Payload Uplink/Downlink Lead). While I normally staff […] 
+
+<https://science.nasa.gov/blogs/sols-4173-4174-reflections/>
+
+---
+
+##  Diary Comics, Dec. 19 & 20 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/diary-comics-dec-19-20>
+
+---
+
+## NASA Is Helping Protect Tigers, Jaguars, and Elephants. Here’s How.
+
+date: 2024-05-02, from: NASA breaking news
+
+As human populations grow, habitat loss threatens many creatures. Mapping wildlife habitat using satellites is a rapidly expanding area of ecology, and NASA satellites play a crucial role in these efforts. Tigers, jaguars, and elephants are a few of the vulnerable animals whose habitats NASA is helping track from space. “Satellites observe vast areas of […] 
+
+<https://science.nasa.gov/earth/nasa-is-helping-protect-tigers-jaguars-and-elephants-heres-how/>
+
+---
+
+##  The Native Youth Olympics 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/the-native-youth-olympics>
+
+---
+
+## NASA Partner Zooniverse Receives White House Open Science Award
+
+date: 2024-05-02, from: NASA breaking news
+
+Congrats to NASA partner Zooniverse for being named winners in the White House’s Year of Open Science Recognition Challenge! The White House Office of Science &#038; Technology Policy (OSTP) designated 2023 as the year of Open Science, and invited innovators to submit stories of how they’ve advanced equitable open science. OSTP and its federal partners selected five challenge project submissions as […] 
+
+<https://science.nasa.gov/get-involved/citizen-science/nasa-partner-zooniverse-receives-white-house-open-science-award/>
+
+---
+
+## NASA Technology Grants to Advance Moon to Mars Space Exploration
+
+date: 2024-05-02, from: NASA breaking news
+
+NASA has awarded nearly $1.5 million to academic, non-profit, and business organizations to advance state-of-the-art technology that will play a key role in the agency’s return to the Moon under Artemis, as well as future missions to Mars. Twenty-four projects from 21 organizations have been awarded under NASA’s Dual-Use Technology Development Cooperative Agreement Notices, or [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-technology-grants-to-advance-moon-to-mars-space-exploration/>
+
+---
+
+##  An FAQ About Your New Birth Control: The Music of Rush. &#8220;Imagine... 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044534-an-faq-about-your-new>
+
+---
+
+## Alicante, Spain
+
+date: 2024-05-02, from: mrusme blog
+
+"Alicante is a city and municipality in the Valencian Community, Spain. It is
+the capital of the province of Alicante and a historic Mediterranean port. The
+population of the city was 337,482 as of 2020, the second-largest in the
+Valencian Community." 
+
+<https://xn--gckvb8fzb.com/travel/spain/alicante/>
+
+---
+
+## attention please
+
+date: 2024-05-02, from: Ayjay blog
+
+Nathan Heller: “Attention as a category isn’t that salient for younger folks,” Jac Mullen, a writer and a high-school teacher in New Haven, told me recently. “It takes a lot to show that how you pay attention affects the outcome — that if you focus your attention on one thing, rather than dispersing it across [&#8230;] 
+
+<https://blog.ayjay.org/attention-please/>
+
+---
+
+## A Gallery of Emoji Paintings
+
+date: 2024-05-02, updated: 2024-05-02, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/05/02/emoji-paintings/>
+
+---
+
+## First browser-based blogging tool
+
+date: 2024-05-02, from: Dave Winer's Scripting News
+
+<p><a href="http://scripting.com/davenet/1999/02/22/whatAMonth.html">In February 1999</a>, playing with blog writing in the browser. This was a new idea at that point. Full-size <a href="http://scripting.com/gifs/controlpanel4.gif">screen shot</a>. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/05/02/myControlPanel.png"></center><a href="http://scripting.com/gifs/controlpanel4.gif">Screen shot</a> of browser-based blogging tool, c 1999.</div></p>
+ 
+
+<http://scripting.com/2024/05/02/152921.html?title=firstBrowserbasedBloggingTool>
+
+---
+
+##  Video of a tornado in Nebraska going right over a train, filmed... 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044535-video-of-a-tornado-in>
+
+---
+
+## Two podcast episodes
+
+date: 2024-05-02, from: Dave Winer's Scripting News
+
+<p>If you want a new perspective on the election, two recommendations.</p>
+<ul>
+<li>Greg Sargent interviewed political consultant <a href="https://podcasts.apple.com/us/podcast/dont-be-fooled-heres-how-we-know-rfk-jr-is-tacitly/id1728152109?i=1000653431136">Joe Trippi</a>, who explains why third parties could make all the difference in the election. </li>
+<li>Chris Lydon interviewed <a href="https://radioopensource.org/american-disorder/">Richard Slotkin</a> about the four major stories of American politics. </li>
+</ul>
+<p>Both very illuminating and immediately influenced my thinking.</p>
+ 
+
+<http://scripting.com/2024/05/02/151338.html?title=twoPodcastEpisodes>
+
+---
+
+##  Rock stars that sound like&#8230; (Kurt Cobain as a coffee grinder, Ozzy... 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044509-rock-stars-that-sound-lik>
+
+---
+
+## The Mystery of the Missing Multicellular Prokaryotes
+
+date: 2024-05-02, from: Quanta Magazine
+
+Why have bacteria never evolved complex multicellularity? A new hypothesis suggests that it could come down to how prokaryotic genomes respond to a small population size.               <p>The post <a href="https://www.quantamagazine.org/the-mystery-of-the-missing-multicellular-prokaryotes-20240502/" target="_blank">The Mystery of the Missing Multicellular Prokaryotes</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/the-mystery-of-the-missing-multicellular-prokaryotes-20240502/>
+
+---
+
+## What became of 1999.io
+
+date: 2024-05-02, from: Dave Winer's Scripting News
+
+<p>TL;DR: It's gone -- you can't get <a href="http://1999.io/">there</a>. Because it uses Twitter for identity. It and bingeworthy.io are the two apps I miss the most. </p>
+<p><a href="https://www.google.com/search?q=site%3Ascripting.com+1999.io">1999 was a rewrite</a> of blogging software from the point of view of both 1999 and 2016. Both timeframes. I had learned a lot inbetween, and the art of online interaction had moved forward a lot. I had become a user of Facebook, and was impressed with how their software worked. I was imploring them to turn it into a blogging system, it was achingly close. When I realized they weren't going to do it, I set out to do it myself, how I imagined Facebook would do a blogging system. Of course I didn't have their source code, so I built it from scratch. </p>
+<p>Because 1999 used Twitter for identity, I couldn't use it. I also couldn't use Radio, because it ran on Windows and a now-obsolete version of the Mac OS. It's made me think that maybe in a few years or even months you might not be able to use <a href="https://feedland.com/">FeedLand</a> or <a href="http://drummer.land/">Drummer</a>. Then I thought about how I can better future-safe them for users. And that led me to adding a simple feature to FeedLand that will help if a FeedLand server you depend on should go off the air. See the next post, below.</p>
+ 
+
+<http://scripting.com/2024/05/02/140941.html?title=whatBecameOf1999io>
+
+---
+
+##  This Sliding Door Sounds Like a Screaming R2-D2 
+
+date: 2024-05-02, updated: 2024-05-02, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/this-sliding-door-sounds-like-a-screaming-r2-d2-1>
+
+---
+
+## Protecting your FeedLand subscription lists
+
+date: 2024-05-02, from: Dave Winer's Scripting News
+
+<p>First and foremost, you should keep a current backup copy of your subscription list. It's very easy to do. </p>
+<ul>
+<li>In <a href="https://feedland.com/">FeedLand</a>, choose <i>My feed list</i> in the first menu.</li>
+<li>Click on the white-on-orange XML icon, in the upper right corner of the page.</li>
+<li>That will open a standard OPML version of your subscription list. This is the format that all feed reading software understands. </li>
+<li>In your browser, choose the <i>Save Page As</i> command in the File menu (or something like that, there are lots of browsers) and save it along with your other backups.</li>
+<li>You can also automate it if you can run a script that gets stuff over the internet. Once a night would be fine, not a huge burden on the server. </li>
+</ul>
+<p>I added another way to preserve your feed list, using localStorage.</p>
+<ul>
+<li>Every time you sign in FeedLand now saves a copy of your subscription list in localStorage. </li>
+<li>And if the FeedLand server you're using should happen to disappear, if you have not taken a backup in a while, if you have a tab open, you'll at least have a copy in localStorage. </li>
+<li>If you want to see it -- visit feedland.org or feedland.com, wherever you have an account, and do a hard reload. Then open the JavaScript console, and enter this line:</li>
+<ul>
+<li><code>console.log (localStorage.savedUserSubs)</code></li>
+</ul>
+<li>If you have questions, here's a <a href="https://github.com/scripting/feedlandSupport/issues/240">thread</a>.</li>
+</ul>
+ 
+
+<http://scripting.com/2024/05/02/135643.html?title=protectingYourFeedlandSubscriptionLists>
+
+---
+
+## brows illustrated
+
+date: 2024-05-02, from: Ayjay blog
+
+Russell Lynes’s 1949 essay for Harper’s, “Highbrow, Lowbrow, Middlebrow” — about which I’ll have more to say later — features this illustration by Saul Steinberg.  
+
+<https://blog.ayjay.org/brows-illustrated/>
+
+---
+
+## RISC OS Open 5.30 arrives – with Raspberry Pi Wi-Fi support
+
+date: 2024-05-02, updated: 2024-05-02, from: Liam Proven's articles at the Register
+
+<h4>Got an old Raspberry Pi spare? Try RISC OS. It is, literally, something else</h4>
+      <p>The new version of RISC OS, the original native Arm OS, runs on eight or nine Arm-based platforms, including the Raspberry Pi Zero, 1, 2, 3 and 4 – and on that last two, this release supports wireless networking.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/05/02/rool_530_is_here/>
+
+---
+
+## WHOO!
+
+date: 2024-05-02, from: Howard Jacobson blog
+
+Whooping seems to be back. Shouting &#8216;whoo!&#8217; as a way of expressing your enthusiasm. Either that, or it never went away and I have grown inured to it. Explain it how you will, but after five whooping experiences in the last three weeks - one at a concert, one at a play, two at anniversary parties and one at Passover - I can now say definitively that I&#8217;m hearing it again. Did I say whooping at Passover? All right, I 
+
+<https://jacobsonh.substack.com/p/whoo>
+
+---
+
+## 2024-04-22 Gopher, again
+
+date: 2024-05-02, from: Alex Schroeder's Blog
+
+<h1 id="2024-04-22-gopher-again">2024-04-22 Gopher, again</h1>
+
+<p>Having found a separate server, written in Go, monitored by systemd, to be the superior solution for double hosting my site for Gemini, I kept thinking about Gopher. With <a href="Odd%C2%B5">Oddµ</a> using a version of Markdown that is very close to the standard, and having found a library that I understand, more or less, which I had successfully grafted onto <a href="https://sr.ht/~gsthnz/satellite/">Satellite</a>, the Gemini server I’m using, based on renderer code I found in the <a href="https://github.com/tdemin/gmnhg">Hugo-to-Gemini converter</a> that used the same Markdown parsing library I was using for Oddµ, I figured that I might use the same library to turn Markdown into suitable Gopher pages.</p>
+
+<p>It took some wrangling and it’s probably not great, but the main menu matches my front page and the blog posts look mostly OK, and so the site is back as a gopher hole on port 70!</p>
+
+<p>See <a href="https://src.alexschroeder.ch/markdown-gopher.git">Markdown Gopher</a> for the Gopher server code.</p>
+
+<p>See my <a href="https://src.alexschroeder.ch/satellite.git">patched Satellite</a> for the Gemini server code, <a href="2023-11-03-other-ports">discussed back in 2023</a>.</p>
+
+<p>And naturally I’m immediately annoyed by the lack of UTF-8 support in this client I’m using.</p>
+
+<p><a class="tag" href="/search/?q=%23Gopher">#Gopher</a></p>
+
+<p><strong>2024-05-01</strong>. I think I finally managed to get decent word-wrapping!</p>
+
+<p><strong>2024-05-02</strong>. I think I&rsquo;m fine with the limitations I&rsquo;ve set myself for the Markdown Gopher server. It really leans into the plain text aesthetic.</p>
+
+<ol>
+<li>no links;</li>
+<li>no emphasis;</li>
+<li>no images;</li>
+<li>no searches.</li>
+</ol> 
+
+<https://alexschroeder.ch/view/2024-04-22-gopher>
+
+---
+
+## Summary of changes for April 2024
+
+date: 2024-05-02, from: Hundred Rabbits blog
+
+<p>Hey everyone!</p><p>This is the list of all the changes we've done to our projects during the month of April.</p>
+
+<img src="https://100r.co/media/content/videos/april_2024.jpg" loading="lazy">
+
+<h2>Summary Of Changes</h2>
+<ul>
+  <li><b>100r.co</b>, added <a href="https://100r.co/site/twilight.html">Twilight</a>, updated our notes on <a href="https://100r.co/site/chainplates.html#april2024">chainplates</a>, <a href="https://100r.co/site/wheel_to_tiller_conversion.html#apr2024">wheel to tiller conversion</a>, <a href="https://100r.co/site/dc_electrical_refit.html#apr2024">cabin lights</a> <a href="https://100r.co/site/standing_rigging_replacement.html#apr2024">standing rigging replacement</a>, <a href="https://100r.co/site/princess_louisa_inlet.html">Princess Louisa Inlet</a>(added maps), <a href="https://100r.co/site/goji_no_chaimu.html">Goji no Chaimu</a>(added maps), and <a href="https://100r.co/site/sailing_in_japan.html">Sailing to Japan</a>(fixed some dead links).</li>
+  <li><b><a href="https://kokorobot.ca/site/hakum.html" target="_blank">Hakum</a></b>, released a new comic sequence called <a href="https://kokorobot.ca/site/kaizah.html" target="_blank">Kaizah</a>.</li>
+  <li><b><a href="https://kokorobot.ca/site/wunderland_rabbits.html" target="_blank">Wunderland Rabbits</a></b>, released a new <a href="https://kokorobot.ca/media/content/wunderland_13_full.jpg" target="_blank">Rabbit travel photo</a></li>
+  <li><b><a href="https://100r.co/site/orca.html" target="_blank">Orca</a></b>, added a note on the repository for the Javascript version titled <a href='https://github.com/hundredrabbits/Orca/issues/297' target='_blank'>Is Orca dead?</a></li>
+</ul>
+
+<p>Devine has been busy working on the <a href='https://git.sr.ht/~rabbits/modal' target='_blank'>implementation</a> and <a href='https://wiki.xxiivv.com/site/modal'>documentation</a> of <a href='https://wryl.tech/' target='_blank'>wryl</a>'s fantastic programming language <i>Modal</i>. Rewriting systems are a <a href='https://en.wikipedia.org/wiki/Abstract_rewriting_machine' target='_blank'>computation paradigm</a> that is generally unknown and under-explored that might have some fascinating features that might be able help us to tackle some of our future projects.</p>
+
+<p>In other news, Pino is ready to head northward! We finished all of our boats projects and left the dock on May 1st. See a <a href="https://100r.co/media/content/travel/se_ak_01.jpg" target="_blank">photo</a> of our first day of the year on the water, taken as we exited Enterprise Channel, just north of Trial Island south of Victoria. On our travels we will continue to push updates every month like usual, but the updates will only go live when we find internet, and this may or may not coincide with the start of every month. We will keep a log of our travels, populated with plenty of drawings!</p>
+
+<h3>Pino book & movie club</h3>
+
+<p><b>Book Club:</b> This month we are reading The Fountainhead by Ayn Rand.</p>
+<p><a href='https://100r.co/site/log.html#apr2024' target='_blank'>Continue Reading</a></p> 
+
+<https://100r.co/site/log.html#apr2024>
+
+---
+
+## IndieWeb Carnival: Natural creativity
+
+date: 2024-05-02, from: Manu - I write blog
+
+
+                <p>I spend the vast majority of my time doing creative work. I code for a living, sometimes I design for a living. I code as a hobby, sometimes I do design as a hobby. I also write. Being creative ain’t easy. At least not for me. I sit at my desk, staring at the same screen day after day and sometimes it’s hard to find inspiration. But every time I find myself stuck I can get unstuck with one simple trick: I leave.</p>
+<p>My creative environment is when I’m outside, not trying to do anything creative. And this is especially true when I’m walking in nature. I’m not the first one to realise that there’s a connection between walking in nature and creativity. There’s something about moving through space that makes my brain work differently.</p>
+<p>Nature is, more often than not, my creative environment. Back in 2019, I started a very random project called <a href="https://manuelmoreale.com/writing-hiking-and-sharing">From the Summit</a>. It was an attempt to capture this exact phenomenon, the bursts of creativity born from moving through space. It’s easily my favourite digital experiment.</p>
+<p>At the end of the day though, the only environment that matters, when it comes to creativity, is the mental space I’m in. That’s why I find nature so useful. The cadence of the walk, the sounds, the light, the smell. All the senses are engaged when I’m outside in nature and as a result, my brain becomes more creative.</p>
+<p>The next time you’re creatively stuck, if you can, go for a walk in nature. You won’t regret it.</p>
+<hr />
+<p>This post was part of May's <a href="https://indieweb.org/indieweb-carnival">IndieWeb Carnival</a> on the topic of <a href="https://hamatti.org/posts/indie-web-carnival-may-2024-creative-environments/"><em>Creative environments</em></a>. If you have a blog, consider writing something for this month's theme. And if you don't have a blog I encourage you to start one. Blogging is fun!</p>                <hr>
+                <h2>Get in touch</h2>                <p>Have something to share? Want me as your <a href="https://manuelmoreale.com/i-ll-read-it">first reader</a>? Get in touch. My inbox is always open.</p>                <a href="mailto:hello@manuelmoreale.com">Connect</a> — 
+                <a href="https://manuelmoreale.com/guestbook">Guestbook</a>
+                <hr>
+                <h2>One a month</h2>                <p>That's how little it takes to help with my <a href="https://manuelmoreale.com/on-dreams-and-goals">goal</a>. If you feel generous, consider supporting what I do.</p>                <a href="https://ko-fi.com/manuelmoreale">Donate</a> — 
+                <a href="https://manuelmoreale.com/supporters">Supporters</a>
+                <hr>
+                <h2>People and Blogs</h2>                <p>I ask people to talk about themselves and their blogs. <a href="https://peopleandblogs.com/">Learn more</a> or subscribe.</p>                <a href="https://manuelmoreale.com/feed/peopleandblogs">RSS</a> — 
+                <a href="https://buttondown.email/peopleandblogs">Email</a>
+             
+
+<https://manuelmoreale.com/@/page/r8akhwvPFX1u48It>
+
+---
+
+## This camera writes poems
+
+date: 2024-05-02, from: Raspberry Pi News (.com)
+
+<p>Poetry Camera uses Raspberry Pi Zero 2 W, one of our camera modules, and a thermal printer to create poems instead of pictures.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/this-camera-writes-poems/">This camera writes poems</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/this-camera-writes-poems/>
+
+---
+
+## Catalog One-year Anniversary Report
+
+date: 2024-05-02, from: Playdate Blog
+
+April 18, 2024 marked the two-year anniversary of the launch of Playdate. To commemorate the occasion, for the first time, we are publicly sharing data on the sales of Playdate games on our own game storefront, Catalog, and are excited to announce that over 150,000 games have been sold since the store launched - netting out to $544,290.12 in gross revenue for developers after taxes, processing fees, and Panic’s 25% revenue share for distribution on Catalog. 
+
+<https://news.play.date/news/catalog-report-2024/>
+
+---
+
+## Secure Randomness in Go 1.22
+
+date: 2024-05-02, updated: 2024-05-02, from: Go language blog
+
+ChaCha8Rand is a new cryptographically secure pseudorandom number generator used in Go 1.22. 
+
+<https://go.dev/blog/chacha8rand>
+
+---
+
+## pgAdmin 4 v8.6 Released
+
+date: 2024-05-02, from: PostgreSQL News
+
+<p>The pgAdmin Development Team is pleased to announce pgAdmin 4 version 8.6. This release of pgAdmin 4 includes 15 bug fixes and new features. For more details please see the <a href="https://www.pgadmin.org/docs/pgadmin4/8.6/release_notes_8_6.html">release notes</a>.</p>
+<p>pgAdmin is the leading Open Source graphical management tool for PostgreSQL. For more information, please see <a href="https://www.pgadmin.org/">the website</a>.</p>
+<p>Notable changes in this release include:</p>
+<h3>Features:</h3>
+<ul>
+<li>Added the new columns "last_seq_scan" and "last_idx_scan" from the pg_stat_all_tables and pg_stat_all_indexes tables respectively to the Statistics tab.</li>
+<li>Added support for excluding multiple tables while taking Backup.</li>
+</ul>
+<h3>Bugs/Housekeeping:</h3>
+<ul>
+<li>Fixed an XSS vulnerability in the /settings/store endpoint (CVE-2024-4216).</li>
+<li>Fixed Multi-Factor Authentication bypass vulnerability (CVE-2024-4215).</li>
+<li>Update UI library MUI from v4 to v5.</li>
+<li>Upgraded Flask, Flask-Security-Too, Werkzeug, and other dependencies, ensuring compatibility with Python 3.7.</li>
+<li>Fixed violates check constraint issue when creating a pgAgent schedule.</li>
+<li>Fixed an issue where pressing backspace should remove the spaces and not the entire tab width, on enabling 'Use spaces?' in the preferences.</li>
+<li>Fixed an issue where incorrect select/exec scripts were generated for functions/procedures.</li>
+<li>Fixed an issue when closing the view data second tab; it raises the error that the 'ViewCommand' object has no attribute 'auto_commit'.</li>
+<li>Install dbus-python, an in-direct dependency of the Keyring package as a system package for Debian platforms.</li>
+</ul>
+<p>Builds for Windows and macOS are available now, along with a Python Wheel, Docker Container, RPM, DEB Package, and source code tarball from the <a href="https://www.pgadmin.org/download/">tarball area</a>.</p> 
+
+<https://www.postgresql.org/about/news/pgadmin-4-v86-released-2853/>
+
+---
+
+## pgEdge Distributed PostgreSQL Introduces Automatic DDL Replication and Snowflake Sequences for Postgres
+
+date: 2024-05-02, from: PostgreSQL News
+
+<p>New capabilities advance state of the art in Postgres logical replication</p>
+<p>Alexandria, VA - April 17, 2024 - pgEdge, Inc., the leading company dedicated to distributed Postgres, today unveiled two major advances in logical replication for the widely adopted open-source PostgreSQL database. These are automatic DDL (Data Definition Language) replication, and snowflake sequences, an innovative solution to the problem of maintaining unique sequence identifiers across a distributed Postgres cluster.  pgEdge Distributed PostgreSQL is the first and only fully distributed PostgreSQL database solution that is open (source available) and completely based on the PostgreSQL database itself.</p>
+<p>Automatic Replication of DDL Commands.
+DDL is used to create and modify Postgres objects like tables, indexes, views and constraints through command statements like CREATE, ALTER, and DROP.  DML (data manipulation language) is used to perform operations on the data within those database objects through command statements such as SELECT, INSERT, UPDATE, and DELETE.  </p>
+<p>Traditionally, logical replication in Postgres only allowed for the replication of DML statements and not DDL.  Manual efforts were required on each node to modify table definitions through DDL commands that had to be executed on every node. </p>
+<p>With the introduction of automatic DDL replication on pgEdge, developers can now update the database schema on a single node and have it automatically propagated to other nodes in the cluster. This feature makes it far easier to support distributed Postgres applications where the database schema is frequently updated because of active development or maintenance. </p>
+<p>Snowflake Sequence in Postgres Extension:
+Managing sequences in a distributed PostgreSQL environment can be complex, especially in multi-master replication scenarios.  A Postgres sequence provides a unique integer number to use as an ID for the database table and its records. If you insert new records it will assign the next number in the sequence without issue.  </p>
+<p>In a distributed application, however, the sequence must be updated across different regions and if each node updates the sequence independently you will have conflicts that cannot be resolved.  For example, if a sequence is being used as a primary key, the next value of the sequence on a node in the US could be selected at the exact same time the next value of the sequence is selected on a node in Australia, resulting in a primary key conflict.</p>
+<p>To address this challenge, pgEdge has integrated snowflake sequences into a Postgres extension. A snowflake sequence allows for the utilization of a guaranteed unique sequence within a cluster without the need for application code or schema modifications. By automatically installing the Snowflake extension in pgEdge Platform and pgEdge Cloud databases, users can easily maintain unique sequence numbers across different regions, eliminating conflicts and enhancing scalability. </p>
+<p>An exclusive presentation and paper on the Snowflake extension will be showcased at the Silicon Valley Postgres conference in San Jose this week.</p>
+<p>“By offering these cutting-edge capabilities built on open, standard-based Postgres, we demonstrate our ongoing commitment to making advanced distributed Postgres capabilities available to the Postgres community. Our goal is to make it easier and faster to deliver distributed Postgres applications that are always on, always available and always responsive,” remarked Phillip Merrick, Co-founder and CEO of pgEdge.</p>
+<p>Availability
+Automatic DDL Replication and Snowflake Sequences are available now within both pgEdge Platform (self hosted) or pgEdge Cloud (fully managed cloud service).</p>
+<p>For more information, to signup for pgEdge Cloud, or to download pgEdge Platform, visit www.pgedge.com.  To learn how to configure pgEdge’s Auto DDL, view the documentation at https://docs.pgedge.com/platform/advanced/autoddl.  The pgEdge Snowflake extension is available on the project's GitHub repository at https://github.com/pgEdge/snowflake-sequences. </p>
+<p>About pgEdge
+pgEdge, the leading company dedicated to distributed Postgres, has made its mission to make it easy for developers to build and deploy highly distributed database applications across the global network. Founded by industry veterans who have championed enterprise usage of the PostgreSQL database for several decades and helped run the world’s largest managed database cloud services, pgEdge is headquartered in Northern Virginia. The founders have previously founded and/or led successful companies such as webMethods (NASDAQ: WEBM), EnterpriseDB (acquired by Bain Capital), SparkPost (acquired by MessageBird), OpenSCG (acquired by AWS) and Fugue (acquired by Snyk). Investors in pgEdge include Sands Capital Ventures, Grotech Ventures and Sand Hill East.</p> 
+
+<https://www.postgresql.org/about/news/pgedge-distributed-postgresql-introduces-automatic-ddl-replication-and-snowflake-sequences-for-postgres-2844/>
 
 ---
 
@@ -322,37 +1226,13 @@ In honor of Asian-American and Native Hawaiian Pacific Islander Heritage Month, 
 
 ---
 
-##  Artist Alex Tomlinson wonders, “What if owls had flags?”... 
+##  “What if owls had flags?” wonders artist Alex Tomlinson.... 
 
 date: 2024-05-01, updated: 2024-05-01, from: Jason Kottke blog
 
  
 
 <https://kottke.org/24/05/0044513-artist-alex-tomlinson-ask>
-
----
-
-## 2024-04-22 Gopher, again
-
-date: 2024-05-01, from: Alex Schroeder's Blog
-
-<h1 id="2024-04-22-gopher-again">2024-04-22 Gopher, again</h1>
-
-<p>Having found a separate server, written in Go, monitored by systemd, to be the superior solution for double hosting my site for Gemini, I kept thinking about Gopher. With <a href="Odd%C2%B5">Oddµ</a> using a version of Markdown that is very close to the standard, and having found a library that I understand, more or less, which I had successfully grafted onto <a href="https://sr.ht/~gsthnz/satellite/">Satellite</a>, the Gemini server I’m using, based on renderer code I found in the <a href="https://github.com/tdemin/gmnhg">Hugo-to-Gemini converter</a> that used the same Markdown parsing library I was using for Oddµ, I figured that I might use the same library to turn Markdown into suitable Gopher pages.</p>
-
-<p>It took some wrangling and it’s probably not great, but the main menu matches my front page and the blog posts look mostly OK, and so the site is back as a gopher hole on port 70!</p>
-
-<p>See <a href="https://src.alexschroeder.ch/markdown-gopher.git">Markdown Gopher</a> for the Gopher server code.</p>
-
-<p>See my <a href="https://src.alexschroeder.ch/satellite.git">patched Satellite</a> for the Gemini server code, <a href="2023-11-03-other-ports">discussed back in 2023</a>.</p>
-
-<p>And naturally I’m immediately annoyed by the lack of UTF-8 support in this client I’m using.</p>
-
-<p><a class="tag" href="/search/?q=%23Gopher">#Gopher</a></p>
-
-<p><strong>2024-05-01</strong>. I think I finally managed to get decent word-wrapping!</p> 
-
-<https://alexschroeder.ch/view/2024-04-22-gopher>
 
 ---
 

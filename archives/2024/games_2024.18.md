@@ -1,11 +1,111 @@
 ---
 title: games 2024.18
-updated: 2024-05-01 17:02:49
+updated: 2024-05-03 08:28:38
 ---
 
 # games 2024.18
 
-(date: 2024-05-01 17:02:49)
+(date: 2024-05-03 08:28:38)
+
+---
+
+## Sex scenes in movies are in rapid decline, despite rise in sex-scene discourse
+
+date: 2024-05-03, updated: 2024-05-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24148035/sex-scenes-movies-2024-study>
+
+---
+
+## Megan Thee Stallion and more pick which My Hero Academia quirk they would choose
+
+date: 2024-05-03, updated: 2024-05-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/anime/24147268/my-hero-academia-quirk-megan-thee-stallion-iman-vellani-mercedes-varnado>
+
+---
+
+## How to build a Manor house in Manor Lords
+
+date: 2024-05-03, updated: 2024-05-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/manor-lords-guides/24148023/manor-house-how-to-build>
+
+---
+
+## What you need to know about biomes in Pokémon Go
+
+date: 2024-05-03, updated: 2024-05-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24140393/biomes-map-city-mountains-forest-beach-spawns>
+
+---
+
+## Helldivers 2 players on Steam now need a PlayStation account to play
+
+date: 2024-05-03, updated: 2024-05-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24147958/helldivers-2-playstation-network-psn-account-link-how-to>
+
+---
+
+## The 27 best movies on Netflix right now
+
+date: 2024-05-03, updated: 2024-05-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/21266801/best-movies-on-netflix>
+
+---
+
+## The Wandering Village is living proof of TikTok’s impact on games
+
+date: 2024-05-03, updated: 2024-05-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24147555/how-tiktok-ban-would-impact-video-games>
+
+---
+
+## Seinfeld’s Netflix Pop-Tart movie embarrasses everyone
+
+date: 2024-05-03, updated: 2024-05-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24147505/seinfeld-netflix-unfrosted-review>
+
+---
+
+## How to get a Master Ball in Pokémon Go, and when is it best to use one?
+
+date: 2024-05-03, updated: 2024-05-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/23732462/master-ball-research-unlock-use-miss>
+
+---
+
+## Xbox Game Pass’ May lineup has cute kitty cats and Tomb Raider
+
+date: 2024-05-02, updated: 2024-05-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24147605/xbox-game-pass-may-2024-free-games-tomb-raider>
 
 ---
 

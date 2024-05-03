@@ -1,11 +1,151 @@
 ---
 title: motorcycles 2024.18
-updated: 2024-05-01 17:02:49
+updated: 2024-05-03 08:28:39
 ---
 
 # motorcycles 2024.18
 
-(date: 2024-05-01 17:02:49)
+(date: 2024-05-03 08:28:39)
+
+---
+
+## Watch These Dirt Bike Side Cars Fly Off Jumps and Shred a Muddy Field
+
+date: 2024-05-03, from: Ride Apart, Electric Motorcycle News
+
+Where's our checkbook? 
+
+<https://www.rideapart.com/news/718393/cboys-dirt-bike-side-car-racing-video-jump/>
+
+---
+
+## Triumph Launches Dope Looking New Clothing Collection in the US
+
+date: 2024-05-03, from: Ride Apart, Electric Motorcycle News
+
+Forget trips to your nearest Triumph dealer for gear. Just a few clicks will get you Triumph's latest Heritage Collection and a lot more. 
+
+<https://www.rideapart.com/news/718296/triumph-online-clothing-usa/>
+
+---
+
+## The Honda Pioneer 700 UTV Returns To Get You Out Into the Woods
+
+date: 2024-05-03, from: Ride Apart, Electric Motorcycle News
+
+It’s offered in a sick TrueTimber Camo colorway, too.  
+
+<https://www.rideapart.com/news/718294/2025-honda-pioneer-700-utv-announced/>
+
+---
+
+## Nissan Partners With Battery-Swapping Scooter Company
+
+date: 2024-05-03, from: Ride Apart, Electric Motorcycle News
+
+The Spanish EV Silence firm will expand its footprint throughout the continent in 2024. 
+
+<https://www.rideapart.com/news/718291/nissan-silence-ev-partnership-europe/>
+
+---
+
+## BMW Motorrad Days Returns To Barber Motorsports Park
+
+date: 2024-05-03, from: Ride Apart, Electric Motorcycle News
+
+Last year’s event was such a hit that they just had to do it again this year.  
+
+<https://www.rideapart.com/news/718151/bmw-motorrad-days-americas-2024/>
+
+---
+
+## This Gorgeous Yamaha XSR900 Might Make You Forget The GP
+
+date: 2024-05-03, from: Ride Apart, Electric Motorcycle News
+
+If you can't buy your own retro-faired XSR900 at the dealer, homemade is fine. 
+
+<https://www.rideapart.com/news/718264/hoobue-yamaha-xsr900-cs-fairing/>
+
+---
+
+## Rocky Mountain ATV/MC Recalls Tusk 2Track Adventure Tires
+
+date: 2024-05-02, from: Ride Apart, Electric Motorcycle News
+
+The recall affects its newly launched 2Track rear tires. 
+
+<https://www.rideapart.com/news/718137/rocky-mountain-atvmc-recall-tusk-2track-adv-tire/>
+
+---
+
+## Ryder Wells Partners with Seaboard Controls for 2024 Racing Season
+
+date: 2024-05-02, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor When 17-year-old Ryder Wells makes his first Late Model starts under the NASCAR Regional banner, he’ll have a new long-term partner on board, Seaboard Controls.&#8230;  
+
+<https://kickinthetires.net/feature/ryder-wells/ryder-wells-partners-with-seaboard-controls-for-2024-racing-season/>
+
+---
+
+## Motorcycle Parts Supplier Fined $300,000 for Child Labor
+
+date: 2024-05-02, from: Ride Apart, Electric Motorcycle News
+
+They also had to set aside $1.5 million in profits for those kids.  
+
+<https://www.rideapart.com/news/718142/motorcycle-parts-supplier-yamaha-john-deere-tuff-torq/>
+
+---
+
+## This Guy Turned a Jetski Into a Snowmobile
+
+date: 2024-05-02, from: Ride Apart, Electric Motorcycle News
+
+Why can't you have it all? 
+
+<https://www.rideapart.com/news/718139/jetski-snowmobile-shred-eighty/>
+
+---
+
+## Is The Oruga Unitrack A Stroke Of Off-Road Genius Or An Accident Waiting To Happen?
+
+date: 2024-05-02, from: Ride Apart, Electric Motorcycle News
+
+The Latvian startup wants to turn the tractor factor up to eleven.  
+
+<https://www.rideapart.com/news/718140/oruga-unitrack-electric-offroad-concept/>
+
+---
+
+## The 24 Heures Motos Drew A Massive Crowd at Le Mans
+
+date: 2024-05-02, from: Ride Apart, Electric Motorcycle News
+
+More than 78,000 people camped out to watch the opening round of the 2024 FIM Endurance World Championship.  
+
+<https://www.rideapart.com/news/718138/2024-24-heures-motos-massive-success/>
+
+---
+
+## Peak Design's Collab With EV-Motorcycle Maker LAND Looks Like Backyard Fun
+
+date: 2024-05-02, from: Ride Apart, Electric Motorcycle News
+
+Who's ready to hit some dirt with this giveaway? 
+
+<https://www.rideapart.com/news/718135/peak-design-land-moto-collab-ev-motorcycle-scrambler/>
+
+---
+
+## Can-Am Ryker Centers Accessibility, Makes It Look Easy
+
+date: 2024-05-02, from: Ride Apart, Electric Motorcycle News
+
+Real talk: Why don't more OEMs follow suit? 
+
+<https://www.rideapart.com/news/718104/canam-ryker-adjustable-handlebar-footpeg/>
 
 ---
 

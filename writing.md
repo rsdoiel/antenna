@@ -1,11 +1,97 @@
 ---
 title: writing 2024.18
-updated: 2024-05-01 17:02:49
+updated: 2024-05-03 08:28:38
 ---
 
 # writing 2024.18
 
-(date: 2024-05-01 17:02:49)
+(date: 2024-05-03 08:28:38)
+
+---
+
+## Finding Your Lane With 'The Flash' Showrunner Eric Wallace
+
+date: 2024-05-03, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/finding-your-lane-with-the-flash-showrunner-eric-wallace" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/The%20Flash.jpeg" alt="Barry Allen/The Flash (Grant Gustin) running in 'The Flash,' Finding Your Lane With 'The Flash' Showrunner Eric Wallace" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>Known as a go-to writer for&nbsp;</span><a href="https://screencraft.org/blog/script-apart-dune-screenwriter-eric-roth-on-mastering-any-genre/"><span>the genre</span></a><span>, showrunner Eric&nbsp;</span><span>Wallace’s</span><span> journey into television started as a 6-year-old really into horror movies, <span style="font-style: italic;">Godzilla</span> and <span style="font-style: italic;">Frankenstein</span>. That passion has taken him from fun childhood filmmaking to show running. Wallace recalled, </span>“I&nbsp;started&nbsp;to obsessively study horror movies&nbsp;and&nbsp;when I was&nbsp;twelve&nbsp;I&nbsp;co-wrote my first screenplay on notebook paper.”</p> 
+
+<https://blog.finaldraft.com/finding-your-lane-with-the-flash-showrunner-eric-wallace>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-03, from: Neil Gaiman @ BlueSky)
+
+The secret of life, the key to all wisdom.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3krlqsvsebk2j>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-02, from: Neil Gaiman @ BlueSky)
+
+A reminder that Fountain Pen discussion keeps going at the Fountain Pen Feed: 
+https://bsky.app/profile/did:plc:nkahctfdi6bxk72umytfwghw/feed/aaad2q353alqm
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3krjzutzfi22t>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-02, from: Neil Gaiman @ BlueSky)
+
+An amazing writer. Her Little Holidays in Hell collection from the Women's Press was filled with uncategorizable goodies.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3krjt2payp22k>
+
+---
+
+## 2024 Edgar Awards Winners
+
+date: 2024-05-02, from: Locus Magazine
+
+<p>The 78th Annual Edgar Awards were presented May 1, 2024, at the New York Marriott Marquis Times Square. The Awards are given by the Mystery Writers of America (MWA), “honoring the best in mystery fiction, non-fiction and television.” Winners of genre interest follow.</p>
+<p><strong>Flags on the Bayou</strong> by James Lee Burke (Grove Atlantic – Atlantic Monthly Press) won in the Best Novel category, <strong>Vera Wong’s Unsolicited Advice for Murderers</strong> by  <a href="https://locusmag.com/2024/05/2024-edgar-awards-winners/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/2024-edgar-awards-winners/>
+
+---
+
+## Niall Harrison Reviews Kurdistan + 100 edited by Mustafa Gündoğdu & Orsola Casagrande
+
+date: 2024-05-02, from: Locus Magazine
+
+<p><strong>Kurdistan + 100 </strong>, Mustafa Gündoğdu &#38; Orsola Casagrande, eds. (Comma Press 978-1-91269-736-6, £10.99, 237pp, tp). November 2023. Cover by David Eckersall.</p>
+<p>When you finish reading the last page of the last story in this strong anthology of strong stories, you are not yet done with the book. There is an afterword by editors Mustafa Gündoğdu and Orsola Casagrande, which probably was not part of the original concept. It is  <a href="https://locusmag.com/2024/05/niall-harrison-reviews-kurdistan-100-edited-by-mustafa-gundogdu-orsola-casagrande/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/niall-harrison-reviews-kurdistan-100-edited-by-mustafa-gundogdu-orsola-casagrande/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-02, from: Neil Gaiman @ BlueSky)
+
+Stardust was written with a Waterman, my first fountain pen as an adult, bought through the Levenger catalogue (which was how you bought things in rural Wisconsin in 1994).
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3krj5whevds2w>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-02, from: Neil Gaiman @ BlueSky)
+
+I'm glad. It helps my weird brain doing it like that too.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3krj5jqqulc2k>
 
 ---
 
