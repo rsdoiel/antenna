@@ -100,7 +100,7 @@ https://gov.fm/index.php/component/content/category/35-pio-articles?Itemid=177&f
 
 # FSM based Science and Educational organizations
 https://www.meripmicronesia.org/feed/ "~MERIP News, Marine Environment Ressearch Institute of Pohnpei"
-https://micsem.org/feed/ "MicroSem News"
+# https://micsem.org/feed/ "MicroSem News" # removed due to vandalized feed, 2024-05-03 RSD
 
 #
 # Environmental
