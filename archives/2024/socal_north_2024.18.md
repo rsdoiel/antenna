@@ -1,11 +1,11 @@
 ---
 title: socal north 2024.18
-updated: 2024-05-03 21:06:25
+updated: 2024-05-03 22:49:20
 ---
 
 # socal north 2024.18
 
-(date: 2024-05-03 21:06:25)
+(date: 2024-05-03 22:49:20)
 
 ---
 
@@ -256,6 +256,16 @@ After Chancellor Gene Block declared Tuesday that the Palestine solidarity encam
 
 ---
 
+## In Photos: A nation shaken by camps for Gaza
+
+date: 2024-05-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Encampments and protests in solidarity with Palestine swept through college campuses in recent weeks. The Daily Trojan, the Daily Bruin, the Emory Wheel, The Daily Californian, Washington Square News, the Berkeley Beacon and the Daily Texan came together and compiled a photo essay depicting the student movements unfolding across the nation. 
+
+<https://dailytrojan.com/2024/05/02/in-photos-a-nation-shaken-by-camps-for-gaza/>
+
+---
+
 ## UCLA women’s tennis adjusts mindset to prepare for start of NCAA tournament
 
 date: 2024-05-03, from: The Daily Bruin (UCLA Student Newspaper)
@@ -432,18 +442,6 @@ date: 2024-05-02, from: The Daily Bruin (UCLA Student Newspaper)
 This three-part series explores the causes and consequences of extremism in the online world. In this episode, Podcasts contributors Izzy Greig and Ciara Terry discuss how technology can foster extremism. 
 
 <https://dailybruin.com/2024/05/02/code-red-episode-2/>
-
----
-
-## In Photos: A nation shaken by camps for Gaza
-
-date: 2024-05-02, from: The Daily Trojan (USC Student Newspaper)
-
-<p>A first-of-its-kind collaborative photo essay, compiled from seven student-run newspapers across the country.</p>
-<p>The post <a href="https://dailytrojan.com/2024/05/02/in-photos-a-nation-shaken-by-camps-for-gaza/">In Photos: A nation shaken by camps for Gaza</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2024/05/02/in-photos-a-nation-shaken-by-camps-for-gaza/>
 
 ---
 

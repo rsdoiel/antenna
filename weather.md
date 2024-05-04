@@ -1,11 +1,11 @@
 ---
 title: weather 2024.18
-updated: 2024-05-03 21:06:27
+updated: 2024-05-03 22:49:20
 ---
 
 # weather 2024.18
 
-(date: 2024-05-03 21:06:27)
+(date: 2024-05-03 22:49:20)
 
 ---
 
@@ -82,56 +82,6 @@ potential compared to previous days.
  
 
 <https://www.spc.noaa.gov/products/exper/fire_wx/>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2024-05-03, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0945 AM CDT Fri May 03 2024
-
-Valid 031700Z - 041200Z
-
-An Elevated risk area has been introduced to portions of southeast
-New Mexico. Morning surface observations and 12 UTC soundings from
-ABQ and EPZ show very dry conditions at/near the surface with RH
-values generally in the teens to low 20s across parts of far
-southwest TX and south-central NM. This air mass should spread
-northeast behind an eastward migrating dryline this afternoon. Weak
-mid and upper-level winds will limit the overall magnitude of the
-fire weather potential, but ensemble guidance shows reasonably high
-confidence of 15-20 mph winds co-located with the driest conditions.
-Furthermore, recent fuel guidance suggests ERCs generally reside in
-the 80-90th percentile across this region after several days of
-limited rainfall, which should support the fire weather concern.
-Elevated conditions are also expected further north into
-south-central CO, but will be more localized and driven by
-terrain-induced winds.
-
-..Moore.. 05/03/2024
-
-.PREV DISCUSSION... /ISSUED 1225 AM CDT Fri May 03 2024/
-
-...Synopsis...
-A low-amplitude shortwave trough will move through northern Mexico
-today and eject into West Texas by early tomorrow morning. A weak
-surface trough is expected to develop in the southern High Plains as
-a result. Portions of the Southwest will experience dry and breezy
-conditions for period during the afternoon. Given the short duration
-of these conditions, only locally elevated fire weather concerns are
-expected.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
 
 ---
 
@@ -812,47 +762,6 @@ the stronger cores.
  
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2024-05-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0258 PM CDT Wed May 01 2024
-
-Valid 021200Z - 031200Z
-
-...NO CRITICAL AREAS...
-
-Trimmed the northeastern extent of the Elevated area across eastern
-New Mexico based on forecast frontal position. Otherwise, no changes
-are necessary. See previous forecast discussion below.
-
-..Bentley.. 05/01/2024
-
-.PREV DISCUSSION... /ISSUED 0147 AM CDT Wed May 01 2024/
-
-...Synopsis...
-Northwesterly flow is expected to strengthen across New Mexico on
-Thursday, as a lee cyclone develops in the southern High Plains.
-Sustained winds of 15 to 20 mph are expected with relative humidity
-in the single digits. Deterministic guidance varies on how
-widespread any critical wind speeds will be. This leads to low
-confidence in including a Critical area with this outlook, but will
-be monitored for future outlook updates. For now, Elevated to
-locally Critical fire weather conditions are expected on Thursday.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
