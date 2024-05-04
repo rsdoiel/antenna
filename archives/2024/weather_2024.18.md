@@ -1,11 +1,87 @@
 ---
 title: weather 2024.18
-updated: 2024-05-03 08:28:38
+updated: 2024-05-03 18:28:43
 ---
 
 # weather 2024.18
 
-(date: 2024-05-03 08:28:38)
+(date: 2024-05-03 18:28:43)
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2024-05-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0401 PM CDT Fri May 03 2024
+
+Valid 051200Z - 111200Z
+
+An active period of fire weather concerns remains likely beginning
+late this weekend and lasting well into the upcoming work week. The
+greatest fire weather risk will be focused across the central to
+southern Rockies and into adjacent areas of the central/southern
+High Plains where a dry air mass is already in place. Latest
+ensemble guidance continues to show strong agreement in the
+evolution of an upper-level trough (currently noted in water-vapor
+imagery over the northeast Pacific) as it translates east across the
+inter-mountain West and into the Plains Sunday and Monday, reaching
+the Great Lakes/northern Plains by Tuesday/Wednesday. Strong low to
+mid-level flow associated with this system will support multiple
+days of dry, windy conditions with an accompanying fire weather
+risk.
+ 
+...D3/Sunday to D6/Wednesday - New Mexico and adjacent portions of
+TX/CO...
+Strong divergence aloft ahead of the approaching upper-level wave
+will support broad surface pressure falls across the central Rockies
+on Sunday afternoon. In response, southerly winds will increase
+across much of the Four Corners region into central and eastern NM.
+Latest mid-range ensemble guidance suggests sustained 20-25 mph
+winds will be common by late afternoon when RH values should be
+reaching their diurnal minimums between 10-20%. Although fuels
+across western NM are not overly dry as of Friday afternoon,
+dry/windy conditions on Saturday across this region should help cure
+finer fuels by Sunday.  
+
+Perhaps the most intense fire weather conditions are anticipated on
+Monday afternoon across portions of east/northeast NM. The ejection
+of the surface low into the Plains Monday afternoon will support
+strong westerly downslope winds off the central/southern Rockies.
+This will maintain dry conditions across the region with 10-20% RH
+common. Elevated conditions are expected across a broad swath of the
+High Plains with critical conditions likely across much of eastern
+NM. Latest forecast guidance hints that 25-30 mph sustained winds
+are probable across northeast NM in the lee of the Sangre de Cristo
+Mountains. While this portion of northeast NM is currently receiving
+rainfall, such dry/windy conditions should yield dried grasses after
+a few hours. 
+
+Persistent zonal flow will linger over the southern Rockies
+D5/Tuesday into D6/Wednesday. This will maintain a downslope flow
+regime with an attendant dry air mass (afternoon minimum RH values
+in the teens) across the southern High Plains with potential both
+days for elevated to critical fire weather conditions. The critical
+risk areas have been adjusted in this outlook update to reflect
+where medium to long-range ensemble guidance shows the strongest
+signal for sustained 20+ mph winds. These areas will likely be
+refined in subsequent outlooks as mesoscale details come into focus.
+Elevated conditions may linger into D7/Thursday across southern NM,
+but weakening gradient winds aloft should limit fire weather
+potential compared to previous days.
+
+..Moore.. 05/03/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/exper/fire_wx/>
 
 ---
 
@@ -633,54 +709,6 @@ LAT...LON   30130285 30890251 32380238 32890232 33020170 32930130
 
 ---
 
-## SPC Day 3-8 Fire Weather Outlook
-
-date: 2024-05-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3-8 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0353 PM CDT Wed May 01 2024
-
-Valid 031200Z - 091200Z
-
-Relatively benign fire weather conditions are expected late this
-week and over the weekend. However, by the end of the weekend and
-into early next week a strong tough is expected to develop across
-the western CONUS with strong mid-level flow across the Southwest
-and lee cyclogenesis in the Plains. This will result in several days
-of severe weather concern across portions of the southern High
-Plains.
-
-...D5/Sunday - Southern New Mexico....
-Stronger mid-level flow will start to spread east on Sunday as the
-western CONUS mid-level trough advances east. There is still some
-uncertainty with timing of this trough and slightly faster timing
-could lead to Critical fire weather conditions on Sunday.
-
-...D6/Mon-D8/Wed - Eastern New Mexico and vicinity....
-Critical fire weather conditions are likely across eastern New
-Mexico and vicinity Monday/Day6 and Tuesday/Day7 as moderate to
-strong mid-level flow overspreads the southern High Plains with a
-deeply mixed airmass and very dry surface conditions expected. These
-winds will be further supported by the tightening pressure gradient
-from cyclogenesis in the Plains. Critical fire weather conditions
-may continue for most of next week to Day 8 and beyond, but there is
-enough model uncertainty to precede 70% Critical probabilities at
-this time.
-
-..Bentley.. 05/01/2024
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/exper/fire_wx/>
-
----
-
 ## SPC May 1, 2024 2000 UTC Day 1 Convective Outlook
 
 date: 2024-05-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -1001,88 +1029,6 @@ few cumulonimbi with maximum tops to 450. Mean storm motion vector
  
 
 <https://www.spc.noaa.gov/products/watch/ww0167.html>
-
----
-
-## SPC May 1, 2024 0100 UTC Day 1 Convective Outlook
-
-date: 2024-05-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0800 PM CDT Tue Apr 30 2024
-
-Valid 010100Z - 011200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM PARTS OF THE
-SOUTHERN PLAINS NORTH-NORTHEASTWARD INTO THE UPPER MISSISSIPPI
-VALLEY...
-
-...SUMMARY...
-Severe storms, capable of large hail (possibly above 2 inches in
-diameter), damaging wind gusts, and a few tornadoes are expected
-this evening from the upper Mississippi Valley south-southwestward
-into the southern Plains.
-
-...Central Plains/Lower Missouri Valley/Upper Mississippi Valley...
-The latest surface analysis has a 1002 mb low over southwest Iowa,
-with a narrow corridor of maximized low-level moisture from near the
-low southwestward into eastern Kansas. The RAP has moderate
-instability along this corridor with MLCAPE estimated to be in the
-1500 to 3000 J/kg range. Scattered strong to severe storms are
-ongoing along and near the instability axis. These storms will
-continue to move eastward toward the upper Mississippi Valley and
-Ozarks this evening. In addition to the instability, WSR-88D VWPs
-near the instability axis from northwest Missouri southwestward into
-southeast Kansas have 0-6 km shear in the 35 to 40 knot range.
-Within this area, RAP forecast soundings suggest that 700-500 mb
-lapse rates are in the 7 to 7.5 C/km range. This will continue to be
-favorable for supercells with large hail over the next few hours.
-The more dominant supercells could produce hailstones greater than 2
-inches in diameter. Strong low-level shear was also evident on the
-WSR-88D VWPs suggesting a few tornadoes could develop. Severe wind
-gusts also could occur with supercells or short line segments. The
-severe threat is expected to continue through much of the evening,
-but should become more isolated and marginal, especially toward late
-evening.
-
-...Southern Plains...
-Westerly mid-level flow is evident on water vapor imagery over the
-southern Plains this evening. At the surface, a moist airmass exists
-throughout much of Texas and Oklahoma. Scattered thunderstorms are
-ongoing to the east of a dryline, near the western edge of the moist
-airmass, from western Oklahoma into west-central Texas. The 00Z
-soundings at Norman and Midland are showing MLCAPE in the 2000 to
-3500 J/kg range. Regional WSR-88D VWPs show moderate deep-layer
-shear over much of the southern Plains, with 0-6 km shear generally
-in the 40 to 45 knot range. This, along with 700-500 mb lapse rates
-near 7.5 C/km, will support supercell development this evening, with
-a potential for large hail. Hailstones of greater than 2 inches in
-diameter will be possible with the more intense cells. An isolated
-tornado threat could continue in southwest Oklahoma for another hour
-or so. A few damaging wind gusts could also occur. The severe threat
-should become more isolated during the mid to late evening, as a cap
-begins to build in across much of the southern Plains.
-
-...Mid-Atlantic To Far Southwest New England...
-The latest radar imagery shows a cluster of strong to severe
-thunderstorms located over far eastern Pennsylvania and northwestern
-New Jersey. This cluster was located just to the north of a 1009 mb
-low, along the northeastern edge of a pocket of maximized low-level
-moisture. Within this pocket, surface dewpoints are in the mid to
-upper 50s F, an MLCAPE is estimated to be in the 250 to 500 J/kg
-range, according to the RAP. This cluster of storms should weak, as
-it moves east-southeastward toward the coast this evening. A few
-marginally severe wind gusts will be possible.
-
-..Broyles.. 05/01/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html>
 
 ---
 

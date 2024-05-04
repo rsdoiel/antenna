@@ -1,11 +1,135 @@
 ---
 title: columns 2024.18
-updated: 2024-05-03 08:28:38
+updated: 2024-05-03 18:28:43
 ---
 
 # columns 2024.18
 
-(date: 2024-05-03 08:28:38)
+(date: 2024-05-03 18:28:43)
+
+---
+
+##  Road Snacks #2 — Jack Van Cleaf 
+
+date: 2024-05-03, updated: 2024-05-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/road-snacks-jack-van-cleaf>
+
+---
+
+## Friday Squid Blogging: Squid Purses
+
+date: 2024-05-03, updated: 2024-04-30, from: Bruce Schneier blog
+
+<p>Squid-shaped <a href="https://laughingsquid.com/sea-creature-bags-purses/">purses</a> for sale.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>
+<p>Read my blog posting guidelines <a href="https://www.schneier.com/blog/archives/2017/03/commenting_poli.html">here</a>.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/05/friday-squid-blogging-squid-purses.html>
+
+---
+
+##  Looking to relax or fall asleep? Try Sleep Baseball (aka &#8220;baseball radio... 
+
+date: 2024-05-03, updated: 2024-05-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044521-looking-to-relax-or-fall>
+
+---
+
+##  A Calming Visit to Claude Monet&#8217;s Famed Gardens in Giverny 
+
+date: 2024-05-03, updated: 2024-05-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/a-calming-visit-to-claude-monets-famed-gardens-in-giverny>
+
+---
+
+## Why Does Biological Evolution Work? A Minimal Model for Biological Evolution and Other Adaptive Processes
+
+date: 2024-05-03, from: Stephen Wolfram blog
+
+<span class="thumbnail"><img width="128" height="108" src="https://content.wolfram.com/sites/43/2024/05/bioevo-tile-1.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></span>The Model Why does biological evolution work? And, for that matter, why does machine learning work? Both are examples of adaptive processes that surprise us with what they manage to achieve. So what’s the essence of what’s going on? I’m going to concentrate here on biological evolution, though much of what I’ll discuss is also [&#8230;] 
+
+<https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/>
+
+---
+
+##  From designer Frank Chimero, a list of stuff he learned in his... 
+
+date: 2024-05-03, updated: 2024-05-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044546-from-designer-frank-chime>
+
+---
+
+## My TED Talks
+
+date: 2024-05-03, updated: 2024-05-03, from: Bruce Schneier blog
+
+<p>I have spoken at several TED conferences over the years.</p>
+<ul>
+<li>TEDxPSU 2010: &#8220;<a href="https://www.ted.com/talks/bruce_schneier_the_security_mirage?language=en">Reconceptualizing Security</a>&#8221;
+<li>TEDxCambridge 2013: &#8220;<a href="https://www.youtube.com/watch?v=h0d_QDgl3gI">The Battle for Power on the Internet</a>&#8221;
+<li>TEDMed 2016: &#8220;<a href="https://www.tedmed.com/talks/show?id=627334">Who Controls Your Medical Data</a>?&#8221;</ul>
+<p>I&#8217;m putting this here because I want all three links in one place.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/05/my-ted-talks.html>
+
+---
+
+##  Jack Kerouac&#8217;s 30-item list of Belief and Technique for Modern Prose, including... 
+
+date: 2024-05-03, updated: 2024-05-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044545-jack-kerouacs-30-item-lis>
+
+---
+
+##  The Flashlight Gun Is Peak WTF America 
+
+date: 2024-05-03, updated: 2024-05-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/the-flashlight-gun-is-peak-wtf-america>
+
+---
+
+##  From 1912 to 1952, the Olympics gave out medals for the arts... 
+
+date: 2024-05-03, updated: 2024-05-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044544-from-1912-to-1952-the>
+
+---
+
+## The soundtrack of your life
+
+date: 2024-05-03, from: Dave Winer's Scripting News
+
+<p>I've developed new appreciation for two musicians from my generation: George Harrison and Bob Dylan, thanks to the encouragement of two friends, both of whom have links to my childhood believe it or not, but who are current friends in my <a href="https://en.wiktionary.org/wiki/dotage">dotage</a> and they're both on Facebook. </p>
+<p>So my first friend said she likes <a href="https://simple.wikipedia.org/wiki/George_Harrison">George Harrison</a> the best of all the Beatles, and I thought that's weird because it really was down to Paul and John, I thought -- and then I heard this interview with George asking why he didn't explain in his memoir how he worshipped John as a kid, and George took exception, saying yeah in John's mind that's who I am, a kid who worshipped him, which I never did (says George). So now I have gone back through his music and see holy shit he really was as unique as either of the others, and he was more of a collaborator in his later life than either (of course we never got to find out how John would have evolved past 1980). And he was never going to be taken seriously by the others, so he had to get out of there to have the creative life he wanted. </p>
+<p>About Dylan, the credit goes to my local friend and <a href="https://500songs.com/podcast/song-173-all-along-the-watchtower-part-one-hes-not-the-messiah/">Andrew Hickey</a>, who focused my attention on the <i>music</i> of Dylan's songs, when I had only been focusing on the lyrics. Silly of me. He only ever wanted to be seen as a musician, not a leader of anything, and that's where the difficulty came from, and why I wasn't really interested, even though I had listened to all the Dylan songs many times, and had a few of his albums growing up. So I just played <a href="https://en.wikipedia.org/wiki/Tangled_Up_in_Blue">Tangled Up in Blue</a> and realized this has been rolling around in my mind for days, and I wasn't even aware of it.</p>
+<p>Kind of like <a href="https://en.wikipedia.org/wiki/All_Along_the_Watchtower">All Along the Watchtower</a> (another Dylan song) in <a href="https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)">Battlestar Galactica</a>, which I just heard is currently <a href="https://www.amazon.com/Battlestar-Galactica-Season-1/dp/B000UU2YKE">on Amazon</a>. I think it's time for another binge of that. ;-)</p>
+<p>Anyway, two doors open, and that's always good. You know this is why you pick your music when you're young and stay with it, because it's the soundtrack of your life, and it has new relevance at every step of your evolution. Sure I listen to other music, but -- it's the songs that were big when I was little that matter most. </p>
+ 
+
+<http://scripting.com/2024/05/03/154044.html?title=theSoundtrackOfYourLife>
 
 ---
 
@@ -41,7 +165,7 @@ date: 2024-05-03, updated: 2024-05-03, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-05-03, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/03/shootThisDog.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">One more thing. Can we please have a nice slogan we can chant at rallies saying that we think that women owning their own bodies is at least as important as everyone being <a href="https://www.google.com/search?q=armed+to+the+teeth+origin">armed to the teeth</a> so they can shoot their dogs. I think the Repubs learned something after one of their own boasted that <a href="https://www.theguardian.com/us-news/article/2024/may/02/kristi-noem-response-dog-killing">she killed her own dog</a> with a gun. They learned that Republican voters think the right to bear arms does not make them hate dogs for crying out loud and to their surprise <i>they don't endorse shooting them.</i> Maybe shooting Jews, immigrants, people of color and libruls and libtards of all flavors would probably be okay but for crying out loud not dogs!! They're so freaking cute. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/03/shootThisDog.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Can we please have a nice slogan we can chant at rallies saying that we think that women owning their own bodies is at least as important as everyone being <a href="https://www.google.com/search?q=armed+to+the+teeth+origin">armed to the teeth</a> so they can shoot their dogs. I think the Repubs learned something after one of their own boasted that <a href="https://www.theguardian.com/us-news/article/2024/may/02/kristi-noem-response-dog-killing">she killed her own dog</a> with a gun. They learned that Republican voters think the right to bear arms does not make them hate dogs and to their surprise <i>they don't endorse shooting them.</i> Maybe shooting Jews, immigrants, people of color and libruls and libtards of all flavors would probably be okay but for crying out loud not dogs!! They're so freaking cute. 
 
 <http://scripting.com/2024/05/03.html#a131429>
 
@@ -57,7 +181,7 @@ BTW, there are plenty of relatively low priced <a href="https://www.stubhub.com/
 
 **@Dave Winer's Scripting News** (date: 2024-05-03, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2019/07/02/knicks.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Since I write so <a href="https://www.google.com/search?q=site%3Ascripting.com+knicks">much</a> about the Knicks here, I need to tell you that <a href="https://www.nba.com/news/knicks-sixers-takeaways-game-6-2024-nba-playoffs">the Knicks won</a> their first round playoff series against the <a href="https://en.wikipedia.org/wiki/Philadelphia_76ers">Philadelphia team</a> last night. Almost all playoff series that aren't sweeps are intense, but this one was especially so. So we're on to the <a href="https://fox59.com/sports/pacers/schedule-released-for-pacers-knicks-playoff-series/">next round</a>, starting Monday, back in NYC, against the Indiana Pacers, an excellent team this year. And Doc Searls, who is also a Knicks fan, now lives in Indiana, so he is somewhat justified in believing the world revolves around him. I've always had that intuition. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/07/02/knicks.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Since I write so <a href="https://www.google.com/search?q=site%3Ascripting.com+knicks">much</a> about the Knicks here, I need to tell you that <a href="https://www.nba.com/news/knicks-sixers-takeaways-game-6-2024-nba-playoffs">the Knicks won</a> their first round playoff series against the <a href="https://en.wikipedia.org/wiki/Philadelphia_76ers">Philadelphia team</a> last night. Almost all playoff series that aren't sweeps are intense, but this one was especially so. So we're on to the <a href="https://fox59.com/sports/pacers/schedule-released-for-pacers-knicks-playoff-series/">next round</a>, starting Monday, back in NYC, against the Indiana Pacers, an excellent team this year. And Doc Searls, who is also a Knicks fan, now lives in Indiana, so he is somewhat justified in believing the world revolves around him. I've always had that sense about Doc. 
 
 <http://scripting.com/2024/05/03.html#a125217>
 
@@ -137,7 +261,7 @@ Maybe there will be a Summer after all In a college garden the other day. Quote 
 
 ## Apple’s Regional Segments for Financial Reporting
 
-date: 2024-05-02, updated: 2024-05-02, from: Daring Fireball
+date: 2024-05-02, updated: 2024-05-03, from: Daring Fireball
 
  
 
@@ -418,7 +542,7 @@ date: 2024-05-02, from: Dave Winer's Scripting News
 
 ## On mistaking a transient state for a permanent one
 
-date: 2024-05-02, updated: 2024-05-03, from: Charlie's Diary
+date: 2024-05-02, updated: 2024-05-04, from: Charlie's Diary
 
 It's quite apparent that right now we're seeing the build-out of a whole new communications technology that hasn't quite hit the public eye yet&mdash;ubiquitous satellite broadband and telephony. This is still in the very early stages. Right now my iPhone... 
 
@@ -1174,7 +1298,7 @@ Every Republican House election denier must pledge to certify the 2024 president
 
 ## M4 Chips in New iPad Pros?
 
-date: 2024-04-29, updated: 2024-04-29, from: Daring Fireball
+date: 2024-04-29, updated: 2024-05-03, from: Daring Fireball
 
  
 
@@ -1184,7 +1308,7 @@ date: 2024-04-29, updated: 2024-04-29, from: Daring Fireball
 
 ## David Heinemeier Hansson on the Framework 13 Laptop
 
-date: 2024-04-29, updated: 2024-04-29, from: Daring Fireball
+date: 2024-04-29, updated: 2024-05-03, from: Daring Fireball
 
  
 

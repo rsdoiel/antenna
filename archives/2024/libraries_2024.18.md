@@ -1,11 +1,22 @@
 ---
 title: libraries 2024.18
-updated: 2024-05-03 08:28:38
+updated: 2024-05-03 18:28:44
 ---
 
 # libraries 2024.18
 
-(date: 2024-05-03 08:28:38)
+(date: 2024-05-03 18:28:44)
+
+---
+
+## AI agents, bots and academic GPTs
+
+date: 2024-05-03, from: SciELO in Perspective
+
+<p>Bots and academic GPTs are based on large language models, such as ChatGPT, designed and sometimes trained for more specific tasks. The idea is that by being specialized, they will deliver better results than “generic” models. This post presents some of the bots and academic GPTs. Available in Portuguese only. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/blog/2024/05/03/agentes-de-ia-bots-e-gpts-academicos/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/blog/2024/05/03/agentes-de-ia-bots-e-gpts-academicos/#new_tab">AI agents, bots and academic GPTs</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://blog.scielo.org/blog/2024/05/03/agentes-de-ia-bots-e-gpts-academicos/#new_tab>
 
 ---
 

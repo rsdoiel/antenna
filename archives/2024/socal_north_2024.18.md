@@ -1,11 +1,226 @@
 ---
 title: socal north 2024.18
-updated: 2024-05-03 08:28:38
+updated: 2024-05-03 18:28:43
 ---
 
 # socal north 2024.18
 
-(date: 2024-05-03 08:28:38)
+(date: 2024-05-03 18:28:43)
+
+---
+
+## Album Review: Dua Lipa’s ‘Radical Optimism’ provides solid hits for fans but lacks ambition
+
+date: 2024-05-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dua Lipa is reasserting her place on the dance floor in new ways.
+The British-Albanian singer&#8217;s third studio album, &#8220;Radical Optimism,&#8221; is her first full-length project of all-new material in more than four years. 
+
+<https://dailybruin.com/2024/05/03/album-review-dua-lipas-radical-optimism-provides-solid-hits-for-fans-but-lacks-ambition/>
+
+---
+
+## A Year in Review From ASI Student Government
+
+date: 2024-05-03, from: CI View (CSCI Student Newspaper)
+
+A Letter From ASI Student Government President Daisy Navarrete and Vice-President Jazmin Guajardo Student Government would like to congratulate you on finishing the 2023-2024 academic [&#8230;] 
+
+<http://civiewnews.com/opinion/a-year-in-review-from-asi-student-government/?utm_source=rss&utm_medium=rss&utm_campaign=a-year-in-review-from-asi-student-government>
+
+---
+
+## CI Superlatives: 2023-2024
+
+date: 2024-05-03, from: CI View (CSCI Student Newspaper)
+
+Compiled by Aileen Lawrence 
+
+<http://civiewnews.com/opinion/ci-superlatives-2023-2024/?utm_source=rss&utm_medium=rss&utm_campaign=ci-superlatives-2023-2024>
+
+---
+
+## See you Later!
+
+date: 2024-05-03, from: CI View (CSCI Student Newspaper)
+
+By Ashley Tolteca and Allen Monge 
+
+<http://civiewnews.com/broadcasting/see-you-later/?utm_source=rss&utm_medium=rss&utm_campaign=see-you-later>
+
+---
+
+## Everything you Want to Know About the Commencement and Affinity Ceremonies but Didn’t Know who to Ask
+
+date: 2024-05-03, from: CI View (CSCI Student Newspaper)
+
+By Aileen Lawrence and Ashley Tolteca As the 2023-24 school year comes to a close, students are preparing for finals, moving up in grades, and [&#8230;] 
+
+<http://civiewnews.com/news/everything-you-want-to-know-about-the-commencement-and-affinity-ceremonies-but-didnt-know-who-to-ask/?utm_source=rss&utm_medium=rss&utm_campaign=everything-you-want-to-know-about-the-commencement-and-affinity-ceremonies-but-didnt-know-who-to-ask>
+
+---
+
+## Graduating Class of 2024, Congratulations to you all!
+
+date: 2024-05-03, from: CI View (CSCI Student Newspaper)
+
+Letter from Dr. Richard Yao, President of California State University Channel Islands I commend you on achieving this significant milestone in your academic journey. As [&#8230;] 
+
+<http://civiewnews.com/uncategorized/graduating-class-of-2024-congratulations-to-you-all/?utm_source=rss&utm_medium=rss&utm_campaign=graduating-class-of-2024-congratulations-to-you-all>
+
+---
+
+## UCLA softball to turn up the heat in its three-game series against Arizona State
+
+date: 2024-05-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins will head to the hot Arizona desert with a chance to win their final Pac-12 regular season championship.
+&#8220;Our team is just so excited to play and show our stuff,&#8221; said junior pitcher Mackenzie Ficke. 
+
+<https://dailybruin.com/2024/05/03/ucla-softball-to-turn-up-the-heat-in-its-three-game-series-against-arizona-state/>
+
+---
+
+## UCLA beach volleyball sweeps Texas A&M-Corpus Christi, advancing to round 2
+
+date: 2024-05-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 3 at 1:49 p.m.</em>
+Newton’s third law states that for every action there is an equal and opposite reaction.
+For No. 
+
+<https://dailybruin.com/2024/05/03/ucla-beach-volleyball-sweeps-texas-am-corpus-christi-advancing-to-round-2/>
+
+---
+
+## Film Review: The action-filled film ‘The Fall Guy’ serves as an homage to Hollywood stunt work
+
+date: 2024-05-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#8220;The Fall Guy&#8221; is an all-out, action-packed romantic comedy that doesn&#8217;t jump the shark.
+Directed by David Leitch and released in theaters Friday, &#8220;The Fall Guy&#8221; is not only a love letter to classic Hollywood stunt work, but to lifelong movie fans as well. 
+
+<https://dailybruin.com/2024/05/03/film-review-the-action-filled-film-the-fall-guy-serves-as-an-homage-to-hollywood-stunt-work/>
+
+---
+
+## Gallery: Remnants of pro-Palestine encampment fill Dickson Plaza in wake of police sweep
+
+date: 2024-05-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Early Thursday morning, police breached the pro-Palestian encampment which led to the use of less-than-lethal weapons against protesters, hundreds of arrests and a full dismantling of the encampment. 
+
+<https://dailybruin.com/2024/05/03/gallery-remnants-of-pro-palestine-encampment-fill-dickson-plaza-in-wake-of-police-sweep/>
+
+---
+
+## SGA Attempts to Raise Student Life Fee
+
+date: 2024-05-03, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>On April 10th, the Student Government Association rejected a proposal to raise the Campus Life Fee. Freshman Class President Abner Martinez and Student Body President Michael Sugimoto, the co-authors of this proposal, argued that it was necessary to raise the fee due to its not having been raised from its current amount of $252 since [&#8230;]</p>
+<p>The post <a href="https://pepperdinebeacon.com/sga-attempts-to-raise-student-life-fee/">SGA Attempts to Raise Student Life Fee</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+ 
+
+<https://pepperdinebeacon.com/sga-attempts-to-raise-student-life-fee/?utm_source=rss&utm_medium=rss&utm_campaign=sga-attempts-to-raise-student-life-fee>
+
+---
+
+## A Beacon Perspective: We Must Stand with Israel
+
+date: 2024-05-03, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>From Oct. 7 through today, I experienced much support from the Pepperdine community, and I am so thankful for being at this university during these times. We must never forget the horrific atrocities of the Oct. 7 ambush, this month’s Iranian attack, and the growth in anti-semitism across “elite” universities like Columbia, USC, Yale, and [&#8230;]</p>
+<p>The post <a href="https://pepperdinebeacon.com/a-beacon-perspective-we-must-stand-with-israel/">A Beacon Perspective: We Must Stand with Israel</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+ 
+
+<https://pepperdinebeacon.com/a-beacon-perspective-we-must-stand-with-israel/?utm_source=rss&utm_medium=rss&utm_campaign=a-beacon-perspective-we-must-stand-with-israel>
+
+---
+
+## Ed Schilling and Katie Faulkner to Be New Head Pepperdine Basketball Coaches
+
+date: 2024-05-03, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>Ed Schilling is hired as the Men’s Basketball Head Coach After an extensive search for a head coach for Pepperdine’s Basketball team, Ed Schilling was hired for the role to develop a team culture conducive to success. On April 3 at Schilling’s public introduction, President Gash and Director of Athletics Tom Gardner spoke on Schilling’s [&#8230;]</p>
+<p>The post <a href="https://pepperdinebeacon.com/ed-schilling-and-katie-faulkner-to-be-new-head-pepperdine-basketball-coaches/">Ed Schilling and Katie Faulkner to Be New Head Pepperdine Basketball Coaches</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+ 
+
+<https://pepperdinebeacon.com/ed-schilling-and-katie-faulkner-to-be-new-head-pepperdine-basketball-coaches/?utm_source=rss&utm_medium=rss&utm_campaign=ed-schilling-and-katie-faulkner-to-be-new-head-pepperdine-basketball-coaches>
+
+---
+
+## A new standard in Avalon boys volleyball
+
+date: 2024-05-03, from: Catalina Islander
+
+For the first time in Avalon boys’ volleyball history the Lancers have advanced to the CIF Southern Section Semifinals where they will take on the Calvary Chapel Downey. The time and date was yet to be determined as of press time. “I am really excited for this team, our school and community. I’m excited for [&#8230;] 
+
+<https://thecatalinaislander.com/a-new-standard-in-avalon-boys-volleyball/>
+
+---
+
+## Sheriff’s Log: April 25 to May 1, 2024
+
+date: 2024-05-03, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period April 25 to May 1, 2024.All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. April 26 [&#8230;] 
+
+<https://thecatalinaislander.com/sheriffs-log-april-25-to-may-1-2024/>
+
+---
+
+## Mrs. Montage 2nd Grade Class ’71-72
+
+date: 2024-05-03, from: Catalina Islander
+
+Some long-time islanders might recognize some of these kids. they might even find themselves among the youngsters who were in Mrs. Montage’s (sorry Mrs. Montage, we couldn’t fit you in the photo). second-grade class in 1971-72. Tell us who you recognize (row 1, at bottom, through 5) and let’s see who we can find. Send [&#8230;] 
+
+<https://thecatalinaislander.com/mrs-montage-2nd-grade-class-71-72/>
+
+---
+
+## Earth Day Cleanup
+
+date: 2024-05-03, from: Catalina Islander
+
+This month, just three volunteers worked hard to pull 29.66 lbs. of debris from the Avalon community. This event was made better by Avalon Public Works crew setting up tables and passing out information about waste management and recycling in town. The volunteers included Love Catalina Island CEO Jim Luttjohann. Download QR 
+
+<https://thecatalinaislander.com/earth-day-cleanup/>
+
+---
+
+## Lawmakers May Tussle With University Of California Over Undocumented Students, But Their Power Is Limited
+
+date: 2024-05-03, updated: 2024-05-03, from: The LAist
+
+The University of California has refused to extend employment benefits to undocumented students, setting up a clash with state lawmakers. They have had tensions before. 
+
+<https://laist.com/news/education/university-of-california-compelling-napolitano-brown-drake-history>
+
+---
+
+## Decades in the Making: Reflections on the Permanent Protection of Molok Luyuk
+
+date: 2024-05-03, from: California Native Plants Society
+
+<p>CNPS Conservation Director Nick Jensen reflects on the decades-long journey to protect Molok Luyuk forever.</p>
+<p>The post <a href="https://www.cnps.org/conservation/decades-in-the-making-reflections-on-the-permanent-protection-of-molok-luyuk-38424">Decades in the Making: Reflections on the Permanent Protection of Molok Luyuk</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/conservation/decades-in-the-making-reflections-on-the-permanent-protection-of-molok-luyuk-38424>
+
+---
+
+## Front Row Center to Present “Lone Star, Laundry, and Bourbon”
+
+date: 2024-05-03, from: City of Santa Clarita
+
+<p>Step into the Heart of 1970s Texas at The MAIN Experience two classic one-act comedies by James McLure that dive deep into the lives of small-town folks navigating the aftermath of the Vietnam War. “Lone Star, Laundry, and Bourbon” takes place in the small town of Maynard, Texas in the 1970s. In these acts, the [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/05/03/front-row-center-to-present-lone-star-laundry-and-bourbon/">Front Row Center to Present “Lone Star, Laundry, and Bourbon”</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/05/03/front-row-center-to-present-lone-star-laundry-and-bourbon/>
 
 ---
 
@@ -38,16 +253,6 @@ date: 2024-05-03, from: The Daily Bruin (UCLA Student Newspaper)
 After Chancellor Gene Block declared Tuesday that the Palestine solidarity encampment was “unlawful,” pro-Israel counter-protesters attempted to storm the encampment in a violent attack that same night. 
 
 <https://dailybruin.com/2024/05/03/gallery-counter-protesters-attack-police-clear-pro-palestine-encampment-at-ucla/>
-
----
-
-## In Photos: A nation shaken by camps for Gaza
-
-date: 2024-05-03, from: The Daily Bruin (UCLA Student Newspaper)
-
-Encampments and protests in solidarity with Palestine swept through college campuses in recent weeks. The Daily Trojan, the Daily Bruin, the Emory Wheel, The Daily Californian, Washington Square News, the Berkeley Beacon and the Daily Texan came together and compiled a photo essay depicting the student movements unfolding across the nation. 
-
-<https://dailytrojan.com/2024/05/02/in-photos-a-nation-shaken-by-camps-for-gaza/>
 
 ---
 
@@ -227,6 +432,18 @@ date: 2024-05-02, from: The Daily Bruin (UCLA Student Newspaper)
 This three-part series explores the causes and consequences of extremism in the online world. In this episode, Podcasts contributors Izzy Greig and Ciara Terry discuss how technology can foster extremism. 
 
 <https://dailybruin.com/2024/05/02/code-red-episode-2/>
+
+---
+
+## In Photos: A nation shaken by camps for Gaza
+
+date: 2024-05-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A first-of-its-kind collaborative photo essay, compiled from seven student-run newspapers across the country.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/02/in-photos-a-nation-shaken-by-camps-for-gaza/">In Photos: A nation shaken by camps for Gaza</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/02/in-photos-a-nation-shaken-by-camps-for-gaza/>
 
 ---
 

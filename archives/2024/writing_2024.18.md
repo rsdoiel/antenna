@@ -1,11 +1,47 @@
 ---
 title: writing 2024.18
-updated: 2024-05-03 08:28:38
+updated: 2024-05-03 18:28:43
 ---
 
 # writing 2024.18
 
-(date: 2024-05-03 08:28:38)
+(date: 2024-05-03 18:28:43)
+
+---
+
+## ⚔️💻 #199 - Hack and Backslash
+
+date: 2024-05-03, from: Interesting, a blog on writing
+
+I'm in. 
+
+<https://inneresting.substack.com/p/199-hack-and-backslash>
+
+---
+
+## Locus Awards Coming Up in June!
+
+date: 2024-05-03, from: Locus Magazine
+
+<p>Join MC Henry Lien and special guest Connie Willis at the 2024 Locus Awards, June 19-22, 2024. Get your tickets now. Online or in-person, we can’t wait to see you!</p>
+<p><strong>WEDNESDAY – FRIDAY:</strong> We’ll kick off the event with a series of online readings in the evenings starting Wednesday, June 19, with several readers each evening and a Q&#38;A, and an online meetup<strong>.</strong></p>
+<p><strong>SATURDAY</strong>: Saturday will have several  <a href="https://locusmag.com/2024/05/locus-awards-coming-up-in-june/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/locus-awards-coming-up-in-june/>
+
+---
+
+## Charles Payseur Reviews Short Fiction: Reckoning, F&SF, Strange Horizons and Worlds of Possibility
+
+date: 2024-05-03, from: Locus Magazine
+
+<p>Reckoning Spring ’24
+F&#38;SF 1-2/24
+Strange Horizons 1/29/24, 2/5/24, 2/12/24
+Worlds of Possibility 2/24</p>
+<p>The new year brings a new issue of Reckon­ing, featuring poetry, fiction, and nonfic­tion focused on issues of environmental justice. <strong>Kelsey Day </strong>is among the poets compli­cating and keenly describing the intersections of ecological and social violation in “<strong>50% off Venus Fly Traps</strong>”, which finds a person plant shopping and running into the ways  <a href="https://locusmag.com/2024/05/charles-payseur-reviews-short-fiction-reckoning-fsf-strange-horizons-and-worlds-of-possibility/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/charles-payseur-reviews-short-fiction-reckoning-fsf-strange-horizons-and-worlds-of-possibility/>
 
 ---
 
@@ -19,6 +55,19 @@ date: 2024-05-03, from: Final Draft blog
 <p><span>Known as a go-to writer for&nbsp;</span><a href="https://screencraft.org/blog/script-apart-dune-screenwriter-eric-roth-on-mastering-any-genre/"><span>the genre</span></a><span>, showrunner Eric&nbsp;</span><span>Wallace’s</span><span> journey into television started as a 6-year-old really into horror movies, <span style="font-style: italic;">Godzilla</span> and <span style="font-style: italic;">Frankenstein</span>. That passion has taken him from fun childhood filmmaking to show running. Wallace recalled, </span>“I&nbsp;started&nbsp;to obsessively study horror movies&nbsp;and&nbsp;when I was&nbsp;twelve&nbsp;I&nbsp;co-wrote my first screenplay on notebook paper.”</p> 
 
 <https://blog.finaldraft.com/finding-your-lane-with-the-flash-showrunner-eric-wallace>
+
+---
+
+## Bricks of Breaking In: 'The Flash' Writer Eric Wallace on Adaptability
+
+date: 2024-05-03, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/bricks-of-breaking-in-the-flash-writer-eric-wallace" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/The%20Flash.jpeg" alt="Barry Allen/The Flash (Grant Gustin) running in 'The Flash,' Finding Your Lane With 'The Flash' Showrunner Eric Wallace" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>Known as a go-to writer for&nbsp;</span><a href="https://screencraft.org/blog/script-apart-dune-screenwriter-eric-roth-on-mastering-any-genre/"><span>the genre</span></a><span>, showrunner Eric&nbsp;</span><span>Wallace’s</span><span> journey into television started as a 6-year-old really into horror movies, <span style="font-style: italic;">Godzilla</span> and <span style="font-style: italic;">Frankenstein</span>. That passion has taken him from fun childhood filmmaking to show running. Wallace recalled, </span>“I&nbsp;started&nbsp;to obsessively study horror movies&nbsp;and&nbsp;when I was&nbsp;twelve&nbsp;I&nbsp;co-wrote my first screenplay on notebook paper.”</p> 
+
+<https://blog.finaldraft.com/bricks-of-breaking-in-the-flash-writer-eric-wallace>
 
 ---
 

@@ -1,11 +1,101 @@
 ---
 title: games 2024.18
-updated: 2024-05-03 08:28:38
+updated: 2024-05-03 18:28:43
 ---
 
 # games 2024.18
 
-(date: 2024-05-03 08:28:38)
+(date: 2024-05-03 18:28:43)
+
+---
+
+## Netflix’s Unfrosted, Turtles All The Way Down, and every new movie to watch at home this weekend
+
+date: 2024-05-03, updated: 2024-05-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/5/3/24144250/new-movies-watch-unfrosted-netflix-turtles-all-the-way-down-prom-dates>
+
+---
+
+## How to get a lightsaber in Star Wars Lego Fortnite
+
+date: 2024-05-03, updated: 2024-05-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/lego-fortnite-guides/24148307/lightsaber-how-to-get-star-wars-rebel-outpost>
+
+---
+
+## Apex Legends’ new character goes full Harley Quinn
+
+date: 2024-05-03, updated: 2024-05-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24148363/apex-legends-season-21-upheaval-alter-new-character>
+
+---
+
+## How to get retinue in Manor Lords
+
+date: 2024-05-03, updated: 2024-05-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/manor-lords-guides/24148367/retinue-how-to-get-customize-increase-fix-missing-recruits>
+
+---
+
+## The animated sci-fi mystery Mars Express aims high and lands among the stars
+
+date: 2024-05-03, updated: 2024-05-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24147524/mars-express-movie-review-sci-fi-french-animation>
+
+---
+
+## Hades is on sale for its lowest price ever? Hell yes!
+
+date: 2024-05-03, updated: 2024-05-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24148083/hades-steam-supergiant-gaming-deal-sale>
+
+---
+
+## Dropout’s newest game show asks who wants to be a... thousandaire?
+
+date: 2024-05-03, updated: 2024-05-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24148149/dropout-thousandaires-release-date-premiere-trailer>
+
+---
+
+## George R.R. Martin to Game of Thrones fans: Indulge in King Robert’s Crown Roast
+
+date: 2024-05-03, updated: 2024-05-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24146486/game-thrones-recipes-cookbook-george-rr-martin-food>
+
+---
+
+## Where to find Darth Vader and Chewbacca in Fortnite’s Star Wars update
+
+date: 2024-05-03, updated: 2024-05-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/fortnite-guide/24147999/darth-vader-chewbacca-location-imperial-roadblock-stormtroopers-star-wars>
 
 ---
 

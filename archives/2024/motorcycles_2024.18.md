@@ -1,11 +1,31 @@
 ---
 title: motorcycles 2024.18
-updated: 2024-05-03 08:28:39
+updated: 2024-05-03 18:28:44
 ---
 
 # motorcycles 2024.18
 
-(date: 2024-05-03 08:28:39)
+(date: 2024-05-03 18:28:44)
+
+---
+
+## 2024 Husqvarna Svartpilen 801 First Ride Review
+
+date: 2024-05-03, from: Cycle World News
+
+Husqvarna’s product line has benefited from its place under the Pierer Mobility umbrella. The Svartpilen 801 gets a big upgrade with the flexible LC8c engine. 
+
+<https://www.cycleworld.com/motorcycle-reviews/husqvarna-svartpilen-801-first-ride-review/>
+
+---
+
+## This Pro Mountain Biker's Polaris XPEDITION Is One Slick Off-Roader
+
+date: 2024-05-03, from: Ride Apart, Electric Motorcycle News
+
+You can really do anything with these rigs.  
+
+<https://www.rideapart.com/news/718295/brandon-semenuk-polari-xpedition-utv-draco/>
 
 ---
 

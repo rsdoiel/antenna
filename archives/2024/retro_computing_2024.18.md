@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.18
-updated: 2024-05-03 08:28:39
+updated: 2024-05-03 18:28:44
 ---
 
 # retro computing 2024.18
 
-(date: 2024-05-03 08:28:39)
+(date: 2024-05-03 18:28:44)
+
+---
+
+## Blade Runner
+
+date: 2024-05-03, from: Digital Antiquarian
+
+Blade Runner has set me thinking about the notion of a &#8220;critical consensus.&#8221; Why should we have such a thing at all, and why should it change over time? Ridley Scott&#8217;s 1982 film Blade Runner is an adaptation of Philip K. Dick&#8217;s 1968 novel Do Androids Dream of Electric Sheep?, about a police officer cum [&#8230;] 
+
+<https://www.filfre.net/2024/05/blade-runner/>
 
 ---
 
