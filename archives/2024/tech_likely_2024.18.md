@@ -1,11 +1,11 @@
 ---
 title: tech likely 2024.18
-updated: 2024-05-03 18:28:43
+updated: 2024-05-03 21:06:26
 ---
 
 # tech likely 2024.18
 
-(date: 2024-05-03 18:28:43)
+(date: 2024-05-03 21:06:26)
 
 ---
 
@@ -351,6 +351,19 @@ A low-code solution is a simple way to offer some flexibility for your users. Ho
 
 ---
 
+## AWS | Crossaccount IAM role assumption
+
+date: 2024-05-03, from: Memo Garcia blog
+
+In AWS, in order to access resources in other accounts without creating new users or handling passwords, you can use sts:AssumeRole.
+Let&rsquo;s say that you have some resources in AccountA (AWS Managed Prometheus for example) that you want to access from AccountB
+Account A In AccountA create a role account_a_role that has 2 types of policies:
+a Trust Relationship that define which entities can assume this role { &#34;Version&#34;: &#34;2012-10-17&#34;, &#34;Statement&#34;: [ { &#34;Sid&#34;: &#34;AllowAssumeRoleFromAccountB&#34;, &#34;Effect&#34;: &#34;Allow&#34;, &#34;Principal&#34;: { &#34;AWS&#34;: &#34;arn:aws:iam::ACCOUNT_B_ID:role/account_b_role&#34; }, &#34;Action&#34;: &#34;sts:AssumeRole&#34; } ] } You can also set Conditions to filter which entities can AssumeRole and even configure AssumeRoleWithWebIdentity for users who have been authenticated with a web identity provider. 
+
+<https://memo.mx/posts/aws-iam-crossaccount-roles/>
+
+---
+
 ##  From 1912 to 1952, the Olympics gave out medals for the arts... 
 
 date: 2024-05-03, updated: 2024-05-03, from: Jason Kottke blog
@@ -553,7 +566,7 @@ date: 2024-05-03, from: Memo Garcia blog
 For me, lateral thinking is:
 Solving problems using an indirect and creative approach. Using reasoning that is not immediately obvious and involving ideas that might not be obtainable by using traditional step-by-step logic.
 One &ldquo;simple&rdquo; approach to &ldquo;think outside the box&rdquo; is:
-Understanding WHAT you want to achieve. Understanding WHY you want to achieve it. Knowing the rules of the game constraints like environment, budget, physical limitations, etc. Reframing WHAT you want in a way that ignores these rules of the game. 
+Understanding WHAT you want to achieve. Understanding WHY you want to achieve it. Knowing the rules of the game (constraints like environment, budget, physical limitations, etc.) Reframing WHAT you want in a way that ignores these rules of the game. 
 
 <https://memo.mx/posts/lateral-thinking/>
 

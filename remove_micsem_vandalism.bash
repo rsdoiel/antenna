@@ -16,6 +16,8 @@ function clean_file() {
 #
 # Main
 #
+
+#sqlite3 pacific.skim "delete from items where link like '%://micsem.org%';"
 find . -type f | grep -E '.md$' | while read -r FNAME; do
 	CHECK=$(grep '://micsem.org' "${FNAME}")
 	if [ "$CHECK" != "" ]; then
@@ -23,7 +25,6 @@ find . -type f | grep -E '.md$' | while read -r FNAME; do
 		clean_file "${FNAME}"
 	fi
 done
-
-sqlite3 pacific.skim "delete from items where link like '://micsem.org'"
-make pacific.txt
-
+#make pacific
+#make html
+#make archives

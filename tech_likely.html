@@ -35,7 +35,7 @@
 Items collected from feeds in <a href="tech_likely.txt">tech_likely.txt</a>
 </div>
 <h1 id="tech-likely-2024.18">tech likely 2024.18</h1>
-<p>(date: 2024-05-03 18:28:43)</p>
+<p>(date: 2024-05-03 21:06:26)</p>
 <hr />
 <h2 id="road-snacks-2-jack-van-cleaf">Road Snacks #2 — Jack Van
 Cleaf</h2>
@@ -751,6 +751,24 @@ escape hatch makes most sense.</p>
 <p><a href="https://deno.com/blog/low-code-needs-an-escape-hatch"
 class="uri">https://deno.com/blog/low-code-needs-an-escape-hatch</a></p>
 <hr />
+<h2 id="aws-crossaccount-iam-role-assumption">AWS | Crossaccount IAM
+role assumption</h2>
+<p>date: 2024-05-03, from: Memo Garcia blog</p>
+<p>In AWS, in order to access resources in other accounts without
+creating new users or handling passwords, you can use sts:AssumeRole.
+Let’s say that you have some resources in AccountA (AWS Managed
+Prometheus for example) that you want to access from AccountB Account A
+In AccountA create a role account_a_role that has 2 types of policies: a
+Trust Relationship that define which entities can assume this role {
+"Version": "2012-10-17", "Statement": [ { "Sid":
+"AllowAssumeRoleFromAccountB", "Effect": "Allow", "Principal": { "AWS":
+"arn:aws:iam::ACCOUNT_B_ID:role/account_b_role" }, "Action":
+"sts:AssumeRole" } ] } You can also set Conditions to filter which
+entities can AssumeRole and even configure AssumeRoleWithWebIdentity for
+users who have been authenticated with a web identity provider.</p>
+<p><a href="https://memo.mx/posts/aws-iam-crossaccount-roles/"
+class="uri">https://memo.mx/posts/aws-iam-crossaccount-roles/</a></p>
+<hr />
 <h2
 id="from-1912-to-1952-the-olympics-gave-out-medals-for-the-arts">From
 1912 to 1952, the Olympics gave out medals for the arts…</h2>
@@ -1416,9 +1434,9 @@ creative approach. Using reasoning that is not immediately obvious and
 involving ideas that might not be obtainable by using traditional
 step-by-step logic. One “simple” approach to “think outside the box” is:
 Understanding WHAT you want to achieve. Understanding WHY you want to
-achieve it. Knowing the rules of the game constraints like environment,
-budget, physical limitations, etc. Reframing WHAT you want in a way that
-ignores these rules of the game.</p>
+achieve it. Knowing the rules of the game (constraints like environment,
+budget, physical limitations, etc.) Reframing WHAT you want in a way
+that ignores these rules of the game.</p>
 <p><a href="https://memo.mx/posts/lateral-thinking/"
 class="uri">https://memo.mx/posts/lateral-thinking/</a></p>
 <hr />

@@ -1,17 +1,17 @@
 ---
 title: weather 2024.18
-updated: 2024-05-03 18:28:43
+updated: 2024-05-03 21:06:27
 ---
 
 # weather 2024.18
 
-(date: 2024-05-03 18:28:43)
+(date: 2024-05-03 21:06:27)
 
 ---
 
 ## SPC Day 3-8 Fire Weather Outlook
 
-date: 2024-05-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-05-03, from: NOAA Weather Forecasts
 
 <br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 3-8 Fire Weather Outlook  
