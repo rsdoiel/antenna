@@ -41,3 +41,9 @@ https://www.vintagecomputing.com/index.php/feed "~Vintage Computing"
 https://computerhistory.org/stories/feed/ "~Computer History: Stores"
 https://computeradsfromthepast.substack.com/feed "~Computer ads from the Past"
 https://www.filfre.net/feed/ "~Digital Antiquarian"
+
+# Misc, uncategorized
+https://happymacs.wordpress.com/feed/ "~Happy Macs site"
+
+# Magazines
+https://www.linux-magazine.com/rss/feed/lmi_news "~Linux Magazine"

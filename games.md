@@ -1,11 +1,111 @@
 ---
 title: games 2024.19
-updated: 2024-05-06 07:53:56
+updated: 2024-05-07 14:00:18
 ---
 
 # games 2024.19
 
-(date: 2024-05-06 07:53:56)
+(date: 2024-05-07 14:00:18)
+
+---
+
+## Save $56 on an annual Game Pass Ultimate subscription through Woot
+
+date: 2024-05-07, updated: 2024-05-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24151394/woot-game-pass-ultimate-xbox-pc-deal-sale>
+
+---
+
+## Round out your D&D collection with these Amazon deals
+
+date: 2024-05-07, updated: 2024-05-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24151253/amazon-dungeons-and-dragons-tabletop-deal-sale>
+
+---
+
+## Hades 2 is all about witches and feminine power
+
+date: 2024-05-07, updated: 2024-05-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24151266/hades-2-early-access-content-hecate-scylla-bosses>
+
+---
+
+## How to get Thavnairian Onions in FFXIV
+
+date: 2024-05-07, updated: 2024-05-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24126259/thavnairian-onions-how-to-get-garden-plant-crossbreed-grow-quests>
+
+---
+
+## For Brad and Fiona Dourif, Chucky is a ‘family business’
+
+date: 2024-05-07, updated: 2024-05-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24150367/chucky-brad-dourif-fiona-interview-tv-show>
+
+---
+
+## D&D’s last 5th edition campaign has some of the best maps of this generation
+
+date: 2024-05-07, updated: 2024-05-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24151075/dnd-dungeons-dragons-vecna-eve-of-ruin-maps>
+
+---
+
+## A People’s History of Dwayne ‘The Rock’ Johnson
+
+date: 2024-05-07, updated: 2024-05-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24150495/dwayne-the-rock-johnson-history>
+
+---
+
+## How to claim a Loot Island capture point in Fortnite
+
+date: 2024-05-07, updated: 2024-05-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/fortnite-guide/23989157/floating-island-claim-capture-point-location-loot-island>
+
+---
+
+## Microsoft closing Redfall, Hi-Fi Rush studios among other cuts
+
+date: 2024-05-07, updated: 2024-05-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24151045/microsoft-xbox-studio-closures-tango-gameworks-arkane-austin-redfall>
+
+---
+
+## Nintendo finally admits it’s making the Switch 2
+
+date: 2024-05-07, updated: 2024-05-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24151013/nintendo-switch-2-direct-announcement-teaser>
 
 ---
 

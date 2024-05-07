@@ -1,11 +1,205 @@
 ---
 title: socal north 2024.19
-updated: 2024-05-06 07:53:55
+updated: 2024-05-07 14:00:18
 ---
 
 # socal north 2024.19
 
-(date: 2024-05-06 07:53:55)
+(date: 2024-05-07 14:00:18)
+
+---
+
+## Home-court advantage: UCLA women’s tennis stands undefeated at LATC
+
+date: 2024-05-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Winning expectations loom at home.
+That pressure &#8211; ever-burdensome for those in the spotlight &#8211; can break teams. If it is indeed felt in Westwood, it has only bent the Bruins. 
+
+<https://dailybruin.com/2024/05/07/home-court-advantage-ucla-womens-tennis-stands-undefeated-at-latc/>
+
+---
+
+## CSUN Softball storms back from behind to sweep the Tritons on Senior Night
+
+date: 2024-05-07, from: The Sundail (CSUN Student Newspaper)
+
+In a game of immense importance, CSUN staged a comeback in their final home game of the season on senior night, securing a significant victory over the Tritons of UC... 
+
+<https://sundial.csun.edu/181633/sports/csun-softball-storms-back-from-behind-to-sweep-the-tritons-on-senior-night/>
+
+---
+
+## LAUSD's School Board Is Remaking Its Website, And Wants Public Input
+
+date: 2024-05-07, updated: 2024-05-07, from: The LAist
+
+The Los Angeles Unified School District Board of Education is getting a new website and wants the public’s help to shape it. 
+
+<https://laist.com/news/education/lausd-board-website-public-input-los-angeles-unified-school-district>
+
+---
+
+## Jewish American Heritage Month: Recommended books and movies
+
+date: 2024-05-07, from: CSUN Library Blog, Cited
+
+<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2024/05/Copy-of-Untitled-Design1.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" style="margin-bottom: 15px;" fetchpriority="high" /></div>In celebration of Jewish American Heritage Month, the University Library invites our students and community to explore the below recommendations, including documentaries, feature films, readings,&#8230; 
+
+<https://library.csun.edu/blogs/cited/2024/05/07/jewish-american-heritage-month-2024-recommended-books-and-movies/>
+
+---
+
+## Op-ed: We deserve clarity on Gene Block’s failure to maintain a safe campus environment
+
+date: 2024-05-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+We are writing as UCLA community members to express our disappointment in Chancellor Gene Block’s leadership of our campus during the recent violence. On Thursday, Block’s campuswide email demonstrated that he has learned the wrong lessons about how these protests have been managed. 
+
+<https://dailybruin.com/2024/05/06/op-ed-we-deserve-clarity-on-gene-blocks-failure-to-maintain-a-safe-campus-environment/>
+
+---
+
+## Editorial Cartoon: “Swing Quarter”
+
+date: 2024-05-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<https://dailybruin.com/2024/05/06/editorial-cartoon-swing-quarter/>
+
+---
+
+## Bruin to Bruin: Lauren Barnes
+
+date: 2024-05-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Professional soccer player and UCLA alumnus Lauren Barnes discusses her career and advice for UCLA students with Podcasts contributor Aidan Teeger. 
+
+Aidan Teeger: Welcome back to Bruin to Bruin. 
+
+<https://dailybruin.com/2024/05/06/bruin-to-bruin-lauren-barnes/>
+
+---
+
+## UCLA softball sweeps Arizona State to clinch last-ever Pac-12 regular season title
+
+date: 2024-05-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+For the 13th time in Pac-12 history, the Bruins were named regular season champions &#8211; solidifying the program as the most victorious in conference history.
+Claiming the Pac-12 regular season crown, No. 
+
+<https://dailybruin.com/2024/05/06/ucla-softball-sweeps-arizona-state-to-clinch-last-ever-pac-12-regular-season-title/>
+
+---
+
+## Bruin to Bruin: Yoni Fogelman
+
+date: 2024-05-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Classical composer and UCLA student Yoni Fogelman sits down with Podcasts contributor Olivia Miller to discuss his work and advice for UCLA students. 
+
+Olivia Miller: My name is Olivia Miller and I am a podcast contributor at the Daily Bruin. 
+
+<https://dailybruin.com/2024/05/06/bruin-to-bruin-yoni-fogelman/>
+
+---
+
+## Faculty members express mixed reactions to police sweep of encampment
+
+date: 2024-05-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Faculty members expressed mixed feelings in reaction to Thursday morning&#8217;s police sweep of the Palestine solidarity encampment at UCLA.
+After a violent attack from counter-protesters on the encampment Tuesday night, UCPD and LAPD ordered protesters within the Dickson Plaza encampment &#8211; which had been in place since April 25 &#8211; to disperse or face arrest late Wednesday afternoon. 
+
+<https://dailybruin.com/2024/05/06/faculty-members-express-mixed-reactions-to-police-sweep-of-encampment/>
+
+---
+
+## Op-ed: Peace cannot be achieved by disregarding dual narrative of pro-Palestine movement
+
+date: 2024-05-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+In response to the shocking and terrifying violence of counter-protesters Tuesday night, some close friends, classmates and I joined hundreds of other students outside of the Palestine solidarity encampment Wednesday night. 
+
+<https://dailybruin.com/2024/05/06/op-ed-peace-cannot-be-achieved-by-disregarding-dual-narrative-of-pro-palestine-movement/>
+
+---
+
+## Op-ed: As an alumnus, I demand that UCLA admin hold Zionist mob accountable for attacks
+
+date: 2024-05-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+On April 28, a racist, Zionist mob verbally and physically assaulted students who were calling for UCLA to divest from companies that profit from Israel’s genocide in Gaza that has killed over 34,000 Palestinians. 
+
+<https://dailybruin.com/2024/05/06/op-ed-as-an-alumnus-i-demand-that-ucla-admin-hold-zionist-mob-accountable-for-attacks/>
+
+---
+
+## UCLA baseball clinches series victory over Cal State Fullerton
+
+date: 2024-05-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA secured a series victory over USC one month ago.
+And it wasn&#8217;t until Sunday that the Bruins repeated their fortune.
+&#8220;We&#8217;ve had chances to win a few series,&#8221; said coach John Savage. 
+
+<https://dailybruin.com/2024/05/06/ucla-baseball-clinches-victory-over-cal-state-fullerton-ends-losing-streak/>
+
+---
+
+## United Auto Workers Local 4811 announces strike authorization vote
+
+date: 2024-05-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 6 at 4:28 p.m.</em>
+For the Daily Bruin’s full coverage of the UC Divest Coalition and Students for Justice in Palestine encampment, see here. 
+
+<https://dailybruin.com/2024/05/06/united-auto-workers-local-4811-announces-strike-authorization-vote/>
+
+---
+
+## Let’s go surfin’ – LA Waves
+
+date: 2024-05-06, from: The Sundail (CSUN Student Newspaper)
+
+Whether you&#8217;re a beginner bracing the whitewater or a semi-pro doing aerials off the wave lip, here&#8217;s an easy breakdown for anyone looking to surf around Southern California. 1. Surfrider,... 
+
+<https://sundial.csun.edu/181583/arts-entertainment/lets-go-surfin-la-waves/>
+
+---
+
+## Media Nitpicking: Which tragedy is worse?
+
+date: 2024-05-06, from: The Sundail (CSUN Student Newspaper)
+
+America. Home of the brave, land of the free, or something along those lines. Our country, while it has had many great attributions over the years, has suffered many tragedies.... 
+
+<https://sundial.csun.edu/181580/opinions/media-nitpicking-which-tragedy-is-worse/>
+
+---
+
+## “From the Sweet Flypaper of Life” Art Exhibition at the Old Town Newhall Library Branch
+
+date: 2024-05-06, from: City of Santa Clarita
+
+<p>Explore Photography That Answers: “What Makes a Home, Home?” The City of Santa Clarita is excited to announce the upcoming exhibition, “From the Sweet Flypaper of Life,” featuring the remarkable works of high school students enrolled in the CalArts Community Arts Partnership (CAP) Photography Lab Program. This exhibition will be on display at the Old [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/05/06/from-the-sweet-flypaper-of-life-art-exhibition-at-the-old-town-newhall-library-branch/">&#8220;From the Sweet Flypaper of Life&#8221; Art Exhibition at the Old Town Newhall Library Branch</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/05/06/from-the-sweet-flypaper-of-life-art-exhibition-at-the-old-town-newhall-library-branch/>
+
+---
+
+## 43 individuals arrested in Parking Structure 2 before pro-Palestine sit-in, rally
+
+date: 2024-05-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 6 at 1:05 p.m.</em>
+This is a developing story. Follow along for updates.
+For the Daily Bruin’s full coverage on the UC Divest Coalition and Students for Justice in Palestine at UCLA encampment, see here. 
+
+<https://dailybruin.com/2024/05/06/pro-palestine-protesters-detained-by-police-after-calls-for-moore-hall-sit-in/>
 
 ---
 
@@ -214,6 +408,18 @@ John Savage wasn&#8217;t the only storied baseball coach to call a team meeting.
 Earlier this week, Los Angeles Angels Manager Ron Washington rallied his squad after a blowout loss. 
 
 <https://dailybruin.com/2024/05/05/consistent-pitching-from-ucla-baseball-helps-knot-cal-state-fullerton-series/>
+
+---
+
+## Celebrate 45 Years of Santa Clarita Dodger Day!
+
+date: 2024-05-05, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin Warmer weather, longer days and the sound of baseball is officially back! As a longtime Dodger fan, some of my favorite memories have been taking my family to Chavez Ravine to enjoy a game. From the sound of the thousands of fans cheering in the stadium, to enjoying garlic fries [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/05/05/celebrate-45-years-of-santa-clarita-dodger-day/">Celebrate 45 Years of Santa Clarita Dodger Day!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/05/05/celebrate-45-years-of-santa-clarita-dodger-day/>
 
 ---
 

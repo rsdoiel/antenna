@@ -1,11 +1,442 @@
 ---
 title: columns 2024.19
-updated: 2024-05-06 07:53:55
+updated: 2024-05-07 14:00:18
 ---
 
 # columns 2024.19
 
-(date: 2024-05-06 07:53:55)
+(date: 2024-05-07 14:00:18)
+
+---
+
+## TikTok Sues US Government Over Forced Divestiture and Potential Ban
+
+date: 2024-05-07, updated: 2024-05-07, from: Daring Fireball
+
+ 
+
+<https://www.nytimes.com/2024/05/07/business/tiktok-ban-appeal.html>
+
+---
+
+## Nintendo Pre-Announces Switch Successor’s Announcement
+
+date: 2024-05-07, updated: 2024-05-07, from: Daring Fireball
+
+ 
+
+<https://twitter.com/NintendoCoLtd/status/1787736518762881197>
+
+---
+
+## Rustic Co-op City
+
+date: 2024-05-07, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/05/07/rusticCoopCity.png"></center>I asked ChatGPT for "a rustic street scene in Co-op City in the Bronx."</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/05/07/actualStreetSceneCoopCity.png"></center>An actual street scene in Co-op City.</div></p>
+<p>I fooled it. <a href="https://en.wikipedia.org/wiki/Co-op_City,_Bronx">Co-op City</a> is in a <a href="https://www.google.com/maps/place/Co-op+City,+Bronx,+NY+10475/@40.8738865,-73.8397443,15z/data=!4m6!3m5!1s0x89c28cc62d65d41d:0x6ffb13afad28f3c7!8m2!3d40.8738889!4d-73.8294444!16zL20vMDNueGhf?entry=ttu">part</a> of <a href="https://www.google.com/maps/@40.8737594,-73.8260694,3a,75y,43.93h,105.61t/data=!3m7!1e1!3m5!1smiQ-b7He3V14nfip-N_Gdg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DmiQ-b7He3V14nfip-N_Gdg%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D43.92573315442668%26pitch%3D-15.607236337602444%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu">the Bronx</a> that is not old. There's nothing rustic about it. Or even possible. </p>
+<p>Before Co-op City became a massive housing project it was an <a href="https://en.wikipedia.org/wiki/Freedomland_U.S.A.">amusement park</a> called FreedomLand.  </p>
+ 
+
+<http://scripting.com/2024/05/07/181531.html?title=rusticCoopCity>
+
+---
+
+##  New Pompeii excavations reveal frescoes & mosaics about the Trojan War. &#8220;The... 
+
+date: 2024-05-07, updated: 2024-05-07, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044573-new-pompeii-excavations-r>
+
+---
+
+## Techmeme’s Roundup of Commentary on Apple’s ‘Let Loose’ iPad Event
+
+date: 2024-05-07, updated: 2024-05-07, from: Daring Fireball
+
+ 
+
+<https://www.techmeme.com/240507/p21#a240507p21>
+
+---
+
+##  The Light Eaters and Plant Intelligence 
+
+date: 2024-05-07, updated: 2024-05-07, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/the-light-eaters-and-plant-intelligence>
+
+---
+
+##  I&#8217;ve known Anil Dash for 20+ years and I still keep finding... 
+
+date: 2024-05-07, updated: 2024-05-07, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044552-ive-known-anil-dash-for>
+
+---
+
+## Election Countdown, 182 Days to Go: One Publication Shows the Way....
+
+date: 2024-05-07, from: James Fallows, Substack
+
+... while another tries to find its way. Reports from Time and the NYT. 
+
+<https://fallows.substack.com/p/election-countdown-182-days-to-go>
+
+---
+
+##  Did you know that &#8220;Broccolini&#8221; is actually a registered trademark of Del... 
+
+date: 2024-05-07, updated: 2024-05-07, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044571-did-you-know-that-broccol>
+
+---
+
+##  An Update on the Beloved Broccoli Tree 
+
+date: 2024-05-07, updated: 2024-05-07, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/an-update-on-the-beloved-broccoli-tree>
+
+---
+
+## New Attack on VPNs
+
+date: 2024-05-07, updated: 2024-05-07, from: Bruce Schneier blog
+
+<p>This <a href="https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/">attack</a> has been feasible for over two decades:</p>
+<blockquote><p>Researchers have devised an attack against nearly all virtual private network applications that forces them to send and receive some or all traffic outside of the encrypted tunnel designed to protect it from snooping or tampering.</p>
+<p>TunnelVision, as the researchers have named their attack, largely negates the entire purpose and selling point of VPNs, which is to encapsulate incoming and outgoing Internet traffic in an encrypted tunnel and to cloak the user&#8217;s IP address. The researchers believe it affects all VPN applications when they&#8217;re connected to a hostile network and that there are no ways to prevent such attacks except when the user&#8217;s VPN runs on Linux or Android. They also said their attack technique may have been possible since 2002 and may already have been discovered and used in the wild since then...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/05/new-attack-on-vpns.html>
+
+---
+
+##  Thanks to a newly deciphered Herculaneum scroll, researchers have pinpointed the location... 
+
+date: 2024-05-07, updated: 2024-05-07, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044567-thanks-to-a-newly-deciphe>
+
+---
+
+##  This is the goofiest, dorkiest advertising/marketing I&#8217;ve ever seen from Apple —... 
+
+date: 2024-05-07, updated: 2024-05-07, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044568-this-is-the-goofiest-dork>
+
+---
+
+## Burning to Write. And Vice Versa.
+
+date: 2024-05-07, from: Doc Searls (at Harvard), New Old Blog
+
+Among all artists, writers alone suffer the illusion that the world needs to hear what they have to say. I thought that line, or something like it, came from Rollo May, probably in The Courage to Create. But a search within that book says no. ChatGPT and Gemini both tell me May didn&#8217;t say it [&#8230;] 
+
+<https://doc.searls.com/2024/05/07/burning-to-write-and-vice-versa/>
+
+---
+
+##  A North Yorkshire county authority banned apostrophes on street signs because they... 
+
+date: 2024-05-07, updated: 2024-05-07, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044562-a-north-yorkshire-county->
+
+---
+
+## Raspberry Pi is getting into the services game
+
+date: 2024-05-07, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Raspberry Pi is getting into the services game</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>...and it's all free—<em>so far</em>.</p>
+
+<p><img class="insert-image" width="700" height="auto" alt="Raspberry Pi Connect Beta Logo" src="https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-connect-logo.jpg"></p>
+
+<p>Raspberry Pi today launched <a href="https://connect.raspberrypi.com">Raspberry Pi Connect</a>, a free remote VPN service for all Pi OS users.</p>
+
+<p>If you create a <a href="https://id.raspberrypi.com/">Raspberry Pi ID</a>, you can sign up for Connect, install <code>rpi-connect</code> on a Pi 4 or 5 running 64-bit Pi OS 12 'Bookworm', and register that Pi with the service.</p>
+
+<p>Then, on any other device's web browser, you can log in and remote control your Pi through Connect's web-based VNC viewer.</p>
+
+<p><img class="insert-image" width="700" height="auto" alt="Raspberry Pi Connect Demo" src="https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-connect-demo.jpg"></p>
+
+<p>The VNC server is based on <a href="https://github.com/any1/wayvnc">wayvnc</a>, and the Connect service allows for as many registered Pis as you want (though I'm guessing the interface is optimized for the majority use case of one or a few).</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-05-07T08:00:11-05:00" title="Tuesday, May 7, 2024 - 08:00" class="datetime">May 7, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/raspberry-pi-getting-services-game>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-07, from: Dave Winer's Scripting News)
+
+BTW, I was struck that famous editor and writer <a href="https://mastodon.social/@semaforben@threads.net">Ben Smith</a> said he was ashamed at starting out as a blogger, on an MSNBC show hosted by a <a href="https://en.wikipedia.org/wiki/Joe_Scarborough">true hack</a>. The quote was from <a href="https://mastodon.social/@jeffjarvis/112399386648851185">Jeff Jarvis</a>, who like me, <a href="http://scripting.com/2024/05/06/135847.html#a140303">cross-posts</a> to a variety of social webs, presumably manually. Where did I put my comment? Hell if I know. Heh I <a href="https://mastodon.social/@jeffjarvis/112399484570566051">found</a> it. My comment: "I didn’t know he had been a blogger. So my respect for him went up dramatically in an instant, and in another instant, plummeted. What’s wrong with people?" Bad news for Ben, he's still is a blogger, btw, in his heart. I can tell. And true journalists and true bloggers share an ethos that the fakers like Morning Joe will never understand. So I guess when you're on with Joe you have to pander. Just remember Ben, we know who you are. Even if you have forgotten. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/05/07.html#a115333>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/08/17/doctorNick.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I said this to a friend recently, in an email: “I noticed a change with the doctors, where earlier they would dismiss my fears of having this or that fatal disease, now they're always looking for the thing that's going to kill me.“ The friend, a retired English professor, said the sentence was very effective. Part of me would like to send the sentence and the review to my freshman English professor, I think she would be proud. Instead I decided to blog it. 
+
+<http://scripting.com/2024/05/07.html#a115159>
+
+---
+
+## Getting Back Into the Sims Games
+
+date: 2024-05-07, from: Jessica Smith's blog
+
+<p>Over the past couple of weeks, I&rsquo;ve felt this rising tide of nostalgia building up in me and urging me to revisit the <cite>Sims</cite> games. I used to be an avid player of <cite>The Sims 2</cite> in the late 2000s and early 2010s, playing legacy challenges (where you strive to play the same family over 10 generations) and participating in the thriving LiveJournal Sims community of the era. Around the time this nostalgic impulse started, I stumbled upon a corner of Reddit where people are still talking about, and playing, <cite>The Sims 2</cite>, and that in turn got me sucked into YouTube videos such as <a href="https://www.youtube.com/playlist?list=PLpEVeAeyWJHOpjr8FOkf7WTwB5YrNJ8VX">Tanic Sims 2&rsquo;s series on the borked character files of the premade hoods<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> and <a href="https://www.youtube.com/watch?v=2cB67DGDXFQ">this two-hour masterpiece by April Black<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> on the scourge of hood corruption, and how many of the things Simmers long thought cause it actually don&rsquo;t.</p>
+<p>Anyway, it made me really want to play <cite>The Sims 2</cite> again. I do actually own the Ultimate Collection via <abbr title="Electronic Arts">EA</abbr> Origin, but there was a slight problem&hellip; the computer I use is a Mac. And we do have a Linux desktop as well, and these days Wine/Proton/etc. is so good that <abbr title="The Sims 2">TS2</abbr> can easily be played on that <abbr title="Operating System">OS</abbr> now&hellip; but somehow that install of Linux got borked and only works in recovery mode, which is sufficient to run the Plex server I mainly use that desktop for these days, but not really good enough for <abbr title="The Sims 2">TS2</abbr>. Alas.</p>
+<p>Another option would have been to purchase Aspyr&rsquo;s Mac port – the Super Collection – for AUD$50 in the App Store. I do want to admit that in principle (even though I already own the game on another platform) this seems like a worthy option. Unlike <abbr title="Electronic Arts">EA</abbr>, Aspyr has actually put the effort in to keep their port updated for new versions of Mac OS, including upgrading the game to 64 bits when Apple dropped support for 32-bit applications, and updating the game again to run natively on Apple Silicon (the M1 chips and beyond). That&rsquo;s great and they deserve to be supported for that! My reasons for not just choosing that option are a bit on the selfish and picky side. Firstly, <abbr title="Electronic Arts">EA</abbr> never allowed Aspyr to port the last couple of expansion packs (<cite>FreeTime</cite> and <cite>Apartment Life</cite>) to Mac OS, and <cite>FreeTime</cite> in particular is so fundamental to all my nostalgic memories of the game (plus, packed with quality of life features) that I just don&rsquo;t know that I&rsquo;m willing to play without it. Secondly, the April Black video I linked in paragraph #1 introduced me to the fact that Macs have a hardcoded limit of approximately 10,000 files that can be open at one time&hellip; which can be a potential cause of corruption in <cite>The Sims 2</cite>, which was designed to draw on a large number of tiny, atomic files (e.g. every Sim in a neighbourhood gets its own individual file) instead of large consolidated ones. Considering that on top of that, I have a folder of all the custom content I was using at the time I stopped playing <cite>The Sims 2</cite>, which I actually think is pretty lean, and yet by itself it has 4,242 files in it&hellip; yeah, I was nervous about the possibility that playing <abbr title="The Sims 2">TS2</abbr> on a Mac would not be very sustainable for me. Alas.</p>
+<p>So, I turned my sights to the newest instalment of the franchise, <cite>The Sims 4</cite>. Now I played this version of the game quite a bit in 2017–8, and I remember being impressed at first by the graphics (it&rsquo;s <em>so</em> much prettier than unmodded <abbr title="The Sims 2">TS2</abbr>) and the quality of life improvements offered by the game engine, like better routing and Sims&rsquo; new ability to multitask. However&hellip; the shine wore off. The main issue I had with <abbr title="The Sims 4">TS4</abbr> was just that it wasn&rsquo;t as <strong>fun</strong> as <abbr title="The Sims 2">TS2</abbr>. The zany shit that used to keep me so entertained as a teen was just so much rarer in <abbr title="The Sims 4">TS4</abbr>. Most Sims&rsquo; personalities were so bland, with personality points gone and replaced with just <strong>three</strong> traits (plus an aspiration trait) and no more than a handful of those traits did anything more than &ldquo;give Sims an emotion buff sometimes&rdquo;. There were no more wants and fears, just &ldquo;whims&rdquo; which were rarely interesting, and nothing bad happened if you ignored them entirely (Sims couldn&rsquo;t go into aspiration failure any more). So&hellip; I started playing a legacy in <cite>The Sims 4</cite> and did get up to generation 6. After a couple of fun generations where I really put effort into making my Sims generate drama, I got a generation where my heir had TRIPLETS and my entire game became a production line of desperately trying to build up the toddlers&rsquo; potty training skill to the point that they could at least fucking toilet themselves and it was literally a neverending process and none of my adult Sims were doing anything interesting either and I got so frustrated that I just&hellip; never opened the game again. 😅</p>
+<p>That said, quite a few years have passed since 2017–8. It occurred to me that more mods might&rsquo;ve come out giving the Sims more personality and making their autonomous behaviour more individualised. It also seems like the game itself has come out with updates addressing some of the stuff I criticised (for example they supposedly replaced whims with wants &amp; fears again, and as of a recent expansion Sims can &ldquo;self-discover&rdquo; new traits?)&hellip; basically, I started to wonder if it was worth trying again.</p>
+<p>So, I installed the base game via the Origin app (which supposedly already booted off everyone in favour of <abbr title="Electronic Arts">EA</abbr>&rsquo;s new app, but it hasn&rsquo;t booted <em>me</em> off) and started a new save. I haven&rsquo;t got very far into it yet, and I&rsquo;m also adding mods progressively, bit by bit, rather than adding <strong>every</strong> &ldquo;give your Sim more personality!&rdquo; mod all at once, to make the investigation easier for myself if I inadvertently add something bugged or something that conflicts with another mod. That said, some of the mods I&rsquo;m interested in playing with are:</p>
+<ul>
+<li>PolarBearSims&rsquo; <a href="https://modthesims.info/d/594573/have-some-personality-please.html">Have Some Personality, Please!<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a></li>
+<li>TurboDriver&rsquo;s <a href="https://wonderfulwhims.com/">Wonderful Whims<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> (NOT to be confused with &ldquo;Wicked Whims&rdquo;, although I believe that mod includes the personality features too&hellip;)</li>
+<li>MissyHissy&rsquo;s <a href="https://sims4dailyplumbob.game.blog/mods-cc/mods/the-personality-mod/">Personality Mod<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> and <a href="https://sims4dailyplumbob.game.blog/mods-cc/mods/the-hopes-fears-mod/">Hopes &amp; Fears Mod<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a></li>
+</ul>
+<p>Now, having said all of this&hellip; I&rsquo;m not sure how much it&rsquo;ll satisfy that part of me nostalgic for the Sims community on LiveJournal. Because a big part of my fun wasn&rsquo;t just <em>playing my game</em>, it was publishing updates on my legacy and – perhaps even more important – reading other people&rsquo;s updates on their legacy. There are sooooo many hilarious people whose legacies I used to read – hell, I started reading them even before I owned a Windows computer to play <abbr title="The Sims 2">TS2</abbr> on myself! – and I really also miss&hellip; that. For nostalgia&rsquo;s sake I went back to revisit some of them today, but between Tinypic purging old pictures, Photobucket watermarking old pictures, and LiveJournal itself becoming a gross ad-infested shell of what it once was, it was just sad. I can put together legacy updates for myself, and I can publish them on the internet (I even have <a href="https://sims.jayeless.net">a dedicated subdomain<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a>, originally to host my pictures, but when LJ went downhill I started backing up the actual updates there too), but&hellip; I have no idea where a Simmer <em>shares</em> these things, these days, for potential interested readers to find. At least in 2017–8, I knew Tumblr was popular, but I tried searching tags like &ldquo;sims 4 legacy&rdquo;, &ldquo;sims 4 gameplay&rdquo; and so forth today and did not find a single &ldquo;legacy update&rdquo; as I would think of them. Mostly I found custom content, people posting their own challenge rules based on the original legacy challenge, and the occasional &ldquo;artsy&rdquo; highly edited screenshot with no or minimal commentary. I don&rsquo;t really want contextless game screenshots&hellip; I want funny shit. I want quirky Sims autonomously starting drama and being hilarious! Where is that?! Or does everyone who wants that just stick with <abbr title="The Sims 2">TS2</abbr>? Because like, at least I found <strong>one</strong> active <abbr title="The Sims 2">TS2</abbr> legacy posting updates on Reddit&hellip; actually I found an active <abbr title="The Sims 4">TS4</abbr> legacy on Reddit too, but it&rsquo;s a bit more serious and less &ldquo;this is what happened in my game lol&rdquo;. Are people just making <em>videos</em> of that style of content now, instead of screenshots with commentary, and posting them on YouTube? Because&hellip; I am not going to do that. Haha.</p>
+<p>Well&hellip; anyway&hellip; step 1 is to actually play my game, right. Experiment with mods and see if it feels fun enough for me to persist with it. It&rsquo;s sad about the difficulty finding or sharing legacy updates, but it&rsquo;s really just an adjunct to actually playing the game anyway, I suppose.</p> 
+
+<https://www.jayeless.net/2024/05/getting-back-into-the-sims-games.html>
+
+---
+
+## Stand up to Trump and Bibi
+
+date: 2024-05-07, from: Robert Reich's blog
+
+Judge Merchan must jail Trump, Biden must stop sending weapons to Netanyahu 
+
+<https://robertreich.substack.com/p/standing-up-to-trump-and-bibi>
+
+---
+
+## Contemptible
+
+date: 2024-05-06, from: Dan Rather's Steady
+
+Trump fundraising off a threat from the judge 
+
+<https://steady.substack.com/p/contemptible>
+
+---
+
+##  The Shardlake Series 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/cj-sansom-novels>
+
+---
+
+## [Sponsor] Nylas for Email and Calendar APIs
+
+date: 2024-05-06, updated: 2024-05-06, from: Daring Fireball
+
+ 
+
+<https://info.nylas.com/nylas-technical-demo.html?utm_source=daring-fireball&utm_medium=sponsoredemail&utm_campaign=FY24Q1-daringfireball-rssfeed&utm_content=2024-02-DSU>
+
+---
+
+## Erasable Logo on Apple’s Homepage
+
+date: 2024-05-06, updated: 2024-05-06, from: Daring Fireball
+
+ 
+
+<https://www.macrumors.com/2024/05/06/apple-homepage-erasable-logo/>
+
+---
+
+##  Hi, I am Needs to Read About A Rap Beef in the... 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044566-i-am-needs-to-read>
+
+---
+
+##  Zadie Smith: &#8220;To send the police in to arrest young people peacefully... 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044561-zadie-smith-to-send-the>
+
+---
+
+##  Squaring the Reality of What We See 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/squaring-the-reality-of-what-we-see>
+
+---
+
+##  Hey everyone, it&#8217;s Hot Frank Summer! Aka we&#8217;re all reading Mary Shelley&#8217;s... 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044564-hey-everyone-its-hot-fran>
+
+---
+
+## Fitting Facts to the Narrative at The Washington Post
+
+date: 2024-05-06, updated: 2024-05-06, from: Daring Fireball
+
+ 
+
+<https://www.washingtonpost.com/technology/2024/05/02/apple-sales-ai-iphone-earnings-regulations/>
+
+---
+
+##  Booting up an Apple IIc to play Lode Runner. Oh maaaaaan, this... 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044557-booting-up-an-apple-iic>
+
+---
+
+## Logitech’s Mouse Software Now Includes ChatGPT Support, Adds Janky ‘ai_overlay_tmp’ Directory to Users’ Home Folders
+
+date: 2024-05-06, updated: 2024-05-06, from: Daring Fireball
+
+ 
+
+<https://512pixels.net/2024/04/ai-overlay-tmp-home-folder-mac-os/>
+
+---
+
+## Yours Truly on ‘First Ones’
+
+date: 2024-05-06, updated: 2024-05-06, from: Daring Fireball
+
+ 
+
+<https://www.youtube.com/watch?v=NUjyEp93Trk>
+
+---
+
+##  These folks wrote an autopilot in Javascript that can control planes in... 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044559-these-folks-wrote-an-auto>
+
+---
+
+## Apple Watch Ultra’s Best Feature: Battery Life
+
+date: 2024-05-06, updated: 2024-05-06, from: Daring Fireball
+
+ 
+
+<https://www.inc.com/jason-aten/the-apple-watch-ultra-isnt-just-for-extreme-adventure-this-might-be-its-most-ultra-feature.html>
+
+---
+
+## Boring News: Vision Pro Sales Are Going Just About as Expected
+
+date: 2024-05-06, updated: 2024-05-06, from: Daring Fireball
+
+ 
+
+<https://medium.com/@mingchikuo/apple-cuts-2024-2025-vision-pro-shipment-forecasts-unfavorable-to-mr-headset-pancake-and-micro-38796834f930>
+
+---
+
+##  Skating the Contours of Nature 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/skating-the-contours-of-nature>
+
+---
+
+##  Oh cool, spiders can swim now. &#8220;The diving bell spider is the... 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044553-oh-cool-spiders-can-swim>
+
+---
+
+## Meta Threatens to Pull WhatsApp From India Over Encryption Battle
+
+date: 2024-05-06, updated: 2024-05-06, from: Daring Fireball
+
+ 
+
+<https://restofworld.org/2024/exporter-whatsapp-encryption-india/>
+
+---
+
+## elegance personified (really)
+
+date: 2024-05-06, from: Ayjay blog
+
+Last night Teri and I watched Swing Time, and afterwards played a little game: We went back to the dance scenes and tried to pause at instants when Astaire and Rogers didn’t look elegant. Couldn’t do it. At every moment they are balanced and poised, they’re perfect images of grace. 
+
+<https://blog.ayjay.org/elegance-personified-really/>
+
+---
+
+##  Wondering why &#8220;people invent false conspiracies when there are so many real... 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044555-wondering-why-people-inve>
 
 ---
 

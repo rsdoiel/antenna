@@ -1,11 +1,45 @@
 ---
 title: libraries 2024.19
-updated: 2024-05-06 07:53:56
+updated: 2024-05-07 14:00:18
 ---
 
 # libraries 2024.19
 
-(date: 2024-05-06 07:53:56)
+(date: 2024-05-07 14:00:18)
+
+---
+
+## Guest Post — Researcher to Reader Recap
+
+date: 2024-05-07, from: Scholarly Kitchen
+
+<p>Heather Staines offers a recap of the most recent Researcher to Reader meeting.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/05/07/guest-post-researcher-to-reader-recap/">Guest Post &#8212; Researcher to Reader Recap</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/05/07/guest-post-researcher-to-reader-recap/>
+
+---
+
+## Jewish American Heritage Month: Recommended books and movies
+
+date: 2024-05-07, from: CSUN Library Blog, Cited
+
+<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2024/05/Copy-of-Untitled-Design1.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" style="margin-bottom: 15px;" fetchpriority="high" /></div>In celebration of Jewish American Heritage Month, the University Library invites our students and community to explore the below recommendations, including documentaries, feature films, readings,&#8230; 
+
+<https://library.csun.edu/blogs/cited/2024/05/07/jewish-american-heritage-month-2024-recommended-books-and-movies/>
+
+---
+
+## Day in Review (May 6–8)
+
+date: 2024-05-06, from: Association of Research Libraries News
+
+<p>Last Updated on May 7, 2024, 2:52 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 7 &#124; Wednesday, May 8 Note: Day in Review will...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-6-8/">Day in Review (May 6–8)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/day-in-review/day-in-review-may-6-8/>
 
 ---
 

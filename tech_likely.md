@@ -1,11 +1,670 @@
 ---
 title: tech likely 2024.19
-updated: 2024-05-06 07:53:55
+updated: 2024-05-07 14:00:18
 ---
 
 # tech likely 2024.19
 
-(date: 2024-05-06 07:53:55)
+(date: 2024-05-07 14:00:18)
+
+---
+
+## NASA Challenge Gives Artemis Generation Coders a Chance to Shine
+
+date: 2024-05-07, from: NASA breaking news
+
+NASA’s Office of STEM Engagement selected seven student teams to participate in a culminating event for the 2024 App Development Challenge (ADC), one of the agency’s Artemis Student Challenges, at NASA’s Johnson Space Center in Houston from April 15-18, 2024. The coding challenge, celebrating its fifth year and a part of NASA’s Next Generation STEM [&#8230;] 
+
+<https://www.nasa.gov/learning-resources/nasa-challenge-gives-artemis-generation-coders-a-chance-to-shine/>
+
+---
+
+## New Proposals to Help NASA Advance Knowledge of Our Changing Climate
+
+date: 2024-05-07, from: NASA breaking news
+
+NASA has selected four proposals for concept studies of missions to help us better understand Earth science key focus areas for the benefit of all including greenhouse gases, the ozone layer, ocean surface currents, and changes in ice and glaciers around the world. These four investigations are part of the agency’s new Earth System Explorers [&#8230;] 
+
+<https://www.nasa.gov/news-release/new-proposals-to-help-nasa-advance-knowledge-of-our-changing-climate/>
+
+---
+
+## Rustic Co-op City
+
+date: 2024-05-07, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/05/07/rusticCoopCity.png"></center>I asked ChatGPT for "a rustic street scene in Co-op City in the Bronx."</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/05/07/actualStreetSceneCoopCity.png"></center>An actual street scene in Co-op City.</div></p>
+<p>I fooled it. <a href="https://en.wikipedia.org/wiki/Co-op_City,_Bronx">Co-op City</a> is in a <a href="https://www.google.com/maps/place/Co-op+City,+Bronx,+NY+10475/@40.8738865,-73.8397443,15z/data=!4m6!3m5!1s0x89c28cc62d65d41d:0x6ffb13afad28f3c7!8m2!3d40.8738889!4d-73.8294444!16zL20vMDNueGhf?entry=ttu">part</a> of <a href="https://www.google.com/maps/@40.8737594,-73.8260694,3a,75y,43.93h,105.61t/data=!3m7!1e1!3m5!1smiQ-b7He3V14nfip-N_Gdg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DmiQ-b7He3V14nfip-N_Gdg%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D43.92573315442668%26pitch%3D-15.607236337602444%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu">the Bronx</a> that is not old. There's nothing rustic about it. Or even possible. </p>
+<p>Before Co-op City became a massive housing project it was an <a href="https://en.wikipedia.org/wiki/Freedomland_U.S.A.">amusement park</a> called FreedomLand.  </p>
+ 
+
+<http://scripting.com/2024/05/07/181531.html?title=rusticCoopCity>
+
+---
+
+## Jupiter’s Great Red Spot
+
+date: 2024-05-07, from: NASA breaking news
+
+This April 1, 2018, enhanced-color image of Jupiter’s Great Red Spot was captured by NASA’s Juno spacecraft. The image is a combination of three separate images taken as Juno performed its 12th close flyby of the planet. The Great Red Spot, a swirling oval of clouds twice as wide as Earth, has been observed on [&#8230;] 
+
+<https://www.nasa.gov/image-article/jupiters-great-red-spot-2/>
+
+---
+
+##  New Pompeii excavations reveal frescoes & mosaics about the Trojan War. &#8220;The... 
+
+date: 2024-05-07, updated: 2024-05-07, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044573-new-pompeii-excavations-r>
+
+---
+
+## International SWOT Mission Can Improve Flood Prediction
+
+date: 2024-05-07, from: NASA breaking news
+
+A partnership between NASA and the French space agency, the satellite is poised to help improve forecasts of where and when flooding will occur in Earth’s rivers, lakes, and reservoirs. Rivers, lakes, and reservoirs are like our planet’s arteries, carrying life-sustaining water in interconnected networks. When Earth’s water cycle runs too fast, flooding can result, [&#8230;] 
+
+<https://www.nasa.gov/missions/swot/international-swot-mission-can-improve-flood-prediction/>
+
+---
+
+##  The Light Eaters and Plant Intelligence 
+
+date: 2024-05-07, updated: 2024-05-07, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/the-light-eaters-and-plant-intelligence>
+
+---
+
+## Lightweight Dillo browser springs back to life, still doesn't care about JavaScript
+
+date: 2024-05-07, updated: 2024-05-07, from: Liam Proven's articles at the Register
+
+<h4>First new version in almost a decade now boasts TLS</h4>
+      <p>The Dillo web browser has returned with a new release, version 3.1. It's nearly nine years after version 3.05 appeared on the last day of June 2015.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/05/07/dillo_browser_v3_1/>
+
+---
+
+##  I&#8217;ve known Anil Dash for 20+ years and I still keep finding... 
+
+date: 2024-05-07, updated: 2024-05-07, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044552-ive-known-anil-dash-for>
+
+---
+
+##  Did you know that &#8220;Broccolini&#8221; is actually a registered trademark of Del... 
+
+date: 2024-05-07, updated: 2024-05-07, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044571-did-you-know-that-broccol>
+
+---
+
+## White Sands Propulsion Team Tests 3D-Printed Orion Engine Component
+
+date: 2024-05-07, from: NASA breaking news
+
+When the Orion spacecraft carries the first Artemis crews to the Moon and back, it will rely on the European Service Module contributed by ESA (European Space Agency) to make the journey. The service module provides electrical power generation, propulsion, temperature control, and consumable storage for Orion, up to the moment it separates from the [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/white-sands/white-sands-propulsion-team-tests-3d-printed-orion-engine-component/>
+
+---
+
+## Ken Carpenter: Ensuring Top-Tier Science from Moon to Stars
+
+date: 2024-05-07, from: NASA breaking news
+
+Today, Ken Carpenter is a scientist for NASA’s Hubble and Roman space telescopes, but in 1967 he was just a teenager at his local library out to fact-check a “Star Trek” episode. Name: Kenneth G. CarpenterTitle: Operations Project Scientist for Hubble Space Telescope; Ground System Scientist for Roman Space Telescope; and a NASA Innovative Advanced [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/goddard/ken-carpenter-ensuring-top-tier-science-from-moon-to-stars/>
+
+---
+
+##  An Update on the Beloved Broccoli Tree 
+
+date: 2024-05-07, updated: 2024-05-07, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/an-update-on-the-beloved-broccoli-tree>
+
+---
+
+## Apple M4
+
+date: 2024-05-07, from: Michael Tsai
+
+Apple (Hacker News): Built using second-generation 3-nanometer technology, M4 is a system on a chip (SoC) that advances the industry-leading power efficiency of Apple silicon and enables the incredibly thin design of iPad Pro. It also features an entirely new display engine to drive the stunning precision, color, and brightness of the breakthrough Ultra Retina [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/07/apple-m4/>
+
+---
+
+## Final Cut Pro 2 and Logic Pro 2 for iPad
+
+date: 2024-05-07, from: Michael Tsai
+
+Apple (Hacker News): Final Cut Pro for iPad 2 transforms iPad into a multicam production studio with Live Multicam, giving users the power to speed up their shoot by allowing them to connect and preview up to four cameras all at once, all in one place. To support Live Multicam, Final Cut Camera &#8212; an [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/07/final-cut-pro-2-and-logic-pro-2-for-ipad/>
+
+---
+
+## Apple Pencil Pro
+
+date: 2024-05-07, from: Michael Tsai
+
+Apple (MacRumors): A new sensor in the barrel can sense a user&#8217;s squeeze, bringing up a tool palette to quickly switch tools, line weights, and colors, all without interrupting the creative process. A custom haptic engine delivers a light tap that provides confirmation when users squeeze, use double-tap, or snap to a Smart Shape for [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/07/apple-pencil-pro/>
+
+---
+
+## iPad Pro (M4, 7th Generation)
+
+date: 2024-05-07, from: Michael Tsai
+
+Apple (MacRumors, keyboard, Hacker News, Slashdot): Available in silver and space black finishes, the new iPad Pro comes in two sizes: an expansive 13-inch model and a super-portable 11-inch model. Both sizes feature the world&#8217;s most advanced display &#8212; a new breakthrough Ultra Retina XDR display with state-of-the-art tandem OLED technology &#8212; providing a remarkable [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/07/ipad-pro-7th-generation/>
+
+---
+
+## iPad Air (6th Generation)
+
+date: 2024-05-07, from: Michael Tsai
+
+Apple (MacRumors, Hacker News): Apple today announced the redesigned 11-inch and all-new 13-inch iPad Air, supercharged by the M2 chip. Now available in two sizes for the first time, the 11-inch iPad Air is super-portable, and the 13-inch model provides an even larger display for more room to work, learn, and play. [&#8230;] The front-facing [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/07/ipad-air-6th-generation/>
+
+---
+
+## Stack Overflow signs deal with OpenAI, bans users trying to alter answers
+
+date: 2024-05-07, from: OS News
+
+We&#8217;re all aware of Stack Overflow &#8211; it&#8217;s a place where programmers and regular users can ask technical questions, and get answers from anyone who thinks they know the answer. Stack Overflow has become so ubiquitous among programmers and developers, the concept of &#8220;I just copied the code off Stack Overflow&#8221; has become a consistent meme to indicate you don&#8217;t fully grasp how something works, but at least it works. If you&#8217;ve ever contributed answers to Stack Overflow, you might want to consider deleting them, altering them, or perhaps even go as far as request a GDPR removal if you&#8217;re in the European Union, because Stack Overflow has just announced a close partnership with &#8220;AI&#8221; company OpenAI (or, more accurately, &#8220;Open&#8221; &#8220;AI&#8221;). Stripped of marketing speak, the gist is exactly as you&#8217;d expect: OpenAI will absorb the questions and answers on Stack Overflow into its models, whether their respective authors like it or not. As much as you may want to try and delete your answers if you&#8217;re not interesting in having your work generate profit for OpenAI, deleting popular questions and answers is not possible on Stack Overflow. The other option is altering your answers to render them useless, but it seems Stack Overflow is not going to allow you to do this, either. Ben Humphreys tried to alter his highest-rated answers, and Stack Overflow just reverted them back, and proceeded to ban him from the platform. Stack Overflow does not let you delete questions that have accepted answers and many upvotes because it would remove knowledge from the community. So instead I changed my highest-rated answers to a protest message. Within an hour mods had changed the questions back and suspended my account for 7 days. ↫ Ben Humphreys Now that they&#8217;ve made what is most likely an incredibly lucrative deal with OpenAI that&#8217;s going to net Stack Overflow&#8217;s owners boatloads of money, they obviously can&#8217;t let users delete or alter their answers to lower the monetary value of Stack Overflow&#8217;s content. Measures to prevent deletion or alteration are probably one of the clauses in the agreement between Stack Overflow and OpenAI. So there&#8217;s likely not much you can do to not have your answers sucked into OpenAI, but you should at least be aware it&#8217;s happening in case of future answers you might want to contribute. 
+
+<https://www.osnews.com/story/139601/stack-overflow-signs-deal-with-openai-bans-users-trying-to-alter-answers/>
+
+---
+
+##  Thanks to a newly deciphered Herculaneum scroll, researchers have pinpointed the location... 
+
+date: 2024-05-07, updated: 2024-05-07, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044567-thanks-to-a-newly-deciphe>
+
+---
+
+## Breaking the Scaling Limits: New Ultralow-noise Superconducting Camera for Exoplanet Searches
+
+date: 2024-05-07, from: NASA breaking news
+
+When imaging faint objects such as distant stars or exoplanets, capturing every last bit of light is crucial to get the most out of a scientific mission. These cameras must be extremely low-noise, and be able to detect the smallest quantities of light—single photons.  Superconducting cameras excel in both of these criteria, but have historically […] 
+
+<https://science.nasa.gov/science-research/astrophysics/breaking-the-scaling-limits-new-ultralow-noise-superconducting-camera-for-exoplanet-searches/>
+
+---
+
+## Dogged Dark Matter Hunters Find New Hiding Places to Check
+
+date: 2024-05-07, from: Quanta Magazine
+
+Perhaps dark matter is made of an entirely different kind of particle than the ones physicists have been searching for. New experiments are springing up to look for these ultra-lightweight phantoms.            <p>The post <a href="https://www.quantamagazine.org/dogged-dark-matter-hunters-find-new-hiding-places-to-check-20240507/" target="_blank">Dogged Dark Matter Hunters Find New Hiding Places to Check</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/dogged-dark-matter-hunters-find-new-hiding-places-to-check-20240507/>
+
+---
+
+##  This is the goofiest, dorkiest advertising/marketing I&#8217;ve ever seen from Apple —... 
+
+date: 2024-05-07, updated: 2024-05-07, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044568-this-is-the-goofiest-dork>
+
+---
+
+## How NASA’s Roman Mission Will Hunt for Primordial Black Holes
+
+date: 2024-05-07, from: NASA breaking news
+
+Astronomers have discovered black holes ranging from a few times the Sun’s mass to tens of billions. Now a group of scientists has predicted that NASA’s Nancy Grace Roman Space Telescope could find a class of &#8220;featherweight&#8221; black holes that has so far eluded detection. Today, black holes form either when a massive star collapses [&#8230;] 
+
+<https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-mission-will-hunt-for-primordial-black-holes/>
+
+---
+
+## Burning to Write. And Vice Versa.
+
+date: 2024-05-07, from: Doc Searls (at Harvard), New Old Blog
+
+Among all artists, writers alone suffer the illusion that the world needs to hear what they have to say. I thought that line, or something like it, came from Rollo May, probably in The Courage to Create. But a search within that book says no. ChatGPT and Gemini both tell me May didn&#8217;t say it [&#8230;] 
+
+<https://doc.searls.com/2024/05/07/burning-to-write-and-vice-versa/>
+
+---
+
+##  A North Yorkshire county authority banned apostrophes on street signs because they... 
+
+date: 2024-05-07, updated: 2024-05-07, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044562-a-north-yorkshire-county->
+
+---
+
+## The Self-Medicating Orangutan
+
+date: 2024-05-07, updated: 2024-05-07, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/05/07/the-self-medicating-orangutan/>
+
+---
+
+## Raspberry Pi is getting into the services game
+
+date: 2024-05-07, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Raspberry Pi is getting into the services game</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>...and it's all free—<em>so far</em>.</p>
+
+<p><img class="insert-image" width="700" height="auto" alt="Raspberry Pi Connect Beta Logo" src="https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-connect-logo.jpg"></p>
+
+<p>Raspberry Pi today launched <a href="https://connect.raspberrypi.com">Raspberry Pi Connect</a>, a free remote VPN service for all Pi OS users.</p>
+
+<p>If you create a <a href="https://id.raspberrypi.com/">Raspberry Pi ID</a>, you can sign up for Connect, install <code>rpi-connect</code> on a Pi 4 or 5 running 64-bit Pi OS 12 'Bookworm', and register that Pi with the service.</p>
+
+<p>Then, on any other device's web browser, you can log in and remote control your Pi through Connect's web-based VNC viewer.</p>
+
+<p><img class="insert-image" width="700" height="auto" alt="Raspberry Pi Connect Demo" src="https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-connect-demo.jpg"></p>
+
+<p>The VNC server is based on <a href="https://github.com/any1/wayvnc">wayvnc</a>, and the Connect service allows for as many registered Pis as you want (though I'm guessing the interface is optimized for the majority use case of one or a few).</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-05-07T08:00:11-05:00" title="Tuesday, May 7, 2024 - 08:00" class="datetime">May 7, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/raspberry-pi-getting-services-game>
+
+---
+
+## Running NetBSD on OmniOS using bhyve
+
+date: 2024-05-07, from: OS News
+
+I want to run GoToSocial on some *BSD system. Because I am who I am, I went for using NetBSD 10.0 . And because my hypervisor is running bhyve on OmniOS , you get the title of this blog post. Don’t get too anxious, it is quite straightforward. So let the journey begin. ↫ Joel Carnat Bhyve is a hypervisor originating from FreeBSD, while OmniOS is a distribution of illumos, a continuation of the last open source Solaris release from Oracle. GoToSocial, meanwhile, is an ActivityPub social network server, so it belongs in the same family as Mastodon, Glitch, Akkoma, and countless others. This guide makes this whole process look like a piece of cake, so if you&#8217;ve ever been interested in running your own ActivityPub server &#8211; read on. On a slightly related sidenote, there&#8217;s no OSNews AT instance, partly because I don&#8217;t want to deal with the moderation and costs, and partly because I&#8217;m incredibly happy being a member of Exquisite, a Glitch instance running on OpenBSD, managed by OpenBSD enthusiasts. Never say never, of course, but the odds of seeing an OSNews AT instance in the future are very slim. 
+
+<https://www.osnews.com/story/139596/running-netbsd-on-omnios-using-bhyve/>
+
+---
+
+## Raspberry Pi Connect
+
+date: 2024-05-07, from: Raspberry Pi News (.com)
+
+<p>We're pleased to introduce the beta version of Raspberry Pi Connect: a secure and easy-to-use way to access your Raspberry Pi remotely, from anywhere on the planet, using just a web browser.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/raspberry-pi-connect/">Raspberry Pi Connect</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/raspberry-pi-connect/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-05-07, from: Miguel de Icaza Mastondon feed)
+
+<p>Good morning fellow Strict Concurrency lovers.  </p><p>Rethought my model and we are at 38 warnings down from 30,000.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112399796172895082>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-07, from: Dave Winer's Scripting News)
+
+BTW, I was struck that famous editor and writer <a href="https://mastodon.social/@semaforben@threads.net">Ben Smith</a> said he was ashamed at starting out as a blogger, on an MSNBC show hosted by a <a href="https://en.wikipedia.org/wiki/Joe_Scarborough">true hack</a>. The quote was from <a href="https://mastodon.social/@jeffjarvis/112399386648851185">Jeff Jarvis</a>, who like me, <a href="http://scripting.com/2024/05/06/135847.html#a140303">cross-posts</a> to a variety of social webs, presumably manually. Where did I put my comment? Hell if I know. Heh I <a href="https://mastodon.social/@jeffjarvis/112399484570566051">found</a> it. My comment: "I didn’t know he had been a blogger. So my respect for him went up dramatically in an instant, and in another instant, plummeted. What’s wrong with people?" Bad news for Ben, he's still is a blogger, btw, in his heart. I can tell. And true journalists and true bloggers share an ethos that the fakers like Morning Joe will never understand. So I guess when you're on with Joe you have to pander. Just remember Ben, we know who you are. Even if you have forgotten. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/05/07.html#a115333>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/08/17/doctorNick.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I said this to a friend recently, in an email: “I noticed a change with the doctors, where earlier they would dismiss my fears of having this or that fatal disease, now they're always looking for the thing that's going to kill me.“ The friend, a retired English professor, said the sentence was very effective. Part of me would like to send the sentence and the review to my freshman English professor, I think she would be proud. Instead I decided to blog it. 
+
+<http://scripting.com/2024/05/07.html#a115159>
+
+---
+
+## Radar Trends to Watch: May 2024
+
+date: 2024-05-07, from: O'Reilly Rador
+
+In the past month, we saw a blizzard of new language models. It’s almost hard to consider this news, though Microsoft’s open (but maybe not open source) Phi-3 is certainly worth a look. We’ve also seen promising work on reducing the resources required to do inference. While this may lead to larger models, it should [&#8230;] 
+
+<https://www.oreilly.com/radar/radar-trends-to-watch-may-2024/>
+
+---
+
+## AI Whitewashing
+
+date: 2024-05-07, from: Status-Q blog
+
+Yesterday, I asked: Here&#8217;s a question, O Internet: If I buy full-fat milk and dilute it 50/50 with water, do I effectively have semi-skimmed milk, or is there something more sophisticated about the skimming process? And if I then dilute it again, do I get skimmed milk&#8230; for one quarter of the price? Now, the <a class="more-link excerpt-link" href="https://statusq.org/archives/2024/05/07/12062/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<https://statusq.org/archives/2024/05/07/12062/>
+
+---
+
+## Getting Back Into the Sims Games
+
+date: 2024-05-07, from: Jessica Smith's blog
+
+<p>Over the past couple of weeks, I&rsquo;ve felt this rising tide of nostalgia building up in me and urging me to revisit the <cite>Sims</cite> games. I used to be an avid player of <cite>The Sims 2</cite> in the late 2000s and early 2010s, playing legacy challenges (where you strive to play the same family over 10 generations) and participating in the thriving LiveJournal Sims community of the era. Around the time this nostalgic impulse started, I stumbled upon a corner of Reddit where people are still talking about, and playing, <cite>The Sims 2</cite>, and that in turn got me sucked into YouTube videos such as <a href="https://www.youtube.com/playlist?list=PLpEVeAeyWJHOpjr8FOkf7WTwB5YrNJ8VX">Tanic Sims 2&rsquo;s series on the borked character files of the premade hoods<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> and <a href="https://www.youtube.com/watch?v=2cB67DGDXFQ">this two-hour masterpiece by April Black<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> on the scourge of hood corruption, and how many of the things Simmers long thought cause it actually don&rsquo;t.</p>
+<p>Anyway, it made me really want to play <cite>The Sims 2</cite> again. I do actually own the Ultimate Collection via <abbr title="Electronic Arts">EA</abbr> Origin, but there was a slight problem&hellip; the computer I use is a Mac. And we do have a Linux desktop as well, and these days Wine/Proton/etc. is so good that <abbr title="The Sims 2">TS2</abbr> can easily be played on that <abbr title="Operating System">OS</abbr> now&hellip; but somehow that install of Linux got borked and only works in recovery mode, which is sufficient to run the Plex server I mainly use that desktop for these days, but not really good enough for <abbr title="The Sims 2">TS2</abbr>. Alas.</p>
+<p>Another option would have been to purchase Aspyr&rsquo;s Mac port – the Super Collection – for AUD$50 in the App Store. I do want to admit that in principle (even though I already own the game on another platform) this seems like a worthy option. Unlike <abbr title="Electronic Arts">EA</abbr>, Aspyr has actually put the effort in to keep their port updated for new versions of Mac OS, including upgrading the game to 64 bits when Apple dropped support for 32-bit applications, and updating the game again to run natively on Apple Silicon (the M1 chips and beyond). That&rsquo;s great and they deserve to be supported for that! My reasons for not just choosing that option are a bit on the selfish and picky side. Firstly, <abbr title="Electronic Arts">EA</abbr> never allowed Aspyr to port the last couple of expansion packs (<cite>FreeTime</cite> and <cite>Apartment Life</cite>) to Mac OS, and <cite>FreeTime</cite> in particular is so fundamental to all my nostalgic memories of the game (plus, packed with quality of life features) that I just don&rsquo;t know that I&rsquo;m willing to play without it. Secondly, the April Black video I linked in paragraph #1 introduced me to the fact that Macs have a hardcoded limit of approximately 10,000 files that can be open at one time&hellip; which can be a potential cause of corruption in <cite>The Sims 2</cite>, which was designed to draw on a large number of tiny, atomic files (e.g. every Sim in a neighbourhood gets its own individual file) instead of large consolidated ones. Considering that on top of that, I have a folder of all the custom content I was using at the time I stopped playing <cite>The Sims 2</cite>, which I actually think is pretty lean, and yet by itself it has 4,242 files in it&hellip; yeah, I was nervous about the possibility that playing <abbr title="The Sims 2">TS2</abbr> on a Mac would not be very sustainable for me. Alas.</p>
+<p>So, I turned my sights to the newest instalment of the franchise, <cite>The Sims 4</cite>. Now I played this version of the game quite a bit in 2017–8, and I remember being impressed at first by the graphics (it&rsquo;s <em>so</em> much prettier than unmodded <abbr title="The Sims 2">TS2</abbr>) and the quality of life improvements offered by the game engine, like better routing and Sims&rsquo; new ability to multitask. However&hellip; the shine wore off. The main issue I had with <abbr title="The Sims 4">TS4</abbr> was just that it wasn&rsquo;t as <strong>fun</strong> as <abbr title="The Sims 2">TS2</abbr>. The zany shit that used to keep me so entertained as a teen was just so much rarer in <abbr title="The Sims 4">TS4</abbr>. Most Sims&rsquo; personalities were so bland, with personality points gone and replaced with just <strong>three</strong> traits (plus an aspiration trait) and no more than a handful of those traits did anything more than &ldquo;give Sims an emotion buff sometimes&rdquo;. There were no more wants and fears, just &ldquo;whims&rdquo; which were rarely interesting, and nothing bad happened if you ignored them entirely (Sims couldn&rsquo;t go into aspiration failure any more). So&hellip; I started playing a legacy in <cite>The Sims 4</cite> and did get up to generation 6. After a couple of fun generations where I really put effort into making my Sims generate drama, I got a generation where my heir had TRIPLETS and my entire game became a production line of desperately trying to build up the toddlers&rsquo; potty training skill to the point that they could at least fucking toilet themselves and it was literally a neverending process and none of my adult Sims were doing anything interesting either and I got so frustrated that I just&hellip; never opened the game again. 😅</p>
+<p>That said, quite a few years have passed since 2017–8. It occurred to me that more mods might&rsquo;ve come out giving the Sims more personality and making their autonomous behaviour more individualised. It also seems like the game itself has come out with updates addressing some of the stuff I criticised (for example they supposedly replaced whims with wants &amp; fears again, and as of a recent expansion Sims can &ldquo;self-discover&rdquo; new traits?)&hellip; basically, I started to wonder if it was worth trying again.</p>
+<p>So, I installed the base game via the Origin app (which supposedly already booted off everyone in favour of <abbr title="Electronic Arts">EA</abbr>&rsquo;s new app, but it hasn&rsquo;t booted <em>me</em> off) and started a new save. I haven&rsquo;t got very far into it yet, and I&rsquo;m also adding mods progressively, bit by bit, rather than adding <strong>every</strong> &ldquo;give your Sim more personality!&rdquo; mod all at once, to make the investigation easier for myself if I inadvertently add something bugged or something that conflicts with another mod. That said, some of the mods I&rsquo;m interested in playing with are:</p>
+<ul>
+<li>PolarBearSims&rsquo; <a href="https://modthesims.info/d/594573/have-some-personality-please.html">Have Some Personality, Please!<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a></li>
+<li>TurboDriver&rsquo;s <a href="https://wonderfulwhims.com/">Wonderful Whims<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> (NOT to be confused with &ldquo;Wicked Whims&rdquo;, although I believe that mod includes the personality features too&hellip;)</li>
+<li>MissyHissy&rsquo;s <a href="https://sims4dailyplumbob.game.blog/mods-cc/mods/the-personality-mod/">Personality Mod<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> and <a href="https://sims4dailyplumbob.game.blog/mods-cc/mods/the-hopes-fears-mod/">Hopes &amp; Fears Mod<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a></li>
+</ul>
+<p>Now, having said all of this&hellip; I&rsquo;m not sure how much it&rsquo;ll satisfy that part of me nostalgic for the Sims community on LiveJournal. Because a big part of my fun wasn&rsquo;t just <em>playing my game</em>, it was publishing updates on my legacy and – perhaps even more important – reading other people&rsquo;s updates on their legacy. There are sooooo many hilarious people whose legacies I used to read – hell, I started reading them even before I owned a Windows computer to play <abbr title="The Sims 2">TS2</abbr> on myself! – and I really also miss&hellip; that. For nostalgia&rsquo;s sake I went back to revisit some of them today, but between Tinypic purging old pictures, Photobucket watermarking old pictures, and LiveJournal itself becoming a gross ad-infested shell of what it once was, it was just sad. I can put together legacy updates for myself, and I can publish them on the internet (I even have <a href="https://sims.jayeless.net">a dedicated subdomain<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a>, originally to host my pictures, but when LJ went downhill I started backing up the actual updates there too), but&hellip; I have no idea where a Simmer <em>shares</em> these things, these days, for potential interested readers to find. At least in 2017–8, I knew Tumblr was popular, but I tried searching tags like &ldquo;sims 4 legacy&rdquo;, &ldquo;sims 4 gameplay&rdquo; and so forth today and did not find a single &ldquo;legacy update&rdquo; as I would think of them. Mostly I found custom content, people posting their own challenge rules based on the original legacy challenge, and the occasional &ldquo;artsy&rdquo; highly edited screenshot with no or minimal commentary. I don&rsquo;t really want contextless game screenshots&hellip; I want funny shit. I want quirky Sims autonomously starting drama and being hilarious! Where is that?! Or does everyone who wants that just stick with <abbr title="The Sims 2">TS2</abbr>? Because like, at least I found <strong>one</strong> active <abbr title="The Sims 2">TS2</abbr> legacy posting updates on Reddit&hellip; actually I found an active <abbr title="The Sims 4">TS4</abbr> legacy on Reddit too, but it&rsquo;s a bit more serious and less &ldquo;this is what happened in my game lol&rdquo;. Are people just making <em>videos</em> of that style of content now, instead of screenshots with commentary, and posting them on YouTube? Because&hellip; I am not going to do that. Haha.</p>
+<p>Well&hellip; anyway&hellip; step 1 is to actually play my game, right. Experiment with mods and see if it feels fun enough for me to persist with it. It&rsquo;s sad about the difficulty finding or sharing legacy updates, but it&rsquo;s really just an adjunct to actually playing the game anyway, I suppose.</p> 
+
+<https://www.jayeless.net/2024/05/getting-back-into-the-sims-games.html>
+
+---
+
+## First 9front release of the year is called DO NOT INSTALL
+
+date: 2024-05-07, updated: 2024-05-07, from: Liam Proven's articles at the Register
+
+<h4>Possibly its most helpful codename yet</h4>
+      <p>9front, the most active project continuing development of the sequel to Unix, Plan 9 from Bell Labs, emitted a new version. We did not follow its advice.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/05/07/9front_do_not_install/>
+
+---
+
+## Radically Open Security Donates 1 Million Euro to NLnet
+
+date: 2024-05-07, updated: 2024-05-07, from: nlnet feed
+
+ 
+
+<https://nlnet.nl/news/2024/20240507-ROS-10y.html>
+
+---
+
+## The VGA attribute controller is weird
+
+date: 2024-05-06, from: OS News
+
+The grabber in Windows 3.1 was improved to save and restore the index register as well, but it does not attempt to restore the flip-flop state, which is significant. The problem with the VGA emulation was that it erroneously applied the flip-flop state to reads from port 3C0h, and Windows 3.1 would save the wrong index register value… but only the second time through, because the flip-flop state was different at that point. That is to say, the Windows 3.1 standard mode grabber read from port 3C0h to query the attribute controller index register state, but the emulation returned the currently selected data register contents instead. And then, when restoring the attribute controller index register the next time around, the register would be restored to the wrong value which didn’t have bit 5 set, causing the screen to go blank. ↫ Michal Necasek It&#8217;s not every day that you learn how an aspect of the workings of VGA causes a blank screen under very specific circumstances when running Windows 3.1 in Standard mode under emulation, and that this specific aspect of the workings of VGA was implemented to maintain backwards compatibility with EGA. Absolutely bonkers. 
+
+<https://www.osnews.com/story/139591/the-vga-attribute-controller-is-weird/>
+
+---
+
+## PowerPC 40x processor support to be dropped from the Linux kernel
+
+date: 2024-05-06, from: OS News
+
+In addition to Linux 6.10 expected to drop support for very old DEC Alpha processors (EV5 and earlier), it looks like the PowerPC 40x (early PowerPC 400 series) processor and platform support will be retired too. Back in 2020 was a proposal for dropping PowerPC 40x support from the Linux kernel given that the code was orphaned for a long time with no apparent users. The PowerPC 40x processors were found in thin clients, set-top boxes, and other devices during the 90&#8217;s. Finally now it looks like that the PowerPC 40x removal is set to happen. ↫ Michael Larabel Spring cleaning in the hardware support department. I wonder what has more users &#8211; Windows on ARM, or Linux on PowerPC 40x. 
+
+<https://www.osnews.com/story/139588/powerpc-40x-processor-support-to-be-dropped-from-the-linux-kernel/>
+
+---
+
+## First-generation Windows on ARM PCs will not be able to run Windows 11 24H2
+
+date: 2024-05-06, from: OS News
+
+Windows 11 supports a variety of ARM processors from Qualcomm. According to the official documentation, you need a computer with the Snapdragon 850 processor inside or newer to run the current operating system officially. However, customers with PCs powered by the Snapdragon 835, the original Windows on ARM chip from 2016, can bypass hardware requirements and install Windows 11 at their own risk. Sadly, those days will be ending soon. Starting with Windows 11 version 24H2, Microsoft&#8217;s operating system requires ARM v8.1 to run. An attempt to boot it from a device with an ARM v8.0-based processor results in system crashes. For reference, the Snapdragon 835 from 2016 is a chip with Kryo 280 cores, which are derivative of ARM&#8217;s Cortex-A73 cores. ↫ Taras Buria at Neowin I&#8217;m sure all three Windows on ARM users are devastated. 
+
+<https://www.osnews.com/story/139585/first-generation-windows-on-arm-pcs-will-not-be-able-to-run-windows-11-24h2/>
+
+---
+
+## The State of Emulation - 2024
+
+date: 2024-05-06, from: Tilde.news
+
+<p><a href="https://tilde.news/s/smhkyd/state_emulation_2024">Comments</a></p> 
+
+<https://shonumi.github.io/articles/art34.html>
+
+---
+
+## Whitewashing?
+
+date: 2024-05-06, from: Status-Q blog
+
+Here&#8217;s a question, O Internet: If I buy full-fat milk and dilute it 50/50 with water, do I effectively have semi-skimmed milk, or is there something more sophisticated about the skimming process? And if I then dilute it again, do I get skimmed milk&#8230; for one quarter of the price? 
+
+<https://statusq.org/archives/2024/05/06/12058/>
+
+---
+
+##  The Shardlake Series 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/cj-sansom-novels>
+
+---
+
+##  Hi, I am Needs to Read About A Rap Beef in the... 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044566-i-am-needs-to-read>
+
+---
+
+## SteerMouse 5.7
+
+date: 2024-05-06, from: Michael Tsai
+
+Plentycom Systems: SteerMouse is a utility that lets you freely customize buttons, wheels and cursor speed. Both USB and Bluetooth mice are supported. [&#8230;] You can assign a function to combinations of a button and modifier keys ( command shift option control ). In addition to it, you can assign a function to combinations of [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/06/steermouse-5-7/>
+
+---
+
+## iOS 17 Calendar Search Failures
+
+date: 2024-05-06, from: Michael Tsai
+
+keldwink (via Ric Ford): Updated my 15pro to 17.0.2 and I can no longer search in the calendar app. No matter what I search for, it comes up with &#8220;no results&#8221; The replies list various potential fixes. It&#8217;s not clear to me whether something is specifically broken with iOS 17 or this is just typical [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/06/ios-17-calendar-search-failures/>
+
+---
+
+## Apple’s Third-Party SDK List for Privacy Manifests
+
+date: 2024-05-06, from: Michael Tsai
+
+Apple: Starting May 1, 2024, new or updated apps that have a newly added third-party SDK that&#8216;s on the list of commonly used third-party SDKs will need all of the following to be submitted in App&#160;Store&#160;Connect: Required reasons for each listed API Privacy manifests Valid signatures when the SDK is added as a binary dependency [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/06/apples-third-party-sdk-list-for-privacy-manifests/>
+
+---
+
+## Swift’s Native Clocks Are Very Inefficient
+
+date: 2024-05-06, from: Michael Tsai
+
+Wade Tregaskis (Hacker News): In a nutshell, the problem is that Swift&#8217;s Clock protocol has significant overheads by design. If you look at a time profile of code like this, you&#8217;ll see things like[&#8230;]That&#8217;s a lot of time wasted in function calls and struct initialisation and type conversion and protocol witnesses and all that guff. [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/06/swifts-native-clocks-are-very-inefficient/>
+
+---
+
+##  Zadie Smith: &#8220;To send the police in to arrest young people peacefully... 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044561-zadie-smith-to-send-the>
+
+---
+
+## Astronaut Suni Williams Prepares for Crew Flight Test
+
+date: 2024-05-06, from: NASA breaking news
+
+NASA’s Boeing Crew Flight Test astronaut Suni Williams gives a thumbs up during a mission dress rehearsal on Friday, April 26, 2024, at the agency’s Kennedy Space Center in Florida. Williams was selected as an astronaut by NASA in 1998 and has been aboard the International Space Station twice. She is set to return to [&#8230;] 
+
+<https://www.nasa.gov/image-article/astronaut-suni-williams-prepares-for-crew-flight-test/>
+
+---
+
+##  Squaring the Reality of What We See 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/squaring-the-reality-of-what-we-see>
+
+---
+
+##  Hey everyone, it&#8217;s Hot Frank Summer! Aka we&#8217;re all reading Mary Shelley&#8217;s... 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044564-hey-everyone-its-hot-fran>
+
+---
+
+##  Booting up an Apple IIc to play Lode Runner. Oh maaaaaan, this... 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044557-booting-up-an-apple-iic>
+
+---
+
+##  These folks wrote an autopilot in Javascript that can control planes in... 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044559-these-folks-wrote-an-auto>
+
+---
+
+## New NASA Black Hole Visualization Takes Viewers Beyond the Brink
+
+date: 2024-05-06, from: NASA breaking news
+
+Ever wonder what happens when you fall into a black hole? Now, thanks to a new, immersive visualization produced on a NASA supercomputer, viewers can plunge into the event horizon, a black hole’s point of no return. “People often ask about this, and simulating these difficult-to-imagine processes helps me connect the mathematics of relativity to […] 
+
+<https://science.nasa.gov/supermassive-black-holes/new-nasa-black-hole-visualization-takes-viewers-beyond-the-brink/>
+
+---
+
+##  Skating the Contours of Nature 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/skating-the-contours-of-nature>
+
+---
+
+## Eyeing the Future: Harkness Eye Institute’s Ophthalmology Journals Preserved at Internet Archive
+
+date: 2024-05-06, from: Internet Archive Blog
+
+When the decision was made to move the Harkness Eye Institute in New York City from its home of nearly 90 years, no one knew what to do with its [&#8230;] 
+
+<https://blog.archive.org/2024/05/06/eyeing-the-future-harkness-eye-institutes-ophthalmology-journals-preserved-at-internet-archive/>
+
+---
+
+##  Oh cool, spiders can swim now. &#8220;The diving bell spider is the... 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044553-oh-cool-spiders-can-swim>
+
+---
+
+## elegance personified (really)
+
+date: 2024-05-06, from: Ayjay blog
+
+Last night Teri and I watched Swing Time, and afterwards played a little game: We went back to the dance scenes and tried to pause at instants when Astaire and Rogers didn’t look elegant. Couldn’t do it. At every moment they are balanced and poised, they’re perfect images of grace. 
+
+<https://blog.ayjay.org/elegance-personified-really/>
+
+---
+
+## Microsoft and OpenAI’s increasingly complicated relationship
+
+date: 2024-05-06, from: Gary Marcus blog
+
+An AI Soap Opera in the making? 
+
+<https://garymarcus.substack.com/p/microsoft-and-openais-increasingly>
+
+---
+
+##  Wondering why &#8220;people invent false conspiracies when there are so many real... 
+
+date: 2024-05-06, updated: 2024-05-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044555-wondering-why-people-inve>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-05-06, from: Miguel de Icaza Mastondon feed)
+
+<p>Update: successfully gamed Duolingo this week</p> 
+
+<https://mastodon.social/@Migueldeicaza/112394695021016585>
 
 ---
 
