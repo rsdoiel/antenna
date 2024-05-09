@@ -1,0 +1,19 @@
+#
+# Home and Garden related blogs
+#
+https://www.friendlycontractor.com/feed/ "~PHB blog"
+https://theodorepayne.org/feed/ "~Theodore Payne Foundation (SoCal Native Plants)"
+https://www.cnps.org/feed "~California Native Plants Society"
+
+#
+# Inspiration
+#
+https://thejapanesegarden.com/feed/ "~The Japanese Garden"
+https://www.ediblesfvalley.com/feed/ "~Edible San Fernando Valley"
+https://freckledcalifornian.com/feed/ "~The Freckled Gardener"
+
+#
+# Companies and Suppliers
+#
+https://sandiegoseedcompany.com/feed/ "~San Diego Seed Compan"
+

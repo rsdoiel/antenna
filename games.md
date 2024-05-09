@@ -1,11 +1,101 @@
 ---
 title: games 2024.19
-updated: 2024-05-09 08:24:32
+updated: 2024-05-09 12:35:02
 ---
 
 # games 2024.19
 
-(date: 2024-05-09 08:24:32)
+(date: 2024-05-09 12:35:02)
+
+---
+
+## ColourPop’s new Pokémon collection will make you wanna catch ‘em all
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24152286/colourpop-cosmetics-pokemon-collection>
+
+---
+
+## Where to find all origami birds in Honkai: Star Rail
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/honkai-star-rail-guides/24065340/origami-birds-locations-red-pink-yellow-green-penacony-hsr>
+
+---
+
+## The tricks D&D designers used in Vecna: Eve of Ruin to keep 20th-level characters from breaking the game
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24152845/dnd-dungeons-dragons-nerfs-vecna-eve-of-ruin-high-level-characters>
+
+---
+
+## Peter Jackson’s ‘Hunt for Gollum’ movie is likely a hidden Aragorn epic
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24152789/lord-rings-hunt-for-gollum-movie-2026-andy-serkis-peter-jackson>
+
+---
+
+## These stunning illustrated Lord of the Rings books are more than 50% off
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24152860/lord-rings-silmarillion-sale-amazon-books>
+
+---
+
+## All Keepsakes in Hades 2 and how to get them
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/hades-2-guides/24148060/keepsakes-all-list-how-to-unlock-effects>
+
+---
+
+## Surprise! Batman: Caped Crusader is alive and well and premieres this summer
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24152823/batman-caped-crusader-prime-video-release-date>
+
+---
+
+## GTA Online update for the week of May 9
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gta-online-guides/2024/5/9/24152800/may-9-weekly-update-release-time-events-superyacht>
+
+---
+
+## Harley Quinn, Poison Ivy, and Catwoman’s team-up book returns this August from DC
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24152237/dc-comics-gotham-city-sirens-2024>
 
 ---
 

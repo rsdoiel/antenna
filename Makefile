@@ -20,7 +20,7 @@ endif
 
 PROJECT = Antenna
 
-section_names = socal_north pacific mid_central tech_likely columns weather writing games journalism libraries parks motorcycles retro_computing health
+section_names = socal_north pacific mid_central tech_likely columns weather writing games journalism libraries home parks motorcycles retro_computing health
 
 md_files = $(addsuffix .md,$(section_names))
 

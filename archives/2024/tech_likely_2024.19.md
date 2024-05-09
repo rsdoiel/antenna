@@ -1,17 +1,774 @@
 ---
 title: tech likely 2024.19
-updated: 2024-05-09 08:24:32
+updated: 2024-05-09 12:35:01
 ---
 
 # tech likely 2024.19
 
-(date: 2024-05-09 08:24:32)
+(date: 2024-05-09 12:35:01)
+
+---
+
+## I Am Artemis: Lauren Fisher
+
+date: 2024-05-09, from: NASA breaking news
+
+NASA’s Lauren Fisher, lead engineer for the thermal protection systems on Artemis III’s LVSA, discusses how her unusual background in music performance and education makes her a stronger engineer.  
+
+<https://www.nasa.gov/image-article/i-am-artemis-lauren-fisher/>
+
+---
+
+##  Take Two Trips 
+
+date: 2024-05-09, updated: 2024-05-09, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/take-two-trips>
+
+---
+
+## Apple Platform Security Guide (May 2024)
+
+date: 2024-05-09, from: Michael Tsai
+
+Apple (PDF, via Ivan Krsti&#x107;): Unless otherwise noted, this documentation covers the following operating system versions: iOS 17.3, iPadOS 17.3, macOS 14.3, tvOS 17.3, and watchOS 10.3. Apple: Topics added:Cryptex1 Image4 Manifest Hash (spih)Cryptex1 Generation (stng)BlastDoor for Messages and IDSLockdown Mode securityAbout App Store securityWidgetKit security I thought I must have missed last year&#8217;s update, [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/09/apple-platform-security-guide-may-2024/>
+
+---
+
+## Cuckoo Malware
+
+date: 2024-05-09, from: Michael Tsai
+
+Adam Kohler and Christopher Lopez: The downloaded DMG contains an application bundle. Normally, macOS applications instruct the user to drag such apps into the /Applications folder. But in this case, it tells the user to right-click on it and click Open. [&#8230;] Looking into the upd file in the original bundle, we found that it [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/09/cuckoo-malware/>
+
+---
+
+## Root Privilege Escalation via diskutil
+
+date: 2024-05-09, from: Michael Tsai
+
+Eswar: A new local privilege escalation vulnerability has been discovered in macOS which could allow any user to escalate their privileges to root by mounting filesystems using &#8220;diskutil&#8221; command line utility. This new vulnerability has been assigned with CVE-2023-42931 and the severity is yet to be categorized.[&#8230;]If a user has mount privileges on the macOS, [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/09/root-privilege-escalation-via-diskutil/>
+
+---
+
+## Why In-App Purchases Don’t Work for the Enterprise
+
+date: 2024-05-09, from: Michael Tsai
+
+Caleb Basinger: We don&#8217;t buy apps through the App Store. Rather, we purchase licenses in bulk&#8212;one for every employee or device&#8212;through Apple&#8217;s Apps and Books program, part of Apple Business Manager and Apple School Manager.[&#8230;]The only problem is that Apps and Books doesn&#8217;t support in-app purchases or in-app subscriptions. That means we can&#8217;t access the [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/09/why-in-app-purchases-dont-work-for-the-enterprise/>
+
+---
+
+## Spitzer Space Telescope Captures Galactic Snack
+
+date: 2024-05-09, from: NASA breaking news
+
+This image, released on May 9, 2024, from NASA’s retired Spitzer Space Telescope shows streams of dust flowing toward the supermassive black hole at the heart of the Andromeda Galaxy. These dust streams can help explain how black holes billions of times the mass of our Sun can satiate their big appetites but remain “quiet” [&#8230;] 
+
+<https://www.nasa.gov/image-article/spitzer-space-telescope-captures-galactic-snack/>
+
+---
+
+##  This is the first I&#8217;m learning of the spookily named Decline at... 
+
+date: 2024-05-09, updated: 2024-05-09, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044588-this-is-the-first-im>
+
+---
+
+## Arizona, New York Students to Hear from NASA Astronauts Aboard Station
+
+date: 2024-05-09, from: NASA breaking news
+
+Students from Arizona and New York will have separate opportunities next week to hear from astronauts aboard the International Space Station. At 12:10 p.m. EDT on Tuesday, May 14, NASA astronauts Jeanette Epps and Tracy C. Dyson will answer prerecorded student questions from Sunnyside Unified School District in Tucson, Arizona, in partnership with the TRiO [&#8230;] 
+
+<https://www.nasa.gov/news-release/arizona-new-york-students-to-hear-from-nasa-astronauts-aboard-station/>
+
+---
+
+## NASA Invites Media to Arizona Simulated Artemis Moonwalking Site
+
+date: 2024-05-09, from: NASA breaking news
+
+Media are invited to interact with the NASA team members practicing Artemis moonwalking operations Saturday, May 18, in the San Francisco Volcanic Fields near Flagstaff, Arizona. NASA’s in-person only event includes an opportunity to speak with subject matter experts and view various hardware stations. The activities are the fifth in a series since April 2022 [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-arizona-simulated-artemis-moonwalking-site/>
+
+---
+
+##  Diary Comics, Dec. 21-25 
+
+date: 2024-05-09, updated: 2024-05-09, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/diary-comics-dec-21-25>
+
+---
+
+## Achieving Pro Zoom meeting quality on my Mac
+
+date: 2024-05-09, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Achieving Pro Zoom meeting quality on my Mac</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img class="insert-image" width="700" height="auto" alt="Azden shotgun mic on desk setup" src="https://www.jeffgeerling.com/sites/default/files/images/desk-setup-azden-mic.jpg"></p>
+
+<p>For the past decade, I've worked remote. I slowly moved from full-time software and infrastructure dev to YouTuber, and throughout that time, I kept tweaking my desk video recording/conferencing setup.</p>
+
+<p>I wanted to document my setup today, as I've tweaked it a bit in my new studio space. Hopefully some of my tools and techniques can help you, or maybe you can find a way to make a simpler (hopefully cheaper) but higher quality setup!</p>
+
+<p>I made a video going through everything in detail, but I'll mention the highlights in this post:</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-05-09T11:51:18-05:00" title="Thursday, May 9, 2024 - 11:51" class="datetime">May 9, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/achieving-pro-zoom-meeting-quality-on-my-mac>
+
+---
+
+## NASA Images Help Explain Eating Habits of Massive Black Hole
+
+date: 2024-05-09, from: NASA breaking news
+
+Data from NASA’s retired Spitzer Space Telescope has given scientists new insights into why some supermassive black holes shine differently than others. In images from NASA’s retired Spitzer Space Telescope, streams of dust thousands of light-years long flow toward the supermassive black hole at the heart of the Andromeda galaxy. It turns out these streams [&#8230;] 
+
+<https://www.nasa.gov/general/nasa-images-help-explain-eating-habits-of-massive-black-hole/>
+
+---
+
+## MAF EAP – Trauma-Informed Workplace
+
+date: 2024-05-09, from: NASA breaking news
+
+Trauma-Informed Workplace Organized by Health 4 Life. In today&#8217;s dynamic professional landscape, understanding and addressing the impacts of trauma is essential for fostering a supportive and inclusive work culture. Join us as we explore the principles of trauma-informed care and their practical applications within organizational settings. We will share strategies for recognizing signs of trauma, [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/trauma-informed-workplace/>
+
+---
+
+## Apple’s “Let Loose” iPad Event was Shot on iPhone — With Panavision Lenses
+
+date: 2024-05-09, from: Stu Maschwitz blog
+
+<figure class="
+              sqs-block-image-figure
+              intrinsic
+            "
+        >
+          
+        
+        
+
+        
+          
+            
+          
+            
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/25e2d7ae-e144-44fc-8099-e3630641268c/loose_01_stills_00004.jpg" data-image-dimensions="1920x1080" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/25e2d7ae-e144-44fc-8099-e3630641268c/loose_01_stills_00004.jpg?format=1000w" width="1920" height="1080" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/25e2d7ae-e144-44fc-8099-e3630641268c/loose_01_stills_00004.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/25e2d7ae-e144-44fc-8099-e3630641268c/loose_01_stills_00004.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/25e2d7ae-e144-44fc-8099-e3630641268c/loose_01_stills_00004.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/25e2d7ae-e144-44fc-8099-e3630641268c/loose_01_stills_00004.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/25e2d7ae-e144-44fc-8099-e3630641268c/loose_01_stills_00004.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/25e2d7ae-e144-44fc-8099-e3630641268c/loose_01_stills_00004.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/25e2d7ae-e144-44fc-8099-e3630641268c/loose_01_stills_00004.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+          
+        
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <p class="">Still from Apple’s “Let Loose” video.</p>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    
+  
+
+
+  
+
+
+<p>Apple unveiled their new line of iPads yesterday in a pre-recorded video titled “Let Loose.” As with the previous “Scary Fast” MacBook Pro launch video, “Let Loose” ends with a tag proclaiming “Shot on iPhone” — this time adding “Edited on Mac and iPad,” and the fine print: “All presenters, locations, and aerial footage shot on iPhone.”</p>
+<p>During the live stream I actively wondered if the iPhone acquisition of “Scary Fast” had been a one-time thing. “Let Loose” looks great, as all Apple videos do, but some shots featured a shallower depth-of-field than is possible with an iPhone-sized lens and sensor combo. At the end of the event, I wondered publicly <a href="https://www.threads.net/@prolost/post/C6rbqRYvP58">on Threads</a> about this. Replies speculated about additional lens rigs, some improved version of <a href="https://twitter.com/i/events/1449156150507626498">Cinematic Mode</a>, or maybe blurring the background in post.</p>
+<h2>Panavision Lens Relay System</h2>
+<p>After Apple released a behind-the-scenes video about the production of “Scary Fast,” the Internet <a href="https://prolost.com/blog/scarybts">did its internet thing</a> and questioned the “Shot on iPhone” claim, as if “Shot on iPhone” inherently means “shot with zero other gear besides an iPhone.” These takes were dumb and bad and some even included assertions that Apple added additional lensing to the phones, which they did not.</p>
+<p>But for “Let Loose,” they did.</p>
+<p>“Let Loose” was shot on iPhone 15 Pro Max, and Apple informed me on background that for several shots where a shallow depth-of-field was desired, Panavision lenses were attached to the iPhones using a Panavision-developed mount called the “Lens Relay System.” This rig is publicly available for rent from Panavision today, although not currently listed on their website.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            "
+        >
+          
+        
+        
+
+        
+          
+            
+              
+              
+          
+            
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/1ed6a2a6-7869-4ade-a3e3-43066ae5c7e7/loose_01_stills_00002.jpg" data-image-dimensions="1920x1080" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/1ed6a2a6-7869-4ade-a3e3-43066ae5c7e7/loose_01_stills_00002.jpg?format=1000w" width="1920" height="1080" sizes="(max-width: 640px) 100vw, (max-width: 767px) 50vw, 50vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/1ed6a2a6-7869-4ade-a3e3-43066ae5c7e7/loose_01_stills_00002.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/1ed6a2a6-7869-4ade-a3e3-43066ae5c7e7/loose_01_stills_00002.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/1ed6a2a6-7869-4ade-a3e3-43066ae5c7e7/loose_01_stills_00002.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/1ed6a2a6-7869-4ade-a3e3-43066ae5c7e7/loose_01_stills_00002.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/1ed6a2a6-7869-4ade-a3e3-43066ae5c7e7/loose_01_stills_00002.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/1ed6a2a6-7869-4ade-a3e3-43066ae5c7e7/loose_01_stills_00002.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/1ed6a2a6-7869-4ade-a3e3-43066ae5c7e7/loose_01_stills_00002.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+          
+        
+            
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <p class="">There’s just enough shallow focus in these shots to make me wonder how they could be shot on iPhone</p>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            "
+        >
+          
+        
+        
+
+        
+          
+            
+              
+              
+          
+            
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/89d692ad-3fc4-4dc8-bfcd-5b4ec3cab5fb/loose_01_stills_00003.jpg" data-image-dimensions="1920x1080" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/89d692ad-3fc4-4dc8-bfcd-5b4ec3cab5fb/loose_01_stills_00003.jpg?format=1000w" width="1920" height="1080" sizes="(max-width: 640px) 100vw, (max-width: 767px) 50vw, 50vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/89d692ad-3fc4-4dc8-bfcd-5b4ec3cab5fb/loose_01_stills_00003.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/89d692ad-3fc4-4dc8-bfcd-5b4ec3cab5fb/loose_01_stills_00003.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/89d692ad-3fc4-4dc8-bfcd-5b4ec3cab5fb/loose_01_stills_00003.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/89d692ad-3fc4-4dc8-bfcd-5b4ec3cab5fb/loose_01_stills_00003.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/89d692ad-3fc4-4dc8-bfcd-5b4ec3cab5fb/loose_01_stills_00003.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/89d692ad-3fc4-4dc8-bfcd-5b4ec3cab5fb/loose_01_stills_00003.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/89d692ad-3fc4-4dc8-bfcd-5b4ec3cab5fb/loose_01_stills_00003.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+          
+        
+            
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <p class="">Cinematic Mode could never.</p>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    
+  
+
+
+  
+
+
+<p>What’s a “lens relay system?” Think of a telescope. Instead of focusing an image on a plane of film or a sensor, it creates what’s known as an “aerial image” that you capture with another lens system — your eye. If you’ve ever smashed your phone up to a pair of binoculars successfully, you’ve made a lens relay system.</p><p>I used a Frasier lens relay system from Panavision to get small lenses into tight spaces for a <a href="https://www.youtube.com/watch?v=hfgBl_aMI_0">Ruby Tuesday commercial</a> I directed. The Frasier is a pericope lens, one physical unit that contains both the taking lens and the capture lens.</p><p>With Panavision’s new system, the iPhone’s own lens captures the areal image created by any Panavision lens you like. The iPhone provides the image capture, in ProRes Apple Log, of course.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            "
+        >
+          
+        
+        
+
+        
+          <a class="
+                sqs-block-image-link
+                
+          
+        
+              " href="https://ymcinema.com/2023/03/14/panavision-is-developing-a-directors-finder-for-smartphones/" target="_blank"
+          >
+            
+          
+            
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/acb84f0b-c918-4365-9e7a-ea388f472482/Presentation.001.jpeg" data-image-dimensions="1920x1080" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/acb84f0b-c918-4365-9e7a-ea388f472482/Presentation.001.jpeg?format=1000w" width="1920" height="1080" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/acb84f0b-c918-4365-9e7a-ea388f472482/Presentation.001.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/acb84f0b-c918-4365-9e7a-ea388f472482/Presentation.001.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/acb84f0b-c918-4365-9e7a-ea388f472482/Presentation.001.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/acb84f0b-c918-4365-9e7a-ea388f472482/Presentation.001.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/acb84f0b-c918-4365-9e7a-ea388f472482/Presentation.001.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/acb84f0b-c918-4365-9e7a-ea388f472482/Presentation.001.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/acb84f0b-c918-4365-9e7a-ea388f472482/Presentation.001.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+          
+        
+          </a>
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <p class="">Panavision showed off this “director’s viewfinder” iPhone rig in April. Not exactly what Apple used, but similar idea. Image from Y. M. Cinema, click through for more.</p>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    
+  
+
+
+  
+
+
+<p>There are, of course, many systems for mounting lenses to iPhone (Beastgrip has a <a href="https://youtu.be/-k9AVhcIsLA">popular option</a> and is <a href="https://beastgrip.com/pages/beastgrip-dof-adapter-mk3">working on a new one</a>), but it’s certainly notable that Panavision made one, as they exclusively serve a market of high-end professional filmmakers.</p>
+<h2>Why Lenses?</h2>
+<p>If “Scary Fast” could be shot without add-on lenses, what does Panavision’s rig bring to the table? Apple Log allows the iPhone to capture highly-mailable, 10-bit ProRes footage that fits into a professional pipeline alongside footage from high-end cinema cameras, but the one thing it can’t do is capture the shallow depth-of-field that we associate with high-end productions. The look of “Let Loose” is a collaboration between the iPhone’s clean capture, the focus control of the Panavision lenses, and top-tier color grading.</p>
+<h2>Don’t You Start Internet</h2>
+<p>So is it fair to say “Let Loose” was “Shot on iPhone” if it was done with the help of gear the average iPhone owner could never afford? Of course it is. Feel free to re-read this: <a href="https://prolost.com/blog/scarybts">What Does and Doesn't Matter about Apple Shooting their October Event on iPhone 15 Pro Max</a> — but in short, the fact that Apple can drop an iPhone into an otherwise-unaltered professional film production and match the look of their previous videos without anyone even noticing is meaningful.</p>
+<p>In fact, “Let Loose” is the first Apple Event finished and streamed in HDR, pushing the iPhone’s capture abilities even further than “Scary Fast.”</p>
+<p>You don’t <em>need</em> to add cinema lenses to the iPhone to <a href="https://prolost.com/blog/iphonelog-peru-taiwan">make great-looking images</a>, but the fact that you can is cool.</p>
+<p>You also don’t need to twist yourself into knots wondering why you might choose an iPhone over a professional cinema camera when you have a Panavision lens budget. Personally, I’m more excited about the <a href="https://prolost.com/blog/iphonelog-peru-taiwan">run-and-gun possibilities</a> — and a vote of confidence from the most elite cinema rental house only bolsters the story of iPhone as professional video camera.</p>
+<p>Or think of it this way: Apple confidently intercut footage shot with the most elite cinema lenses available with footage shot with unadorned iPhone lenses.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            "
+        >
+          
+        
+        
+
+        
+          
+            
+              
+              
+          
+            
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/2940acc2-2a5b-4252-9fa2-f250e3b76bdd/loose_01_stills_00001.jpg" data-image-dimensions="1920x1080" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/2940acc2-2a5b-4252-9fa2-f250e3b76bdd/loose_01_stills_00001.jpg?format=1000w" width="1920" height="1080" sizes="(max-width: 640px) 100vw, (max-width: 767px) 50vw, 50vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/2940acc2-2a5b-4252-9fa2-f250e3b76bdd/loose_01_stills_00001.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/2940acc2-2a5b-4252-9fa2-f250e3b76bdd/loose_01_stills_00001.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/2940acc2-2a5b-4252-9fa2-f250e3b76bdd/loose_01_stills_00001.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/2940acc2-2a5b-4252-9fa2-f250e3b76bdd/loose_01_stills_00001.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/2940acc2-2a5b-4252-9fa2-f250e3b76bdd/loose_01_stills_00001.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/2940acc2-2a5b-4252-9fa2-f250e3b76bdd/loose_01_stills_00001.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/2940acc2-2a5b-4252-9fa2-f250e3b76bdd/loose_01_stills_00001.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+          
+        
+            
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <p class="">Panavision for sure.</p>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            "
+        >
+          
+        
+        
+
+        
+          
+            
+              
+              
+          
+            
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/9e263845-bfdc-4a8d-92ca-3b293ca4b038/loose_01_stills_00005.jpg" data-image-dimensions="1920x1080" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/9e263845-bfdc-4a8d-92ca-3b293ca4b038/loose_01_stills_00005.jpg?format=1000w" width="1920" height="1080" sizes="(max-width: 640px) 100vw, (max-width: 767px) 50vw, 50vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/9e263845-bfdc-4a8d-92ca-3b293ca4b038/loose_01_stills_00005.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/9e263845-bfdc-4a8d-92ca-3b293ca4b038/loose_01_stills_00005.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/9e263845-bfdc-4a8d-92ca-3b293ca4b038/loose_01_stills_00005.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/9e263845-bfdc-4a8d-92ca-3b293ca4b038/loose_01_stills_00005.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/9e263845-bfdc-4a8d-92ca-3b293ca4b038/loose_01_stills_00005.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/9e263845-bfdc-4a8d-92ca-3b293ca4b038/loose_01_stills_00005.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/9e263845-bfdc-4a8d-92ca-3b293ca4b038/loose_01_stills_00005.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+          
+        
+            
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <p class="">But I’m betting no Panavision here.</p>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    
+  
+
+
+  
+
+
+<h2>The Real Story Here is Apple Log</h2><p>None of this would be possible without Apple having adding Log ProRes recording to the iPhone 15 Pro. Log is to video what raw is to still photography, and the story of how Apple Log transforms the definition of “Shot on iPhone” from a dalliance to a responsible, even desirable strategy for filmmaking is still ongoing.</p><p>Truly “pro” features like color-accurate OLED screens on iPads and ProRes Log on phones don’t just sell a few devices to a few filmmakers. They preserve and elevate Apple’s reputation as the choice of creative professionals in all fields. Apple hardware is vastly overpowered for most of its customer’s uses, so as Apple looks around for folks in need of their very best, they find the <a href="https://www.threads.net/@prolost/post/C6rHc5bvHU0">Zbrush artist</a>, the Redshift renderer, and now, improbably-but-deservedly, the professional cinematographer.</p>
+
+
+
+
+
+  <iframe scrolling="no" allowfullscreen src="//www.youtube.com/embed/yFm-tLrQ8ZQ?wmode=opaque" width="854" frameborder="0" height="480"></iframe> 
+
+<https://prolost.com/blog/panavision-iphone>
+
+---
+
+##  &#8220;I maintain that the trash compactor onboard the Death Star in Star... 
+
+date: 2024-05-09, updated: 2024-05-09, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044554-i-maintain-that-the-trash>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2024-05-09, from: Dave Winer's Scripting News)
 
-It's pretty easy to create a <a href="https://feedland.com/">FeedLand</a> news service for your friends or co-workers, and it'll plug into a lot of the stuff we're working on now for presenting news without requiring people to learn a feed reader. That's a bridge too far for many people. In other words, your understanding of feeds (RSS, Atom, etc) can be of service to others. And by collecting useful sources of news, maybe even insightful ones, we can help upgrade the quality of news we all get. The first step is to learn how to use FeedLand, and <a href="https://docs.feedland.com/gettingstarted.md">it's pretty easy</a>, esp if you already understand feeds. And with categories and OPML subscription lists, you can organize your feed reading everywhere, not just in FeedLand. 
+I'm tired of people using the term "podcast" when I can't find it at the place where I get my podcasts. 
+
+<http://scripting.com/2024/05/09.html#a152444>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-09, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="http://scripting.com/images/2024/01/18/bullmancusohahahah.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's pretty easy to create a <a href="https://feedland.com/">FeedLand</a> news service for your friends or co-workers, and it'll plug into a lot of the stuff we're working on now for presenting news without requiring people to learn a feed reader. That's a bridge too far for many people. In other words, your understanding of feeds (RSS, Atom, etc) can be of service to others. And by collecting useful sources of news, maybe even insightful ones, we can help upgrade the quality of news we all get. The first step is to learn how to use FeedLand, and <a href="https://docs.feedland.com/gettingstarted.md">it's pretty easy</a>, esp if you already understand feeds. And with categories and OPML subscription lists, you can organize your feed reading everywhere, not just in FeedLand. 
 
 <http://scripting.com/2024/05/09.html#a151859>
 

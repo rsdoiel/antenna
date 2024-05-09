@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.19
-updated: 2024-05-09 08:24:32
+updated: 2024-05-09 12:35:02
 ---
 
 # retro computing 2024.19
 
-(date: 2024-05-09 08:24:32)
+(date: 2024-05-09 12:35:02)
+
+---
+
+## Red Hat Adds New Deployment Option for Enterprise Linux Platforms
+
+date: 2024-05-09, from: Linux Magazine
+
+<p>Red Hat has re-imagined enterprise Linux for an AI future with Image Mode.</p> 
+
+<http://www.linux-magazine.com/Online/News/Red-Hat-Adds-New-Deployment-Option-for-Enterprise-Linux-Platforms>
+
+---
+
+## Hybrid BASIC/ASM Programs
+
+date: 2024-05-09, from: C64 OS Blog
+
+ <img src='https://s3.amazonaws.com/com.c64os.resources/weblog/hybridbasicasm/icon-basicasm.jpg'> Here is a blog post about some general programming theory and practice on the C64, that I personally find useful and hopefully you'll find it useful too. I recently updated a tool that I use to help me with C64 OS development from being written in BASIC to being written as a hybrid of BASIC and 6502 Assembly. I'm sure there are many books and many magazine articles that have been published on this subject, but there can never be too much information on programming tips and ideas for the Commodore 64. I should set the stage by explaining my development environment. I decided from the beginning that I wanted to develop C64 OS using a C64 (or C128), and not by cross development on a Mac or PC. I know that isn't everyone's cup of tea, but since I would be spending years working on the project, I wanted to spend those years becoming intimately comfortable again with the C64's keyboard, and the storage devices, and all the various commands in BASIC and in the DOSes of the drives. I think tha. . .  
+
+<https://www.c64os.com/post/hybridbasicasm>
 
 ---
 

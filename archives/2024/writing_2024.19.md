@@ -1,11 +1,22 @@
 ---
 title: writing 2024.19
-updated: 2024-05-09 08:24:32
+updated: 2024-05-09 12:35:02
 ---
 
 # writing 2024.19
 
-(date: 2024-05-09 08:24:32)
+(date: 2024-05-09 12:35:02)
+
+---
+
+## Gabino Iglesias Reviews Beautyland by Marie-Helene Bertino
+
+date: 2024-05-09, from: Locus Magazine
+
+<p><strong>Beautyland</strong>, Marie-Helene Bertino (Farrar, Straus, Giroux 978-0-37410-928-8, $28.00, 336pp, hc) January 2024. Cover by Abby Kagan.</p>
+<p>Marie-Helene Bertino’s <strong>Beautyland </strong>is one of the most unique novels I’ve read in a while. A wonderful mix of science fiction and literary fiction, this story is full of humor but also packs a treasure trove of witty observations about the human condition and a sharp dissection of life in small-town America through  <a href="https://locusmag.com/2024/05/gabino-iglesias-reviews-beautyland-by-marie-helene-bertino/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/gabino-iglesias-reviews-beautyland-by-marie-helene-bertino/>
 
 ---
 
@@ -195,8 +206,8 @@ date: 2024-05-07, from: Locus Magazine
 
 date: 2024-05-07, from: Locus Magazine
 
-<p>Fan John Trimble, 87, died April 19, 2024. He was the husband of the late Bjo Trimble and very active in Los Angeles fandom.</p>
-<p>Trimble was born November 17, 1936, and married Bjo in 1960. He was a member and officer of the Los Angeles Science Fiction Society and many other fan organizations, and was a founder of the Trans Oceanic Fan Fund. He was also a convention organizer, who  <a href="https://locusmag.com/2024/05/john-trimble-1936-2024/" class="read-more">...Read More </a></p> 
+<p>Fan John Trimble, 87, died April 19, 2024. He was the husband of Bjo Trimble and very active in Los Angeles fandom.</p>
+<p>Trimble was born November 17, 1936, and married Bjo in 1960. They had three daughters, Kathryn Arwen, Lora, and Jenn. He was a member and officer of the Los Angeles Science Fiction Society and many other fan organizations, and was a founder of the Trans Oceanic Fan Fund.  <a href="https://locusmag.com/2024/05/john-trimble-1936-2024/" class="read-more">...Read More </a></p> 
 
 <https://locusmag.com/2024/05/john-trimble-1936-2024/>
 

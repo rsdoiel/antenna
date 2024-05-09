@@ -1,11 +1,125 @@
 ---
 title: columns 2024.19
-updated: 2024-05-09 08:24:32
+updated: 2024-05-09 12:35:01
 ---
 
 # columns 2024.19
 
-(date: 2024-05-09 08:24:32)
+(date: 2024-05-09 12:35:01)
+
+---
+
+##  Take Two Trips 
+
+date: 2024-05-09, updated: 2024-05-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/take-two-trips>
+
+---
+
+##  This is the first I&#8217;m learning of the spookily named Decline at... 
+
+date: 2024-05-09, updated: 2024-05-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044588-this-is-the-first-im>
+
+---
+
+##  Diary Comics, Dec. 21-25 
+
+date: 2024-05-09, updated: 2024-05-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/diary-comics-dec-21-25>
+
+---
+
+## Achieving Pro Zoom meeting quality on my Mac
+
+date: 2024-05-09, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Achieving Pro Zoom meeting quality on my Mac</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img class="insert-image" width="700" height="auto" alt="Azden shotgun mic on desk setup" src="https://www.jeffgeerling.com/sites/default/files/images/desk-setup-azden-mic.jpg"></p>
+
+<p>For the past decade, I've worked remote. I slowly moved from full-time software and infrastructure dev to YouTuber, and throughout that time, I kept tweaking my desk video recording/conferencing setup.</p>
+
+<p>I wanted to document my setup today, as I've tweaked it a bit in my new studio space. Hopefully some of my tools and techniques can help you, or maybe you can find a way to make a simpler (hopefully cheaper) but higher quality setup!</p>
+
+<p>I made a video going through everything in detail, but I'll mention the highlights in this post:</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-05-09T11:51:18-05:00" title="Thursday, May 9, 2024 - 11:51" class="datetime">May 9, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/achieving-pro-zoom-meeting-quality-on-my-mac>
+
+---
+
+## Apple's message falls flat
+
+date: 2024-05-09, from: Matt Haughey blog
+
+<p>You&apos;ve probably seen the tone-deaf ad from Apple about their new super thin iPad. I get the concept they were going for&#x2014;it&apos;s like a thousand devices rolled into one, but the way the ad was shot revels in destruction of beloved things and really</p> 
+
+<https://a.wholelottanothing.org/apples-misstep/>
+
+---
+
+## Antisemitism?
+
+date: 2024-05-09, from: Robert Reich's blog
+
+Thoughts on demonstrations, free speech, Joe Biden, and hypocritical Republicans 
+
+<https://robertreich.substack.com/p/antisemitism>
+
+---
+
+## How Criminals Are Using Generative AI
+
+date: 2024-05-09, updated: 2024-05-09, from: Bruce Schneier blog
+
+<p>There&#8217;s a <a href="https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/back-to-the-hype-an-update-on-how-cybercriminals-are-using-genai">new report</a> on how criminals are using generative AI tools:</p>
+<blockquote><p>Key Takeaways:</p>
+<ul>
+<li>Adoption rates of AI technologies among criminals lag behind the rates of their industry counterparts because of the evolving nature of cybercrime.
+<li>Compared to last year, criminals seem to have abandoned any attempt at training real criminal large language models (LLMs). Instead, they are jailbreaking existing ones.
+<li>We are finally seeing the emergence of actual criminal deepfake services, with some bypassing user verification used in financial services.</ul>
+</blockquote>
+ 
+
+<https://www.schneier.com/blog/archives/2024/05/how-criminals-are-using-generative-ai.html>
+
+---
+
+##  &#8220;I maintain that the trash compactor onboard the Death Star in Star... 
+
+date: 2024-05-09, updated: 2024-05-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044554-i-maintain-that-the-trash>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-09, from: Dave Winer's Scripting News)
+
+I'm tired of people using the term "podcast" when I can't find it at the place where I get my podcasts. 
+
+<http://scripting.com/2024/05/09.html#a152444>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-09, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="http://scripting.com/images/2024/01/18/bullmancusohahahah.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's pretty easy to create a <a href="https://feedland.com/">FeedLand</a> news service for your friends or co-workers, and it'll plug into a lot of the stuff we're working on now for presenting news without requiring people to learn a feed reader. That's a bridge too far for many people. In other words, your understanding of feeds (RSS, Atom, etc) can be of service to others. And by collecting useful sources of news, maybe even insightful ones, we can help upgrade the quality of news we all get. The first step is to learn how to use FeedLand, and <a href="https://docs.feedland.com/gettingstarted.md">it's pretty easy</a>, esp if you already understand feeds. And with categories and OPML subscription lists, you can organize your feed reading everywhere, not just in FeedLand. 
+
+<http://scripting.com/2024/05/09.html#a151859>
 
 ---
 

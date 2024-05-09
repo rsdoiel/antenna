@@ -1,11 +1,121 @@
 ---
 title: mid central 2024.19
-updated: 2024-05-09 08:24:32
+updated: 2024-05-09 12:35:01
 ---
 
 # mid central 2024.19
 
-(date: 2024-05-09 08:24:32)
+(date: 2024-05-09 12:35:01)
+
+---
+
+## Handheld analyzers gain pulse generator option
+
+date: 2024-05-09, from: EDN Blog
+
+<img width="800" height="418" src="https://www.edn.com/wp-content/uploads/Keysight-FieldFox-Option-357.jpg?fit=800%2C418" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Keysight-FieldFox-Option-357.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Keysight-FieldFox-Option-357.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Keysight-FieldFox-Option-357.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>FieldFox handheld RF analyzers from Keysight can now generate an array of pulse types at frequencies as high as 54 GHz.</p>
+<p>The post <a href="https://www.edn.com/handheld-analyzers-gain-pulse-generator-option/" data-wpel-link="internal">Handheld analyzers gain pulse generator option</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/handheld-analyzers-gain-pulse-generator-option/>
+
+---
+
+## Software platform streamlines factory automation
+
+date: 2024-05-09, from: EDN Blog
+
+<img width="800" height="465" src="https://www.edn.com/wp-content/uploads/Siemens-Simatic-Workstation.jpg?fit=800%2C465" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Siemens-Simatic-Workstation.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Siemens-Simatic-Workstation.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Siemens-Simatic-Workstation.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Reducing shop-floor hardware, Siemens’ Simatic Automation Workstation delivers centralized software-defined factory automation and control.</p>
+<p>The post <a href="https://www.edn.com/software-platform-streamlines-factory-automation/" data-wpel-link="internal">Software platform streamlines factory automation</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/software-platform-streamlines-factory-automation/>
+
+---
+
+## Silicon capacitor boasts ultra-low ESL
+
+date: 2024-05-09, from: EDN Blog
+
+<img width="800" height="453" src="https://www.edn.com/wp-content/uploads/Empower-EC1005P.jpg?fit=800%2C453" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Empower-EC1005P.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Empower-EC1005P.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Empower-EC1005P.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Joining Empower’s family of E-CAP silicon capacitors for high-frequency decoupling is the EC1005P, a device with an ESL of just 1 picohenry.</p>
+<p>The post <a href="https://www.edn.com/silicon-capacitor-boasts-ultra-low-esl/" data-wpel-link="internal">Silicon capacitor boasts ultra-low ESL</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/silicon-capacitor-boasts-ultra-low-esl/>
+
+---
+
+## Crossbar switch eases in-vehicle USB-C connectivity
+
+date: 2024-05-09, from: EDN Blog
+
+<img width="700" height="487" src="https://www.edn.com/wp-content/uploads/Diodes-PI3USB31532Q.jpg?fit=700%2C487" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Diodes-PI3USB31532Q.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Diodes-PI3USB31532Q.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>A 10-Gbps automotive-grade crossbar switch from Diodes routes USB 3.2 and DisplayPort 2.1 signals through a USB Type-C connector.</p>
+<p>The post <a href="https://www.edn.com/crossbar-switch-eases-in-vehicle-usb-c-connectivity/" data-wpel-link="internal">Crossbar switch eases in-vehicle USB-C connectivity</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/crossbar-switch-eases-in-vehicle-usb-c-connectivity/>
+
+---
+
+## MCU manages 12-V automotive batteries
+
+date: 2024-05-09, from: EDN Blog
+
+<img width="800" height="463" src="https://www.edn.com/wp-content/uploads/Infineon-PSoc-4-HVPA-144k.jpg?fit=800%2C463" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Infineon-PSoc-4-HVPA-144k.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Infineon-PSoc-4-HVPA-144k.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Infineon-PSoc-4-HVPA-144k.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Infineon’s PSoC 4 HVPA-144k MCU serves as a programmable embedded system for monitoring and managing automotive 12-V lead-acid batteries.</p>
+<p>The post <a href="https://www.edn.com/mcu-manages-12-v-automotive-batteries/" data-wpel-link="internal">MCU manages 12-V automotive batteries</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/mcu-manages-12-v-automotive-batteries/>
+
+---
+
+## Tigran Hamasyan Trio Performs in Keyboard Concert Series
+
+date: 2024-05-09, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Musician and jazz artist Tigran Hamasyan was introduced to music from a young age. In an interview from the podcast Rearrange with Narek Amirkhanyan, Hamasyan said “even when I was in my mother’s womb, my father would play a lot of music, especially rock. And I don’t have a recollection of when I started. I... 
+
+<https://fscollegian.com/2024/05/tigran-hamasyan-trio-performs-in-keyboard-concert-series/>
+
+---
+
+## Award Winning “Amerikatsi” Movie Screened in CineCulture Series – Director Goorjian Attends
+
+date: 2024-05-09, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+“We have a lot of films that amplify what is bad about humanity, and to me the concept of someone watching somebody else and starting to care about them…that’s human nature, and an idea that is important to reflect in film,” said Michael A. Goorjian, director of “Amerikatsi.” On Friday, April 26, 2024, the Armenian... 
+
+<https://fscollegian.com/2024/05/award-winning-amerikatsi-movie-screened-in-cineculture-series-director-goorjian-attends/>
+
+---
+
+## Der Mugrdechian Presents on the Armenian Genocide to Madera Community College Students
+
+date: 2024-05-09, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+On Wednesday, April 10, 2024, Prof. Barlow Der Mugrdechian, Berberian Coordinator of the Armenian Studies Program at Fresno State, gave a talk on “The Armenian Genocide: 1915-1923,” at Madera Community College. The event was organized by Dr. Hagop Ohanessian of the Madera Community College History Department and the “Our Story” History Club. Nearly fifty people... 
+
+<https://fscollegian.com/2024/05/der-mugrdechian-presents-on-the-armenian-genocide-to-madera-community-college-students/>
+
+---
+
+## Jeff and Jason Ahronian Establish ASP Scholarship
+
+date: 2024-05-09, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Fresno State alumni Jeff and Jason Ahronian have established an annual scholarship in the Armenian Studies Program at Fresno State. Jeff and Jason wanted to give back to the community which has helped them out with so much over the years. They believe it is important that students learn about the rich Armenian culture and... 
+
+<https://fscollegian.com/2024/05/jeff-and-jason-ahronian-establish-asp-scholarship/>
+
+---
+
+## Pulitzer Prize Winning Poet Peter Balakian Speaks at Fresno State
+
+date: 2024-05-09, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+“My imagination has ingested only a filament of a huge event.” Peter Balakian, author and poet of eight books, visited the Fresno State campus on Monday, April 22 to address what Dr. Sergio La Porta introduced as a “continuation of a conversation through poetry.” Balakian’s lecture, titled “Imagining the Past: Atrocity, Trauma, and the Armenian... 
+
+<https://fscollegian.com/2024/05/pulitzer-prize-winning-poet-peter-balakian-speaks-at-fresno-state/>
 
 ---
 
@@ -23,7 +133,7 @@ date: 2024-05-09, from: Amateur Radio Relay League News
 
 date: 2024-05-09, from: EDN Blog
 
-<img width="600" height="245" src="https://www.edn.com/wp-content/uploads/PSU_fig1.jpg?fit=600%2C245" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/PSU_fig1.jpg?w=600 600w, https://www.edn.com/wp-content/uploads/PSU_fig1.jpg?w=300 300w" sizes="(max-width: 600px) 100vw, 600px" /><p>An effective means of switching between replaceable internal batteries and external power, such as AA cells and USB. </p>
+<img width="600" height="245" src="https://www.edn.com/wp-content/uploads/PSU_fig1.jpg?fit=600%2C245" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/PSU_fig1.jpg?w=600 600w, https://www.edn.com/wp-content/uploads/PSU_fig1.jpg?w=300 300w" sizes="(max-width: 600px) 100vw, 600px" /><p>An effective means of switching between replaceable internal batteries and external power, such as AA cells and USB. </p>
 <p>The post <a href="https://www.edn.com/2xaa-usb-ok/" data-wpel-link="internal">2×AA/USB: OK!</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

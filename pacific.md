@@ -1,11 +1,23 @@
 ---
 title: pacific 2024.19
-updated: 2024-05-09 08:24:32
+updated: 2024-05-09 12:35:01
 ---
 
 # pacific 2024.19
 
-(date: 2024-05-09 08:24:32)
+(date: 2024-05-09 12:35:01)
+
+---
+
+## John takes oath
+
+date: 2024-05-09, from: Marshal Islands Journal
+
+<p>New RMI Ambassador John Silk was sworn into office last week Thursday. Chief Justice Carl Ingram and Clerk of Courts Ingrid Kabua performed the ceremony while Silk’s wife Mary held the Bible. There was a big turnout of VIPs, including President Hilda Heine, family and friends at the Nitijela Conference Room. Silk is scheduled to [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/john-takes-oath/">John takes oath</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/john-takes-oath/>
 
 ---
 

@@ -1,11 +1,21 @@
 ---
 title: motorcycles 2024.19
-updated: 2024-05-09 08:24:32
+updated: 2024-05-09 12:35:02
 ---
 
 # motorcycles 2024.19
 
-(date: 2024-05-09 08:24:32)
+(date: 2024-05-09 12:35:02)
+
+---
+
+## 2025 KTM 450 Rally Replica First Look
+
+date: 2024-05-09, from: Cycle World News
+
+KTM has won the Dakar Rally 19 times in the last 23 years. KTM hopes that the new 2025 450 Rally Replica will put it back on the top step of the podium in ’25. 
+
+<https://www.cycleworld.com/bikes/ktm-450-rally-replica-first-look/>
 
 ---
 
