@@ -1,11 +1,111 @@
 ---
 title: games 2024.19
-updated: 2024-05-08 08:44:38
+updated: 2024-05-09 08:24:32
 ---
 
 # games 2024.19
 
-(date: 2024-05-08 08:44:38)
+(date: 2024-05-09 08:24:32)
+
+---
+
+## Not sure what TV show to watch? Leave a comment, we’ll help
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/entertainment/2024/5/9/24150607/best-tv-watch-tonight-recommendations-streaming>
+
+---
+
+## We will finally gets a Gollum movie in 2026, precious, we will
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24152753/lord-of-the-rings-gollum-movie-2026-andy-serkis>
+
+---
+
+## SimCity, Resident Evil among five 2024 Video Game Hall of Fame inductees
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24150542/simcity-asteroids-resident-evil-video-game-hall-of-fame-2024>
+
+---
+
+## A dragon book by The Last Unicorn author was lost for years — but now we have an excerpt
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24151443/peter-beagle-im-afraid-youve-got-dragons-free-chapter-online>
+
+---
+
+## How to defeat the seahorse boss in Animal Well and get the bubble wand
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/guides/24152284/seahorse-boss-how-to-beat-bubble-wand-how-to-get>
+
+---
+
+## What are eggs for in Animal Well and how to unlock fast travel
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/guides/24151427/animal-well-eggs-peacock-fast-travel-animal-flute>
+
+---
+
+## How to get past the dog ghost with the disc in Animal Well
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/guides/24151345/animal-well-dog-ghost-disc-how-to-get>
+
+---
+
+## Don’t spoil Animal Well for yourself
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24151337/animal-well-review-pc-ps5-switch>
+
+---
+
+## How to get the map in Animal Well
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/guides/24150433/animal-well-map-how-to-get-find>
+
+---
+
+## How to get past the first ghost in Animal Well
+
+date: 2024-05-09, updated: 2024-05-09, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/guides/24150382/animal-well-ghost-how-to-pass-firecracker-location>
 
 ---
 

@@ -1,11 +1,573 @@
 ---
 title: weather 2024.19
-updated: 2024-05-08 08:44:37
+updated: 2024-05-09 08:24:32
 ---
 
 # weather 2024.19
 
-(date: 2024-05-08 08:44:37)
+(date: 2024-05-09 08:24:32)
+
+---
+
+## SPC MD 728
+
+date: 2024-05-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0728.html"><img src="https://www.spc.noaa.gov/products/md/mcd0728.png" border="1" alt="MD 0728 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0728
+NWS Storm Prediction Center Norman OK
+0939 AM CDT Thu May 09 2024
+
+Areas affected...central/eastern SC...central/south GA...southeast
+AL
+
+Concerning...Tornado Watch 216...217...
+
+Valid 091439Z - 091615Z
+
+The severe weather threat for Tornado Watch 216, 217 continues.
+
+SUMMARY...Leading convective line across the Savannah Valley may
+necessitate an additional downstream watch issuance into the coastal
+plain of South Carolina and Georgia in the near-term. Greater severe
+potential is expected to evolve from upstream clusters and lines
+shifting east-southeast from eastern Alabama, with likely watch
+issuance into south Georgia.
+
+DISCUSSION...A leading line of storms across parts of the Savannah
+Valley into the SC Midlands has struggled to intensify with measured
+gusts holding below 30 mph. However, full boundary-layer heating is
+underway downstream to the coast. This coupled with a favorable low
+to deep-layer shear environment per CAE VWP data will support
+probable intensification of this line as it approaches the coastal
+plain through early afternoon. An increase in damaging wind
+potential, as well as brief embedded tornadoes may occur.
+
+More prominent severe potential should emanate out of initially
+semi-discrete supercells across parts of south AL spreading east of
+the Chattahoochee River into GA, as well as an organized linear
+cluster moving southeast from east-central AL. It appears likely
+that further upscale growth will occur into this afternoon, yielding
+a broader linear cluster/QLCS pushing southeast across much of
+central and south GA.
+
+..Grams.. 05/09/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...ILM...CHS...CAE...JAX...FFC...TAE...BMX...
+
+LAT...LON   34028110 33908025 33977974 33857919 33557909 33157926
+            31708116 31078167 30868350 30988488 31518587 32598617
+            33098591 33388499 33248352 33478229 34028110 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0728.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/md/md0728.html>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2024-05-09, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1007 AM CDT Thu May 09 2024
+
+Valid 091700Z - 101200Z
+
+An Elevated risk area is introduced to portions of southern NM into
+far southwest TX. 15 UTC surface observations show low morning RH
+values (in the teens to low 20s) across the region with around 15%
+RH observed in the residual layer of the 12 UTC EPZ sounding. RH
+values should fall into the single digits by late afternoon as
+southwest winds increase to 15-20 mph in the wake of a passing
+mid-level disturbance. Additionally, latest ensemble guidance has
+shown better agreement in at least a few hours of elevated fire
+weather conditions across southern NM/southwest TX where ERCs are in
+the 80-90th percentile.
+
+..Moore.. 05/09/2024
+
+.PREV DISCUSSION... /ISSUED 1239 AM CDT Thu May 09 2024/
+
+...Synopsis...
+The elongated upper trough will evolve into a closed low over the
+Great Basin today. Farther east, the primary upper trough will move
+into parts of the Southeast and Mid-Atlantic. At the surface, a cold
+front will push south into the Southern Plains and cooler air will
+push up against the southern Rockies.
+
+Fire weather concerns are expected to remain low for most areas.
+Some dry and breezy conditions are possible in the Southwest. Winds
+outside of terrain-favored areas will reach 15-20 mph with RH
+falling to 10-20%. Fuels in Arizona still do not support a large
+fire threat. Fuels into New Mexico are drier, but the duration of
+any elevated conditions appears too limited to support highlights.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## SPC Tornado Watch 216
+
+date: 2024-05-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0216.html"><img src="https://www.spc.noaa.gov/products/watch/ww0216_radar.gif" border="1" alt="WW 0216 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 216
+NWS Storm Prediction Center Norman OK
+545 AM EDT Thu May 9 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  Northern and central Georgia
+  Extreme western North Carolina
+  Extreme southeastern Tennessee
+
+* Effective this Thursday morning and afternoon from 545 AM until
+  100 PM EDT.
+
+* Primary threats include...
+  A couple tornadoes possible
+  Scattered damaging wind gusts to 70 mph likely
+  Isolated large hail events to 1.5 inches in diameter possible
+
+SUMMARY...An organizing complex of severe thunderstorms is expected
+to move southeastward astride an outflow boundary from prior
+activity.  This will focus a corridor of damaging-wind potential,
+with a few tornadoes and isolated severe hail possible through the
+rest of the morning.
+
+The tornado watch area is approximately along and 60 statute miles
+either side of a line from 45 miles north of Rome GA to 55 miles
+east northeast of Macon GA. For a complete depiction of the watch
+see the associated watch outline update (WOUS64 KWNS WOU6).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 215...
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 1.5 inches. Extreme turbulence and surface wind
+gusts to 60 knots. A few cumulonimbi with maximum tops to 500. Mean
+storm motion vector 31035.
+
+...Edwards
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0216.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0216.html>
+
+---
+
+## SPC Tornado Watch 216 Status Reports
+
+date: 2024-05-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0216.html"><img src="https://www.spc.noaa.gov/products/watch/ww0216_radar.gif" border="1" alt="WW 0216 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 216
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 30 SSW RMG
+TO 35 ENE ATL TO 45 NNW AGS.
+
+..BENTLEY..05/09/24
+
+ATTN...WFO...FFC...CAE...GSP...MRX...
+
+
+STATUS REPORT FOR WT 216 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+GAC009-021-033-035-045-063-073-077-079-089-097-113-121-125-133-
+141-143-149-151-153-159-163-169-171-181-189-199-207-211-217-219-
+225-231-237-245-247-255-265-285-289-293-297-301-303-317-319-
+091540-
+
+GA 
+.    GEORGIA COUNTIES INCLUDED ARE
+
+BALDWIN              BIBB                BURKE               
+BUTTS                CARROLL             CLAYTON             
+COLUMBIA             COWETA              CRAWFORD            
+DEKALB               DOUGLAS             FAYETTE             
+FULTON               GLASCOCK            GREENE              
+HANCOCK              HARALSON            HEARD               
+HENRY                HOUSTON             JASPER              
+JEFFERSON            JONES               LAMAR               
+LINCOLN              MCDUFFIE            MERIWETHER          
+MONROE               MORGAN              NEWTON              
+OCONEE               PEACH               PIKE                
+PUTNAM               RICHMOND            ROCKDALE            
+SPALDING             TALIAFERRO          TROUP               
+TWIGGS               UPSON               WALTON              
+WARREN               WASHINGTON          WILKES              
+WILKINSON            
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0216.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0216.html>
+
+---
+
+## SPC Tornado Watch 217 Status Reports
+
+date: 2024-05-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0217.html"><img src="https://www.spc.noaa.gov/products/watch/ww0217_radar.gif" border="1" alt="WW 0217 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 217
+
+THE SEVERE WEATHER THREAT CONTINUES ACROSS THE ENTIRE WATCH AREA.
+
+..BENTLEY..05/09/24
+
+ATTN...WFO...BMX...FFC...
+
+
+STATUS REPORT FOR WT 217 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+ALC001-005-007-011-015-017-021-027-029-037-047-051-065-073-081-
+085-087-091-101-105-109-111-113-115-117-121-123-125-091540-
+
+AL 
+.    ALABAMA COUNTIES INCLUDED ARE
+
+AUTAUGA              BARBOUR             BIBB                
+BULLOCK              CALHOUN             CHAMBERS            
+CHILTON              CLAY                CLEBURNE            
+COOSA                DALLAS              ELMORE              
+HALE                 JEFFERSON           LEE                 
+LOWNDES              MACON               MARENGO             
+MONTGOMERY           PERRY               PIKE                
+RANDOLPH             RUSSELL             ST. CLAIR           
+SHELBY               TALLADEGA           TALLAPOOSA          
+TUSCALOOSA           
+
+
+GAC023-053-081-091-093-107-145-167-175-193-197-209-215-235-249-
+259-261-263-269-271-279-283-307-309-315-091540-
+
+GA 
+.    GEORGIA COUNTIES INCLUDED ARE
+
+BLECKLEY             CHATTAHOOCHEE       CRISP               
+DODGE                DOOLY               EMANUEL             
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0217.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0217.html>
+
+---
+
+## SPC Tornado Watch 217
+
+date: 2024-05-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0217.html"><img src="https://www.spc.noaa.gov/products/watch/ww0217_radar.gif" border="1" alt="WW 0217 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 217
+NWS Storm Prediction Center Norman OK
+950 AM EDT Thu May 9 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  Central and Eastern Alabama
+  Central Georgia
+
+* Effective this Thursday morning and afternoon from 950 AM until
+  500 PM EDT.
+
+* Primary threats include...
+  A couple tornadoes possible
+  Widespread damaging wind gusts to 70 mph likely
+  Scattered large hail likely with isolated very large hail events
+    to 2 inches in diameter possible
+
+SUMMARY...Bands of strong to severe storms will likely continue to
+push east-southeast across the Watch area through the early to mid
+afternoon.  A few supercells are possible ahead of the main
+thunderstorm bands and will also pose a severe risk, including the
+threat for tornadoes and large hail.  Damaging gusts will be the
+primary hazard with the thunderstorm bands, but a tornado may also
+accompany any embedded stronger circulations within the line.
+
+The tornado watch area is approximately along and 50 statute miles
+north and south of a line from 30 miles south southwest of
+Tuscaloosa AL to 15 miles east northeast of Vidalia GA. For a
+complete depiction of the watch see the associated watch outline
+update (WOUS64 KWNS WOU7).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 215...WW 216...
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 2 inches. Extreme turbulence and surface wind
+gusts to 60 knots. A few cumulonimbi with maximum tops to 500. Mean
+storm motion vector 26035.
+
+...Smith
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0217.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0217.html>
+
+---
+
+## SPC Tornado Watch 215 Status Reports
+
+date: 2024-05-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0215.html"><img src="https://www.spc.noaa.gov/products/watch/ww0215_radar.gif" border="1" alt="WW 0215 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 215
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 20 ENE CBM
+TO 30 WSW CHA.
+
+FOR ADDITIONAL INFORMATION SEE MESOSCALE DISCUSSION 0727.
+
+..GRAMS..05/09/24
+
+ATTN...WFO...HUN...BMX...FFC...MEG...OHX...MRX...
+
+
+STATUS REPORT FOR WT 215 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+ALC009-015-019-027-029-043-049-055-057-073-095-107-111-115-117-
+121-125-127-091440-
+
+AL 
+.    ALABAMA COUNTIES INCLUDED ARE
+
+BLOUNT               CALHOUN             CHEROKEE            
+CLAY                 CLEBURNE            CULLMAN             
+DEKALB               ETOWAH              FAYETTE             
+JEFFERSON            MARSHALL            PICKENS             
+RANDOLPH             ST. CLAIR           SHELBY              
+TALLADEGA            TUSCALOOSA          WALKER              
+
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+REFER TO WATCH COUNTY NOTIFICATION STATEMENTS FOR OFFICIAL
+INFORMATION ON COUNTIES...INDEPENDENT CITIES AND MARINE ZONES
+CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0215.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0215.html>
+
+---
+
+## SPC May 9, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-05-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook CORR 1
+NWS Storm Prediction Center Norman OK
+0823 AM CDT Thu May 09 2024
+
+Valid 091300Z - 101200Z
+
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FROM CENTRAL
+TEXAS TO PARTS OF THE GEORGIA/SOUTH CAROLINA COAST...
+
+CORRECTED FOR INCORRECT SLGT LABEL LOCATION
+
+...SUMMARY...
+Very large hail with multiple supercells appears probable across
+parts of north and central Texas into the ArkLaTex vicinity this
+afternoon and evening -- including parts of the Dallas/Ft. Worth
+Metroplex.  A broader corridor of severe hail and damaging-wind
+potential will extend from east Texas into the lower Mississippi
+Valley and Southeast.
+
+...Synopsis...
+In mid/upper levels, an extraordinarily long, more than continent-
+spanning, positively tilted trough was apparent in moisture-channel
+imagery.  The trough extended from an Atlantic cyclone south-
+southeast of Greenland, across Newfoundland/southern Labrador and
+southern parts of QC/ON, the Upper Great Lakes, upper Mississippi
+Valley, NE, the central Rockies, southern Great Basin, central CA,
+and west-southwestward over the Pacific.  On the western segment of
+the trough, a remnant cyclone near FSD/YKN will dissipate shortly,
+while a closed vortex develops over UT and slowly retrogrades
+through the period.  Meanwhile, weak shortwave troughs now over
+parts of MO/IA/IL will move eastward across the Ohio Valley region,
+in advance of a larger, amplifying shortwave trough now over Lake
+Superior and northeastern MN.  A weak, but still potentially
+influential southern stream shortwave will move east-northeastward
+from southwest to central TX today.  Picking up some convective
+vorticity and related amplification, this perturbation should
+accelerate eastward and reach parts of AL by 12Z tomorrow.
+
+At the surface, 11Z analysis showed a diffuse frontal-wave low over
+central IL, with quasistationary to locally warm front eastward
+across central/southern OH to northern WV.  A cold front extended
+from the low across southern IL to eastern AR, becoming wavy/
+quasistationary through a weak low south of ABI, then cold again
+into the Big Bend region.  This front, overall, will sag southward
+across TX through the period, but hang up for much of the day ahead
+of the low and around the DFW/SEP region, and across the Edwards
+Plateau.  The Ohio Valley low is expected to move eastward to near
+the southwestern corner of PA by 00Z, then move/redevelop eastward
+across VA to near the Delmarva Atlantic Coast by the end of the
+period.
+
+...North, central and east TX...
+At least a few supercells are expected to erupt in a high-
+instability environment this afternoon, along and southeast of the
+front.  This activity will be capable of large hail -- some of it
+potentially 3+ inches in diameter -- as well as locally severe gusts
+and perhaps a tornado or two.  The threat area includes the DFW
+Metroplex -- unfortunately, no stranger to swaths of destructive
+hail -- and areas southward/eastward into the Hill Country, I-35/45
+corridors and Piney Woods.
+
+The airmass across the region begins the day quite moist, with
+surface dewpoints commonly in the low/mid 70s just southeast of the
+front, and mid/upper 70s over the Gulf Coastal Plain.  Steep
+midlevel lapse rates, related to an EML, were sampled by 12Z RAOBs
+at MAF and FWD.  This airmass aloft will remain over the region,
+with some subtle/reinforcing large-scale ascent possible ahead of
+the southern-stream perturbation.  Meanwhile, the boundary layer
+should destabilize amidst strong diurnal heating, causing the cap to
+weaken considerably through early/mid afternoon.  Development is
+possible as soon as late morning to midday near the front, over the
+Edwards Plateau, and midday to mid afternoon farther north near the
+low.  By then, 3500-4500 J/kg MLCAPE should be common, locally near
+5000 J/kg.  Low-level flow should remain weak, but with enough
+easterly component southeast of the front to foster strong veering
+with height and long (sometimes nearly straight) hodographs.  This
+will support splitting storms, with both left- and right-moving
+supercells offering the threat for significant (2+ inch) hail. 
+Sustained storms could produce 3-4-inch hailstones, based on
+historic analogs and a 2D hail model applied to forecast soundings.
+
+With a deep troposphere and abundant inflow-layer moisture, deeply
+precip-loaded downdrafts are possible, with some midlevel momentum
+augmentation and related severe-gust potential.  The wind threat
+could evolve upscale and start forward-propagating eastward into LA
+wherever early cells can aggregate into clusters.  The supercell
+tornado threat is conditional, mainly dependent on local storm-scale
+processes such as mergers and boundary interactions.  QLCS tornadoes
+are also possible with any MCS.
+
+...Lower Mississippi Valley to southern Atlantic Coast...
+Ongoing, organized areas of thunderstorms over the Southeast,
+interacting with and focused astride baroclinic/instability
+gradients from outflow boundaries, will continue to offer damaging
+wind, a few tornadoes, and isolated severe hail through at least
+midday as they move across parts of northern MS, AL, territory
+eastward/southeastward toward the GA/SC coast, and perhaps northern
+FL.  For near-term concerns, refer to tornado watches 215-216 and
+related mesoscale discussions.
+
+The related outflow/baroclinic gradient should serve as a focus for
+forward propagation, and perhaps initiation, of thunderstorms this
+afternoon into tonight.  Surface dewpoints commonly in the 70s F and
+strong diurnal heating south and west of the outflow boundaries will
+contribute to peak afternoon MLCAPE of 3500-4500 J/kg, only slowly
+diminishing through the evening and overnight hours.  Given the very
+richly moist and favorable unstable environment in place, beneath
+parallel-oriented midlevel flow, one or two organized MCSs may
+result.  A conditional derecho potential exists, depending on timing
+and location of upscale organization within this corridor.  If a
+complex moves out of east TX, or develops far enough west in MS/LA
+and is sustained all the way across the remainder of the Gulf Coast
+States tonight, either readily could qualify.
+
+One factor that may limit overall wind potential is the gradual
+nocturnal stabilizing of the boundary layer.  However, sufficient
+cold-pool organization, rear-inflow-jet development and forced
+ascent of the still-favorably moist air may produce enough of a
+vertical circulation throughout an MCS to overcome the nocturnal
+influence.  At this time, too many mesoscale uncertainties remain to
+insert an unconditional 45%/MDT wind corridor, but that may need to
+be done in a succeeding outlook if convective guidance comes into
+better agreement and/or mesoscale trends warrant.  A few tornadoes
+also may occur, especially near the outflow boundaries where
+low-level vorticity/shear will be maximized.
+
+...Mid/upper Ohio Valley to Tidewater...
+Scattered to widely scattered thunderstorms are possible today
+across parts of the Ohio Valley region, with damaging to isolated
+severe gusts and marginally severe hail possible.  Activity should
+occur in an environment characterized by steepening midlevel lapse
+rates ahead of the ejecting MO/IA/IL perturbations, modest
+convergence near and ahead of the surface low, adequate near-surface
+moisture with dewpoints in the 50s to mid 60s, and modest diurnal
+heating.  MLCAPE up to the 1000-1500 J/kg range is possible.  Though
+upper flow will be strong, nearly unidirectional profiles and lack
+of greater midlevel winds should keep effective-shear magnitudes in
+the 30-40 kt range over much of the area.
+
+Farther east/southeast, cool/stable air north of a damming/preceding
+frontal zone across VA and the Delmarva should limit the northern
+end of severe potential.  Destabilization and available moisture
+will be substantially limited today in the nominal warm sector,
+between the damming front and a great deal of MCS/outflow activity
+to the south over the Carolinas/GA.  Therefore, while thunderstorms
+are possible this afternoon near the max temperature hours, and deep
+shear may be adequate for a few organized cells, severe potential
+appears isolated and marginal at best.  As such, severe
+probabilities over much of the region have been reduced.
+
+..Edwards.. 05/09/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
@@ -380,190 +942,6 @@ POLK                 PULASKI             ST. CLAIR
  
 
 <https://www.spc.noaa.gov/products/watch/ws0202.html>
-
----
-
-## SPC May 8, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-05-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0755 AM CDT Wed May 08 2024
-
-Valid 081300Z - 091200Z
-
-...THERE IS A MODERATE RISK OF SEVERE THUNDERSTORMS OVE PORTIONS OF
-SOUTHERN/SOUTHEASTERN MISSOURI...EXTREME NORTHEASTERN AR...EXTREME
-SOUTHERN ILLINOIS...WESTERN/SOUTH-CENTRAL KENTUCKY...AND
-NORTHWESTERN TO MIDDLE TENNESSEE...
-
-...SUMMARY...
-Severe thunderstorms appear likely from parts of the mid
-Mississippi, Ohio, and Tennessee Valleys into the southern Plains. 
-All severe hazards, including tornadoes, very large to giant hail,
-and potentially significant damaging winds are possible.  Some
-tornadoes may be strong.
-
-...Synopsis...
-In mid/upper levels, a temporarily blocky pattern has evolved around
-a cutoff cyclone over the northern Great Plains.  The associated
-500-mb low is expected to drift erratically southeastward and fill
-slowly through the remainder of the period, while a series of
-shortwaves amplify associated synoptic troughing extending
-southwestward across the Intermountain West and Great Basin. 
-Meanwhile, a northern-stream perturbation over the Upper Great
-Lakes, that peeled eastward off the cyclone's influence, has a
-compact cyclone aloft centered near ANJ.  This feature should
-devolve into an open shortwave trough and accelerate eastward as it
-enters the northern stream today, reaching eastern NY and western
-New England around 00Z.
-
-In the southern stream, broadly cyclonic flow will prevail over the
-western CONUS.  A weak perturbation -- apparent in moisture-channel
-imagery over the central Gulf of California -- should move
-east-northeastward through the period, reaching northern Coahuila
-and adjoining southwest TX around 00Z, then parts of LA/northern MS
-by the end of the period.  Downstream perturbations over the
-Southeast and central/southern Appalachians should be predominantly
-convectively derived.
-
-At 11Z, a surface lows were evident over southwestern ND and between
-OFK-YKN, along an occluded front.  An occluded/cold front arched
-from the NE low across northeastern KS to another weak low near CNU,
-then southwestward over southwestern OK and the TX South Plains. 
-Today, the cold front will overtake the northern part of a dryline
-now over northwest TX to the Big Bend region.  By 00Z, the front and
-dryline together will act as a western limit of substantial
-convective/severe potential, from eastern OK to
-north-central/central TX.  A Gulf warm front over northeastern OK
-and central/northeastern AR was moving northward and should cross
-the Ozarks this morning, moving into southern MO.  A progressive
-outflow boundary was apparent from northern VA across southern WV,
-southeastern KY, to northern parts of middle/western TN and
-southeastern MO.  The western part of this boundary is stalling, and
-soon should retreat northward through the rest of the morning across
-parts of western KY and southeastern MO, essentially linking with
-the warm front to form a baroclinic zone focusing the greatest of
-today's severe risks.
-
-...Ozarks to Mid Mississippi, lower Ohio and Tennessee Valleys...
-A complicated, potentially dangerous severe-weather event is
-possible today into this evening.  Multiple rounds of strong-severe
-thunderstorms are expected today across this region, additively
-contributing enough severe hazard for the "moderate" (level 4 of 5)
-risk area.  A swath of damaging to severe gusts and at least a few
-embedded tornadoes are likely to accompany a complex of
-thunderstorms from southern MO across parts of the multi-state area
-near the Ohio/Mississippi River junction, to at least northern parts
-of the Tennessee Valley region.  The main MCS should move
-east-southeastward to southeastward along and near the instability
-gradient associated with the aforementioned outflow boundary. 
-Before and during that process, several supercells are expected,
-offering tornadoes (a few potentially significant/EF2+), large to
-very large hail, and localized severe gusts.
-
-An ongoing area of strong-severe thunderstorms across portions of MO
-should pose mainly a severe-hail threat for another couple hours,
-though the gust potential will increase as it grows upscale.  See
-severe thunderstorm watch 202 and related mesoscale discussions for
-the near-term threat.  As the morning progresses, the wind threat
-will ramp up further, with some tornado potential starting as well,
-as this activity and/or additional convection developing later over
-western MO interacts with 1) a northward-moving plume of
-surface-based inflow air and 2) rich low-level moisture now found
-south of the outflow boundary.  Meanwhile, diurnal destabilization
-of an already richly moist airmass south of the boundary will grow
-MLCAPE commonly into the 3000-4000 J/kg range, beneath favorable 
-(50-60 kt) deep shear.  Low-level shear/vorticity, SRH and hodograph
-size will peak near the boundary, supporting a corridor of
-relatively maximized tornado potential with any sustained/discrete
-or semi-discrete supercells in the area, as well as a focus for MCS
-forward propagation from the northwest.  MCS activity should merge
-upscale further this evening and tonight, maintaining severe-wind
-potential into parts of the Tennessee Valley region before moving
-into gradually less instability late tonight.
-
-...Eastern OK to AR, Mid-South and central TX...
-Thunderstorms should develop by late afternoon near the front and
-dryline, as a combination of lift along those boundaries and strong
-surface heating combine with very rich low-level moisture to erode
-the EML cap sampled well by the 12Z FWD RAOB.  Large to giant hail,
-occasional severe gusts, and a few tornadoes are possible as
-activity shifts eastward to northeastward across central/east TX,
-the Arklatex, and AR through the evening.  The northern part of this
-convection may merge with or be overtaken by MCS activity moving out
-of MO and into parts of the Mid-South.
-
-The afternoon/preconvective environment should be characterized by
-steep low/middle level lapse rates on either side of the weakening
-cap, along with surface dewpoints commonly in the 70s F.  This will
-contribute to strong buoyancy with the peak/preconvective MLCAPE
-reaching 4500-5500 J/kg, and SBCAPE values topping 6000 J/kg. 
-Although near-surface flow generally will be 10 kt or less, limiting
-lowest-km hodographs/shear, effective-shear magnitudes in the
-40-55-kt range indicate supercells will be possible.  These will be
-capable of very large/destructive hail exceeding 3 inches in
-diameter.  Clusters or upscale mergers of convection also may offer
-deep, precip-loaded, hail-cooled downdrafts with locally severe
-gusts.  Cell mergers and interactions with boundaries will factor
-into tornado potential on the storm scale, since the environmental
-low-level shear appears on the margins.
-
-...Southern Appalachians/Cumberland Plateau into Carolinas...
-Thunderstorms are ongoing along and behind the outflow boundary near
-the TN/KY border area, and may pose a severe threat through the
-remainder of the morning while moving generally southeastward.  See
-SPC mesoscale discussion 693 for near-term details.  Further
-intensification and/or additional development is possible into the
-afternoon over and east of the mountains, moving into an environment
-of favorable moisture and diurnal destabilization.  MLCAPE in the
-1500-2500 J/kg range appears attainable, amidst roughly 35-45-kt
-effective-shear magnitudes.  A mix of supercell and multicell modes
-is expected, with small bows possible, supporting localized threats
-for damaging wind, large hail and at least marginal tornado
-potential.
-
-...Northeastern CONUS...
-Widely scattered to scattered thunderstorms may develop as soon as
-mid/late morning over parts of eastern NY and New England.  Activity
-should form atop a diurnally destabilizing and weakly capped
-boundary layer, along/ahead of a prefrontal surface trough and
-behind a plume of non-severe thunderstorms and precip now crossing
-parts of the region.  Thunderstorms should move generally eastward,
-offering damaging to isolated severe gusts and isolated large hail. 
-A combination of low-level warm advection, spotty/irregular diurnal
-surface heating, and cooling aloft related to the approaching Great
-Lakes shortwave trough, will steepen low/middle-level lapse rates
-substantially.  With favorable moisture (surface dewpoints generally
-50s to low 60s F), a plume of 500-1000 J/kg MLCAPE should develop,
-amidst effective-shear magnitudes that reach 40-50 kt, and despite
-strongly veered/westerly surface wind components.  A mix of
-multicell and modest supercell characteristics should be observed
-before activity moves over more-stable air and/or offshore, and
-weakens by early evening.
-
-...Eastern SD to eastern IA and vicinity...
-Widely scattered to scattered thunderstorms are possible from early
-afternoon in western parts to evening closer to the Mississippi
-River, with isolated damaging gusts, large hail and possibly a
-tornado or two.  Activity should form in an area of deep-layer lift
-(including low-level convergence/mass response) related to a
-vorticity lobe in the southeastern part of the mid/upper-level
-cyclone.  Associated cooling aloft will combine with residual
-low-level moisture (dewpoints mid 40s to mid 50s F) to yield pockets
-of around 500-1000 J/kg MLCAPE.  Backed low-level winds will aid
-convergence and storm-relative low-level flow, and may contribute to
-locally enlarged hodographs.
-
-..Edwards.. 05/08/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
@@ -1210,52 +1588,6 @@ through the evening.
  
 
 <https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2024-05-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-1153 AM CDT Tue May 07 2024
-
-Valid 071700Z - 081200Z
-
-...CRITICAL FIRE WEATHER AREA FOR PARTS OF CENTRAL/EASTERN NEW
-MEXICO INTO SOUTHEAST COLORADO...
-
-The Elevated area was extended westward into the White Mountains in
-northern Arizona. Latest fuel guidance indicates ERCs in this region
-are approaching the 75 percentile. Otherwise, no changes were made
-to the Critical area. See previous discussion for more information.
-
-..Thornton.. 05/07/2024
-
-.PREV DISCUSSION... /ISSUED 1256 AM CDT Tue May 07 2024/
-
-...Synopsis...
-A broad upper cyclone will be situated in the northern Plains today.
-Strong mid-level winds will remain across the southern Rockies. A
-surface cyclone will deepen in the southern High Plains.
-
-...Southwest...
-Strong surface winds will develop in response to the upper trough
-and surface cyclone to the east. Winds of 15-25 mph appear probable
-with locally higher speeds in terrain-favored areas. RH will fall to
-10-15% though single digits could occur locally. Fuels in the area
-will continue to support an elevated to critical fire weather
-threat.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
 
 ---
 

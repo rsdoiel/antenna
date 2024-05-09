@@ -1,11 +1,41 @@
 ---
 title: retro computing 2024.19
-updated: 2024-05-08 08:44:38
+updated: 2024-05-09 08:24:32
 ---
 
 # retro computing 2024.19
 
-(date: 2024-05-08 08:44:38)
+(date: 2024-05-09 08:24:32)
+
+---
+
+## NASM 2.16.03
+
+date: 2024-05-08, from: FreeDOS News
+
+<div class="markdown_content"><p>Netwide Assembler - abbreviated <a class="" href="https://nasm.us/" rel="nofollow">NASM</a> - is an assembler for the x86 CPU architecture portable to nearly every modern platform, and with code generation for many platforms including DOS. NASM 2.16.03 was recently released, but is a source build machinery and documentation update only. <a class="" href="https://nasm.us/doc/nasmdocc.html" rel="nofollow">Changes</a> include: Fix building from git in a separate directory from the source, and remove some irrelevant files from the source. There are no functionality changes. Download the latest version at <a class="" href="https://www.nasm.us/pub/nasm/releasebuilds/2.16.03/" rel="nofollow">NASM 2.16.03</a> - including the <a class="" href="https://www.nasm.us/pub/nasm/releasebuilds/2.16.03/dos/" rel="nofollow">DOS version</a>.</p></div> 
+
+<https://sourceforge.net/p/freedos/news/2024/05/nasm-21603/>
+
+---
+
+## GnuPG 1.4.23 for DOS
+
+date: 2024-05-08, from: FreeDOS News
+
+<div class="markdown_content"><p>GnuPG, aka <a class="" href="https://www.gnupg.org/" rel="nofollow">GNU Privacy Guard</a>, is a complete and free implementation of the OpenPGP standard as defined by RFC4880. GnuPG allows you to encrypt and sign your data and communications. Ben Collver has compiled GnuPG version 1.4.23 for DOS, built with DJGPP. You can download it from <a class="" href="https://archive.org/details/gnupg-1.4.23-for-dos" rel="nofollow">GnuPG at Archive.org</a>.</p></div> 
+
+<https://sourceforge.net/p/freedos/news/2024/05/gnupg-1423-for-dos/>
+
+---
+
+## httpDOS web server for DOS
+
+date: 2024-05-08, from: FreeDOS News
+
+<div class="markdown_content"><p>SuperIlu has created a simple TLS-capable HTTP server for DOS. As SuperIlu explains, "It is not in real working condition" but it's an interesting demonstration of what you can do with DOS in 2024. httpDOS is distributed under the BSD license, with components under other open source licenses. You can find it on the <a class="" href="https://github.com/SuperIlu/httpDOS" rel="nofollow">httpDOS GitHub</a> project.</p></div> 
+
+<https://sourceforge.net/p/freedos/news/2024/05/httpdos-web-server-for-dos/>
 
 ---
 

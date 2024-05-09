@@ -1,11 +1,293 @@
 ---
 title: socal north 2024.19
-updated: 2024-05-08 08:44:37
+updated: 2024-05-09 08:24:32
 ---
 
 # socal north 2024.19
 
-(date: 2024-05-08 08:44:37)
+(date: 2024-05-09 08:24:32)
+
+---
+
+## Bruins in Hollywood: Film Industry
+
+date: 2024-05-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+There is no place like Los Angeles if you&#8217;re looking to get into the entertainment industry. Many actors and industry aspirants come to UCLA to get a top-tier education while working in Hollywood. 
+
+<https://dailybruin.com/2024/05/08/bruins-in-hollywood-film-industry/>
+
+---
+
+## USAC 2024-2025 Candidate Debates: Internal vice president
+
+date: 2024-05-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Three candidates for the Undergraduate Students Association Council internal vice president attended a debate Wednesday.
+The Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<https://dailybruin.com/2024/05/08/usac-2024-2025-candidate-debates-internal-vice-president/>
+
+---
+
+## USAC 2024-2025 Candidate Debates: Transfer student representative
+
+date: 2024-05-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Three candidates for the Undergraduate Students Association Council transfer student representative attended a debate Wednesday.
+The Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<https://dailybruin.com/2024/05/08/usac-2024-2025-candidate-debates-transfer-student-representative/>
+
+---
+
+## USAC 2024-2025 Candidate Debates: Cultural Affairs commissioner
+
+date: 2024-05-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two candidates for the Undergraduate Students Association Council Cultural Affairs Commissioner attended a debate Wednesday.
+The Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<https://dailybruin.com/2024/05/08/usac-2024-2025-candidate-debates-cultural-affairs-commissioner/>
+
+---
+
+## USAC 2024-2025 Candidate Debates: External vice president
+
+date: 2024-05-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Three candidates for the Undergraduate Students Association Council external vice president attended a debate Wednesday.
+The Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<https://dailybruin.com/2024/05/08/usac-2024-2025-candidate-debates-external-vice-president/>
+
+---
+
+## Undergraduate Students Association Council 2024 Elections
+
+date: 2024-05-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/tag/usac-elections-2024>
+
+---
+
+## USAC 2024-2025 Candidate Debates: Community Service commissioner
+
+date: 2024-05-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 8 at 10:29 p.m.</em>
+The sole candidate for Undergraduate Students Association Council Community Service commissioner attended a debate Wednesday.
+The Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<https://dailybruin.com/2024/05/08/usac-2024-2025-candidate-debates-community-service-commissioner/>
+
+---
+
+## Letter from the editors: Daily Bruin News, Enterprise welcome community testimonies to seek accountability
+
+date: 2024-05-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dear Bruins,
+The past week has been one of the most challenging in the over 100 years that UCLA – and the Daily Bruin – have been standing. 
+
+<https://dailybruin.com/2024/05/08/letter-from-the-editors-daily-bruin-news-enterprise-welcome-community-testimonies-to-seek-accountability/>
+
+---
+
+## UCLA men’s basketball adds four-star point guard Trent Perry
+
+date: 2024-05-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 8 at 6:39 p.m.</em>
+The stop sign was within view.
+Seeming to signal his last roster move after a flurry of changes, coach Mick Cronin appeared to have filled his 13th and final scholarship spot April 27. 
+
+<https://dailybruin.com/2024/05/08/ucla-mens-basketball-adds-four-star-point-guard-trent-perry/>
+
+---
+
+## Housing Insecurity Among Community College Students Is More Than Double Rate Of UC, CSU Students, Audit Finds
+
+date: 2024-05-09, updated: 2024-05-09, from: The LAist
+
+A new state report signals that the rates far exceed those at public universities. 
+
+<https://laist.com/news/education/california-community-colleges-housing-insecurity-homelessness-legislative-analyst>
+
+---
+
+## Academic Senate votes to censure Folt, Guzman over handling of Gaza war controversies
+
+date: 2024-05-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The resolution, approved 21-7 with six abstentions, also “endorses the immediate creation of a task force” that would produce a public report investigating USC’s handling of controversies related to Israel’s war in Gaza.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/08/academic-senate-votes-to-censure-folt-guzman-over-handling-of-gaza-war-controversies/">Academic Senate votes to censure Folt, Guzman over handling of Gaza war controversies</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/08/academic-senate-votes-to-censure-folt-guzman-over-handling-of-gaza-war-controversies/>
+
+---
+
+## UCLA baseball falls to UC Irvine, coach John Savage ejected
+
+date: 2024-05-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Anteaters shut down their baseball program following the 1992 season.
+In 2000, the team hired a first-time coach &#8211; John Savage &#8211; to revive the program. 
+
+<https://dailybruin.com/2024/05/08/ucla-baseball-falls-to-uc-irvine-coach-john-savage-ejected/>
+
+---
+
+## Navigating the Global Future: Port of Hueneme Spotlights Current Trade and AI Innovations during World Trade Week
+
+date: 2024-05-08, from: Port Hueneme
+
+Department of Commerce, Consuls, Industry, and Businesses Participate in Trade-Focused Event  Download Press Release [Port Hueneme, CA &#8211; May 1] [Port Hueneme, CA] – World Trade Week was established in 1935 by President Roosevelt and was created to recognize the importance and benefits of global trade to the local and national economy. This year, the <a class="read-more-style" href="https://www.portofhueneme.org/wtw-2024/">Read More</a> 
+
+<https://www.portofhueneme.org/wtw-2024/>
+
+---
+
+## CSUN faculty reflect on the new Collective Bargaining Agreement after historic strike
+
+date: 2024-05-08, from: The Sundail (CSUN Student Newspaper)
+
+After the historic CSU faculty strike scheduled to last a week ended after just one day, the new California Faculty Association Collective Bargaining Agreement (CBA) was approved by the members... 
+
+<https://sundial.csun.edu/181792/news/csun-faculty-reflect-on-the-new-collective-bargaining-agreement-after-historic-strike/>
+
+---
+
+## Op-ed: From a researcher of violence, we must reject all forms of extremism to progress
+
+date: 2024-05-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+In my classes on the sociology of violence, I often tell my students to ask themselves: Who wins? When they read about violent events, think of violent policies or observe violence happening in their own communities, who wins? 
+
+<https://dailybruin.com/2024/05/08/op-ed-from-a-researcher-of-violence-we-must-reject-all-forms-of-extremism-to-progress/>
+
+---
+
+## All in a day’s patrol
+
+date: 2024-05-08, from: The Round Up (Pierce College Student Newspaper)
+
+<p>If you see Sheriff’s deputies around campus, that’s because Pierce College has its own Sheriff’s Office, and it’s open 24 hours a day. Senior Lead</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/08/all-in-a-days-patrol/">All in a day’s patrol</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/08/all-in-a-days-patrol/?utm_source=rss&utm_medium=rss&utm_campaign=all-in-a-days-patrol>
+
+---
+
+## Hundreds celebrate AAPI Heritage Month at Pierce College
+
+date: 2024-05-08, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Vietnamese lion dancers dressed in fiery red and yellow costumes carried a massive paper mache head as they traversed the Mall at Pierce College on</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/08/hundreds-celebrate-aapi-heritage-month-at-pierce-college/">Hundreds celebrate AAPI Heritage Month at Pierce College</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/08/hundreds-celebrate-aapi-heritage-month-at-pierce-college/?utm_source=rss&utm_medium=rss&utm_campaign=hundreds-celebrate-aapi-heritage-month-at-pierce-college>
+
+---
+
+## I shall compare thee to…greatness
+
+date: 2024-05-08, from: The Round Up (Pierce College Student Newspaper)
+
+<p>“Shall I compare thee to… something?” are not exactly the words that come to mind when thinking of the great playwright William Shakespeare, and seem</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/08/i-shall-compare-thee-togreatness/">I shall compare thee to…greatness</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/08/i-shall-compare-thee-togreatness/?utm_source=rss&utm_medium=rss&utm_campaign=i-shall-compare-thee-togreatness>
+
+---
+
+## Bots need not apply
+
+date: 2024-05-08, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Media Arts and Cinema Professor Steve Anderson has taught at Pierce College for 39 years. His classes are popular, and there is usually a wait</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/08/bots-need-not-apply/">Bots need not apply</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/08/bots-need-not-apply/?utm_source=rss&utm_medium=rss&utm_campaign=bots-need-not-apply>
+
+---
+
+## Pierce after dark, let’s talk about it
+
+date: 2024-05-08, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The ground is barely visible, with darkness hugging the horizon, fog forming and faint lights illuminating the distance.  This is not a scene from a</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/08/pierce-after-dark-lets-talk-about-it/">Pierce after dark, let’s talk about it</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/08/pierce-after-dark-lets-talk-about-it/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-after-dark-lets-talk-about-it>
+
+---
+
+## Promoting health, raising awareness
+
+date: 2024-05-08, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Students, staff, community members and medical professionals gathered both inside and outside of Building 600 on May 1 for Pierce’s Clothesline Project &#38; Denim Day/Student</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/08/promoting-health-raising-awareness/">Promoting health, raising awareness</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/08/promoting-health-raising-awareness/?utm_source=rss&utm_medium=rss&utm_campaign=promoting-health-raising-awareness>
+
+---
+
+## Students bring housing issues to the front at Board of Trustees
+
+date: 2024-05-08, from: The Round Up (Pierce College Student Newspaper)
+
+<p>With a reported 20 percent of California community college students experiencing homelessness, housing insecurity is on the minds of many of them, as well as</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/08/students-bring-housing-issues-to-the-front-at-board-of-trustees/">Students bring housing issues to the front at Board of Trustees</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/08/students-bring-housing-issues-to-the-front-at-board-of-trustees/?utm_source=rss&utm_medium=rss&utm_campaign=students-bring-housing-issues-to-the-front-at-board-of-trustees>
+
+---
+
+## Developing community through stories
+
+date: 2024-05-08, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The newly formed Veterans Club hosted its first on-campus event at the Multicultural Center where they welcomed veterans and veteran-affiliated students. Charles Johnson, the Veterans</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/08/developing-community-through-stories/">Developing community through stories</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/08/developing-community-through-stories/?utm_source=rss&utm_medium=rss&utm_campaign=developing-community-through-stories>
+
+---
+
+## Looking toward the future, one shovel at a time
+
+date: 2024-05-08, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Children, staff and invited speakers gripped shiny, new red-handled shovels as they dug the blades into a pile of dirt on April 30 by Lot</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/08/looking-toward-the-future-one-shovel-at-a-time/">Looking toward the future, one shovel at a time</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/08/looking-toward-the-future-one-shovel-at-a-time/?utm_source=rss&utm_medium=rss&utm_campaign=looking-toward-the-future-one-shovel-at-a-time>
+
+---
+
+## Brahma Blotter: April 29-May 5, 2024
+
+date: 2024-05-08, from: The Round Up (Pierce College Student Newspaper)
+
+<p>No crimes were reported between April 29-May 5, 2024. The crime log is made publicly available at the Pierce College Sheriff’s Office. No se reportaron</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/08/brahma-blotter-april-29-may-5-2024/">Brahma Blotter: April 29-May 5, 2024</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/08/brahma-blotter-april-29-may-5-2024/?utm_source=rss&utm_medium=rss&utm_campaign=brahma-blotter-april-29-may-5-2024>
 
 ---
 
@@ -76,9 +358,9 @@ date: 2024-05-08, from: The Occidental News (Occidental College Student Newspape
 
 date: 2024-05-08, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated May 7 at 9:07 p.m.</em>
+<em>This post was updated May 8 at 2:05 p.m.</em>
 Rarely does a second attempt at a title come with the knowledge of finality.
-But the second inaugural Pac-12 tournament also marks the conference’s final event before its demise. 
+But the second Pac-12 tournament also marks the conference’s final event before its demise. 
 
 <https://dailybruin.com/2024/05/07/all-conference-honorees-lead-no-1-seed-ucla-softball-into-final-pac-12-tournament/>
 

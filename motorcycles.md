@@ -1,11 +1,181 @@
 ---
 title: motorcycles 2024.19
-updated: 2024-05-08 08:44:38
+updated: 2024-05-09 08:24:32
 ---
 
 # motorcycles 2024.19
 
-(date: 2024-05-08 08:44:38)
+(date: 2024-05-09 08:24:32)
+
+---
+
+## LiveWire Is Moving Its HQ To Milwaukee, But It's Definitely Not a Harley-Davidson
+
+date: 2024-05-09, from: Ride Apart, Electric Motorcycle News
+
+The electric motorcycle company will be moving back in with mom and dad on Juneau Avenue later this year. 
+
+<https://www.rideapart.com/news/719017/livewire-moves-to-harley-headquarters/>
+
+---
+
+## Off-Road Suzuki Hayabusa Finally Conquers Moab's Hell's Gate
+
+date: 2024-05-09, from: Ride Apart, Electric Motorcycle News
+
+Enduro rider Matt Spears returns with a vengeance.  
+
+<https://www.rideapart.com/news/719016/off-road-suzuki-hayabusa-moab-hells-gate-video/>
+
+---
+
+## Would You Do A Joint Ducati and Porsche Track Experience For $1,300?
+
+date: 2024-05-09, from: Ride Apart, Electric Motorcycle News
+
+Who wouldn't want to try each brands new offerings? 
+
+<https://www.rideapart.com/news/719011/ducati-porsche-experience-center-program/>
+
+---
+
+## Driver Who Killed 7 Motorcyclists Wants His Driver's License Back
+
+date: 2024-05-09, from: Ride Apart, Electric Motorcycle News
+
+A history of offenses, however, preceded the event.  
+
+<https://www.rideapart.com/news/718987/volodymyr-zhukovskyy-drivers-license-acquittal/>
+
+---
+
+## Turn Your MotoGP Dreams Into Reality With Aprilia’s Pro Experience
+
+date: 2024-05-09, from: Ride Apart, Electric Motorcycle News
+
+It’s a rare opportunity to gain track-riding tutelage from MotoGP legends.  
+
+<https://www.rideapart.com/news/718858/aprilia-pro-exprience-2024/>
+
+---
+
+## Would You Pay Nearly $10K For An Audi Electric MTB?
+
+date: 2024-05-09, from: Ride Apart, Electric Motorcycle News
+
+It does come equipped with a full Öhlins suspension, but that's still a whole lot of $$$. 
+
+<https://www.rideapart.com/news/718988/audi-fantic-emtb-limited-edition/>
+
+---
+
+## Husqvarna’s 2025 Dirt Bike Lineup Is Ready To Rip
+
+date: 2024-05-09, from: Ride Apart, Electric Motorcycle News
+
+A wide selection of two- and four-stroke models all feature refinements to the frame and suspension settings.  
+
+<https://www.rideapart.com/news/718855/2025-husqvarna-dirt-bike-lineup-launch/>
+
+---
+
+## MotoAmerica Newsletter: Championship Battles Move To Barber
+
+date: 2024-05-08, from: Cycle World News
+
+MotoAmerica Newsletter: Championship Battles Move To Barber 
+
+<https://www.cycleworld.com/the-wire/motoamerica-newsletter-championship-battles-move-to-barber/>
+
+---
+
+## Brough Superior Motorcycles Arrives in North America
+
+date: 2024-05-08, from: Cycle World News
+
+The iconic motorcycle brand Brough Superior is proud to announce the opening of its first filial office in North America. 
+
+<https://www.cycleworld.com/the-wire/brough-superior-motorcycles-arrives-in-north-america/>
+
+---
+
+## Moto Morini, the Iconic Italian Motorcycle Brand, introduces the X-Cape SE
+
+date: 2024-05-08, from: Cycle World News
+
+Moto Morini, the historic Italian motorcycle brand, remains committed to master craftsmanship and innovation, a tradition that spans nearly a century. 
+
+<https://www.cycleworld.com/the-wire/moto-morini-iconic-italian-motorcycle-brand-introduces-x-cape-se/>
+
+---
+
+## Moto Morini, the Iconic Italian Motorcycle Brand, introduces the Seiemmezzo STR Sport
+
+date: 2024-05-08, from: Cycle World News
+
+Moto Morini, the iconic Italian motorcycle brand founded in 1937, continues its legacy of excellence and innovation with the unveiling of the Seiemmezzo STR Sport street bike. 
+
+<https://www.cycleworld.com/the-wire/moto-morini-iconic-italian-motorcycle-brand-introduces-seiemmezzo-str-sport/>
+
+---
+
+## Moto Morini, the Iconic Italian Motorcycle Brand, introduces the Seiemmezzo SCR Trek
+
+date: 2024-05-08, from: Cycle World News
+
+Moto Morini, the iconic Italian motorcycle brand, has a rich heritage of master craftsmanship and innovation spanning nearly a century. 
+
+<https://www.cycleworld.com/the-wire/moto-morini-iconic-italian-motorcycle-brand-introduces-seiemmezzo-scr-trek/>
+
+---
+
+## Honda Updates CB500 Series for 2024
+
+date: 2024-05-08, from: Cycle World News
+
+Honda overhauls its CB500 series for 2024 with updates to styling, electronics, and lighting on the CBR500R, CB500F, and CB500X, which has been renamed NX500. 
+
+<https://www.cycleworld.com/motorcycle-news/honda-updates-cb500-series-for-2024/>
+
+---
+
+## BMW’s Automated Shift Assistant
+
+date: 2024-05-08, from: Cycle World News
+
+BMW is working on a new automatic transmission that will likely debut on the 2025 R 1300 GS Adventure. The system can operate in a semi-auto or fully auto mode. 
+
+<https://www.cycleworld.com/motorcycle-news/bmw-automated-shift-assistant/>
+
+---
+
+## #WeRideAsOne Celebrated Around the World
+
+date: 2024-05-08, from: Cycle World News
+
+This past Saturday, May 4, #WeRideAsOne was celebrated worldwide as a homage to passionate motorcyclists who share enthusiasm for the brand. 
+
+<https://www.cycleworld.com/the-wire/werideasone-celebrated-around-the-world/>
+
+---
+
+## Moto Guzzi USA Announces 2024 Northeast Dealer Demo Tour
+
+date: 2024-05-08, from: Cycle World News
+
+Moto Guzzi USA is thrilled to announce its Northeast Demo Tour, giving passionate motorcyclists across the region the chance to experience the thrill of riding one of the 2024 Moto Guzzi range firsthand. 
+
+<https://www.cycleworld.com/the-wire/moto-guzzi-usa-announces-2024-northeast-dealer-demo-tour/>
+
+---
+
+## 2024 Yamaha MT-09 First Ride Review
+
+date: 2024-05-08, from: Cycle World News
+
+Yamaha’s CP3 triple-powered MT-09 naked gets a new look, sportier ergos and handling, and updated tech. Is it less hooligan and more sportbike than before? 
+
+<https://www.cycleworld.com/motorcycle-reviews/yamaha-mt-09-first-ride-review/>
 
 ---
 

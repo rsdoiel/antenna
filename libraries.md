@@ -1,11 +1,44 @@
 ---
 title: libraries 2024.19
-updated: 2024-05-08 08:44:38
+updated: 2024-05-09 08:24:32
 ---
 
 # libraries 2024.19
 
-(date: 2024-05-08 08:44:38)
+(date: 2024-05-09 08:24:32)
+
+---
+
+## Navigating the Future of Higher Education: Cultivating Global Citizens and Embracing Transnational Education
+
+date: 2024-05-09, from: Scholarly Kitchen
+
+<p>Efforts to expand educational accessibility and foster global collaboration are on the rise. Realizing the full potential of Transnational Education (TNE) requires an examination of the regulatory frameworks that have been established to navigating cultural inclusivity, and gaining deeper insights into the distinction between TNE and online learning.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/05/09/navigating-the-future-of-higher-education-cultivating-global-citizens-and-embracing-transnational-education/">Navigating the Future of Higher Education: Cultivating Global Citizens and Embracing Transnational Education</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/05/09/navigating-the-future-of-higher-education-cultivating-global-citizens-and-embracing-transnational-education/>
+
+---
+
+## Resource-Efficient Task-Driven Co-Design of Perception and Decision Making in Autonomous Robots
+
+date: 2024-05-09, from: ETH Zurich, recently added
+
+Milojevic, Dejan; Zardini, Gioele; Elser, Miriam; Censi, Andrea; Frazzoli, Emilio 
+
+<http://hdl.handle.net/20.500.11850/672201>
+
+---
+
+## On preprints, journals, open access and research evaluation: the repercussions of the Gates Foundation’s decision
+
+date: 2024-05-08, from: SciELO in Perspective
+
+<p>The Bill and Melinda Gates Foundation recently announced that it will no longer fund APCs for open access journals and is prioritizing the adoption of preprints. A series of recent posts discusses how the Gates Foundation's announcement has resonated with the scientific community, prompting considerations about open access and its forms of funding, peer review and ultimately, how these changes influence the evaluation and integrity of research. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2024/05/08/repercussions-of-the-gates-foundations-decision/" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/en/2024/05/08/repercussions-of-the-gates-foundations-decision/">On preprints, journals, open access and research evaluation: the repercussions of the Gates Foundation’s decision</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://blog.scielo.org/en/2024/05/08/repercussions-of-the-gates-foundations-decision/>
 
 ---
 
@@ -47,7 +80,7 @@ date: 2024-05-07, from: CSUN Library Blog, Cited
 
 date: 2024-05-06, from: Association of Research Libraries News
 
-<p>Last Updated on May 7, 2024, 2:52 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 7 &#124; Wednesday, May 8 Note: Day in Review will...</p>
+<p>Last Updated on May 8, 2024, 3:01 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 7 &#124; Wednesday, May 8 Note: Day in Review will...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-6-8/">Day in Review (May 6–8)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

@@ -1,11 +1,65 @@
 ---
 title: mid central 2024.19
-updated: 2024-05-08 08:44:37
+updated: 2024-05-09 08:24:32
 ---
 
 # mid central 2024.19
 
-(date: 2024-05-08 08:44:37)
+(date: 2024-05-09 08:24:32)
+
+---
+
+## Dick Rutan, KB6LQS, Record-Setting Pilot, SK
+
+date: 2024-05-09, from: Amateur Radio Relay League News
+
+<p>Lt. Col. Richard “Dick” G. Rutan, KB6LQS, has become a Silent Key. He passed away at the age of 85 on May 3, 2024, surrounded by family. Rutan was an ARRL member.</p><p>In 1986, Rutan made international headlines for his flight in Voyager with copilot Jeana Yeager. The pair flew around the world (nonstop and unrefueled) in 9 days, 3 minutes, and 44 seconds.</p><p>Rutan was a United States Air Force combat pi...</p> 
+
+<http://www.arrl.org/news/view/dick-rutan-kb6lqs-record-setting-pilot-sk>
+
+---
+
+## 2×AA/USB: OK!
+
+date: 2024-05-09, from: EDN Blog
+
+<img width="600" height="245" src="https://www.edn.com/wp-content/uploads/PSU_fig1.jpg?fit=600%2C245" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/PSU_fig1.jpg?w=600 600w, https://www.edn.com/wp-content/uploads/PSU_fig1.jpg?w=300 300w" sizes="(max-width: 600px) 100vw, 600px" /><p>An effective means of switching between replaceable internal batteries and external power, such as AA cells and USB. </p>
+<p>The post <a href="https://www.edn.com/2xaa-usb-ok/" data-wpel-link="internal">2×AA/USB: OK!</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/2xaa-usb-ok/>
+
+---
+
+## Armed Forces Day Crossband Test Scheduled for May 11
+
+date: 2024-05-09, from: Amateur Radio Relay League News
+
+<p><span>The US Department of Defense (DOD) is hosting this year’s Armed Forces Day (AFD) Crossband Test on Saturday, May 11. </span></p><p><span>For more than 50 years, military and amateur stations have taken part in this event, which is an interoperability exercise between amateur and government radio stations. The event is open to all licensed amateur radio operators and will not impact any public or private communicat...</span></p> 
+
+<http://www.arrl.org/news/view/armed-forces-day-crossband-test-scheduled-for-may-11>
+
+---
+
+## Optimize battery selection and operating life of wireless IoT devices
+
+date: 2024-05-09, from: EDN Blog
+
+<img width="1588" height="1016" src="https://www.edn.com/wp-content/uploads/Figure-3-Smart-Power-Profiler.png?fit=1588%2C1016" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure-3-Smart-Power-Profiler.png?w=1588 1588w, https://www.edn.com/wp-content/uploads/Figure-3-Smart-Power-Profiler.png?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-3-Smart-Power-Profiler.png?w=768 768w, https://www.edn.com/wp-content/uploads/Figure-3-Smart-Power-Profiler.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Figure-3-Smart-Power-Profiler.png?w=1536 1536w" sizes="(max-width: 1588px) 100vw, 1588px" /><p>Here is a five-step process to assess batteries serving IoT devices like wireless sensors operating in the field.</p>
+<p>The post <a href="https://www.edn.com/optimize-battery-selection-and-operating-life-of-wireless-iot-devices/" data-wpel-link="internal">Optimize battery selection and operating life of wireless IoT devices</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/optimize-battery-selection-and-operating-life-of-wireless-iot-devices/>
+
+---
+
+## ‘Aladdin’ brings the magic of Disney to Fresno
+
+date: 2024-05-09, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+My name is Jazmin. It may not be spelled the same as Princess Jasmine, but I share the same strong-willed “I-can-do-anything” mindset as she does. On May 1, I had the privilege of witnessing these characteristics brought to life by Senzel Ahmady, the woman who plays Princess Jasmine in Disney’s hit Broadway musical “Aladdin” at... 
+
+<https://fscollegian.com/2024/05/aladdin-brings-the-magic-of-disney-to-fresno/>
 
 ---
 
@@ -43,7 +97,7 @@ date: 2024-05-08, from: The Collegian (Cal State Fresno's Student Newspaper)
 
 date: 2024-05-08, from: EDN Blog
 
-<img width="1280" height="720" src="https://www.edn.com/wp-content/uploads/Featured-image-10.jpg?fit=1280%2C720" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Featured-image-10.jpg?w=1280 1280w, https://www.edn.com/wp-content/uploads/Featured-image-10.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Featured-image-10.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Featured-image-10.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Featured-image-10.jpg?w=1260 1260w, https://www.edn.com/wp-content/uploads/Featured-image-10.jpg?w=800 800w" sizes="(max-width: 1280px) 100vw, 1280px" /><p>Apple’s product enhancements are impressive, at least from a hardware perspective. But is the software evolution keeping pace? Not so much.</p>
+<img width="1280" height="720" src="https://www.edn.com/wp-content/uploads/Featured-image-10.jpg?fit=1280%2C720" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Featured-image-10.jpg?w=1280 1280w, https://www.edn.com/wp-content/uploads/Featured-image-10.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Featured-image-10.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Featured-image-10.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Featured-image-10.jpg?w=1260 1260w, https://www.edn.com/wp-content/uploads/Featured-image-10.jpg?w=800 800w" sizes="(max-width: 1280px) 100vw, 1280px" /><p>Apple’s product enhancements are impressive, at least from a hardware perspective. But is the software evolution keeping pace? Not so much.</p>
 <p>The post <a href="https://www.edn.com/apples-spring-2024-in-person-announcements-no-more/" data-wpel-link="internal">Apple’s Spring 2024: In-person announcements no more?</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

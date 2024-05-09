@@ -1,11 +1,682 @@
 ---
 title: tech likely 2024.19
-updated: 2024-05-08 08:44:37
+updated: 2024-05-09 08:24:32
 ---
 
 # tech likely 2024.19
 
-(date: 2024-05-08 08:44:37)
+(date: 2024-05-09 08:24:32)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-09, from: Dave Winer's Scripting News)
+
+It's pretty easy to create a <a href="https://feedland.com/">FeedLand</a> news service for your friends or co-workers, and it'll plug into a lot of the stuff we're working on now for presenting news without requiring people to learn a feed reader. That's a bridge too far for many people. In other words, your understanding of feeds (RSS, Atom, etc) can be of service to others. And by collecting useful sources of news, maybe even insightful ones, we can help upgrade the quality of news we all get. The first step is to learn how to use FeedLand, and <a href="https://docs.feedland.com/gettingstarted.md">it's pretty easy</a>, esp if you already understand feeds. And with categories and OPML subscription lists, you can organize your feed reading everywhere, not just in FeedLand. 
+
+<http://scripting.com/2024/05/09.html#a151859>
+
+---
+
+## COSMIC improves its application store, display mirroring, and more
+
+date: 2024-05-09, from: OS News
+
+As its first alpha release is closing in, we have another monthly update about COSMIC, System76&#8217;s new Linux desktop environment written in Rust. This month, they&#8217;ve further polished and shored up their application store, imaginatively named COSMIC App Store, and it&#8217;s supposedly incredibly fast &#8211; something I can&#8217;t say for its GNOME and KDE counterparts, which tend to be so slow I&#8217;ve always just defaulted to updating through the command line, mostly. The file manager now has support for GVfs (GNOME Virtual file system) for making external storage like USB drives work properly, and Greeter login screen, Edit text editor, drag and drop, and copy/paste have been improved in various ways as well. Theming has seen a lot of work this month, with support for icon themes added to the App Library, fixed applet sizes, and more tweaks, while light themes have been disabled for now to fix a number of issues with colour selection being too dark. There&#8217;s also display mirroring now, which even works when the individual displays have different resolutions, orientations, and refresh rates. Pop!_OS is now also being built for ARM64, which makes sense because System76 is now also selling ARM servers. There&#8217;s also a bunch of work being done by the community as the alpha release nears. 
+
+<https://www.osnews.com/story/139632/cosmic-improves-its-application-store-display-mirroring-and-more/>
+
+---
+
+## Opening windows in Linux with sockets, bare hands and 200 lines of C
+
+date: 2024-05-09, from: OS News
+
+X Server is slowly being deprecated in the Linux world and being replaced Wayland. Still X11 is an interesting protocol to look at from the perspective of binary communication and management of resource which require fast speeds. In this post I tried to cover basic information and create a simple but working app that is simple, defined in single file and easily compiles. No external code except libc was used. I find it fascinating when you can open black boxes and see how gears move each other. ↫ Hereket As much as the time of X has come and is now finally in the process of going, it&#8217;s still an incredibly powerful set of tools that even in a bare state can do way, way more than you think. X has come with its own window manager &#8211; twm &#8211; for decades, and it includes several basic applications like xedit, xclock, xterm, xeyes. Twm is actually pretty cool, and includes some features, like iconify to desktop, that I wish still existed in modern desktop environments. It&#8217;s quite bare-bones, though, and I doubt there&#8217;s anyone out there unironically using it today. As the linked article notes, even without advanced, complex libraries, toolkits, desktop environments, and so on, it&#8217;s entirely possible to create fully functional windows and applications with X. Of course, this makes perfect sense and shouldn&#8217;t be surprising &#8211; it&#8217;s the X Window System, after all &#8211; but you so rarely hear or read about it that you&#8217;d almost forget and just assume something like GNOME or KDE is an absolute requirement to use X. 
+
+<https://www.osnews.com/story/139629/opening-windows-in-linux-with-sockets-bare-hands-and-200-lines-of-c/>
+
+---
+
+## NASA’s Chandra Notices the Galactic Center is Venting
+
+date: 2024-05-09, from: NASA breaking news
+
+These images show evidence for an exhaust vent attached to a chimney releasing hot gas from a region around the&#160;supermassive black hole&#160;at the center of the&#160;Milky Way, as reported in our&#160;latest press release. In the main image of this graphic,&#160;X-rays&#160;from&#160;NASA’s Chandra X-ray Observatory&#160;(blue) have been combined with&#160;radio&#160;data from the MeerKAT telescope (red). Previously, astronomers had [&#8230;] 
+
+<https://www.nasa.gov/image-article/nasas-chandra-notices-the-galactic-center-is-venting/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-09, from: Dave Winer's Scripting News)
+
+<a href="https://stackoverflow.co/company/press/archive/openai-partnership">StackExchange and OpenAI</a> have made a deal. I used to use StackExchange all the time, now I never do, ChatGPT is much better. There's a lot of anxiety out there, it seems but this is like shutting the barn door after the horse has <a href="https://en.wiktionary.org/wiki/close_the_stable_door_after_the_horse_has_bolted">bolted</a>. There was a time when StackExchange was a godsend for programmers. But that time has passed. Here's a <a href="https://chat.openai.com/share/7f8d9567-2790-4e9a-b699-0b87bfad1174">demo</a>. I was trying to figure out why some ancient code wasn't working. I never understood how it worked, and now I had to figure out what was going wrong. So I debugged it, carefully, step by step, with ChatGPT. It's as if I was working with another programmer who had read and fully understood every StackExchange message, and was willing to work with me for no pay to get to the bottom of the problem. This is what we call disruption. It's a whole new level of programming. Here's the <a href="https://chat.openai.com/share/7f8d9567-2790-4e9a-b699-0b87bfad1174">transcript</a>. 
+
+<http://scripting.com/2024/05/09.html#a140644>
+
+---
+
+## NASA Administrator to Engage Officials in Italy, Vatican, Saudi Arabia
+
+date: 2024-05-09, from: NASA breaking news
+
+Continuing his engagement to deepen international collaboration and the peaceful use of space, NASA Administrator Bill Nelson will travel to Italy and Vatican City, followed by Saudi Arabia, beginning Thursday. Nelson will meet with key government and space officials in each country. Italy is a longstanding partner in human spaceflight and Earth science. Nelson will [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-administrator-to-engage-officials-in-italy-vatican-saudi-arabia/>
+
+---
+
+## Game Theory Can Make AI More Correct and Efficient
+
+date: 2024-05-09, from: Quanta Magazine
+
+Researchers are drawing on ideas from game theory to improve large language models and make them more consistent.            <p>The post <a href="https://www.quantamagazine.org/game-theory-can-make-ai-more-correct-and-efficient-20240509/" target="_blank">Game Theory Can Make AI More Correct and Efficient</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/game-theory-can-make-ai-more-correct-and-efficient-20240509/>
+
+---
+
+## ChromeOS App Mall unifies app discovery for Chromebooks
+
+date: 2024-05-09, from: OS News
+
+We’ve been on the lookout for the arrival of the ChromeOS App Mall for a few months now. First discovered back in March, the new App Mall is arriving to do one, simple task: put the apps users want in one place to be found a Chromebook. While we have access to web apps, PWAs, Android apps and Linux apps on Chromebooks, it’s not always clear how to go about finding them. Should you install the web version or the Play Store version? Which Play Store apps install a PWA versus an Android app? Where should you go to find the right one for you? ↫ Robby Payne at Chrome Unboxed ChromeOS definitely needs a more unified, single place to find applications, and this seems like exactly what&#8217;s happening here. 
+
+<https://www.osnews.com/story/139627/chromeos-app-mall-unifies-app-discovery-for-chromebooks/>
+
+---
+
+## Will Better Superconductors Transform the World?
+
+date: 2024-05-09, from: Quanta Magazine
+
+Scientists are pursuing materials that can conduct electricity with perfect efficiency under ambient conditions. In this episode, the physicist Siddharth Shanker Saxena tells co-host Janna Levin about what makes this hunt so difficult and consequential.            <p>The post <a href="https://www.quantamagazine.org/will-better-superconductors-transform-the-world-20240509/" target="_blank">Will Better Superconductors Transform the World?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/will-better-superconductors-transform-the-world-20240509/>
+
+---
+
+## Do you know a young person who could enter this year’s Coolest Projects?
+
+date: 2024-05-09, from: Raspberry Pi News (.com)
+
+<p>The Coolest Projects showcase from the Raspberry Pi Foundation is back for 2024, and there's still time to enter projects.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/do-you-know-a-young-person-who-could-enter-this-years-coolest-projects/">Do you know a young person who could enter this year&#8217;s Coolest Projects?</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/do-you-know-a-young-person-who-could-enter-this-years-coolest-projects/>
+
+---
+
+## So Long, Rat Hole
+
+date: 2024-05-09, updated: 2024-05-09, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/05/09/so-long-rat-hole/>
+
+---
+
+## NASA Licenses 3D-Printable Superalloy to Benefit US Economy
+
+date: 2024-05-09, from: NASA breaking news
+
+NASA’s investment in a breakthrough superalloy developed for the extreme temperatures and harsh conditions of air and spaceflight is on the threshold of paying commercial dividends. The agency is licensing its invention, dubbed “GRX-810,” to four American companies, a practice that benefits the United States economy as a return on investment of taxpayer dollars. GRX-810 [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-licenses-3d-printable-superalloy-to-benefit-us-economy/>
+
+---
+
+## I Bought a Steam Deck
+
+date: 2024-05-09, from: Jessica Smith's blog
+
+<p>A couple of days I posted about <a href="https://www.jayeless.net/2024/05/getting-back-into-the-sims-games.html">wanting to get back into The Sims (2 &amp; 4)</a>. What I didn&rsquo;t mention then, that I will now, is I&rsquo;d kinda been wanting to get back into casual gaming already. I&rsquo;ve never been a real Gamer™ exactly, but I have purchased a bunch of indie games through Steam and itch.io over the years, and spent a fair bit of time&hellip; you know&hellip; casually gaming. For the most part I like turn-based <abbr title="Role-Playing Games">RPGs</abbr>, simulation games, and the occasional puzzle game. Nothing with too grim or dreary an atmosphere. And, of course, I&rsquo;ve only really played games on computers (well, and the occasional mobile game, I guess). My parents never let us have a gaming console growing up, and with my disability it&rsquo;s too hard to use a controller anyway – my right hand just isn&rsquo;t dexterous enough to operate its side of the controls.</p>
+<p>When I was playing a lot of indie games between about 2018–2020, I mostly did so on a desktop computer, running Linux. Not only did a ton of indie games support Linux natively, but Steam rolled out an embedded implementation of Wine called Proton, so most games <em>without</em> official Linux versions worked on Linux, too. I mean, in 2017 I&rsquo;d been using PlayOnLinux to play <cite>The Sims 4</cite>, so I already knew Wine wasn&rsquo;t too bad by that time, but I guess Steam&rsquo;s real triumph was in rolling the compatibility layer into the client, moving a lot of the hassle behind the scenes and out of the player&rsquo;s way. Even though I haven&rsquo;t been playing games so much since 2020, as I understand it, Proton has just got better and smoother ever since, such that these days the only games that really don&rsquo;t work with it are always-online multiplayer games with kernel-level anticheat, which I don&rsquo;t play, anyway. At any rate, even five years ago, life as a Linux-using indie gamer was good.</p>
+<p><em>But</em>, time passes. I stopped being able to use that desktop so much when a) the monitor broke and, because it was within warranty, I spent a couple of months working through the warranty process with the retailer instead of just buying a new one; and b) Viv started working from home a lot when the Covid pandemic began, and commandeered that desk and computer for himself. I started using a MacBook Air as my primary computer, and switching back and forth between it and the desktop was a bit of a hassle, and since the only thing the desktop was really <em>better</em> for was playing games, I just&hellip; stopped doing that so much. I could still play a number of games on the Mac anyway&hellip; just not the more demanding ones, but also not the ones <em>so</em> undemanding that they only had 32-bit versions, and definitely not the ones that lack native Mac versions. (There&rsquo;s no equivalent of Proton for Mac.) But a few games, sure.</p>
+<p>Anyway, getting to the Steam Deck. It had been playing on my mind for a while that I really did have this backlog of games that I should probably work through at some point. The desktop has become really inconvenient to use (and as I mentioned in the Sims post, its Linux install is currently not even working properly, for reasons I have not been able to work out), and my MacBook Air isn&rsquo;t designed for gaming. I&rsquo;d kind of presumed that the eventual answer would be to buy <em>another</em> Linux computer – preferably a laptop, for the portability – but a gaming laptop is like AUD$3000 and not even really very portable and honestly I didn&rsquo;t even <em>want</em> a whole new computer, just a gaming device, and then one day the obvious answer finally hit me&hellip; a Steam Deck. Duh!</p>
+<p>Valve, for some reason, has declined to sell Steam Decks in Australia, but you can easily buy grey-imported ones. Last week, after about a month of dithering, I took the plunge and ordered one – one of the new OLED screen ones, with 512GB storage space. Today, it arrived!</p>
+<a href="https://www.jayeless.net/2024/05/i-bought-a-steam-deck/steam-deck.jpeg" class="glightbox" data-gallery="i-bought-a-steam-deck"
+  style="aspect-ratio: 4 / 3;"><img 
+  sizes="(min-width: 715px) 640px, (min-width: 435px) 90vw, 100vw"
+  srcset="https://www.jayeless.net/2024/05/i-bought-a-steam-deck/steam-deck_hu822dfe84d1970ea28ff8089717c1dda2_1147467_320x0_resize_q85_box.jpeg 320w, https://www.jayeless.net/2024/05/i-bought-a-steam-deck/steam-deck_hu822dfe84d1970ea28ff8089717c1dda2_1147467_440x0_resize_q85_box.jpeg 440w, https://www.jayeless.net/2024/05/i-bought-a-steam-deck/steam-deck_hu822dfe84d1970ea28ff8089717c1dda2_1147467_640x0_resize_q85_box.jpeg 640w, https://www.jayeless.net/2024/05/i-bought-a-steam-deck/steam-deck_hu822dfe84d1970ea28ff8089717c1dda2_1147467_830x0_resize_q85_h2_box.webp 830w, https://www.jayeless.net/2024/05/i-bought-a-steam-deck/steam-deck_hu822dfe84d1970ea28ff8089717c1dda2_1147467_1280x0_resize_q85_h2_box.webp 1280w, https://www.jayeless.net/2024/05/i-bought-a-steam-deck/steam-deck.jpeg 1920w"
+  src="https://www.jayeless.net/2024/05/i-bought-a-steam-deck/steam-deck_hu822dfe84d1970ea28ff8089717c1dda2_1147467_830x0_resize_q85_h2_box.webp"
+  alt="a Steam Deck, switched off, sitting in its travel case"
+  loading="lazy" class="u-photo u-featured"></a>
+<p>There are a number of reasons I think the Steam Deck is a very exciting device. Firstly, it&rsquo;s purpose-built to make it really easy to just pick up and jump straight into a game, suspend and resume as needed, etc.. It&rsquo;s all the convenience of picking up your phone to scroll social media, except doing something that is actually fun instead of doomscrolling social media. You can use it easily on the couch (well, maybe not if your cat is as obsessed with sitting on your lap as mine, but in theory). It&rsquo;s just like&hellip; if one of the biggest obstacles to me working through my game backlog is the <em>hassle</em>, the Steam Deck should really help with that.</p>
+<p>Secondly, it offers a lot of different ways to control your games (D-pad, joysticks, A/B/X/Y buttons, trackpads, a touchscreen, bumper buttons&hellip;) and <strong>they are all reconfigurable</strong>! There is <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2804823261">a very detailed guide on the Steam Community site<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a>. Like I mentioned in my introduction paragraph, I&rsquo;ve never been able to play with a video game controller and I wanted to make sure I wasn&rsquo;t going to have any accessibility issues with the Steam Deck. Well, I&rsquo;m not sure it&rsquo;d enable me to play the kinds of fast-paced action games or high-precision platformers that I don&rsquo;t feel able to play already, but you can totally do things like tell the D-pad to work as A/B/X/Y and use the left joystick for directions so you can control a game entirely from the left side of the device. No problem. Plus, with any game that&rsquo;s designed to work entirely with a mouse, you can just use the touchscreen. I think it&rsquo;s really cool just how customisable the Deck is in this regard.</p>
+<p>And <em>thirdly</em>, I love the fact that the Steam Deck is really just a Linux computer under the hood, after all. If you remember my post about the Sims the other day, and how miffed I was that I couldn&rsquo;t play my copy of <cite>The Sims 2 Ultimate Collection</cite> on my Mac, you&rsquo;ll be pleased to hear that one <strong>can</strong> play it on the Steam Deck. There is <a href="https://github.com/voicemxil/TS2-Starter-Pack/wiki/Linux-Specifc-Setup-Steps">a brief guide here<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a>, which links to another, seemingly more detailed, guide on YouTube. The process isn&rsquo;t quite as easy as &ldquo;find game in Steam store, purchase, install&rdquo; of course, but it&rsquo;s doable! You can also use your Steam Deck to play games from other online stores like itch.io or GOG, you can connect to most providers of cloud storage you might use to share data painlessly with your other computers, and you can install and use other software beyond games – pretty much anything available on Linux. You can connect peripherals like a keyboard, external monitor and mouse/touchpad and play like on a more traditional computer if you want. It&rsquo;s very flexible. And much, much cheaper than a gaming laptop 😁</p>
+<p>At approx. AUD$1,075, it was still a bit of a splurge, but I haven&rsquo;t treated myself to any &ldquo;new shinies&rdquo; since 2020, and honestly I&rsquo;m excited to get into this thing. Let&rsquo;s see how it goes!</p> 
+
+<https://www.jayeless.net/2024/05/i-bought-a-steam-deck.html>
+
+---
+
+## intrinsic values
+
+date: 2024-05-09, from: Ayjay blog
+
+Adam Kirsch: In his poem “Little Gidding,” written during World War II, T. S. Eliot wrote that the Cavaliers and Puritans who fought in England’s Civil War, in the 17th century, now “are folded in a single party.” The same already seems true of Vendler and Perloff. Today college students are fleeing humanities majors, and [&#8230;] 
+
+<https://blog.ayjay.org/intrinsic-values/>
+
+---
+
+## 2024-05-09 Hoping for the next AI winter
+
+date: 2024-05-09, from: Alex Schroeder's Blog
+
+<h1 id="2024-05-09-hoping-for-the-next-ai-winter">2024-05-09 Hoping for the next AI winter</h1>
+
+<p><a class="account" href="https://chirp.enworld.org/@taichara" title="@taichara@chirp.enworld.org">@taichara</a> pointed me to a blog post that Creative Commons (CC) wrote in 2023 about the court cases against GitHub, Stable Diffusion, Midjourney and the claim that their use of copyrighted works to train the machines is copyright infringement. CC does not agree.</p>
+
+<blockquote>
+<p>As Creative Commons has argued elsewhere, and others agree, I believe that this type of use should be protected by copyright’s fair use doctrine. In this blog post I will discuss what fair use is, what purpose it serves, and why I believe that using copyrighted works to train generative AI models should be permitted under this law. – <a href="https://creativecommons.org/2023/02/17/fair-use-training-generative-ai/">Fair Use: Training Generative AI</a></p>
+</blockquote>
+
+<p>I guess I don&rsquo;t mind that blog post. For one, Fair Use is a very USA thing and I don&rsquo;t live there. Furthermore, the CC licenses don&rsquo;t say &ldquo;this material is fine for AI training&rdquo; – so whether this is fine or not will be decided by the courts. I would only worry if CC turns out to be working on a version 5 of their licenses with an explicit exception for AI training. And even then, we can keep on using version 4 of the license. There is no automatic upgrade option.</p>
+
+<p>This is why I feel fine.</p>
+
+<p>Imagine the Dude from The Big Lebowski saying, &ldquo;Yeah, well, that&rsquo;s just, like, their opinion…&rdquo;</p>
+
+<p>It doesn&rsquo;t look as if CC will be changing the license. The courts still get to decide. If the courts decide in favour of free-for-all AI training, then rich people win for the moment. But even then, we can still nationalise their businesses, or prohibit AI training, or raise prices on electricity and water. The fight isn&rsquo;t over. Not by a long shot.</p>
+
+<p>Maybe this is a thing with lawyers. We trust people who share our values and we’d trust somebody when they write something along the lines of “AI training is terrible and AI use is dubious but what can you do, it’s in the hand of the courts, we certainly don’t support it.” But lawyers trust other lawyers who say “we’ll see what the courts say but our understanding is that nobody should stop AI training because that’s the trade-off copyright makes and we support people and corporations exercising their rights.”</p>
+
+<p>The apparent moral support on copyright grounds is revolting, but this approach seems typical to me. They say: The point of the law is this or that. We say: The result of these actions is bad for society and bad for the climate. They are externalising all the costs. The artists and authors who want to produce new works are losing their jobs. The people double-checking the computers and their training are burning out. The communities where these corporations build their computing centres suffer from water scarcity because the water is used to cool the computers. The countries where these corporations build their computing centres need to build more power plants because so much electricity is required to train their models. The move to renewable energies is delayed. Phasing out nuclear power is delayed and more radioactive waste ends up on our lands.</p>
+
+<blockquote>
+<p>Sending this message was important to us. We considered ourselves to be a powerful culture.
+This place is not a place of honor&hellip; no highly esteemed deed is commemorated here&hellip; nothing valued is here.
+– <a href="https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages">Long-term nuclear waste warning messages</a></p>
+</blockquote>
+
+<p>And what for? The people who are looking for answers get served bullshit slop that&rsquo;s wrong and hurtful and racist and misogynist. We see this in customer service degrading, in search engines degrading, in websites degrading. The corporations don&rsquo;t mind that they&rsquo;re feeding us slop as long as they are making money.</p>
+
+<p>We are enabling this because these corporations are powerful and rich. They buy our politicians with money and promises of jobs, they don&rsquo;t pay the taxes they ought to pay and then they don&rsquo;t deliver on the jobs, and the jobs they offer are menial and subservient when we&rsquo;d prefer to be creative and free. We thought we&rsquo;d be writing and painting all day while the machines serve us but we end up serving them while they do the writing and painting, badly!</p>
+
+<p>It&rsquo;s hard to defend against these corporations because the knowledge required to defeat them is not known to us all. We don&rsquo;t read about it in the media. Instead, they volunteer for all the posts, offer their experts, pay for their own research, write their own glowing press releases and commission promising reports. This is how regulatory capture works.</p>
+
+<p>So yes, we should nationalise them, regulate them, force them to pay for the true cost of resources they use, outlaw their energy waste, force them to label their output, shun them. We should kick them from our company. Like a creeping disease their rot spreads, destroying the technology we built, the search engines, databases, websites, turning it all into AI slop. It is revolting.</p>
+
+<p>And maybe copyright is not the right tool to stop corporations from training their machines on our works. But in the big picture, they are still wrong.</p>
+
+<p><a class="account" href="https://social.coop/@eloquence" title="@eloquence@social.coop">@eloquence</a> says:</p>
+
+<blockquote>
+<p>The folks who are calling such training &ldquo;theft&rdquo; might regret what they seem to be implicitly asking for, i.e. much stricter copyright. Copyright law won&rsquo;t prevent Microsoft, Google, OpenAI or Adobe from making shady licensing deals, but they&rsquo;ll prevent the free/open community from keeping up.</p>
+</blockquote>
+
+<p>It&rsquo;s true, I don&rsquo;t want to ask for stricter copyright. But I still oppose all the things that are wrong with the current AI bubble.</p>
+
+<p><a class="account" href="https://mastodon.social/@mcc" title="@mcc@mastodon.social">@mcc</a> recently wrote about a similar thing: We use free software licenses in order to distribute our software for the benefit of our fellow humans but not necessarily to train the machines of corporations that are responsible for all the slop.</p>
+
+<blockquote>
+<p>Like, heck, how am I <em>supposed</em> to rely on my code getting preserved after I lose interest, I die, BitBucket deletes every bit of Mercurial-hosted content it ever hosted, etc? Am I supposed to rely on <em>Microsoft</em> to responsibly preserve my work? Holy crud no.
+We <em>want</em> people to want their code widely mirrored and distributed. That was the reason for the licenses. That was the social contract. But if machine learning means the social contract is dead, why would people want their code mirrored? – <a href="https://mastodon.social/@mcc/112209218607258564">mmc</a></p>
+</blockquote>
+
+<p>We&rsquo;re using copyright to keep the software free. If AI regurgitating our software from its impenetrable memories circumvents copyright it also circumvents our licenses and therefore pulls the claws and teeth free software has to fight for its freedom.</p>
+
+<p>This is why opposing the current AI bubble is important. No matter how I look at it, the big picture shows that this kind of AI is our enemy.</p>
+
+<p>This is why we continue fighting all the negatives these corporations bring to the table. And if it turns out that their business model doesn&rsquo;t work unless they bring all these negatives to the table, then I guess that&rsquo;s just that. We are under no obligation to support their business model. In fact, it is our right and our duty to regulate the world in order to improve it for all of us. We&rsquo;ve been doing it for a very long time.</p>
+
+<p>Here&rsquo;s to hoping for the next AI winter.</p>
+
+<blockquote>
+<p>In the history of artificial intelligence, an AI winter is a period of reduced funding and interest in artificial intelligence research. The field has experienced several hype cycles, followed by disappointment and criticism, followed by funding cuts, followed by renewed interest years or even decades later. – <a href="https://en.wikipedia.org/wiki/AI_winter">AI winter</a></p>
+</blockquote>
+
+<p><a class="tag" href="/search/?q=%23Copyright">#Copyright</a> <a class="tag" href="/search/?q=%23Artificial_Intelligence">#Artificial Intelligence</a></p> 
+
+<https://alexschroeder.ch/view/2024-05-09-ai-copyright>
+
+---
+
+## Experimental remix finally brings the former Unity 8 back to Ubuntu
+
+date: 2024-05-09, updated: 2024-05-09, from: Liam Proven's articles at the Register
+
+<h4>Ubuntu Unity 24.04 arrives along with new little sibling, Ubuntu Lomiri</h4>
+      <p>Ubuntu Unity Noble Numbat is out, and alongside it, a very much not long-term-supported new variant of the distro: Ubuntu Lomiri.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/05/09/ubuntu_unity_2404_plus_lomiri/>
+
+---
+
+## The world has (probably) passed peak pollution
+
+date: 2024-05-09, from: Hannah Richie at Substack
+
+Millions die prematurely from local air pollution, but we can reduce this number significantly. 
+
+<https://www.sustainabilitybynumbers.com/p/peak-pollution>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-05-09, from: Miguel de Icaza Mastondon feed)
+
+<p>Mhm, maybe I should add built-in support for breakpoint flags directly to Runestone.   That way I could make the text label be aware, and draw with the right color.</p><p>A small patch to maintain, but I think it might be worth it.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112408881930855309>
+
+---
+
+## Inclusive Sans (2023)
+
+date: 2024-05-09, from: Tilde.news
+
+<p><a href="https://tilde.news/s/ni0nap/inclusive_sans_2023">Comments</a></p> 
+
+<https://www.oliviaking.com/inclusive-sans>
+
+---
+
+## PostgreSQL 16.3, 15.7, 14.12, 13.15, and 12.19 Released!
+
+date: 2024-05-09, from: PostgreSQL News
+
+<p>The PostgreSQL Global Development Group has released an update to all supported
+versions of PostgreSQL, including 16.3, 15.7, 14.12, 13.15, and 12.19.
+This release fixes one security vulnerability and over 55 bugs reported
+over the last several months.</p>
+<p>A security vulnerability was found in the system views
+<a href="https://www.postgresql.org/docs/current/view-pg-stats-ext.html"><code>pg_stats_ext</code></a>
+and <a href="https://www.postgresql.org/docs/current/view-pg-stats-ext-exprs.html"><code>pg_stats_ext_exprs</code></a>,
+potentially allowing authenticated database users to see data they don't have
+sufficient privileges to view. The fix for this vulnerability only fixes
+fresh PostgreSQL installations, namely those that are created with the
+<a href="https://www.postgresql.org/docs/current/app-initdb.html"><code>initdb</code></a> utility
+after this fix is applied. If you have a current PostgreSQL installation and are
+concerned about this issue, please follow the instructions in the "Updating"
+section for remediation steps.</p>
+<p>For the full list of changes, please review the
+<a href="https://www.postgresql.org/docs/release/">release notes</a>.</p>
+<h2>PostgreSQL 12 EOL Notice</h2>
+<p>PostgreSQL 12 will stop receiving fixes on November 14, 2024. If you are
+running PostgreSQL 12 in a production environment, we suggest that you make
+plans to upgrade to a newer, supported version of PostgreSQL. Please see our
+<a href="https://www.postgresql.org/support/versioning/">versioning policy</a> for more
+information.</p>
+<h2>Security Issues</h2>
+<h3><a href="https://www.postgresql.org/support/security/CVE-2024-4317/">CVE-2024-4317</a>: Restrict visibility of <code>pg_stats_ext</code> and <code>pg_stats_ext_exprs</code> entries to the table owner</h3>
+<p>CVSS v3.1 Base Score: <a href="https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=AV:N/AC:H/PR:L/UI:N/S:U/C:L/I:N/A:N">3.1</a></p>
+<p>Supported, Vulnerable Versions: 14 - 16.</p>
+<p>Missing authorization in PostgreSQL built-in views
+<a href="https://www.postgresql.org/docs/current/view-pg-stats-ext.html"><code>pg_stats_ext</code></a>
+and <a href="https://www.postgresql.org/docs/current/view-pg-stats-ext-exprs.html"><code>pg_stats_ext_exprs</code></a>
+allows an unprivileged database user to read most common values and other
+statistics from <a href="https://www.postgresql.org/docs/current/sql-createstatistics.html"><code>CREATE STATISTICS</code></a>
+commands of other users. The most common values may reveal column values the
+eavesdropper could not otherwise read or results of functions they cannot
+execute.</p>
+<p>This fix only fixes fresh PostgreSQL installations, namely those that are
+created with the <a href="https://www.postgresql.org/docs/current/app-initdb.html"><code>initdb</code></a>
+utility after this fix is applied. If you have a current PostgreSQL installation
+and are concerned about this issue, please follow the instructions in the
+"Updating" section for remediation steps.</p>
+<p>The PostgreSQL project thanks Lukas Fittl for reporting this problem.</p>
+<h2>Bug Fixes and Improvements</h2>
+<p>This update fixes over 55 bugs that were reported in the last several months.
+The issues listed below affect PostgreSQL 16. Some of these issues may also
+affect other supported versions of PostgreSQL.</p>
+<ul>
+<li>Fix issue with <a href="https://www.postgresql.org/docs/current/sql-insert.html"><code>INSERT</code></a>
+with a multi-row <a href="https://www.postgresql.org/docs/current/sql-values.html"><code>VALUES</code></a>
+clause where a target column is a domain over an array or composite type.</li>
+<li>Require the <a href="https://www.postgresql.org/docs/current/sql-grant.html">SELECT privilege</a>
+on the target table when using <a href="https://www.postgresql.org/docs/current/sql-merge.html"><code>MERGE</code></a>
+when using <code>MERGE ... DO NOTHING</code>.</li>
+<li>Per the SQL standard, throw an error if a target row in <code>MERGE</code> joins to more
+than one source row during a modification.</li>
+<li>Fix incorrect pruning of <code>NULL</code> partition when a table is partitioned on
+a boolean column and the query has a boolean <code>IS NOT</code> clause.</li>
+<li>Make <a href="https://www.postgresql.org/docs/current/sql-alterforeigntable.html"><code>ALTER FOREIGN TABLE ... SET SCHEMA</code></a>
+move any owned sequences into the new schema.</li>
+<li><a href="https://www.postgresql.org/docs/current/sql-createdatabase.html"><code>CREATE DATABASE</code></a>
+now recognizes <code>STRATEGY</code> keywords case-insensitively.</li>
+<li>Fix how <a href="https://www.postgresql.org/docs/current/sql-explain.html">EXPLAIN</a>
+counts heap pages during bitmap heap scan to show all counted pages, not just
+ones with visible tuples.</li>
+<li>Avoid deadlock during removal of orphaned temporary tables.</li>
+<li>Several fixes for <a href="https://www.postgresql.org/docs/current/sql-vacuum.html"><code>VACUUM</code></a>,
+including one that can reduce unnecessary I/O.</li>
+<li>Several query planner fixes.</li>
+<li>Add optimization for certain operations where an installation has thousands
+of roles.</li>
+<li>Fix confusion for SQL-language procedures that return a single composite-type
+column.</li>
+<li>Fix incorrect rounding and overflow hazards in <a href="https://www.postgresql.org/docs/current/functions-datetime.html#FUNCTIONS-DATETIME-BIN"><code>date_bin()</code></a>.</li>
+<li>Detect integer overflow when adding or subtracting an
+<a href="https://www.postgresql.org/docs/current/datatype-datetime.html#DATATYPE-INTERVAL-INPUT">interval</a>
+to/from a timestamp.</li>
+<li>Fix several race conditions with logical replication, including determining if
+a table sync operation is required.</li>
+<li>Disconnect if a new server session's client socket cannot be put into non-blocking mode.</li>
+<li><a href="https://www.postgresql.org/docs/current/app-initdb.html"><code>initdb -c</code></a> now
+matches parameter names case-insensitively.</li>
+<li>Fix how PL/pgSQL parses of <a href="https://www.postgresql.org/docs/current/plpgsql-structure.html">single-line comments</a> (<code>-- style comments</code>)
+following expression.</li>
+</ul>
+<h2>Updating</h2>
+<p>All PostgreSQL update releases are cumulative. As with other minor releases,
+users are not required to dump and reload their database or use <code>pg_upgrade</code> in
+order to apply this update release; you may simply shutdown PostgreSQL and
+update its binaries.</p>
+<p>For existing installations that are impacted by CVE-2024-4317 that wish to
+remediate the issue, you will have to perform the following steps:</p>
+<ol>
+<li>
+<p>Find the SQL script <code>fix-CVE-2024-4317.sql</code> in the <code>share</code> directory of
+your PostgreSQL installation (e.g. in <code>/usr/share/postgresql/</code>), or download it
+from the PostgreSQL git repository from one of the URLs below. You will need to
+use the script that matches your major version:</p>
+</li>
+<li>
+<p><a href="https://git.postgresql.org/gitweb/?p=postgresql.git;a=blob;f=src/backend/catalog/fix-CVE-2024-4317.sql;hb=refs/heads/REL_16_STABLE">PostgreSQL 16</a>: <a href="https://git.postgresql.org/gitweb/?p=postgresql.git;a=blob;f=src/backend/catalog/fix-CVE-2024-4317.sql;hb=refs/heads/REL_16_STABLE">https://git.postgresql.org/gitweb/?p=postgresql.git;a=blob;f=src/backend/catalog/fix-CVE-2024-4317.sql;hb=refs/heads/REL_16_STABLE</a></p>
+</li>
+<li><a href="https://git.postgresql.org/gitweb/?p=postgresql.git;a=blob;f=src/backend/catalog/fix-CVE-2024-4317.sql;hb=refs/heads/REL_15_STABLE">PostgreSQL 15</a>: <a href="https://git.postgresql.org/gitweb/?p=postgresql.git;a=blob;f=src/backend/catalog/fix-CVE-2024-4317.sql;hb=refs/heads/REL_15_STABLE">https://git.postgresql.org/gitweb/?p=postgresql.git;a=blob;f=src/backend/catalog/fix-CVE-2024-4317.sql;hb=refs/heads/REL_15_STABLE</a></li>
+<li><a href="https://git.postgresql.org/gitweb/?p=postgresql.git;a=blob;f=src/backend/catalog/fix-CVE-2024-4317.sql;hb=refs/heads/REL_14_STABLE">PostgreSQL 14</a>: <a href="https://git.postgresql.org/gitweb/?p=postgresql.git;a=blob;f=src/backend/catalog/fix-CVE-2024-4317.sql;hb=refs/heads/REL_14_STABLE">https://git.postgresql.org/gitweb/?p=postgresql.git;a=blob;f=src/backend/catalog/fix-CVE-2024-4317.sql;hb=refs/heads/REL_14_STABLE</a></li>
+</ol>
+<p>From the above URLs, you can click the URL that says "raw" to download a version
+that you can copy and paste.</p>
+<p>Be sure to use the script appropriate to your PostgreSQL major version. If you
+do not see this file, either your version is not vulnerable (only PostgreSQL 14,
+15, and 16 are affected) or your minor version is too old to have the fix.</p>
+<ol>
+<li>In each database of the cluster, run the <code>fix-CVE-2024-4317.sql</code> script as
+a database superuser. For example, in <a href="https://www.postgresql.org/docs/current/app-psql.html"><code>psql</code></a>,
+with the file located in <code>/usr/share/postgresql/</code>, this command would look like:</li>
+</ol>
+<p><code>\i /usr/share/postgresql/fix-CVE-2024-4317.sql</code></p>
+<ol>
+<li>You must also execute this script in the <code>template0</code> and <code>template1</code>
+databases, or the vulnerability will still exist in databases you create later.
+To fix <code>template0</code>, you'll need to temporarily allow it accept connections. You
+can do this with the following command:</li>
+</ol>
+<p><code>ALTER DATABASE template0 WITH ALLOW_CONNECTIONS true;</code></p>
+<p>After executing the <code>fix-CVE-2024-4317.sql</code> script in <code>template0</code> and
+<code>template1</code>, you should revoke the ability for <code>template0</code> to accept
+connections. You can do this with the following command:</p>
+<p><code>ALTER DATABASE template0 WITH ALLOW_CONNECTIONS false;</code></p>
+<p>Users who have skipped one or more update releases may need to run additional
+post-update steps; please see the release notes from earlier versions for
+details.</p>
+<p>For more details, please see the
+<a href="https://www.postgresql.org/docs/release/">release notes</a>.</p>
+<h2>Links</h2>
+<ul>
+<li><a href="https://www.postgresql.org/download/">Download</a></li>
+<li><a href="https://www.postgresql.org/docs/release/">Release Notes</a></li>
+<li><a href="https://www.postgresql.org/support/security/">Security</a></li>
+<li><a href="https://www.postgresql.org/support/versioning/">Versioning Policy</a></li>
+<li><a href="https://www.postgresql.org/about/press/">PostgreSQL 16 Release Announcement</a></li>
+<li><a href="https://twitter.com/postgresql">Follow @postgresql on X/Twitter</a></li>
+<li><a href="https://www.postgresql.org/about/donate/">Donate</a></li>
+</ul>
+<p>If you have corrections or suggestions for this release announcement, please
+send them to the <em>pgsql-www@lists.postgresql.org</em> public
+<a href="https://www.postgresql.org/list/">mailing list</a>.</p> 
+
+<https://www.postgresql.org/about/news/postgresql-163-157-1412-1315-and-1219-released-2858/>
+
+---
+
+## Did GitHub Copilot really increase my productivity?
+
+date: 2024-05-08, from: OS News
+
+Yuxuan Shui, the developer behind the X11 compositor picom (a fork of Compton) published a blog post detailing their experiences with using GitHub Copilot for a year. I had free access to GitHub Copilot for about a year, I used it, got used to it, and slowly started to take it for granted, until one day it was taken away. I had to re-adapt to a life without Copilot, but it also gave me a chance to look back at how I used Copilot, and reflect &#8211; had Copilot actually been helpful to me? Copilot definitely feels a little bit magical when it works. It&#8217;s like it plucked code straight from my brain and put it on the screen for me to accept. Without it, I find myself getting grumpy a lot more often when I need to write boilerplate code &#8211; &#8220;Ugh, Copilot would have done it for me!&#8221;, and now I have to type it all out myself. That being said, the answer to my question above is a very definite &#8220;no, I am more productive without it&#8221;. Let me explain. ↫ Yuxuan Shui The two main reasons why Shui eventually realised Copilot was slowing them down were its unpredictability, and its slowness. It&#8217;s very difficult to understand when, exactly, Copilot will get things right, which is not a great thing to have to deal with when you&#8217;re writing code. They also found Copilot incredibly slow, with its suggestions often taking 2-3 seconds or longer to appear &#8211; much slower than the suggestions from the clangd language server they use. Of course, everybody&#8217;s situation will be different, and I have a suspicion that if you&#8217;re writing code in incredibly popular languages, say, Python or JavaScript, you&#8217;re going to get more accurate and possibly faster suggestions from Copilot. As Shui notes, it probably also doesn&#8217;t help that they&#8217;re writing an independent X11 compositor, something very few people are doing, meaning Copilot hasn&#8217;t been trained on it, which in turn means the tool probably has no clue what&#8217;s going on when Shui is writing their code. As an aside, my opinion on GitHub Copilot is clear &#8211; it&#8217;s quite possibly the largest case of copyright infringement in human history, and in its current incarnation it should not be allowed to continue to operate. As I wrote over a year ago: If Microsoft or whoever else wants to train a coding “AI” or whatever, they should either be using code they own the copyright to, get explicit permission from the rightsholders for “AI” training use (difficult for code from larger projects), or properly comply with the terms of the licenses and automatically add the terms and copyright notices during autocomplete and/or properly apply copyleft to the newly generated code. Anything else is a massive copyright violation and a direct assault on open source. Let me put it this way – the code to various versions of Windows has leaked numerous times. What if we train an “AI” on that leaked code and let everyone use it? Do you honestly think Microsoft would not sue you into the stone age? ↫ Thom Holwerda It&#8217;s curious that as far as I know, Copilot has not been trained on Microsoft&#8217;s own closed-source code, say, to Windows or Office, while at the same time the company claims Copilot is not copyright infringement or a massive open source license violation machine. If what Copilot does is truly fair use, as Microsoft claims, why won&#8217;t Microsoft use its own closed-source code for training? We all know the answer. Deeply questionable legality aside, do any of you use Copilot? Has it had any material impact on your programming work? Is its use allowed by your employer, or do you only use it for personal projects at home? 
+
+<https://www.osnews.com/story/139622/did-github-copilot-really-increase-my-productivity/>
+
+---
+
+**@Ayjay blog** (date: 2024-05-08, from: Ayjay blog)
+
+Dan Kois: Most alarmingly, kids in third and fourth grade are beginning to stop reading for fun. It’s called the “Decline by 9,” and it’s reaching a crisis point for publishers and educators. According to research by the children’s publishers Scholastic, at age 8, 57 percent of kids say they read books for fun most [&#8230;] 
+
+<https://blog.ayjay.org/46195-2/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-05-08, from: Tomosino's Mastodon feed)
+
+<p>1-800-255-3700 </p><p><a href="https://tilde.zone/tags/thingsStuckInMyHeadFor35Years" class="mention hashtag" rel="tag">#<span>thingsStuckInMyHeadFor35Years</span></a></p> 
+
+<https://tilde.zone/@tomasino/112408116536430143>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-05-08, from: Miguel de Icaza Mastondon feed)
+
+<p>Some progress to get Runestone to show Breakpoint markers.   </p><p>Since I am going behind Runestone&#39;s back, I can&#39;t quite change the font color for the line number, and that looks ugly.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112408096390290747>
+
+---
+
+## Sols 4180-4182: Imaging fest!
+
+date: 2024-05-08, from: NASA breaking news
+
+Earth planning date: Wednesday, May 8, 2024 What a wonderful sight to see all the sedimentary structures. I am a geochemist, but I hear the excitement in the voices of my sediment-specialist colleagues, discussing all those textures and things to see. Generally, it is those features that allow us to determine what has happened in terms […] 
+
+<https://science.nasa.gov/blogs/sols-4180-4182-imaging-fest/>
+
+---
+
+## Sols 4178-4179: The Pinnacle Ridge Scarp
+
+date: 2024-05-08, from: NASA breaking news
+
+Earth planning date: Monday, May 6, 2024 Curiosity’s set of complex activities and drive over the weekend executed perfectly and we started our planning today directly in front of a scarp, or wall, along a section of the upper Gediz Valis ridge known as “Pinnacle Ridge.” The view along this scarp did not disappoint!  Mastcam planned a […] 
+
+<https://science.nasa.gov/blogs/sols-4178-4179-the-pinnacle-ridge-scarp/>
+
+---
+
+##  Wes Anderson&#8217;s Montblanc Commercial 
+
+date: 2024-05-08, updated: 2024-05-08, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/wes-andersons-montblanc-commercial>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-05-08, from: Miguel de Icaza Mastondon feed)
+
+<p>UI-wise, I am struggling with that tab bar at the top.</p><p>Godot has an unusual set of tabs at the top that map to scenes, but the actual view is controlled by the top-level items.</p><p>I am not sure what to do about those two tab bars.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112407809868401322>
+
+---
+
+## Raspberry Pi Connect: remote desktop for your Pi
+
+date: 2024-05-08, from: OS News
+
+Today we’re pleased to announce the beta release of Raspberry Pi Connect: a secure and easy-to-use way to access your Raspberry Pi remotely, from anywhere on the planet, using just a web browser. It’s often extremely useful to be able to access your Raspberry Pi’s desktop remotely. There are a number of technologies which can be used to do this, including VNC, and of course the X protocol itself. But they can be hard to configure, particularly when you are attempting to access a machine on a different local network; and of course with the transition to Wayland in Raspberry Pi OS Bookworm, classic X remote desktop support is no longer available. We wanted to be able to provide you with this functionality with our usual “it just works” approach. Enter Raspberry Pi Connect. ↫ Gordon Hollingworth Pi Connect uses WebRTC, and a daemon running on your Pi listens for incoming screensharing requests from the Raspberry Pi website to connect the VNC server on your Pi to the VNC client running in your browser. The service is in beta, it&#8217;s free, but the one major downside is that for now, there&#8217;s only one TURN server for this service, located in the UK, but they might set up more of them if demand is high enough. If you want to try this service on your own Pi running Raspberry Pi OS, you&#8217;re going to need to be using a Raspberry Pi 5, 4, or 400, using the latest version of the operating system running Wayland. Update your operating system, install the rpi-connect package, reboot, and you&#8217;re good to go. 
+
+<https://www.osnews.com/story/139617/raspberry-pi-connect-remote-desktop-for-your-pi/>
+
+---
+
+##  It&#8217;s Time to Tax the Billionaires. In 2018, &#8220;for the first time... 
+
+date: 2024-05-08, updated: 2024-05-08, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044585-its-time-to-tax-the>
+
+---
+
+## US revokes Intel, Qualcomm’s export licenses to sell to China’s Huawei, sources say
+
+date: 2024-05-08, from: OS News
+
+The U.S. has revoked licenses that allowed companies including Intel and Qualcomm to ship chips used for laptops and handsets to sanctioned Chinese telecoms equipment maker Huawei Technologies, three people familiar with the matter said. ↫ Alexandra Alper, Fanny Potkin, David Shepardson The timing of this news is very interesting, as despite the massive sanctions the United States levied against Huawei, the company seems to be doing really well, with its smartphone business seeing massive gains in the Chinese market, at the expense of everyone else. This proves that Huawei does not need access to western chips and technologies to be successful, which must definitely sting in the US and Europe. Strong financial results, using hardware and chips designed not by western companies but by Chinese ones, combined with the only mobile operating system that has any serious potential to at least somewhat threaten Android and iOS. The various sanctions were clearly intended to hurt Huawei and possibly contain it to just China, but it seems they&#8217;re not having their desired effect at all. 
+
+<https://www.osnews.com/story/139615/us-revokes-intel-qualcomms-export-licenses-to-sell-to-chinas-huawei-sources-say/>
+
+---
+
+## OTPS seeks input from the lunar community to inform a framework for further work on non-interference of lunar activities
+
+date: 2024-05-08, from: NASA breaking news
+
+Questionnaire responses due by June 7, 2024 NASA’s Office of Technology, Policy, and Strategy (OTPS) is asking members of the lunar community to respond to a new Lunar Non-Interference Questionnaire that will inform the development of a framework for further work on non-interference of lunar activities. There is no funding or solicitation expected to follow. [&#8230;] 
+
+<https://www.nasa.gov/organizations/otps/otps-seeks-input-from-the-lunar-community-to-inform-a-framework-for-further-work-on-non-interference-of-lunar-activities/>
+
+---
+
+##  The Gentle Librarian 
+
+date: 2024-05-08, updated: 2024-05-08, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/the-gentle-librarian>
+
+---
+
+## The Marshall Star for May 8, 2024
+
+date: 2024-05-08, from: NASA breaking news
+
+New Flag is in the Stars for Marshall’s Huntsville Operations Support Center By Wayne Smith A new flag is flying closer to the stars outside the Huntsville Operations Support Center at NASA’s Marshall Space Flight Center following a May 2 ceremony. The white flag features a blue logo of Boeing’s Starliner spacecraft and marks contributions [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-may-8-2024/>
+
+---
+
+##  Hackers can reprogram NES Tetris *from within the game*, which may lead... 
+
+date: 2024-05-08, updated: 2024-05-08, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044582-hackers-can-reprogram-nes>
+
+---
+
+## Turning Off iOS 17 Contact Posters
+
+date: 2024-05-08, from: Michael Tsai
+
+Federico Viticci: In iOS 17, you can create a contact poster, which is essentially a combination of a profile picture and artwork that will represent you when calling other people on the phone, FaceTime, and other apps compatible with the CallKit framework. [&#8230;] When a call comes in from one of my friends who&#8217;s created [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/08/turning-off-ios-17-contact-posters/>
+
+---
+
+## The Alternative Implementation Problem
+
+date: 2024-05-08, from: Michael Tsai
+
+Maxime Chevalier: What I&#8217;ve concluded, based on experience, is that positioning your project as an alternative implementation of something is a losing proposition. It doesn&#8217;t matter how smart you are. It doesn&#8217;t matter how hard you work. The problem is, when you build an alternative implementation, you&#8217;ve made yourself subject to the whims of the [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/08/the-alternative-implementation-problem/>
+
+---
+
+## On guestbooks
+
+date: 2024-05-08, from: Manu - I write blog
+
+
+                <p>Sometimes you have to listen to the messages life sends your way. And today that message is that I have to write something about guestbooks. In less than 2 hours, two emails landed in my inbox—I love emails, if you want to get in touch please <a href="mailto:hello@manuelmoreale.com">do send one</a>—both on the topic of guestbooks.</p>
+<p>The first one was from <a href="https://bjhess.com">Barry</a>. His site now has a <a href="https://bjhess.com/guestbook">lovely guestbook</a> that I haven’t signed yet because I want to come up with a nice drawing for it. Barry also works on a blog platform called <a href="https://pika.page">Pika</a>, worth checking out if you want to start a blog—you should—and you’re considering a hosted solution.</p>
+<p>The second email was a ping from <a href="https://devastatia.com/123guestbook-shutting-down">Devastatia’s website</a>. She wrote a post on the subject of guestbooks because apparently <a href="https://www.123guestbook.com">123guestbook.com</a>, one of the OG sites, <a href="https://www.123guestbook.com/news.php?id=closure">is shutting down</a>. If for some reason you were using it to power your guestbook you should consider exporting your content and preserving all the signatures in some way.</p>
+<p>Guestbooks are cool. If you haven’t already, <a href="http://manuelmoreale.com/guestbook">go sign mine</a> and let me know if your site has one because I’m going to both sign it and also add it to the list on my guestbook page.</p>                <hr>
+                <h2>Get in touch</h2>                <p>Have something to share? Want me as your <a href="https://manuelmoreale.com/i-ll-read-it">first reader</a>? Get in touch. My inbox is always open.</p>                <a href="mailto:hello@manuelmoreale.com">Connect</a> — 
+                <a href="https://manuelmoreale.com/guestbook">Guestbook</a>
+                <hr>
+                <h2>One a month</h2>                <p>That's how little it takes to help with my <a href="https://manuelmoreale.com/on-dreams-and-goals">goal</a>. If you feel generous, consider supporting what I do.</p>                <a href="https://ko-fi.com/manuelmoreale">Donate</a> — 
+                <a href="https://manuelmoreale.com/supporters">Supporters</a>
+                <hr>
+                <h2>People and Blogs</h2>                <p>I ask people to talk about themselves and their blogs. <a href="https://peopleandblogs.com/">Learn more</a> or subscribe.</p>                <a href="https://manuelmoreale.com/feed/peopleandblogs">RSS</a> — 
+                <a href="https://buttondown.email/peopleandblogs">Email</a>
+             
+
+<https://manuelmoreale.com/@/page/25583Thdp8L1dO0C>
+
+---
+
+## Shiny MacBook Keys
+
+date: 2024-05-08, from: Michael Tsai
+
+OSXDaily (tweet): One of the worst things about the MacBook Air and MacBook Pro is the shiny key issue. If you&#8217;re unfamiliar, the image above demonstrates the beginning stages of the shiny key development on my otherwise beautiful six month old MacBook Air, visible mostly on the shift key, but &#8220;A&#8221; and &#8220;S&#8221; are also [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/08/shiny-macbook-keys/>
+
+---
+
+## Online Messaging Systems of Yesteryear
+
+date: 2024-05-08, from: Michael Tsai
+
+Jeremy Reimer (via Adam Engst): PLATO was an educational system that began in 1960 and was nearing its fourth iteration. It was responsible for many computer firsts, such as the first flat-screen plasma display, which launched in 1972 with PLATO IV. These touch-enabled, 512&#xD7;512 graphical displays looked like they came from the future. And while [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/08/online-messaging-systems-of-yesteryear/>
+
+---
+
+##  After launching last month, the Delta game emulator has been one of... 
+
+date: 2024-05-08, updated: 2024-05-08, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044579-after-launching-last-mont>
+
+---
+
+##  Attempting to thwart ticket scalpers, Billie Eilish is selling supposedly &#8220;untransferable&#8221; tickets... 
+
+date: 2024-05-08, updated: 2024-05-08, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044580-attempting-to-thwart-tick>
+
+---
+
+## Sulaiman Mountain Haze
+
+date: 2024-05-08, from: NASA breaking news
+
+An astronaut aboard the International Space Station took this Dec. 17, 2023, photograph of the Sulaiman Mountains in central Pakistan.&#160;The Sulaiman Mountains form a natural barrier between the plateaus to the west and the Indus River Valley to the east. Winds blowing from the Indian Ocean and Indus floodplain carry moisture and particulates inland, causing&#160;a [&#8230;] 
+
+<https://www.nasa.gov/image-article/sulaiman-mountain-haze/>
+
+---
+
+##  Fantastical Portraits of Cate Blanchett 
+
+date: 2024-05-08, updated: 2024-05-08, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/fantastical-portraits-of-cate-blanchett>
+
+---
+
+##  I&#8217;d missed that Elena Ferrante&#8217;s My Brilliant Friend now has a graphic... 
+
+date: 2024-05-08, updated: 2024-05-08, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044569-id-missed-that-elena-ferr>
 
 ---
 
@@ -87,7 +758,7 @@ A quest for innovative ideas and development processes led biomedical engineer K
 
 **@Dave Winer's Scripting News** (date: 2024-05-08, from: Dave Winer's Scripting News)
 
-Now that I have my <a href="http://blogroll.social/">blogroll</a> as a regular feature in <a href="http://scripting.com/">my blog</a>, I am able to keep current with more bloggers. It's actually much more than a blogroll, it's a feed reader. When a feed that I'm following updates, it moves to the top of the list. And if I want to see what's new, I just click on the wedge next to its name to reveal the most recent five posts. From there, I can get to the full post by clicking on the permalink. If you want to get a feel for it without taking the plunge yourself, you can leave my blog open in a browser tab. You'll get exactly what I get. 
+Now that I have my <a href="http://blogroll.social/">blogroll</a> as a regular feature in <a href="http://scripting.com/">my blog</a>, I am able to keep current with more bloggers. It's actually much more than a blogroll, it's a feed reader. When a feed that I'm following updates, it moves to the top of the list. And if I want to <a href="https://imgs.scripting.com/2024/05/08/blogrollscreenshot.png">see what's new</a>, I just click on the wedge next to its name to reveal the most recent five posts. From there, I can get to the full post by clicking on the permalink. If you want to get a feel for it without taking the plunge yourself, you can leave my blog open in a browser tab. You'll get exactly what I get. 
 
 <http://scripting.com/2024/05/08.html#a135612>
 
@@ -506,7 +1177,7 @@ date: 2024-05-07, updated: 2024-05-07, from: Jason Kottke blog
 
 date: 2024-05-07, from: Michael Tsai
 
-Apple (Hacker News): Built using second-generation 3-nanometer technology, M4 is a system on a chip (SoC) that advances the industry-leading power efficiency of Apple silicon and enables the incredibly thin design of iPad Pro. It also features an entirely new display engine to drive the stunning precision, color, and brightness of the breakthrough Ultra Retina [&#8230;] 
+Apple (Hacker News, Slashdot): Built using second-generation 3-nanometer technology, M4 is a system on a chip (SoC) that advances the industry-leading power efficiency of Apple silicon and enables the incredibly thin design of iPad Pro. It also features an entirely new display engine to drive the stunning precision, color, and brightness of the breakthrough Ultra [&#8230;] 
 
 <https://mjtsai.com/blog/2024/05/07/apple-m4/>
 
@@ -516,7 +1187,7 @@ Apple (Hacker News): Built using second-generation 3-nanometer technology, M4 is
 
 date: 2024-05-07, from: Michael Tsai
 
-Apple (Hacker News): Final Cut Pro for iPad 2 transforms iPad into a multicam production studio with Live Multicam, giving users the power to speed up their shoot by allowing them to connect and preview up to four cameras all at once, all in one place. To support Live Multicam, Final Cut Camera &#8212; an [&#8230;] 
+Apple (MacRumors, Hacker News): Final Cut Pro for iPad 2 transforms iPad into a multicam production studio with Live Multicam, giving users the power to speed up their shoot by allowing them to connect and preview up to four cameras all at once, all in one place. To support Live Multicam, Final Cut Camera &#8212; [&#8230;] 
 
 <https://mjtsai.com/blog/2024/05/07/final-cut-pro-2-and-logic-pro-2-for-ipad/>
 

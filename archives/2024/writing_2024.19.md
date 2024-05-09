@@ -1,11 +1,34 @@
 ---
 title: writing 2024.19
-updated: 2024-05-08 08:44:37
+updated: 2024-05-09 08:24:32
 ---
 
 # writing 2024.19
 
-(date: 2024-05-08 08:44:37)
+(date: 2024-05-09 08:24:32)
+
+---
+
+## 🎥 Eyes on the camera
+
+date: 2024-05-08, from: Interesting, a blog on writing
+
+Describing shots on the page, and writing characters speaking to the camera. 
+
+<https://inneresting.substack.com/p/eyes-on-the-camera>
+
+---
+
+## Gailey Named Nebula Awards Toastmaster
+
+date: 2024-05-08, from: Locus Magazine
+
+<p>The Science Fiction and Fantasy Writers Association (SFWA) has announced that writer Sarah Gailey will be toastmaster at the 59th Annual Nebula Awards, to be presented June 8, 2024 in Pasadena CA.</p>
+<p>SFWA President Jeffe Kennedy said, “I’m delighted that Sarah will be our Toastmaster this year. With their wit and deep ties to the genre community, Sarah will bring grace and resonance to the ceremony.”</p>
+
+<p style="text-align: left;">Sarah Gailey is a  <a href="https://locusmag.com/2024/05/gailey-named-nebula-awards-toastmaster/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/gailey-named-nebula-awards-toastmaster/>
 
 ---
 
