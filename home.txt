@@ -1,9 +1,10 @@
 #
-# Home, Garden and Farm related blogs
+# Home, Garden and Urban Farm related blogs
 #
 https://plantingseedsblog.cdfa.ca.gov/wordpress/?feed=rss2 "~Calfifornia Dept. Aggriculture blog"
 https://acwm.lacounty.gov/feed/ "~L.A. Country Agriculture Commissioner/Weights & Measures News"
 https://santaclarita.gov/specialdistricts/feed/ "~City of Santa Clarita, Urban Forestry News"
+https://communitygardensofsantaclarita.org/feed/ "~Community Gardens of Santa Clarita"
 https://theodorepayne.org/feed/ "~Theodore Payne Foundation (SoCal Native Plants)"
 https://www.cnps.org/feed "~California Native Plants Society"
 https://californiaoaks.org/feed/ "~California Oaks News"

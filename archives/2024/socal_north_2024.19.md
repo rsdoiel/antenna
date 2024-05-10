@@ -1,11 +1,23 @@
 ---
 title: socal north 2024.19
-updated: 2024-05-10 15:37:07
+updated: 2024-05-10 15:45:52
 ---
 
 # socal north 2024.19
 
-(date: 2024-05-10 15:37:07)
+(date: 2024-05-10 15:45:52)
+
+---
+
+## **Traffic Advisory** Lane and Road Closures for Copper Hill Bridge Widening Project
+
+date: 2024-05-10, from: City of Santa Clarita
+
+<p>Construction to Begin May 13 Starting Monday, May 13, crews will begin construction to widen the Copper Hill Bridge located at Copper Hill Drive over the San Francisquito Creek between McBean Parkway and Avenida Rancho Tesoro. This developer-led project will expand the north side of the bridge, facilitating three lanes of traffic in each direction, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/05/10/traffic-advisory-lane-and-road-closures-for-copper-hill-bridge-widening-project/">**Traffic Advisory** Lane and Road Closures for Copper Hill Bridge Widening Project</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/05/10/traffic-advisory-lane-and-road-closures-for-copper-hill-bridge-widening-project/>
 
 ---
 

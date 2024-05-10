@@ -1,11 +1,11 @@
 ---
 title: columns 2024.19
-updated: 2024-05-10 15:37:08
+updated: 2024-05-10 15:45:52
 ---
 
 # columns 2024.19
 
-(date: 2024-05-10 15:37:08)
+(date: 2024-05-10 15:45:52)
 
 ---
 
@@ -292,9 +292,9 @@ This&#160;past&#160;week, Apple&#160;released an ad to support the new iPads&#16
 
 ---
 
-## Logitech Launches Keyboard Cases for New iPad Air and iPad Pro Models
+## Logitech Announces Keyboard Cases for New iPad Air and iPad Pro Models
 
-date: 2024-05-09, updated: 2024-05-09, from: Daring Fireball
+date: 2024-05-09, updated: 2024-05-10, from: Daring Fireball
 
  
 
