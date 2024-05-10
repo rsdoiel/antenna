@@ -9,6 +9,7 @@ https://api.weather.gov/points/34.3917,-118.5426 "~NOAA Forecast for Santa Clari
 #https://scvnews.com/feed/ "~SCV News (TV Station)"
 #https://signalscv.com/feed/ "~The Signal"
 https://sanfernandosun.com/feed/ "~the San Fernando Valley Sun/el Sol de Valle San Fernando"
+https://laopinion.com/feed/ "~La Opinion (Los Angeles)"
 
 #
 # Non-Profit news organizations
