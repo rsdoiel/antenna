@@ -1,74 +1,123 @@
 ---
 title: weather 2024.19
-updated: 2024-05-10 11:11:55
+updated: 2024-05-10 15:37:08
 ---
 
 # weather 2024.19
 
-(date: 2024-05-10 11:11:55)
+(date: 2024-05-10 15:37:08)
 
 ---
 
-## SPC MD 747
+## SPC MD 748
 
 date: 2024-05-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-<br /><a href="https://www.spc.noaa.gov/products/md/md0747.html"><img src="https://www.spc.noaa.gov/products/md/mcd0747.png" border="1" alt="MD 0747 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+<br /><a href="https://www.spc.noaa.gov/products/md/md0748.html"><img src="https://www.spc.noaa.gov/products/md/mcd0748.png" border="1" alt="MD 0748 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
 
-Mesoscale Discussion 0747
+Mesoscale Discussion 0748
 NWS Storm Prediction Center Norman OK
-1205 PM CDT Fri May 10 2024
+0448 PM CDT Fri May 10 2024
 
-Areas affected...the central and eastern Carolinas
+Areas affected...Parts of SC into eastern NC
 
-Concerning...Severe potential...Watch likely 
+Concerning...Severe Thunderstorm Watch 231...
 
-Valid 101705Z - 101930Z
+Valid 102148Z - 102315Z
 
-Probability of Watch Issuance...95 percent
+The severe weather threat for Severe Thunderstorm Watch 231
+continues.
 
-SUMMARY...Scattered severe storms are likely to develop after 18Z
-over the central Carolinas, producing damaging hail and wind through
-early evening as they eventually exit the Atlantic Coast.
+SUMMARY...The threat for hail and damaging gusts will spread
+southeastward toward the coast into this evening.
 
-DISCUSSION...Surface analysis shows a deepening trough extending
-from southeast VA across central NC and into northern SC, with
-temperatures heating into the upper 70s F. Dewpoints remain in the
-60s F, but may gradually mix down a few degrees by peak heating.
+DISCUSSION...Numerous small cells (some exhibiting supercell
+characteristics) have produced scattered hail reports in the 1.0 -
+1.75 inch diameter range through the afternoon, within an
+environment characterized by MLCAPE of 750-1500 J/kg and moderate
+deep-layer shear. Any remaining discrete cells will be capable of
+producing hail of a similar size into this evening. There has been
+some tendency for gradually increasing outflow and clustering of
+storms, which could result in a somewhat greater threat for damaging
+wind, especially in areas from SC into southeast NC, where warmer
+temperatures and relatively greater instability remain in place. 
 
-Morning soundings show steep midlevel lapse rates in place, as well
-as ample deep-layer shear with mid to high level flow of 50 to 100
-kt. This combination is resulting in a favorable environment for
-large hail, and perhaps a few fast-moving bowing structures with
-damaging winds.
+The primary severe threat should continue to spread toward the
+coast, though a couple stronger cells could trail the primary band
+of convection with an isolated severe threat into this evening.
 
-As of 17Z, visible imagery is already showing developing towering CU
-over northern SC and into central NC. The presence of cirrus from
-the MCS to the south may have slowed heating a bit, but clearing
-should continue, aiding destabilization.
-
-Scattered to numerous storms are expected to form over the next few
-hours along the boundary, with both cells and congealing line
-segments possible. Some of the more isolated hail storms may produce
-large amounts of 1.00 to 1.75" hail, with cold, severe downdrafts
-possible as well.
-
-..Jewell/Thompson.. 05/10/2024
+..Dean.. 05/10/2024
 
 ...Please see www.spc.noaa.gov for graphic product...
 
-ATTN...WFO...AKQ...MHX...RAH...ILM...CAE...GSP...
+ATTN...WFO...AKQ...MHX...RAH...ILM...CHS...CAE...GSP...
 
-LAT...LON   36477580 36067555 35617536 35267540 34297619 33587712
-            33267817 33177918 33237939 33558008 33958119 34068173
-            34308213 34608220 34778200 34858121 35068026 35367944
-            35677864 35867814 36307714 36477580 
+LAT...LON   34788124 34877893 35867712 36077606 36037549 35497535
+            34667609 33737785 33257870 33227918 33417998 33608065
+            33768123 33868143 34148166 34788124 
 
 </pre>
-<a href="https://www.spc.noaa.gov/products/md/md0747.html">Read more</a>
+<a href="https://www.spc.noaa.gov/products/md/md0748.html">Read more</a>
  
 
-<https://www.spc.noaa.gov/products/md/md0747.html>
+<https://www.spc.noaa.gov/products/md/md0748.html>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2024-05-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0432 PM CDT Fri May 10 2024
+
+Valid 121200Z - 181200Z
+
+An upper-level trough will slowly move east from the southern Plains
+into the Southeast through early next week. Showers and
+thunderstorms will spread eastward across much of the central and
+eastern US mostly along and south of the southern Great Lakes, with
+the heaviest rain likely from southeast Texas through north Florida
+and extending northward into the Deep South. Upper-level ridging
+will weaken over the West and shift westward over the Pacific as an
+upper-level trough moves southeast over the Rockies, and it will
+likely merge with a weak upper low over the Desert Southwest
+mid-next week. 
+
+...Florida Peninsula...
+Developing short-term drought with rapidly increasing KBDI values
+and ERC-Y values near or exceeding the 97th percentile on the
+southern half to two-thirds of the Florida Peninsula could lead to
+critical fire weather conditions next week. Little to no rain is
+likely to make it to central and south Florida through mid-next
+week, and minimum RH is likely to drop below 40% daily on portions
+of the peninsula. Winds are likely to increase mid-next week as
+another cold front approaches, but the extent and magnitude of
+potential critical conditions remain uncertain. 
+
+...Southwest...
+Dry and breezy conditions will continue on Day 3/Sunday from far
+southeast Arizona through southern New Mexico into the Trans Pecos
+likely resulting in locally critical conditions. Near daily chances
+of isolated to scattered thunderstorms and showers are likely across
+portions of northern New Mexico, especially over the higher terrain,
+through mid-next week, but much of the Southwest is likely to
+receive little to no rain into late next week. Winds are likely to
+increase again across portions of the Southwest mid-next week, with
+locally critical conditions possibly returning to lower and
+mid-elevations by the end of next week.
+
+..Nauslar.. 05/10/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/exper/fire_wx/>
 
 ---
 
@@ -78,7 +127,45 @@ date: 2024-05-10, from: NOAA tornado/severe thunderstorm watches, mesoscale disc
 
 <br /><a href="https://www.spc.noaa.gov/products/watch/ws0231.html"><img src="https://www.spc.noaa.gov/products/watch/ww0231_radar.gif" border="1" alt="WW 0231 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
 
-STATUS FOR WATCH 0231 HAS NOT BEEN ISSUED YET
+STATUS REPORT ON WW 231
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 10 E SPA TO
+35 SSW CLT TO 45 SSE CLT TO 40 NW FLO TO 35 NNW FLO TO 20 S SOP
+TO 20 N FAY TO 15 NW GSB TO 20 E RWI TO 35 ESE RZZ.
+
+..JEWELL..05/10/24
+
+ATTN...WFO...RAH...MHX...ILM...GSP...CAE...
+
+
+STATUS REPORT FOR WS 231 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+NCC013-017-019-031-047-049-051-055-061-065-079-085-093-095-101-
+103-107-117-129-133-137-141-147-155-163-165-177-187-191-195-
+102140-
+
+NC 
+.    NORTH CAROLINA COUNTIES INCLUDED ARE
+
+BEAUFORT             BLADEN              BRUNSWICK           
+CARTERET             COLUMBUS            CRAVEN              
+CUMBERLAND           DARE                DUPLIN              
+EDGECOMBE            GREENE              HARNETT             
+HOKE                 HYDE                JOHNSTON            
+JONES                LENOIR              MARTIN              
+NEW HANOVER          ONSLOW              PAMLICO             
+PENDER               PITT                ROBESON             
+SAMPSON              SCOTLAND            TYRRELL             
+WASHINGTON           WAYNE               WILSON              
+
+
+SCC017-023-025-027-031-033-039-041-043-051-055-057-061-063-067-
+069-071-079-085-087-089-102140-
+
+SC 
+.    SOUTH CAROLINA COUNTIES INCLUDED ARE
 </pre>
 <a href="https://www.spc.noaa.gov/products/watch/ws0231.html">Read more</a>
  
@@ -148,6 +235,151 @@ few cumulonimbi with maximum tops to 500. Mean storm motion vector
  
 
 <https://www.spc.noaa.gov/products/watch/ww0231.html>
+
+---
+
+## SPC May 10, 2024 2000 UTC Day 1 Convective Outlook
+
+date: 2024-05-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0243 PM CDT Fri May 10 2024
+
+Valid 102000Z - 111200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS OF
+THE CAROLINAS...
+
+...SUMMARY...
+Damaging winds of 60-70 mph and large hail of 1-1.75 inches remain
+possible this afternoon/evening across southern North Carolina and
+northeast South Carolina.
+
+...Discussion...
+Aside from some adjustments to the thunder lines to account for
+current/evolving convection, no appreciable changes to the outlook
+appear to be required at this time.
+
+..Goss.. 05/10/2024
+
+.PREV DISCUSSION... /ISSUED 1126 AM CDT Fri May 10 2024/
+
+...Carolinas this afternoon/evening...
+A midlevel shortwave trough over the OH Valley will move
+southeastward to the Carolinas by this evening with an accompanying
+surface cold front.  Surface heating in the wake of debris
+cloudiness with the weakening MCS to the south and boundary-layer
+dewpoints in the 60s will contribute to a corridor of moderate
+buoyancy (MLCAPE near 1500 J/kg) ahead of the front.  Thunderstorm
+development is expected by early-mid afternoon along and ahead of
+the cold front and a diffuse pre-frontal trough across northern
+SC/southern NC, and storms will subsequently spread southeastward
+through this evening.  The moderate buoyancy, steepening low-level
+lapse rates, and largely straight hodographs with ~50 kt midlevel
+flow will favor damaging winds of 60-70 mph and isolated large hail
+of 1-1.75 inches in diameter as the main threats with a mix of
+supercells and line segments.
+
+...Northeast Gulf coast and FL through this evening...
+The initial MCS with damaging winds has now weakened and moved off
+the Atlantic coast, with a band of elevated convection persisting to
+the west in a zone of warm advection atop the trailing cold pool. 
+There will be a low-end hail threat with the elevated storms from
+the FL Panhandle into north FL today, prior to the storms weakening
+later this afternoon.  Additional storm development along the
+outflow boundary across the FL peninsula is somewhat uncertain,
+given the observed tendency for low-level flow to veer to
+west-northwesterly across central FL which suggests only
+weak/shallow ascent along the boundary.  Overall, any lingering
+severe threat should remain marginal through the afternoon.
+
+...Upper MS Valley...
+A midlevel trough over northern MN will continue to dig
+southeastward over the upper MS Valley through this evening. 
+Despite limited low-level moisture, surface heating/steepening
+low-level lapse rates and ascent preceding the midlevel trough will
+support a band of low-topped convection from mid afternoon through
+late evening.  The stronger storms will be capable of producing
+isolated wind damage 
+
+...Edwards Plateau in TX today...
+Though an isolated/elevated storm could occur today well to the
+north of the surface cold front, buoyancy appears fairly limited
+where storm formation is more probable.  As such, severe storms
+appear unlikely (and any storm splits off the high terrain in Mexico
+are unlikely to remain severe after crossing the international
+border).
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
+
+---
+
+## SPC MD 747
+
+date: 2024-05-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0747.html"><img src="https://www.spc.noaa.gov/products/md/mcd0747.png" border="1" alt="MD 0747 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0747
+NWS Storm Prediction Center Norman OK
+1205 PM CDT Fri May 10 2024
+
+Areas affected...the central and eastern Carolinas
+
+Concerning...Severe potential...Watch likely 
+
+Valid 101705Z - 101930Z
+
+Probability of Watch Issuance...95 percent
+
+SUMMARY...Scattered severe storms are likely to develop after 18Z
+over the central Carolinas, producing damaging hail and wind through
+early evening as they eventually exit the Atlantic Coast.
+
+DISCUSSION...Surface analysis shows a deepening trough extending
+from southeast VA across central NC and into northern SC, with
+temperatures heating into the upper 70s F. Dewpoints remain in the
+60s F, but may gradually mix down a few degrees by peak heating.
+
+Morning soundings show steep midlevel lapse rates in place, as well
+as ample deep-layer shear with mid to high level flow of 50 to 100
+kt. This combination is resulting in a favorable environment for
+large hail, and perhaps a few fast-moving bowing structures with
+damaging winds.
+
+As of 17Z, visible imagery is already showing developing towering CU
+over northern SC and into central NC. The presence of cirrus from
+the MCS to the south may have slowed heating a bit, but clearing
+should continue, aiding destabilization.
+
+Scattered to numerous storms are expected to form over the next few
+hours along the boundary, with both cells and congealing line
+segments possible. Some of the more isolated hail storms may produce
+large amounts of 1.00 to 1.75" hail, with cold, severe downdrafts
+possible as well.
+
+..Jewell/Thompson.. 05/10/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...AKQ...MHX...RAH...ILM...CAE...GSP...
+
+LAT...LON   36477580 36067555 35617536 35267540 34297619 33587712
+            33267817 33177918 33237939 33558008 33958119 34068173
+            34308213 34608220 34778200 34858121 35068026 35367944
+            35677864 35867814 36307714 36477580 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0747.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/md/md0747.html>
 
 ---
 
@@ -2166,109 +2398,6 @@ storm motion vector 24035.
  
 
 <https://www.spc.noaa.gov/products/watch/ww0195.html>
-
----
-
-## SPC May 7, 2024 2000 UTC Day 1 Convective Outlook
-
-date: 2024-05-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0245 PM CDT Tue May 07 2024
-
-Valid 072000Z - 081200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FOR
-INDIANA...WESTERN AND CENTRAL OHIO...AND NORTHERN KENTUCKY...
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS
-SOUTH-CENTRAL TEXAS...
-
-...SUMMARY...
-Scattered severe thunderstorms are expected across the southern
-Great Lakes and Ohio Valley through evening.  A few tornadoes (some
-strong), large to very large hail, and severe/damaging winds all
-appear possible.
-
-...20z Update...
-
-Most of the ongoing outlook remains on track and reasoning has not
-changed from the previous forecast. See Tornado Watch 195 and any
-forthcoming MCDs regarding short term severe potential across parts
-of the Midwest. 
-
-A small Slight risk (level 2 of 5) has been added over portions of
-central TX. A few storms capable of large hail (2.5+ inches
-diameter) appear possible through evening. Agitated cumulus in a
-very moist/unstable environment amid modest low-level convergence
-continue to deepen this afternoon. Forecast soundings depict a
-favorable environment for isolated but possible significant hail.
-While this risk is somewhat conditional/isolated, given the
-possibility for 2.5+ inch hail an upgrade to 15% SIG hail
-probabilities appears warranted. For more details, see MCD 678.
-
-..Leitman.. 05/07/2024
-
-.PREV DISCUSSION... /ISSUED 1136 AM CDT Tue May 07 2024/
-
-...Southern Great Lakes/Ohio Valley and vicinity...
-Considerable uncertainty remains for this forecast due largely in
-part to an ongoing broken squall line moving east across KY/IN/Lake
-Michigan and the related influences for airmass destabilization in
-its wake.  However, clearing skies in the MCS' wake will result in a
-seemingly sufficient period of heating during the afternoon. 
-Water-vapor imagery shows the deep-layer cyclone centered over the
-northern Great Plains.  A mid-level speed max rotating through the
-base of the larger-scale trough will move from the mid MS Valley
-late this morning into the southern Great Lakes by early evening. 
-Rapid strengthening of southwesterly 500-mb flow is forecast over
-northern IL into the northern half of IN through the mid-late
-afternoon.  As an effective warm frontal zone becomes draped across
-the southern Great Lakes/OH Valley regions, curved low-level
-hodographs beneath a lengthening of the mid and upper part of the
-hodograph will support a supercell risk.  It seems most probable
-based on morning model guidance that storms will initially develop
-across central/northern IL and move northeast into northern IN. 
-Isolated to scattered storms are forecast to eventually develop this
-afternoon across parts of the OH Valley in association with
-warm/moist-air advection---although considerable uncertainty remains
-regarding this scenario.  The stronger storms (i.e., supercells)
-will be potentially capable of a large to very large hail threat, in
-addition to several tornadoes (perhaps a few which may be strong).  
-
-...Arklatex to north-central and south-central TX...
-Not much change in the forecast thinking across the Mid South
-southwestward into parts of TX.  Isolated severe thunderstorms are
-possible during mid/late afternoon.  Damaging gusts and large hail
-would be the main concerns.  The threat over the area is conditional
--- more due to weak lift than thermodynamic considerations.  Surface
-dewpoints commonly in the 70s F will underlie a deep troposphere and
-enough middle-level lapse rates for MLCAPE in the 3500-4500 J/kg
-range.  Weak low-level winds will constrain hodograph size and
-boundary- layer shear.  However, enough mid/upper flow remains to
-support around 45-55 kt effective-shear magnitudes, yielding a
-conditional supercell environment.  In the absence of meaningful
-large-scale support, and with shallower overall lift near the
-front/dryline, convective coverage over this region is more in
-question and likely isolated.  Additional convection may form
-overnight in a warm-advection plume near and southeast of the front,
-across parts of the Mid-South to Arklatex regions.  Marginal hail
-and isolated damaging gusts would be the main concerns.
-
-...Southeast KS late tonight...
-A strengthening LLJ and associated warm-air advection will be
-focused over the northeast OK/southeast KS region late tonight. 
-Forecast soundings show large MUCAPE amidst strong deep-layer shear.
-Large hail may accompany a stronger storm or two that manages to
-develop/become sustained during the 08-12z period.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
 
 ---
 

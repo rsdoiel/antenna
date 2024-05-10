@@ -1,11 +1,31 @@
 ---
 title: motorcycles 2024.19
-updated: 2024-05-10 11:11:56
+updated: 2024-05-10 15:37:08
 ---
 
 # motorcycles 2024.19
 
-(date: 2024-05-10 11:11:56)
+(date: 2024-05-10 15:37:08)
+
+---
+
+## Kyle Busch: NASCAR NextGen Car ‘A New Realm of Confusion’
+
+date: 2024-05-10, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor DARLINGTON, S.C. – The NASCAR Cup Series is over two years into the NextGen era, and some veteran drivers are still struggling to find the&#8230;  
+
+<https://kickinthetires.net/nascar/busch-nascar-nextgen-car-realm-confusion/>
+
+---
+
+## 2024 Yamaha XSR900 GP First Ride
+
+date: 2024-05-10, from: Cycle World News
+
+Not available in the US, Yamaha’s XSR900 GP is a throwback to the heyday of two-stroke GP bikes with a modern four-stroke triple. We want one—bad. 
+
+<https://www.cycleworld.com/motorcycle-reviews/yamaha-xsr900-gp-first-ride/>
 
 ---
 

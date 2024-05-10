@@ -1,11 +1,77 @@
 ---
 title: socal north 2024.19
-updated: 2024-05-10 11:11:55
+updated: 2024-05-10 15:37:07
 ---
 
 # socal north 2024.19
 
-(date: 2024-05-10 11:11:55)
+(date: 2024-05-10 15:37:07)
+
+---
+
+## UCLA women’s water polo advances to NCAA semifinals after 24th straight win
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins added another name to their ledger in a win over the Seahawks – continuing their undefeated season in their vie for a national championship. 
+
+<https://dailybruin.com/2024/05/10/ucla-womens-water-polo-advances-to-ncaa-semifinals-after-24th-straight-win/>
+
+---
+
+## College of the Canyons Employment Center held its bi-annal job fair.
+
+date: 2024-05-10, from: The Canyon News (COC Student Newspaper)
+
+<p>With hundreds of job seekers in attendance, they had the opportunity to&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/college-of-the-canyons-employment-center-held-its-bi-annal-job-fair/">College of the Canyons Employment Center held its bi-annal job fair.</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<https://canyonsnews.com/college-of-the-canyons-employment-center-held-its-bi-annal-job-fair/>
+
+---
+
+## USC Faculty Censured Their President, UCLA Faculty Might Too. What Does That Mean?
+
+date: 2024-05-10, updated: 2024-05-10, from: The LAist
+
+Faculty have been frustrated with how university administrators have handled campus issues that stem from the Israel-Hamas War. 
+
+<https://laist.com/news/education/usc-academic-senate-censure-carol-folt-ucla-gene-block>
+
+---
+
+## Helping students with their mental wellness
+
+date: 2024-05-10, from: The Sundail (CSUN Student Newspaper)
+
+Walk into the Oasis Center and be greeted by calming music and a soothing indoor waterfall. It’s ideal for relieving academic-related stress, giving students a place to take a nap,... 
+
+<https://sundial.csun.edu/181806/news/helping-students-with-their-mental-wellness/>
+
+---
+
+## Gear Up and “Hit the Trail” on May 18
+
+date: 2024-05-10, from: City of Santa Clarita
+
+<p>Explore Santa Clarita’s Scenic Bike Trail System During This Free, Self-Guided Cycling Event Hop on your bicycle, get to pedaling and explore the City of Santa Clarita’s sprawling bike trail network during the 2024 “Hit the Trail” Community Bike Ride on Saturday, May 18, from 8:00 a.m. to 12:00 p.m. This free, self-guided bicycle riding [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/05/10/gear-up-and-hit-the-trail-on-may-18/">Gear Up and &#8220;Hit the Trail&#8221; on May 18</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/05/10/gear-up-and-hit-the-trail-on-may-18/>
+
+---
+
+## Liz Truss Speaks on China, the Culture Wars, and the Administrative State
+
+date: 2024-05-10, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>Liz Truss, the 56th British Prime Minister, held office for the shortest amount of time in UK history. She spoke at Pepperdine on April 25th as part of the President’s Speaker’s series about her book “Ten Years to Save the West,” where she describes an administrative state hostile to her administration and the fight conservatives [&#8230;]</p>
+<p>The post <a href="https://pepperdinebeacon.com/liz-truss-speaks-on-china-the-culture-wars-and-the-administrative-state/">Liz Truss Speaks on China, the Culture Wars, and the Administrative State</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+ 
+
+<https://pepperdinebeacon.com/liz-truss-speaks-on-china-the-culture-wars-and-the-administrative-state/?utm_source=rss&utm_medium=rss&utm_campaign=liz-truss-speaks-on-china-the-culture-wars-and-the-administrative-state>
 
 ---
 
@@ -47,6 +113,16 @@ date: 2024-05-10, from: The Sundail (CSUN Student Newspaper)
 The ninth annual Jeff Marine Bull Ring New Venture Competition on April 24 was a Shark Tank-style event where students from different majors and backgrounds showcased their businesses. The teams... 
 
 <https://sundial.csun.edu/181835/uncategorized/shark-tank-for-matadors-comes-to-csun/>
+
+---
+
+## Shark Tank for Matadors comes to CSUN
+
+date: 2024-05-10, from: The Sundail (CSUN Student Newspaper)
+
+The ninth annual Jeff Marine Bull Ring New Venture Competition on April 24 was a Shark Tank-style event where students from different majors and backgrounds showcased their businesses. The teams... 
+
+<https://sundial.csun.edu/181835/news/shark-tank-for-matadors-comes-to-csun/>
 
 ---
 
@@ -142,6 +218,7 @@ The Elections Board and the Daily Bruin co-hosted a series of debates between ca
 
 date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated at 2:00 p.m.</em>
 Seven candidates for the Undergraduate Students Association Council general representative attended debates Wednesday and Thursday.
 The Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
 
@@ -230,8 +307,8 @@ But some navigate their college journeys with an unconventional classmate &#8211
 date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated May 10 at 12:28 a.m.&#160;</em>
-<em>This post was updated May 9 at 10:00 p.m.&#160;</em>
-PALO ALTO – Thursday marked the beginning of a heat wave. 
+PALO ALTO – Thursday marked the beginning of a heat wave.
+With temperatures inching closer to summer-like weather in the Bay Area, the shade-deprived Boyd &#38; Jill Smith Family Stadium served as the battleground for the Bruins’ first 2024 Pac-12 softball tournament contest of the season. 
 
 <https://dailybruin.com/2024/05/09/kaitlyn-terry-throws-shutout-to-send-ucla-softball-to-pac-12-tournament-semifinals/>
 

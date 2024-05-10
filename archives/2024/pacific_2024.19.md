@@ -1,11 +1,33 @@
 ---
 title: pacific 2024.19
-updated: 2024-05-10 11:11:55
+updated: 2024-05-10 15:37:07
 ---
 
 # pacific 2024.19
 
-(date: 2024-05-10 11:11:55)
+(date: 2024-05-10 15:37:07)
+
+---
+
+## The challenges of addressing Hawaiʻi’s teacher shortage crisis
+
+date: 2024-05-10, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+UH College of Education student teachers continue to be short of funds for K-12 teaching programs. An act was passed in 2022, but two years later no funding was allocated to help create teaching programs across the state for undergraduate… 
+
+<https://www.manoanow.org/kaleo/the-challenges-of-addressing-hawai-i-s-teacher-shortage-crisis/article_de9ec972-0f14-11ef-8eb5-270d9d5397c3.html>
+
+---
+
+## INSIGHTS ON PBS HAWAIʻI Fighting Violent Crime
+
+date: 2024-05-10, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Join the conversation on Facebook , &#38; Youtube, Thursday, May 16  at 7:30 pm on INSIGHTS ON PBS HAWAIʻI. Scheduled Guests: tba</p>
+<p>The post <a href="https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-fighting-violent-crime/">INSIGHTS ON PBS HAWAIʻI &lt;br/&gt;Fighting Violent Crime</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-fighting-violent-crime/>
 
 ---
 
@@ -31,6 +53,16 @@ date: 2024-05-10, from: Pacific Island Times
 By Mar-Vic Cagurangan Reconstructing the military facilities on Guam that were heavily damaged by Supertyphoon Mawar last year may come... 
 
 <https://www.pacificislandtimes.com/post/restoration-of-mawar-damaged-defense-facilities-on-guam-may-cost-10-billion>
+
+---
+
+## Forums help start exploring a UH president
+
+date: 2024-05-10, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+The University of Hawaiʻi has embarked on a search for its next president of the 10-campus UH system through seven public forums to collect information from the community across the state. Scheduled by the University of Hawaiʻi Board of Regents,… 
+
+<https://www.manoanow.org/kaleo/forums-help-start-exploring-a-uh-president/article_49972e08-0eb7-11ef-827a-73e66be6ba75.html>
 
 ---
 
@@ -694,12 +726,22 @@ By Pacific Island Times News Staff Guam is preparing to host the 26th Micronesia
 
 ---
 
-## ARL at UH provides innovative tech for Hawaiʻi communities during emergencies
+## Bringing Hawaiʻi kabuki to Japan
+
+date: 2024-05-09, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+Celebrating 100 years of English-language kabuki in Hawaiʻi, the Kennedy Theatre has brought back The Maiden Benten and the Bandits of the White Waves. The production has been in the works since 2019 and was selected for Spring 2024 to… 
+
+<https://www.manoanow.org/kaleo/bringing-hawai-i-kabuki-to-japan/article_d692d166-0e4b-11ef-9404-0b499f290cb0.html>
+
+---
+
+## ARL at UH provides support for Hawaiʻi during emergencies
 
 date: 2024-05-09, from: University of Hawaiʻi News
 
 <p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>ARL</abbr> at <abbr>UH</abbr> is addressing problems facing <span aria-label="Hawaii">Hawai&#699;i</span> and the world such as the devastating Maui wildfires and the <abbr>COVID-19</abbr> pandemic.</p>
-The post <a href="https://www.hawaii.edu/news/2024/05/09/arl-at-uh-community/"><abbr>ARL</abbr> at <abbr>UH</abbr> provides innovative tech for Hawaiʻi communities during emergencies</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2024/05/09/arl-at-uh-community/"><abbr>ARL</abbr> at <abbr>UH</abbr> provides support for Hawaiʻi during emergencies</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/05/09/arl-at-uh-community/>
 
@@ -1878,11 +1920,11 @@ By Pacific Island Times News Staff Guam Community College broke ground on its $3
 
 ---
 
-## Celebrating Black students  at graduation
+## Celebrating Black students at graduation
 
 date: 2024-05-07, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
 
-For over eight years, the Alice Ball Black Graduation Ceremony has been celebrating the accomplishments of Black students on campus. This year, they are looking to highlight over 26 graduates from the University of Hawaiʻi at Mānoa. 
+ 
 
 <https://www.manoanow.org/kaleo/celebrating-black-students-at-graduation/article_4071ec74-0c95-11ef-9995-d3a41b2d936e.html>
 

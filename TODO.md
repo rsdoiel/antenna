@@ -9,6 +9,7 @@
 
 ## Next
 
+- [ ] Render the Antenna content as a Gopher/Gemini site.
 - [x] Need to build a page that shows the "current edition" of the aggregation
 - [x] Need to build a page that links to all archived "editions" of the aggregation
 - [ ] Need to improve the README, should be more welcoming

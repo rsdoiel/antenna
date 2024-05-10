@@ -1,11 +1,81 @@
 ---
 title: games 2024.19
-updated: 2024-05-10 11:11:55
+updated: 2024-05-10 15:37:08
 ---
 
 # games 2024.19
 
-(date: 2024-05-10 11:11:55)
+(date: 2024-05-10 15:37:08)
+
+---
+
+## Abigail, The Book of Clarence on Netflix, Ghostbusters: Frozen Empire, and every new movie to watch at home this weekend
+
+date: 2024-05-10, updated: 2024-05-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/5/10/24149433/new-movies-watch-abigail-the-book-of-clarence-netflix-ghostbusters-frozen-empire>
+
+---
+
+## The best boons in Hades 2
+
+date: 2024-05-10, updated: 2024-05-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/hades-2-guides/24152894/best-boons-list>
+
+---
+
+## GameStop will buy graded Pokémon cards soon, says staff
+
+date: 2024-05-10, updated: 2024-05-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon/24153859/gamestop-buys-graded-pokemon-cards>
+
+---
+
+## Bungie’s classic Marathon games are coming to Steam for free
+
+date: 2024-05-10, updated: 2024-05-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24153828/bungie-marathon-classic-trilogy-games-steam-free>
+
+---
+
+## How to beat Chronos in Hades 2
+
+date: 2024-05-10, updated: 2024-05-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/hades-2-guides/24153678/chronos-boss-fight-how-to-beat-best-build>
+
+---
+
+## The 29 best movies on Netflix right now
+
+date: 2024-05-10, updated: 2024-05-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/21266801/best-movies-on-netflix>
+
+---
+
+## Warner Bros. reverses course, won’t delist Adult Swim indie games, devs say
+
+date: 2024-05-10, updated: 2024-05-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24153665/warner-bros-adult-swim-games-delisting-steam-update>
 
 ---
 

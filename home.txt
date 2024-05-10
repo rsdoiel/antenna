@@ -1,9 +1,13 @@
 #
-# Home and Garden related blogs
+# Home, Garden and Farm related blogs
 #
-https://www.friendlycontractor.com/feed/ "~PHB blog"
+https://plantingseedsblog.cdfa.ca.gov/wordpress/?feed=rss2 "~Calfifornia Dept. Aggriculture blog"
+https://acwm.lacounty.gov/feed/ "~L.A. Country Agriculture Commissioner/Weights & Measures News"
+https://santaclarita.gov/specialdistricts/feed/ "~City of Santa Clarita, Urban Forestry News"
 https://theodorepayne.org/feed/ "~Theodore Payne Foundation (SoCal Native Plants)"
 https://www.cnps.org/feed "~California Native Plants Society"
+https://californiaoaks.org/feed/ "~California Oaks News"
+https://ucanr.edu/blogs/UrbanAg/rssmain.xml "~Urban Ag blog"
 
 #
 # Inspiration
@@ -16,4 +20,4 @@ https://freckledcalifornian.com/feed/ "~The Freckled Gardener"
 # Companies and Suppliers
 #
 https://sandiegoseedcompany.com/feed/ "~San Diego Seed Compan"
-
+https://www.friendlycontractor.com/feed/ "~PHB blog"

@@ -1,11 +1,119 @@
 ---
 title: columns 2024.19
-updated: 2024-05-10 11:11:55
+updated: 2024-05-10 15:37:08
 ---
 
 # columns 2024.19
 
-(date: 2024-05-10 11:11:55)
+(date: 2024-05-10 15:37:08)
+
+---
+
+## Classic Marathon Is Now on Steam
+
+date: 2024-05-10, updated: 2024-05-10, from: Daring Fireball
+
+ 
+
+<https://store.steampowered.com/app/2398450/Classic_Marathon/>
+
+---
+
+##  Patriarchy According to The Barbie Movie 
+
+date: 2024-05-10, updated: 2024-05-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/patriarchy-according-to-the-barbie-movie>
+
+---
+
+## Pointless NYT Report Says Apple Plans to Improve Siri
+
+date: 2024-05-10, updated: 2024-05-10, from: Daring Fireball
+
+ 
+
+<https://www.nytimes.com/2024/05/10/business/apple-siri-ai-chatgpt.html>
+
+---
+
+## Friday Squid Blogging: Squid Mating Strategies
+
+date: 2024-05-10, updated: 2024-04-30, from: Bruce Schneier blog
+
+<p><a href="https://phys.org/news/2024-04-squids-birthday-male-spear-shown.html">Some squids</a> are &#8220;consorts,&#8221; others are &#8220;sneakers.&#8221; The species is healthiest when individuals have different strategies randomly.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>
+<p>Read my blog posting guidelines <a href="https://www.schneier.com/blog/archives/2017/03/commenting_poli.html">here</a>.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/05/friday-squid-blogging-squid-mating-strategies.html>
+
+---
+
+## Cartagena, Spain
+
+date: 2024-05-10, from: mrusme blog
+
+"Cartagena is a Spanish city and a major naval station on the Mediterranean
+coast, south-eastern Iberia. As of January 2018, it has a population of
+218,943 inhabitants. This makes Cartagena Murcia's second-largest municipality
+and Spain's sixth-largest city that is not a provincial-capital. The wider
+urban or metropolitan area of Cartagena, known as Campo de Cartagena, has a
+population of 409,586 inhabitants." 
+
+<https://xn--gckvb8fzb.com/travel/spain/cartagena/>
+
+---
+
+##  We Will Teach You How to Read | We Will Teach You... 
+
+date: 2024-05-10, updated: 2024-05-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044591-we-will-teach-you-how>
+
+---
+
+## Sam Altman Says Reuters Is Wrong That OpenAI Is Launching a Search Engine
+
+date: 2024-05-10, updated: 2024-05-10, from: Daring Fireball
+
+ 
+
+<https://twitter.com/sama/status/1788989777452408943>
+
+---
+
+##  A lovely essay: Variations on the Theme of Silence. &#8220;I&#8217;ve begun to... 
+
+date: 2024-05-10, updated: 2024-05-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044599-a-lovely-essay-variations>
+
+---
+
+##  Seabike is an &#8220;underwater mobility device&#8221; that can propel you through the... 
+
+date: 2024-05-10, updated: 2024-05-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044592-seabike-is-an-underwater->
+
+---
+
+##  NASA Visualization of Flying Into a Supermassive Black Hole 
+
+date: 2024-05-10, updated: 2024-05-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/nasa-visualization-of-flying-into-a-supermassive-black-hole>
 
 ---
 
@@ -16,6 +124,16 @@ date: 2024-05-10, updated: 2024-05-10, from: Jason Kittke's blog
  
 
 <https://kottke.org/24/05/0044593-a-neat-technique-to-rebui>
+
+---
+
+## Reuters: OpenAI to Announce Google Search Competitor on Monday
+
+date: 2024-05-10, updated: 2024-05-10, from: Daring Fireball
+
+ 
+
+<https://www.reuters.com/technology/openai-plans-announce-google-search-competitor-monday-sources-say-2024-05-09/>
 
 ---
 
@@ -154,7 +272,7 @@ The Great Texts program here at Baylor, where I teach about half my classes, beg
 
 ---
 
-## Trump's price for selling the world: $1 billion
+## Trump's price for selling the planet: $1 billion
 
 date: 2024-05-10, from: Robert Reich's blog
 
@@ -882,7 +1000,7 @@ Time for a tab cleanout! I haven&#8217;t read these yet but they&#8217;ve all tu
 
 ## ★ Brief Thoughts and Observations on Yesterday’s ‘Let Loose’ iPad Keynote
 
-date: 2024-05-09, updated: 2024-05-09, from: Daring Fireball
+date: 2024-05-09, updated: 2024-05-10, from: Daring Fireball
 
 New iPad Pros and iPad Airs. 
 
@@ -1435,6 +1553,16 @@ date: 2024-05-06, updated: 2024-05-06, from: Jason Kittke's blog
  
 
 <https://kottke.org/24/05/cj-sansom-novels>
+
+---
+
+## [Sponsor] Nylas for Email and Calendar APIs
+
+date: 2024-05-06, updated: 2024-05-10, from: Daring Fireball
+
+ 
+
+<https://www.nylas.com/?utm_source=daring-fireball&utm_medium=sponsoredemail&utm_campaign=FY24Q1-daringfireball-rssfeed&utm_content=2024-02-DSU>
 
 ---
 

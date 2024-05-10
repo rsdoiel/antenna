@@ -1,11 +1,51 @@
 ---
 title: writing 2024.19
-updated: 2024-05-10 11:11:55
+updated: 2024-05-10 15:37:08
 ---
 
 # writing 2024.19
 
-(date: 2024-05-10 11:11:55)
+(date: 2024-05-10 15:37:08)
+
+---
+
+## 🦄 #200 - Aaaaaaand why should I care?
+
+date: 2024-05-10, from: Interesting, a blog on writing
+
+What makes something special? 
+
+<https://inneresting.substack.com/p/200-aaaaaaand-why-should-i-care>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-10, from: Neil Gaiman @ BlueSky)
+
+It's an incredibly beautiful, sold out, limited edition of Coraline. And it's being raffled for good causes.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ks5vi3o25c2t>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-10, from: Neil Gaiman @ BlueSky)
+
+I just watched an autocorrect change my "These are SO good" to the perhaps slightly different "These are no good."  
+
+It's all going to end not with a bang but with a wimple. 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ks5vbuvovc2k>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-10, from: Neil Gaiman @ BlueSky)
+
+Which reminds me. I had a family member whose executor was their lawyer. By the time they died the lawyer was suffering from dementia, which meant that sorting out the estate was arduous, long and unnecessarily complex. (I learned as the years passed that there is no easy way to remove an executor.)
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ks5tiphyvs2q>
 
 ---
 

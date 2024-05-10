@@ -12,7 +12,7 @@ Collection                                Description of Posts                  
 [Pacific](pacific.html)                   Micronesia, Hawaii and the Pacific                                 [pacific.txt](pacific.txt)
 [Mid Central](mid_central.html)           California's Central Valley                                        [mid_central.txt](mid_central.txt)
 [Parks](parks.html)                       From the city, state or national parks                             [parks.txt](parks.txt)
-[Home & Garden](home.html)                Home & Garden related blogs and news                               [home.txt](home.txt)
+[Home, Garden & Farm](home.html)          Home, Garden & Farm related blogs and news                         [home.txt](home.txt)
 [Columns](columns.html)                   Frequent Pocket additions                                          [columns.txt](columns.txt)
 [Retro Computing](retro_computing.html)   Computer history and systems                                       [retro_computing.txt](retro_computing.txt)
 [Games](games.html)                       Interactive games                                                  [games.txt](games.txt)
