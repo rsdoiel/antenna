@@ -1,11 +1,43 @@
 ---
 title: libraries 2024.19
-updated: 2024-05-09 12:35:02
+updated: 2024-05-10 11:11:56
 ---
 
 # libraries 2024.19
 
-(date: 2024-05-09 12:35:02)
+(date: 2024-05-10 11:11:56)
+
+---
+
+## A Cetacean Alphabet
+
+date: 2024-05-10, from: Scholarly Kitchen
+
+<p>A new paper uses AI to decipher sperm whale vocalizations.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/05/10/a-cetacean-alphabet/">A Cetacean Alphabet</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/05/10/a-cetacean-alphabet/>
+
+---
+
+## Lay Down Your Arms, by Bertha von Suttner
+
+date: 2024-05-10, from: Standard Ebooks, new releaases
+
+A woman relates how war has impacted her life and destroyed what she holds dear. 
+
+<https://standardebooks.org/ebooks/bertha-von-suttner/lay-down-your-arms/t-holmes>
+
+---
+
+## Pastors and Masters, by Ivy Compton-Burnett
+
+date: 2024-05-10, from: Standard Ebooks, new releaases
+
+The inept master of a preparatory school, along with his students and friends, contend with the day-to-day realities of academic life while exploring what it means to grow up and to age. 
+
+<https://standardebooks.org/ebooks/ivy-compton-burnett/pastors-and-masters>
 
 ---
 

@@ -1,11 +1,121 @@
 ---
 title: motorcycles 2024.19
-updated: 2024-05-09 12:35:02
+updated: 2024-05-10 11:11:56
 ---
 
 # motorcycles 2024.19
 
-(date: 2024-05-09 12:35:02)
+(date: 2024-05-10 11:11:56)
+
+---
+
+## Sneak Peek at 2025 Honda CRF450R
+
+date: 2024-05-10, from: Cycle World News
+
+Change is constant in the hyper-competitive world of motocross bikes, and Honda is making a host of changes to its flagship CRF450R for 2025. 
+
+<https://www.cycleworld.com/motorcycle-news/honda-crf450r-sneak-peek-for-2025/>
+
+---
+
+## 2024 Husqvarna Svartpilen 801 First Ride Review
+
+date: 2024-05-10, from: Cycle World News
+
+Husqvarna’s product line has benefited from its place under the Pierer Mobility umbrella. The Svartpilen 801 gets a big upgrade with the flexible LC8c engine. 
+
+<https://www.cycleworld.com/motorcycle-reviews/husqvarna-svartpilen-801-first-ride-review/>
+
+---
+
+## Over 18,000 Riders Rolled Out For The Ducati 'We Ride As One' Tour
+
+date: 2024-05-10, from: Ride Apart, Electric Motorcycle News
+
+It's only the third year ever that Ducati groups worldwide have participated in this event, but the numbers keep growing. 
+
+<https://www.rideapart.com/news/719129/ducati-we-ride-one-2024/>
+
+---
+
+## MotoGP's Riders Are Split Over the New Rules, Too
+
+date: 2024-05-10, from: Ride Apart, Electric Motorcycle News
+
+They've decided the sky is blue, but water might not be wet.  
+
+<https://www.rideapart.com/news/719116/motogp-2027-rule-changes-motorcycle-racing-riders/>
+
+---
+
+## Chicago Is Considering Lowering Speed Limits, But Should It?
+
+date: 2024-05-10, from: Ride Apart, Electric Motorcycle News
+
+Research shows that lower speed limits in dense urban areas save lives, but it's more than just changing street signs. 
+
+<https://www.rideapart.com/news/719119/chicago-considers-lowering-speed-limit/>
+
+---
+
+## Segway Powersports' Massive Growth Should Make Other Brands Worried
+
+date: 2024-05-10, from: Ride Apart, Electric Motorcycle News
+
+How does a 343-percent retail sales increase sound?  
+
+<https://www.rideapart.com/news/719021/segway-q1-2024-sales-growth/>
+
+---
+
+## Polaris Just Patented a UTV Tank And You're Gonna Want to See It
+
+date: 2024-05-10, from: Ride Apart, Electric Motorcycle News
+
+Where we're going, we don't need roads.  
+
+<https://www.rideapart.com/news/719125/polaris-utv-tank-tracked-side-by-side-patent/>
+
+---
+
+## China’s Working On Wild 8-Cylinder Touring Bike Nobody Asked For
+
+date: 2024-05-10, from: Ride Apart, Electric Motorcycle News
+
+For those who think a Honda Gold Wing is just too small.  
+
+<https://www.rideapart.com/news/719020/gwm-8cylinder-boxer-tourer/>
+
+---
+
+## REV’IT! Opens First Own Brand Store in Denver
+
+date: 2024-05-09, from: Cycle World News
+
+We are incredibly proud to announce the opening of the first physical REV'IT! brand store, located in Denver, Colorado in the United States – open as of right now. 
+
+<https://www.cycleworld.com/the-wire/revit-opens-first-own-brand-store-in-denver/>
+
+---
+
+## 2024 Triumph Rocket 3 Storm R and GT First Ride Review
+
+date: 2024-05-09, from: Cycle World News
+
+The largest-displacement production motorcycle in the world just got more power, but does it make sense for modern riders? 
+
+<https://www.cycleworld.com/motorcycle-reviews/triumph-rocket-3-storm-r-and-gt-first-ride-review/>
+
+---
+
+## The Isle of Man TT Is Coming, So Here's a Reminder How Fast These Motorcycles Go
+
+date: 2024-05-09, from: Ride Apart, Electric Motorcycle News
+
+I suspect the riders use "the Force".  
+
+<https://www.rideapart.com/news/719134/isle-of-man-tt-bmw-m-1000-rr-fastest-lap-ever/>
 
 ---
 

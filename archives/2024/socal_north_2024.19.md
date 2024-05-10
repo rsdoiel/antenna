@@ -1,11 +1,274 @@
 ---
 title: socal north 2024.19
-updated: 2024-05-09 12:35:01
+updated: 2024-05-10 11:11:55
 ---
 
 # socal north 2024.19
 
-(date: 2024-05-09 12:35:01)
+(date: 2024-05-10 11:11:55)
+
+---
+
+## Half of state’s high school graduates qualified for UC, California State admission
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+About half California&#8217;s high school graduates qualified for admission to UC and California State University campuses in 2023, according to data from the state.
+According to the California Department of Education, 223,727 students &#8211; about 52.4% of all high school graduates &#8211; qualified for admission to UC or CSU campuses. 
+
+<https://dailybruin.com/2024/05/10/half-of-states-high-school-graduates-qualified-for-uc-california-state-admission/>
+
+---
+
+## Editorial Cartoon: “Going Random”
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<https://dailybruin.com/2024/05/10/editorial-cartoon-going-random/>
+
+---
+
+## Editorial Cartoon: “Swept Under The Rug”
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<https://dailybruin.com/2024/05/10/editorial-cartoon-swept-under-the-rug/>
+
+---
+
+## Shark Tank for Matadors comes to CSUN
+
+date: 2024-05-10, from: The Sundail (CSUN Student Newspaper)
+
+The ninth annual Jeff Marine Bull Ring New Venture Competition on April 24 was a Shark Tank-style event where students from different majors and backgrounds showcased their businesses. The teams... 
+
+<https://sundial.csun.edu/181835/uncategorized/shark-tank-for-matadors-comes-to-csun/>
+
+---
+
+## Asna Tabassum: Class of 2024 commencement address
+
+date: 2024-05-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Class of 2024 valedictorian shared the speech she hoped to deliver during the now-canceled May 10 Commencement Ceremony with Annenberg Media and the Daily Trojan.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/10/2024-commencement-address/">Asna Tabassum: Class of 2024 commencement address</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/10/2024-commencement-address/>
+
+---
+
+## Navigating LA’s evolving transportation options as a Bruin
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+For UCLA students, different forms of transportation provide a critical link between campus and the job and recreational opportunities Los Angeles offers.
+California has long embraced cars as its primary mode of transportation and is traditionally considered an auto-centric state, according to the California Capitol Museum. 
+
+<https://dailybruin.com/2024/05/10/navigating-las-evolving-transportation-options-as-a-bruin/>
+
+---
+
+## American Indian Student Association hosts 39th annual UCLA Pow Wow
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Hundreds of Native Americans and other community members attended the 39th annual UCLA Pow Wow from Saturday to Sunday.
+Hosted by the American Indian Student Association and held at the Wallis Annenberg Stadium, the two-day event – which was free to the public – featured music and dances across different Native American cultures. 
+
+<https://dailybruin.com/2024/05/09/american-indian-student-association-hosts-39th-annual-ucla-pow-wow/>
+
+---
+
+## UCLA Academic Senate to decide on censure of, no-confidence vote in Gene Block
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Leading UCLA Academic Senate faculty will consider two proposals criticizing Chancellor Gene Block’s leadership during an emergency meeting Friday as he faces scrutiny over UCLA’s handling of the Palestine solidarity encampment. 
+
+<https://dailybruin.com/2024/05/09/ucla-academic-senate-to-decide-on-censure-of-no-confidence-vote-in-gene-block/>
+
+---
+
+## Op-ed: Attacks on the Palestine solidarity encampment draw parallels to genocide in Gaza
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+For the past six months, Palestinians have faced a brutal ongoing genocide in Gaza.
+From the latest United Nations reports, over 34,000 Palestinians have been killed, including over 14,500 children. 
+
+<https://dailybruin.com/2024/05/09/op-ed-attacks-on-the-palestine-solidarity-encampment-draw-parallels-to-genocide-in-gaza/>
+
+---
+
+## USAC 2024-2025 Candidate Debates: President
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Six candidates for the position of Undergraduate Students Association Council president attended a debate Thursday.
+The USA Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<https://dailybruin.com/2024/05/09/usac-2024-2025-candidate-debates-president/>
+
+---
+
+## USAC 2024-2025 Candidate Debates: Financial Supports commissioner
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two candidates for Undergraduate Students Association Council Financial Supports commissioner attended a debate Thursday.
+The Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<https://dailybruin.com/2024/05/09/usac-2024-2025-candidate-debates-financial-supports-commissioner/>
+
+---
+
+## USAC 2024-2025 Candidate Debates: Student Wellness commissioner
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two candidates for the Undergraduate Students Association Council Student Wellness commissioner attended a debate Thursday.
+The Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<https://dailybruin.com/2024/05/09/usac-2024-2025-candidate-debates-student-wellness-commissioner/>
+
+---
+
+## USAC 2024-2025 Candidate Debates: General representative
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Seven candidates for the Undergraduate Students Association Council general representative attended debates Wednesday and Thursday.
+The Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<https://dailybruin.com/2024/05/09/usac-2024-2025-candidate-debates-general-representative/>
+
+---
+
+## USAC 2024-2025 Candidate Debates: International student representative
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two candidates for the Undergraduate Students Association Council international student representative attended a debate Thursday.
+The Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<https://dailybruin.com/2024/05/09/usac-2024-2025-candidate-debates-international-student-representative/>
+
+---
+
+## 2024 USAC Elections: Daily Bruin Editorial Board candidate endorsements
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+The time to elect members of student government for the next academic year has begun. The Undergraduate Students Association Council consists of 15 officers who represent diverse elements to serve the student body. 
+
+<https://dailybruin.com/2024/05/09/2024-usac-elections-daily-bruin-editorial-board-candidate-endorsements/>
+
+---
+
+## USAC 2024-2025 Candidate Debates: Campus Events commissioner
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+One candidate for the Undergraduate Students Association Council Campus Events commissioner attended a debate Thursday.
+The Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<https://dailybruin.com/2024/05/09/usac-2024-2025-candidate-debates-campus-events-commissioner/>
+
+---
+
+## Latest location of The Poke. Co & Wings opens its doors to Westwood community
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Poke Co. &#38; Wings launched its Westwood Village location, located on Glendon Avenue, in April. 
+This restaurant, which is family owned and operated, is the 10th location of the Poke Co. 
+
+<https://dailybruin.com/2024/05/09/latest-location-of-the-poke-co-wings-opens-its-doors-to-westwood-community/>
+
+---
+
+## USAC 2024-2025 Candidate Debates: Academic Affairs commissioner
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+The sole candidate for the Undergraduate Students Association Council Academic Affairs commissioner attended a debate Thursday.&#160;
+The Elections Board and the Daily Bruin co-hosted a series of debates between candidates in the upcoming USAC election. 
+
+<https://dailybruin.com/2024/05/09/usac-2024-2025-candidate-debates-academic-affairs-commissioner/>
+
+---
+
+## Transfer Bruin Day postponed, moved online following on-campus demonstrations
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 9 at 11:52 p.m.&#160;</em>
+Transfer Bruin Day has been moved online and postponed to an unspecified date later this month following ongoing demonstrations in support of the dismantled Palestine solidarity encampment. 
+
+<https://dailybruin.com/2024/05/09/transfer-bruin-day-postponed-moved-online-following-on-campus-demonstrations/>
+
+---
+
+## Students with Bruin mothers reflect on navigating college together
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Every fall, new Bruins hug their families goodbye and face a daunting four years of navigating friend groups, difficult course loads and newfound independence.
+But some navigate their college journeys with an unconventional classmate &#8211; their mother. 
+
+<https://dailybruin.com/2024/05/09/students-with-bruin-mothers-reflect-on-navigating-college-together/>
+
+---
+
+## Kaitlyn Terry throws shutout to send UCLA softball to Pac-12 tournament semifinals
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 10 at 12:28 a.m.&#160;</em>
+<em>This post was updated May 9 at 10:00 p.m.&#160;</em>
+PALO ALTO – Thursday marked the beginning of a heat wave. 
+
+<https://dailybruin.com/2024/05/09/kaitlyn-terry-throws-shutout-to-send-ucla-softball-to-pac-12-tournament-semifinals/>
+
+---
+
+## The Anti-Defamation League and the Louis D. Brandeis Center for Human Rights Under Law file complaint against Occidental, alleging antisemitism
+
+date: 2024-05-10, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The Anti-Defamation League (ADL) and the Louis D. Brandeis Center for Human Rights Under Law (Brandeis Center) announced they filed a complaint with the U.S. Dept of Education’s Office for Civil Rights (OCR) against Occidental College in a May 9 press release. The complaint claims that Occidental violated Title VI of the Civil Rights Act [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/05/09/the-anti-defamation-league-and-the-louis-d-brandeis-center-for-human-rights-under-law-file-complaint-against-occidental-alleging-antisemitism/2912473">The Anti-Defamation League and the Louis D. Brandeis Center for Human Rights Under Law file complaint against Occidental, alleging antisemitism</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/05/09/the-anti-defamation-league-and-the-louis-d-brandeis-center-for-human-rights-under-law-file-complaint-against-occidental-alleging-antisemitism/2912473>
+
+---
+
+## Theater review: Immersive set-building enables ‘The Hope Theory’ to connect with viewers
+
+date: 2024-05-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+“The Hope Theory” magically reinvents storytelling.
+Written and performed by magician Helder Guimarães and directed by Frank Marshall, “The Hope Theory” will run until June 30 at the Geffen Playhouse. 
+
+<https://dailybruin.com/2024/05/09/theater-review-immersive-set-building-enables-the-hope-theory-to-connect-with-viewers/>
+
+---
+
+## ASG elections are bridging the gap between students and the student body
+
+date: 2024-05-09, from: The Canyon News (COC Student Newspaper)
+
+<p>The time for election season kicks in as new candidates for College&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/asg-elections-are-bridging-the-gap-between-students-and-the-student-body/">ASG elections are bridging the gap between students and the student body</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<https://canyonsnews.com/asg-elections-are-bridging-the-gap-between-students-and-the-student-body/>
 
 ---
 
@@ -66,11 +329,11 @@ date: 2024-05-09, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 ---
 
-## 6 Unhoused People In LA Died On Average Each Day In 2022
+## 6 Unhoused People In LA Died On Average Each Day In 2022 — A Record High
 
 date: 2024-05-09, updated: 2024-05-09, from: The LAist
 
-In 2022, more than 2,370 unhoused Angelenos died on the streets 
+In 2022, more than 2,370 unhoused Angelenos died on the streets, according to a county report 
 
 <https://laist.com/news/health/6-unhoused-people-in-la-died-on-average-each-day-in-2022>
 

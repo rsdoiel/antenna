@@ -1,11 +1,111 @@
 ---
 title: games 2024.19
-updated: 2024-05-09 12:35:02
+updated: 2024-05-10 11:11:55
 ---
 
 # games 2024.19
 
-(date: 2024-05-09 12:35:02)
+(date: 2024-05-10 11:11:55)
+
+---
+
+## Homeworld 3 is for spaceship strategy sickos
+
+date: 2024-05-10, updated: 2024-05-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24153063/homeworld-3-review-pc-steam-blackbird-interactive>
+
+---
+
+## Here’s one yellow-box game delay statement that everyone seems to like
+
+date: 2024-05-10, updated: 2024-05-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24153672/rogue-prince-of-persia-hades-2-release-date-delay>
+
+---
+
+## Time Patrol Bon is a sci-fi anime odyssey about the value of human life
+
+date: 2024-05-10, updated: 2024-05-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/anime/24152757/time-patrol-bon-netflix-anime-review>
+
+---
+
+## I Saw the TV Glow uses a key cameo as a ‘corrective’ for Buffy the Vampire Slayer
+
+date: 2024-05-10, updated: 2024-05-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24153069/i-saw-tv-glow-amber-benson-cameo-fixing-buffy-vampire-slayer>
+
+---
+
+## The next season of Critical Role’s The Legend of Vox Machina drops this fall
+
+date: 2024-05-10, updated: 2024-05-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24153632/legend-of-vox-machina-season-3-release-date>
+
+---
+
+## Doctor Who’s new season breaks one big tradition
+
+date: 2024-05-10, updated: 2024-05-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24152946/doctor-who-ncuti-gatwa-costume>
+
+---
+
+## If the MCU hinges on Fantastic Four, good news: the casting is great
+
+date: 2024-05-10, updated: 2024-05-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24153564/fantastic-four-2025-cast-ralph-ineson-galactus>
+
+---
+
+## Karyn Kusama’s Dracula movie got staked for not being a ‘straightforward monster movie’
+
+date: 2024-05-10, updated: 2024-05-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24153122/karyn-kusama-dracula-movie-blumhouse-mina-harker-canceled>
+
+---
+
+## Megan Thee Stallion’s new video is a lavish love letter to One Piece, Scott Pilgrim, and Mortal Kombat
+
+date: 2024-05-10, updated: 2024-05-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24153521/megan-thee-stallion-boa-one-piece-mortal-kombat-scott-pilgrim-ddr-references>
+
+---
+
+## Red, White, and Royal Blue sequel in the works at Prime Video
+
+date: 2024-05-10, updated: 2024-05-10, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/entertainment/24153500/red-white-and-royal-blue-sequel-prime-video-casey-mcquiston>
 
 ---
 

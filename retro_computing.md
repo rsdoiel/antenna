@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.19
-updated: 2024-05-09 12:35:02
+updated: 2024-05-10 11:11:56
 ---
 
 # retro computing 2024.19
 
-(date: 2024-05-09 12:35:02)
+(date: 2024-05-10 11:11:56)
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2024-05-10, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 6: The Atlantic Crossing 
+
+<https://www.filfre.net/2024/05/this-week-on-the-analog-antiquarian/>
+
+---
+
+## Vote for the May 2004 Plus Post Topic
+
+date: 2024-05-10, from: Computer ads from the Past
+
+If you are a paid subscriber, voting is open for one week for this month's topic 
+
+<https://computeradsfromthepast.substack.com/p/vote-for-the-may-2004-plus-post-topic>
 
 ---
 

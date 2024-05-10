@@ -1,11 +1,146 @@
 ---
 title: writing 2024.19
-updated: 2024-05-09 12:35:02
+updated: 2024-05-10 11:11:55
 ---
 
 # writing 2024.19
 
-(date: 2024-05-09 12:35:02)
+(date: 2024-05-10 11:11:55)
+
+---
+
+## Write On: 'Bridgerton' Showrunner Jess Brownell
+
+date: 2024-05-10, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-bridgerton-showrunner-jess-brownell" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Bridgerton%203%20Writer%20Jess%20Brownell.png" alt="Write On: 'Bridgerton' Showrunner Jess Brownell" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“One of the main things I’ve learned from Shonda [Rhimes] is to focus on what you really want to see, yourself, in a season. Not necessarily what should happen. I remember on <em>Scandal</em>, in the writers room, we would craft what we thought were these perfectly structured stories. And Shonda would come in and pitch something that was really wild, kind of out there and maybe didn’t fit perfectly into the structure,” says Jess Brownell, showrunner for <em>Bridgerton</em> Season 3.&nbsp; “Ultimately, when the show aired, that would always be the thing that Twitter would light up about. So it’s taught me to work from that place first. Don’t just worry about, ‘Okay, what are the beats that make sense to get from A to B?,’ but ‘What’s juicy? What do you want to see?’”</p> 
+
+<https://blog.finaldraft.com/write-on-bridgerton-showrunner-jess-brownell>
+
+---
+
+## 2024 Stella Prize
+
+date: 2024-05-10, from: Locus Magazine
+
+<p><strong>Praiseworthy</strong> by Alexis Wright (Giramondo) is the winner of the AUD$50,000 2024 Stella Prize.</p>
+<p>Named for Stella Maria Sarah “Miles” Franklin, the prize celebrates literature by Australian women and non-binary writers.</p>
+<p>For more information, including the complete shortlist and longlist, see the official Stella Prize site.</p>
+
+<p>
+
+
+     (adsbygoogle = window.adsbygoogle &#124;&#124; []).push({});
+
+<strong>While you are here,</strong> please take a moment to support Locus with a one-time or recurring donation. We rely  <a href="https://locusmag.com/2024/05/2024-stella-prize/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/2024-stella-prize/>
+
+---
+
+## Garcia Wins MIFRE Media Award
+
+date: 2024-05-10, from: Locus Magazine
+
+<p></p>
+<p>&#8220;Philia, Eros, Storge, Agápe, Pragma&#8221; by R.S.A. Garcia (Clarkesworld 1/21) won the 2023 Media Award, presented by The Machine Intelligence Foundation for Rights and Ethics (MIFRE).</p>
+<p>The Award seeks to &#8220;identify and illuminate fictional creations that demonstrate societies where humans and conscious machines live, cooperate and thrive together.&#8221; Works in any medium from any time are eligible.</p>
+<p>For more information, visit the MIFRE website.</p>
+
+<p>
+
+
+     (adsbygoogle = window.adsbygoogle &#124;&#124; []).push({});
+
+<strong>While </strong> <a href="https://locusmag.com/2024/05/garcia-wins-mifre-media-award/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/garcia-wins-mifre-media-award/>
+
+---
+
+## 2024 Pulitzer Prizes
+
+date: 2024-05-10, from: Locus Magazine
+
+<p> </p>
+<p><strong>Wednesday’s Child </strong>by Yiyun Li (Farrar, Straus, Giroux) and <strong> Same Bed, Different Dreams</strong> by Ed Park (Random House) were finalists for the 2024 Pulitzer Prize in the Fiction category. </p>
+<p>The award is given for &#8220;distinguished fiction published in book form during the year by an American author, preferably dealing with American life.&#8221; </p>
+<p>For more, see the Pulitzer website.</p>
+
+<p>
+
+
+     (adsbygoogle = window.adsbygoogle &#124;&#124; []).push({});
+
+<strong>While you are here,</strong> please take a  <a href="https://locusmag.com/2024/05/2024-pulitzer-prizes/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/2024-pulitzer-prizes/>
+
+---
+
+## Norwescon 46
+
+date: 2024-05-10, from: Locus Magazine
+
+<p>Norwescon 46 was held March 28-31, 2024 at the DoubleTree by Hilton Hotel Seattle Airport in SeaTac WA; the theme was ‘‘Into the Wylde.’’ Guests of honor were Jim Butcher (writer), Charles Vess (artist), Dr. Raychelle Burks (science), and Kate Alice Marshall (spe­cial guest of honor). Clarkesworld was the spotlight publisher, represented by Neil Clarke. The weekend included hundreds of hours of programming with dozens of panels and readings, plus  <a href="https://locusmag.com/2024/05/norwescon-46/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/norwescon-46/>
+
+---
+
+## A.C. Wise Reviews Short Fiction: Analog
+
+date: 2024-05-10, from: Locus Magazine
+
+<p>Analog 1-2/24</p>
+<p>The January/February issue of Ana­log kicks off with “<strong>Kagari</strong>” by <strong>Ron Collins, </strong>which follows the young heir to a kingdom of birdlike beings. He is in love with a commoner, and not overly enamored of the strict rules governing his society, but he is given a human named Kagari as a pet who helps him see he might work within the system to effect change. “ <a href="https://locusmag.com/2024/05/a-c-wise-reviews-short-fiction-analog-2/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/a-c-wise-reviews-short-fiction-analog-2/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-10, from: Neil Gaiman @ BlueSky)
+
+This sobering thread....
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ks4yjmme4c26>
+
+---
+
+## 2024 Locus Awards Top Ten Finalists
+
+date: 2024-05-09, from: Locus Magazine
+
+<p></p>
+<p>The Locus Science Fiction Foundation has announced the top ten finalists in each category of the 2024 Locus Awards. These results are from the February 1 to April 15 voting, done by readers on an open public ballot. Congratulations to all of the finalists!</p>
+<p>The Locus Awards winners will be announced June 22, 2024, during the in-person Locus Awards Ceremony, held in the historic Nile Hall at Preservation Park in  <a href="https://locusmag.com/2024/05/2024-locus-awards-top-ten-finalists/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/2024-locus-awards-top-ten-finalists/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-09, from: Neil Gaiman @ BlueSky)
+
+From 2006, my blog about Wills, with a sample will for creative people. Take it to your lawyer to start the Will conversation.
+
+https://journal.neilgaiman.com/2006/10/important-and-pass-it-on.html?m=1 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ks3mk7t5ad2w>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-09, from: Neil Gaiman @ BlueSky)
+
+Excellent idea.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ks3mb7di5m2b>
 
 ---
 

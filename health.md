@@ -1,11 +1,41 @@
 ---
 title: health 2024.19
-updated: 2024-05-09 12:35:02
+updated: 2024-05-10 11:11:56
 ---
 
 # health 2024.19
 
-(date: 2024-05-09 12:35:02)
+(date: 2024-05-10 11:11:56)
+
+---
+
+## Unlocking the antiviral potential of rosmarinic acid against chikungunya virus via IL-17 signaling pathway
+
+date: 2024-05-10, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe Chikungunya virus is an Alphavirus that belongs to the Togaviridae family and is primarily transmitted by mosquitoes. It causes acute infection characterized by fever, headache, and arthralgia. Some patients also experience persistent chronic osteoarthritis-like symptoms. Dedicated antiviral treatments are currently unavailable for CHIKV. This study aims to explore the potential anti-CHIKV effect of rosmarinic acid using network pharmacology.MethodsThis study employed network pharmacology to predict and verify the molecular targets and pathways associated with ROSA in the context of CHIKV. The analysis outcomes were further validated using molecular docking and in vitro experiments.ResultsThe analysis of CHIKV targets using the Kyoto Encyclopedia of Genes and Genomes and MCODE identified IL-17 as an important pathogenic pathway in CHIKV infection. Among the 30 targets of ROSA against CHIKV, nearly half were found to be involved in the IL-17 signaling pathway. This suggests that ROSA may help the host in resisting CHIKV invasion by modulating this pathway. Molecular docking validation results showed that ROSA can stably bind to 10 core targets out of the 30 identified targets. In an in vitro CHIKV infection model developed using 293T cells, treatment with 60 μM ROSA significantly improved the survival rate of infected cells, inhibited 50% CHIKV proliferation after CHIKV infection, and reduced the expression of TNF-α in the IL-17 signaling pathway.ConclusionThis study provides the first confirmation of the efficacy of ROSA in suppressing CHIKV infection through the IL-17 signaling pathway. The findings warrant further investigation to facilitate the development of ROSA as a potential treatment for CHIKV infection. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1396279>
+
+---
+
+## Characterization and functional prediction of the dental plaque microbiome in patients with alveolar clefts
+
+date: 2024-05-10, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionAlveolar cleft (AC) is a common congenital defect in people with cleft lip and palate (CLP). Alveolar bone grafting (ABG) is typically performed during adolescence, resulting in the fissure remaining in the mouth for a longer length of time. Patients with AC have a greater rate of oral diseases such as dental caries than the normal population, and the precise characteristics of the bacterial alterations caused by AC are unknown.MethodsWe recruited a total of 87 subjects and collected dental plaque samples from AC adolescents (AAP), post-operative ABG adolescents (PAP), healthy control adolescents (CAP), AC young adults (AYP), post-operative ABG young adults (PYP), and healthy control young adults (CYP). The sequencing of 16S rRNA genes was performed.ResultsThe microbial composition of plaque from alveolar cleft patients differed significantly from age-matched healthy controls. Linear discriminant analysis effect size (LEfSe) analysis revealed that AAP was enriched for Neisseria, Haemophilus, Fusobacterium, Rhodococcus, Aggregatibacter, Gemella, and Porphyromonas, whereas AYP was enriched for Capnocytophaga, Rhodococcus, and Actinomyces-f0332. There were phenotypic differences in facultatively anaerobic, Gram-negative, Gram-positive, and oxidative stress tolerance between the AYP group with longer alveolar cleft and the healthy control group according to Bugbase phenotypic predictions. Alveolar bone grafting did not alter the functional phenotype of alveolar cleft patients but reduced the number of differential genera between alveolar cleft patients and healthy controls at both ages.ConclusionsOur study systematically characterized the supragingival plaque microbiota of alveolar cleft patients, post-alveolar bone grafting patients, and matched healthy controls in two ages to gain a better understanding of plaque ecology and microbiology associated with alveolar clefts. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1361206>
+
+---
+
+## HSP90 is part of a protein complex with the L polymerase of Rift Valley fever phlebovirus and prevents its degradation by the proteasome during the viral genome replication/transcription stage
+
+date: 2024-05-10, from: Frontiers in Cellular and Infection Microbiology
+
+The mosquito-borne Rift Valley fever virus (RVFV) from the Phenuiviridae family is a single-stranded RNA virus that causes the re-emerging zoonotic disease Rift Valley fever (RVF). Classified as a Category A agent by the NIH, RVFV infection can cause debilitating disease or death in humans and lead to devastating economic impacts by causing abortion storms in pregnant cattle. In a previous study, we showed that the host chaperone protein HSP90 is an RVFV-associated host factor that plays a critical role post viral entry, during the active phase of viral genome replication/transcription. In this study, we have elucidated the molecular mechanisms behind the regulatory effect of HSP90 during infection with RVFV. Our results demonstrate that during the early infection phase, host HSP90 associates with the viral RNA-dependent RNA polymerase (L protein) and prevents its degradation through the proteasome, resulting in increased viral replication. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1331755>
 
 ---
 

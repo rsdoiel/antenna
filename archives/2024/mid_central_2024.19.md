@@ -1,11 +1,153 @@
 ---
 title: mid central 2024.19
-updated: 2024-05-09 12:35:01
+updated: 2024-05-10 11:11:55
 ---
 
 # mid central 2024.19
 
-(date: 2024-05-09 12:35:01)
+(date: 2024-05-10 11:11:55)
+
+---
+
+## 2024 ARRL Field Day gear is now shipping!
+
+date: 2024-05-10, from: Amateur Radio Relay League News
+
+<p>ARRL Field Day is June 22-23. Get ready for amateur radio's largest on-air operating event with official 2024 ARRL Field Day merchandise, now available. T-shirts, hats, mugs, pins, patches, and more are a great way to show off your involvement in this annual event. This year's design features the theme "Be Radio Active." The back of the t-shirt includes a check-off list of ARRL and RAC Sections...</p> 
+
+<http://www.arrl.org/news/view/2024-arrl-field-day-gear-is-now-shipping>
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-05-10, from: Amateur Radio Relay League News
+
+<p>"ASWFC GEOMAGNETIC DISTURBANCE WARNING ISSUED AT 2302 UTC/09 MAY 2024 BY THE AUSTRALIAN SPACE WEATHER FORECASTING CENTRE.<br /><br />"Four halo CMEs first observed over 08-09 May are expected to arrive<br />at Earth on 10-May, starting at 1000 UTC +/- 10 hours. G4<br />geomagnetic conditions are expected on 10-May, reducing to G3 with a<br />chance of G4 on 11-May.<br /><br />"INCREASED GEOMAGNETIC ACTIVITY EXPECTED DUE TO CORONAL MASS...</p> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-829>
+
+---
+
+## ARRL Learning Center Features Two New Emergency Communication Training Courses
+
+date: 2024-05-10, from: Amateur Radio Relay League News
+
+<p>ARRL has released two new courses to train emergency communications (EmComm) operators for volunteering within the Amateur Radio Emergency Service® (ARES®). Both courses are within the ARRL Learning Center.</p><p>The Basic EmComm course is designed to get a new volunteer started. It provides basic knowledge and tools for any emergency communications volunteer and contains three modules and 11 topics, ...</p> 
+
+<http://www.arrl.org/news/view/arrl-learning-center-features-two-new-emergency-communication-training-courses>
+
+---
+
+## Focus on Public Safety Relationship Building at the 2024 ARRL National Convention
+
+date: 2024-05-10, from: Amateur Radio Relay League News
+
+<p>Those attending the 2024 ARRL National Convention at Dayton Hamvention® will have an opportunity to learn more about how amateur radio is relevant and highly involved in the modern emergency management landscape. The convention is May 17 - 19 in Xenia, Ohio. </p><p>ARRL Director of Emergency Management Josh Johnston, KE5MHV, will host a booth for the Amateur Radio Emergency Service® -- ARES®. The boot...</p> 
+
+<http://www.arrl.org/news/view/focus-on-public-safety-relationship-building-at-the-2024-arrl-national-convention>
+
+---
+
+## How Wi-Fi sensing simplifies presence detection
+
+date: 2024-05-10, from: EDN Blog
+
+<img width="1920" height="638" src="https://www.edn.com/wp-content/uploads/Fig-1-Wi-Fi-Sening-Synaptics.png?fit=1920%2C638" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-Wi-Fi-Sening-Synaptics.png?w=1920 1920w, https://www.edn.com/wp-content/uploads/Fig-1-Wi-Fi-Sening-Synaptics.png?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-Wi-Fi-Sening-Synaptics.png?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-Wi-Fi-Sening-Synaptics.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-1-Wi-Fi-Sening-Synaptics.png?w=1536 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /><p>Designers can now implement sensing applications on Wi-Fi-enabled devices with a right balance of processing and power usage.</p>
+<p>The post <a href="https://www.edn.com/how-wi-fi-sensing-simplifies-presence-detection/" data-wpel-link="internal">How Wi-Fi sensing simplifies presence detection</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/how-wi-fi-sensing-simplifies-presence-detection/>
+
+---
+
+## Congratulations Armenian Studies Minors and Graduating Seniors of 2023-2024
+
+date: 2024-05-09, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Sara Beberian Business Administration-Marketing Minor in Armenian Studies &#160; What encouraged you to take an Armenian Studies course? It came naturally for me to want to take Armenian courses – it was not even a question. I was so happy to see that they were offered at Fresno State. As a Charlie Keyan Armenian Community... 
+
+<https://fscollegian.com/2024/05/congratulations-armenian-studies-minors-and-graduating-seniors-of-2023-2024/>
+
+---
+
+## Dr. Suciyan Discusses New Book on Tanzimat in the Ottoman Empire
+
+date: 2024-05-09, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+“Even if we sell our children, we could not afford to pay the taxes,” said one Armenian, cited from a primary source Dr. Talin Suciyan utilized in her study of the Tanzimat Era of the Ottoman Empire. According to Dr. Suciyan, the Tanzimat Era was intended to bring modernization and reform to the Empire, which... 
+
+<https://fscollegian.com/2024/05/dr-suciyan-discusses-new-book-on-tanzimat-in-the-ottoman-empire/>
+
+---
+
+## Dr. Elyse Semerdjian Presents New Book- Remnants: Embodied Archives of the Armenian Genocide
+
+date: 2024-05-09, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+On Thursday, April 25, 2024, the Armenian Studies Program welcomed Dr. Elyse Semerdjian, Robert Aram and Marianne Kaloosdian and Stephen and Marian Mugar Chair of Armenian Genocide Studies at Clark University, to talk about her new book, Remnants: Embodied Archives of the Armenian Genocide. The presentation was made possible through the Ralph Shabazian Armenian Memorial... 
+
+<https://fscollegian.com/2024/05/dr-elyse-semerdjian-presents-new-book-remnants-embodied-archives-of-the-armenian-genocide/>
+
+---
+
+## Armenia Featured in Fresno State International Coffee Hour
+
+date: 2024-05-09, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+On Tuesday, March 12, 2024, the Fresno State International Coffee Hour invited international student Harutyun Amirkhanyan to discuss Armenia and its history. Each month, the International Coffee Hour holds an event highlighting a different country in order to engage students in the wide range of cultures that Fresno State students come from. Everyone is welcome... 
+
+<https://fscollegian.com/2024/05/armenia-featured-in-fresno-state-international-coffee-hour/>
+
+---
+
+## Hachig Kazarian Gives Presentation on “Western Armenian Music: An Artist’s Perspective”
+
+date: 2024-05-09, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+“The moment in my life where I thought I did not know anything is the moment that I started learning&#8230; there is no learning if there is no listening.” These words from musician Hachig Kazarian were his closing sentiments in his informative presentation on his recent book, Western Armenian Music: From Asia Minor to the... 
+
+<https://fscollegian.com/2024/05/hachig-kazarian-gives-presentation-on-western-armenian-music-an-artists-perspective/>
+
+---
+
+## Prof. Der Mugrdechian at Genocide Awareness Event in Arizona
+
+date: 2024-05-09, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+The film “Lost Birds” was screened at Scottsdale Community College on Friday, April 18, 2024, as part of “Genocide Awareness Week.” The event was co-sponsored by the Armenian Studies Program. Prof. Barlow Der Mugrdechian introduced directors Ela Almayac and Aren Perdeci to a full audience. The screening was followed by a question and answer period. 
+
+<https://fscollegian.com/2024/05/prof-der-mugrdechian-at-genocide-awareness-event-in-arizona/>
+
+---
+
+## Der Matossian Discusses “Armenian Jerusalem: Past, Present, & Future”
+
+date: 2024-05-09, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Dr. Bedross Der Matossian discussed “Armenian Jerusalem: Past, Present, and Future” on Friday, March, 2024 at the Smittcamp Alumni House on the Fresno State Campus. Dr. Der Matossian is a Professor of Modern Middle East History at the University of Nebraska, Lincoln and was born and raised in the Old City of Jerusalem. His presentation... 
+
+<https://fscollegian.com/2024/05/der-matossian-discusses-armenian-jerusalem-past-present-future/>
+
+---
+
+## Photo essay: Students raise their spirits before finals with The Collegian
+
+date: 2024-05-09, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+The Collegian, Fresno State&#8217;s student-run news organization, presented an event for students to de-stress and combat senioritis before finals week on May 1. &#8216;Raisin Our Spirits&#8217; featured free activities, goodies and food in the Memorial Gardens at Fresno State. 
+
+<https://fscollegian.com/2024/05/photo-essay-students-raise-their-spirits-before-finals-with-the-collegian/>
+
+---
+
+## ARRL Volunteers Obtain Ham Exemption to Pennsylvania Handsfree Law
+
+date: 2024-05-09, from: Amateur Radio Relay League News
+
+<p><span>Member-volunteers of ARRL  The National Association for Amateur Radio</span>®<span> in Pennsylvania have successfully protected the legal right to use amateur radio while operating mobile within the state. A handsfree distracted driving bill had worked its way through the legislature over the past several years, and ARRL Atlantic Division Director Bob Famiglio, K3RF, successfully advocated for an exemption ...</span></p> 
+
+<http://www.arrl.org/news/view/arrl-volunteers-obtain-ham-exemption-to-pennsylvania-handsfree-law>
 
 ---
 
@@ -13,7 +155,7 @@ updated: 2024-05-09 12:35:01
 
 date: 2024-05-09, from: EDN Blog
 
-<img width="800" height="418" src="https://www.edn.com/wp-content/uploads/Keysight-FieldFox-Option-357.jpg?fit=800%2C418" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Keysight-FieldFox-Option-357.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Keysight-FieldFox-Option-357.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Keysight-FieldFox-Option-357.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>FieldFox handheld RF analyzers from Keysight can now generate an array of pulse types at frequencies as high as 54 GHz.</p>
+<img width="800" height="418" src="https://www.edn.com/wp-content/uploads/Keysight-FieldFox-Option-357.jpg?fit=800%2C418" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Keysight-FieldFox-Option-357.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Keysight-FieldFox-Option-357.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Keysight-FieldFox-Option-357.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>FieldFox handheld RF analyzers from Keysight can now generate an array of pulse types at frequencies as high as 54 GHz.</p>
 <p>The post <a href="https://www.edn.com/handheld-analyzers-gain-pulse-generator-option/" data-wpel-link="internal">Handheld analyzers gain pulse generator option</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

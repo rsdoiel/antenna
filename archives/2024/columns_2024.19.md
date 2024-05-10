@@ -1,11 +1,381 @@
 ---
 title: columns 2024.19
-updated: 2024-05-09 12:35:01
+updated: 2024-05-10 11:11:55
 ---
 
 # columns 2024.19
 
-(date: 2024-05-09 12:35:01)
+(date: 2024-05-10 11:11:55)
+
+---
+
+##  A neat technique to rebuild roads using a movable temporary bridge —... 
+
+date: 2024-05-10, updated: 2024-05-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044593-a-neat-technique-to-rebui>
+
+---
+
+##  A love letter to bicycle maintenance and repair. &#8220;Learning to fix bicycles... 
+
+date: 2024-05-10, updated: 2024-05-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044594-a-love-letter-to-bicycle>
+
+---
+
+## Efficiency isn’t everything
+
+date: 2024-05-10, from: Tracy Durnell Blog
+
+A few weeks ago, a friend told me about her experience volunteering at Hopelink, a local food bank. She chatted with the market manager about donations of food from individuals, saying she&#8217;d heard it was more efficient to just donate money. He acknowledged that the center could buy food more cheaply than individuals, but pointed [&#8230;] 
+
+<https://tracydurnell.com/2024/05/10/efficiency-isnt-everything/>
+
+---
+
+## Personal vs. Personalized AI
+
+date: 2024-05-10, from: Doc Searls (at Harvard), New Old Blog
+
+There is a war going on. Humanity and nature are on one side and Big Tech is on the other. The two sides are not opposed. They are orthogonal. The human side is horizontal and the Big Tech side is vertical.* The human side is personal, social, self-governed, heterarchical, open, and grounded in the physical [&#8230;] 
+
+<https://doc.searls.com/2024/05/10/personal-vs-personalized/>
+
+---
+
+##  Miranda Lambert&#8217;s &#8220;Wranglers&#8221; & Chappell Roan&#8217;s &#8220;Good Luck, Babe!&#8221; 
+
+date: 2024-05-10, updated: 2024-05-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/miranda-lamberts-wranglers-chappell-roans-good-luck-babe>
+
+---
+
+## New Attack Against Self-Driving Car AI
+
+date: 2024-05-10, updated: 2024-05-10, from: Bruce Schneier blog
+
+<p>This is another attack that convinces the AI to <a href="https://www.theregister.com/2024/05/10/baidu_apollo_hack/">ignore road signs</a>:</p>
+<blockquote><p>Due to the way CMOS cameras operate, rapidly changing light from fast flashing diodes can be used to vary the color. For example, the shade of red on a stop sign could look different on each line depending on the time between the diode flash and the line capture.</p>
+<p>The result is the camera capturing an image full of lines that don&#8217;t quite match each other. The information is cropped and sent to the classifier, usually based on deep neural networks, for interpretation. Because it&#8217;s full of lines that don&#8217;t match, the classifier doesn&#8217;t recognize the image as a traffic sign...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/05/new-attack-against-self-driving-car-ai.html>
+
+---
+
+##  AI Copilots Are Changing How Coding Is Taught; they can &#8220;free up... 
+
+date: 2024-05-10, updated: 2024-05-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044595-ai-copilots-are-changing->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-10, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/07/02/knicks.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">This year's <a href="https://en.wikipedia.org/wiki/Template:New_York_Knicks_roster">Knicks</a> are as memorable as the 1970 <a href="https://www.basketball-reference.com/teams/NYK/1970.html#all_roster">team</a>. Brunson, DiVincenzo, Hart, Anunoby and Hartenstein. They have totally distinct superpowers. Tonight's game will be played without Brunson and Anunoby, both injured. That means McBride and Atchiuwa start, probably. I kept wanting to tell friends about these guys, they're just as exciting as the starters. And don't forget there's another <a href="https://en.wikipedia.org/wiki/Jericho_Sims">center</a> and <a href="https://en.wikipedia.org/wiki/Alec_Burks">forward</a> still on the bench who have done real starting minutes this year and two years ago. They are Knicks too. 
+
+<http://scripting.com/2024/05/10.html#a153045>
+
+---
+
+## The NYT runs on freedom and apparently they don't know that
+
+date: 2024-05-10, from: Dave Winer's Scripting News
+
+<p>This is a hard idea to get across, but there's nothing wrong with a news organization favoring things they depend on to exist.</p>
+<p>For example, a news org that covers San Jose, CA is entitled to favor San Jose. It's okay for them to do things that help San Jose in competition with other cities. They could sponsor a food drive for the neediest in their community. It wouldn't be a conflict of interest, because it's understood that they have an interest in the success of San Jose. </p>
+<p>A columnist that covers the NY Mets can be happy when the Mets win the World Series, and sad when they don't. This is not an integrity issue, or something they need to disclose, unless it's not obvious that they cover the Mets.</p>
+<p>In that sense, every news org in the United States depends on the First Amendment, so it can be assumed they're in favor of democracy, because without it they couldn't exist. </p>
+<p>This is why the editor of the NYT's statement about not favoring democracy is so ridiculous. He can't be objective about that, because the existence of his organization depends on the continuation of democracy in the US.</p>
+<p>Whether he knows it or not, he's against Trump and in favor of the Democrats in the upcoming election.</p>
+<p>Sometimes it's hard to see what's totally obvious. Ask a fish about water and they'll say there is no such thing. Same with free speech and the NYT. They are a product of free speech, without it, it makes no sense, doesn't work. But that's been true forever, so it feels like a given, but it isn't.</p>
+ 
+
+<http://scripting.com/2024/05/10/152411.html?title=theNytRunsOnFreedomAndApparentlyTheyDontKnowThat>
+
+---
+
+##  Some tips for long walks. &#8220;We&#8217;re prone to lean forward when we... 
+
+date: 2024-05-10, updated: 2024-05-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044590-some-tips-for-long-walks>
+
+---
+
+##  The Lowest Possible Score in Super Mario Bros 
+
+date: 2024-05-10, updated: 2024-05-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/the-lowest-possible-score-in-super-mario-bros-1>
+
+---
+
+##  I missed this from last year: the original &#8220;on the internet, nobody... 
+
+date: 2024-05-10, updated: 2024-05-10, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044556-i-missed-this-from-last>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-10, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@futurefasterplz/post/C6uPZpjSMQp">A useful thread</a>, where people share answers to a request for "an extremely minimal, clean blogging site with practically no bells or whistles where I can just share things on my mind." 
+
+<http://scripting.com/2024/05/10.html#a122741>
+
+---
+
+## Christian Spirituality: categories
+
+date: 2024-05-10, from: Ayjay blog
+
+The Great Texts program here at Baylor, where I teach about half my classes, begins its course of study with a series of periods: Ancient, Medieval, Early Modern, Eighteenth and Nineteenth Centuries, Twentieth Century. Then it diverges into genres, themes, and topics. I’ve just concluded teaching Great Texts in Christian Spirituality — for the third [&#8230;] 
+
+<https://blog.ayjay.org/christian-spirituality-categories/>
+
+---
+
+## Trump's price for selling the world: $1 billion
+
+date: 2024-05-10, from: Robert Reich's blog
+
+Bribery 
+
+<https://robertreich.substack.com/p/with-trump-everythings-for-sale>
+
+---
+
+## Apple (like big tech is) primed to stumble.
+
+date: 2024-05-10, from: Om Malik blog
+
+This&#160;past&#160;week, Apple&#160;released an ad to support the new iPads&#160;and highlight their extreme thinness. The&#160;advertisement showed creativity being crushed into the iPad. The&#160;ad,&#160;called&#160;Crush,&#160;was universally panned by everyone on social media. Apple eventually apologized.&#160; The Crush-ad masked the actual product announcement, and the company found itself on the&#160;back foot instead.&#160;The backlash highlighted Apple’s dilemma, succinctly summed up &#8230; 
+
+<https://om.co/2024/05/09/apple-is-primed-to-stumble/>
+
+---
+
+## Logitech Launches Keyboard Cases for New iPad Air and iPad Pro Models
+
+date: 2024-05-09, updated: 2024-05-09, from: Daring Fireball
+
+ 
+
+<https://www.macrumors.com/2024/05/09/logitech-launches-keyboard-cases-for-new-ipad-air-and-ipad-pro-models/>
+
+---
+
+## Biden’s Big Dream for the Middle East
+
+date: 2024-05-09, from: Dan Rather's Steady
+
+Could it be the spark needed to finally ignite a solution? 
+
+<https://steady.substack.com/p/bidens-big-dream-for-the-middle-east>
+
+---
+
+## The New iPads No Longer Include Stickers
+
+date: 2024-05-09, updated: 2024-05-10, from: Daring Fireball
+
+ 
+
+<https://9to5mac.com/2024/05/07/new-ipad-pro-ipad-air-apple-stickers/>
+
+---
+
+## Friday 10 May, 2024
+
+date: 2024-05-09, from: John Naughton's online diary
+
+The Sea, the Sea From the cafe at Inch beach, Co Kerry, one Sunday morning. Quote of the Day “Everything that needs to be said has already been said. But since no-one was listening, everything must be said again.” Andre &#8230; <a href="https://memex.naughtons.org/friday-10-may-2024/39427/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-10-may-2024/39427/>
+
+---
+
+## Apple’s ‘Let Loose’ iPad Event Was Shot on iPhone — With Panavision Lenses
+
+date: 2024-05-09, updated: 2024-05-09, from: Daring Fireball
+
+ 
+
+<https://prolost.com/blog/panavision-iphone>
+
+---
+
+## ‘Goodbye to Apple’s Smart Keyboard Folio’
+
+date: 2024-05-09, updated: 2024-05-09, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/24151209/ipad-pro-smart-keyboard-folio-review-discontinued>
+
+---
+
+## Is the ‘Crush’ Backlash a Dead Canary in the Apple Brand Coal Mine?
+
+date: 2024-05-09, updated: 2024-05-09, from: Daring Fireball
+
+ 
+
+<https://world.hey.com/dhh/hating-apple-goes-mainstream-fe740007>
+
+---
+
+##  Spring and Summer Skies by Amy Jean Porter 
+
+date: 2024-05-09, updated: 2024-05-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/spring-and-summer-skies-amy-jean-porter>
+
+---
+
+## Apple Apologizes for ‘Crush’ Ad: ‘We Missed the Mark With This Video, and We’re Sorry’
+
+date: 2024-05-09, updated: 2024-05-09, from: Daring Fireball
+
+ 
+
+<https://adage.com/article/digital-marketing-ad-tech-news/apple-apologizes-ipad-pro-crushed-ad-it-missed-mark/2559321>
+
+---
+
+## Crushed-Into-a-Handheld-Gadget Commercials
+
+date: 2024-05-09, updated: 2024-05-09, from: Daring Fireball
+
+ 
+
+<https://twitter.com/asallen/status/1788428991118164356?s=46&t=MqzoMDbTTz9SD-vhv6gL8w>
+
+---
+
+## 2024-05-09 Hoping for the next AI winter
+
+date: 2024-05-09, from: Alex Schroeder's Blog
+
+<h1 id="2024-05-09-hoping-for-the-next-ai-winter">2024-05-09 Hoping for the next AI winter</h1>
+
+<p><a class="account" href="https://chirp.enworld.org/@taichara" title="@taichara@chirp.enworld.org">@taichara</a> pointed me to a blog post that Creative Commons (CC) wrote in 2023 about the court cases against GitHub, Stable Diffusion, Midjourney and the claim that their use of copyrighted works to train the machines is copyright infringement. CC does not agree.</p>
+
+<blockquote>
+<p>As Creative Commons has argued elsewhere, and others agree, I believe that this type of use should be protected by copyright’s fair use doctrine. In this blog post I will discuss what fair use is, what purpose it serves, and why I believe that using copyrighted works to train generative AI models should be permitted under this law. – <a href="https://creativecommons.org/2023/02/17/fair-use-training-generative-ai/">Fair Use: Training Generative AI</a></p>
+</blockquote>
+
+<p>I guess I don&rsquo;t mind that blog post. For one, Fair Use is a very USA thing and I don&rsquo;t live there. Furthermore, the CC licenses don&rsquo;t say &ldquo;this material is fine for AI training&rdquo; – so whether this is fine or not will be decided by the courts. I would only worry if CC turns out to be working on a version 5 of their licenses with an explicit exception for AI training. And even then, we can keep on using version 4 of the license. There is no automatic upgrade option.</p>
+
+<p>This is why I feel fine.</p>
+
+<p>Imagine the Dude from The Big Lebowski saying, &ldquo;Yeah, well, that&rsquo;s just, like, their opinion…&rdquo;</p>
+
+<p>It doesn&rsquo;t look as if CC will be changing the license. The courts still get to decide. If the courts decide in favour of free-for-all AI training, then rich people win for the moment. But even then, we can still nationalise their businesses, or prohibit AI training, or raise prices on electricity and water. The fight isn&rsquo;t over. Not by a long shot.</p>
+
+<p>Maybe this is a thing with lawyers. We trust people who share our values and we’d trust somebody when they write something along the lines of “AI training is terrible and AI use is dubious but what can you do, it’s in the hand of the courts, we certainly don’t support it.” But lawyers trust other lawyers who say “we’ll see what the courts say but our understanding is that nobody should stop AI training because that’s the trade-off copyright makes and we support people and corporations exercising their rights.”</p>
+
+<p>The apparent moral support on copyright grounds is revolting, but this approach seems typical to me. They say: The point of the law is this or that. We say: The result of these actions is bad for society and bad for the climate. They are externalising all the costs. The artists and authors who want to produce new works are losing their jobs. The people double-checking the computers and their training are burning out. The communities where these corporations build their computing centres suffer from water scarcity because the water is used to cool the computers. The countries where these corporations build their computing centres need to build more power plants because so much electricity is required to train their models. The move to renewable energies is delayed. Phasing out nuclear power is delayed and more radioactive waste ends up on our lands.</p>
+
+<blockquote>
+<p>Sending this message was important to us. We considered ourselves to be a powerful culture.
+This place is not a place of honor&hellip; no highly esteemed deed is commemorated here&hellip; nothing valued is here.
+– <a href="https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages">Long-term nuclear waste warning messages</a>, Wikipedia</p>
+</blockquote>
+
+<p>Or we can believe in nuclear fusion:</p>
+
+<blockquote>
+<p>AI models made up of billions of parameters require huge amounts of energy to train. OpenAI&rsquo;s old GPT-3 system reportedly consumed 936 megawatt hours … the average household consumes about 10.5 MWh per year. That means training GPT-3 consumed as much energy as about 90 households consume in a year. – <a href="https://www.theregister.com/2024/01/22/google_deepmind_train_alphageometry_system/">Energy breakthrough needed to build AGI, says OpenAI boss Altman</a>, The Register</p>
+</blockquote>
+
+<p>Sadly, nuclear fusion only seems to be working inside the sun:</p>
+
+<blockquote>
+<p>1955: At the first Atoms for Peace meeting in Geneva, Homi J. Bhabha predicts that fusion will be in commercial use within two decades. – <a href="https://en.wikipedia.org/wiki/Timeline_of_nuclear_fusion">Timeline of nuclear fusion</a>, Wikipedia</p>
+</blockquote>
+
+<p>And what for? The people who are looking for answers get served bullshit slop that&rsquo;s wrong and hurtful and racist and misogynist. We see this in customer service degrading, in search engines degrading, in websites degrading. The corporations don&rsquo;t mind that they&rsquo;re feeding us slop as long as they are making money.</p>
+
+<p>We are enabling this because these corporations are powerful and rich. They buy our politicians with money and promises of jobs, they don&rsquo;t pay the taxes they ought to pay and then they don&rsquo;t deliver on the jobs, and the jobs they offer are menial and subservient when we&rsquo;d prefer to be creative and free. We thought we&rsquo;d be writing and painting all day while the machines serve us but we end up serving them while they do the writing and painting, badly!</p>
+
+<p>It&rsquo;s hard to defend against these corporations because the knowledge required to defeat them is not known to us all. We don&rsquo;t read about it in the media. Instead, they volunteer for all the posts, offer their experts, pay for their own research, write their own glowing press releases and commission promising reports. This is how regulatory capture works.</p>
+
+<p>So yes, we should nationalise them, regulate them, force them to pay for the true cost of resources they use, outlaw their energy waste, force them to label their output, shun them. We should kick them from our company. Like a creeping disease their rot spreads, destroying the technology we built, the search engines, databases, websites, turning it all into AI slop. It is revolting.</p>
+
+<p>And maybe copyright is not the right tool to stop corporations from training their machines on our works. But in the big picture, they are still wrong.</p>
+
+<p><a class="account" href="https://social.coop/@eloquence" title="@eloquence@social.coop">@eloquence</a> says:</p>
+
+<blockquote>
+<p>The folks who are calling such training &ldquo;theft&rdquo; might regret what they seem to be implicitly asking for, i.e. much stricter copyright. Copyright law won&rsquo;t prevent Microsoft, Google, OpenAI or Adobe from making shady licensing deals, but they&rsquo;ll prevent the free/open community from keeping up.</p>
+</blockquote>
+
+<p>It&rsquo;s true, I don&rsquo;t want to ask for stricter copyright. But I still oppose all the things that are wrong with the current AI bubble.</p>
+
+<p><a class="account" href="https://mastodon.social/@mcc" title="@mcc@mastodon.social">@mcc</a> recently wrote about a similar thing: We use free software licenses in order to distribute our software for the benefit of our fellow humans but not necessarily to train the machines of corporations that are responsible for all the slop.</p>
+
+<blockquote>
+<p>Like, heck, how am I <em>supposed</em> to rely on my code getting preserved after I lose interest, I die, BitBucket deletes every bit of Mercurial-hosted content it ever hosted, etc? Am I supposed to rely on <em>Microsoft</em> to responsibly preserve my work? Holy crud no.
+We <em>want</em> people to want their code widely mirrored and distributed. That was the reason for the licenses. That was the social contract. But if machine learning means the social contract is dead, why would people want their code mirrored? – <a href="https://mastodon.social/@mcc/112209218607258564">mmc</a></p>
+</blockquote>
+
+<p>We&rsquo;re using copyright to keep the software free. If AI regurgitating our software from its impenetrable memories circumvents copyright it also circumvents our licenses and therefore pulls the claws and teeth free software has to fight for its freedom.</p>
+
+<p>This is why opposing the current AI bubble is important. No matter how I look at it, the big picture shows that this kind of AI is our enemy.</p>
+
+<p>This is why we continue fighting all the negatives these corporations bring to the table. And if it turns out that their business model doesn&rsquo;t work unless they bring all these negatives to the table, then I guess that&rsquo;s just that. We are under no obligation to support their business model. In fact, it is our right and our duty to regulate the world in order to improve it for all of us. We&rsquo;ve been doing it for a very long time.</p>
+
+<p>Here&rsquo;s to hoping for the next AI winter.</p>
+
+<blockquote>
+<p>In the history of artificial intelligence, an AI winter is a period of reduced funding and interest in artificial intelligence research. The field has experienced several hype cycles, followed by disappointment and criticism, followed by funding cuts, followed by renewed interest years or even decades later. – <a href="https://en.wikipedia.org/wiki/AI_winter">AI winter</a>, Wikipedia</p>
+</blockquote>
+
+<p><a class="tag" href="/search/?q=%23Copyright">#Copyright</a> <a class="tag" href="/search/?q=%23Artificial_Intelligence">#Artificial Intelligence</a></p> 
+
+<https://alexschroeder.ch/view/2024-05-09-ai-copyright>
+
+---
+
+##  Romanian Singer Maria Coman 
+
+date: 2024-05-09, updated: 2024-05-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/romanian-singer-maria-coman>
+
+---
+
+## Quinn Nelson on the New iPads and iPad Peripherals
+
+date: 2024-05-09, updated: 2024-05-09, from: Daring Fireball
+
+ 
+
+<https://www.youtube.com/watch?v=3moprE5S3Qc>
 
 ---
 
@@ -64,7 +434,7 @@ date: 2024-05-09, from: Jeff Geerling blog
 
 date: 2024-05-09, from: Matt Haughey blog
 
-<p>You&apos;ve probably seen the tone-deaf ad from Apple about their new super thin iPad. I get the concept they were going for&#x2014;it&apos;s like a thousand devices rolled into one, but the way the ad was shot revels in destruction of beloved things and really</p> 
+<p>You&apos;ve probably seen <a href="https://www.youtube.com/watch?v=ntjkwIXWtrc&amp;ref=a.wholelottanothing.org" rel="noreferrer">the tone-deaf ad from Apple about their new super thin iPad</a> (update: <a href="https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology?ref=a.wholelottanothing.org" rel="noreferrer">they apologized</a> for it). </p><p>I get the concept they were going for&#x2014;it&apos;s like a thousand devices rolled into one, but the way the ad was shot revels in destruction</p> 
 
 <https://a.wholelottanothing.org/apples-misstep/>
 
@@ -490,79 +860,6 @@ Adam Kirsch: In his poem “Little Gidding,” written during World War II, T. S
 
 ---
 
-## 2024-05-09 Hoping for the next AI winter
-
-date: 2024-05-09, from: Alex Schroeder's Blog
-
-<h1 id="2024-05-09-hoping-for-the-next-ai-winter">2024-05-09 Hoping for the next AI winter</h1>
-
-<p><a class="account" href="https://chirp.enworld.org/@taichara" title="@taichara@chirp.enworld.org">@taichara</a> pointed me to a blog post that Creative Commons (CC) wrote in 2023 about the court cases against GitHub, Stable Diffusion, Midjourney and the claim that their use of copyrighted works to train the machines is copyright infringement. CC does not agree.</p>
-
-<blockquote>
-<p>As Creative Commons has argued elsewhere, and others agree, I believe that this type of use should be protected by copyright’s fair use doctrine. In this blog post I will discuss what fair use is, what purpose it serves, and why I believe that using copyrighted works to train generative AI models should be permitted under this law. – <a href="https://creativecommons.org/2023/02/17/fair-use-training-generative-ai/">Fair Use: Training Generative AI</a></p>
-</blockquote>
-
-<p>I guess I don&rsquo;t mind that blog post. For one, Fair Use is a very USA thing and I don&rsquo;t live there. Furthermore, the CC licenses don&rsquo;t say &ldquo;this material is fine for AI training&rdquo; – so whether this is fine or not will be decided by the courts. I would only worry if CC turns out to be working on a version 5 of their licenses with an explicit exception for AI training. And even then, we can keep on using version 4 of the license. There is no automatic upgrade option.</p>
-
-<p>This is why I feel fine.</p>
-
-<p>Imagine the Dude from The Big Lebowski saying, &ldquo;Yeah, well, that&rsquo;s just, like, their opinion…&rdquo;</p>
-
-<p>It doesn&rsquo;t look as if CC will be changing the license. The courts still get to decide. If the courts decide in favour of free-for-all AI training, then rich people win for the moment. But even then, we can still nationalise their businesses, or prohibit AI training, or raise prices on electricity and water. The fight isn&rsquo;t over. Not by a long shot.</p>
-
-<p>Maybe this is a thing with lawyers. We trust people who share our values and we’d trust somebody when they write something along the lines of “AI training is terrible and AI use is dubious but what can you do, it’s in the hand of the courts, we certainly don’t support it.” But lawyers trust other lawyers who say “we’ll see what the courts say but our understanding is that nobody should stop AI training because that’s the trade-off copyright makes and we support people and corporations exercising their rights.”</p>
-
-<p>The apparent moral support on copyright grounds is revolting, but this approach seems typical to me. They say: The point of the law is this or that. We say: The result of these actions is bad for society and bad for the climate. They are externalising all the costs. The artists and authors who want to produce new works are losing their jobs. The people double-checking the computers and their training are burning out. The communities where these corporations build their computing centres suffer from water scarcity because the water is used to cool the computers. The countries where these corporations build their computing centres need to build more power plants because so much electricity is required to train their models. The move to renewable energies is delayed. Phasing out nuclear power is delayed and more radioactive waste ends up on our lands.</p>
-
-<blockquote>
-<p>Sending this message was important to us. We considered ourselves to be a powerful culture.
-This place is not a place of honor&hellip; no highly esteemed deed is commemorated here&hellip; nothing valued is here.
-– <a href="https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages">Long-term nuclear waste warning messages</a></p>
-</blockquote>
-
-<p>And what for? The people who are looking for answers get served bullshit slop that&rsquo;s wrong and hurtful and racist and misogynist. We see this in customer service degrading, in search engines degrading, in websites degrading. The corporations don&rsquo;t mind that they&rsquo;re feeding us slop as long as they are making money.</p>
-
-<p>We are enabling this because these corporations are powerful and rich. They buy our politicians with money and promises of jobs, they don&rsquo;t pay the taxes they ought to pay and then they don&rsquo;t deliver on the jobs, and the jobs they offer are menial and subservient when we&rsquo;d prefer to be creative and free. We thought we&rsquo;d be writing and painting all day while the machines serve us but we end up serving them while they do the writing and painting, badly!</p>
-
-<p>It&rsquo;s hard to defend against these corporations because the knowledge required to defeat them is not known to us all. We don&rsquo;t read about it in the media. Instead, they volunteer for all the posts, offer their experts, pay for their own research, write their own glowing press releases and commission promising reports. This is how regulatory capture works.</p>
-
-<p>So yes, we should nationalise them, regulate them, force them to pay for the true cost of resources they use, outlaw their energy waste, force them to label their output, shun them. We should kick them from our company. Like a creeping disease their rot spreads, destroying the technology we built, the search engines, databases, websites, turning it all into AI slop. It is revolting.</p>
-
-<p>And maybe copyright is not the right tool to stop corporations from training their machines on our works. But in the big picture, they are still wrong.</p>
-
-<p><a class="account" href="https://social.coop/@eloquence" title="@eloquence@social.coop">@eloquence</a> says:</p>
-
-<blockquote>
-<p>The folks who are calling such training &ldquo;theft&rdquo; might regret what they seem to be implicitly asking for, i.e. much stricter copyright. Copyright law won&rsquo;t prevent Microsoft, Google, OpenAI or Adobe from making shady licensing deals, but they&rsquo;ll prevent the free/open community from keeping up.</p>
-</blockquote>
-
-<p>It&rsquo;s true, I don&rsquo;t want to ask for stricter copyright. But I still oppose all the things that are wrong with the current AI bubble.</p>
-
-<p><a class="account" href="https://mastodon.social/@mcc" title="@mcc@mastodon.social">@mcc</a> recently wrote about a similar thing: We use free software licenses in order to distribute our software for the benefit of our fellow humans but not necessarily to train the machines of corporations that are responsible for all the slop.</p>
-
-<blockquote>
-<p>Like, heck, how am I <em>supposed</em> to rely on my code getting preserved after I lose interest, I die, BitBucket deletes every bit of Mercurial-hosted content it ever hosted, etc? Am I supposed to rely on <em>Microsoft</em> to responsibly preserve my work? Holy crud no.
-We <em>want</em> people to want their code widely mirrored and distributed. That was the reason for the licenses. That was the social contract. But if machine learning means the social contract is dead, why would people want their code mirrored? – <a href="https://mastodon.social/@mcc/112209218607258564">mmc</a></p>
-</blockquote>
-
-<p>We&rsquo;re using copyright to keep the software free. If AI regurgitating our software from its impenetrable memories circumvents copyright it also circumvents our licenses and therefore pulls the claws and teeth free software has to fight for its freedom.</p>
-
-<p>This is why opposing the current AI bubble is important. No matter how I look at it, the big picture shows that this kind of AI is our enemy.</p>
-
-<p>This is why we continue fighting all the negatives these corporations bring to the table. And if it turns out that their business model doesn&rsquo;t work unless they bring all these negatives to the table, then I guess that&rsquo;s just that. We are under no obligation to support their business model. In fact, it is our right and our duty to regulate the world in order to improve it for all of us. We&rsquo;ve been doing it for a very long time.</p>
-
-<p>Here&rsquo;s to hoping for the next AI winter.</p>
-
-<blockquote>
-<p>In the history of artificial intelligence, an AI winter is a period of reduced funding and interest in artificial intelligence research. The field has experienced several hype cycles, followed by disappointment and criticism, followed by funding cuts, followed by renewed interest years or even decades later. – <a href="https://en.wikipedia.org/wiki/AI_winter">AI winter</a></p>
-</blockquote>
-
-<p><a class="tag" href="/search/?q=%23Copyright">#Copyright</a> <a class="tag" href="/search/?q=%23Artificial_Intelligence">#Artificial Intelligence</a></p> 
-
-<https://alexschroeder.ch/view/2024-05-09-ai-copyright>
-
----
-
 ## Taste requires intentional attention
 
 date: 2024-05-09, from: Tracy Durnell Blog
@@ -784,6 +1081,15 @@ date: 2024-05-08, from: Anton Zhiyanov blog
 Build your own document database with SQLite. 
 
 <https://antonz.org/sqlite-generated-columns/>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-05-08, from: Jessica Smith's blog)
+
+<p>Gidget is eight years old (approaching nine!) and TODAY she suddenly realised what scratching posts are for. She&rsquo;s been going nuts today sharpening her claws on the posts in her cat tower, instead of 100% of the time on the bed. Who said an old cat can&rsquo;t learn new tricks? 😅</p>
+<img src="https://www.jayeless.net/media/2024/05/gidget-scratching-post.jpeg" alt="A tabby cat sharpening her claws on a scratching post that forms part of a cat tower (with clothes piled on it)" class="u-photo"> 
+
+<https://www.jayeless.net/2024/05/gidget-noticed-scratching-posts.html>
 
 ---
 
@@ -1577,6 +1883,15 @@ date: 2024-05-05, from: Dan Rather's Steady
 A Reason To Smile 
 
 <https://steady.substack.com/p/blackbird-996>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-05-05, from: Jessica Smith's blog)
+
+<p>On our way home from our regular beach walk, Gizmo saw a cat! Actually he didn&rsquo;t see her at first, and was just like, &ldquo;wtf humans, why did you stop?&rdquo; But then the cat meowed, and Gizmo very sweetly put his paws on the brick wall and looked up in hope 😆 The cat didn&rsquo;t actually jump down to become his friend, but she didn&rsquo;t run away either – that&rsquo;s something!</p>
+<img src="https://www.jayeless.net/media/2024/05/mimi-the-cat.jpeg" alt="A long-haired tabby cat on top of a brick fence, peering anxiously down at something on the ground" class="u-photo"> 
+
+<https://www.jayeless.net/2024/05/gizmo-saw-a-new-cat.html>
 
 ---
 
