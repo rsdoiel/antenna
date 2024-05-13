@@ -1,9 +1,9 @@
 ---
-title: journalism 2024.19
-updated: 2024-05-10 15:45:53
+title: journalism 2024.20
+updated: 2024-05-13 08:30:46
 ---
 
-# journalism 2024.19
+# journalism 2024.20
 
-(date: 2024-05-10 15:45:53)
+(date: 2024-05-13 08:30:46)
 
