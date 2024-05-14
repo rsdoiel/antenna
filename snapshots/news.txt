@@ -414,6 +414,7 @@ https://xeiaso.net/blog.rss "~Ze Iaso's blog"
 # Operating Systems
 https://reactos.org/index.xml "~ReactOS News"
 https://www.redox-os.org/news/index.xml "~Redox OS News"
+https://progtools.org/rss.php "~Programmer's Toolbox (Paolo Pinto's blog)"
 
 # theology and comp sci
 
