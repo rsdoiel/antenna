@@ -1,11 +1,71 @@
 ---
 title: health 2024.20
-updated: 2024-05-13 08:30:46
+updated: 2024-05-14 08:31:13
 ---
 
 # health 2024.20
 
-(date: 2024-05-13 08:30:46)
+(date: 2024-05-14 08:31:13)
+
+---
+
+## Identification and characterization of the capsule depolymerase Dpo27 from phage IME-Ap7 specific to Acinetobacter pittii
+
+date: 2024-05-14, from: Frontiers in Cellular and Infection Microbiology
+
+Among the Acinetobacter genus, Acinetobacter pittii stands out as an important opportunistic infection causative agent commonly found in hospital settings, which poses a serious threat to human health. Recently, the high prevalence of carbapenem-resistant A. pittii isolates has created significant therapeutic challenges for clinicians. Bacteriophages and their derived enzymes are promising therapeutic alternatives or adjuncts to antibiotics effective against multidrug-resistant bacterial infections. However, studies investigating the depolymerases specific to A. pittii strains are scarce. In this study, we identified and characterized a capsule depolymerase, Dpo27, encoded by the bacteriophage IME-Ap7, which targets A. pittii. A total of 23 clinical isolates of Acinetobacter spp. were identified as A. pittii (21.91%, 23/105), and seven A. pittii strains with various K locus (KL) types (KL14, KL32, KL38, KL111, KL163, KL207, and KL220) were used as host bacteria for phage screening. The lytic phage IME-Ap7 was isolated using A. pittii 7 (KL220) as an indicator bacterium and was observed for depolymerase activity. A putative tail fiber gene encoding a polysaccharide-degrading enzyme (Dpo27) was identified and expressed. The results of the modified single-spot assay showed that both A. pittii 7 and 1492 were sensitive to Dpo27, which was assigned the KL220 type. After incubation with Dpo27, A. pittii strain was susceptible to killing by human serum; moreover, the protein displayed no hemolytic activity against erythrocytes. Furthermore, the protein exhibited sustained activity across a wide pH range (5.0–10.0) and at temperatures between 20 and 50°C. In summary, the identified capsule depolymerase Dpo27 holds promise as an alternative treatment for combating KL220-type A. pittii infections. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1373052>
+
+---
+
+## Using host-mimicking conditions and a murine cutaneous abscess model to identify synergistic antibiotic combinations effective against Pseudomonas aeruginosa
+
+date: 2024-05-14, from: Frontiers in Cellular and Infection Microbiology
+
+Antibiotic drug combination therapy is critical for the successful treatment of infections caused by multidrug resistant pathogens. We investigated the efficacy of β-lactam and β-lactam/β-lactamase inhibitor combinations with other antibiotics, against the hypervirulent, ceftazidime/avibactam resistant Pseudomonas aeruginosa Liverpool epidemic strain (LES) B58. Although minimum inhibitory concentrations in vitro differed by up to eighty-fold between standard and host-mimicking media, combinatorial effects only marginally changed between conditions for some combinations. Effective combinations in vitro were further tested in a chronic, high-density murine infection model. Colistin and azithromycin demonstrated combinatorial effects with ceftazidime and ceftazidime/avibactam both in vitro and in vivo. Conversely, while tobramycin and tigecycline exhibited strong synergy in vitro, this effect was not observed in vivo. Our approach of using host-mimicking conditions and a sophisticated animal model to evaluate drug synergy against bacterial pathogens represents a promising approach. This methodology may offer insights into the prediction of combination therapy outcomes and the identification of potential treatment failures. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1352339>
+
+---
+
+## Sweet complexity: O-linked protein glycosylation in pathogenic Neisseria
+
+date: 2024-05-14, from: Frontiers in Cellular and Infection Microbiology
+
+The genus Neisseria, which colonizes mucosal surfaces, includes both commensal and pathogenic species that are exclusive to humans. The two pathogenic Neisseria species are closely related but cause quite different diseases, meningococcal sepsis and meningitis (Neisseria meningitidis) and sexually transmitted gonorrhea (Neisseria gonorrhoeae). Although obvious differences in bacterial niches and mechanisms for transmission exists, pathogenic Neisseria have high levels of conservation at the levels of nucleotide sequences, gene content and synteny. Species of Neisseria express broad-spectrum O-linked protein glycosylation where the glycoproteins are largely transmembrane proteins or lipoproteins localized on the cell surface or in the periplasm. There are diverse functions among the identified glycoproteins, for example type IV biogenesis proteins, proteins involved in antimicrobial resistance, as well as surface proteins that have been suggested as vaccine candidates. The most abundant glycoprotein, PilE, is the major subunit of pili which are an important colonization factor. The glycans attached can vary extensively due to phase variation of protein glycosylation (pgl) genes and polymorphic pgl gene content. The exact roles of glycosylation in Neisseria remains to be determined, but increasing evidence suggests that glycan variability can be a strategy to evade the human immune system. In addition, pathogenic and commensal Neisseria appear to have significant glycosylation differences. Here, the current knowledge and implications of protein glycosylation genes, glycan diversity, glycoproteins and immunogenicity in pathogenic Neisseria are summarized and discussed. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1407863>
+
+---
+
+## Recombinase polymerase amplification - lateral flow dipstick for rapid and visual detection of Blastocystis spp.
+
+date: 2024-05-14, from: Frontiers in Cellular and Infection Microbiology
+
+Blastocystis spp. is a ubiquitous protozoon in the intestinal tract of human and many animals. Microscopic examination is the main method of clinical diagnosis for Blastocystis spp., which is prone to false negative. A simple and rapid diagnosis of Blastocystis spp. infection is an important step to prevent and control blastocystosis. Here, a recombinase polymerase amplification-lateral flow dipstick (RPA-LFD) assay was developed for rapid visual detection of Blastocystis spp. DNA amplification could be performed within 18 min at 37°C. The minimum DNA detection limit was 1 pg/μL, and there was no cross-reactivity with 12 other non-target pathogens, which was consistent with the sensitivity of conventional PCR (cPCR). Furthermore, 56 fecal samples from the Third Affiliated Hospital of Xinxiang Medical University were tested using RPA and cPCR methods respectively, and the results were completely consistent. The results show that RPA-LFD method has high accuracy and visual results, which provides a new choice for the differential diagnosis and rapid field detection of Blastocystis spp. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1391943>
+
+---
+
+## Cytosolic DNA sensors activation of human astrocytes inhibits herpes simplex virus through IRF1 induction
+
+date: 2024-05-14, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionWhile astrocytes participate in the CNS innate immunity against herpes simplex virus type 1 (HSV-1) infection, they are the major target for the virus. Therefore, it is of importance to understand the interplay between the astrocyte-mediated immunity and HSV-1 infection.MethodsBoth primary human astrocytes and the astrocyte line (U373) were used in this study. RT-qPCR and Western blot assay were used to measure IFNs, the antiviral IFN-stimulated genes (ISGs), IFN regulatory factors (IRFs) and HSV-1 DNA. IRF1 knockout or knockdown was performed with CRISPR/Cas9 and siRNA transfection techniques.ResultsPoly(dA:dT) could inhibit HSV-1 replication and induce IFN-β/IFN-λs production in human astrocytes. Poly(dA:dT) treatment of astrocytes also induced the expression of the antiviral ISGs  (Viperin, ISG56 and MxA). Among IRFs members examined, poly(dA:dT) selectively unregulated IRF1 and IRF9, particularly IRF1 in human astrocytes. The inductive effects of poly(dA:dT) on IFNs and ISGs were diminished in the IRF1 knockout cells. In addition, IRF1 knockout attenuated poly(dA:dT)-mediated HSV-1 inhibition in the cells.ConclusionThe DNA sensors activation induces astrocyte intracellular innate immunity against HSV-1. Therefore, targeting the DNA sensors has potential for immune activation-based HSV-1 therapy. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1383811>
+
+---
+
+## Characterization of Neisseria gonorrhoeae colonization of macrophages under distinct polarization states and nutrients environment
+
+date: 2024-05-14, from: Frontiers in Cellular and Infection Microbiology
+
+Neisseria gonorrhoeae (Ng) is a uniquely adapted human pathogen and the etiological agent of gonorrhea, a sexually transmitted disease. Ng has developed numerous mechanisms to avoid and actively suppress innate and adaptive immune responses. Ng successfully colonizes and establishes topologically distinct colonies in human macrophages and avoids phagocytic killing. During colonization, Ng manipulates the actin cytoskeleton to invade and create an intracellular niche supportive of bacterial replication. The cellular reservoir(s) supporting bacterial replication and persistence in gonorrhea infections are poorly defined. The manner in which gonococci colonize macrophages points to this innate immune phagocyte as a strong candidate for a cellular niche during natural infection. Here we investigate whether nutrients availability and immunological polarization alter macrophage colonization by Ng. Differentiation of macrophages in pro-inflammatory (M1-like) and tolerogenic (M2-like) phenotypes prior to infection reveals that Ng can invade macrophages in all activation states, albeit with lower efficiency in M1-like macrophages. These results suggest that during natural infection, bacteria could invade and grow within macrophages regardless of the nutrients availability and the macrophage immune activation status. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1384611>
 
 ---
 

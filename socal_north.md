@@ -1,11 +1,709 @@
 ---
 title: socal north 2024.20
-updated: 2024-05-13 08:30:46
+updated: 2024-05-14 08:31:12
 ---
 
 # socal north 2024.20
 
-(date: 2024-05-13 08:30:46)
+(date: 2024-05-14 08:31:12)
+
+---
+
+## Red Lobster cierra unos 48 locales mientras considera declararse en quiebra
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Los locales que cerrarán están ubicados en Orlando, Jacksonville y Buffalo, se está llevando a cabo una subasta del inventario de estos restaurantes desde el lunes hasta el jueves de esta semana  
+
+<https://laopinion.com/2024/05/14/red-lobster-cierra-unos-48-locales-mientras-considera-declararse-en-quiebra/>
+
+---
+
+## El hijo de “El Mencho” rechaza último acuerdo con EE.UU. e irá a juicio por narcotráfico
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Rubén Oseguera González, alias "El Menchito" y quien llegó a ser considerado el segundo al mando del CJNG, podría enfrentar cadena perpetua tras rechazar un último acuerdo de culpabilidad con EE.UU. 
+
+<https://laopinion.com/2024/05/14/el-hijo-de-el-mencho-rechaza-ultimo-acuerdo-con-ee-uu-e-ira-a-juicio-por-narcotrafico/>
+
+---
+
+## Maripily Rivera se le va a la yugular a Aleska Génesis: “Hipócrita”
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Las participantes de “La Casa de los Famosos 4”, Aleska Génesis y Maripily Rivera, se enfrascaron en un intercambio de palabras en el que la boricua tachó de doble cara a la ex reina de belleza. Aquí te contamos lo que se sabe hasta el momento 
+
+<https://laopinion.com/2024/05/14/maripily-rivera-se-le-va-a-la-yugular-a-aleska-genesis-hipocrita/>
+
+---
+
+## FIB ordena a Canelo Álvarez defender sus títulos contra el cubano William Scull a continuación
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Si Canelo Álvarez no quiere perder su título de indiscutido deberá aceptar el duelo contra William Scull, un oponente que no es conocido en Estados Unidos, y de no hacerlo tendrá que dejar vacante la faja del organismo 
+
+<https://laopinion.com/2024/05/14/fib-ordena-a-canelo-alvarez-defender-sus-titulos-contra-el-cubano-william-scull-a-continuacion/>
+
+---
+
+## Yuri advierte que su gira con Cristian Castro podría estar en riesgo
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Yuri comentó que no sabe qué pasará en los próximos conciertos que dé al lado de Cristian Castro, debido a la reciente reconciliación de éste con Mariela Sánchez; ella asegura que la actitud del cantante en el escenario cuando tiene novia es distinta 
+
+<https://laopinion.com/2024/05/14/yuri-advierte-que-su-gira-con-cristian-castro-podria-estar-en-riesgo/>
+
+---
+
+## Sergio Ramos está cada vez más cerca de la MLS
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Al terminar su contrato con el Sevilla, Sergio Ramos emprendería una nueva aventura en Estados Unidos. San Diego FC sería el club con el que tendría conversaciones avanzadas con el español 
+
+<https://laopinion.com/2024/05/14/sergio-ramos-esta-cada-vez-mas-cerca-de-la-mls/>
+
+---
+
+## Zelenski pide a Blinken dos sistemas Patriot adicionales para defender Járkov de la ofensiva rusa
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+El presidente de Ucrania pidió al secretario de Estado de EE. UU. que Washington envíe dos sistemas de misiles Patriot adicionales que permitan defender la región nororiental de Járkov, atacada por Rusia. 
+
+<https://laopinion.com/2024/05/14/zelenski-pide-a-blinken-dos-sistemas-patriot-adicionales-para-defender-jarkov/>
+
+---
+
+## Mujeres latinas enfrentan creciente acoso, presión social y discriminación, reporta el Pew
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Más de la mitad de las latinas dicen que a menudo se sienten presionadas a mantener a sus seres queridos en casa y tener éxito en sus trabajos, reflejando los factores estresantes de la vida que experimentan las mujeres en todo Estados Unidos 
+
+<https://laopinion.com/2024/05/14/mujeres-latinas-un-genero-que-enfrenta-un-creciente-acoso-presion-y-discriminacion/>
+
+---
+
+## El récord imbatible de Radamel Falcao que ni Cristiano Ronaldo o Lionel Messi han podido romper
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+El delantero colombiano, Radamel Falcao, hizo historia con el Porto de Portugal en la edición 2010-2011 de la UEFA Europa League, donde fue campeón tras vencer a Sporting Braga
+ 
+
+<https://laopinion.com/2024/05/14/el-record-imbatible-de-radamel-falcao-que-ni-cristiano-ronaldo-o-lionel-messi-han-podido-romper/>
+
+---
+
+## En vivo: exabogado de Trump, Michael Cohen, revela más detalles sobre dinero secreto pagado a Stormy Daniels
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Michael Cohen, exabogado personal de Donald Trump, continúa dando testimonio como el testigo estrella del juicio a su exjefe por el pago secreto a la estrella porno Stormy Daniels 
+
+<https://laopinion.com/2024/05/14/en-vivo-exabogado-de-trump-michael-cohen-revela-mas-detalles-sobre-dinero-secreto-pagado-a-stormy-daniels/>
+
+---
+
+## “Me da alivio decir que me gustaría que mi hijo se muriera unos minutos antes que yo”: el honesto relato de la madre de un joven con autismo
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Ximena Agrelo es una madre argentina a la que le preocupa qué sucederá con su hijo autista una vez que ella ya no esté. 
+
+<https://laopinion.com/2024/05/14/suena-muy-duro-pero-me-da-alivio-decir-que-me-gustaria-que-mi-hijo-se-muriera-unos-minutos-antes-que-yo-el-honesto-relato-de-la-madre-de-un-joven-con-autismo/>
+
+---
+
+## El hombre que lanza botellas llenas de arroz al mar desde Corea del Sur para salvar vidas en Corea del Norte
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Desertores norcoreanos llevan años arrojando al mar botellas que contienen arroz, memorias USB, una copia de la Biblia y billetes de un dólar. 
+
+<https://laopinion.com/2024/05/14/el-hombre-que-lanza-botellas-llenas-de-arroz-al-mar-desde-corea-del-sur-para-salvar-vidas-en-corea-del-norte/>
+
+---
+
+## Mhoni Vidente revela el club que podría ganar la Liga MX
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+El fútbol mexicano está en su etapa de semifinales. Cuatro equipos luchan por el Clausura 2024. Mhoni Vidente se adelantó al partido final y dio a su campeón del torneo 
+
+<https://laopinion.com/2024/05/14/mhoni-vidente-revela-el-club-que-podria-ganar-la-liga-mx/>
+
+---
+
+## Vitor Roque, el fichaje que llegó a Barcelona para cambiar la dinámica y ahora su futuro es incierto
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+El joven brasileño, Vitor Roque, llegó al club blaugrana en el mercado de fichajes de invierno de esta temporada, pero no ha gozado de una gran cantidad de minutos
+ 
+
+<https://laopinion.com/2024/05/14/vitor-roque-el-fichaje-que-llego-a-barcelona-para-cambiar-la-dinamica-y-ahora-su-futuro-es-incierto/>
+
+---
+
+## Austin: el tiempo para hoy martes 14 de mayo
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Encuentra el pronóstico meteorológico de hoy para Austin, Texas, cómo estará el tiempo y las condiciones climáticas este martes 14 de mayo. 
+
+<https://laopinion.com/2024/05/14/austin-el-tiempo-para-hoy-martes-14-de-mayo/>
+
+---
+
+## San Antonio, Texas: pronóstico del tiempo para este martes 14 de mayo
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Conoce el pronóstico del tiempo en San Antonio, Texas, para hoy martes 14 de mayo para evitar sufrir los cambios en el clima 
+
+<https://laopinion.com/2024/05/14/san-antonio-texas-pronostico-del-tiempo-para-este-martes-14-de-mayo/>
+
+---
+
+## Pronóstico del clima en Dallas, Texas para este martes 14 de mayo
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Encuentra el pronóstico meteorológico de hoy para Dallas, Texas, cómo estará el tiempo y las condiciones climáticas este martes 14 de mayo. 
+
+<https://laopinion.com/2024/05/14/pronostico-del-clima-en-dallas-texas-para-este-martes-14-de-mayo/>
+
+---
+
+## Houston: el tiempo para hoy martes 14 de mayo
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Conoce cómo estará el tiempo en Houston, Texas, para hoy martes 14 de mayo. Antes de salir de tu casa, descubre el pronóstico meteorológico y las condiciones climáticas más relevantes para este día. 
+
+<https://laopinion.com/2024/05/14/houston-el-tiempo-para-hoy-martes-14-de-mayo/>
+
+---
+
+## Los Ángeles: pronóstico del tiempo para este martes 14 de mayo
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Conoce el pronóstico del tiempo en Los Ángeles, para hoy martes 14 de mayo para evitar sufrir los cambios en el clima 
+
+<https://laopinion.com/2024/05/14/los-angeles-pronostico-del-tiempo-para-este-martes-14-de-mayo/>
+
+---
+
+## El tiempo de hoy en Miami para este martes 14 de mayo
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Conoce cómo estará el tiempo en Miami, Florida, para hoy martes 14 de mayo. Antes de salir de tu casa, descubre el pronóstico meteorológico y las condiciones climáticas más relevantes para este día. 
+
+<https://laopinion.com/2024/05/14/el-tiempo-de-hoy-en-miami-para-este-martes-14-de-mayo/>
+
+---
+
+## Federación de Costa Rica espera que Keylor Navas acepte ir a la Copa América: “Es muy importante que esté en el arco”
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Claudio Vivas, presidente de la Federación Costarricense de Fútbol, dijo que espera que Navas pueda defender el arco tico en el torneo continental, pero recalcó que será una decisión del guardameta 
+
+<https://laopinion.com/2024/05/14/federacion-de-costa-rica-espera-que-keylor-navas-acepte-ir-a-la-copa-america-es-muy-importante-que-este-en-el-arco/>
+
+---
+
+## Biden aumenta aranceles a productos de China, incluidos autos eléctricos, acero y algunos medicamentos
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+La Administración Biden anunció el incremento de tarifas aduanales a varios productos originarios de China, incluidos vehículos eléctricos, baterías, semiconductores y alguos equipos de uso médico 
+
+<https://laopinion.com/2024/05/14/biden-aumenta-aranceles-a-productos-de-china-incluidos-autos-electricos-acero-y-algunos-medicamentos/>
+
+---
+
+## Horóscopo de hoy de Nana Calistar 14 de mayo de 2024
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Nana Calistar nos da sus predicciones para los 12 signos del Zodiaco en su horóscopo diario. Chequea lo que deparan los astros para ti este 14 de mayo de 2024 
+
+<https://laopinion.com/2024/05/14/horoscopo-de-hoy-de-nana-calistar-14-de-mayo-de-2024/>
+
+---
+
+## Inicia la carrera de Caitlin Clark en la WNBA y con ella llegan los vuelos chárter a la liga
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Caitlin Clark, autora de unos 45 récords en el baloncesto colegial con la Universidad de Iowa, hace su debut profesional con el Indiana Fever, esto al mismo tiempo que la WNBA implementa vuelos chárter para todos los partidos en un paso que es considerado innovador y necesario 
+
+<https://laopinion.com/2024/05/14/inicia-la-carrera-de-caitlin-clark-en-la-wnba-y-con-ella-llegan-los-vuelos-charter-a-la-liga/>
+
+---
+
+## De Guatemala a Gaza
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Lo que Israel hace con Palestina es el holocausto del siglo XXI 
+
+<https://laopinion.com/2024/05/14/de-guatemala-a-gaza/>
+
+---
+
+## Escándalo de agresión sexual en Rosemead High School
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Tres exalumnas denuncian abuso sexual de tres maestros que nunca fueron acusados con la policía; piden al Departamento de Justicia de California y del Departamento de Educación de los Estados Unidos que investigue el caso 
+
+<https://laopinion.com/2024/05/14/escandalo-de-agresion-sexual-en-la-secundaria-rosemead-high-school/>
+
+---
+
+## Horóscopo de hoy de Mhoni Vidente, 14 de mayo de 2024
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Mhoni Vidente es una reconocida vidente, astróloga y clarividente famosa por sus acertadas predicciones y análisis en el ámbito del horóscopo, astrología y eventos mundiales. Descubre sus pronósticos y consejos sobre amor, salud, trabajo y más
+ 
+
+<https://laopinion.com/2024/05/14/horoscopo-de-hoy-de-mhoni-vidente-14-de-mayo-de-2024/>
+
+---
+
+## El secretario de Estado, Antony Blinken, llega a Ucrania para reiterar “apoyo duradero”
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+El Secretario de Estado de Estados Unidos, Antony Blinken, llegó a Kiev, lo que marcó la primera visita de un funcionario de la administración Biden a Ucrania luego de la demorada aprobación de fondos para la guerra 
+
+<https://laopinion.com/2024/05/14/el-secretario-de-estado-antony-blinken-llega-a-ucrania-para-reiterar-apoyo-duradero/>
+
+---
+
+## UC San Diego outlasts CSUN baseball in a 10-inning thriller
+
+date: 2024-05-14, from: The Sundail (CSUN Student Newspaper)
+
+In a high-scoring contest on Friday afternoon, UC San Diego emerged victorious over the Matadors 11-5 after a dramatic extra-innings battle. The game was evenly poised until the 10th inning,... 
+
+<https://sundial.csun.edu/181902/sports/uc-san-diego-outlasts-csun-baseball-in-a-10-inning-thriller/>
+
+---
+
+## USAC general representative candidate allegedly suggested destruction of encampment
+
+date: 2024-05-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+In a recording sent to a UCLA political science students’ GroupMe, a person claiming to be a candidate for the Undergraduate Students Association Council suggested bulldozing the Palestine solidarity encampment and shooting its participants. 
+
+<https://dailybruin.com/2024/05/13/usac-general-representative-candidate-allegedly-suggested-destruction-of-encampment/>
+
+---
+
+## Resultados Lotería Nacional de México: números premiados de hoy lunes, 13 de mayo de 2024
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Echa un vistazo a los resultados en vivo de hoy lunes, 13 de mayo de 2024 de la lotería de México. Descubre los números premiados de los sorteos de Chispazo y Tris. 
+
+<https://laopinion.com/2024/05/14/resultados-loteria-nacional-de-mexico-numeros-premiados-de-hoy-lunes-13-de-mayo-de-2024/>
+
+---
+
+## Gabriela Jaquez becomes dual athlete, joins softball roster ahead of NCAA regional
+
+date: 2024-05-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+From Pauley Pavilion to Easton Stadium, a new face has entered the fray.
+UCLA softball made a last-minute addition to its roster Monday ahead of the NCAA Los Angeles Regional on Friday: sophomore utility – and forward – Gabriela Jaquez. 
+
+<https://dailybruin.com/2024/05/13/gabriela-jaquez-becomes-dual-athlete-joins-softball-roster-ahead-of-ncaa-regional/>
+
+---
+
+## Horóscopo de hoy para Piscis del 14 mayo de 2024
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Piscis. Conoce las predicciones astrológicas del 14 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/14/horoscopo-de-hoy-para-piscis-del-14-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Acuario del 14 mayo de 2024
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Acuario. Conoce las predicciones astrológicas del 14 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/14/horoscopo-de-hoy-para-acuario-del-14-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Capricornio del 14 mayo de 2024
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Capricornio. Conoce las predicciones astrológicas del 14 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/14/horoscopo-de-hoy-para-capricornio-del-14-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Sagitario del 14 mayo de 2024
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Sagitario. Conoce las predicciones astrológicas del 14 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/14/horoscopo-de-hoy-para-sagitario-del-14-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Escorpio del 14 mayo de 2024
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Escorpio. Conoce las predicciones astrológicas del 14 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/14/horoscopo-de-hoy-para-escorpio-del-14-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Libra del 14 mayo de 2024
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Libra. Conoce las predicciones astrológicas del 14 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/14/horoscopo-de-hoy-para-libra-del-14-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Virgo del 14 mayo de 2024
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Virgo. Conoce las predicciones astrológicas del 14 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/14/horoscopo-de-hoy-para-virgo-del-14-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Leo del 14 mayo de 2024
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Leo. Conoce las predicciones astrológicas del 14 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/14/horoscopo-de-hoy-para-leo-del-14-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Cáncer del 14 mayo de 2024
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Cáncer. Conoce las predicciones astrológicas del 14 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/14/horoscopo-de-hoy-para-cancer-del-14-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Géminis del 14 mayo de 2024
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Géminis. Conoce las predicciones astrológicas del 14 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/14/horoscopo-de-hoy-para-geminis-del-14-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Tauro del 14 mayo de 2024
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Tauro. Conoce las predicciones astrológicas del 14 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/14/horoscopo-de-hoy-para-tauro-del-14-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Aries del 14 mayo de 2024
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Aries. Conoce las predicciones astrológicas del 14 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/14/horoscopo-de-hoy-para-aries-del-14-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy de El Niño Prodigio 14 mayo de 2024
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+El Niño Prodigio nos da sus predicciones para los 12 signos del Zodiaco en su horóscopo del 14 mayo de 2024. Chequea lo que deparan los astros para ti 
+
+<https://laopinion.com/2024/05/14/horoscopo-de-hoy-de-el-nino-prodigio-14-mayo-de-2024/>
+
+---
+
+## ¿Quién fue el eliminado este lunes 13 de mayo de La Casa de los Famosos 4?
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+José Reyes ‘La Melaza’ se convirtió en el último eliminado de la cuarta temporada  
+
+<https://laopinion.com/2024/05/13/quien-fue-el-eliminado-este-lunes-13-de-mayo-de-la-casa-de-los-famosos-4/>
+
+---
+
+## Powerball: números ganadores en vivo del sorteo hoy lunes 13 de mayo de 2024, con premio de $37 millones de dólares
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Mira los números premiados del sorteo de Powerball de hoy lunes 13 de mayo. Descubre si eres el ganador del premio mayor de $37 millones de dólares. 
+
+<https://laopinion.com/2024/05/13/powerball-numeros-ganadores-en-vivo-del-sorteo-hoy-lunes-13-de-mayo-de-2024-con-premio-de-37-millones-de-dolares/>
+
+---
+
+## Powerball Double Play: números ganadores en vivo del sorteo hoy lunes 13 de mayo de 2024, con premio de $10 millones de dólares
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Mira los números premiados del sorteo de Powerball Double Play de hoy lunes 13 de mayo. Descubre si eres la persona que disfrutará del premio mayor de $10 millones de dólares. 
+
+<https://laopinion.com/2024/05/13/powerball-double-play-numeros-ganadores-en-vivo-del-sorteo-hoy-lunes-13-de-mayo-de-2024-con-premio-de-10-millones-de-dolares/>
+
+---
+
+## Especialistas detonan una parte del accidentado puente de Baltimore
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+El tramo del puente Francis Scott Key que estaba encima del portacontenedores que lo derribó en marzo fue eliminado con una explosión de cargas de precisión 
+
+<https://laopinion.com/2024/05/13/especialistas-detonan-una-parte-del-accidentado-puente-de-baltimore/>
+
+---
+
+## Ana Bárbara ratifica la denuncia en contra de su hermano Francisco Ugalde
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+El abogado de Ana Bárbara dio a conocer que ya está en marcha el proceso legal en contra del hermano de la cantante, por los delitos de violencia familiar y amenazas; las medidas de protección para ella y su pareja Ángel Muñoz son por 60 días naturales 
+
+<https://laopinion.com/2024/05/13/ana-barbara-ratifica-la-denuncia-en-contra-de-su-hermano-francisco-ugalde/>
+
+---
+
+## Cuán seguro es consumir leche de vaca y qué se sabe sobre la presencia de gripe aviar en el ganado en EE.UU.
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+La gripe aviar se ha detectado ampliamente en productos lácteos pasteurizados en Estados Unidos. Preguntamos a los expertos sobre la seguridad de beber leche cruda y pasteurizada. 
+
+<https://laopinion.com/2024/05/13/cuan-seguro-es-consumir-leche-de-vaca-y-que-se-sabe-sobre-la-presencia-de-gripe-aviar-en-el-ganado-en-ee-uu/>
+
+---
+
+## Community members share traits they want to see in new LAPD police chief
+
+date: 2024-05-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Community members highlighted issues they want to see addressed by the next LAPD police chief during a webinar Tuesday. 
+The webinar &#8211; co-hosted by District 5 Councilmember Katy Yaroslavsky and the Los Angeles Board of Police Commissioners on Tuesday evening &#8211; allowed participants to share complaints surrounding officers, including slow response times. 
+
+<https://dailybruin.com/2024/05/13/community-members-share-traits-they-want-to-see-in-new-lapd-police-chief/>
+
+---
+
+## Esta es la manera en la que Apple planea llevar la IA a los iPhone
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Apple ya tiene lista cómo será su estrategia para integrar la Inteligencia Artificial en sus iPhones y la clave podría estar en los nuevos chips M4
+ 
+
+<https://laopinion.com/2024/05/13/esta-es-la-manera-en-la-que-apple-planea-llevar-la-ia-a-los-iphone/>
+
+---
+
+## Code Red: Episode 3
+
+date: 2024-05-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the final episode of Code Red, Podcasts contributors Zo&#235; Bordes and Alicia Ying sit down with UCLA professors Sarah Roberts and Stuart Soroka to get their perspective on the causes and consequences of online extremism. 
+
+<https://dailybruin.com/2024/05/13/code-red-episode-3/>
+
+---
+
+## Bruin to Bruin: Charlie Kratus
+
+date: 2024-05-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Good Morning UCLA host Charlie Kratus joins Podcasts contributor Aidan Teeger to discuss his popular Instagram account, his initiative to help unhoused people in Westwood and advice for UCLA students. 
+
+<https://dailybruin.com/2024/05/13/bruin-to-bruin-charlie-kratus/>
+
+---
+
+## Clovis Nienow: “Ahora que estoy afuera, estoy viendo el doble juego de Aleska”
+
+date: 2024-05-14, from: La Opinion (Los Angeles)
+
+Durante su estancia en La Casa de los Famosos 4, Clovis Nienow se caracterizó por su interés amoroso con la venezolana 
+ 
+
+<https://laopinion.com/2024/05/13/clovis-nienow-ahora-que-estoy-afuera-estoy-viendo-el-doble-juego-de-aleska/>
+
+---
+
+## Stop the silencing: Let student voices be heard
+
+date: 2024-05-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Former USC Valedictorians condemn the administration’s repression of free speech on campus and call for a public apology to Asna Tabassum.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/13/stop-the-silencing-let-student-voices-be-heard/">Stop the silencing: Let student voices be heard</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/13/stop-the-silencing-let-student-voices-be-heard/>
+
+---
+
+## Student Alumni Association, Alumni Association announce Spring Sing cancellation
+
+date: 2024-05-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+The 2024 Spring Sing performance is canceled.&#160;
+The Student Alumni Association’s annual event was slated to take place May 17 at the Los Angeles Tennis Center. 
+
+<https://dailybruin.com/2024/05/13/student-alumni-association-alumni-association-announce-spring-sing-cancellation/>
+
+---
+
+## USAC Recap – May 7
+
+date: 2024-05-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its first meeting of May virtually Tuesday.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<https://dailybruin.com/2024/05/13/usac-recap-may-7-3/>
+
+---
+
+## Biden passes $12.2 million in federal funds to support five CSU campuses
+
+date: 2024-05-13, from: The Sundail (CSUN Student Newspaper)
+
+Members of Congress passed a federal funding package signed by President Joe Biden that will sponsor five different California State University (CSU) campuses, per the new “minibus” package. The package... 
+
+<https://sundial.csun.edu/181896/news/biden-passes-12-2-million-in-federal-funds-to-support-five-csu-campuses/>
+
+---
+
+## Winner Takes All: 2024 Met Gala attendees nail the ‘Garden of Time’ theme, stun in memorable looks
+
+date: 2024-05-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+The 2024 Met Gala allowed celebrities to embark on a journey once upon a dream.
+Returning to the Metropolitan Museum of Art, fashion’s most glamorous fundraiser was in full bloom last Monday. 
+
+<https://dailybruin.com/2024/05/13/winner-takes-all-2024-met-gala-attendees-nail-the-garden-of-time-theme-stun-in-memorable-looks/>
+
+---
+
+## Two UCLA women’s tennis freshmen find success in singles and doubles matches
+
+date: 2024-05-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Every freshman has started singles matches during their first season in Westwood since 2021.
+Yet, not every recent freshman has clinched NCAA tournament matches.
+But this season, both of UCLA women’s tennis’ consistent starting freshmen – Bianca Fernandez and Ahmani Guichard – have clinched a match in the NCAA championships after settling into their spots on court three and court six, respectively. 
+
+<https://dailybruin.com/2024/05/13/two-ucla-womens-tennis-freshmen-find-success-in-singles-and-doubles-matches/>
+
+---
+
+## Grab Your Popcorn and Get Excited for the Return of City Cinemas!
+
+date: 2024-05-13, from: City of Santa Clarita
+
+<p>Experience the Magic of Cinema with FREE Movie Screenings Kicking Off in July Get ready for an unforgettable cinematic experience under the stars with your family and friends, all for FREE starting this summer at various parks and facilities throughout Santa Clarita! City Cinemas, presented by Henry Rodriguez State Farm, is back in 2024 once [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/05/13/grab-your-popcorn-and-get-excited-for-the-return-of-city-cinemas/">Grab Your Popcorn and Get Excited for the Return of City Cinemas!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/05/13/grab-your-popcorn-and-get-excited-for-the-return-of-city-cinemas/>
+
+---
+
+## Best coffee shops around LA for doing homework
+
+date: 2024-05-13, from: The Sundail (CSUN Student Newspaper)
+
+Looking for a place off campus that offers a quiet space to work? Want a change of environment from your desk? Then try these coffee shops for your next homework... 
+
+<https://sundial.csun.edu/181892/arts-entertainment/best-coffee-shops-around-la-for-doing-homework/>
+
+---
+
+## Staff Highlight: The students who make the Sundial possible
+
+date: 2024-05-13, from: The Sundail (CSUN Student Newspaper)
+
+Trisha Anas Trisha Anas, the current managing social media editor, is an integral member of the newsroom with palpable motivation in her writing. As editor-in-chief, Anas introduced various structural improvements... 
+
+<https://sundial.csun.edu/181616/print-editions/print-stories/staff-highlight-the-students-who-make-the-sundial-possible-2/>
+
+---
+
+## Letter from the Editor: Volume 64, Issue 10
+
+date: 2024-05-13, from: The Sundail (CSUN Student Newspaper)
+
+In the May issue of spring semester, we are highlighting Asian American stories. As a North and Central Asian in the U.S., I understand the diversity of our community and... 
+
+<https://sundial.csun.edu/181608/print-editions/print-stories/letter-from-the-editor-volume-64-issue-10/>
+
+---
+
+## The world needs to understand the seriousness of HIV/AIDS
+
+date: 2024-05-13, from: The Sundail (CSUN Student Newspaper)
+
+In the early 1980s, a mysterious disease plagued several people, predominantly gay men. This disease was later identified as the virus known as the Acquired Immune Deficiency Syndrome, also called... 
+
+<https://sundial.csun.edu/181886/opinions/the-world-needs-to-understand-the-seriousness-of-hiv-aids/>
+
+---
+
+## College of the Canyons soccer alums make their return to the pitch
+
+date: 2024-05-13, from: The Canyon News (COC Student Newspaper)
+
+<p>College of the Canyons hosted its annual soccer alumni games on Saturday,&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/college-of-the-canyons-soccer-alums-make-their-return-to-the-pitch/">College of the Canyons soccer alums make their return to the pitch</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<https://canyonsnews.com/college-of-the-canyons-soccer-alums-make-their-return-to-the-pitch/>
 
 ---
 

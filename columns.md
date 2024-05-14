@@ -1,11 +1,332 @@
 ---
 title: columns 2024.20
-updated: 2024-05-13 08:30:46
+updated: 2024-05-14 08:31:12
 ---
 
 # columns 2024.20
 
-(date: 2024-05-13 08:30:46)
+(date: 2024-05-14 08:31:12)
+
+---
+
+##  Out Sick Today 
+
+date: 2024-05-14, updated: 2024-05-14, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/out-sick-today-1>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-14, from: Dave Winer's Scripting News)
+
+BTW, I've been to three <a href="https://en.wikipedia.org/wiki/Stevenote">Stevenotes</a>, the first one, the rollout of the Mac  in 1984, then the rollout of NeXT in 1988, and a random press event in 1997 announcing they were going with Unix server products instead of the homegrown much easier to use Mac server products. We could have had both of course, but Jobs never really wanted developers imho, truth be told. We were inside in 1984 because Mike Boich and Guy Kawasaki were doing the evangelism. 
+
+<http://scripting.com/2024/05/14.html#a131234>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-14, from: Dave Winer's Scripting News)
+
+Yesterday's OpenAI big press event was a nothing burger. I thought they already had all of that stuff, they certainly had been at least telegraphing it. Also there never will be another Steve Jobs, it's too bad everyone is using his template for product announcements. It only works if you're Steve Jobs. 
+
+<http://scripting.com/2024/05/14.html#a131039>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-14, from: Dave Winer's Scripting News)
+
+Someday I'll make a list of people who I wish would read this blog. 
+
+<http://scripting.com/2024/05/14.html#a130819>
+
+---
+
+## Brunson as bad man or decoy
+
+date: 2024-05-14, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/05/14/brunson.jpg"></center><a href="https://en.wikipedia.org/wiki/Jalen_Brunson">Jalen Brunson</a>, Knicks star, after having his ass kicked in Sunday's game. </div></p>
+<p>In this picture he either looks dangerous or defeated, or both. I wouldn't want to have to play against him tonight. </p>
+<p>Here's my two cents. If Brunson has heavy legs tonight, as he clearly did in the last two games, he should be used as a decoy, to draw a double team, to free up one of the Knicks' assassins. Or maybe he'll be more effective with just one Pacer guarding him, instead of two or three. </p>
+<p>And for crying out loud, start one of the excellent <a href="https://en.wikipedia.org/wiki/2023%E2%80%9324_New_York_Knicks_season">bench players</a>, McBride or Sims or Burks, or all of them, and make sure the heroes of games 1 and 2 get plenty of rest. </p>
+ 
+
+<http://scripting.com/2024/05/14/125908.html?title=brunsonAsBadManOrDecoy>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-14, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/14/rfkJr.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's a crazy world, so crazy that RFK, Jr <i>could</i> be elected president via a third-party. He's a better speaker than either of the other candidates. If he didn't a speech impediment I'd say he was basically a sure thing. I don't know how crazy he actually is, but he cleans up nicely, having seen him interviewed on MSNBC a few days ago. He had good PR training somewhere, it's probably not just from the genes, he is a freaking Kennedy, his mother was a wife of a Kennedy, and clearly raised him well. I'm voting for Biden of course. I'm not that crazy. But people are tired of Biden, I understand why -- and they want a president they can look up to, not one that reminds them of their 80-something grandfather. And people are also understandably fed up with Trump. Before it's over we will come to think of him not as a spoiler but as a possible future president, where "future" is less than a year away. 
+
+<http://scripting.com/2024/05/14.html#a123837>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-14, from: Dave Winer's Scripting News)
+
+If a baker may not be forced to bake a cake for a same-sex wedding on the basis of religious freedom, surely a woman can’t be forced to give birth to an unwanted child. 
+
+<http://scripting.com/2024/05/14.html#a123404>
+
+---
+
+## Another Chrome Vulnerability
+
+date: 2024-05-14, updated: 2024-05-14, from: Bruce Schneier blog
+
+<p>Google has <a href="https://arstechnica.com/security/2024/05/google-patches-its-fifth-zero-day-vulnerability-of-the-year-in-chrome/">patched</a> another Chrome zero-day:</p>
+<blockquote><p>On Thursday, Google <a href="https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_9.html">said</a> an anonymous source notified it of the vulnerability. The vulnerability carries a severity rating of 8.8 out of 10. In response, Google said, it would be releasing versions 124.0.6367.201/.202 for macOS and Windows and 124.0.6367.201 for Linux in subsequent days.</p>
+<p>&#8220;Google is aware that an exploit for CVE-2024-4671 exists in the wild,&#8221; the company said.</p>
+<p>Google didn&#8217;t provide any other details about the exploit, such as what platforms were targeted, who was behind the exploit, or what they were using it for...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/05/another-chrome-vulnerability.html>
+
+---
+
+## How to make $50 million a year while your corporation goes down the tubes 
+
+date: 2024-05-14, from: Robert Reich's blog
+
+David Zaslav exemplifies socialism for the rich 
+
+<https://robertreich.substack.com/p/how-to-make-50-million-a-year-while>
+
+---
+
+## curl user survey 2024
+
+date: 2024-05-14, from: Daniel Stenberg Blog
+
+Welcome to the 11th annual curl user survey. This is a once a year poll that we ask as many curl and libcurl users as possible to respond to. >> Take the survey &#60;&#60; This is in many ways the only real way we get to know what curl users think about all sorts of &#8230; <a href="https://daniel.haxx.se/blog/2024/05/14/curl-user-survey-2024/" class="more-link">Continue reading <span class="screen-reader-text">curl user survey 2024</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/05/14/curl-user-survey-2024/>
+
+---
+
+## Election Countdown, 176 Days to Go: ‘Hot dogs. Let's talk about hot dogs.’
+
+date: 2024-05-14, from: James Fallows, Substack
+
+Let's talk about how our candidates talk. 
+
+<https://fallows.substack.com/p/election-countdown-176-days-to-go>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-14, from: Dave Winer's Scripting News)
+
+<a href="https://en.wikipedia.org/wiki/Tesla_Autopilot#Full_Self-Driving">FSD</a> gets confused and does some incredibly stupid things. With ChatGPT it's amusing but with FSD it's your ass on the line. 
+
+<http://scripting.com/2024/05/13.html#a015747>
+
+---
+
+## OpenAI Debuts GPT-4o ‘Omni’ Model
+
+date: 2024-05-14, updated: 2024-05-14, from: Daring Fireball
+
+ 
+
+<https://techcrunch.com/2024/05/13/openais-newest-model-is-gpt-4o/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-14, from: Dave Winer's Scripting News)
+
+Imagine a social web without, by default, the right to drop turds where ever you like. 
+
+<http://scripting.com/2024/05/13.html#a015349>
+
+---
+
+## Time Out!
+
+date: 2024-05-14, from: Dan Rather's Steady
+
+Treat the polls as a motivator, not a misery 
+
+<https://steady.substack.com/p/time-out>
+
+---
+
+## Evaluating Large Language Models Using “Counterfactual Tasks”
+
+date: 2024-05-13, from: Melanie Mitchell, AI Guide for Human Thinking
+
+&#8220;[O]ne thing is clear: LLMs are not human. But they are superhuman in their ability to extract information from the world&#8217;s database of text. Some aspects of their behavior appear to be intelligent, but if it&#8217;s not human intelligence, what is the nature of their intelligence?&#8221; &#8212; Terrence Sejnowski, 
+
+<https://aiguide.substack.com/p/evaluating-large-language-models>
+
+---
+
+## Tricks for getting a group talking
+
+date: 2024-05-13, from: Tracy Durnell Blog
+
+Discuss in pairs Hand signals for remaining time needed No straight questions Diminish responsibility Hand down, not hands up 
+
+<https://tracydurnell.com/2024/05/13/tricks-for-getting-a-group-talking/>
+
+---
+
+## Reply to gRegor: COVID safety at events
+
+date: 2024-05-13, from: Tracy Durnell Blog
+
+👏 I appreciate the work you&#8217;ve done on this gRegor! I know I&#8217;m unlikely to attend any in-person event soon, in part due to not traveling and in part from worry over event logistics, so I haven&#8217;t bothered to get into the details of what would make me feel safe to attend. I worried that [&#8230;] 
+
+<https://tracydurnell.com/2024/05/13/reply-to-gregor-covid-safety-at-events/>
+
+---
+
+## Quick NVMe performance testing with fio
+
+date: 2024-05-13, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Quick NVMe performance testing with fio</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>I've recently been debugging some NVMe / PCIe bus errors on a Raspberry Pi, and I wanted a quick way to test NVMe devices without needing to create a filesystem and use a tool like <code>iozone</code>. I don't care about benchmarks, I just want to quickly push the drive and read and write some data to it.</p>
+
+<p><code>fio</code> is the tool for the job, and after a quick install <code>sudo apt install -y fio</code>, I create a configuration file named <code>nvme-read.fio</code>:</p>
+
+<pre><code>[global]
+name=nvme-seq-read
+time_based
+ramp_time=5
+runtime=30
+readwrite=read
+bs=256k
+ioengine=libaio
+direct=1
+numjobs=1
+iodepth=32
+group_reporting=1
+[nvme0]
+filename=/dev/nvme0n1
+</code></pre>
+
+<p>Then run it with:</p>
+
+<pre><code>sudo fio nvme-read.fio
+</code></pre>
+
+<p>Easy way to put some stress on the drive, and test your PCIe setup and the drive itself.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-05-13T15:55:45-05:00" title="Monday, May 13, 2024 - 15:55" class="datetime">May 13, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/quick-nvme-performance-testing-fio>
+
+---
+
+## Some Thoughts About The M4 Chip
+
+date: 2024-05-13, from: Om Malik blog
+
+Apple’s&#160;launch week was lost to the brouhaha over the “Crush” ad. As I explained last week, the real cause of this ad with poor taste is an outcome of the tyranny of large numbers, which is also not just an Apple problem. During Apple’s Lost Week, there&#160;was an announcement that was of primary interest to &#8230; 
+
+<https://om.co/2024/05/13/some-thoughts-about-the-m4-chip/>
+
+---
+
+## Weather map
+
+date: 2024-05-13, from: Dave Winer's Scripting News
+
+<p>I asked ChatGPT to draw a weather map of the mid-Atlantic states, but it drew the usual garbage for technical images. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/05/13/weatherMap.png"></center>Weather map.</div></p>
+ 
+
+<http://scripting.com/2024/05/13/205122.html?title=weatherMap>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-13, from: Dave Winer's Scripting News)
+
+I've been trying the new 4o version of ChatGPT. It's much faster. It certainly is a search engine. And it covers news. I asked it about Michael Cohen's testimony today in the Trump trial, and it gave me a summary. I asked for the weather forecast in Kingston NY. It wouldn't give me the lyrics to Martha My Dear by the Beatles. I asked it to draw a weather map of the mid-Atlantic states, but it drew the <a href="http://scripting.com/2024/05/13/205122.html">usual garbage</a> for technical images. 
+
+<http://scripting.com/2024/05/13.html#a204138>
+
+---
+
+##  This is a good piece about third places (&#8220;settings a person frequents... 
+
+date: 2024-05-13, updated: 2024-05-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044613-this-is-a-good-piece>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-13, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/13/commanderDataStarTrek.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I can’t wait for the UIs of settings on systems like Mac or Android to go through the AIs. No more hunting through menus to not find the setting where you’re sure it should be. 
+
+<http://scripting.com/2024/05/13.html#a191544>
+
+---
+
+##  &#8220;Just 27% of civilian workers in the U.S. get paid family leave.... 
+
+date: 2024-05-13, updated: 2024-05-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044615-just-27-of-civilian-worke>
+
+---
+
+##  The Kids Are Right (and Alright) 
+
+date: 2024-05-13, updated: 2024-05-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/the-kids-are-right-and-alright>
+
+---
+
+## Remember "free" airport WiFi? Also: LAX has always been a trash fire
+
+date: 2024-05-13, from: Matt Haughey blog
+
+<p>I flew though LAX yesterday and forgot how hostile free airport WiFi used to be in the mid-2000s.&#xA0;</p><p>LAX uses Boingo Wireless (aka Earthlink dialup&apos;s follow-up venture) which first tries to sell you a $15/mo plan (that used to be adopted by other airports). </p><p>To get</p> 
+
+<https://a.wholelottanothing.org/remember-free-airport-wifi/>
+
+---
+
+##  Lauren Groff has opened a bookstore called The Lynx. &#8220;As book bans... 
+
+date: 2024-05-13, updated: 2024-05-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044601-lauren-groff-has-opened-a>
+
+---
+
+##  Currently listening to Atavista, a &#8220;new&#8221; album from Childish Gambino (which he... 
+
+date: 2024-05-13, updated: 2024-05-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044607-currently-listening-to-at>
+
+---
+
+##  Incredible fact: none of the Big Three US automakers makes a sedan... 
+
+date: 2024-05-13, updated: 2024-05-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044609-incredible-fact-none-of-t>
 
 ---
 
@@ -81,7 +402,7 @@ I absolutely abhor news sites that make you turn off your ad blocker only to rev
 
 **@Dave Winer's Scripting News** (date: 2024-05-13, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2019/07/02/knicks.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I feel like crap today, the Knicks were blown out by the Indiana team, the series is tied 2-2 but it feels much worse. The headline in the <a href="https://www.nydailynews.com/2024/05/12/pacers-blow-out-knicks-tie-series/">Daily News</a> reads "Pacers blow depleted, dead-legged Knicks out of the water in Game 4, tie series 2-2." Yeah. I don't know how we recover from this loss. In a way I imagine the Knicks issuing a resignation. "It's been a great season, but we're tired. We're headed to the beach, we'll see you in October Knicks fans. Thanks for your support." I would nod my head and say "Yeah that makes sense." Whatever. I may spend today sleeping it off. Next game is tomorrow night. Yes, they will play, for sure, and I will watch. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/07/02/knicks.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I feel like crap today, the Knicks were blown out by the Indiana team, the series is tied 2-2 but it feels much worse. The headline in the <a href="https://www.nydailynews.com/2024/05/12/pacers-blow-out-knicks-tie-series/">Daily News</a> reads "Pacers blow depleted, dead-legged Knicks out of the water in Game 4, tie series 2-2." Yeah. I don't know how we recover from this loss. In a way I imagine the Knicks issuing a resignation. "It's been a great season, but we're tired. We're headed to the beach, we'll see you in October Knicks fans. Thanks for your support." I would nod my head and say "Yeah that makes sense." Whatever. I may spend today sleeping it off. Next game is tomorrow night. Yes, they will play, for sure, and yes, I will watch. 
 
 <http://scripting.com/2024/05/13.html#a120359>
 

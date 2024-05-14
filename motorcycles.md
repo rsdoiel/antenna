@@ -1,11 +1,101 @@
 ---
 title: motorcycles 2024.20
-updated: 2024-05-13 08:30:46
+updated: 2024-05-14 08:31:12
 ---
 
 # motorcycles 2024.20
 
-(date: 2024-05-13 08:30:46)
+(date: 2024-05-14 08:31:12)
+
+---
+
+## This Is The World’s Largest Three-Wheeler Collections And It's Wild
+
+date: 2024-05-14, from: Ride Apart, Electric Motorcycle News
+
+Discovering the collection is just half the fun. 
+
+<https://www.rideapart.com/news/719516/worlds-largest-3-wheeler-collection/>
+
+---
+
+## EGGERT: Let’s Look at How Far NASCAR’s Come
+
+date: 2024-05-14, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor DARLINGTON, S.C. – If you were teleported back in time to a NASCAR race weekend in 2003, what exactly would you see? Besides the future&#8230;  
+
+<https://kickinthetires.net/nascar/eggert-lets-look-at-how-far-nascars-come/>
+
+---
+
+## These 2 Guys Tried to Fix and Ride Junked Motorcycles In 48 Hours
+
+date: 2024-05-14, from: Ride Apart, Electric Motorcycle News
+
+They didn't need to be perfect; they just needed to run. What could possibly go wrong? 
+
+<https://www.rideapart.com/news/719529/brickhouse-builds-48-hour-challenge/>
+
+---
+
+## UK Plans To Ban Gas Motorcycles Aren't New, But There's More To It
+
+date: 2024-05-14, from: Ride Apart, Electric Motorcycle News
+
+The Department For Transport sought public comment on a potential ICE motorbike ban in 2022. It's 2024. Where did all the comments go? 
+
+<https://www.rideapart.com/news/719521/uk-plan-combustion-motorcycle-ban/>
+
+---
+
+## Rainey’s Ride To The Races Returns
+
+date: 2024-05-14, from: Ride Apart, Electric Motorcycle News
+
+A day full of riding bikes and mingling with some of the biggest names in motorcycle racing.  
+
+<https://www.rideapart.com/news/719382/raineys-ride-to-the-races-2024/>
+
+---
+
+## That Polaris UTV Tank Patent Is Actually an Old Military Design
+
+date: 2024-05-14, from: Ride Apart, Electric Motorcycle News
+
+Folks, I think we're getting old military tech... 
+
+<https://www.rideapart.com/news/719507/polaris-rampage-utv-tank-patent/>
+
+---
+
+## Arai’s New XD-5 Can Become Three Different Helmets
+
+date: 2024-05-14, from: Ride Apart, Electric Motorcycle News
+
+Arai says it represents the very best the brand has to offer when it comes to ADV-focused comfort and safety.  
+
+<https://www.rideapart.com/news/719385/arai-xd5-adventure-touring-helmet/>
+
+---
+
+## Carson Hocevar Having Fun with All-Star Race Campaign
+
+date: 2024-05-14, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor DARLINGTON, S.C. – From tricking his competition into endorsing him to doing impressions of NASCAR’s stars, Carson Hocevar has had fun while campaigning for the&#8230;  
+
+<https://kickinthetires.net/nascar/hocevar-having-fun-all-star-race-campaign/>
+
+---
+
+## Kove 800X Headed to US
+
+date: 2024-05-13, from: Cycle World News
+
+Recent documents show that Kove will bring three versions of its 800X to the US, including the Standard, Pro, and Rally, all powered by a 799cc parallel twin. 
+
+<https://www.cycleworld.com/motorcycle-news/kove-800x-coming-soon-to-usa/>
 
 ---
 
