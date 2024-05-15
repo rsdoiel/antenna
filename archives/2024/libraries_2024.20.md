@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.20
-updated: 2024-05-14 08:31:12
+updated: 2024-05-15 08:46:35
 ---
 
 # libraries 2024.20
 
-(date: 2024-05-14 08:31:12)
+(date: 2024-05-15 08:46:35)
+
+---
+
+## Guest Post – Reconnecting by Reading: A Selection of Books About Diversity, Equity, Inclusion and Accessibility Part 1
+
+date: 2024-05-15, from: Scholarly Kitchen
+
+<p>We learn from each other and about each other through reading. Today part 1 of 2 where we have asked members of the SSP community to recommend books about diversity, equity, inclusion, and accessibility matters.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/05/15/guest-post-reconnecting-by-reading-a-selection-of-books-about-diversity-equity-inclusion-and-accessibility-part-1/">Guest Post – Reconnecting by Reading: A Selection of Books About Diversity, Equity, Inclusion and Accessibility Part 1</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/05/15/guest-post-reconnecting-by-reading-a-selection-of-books-about-diversity-equity-inclusion-and-accessibility-part-1/>
 
 ---
 
@@ -47,7 +59,7 @@ date: 2024-05-14, from: Scholarly Kitchen
 
 date: 2024-05-13, from: Association of Research Libraries News
 
-<p>Last Updated on May 13, 2024, 5:47 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 14 &#124; Wednesday, May 15 &#124; Thursday,...</p>
+<p>Last Updated on May 14, 2024, 3:34 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 14 &#124; Wednesday, May 15 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/40286/">Day in Review (May 13–16)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

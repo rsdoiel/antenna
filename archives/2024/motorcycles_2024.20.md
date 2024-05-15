@@ -1,11 +1,131 @@
 ---
 title: motorcycles 2024.20
-updated: 2024-05-14 08:31:12
+updated: 2024-05-15 08:46:35
 ---
 
 # motorcycles 2024.20
 
-(date: 2024-05-14 08:31:12)
+(date: 2024-05-15 08:46:35)
+
+---
+
+## This Stretched and Lifted Custom Mudding ATV Is Absolutely Bonkers
+
+date: 2024-05-15, from: Ride Apart, Electric Motorcycle News
+
+Tons of fab work to the frame, suspension upgrades, and a turbocharger make this thing one of a kind.  
+
+<https://www.rideapart.com/news/719532/custom-mudder-big-wheel-atv/>
+
+---
+
+## Can A Motorcyclist Without Any Experience Run The World's Largest Enduro?
+
+date: 2024-05-15, from: Ride Apart, Electric Motorcycle News
+
+Are a couple of months of training enough to conquer this challenge? 
+
+<https://www.rideapart.com/news/719662/gotland-enduro-race-firsttime-rider/>
+
+---
+
+## BFGoodrich's New T/A KO3 Off-Road Tire Will Let You Go Anywhere
+
+date: 2024-05-15, from: Ride Apart, Electric Motorcycle News
+
+Baja, here we come.  
+
+<https://www.rideapart.com/news/719659/bfgoodrich-bfg-ko3/>
+
+---
+
+## This New e-Bike Has An Astonishing 90 Miles of Range
+
+date: 2024-05-15, from: Ride Apart, Electric Motorcycle News
+
+Quietkat's revolutions don't stop with the Apex's range, though.  
+
+<https://www.rideapart.com/news/719649/quietkat-apex-hd-ebike-bicycle-debut-price-range/>
+
+---
+
+## Honda’s Working On A Bunch Of Advanced Motorcycle Safety Aids
+
+date: 2024-05-15, from: Ride Apart, Electric Motorcycle News
+
+It’s combining the power of radar and stereo cameras for the ultimate adaptive cruise control system.  
+
+<https://www.rideapart.com/news/719552/honda-camera-based-adaptive-cruise-control/>
+
+---
+
+## We Want These New Vespa Scooters And Clothing Collections, Dang It!
+
+date: 2024-05-15, from: Ride Apart, Electric Motorcycle News
+
+Italian drip from head to handgrips. 
+
+<https://www.rideapart.com/news/719654/vespa-new-primavera-sprint-china/>
+
+---
+
+## onX's 'Adventure Forever Grants' Aim to Keep Public Lands Public
+
+date: 2024-05-15, from: Ride Apart, Electric Motorcycle News
+
+Public land is under threat by state and federal governments. onX is doing its best to keep it in our hands.  
+
+<https://www.rideapart.com/news/719645/onx-adventure-forever-land-grants-submissions/>
+
+---
+
+## Amazon-Owned Zoox Self-Driving Vehicles Involved in Two Motorcycle Crashes
+
+date: 2024-05-15, from: Ride Apart, Electric Motorcycle News
+
+If you find yourself riding behind a Zoox self-driving vehicle, keep your distance. At least until the NHTSA investigation is resolved. 
+
+<https://www.rideapart.com/news/719665/zoox-self-driving-motorcycle-crashes/>
+
+---
+
+## Martín Wins 2024 French Grand Prix
+
+date: 2024-05-14, from: Cycle World News
+
+Jorge Martín dominated the French Grand Prix weekend, winning both races and setting pole. 
+
+<https://www.cycleworld.com/motorcycle-racing/le-mans-motogp-race-report-2024/>
+
+---
+
+## Justin Haley Breaking Out of His Shell with ‘HaleYes’ Campaign
+
+date: 2024-05-14, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor DARLINGTON, S.C. – When the fan vote opened for the 2024 NASCAR Cup Series All-Star Race, Rick Ware Racing (RWR)’s Justin Haley was the first&#8230;  
+
+<https://kickinthetires.net/nascar/haley-breaking-shell-haleyes-campaign/>
+
+---
+
+## Zontes 703RR Hitting Production
+
+date: 2024-05-14, from: Cycle World News
+
+Chinese brand Zontes has been working on a pair of triple-powered machines which it showed at EICMA in the fall. The RR sportbike will soon join the 703F ADV. 
+
+<https://www.cycleworld.com/motorcycle-news/zontes-703rr-coming-soon/>
+
+---
+
+## Moto Guzzi USA Announces 2024 Northeast Dealer Demo Tour
+
+date: 2024-05-14, from: Cycle World News
+
+Moto Guzzi USA is thrilled to announce its Northeast Demo Tour, giving passionate motorcyclists across the region the chance to experience the thrill of riding one of the 2024 Moto Guzzi range firsthand. 
+
+<https://www.cycleworld.com/the-wire/moto-guzzi-usa-announces-2024-northeast-dealer-demo-tour/>
 
 ---
 
@@ -59,7 +179,7 @@ A day full of riding bikes and mingling with some of the biggest names in motorc
 
 ---
 
-## That Polaris UTV Tank Patent Is Actually an Old Military Design
+## Polaris' UTV Tank Patent Is Actually an Old Military Design
 
 date: 2024-05-14, from: Ride Apart, Electric Motorcycle News
 

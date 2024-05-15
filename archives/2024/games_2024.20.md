@@ -1,11 +1,111 @@
 ---
 title: games 2024.20
-updated: 2024-05-14 08:31:12
+updated: 2024-05-15 08:46:35
 ---
 
 # games 2024.20
 
-(date: 2024-05-14 08:31:12)
+(date: 2024-05-15 08:46:35)
+
+---
+
+## Why did Kickstarter pull down 2 high-profile tabletop campaigns this month?
+
+date: 2024-05-15, updated: 2024-05-15, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24157232/kickstarter-wonders-of-the-first-forsaken-controversy>
+
+---
+
+## Dune’s prequel TV show looks like it could actually live up to the movies
+
+date: 2024-05-15, updated: 2024-05-15, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24157308/dunes-prophecy-prequel-tv-series-max>
+
+---
+
+## Hi-Fi Rush gets one last patch before studio closure
+
+date: 2024-05-15, updated: 2024-05-15, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24157264/hi-fi-rush-tango-gameworks-studio-closure>
+
+---
+
+## X-Men ’97 finally resolves a Spider-Man animated series cliffhanger
+
+date: 2024-05-15, updated: 2024-05-15, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24157229/x-men-97-spider-man-animated-series-finale>
+
+---
+
+## What you need to know about biomes in Pokémon Go
+
+date: 2024-05-15, updated: 2024-05-15, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24140393/biomes-map-city-mountains-forest-beach-spawns>
+
+---
+
+## What’s it like to crush on a Victorian man transported to modern London? Kaliane Bradley had to find out
+
+date: 2024-05-15, updated: 2024-05-15, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24153693/ministry-of-time-kaliane-bradley-interview-new-summer-2024-books>
+
+---
+
+## Netflix’s Terminator anime takes the cyborg time war to Tokyo, with a new AI twist
+
+date: 2024-05-15, updated: 2024-05-15, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/anime/23164952/terminator-zero-netflix-anime-release-date-first-look>
+
+---
+
+## Destiny 2 The Pantheon bosses list, rewards, and guide to how it works
+
+date: 2024-05-15, updated: 2024-05-15, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24145806/the-pantheon-bosses-order-rewards-guide>
+
+---
+
+## The best video games of 2024 so far
+
+date: 2024-05-15, updated: 2024-05-15, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/what-to-play/24078256/best-video-games-2024>
+
+---
+
+## Animal Well tricked you into thinking it’s a Metroidvania
+
+date: 2024-05-15, updated: 2024-05-15, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gaming/24156522/animal-well-metroidvania-not>
 
 ---
 

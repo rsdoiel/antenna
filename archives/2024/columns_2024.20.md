@@ -1,11 +1,157 @@
 ---
 title: columns 2024.20
-updated: 2024-05-14 08:31:12
+updated: 2024-05-15 08:46:35
 ---
 
 # columns 2024.20
 
-(date: 2024-05-14 08:31:12)
+(date: 2024-05-15 08:46:35)
+
+---
+
+##  Google is replacing their search results with AI answers. There&#8217;s a very... 
+
+date: 2024-05-15, updated: 2024-05-15, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044624-google-is-replacing-their>
+
+---
+
+##  Hot Frank Summer Starts Now! 
+
+date: 2024-05-15, updated: 2024-05-15, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/hot-frank-summer-starts-now>
+
+---
+
+##  Love this phrase: decanting groceries. &#8220;Do you really want to spend your... 
+
+date: 2024-05-15, updated: 2024-05-15, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044600-love-this-phrase-decantin>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-15, from: Dave Winer's Scripting News)
+
+<a href="https://www.youtube.com/watch?v=RXawa90YU2s">Martha My Dear</a> is the <a href="https://chat.openai.com/share/4ea60bab-a1ab-42fd-b928-e93b38b566d6">essential</a> Paul McCartney <a href="https://en.wikipedia.org/wiki/Martha_My_Dear">love</a> song. 
+
+<http://scripting.com/2024/05/15.html#a132630>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-15, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/15/paulAndMartha.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">This is a <a href="https://imgs.scripting.com/2024/05/15/typicalPaywallDialog.png">typical dialog</a> you see when you <a href="https://www.usatoday.com/story/news/politics/elections/2024/04/11/donald-trump-new-york-hush-money-trial/72943245007/">visit a site</a> with an ad blocker installed. They say that turning off the ad blocker will "support" them. No, I don't think it actually will do anything for them. It might expose me to malware or having my interests shared with businesses who will use that info for who-knows-what. Much better would be to let me click a button to give them $0.50 to read the freaking article that's behind that idiotic dialog, and btw, the payment would have to be anonymous or I'm clicking the Back button. I really did want to know what happens if Trump is found guilty and sentenced to prison. I still do. But I don't think I'm going to turn off my ad blocker. I'll think about it. In the meantime if they had let me pay them $0.50 to read the freaking article, I might have linkblogged it to people who follow me via RSS or email, or on Bluesky or Mastodon, thus giving them a chance to sell others on paying $0.50 to read the freaking article. Not promising I'd do that, but if they really answer the question, if I really learn something I certainly would pass it along. Come on USA Today, get conscious. We'll happily support you for giving us info we wanted, just let us actually help you in a meaningful way, not by penalizing us for having the audacity to use an ad blocker. 
+
+<http://scripting.com/2024/05/15.html#a131828>
+
+---
+
+## temporary storage
+
+date: 2024-05-15, from: Ayjay blog
+
+Drafts is a fantastic app, so well-designed, so capable, so powerful. For my money it’s the best “bucket” app, ideal for holding onto chunks of text.  But I have a problem: I put things into Drafts and then forget about them. Yes, I tag them, but that doesn’t help. They just disappear into the bucket.  [&#8230;] 
+
+<https://blog.ayjay.org/temporary-storage/>
+
+---
+
+## Office Hours: A convicted criminal for president?
+
+date: 2024-05-15, from: Robert Reich's blog
+
+Friends, In a few weeks, Donald Trump may be a convicted criminal. It&#8217;s hardly a sure thing, of course. All he needs for a mistrial is one holdout juror. But the evidence so far seems overwhelming and damning. So we have to face a daunting reality. For the first time in history, a convicted criminal may be the nominee of one of our major parties and on November&#8217;s presidential ballot. 
+
+<https://robertreich.substack.com/p/office-hours-272>
+
+---
+
+## microSD cards' SBC days are numbered
+
+date: 2024-05-15, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">microSD cards' SBC days are numbered</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img class="insert-image" width="500" height="auto" alt="Raspberry Pi M.2 HAT+" src="https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-m2-hat-plus.png"></p>
+
+<p>For years, SBCs that aren't Raspberry Pis experimented with eMMC and M.2 storage interfaces. While the Raspberry Pi went from full-size SD card in the first generation to microSD in every generation following (Compute Modules excluded), other vendors like Radxa, Orange Pi, Banana Pi, etc. have been all over the place.</p>
+
+<p>Still, <em>most</em> of the time a fallback microSD card slot remains.</p>
+
+<p>But microSD cards—even the fastest UHS-II/A2/V90/etc. ones that advertise hundreds of MB/sec—are laggards when it comes to any kind of SBC workflow.</p>
+
+<p>The two main reasons they're used are cost and size. They're tiny, and they don't cost much, especially if you don't shell out for industrial-rated microSD cards.</p>
+
+<p><img class="insert-image" width="500" height="auto" alt="microSD card slot on Raspberry Pi" src="https://www.jeffgeerling.com/sites/default/files/images/microsd-card-slot.jpeg"></p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-05-14T21:46:16-05:00" title="Tuesday, May 14, 2024 - 21:46" class="datetime">May 14, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/microsd-cards-sbc-days-are-numbered>
+
+---
+
+## ★ The M4 iPad Pros
+
+date: 2024-05-15, updated: 2024-05-15, from: Daring Fireball
+
+A “pro” device that goes pro by getting thinner and lighter, not heavier and thicker, is not a non sequitur. 
+
+<https://daringfireball.net/2024/05/the_m4_ipad_pros>
+
+---
+
+## Wednesday 15 May, 2024
+
+date: 2024-05-14, from: John Naughton's online diary
+
+Help? For one awful moment, it looked like a human arm. Quote of the Day ”The mind, like the feet, works at about three miles an hour. If this is so, then modern life is moving faster than the speed &#8230; <a href="https://memex.naughtons.org/wednesday-15-may-2024/39448/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-15-may-2024/39448/>
+
+---
+
+##  Hey, if you&#8217;re looking for a well-designed (and free!) ebook of Frankenstein... 
+
+date: 2024-05-14, updated: 2024-05-14, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044621-hey-if-youre-looking-for>
+
+---
+
+## try not to think
+
+date: 2024-05-14, from: Ayjay blog
+
+Fraudulent academic papers are on the rise, and will continue to be on the rise as long as academics substitute counting for judgment. The fetish for sheer numbers of publications should have ended decades ago, but the professoriate can’t confront its addiction, or accept its responsibility for creating this vast system of perverse incentives. It’s [&#8230;] 
+
+<https://blog.ayjay.org/try-not-to-think/>
+
+---
+
+## Upcoming Speaking Engagements
+
+date: 2024-05-14, updated: 2024-05-14, from: Bruce Schneier blog
+
+<p>This is a current list of where and when I am scheduled to speak:</p>
+<ul>
+<li>I&#8217;m giving a webinar via Zoom on Wednesday, May 22, at 11:00 AM ET. The topic is &#8220;<a href="https://gwu.qualtrics.com/jfe/form/SV_73QPw1fkq88iR4G">Should the USG Establish a Publicly Funded AI Option?</a>&#8220;</li>
+</ul>
+<p>The list is maintained on <a href="https://www.schneier.com/events/">this page</a>.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/05/upcoming-speaking-engagements-36.html>
 
 ---
 
@@ -410,7 +556,7 @@ I absolutely abhor news sites that make you turn off your ad blocker only to rev
 
 ## LLMs’ Data-Control Path Insecurity
 
-date: 2024-05-13, updated: 2024-05-12, from: Bruce Schneier blog
+date: 2024-05-13, updated: 2024-05-15, from: Bruce Schneier blog
 
 <p>Back in the 1960s, if you played a 2,600Hz tone into an AT&#38;T pay phone, you could make calls without paying. A phone hacker named <a href="https://en.wikipedia.org/wiki/John_Draper">John Draper</a> noticed that the <a href="https://www.atlasobscura.com/articles/capn-crunch-whistle">plastic whistle</a> that came free in a box of Captain Crunch cereal worked to make the right sound. That became his hacker name, and everyone who knew the trick made free pay-phone calls.</p>
 <p>There were all sorts of related hacks, such as faking the tones that signaled coins dropping into a pay phone and faking tones used by repair equipment. AT&#38;T could sometimes change the signaling tones, make them more complicated, or try to keep them secret. But the general class of exploit was impossible to fix because the problem was general: Data and control used the same channel. That is, the commands that told the phone switch what to do were sent along the same path as voices...</p> 

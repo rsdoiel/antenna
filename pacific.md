@@ -1,11 +1,675 @@
 ---
 title: pacific 2024.20
-updated: 2024-05-14 08:31:12
+updated: 2024-05-15 08:46:34
 ---
 
 # pacific 2024.20
 
-(date: 2024-05-14 08:31:12)
+(date: 2024-05-15 08:46:34)
+
+---
+
+## Concerns aired over pending reports; nuclear ban, power credits and other bills to be considered
+
+date: 2024-05-15, from: Guam Daily Post
+
+The Committee on Rules at the Guam Legislature will meet Thursday to determine which bills will be placed on the agenda for session this month. Bills under consideration include a measure that would prohibit the production and use of nuclear… 
+
+<https://www.postguam.com/news/concerns-aired-over-pending-reports-nuclear-ban-power-credits-and-other-bills-to-be-considered/article_48c63d92-1287-11ef-aa0c-4bc11fc04019.html>
+
+---
+
+## Flute and guitar duo to conclude Hawaii Concert Society season
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>The combination of flute and guitar can produce a wide variety of musical colors, moods, and expressions and is popular among performers, composers, and listeners. Today, the Hawaii Concert Society will conclude its 2023-24 season when the Cavatina Duo, often acknowledged as the finest such combination in the world, performs at the University of Hawaii at Hilo Performing Arts Center.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/community/flute-and-guitar-duo-to-conclude-hawaii-concert-society-season/>
+
+---
+
+## Malama Na Keiki returns Saturday
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>The seventh Malama Na Keiki Festival aims to improve health outcomes and educate Ka&#8216;u keiki in Pahala on Saturday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/hawaii-news/malama-na-keiki-returns-saturday/>
+
+---
+
+## Haili Congregational Church celebrates 200th anniversary
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>Haili Congregational Church announces the celebration of their 200th anniversary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/community/haili-congregational-church-celebrates-200th-anniversary/>
+
+---
+
+## Six receive Big Island Press Club scholarships
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>The Big Island Press Club Scholarship Foundation awarded 2024 college scholarships totaling $7,000 to six students dedicated to pursuing education for journalism or a related field.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/community/six-receive-big-island-press-club-scholarships/>
+
+---
+
+## County grants lease extension of Kanoelehua Industrial Area property
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>After years of bureaucratic wrangling, a Hilo lessee of state land has finally secured a 30-year lease extension for property in the Kanoelehua Industrial Area.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/hawaii-news/county-grants-lease-extension-of-kanoelehua-industrial-area-property/>
+
+---
+
+## Police arrest, release Ocean View man after alleged shooting
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>Police arrested and later released a 48-year-old Ocean View man following an alleged nonfatal shooting.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/hawaii-news/police-arrest-release-ocean-view-man-after-alleged-shooting/>
+
+---
+
+## Closing arguments made in Red Hill lawsuit trial
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>A lawsuit trial brought by families affected by the Red Hill water crisis against the federal government under the Federal Tort Claims Act saw both sides make their closing arguments Monday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/hawaii-news/closing-arguments-made-in-red-hill-lawsuit-trial/>
+
+---
+
+## County wants private land for Puna road
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County will seize portions of a pair of private properties in lower Puna in order to complete the reopening of Pohoiki Road.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/hawaii-news/county-wants-private-land-for-puna-road/>
+
+---
+
+## Big Island, state under flash flood watch due to kona low
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>The National Weather Service posted a flash flood watch this morning for the state of Hawaii, including Hawaii Island. As of now, the watch is effective through Friday evening.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/hawaii-news/big-island-state-under-flash-flood-watch-due-to-kona-low/>
+
+---
+
+## RFK Jr. is 2024’s X factor, new polls show, fueled by young voters and social media
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>Robert F. Kennedy Jr. is polling stronger than any third-party candidate has in decades, pulling in roughly 10% of registered voters across the battleground states as he saps support from President Joe Biden and former President Donald Trump, a new series of polls has found.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/nation-world-news/rfk-jr-is-2024s-x-factor-new-polls-show-fueled-by-young-voters-and-social-media/>
+
+---
+
+## Waikoloa Library project moves ahead
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>The long-sought public library for Waikoloa Village is a step closer to becoming a reality.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/hawaii-news/waikoloa-library-project-moves-ahead/>
+
+---
+
+## How to fix America’s cruel and unusual tax code
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>It probably escaped your attention, but the Internal Revenue Service recently piloted a program to help Americans cope with their notoriously complex tax system. Direct File was meant to help taxpayers in 12 states prepare and submit their returns electronically. Some 19 million people were eligible to use it. Thanks partly to a rollout late in the tax-preparation season, fewer than 1% of them actually did.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/opinion/how-to-fix-americas-cruel-and-unusual-tax-code/>
+
+---
+
+## Comcast-Diamond dispute ‘profoundly harmful,’ MLB argues
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>Major League Baseball on Tuesday again ripped Diamond Sports Group&#8217;s plan to emerge from bankruptcy, this time as the carriage dispute between Diamond and Comcast reached the two-week mark. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/sports/comcast-diamond-dispute-profoundly-harmful-mlb-argues/>
+
+---
+
+## Ex-interpreter Ippei Mizuhara pleads not guilty in procedural move, plea deal still expected
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Ippei Mizuhara pleaded not guilty to charges of bank and tax fraud Tuesday morning in federal court, a formality ahead of a plea deal negotiated with federal prosecutors, according to Mizuhara&#8217;s attorney, Michael Freedman. Mizuhara, an interpreter who took millions from baseball star Shohei Ohtani, is still expected to plead guilty at a later date. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/sports/ex-interpreter-ippei-mizuhara-pleads-not-guilty-in-procedural-move-plea-deal-still-expected/>
+
+---
+
+## Your Views for May 15
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>Tourists: Learn about Keaukaha</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/opinion/your-views-for-may-15-9/>
+
+---
+
+## Rudy Gobert fined $75,000 for making ‘money sign’ in Timberwolves’ Game 4 loss to Nuggets
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>DENVER &#8212; Timberwolves center Rudy Gobert was fined $75,000 by the NBA on Tuesday for making a &#8220;money sign&#8221; during the Wolves&#8217; loss to Denver in Sunday night&#8217;s playoff game at Target Center. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/sports/rudy-gobert-fined-75000-for-making-money-sign-in-timberwolves-game-4-loss-to-nuggets/>
+
+---
+
+## Four-run frame plagues Quinn Priester in Pirates’ 4-3 loss to Brewers
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>MILWAUKEE &#8212; It looked like Quinn Priester was going to avoid the big inning. Instead, he delayed the inevitable for a frame. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/sports/four-run-frame-plagues-quinn-priester-in-pirates-4-3-loss-to-brewers/>
+
+---
+
+## Jalen Brunson scores 44, Knicks pound Pacers in Game 5
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>Jalen Brunson scored 44 points Tuesday night for the host New York Knicks, who routed the Indiana Pacers 121-91 in Game 5 of an Eastern Conference semifinal series.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/sports/jalen-brunson-scores-44-knicks-pound-pacers-in-game-5/>
+
+---
+
+## Ukraine pulls back in two areas of Kharkiv region, warns of buildup near Sumy region
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>NEAR VOVCHANSK, Ukraine &#8212; Ukraine&#8217;s military said on Tuesday its forces pulled back to new positions in two areas of the northeastern Kharkiv region where Moscow is pressing an offensive, and warned of a Russian force buildup to the north near its Sumy region.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/nation-world-news/ukraine-pulls-back-in-two-areas-of-kharkiv-region-warns-of-buildup-near-sumy-region/>
+
+---
+
+## Summer 2023 was the hottest in 2,000 years, study says
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>The summer of 2023 was exceptionally hot. Scientists have already established that it was the warmest Northern Hemisphere summer since around 1850, when people started systematically measuring and recording temperatures.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/nation-world-news/summer-2023-was-the-hottest-in-2000-years-study-says/>
+
+---
+
+## Israeli tanks push deeper into Rafah, battles rage in northern Gaza
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO &#8212; Israeli tanks pushed deeper into Rafah on Tuesday, reaching some residential areas of the southern Gazan border city where more than a million people had sought shelter, and its forces pounded the enclave&#8217;s north in some of the fiercest attacks in months.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/nation-world-news/israeli-tanks-push-deeper-into-rafah-battles-rage-in-northern-gaza/>
+
+---
+
+## Blinken, in Kyiv, vows unwavering US support as Russian attacks intensify
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>KYIV &#8212; The U.S. will stand by Ukraine until its security sovereignty is guaranteed, Secretary of State Antony Blinken pledged on Tuesday in a visit to Kyiv, at a time when Russia is mounting fresh attacks in the country&#8217;s east.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/nation-world-news/blinken-in-kyiv-vows-unwavering-us-support-as-russian-attacks-intensify/>
+
+---
+
+## US says Boeing breached 2021 737 MAX criminal prosecution deal
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Justice Department said late on Tuesday that Boeing Co had breached its obligations in a 2021 agreement that shielded the planemaker from criminal prosecution over fatal 737 MAX crashes in 2018 and 2019 that killed 346 people.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/nation-world-news/us-says-boeing-breached-2021-737-max-criminal-prosecution-deal/>
+
+---
+
+## Biden hikes tariffs on Chinese EVs, computer chips, medical products
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Joe Biden on Tuesday unveiled steep tariff increases on an array of Chinese imports including electric vehicle (EV) batteries, computer chips and medical products, risking an election-year standoff with Beijing as he woos American voters who give his economic policies low marks.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/nation-world-news/biden-hikes-tariffs-on-chinese-evs-computer-chips-medical-products/>
+
+---
+
+## Analysis-Biden’s new China tariff wall faces leakage via Mexico, Vietnam
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Biden administration&#8217;s new tariffs on Chinese electric vehicles and other strategic sectors aim to protect the future of U.S. manufacturing, but they will likely accelerate a shift of Chinese production to Mexico, Vietnam and elsewhere to avoid them.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/nation-world-news/analysis-bidens-new-china-tariff-wall-faces-leakage-via-mexico-vietnam/>
+
+---
+
+## Cohen tells jurors of oval office deal to pay back the hush money
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Little more than two weeks into Donald Trump&#8217;s presidency, he and his personal lawyer sat in the Oval Office and sealed a deal that prosecutors say was a crime.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/nation-world-news/cohen-tells-jurors-of-oval-office-deal-to-pay-back-the-hush-money/>
+
+---
+
+## HTA study examines reinventing tourism oversight
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Tourism Authority received an unfavorable rating from 43% of the stakeholders who gave feedback to the contractor working on a tourism governance structure recommendation.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/hawaii-news/hta-study-examines-reinventing-tourism-oversight/>
+
+---
+
+## BIIF teams see mixed results at state
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii High School Athletic Association (HHSAA) baseball and softball playoffs began Tuesday on Oahu, and four Big Island Interscholastic Federation (BIIF) teams represented the isle in their matchups.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/sports/biif-teams-see-mixed-results-at-state/>
+
+---
+
+## Coffee marathon returning to Kona town
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>The 27th Annual UCC Coffee Kona Marathon is moving back to Kona after staging the race on the Kohala Coast for the last few years. The race will take place on Saturday, June 21, 2025 with a new resort partner&#8212;Royal Kona Resort and Spa.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/sports/coffee-marathon-returning-to-kona-town/>
+
+---
+
+## Obituaries for May 15
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>Ralph Etsuo Fujiyama, 70, of Hilo died April 11 at Hilo Benioff Medical Center. Born in Hilo, he was owner-operator of Kinoole Auto Care. Private services held. No flowers or koden (monetary gifts). Online condolences: ballardfamilymortuaries.com. Survived by wife, JiSoon &#8220;Linda&#8221; Fujiyama; brothers, Stanley (Judith) Fujiyama and Burt (HyeSun &#8220;Eri&#8221;) Fujiyama; sister, Linda (Lester) Mende; cousins, nieces and nephews. Arrangements by Ballard Family Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/obituaries/obituaries-for-may-15-10/>
+
+---
+
+## Yagi basketball camp registration open
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>UH-Hilo has announced that the 2024 Coach Jimmy Yagi Vulcan Basketball Camp is set for July 22-25 at the Pana&#8217;ewa Park Gym.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/sports/yagi-basketball-camp-registration-open/>
+
+---
+
+## Bill seeks to appropriate funding for GWA assistance program
+
+date: 2024-05-15, from: Guam Daily Post
+
+Another bill has been added to the lineup of measures looking to utilize general fund excess to support their respective initiatives. This time, it's to appropriate $5 million to the Guam Waterworks Authority to fund a customer assistance program. 
+
+<https://www.postguam.com/news/local/bill-seeks-to-appropriate-funding-for-gwa-assistance-program/article_db0771fc-11d4-11ef-8be1-c721e239f7f3.html>
+
+---
+
+## OAG seeks $5.9 million budget increase
+
+date: 2024-05-15, from: Guam Daily Post
+
+The Office of the Attorney General is seeking an increase of $5.9 million for their budget in the next fiscal year, primarily to hire more attorneys. 
+
+<https://www.postguam.com/news/local/oag-seeks-5-9-million-budget-increase/article_1e2cf482-1196-11ef-bc9e-4779c7cd002f.html>
+
+---
+
+## Autonomous agencies and AG file ahead of oral arguments in Supreme Court case
+
+date: 2024-05-15, from: Guam Daily Post
+
+More filings have been made in the Supreme Court of Guam case regarding the attorney general's duties ahead of oral arguments scheduled to take place next week. A group of autonomous agencies filed their joint amicus brief earlier in the… 
+
+<https://www.postguam.com/news/local/autonomous-agencies-and-ag-file-ahead-of-oral-arguments-in-supreme-court-case/article_7338aea4-118b-11ef-b96d-13c57869e394.html>
+
+---
+
+## Brothers charged in drug case after package info posted on Facebook
+
+date: 2024-05-15, from: Guam Daily Post
+
+Three men face federal drug charges related to a drug trafficking conspiracy that was discovered after information about a drug package was posted on social media. 
+
+<https://www.postguam.com/news/local/brothers-charged-in-drug-case-after-package-info-posted-on-facebook/article_9e3a9a58-1263-11ef-a8d5-7382000de4f3.html>
+
+---
+
+## Pair charged with jury tampering seek dismissal
+
+date: 2024-05-15, from: Guam Daily Post
+
+A couple accused of jury tampering are seeking dismissal of their charges. 
+
+<https://www.postguam.com/news/local/pair-charged-with-jury-tampering-seek-dismissal/article_35713aa8-1250-11ef-840e-df1d79d9a371.html>
+
+---
+
+## Hawaiian Word of the Week: Puka
+
+date: 2024-05-15, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Puka&#8212;To graduate, pass through, emerge.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/14/hawaiian-word-of-the-week-puka/">Hawaiian Word of the Week: Puka</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/14/hawaiian-word-of-the-week-puka/>
+
+---
+
+## DPHSS to travelers: keep up to date with vaccinations
+
+date: 2024-05-15, from: Guam Daily Post
+
+The Department of Public Health and Social Services is advising travelers to stay up to date with their vaccinations as confirmed cases of whooping cough, or pertussis, occur in Hawaii, while a measles outbreak and cases of whooping cough take… 
+
+<https://www.postguam.com/news/dphss-to-travelers-keep-up-to-date-with-vaccinations/article_3bd1002a-1270-11ef-8b17-4b761bc0ef82.html>
+
+---
+
+## $1.3M for Korean language studies at UH Mānoa
+
+date: 2024-05-15, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> The Korean Language Flagship Center is the sole Korean language Flagship program bestowed the competitive grant.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/14/1-3m-korean-language-at-uhm/">$1.3M for Korean language studies at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/14/1-3m-korean-language-at-uhm/>
+
+---
+
+## Home is Here Old Queen Street Stadium, Aaron “Woes” Martin, Geneology
+
+date: 2024-05-15, from: Home is Here
+
+<p>This month on Home is Here, we have three stories about finding connection and discovering identity...</p>
+<p>The post <a href="https://www.pbshawaii.org/home-is-here-old-queen-street-stadium-aaron-woes-martin-geneology/">Home is Here &lt;br/&gt;Old Queen Street Stadium, Aaron &#8220;Woes&#8221; Martin, Geneology</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/home-is-here-old-queen-street-stadium-aaron-woes-martin-geneology/>
+
+---
+
+## Pharmacy professor aims to bridge health gaps in AANHPI community
+
+date: 2024-05-15, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Professor Deborah Taira conducts in-depth research on health disparities that impact Asian Americans and Pacific Islanders and wants to improve access to clinical trials.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/14/bridge-health-gaps-aanhpi-community/">Pharmacy professor aims to bridge health gaps in <abbr>AANHPI</abbr> community</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/14/bridge-health-gaps-aanhpi-community/>
+
+---
+
+## Rainbow Wahine track and field finish 3rd in Big West
+
+date: 2024-05-15, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> The team finished with 102.5 points and five gold medals &#8212; the most ever by the program in a conference title meet.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/14/wahine-track-field-3rd-in-big-west/">Rainbow Wahine track and field finish 3rd in Big West</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/14/wahine-track-field-3rd-in-big-west/>
+
+---
+
+## Student’s ʻohana gives back by renovating UH Mānoa welcome center
+
+date: 2024-05-14, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Haley Taylor, a communication major in the College of Social Sciences, worked as a tour guide in the <abbr>UH</abbr> Mānoa Office of Admissions for three years.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/14/uh-manoa-welcome-center-renovations/">Student’s ʻohana gives back by renovating <abbr>UH</abbr> Mānoa welcome center</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/14/uh-manoa-welcome-center-renovations/>
+
+---
+
+## UH Mānoa NROTC commissions 3 new naval officers
+
+date: 2024-05-14, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Zachary Barto, Chase Roche and Jacob Simmons achieved the rank of ensign in the U.S. Navy during a ceremonial event on May 13.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/14/nrotc-commissions-3-naval-officers/"><abbr>UH</abbr> Mānoa <abbr>NROTC</abbr> commissions 3 new naval officers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/14/nrotc-commissions-3-naval-officers/>
+
+---
+
+## Wahine water polo ends record season at NCAA semis
+
+date: 2024-05-14, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>UH</abbr> M&#257;noa women’s water polo team finished the season with a team-high 64 goals and 211 saves.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/14/water-polo-ends-record-season/">Wahine water polo ends record season at <abbr>NCAA</abbr> semis</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/14/water-polo-ends-record-season/>
+
+---
+
+## Peiravani receives NCAA water polo Elite 90 award
+
+date: 2024-05-14, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Raha Peiravani, majoring in Finance with a minor in psychology, currently carries a 4.0 <abbr>GPA</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/14/peiravani-ncaa-elite-90-award/">Peiravani receives <abbr>NCAA</abbr> water polo Elite 90 award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/14/peiravani-ncaa-elite-90-award/>
+
+---
+
+## Fulbright fellowship will allow professor to improve undersea cable system
+
+date: 2024-05-14, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Bruce Howe will continue his efforts to advance the installation of a Science Monitoring And Reliable Telecommunications seafloor cable system in Portugal.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/14/fulbright-fellowship-bruce-howe/">Fulbright fellowship will allow professor to improve undersea cable system</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/14/fulbright-fellowship-bruce-howe/>
+
+---
+
+## COVID-era MD graduate’s inspiring journey
+
+date: 2024-05-14, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Maveric Abella's path to becoming a physician has been marked by a series of transformative experiences.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/14/covid-era-md-graduates/">COVID-era <abbr>MD</abbr> graduate’s inspiring journey</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/14/covid-era-md-graduates/>
+
+---
+
+## Marianas Milk
+
+date: 2024-05-14, updated: 2024-05-15, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/views/columnists/marianas-milk/article_c94c6b08-11b5-11ef-8809-cb46d121f14b.html>
+
+---
+
+## Caitlin Clark era gets underway as Fever visit Sun
+
+date: 2024-05-14, updated: 2024-05-15, from: Marianas Variety
+
+(Reuters) — The unprecedented flood of interest in women's basketball is expected to follow Clark from her record-smashing college career at Iowa to the WNBA. The nearly 10,000-seat Mohegan Sun Arena is sold out for Clark's debut, and ESPN's broadcast will include player mics and roving cameras for "a WNBA Finals-level production setup." 
+
+<https://www.mvariety.com/sports/nationalsports/caitlin-clark-era-gets-underway-as-fever-visit-sun/article_53c4c6c0-11f4-11ef-ab64-5f1141ad75ea.html>
+
+---
+
+## High school students invited to participate in summer health program
+
+date: 2024-05-14, updated: 2024-05-15, from: Marianas Variety
+
+TWENTY slots are available for high school students interested in participating in the Area Health Education Center’s Teen Health Summer Program. 
+
+<https://www.mvariety.com/news/local/high-school-students-invited-to-participate-in-summer-health-program/article_908d4e8c-11f0-11ef-8422-8ff8b4f47960.html>
+
+---
+
+## 'A dysfunctional Senate leadership'
+
+date: 2024-05-14, updated: 2024-05-15, from: Marianas Variety
+
+SENATOR Celina R. Babauta on Tuesday described the Senate leadership as “dysfunctional.” 
+
+<https://www.mvariety.com/news/local/a-dysfunctional-senate-leadership/article_2338eab4-11c6-11ef-a50d-63a61462acfb.html>
+
+---
+
+## NMCADSV launches 2024 BOLA nominations
+
+date: 2024-05-14, updated: 2024-05-15, from: Marianas Variety
+
+THE Northern Marianas Coalition Against Domestic &amp; Sexual Violence is pleased to announce the launch of nominations for the prestigious 2024 Bridge of Light Award or BOLA. Each year, NMCADSV honors an individual who displays remarkable commitment to supporting victims, survivors, and the community in addressing domestic and sexual violence in the CNMI. 
+
+<https://www.mvariety.com/news/community_bulletins/nmcadsv-launches-2024-bola-nominations/article_39e9ea3e-11b1-11ef-a7fb-77ea2e2cbe38.html>
+
+---
+
+## MHS represents CNMI in Real World Design Challenge
+
+date: 2024-05-14, updated: 2024-05-15, from: Marianas Variety
+
+(MHS) — Marianas High School’s Dolphin Aeronautics team represented the CNMI in the 2024 national competition of the Real World Design Challenge. 
+
+<https://www.mvariety.com/news/local/mhs-represents-cnmi-in-real-world-design-challenge/article_23c4ca66-11bc-11ef-a703-83cde23b5db6.html>
+
+---
+
+## PSS honors 43 students, 20 teachers for Achieve3000 use, reading growth
+
+date: 2024-05-14, updated: 2024-05-15, from: Marianas Variety
+
+(PSS) — The Public School System on Thursday, May 9, honored 43 elementary, middle, and high school students who have demonstrated outstanding literacy gains through the Achieve3000 Literacy Program, a globally recognized digital supplemental learning program that helps students improve their reading and comprehension skills. 
+
+<https://www.mvariety.com/news/local/pss-honors-43-students-20-teachers-for-achieve3000-use-reading-growth/article_96774342-11ba-11ef-943b-83fdafffa8aa.html>
+
+---
+
+## CHCC says it is resolving delays in employees' tax rebates
+
+date: 2024-05-14, updated: 2024-05-15, from: Marianas Variety
+
+THE management of Commonwealth Healthcare Corp. on Tuesday assured its employees that it is actively working on resolving the delayed release of their tax rebates. 
+
+<https://www.mvariety.com/news/local/chcc-says-it-is-resolving-delays-in-employees-tax-rebates/article_d3a3469a-11c8-11ef-ba37-9b3014e9493f.html>
+
+---
+
+## US and Taiwan navies quietly held Pacific drills in April
+
+date: 2024-05-14, updated: 2024-05-15, from: Marianas Variety
+
+TAIPEI (Reuters) — The U.S. and Taiwan navies conducted joint drills in the Pacific in April that, officially, did not take place, four people briefed on the matter said, as the two militaries boost cooperation amid rising Chinese military threats. 
+
+<https://www.mvariety.com/news/regional_world/us-and-taiwan-navies-quietly-held-pacific-drills-in-april/article_51f8d938-11f1-11ef-a4a5-8355a6187291.html>
+
+---
+
+## In the dark
+
+date: 2024-05-14, updated: 2024-05-15, from: Marianas Variety
+
+House legal counsel Joe Taijeron checks his smartphone while Speaker Edmund S. Villagomez and Vice Speaker Joel Camacho confer during a break from a House session following a power outage on Friday. The session resumed after power was restored around 30 minutes later. 
+
+<https://www.mvariety.com/news/local/in-the-dark/article_e1657ee2-11f0-11ef-affa-abf5f01133dc.html>
 
 ---
 
@@ -13,7 +677,7 @@ updated: 2024-05-14 08:31:12
 
 date: 2024-05-14, from: Pacific Island Times
 
-By Pacific Island Times News Staff In the wake of Guam Attorney General Douglas Moylan’s withdrawal of his representation of 22 agencies... 
+By Mar-Vic Cagurangan In the wake of Guam Attorney General Douglas Moylan’s pullout from dozens of agencies being investigated by his... 
 
 <https://www.pacificislandtimes.com/post/guam-autonomous-agencies-lawyers-say-they-can-assume-attorney-general-s-abandoned-duties>
 
@@ -341,6 +1005,56 @@ date: 2024-05-14, from: Island Times
  
 
 <https://islandtimes.org/palau-strengthens-migration-management-with-iom-training/>
+
+---
+
+## Customs officer accused of terrorizing put on leave
+
+date: 2024-05-14, from: Guam Daily Post
+
+A Guam Customs and Quarantine Agency officer was placed on administrative leave after being charged with terrorizing and family violence. 
+
+<https://www.postguam.com/news/local/customs-officer-accused-of-terrorizing-put-on-leave/article_18d66f32-1190-11ef-a337-8b3f8ef71f9d.html>
+
+---
+
+## Judge denies recusal request in GRTA case
+
+date: 2024-05-14, from: Guam Daily Post
+
+The prosecution's motion to disqualify a judge from presiding in a corruption case was denied. 
+
+<https://www.postguam.com/news/local/judge-denies-recusal-request-in-grta-case/article_bf293858-1184-11ef-8ca1-d78c82b4fa04.html>
+
+---
+
+## GDOE and Housing Corp. working on MOU for temporary SSHS land lease
+
+date: 2024-05-14, from: Guam Daily Post
+
+The Guam Housing Corp. and the Guam Department of Education are working to possibly establish a memorandum of understanding for the leasing of land to house a temporary Simon Sanchez High School facility, Sens. Joe San Agustin and Roy Quinata… 
+
+<https://www.postguam.com/news/local/gdoe-and-housing-corp-working-on-mou-for-temporary-sshs-land-lease/article_62304754-119d-11ef-bb35-8f1ea00df8fe.html>
+
+---
+
+## AG: QR code billboard 'not for laughs'
+
+date: 2024-05-14, from: Guam Daily Post
+
+A new billboard from the Office of the Attorney General displaying a QR code to remind drivers not to use their cellphones is "not for laughs," according to Attorney General Douglas Moylan. 
+
+<https://www.postguam.com/news/local/ag-qr-code-billboard-not-for-laughs/article_48d1d60e-119a-11ef-8ba4-a7fece965537.html>
+
+---
+
+## Judiciary celebrates treatment court graduates
+
+date: 2024-05-14, from: Guam Daily Post
+
+Treatment court graduates were honored in celebration of National Treatment Court Month, the Judiciary of Guam announced in a press release. 
+
+<https://www.postguam.com/news/local/judiciary-celebrates-treatment-court-graduates/article_9c41c220-1192-11ef-ba97-7fa9892bef5c.html>
 
 ---
 
@@ -841,6 +1555,116 @@ date: 2024-05-13, from: Hawaii Tribune Harold
 
 ---
 
+## Oceanview passes safety inspection
+
+date: 2024-05-13, from: Guam Daily Post
+
+Hard work and teamwork have paid off for Oceanview Middle School, which has recently passed sanitary inspection. 
+
+<https://www.postguam.com/news/oceanview-passes-safety-inspection/article_3bb41502-0f3a-11ef-9c15-fba8d2e9f990.html>
+
+---
+
+## Medical Board considering autonomous Physicians Health Program
+
+date: 2024-05-13, from: Guam Daily Post
+
+Dr. Nathaniel Berg, chairman of the Guam Board of Medical Examiners, is proposing a program that will monitor the mental and emotional well-being of medical practitioners working in Guam. 
+
+<https://www.postguam.com/news/local/medical-board-considering-autonomous-physicians-health-program/article_a20a9d7e-0f37-11ef-ad89-8769683dfd97.html>
+
+---
+
+## Youth Summer Job application now available
+
+date: 2024-05-13, from: Guam Daily Post
+
+Applications for summer jobs under the Governor’s youth employment program are now available. 
+
+<https://www.postguam.com/news/youth-summer-job-application-now-available/article_922ea2f8-10ca-11ef-9152-97ffa566c3a6.html>
+
+---
+
+## AG: seek federal law change for plebiscite
+
+date: 2024-05-13, from: Guam Daily Post
+
+The court decision on Guam's plebiscite law leaves "no room" to draft a definition of "native inhabitant of Guam" that is consistent with that opinion and law outlining the plebiscite, Attorney General Douglas Moylan stated in an opinion published Monday.… 
+
+<https://www.postguam.com/news/ag-seek-federal-law-change-for-plebiscite/article_4b4b8076-10d0-11ef-a3ac-2337c80bf1a4.html>
+
+---
+
+## GVB audit shows higher revenues and expenses, recommendations to address deficiencies
+
+date: 2024-05-13, from: Guam Daily Post
+
+Revenues increasing by $6.1 million, operating expenses increasing by $958,000, increasing visitor arrivals and a deficiency regarding the publication of notices for three sole source procurements are some of the highlights in the fiscal year 2023 financial audit report for… 
+
+<https://www.postguam.com/news/local/gvb-audit-shows-higher-revenues-and-expenses-recommendations-to-address-deficiencies/article_1816787e-10e3-11ef-a005-8b35a35cb066.html>
+
+---
+
+## GDOE plans to spend remaining $41M ARPA funds on facilities
+
+date: 2024-05-13, from: Guam Daily Post
+
+The Guam Department of Education has $41 million in American Rescue Plan Act funding left to spend; and according to the chief of education, a new spending plan is in the works. 
+
+<https://www.postguam.com/news/gdoe-plans-to-spend-remaining-41m-arpa-funds-on-facilities/article_332559ea-10cb-11ef-a38b-07ac33d11497.html>
+
+---
+
+## Sex offender to serve 6 years in federal prison for drug case
+
+date: 2024-05-13, from: Guam Daily Post
+
+A registered sex offender was sentenced to serve nearly six years in federal prison in connection to a package of meth mailed to Guam in August 2022. 
+
+<https://www.postguam.com/news/local/sex-offender-to-serve-6-years-in-federal-prison-for-drug-case/article_d9ff3a8a-10bf-11ef-badf-e3804e62e7a8.html>
+
+---
+
+## Two-year Associate Nursing Degree program proposed for GCC
+
+date: 2024-05-13, from: Guam Daily Post
+
+A two-year Associate Nursing Degree was proposed to the Guam Board of Nursing examiners last week to build up the nursing workforce on the island. 
+
+<https://www.postguam.com/news/local/two-year-associate-nursing-degree-program-proposed-for-gcc/article_6ad31698-10c6-11ef-9a06-1705a8b7edbb.html>
+
+---
+
+## Customs officer charged with terrorizing
+
+date: 2024-05-13, from: Guam Daily Post
+
+A Guam Customs and Quarantine officer was accused of sending threatening texts and photos to a woman on WhatsApp. 
+
+<https://www.postguam.com/news/local/customs-officer-charged-with-terrorizing/article_544344f8-10bb-11ef-a5b7-0f59a2db6c8e.html>
+
+---
+
+## Okkodo High School alum graduates from U.S. Naval Academy Prep
+
+date: 2024-05-13, from: Guam Daily Post
+
+ 
+
+<https://www.postguam.com/news/local/okkodo-high-school-alum-graduates-from-u-s-naval-academy-prep/article_06b2da8e-0fe7-11ef-ad7d-23f4354b271f.html>
+
+---
+
+## GPD: 'DMB' not the name of Repwak's gang
+
+date: 2024-05-13, from: Guam Daily Post
+
+The Guam Police Department has confirmed Mesemwan Repwak's alleged gang does not go by the name of "DMB," or "Difficult Micronesian Boys." 
+
+<https://www.postguam.com/news/gpd-dmb-not-the-name-of-repwaks-gang/article_8b61729c-10c6-11ef-9122-179f91d2471b.html>
+
+---
+
 ## Guam to host 26th Micronesian Islands Forum; public invited to participate, register
 
 date: 2024-05-12, updated: 2024-05-13, from: Marianas Variety
@@ -1276,4 +2100,64 @@ date: 2024-05-12, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/05/12/sports/hurricanes-keep-season-alive-edge-rangers-in-game-4/>
+
+---
+
+## Siblings presented honorary high school diplomas
+
+date: 2024-05-12, from: Guam Daily Post
+
+Maria Sablan Flores, 89, and Antonio Sablan, 86, were not able to graduate from high school as a result of World War II and the Japanese occupation of Guam, but their hard work over the years was recognized by their… 
+
+<https://www.postguam.com/news/local/siblings-presented-honorary-high-school-diplomas/article_826a0ec0-0fe9-11ef-a7ac-7fd1d02e7d03.html>
+
+---
+
+## Families return home in Back to Sumay event
+
+date: 2024-05-12, from: Guam Daily Post
+
+It’s the time of the year when families of Sumay are invited back to their pre-World War II village, and the day was nostalgic, to say the least. 
+
+<https://www.postguam.com/news/local/families-return-home-in-back-to-sumay-event/article_f2c07d3e-0f36-11ef-a8d6-0b855365c545.html>
+
+---
+
+## Repwak charged in three violent cases, bail set at over $500K
+
+date: 2024-05-12, from: Guam Daily Post
+
+Charged Saturday in three violent cases, Mesemwan Repwak is looking at substantial time behind bars if convicted. 
+
+<https://www.postguam.com/news/local/repwak-charged-in-three-violent-cases-bail-set-at-over-500k/article_dd6edf72-0fed-11ef-8c69-372e42954909.html>
+
+---
+
+## Elderly couple survives fire, woman escapes with minor injuries
+
+date: 2024-05-12, from: Guam Daily Post
+
+An elderly couple is lucky to be alive after escaping their home, which was engulfed by fire early Sunday morning. 
+
+<https://www.postguam.com/news/local/elderly-couple-survives-fire-woman-escapes-with-minor-injuries/article_6beb3eaa-0ff1-11ef-8bf9-57302cff5df9.html>
+
+---
+
+## Moylan addresses concern over AG's QR code billboards
+
+date: 2024-05-12, from: Guam Daily Post
+
+Residents driving around the island might come across the attorney general’s new signs featuring a QR code, which is meant to remind motorists that cellphone use while driving is against the law. 
+
+<https://www.postguam.com/news/local/moylan-addresses-concern-over-ags-qr-code-billboards/article_e457be16-1007-11ef-9afd-f7544f655258.html>
+
+---
+
+## Moms compete in Mom Games at Micronesia Mall
+
+date: 2024-05-12, from: Guam Daily Post
+
+In recognition of Mother's Day, Micronesia Mall held its second annual Mom Games, where mothers (and future mothers) went head to head, testing their skills in shopping and diaper-changing competitions. Winners received prizes from various Micronesia Mall stores. 
+
+<https://www.postguam.com/news/local/moms-compete-in-mom-games-at-micronesia-mall/article_7d1063be-100e-11ef-88a2-e325f0b7d0f2.html>
 

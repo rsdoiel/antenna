@@ -1,11 +1,398 @@
 ---
 title: tech likely 2024.20
-updated: 2024-05-14 08:31:12
+updated: 2024-05-15 08:46:35
 ---
 
 # tech likely 2024.20
 
-(date: 2024-05-14 08:31:12)
+(date: 2024-05-15 08:46:35)
+
+---
+
+##  Google is replacing their search results with AI answers. There&#8217;s a very... 
+
+date: 2024-05-15, updated: 2024-05-15, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044624-google-is-replacing-their>
+
+---
+
+##  Hot Frank Summer Starts Now! 
+
+date: 2024-05-15, updated: 2024-05-15, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/hot-frank-summer-starts-now>
+
+---
+
+## Good Night, Moon
+
+date: 2024-05-15, from: NASA breaking news
+
+The waning gibbous moon stands out against the dark backdrop of space in this April 26, 2024, image from the International Space Station. Waning gibbous is one of eight moon phases, occurring after the full moon. The Sun always illuminates half of the Moon while the other half remains dark, but how much we can [&#8230;] 
+
+<https://www.nasa.gov/image-article/good-night-moon-2/>
+
+---
+
+##  Love this phrase: decanting groceries. &#8220;Do you really want to spend your... 
+
+date: 2024-05-15, updated: 2024-05-15, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044600-love-this-phrase-decantin>
+
+---
+
+## Hubble Views the Dawn of a Sun-like Star
+
+date: 2024-05-15, from: NASA breaking news
+
+Looking like a glittering cosmic geode, a trio of dazzling stars blaze from the hollowed-out cavity of a reflection nebula in this new image from NASA’s Hubble Space Telescope. The triple-star system is made up of the variable star HP Tau, HP Tau G2, and HP Tau G3. HP Tau is known as a T […] 
+
+<https://science.nasa.gov/missions/hubble/hubble-views-the-dawn-of-a-sun-like-star/>
+
+---
+
+## Space Physics and Space Weather Scientist Dr. Yihua (Eva) Zheng
+
+date: 2024-05-15, from: NASA breaking news
+
+&#8220;I grew up in China. In China, everybody talks about what they want to be [when they grow up]. Many want to grow up to be a scientist or engineer. So I aspired to be a scientist from an early age. &#8220;… For the girls or women in science — or in any profession or [&#8230;] 
+
+<https://www.nasa.gov/image-article/space-physics-and-space-weather-scientist-dr-yihua-eva-zheng/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-15, from: Dave Winer's Scripting News)
+
+<a href="https://www.youtube.com/watch?v=RXawa90YU2s">Martha My Dear</a> is the <a href="https://chat.openai.com/share/4ea60bab-a1ab-42fd-b928-e93b38b566d6">essential</a> Paul McCartney <a href="https://en.wikipedia.org/wiki/Martha_My_Dear">love</a> song. 
+
+<http://scripting.com/2024/05/15.html#a132630>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-15, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/15/paulAndMartha.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">This is a <a href="https://imgs.scripting.com/2024/05/15/typicalPaywallDialog.png">typical dialog</a> you see when you <a href="https://www.usatoday.com/story/news/politics/elections/2024/04/11/donald-trump-new-york-hush-money-trial/72943245007/">visit a site</a> with an ad blocker installed. They say that turning off the ad blocker will "support" them. No, I don't think it actually will do anything for them. It might expose me to malware or having my interests shared with businesses who will use that info for who-knows-what. Much better would be to let me click a button to give them $0.50 to read the freaking article that's behind that idiotic dialog, and btw, the payment would have to be anonymous or I'm clicking the Back button. I really did want to know what happens if Trump is found guilty and sentenced to prison. I still do. But I don't think I'm going to turn off my ad blocker. I'll think about it. In the meantime if they had let me pay them $0.50 to read the freaking article, I might have linkblogged it to people who follow me via RSS or email, or on Bluesky or Mastodon, thus giving them a chance to sell others on paying $0.50 to read the freaking article. Not promising I'd do that, but if they really answer the question, if I really learn something I certainly would pass it along. Come on USA Today, get conscious. We'll happily support you for giving us info we wanted, just let us actually help you in a meaningful way, not by penalizing us for having the audacity to use an ad blocker. 
+
+<http://scripting.com/2024/05/15.html#a131828>
+
+---
+
+## Google now offers ‘web’ search — and an “AI” opt-out button
+
+date: 2024-05-15, from: OS News
+
+This is not a joke: Google will now let you perform a “web” search. It’s rolling out “web” searches now, and in my early tests on desktop, it’s looking like it could be an incredibly popular change to Google’s search engine. The optional setting filters out almost all the other blocks of content that Google crams into a search results page, leaving you with links and text — and Google confirms to The Verge that it will block the company’s new AI Overviews as well. ↫ Sean Hollister at The Verge I hate what the web has become. 
+
+<https://www.osnews.com/story/139691/google-now-offers-web-search-and-an-ai-opt-out-button/>
+
+---
+
+## Artistic Malicious Compliance
+
+date: 2024-05-15, updated: 2024-05-15, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/05/15/artistic-malicious-compliance/>
+
+---
+
+## Bohdan Troschynsky pushed new project branch bohdan at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-05-15, updated: 2024-05-15, from: Oberon A2 at CAS
+
+
+<p>
+<strong>Bohdan Troschynsky</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commits/bohdan">(42c7892f)</a>
+<i>
+at
+15 May 13:38
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Added small library and example how to use, for extending Reflectio...</p></div>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commits/bohdan>
+
+---
+
+## temporary storage
+
+date: 2024-05-15, from: Ayjay blog
+
+Drafts is a fantastic app, so well-designed, so capable, so powerful. For my money it’s the best “bucket” app, ideal for holding onto chunks of text.  But I have a problem: I put things into Drafts and then forget about them. Yes, I tag them, but that doesn’t help. They just disappear into the bucket.  [&#8230;] 
+
+<https://blog.ayjay.org/temporary-storage/>
+
+---
+
+## Binoculars: A Great First Telescope
+
+date: 2024-05-15, from: NASA breaking news
+
+Do you want to peer deeper into the night sky? Are you feeling the urge to buy a telescope? There are so many options for budding astronomers that choosing one can be overwhelming. A first telescope should be easy to use and provide good quality views while being affordable. As it turns out, those requirements […] 
+
+<https://science.nasa.gov/solar-system/skywatching/night-sky-network/binoculars-a-great-first-telescope/>
+
+---
+
+## Chaos and tension at OpenAI
+
+date: 2024-05-15, from: Gary Marcus blog
+
+Safety seems to be taking a back seat 
+
+<https://garymarcus.substack.com/p/chaos-and-tension-at-openai>
+
+---
+
+## Off-grid, offline digital libraries on Raspberry Pi 3
+
+date: 2024-05-15, from: Raspberry Pi News (.com)
+
+<p>ASU engineering students designed a new charging controller for SolarSPELL's solar-powered offline libraries.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/off-grid-offline-digital-libraries-on-raspberry-pi-3/">Off-grid, offline digital libraries on Raspberry Pi 3</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/off-grid-offline-digital-libraries-on-raspberry-pi-3/>
+
+---
+
+## Can solar and wind ever match the rollout rates of nuclear power in the 1970s and 1980s?
+
+date: 2024-05-15, from: Hannah Richie at Substack
+
+France and Sweden's nuclear rates will be hard to beat, but solar power is getting there. 
+
+<https://www.sustainabilitybynumbers.com/p/solar-wind-nuclear-rates>
+
+---
+
+## microSD cards' SBC days are numbered
+
+date: 2024-05-15, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">microSD cards' SBC days are numbered</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img class="insert-image" width="500" height="auto" alt="Raspberry Pi M.2 HAT+" src="https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-m2-hat-plus.png"></p>
+
+<p>For years, SBCs that aren't Raspberry Pis experimented with eMMC and M.2 storage interfaces. While the Raspberry Pi went from full-size SD card in the first generation to microSD in every generation following (Compute Modules excluded), other vendors like Radxa, Orange Pi, Banana Pi, etc. have been all over the place.</p>
+
+<p>Still, <em>most</em> of the time a fallback microSD card slot remains.</p>
+
+<p>But microSD cards—even the fastest UHS-II/A2/V90/etc. ones that advertise hundreds of MB/sec—are laggards when it comes to any kind of SBC workflow.</p>
+
+<p>The two main reasons they're used are cost and size. They're tiny, and they don't cost much, especially if you don't shell out for industrial-rated microSD cards.</p>
+
+<p><img class="insert-image" width="500" height="auto" alt="microSD card slot on Raspberry Pi" src="https://www.jeffgeerling.com/sites/default/files/images/microsd-card-slot.jpeg"></p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-05-14T21:46:16-05:00" title="Tuesday, May 14, 2024 - 21:46" class="datetime">May 14, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/microsd-cards-sbc-days-are-numbered>
+
+---
+
+## NLnet Grant Update and Conferences
+
+date: 2024-05-15, from: Modos Blog
+
+NLnet Grant Update and Conferences 
+
+<https://www.modos.tech/blog/nlnet-grant-update-and-conferences>
+
+---
+
+## The new APT 3.0 solver
+
+date: 2024-05-14, from: OS News
+
+A crucial but often entirely transparent feature of a modern package management system like Debian&#8217;s APT is its solver &#8211; basically the set of rules and instruction on how to handle dependencies when installing a package. APT is currently in the process of radically changing its solver, the first bits of which can be found in APT 2.9.3, referred to as solver3. Many of the changes and improvements get a little into the weeds and will mostly be transparent to users, but there is one feature the new solver will enable that many of you will be incredibly excited about. One of the core new capabilities of solver3 is the implication graph. As part of the solving phase, we also construct an implication graph, albeit a partial one: The first package installing another package is marked as the reason (A -&#62; B), the same thing for conflicts (not A -&#62; not B). ↫ Julian Andres Klode Seems rather innocuous at first sight, but here&#8217;s what the implication graph will make possible: The implication graph building allows us to implement an apt why command, that while not as nicely detailed as aptitude, at least tells you the exact reason why a package is installed. It will only show the strongest dependency chain at first of course, since that is what we record. ↫ Julian Andres Klode If you&#8217;ve ever dealt with packaging issues &#8211; probably when running -testing or similar unstable distributions that use APT, a command that tells you exactly why a package is installed is an absolute godsend. Sure, aptitude exists, but aptitude takes you out of your current CLI workflow, whereas this will be much easier to quickly run. There&#8217;s more features solver3 will enable, but this one is definitely one of my favourite low-level additions to APT in a long, long time. 
+
+<https://www.osnews.com/story/139688/the-new-apt-3-0-solver/>
+
+---
+
+##  Hey, if you&#8217;re looking for a well-designed (and free!) ebook of Frankenstein... 
+
+date: 2024-05-14, updated: 2024-05-14, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044621-hey-if-youre-looking-for>
+
+---
+
+## try not to think
+
+date: 2024-05-14, from: Ayjay blog
+
+Fraudulent academic papers are on the rise, and will continue to be on the rise as long as academics substitute counting for judgment. The fetish for sheer numbers of publications should have ended decades ago, but the professoriate can’t confront its addiction, or accept its responsibility for creating this vast system of perverse incentives. It’s [&#8230;] 
+
+<https://blog.ayjay.org/try-not-to-think/>
+
+---
+
+## Google details some of the “AI” features coming to Android
+
+date: 2024-05-14, from: OS News
+
+Google I/O, the company&#8217;s developer conference, started today, but for the first time since I can remember, Android and Chrome OS have been relegated to day two of the conference. The first day was all about &#8220;AI&#8221;, most of which I&#8217;m not even remotely interested in, except of course where it related to Google&#8217;s operating system offerings. And the company did have a few things to say about &#8220;AI&#8221; on Android, and the general gist is that yeah, they&#8217;re going to be stuffing it into every corner of the operating system. Google&#8217;s &#8220;AI&#8221; tool Gemini will be integrated deeply into Android, and you&#8217;ll be able to call up an overlay wherever you are in the operating system, and do things like summarise a PDF that&#8217;s on screen, summarise a YouTube video, generate images on the fly and drop them into emails and conversations, and so on. A more interesting and helpful &#8220;AI&#8221; addition is using it to improve TalkBack, so that people with impaired vision can let the device describe images on the screen for them. Google claims TalkBack users come across about 90 images without description every day (!), so this is a massive improvement for people with impaired vision, and a genuinely helpful and worthwhile &#8220;AI&#8221; feature. Creepier is that Google&#8217;s &#8220;AI&#8221; will also be able to listen along with your phone calls, and warn you if an ongoing conversation is a scamming attempt. If the person on the other end of the line claiming to be your bank asks you to move a bunch of money around to keep it safe, Gemini will pop up and warn you it&#8217;s a scam, since banks don&#8217;t ask you such things. Clever, sure, but also absolutely terrifying and definitely not something I&#8217;ll be turning on. Google claims all of these features take place on-device, so privacy should be respected, but I&#8217;m always a bit unsure about such things staying that way in the future. Regardless, &#8220;AI&#8221; is coming to Android in a big way, but I&#8217;m just here wondering how much of it I&#8217;ll be able to turn off. 
+
+<https://www.osnews.com/story/139686/google-details-some-of-the-ai-features-coming-to-android/>
+
+---
+
+## VMware Workstation Pro and Fusion pro go free for personal use
+
+date: 2024-05-14, from: OS News
+
+After Broadcom acquired VMware, there&#8217;s been a steady stream of worrying or outright bad news for people using VMware products at home, for personal use, as enthusiasts. The biggest blow to the enthusiast market was the end of perpetual licensing, forcing people into subscriptions instead. Finally, though it seems we&#8217;re getting some good news. The most exciting part is that Fusion Pro and Workstation Pro will now have two license models. We now provide a Free Personal Use or a Paid Commercial Use subscription for our Pro apps. Users will decide based on their use case whether a commercial subscription is required. This means that everyday users who want a virtual lab on their Mac, Windows or Linux computer can do so for free simply by registering and downloading the bits from the new download portal located at support.broadcom.com. ↫ Michael Roy on the VMware blog This is definitely good news for us enthusiasts, and it means I won&#8217;t have to buy a cheap VMware license off eBay every few years anymore, so I&#8217;m quite satisfied here. However, with VMware under Broadcom focusing more and more on the enterprise and squeezing every last penny out of those customers, one has to wonder if this &#8216;free for personal use&#8217; is just a prelude to winding down the development of enthusiasts&#8217; tools altogether. It wouldn&#8217;t be the first time that a product going free for personal use was a harbinger of worse things yet to come. 
+
+<https://www.osnews.com/story/139684/vmware-workstation-pro-and-fusion-pro-go-free-for-personal-use/>
+
+---
+
+## Advent of Computing: Episode 131 - Computer... Books?
+
+date: 2024-05-14, from: Tilde.news
+
+<p><a href="https://tilde.news/s/mnfewp/advent_computing_episode_131_computer">Comments</a></p> 
+
+<https://adventofcomputing.libsyn.com/episode-131-computer-books>
+
+---
+
+## The State of iPadOS in 2024
+
+date: 2024-05-14, from: Michael Tsai
+
+Matthew Snyder (via Steve Troughton-Smith): The iPad feels like it&#8217;s caught between being the best hardware Apple makes, alongside the most ignored software. Steve Troughton-Smith: Some of the iPad angst isn&#8217;t that we have to wait &#8216;till WWDC to see if the software is improved.It&#8217;s that little birdies have strongly hinted to us not to [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/14/the-state-of-ipados-in-2024/>
+
+---
+
+## No Bounty for Kernel Vulnerability
+
+date: 2024-05-14, from: Michael Tsai
+
+Meysam: I reported CVE-2024-27804, an iOS/macOS kernel vulnerability that leads to the execution of arbitrary code with kernel privileges. It&#8217;s fixed in iOS 17.5 and macOS 14.5, but Apple says it&#8217;s not eligible for the security bounty. Via Hacker News and Jeff Johnson. Previously: iOS 17.5 and iPadOS 17.5 macOS 14.5 Reporting a Full Disk [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/14/no-bounty-for-kernel-vulnerability/>
+
+---
+
+## Criticism of Signal
+
+date: 2024-05-14, from: Michael Tsai
+
+Justin Ling: Zimmermann was a hacker in the oldest sense of the word. In the preceding years, he had grown freaked out by a proposal, put forward by a still-not-young Joe Biden, to force internet companies to give the U.S. government access to their users&#8217; communications. Zimmermann knew it was do-or-die time. Either the internet [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/14/criticism-of-signal/>
+
+---
+
+## Revamping Siri With iOS 18
+
+date: 2024-05-14, from: Michael Tsai
+
+Tripp Mickle, Brian X. Chen, and Cade Metz (MacRumors, Slashdot): Apple&#8217;s top software executives decided early last year that Siri, the company&#8217;s virtual assistant, needed a brain transplant. The decision came after the executives Craig Federighi and John Giannandrea spent weeks testing OpenAI&#8217;s new chatbot, ChatGPT. The product&#8217;s use of generative artificial intelligence, which can [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/14/revamping-siri-with-ios-18/>
+
+---
+
+## Eleasa Kim: Pioneering CLDP Payload Operations and Cultural Integration
+
+date: 2024-05-14, from: NASA breaking news
+
+Eleasa Kim, stationed at NASA’s Marshall Space Flight Center, leads the Commercial Low Earth Orbit Development Program (CLDP) payload operations at Johnson Space Center, with 18 years of mission support under her belt. Her roles have included biomedical engineer flight controller, payload safety engineer for Artemis I, planning and analysis branch operations discipline lead, and [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/eleasa-kim-pioneering-cldp-payload-operations-and-cultural-integration/>
+
+---
+
+## Mission Manager Update: VIPER Rover Approved to Move into Environmental Testing!
+
+date: 2024-05-14, from: NASA breaking news
+
+While NASA’s VIPER team has been focused on building the flight rover that will go to the South Pole of the Moon, the team has also been making preparations for environmental testing of the rover.&#160; In April, the VIPER team passed a System Test Readiness Review, exploring the readiness of the facilities, procedures, and staff [&#8230;] 
+
+<https://www.nasa.gov/missions/viper/mission-manager-update-viper-rover-approved-to-move-into-environmental-testing/>
+
+---
+
+## Sols 4184-4185: Look Near! Look Far!
+
+date: 2024-05-14, from: NASA breaking news
+
+Earth planning date: Monday, May 13, 2024 Today I’ve chosen to show off a spectacular image of ‘Texoli butte,’ but I’m rather biased in my assessment of its beauty because I am currently part of the team studying it. What continues to marvel me is Curiosity’s incredible suite of instruments that can not only help us […] 
+
+<https://science.nasa.gov/blogs/sols-4184-4185-look-near-look-far/>
+
+---
+
+## NASA Tests Technology, Practices Artemis Moonwalks in Arizona Desert
+
+date: 2024-05-14, from: NASA breaking news
+
+To prepare for exploring the Moon during NASA’s Artemis campaign, the agency is conducting a week-long field test in the lunar-like landscape of San Francisco Volcanic Field near Flagstaff, Arizona to practice moonwalk scenarios. NASA astronauts Kate Rubins and Andre Douglas are serving as the crewmembers and wearing mockup spacesuit systems as they traverse through [&#8230;] 
+
+<https://www.nasa.gov/humans-in-space/nasa-tests-technology-practices-artemis-moonwalks-in-arizona-desert/>
+
+---
+
+## How ‘Glowing’ Plants Could Help Scientists Predict Flash Drought
+
+date: 2024-05-14, from: NASA breaking news
+
+An unusual boost in plant productivity can foreshadow severe soil water loss. NASA satellites are following the clues. Flaring up rapidly and with little warning, the drought that gripped much of the United States in the summer of 2012 was one of the most extensive the country had seen since the yearslong Dust Bowl of [&#8230;] 
+
+<https://www.nasa.gov/earth/how-glowing-plants-could-help-scientists-predict-flash-drought/>
+
+---
+
+## It’s fun to do silly things
+
+date: 2024-05-14, from: Manu - I write blog
+
+
+                <p>I spend my time doing things online. I design and code websites for clients, I make websites for friends, and I start—and almost always shut down—all sorts of weird side projects. It’s easy to take this online life too seriously. If you go online you’ll immediately find people discussing business strategies and ways to monetise everything they do. Which is fine but also exhausting. The web is so caught up in the hustler mentality that it’s forgetting that some things can just be hobbies.</p>
+<p>I interviewed 37 people for my P&amp;B series at this point and if I’m not mistaken, all 37 of them are just happy to have a blog they pay for and have no plans to monetise it whatsoever. It’s a hobby, they enjoy doing it and that’s absolutely fine.</p>
+<p>In a few days, I’ll renew the domain for [theforest.link]. That site has so far generated 0$. I spent around 50$ just for the domain at this point. But should I care? Should I monetise this? Hell no. Carl and I built it because it’s fun, because the idea of helping people discover some new random wacky website is fun.</p>
+<p>The other day I was doing some design admin on my <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a> because I wanted to update a few of the graphics in there. And while I was doing that I had this completely stupid idea of creating a new membership tier called <em>The "I have F** you money" Club</em>. Do I expect anyone to actually subscribe? Obviously not, I did it because it’s silly, because I hope someone will laugh at the stupidity of it all. I did it because it’s fun to do silly things.</p>
+<p>Did you make anything silly recently? If you did show it to me! Send me an email, I want to see it.</p>                <hr>
+                <h2>Get in touch</h2>                <p>Have something to share? Want me as your <a href="https://manuelmoreale.com/i-ll-read-it">first reader</a>? Get in touch. My inbox is always open.</p>                <a href="mailto:hello@manuelmoreale.com">Connect</a> — 
+                <a href="https://manuelmoreale.com/guestbook">Guestbook</a>
+                <hr>
+                <h2>One a month</h2>                <p>That's how little it takes to help with my <a href="https://manuelmoreale.com/on-dreams-and-goals">goal</a>. If you feel generous, consider supporting what I do.</p>                <a href="https://ko-fi.com/manuelmoreale">Donate</a> — 
+                <a href="https://manuelmoreale.com/supporters">Supporters</a>
+                <hr>
+                <h2>People and Blogs</h2>                <p>I ask people to talk about themselves and their blogs. <a href="https://peopleandblogs.com/">Learn more</a> or subscribe.</p>                <a href="https://manuelmoreale.com/feed/peopleandblogs">RSS</a> — 
+                <a href="https://buttondown.email/peopleandblogs">Email</a>
+             
+
+<https://manuelmoreale.com/@/page/CfDjfEh43obyBShD>
+
+---
+
+## NASA’s DC-8 to Fly Low Altitude Over Pocatello, Idaho, for Final Flight
+
+date: 2024-05-14, from: NASA breaking news
+
+NASA’s DC-8 aircraft will fly at low altitude over Pocatello, Idaho, and surrounding areas during its final flight from NASA’s Armstrong Flight Research Center in Edwards, California, to Idaho State University. After 37 years of successful airborne science missions, the DC-8 aircraft is retiring at Idaho State University, where it will be used to train [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasas-dc-8-to-fly-low-altitude-over-pocatello-idaho-for-final-flight/>
 
 ---
 
@@ -229,6 +616,35 @@ date: 2024-05-14, from: NASA breaking news
 When we talk about the Earth&#8217;s Atmosphere, what do we mean? Imagine a layer cake, wrapping around the Earth. That is essentially what the Earth’s atmosphere is like: layers upon layers of gas surrounding the Earth, working to protect the planet. We asked Rei Ueyama, an atmospheric scientist at NASA Ames Research Center, to explain [&#8230;] 
 
 <https://www.nasa.gov/general/what-is-earths-atmosphere/>
+
+---
+
+## 2024 public data file now available, featuring new experimental formats
+
+date: 2024-05-14, from: Crossref Blog
+
+<p>This year’s public data file is now available, featuring over 156 million metadata records deposited with Crossref through the end of April 2024 from over 19,000 members. A full breakdown of Crossref metadata statistics is available <a href="https://www.crossref.org/06members/53status.html">here</a>.</p>
+<p>Like last year, you can download all of these records in one go via Academic Torrents or directly from Amazon S3 via the “requester pays” method.</p>
+<p><strong>Download the file:</strong> The torrent download can be initiated <a href="https://academictorrents.com/details/4426fa56a4f3d376ece9ac37ed088095a30de568" target="_blank">here</a>. Instructions for downloading via the “requester pays” method, along with other tips for using these files, can be found on the <a href="https://www.crossref.org/documentation/retrieve-metadata/rest-api/tips-for-using-public-data-files-and-plus-snapshots/">“Tips for working with Crossref public data files and Plus snapshots”</a> page.</p>
+<p>In January, Martin Eve <a href="https://www.crossref.org/blog/increasing-crossref-data-reusability-with-format-experiments/">announced</a> that we had been experimenting with alternative file formats meant to make our public data files easier to use by broader audiences. This year’s file will be published alongside the tools that can be used on the public data file to produce two experimental formats: <a href="https://gitlab.com/crossref/labs/packer" target="_blank">JSON-lines</a> and <a href="https://gitlab.com/crossref/labs/dois2sqlite" target="_blank">SQLite</a> (and a bonus <a href="https://gitlab.com/crossref/labs/rustsqlitepacker" target="_blank">Rust version</a>). You can read more about our thinking behind this work in <a href="https://www.crossref.org/blog/increasing-crossref-data-reusability-with-format-experiments/">Martin’s blog post</a>, and we are keen to hear your thoughts on these alternatives.</p>
+<p>Our annual public data file is meant to facilitate individuals and organizations interested in working with the entirety of our metadata corpus. Starting with the majority of our metadata records in one file should be much easier than starting from scratch with our API, but because Crossref metadata is always openly available, you can use <a href="https://api.crossref.org/" target="_blank">the API</a> to keep your local copy up to date with new and updated records.</p>
+<p>If you’re curious about what you’ll get with the public data file, we’ve also published a sample version so that you can take a peek before committing to downloading the ~212 gb file. This file includes a random sample of JSON files and is available exclusively via torrent <a href="https://academictorrents.com/details/d47fbe29e5ef93a6695421f79a6efa4b801acff1" target="_blank">here</a>.</p>
+<p>We hope you find this public data file useful. Should you have any questions about how to access or use the file, please see the tips below, or share your questions below (you will be redirected to our community forum).</p>
+<h3 id="tips-for-using-the-torrent-and-retrieving-incremental-updates">Tips for using the torrent and retrieving incremental updates</h3>
+<ul>
+<li>
+<p>Use the public data file if you want all Crossref metadata records. Everyone is welcome to the metadata, but it will be much faster for you and much easier on our APIs to get so many records in one file. Here are some <a href="https://www.crossref.org/documentation/retrieve-metadata/rest-api/tips-for-using-public-data-files-and-plus-snapshots/">tips on how to work with the file</a>.</p>
+</li>
+<li>
+<p>Use the REST API to incrementally add new and updated records once you have the initial file. Here is <a href="https://www.crossref.org/documentation/retrieve-metadata/rest-api/tips-for-using-the-crossref-rest-api/">how to get started</a> (and avoid getting blocked in your enthusiasm to use all this great metadata!).</p>
+</li>
+<li>
+<p>While bibliographic metadata is generally required, because lots of metadata is optional, records will vary in quality and completeness.</p>
+</li>
+</ul>
+<p>Questions, comments, and feedback are welcome at <a href="mailto:support@crossref.org">support@crossref.org</a>.</p> 
+
+<https://www.crossref.org/blog/2024-public-data-file-now-available-featuring-new-experimental-formats/>
 
 ---
 
@@ -633,7 +1049,7 @@ date: 2024-05-13, updated: 2024-05-13, from: Jason Kottke blog
 
 ## As Real as the Faith We Share
 
-date: 2024-05-13, updated: 2024-05-13, from: One Foot Tsunami
+date: 2024-05-13, updated: 2024-05-15, from: One Foot Tsunami
 
  
 

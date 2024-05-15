@@ -1,21 +1,328 @@
 ---
 title: weather 2024.20
-updated: 2024-05-14 08:31:12
+updated: 2024-05-15 08:46:35
 ---
 
 # weather 2024.20
 
-(date: 2024-05-14 08:31:12)
+(date: 2024-05-15 08:46:35)
+
+---
+
+## SPC - No MDs are in effect as of Wed May 15 15:30:11 UTC 2024
+
+date: 2024-05-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Wed May 15 15:30:11 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Severe Thunderstorm Watch 244 Status Reports
+
+date: 2024-05-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0244.html"><img src="https://www.spc.noaa.gov/products/watch/ww0244_radar.gif" border="1" alt="WW 0244 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 244
+
+THE SEVERE WEATHER THREAT CONTINUES ACROSS THE ENTIRE WATCH AREA.
+
+..GLEASON..05/15/24
+
+ATTN...WFO...JAX...MLB...TBW...
+
+
+STATUS REPORT FOR WS 244 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+FLC001-009-017-027-035-041-049-053-055-057-061-069-075-081-083-
+093-095-097-101-103-105-107-111-115-117-119-127-151640-
+
+FL 
+.    FLORIDA COUNTIES INCLUDED ARE
+
+ALACHUA              BREVARD             CITRUS              
+DESOTO               FLAGLER             GILCHRIST           
+HARDEE               HERNANDO            HIGHLANDS           
+HILLSBOROUGH         INDIAN RIVER        LAKE                
+LEVY                 MANATEE             MARION              
+OKEECHOBEE           ORANGE              OSCEOLA             
+PASCO                PINELLAS            POLK                
+PUTNAM               ST. LUCIE           SARASOTA            
+SEMINOLE             SUMTER              VOLUSIA             
+
+
+AMZ454-550-552-555-GMZ830-850-853-151640-
+
+CW 
+
+.    ADJACENT COASTAL WATERS INCLUDED ARE
+
+COASTAL WATERS FROM ST. AUGUSTINE TO FLAGLER BEACH FL OUT 20 NM 
+
+FLAGLER BEACH TO VOLUSIA-BREVARD COUNTY LINE 0-20 NM 
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0244.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0244.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 244
+
+date: 2024-05-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0244.html"><img src="https://www.spc.noaa.gov/products/watch/ww0244_radar.gif" border="1" alt="WW 0244 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Watch Number 244
+NWS Storm Prediction Center Norman OK
+1050 AM EDT Wed May 15 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Severe Thunderstorm Watch for portions of 
+  Northern/central Florida Peninsula
+  Coastal Waters
+
+* Effective this Wednesday morning and afternoon from 1050 AM
+  until 500 PM EDT.
+
+* Primary threats include...
+  Scattered damaging wind gusts to 70 mph possible
+  Scattered large hail events to 1.5 inches in diameter possible
+  A tornado or two possible
+
+SUMMARY...Thunderstorms will spread eastward across parts of the
+northern/central FL Peninsula through this afternoon, while posing a
+threat for mainly large hail and damaging winds.
+
+The severe thunderstorm watch area is approximately along and 60
+statute miles east and west of a line from 15 miles east of
+Gainesville FL to 30 miles south of Avon Park FL. For a complete
+depiction of the watch see the associated watch outline update
+(WOUS64 KWNS WOU4).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Severe Thunderstorm Watch means conditions are
+favorable for severe thunderstorms in and close to the watch area.
+Persons in these areas should be on the lookout for threatening
+weather conditions and listen for later statements and possible
+warnings. Severe thunderstorms can and occasionally do produce
+tornadoes.
+
+&&
+
+OTHER WATCH INFORMATION...This severe thunderstorm watch replaces
+tornado watch number 243. Watch number 243 will not be in effect
+after 1050 AM EDT. 
+
+AVIATION...A few severe thunderstorms with hail surface and aloft to
+1.5 inches. Extreme turbulence and surface wind gusts to 60 knots. A
+few cumulonimbi with maximum tops to 500. Mean storm motion vector
+26035.
+
+...Gleason
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0244.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0244.html>
 
 ---
 
 ## There are no tropical cyclones at this time.
 
-date: 2024-05-14, from: Eastern Pacific Basin GIS Data
+date: 2024-05-15, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Tue, 14 May 2024 14:49:31 GMT 
+No tropical cyclones as of Wed, 15 May 2024 14:24:37 GMT 
 
 <https://www.nhc.noaa.gov/gis/>
+
+---
+
+## SPC Tornado Watch 243 Status Reports
+
+date: 2024-05-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0243.html"><img src="https://www.spc.noaa.gov/products/watch/ww0243_radar.gif" border="1" alt="WW 0243 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 243
+
+THE SEVERE WEATHER THREAT CONTINUES ACROSS THE ENTIRE WATCH AREA.
+
+FOR ADDITIONAL INFORMATION SEE MESOSCALE DISCUSSION 0790
+
+..GLEASON..05/15/24
+
+ATTN...WFO...MLB...TBW...JAX...
+
+
+STATUS REPORT FOR WT 243 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+FLC009-017-035-053-057-069-075-081-083-095-097-101-103-105-107-
+109-117-119-127-151440-
+
+FL 
+.    FLORIDA COUNTIES INCLUDED ARE
+
+BREVARD              CITRUS              FLAGLER             
+HERNANDO             HILLSBOROUGH        LAKE                
+LEVY                 MANATEE             MARION              
+ORANGE               OSCEOLA             PASCO               
+PINELLAS             POLK                PUTNAM              
+ST. JOHNS            SEMINOLE            SUMTER              
+VOLUSIA              
+
+
+AMZ452-454-550-552-GMZ830-850-853-151440-
+
+CW 
+
+.    ADJACENT COASTAL WATERS INCLUDED ARE
+
+COASTAL WATERS FROM FERNANDINA BEACH TO ST. AUGUSTINE FL OUT 20
+NM 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0243.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0243.html>
+
+---
+
+## SPC May 15, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-05-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0758 AM CDT Wed May 15 2024
+
+Valid 151300Z - 161200Z
+
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS THE
+SOUTHERN HIGH PLAINS...
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE
+SOUTHEAST...
+
+...SUMMARY...
+Severe thunderstorms are expected across the southern Plains this
+afternoon and evening, accompanied by severe wind gusts, large hail,
+and perhaps a couple of tornadoes. Scattered severe thunderstorms
+are also possible this morning into the afternoon over parts of the
+central/northern Florida Peninsula, as well as the Carolinas.
+
+...Central/northern Florida Peninsula...
+Thunderstorms will likely continue to focus along, and perhaps later
+redevelop a bit north of, a modestly convergent effective baroclinic
+zone that extends southwest-northeastward across the region. A warm
+and moist (at least middle 70s F surface dewpoints) air mass resides
+across  much of the Peninsula. On the southern periphery of
+moderately strong cyclonically curved westerlies, related to a
+Tennessee Valley-centered upper trough, a moderately unstable
+environment and 40+ kt effective shear have been supportive of
+several embedded supercells in the pre-dawn hours.
+
+A further increase in convective coverage and intensity appears
+likely through the morning as the boundary layer warms, with some
+semi-discrete supercells expected. Damaging winds and large hail
+will be possible aside from a tornado risk. For additional
+short-term details, see Mesoscale Discussion 790. The overall severe
+risk seems likely to diminish/focus offshore by late afternoon.
+
+...Carolinas...
+Ahead of the weak surface low, adequate boundary layer heating and
+moistening should occur beneath 6.5-7 C/km mid-level lapse rates,
+supporting a marginally unstable but uncapped airmass by afternoon.
+The combination of surface heating, and some dynamic lifting induced
+by the approaching mid-level trough, will support late morning/early
+afternoon thunderstorm initiation. Stronger westerly flow aloft from
+the mid-level trough will overspread the warm sector, contributing
+to 30-40 kt of effective bulk shear. Surface temperatures warming
+into the low 80s F amid mid 60s F dewpoints will boost MLCAPE to at
+least 1500 J/kg. Given relatively elongated, straight hodographs,
+splitting supercells and merging multicells should occur through the
+afternoon, accompanied by a severe wind and hail risk.
+
+...Southern Plains...
+A weak triple point will become increasingly established near the
+Oklahoma/Kansas border vicinity into this afternoon, with a
+moist/moderate unstable air mass to the east of a surface
+trough/dryline extending southwestward toward the Texas Panhandle
+and Texas South Plains. The region may be further influenced by a
+subtle northeastward-developing mid-level speed max later today. 
+
+Multiple zones of sub-regional thunderstorm development and
+intensification are expected during the mid/late afternoon. This
+includes high-based thunderstorm development across west/northwest
+Texas within a deeply mixed environment. Ample evaporative cooling
+within the deep, well-mixed boundary layer will yield the
+development of deep, strong cold pools with a tendency to merge
+through evening. Other storms should develop this afternoon in
+vicinity of the Raton Mesa in an evolving low-level upslope flow
+regime, and near and east of the Oklahoma/Kansas border vicinity
+triple point. Supercells are most probable (potential and duration
+thereof) with any development near/east of this surface triple
+point, and with the evolving post-frontal upslope flow regime from
+far northeast New Mexico into the Oklahoma/northern Texas
+Panhandles.
+
+Large hail will be possible especially within the first few hours of
+deep convective initiation, but severe-wind-producing clusters are
+expected to rapidly propagate from the Texas/Oklahoma Panhandles
+into northwestern Oklahoma and eventually far southern Kansas by
+late afternoon/early evening, preceded by richer low-level moisture
+and a strengthening low-level jet. 
+
+Storms should gradually weaken overnight as they either become
+undercut by cold pools, or they outpace the buoyancy axis by the
+time they reach far eastern Kansas and northeast Oklahoma. 
+
+...Southern High Plains...
+Farther south, more isolated thunderstorms may initiate along a
+diffuse dryline across west/southwest Texas toward the Rio Grande.
+Given overall weak forcing, confidence in thunderstorm development
+and sustenance is not overly high, but any storm that can form and
+mature may become supercellular, accompanied by severe wind and
+hail.
+
+..Guyer/Dean.. 05/15/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-05-15, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Wed May 15 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>&&<br>Today, May 15th, marks the first day of routine issuance of the <br>Atlantic basin Tropical Weather Outlook in 2024.  This product <br>describes significant areas of disturbed weather and their <br>potential for tropical cyclone formation during the next seven <br>days.  The Tropical Weather Outlook is issued from May 15 through <br>November 30 each year.  The issuance times of this product are 2 AM,<br>8 AM, 2 PM, and 8 PM EDT.  After the change to standard time in <br>November, the issuance times are 1 AM, 7 AM, 1 PM, and 7 PM EST. <br><br>A Special Tropical Weather Outlook will be issued to provide <br>updates, as necessary, in between the regularly scheduled issuances <br>of the Tropical Weather Outlook.  Special Tropical Weather Outlooks <br>will be issued under the same WMO and AWIPS headers as the regular <br>Tropical Weather Outlooks.<br><br>A graphical version of the Tropical Weather Outlook is available on <br>the web at: https://www.hurricanes.gov<br><br>$$<br>Forecaster Hagen/Blake <br>NNNN<br><br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
@@ -205,94 +512,6 @@ LAT...LON   28838244 29328173 29398092 27968019 27428130 27288265
 
 ---
 
-## SPC May 14, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-05-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0752 AM CDT Tue May 14 2024
-
-Valid 141300Z - 151200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE
-SOUTHEAST STATES...
-
-...SUMMARY...
-Severe thunderstorms are possible today over parts of central and
-northern Florida and southeast Georgia, with damaging gusts and a
-tornado or two possible. Severe storms may also occur across
-portions of the Ohio and Tennessee Valleys into the Carolina
-Piedmont, as well as the central Rockies/High Plains and parts of
-west Texas.
-
-...Northern/central Florida and southern Georgia...
-A well-organized quasi-linear MCS will continue across far southeast
-Georgia toward southern South Carolina this morning, with at least a
-localized severe risk possible. Additional development may occur
-along the southwestward-trailing outflow that should modify during
-the day, while other storms ongoing over the Gulf of Mexico may also
-reach the central Florida Peninsula. With moderate destabilization
-(2000-3000 J/kg MLCAPE) and steep lapse rates (reference 12z
-observed soundings) along/south of the effective boundary, modest
-low-level hodograph curvature and some elongation suggests that
-embedded bowing structures and mesovortices could develop,
-accompanied by a damaging gust and tornado risk. For additional
-short-term details, see Mesoscale Discussion 780.
-
-...Ohio/Tennessee Valleys to the Carolinas...
-Deep-layer moisture will advect northward ahead of a meandering
-surface low, beneath a nearly uncapped troposphere. As such, diurnal
-heating needs only to boost surface temperatures into the lower 70s
-F to initiate convection. These temperatures, along with low to mid
-60s F dewpoints, will support around 1000 J/kg SBCAPE by afternoon.
-Flow aloft is generally not expected to be overly strong, with
-slightly curved and short hodographs likely resulting in mainly
-pulse multicellular storms, although some supercells are possible
-across the Tennessee Valley toward southern Appalachians. Damaging
-gusts and hail will be the main threats, though a brief tornado or
-two could occur.
-
-...Central Rockies into the Central High Plains...
-The approach of a low-amplitude mid-level trough, and diurnal
-heating of an uncapped boundary layer, will support scattered to
-numerous thunderstorms during the afternoon and evening hours. A
-deep and dry boundary layer should become established by afternoon
-peak heating, resulting in high-based pulse/multicell storms
-capable of producing isolated severe gusts (given 7-9 C/km low and
-mid-level lapse rates). A couple instances of severe hail may also
-accompany storms over the central High Plains, where low-level
-moisture is slightly more favorable.
-
-...West/northwest Texas...
-A narrow corridor of thunderstorm potential exists ahead of a
-diffuse dryline over western Texas by afternoon peak heating, where
-the dryline circulation may be strong enough to assist in the
-initiation of isolated thunderstorms amid minimal CINH. Low-level
-moisture will be meager, with mid 80s F surface temperatures and low
-50s F dewpoints contributing to over 30 F spreads, so any storms
-that develop will be high based. If/where storms develop, somewhat
-elongated hodographs suggest that supercells would be the dominant
-mode of convection, accompanied by an isolated severe wind/hail
-risk.
-
-...Northern New England...
-An adequately unstable environment on the southern fringe of
-stronger westerlies aloft could support a few strong to locally
-severe storms this afternoon, potentially spanning parts of northern
-New York and Vermont/New Hampshire into nearby Maine.
-
-..Guyer/Dean.. 05/14/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
 ## SPC Tornado Watch 240 Status Reports
 
 date: 2024-05-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -373,45 +592,6 @@ highlights.
  
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2024-05-13, from: Eastern Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ABPZ20 KNHC 131920<br />
- TWOEP <br />
- <br />
- Special Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 1220 PM PDT Mon May 13 2024<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- Special Tropical Weather Outlook issued to discuss possible <br />
- development to the south of Mexico later this week. <br />
- <br />
- South of the Coast of Mexico:<br />
- An area of low pressure is forecast to form along a trough several <br />
- hundred miles to the south of the Gulf of Tehuantepec by the middle <br />
- to latter portion of this week. Thereafter, some gradual development <br />
- of this system is possible as the low begins to move slowly to the <br />
- west-northwest, remaining south of the coast of Mexico through early <br />
- next week. <br />
- * Formation chance through 48 Hours...low...near 0 percent.<br />
- * Formation chance through 7 days...low...30 percent.<br />
- <br />
- The next Special Tropical Weather Outlook on this system will be <br />
- issued by 2 PM PDT Tuesday, or earlier if conditions warrant.<br />
- <br />
- $$<br />
- Forecaster Papin<br />
-  
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 
