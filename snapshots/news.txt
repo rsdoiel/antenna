@@ -257,6 +257,7 @@ https://blog.getpocket.com/feed/ "~Get Pocket blog"
 https://odysseygamesco.com/feed/ "~Odyssey Games blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 #https://www.frontiersin.org/journals/cellular-and-infection-microbiology/rss "~Frontiers in Cellar and Infection Microbiology" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://www.fromjason.xyz/notebook/feed/feed.xml "~Jason Valazquez noteboook" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://wilw.dev/feeds "~Wil Webberly blog"
 
 #
 # News, Current Events, Journalism and Opinion
