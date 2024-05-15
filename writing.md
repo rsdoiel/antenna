@@ -1,11 +1,66 @@
 ---
 title: writing 2024.20
-updated: 2024-05-15 08:46:35
+updated: 2024-05-15 13:07:21
 ---
 
 # writing 2024.20
 
-(date: 2024-05-15 08:46:35)
+(date: 2024-05-15 13:07:21)
+
+---
+
+## 🩳 Can my script be as short as Somewhere?
+
+date: 2024-05-15, from: Interesting, a blog on writing
+
+How many pages does a feature really need to be taken seriously as a feature? 
+
+<https://inneresting.substack.com/p/can-my-script-be-as-short-as-somewhere>
+
+---
+
+## Alice Munro
+
+date: 2024-05-15, from: Margaret Atwoods Substack
+
+I'll soon be back to the French Revvie with New Atrocities and Scandals for You, but first... 
+
+<https://margaretatwood.substack.com/p/alice-munro>
+
+---
+
+## 2024 CrimeFest Awards Winners
+
+date: 2024-05-15, from: Locus Magazine
+
+<p>Winners for the 2024 CrimeFest Awards have been announced, including authors and titles of genre interest.</p>
+<div class="mynomorebulletlist">
+<p><strong>eDUNNIT Award</strong></p>
+<ul>
+<li>WINNER: <strong>Prom Mom</strong>, Laura Lippman (Faber &#38; Faber)</li>
+<li><strong>Sepulchre Street</strong>, Martin Edwards (Head of Zeus)</li>
+<li><strong>The Devil’s Playground</strong>, Craig Russell (Constable)</li>
+</ul>
+<p><strong>Best Crime Novel for Young Adults</strong></p>
+<ul>
+<li>WINNER: <strong>Stateless</strong>, Elizabeth Wein (Bloomsbury YA)</li>
+<li><strong>The Brothers Hawthorne</strong>, Jennifer Lynn Barnes (Penguin Random House Children’s UK)</li>
+<li><strong>Promise Boys</strong>, </li></ul></div> <a href="https://locusmag.com/2024/05/2024-crimefest-awards-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/05/2024-crimefest-awards-winners/>
+
+---
+
+## Tähtivaeltaja Award Winner
+
+date: 2024-05-15, from: Locus Magazine
+
+<p>The winner of the the Tähtivaeltaja Award is <strong>Tällä tavalla hävitään aikasota</strong> [This Is How You Lose the Time War] by Amal El-Mohtar &#38; Max Gladstone (Hertta), translated by Kaisa Ranta.</p>
+<p>The award honors the best science fiction book published in Finland in the previous year, and is sponsored by the Helsinki Science Fiction Society.</p>
+<div class="mynomorebulletlist">
+<p>The judging panel includes Hannu Blommila, Toni Jerrman, Elli Leppä, and Kaisa Ranta. For more </p></div> <a href="https://locusmag.com/2024/05/tahtivaeltaja-award-winner/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/05/tahtivaeltaja-award-winner/>
 
 ---
 

@@ -1,11 +1,91 @@
 ---
 title: games 2024.20
-updated: 2024-05-15 08:46:35
+updated: 2024-05-15 13:07:21
 ---
 
 # games 2024.20
 
-(date: 2024-05-15 08:46:35)
+(date: 2024-05-15 13:07:21)
+
+---
+
+## Ubisoft cancels The Division Heartland, the latest AAA free-to-play game casualty
+
+date: 2024-05-15, updated: 2024-05-15, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24157512/tom-clancys-division-heartland-canceled-ubisoft>
+
+---
+
+## Furiosa kicks sand in the face of boring franchise-filler movies
+
+date: 2024-05-15, updated: 2024-05-15, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24157385/furiosa-review-no-spoilers-george-miller-anya-taylor-joy>
+
+---
+
+## Red Dead Redemption 2 returns to PlayStation Plus in May offerings
+
+date: 2024-05-15, updated: 2024-05-15, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24157535/playstation-plus-may-catalog-red-dead-redemption-2>
+
+---
+
+## Diablo 4 is finally great
+
+date: 2024-05-15, updated: 2024-05-15, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24157377/diablo-4-season-4-loot-reborn-impressions>
+
+---
+
+## X-Men ’97’s wild cliffhanger tells us all we need to know about season 2
+
+date: 2024-05-15, updated: 2024-05-15, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24157258/x-men-97-season-2-askani-en-sabah-nur-mother>
+
+---
+
+## Ubisoft reveals Assassin’s Creed Shadows, its long-awaited feudal Japan game
+
+date: 2024-05-15, updated: 2024-05-15, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24156633/ubisoft-assassins-creed-shadows-trailer-release-date-codename-red>
+
+---
+
+## Lorelei and the Laser Eyes broke my brain, then built it back up
+
+date: 2024-05-15, updated: 2024-05-15, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24156442/lorelei-and-the-laser-eyes-review-steam-pc-nintendo-switch>
+
+---
+
+## Nintendo Switch Online’s new update is quietly 3 classic Mario games
+
+date: 2024-05-15, updated: 2024-05-15, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24157336/nintendo-switch-online-game-boy-update-super-mario-land>
 
 ---
 

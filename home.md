@@ -1,11 +1,21 @@
 ---
 title: home 2024.20
-updated: 2024-05-15 08:46:35
+updated: 2024-05-15 13:07:21
 ---
 
 # home 2024.20
 
-(date: 2024-05-15 08:46:35)
+(date: 2024-05-15 13:07:21)
+
+---
+
+## California Ag producers receive more $22 million for organic production
+
+date: 2024-05-15, from: Calfifornia Dept. Aggriculture blog
+
+From a USDA News Release USDA Secretary Tom Vilsack has announced new programs, partnerships and grant awards to expand markets for organic products and help producers transition to organic production. These programs will support the development of new and better &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27732">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27732>
 
 ---
 

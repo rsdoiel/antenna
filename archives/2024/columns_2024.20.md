@@ -1,11 +1,144 @@
 ---
 title: columns 2024.20
-updated: 2024-05-15 08:46:35
+updated: 2024-05-15 13:07:21
 ---
 
 # columns 2024.20
 
-(date: 2024-05-15 08:46:35)
+(date: 2024-05-15 13:07:21)
+
+---
+
+##  Delia Brown&#8217;s Portraits 
+
+date: 2024-05-15, updated: 2024-05-15, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/delia-browns-portraits>
+
+---
+
+##  Paul Ford writing about AI is a treat. &#8220;AI is, very simply,... 
+
+date: 2024-05-15, updated: 2024-05-15, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044629-paul-ford-writing-about-a>
+
+---
+
+##  “My love of farm-fresh frozen confections does not outweigh my distaste for... 
+
+date: 2024-05-15, updated: 2024-05-15, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044626-my-love-of-farm-fresh-fro>
+
+---
+
+##  The Trailer for Francis Ford Coppola&#8217;s Megalopolis 
+
+date: 2024-05-15, updated: 2024-05-15, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/the-trailer-for-francis-ford-coppolas-megalopolis>
+
+---
+
+## StopTheMadness Pro
+
+date: 2024-05-15, updated: 2024-05-15, from: Daring Fireball
+
+ 
+
+<https://underpassapp.com/StopTheMadness/>
+
+---
+
+## the archetypal future
+
+date: 2024-05-15, from: Ayjay blog
+
+Next month I have an essay coming out in Harper’s called “Yesterday’s Men: The Death of the Mythical Method.” In it I look at the rise — a rise that started a looong time ago — of myth as the central category of discourse among poets, novelists, and humanities scholars; and then I look at [&#8230;] 
+
+<https://blog.ayjay.org/the-archetypal-future/>
+
+---
+
+## Jeff Johnson: ‘Apple Started Cheating Me Out of App Store Bundle Purchases’
+
+date: 2024-05-15, updated: 2024-05-15, from: Daring Fireball
+
+ 
+
+<https://lapcatsoftware.com/articles/2024/5/2.html>
+
+---
+
+##  TIL that some tiny bits of bitcoins are more valuable than others.... 
+
+date: 2024-05-15, updated: 2024-05-15, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044623-til-that-some-tiny-bits>
+
+---
+
+## Casey Newton: ‘Google’s Broken Link to the Web’
+
+date: 2024-05-15, updated: 2024-05-15, from: Daring Fireball
+
+ 
+
+<https://www.platformer.news/google-io-ai-search-sundar-pichai/>
+
+---
+
+## The Knicks won last night
+
+date: 2024-05-15, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/05/15/knicksAtTheGarden.png"></center>Knicks at the Garden via ChatGPT 4o.</div></p>
+<p>They <a href="http://scripting.com/2024/05/14/125908.html">needed</a> fresh blood, and they got it. </p>
+<p>Knicks won in a blowout. </p>
+<p>I had no idea that was coming. </p>
+<p>Next game on Friday.</p>
+ 
+
+<http://scripting.com/2024/05/15/160638.html?title=theKnicksWonLastNight>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-15, from: Dave Winer's Scripting News)
+
+<a href="https://www.nytimes.com/2024/05/15/opinion/artificial-intelligence-ai-openai-chatgpt-overrated-hype.html">AI is not over-hyped</a>, imho. I'm discovering new significance for it every day. An example. I had to go back to some very complex code I wrote a week ago. I wanted to give it new flexibility, that would be simple from the user's point of view, and in order for it to work technically it has to maintain that simplicity internally. It's a tall order to go back to something complex a week after writing it, and rip it apart and put it back together and have it retain the simplicity it had before. But I had an advantage this time that I had never had before, a programming partner with a perfect memory. I had written the original code with ChatGPT. So I went back and asked it to review my plan, and then worked with it step by step as I had before. It had perfect recall, right, of course where my recall is pretty sketchy. It took two sessions to get it done, but it works now, and I'm confident I've covered all the bases. How do you put that story in a press release? If you want to understand a new technology, don't talk to the CEO of the tech company that made the product, their lives are whirlwinds, they don't have time or the capacity to understand how big the idea is, they just know that it is big. If you want to understand you have to use it and you have to talk with other users. 
+
+<http://scripting.com/2024/05/15.html#a155730>
+
+---
+
+## Apple Announces New Accessibility Features for 2024
+
+date: 2024-05-15, updated: 2024-05-15, from: Daring Fireball
+
+ 
+
+<https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/>
+
+---
+
+##  Whoa, a 5500-piece Lego set of the tower of Barad-dûr from LoTR.... 
+
+date: 2024-05-15, updated: 2024-05-15, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044625-whoa-a-5500-piece-lego-se>
 
 ---
 

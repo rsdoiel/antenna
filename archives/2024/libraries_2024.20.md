@@ -1,11 +1,22 @@
 ---
 title: libraries 2024.20
-updated: 2024-05-15 08:46:35
+updated: 2024-05-15 13:07:21
 ---
 
 # libraries 2024.20
 
-(date: 2024-05-15 08:46:35)
+(date: 2024-05-15 13:07:21)
+
+---
+
+## Structured questionnaires can make peer review more efficient
+
+date: 2024-05-15, from: SciELO in Perspective
+
+<p>In order to make peer review more efficient, a study proposes adopting a standard form to be answered by reviewers, so that no important aspect of the manuscript's evaluation goes unnoticed. Available in Portuguese only. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/blog/2024/05/15/questionarios-estruturados-podem-tornar-a-avaliacao-por-pares-mais-eficiente/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/blog/2024/05/15/questionarios-estruturados-podem-tornar-a-avaliacao-por-pares-mais-eficiente/#new_tab">Structured questionnaires can make peer review more efficient</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://blog.scielo.org/blog/2024/05/15/questionarios-estruturados-podem-tornar-a-avaliacao-por-pares-mais-eficiente/#new_tab>
 
 ---
 
@@ -59,7 +70,7 @@ date: 2024-05-14, from: Scholarly Kitchen
 
 date: 2024-05-13, from: Association of Research Libraries News
 
-<p>Last Updated on May 14, 2024, 3:34 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 14 &#124; Wednesday, May 15 &#124; Thursday,...</p>
+<p>Last Updated on May 15, 2024, 3:29 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 14 &#124; Wednesday, May 15 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/40286/">Day in Review (May 13–16)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

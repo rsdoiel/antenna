@@ -44,6 +44,8 @@ https://www.filfre.net/feed/ "~Digital Antiquarian"
 
 # Misc, uncategorized
 https://happymacs.wordpress.com/feed/ "~Happy Macs site"
+# Old Vintage Computing Research appears to be written by the maintainer of Floodgap Gopher site
+https://oldvcr.blogspot.com/feeds/posts/default?alt=rss "~Old Ventage Computing Research"
 
 # Magazines
 https://www.linux-magazine.com/rss/feed/lmi_news "~Linux Magazine"

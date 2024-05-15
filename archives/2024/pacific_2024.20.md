@@ -1,11 +1,33 @@
 ---
 title: pacific 2024.20
-updated: 2024-05-15 08:46:34
+updated: 2024-05-15 13:07:20
 ---
 
 # pacific 2024.20
 
-(date: 2024-05-15 08:46:34)
+(date: 2024-05-15 13:07:20)
+
+---
+
+## Image of the Week: Shower tree
+
+date: 2024-05-15, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> This week's image is from <abbr>UH</abbr> Mānoa's Nancy Marker</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/15/image-of-the-week-shower-tree/">Image of the Week: Shower tree</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/15/image-of-the-week-shower-tree/>
+
+---
+
+## Maui residents face health decline, access struggles after wildfires in new UH report
+
+date: 2024-05-15, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">4</span> <span class="rt-label rt-postfix">minutes</span></span> Over at least the next 10 years, the study aims to document the acute and chronic health impacts and social conditions caused by the Maui wildfires.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/15/maui-wildfire-exposure-study-report/">Maui residents face health decline, access struggles after wildfires in new <abbr>UH</abbr> report</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/15/maui-wildfire-exposure-study-report/>
 
 ---
 

@@ -1,11 +1,546 @@
 ---
 title: socal north 2024.20
-updated: 2024-05-15 08:46:34
+updated: 2024-05-15 13:07:20
 ---
 
 # socal north 2024.20
 
-(date: 2024-05-15 08:46:34)
+(date: 2024-05-15 13:07:20)
+
+---
+
+## Luis Enrique no se aguantó a reportero que le preguntó sobre la llegada de Mbappé al Real Madrid
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+El director técnico del PSG, Luis Enrique, fue protagonista en la conferencia de prensa al dar una extraña respuesta sobre la salida de su jugador estrella, Kylian Mbappé
+ 
+
+<https://laopinion.com/2024/05/15/luis-enrique-no-se-aguanto-a-reportero-que-le-pregunto-sobre-la-llegada-de-mbappe-al-real-madrid/>
+
+---
+
+## El mago David Copperfield es acusado de conducta sexual inapropiada por 16 mujeres
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+David Copperfield enfrenta acusaciones de índole sexual por parte de 16 mujeres; muchas de éstas argumentan que eran menores de edad cuando él las buscó; los abogados del ilusionista niegan los hechos 
+
+<https://laopinion.com/2024/05/15/el-mago-david-copperfield-es-acusado-de-conducta-sexual-inapropiada-por-16-mujeres/>
+
+---
+
+## Biden llama a Trump perdedor y le reprocha su intento de anular un acuerdo seguridad fronteriza
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Joe Biden volvió a arremeter en contra de Donald Trump a quien no le perdona su presunta intención de echar abajo un acuerdo seguridad fronteriza con tal de hacerlo quedar mal 
+
+<https://laopinion.com/2024/05/15/biden-llama-a-trump-perdedor-y-le-reprocha-su-intento-de-anular-un-acuerdo-seguridad-fronteriza/>
+
+---
+
+## Las personas más bondadosas son de 4 signos del zodiaco, según astrólogos
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+¿Te preguntas qué tipo de personas son las más bondadosas? La astrología puede decirnos qué signos tienen una tendencia a ser más generosos, empáticos y altruistas. Conoce quiénes son 
+
+<https://laopinion.com/2024/05/15/las-personas-mas-bondadosas-son-de-4-signos-del-zodiaco-segun-astrologos/>
+
+---
+
+## Así era la humilde casa en la que el comediante Paco Stanley vivió durante su infancia
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Paco Stanley creció rodeado de la pobreza y miseria, a tal grado de que dormia en el piso junto a ratas 
+
+<https://laopinion.com/2024/05/15/asi-era-la-humilde-casa-en-la-que-el-comediante-paco-stanley-vivio-durante-su-infancia/>
+
+---
+
+## Las tiendas que Walmart cerró hasta ahora y las que siguen en los próximos meses
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Las próximas ubicaciones que Walmart cerrará están en California, Maryland, Ohio y Wisconsin debido a un bajo rendimiento  
+
+<https://laopinion.com/2024/05/15/las-tiendas-que-walmart-cerro-hasta-ahora-y-las-que-siguen-en-los-proximos-meses/>
+
+---
+
+## Por qué los 21 tripulantes del carguero que chocó contra el puente de Baltimore todavía no han podido desembarcar 7 semanas después del accidente
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Aislados en gran medida del mundo y de sus familias, los tripulantes del carguero Dali siguen a la espera de poder abandonar el barco para caminar en tierra firme y regresar a sus casas. 
+
+<https://laopinion.com/2024/05/15/por-que-los-21-tripulantes-del-carguero-que-choco-contra-el-puente-de-baltimore-todavia-no-han-podido-desembarcar-7-semanas-despues-del-accidente/>
+
+---
+
+## Ahora extorsionan a colegios: Criminales exigen dinero a una primaria en Veracruz para evitar “accidentes”
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Autoridades y padres de familia de una primaria en Veracruz, descubrieron un mensaje del crimen organizado en el que les exigen dinero a cambio de que no haya "accidentes" en el colegio 
+
+<https://laopinion.com/2024/05/15/ahora-extorsionan-a-colegios-criminales-exigen-dinero-a-una-primaria-en-veracruz-para-evitar-accidentes/>
+
+---
+
+## Hija de Lupillo Rivera se lanza contra Maripily: “Tóxica y obsesionada”
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Abigail, una de las hijas del cantante Lupillo Rivera, no se guardó nada al hablar sobre la finalista de "La Casa de los Famosos", Maripily Rivera. Checa aquí lo que dijo 
+
+<https://laopinion.com/2024/05/15/hija-de-lupillo-rivera-se-lanza-contra-maripily-toxica-y-obsesionada/>
+
+---
+
+## AMLO asegura que el gobernador republicano de Texas, Greg Abbott, ya se ha “moderado” en sus actitudes
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Andrés Manuel López Obrador afirma que México y Estados Unidos necesitan establecer diálogos para alcanzar acuerdos a favor de ambas naciones 
+
+<https://laopinion.com/2024/05/15/amlo-asegura-que-el-gobernador-republicano-de-texas-greg-abbott-ya-se-ha-moderado-en-sus-actitudes/>
+
+---
+
+## Detienen a violador serial en Missouri que llevaba 24 años prófugo
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Herman Carroll era buscado desde el año 2000, y el Servicio de Alguaciles de Estados Unidos ofreció una recompensa de 10,000 dólares por información que ayudara a su captura 
+
+<https://laopinion.com/2024/05/15/detienen-a-violador-serial-en-missouri-que-llevaba-24-anos-profugo/>
+
+---
+
+## Cantando: Asian American Songs
+
+date: 2024-05-15, from: The Sundail (CSUN Student Newspaper)
+
+During Asian American and Pacific Islander Heritage Month, multiple musical artists might come to mind. The following artists come from different Asian ethnic backgrounds and incorporate unique elements of their... 
+
+<https://sundial.csun.edu/181632/print-editions/print-stories/cantando-asian-american-songs/>
+
+---
+
+## Mexicano Pedro Guevara expresa molestia ante comentarios de Andrew Moloney tras derrotarlo
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Pedro Guevara expresó que no le gustó la reacción y las cosas negativas que dijo Andrew Moloney después del duelo, pero dejó claro que ganó limpiamente y que si el australiano quiere puede darle la revancha de inmediato 
+
+<https://laopinion.com/2024/05/15/mexicano-pedro-guevara-expresa-molestia-ante-comentarios-de-andrew-moloney-tras-derrotarlo/>
+
+---
+
+## Selena Harris enters transfer portal, ‘dismissed’ from UCLA gymnastics
+
+date: 2024-05-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated 12:24 p.m.</em>
+Selena Harris reached perfection thrice in 2024.
+In 2023, she formed a formidable duo with Olympian Jordan Chiles — surging the Bruins to nationals for the first time since 2019. 
+
+<https://dailybruin.com/2024/05/15/selena-harris-enters-transfer-portal-dismissed-from-ucla-gymnastics/>
+
+---
+
+## 4 signos del horóscopo chino tendrán una aventura inesperada hasta el 18 de mayo
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Si la semana se ha vuelto monótona y estresante para estos 4 signos del horóscopo chino, las predicciones de la astrología tienen noticias emocionantes: les espera una aventura inesperada, después de todo, son viajeros excelentes 
+
+<https://laopinion.com/2024/05/15/4-signos-del-horoscopo-chino-tendran-una-aventura-inesperada-hasta-el-18-de-mayo/>
+
+---
+
+## Barcaza chocó contra el puente Pelican Island en Texas y provocó daños en su vía ferroviaria
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Las autoridades locales indicaron a la prensa que el golpe al puente Pelican Island en Galveston ocasionó un derrame de petróleo en la zona, pero apuntaron a que no ha habido heridos 
+
+<https://laopinion.com/2024/05/15/barcaza-choco-contra-el-puente-pelican-island-en-texas-y-provoco-danos-en-su-via-ferroviaria/>
+
+---
+
+## Cheque de estímulo de $6,000 dólares en California: último día para solicitarlo
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+El programa de ingresos garantizados Advancing Fresno County cierra este miércoles 15 de mayo su proceso de solicitudes para elegir a 150 familias que reciban $500 dólares al mes durante un año, para un pago total de $6,000 dólares 
+
+<https://laopinion.com/2024/05/15/cheque-de-estimulo-de-6000-dolares-en-california-ultimo-dia-para-solicitarlo/>
+
+---
+
+## La Copa América será musicalizada por Shakira; la colombiana reveló que le pondrá uno de sus temas
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+La cantante aportará una versión especial de su tema "Puntería" 
+
+<https://laopinion.com/2024/05/15/la-copa-america-sera-musicalizada-por-shakira-la-colombiana-revelo-que-le-pondra-uno-de-sus-temas/>
+
+---
+
+## El cheque de estímulo de hasta $1,300 dólares podría llegar a su cuenta en las próximas horas
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+El último pago de este mes por parte del Dividendo de Fondos Permanente del estado de Alaska se efectuará este jueves 16 de mayo 	 
+
+<https://laopinion.com/2024/05/15/el-cheque-de-estimulo-de-hasta-1300-dolares-podria-llegar-a-su-cuenta-en-las-proximas-horas/>
+
+---
+
+## 5 claves de la última gran ofensiva de Rusia en territorio de Ucrania que obligó a miles de personas a huir de sus hogares
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+La ofensiva rusa en la región de Járkiv, la segunda mayor ciudad de Ucrania, estaba prevista. ¿Por qué las fuerzas ucranianas no pudieron detenerla? 
+
+<https://laopinion.com/2024/05/15/el-mundo-se-quedo-dormido-5-claves-de-la-ultima-gran-ofensiva-de-rusia-en-territorio-de-ucrania-que-obligo-a-miles-de-personas-a-huir-de-sus-hogares/>
+
+---
+
+## Sicarios matan a un joven en Brasil mientras realizaba una transmisión para TikTok
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Un joven conocido en TikTok como "Nesaku" fue atacado a quemarropa con un disparo en la cabeza mientras transmitía en vivo en plena calle de Río de Janeiro 
+
+<https://laopinion.com/2024/05/15/sicarios-matan-a-un-joven-en-brasil-mientras-realizaba-una-transmision-para-tiktok/>
+
+---
+
+## Red Bull Racing ya tendría listo el futuro de Sergio ‘Checo’ Pérez
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+El piloto mexicano, Sergio 'Checo' Peréz, ha comenzado la temporada 2024 de la mejor manera con cuatro podios al momento
+ 
+
+<https://laopinion.com/2024/05/15/red-bull-racing-ya-tendria-listo-el-futuro-de-sergio-checo-perez/>
+
+---
+
+## ¿Por qué el PRI y el PAN deben desaparecer?
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Actualmente estos partidos lo único que han probado es que solo buscan beneficiarse de la privatización y de la entrega de recursos del país al mejor postor; ya lo hicieron antes y lo quieren seguir haciendo 
+
+<https://laopinion.com/2024/05/15/por-que-el-pri-y-el-pan-deben-desaparecer/>
+
+---
+
+## Candidato a alcalde de Monterrey es acusado de tortura cuando era Procurador de Justicia
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Adrián de la Garza, candidato a la alcaldía de Monterrey, Nuevo León, fue acusado por un exagente ministerial de haber ordenado su tortura y arresto cuando se desempeñaba como Procurador de Justicia 
+
+<https://laopinion.com/2024/05/15/candidato-a-alcalde-de-monterrey-es-acusado-de-tortura-cuando-era-procurador-de-justicia/>
+
+---
+
+## Juez a cargo del juicio de Bob Menéndez, acusado de soborno, le niega testificar a su psiquiatra
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Sidney Stein, magistrado a cargo del juicio en contra de Bob Menéndez, senador demócrata acusado de soborno, rechazó la posibilidad de que la psiquiatra del político de raíces cubanas testificará con el objetivo de demostrar dos traumas en los cuales fundamenta su supuesta manía por esconder grandes sumas de dinero en casa 
+
+<https://laopinion.com/2024/05/15/juez-a-cargo-del-juicio-de-bob-menendez-acusado-de-soborno-le-niega-testificar-a-su-psiquiatra/>
+
+---
+
+## Condenan a hombre de Tennessee que mató a un bebé y a su madre para evadir la paternidad del menor
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Enoch Turner fue sentenciado a cadena perpetua luego de asesinar a Heather Cook y a su bebé de 4 meses una noche antes de que se sometiera a una prueba de paternidad 
+
+<https://laopinion.com/2024/05/15/condenan-a-hombre-de-tennessee-que-mato-a-un-bebe-y-a-su-madre-para-evadir-la-paternidad-del-menor/>
+
+---
+
+## Mercurio en Tauro augura prosperidad para estos signos del zodiaco
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+El tránsito de Mercurio en Tauro ayudará a estos signos del zodiaco en particular a comunicarse adecuadamente para crear una base para la abundancia. Descubre qué signos son y cómo deben aprovechar esta energía, según la astrología 
+
+<https://laopinion.com/2024/05/15/mercurio-en-tauro-augura-prosperidad-para-estos-signos-del-zodiaco/>
+
+---
+
+## Autoridades confirmaron la muerte de 8 trabajadores mexicanos en choque de autobús en Florida
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+La Patrulla de Carreteras de Florida arrestó al conductor de la camioneta que se estrelló contra el autobús de trabajadores agrícolas, por cargos de homicidio involuntario y conducir bajo los efectos del alcohol 
+
+<https://laopinion.com/2024/05/15/autoridades-confirmaron-la-muerte-de-8-trabajadores-mexicanos-en-choque-de-autobus-en-florida/>
+
+---
+
+## Vaquero Navarrete recibe mensajes de apoyo de los tetracampeones mexicanos antes de su pelea
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Canelo Álvarez, Juan Manuel Márquez, Erik Morales, Leo Santa Cruz y Jorge 'El Travieso' Arce, únicos en lograr cuatro títulos mundiales en diferentes divisiones, le enviaron sus mejores deseos al Vaquero Navarrete 
+
+<https://laopinion.com/2024/05/15/vaquero-navarrete-recibe-mensajes-de-apoyo-de-los-tetracampeones-mexicanos-antes-de-su-pelea/>
+
+---
+
+## Walmart tiene parrillas en oferta a solo $15 dólares por el Memorial Day
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+A tan solo unos cuantos días de celebrar el Memorial Day muchas cadenas minoristas ya están ofreciendo descuentos y ofertas en diferentes artículos  
+
+<https://laopinion.com/2024/05/15/walmart-tiene-parrillas-en-oferta-a-solo-15-dolares-por-el-memorial-day/>
+
+---
+
+## COMMUNITY BENEFIT FUND SCHOLARSHIP PROGRAM
+
+date: 2024-05-15, from: Port Hueneme
+
+The Port of Hueneme and City of Port Hueneme Announce Community Benefit Fund Scholarship Program: Download Application Port of Hueneme Contact: Adam Vega Community Outreach &#38; Legislative Specialist Avega@Portofh.org &#160; City of Port Hueneme Contact: Brian Popovich City of Port Hueneme bpopovich@cityofporthueneme.org [Port Hueneme, CA] – The Port of Hueneme and City of Port Hueneme are <a class="read-more-style" href="https://www.portofhueneme.org/cbf-scholarship-2024/">Read More</a> 
+
+<https://www.portofhueneme.org/cbf-scholarship-2024/>
+
+---
+
+## Sospechoso bajo arresto tras cometer violento robo en un autobús de Metro, en Encino
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Las autoridades detuvieron a un sospechoso que intentó robar un teléfono celular de una víctima; se trató de un tercer incidente que ocurrió en el sistema de transporte público de Metro en 24 horas 
+
+<https://laopinion.com/2024/05/15/sospechoso-bajo-arresto-tras-cometer-violento-robo-en-un-autobus-de-metro-en-encino/>
+
+---
+
+## Abel Valenzuela Jr. appointed as dean of UCLA College Division of Social Sciences
+
+date: 2024-05-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Abel Valenzuela Jr. will be the next dean of the UCLA College Division of Social Sciences, removing the interim status from the post he’s held since September 2022.&#160;
+Valenzuela joined UCLA’s faculty 30 years ago, now holding appointments in Chicana/o and Central American studies, labor studies and urban planning.&#160;
+He previously chaired the Department of Chicana/o and Central American studies, directed the Center for the Study of Urban Poverty and was special advisor to the chancellor on immigration policy. 
+
+<https://dailybruin.com/2024/05/15/abel-valenzuela-jr-appointed-as-dean-of-ucla-college-division-of-social-sciences/>
+
+---
+
+## Bank of America cierra más sucursales en los próximos días
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Gracias a la información de la Oficina del Contralor de la Moneda (OCC), sabemos que Bank of America tiene programados cinco cierres entre mayo y junio, que afectarán a clientes de diversas ciudades de Estados Unidos 
+
+<https://laopinion.com/2024/05/15/bank-of-america-cierra-mas-sucursales-en-los-proximos-dias/>
+
+---
+
+## OMS autorizó la segunda vacuna contra el dengue
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+La OMS ha aprobado la vacuna contra el dengue de Takeda, proporcionando una herramienta crucial en la lucha contra esta enfermedad. Esta autorización permite su distribución en áreas afectadas, ofreciendo esperanza en medio del aumento de casos en el Continente Americano 
+
+<https://laopinion.com/2024/05/15/oms-autorizo-la-segunda-vacuna-contra-el-dengue/>
+
+---
+
+## Christian Nodal se arrepiente de haber sustituido algunos de sus dientes con diamantes: “Fue una estupidez”
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+En una reciente entrevista Christian Nodal habló sobre el proceso al que se sometió para quitarse varios dientes, y que costó $800,000 dólares; también comentó el doloroso efecto de borrarse los tatuajes 
+
+<https://laopinion.com/2024/05/15/christian-nodal-se-arrepiente-de-haber-sustituido-algunos-de-sus-dientes-con-diamantes-fue-una-estupidez/>
+
+---
+
+## Cristiano Ronaldo reveló una peculiar rutina que hace para mantenerse bastante competitivo
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+El portugués, Cristiano Ronaldo, acumula 54 goles en la temporada y continúa a paso firme como máximo goleador histórico del fútbol mundial
+ 
+
+<https://laopinion.com/2024/05/15/cristiano-ronaldo-revelo-una-peculiar-rutina-que-hace-para-mantenerse-bastante-competitivo/>
+
+---
+
+## Exasesor de Hillary Clinton reconoce que Biden perdería las elecciones si se llevaran a cabo mañana
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Philippe Reines, exasesor de Hillary Clinton, admite que, en este momento, Joe Biden perdería las elecciones presidenciales frente a Donald Trump 
+
+<https://laopinion.com/2024/05/15/exasesor-de-hillary-clinton-reconoce-que-biden-perderia-las-elecciones-si-se-llevaran-a-cabo-manana/>
+
+---
+
+## Uber sorprende con nuevas funciones y descuentos para los usuarios
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Uber presentó nuevas funcionalidades para mejorar la experiencia de usuario al tiempo que ofrecen beneficios como descuentos de hasta 25% en cada viaje
+ 
+
+<https://laopinion.com/2024/05/15/uber-sorprende-con-nuevas-funciones-y-descuentos-para-los-usuarios/>
+
+---
+
+## AMLO lamenta la muerte de 8 mexicanos en accidente de Florida y asegura que se atiende el caso
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Andrés Manuel López Obrador aseguró que la Secretaría de Relaciones Exteriores está atendiendo a los familiares de los fallecidos en el accidente  lamentable caso 
+
+<https://laopinion.com/2024/05/15/amlo-lamenta-la-muerte-de-8-mexicanos-en-accidente-de-florida-y-asegura-que-se-atiende-el-caso/>
+
+---
+
+## Voto Latino triunfa frente al Partido Republicano en Arizona en intento de afectar sistema electoral
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+La organización Voto Latino paro en seco un esfuerzo de republicanos de bloquear un manual de organización de elecciones en Arizona, donde el Tribunal Superior decidió en contra de invalidar la reglamentación 
+
+<https://laopinion.com/2024/05/15/voto-latino-triunfa-frente-al-partido-republicano-en-arizona-en-intento-de-afectar-sistema-electoral/>
+
+---
+
+## “La Melaza” destapa quién es el integrante que lo decepcionó tras su salida de “La Casa de los Famosos”
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+El último eliminado antes de la gran final de “La Casa de los Famosos 4”, La Melaza, se sinceró sobre su sentir tras abandonar la competencia y enterarse del juego que cada uno de sus compañeros ejecutó. Esto fue lo que dijo al respecto 
+
+<https://laopinion.com/2024/05/15/la-melaza-destapa-quien-es-el-integrante-que-lo-decepciono-tras-su-salida-de-la-casa-de-los-famosos/>
+
+---
+
+## Cómo Mercurio en Tauro afecta a tu signo zodiacal del 15 de mayo al 3 de junio
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Mercurio ha comenzado su paso a través de Tauro y mientras transita por esta constelación, afectará la manera de pensar y comunicarse de todos los signos. El horóscopo te dice cómo podría influirte personalmente 
+
+<https://laopinion.com/2024/05/15/como-mercurio-en-tauro-afecta-a-tu-signo-zodiacal-del-15-de-mayo-al-3-de-junio/>
+
+---
+
+## Arrestan a hombre de Georgia que mató a su novia y se deshizo del cuerpo porque descubrió que él era casado
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Michale Edwards es acusado por el asesinato de Briana Winston, a quien decidió matar y quemar su cuerpo cuando ella lo confrontó por un matrimonio secreto 
+
+<https://laopinion.com/2024/05/15/arrestan-a-hombre-de-georgia-que-mato-a-su-novia-y-se-deshizo-del-cuerpo-porque-descubrio-que-el-era-casado/>
+
+---
+
+## Captan a Jennifer Lopez buscando lujosa mansión, pero Ben Affleck brilló por su ausencia
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Jennifer Lopez fue vista viendo mansiones en Beverly Hills, pero Ben Affleck, su esposo, brilló por su ausencia  
+
+<https://laopinion.com/2024/05/15/captan-a-jennifer-lopez-buscando-lujosa-mansion-pero-ben-affleck-brillo-por-su-ausencia/>
+
+---
+
+## Fashion for success
+
+date: 2024-05-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The post <a href="https://theroundupnews.com/2024/05/15/fashion-for-success/">Fashion for success</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/15/fashion-for-success/?utm_source=rss&utm_medium=rss&utm_campaign=fashion-for-success>
+
+---
+
+## Nuevo cheque de estímulo de $500 dólares: estos son los requisitos para solicitarlo
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Un programa de ingresos garantizados en Washington planea enviar pagos mensuales a las familias de bajos ingresos en la ciudad de Tacoma  
+
+<https://laopinion.com/2024/05/15/nuevo-cheque-de-estimulo-de-500-dolares-estos-son-los-requisitos-para-solicitarlo/>
+
+---
+
+## Esposo de Stormy Daniels admite que abandonarían el país si Trump es declarado inocente en su juicio
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+Barrett Blade, cuarto marido en la vida de Stephanie Clifford, mujer que afirma haber sostenido relaciones sexuales con Donald Trump, revela la posibilidad de que su familia abandone el país por temor a represalias 
+
+<https://laopinion.com/2024/05/15/esposo-de-stormy-daniels-admite-que-abandonarian-el-pais-si-trump-es-declarado-inocente-en-su-juicio/>
+
+---
+
+## Inspiration across creative mediums
+
+date: 2024-05-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Inspiration can come from almost anywhere, including the lavish appeal of cosmopolitan lifestyles and the hammer in the toolbox. One can see “inspo” manifest into</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/15/inspiration-across-creative-mediums/">Inspiration across creative mediums</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/15/inspiration-across-creative-mediums/?utm_source=rss&utm_medium=rss&utm_campaign=inspiration-across-creative-mediums>
+
+---
+
+## Muertes por sobredosis en EE.UU. disminuyeron por primera vez en 5 años
+
+date: 2024-05-15, from: La Opinion (Los Angeles)
+
+El Departamento de Salud y Servicios Humanos de Estados Unidos lanzó hace dos años una estrategia nacional coordinada para prevenir las sobredosis en el país 
+
+<https://laopinion.com/2024/05/15/muertes-por-sobredosis-en-ee-uu-disminuyeron-por-primera-vez-en-5-anos/>
+
+---
+
+## Au revoir to Woodland Hills, bonjour to Paris
+
+date: 2024-05-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Equipped with hard-earned French language skills, two Pierce College students will be landing in Paris for their first time this July.  Casynee Caukin and Alexander</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/15/au-revoir-to-woodland-hills-bonjour-to-paris/">Au revoir to Woodland Hills, bonjour to Paris</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/15/au-revoir-to-woodland-hills-bonjour-to-paris/?utm_source=rss&utm_medium=rss&utm_campaign=au-revoir-to-woodland-hills-bonjour-to-paris>
+
+---
+
+## Students take the spotlight
+
+date: 2024-05-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>As the lights dimmed, the first performer—a singer—took the stage.  The Applied Music Program (AMP) at Pierce College held their first recital of the semester</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/15/students-take-the-spotlight/">Students take the spotlight</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/15/students-take-the-spotlight/?utm_source=rss&utm_medium=rss&utm_campaign=students-take-the-spotlight>
 
 ---
 
@@ -29,6 +564,18 @@ Manny Recio, un exsupervisor de la DEA que convenció a un antiguo colega para f
 
 ---
 
+## Getting the lei of the land
+
+date: 2024-05-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Ribbons took the form of leis as they encircled students at the Multicultural Center on May 7.  More than 40 students attended the lei-making event</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/15/getting-the-lei-of-the-land/">Getting the lei of the land</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/15/getting-the-lei-of-the-land/?utm_source=rss&utm_medium=rss&utm_campaign=getting-the-lei-of-the-land>
+
+---
+
 ## Así es el rancho al que Eduardo Capetillo Jr. se escapó con Lucerito Mijares, la hija de Lucero
 
 date: 2024-05-15, from: La Opinion (Los Angeles)
@@ -36,6 +583,18 @@ date: 2024-05-15, from: La Opinion (Los Angeles)
 Eduardo Capetillo Jr., hijo de Biby Gaytán y Eduardo Capetillo, ha sido visto muy cerquita de Lucerito Mjares 
 
 <https://laopinion.com/2024/05/15/asi-es-el-rancho-al-que-eduardo-capetillo-jr-se-escapo-con-lucerito-mijares-la-hija-de-lucero/>
+
+---
+
+## Streetbeat: What mode of transportation do you use to get to campus, and why?
+
+date: 2024-05-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>&#160; &#160; “I take the bus because the school was nice enough to offer a free TAP card, so now my transportation is easier and</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/15/streetbeat-what-mode-of-transportation-do-you-use-to-get-to-campus-and-why/">Streetbeat: What mode of transportation do you use to get to campus, and why?</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/15/streetbeat-what-mode-of-transportation-do-you-use-to-get-to-campus-and-why/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-what-mode-of-transportation-do-you-use-to-get-to-campus-and-why>
 
 ---
 
@@ -56,6 +615,18 @@ date: 2024-05-15, from: La Opinion (Los Angeles)
 "Hasta ahora sentían nuestro amor, ahora también tendrán que sentir nuestras represalias", dijo María Zajárova, portavoz de Exteriores, prometiendo represalias por posibles sanciones de la UE a medios rusos. 
 
 <https://laopinion.com/2024/05/15/rusia-amenaza-a-corresponsales-occidentales-si-ue-restringe-a-medios-rusos/>
+
+---
+
+## Avoid the headaches, ride public
+
+date: 2024-05-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Have you ever told yourself you would put gas in the morning when driving home only to regret it because you are now running late?</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/15/avoid-the-headaches-ride-public/">Avoid the headaches, ride public</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/15/avoid-the-headaches-ride-public/?utm_source=rss&utm_medium=rss&utm_campaign=avoid-the-headaches-ride-public>
 
 ---
 
@@ -80,6 +651,18 @@ El primer ministro eslovaco, Robert Fico, fue baleado tras una reunión de su ga
 
 ---
 
+## News Briefs – May 15, 2024
+
+date: 2024-05-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Finals Prep Coffee &#38; Jazz: On Monday, May 20 from 10 a.m. to 3 p.m., students can check into Room 5112 in the Multicultural Center</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/15/news-briefs-may-15-2024/">News Briefs – May 15, 2024</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/15/news-briefs-may-15-2024/?utm_source=rss&utm_medium=rss&utm_campaign=news-briefs-may-15-2024>
+
+---
+
 ## Joe Biden propone dos fechas para debatir con Donald Trump y el republicano le acepta el reto
 
 date: 2024-05-15, from: La Opinion (Los Angeles)
@@ -90,6 +673,18 @@ Joe Biden propone dos fechas para debatir con Donald Trump quien de inmediato no
 
 ---
 
+## Academic Senate discusses student and faculty input on budget
+
+date: 2024-05-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Associated Student Organization (ASO), athletic programs and learning outcomes were among the topics discussed during the May 6 Academic Senate meeting in Building 600. But</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/15/academic-senate-discusses-student-and-faculty-input-on-budget/">Academic Senate discusses student and faculty input on budget</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/15/academic-senate-discusses-student-and-faculty-input-on-budget/?utm_source=rss&utm_medium=rss&utm_campaign=academic-senate-discusses-student-and-faculty-input-on-budget>
+
+---
+
 ## William Levy anuncia sus nuevos proyectos para la plataforma ViX
 
 date: 2024-05-15, from: La Opinion (Los Angeles)
@@ -97,6 +692,18 @@ date: 2024-05-15, from: La Opinion (Los Angeles)
 William Levy compartió en sus redes sociales que llevará el papel principal en la serie de televisión "Arcadia" y la película "Bajo Un Volcán"; ambos proyectos serán producidos por él, junto con la compañía Secuoya Studios y la plataforma de streaming ViX 
 
 <https://laopinion.com/2024/05/15/william-levy-anuncia-sus-nuevos-proyectos-para-la-plataforma-vix/>
+
+---
+
+## Streetbeat: What makes for a good commencement speech for graduating community college students?
+
+date: 2024-05-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>&#160; &#160; “I think someone graduating should demonstrate how they have changed and how they work, and how they’ve grown as a worker but also</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/15/streetbeat-what-makes-for-a-good-commencement-speech-for-graduating-community-college-students/">Streetbeat: What makes for a good commencement speech for graduating community college students?</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/15/streetbeat-what-makes-for-a-good-commencement-speech-for-graduating-community-college-students/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-what-makes-for-a-good-commencement-speech-for-graduating-community-college-students>
 
 ---
 

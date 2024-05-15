@@ -1,11 +1,31 @@
 ---
 title: motorcycles 2024.20
-updated: 2024-05-15 08:46:35
+updated: 2024-05-15 13:07:21
 ---
 
 # motorcycles 2024.20
 
-(date: 2024-05-15 08:46:35)
+(date: 2024-05-15 13:07:21)
+
+---
+
+## 2024 BMW CE 02 Ride Review
+
+date: 2024-05-15, from: Cycle World News
+
+We ride and review BMW’s latest electric two-wheel offering, the CE 02, a light electric for getting around the city. Just don’t call it a scooter… 
+
+<https://www.cycleworld.com/motorcycle-reviews/bmw-ce-02-ride-review/>
+
+---
+
+## Great Wall Souo Flat Eight Revealed
+
+date: 2024-05-15, from: Cycle World News
+
+New Chinese motorcycle company Great Wall Souo is hitting the ground running with its flat-eight-powered touring machine that will launch in May of 2024. 
+
+<https://www.cycleworld.com/motorcycle-news/great-wall-souo-flat-eight-revealed/>
 
 ---
 

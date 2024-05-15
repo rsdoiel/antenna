@@ -258,6 +258,8 @@ https://odysseygamesco.com/feed/ "~Odyssey Games blog" curl/8.5.0 (rsdoiel@gmail
 #https://www.frontiersin.org/journals/cellular-and-infection-microbiology/rss "~Frontiers in Cellar and Infection Microbiology" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://www.fromjason.xyz/notebook/feed/feed.xml "~Jason Valazquez noteboook" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://wilw.dev/feeds "~Wil Webberly blog"
+# Old Vintage Computing Research appears to be written by the maintainer of Floodgap Gopher site
+https://oldvcr.blogspot.com/feeds/posts/default?alt=rss "~Old Ventage Computing Research"
 
 #
 # News, Current Events, Journalism and Opinion
