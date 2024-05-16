@@ -1,11 +1,91 @@
 ---
 title: motorcycles 2024.20
-updated: 2024-05-15 13:07:21
+updated: 2024-05-16 10:36:14
 ---
 
 # motorcycles 2024.20
 
-(date: 2024-05-15 13:07:21)
+(date: 2024-05-16 10:36:14)
+
+---
+
+## See Great Wall’s Crazy 8-Cylinder Motorcycle Engine In All Its Glory
+
+date: 2024-05-16, from: Ride Apart, Electric Motorcycle News
+
+The massive touring bike is set for launch in China very soon.  
+
+<https://www.rideapart.com/news/719833/great-wall-souo-8cylinder-tourer-launching-soon/>
+
+---
+
+## Is A Royal Enfield Classic 650 Twin In Our Future?
+
+date: 2024-05-16, from: Ride Apart, Electric Motorcycle News
+
+Trademarks aren't guarantees, but they certainly indicate interest from the manufacturers that file them. 
+
+<https://www.rideapart.com/news/719813/royal-enfield-classic-650-twin/>
+
+---
+
+## NASCAR West Series: Tribute to Richard ‘Dick’ Bown
+
+date: 2024-05-16, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tire It is with immense sadness that we learned of the death of Dick Bown, a true legend of the NASCAR West Series&#8230;  
+
+<https://kickinthetires.net/nascar/nascar-west-tribute-to-richard-dick-bown/>
+
+---
+
+## Man Reunited With His Late Father’s Harley-Davidson After 12 Years
+
+date: 2024-05-16, from: Ride Apart, Electric Motorcycle News
+
+This story has all the ups and downs of a movie and will serve as a pick-me-up for any motorcyclist with a heart. 
+
+<https://www.rideapart.com/news/719799/man-reunited-with-fathers-harley/>
+
+---
+
+## This Custom Yamaha Scrambler Is Perfection
+
+date: 2024-05-16, from: Ride Apart, Electric Motorcycle News
+
+Masterfully crafted from the ground up to both look and perform the part.  
+
+<https://www.rideapart.com/news/719703/purpose-built-moto-yamaha-xt500-scrambler-vmx/>
+
+---
+
+## Indoor ATV Ice Racing on a Hockey Rink Looks Insane
+
+date: 2024-05-16, from: Ride Apart, Electric Motorcycle News
+
+It's flat track mixed with hockey.  
+
+<https://www.rideapart.com/news/719801/indoor-atv-ice-racing-hockey-rink/>
+
+---
+
+## Royal Enfield Needs to Bring The Continental GT Cup To the States
+
+date: 2024-05-16, from: Ride Apart, Electric Motorcycle News
+
+The grassroots level racing series hopes to showcase the amateur talent of India’s racers.  
+
+<https://www.rideapart.com/news/719690/2024-royal-enfield-continental-gt-cup-announcement/>
+
+---
+
+## NASA’s New Super-Alloy Could Transform Everything
+
+date: 2024-05-16, from: Ride Apart, Electric Motorcycle News
+
+The high-heat alloy is said to last 2,500 times longer than other nickel-base alloys.  
+
+<https://www.rideapart.com/news/719689/nasa-grx810-super-alloy/>
 
 ---
 

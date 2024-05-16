@@ -1,11 +1,797 @@
 ---
 title: socal north 2024.20
-updated: 2024-05-15 13:07:20
+updated: 2024-05-16 10:36:13
 ---
 
 # socal north 2024.20
 
-(date: 2024-05-15 13:07:20)
+(date: 2024-05-16 10:36:13)
+
+---
+
+## Nick Jonas y Priyanka Chopra se mudan a vivir a mansión de $20 millones de dólares en LA
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Nick Jonas y Priyanka Chopra ya están de vuelta en la mansión que poseen en California y que habían abandonado por sus problemas de humedad 
+
+<https://laopinion.com/2024/05/16/nick-jonas-y-priyanka-chopra-se-mudan-a-vivir-a-mansion-de-20-millones-de-dolares-en-la/>
+
+---
+
+## Tribunal federal bloquea una disposición legal de Florida que perseguía el registro de votantes
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Tribunal federal bloquea una disposición legal de Florida que les impedía a los miembros "no ciudadanos" de organizaciones civiles registrar votantes 
+
+<https://laopinion.com/2024/05/16/tribunal-federal-bloquea-una-disposicion-legal-de-florida-que-perseguia-el-registro-de-votantes/>
+
+---
+
+## Cupones SNAP por valor de $973 dólares para familias de 4 se enviará en los próximos días
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Los beneficiarios de SNAP en Kentucky que aún no reciben sus pagos lo obtendrán entre este viernes 17 y domingo 19 de mayo 	 
+
+<https://laopinion.com/2024/05/16/cupones-snap-por-valor-de-973-dolares-para-familias-de-4-se-enviara-en-los-proximos-dias/>
+
+---
+
+## La indignación del promotor de Jaime Munguía a la teoría de que el Canelo no quiso noquearlo
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+"Se me hace ridículo", dijo Fernando Beltrán por las teorías que circulan en redes sociales sobre la pelea entre el Canelo y Jaime Munguía. En un video se muestra como Saúl Álvarez habría "agarrado" a Munguía para que no cayera a la lona 
+
+<https://laopinion.com/2024/05/16/la-indignacion-del-promotor-de-jaime-munguia-a-la-teoria-de-que-el-canelo-no-quiso-noquearlo/>
+
+---
+
+## It’s Time for Dodger Baseball!
+
+date: 2024-05-16, from: City of Santa Clarita
+
+<p>By Councilmember Jason Gibbs “Love is the most important thing in the world, but baseball is pretty good, too.” – Yogi Berra April has always been one of my favorite months because year after year, it’s the sign that baseball is officially back. As a longtime Dodger fan, I have fond memories of piling into [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/05/16/its-time-for-dodger-baseball/">It’s Time for Dodger Baseball!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/05/16/its-time-for-dodger-baseball/>
+
+---
+
+## Yahir confirma el distanciamiento con su hijo Tristán: “No puedo hacer mucho más”
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+El cantante y actor Yahir declaró que lleva 13 años intentando tener una buena relación con su hijo Tristán, a quien le desea lo mejor; también comentó que ambos cuentan con valores distintos 
+
+<https://laopinion.com/2024/05/16/yahir-confirma-el-distanciamiento-con-su-hijo-tristan-no-puedo-hacer-mucho-mas/>
+
+---
+
+## Presidente de la Premier League no estará en partido de Manchester City ante posible título
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+La Premier League se definirá este fin de semana en el que Arsenal y Manchester City pueden salir campeones. El Arsenal necesita un tropiezo de los Citizens 
+
+<https://laopinion.com/2024/05/16/presidente-de-la-premier-league-no-estara-en-partido-de-manchester-city-ante-posible-titulo/>
+
+---
+
+## Bebé es abandonado por mujer embarazada en un negocio de Lomita, en el Condado de Los Ángeles
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Una mujer embarazada entró con el bebé a un negocio de Lomita y solicitó un taxi antes de ir al baño; un empleado pidió el transporte, y al llegar, la mujer subió al auto, dejando al menor en un carrito 
+
+<https://laopinion.com/2024/05/16/bebe-es-abandonado-por-mujer-embarazada-en-un-negocio-de-lomita-en-el-condado-de-los-angeles/>
+
+---
+
+## Biden avanza con plan sobre marihuana para reducir la persecución de consumidores a nivel federal
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Los departamentos de Justicia y Salud, siguiendo órdenes del presidente Biden, proponen una nueva regla para reducir la persecución sobre el consumo de marihuana, al reclasificar la categoría de esa droga  
+
+<https://laopinion.com/2024/05/16/biden-avanza-con-plan-sobre-marihuana-para-reducir-la-persecucion-de-consumidores-a-nivel-federal/>
+
+---
+
+## EE.UU. sentenció a 7 miembros del Cártel de Sinaloa que trabajaban con “El Mayo” para traficar fentanilo
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Una red criminal del Cártel de Sinaloa que traficaba con fentanilo, mentanfetaminas y cocaína en diversos estados del país, fue desmantelada y siete de sus miembros sentenciados 
+
+<https://laopinion.com/2024/05/16/ee-uu-sentencio-a-7-miembros-del-cartel-de-sinaloa-que-trabajaban-con-el-mayo-para-traficar-fentanilo/>
+
+---
+
+## Javier Assad sigue indetenible y se posiciona entre mejores pitchers de la Liga Nacional
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Javier Assad está con la cuarta mejor efectividad de las Grandes Ligas y rompió una marca para un pitcher de los Cubs de Chicago 
+
+<https://laopinion.com/2024/05/16/javier-assad-sigue-indetenible-y-se-posiciona-entre-mejores-pitchers-de-la-liga-nacional/>
+
+---
+
+## Conoce el pequeño apartamento donde vive la actriz Belén Soto tras mudarse a México
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+La actriz chilena Belén Soto ya está más que lista y disfrutando de su nueva vida en México 
+
+<https://laopinion.com/2024/05/16/conoce-el-pequeno-apartamento-donde-vive-la-actriz-belen-soto-tras-mudarse-a-mexico/>
+
+---
+
+## WhatsApp copiará esta popular función de Instagram
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+WhatsApp quiere incorporar una de las funciones más populares de Instagram a la app de mensajería
+ 
+
+<https://laopinion.com/2024/05/16/whatsapp-copiara-esta-popular-funcion-de-instagram/>
+
+---
+
+## Walgreens ofrecerá una versión más barata de un medicamento para revertir sobredosis de opioides
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Walgreens lanzará su propia versión más económica de naloxona, un aerosol de venta libre para revertir sobredosis de opioides, con el objetivo de aumentar la accesibilidad al tratamiento en medio de la crisis de opioides en los Estados Unidos 
+
+<https://laopinion.com/2024/05/16/walgreens-ofrecera-una-version-mas-barata-de-un-medicamento-para-revertir-sobredosis-de-opioides/>
+
+---
+
+## 4 signos del zodiaco enfrentan sus errores del pasado de ahora y hasta el 9 de julio
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+El asteroide Palas ha estado retrógrado desde el 25 de marzo y este 16 de mayo llega a Escorpio, lo que significa que las acciones del pasado tendrán efectos presentes para 4 signos del zodiaco 
+
+<https://laopinion.com/2024/05/16/4-signos-del-zodiaco-enfrentan-sus-errores-del-pasado-de-ahora-y-hasta-el-9-de-julio/>
+
+---
+
+## Danna Paola se besa con un locutor argentino en plena entrevista, ¿terminó con Alex Hoyer? | VIDEO
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+La cantante mexicana Danna Paola vuelve a dar de qué hablar en redes sociales tras viralizarse un video en el que aparece besándose con un locutor durante una entrevista. ¿Cómo reaccionó el público? Aquí te lo contamos 
+
+<https://laopinion.com/2024/05/16/danna-paola-se-besa-con-un-locutor-argentino-en-plena-entrevista-termino-con-alex-hoyer-video/>
+
+---
+
+## ¿Quién califica para el reembolso de impuestos de hasta $5,000 dólares?
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Los contribuyentes en Georgia que hayan participado en donaciones a organizaciones de crianza temporal podrán solicitar un crédito reembolsable 
+
+<https://laopinion.com/2024/05/16/quien-califica-para-el-reembolso-de-impuestos-de-hasta-5000-dolares/>
+
+---
+
+## Avril Lavigne comenta el rumor acerca de que fue reemplazada por una doble
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Al ser entrevistada para el podcast "Call Her Daddy" la cantante Avril Lavigne habló acerca de los rumores que circulan desde 2011 acerca de que "murió"; ella comentó que todo eso le resulta muy tonto, pero también que le divierte 
+
+<https://laopinion.com/2024/05/16/avril-lavigne-comenta-el-rumor-acerca-de-que-fue-reemplazada-por-una-doble/>
+
+---
+
+## Arrestan al cantante de corridos Dani Tapia cuando viajaba junto con un líder criminal en Sonora
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Daniel Alejandro Tapia, mejor conocido como Dani Tapia, lanzó en 2022 un corrido titulado “El Whisky”, el cual habla del líder criminal con el que recientemente fue detenido el cantante 
+
+<https://laopinion.com/2024/05/16/arrestan-al-cantante-de-corridos-dani-tapia-cuando-viajaba-junto-a-un-lider-criminal-en-sonora/>
+
+---
+
+## Corredor Figueroa, una zona plagada de droga, prostitución y violencia
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Activistas, alumnos y padres de familia iniciaron la Semana Nacional de Prevención contra todas esas actividades que dañan a la comunidad y muchas de ellas se realizan a plena luz del día 
+
+<https://laopinion.com/2024/05/16/corredor-figueroa-una-zona-plagada-de-droga-prostitucion-y-violencia/>
+
+---
+
+## Bob Menéndez revela que su esposa padece cáncer y pese a ello pretende inculparla de sus delitos
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Bob Menéndez, senador demócrata acusado por presuntamente aceptar sobornos provenientes de empresarios y gobiernos extranjeros, dio a conocer que su esposa Nadine padece cáncer de mama 
+
+<https://laopinion.com/2024/05/16/bob-menendez-revela-que-su-esposa-padece-cancer-y-pese-a-ello-pretende-inculparla-de-sus-delitos/>
+
+---
+
+## Henry Martín envía un mensaje a la afición del América: “Tenemos que hacer valer el Azteca”
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+El América empató 0-0 y buscará dar la clasificación a la final en el Estadio Azteca ante Chivas de Guadalajara 
+
+<https://laopinion.com/2024/05/16/henry-martin-envia-un-mensaje-a-la-aficion-del-america-tenemos-que-hacer-valer-el-azteca/>
+
+---
+
+## Desde la Liga MX pretenden arrebatarle una ficha estelar a la MLS
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+El griego Giorgos Giakoumakis está en el radar de Cruz Azul. La Máquina busca a un delantero y el atacante europeo está entre los candidatos. Giakoumakis ha jugado más de 20 partidos en la selección de Grecia 
+
+<https://laopinion.com/2024/05/16/desde-la-liga-mx-pretenden-arrebatarle-una-ficha-estelar-a-la-mls/>
+
+---
+
+## Grupo 5 está listo para trascender
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+La reconocida agrupación peruana trabaja para conquistar al público en Estados Unidos 
+
+<https://laopinion.com/2024/05/16/grupo-5-esta-listo-para-trascender/>
+
+---
+
+## Corte Suprema rechaza recurso contra el Buró de Protección Financiera del Consumidor y seguirá operando
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Con 7 votos a favor y 2 en contra, los jueces determinaron que la forma en que se financia el Buró de Protección Financiera del Consumidor no vulnera la Constitución 
+
+<https://laopinion.com/2024/05/16/corte-suprema-rechaza-recurso-contra-el-buro-de-proteccion-financiera-del-consumidor-y-seguira-operando/>
+
+---
+
+## Los Ángeles Azules, la banda de cumbia más atrevida
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Para este sexteto mexicano no hay límites a lahora de grabar una colaboración musical  
+
+<https://laopinion.com/2024/05/16/los-angeles-azules-la-banda-de-cumbia-mas-atrevida/>
+
+---
+
+## La ola de calor podría afectar a más 240 millones de personas para 2050
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Un estudio científico advierte que hasta 246 millones de personas mayores podrían enfrentar riesgos graves debido a la exposición al calor extremo para 2050, debido al cambio climático y al envejecimiento demográfico 
+
+<https://laopinion.com/2024/05/16/la-ola-de-calor-podria-afectar-a-mas-240-millones-de-personas-para-2050/>
+
+---
+
+## Shakira sorprende a todos al mostrar cómo se ejercita, usando minivestido y botas
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Antes de salir al escenario en el evento Upfront de Televisa y Univisión, Shakira realizó unos ejercicios con los que demostró estar en plena forma; ella compartió el video en sus redes y comentó que se trataba de "otro día en la oficina" 
+
+<https://laopinion.com/2024/05/16/shakira-sorprende-a-todos-al-mostrar-como-se-ejercita-usando-minivestido-y-botas/>
+
+---
+
+## Eddie Hearn predice ganador de Tyson Fury vs. Oleksandr Usyk: “Será una pelea muy reñida”
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Eddie Hearn expresó que eligió a Tyson Fury como ganador sobre Oleksandr Usyk porque lo ve nervioso y cuando el inglés se muestra de esta forma previo a sus combates es cuando mejor le va 
+
+<https://laopinion.com/2024/05/16/eddie-hearn-predice-ganador-de-tyson-fury-vs-oleksandr-usyk-sera-una-pelea-muy-renida/>
+
+---
+
+## Chiky Bombom presume en video su hermosa y nueva casa tras pasar años viviendo en un sótano
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Chiky Bombom nos llevó a conocer el nuevo rostro de la recámara de Cartier, su hijo, con quien ya dejó de vivir en un sótano y ahora tiene un hogar digno 
+
+<https://laopinion.com/2024/05/16/chiky-bombom-presume-en-video-su-hermosa-y-nueva-casa-tras-pasar-anos-viviendo-en-un-sotano/>
+
+---
+
+## Pantallas: Qué ver en cines y streaming el fin de semana del 17 al 19 de mayo
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+"IF (Imaginary Friends)", "Back to Black", "The Big Cigar" y "Bronx Zoo ’90: Crime, Chaos and Baseball". Te traemos los estrenos más interesantes en la gran pantalla y en plataformas 
+
+<https://laopinion.com/2024/05/16/pantallas-que-ver-en-cines-y-streaming-el-fin-de-semana-del-17-al-19-de-mayo/>
+
+---
+
+## Fanático japonés de Checo Pérez se viraliza por rebautizar a México en honor al piloto de Red Bull
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+El pequeño reconoció ser fanático del piloto mexicano, Sergio 'Checo' Pérez, al no perderse ninguna carrera
+ 
+
+<https://laopinion.com/2024/05/16/fanatico-japones-de-checo-perez-se-viraliza-por-rebautizar-a-mexico-en-honor-al-piloto-de-red-bull/>
+
+---
+
+## Quién es Robert Fico, el polémico primer ministro que pasó a dominar la política de Eslovaquia y se recupera tras un intento de asesinato
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Abogado de carrera y en el panorama político desde 1986, actualmente cumple su cuarto mandato como primer ministro. 
+
+<https://laopinion.com/2024/05/16/quien-es-robert-fico-el-polemico-primer-ministro-que-paso-a-dominar-la-politica-de-eslovaquia-y-se-recupera-tras-un-intento-de-asesinato/>
+
+---
+
+## Mayoría de votantes diversos, incluso latinos, votaría por Biden porque Trump apoya eliminar la ciudadanía por nacimiento
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Los planes de Trump de eliminar la ciudadanía por nacimiento y las deportaciones masivas empujan a votantes de poblaciones diversas a respaldar al presidente Biden, según un sondeo de La Opinión  
+
+<https://laopinion.com/2024/05/16/mayoria-de-votantes-diversos-incluidos-latinos-votaria-por-biden-porque-trump-apoya-eliminar-la-ciudadania-por-nacimiento/>
+
+---
+
+## Comisión Europa investiga a Meta por fomentar adicción a menores
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Europa anunció la apertura de una investigación para determinar si las redes sociales Facebook e Instagram, del grupo Meta, provocan conductas adictivas en menores de edad. 
+
+<https://laopinion.com/2024/05/16/por-fomentar-adiccion-en-menores-europa-investiga-a-meta/>
+
+---
+
+## Se retira un rival de Cristiano Ronaldo y Lionel Messi en la tabla de goleadores del mundo
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Sunil Chhetri anunció su retiro del fútbol profesional. Después de Cristiano Ronaldo y Lionel Messi, Chhetri es el tercer futbolista con mayor cantidad de goles en el plano internacional. El jugador de la India tiene 94 goles convertidos 
+
+<https://laopinion.com/2024/05/16/se-retira-un-rival-de-cristiano-ronaldo-y-lionel-messi-en-la-tabla-de-goleadores-del-mundo/>
+
+---
+
+## Cómo China se convirtió en el salvavidas de la economía de Rusia tras el inicio de la guerra en Ucrania
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Mientras se le acusa de respaldar la guerra de Rusia en Ucrania, China recibe este jueves la visita de Vladimir Putin. BBC Mundo te cuenta cómo se ha fortalecido la alianza bilateral. 
+
+<https://laopinion.com/2024/05/16/como-china-se-convirtio-en-el-salvavidas-de-la-economia-de-rusia-tras-el-inicio-de-la-guerra-en-ucrania/>
+
+---
+
+## El hombre que convirtió a su padre muerto en un chatbot “para conservar la esencia de su personalidad tan maravillosa”
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+La inteligencia artificial permite a empresas devolver artificialmente la vida, o al menos su presencia, a las personas fallecidas. 
+
+<https://laopinion.com/2024/05/16/el-hombre-que-convirtio-a-su-padre-muerto-en-un-chatbot-para-conservar-la-esencia-de-su-personalidad-tan-maravillosa/>
+
+---
+
+## Las leyes de EE.UU. que impiden a las mujeres separarse antes del parto
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Existen en varios estados de EE.UU. leyes  que fueron sdiseñada para proteger a las madres y los hijos, pero que en la práctica llevan a que las mujeres, mientras estén embarazadas, no puedan disolver legalmente su matrimonio. 
+
+<https://laopinion.com/2024/05/16/no-me-dejaron-divorciarme-por-estar-embarazada-las-leyes-de-ee-uu-que-impiden-a-las-mujeres-separarse-antes-del-parto/>
+
+---
+
+## Primer ministro de Eslovaquia, Robert Fico, está “estable, pero aún muy grave” tras atentado
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+El primer ministro eslovaco, Robert Fico, se encuentra aún en estado grave tras haber recibido cinco disparos y haber sido operado de urgencia durante varias horas. 
+
+<https://laopinion.com/2024/05/16/robert-fico-esta-estable-pero-aun-muy-grave/>
+
+---
+
+## En vivo: Michael Cohen, exabogado de Trump, enfrenta interrogatorio de la defensa
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+En el juicio a Trump, su exabogado personal Michael Cohen enfrenta los cuestionamientos de la defensa, que busca desacreditarlo como un testigo creíble contra el expresidente  
+
+<https://laopinion.com/2024/05/16/en-vivo-michael-cohen-exabogado-de-trump-enfrenta-interrogatorio-de-la-defensa/>
+
+---
+
+## Fernando Gago no es conformista con el empate de las Chivas ante el Club América
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+"El merecimiento en el fútbol no sirve para nada", dijo el entrenador argentino después del empate 0-0 entre el Rebaño Sagrado y el conjunto azulcrema. Los dirigidos por Fernando Gago fueron superiores en el partido, pero no pudieron sacar ventajas en la serie 
+
+<https://laopinion.com/2024/05/16/fernando-gago-no-es-conformista-con-el-empate-de-las-chivas-ante-el-club-america/>
+
+---
+
+## Agenda de eventos: qué hacer en Los Angeles del 16 al 22 de mayo
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Anitta pondrá a bailar a los angelinos como parte de su gira "Baile Funk Experience" 
+
+<https://laopinion.com/2024/05/16/agenda-de-eventos-que-hacer-en-los-angeles-del-16-al-22-de-mayo/>
+
+---
+
+## Seguidores del Orlando City se burlan de Messi por su ausencia en el Clásico de la Florida en la MLS
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+El astro argentino, Lionel Messi, no disputó el Clásico por una molestia en la rodilla y su equipo empató 0-0 de visitante
+ 
+
+<https://laopinion.com/2024/05/16/seguidores-del-orlando-city-se-burlan-de-messi-por-su-ausencia-en-el-clasico-de-la-florida-en-la-mls/>
+
+---
+
+## Alemania presenta su lista de convocados para la Eurocopa 2024 como anfitrión y favorita
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+La selección de Alemania llevará a estrella como Florian Wirtz, Jamal Musiala y Kai Havertz buscando ganar la Eurocopa en casa 
+
+<https://laopinion.com/2024/05/16/alemania-presenta-su-lista-de-convocados-para-la-eurocopa-2024-como-anfitrion-y-favorita/>
+
+---
+
+## Sin Lionel Messi por lesión, Inter Miami empató contra Orlando City en el Clásico de la Florida
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Inter Miami no encontró la fórmula sin su capitán, Leo Messi. El segundo Clásico del Sol de la temporada termina sin anotaciones 
+
+<https://laopinion.com/2024/05/16/sin-lionel-messi-por-lesion-inter-miami-empato-contra-orlando-city-en-el-clasico-de-la-florida/>
+
+---
+
+## Horóscopo de hoy de Mhoni Vidente, 16 de mayo de 2024
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Mhoni Vidente es una reconocida vidente, astróloga y clarividente famosa por sus acertadas predicciones y análisis en el ámbito del horóscopo, astrología y eventos mundiales. Descubre sus pronósticos y consejos sobre amor, salud, trabajo y más
+ 
+
+<https://laopinion.com/2024/05/16/horoscopo-de-hoy-de-mhoni-vidente-16-de-mayo-de-2024/>
+
+---
+
+## El tiempo de hoy en Austin para este jueves 16 de mayo
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Encuentra el pronóstico meteorológico de hoy para Austin, Texas, cómo estará el tiempo y las condiciones climáticas este jueves 16 de mayo. 
+
+<https://laopinion.com/2024/05/16/el-tiempo-de-hoy-en-austin-para-este-jueves-16-de-mayo/>
+
+---
+
+## El tiempo de hoy en San Antonio para este jueves 16 de mayo
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Conoce el pronóstico del tiempo en San Antonio, Texas, para hoy jueves 16 de mayo para evitar sufrir los cambios en el clima 
+
+<https://laopinion.com/2024/05/16/el-tiempo-de-hoy-en-san-antonio-para-este-jueves-16-de-mayo/>
+
+---
+
+## El tiempo de hoy en Dallas para este jueves 16 de mayo
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Conoce cómo estará el tiempo en Dallas, Texas, para hoy jueves 16 de mayo. Antes de salir de tu casa, descubre el pronóstico meteorológico y las condiciones climáticas más relevantes para este día. 
+
+<https://laopinion.com/2024/05/16/el-tiempo-de-hoy-en-dallas-para-este-jueves-16-de-mayo/>
+
+---
+
+## Pronóstico del clima en Houston para este jueves 16 de mayo
+
+date: 2024-05-16, from: La Opinion (Los Angeles)
+
+Conoce cómo estará el tiempo en Houston, Texas, para hoy jueves 16 de mayo. Antes de salir de tu casa, descubre el pronóstico meteorológico y las condiciones climáticas más relevantes para este día. 
+
+<https://laopinion.com/2024/05/16/pronostico-del-clima-en-houston-para-este-jueves-16-de-mayo/>
+
+---
+
+## Women’s tennis ends season with loss in Big West quarterfinals
+
+date: 2024-05-16, from: The Sundail (CSUN Student Newspaper)
+
+CSUN women’s tennis had high hopes for the tournament as the second-place team in the Big West. But after they pushed most of their matches to three sets, they couldn’t... 
+
+<https://sundial.csun.edu/181957/sports/womens-tennis-ends-season-with-loss-in-big-west-quarterfinals/>
+
+---
+
+## Mother’s Day-themed Broxton Nights Market brings families, community together
+
+date: 2024-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Local small businesses set up shop on Broxton Avenue on Saturday evening to celebrate Mother’s Day with the Westwood community.
+The Mama Palooza Broxton Nights Market brought mothers and their children from across the community together to indulge in specialty foods, browse artisan goods and enjoy live music. 
+
+<https://dailybruin.com/2024/05/15/mothers-day-themed-broxton-nights-market-brings-families-community-together/>
+
+---
+
+## Sidequest: Coffee Crawl
+
+date: 2024-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+On today&#8217;s episode, Podcasts contributors Ava Johnson, Aashay Ghiya, Aidan Doyle and Hela Khalil review their experiences at three Westwood coffee shops: Ministry of Coffee, Espresso Profeta and Elysee. 
+
+<https://dailybruin.com/2024/05/15/sidequest-coffee-crawl/>
+
+---
+
+## Quienes Pagan el Verdadero Costo del Cuidado Infantil
+
+date: 2024-05-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1580812-scaled-e1715830880474.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1580812-scaled-e1715830880474.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1580812-scaled-e1715830880474.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1580812-scaled-e1715830880474.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1580812-scaled-e1715830880474.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Al entrar en&#160; la casa de María Benavidez, queda claro que su trabajo como cuidadora de niños consume su vida. Su casa se asemeja a un aula bien organizada. Estantes [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/15/quienes-pagan-el-verdadero-costo-del-cuidado-infantil/">Quienes Pagan el Verdadero Costo del Cuidado Infantil</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/15/quienes-pagan-el-verdadero-costo-del-cuidado-infantil/>
+
+---
+
+## Horóscopo
+
+date: 2024-05-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>ARIES (21 de mar &#8211; 19 de abr) Es su más sincero deseo que sus seres queridos tengan un sentido de pertenencia duradero. Pero lo que te convierte en un [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/15/horoscopo-163/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/15/horoscopo-163/>
+
+---
+
+## EVENTOS Locales – Semana de 16 de mayo, 2024
+
+date: 2024-05-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Sabado, Mayo 18 Entrega de Artículos Voluminosos, Reciclaje Electrónico, Entrega de Compost y Día de Trituración Civic Center Parking Lot 1000 First St. San Fernando&#160; (800) 299-4898 8 a.m. – [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/15/eventos-locales-semana-de-16-de-mayo-2024/">EVENTOS Locales &#8211; Semana de 16 de mayo, 2024 </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/15/eventos-locales-semana-de-16-de-mayo-2024/>
+
+---
+
+## Una Familia de Pacoima Lanza Change.org Petición para Desalojar Campamento de Personas Sin Hogar
+
+date: 2024-05-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="684" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1580115-1-scaled-e1715830595108.jpeg?fit=1024%2C684&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1580115-1-scaled-e1715830595108.jpeg?w=1706&amp;ssl=1 1706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1580115-1-scaled-e1715830595108.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1580115-1-scaled-e1715830595108.jpeg?resize=1024%2C684&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1580115-1-scaled-e1715830595108.jpeg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1580115-1-scaled-e1715830595108.jpeg?resize=1536%2C1026&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1580115-1-scaled-e1715830595108.jpeg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1580115-1-scaled-e1715830595108.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1580115-1-scaled-e1715830595108.jpeg?resize=1568%2C1047&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1580115-1-scaled-e1715830595108.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1580115-1-scaled-e1715830595108.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1580115-1-scaled-e1715830595108.jpeg?fit=1024%2C684&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Teresa Paniagua, residente de Pacoima desde hace mucho tiempo, y su familia han vivido en la misma casa en la calle Del Sur, cerca de la avenida Bradley, durante más [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/15/una-familia-de-pacoima-lanza-change-org-peticion-para-desalojar-campamento-de-personas-sin-hogar/">Una Familia de Pacoima Lanza Change.org Petición para Desalojar Campamento de Personas Sin Hogar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/15/una-familia-de-pacoima-lanza-change-org-peticion-para-desalojar-campamento-de-personas-sin-hogar/>
+
+---
+
+## El Condado de Los Ángeles Reabrirá las Solicitudes del Programa de Ayuda para el Alquiler por Tiempo Limitado
+
+date: 2024-05-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ÁNGELES (CNS) &#8211; El condado de Los Ángeles reabrirá la próxima semana las solicitudes para su programa de ayuda para el alquiler para los propietarios afectados por la pandemia [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/15/el-condado-de-los-angeles-reabrira-las-solicitudes-del-programa-de-ayuda-para-el-alquiler-por-tiempo-limitado/">El Condado de Los Ángeles Reabrirá las Solicitudes del Programa de Ayuda para el Alquiler por Tiempo Limitado</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/15/el-condado-de-los-angeles-reabrira-las-solicitudes-del-programa-de-ayuda-para-el-alquiler-por-tiempo-limitado/>
+
+---
+
+## Los Estudiantes de Último Año de CSUN se Ubican como el Mejor Equipo del Condado de Los Ángeles en la Competencia de Fórmula SAE
+
+date: 2024-05-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="979" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/image_123650291-8-scaled-e1715830211969.jpg?fit=979%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/image_123650291-8-scaled-e1715830211969.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/image_123650291-8-scaled-e1715830211969.jpg?resize=287%2C300&amp;ssl=1 287w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/image_123650291-8-scaled-e1715830211969.jpg?resize=979%2C1024&amp;ssl=1 979w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/image_123650291-8-scaled-e1715830211969.jpg?resize=768%2C804&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/image_123650291-8-scaled-e1715830211969.jpg?resize=1468%2C1536&amp;ssl=1 1468w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/image_123650291-8-scaled-e1715830211969.jpg?resize=1200%2C1256&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/image_123650291-8-scaled-e1715830211969.jpg?resize=1568%2C1641&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/image_123650291-8-scaled-e1715830211969.jpg?resize=400%2C419&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/image_123650291-8-scaled-e1715830211969.jpg?resize=706%2C739&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/image_123650291-8-scaled-e1715830211969.jpg?fit=979%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Matador Motorsports, el equipo de la Fórmula SAE (Sociedad de Ingenieros Automotrices) de la Universidad Estatal de California, Northridge (CSUN), se ubicó en el puesto 12 en la general en [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/15/los-estudiantes-de-ultimo-ano-de-csun-se-ubican-como-el-mejor-equipo-del-condado-de-los-angeles-en-la-competencia-de-formula-sae/">Los Estudiantes de Último Año de CSUN se Ubican como el Mejor Equipo del Condado de Los Ángeles en la Competencia de Fórmula SAE</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/15/los-estudiantes-de-ultimo-ano-de-csun-se-ubican-como-el-mejor-equipo-del-condado-de-los-angeles-en-la-competencia-de-formula-sae/>
+
+---
+
+## El Concejo Municipal de Los Ángeles Aprueba un Estudio para Abordar las Quejas por Olores en el Vertedero de Sylmar
+
+date: 2024-05-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ÁNGELES (CNS) &#8211; El Concejo Municipal de Los Ángeles aprobó hoy un informe sobre las quejas actuales de olores emitidos por el vertedero de Sunshine Canyon en Sylmar. Los [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/15/el-concejo-municipal-de-los-angeles-aprueba-un-estudio-para-abordar-las-quejas-por-olores-en-el-vertedero-de-sylmar/">El Concejo Municipal de Los Ángeles Aprueba un Estudio para Abordar las Quejas por Olores en el Vertedero de Sylmar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/15/el-concejo-municipal-de-los-angeles-aprueba-un-estudio-para-abordar-las-quejas-por-olores-en-el-vertedero-de-sylmar/>
+
+---
+
+## Plantar Árboles Nativos Debe ser una Prioridad para la Ciudad de San Fernando
+
+date: 2024-05-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Estimado editor: Como concejal y vicealcalde de 2018 a 2022, busqué elevar la gestión de los bosques urbanos al frente y al centro de nuestra formulación de políticas. Los árboles [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/15/plantar-arboles-nativos-debe-ser-una-prioridad-para-la-ciudad-de-san-fernando/">Plantar Árboles Nativos Debe ser una Prioridad para la Ciudad de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/15/plantar-arboles-nativos-debe-ser-una-prioridad-para-la-ciudad-de-san-fernando/>
+
+---
+
+## Ataque en Autobús de Metro Vuelve a Elevar Preocupaciones Sobre la Seguridad del Transporte
+
+date: 2024-05-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>ENCINO (CNS) &#8211; Una persona fue asaltada a bordo de un autobús de Metro el martes 14 de mayo en el área de Encino y un sospechoso fue detenido, marcando [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/15/ataque-en-autobus-de-metro-vuelve-a-elevar-preocupaciones-sobre-la-seguridad-del-transporte/">Ataque en Autobús de Metro Vuelve a Elevar Preocupaciones Sobre la Seguridad del Transporte</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/15/ataque-en-autobus-de-metro-vuelve-a-elevar-preocupaciones-sobre-la-seguridad-del-transporte/>
+
+---
+
+## Ayude a Mantener Listas las Salas de Emergencia Donando Sangre o Plaquetas
+
+date: 2024-05-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="700" height="326" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2019/12/4c99fe67d4f99da8dbe84bf494d6ef91.png?fit=700%2C326&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2019/12/4c99fe67d4f99da8dbe84bf494d6ef91.png?w=700&amp;ssl=1 700w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2019/12/4c99fe67d4f99da8dbe84bf494d6ef91.png?resize=300%2C140&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2019/12/4c99fe67d4f99da8dbe84bf494d6ef91.png?fit=700%2C326&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2019/12/4c99fe67d4f99da8dbe84bf494d6ef91.png?fit=700%2C326&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Cuando cada segundo cuenta, los productos sanguíneos pueden proporcionar una atención que salva vidas. The American Red Cross (La Cruz Roja Americana) pide al público que done sangre o plaquetas [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/15/ayude-a-mantener-listas-las-salas-de-emergencia-donando-sangre-o-plaquetas/">Ayude a Mantener Listas las Salas de Emergencia Donando Sangre o Plaquetas</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/15/ayude-a-mantener-listas-las-salas-de-emergencia-donando-sangre-o-plaquetas/>
+
+---
+
+## Spreading their wings: CSUN holds its annual DREAM UndocuGraduation
+
+date: 2024-05-16, from: The Sundail (CSUN Student Newspaper)
+
+Hosted by the DREAM — Dreamers, Resources, Empowerment, Advocacy and Mentorship — Center, the annual UndocuGraduation celebrates the accomplishments of undocumented and mixed-status students. The DREAM Center provides various opportunities... 
+
+<https://sundial.csun.edu/181948/news/spreading-their-wings-csun-holds-its-annual-dream-undocugraduation/>
+
+---
+
+## United Auto Workers Local 4811 votes to authorize strike
+
+date: 2024-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 15 at 7:37 p.m.</em>
+United Auto Workers Local 4811 announced Wednesday that its membership voted to authorize a strike if its leadership deems it necessary. 
+
+<https://dailybruin.com/2024/05/15/united-auto-workers-local-4811-votes-to-authorize-strike/>
+
+---
+
+## UC Board of Regents hears calls for divestment during public comment at UC Merced
+
+date: 2024-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+MERCED &#8211; The UC Board of Regents heard public comment from community members who largely called for divestment from businesses associated with Israel.
+The UC Board of Regents is holding its monthly meeting Tuesday to Thursday at UC Merced. 
+
+<https://dailybruin.com/2024/05/15/uc-board-of-regents-hears-calls-for-divestment-during-public-comment-at-uc-merced/>
+
+---
+
+## Q&A: Alumnus Hana Kim talks Tony-nominated projection design on ‘The Outsiders’
+
+date: 2024-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Hana Kim will be keeping Ponyboy golden at the 2024 Tony Awards.
+The alumnus, who earned her MFA in scenic design, received a Tony Award nomination alongside Brian MacDevitt for Best Lighting Design of a Musical for her work on the stage adaptation of S.E. 
+
+<https://dailybruin.com/2024/05/15/qa-alumnus-hana-kim-talks-tony-nominated-projection-design-on-the-outsiders/>
+
+---
+
+## RefineLa, Forward host pop-up thrift market to raise funds for Palestine
+
+date: 2024-05-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+RefineLA and Forward hosted a pop-up thrift market Thursday on the Sunset Village Plaza lawn to benefit Palestine. 
+The market &#8211; which included vendors selling art, secondhand clothing, jewelry and baked goods &#8211; came after the UC Divest Coalition and Students for Justice in Palestine at UCLA created the Palestine solidarity encampment in Dickson Plaza on April 25 to demand that the UC divest from companies associated with the Israeli military. 
+
+<https://dailybruin.com/2024/05/15/refinela-forward-host-pop-up-thrift-market-to-raise-funds-for-palestine/>
+
+---
+
+## Sheriff’s Log: May 9 to May 15, 2024
+
+date: 2024-05-15, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period May 9 to May 15, 2024. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. May [&#8230;] 
+
+<https://thecatalinaislander.com/sheriffs-log-may-9-to-may-15-2024/>
+
+---
+
+## LAUSD Budget Outlook Improves, But Financial Challenges Remain
+
+date: 2024-05-15, updated: 2024-05-15, from: The LAist
+
+California’s deficit has increased, but K-12 schools are largely spared cuts in the governor's May revision. 
+
+<https://laist.com/news/education/lausd-budget-may-revise-2024-school-funding>
+
+---
+
+## ROOT[D’s annual Mock Mehndi event aims to showcase traditions, show cultural pride
+
+date: 2024-05-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+ROOT[D is bringing the joy of South Asian weddings to UCLA.
+The contemporary fusion dance team organizes an annual Mock Mehndi event mimicking a South Asian pre-wedding ceremony with this year marking the third, though the event has since been canceled. 
+
+<https://dailybruin.com/2024/05/15/rootds-annual-mock-mehndi-event-aims-to-showcase-traditions-show-cultural-pride/>
+
+---
+
+## Op-ed: UCLA administration’s failures warrant union strike authorization
+
+date: 2024-05-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+This week, the University of California’s 48,000 academic workers – including teaching assistants, tutors, postdoctoral scholars, academic researchers and more, all represented by United Auto Workers 4811 – are voting on whether or not to authorize the union’s executive board to call a strike if circumstances justify. 
+
+<https://dailybruin.com/2024/05/15/op-ed-ucla-administrations-failures-warrant-union-strike-authorization/>
+
+---
+
+## CSUN students learn Korean with Valley U
+
+date: 2024-05-15, from: The Sundail (CSUN Student Newspaper)
+
+Learning a second language can be hard, especially one that uses a different alphabet from ours. An organization known as Valley U Korean offers free Korean classes close to CSUN.... 
+
+<https://sundial.csun.edu/181940/news/csun-students-learn-korean-with-valley-u/>
+
+---
+
+## UC Workers Authorize Strike Over Crackdown On Campus Protests
+
+date: 2024-05-15, updated: 2024-05-16, from: The LAist
+
+Among other demands, student workers and researchers want amnesty for students arrested over the past month. 
+
+<https://laist.com/news/education/uaw-4811-uc-strike-vote-campus-protests-unfair-labor-practice>
 
 ---
 
@@ -144,8 +930,8 @@ Pedro Guevara expresó que no le gustó la reacción y las cosas negativas que d
 
 date: 2024-05-15, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated 12:24 p.m.</em>
-Selena Harris reached perfection thrice in 2024.
+<em>This post was updated May 15 at 5:18 p.m.</em>
+Selena Harris reached perfection four times in 2024.
 In 2023, she formed a formidable duo with Olympian Jordan Chiles — surging the Bruins to nationals for the first time since 2019. 
 
 <https://dailybruin.com/2024/05/15/selena-harris-enters-transfer-portal-dismissed-from-ucla-gymnastics/>

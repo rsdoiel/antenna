@@ -1,11 +1,53 @@
 ---
 title: writing 2024.20
-updated: 2024-05-15 13:07:21
+updated: 2024-05-16 10:36:13
 ---
 
 # writing 2024.20
 
-(date: 2024-05-15 13:07:21)
+(date: 2024-05-16 10:36:13)
+
+---
+
+## Scriptnotes, Episode 638: Lawyer Scenes, Transcript
+
+date: 2024-05-16, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August. Craig Mazin: Oh. Oh. My name is Craig Mazin. John: And you’re listening to Episode 638 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, you can’t [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-638-lawyer-scenes-transcript">Scriptnotes, Episode 638: Lawyer Scenes, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/scriptnotes-episode-638-lawyer-scenes-transcript>
+
+---
+
+## Ian Mond Reviews Power to Yield by Bogi Takács
+
+date: 2024-05-16, from: Locus Magazine
+
+<p><strong>Power to Yield</strong>, Bogi Takács (Broken Eye Books 978-1-40372-266-2, $17.99, 203pp, tp) February 2024.</p>
+<p>Hungarian American poet, writer, trans­lator, critic, and editor Bogi Takács has spent eir career promoting, encouraging, and showcasing the work of marginalised authors. The anthology <strong>Rosalind’s Siblings</strong>, edited by Takács and publishing poetry and fiction focus­ing on scientists erased or diminished because of their gender or sexuality, fittingly featured on the 2023 Locus Recommended  <a href="https://locusmag.com/2024/05/ian-mond-reviews-power-to-yield-by-bogi-takacs/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/ian-mond-reviews-power-to-yield-by-bogi-takacs/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-15, from: Neil Gaiman @ BlueSky)
+
+Then read this thread...
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kskud2izrc2m>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-15, from: Neil Gaiman @ BlueSky)
+
+First read this thread...
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kskucgbvr225>
 
 ---
 

@@ -1,11 +1,424 @@
 ---
 title: columns 2024.20
-updated: 2024-05-15 13:07:21
+updated: 2024-05-16 10:36:13
 ---
 
 # columns 2024.20
 
-(date: 2024-05-15 13:07:21)
+(date: 2024-05-16 10:36:13)
+
+---
+
+##  Diary Comics, Dec. 26-28 
+
+date: 2024-05-16, updated: 2024-05-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/diary-comics-dec-26-28>
+
+---
+
+## 2024-05-16 IRC forever!
+
+date: 2024-05-16, from: Alex Schroeder's Blog
+
+<h1 id="2024-05-16-irc-forever">2024-05-16 IRC forever!</h1>
+
+<p>You know the joke, right? <a href="https://xkcd.com/1782/">In the far future, somebody, somewhere, still wants to use IRC</a>.</p>
+
+<p><img loading="lazy" src="2024-05-16-irc-1.jpg" alt="XKCD called it, many years ago" /></p>
+
+<p>I&rsquo;ve been working on a bot that can connect to both Discord and IRC. It connects to Discord because this is where I found people to game with. Discord comes with audio chat. It catapulted my gaming to a whole new level. So much so that I decided that I&rsquo;d be a paying customer. Still, I want to be prepared for the day when Discord goes down. When it inevitably missteps and becomes untenable. I want to have systems ready to go.</p>
+
+<p>The idea is to have something read that does <a href="https://campaignwiki.org/wiki/Chat">chat</a> for us all.</p>
+
+<p>Behind the curtains, I run an IRC server using <a href="https://ngircd.barton.de/">ngIRCd</a>. I was able to configure it and I was able to federate with <a class="account" href="https://dice.camp/@kyonshi" title="@kyonshi@dice.camp">@kyonshi</a>&rsquo;s IRC server. IRC has been federated for all these years and it&rsquo;s so incredibly light weight, very much unlike XMPP and Matrix and the other options I&rsquo;ve seen.</p>
+
+<p>There are a number of web-based IRC clients that give it a Discord-like user interface. I personally run two instances of <a href="https://thelounge.chat/">The Lounge</a>, one that&rsquo;s free for all and one with accounts. If you register for an account, you can upload a small amount of files for easy image sharing and the like and it also keeps logs for you (so you don&rsquo;t have to learn how to use an IRC &ldquo;bouncer&rdquo;).</p>
+
+<p>Other options would be <a href="https://kiwiirc.com/">Kiwi IRC</a> or <a href="https://www.irccloud.com/">IRC Cloud</a>, if you want a paid service.</p>
+
+<p>The bot I was talking about is called <a href="https://src.alexschroeder.ch/norn.git">Norn</a>. Right now we have an <code>#﻿open-table</code> or <code>#﻿next-games channel</code> on the Discord servers where people announce their games. As players sign up, the messages get edited. It&rsquo;s not really events, it&rsquo;s not reminders, it&rsquo;s not a calendar, but it&rsquo;s simple and it works. You can search it. But if you&rsquo;re on IRC, it doesn&rsquo;t work so well. So Norn does that.</p>
+
+<p>On one of the Discord server, there&rsquo;s a bot called Wettergoblin (the weather goblin) that keeps track of in-game events. Every channel has its own time-axis and you can get an export of all the events. This is great for coordinating the many games in the same setting, each happening in their own channel. I really wanted something like that but instead of using in-game time, I wanted to use real time. This simplified the requirements for me, so Norn does a bit of that. The Wettergoblin also does in-game weather, keeps a Greyhawk calendar, shows a timeline comparing where the various channels are compared to each other and all of that, which Norn doesn&rsquo;t do.</p>
+
+<p>Norn also acts as a dice bot and as a knowledge repository.</p>
+
+<p>Game dates, sign-ups, in-game events, knowledge base, all of that happens per channel. It&rsquo;s great!</p>
+
+<p>If you look at the <a href="https://campaignwiki.org/wiki/MontagInZ%C3%BCrich/Norn">bilingual help page</a> of the bot on a phone, prepare for a bit of confusion as the German and the English bits are interleaved. On a bigger screen, you&rsquo;d get two columns…</p>
+
+<p><a class="tag" href="/search/?q=%23IRC">#IRC</a> <a class="tag" href="/search/?q=%23RPG">#RPG</a></p> 
+
+<https://alexschroeder.ch/view/2024-05-16-irc>
+
+---
+
+##  Cicadas and Prime Numbers 
+
+date: 2024-05-16, updated: 2024-05-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/cicadas-and-prime-numbers>
+
+---
+
+##  The movies that influenced Star Wars, from Flash Gordon & Buck Rogers... 
+
+date: 2024-05-16, updated: 2024-05-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044614-the-movies-that-influence>
+
+---
+
+## Fee-Only Bitcoin
+
+date: 2024-05-16, from: David Rosenthal's blog
+
+Mining a Bitcoin block needs to be costly to ensure that the gains from an attack on the blockchain are less than the cost of mounting it. Miners have two sources of income to defray their costs, the block rewards and the fees for the transactions in the block.<br />
+<br />
+On April 19<sup>th</sup> the block reward was halved from 6.25BTC to 3.125BTC. This process is repeated every 210,000 blocks (about every 4 years). It limits the issuance of BTC to 21M because around 2140 the reward will be zero; a halving will make it less than a satoshi.<br />
+<br />
+Long before 2140 the block rewards will have shrunk to become insignificant compared to the fees. Below the fold I look at the significance of the change to a fee-only Bitcoin<br />
+<span><a name='more'></a></span>
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjllnS7WIqiUgpfXOTrpCDxG7dPyaKqEAIVZv3SoG8P-mIftlSyN50Vo76iF0GM_8VS4o5LmhLefs58BQQ1ugvutn9clc69X8jOGgCiLUTT1HbOJjrlwceWkboNICIC23X5lihRnW4z1Q3DMnPZpmRbqXBp90CbXeDjTEJQJYG8DVWG_sqA0dtoh0CvyJWH/s1200/fees-usd-per-transaction.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="600" data-original-width="1200" height="100" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjllnS7WIqiUgpfXOTrpCDxG7dPyaKqEAIVZv3SoG8P-mIftlSyN50Vo76iF0GM_8VS4o5LmhLefs58BQQ1ugvutn9clc69X8jOGgCiLUTT1HbOJjrlwceWkboNICIC23X5lihRnW4z1Q3DMnPZpmRbqXBp90CbXeDjTEJQJYG8DVWG_sqA0dtoh0CvyJWH/w200-h100/fees-usd-per-transaction.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.blockchain.com/explorer/charts/fees-usd-per-transaction">Source</a></td></tr></tbody></table>
+Users wishing to transact bid the fee for their transaction in an auction. When demand for transactions is high, fees are high, at other times lower. The graph shows that around the halving there was heavy demand for transactions and the
+average fee per transaction rose to $127. This is an average, it is likely that the distribution of fees is highly skewed.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-DWoijw1FTfd9ytK2nP_6Tl_9vqzKLcM59vSz5Zk0PimTGJ1ueH8ELsUpDxQwVb9BUasGtOtYX-QdE7a0lhUO_Uo4APsQwCXclVPYzEQpQXU48WUj3BorsiagNZLtlvVqY-EixMWpPvV_9XuFiAlf2UXqqwwnHQgKFshG3sD6B7ii_dj6M4l8ahIPAzdt/s1200/avg-confirmation-time.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="600" data-original-width="1200" height="100" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-DWoijw1FTfd9ytK2nP_6Tl_9vqzKLcM59vSz5Zk0PimTGJ1ueH8ELsUpDxQwVb9BUasGtOtYX-QdE7a0lhUO_Uo4APsQwCXclVPYzEQpQXU48WUj3BorsiagNZLtlvVqY-EixMWpPvV_9XuFiAlf2UXqqwwnHQgKFshG3sD6B7ii_dj6M4l8ahIPAzdt/w200-h100/avg-confirmation-time.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.blockchain.com/explorer/charts/avg-confirmation-time">Source</a></td></tr></tbody></table>
+The lower the fee, the less likely a miner will choose to include it in the block they are trying to mine, especially at times of high demand for transactions. Low fee transactions can wait in the mempool for a long time. The <i>average</i> delay on 30<sup>th</sup> September 2023 was 25,810 minutes (nearly 18 days) while the <i>median</i> delay was 10 minutes. Clearly, there was a huge flood of very low-fee transactions.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2_rgYaxaPHuh68HhHv1z8PGtya-D6_vniiys85QPGQ2ntdrz5KVSlVH7gkByftY3ZXqpv7-tOjtaRawoFDgKU-3eKxSKLX4v1FOqExbUB7YKcQmYs-V2fKHDwRyooxigv2v0QZEAx9QeDNoJ8HtRuGBavjcB-KAPqhgu5kar7Bz58IBMusOZn8ccbylg9/s1200/cost-per-transaction.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="600" data-original-width="1200" height="100" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2_rgYaxaPHuh68HhHv1z8PGtya-D6_vniiys85QPGQ2ntdrz5KVSlVH7gkByftY3ZXqpv7-tOjtaRawoFDgKU-3eKxSKLX4v1FOqExbUB7YKcQmYs-V2fKHDwRyooxigv2v0QZEAx9QeDNoJ8HtRuGBavjcB-KAPqhgu5kar7Bz58IBMusOZn8ccbylg9/w200-h100/cost-per-transaction.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.blockchain.com/explorer/charts/cost-per-transaction">Source</a></td></tr></tbody></table><br />As I write the average fee per transaction is $3.21 while the average cost (reward plus fee) is $65.72, so transactions are 95% subsidized by inflating the currency.  Over time, miners reap about 1.5% of the transaction volume.  The miners' daily income is around $30M, below average.  This is about 2.5E-5 of BTC's "market cap".<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_dhIn57Gb7vM3zBop1YniECW4p8q-gl3ZN2X6c-kJwOKAhR2L21D-FjLAJgIGwf4g1eiEfl2sbzjoQ_W1rHLxFFLYmHSvxRcZ9E0T1Eah3juz9B2Mfhrjw2_mVBQ45pYgH3iGzsB259Rsv3n0ckAFT5r5SBEFKrvznuUj58Uq9NghzXM6mdaVkBfioTKz/s1200/miners-revenue.png" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="600" data-original-width="1200" height="100" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_dhIn57Gb7vM3zBop1YniECW4p8q-gl3ZN2X6c-kJwOKAhR2L21D-FjLAJgIGwf4g1eiEfl2sbzjoQ_W1rHLxFFLYmHSvxRcZ9E0T1Eah3juz9B2Mfhrjw2_mVBQ45pYgH3iGzsB259Rsv3n0ckAFT5r5SBEFKrvznuUj58Uq9NghzXM6mdaVkBfioTKz/w200-h100/miners-revenue.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.blockchain.com/explorer/charts/miners-revenue">Source</a></td></tr></tbody></table>
+Lets assume, optimistically, that this below average daily fraction of the "market cap" is sufficient to deter attacks and examine what might happen in 2036 after 3 more halvings.  The block reward will be 0.39BTC.  Lets work in 2024 dollars and assume that the BTC "price" exceeds inflation by 3.5%, so in 12 years BTC will be around $98.2K.<br />
+<br />
+To maintain deterrence miners' daily income will need to be about $50M, Each day there will be about 144 blocks generating 56.16BTC or about $5.5M, which is 11% of the required miners' income. Instead of 5% of the income, fees will need to cover 89% of it.  The daily fees will need to be $44.5M.  Bitcoin's blockchain averages around 500K transactions/day, so the average transaction fee will need to be around $90, or around 30 times the current fee.<br />
+<br />
+One might think that, were BTC to proceed properly moonwards, this problem would go away.
+Lets repeat the calculation assuming BTC = $1M in 12 years. Miners' daily income would need to be around $500M. The daily rewards would be about $55M, so the fees would need to be $445M, the same 11%. Thus the average fee would need to be around $900. The problem scales with the "price".<br />
+<br />
+It seems probable that withdrawal of the 95% subsidy on transactions will cause some problems. Indeed, there is considerable economic research making this point, including:<br />
+<ul>
+<li>In 2016 Arvind Narayanan's group at Princeton published a related instability in Carlsten <i>et al</i>'s <a href="http://randomwalker.info/publications/mining_CCS.pdf"><i>On the instability of bitcoin without the block reward</i></a>. Narayanan summarized the paper in a blog post:<br />
+<blockquote>
+Our key insight is that with only transaction fees, the variance of the miner reward is very high due to the randomness of the block arrival time, and it becomes attractive to fork a “wealthy” block to “steal” the rewards therein. 
+</blockquote>
+</li>
+<li>More generally, the analysis of 2018's <a href="http://www.nber.org/papers/w24717"><i>The Economic Limits Of Bitcoin And The Blockchain</i></a> by Eric Budish essentially concludes that, for safety, the value of transactions in a block must be less than the sum of the mining reward and the fees it contains.</li>
+<li>In 2019 Raphael Auer of the Bank for International Settlements published <a href="https://www.bis.org/publ/work765.pdf"><i>Beyond the doomsday economics of “proof-of-work” in cryptocurrencies</i></a>:<br />
+<blockquote>
+The key takeaway of this paper concerns the interaction of these two limitations: proof-of-work can only achieve payment security if mining income is high, but the transaction market cannot generate an adequate level of income. ... the economic design of the transaction market fails to generate high enough fees. A simple model suggests that ultimately, it could take nearly a year, or 50,000 blocks, before a payment could be considered “final”."
+</blockquote>
+</li>
+</ul>
+The last time I wrote about this issue was in 2021's <a href="https://blog.dshr.org/2021/06/taleb-on-cryptocurrency-economics.html"><i>Taleb On Cryptocurrency Economics</i></a>.<br />
+<br /> 
+
+<https://blog.dshr.org/2024/05/fee-only-bitcoin.html>
+
+---
+
+##  Trailer for Season Two of The Rings of Power 
+
+date: 2024-05-16, updated: 2024-05-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/trailer-for-season-two-of-the-rings-of-power>
+
+---
+
+##  I Was Shot in Vermont. What if It Had Been in the... 
+
+date: 2024-05-16, updated: 2024-05-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044637-i-was-shot-in-vermont>
+
+---
+
+## Granada, Spain
+
+date: 2024-05-16, from: mrusme blog
+
+"Granada is the capital city of the province of Granada, in the autonomous
+community of Andalusia, Spain. Granada is located at the foot of the Sierra
+Nevada mountains, at the confluence of four rivers, the Darro, the Genil, the
+Monachil and the Beiro. Ascribed to the Vega de Granada comarca, the city sits
+at an average elevation of 738 m (2,421 ft) above sea level, yet is only one
+hour by car from the Mediterranean coast, the Costa Tropical." 
+
+<https://xn--gckvb8fzb.com/travel/spain/granada/>
+
+---
+
+## 2024-05-09 Hoping for the next AI winter
+
+date: 2024-05-16, from: Alex Schroeder's Blog
+
+<h1 id="2024-05-09-hoping-for-the-next-ai-winter">2024-05-09 Hoping for the next AI winter</h1>
+
+<p><a class="account" href="https://chirp.enworld.org/@taichara" title="@taichara@chirp.enworld.org">@taichara</a> pointed me to a blog post that Creative Commons (CC) wrote in 2023 about the court cases against GitHub, Stable Diffusion, Midjourney and the claim that their use of copyrighted works to train the machines is copyright infringement. CC does not agree.</p>
+
+<blockquote>
+<p>As Creative Commons has argued elsewhere, and others agree, I believe that this type of use should be protected by copyright’s fair use doctrine. In this blog post I will discuss what fair use is, what purpose it serves, and why I believe that using copyrighted works to train generative AI models should be permitted under this law. – <a href="https://creativecommons.org/2023/02/17/fair-use-training-generative-ai/">Fair Use: Training Generative AI</a></p>
+</blockquote>
+
+<p>I guess I don&rsquo;t mind that blog post. For one, Fair Use is a very USA thing and I don&rsquo;t live there. Furthermore, the CC licenses don&rsquo;t say &ldquo;this material is fine for AI training&rdquo; – so whether this is fine or not will be decided by the courts. I would only worry if CC turns out to be working on a version 5 of their licenses with an explicit exception for AI training. And even then, we can keep on using version 4 of the license. There is no automatic upgrade option.</p>
+
+<p>This is why I feel fine.</p>
+
+<p>Imagine the Dude from The Big Lebowski saying, &ldquo;Yeah, well, that&rsquo;s just, like, their opinion…&rdquo;</p>
+
+<p>It doesn&rsquo;t look as if CC will be changing the license. The courts still get to decide. If the courts decide in favour of free-for-all AI training, then rich people win for the moment. But even then, we can still nationalise their businesses, or prohibit AI training, or raise prices on electricity and water. The fight isn&rsquo;t over. Not by a long shot.</p>
+
+<p>Maybe this is a thing with lawyers. We trust people who share our values and we’d trust somebody when they write something along the lines of “AI training is terrible and AI use is dubious but what can you do, it’s in the hand of the courts, we certainly don’t support it.” But lawyers trust other lawyers who say “we’ll see what the courts say but our understanding is that nobody should stop AI training because that’s the trade-off copyright makes and we support people and corporations exercising their rights.”</p>
+
+<p>The apparent moral support on copyright grounds is revolting, but this approach seems typical to me. They say: The point of the law is this or that. We say: The result of these actions is bad for society and bad for the climate. They are externalising all the costs. The artists and authors who want to produce new works are losing their jobs. The people double-checking the computers and their training are burning out. The communities where these corporations build their computing centres suffer from water scarcity because the water is used to cool the computers. The countries where these corporations build their computing centres need to build more power plants because so much electricity is required to train their models. The move to renewable energies is delayed. Phasing out nuclear power is delayed and more radioactive waste ends up on our lands.</p>
+
+<blockquote>
+<p>Sending this message was important to us. We considered ourselves to be a powerful culture.
+This place is not a place of honor&hellip; no highly esteemed deed is commemorated here&hellip; nothing valued is here.
+– <a href="https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages">Long-term nuclear waste warning messages</a>, Wikipedia</p>
+</blockquote>
+
+<p>Or we can believe in nuclear fusion:</p>
+
+<blockquote>
+<p>AI models made up of billions of parameters require huge amounts of energy to train. OpenAI&rsquo;s old GPT-3 system reportedly consumed 936 megawatt hours … the average household consumes about 10.5 MWh per year. That means training GPT-3 consumed as much energy as about 90 households consume in a year. – <a href="https://www.theregister.com/2024/01/22/google_deepmind_train_alphageometry_system/">Energy breakthrough needed to build AGI, says OpenAI boss Altman</a>, The Register</p>
+</blockquote>
+
+<p>Sadly, nuclear fusion only seems to be working inside the sun:</p>
+
+<blockquote>
+<p>1955: At the first Atoms for Peace meeting in Geneva, Homi J. Bhabha predicts that fusion will be in commercial use within two decades. – <a href="https://en.wikipedia.org/wiki/Timeline_of_nuclear_fusion">Timeline of nuclear fusion</a>, Wikipedia</p>
+</blockquote>
+
+<p>And what for? The people who are looking for answers get served bullshit slop that&rsquo;s wrong and hurtful and racist and misogynist. We see this in customer service degrading, in search engines degrading, in websites degrading. The corporations don&rsquo;t mind that they&rsquo;re feeding us slop as long as they are making money.</p>
+
+<p>We are enabling this because these corporations are powerful and rich. They buy our politicians with money and promises of jobs, they don&rsquo;t pay the taxes they ought to pay and then they don&rsquo;t deliver on the jobs, and the jobs they offer are menial and subservient when we&rsquo;d prefer to be creative and free. We thought we&rsquo;d be writing and painting all day while the machines serve us but we end up serving them while they do the writing and painting, badly!</p>
+
+<p>It&rsquo;s hard to defend against these corporations because the knowledge required to defeat them is not known to us all. We don&rsquo;t read about it in the media. Instead, they volunteer for all the posts, offer their experts, pay for their own research, write their own glowing press releases and commission promising reports. This is how regulatory capture works.</p>
+
+<p>So yes, we should nationalise them, regulate them, force them to pay for the true cost of resources they use, outlaw their energy waste, force them to label their output, shun them. We should kick them from our company. Like a creeping disease their rot spreads, destroying the technology we built, the search engines, databases, websites, turning it all into AI slop. It is revolting.</p>
+
+<p>And maybe copyright is not the right tool to stop corporations from training their machines on our works. But in the big picture, they are still wrong.</p>
+
+<p><a class="account" href="https://social.coop/@eloquence" title="@eloquence@social.coop">@eloquence</a> says:</p>
+
+<blockquote>
+<p>The folks who are calling such training &ldquo;theft&rdquo; might regret what they seem to be implicitly asking for, i.e. much stricter copyright. Copyright law won&rsquo;t prevent Microsoft, Google, OpenAI or Adobe from making shady licensing deals, but they&rsquo;ll prevent the free/open community from keeping up.</p>
+</blockquote>
+
+<p>It&rsquo;s true, I don&rsquo;t want to ask for stricter copyright. But I still oppose all the things that are wrong with the current AI bubble.</p>
+
+<p><a class="account" href="https://mastodon.social/@mcc" title="@mcc@mastodon.social">@mcc</a> recently wrote about a similar thing: We use free software licenses in order to distribute our software for the benefit of our fellow humans but not necessarily to train the machines of corporations that are responsible for all the slop.</p>
+
+<blockquote>
+<p>Like, heck, how am I <em>supposed</em> to rely on my code getting preserved after I lose interest, I die, BitBucket deletes every bit of Mercurial-hosted content it ever hosted, etc? Am I supposed to rely on <em>Microsoft</em> to responsibly preserve my work? Holy crud no.
+We <em>want</em> people to want their code widely mirrored and distributed. That was the reason for the licenses. That was the social contract. But if machine learning means the social contract is dead, why would people want their code mirrored? – <a href="https://mastodon.social/@mcc/112209218607258564">mmc</a></p>
+</blockquote>
+
+<p>We&rsquo;re using copyright to keep the software free. If AI regurgitating our software from its impenetrable memories circumvents copyright it also circumvents our licenses and therefore pulls the claws and teeth free software has to fight for its freedom.</p>
+
+<p>This is why opposing the current AI bubble is important. No matter how I look at it, the big picture shows that this kind of AI is our enemy. It&rsquo;s just that copyright is the wrong weapon.</p>
+
+<p>This is why we continue fighting all the negatives these corporations bring to the table. And if it turns out that their business model doesn&rsquo;t work unless they bring all these negatives to the table, then I guess that&rsquo;s just that. We are under no obligation to support their business model. In fact, it is our right and our duty to regulate the world in order to improve it for all of us. We&rsquo;ve been doing it for a very long time.</p>
+
+<p>Here&rsquo;s to hoping for the next AI winter.</p>
+
+<blockquote>
+<p>In the history of artificial intelligence, an AI winter is a period of reduced funding and interest in artificial intelligence research. The field has experienced several hype cycles, followed by disappointment and criticism, followed by funding cuts, followed by renewed interest years or even decades later. – <a href="https://en.wikipedia.org/wiki/AI_winter">AI winter</a>, Wikipedia</p>
+</blockquote>
+
+<p><a class="tag" href="/search/?q=%23Copyright">#Copyright</a> <a class="tag" href="/search/?q=%23Artificial_Intelligence">#Artificial Intelligence</a></p>
+
+<p><strong>2024-05-16</strong>. Cory Doctorow also thinks that copyright is the wrong weapon:</p>
+
+<blockquote>
+<p>Creative workers who hope that they can use copyright law to prevent AI from changing the creative labor market are likely to be very disappointed in court … Individual creative workers rarely have any bargaining leverage over the corporations that license our copyrights. … Rather than going to Congress alongside our bosses from the studios and labels and publishers to demand more copyright, we could go to Congress alongside every kind of worker, from fast-food cashiers to publishing assistants to truck drivers to demand the right to sectoral bargaining. – <a href="https://pluralistic.net/2024/05/13/spooky-action-at-a-close-up/#invisible-hand">AI &ldquo;art&rdquo; and uncanniness</a></p>
+</blockquote> 
+
+<https://alexschroeder.ch/view/2024-05-09-ai-copyright>
+
+---
+
+## Dave Goes Microsoft
+
+date: 2024-05-16, from: Dave Rupert blog
+
+<p>Last Monday was my first day as an official employee of Microsoft where I’ll be working on web components as part of the <a href="https://fluent2.microsoft.design/">Fluent</a> design system team.. As longtime readers already know, I’ve had a long term relationship with Microsoft – from <a href="https://paravelinc.com/work/microsoft/">Paravel’s 2012 responsive redesign of the Microsoft homepage</a> to the five year <a href="https://daverupert.com/tag/davegoeswindows">#davegoeswindows</a> stunt –  it feels like a new chapter in the career story arc to finally acquire one of the famous blue badges. I’m still new and have barely setup my computer but so far my team of peers, the larger group, the project itself, and the other folks across Microsoft I’ve connected with are all great.</p>
+<p>Going from a company with two coworkers to a company with 200K coworkers is certainly an adjustment. It’s my first job in 18 years where I’m not working for myself but by far the biggest eye-opener throughout this process was doing tech interviews! I learned a lot about myself; like how after decades of coding in a room by myself, performing in front of someone else isn’t natural for me. Weirdly for me, a live demo in front of thousands of people… no problem. A random generated coding challenge in front of one person… palms sweaty, mom’s spaghetti levels of difficult. I also learned that too much caffeine and the panic-flavored adrenaline of interviewing is a lot of chemistry for my active brain to process.</p>
+<p>I eventually figured out how to interview and I had a lot of great conversations with great people at great companies. That said, this experience left me with lingering qualms about the tech interview process. A lot of it comes down to the information asymmetry where the seller (the hiring company) has more information than the buyer (the job candidate) and it’s hard to get any feedback for self-improvement. Even in my limited experience, it’s not uncommon to sink 15+ hours into a take home coding test and interview loop only to receive a terse rejection. Granted there’s promise of a six figure salary at the end of the rainbow, these jobs don’t fall out of the sky so you need to put in work, but I think that situation needs to be a bit more equitable to candidates – a Newtonian dynamic of matching effort.</p>
+<p>One question they ask you at interviews is “What are you looking for in your next role?” and while that sparks thousands of ideas, I boiled my needs and wants down to two core concepts:</p>
+<ul>
+<li><strong>Be a part of a larger team of engineers</strong> - I’d like to work on a larger team of developers. I want to be in a situation where I can actively and passively learn from other engineers who are subject matter experts in different subjects. As a life-long learner, I’d like to take myself out of the “lone developer” paradigm and absorb as much as I can.</li>
+<li><strong>Be tangential to the money machine</strong> - When you run your own business there’s a tight coupling between <em>how much you work</em> and <em>how much money you make</em> and you’re constantly aware of that fact. After 18 years of running my own business and two particularly intense years of startup burnout, I’d like to try something different and play a more supportive operational role for a bit.</li>
+</ul>
+<p>I think I found that in Microsoft. There’s a multitude of people I can ping about niche technology choices. There’s even access to a library of research papers. And already I can see how operating in a product support role seems to provide more opportunity for strategy to the broader needs of the organization as opposed to reactivity to the needs <em>du jour</em> that happen in Productland.</p>
+<p>I’m sure throughput will be a bit slower without direct access to the publish to production button. I’m sure there’s topics I won’t be able to talk about on this here blog (but I tend not to blog about specific work-related activities here anyways so that won’t change). And I’m sure I’ll have to put a disclaimer here and there that these ideas are my own and not reflective of my employer. Henceforth and furthermore all bad ideas are copyright of Dave Rupert LLC®.</p>
+<p>It’s the end of an era for sure but also the beginning of a new one and potentially the beginning of lots of new ones, who knows. Thanks to Trent and Reagan. Thanks to everyone who provided emotional support on this journey. Thanks to esteemed friends who provided referrals. Given the current macroeconomic situation, I feel lucky to have landed somewhere familiar with great opportunities and many Dave Rupert-shaped problems.</p> 
+
+<https://daverupert.com/2024/05/dave-goes-microsoft/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-16, from: Dave Winer's Scripting News)
+
+The thing that <a href="https://www.platformer.news/google-io-ai-search-sundar-pichai/">Casey Newton predicts</a> for Google and news has already happened for the huge base of reference info for software development. We no longer go to the sources, don't need to, the ChatGPT version is an order of magnitude better. What we do need is people to keep asking and answering questions for each other, so the knowledge can be added into the AI database. We're going somewhere here. It's worth going there, imho, having experienced the before, and only starting to glimpse the now and near-future. But it's as big a step as the move to PCs, then GUIs, web. 
+
+<http://scripting.com/2024/05/16.html#a135637>
+
+---
+
+##  Scope of Work is holding a contest around the idea of &#8220;umarelling&#8221;,... 
+
+date: 2024-05-16, updated: 2024-05-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044633-scope-of-work-is-holding>
+
+---
+
+## Ruskin on Color
+
+date: 2024-05-16, from: Ayjay blog
+
+The perception of colour is a gift just as definitely granted to one person, and denied to another, as an ear for music; and the very first requisite for true judgment of Saint Mark’s, is the perfection of that colour-faculty which few people ever set themselves seriously to find out whether they possess or not. [&#8230;] 
+
+<https://blog.ayjay.org/ruskin-on-color/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-16, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="http://scripting.com/images/2023/04/24/cheshireCat.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Something I'd like from ChatGPT or a plug-in. I'd like to create a notebook of info I'd like it to have available for people who inquire about a product I'm developing. As I'm working on the code, I develop features that sometimes don't make it into the docs. But when I'm working on the feature, I take lots of notes in my work outline. I'd like to give that outline to a LLM and let it figure out which product I'm talking about by the context it appears in. Maybe all I have to do is publish the notes when the product comes out, and eventually, like a search engine, my favorite AI will crawl it. I wonder if it makes sense to somehow pre-digest it. I wish I had a panel of experts about this stuff, but I guess they'd have to be human, at least at this point in time. If this makes sense to you and you know how to get started, <a href="https://github.com/scripting/Scripting-News/issues/307">post a note here</a>. 
+
+<http://scripting.com/2024/05/16.html#a130419>
+
+---
+
+**@Ayjay blog** (date: 2024-05-16, from: Ayjay blog)
+
+I believe every man in a Christian kingdom ought to be equally well educated. But I would have it education to purpose; stern, practical, irresistible, in moral habits, in bodily strength and beauty, in all faculties of mind capable of being developed under the circumstances of the individual, and especially in the technical knowledge of [&#8230;] 
+
+<https://blog.ayjay.org/46215-2/>
+
+---
+
+## Zero-Trust DNS
+
+date: 2024-05-16, updated: 2024-05-16, from: Bruce Schneier blog
+
+<p>Microsoft is <a href="https://arstechnica.com/security/2024/05/microsoft-plans-to-lock-down-windows-dns-like-never-before-heres-how/">working on</a> a promising-looking protocol to lock down DNS.</p>
+<blockquote><p>ZTDNS aims to solve this decades-old problem by integrating the Windows DNS engine with the Windows Filtering Platform&#8212;the core component of the Windows Firewall&#8212;directly into client devices.</p>
+<p>Jake Williams, VP of research and development at consultancy Hunter Strategy, said the union of these previously disparate engines would allow updates to be made to the Windows firewall on a per-domain name basis. The result, he said, is a mechanism that allows organizations to, in essence, tell clients &#8220;only use our DNS server, that uses TLS, and will only resolve certain domains.&#8221; Microsoft calls this DNS server or servers the &#8220;protective DNS server.&#8221;...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/05/zero-trust-dns.html>
+
+---
+
+## The loathsomeness of Trump world
+
+date: 2024-05-16, from: Robert Reich's blog
+
+The backstory of the trial 
+
+<https://robertreich.substack.com/p/the-loathsomeness-of-trump-world>
+
+---
+
+## Instagram Cofounder Mike Krieger Joins Anthropic as Chief Product Officer
+
+date: 2024-05-16, updated: 2024-05-16, from: Daring Fireball
+
+ 
+
+<https://www.threads.net/@mikeyk/post/C6_feeSr0Q4>
+
+---
+
+## ★ Follow-Up on Apple No Longer Including Stickers With New Products
+
+date: 2024-05-16, updated: 2024-05-16, from: Daring Fireball
+
+I conducted the same poll on Twitter/X, Mastodon, and Threads: “Thoughts on Apple no longer including stickers with new devices to reduce waste?”, with two options: 👍 or 👎. 
+
+<https://daringfireball.net/2024/05/no_more_stickers_follow-up>
+
+---
+
+## Save the Date: The Talk Show Live From WWDC 2024
+
+date: 2024-05-16, updated: 2024-05-16, from: Daring Fireball
+
+ 
+
+<https://daringfireball.net/thetalkshow/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-16, from: Dave Winer's Scripting News)
+
+I wonder if anyone named their dog Alexa, and if any hilarity ensued. 
+
+<http://scripting.com/2024/05/15.html#a004548>
+
+---
+
+##  Pulitzer Prize in Fiction juror Michael Chabon recommended three non-winning books that... 
+
+date: 2024-05-15, updated: 2024-05-15, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044635-pulitzer-prize-in-fiction>
+
+---
+
+## Apple Stiffs Researcher on Bounty for iOS Kernel Vulnerability [Update: Resolved]
+
+date: 2024-05-15, updated: 2024-05-16, from: Daring Fireball
+
+ 
+
+<https://mjtsai.com/blog/2024/05/14/no-bounty-for-kernel-vulnerability/>
+
+---
+
+##  On Sports Parenting 
+
+date: 2024-05-15, updated: 2024-05-15, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/on-sports-parenting>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-15, from: Dave Winer's Scripting News)
+
+My AI bot is a library, a librarian, a programming partner, tutor and executive assistant. And we're just getting started working together. 
+
+<http://scripting.com/2024/05/15.html#a204359>
+
+---
+
+##  Tracing the history of emoji, surprisingly, back to the 80s. &#8220;Once you... 
+
+date: 2024-05-15, updated: 2024-05-15, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044632-tracing-the-history-of-em>
 
 ---
 
@@ -69,9 +482,9 @@ Next month I have an essay coming out in Harper’s called “Yesterday’s Men:
 
 ---
 
-## Jeff Johnson: ‘Apple Started Cheating Me Out of App Store Bundle Purchases’
+## Jeff Johnson: ‘Apple Started Cheating Me Out of App Store Bundle Purchases’ [Update: Resolved]
 
-date: 2024-05-15, updated: 2024-05-15, from: Daring Fireball
+date: 2024-05-15, updated: 2024-05-16, from: Daring Fireball
 
  
 
@@ -105,7 +518,7 @@ date: 2024-05-15, from: Dave Winer's Scripting News
 
 <p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/05/15/knicksAtTheGarden.png"></center>Knicks at the Garden via ChatGPT 4o.</div></p>
 <p>They <a href="http://scripting.com/2024/05/14/125908.html">needed</a> fresh blood, and they got it. </p>
-<p>Knicks won in a blowout. </p>
+<p>Knicks <a href="https://sports.yahoo.com/jalen-brunson-erupts-44-points-025800375.html">won</a> in a blowout. </p>
 <p>I had no idea that was coming. </p>
 <p>Next game on Friday.</p>
  
@@ -116,7 +529,7 @@ date: 2024-05-15, from: Dave Winer's Scripting News
 
 **@Dave Winer's Scripting News** (date: 2024-05-15, from: Dave Winer's Scripting News)
 
-<a href="https://www.nytimes.com/2024/05/15/opinion/artificial-intelligence-ai-openai-chatgpt-overrated-hype.html">AI is not over-hyped</a>, imho. I'm discovering new significance for it every day. An example. I had to go back to some very complex code I wrote a week ago. I wanted to give it new flexibility, that would be simple from the user's point of view, and in order for it to work technically it has to maintain that simplicity internally. It's a tall order to go back to something complex a week after writing it, and rip it apart and put it back together and have it retain the simplicity it had before. But I had an advantage this time that I had never had before, a programming partner with a perfect memory. I had written the original code with ChatGPT. So I went back and asked it to review my plan, and then worked with it step by step as I had before. It had perfect recall, right, of course where my recall is pretty sketchy. It took two sessions to get it done, but it works now, and I'm confident I've covered all the bases. How do you put that story in a press release? If you want to understand a new technology, don't talk to the CEO of the tech company that made the product, their lives are whirlwinds, they don't have time or the capacity to understand how big the idea is, they just know that it is big. If you want to understand you have to use it and you have to talk with other users. 
+<img class="imgRightMargin" src="http://scripting.com/images/2023/04/29/raisins.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://www.nytimes.com/2024/05/15/opinion/artificial-intelligence-ai-openai-chatgpt-overrated-hype.html">AI is not over-hyped</a>, imho. I'm discovering new significance for it every day. An example. I had to go back to some very complex code I wrote a week ago. I wanted to give it new flexibility, that would be simple from the user's point of view, and in order for it to work technically it has to maintain that simplicity internally. It's a tall order to go back to something complex a week after writing it, and rip it apart and put it back together and have it retain the simplicity it had before. But I had an advantage this time that I had never had before, a programming partner with a perfect memory. I had written the original code with ChatGPT. So I went back and asked it to review my plan, and then worked with it step by step as I had before. It had perfect recall, right, of course where my recall is pretty sketchy. It took two sessions to get it done, but it works now, and I'm confident I've covered all the bases. How do you put that story in a press release? If you want to understand a new technology, don't talk to the CEO of the tech company that made the product, their lives are whirlwinds, they don't have time or the capacity to understand how big the idea is, they just know that it is big. If you want to understand you have to use it and you have to talk with other users. 
 
 <http://scripting.com/2024/05/15.html#a155730>
 
@@ -208,6 +621,16 @@ Friends, In a few weeks, Donald Trump may be a convicted criminal. It&#8217;s ha
 
 ---
 
+## [Sponsor] Kolide: ‘Struggling to Afford Cybersecurity Insurance? Here’s Why.’
+
+date: 2024-05-15, updated: 2024-05-15, from: Daring Fireball
+
+ 
+
+<https://l.kolide.co/43vcTaN>
+
+---
+
 ## microSD cards' SBC days are numbered
 
 date: 2024-05-15, from: Jeff Geerling blog
@@ -235,7 +658,7 @@ date: 2024-05-15, from: Jeff Geerling blog
 
 ## ★ The M4 iPad Pros
 
-date: 2024-05-15, updated: 2024-05-15, from: Daring Fireball
+date: 2024-05-15, updated: 2024-05-16, from: Daring Fireball
 
 A “pro” device that goes pro by getting thinner and lighter, not heavier and thicker, is not a non sequitur. 
 
@@ -405,7 +828,7 @@ Let's talk about how our candidates talk.
 
 ## OpenAI Debuts GPT-4o ‘Omni’ Model
 
-date: 2024-05-14, updated: 2024-05-14, from: Daring Fireball
+date: 2024-05-14, updated: 2024-05-16, from: Daring Fireball
 
  
 

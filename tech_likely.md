@@ -1,11 +1,526 @@
 ---
 title: tech likely 2024.20
-updated: 2024-05-15 13:07:21
+updated: 2024-05-16 10:36:13
 ---
 
 # tech likely 2024.20
 
-(date: 2024-05-15 13:07:21)
+(date: 2024-05-16 10:36:13)
+
+---
+
+##  Diary Comics, Dec. 26-28 
+
+date: 2024-05-16, updated: 2024-05-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/diary-comics-dec-26-28>
+
+---
+
+## 2024-05-16 IRC forever!
+
+date: 2024-05-16, from: Alex Schroeder's Blog
+
+<h1 id="2024-05-16-irc-forever">2024-05-16 IRC forever!</h1>
+
+<p>You know the joke, right? <a href="https://xkcd.com/1782/">In the far future, somebody, somewhere, still wants to use IRC</a>.</p>
+
+<p><img loading="lazy" src="2024-05-16-irc-1.jpg" alt="XKCD called it, many years ago" /></p>
+
+<p>I&rsquo;ve been working on a bot that can connect to both Discord and IRC. It connects to Discord because this is where I found people to game with. Discord comes with audio chat. It catapulted my gaming to a whole new level. So much so that I decided that I&rsquo;d be a paying customer. Still, I want to be prepared for the day when Discord goes down. When it inevitably missteps and becomes untenable. I want to have systems ready to go.</p>
+
+<p>The idea is to have something read that does <a href="https://campaignwiki.org/wiki/Chat">chat</a> for us all.</p>
+
+<p>Behind the curtains, I run an IRC server using <a href="https://ngircd.barton.de/">ngIRCd</a>. I was able to configure it and I was able to federate with <a class="account" href="https://dice.camp/@kyonshi" title="@kyonshi@dice.camp">@kyonshi</a>&rsquo;s IRC server. IRC has been federated for all these years and it&rsquo;s so incredibly light weight, very much unlike XMPP and Matrix and the other options I&rsquo;ve seen.</p>
+
+<p>There are a number of web-based IRC clients that give it a Discord-like user interface. I personally run two instances of <a href="https://thelounge.chat/">The Lounge</a>, one that&rsquo;s free for all and one with accounts. If you register for an account, you can upload a small amount of files for easy image sharing and the like and it also keeps logs for you (so you don&rsquo;t have to learn how to use an IRC &ldquo;bouncer&rdquo;).</p>
+
+<p>Other options would be <a href="https://kiwiirc.com/">Kiwi IRC</a> or <a href="https://www.irccloud.com/">IRC Cloud</a>, if you want a paid service.</p>
+
+<p>The bot I was talking about is called <a href="https://src.alexschroeder.ch/norn.git">Norn</a>. Right now we have an <code>#﻿open-table</code> or <code>#﻿next-games channel</code> on the Discord servers where people announce their games. As players sign up, the messages get edited. It&rsquo;s not really events, it&rsquo;s not reminders, it&rsquo;s not a calendar, but it&rsquo;s simple and it works. You can search it. But if you&rsquo;re on IRC, it doesn&rsquo;t work so well. So Norn does that.</p>
+
+<p>On one of the Discord server, there&rsquo;s a bot called Wettergoblin (the weather goblin) that keeps track of in-game events. Every channel has its own time-axis and you can get an export of all the events. This is great for coordinating the many games in the same setting, each happening in their own channel. I really wanted something like that but instead of using in-game time, I wanted to use real time. This simplified the requirements for me, so Norn does a bit of that. The Wettergoblin also does in-game weather, keeps a Greyhawk calendar, shows a timeline comparing where the various channels are compared to each other and all of that, which Norn doesn&rsquo;t do.</p>
+
+<p>Norn also acts as a dice bot and as a knowledge repository.</p>
+
+<p>Game dates, sign-ups, in-game events, knowledge base, all of that happens per channel. It&rsquo;s great!</p>
+
+<p>If you look at the <a href="https://campaignwiki.org/wiki/MontagInZ%C3%BCrich/Norn">bilingual help page</a> of the bot on a phone, prepare for a bit of confusion as the German and the English bits are interleaved. On a bigger screen, you&rsquo;d get two columns…</p>
+
+<p><a class="tag" href="/search/?q=%23IRC">#IRC</a> <a class="tag" href="/search/?q=%23RPG">#RPG</a></p> 
+
+<https://alexschroeder.ch/view/2024-05-16-irc>
+
+---
+
+##  Cicadas and Prime Numbers 
+
+date: 2024-05-16, updated: 2024-05-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/cicadas-and-prime-numbers>
+
+---
+
+## Microsoft App Assure helps Opera build Arm-optimized browser
+
+date: 2024-05-16, from: Windows Developer Blog
+
+<p>The Microsoft App Assure team helps app developers around the world to ensure their users have top-notch experience on all Microsoft platforms. Today, I want to highlight one of our many successful engagements: the new Opera Browser for Arm-based Win</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2024/05/16/microsoft-app-assure-helps-opera-build-arm-optimized-browser/">Microsoft App Assure helps Opera build Arm-optimized browser</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<https://blogs.windows.com/windowsdeveloper/2024/05/16/microsoft-app-assure-helps-opera-build-arm-optimized-browser/>
+
+---
+
+## NASA Recognizes 5 Early Career Planetary Scientists
+
+date: 2024-05-16, from: NASA breaking news
+
+NASA has selected five early-career scientists for its 2023 Planetary Science Early Career Award (ECA) based on their demonstrated leadership, involvement in the planetary science community, and potential for future impact. The ECA program supports exceptional early-career scientists who play a meaningful role in the planetary science community to pursue professional development in areas relevant […] 
+
+<https://science.nasa.gov/directorates/smd/nasa-recognizes-5-early-career-planetary-scientists/>
+
+---
+
+##  The movies that influenced Star Wars, from Flash Gordon & Buck Rogers... 
+
+date: 2024-05-16, updated: 2024-05-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044614-the-movies-that-influence>
+
+---
+
+##  Trailer for Season Two of The Rings of Power 
+
+date: 2024-05-16, updated: 2024-05-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/trailer-for-season-two-of-the-rings-of-power>
+
+---
+
+## Students Across US to Hear from NASA Astronaut Aboard Space Station
+
+date: 2024-05-16, from: NASA breaking news
+
+Students of a volunteer service organization will have the opportunity next week to hear from NASA astronaut Jeanette Epps aboard the International Space Station. The Earth-to-space call will stream live at 11:40 a.m. EDT on Tuesday, May 21, on&#160;NASA+, NASA Television, the&#160;NASA app, and the agency’s website. Media interested in covering the event must RSVP [&#8230;] 
+
+<https://www.nasa.gov/news-release/students-across-us-to-hear-from-nasa-astronaut-aboard-space-station/>
+
+---
+
+##  I Was Shot in Vermont. What if It Had Been in the... 
+
+date: 2024-05-16, updated: 2024-05-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044637-i-was-shot-in-vermont>
+
+---
+
+## Granada, Spain
+
+date: 2024-05-16, from: mrusme blog
+
+"Granada is the capital city of the province of Granada, in the autonomous
+community of Andalusia, Spain. Granada is located at the foot of the Sierra
+Nevada mountains, at the confluence of four rivers, the Darro, the Genil, the
+Monachil and the Beiro. Ascribed to the Vega de Granada comarca, the city sits
+at an average elevation of 738 m (2,421 ft) above sea level, yet is only one
+hour by car from the Mediterranean coast, the Costa Tropical." 
+
+<https://xn--gckvb8fzb.com/travel/spain/granada/>
+
+---
+
+## Computer Scientists Invent an Efficient New Way to Count
+
+date: 2024-05-16, from: Quanta Magazine
+
+By making use of randomness, a team has created a simple algorithm for estimating large numbers of distinct objects in a stream of data.            <p>The post <a href="https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/" target="_blank">Computer Scientists Invent an Efficient New Way to Count</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/>
+
+---
+
+## 2024-05-09 Hoping for the next AI winter
+
+date: 2024-05-16, from: Alex Schroeder's Blog
+
+<h1 id="2024-05-09-hoping-for-the-next-ai-winter">2024-05-09 Hoping for the next AI winter</h1>
+
+<p><a class="account" href="https://chirp.enworld.org/@taichara" title="@taichara@chirp.enworld.org">@taichara</a> pointed me to a blog post that Creative Commons (CC) wrote in 2023 about the court cases against GitHub, Stable Diffusion, Midjourney and the claim that their use of copyrighted works to train the machines is copyright infringement. CC does not agree.</p>
+
+<blockquote>
+<p>As Creative Commons has argued elsewhere, and others agree, I believe that this type of use should be protected by copyright’s fair use doctrine. In this blog post I will discuss what fair use is, what purpose it serves, and why I believe that using copyrighted works to train generative AI models should be permitted under this law. – <a href="https://creativecommons.org/2023/02/17/fair-use-training-generative-ai/">Fair Use: Training Generative AI</a></p>
+</blockquote>
+
+<p>I guess I don&rsquo;t mind that blog post. For one, Fair Use is a very USA thing and I don&rsquo;t live there. Furthermore, the CC licenses don&rsquo;t say &ldquo;this material is fine for AI training&rdquo; – so whether this is fine or not will be decided by the courts. I would only worry if CC turns out to be working on a version 5 of their licenses with an explicit exception for AI training. And even then, we can keep on using version 4 of the license. There is no automatic upgrade option.</p>
+
+<p>This is why I feel fine.</p>
+
+<p>Imagine the Dude from The Big Lebowski saying, &ldquo;Yeah, well, that&rsquo;s just, like, their opinion…&rdquo;</p>
+
+<p>It doesn&rsquo;t look as if CC will be changing the license. The courts still get to decide. If the courts decide in favour of free-for-all AI training, then rich people win for the moment. But even then, we can still nationalise their businesses, or prohibit AI training, or raise prices on electricity and water. The fight isn&rsquo;t over. Not by a long shot.</p>
+
+<p>Maybe this is a thing with lawyers. We trust people who share our values and we’d trust somebody when they write something along the lines of “AI training is terrible and AI use is dubious but what can you do, it’s in the hand of the courts, we certainly don’t support it.” But lawyers trust other lawyers who say “we’ll see what the courts say but our understanding is that nobody should stop AI training because that’s the trade-off copyright makes and we support people and corporations exercising their rights.”</p>
+
+<p>The apparent moral support on copyright grounds is revolting, but this approach seems typical to me. They say: The point of the law is this or that. We say: The result of these actions is bad for society and bad for the climate. They are externalising all the costs. The artists and authors who want to produce new works are losing their jobs. The people double-checking the computers and their training are burning out. The communities where these corporations build their computing centres suffer from water scarcity because the water is used to cool the computers. The countries where these corporations build their computing centres need to build more power plants because so much electricity is required to train their models. The move to renewable energies is delayed. Phasing out nuclear power is delayed and more radioactive waste ends up on our lands.</p>
+
+<blockquote>
+<p>Sending this message was important to us. We considered ourselves to be a powerful culture.
+This place is not a place of honor&hellip; no highly esteemed deed is commemorated here&hellip; nothing valued is here.
+– <a href="https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages">Long-term nuclear waste warning messages</a>, Wikipedia</p>
+</blockquote>
+
+<p>Or we can believe in nuclear fusion:</p>
+
+<blockquote>
+<p>AI models made up of billions of parameters require huge amounts of energy to train. OpenAI&rsquo;s old GPT-3 system reportedly consumed 936 megawatt hours … the average household consumes about 10.5 MWh per year. That means training GPT-3 consumed as much energy as about 90 households consume in a year. – <a href="https://www.theregister.com/2024/01/22/google_deepmind_train_alphageometry_system/">Energy breakthrough needed to build AGI, says OpenAI boss Altman</a>, The Register</p>
+</blockquote>
+
+<p>Sadly, nuclear fusion only seems to be working inside the sun:</p>
+
+<blockquote>
+<p>1955: At the first Atoms for Peace meeting in Geneva, Homi J. Bhabha predicts that fusion will be in commercial use within two decades. – <a href="https://en.wikipedia.org/wiki/Timeline_of_nuclear_fusion">Timeline of nuclear fusion</a>, Wikipedia</p>
+</blockquote>
+
+<p>And what for? The people who are looking for answers get served bullshit slop that&rsquo;s wrong and hurtful and racist and misogynist. We see this in customer service degrading, in search engines degrading, in websites degrading. The corporations don&rsquo;t mind that they&rsquo;re feeding us slop as long as they are making money.</p>
+
+<p>We are enabling this because these corporations are powerful and rich. They buy our politicians with money and promises of jobs, they don&rsquo;t pay the taxes they ought to pay and then they don&rsquo;t deliver on the jobs, and the jobs they offer are menial and subservient when we&rsquo;d prefer to be creative and free. We thought we&rsquo;d be writing and painting all day while the machines serve us but we end up serving them while they do the writing and painting, badly!</p>
+
+<p>It&rsquo;s hard to defend against these corporations because the knowledge required to defeat them is not known to us all. We don&rsquo;t read about it in the media. Instead, they volunteer for all the posts, offer their experts, pay for their own research, write their own glowing press releases and commission promising reports. This is how regulatory capture works.</p>
+
+<p>So yes, we should nationalise them, regulate them, force them to pay for the true cost of resources they use, outlaw their energy waste, force them to label their output, shun them. We should kick them from our company. Like a creeping disease their rot spreads, destroying the technology we built, the search engines, databases, websites, turning it all into AI slop. It is revolting.</p>
+
+<p>And maybe copyright is not the right tool to stop corporations from training their machines on our works. But in the big picture, they are still wrong.</p>
+
+<p><a class="account" href="https://social.coop/@eloquence" title="@eloquence@social.coop">@eloquence</a> says:</p>
+
+<blockquote>
+<p>The folks who are calling such training &ldquo;theft&rdquo; might regret what they seem to be implicitly asking for, i.e. much stricter copyright. Copyright law won&rsquo;t prevent Microsoft, Google, OpenAI or Adobe from making shady licensing deals, but they&rsquo;ll prevent the free/open community from keeping up.</p>
+</blockquote>
+
+<p>It&rsquo;s true, I don&rsquo;t want to ask for stricter copyright. But I still oppose all the things that are wrong with the current AI bubble.</p>
+
+<p><a class="account" href="https://mastodon.social/@mcc" title="@mcc@mastodon.social">@mcc</a> recently wrote about a similar thing: We use free software licenses in order to distribute our software for the benefit of our fellow humans but not necessarily to train the machines of corporations that are responsible for all the slop.</p>
+
+<blockquote>
+<p>Like, heck, how am I <em>supposed</em> to rely on my code getting preserved after I lose interest, I die, BitBucket deletes every bit of Mercurial-hosted content it ever hosted, etc? Am I supposed to rely on <em>Microsoft</em> to responsibly preserve my work? Holy crud no.
+We <em>want</em> people to want their code widely mirrored and distributed. That was the reason for the licenses. That was the social contract. But if machine learning means the social contract is dead, why would people want their code mirrored? – <a href="https://mastodon.social/@mcc/112209218607258564">mmc</a></p>
+</blockquote>
+
+<p>We&rsquo;re using copyright to keep the software free. If AI regurgitating our software from its impenetrable memories circumvents copyright it also circumvents our licenses and therefore pulls the claws and teeth free software has to fight for its freedom.</p>
+
+<p>This is why opposing the current AI bubble is important. No matter how I look at it, the big picture shows that this kind of AI is our enemy. It&rsquo;s just that copyright is the wrong weapon.</p>
+
+<p>This is why we continue fighting all the negatives these corporations bring to the table. And if it turns out that their business model doesn&rsquo;t work unless they bring all these negatives to the table, then I guess that&rsquo;s just that. We are under no obligation to support their business model. In fact, it is our right and our duty to regulate the world in order to improve it for all of us. We&rsquo;ve been doing it for a very long time.</p>
+
+<p>Here&rsquo;s to hoping for the next AI winter.</p>
+
+<blockquote>
+<p>In the history of artificial intelligence, an AI winter is a period of reduced funding and interest in artificial intelligence research. The field has experienced several hype cycles, followed by disappointment and criticism, followed by funding cuts, followed by renewed interest years or even decades later. – <a href="https://en.wikipedia.org/wiki/AI_winter">AI winter</a>, Wikipedia</p>
+</blockquote>
+
+<p><a class="tag" href="/search/?q=%23Copyright">#Copyright</a> <a class="tag" href="/search/?q=%23Artificial_Intelligence">#Artificial Intelligence</a></p>
+
+<p><strong>2024-05-16</strong>. Cory Doctorow also thinks that copyright is the wrong weapon:</p>
+
+<blockquote>
+<p>Creative workers who hope that they can use copyright law to prevent AI from changing the creative labor market are likely to be very disappointed in court … Individual creative workers rarely have any bargaining leverage over the corporations that license our copyrights. … Rather than going to Congress alongside our bosses from the studios and labels and publishers to demand more copyright, we could go to Congress alongside every kind of worker, from fast-food cashiers to publishing assistants to truck drivers to demand the right to sectoral bargaining. – <a href="https://pluralistic.net/2024/05/13/spooky-action-at-a-close-up/#invisible-hand">AI &ldquo;art&rdquo; and uncanniness</a></p>
+</blockquote> 
+
+<https://alexschroeder.ch/view/2024-05-09-ai-copyright>
+
+---
+
+## Dave Goes Microsoft
+
+date: 2024-05-16, from: Dave Rupert blog
+
+<p>Last Monday was my first day as an official employee of Microsoft where I’ll be working on web components as part of the <a href="https://fluent2.microsoft.design/">Fluent</a> design system team.. As longtime readers already know, I’ve had a long term relationship with Microsoft – from <a href="https://paravelinc.com/work/microsoft/">Paravel’s 2012 responsive redesign of the Microsoft homepage</a> to the five year <a href="https://daverupert.com/tag/davegoeswindows">#davegoeswindows</a> stunt –  it feels like a new chapter in the career story arc to finally acquire one of the famous blue badges. I’m still new and have barely setup my computer but so far my team of peers, the larger group, the project itself, and the other folks across Microsoft I’ve connected with are all great.</p>
+<p>Going from a company with two coworkers to a company with 200K coworkers is certainly an adjustment. It’s my first job in 18 years where I’m not working for myself but by far the biggest eye-opener throughout this process was doing tech interviews! I learned a lot about myself; like how after decades of coding in a room by myself, performing in front of someone else isn’t natural for me. Weirdly for me, a live demo in front of thousands of people… no problem. A random generated coding challenge in front of one person… palms sweaty, mom’s spaghetti levels of difficult. I also learned that too much caffeine and the panic-flavored adrenaline of interviewing is a lot of chemistry for my active brain to process.</p>
+<p>I eventually figured out how to interview and I had a lot of great conversations with great people at great companies. That said, this experience left me with lingering qualms about the tech interview process. A lot of it comes down to the information asymmetry where the seller (the hiring company) has more information than the buyer (the job candidate) and it’s hard to get any feedback for self-improvement. Even in my limited experience, it’s not uncommon to sink 15+ hours into a take home coding test and interview loop only to receive a terse rejection. Granted there’s promise of a six figure salary at the end of the rainbow, these jobs don’t fall out of the sky so you need to put in work, but I think that situation needs to be a bit more equitable to candidates – a Newtonian dynamic of matching effort.</p>
+<p>One question they ask you at interviews is “What are you looking for in your next role?” and while that sparks thousands of ideas, I boiled my needs and wants down to two core concepts:</p>
+<ul>
+<li><strong>Be a part of a larger team of engineers</strong> - I’d like to work on a larger team of developers. I want to be in a situation where I can actively and passively learn from other engineers who are subject matter experts in different subjects. As a life-long learner, I’d like to take myself out of the “lone developer” paradigm and absorb as much as I can.</li>
+<li><strong>Be tangential to the money machine</strong> - When you run your own business there’s a tight coupling between <em>how much you work</em> and <em>how much money you make</em> and you’re constantly aware of that fact. After 18 years of running my own business and two particularly intense years of startup burnout, I’d like to try something different and play a more supportive operational role for a bit.</li>
+</ul>
+<p>I think I found that in Microsoft. There’s a multitude of people I can ping about niche technology choices. There’s even access to a library of research papers. And already I can see how operating in a product support role seems to provide more opportunity for strategy to the broader needs of the organization as opposed to reactivity to the needs <em>du jour</em> that happen in Productland.</p>
+<p>I’m sure throughput will be a bit slower without direct access to the publish to production button. I’m sure there’s topics I won’t be able to talk about on this here blog (but I tend not to blog about specific work-related activities here anyways so that won’t change). And I’m sure I’ll have to put a disclaimer here and there that these ideas are my own and not reflective of my employer. Henceforth and furthermore all bad ideas are copyright of Dave Rupert LLC®.</p>
+<p>It’s the end of an era for sure but also the beginning of a new one and potentially the beginning of lots of new ones, who knows. Thanks to Trent and Reagan. Thanks to everyone who provided emotional support on this journey. Thanks to esteemed friends who provided referrals. Given the current macroeconomic situation, I feel lucky to have landed somewhere familiar with great opportunities and many Dave Rupert-shaped problems.</p> 
+
+<https://daverupert.com/2024/05/dave-goes-microsoft/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-16, from: Dave Winer's Scripting News)
+
+The thing that <a href="https://www.platformer.news/google-io-ai-search-sundar-pichai/">Casey Newton predicts</a> for Google and news has already happened for the huge base of reference info for software development. We no longer go to the sources, don't need to, the ChatGPT version is an order of magnitude better. What we do need is people to keep asking and answering questions for each other, so the knowledge can be added into the AI database. We're going somewhere here. It's worth going there, imho, having experienced the before, and only starting to glimpse the now and near-future. But it's as big a step as the move to PCs, then GUIs, web. 
+
+<http://scripting.com/2024/05/16.html#a135637>
+
+---
+
+##  Scope of Work is holding a contest around the idea of &#8220;umarelling&#8221;,... 
+
+date: 2024-05-16, updated: 2024-05-16, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044633-scope-of-work-is-holding>
+
+---
+
+## Curse Those Experts Mongering Fear
+
+date: 2024-05-16, updated: 2024-05-16, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/05/16/curse-those-experts-mongering-fear/>
+
+---
+
+## Accounts Payable
+
+date: 2024-05-16, from: NASA breaking news
+
+Vendor Payment NASA is committed to expedient and accurate payment of invoices.&#160;&#160;Any questions or inquiries should be addressed to the Contracting Officer designated on your award or to the NSSC Customer Contact Center. NSSC Customer Contact Center telephone: 1-877-677-2123 (1-877-NSSC123) Fax: 1-866-779-6772 (1-866-779-NSSC) Vouchers and invoices are to be submitted in the&#160;Treasury’s Invoice Processing Platform [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/nssc/accounts-payable/>
+
+---
+
+## Ruskin on Color
+
+date: 2024-05-16, from: Ayjay blog
+
+The perception of colour is a gift just as definitely granted to one person, and denied to another, as an ear for music; and the very first requisite for true judgment of Saint Mark’s, is the perfection of that colour-faculty which few people ever set themselves seriously to find out whether they possess or not. [&#8230;] 
+
+<https://blog.ayjay.org/ruskin-on-color/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-16, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="http://scripting.com/images/2023/04/24/cheshireCat.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Something I'd like from ChatGPT or a plug-in. I'd like to create a notebook of info I'd like it to have available for people who inquire about a product I'm developing. As I'm working on the code, I develop features that sometimes don't make it into the docs. But when I'm working on the feature, I take lots of notes in my work outline. I'd like to give that outline to a LLM and let it figure out which product I'm talking about by the context it appears in. Maybe all I have to do is publish the notes when the product comes out, and eventually, like a search engine, my favorite AI will crawl it. I wonder if it makes sense to somehow pre-digest it. I wish I had a panel of experts about this stuff, but I guess they'd have to be human, at least at this point in time. If this makes sense to you and you know how to get started, <a href="https://github.com/scripting/Scripting-News/issues/307">post a note here</a>. 
+
+<http://scripting.com/2024/05/16.html#a130419>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-05-16, from: Miguel de Icaza Mastondon feed)
+
+<p>Friends, I signed this letter, I encourage others to read and sign:</p><p><a href="https://techforfreedomandjustice.github.io/tech-open-letter/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">techforfreedomandjustice.githu</span><span class="invisible">b.io/tech-open-letter/</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112450893869324621>
+
+---
+
+**@Ayjay blog** (date: 2024-05-16, from: Ayjay blog)
+
+I believe every man in a Christian kingdom ought to be equally well educated. But I would have it education to purpose; stern, practical, irresistible, in moral habits, in bodily strength and beauty, in all faculties of mind capable of being developed under the circumstances of the individual, and especially in the technical knowledge of [&#8230;] 
+
+<https://blog.ayjay.org/46215-2/>
+
+---
+
+## Put Rescuezilla 2.5 on a bootable key – before you need it
+
+date: 2024-05-16, updated: 2024-05-16, from: Liam Proven's articles at the Register
+
+<h4>Sort of a FOSS Norton Ghost, now updated to Ubuntu 24.04 base</h4>
+      <p>A fresh release of Rescuezilla, a free Ubuntu-based rescue disk for imaging the drives of a sickly computer, is available.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/05/16/rescuezilla_2_5/>
+
+---
+
+## Rebranding Climate Change
+
+date: 2024-05-16, from: Status-Q blog
+
+As I look out of the window at yet another rainy day, it occurs to me that we missed an opportunity to get climate change taken seriously.  Here in Britain, &#8216;global warming&#8217; often sounds rather nice. An opportunity to improve domestic vineyards, perhaps, and make wines here like the Romans used to do.  Or to <a class="more-link excerpt-link" href="https://statusq.org/archives/2024/05/16/12067/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<https://statusq.org/archives/2024/05/16/12067/>
+
+---
+
+## Introducing classroom management to the Code Editor
+
+date: 2024-05-16, from: Raspberry Pi (.org)
+
+<p>I’m excited to announce that we’re developing a new set of Code Editor features to help school teachers run text-based coding lessons with their students. New Code Editor features for teaching Last year we released our free Code Editor and made it available as an open source project. Right now we’re developing a new set&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/code-editor-classroom-management/">Introducing classroom management to the Code Editor</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/code-editor-classroom-management/>
+
+---
+
+## This vintage radio streams music with Raspberry Pi Zero W
+
+date: 2024-05-16, from: Raspberry Pi News (.com)
+
+<p>A 1938 Emerson clock radio was the inspiration for this 3D printed Raspberry Pi-powered music streaming device.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/this-vintage-radio-streams-music-with-raspberry-pi-zero-w/">This vintage radio streams music with Raspberry Pi Zero W</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/this-vintage-radio-streams-music-with-raspberry-pi-zero-w/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-16, from: Dave Winer's Scripting News)
+
+I wonder if anyone named their dog Alexa, and if any hilarity ensued. 
+
+<http://scripting.com/2024/05/15.html#a004548>
+
+---
+
+## Qualcomm details Linux on Snapdragon X Elite, and it’s looking surprisingly good
+
+date: 2024-05-16, from: OS News
+
+With Qualcomm and Microsoft about to flood the market with devices using the new Snapdragon X Elite, those of us who don&#8217;t want to use Windows felt a bit uneasy &#8211; what&#8217;s Linux support going to look like for this new generation of ARM devices? Well, it seems Qualcomm&#8217;s been busy, and they&#8217;ve published a blog post detailing their work on Linux support for the X Elite. It’s been our priority not only to support Linux on our premium-tier SoCs, but to support it pronto. In fact, within one or two days of publicly announcing each generation of Snapdragon 8, we’ve posted the initial patchset for Linux kernel support. Snapdragon X Elite was no exception: we announced on October 23 of last year and posted the patchset the next day. That was the result of a lot of pre-announcement work to get everything up and running on Linux and Debian. ↫ Qualcomm&#8217;s developer blog In the blog post, the company details exactly which X Elite features have already been merged into mainline with Linux 6.8 and 6.9, as well as which features will be merged into mainline in Linux 6.10 and 6.11, and to be quite frank &#8211; it&#8217;s looking really solid, especially considering this is Qualcomm we&#8217;re talking about. Over the coming six months, they&#8217;re going to focus on getting end-to-end hardware video decoding working, including in Firefox and Chrome, as well as various CPU and GPU optimisations, adding the required firmware to the linux-firmware package, and providing access to easy installers. All in all, it&#8217;s looking like the X Elite will be exceptionally well supported by Linux before the year&#8217;s over. The blog post also details the boot path for Linux on the X Elite, and that, too, is looking good. It&#8217;s using a standard UEFI boot process, and supports GRUB and systemd-boot out of the box. Linux boots up using devicetrees, though, and apparently, there&#8217;s a known problem with using those that Qualcomm and the community are working on. We’re working closely with upstream communities on an open problem with the UEFI-based BIOS while booting with devicetrees. The problem is that, when you have more than one devicetree blob (DTB) packed into the firmware package flashed on the device, there is no standard way of selecting a devicetree to pass on to the kernel. OEMs commonly put multiple DTBs into the firmware package so it will support devices with slightly different SKUs, so we’re keen to solve this problem. ↫ Qualcomm&#8217;s developer blog I am pleasantly surprised by the openness and straightforwardness Qualcomm is showing the Linux community here, and I really hope this is a sign of how the company will keep supporting its laptop and possibly desktop-oriented SoCs from here on out. It seems like next year we will finally be getting competitive ARM laptops that can run Linux in a fully supported fashion. 
+
+<https://www.osnews.com/story/139709/qualcomm-details-linux-on-snapdragon-x-elite-and-its-looking-surprisingly-good/>
+
+---
+
+## Experiment in Java native calls
+
+date: 2024-05-16, from: Marginallia log
+
+I&rsquo;ve experimentally replaced some of the Java implementations of quicksort and binary search with calls to C++ code, and saw huge benefits for the sorting code but the same or worse performance for binary search.
+The Marginalia Search engine is mainly written in Java, which is language that is good at many things, but not particularly pleasant to work with when it comes to low level systems programming.
+Unfortunately, a part of building an internet search engine involves database-adjacent low level programming. 
+
+<https://www.marginalia.nu/log/a_106_native_calls/>
+
+---
+
+## Android 15 beta 2 released
+
+date: 2024-05-15, from: OS News
+
+Google released Android 15 beta 2 today, and with it, they unveiled some more of the new features coming to Android later this year when the final release lands. Android 15 comes with something called a private space, an area with an extra layer of authentication where you can keep applications and data hidden away, such as banking applications or health data. It&#8217;s effectively a separate user profile, and shows up as a separate area in the application drawer when unlocked. When locked, it disappears entirely from sight, share sheets, and so on. Another awesome new feature is Theft Detection Lock, which uses Google &#8220;AI&#8221; to detect when a phone is snatched out of your hands by someone running, biking, or driving away, and instantly locks it. Theft like this is quite common in certain areas, and this seems like an excellent use of &#8220;AI&#8221; (i.e., accelerometer data) to discourage thieves from trying this. There&#8217;s also a bunch of smaller stuff, like custom vibration patterns per notification, giving applications partial access to only your most recent photos and videos, system-wide preferences for which gender you&#8217;d like to be addressed as in gendered languages (French gets this feature first), and a whole lot more. Developers also get a lot to play with here, from safer intents to something like ANGLE: Vulkan is Android&#8217;s preferred interface to the GPU. Therefore, Android 15 includes ANGLE as an optional layer for running OpenGL ES on top of Vulkan. Moving to ANGLE will standardize the Android OpenGL implementation for improved compatibility, and, in some cases, improved performance. You can test out your OpenGL ES app stability and performance with ANGLE by enabling the developer option in Settings -> System -> Developer Options -> Experimental: Enable ANGLE on Android 15. ↫ Android developer blog You can install Android 15 beta 2 on a number f Pixel devices and devices from other OEMs starting today. I installed it on my Pixel 8 Pro, and after a few hours I haven&#8217;t really noticed anything breaking, but that&#8217;s really not enough time to make any meaningful observations. Google also detailed Wear OS 5. Later this year, battery life optimizations are coming to watches with Wear OS 5. For example, running an outdoor marathon will consume up to 20% less power when compared to watches with Wear OS 4. And your fitness apps will be able to help improve your performance with the option to support more data types like ground contact time, stride length and vertical oscillation. ↫ Android developer blog Wear OS 5 will also improve the Watch Face Format with more complications, which is very welcome, because the selection of complications is currently rather meager. Wear OS 5 will also ship later this year. 
+
+<https://www.osnews.com/story/139707/android-15-beta-2-released/>
+
+---
+
+## Add PCI Express to your PowerPC Mac
+
+date: 2024-05-15, from: Tilde.news
+
+<p><a href="https://tilde.news/s/udfvtq/add_pci_express_your_powerpc_mac">Comments</a></p> 
+
+<https://www.youtube.com/watch?v=92hyuICbLpE>
+
+---
+
+##  Pulitzer Prize in Fiction juror Michael Chabon recommended three non-winning books that... 
+
+date: 2024-05-15, updated: 2024-05-15, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044635-pulitzer-prize-in-fiction>
+
+---
+
+##  On Sports Parenting 
+
+date: 2024-05-15, updated: 2024-05-15, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/on-sports-parenting>
+
+---
+
+## Raspberry Pi officially announces intent to IPO
+
+date: 2024-05-15, from: OS News
+
+As expected earlier this year, Raspberry Pi is going public on the stock exchange in London. Back then, CEO Eben Upton said he did not expect the IPO to change how Raspberry Pi did things, but history tells us that initial public offerings tend to, well, change how companies do things. In their official announcement that they intend to hold an IPO, there&#8217;s an incredibly interesting and telling contradiction, as noted by @yassie_j on MastoAkkoma: Raspberry Pi, in their listing press release, says: The Enthusiast and Education market is the “heart” of the Raspberry Pi movement. But also says: Industrial and Embedded market  accounts  over 72 per cent So the heart seems to be going neglected, it seems, because there’s no way you’re going to not cash in on industrial applications. Especially when you’ve just done a big IPO. ↫ @yassie_j on Akkoma This exactly illustrates the fears we all have about what an IPO is going to mean for Raspberry Pi. It&#8217;s already become increasingly more difficult for enthusiasts to get their hands on the latest Raspberry Pi models, but once the IPO&#8217;s done and there&#8217;s shareholders breathing down their neck, that will most likely only get worse. If the industrial and embedded market is where you&#8217;re making most of your money, where do you think Raspberry Pi devices are going to end up? Luckily the market&#8217;s a lot bigger and more varied now than it was back when Raspberry Pi was new, so we have a wide variety of options to choose from. Still, I&#8217;m definitely worried about what Raspberry Pi, as a company, will look like five, ten years from now. 
+
+<https://www.osnews.com/story/139700/raspberry-pi-officially-announces-intent-to-ipo/>
+
+---
+
+## Expedition 70 Astronauts to Share Mission in NASA Welcome Home Event
+
+date: 2024-05-15, from: NASA breaking news
+
+May 15, 2024 MEDIA ADVISORY: J24-010 Expedition 70 Astronauts to Share Mission in NASA Welcome Home Event Four astronauts will participate in a welcome home ceremony at Space Center Houston after recently returning from a mission aboard the International Space Station. NASA astronauts Jasmin Moghbeli and Loral O’Hara, along with JAXA (Japan Aerospace Exploration Agency) [&#8230;] 
+
+<https://www.nasa.gov/news-release/expedition-70-astronauts-to-share-mission-in-nasa-welcome-home-event/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-15, from: Dave Winer's Scripting News)
+
+My AI bot is a library, a librarian, a programming partner, tutor and executive assistant. And we're just getting started working together. 
+
+<http://scripting.com/2024/05/15.html#a204359>
+
+---
+
+##  Tracing the history of emoji, surprisingly, back to the 80s. &#8220;Once you... 
+
+date: 2024-05-15, updated: 2024-05-15, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044632-tracing-the-history-of-em>
+
+---
+
+## Curation, search, and the future of the web
+
+date: 2024-05-15, from: Manu - I write blog
+
+
+                <p>Google I/O 2024 is underway and a bunch of articles came out about what Google's changes to its core product (search) mean for the web as a whole. Sean Hollister at The Verge <a href="https://www.theverge.com/2024/5/14/24074314/google-now-offers-web-search">has a piece on the new “web” search option</a> (a piece that starts with <em>“This is not a joke”</em>) while Casey Newton wrote a  nice articled titled <a href="https://www.platformer.news/google-io-ai-search-sundar-pichai/">“Google’s broken link to the web”</a>.</p>
+<p>Unsurprisingly Google has revealed that AI is going to be integrated pretty much everywhere, and the goal is to let the AI do the googling for you. Which sounds great, in theory. After all, as the fine people at The Browser Company have eloquently explained to the world, the web is in such a terrible state that the only way out of this madness is to let an AI deal with all the garbage and spammy content that’s out there. I already <a href="https://manuelmoreale.com/a-rant-on-arc-search">expressed my doubts about this plan</a> and I don’t think what Google is doing is any better.</p>
+<p>Google, as a company, is in an odd position. They are, fundamentally, an advertising company. Almost 70% of their revenues are generated by ads. Ads on the SERP, ads on their various products and ads served by their ad network on 3rd party websites. When they say that they’re going to do the googling for you they don’t just mean the search part. In theory, AI will also go find the information you’re looking for on 3rd party sites so they’ll do the googling but also the actual browsing. Did you spot the issue? How are people going to consume ads on 3rd party sites if you no longer need to visit 3rd party sites? And if AI is going to take over the entire top part of the SERP with its generated answer, why should companies pay Google to appear at the top of the search results if those search results are not going to be seen by the majority of people?</p>
+<p>It’s a bizarre situation. The answer to missing ad revenues is obviously going to be more ads. I’m sure Google will figure out a way to inject ads into their AI-generated bullshit.</p>
+<p>Some people are obviously freaking out about the recent news. That’s because a huge number of sites out there rely on Google to bring traffic to their websites, sites that are then monetised via ads in most cases. If traffic goes down, ad revenues go down. And that’s a bad thing, right? Right? Well, maybe? I guess it depends. The current state of the web is unsustainable. And maybe AI and AI-generated garbage is what we need to push the current situation over the edge and force some changes.</p>
+<p>I think curation, actual human curation, is going to play an important role in the future. In a web filled with generated nonsense, content curated by knowledgeable human beings is going to be incredibly valuable.</p>
+<p>I find this current phase of the web incredibly interesting. I have no idea how things will evolve but I’m glad I can be part of it, even just as an external observer.</p>                <hr>
+                <h2>Get in touch</h2>                <p>Have something to share? Want me as your <a href="https://manuelmoreale.com/i-ll-read-it">first reader</a>? Get in touch. My inbox is always open.</p>                <a href="mailto:hello@manuelmoreale.com">Connect</a> — 
+                <a href="https://manuelmoreale.com/guestbook">Guestbook</a>
+                <hr>
+                <h2>One a month</h2>                <p>That's how little it takes to help with my <a href="https://manuelmoreale.com/on-dreams-and-goals">goal</a>. If you feel generous, consider supporting what I do.</p>                <a href="https://ko-fi.com/manuelmoreale">Donate</a> — 
+                <a href="https://manuelmoreale.com/supporters">Supporters</a>
+                <hr>
+                <h2>People and Blogs</h2>                <p>I ask people to talk about themselves and their blogs. <a href="https://peopleandblogs.com/">Learn more</a> or subscribe.</p>                <a href="https://manuelmoreale.com/feed/peopleandblogs">RSS</a> — 
+                <a href="https://buttondown.email/peopleandblogs">Email</a>
+             
+
+<https://manuelmoreale.com/@/page/dgFsATFjz1pt8bKZ>
+
+---
+
+## The Marshall Star for May 15, 2024
+
+date: 2024-05-15, from: NASA breaking news
+
+Joint Chiefs Vice Chairman Visits Marshall Navy Adm. Christopher Grady, vice chairman of the Joint Chiefs of Staff, his wife Christine Grady, and son Luke Grady talk with Nick Benjamin, right, a payload operations director for the International Space Station, at the Payload Operations Integration Center during the vice chairman’s tour of NASA’s Marshall Space [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-may-15-2024/>
 
 ---
 
@@ -215,7 +730,7 @@ date: 2024-05-15, from: Dave Winer's Scripting News
 
 <p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/05/15/knicksAtTheGarden.png"></center>Knicks at the Garden via ChatGPT 4o.</div></p>
 <p>They <a href="http://scripting.com/2024/05/14/125908.html">needed</a> fresh blood, and they got it. </p>
-<p>Knicks won in a blowout. </p>
+<p>Knicks <a href="https://sports.yahoo.com/jalen-brunson-erupts-44-points-025800375.html">won</a> in a blowout. </p>
 <p>I had no idea that was coming. </p>
 <p>Next game on Friday.</p>
  
@@ -226,7 +741,7 @@ date: 2024-05-15, from: Dave Winer's Scripting News
 
 **@Dave Winer's Scripting News** (date: 2024-05-15, from: Dave Winer's Scripting News)
 
-<a href="https://www.nytimes.com/2024/05/15/opinion/artificial-intelligence-ai-openai-chatgpt-overrated-hype.html">AI is not over-hyped</a>, imho. I'm discovering new significance for it every day. An example. I had to go back to some very complex code I wrote a week ago. I wanted to give it new flexibility, that would be simple from the user's point of view, and in order for it to work technically it has to maintain that simplicity internally. It's a tall order to go back to something complex a week after writing it, and rip it apart and put it back together and have it retain the simplicity it had before. But I had an advantage this time that I had never had before, a programming partner with a perfect memory. I had written the original code with ChatGPT. So I went back and asked it to review my plan, and then worked with it step by step as I had before. It had perfect recall, right, of course where my recall is pretty sketchy. It took two sessions to get it done, but it works now, and I'm confident I've covered all the bases. How do you put that story in a press release? If you want to understand a new technology, don't talk to the CEO of the tech company that made the product, their lives are whirlwinds, they don't have time or the capacity to understand how big the idea is, they just know that it is big. If you want to understand you have to use it and you have to talk with other users. 
+<img class="imgRightMargin" src="http://scripting.com/images/2023/04/29/raisins.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://www.nytimes.com/2024/05/15/opinion/artificial-intelligence-ai-openai-chatgpt-overrated-hype.html">AI is not over-hyped</a>, imho. I'm discovering new significance for it every day. An example. I had to go back to some very complex code I wrote a week ago. I wanted to give it new flexibility, that would be simple from the user's point of view, and in order for it to work technically it has to maintain that simplicity internally. It's a tall order to go back to something complex a week after writing it, and rip it apart and put it back together and have it retain the simplicity it had before. But I had an advantage this time that I had never had before, a programming partner with a perfect memory. I had written the original code with ChatGPT. So I went back and asked it to review my plan, and then worked with it step by step as I had before. It had perfect recall, right, of course where my recall is pretty sketchy. It took two sessions to get it done, but it works now, and I'm confident I've covered all the bases. How do you put that story in a press release? If you want to understand a new technology, don't talk to the CEO of the tech company that made the product, their lives are whirlwinds, they don't have time or the capacity to understand how big the idea is, they just know that it is big. If you want to understand you have to use it and you have to talk with other users. 
 
 <http://scripting.com/2024/05/15.html#a155730>
 
@@ -538,16 +1053,6 @@ After Broadcom acquired VMware, there&#8217;s been a steady stream of worrying o
 
 ---
 
-## Advent of Computing: Episode 131 - Computer... Books?
-
-date: 2024-05-14, from: Tilde.news
-
-<p><a href="https://tilde.news/s/mnfewp/advent_computing_episode_131_computer">Comments</a></p> 
-
-<https://adventofcomputing.libsyn.com/episode-131-computer-books>
-
----
-
 ## The State of iPadOS in 2024
 
 date: 2024-05-14, from: Michael Tsai
@@ -562,7 +1067,7 @@ Matthew Snyder (via Steve Troughton-Smith): The iPad feels like it&#8217;s caugh
 
 date: 2024-05-14, from: Michael Tsai
 
-Meysam: I reported CVE-2024-27804, an iOS/macOS kernel vulnerability that leads to the execution of arbitrary code with kernel privileges. It&#8217;s fixed in iOS 17.5 and macOS 14.5, but Apple says it&#8217;s not eligible for the security bounty. Via Hacker News and Jeff Johnson. Previously: iOS 17.5 and iPadOS 17.5 macOS 14.5 Reporting a Full Disk [&#8230;] 
+Meysam Firouzi: I reported CVE-2024-27804, an iOS/macOS kernel vulnerability that leads to the execution of arbitrary code with kernel privileges. It&#8217;s fixed in iOS 17.5 and macOS 14.5, but Apple says it&#8217;s not eligible for the security bounty. Via Hacker News and Jeff Johnson. Previously: iOS 17.5 and iPadOS 17.5 macOS 14.5 Reporting a Full [&#8230;] 
 
 <https://mjtsai.com/blog/2024/05/14/no-bounty-for-kernel-vulnerability/>
 
@@ -830,7 +1335,7 @@ Electronic Arts has a long, storied history of trying to wring more money out of
 
 date: 2024-05-14, from: O'Reilly Rador
 
-Marketing teams have been using machine learning for more than a decade. In the early days of Big Data, it was common to hear people say that marketing was Data’s killer app. As data science has evolved into artificial intelligence, people in marketing and sales have discovered a variety of ways of using data to [&#8230;] 
+Marketing teams have been using machine learning for more than a decade. In the early days of big data, it was common to hear people say that marketing was data’s killer app. As data science has evolved into artificial intelligence, people in marketing and sales have discovered a variety of ways of using data to [&#8230;] 
 
 <https://www.oreilly.com/radar/making-marketing-more-effective-with-ai/>
 
@@ -1139,7 +1644,7 @@ Apple (full installer): This document describes the security content of macOS Ve
 
 date: 2024-05-13, from: Michael Tsai
 
-Juli Clover (release notes, security, developer): There are new features for Apple News+, such as an offline mode, and tracking notifications are now available cross-platform for alerts about Bluetooth trackers regardless of platform. Previously: iOS 17.4.1 and iPadOS 17.4.1 
+Juli Clover (release notes, security, developer): There are new features for Apple News+, such as an offline mode, and tracking notifications are now available cross-platform for alerts about Bluetooth trackers regardless of platform. Previously: iOS 17.4.1 and iPadOS 17.4.1 Update (2024-05-16): Juli Clover: In this article, we&#8217;ve rounded up everything new in iOS 17.5. Wes [&#8230;] 
 
 <https://mjtsai.com/blog/2024/05/13/ios-17-5-and-ipados-17-5/>
 

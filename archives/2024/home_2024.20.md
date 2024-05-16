@@ -1,15 +1,25 @@
 ---
 title: home 2024.20
-updated: 2024-05-15 13:07:21
+updated: 2024-05-16 10:36:14
 ---
 
 # home 2024.20
 
-(date: 2024-05-15 13:07:21)
+(date: 2024-05-16 10:36:14)
 
 ---
 
-## California Ag producers receive more $22 million for organic production
+## CDFA and Vietnam sign Memorandum of Understanding on trade, climate and research collaboration
+
+date: 2024-05-15, from: Calfifornia Dept. Aggriculture blog
+
+CDFA Undersecretary Christine Birdsong met today with Deputy Minister Tran Thanh Nam, of the Ministry of Agriculture and Rural Development of Vietnam, and signed a Memorandum of Understanding (MOU) on shared opportunities around climate, trade and research collaboration. Key objectives &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27736">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27736>
+
+---
+
+## California Ag producers receive more than $22 million for organic production
 
 date: 2024-05-15, from: Calfifornia Dept. Aggriculture blog
 

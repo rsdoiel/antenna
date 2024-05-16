@@ -1,11 +1,519 @@
 ---
 title: pacific 2024.20
-updated: 2024-05-15 13:07:20
+updated: 2024-05-16 10:36:13
 ---
 
 # pacific 2024.20
 
-(date: 2024-05-15 13:07:20)
+(date: 2024-05-16 10:36:13)
+
+---
+
+## To restore baseball to its previous heights
+
+date: 2024-05-16, updated: 2024-05-16, from: Marianas Variety
+
+KUDOS to Stan Good for his excellent explanation on the cause of the delay for the implementation of the EDA grant for the Civic Center cultural and sports complex. Credit also Governor Palacios and MPLT for greasing the wheels to hopefully get this long-awaited community improvement project moving. 
+
+<https://www.mvariety.com/views/letters_to_editor/to-restore-baseball-to-its-previous-heights/article_57690ef6-1336-11ef-9047-6beb46dd911c.html>
+
+---
+
+## Marianas Chef Competition highlights rib eye on May 18
+
+date: 2024-05-16, updated: 2024-05-16, from: Marianas Variety
+
+(MVA) — Rib eye takes center stage in the Marianas Chef Competition slated for Saturday, May 18, at the 25th Annual Taste of the Marianas International Food Festival in Saipan. 
+
+<https://www.mvariety.com/lifestyle/marianas-chef-competition-highlights-rib-eye-on-may-18/article_fd88df80-1360-11ef-a960-c3605451c73e.html>
+
+---
+
+## Jeju Air to provide additional flights to Saipan
+
+date: 2024-05-16, updated: 2024-05-16, from: Marianas Variety
+
+JEJU Air on Wednesday informed the Commonwealth Ports Authority that it will provide additional flights from South Korea to Saipan beginning next month. 
+
+<https://www.mvariety.com/news/local/jeju-air-to-provide-additional-flights-to-saipan/article_92af9e7a-1355-11ef-af34-178fe3f25866.html>
+
+---
+
+## Saints outlast Ol’Aces, 71-63
+
+date: 2024-05-16, updated: 2024-05-16, from: Marianas Variety
+
+THE Saints remain one of the top contenders in the Michelob Ultra Cup 2024 after clinching their sixth win by defeating the Ol’Aces (Martech), 71-63, at the Gilbert C. Ada Gymnasium on Tuesday. 
+
+<https://www.mvariety.com/sports/localsports/saints-outlast-ol-aces-71-63/article_bb317858-1393-11ef-a85d-d3afb683d77b.html>
+
+---
+
+## NMI fastpitch softball team to see action in 2024 Micro Games
+
+date: 2024-05-16, updated: 2024-05-16, from: Marianas Variety
+
+AFTER almost a 20-year hiatus, fastpitch softball is finally being revived in the NMI. A local team will be competing in the sport during the 2024 Micronesian Games, which will be held in Majuro, the Marshall Islands on June 15-24. 
+
+<https://www.mvariety.com/sports/localsports/nmi-fastpitch-softball-team-to-see-action-in-2024-micro-games/article_da28cabc-1394-11ef-af1e-ff560748227c.html>
+
+---
+
+## MPU clinches U12 boys title in overtime shootout
+
+date: 2024-05-16, updated: 2024-05-16, from: Marianas Variety
+
+MP United Football Club won the U12 boys division championship of the TakeCare Youth Soccer League Spring 2024 by edging Kanoa Football Club 1 in a nail-biting overtime shootout, (3)1-1(2), at the NMI Soccer Training Center in Koblerville on Saturday. 
+
+<https://www.mvariety.com/sports/localsports/mpu-clinches-u12-boys-title-in-overtime-shootout/article_60ad694a-1394-11ef-9e39-83d0093b69f0.html>
+
+---
+
+## Micronesian Brokers Inc. pledges $5K to Joeten Memorial Golf Classic
+
+date: 2024-05-16, updated: 2024-05-16, from: Marianas Variety
+
+Joeten Daidai Foundation is excited to welcome Micronesian Brokers Inc. as a Trustees Club silver sponsor for the upcoming Joeten Memorial Golf Classic. Dennis Yoshimoto, MBI CNMI general manager, presents the JMGC committee with a $5,000 donation. The golf tournament is set to take place on July 6, 2024 at LaoLao Bay Golf Resort. 
+
+<https://www.mvariety.com/sports/localsports/micronesian-brokers-inc-pledges-5k-to-joeten-memorial-golf-classic/article_01c54ef6-134a-11ef-a7ed-633594387c47.html>
+
+---
+
+## Green flags on Saipan, Tinian
+
+date: 2024-05-16, updated: 2024-05-16, from: Marianas Variety
+
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan's east and south recreational beaches, and Tinian’s recreational beaches and storm water drainages this week as part of the regularly scheduled sampling. None of the samples collected contained excessive concentration of fecal indicator bacteria nor did they exceed CNMI marine water quality standards. Therefore, BECQ assigns the following sampled beach sites a green flag. Enjoy our waters! 
+
+<https://www.mvariety.com/news/community_bulletins/green-flags-on-saipan-tinian/article_ac422ce8-134d-11ef-a8a5-476704d0d960.html>
+
+---
+
+## Saipan students named to SNHU President's List
+
+date: 2024-05-16, updated: 2024-05-16, from: Marianas Variety
+
+MANCHESTER, New Hampshire (SNHU) —  It is with great pleasure that Southern New Hampshire University  congratulates the following Saipan students on being named to the Winter 2024 President's List: 
+
+<https://www.mvariety.com/news/community_bulletins/saipan-students-named-to-snhu-presidents-list/article_983f7292-1360-11ef-a510-af9412d57ecc.html>
+
+---
+
+## Scheduled power service interruptions for May 21, 22, 24
+
+date: 2024-05-16, updated: 2024-05-16, from: Marianas Variety
+
+(Commonwealth Utilities Corporation) — There will be scheduled power service interruptions on May 21, 22 and 24. 
+
+<https://www.mvariety.com/news/local/scheduled-power-service-interruptions-for-may-21-22-24/article_12c9575e-133d-11ef-b7f8-4f7ba511cf0c.html>
+
+---
+
+## Akku first to US Merchant Marine Academy
+
+date: 2024-05-16, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Meet Aguster “Akku” Kabua: the first Marshallese to enroll in the prestigious US Merchant Marine Academy. The maritime trailblazer is the daughter of John Anjojo Kabua and Pamela Duffy and stepdaughter of Mike Sakaio. The 18-year-old was recognized among five others in her graduating class for their acceptance of similar federal scholarships during [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/akku-first-to-us-merchant-marine-academy/">Akku first to US Merchant Marine Academy</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/akku-first-to-us-merchant-marine-academy/>
+
+---
+
+## Pair accused of stealing car that picked them up hitchhiking
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>The cases of hitchhikers who allegedly stole a car while the driver was inside Pahoa 7-Eleven store buying food are now in Hilo Circuit Court.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/hawaii-news/pair-accused-of-stealing-car-that-picked-them-up-hitchhiking/>
+
+---
+
+## Biden and Trump agree to two debates in June and September
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>President Joe Biden and Donald Trump have agreed to two debates, one on June 27 on CNN and one on Sept. 10 on ABC News, the first onstage clashes between the former president and his successor in more than three years.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/nation-world-news/biden-and-trump-agree-to-two-debates-in-june-and-september/>
+
+---
+
+## US consumer inflation resumes downward trend as domestic demand cools
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. consumer prices increased less than expected in April, suggesting that inflation resumed its downward trend at the start of the second quarter in a boost to financial market expectations for a September interest rate cut.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/nation-world-news/us-consumer-inflation-resumes-downward-trend-as-domestic-demand-cools/>
+
+---
+
+## Standoff suspect granted mental exam, freed by judge
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>A Kona judge has freed a 32-year-old Ocean View man accused of breaking and entering a home and then engaging police in a lengthy armed standoff on Sunday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/hawaii-news/standoff-suspect-granted-mental-exam-freed-by-judge/>
+
+---
+
+## Council bill authorizes County to limit bike tours from select public roads
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>What began as an effort to reduce bike traffic on specific West Hawaii roads has become a proposed series of regulations upon bike tour operators throughout the Big Island.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/hawaii-news/council-bill-authorizes-county-to-limit-bike-tours-from-select-public-roads/>
+
+---
+
+## BIIF teams fizzle out at state tournament
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8212; It was a rough day for Big Island Interscholatic Federation (BIIF) teams, as five of them suffered losses in the Hawaii High School Athletic Association (HHSAA) state championship on Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/sports/biif-teams-fizzle-out-at-state-tournament/>
+
+---
+
+## Hilo man charged with assault, domestic abuse
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>Police arrested and charged an 18-year-old Hilo man for assault and domestic abuse-related offenses following a Sunday morning incident on Holomua Street in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/hawaii-news/hilo-man-charged-with-assault-domestic-abuse/>
+
+---
+
+## Gaza fighting intensifies, Israel asks why armed men were at UN site
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/JERUSALEM &#8212;Israeli troops battled militants across Gaza on Wednesday, including in the southern city of Rafah that had been a refuge for civilians, in an upsurge of the more than seven-month-old war that has killed tens of thousands of Palestinians.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/nation-world-news/gaza-fighting-intensifies-israel-asks-why-armed-men-were-at-un-site/>
+
+---
+
+## US delegation to attend Taiwan inauguration as China tensions flare
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden will dispatch former U.S. officials to Taiwan as its new president takes office, a show of support for the island calibrated to avoid enraging Beijing.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/nation-world-news/us-delegation-to-attend-taiwan-inauguration-as-china-tensions-flare/>
+
+---
+
+## Shut out 19 innings, Tigers are learning how ugly the realities of a young lineup can get
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>DETROIT &#8212; Detroit Tigers starter Casey Mize had a terrific performance Wednesday at Comerica Park. He incorporated a sinker to right-handed batters and dispatched hitters with his splitter and his curveball. He retired 18 of the final 19 hitters he faced. He did not allow a hit after the second batter of the game. That second batter, however, was Bryan De La Cruz, who destroyed a hanging slider for a two-run home run. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/sports/shut-out-19-innings-tigers-are-learning-how-ugly-the-realities-of-a-young-lineup-can-get/>
+
+---
+
+## Luka Doncic, Mavs beat Thunder, now one win from taking series
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>Luka Doncic finished with 31 points and delivered his second consecutive triple-double as the Dallas Mavericks moved one victory from their second Western Conference final in three seasons with a 104-92 victory Wednesday over the host Oklahoma City Thunder in Game 5 of their second-round series.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/sports/luka-doncic-mavs-beat-thunder-now-one-win-from-taking-series/>
+
+---
+
+## Opening statements in bribery trial of Bob Menendez begin
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Opening statements began Wednesday afternoon in the federal corruption trial of Sen. Bob Menendez, D-N.J., who is accused of selling out his public office and his country in pursuit of lucrative bribes.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/nation-world-news/opening-statements-in-bribery-trial-of-bob-menendez-begin/>
+
+---
+
+## Slovak PM Fico no longer in life-threatening condition after being shot, minister says
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>Slovak Prime Minister Robert Fico is no longer in a life-threatening condition after he was shot in an assassination attempt when leaving a government meeting on Wednesday, a government minister said.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/nation-world-news/slovak-pm-fico-no-longer-in-life-threatening-condition-after-being-shot-minister-says/>
+
+---
+
+## US questions China’s no-first-use nuclear call given buildup
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (Reuters) - China has not responded to U.S. nuclear-weapons risk-reduction proposals and Washington has questions about Beijing&#8217;s call for no-first-use talks while China continues to build up its arsenal, the top U.S. arms control official said on Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/nation-world-news/us-questions-chinas-no-first-use-nuclear-call-given-buildup/>
+
+---
+
+## Putin to visit China’s Xi to deepen strategic partnership
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>MOSCOW &#8212; Russian President Vladimir Putin will visit China on Thursday for talks with Xi Jinping that the Kremlin hopes will deepen a strategic partnership between the two most powerful geopolitical rivals of the United States.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/nation-world-news/putin-to-visit-chinas-xi-to-deepen-strategic-partnership/>
+
+---
+
+## Sage, a miniature poodle, pulls off best in show upset at Westminster
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Sage, an extravagantly coifed miniature poodle with a certain winsome mystery about her, won the 148th annual Westminster Kennel Club Dog Show on Tuesday night, prevailing over a tough field of competitors including a majestic German shepherd, a silken Afghan hound and a proud giant schnauzer.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/nation-world-news/sage-a-miniature-poodle-pulls-off-best-in-show-upset-at-westminster/>
+
+---
+
+## Celtics puts Cavs to bed, advance to Eastern Conference finals
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>Al Horford had 22 points and 15 rebounds as the host Boston Celtics advanced to the Eastern Conference finals by handing the short-handed Cleveland Cavaliers a 113-98 loss in Game 5 of a semifinal series on Wednesday night.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/sports/celtics-puts-cavs-to-bed-advance-to-eastern-conference-finals/>
+
+---
+
+## Joe Buck to return to MLB booth, set to call Cardinals, Cubs game with Chip Caray on May 24
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>Former longtime MLB play-by-play announcer Joe Buck will join St. Louis Cardinals broadcaster Chip Caray in calling the Cardinals game Friday, May 24 against the Chicago Cubs, industry sources tell <em>The Athletic</em>. The game will be broadcasted on the Cardinals regional sports network affiliate, Bally Sports Midwest. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/sports/joe-buck-to-return-to-mlb-booth-set-to-call-cardinals-cubs-game-with-chip-caray-on-may-24/>
+
+---
+
+## US charges two brothers with novel $25 million cryptocurrency heist
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON (Reuters) - Two brothers who studied at the Massachusetts Institute of Technology were arrested on Wednesday on U.S. charges that they carried out a cutting-edge scheme to exploit the Ethereum blockchain&#8217;s integrity and steal $25 million worth of cryptocurrency.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/nation-world-news/us-charges-two-brothers-with-novel-25-million-cryptocurrency-heist/>
+
+---
+
+## MLB suspends Astros pitcher Ronel Blanco for 10 games after sticky substance found during last start
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>Major League Baseball suspended Astros pitcher Ronel Blanco for 10 games Wednesday, one day after umpires discovered a sticky substance on his glove during a start against the Oakland A&#8217;s. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/sports/mlb-suspends-astros-pitcher-ronel-blanco-for-10-games-after-sticky-substance-found-during-last-start/>
+
+---
+
+## Netflix and the NFL Sign a Three-Season Deal
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Netflix is no longer simply in the &#8220;sports-adjacent&#8221; business. On Wednesday, the streaming giant announced a three-season deal with the National Football League that will include showing two Christmas Day games on its service this year. It&#8217;s the first time Netflix has become partners with a major sports league, and it likely won&#8217;t be the last. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/sports/netflix-and-the-nfl-sign-a-three-season-deal/>
+
+---
+
+## Sports leagues question whether broadcaster Diamond can survive without Comcast
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Major League Baseball, the National Hockey League and the National Basketball Association said on Wednesday that bankrupt broadcaster Diamond Sports may not survive without a new deal with cable distributor Comcast. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/sports/sports-leagues-question-whether-broadcaster-diamond-can-survive-without-comcast/>
+
+---
+
+## Is disinflation back on track?
+
+date: 2024-05-16, from: Hawaii Tribune Harold
+
+
+				<p>The latest news on inflation has been pretty good. It has also been extremely weird. And that weirdness is, in a way, the message.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/16/opinion/is-disinflation-back-on-track/>
+
+---
+
+## Juren Ae officially named
+
+date: 2024-05-16, from: Marshal Islands Journal
+
+<p>A naming ceremony for the Marshall Islands cargo sailing ship, SV Juren Ae, was held last week at the ASIA Shipbuilding Company on Geoje Island in South Korea. The Marshallese phrase Juren Ae refers to one of the main paddles of a traditional outrigger canoe. According to a release from GIZ, the German international development [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/juren-ae-officially-named/">Juren Ae officially named</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/juren-ae-officially-named/>
+
+---
+
+## Guam flooded with $338 million in federal aid after Mawar
+
+date: 2024-05-16, from: Pacific Island Times
+
+By Pacific Island Times News Staff More than $338 million in federal assistance streamed into Guam one year after Typhoon Mawar barreled... 
+
+<https://www.pacificislandtimes.com/post/guam-flooded-with-338-million-in-federal-aid-after-mawar>
+
+---
+
+## 2M acres of land in Hawaii tagged for millions of dollars in federal conservation efforts
+
+date: 2024-05-16, from: Pacific Island Times
+
+By Pacific Island Times News Staff Washington, D.C. –Two million acres of land throughout Hawaii are eligible for millions in... 
+
+<https://www.pacificislandtimes.com/post/2m-acres-of-land-in-hawaii-tagged-for-millions-of-dollars-in-federal-conservation-efforts>
+
+---
+
+## Former FSM diplomat: ‘US must do more to deepen relationship with FAS’
+
+date: 2024-05-16, from: Pacific Island Times
+
+By Jayvee Vallejera Despite nearly 40 years of ties between the United States and the freely associated states, hospitals, roads and... 
+
+<https://www.pacificislandtimes.com/post/former-fsm-diplomat-us-must-do-more-to-deepen-relationship-with-fas>
+
+---
+
+## 3 Vulcan tennis players land on academic all-district team
+
+date: 2024-05-16, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span>  Luca Matheiowetz, Julia Barden and Lamar Bartley recognized for their combined performances on the court and in the classroom.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/15/vulcan-tennis-players-academic-all-district-team/">3 Vulcan tennis players land on academic all-district team</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/15/vulcan-tennis-players-academic-all-district-team/>
+
+---
+
+## Bercan makes NCAA regional top 10 to end men’s golf season
+
+date: 2024-05-16, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Bercan shot a four-under 67 in the final round for a -2 overall score.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/15/bercan-makes-ncaa-regional-top-10/">Bercan makes <abbr>NCAA</abbr> regional top 10 to end men’s golf season</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/15/bercan-makes-ncaa-regional-top-10/>
+
+---
+
+## Ka’u schools engage Marshallese
+
+date: 2024-05-16, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON The Marshallese presence in the two Ka’u area schools on the Big Island of Hawaii has risen to 20 percent, largely on the growth of the Enewetak community that lives in Ocean View on the south side of Hawaii Island. But as the Marshallese student population grew in the two Ka’u schools — [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/kau-schools-engage-marshallese/">Ka’u schools engage Marshallese</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/kau-schools-engage-marshallese/>
+
+---
+
+## How can understanding misfolded proteins help improve disease treatments?
+
+date: 2024-05-15, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Protein folding is a protein's way of twisting and bending into the right shape so it can do its job correctly in the body.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/15/protein-folding-new-book/">How can understanding misfolded proteins help improve disease treatments?</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/15/protein-folding-new-book/>
+
+---
+
+## Physician-pharmacist collaboration for HPV vaccination focus of alumna’s research
+
+date: 2024-05-15, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Meliza Roman published a paper in the April issue of <em><span aria-label="Hawaii">Hawai&#699;i</span> Journal of Health &#38; Social Welfare</em>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/15/hpv-vaccination-alumni-research/">Physician-pharmacist collaboration for <abbr>HPV</abbr> vaccination focus of alumna’s research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/15/hpv-vaccination-alumni-research/>
+
+---
+
+## Tax breaks proposed for Guam hospital construction; bill sets December 2025 deadline for project commencement
+
+date: 2024-05-15, from: Pacific Island Times
+
+By Pacific Island Times News Staff In a bid to break the impasse over the location of Guam’s new hospital, Sen. Jesses Lujan has... 
+
+<https://www.pacificislandtimes.com/post/tax-breaks-proposed-for-guam-hospital-construction-bill-sets-december-2025-deadline-for-project-com>
+
+---
+
+## Iakwe to Aloha Airlines
+
+date: 2024-05-15, from: Marshal Islands Journal
+
+<p>Journal 5/15/1987 P5 MCAA gradsMarie Maddison congratulated sewing and restaurant trainees who completed the Marshalls Community Action Agency-sponsored programs last week. The sewing group: Bina Enos, Dasey Konou, Alice Biranij, Ajlok Rang, Atmina Jekken, Waire Ajen, Joni Anni, Cathy Mejen, Sentina Jack, Josephin Clanton, Nejuon Morikawa and Martha Ertin. The restaurant trainee grads: Monulej Bobo, [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/iakwe-to-aloha-airlines/">Iakwe to Aloha Airlines</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/iakwe-to-aloha-airlines/>
 
 ---
 
@@ -410,6 +918,18 @@ date: 2024-05-15, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/05/15/sports/yagi-basketball-camp-registration-open/>
+
+---
+
+## County puts up $200K to mitigate invasive insect
+
+date: 2024-05-15, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County will invest in additional biosecurity measures at a West Hawaii waste facility to prevent the spread of a devastating invasive beetle.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/15/hawaii-news/county-puts-up-200k-to-mitigate-invasive-insect/>
 
 ---
 

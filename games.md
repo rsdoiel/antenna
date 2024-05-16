@@ -1,11 +1,111 @@
 ---
 title: games 2024.20
-updated: 2024-05-15 13:07:21
+updated: 2024-05-16 10:36:13
 ---
 
 # games 2024.20
 
-(date: 2024-05-15 13:07:21)
+(date: 2024-05-16 10:36:13)
+
+---
+
+## My favorite anime: Joaquim Dos Santos’ journey from Macross to Sword of the Stranger
+
+date: 2024-05-16, updated: 2024-05-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/anime/24157255/my-favorite-anime-joaquim-dos-santos-macross-sword-of-the-stranger>
+
+---
+
+## GTA Online update for the week of May 16
+
+date: 2024-05-16, updated: 2024-05-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gta-online-guides/2024/5/16/24158194/may-16-weekly-update-events-salvage-yard-hangar>
+
+---
+
+## We wrote a huge book about Lord of the Rings!
+
+date: 2024-05-16, updated: 2024-05-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24156672/polygon-book-year-of-the-ring-pre-order>
+
+---
+
+## Final Fantasy 7 Rebirth set the fandom back 20 years
+
+date: 2024-05-16, updated: 2024-05-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24156687/final-fantasy-7-rebirth-cloti-clerith-tifa-aerith-ship>
+
+---
+
+## Your Apple TV may have become one of the best retro gaming devices out there overnight
+
+date: 2024-05-16, updated: 2024-05-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24158137/apple-tv-video-game-emulators-retroarch>
+
+---
+
+## EA’s college football video game returns in July after an 11-year hiatus
+
+date: 2024-05-16, updated: 2024-05-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24157717/college-football-25-release-date-ps5-xbox-series-x-ea-sports>
+
+---
+
+## Alan Wake 2, Prince of Persia: The Lost Crown get discounts in Epic Mega Sale 2024
+
+date: 2024-05-16, updated: 2024-05-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24158150/epic-games-store-mega-sale-sale-alan-wake-2-prince-of-persia>
+
+---
+
+## Not sure what game to play? Leave a comment, we’ll help
+
+date: 2024-05-16, updated: 2024-05-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gaming/2024/5/16/24156963/best-game-play-tonight-recommendations-pc>
+
+---
+
+## Los Angeles Chargers win the NFL release schedule meme wars with a maniacal Sims video
+
+date: 2024-05-16, updated: 2024-05-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24158120/los-angeles-chargers-the-sims-schedule-release-meme>
+
+---
+
+## Did you hear what Bridgerton season 3 is up to? Scandalous!
+
+date: 2024-05-16, updated: 2024-05-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24156775/bridgerton-season-3-part-1-review-netflix-polin-3a>
 
 ---
 

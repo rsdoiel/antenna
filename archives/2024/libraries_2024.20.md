@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.20
-updated: 2024-05-15 13:07:21
+updated: 2024-05-16 10:36:14
 ---
 
 # libraries 2024.20
 
-(date: 2024-05-15 13:07:21)
+(date: 2024-05-16 10:36:14)
+
+---
+
+## Guest Post – Reconnecting by Reading: A Selection of Books About Diversity, Equity, Inclusion and Accessibility Part 2
+
+date: 2024-05-16, from: Scholarly Kitchen
+
+<p>We learn from each other and about each other through reading. Today part 2 of 2 where we have asked members of the SSP community to recommend books about diversity, equity, inclusion, and accessibility matters.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/05/16/guest-post-reconnecting-by-reading-a-selection-of-books-about-diversity-equity-inclusion-and-accessibility-part-2/">Guest Post – Reconnecting by Reading: A Selection of Books About Diversity, Equity, Inclusion and Accessibility Part 2</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/05/16/guest-post-reconnecting-by-reading-a-selection-of-books-about-diversity-equity-inclusion-and-accessibility-part-2/>
 
 ---
 
