@@ -1,11 +1,21 @@
 ---
 title: mid central 2024.20
-updated: 2024-05-17 08:45:18
+updated: 2024-05-17 10:40:40
 ---
 
 # mid central 2024.20
 
-(date: 2024-05-17 08:45:18)
+(date: 2024-05-17 10:40:40)
+
+---
+
+## Fresno State announces 2024 president’s and dean’s medalists
+
+date: 2024-05-17, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Eighteen students have been announced as Fresno State’s dean&#8217;s medalists. Nine graduate students and nine undergraduate students are taking home the distinction. Two students are taking home the highest academic honor as president’s medalists. Each year the dean’s medalists are announced in May, one from each of the eight colleges and one from the Division... 
+
+<https://fscollegian.com/2024/05/fresno-state-announces-2024-presidents-and-deans-medalists/>
 
 ---
 

@@ -1,11 +1,41 @@
 ---
 title: motorcycles 2024.20
-updated: 2024-05-17 08:45:19
+updated: 2024-05-17 10:40:41
 ---
 
 # motorcycles 2024.20
 
-(date: 2024-05-17 08:45:19)
+(date: 2024-05-17 10:40:41)
+
+---
+
+## GWM Souo Flat-eight Tourer Revealed
+
+date: 2024-05-17, from: Cycle World News
+
+Recently we discovered the Souo motorcycle brand and its intention to build a larger-displacement rival to the Gold Wing. Now it’s been unveiled in China. 
+
+<https://www.cycleworld.com/motorcycle-news/gwm-souo-flat-eight-tourer-revealed/>
+
+---
+
+## Google's 'Gemini' AI Tells Motorcyclists Not to Wear Safety Gear
+
+date: 2024-05-17, from: Ride Apart, Electric Motorcycle News
+
+Even AI is susceptible to being a squid.  
+
+<https://www.rideapart.com/news/720080/google-gemini-ai-motorcycle-safety-gear/>
+
+---
+
+## CFMOTO’s MT-X Could Hit North American Shores This Year
+
+date: 2024-05-17, from: Ride Apart, Electric Motorcycle News
+
+An affordable middleweight adventure bike based on one of the best in the business. Now, who would want that? 
+
+<https://www.rideapart.com/news/719939/cfmoto-mtx-fall-launch/>
 
 ---
 

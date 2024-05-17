@@ -1,11 +1,152 @@
 ---
 title: socal north 2024.20
-updated: 2024-05-17 08:45:18
+updated: 2024-05-17 10:40:40
 ---
 
 # socal north 2024.20
 
-(date: 2024-05-17 08:45:18)
+(date: 2024-05-17 10:40:40)
+
+---
+
+## Cristiano Ronaldo reconoció las dificultades de competir a su edad
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+CR7 tiene 39 años, pero aún es un futbolista sobresaliente en su club. Cristiano Ronaldo habló sobre los obstáculos que debe superar para seguir manteniéndose en forma con el Al-Nassr 
+
+<https://laopinion.com/2024/05/17/cristiano-ronaldo-reconocio-las-dificultades-de-competir-a-su-edad/>
+
+---
+
+## Descubre a qué tipo de personas atrae el aura de tu signo del zodiaco
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+¿Conoces cuál es el aura que proyecta cada signo del zodiaco? Tu personalidad astral es atractiva para cierto tipo de personas; saberlo puede ayudarte a tener más éxito en las relaciones 
+
+<https://laopinion.com/2024/05/17/descubre-a-que-tipo-de-personas-atrae-el-aura-de-tu-signo-del-zodiaco/>
+
+---
+
+## Acusan a 3 hermanas de Alabama por contratar a una mujer para matar a uno de sus yernos
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Una mujer de Alabama acudió al FBI luego de que tres hermanas le propusieran matar al yerno de una de ellas, para lo cual ya tenían planes de cómo ejecutar el crimen 
+
+<https://laopinion.com/2024/05/17/acusan-a-3-hermanas-de-alabama-por-contratar-a-una-mujer-para-matar-a-uno-de-sus-yernos/>
+
+---
+
+## Olvera Street’s Beloved Stuffed Donkey Is Facing Eviction
+
+date: 2024-05-17, updated: 2024-05-17, from: The LAist
+
+A death in the owner’s family has caused a problem with the contract. But the prospect of the street without La Carreta is causing public concern, prompting the L.A. City Council to step in. 
+
+<https://laist.com/news/la-history/olvera-street-eviction-donkey-carreta-stand-richard-hernandez>
+
+---
+
+## Servilleta que sirvió como primer contrato de Lionel Messi fue subastada en $965,000 dólares
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+De acuerdo con la casa de subasta británica Bonhams, este viernes se concretó la venta de la servilleta donde se firmó el preacuerdo entre el padre de Lionel Messi y el FC Barcelona hace más de 25 años 
+
+<https://laopinion.com/2024/05/17/servilleta-que-sirvio-como-primer-contrato-de-lionel-messi-fue-subastada-en-965000-dolares/>
+
+---
+
+## Alertan a la NASA sobre un potencial accidente catastrófico en sus próximos lanzamientos espaciales
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Un contratista de la NASA alertó de un fallo que podría poner en peligro una de las próximas misiones espaciales
+ 
+
+<https://laopinion.com/2024/05/17/alertan-a-la-nasa-sobre-un-potencial-accidente-catastrofico-en-sus-proximos-lanzamientos-espaciales/>
+
+---
+
+## Matan a candidata a alcaldía en Chiapas y a 5 personas más durante un acto de campaña
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Lucero López Maza, candidata a la presidencia municipal de La Concordia, Chiapas, murió durante un ataque armado entre civiles, en el que otras 5 personas perdieron la vida 
+
+<https://laopinion.com/2024/05/17/matan-a-candidata-a-alcaldia-en-chiapas-y-a-5-personas-mas-durante-un-acto-de-campana/>
+
+---
+
+## Peso Pluma conquista el escenario de Jimmy Fallon por segunda ocasión, ahora con “La Durango” junto a Eslabón Armado
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+El cantante de corridos Peso Pluma volvió al programa conducido por Jimmy Fallon no solo para presentar su nuevo sencillo "La Durango", también para hablar sobre el éxito rotundo que ha obtenido a nivel mundial 
+
+<https://laopinion.com/2024/05/17/peso-pluma-conquista-el-escenario-de-jimmy-fallon-por-segunda-ocasion-ahora-con-la-durango-junto-a-eslabon-armado/>
+
+---
+
+## Hombre de Pensilvania es acusado por amenazar de muerte a Joe Biden a través de videos en línea
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Jordan Gee, ciudadano de originario de Nanticoke, Pensilvania, está acusado de tres delitos graves por haber publicado en línea algunos videos donde amenaza de muerte al presidente Joe Biden 
+
+<https://laopinion.com/2024/05/17/hombre-de-pensilvania-es-acusado-por-amenazar-de-muerte-a-joe-biden-a-traves-de-videos-en-linea/>
+
+---
+
+## Jurgen Klopp revela cuál el mejor partido de su carrera como entrenador de Liverpool
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Jurgen Klopp contó su mejor noche en Champions League y cuál fue el gol que más celebró durante su carrera como entrenador del Liverpool  
+
+<https://laopinion.com/2024/05/17/jurgen-klopp-revela-cual-el-mejor-partido-de-su-carrera-como-entrenador-de-liverpool/>
+
+---
+
+## “Pondré a dormir a Mike Tyson”: la amenaza de Jake Paul antes de la pelea con el exboxeador estadounidense
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+El youtuber Jake Paul advirtió que derrotará contundentemente a Mike Tyson, expeleador de 57 años. "Iron Mike" y el influencer se enfrentarán el 20 de julio en el AT&#38;T Stadium de Arlington, Texas 
+
+<https://laopinion.com/2024/05/17/pondre-a-dormir-a-mike-tyson-la-amenaza-de-jake-paul-antes-de-la-pelea-con-el-exboxeador-estadounidense/>
+
+---
+
+## Así era la casa de Verónica Toussaint, actriz mexicana que murió a causa de cáncer
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Te llevamos a conocer la casa donde vivió la actriz Verónica Toussaint hasta el lamentable día de su muerte 
+
+<https://laopinion.com/2024/05/17/asi-era-la-casa-de-veronica-toussaint-actriz-mexicana-que-murio-a-causa-de-cancer/>
+
+---
+
+## El fabricante de Ozempic estudiará los efectos de ese medicamento sobre el consumo de alcohol
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Novo Nordisk planea estudiar los efectos de la semaglutida en relación con el consumo de alcohol, centrándose en enfermedades hepáticas, aunque no es el objetivo principal del estudio 
+
+<https://laopinion.com/2024/05/17/el-fabricante-de-ozempic-estudiara-los-efectos-de-ese-medicamento-sobre-el-consumo-de-alcohol/>
+
+---
+
+## Una mujer de Colorado apuñaló a su novio y le cortó el pene, le dio ibuprofeno y lo dejó morir
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Tras discutir con su novio por la paternidad del bebé que espera, Shenting Guo lo apuñaló en la pierna y le cortó el pene, lo que provocó su muerte 
+
+<https://laopinion.com/2024/05/17/una-mujer-de-colorado-apunalo-a-su-novio-y-le-corto-el-pene-le-dio-ibuprofeno-y-lo-dejo-morir/>
 
 ---
 

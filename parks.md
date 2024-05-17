@@ -1,11 +1,11 @@
 ---
 title: parks 2024.20
-updated: 2024-05-17 08:45:19
+updated: 2024-05-17 10:40:40
 ---
 
 # parks 2024.20
 
-(date: 2024-05-17 08:45:19)
+(date: 2024-05-17 10:40:40)
 
 ---
 
@@ -13,7 +13,7 @@ updated: 2024-05-17 08:45:19
 
 date: 2024-05-16, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/biden-harris-administration-finalizes-strategy-guide-balanced-management-conservation" hreflang="en">Biden-Harris Administration finalizes strategy to guide balanced management, conservation of public lands</a></h2></div>
+<div class="field contact-block -title"><h1>The beginning of BLM: How 486 words created the nation’s largest land manager</h1></div>
       
 
 
@@ -21,30 +21,10 @@ date: 2024-05-16, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Publication Date:</strong> </div>
-              <div><time datetime="2024-04-18T12:00:00Z">Thu, 04/18/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/yssRQ8Z0nu8?si=bfjOBNEDwtaqQDwF" title="Public Lands Rule"></iframe></div>
-
-<p>&nbsp;</p>
-
-<p><strong>WASHINGTON – </strong>The Department of the Interior today announced a final rule to help guide the balanced management of America’s public lands. The <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="876a3ccf-e418-402c-80b0-a400b77c8e92" href="https://www.blm.gov/public-lands-rule" rel="noreferrer noopener" target="_blank">final Public Lands Rule</a> provides tools for the Bureau of Land Management (BLM) to help improve the health and resilience of public lands in the face of a changing climate; conserve important wildlife habitat and intact landscapes; facilitate responsible development; and better recognize unique cultural and natural resources on public lands.&nbsp;</p>
-
-<p>The Public Lands Rule builds on historic investments in public lands, waters and clean energy deployment provided by <a href="https://www.doi.gov/investing-america" rel="noreferrer noopener" target="_blank">President Biden’s Investing in America agenda</a>, which recognizes the critical value of our public lands to all Americans. It also complements the President’s <em><a href="https://www.doi.gov/priorities/america-the-beautiful" rel="noreferrer noopener" target="_blank">America the Beautiful</a></em> initiative, a 10-year, locally led and nationally scaled effort to protect, conserve, connect and restore the lands, waters and wildlife upon which we all depend.&nbsp;</p>
-
-<p>Building on decades of land management experience and emphasizing the use of science and data, including Indigenous Knowledge, to guide balanced decision-making, the rule applies the existing fundamentals of land health across BLM programs, establishes restoration and mitigation leases, and clarifies practices to designate and protect Areas of Critical Environmental Concern (ACECs). The rule will help to ensure the BLM continues to protect land health while managing other uses of the public lands, such as clean energy development and outdoor recreation.&nbsp;&nbsp;</p>
+            <div class="field contact-block -body"><p>Today is an important one in the history of the Bureau of Land Management (BLM). On May 16, 1946—78 years ago—the agency was conceived on paper, when President Harry S. Truman submitted to Congress “Reorganization Plan 3.” The plan included the proposal to merge the General Land Office and the U.S. Grazing Service to create one agency. Fast forward 78 years and our day-to-day activities are quite busy addressing proposals to construct renewable energy projects, improving recreation sites, responding to wildfires, and conducting all of the other work required to care for 245 million surface acres. That’s about one in every ten acres of the United States, not to mention the 30 percent of the Nation’s minerals we manage on behalf of the American people.</p>
 
 <figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="77b0b3f1-9f20-446b-a9c1-308a0a194612" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="49dfa03b-88ac-4b47-b98f-fc3e58ab60d0" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -53,7 +33,7 @@ date: 2024-05-16, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-05/Cosumnes_large.jpg?itok=c5z08u7f" width="640" height="282" alt="Duck fly over a wetland" typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_01.png?itok=b8K4KaJ-" width="426" height="530" alt="Image shows a round logo with five men holding tools depicting various functions of the BLM, including mining and livestock grazing management and cadastral survey. " typeof="foaf:Image">
 
 
 </div>
@@ -61,76 +41,99 @@ date: 2024-05-16, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>The Cosumnes River Preserve is home to California’s largest remaining valley oak riparian forest, and is one of the few protected wetland habitat areas in the state.. Photo by John Ciccarelli, BLM.</figcaption>
+<figcaption>The new BLM logo unveiled in 1946</figcaption>
 </figure>
 
 
-<p>“As stewards of America’s public lands, the Interior Department takes seriously our role in helping bolster landscape resilience in the face of worsening climate impacts. Today’s final rule helps restore balance to our public lands as we continue using the best-available science to restore habitats, guide strategic and responsible development, and sustain our public lands for generations to come,” <strong>said Secretary Deb Haaland</strong>. “Complemented with historic investments from President Biden’s Investing in America agenda, we are implementing enduring changes that will benefit wildlife, communities and habitats.”&nbsp;&nbsp;</p>
+<p>When President Truman issued this simple reorganization plan, it consisted of only 486 words regarding the proposed merger. That merger took effect three months later—on July 16, 1946—and set in motion the process to create an agency that today manages more public land than any other federal government agency in the U.S. This action dissolved the General Land Office, which got its start more than 130 years earlier, in 1812. It also dissolved the U.S. Grazing Service, which had existed for just 12 years, since 1934.</p>
 
-<p>“America’s public lands are our national treasures and need to be managed and made resilient for future generations of Americans,” said <strong>John Podesta, Senior Advisor to the President for International Climate Policy</strong>. “Today’s final rule from the Department of the Interior is a huge win for ensuring balance on our public lands, helping them withstand the challenges of climate change and environmental threats like invasive species, and making sure they continue to provide services to the American people for decades to come.”&nbsp;</p>
+<p>Here is what President Truman said in his <a href="https://www.trumanlibrary.gov/library/public-papers/118/special-message-congress-transmitting-reorganization-plan-3-1946">“Special Message to the Congress Transmitting Reorganization Plan 3 of 1946,”</a> explaining the rationale for merging the two agencies:<br>
+<br>
+<em>The General Land Office and the Grazing Service now divide responsibility for major portion of the multiple-use Federally owned lands now held by the Department of the Interior. The lands under jurisdiction of the two agencies are comparable in character and in use. In some functions, the two agencies employ the same type of personnel and use the same techniques. Other functions are divided between the agencies so that both are engaged in management of various aspects of the same land. Consolidating these two agencies will permit the development of uniform policies and the integration of two organizations whose responsibilities now overlap. Integration of the activities of the two agencies will make possible greater utilization and thus more economic use of expert skills.</em></p>
 
-<p>“The Interior Department is ensuring our public lands are managed with an eye to future generations, complementing President Biden’s ambitious conservation agenda,” said <strong>White House Council on Environmental Quality Chair Brenda Mallory</strong>. “From the most rugged backcountry spots to popular close-to-home recreation areas, these reforms will help deliver cleaner water, healthier lands, abundant wildlife, and more recreation opportunities for all of us.”&nbsp;</p>
+<p>In other words, the primary purpose of merging the agencies to form the BLM was to increase efficiency. The same can be said for the reorganizations of several other federal Departments and agencies included in Reorganization Plan 3 of 1946.<strong>[1] &nbsp;</strong></p>
 
-<p>The final rule comes amid growing pressures and historic challenges facing land managers. The impacts of climate change—including prolonged drought, increasing wildfires, and an influx of invasive species—pose increasing risks to communities, wildlife and ecosystems. The Public Lands Rule will help the BLM navigate changing conditions on the ground, while helping public lands continue to serve as economic drivers across the West.&nbsp;</p>
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="9f6440fc-eb75-4b24-b046-f92afd6f58e5" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
-<p>“The BLM received and considered over 200,000 comments on the proposed rule from individuals, state, Tribal and local governments, industry groups and advocacy organizations, which led to important improvements in this final rule,” said<strong> Principal Deputy Assistant Secretary for Land and Minerals Management Dr. Steve Feldgus</strong>. “Continued broad collaboration with this diverse group of partners will be key to our implementation of this rule to ensure that our public lands are being managed for all Americans.”&nbsp;</p>
 
-<p>“Our public lands provide wildlife habitat and clean water, the energy that lights our homes, the wood we build with, and the places where we make family memories,” said <strong>BLM Director Tracy Stone-Manning</strong>. “This rule honors our obligation to current and future generations to help ensure our public lands and waters remain healthy amid growing pressures and change.”&nbsp;</p>
 
-<p>The final rule clarifies and refines concepts <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a3dbb21a-e603-4e08-ae95-812badce4d4c" href="https://www.blm.gov/press-release/interior-department-releases-proposed-plan-guide-balanced-management-public-lands" rel="noreferrer noopener" target="_blank">first proposed in April 2023</a>. The BLM provided a 90-day comment period on this rule, holding five public meetings and receiving over 200,000 comments, the vast majority of which supported the effort. In response to the substantive comments received, the BLM clarified and refined concepts laid out in the proposed rule.&nbsp;</p>
 
-<p>The final rule:&nbsp;</p>
+  
 
-<ul role="list">
-	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
-	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{92}" paraid="1845017194"><strong>Directs BLM to manage for landscape health.</strong> Successful public land management that delivers natural resources, wildlife habitat and clean water requires a thorough understanding of the health and condition of the landscape, especially as conditions shift on the ground due to climate change. To help sustain the health of our lands and waters, the rule directs the BLM to manage public land uses in accordance with the fundamentals of land health, which will help watersheds support soils, plants, and water; ecosystems provide healthy populations and communities of plants and animals; and wildlife habitats on public lands protect threatened and endangered species consistent with the multiple use and sustained yield framework.&nbsp;&nbsp;</p>
-	</li>
-	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
-	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{167}" paraid="948577800"><strong>Provides a mechanism for restoring and protecting our public lands through restoration and mitigation leases.</strong> Restoration leases provide greater clarity for the BLM to work with appropriate partners to restore degraded lands. Mitigation leases will provide a clear and consistent mechanism for developers to offset their impacts by investing in land health elsewhere on public lands, like they currently can on state and private lands. The final rule clarifies who can obtain a restoration or mitigation lease, limiting potential lessees to qualified individuals, businesses, non-governmental organizations, Tribal governments, conservation districts, or state fish and wildlife agencies. Restoration and mitigation leases will not be issued if they would conflict with existing authorized uses.&nbsp;</p>
-	</li>
-	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
-	<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{25}" paraid="2007072068"><strong>Clarifies the designation and management of ACECs. </strong>The final rule provides greater detail about how the BLM will continue to follow the direction in the Federal Land Policy and Management Act to prioritize the designation and protection of ACECs. Following public comments, the final rule clarifies how BLM consideration of new ACEC nominations and temporary management options does not interfere with the BLM’s discretion to continue advancing pending project applications.&nbsp;&nbsp;</p>
-	</li>
-</ul>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_enhancing%20efficiency_jpg.jpg?itok=vXsGdxbK" width="400" height="321" alt="Image shows sheep grazing on rangelands and standing in a road in Wyoming." typeof="foaf:Image">
 
-<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{88}" paraid="142264570">The Public Lands Rule complements the BLM’s recently announced <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy Rule</a>, providing consistent direction and new tools for mitigation, helping advance the efficient and environmentally responsible development of renewable energy on BLM-managed public lands, providing greater clarity and consistency in permitting, and allowing for the continued acceleration of project reviews and approvals, while managing public lands under the principles of multiple use and sustained yield.&nbsp;</p>
 
-<p paraeid="{d394f3eb-337f-44b5-9c1e-b8510fed2d8e}{177}" paraid="201596216">The final rule will publish in the Federal Register in the coming days.&nbsp;</p>
 </div>
       
+</div>
+</div>
+
+<figcaption>Enhancing efficiency of management of federal lands was the main driver of merging the General Land Office and the U.S. Grazing Service. President Truman’s special message to Congress transmitting Reorganization Plan 3 of 1946 explained that “Further, records relating to grazing lands can be concentrated in fewer field offices and hence administered more effectively.” (Photo Credit: BLM)</figcaption>
+</figure>
+
+
+<p>The Special Message leaves a couple of impressions on this writer.</p>
+
+<p>First, the fact that reorganizing the Federal government was on President Truman’s radar in 1946 at all seems astonishing, given domestic and international events. At the time the Special Message was transmitted, he had only been President for about one year. Truman became President, after serving for just 82 days as vice president, when President Roosevelt died in office in April 1945. World War II officially ended just eight months earlier, when Japan surrendered in September 1945. Americans were still reeling from the loss of more than 400,000 U.S. civilians and soldiers during the war and facing the reality of the “iron curtain” in Eastern Europe and the beginning of the Cold War.&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a4adff1e-0396-4cbc-9c75-b3844d48482d" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -subtitle">
-    <div><strong>Subtitle:</strong> </div>
-              <div>Public Lands Rule will help conserve wildlife habitat, restore places impacted by wildfire and drought, expand outdoor recreation, and guide thoughtful development</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_announcing%20surrender_jpg.jpg?itok=Otr1x6-g" width="640" height="512" alt="Image shows President Harry S. Truman standing at a desk and announcing the surrender of Japan to a group of reporters.  " typeof="foaf:Image">
 
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>President Harry S. Truman announcing the surrender of Japan in August 1945, just nine months before sending a Special Message to the Congress Transmitting Reorganization Plan 3 of 1946, which included the merger of the GLO and the U.S. Grazing Service to create the BLM. (Photo Credit: Harry S. Truman Library and Museum)</figcaption>
+</figure>
+
+
+<p>Second, after experiencing several agency reorganizations, the fact that the merger took effect just two months after Reorganization Plan 3 was transmitted to Congress feels like lightning speed! However, as outlined in “Opportunity and Challenge,”<strong>[2]</strong> while establishing the BLM may have been relatively quick and easy, for the next two years the agency struggled to simply survive, due to difficulties of implementing an organizational structure and securing adequate funding.</p>
+
+<p>Finally, the BLM was born of the modest goal of increasing efficiency. Never in their wildest dreams could the developers of Reorganization Plan 3 have imagined that the agency would become what is today – a steward of some of the most spectacular places on the planet, a manager of a dizzying array of natural and cultural resources, and an organization that many public land stakeholders rely upon for commercial opportunities, conservation of wild landscapes, and outdoor recreation experiences. That is worthy of reflection, and celebration, 78 years after the transmittal of Reorganization Plan 3!</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="536723eb-4bb7-4e92-951a-27889001abb2" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -fiscal-year">
-    <div><strong>Fiscal Year:</strong> </div>
-              <div>2024</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_Bob%20Wick%20Red%20Cliffs_jpg.jpg?itok=P6uVu7IK" width="640" height="426" alt="Image shows a red rock canyon with a stream running through it. " typeof="foaf:Image">
 
 
+</div>
+      
+</div>
+</div>
+
+<figcaption>The developers of Reorganization Plan 3 could not have imagined that the BLM mission would one day include conserving some of the most spectacular places on the planet, such as the Red Cliffs National Conservation Area in Utah. (Photo Credit: Bob Wick, BLM (retired))</figcaption>
+</figure>
 
 
+<p><strong>Footnotes:</strong></p>
 
-  
+<p><strong>[1]</strong> Reorganization Plan 3 also transferred jurisdiction over mineral deposits on lands held by the Department of Agriculture to the Department of the Interior.</p>
 
-  <div class="field contact-block -organization">
-    <div><strong>Organization:</strong> </div>
-              <div>Bureau of Land Management</div>
-          </div>
-
+<p><strong>[2] </strong><a href="https://www.blm.gov/sites/default/files/documents/files/opportunity%20and%20challenge.pdf">Opportunity and Challenge, The Story of BLM.</a> pp. 54-57.</p>
+</div>
+      
 
 
 
@@ -141,18 +144,6 @@ date: 2024-05-16, from: Bureau of Land Management, blog
     <div><strong>Region:</strong> </div>
           <div>
               <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
-          <div><a href="https://www.blm.gov/region/alaska" hreflang="en">Alaska</a></div>
-          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
-          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
-          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
-          <div><a href="https://www.blm.gov/region/eastern-states" hreflang="en">Eastern States</a></div>
-          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
-          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
-          <div><a href="https://www.blm.gov/region/nevada" hreflang="en">Nevada</a></div>
-          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
-          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
-          <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
-          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
               </div>
       </div>
 
@@ -162,13 +153,12 @@ date: 2024-05-16, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -tag">
-    <div><strong>Tag:</strong> </div>
-          <div>
-              <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
-          <div><a href="https://www.blm.gov/tag/rule" hreflang="en">Rule</a></div>
-              </div>
-      </div>
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/history" hreflang="en">History</a></div>
+                </div>
+  </div>
 
 
 
@@ -176,22 +166,10 @@ date: 2024-05-16, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -contact">
-    <div><strong>Contact:</strong> </div>
-          <div>
-              <div>
-
-  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-  <div class="field contact-block -label">
-    <div><strong>Name:</strong> </div>
-              <div>Interior Press</div>
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-05-16T12:00:00Z">Thu, 05/16/2024 - 12:00 pm UTC</time>
+</div>
           </div>
 
 
@@ -200,15 +178,21 @@ date: 2024-05-16, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -email">
-    <div><strong>Email:</strong> </div>
-              <div>Interior_Press@ios.doi.gov</div>
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/national-office" hreflang="en">National Office</a></div>
           </div>
 
-      </div>
-</div>
-              </div>
-      </div>
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48093/edit" hreflang="en">Announcing surrender</a></div>
+          </div>
 
 
 
@@ -216,32 +200,25 @@ date: 2024-05-16, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -related-content">
-    <div><strong>Related Content:</strong> </div>
-          <div>
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
               <div>
-
-  <div class="paragraph paragraph--type--wysiwyg paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-            <div class="field contact-block -summary"><ul>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="4f604006-b8a9-43b5-90cf-2d3b0b90baa4" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_general-factsheet_508.pdf">General Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="f99f8a1f-ea7f-4ce4-ac83-edc5dc658672" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_ACEC_508.pdf">ACECs Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="008578b3-f5b3-4581-9395-a4618a37bfde" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Land%20Health_508.pdf">Land Health Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="970f5162-0030-46fc-8e45-5068eb4379ab" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Restoration%20and%20Mitigation%20Leases_508.pdf">Restoration &amp; Mitigation Leases Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="6e15f147-5842-44e9-816b-d9e37a75eec1" href="https://www.blm.gov/sites/default/files/docs/2024-04/BLM-Final-Public-Land-Rule-Infographic.pdf">Infographic</a></li>
-</ul>
-</div>
-      
-      </div>
-</div>
-              </div>
-      </div>
+                    <div><a href="https://www.blm.gov/tag/history" hreflang="en">History</a></div>
+                    </div>
+          </div>
+  </div>
 
 
 
@@ -254,7 +231,18 @@ date: 2024-05-16, from: Bureau of Land Management, blog
           <div>
               <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
               </div>
-      </div> 
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/41208/edit" hreflang="en">White Mountains NRA northern lights campout by Bob Wick</a></div>
+          </div> 
 
 <https://www.blm.gov/blog/2024-05-16/beginning-blm-how-486-words-created-nations-largest-land-manager>
 
@@ -276,7 +264,7 @@ Dozens of telescopes will offer views of planets, double stars, star clusters, n
 
 date: 2024-05-15, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/biden-harris-administration-finalizes-strategy-guide-balanced-management-conservation" hreflang="en">Biden-Harris Administration finalizes strategy to guide balanced management, conservation of public lands</a></h2></div>
+<div class="field contact-block -title"><h1>The beginning of BLM: How 486 words created the nation’s largest land manager</h1></div>
       
 
 
@@ -284,30 +272,10 @@ date: 2024-05-15, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Publication Date:</strong> </div>
-              <div><time datetime="2024-04-18T12:00:00Z">Thu, 04/18/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/yssRQ8Z0nu8?si=bfjOBNEDwtaqQDwF" title="Public Lands Rule"></iframe></div>
-
-<p>&nbsp;</p>
-
-<p><strong>WASHINGTON – </strong>The Department of the Interior today announced a final rule to help guide the balanced management of America’s public lands. The <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="876a3ccf-e418-402c-80b0-a400b77c8e92" href="https://www.blm.gov/public-lands-rule" rel="noreferrer noopener" target="_blank">final Public Lands Rule</a> provides tools for the Bureau of Land Management (BLM) to help improve the health and resilience of public lands in the face of a changing climate; conserve important wildlife habitat and intact landscapes; facilitate responsible development; and better recognize unique cultural and natural resources on public lands.&nbsp;</p>
-
-<p>The Public Lands Rule builds on historic investments in public lands, waters and clean energy deployment provided by <a href="https://www.doi.gov/investing-america" rel="noreferrer noopener" target="_blank">President Biden’s Investing in America agenda</a>, which recognizes the critical value of our public lands to all Americans. It also complements the President’s <em><a href="https://www.doi.gov/priorities/america-the-beautiful" rel="noreferrer noopener" target="_blank">America the Beautiful</a></em> initiative, a 10-year, locally led and nationally scaled effort to protect, conserve, connect and restore the lands, waters and wildlife upon which we all depend.&nbsp;</p>
-
-<p>Building on decades of land management experience and emphasizing the use of science and data, including Indigenous Knowledge, to guide balanced decision-making, the rule applies the existing fundamentals of land health across BLM programs, establishes restoration and mitigation leases, and clarifies practices to designate and protect Areas of Critical Environmental Concern (ACECs). The rule will help to ensure the BLM continues to protect land health while managing other uses of the public lands, such as clean energy development and outdoor recreation.&nbsp;&nbsp;</p>
+            <div class="field contact-block -body"><p>Today is an important one in the history of the Bureau of Land Management (BLM). On May 16, 1946—78 years ago—the agency was conceived on paper, when President Harry S. Truman submitted to Congress “Reorganization Plan 3.” The plan included the proposal to merge the General Land Office and the U.S. Grazing Service to create one agency. Fast forward 78 years and our day-to-day activities are quite busy addressing proposals to construct renewable energy projects, improving recreation sites, responding to wildfires, and conducting all of the other work required to care for 245 million surface acres. That’s about one in every ten acres of the United States, not to mention the 30 percent of the Nation’s minerals we manage on behalf of the American people.</p>
 
 <figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="77b0b3f1-9f20-446b-a9c1-308a0a194612" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="49dfa03b-88ac-4b47-b98f-fc3e58ab60d0" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -316,7 +284,7 @@ date: 2024-05-15, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-05/Cosumnes_large.jpg?itok=c5z08u7f" width="640" height="282" alt="Duck fly over a wetland" typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_01.png?itok=b8K4KaJ-" width="426" height="530" alt="Image shows a round logo with five men holding tools depicting various functions of the BLM, including mining and livestock grazing management and cadastral survey. " typeof="foaf:Image">
 
 
 </div>
@@ -324,76 +292,99 @@ date: 2024-05-15, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>The Cosumnes River Preserve is home to California’s largest remaining valley oak riparian forest, and is one of the few protected wetland habitat areas in the state.. Photo by John Ciccarelli, BLM.</figcaption>
+<figcaption>The new BLM logo unveiled in 1946</figcaption>
 </figure>
 
 
-<p>“As stewards of America’s public lands, the Interior Department takes seriously our role in helping bolster landscape resilience in the face of worsening climate impacts. Today’s final rule helps restore balance to our public lands as we continue using the best-available science to restore habitats, guide strategic and responsible development, and sustain our public lands for generations to come,” <strong>said Secretary Deb Haaland</strong>. “Complemented with historic investments from President Biden’s Investing in America agenda, we are implementing enduring changes that will benefit wildlife, communities and habitats.”&nbsp;&nbsp;</p>
+<p>When President Truman issued this simple reorganization plan, it consisted of only 486 words regarding the proposed merger. That merger took effect three months later—on July 16, 1946—and set in motion the process to create an agency that today manages more public land than any other federal government agency in the U.S. This action dissolved the General Land Office, which got its start more than 130 years earlier, in 1812. It also dissolved the U.S. Grazing Service, which had existed for just 12 years, since 1934.</p>
 
-<p>“America’s public lands are our national treasures and need to be managed and made resilient for future generations of Americans,” said <strong>John Podesta, Senior Advisor to the President for International Climate Policy</strong>. “Today’s final rule from the Department of the Interior is a huge win for ensuring balance on our public lands, helping them withstand the challenges of climate change and environmental threats like invasive species, and making sure they continue to provide services to the American people for decades to come.”&nbsp;</p>
+<p>Here is what President Truman said in his <a href="https://www.trumanlibrary.gov/library/public-papers/118/special-message-congress-transmitting-reorganization-plan-3-1946">“Special Message to the Congress Transmitting Reorganization Plan 3 of 1946,”</a> explaining the rationale for merging the two agencies:<br>
+<br>
+<em>The General Land Office and the Grazing Service now divide responsibility for major portion of the multiple-use Federally owned lands now held by the Department of the Interior. The lands under jurisdiction of the two agencies are comparable in character and in use. In some functions, the two agencies employ the same type of personnel and use the same techniques. Other functions are divided between the agencies so that both are engaged in management of various aspects of the same land. Consolidating these two agencies will permit the development of uniform policies and the integration of two organizations whose responsibilities now overlap. Integration of the activities of the two agencies will make possible greater utilization and thus more economic use of expert skills.</em></p>
 
-<p>“The Interior Department is ensuring our public lands are managed with an eye to future generations, complementing President Biden’s ambitious conservation agenda,” said <strong>White House Council on Environmental Quality Chair Brenda Mallory</strong>. “From the most rugged backcountry spots to popular close-to-home recreation areas, these reforms will help deliver cleaner water, healthier lands, abundant wildlife, and more recreation opportunities for all of us.”&nbsp;</p>
+<p>In other words, the primary purpose of merging the agencies to form the BLM was to increase efficiency. The same can be said for the reorganizations of several other federal Departments and agencies included in Reorganization Plan 3 of 1946.<strong>[1] &nbsp;</strong></p>
 
-<p>The final rule comes amid growing pressures and historic challenges facing land managers. The impacts of climate change—including prolonged drought, increasing wildfires, and an influx of invasive species—pose increasing risks to communities, wildlife and ecosystems. The Public Lands Rule will help the BLM navigate changing conditions on the ground, while helping public lands continue to serve as economic drivers across the West.&nbsp;</p>
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="9f6440fc-eb75-4b24-b046-f92afd6f58e5" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
-<p>“The BLM received and considered over 200,000 comments on the proposed rule from individuals, state, Tribal and local governments, industry groups and advocacy organizations, which led to important improvements in this final rule,” said<strong> Principal Deputy Assistant Secretary for Land and Minerals Management Dr. Steve Feldgus</strong>. “Continued broad collaboration with this diverse group of partners will be key to our implementation of this rule to ensure that our public lands are being managed for all Americans.”&nbsp;</p>
 
-<p>“Our public lands provide wildlife habitat and clean water, the energy that lights our homes, the wood we build with, and the places where we make family memories,” said <strong>BLM Director Tracy Stone-Manning</strong>. “This rule honors our obligation to current and future generations to help ensure our public lands and waters remain healthy amid growing pressures and change.”&nbsp;</p>
 
-<p>The final rule clarifies and refines concepts <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a3dbb21a-e603-4e08-ae95-812badce4d4c" href="https://www.blm.gov/press-release/interior-department-releases-proposed-plan-guide-balanced-management-public-lands" rel="noreferrer noopener" target="_blank">first proposed in April 2023</a>. The BLM provided a 90-day comment period on this rule, holding five public meetings and receiving over 200,000 comments, the vast majority of which supported the effort. In response to the substantive comments received, the BLM clarified and refined concepts laid out in the proposed rule.&nbsp;</p>
 
-<p>The final rule:&nbsp;</p>
+  
 
-<ul role="list">
-	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
-	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{92}" paraid="1845017194"><strong>Directs BLM to manage for landscape health.</strong> Successful public land management that delivers natural resources, wildlife habitat and clean water requires a thorough understanding of the health and condition of the landscape, especially as conditions shift on the ground due to climate change. To help sustain the health of our lands and waters, the rule directs the BLM to manage public land uses in accordance with the fundamentals of land health, which will help watersheds support soils, plants, and water; ecosystems provide healthy populations and communities of plants and animals; and wildlife habitats on public lands protect threatened and endangered species consistent with the multiple use and sustained yield framework.&nbsp;&nbsp;</p>
-	</li>
-	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
-	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{167}" paraid="948577800"><strong>Provides a mechanism for restoring and protecting our public lands through restoration and mitigation leases.</strong> Restoration leases provide greater clarity for the BLM to work with appropriate partners to restore degraded lands. Mitigation leases will provide a clear and consistent mechanism for developers to offset their impacts by investing in land health elsewhere on public lands, like they currently can on state and private lands. The final rule clarifies who can obtain a restoration or mitigation lease, limiting potential lessees to qualified individuals, businesses, non-governmental organizations, Tribal governments, conservation districts, or state fish and wildlife agencies. Restoration and mitigation leases will not be issued if they would conflict with existing authorized uses.&nbsp;</p>
-	</li>
-	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
-	<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{25}" paraid="2007072068"><strong>Clarifies the designation and management of ACECs. </strong>The final rule provides greater detail about how the BLM will continue to follow the direction in the Federal Land Policy and Management Act to prioritize the designation and protection of ACECs. Following public comments, the final rule clarifies how BLM consideration of new ACEC nominations and temporary management options does not interfere with the BLM’s discretion to continue advancing pending project applications.&nbsp;&nbsp;</p>
-	</li>
-</ul>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_enhancing%20efficiency_jpg.jpg?itok=vXsGdxbK" width="400" height="321" alt="Image shows sheep grazing on rangelands and standing in a road in Wyoming." typeof="foaf:Image">
 
-<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{88}" paraid="142264570">The Public Lands Rule complements the BLM’s recently announced <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy Rule</a>, providing consistent direction and new tools for mitigation, helping advance the efficient and environmentally responsible development of renewable energy on BLM-managed public lands, providing greater clarity and consistency in permitting, and allowing for the continued acceleration of project reviews and approvals, while managing public lands under the principles of multiple use and sustained yield.&nbsp;</p>
 
-<p paraeid="{d394f3eb-337f-44b5-9c1e-b8510fed2d8e}{177}" paraid="201596216">The final rule will publish in the Federal Register in the coming days.&nbsp;</p>
 </div>
       
+</div>
+</div>
+
+<figcaption>Enhancing efficiency of management of federal lands was the main driver of merging the General Land Office and the U.S. Grazing Service. President Truman’s special message to Congress transmitting Reorganization Plan 3 of 1946 explained that “Further, records relating to grazing lands can be concentrated in fewer field offices and hence administered more effectively.” (Photo Credit: BLM)</figcaption>
+</figure>
+
+
+<p>The Special Message leaves a couple of impressions on this writer.</p>
+
+<p>First, the fact that reorganizing the Federal government was on President Truman’s radar in 1946 at all seems astonishing, given domestic and international events. At the time the Special Message was transmitted, he had only been President for about one year. Truman became President, after serving for just 82 days as vice president, when President Roosevelt died in office in April 1945. World War II officially ended just eight months earlier, when Japan surrendered in September 1945. Americans were still reeling from the loss of more than 400,000 U.S. civilians and soldiers during the war and facing the reality of the “iron curtain” in Eastern Europe and the beginning of the Cold War.&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a4adff1e-0396-4cbc-9c75-b3844d48482d" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -subtitle">
-    <div><strong>Subtitle:</strong> </div>
-              <div>Public Lands Rule will help conserve wildlife habitat, restore places impacted by wildfire and drought, expand outdoor recreation, and guide thoughtful development</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_announcing%20surrender_jpg.jpg?itok=Otr1x6-g" width="640" height="512" alt="Image shows President Harry S. Truman standing at a desk and announcing the surrender of Japan to a group of reporters.  " typeof="foaf:Image">
 
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>President Harry S. Truman announcing the surrender of Japan in August 1945, just nine months before sending a Special Message to the Congress Transmitting Reorganization Plan 3 of 1946, which included the merger of the GLO and the U.S. Grazing Service to create the BLM. (Photo Credit: Harry S. Truman Library and Museum)</figcaption>
+</figure>
+
+
+<p>Second, after experiencing several agency reorganizations, the fact that the merger took effect just two months after Reorganization Plan 3 was transmitted to Congress feels like lightning speed! However, as outlined in “Opportunity and Challenge,”<strong>[2]</strong> while establishing the BLM may have been relatively quick and easy, for the next two years the agency struggled to simply survive, due to difficulties of implementing an organizational structure and securing adequate funding.</p>
+
+<p>Finally, the BLM was born of the modest goal of increasing efficiency. Never in their wildest dreams could the developers of Reorganization Plan 3 have imagined that the agency would become what is today – a steward of some of the most spectacular places on the planet, a manager of a dizzying array of natural and cultural resources, and an organization that many public land stakeholders rely upon for commercial opportunities, conservation of wild landscapes, and outdoor recreation experiences. That is worthy of reflection, and celebration, 78 years after the transmittal of Reorganization Plan 3!</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="536723eb-4bb7-4e92-951a-27889001abb2" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -fiscal-year">
-    <div><strong>Fiscal Year:</strong> </div>
-              <div>2024</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_Bob%20Wick%20Red%20Cliffs_jpg.jpg?itok=P6uVu7IK" width="640" height="426" alt="Image shows a red rock canyon with a stream running through it. " typeof="foaf:Image">
 
 
+</div>
+      
+</div>
+</div>
+
+<figcaption>The developers of Reorganization Plan 3 could not have imagined that the BLM mission would one day include conserving some of the most spectacular places on the planet, such as the Red Cliffs National Conservation Area in Utah. (Photo Credit: Bob Wick, BLM (retired))</figcaption>
+</figure>
 
 
+<p><strong>Footnotes:</strong></p>
 
-  
+<p><strong>[1]</strong> Reorganization Plan 3 also transferred jurisdiction over mineral deposits on lands held by the Department of Agriculture to the Department of the Interior.</p>
 
-  <div class="field contact-block -organization">
-    <div><strong>Organization:</strong> </div>
-              <div>Bureau of Land Management</div>
-          </div>
-
+<p><strong>[2] </strong><a href="https://www.blm.gov/sites/default/files/documents/files/opportunity%20and%20challenge.pdf">Opportunity and Challenge, The Story of BLM.</a> pp. 54-57.</p>
+</div>
+      
 
 
 
@@ -404,18 +395,6 @@ date: 2024-05-15, from: Bureau of Land Management, blog
     <div><strong>Region:</strong> </div>
           <div>
               <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
-          <div><a href="https://www.blm.gov/region/alaska" hreflang="en">Alaska</a></div>
-          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
-          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
-          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
-          <div><a href="https://www.blm.gov/region/eastern-states" hreflang="en">Eastern States</a></div>
-          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
-          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
-          <div><a href="https://www.blm.gov/region/nevada" hreflang="en">Nevada</a></div>
-          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
-          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
-          <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
-          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
               </div>
       </div>
 
@@ -425,13 +404,12 @@ date: 2024-05-15, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -tag">
-    <div><strong>Tag:</strong> </div>
-          <div>
-              <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
-          <div><a href="https://www.blm.gov/tag/rule" hreflang="en">Rule</a></div>
-              </div>
-      </div>
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/history" hreflang="en">History</a></div>
+                </div>
+  </div>
 
 
 
@@ -439,22 +417,10 @@ date: 2024-05-15, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -contact">
-    <div><strong>Contact:</strong> </div>
-          <div>
-              <div>
-
-  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-  <div class="field contact-block -label">
-    <div><strong>Name:</strong> </div>
-              <div>Interior Press</div>
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-05-16T12:00:00Z">Thu, 05/16/2024 - 12:00 pm UTC</time>
+</div>
           </div>
 
 
@@ -463,15 +429,21 @@ date: 2024-05-15, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -email">
-    <div><strong>Email:</strong> </div>
-              <div>Interior_Press@ios.doi.gov</div>
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/national-office" hreflang="en">National Office</a></div>
           </div>
 
-      </div>
-</div>
-              </div>
-      </div>
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48093/edit" hreflang="en">Announcing surrender</a></div>
+          </div>
 
 
 
@@ -479,32 +451,25 @@ date: 2024-05-15, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -related-content">
-    <div><strong>Related Content:</strong> </div>
-          <div>
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
               <div>
-
-  <div class="paragraph paragraph--type--wysiwyg paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-            <div class="field contact-block -summary"><ul>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="4f604006-b8a9-43b5-90cf-2d3b0b90baa4" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_general-factsheet_508.pdf">General Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="f99f8a1f-ea7f-4ce4-ac83-edc5dc658672" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_ACEC_508.pdf">ACECs Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="008578b3-f5b3-4581-9395-a4618a37bfde" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Land%20Health_508.pdf">Land Health Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="970f5162-0030-46fc-8e45-5068eb4379ab" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Restoration%20and%20Mitigation%20Leases_508.pdf">Restoration &amp; Mitigation Leases Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="6e15f147-5842-44e9-816b-d9e37a75eec1" href="https://www.blm.gov/sites/default/files/docs/2024-04/BLM-Final-Public-Land-Rule-Infographic.pdf">Infographic</a></li>
-</ul>
-</div>
-      
-      </div>
-</div>
-              </div>
-      </div>
+                    <div><a href="https://www.blm.gov/tag/history" hreflang="en">History</a></div>
+                    </div>
+          </div>
+  </div>
 
 
 
@@ -517,7 +482,18 @@ date: 2024-05-15, from: Bureau of Land Management, blog
           <div>
               <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
               </div>
-      </div> 
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/41208/edit" hreflang="en">White Mountains NRA northern lights campout by Bob Wick</a></div>
+          </div> 
 
 <https://www.blm.gov/blog/2024-05-15/banjo-found-his-forever-home-wild-horse-and-burro-event-florence>
 
@@ -527,7 +503,7 @@ date: 2024-05-15, from: Bureau of Land Management, blog
 
 date: 2024-05-15, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/biden-harris-administration-finalizes-strategy-guide-balanced-management-conservation" hreflang="en">Biden-Harris Administration finalizes strategy to guide balanced management, conservation of public lands</a></h2></div>
+<div class="field contact-block -title"><h1>The beginning of BLM: How 486 words created the nation’s largest land manager</h1></div>
       
 
 
@@ -535,30 +511,10 @@ date: 2024-05-15, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Publication Date:</strong> </div>
-              <div><time datetime="2024-04-18T12:00:00Z">Thu, 04/18/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/yssRQ8Z0nu8?si=bfjOBNEDwtaqQDwF" title="Public Lands Rule"></iframe></div>
-
-<p>&nbsp;</p>
-
-<p><strong>WASHINGTON – </strong>The Department of the Interior today announced a final rule to help guide the balanced management of America’s public lands. The <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="876a3ccf-e418-402c-80b0-a400b77c8e92" href="https://www.blm.gov/public-lands-rule" rel="noreferrer noopener" target="_blank">final Public Lands Rule</a> provides tools for the Bureau of Land Management (BLM) to help improve the health and resilience of public lands in the face of a changing climate; conserve important wildlife habitat and intact landscapes; facilitate responsible development; and better recognize unique cultural and natural resources on public lands.&nbsp;</p>
-
-<p>The Public Lands Rule builds on historic investments in public lands, waters and clean energy deployment provided by <a href="https://www.doi.gov/investing-america" rel="noreferrer noopener" target="_blank">President Biden’s Investing in America agenda</a>, which recognizes the critical value of our public lands to all Americans. It also complements the President’s <em><a href="https://www.doi.gov/priorities/america-the-beautiful" rel="noreferrer noopener" target="_blank">America the Beautiful</a></em> initiative, a 10-year, locally led and nationally scaled effort to protect, conserve, connect and restore the lands, waters and wildlife upon which we all depend.&nbsp;</p>
-
-<p>Building on decades of land management experience and emphasizing the use of science and data, including Indigenous Knowledge, to guide balanced decision-making, the rule applies the existing fundamentals of land health across BLM programs, establishes restoration and mitigation leases, and clarifies practices to designate and protect Areas of Critical Environmental Concern (ACECs). The rule will help to ensure the BLM continues to protect land health while managing other uses of the public lands, such as clean energy development and outdoor recreation.&nbsp;&nbsp;</p>
+            <div class="field contact-block -body"><p>Today is an important one in the history of the Bureau of Land Management (BLM). On May 16, 1946—78 years ago—the agency was conceived on paper, when President Harry S. Truman submitted to Congress “Reorganization Plan 3.” The plan included the proposal to merge the General Land Office and the U.S. Grazing Service to create one agency. Fast forward 78 years and our day-to-day activities are quite busy addressing proposals to construct renewable energy projects, improving recreation sites, responding to wildfires, and conducting all of the other work required to care for 245 million surface acres. That’s about one in every ten acres of the United States, not to mention the 30 percent of the Nation’s minerals we manage on behalf of the American people.</p>
 
 <figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="77b0b3f1-9f20-446b-a9c1-308a0a194612" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="49dfa03b-88ac-4b47-b98f-fc3e58ab60d0" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -567,7 +523,7 @@ date: 2024-05-15, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-05/Cosumnes_large.jpg?itok=c5z08u7f" width="640" height="282" alt="Duck fly over a wetland" typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_01.png?itok=b8K4KaJ-" width="426" height="530" alt="Image shows a round logo with five men holding tools depicting various functions of the BLM, including mining and livestock grazing management and cadastral survey. " typeof="foaf:Image">
 
 
 </div>
@@ -575,76 +531,99 @@ date: 2024-05-15, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>The Cosumnes River Preserve is home to California’s largest remaining valley oak riparian forest, and is one of the few protected wetland habitat areas in the state.. Photo by John Ciccarelli, BLM.</figcaption>
+<figcaption>The new BLM logo unveiled in 1946</figcaption>
 </figure>
 
 
-<p>“As stewards of America’s public lands, the Interior Department takes seriously our role in helping bolster landscape resilience in the face of worsening climate impacts. Today’s final rule helps restore balance to our public lands as we continue using the best-available science to restore habitats, guide strategic and responsible development, and sustain our public lands for generations to come,” <strong>said Secretary Deb Haaland</strong>. “Complemented with historic investments from President Biden’s Investing in America agenda, we are implementing enduring changes that will benefit wildlife, communities and habitats.”&nbsp;&nbsp;</p>
+<p>When President Truman issued this simple reorganization plan, it consisted of only 486 words regarding the proposed merger. That merger took effect three months later—on July 16, 1946—and set in motion the process to create an agency that today manages more public land than any other federal government agency in the U.S. This action dissolved the General Land Office, which got its start more than 130 years earlier, in 1812. It also dissolved the U.S. Grazing Service, which had existed for just 12 years, since 1934.</p>
 
-<p>“America’s public lands are our national treasures and need to be managed and made resilient for future generations of Americans,” said <strong>John Podesta, Senior Advisor to the President for International Climate Policy</strong>. “Today’s final rule from the Department of the Interior is a huge win for ensuring balance on our public lands, helping them withstand the challenges of climate change and environmental threats like invasive species, and making sure they continue to provide services to the American people for decades to come.”&nbsp;</p>
+<p>Here is what President Truman said in his <a href="https://www.trumanlibrary.gov/library/public-papers/118/special-message-congress-transmitting-reorganization-plan-3-1946">“Special Message to the Congress Transmitting Reorganization Plan 3 of 1946,”</a> explaining the rationale for merging the two agencies:<br>
+<br>
+<em>The General Land Office and the Grazing Service now divide responsibility for major portion of the multiple-use Federally owned lands now held by the Department of the Interior. The lands under jurisdiction of the two agencies are comparable in character and in use. In some functions, the two agencies employ the same type of personnel and use the same techniques. Other functions are divided between the agencies so that both are engaged in management of various aspects of the same land. Consolidating these two agencies will permit the development of uniform policies and the integration of two organizations whose responsibilities now overlap. Integration of the activities of the two agencies will make possible greater utilization and thus more economic use of expert skills.</em></p>
 
-<p>“The Interior Department is ensuring our public lands are managed with an eye to future generations, complementing President Biden’s ambitious conservation agenda,” said <strong>White House Council on Environmental Quality Chair Brenda Mallory</strong>. “From the most rugged backcountry spots to popular close-to-home recreation areas, these reforms will help deliver cleaner water, healthier lands, abundant wildlife, and more recreation opportunities for all of us.”&nbsp;</p>
+<p>In other words, the primary purpose of merging the agencies to form the BLM was to increase efficiency. The same can be said for the reorganizations of several other federal Departments and agencies included in Reorganization Plan 3 of 1946.<strong>[1] &nbsp;</strong></p>
 
-<p>The final rule comes amid growing pressures and historic challenges facing land managers. The impacts of climate change—including prolonged drought, increasing wildfires, and an influx of invasive species—pose increasing risks to communities, wildlife and ecosystems. The Public Lands Rule will help the BLM navigate changing conditions on the ground, while helping public lands continue to serve as economic drivers across the West.&nbsp;</p>
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="9f6440fc-eb75-4b24-b046-f92afd6f58e5" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
-<p>“The BLM received and considered over 200,000 comments on the proposed rule from individuals, state, Tribal and local governments, industry groups and advocacy organizations, which led to important improvements in this final rule,” said<strong> Principal Deputy Assistant Secretary for Land and Minerals Management Dr. Steve Feldgus</strong>. “Continued broad collaboration with this diverse group of partners will be key to our implementation of this rule to ensure that our public lands are being managed for all Americans.”&nbsp;</p>
 
-<p>“Our public lands provide wildlife habitat and clean water, the energy that lights our homes, the wood we build with, and the places where we make family memories,” said <strong>BLM Director Tracy Stone-Manning</strong>. “This rule honors our obligation to current and future generations to help ensure our public lands and waters remain healthy amid growing pressures and change.”&nbsp;</p>
 
-<p>The final rule clarifies and refines concepts <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a3dbb21a-e603-4e08-ae95-812badce4d4c" href="https://www.blm.gov/press-release/interior-department-releases-proposed-plan-guide-balanced-management-public-lands" rel="noreferrer noopener" target="_blank">first proposed in April 2023</a>. The BLM provided a 90-day comment period on this rule, holding five public meetings and receiving over 200,000 comments, the vast majority of which supported the effort. In response to the substantive comments received, the BLM clarified and refined concepts laid out in the proposed rule.&nbsp;</p>
 
-<p>The final rule:&nbsp;</p>
+  
 
-<ul role="list">
-	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
-	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{92}" paraid="1845017194"><strong>Directs BLM to manage for landscape health.</strong> Successful public land management that delivers natural resources, wildlife habitat and clean water requires a thorough understanding of the health and condition of the landscape, especially as conditions shift on the ground due to climate change. To help sustain the health of our lands and waters, the rule directs the BLM to manage public land uses in accordance with the fundamentals of land health, which will help watersheds support soils, plants, and water; ecosystems provide healthy populations and communities of plants and animals; and wildlife habitats on public lands protect threatened and endangered species consistent with the multiple use and sustained yield framework.&nbsp;&nbsp;</p>
-	</li>
-	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
-	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{167}" paraid="948577800"><strong>Provides a mechanism for restoring and protecting our public lands through restoration and mitigation leases.</strong> Restoration leases provide greater clarity for the BLM to work with appropriate partners to restore degraded lands. Mitigation leases will provide a clear and consistent mechanism for developers to offset their impacts by investing in land health elsewhere on public lands, like they currently can on state and private lands. The final rule clarifies who can obtain a restoration or mitigation lease, limiting potential lessees to qualified individuals, businesses, non-governmental organizations, Tribal governments, conservation districts, or state fish and wildlife agencies. Restoration and mitigation leases will not be issued if they would conflict with existing authorized uses.&nbsp;</p>
-	</li>
-	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
-	<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{25}" paraid="2007072068"><strong>Clarifies the designation and management of ACECs. </strong>The final rule provides greater detail about how the BLM will continue to follow the direction in the Federal Land Policy and Management Act to prioritize the designation and protection of ACECs. Following public comments, the final rule clarifies how BLM consideration of new ACEC nominations and temporary management options does not interfere with the BLM’s discretion to continue advancing pending project applications.&nbsp;&nbsp;</p>
-	</li>
-</ul>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_enhancing%20efficiency_jpg.jpg?itok=vXsGdxbK" width="400" height="321" alt="Image shows sheep grazing on rangelands and standing in a road in Wyoming." typeof="foaf:Image">
 
-<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{88}" paraid="142264570">The Public Lands Rule complements the BLM’s recently announced <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy Rule</a>, providing consistent direction and new tools for mitigation, helping advance the efficient and environmentally responsible development of renewable energy on BLM-managed public lands, providing greater clarity and consistency in permitting, and allowing for the continued acceleration of project reviews and approvals, while managing public lands under the principles of multiple use and sustained yield.&nbsp;</p>
 
-<p paraeid="{d394f3eb-337f-44b5-9c1e-b8510fed2d8e}{177}" paraid="201596216">The final rule will publish in the Federal Register in the coming days.&nbsp;</p>
 </div>
       
+</div>
+</div>
+
+<figcaption>Enhancing efficiency of management of federal lands was the main driver of merging the General Land Office and the U.S. Grazing Service. President Truman’s special message to Congress transmitting Reorganization Plan 3 of 1946 explained that “Further, records relating to grazing lands can be concentrated in fewer field offices and hence administered more effectively.” (Photo Credit: BLM)</figcaption>
+</figure>
+
+
+<p>The Special Message leaves a couple of impressions on this writer.</p>
+
+<p>First, the fact that reorganizing the Federal government was on President Truman’s radar in 1946 at all seems astonishing, given domestic and international events. At the time the Special Message was transmitted, he had only been President for about one year. Truman became President, after serving for just 82 days as vice president, when President Roosevelt died in office in April 1945. World War II officially ended just eight months earlier, when Japan surrendered in September 1945. Americans were still reeling from the loss of more than 400,000 U.S. civilians and soldiers during the war and facing the reality of the “iron curtain” in Eastern Europe and the beginning of the Cold War.&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a4adff1e-0396-4cbc-9c75-b3844d48482d" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -subtitle">
-    <div><strong>Subtitle:</strong> </div>
-              <div>Public Lands Rule will help conserve wildlife habitat, restore places impacted by wildfire and drought, expand outdoor recreation, and guide thoughtful development</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_announcing%20surrender_jpg.jpg?itok=Otr1x6-g" width="640" height="512" alt="Image shows President Harry S. Truman standing at a desk and announcing the surrender of Japan to a group of reporters.  " typeof="foaf:Image">
 
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>President Harry S. Truman announcing the surrender of Japan in August 1945, just nine months before sending a Special Message to the Congress Transmitting Reorganization Plan 3 of 1946, which included the merger of the GLO and the U.S. Grazing Service to create the BLM. (Photo Credit: Harry S. Truman Library and Museum)</figcaption>
+</figure>
+
+
+<p>Second, after experiencing several agency reorganizations, the fact that the merger took effect just two months after Reorganization Plan 3 was transmitted to Congress feels like lightning speed! However, as outlined in “Opportunity and Challenge,”<strong>[2]</strong> while establishing the BLM may have been relatively quick and easy, for the next two years the agency struggled to simply survive, due to difficulties of implementing an organizational structure and securing adequate funding.</p>
+
+<p>Finally, the BLM was born of the modest goal of increasing efficiency. Never in their wildest dreams could the developers of Reorganization Plan 3 have imagined that the agency would become what is today – a steward of some of the most spectacular places on the planet, a manager of a dizzying array of natural and cultural resources, and an organization that many public land stakeholders rely upon for commercial opportunities, conservation of wild landscapes, and outdoor recreation experiences. That is worthy of reflection, and celebration, 78 years after the transmittal of Reorganization Plan 3!</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="536723eb-4bb7-4e92-951a-27889001abb2" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -fiscal-year">
-    <div><strong>Fiscal Year:</strong> </div>
-              <div>2024</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_Bob%20Wick%20Red%20Cliffs_jpg.jpg?itok=P6uVu7IK" width="640" height="426" alt="Image shows a red rock canyon with a stream running through it. " typeof="foaf:Image">
 
 
+</div>
+      
+</div>
+</div>
+
+<figcaption>The developers of Reorganization Plan 3 could not have imagined that the BLM mission would one day include conserving some of the most spectacular places on the planet, such as the Red Cliffs National Conservation Area in Utah. (Photo Credit: Bob Wick, BLM (retired))</figcaption>
+</figure>
 
 
+<p><strong>Footnotes:</strong></p>
 
-  
+<p><strong>[1]</strong> Reorganization Plan 3 also transferred jurisdiction over mineral deposits on lands held by the Department of Agriculture to the Department of the Interior.</p>
 
-  <div class="field contact-block -organization">
-    <div><strong>Organization:</strong> </div>
-              <div>Bureau of Land Management</div>
-          </div>
-
+<p><strong>[2] </strong><a href="https://www.blm.gov/sites/default/files/documents/files/opportunity%20and%20challenge.pdf">Opportunity and Challenge, The Story of BLM.</a> pp. 54-57.</p>
+</div>
+      
 
 
 
@@ -655,18 +634,6 @@ date: 2024-05-15, from: Bureau of Land Management, blog
     <div><strong>Region:</strong> </div>
           <div>
               <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
-          <div><a href="https://www.blm.gov/region/alaska" hreflang="en">Alaska</a></div>
-          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
-          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
-          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
-          <div><a href="https://www.blm.gov/region/eastern-states" hreflang="en">Eastern States</a></div>
-          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
-          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
-          <div><a href="https://www.blm.gov/region/nevada" hreflang="en">Nevada</a></div>
-          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
-          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
-          <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
-          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
               </div>
       </div>
 
@@ -676,13 +643,12 @@ date: 2024-05-15, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -tag">
-    <div><strong>Tag:</strong> </div>
-          <div>
-              <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
-          <div><a href="https://www.blm.gov/tag/rule" hreflang="en">Rule</a></div>
-              </div>
-      </div>
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/history" hreflang="en">History</a></div>
+                </div>
+  </div>
 
 
 
@@ -690,22 +656,10 @@ date: 2024-05-15, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -contact">
-    <div><strong>Contact:</strong> </div>
-          <div>
-              <div>
-
-  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-  <div class="field contact-block -label">
-    <div><strong>Name:</strong> </div>
-              <div>Interior Press</div>
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-05-16T12:00:00Z">Thu, 05/16/2024 - 12:00 pm UTC</time>
+</div>
           </div>
 
 
@@ -714,15 +668,21 @@ date: 2024-05-15, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -email">
-    <div><strong>Email:</strong> </div>
-              <div>Interior_Press@ios.doi.gov</div>
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/national-office" hreflang="en">National Office</a></div>
           </div>
 
-      </div>
-</div>
-              </div>
-      </div>
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48093/edit" hreflang="en">Announcing surrender</a></div>
+          </div>
 
 
 
@@ -730,32 +690,25 @@ date: 2024-05-15, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -related-content">
-    <div><strong>Related Content:</strong> </div>
-          <div>
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
               <div>
-
-  <div class="paragraph paragraph--type--wysiwyg paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-            <div class="field contact-block -summary"><ul>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="4f604006-b8a9-43b5-90cf-2d3b0b90baa4" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_general-factsheet_508.pdf">General Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="f99f8a1f-ea7f-4ce4-ac83-edc5dc658672" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_ACEC_508.pdf">ACECs Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="008578b3-f5b3-4581-9395-a4618a37bfde" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Land%20Health_508.pdf">Land Health Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="970f5162-0030-46fc-8e45-5068eb4379ab" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Restoration%20and%20Mitigation%20Leases_508.pdf">Restoration &amp; Mitigation Leases Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="6e15f147-5842-44e9-816b-d9e37a75eec1" href="https://www.blm.gov/sites/default/files/docs/2024-04/BLM-Final-Public-Land-Rule-Infographic.pdf">Infographic</a></li>
-</ul>
-</div>
-      
-      </div>
-</div>
-              </div>
-      </div>
+                    <div><a href="https://www.blm.gov/tag/history" hreflang="en">History</a></div>
+                    </div>
+          </div>
+  </div>
 
 
 
@@ -768,7 +721,18 @@ date: 2024-05-15, from: Bureau of Land Management, blog
           <div>
               <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
               </div>
-      </div> 
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/41208/edit" hreflang="en">White Mountains NRA northern lights campout by Bob Wick</a></div>
+          </div> 
 
 <https://www.blm.gov/blog/2024-05-15/rance-neighbors-recognized-excellence-fire-leadership>
 
@@ -778,7 +742,7 @@ date: 2024-05-15, from: Bureau of Land Management, blog
 
 date: 2024-05-14, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/biden-harris-administration-finalizes-strategy-guide-balanced-management-conservation" hreflang="en">Biden-Harris Administration finalizes strategy to guide balanced management, conservation of public lands</a></h2></div>
+<div class="field contact-block -title"><h1>The beginning of BLM: How 486 words created the nation’s largest land manager</h1></div>
       
 
 
@@ -786,30 +750,10 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Publication Date:</strong> </div>
-              <div><time datetime="2024-04-18T12:00:00Z">Thu, 04/18/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/yssRQ8Z0nu8?si=bfjOBNEDwtaqQDwF" title="Public Lands Rule"></iframe></div>
-
-<p>&nbsp;</p>
-
-<p><strong>WASHINGTON – </strong>The Department of the Interior today announced a final rule to help guide the balanced management of America’s public lands. The <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="876a3ccf-e418-402c-80b0-a400b77c8e92" href="https://www.blm.gov/public-lands-rule" rel="noreferrer noopener" target="_blank">final Public Lands Rule</a> provides tools for the Bureau of Land Management (BLM) to help improve the health and resilience of public lands in the face of a changing climate; conserve important wildlife habitat and intact landscapes; facilitate responsible development; and better recognize unique cultural and natural resources on public lands.&nbsp;</p>
-
-<p>The Public Lands Rule builds on historic investments in public lands, waters and clean energy deployment provided by <a href="https://www.doi.gov/investing-america" rel="noreferrer noopener" target="_blank">President Biden’s Investing in America agenda</a>, which recognizes the critical value of our public lands to all Americans. It also complements the President’s <em><a href="https://www.doi.gov/priorities/america-the-beautiful" rel="noreferrer noopener" target="_blank">America the Beautiful</a></em> initiative, a 10-year, locally led and nationally scaled effort to protect, conserve, connect and restore the lands, waters and wildlife upon which we all depend.&nbsp;</p>
-
-<p>Building on decades of land management experience and emphasizing the use of science and data, including Indigenous Knowledge, to guide balanced decision-making, the rule applies the existing fundamentals of land health across BLM programs, establishes restoration and mitigation leases, and clarifies practices to designate and protect Areas of Critical Environmental Concern (ACECs). The rule will help to ensure the BLM continues to protect land health while managing other uses of the public lands, such as clean energy development and outdoor recreation.&nbsp;&nbsp;</p>
+            <div class="field contact-block -body"><p>Today is an important one in the history of the Bureau of Land Management (BLM). On May 16, 1946—78 years ago—the agency was conceived on paper, when President Harry S. Truman submitted to Congress “Reorganization Plan 3.” The plan included the proposal to merge the General Land Office and the U.S. Grazing Service to create one agency. Fast forward 78 years and our day-to-day activities are quite busy addressing proposals to construct renewable energy projects, improving recreation sites, responding to wildfires, and conducting all of the other work required to care for 245 million surface acres. That’s about one in every ten acres of the United States, not to mention the 30 percent of the Nation’s minerals we manage on behalf of the American people.</p>
 
 <figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="77b0b3f1-9f20-446b-a9c1-308a0a194612" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="49dfa03b-88ac-4b47-b98f-fc3e58ab60d0" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -818,7 +762,7 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-05/Cosumnes_large.jpg?itok=c5z08u7f" width="640" height="282" alt="Duck fly over a wetland" typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_01.png?itok=b8K4KaJ-" width="426" height="530" alt="Image shows a round logo with five men holding tools depicting various functions of the BLM, including mining and livestock grazing management and cadastral survey. " typeof="foaf:Image">
 
 
 </div>
@@ -826,76 +770,99 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>The Cosumnes River Preserve is home to California’s largest remaining valley oak riparian forest, and is one of the few protected wetland habitat areas in the state.. Photo by John Ciccarelli, BLM.</figcaption>
+<figcaption>The new BLM logo unveiled in 1946</figcaption>
 </figure>
 
 
-<p>“As stewards of America’s public lands, the Interior Department takes seriously our role in helping bolster landscape resilience in the face of worsening climate impacts. Today’s final rule helps restore balance to our public lands as we continue using the best-available science to restore habitats, guide strategic and responsible development, and sustain our public lands for generations to come,” <strong>said Secretary Deb Haaland</strong>. “Complemented with historic investments from President Biden’s Investing in America agenda, we are implementing enduring changes that will benefit wildlife, communities and habitats.”&nbsp;&nbsp;</p>
+<p>When President Truman issued this simple reorganization plan, it consisted of only 486 words regarding the proposed merger. That merger took effect three months later—on July 16, 1946—and set in motion the process to create an agency that today manages more public land than any other federal government agency in the U.S. This action dissolved the General Land Office, which got its start more than 130 years earlier, in 1812. It also dissolved the U.S. Grazing Service, which had existed for just 12 years, since 1934.</p>
 
-<p>“America’s public lands are our national treasures and need to be managed and made resilient for future generations of Americans,” said <strong>John Podesta, Senior Advisor to the President for International Climate Policy</strong>. “Today’s final rule from the Department of the Interior is a huge win for ensuring balance on our public lands, helping them withstand the challenges of climate change and environmental threats like invasive species, and making sure they continue to provide services to the American people for decades to come.”&nbsp;</p>
+<p>Here is what President Truman said in his <a href="https://www.trumanlibrary.gov/library/public-papers/118/special-message-congress-transmitting-reorganization-plan-3-1946">“Special Message to the Congress Transmitting Reorganization Plan 3 of 1946,”</a> explaining the rationale for merging the two agencies:<br>
+<br>
+<em>The General Land Office and the Grazing Service now divide responsibility for major portion of the multiple-use Federally owned lands now held by the Department of the Interior. The lands under jurisdiction of the two agencies are comparable in character and in use. In some functions, the two agencies employ the same type of personnel and use the same techniques. Other functions are divided between the agencies so that both are engaged in management of various aspects of the same land. Consolidating these two agencies will permit the development of uniform policies and the integration of two organizations whose responsibilities now overlap. Integration of the activities of the two agencies will make possible greater utilization and thus more economic use of expert skills.</em></p>
 
-<p>“The Interior Department is ensuring our public lands are managed with an eye to future generations, complementing President Biden’s ambitious conservation agenda,” said <strong>White House Council on Environmental Quality Chair Brenda Mallory</strong>. “From the most rugged backcountry spots to popular close-to-home recreation areas, these reforms will help deliver cleaner water, healthier lands, abundant wildlife, and more recreation opportunities for all of us.”&nbsp;</p>
+<p>In other words, the primary purpose of merging the agencies to form the BLM was to increase efficiency. The same can be said for the reorganizations of several other federal Departments and agencies included in Reorganization Plan 3 of 1946.<strong>[1] &nbsp;</strong></p>
 
-<p>The final rule comes amid growing pressures and historic challenges facing land managers. The impacts of climate change—including prolonged drought, increasing wildfires, and an influx of invasive species—pose increasing risks to communities, wildlife and ecosystems. The Public Lands Rule will help the BLM navigate changing conditions on the ground, while helping public lands continue to serve as economic drivers across the West.&nbsp;</p>
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="9f6440fc-eb75-4b24-b046-f92afd6f58e5" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
-<p>“The BLM received and considered over 200,000 comments on the proposed rule from individuals, state, Tribal and local governments, industry groups and advocacy organizations, which led to important improvements in this final rule,” said<strong> Principal Deputy Assistant Secretary for Land and Minerals Management Dr. Steve Feldgus</strong>. “Continued broad collaboration with this diverse group of partners will be key to our implementation of this rule to ensure that our public lands are being managed for all Americans.”&nbsp;</p>
 
-<p>“Our public lands provide wildlife habitat and clean water, the energy that lights our homes, the wood we build with, and the places where we make family memories,” said <strong>BLM Director Tracy Stone-Manning</strong>. “This rule honors our obligation to current and future generations to help ensure our public lands and waters remain healthy amid growing pressures and change.”&nbsp;</p>
 
-<p>The final rule clarifies and refines concepts <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a3dbb21a-e603-4e08-ae95-812badce4d4c" href="https://www.blm.gov/press-release/interior-department-releases-proposed-plan-guide-balanced-management-public-lands" rel="noreferrer noopener" target="_blank">first proposed in April 2023</a>. The BLM provided a 90-day comment period on this rule, holding five public meetings and receiving over 200,000 comments, the vast majority of which supported the effort. In response to the substantive comments received, the BLM clarified and refined concepts laid out in the proposed rule.&nbsp;</p>
 
-<p>The final rule:&nbsp;</p>
+  
 
-<ul role="list">
-	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
-	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{92}" paraid="1845017194"><strong>Directs BLM to manage for landscape health.</strong> Successful public land management that delivers natural resources, wildlife habitat and clean water requires a thorough understanding of the health and condition of the landscape, especially as conditions shift on the ground due to climate change. To help sustain the health of our lands and waters, the rule directs the BLM to manage public land uses in accordance with the fundamentals of land health, which will help watersheds support soils, plants, and water; ecosystems provide healthy populations and communities of plants and animals; and wildlife habitats on public lands protect threatened and endangered species consistent with the multiple use and sustained yield framework.&nbsp;&nbsp;</p>
-	</li>
-	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
-	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{167}" paraid="948577800"><strong>Provides a mechanism for restoring and protecting our public lands through restoration and mitigation leases.</strong> Restoration leases provide greater clarity for the BLM to work with appropriate partners to restore degraded lands. Mitigation leases will provide a clear and consistent mechanism for developers to offset their impacts by investing in land health elsewhere on public lands, like they currently can on state and private lands. The final rule clarifies who can obtain a restoration or mitigation lease, limiting potential lessees to qualified individuals, businesses, non-governmental organizations, Tribal governments, conservation districts, or state fish and wildlife agencies. Restoration and mitigation leases will not be issued if they would conflict with existing authorized uses.&nbsp;</p>
-	</li>
-	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
-	<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{25}" paraid="2007072068"><strong>Clarifies the designation and management of ACECs. </strong>The final rule provides greater detail about how the BLM will continue to follow the direction in the Federal Land Policy and Management Act to prioritize the designation and protection of ACECs. Following public comments, the final rule clarifies how BLM consideration of new ACEC nominations and temporary management options does not interfere with the BLM’s discretion to continue advancing pending project applications.&nbsp;&nbsp;</p>
-	</li>
-</ul>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_enhancing%20efficiency_jpg.jpg?itok=vXsGdxbK" width="400" height="321" alt="Image shows sheep grazing on rangelands and standing in a road in Wyoming." typeof="foaf:Image">
 
-<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{88}" paraid="142264570">The Public Lands Rule complements the BLM’s recently announced <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy Rule</a>, providing consistent direction and new tools for mitigation, helping advance the efficient and environmentally responsible development of renewable energy on BLM-managed public lands, providing greater clarity and consistency in permitting, and allowing for the continued acceleration of project reviews and approvals, while managing public lands under the principles of multiple use and sustained yield.&nbsp;</p>
 
-<p paraeid="{d394f3eb-337f-44b5-9c1e-b8510fed2d8e}{177}" paraid="201596216">The final rule will publish in the Federal Register in the coming days.&nbsp;</p>
 </div>
       
+</div>
+</div>
+
+<figcaption>Enhancing efficiency of management of federal lands was the main driver of merging the General Land Office and the U.S. Grazing Service. President Truman’s special message to Congress transmitting Reorganization Plan 3 of 1946 explained that “Further, records relating to grazing lands can be concentrated in fewer field offices and hence administered more effectively.” (Photo Credit: BLM)</figcaption>
+</figure>
+
+
+<p>The Special Message leaves a couple of impressions on this writer.</p>
+
+<p>First, the fact that reorganizing the Federal government was on President Truman’s radar in 1946 at all seems astonishing, given domestic and international events. At the time the Special Message was transmitted, he had only been President for about one year. Truman became President, after serving for just 82 days as vice president, when President Roosevelt died in office in April 1945. World War II officially ended just eight months earlier, when Japan surrendered in September 1945. Americans were still reeling from the loss of more than 400,000 U.S. civilians and soldiers during the war and facing the reality of the “iron curtain” in Eastern Europe and the beginning of the Cold War.&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a4adff1e-0396-4cbc-9c75-b3844d48482d" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -subtitle">
-    <div><strong>Subtitle:</strong> </div>
-              <div>Public Lands Rule will help conserve wildlife habitat, restore places impacted by wildfire and drought, expand outdoor recreation, and guide thoughtful development</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_announcing%20surrender_jpg.jpg?itok=Otr1x6-g" width="640" height="512" alt="Image shows President Harry S. Truman standing at a desk and announcing the surrender of Japan to a group of reporters.  " typeof="foaf:Image">
 
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>President Harry S. Truman announcing the surrender of Japan in August 1945, just nine months before sending a Special Message to the Congress Transmitting Reorganization Plan 3 of 1946, which included the merger of the GLO and the U.S. Grazing Service to create the BLM. (Photo Credit: Harry S. Truman Library and Museum)</figcaption>
+</figure>
+
+
+<p>Second, after experiencing several agency reorganizations, the fact that the merger took effect just two months after Reorganization Plan 3 was transmitted to Congress feels like lightning speed! However, as outlined in “Opportunity and Challenge,”<strong>[2]</strong> while establishing the BLM may have been relatively quick and easy, for the next two years the agency struggled to simply survive, due to difficulties of implementing an organizational structure and securing adequate funding.</p>
+
+<p>Finally, the BLM was born of the modest goal of increasing efficiency. Never in their wildest dreams could the developers of Reorganization Plan 3 have imagined that the agency would become what is today – a steward of some of the most spectacular places on the planet, a manager of a dizzying array of natural and cultural resources, and an organization that many public land stakeholders rely upon for commercial opportunities, conservation of wild landscapes, and outdoor recreation experiences. That is worthy of reflection, and celebration, 78 years after the transmittal of Reorganization Plan 3!</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="536723eb-4bb7-4e92-951a-27889001abb2" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -fiscal-year">
-    <div><strong>Fiscal Year:</strong> </div>
-              <div>2024</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_Bob%20Wick%20Red%20Cliffs_jpg.jpg?itok=P6uVu7IK" width="640" height="426" alt="Image shows a red rock canyon with a stream running through it. " typeof="foaf:Image">
 
 
+</div>
+      
+</div>
+</div>
+
+<figcaption>The developers of Reorganization Plan 3 could not have imagined that the BLM mission would one day include conserving some of the most spectacular places on the planet, such as the Red Cliffs National Conservation Area in Utah. (Photo Credit: Bob Wick, BLM (retired))</figcaption>
+</figure>
 
 
+<p><strong>Footnotes:</strong></p>
 
-  
+<p><strong>[1]</strong> Reorganization Plan 3 also transferred jurisdiction over mineral deposits on lands held by the Department of Agriculture to the Department of the Interior.</p>
 
-  <div class="field contact-block -organization">
-    <div><strong>Organization:</strong> </div>
-              <div>Bureau of Land Management</div>
-          </div>
-
+<p><strong>[2] </strong><a href="https://www.blm.gov/sites/default/files/documents/files/opportunity%20and%20challenge.pdf">Opportunity and Challenge, The Story of BLM.</a> pp. 54-57.</p>
+</div>
+      
 
 
 
@@ -906,18 +873,6 @@ date: 2024-05-14, from: Bureau of Land Management, blog
     <div><strong>Region:</strong> </div>
           <div>
               <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
-          <div><a href="https://www.blm.gov/region/alaska" hreflang="en">Alaska</a></div>
-          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
-          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
-          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
-          <div><a href="https://www.blm.gov/region/eastern-states" hreflang="en">Eastern States</a></div>
-          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
-          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
-          <div><a href="https://www.blm.gov/region/nevada" hreflang="en">Nevada</a></div>
-          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
-          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
-          <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
-          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
               </div>
       </div>
 
@@ -927,13 +882,12 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -tag">
-    <div><strong>Tag:</strong> </div>
-          <div>
-              <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
-          <div><a href="https://www.blm.gov/tag/rule" hreflang="en">Rule</a></div>
-              </div>
-      </div>
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/history" hreflang="en">History</a></div>
+                </div>
+  </div>
 
 
 
@@ -941,22 +895,10 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -contact">
-    <div><strong>Contact:</strong> </div>
-          <div>
-              <div>
-
-  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-  <div class="field contact-block -label">
-    <div><strong>Name:</strong> </div>
-              <div>Interior Press</div>
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-05-16T12:00:00Z">Thu, 05/16/2024 - 12:00 pm UTC</time>
+</div>
           </div>
 
 
@@ -965,15 +907,21 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -email">
-    <div><strong>Email:</strong> </div>
-              <div>Interior_Press@ios.doi.gov</div>
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/national-office" hreflang="en">National Office</a></div>
           </div>
 
-      </div>
-</div>
-              </div>
-      </div>
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48093/edit" hreflang="en">Announcing surrender</a></div>
+          </div>
 
 
 
@@ -981,32 +929,25 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -related-content">
-    <div><strong>Related Content:</strong> </div>
-          <div>
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
               <div>
-
-  <div class="paragraph paragraph--type--wysiwyg paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-            <div class="field contact-block -summary"><ul>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="4f604006-b8a9-43b5-90cf-2d3b0b90baa4" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_general-factsheet_508.pdf">General Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="f99f8a1f-ea7f-4ce4-ac83-edc5dc658672" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_ACEC_508.pdf">ACECs Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="008578b3-f5b3-4581-9395-a4618a37bfde" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Land%20Health_508.pdf">Land Health Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="970f5162-0030-46fc-8e45-5068eb4379ab" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Restoration%20and%20Mitigation%20Leases_508.pdf">Restoration &amp; Mitigation Leases Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="6e15f147-5842-44e9-816b-d9e37a75eec1" href="https://www.blm.gov/sites/default/files/docs/2024-04/BLM-Final-Public-Land-Rule-Infographic.pdf">Infographic</a></li>
-</ul>
-</div>
-      
-      </div>
-</div>
-              </div>
-      </div>
+                    <div><a href="https://www.blm.gov/tag/history" hreflang="en">History</a></div>
+                    </div>
+          </div>
+  </div>
 
 
 
@@ -1019,7 +960,18 @@ date: 2024-05-14, from: Bureau of Land Management, blog
           <div>
               <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
               </div>
-      </div> 
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/41208/edit" hreflang="en">White Mountains NRA northern lights campout by Bob Wick</a></div>
+          </div> 
 
 <https://www.blm.gov/blog/2024-05-14/ohana-binds-us-together>
 
@@ -1029,7 +981,7 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
 date: 2024-05-14, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/biden-harris-administration-finalizes-strategy-guide-balanced-management-conservation" hreflang="en">Biden-Harris Administration finalizes strategy to guide balanced management, conservation of public lands</a></h2></div>
+<div class="field contact-block -title"><h1>The beginning of BLM: How 486 words created the nation’s largest land manager</h1></div>
       
 
 
@@ -1037,30 +989,10 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Publication Date:</strong> </div>
-              <div><time datetime="2024-04-18T12:00:00Z">Thu, 04/18/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/yssRQ8Z0nu8?si=bfjOBNEDwtaqQDwF" title="Public Lands Rule"></iframe></div>
-
-<p>&nbsp;</p>
-
-<p><strong>WASHINGTON – </strong>The Department of the Interior today announced a final rule to help guide the balanced management of America’s public lands. The <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="876a3ccf-e418-402c-80b0-a400b77c8e92" href="https://www.blm.gov/public-lands-rule" rel="noreferrer noopener" target="_blank">final Public Lands Rule</a> provides tools for the Bureau of Land Management (BLM) to help improve the health and resilience of public lands in the face of a changing climate; conserve important wildlife habitat and intact landscapes; facilitate responsible development; and better recognize unique cultural and natural resources on public lands.&nbsp;</p>
-
-<p>The Public Lands Rule builds on historic investments in public lands, waters and clean energy deployment provided by <a href="https://www.doi.gov/investing-america" rel="noreferrer noopener" target="_blank">President Biden’s Investing in America agenda</a>, which recognizes the critical value of our public lands to all Americans. It also complements the President’s <em><a href="https://www.doi.gov/priorities/america-the-beautiful" rel="noreferrer noopener" target="_blank">America the Beautiful</a></em> initiative, a 10-year, locally led and nationally scaled effort to protect, conserve, connect and restore the lands, waters and wildlife upon which we all depend.&nbsp;</p>
-
-<p>Building on decades of land management experience and emphasizing the use of science and data, including Indigenous Knowledge, to guide balanced decision-making, the rule applies the existing fundamentals of land health across BLM programs, establishes restoration and mitigation leases, and clarifies practices to designate and protect Areas of Critical Environmental Concern (ACECs). The rule will help to ensure the BLM continues to protect land health while managing other uses of the public lands, such as clean energy development and outdoor recreation.&nbsp;&nbsp;</p>
+            <div class="field contact-block -body"><p>Today is an important one in the history of the Bureau of Land Management (BLM). On May 16, 1946—78 years ago—the agency was conceived on paper, when President Harry S. Truman submitted to Congress “Reorganization Plan 3.” The plan included the proposal to merge the General Land Office and the U.S. Grazing Service to create one agency. Fast forward 78 years and our day-to-day activities are quite busy addressing proposals to construct renewable energy projects, improving recreation sites, responding to wildfires, and conducting all of the other work required to care for 245 million surface acres. That’s about one in every ten acres of the United States, not to mention the 30 percent of the Nation’s minerals we manage on behalf of the American people.</p>
 
 <figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="77b0b3f1-9f20-446b-a9c1-308a0a194612" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="49dfa03b-88ac-4b47-b98f-fc3e58ab60d0" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -1069,7 +1001,7 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-05/Cosumnes_large.jpg?itok=c5z08u7f" width="640" height="282" alt="Duck fly over a wetland" typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_01.png?itok=b8K4KaJ-" width="426" height="530" alt="Image shows a round logo with five men holding tools depicting various functions of the BLM, including mining and livestock grazing management and cadastral survey. " typeof="foaf:Image">
 
 
 </div>
@@ -1077,76 +1009,99 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>The Cosumnes River Preserve is home to California’s largest remaining valley oak riparian forest, and is one of the few protected wetland habitat areas in the state.. Photo by John Ciccarelli, BLM.</figcaption>
+<figcaption>The new BLM logo unveiled in 1946</figcaption>
 </figure>
 
 
-<p>“As stewards of America’s public lands, the Interior Department takes seriously our role in helping bolster landscape resilience in the face of worsening climate impacts. Today’s final rule helps restore balance to our public lands as we continue using the best-available science to restore habitats, guide strategic and responsible development, and sustain our public lands for generations to come,” <strong>said Secretary Deb Haaland</strong>. “Complemented with historic investments from President Biden’s Investing in America agenda, we are implementing enduring changes that will benefit wildlife, communities and habitats.”&nbsp;&nbsp;</p>
+<p>When President Truman issued this simple reorganization plan, it consisted of only 486 words regarding the proposed merger. That merger took effect three months later—on July 16, 1946—and set in motion the process to create an agency that today manages more public land than any other federal government agency in the U.S. This action dissolved the General Land Office, which got its start more than 130 years earlier, in 1812. It also dissolved the U.S. Grazing Service, which had existed for just 12 years, since 1934.</p>
 
-<p>“America’s public lands are our national treasures and need to be managed and made resilient for future generations of Americans,” said <strong>John Podesta, Senior Advisor to the President for International Climate Policy</strong>. “Today’s final rule from the Department of the Interior is a huge win for ensuring balance on our public lands, helping them withstand the challenges of climate change and environmental threats like invasive species, and making sure they continue to provide services to the American people for decades to come.”&nbsp;</p>
+<p>Here is what President Truman said in his <a href="https://www.trumanlibrary.gov/library/public-papers/118/special-message-congress-transmitting-reorganization-plan-3-1946">“Special Message to the Congress Transmitting Reorganization Plan 3 of 1946,”</a> explaining the rationale for merging the two agencies:<br>
+<br>
+<em>The General Land Office and the Grazing Service now divide responsibility for major portion of the multiple-use Federally owned lands now held by the Department of the Interior. The lands under jurisdiction of the two agencies are comparable in character and in use. In some functions, the two agencies employ the same type of personnel and use the same techniques. Other functions are divided between the agencies so that both are engaged in management of various aspects of the same land. Consolidating these two agencies will permit the development of uniform policies and the integration of two organizations whose responsibilities now overlap. Integration of the activities of the two agencies will make possible greater utilization and thus more economic use of expert skills.</em></p>
 
-<p>“The Interior Department is ensuring our public lands are managed with an eye to future generations, complementing President Biden’s ambitious conservation agenda,” said <strong>White House Council on Environmental Quality Chair Brenda Mallory</strong>. “From the most rugged backcountry spots to popular close-to-home recreation areas, these reforms will help deliver cleaner water, healthier lands, abundant wildlife, and more recreation opportunities for all of us.”&nbsp;</p>
+<p>In other words, the primary purpose of merging the agencies to form the BLM was to increase efficiency. The same can be said for the reorganizations of several other federal Departments and agencies included in Reorganization Plan 3 of 1946.<strong>[1] &nbsp;</strong></p>
 
-<p>The final rule comes amid growing pressures and historic challenges facing land managers. The impacts of climate change—including prolonged drought, increasing wildfires, and an influx of invasive species—pose increasing risks to communities, wildlife and ecosystems. The Public Lands Rule will help the BLM navigate changing conditions on the ground, while helping public lands continue to serve as economic drivers across the West.&nbsp;</p>
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="9f6440fc-eb75-4b24-b046-f92afd6f58e5" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
-<p>“The BLM received and considered over 200,000 comments on the proposed rule from individuals, state, Tribal and local governments, industry groups and advocacy organizations, which led to important improvements in this final rule,” said<strong> Principal Deputy Assistant Secretary for Land and Minerals Management Dr. Steve Feldgus</strong>. “Continued broad collaboration with this diverse group of partners will be key to our implementation of this rule to ensure that our public lands are being managed for all Americans.”&nbsp;</p>
 
-<p>“Our public lands provide wildlife habitat and clean water, the energy that lights our homes, the wood we build with, and the places where we make family memories,” said <strong>BLM Director Tracy Stone-Manning</strong>. “This rule honors our obligation to current and future generations to help ensure our public lands and waters remain healthy amid growing pressures and change.”&nbsp;</p>
 
-<p>The final rule clarifies and refines concepts <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a3dbb21a-e603-4e08-ae95-812badce4d4c" href="https://www.blm.gov/press-release/interior-department-releases-proposed-plan-guide-balanced-management-public-lands" rel="noreferrer noopener" target="_blank">first proposed in April 2023</a>. The BLM provided a 90-day comment period on this rule, holding five public meetings and receiving over 200,000 comments, the vast majority of which supported the effort. In response to the substantive comments received, the BLM clarified and refined concepts laid out in the proposed rule.&nbsp;</p>
 
-<p>The final rule:&nbsp;</p>
+  
 
-<ul role="list">
-	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
-	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{92}" paraid="1845017194"><strong>Directs BLM to manage for landscape health.</strong> Successful public land management that delivers natural resources, wildlife habitat and clean water requires a thorough understanding of the health and condition of the landscape, especially as conditions shift on the ground due to climate change. To help sustain the health of our lands and waters, the rule directs the BLM to manage public land uses in accordance with the fundamentals of land health, which will help watersheds support soils, plants, and water; ecosystems provide healthy populations and communities of plants and animals; and wildlife habitats on public lands protect threatened and endangered species consistent with the multiple use and sustained yield framework.&nbsp;&nbsp;</p>
-	</li>
-	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
-	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{167}" paraid="948577800"><strong>Provides a mechanism for restoring and protecting our public lands through restoration and mitigation leases.</strong> Restoration leases provide greater clarity for the BLM to work with appropriate partners to restore degraded lands. Mitigation leases will provide a clear and consistent mechanism for developers to offset their impacts by investing in land health elsewhere on public lands, like they currently can on state and private lands. The final rule clarifies who can obtain a restoration or mitigation lease, limiting potential lessees to qualified individuals, businesses, non-governmental organizations, Tribal governments, conservation districts, or state fish and wildlife agencies. Restoration and mitigation leases will not be issued if they would conflict with existing authorized uses.&nbsp;</p>
-	</li>
-	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
-	<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{25}" paraid="2007072068"><strong>Clarifies the designation and management of ACECs. </strong>The final rule provides greater detail about how the BLM will continue to follow the direction in the Federal Land Policy and Management Act to prioritize the designation and protection of ACECs. Following public comments, the final rule clarifies how BLM consideration of new ACEC nominations and temporary management options does not interfere with the BLM’s discretion to continue advancing pending project applications.&nbsp;&nbsp;</p>
-	</li>
-</ul>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_enhancing%20efficiency_jpg.jpg?itok=vXsGdxbK" width="400" height="321" alt="Image shows sheep grazing on rangelands and standing in a road in Wyoming." typeof="foaf:Image">
 
-<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{88}" paraid="142264570">The Public Lands Rule complements the BLM’s recently announced <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy Rule</a>, providing consistent direction and new tools for mitigation, helping advance the efficient and environmentally responsible development of renewable energy on BLM-managed public lands, providing greater clarity and consistency in permitting, and allowing for the continued acceleration of project reviews and approvals, while managing public lands under the principles of multiple use and sustained yield.&nbsp;</p>
 
-<p paraeid="{d394f3eb-337f-44b5-9c1e-b8510fed2d8e}{177}" paraid="201596216">The final rule will publish in the Federal Register in the coming days.&nbsp;</p>
 </div>
       
+</div>
+</div>
+
+<figcaption>Enhancing efficiency of management of federal lands was the main driver of merging the General Land Office and the U.S. Grazing Service. President Truman’s special message to Congress transmitting Reorganization Plan 3 of 1946 explained that “Further, records relating to grazing lands can be concentrated in fewer field offices and hence administered more effectively.” (Photo Credit: BLM)</figcaption>
+</figure>
+
+
+<p>The Special Message leaves a couple of impressions on this writer.</p>
+
+<p>First, the fact that reorganizing the Federal government was on President Truman’s radar in 1946 at all seems astonishing, given domestic and international events. At the time the Special Message was transmitted, he had only been President for about one year. Truman became President, after serving for just 82 days as vice president, when President Roosevelt died in office in April 1945. World War II officially ended just eight months earlier, when Japan surrendered in September 1945. Americans were still reeling from the loss of more than 400,000 U.S. civilians and soldiers during the war and facing the reality of the “iron curtain” in Eastern Europe and the beginning of the Cold War.&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a4adff1e-0396-4cbc-9c75-b3844d48482d" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -subtitle">
-    <div><strong>Subtitle:</strong> </div>
-              <div>Public Lands Rule will help conserve wildlife habitat, restore places impacted by wildfire and drought, expand outdoor recreation, and guide thoughtful development</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_announcing%20surrender_jpg.jpg?itok=Otr1x6-g" width="640" height="512" alt="Image shows President Harry S. Truman standing at a desk and announcing the surrender of Japan to a group of reporters.  " typeof="foaf:Image">
 
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>President Harry S. Truman announcing the surrender of Japan in August 1945, just nine months before sending a Special Message to the Congress Transmitting Reorganization Plan 3 of 1946, which included the merger of the GLO and the U.S. Grazing Service to create the BLM. (Photo Credit: Harry S. Truman Library and Museum)</figcaption>
+</figure>
+
+
+<p>Second, after experiencing several agency reorganizations, the fact that the merger took effect just two months after Reorganization Plan 3 was transmitted to Congress feels like lightning speed! However, as outlined in “Opportunity and Challenge,”<strong>[2]</strong> while establishing the BLM may have been relatively quick and easy, for the next two years the agency struggled to simply survive, due to difficulties of implementing an organizational structure and securing adequate funding.</p>
+
+<p>Finally, the BLM was born of the modest goal of increasing efficiency. Never in their wildest dreams could the developers of Reorganization Plan 3 have imagined that the agency would become what is today – a steward of some of the most spectacular places on the planet, a manager of a dizzying array of natural and cultural resources, and an organization that many public land stakeholders rely upon for commercial opportunities, conservation of wild landscapes, and outdoor recreation experiences. That is worthy of reflection, and celebration, 78 years after the transmittal of Reorganization Plan 3!</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="536723eb-4bb7-4e92-951a-27889001abb2" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -fiscal-year">
-    <div><strong>Fiscal Year:</strong> </div>
-              <div>2024</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_Bob%20Wick%20Red%20Cliffs_jpg.jpg?itok=P6uVu7IK" width="640" height="426" alt="Image shows a red rock canyon with a stream running through it. " typeof="foaf:Image">
 
 
+</div>
+      
+</div>
+</div>
+
+<figcaption>The developers of Reorganization Plan 3 could not have imagined that the BLM mission would one day include conserving some of the most spectacular places on the planet, such as the Red Cliffs National Conservation Area in Utah. (Photo Credit: Bob Wick, BLM (retired))</figcaption>
+</figure>
 
 
+<p><strong>Footnotes:</strong></p>
 
-  
+<p><strong>[1]</strong> Reorganization Plan 3 also transferred jurisdiction over mineral deposits on lands held by the Department of Agriculture to the Department of the Interior.</p>
 
-  <div class="field contact-block -organization">
-    <div><strong>Organization:</strong> </div>
-              <div>Bureau of Land Management</div>
-          </div>
-
+<p><strong>[2] </strong><a href="https://www.blm.gov/sites/default/files/documents/files/opportunity%20and%20challenge.pdf">Opportunity and Challenge, The Story of BLM.</a> pp. 54-57.</p>
+</div>
+      
 
 
 
@@ -1157,18 +1112,6 @@ date: 2024-05-14, from: Bureau of Land Management, blog
     <div><strong>Region:</strong> </div>
           <div>
               <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
-          <div><a href="https://www.blm.gov/region/alaska" hreflang="en">Alaska</a></div>
-          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
-          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
-          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
-          <div><a href="https://www.blm.gov/region/eastern-states" hreflang="en">Eastern States</a></div>
-          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
-          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
-          <div><a href="https://www.blm.gov/region/nevada" hreflang="en">Nevada</a></div>
-          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
-          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
-          <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
-          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
               </div>
       </div>
 
@@ -1178,13 +1121,12 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -tag">
-    <div><strong>Tag:</strong> </div>
-          <div>
-              <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
-          <div><a href="https://www.blm.gov/tag/rule" hreflang="en">Rule</a></div>
-              </div>
-      </div>
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/history" hreflang="en">History</a></div>
+                </div>
+  </div>
 
 
 
@@ -1192,22 +1134,10 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -contact">
-    <div><strong>Contact:</strong> </div>
-          <div>
-              <div>
-
-  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-  <div class="field contact-block -label">
-    <div><strong>Name:</strong> </div>
-              <div>Interior Press</div>
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-05-16T12:00:00Z">Thu, 05/16/2024 - 12:00 pm UTC</time>
+</div>
           </div>
 
 
@@ -1216,15 +1146,21 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -email">
-    <div><strong>Email:</strong> </div>
-              <div>Interior_Press@ios.doi.gov</div>
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/national-office" hreflang="en">National Office</a></div>
           </div>
 
-      </div>
-</div>
-              </div>
-      </div>
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48093/edit" hreflang="en">Announcing surrender</a></div>
+          </div>
 
 
 
@@ -1232,32 +1168,25 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -related-content">
-    <div><strong>Related Content:</strong> </div>
-          <div>
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
               <div>
-
-  <div class="paragraph paragraph--type--wysiwyg paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-            <div class="field contact-block -summary"><ul>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="4f604006-b8a9-43b5-90cf-2d3b0b90baa4" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_general-factsheet_508.pdf">General Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="f99f8a1f-ea7f-4ce4-ac83-edc5dc658672" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_ACEC_508.pdf">ACECs Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="008578b3-f5b3-4581-9395-a4618a37bfde" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Land%20Health_508.pdf">Land Health Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="970f5162-0030-46fc-8e45-5068eb4379ab" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Restoration%20and%20Mitigation%20Leases_508.pdf">Restoration &amp; Mitigation Leases Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="6e15f147-5842-44e9-816b-d9e37a75eec1" href="https://www.blm.gov/sites/default/files/docs/2024-04/BLM-Final-Public-Land-Rule-Infographic.pdf">Infographic</a></li>
-</ul>
-</div>
-      
-      </div>
-</div>
-              </div>
-      </div>
+                    <div><a href="https://www.blm.gov/tag/history" hreflang="en">History</a></div>
+                    </div>
+          </div>
+  </div>
 
 
 
@@ -1270,7 +1199,18 @@ date: 2024-05-14, from: Bureau of Land Management, blog
           <div>
               <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
               </div>
-      </div> 
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/41208/edit" hreflang="en">White Mountains NRA northern lights campout by Bob Wick</a></div>
+          </div> 
 
 <https://www.blm.gov/blog/2024-05-14/gaoa-project-makes-remote-badlands-more-accessible-all>
 
@@ -1280,7 +1220,7 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
 date: 2024-05-14, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/biden-harris-administration-finalizes-strategy-guide-balanced-management-conservation" hreflang="en">Biden-Harris Administration finalizes strategy to guide balanced management, conservation of public lands</a></h2></div>
+<div class="field contact-block -title"><h1>The beginning of BLM: How 486 words created the nation’s largest land manager</h1></div>
       
 
 
@@ -1288,30 +1228,10 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Publication Date:</strong> </div>
-              <div><time datetime="2024-04-18T12:00:00Z">Thu, 04/18/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/yssRQ8Z0nu8?si=bfjOBNEDwtaqQDwF" title="Public Lands Rule"></iframe></div>
-
-<p>&nbsp;</p>
-
-<p><strong>WASHINGTON – </strong>The Department of the Interior today announced a final rule to help guide the balanced management of America’s public lands. The <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="876a3ccf-e418-402c-80b0-a400b77c8e92" href="https://www.blm.gov/public-lands-rule" rel="noreferrer noopener" target="_blank">final Public Lands Rule</a> provides tools for the Bureau of Land Management (BLM) to help improve the health and resilience of public lands in the face of a changing climate; conserve important wildlife habitat and intact landscapes; facilitate responsible development; and better recognize unique cultural and natural resources on public lands.&nbsp;</p>
-
-<p>The Public Lands Rule builds on historic investments in public lands, waters and clean energy deployment provided by <a href="https://www.doi.gov/investing-america" rel="noreferrer noopener" target="_blank">President Biden’s Investing in America agenda</a>, which recognizes the critical value of our public lands to all Americans. It also complements the President’s <em><a href="https://www.doi.gov/priorities/america-the-beautiful" rel="noreferrer noopener" target="_blank">America the Beautiful</a></em> initiative, a 10-year, locally led and nationally scaled effort to protect, conserve, connect and restore the lands, waters and wildlife upon which we all depend.&nbsp;</p>
-
-<p>Building on decades of land management experience and emphasizing the use of science and data, including Indigenous Knowledge, to guide balanced decision-making, the rule applies the existing fundamentals of land health across BLM programs, establishes restoration and mitigation leases, and clarifies practices to designate and protect Areas of Critical Environmental Concern (ACECs). The rule will help to ensure the BLM continues to protect land health while managing other uses of the public lands, such as clean energy development and outdoor recreation.&nbsp;&nbsp;</p>
+            <div class="field contact-block -body"><p>Today is an important one in the history of the Bureau of Land Management (BLM). On May 16, 1946—78 years ago—the agency was conceived on paper, when President Harry S. Truman submitted to Congress “Reorganization Plan 3.” The plan included the proposal to merge the General Land Office and the U.S. Grazing Service to create one agency. Fast forward 78 years and our day-to-day activities are quite busy addressing proposals to construct renewable energy projects, improving recreation sites, responding to wildfires, and conducting all of the other work required to care for 245 million surface acres. That’s about one in every ten acres of the United States, not to mention the 30 percent of the Nation’s minerals we manage on behalf of the American people.</p>
 
 <figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="77b0b3f1-9f20-446b-a9c1-308a0a194612" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="49dfa03b-88ac-4b47-b98f-fc3e58ab60d0" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -1320,7 +1240,7 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-05/Cosumnes_large.jpg?itok=c5z08u7f" width="640" height="282" alt="Duck fly over a wetland" typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_01.png?itok=b8K4KaJ-" width="426" height="530" alt="Image shows a round logo with five men holding tools depicting various functions of the BLM, including mining and livestock grazing management and cadastral survey. " typeof="foaf:Image">
 
 
 </div>
@@ -1328,76 +1248,99 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>The Cosumnes River Preserve is home to California’s largest remaining valley oak riparian forest, and is one of the few protected wetland habitat areas in the state.. Photo by John Ciccarelli, BLM.</figcaption>
+<figcaption>The new BLM logo unveiled in 1946</figcaption>
 </figure>
 
 
-<p>“As stewards of America’s public lands, the Interior Department takes seriously our role in helping bolster landscape resilience in the face of worsening climate impacts. Today’s final rule helps restore balance to our public lands as we continue using the best-available science to restore habitats, guide strategic and responsible development, and sustain our public lands for generations to come,” <strong>said Secretary Deb Haaland</strong>. “Complemented with historic investments from President Biden’s Investing in America agenda, we are implementing enduring changes that will benefit wildlife, communities and habitats.”&nbsp;&nbsp;</p>
+<p>When President Truman issued this simple reorganization plan, it consisted of only 486 words regarding the proposed merger. That merger took effect three months later—on July 16, 1946—and set in motion the process to create an agency that today manages more public land than any other federal government agency in the U.S. This action dissolved the General Land Office, which got its start more than 130 years earlier, in 1812. It also dissolved the U.S. Grazing Service, which had existed for just 12 years, since 1934.</p>
 
-<p>“America’s public lands are our national treasures and need to be managed and made resilient for future generations of Americans,” said <strong>John Podesta, Senior Advisor to the President for International Climate Policy</strong>. “Today’s final rule from the Department of the Interior is a huge win for ensuring balance on our public lands, helping them withstand the challenges of climate change and environmental threats like invasive species, and making sure they continue to provide services to the American people for decades to come.”&nbsp;</p>
+<p>Here is what President Truman said in his <a href="https://www.trumanlibrary.gov/library/public-papers/118/special-message-congress-transmitting-reorganization-plan-3-1946">“Special Message to the Congress Transmitting Reorganization Plan 3 of 1946,”</a> explaining the rationale for merging the two agencies:<br>
+<br>
+<em>The General Land Office and the Grazing Service now divide responsibility for major portion of the multiple-use Federally owned lands now held by the Department of the Interior. The lands under jurisdiction of the two agencies are comparable in character and in use. In some functions, the two agencies employ the same type of personnel and use the same techniques. Other functions are divided between the agencies so that both are engaged in management of various aspects of the same land. Consolidating these two agencies will permit the development of uniform policies and the integration of two organizations whose responsibilities now overlap. Integration of the activities of the two agencies will make possible greater utilization and thus more economic use of expert skills.</em></p>
 
-<p>“The Interior Department is ensuring our public lands are managed with an eye to future generations, complementing President Biden’s ambitious conservation agenda,” said <strong>White House Council on Environmental Quality Chair Brenda Mallory</strong>. “From the most rugged backcountry spots to popular close-to-home recreation areas, these reforms will help deliver cleaner water, healthier lands, abundant wildlife, and more recreation opportunities for all of us.”&nbsp;</p>
+<p>In other words, the primary purpose of merging the agencies to form the BLM was to increase efficiency. The same can be said for the reorganizations of several other federal Departments and agencies included in Reorganization Plan 3 of 1946.<strong>[1] &nbsp;</strong></p>
 
-<p>The final rule comes amid growing pressures and historic challenges facing land managers. The impacts of climate change—including prolonged drought, increasing wildfires, and an influx of invasive species—pose increasing risks to communities, wildlife and ecosystems. The Public Lands Rule will help the BLM navigate changing conditions on the ground, while helping public lands continue to serve as economic drivers across the West.&nbsp;</p>
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="9f6440fc-eb75-4b24-b046-f92afd6f58e5" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
-<p>“The BLM received and considered over 200,000 comments on the proposed rule from individuals, state, Tribal and local governments, industry groups and advocacy organizations, which led to important improvements in this final rule,” said<strong> Principal Deputy Assistant Secretary for Land and Minerals Management Dr. Steve Feldgus</strong>. “Continued broad collaboration with this diverse group of partners will be key to our implementation of this rule to ensure that our public lands are being managed for all Americans.”&nbsp;</p>
 
-<p>“Our public lands provide wildlife habitat and clean water, the energy that lights our homes, the wood we build with, and the places where we make family memories,” said <strong>BLM Director Tracy Stone-Manning</strong>. “This rule honors our obligation to current and future generations to help ensure our public lands and waters remain healthy amid growing pressures and change.”&nbsp;</p>
 
-<p>The final rule clarifies and refines concepts <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a3dbb21a-e603-4e08-ae95-812badce4d4c" href="https://www.blm.gov/press-release/interior-department-releases-proposed-plan-guide-balanced-management-public-lands" rel="noreferrer noopener" target="_blank">first proposed in April 2023</a>. The BLM provided a 90-day comment period on this rule, holding five public meetings and receiving over 200,000 comments, the vast majority of which supported the effort. In response to the substantive comments received, the BLM clarified and refined concepts laid out in the proposed rule.&nbsp;</p>
 
-<p>The final rule:&nbsp;</p>
+  
 
-<ul role="list">
-	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
-	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{92}" paraid="1845017194"><strong>Directs BLM to manage for landscape health.</strong> Successful public land management that delivers natural resources, wildlife habitat and clean water requires a thorough understanding of the health and condition of the landscape, especially as conditions shift on the ground due to climate change. To help sustain the health of our lands and waters, the rule directs the BLM to manage public land uses in accordance with the fundamentals of land health, which will help watersheds support soils, plants, and water; ecosystems provide healthy populations and communities of plants and animals; and wildlife habitats on public lands protect threatened and endangered species consistent with the multiple use and sustained yield framework.&nbsp;&nbsp;</p>
-	</li>
-	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
-	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{167}" paraid="948577800"><strong>Provides a mechanism for restoring and protecting our public lands through restoration and mitigation leases.</strong> Restoration leases provide greater clarity for the BLM to work with appropriate partners to restore degraded lands. Mitigation leases will provide a clear and consistent mechanism for developers to offset their impacts by investing in land health elsewhere on public lands, like they currently can on state and private lands. The final rule clarifies who can obtain a restoration or mitigation lease, limiting potential lessees to qualified individuals, businesses, non-governmental organizations, Tribal governments, conservation districts, or state fish and wildlife agencies. Restoration and mitigation leases will not be issued if they would conflict with existing authorized uses.&nbsp;</p>
-	</li>
-	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
-	<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{25}" paraid="2007072068"><strong>Clarifies the designation and management of ACECs. </strong>The final rule provides greater detail about how the BLM will continue to follow the direction in the Federal Land Policy and Management Act to prioritize the designation and protection of ACECs. Following public comments, the final rule clarifies how BLM consideration of new ACEC nominations and temporary management options does not interfere with the BLM’s discretion to continue advancing pending project applications.&nbsp;&nbsp;</p>
-	</li>
-</ul>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_enhancing%20efficiency_jpg.jpg?itok=vXsGdxbK" width="400" height="321" alt="Image shows sheep grazing on rangelands and standing in a road in Wyoming." typeof="foaf:Image">
 
-<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{88}" paraid="142264570">The Public Lands Rule complements the BLM’s recently announced <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy Rule</a>, providing consistent direction and new tools for mitigation, helping advance the efficient and environmentally responsible development of renewable energy on BLM-managed public lands, providing greater clarity and consistency in permitting, and allowing for the continued acceleration of project reviews and approvals, while managing public lands under the principles of multiple use and sustained yield.&nbsp;</p>
 
-<p paraeid="{d394f3eb-337f-44b5-9c1e-b8510fed2d8e}{177}" paraid="201596216">The final rule will publish in the Federal Register in the coming days.&nbsp;</p>
 </div>
       
+</div>
+</div>
+
+<figcaption>Enhancing efficiency of management of federal lands was the main driver of merging the General Land Office and the U.S. Grazing Service. President Truman’s special message to Congress transmitting Reorganization Plan 3 of 1946 explained that “Further, records relating to grazing lands can be concentrated in fewer field offices and hence administered more effectively.” (Photo Credit: BLM)</figcaption>
+</figure>
+
+
+<p>The Special Message leaves a couple of impressions on this writer.</p>
+
+<p>First, the fact that reorganizing the Federal government was on President Truman’s radar in 1946 at all seems astonishing, given domestic and international events. At the time the Special Message was transmitted, he had only been President for about one year. Truman became President, after serving for just 82 days as vice president, when President Roosevelt died in office in April 1945. World War II officially ended just eight months earlier, when Japan surrendered in September 1945. Americans were still reeling from the loss of more than 400,000 U.S. civilians and soldiers during the war and facing the reality of the “iron curtain” in Eastern Europe and the beginning of the Cold War.&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a4adff1e-0396-4cbc-9c75-b3844d48482d" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -subtitle">
-    <div><strong>Subtitle:</strong> </div>
-              <div>Public Lands Rule will help conserve wildlife habitat, restore places impacted by wildfire and drought, expand outdoor recreation, and guide thoughtful development</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_announcing%20surrender_jpg.jpg?itok=Otr1x6-g" width="640" height="512" alt="Image shows President Harry S. Truman standing at a desk and announcing the surrender of Japan to a group of reporters.  " typeof="foaf:Image">
 
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>President Harry S. Truman announcing the surrender of Japan in August 1945, just nine months before sending a Special Message to the Congress Transmitting Reorganization Plan 3 of 1946, which included the merger of the GLO and the U.S. Grazing Service to create the BLM. (Photo Credit: Harry S. Truman Library and Museum)</figcaption>
+</figure>
+
+
+<p>Second, after experiencing several agency reorganizations, the fact that the merger took effect just two months after Reorganization Plan 3 was transmitted to Congress feels like lightning speed! However, as outlined in “Opportunity and Challenge,”<strong>[2]</strong> while establishing the BLM may have been relatively quick and easy, for the next two years the agency struggled to simply survive, due to difficulties of implementing an organizational structure and securing adequate funding.</p>
+
+<p>Finally, the BLM was born of the modest goal of increasing efficiency. Never in their wildest dreams could the developers of Reorganization Plan 3 have imagined that the agency would become what is today – a steward of some of the most spectacular places on the planet, a manager of a dizzying array of natural and cultural resources, and an organization that many public land stakeholders rely upon for commercial opportunities, conservation of wild landscapes, and outdoor recreation experiences. That is worthy of reflection, and celebration, 78 years after the transmittal of Reorganization Plan 3!</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="536723eb-4bb7-4e92-951a-27889001abb2" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -fiscal-year">
-    <div><strong>Fiscal Year:</strong> </div>
-              <div>2024</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/NAT_BLM%20reorg%20Blog_Bob%20Wick%20Red%20Cliffs_jpg.jpg?itok=P6uVu7IK" width="640" height="426" alt="Image shows a red rock canyon with a stream running through it. " typeof="foaf:Image">
 
 
+</div>
+      
+</div>
+</div>
+
+<figcaption>The developers of Reorganization Plan 3 could not have imagined that the BLM mission would one day include conserving some of the most spectacular places on the planet, such as the Red Cliffs National Conservation Area in Utah. (Photo Credit: Bob Wick, BLM (retired))</figcaption>
+</figure>
 
 
+<p><strong>Footnotes:</strong></p>
 
-  
+<p><strong>[1]</strong> Reorganization Plan 3 also transferred jurisdiction over mineral deposits on lands held by the Department of Agriculture to the Department of the Interior.</p>
 
-  <div class="field contact-block -organization">
-    <div><strong>Organization:</strong> </div>
-              <div>Bureau of Land Management</div>
-          </div>
-
+<p><strong>[2] </strong><a href="https://www.blm.gov/sites/default/files/documents/files/opportunity%20and%20challenge.pdf">Opportunity and Challenge, The Story of BLM.</a> pp. 54-57.</p>
+</div>
+      
 
 
 
@@ -1408,18 +1351,6 @@ date: 2024-05-14, from: Bureau of Land Management, blog
     <div><strong>Region:</strong> </div>
           <div>
               <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
-          <div><a href="https://www.blm.gov/region/alaska" hreflang="en">Alaska</a></div>
-          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
-          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
-          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
-          <div><a href="https://www.blm.gov/region/eastern-states" hreflang="en">Eastern States</a></div>
-          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
-          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
-          <div><a href="https://www.blm.gov/region/nevada" hreflang="en">Nevada</a></div>
-          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
-          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
-          <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
-          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
               </div>
       </div>
 
@@ -1429,13 +1360,12 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -tag">
-    <div><strong>Tag:</strong> </div>
-          <div>
-              <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
-          <div><a href="https://www.blm.gov/tag/rule" hreflang="en">Rule</a></div>
-              </div>
-      </div>
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/history" hreflang="en">History</a></div>
+                </div>
+  </div>
 
 
 
@@ -1443,22 +1373,10 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -contact">
-    <div><strong>Contact:</strong> </div>
-          <div>
-              <div>
-
-  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-  <div class="field contact-block -label">
-    <div><strong>Name:</strong> </div>
-              <div>Interior Press</div>
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-05-16T12:00:00Z">Thu, 05/16/2024 - 12:00 pm UTC</time>
+</div>
           </div>
 
 
@@ -1467,15 +1385,21 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -email">
-    <div><strong>Email:</strong> </div>
-              <div>Interior_Press@ios.doi.gov</div>
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/national-office" hreflang="en">National Office</a></div>
           </div>
 
-      </div>
-</div>
-              </div>
-      </div>
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48093/edit" hreflang="en">Announcing surrender</a></div>
+          </div>
 
 
 
@@ -1483,32 +1407,25 @@ date: 2024-05-14, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -related-content">
-    <div><strong>Related Content:</strong> </div>
-          <div>
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
               <div>
-
-  <div class="paragraph paragraph--type--wysiwyg paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-            <div class="field contact-block -summary"><ul>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="4f604006-b8a9-43b5-90cf-2d3b0b90baa4" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_general-factsheet_508.pdf">General Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="f99f8a1f-ea7f-4ce4-ac83-edc5dc658672" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_ACEC_508.pdf">ACECs Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="008578b3-f5b3-4581-9395-a4618a37bfde" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Land%20Health_508.pdf">Land Health Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="970f5162-0030-46fc-8e45-5068eb4379ab" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Restoration%20and%20Mitigation%20Leases_508.pdf">Restoration &amp; Mitigation Leases Fact Sheet</a>&nbsp;</li>
-	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="6e15f147-5842-44e9-816b-d9e37a75eec1" href="https://www.blm.gov/sites/default/files/docs/2024-04/BLM-Final-Public-Land-Rule-Infographic.pdf">Infographic</a></li>
-</ul>
-</div>
-      
-      </div>
-</div>
-              </div>
-      </div>
+                    <div><a href="https://www.blm.gov/tag/history" hreflang="en">History</a></div>
+                    </div>
+          </div>
+  </div>
 
 
 
@@ -1521,7 +1438,18 @@ date: 2024-05-14, from: Bureau of Land Management, blog
           <div>
               <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
               </div>
-      </div> 
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/41208/edit" hreflang="en">White Mountains NRA northern lights campout by Bob Wick</a></div>
+          </div> 
 
 <https://www.blm.gov/blog/2024-05-14/greater-sage-grouse-proposed-special-management>
 

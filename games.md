@@ -1,11 +1,61 @@
 ---
 title: games 2024.20
-updated: 2024-05-17 08:45:19
+updated: 2024-05-17 10:40:40
 ---
 
 # games 2024.20
 
-(date: 2024-05-17 08:45:19)
+(date: 2024-05-17 10:40:40)
+
+---
+
+## X-Men ’97 wasn’t about superheroes, it was about people
+
+date: 2024-05-17, updated: 2024-05-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24158520/x-men-97-season-1-review>
+
+---
+
+## How to respec in Elden Ring
+
+date: 2024-05-17, updated: 2024-05-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-guide-walkthrough/24159048/how-to-respec-rennala-location>
+
+---
+
+## The 30 best movies on Netflix right now
+
+date: 2024-05-17, updated: 2024-05-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/21266801/best-movies-on-netflix>
+
+---
+
+## My favorite part of Mad Max: Fury Road is the circus
+
+date: 2024-05-17, updated: 2024-05-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24158351/mad-max-fury-road-rock-riders>
+
+---
+
+## The Nintendo World Championships: NES Edition Switch game calls back one of Nintendo’s coolest events
+
+date: 2024-05-17, updated: 2024-05-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/nintendo/24159010/nintendo-world-championships-nes-edition-deluxe-set-buy>
 
 ---
 

@@ -230,7 +230,13 @@ https://www.ccc.de/de/rss/updates.xml "~Chaos Computer Club" curl/8.5.0 (rsdoiel
 https://xeiaso.net/blog.rss "~Ze Iaso's blog"
 
 #
-# Operating Systems
+# Tool Kits
+#
+https://www.fltk.org/fltk-rss.xml "~Fast Light Tool Kit"
+https://fyne.io/feed.xml "~Fyne Toolkit"
+
+#
+# Operating Systems and Tool Kits
 #
 https://reactos.org/index.xml "~ReactOS News"
 https://www.redox-os.org/news/index.xml "~Redox OS News"

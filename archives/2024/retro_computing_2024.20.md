@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.20
-updated: 2024-05-17 08:45:19
+updated: 2024-05-17 10:40:41
 ---
 
 # retro computing 2024.20
 
-(date: 2024-05-17 08:45:19)
+(date: 2024-05-17 10:40:41)
+
+---
+
+## Riven
+
+date: 2024-05-17, from: Digital Antiquarian
+
+Sometimes success smacks you right in the face. More often, it sneaks up on you from behind. In September of 1993, the brothers Rand and Robyn Miller and the few other employees of Cyan, Inc., were prototypical starving artists, living on &#8220;rice and beans and government cheese.&#8221; That month they saw Brøderbund publish their esoteric [&#8230;] 
+
+<https://www.filfre.net/2024/05/riven/>
+
+---
+
+## Rougol May 2024 meeting on monday with Andy Vawer
+
+date: 2024-05-17, from: Icon Bar, RISC OS News
+
+The May 2024 Rougol meeting on Monday 15th January sees Andy Vawer (RISCOS Developments coder) talking about the different projects he has been working on (Iris, PinBoard, etc). 
+
+<http://www.iconbar.com/comments/rss/news2057.html>
 
 ---
 

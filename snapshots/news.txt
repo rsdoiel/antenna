@@ -1,11 +1,17 @@
 #
-# Corporate blogs
+# Unsorted feeds
 #
-https://blueskyweb.xyz/rss.xml "~Bluesky web news"
-
-#
-# SoCal North's feeds.
-#
+https://infrequently.org/feed/ "~Infrequently (Alex Russell on browsers, standards ...)"
+https://www.brain-dump.org/index.xml "~Marc André Tanner blog (creator of vis editor)"
+https://blog.gtk.org/feed/ "~Gtk Developer blog"
+https://feeds.feedburner.com/stavrosstuff "Stavros Stuff"
+https://confinedkitchen.blogspot.com/feeds/posts/default "~The Confined Kitchen blog"
+#http://neilstechdocs.blogspot.com/feeds/posts/defaults "~Neils Jefferies Tech Docs"
+https://leanrada.com/rss.xml "~Lean Rada's blog"
+https://inkdroid.org/feed.xml "~Ed Summers blog, Inkdroid"
+http://www.enlightenmenteconomics.com/blog/index.php/feed/ "~Enlightenment Economics"
+https://jan.bio/rss.xml "~Jan Schreiber's blog (ncgopher)"
+https://xeiaso.net/blog.rss "~Ze Iaso's blog"
 http://blog.bloonface.com/feed/ "~Bloonface Blog"
 http://civiewnews.com/feed/ "~CI View (CSCI Student Paper)"
 https://www.digitalrhetoriccollaborative.org/feed/ "~Digital Humanities Quarterly News"
@@ -261,6 +267,8 @@ https://wilw.dev/feeds "~Wil Webberly blog"
 # Old Vintage Computing Research appears to be written by the maintainer of Floodgap Gopher site
 https://oldvcr.blogspot.com/feeds/posts/default?alt=rss "~Old Ventage Computing Research"
 https://werd.io/feed/ "~Ben Werdmuller's blog"
+https://www.fltk.org/fltk-rss.xml "~Fast Light Tool Kit"
+https://fyne.io/feed.xml "~Fyne Toolkit"
 
 #
 # News, Current Events, Journalism and Opinion
@@ -399,22 +407,6 @@ https://electrek.co/feed/ "~Electrek Feed" curl/8.5.0 (rsdoiel@gmail.com, rsdoie
 #
 https://benhoyt.com/writings/rss.xml "~Ben Hoyt, Technical Writing"
 
-#
-# To be sorted
-#
-https://infrequently.org/feed/ "~Infrequently (Alex Russell on browsers, standards ...)"
-https://www.brain-dump.org/index.xml "~Marc André Tanner blog (creator of vis editor)"
-https://blog.gtk.org/feed/ "~Gtk Developer blog"
-https://feeds.feedburner.com/stavrosstuff "Stavros Stuff"
-https://confinedkitchen.blogspot.com/feeds/posts/default "~The Confined Kitchen blog"
-#http://neilstechdocs.blogspot.com/feeds/posts/defaults "~Neils Jefferies Tech Docs"
-
-https://leanrada.com/rss.xml "~Lean Rada's blog"
-https://inkdroid.org/feed.xml "~Ed Summers blog, Inkdroid"
-http://www.enlightenmenteconomics.com/blog/index.php/feed/ "~Enlightenment Economics"
-https://jan.bio/rss.xml "~Jan Schreiber's blog (ncgopher)"
-https://xeiaso.net/blog.rss "~Ze Iaso's blog"
-
 # Operating Systems
 https://reactos.org/index.xml "~ReactOS News"
 https://www.redox-os.org/news/index.xml "~Redox OS News"
@@ -423,3 +415,9 @@ https://progtools.org/rss.php "~Programmer's Toolbox (Paolo Pinto's blog)"
 # theology and comp sci
 
 https://www.coreystephan.com/feed/ "~Corey Stephan blog"
+
+#
+# Corporate blogs
+#
+https://blueskyweb.xyz/rss.xml "~Bluesky web news"
+

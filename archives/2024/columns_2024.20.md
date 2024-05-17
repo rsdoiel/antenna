@@ -1,11 +1,73 @@
 ---
 title: columns 2024.20
-updated: 2024-05-17 08:45:19
+updated: 2024-05-17 10:40:40
 ---
 
 # columns 2024.20
 
-(date: 2024-05-17 08:45:19)
+(date: 2024-05-17 10:40:40)
+
+---
+
+##  The History of Tetris World Records 
+
+date: 2024-05-17, updated: 2024-05-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/the-history-of-tetris-world-records>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-17, from: Dave Winer's Scripting News)
+
+Wouldn't it be great if there was a social web toolkit with the basic building blocks so we could experiment with different UI and behaviors. Why, after so many years are we still so controlled. When and why did we give up? 
+
+<http://scripting.com/2024/05/17.html#a164545>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-17, from: Dave Winer's Scripting News)
+
+People get all moral about AI, but I for one would never go back. 
+
+<http://scripting.com/2024/05/17.html#a164217>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-17, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=XQ3XNtdzSFA">That's the way god planned it</a>. 
+
+<http://scripting.com/2024/05/17.html#a162904>
+
+---
+
+##  &#8220;A [2022] report adds to a growing line of research showing that... 
+
+date: 2024-05-17, updated: 2024-05-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044641-a-2022-report-adds-to>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-17, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/17/orange.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">On MSNBC yesterday I saw a discussion where two black panelists were asked to comment on Trump's idea that black people go for him because they can relate to his awful prison mug shot. How incredibly insulting. It's just like what Trump says about Jewish Americans being loyal to Israel. Such an un-American idea. We all got here different ways. Some for a better life, some for life at all, others as slaves. But the United States is a big-hearted idea -- the <i>United</i> States. It's unfortunate that such a small-minded <i>dis</i>united person is so powerful now. We still have a long way to go. 
+
+<http://scripting.com/2024/05/17.html#a161950>
+
+---
+
+##  Here&#8217;s something that I believe without any evidence to back it up:... 
+
+date: 2024-05-17, updated: 2024-05-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044640-heres-something-that-i-be>
 
 ---
 
