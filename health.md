@@ -1,11 +1,51 @@
 ---
 title: health 2024.20
-updated: 2024-05-16 10:36:14
+updated: 2024-05-17 08:45:19
 ---
 
 # health 2024.20
 
-(date: 2024-05-16 10:36:14)
+(date: 2024-05-17 08:45:19)
+
+---
+
+## Comparative analysis of oropharyngeal microbiota in healthcare workers post-COVID-19
+
+date: 2024-05-17, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundTo date, more than 770 million individuals have become coronavirus disease 2019 (COVID-19) convalescents worldwide. Emerging evidence highlights the influence of COVID-19 on the oral microbiome during both acute and convalescent disease phases. Front-line healthcare workers are at an elevated risk of exposure to viral infections, and the effects of COVID-19 on their oral microbiome remain relatively unexplored.MethodsOropharyngeal swab specimens, collected one month after a negative COVID-19 test from a cohort comprising 55 healthcare workers, underwent 16S rRNA sequencing. We conducted a comparative analysis between this post-COVID-19 cohort and the pre-infection dataset from the same participants. Community composition analysis, indicator species analysis, alpha diversity assessment, beta diversity exploration, and functional prediction were evaluated.ResultsThe Shannon and Simpson indexes of the oral microbial community declined significantly in the post-COVID-19 group when compared with the pre-infection cohort. Moreover, there was clear intergroup clustering between the two groups. In the post-COVID-19 group, the phylum Firmicutes showed a significant increase. Further, there were clear differences in relative abundance of several bacterial genera in contrast with the pre-infection group, including Streptococcus, Gemella, Granulicatella, Capnocytophaga, Leptotrichia, Fusobacterium, and Prevotella. We identified Gemella enrichment in the post-COVID-19 group, potentially serving as a recovery period performance indicator. Functional prediction revealed lipopolysaccharide biosynthesis downregulation in the post-COVID-19 group, an outcome with host inflammatory response modulation and innate defence mechanism implications.ConclusionDuring the recovery phase of COVID-19, the oral microbiome diversity of front-line healthcare workers failed to fully return to its pre-infection state. Despite the negative COVID-19 test result one month later, notable disparities persisted in the composition and functional attributes of the oral microbiota. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1347345>
+
+---
+
+## Plasmodium vivax spleen-dependent protein 1 and its role in extracellular vesicles-mediated intrasplenic infections
+
+date: 2024-05-17, from: Frontiers in Cellular and Infection Microbiology
+
+Recent studies indicate that human spleen contains over 95% of the total parasite biomass during chronic asymptomatic infections caused by Plasmodium vivax. Previous studies have demonstrated that extracellular vesicles (EVs) secreted from infected reticulocytes facilitate binding to human spleen fibroblasts (hSFs) and identified parasite genes whose expression was dependent on an intact spleen. Here, we characterize the P. vivax spleen-dependent hypothetical gene (PVX_114580). Using CRISPR/Cas9, PVX_114580 was integrated into P. falciparum 3D7 genome and expressed during asexual stages. Immunofluorescence analysis demonstrated that the protein, which we named P. vivax Spleen-Dependent Protein 1 (PvSDP1), was located at the surface of infected red blood cells in the transgenic line and this localization was later confirmed in natural infections. Plasma-derived EVs from P. vivax-infected individuals (PvEVs) significantly increased cytoadherence of 3D7_PvSDP1 transgenic line to hSFs and this binding was inhibited by anti-PvSDP1 antibodies. Single-cell RNAseq of PvEVs-treated hSFs revealed increased expression of adhesion-related genes. These findings demonstrate the importance of parasite spleen-dependent genes and EVs from natural infections in the formation of intrasplenic niches in P. vivax, a major challenge for malaria elimination. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1408451>
+
+---
+
+## Toxoplasma gondii chitinase-like protein TgCLP1 regulates the parasite cyst burden
+
+date: 2024-05-17, from: Frontiers in Cellular and Infection Microbiology
+
+Toxoplasma, an important intracellular parasite of humans and animals, causes life-threatening toxoplasmosis in immunocompromised individuals. Although Toxoplasma secretory proteins during acute infection (tachyzoite, which divides rapidly and causes inflammation) have been extensively characterized, those involved in chronic infection (bradyzoite, which divides slowly and is surrounded by a cyst wall) remain uncertain. Regulation of the cyst wall is essential to the parasite life cycle, and polysaccharides, such as chitin, in the cyst wall are necessary to sustain latent infection. Toxoplasma secretory proteins during the bradyzoite stage may have important roles in regulating the cyst wall via polysaccharides. Here, we focused on characterizing the hypothetical T. gondii chitinase, chitinase-like protein 1 (TgCLP1). We found that the chitinase-like domain containing TgCLP1 is partially present in the bradyzoite microneme and confirmed, albeit partially, its previous identification in the tachyzoite microneme. Furthermore, although parasites lacking TgCLP1 could convert from tachyzoites to bradyzoites and make an intact cyst wall, they failed to convert from bradyzoites to tachyzoites, indicating that TgCLP1 is necessary for bradyzoite reactivation. Taken together, our findings deepen our understanding of the molecular basis of recrudescence and could contribute to the development of novel strategies for the control of toxoplasmosis. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1359888>
+
+---
+
+## Systematic review of literature to evaluate global distribution of species of the Sporothrix genus stored in culture collections
+
+date: 2024-05-17, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionSporotrichosis is a subcutaneous mycosis caused by fungi of the genus Sporothrix sp. Phenotypic and genotypic differences have been associated with their geographic distribution, virulence, or clinical manifestation of sporotrichosis. In the past decade, the interest in identifying species of the Sporothrix sp. has been increasing, due to its epidemiological importance and, in consequence, is important to know how to preserve them for future studies, in culture collection.AimsThe purposes of this study were to analyze the global distribution of environmental isolates and/or causal agents of sporotrichosis identified by polyphasic taxonomy, with mandatory use of molecular identification, and to evaluate the percentages and distribution of isolates stored in culture collections.MethodsA systematic review of articles on animal and human sporotrichosis and/or environmental isolation of the fungus, from 2007 to 2023, was done. Results: Our results demonstrated that, S. globosa, S. schenckii, and S. brasiliensis were the most identified species. With respect to the deposit and maintenance of species, we observed that only 17% of the strains of Sporothrix sp. isolated in the world are preserved in a culture collection.ConclusionsThis systematic review confirmed a difficulty in obtaining the frequency of Sporothrix species stored in culture collection and insufficient data on the molecular identification mainly of animal sporotrichosis and isolation of Sporothrix sp. in environmental samples. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1382508>
 
 ---
 

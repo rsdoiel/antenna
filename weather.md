@@ -1,11 +1,224 @@
 ---
 title: weather 2024.20
-updated: 2024-05-16 10:36:13
+updated: 2024-05-17 08:45:19
 ---
 
 # weather 2024.20
 
-(date: 2024-05-16 10:36:13)
+(date: 2024-05-17 08:45:19)
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-05-17, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Fri, 17 May 2024 15:36:50 GMT 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## SPC - No watches are valid as of Fri May 17 14:02:01 UTC 2024
+
+date: 2024-05-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri May 17 14:02:01 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Fri May 17 14:02:01 UTC 2024
+
+date: 2024-05-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Fri May 17 14:02:01 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC May 17, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-05-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0758 AM CDT Fri May 17 2024
+
+Valid 171300Z - 181200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS OVER PARTS OF THE
+SOUTHEAST...AND PARTS OF THE NORTHERN PLAINS...
+
+...SUMMARY...
+Severe thunderstorms may impact parts of the central into eastern
+Gulf Coast states and portions of the northern Great Plains this
+afternoon through tonight.
+
+...Synopsis...
+In mid/upper levels, a progressive, split-flow pattern will shift
+eastward across the CONUS.  In the northern stream, a complex trough
+over western Canada and the U.S Pacific Northwest should evolve
+gradually to a closed cyclone over central parts of AB and SK by the
+end of the period.  A basal perturbation -- evident in moisture-
+channel imagery over WA -- will move eastward to western ND by 12Z
+tomorrow.  This feature will be preceded by 9-12 hours along a
+similar path, by a weaker (yet still influential) shortwave trough
+now over the northern Rockies.  This perturbation should reach
+western ND at or shortly before 00Z.
+
+The main pattern split occurs around the northwest side of a
+separate shortwave trough -- extending initially from the Mid-South
+west-southwestward across the Red River region of southern OK/north
+TX, then southwestward over the Big Bend region.  This trough should
+shed its northeastern portion, lose some positive tilt, and reach
+near a LIT-TXK-ALI line by 12Z.  A strong belt of west-southwesterly
+mid/upper winds will extend from the northwestern Gulf and east TX
+across much of the Southeast.  This flow field will host numerous
+small-scale vorticity maxima (some convectively induced/magnified).
+
+At the surface, 11Z analysis showed a wavy, quasistationary frontal
+zone extending from just off the SC coast across central FL, to the
+northeastern Gulf, where it has been overtaken by an MCS and
+accompanying outflow extending to just off the MS coastline.  The
+front was evident again from a weak low near ARA southwestward over
+the mid/upper TX coastal waters to between MFE-LRD.  The western
+segment of this boundary should move southeastward through the
+remainder of deep south TX by mid/late afternoon.  Meanwhile, the
+front-reinforcing outflow boundary from the MCS should move
+northward to northeastward and inland today, gradually becoming more
+diffuse amidst a broad, ambient, low-level theta-e advection regime.
+
+...Southeastern CONUS...
+Ongoing convection capable of isolated severe potential includes:
+1.  A long-lived MCS/bow echo moving east-southeastward from the
+northeastern Gulf/Apalachee Bay region across coastal northwestern
+FL, mainly moving over relatively stable surface air along and north
+of the front.  This complex may penetrate strong to isolated severe
+gusts to the surface the next 1-2 hours before weakening.  See SPC
+mesoscale discussion 813 for near-term details. 
+2.  Isolated to scattered thunderstorms, elevated atop the cold pool
+from the northeastern Gulf complex, with potential for isolated
+severe hail for a few more hours.
+
+Thunderstorms in the expanding warm sector, and along the front,
+should pose a risk for a few tornadoes, along with large hail and
+severe gusts, this afternoon into tonight.  The main uncertainty at
+this time is coverage, and by which preferred mechanism the greatest
+lift will occur (related concepts).  Warm-frontal passage and
+diurnal heating will combine to destabilize the airmass inland from
+southwest-northeast today, with upper 60s to mid 70s F surface
+dewpoints.  This will yield MLCAPE in the 2000-3500 J/kg range,
+beneath 45-60 kt effective-shear magnitudes, once surface-based
+parcels are attained.  A more-focused area of severe potential may
+develop within the lengthy corridor outlooked, particularly near the
+inland-shifting baroclinic zone where low-level shear should be
+maximized.  However, mesoscale uncertainties are still too large to
+introduce greater unconditional severe probabilities at this time.
+
+...Northern Plains...
+Scattered, high-based thunderstorms are expected to develop this
+afternoon over the Bighorns and perhaps farther northward/
+northeastward over the Plains of southeastern MT.  Activity then
+should sweep east-northeastward across the northern Great Plains
+into the eastern Dakotas and perhaps northwestern MN tonight before
+weakening.  Along that swath, one or more clusters of cold-pool-
+driven convection are possible, offering severe gusts.
+
+A deep, well-mixed subcloud layer will support locally intense
+downdrafts, which may also include downward momentum transfer from
+strong midlevel winds, and which should be the most common in and
+near the 15%/"slight" probabilities.  Surface dewpoints initially
+analyzed in the 40s to low 50s across the region should lower to the
+mid/upper 30s and 40s today, as diurnal heating and mixing reduce
+boundary-layer moisture content.  Nonetheless, steep low/middle-
+level lapse rates will be fostered by the approaching shortwave
+perturbation and surface heating.  Meanwhile, remaining moisture
+will support surface-based buoyancy across much of the area, with
+MLCAPE 200-700 J/kg being common.  At least loosely organized cold
+pools should drive this activity across a broad swath of the Dakotas
+before weakening tonight over or near the Red River of the North.
+
+...South TX...
+Ongoing areas of thunderstorms over south TX in the SAT-CRP-LRD
+triangle, and approaching deep south TX from adjoining MX, are
+moving generally east-northeastward across this region.  Activity
+will be capable of isolated, episodic large hail through midday,
+amid favorable deep shear and elevated buoyancy, before shifting
+east of the area.
+
+..Edwards/Goss.. 05/17/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2024-05-17, from: Eastern Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ABPZ20 KNHC 171139<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 500 AM PDT Fri May 17 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ South of the Coast of Southwestern Mexico:<br />
+ An area of low pressure located several hundred miles offshore of <br />
+ the coast of southwestern Mexico continues to produce some <br />
+ disorganized showers and thunderstorms. While environmental <br />
+ conditions appear only marginally favorable due to nearby dry air, <br />
+ some development of this system is possible during the next day or <br />
+ so as the low remains nearly stationary. By late this weekend, the <br />
+ low is forecast to interact or merge with another system to its <br />
+ east, and further development is not expected.<br />
+ * Formation chance through 48 hours...low...30 percent.<br />
+ * Formation chance through 7 days...low...30 percent.<br />
+ <br />
+ South of the Coast of Southern Mexico:<br />
+ A broad area of low pressure could form several hundred miles to the <br />
+ south of southern Mexico during the next couple of days. Some slow <br />
+ development of this system is possible thereafter as it moves slowly <br />
+ to the west or west-northwest, remaining south of the coast of <br />
+ Mexico by the middle portion of next week.<br />
+ * Formation chance through 48 hours...low...near 0 percent.<br />
+ * Formation chance through 7 days...low...30 percent.<br />
+ <br />
+ $$<br />
+ Forecaster Reinhart<br />
+  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-05-17, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Fri May 17 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Reinhart<br>NNNN<br><br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
@@ -148,34 +361,6 @@ after dusk.
  
 
 <https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-05-16, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Thu May 16 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Reinhart<br>NNNN<br><br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-05-16, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Thu, 16 May 2024 17:16:36 GMT 
-
-<https://www.nhc.noaa.gov/gis/>
 
 ---
 
@@ -367,102 +552,6 @@ few cumulonimbi with maximum tops to 600. Mean storm motion vector
  
 
 <https://www.spc.noaa.gov/products/watch/ww0248.html>
-
----
-
-## SPC May 16, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-05-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0752 AM CDT Thu May 16 2024
-
-Valid 161300Z - 171200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS
-CENTRAL/EASTERN TEXAS TO SOUTHWEST LOUISIANA...
-
-...SUMMARY...
-Thunderstorms capable of large hail and damaging winds are expected
-to increase across parts of central and southeastern Texas this
-afternoon into tonight. A couple of tornadoes are also possible, and
-an organized cluster of storms might eventually evolve, accompanied
-by a more substantive risk for damaging wind gusts.
-
-...Texas/Louisiana to Lower Mississippi Valley...
-Initially, a small but well-organized cluster of storms is moving
-southeastward across North Texas early this morning. These initially
-elevated storms should grow further upscale and intensify into the
-afternoon, owing to the diurnal destabilization trends and the
-progressive interaction with a northward advance of richer low-level
-moisture via a northward-shifting maritime warm front out of south
-Texas this morning.
-
-An evolving post-frontal upslope regime and stronger/differential
-heating will likely also aid additional peripheral deep convective
-development this afternoon from portions of the Pecos and Rio Grande
-Valleys into central Texas. This is where MLCAPE may reach 2000-4000
-J/kg beneath relatively strong southwesterly mid/high-level flow.
-Deep-layer shear will be supportive of supercells, aided by veering
-with height of initially modest low-level wind fields, which are
-forecast to strengthen by this evening across central into
-southeastern Texas.
-
-Large hail and locally damaging wind gusts appear the primary severe
-threat with initial east-southeastward propagating supercells by
-late afternoon. As low-level hodographs enlarge, the risk for a
-couple of tornadoes may increase by this evening in both lingering
-supercells and upscale-growing convection. At least one prominent
-cluster may gradually evolve and organize across central into
-southeastern Texas by evening, accompanied by increasing potential
-for damaging wind gusts. These storms may persist eastward into
-Louisiana and other areas of the Gulf Coast through late tonight as
-the near-coastal boundary shifts northward.
-
-...Ozarks/Middle Mississippi Valley...
-Potentially aided by a weak MCV, a sizable cluster/corridor of
-thunderstorms is ongoing across the Ozarks early this morning. This
-convection and related cloud cover will largely tend to hinder warm
-sector destabilization. However, stronger heating/moderate
-destabilization could eventually occur later this afternoon on the
-southern fringe of these remnants. Scattered thunderstorms would
-likely redevelop and intensify by late afternoon. A belt of
-moderately strong mid-level westerlies (45+ kt) would support some
-supercells and more prevalent multicells, with the potential for
-large hail and damaging winds, and possibly a tornado.
-
-...Parts of Wisconsin/northern Illinois/eastern Iowa...
-Preceding a shortwave trough overspreading Minnesota toward Lake
-Superior, a semi-moist warm sector, with upper 50s/some lower 60s F
-surface dewpoints, will become established ahead of an
-east/southeast-moving cold front. Thunderstorms should
-develop/intensify this afternoon to the south-southwest of residual
-early day precipitation and cloud cover, with MLCAPE potentially
-exceeding 1000 J/kg. Low/mid-tropospheric winds will remain somewhat
-weak, but enough to support multicells potentially capable of hail
-and locally damaging winds.
-
-...Southern Florida...
-Although the primary mid-level wave and associated convection has
-shifted eastward offshore, thunderstorms may redevelop and intensify
-through the diurnal heating cycle along/south of the residual front,
-enhanced by the east coast sea breeze. Even as mid-level heights
-begin to rise, mid-level temperatures will remain cool (-10 to -11C
-at 500 mb) with steep mid-level lapse rates, in the presence of
-strong deep-layer wind profiles. While any severe storms should
-remain isolated, these profiles could support a supercell or two and
-sustained multicells capable of large hail and locally damaging
-winds, especially across the southeast Florida Peninsula.
-
-..Guyer/Dean.. 05/16/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
@@ -869,16 +958,6 @@ Elevated highlights given the presence of dry fuels.
  
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## SPC - No MDs are in effect as of Wed May 15 15:30:11 UTC 2024
-
-date: 2024-05-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Wed May 15 15:30:11 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 

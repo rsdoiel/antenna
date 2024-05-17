@@ -1,11 +1,930 @@
 ---
 title: socal north 2024.20
-updated: 2024-05-16 10:36:13
+updated: 2024-05-17 08:45:18
 ---
 
 # socal north 2024.20
 
-(date: 2024-05-16 10:36:13)
+(date: 2024-05-17 08:45:18)
+
+---
+
+## Elly de La Cruz llega a 30 bases robadas en un juego histórico ante los Dodgers
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Elly De La Cruz es el líder en bases robadas de Las Mayores y proyecta a terminar con más de 100 estafadas para el final de la temporada, número que no se alcanza desde la temporada 1987 
+
+<https://laopinion.com/2024/05/17/elly-de-la-cruz-llega-a-30-bases-robadas-en-un-juego-historico-ante-los-dodgers/>
+
+---
+
+## Caltech Protests for Palestine
+
+date: 2024-05-17, from: California Tech (Caltech Student Newspaper)
+
+On Monday, April 29th, there were two on campus demonstrations for Palestine. 
+
+<https://tech.caltech.edu/2024/05/17/caltech-protests-for-palestine/>
+
+---
+
+## Note on the Faculty Petition
+
+date: 2024-05-17, from: California Tech (Caltech Student Newspaper)
+
+In the previous issue of the Tech, we published a private letter that ~150 professors wrote to President Rosenbaum&hellip; 
+
+<https://tech.caltech.edu/2024/05/17/editorial-faculty-petition/>
+
+---
+
+## We Have, and Are Trying, To Do Better: A Response and Update to the SAT/ACT Article
+
+date: 2024-05-17, from: California Tech (Caltech Student Newspaper)
+
+On Friday, April 26th, a Tech article was released that took the undergraduate population by storm. 
+
+<https://tech.caltech.edu/2024/05/17/sat-act-article-response/>
+
+---
+
+## 'Risk' Single Review: Gracie Abrams is Back
+
+date: 2024-05-17, from: California Tech (Caltech Student Newspaper)
+
+Los Angeles native singer-songwriter Gracie Abrams released &ldquo;Risk&rdquo; on May 1, over a year since she last had new music. 
+
+<https://tech.caltech.edu/2024/05/17/risk-review-gracie-abrams/>
+
+---
+
+## Art and Photography Spotlight
+
+date: 2024-05-17, from: California Tech (Caltech Student Newspaper)
+
+From top to bottom, left to right: &ldquo;Sunset Road&rdquo; by Audrey Wong, &ldquo;Cliffside Forest&rdquo; by Juan Luchsinger, &ldquo;GDBG&rdquo; by Sophie Gershaft, Albert Huang, and Toby Thomassen, and &ldquo;Galaxy&rdquo; by Sylvia Wang. 
+
+<https://tech.caltech.edu/2024/05/17/art-and-photo-spotlight/>
+
+---
+
+## Auditions for Earth Data / The Musical
+
+date: 2024-05-17, from: California Tech (Caltech Student Newspaper)
+
+Be a part of the full production this fall! 
+
+<https://tech.caltech.edu/2024/05/17/musical-audition/>
+
+---
+
+## Blacker Hosts Gravity Falls-Themed Interhovse
+
+date: 2024-05-17, from: California Tech (Caltech Student Newspaper)
+
+&hellip;or Blinterhouse 2024: Gravity Falls. 
+
+<https://tech.caltech.edu/2024/05/17/blinterhouse/>
+
+---
+
+## Changes to Caltech's Free Speech and Expression Policy Explained
+
+date: 2024-05-17, from: California Tech (Caltech Student Newspaper)
+
+On April 26th, an email from President Rosenbaum and Provost Tirrell announced an update to Caltech&rsquo;s Free Speech and Expression Policy in response to ongoing protests over Gaza occurring in many campuses nationwide, including our neighboring UCLA. 
+
+<https://tech.caltech.edu/2024/05/17/free-speech-changes/>
+
+---
+
+## Come on, OSE isn't the bad guy
+
+date: 2024-05-17, from: California Tech (Caltech Student Newspaper)
+
+Constantly shit talking OSE lowers morale more than OSE ever could. 
+
+<https://tech.caltech.edu/2024/05/17/letter-ose/>
+
+---
+
+## Have You Ever Wanted to Ride a Miniature Train? Here is Your Chance.
+
+date: 2024-05-17, from: California Tech (Caltech Student Newspaper)
+
+You can still enjoy the trains today in Griffith or on the Disneyland Railroad in the theme parks! 
+
+<https://tech.caltech.edu/2024/05/17/miniature-train/>
+
+---
+
+## Life with a Brain Implant: Interview with clinical trial subject James Johnson
+
+date: 2024-05-17, from: California Tech (Caltech Student Newspaper)
+
+In the field of Neurotechnology, there is a lot of work being done to use brain machine interfaces to help people with motor disabilities regain lost abilities. When reading Professor Andersen&rsquo;s papers as a high schooler, I remember thinking: this is the kind of research that can help a lot of people. 
+
+<https://tech.caltech.edu/2024/05/17/life-with-brain-implant/>
+
+---
+
+## New IHC Committee Chairs and ASCIT BoD
+
+date: 2024-05-17, from: California Tech (Caltech Student Newspaper)
+
+Election results are here! 
+
+<https://tech.caltech.edu/2024/05/17/new-ihc-and-ascit/>
+
+---
+
+## Quantum Hype and the End of Half-Decent Writing in Media
+
+date: 2024-05-17, from: California Tech (Caltech Student Newspaper)
+
+The frustration with the overuse and misapplication of the term &ldquo;quantum&rdquo; in contemporary media . . . is palpable. 
+
+<https://tech.caltech.edu/2024/05/17/quantum-hype/>
+
+---
+
+## Songs to Beat the Arcade Racing Game High Score To
+
+date: 2024-05-17, from: California Tech (Caltech Student Newspaper)
+
+I guess I should start with a formal apology. I tried. I really did! But despite my best efforts to not cave into the demons telling me to go down the EDM/techno/house rabbit hole, here we are. 
+
+<https://tech.caltech.edu/2024/05/17/songs-for-arcade/>
+
+---
+
+## Student Affairs Division Reorganized; New Dean of Student Experience
+
+date: 2024-05-17, from: California Tech (Caltech Student Newspaper)
+
+Last Monday, President Rosenbaum announced a reorganization of the Student Affairs division. The changes were recommended in the final report from a Visiting Committee on Student Affairs&hellip; 
+
+<https://tech.caltech.edu/2024/05/17/student-affairs-reorganization/>
+
+---
+
+## The Avery Greenhouse Effect
+
+date: 2024-05-17, from: California Tech (Caltech Student Newspaper)
+
+The stressors of this Institution go beyond the mental. Caltech-hired landscapers have been criticized for spraying carcinogenic herbicides around graduate student housing&hellip; 
+
+<https://tech.caltech.edu/2024/05/17/avery-greenhouse/>
+
+---
+
+## The California Tech Sponsored Workout
+
+date: 2024-05-17, from: California Tech (Caltech Student Newspaper)
+
+As your friendly neighborhood former Dabney Athman, I have a great passion for trying to get people to go to the gym. As part of these efforts, I would like to give you a nice example workout. 
+
+<https://tech.caltech.edu/2024/05/17/tech-sponsored-workout/>
+
+---
+
+## The Joys of Living Off Campus
+
+date: 2024-05-17, from: California Tech (Caltech Student Newspaper)
+
+Nearly every aspect of my housing experience has been significantly improved by living off campus, and I would recommend it to everyone who is feeling even the tiniest ounce of frustration with Caltech Housing. 
+
+<https://tech.caltech.edu/2024/05/17/off-campus-joys/>
+
+---
+
+## Omar Bin Omran, el argelino que fue hallado vivo en el sótano de un vecino 26 años después de su desaparición
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Omar Bin Omran desapareció en 1990, y todo el tiempo estuvo a solo 200 metros de donde creció, en casa de un vecino 
+
+<https://laopinion.com/2024/05/17/el-hombre-que-fue-encontrado-vivo-en-el-sotano-de-un-vecino-26-anos-despues-de-su-desaparicion/>
+
+---
+
+## Votantes de poblaciones diversas, incluidas latinas, creen que conflicto en Gaza “es negativo” para EE.UU. y elecciones
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Más de 4 de cada 10 votantes de poblaciones diversas, incluidas latinas, consideran que el conflicto entre Israel y Palestina es negativo para la política y la economía global, de EE.UU. e incluso para las elecciones estadounidenses, según un sondeo de La Opinión 
+
+<https://laopinion.com/2024/05/17/votantes-de-poblaciones-diversas-incluidas-latinas-creen-que-conflicto-en-gaza-es-negativo-para-ee-uu-y-elecciones/>
+
+---
+
+## Quiénes son los testigos que EE.UU. podría presentar en el juicio contra el hijo de “El Mencho”
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Tras confirmarse que Rubén Oseguera González, alias "El Menchito", enfrentará un juicio en Estados Unidos, hay al menos 3 testigos que terminarían por hundirlo 
+
+<https://laopinion.com/2024/05/17/quienes-son-los-testigos-que-ee-uu-podria-presentar-en-el-juicio-contra-el-hijo-de-el-mencho/>
+
+---
+
+## Mariela Sánchez revela detalles sobre su reconciliación con Cristian Castro: “Siempre hay otra oportunidad”
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Luego de muchos dimes y diretes con respecto al fin de su romance, Cristian Castro y Mariela Sánchez decidieron darle una nueva oportunidad al amor y esto fue lo que la argentina reveló al respecto 
+
+<https://laopinion.com/2024/05/17/mariela-sanchez-revela-detalles-sobre-su-reconciliacion-con-cristian-castro-siempre-hay-otra-oportunidad/>
+
+---
+
+## ¿Por qué no puedo votar para la final de La Casa de los Famosos?
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+El 20 de mayo llega a su fin el programa de Telemundo y solo uno será ganador. Pero lamentablemente no todas las personas del mundo pueden votar en la final 
+
+<https://laopinion.com/2024/05/17/por-que-no-puedo-votar-para-la-final-de-la-casa-de-los-famosos/>
+
+---
+
+## David Faitelson considera que Chicharito es un estorbo para las Chivas
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Javier Hernández no ha tenido un destacado regreso a la Liga MX. Las Chivas de Guadalajara están en semifinales del balompié azteca y, para David Faitelson, Chicharito no le aporta al Rebaño Sagrado 
+
+<https://laopinion.com/2024/05/17/david-faitelson-considera-que-chicharito-es-un-estorbo-para-las-chivas/>
+
+---
+
+## Horóscopo de hoy de Mhoni Vidente, 17 de mayo de 2024
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Mhoni Vidente es una reconocida vidente, astróloga y clarividente famosa por sus acertadas predicciones y análisis en el ámbito del horóscopo, astrología y eventos mundiales. Descubre sus pronósticos y consejos sobre amor, salud, trabajo y más 
+
+<https://laopinion.com/2024/05/17/horoscopo-de-hoy-de-mhoni-vidente-17-de-mayo-de-2024/>
+
+---
+
+## Arrestan a Scottie Schffler, golfista número 1, antes de torneo de PGA por evadir tráfico
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Scotti Schefler fue sacado de su vehículo y detenido por un oficial de policía antes de entrar al Valhalla Club 
+
+<https://laopinion.com/2024/05/17/arrestan-a-scottie-schffler-golfista-numero-1-antes-de-torneo-de-pga-por-evadir-trafico/>
+
+---
+
+## Review: Guadagnino’s “Challengers:” Serving up steamy drama
+
+date: 2024-05-17, from: The Sundail (CSUN Student Newspaper)
+
+Zendaya’s newest film “Challengers” has finally been released after a delay from September 15, 2023, to April 26, 2024. The question is whether this film is a trophy-winning champion or... 
+
+<https://sundial.csun.edu/182074/arts-entertainment/review-guadagninos-challengers-serving-up-steamy-drama/>
+
+---
+
+## Las mujeres más sobreprotectoras pertenecen a estos 5 signos del zodiaco
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Descubre cuáles son las mujeres más sobreprotectoras según su signo del zodiaco. Conoce las características de estas mujeres y cómo influye su signo en su comportamiento 
+
+<https://laopinion.com/2024/05/17/las-mujeres-mas-sobreprotectoras-pertenecen-a-estos-5-signos-del-zodiaco/>
+
+---
+
+## El mexicano Ulises Dávila fue detenido por presuntos casos de apuestas
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Este viernes, Ulises Dávila fue detenido en Australia. El futbolista mexicano habría forzado amonestaciones durante los partidos de la  A-League. Las órdenes llegaban desde Sudamérica 
+
+<https://laopinion.com/2024/05/17/el-mexicano-ulises-davila-fue-detenido-por-presuntos-casos-de-apuestas/>
+
+---
+
+## Austin: el tiempo para hoy viernes 17 de mayo
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Encuentra el pronóstico meteorológico de hoy para Austin, Texas, cómo estará el tiempo y las condiciones climáticas este viernes 17 de mayo. 
+
+<https://laopinion.com/2024/05/17/austin-el-tiempo-para-hoy-viernes-17-de-mayo/>
+
+---
+
+## San Antonio, Texas: el tiempo para hoy viernes 17 de mayo
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Encuentra el pronóstico meteorológico de hoy para San Antonio, Texas, cómo estará el tiempo y las condiciones climáticas este viernes 17 de mayo. 
+
+<https://laopinion.com/2024/05/17/san-antonio-texas-el-tiempo-para-hoy-viernes-17-de-mayo/>
+
+---
+
+## Dallas: el tiempo para hoy viernes 17 de mayo
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Conoce el pronóstico del tiempo en Dallas, Texas, para hoy viernes 17 de mayo para evitar sufrir los cambios en el clima 
+
+<https://laopinion.com/2024/05/17/dallas-el-tiempo-para-hoy-viernes-17-de-mayo/>
+
+---
+
+## Houston: el tiempo para hoy viernes 17 de mayo
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Conoce el pronóstico del tiempo en Houston, Texas, para hoy viernes 17 de mayo para evitar sufrir los cambios en el clima 
+
+<https://laopinion.com/2024/05/17/houston-el-tiempo-para-hoy-viernes-17-de-mayo/>
+
+---
+
+## Pronóstico del clima en Los Ángeles para este viernes 17 de mayo
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Conoce cómo estará el tiempo en Los Ángeles, para hoy viernes 17 de mayo. Antes de salir de tu casa, descubre el pronóstico meteorológico y las condiciones climáticas más relevantes para este día. 
+
+<https://laopinion.com/2024/05/17/pronostico-del-clima-en-los-angeles-para-este-viernes-17-de-mayo/>
+
+---
+
+## El tiempo de hoy en Miami para este viernes 17 de mayo
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Conoce cómo estará el tiempo en Miami, Florida, para hoy viernes 17 de mayo. Antes de salir de tu casa, descubre el pronóstico meteorológico y las condiciones climáticas más relevantes para este día. 
+
+<https://laopinion.com/2024/05/17/el-tiempo-de-hoy-en-miami-para-este-viernes-17-de-mayo/>
+
+---
+
+## Horóscopos de hoy de Nana Calistar 17 de mayo de 2024
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Nana Calistar nos da sus predicciones para los 12 signos del Zodiaco en su horóscopo diario. Chequea lo que deparan los astros para ti este 17 de mayo de 2024. 
+
+<https://laopinion.com/2024/05/17/horoscopos-de-hoy-de-nana-calistar-17-de-mayo-de-2024/>
+
+---
+
+## ‘Bobblehead’ de Shohei Ohtani: locura en el estadio de los Dodgers por primera figura del japonés
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+La entrega del muñeco 'bobblehead' de Shohei Ohtani causó estragos en el tráfico angelino antes del partido de los Dodgers y también la mayor asistencia de fans en las pasadas cinco temporadas del equipo 
+
+<https://laopinion.com/2024/05/17/bobblehead-de-shohei-ohtani-locura-en-el-estadio-de-los-dodgers-por-primera-figura-del-japones/>
+
+---
+
+## Triste noticia: La actriz mexicana Verónica Toussaint pierde su lucha contra el cáncer
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Además de su destacada carrera como actriz en telenovelas y series de televisión, Verónica Toussaint también se desempeñó como presentadora en Imagen TV
+ 
+
+<https://laopinion.com/2024/05/17/triste-noticia-la-actriz-mexicana-veronica-toussaint-pierde-su-lucha-contra-el-cancer/>
+
+---
+
+## Monterrey no pudo con Cruz Azul, ni con las cábalas del técnico Fernando Ortiz y Rayados está contra la pared por 0-1
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Cruz Azul con su parado táctico del técnico Martín Anselmi le comió el mandado al técnico de Rayados, el argentino Fernando Ortiz, para tomar ventaja en el duelo de ida de la semifinal 
+
+<https://laopinion.com/2024/05/17/monterrey-no-pudo-con-cruz-azul-ni-con-las-cabalas-del-tecnico-fernando-ortiz-y-rayados-esta-contra-la-pared-por-0-1/>
+
+---
+
+## Evaluating Los Angeles’ flood control measures following historic winter rainfall
+
+date: 2024-05-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Downtown Los Angeles experienced one of its historically wettest months February, hitting a record 12.56 inches of rain three weeks into the month, according to the LA Daily News. 
+
+<https://dailybruin.com/2024/05/16/evaluating-los-angeles-flood-control-measures-following-historic-winter-rainfall/>
+
+---
+
+## Chepo de la Torre tan lejos y tan cerca de regresar a la Liga MX para dirigir al Puebla
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+José Manuel de la Torre se encuentra en el estira y afloja con la directiva del Puebla para ver la posibilidad de regresar a dirigir en la Liga MX 
+
+<https://laopinion.com/2024/05/17/chepo-de-la-torre-tan-lejos-y-tan-cerca-de-regresar-a-la-liga-mx-para-dirigir-al-puebla/>
+
+---
+
+## Cómo China está ayudando a Irán a sortear las sanciones internacionales
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+A pesar de las sanciones en su contra, las exportaciones de petróleo iraní alcanzaron en lo que va de 2024 su nivel más alto en seis años, con China como su principal comprador 
+
+<https://laopinion.com/2024/05/17/como-china-esta-ayudando-a-iran-a-sortear-las-sanciones-internacionales/>
+
+---
+
+## En México hay 250,000 niñas y niños en riesgo de ser reclutados por el crimen organizado
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Según ‘Reinserta’, la edad promedio en la que las bandas criminales comienzan a reclutar a la niñez está entre los 9 y los 11 años. 
+
+<https://laopinion.com/2024/05/17/mexico-hay-250-000-ninas-y-ninos-en-riesgo-ante-criminales/>
+
+---
+
+## Ying-Ying Meng remembered as kind researcher who mentored public health scholars
+
+date: 2024-05-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Ying-Ying Meng, the former director of research at the UCLA Center for Health Policy Research, died April 11. She was 68. 
+Meng, who began working at the center in 2000, also served as a senior research scientist and the co-director of the CHPR&#8217;s Chronic Disease Program. 
+
+<https://dailybruin.com/2024/05/16/ying-ying-meng-remembered-as-kind-researcher-who-mentored-public-health-scholars/>
+
+---
+
+## Editorial Cartoon: “It’s a Security Issue”
+
+date: 2024-05-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<https://dailybruin.com/2024/05/16/editorial-cartoon-its-a-security-issue/>
+
+---
+
+## Asesinan en Bogotá a Élmer Fernández, director de la cárcel La Modelo, en plena emergencia penitenciaria en Colombia
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+El coronel en retiro Élmer Fernandez había asumido el cargo hace poco más de un mes 
+
+<https://laopinion.com/2024/05/17/asesinan-en-bogota-a-elmer-fernandez-director-de-la-carcel-la-modelo-en-plena-emergencia-penitenciaria-en-colombia/>
+
+---
+
+## Sorteo de la Lotería de México: números ganadores de hoy jueves, 16 de mayo de 2024
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Echa un vistazo a los resultados en vivo de hoy jueves, 16 de mayo de 2024 de la lotería de México. Descubre los números premiados de los sorteos de Chispazo y Tris. 
+
+<https://laopinion.com/2024/05/17/sorteo-de-la-loteria-de-mexico-numeros-ganadores-de-hoy-jueves-16-de-mayo-de-2024/>
+
+---
+
+## Tren de Aragua: EE.UU. detiene en Nueva York a un miembro de la megabanda venezolana que era buscado por Perú
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Johan José Cárdenas Silva era solicitado por las autoridades peruanas por los delitos de asociación ilícita, agresión y robo con agravantes 
+
+<https://laopinion.com/2024/05/17/tren-de-aragua-ee-uu-detiene-en-nueva-york-a-un-miembro-de-la-megabanda-venezolana-que-era-buscado-por-peru/>
+
+---
+
+## ¿Es posible que a la economía de EE.UU. le esté yendo demasiado bien?
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+En la carrera por liderar la nueva economía verde, el gobierno de Biden está aumentando la deuda de Estados Unidos para invertir miles de millones de dólares en nuevas fábricas. Una jugada arriesgada que puede traer grandes beneficios, pero también grandes riesgos para EE.UU. 
+
+<https://laopinion.com/2024/05/17/es-posible-que-a-la-economia-de-ee-uu-le-este-yendo-demasiado-bien/>
+
+---
+
+## El tráfico en Monterrey retrasó el inicio de la semifinal entre Rayados vs. Cruz Azul
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Monterrey y Cruz Azul iniciaron con 15 minutos de atraso el duelo de ida de las semifinales del torneo Clausura 2024 debido al intenso tráfico en la capital regiomontana 
+
+<https://laopinion.com/2024/05/17/el-trafico-en-monterrey-retraso-el-inicio-de-la-semifinal-entre-rayados-vs-cruz-azul/>
+
+---
+
+## Senador Mitt Romney dice que Joe Biden debería haber perdonado a Donald Trump
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+El senador republicano Mitt Romney dice que si fuera presidente habría perdonado inmediatamente a Trump 
+
+<https://laopinion.com/2024/05/17/senador-mitt-romney-dice-que-joe-biden-deberia-haber-perdonado-a-donald-trump/>
+
+---
+
+## Horóscopo de hoy para Piscis del 17 mayo de 2024
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Piscis. Conoce las predicciones astrológicas del 17 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/17/horoscopo-de-hoy-para-piscis-del-17-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Acuario del 17 mayo de 2024
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Acuario. Conoce las predicciones astrológicas del 17 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/17/horoscopo-de-hoy-para-acuario-del-17-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Capricornio del 17 mayo de 2024
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Capricornio. Conoce las predicciones astrológicas del 17 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/17/horoscopo-de-hoy-para-capricornio-del-17-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Sagitario del 17 mayo de 2024
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Sagitario. Conoce las predicciones astrológicas del 17 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/17/horoscopo-de-hoy-para-sagitario-del-17-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Escorpio del 17 mayo de 2024
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Escorpio. Conoce las predicciones astrológicas del 17 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/17/horoscopo-de-hoy-para-escorpio-del-17-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Libra del 17 mayo de 2024
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Libra. Conoce las predicciones astrológicas del 17 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/17/horoscopo-de-hoy-para-libra-del-17-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Virgo del 17 mayo de 2024
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Virgo. Conoce las predicciones astrológicas del 17 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/17/horoscopo-de-hoy-para-virgo-del-17-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Leo del 17 mayo de 2024
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Leo. Conoce las predicciones astrológicas del 17 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/17/horoscopo-de-hoy-para-leo-del-17-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Cáncer del 17 mayo de 2024
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Cáncer. Conoce las predicciones astrológicas del 17 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/17/horoscopo-de-hoy-para-cancer-del-17-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Géminis del 17 mayo de 2024
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Géminis. Conoce las predicciones astrológicas del 17 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/17/horoscopo-de-hoy-para-geminis-del-17-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy para Tauro del 17 mayo de 2024
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Tauro. Conoce las predicciones astrológicas del 17 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/17/horoscopo-de-hoy-para-tauro-del-17-mayo-de-2024/>
+
+---
+
+## Manifestantes piden a Newsom que evite recortes al presupuesto que afecten a las familias
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Con un déficit de ingresos de $44,900 millones previsto para el próximo año fiscal, el gobernador ha dicho que incluirá recortes presupuestarios  
+
+<https://laopinion.com/2024/05/17/manifestantes-piden-a-newsom-que-evite-recortes-al-presupuesto-que-afecten-a-las-familias/>
+
+---
+
+## Horóscopo de hoy para Aries del 17 mayo de 2024
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Consulta el horóscopo de hoy para el signo de Aries. Conoce las predicciones astrológicas del 17 mayo de 2024 en el trabajo, la salud y el amor para este signo del zodíaco 
+
+<https://laopinion.com/2024/05/17/horoscopo-de-hoy-para-aries-del-17-mayo-de-2024/>
+
+---
+
+## Horóscopo de hoy de El Niño Prodigio 17 mayo de 2024
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+El Niño Prodigio nos da sus predicciones para los 12 signos del Zodiaco en su horóscopo del 17 mayo de 2024. Chequea lo que deparan los astros para ti 
+
+<https://laopinion.com/2024/05/17/horoscopo-de-hoy-de-el-nino-prodigio-17-mayo-de-2024/>
+
+---
+
+## Christian Nodal le pide a sus seguidores votar por Maripily en ‘La Casa de los Famosos 4’
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+El cantante mexicano publicó un video, en sus historias de Instagram, pidiendo votos para una de las finalistas de ‘La Casa de los Famosos’ 
+
+<https://laopinion.com/2024/05/16/christian-nodal-le-pide-a-sus-seguidores-votar-por-maripily-en-la-casa-de-los-famosos-4/>
+
+---
+
+## Elon Musk planea gastar una fortuna en su nuevo servicio de Inteligencia Artificial
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Elon Musk quiere impulsar el desarrollo de xAI con una inversión mil millonaria que pondría a su empresa a competir con los líderes de la industria
+ 
+
+<https://laopinion.com/2024/05/16/elon-musk-planea-gastar-una-fortuna-en-su-nuevo-servicio-de-inteligencia-artificial/>
+
+---
+
+## Policía de Irvine investiga el homicidio a balazos de conductor de UPS
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+El ataque ocurrió en la intersección de Chrysler y Bendix, en una zona industrial de Irvine; más tarde, las autoridades arrestaron al sospechoso después de un enfrentamiento en Santiago Canyon Road 
+
+<https://laopinion.com/2024/05/16/policia-de-irvine-investiga-el-homicidio-a-balazos-de-conductor-de-ups/>
+
+---
+
+## Carmen Villalobos luce su figura en un club, mientras baila sensualmente a ritmo de lambada
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Carmen Villalobos compartió un video en el que se le ve dando sus mejores pasos en la pista de baile; la colombiana está lista para el estreno del programa "Top Chef VIP", en el que funge como conductora 
+
+<https://laopinion.com/2024/05/16/carmen-villalobos-luce-su-figura-en-un-club-mientras-baila-sensualmente-a-ritmo-de-lambada/>
+
+---
+
+## Chivas con la historia de su lado en semifinales del Clásico Nacional vs. América
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+Las Chivas tendrán este sábado vs. América la ventaja de la historia de los duelos de semifinales en la liguilla del fútbol de México 
+
+<https://laopinion.com/2024/05/16/chivas-con-la-historia-de-su-lado-en-semifinales-del-clasico-nacional-vs-america/>
+
+---
+
+## Un proyecto de ley de Carolina del Norte haría ilegal el uso de mascarillas en público
+
+date: 2024-05-17, from: La Opinion (Los Angeles)
+
+El Senado de Carolina del Norte votó el miércoles siguiendo líneas partidistas para prohibir a cualquier persona usar mascarillas en público, incluso por razones de salud 
+
+<https://laopinion.com/2024/05/16/un-proyecto-de-ley-de-carolina-del-norte-haria-ilegal-el-uso-de-mascarillas-en-publico/>
+
+---
+
+## UC Regents approve acute care bed expansion at Ronald Reagan UCLA Medical Center
+
+date: 2024-05-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA Health received approval to increase the number of acute care inpatient beds in the Ronald Reagan UCLA Medical Center Wednesday.
+Under the proposal, which was agendized Item F1D, the hospital&#8217;s fourth-floor behavioral health units will be converted into general medical and surgical acute care spaces. 
+
+<https://dailybruin.com/2024/05/16/uc-regents-approve-acute-care-bed-expansion-at-ronald-reagan-ucla-medical-center/>
+
+---
+
+## UC Board of Regents debates controversial Thirty Meter Telescope at May meeting
+
+date: 2024-05-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+MERCED &#8211; The UC Board of Regents Academic and Student Affairs Committee argued about how development of the Thirty Meter Telescope would affect the Indigenous people of Hawaii during a meeting about UC-affiliated astronomy Wednesday. 
+
+<https://dailybruin.com/2024/05/16/uc-board-of-regents-debates-controversial-thirty-meter-telescope-at-may-meeting/>
+
+---
+
+## Tuition will increase for graduate programs following UC Regents meeting
+
+date: 2024-05-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 17 at 12:29 a.m.</em>
+MERCED — The UC Board of Regents Academic and Student Affairs Committee approved a proposal to increase the tuition of graduate programs Wednesday. 
+
+<https://dailybruin.com/2024/05/16/tuition-will-increase-for-graduate-programs-following-uc-regents-meeting/>
+
+---
+
+## Nakba Day demonstration at UCLA recognizes Palestinian displacement, resistance
+
+date: 2024-05-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Around 200 students and community members gathered at the base of Janss Steps on Wednesday to commemorate 76 years of Palestinian resistance.
+Nakba Day – which is May 15, the day after the 1948 Israeli Declaration of Independence – recognizes the forcible displacement of around 700,000 Palestinians during the 1948 Arab-Israeli war, according to the Associated Press. 
+
+<https://dailybruin.com/2024/05/16/nakba-day-demonstration-at-ucla-recognizes-palestinian-displacement-resistance/>
+
+---
+
+## Issue 10 – May 2024
+
+date: 2024-05-17, from: The Sundail (CSUN Student Newspaper)
+
+Letter from the Editor Staff Highlight Statistics of sentiments: How Asian Americans feel Liberating collectively: Committed to Uplifting Intersectionality Media Querencia &#8211; Cantando &#8211; Matador Marquee Persistent protection: The inventor... 
+
+<https://sundial.csun.edu/182059/print-editions/issue-10-may-2024/>
+
+---
+
+## Tori Kelly reveals creative process of new album in Grammy U’s Unwrapped series
+
+date: 2024-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 16 at 11:25 p.m.</em>
+Marking a journey of self rejuvenation, Tori Kelly unwrapped the intricacies of her self-titled album.
+Following the April 5 release of “TORI.,” the Grammy Award-winning vocalist led the debut installment of Grammy U’s new Unwrapped series. 
+
+<https://dailybruin.com/2024/05/16/tori-kelly-reveals-creative-process-of-new-album-in-grammy-us-unwrapped-series/>
+
+---
+
+## Op-ed: UC offers deceptive claims about illegality of strike in letter to union members
+
+date: 2024-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Within minutes of United Auto Workers Local 4811’s historic vote yesterday to authorize a strike against the University of California, the UC blasted out a threatening and misleading letter to all union members – teaching assistants, graduate student researchers, postdocs and academic researchers. 
+
+<https://dailybruin.com/2024/05/16/op-ed-uc-offers-deceptive-claims-about-illegality-of-strike-in-letter-to-union-members/>
+
+---
+
+## Persistent protection: The inventor of the N95 mask
+
+date: 2024-05-16, from: The Sundail (CSUN Student Newspaper)
+
+The N95 respirator mask is one of the best, most readily available methods of protecting against airborne illnesses, and its Taiwanese American inventor, Peter Tsai, has been a dedicated engineer... 
+
+<https://sundial.csun.edu/181703/print-editions/persistent-protection-the-inventor-of-the-n95-mask/>
+
+---
+
+## Lap Dog Music Group unleashes musical passion of up-and-coming student artists
+
+date: 2024-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Lap Dog Music Group is helping students find their footing in the music industry.
+Founded in 2023, Lap Dog Music Group works with artists and repertoire, music curation and artist management. 
+
+<https://dailybruin.com/2024/05/16/lap-dog-music-group-unleashes-musical-passion-of-up-and-coming-student-artists/>
+
+---
+
+## UCLA softball NCAA tournament predictions 2024
+
+date: 2024-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 17 at 12:13 a.m.</em>
+No. 6 seed UCLA softball will host the NCAA Los Angeles Regional and open play Friday against Grand Canyon for the third year in a row. 
+
+<https://dailybruin.com/2024/05/16/ucla-softball-ncaa-tournament-predictions-2024/>
+
+---
+
+## UCLA women’s golf is ready to face final challenge of the season
+
+date: 2024-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins are preparing for their final course of the season. 
+But for one, it&#8217;s a course she knows very well.
+&#8220;I have a lot of experience on this golf course &#8211; it&#8217;s right down the road from my house,&#8221; said sophomore Meghan Royal. 
+
+<https://dailybruin.com/2024/05/16/ucla-womens-golf-is-ready-to-face-final-challenge-of-the-season/>
+
+---
+
+## UC Regents unanimously appoints alumnus Janet Reilly as next chair
+
+date: 2024-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+MERCED – The UC Board of Regents appointed UCLA alumnus Janet Reilly as its next chair at a meeting Thursday.
+The board passed the appointment unanimously 12-0, approving a recommendation from its special committee on nominations. 
+
+<https://dailybruin.com/2024/05/16/uc-regents-unanimously-appoints-alumnus-janet-reilly-as-next-chair/>
+
+---
+
+## UC Regents tables discussion on Item J1 to future meeting
+
+date: 2024-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 17 at 12:21 a.m.</em>
+MERCED – The UC Board of Regents Academic and Student Affairs Committee deferred a proposal to limit University faculty from making political statements on departmental website homepages. 
+
+<https://dailybruin.com/2024/05/16/uc-regents-tables-discussion-on-item-j1-to-future-meeting/>
+
+---
+
+## UCLA director of track and field and cross country announces retirement
+
+date: 2024-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Avery Anderson was named director of both UCLA track and field and cross country in 2017,  the third act of his Bruin career.
+Seven years later, that arc is reaching its conclusion. 
+
+<https://dailybruin.com/2024/05/16/ucla-director-of-track-and-field-and-cross-country-announces-retirement/>
+
+---
+
+## UCLA track and field claims 3rd place in final Pac-12 championships
+
+date: 2024-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+More than half of the Bruins&#8217; roster  competed at the Pac-12 championships over the weekend.
+Two of them stood above their competitors.
+Led by junior Mia Kane&#8217;s first-place finish in the women&#8217;s 3000-meter steeplechase, UCLA track and field finished in third place on the women&#8217;s side and fifth place on the men&#8217;s at its final Pac-12 championships, hosted by Colorado. 
+
+<https://dailybruin.com/2024/05/16/ucla-track-and-field-claims-3rd-place-in-final-pac-12-championships/>
+
+---
+
+## Matador Marquee: Asian American films
+
+date: 2024-05-16, from: The Sundail (CSUN Student Newspaper)
+
+May is special due not only to April showers bringing May flowers, but also due to it being Asian American and Pacific Islander Heritage Month. Asian Americans have a rich... 
+
+<https://sundial.csun.edu/181644/print-editions/print-stories/matador-marquee-asian-american-films/>
+
+---
+
+## Gallery: New wave music festival Cruel World returns to LA for third year
+
+date: 2024-05-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The revival of rock classics and new anthems at the Cruel World Festival last Saturday gathered new and long-time fans for performances of iconic artists such as Duran Duran, Blondie and Interpol. 
+
+<https://dailybruin.com/2024/05/16/gallery-new-wave-music-festival-cruel-world-returns-to-la-for-third-year/>
+
+---
+
+## Bass Says Metro Board Will Push for More Police Visibility on Transit System
+
+date: 2024-05-16, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ANGELES (CNS) &#8211; Los Angeles Mayor and Metro Board of Directors Chair Karen Bass said she and other board members will introduce a motion next week calling for an [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/16/bass-says-metro-board-will-push-for-more-police-visibility-on-transit-system/">Bass Says Metro Board Will Push for More Police Visibility on Transit System</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/16/bass-says-metro-board-will-push-for-more-police-visibility-on-transit-system/>
 
 ---
 
@@ -694,7 +1613,7 @@ Hosted by the DREAM — Dreamers, Resources, Empowerment, Advocacy and Mentorshi
 
 date: 2024-05-16, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated May 15 at 7:37 p.m.</em>
+<em>This post was updated May 17 at 12:18 a.m.</em>
 United Auto Workers Local 4811 announced Wednesday that its membership voted to authorize a strike if its leadership deems it necessary. 
 
 <https://dailybruin.com/2024/05/15/united-auto-workers-local-4811-votes-to-authorize-strike/>
@@ -723,6 +1642,18 @@ The alumnus, who earned her MFA in scenic design, received a Tony Award nominati
 
 ---
 
+## After Celebrating Biden’s Protection of Molok Luyuk, What’s Next for Conservation at CNPS?
+
+date: 2024-05-15, from: California Native Plants Society
+
+<p>Three additional, ecologically rich California landscapes with deep significance to Indigenous tribes currently await national monument designation, leading us to call for "three more in 2024."</p>
+<p>The post <a href="https://www.cnps.org/uncategorized/after-celebrating-bidens-protection-of-molok-luyuk-whats-next-for-conservation-at-cnps-38509">After Celebrating Biden’s Protection of Molok Luyuk, What’s Next for Conservation at CNPS?</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/uncategorized/after-celebrating-bidens-protection-of-molok-luyuk-whats-next-for-conservation-at-cnps-38509>
+
+---
+
 ## RefineLa, Forward host pop-up thrift market to raise funds for Palestine
 
 date: 2024-05-15, from: The Daily Bruin (UCLA Student Newspaper)
@@ -746,7 +1677,7 @@ The following is the Avalon’s Sheriff’s Stations significant incidents repor
 
 ## LAUSD Budget Outlook Improves, But Financial Challenges Remain
 
-date: 2024-05-15, updated: 2024-05-15, from: The LAist
+date: 2024-05-15, updated: 2024-05-17, from: The LAist
 
 California’s deficit has increased, but K-12 schools are largely spared cuts in the governor's May revision. 
 
@@ -785,9 +1716,9 @@ Learning a second language can be hard, especially one that uses a different alp
 
 ---
 
-## UC Workers Authorize Strike Over Crackdown On Campus Protests
+## UC Workers Authorize Strike Over Crackdown On Campus Protests. What Happens Now?
 
-date: 2024-05-15, updated: 2024-05-16, from: The LAist
+date: 2024-05-15, updated: 2024-05-17, from: The LAist
 
 Among other demands, student workers and researchers want amnesty for students arrested over the past month. 
 
@@ -906,7 +1837,7 @@ Herman Carroll era buscado desde el año 2000, y el Servicio de Alguaciles de Es
 
 ---
 
-## Cantando: Asian American Songs
+## Cantando: Asian American songs
 
 date: 2024-05-15, from: The Sundail (CSUN Student Newspaper)
 
@@ -2202,7 +3133,7 @@ On May 1, the United States House of Representatives passed a legislative bill t
 
 ---
 
-## Liberating Collectively: Committed to Uplifting Intersectionality
+## Liberating collectively: Committed to uplifting intersectionality
 
 date: 2024-05-14, from: The Sundail (CSUN Student Newspaper)
 

@@ -1,11 +1,293 @@
 ---
 title: columns 2024.20
-updated: 2024-05-16 10:36:13
+updated: 2024-05-17 08:45:19
 ---
 
 # columns 2024.20
 
-(date: 2024-05-16 10:36:13)
+(date: 2024-05-17 08:45:19)
+
+---
+
+## Interviewed: my creative process
+
+date: 2024-05-17, from: Om Malik blog
+
+I write with a 100 year old pen and ink made by a company that is almost 300 years old. There is something gratifying about the technology perfected in the past, allowing me to dream about the future. I have enjoyed reading Manuel Moreale for quite a while now. When I saw his email pop up, I was &#8230; 
+
+<https://om.co/2024/05/17/interview-my-blogging-process/>
+
+---
+
+##  Whoa, classic console emulators work on Apple TV now? (In other words,... 
+
+date: 2024-05-17, updated: 2024-05-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044642-whoa-classic-console-emul>
+
+---
+
+##  Danny MacAskill Goes Mountain Biking With Friends in Scotland 
+
+date: 2024-05-17, updated: 2024-05-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/danny-macaskill-goes-mountain-biking-with-friends-in-scotland>
+
+---
+
+**@Ayjay blog** (date: 2024-05-17, from: Ayjay blog)
+
+From John Ruskin&#8217;s Fors Clavigera, Letter 7: You are to do good work, whether you live or die. It may be you will have to die; — well, men have died for their country often, yet doing her no good; be ready to die for her in doing her assured good: her, and all other [&#8230;] 
+
+<https://blog.ayjay.org/46229-2/>
+
+---
+
+## The Knicks and the Epic Fart
+
+date: 2024-05-17, from: Dave Winer's Scripting News
+
+<p>Dave to ChatGPT: I just read a news story that the Knicks won the last game in the playoffs because of an <a href="https://www.google.com/search?q=knicks+epic+fart">epic fart</a> in the locker room. Can you draw a light-hearted illustration of that event?</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/05/17/epicFart1.png"></center>Version 1</div></p>
+<p>Then I asked for a serious and dramatic illustration.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/05/17/epicFart2.png"></center>Version 2</div></p>
+<p>I imagine you can bet on who the farter was. </p>
+<p>My guess would be <a href="https://en.wikipedia.org/wiki/Isaiah_Hartenstein">Hartenstein</a>. </p>
+ 
+
+<http://scripting.com/2024/05/17/134201.html?title=theKnicksAndTheEpicFart>
+
+---
+
+##  This week in crossword history (1924): Cross-Word Puzzlers to Hold [10-Letter Word... 
+
+date: 2024-05-17, updated: 2024-05-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044639-this-week-in-crossword-hi>
+
+---
+
+## Google and The Innovator's Dilemma in 2024
+
+date: 2024-05-17, from: Dave Winer's Scripting News
+
+<p>It's overwhelming how much ground Google has to cover to get AI into all their products, but that's what they think they have to do, and I more or less agree. They feel they have to because their main product, search, is undermined by ChatGPT. </p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/17/innovatorsDilemma.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Clayton Christensen called <a href="https://chatgpt.com/share/5ab4f305-0d0d-4cba-b7d7-0b5debf06a6c">this</a> The <a href="https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma">Innovator's Dilemma</a>  in a <a href="https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation-dp-1633691780/dp/1633691780/ref=dp_ob_title_bk">book</a> published in 1997. It's why Netscape was able to undermine Microsoft when the web came out. Microsoft had a huge beast they had to move, Windows and all its apps, and while they had a  hardcore, scrappy and rich culture, they couldn't overcome the inertia that comes from being dug in, with their cannons pointed at the already-defeated IBM, not the upstarts that came from the VCs in Silicon Valley. </p>
+<p>Microsoft and the rest of the PC industry had written off Unix, but there it was, again -- ugly as ever, but with networking that realllly worked and was easy, and the users wanted networking even though Microsoft wanted them to want Office. </p>
+<p>Google did the same thing with AI. As did Apple, Amazon, Facebook, Microsoft, etc. They had AI projects, and used AI in limited areas, as did Microsoft with Unix in the early 90s. But they couldn't bet everyting on it like a startup can. Now they have to. But the they don't have the tools needed to fight the new war. <i>That's</i> the dilemma. </p>
+<p>This is the toughest corner any tech company has to turn, but there is an approach that could work for Google. Their strength is distribution. They have all the users. They can take a product that's ready for the world to market in a day. But they can't develop it. You can't snap your fingers and have a good new UI for every one of their products, ready in a year, although they will try as MS tried to adapt Office to the web. They don't have the right people or corporate culture to do that. Instead you have to hope you can find a great bootstrapper outside to work with, and use their strength as a distributor to help them. This is what I recommended for Microsoft in the 1990s, and I think I was vindicated, it would have imho worked a lot better than the path they chose. </p>
+<p>But now, their second time around this loop, Microsoft has learned! With their OpenAI partnership they've done exactly what I recommended in the 90s. They still have to convert all the old software and their user interfaces around the new capabilities, but at least they also own a share of a bootstrap that's booming.</p>
+<p>PS: I am blessed to have lived long enough now to have been part of now six different rearrangements like this. I love that we have now gotten there again. There's absolutely no doubt now, imho. The six rearrangements -- minis, PCs, GUIs, web, Napster, and now AI.</p>
+<p>PPS: This is all my opinion, and from the polls I did <a href="http://scripting.com/2024/05/16.html">yesterday</a>, it's obvious that many of the people in earshot don't agree or have seen the light yet. </p>
+ 
+
+<http://scripting.com/2024/05/17/131008.html?title=googleAndTheInnovatorsDilemmaIn2024>
+
+---
+
+## FBI Seizes BreachForums Website
+
+date: 2024-05-17, updated: 2024-05-16, from: Bruce Schneier blog
+
+<p>The FBI has <a href="https://www.bleepingcomputer.com/news/security/fbi-seize-breachforums-hacking-forum-used-to-leak-stolen-data/">seized</a> the BreachForums website, used by ransomware criminals to leak stolen corporate data.</p>
+<blockquote><p>If law enforcement has gained access to the hacking forum&#8217;s backend data, as they claim, they would have email addresses, IP addresses, and private messages that could expose members and be used in law enforcement investigations.</p>
+<p>[&#8230;]</p>
+<p>The FBI is requesting victims and individuals contact them with information about the hacking forum and its members to aid in their investigation.</p>
+<p>The seizure messages include ways to contact the FBI about the seizure, including an email, a Telegram account, a TOX account, and a dedicated page hosted on the FBI&#8217;s Internet Crime Complaint Center (IC3)...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/05/fbi-seizes-breachforums-website.html>
+
+---
+
+## last words
+
+date: 2024-05-17, from: Ayjay blog
+
+From Evelyn Waugh’s biography of Ronald Knox: For three days he lay in a coma, but once Lady Eldon saw a stir of consciousness and asked whether he would like her to read to him from his own New Testament. He answered very faintly, but distinctly: ‘No’; and then after a long pause in which [&#8230;] 
+
+<https://blog.ayjay.org/last-words/>
+
+---
+
+## curl, Tor, dot onion and SOCKS
+
+date: 2024-05-17, from: Daniel Stenberg Blog
+
+You can of course use curl to access hosts through Tor. (I know you know Tor so I am not going to explain it here.) SOCKS The typical way to access Tor is via a SOCKS5 proxy and curl has supported that since some time during 2002. Like this: curl --socks5-hostname localhost:5432 https://example.com or curl &#8230; <a href="https://daniel.haxx.se/blog/2024/05/17/curl-tor-dot-onion-and-socks/" class="more-link">Continue reading <span class="screen-reader-text">curl, Tor, dot onion and SOCKS</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/05/17/curl-tor-dot-onion-and-socks/>
+
+---
+
+## When an old, dear friend passes
+
+date: 2024-05-17, from: Robert Reich's blog
+
+In appreciation 
+
+<https://robertreich.substack.com/p/when-an-old-dear-friend-passes>
+
+---
+
+## Articles I read today: May 16, 2024
+
+date: 2024-05-17, from: Tracy Durnell Blog
+
+Periodically, I try keeping track of everything I read online for a day or two. Previously. Today I tracked where I found links, too, though I couldn&#8217;t for anything I saved or opened before today 😉 Via micro.blog: The Phones of Normal People by Lou Plummer &#8220;Observed while driving L to school&#8221; by Annie Mueller [&#8230;] 
+
+<https://tracydurnell.com/2024/05/17/articles-i-read-today-may-16-2024/>
+
+---
+
+## Blog + Newsletter
+
+date: 2024-05-17, from: Doc Searls (at Harvard), New Old Blog
+
+Newsletters are all the rage now. In recognition of that, I blogged here two years ago about the idea of writing a solo newsletter. Since then I&#8217;ve been co-producing this one with Katherine Druckman at Reality 2.o. It&#8217;s a Substack one, so I know how that game works on the production as well as the [&#8230;] 
+
+<https://doc.searls.com/2024/05/16/blog-newsletter/>
+
+---
+
+## How OpenAI Stole Google’s Thunder
+
+date: 2024-05-17, from: Om Malik blog
+
+OpenAI strategically overshadowed Google's AI ambitions that it announced at I/O. In doing so, it showed the contrasting approaches to the AI race and Google’s challenges when it comes to public perception. 
+
+<https://om.co/2024/05/16/how-openai-stole-googles-thunder/>
+
+---
+
+## Friday 17 May, 2024
+
+date: 2024-05-16, from: John Naughton's online diary
+
+The late arrival Dingle peninsula, Ireland. Quote of the Day “There are no passengers on spaceship earth. We are all crew.” Marshall McLuhan Musical alternative to the morning’s radio news Samuel Barber &#124; Agnus Dei &#124; Voces8 Link A hauntingly &#8230; <a href="https://memex.naughtons.org/friday-17-may-2024/39457/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-17-may-2024/39457/>
+
+---
+
+## The Big What If
+
+date: 2024-05-16, from: Dan Rather's Steady
+
+What will happen if Trump is convicted? 
+
+<https://steady.substack.com/p/the-big-what-if>
+
+---
+
+## Cultural arbitrage
+
+date: 2024-05-16, from: Tracy Durnell Blog
+
+(Not sold on the article&#8217;s conclusions but this bit was interesting. I&#8217;d like to hear more on cultural appropriation from someone with a big picture view on culture like Marx.) 
+
+<https://tracydurnell.com/2024/05/16/cultural-arbitrage/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-16, from: Dave Winer's Scripting News)
+
+Poll 2 on <a href="https://twitter.com/davewiner/status/1791218560632590637">Twitter</a>, <a href="https://mastodon.social/@davew/112452878606174278">Mastodon</a>, <a href="https://www.threads.net/@davew/post/C7C1xIPJ2Gn">Threads</a>: "Has ChatGPT replaced Google (or other search engine) when you look up something for a development project, environment, etc.? 
+
+<http://scripting.com/2024/05/16.html#a212631>
+
+---
+
+## The Age of AI Ambiguity
+
+date: 2024-05-16, from: Om Malik blog
+
+With tech giants unleashing ever more powerful models and piles of money to accelerate their AI efforts, startups find themselves in a precarious position. Startups must hustle to find and defend their AI niches as&#160;the&#160;landscape rapidly&#160;evolves. Startups&#8217;&#160;advantage is agility and singular&#160;focus. They&#160;can build superior solutions in specific verticals and use cases. A good lesson from &#8230; 
+
+<https://om.co/2024/05/16/the-age-of-ai-ambiguity/>
+
+---
+
+## Netflix Strikes Three-Year Deal to Broadcast NFL Games on Christmas Day
+
+date: 2024-05-16, updated: 2024-05-16, from: Daring Fireball
+
+ 
+
+<https://www.netflix.com/tudum/articles/nfl-games-on-netflix>
+
+---
+
+##  In case anyone else is on a bedside lamp acquisition journey, I... 
+
+date: 2024-05-16, updated: 2024-05-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044620-in-case-anyone-else-is>
+
+---
+
+## Samsung Pepsis Its Pants Again
+
+date: 2024-05-16, updated: 2024-05-17, from: Daring Fireball
+
+ 
+
+<https://twitter.com/SamsungMobileUS/status/1790824457365594487>
+
+---
+
+## New iPad Pros Perform Well in Bend Tests
+
+date: 2024-05-16, updated: 2024-05-16, from: Daring Fireball
+
+ 
+
+<https://9to5mac.com/2024/05/16/new-ipad-pro-bend-test/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-16, from: Dave Winer's Scripting News)
+
+Poll 1 on <a href="https://twitter.com/davewiner/status/1791196115477365078">Twitter</a>, <a href="https://mastodon.social/@davew/112452528516101550">Mastodon</a>, <a href="https://www.threads.net/@davew/post/C7CrkeJpY_4">Threads</a>: "If you're a developer, how much has ChatGPT or its equivalents affected the way you develop?" 
+
+<http://scripting.com/2024/05/16.html#a200647>
+
+---
+
+##  One Strange Side Effect of Parenting 
+
+date: 2024-05-16, updated: 2024-05-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/strange-side-effect-of-parenting>
+
+---
+
+##  Addicted to Exercise? 
+
+date: 2024-05-16, updated: 2024-05-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/addicted-to-exercise>
+
+---
+
+##  The 40-hour workweek isn&#8217;t &#8220;a biological necessity,&#8221; per a recent episode of... 
+
+date: 2024-05-16, updated: 2024-05-16, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044619-theres-nothing-in-human-d>
 
 ---
 
@@ -254,7 +536,7 @@ We <em>want</em> people to want their code widely mirrored and distributed. That
 
 date: 2024-05-16, from: Dave Rupert blog
 
-<p>Last Monday was my first day as an official employee of Microsoft where I’ll be working on web components as part of the <a href="https://fluent2.microsoft.design/">Fluent</a> design system team.. As longtime readers already know, I’ve had a long term relationship with Microsoft – from <a href="https://paravelinc.com/work/microsoft/">Paravel’s 2012 responsive redesign of the Microsoft homepage</a> to the five year <a href="https://daverupert.com/tag/davegoeswindows">#davegoeswindows</a> stunt –  it feels like a new chapter in the career story arc to finally acquire one of the famous blue badges. I’m still new and have barely setup my computer but so far my team of peers, the larger group, the project itself, and the other folks across Microsoft I’ve connected with are all great.</p>
+<p>Last Monday was my first day as an official employee of Microsoft where I’ll be working on web components as part of the <a href="https://fluent2.microsoft.design/">Fluent</a> design system team. As longtime readers already know, I’ve had a long term relationship with Microsoft – from <a href="https://paravelinc.com/work/microsoft/">Paravel’s 2012 responsive redesign of the Microsoft homepage</a> to the five year <a href="https://daverupert.com/tag/davegoeswindows">#davegoeswindows</a> stunt –  it feels like a new chapter in the career story arc to finally acquire one of the famous blue badges. I’m still new and have barely setup my computer but so far my team of peers, the larger group, the project itself, and the other folks across Microsoft I’ve connected with are all great.</p>
 <p>Going from a company with two coworkers to a company with 200K coworkers is certainly an adjustment. It’s my first job in 18 years where I’m not working for myself but by far the biggest eye-opener throughout this process was doing tech interviews! I learned a lot about myself; like how after decades of coding in a room by myself, performing in front of someone else isn’t natural for me. Weirdly for me, a live demo in front of thousands of people… no problem. A random generated coding challenge in front of one person… palms sweaty, mom’s spaghetti levels of difficult. I also learned that too much caffeine and the panic-flavored adrenaline of interviewing is a lot of chemistry for my active brain to process.</p>
 <p>I eventually figured out how to interview and I had a lot of great conversations with great people at great companies. That said, this experience left me with lingering qualms about the tech interview process. A lot of it comes down to the information asymmetry where the seller (the hiring company) has more information than the buyer (the job candidate) and it’s hard to get any feedback for self-improvement. Even in my limited experience, it’s not uncommon to sink 15+ hours into a take home coding test and interview loop only to receive a terse rejection. Granted there’s promise of a six figure salary at the end of the rainbow, these jobs don’t fall out of the sky so you need to put in work, but I think that situation needs to be a bit more equitable to candidates – a Newtonian dynamic of matching effort.</p>
 <p>One question they ask you at interviews is “What are you looking for in your next role?” and while that sparks thousands of ideas, I boiled my needs and wants down to two core concepts:</p>
@@ -272,7 +554,7 @@ date: 2024-05-16, from: Dave Rupert blog
 
 **@Dave Winer's Scripting News** (date: 2024-05-16, from: Dave Winer's Scripting News)
 
-The thing that <a href="https://www.platformer.news/google-io-ai-search-sundar-pichai/">Casey Newton predicts</a> for Google and news has already happened for the huge base of reference info for software development. We no longer go to the sources, don't need to, the ChatGPT version is an order of magnitude better. What we do need is people to keep asking and answering questions for each other, so the knowledge can be added into the AI database. We're going somewhere here. It's worth going there, imho, having experienced the before, and only starting to glimpse the now and near-future. But it's as big a step as the move to PCs, then GUIs, web. 
+The thing that <a href="https://www.platformer.news/google-io-ai-search-sundar-pichai/">Casey Newton predicts</a> for Google and news has already happened for the huge base of reference info and know-how for software development. We no longer go to the sources, don't need to, the ChatGPT version is an order of magnitude better. What we do need is people to keep asking and answering questions for each other, so the knowledge can be added into the AI database. We're going somewhere here. It's worth going there, imho, having experienced the before, and only starting to glimpse the now and near-future. But it's as big a step as the move to PCs, then GUIs, the web, mobile. 
 
 <http://scripting.com/2024/05/16.html#a135637>
 

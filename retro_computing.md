@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.20
-updated: 2024-05-16 10:36:14
+updated: 2024-05-17 08:45:19
 ---
 
 # retro computing 2024.20
 
-(date: 2024-05-16 10:36:14)
+(date: 2024-05-17 08:45:19)
+
+---
+
+## FreeDOS Edlin 2.24
+
+date: 2024-05-16, from: FreeDOS News
+
+<div class="markdown_content"><p>Edlin is an awesome line-oriented editor. That means you edit one line at a time, not full-screen. Gregory Pietsch has released Edlin version 2.24 that moves the copyright and program info to the '?' help screen. It also changes the "Abort edit?" prompt when you exit to "Really quit?" I love these changes; I use Edlin to write quick batch files, like to capture some commands I just ran as a BAT file, and moving the copyright info to the '?' page means the commands don't scroll off the screen. Thanks Gregory! You can find the new version at <a class="" href="https://sourceforge.net/projects/freedos-edlin/">FreeDOS Edlin at SF</a> or mirrored at the FreeDOS Files Archive at Ibiblio under <a class="" href="https://ibiblio.org/pub/micro/pc-stuff/freedos/files/dos/edlin/2.24/" rel="nofollow">/files/dos/edlin</a>. We've also mirrored an EXE you can run.</p></div> 
+
+<https://sourceforge.net/p/freedos/news/2024/05/freedos-edlin-224/>
+
+---
+
+## Meet Andy Vawer at ROUGOL – 20th May
+
+date: 2024-05-16, from: RiscOS Story
+
+The RISC OS Developments programmer behind Pinboard2, the Wi-Fi drivers, and more Since its inception, with the original aim of producing a web browser, there have been a lot of good news coming out of RISC OS Developments Ltd (ROD) &#8211; from the browser itself, Iris (albeit still in testing and not yet ready for public release), taking on ownership of the operating system and releasing it under a truly open licence, and much more, including development of additional software. Some of that other software &#8211; such as Pinboard2, a&#8230; 
+
+<https://www.riscository.com/2024/rougol-20th-may-andy-vawer/>
 
 ---
 

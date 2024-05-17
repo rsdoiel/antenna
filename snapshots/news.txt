@@ -260,6 +260,7 @@ https://www.fromjason.xyz/notebook/feed/feed.xml "~Jason Valazquez noteboook" cu
 https://wilw.dev/feeds "~Wil Webberly blog"
 # Old Vintage Computing Research appears to be written by the maintainer of Floodgap Gopher site
 https://oldvcr.blogspot.com/feeds/posts/default?alt=rss "~Old Ventage Computing Research"
+https://werd.io/feed/ "~Ben Werdmuller's blog"
 
 #
 # News, Current Events, Journalism and Opinion

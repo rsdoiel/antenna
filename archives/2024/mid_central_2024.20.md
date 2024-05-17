@@ -1,11 +1,113 @@
 ---
 title: mid central 2024.20
-updated: 2024-05-16 10:36:13
+updated: 2024-05-17 08:45:18
 ---
 
 # mid central 2024.20
 
-(date: 2024-05-16 10:36:13)
+(date: 2024-05-17 08:45:18)
+
+---
+
+## Rack-mount oscilloscopes are just 2U high
+
+date: 2024-05-17, from: EDN Blog
+
+<img width="800" height="302" src="https://www.edn.com/wp-content/uploads/RS-MXO-5C.jpg?fit=800%2C302" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/RS-MXO-5C.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/RS-MXO-5C.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/RS-MXO-5C.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The MXO 5C series of low-profile oscilloscopes from R&#038;S provides a bandwidth of up to 2 GHz and either four or eight channels.</p>
+<p>The post <a href="https://www.edn.com/rack-mount-oscilloscopes-are-just-2u-high/" data-wpel-link="internal">Rack-mount oscilloscopes are just 2U high</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/rack-mount-oscilloscopes-are-just-2u-high/>
+
+---
+
+## Equalizer IC eases DOCSIS 4.0 CATV upgrades
+
+date: 2024-05-17, from: EDN Blog
+
+<img width="800" height="462" src="https://www.edn.com/wp-content/uploads/Qorvo-QPC7330.jpg?fit=800%2C462" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Qorvo-QPC7330.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Qorvo-QPC7330.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Qorvo-QPC7330.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>A single-chip inverse cable equalizer from Qorvo allows CATV operators to upgrade their hybrid fiber coax (HFC) networks to DOCSIS 4.0.</p>
+<p>The post <a href="https://www.edn.com/equalizer-ic-eases-docsis-4-0-catv-upgrades/" data-wpel-link="internal">Equalizer IC eases DOCSIS 4.0 CATV upgrades</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/equalizer-ic-eases-docsis-4-0-catv-upgrades/>
+
+---
+
+## DC/DC converters shrink car body electronics
+
+date: 2024-05-17, from: EDN Blog
+
+<img width="800" height="392" src="https://www.edn.com/wp-content/uploads/STMicro-A6983.jpg?fit=800%2C392" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/STMicro-A6983.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/STMicro-A6983.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/STMicro-A6983.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>ST’s A6983 step-down synchronous DC/DC converters provide space savings in light-load, low-noise, and isolated automotive applications.</p>
+<p>The post <a href="https://www.edn.com/dc-dc-converters-shrink-car-body-electronics/" data-wpel-link="internal">DC/DC converters shrink car body electronics</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/dc-dc-converters-shrink-car-body-electronics/>
+
+---
+
+## Position sensor suits vehicle safety systems
+
+date: 2024-05-17, from: EDN Blog
+
+<img width="800" height="449" src="https://www.edn.com/wp-content/uploads/Melexis-MLX90427.jpg?fit=800%2C449" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Melexis-MLX90427.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Melexis-MLX90427.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Melexis-MLX90427.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The Melexis MLX90427 magnetic position sensor is intended for applications requiring high automotive functional safety levels.</p>
+<p>The post <a href="https://www.edn.com/position-sensor-suits-vehicle-safety-systems/" data-wpel-link="internal">Position sensor suits vehicle safety systems</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/position-sensor-suits-vehicle-safety-systems/>
+
+---
+
+## Tiny transformer helps trim power supply noise
+
+date: 2024-05-17, from: EDN Blog
+
+<img width="700" height="464" src="https://www.edn.com/wp-content/uploads/Murata-LXLC21.jpg?fit=700%2C464" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Murata-LXLC21.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Murata-LXLC21.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Murata’s L Cancel Transformer (LCT) neutralizes the equivalent series inductance of a capacitor to optimize its noise-reducing capabilities.</p>
+<p>The post <a href="https://www.edn.com/tiny-transformer-helps-trim-power-supply-noise/" data-wpel-link="internal">Tiny transformer helps trim power supply noise</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/tiny-transformer-helps-trim-power-supply-noise/>
+
+---
+
+## Navigating energy efficiency in O-RAN architectures
+
+date: 2024-05-17, from: EDN Blog
+
+<img width="1578" height="887" src="https://www.edn.com/wp-content/uploads/Figure3-8.png?fit=1578%2C887" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure3-8.png?w=1578 1578w, https://www.edn.com/wp-content/uploads/Figure3-8.png?w=300 300w, https://www.edn.com/wp-content/uploads/Figure3-8.png?w=768 768w, https://www.edn.com/wp-content/uploads/Figure3-8.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Figure3-8.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Figure3-8.png?w=1260 1260w, https://www.edn.com/wp-content/uploads/Figure3-8.png?w=800 800w" sizes="(max-width: 1578px) 100vw, 1578px" /><p>How can test engineers reduce energy consumption and cost in 5G O-RAN wireless networks without impacting QoS?</p>
+<p>The post <a href="https://www.edn.com/navigating-energy-efficiency-in-o-ran-architectures/" data-wpel-link="internal">Navigating energy efficiency in O-RAN architectures</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/navigating-energy-efficiency-in-o-ran-architectures/>
+
+---
+
+## Opinion: Dear golden class of 2024
+
+date: 2024-05-17, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+To test gold, fire is applied. If the piece is authentic, it will not burn, but it can melt, which helps to mold it into a new shape. I am here to tell you, Class of 2024, you are gold. As we prepare for a life outside of college, we may find ourselves walking through... 
+
+<https://fscollegian.com/2024/05/opinion-dear-golden-class-of-2024/>
+
+---
+
+## ARRL Systems Service Disruption
+
+date: 2024-05-16, from: Amateur Radio Relay League News
+
+<p>We are in the process of responding to a serious incident involving access to our network and headquarters-based systems. Several services, such as Logbook of The World® and the ARRL Learning Center, are affected. Please know that restoring access is our highest priority, and we are expeditiously working with outside industry experts to address the issue. We appreciate your patience. <br /><br /><em>This story...</em></p> 
+
+<http://www.arrl.org/news/view/arrl-systems-service-disruption>
+
+---
+
+## Opinion: Transportation needs to change, and we know how: Autonomous vehicles
+
+date: 2024-05-16, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Transportation has always been intrinsically tied to humanity. It is a human right and need. Whenever a new mode of transportation is invented, humanity changes. There have been nine such changes and autonomous vehicles are poised to be the tenth change. The automobile was initially invented because horses were viewed as unsustainable, but now, the... 
+
+<https://fscollegian.com/2024/05/opinion-transportation-needs-to-change-and-we-know-how-autonomous-vehicles/>
 
 ---
 
@@ -13,7 +115,7 @@ updated: 2024-05-16 10:36:13
 
 date: 2024-05-15, from: EDN Blog
 
-<img width="287" height="261" src="https://www.edn.com/wp-content/uploads/Fig2-1.jpg?fit=287%2C261" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" /><p>A control loop that produces control voltage of negative polarity for n-channel JFET amplifier in HF and UHF applications.</p>
+<img width="287" height="261" src="https://www.edn.com/wp-content/uploads/Fig2-1.jpg?fit=287%2C261" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" /><p>A control loop that produces control voltage of negative polarity for n-channel JFET amplifier in HF and UHF applications.</p>
 <p>The post <a href="https://www.edn.com/bias-for-hf-jfet/" data-wpel-link="internal">Bias for HF JFET</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

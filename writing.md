@@ -1,11 +1,47 @@
 ---
 title: writing 2024.20
-updated: 2024-05-16 10:36:13
+updated: 2024-05-17 08:45:19
 ---
 
 # writing 2024.20
 
-(date: 2024-05-16 10:36:13)
+(date: 2024-05-17 08:45:19)
+
+---
+
+## A.C. Wise Reviews Short Fiction: Clarkesworld
+
+date: 2024-05-17, from: Locus Magazine
+
+<p>Clarkesworld 3/24</p>
+<p>Clarkesworld’s March issue opens with “<strong>Hello! Hello! Hello!</strong>” by <strong>Fiona Jones</strong>, a sweet story about an alien entity encountering a human adrift in a shuttle, eventually realizing that the human is dy­ing, and carrying out a rescue mission. Jones does a wonderful job of presenting a truly alien alien, and showing the difficulties of communication between vastly dissimilar species, but also the possibilities opened up  <a href="https://locusmag.com/2024/05/a-c-wise-reviews-short-fiction-clarkesworld-2/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/a-c-wise-reviews-short-fiction-clarkesworld-2/>
+
+---
+
+## 2024 Williamson Lectureship
+
+date: 2024-05-17, from: Locus Magazine
+
+<p></p>
+<p>The 47th Williamson Lectureship was held April 11-13, 2024 in Portales NM. The theme of Lectureship, held at Eastern NM University and around town to honor SF pioneer Jack Williamson, was “Oh, the (In)Humanity”, and included discussions of AI, robots, posthumans/anti-humans, and guest of honor Martha Wells’s Murderbot Diaries, including 2023’s <strong>System Col­lapse</strong>. Connie Willis served as toastmistress.</p>
+<p>San Jose criminalist Cordelia Willis started events Thursday with a presentation  <a href="https://locusmag.com/2024/05/2024-williamson-lectureship/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/2024-williamson-lectureship/>
+
+---
+
+## Why Short Stories Are Better Than Pitches
+
+date: 2024-05-17, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/why-short-stories-are-better-than-pitches" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Memento.jpg" alt="Leonard Shelby (Guy Pearce) holding a Polaroid image in 'Memento;' Why Short Stories Are Better Than Pitches" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>If there’s one thing I know about screenwriters, they love <a href="https://blog.finaldraft.com/fear-the-pitch...-and-do-it-anyway">the process of pitching</a> their movie ideas to industry professionals.</span></p> 
+
+<https://blog.finaldraft.com/why-short-stories-are-better-than-pitches>
 
 ---
 

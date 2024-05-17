@@ -1,11 +1,11 @@
 ---
 title: parks 2024.20
-updated: 2024-05-16 10:36:14
+updated: 2024-05-17 08:45:19
 ---
 
 # parks 2024.20
 
-(date: 2024-05-16 10:36:14)
+(date: 2024-05-17 08:45:19)
 
 ---
 
@@ -257,6 +257,18 @@ date: 2024-05-16, from: Bureau of Land Management, blog
       </div> 
 
 <https://www.blm.gov/blog/2024-05-16/beginning-blm-how-486-words-created-nations-largest-land-manager>
+
+---
+
+## Grand Canyon National Park hosts 34th annual Grand Canyon Star Party, June 1-8
+
+date: 2024-05-16, from: Press Releases
+
+The 34th annual Grand Canyon Star Party will be held from Saturday, June 1 through Saturday, June 8, 2024, on the South and North Rims of Grand Canyon National Park. National Parks such as Grand Canyon are protective havens for some of the last remaining dark skies in the United States.  
+
+Dozens of telescopes will offer views of planets, double stars, star clusters, nebulae, and distant galaxies. By day, keep an eye out for solar telescopes pointed at the sun. Weather permitting, expect spectacular views of the universe! https://www.nps.gov/grca/learn/news/star-party-2024-announced.htm 
+
+<https://www.nps.gov/grca/learn/news/star-party-2024-announced.htm>
 
 ---
 

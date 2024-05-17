@@ -1,11 +1,101 @@
 ---
 title: motorcycles 2024.20
-updated: 2024-05-16 10:36:14
+updated: 2024-05-17 08:45:19
 ---
 
 # motorcycles 2024.20
 
-(date: 2024-05-16 10:36:14)
+(date: 2024-05-17 08:45:19)
+
+---
+
+## REV'IT! and Zero Join Forces For “Electric Motorcycle Riding Gear”
+
+date: 2024-05-17, from: Ride Apart, Electric Motorcycle News
+
+The collection follows Zero’s urban-chic aesthetic.  
+
+<https://www.rideapart.com/news/719835/revit-zero-electric-motorcycle-apparel/>
+
+---
+
+## Bangladesh To Begin Enforcing 'No Helmet, No Fuel' Policy Nationwide
+
+date: 2024-05-17, from: Ride Apart, Electric Motorcycle News
+
+Nearly 30 percent of all the road deaths in the country in 2023 were riders. 
+
+<https://www.rideapart.com/news/719823/bangladesh-helmet-law-enforcement-2024/>
+
+---
+
+## Is LiveWire Building an Old Harley-Davidson E-Bike Concept?
+
+date: 2024-05-17, from: Ride Apart, Electric Motorcycle News
+
+Might help the brand's bottom line.  
+
+<https://www.rideapart.com/news/719829/livewire-harley-davidson-e-bicycle-ebike-concept/>
+
+---
+
+## Harley-Davidson Just Patented Fake Brakes For Electric Motorcycles
+
+date: 2024-05-17, from: Ride Apart, Electric Motorcycle News
+
+As well as a simulated clutch. 
+
+<https://www.rideapart.com/news/719824/livewire-electric-motorcycle-fake-brakes-clutch-harley-davidson/>
+
+---
+
+## Former Motorsports Promoter Eddie Gossage Passes Away
+
+date: 2024-05-17, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor Longtime motorsports executive and public speaker Eddie Gossage passed away at the age of 65. Long before his time at Speedway Motorsports, let alone Texas,&#8230;  
+
+<https://kickinthetires.net/nascar/former-motorsports-promoter-eddie-gossage-passes-away/>
+
+---
+
+## 2024 Husqvarna Svartpilen 801
+
+date: 2024-05-16, from: Cycle World News
+
+Husqvarna’s Svartpilen was already a unique and attractive motorcycle, but the addition of the LC8 parallel twin from KTM’s 790 Duke totally changes how this bike performs. 
+
+<https://www.cycleworld.com/husqvarna/svartpilen-801/>
+
+---
+
+## KTM 1390 Rally, Super Adventure, and Likely 1490 Model Spied
+
+date: 2024-05-16, from: Cycle World News
+
+KTM is working on its next gen of open-class ADV models. We recently spied what we think are the 1390 Rally, 1390 Super Adventure, and a possible 1490 model. 
+
+<https://www.cycleworld.com/motorcycle-news/ktm-1390-rally-super-adventure-and-1490-model-spy-shots/>
+
+---
+
+## Action Sports Legend Travis Pastrana Is Trying To Rebuild His Body Through Stem Cells
+
+date: 2024-05-16, from: Ride Apart, Electric Motorcycle News
+
+After years of injuries, something had to change for the former stunt rider. 
+
+<https://www.rideapart.com/news/719969/travis-pastrana-stem-cells-motorcylist/>
+
+---
+
+## What Will the Future of Bagger Racing Be?
+
+date: 2024-05-16, from: Cycle World News
+
+Many a motorcycle racing purist has made fun of bagger racing, but Kevin Cameron sees many similarities to early Superbike racing. 
+
+<https://www.cycleworld.com/blogs/ask-kevin/future-of-bagger-racing/>
 
 ---
 

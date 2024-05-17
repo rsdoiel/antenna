@@ -1,11 +1,111 @@
 ---
 title: games 2024.20
-updated: 2024-05-16 10:36:13
+updated: 2024-05-17 08:45:19
 ---
 
 # games 2024.20
 
-(date: 2024-05-16 10:36:13)
+(date: 2024-05-17 08:45:19)
+
+---
+
+## Here’s your first look at EA Sports College Football 25 gameplay
+
+date: 2024-05-17, updated: 2024-05-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24158944/college-football-25-trailer-gameplay-modes>
+
+---
+
+## Early look at Valve’s new hero shooter Deadlock leaks
+
+date: 2024-05-17, updated: 2024-05-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24158960/valve-deadlock-hero-shooter-leak>
+
+---
+
+## Endless Legend, a great 2014 strategy game, is free on Steam for one week
+
+date: 2024-05-17, updated: 2024-05-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24158948/endless-legend-strategy-game-free-steam>
+
+---
+
+## Disney Lorcana’s new starter decks need just a few more cards to achieve excellence
+
+date: 2024-05-17, updated: 2024-05-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24158275/disney-lorcanas-ursulas-return-starter-deck-upgrades>
+
+---
+
+## This year’s Call of Duty will go straight to Game Pass, report says
+
+date: 2024-05-17, updated: 2024-05-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24158941/call-of-duty-xbox-game-pass-microsoft>
+
+---
+
+## This game has you win your freedom by cooking up some tasty eggs
+
+date: 2024-05-17, updated: 2024-05-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24158540/arctic-eggs-egg-frying-game-steam-release>
+
+---
+
+## How Afterlove EP survived after its creative director’s devastating death
+
+date: 2024-05-17, updated: 2024-05-17, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gaming/24158466/afterlove-ep-fahmi-memory-pikselnesia>
+
+---
+
+## MultiVersus’ new PvE mode, explained
+
+date: 2024-05-16, updated: 2024-05-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24158526/multiversus-pve-mode-rifts-video>
+
+---
+
+## Shōgun’s coming back for season 2, but no one’s quite sure how just yet
+
+date: 2024-05-16, updated: 2024-05-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24158477/shogun-season-2-renewal-what-about-how>
+
+---
+
+## How to unlock Masterworking in Diablo 4 plus all Masterwork ranks list
+
+date: 2024-05-16, updated: 2024-05-16, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/diablo-4-guides/24158499/masterworking-masterwork-ranks-list-all-the-pit>
 
 ---
 

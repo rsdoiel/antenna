@@ -1,11 +1,35 @@
 ---
 title: libraries 2024.20
-updated: 2024-05-16 10:36:14
+updated: 2024-05-17 08:45:19
 ---
 
 # libraries 2024.20
 
-(date: 2024-05-16 10:36:14)
+(date: 2024-05-17 08:45:19)
+
+---
+
+## Guest Post: Navigating a New Virtual Experience at the 2024 SSP Annual Meeting
+
+date: 2024-05-17, from: Scholarly Kitchen
+
+<p>The SSP Annual Meeting Planning Committee has put together a unique and strong program for virtual attendees to the SSP 2024 Annual Meeting. </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/05/17/guest-post-navigating-a-new-virtual-experience-at-the-2024-ssp-annual-meeting/">Guest Post: Navigating a New Virtual Experience at the 2024 SSP Annual Meeting</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/05/17/guest-post-navigating-a-new-virtual-experience-at-the-2024-ssp-annual-meeting/>
+
+---
+
+## Guest Post — Shipping up to Boston? Plan Some Workers’ Playtime during the SSP Annual Meeting
+
+date: 2024-05-17, from: Scholarly Kitchen
+
+<p>Heading to Boston for the SSP's annual meeting? Here's an insiders' guide to the city.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/05/17/guest-post-shipping-up-to-boston-plan-some-workers-playtime-during-the-ssp-annual-meeting/">Guest Post &#8212; Shipping up to Boston? Plan Some Workers’ Playtime during the SSP Annual Meeting</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/05/17/guest-post-shipping-up-to-boston-plan-some-workers-playtime-during-the-ssp-annual-meeting/>
 
 ---
 
@@ -82,7 +106,7 @@ date: 2024-05-14, from: Scholarly Kitchen
 
 date: 2024-05-13, from: Association of Research Libraries News
 
-<p>Last Updated on May 15, 2024, 3:29 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 14 &#124; Wednesday, May 15 &#124; Thursday,...</p>
+<p>Last Updated on May 16, 2024, 3:27 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 14 &#124; Wednesday, May 15 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/40286/">Day in Review (May 13–16)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

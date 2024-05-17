@@ -1,11 +1,23 @@
 ---
 title: home 2024.20
-updated: 2024-05-16 10:36:14
+updated: 2024-05-17 08:45:19
 ---
 
 # home 2024.20
 
-(date: 2024-05-16 10:36:14)
+(date: 2024-05-17 08:45:19)
+
+---
+
+## After Celebrating Biden’s Protection of Molok Luyuk, What’s Next for Conservation at CNPS?
+
+date: 2024-05-15, from: California Native Plants Society
+
+<p>Three additional, ecologically rich California landscapes with deep significance to Indigenous tribes currently await national monument designation, leading us to call for "three more in 2024."</p>
+<p>The post <a href="https://www.cnps.org/uncategorized/after-celebrating-bidens-protection-of-molok-luyuk-whats-next-for-conservation-at-cnps-38509">After Celebrating Biden’s Protection of Molok Luyuk, What’s Next for Conservation at CNPS?</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/uncategorized/after-celebrating-bidens-protection-of-molok-luyuk-whats-next-for-conservation-at-cnps-38509>
 
 ---
 
