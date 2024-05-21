@@ -56,6 +56,9 @@ pacific: .FORCE
 mid_central: .FORCE
 	skimmer mid_central.txt
 
+central_coast: .FORCE
+	skimmer central_coast.txt
+
 tech_likely: .FORCE
 	skimmer tech_likely.txt
 

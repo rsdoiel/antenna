@@ -2,5 +2,5 @@
 # News from California's central coast
 #
 https://causenow.org/blog/feed "~Cause, Central Coast Alliance for a Sustainable Economy" # Progressive organization in S. B. County"
-https://www.noozhawk.com/feed/ "~Newshawk, the freshest news in Santa Barbara County" 
-ttps://goletavoice.com/feed/ "~Goleta Voice" # Appears to be real estate and business funded
+#https://www.noozhawk.com/feed/ "~Newshawk, the freshest news in Santa Barbara County" 
+#https://goletavoice.com/feed/ "~Goleta Voice" # Appears to be real estate and business funded
