@@ -1,11 +1,91 @@
 ---
 title: motorcycles 2024.21
-updated: 2024-05-20 19:36:29
+updated: 2024-05-21 08:38:25
 ---
 
 # motorcycles 2024.21
 
-(date: 2024-05-20 19:36:29)
+(date: 2024-05-21 08:38:25)
+
+---
+
+## GALLERY: Photojournalist Blake Ulino Captures the NASCAR All-Star Race
+
+date: 2024-05-21, from: Kickin the Tires blog
+
+By Blake Ulino, Staff Photographer Kickin’ the Tires’ photojournalist and videographer, Blake Ulino, captured all of the on-track action and victory lane in the 2024 NASCAR All-Star Race weekend at&#8230;  
+
+<https://kickinthetires.net/nascar/gallery-photojournalist-blake-ulino-captures-the-nascar-all-star-race/>
+
+---
+
+## Yamaha Patents Anti-Dive Electronic Motorcycle Suspension
+
+date: 2024-05-21, from: Ride Apart, Electric Motorcycle News
+
+Squat and dive controls would be neat on an R1... 
+
+<https://www.rideapart.com/news/720308/yamaha-anti-dive-motorcycle-suspsension/>
+
+---
+
+## Get Ready To Welcome TVS Motors, Italy
+
+date: 2024-05-21, from: Ride Apart, Electric Motorcycle News
+
+Italians are one step closer to having a range of TVS machines on their doorsteps to keep commuting fun and affordable. 
+
+<https://www.rideapart.com/news/720334/tvs-launches-production-italy/>
+
+---
+
+## This Chinese Motorcycle Could Be the Next Big Triple
+
+date: 2024-05-21, from: Ride Apart, Electric Motorcycle News
+
+So many OEMs are missing a trick by not having a triple in their lineups.  
+
+<https://www.rideapart.com/news/720328/zontes-703rr-starting-production/>
+
+---
+
+## Spain Will Let Motorcyclists Use the Shoulder To Decrease Traffic
+
+date: 2024-05-21, from: Ride Apart, Electric Motorcycle News
+
+Is the US lagging when it comes to forward-thinking legislation for motorcyclists? 
+
+<https://www.rideapart.com/news/720319/spain-hard-shoulder-motorcyclists/>
+
+---
+
+## Why Yes, You Can Jump a Jetski Off a Dirt Bike Ramp
+
+date: 2024-05-21, from: Ride Apart, Electric Motorcycle News
+
+Safety....seventh? 
+
+<https://www.rideapart.com/news/720321/travis-pastrana-jet-boy-jetski-jump-dirt-bike-ramp/>
+
+---
+
+## Watch a Three-Wheeler Go Head-to-Head With a Four-Wheeler and Nearly Flip
+
+date: 2024-05-21, from: Ride Apart, Electric Motorcycle News
+
+Are three wheels more fun than four? 
+
+<https://www.rideapart.com/news/720313/three-wheeler-vs-atv-video-shred-eighty/>
+
+---
+
+## This Ducati Streetwear Collab Adds Color To Your Motorcycle
+
+date: 2024-05-21, from: Ride Apart, Electric Motorcycle News
+
+A capsule collection of streetwear accompanies this vibrant customization kit.  
+
+<https://www.rideapart.com/news/720204/scrambler-ducati-x-van-orton-design/>
 
 ---
 

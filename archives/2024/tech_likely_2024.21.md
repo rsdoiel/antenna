@@ -1,11 +1,178 @@
 ---
 title: tech likely 2024.21
-updated: 2024-05-20 19:36:29
+updated: 2024-05-21 08:38:24
 ---
 
 # tech likely 2024.21
 
-(date: 2024-05-20 19:36:29)
+(date: 2024-05-21 08:38:24)
+
+---
+
+## Unlock a new era of innovation with Windows Copilot Runtime and Copilot+ PCs
+
+date: 2024-05-21, from: Windows Developer Blog
+
+<p><span data-contrast="none">I am excited to be back at </span><a href="https://build.microsoft.com/"><span data-contrast="none">Build</span></a><span data-contrast="none"> with the developer community this year. </span><span data-ccp-props="{&#34;20
+</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2024/05/21/unlock-a-new-era-of-innovation-with-windows-copilot-runtime-and-copilot-pcs/">Unlock a new era of innovation with Windows Copilot Runtime and Copilot+ PCs</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<https://blogs.windows.com/windowsdeveloper/2024/05/21/unlock-a-new-era-of-innovation-with-windows-copilot-runtime-and-copilot-pcs/>
+
+---
+
+## Scarlett Johansson says she is ‘shocked, angered’ over new ChatGPT voice
+
+date: 2024-05-21, from: OS News
+
+Lawyers for Scarlett Johansson are demanding that OpenAI disclose how it developed an AI personal assistant voice that the actress says sounds uncannily similar to her own. Johansson&#8217;s legal team has sent OpenAI two letters asking the company to detail the process by which it developed a voice the tech company dubbed &#8220;Sky,&#8221; Johansson&#8217;s publicist told NPR in a revelation that has not been previously reported. ↫ Bobby Allyn at NPR This story highlights just how much disdain techbros have for the work of creative people. Here&#8217;s the timeline: Techbros like Sam Altman deeply despise and undervalue the work of creatives, believing human creativity to be merely an equation to be solved, definable by an algorithm. To people like him, creative work has no value, and as such, is up for grabs to be taken and cut up for his algorithms to spit out as &#8220;new&#8221; works. This story highlights this perfectly. The sleaze runs deep with Altman and OpenAI. 
+
+<https://www.osnews.com/story/139754/scarlett-johansson-says-she-is-shocked-angered-over-new-chatgpt-voice/>
+
+---
+
+##  Ayo Edebiri Settles Your Petty Disputes 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/ayo-edebiri-settles-your-petty-disputes>
+
+---
+
+## Bohdan Troschynsky pushed to project branch bohdan at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-05-21, updated: 2024-05-21, from: Oberon A2 at CAS
+
+
+<p>
+<strong>Bohdan Troschynsky</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/5a89695824bea9113447b06d377703700c6d0efc">(5a896958)</a>
+<i>
+at
+21 May 16:38
+</i>
+</p>
+<div class="blockquote"><p dir="auto">added processing of mouse clicks</p></div>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/5a89695824bea9113447b06d377703700c6d0efc>
+
+---
+
+## That’s a Vibe, Alright
+
+date: 2024-05-21, updated: 2024-05-21, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/05/21/thats-a-vibe-alright/>
+
+---
+
+##  The benefits of cycling: increased longevity and less likely to have osteoarthritis... 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044653-the-benefits-of-cycling-i>
+
+---
+
+## Electric ‘Ripples’ in the Resting Brain Tag Memories for Storage
+
+date: 2024-05-21, from: Quanta Magazine
+
+New experiments reveal how the brain chooses which memories to save and add credence to advice about the importance of rest.            <p>The post <a href="https://www.quantamagazine.org/electric-ripples-in-the-resting-brain-tag-memories-for-storage-20240521/" target="_blank">Electric ‘Ripples’ in the Resting Brain Tag Memories for Storage</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/electric-ripples-in-the-resting-brain-tag-memories-for-storage-20240521/>
+
+---
+
+## NASA Leaders to Host Agency Town Hall on Artificial Intelligence
+
+date: 2024-05-21, from: NASA breaking news
+
+NASA Administrator Bill Nelson and Deputy Administrator Pam Melroy are hosting an employee town hall at 1 p.m. EDT Wednesday, May 22, to discuss how the agency is using and developing Artificial Intelligence (AI) tools to advance missions and research. The event will steam live on NASA+, NASA Television, and the agency’s website. The town [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-leaders-to-host-agency-town-hall-on-artificial-intelligence/>
+
+---
+
+## NASA “Wildfire Digital Twin” Pioneers New AI Models and Streaming Data Techniques for Forecasting Fire and Smoke
+
+date: 2024-05-21, from: NASA breaking news
+
+NASA’s “Wildfire Digital Twin” project will equip firefighters and wildfire managers with a superior tool for monitoring wildfires and predicting harmful air pollution events and help researchers observe global wildfire trends more precisely. 
+
+<https://science.nasa.gov/science-research/science-enabling-technology/nasa-wildfire-digital-twin-pioneers-new-ai-models-and-streaming-data-techniques-for-forecasting-fire-and-smoke/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-05-21, from: Miguel de Icaza Mastondon feed)
+
+<p>This changes my summer plans<br /><a href="https://nileane.fr/@nileane/112479061473659917" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">nileane.fr/@nileane/1124790614</span><span class="invisible">73659917</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112479158049194964>
+
+---
+
+## Why Tesla FSD is unsafe
+
+date: 2024-05-21, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/21/teslaModelY.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Here's what I've learned from <a href="https://www.google.com/search?q=site%3Ascripting.com+tesla">owing</a> a Tesla Model Y with <a href="http://scripting.com/2024/04/10/230303.html">Full Self Driving</a>. I don't believe it's safe. It absolutely does require your full attention at all times. You are still driving the car. I've seen it do crazy stuff in simple situations. I've seen it panic, basically throw its hands in the air and say Dave this is your problem. That's why you always have to be ready, as if you were driving the car yourself because at any moment you could be. You never know when it's going to happen. Now focus on that moment. Your car has given up and turned the driving over to you. How much experience do you have with that? Do you know where to look? Do you hit the brakes or veer to the left or right? If you're an experienced driver, a lot of these reactions are completely programmed into the lower levels of the brain. You don't have to think at all. When the car panics, I tend to panic. If I had 10 or 20 years experience with this connection, then I guess it's probably safe. But not the way it is. </p>
+<p>I'm amazed there aren't more terrible accidents with FSD, and that Tesla still promotes this as "self-driving," which it is not. </p>
+<p>Also, I love my Tesla. Every time I get into that mofo I feel privileged. It looks like a Toyota Camry but drives like a muscle car. I might still switch to a <a href="https://www.caranddriver.com/kia/ev9">Kia EV9</a>, at some point, if it drives as well as the Tesla, simply because the nearest Telsa dealer is over an hour away, and the <a href="https://www.romeokia.com/">Kia dealer</a> is in <a href="https://en.wikipedia.org/wiki/Kingston,_New_York">Kingston</a> which is practically in the neighborhood. </p>
+ 
+
+<http://scripting.com/2024/05/21/114712.html?title=whyTeslaFsdIsUnsafe>
+
+---
+
+## Long-term supported distros' kernel policies are all wrong
+
+date: 2024-05-21, updated: 2024-05-21, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Comment</span> Or so says CIQ, which coincidentally has issues obtaining RHEL's kernel sources</h4>
+      <p>A new hire at Rocky Linux creator CIQ is rocking the LTS-Linux-distro boat – by shining a spotlight on the elephant in the room (or one of the herd).</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/05/21/longterm_supported_distros_kernel_policies/>
+
+---
+
+## Making friends with birds outside Pi Towers
+
+date: 2024-05-21, from: Raspberry Pi News (.com)
+
+<p>The finance team wanted to attract wildlife to their office window and needed a little maker magic to get their bird feeder up high.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/making-friends-with-birds-outside-pi-towers/">Making friends with birds outside Pi Towers</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/making-friends-with-birds-outside-pi-towers/>
+
+---
+
+## The OpenAI board was right
+
+date: 2024-05-21, from: Gary Marcus blog
+
+Even on little things, Sam is not consistently candid. 
+
+<https://garymarcus.substack.com/p/the-openai-board-was-right>
+
+---
+
+## NGI Mobifree Launches to Develop Ethical Mobile Software
+
+date: 2024-05-21, updated: 2024-05-21, from: nlnet feed
+
+ 
+
+<https://nlnet.nl/news/2024/20240521-Mobifree-official-launch.html>
 
 ---
 
@@ -509,6 +676,16 @@ welcome. Send your ideas, features requests, or patches using GitHub's tools.</p
 </ul> 
 
 <https://www.postgresql.org/about/news/pg_dumpbinary-v217-released-2862/>
+
+---
+
+## Modos Paper Monitor Pre-Launch on Crowd Supply
+
+date: 2024-05-20, from: Modos Blog
+
+A fast, low-latency, open hardware e-ink monitor and dev kit 
+
+<https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply>
 
 ---
 

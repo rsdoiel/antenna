@@ -1,11 +1,74 @@
 ---
 title: central coast 2024.21
-updated: 2024-05-20 19:36:29
+updated: 2024-05-21 08:38:24
 ---
 
 # central coast 2024.21
 
-(date: 2024-05-20 19:36:29)
+(date: 2024-05-21 08:38:24)
+
+---
+
+## Sunset in Santa Barbara
+
+date: 2024-05-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/031724-POD-Patricia-Tangney.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sunset in Santa Barbara." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/031724-POD-Patricia-Tangney.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/031724-POD-Patricia-Tangney.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/031724-POD-Patricia-Tangney.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/031724-POD-Patricia-Tangney.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/031724-POD-Patricia-Tangney.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/031724-POD-Patricia-Tangney.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/031724-POD-Patricia-Tangney.jpg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/031724-POD-Patricia-Tangney.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/031724-POD-Patricia-Tangney.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/031724-POD-Patricia-Tangney.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/031724-POD-Patricia-Tangney.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/031724-POD-Patricia-Tangney.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/031724-POD-Patricia-Tangney.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/sunset-in-santa-barbara/">Sunset in Santa Barbara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sunset-in-santa-barbara/>
+
+---
+
+## UCSB Researchers and Academic Workers Rally, Prepare for Possible Strike
+
+date: 2024-05-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-UCSB-union-rally-1-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Union rally at UCSB." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-UCSB-union-rally-1-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-UCSB-union-rally-1-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-UCSB-union-rally-1-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-UCSB-union-rally-1-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-UCSB-union-rally-1-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-UCSB-union-rally-1-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-UCSB-union-rally-1-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-UCSB-union-rally-1-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-UCSB-union-rally-1-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-UCSB-union-rally-1-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>More than 100 researchers and student employees rallied at UC Santa Barbara on Monday to prepare for a possible strike. UAW 4811, which represents academic student employees, academic researchers, and [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsb-researchers-academic-workers-prepare-for-possible-strike/">UCSB Researchers and Academic Workers Rally, Prepare for Possible Strike</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsb-researchers-academic-workers-prepare-for-possible-strike/>
+
+---
+
+## Orcutt Academy High School Applauds Completion of New Gym, Theater Facility
+
+date: 2024-05-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-OAHS-New-Gym1a-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="New gym at Orcutt Academy High School." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-OAHS-New-Gym1a-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-OAHS-New-Gym1a-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-OAHS-New-Gym1a-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-OAHS-New-Gym1a-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-OAHS-New-Gym1a-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-OAHS-New-Gym1a-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-OAHS-New-Gym1a-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-OAHS-New-Gym1a-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-OAHS-New-Gym1a-js.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052024-OAHS-New-Gym1a-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A long-awaited new gym and multi-use building at Orcutt Academy High School will serve as a “beacon of opportunity” for students after finally becoming a reality. Two years after gathering for [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/orcutt-academy-high-school-applauds-completion-of-new-gym-theater-facility/">Orcutt Academy High School Applauds Completion of New Gym, Theater Facility</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/orcutt-academy-high-school-applauds-completion-of-new-gym-theater-facility/>
+
+---
+
+## Spy Satellite Agency’s Payload to Launch on SpaceX Rocket From Vandenberg SFB
+
+date: 2024-05-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>After decades of putting huge satellites into orbit, the nation’s spy satellite agency will send several small spacecraft into orbit as soon as Wednesday from Vandenberg Space Force Base.&#160; The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/spy-satellite-agencys-payload-to-launch-on-spacex-rocket-from-vandenberg-sfb/">Spy Satellite Agency&#8217;s Payload to Launch on SpaceX Rocket From Vandenberg SFB</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/spy-satellite-agencys-payload-to-launch-on-spacex-rocket-from-vandenberg-sfb/>
+
+---
+
+## ‘Meet Me in Old Town Goleta’ for a Community Block Party
+
+date: 2024-05-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/051624-old-town-goleta-block-party-ao-1.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Residents join the block party for the first &#039;Meet Me in Old Town Goleta&#039; event on Thursday, May 16. More events are planned for third Thursday in July and August." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/051624-old-town-goleta-block-party-ao-1.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/051624-old-town-goleta-block-party-ao-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/051624-old-town-goleta-block-party-ao-1.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/051624-old-town-goleta-block-party-ao-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/051624-old-town-goleta-block-party-ao-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/051624-old-town-goleta-block-party-ao-1.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/051624-old-town-goleta-block-party-ao-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/051624-old-town-goleta-block-party-ao-1.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/051624-old-town-goleta-block-party-ao-1.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/051624-old-town-goleta-block-party-ao-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/051624-old-town-goleta-block-party-ao-1.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/051624-old-town-goleta-block-party-ao-1.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>If you’re looking for an excuse to see your friends and neighbors, consider meeting them in Old Town Goleta. On Thursday, a small block party was held on Magnolia Avenue [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/meet-me-in-old-town-goleta-for-a-community-block-party/">&#8216;Meet Me in Old Town Goleta&#8217; for a Community Block Party</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/meet-me-in-old-town-goleta-for-a-community-block-party/>
 
 ---
 
@@ -13,7 +76,7 @@ updated: 2024-05-20 19:36:29
 
 date: 2024-05-21, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/ucsb-tennis-cover.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>UCSB Tennis stars Pablo Masjuan and Amelia Honer pulled out upset victories in the opening round of the NCAA Singles Championship on Monday. Masjuan and Honer, the lone Gauchos still [&#8230;]</p>
 <p>The post <a href="https://www.noozhawk.com/ucsb-tennis-pablo-masjuan-amelia-honer-earn-first-round-wins-at-ncaa-singles-championship/">UCSB Tennis&#8217; Pablo Masjuan, Amelia Honer Earn First-Round Wins at NCAA Singles Championship</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  

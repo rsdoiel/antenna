@@ -1,11 +1,35 @@
 ---
 title: libraries 2024.21
-updated: 2024-05-20 19:36:29
+updated: 2024-05-21 08:38:25
 ---
 
 # libraries 2024.21
 
-(date: 2024-05-20 19:36:29)
+(date: 2024-05-21 08:38:25)
+
+---
+
+## Day in Review (May 20–23)
+
+date: 2024-05-21, from: Association of Research Libraries News
+
+<p>Last Updated on May 21, 2024, 8:18 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 21 &#124; Wednesday, May 22 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-20-23/">Day in Review (May 20–23)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/day-in-review/day-in-review-may-20-23/>
+
+---
+
+## SSP’s Early Career Development Podcast Episode 18: Industry Events for First-Timers
+
+date: 2024-05-21, from: Scholarly Kitchen
+
+<p>This episode of SSP’s Early Career Development Podcast shares tips for first-time conference attendees. Hosted by Meredith Adinolfi (Cell Press) and Sara Grimme (Digital Science).</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/05/21/ssps-early-career-development-podcast-episode-18-industry-events-for-first-timers/">SSP&#8217;s Early Career Development Podcast Episode 18: Industry Events for First-Timers</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/05/21/ssps-early-career-development-podcast-episode-18-industry-events-for-first-timers/>
 
 ---
 

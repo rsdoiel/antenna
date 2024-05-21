@@ -1,11 +1,183 @@
 ---
 title: columns 2024.21
-updated: 2024-05-20 19:36:29
+updated: 2024-05-21 08:38:24
 ---
 
 # columns 2024.21
 
-(date: 2024-05-20 19:36:29)
+(date: 2024-05-21 08:38:24)
+
+---
+
+## Pew Research On Link Rot
+
+date: 2024-05-21, from: David Rosenthal's blog
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaSKg7ClQhz1uHSoOusEVCTBQbeSXHJq3EMLYRI4cfnk3wIIxIOuxpalWQmT_1lDvv5LX6yZQfniwiNpjRO20hy8h67-wp3Ezts7unxmnZFE0sdXYsk9LNFdQmDGMszLUoki5dIZ76FxyLltrjkJ64p0f9INXSYXo3a-f6R33b0Texd40X_w5FgTQRRha5/s818/LinkRotGraph.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="676" data-original-width="818" height="165" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaSKg7ClQhz1uHSoOusEVCTBQbeSXHJq3EMLYRI4cfnk3wIIxIOuxpalWQmT_1lDvv5LX6yZQfniwiNpjRO20hy8h67-wp3Ezts7unxmnZFE0sdXYsk9LNFdQmDGMszLUoki5dIZ76FxyLltrjkJ64p0f9INXSYXo3a-f6R33b0Texd40X_w5FgTQRRha5/w200-h165/LinkRotGraph.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Source</td></tr></tbody></table>
+<a href="https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/"><i>When Online Content Disappears</i></a> by Athena Chapekis, Samuel Bestvater, Emma Remy and Gonzalo Rivero reports results from this research:<br />
+<blockquote>
+we collected a random sample of just under 1 million webpages from the archives of <a href="https://commoncrawl.org/">Common Crawl</a>, an internet archive service that periodically collects snapshots of the internet as it exists at different points in time. We sampled pages collected by Common Crawl each year from 2013 through 2023 (approximately 90,000 pages per year) and checked to see if those pages still exist today.<br />
+<br />
+We found that 25% of all the pages we collected from 2013 through 2023 were no longer accessible as of October 2023. This figure is the sum of two different types of broken pages: 16% of pages are individually inaccessible but come from an otherwise functional root-level domain; the other 9% are inaccessible because their entire root domain is no longer functional.
+</blockquote>
+Their results are not surprising, but there are a number of surprising things about their report. Below the fold, I explain.<br />
+<span><a name='more'></a></span>
+<br />
+The Web is an evanescent medium. URLs are subject to two kinds of change:<br />
+<ul>
+<li><b>Content drift</b>, when a URL resolves to different content than it did previously.</li>
+<li><b>Link rot</b>, when a URL no longer resolves.</li>
+</ul>
+The Pew team found link rot in <a href="https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/">Common Crawl's collections</a>:<br />
+<blockquote>
+<ul><li><b>A quarter of all webpages that existed at one point between 2013 and 2023 are no longer accessible,</b>
+ as of October 2023. In most cases, this is because an individual page 
+was deleted or removed on an otherwise functional website.</li></ul>
+<ul><li><b>For older content, this trend is even starker.</b> Some 38% of webpages that existed in 2013 are not available today, compared with 8% of pages that existed in 2023.</li>
+  </ul>
+</blockquote>
+And in <a href="https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/">news sites, government sites  and Wikipedia</a>:<br />
+<blockquote>
+<ul>
+  <li><b>23% of news webpages contain at least one broken link, as do 21% of webpages from government sites.</b>
+ News sites with a high level of site traffic and those with less are 
+about equally likely to contain broken links. Local-level government 
+webpages (those belonging to city governments) are especially likely to 
+have broken links.</li>
+  <li><b>54% of Wikipedia pages contain at least one link in their “References” section that points to a page that no longer exists.</b></li>
+  </ul>
+</blockquote>
+There is a long history of research into both phenomena. Content drift is important to Web search engines. To keep their indexes up-to-date, they need to re-vist URLs frequently enough to capture changes. Thus studies of content drift started early in the history of the Web. Here are some examples from more than two decades ago:<br />
+<ul>
+<li><a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f66149e4bc6109512003acbf844b7f3072c08ca3"><i>The Evolution of the Web and Implications for an Incremental Crawler</i></a>, December 1999.</li>
+<li><a href="https://doi.org/10.1109/2.841784"><i>Keeping up with the changing Web</i></a>, May 2000.</li>
+<li><a href="https://doi.org/10.1145/775152.775246"><i>A large-scale study of the evolution of web pages</i></a>, May 2003.</li>
+</ul>
+Link rot is a slower process than content drift, so research into it started a bit later. Here are some examples from more than two decades ago:<br />
+<ul>
+<li><a href="http://dx.doi.org/10.1109/2.901164"><i>Persistence of Web references in scientific research</i></a>, February 2001.</li>
+<li><a href="https://doi.org/10.1002/asi.10018"><i>Web page change and persistence—A four-year longitudinal study</i></a>, November 2001.</li>
+<li><a href="http://dx.doi.org/10.1145/602421.602422"><i>The decay and failures of web references</i></a>, January 2003.</li>
+<li><a href="http://dx.doi.org/10.1126/science.1088234"><i>Going, Going, Gone: Lost Internet References</i></a>, October 2003.</li>
+<li><a href="https://doi.org/10.1093/bioinformatics/btg465"><i>404 not found: the stability and persistence of URLs published in MEDLINE</i></a>, January 2004.</li>
+</ul>
+I have written about this topic <a href="https://blog.dshr.org/search/label/link%20rot">many times</a>, first in 2008's <a href="https://blog.dshr.org/2008/12/persistence-of-poor-peer-reviewing.html"><i> Persistence of Poor Peer Reviewing</i></a>:<br />
+<blockquote>
+I like to cite an example of really bad reviewing that appeared in AAAS <i>Science</i> in 2003.  It was <a href="http://dx.doi.org/10.1126/science.1088234">Dellavalle RP, Hester EJ, Heilig LF, Drake AL, Kuntzman JW, Schillin MGLM: Going, Going, Gone: Lost Internet References. <i>Science</i> 2003, 302:787</a>, a paper about the decay of Internet links. The the authors failed to acknowledge that the paper repeated,  with smaller samples and somewhat worse techniques,  two earlier studies that had been published in <a href="http://dx.doi.org/10.1145/602421.602422"><i>Communications of the ACM</i></a> 9 months before,  and in <a href="http://dx.doi.org/10.1109/2.901164"><i>IEEE Computer</i></a> 32 months before.  Neither of these are obscure journals. It is particularly striking that neither the reviewers nor the editors bothered to feed the keywords from the article abstract into Google; had they done so they would have found both of these earlier papers at the top of the search results.
+</blockquote>
+The first surprise is that the Pew report lacks any acknowledgement that the transience of Web content is a long-established problem; like Dellavalle <i>et al</i> it is as if it was a new revelation.<br />
+<br />
+Even before published research had quantified it, link rot and content drift were well understood and efforts were underway to mitigate them. In 1996 Brewster Kahle had founded the <a href="https://archive.org">Internet Archive</a>, the first of several archives of the general Web. Two years later, the <a href="https://lockss.org">LOCKSS Program</a> was the first effort to establish a specialized archive for the academic literature. Both were intended to deliver individual pages to users. A decade later, <a href="https://commoncrawl.org/">Common Crawl</a> was set up to deliver Web content in bulk to researchers such as the Pew team; it is not intended as a mitigation for link rot or content drift.<br />
+<br />
+Although Common Crawl was a suitable resource for their research, the second surprise is that the Pew report describes and quantifies the problem of link rot, but acknowledges none of the multiple, decades-long efforts to mitigate it by archiving the Web and providing users with preserved copies of individual pages.<br />
+<br /> 
+
+<https://blog.dshr.org/2024/05/pew-research-on-link-rot.html>
+
+---
+
+##  Ayo Edebiri Settles Your Petty Disputes 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/ayo-edebiri-settles-your-petty-disputes>
+
+---
+
+##  The benefits of cycling: increased longevity and less likely to have osteoarthritis... 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044653-the-benefits-of-cycling-i>
+
+---
+
+## Why Tesla FSD is unsafe
+
+date: 2024-05-21, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/21/teslaModelY.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Here's what I've learned from <a href="https://www.google.com/search?q=site%3Ascripting.com+tesla">owing</a> a Tesla Model Y with <a href="http://scripting.com/2024/04/10/230303.html">Full Self Driving</a>. I don't believe it's safe. It absolutely does require your full attention at all times. You are still driving the car. I've seen it do crazy stuff in simple situations. I've seen it panic, basically throw its hands in the air and say Dave this is your problem. That's why you always have to be ready, as if you were driving the car yourself because at any moment you could be. You never know when it's going to happen. Now focus on that moment. Your car has given up and turned the driving over to you. How much experience do you have with that? Do you know where to look? Do you hit the brakes or veer to the left or right? If you're an experienced driver, a lot of these reactions are completely programmed into the lower levels of the brain. You don't have to think at all. When the car panics, I tend to panic. If I had 10 or 20 years experience with this connection, then I guess it's probably safe. But not the way it is. </p>
+<p>I'm amazed there aren't more terrible accidents with FSD, and that Tesla still promotes this as "self-driving," which it is not. </p>
+<p>Also, I love my Tesla. Every time I get into that mofo I feel privileged. It looks like a Toyota Camry but drives like a muscle car. I might still switch to a <a href="https://www.caranddriver.com/kia/ev9">Kia EV9</a>, at some point, if it drives as well as the Tesla, simply because the nearest Telsa dealer is over an hour away, and the <a href="https://www.romeokia.com/">Kia dealer</a> is in <a href="https://en.wikipedia.org/wiki/Kingston,_New_York">Kingston</a> which is practically in the neighborhood. </p>
+ 
+
+<http://scripting.com/2024/05/21/114712.html?title=whyTeslaFsdIsUnsafe>
+
+---
+
+## Detecting Malicious Trackers
+
+date: 2024-05-21, updated: 2024-05-21, from: Bruce Schneier blog
+
+<p>From <a href="https://apple.slashdot.org/story/24/05/13/2014230/apple-and-google-introduce-alerts-for-unwanted-bluetooth-tracking">Slashdot</a>:</p>
+<blockquote><p>Apple and Google have launched a new industry standard called &#8220;<a href="https://datatracker.ietf.org/doc/draft-detecting-unwanted-location-trackers/01/">Detecting Unwanted Location Trackers</a>&#8221; to <a href="https://www.apple.com/newsroom/2024/05/apple-and-google-deliver-support-for-unwanted-tracking-alerts-in-ios-and-android/">combat the misuse of Bluetooth trackers for stalking</a>. Starting Monday, iPhone and Android users will receive alerts when an unknown Bluetooth device is detected moving with them. The move comes after numerous cases of trackers like Apple&#8217;s AirTags being <a href="https://apple.slashdot.org/story/24/01/12/165230/apple-knew-airdrop-users-could-be-identified-and-tracked-as-early-as-2019">used for malicious purposes</a>.</p>
+<p>Several Bluetooth tag companies have committed to making their future products compatible with the new standard. Apple and Google said they will continue collaborating with the Internet Engineering Task Force to further develop this technology and address the issue of unwanted tracking...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/05/detecting-malicious-trackers.html>
+
+---
+
+## Understanding Alito's Flag
+
+date: 2024-05-21, from: Robert Reich's blog
+
+Samuel Alito and the politics of vice signaling 
+
+<https://robertreich.substack.com/p/giving-liberals-the-finger>
+
+---
+
+## Taking Aim at Apple’s Fanless MacBook Airs With Fans
+
+date: 2024-05-21, updated: 2024-05-21, from: Daring Fireball
+
+ 
+
+<https://arstechnica.com/gadgets/2024/05/new-arm-powered-surface-pro-and-surface-laptop-aim-directly-at-apple-silicon-macs/>
+
+---
+
+## [Sponsor] WorkOS
+
+date: 2024-05-21, updated: 2024-05-21, from: Daring Fireball
+
+ 
+
+<https://workos.com/?utm_source=daringfireball&utm_medium=display&utm_campaign=q12024>
+
+---
+
+## Microsoft’s New Flex Keyboard for the Surface Pro Tablet
+
+date: 2024-05-21, updated: 2024-05-21, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/2024/5/20/24160769/microsoft-surface-pro-2024-hands-on-pictures>
+
+---
+
+## ‘Inside Microsoft’s Mission to Take Down the MacBook Air’
+
+date: 2024-05-21, updated: 2024-05-21, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/2024/5/20/24160463/microsoft-windows-laptops-copilot-arm-chips-m1>
+
+---
+
+## Microsoft Introduces ‘Copilot+ PCs’
+
+date: 2024-05-21, updated: 2024-05-21, from: Daring Fireball
+
+ 
+
+<https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/>
 
 ---
 
@@ -41,7 +213,7 @@ date: 2024-05-20, updated: 2024-05-21, from: Daring Fireball
 
 ## AI Ambitions vs. Carbon Neutrality Goals
 
-date: 2024-05-20, updated: 2024-05-20, from: Daring Fireball
+date: 2024-05-20, updated: 2024-05-21, from: Daring Fireball
 
  
 
@@ -51,7 +223,7 @@ date: 2024-05-20, updated: 2024-05-20, from: Daring Fireball
 
 ## Perhaps the New Ultra-Thin iPhone Rumored for 2025 Is in Addition to, Not Replacing, the iPhones Pro
 
-date: 2024-05-20, updated: 2024-05-20, from: Daring Fireball
+date: 2024-05-20, updated: 2024-05-21, from: Daring Fireball
 
  
 

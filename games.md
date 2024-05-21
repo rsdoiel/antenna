@@ -1,11 +1,111 @@
 ---
 title: games 2024.21
-updated: 2024-05-20 19:36:29
+updated: 2024-05-21 08:38:25
 ---
 
 # games 2024.21
 
-(date: 2024-05-20 19:36:29)
+(date: 2024-05-21 08:38:25)
+
+---
+
+## Elden Ring: Shadow of the Erdtree trailer is part lore dump, part war recruitment ad
+
+date: 2024-05-21, updated: 2024-05-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24161532/elden-ring-dlc-shadow-of-the-erdtree-story-trailer>
+
+---
+
+## So when is Call of Duty coming to Game Pass?
+
+date: 2024-05-21, updated: 2024-05-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gaming/23911151/call-of-duty-game-pass-release>
+
+---
+
+## Majora’s Mask brought us the coolest swords in The Legend of Zelda
+
+date: 2024-05-21, updated: 2024-05-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/zelda/24160854/majoras-mask-coolest-swords-legend-of-zelda-fierce-deity>
+
+---
+
+## X-Men legends Greg Capullo and Jonathan Hickman team up for Wolverine: Revenge
+
+date: 2024-05-21, updated: 2024-05-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24159173/marvel-wolverine-revenge-greg-capullo-jonathan-hickman>
+
+---
+
+## Nintendo acquiring the studio that ported Hogwarts Legacy is super interesting
+
+date: 2024-05-21, updated: 2024-05-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24161472/nintendo-shiver-acquisition-explained>
+
+---
+
+## Pokémon’s coveted Japanese plush line is finally coming to the US
+
+date: 2024-05-21, updated: 2024-05-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon/24161063/pokemon-soda-pop-plush-collection-where-to-buy>
+
+---
+
+## Paper Mario: The Thousand-Year Door will make you mad Mario isn’t this weird anymore
+
+date: 2024-05-21, updated: 2024-05-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24159333/paper-mario-the-thousand-year-door-remake-nintendo-switch>
+
+---
+
+## The freeform TTRPG Sword Loser gives adults a terrific excuse to play like kids again
+
+date: 2024-05-21, updated: 2024-05-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/tabletop-games/24160953/best-drawing-ttrpg-sword-loser-adult-art-therapy>
+
+---
+
+## Happy Cool Sword Day to all who celebrate!
+
+date: 2024-05-21, updated: 2024-05-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24158464/cool-sword-day-2024>
+
+---
+
+## What makes a greatsword great?
+
+date: 2024-05-21, updated: 2024-05-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24157728/greatswords-games-elden-ring-monster-hunter>
 
 ---
 

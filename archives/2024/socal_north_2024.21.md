@@ -1,11 +1,22 @@
 ---
 title: socal north 2024.21
-updated: 2024-05-20 19:36:28
+updated: 2024-05-21 08:38:24
 ---
 
 # socal north 2024.21
 
-(date: 2024-05-20 19:36:28)
+(date: 2024-05-21 08:38:24)
+
+---
+
+## USAC Recap – May 14
+
+date: 2024-05-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its second meeting of May virtually Tuesday.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<https://dailybruin.com/2024/05/20/usac-recap-may-14-3/>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: mid central 2024.21
-updated: 2024-05-20 19:36:28
+updated: 2024-05-21 08:38:24
 ---
 
 # mid central 2024.21
 
-(date: 2024-05-20 19:36:28)
+(date: 2024-05-21 08:38:24)
+
+---
+
+## Looking inside a laser measurer
+
+date: 2024-05-21, from: EDN Blog
+
+<img width="1400" height="998" src="https://www.edn.com/wp-content/uploads/laser-chassis_partial-removal1.jpg?fit=1400%2C998" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/laser-chassis_partial-removal1.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/laser-chassis_partial-removal1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/laser-chassis_partial-removal1.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/laser-chassis_partial-removal1.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Laser-based distance measurement, initially found only in boutique hardware, now has a home in consumer “handyman” (and woman) gear. Cool!</p>
+<p>The post <a href="https://www.edn.com/looking-inside-a-laser-measurer/" data-wpel-link="internal">Looking inside a laser measurer</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/looking-inside-a-laser-measurer/>
+
+---
+
+## Why verification matters in network-on-chip (NoC) design
+
+date: 2024-05-21, from: EDN Blog
+
+<img width="940" height="387" src="https://www.edn.com/wp-content/uploads/Fig-2-NoC-deadlock-Axiomise.jpg?fit=940%2C387" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-2-NoC-deadlock-Axiomise.jpg?w=940 940w, https://www.edn.com/wp-content/uploads/Fig-2-NoC-deadlock-Axiomise.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-2-NoC-deadlock-Axiomise.jpg?w=768 768w" sizes="(max-width: 940px) 100vw, 940px" /><p>While NoCs are designed to be efficient at data transmission via routing, they often encounter deadlocks and livelocks.</p>
+<p>The post <a href="https://www.edn.com/why-verification-matters-in-network-on-chip-noc-design/" data-wpel-link="internal">Why verification matters in network-on-chip (NoC) design</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/why-verification-matters-in-network-on-chip-noc-design/>
 
 ---
 
@@ -47,7 +71,7 @@ date: 2024-05-20, from: Blue Devil News (Merced Community College Student Newspa
 
 date: 2024-05-20, from: EDN Blog
 
-<img width="433" height="428" src="https://www.edn.com/wp-content/uploads/VoltageDoubleRelay_Figure2.png?fit=433%2C428" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/VoltageDoubleRelay_Figure2.png?w=433 433w, https://www.edn.com/wp-content/uploads/VoltageDoubleRelay_Figure2.png?w=300 300w" sizes="(max-width: 433px) 100vw, 433px" /><p>Relay and solenoid driver circuit doubles supply voltage to conserve sustaining power when driving the device into an actuation state.</p>
+<img width="433" height="428" src="https://www.edn.com/wp-content/uploads/VoltageDoubleRelay_Figure2.png?fit=433%2C428" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/VoltageDoubleRelay_Figure2.png?w=433 433w, https://www.edn.com/wp-content/uploads/VoltageDoubleRelay_Figure2.png?w=300 300w" sizes="(max-width: 433px) 100vw, 433px" /><p>Relay and solenoid driver circuit doubles supply voltage to conserve sustaining power when driving the device into an actuation state.</p>
 <p>The post <a href="https://www.edn.com/relay-and-solenoid-driver-circuit-doubles-supply-voltage-to-conserve-sustaining-power/" data-wpel-link="internal">Relay and solenoid driver circuit doubles supply voltage to conserve sustaining power</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

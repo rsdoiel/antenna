@@ -1,11 +1,43 @@
 ---
 title: writing 2024.21
-updated: 2024-05-20 19:36:29
+updated: 2024-05-21 08:38:25
 ---
 
 # writing 2024.21
 
-(date: 2024-05-20 19:36:29)
+(date: 2024-05-21 08:38:25)
+
+---
+
+## Ian Mond Reviews Changes in the Land by Matthew Cheney
+
+date: 2024-05-21, from: Locus Magazine
+
+<p><strong>Changes in the Land</strong>, Matthew Cheney (Lethe Press 978-1-59021-526-5, $3.00, 90pp, eb) April 2024.</p>
+<p>If you read my 2023 Year in Review essay pub­lished in the February edition of Locus, you’ll know my favourite collection was Matthew Cheney’s <strong>The Last Vanishing Man and Other Stories</strong>. I’m not going to repeat what I said about the book other than to note that while the stories tended to be grim  <a href="https://locusmag.com/2024/05/ian-mond-reviews-changes-in-the-land-by-matthew-cheney/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/ian-mond-reviews-changes-in-the-land-by-matthew-cheney/>
+
+---
+
+## The Differences Between a Rewrite and a Polish
+
+date: 2024-05-21, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/the-differences-between-a-rewrite-and-a-polish" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/The%20Differences%20Between%20a%20Rewrite%20and%20a%20Polish%20.jpg" alt="The Differences Between a Rewrite and a Polish" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Rewriting your script or another writer’s script is one of the primary jobs of a professional screenwriter.</p> 
+
+<https://blog.finaldraft.com/the-differences-between-a-rewrite-and-a-polish>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-21, from: Neil Gaiman @ BlueSky)
+
+The Authors League Fund. It's been an honour to be a part of it for a decade now. authorsleaguefund.org 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ksz3damvgc2r>
 
 ---
 
