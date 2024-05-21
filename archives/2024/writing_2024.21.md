@@ -1,11 +1,81 @@
 ---
 title: writing 2024.21
-updated: 2024-05-20 11:37:18
+updated: 2024-05-20 19:19:32
 ---
 
 # writing 2024.21
 
-(date: 2024-05-20 11:37:18)
+(date: 2024-05-20 19:19:32)
+
+---
+
+## The Spring Bird Vortex
+
+date: 2024-05-21, from: Margaret Atwoods Substack
+
+Through the magic doorway to Birdland 
+
+<https://margaretatwood.substack.com/p/the-spring-bird-vortex>
+
+---
+
+## Lucas and Arthur Out at PRH
+
+date: 2024-05-21, from: Locus Magazine
+
+<p>Penguin Random House has announced the removal of two of its most prominent publishers: Reagan Arthur, head of Alfred A. Knopf, and Lisa Lucas, who ran Pantheon and Shocken, are both out in a surprise restructuring.</p>
+<p>Lucas, at least, didn&#8217;t see it coming, posting on social media that she learned of the dismissal on Monday morning, and adding, “I have some regrets about spending the weekend working.”</p>
+<p>Knopf Doubleday president  <a href="https://locusmag.com/2024/05/lucas-and-arthur-out-at-prh/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/lucas-and-arthur-out-at-prh/>
+
+---
+
+## 2023 Aurealis Award Winners
+
+date: 2024-05-20, from: Locus Magazine
+
+<p data-wp-editing="1">The winners of the 2023 Aurealis Awards, recognizing the best in Australian speculative fiction, have been announced.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Science Fiction Novel</strong></p>
+<ul>
+<li>WINNER:<strong> Time of the Cat</strong>, Tansy Rayner Roberts (self-published)</li>
+</ul>
+<ul>
+<li><strong>Minds of Sand and Light</strong>, Kylie Chan (HarperCollins)</li>
+<li><strong>The Comforting Weight of Water</strong>, Roanna McClelland (Wakefield)</li>
+<li><strong>Aliens: Bishop</strong>, T.R. Napper (Titan)</li>
+<li><strong>Dronikus</strong>, Marko Newman (AndAlso)</li>
+<li><strong>Traitor’s Run</strong>, Keith Stevenson (coeur de lion)</li>
+</ul>
+<p><strong>Best Science </strong></p></div> <a href="https://locusmag.com/2024/05/2023-aurealis-award-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/05/2023-aurealis-award-winners/>
+
+---
+
+## 2024 Hugo Voter Packet Available
+
+date: 2024-05-20, from: Locus Magazine
+
+<p>The 2024 Hugo Voter Packet is available for download by members of Glasgow 2024, the 82nd World Science Fiction Convention.</p>
+<p>An announcement has been sent to all members who registered their email addresses with the convention. The packet can be downloaded from the Worldcon site in the &#8220;Hugo Voter Packet&#8221; section. The packet will be available for download until voting closes at 20:17 GMT on July 20, 2024.</p>
+
+<p>&#160;</p>
+<p></p>
+<p><strong>While </strong> <a href="https://locusmag.com/2024/05/2024-hugo-voter-packet-available/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/2024-hugo-voter-packet-available/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-20, from: Neil Gaiman @ BlueSky)
+
+en.m.wikipedia.org/wiki/Literally gives context to use and argument about the use ("how can something also mean its opposite?")
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kswwfqtvss2q>
 
 ---
 

@@ -1,11 +1,242 @@
 ---
 title: tech likely 2024.21
-updated: 2024-05-20 11:37:18
+updated: 2024-05-20 19:19:32
 ---
 
 # tech likely 2024.21
 
-(date: 2024-05-20 11:37:18)
+(date: 2024-05-20 19:19:32)
+
+---
+
+## Xeon Phi support removed in GCC 15 compiler
+
+date: 2024-05-20, from: OS News
+
+Last week I wrote about Intel aiming to remove Xeon Phi support in GCC 15 with the products being end-of-life and deprecated in GCC 14. While some openly wondered whether the open-source community would allow it given the Xeon Phi accelerators were available to buy just a few years ago and at some very low prices going back years so some potentially finding use still out of them especially during this AI boom (and still readily available to buy used for around ~$50 USD), today the Intel Xeon Phi support was indeed removed. ↫ Michael Larabel Xeon Phi PCIe cards are incredibly cheap on eBay, and every now and then my mouse hovers over the buy button &#8211; but I always realise just in time that the cards have become quite difficult to use, since support for them, already sparse to begin with, is only getting worse by the day. Support for them was already removed in Linux 5.10, and now GCC is pulling he plug too, so the only option is to keep using old kernels, or pass the card on to a VM running an older Linux kernel version, which is a lot of headache for what is essentially a weird toy for nerds at this point. GCC 15 will also, sadly, remove support for Itanium, which, as I&#8217;ve said before, is a huge disgrace and a grave mistake. Itanium is the future, and will stomp all over crappy architectures like x86 and ARM. With this deprecation, GCC relegates itself to the dustbin of history. 
+
+<https://www.osnews.com/story/139752/xeon-phi-support-removed-in-gcc-15-compiler/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-05-20, from: Miguel de Icaza Mastondon feed)
+
+<p>Write VisionOS shaders like a civilized person:</p><p><a href="https://github.com/praeclarum/ShaderGraphCoder" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/praeclarum/ShaderGr</span><span class="invisible">aphCoder</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112475987895143055>
+
+---
+
+## Modernizing the AntennaPod code structure
+
+date: 2024-05-20, from: OS News
+
+AntennaPod has been around for a long time &#8211; the first bit of code was published in 2011. Since then, the app has grown massively and had several main developers. The beauty of open-source is that so many people can contribute and make a great app together. But sometimes having many people work on a project can lead to different ways of thinking about how to structure the project. Because of this, AntennaPod gradually grew to have a number of weird code constructs. Our latest release, version 3.4, fixes this. ↫ ByteHamster The AntennaPod team had an incredible task ahead of itself, and while it took them a few years, they pulled it off. The code structure graphs from before and after the code restructuring illustrate better than words ever could what they achieved. Thy changed 10000 lines of source code in 62 pull requests for this restructuring alone, while still adding new major features in the meantime. Pretty incredible. 
+
+<https://www.osnews.com/story/139750/modernizing-the-antennapod-code-structure/>
+
+---
+
+## Sols 4188-4190: Aurora Watch on Mars
+
+date: 2024-05-20, from: NASA breaking news
+
+Earth planning date: Friday, May 17, 2024 During the night of May 10, Earth experienced a fantastic display of aurorae (Northern and Southern Lights) which extended all the way to tropical latitudes, courtesy of the strongest geomagnetic storm since 2003. The enormous solar active region 3664, which produced the X-class flares and powerful coronal mass […] 
+
+<https://science.nasa.gov/blogs/sols-4188-4190-aurora-watch-on-mars/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-05-20, from: Miguel de Icaza Mastondon feed)
+
+<p>Beowulf cluster of iPad Pros.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112475636985580483>
+
+---
+
+## Microsoft gives Windows new compiler, kernel, scheduler, and x86 translation layer on ARM
+
+date: 2024-05-20, from: OS News
+
+Microsoft&#8217;s developer conference Build is taking place this week, so there&#8217;s been some major Windows news and announcements, and for once &#8211; we&#8217;re not talking about more ads in your operating system, or even &#8220;AI&#8221; shoehorned into, I don&#8217;t know, Phone Dialer or Windows Fax and Scan. First and foremost, Windows is going to get a new compiler, kernel, and scheduler, but despite such massive low-level changes, the marketing version number won&#8217;t jump from 11 to 12. Of course, we all know the marketing version number has nothing to do with the actual Windows NT version number, which currently sits at 10. The Windows NT version number, meanwhile, is actually also meaningless, since it magically jumps around left and right too, going from 6.2 to 10 between Windows 8.1 and Windows 10, where it has stayed ever since. &#8220;We really focused on modernizing this update of Windows 11,&#8221; said Microsoft Corporate Vice President of Windows and Devices Pavan Davuluri at a technical briefing on Microsoft&#8217;s campus in mid-April. &#8220;We engineered this update of Windows 11 with a real focus on AI inference and taking advantage of the Arm64 instruction set at every layer of the operating system stack. For us, what this meant really was building a new compiler in Windows. We built a new kernel in Windows on top of that compiler. We now have new schedulers in the operating system that take advantage of these new SoC architecture.&#8221; ↫ Andrew Cunningham at Ars Technica The focus is clearly on ARM here, which coincides with the launch of Qualcomm&#8217;s Snapdragon X Elite, a new SoC that finally seems to truly make ARM laptops that aren&#8217;t from Apple a real, competitive thing &#8211; so much so that Qualcomm is even breaking with tradition and taking Linux support very seriously for this new chip. Microsoft also unveiled the name for its new x86 translation layer for Windows on ARM: Prism. Microsoft told Ars Technica that Prism is as fast as Apple&#8217;s Rosetta 2, which is interesting because Apple&#8217;s M series chips contain special silicon to speed up the translation process, making me wonder if Qualcomm has done the same, or is just brute-forcing it. Performance like this means the apps customers love work great. Microsoft has partnered closely with developers across the globe to optimize their applications for this processor. In addition, the powerful new Prism emulation engine delivers a 2x performance boost compared to Surface Pro 9 with 5G. On the new Surface Pro and Surface Laptop, powered by Snapdragon X Elite and Snapdragon X Plus processors, experiences like Adobe Creative Cloud, Microsoft 365 and Chrome will feel snappy, quick and responsive. ↫ Pete Kyriacou on the Windows blog The new Windows on ARM machines using the Snapdragon X Elite will be marketed under the new Copilot+ brand name, which brings with it some requirements, the biggest of which is the neural processing unit: it must be capable of at least 40 trillion operations per second. At the time of writing, the only Windows-capable processor that can boast such numbers is, of course, the new Snapdragon X Elite. AMD and Intel need not apply. They simply cannot match this. Microsoft tied a bow on all this stuff by unveiling the new Surface Pro and new Surface Laptop, both powered by the new Snapdragon SoCs. You can preorder them today, but they won&#8217;t be available until 18 June. 
+
+<https://www.osnews.com/story/139748/microsoft-gives-windows-new-compiler-kernel-scheduler-and-x86-translation-layer-on-arm/>
+
+---
+
+## Aurorasaurus Roars During Historic Solar Storm
+
+date: 2024-05-20, from: NASA breaking news
+
+The largest geomagnetic storm in 21 years lit up the sky last weekend, and NASA’s volunteers were ready. Between May 10th and 12th 2024, NASA’s Aurorasaurus project received an unprecedented number of reports from around the world. It also helped eager aurora chasers get a better view. 
+
+<https://science.nasa.gov/science-research/heliophysics/aurorasaurus-roars-during-historic-solar-storm/>
+
+---
+
+##  The Evolution of Hokusai&#8217;s Great Wave 
+
+date: 2024-05-20, updated: 2024-05-20, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/the-evolution-of-hokusais-great-wave>
+
+---
+
+## Open Source Hardware Camp 2024 — Sat 24th & Sun 25th August, Hebden Bridge, UK
+
+date: 2024-05-20, from: Tilde.news
+
+<p><a href="https://tilde.news/s/jlwfo3/open_source_hardware_camp_2024_sat_24th">Comments</a></p> 
+
+<https://lists.oshug.org/hyperkitty/list/oshug-announce@oshug.org/thread/2TBN3SGME2YGH7BYUOFQJTD2T2CJ5UOR/>
+
+---
+
+## NASA Selects BAE Systems to Develop Ocean Color Instrument for NOAA
+
+date: 2024-05-20, from: NASA breaking news
+
+NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has selected BAE Systems (formerly known as Ball Aerospace &#38; Technologies Corporation) of Boulder, Colorado, to develop an instrument to analyze ocean data as part of NOAA’s Geostationary Extended Observations (GeoXO) satellite program. This cost-plus-award-fee contract is valued at approximately $450 million. It includes [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-selects-bae-systems-to-develop-ocean-color-instrument-for-noaa/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-20, from: Dave Winer's Scripting News)
+
+Don't miss that Twitter has become a <a href="http://scripting.com/2024/05/20/193616.html">blogging platform</a>. It's sad that it took this long. And we're still missing a <a href="http://textcasting.org/">bunch</a> of features. 
+
+<http://scripting.com/2024/05/20.html#a194130>
+
+---
+
+## A post I wrote on Twitter
+
+date: 2024-05-20, from: Dave Winer's Scripting News
+
+<p>Here's <a href="https://x.com/davewiner/status/1792237882679156983">something</a> you may find funny if you study the evolution of software technology.</p>
+<ol>
+<li>In the 80s there were all kinds of ideas about how to do hypertext. Mostly they called for two-way links, so you could walk the graph in any direction you like. These were hard to implement and required the two parties work with each other, and that never happened. </li>
+<li>In the early 90s along comes Tim Berners-Lee, a random NextStep developer who wanted to play and he for whatever reason didn't wait to figure out how to boil the ocean with two-way links, he just did one-way links and instead of inventing a new protocol he just implemented it on top of TCP/IP. While the purists were debating its purity it took off, broke all records, made a lot of people very rich.</li>
+<li>A few years later, Tim Berners-Lee, the same guy who made the web, wants to layer a new protocol on top of the web -- the Semantic Web. He wanted people to be able to query the web the way you query a database. "show me all the widgets on sale in urbana for less than $20." Like that.</li>
+<li>It never happened for the same reason the two-way hyperlinks didn't, it required cooperation. You couldn't just throw together a demo in an afternoon as a fun side project like you could with the web (I speak from experience, my first success with the web took five freaking minutes). </li>
+<li>Now when Google or some other browser maker integrates ChatGPT-like functionality in their browser, as a side-effect, you will get TBL's Semantic Web. It won't require any cooperation and that's why it will work.</li>
+</ol>
+ 
+
+<http://scripting.com/2024/05/20/193616.html?title=aPostIWroteOnTwitter>
+
+---
+
+##  La Maison du Pastel 
+
+date: 2024-05-20, updated: 2024-05-20, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/la-maison-du-pastel>
+
+---
+
+## A moment of daily practice
+
+date: 2024-05-20, from: Manu - I write blog
+
+
+                <p>I have a longer post to write about meditation and my relationships with the practice. For now, I’ll just say I’m glad to be sitting here again.</p>
+<figure class="m-o" data-template="with"><div class="m-m"><img class="img" loading="lazy" src="https://manuelmoreale.com/media/pages/thoughts/a-moment-of-daily-practice/f3970b4b67-1716232669/img_0563.jpeg" style="aspect-ratio:1000 / 1333"></div></figure>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/8sov4eI3H11KCMwX>
+
+---
+
+## 55 Years Ago: Two Months Until the Moon Landing
+
+date: 2024-05-20, from: NASA breaking news
+
+The march to the first Moon landing took a giant leap forward in May 1969 with the successful completion of Apollo 10, essentially a dress rehearsal for the landing mission. During their eight-day flight, the all-veteran Apollo 10 crew of Thomas P. Stafford, John W. Young, and Eugene A. Cernan rehearsed nearly every aspect of [&#8230;] 
+
+<https://www.nasa.gov/history/55-years-ago-two-months-until-the-moon-landing/>
+
+---
+
+## NASA, Sierra Space Deliver Dream Chaser to Florida for Launch Preparation
+
+date: 2024-05-20, from: NASA breaking news
+
+As part of NASA’s efforts to expand commercial resupply in low Earth orbit, Sierra Space&#8217;s uncrewed spaceplane arrived at NASA’s Kennedy Space Center in Florida ahead of its first flight to the International Space Station.&#160;&#160;The Dream Chaser spaceplane, named Tenacity, arrived at Kennedy on May 18 inside a climate-controlled transportation container from NASA&#8217;s Neil Armstrong [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/kennedy/nasa-sierra-space-deliver-dream-chaser-to-florida-for-launch-preparation/>
+
+---
+
+## Astronaut Exercise
+
+date: 2024-05-20, from: NASA breaking news
+
+Science in Space: May 2024 Future missions to the Moon and Mars must address many challenges, including preventing loss of bone and muscle tissue in astronauts. Research on the International Space Station is helping to address this challenge. Without Earth’s gravity, both bone and muscle atrophy, or become smaller and weaker. Early on, scientists realized [&#8230;] 
+
+<https://www.nasa.gov/missions/station/iss-research/astronaut-exercise/>
+
+---
+
+## iOS 17.5.1 and iPadOS 17.5.1
+
+date: 2024-05-20, from: Michael Tsai
+
+Juli Clover (no release notes, no security, no developer): According to Apple&#8217;s release notes, the updates include a fix for an issue that could cause images to reappear in the Photos library even after being deleted. Mysk: MarketplaceKit updated in iOS 17.5.1. Now it returns a consistent client ID per device, but the ID is [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/20/ios-17-5-1-and-ipados-17-5-1/>
+
+---
+
+## Safari Hover Link Preview Keyboard Shortcut
+
+date: 2024-05-20, from: Michael Tsai
+
+Jeff Johnson (Mastodon): Pressing control-command-d (&#x2303;&#x2318;D) while hovering over a link in Safari opens a popup window containing a preview of the linked web page, just like pressing and holding down a link in Safari on iOS.Apple does say that you can preview a link in a webpage in Safari on Mac with a Force [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/20/safari-hover-link-preview-keyboard-shortcut/>
+
+---
+
+## Swift FormatStyle Issues
+
+date: 2024-05-20, from: Michael Tsai
+
+Wade Tregaskis: They&#8217;re terser than using their otherwise more powerful cousins the Formatters, as they support a &#8220;fluent&#8221; style of property-based access, which tends to read more naturally and usually avoids having to define variables to hold the formatter.[&#8230;]They almost always break Xcode&#8217;s auto-complete, which is a problem since their syntax is non-trivial and unintuitive.They&#8217;re [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/20/swift-formatstyle-issues/>
+
+---
+
+## Sutskever and Leike Out at OpenAI
+
+date: 2024-05-20, from: Michael Tsai
+
+Sigal Samuel (tweet): For months, OpenAI has been losing employees who care deeply about making sure AI is safe. Now, the company is positively hemorrhaging them. Ilya Sutskever and Jan Leike announced their departures from OpenAI, the maker of ChatGPT, on Tuesday. They were the leaders of the company&#8217;s superalignment team &#8212; the team tasked [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/20/sutskever-and-leike-out-at-openai/>
+
+---
+
+## iOS 17.5 Resurfacing Deleted Photos
+
+date: 2024-05-20, from: Michael Tsai
+
+Juli Clover: A Reddit user wiped an iPad following Apple&#8217;s guidelines in September of 2023 before selling it off to a friend. That friend updated the iPad to iPadOS 17.5 this week, and began seeing the Reddit user&#8217;s old photos reappearing in the Photos app. That would be very concerning because it would imply that [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/20/ios-17-5-resurfacing-deleted-photos/>
 
 ---
 
@@ -486,7 +717,7 @@ The Thames at Chertsey
 </figcaption>
 </figure>
 <ul>
-<li><a href="/gpx/The_Thames_10_N_Teddington_to_Chertsey.gpx">[10/20] Teddington to Chertsey (24.2km)</a>: For all the remaining runs I ran east. At Weybridge I had to cross the river via a ferry. Although it felt delightfully old-fashioned to cross the river by ringing a bell to call the ferryman, it was still 2023 so he took Apple Pay.</li>
+<li><a href="/gpx/The_Thames_10_N_Teddington_to_Chertsey.gpx">[10/20] Teddington to Chertsey (24.2km)</a>: For all the remaining runs I ran west. At Weybridge I had to cross the river via a ferry. Although it felt delightfully old-fashioned to cross the river by ringing a bell to call the ferryman, it was still 2023 so he took Apple Pay.</li>
 <li><a href="/gpx/The_Thames_11_N_Chertsey_to_Windsor.gpx">[11/20] Chertsey to Windsor (22.4km)</a>: Ran past Runnymede, shortly before Windsor Castle, which was the site of the signing of the Magna Carta in 1215. I had no expectation of seeing this so it was a nice surprise! Windsor was packed with tourists.</li>
 </ul>
 <figure>

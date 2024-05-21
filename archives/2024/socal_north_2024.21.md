@@ -1,11 +1,52 @@
 ---
 title: socal north 2024.21
-updated: 2024-05-20 11:37:17
+updated: 2024-05-20 19:19:32
 ---
 
 # socal north 2024.21
 
-(date: 2024-05-20 11:37:17)
+(date: 2024-05-20 19:19:32)
+
+---
+
+## Women’s tennis finishes NCAA tournament run in Elite Eight, falls short of title
+
+date: 2024-05-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+No. 16 seed Tennessee upset No. 8 seed UCLA women’s tennis in the Elite Eight last Friday. The Bruins finished the season 21-6, losing only once in conference play.&#160; 
+
+<https://dailybruin.com/2024/05/20/womens-tennis-finishes-ncaa-tournament-run-in-elite-eight-falls-short-of-title/>
+
+---
+
+## Storms, Politics, And Activism: The History Of The Santa Monica Pier
+
+date: 2024-05-20, updated: 2024-05-20, from: The LAist
+
+The Santa Monica Pier started off as a sewage line over a century ago and has since transformed into an amusement park, event center, and tourist destination. 
+
+<https://laist.com/news/la-history/storms-politics-and-activism-the-history-of-the-santa-monica-pier>
+
+---
+
+## 2023-2024 Daily Bruin Diversity Report
+
+date: 2024-05-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+For the fifth consecutive year, the Daily Bruin reflects on its progress toward becoming a more diverse and representative source of journalism for the UCLA community. 
+
+<https://features.dailybruin.com/2024/diversity-report-2023-2024/>
+
+---
+
+## New opera ‘The Grand Hotel Tartarus’ explores disease, desire in evocative score
+
+date: 2024-05-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+At the Grand Hotel Tartarus, all may not be exactly as it seems.
+On Tuesday, the premiere of the original opera &#8220;The Grand Hotel Tartarus&#8221; will be held at UCLA&#8217;s Freud Playhouse with an additional performance Thursday, following two preview performances last week. 
+
+<https://dailybruin.com/2024/05/20/new-opera-the-grand-hotel-tartarus-explores-disease-desire-in-evocative-score/>
 
 ---
 

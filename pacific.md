@@ -1,11 +1,90 @@
 ---
 title: pacific 2024.21
-updated: 2024-05-20 11:37:17
+updated: 2024-05-20 19:19:32
 ---
 
 # pacific 2024.21
 
-(date: 2024-05-20 11:37:17)
+(date: 2024-05-20 19:19:32)
+
+---
+
+## POCCA Third Conference A Success
+
+date: 2024-05-21, from: University of the South Pacific (Fiji)
+
+<p>The Pacific Ocean and Climate Crisis Assessment (POCCA) Third Authors Conference was deemed a success...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/pocca-third-conference-a-success/">POCCA Third Conference A Success</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/pocca-third-conference-a-success/>
+
+---
+
+## Bill seeks to address shortage of government lawyers on Guam
+
+date: 2024-05-21, from: Pacific Island Times
+
+By Pacific Island Times News Staff Sens.  Telo Taitague and Chris Barnett introduced a bill that would allow Guam’s Supreme Court to... 
+
+<https://www.pacificislandtimes.com/post/bill-seeks-to-address-shortage-of-government-lawyers-on-guam>
+
+---
+
+## Shidler students qualify for national ad competition for first time in 20 years
+
+date: 2024-05-20, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Teams were tasked to create an advertising campaign for Tide.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/20/national-student-ad-competition/">Shidler students qualify for national ad competition for first time in 20 years</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/20/national-student-ad-competition/>
+
+---
+
+## Pacific Rim awarded $176.9M contract for military housing on Guam
+
+date: 2024-05-20, from: Pacific Island Times
+
+By Pacific Island Times News Staff Pacific Rim Constructors Inc. is awarded a $176.9 million contract for the design and construction of... 
+
+<https://www.pacificislandtimes.com/post/pacific-rim-awarded-176-9m-contract-for-military-housing-on-guam>
+
+---
+
+## INSIGHTS ON PBS HAWAIʻI Election 2024 Preview
+
+date: 2024-05-20, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>We take a comprehensive look at the Hawai‘i election contests for the primary election in August...</p>
+<p>The post <a href="https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-election-2024-preview/">INSIGHTS ON PBS HAWAIʻI &lt;br/&gt;Election 2024 Preview</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-election-2024-preview/>
+
+---
+
+## International Biodiversity Day: Harnessing innovation to reverse biodiversity loss
+
+date: 2024-05-20, from: Island Conservation News
+
+<p>Happy International Day for Biological Diversity! We're using innovation to accelerate recovery on islands around the world. Find out how!</p>
+<p>The post <a href="https://www.islandconservation.org/international-biodiversity-day-harnessing-innovation-to-reverse-biodiversity-loss/">International Biodiversity Day: Harnessing innovation to reverse biodiversity loss</a> appeared first on <a href="https://www.islandconservation.org">Island Conservation</a>.</p>
+ 
+
+<https://www.islandconservation.org/international-biodiversity-day-harnessing-innovation-to-reverse-biodiversity-loss/>
+
+---
+
+## “Climate Change | Mauka to Makai: Our Kuleana” 2024 HIKI NŌ on PBS HAWAI‘I Spring Challenge
+
+date: 2024-05-20, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>For the 2024 HIKI NŌ on PBS Hawai‘i Spring Challenge, the call was for videos based on the prompt “CLIMATE CHANGE &#124; MAUKA TO MAKAI: OUR KULEANA.”</p>
+<p>The post <a href="https://www.pbshawaii.org/climate-change-mauka-to-makai-our-kuleana-2024-hiki-no-on-pbs-hawaii-spring-challenge/">&#8220;Climate Change | Mauka to Makai: Our Kuleana&#8221; &lt;br/&gt;2024 HIKI NŌ on PBS HAWAI‘I Spring Challenge</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/climate-change-mauka-to-makai-our-kuleana-2024-hiki-no-on-pbs-hawaii-spring-challenge/>
 
 ---
 
@@ -332,6 +411,18 @@ date: 2024-05-20, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/05/20/opinion/new-data-shows-charter-schools-increase-segregation/>
+
+---
+
+## Police: Honomu man drowned at Kolekole Beach Park earlier this month
+
+date: 2024-05-20, from: Hawaii Tribune Harold
+
+
+				<p>Police say a man died of an accidental drowning May 2 at Kolekole Beach Park.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/20/hawaii-news/police-honomu-man-drowned-at-kolekole-beach-park-earlier-this-month/>
 
 ---
 

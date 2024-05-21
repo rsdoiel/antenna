@@ -1,11 +1,157 @@
 ---
 title: columns 2024.21
-updated: 2024-05-20 11:37:18
+updated: 2024-05-20 19:19:32
 ---
 
 # columns 2024.21
 
-(date: 2024-05-20 11:37:18)
+(date: 2024-05-20 19:19:32)
+
+---
+
+## Election Countdown, 169 Days to Go: ‘Old Ghosts in New Garments.’
+
+date: 2024-05-21, from: James Fallows, Substack
+
+A striking phrase from Joe Biden's speech at Morehouse yesterday, which was another example of his underappreciated craft. 
+
+<https://fallows.substack.com/p/election-countdown-169-days-to-go>
+
+---
+
+## My current work-life “rules”
+
+date: 2024-05-21, from: Tracy Durnell Blog
+
+A lot of entrepreneurs go in for hustle culture, seemingly working 60-80-hour weeks, but I&#8217;ve been trying to create a sustainable practice. To help myself take time to rest and give myself a break from work, these are the guidelines I&#8217;ve developed for myself over the past year and a half. Check email once in [&#8230;] 
+
+<https://tracydurnell.com/2024/05/20/my-current-work-life-rules/>
+
+---
+
+## OpenAI and Sam Altman Ripped Off Scarlett Johansson’s Voice, Supposedly Using an Unnamed Soundalike Voice Actress
+
+date: 2024-05-20, updated: 2024-05-21, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/2024/5/20/24161253/scarlett-johansson-openai-altman-legal-action>
+
+---
+
+## AI Ambitions vs. Carbon Neutrality Goals
+
+date: 2024-05-20, updated: 2024-05-20, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/2024/5/15/24157496/microsoft-ai-carbon-footprint-greenhouse-gas-emissions-grow-climate-pledge>
+
+---
+
+## Perhaps the New Ultra-Thin iPhone Rumored for 2025 Is in Addition to, Not Replacing, the iPhones Pro
+
+date: 2024-05-20, updated: 2024-05-20, from: Daring Fireball
+
+ 
+
+<https://mastodon.social/@rjj/112475257264582082>
+
+---
+
+## ‘Pathways’ — New Apple Developer Learning Resources
+
+date: 2024-05-20, updated: 2024-05-20, from: Daring Fireball
+
+ 
+
+<https://developer.apple.com/pathways/>
+
+---
+
+## How to enjoy retro Nintendo games on your iPad
+
+date: 2024-05-20, from: Matt Haughey blog
+
+<p>The Delta game emulator was recently released for the iPhone and it&apos;s pretty great. But it takes some setting up to get it working best on an iPad, so I wanted to cover how to do that here, so others don&apos;t have to make the same</p> 
+
+<https://a.wholelottanothing.org/how-to-enjoy-retro-nintendo-games-on-your-ipad/>
+
+---
+
+## iOS 17.5.1 Includes Fix for Bug That Resurfaced Deleted Photos
+
+date: 2024-05-20, updated: 2024-05-20, from: Daring Fireball
+
+ 
+
+<https://www.macrumors.com/2024/05/20/apple-releases-ios-17-5-1-photos-bug/>
+
+---
+
+##  The Evolution of Hokusai&#8217;s Great Wave 
+
+date: 2024-05-20, updated: 2024-05-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/the-evolution-of-hokusais-great-wave>
+
+---
+
+## Apple’s 2023 App Store Transparency Report (PDF)
+
+date: 2024-05-20, updated: 2024-05-20, from: Daring Fireball
+
+ 
+
+<https://www.apple.com/legal/more-resources/docs/2023-App-Store-Transparency-Report.pdf>
+
+---
+
+## The Information: ‘Apple Plans a Thinner iPhone in 2025’
+
+date: 2024-05-20, updated: 2024-05-20, from: Daring Fireball
+
+ 
+
+<https://www.theinformation.com/articles/apple-plans-a-thinner-iphone-in-2025?rc=jfy0lk>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-20, from: Dave Winer's Scripting News)
+
+Don't miss that Twitter has become a <a href="http://scripting.com/2024/05/20/193616.html">blogging platform</a>. It's sad that it took this long. And we're still missing a <a href="http://textcasting.org/">bunch</a> of features. 
+
+<http://scripting.com/2024/05/20.html#a194130>
+
+---
+
+## A post I wrote on Twitter
+
+date: 2024-05-20, from: Dave Winer's Scripting News
+
+<p>Here's <a href="https://x.com/davewiner/status/1792237882679156983">something</a> you may find funny if you study the evolution of software technology.</p>
+<ol>
+<li>In the 80s there were all kinds of ideas about how to do hypertext. Mostly they called for two-way links, so you could walk the graph in any direction you like. These were hard to implement and required the two parties work with each other, and that never happened. </li>
+<li>In the early 90s along comes Tim Berners-Lee, a random NextStep developer who wanted to play and he for whatever reason didn't wait to figure out how to boil the ocean with two-way links, he just did one-way links and instead of inventing a new protocol he just implemented it on top of TCP/IP. While the purists were debating its purity it took off, broke all records, made a lot of people very rich.</li>
+<li>A few years later, Tim Berners-Lee, the same guy who made the web, wants to layer a new protocol on top of the web -- the Semantic Web. He wanted people to be able to query the web the way you query a database. "show me all the widgets on sale in urbana for less than $20." Like that.</li>
+<li>It never happened for the same reason the two-way hyperlinks didn't, it required cooperation. You couldn't just throw together a demo in an afternoon as a fun side project like you could with the web (I speak from experience, my first success with the web took five freaking minutes). </li>
+<li>Now when Google or some other browser maker integrates ChatGPT-like functionality in their browser, as a side-effect, you will get TBL's Semantic Web. It won't require any cooperation and that's why it will work.</li>
+</ol>
+ 
+
+<http://scripting.com/2024/05/20/193616.html?title=aPostIWroteOnTwitter>
+
+---
+
+##  La Maison du Pastel 
+
+date: 2024-05-20, updated: 2024-05-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/la-maison-du-pastel>
 
 ---
 
@@ -329,7 +475,7 @@ The Thames at Chertsey
 </figcaption>
 </figure>
 <ul>
-<li><a href="/gpx/The_Thames_10_N_Teddington_to_Chertsey.gpx">[10/20] Teddington to Chertsey (24.2km)</a>: For all the remaining runs I ran east. At Weybridge I had to cross the river via a ferry. Although it felt delightfully old-fashioned to cross the river by ringing a bell to call the ferryman, it was still 2023 so he took Apple Pay.</li>
+<li><a href="/gpx/The_Thames_10_N_Teddington_to_Chertsey.gpx">[10/20] Teddington to Chertsey (24.2km)</a>: For all the remaining runs I ran west. At Weybridge I had to cross the river via a ferry. Although it felt delightfully old-fashioned to cross the river by ringing a bell to call the ferryman, it was still 2023 so he took Apple Pay.</li>
 <li><a href="/gpx/The_Thames_11_N_Chertsey_to_Windsor.gpx">[11/20] Chertsey to Windsor (22.4km)</a>: Ran past Runnymede, shortly before Windsor Castle, which was the site of the signing of the Magna Carta in 1215. I had no expectation of seeing this so it was a nice surprise! Windsor was packed with tourists.</li>
 </ul>
 <figure>

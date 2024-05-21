@@ -1,11 +1,21 @@
 ---
 title: games 2024.21
-updated: 2024-05-20 11:37:18
+updated: 2024-05-20 19:19:32
 ---
 
 # games 2024.21
 
-(date: 2024-05-20 11:37:18)
+(date: 2024-05-20 19:19:32)
+
+---
+
+## I Saw the TV Glow is a powerful call to action — any action
+
+date: 2024-05-20, updated: 2024-05-20, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24160895/i-saw-the-tv-glow-ending-explained-interpretation>
 
 ---
 

@@ -1,11 +1,31 @@
 ---
 title: motorcycles 2024.21
-updated: 2024-05-20 11:37:18
+updated: 2024-05-20 19:19:33
 ---
 
 # motorcycles 2024.21
 
-(date: 2024-05-20 11:37:18)
+(date: 2024-05-20 19:19:33)
+
+---
+
+## CFMoto 800MT-X Production Ready
+
+date: 2024-05-20, from: Cycle World News
+
+CFMoto’s concept MT-X from last fall’s EICMA show is now ready for production and will be called the 800MT-X, and utilizes the LC8c it shares with KTM. 
+
+<https://www.cycleworld.com/motorcycle-news/cfmoto-800mt-x-production-ready/>
+
+---
+
+## Indiana Native Justin Haley Turned Down Indy 500 Ride
+
+date: 2024-05-20, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor NORTH WILKESBORO, N.C. – The opportunity to run both the Indianapolis 500 and Coca-Cola 600, ‘The Double,’ is rare, and for some drivers, a once&#8230;  
+
+<https://kickinthetires.net/nascar/justin-haley-turned-down-indy-500-ride/>
 
 ---
 

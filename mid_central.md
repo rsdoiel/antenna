@@ -1,11 +1,21 @@
 ---
 title: mid central 2024.21
-updated: 2024-05-20 11:37:18
+updated: 2024-05-20 19:19:32
 ---
 
 # mid central 2024.21
 
-(date: 2024-05-20 11:37:18)
+(date: 2024-05-20 19:19:32)
+
+---
+
+## Graduation 2024 photo gallery
+
+date: 2024-05-21, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+The Fresno State commencement ceremonies took place on May 17-18 at the Save Mart Center. Fresno State students across the eight colleges graduated with bachelors, post-baccalaureate and doctoral degrees. The Collegian followed the ceremonies and accepted submissions to compose this photo gallery. 
+
+<https://fscollegian.com/2024/05/graduation-2024-photo-gallery/>
 
 ---
 
