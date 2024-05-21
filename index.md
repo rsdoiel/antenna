@@ -11,6 +11,7 @@ Collection                                Description of Posts                  
 [SoCal North](socal_north.html)           Northern end of Southern California                                [socal_north.txt](socal_north.txt)
 [Pacific](pacific.html)                   Micronesia, Hawaii and the Pacific                                 [pacific.txt](pacific.txt)
 [Mid Central](mid_central.html)           California's Central Valley                                        [mid_central.txt](mid_central.txt)
+[Central Coast](central_coast.html)       Califronia's Central Coast                                         [central_coast.txt](central_coast.txt)
 [Parks](parks.html)                       From the city, state or national parks                             [parks.txt](parks.txt)
 [Home, Garden & Urban Farm](home.html)    Home, Garden & Urban blogs and news                                [home.txt](home.txt)
 [Columns](columns.html)                   Frequent Pocket additions                                          [columns.txt](columns.txt)

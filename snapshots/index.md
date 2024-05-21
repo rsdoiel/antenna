@@ -1,12 +1,13 @@
 ---
 title: Snapshots
-updated: 2024-05-17
+updated: 2024-05-20
 ---
 
 # Snapshots
 
 These are a snapshot of a single day's collection of item from [news.txt](news.txt)
 
+- [2024-05-20](today-2024-05-20.html)
 - [2024-05-17](today-2024-05-17.html)
 - [2024-05-16](today-2024-05-16.html)
 - [2024-05-15](today-2024-05-15.html)
