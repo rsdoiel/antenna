@@ -1,11 +1,22 @@
 ---
 title: pacific 2024.21
-updated: 2024-05-20 19:19:32
+updated: 2024-05-20 19:36:28
 ---
 
 # pacific 2024.21
 
-(date: 2024-05-20 19:19:32)
+(date: 2024-05-20 19:36:28)
+
+---
+
+## In memoriam: Korean studies/history pioneer Yong-Ho Ch’oe
+
+date: 2024-05-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Ch’oe joined the <abbr>UH</abbr> Mānoa Department of History in 1970, where he served for 30 years.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/20/in-memoriam-yong-ho-choe/">In memoriam: Korean studies/history pioneer Yong-Ho Ch’oe</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/20/in-memoriam-yong-ho-choe/>
 
 ---
 
@@ -61,6 +72,16 @@ date: 2024-05-20, from: INSIGHTS ON PBS HAWAIʻI
  
 
 <https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-election-2024-preview/>
+
+---
+
+## International court prosecutor seeks arrest warrants for Israeli PM, defense chief and 3 Hamas leaders
+
+date: 2024-05-20, updated: 2024-05-20, from: Marianas Variety
+
+AMSTERDAM (Reuters) — The International Criminal Court prosecutor's office said on Monday it had requested arrest warrants for Israeli Prime Minister Benjamin Netanyahu, his defense chief and three Hamas leaders for alleged war crimes. 
+
+<https://www.mvariety.com/news/regional_world/international-court-prosecutor-seeks-arrest-warrants-for-israeli-pm-defense-chief-and-3-hamas-leaders/article_3592a5c6-16a6-11ef-959f-f7f90d51b303.html>
 
 ---
 
