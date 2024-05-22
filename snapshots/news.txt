@@ -284,8 +284,6 @@ https://www.smithsonianmag.com/rss/smart-news/ "~Smithsonian Magazine"
 https://www.theregister.com/headlines.atom "~The Register (UK I.T. News)"
 https://www.voanews.com/api/zqbomekvi_ "~VOA News USA"
 http://data.feedland.org/feeds/davewiner.xml "~Dave Winer's linkblog"
-https://heathercoxrichardson.substack.com/feed "~Heather Cox Richardson blog"
-https://feeds.feedburner.com/NiemanJournalismLab "~Nieman Journalism Lab"
 https://www.levernews.com/rss/ "~The Lever News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 

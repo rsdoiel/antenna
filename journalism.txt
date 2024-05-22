@@ -1,4 +1,5 @@
 #
 # Feeds Journalism or about Journalism feeds
 #
+#https://www.niemanlab.org/feed/ "~Nieman Journalism Lab"
 https://feeds.feedburner.com/NiemanJournalismLab "~Nieman Journalism Lab"

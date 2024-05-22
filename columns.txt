@@ -41,6 +41,7 @@ https://poynder.blogspot.com/feeds/posts/default?alt=rss "~Richard Poydner blog"
 #https://www.theatlantic.com/feed/author/james-fallows/ "~James Fallows, Atlantic"
 https://www.schneier.com/feed/atom/ "~Bruce Schneier blog"
 https://waitbutwhy.com/feed "~Wait but why blog"
+https://heathercoxrichardson.substack.com/feed "~Heather Cox Richardson blog"
 
 #
 # People Blogs, from news.txt, evaluate and prune
