@@ -1,11 +1,40 @@
 ---
 title: writing 2024.21
-updated: 2024-05-22 08:16:32
+updated: 2024-05-22 09:32:10
 ---
 
 # writing 2024.21
 
-(date: 2024-05-22 08:16:32)
+(date: 2024-05-22 09:32:10)
+
+---
+
+## 2024 Xingyun Awards Winners
+
+date: 2024-05-22, from: Locus Magazine
+
+<p>The 15th annual Xingyun awards for Chinese science fiction were presented by the World Chinese Science Fiction Association on May 18, 2024 in Chengdu, China.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Novel</strong></p>
+<ul>
+<li>WINNER:<strong> The City in the Well</strong>, Liu Yang (People’s Literature Publishing House)</li>
+</ul>
+<ul>
+<li><strong>Cosmo Wings</strong>, Jiang Bo (People’s Literature Publishing House; 8-Light Minutes Culture)</li>
+<li><strong>Gods of the Earth: Return of the Dead</strong>, Fenxing Chengzi (Shenzhen Publishing House; Science and Fantasy Growth </li></ul></div> <a href="https://locusmag.com/2024/05/2024-xingyun-awards-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/05/2024-xingyun-awards-winners/>
+
+---
+
+## Alexandra Pierce Reviews Moonstorm by Yoon Ha Lee
+
+date: 2024-05-22, from: Locus Magazine
+
+<p><strong>Moonstorm</strong>, Yoon Ha Lee (Delacorte Press 9-780-59348-833-1, $19.99, 352pp, hc) June 2024. Cover by Priscilla Kim.</p>
+<p>As Yoon Ha Lee’s YA novel <strong>Moonstorm </strong>opens, Hwajin is ten years old, living with her extended family on the clanner moon Carnelian, part of the Moonstorm. Carnelian has an eccentric orbit, and its gravity is consistent only when there is harmony amongst the people living on it. On the very first page,  <a href="https://locusmag.com/2024/05/alexandra-pierce-reviews-moonstorm-by-yoon-ha-lee/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/alexandra-pierce-reviews-moonstorm-by-yoon-ha-lee/>
 
 ---
 

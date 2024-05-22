@@ -1,11 +1,11 @@
 ---
 title: weather 2024.21
-updated: 2024-05-22 08:16:32
+updated: 2024-05-22 09:32:10
 ---
 
 # weather 2024.21
 
-(date: 2024-05-22 08:16:32)
+(date: 2024-05-22 09:32:10)
 
 ---
 
@@ -64,6 +64,153 @@ LAT...LON   34489693 35479472 36189316 35989207 34939237 33969310
  
 
 <https://www.spc.noaa.gov/products/md/md0889.html>
+
+---
+
+## SPC MD 890
+
+date: 2024-05-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0890.html"><img src="https://www.spc.noaa.gov/products/md/mcd0890.png" border="1" alt="MD 0890 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0890
+NWS Storm Prediction Center Norman OK
+1126 AM CDT Wed May 22 2024
+
+Areas affected...Northeast AR...Western and Middle TN...Northwest
+MS... Far Southwest KY
+
+Concerning...Severe potential...Watch likely 
+
+Valid 221626Z - 221830Z
+
+Probability of Watch Issuance...80 percent
+
+SUMMARY...Increasing thunderstorm coverage is anticipated from
+northeast Arkansas into western and middle Tennessee, northwest
+Mississippi, and far southwest Kentucky this afternoon. Large hail
+and strong gusts are possible, and a watch will likely be needed
+soon.
+
+DISCUSSION...Recent radar imagery has shown and increase in deeper
+convection across northeast AR, along and ahead of a
+southeastward-progressing cold front. Airmass preceding this front
+continues to destabilize, with recent surface observations sampling
+temperatures in the low 80s and dewpoints in the upper 60s/low 70s.
+This warm and moist low-level environment is helping to support
+strong buoyancy, despite relatively warm mid-levels and associated
+poor lapse rates. Recent mesoanalysis estimates MLCAPE is ranges
+from around 2500 J/kg across northeast AR to around 1000 J/kg over
+middle TN. Deep layer vertical shear over much of this region is
+currently modest, with mesoanalysis estimating effective bulk shear
+around 30 to 40 kt. Both buoyancy and vertical shear are forecast to
+increase throughout the afternoon, with the increase in buoyancy
+driven by continued heating and the increase in shear supported by
+increasing mid-level flow. 
+
+General expectation is for the currently shallow convection ahead of
+the front to deepen over time, with thunderstorm development likely.
+Increasing deep layer shear should promote an organized storm mode,
+with supercells possible. Large hail up to 1.75" to 2" in diameter
+will likely be the primary risk with initial, more cellular storms.
+The ongoing activity over northwest AR is expected to continue
+eastward, with some interaction between this activity and the more
+cellular, pre-frontal development is anticipated. This interaction,
+coupled with the steady southeastward progression of the cold front,
+will likely promote the transition to a more linear mode. Given the
+strengthening westerly flow aloft and ample low-level moisture, the
+development of a forward-propagating MCS is possible. Damaging gusts
+would be the primary risk with any linear development.
+
+Given all of these factors, a watch will likely be needed soon to
+cover the severe potential.
+
+..Mosier/Hart.. 05/22/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...OHX...PAH...MEG...LZK...
+
+LAT...LON   35109187 36548997 36878848 36278737 34918840 34178997
+            34219091 35109187 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0890.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/md/md0890.html>
+
+---
+
+## SPC May 22, 2024 1630 UTC Day 1 Convective Outlook
+
+date: 2024-05-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1109 AM CDT Wed May 22 2024
+
+Valid 221630Z - 231200Z
+
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON
+AND EVENING FROM CENTRAL TEXAS INTO SOUTHERN ARKANSAS AND NORTHWEST
+LOUISIANA...
+
+...SUMMARY...
+Within a long swath of severe-thunderstorm potential from central
+Texas to the Lower Great Lakes, the greatest concentration of severe
+weather (mainly large hail and damaging wind) should be across parts
+of central Texas to central Arkansas.  A few tornadoes are also
+possible.
+
+...Southeast OK/AR/TN...
+A band of strong/severe thunderstorms currently extends from
+southeast OK into northwest AR, ahead of a surface cold front. 
+These storms will track eastward today across AR, with new storms
+forming in the moist and moderately unstable air mass farther east. 
+Activity will spread into west/middle TN this afternoon, with a
+continued risk of hail and damaging wind gusts.
+
+...Central/East TX...
+The ongoing forecast remains valid, with few changes made this
+update cycle.  A very moist surface air mass is present today over
+central TX, with widespread dewpoints in the 70s.  Multiple subtle
+southern-stream shortwave troughs may affect this region this
+afternoon, leading to intense thunderstorm development from
+northwest into west-central TX.  Strong deep-layer shear and fast
+westerly flow aloft will promote supercells capable of very large
+hail, damaging winds, and a few tornadoes.  As this activity tracks
+southeastward, congealing outflow will increase the risk of
+corridors of damaging wind gusts.
+
+...Upper OH Valley into MD/PA/NY...
+Relatively fast southwesterly mid/upper level flow is present today
+over much of the northeast quadrant of the US, with a cold front
+moving across the OH Valley.  Dewpoints in the 60s, strong daytime
+heating, and moderately steep mid-level lapse rates will yield
+afternoon MLCAPE values of around 1500 J/kg.  Model guidance is in
+agreement that scattered clusters of thunderstorms will form across
+the region later today, with parameters favoring a risk of damaging
+winds and some hail in the strongest cells.
+
+..Hart/Wendt.. 05/22/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-05-22, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Wed, 22 May 2024 15:48:39 GMT 
+
+<https://www.nhc.noaa.gov/gis/>
 
 ---
 
@@ -263,16 +410,6 @@ duration of supercells.
 
 ---
 
-## There are no tropical cyclones at this time.
-
-date: 2024-05-22, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Wed, 22 May 2024 11:31:39 GMT 
-
-<https://www.nhc.noaa.gov/gis/>
-
----
-
 ## NHC Atlantic Outlook
 
 date: 2024-05-22, from: Graphical Tropical Weather Outlooks
@@ -291,27 +428,26 @@ ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS N
 
 ---
 
-## Eastern North Pacific Tropical Weather Outlook
+## Eastern Pacific Tropical Weather Outlook
 
-date: 2024-05-22, from: Eastern Pacific Basin Tropical Cyclones
+date: 2024-05-22, from: Eastern Pacific Tropical Weather Outlook
 
-
-<br/>
-000<br/>
-ABPZ20 KNHC 221118<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-500 AM PDT Wed May 22 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Tropical cyclone formation is not expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Kelly<br/>
- 
+ <br />
+ 000<br />
+ ABPZ20 KNHC 221118<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 500 AM PDT Wed May 22 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ Tropical cyclone formation is not expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Kelly<br />
+  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
@@ -1679,69 +1815,4 @@ delineation is warranted.
  
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
-
----
-
-## SPC May 20, 2024 1630 UTC Day 1 Convective Outlook
-
-date: 2024-05-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1133 AM CDT Mon May 20 2024
-
-Valid 201630Z - 211200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS OVER PORTIONS
-OF THE CENTRAL HIGH PLAINS...
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-NORTHERN ILLINOIS AND SOUTHERN WISCONSIN...
-
-...SUMMARY...
-The primary threat for severe thunderstorms today will be over parts
-of the central Plains, with large hail, damaging wind gusts, and a
-few tornadoes possible.
-
-...Central High Plains...
-A large upper trough will slowly deepen across the western United
-States today, with strengthening southwesterly mid/upper level flow
-spreading across the Plains states.  A band of mid-level moisture
-and instability will result in scattered high-based thunderstorms
-across northern CO/southern WY by mid-afternoon, capable of locally
-damaging wind gusts.  Other discrete supercell storms may form in
-vicinity of the DCVZ as southeasterly low-level winds and elevated
-terrain aid in initiation.  These storms will track
-east-northeastward into a progressively more moist/unstable air
-mass, with the risk of very large hail and a few tornadoes through
-the evening.  By mid-evening, coverage of storms will increase over
-southwest NE as a southerly low-level jet strengthens, with storms
-progressing across the central Plains overnight with a continued
-risk of large hail and damaging winds.
-
-...IL/WI...
-A well-defined remnant MCV from overnight convection over KS is
-currently over northeast IA.  A surface boundary extends eastward
-from the low across northern IL.  Broken clouds and partial
-afternoon heating will aid in the development of thunderstorms near
-the MCV later today as it tracks across southern WI/northern IL. 
-Any storm that can interact with the boundary would have the
-potential to become a supercell and pose a risk of a tornado or two.
- Otherwise, hail and gusty winds could occur with the strongest
-cells.
-
-...Southeast FL...
-Widely scattered afternoon thunderstorms are possible across
-southeast FL.  Ample low-level moisture, strong heating, cyclonic
-midlevel flow, and relatively steep lapse rates could result in a
-strong storm or two capable of gusty winds and hail.
-
-..Hart/Wendt.. 05/20/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 

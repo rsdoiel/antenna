@@ -1,11 +1,41 @@
 ---
 title: columns 2024.21
-updated: 2024-05-22 08:16:32
+updated: 2024-05-22 09:32:10
 ---
 
 # columns 2024.21
 
-(date: 2024-05-22 08:16:32)
+(date: 2024-05-22 09:32:10)
+
+---
+
+##  The true story behind the kid who went 1940s viral for his... 
+
+date: 2024-05-22, updated: 2024-05-22, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044666-the-true-story-behind-the>
+
+---
+
+## May 21, 2024
+
+date: 2024-05-22, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/may-21-2024>
+
+---
+
+##  The wind phone is an unconnected telephone booth in Japan where people... 
+
+date: 2024-05-22, updated: 2024-05-22, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044665-the-wind-phone-is-an>
 
 ---
 
@@ -163,6 +193,16 @@ date: 2024-05-22, from: Robert Reich's blog
 It may be the ideological heart of his campaign. 
 
 <https://robertreich.substack.com/p/but-seriously-is-trump-now-openly>
+
+---
+
+## May 21, 2024* 
+
+date: 2024-05-22, from: Heather Cox Richardson blog
+
+Trump&#8217;s lawyers rested their defense of the former president today, putting an end to the testimony we will hear in the case. Trump did not testify. Trump's refusal to take the stand encapsulates the MAGA approach to politics. Since the 2020 presidential election, he and his surrogates have made repeated accusations and statements about how the system is rigged against them and alleged there is evidence that proves them right. 
+
+<https://heathercoxrichardson.substack.com/p/may-22-2024>
 
 ---
 
@@ -390,6 +430,16 @@ date: 2024-05-21, updated: 2024-05-21, from: Jason Kittke's blog
 
 ---
 
+## May 20, 2024
+
+date: 2024-05-21, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/may-20-2024-886>
+
+---
+
 **@Dave Winer's Scripting News** (date: 2024-05-21, from: Dave Winer's Scripting News)
 
 If I were building a product like <a href="https://substack.com/home">Substack</a> or <a href="https://ghost.org/">Ghost</a>, I would build on top of <a href="https://wordpress.org/">WordPress</a>, for the widest compatibility. 
@@ -543,6 +593,16 @@ date: 2024-05-21, from: Robert Reich's blog
 Samuel Alito and the politics of vice signaling 
 
 <https://robertreich.substack.com/p/giving-liberals-the-finger>
+
+---
+
+## May 20, 2024 
+
+date: 2024-05-21, from: Heather Cox Richardson blog
+
+There is a curious dynamic at work in politics these days. Trump does not appear to be trying to court voters to his standard. If he were, he would be reaching out to Nikki Haley voters and trying to moderate his stances. Instead, he is rejecting her voters and doubling down on extreme positions. Rather than trying to appeal to swing voters, he seems to be trying to whip up his right-wing base to engage in violence on his behalf. 
+
+<https://heathercoxrichardson.substack.com/p/may-20-2024>
 
 ---
 
@@ -742,6 +802,16 @@ date: 2024-05-20, updated: 2024-05-20, from: Jason Kittke's blog
 
 ---
 
+## May 19, 2024
+
+date: 2024-05-20, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/may-19-2024-ab6>
+
+---
+
 ##  Can shame help us become better people? &#8220;In Confucianism, shame is a... 
 
 date: 2024-05-20, updated: 2024-05-20, from: Jason Kittke's blog
@@ -861,6 +931,16 @@ date: 2024-05-20, from: Robert Reich's blog
 Why Biden&#8217;s good news isn&#8217;t getting through, and what Biden should do about it 
 
 <https://robertreich.substack.com/p/what-do-americans-really-know-about>
+
+---
+
+## May 19, 2024
+
+date: 2024-05-20, from: Heather Cox Richardson blog
+
+Delivering the commencement address to the graduating seniors at Morehouse College today, President Joe Biden addressed the nation. After thanking the mothers, fathers, grandmothers, grandfathers, and all the people who helped the graduates get to the chairs in front of the stage, Biden recalled Morehouse&#8217;s history. The school was founded in 1867 by civil rights leader Reverend William Jefferson White with the help of two other Baptist ministers, the Reverend Richard C. Coulter and the Reverend Edmund Turney, to educate formerly enslaved men. They believed &#8220;education would be the great equalizer from slavery to freedom,&#8221; Biden said, and they created an institution that would make the term &#8220;Morehouse man&#8221; continue to stand as a symbol of excellence 157 years later. 
+
+<https://heathercoxrichardson.substack.com/p/may-19-2024>
 
 ---
 
@@ -1236,4 +1316,14 @@ date: 2024-05-19, from: Tracy Durnell Blog
 Questions and followup thoughts from today&#8217;s Bonus Homebrew Website Club on the social norms of the IndieWeb. Notes here. Social norms across platforms and between communities There are different social norms within different communities on different platforms &#8212; how much do the community members shape its norms versus the platform and its affordances? E.g. are [&#8230;] 
 
 <https://tracydurnell.com/2024/05/18/social-norms-of-the-indieweb/>
+
+---
+
+## May 18, 2024
+
+date: 2024-05-19, from: Heather Cox Richardson blog
+
+Spent a lovely day today with family and let the world turn without me. Handing tonight&#8217;s letter over to my friend Peter with a photograph of his heralding the summer that is just over the horizon. I&#8217;ll be back at it tomorrow. [Image, &#8220;Moon, Hardwood,&#8221; by Peter Ralston] 
+
+<https://heathercoxrichardson.substack.com/p/may-18-2024>
 

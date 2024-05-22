@@ -1,11 +1,71 @@
 ---
 title: tech likely 2024.21
-updated: 2024-05-22 08:16:31
+updated: 2024-05-22 09:32:10
 ---
 
 # tech likely 2024.21
 
-(date: 2024-05-22 08:16:31)
+(date: 2024-05-22 09:32:10)
+
+---
+
+##  The true story behind the kid who went 1940s viral for his... 
+
+date: 2024-05-22, updated: 2024-05-22, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044666-the-true-story-behind-the>
+
+---
+
+## IBM Thinkpad 700C Disassembly
+
+date: 2024-05-22, from: Tilde.news
+
+<p><a href="https://tilde.news/s/puuxpb/ibm_thinkpad_700c_disassembly">Comments</a></p> 
+
+<https://www.ifixit.com/Guide/IBM+Thinkpad+700C+Disassembly/173038>
+
+---
+
+## NASA’s Psyche Fires Up Its Sci-Fi-Worthy Thrusters
+
+date: 2024-05-22, from: NASA breaking news
+
+The spacecraft already is beyond the distance of Mars and is using ion propulsion to accelerate toward a metal-rich asteroid, where it will orbit and collect science data. NASA’s Psyche spacecraft passed its six-month checkup with a clean bill of health, and there’s no holding back now. Navigators are firing its futuristic-looking electric thrusters, which [&#8230;] 
+
+<https://www.nasa.gov/missions/psyche-mission/nasas-psyche-fires-up-its-sci-fi-worthy-thrusters/>
+
+---
+
+##  The wind phone is an unconnected telephone booth in Japan where people... 
+
+date: 2024-05-22, updated: 2024-05-22, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044665-the-wind-phone-is-an>
+
+---
+
+## Sols 1151-1152: Rocky Roads in the Margin Unit
+
+date: 2024-05-22, from: NASA breaking news
+
+Earth planning date: Wednesday, May 15, 2024 Recently, our intrepid rover has been channeling its namesake while navigating through difficult terrain as we march on through the margin unit. Despite the shorter drives, the team continues to make good progress investigating the rocks around us while scouting our traverse ahead. On Wednesday, we took advantage […] 
+
+<https://science.nasa.gov/blogs/sols-1151-1152-rocky-roads-in-the-margin-unit/>
+
+---
+
+## Sols 4191-4192: Communication
+
+date: 2024-05-22, from: NASA breaking news
+
+Earth planning date: Monday, May 20, 2024 A number of national holidays are taking place around the world this week and next, unofficially marking the start of summer for residents of the northern hemisphere. Holidays and extended weekends are seen as a time to catch up with family and friends, often centered around food and […] 
+
+<https://science.nasa.gov/blogs/sols-4191-4192-communication/>
 
 ---
 
@@ -70,7 +130,7 @@ date: 2024-05-22, from: Tilde.news
 
 ## Passwords and their Discontents
 
-date: 2024-05-22, from: O'Reilly Rador
+date: 2024-05-22, from: O'Reilly Radar
 
 This article originally appeared in Business Age. In commentary supplied to Business Age, I shot my mouth off saying that passwords are a poor solution for authenticating users–but none of the alternatives are very good, either. The choices available to us are at best poor.  So now I’m the victim of a follow-up question 🙂 [&#8230;] 
 

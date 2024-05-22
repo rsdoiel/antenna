@@ -1,11 +1,139 @@
 ---
 title: central coast 2024.21
-updated: 2024-05-22 08:16:31
+updated: 2024-05-22 09:32:10
 ---
 
 # central coast 2024.21
 
-(date: 2024-05-22 08:16:31)
+(date: 2024-05-22 09:32:10)
+
+---
+
+## Nutrition and Chronic Disease
+
+date: 2024-05-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="710" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Organic-Soup-Kit-photo.DSC04395-scaled.jpeg?fit=1024%2C710&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Organic-Soup-Kit-photo.DSC04395-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Organic-Soup-Kit-photo.DSC04395-scaled.jpeg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Organic-Soup-Kit-photo.DSC04395-scaled.jpeg?resize=1024%2C710&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Organic-Soup-Kit-photo.DSC04395-scaled.jpeg?resize=768%2C532&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Organic-Soup-Kit-photo.DSC04395-scaled.jpeg?resize=1536%2C1064&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Organic-Soup-Kit-photo.DSC04395-scaled.jpeg?resize=2048%2C1419&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Organic-Soup-Kit-photo.DSC04395-scaled.jpeg?resize=1200%2C831&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Organic-Soup-Kit-photo.DSC04395-scaled.jpeg?resize=1568%2C1086&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Organic-Soup-Kit-photo.DSC04395-scaled.jpeg?resize=2000%2C1386&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Organic-Soup-Kit-photo.DSC04395-scaled.jpeg?resize=400%2C277&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Organic-Soup-Kit-photo.DSC04395-scaled.jpeg?resize=706%2C489&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Organic-Soup-Kit-photo.DSC04395-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Organic-Soup-Kit-photo.DSC04395-scaled.jpeg?fit=1024%2C710&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>At Organic Soup Kitchen, we are driven by the impact that good nutrition can have on keeping the body as healthy as possible</p>
+<p>The post <a href="https://www.noozhawk.com/nutrition-and-chronic-disease/">Nutrition and Chronic Disease</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/nutrition-and-chronic-disease/>
+
+---
+
+## From Basics to Racing: Santa Barbara Community Rowing Youth Camps
+
+date: 2024-05-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="750" height="500" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/0503TTTwosW024.jpeg?fit=750%2C500&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/0503TTTwosW024.jpeg?w=750&amp;ssl=1 750w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/0503TTTwosW024.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/0503TTTwosW024.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/0503TTTwosW024.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/0503TTTwosW024.jpeg?fit=750%2C500&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Based on Cachuma Lake, camps are designed to teach campers the basics of the rowing stroke and then put it into practice in 1, 2 or 4-person boats</p>
+<p>The post <a href="https://www.noozhawk.com/from-basics-to-racing-santa-barbara-community-rowing-youth-camps/">From Basics to Racing: Santa Barbara Community Rowing Youth Camps</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/from-basics-to-racing-santa-barbara-community-rowing-youth-camps/>
+
+---
+
+## Randy Rowse: Santa Barbara — and Santa Barbarans — Deserve a Fully Open State Street
+
+date: 2024-05-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>One of the “Great Boulevards” in the world, the “Gateway” to Santa Barbara, the architectural treasure that is El Pueblo Viejo are all common descriptors of State Street in our [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/randy-rowse-santa-barbara-and-santa-barbarans-deserve-a-fully-open-state-street/">Randy Rowse: Santa Barbara — and Santa Barbarans — Deserve a Fully Open State Street</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/randy-rowse-santa-barbara-and-santa-barbarans-deserve-a-fully-open-state-street/>
+
+---
+
+## Santa Barbara Sunset
+
+date: 2024-05-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/122223-POD-Michael-Diamant.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara sunset framed between beach umbrellas." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/122223-POD-Michael-Diamant.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/122223-POD-Michael-Diamant.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/122223-POD-Michael-Diamant.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/122223-POD-Michael-Diamant.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/122223-POD-Michael-Diamant.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/122223-POD-Michael-Diamant.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/122223-POD-Michael-Diamant.jpg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/122223-POD-Michael-Diamant.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/122223-POD-Michael-Diamant.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/122223-POD-Michael-Diamant.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/122223-POD-Michael-Diamant.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/122223-POD-Michael-Diamant.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/122223-POD-Michael-Diamant.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-sunset-5/">Santa Barbara Sunset</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-sunset-5/>
+
+---
+
+## Southwest Airlines Grounding Weekday Denver Flights Out of Santa Barbara Airport
+
+date: 2024-05-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Southwest-Airlines-Denver-2.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A Southwest Airlines plane waits at the gate at the Santa Barbara Airport. Southwest is planning to reduce its Denver flights this summer." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Southwest-Airlines-Denver-2.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Southwest-Airlines-Denver-2.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Southwest-Airlines-Denver-2.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Southwest-Airlines-Denver-2.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Southwest-Airlines-Denver-2.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Southwest-Airlines-Denver-2.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Southwest-Airlines-Denver-2.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Southwest-Airlines-Denver-2.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Southwest-Airlines-Denver-2.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Southwest-Airlines-Denver-2.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Travelers heading out of the Santa Barbara Airport may have to adjust their plans. Airport Director Christopher Hastert said Southwest Airlines is planning to suspend some of its Denver flights [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/southwest-airlines-grounding-weekday-denver-flights-out-of-santa-barbara-airport/">Southwest Airlines Grounding Weekday Denver Flights Out of Santa Barbara Airport</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/southwest-airlines-grounding-weekday-denver-flights-out-of-santa-barbara-airport/>
+
+---
+
+## Santa Barbara Housing Authority Plans 48-Unit Project for Families, People with Disabilities
+
+date: 2024-05-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Housing-Project-La-Cumbre-1-Courtesy-Housing-Authority.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Rendering of Housing Authority of the City of Santa Barbara project." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Housing-Project-La-Cumbre-1-Courtesy-Housing-Authority.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Housing-Project-La-Cumbre-1-Courtesy-Housing-Authority.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Housing-Project-La-Cumbre-1-Courtesy-Housing-Authority.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Housing-Project-La-Cumbre-1-Courtesy-Housing-Authority.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Housing-Project-La-Cumbre-1-Courtesy-Housing-Authority.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Housing-Project-La-Cumbre-1-Courtesy-Housing-Authority.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Housing-Project-La-Cumbre-1-Courtesy-Housing-Authority.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Housing-Project-La-Cumbre-1-Courtesy-Housing-Authority.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Housing-Project-La-Cumbre-1-Courtesy-Housing-Authority.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-Housing-Project-La-Cumbre-1-Courtesy-Housing-Authority.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>That was smooth like honey. While some housing projects in Santa Barbara are controversial, the proposal before the Finance Committee on Tuesday was not. The committee enthusiastically supported a 48-unit [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-housing-authority-plans-project-for-families-people-with-disabilities/">Santa Barbara Housing Authority Plans 48-Unit Project for Families, People with Disabilities</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-housing-authority-plans-project-for-families-people-with-disabilities/>
+
+---
+
+## UCSB Protesters Waiting to Negotiate as Solidarity Encampment Marks 3 Weeks
+
+date: 2024-05-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-UCSB-encampment-1-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="UCSB solidarity encampment." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-UCSB-encampment-1-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-UCSB-encampment-1-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-UCSB-encampment-1-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-UCSB-encampment-1-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-UCSB-encampment-1-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-UCSB-encampment-1-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-UCSB-encampment-1-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-UCSB-encampment-1-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-UCSB-encampment-1-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-UCSB-encampment-1-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It’s been three weeks since UC Santa Barbara students set up a solidarity encampment for Palestine on a lawn between North Hall and the library. Now, the encampment spreads across [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsb-protesters-waiting-to-negotiate-as-solidarity-encampment-marks-3-weeks/">UCSB Protesters Waiting to Negotiate as Solidarity Encampment Marks 3 Weeks</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsb-protesters-waiting-to-negotiate-as-solidarity-encampment-marks-3-weeks/>
+
+---
+
+## FAFSA Fiasco Keeps Santa Barbara Students in Limbo Awaiting College Financial Aid
+
+date: 2024-05-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-FAFSA-fiasco-3-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Lindsay Woodard, a college and career counselor at San Marcos High School." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-FAFSA-fiasco-3-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-FAFSA-fiasco-3-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-FAFSA-fiasco-3-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-FAFSA-fiasco-3-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-FAFSA-fiasco-3-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-FAFSA-fiasco-3-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-FAFSA-fiasco-3-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-FAFSA-fiasco-3-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-FAFSA-fiasco-3-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052124-FAFSA-fiasco-3-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Lindsay Woodard, a college and career counselor at San Marcos High School, has spent the past few months helping about 100 high school seniors navigate the glitchy new Free Application [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/fafsa-fiasco-keeps-santa-barbara-students-in-limbo-awaiting-college-financial-aid/">FAFSA Fiasco Keeps Santa Barbara Students in Limbo Awaiting College Financial Aid</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/fafsa-fiasco-keeps-santa-barbara-students-in-limbo-awaiting-college-financial-aid/>
+
+---
+
+## San Marcos Boys Golf’s Shams Jahangir-Arshad Captures Channel League MVP to Lead Local Honorees
+
+date: 2024-05-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/shams-cover.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/shams-cover.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/shams-cover.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/shams-cover.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/shams-cover.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/shams-cover.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/shams-cover.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/shams-cover.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/shams-cover.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/shams-cover.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/shams-cover.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The boys golf All-Channel League team was decided at the League Individual Championship in late April at River Ridge Golf Club’s Victoria Lakes Course. The All-League honorees were automatically selected [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/san-marcos-boys-golfs-shams-jahangir-arshad-captures-channel-league-mvp-to-lead-local-honorees/">San Marcos Boys Golf&#8217;s Shams Jahangir-Arshad Captures Channel League MVP to Lead Local Honorees</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/san-marcos-boys-golfs-shams-jahangir-arshad-captures-channel-league-mvp-to-lead-local-honorees/>
+
+---
+
+## Man Faces Hefty Prison Term for Elder Abuse, Financial Fraud Involving Carpinteria Church Members
+
+date: 2024-05-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Brett-Lovett-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Brett Edward Lovett, 53, of Camarillo" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Brett-Lovett-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Brett-Lovett-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Brett-Lovett-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Brett-Lovett-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Brett-Lovett-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Brett-Lovett-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Brett-Lovett-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Brett-Lovett-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Brett-Lovett-2000.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Brett-Lovett-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A Camarillo man faces a lengthy prison sentence after perpetrating a years-long series of thefts and frauds against older members of a Carpinteria church and others. Brett Edward Lovett, 53, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/man-faces-hefty-prison-term-for-elder-abuse-financial-fraud-involving-carpinteria-church-members/">Man Faces Hefty Prison Term for Elder Abuse, Financial Fraud Involving Carpinteria Church Members</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/man-faces-hefty-prison-term-for-elder-abuse-financial-fraud-involving-carpinteria-church-members/>
 
 ---
 

@@ -1,11 +1,144 @@
 ---
 title: socal north 2024.21
-updated: 2024-05-22 08:16:31
+updated: 2024-05-22 09:32:10
 ---
 
 # socal north 2024.21
 
-(date: 2024-05-22 08:16:31)
+(date: 2024-05-22 09:32:10)
+
+---
+
+## Police Seek Public Help Locating Fatal Hit-and-Run Suspect
+
+date: 2024-05-22, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="722" height="238" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/NR24145.jpg?fit=722%2C238&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/NR24145.jpg?w=722&amp;ssl=1 722w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/NR24145.jpg?resize=300%2C99&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/NR24145.jpg?resize=400%2C132&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/NR24145.jpg?resize=706%2C233&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/NR24145.jpg?fit=722%2C238&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>SYLMAR (CNS) &#8211; Police released a surveillance photo today of a vehicle involved in a hit-and-run crash that killed a man in Sylmar, in hopes the image will generate tips [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/22/police-seek-public-help-locating-fatal-hit-and-run-suspect/">Police Seek Public Help Locating Fatal Hit-and-Run Suspect</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/22/police-seek-public-help-locating-fatal-hit-and-run-suspect/>
+
+---
+
+## From Brahmas to transfers
+
+date: 2024-05-22, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The Mall was awash in CSUN red, UCLA blue and other vibrant college colors last Wednesday, as Pierce College students celebrated their transfer acceptances. The</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/22/from-brahmas-to-transfers/">From Brahmas to transfers</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/22/from-brahmas-to-transfers/?utm_source=rss&utm_medium=rss&utm_campaign=from-brahmas-to-transfers>
+
+---
+
+## Jewish groups build community on campus
+
+date: 2024-05-22, from: The Round Up (Pierce College Student Newspaper)
+
+<p>When actuarial science major Yam Schutzer moved to Southern California from Israel seven months ago, she didn’t have her longtime friends or immediate family members</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/22/jewish-groups-build-community-on-campus/">Jewish groups build community on campus</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/22/jewish-groups-build-community-on-campus/?utm_source=rss&utm_medium=rss&utm_campaign=jewish-groups-build-community-on-campus>
+
+---
+
+## Media Arts and Native American Studies faculty team up for film screening
+
+date: 2024-05-22, from: The Round Up (Pierce College Student Newspaper)
+
+<p>In a collaboration between the Anthropology and Media Arts departments, the film “Smoke Signals” was screened in the Multicultural Center on May 14. After the</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/22/media-arts-and-native-american-studies-faculty-team-up-for-film-screening/">Media Arts and Native American Studies faculty team up for film screening</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/22/media-arts-and-native-american-studies-faculty-team-up-for-film-screening/?utm_source=rss&utm_medium=rss&utm_campaign=media-arts-and-native-american-studies-faculty-team-up-for-film-screening>
+
+---
+
+## Walk, don’t run, to the finish line
+
+date: 2024-05-22, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Similar to a pit crew at a car race, aiding the race walkers on the day of the race stood out as the most memorable</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/22/walk-dont-run-to-the-finish-line/">Walk, don’t run, to the finish line</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/22/walk-dont-run-to-the-finish-line/?utm_source=rss&utm_medium=rss&utm_campaign=walk-dont-run-to-the-finish-line>
+
+---
+
+## Many voices, one professor
+
+date: 2024-05-22, from: The Round Up (Pierce College Student Newspaper)
+
+<p>If you’ve watched “Star Wars,” “Frozen” or “Shazam,” you may have heard Pierce College professor Garineh Avakian’s voice. Avakian, who is a professor of voice</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/22/many-voices-one-professor/">Many voices, one professor</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/22/many-voices-one-professor/?utm_source=rss&utm_medium=rss&utm_campaign=many-voices-one-professor>
+
+---
+
+## The great persuasion
+
+date: 2024-05-22, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Alex Farasat and Melissa Jauregui took the first place prizes in informational and persuasive public speech categories respectively in the 8th Annual Speech Tournament held</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/22/the-great-persuasion/">The great persuasion</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/22/the-great-persuasion/?utm_source=rss&utm_medium=rss&utm_campaign=the-great-persuasion>
+
+---
+
+## Pierce College in the bookstands
+
+date: 2024-05-22, from: The Round Up (Pierce College Student Newspaper)
+
+<p>This month, a new book, “Under a Neon Sun,” has been released in which the protagonist is not just a student at Pierce College, but</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/22/pierce-college-in-the-bookstands/">Pierce College in the bookstands</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/22/pierce-college-in-the-bookstands/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-college-in-the-bookstands>
+
+---
+
+## News Briefs – May 22, 2024
+
+date: 2024-05-22, from: The Round Up (Pierce College Student Newspaper)
+
+<p>District Academic Senate vote of no confidence: The LACCD District Academic Senate passed a vote of no confidence in the LACCD Board of Trustees and</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/22/news-briefs-may-22-2024/">News Briefs – May 22, 2024</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/22/news-briefs-may-22-2024/?utm_source=rss&utm_medium=rss&utm_campaign=news-briefs-may-22-2024>
+
+---
+
+## Pursuing music, one genre at a time
+
+date: 2024-05-22, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Students in the Applied Music Program (AMP) showcased their work on Thursday in the Performing Arts Building. The genres of music that students performed on</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/22/pursuing-music-one-genre-at-a-time/">Pursuing music, one genre at a time</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/22/pursuing-music-one-genre-at-a-time/?utm_source=rss&utm_medium=rss&utm_campaign=pursuing-music-one-genre-at-a-time>
+
+---
+
+## Streetbeat: Who is your favorite college sports team, and why?
+
+date: 2024-05-22, from: The Round Up (Pierce College Student Newspaper)
+
+<p>&#160; &#160; “I am a fan of the UCLA gymnastics team. I’ve watched their performances and they have some really great athletes.” Aleena Khoboyan &#8211;</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/22/streetbeat-who-is-your-favorite-college-sports-team-and-why/">Streetbeat: Who is your favorite college sports team, and why?</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/22/streetbeat-who-is-your-favorite-college-sports-team-and-why/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-who-is-your-favorite-college-sports-team-and-why>
 
 ---
 
@@ -235,7 +368,7 @@ No. 6 seed UCLA softball (40-10, 17-4 Pac-12) will face No. 11 seed Georgia (43-
 
 date: 2024-05-21, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="696" height="877" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Matthew_Perry_ONDCP_White_House_-_Frame_Grab_-_Smile_cropped.png?fit=696%2C877&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Photo of Mattew Perry smiling" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Matthew_Perry_ONDCP_White_House_-_Frame_Grab_-_Smile_cropped.png?w=696&amp;ssl=1 696w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Matthew_Perry_ONDCP_White_House_-_Frame_Grab_-_Smile_cropped.png?resize=238%2C300&amp;ssl=1 238w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Matthew_Perry_ONDCP_White_House_-_Frame_Grab_-_Smile_cropped.png?resize=400%2C504&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Matthew_Perry_ONDCP_White_House_-_Frame_Grab_-_Smile_cropped.png?fit=696%2C877&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="696" height="877" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Matthew_Perry_ONDCP_White_House_-_Frame_Grab_-_Smile_cropped.png?fit=696%2C877&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Photo of Mattew Perry smiling" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Matthew_Perry_ONDCP_White_House_-_Frame_Grab_-_Smile_cropped.png?w=696&amp;ssl=1 696w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Matthew_Perry_ONDCP_White_House_-_Frame_Grab_-_Smile_cropped.png?resize=238%2C300&amp;ssl=1 238w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Matthew_Perry_ONDCP_White_House_-_Frame_Grab_-_Smile_cropped.png?resize=400%2C504&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Matthew_Perry_ONDCP_White_House_-_Frame_Grab_-_Smile_cropped.png?fit=696%2C877&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>LOS ANGELES (CNS) &#8211; Local and federal authorities today were investigating how &#8220;Friends&#8221; actor Matthew Perry obtained the prescription drug ketamine, which contributed to his death in October. A Los [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/05/21/law-enforcement-probing-death-of-friends-star-matthew-perry/">Law Enforcement Probing Death of &#8216;Friends&#8217; Star Matthew Perry</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

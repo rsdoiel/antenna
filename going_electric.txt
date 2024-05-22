@@ -1,4 +1,7 @@
 #
 # Going Electric has feeds involving home and transportation options powered by Electricity
 #
+https://insideevs.com/rss/news/all/ "~Inside EVs News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.rideapart.com/rss/news/all/ "~Ride Apart, Electric Motorcycle News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://electrek.co/feed/ "~Electrek Feed" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+

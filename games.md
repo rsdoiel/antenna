@@ -1,11 +1,61 @@
 ---
 title: games 2024.21
-updated: 2024-05-22 08:16:32
+updated: 2024-05-22 09:32:10
 ---
 
 # games 2024.21
 
-(date: 2024-05-22 08:16:32)
+(date: 2024-05-22 09:32:10)
+
+---
+
+## How to complete the vault puzzles in Destiny 2’s ‘Zero Hour’
+
+date: 2024-05-22, updated: 2024-05-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24160970/vault-puzzle-vaulted-obstacles-code-order>
+
+---
+
+## Where to find the switches in Destiny 2’s ‘Outbreak Refined’ quest
+
+date: 2024-05-22, updated: 2024-05-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24160969/outbreak-refined-switch-locations-legend-difficulty-path>
+
+---
+
+## How to finish ‘Zero Hour’ and get Outbreak Perfected in Destiny 2
+
+date: 2024-05-22, updated: 2024-05-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24155578/zero-hour-walkthrough-outbreak-perfected-exotic-pattern>
+
+---
+
+## The Witcher season 4 teaser proves that Liam Hemsworth sure looks like Geralt
+
+date: 2024-05-22, updated: 2024-05-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24162520/the-witcher-season-4-liam-hemsworth-first-look>
+
+---
+
+## Magic’s Phlage, Titan of Fire’s Fury, reignites the Modern format’s burn decks in MH3
+
+date: 2024-05-22, updated: 2024-05-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24161028/mtg-leaks-phlage-titan-fires-fury-preview-card-reveal-burn-decks>
 
 ---
 
@@ -216,16 +266,6 @@ date: 2024-05-20, updated: 2024-05-20, from: Polygon Website
  
 
 <https://www.polygon.com/24160895/i-saw-the-tv-glow-ending-explained-interpretation>
-
----
-
-## How to finish ‘Zero Hour’ and get Outbreak Perfected in Destiny 2
-
-date: 2024-05-20, updated: 2024-05-20, from: Polygon Website
-
- 
-
-<https://www.polygon.com/destiny-2-guide-walkthrough/24155578/zero-hour-walkthrough-outbreak-perfected-exotic-pattern>
 
 ---
 
