@@ -213,7 +213,7 @@ https://wilw.dev/feeds "~Wil Webberly blog"
 #
 # Publications
 #
-https://www.oreilly.com/radar/feed/index.xml "~O'Reilly Rador"
+https://www.oreilly.com/radar/feed/index.xml "~O'Reilly Radar"
 
 #
 # Problem feeds
