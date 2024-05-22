@@ -178,7 +178,6 @@ https://prologue.blogs.archives.gov/feed/ "~National Archives, Pieces of History
 https://raspad.com/blogs/posts.atom "~RasPad Blog"
 #https://raymii.org/s/feed.xml "~Ramy Van Elst blog"
 https://riscosbits.blog/feed/ "~Riscosbits Blog"
-https://robertreich.substack.com/feed "~Robert Reich on Substack"
 https://ror.org/index.xml "~ROR Research ID Blog"
 https://rosemaryorchard.com/feed.xml "~Rosemary Orchard |"
 https://rsdoiel.github.io/rss.xml "~Robert's Ramblings"
