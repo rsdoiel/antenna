@@ -1,11 +1,426 @@
 ---
 title: columns 2024.21
-updated: 2024-05-21 12:08:59
+updated: 2024-05-22 08:16:32
 ---
 
 # columns 2024.21
 
-(date: 2024-05-21 12:08:59)
+(date: 2024-05-22 08:16:32)
+
+---
+
+##  The Lost Typeface Recovered From the Thames River 
+
+date: 2024-05-22, updated: 2024-05-22, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/the-lost-typeface-recovered-from-the-thames-river>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-22, from: Dave Winer's Scripting News)
+
+Sometimes ChatGPT just <a href="https://chatgpt.com/share/9c47fbcf-7ba9-43a1-bd6b-be574c17ecf9">repeats itself</a>. Even when you demand that it stop repeating itself, it repeats itself. 
+
+<http://scripting.com/2024/05/22.html#a134417>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-22, from: Dave Winer's Scripting News)
+
+Has anyone ever asked you, on the social web, what you think about something? Not a message to everyone to which you could reply, but a message specifically to you? I try to do it when I think of it. I find you can get really interesting ideas that way sometimes. And also it's a way spreading some love around the world, because people like to be asked what they think, I've found. 
+
+<http://scripting.com/2024/05/22.html#a131318>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-22, from: Dave Winer's Scripting News)
+
+I'm going through <a href="https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)">Battlestar Galactica</a> for the third time. One of the major themes of the show is that the <a href="https://en.wikipedia.org/wiki/Cylons">robots</a> that the Capricans created went to war with the humans and almost but not quite wiped them out. Almost every episode is about the conflict between humans and the AIs. It's a fantastic show, the acting and the writing is far beyond most TV series. I'm at the beginning of season 3. I'll let you know if I figure anything out from watching the series again. 
+
+<http://scripting.com/2024/05/22.html#a125735>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-22, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/04/21/cylon.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Today's song: <a href="https://www.youtube.com/watch?v=R1W7ZCttn9E">Everything You Did</a>. "Turn up the <a href="https://en.wikipedia.org/wiki/The_Royal_Scam#Reference_to_the_Eagles">Eagles</a> the neighbors are listening." 
+
+<http://scripting.com/2024/05/22.html#a124512>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-22, from: Dave Winer's Scripting News)
+
+Campaign commercial. A picture of Trump at 88. Voiceover: "It's 2035. He's still president. Don't you wish you had a vote? (You don't.)" This message was approved by Uncle Sam and The Founders wondering wtf you were thinking when you voted for him in 2024. 
+
+<http://scripting.com/2024/05/22.html#a123633>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-22, from: Dave Winer's Scripting News)
+
+I watched 15 minutes of the playoff game between the Boston team and the Indiana team and found that I only gave the very slightest of fucks. I knew all the players. I like <a href="https://en.wikipedia.org/wiki/Obi_Toppin">Obi Toppin</a>, a former Knick we traded for some reason. That's about it for my inner fan. I turned it off as it went to overtime and looked up the result when I got up in the morning. That's how I like my NBA, frankly. 
+
+<http://scripting.com/2024/05/22.html#a123424>
+
+---
+
+## 2024-05-12 What to do about the climate?
+
+date: 2024-05-22, from: Alex Schroeder's Blog
+
+<h1 id="2024-05-12-what-to-do-about-the-climate">2024-05-12 What to do about the climate?</h1>
+
+<p>The main problem seems to me that nobody knows. So how do we find a way out of this uncertainty? What should or <a href="priorities">priorities</a> be?</p>
+
+<p>Before we even start, let me just say that I&rsquo;m never interested in debating climate change. <a href="2024-01-14-climate">It&rsquo;s real, it&rsquo;s here</a>, and people denying it are just trying to waste our time.</p>
+
+<p>The first category of action, I think, would be political: Vote green, on all levels of government. And by &ldquo;green&rdquo; I mean the most radical green possible but not necessarily a Green Party member. It all depends on the voting system, on the actual parties you have. If you live in a  one or two party state or if your Green Party is run by fascists, I have no idea what you should do. Something about political change, something about local politics, and so on.</p>
+
+<p>On the individual level, I think uncertainty arises because we&rsquo;re not sure. No littering looks nice but probably doesn&rsquo;t help much against the climate. Perhaps it helps against the micro-plastic? But how many plastic bags from land-locked Switzerland actually end up in the ocean? How much plastic is that compared to the fishing nets lost at sea? The oil spills? And here&rsquo;s the moment where it spirals out of control. Stop! I need to stop because there&rsquo;s no &ldquo;thinking it through&rdquo; when things are so complex unless you&rsquo;re a scientist working on it. I hope the scientists can do their research, and somebody else can compile the research into arguments, with weights attached, so that politicians and individuals know what to tackle first.</p>
+
+<p>This is why I appreciate lists of priorities, even if they are slightly wrong. They don&rsquo;t have to be perfect because perfection is a goal used to derail the conversation. If you think the top priority is to get rid of cars, and you have a lot of arguments against cars, then getting involved in a discussion where the other party argues about electric vehicles, lithium batteries, hydrogen storage, road access for emergency vehicles, mobility for the disabled, then yes to all of that, but also: get rid of cars. We can have nuance as long as we also start doing something. We can start by making large, private cars illegal. Then medium, private cars. Then add fees for long haul trucks. Build railways. Build trams. Get rid of public parking spaces without special permits. And on and on. This allows us to pull back out of car society with grace. We can get started and keep the things that we think are precious.</p>
+
+<p>The alternative is living as we do, followed by uncontrolled collapse, I fear.</p>
+
+<p>Yes, it&rsquo;s expensive. Not doing anything, however, is fatal.</p>
+
+<p>Here&rsquo;s what <a class="account" href="https://mastodon.green/@peterdutoit" title="@peterdutoit@mastodon.green">@peterdutoit</a> recently posted:</p>
+
+<blockquote>
+<p>In order of impact:</p>
+
+<p>🚫 Live car free<br>
+🚙 Shift to BEV [i.e. Battery Electric Vehicle]<br>
+✈️ One less flight (long return)<br>
+☀️ Use renewable energy<br>
+🚋 Shift to public transport<br>
+🔨 Refurbishment and renovation<br>
+🥗 Vegan diet<br>
+🆒 Heat pump<br>
+⏲️ Improved cooking equipment<br>
+♨️ Renewable-based heating</p>
+</blockquote>
+
+<p>He offered these two sources:</p>
+
+<ul>
+<li><a href="https://iopscience.iop.org/article/10.1088/1748-9326/ab8589">Quantifying the potential for climate change mitigation of consumption options</a>, Diana Ivanova <em>et al</em> 2020 <em>Environ. Res. Lett.</em> <strong>15</strong> 093001 <strong>DOI</strong> 10.1088/1748-9326/ab8589</li>
+<li>Creutzig, F., J. Roy, P. Devine-Wright, J. Díaz-José, F.W. Geels, A. Grubler, N. Maϊzi, E. Masanet, Y. Mulugetta, C.D. Onyige, P.E. Perkins, A. Sanches-Pereira, E.U. Weber, <a href="https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter05.pdf">2022: Demand, services and social aspects of mitigation</a>. In <a href="https://www.ipcc.ch/report/ar6/wg3/">IPCC, 2022: Climate Change 2022: Mitigation of Climate Change</a>. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [P.R. Shukla, J. Skea, R. Slade, A. Al Khourdajie, R. van Diemen, D. McCollum, M. Pathak, S. Some, P. Vyas, R. Fradera, M. Belkacemi, A. Hasija, G. Lisboa, S. Luz, J. Malley, (eds.)]. Cambridge University Press, Cambridge, UK and New York, NY, USA. doi: 10.1017/9781009157926.007</li>
+</ul>
+
+<p>The full report of <em>Climate Change 2022: Mitigation of Climate Change</em> is a PDF with 2042 pages. So there&rsquo;s an answer if anybody is claiming that we don&rsquo;t know what to do. But also: there&rsquo;s your answer if you&rsquo;re wondering why nobody is doing anything. Politicians at the top need people who read this report for them and my guess is – given what little I know about Swiss politics, for example – that there is only a very small number of people that have actually read this report, let alone understand enough of it in order to make informed decisions.</p>
+
+<p>This is why a public &ldquo;chain of trust&rdquo; needs to lead from interviews with public figures to interviews with experts. The media, including social media, needs to mediate this. Then people can at least go along with people they trust, even if this trust is built on public appearance, hollow campaign promises, good looks, height and whatever else engenders trust in people.</p>
+
+<p>Anyway, number one: 🚫 Live car free. If you can. Make the kind of choices that make this easier in the future, or for your children, or for your friends and family. If you can. But this is one of the goals we need to pursue. We need to get our <a href="priorities">priorities</a> right.</p>
+
+<p>(We don&rsquo;t need them to perfectly right, as discussed above. But we cannot save the planet and car culture, both. One of them will have to go.)</p>
+
+<p><a class="tag" href="/search/?q=%23Climate">#Climate</a></p> 
+
+<https://alexschroeder.ch/view/2024-05-12-uncertainty>
+
+---
+
+## Unredacting Pixelated Text
+
+date: 2024-05-22, updated: 2024-05-21, from: Bruce Schneier blog
+
+<p>Experiments in <a href="https://bishopfox.com/blog/unredacter-tool-never-pixelation">unredacting</a> text that has been pixelated.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/05/unredacting-pixelated-text.html>
+
+---
+
+## the attention cottage
+
+date: 2024-05-22, from: Ayjay blog
+
+In the last few days I have come across, or had sent to me, anguished cries from people who have recently been dragged on social media and cannot fathom the injustice of it, and I find myself thinking: You haven’t figured this out yet? You complain about your words being taken out of context when [&#8230;] 
+
+<https://blog.ayjay.org/the-attention-cottage/>
+
+---
+
+## Reading on the go
+
+date: 2024-05-22, from: Enlightenment Economics blog
+
+I&#8217;ve been travelling, including a week of holiday, so my reading has leant more towards fiction than usual. (Tokyo &#8211; my first trip, highly recommended, loved the TeamLab exhibitions.) Among the non-fiction, though, were two excellent (non-economics) books: Philip Ball&#8217;s &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2024/05/reading-on-the-go/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2024/05/reading-on-the-go/>
+
+---
+
+## But seriously, is Trump now openly embracing fascism? 
+
+date: 2024-05-22, from: Robert Reich's blog
+
+It may be the ideological heart of his campaign. 
+
+<https://robertreich.substack.com/p/but-seriously-is-trump-now-openly>
+
+---
+
+## curl 8.8.0
+
+date: 2024-05-22, from: Daniel Stenberg Blog
+
+Numbers the 257th release8 changes56 days (total: 9,560)220 bug-fixes (total: 10,271)348 commits (total: 32,280)1 new public libcurl function (total: 94)1 new curl_easy_setopt() option (total: 305)1 new curl command line option (total: 259)84 contributors, 41 new (total: 3,173)49 authors, 20 new (total: 1,272)0 security fixes (total: 155) Download the new curl release from curl.se as always. &#8230; <a href="https://daniel.haxx.se/blog/2024/05/22/curl-8-8-0/" class="more-link">Continue reading <span class="screen-reader-text">curl 8.8.0</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/05/22/curl-8-8-0/>
+
+---
+
+## Pixar Lays Off 175 Employees, 14 Percent of Staff, Shocking No One Who’s Tried Watching Their Recent Films
+
+date: 2024-05-22, updated: 2024-05-22, from: Daring Fireball
+
+ 
+
+<https://finance.yahoo.com/news/pixar-layoffs-underway-175-jobs-162130943.html?guccounter=1>
+
+---
+
+## Fox ”News”
+
+date: 2024-05-22, from: Dan Rather's Steady
+
+Did you know you&#8217;re likely funding the right-wing media machine? 
+
+<https://steady.substack.com/p/fox-news-0e7>
+
+---
+
+## Apple Loosens Core Technology Fee for Hobbyists and Small Developers
+
+date: 2024-05-21, updated: 2024-05-21, from: Daring Fireball
+
+ 
+
+<https://developer.apple.com/news/?id=d0z8d8rx>
+
+---
+
+## Copilot+ Laptops and Stickers
+
+date: 2024-05-21, updated: 2024-05-21, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/24105991/msi-claw-review>
+
+---
+
+## Wednesday 22 May, 2024
+
+date: 2024-05-21, from: John Naughton's online diary
+
+The edge of Europe The Cliffs of Moher in County Clare last Sunday. Quote of the Day ”Critics are men who watch a battle from a high place then come down and shoot the survivors.” Ernest Hemingway Guilty as charged, &#8230; <a href="https://memex.naughtons.org/wednesday-22-may-2024/39474/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-22-may-2024/39474/>
+
+---
+
+## Semafor: ‘As Clicks Dry Up for News Sites, Could Apple News Be a Lifeline?’
+
+date: 2024-05-21, updated: 2024-05-21, from: Daring Fireball
+
+ 
+
+<https://www.semafor.com/article/05/19/2024/as-clicks-dry-up-for-news-sites-could-apples-news-app-be-a-lifeline>
+
+---
+
+##  Registration for the 2024 XOXO Festival is now open! I will be... 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044662-registration-for-the-2024>
+
+---
+
+##  Three Pieces That Prove Bach&#8217;s Genius 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/three-pieces-that-prove-bachs-genius>
+
+---
+
+## The final XOXO is a go
+
+date: 2024-05-21, from: Matt Haughey blog
+
+<p>About 15 years ago, I&apos;d say I was at my high point of weird internet fame, where a few thousand people online knew who I was. When you run a big community website, you get to know thousands of people and they got to know me too.</p><p>The</p> 
+
+<https://a.wholelottanothing.org/xoxo-is-on/>
+
+---
+
+##  &#8220;Given the lack of decency they have shown, Genocide Inc. has decided... 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044661-given-the-lack-of-decency>
+
+---
+
+## A history of a logo with a colon and two slashes
+
+date: 2024-05-21, from: Daniel Stenberg Blog
+
+In the 2015 time frame I had come to the conclusion that the curl logo could use modernization and I was toying with ideas of how it could be changed. The original had served us well, but it definitely had a 1990s era feel to it. On June 11th 2015, I posted this image in &#8230; <a href="https://daniel.haxx.se/blog/2024/05/21/a-history-of-a-logo-with-a-colon-and-two-slashes/" class="more-link">Continue reading <span class="screen-reader-text">A history of a logo with a colon and two slashes</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/05/21/a-history-of-a-logo-with-a-colon-and-two-slashes/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-21, from: Dave Winer's Scripting News)
+
+What if <a href="https://www.npr.org/2024/05/20/1252495087/openai-pulls-ai-voice-that-was-compared-to-scarlett-johansson-in-the-movie-her">Scarlett Johansson</a> had said wtf let's see what happens. Might be fun to be the first default voice of AI. Like <a href="https://en.wikipedia.org/wiki/The_Horse_in_Motion">the jockey</a> in <a href="https://www.youtube.com/watch?v=heRuLp7CyTM">this movie</a>. 
+
+<http://scripting.com/2024/05/21.html#a201506>
+
+---
+
+##  The Earth&#8217;s rotation rate is changing, in part due to global warming.... 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044659-the-earths-rotation-is-sl>
+
+---
+
+##  John Green on the tradeoffs of sharing your personal life with strangers.... 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044657-john-green-on-the-tradeof>
+
+---
+
+##  Contenting Ourselves With Stories 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/contenting-ourselves-with-stories>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-21, from: Dave Winer's Scripting News)
+
+"Every day's an endless stream of cigarettes and magazines" is from <a href="https://www.youtube.com/watch?v=HAnj2fyjxRw">Homeward Bound</a> by Simon and Garfunkel. 
+
+<http://scripting.com/2024/05/21.html#a181310>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-21, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/21/magazineCover.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Podcast: <a href="http://scripting.com/2024/05/21/whatIsAMagazine.m4a">What is a magazine?</a> It depends on what direction you look at it from. An iPad was like a magazine, but what would you tell a young person who never used a magazine? What is it? Right now almost everyone is looking at AI from the point of view of a world with no AI. And it turns out that once you have it, it starts solving problems you never thought would be associated with AI. But there it is. You just have to sit down and start playing and you find all kinds of amazing things. But if you don't try it, you'll always be looking at it from the past. We've seen this kind of explosive growth in the power of the individual human. It's a 20-minute podcast and I'm all over the map, but it's good stuff, imho of course. YMMV, my mother loves me, I am not a lawyer. 
+
+<http://scripting.com/2024/05/21.html#a180113>
+
+---
+
+## Adobe Unveils Firefly-Powered Generative Remove in Lightroom
+
+date: 2024-05-21, updated: 2024-05-21, from: Daring Fireball
+
+ 
+
+<https://news.adobe.com/news/news-details/2024/Adobe-Unveils-Firefly-Powered-Generative-Remove-in-Lightroom-for-Fast-and-Easy-AI-Editing-Across-Surfaces/default.aspx>
+
+---
+
+## Office Hours: Is Trump openly embracing fascism?
+
+date: 2024-05-21, from: Robert Reich's blog
+
+Friends, On Monday afternoon, Trump posted a 30-second video on his Truth Social site featuring images of hypothetical newspaper articles celebrating his 2024 victory and referring to &#8220;the creation of a unified Reich&#8221; under the headline &#8220;What&#8217;s next for America?&#8221; 
+
+<https://robertreich.substack.com/p/office-hours-is-trump-openly-embracing>
+
+---
+
+## Stress-Testing Large Language Models’ Analogical Reasoning Abilities
+
+date: 2024-05-21, from: Melanie Mitchell, AI Guide for Human Thinking
+
+Hello all. This post is about some very recent research results on LLMs and analogy, and a discussion of a debate that has arisen about them. Warning: I get a bit into the weeds here. If you&#8217;re already familiar with the letter-string analogy domain, you might want to skip to section 2. 
+
+<https://aiguide.substack.com/p/stress-testing-large-language-models>
+
+---
+
+##  Have You Seen A Cybertruck Yet? I saw one yesterday driving through... 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044658-have-you-seen-a-cybertruc>
+
+---
+
+##  David Marchese interviews Marlon Wayans about grief & comedy. &#8220;I miss my... 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044656-david-marchese-interviews>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-21, from: Dave Winer's Scripting News)
+
+If I were building a product like <a href="https://substack.com/home">Substack</a> or <a href="https://ghost.org/">Ghost</a>, I would build on top of <a href="https://wordpress.org/">WordPress</a>, for the widest compatibility. 
+
+<http://scripting.com/2024/05/21.html#a161840>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-21, from: Dave Winer's Scripting News)
+
+I found a fairly painless way to transcribe voicemails using Google Docs. 1. Open a text document. 2. Choose <a href="https://support.google.com/docs/answer/4492226?hl=en">Voice Typing</a> from the Tools menu. 3. Play the voice memo over the speaker of your iPhone. 4. That's it. Google transcribes it into your document. It would be better if Apple offered that as an option in the Share menu, but they don't. 
+
+<http://scripting.com/2024/05/21.html#a160019>
+
+---
+
+##  Today&#8217;s music to work to: the solo piano version of Philip Glass&#8217;s... 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044655-todays-music-to-work-to>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-21, from: Dave Winer's Scripting News)
+
+<a href="http://scripting.com/2024/03/21/125505.html#a153700">March 2024</a>: "WordPress is, among other things, a perfect time capsule of open technologies from the early days of innovation on the web, and widely deployed and able to deliver all their benefits, if we widen our view of social media to be a social web." 
+
+<http://scripting.com/2024/05/21.html#a153827>
 
 ---
 
@@ -121,7 +536,7 @@ date: 2024-05-21, updated: 2024-05-21, from: Bruce Schneier blog
 
 ---
 
-## Understanding Alito's Flag
+## Understanding Alito’s Flag
 
 date: 2024-05-21, from: Robert Reich's blog
 
@@ -153,7 +568,7 @@ date: 2024-05-21, updated: 2024-05-21, from: Daring Fireball
 
 ## Microsoft’s New Flex Keyboard for the Surface Pro Tablet
 
-date: 2024-05-21, updated: 2024-05-21, from: Daring Fireball
+date: 2024-05-21, updated: 2024-05-22, from: Daring Fireball
 
  
 
@@ -253,7 +668,7 @@ date: 2024-05-20, from: Matt Haughey blog
 
 ## iOS 17.5.1 Includes Fix for Bug That Resurfaced Deleted Photos
 
-date: 2024-05-20, updated: 2024-05-20, from: Daring Fireball
+date: 2024-05-20, updated: 2024-05-21, from: Daring Fireball
 
  
 

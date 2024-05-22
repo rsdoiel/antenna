@@ -1,11 +1,35 @@
 ---
 title: libraries 2024.21
-updated: 2024-05-21 12:09:00
+updated: 2024-05-22 08:16:32
 ---
 
 # libraries 2024.21
 
-(date: 2024-05-21 12:09:00)
+(date: 2024-05-22 08:16:32)
+
+---
+
+## Guest Post — Results of the 4th Annual SSP Professional Skills Survey
+
+date: 2024-05-22, from: Scholarly Kitchen
+
+<p>The Society for Scholarly Publishing (SSP) Career Development Committee is pleased to announce the 4th annual Professional Skills Survey and updated Professional Skills Map.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/05/22/guest-post-results-of-the-4th-annual-ssp-professional-skills-survey/">Guest Post &#8212; Results of the 4th Annual SSP Professional Skills Survey</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/05/22/guest-post-results-of-the-4th-annual-ssp-professional-skills-survey/>
+
+---
+
+## Sunsetting Section 230 Will Limit Free Expression
+
+date: 2024-05-21, from: Association of Research Libraries News
+
+<p>Last Updated on May 21, 2024, 6:25 pm ET This week, the House Energy and Commerce Subcommittee on Communications and Technology will hold a hearing on a legislative proposal to...</p>
+<p>The post <a href="https://www.arl.org/blog/sunsetting-section-230-will-limit-free-expression/">Sunsetting Section 230 Will Limit Free Expression</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/blog/sunsetting-section-230-will-limit-free-expression/>
 
 ---
 
@@ -13,7 +37,7 @@ updated: 2024-05-21 12:09:00
 
 date: 2024-05-21, from: Association of Research Libraries News
 
-<p>Last Updated on May 21, 2024, 8:18 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 21 &#124; Wednesday, May 22 &#124; Thursday,...</p>
+<p>Last Updated on May 21, 2024, 4:37 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, May 21 &#124; Wednesday, May 22 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-20-23/">Day in Review (May 20–23)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

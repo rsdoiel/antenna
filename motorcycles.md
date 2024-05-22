@@ -1,11 +1,131 @@
 ---
 title: motorcycles 2024.21
-updated: 2024-05-21 12:09:01
+updated: 2024-05-22 08:16:32
 ---
 
 # motorcycles 2024.21
 
-(date: 2024-05-21 12:09:01)
+(date: 2024-05-22 08:16:32)
+
+---
+
+## Someone's Already Wrecked Can-Am's Fastest-Ever UTV
+
+date: 2024-05-22, from: Ride Apart, Electric Motorcycle News
+
+In fact, two have been totaled.  
+
+<https://www.rideapart.com/news/720484/can-am-maverick-r-copart-wrecked-utv/>
+
+---
+
+## Take A Look At Some Of The Bikes That Turned Heads At Sandraiders 2024
+
+date: 2024-05-22, from: Ride Apart, Electric Motorcycle News
+
+154 vintage rally bikes made their way to Morocco for Sandraiders 2024.  
+
+<https://www.rideapart.com/news/720335/sandraiders-2024-epic-lineup-154-bikes/>
+
+---
+
+## Actress Nina Dobrev In The Hospital After Sur-Ron Accident
+
+date: 2024-05-22, from: Ride Apart, Electric Motorcycle News
+
+"How It Started vs. How It's Going" the actress captioned her Instagram post.  
+
+<https://www.rideapart.com/news/720479/nina-dobrev-surron-crash-accident-celebrity/>
+
+---
+
+## There's a Military-Spec John Deere Gator Because The Humvee Had Too Many Doors
+
+date: 2024-05-22, from: Ride Apart, Electric Motorcycle News
+
+You can thank WWII's lack of basic safety for this adorable UTV.  
+
+<https://www.rideapart.com/news/720438/john-deere-m-gator-utv-humvee/>
+
+---
+
+## Top Block Racing Has A New Slider Kit For The Triumph Speed 400
+
+date: 2024-05-22, from: Ride Apart, Electric Motorcycle News
+
+There’s a new tail tidy for folks who want a sportier stance, too.  
+
+<https://www.rideapart.com/news/720337/top-block-racing-accessories-triumph-speed-400/>
+
+---
+
+## Kawasaki Ninja 7 And Z7 Hybrid Release Date Gets Pushed Back
+
+date: 2024-05-22, from: Ride Apart, Electric Motorcycle News
+
+The hotly anticipated middleweight hybrids promise a unique drivetrain and benefits when they finally hit the streets. 
+
+<https://www.rideapart.com/news/720468/kawasaki-hybrids-delayed-release-japan/>
+
+---
+
+## Carl Edwards, Ricky Rudd Lead 2025 NASCAR Hall Inductees
+
+date: 2024-05-22, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor CHARLOTTE, N.C. – Four more legends of NASCAR were announced as 2025 inductees to the NASCAR Hall of Fame between the Modern Era ballot, Pioneer&#8230;  
+
+<https://kickinthetires.net/nascar/edwards-rudd-2025-nascar-hall-inductees/>
+
+---
+
+## Kove 450R First Look
+
+date: 2024-05-21, from: Cycle World News
+
+Upstart company Kove is building bikes with engine configurations we thought were doomed forever. The 450R is a naked streetfighter with a 443cc inline-four. 
+
+<https://www.cycleworld.com/motorcycle-news/kove-450r-first-look/>
+
+---
+
+## Journal Bearing in Motorcycle Engines
+
+date: 2024-05-21, from: Cycle World News
+
+Friction is essential to making a motorcycle work, but there are places engineers work hard to minimize that friction. 
+
+<https://www.cycleworld.com/blogs/ask-kevin/journal-bearing-in-motorcycle-engines/>
+
+---
+
+## Indian Motorcycle Racing & Reigning Champion Mees Win Silver Dollar Short Track
+
+date: 2024-05-21, from: Cycle World News
+
+Mees edges out the competition aboard Indian FTR750, captures second victory of season as he moves into second overall through six rounds. 
+
+<https://www.cycleworld.com/the-wire/indian-motorcycle-racing-reigning-champion-mees-win-silver-dollar-short-track/>
+
+---
+
+## BMW Motorrad USA announces BMW Motorrad Days Americas 2024
+
+date: 2024-05-21, from: Cycle World News
+
+BMW Motorrad USA is proud to announce the return of BMW Motorrad Days Americas, as part of the storied Barber Vintage Festival, for 2024. 
+
+<https://www.cycleworld.com/the-wire/bmw-motorrad-usa-announces-bmw-motorrad-days-americas-2024-2/>
+
+---
+
+## Gaige Herrera Wins Route 66 NHRA Nationals, Ties NHRA Pro Stock Motorcycle Win-Streak Record
+
+date: 2024-05-21, from: Cycle World News
+
+Gaige Herrera (1) remains perfect this season after winning his third race of the year. 
+
+<https://www.cycleworld.com/the-wire/gaige-herrera-wins-route-66-nhra-nationals-ties-nhra-pro-stock-motorcycle-win-streak-record/>
 
 ---
 

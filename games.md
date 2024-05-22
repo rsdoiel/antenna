@@ -1,11 +1,111 @@
 ---
 title: games 2024.21
-updated: 2024-05-21 12:09:00
+updated: 2024-05-22 08:16:32
 ---
 
 # games 2024.21
 
-(date: 2024-05-21 12:09:00)
+(date: 2024-05-22 08:16:32)
+
+---
+
+## Tom King’s Archie one-shot will finally ‘solve’ the dilemma of Betty or Veronica
+
+date: 2024-05-22, updated: 2024-05-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24161985/tom-king-archie-comic-decision-bettie-veronica>
+
+---
+
+## Doctor Who put Steven Moffat back where he belongs
+
+date: 2024-05-22, updated: 2024-05-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24161071/doctor-who-steven-moffat-boom>
+
+---
+
+## IF isn’t a cute fantasy for kids, it’s a poisonous fantasy for adults
+
+date: 2024-05-22, updated: 2024-05-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24161804/if-ending-explained-john-krasinski-nostalgia-bait>
+
+---
+
+## We’re hosting a free screening of the new Haikyu!! movie this Sunday
+
+date: 2024-05-22, updated: 2024-05-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/5/22/24160703/haikyu-dumpster-battle-polygon-screening-frida>
+
+---
+
+## When does Fortnite downtime end and Chapter 5 Season 3 release?
+
+date: 2024-05-22, updated: 2024-05-22, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/fortnite-guide/2024/5/22/24161733/chapter-5-season-3-release-time-start-c5s3-wrecked>
+
+---
+
+## Where in the Dreaming City is Archie in Destiny 2?
+
+date: 2024-05-21, updated: 2024-05-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/2024/5/21/24161436/where-in-dreaming-city-archie-location>
+
+---
+
+## Ubisoft’s new free-to-play shooter XDefiant faces classic launch-day troubles
+
+date: 2024-05-21, updated: 2024-05-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24161951/ubisoft-xdefiant-unable-to-find-match-launch-day-troubles>
+
+---
+
+## Bungie’s Destiny 2 cheating lawsuit will be decided by jury trial this week
+
+date: 2024-05-21, updated: 2024-05-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24161935/bungie-destiny-2-cheating-jury-trial-aimjunkies>
+
+---
+
+## Destiny 2 The Pantheon bosses list, rewards, and guide to how it works
+
+date: 2024-05-21, updated: 2024-05-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24145806/the-pantheon-bosses-order-rewards-guide>
+
+---
+
+## This $14 Humble Bundle features seven excellent Steam Deck-ready Metroidvanias
+
+date: 2024-05-21, updated: 2024-05-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24161686/humble-metroidvania-steam-deck-bundle-deal-sale>
 
 ---
 

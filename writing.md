@@ -1,11 +1,211 @@
 ---
 title: writing 2024.21
-updated: 2024-05-21 12:09:00
+updated: 2024-05-22 08:16:32
 ---
 
 # writing 2024.21
 
-(date: 2024-05-21 12:09:00)
+(date: 2024-05-22 08:16:32)
+
+---
+
+## How to Create and Switch Window Layouts in Scrivener
+
+date: 2024-05-22, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p>Scrivener&#39;s window contains a lot of elements: the Binder on the left, the Inspector on the right, the Editor in the middle, the Toolbar and Format bar at the top, and the Footer bar at the bottom. You&#39;ll probably always have the Editor visible, but you don&#39;t always need to see all the other elements. You can hide the elements you&#39;re not using to make Scrivener&#39;s window simpler.</p>
+
+<p>If you often change which elements are visible in Scrivener&#39;s window, it&#39;s a good idea to create window layouts. These are saved settings that quickly switch what Scrivener displays, so you don&#39;t have to go to menus or use keyboard shortcuts to change your window&#39;s view. In this article, we&#39;ll show you how you can create and switch Scrivener window layouts.</p>
+
+Understanding window layouts
+
+<p>In <a href="https://www.literatureandlatte.com/blog/tame-the-scrivener-window" target="_blank">Tame the Scrivener Window</a>, we looked at the three main elements in Scrivener&#39;s window: the Binder (left), the Editor (center), and the Inspector (right).</p>
+
+<figure><img alt="" src="https://www.literatureandlatte.com/assets/image/blog/article/tame-window/full-window2.png" /></figure>
+
+<p>When you&#39;re planning or editing a project, you&#39;ll probably want to keep the <a href="https://www.literatureandlatte.com/blog/use-folders-and-texts-to-power-up-the-scrivener-binder" target="_blank">Binder</a> visible; that&#39;s the left-hand sidebar that holds the parts of your project. If you want to view or add synopses, add metadata, or attach notes to files, then you&#39;ll use the Inspector, the right-hand sidebar. (It has <a href="https://www.literatureandlatte.com/blog/get-to-know-the-scrivener-inspector" target="_blank">many other features</a>.) And you&#39;ll always want to view the <a href="https://www.literatureandlatte.com/blog/customize-the-scrivener-editor-1-setting-up-the-editor" target="_blank">Editor</a>, the central pane; in fact, you can&#39;t hide it. The Editor is where you write; it also displays your project in <a href="https://www.literatureandlatte.com/blog/plan-your-project-with-scriveners-outliner" target="_blank">Outline</a> and <a href="https://www.literatureandlatte.com/blog/organize-your-scrivener-project-with-the-corkboard" target="_blank">Corkboard</a> views.</p>
+
+<p>Adjusting the window layout for the task you are performing can make it easier to work on your projects. By removing elements you don&#39;t need, you also remove distractions. (For the ultimate in distraction-free writing, get to know <a href="https://www.literatureandlatte.com/blog/how-to-write-without-distractions-with-scrivener" target="_blank">Scrivener&#39;s Composition Mode</a>.)</p>
+
+
+Scrivener&#39;s built-in window layouts
+
+<p>Scrivener comes with seven built-in window layouts. You can see these by choosing Window &gt; Layout; the submenu shows each of these layouts by name, and a small graphic gives you an idea of what each one looks like.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-articles/window-layout1.png" alt="" width="312" />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>These layouts include the basic, three-pane view, as in the screenshot above; specific views that highlight the Outliner and Corkboard; and a useful dual-navigation view, that can fill your screen, and let you view the Binder, along with three other elements.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-articles/window-layout2.png" alt="" width="850" />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>You can hide these built-in layouts from this menu if you wish; see the note below.</p>
+
+Creating custom window layouts in Scrivener
+
+<p>The stock window layouts are great to give you an idea of what you can do to change Scrivener&#39;s display, but you can go much further by creating your own window layouts. Creating a layout means that you adjust different elements in the Scrivener window, and then save its settings. You can then switch to that layout at any time without manually changing all the settings.</p>
+
+<p>Before you do this, it&#39;s a good idea to save your current window layout, so you can revert to it at any time. To save this layout, choose Window &gt; Layouts &gt; Manage Layouts. A dialog displays showing a thumbnail of the current layout.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-articles/window-layout3.png" alt="" width="581" />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>To save this layout, click + and enter a name. Now, no matter how much you change Scrivener&#39;s window, you&#39;ll be able to come back to this layout by choosing it from the bottom of the Window &gt; Layouts menu, or from the Manage Layouts dialog.</p>
+
+<p><em><strong>Note</strong>: you can choose to hide the stock layouts from the Layouts menu if you wish. Click ... at the bottom of this dialog, then choose Hide Built-In Layouts in Menus.</em></p>
+
+<p>Here&#39;s what window layouts save:</p>
+
+
+	The size and position of the window, and the sizes of elements within them, such as how wide the Binder is or the ratio between the two splits.
+	The visibility of the Binder, collection list, and Inspector.
+	Whether the Editor is split; horizontally, vertically, or not at all.
+	Which element is visible in each split: Editor, Corkboard, or Outliner.
+	Whether the Header or Footer are visible in each split.
+	Whether the Ruler and Format Bar are visible.
+	Whether the window is in full-screen mode.
+
+
+<p>Some other settings are saved; see section 12.3.2 of the Scrivener manual for details.</p>
+
+<p>When you save layouts, there are two options that you can check:</p>
+
+
+	Save outliner and corkboard settings: this saves the Corkboard card size, ratio, card wrapping, and other display elements, as well as freeform and label view.
+	Preserve all metadata appearance options: this saves label tinting used in the various areas of the interface; and pin, stamp, and keyword chip visibility in the Corkboard.
+
+
+Switching window layouts in Scrivener
+
+<p>Now that you saved one or more window layouts in Scrivener, it&#39;s easy to switch. There are two ways to do this.</p>
+
+<p>Choose Window &gt; Layouts, then choose the name of the layout you want to use. The built-in layouts are in the top section of the menu, and the ones you&#39;ve saved are in the bottom section.</p>
+
+<p>Or choose Window &gt; Layouts &gt; Manage Layouts, or press Command-Shift-) on Mac, or Ctrl+) on Windows. This brings up the dialog you used to save layouts. You might want to use this option if you have saved several window layouts and forget exactly how they look.</p>
+
+<p>There are three ways to choose a layout from this dialog:</p>
+
+
+	Double-click a layout to switch to it. On the Mac, double-click the thumbnail; on Windows, double-click the layout&#39;s name.
+	Select a layout and press Return.
+	Select a layout and click Use.
+
+
+<p>If you make changes to a window layout and want to save the changes, select the layout, click ..., then choose Update Selected Layout.</p>
+
+<p>You can export and import window layouts if you want to share them, or if someone else has created a layout you want to use. From the ... menu, choose Export Selected Layout or Import Layout. This will save or import a .scrlayout file.</p>
+
+<p>Window layouts are a practical tool in Scrivener that lets you shift the way you look at a project, whether you&#39;re planning, writing, revising, or editing. Learn how to use window layouts to simplify Scrivener&#39;s display when you want to, and to show more details when you need to.</p>
+
+<p>For more on window layouts, see section 12.3 of the Scrivener manual.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+ 
+
+<https://www.literatureandlatte.com/blog/how-to-create-and-switch-window-layouts-in-scrivener>
+
+---
+
+## 2024 Grand Prix de l’Imaginaire Winners
+
+date: 2024-05-21, from: Locus Magazine
+
+<p>The winners of the 2024 Grand Prix de l&#8217;Imaginaire, honoring the best SF/F work published in France in 2023, have been announced.</p>
+<div class="mynomorebulletlist">
+<p><strong>French Novel</strong></p>
+<ul>
+<li>WINNER: <strong>Du thé pour les fantômes</strong>, Chris Vuklisevic (Denoël)</li>
+<li><strong>Trois battements, un silence</strong>, Anne Fakhouri (Argyll)</li>
+<li><strong>Vie contre vie</strong>, Tristan Garcia (Gallimard)</li>
+<li><strong>Le Tournoi des preux / Le Conte de l’assassin</strong>, Jean-Philippe Jaworski
+(Les Moutons Électriques)</li>
+</ul>
+<p><strong>Foreign Novel</strong></p>
+<ul>
+<li>WINNER: <strong>Le Ministère du </strong></li></ul></div> <a href="https://locusmag.com/2024/05/2024-grand-prix-de-limaginaire-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/05/2024-grand-prix-de-limaginaire-winners/>
+
+---
+
+## New Books, 21 May 2024
+
+date: 2024-05-21, from: Locus Magazine
+
+<p>Bell, Crystal J.: <b>The Lamplighter</b>
+(North Star Editions/Flux 9781635830989, $14.99, 304pp, formats: trade paperback, ebook, 05/21/2024)</p>
+<p>Young-adult historical horror novel. Temperance takes over as lamplighter in the 19th-century whaling village of Warbler after her father&#8217;s death, and has to prove she can do the job after a girl disappears and her investigation shows there may be a monster at large. A first novel.</p>
+<p>&#160;</p>
+<p>Boldizar, Alexander: <b>The Man Who Saw </b> <a href="https://locusmag.com/2024/05/new-books-21-may-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/new-books-21-may-2024/>
 
 ---
 
@@ -17,6 +217,17 @@ date: 2024-05-21, from: Locus Magazine
 <p>If you read my 2023 Year in Review essay pub­lished in the February edition of Locus, you’ll know my favourite collection was Matthew Cheney’s <strong>The Last Vanishing Man and Other Stories</strong>. I’m not going to repeat what I said about the book other than to note that while the stories tended to be grim  <a href="https://locusmag.com/2024/05/ian-mond-reviews-changes-in-the-land-by-matthew-cheney/" class="read-more">...Read More </a></p> 
 
 <https://locusmag.com/2024/05/ian-mond-reviews-changes-in-the-land-by-matthew-cheney/>
+
+---
+
+## Working It Out: Screenwriting Advice You’ll Actually Use
+
+date: 2024-05-21, from: John August blog
+
+John joins Mike Birbiglia on his podcast Working It Out to share direct, practical screenwriting advice that you’ll actually use, whether you’re an aspiring screenwriter or you want to pursue creative work of any kind. They explore John’s screenwriting process, from defining his expression “breaking the back of the script,” through the different forms of [&#8230;]
+The post <a href="https://johnaugust.com/2024/working-it-out-screenwriting-advice-youll-actually-use">Working It Out: Screenwriting Advice You’ll Actually Use</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/working-it-out-screenwriting-advice-youll-actually-use>
 
 ---
 
@@ -55,7 +266,7 @@ Through the magic doorway to Birdland
 
 date: 2024-05-21, from: Locus Magazine
 
-<p>Penguin Random House has announced the removal of two of its most prominent publishers: Reagan Arthur, head of Alfred A. Knopf, and Lisa Lucas, who ran Pantheon and Shocken, are both out in a surprise restructuring.</p>
+<p>Penguin Random House has announced the removal of two of its most prominent publishers: Reagan Arthur, head of Alfred A. Knopf, and Lisa Lucas, who ran Pantheon and Schocken, are both out in a surprise restructuring.</p>
 <p>Lucas, at least, didn&#8217;t see it coming, posting on social media that she learned of the dismissal on Monday morning, and adding, “I have some regrets about spending the weekend working.”</p>
 <p>Knopf Doubleday president  <a href="https://locusmag.com/2024/05/lucas-and-arthur-out-at-prh/" class="read-more">...Read More </a></p> 
 

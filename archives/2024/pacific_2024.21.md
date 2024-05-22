@@ -1,11 +1,713 @@
 ---
 title: pacific 2024.21
-updated: 2024-05-21 12:08:59
+updated: 2024-05-22 08:16:31
 ---
 
 # pacific 2024.21
 
-(date: 2024-05-21 12:08:59)
+(date: 2024-05-22 08:16:31)
+
+---
+
+## Debt refinancing projected to yield $3.3M in savings for Guam Power Authority 
+
+date: 2024-05-22, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Guam Power Authority is seeking to refinance its existing 2014 Series A revenue bond in a bid to... 
+
+<https://www.pacificislandtimes.com/post/proposed-bond-refinancing-projected-to-yield-3-3-million-in-savings-for-gpa>
+
+---
+
+## The dream of homeownership remains out of reach for many Guamanians
+
+date: 2024-05-22, from: Pacific Island Times
+
+By Mar-Vic Cagurangan Government housing loan programs may be available but the dream of owning a home remains a dream for many... 
+
+<https://www.pacificislandtimes.com/post/homeownership-remains-out-of-reach-for-many-guamanians>
+
+---
+
+## More energy credits introduced
+
+date: 2024-05-22, from: Guam Daily Post
+
+While lawmakers have yet to debate the last proposed extension to the Prugråman Ayuda Para I Taotao-ta Energy Credit Program, another proposal has already been introduced to extend the program even further. 
+
+<https://www.postguam.com/news/more-energy-credits-introduced/article_fa44f0c8-1812-11ef-9cfd-03d5e4e078f8.html>
+
+---
+
+## Four Waiakea seniors sign college letters
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>Four senior athletes from Waiakea High School &#8212; Noah Tyrin, Micah Lopes, Maya Kaneshiro and Journey Morimoto &#8212; held an event on Monday to sign letters of intent to join college athletic programs.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/sports/four-waiakea-seniors-sign-college-letters/>
+
+---
+
+## Celtics survive Pacers in OT to take Game 1 of East finals
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>Jayson Tatum scored a game-high 36 points and added 12 rebounds as the Boston Celtics earned a 133-128 overtime victory against the visiting Indiana Pacers on Tuesday night in Game 1 of the Eastern Conference finals.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/sports/celtics-survive-pacers-in-ot-to-take-game-1-of-east-finals/>
+
+---
+
+## Biden’s approval rating falls to lowest level in nearly two years-Reuters/Ipsos poll
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Joe Biden&#8217;s public approval rating this month fell to its lowest level in almost two years, tying the lowest reading of his presidency in a warning sign for his reelection effort, a Reuters/Ipsos poll showed.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/nation-world-news/bidens-approval-rating-falls-to-lowest-level-in-nearly-two-years-reuters-ipsos-poll/>
+
+---
+
+## Trump chooses not to take the stand, and the defense rests
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The jury heard his voice, saw his tweets and watched footage of him campaigning for the presidency. But in the end, the 12 New Yorkers weighing the fate of Donald Trump did not see him testify.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/nation-world-news/trump-chooses-not-to-take-the-stand-and-the-defense-rests/>
+
+---
+
+## One to 4 cyclones forecast, but ‘it only takes one storm to change your life’
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>The National Weather Service is forecasting below-normal activity for the upcoming Central Pacific hurricane season.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/hawaii-news/one-to-4-cyclones-forecast-but-it-only-takes-one-storm-to-change-your-life/>
+
+---
+
+## More strategies mulled for feral pig conundrum
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>As the population of feral pigs on the Big Island continues to grow, county officials and residents are considering a wider range of solutions.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/hawaii-news/more-strategies-mulled-for-feral-pig-conundrum/>
+
+---
+
+## Dry season forecast to be drier-than-normal
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>Although it might not appear so, especially in East Hawaii, the annual dry season has begun.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/hawaii-news/dry-season-forecast-to-be-drier-than-normal/>
+
+---
+
+## Grand jury indicts Ocean View man freed by judge
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>A Kona grand jury has indicted an Ocean View man in connection with the alleged violent kidnapping and abuse of a 27-year-old woman in Ocean View.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/hawaii-news/grand-jury-indicts-ocean-view-man-freed-by-judge/>
+
+---
+
+## State to get $916B in lawsuit against makers of Plavix blood thinner
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>The state has been awarded more than $900 million in a lawsuit against a pair of pharmaceutical companies that sold drugs they knew to be ineffective in certain ethnic groups.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/hawaii-news/state-to-get-916b-in-lawsuit-against-makers-of-plavix-blood-thinner/>
+
+---
+
+## New Jersey teen gets MVP assist for promposal
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>It took Jake Portello, a senior at Haddonfield Memorial High School in New Jersey, a knock on two doors to get a date for the prom.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/sports/new-jersey-teen-gets-mvp-assist-for-promposal/>
+
+---
+
+## HPA signing day: Three Ka Makani athletes ink letters of intent
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>WAIMEA &#8212; Hawaii Preparatory Academy ended its 2023-24 athletic year with a joyous celebration Monday in Castle Gym.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/sports/hpa-signing-day-three-ka-makani-athletes-ink-letters-of-intent/>
+
+---
+
+## Police seek leads on missing 12-year-old
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>Police are seeking the public&#8217;s help in locating a missing juvenile.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/hawaii-news/police-seek-leads-on-missing-12-year-old/>
+
+---
+
+## Jets coach Robert Saleh hypes up Aaron Rodgers after OTA practice: ‘He’s doing everything’
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Aaron Rodgers put on a dazzling display Tuesday during the second day of Jets OTAs. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/sports/jets-coach-robert-saleh-hypes-up-aaron-rodgers-after-ota-practice-hes-doing-everything/>
+
+---
+
+## New backup QB Justin Fields ‘competing every day’ as he seeks rare second chance with Steelers
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>PITTSBURGH &#8212; Strong second acts for first-round quarterbacks who flamed out with their original teams are hard to find throughout NFL history, but Justin Fields is hoping to buck the trend and reinvent himself with the Steelers. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/sports/new-backup-qb-justin-fields-competing-every-day-as-he-seeks-rare-second-chance-with-steelers/>
+
+---
+
+## UHH men’s golf collects conference awards
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>IRVINE, California &#8211; Pacific West Conference champion UH-Hilo placed a half-dozen players on the All-Conference Team, while island schools claimed 12 of the 15 spots on the 2024 Men&#8217;s Golf All-Pacific West Conference Team.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/sports/uhh-mens-golf-collects-conference-awards/>
+
+---
+
+## HHSAA inducts newest Officials Hall of Fame Class
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8212; The Hawaii Sports Officials Hall of Fame (HSOHOF) today announced five officials to be inducted to the Class of 2024 &#8212; Jim B. Beavers (football), Aaron Chaney (water polo), Abraham (Abe) Pacheco (boxing), Kenichi (Stupe) Shimogawa (football) and Thomas Yoshida (basketball).</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/sports/hhsaa-inducts-newest-officials-hall-of-fame-class/>
+
+---
+
+## Volcano Art Center offers summer camp for keiki
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>The Volcano Art Center is proud to offer the Liko A&#8216;e Summer Camp 1.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/community/volcano-art-center-offers-summer-camp-for-keiki/>
+
+---
+
+## Your views for May 22
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>A thousand &#8216;Janets&#8217;&#0010;but very little help</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/opinion/your-views-for-may-22-9/>
+
+---
+
+## Israel’s denial of Gaza aid may lead to an arrest warrant
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>The decision Monday by the prosecutor of the International Criminal Court to seek arrest warrants for leaders of Hamas and Israel probably will not result in anyone being put on trial immediately for crimes against humanity. But it does further tarnish Israel&#8217;s invasion of the Gaza Strip, add to the isolation of Israeli Prime Minister Benjamin Netanyahu and raise questions about President Joe Biden&#8217;s steadfast support for Israel&#8217;s war in Gaza.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/opinion/israels-denial-of-gaza-aid-may-lead-to-an-arrest-warrant/>
+
+---
+
+## We sued OpenAI to stop its exploitation of our published work
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>There is no artificial intelligence without the vast trove of human knowledge.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/opinion/we-sued-openai-to-stop-its-exploitation-of-our-published-work/>
+
+---
+
+## Gallery showcasing Native Hawaiian contemporary artists to open at EHCC
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>A $25,000 award from the National Endowment for the Arts to the East Hawaii Cultural Center will support a permanent, year-round gallery, Ola Na Iwi, that showcases Native Hawaiian and Pacific contemporary artists.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/community/gallery-showcasing-native-hawaiian-contemporary-artists-to-open-at-ehcc/>
+
+---
+
+## May proclaimed Wildfire Community Preparedness Month
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>Mayor Mitch Roth has proclaimed May as Wildfire Community Preparedness Month in Hawaii County.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/community/may-proclaimed-wildfire-community-preparedness-month/>
+
+---
+
+## Registration open for community art class
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>WAIMEA &#8212; Registration is open for the Thelma Parker Memorial Public Library&#8217;s First Saturday Community Art Class, Wabi-Sabi, which will be held from 10 a.m. to noon on Saturday, June 1.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/community/registration-open-for-community-art-class/>
+
+---
+
+## Giuliani and other Trump allies arraigned in Arizona election case
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>PHOENIX &#8212; Rudy Giuliani and 10 other allies of Donald Trump were arraigned and entered not-guilty pleas Tuesday in an Arizona criminal case that charges them with trying to keep Trump in power after he lost the 2020 presidential election.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/nation-world-news/giuliani-and-other-trump-allies-arraigned-in-arizona-election-case/>
+
+---
+
+## Iranian President Raisi’s memorial muted amid public discontent
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>DUBAI &#8212; Thousands of Iranians turned out to mourn President Ebrahim Raisi in the city of Tabriz on Tuesday, after he was killed in a helicopter crash near the Azerbaijan border at the weekend along with his foreign minister and seven others.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/nation-world-news/iranian-president-raisis-memorial-muted-amid-public-discontent/>
+
+---
+
+## Obituaries for May 22
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>ShirleyAnn Vicente Casuga, 72, of Milolii died May 15 at home. Born in Kealakekua, she was a farmer and fisherman, involved as a member of countless associations in Milolii and member of the Milolii NFL crew. Scattering of ashes Saturday, June 1, outside Milolii, followed by a celebration of life, fellowship and music at the family&#8217;s home, 89-1707 Milolii Government Rd. Casual attire; flowers are welcome to scatter. Survived by daughters, Christina (Richard) Casuga of Tacoma, Wash., Laurie (Rashad) Casuga-Matthews of Milolii and Yvette (Dowell) Jordan of Carson, Calif.; sisters, Dora Halena, Elizabeth Taetuna, Pearline (Didja) and Mildred (Darlene) Casuga of Milolii; brothers, Ben (Darlene) Casuga and Jack (Caroline) Casuga of Milolii; three grandchildren and a great-granddaughter; nieces, nephews, and cousins. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/obituaries/obituaries-for-may-22-11/>
+
+---
+
+## Israeli forces raze parts of Gaza’s Jabalia, hit Rafah with airstrikes
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>Israeli forces thrust deeper into Jabalia in northern Gaza on Tuesday, striking a hospital and destroying residential areas with tank and air bombardments, residents said, while Israeli airstrikes killed at least five people in Rafah in the south.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/nation-world-news/israeli-forces-raze-parts-of-gazas-jabalia-hit-rafah-with-airstrikes/>
+
+---
+
+## Hawaii Island to host 2024 Native Hawaiian Convention
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>The Council for Native Hawaiian Advancement has opened registration for its 2024 Native Hawaiian Convention, which will be held from Sept. 17-19 at Hilton Waikoloa Village on Hawaii Island.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/community/hawaii-island-to-host-2024-native-hawaiian-convention/>
+
+---
+
+## Hawaii housing market ‘bleak,’ University of Hawaii report finds
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii&#8217;s housing market was pretty bleak in terms of supply and affordability for most residents in 2023, according to a new report.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/hawaii-news/hawaii-housing-market-bleak-university-of-hawaii-report-finds/>
+
+---
+
+## Blinken says he’ll work with US Congress on potential ICC sanctions
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (Reuters) -The Biden administration is willing to work with Congress to potentially impose sanctions against International Criminal Court officials over the prosecutor&#8217;s request for arrest warrants for Israeli leaders over the Gaza war, Secretary of State Antony Blinken said on Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/nation-world-news/blinken-says-hell-work-with-us-congress-on-potential-icc-sanctions/>
+
+---
+
+## Singapore Airlines flight hits severe turbulence, one passenger dead, dozens injured
+
+date: 2024-05-22, from: Hawaii Tribune Harold
+
+
+				<p>BANGKOK &#8212; One passenger died of a suspected heart attack and 30 were injured after a Singapore Airlines flight hit severe turbulence on Tuesday, flinging passengers and crew around the cabin and forcing the plane to land in Bangkok, officials and the airline said.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/22/nation-world-news/singapore-airlines-flight-hits-severe-turbulence-one-passenger-dead-dozens-injured/>
+
+---
+
+## Oka carjacking trial begins
+
+date: 2024-05-22, from: Guam Daily Post
+
+On Wednesday afternoon in the Superior Court of Guam, the trial of Timothy Tedtaotao Serebour, who faces charges related to an armed carjacking at Oka Pay-Less supermarket on March 19 began. 
+
+<https://www.postguam.com/news/local/oka-carjacking-trial-begins/article_f9f5dd7c-17f8-11ef-90d2-cbe3781d7159.html>
+
+---
+
+## Nisperos prevails in CSC appeal
+
+date: 2024-05-22, from: Guam Daily Post
+
+A woman who worked as an administrative supervisor at the Office of the Attorney General has prevailed in her adverse action appeal at the Civil Service Commission. 
+
+<https://www.postguam.com/news/local/nisperos-prevails-in-csc-appeal/article_245328de-171a-11ef-a289-3be224dff0fb.html>
+
+---
+
+## Man, 26, allegedly recorded sex with girl, 16
+
+date: 2024-05-22, from: Guam Daily Post
+
+A 26-year-old man was accused of recording himself having sex with a 16-year-old girl. 
+
+<https://www.postguam.com/news/local/man-26-allegedly-recorded-sex-with-girl-16/article_0ed3a750-1728-11ef-91f5-ebb60343ba78.html>
+
+---
+
+## Woman accused of hindering the capture of ‘dangerous individual’
+
+date: 2024-05-22, from: Guam Daily Post
+
+A woman is facing charges related to hindering the apprehension of Mesemwan Repwak. 
+
+<https://www.postguam.com/news/local/woman-accused-of-hindering-the-capture-of-dangerous-individual/article_899946ba-1706-11ef-98e7-0b4142c3d687.html>
+
+---
+
+## Former OAG employee denying criminal sexual conduct charges
+
+date: 2024-05-22, from: Guam Daily Post
+
+A former employee of the Office of the Attorney General pleaded not guilty to criminal sexual conduct charges. 
+
+<https://www.postguam.com/news/local/former-oag-employee-denying-criminal-sexual-conduct-charges/article_bcb53892-17d8-11ef-a61d-fbc390703b23.html>
+
+---
+
+## Man accused of armed carjacking, robbery in 2 incidents on same day
+
+date: 2024-05-22, from: Guam Daily Post
+
+A man was charged in connection to two crimes that occurred about an hour apart Monday morning. 
+
+<https://www.postguam.com/news/local/man-accused-of-armed-carjacking-robbery-in-2-incidents-on-same-day/article_aa8bc9c4-17c9-11ef-bc11-5754403a201c.html>
+
+---
+
+## The subtle art of influence: China's strategic engagement in the CNMI
+
+date: 2024-05-22, from: Pacific Island Times
+
+Saipan-- China's growing presence in the Commonwealth of the Northern Mariana Islands cannot be ignored. Using strategic capitalist... 
+
+<https://www.pacificislandtimes.com/post/the-subtle-art-of-influence-china-s-strategic-engagement-in-the-cnmi>
+
+---
+
+## Hawaiian Word of the Week: Kilo
+
+date: 2024-05-22, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Kilo&#8212;Stargazer, seer, to observe, to examine.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/21/hawaiian-word-of-the-week-kilo/">Hawaiian Word of the Week: Kilo</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/21/hawaiian-word-of-the-week-kilo/>
+
+---
+
+## Guam Fire responds to 2 blazes
+
+date: 2024-05-22, from: Guam Daily Post
+
+The Guam Fire Department responded to fires in Dededo and Tamuning within 12 hours. 
+
+<https://www.postguam.com/news/guam-fire-responds-to-2-blazes/article_91073678-17e2-11ef-bee9-1bb6b71e6d80.html>
+
+---
+
+## Kahoʻolawe Retreat: ʻŌlelo students dive deep
+
+date: 2024-05-22, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Every March, <abbr>UH</abbr> M&#257;noa and <abbr>UH</abbr> Hilo students are invited on a 3-day retreat on <span aria-label="Kahoolawe">Kaho&#699;olawe</span> and tasked with only speaking Hawaiian.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/21/kahoolawe-olelo-students/">Kahoʻolawe Retreat: ʻŌlelo students dive deep</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/21/kahoolawe-olelo-students/>
+
+---
+
+## ConFest 2024: Kānaka Maoli, Asian American theatre take spotlight
+
+date: 2024-05-22, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> ConFest 2024 will feature a play festival, full-length productions, one-on-one training sessions, keynote speeches and more,</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/21/confest-2024/">ConFest 2024: Kānaka Maoli, Asian American theatre take spotlight</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/21/confest-2024/>
+
+---
+
+## UH Hilo golfers selected for PacWest honors
+
+date: 2024-05-22, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Members of the men’s and women’s golf teams received conference honors in addition to Earl Tamiya receiving Coach of the Year.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/21/golfers-pacwest-honors/"><abbr>UH</abbr> Hilo golfers selected for PacWest honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/21/golfers-pacwest-honors/>
+
+---
+
+## My Daughter is Shouting at Me
+
+date: 2024-05-22, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Veronica Montes Her tears and her spit and all her complicated feelings fly into the air. She says many things including don’t make it about you, Mom, don’t. I nod and stop talking. I sneak a look at my &#8230; <a href="https://hawaiipacificreview.org/2024/05/21/my-daughter-is-shouting-at-me/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/05/21/my-daughter-is-shouting-at-me/>
+
+---
+
+## Be prepared for hurricane season ‘24
+
+date: 2024-05-22, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Forecasters see fewer tropical cyclones for the 2024 hurricane season.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/21/hurricane-season-24/">Be prepared for hurricane season ‘24</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/21/hurricane-season-24/>
+
+---
+
+## Deaf graduate inspires keiki through journey of triumph
+
+date: 2024-05-22, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">4</span> <span class="rt-label rt-postfix">minutes</span></span> Lehano discovered that the <abbr>UH</abbr> Mānoa College of Education was creating a new cohort that was specific to severe disabilities and autism, which she jumped at the opportunity to apply.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/21/amber-lehano-journey-of-triumph/">Deaf graduate inspires keiki through journey of triumph</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/21/amber-lehano-journey-of-triumph/>
+
+---
+
+## Dozens of UH West Oʻahu grads earn degrees on Kauaʻi
+
+date: 2024-05-22, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Twenty-nine Kaua&#699;i-based students graduated from <abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> this academic year.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/21/uh-west-oahu-grads-earn-degrees-on-kauai/">Dozens of <abbr>UH</abbr> West Oʻahu grads earn degrees on Kauaʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/21/uh-west-oahu-grads-earn-degrees-on-kauai/>
+
+---
+
+## UH grad students train with national experts to tackle clean energy issues
+
+date: 2024-05-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> The summer program is supported by a <abbr>UH</abbr> Mānoa project called &#8220;Ka mana o ka lā: Modeling our energy future.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/21/energy-earthshots-workshop/"><abbr>UH</abbr> grad students train with national experts to tackle clean energy issues</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/21/energy-earthshots-workshop/>
+
+---
+
+## Native Hawaiian healer in training wins national public health award
+
+date: 2024-05-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Ashley Mainani Lee was recognized for her efforts in restoring the health of Native Hawaiians.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/21/nh-healer-in-training-wins-award/">Native Hawaiian healer in training wins national public health award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/21/nh-healer-in-training-wins-award/>
+
+---
+
+## Trailblazer: Mānoa law alumna rises to U.S. Senator’s chief of staff
+
+date: 2024-05-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">4</span> <span class="rt-label rt-postfix">minutes</span></span> Coti Haia has served in her current role for <abbr title="Senator">Sen.</abbr> Mazie Hirono since 2022.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/21/law-alumna-us-senators-chief-of-staff/">Trailblazer: Mānoa law alumna rises to U.S. Senator’s chief of staff</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/21/law-alumna-us-senators-chief-of-staff/>
+
+---
+
+## Prosecution of woman in assault case suspended
+
+date: 2024-05-21, updated: 2024-05-22, from: Marianas Variety
+
+THE prosecution of Nanami DLG Mafnas, who was charged with assault, has been suspended after she was accepted to the adult diversion program. 
+
+<https://www.mvariety.com/news/local/prosecution-of-woman-in-assault-case-suspended/article_a251f5fa-1763-11ef-8b19-ef93f4dca925.html>
+
+---
+
+## Singapore Airlines flight hits severe turbulence, one passenger dead, seven critically injured
+
+date: 2024-05-21, updated: 2024-05-22, from: Marianas Variety
+
+BANGKOK (Reuters) — One passenger was killed and 30 injured after a Singapore Airlines flight hit severe turbulence on Tuesday, flinging passengers and crew around the cabin and forcing the plane to land in Bangkok, officials and the airline said. 
+
+<https://www.mvariety.com/news/regional_world/singapore-airlines-flight-hits-severe-turbulence-one-passenger-dead-seven-critically-injured/article_6cb56776-1784-11ef-85f5-ab4e1566f7ad.html>
+
+---
+
+## Tinian delegation holds public hearing on internet gaming bill
+
+date: 2024-05-21, updated: 2024-05-22, from: Marianas Variety
+
+THE Tinian and Aguiguan Legislative Delegation on Tuesday conducted a public hearing on Senate Local Bill 23-5, which proposes to allow internet gaming on Tinian. 
+
+<https://www.mvariety.com/news/local/tinian-delegation-holds-public-hearing-on-internet-gaming-bill/article_615d9fde-175b-11ef-bd78-2f09d59b3c06.html>
+
+---
+
+## Marianas Milk
+
+date: 2024-05-21, updated: 2024-05-22, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/views/columnists/marianas-milk/article_b83ccf46-17c9-11ef-bdc6-db5ffa8ba70c.html>
+
+---
+
+## Environmental stewardship on a global stage
+
+date: 2024-05-21, updated: 2024-05-22, from: Marianas Variety
+
+Among other topics, Gov. Arnold I. Palacios spoke about environmental sustainability initiatives while in Tokyo, Japan last week. At the invitation of Tokyo Gov. Yuriko Koike, Palacios presented alongside other dignitaries from other major cities as part of the City Leaders Program - Sustainable High City Tech Tokyo 2024 Summit. He talked about the CNMI’s commitment to transitioning to renewable energy, the Green Growth Initiative, and how sustainability is rooted in both science and island wisdom and tradition. In his remarks, Palacios also mentioned that the CNMI just completed the first greenhouse gas inventory with help from the U.S. National Renewable Energy Laboratory. 
+
+<https://www.mvariety.com/news/local/environmental-stewardship-on-a-global-stage/article_5aa0fa26-1781-11ef-8467-63b1a0791511.html>
+
+---
+
+## Tourist drowns at Laulau Bay dive site
+
+date: 2024-05-21, updated: 2024-05-22, from: Marianas Variety
+
+A 40-YEAR-OLD male Chinese tourist drowned at the Laulau Bay Dive site on Friday, May 17, according to the Department of Public Safety. 
+
+<https://www.mvariety.com/news/local/tourist-drowns-at-laulau-bay-dive-site/article_d353e810-1755-11ef-af1f-778310429c2d.html>
+
+---
+
+## MVA, governor host Marianas Seminar in Tokyo
+
+date: 2024-05-21, updated: 2024-05-22, from: Marianas Variety
+
+(MVA) —  Over 70 travel agents, media representatives, and other key industry partners in Japan recently learned the latest destination details about the Marianas at a Marianas Seminar conducted by Marianas Visitors Authority on Tuesday, May 14. 
+
+<https://www.mvariety.com/news/local/mva-governor-host-marianas-seminar-in-tokyo/article_e70f4fda-1781-11ef-9e6a-1759cf8f2124.html>
+
+---
+
+## MVA starts A&E design of Marpi sites improvements
+
+date: 2024-05-21, updated: 2024-05-22, from: Marianas Variety
+
+(MVA) — The Marianas Visitors Authority is taking the first steps toward the redevelopment of several major historic sites in Saipan with commencement of architecture and engineering services for the project. 
+
+<https://www.mvariety.com/news/local/mva-starts-a-e-design-of-marpi-sites-improvements/article_85d67106-1783-11ef-b78e-1bea6d32f6a1.html>
+
+---
+
+## Kuentai-USA eyes resumption of excavations in Achugao
+
+date: 2024-05-21, updated: 2024-05-22, from: Marianas Variety
+
+KUENTAI-USA representatives on Tuesday met with Lt. Gov. David M. Apatang to seek assistance in resuming the excavation of Japanese and American remains in Achugao and surrounding areas. 
+
+<https://www.mvariety.com/news/local/kuentai-usa-eyes-resumption-of-excavations-in-achugao/article_d32addcc-1768-11ef-82da-0f0432124813.html>
+
+---
+
+## Saipan mayor discusses community initiatives with Rotarians
+
+date: 2024-05-21, updated: 2024-05-22, from: Marianas Variety
+
+MAYOR Ramon Blas "RB" Camacho of Saipan, as the special guest of the island’s Rotary Club on Tuesday, discussed the projects his office has undertaken since he was sworn in last year. 
+
+<https://www.mvariety.com/news/local/saipan-mayor-discusses-community-initiatives-with-rotarians/article_736fdc56-175f-11ef-b3ae-ab4efa3f4779.html>
 
 ---
 
@@ -16,6 +718,16 @@ date: 2024-05-21, from: Pacific Island Times
 By Pacific Island Times News Staff The Guam Waterworks Authority is seeking to appeal a lower court’s award of a disputed Dededo property... 
 
 <https://www.pacificislandtimes.com/post/gwa-seeks-finality-to-property-dispute-with-coretech>
+
+---
+
+## GMHA requests $74 million for fiscal 2025 to cover shortfall
+
+date: 2024-05-21, from: Guam Daily Post
+
+The Guam Memorial Hospital Authority is requesting $74.3 million from the Guam Legislature for fiscal year 2025 to cover a projected shortfall from funding sources - patient revenues, the Department of Corrections and federal grants - equal to that amount… 
+
+<https://www.postguam.com/news/gmha-requests-74-million-for-fiscal-2025-to-cover-shortfall/article_8d84cff6-1733-11ef-b395-137a31fb8981.html>
 
 ---
 
@@ -283,6 +995,30 @@ date: 2024-05-21, from: Hawaii Tribune Harold
 
 ---
 
+## Mariners break through vs. Clay Holmes, stun Yankees
+
+date: 2024-05-21, from: Hawaii Tribune Harold
+
+
+				<p>Ty France hit a tiebreaking RBI single to cap a four-run ninth inning off Clay Holmes as the Seattle Mariners rallied for a 5-4 victory over the host New York Yankees on Monday night. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/21/sports/mariners-break-through-vs-clay-holmes-stun-yankees/>
+
+---
+
+## Police ID motorcyclist killed in Ka‘u crash
+
+date: 2024-05-21, from: Hawaii Tribune Harold
+
+
+				<p>Police have identified a 59-year-old Ocean View man who died in a motorcycle crash Thursday in Ka&#8216;u as Andre Joseph Fournier Sr.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/21/hawaii-news/police-id-motorcyclist-killed-in-kau-crash/>
+
+---
+
 ## Palau Airport Jetway RepairsDisrupt United Airlines Flights
 
 date: 2024-05-21, from: Island Times
@@ -336,6 +1072,76 @@ date: 2024-05-21, from: Island Times
 
 ---
 
+## Public Defender seeks nearly $1M in local funds for Civil Law Center
+
+date: 2024-05-21, from: Guam Daily Post
+
+With American Rescue Plan Act funding drying up and grant funding being insufficient, the Public Defender Service Corp. is seeking to utilize local money to support the Civil Law Center division in fiscal year 2025. 
+
+<https://www.postguam.com/news/local/public-defender-seeks-nearly-1m-in-local-funds-for-civil-law-center/article_22b48348-170f-11ef-9d10-3b1fd7893aa1.html>
+
+---
+
+## Malojloj celebrates the 2024 San Isidro Fiesta
+
+date: 2024-05-21, from: Guam Daily Post
+
+San Ysidro in Spanish, or Isidore the Laborer in English, also known as Isidore the Farmer, was a Spanish farmworker known for his piety toward the poor and animals. He is the Catholic patron saint of farmers. San Isidro (in… 
+
+<https://www.postguam.com/news/local/malojloj-celebrates-the-2024-san-isidro-fiesta/article_a98c91da-1700-11ef-87db-a75428ec3089.html>
+
+---
+
+## 'There's a lot more to this case than meets the eye'
+
+date: 2024-05-21, from: Guam Daily Post
+
+A jury of 12 is anticipated to hear opening statements in a trial for a man accused of a carjacking at Oka Pay-Less in March. 
+
+<https://www.postguam.com/news/local/theres-a-lot-more-to-this-case-than-meets-the-eye/article_b44b8a62-1715-11ef-b8a9-2f65a2776378.html>
+
+---
+
+## Woman allegedly forged checks at bank, scammed money from victim
+
+date: 2024-05-21, from: Guam Daily Post
+
+A woman was accused of forging two bad checks and scamming a woman out of $900, according to a magistrate's complaint filed in the Superior Court of Guam. 
+
+<https://www.postguam.com/news/local/woman-allegedly-forged-checks-at-bank-scammed-money-from-victim/article_5c1fdf7e-1660-11ef-9f57-ab05d1d0c83a.html>
+
+---
+
+## Man, 22, allegedly got girl, 15, pregnant
+
+date: 2024-05-21, from: Guam Daily Post
+
+A 22-year-old man is accused of impregnating a 15-year-old girl in 2023. 
+
+<https://www.postguam.com/news/local/man-22-allegedly-got-girl-15-pregnant/article_71c716f4-1664-11ef-8ba4-4bf51b771622.html>
+
+---
+
+## Committee on Rules OKs up to $100K for legal fees in 2 cases
+
+date: 2024-05-21, from: Guam Daily Post
+
+The Committee on Rules at the Guam Legislature adopted two resolutions on Monday authorizing the hiring of legal counsel as needed and the spending of up to $100,000 in total on legal fees for cases involving a petition at the… 
+
+<https://www.postguam.com/news/local/committee-on-rules-oks-up-to-100k-for-legal-fees-in-2-cases/article_fb045ea6-1680-11ef-a268-e34ec1a80270.html>
+
+---
+
+## DPW to install safety measures on Asan curve
+
+date: 2024-05-21, from: Guam Daily Post
+
+The inner lanes on portion of road on Route 1 Marine Corps Drive in Asan, known as Dead Man's Curve, will be closed this weekend. 
+
+<https://www.postguam.com/news/local/dpw-to-install-safety-measures-on-asan-curve/article_fc6e4b94-1725-11ef-ac16-f79bef6ce541.html>
+
+---
+
 ## Palau Revives Weed Eradication Program to Boost Climate Resilience
 
 date: 2024-05-21, from: Island Times
@@ -348,12 +1154,14 @@ date: 2024-05-21, from: Island Times
 
 ---
 
-## U.S proposes newdefence site in Palau
+## DoD representatives meet with residents of Palau;
 
 date: 2024-05-21, from: Island Times
 
-<p>KOROR, 20 MAY 2024 (PACIFIC ISLAND TIMES)&#8212;—The U.S military is proposing a new defence site in Palau as part of its strategy to beef up regional security amid escalating tensions in the Indo-Pacific.According to a statement from the Joint Region Marianas, engineers from the U.S Navy, U.S Air Force and U.S Marine Corps brief Palauan [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/u-s-proposes-newdefence-site-in-palau/">U.S proposes newdefence site in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+<figure><img width="833" height="556" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/dod.jpg?fit=833%2C556&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/dod.jpg?w=833&amp;ssl=1 833w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/dod.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/dod.jpg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/dod.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/dod.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/dod.jpg?fit=833%2C556&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70349" data-permalink="https://islandtimes.org/u-s-proposes-newdefence-site-in-palau/dod/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/dod.jpg?fit=833%2C556&amp;ssl=1" data-orig-size="833,556" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="dod" data-image-description="" data-image-caption="&lt;p&gt;About 200 residents attended the meetings which were held to discuss the proposed designation of a new defense site in Peleliu. (U.S. Navy photo by Shaina O’Neal)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/dod.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/dod.jpg?fit=780%2C521&amp;ssl=1" /></figure>
+<p>Discuss proposed designation of defense site in Peleliu KOROR, Republic of Palau (May 17, 2024) – A team of engineers and representatives of the Department of Defense (DoD) met with government leaders and residents of the Republic of Palau to discuss the proposed designation of a new defense site in Peleliu, May 13 and 15.About [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-proposes-newdefence-site-in-palau/">DoD representatives meet with residents of Palau;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
 
 <https://islandtimes.org/u-s-proposes-newdefence-site-in-palau/>
@@ -559,11 +1367,11 @@ The post <a href="https://www.hawaii.edu/news/2024/05/20/national-student-ad-com
 
 ---
 
-## Pacific Rim awarded $176.9M contract for military housing on Guam
+## More than $300 million worth of contracts awarded for military projects on Guam
 
 date: 2024-05-20, from: Pacific Island Times
 
-By Pacific Island Times News Staff Pacific Rim Constructors Inc. has been awarded a $176.9 million contract for the design and... 
+By Pacific Island Times News Staff More than $300 million worth of contracts for military buildup-related projects on Guam were awarded... 
 
 <https://www.pacificislandtimes.com/post/pacific-rim-awarded-176-9m-contract-for-military-housing-on-guam>
 

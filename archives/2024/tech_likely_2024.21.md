@@ -1,11 +1,680 @@
 ---
 title: tech likely 2024.21
-updated: 2024-05-21 12:08:59
+updated: 2024-05-22 08:16:31
 ---
 
 # tech likely 2024.21
 
-(date: 2024-05-21 12:08:59)
+(date: 2024-05-22 08:16:31)
+
+---
+
+## She May Be a Former “Friend” Now
+
+date: 2024-05-22, updated: 2024-05-22, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/05/22/perhaps-a-former-friend-now/>
+
+---
+
+##  The Lost Typeface Recovered From the Thames River 
+
+date: 2024-05-22, updated: 2024-05-22, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/the-lost-typeface-recovered-from-the-thames-river>
+
+---
+
+## How Failure Has Made Mathematics Stronger
+
+date: 2024-05-22, from: Quanta Magazine
+
+The topologist Danny Calegari discusses the inevitability of disappointment in math, and how to learn from it.            <p>The post <a href="https://www.quantamagazine.org/how-failure-has-made-mathematics-stronger-20240522/" target="_blank">How Failure Has Made Mathematics Stronger</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/how-failure-has-made-mathematics-stronger-20240522/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-22, from: Dave Winer's Scripting News)
+
+Sometimes ChatGPT just <a href="https://chatgpt.com/share/9c47fbcf-7ba9-43a1-bd6b-be574c17ecf9">repeats itself</a>. Even when you demand that it stop repeating itself, it repeats itself. 
+
+<http://scripting.com/2024/05/22.html#a134417>
+
+---
+
+## In Debian, APT 3 gains features – but KeepassXC loses them
+
+date: 2024-05-22, updated: 2024-05-22, from: Liam Proven's articles at the Register
+
+<h4>'Sid' is looking a little sickly of late, but it will pass</h4>
+      <p>The intrepid users of Debian's "testing" branch just discovered that a bunch of their password manager's features disappeared… but their package manager is going to get new ones.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/05/22/apt_gains_keepassxc_loses/>
+
+---
+
+## Dangerous Protocols
+
+date: 2024-05-22, from: Tilde.news
+
+<p><a href="https://tilde.news/s/zklgoc/dangerous_protocols">Comments</a></p> 
+
+<https://summerofprotocols.com/dangerous-protocols-web>
+
+---
+
+## Passwords and their Discontents
+
+date: 2024-05-22, from: O'Reilly Rador
+
+This article originally appeared in Business Age. In commentary supplied to Business Age, I shot my mouth off saying that passwords are a poor solution for authenticating users–but none of the alternatives are very good, either. The choices available to us are at best poor.  So now I’m the victim of a follow-up question 🙂 [&#8230;] 
+
+<https://www.oreilly.com/radar/passwords-and-their-discontents/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-22, from: Dave Winer's Scripting News)
+
+Has anyone ever asked you, on the social web, what you think about something? Not a message to everyone to which you could reply, but a message specifically to you? I try to do it when I think of it. I find you can get really interesting ideas that way sometimes. And also it's a way spreading some love around the world, because people like to be asked what they think, I've found. 
+
+<http://scripting.com/2024/05/22.html#a131318>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-22, from: Dave Winer's Scripting News)
+
+I'm going through <a href="https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)">Battlestar Galactica</a> for the third time. One of the major themes of the show is that the <a href="https://en.wikipedia.org/wiki/Cylons">robots</a> that the Capricans created went to war with the humans and almost but not quite wiped them out. Almost every episode is about the conflict between humans and the AIs. It's a fantastic show, the acting and the writing is far beyond most TV series. I'm at the beginning of season 3. I'll let you know if I figure anything out from watching the series again. 
+
+<http://scripting.com/2024/05/22.html#a125735>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-22, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/04/21/cylon.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Today's song: <a href="https://www.youtube.com/watch?v=R1W7ZCttn9E">Everything You Did</a>. "Turn up the <a href="https://en.wikipedia.org/wiki/The_Royal_Scam#Reference_to_the_Eagles">Eagles</a> the neighbors are listening." 
+
+<http://scripting.com/2024/05/22.html#a124512>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-22, from: Dave Winer's Scripting News)
+
+Campaign commercial. A picture of Trump at 88. Voiceover: "It's 2035. He's still president. Don't you wish you had a vote? (You don't.)" This message was approved by Uncle Sam and The Founders wondering wtf you were thinking when you voted for him in 2024. 
+
+<http://scripting.com/2024/05/22.html#a123633>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-22, from: Dave Winer's Scripting News)
+
+I watched 15 minutes of the playoff game between the Boston team and the Indiana team and found that I only gave the very slightest of fucks. I knew all the players. I like <a href="https://en.wikipedia.org/wiki/Obi_Toppin">Obi Toppin</a>, a former Knick we traded for some reason. That's about it for my inner fan. I turned it off as it went to overtime and looked up the result when I got up in the morning. That's how I like my NBA, frankly. 
+
+<http://scripting.com/2024/05/22.html#a123424>
+
+---
+
+## 2024-05-12 What to do about the climate?
+
+date: 2024-05-22, from: Alex Schroeder's Blog
+
+<h1 id="2024-05-12-what-to-do-about-the-climate">2024-05-12 What to do about the climate?</h1>
+
+<p>The main problem seems to me that nobody knows. So how do we find a way out of this uncertainty? What should or <a href="priorities">priorities</a> be?</p>
+
+<p>Before we even start, let me just say that I&rsquo;m never interested in debating climate change. <a href="2024-01-14-climate">It&rsquo;s real, it&rsquo;s here</a>, and people denying it are just trying to waste our time.</p>
+
+<p>The first category of action, I think, would be political: Vote green, on all levels of government. And by &ldquo;green&rdquo; I mean the most radical green possible but not necessarily a Green Party member. It all depends on the voting system, on the actual parties you have. If you live in a  one or two party state or if your Green Party is run by fascists, I have no idea what you should do. Something about political change, something about local politics, and so on.</p>
+
+<p>On the individual level, I think uncertainty arises because we&rsquo;re not sure. No littering looks nice but probably doesn&rsquo;t help much against the climate. Perhaps it helps against the micro-plastic? But how many plastic bags from land-locked Switzerland actually end up in the ocean? How much plastic is that compared to the fishing nets lost at sea? The oil spills? And here&rsquo;s the moment where it spirals out of control. Stop! I need to stop because there&rsquo;s no &ldquo;thinking it through&rdquo; when things are so complex unless you&rsquo;re a scientist working on it. I hope the scientists can do their research, and somebody else can compile the research into arguments, with weights attached, so that politicians and individuals know what to tackle first.</p>
+
+<p>This is why I appreciate lists of priorities, even if they are slightly wrong. They don&rsquo;t have to be perfect because perfection is a goal used to derail the conversation. If you think the top priority is to get rid of cars, and you have a lot of arguments against cars, then getting involved in a discussion where the other party argues about electric vehicles, lithium batteries, hydrogen storage, road access for emergency vehicles, mobility for the disabled, then yes to all of that, but also: get rid of cars. We can have nuance as long as we also start doing something. We can start by making large, private cars illegal. Then medium, private cars. Then add fees for long haul trucks. Build railways. Build trams. Get rid of public parking spaces without special permits. And on and on. This allows us to pull back out of car society with grace. We can get started and keep the things that we think are precious.</p>
+
+<p>The alternative is living as we do, followed by uncontrolled collapse, I fear.</p>
+
+<p>Yes, it&rsquo;s expensive. Not doing anything, however, is fatal.</p>
+
+<p>Here&rsquo;s what <a class="account" href="https://mastodon.green/@peterdutoit" title="@peterdutoit@mastodon.green">@peterdutoit</a> recently posted:</p>
+
+<blockquote>
+<p>In order of impact:</p>
+
+<p>🚫 Live car free<br>
+🚙 Shift to BEV [i.e. Battery Electric Vehicle]<br>
+✈️ One less flight (long return)<br>
+☀️ Use renewable energy<br>
+🚋 Shift to public transport<br>
+🔨 Refurbishment and renovation<br>
+🥗 Vegan diet<br>
+🆒 Heat pump<br>
+⏲️ Improved cooking equipment<br>
+♨️ Renewable-based heating</p>
+</blockquote>
+
+<p>He offered these two sources:</p>
+
+<ul>
+<li><a href="https://iopscience.iop.org/article/10.1088/1748-9326/ab8589">Quantifying the potential for climate change mitigation of consumption options</a>, Diana Ivanova <em>et al</em> 2020 <em>Environ. Res. Lett.</em> <strong>15</strong> 093001 <strong>DOI</strong> 10.1088/1748-9326/ab8589</li>
+<li>Creutzig, F., J. Roy, P. Devine-Wright, J. Díaz-José, F.W. Geels, A. Grubler, N. Maϊzi, E. Masanet, Y. Mulugetta, C.D. Onyige, P.E. Perkins, A. Sanches-Pereira, E.U. Weber, <a href="https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter05.pdf">2022: Demand, services and social aspects of mitigation</a>. In <a href="https://www.ipcc.ch/report/ar6/wg3/">IPCC, 2022: Climate Change 2022: Mitigation of Climate Change</a>. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [P.R. Shukla, J. Skea, R. Slade, A. Al Khourdajie, R. van Diemen, D. McCollum, M. Pathak, S. Some, P. Vyas, R. Fradera, M. Belkacemi, A. Hasija, G. Lisboa, S. Luz, J. Malley, (eds.)]. Cambridge University Press, Cambridge, UK and New York, NY, USA. doi: 10.1017/9781009157926.007</li>
+</ul>
+
+<p>The full report of <em>Climate Change 2022: Mitigation of Climate Change</em> is a PDF with 2042 pages. So there&rsquo;s an answer if anybody is claiming that we don&rsquo;t know what to do. But also: there&rsquo;s your answer if you&rsquo;re wondering why nobody is doing anything. Politicians at the top need people who read this report for them and my guess is – given what little I know about Swiss politics, for example – that there is only a very small number of people that have actually read this report, let alone understand enough of it in order to make informed decisions.</p>
+
+<p>This is why a public &ldquo;chain of trust&rdquo; needs to lead from interviews with public figures to interviews with experts. The media, including social media, needs to mediate this. Then people can at least go along with people they trust, even if this trust is built on public appearance, hollow campaign promises, good looks, height and whatever else engenders trust in people.</p>
+
+<p>Anyway, number one: 🚫 Live car free. If you can. Make the kind of choices that make this easier in the future, or for your children, or for your friends and family. If you can. But this is one of the goals we need to pursue. We need to get our <a href="priorities">priorities</a> right.</p>
+
+<p>(We don&rsquo;t need them to perfectly right, as discussed above. But we cannot save the planet and car culture, both. One of them will have to go.)</p>
+
+<p><a class="tag" href="/search/?q=%23Climate">#Climate</a></p> 
+
+<https://alexschroeder.ch/view/2024-05-12-uncertainty>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-05-22, from: Miguel de Icaza Mastondon feed)
+
+<p>Very nice</p><p><a href="https://developer.apple.com/pathways/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="">developer.apple.com/pathways/</span><span class="invisible"></span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112484499533519357>
+
+---
+
+## the attention cottage
+
+date: 2024-05-22, from: Ayjay blog
+
+In the last few days I have come across, or had sent to me, anguished cries from people who have recently been dragged on social media and cannot fathom the injustice of it, and I find myself thinking: You haven’t figured this out yet? You complain about your words being taken out of context when [&#8230;] 
+
+<https://blog.ayjay.org/the-attention-cottage/>
+
+---
+
+## Capture solar eclipses with Raspberry Pi 4 and the High Quality Camera
+
+date: 2024-05-22, from: Raspberry Pi News (.com)
+
+<p>Maker CapeGeek's solar eclipse-capturing system harnesses a Raspberry Pi 4 and one of our cameras wearing a telephoto lens.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/capture-solar-eclipses-with-raspberry-pi-4-and-the-high-quality-camera/">Capture solar eclipses with Raspberry Pi 4 and the High Quality Camera</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/capture-solar-eclipses-with-raspberry-pi-4-and-the-high-quality-camera/>
+
+---
+
+## Sergey Durmanov opened issue #137: [Fox] Critical bug with passing a parameter with the open array type at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-05-22, updated: 2024-05-22, from: Oberon A2 at CAS
+
+
+<p dir="auto">Critical bug with passing a parameter with the open array type:</p>
+<div class="gl-relative markdown-code-block js-markdown-code">
+<pre class="code highlight js-syntax-highlight language-plaintext" v-pre="true"><code><span id="LC1" class="line" lang="plaintext" xml:lang="plaintext">MODULE TestBug;</span>
+<span id="LC2" class="line" lang="plaintext" xml:lang="plaintext"></span>
+<span id="LC3" class="line" lang="plaintext" xml:lang="plaintext">TYPE</span>
+<span id="LC4" class="line" lang="plaintext" xml:lang="plaintext">	Set = ARRAY 4 OF SET;</span>
+<span id="LC5" class="line" lang="plaintext" xml:lang="plaintext">	Ptr = POINTER TO RECORD END;</span>
+<span id="LC6" class="line" lang="plaintext" xml:lang="plaintext"></span>
+<span id="LC7" class="line" lang="plaintext" xml:lang="plaintext">PROCEDURE Test(p: ANY; VAR s: ARRAY OF Set);</span>
+<span id="LC8" class="line" lang="plaintext" xml:lang="plaintext">BEGIN</span>
+<span id="LC9" class="line" lang="plaintext" xml:lang="plaintext">	TRACE(p);</span>
+<span id="LC10" class="line" lang="plaintext" xml:lang="plaintext">END Test;</span>
+<span id="LC11" class="line" lang="plaintext" xml:lang="plaintext"></span>
+<span id="LC12" class="line" lang="plaintext" xml:lang="plaintext">PROCEDURE Do*;</span>
+<span id="LC13" class="line" lang="plaintext" xml:lang="plaintext">VAR</span>
+<span id="LC14" class="line" lang="plaintext" xml:lang="plaintext">	ptr : Ptr;</span>
+<span id="LC15" class="line" lang="plaintext" xml:lang="plaintext">	set : ARRAY 1 OF Set;</span>
+<span id="LC16" class="line" lang="plaintext" xml:lang="plaintext">BEGIN</span>
+<span id="LC17" class="line" lang="plaintext" xml:lang="plaintext">	ptr := NEW Ptr();</span>
+<span id="LC18" class="line" lang="plaintext" xml:lang="plaintext">	TRACE(ptr);</span>
+<span id="LC19" class="line" lang="plaintext" xml:lang="plaintext">	Test(ptr, set);</span>
+<span id="LC20" class="line" lang="plaintext" xml:lang="plaintext">END Do;</span>
+<span id="LC21" class="line" lang="plaintext" xml:lang="plaintext"></span>
+<span id="LC22" class="line" lang="plaintext" xml:lang="plaintext">END TestBug.</span>
+<span id="LC23" class="line" lang="plaintext" xml:lang="plaintext"></span>
+<span id="LC24" class="line" lang="plaintext" xml:lang="plaintext">TestBug.Do~</span>
+<span id="LC25" class="line" lang="plaintext" xml:lang="plaintext"></span>
+<span id="LC26" class="line" lang="plaintext" xml:lang="plaintext">System.Free TestBug~</span>
+<span id="LC27" class="line" lang="plaintext" xml:lang="plaintext"></span>
+<span id="LC28" class="line" lang="plaintext" xml:lang="plaintext">Decoder.Open TestBug~</span></code></pre>
+<copy-code></copy-code>
+</div>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/137>
+
+---
+
+## Workshop in Barcelona: How to Build a Low-tech Website
+
+date: 2024-05-22, from: Blog Muffinlabs
+
+<div class="article-img ">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2024/05/workshop-in-barcelona-how-to-build-a-low-tech-website/images/dithers/workshop-websites_dithered.png" alt='Image: Workshop in Barcelona.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Workshop in Barcelona. 
+</figcaption>
+</div>
+</div>
+<p>Website technology is becoming increasingly complex and energy intensive, with big companies like Meta and Google leading the dance. ​Is this necessary? What does it really take to get our content online?</p>
+<p>​Low←tech Magazine &amp; <a href="https://antoinejaunard.com">Antoine Jaunard</a> are teaming up to bring you a low-tech website making workshop. ​It takes place in Barcelona, at Akasha Hub, on 25 May from 3 to 6 pm.</p>
+<p>​Together, we will demystify web technologies by making websites that are simple to create and modify. Websites that can be hosted anywhere, even on a DIY solar powered server.</p>
+<p>The workshop will be in English or Spanish depending on you. Come as you are. And just bring your computer.</p>
+<p>More info: <a href="https://lu.ma/cqw2hzb3">Workshop How to build a Low-tech Website?</a></p> 
+
+<https://solar.lowtechmagazine.com/2024/05/workshop-in-barcelona-how-to-build-a-low-tech-website/>
+
+---
+
+## Call for Sponsors for PGConf.EU 2024 is now open!
+
+date: 2024-05-22, from: PostgreSQL News
+
+<p>PGConf.EU 2024 will take place in Athens from October 22-25, gathering attendees from around the world and across industries. Developers, DBAs, product managers, company CTOs, and CEOs will come together to this largest European PostgreSQL event.</p>
+<p>PGConf.EU provides a fantastic opportunity for companies in the Postgres ecosystem to present their services and products, recruit top talent, and increase their footprint in Europe and beyond. Becoming a sponsor also means supporting an event organized and run solely by volunteers dedicated to ensuring the prosperity of Postgres for years to come.</p>
+<p>The different sponsorship levels cover various aspects of exposure, with all levels including free tickets to the event. There is a limited number of Platinum and Gold sponsorships available, so sign up to <a href="https://2024.pgconf.eu/become-sponsor/">secure your spot now</a>.</p>
+<p>We would appreciate it if you could forward this message to decision-makers in your company and encourage them to support us.</p>
+<p>We look forward to seeing you and your colleagues in Athens!</p> 
+
+<https://www.postgresql.org/about/news/call-for-sponsors-for-pgconfeu-2024-is-now-open-2864/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-05-21, from: Tomosino's Mastodon feed)
+
+<p>We've got 3D printers that can print food, right? Those are somewhere in the pipeline? How long till I can print myself a taco? Are we wasting our collective innovation effort on machine learning algorithms to generate trash scientific papers and ruin science when we could be putting that energy into printing tacos? I'd like to speak to the manager, please.</p> 
+
+<https://tilde.zone/@tomasino/112481688954610535>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-05-21, from: Tomosino's Mastodon feed)
+
+<p>You wouldn't download a taco </p><p>(this is patently untrue)</p> 
+
+<https://tilde.zone/@tomasino/112481673578478804>
+
+---
+
+## 2024 Dream with Us Design Challenge Winners
+
+date: 2024-05-21, from: NASA breaking news
+
+Congratulations! Our 2024 Dream with Us challenge has concluded, and we are pleased to share the winning projects: Middle School 1st Place: The Unstoppable Changemakers Team (Anika J. and Aidan R.) Fire Drones is a system of drones that battle wildfires. They use solar power for sustainability, machine learning technology for early detection of potential [&#8230;] 
+
+<https://www.nasa.gov/directorates/armd/2024-dream-with-us-design-challenge-winners/>
+
+---
+
+##  Registration for the 2024 XOXO Festival is now open! I will be... 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044662-registration-for-the-2024>
+
+---
+
+## How to make Google’s new “Web” search option the default in your browser
+
+date: 2024-05-21, from: OS News
+
+Last week, Google unveiled a new little feature in Google Search, called &#8220;Web&#8221;. Residing alongside the various other options like &#8220;All&#8221;, &#8220;Images&#8221;, &#8220;Video&#8221;, and so on, its goal is to effectively strip Google Search results from everything we generally don&#8217;t like, and just present a list of actual links to actual websites. It turns out it&#8217;s quite simple to set this as your default search &#8220;engine&#8221; in your browser, so somebody made a website to make that process a little easier. On May 15th Google released a new &#8220;Web&#8221; filter that removes &#8220;AI Overview&#8221; and other clutter, leaving only traditional web results. Here is how you can set &#8220;Google Web&#8221; as your default search engine. ↫ TenBlueLinks.org It&#8217;s important to note that this is not some separate search engine, and that no data is flowing any differently than when using regular Google. All this does is append the parameter UDM=14 to the URL, which loads the option &#8220;Web&#8221;. 
+
+<https://www.osnews.com/story/139762/how-to-make-googles-new-web-search-option-the-default/>
+
+---
+
+##  Three Pieces That Prove Bach&#8217;s Genius 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/three-pieces-that-prove-bachs-genius>
+
+---
+
+##  &#8220;Given the lack of decency they have shown, Genocide Inc. has decided... 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044661-given-the-lack-of-decency>
+
+---
+
+## Modeling the Hawaiian Shoreline
+
+date: 2024-05-21, from: NASA breaking news
+
+The island of Hawai’i and surrounding waters glow in unusual shades in this 2022 model made through NASA DEVELOP. The model was created to help the County of Hawai’i in their shoreline setback plan. The image shows areas of high flood risk (blue), as well as sea surface temperatures. Orange in the west indicates high [&#8230;] 
+
+<https://www.nasa.gov/image-article/modeling-the-hawaiian-shoreline/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-21, from: Dave Winer's Scripting News)
+
+What if <a href="https://www.npr.org/2024/05/20/1252495087/openai-pulls-ai-voice-that-was-compared-to-scarlett-johansson-in-the-movie-her">Scarlett Johansson</a> had said wtf let's see what happens. Might be fun to be the first default voice of AI. Like <a href="https://en.wikipedia.org/wiki/The_Horse_in_Motion">the jockey</a> in <a href="https://www.youtube.com/watch?v=heRuLp7CyTM">this movie</a>. 
+
+<http://scripting.com/2024/05/21.html#a201506>
+
+---
+
+## NASA’s Heliophysics Experiment to Study Sun on European Mission
+
+date: 2024-05-21, from: NASA breaking news
+
+NASA announced Tuesday it selected a new instrument to study the Sun and how it creates massive solar eruptions. The agency’s Joint EUV coronal Diagnostic Investigation, or JEDI, will capture images of the Sun in extreme ultraviolet light, a type of light invisible to our eyes but reveals many of the underlying mechanisms of the [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasas-heliophysics-experiment-to-study-sun-on-european-mission/>
+
+---
+
+##  The Earth&#8217;s rotation rate is changing, in part due to global warming.... 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044659-the-earths-rotation-is-sl>
+
+---
+
+## My blogging workflow
+
+date: 2024-05-21, from: Manu - I write blog
+
+
+                <p><a href="https://birming.com/posts/our-blogging-workflow">Robert</a> told me about this blogging workflow trend that’s currently happening in a bunch of blogs around the web and since I thought it’s a neat idea I’m gonna share mine.</p>
+<p>I’m gonna split it into two because this blog serves as both my home on the web as well as a home for the <a href="https://peopleandblogs.com">People and Blogs series</a>.</p>
+<h2>My posts</h2>
+<p>I have two types of posts on this site: regular blog posts and “moments”. Moments are my personal Instagram, posts with an image and a short caption. As the name suggests, those are moments in time and so there is no real planning behind them. This is how it works:</p>
+<ol>
+<li>I take a picture with my iPhone</li>
+<li>I do some light editing using Snapseed</li>
+<li>I log into my site’s dashboard</li>
+<li>I create a new post</li>
+<li>I write a title that always starts with “A moment...”</li>
+<li>I upload the picture and I write the short post directly on the admin interface</li>
+<li>I hit save</li>
+</ol>
+<p>There’s no proofreading involved, no drafts, no nothing. I take a photo, I upload it, write something and move on with my day.</p>
+<p>As for the regular posts, those are handled a bit differently. My blog has no structure behind its schedule. I post about whatever I find interesting at any point in time. I have a to-do list with a bunch of random ideas that usually appear in my head out of nowhere when I’m outside for a walk. Those entries in my to-do are either a single line—for example <em>Taxonomy of personal websites</em>—or a combination of title + short description—<em>Good conversations: What’s the ideal workflow for a good conversation online</em>.</p>
+<p>When I feel in the mood to post something I either pick one of those entries or, like I’m doing now, I write about something else, usually in response to something I read somewhere else. The workflow is the following:</p>
+<ol>
+<li>I open iA Writer </li>
+<li>I write my post</li>
+<li>When I feel I’m done I copy-paste into Grammarly to check for typos or other silly issues</li>
+<li>I open my site’s dashboard</li>
+<li>I create a new post</li>
+<li>I copy-paste from Grammarly and I hit publish</li>
+<li>I then log into Buttondown.email, create a new email, paste the content of the new post and hit send because there are some 100 or so people who want to get my posts via email</li>
+</ol>
+<p>Again, I don’t do drafts, don’t do editing. I have an idea, I write it down, check for silly issues with Grammarly and then I post it online. That’s how my blog works.</p>
+<h2>People and Blogs</h2>
+<p>As I mentioned before, my site also hosts the People and Blogs interviews. The workflow for those posts is a bit different and it goes like this:</p>
+<ol>
+<li>I have a list of potential guests on Airtable</li>
+<li>I cold email a bunch of people and ask if they want to be part of the series</li>
+<li>If they say yes I send them the questions</li>
+<li>When I get back the answers I create a new post</li>
+<li>I format their answers in markdown and add the intro and outro and store it as a draft</li>
+<li>On the week the interview is scheduled to go live I send a link to the draft to the guest to give them time to do a final check and to also give them a final chance to add or remove anything from the answers</li>
+<li>Once the interview is good to go I log into the Buttondown account, create the interview and schedule it to go live on Friday</li>
+<li>5 minutes before it’s time to go live a reminder rings on my phone to make sure I don’t forget to publish the post</li>
+<li>I log into my dashboard and hit publish</li>
+</ol>
+<p>And that’s how it works for P&amp;B. Could I add an auto-publish feature on my site? Sure. Would that save me time? Maybe 20 seconds a week. Is it worth it? Absolutely not.</p>
+<p>And those are my workflows. Nothing fancy, very few tools and very little automation. As always if you have questions you can <a href="mailto:hello@manuelmoreale.com">ping me via email</a> and if you haven’t already go subscribe to <a href="https://peopleandblogs.com">People and Blogs</a>!</p>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/bC091jsCZScGW50a>
+
+---
+
+##  John Green on the tradeoffs of sharing your personal life with strangers.... 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044657-john-green-on-the-tradeof>
+
+---
+
+## Go Back to the Future with NASA at Comicpalooza 2024
+
+date: 2024-05-21, from: NASA breaking news
+
+Celebrate your pop-culture fandom and uncover the latest science, technology, and discoveries of human spaceflight and exploration with NASA’s Johnson Space Center at Comicpalooza 2024 from May 24 to 26 at George R. Brown Convention Center in Houston. Engage with a fully immersive NASA exhibit, touch the only mobile Moon rock in the world, join [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/go-back-to-the-future-with-nasa-at-comicpalooza-2024/>
+
+---
+
+## Windows Copilot+ AI Features
+
+date: 2024-05-21, from: Michael Tsai
+
+Microsoft (Hacker News, MacRumors, Ryan Jones): Now with Recall, you can access virtually what you have seen or done on your PC in a way that feels like having photographic memory. Copilot+ PCs organize information like we do &#x2013; based on relationships and associations unique to each of our individual experiences. This helps you remember [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/21/windows-copilot-ai-features/>
+
+---
+
+## Microsoft’s Copilot+ PCs
+
+date: 2024-05-21, from: Michael Tsai
+
+Tom Warren (MacRumors, Hacker News): Over the past two years, Microsoft has worked in secret with all of its top laptop partners to ready a selection of Arm-powered Windows machines that will hit the market this summer. Known as Copilot Plus PCs, they&#8217;re meant to kick-start a generation of powerful, battery-efficient Windows laptops and lay [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/21/microsofts-copilot-pcs/>
+
+---
+
+## Apple Updates Silently Enable iCloud Keychain
+
+date: 2024-05-21, from: Michael Tsai
+
+Jeff Johnson: I&#8217;ve discovered today that unfortunately this issue&#8212;this bug, I would call it, though who knows whether Apple considers it a bug or &#8220;expected behavior&#8221;&#8212;still exists with the latest versions of macOS Ventura and Sonoma, 13.6.7 and 14.5 respectively.[&#8230;]The external drive had a macOS Ventura 13.6.7 boot volume with iCloud enabled but iCloud Keychain [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/21/apple-updates-silently-enable-icloud-keychain/>
+
+---
+
+## Slack AI Privacy
+
+date: 2024-05-21, from: Michael Tsai
+
+Ashley Belanger (Hacker News): After launching Slack AI in February, Slack appears to be digging its heels in, defending its vague policy that by default sucks up customers&#8217; data&#8212;including messages, content, and files&#8212;to train Slack&#8217;s global AI models.According to Slack engineer Aaron Maurer, Slack has explained in a blog that the Salesforce-owned chat service does [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/21/slack-ai-privacy/>
+
+---
+
+## noTunes: a macOS application to prevent iTunes or Apple Music from launching
+
+date: 2024-05-21, from: OS News
+
+noTunes is a macOS application that will prevent iTunes or Apple Music from launching. Simply launch the noTunes app and iTunes/Music will no longer be able to launch. For example, when bluetooth headphones reconnect. You can toggle the apps functionality via the menu bar icon with a simple left click. ↫ noTunes GitHub page Apparently, this is such a common complaint that an application had to be made just to gain some semblance of control over what some people still refer to as &#8220;their&#8221; computer. For both macOS and Windows, there&#8217;s a giant industry &#8211; you can&#8217;t really call it a cottage industry anymore at this point &#8211; of tools, applications, and fixes just to deal with or avoid all the user-hostile, anti-choice garbage Apple and Microsoft shove into their respective operating systems. As a Linux user &#8211; and recent OpenBSD convert &#8211; I find this absolutely wild. Following any Apple podcast, or reading any Windows website, makes it so clear just how many hoops these people have to jump through and how many weirdly-shaped holes they have to contort into just to be able to gain some vague semblance of ownership of their own hardware. I&#8217;m not judging &#8211; we all have areas in our lives where we do this, they just differ from person to person &#8211; but it&#8217;s still confronting to see it so clearly, all the time. 
+
+<https://www.osnews.com/story/139757/notunes-a-macos-application-to-prevent-itunes-or-apple-music-from-launching/>
+
+---
+
+## AI has become Sauron’s Ring
+
+date: 2024-05-21, from: Gary Marcus blog
+
+Another of AI&#8217;s bitter lessons 
+
+<https://garymarcus.substack.com/p/ai-has-become-saurons-ring>
+
+---
+
+## MX Linux updates Libretto, belts out 23.3, based on Debian 12.5
+
+date: 2024-05-21, updated: 2024-05-21, from: Liam Proven's articles at the Register
+
+<h4>Includes a Raspberry Pi version, which works well on the Pi 5</h4>
+      <p>The latest update to MX Linux is out, and has some small but handy improvements to make it easier to get online and install.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/05/21/mx_linux_233_released/>
+
+---
+
+##  Contenting Ourselves With Stories 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/contenting-ourselves-with-stories>
+
+---
+
+## Kan Yang: Translating Science Ideas into Engineering Concepts
+
+date: 2024-05-21, from: NASA breaking news
+
+As team lead of the Instrument Design Laboratory, Kan Yang turns science concepts into engineering reality. Name: Kan YangTitle: Team Lead of the Instrument Design LaboratoryFormal Job Classification: Technical ManagerOrganization: Instrument Systems and Technology Division, Engineering and Technology Directorate (Code 550) What do you do and what is most interesting about your role here at [&#8230;] 
+
+<https://www.nasa.gov/people-of-nasa/goddard-people/kan-yang-translating-science-ideas-into-engineering-concepts/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-21, from: Dave Winer's Scripting News)
+
+"Every day's an endless stream of cigarettes and magazines" is from <a href="https://www.youtube.com/watch?v=HAnj2fyjxRw">Homeward Bound</a> by Simon and Garfunkel. 
+
+<http://scripting.com/2024/05/21.html#a181310>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-21, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/05/21/magazineCover.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Podcast: <a href="http://scripting.com/2024/05/21/whatIsAMagazine.m4a">What is a magazine?</a> It depends on what direction you look at it from. An iPad was like a magazine, but what would you tell a young person who never used a magazine? What is it? Right now almost everyone is looking at AI from the point of view of a world with no AI. And it turns out that once you have it, it starts solving problems you never thought would be associated with AI. But there it is. You just have to sit down and start playing and you find all kinds of amazing things. But if you don't try it, you'll always be looking at it from the past. We've seen this kind of explosive growth in the power of the individual human. It's a 20-minute podcast and I'm all over the map, but it's good stuff, imho of course. YMMV, my mother loves me, I am not a lawyer. 
+
+<http://scripting.com/2024/05/21.html#a180113>
+
+---
+
+## NASA Glenn Joins COSI’s Big Science Celebration
+
+date: 2024-05-21, from: NASA breaking news
+
+NASA’s Glenn Research Center joined Center for Science and Industry, or COSI&#8217;s, Big Science Celebration event on the museum&#8217;s front lawn in Columbus, Ohio, on May 4. This event was centered around STEM careers and building a diverse STEM workforce by exposing individuals to science and technology where they live, learn, and lounge. Glenn experts [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-joins-cosis-big-science-celebration/>
+
+---
+
+## NASA Glenn Research Highlighted in Tape Exhibit
+
+date: 2024-05-21, from: NASA breaking news
+
+Beginning May 24, Great Lakes Science Center, home of the NASA Glenn Visitor Center, will welcome guests aboard TapeScape: International Tape Station.   The unique exhibit focuses on the dynamic intersection of materials science and the groundbreaking research at NASA’s Glenn Research Center in Cleveland. The exhibit showcases the Cleveland-driven innovations aboard the International Space Station. Encompassing [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-research-highlighted-in-tape-exhibit/>
+
+---
+
+## Glenn Digital Specialists Earn NASA Awards
+
+date: 2024-05-21, from: NASA breaking news
+
+Four of NASA Glenn Research Center’s digital specialists were selected as 2023 NASA Photographers and Videographers of the Year. The winning photos and videos showcased NASA’s people, places, and projects, as captured by NASA’s talented photographers and videographers. There were numerous submissions from all NASA centers for several categories. The following four winners from NASA [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/glenn-digital-specialists-earn-nasa-awards/>
+
+---
+
+## Team NEO Views NASA Glenn Properties for Lease
+
+date: 2024-05-21, from: NASA breaking news
+
+Representatives from Team NEO toured several facilities at NASA’s Glenn Research Center on April 24. Team NEO is the designated Northeast Ohio JobsOhio Network Partner that works to expand business, establish partnerships, and create jobs. The visitors toured facilities at NASA’s Neil Armstrong Test Facility in Sandusky and Lewis Field in Cleveland, including the Space [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/team-neo-views-nasa-glenn-properties-for-lease/>
+
+---
+
+## NASA Glenn Kicks Off Ohio Space Forum
+
+date: 2024-05-21, from: NASA breaking news
+
+NASA’s Glenn Research Center kicked off the Ohio Space Forum with a tour of several research facilities at its Cleveland location on April 29. The annual two-day forum brings together federal, military, industry, and academic leaders in space research, operations, intelligence, exploration, and defense. It enables attendees to gather among nationally recognized leaders and benefit [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-kicks-off-ohio-space-forum/>
+
+---
+
+##  Have You Seen A Cybertruck Yet? I saw one yesterday driving through... 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044658-have-you-seen-a-cybertruc>
+
+---
+
+##  David Marchese interviews Marlon Wayans about grief & comedy. &#8220;I miss my... 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044656-david-marchese-interviews>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-21, from: Dave Winer's Scripting News)
+
+If I were building a product like <a href="https://substack.com/home">Substack</a> or <a href="https://ghost.org/">Ghost</a>, I would build on top of <a href="https://wordpress.org/">WordPress</a>, for the widest compatibility. 
+
+<http://scripting.com/2024/05/21.html#a161840>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-21, from: Dave Winer's Scripting News)
+
+I found a fairly painless way to transcribe voicemails using Google Docs. 1. Open a text document. 2. Choose <a href="https://support.google.com/docs/answer/4492226?hl=en">Voice Typing</a> from the Tools menu. 3. Play the voice memo over the speaker of your iPhone. 4. That's it. Google transcribes it into your document. It would be better if Apple offered that as an option in the Share menu, but they don't. 
+
+<http://scripting.com/2024/05/21.html#a160019>
+
+---
+
+##  Today&#8217;s music to work to: the solo piano version of Philip Glass&#8217;s... 
+
+date: 2024-05-21, updated: 2024-05-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044655-todays-music-to-work-to>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-21, from: Dave Winer's Scripting News)
+
+<a href="http://scripting.com/2024/03/21/125505.html#a153700">March 2024</a>: "WordPress is, among other things, a perfect time capsule of open technologies from the early days of innovation on the web, and widely deployed and able to deliver all their benefits, if we widen our view of social media to be a social web." 
+
+<http://scripting.com/2024/05/21.html#a153827>
 
 ---
 
@@ -173,6 +842,66 @@ date: 2024-05-21, updated: 2024-05-21, from: nlnet feed
  
 
 <https://nlnet.nl/news/2024/20240521-Mobifree-official-launch.html>
+
+---
+
+## GHC release plans
+
+date: 2024-05-21, from: Glasgow Haskell Compiler
+
+<h1>GHC release plans</h1>
+<h4 class="text-muted">Zubin Duggal - 2024-05-21</h4>
+
+<p>This post sets out our plans for upcoming releases in the next few months.</p>
+<p>Given limited time and resources, we plan to prioritise work on the 9.6, 9.10
+and master branches of GHC for the next few months.</p>
+<h2 id="section">9.10</h2>
+<p>With the release of 9.10.1, we look forward to the broader adoption of this release.</p>
+<p>New releases in this series will continue at the usual rate depending on if and
+when any significant regressions or issues arise.</p>
+<h2 id="section-1">9.6</h2>
+<p>9.6.5 seems to be a relatively stable release so far and we plan to prioritise
+fixes given the relatively higher adoption of this branch. We know of one
+significant issue (<a href="https://gitlab.haskell.org/ghc/ghc/issues/22210">#22210</a>) to do with object merging arising from the
+interactions between GHC and cabal on certain platforms including Darwin with a
+<code>brew</code>-provisioned clang toolchain.</p>
+<p>The upcoming 9.6.6 release will include a fix for this issue along with others
+that may arise. The 9.6.6 release is tentatively scheduled for the end of June,
+to allow for sufficient time following the 9.6.5 release for bugs and issues to be
+reported and addressed.</p>
+<h2 id="section-2">9.8</h2>
+<p>We plan to continue supporting this release series for the near future,
+but updates to this series might proceed at a slower rate than usual as we
+prioritise the new release (9.10) and supporting earlier releases with high
+uptake (9.6).</p>
+<p>The next release in this series will likely be scheduled after the 9.6.6 release.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>We hope that this clarfies the current state of our release branches.
+If you have any questions or comments then please be in touch via
+<a href="mailto:ghc-devs@haskell.org" class="uri">mailto:ghc-devs@haskell.org</a>.</p>
+ 
+
+<http://haskell.org/ghc/blog/20240521-ghc-release-priorities.html>
+
+---
+
+## iTerm2 and AI hype overload
+
+date: 2024-05-21, from: Ze Iaso's blog
+
+ 
+
+<https://xeiaso.net/notes/2024/ai-hype/>
+
+---
+
+## "No way to prevent this" say users of only language where this regularly happens
+
+date: 2024-05-21, from: Ze Iaso's blog
+
+ 
+
+<https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-4323/>
 
 ---
 
@@ -361,7 +1090,7 @@ Science in Space: May 2024 Future missions to the Moon and Mars must address man
 
 date: 2024-05-20, from: Michael Tsai
 
-Juli Clover (no release notes, no security, no developer): According to Apple&#8217;s release notes, the updates include a fix for an issue that could cause images to reappear in the Photos library even after being deleted. Mysk: MarketplaceKit updated in iOS 17.5.1. Now it returns a consistent client ID per device, but the ID is [&#8230;] 
+Juli Clover (release notes, no security, no developer): According to Apple&#8217;s release notes, the updates include a fix for an issue that could cause images to reappear in the Photos library even after being deleted. Mysk: MarketplaceKit updated in iOS 17.5.1. Now it returns a consistent client ID per device, but the ID is different [&#8230;] 
 
 <https://mjtsai.com/blog/2024/05/20/ios-17-5-1-and-ipados-17-5-1/>
 

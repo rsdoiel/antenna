@@ -1,11 +1,280 @@
 ---
 title: socal north 2024.21
-updated: 2024-05-21 12:08:58
+updated: 2024-05-22 08:16:31
 ---
 
 # socal north 2024.21
 
-(date: 2024-05-21 12:08:58)
+(date: 2024-05-22 08:16:31)
+
+---
+
+## ‘All the power’: Inside the high costs of food delivery apps on restaurants
+
+date: 2024-05-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+Rosti Tuscan Kitchen, a local restaurant chain in Los Angeles, relied on a small group of drivers and its own private delivery system for takeout and delivery before the pandemic, said Kevin Goldfein, the restaurant’s former owner.&#160;
+“We had our own (system) in place that we took pride in,” Goldfein said. 
+
+<https://dailybruin.com/2024/05/22/all-the-power-inside-the-high-costs-of-food-delivery-apps-on-restaurants/>
+
+---
+
+## Classifieds – May 22, 2024
+
+date: 2024-05-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/22/classifieds-may-22-2024/">Classifieds &#8211; May 22, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/22/classifieds-may-22-2024/>
+
+---
+
+## ‘IF’ is a heartwarming journey to nowhere
+
+date: 2024-05-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>John Krasinski’s latest live-action animated film suffers under its own imagination.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/22/if-is-a-heartwarming-journey-to-nowhere/">‘IF’ is a heartwarming journey to nowhere</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/22/if-is-a-heartwarming-journey-to-nowhere/>
+
+---
+
+## Overpolicing should not be present on our campus
+
+date: 2024-05-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Police presence on campus makes students and community members feel unwelcome. </p>
+<p>The post <a href="https://dailytrojan.com/2024/05/22/overpolicing-should-not-be-present-on-our-campus/">Overpolicing should not be present on our campus</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/22/overpolicing-should-not-be-present-on-our-campus/>
+
+---
+
+## Red-hot USC baseball trots into Pac-12 Tournament on a roll
+
+date: 2024-05-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans secured the No. 4 seed for the second consecutive year Saturday.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/22/red-hot-usc-baseball-trots-into-pac-12-tournament-on-a-roll/">Red-hot USC baseball trots into Pac-12 Tournament on a roll</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/22/red-hot-usc-baseball-trots-into-pac-12-tournament-on-a-roll/>
+
+---
+
+## Lizzy McAlpine headlines the Greek Theatre with vulnerability, talent
+
+date: 2024-05-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>“Older,” the artist’s third studio album, took center stage Saturday evening.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/22/lizzy-mcalpine-headlines-the-greek-theatre-with-vulnerability-talent/">Lizzy McAlpine headlines the Greek Theatre with vulnerability, talent</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/22/lizzy-mcalpine-headlines-the-greek-theatre-with-vulnerability-talent/>
+
+---
+
+## Students host ‘People’s Commencement’ after University bans protesters from graduation
+
+date: 2024-05-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Thirty-four students walked at the event, which featured keynote speakers and food.   </p>
+<p>The post <a href="https://dailytrojan.com/2024/05/22/students-host-peoples-commencement-after-university-bans-protesters-from-graduation/">Students host &#8216;People’s Commencement&#8217; after University bans protesters from graduation</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/22/students-host-peoples-commencement-after-university-bans-protesters-from-graduation/>
+
+---
+
+## USC reinforces the carceral state
+
+date: 2024-05-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University’s criminalization of students demonstrates its distorted sense of justice.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/22/usc-reinforces-the-carceral-state/">USC reinforces the carceral state</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/22/usc-reinforces-the-carceral-state/>
+
+---
+
+## Kendry Páez will win titles on his own
+
+date: 2024-05-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>With the Copa America on the horizon, soccer fans should train their eye on Ecuador’s prolific young attacker.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/22/211059/">Kendry Páez will win titles on his own</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/22/211059/>
+
+---
+
+## Faculty share letters of support for protesters
+
+date: 2024-05-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The statements condemned the University’s deployment of police aganist students.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/22/faculty-share-letters-of-support-for-protesters/">Faculty share letters of support for protesters</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/22/faculty-share-letters-of-support-for-protesters/>
+
+---
+
+## Shuttle drivers reach first-ever contract with USC
+
+date: 2024-05-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The union canceled their protest set for May 10 after securing a last minute deal.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/22/shuttle-drivers-reach-first-ever-contract-with-usc/">Shuttle drivers reach first-ever contract with USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/22/shuttle-drivers-reach-first-ever-contract-with-usc/>
+
+---
+
+## UCLA Police Chief John Thomas ‘temporarily reassigned’ from duties
+
+date: 2024-05-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+This is a developing story and will be updated with more information.&#160;
+UCLA Police Chief John Thomas said late Tuesday that he had been “temporarily reassigned” from his responsibilities as chief.&#160;
+Thomas said he learned of the news Monday. 
+
+<https://dailybruin.com/2024/05/21/ucla-police-chief-john-thomas-temporarily-reassigned-from-duties/>
+
+---
+
+## UCLA rowing places 6th in conference championships to end season, Pac-12 tenure
+
+date: 2024-05-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins ended their season &#8211; and an era &#8211; in Sacramento.
+And with a sixth-place finish, they only narrowly avoided the end of the scoreboard. 
+
+<https://dailybruin.com/2024/05/21/ucla-rowing-places-6th-in-conference-championships-to-end-season-pac-12-tenure/>
+
+---
+
+## USAC officers-elect react to victories, look toward year ahead
+
+date: 2024-05-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+As dusk began to fall on campus Friday, the dawn of a new Undergraduate Students Association Council rolled in.
+USA Elections Board Chair My-Lan Le announced the results of last week&#8217;s USAC election shortly after 8 p.m. 
+
+<https://dailybruin.com/2024/05/21/usac-officers-elect-react-to-victories-look-toward-year-ahead/>
+
+---
+
+## Sibling support helps LGBTQ+ Latino men take HIV prevention measures, study finds
+
+date: 2024-05-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 21 at 10:29 p.m.</em>
+Researchers from UCLA and Northwestern University found that sibling support can act as an external motivator for Latino sexual minority men to take HIV prevention measures. 
+
+<https://dailybruin.com/2024/05/21/sibling-support-helps-lgbtq-latino-men-take-hiv-prevention-measures-study-finds/>
+
+---
+
+## Nigerian Student Association spotlights unity, diversity at annual culture show
+
+date: 2024-05-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 21 at 10:23 p.m.</em>
+Turquoise-sequined costumes and dazzling lights adorned the setting for the Nigerian Student Association’s 17th annual culture show Friday evening in Ackerman Grand Ballroom. 
+
+<https://dailybruin.com/2024/05/21/nigerian-student-association-spotlights-unity-diversity-at-annual-culture-show/>
+
+---
+
+## Editorial: UCLA should not foot ‘Calimony’ bill for UC Berkeley’s lacking athletics
+
+date: 2024-05-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 21 at 8:42 p.m.</em>
+The 2023-2024 College Football Playoff National Championship was bittersweet.
+When the University of Washington faced off against the University of Michigan, it was not a typical game. 
+
+<https://dailybruin.com/2024/05/21/editorial-calimony-payments-should-be-used-to-support-ucla-athletics-in-big-ten-transition/>
+
+---
+
+## Nelson’s Noggin: Historic chance for UCLA women’s tennis thwarted by historically-hot foe
+
+date: 2024-05-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 21 at 11:30 p.m.</em>
+Moving forward was unthinkable. What transpired moments earlier still shocked.
+Trying to reason her way through it all, Kimmi Hance reiterated the same point. 
+
+<https://dailybruin.com/2024/05/21/nelsons-noggin-historic-chance-for-ucla-womens-tennis-thwarted-by-historically-hot-foe/>
+
+---
+
+## Scouting report: UCLA softball vs. Georgia
+
+date: 2024-05-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 21 at 11:33 p.m.</em>
+No. 6 seed UCLA softball (40-10, 17-4 Pac-12) will face No. 11 seed Georgia (43-17, 12-12 SEC) in the Los Angeles super regional set to begin Thursday, with a spot in the Women&#8217;s College World Series on the line. 
+
+<https://dailybruin.com/2024/05/21/scouting-report-ucla-softball-vs-georgia/>
+
+---
+
+## Law Enforcement Probing Death of ‘Friends’ Star Matthew Perry
+
+date: 2024-05-21, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="696" height="877" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Matthew_Perry_ONDCP_White_House_-_Frame_Grab_-_Smile_cropped.png?fit=696%2C877&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Photo of Mattew Perry smiling" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Matthew_Perry_ONDCP_White_House_-_Frame_Grab_-_Smile_cropped.png?w=696&amp;ssl=1 696w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Matthew_Perry_ONDCP_White_House_-_Frame_Grab_-_Smile_cropped.png?resize=238%2C300&amp;ssl=1 238w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Matthew_Perry_ONDCP_White_House_-_Frame_Grab_-_Smile_cropped.png?resize=400%2C504&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Matthew_Perry_ONDCP_White_House_-_Frame_Grab_-_Smile_cropped.png?fit=696%2C877&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; Local and federal authorities today were investigating how &#8220;Friends&#8221; actor Matthew Perry obtained the prescription drug ketamine, which contributed to his death in October. A Los [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/21/law-enforcement-probing-death-of-friends-star-matthew-perry/">Law Enforcement Probing Death of &#8216;Friends&#8217; Star Matthew Perry</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/21/law-enforcement-probing-death-of-friends-star-matthew-perry/>
+
+---
+
+## Book review: ‘The Honey Witch’ simply but sweetly depicts whimsical romance, enchanting imagery
+
+date: 2024-05-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#8220;The Honey Witch&#8221; is bound to fill readers&#8217; hearts with golden warmth and help them rise from the ashes.
+Sydney J. Shields&#8217; debut novel &#8220;The Honey Witch,&#8221; a cozy romantic fantasy filled with enchantment and whimsy, has generated much buzz since its May 14 release. 
+
+<https://dailybruin.com/2024/05/21/book-review-the-honey-witch-simply-but-sweetly-depicts-whimsical-romance-enchanting-imagery/>
+
+---
+
+## Second Take: Authors risk inauthenticity when portraying marginalized communities not their own
+
+date: 2024-05-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor&#8217;s note: This article contains mention of sexual assault, self-harm and relationship abuse.
+Controversy surrounding authors writing about communities that are not their own is unsurprising. 
+
+<https://dailybruin.com/2024/05/21/second-take-authors-risk-inauthenticity-when-portraying-marginalized-communities-not-their-own/>
+
+---
+
+## Coach John Savage reflects on UCLA baseball’s season, move to Big Ten
+
+date: 2024-05-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 21 at 11:26 p.m.</em>
+John Savage called UCLA baseball’s third-week slate “hell week” in late February.
+Unbeknownst to the coach at the time, it would be hell season. 
+
+<https://dailybruin.com/2024/05/21/coach-john-savage-reflects-on-ucla-baseballs-season-move-to-big-ten/>
 
 ---
 
@@ -20,7 +289,7 @@ USAC is the official student government representing the undergraduate student b
 
 ---
 
-## Women’s tennis finishes NCAA tournament run in Elite Eight, falls short of title
+## Gallery: Women’s tennis finishes NCAA tournament run in Elite Eight, falls short of title
 
 date: 2024-05-21, from: The Daily Bruin (UCLA Student Newspaper)
 
@@ -54,8 +323,9 @@ For the fifth consecutive year, the Daily Bruin reflects on its progress toward 
 
 date: 2024-05-20, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated May 21 at 7:55 p.m.</em>
 At the Grand Hotel Tartarus, all may not be exactly as it seems.
-On Tuesday, the premiere of the original opera &#8220;The Grand Hotel Tartarus&#8221; will be held at UCLA&#8217;s Freud Playhouse with an additional performance Thursday, following two preview performances last week. 
+On Tuesday, the premiere of the original opera “The Grand Hotel Tartarus” will be held at UCLA’s Freud Playhouse with an additional performance Thursday, following two preview performances last week. 
 
 <https://dailybruin.com/2024/05/20/new-opera-the-grand-hotel-tartarus-explores-disease-desire-in-evocative-score/>
 
