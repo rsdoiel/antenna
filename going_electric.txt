@@ -1,0 +1,4 @@
+#
+# Going Electric has feeds involving home and transportation options powered by Electricity
+#
+https://electrek.co/feed/ "~Electrek Feed" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
