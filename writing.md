@@ -1,11 +1,35 @@
 ---
 title: writing 2024.22
-updated: 2024-05-28 08:24:56
+updated: 2024-05-28 08:42:28
 ---
 
 # writing 2024.22
 
-(date: 2024-05-28 08:24:56)
+(date: 2024-05-28 08:42:28)
+
+---
+
+## New Books, 28 May 2024
+
+date: 2024-05-28, from: Locus Magazine
+
+<p>Barnet, Frankie: <b>Mood Swings</b>
+(Astra House 9781662602597, $26, 304pp, formats: hardcover, ebook, audio, 05/31/2024)</p>
+<p>Humorous, near-future SF novel. An Instragram poet starts an affair with the California billionaire who destroyed all the animals on Earth after they started attacking humans, but now promises a time machine that will make everything &#8220;normal&#8221; again. A first novel.</p>
+<p>For a novel that doesn’t feature a single paradox, time loop, or change to history,  <a href="https://locusmag.com/2024/05/new-books-28-may-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/new-books-28-may-2024/>
+
+---
+
+## Liz Bourke Reviews Navigational Entanglements by Aliette de Bodard
+
+date: 2024-05-28, from: Locus Magazine
+
+<p><strong>Navigational Entanglements</strong>, Aliette de Bodard (Tordotcom 978-1-25032-488-7, $20.99, 176pp, hc) July 2024.</p>
+<p>With <strong>Navigational Entanglements</strong>, Aliette de Bodard flexes her space opera muscles in a slightly different direction, in a universe that draws as much on the ‘‘cultivation fantasy’’ of xiānxiá as on the atmosphere and aesthetics that underpin her Xuya universe novels. <strong>Navigation­al Entanglements </strong>opens new vistas in a world where space travel is accomplished through the  <a href="https://locusmag.com/2024/05/liz-bourke-reviews-navigational-entanglements-by-aliette-de-bodard/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/liz-bourke-reviews-navigational-entanglements-by-aliette-de-bodard/>
 
 ---
 

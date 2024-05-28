@@ -1,11 +1,11 @@
 ---
 title: weather 2024.22
-updated: 2024-05-28 08:24:56
+updated: 2024-05-28 08:42:28
 ---
 
 # weather 2024.22
 
-(date: 2024-05-28 08:24:56)
+(date: 2024-05-28 08:42:28)
 
 ---
 
@@ -483,37 +483,26 @@ ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS N
 
 ---
 
-## Eastern North Pacific Tropical Weather Outlook
+## Eastern Pacific Tropical Weather Outlook
 
-date: 2024-05-28, from: Eastern Pacific Basin Tropical Cyclones
+date: 2024-05-28, from: Eastern Pacific Tropical Weather Outlook
 
-
-<br/>
-000<br/>
-ABPZ20 KNHC 281124<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-500 AM PDT Tue May 28 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Tropical cyclone formation is not expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Berg<br/>
- 
+ <br />
+ 000<br />
+ ABPZ20 KNHC 281124<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 500 AM PDT Tue May 28 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ Tropical cyclone formation is not expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Berg<br />
+  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-05-28, from: Eastern Pacific Basin Tropical Cyclones
-
-No tropical cyclones as of Tue, 28 May 2024 11:28:15 GMT 
-
-<https://www.nhc.noaa.gov/>
 

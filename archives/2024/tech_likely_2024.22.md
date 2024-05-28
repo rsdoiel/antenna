@@ -1,11 +1,11 @@
 ---
 title: tech likely 2024.22
-updated: 2024-05-28 08:24:56
+updated: 2024-05-28 08:42:28
 ---
 
 # tech likely 2024.22
 
-(date: 2024-05-28 08:24:56)
+(date: 2024-05-28 08:42:28)
 
 ---
 
@@ -17,6 +17,16 @@ Cross-posting to various social web sites has out of hand, not just for the pers
 
 ---
 
+## Sols 4195-4198: Feels Like Summer
+
+date: 2024-05-28, from: NASA breaking news
+
+Earth planning date: Friday, May 24, 2024 The first sol of this weekend includes an extremely long, 6-hour DAN activity to measure the amount of hydrogen near the surface, in parallel with a standard midday remote science block including: ChemCam LIBS on a smooth, dark rock named “Shadow Lake,” an RMI 7-frame mosaic of the […] 
+
+<https://science.nasa.gov/blogs/sols-4195-4198-feels-like-summer/>
+
+---
+
 ## The People’s AI
 
 date: 2024-05-28, from: Doc Searls (at Harvard), New Old Blog
@@ -24,6 +34,16 @@ date: 2024-05-28, from: Doc Searls (at Harvard), New Old Blog
 People need their own AIs. Personally and collectively. We won&#8217;t get them from Anthropic, Apple, Google, Meta, or Microsoft. Not even from Apple. All of those companies will want to provide AIaaS: AI as a Service, rather than AI that&#8217;s yours alone. Or ours, collectively. The People&#8217;s AI can only come from people. Since it [&#8230;] 
 
 <https://doc.searls.com/2024/05/28/the-peoples-ai/>
+
+---
+
+## 15 Years Ago: First Time all Partners Represented aboard the International Space Station
+
+date: 2024-05-28, from: NASA breaking news
+
+From May 29 to July 17, 2009, for the first time in its history, each of the five partner agencies participating in the International Space Station Program had a crew member living and working aboard the orbiting facility at the same time. The period also marked the beginning of six-person crew habitation, greatly increasing the [&#8230;] 
+
+<https://www.nasa.gov/history/15-years-ago-first-time-all-partners-represented-aboard-the-international-space-station/>
 
 ---
 
