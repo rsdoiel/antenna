@@ -21,6 +21,9 @@ https://freepages.modula2.org/rss/fmp.rss "~Freepages, Module-2.org"
 https://sourceforge.net/p/freedos/news/feed.rss "~FreeDOS News"
 https://kevinboone.me/rss.html "~Kevin Boone (CP/M with cpmemu article)"
 
+# Acorn and RISC OS
+https://heyrick.eu/blog/blog-rss.xml "~Richard Murray's blog"
+
 # Apple
 https://www.folklore.org/folklore.xml "~Folklore, Apple History"
 
