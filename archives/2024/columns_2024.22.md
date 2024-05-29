@@ -1,11 +1,41 @@
 ---
 title: columns 2024.22
-updated: 2024-05-29 09:46:28
+updated: 2024-05-29 10:54:51
 ---
 
 # columns 2024.22
 
-(date: 2024-05-29 09:46:28)
+(date: 2024-05-29 10:54:51)
+
+---
+
+##  Drawing Media, an Interview With Rex Parker 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/drawing-media-an-interview-with-rex-parker-aka-michael-sharp>
+
+---
+
+## May 28, 2024
+
+date: 2024-05-29, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/may-28-2024-f5e>
+
+---
+
+## America’s Best Decade
+
+date: 2024-05-29, updated: 2024-05-29, from: Daring Fireball
+
+ 
+
+<https://www.washingtonpost.com/business/2024/05/24/when-america-was-great-according-data/>
 
 ---
 

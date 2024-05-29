@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.22
-updated: 2024-05-29 09:46:28
+updated: 2024-05-29 10:54:52
 ---
 
 # retro computing 2024.22
 
-(date: 2024-05-29 09:46:28)
+(date: 2024-05-29 10:54:52)
+
+---
+
+## Applied Analytics' MicroSPEED
+
+date: 2024-05-29, from: Computer ads from the Past
+
+Test-Fly A $20 Million Jet On An Apple? Yes. With MicroSPEED 
+
+<https://computeradsfromthepast.substack.com/p/applied-analytics-microspeed>
 
 ---
 

@@ -1,11 +1,51 @@
 ---
 title: tech likely 2024.22
-updated: 2024-05-29 09:46:28
+updated: 2024-05-29 10:54:51
 ---
 
 # tech likely 2024.22
 
-(date: 2024-05-29 09:46:28)
+(date: 2024-05-29 10:54:51)
+
+---
+
+##  Drawing Media, an Interview With Rex Parker 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/drawing-media-an-interview-with-rex-parker-aka-michael-sharp>
+
+---
+
+## Applied Analytics' MicroSPEED
+
+date: 2024-05-29, from: Computer ads from the Past
+
+Test-Fly A $20 Million Jet On An Apple? Yes. With MicroSPEED 
+
+<https://computeradsfromthepast.substack.com/p/applied-analytics-microspeed>
+
+---
+
+## Elon Musk: 1; Yann LeCun: 1; Humanity: 0
+
+date: 2024-05-29, from: Gary Marcus blog
+
+In case you haven&#8217;t heard, there&#8216;s a brawl happening over at X, Musk vs LeCun. For days I tried to resist commenting, but so many people (friends, reporters, etc) keep asking me for my opinion I have decided to oblige. The first thing that I will tell you is that each of those not so-gentle men scored some points; neither kept things above the belt. 
+
+<https://garymarcus.substack.com/p/elon-musk-1-yann-lecun-1-humanity>
+
+---
+
+## In Memoriam: Dr. Richard S. Stolarski [1941–2024]
+
+date: 2024-05-29, from: NASA breaking news
+
+Renowned ozone scientist Dr. Richard “Rich” Stolarski died on February 22, 2024, at age 82 from the complications of prostate cancer. Rich was born at Fort Lewis, WA on November 22, 1941. After short stays in Kansas and Hawaii, Rich’s family settled in Tacoma, WA. He attended Stadium High School for three years and Wilson […] 
+
+<https://science.nasa.gov/uncategorized/in-memoriam-dr-richard-s-stolarski-1941-2024/>
 
 ---
 
@@ -791,6 +831,16 @@ date: 2024-05-28, from: Hannah Richie at Substack
 With current electricity mixes, yes. In a low-carbon world, no. 
 
 <https://www.sustainabilitybynumbers.com/p/electric-vehicles-water>
+
+---
+
+## 2024/05/28 Safely Inhibiting Gene Editors
+
+date: 2024-05-28, from: Darpa News
+
+<div style="float:left"><img title="B-SAFE" alt="B-SAFE" src="https://www.darpa.mil/DDM_Gallery/B-SAFE_619x316_thumb.jpg" border="0"/></div>The DARPA Broad-Spectrum Antagonists For Editors, or B-SAFE, program aims to develop platform technologies for highly potent inhibitors for multiple classes, types, and species of editors with enhanced activity, utility, and breadth of coverage. 
+
+<https://www.darpa.mil/news-events/2024-05-28>
 
 ---
 

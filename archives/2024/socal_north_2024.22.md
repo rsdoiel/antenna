@@ -1,11 +1,119 @@
 ---
 title: socal north 2024.22
-updated: 2024-05-29 09:46:27
+updated: 2024-05-29 10:54:51
 ---
 
 # socal north 2024.22
 
-(date: 2024-05-29 09:46:27)
+(date: 2024-05-29 10:54:51)
+
+---
+
+## Piecing together a beautiful life
+
+date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Five years ago, an ambitious young adult immigrated to the United States from Uganda to meet the father he never knew. Pierce College student Jacob</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/29/piecing-together-a-beautiful-life/">Piecing together a beautiful life</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/29/piecing-together-a-beautiful-life/?utm_source=rss&utm_medium=rss&utm_campaign=piecing-together-a-beautiful-life>
+
+---
+
+## Get ready for some eligible bachelors
+
+date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>After coming to the United States in 2003 and enrolling at Pasadena City College, a young man from Indonesia didn’t yet know what career path</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/29/get-ready-for-some-eligible-bachelors/">Get ready for some eligible bachelors</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/29/get-ready-for-some-eligible-bachelors/?utm_source=rss&utm_medium=rss&utm_campaign=get-ready-for-some-eligible-bachelors>
+
+---
+
+## Come for the books, stay for the tour
+
+date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Blink and you just might miss the Child Development Center to the right of Lot 7 at Pierce College. Because the Center’s existence may not</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/29/come-for-the-books-stay-for-the-tour/">Come for the books, stay for the tour</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/29/come-for-the-books-stay-for-the-tour/?utm_source=rss&utm_medium=rss&utm_campaign=come-for-the-books-stay-for-the-tour>
+
+---
+
+## Dance concert springs into motion
+
+date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce College presented the 2024 Spring Dance Concert “In Motion,” featuring performances by Pierce dance students and guest performers of CHAMPS High School of the</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/29/dance-concert-springs-into-motion/">Dance concert springs into motion</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/29/dance-concert-springs-into-motion/?utm_source=rss&utm_medium=rss&utm_campaign=dance-concert-springs-into-motion>
+
+---
+
+## Veterans Club event helps students de-stress ahead of final exams
+
+date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The Pierce College Veterans Club hosted a De-Stress Event on May 22 in the LLC Courtyard, where students participated in different activities a week before</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/29/veterans-club-event-helps-students-de-stress-ahead-of-final-exams/">Veterans Club event helps students de-stress ahead of final exams</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/29/veterans-club-event-helps-students-de-stress-ahead-of-final-exams/?utm_source=rss&utm_medium=rss&utm_campaign=veterans-club-event-helps-students-de-stress-ahead-of-final-exams>
+
+---
+
+## Ready, set, decorate
+
+date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Graduation decorations packed the walls where the Dream Resource Center (DRC) held an end-of-year celebration in the Library and Learning Crossroads last Wednesday.  The event</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/29/ready-set-decorate/">Ready, set, decorate</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/29/ready-set-decorate/?utm_source=rss&utm_medium=rss&utm_campaign=ready-set-decorate>
+
+---
+
+## Beating drums, building community
+
+date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>As the Los Angeles Taiko Collective performed their drum set, the sounds of each hit echoed across the LLC Courtyard, attracting more and more people</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/29/beating-drums-building-community/">Beating drums, building community</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/29/beating-drums-building-community/?utm_source=rss&utm_medium=rss&utm_campaign=beating-drums-building-community>
+
+---
+
+## Ordering up the FOODTURE
+
+date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>A Jetsonian food option has been cooked up on Pierce that prepares hot food in just a few minutes. The FOODTURE hot food vending machine—located</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/29/ordering-up-the-foodture/">Ordering up the FOODTURE</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/29/ordering-up-the-foodture/?utm_source=rss&utm_medium=rss&utm_campaign=ordering-up-the-foodture>
+
+---
+
+## News Briefs – May 29, 2024
+
+date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Powwow at Pierce: Pierce College will be hosting its first Powwow at the Equestrian Center on June 22, 2024. The event opens with Gourd Dancing</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/29/news-briefs-may-29-2024/">News Briefs – May 29, 2024</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/29/news-briefs-may-29-2024/?utm_source=rss&utm_medium=rss&utm_campaign=news-briefs-may-29-2024>
 
 ---
 

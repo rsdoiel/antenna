@@ -1,11 +1,122 @@
 ---
 title: pacific 2024.22
-updated: 2024-05-29 09:46:27
+updated: 2024-05-29 10:54:51
 ---
 
 # pacific 2024.22
 
-(date: 2024-05-29 09:46:27)
+(date: 2024-05-29 10:54:51)
+
+---
+
+## Image of the Week: Sunset research
+
+date: 2024-05-29, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> This week's image is from <abbr>UH</abbr> Mānoa's Kelsey Maloney.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/29/image-of-the-week-sunset-research/">Image of the Week: Sunset research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/29/image-of-the-week-sunset-research/>
+
+---
+
+## Variety editor’s 4th book now available at Joeten Susupe
+
+date: 2024-05-29, updated: 2024-05-29, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is now available at the Joeten Shopping Center in Susupe. 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-now-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Court rules in RB’s favor
+
+date: 2024-05-29, updated: 2024-05-29, from: Marianas Variety
+
+SAYING that the Office of the Mayor of Saipan and the Municipality of Saipan are the intended third-party beneficiaries of the public benefit provision, Superior Court Associate Judge Joseph N. Camacho granted Saipan Mayor Ramon “RB” Camacho’s motion to dismiss the civil complaint of Construction &amp; Material Supply Inc. 
+
+<https://www.mvariety.com/news/local/court-rules-in-rb-s-favor/article_4f1719bc-1dba-11ef-b490-37200d29118b.html>
+
+---
+
+## HSEM tests new mobile all-hazard siren system
+
+date: 2024-05-29, updated: 2024-05-29, from: Marianas Variety
+
+THE CNMI Office of Homeland Security and Emergency Management tested its new mobile all-hazard siren system at Paupau Beach in San Roque, and at Garapan Fishing Base on Wednesday. 
+
+<https://www.mvariety.com/news/local/hsem-tests-new-mobile-all-hazard-siren-system/article_b80a801c-1dba-11ef-bdec-07c2fa811c81.html>
+
+---
+
+## Saipan delegation panel backs Zoning Board nominee
+
+date: 2024-05-29, updated: 2024-05-29, from: Marianas Variety
+
+THE Saipan and Northern Islands Legislative Delegation's Judiciary and Governmental Operations Committee on Tuesday unanimously endorsed the nomination of Eleanor Alinas to the Commonwealth Zoning Board. 
+
+<https://www.mvariety.com/news/local/saipan-delegation-panel-backs-zoning-board-nominee/article_fe3e1b04-1d72-11ef-80b6-67dc514ba23b.html>
+
+---
+
+## Ex-NMI Bar official to plead guilty
+
+date: 2024-05-29, updated: 2024-05-29, from: Marianas Variety
+
+ASSISTANT U.S. Attorney Eric O’Malley has asked the federal court to schedule a change of plea hearing in the case against former CNMI Bar Association Executive Director Peonie Cabrera. 
+
+<https://www.mvariety.com/news/local/ex-nmi-bar-official-to-plead-guilty/article_e3528b12-1db9-11ef-9f68-6f0e2b61a864.html>
+
+---
+
+## Spanish fan shows off his Taylor Swift ‘sanctuary’ before Madrid gig
+
+date: 2024-05-29, updated: 2024-05-29, from: Marianas Variety
+
+MADRID (Reuters) — Roberto Santos, 55, stands out among other "Swifties" for his decades-long devotion to American pop icon Taylor Swift and a plethora of gifts the Spaniard has received from her team in recognition of that — enough to fill up an apartment room he calls a sanctuary. 
+
+<https://www.mvariety.com/lifestyle/spanish-fan-shows-off-his-taylor-swift-sanctuary-before-madrid-gig/article_d29edb40-1dcd-11ef-b677-1f64548f8cef.html>
+
+---
+
+## Kanoa wins Marianas Soccer League 2 championship
+
+date: 2024-05-29, updated: 2024-05-29, from: Marianas Variety
+
+The Kanoa Football Club teams claimed the Marianas Soccer Leagues 1 and 2 titles at the NMI Soccer Training Center in Koblerville on Sunday. Kanoa defeated Matansa Football Club to claim the MSL 1 title while Kanoa’s other team took the MSL 2 title after Paire Football Club forfeited their championship match. Photo shows the Kanoa players posing after winning the Marianas Soccer League 2 championship. 
+
+<https://www.mvariety.com/sports/localsports/kanoa-wins-marianas-soccer-league-2-championship/article_7ceeb1d4-1dc8-11ef-82a3-4311aaed3105.html>
+
+---
+
+## Bandits snatch win against Blue Sharks
+
+date: 2024-05-29, updated: 2024-05-29, from: Marianas Variety
+
+THE Bandits remain unscathed in the 2024 Tan Holdings Saipan Baseball League as they earned their fourth straight win by trouncing the Blue Sharks, 16-6, at the Francisco “Tan Ko” Palacios Baseball Field on Tuesday. 
+
+<https://www.mvariety.com/sports/localsports/bandits-snatch-win-against-blue-sharks/article_6c993f0e-1dcb-11ef-9b1b-d3b54ba02419.html>
+
+---
+
+## Saints dismantle Lamesa Kusina to reach semis
+
+date: 2024-05-29, updated: 2024-05-29, from: Marianas Variety
+
+THE Saints claimed the last semifinal sport of the Michelob Ultra Cup 2024 by dominating Lamesa Kusina, 80-60, at the Gilbert C. Ada Gymnasium on Tuesday. 
+
+<https://www.mvariety.com/sports/localsports/saints-dismantle-lamesa-kusina-to-reach-semis/article_cccd0648-1dcc-11ef-a371-d7f2b01848df.html>
+
+---
+
+## Commitment to service
+
+date: 2024-05-29, updated: 2024-05-29, from: Marianas Variety
+
+IN the heart of our CNMI community beats a tale of unwavering compassion personified by a dedicated individual. Despite facing legal challenges, her commitment to service remains unshakeable. 
+
+<https://www.mvariety.com/views/letters_to_editor/commitment-to-service/article_e4fa16be-1dc9-11ef-9f4a-1bd38b640c69.html>
 
 ---
 

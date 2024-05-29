@@ -1,11 +1,166 @@
 ---
 title: weather 2024.22
-updated: 2024-05-29 09:46:28
+updated: 2024-05-29 10:54:51
 ---
 
 # weather 2024.22
 
-(date: 2024-05-29 09:46:28)
+(date: 2024-05-29 10:54:51)
+
+---
+
+## SPC - No watches are valid as of Wed May 29 17:46:02 UTC 2024
+
+date: 2024-05-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Wed May 29 17:46:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Wed May 29 17:46:02 UTC 2024
+
+date: 2024-05-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Wed May 29 17:46:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC May 29, 2024 1730 UTC Day 2 Convective Outlook
+
+date: 2024-05-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1225 PM CDT Wed May 29 2024
+
+Valid 301200Z - 311200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS SOUTHEAST
+COLORADO...SOUTHWEST KANSAS...WESTERN OKLAHOMA...FAR NORTHEAST NEW
+MEXICO...THE TX PANHANDLE...AND NORTHWEST INTO CENTRAL TEXAS...
+
+...SUMMARY...
+Severe thunderstorms are possible across parts of the central and
+southern Great Plains Thursday afternoon through Thursday night. 
+This may include a few supercells initially, before one or two
+thunderstorm clusters develop and organize, posing a risk for severe
+wind gusts in addition to large hail.
+
+...Synopsis...
+A positively tilted mid-level trough across the Northeast and the
+trailing surface high pressure will bring cool conditions to much of
+the eastern CONUS on Thursday. Farther west, a ridge will build into
+the Upper Midwest with a broad mid-level trough extending from the
+Pacific Northwest to the northern Plains. Farther south, a series of
+weak shortwave troughs are expected to cross the central/southern
+High Plains resulting in multiple rounds of strong to severe
+thunderstorms. 
+
+...Central/Southern High Plains...
+An MCS is likely to be ongoing at the beginning of the period,
+likely somewhere in the vicinity of the OK/TX Panhandle. Guidance
+varies on the maintenance of this MCS with some guidance dissipating
+it by late morning and some guidance maintaining it long enough for
+surface heating to destabilize with a re-intensification across
+Texas during the day and into Louisiana by the evening. This MCS and
+its associated outflow will have an impact on location and severity
+of the severe weather threat across the southern High Plains
+Thursday afternoon/evening with a localized corridor of greater
+severe weather threat where this boundary stalls by afternoon.
+However, the location of this boundary will vary greatly based on
+the evolution of the overnight MCS. Therefore, a corridor of greater
+risk remains unclear at this time and may become more clear during
+the Day 1 period. 
+
+More broadly, a weak mid-level shortwave trough is expected to move
+out of eastern New Mexico during the afternoon. This will overspread
+height falls across the entire dryline which, from MAF northward,
+should be uncapped by early afternoon. Therefore, widespread
+thunderstorm activity is expected which should eventually
+consolidate into at least a few slow-moving supercells given around
+25 knots of mid-level flow yielding around 35 knots of shear.
+Eventually, expect outflow from these supercells to congeal into one
+or more MCSs which should continue into the overnight period. Large
+hail (some 2+ inch) and severe wind gusts will be the initial
+threat, with the severe wind threat continuing later in the evening
+and into the overnight period. 
+
+...Eastern Colorado, across Nebraska, and into southwest
+Minnesota...
+Thunderstorms are expected to develop Thursday afternoon along a
+cold front which will extend from eastern Colorado into Minnesota.
+Shear will be relatively weak in the area (~25 knots), but moderate
+instability should support some stronger multicell clusters capable
+of large hail and damaging wind gusts. Without additional
+forcing/shear, this thunderstorm activity should wane after sunset
+as the boundary layer cools.
+
+..Bentley.. 05/29/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-05-29, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Wed, 29 May 2024 17:14:17 GMT 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-05-29, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Wed May 29 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Berg<br>NNNN<br><br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2024-05-29, from: Eastern Pacific Tropical Weather Outlook
+
+ <br />
+ 158 <br />
+ ABPZ20 KNHC 291706<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 1100 AM PDT Wed May 29 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ Tropical cyclone formation is not expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster D. Zelinsky<br />
+ <br />
+  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 
@@ -53,26 +208,6 @@ percentiles are beginning to creep above 80.
  
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
-
----
-
-## SPC - No watches are valid as of Wed May 29 16:36:01 UTC 2024
-
-date: 2024-05-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Wed May 29 16:36:01 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Wed May 29 16:36:01 UTC 2024
-
-date: 2024-05-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Wed May 29 16:36:01 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -182,16 +317,6 @@ and longer lasting storm could produce a severe gust.
 
 ---
 
-## There are no tropical cyclones at this time.
-
-date: 2024-05-29, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Wed, 29 May 2024 15:01:07 GMT 
-
-<https://www.nhc.noaa.gov/gis/>
-
----
-
 ## SPC May 29, 2024 1300 UTC Day 1 Convective Outlook
 
 date: 2024-05-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -272,49 +397,6 @@ buoyancy and weak low-level flow to limit momentum transfer.
  
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2024-05-29, from: Eastern Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ABPZ20 KNHC 291136<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 500 AM PDT Wed May 29 2024<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- Tropical cyclone formation is not expected during the next 7 days.<br />
- <br />
- $$<br />
- Forecaster D. Zelinsky<br />
-  
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-05-29, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Wed May 29 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Berg<br>NNNN<br><br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 

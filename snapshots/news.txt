@@ -162,7 +162,6 @@ https://optimism.substack.com/feed "~Howard Weaver Blog"
 https://p1k3.com/feed "~p1k3.com community feed"
 https://passo.uno/index.xml "~Blog by Fabrizio Ferri-Benedetti"
 https://peerj.com/blog/feed/ "~PeerJ blog"
-https://peoplescdc.org/feed/ "~Peoples CDC blog"
 #moved to news2.txt
 #https://perens.com/feed/ "~Bruce Perens blog"
 https://petermolnar.net/feed/ "~Peter Molnar blog"

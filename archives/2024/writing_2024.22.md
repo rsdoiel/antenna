@@ -1,11 +1,23 @@
 ---
 title: writing 2024.22
-updated: 2024-05-29 09:46:28
+updated: 2024-05-29 10:54:51
 ---
 
 # writing 2024.22
 
-(date: 2024-05-29 09:46:28)
+(date: 2024-05-29 10:54:51)
+
+---
+
+## New Books Video for May 28 Is Up!
+
+date: 2024-05-29, from: Locus Magazine
+
+<p>Come check out this week&#8217;s books and a couple of recommended ICYMI!</p>
+<p>&#160;</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2024/05/new-books-video-for-may-28-is-up/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/05/new-books-video-for-may-28-is-up/>
 
 ---
 

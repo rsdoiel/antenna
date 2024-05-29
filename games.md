@@ -1,11 +1,31 @@
 ---
 title: games 2024.22
-updated: 2024-05-29 09:46:28
+updated: 2024-05-29 10:54:51
 ---
 
 # games 2024.22
 
-(date: 2024-05-29 09:46:28)
+(date: 2024-05-29 10:54:51)
+
+---
+
+## My Favorite Anime: Mercedes Varnado’s journey from Sailor Moon to My Hero Academia
+
+date: 2024-05-29, updated: 2024-05-29, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/anime/2024/5/29/24159189/my-favorite-anime-mercedes-varnados-sailor-moon-my-hero-academia>
+
+---
+
+## Summer Game Fest 2024 and not-E3 2024 schedule: All conference dates and times
+
+date: 2024-05-29, updated: 2024-05-29, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gaming/24167070/summer-game-fest-2024-schedule-sgf-e3>
 
 ---
 
