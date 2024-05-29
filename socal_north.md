@@ -1,11 +1,302 @@
 ---
 title: socal north 2024.22
-updated: 2024-05-28 08:42:27
+updated: 2024-05-29 09:46:27
 ---
 
 # socal north 2024.22
 
-(date: 2024-05-28 08:42:27)
+(date: 2024-05-29 09:46:27)
+
+---
+
+## Time to herd Brahmas into the spotlight
+
+date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce College should highlight achievements and success stories from students. Recognizing student achievement can help motivate others to excel. “Highlighting student achievement is clearly a</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/29/time-to-herd-brahmas-into-the-spotlight/">Time to herd Brahmas into the spotlight</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/29/time-to-herd-brahmas-into-the-spotlight/?utm_source=rss&utm_medium=rss&utm_campaign=time-to-herd-brahmas-into-the-spotlight>
+
+---
+
+## Streetbeat: What are your summer plans?
+
+date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>&#160; &#160; “I play the marimba, so I’m going to be getting some lessons from one of the people that I play with. I’m going</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/29/streetbeat-what-are-your-summer-plans-2/">Streetbeat: What are your summer plans?</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/29/streetbeat-what-are-your-summer-plans-2/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-what-are-your-summer-plans-2>
+
+---
+
+## Students urge for a smoke-free campus at Pierce College Council meeting
+
+date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>During the last two Pierce College Council meetings, students have voiced their concerns over Pierce College not being a 100% smoke-free campus.  Student athlete and</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/29/students-urge-for-a-smoke-free-campus-at-pierce-college-council-meeting/">Students urge for a smoke-free campus at Pierce College Council meeting</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/29/students-urge-for-a-smoke-free-campus-at-pierce-college-council-meeting/?utm_source=rss&utm_medium=rss&utm_campaign=students-urge-for-a-smoke-free-campus-at-pierce-college-council-meeting>
+
+---
+
+## Brahma Blotter: May 20-26, 2024
+
+date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>No crimes were reported between May 20-26, 2024. The crime log is made publicly available at the Pierce College Sheriff’s Office. No se reportaron crímenes</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/29/brahma-blotter-may-20-26-2024/">Brahma Blotter: May 20-26, 2024</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/29/brahma-blotter-may-20-26-2024/?utm_source=rss&utm_medium=rss&utm_campaign=brahma-blotter-may-20-26-2024>
+
+---
+
+## After A Challenging School Year, LGBTQ+ Educators Share Their Experiences
+
+date: 2024-05-29, updated: 2024-05-29, from: The LAist
+
+Protests, flag bans, and book restrictions tested teachers’ ability to create a safe space for students to learn. 
+
+<https://laist.com/news/education/lausd-lgbtq-los-angeles-county-chino-antelope-valley-teacher-student-support>
+
+---
+
+## Classifieds – May 29, 2024
+
+date: 2024-05-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/29/classifieds-may-29-2024/">Classifieds &#8211; May 29, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/29/classifieds-may-29-2024/>
+
+---
+
+## New album ‘Model’ sees Wallows in full bloom
+
+date: 2024-05-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The indie pop band comes into their own with their third studio album.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/29/new-album-model-sees-wallows-in-full-bloom/">New album ‘Model’ sees Wallows in full bloom</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/29/new-album-model-sees-wallows-in-full-bloom/>
+
+---
+
+## USC athletes are ready to shine at the 2024 Olympics
+
+date: 2024-05-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Anticipation increases for former and current Trojans ahead of the Olympic Games.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/29/usc-athletes-are-ready-to-shine-at-the-2024-olympics/">USC athletes are ready to shine at the 2024 Olympics</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/29/usc-athletes-are-ready-to-shine-at-the-2024-olympics/>
+
+---
+
+## Student Health services will be available throughout summer
+
+date: 2024-05-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students can opt in to the Summer Health Fee if they are not in summer classes.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/29/student-health-services-will-be-available-throughout-summer/">Student Health services will be available throughout summer</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/29/student-health-services-will-be-available-throughout-summer/>
+
+---
+
+## To the class of 2028, here’s my advice
+
+date: 2024-05-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>This new chapter at USC won’t be easy, but you can influence your experience.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/29/advice-for-the-class-of-2028/">To the class of 2028, here’s my advice</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/29/advice-for-the-class-of-2028/>
+
+---
+
+## USC admin needs to reconsider their governing structure
+
+date: 2024-05-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University must review its own management system with checks and balances. </p>
+<p>The post <a href="https://dailytrojan.com/2024/05/29/usc-admin-needs-to-reconsider-their-governing-structure/">USC admin needs to reconsider their governing structure</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/29/usc-admin-needs-to-reconsider-their-governing-structure/>
+
+---
+
+## Women’s golf reaches semifinals, falls to Stanford
+
+date: 2024-05-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>An impressive performance during stroke play earned USC the fourth overall seed.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/29/womens-golf-reaches-semifinals-falls-to-stanford/">Women’s golf reaches semifinals, falls to Stanford</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/29/womens-golf-reaches-semifinals-falls-to-stanford/>
+
+---
+
+## Jewish students discuss incidents of antisemitism, harassment on campus
+
+date: 2024-05-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Some students said they no longer felt safe on campus during end-of-year protests.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/29/jewish-students-discuss-incidents-of-antisemitism-harassment-on-campus/">Jewish students discuss incidents of antisemitism, harassment on campus</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/29/jewish-students-discuss-incidents-of-antisemitism-harassment-on-campus/>
+
+---
+
+## Stuffed bagels are my latest go-to brunch bangers
+
+date: 2024-05-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Calic Bagel serves sandwiches and baked bagels galore.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/29/stuffed-bagels-are-my-latest-go-to-brunch-bangers/">Stuffed bagels are my latest go-to brunch bangers</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/29/stuffed-bagels-are-my-latest-go-to-brunch-bangers/>
+
+---
+
+## USC baseball will be back
+
+date: 2024-05-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans won nine of their final 10 games to close out the season.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/29/usc-baseball-will-be-back/">USC baseball will be back</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/29/usc-baseball-will-be-back/>
+
+---
+
+## Health Care & Community: Social Determinants of Health
+
+date: 2024-05-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA has long been a leader in healthcare innovation. In this miniseries, Daily Bruin Podcasts explores initiatives at UCLA clinics aimed at creating a more effective and equitable health care system. 
+
+<https://dailybruin.com/2024/05/28/health-care-community-social-determinants-of-health/>
+
+---
+
+## Union members, UCLA faculty demand ‘real action’ from UC at UAW Local 4811 rally
+
+date: 2024-05-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 28 at 9:58 p.m.</em>
+Around 200 people gathered at Bruin Plaza on Tuesday to show support for the ongoing United Auto Workers Local 4811 strike.&#160;
+UCLA members of UAW Local 4811 – which represents academic student employees, graduate students, and academic and postdoctoral researchers – began picketing at 9 a.m. 
+
+<https://dailybruin.com/2024/05/28/union-members-ucla-faculty-demand-real-action-from-uc-at-uaw-local-4811-rally/>
+
+---
+
+## ‘A dream come true’: How Gabriela Jaquez joined UCLA softball
+
+date: 2024-05-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Gabriela Jaquez was doing homework when she got a call on Mother&#8217;s Day.
+UCLA women&#8217;s basketball director of operations Pam Walker had an offer &#8211;  the chance to add another DI sport to the sophomore forward&#8217;s resume. 
+
+<https://dailybruin.com/2024/05/28/a-dream-come-true-how-gabriela-jaquez-joined-ucla-softball/>
+
+---
+
+## Sidequest: Jeopardy!
+
+date: 2024-05-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+On today&#8217;s episode, Podcasts editor Jack Garland and Podcasts contributors Aidan Doyle and Aashay Ghiya discuss their experience at a live Jeopardy! recording. 
+
+Jack Garland: Welcome to Sidequest, a miniseries by Daily Bruin podcast where we send podcast contributors on adventures around Los Angeles to experience everything the city has to offer. 
+
+<https://dailybruin.com/2024/05/28/sidequest-jeopardy/>
+
+---
+
+## UCLA Academic Workers Go On Strike, Growing Protest Against University Of California System
+
+date: 2024-05-28, updated: 2024-05-28, from: The LAist
+
+Student researchers, teaching assistants and post-docs at UCLA and UC Davis went on strike Tuesday, expanding a strike that began at UC Santa Cruz earlier in May. 
+
+<https://laist.com/news/education/ucla-academic-workers-strike-university-of-california-uaw-4811>
+
+---
+
+## Behind the campus encampments: what kind of student activism is protected by law?
+
+date: 2024-05-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+Recent demonstrations at UCLA have raised questions regarding First Amendment rights and protections afforded to those participating in protests, encampments and other forms of activism on the public school&#8217;s campus. 
+
+<https://dailybruin.com/2024/05/28/behind-the-campus-encampments-what-kind-of-student-activism-is-protected-by-law/>
+
+---
+
+## All Aboard the Summer Beach Bus Beginning June 1
+
+date: 2024-05-28, from: City of Santa Clarita
+
+<p>Experience Ventura All Summer Long with Santa Clarita Transit! The City of Santa Clarita is excited to announce the return of Santa Clarita Transit’s Summer Beach Bus service, offering convenient transportation to Ventura Harbor on the weekends starting Saturday, June 1 through Sunday, September 1. This popular service provides residents with a stress-free way to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/05/28/all-aboard-the-summer-beach-bus-beginning-june-1/">All Aboard the Summer Beach Bus Beginning June 1</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/05/28/all-aboard-the-summer-beach-bus-beginning-june-1/>
+
+---
+
+## Experience “Dawn/Eclipse of a New Era” Exhibition at The MAIN
+
+date: 2024-05-28, from: City of Santa Clarita
+
+<p>The Surreal Meets the Existential as Portraiture Becomes Performative The City of Santa Clarita is excited to present “Dawn/Eclipse of A New Era,” an expressive photographic exhibition by acclaimed artist Harry Gamboa Jr. This exhibition will run from Wednesday, June 4 to Monday, August 5, at The MAIN (24266 Main Street) with an opening reception [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/05/28/experience-dawn-eclipse-of-a-new-era-exhibition-at-the-main/">Experience &#8220;Dawn/Eclipse of a New Era&#8221; Exhibition at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/05/28/experience-dawn-eclipse-of-a-new-era-exhibition-at-the-main/>
+
+---
+
+## United Auto Workers Local 4811 begins UCLA strike at Dickson Plaza
+
+date: 2024-05-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+United Auto Workers Local 4811 began its strike at UCLA on Tuesday with picketing at 9 a.m. in Dickson Plaza.&#160;
+This move comes after UAW Local 4811 – which represents academic students, employees, graduate students and academic and postdoctoral researchers – voted to authorize a strike May 15, with 79% of participating members voting in favor of the action. 
+
+<https://dailybruin.com/2024/05/28/united-auto-workers-local-4811-begins-ucla-strike-at-dickson-plaza/>
+
+---
+
+## Metro Bus Driver Attacked on Memorial Day; Suspect At Large
+
+date: 2024-05-28, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="691" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2607-691x768-1.jpeg?fit=691%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2607-691x768-1.jpeg?w=691&amp;ssl=1 691w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2607-691x768-1.jpeg?resize=270%2C300&amp;ssl=1 270w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2607-691x768-1.jpeg?resize=400%2C445&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2607-691x768-1.jpeg?fit=691%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; Authorities today continued their search for a woman who allegedly attacked and robbed a Metro bus driver, adding to a string of recent violent assaults targeting [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/28/metro-bus-driver-attacked-on-memorial-day-suspect-at-large/">Metro Bus Driver Attacked on Memorial Day; Suspect At Large</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/28/metro-bus-driver-attacked-on-memorial-day-suspect-at-large/>
 
 ---
 
@@ -53,12 +344,12 @@ When scrolling through social media, Neha Gupta and her roommates often come acr
 
 ---
 
-## Chemical engineering 19 teaches science communication via Wikipedia contribution
+## Chemical Engineering 19 teaches science communication via Wikipedia contribution
 
 date: 2024-05-28, from: The Daily Bruin (UCLA Student Newspaper)
 
-The next time a person searches the internet to research native plants or local dialects, they may encounter Wikipedia articles edited by UCLA students.
-Chemical Engineering 19, or “Writing for Wikipedia: Communicating Science to Global Audience,” is a Fiat Lux seminar that teaches students to write on Wikipedia. 
+<em>This post was updated May 28 at 5:22 p.m.</em>
+The next time a person searches the internet to research native plants or local dialects, they may encounter Wikipedia articles edited by UCLA students. 
 
 <https://dailybruin.com/2024/05/27/chemical-engineering-19-teaches-science-communication-via-wikipedia-contribution/>
 
@@ -89,7 +380,7 @@ The UCLA Alumni Association honored seven alumni and one network for their contr
 
 date: 2024-05-27, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated May 27 at 10:57 p.m.</em>
+<em>This post was updated May 28 at 5:49 p.m.</em>
 The NCAA has long required prospective Division I and II student-athletes to receive amateurism certification – documentation confirming their status as amateurs, prohibiting payment for performance. 
 
 <https://dailybruin.com/2024/05/27/ncaa-power-5-reach-historic-deal-allowing-schools-to-pay-student-athletes/>
@@ -166,7 +457,7 @@ Despite Tinsley being a self-proclaimed Georgia Tech fan growing up, the rivalry
 
 date: 2024-05-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="569" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?fit=1024%2C569&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police apprehend suspected shooter" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?w=2484&amp;ssl=1 2484w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=300%2C167&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=1024%2C569&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=768%2C427&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=1536%2C853&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=2048%2C1138&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=1200%2C667&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=1568%2C871&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=2000%2C1111&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=400%2C222&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=706%2C392&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?fit=1024%2C569&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="569" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?fit=1024%2C569&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police apprehend suspected shooter" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?w=2484&amp;ssl=1 2484w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=300%2C167&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=1024%2C569&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=768%2C427&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=1536%2C853&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=2048%2C1138&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=1200%2C667&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=1568%2C871&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=2000%2C1111&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=400%2C222&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?resize=706%2C392&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/shooter-in-SF.jpg?fit=1024%2C569&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Last night, Saturday May 25,&#160; at 11:20 PM, San Fernando Police arrested&#160;&#160;Martin Rodriguez, 61, of San Fernando. Rodriguez who police said initially barricaded himself in his home located in the [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/05/26/five-people-shot-in-san-fernando-sfpd-arrest-suspect/">Five People Shot in San Fernando &#8211; SFPD Arrest Suspect </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -189,9 +480,8 @@ Los Angeles moms Lulu Cheng and Lacey Benard bring new perspectives to children�
 
 date: 2024-05-26, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated May 27 at 9:05 p.m.</em>
 Elizabeth Kemper, a legal rights advocate for UCLA students, is retiring after 40 years.
-Kemper, director of UCLA Student Legal Services, will retire at the end of the 2023-2024 academic school year, leaving behind a legacy of decades-long advocacy and efficiency in meeting the legal challenges students face. 
+Kemper, director of UCLA Student Legal Services, will retire at the end of the 2023-2024 academic school year, leaving behind a legacy of decades-long advocacy and efficiently meeting the legal challenges students face. 
 
 <https://dailybruin.com/2024/05/25/elizabeth-kemper-to-retire-as-student-legal-services-director-after-40-year-career/>
 

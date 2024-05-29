@@ -1,11 +1,131 @@
 ---
 title: motorcycles 2024.22
-updated: 2024-05-28 08:42:28
+updated: 2024-05-29 09:46:28
 ---
 
 # motorcycles 2024.22
 
-(date: 2024-05-28 08:42:28)
+(date: 2024-05-29 09:46:28)
+
+---
+
+## CFMoto Teases a Retro Sportbike With The 500SR Voom
+
+date: 2024-05-29, from: Ride Apart, Electric Motorcycle News
+
+Retro-inspired styling mated to a 500cc inline-four? Count me in.  
+
+<https://www.rideapart.com/news/721156/cfmoto-500sr-voom-teaser/>
+
+---
+
+## Brad Pitt and Channing Tatum Pick a Perfect Time To Produce Isle of Man TT Docuseries
+
+date: 2024-05-29, from: Ride Apart, Electric Motorcycle News
+
+Pitt isn't the only all-star name in the behind-the-scenes production team. And it looks like a feature film will be coming soon after. 
+
+<https://www.rideapart.com/news/721310/brad-pitt-channing-tatum-iom-tt-documentary/>
+
+---
+
+## These Upgrade Kits Transform The Yamaha Tenere T7 Into A Rally Machine
+
+date: 2024-05-29, from: Ride Apart, Electric Motorcycle News
+
+The upgrades tackle everything from performance, handling, and ergonomics.  
+
+<https://www.rideapart.com/news/721019/yamaha-gytr-upgrades-tenere-700/>
+
+---
+
+## Watch a Yamaha R1 GYTR Drag Race a Porsche Taycan
+
+date: 2024-05-29, from: Ride Apart, Electric Motorcycle News
+
+These two machines couldn't be further apart. 
+
+<https://www.rideapart.com/news/721299/taycan-vs-r1-drag-race-jonathan-rea-wsbk/>
+
+---
+
+## This Incredibly Cute Folding Electric Scooter Is Now Available For Preorder
+
+date: 2024-05-29, from: Ride Apart, Electric Motorcycle News
+
+The Icoma Tatamel Bike has been a long time coming in Japan, but now you can buy one. 
+
+<https://www.rideapart.com/news/720952/icoma-tatamel-bike-preorders-2024/>
+
+---
+
+## BMW's New CEO Says They're Looking at a MotoGP Entry
+
+date: 2024-05-29, from: Ride Apart, Electric Motorcycle News
+
+"If we want to continue to be successful around the globe, then I would like to do racing around the globe." 
+
+<https://www.rideapart.com/news/721283/bmw-motogp-wsbk-entry-interview/>
+
+---
+
+## You Don’t Want To Miss KTM’s Adventure Rider Rally
+
+date: 2024-05-29, from: Ride Apart, Electric Motorcycle News
+
+Mark your calendars for October 10 to 13.  
+
+<https://www.rideapart.com/news/721018/2024-ktm-adventure-rider-rally-announcement/>
+
+---
+
+## Bagnaia Redeems With Catalunya Win
+
+date: 2024-05-28, from: Cycle World News
+
+After a crash in the Saturday Tissot Sprint, Francesco Bagnaia redeemed himself with a win in Sunday’s Catalunya GP. 
+
+<https://www.cycleworld.com/motorcycle-racing/catalunya-motogp-race-report-2024/>
+
+---
+
+## Lane Filtering Legalized In Minnesota, But You'll Have to Wait
+
+date: 2024-05-28, from: Ride Apart, Electric Motorcycle News
+
+Governor Tim Walz signed the legislation into law on May 24, 2024, but it won't take effect until July 1, 2025. 
+
+<https://www.rideapart.com/news/721287/motorcycle-lane-filtering-legal-minnesota-2025/>
+
+---
+
+## Front Row Seat with Aprilia at the Misano MotoGP Round
+
+date: 2024-05-28, from: Cycle World News
+
+The Misano World Circuit is more and more the forum of Aprilia brand passion. 
+
+<https://www.cycleworld.com/the-wire/front-row-seat-with-aprilia-at-misano-motogp-round/>
+
+---
+
+## Arai XD-5 Review
+
+date: 2024-05-28, from: Cycle World News
+
+We spent two days riding in Arai’s all-new XD-5 helmet; is it an upgrade from the long-running XD-4? 
+
+<https://www.cycleworld.com/motorcycle-gear-and-products/arai-xd-5-helmet-review/>
+
+---
+
+## Andres Perez Following in Daniel Suarez’s Footsteps
+
+date: 2024-05-28, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor CONCORD, N.C. – NASCAR Drive for Diversity competitor Andres Perez is walking in the footsteps of fellow driver Daniel Suarez in his journey up the&#8230;  
+
+<https://kickinthetires.net/nascar/andres-perez-following-suarez-footsteps/>
 
 ---
 

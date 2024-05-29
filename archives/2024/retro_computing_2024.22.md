@@ -1,11 +1,51 @@
 ---
 title: retro computing 2024.22
-updated: 2024-05-28 08:42:28
+updated: 2024-05-29 09:46:28
 ---
 
 # retro computing 2024.22
 
-(date: 2024-05-28 08:42:28)
+(date: 2024-05-29 09:46:28)
+
+---
+
+## Free FDISK 1.3.15
+
+date: 2024-05-28, from: FreeDOS News
+
+<div class="markdown_content"><p>Bernd Böckmann writes: "Free FDISK 1.3.15 is released." This has several fixes and changes, including: + Fix FDISK not modifying partition type via command /MODIFY and via UI if FDISK is started in extended options mode /XO + respect selected video page instead of hardcoding it to zero when calling INT 10 routines + FDISK provided MBR bootloader should now run with as low as 64K of RAM + Work around Xi8088 and Book8088 BIOS bug + Assume BIOS drive number of 0x80 to boot from if BIOS tells us it is unit 0.  You can download the latest version from <a class="" href="https://github.com/FDOS/fdisk/releases/tag/v1.3.15" rel="nofollow">Free FDISK on GitHub</a>.</p></div> 
+
+<https://sourceforge.net/p/freedos/news/2024/05/free-fdisk-1315/>
+
+---
+
+## TUXEDO Computers Unveils New Iteration of the Stellaris Laptop Line
+
+date: 2024-05-28, from: Linux Magazine
+
+<p>The Stellaris Slim 15 is the 6th generation and includes either an AMD or Intel CPU</p> 
+
+<http://www.linux-magazine.com/Online/News/TUXEDO-Computers-Unveils-New-Iteration-of-the-Stellaris-Laptop-Line>
+
+---
+
+## b.log 2024/05/28 - The trees, My car?, The Livebox 6.
+
+date: 2024-05-28, from: Richard Murray's blog
+
+The trees, My car?, The Livebox 6. 
+
+<https://heyrick.eu/blog/index.php?diary=20240528>
+
+---
+
+## Comics from 1982/02 Creative Computing Mag
+
+date: 2024-05-28, from: Computer ads from the Past
+
+Time for some humor 
+
+<https://computeradsfromthepast.substack.com/p/comics-from-198202-creative-computing>
 
 ---
 
@@ -13,7 +53,7 @@ updated: 2024-05-28 08:42:28
 
 date: 2024-05-28, from: FreeDOS News
 
-<div class="markdown_content"><p>If you've tried to email either the freedos-devel or freedos-user <a class="" href="https://www.freedos.org/forums/" rel="nofollow">email lists</a> this weekend, your message isn't being ignored. It just didn't get through. We use SourceForge for our email lists, and it looks like the email list servers have been down all weekend. We have a support ticket opened with SourceForge, so we're hoping it will get resolved soon - but I wanted to post a news item to let folks know.</p></div> 
+<div class="markdown_content"><p>If you've tried to email either the freedos-devel or freedos-user <a class="" href="https://www.freedos.org/forums/" rel="nofollow">email lists</a> this weekend, your message isn't being ignored. It just didn't get through. We use SourceForge for our email lists, and it looks like the email list servers have been down all weekend. We have a support ticket opened with SourceForge, so we're hoping it will get resolved soon. <em>Updated:</em> Thanks to SourceForge for fixing the email list servers. Things are working normally again. You might need to resend emails that you sent over the weekend; we'll leave this announcement on the website for another day or so as a reminder.</p></div> 
 
 <https://sourceforge.net/p/freedos/news/2024/05/email-list-servers-are-down/>
 
@@ -33,7 +73,7 @@ Canon, however, never fully grasped the concept either. Apart from the tone-deaf
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkP9w_aiGmT5V_w6mZv-tVfcSuiiTta61JKZE0yp1vRAA4f04Im988cdXbhwZxod1qGBYmeWLJRaTmi68dA388KNdIbSHDwXmzd1F8znjRVfvvI1a4H3pidHLCvTfnMp455NUrTZU5C-zuoPG13mn83JXilS9gqV_Cw3XEDeCwZ1JM8iF5wMqBfqv6xHg/s4080/PXL_20240527_155129732~2.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="320" data-original-height="4080" data-original-width="3072" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkP9w_aiGmT5V_w6mZv-tVfcSuiiTta61JKZE0yp1vRAA4f04Im988cdXbhwZxod1qGBYmeWLJRaTmi68dA388KNdIbSHDwXmzd1F8znjRVfvvI1a4H3pidHLCvTfnMp455NUrTZU5C-zuoPG13mn83JXilS9gqV_Cw3XEDeCwZ1JM8iF5wMqBfqv6xHg/s320/PXL_20240527_155129732~2.jpg"/></a></div>
 
-But what was actually under the hood was a unique all-in-one 68000 system with a bitmapped display and a full Forth environment hidden in its ROM-based, fast-start operating system. There's no hard disk, just a single 3.5" floppy drive to save your documents and the current Forth dictionary. Although the default mode is the built-in word processor, its tForth ("token-threaded Forth") dialect was easily unlockable and Information Appliance, Inc., Raskin's company that produced the Cat and licensed it to Canon, published substantial documentation on how to enable and program in it.
+But what was actually under the hood was a unique all-in-one 68000 machine with a bitmapped display and a full Forth environment hidden in its ROM-based, fast-start operating system. There's no hard disk, just a single 3.5" floppy drive to save your documents and the current Forth dictionary. Although the default mode is the built-in word processor, its tForth ("token-threaded Forth") dialect was easily unlockable and Information Appliance, Inc., Raskin's company that produced the Cat and licensed it to Canon, published substantial documentation on how to enable and program in it.
 <p>
 We'll have more to say about that <a href="/search/label/canon">in a future entry</a> when we get into the guts of the OS. Today, we have two tasks: replace its settings battery and shore up the nearly unobtainium custom Canon floppy drive, its most common point of failure. It's time for a Refurb Weekend.
 <p>
@@ -142,9 +182,9 @@ The other two are easier. They are the two screws on either side of the bracket'
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhTZ7sPzbdDH-7BoqOZfFPZq8F-kF9g5qddYLY5OK4mwqJABDl7Z-D02IGKJdKOUBF_0TFWJDlkPWqLkddjMV2nXaG5KxRbQdmDg_pdkaCGfWKn27cfTMeaOTpqiYiWQLOilz4l6h7EbSDV_OJizhUFnmYFqe66F4ArmqH0qrqfiU4i6KxsJogSPKcRFE/s4080/PXL_20240524_214415401.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhTZ7sPzbdDH-7BoqOZfFPZq8F-kF9g5qddYLY5OK4mwqJABDl7Z-D02IGKJdKOUBF_0TFWJDlkPWqLkddjMV2nXaG5KxRbQdmDg_pdkaCGfWKn27cfTMeaOTpqiYiWQLOilz4l6h7EbSDV_OJizhUFnmYFqe66F4ArmqH0qrqfiU4i6KxsJogSPKcRFE/s320/PXL_20240524_214415401.jpg"/></a></div>
 
-There it is, the notorious Canon MD-3301. Just leave the cable connected. This is a custom drive by Canon known only to have been used in the Cat. It has a 20-pin interface instead of the regular 34-pin PC floppy interface, though with some logic and cabling it is possible to use a regular PC 3.5" floppy disk in it.
+There it is, the notorious Canon MD-3301. Just leave the cable connected. This is a custom drive by Canon known only to have been used in the Cat. It has a 20-pin interface instead of the regular 34-pin PC floppy interface, though with some logic and cabling it is possible to use a regular PC 3.5" floppy drive in it.
 <p>
-This drive fortunately still works, so what we're going to do next is a little preventive maintenance (other than the usual inspection, cleaning, etc.).
+This unit fortunately still works, so what we're going to do next is a little preventive maintenance (other than the usual inspection, cleaning, etc.).
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIc_MnNqazcm2zMeGO1xHFEypV1TMRjbzFpBfe8svE3nvGxBMY6OLRF2nY-J63fuFJ8RxzOatPxCg1DfxOFpQ0RFa5F3O2uzM6QXvLqhbV2xEH0lG3EpnR9Pv4t8BoNIov3ygIB_sp-HjdS4u7VCwCqNgSsnX3-JP0wF7o9FLcdQqanH-ErzzdKYuM3hA/s4080/PXL_20240524_214708102.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIc_MnNqazcm2zMeGO1xHFEypV1TMRjbzFpBfe8svE3nvGxBMY6OLRF2nY-J63fuFJ8RxzOatPxCg1DfxOFpQ0RFa5F3O2uzM6QXvLqhbV2xEH0lG3EpnR9Pv4t8BoNIov3ygIB_sp-HjdS4u7VCwCqNgSsnX3-JP0wF7o9FLcdQqanH-ErzzdKYuM3hA/s320/PXL_20240524_214708102.jpg"/></a></div>
 
@@ -156,7 +196,7 @@ I'm fortunate to have a drive still in very good condition. A close inspection s
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiajDBTLtT0tMn1PqVK0IFGfa9I-VA8Ewm29i_7ZjiXEne82jsPjhfKk-uGlFGjtPubVGVIXzMEJfQUKlEMleyoSNfMCQNMViGeDzOqWCG-XPQ_R-_3nNtCzN3rwxG82K1OrlaNd_M8XjXznPpfyqQLIDRsrx_NKuMqavEmgJtzTwqDLulidCV6ptlSsNc/s4080/PXL_20240524_215515804.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiajDBTLtT0tMn1PqVK0IFGfa9I-VA8Ewm29i_7ZjiXEne82jsPjhfKk-uGlFGjtPubVGVIXzMEJfQUKlEMleyoSNfMCQNMViGeDzOqWCG-XPQ_R-_3nNtCzN3rwxG82K1OrlaNd_M8XjXznPpfyqQLIDRsrx_NKuMqavEmgJtzTwqDLulidCV6ptlSsNc/s320/PXL_20240524_215515804.jpg"/></a></div>
 
-The problem that occurs with this drive has to do with the head's guide rail. (This part is with thanks to Dwight Elvey, the unofficial "godfather" of the Canon Cat.) In this view the head is the white square with the black line through the middle, and the rail it rides on is the metal post to the east (right) of it. This is a 2x enlargement, so the head is actually a fairly small part.
+The problem that occurs with this drive has to do with the head's guide rail. (This section is with thanks to Dwight Elvey, the unofficial "godfather" of the Canon Cat.) In this view the head is the white square with the black line through the middle, and the rail it rides on is the metal post to the east (right) of it. This is a 2x enlargement, so the head is actually a fairly small part.
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilwNn6gvyPHJB37iUUZJDE8GfyedrJUjeh53oZDMMRt2cCG6Yd8rzP1q1yHQLLrpu8eXQ8o5v18ZHtF6m4vEpCMawcC3eq2YAKyklMLCCS55i_7tX11Qt-1Rc5gon_uzqwG9qJRvi7rCGK-pH_LmCyVC_f9KykuzZy4Rbck-XaMPtCOyro8PWUU8VJnJk/s4080/PXL_20240524_215429360.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="320" data-original-height="4080" data-original-width="3072" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilwNn6gvyPHJB37iUUZJDE8GfyedrJUjeh53oZDMMRt2cCG6Yd8rzP1q1yHQLLrpu8eXQ8o5v18ZHtF6m4vEpCMawcC3eq2YAKyklMLCCS55i_7tX11Qt-1Rc5gon_uzqwG9qJRvi7rCGK-pH_LmCyVC_f9KykuzZy4Rbck-XaMPtCOyro8PWUU8VJnJk/s320/PXL_20240524_215429360.jpg"/></a></div>
 
@@ -182,7 +222,7 @@ Looks good.
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4GGM7yHhLWjhQTTAj2LU3DbIqSLLQ68NY52eFhHGu0hQZWlq74nms-_KCMbk8Pi0hfflKX-HRuZQmxLVQODTTEzMT_NX8WI5l22d_vqbu3Rtc4873ZcBDsuyUpoDVDHwve6UWaZ2nM8M737bXNKNBGPda1fhpIPksYkF1dXciRQvcuIRkN6To4erL8Xo/s4080/PXL_20240524_220537349.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4GGM7yHhLWjhQTTAj2LU3DbIqSLLQ68NY52eFhHGu0hQZWlq74nms-_KCMbk8Pi0hfflKX-HRuZQmxLVQODTTEzMT_NX8WI5l22d_vqbu3Rtc4873ZcBDsuyUpoDVDHwve6UWaZ2nM8M737bXNKNBGPda1fhpIPksYkF1dXciRQvcuIRkN6To4erL8Xo/s320/PXL_20240524_220537349.jpg"/></a></div>
 
-Secured in position. The screw is not very long, so you can't use a very thick piece of metal here, but there was still enough room to get it attached firmly. I inserted a disk and checked that it fed in and the head stayed clear when it ejected. 
+Secured in position. The screw is not very long, so you can't use a very thick piece of metal here, but there was still enough room to get it attached firmly over the original nylon. I inserted a disk and checked that it fed in and the head stayed clear when it ejected. 
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhanm-3lZ2kd7pI4meLFHQL6Zo9x-ZTdlUmLxFgAsDMVEzA3r_SzXOdiBEzGRwP7gdXlzmniXtHpRvP95sCovUPxFyHr7LgFoqb5RMHLnBdqbsMHYFgIHYca3Ji545ew_r7UAA75K7XiFfKjsUmEJ5N7RI1B1d-zXHU5jSBGLGOoeC5f2_lFfwFpxajkyw/s4080/PXL_20240524_224456418.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="320" data-original-height="4080" data-original-width="3072" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhanm-3lZ2kd7pI4meLFHQL6Zo9x-ZTdlUmLxFgAsDMVEzA3r_SzXOdiBEzGRwP7gdXlzmniXtHpRvP95sCovUPxFyHr7LgFoqb5RMHLnBdqbsMHYFgIHYca3Ji545ew_r7UAA75K7XiFfKjsUmEJ5N7RI1B1d-zXHU5jSBGLGOoeC5f2_lFfwFpxajkyw/s320/PXL_20240524_224456418.jpg"/></a></div>
 
@@ -205,4 +245,14 @@ I get what Apple <a href="https://www.theverge.com/2024/5/9/24153113/apple-ipad-
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3IreUJExMZOoJIs8g_6onC7NkcHVccdt5dCBnI8aXZykrIR0G7Lptq-7M4zsmvqO1DcH-_2RKb2ic2QzegsizwvSlUre2D0HaodHgmY6NKIfgiz07WrrzmCuplQ3PaUL9EID_sK7O7KCpg8uchk5gAsTrlsetqdKuZrr9px7tgvBhPjLQGWblSAihyjQ/s3300/128.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="320" data-original-height="3300" data-original-width="2550" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3IreUJExMZOoJIs8g_6onC7NkcHVccdt5dCBnI8aXZykrIR0G7Lptq-7M4zsmvqO1DcH-_2RKb2ic2QzegsizwvSlUre2D0HaodHgmY6NKIfgiz07WrrzmCuplQ3PaUL9EID_sK7O7KCpg8uchk5gAsTrlsetqdKuZrr9px7tgvBhPjLQGWblSAihyjQ/s320/128.jpg"/></a></div> 
 
 <https://oldvcr.blogspot.com/2024/05/commodore-does-ipad-crush-concept-right.html>
+
+---
+
+## b.log 2024/05/26 - Mother's Day, It has been a hectic week - PART TWO, A brief bit of politics.
+
+date: 2024-05-26, from: Richard Murray's blog
+
+Mother's Day, It has been a hectic week - PART TWO, A brief bit of politics. 
+
+<https://heyrick.eu/blog/index.php?diary=20240526>
 

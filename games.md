@@ -1,11 +1,111 @@
 ---
 title: games 2024.22
-updated: 2024-05-28 08:42:28
+updated: 2024-05-29 09:46:28
 ---
 
 # games 2024.22
 
-(date: 2024-05-28 08:42:28)
+(date: 2024-05-29 09:46:28)
+
+---
+
+## Disney Lorcana’s first tournament winner received an exceptional prize
+
+date: 2024-05-29, updated: 2024-05-29, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24167042/disney-lorcana-challenge-champion-gold-prize-card-mickey-mouse-brave-little-tailor>
+
+---
+
+## Hope or nope? 2 radically different readings of I Saw the TV Glow’s bleak ending
+
+date: 2024-05-29, updated: 2024-05-29, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24166500/i-saw-the-tv-glow-ending-interpretations-hope-jane-schoenbrun>
+
+---
+
+## You can pre-order Elden Ring: Shadow of the Erdtree for its lowest price yet on Newegg
+
+date: 2024-05-29, updated: 2024-05-29, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24166936/elden-ring-shadow-of-the-erdtree-dlc-preorder-deal-sale>
+
+---
+
+## Tom Bombadil, cut from Lord of the Rings movies, to step out in Rings of Power
+
+date: 2024-05-29, updated: 2024-05-29, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24166978/tom-bombadil-rings-of-power-season-2-announcement>
+
+---
+
+## Sony announces new PlayStation State of Play livestream for May
+
+date: 2024-05-29, updated: 2024-05-29, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24158274/playstation-state-of-play-may-2024-date-sony>
+
+---
+
+## MK1’s first Homelander gameplay trailer shows why we love to hate The Boys’ superman
+
+date: 2024-05-29, updated: 2024-05-29, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24043196/mk1-homelander-gameplay-fatality-mortal-kombat>
+
+---
+
+## Honkai: Star Rail codes for May 2024
+
+date: 2024-05-29, updated: 2024-05-29, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade>
+
+---
+
+## The must-watch anime to look out for in summer 2024
+
+date: 2024-05-29, updated: 2024-05-29, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/23960593/new-anime-2024-release-calendar-schedule-watch-streaming>
+
+---
+
+## Moana 2 trailer brings me a new best friend
+
+date: 2024-05-29, updated: 2024-05-29, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24166967/moana-2-trailer>
+
+---
+
+## Emma Roberts’ NASA rom-com is the Legally Blonde of astronaut movies
+
+date: 2024-05-29, updated: 2024-05-29, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24164032/space-cadet-emma-roberts-legally-blonde-director>
 
 ---
 

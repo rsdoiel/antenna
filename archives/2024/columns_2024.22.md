@@ -1,17 +1,236 @@
 ---
 title: columns 2024.22
-updated: 2024-05-28 08:42:28
+updated: 2024-05-29 09:46:28
 ---
 
 # columns 2024.22
 
-(date: 2024-05-28 08:42:28)
+(date: 2024-05-29 09:46:28)
+
+---
+
+##  Poll results show that &#8220;America&#8217;s best decade&#8221; isn&#8217;t the 80s or the... 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044699-poll-results-show-that-am>
+
+---
+
+##  Wherever You Go, There You Are 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/wherever-you-go-there-you-are>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-29, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/13/commanderDataStarTrek.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://tulanehullabaloo.com/65986/uncategorized/imitation-game-can-ai-rival-student-intellect/">Walter Isaacson asks</a> if ChatGPT can rival a student's intellect. My answer as a former teaching assistant who graded lots of student programs, absolutely. It rivals the intellect of every human being I know, including professors. It hasn't learned yet how to synthesize new ideas, it seems. And there are strong guardrails that keep it from going into certain areas. It is more capable than we know, therefore. BTW, I didn't realize he teaches at <a href="https://en.wikipedia.org/wiki/Tulane_University">Tulane</a>. I got my undergraduate degree there in 1976. 
+
+<http://scripting.com/2024/05/29.html#a151345>
+
+---
+
+##  Scientists have figured out why killer whales are smashing up luxury yachts:... 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044697-scientists-have-figured-o>
+
+---
+
+##  Good god, the temperature in Delhi hit 50.5°C (122.9°F) today, an all-time... 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044695-good-god-the-temperature->
+
+---
+
+##  A Documentary Film About Jim Henson 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/a-documentary-film-about-jim-henson>
+
+---
+
+##  The trailer for Best of Five, a documentary series about the 2014... 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044694-the-trailer-for-best-of>
+
+---
+
+## Modern SQLite: Secure delete
+
+date: 2024-05-29, from: Anton Zhiyanov blog
+
+Leave no trace of deleted data. 
+
+<https://antonz.org/sqlite-secure-delete/>
+
+---
+
+## Privacy Implications of Tracking Wireless Access Points
+
+date: 2024-05-29, updated: 2024-05-28, from: Bruce Schneier blog
+
+<p>Brian Krebs <a href="https://krebsonsecurity.com/2024/05/why-your-wi-fi-router-doubles-as-an-apple-airtag/#more-67551">reports</a> on research into geolocating routers:</p>
+<blockquote><p>Apple and the satellite-based broadband service Starlink each recently took steps to address new research into the potential security and privacy implications of how their services geolocate devices. Researchers from the University of Maryland say they relied on publicly available data from Apple to track the location of billions of devices globally&#8212;including non-Apple devices like Starlink systems&#8212;and found they could use this data to monitor the destruction of Gaza, as well as the movements and in many cases identities of Russian and Ukrainian troops...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/05/privacy-implications-of-tracking-wireless-access-points.html>
+
+---
+
+## Ruskin revisited
+
+date: 2024-05-29, from: Ayjay blog
+
+What follows is a kind of sequel to the introduction to Ruskin I published several years ago. Ruskin begins The Stones of Venice by identifying what he believes to have been the essential characteristics of Venetian society in its heyday – which is to say, the twelfth century through the fourteenth: The most curious phenomenon [&#8230;] 
+
+<https://blog.ayjay.org/ruskin-revisited/>
+
+---
+
+## Office Hours: If Trump is found guilty, should Biden emphasize the guilty verdict or focus on abortion and democracy instead?
+
+date: 2024-05-29, from: Robert Reich's blog
+
+His campaign team wants to do the latter, but are they correct? 
+
+<https://robertreich.substack.com/p/office-hours-if-trump-is-found-guilty>
+
+---
+
+## May 28, 2024 
+
+date: 2024-05-29, from: Heather Cox Richardson blog
+
+The defense and the prosecution today made their closing statements in the New York criminal case against Trump for falsifying business records to hide a $130,000 payment to adult film actress Stephanie Clifford, also known as Stormy Daniels. The payment was intended to stop her account of her sexual encounter with Trump from becoming public in the days before the 2016 election, when the Trump campaign was already reeling from the Access Hollywood tape showing Trump boasting of sexual assault. 
+
+<https://heathercoxrichardson.substack.com/p/may-28-2024>
+
+---
+
+## Wednesday 29 May, 2024
+
+date: 2024-05-28, from: John Naughton's online diary
+
+Horse bolted, door still open Jesus College, Cambridge Quote of the Day ”Once you see the boundaries of your environment, they are no longer the boundaries of your environment.” Marshall McLuhan Musical alternative to the morning’s radio news Liam O&#8217;Flynn, &#8230; <a href="https://memex.naughtons.org/wednesday-29-may-2024/39496/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-29-may-2024/39496/>
+
+---
+
+##  An Instagram account full of the amazing, slightly deranged, and (I&#8217;d assume)... 
+
+date: 2024-05-28, updated: 2024-05-28, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044693-an-instagram-account-full>
+
+---
+
+## Supremely Unaccountable
+
+date: 2024-05-28, from: Dan Rather's Steady
+
+Will Democrats turn the Supreme Court to their political advantage? 
+
+<https://steady.substack.com/p/supremely-unaccountable>
+
+---
+
+##  Whales Have an Alphabet. &#8220;Carl Zimmer, a science reporter, explains why it&#8217;s... 
+
+date: 2024-05-28, updated: 2024-05-28, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044692-whales-have-an-alphabet-c>
+
+---
+
+##  tinyPod turns a strapless Apple Watch into a wee iPod with a... 
+
+date: 2024-05-28, updated: 2024-05-28, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044690-tinypod-turns-a-strapless>
+
+---
+
+##  Parents Just Called To Make Sure You Thought Of Every Possible Thing... 
+
+date: 2024-05-28, updated: 2024-05-28, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044689-parents-just-called-to-ma>
+
+---
+
+##  Okay, I Did Reread &#8216;My Favorite Thing Is Monsters&#8217; Part One 
+
+date: 2024-05-28, updated: 2024-05-28, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/okay-i-did-reread-my-favorite-thing-is-monsters-part-one>
+
+---
+
+##  Last Week&#8217;s Reads: Scrabble, Emoji, Quilts 
+
+date: 2024-05-28, updated: 2024-05-28, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/last-weeks-reads>
+
+---
+
+## May 27, 2024
+
+date: 2024-05-28, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/may-27-2024-9b1>
+
+---
+
+##  A Pickpocket&#8217;s Story 
+
+date: 2024-05-28, updated: 2024-05-28, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/a-pickpockets-story-1>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2024-05-28, from: Dave Winer's Scripting News)
 
-Cross-posting to various social web sites has out of hand, not just for the person posting, but for readers. 
+Cross-posting to various social web sites has gotten out of hand, not just for the person posting, but for readers. 
 
 <http://scripting.com/2024/05/28.html#a151221>
 

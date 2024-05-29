@@ -1,11 +1,35 @@
 ---
 title: mid central 2024.22
-updated: 2024-05-28 08:42:28
+updated: 2024-05-29 09:46:27
 ---
 
 # mid central 2024.22
 
-(date: 2024-05-28 08:42:28)
+(date: 2024-05-29 09:46:27)
+
+---
+
+## Microsoft’s Build 2024: Silicon and associated systems come to the fore
+
+date: 2024-05-29, from: EDN Blog
+
+<img width="1365" height="823" src="https://www.edn.com/wp-content/uploads/Featured.png?fit=1365%2C823" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Featured.png?w=1365 1365w, https://www.edn.com/wp-content/uploads/Featured.png?w=300 300w, https://www.edn.com/wp-content/uploads/Featured.png?w=768 768w, https://www.edn.com/wp-content/uploads/Featured.png?w=1024 1024w" sizes="(max-width: 1365px) 100vw, 1365px" /><p>Windows-on-Arm is no longer a Microsoft-mostly systems play; other OEMs are now onboard. What does this say about the legacy x86 hegemony?</p>
+<p>The post <a href="https://www.edn.com/microsofts-build-2024-silicon-and-associated-systems-come-to-the-fore/" data-wpel-link="internal">Microsoft’s Build 2024: Silicon and associated systems come to the fore</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/microsofts-build-2024-silicon-and-associated-systems-come-to-the-fore/>
+
+---
+
+## Merced College Celebrates the Class of 2024
+
+date: 2024-05-28, from: Blue Devil News (Merced Community College Student Newspaper)
+
+<p>The Merced Community College District celebrated graduates from the Class of 2024 with a pair of commencement ceremonies last week. “For many of you, tonight represents a better future, a&#8230;</p>
+<p>The post <a href="https://www.mccd.edu/news/merced-college-celebrates-the-class-of-2024/">Merced College Celebrates the Class of 2024</a> appeared first on <a href="https://www.mccd.edu">Merced College</a>.</p>
+ 
+
+<https://www.mccd.edu/news/merced-college-celebrates-the-class-of-2024/>
 
 ---
 
@@ -13,7 +37,7 @@ updated: 2024-05-28 08:42:28
 
 date: 2024-05-28, from: EDN Blog
 
-<img width="1280" height="720" src="https://www.edn.com/wp-content/uploads/Power-Points-Blog159_thermal-jumper_Fig4.png?fit=1280%2C720" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Power-Points-Blog159_thermal-jumper_Fig4.png?w=1280 1280w, https://www.edn.com/wp-content/uploads/Power-Points-Blog159_thermal-jumper_Fig4.png?w=300 300w, https://www.edn.com/wp-content/uploads/Power-Points-Blog159_thermal-jumper_Fig4.png?w=768 768w, https://www.edn.com/wp-content/uploads/Power-Points-Blog159_thermal-jumper_Fig4.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Power-Points-Blog159_thermal-jumper_Fig4.png?w=1260 1260w, https://www.edn.com/wp-content/uploads/Power-Points-Blog159_thermal-jumper_Fig4.png?w=800 800w" sizes="(max-width: 1280px) 100vw, 1280px" /><p>Small components with well-defined roles ,such as heat sinks and thermal jumpers, can solve frustrating thermal problems.  </p>
+<img width="1280" height="720" src="https://www.edn.com/wp-content/uploads/Power-Points-Blog159_thermal-jumper_Fig4.png?fit=1280%2C720" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Power-Points-Blog159_thermal-jumper_Fig4.png?w=1280 1280w, https://www.edn.com/wp-content/uploads/Power-Points-Blog159_thermal-jumper_Fig4.png?w=300 300w, https://www.edn.com/wp-content/uploads/Power-Points-Blog159_thermal-jumper_Fig4.png?w=768 768w, https://www.edn.com/wp-content/uploads/Power-Points-Blog159_thermal-jumper_Fig4.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Power-Points-Blog159_thermal-jumper_Fig4.png?w=1260 1260w, https://www.edn.com/wp-content/uploads/Power-Points-Blog159_thermal-jumper_Fig4.png?w=800 800w" sizes="(max-width: 1280px) 100vw, 1280px" /><p>Small components with well-defined roles ,such as heat sinks and thermal jumpers, can solve frustrating thermal problems.  </p>
 <p>The post <a href="https://www.edn.com/whats-a-thermal-jumper-do-anyway/" data-wpel-link="internal">What’s a “thermal jumper” do, anyway?</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

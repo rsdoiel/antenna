@@ -1,17 +1,517 @@
 ---
 title: tech likely 2024.22
-updated: 2024-05-28 08:42:28
+updated: 2024-05-29 09:46:28
 ---
 
 # tech likely 2024.22
 
-(date: 2024-05-28 08:42:28)
+(date: 2024-05-29 09:46:28)
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-05-29, from: Miguel de Icaza Mastondon feed)
+
+<p>I find myself using the FreeForm, the MacOS built-in app more and more for simple collages, annotations and drawings.</p><p>Very pleased with it, and the sharing across my devices is a plus.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112525342607987772>
+
+---
+
+##  Poll results show that &#8220;America&#8217;s best decade&#8221; isn&#8217;t the 80s or the... 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044699-poll-results-show-that-am>
+
+---
+
+## Bearblog is fun
+
+date: 2024-05-29, from: Manu - I write blog
+
+
+                <p>If you’re into blogging and the blogging world, chances are you might have heard about <a href="https://bearblog.dev">bearblog.dev</a>. And if you’re a reader of this blog you might have also <a href="https://manuelmoreale.com/pb-herman-martinus">read the interview with Herman</a>, Bearblog’s creator.</p>
+<p>I never used Bearblog, mainly because I’m happy with my setup and I have no reason to look for another blog solution.</p>
+<p>That said, a few weeks back I started toying with the idea of porting the design of this site over to Bear, just for fun. And to my surprise, creating a bear version of my site was surprisingly simple.</p>
+<p>Which is why <a download href="https://manuelmoreale.com/media/pages/thoughts/bearblog-is-fun/8994e049c2-1717000249/bearblog_manu_theme.zip">I&rsquo;m happy to release a V0.1 of this experiment</a>. The demo site I’m using it’s currently up at <a href="https://css.bearblog.dev">css.bearblog.dev</a>. This is a very quick and dirty version. There's some leftover code in there but it should mostly work.</p>
+<hr />
+<p>Quick note: I might use that test site in the future to code other themes so depending on when you’re reading this post, the live preview might not actually show the correct theme.</p>
+<hr />
+<p>To install it just head over to the “Themes” section in your dashboard, delete everything inside the “Edit theme CSS” section and paste in the code of my theme. Hit “Publish” and you’re done.</p>
+<p>I’m sure there will be bugs because there are always bugs. If you need help with anything <a href="mailto:hello@manuelmoreale.com">send me an email</a>. The theme is free, if you want to contribute the best way to do it is to <a href="https://ko-fi.com/manuelmoreale">become a member of my “One a Month” club.</a></p>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/L1Syqdy6Ggph2Yw5>
+
+---
+
+## Physicists Puzzle Over Emergence of Strange Electron Aggregates
+
+date: 2024-05-29, from: Quanta Magazine
+
+Electrons have been seen uniting into entities with fractions of electric charge, this time without a magnetic field coaxing them into it.            <p>The post <a href="https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/" target="_blank">Physicists Puzzle Over Emergence of Strange Electron Aggregates</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/>
+
+---
+
+##  Wherever You Go, There You Are 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/wherever-you-go-there-you-are>
+
+---
+
+## Summary of the Fifty-Second U.S.–Japan ASTER Science Team Meeting
+
+date: 2024-05-29, from: NASA breaking news
+
+Michael Abrams, NASA/Jet Propulsion Laboratory/California Institute of Technology, mjabrams@jpl.nasa.gov Yasushi Yamaguchi, Nagoya University/Japan Science and Technology Agency, yasushi@nagoya-u.jp Introduction The Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) Science Team (ST) organized a three-day workshop that took place September 11–13, 2023, at the offices of Japan Space Systems (JSS) in Tokyo. Over 40 people from […] 
+
+<https://science.nasa.gov/uncategorized/summary-of-the-fifty-second-u-s-japan-aster-science-team-meeting/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-29, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/13/commanderDataStarTrek.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://tulanehullabaloo.com/65986/uncategorized/imitation-game-can-ai-rival-student-intellect/">Walter Isaacson asks</a> if ChatGPT can rival a student's intellect. My answer as a former teaching assistant who graded lots of student programs, absolutely. It rivals the intellect of every human being I know, including professors. It hasn't learned yet how to synthesize new ideas, it seems. And there are strong guardrails that keep it from going into certain areas. It is more capable than we know, therefore. BTW, I didn't realize he teaches at <a href="https://en.wikipedia.org/wiki/Tulane_University">Tulane</a>. I got my undergraduate degree there in 1976. 
+
+<http://scripting.com/2024/05/29.html#a151345>
+
+---
+
+##  Scientists have figured out why killer whales are smashing up luxury yachts:... 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044697-scientists-have-figured-o>
+
+---
+
+## NASA Lucy Images Reveal Asteroid Dinkinesh to be Surprisingly Complex
+
+date: 2024-05-29, from: NASA breaking news
+
+Images from the November 2023 flyby of asteroid Dinkinesh by NASA’s Lucy spacecraft show a trough on Dinkinesh where a large piece — about a quarter of the asteroid — suddenly shifted, a ridge, and a separate contact binary satellite (now known as Selam). Scientists say this complicated structure shows that Dinkinesh and Selam have [&#8230;] 
+
+<https://www.nasa.gov/solar-system/asteroids/nasa-lucy-images-reveal-asteroid-dinkinesh-to-be-surprisingly-complex/>
+
+---
+
+##  Good god, the temperature in Delhi hit 50.5°C (122.9°F) today, an all-time... 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044695-good-god-the-temperature->
+
+---
+
+## NASA Stennis Helps Family Build a Generational Legacy
+
+date: 2024-05-29, from: NASA breaking news
+
+For Lee English Jr., the sound of a ringing phone probably sounds a lot like the roar of a rocket engine test at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. During the 1970s, when 9-year-old English Jr. picked up the ringing phone, someone from the south Mississippi test site might say, “Tell your [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/stennis/a-generational-legacy/>
+
+---
+
+## Sols 4199-4201: Driving Through a Puzzle
+
+date: 2024-05-29, from: NASA breaking news
+
+Earth planning date: Tuesday, May 28, 2024 For the last several months, Curiosity has been steadily climbing through the bedrock layers of the upper sulfate unit. While each stop had its own collection of bedrock blocks tilting one way or another, you could imagine putting each scene back together into one coherent package of layers, […] 
+
+<https://science.nasa.gov/blogs/sols-4199-4201-driving-through-a-puzzle/>
+
+---
+
+## Tech Today: Measuring the Buzz, Hum, and Rattle
+
+date: 2024-05-29, from: NASA breaking news
+
+NASA-supported wireless microphone array quickly, cheaply, and accurately maps noise from aircraft, animals, and more. 
+
+<https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/tech-today-measuring-the-buzz-hum-and-rattle/>
+
+---
+
+##  A Documentary Film About Jim Henson 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/a-documentary-film-about-jim-henson>
+
+---
+
+## NASA to Measure Moonquakes With Help From InSight Mars Mission
+
+date: 2024-05-29, from: NASA breaking news
+
+The technology behind the two seismometers that make up NASA’s Farside Seismic Suite was used to detect more than a thousand Red Planet quakes. The most sensitive instrument ever built to measure quakes and meteor strikes on other worlds is getting closer to its journey to the mysterious far side of the Moon. It’s one [&#8230;] 
+
+<https://www.nasa.gov/solar-system/moon/nasa-to-measure-moonquakes-with-help-from-insight-mars-mission/>
+
+---
+
+##  The trailer for Best of Five, a documentary series about the 2014... 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044694-the-trailer-for-best-of>
+
+---
+
+## The Face of Bad Umpiring
+
+date: 2024-05-29, updated: 2024-05-29, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/05/29/the-face-of-bad-umpiring/>
+
+---
+
+## Felix Oliver Friedrich pushed to project branch main at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-05-29, updated: 2024-05-29, from: Oberon A2 at CAS
+
+
+<p>
+<strong>Felix Oliver Friedrich</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/4871f64cbb1bbab6c04a2eb1c4884888825939d3...47db7be554375d8f43f82b59f937e22eb47f8652">(47db7be5)</a>
+<i>
+at
+29 May 13:40
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Merge branch &#39;fixes&#39; into &#39;main&#39;</p></div>
+<p>
+<i>
+... and
+1 more commit
+</i>
+</p>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/4871f64cbb1bbab6c04a2eb1c4884888825939d3...47db7be554375d8f43f82b59f937e22eb47f8652>
+
+---
+
+## Ruskin revisited
+
+date: 2024-05-29, from: Ayjay blog
+
+What follows is a kind of sequel to the introduction to Ruskin I published several years ago. Ruskin begins The Stones of Venice by identifying what he believes to have been the essential characteristics of Venetian society in its heyday – which is to say, the twelfth century through the fourteenth: The most curious phenomenon [&#8230;] 
+
+<https://blog.ayjay.org/ruskin-revisited/>
+
+---
+
+## Make an AI device to tell you bedtime stories
+
+date: 2024-05-29, from: Raspberry Pi News (.com)
+
+<p>Stefano Mazzocchi built Fably, a low-cost AI bedtime storytelling device, to tell his daughter creative and entertaining stories.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/make-an-ai-device-to-tell-you-bedtime-stories/">Make an AI device to tell you bedtime stories</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/make-an-ai-device-to-tell-you-bedtime-stories/>
+
+---
+
+## Sergey Durmanov pushed to project branch fixes at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-05-29, updated: 2024-05-29, from: Oberon A2 at CAS
+
+
+<p>
+<strong>Sergey Durmanov</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/4871f64cbb1bbab6c04a2eb1c4884888825939d3...4d765fa942ef1cd20dc1dbbce6aae3eddf7796e2">(4d765fa9)</a>
+<i>
+at
+29 May 12:32
+</i>
+</p>
+<div class="blockquote"><p dir="auto">fixed port type</p></div>
+<p>
+<i>
+... and
+5 more commits
+</i>
+</p>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/4871f64cbb1bbab6c04a2eb1c4884888825939d3...4d765fa942ef1cd20dc1dbbce6aae3eddf7796e2>
+
+---
+
+## Fancy climbing the peaks of Alpine Linux? 3.20 is out
+
+date: 2024-05-29, updated: 2024-05-29, from: Liam Proven's articles at the Register
+
+<h4>Tiny, powerful, uncluttered: not easy, but a lot to like</h4>
+      <p>Alpine Linux 3.20.0 is out, with initial support for a whole new CPU architecture: RISC-V.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/05/29/alpine_linux_320_released/>
+
+---
+
+## Sergey Durmanov pushed new project branch fixes at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-05-29, updated: 2024-05-29, from: Oberon A2 at CAS
+
+
+<p>
+<strong>Sergey Durmanov</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commits/fixes">(4871f64c)</a>
+<i>
+at
+29 May 12:03
+</i>
+</p>
+<div class="blockquote"></div>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commits/fixes>
+
+---
+
+## Turbo9: a pipelined 6809 microprocessor IP
+
+date: 2024-05-29, from: OS News
+
+The Turbo9 is a pipelined microprocessor IP written in Verilog that executes a superset of the Motorola 6809 instruction set. It is a new modern microarchitecture with 16-bit internal datapaths that balances high performance vs small area / low power. The Turbo9R with a 16-bit memory interface achieves 0.69 DMIPS/MHz which is 3.8 times faster than Motorola&#8217;s original 8-bit MC6809 implementation. It is an active graduate research project at the Department of Electrical &#38; Computer Engineering at the University of Florida. ↫ Turbo9 GitHub page The Turbo9 is aimed at SoC sub-blocks and small mixed-signal ASIC, so it&#8217;s definitely not intended to be some sort of general purpose CPU. The reason for opting for the 6809 instead of, say, RISC-V or ARM, is that the 6809 enables a far smaller footprint due to being 16bit, which is all the target market really needs from the Turbo9. The current version of the Turbo9 is thoroughly verified and is capable of running C code. However, we still consider this version v0.9 because we are missing a few items. All the 6809 instructions and addressing modes have been implemented and tested except SYNC and CWAI. The signed versions of the Turbo9&#8217;s 16-bit divide and multiply need to be completed. Interrupts are partially implemented including SWI and Reset. ↫ Turbo9 GitHub page This is the kind of riveting content you&#8217;ll only really find on OSNews. 
+
+<https://www.osnews.com/story/139818/turbo9-a-pipelined-6809-microprocessor-ip/>
+
+---
+
+##  An Instagram account full of the amazing, slightly deranged, and (I&#8217;d assume)... 
+
+date: 2024-05-28, updated: 2024-05-28, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044693-an-instagram-account-full>
+
+---
+
+##  Whales Have an Alphabet. &#8220;Carl Zimmer, a science reporter, explains why it&#8217;s... 
+
+date: 2024-05-28, updated: 2024-05-28, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044692-whales-have-an-alphabet-c>
+
+---
+
+## Comics from 1982/02 Creative Computing Mag
+
+date: 2024-05-28, from: Computer ads from the Past
+
+Time for some humor 
+
+<https://computeradsfromthepast.substack.com/p/comics-from-198202-creative-computing>
+
+---
+
+##  tinyPod turns a strapless Apple Watch into a wee iPod with a... 
+
+date: 2024-05-28, updated: 2024-05-28, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044690-tinypod-turns-a-strapless>
+
+---
+
+##  Parents Just Called To Make Sure You Thought Of Every Possible Thing... 
+
+date: 2024-05-28, updated: 2024-05-28, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044689-parents-just-called-to-ma>
+
+---
+
+## Apollo 10 Ends Successfully
+
+date: 2024-05-28, from: NASA breaking news
+
+Astronaut Eugene A. Cernan, lunar module pilot for the Apollo 10 mission, exits the spacecraft during recovery operations on May 26, 1969. He and the other two crew members already in the raft, Thomas P. Stafford (left) and John W. Young, were brought to the prime recovery ship, USS Princeton after splashdown. The Apollo 10 [&#8230;] 
+
+<https://www.nasa.gov/image-article/apollo-10-ends-successfully/>
+
+---
+
+## Jef Raskin’s Canon Cat
+
+date: 2024-05-28, from: OS News
+
+Few things in technology excites me more than an amazing computer I have never heard of before &#8211; especially one with pedigree. Many people take a casual glance at this machine and say, &#8220;Isn&#8217;t that an overgrown word processor?&#8221; And one could certainly think so, in part because of its keyboard-centric operation, but mostly from the utterly uncomprehending way Canon advertised it in 1987. Canon dubbed the Cat a &#8220;work processor&#8221; because of its built-in telecommunications, modem and word processor even though Jef Raskin, its designer, had intended it as a &#8220;people&#8217;s computer&#8221; that could be inexpensive, accessible and fully functional — all things he had hoped to accomplish at Apple after first launching the Macintosh project, prior to departing in 1982. Canon, however, never fully grasped the concept either. Apart from the tone-deaf marketing, Canon sold the device through their typewriter division and required the display to only show what a daisywheel printer could generate, limiting its potential as a general purpose workstation. ↫ Cameron Kaiser Wait, wait, wait. You mean to tell me there&#8217;s a unique, well-designed computer that seemed ahead of its time, sold by a printer and copier company, that failed in the market due to botched marketing and grotesque misunderstanding among management of what the device is supposed to be? What are the odds this happens twice? The Canon Cat was designed and built by Jeff Raskin&#8217;s &#8211; of Macintosh fame &#8211; company Information Appliance, Inc., and licensed to Canon. It&#8217;s an all-in-one 68000-based computer with a bitmap display, an operating system stored in ROM, and a comprehensive Forth environment easily accessible despite the device autostarting to a word processor (because Canon). Much like some of the predecessor machines Raskin had worked on before licensing the Cat to Canon, the Cat has an intriguing input method that I&#8217;d never seen before. Instead of a mouse or even cursor keys, it has two keys labeled &#8220;Leap&#8221; that are used for manipulating the text cursor. In fact, there aren&#8217;t even conventional cursor keys. The Cat has the same &#8220;leap&#8221; keys as the Swyft and SwyftCard, in a bright but tasteful pink, and they work the same way to jump to portions of the document or into other documents. You can also use them to scroll with the SHIFT key, or move by single letters, sentences or paragraphs. The LEAP keys are also how you highlight text blocks to manipulate by LEAPing to the beginning, LEAPing to the end, and then pressing them together. ↫ Cameron Kaiser The Forth programming environment is also very interesting. It was hidden in that Canon didn&#8217;t really want you to use it, but Raskin&#8217;s company made no secret of it, and it was easily accessible. It uses a special dialect of Forth, which can be used at either a traditional OK prompt, or just by typing Forth code into the word processor, highlighting it, and executing it with a keyboard shortcut, after which any output will be displayed in the word processor as well. The Canon Cat was a market failure, and hence it shouldn&#8217;t be a surprise it&#8217;s exceedingly rare. The article further details the internals, some fixes that were required and performed, and much, much more. A follow-up article will delve deeper into the software, too. 
+
+<https://www.osnews.com/story/139811/jef-raskins-canon-cat/>
+
+---
+
+## Earth Science Information Partners Celebrate 25 Years of Collaboration
+
+date: 2024-05-28, from: NASA breaking news
+
+Allison Mills, Earth Science Information Partners, allisonmills@esipfed.orgSusan Shingledecker, Earth Science Information Partners, susanshingledecker@esipfed.org Introduction In 2023, the Earth Science Information Partners (ESIP) community celebrated 25 years since the nonprofit’s founding. Serving as a home for Earth science data and computing professionals, ESIP has evolved alongside the tools and vast expansion of Earth science data available […] 
+
+<https://science.nasa.gov/uncategorized/earth-science-information-partners-celebrate-25-years-of-collaboration/>
+
+---
+
+##  Okay, I Did Reread &#8216;My Favorite Thing Is Monsters&#8217; Part One 
+
+date: 2024-05-28, updated: 2024-05-28, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/okay-i-did-reread-my-favorite-thing-is-monsters-part-one>
+
+---
+
+## Microsoft published minimum system requirements, CPU support for Windows 11 LTSC 2024
+
+date: 2024-05-28, from: OS News
+
+Aside from that, the company also announced Windows 11 IoT Enterprise LTSC 2024 this week. The company has also published the minimum system requirements as well as supported processor families. They have been categorized as Preferred and Optional. Interestingly, SSD has been added as a minimum system requirement, which has been a rumour about the client OS since mid-2022. ↫ Sayan Sen at NeoWin The LTSC release, which is not really supposed to be used by average consumers, is still remarkably popular. It contains a fixed feature set and gets far fewer updates than regular Windows releases, it omits otherwise stock applications like Edge, and gives its users far more control over which updates are and are not installed. LTSC also enjoys 10 years of support from Microsoft. Interestingly enough, the minimum specifications for the IoT version of LTSC do not require a TPM 2.0, unlike the regular version of Windows, which infamously does require one. I would assume that the &#8220;preferred&#8221; minimum requirements, which does require TPM 2.0, line up very well with the minimum requirements for the regular LTSC version of Windows 11. Both will become available later this year, alongside the regular release of Windows 11 24H2. 
+
+<https://www.osnews.com/story/139813/microsoft-published-minimum-system-requirements-cpu-support-for-windows-11-ltsc-2024/>
+
+---
+
+## Discovery Alert: Spock’s Home Planet Goes ‘Poof’
+
+date: 2024-05-28, from: NASA breaking news
+
+The discovery A planet thought to orbit the star 40 Eridani A – host to Mr. Spock’s fictional home planet, Vulcan, in the “Star Trek” universe – is really a kind of astronomical illusion caused by the pulses and jitters of the star itself, a new study shows. Key facts The possible detection of a […] 
+
+<https://science.nasa.gov/universe/exoplanets/discovery-alert-spocks-home-planet-goes-poof/>
+
+---
+
+## iPhones Pause Charging During Continuity Camera
+
+date: 2024-05-28, from: Michael Tsai
+
+Adam Engst: Apple seems allergic to saying that an iPhone won&#8217;t charge with MagSafe during Continuity Camera. However, it may not charge over USB either. Several users in a Reddit conversation reported that their iPhones lost charge during Continuity Camera sessions, even while plugged in.I suspect that Continuity Camera taxes the processor sufficiently that the [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/28/iphones-pause-charging-during-continuity-camera/>
+
+---
+
+## Dynamic Swift Predicates in macOS 14 and iOS 17
+
+date: 2024-05-28, from: Michael Tsai
+
+Helge He&#223;: The new Foundation/#Swiftlang Predicates (and its expressions) seem a little weird because they can&#8217;t be constructed dynamically? Fly0strich: However, when I try to use that method inside of a #Predicate closure, it gives an error saying that the method is not supported by this predicate. Debbie Goldsmith: If you want to construct a [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/28/dynamic-swift-predicates-in-macos-14-and-ios-17/>
+
+---
+
+##  Last Week&#8217;s Reads: Scrabble, Emoji, Quilts 
+
+date: 2024-05-28, updated: 2024-05-28, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/last-weeks-reads>
+
+---
+
+## Arizona Students Go on an Exoplanet Watch
+
+date: 2024-05-28, from: NASA breaking news
+
+Exoplanets, planets outside of our own solar system, hold the keys to finding extraterrestrial life and understanding the origin of our own world. Now online students at Arizona State University (ASU) in a new course called Exoplanet Research Experience have become exoplanet scientists by taking part in NASA’s Exoplanet Watch project.  Fifteen students from ASU’s Astronomical and Planetary Sciences online degree […] 
+
+<https://science.nasa.gov/get-involved/citizen-science/arizona-students-go-on-an-exoplanet-watch/>
+
+---
+
+## A Less Sour Experience
+
+date: 2024-05-28, updated: 2024-05-28, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/05/28/a-less-sour-experience/>
+
+---
+
+## Consumption-to-creation ratio
+
+date: 2024-05-28, from: Manu - I write blog
+
+
+                <p>You're currently reading this post either in your RSS feed, in your inbox, or in your browser. You are consuming content. Consuming content is what the majority of the people do most of the time online.  But what's the ideal ratio between consuming and creating content? I'd argue that a 100/0 split in favour of consumption is not ideal the same way a 0/100 also isn't. You need to consume at least some content in order to help your ideas evolve.</p>
+<p>I posted 429 times on this site since January 1st, 2017. That's 429 posts in 2704 days or one every roughly 6 days. How many posts have I read in that same time span? Let's be conservative and assume I read 5 blog posts a day. That's more than 13500 blog posts and would put my consumption to creation ratio at around 97/3 which doesn't sound that much different than 100/0 but the actual, practical difference is huge. The difference is a blog with 429 posts in 7 and a half years.</p>
+<p>Could that ratio be better? In theory yeah but how much better? Let's imagine I was posting once a day, every day. That would put my ratio at around 85/15. In order to go below that I'd either need to consume less content or I'd have to post more than once a day which, on a personal blog, it's completely unreasonable unless you treat your blog as a Twitter/Instagram replacement and that's not my case.</p>
+<p>That 97/3 split, as I said, comes out of the very conservative assumption that I consume 5 posts a day. It doesn't take into consideration everything else I might consume: books, audio content, movies. If I were to factor in all that consumption I'd bet that my ratio is probably more close to 99/1 which sounds wrong but it really isn't when you stop to think about it.</p>
+<p>I believe people should consume less content and produce more. Finding an output for creativity is important. But it's unreasonable to expect people to stop consuming content and replace that consumption with creation because the ratio will always be inevitably skewed towards consumption. And that's ok. If you're not a creative person, if you find hating yourself because you consume too much content and not create enough, embrace the fact that even a very tiny improvement, from 100/1 to 99.9/0.1 can mean a lot. It's the difference between letting your blog die and posting something a couple of times a year. Which is a substantial difference if you ask me!</p>
+<p>Also, while I'm here talking about ratios, it's important to acknowledge the fact that not everyone can be creative in the same way. I often write that everyone should ditch social media and start blogging but the reality is that most people on social media are lurkers and for a lurker there's no point in having a blog. But, what you can do, is to engage with the people who do blog. Send them an email, let them know that you silently consume what they create, support what they do via tiny donations. It goes a long way.</p>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/YgtSzHrEXVU4Qj4k>
+
+---
+
+## Sam Altman, then and now
+
+date: 2024-05-28, from: Gary Marcus blog
+
+Update to my last essay, &#8220;What should we learn from OpenAI&#8217;s mistakes and broken promises?&#8221; Sam Altman, 2016: &#8220;We&#8217;re planning a way to allow wide swaths of the world to elect representatives to a new governance board. Because if I weren&#8217;t in on this I&#8217;d be, like, Why do these fuckers get to decide what happens to me?&#8221;, 
+
+<https://garymarcus.substack.com/p/sam-altman-then-and-now>
+
+---
+
+##  A Pickpocket&#8217;s Story 
+
+date: 2024-05-28, updated: 2024-05-28, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/a-pickpockets-story-1>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2024-05-28, from: Dave Winer's Scripting News)
 
-Cross-posting to various social web sites has out of hand, not just for the person posting, but for readers. 
+Cross-posting to various social web sites has gotten out of hand, not just for the person posting, but for readers. 
 
 <http://scripting.com/2024/05/28.html#a151221>
 
@@ -167,6 +667,16 @@ date: 2024-05-28, from: Raspberry Pi News (.com)
  
 
 <https://www.raspberrypi.com/news/xl-raspberry-pi-5-game-boy/>
+
+---
+
+## What We Learned from a Year of Building with LLMs (Part I)
+
+date: 2024-05-28, from: O'Reilly Radar
+
+It’s an exciting time to build with large language models (LLMs). Over the past year, LLMs have become “good enough” for real-world applications. The pace of improvements in LLMs, coupled with a parade of demos on social media, will fuel an estimated $200B investment in AI by 2025. LLMs are also broadly accessible, allowing everyone, [&#8230;] 
+
+<https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/>
 
 ---
 

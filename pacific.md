@@ -1,11 +1,458 @@
 ---
 title: pacific 2024.22
-updated: 2024-05-28 08:42:28
+updated: 2024-05-29 09:46:27
 ---
 
 # pacific 2024.22
 
-(date: 2024-05-28 08:42:28)
+(date: 2024-05-29 09:46:27)
+
+---
+
+## If AI can do your job, maybe it can also replace your CEO
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>SAN FRANCISCO &#8212; As artificial intelligence programs shake up the office, potentially making millions of jobs obsolete, one group of perpetually stressed workers seems especially vulnerable.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/nation-world-news/if-ai-can-do-your-job-maybe-it-can-also-replace-your-ceo/>
+
+---
+
+## Your Views for May 29
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>Cats not biggest threat to nene</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/opinion/your-views-for-may-29-8/>
+
+---
+
+## Bring on the cannabis cafes, California. Our nation needs them
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>More Americans now consume marijuana on a daily basis than drink alcohol every day, according to a recent study.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/opinion/bring-on-the-cannabis-cafes-california-our-nation-needs-them/>
+
+---
+
+## Haley’s ambition Trumps principle: Getting back in line like too many Republicans
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>Of course Nikki Haley now says she&#8217;ll vote for Donald Trump. The blink of an eye ago she called him &#8220;unstable and unhinged,&#8221; an individual who&#8217;s &#8220;just toxic&#8221; and &#8220;lacks moral clarity.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/opinion/haleys-ambition-trumps-principle-getting-back-in-line-like-too-many-republicans/>
+
+---
+
+## Green signs bills aimed at easing the housing affordability crisis
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green on Tuesday signed six bills into law intended to address the state&#8217;s lack of affordable housing for Hawaii&#8217;s working-class families.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/hawaii-news/green-signs-bills-aimed-at-easing-the-housing-affordability-crisis/>
+
+---
+
+## Hawaii bills address two very different uses for AI
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii is preparing for the advent of artificial intelligence through a pair of proposed laws on the verge of passage.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/hawaii-news/hawaii-bills-address-two-very-different-uses-for-ai/>
+
+---
+
+## At Trump trial’s closings, lawyers weave facts into clashing accounts
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; With Donald Trump&#8217;s personal freedom at risk and his political fortunes in the balance, lawyers on both sides of his criminal trial mounted a final flurry of arguments on Tuesday to sway the 12 New Yorkers who will soon decide his legal fate.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/nation-world-news/at-trump-trials-closings-lawyers-weave-facts-into-clashing-accounts/>
+
+---
+
+## Hong Kong arrests six for sedition under new security law
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>HONG KONG (Reuters) &#8212; Hong Kong national security police arrested six people across the city on Tuesday under a new security law for alleged seditious intent, including a pro-democracy barrister already behind bars.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/nation-world-news/hong-kong-arrests-six-for-sedition-under-new-security-law/>
+
+---
+
+## Elon Musk dominates space launch. Rivals are calling foul.
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Elon Musk aggressively elbowed his way into the space launch business over the past two decades, combining engineering genius and an entrepreneurial drive with a demand that the U.S. government stop favoring the big, slow-moving contractors that had long dominated the industry.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/nation-world-news/elon-musk-dominates-space-launch-rivals-are-calling-foul/>
+
+---
+
+## Israel denies strike on camp near Rafah that Gaza officials say killed 21 people
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO (Reuters) &#8212; Israel&#8217;s military denied striking a tent camp west of Rafah on Tuesday after Gaza health authorities said Israeli tank shelling had killed at least 21 people there, in an area Israel has designated a civilian evacuation zone.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/nation-world-news/israel-denies-strike-on-camp-near-rafah-that-gaza-officials-say-killed-21-people/>
+
+---
+
+## US Supreme Court rebuffs lawyer Michael Avenatti’s bid to overturn Nike-related convictions
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212;The U.S. Supreme Court declined on Tuesday to hear a bid by imprisoned celebrity lawyer Michael Avenatti to overturn his conviction for defrauding a youth basketball coach he represented and extorting athletic wear company Nike in a case in which he was sentenced to 2-1/2 years behind bars.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/nation-world-news/us-supreme-court-rebuffs-lawyer-michael-avenattis-bid-to-overturn-nike-related-convictions/>
+
+---
+
+## Dallas County power outages will last multiple days as more storms approach, officials say
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>DALLAS &#8212; Power outages caused by severe weather Tuesday morning in Dallas County will likely span days as more storms approach the region, officials said.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/nation-world-news/dallas-county-power-outages-will-last-multiple-days-as-more-storms-approach-officials-say/>
+
+---
+
+## Putin warns West not to let Ukraine use its missiles to hit Russia
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>MOSCOW &#8212; Russian President Vladimir Putin warned the West on Tuesday that NATO members in Europe were playing with fire by proposing to let Ukraine use Western weapons to strike deep inside Russia, which he said could trigger a global conflict.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/nation-world-news/putin-warns-west-not-to-let-ukraine-use-its-missiles-to-hit-russia/>
+
+---
+
+## Thousands protest as Taiwan’s parliament passes contested reforms
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>TAIPEI &#8212; Thousands of people protested outside Taiwan&#8217;s parliament on Tuesday after it passed a reform package to increase oversight of the government pushed by the opposition but opposed by the ruling party, which did not have the numbers to block it.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/nation-world-news/thousands-protest-as-taiwans-parliament-passes-contested-reforms/>
+
+---
+
+## Obituaries for May 29
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>Thomas C. Dela Cruz, 86, of Hilo died April 29 at Hilo Benioff Medical Center. Born in Honomu, he was a retired supervisor for the former Ka&#8216;u Sugar Co. Visitation 10-11 a.m. Wednesday, June 5, at Dodo Mortuary Chapel. Memorial service at 11 a.m. Graveside urn committal service to follow at Homelani Memorial Park, Lehua Section. Casual attire. Survived by sons, Thomas (Lidia Dacayanan) Dela Cruz, Dennis Dela Cruz and Kurt De La Cruz; sister, Jan Hasegawa; six grandchildren and two great-grandchildren; nieces and nephews. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/obituaries/obituaries-for-may-29-7/>
+
+---
+
+## Accused Big Isle drug trafficker was deported 4 times
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>A Mexican national deported from the United States four times is charged with using an assault rifle while dealing methamphetamine and heroin on Hawaii Island.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/hawaii-news/accused-big-isle-drug-trafficker-was-deported-4-times/>
+
+---
+
+## AI darling Nvidia’s market value surges closer to Apple
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; Nvidia&#8217;s shares rallied around 6% to hit a record high on Tuesday, leaving the AI chipmaker&#8217;s stock market value about $100 billion away from overtaking Apple in a major reshuffle of Wall street&#8217;s biggest players.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/nation-world-news/ai-darling-nvidias-market-value-surges-closer-to-apple/>
+
+---
+
+## Papua New Guinea orders evacuations after landslide, thousands feared buried
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>SYDNEY &#8212; Papua New Guinea ordered thousands of residents to evacuate from the path of a still-active landslide on Tuesday after parts of a mountain collapsed burying at least 2,000 people, according to government estimates.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/nation-world-news/papua-new-guinea-orders-evacuations-after-landslide-thousands-feared-buried/>
+
+---
+
+## From Dairy Daddies to Trash Pandas: Small-town teams are conjuring fans with offbeat brands
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>When McCreamy, the muscular mascot of the Danville Dairy Daddies, was unveiled, it was no accident. The collegiate summer baseball team in Virginia knew exactly what it was doing.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/sports/from-dairy-daddies-to-trash-pandas-small-town-teams-are-conjuring-fans-with-offbeat-brands/>
+
+---
+
+## Summer paddling returns to Kona
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>For the first time in 2024, summer paddling returned to the Kona proper.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/sports/summer-paddling-returns-to-kona/>
+
+---
+
+## Wolves stay alive with Game 4 road win over Mavericks
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>Anthony Edwards came through with a game-high 29 points, Karl-Anthony Towns regained his form from beyond the 3-point arc and the Minnesota Timberwolves stayed alive in the Western Conference finals with a 105-100 victory over the host Dallas Mavericks in Game 4 on Tuesday night.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/sports/wolves-stay-alive-with-game-4-road-win-over-mavericks/>
+
+---
+
+## Reinhart lifts Panthers to overtime win over Rangers in Game 4 to even Eastern Conference final
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>The Florida Panthers came into Game 4 of the Eastern Conference final knowing they needed to play with more of an edge &#8212; a &#8220;growl,&#8221; as coach Paul Maurice described it following their second consecutive overtime loss to the New York Rangers that put them in an early hole in the series.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/sports/reinhart-lifts-panthers-to-overtime-win-over-rangers-in-game-4-to-even-eastern-conference-final/>
+
+---
+
+## Djokovic and Sabalenka ease through on rain-hit day at French Open
+
+date: 2024-05-29, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; Rain put a dampener on the third day of the French Open but defending champion Novak Djokovic avoided getting bogged down as his quest for a professional era record-extending 25th Grand Slam title got off to a solid enough start on Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/29/sports/djokovic-and-sabalenka-ease-through-on-rain-hit-day-at-french-open/>
+
+---
+
+## Hawaiian Word of the Week: Nīnauele
+
+date: 2024-05-29, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Nīnauele&#8212;Interview.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/28/hawaiian-word-of-the-week-ninauele/">Hawaiian Word of the Week: Nīnauele</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/28/hawaiian-word-of-the-week-ninauele/>
+
+---
+
+## Digital technology and anti-corruption campaign in the Pacific
+
+date: 2024-05-29, from: Pacific Island Times
+
+By Pacific Island Times News Staff Deuba-- Regional leaders advise Pacific island states to embrace digital technology, but do so with... 
+
+<https://www.pacificislandtimes.com/post/digital-technology-and-anti-corruption-campaign-in-the-pacific>
+
+---
+
+## How Small Island Developing States can end plastic pollution
+
+date: 2024-05-29, from: Pacific Island Times
+
+By Sulan Chen, Inka Mattila and  Vera Hakim UNDP New York--  Scattered over the vast area of our oceans, Small Island Developing States,... 
+
+<https://www.pacificislandtimes.com/post/how-small-island-developing-states-can-end-plastic-pollution>
+
+---
+
+## Small Islands Developing States: 'The Davids among the Goliaths of the world' 
+
+date: 2024-05-29, from: Pacific Island Times
+
+By Pacific Island Times News Staff Saint Johns --The prime minister of Samoa, as chair of the Alliance of Small Islands States or... 
+
+<https://www.pacificislandtimes.com/post/small-islands-developing-states-the-davids-among-the-goliaths-of-the-world>
+
+---
+
+## Decolonization panel head says 'tribe' designation won't resolve Guam's political status quandary
+
+date: 2024-05-29, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Decolonization Commission has rejected a recommendation for Guam to seek a “sovereign tribe”... 
+
+<https://www.pacificislandtimes.com/post/decolonization-panel-head-says-tribe-designation-won-t-resolve-guam-s-political-status-quandary>
+
+---
+
+## Tedx talk by Hawaiʻi CC Title IX coordinator highlights pleasure, consent
+
+date: 2024-05-29, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Sara Vogel is serving as a Fulbright Research Chair in Indigenous Studies at Vancouver Island University.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/28/tedx-talk-hawaii-cc-title-ix-coordinator/">Tedx talk by Hawaiʻi <abbr>CC</abbr> Title <abbr>IX</abbr> coordinator highlights pleasure, consent</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/28/tedx-talk-hawaii-cc-title-ix-coordinator/>
+
+---
+
+## UH researchers uncover rare Japanese scroll set in Honolulu
+
+date: 2024-05-29, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>UH</abbr> Mānoa researchers co-authored a bilingual cross-platform publication that focuses on 18th century scrolls.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/28/rare-japanese-scroll-set-honolulu/"><abbr>UH</abbr> researchers uncover rare Japanese scroll set in Honolulu</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/28/rare-japanese-scroll-set-honolulu/>
+
+---
+
+## UH Mānoa Kabuki: Japan bound!
+
+date: 2024-05-29, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> This marks the first-ever invitation for a <abbr>UH</abbr> M&#257;noa kabuki to perform in Japan.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/28/uh-manoa-kabuki-japan-bound/"><abbr>UH</abbr> Mānoa Kabuki: Japan bound!</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/28/uh-manoa-kabuki-japan-bound/>
+
+---
+
+## Abshier caps career with Big West Pitcher of the Week honor
+
+date: 2024-05-29, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> <abbr>UH</abbr> M&#257;noa pitcher Randy Abshier capped off his collegiate career by earning Big West Pitcher of the Week honors on May 27.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/28/abshier-big-west-pitcher-of-the-week-honor/">Abshier caps career with Big West Pitcher of the Week honor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/28/abshier-big-west-pitcher-of-the-week-honor/>
+
+---
+
+## Celebrating Lahaina in song, UH Maui students record album
+
+date: 2024-05-29, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The album of original music about Lahaina showcases its rich history and the students’ hopes for its future.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/28/celebrating-lahaina-in-song/">Celebrating Lahaina in song, <abbr>UH</abbr> Maui students record album</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/28/celebrating-lahaina-in-song/>
+
+---
+
+## UH professor connects moonless nights to rare cookiecutter shark bites
+
+date: 2024-05-28, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Steven Minaglia’s study was prompted by his personal research on successful channel crossings in <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/28/cookiecutter-shark-bite-study/"><abbr>UH</abbr> professor connects moonless nights to rare cookiecutter shark bites</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/28/cookiecutter-shark-bite-study/>
+
+---
+
+## Wahine greats Ah Mow, Bown inducted into USA Volleyball Hall of Fame
+
+date: 2024-05-28, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> To receive the All-Time Great Player Award, an athlete must have completed a minimum of five years as a member of a U.S. national team and on a minimum of five top-level international teams.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/28/ah-mow-bown-hall-of-fame/">Wahine greats Ah Mow, Bown inducted into <abbr>USA</abbr> Volleyball Hall of Fame</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/28/ah-mow-bown-hall-of-fame/>
+
+---
+
+## Guam senator warns against railroading septic shortcut proposal
+
+date: 2024-05-28, from: Pacific Island Times
+
+By Pacific Island Times News Staff Sen. Sabina Flores Perez on Tuesday slammed Sen. Chris Duenas' alleged attempts to railroad his septic... 
+
+<https://www.pacificislandtimes.com/post/septic-bill-needs-further-examination-guam-senator-says>
+
+---
+
+## Rota Island
+
+date: 2024-05-28, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Anthony Albright Who knew this hue of blue existed? Did you? Through and through the catalogs of blue I knew before, none prepared me for the hue of this remote coastal shore. Nor did my mind comprehend the pleasant &#8230; <a href="https://hawaiipacificreview.org/2024/05/28/rota-island/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/05/28/rota-island/>
+
+---
+
+## Gender pay gap present in 74% of Hawaiʻi jobs, more in UHERO report
+
+date: 2024-05-28, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The new <abbr>UHERO</abbr> report takes a deeper look into <span aria-label="Hawaii">Hawai&#699;i</span>’s gender pay gap to further understand the role of gender in the workforce.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/28/gender-pay-gap-report/">Gender pay gap present in 74% of Hawaiʻi jobs, more in <abbr>UHERO</abbr> report</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/28/gender-pay-gap-report/>
+
+---
+
+## PRESS RELEASE: Rare Birds Nest on Restored Chilean Island for First Time in Decades
+
+date: 2024-05-28, from: Island Conservation News
+
+<p>After decades of absence, rare Peruvian Diving-Petrels have returned to nest on Pajaros Uno island, recently free from invasive predators!</p>
+<p>The post <a href="https://www.islandconservation.org/yuncos-on-pajars-uno/">PRESS RELEASE: Rare Birds Nest on Restored Chilean Island for First Time in Decades</a> appeared first on <a href="https://www.islandconservation.org">Island Conservation</a>.</p>
+ 
+
+<https://www.islandconservation.org/yuncos-on-pajars-uno/>
 
 ---
 

@@ -1,11 +1,138 @@
 ---
 title: central coast 2024.22
-updated: 2024-05-28 08:42:28
+updated: 2024-05-29 09:46:27
 ---
 
 # central coast 2024.22
 
-(date: 2024-05-28 08:42:28)
+(date: 2024-05-29 09:46:27)
+
+---
+
+## A Guide to Attending Concerts and Music Festivals This Summer
+
+date: 2024-05-29, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/sr-music-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/sr-music-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/sr-music-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/sr-music-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/sr-music-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/sr-music-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/sr-music-scaled.jpeg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/sr-music-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/sr-music-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/sr-music-scaled.jpeg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/sr-music-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/sr-music-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/sr-music-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/sr-music-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Outdoor concerts and music festivals offer an electrifying blend of live performances, vibrant atmospheres and communal experiences that appeal to music lovers of all ages </p>
+<p>The post <a href="https://www.noozhawk.com/a-guide-to-attending-concerts-and-music-festivals-this-summer/">A Guide to Attending Concerts and Music Festivals This Summer</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/a-guide-to-attending-concerts-and-music-festivals-this-summer/>
+
+---
+
+## Circus Vargas presents Jubilé! An Epic World Celebration!
+
+date: 2024-05-29, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Faltyny-Unicycle-13-1.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Faltyny-Unicycle-13-1.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Faltyny-Unicycle-13-1.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Faltyny-Unicycle-13-1.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Faltyny-Unicycle-13-1.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Faltyny-Unicycle-13-1.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Faltyny-Unicycle-13-1.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Faltyny-Unicycle-13-1.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Faltyny-Unicycle-13-1.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Faltyny-Unicycle-13-1.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/Faltyny-Unicycle-13-1.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Circus Vargas' Jubilé! show features Opera-trained Ringmaster Johnathan Lee Iverson and performers from 15 countries, celebrating diverse cultures through acrobatics and aerial artistry</p>
+<p>The post <a href="https://www.noozhawk.com/circus-vargas-presents-jubile-an-epic-world-celebration/">Circus Vargas presents Jubilé! An Epic World Celebration!</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/circus-vargas-presents-jubile-an-epic-world-celebration/>
+
+---
+
+## Goleta Touts Old Town Open for Business During Major Road Project
+
+date: 2024-05-29, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The city of Goleta has launched its Old Town Open for Business (#OTOB) Campaign designed to encourage the public to support the businesses in Old Town during the city’s largest [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-touts-old-town-open-for-business-during-major-road-project/">Goleta Touts Old Town Open for Business During Major Road Project</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goleta-touts-old-town-open-for-business-during-major-road-project/>
+
+---
+
+## Blue Ridge Parkway
+
+date: 2024-05-29, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/050624-POD-Lynda-Nahra.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Blue Ridge Parkway in North Carolina." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/050624-POD-Lynda-Nahra.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/050624-POD-Lynda-Nahra.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/050624-POD-Lynda-Nahra.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/050624-POD-Lynda-Nahra.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/050624-POD-Lynda-Nahra.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/050624-POD-Lynda-Nahra.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/050624-POD-Lynda-Nahra.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/050624-POD-Lynda-Nahra.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/050624-POD-Lynda-Nahra.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/050624-POD-Lynda-Nahra.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/050624-POD-Lynda-Nahra.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/050624-POD-Lynda-Nahra.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/050624-POD-Lynda-Nahra.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/blue-ridge-parkway/">Blue Ridge Parkway</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/blue-ridge-parkway/>
+
+---
+
+## Santa Barbara Teachers Hold Strike Authorization Vote Amid Contract Talks with District
+
+date: 2024-05-29, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Teacher-Dispute-Sign-2-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A Santa Barbara teacher holds a sign in support of higher wages during Tuesday night&#039;s school board meeting." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Teacher-Dispute-Sign-2-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Teacher-Dispute-Sign-2-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Teacher-Dispute-Sign-2-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Teacher-Dispute-Sign-2-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Teacher-Dispute-Sign-2-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Teacher-Dispute-Sign-2-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Teacher-Dispute-Sign-2-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Teacher-Dispute-Sign-2-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Teacher-Dispute-Sign-2-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Teacher-Dispute-Sign-2-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Santa Barbara Teachers Association is holding a strike authorization vote this week in case a contract agreement cannot be reached with the Santa Barbara Unified School District. The voting [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-teachers-hold-strike-authorization-vote-amid-contract-talks-with-district/">Santa Barbara Teachers Hold Strike Authorization Vote Amid Contract Talks with District</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-teachers-hold-strike-authorization-vote-amid-contract-talks-with-district/>
+
+---
+
+## Dos Pueblos LL A’s Defeat Goleta Valley South LL Cubs in Annual Major Division Freeway Series
+
+date: 2024-05-29, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The annual freeway series between the Dos Pueblos LL and Goleta Valley LL Major Division winners took place on Tuesday, with Dos Pueblos’ A’s taking on Goleta Valley’s Cubs. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dos-pueblos-ll-as-defeat-goleta-valley-south-ll-cubs-in-annual-major-division-freeway-series/">Dos Pueblos LL A&#8217;s Defeat Goleta Valley South LL Cubs in Annual Major Division Freeway Series</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dos-pueblos-ll-as-defeat-goleta-valley-south-ll-cubs-in-annual-major-division-freeway-series/>
+
+---
+
+## Detectives Arrest Suspect in Attempted Murder of Girlfriend in Early 2023
+
+date: 2024-05-29, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Stabbing-Suspect-cont-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Jesus David Galvan Cuevas" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Stabbing-Suspect-cont-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Stabbing-Suspect-cont-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Stabbing-Suspect-cont-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Stabbing-Suspect-cont-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Stabbing-Suspect-cont-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Stabbing-Suspect-cont-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Stabbing-Suspect-cont-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Stabbing-Suspect-cont-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Stabbing-Suspect-cont-2000.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Stabbing-Suspect-cont-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara County sheriff&#8217;s detectives have arrested an attempted-murder suspect after a nearly 16-month investigation. Authorities have been searching for Jesus David Galvan Cuevas, 24, on suspicion of stabbing his [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-county-detectives-arrest-suspect-in-attempted-murder-of-girlfriend/">Detectives Arrest Suspect in Attempted Murder of Girlfriend in Early 2023</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-county-detectives-arrest-suspect-in-attempted-murder-of-girlfriend/>
+
+---
+
+## 3990 Edgehill Lane, SANTA YNEZ, CA 93460
+
+date: 2024-05-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="767" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/3990-Edgehill-Lane-scaled.jpg?fit=1024%2C767&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/3990-Edgehill-Lane-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/3990-Edgehill-Lane-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/3990-Edgehill-Lane-scaled.jpg?resize=1024%2C767&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/3990-Edgehill-Lane-scaled.jpg?resize=768%2C575&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/3990-Edgehill-Lane-scaled.jpg?resize=1536%2C1150&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/3990-Edgehill-Lane-scaled.jpg?resize=2048%2C1534&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/3990-Edgehill-Lane-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/3990-Edgehill-Lane-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/3990-Edgehill-Lane-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/3990-Edgehill-Lane-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/3990-Edgehill-Lane-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/3990-Edgehill-Lane-scaled.jpg?resize=1568%2C1174&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/3990-Edgehill-Lane-scaled.jpg?resize=2000%2C1498&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/3990-Edgehill-Lane-scaled.jpg?resize=706%2C529&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/3990-Edgehill-Lane-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/3990-Edgehill-Lane-scaled.jpg?fit=1024%2C767&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Offered At $2,995,000 </p>
+<p>The post <a href="https://www.noozhawk.com/3990-edgehill-lane-santa-ynez-ca-93460/">3990 Edgehill Lane, SANTA YNEZ, CA 93460</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/3990-edgehill-lane-santa-ynez-ca-93460/>
+
+---
+
+## 439 Lambert Road, CARPINTERIA, CA 93013
+
+date: 2024-05-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/439-Lambert-Road-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/439-Lambert-Road-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/439-Lambert-Road-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/439-Lambert-Road-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/439-Lambert-Road-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/439-Lambert-Road-scaled.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/439-Lambert-Road-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/439-Lambert-Road-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/439-Lambert-Road-scaled.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/439-Lambert-Road-scaled.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/439-Lambert-Road-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/439-Lambert-Road-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/439-Lambert-Road-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/439-Lambert-Road-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Offered At $10,900,000</p>
+<p>The post <a href="https://www.noozhawk.com/439-lambert-road-carpinteria-ca-93013/">439 Lambert Road, CARPINTERIA, CA 93013</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/439-lambert-road-carpinteria-ca-93013/>
+
+---
+
+## SpaceX Delivers EarthCARE Craft for European, Japanese Space Agencies
+
+date: 2024-05-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SpaceX-EarthCARE1-cont-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The first-stage booster falls away following the Falcon 9 rocket launch Tuesday from Vandenberg Space Force Base." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SpaceX-EarthCARE1-cont-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SpaceX-EarthCARE1-cont-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SpaceX-EarthCARE1-cont-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SpaceX-EarthCARE1-cont-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SpaceX-EarthCARE1-cont-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SpaceX-EarthCARE1-cont-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SpaceX-EarthCARE1-cont-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SpaceX-EarthCARE1-cont-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SpaceX-EarthCARE1-cont-2000.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SpaceX-EarthCARE1-cont-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>An international satellite that scientists hope will unravel the mysteries of Earth’s clouds and aerosols arrived in orbit Tuesday following a successful ride aboard a Falcon 9 rocket launched from [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/spacex-delivers-earthcare-craft-for-european-japanese-space-agencies/">SpaceX Delivers EarthCARE Craft for European, Japanese Space Agencies</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/spacex-delivers-earthcare-craft-for-european-japanese-space-agencies/>
 
 ---
 

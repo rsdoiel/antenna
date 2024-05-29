@@ -1,11 +1,21 @@
 ---
 title: health 2024.22
-updated: 2024-05-28 08:42:29
+updated: 2024-05-29 09:46:29
 ---
 
 # health 2024.22
 
-(date: 2024-05-28 08:42:29)
+(date: 2024-05-29 09:46:29)
+
+---
+
+## Extracellular components in enteroaggregative Escherichia coli biofilm and impact of treatment with proteinase K, DNase or sodium metaperiodate
+
+date: 2024-05-29, from: Frontiers in Cellular and Infection Microbiology
+
+Enteroaggregative E. coli (EAEC) is a major cause of diarrhea worldwide. EAEC are highly adherent to cultured epithelial cells and make biofilms. Both adherence and biofilm formation rely on the presence of aggregative adherence fimbriae (AAF). We compared biofilm formation from two EAEC strains of each of the five AAF types. We found that AAF type did not correlate with the level of biofilm produced. Because the composition of the EAEC biofilm has not been fully described, we stained EAEC biofilms to determine if they contained protein, carbohydrate glycoproteins, and/or eDNA and found that EAEC biofilms contained all three extracellular components. Next, we assessed the changes to the growing or mature EAEC biofilm mediated by treatment with proteinase K, DNase, or a carbohydrate cleavage agent to target the different components of the matrix. Growing biofilms treated with proteinase K had decreased biofilm staining for more than half of the strains tested. In contrast, although sodium metaperiodate only altered the biofilm in a quantitative way for two strains, images of biofilms treated with sodium metaperiodate showed that the EAEC were more spread out. Overall, we found variability in the response of the EAEC strains to the treatments, with no one treatment producing a biofilm change for all strains. Finally, once formed, mature EAEC biofilms were more resistant to treatment than biofilms grown in the presence of those same treatments. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1379206>
 
 ---
 

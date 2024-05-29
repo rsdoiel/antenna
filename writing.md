@@ -1,11 +1,146 @@
 ---
 title: writing 2024.22
-updated: 2024-05-28 08:42:28
+updated: 2024-05-29 09:46:28
 ---
 
 # writing 2024.22
 
-(date: 2024-05-28 08:42:28)
+(date: 2024-05-29 09:46:28)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-29, from: Neil Gaiman @ BlueSky)
+
+My job today is secret, but here is a clue: 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ktndsjmqyu2b>
+
+---
+
+## Forthcoming Books Through March 2025
+
+date: 2024-05-29, from: Locus Magazine
+
+<p>The Locus Selected Books by Author list has been updated on our <strong>Forthcoming Books</strong> page, with information from the June 2024 issue covering upcoming titles from genre houses slated through March 2025. Find out about your favorite authors&#8217; upcoming books!</p>
+<p>For the complete list of books by publisher, subscribe to our print magazine or purchase the June issue in print or digital editions, available June 1, 2024.</p>
+
+<p><strong>While you are </strong> <a href="https://locusmag.com/2024/05/forthcoming-books-through-march-2025/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/forthcoming-books-through-march-2025/>
+
+---
+
+## Publishing 101: Understanding Book Advances and Royalties
+
+date: 2024-05-29, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p>If you&#39;ve written a novel, <a href="https://www.literatureandlatte.com/blog/publishing-101-what-does-a-literary-agent-do" target="_blank">gotten an agent</a>, and sold your book to a publisher, you get to sign a contract which specifies advances and royalties that you will earn. This money is paid in several steps, and it&#39;s a good idea to understand how publishers distribute your earnings. Even if you have a contract and a good advance, it may not be time to quit your day job yet.</p>
+
+Understanding advances
+
+<p>An advance is technically an &quot;advance payment for royalties.&quot; This means that a publisher gives you money up front that is considered to be the royalties that you are expected to earn, in advance. In most cases, the advance covers hardcover, paperback, and ebook sales. The amount of the advance depends on whether you&#39;re a first-time author or have a successful career; what potential sales of the book may be; and the size of the publisher. Small presses will generally offer smaller advances than large publishers.</p>
+
+<p>While writers who have published several books with good sales may get six-figure advances for a single book, new authors are more likely to get advances that are four or five figures. Some new authors may get contracts for more than one book because a publisher sees potential; in that case, the advance may be based on all the books in the contract.</p>
+
+<p>Publishers are businesses, and they work out a profit and loss statement for every book they acquire.
+The amount of an advance is based on how many copies the publisher thinks the book will sell, minus the costs for production and promotion. Remember that production includes not just printing the book, but all the pre-production work involved, such as editing, proofreading, designing the book and cover, and other costs, such as a share of the publisher&#39;s general overhead. Of course, authors don&#39;t see any of this breakdown; all they see is a single number, the advance.</p>
+
+<p>However, the advance is not paid all at once. In general, it is paid in several tranches, starting when a contract is signed, with additional payments on submission of the final manuscript, on publication, and, with some contracts, on publication of a paperback edition (if the initial book was published as a hardcover).</p>
+
+<p>In most cases, the advance is sent to your agent, who deducts their fee (usually 15%) and then forwards the rest of the money to you. This means that all the money you receive is net of any fees, and you get to keep it all, except for the amount you will pay in taxes. If you don&#39;t have an agent, then the money is sent directly to you.</p>
+
+<p>Note that for tax purposes, it&#39;s much better to have the advance paid in stages, to avoid being thrust into a higher tax bracket. Some countries allow people who earn money via advances to average the income over several years; your agent will know if that&#39;s possible for you.</p>
+
+How royalties work
+
+<p>Royalties are the amount that a publisher pays for the right to sell your work. You own your book; you don&#39;t sell it outright, you only license the publisher to sell it for you. Royalties are calculated as a percentage of either the retail or net sale price per book, depending on the contract. Many contracts will have clauses specifying lower royalties for bulk sales, promotional sales, and other non-standard types of sales.</p>
+
+<p>There&#39;s no fixed amount of royalties; it depends on the author, the book&#39;s genre, and how the publisher sells books. Royalties are generally in the range:</p>
+
+
+	Hardcover: 10-15%
+	Trade paperback: 6-9%
+	Mass market paperback: 4-8%
+	Ebook: 25%
+
+
+<p>These numbers may seem low, but you need to consider the economics of book publishing. When selling a new hardcover, a publisher may get 40% to 60% of the retail price. If you factor in costs - production, shipping, overhead, maintaining inventory - the author&#39;s share is much more than it seems at first.</p>
+
+<p>As mentioned above, the advance is based on royalties the author is expected to earn on future sales of a book. That means that you won&#39;t start getting any royalty checks until after you have &quot;earned out&quot; your advance. This means that you have accrued enough royalties to cover what the publisher paid up front. However, if you don&#39;t sell enough copies to earn out the advance, you won&#39;t have to pay any of it back.</p>
+
+<p>You generally receive royalty statements and payments every six or 12 months, though with small presses, this might be more frequent. It may take a while before you start earning anything more than your advance.</p>
+
+<p>You may want to have an idea of how many copies your book is selling. Don&#39;t badger your publisher, though if it&#39;s selling well, your editor may want to share these numbers. If you create an account on <a href="https://author.amazon.com" target="_blank">Amazon Author Central</a> in the US, you can see <a href="https://author.amazon.com/help/G7ALTEPMTDQLHHDB" target="_blank">BookScan sales reports</a>. These represent about 85% of total sales, though exclude ebook sales, and give you a good idea of how your book is performing.</p>
+
+Self-publishing
+
+<p>You may decide to <a href="https://www.literatureandlatte.com/blog/navigating-the-publishing-process-traditional-vs-self-publishing" target="_blank">self-publish your book</a>. In this case, there is no advance; you&#39;re on your own, and you pay all expenses up front.</p>
+
+<p>The amount of money you retain from self-published sales is generally around 70%, though this can vary. Don&#39;t be tricked when online retailers such as Amazon call this money &quot;royalties,&quot; making it sound like it&#39;s so much more than what you get from traditional publishing. It&#39;s not royalties, it&#39;s the amount of money you earn after paying Amazon&#39;s commission of 30%. Royalties, as mentioned above, are a payment to license a work, and you don&#39;t license anything to online ebook retailers, you simply use their storefronts to sell your books.</p>
+
+<p>The numbers in this article are indicative, and individual contracts may be different. But it&#39;s a good idea to understand how advances and royalties are paid on books, especially if you&#39;re ready to sign your first contract.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+ 
+
+<https://www.literatureandlatte.com/blog/publishing-101-understanding-book-advances-and-royalties>
+
+---
+
+## Write On: 'Ezra' Writer Tony Spiridakis
+
+date: 2024-05-28, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-ezra-writer-tony-spiridakis" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On-%20Ezra%20Writer%20Tony%20Spiridakis.png" alt="Write On: 'Ezra' Writer Tony Spiridakis" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“From Robert De Niro, I learned not to force anything. Not to force your idea of how something should be and then go from there. Not, ‘Oh, this should be funny,’ or ‘Oh, I'm going make you cry.’ That's the wrong thing. You just need to think about the thing the character is experiencing and don't push it – have it happen. And he was obsessive with me about not trying to make anything funny and he would say to me, ‘Tony, it's very funny. But I want you to see the funny happen naturally from the authenticity of it,’” says Tony Spiridakis on working on the screenplay for<span>&nbsp;</span><em>Ezra</em><span>&nbsp;</span>with Robert De Niro who stars in the film, along with Bobby Cannavale, William A. Fitzgerald, and Rose Byrne.&nbsp;&nbsp;</p> 
+
+<https://blog.finaldraft.com/write-on-ezra-writer-tony-spiridakis>
+
+---
+
+## 2024 Orwell Prize for Political Fiction Shortlist
+
+date: 2024-05-28, from: Locus Magazine
+
+<p>The shortlist for the 2024 Orwell Prize for Political Fiction, given by The Orwell Foundation to novels and short story collections published in the UK which explore major political and social themes through a fictional lens, includes at least four titles of genre interest:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>James</strong>, Percival Everett (Mantle)</li>
+<li><strong>My Friends</strong>, Hisham Matar (Viking)</li>
+<li><strong>Orbital</strong>, Samantha Harvey (Jonathan Cape)</li>
+<li><strong>The Future Future</strong>, Adam Thirlwell (Jonathan Cape)</li>
+</ul>
+</div>
+<p>The  <a href="https://locusmag.com/2024/05/2024-orwell-prize-for-political-fiction-shortlist/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/2024-orwell-prize-for-political-fiction-shortlist/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-28, from: Neil Gaiman @ BlueSky)
+
+I didn’t know this. I just learned how many things I thought were just things Americans said were invented by Al Capp for the Lil Abner strip, including “hogwash” and “going bananas”.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ktkzyj2hec23>
 
 ---
 

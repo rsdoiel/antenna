@@ -1,11 +1,35 @@
 ---
 title: libraries 2024.22
-updated: 2024-05-28 08:42:28
+updated: 2024-05-29 09:46:28
 ---
 
 # libraries 2024.22
 
-(date: 2024-05-28 08:42:28)
+(date: 2024-05-29 09:46:28)
+
+---
+
+## Peer Review Week 2024: “Innovation and Technology in Peer Review”
+
+date: 2024-05-29, from: Scholarly Kitchen
+
+<p>We're delighted to reveal the eagerly awaited theme for this year's Peer Review Week, Innovation and Technology in Peer Review.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/05/29/peer-review-week-2024-innovation-and-technology-in-peer-review/">Peer Review Week 2024: &#8220;Innovation and Technology in Peer Review&#8221;</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/05/29/peer-review-week-2024-innovation-and-technology-in-peer-review/>
+
+---
+
+## Day in Review (May 28–30)
+
+date: 2024-05-28, from: Association of Research Libraries News
+
+<p>Last Updated on May 28, 2024, 3:57 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, May 29 &#124; Thursday, May 30 Tuesday, May...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-28-30/">Day in Review (May 28–30)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/day-in-review/day-in-review-may-28-30/>
 
 ---
 
