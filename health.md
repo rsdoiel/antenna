@@ -1,11 +1,61 @@
 ---
 title: health 2024.22
-updated: 2024-05-29 10:54:52
+updated: 2024-05-30 11:07:35
 ---
 
 # health 2024.22
 
-(date: 2024-05-29 10:54:52)
+(date: 2024-05-30 11:07:35)
+
+---
+
+## A novel diagnostic approach to Paratuberculosis in dairy cattle using near-infrared spectroscopy and aquaphotomics
+
+date: 2024-05-30, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionAs a contagious and chronic disease in the livestock industry, Paratuberculosis is a significant threat to dairy herds’ genetic and economic resources. Due to intensive breeding and high production of dairy cattle, the incidence and prevalence are higher. Developing non-destructive diagnostic methods for the early detection and identification of healthy animals is paramount for breeding programs. Conventional methods are almost entirely destructive, have low accuracy, lack precision, and are time-consuming. Near-infrared spectroscopy (NIRS) and aquaphotomics can detect changes in biofluids and thus have the potential to diagnose disease. This study aimed to investigate the diagnostic ability of NIRS and aquaphotomics for Paratuberculosis in dairy cattle. MethodsBlood plasma from dairy cattle was collected in the NIR range (1,300 nm to 1,600 nm) 60 days before and 100 days to 200 days after calving in two groups, positive and negative, using the same consecutive enzyme-linked immunosorbent assay test results three times as a reference test.ResultsNIRS and aquaphotomics methods invite 100% accuracy, sensitivity, and specificity to detect Paratuberculosis using data mining by unsupervised method, Principal Component Analysis, and supervised methods: Soft Independent Modeling of Class Analogiest, Linear Discriminant Analysis, Quadratic Discriminant Analysis, Partial Least Square–Discriminant Analysis, and Support Vector Machine models.DiscussionThe current study found that monitoring blood plasma with NIR spectra provides an opportunity to analyze antibody levels indirectly via changes in water spectral patterns caused by complex physiological changes, such as the amount of antibodies related to Paratuberculosis by aquagram. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1374560>
+
+---
+
+## Editorial: Molecular mechanisms of resistance to “last resort” antimicrobials in Enterobacterales
+
+date: 2024-05-30, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1429200>
+
+---
+
+## A rare case of successful treatment of peritoneal dialysis patient with Serratia marcescens peritonitis without catheter removal: case report and literature review
+
+date: 2024-05-30, from: Frontiers in Cellular and Infection Microbiology
+
+Serratia marcescens, as a Gram-negative opportunistic pathogen, is a rare cause of peritonitis and has worse clinical outcomes than Gram-positive peritonitis. In this case report, we describe a case of Serratia marcescens associated peritonitis that was successfully cured without catheter removal. A 40-year-old male patient with peritoneal dialysis who worked in the catering industry was admitted to the hospital for 16 hours after the discovery of cloudy peritoneal dialysate and abdominal pain. Ceftazidime and cefazolin sodium were immediately given intravenously as an empirical antibiotic regimen. After detecting Serratia marcescens in the peritoneal diasate culture, the treatment was switched to ceftazidime and levofloxacin. The routine examination of peritoneal dialysate showed a significant decrease in white blood cells, the peritoneal dialysate became clear, and the peritoneal dialysis catheter was retained. The patient was treated for 2 weeks and treated with oral antibiotics for 1 week. It is necessary to further strengthen the hygiene of work environment to prevent Serratia marcescens infection in peritoneal dialysis patients. We recommend that patients with Serratia marcescens associated peritonitis should be treated with a combination of antibiotics as early as possible empirically, and at the same time, the peritoneal dialysis fluid culture should be improved, and the antibiotic regimen should be timely adjusted according to the drug sensitivity results. For patients with clinical symptoms for more than 3 days, considering the strong virulence of Serratia marcescens, whether to use meropenem directly or not can provide a reference for clinical decision-making. Further clinical studies are needed to achieve more precise anti-infective treatment. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1373036>
+
+---
+
+## Detection of Hanseniaspora opuntiae in anovaginal samples of pregnant women in Rio de Janeiro, Brazil—a case report
+
+date: 2024-05-30, from: Frontiers in Cellular and Infection Microbiology
+
+In this study, we report the first isolation of Hanseniaspora opuntiae obtained from four pregnant women in Brazil. Clinical isolates were obtained from four samples taken between 35 and 37 gestational weeks, as part of the routine antenatal care for maternal colonization screening for Streptococcus agalactiae group B. The patients were immunocompetent, with two of them diagnosed with gestational diabetes mellitus. Species identification was performed by MALDI-TOF MS and rDNA sequencing. While Hanseniaspora species have not traditionally been considered a typical opportunist pathogen, our findings emphasize the importance of investigating and screening for Hanseniaspora in pregnant populations, highlighting H. opuntiae as a potential agent of human infections. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1394663>
+
+---
+
+## Influences of bacterial extracellular vesicles on macrophage immune functions
+
+date: 2024-05-30, from: Frontiers in Cellular and Infection Microbiology
+
+Bacterial extracellular vesicles (EVs) are crucial mediators of information transfer between bacteria and host cells. Macrophages, as key effector cells in the innate immune system, have garnered widespread attention for their interactions with bacterial EVs. Increasing evidence indicates that bacterial EVs can be internalized by macrophages through multiple pathways, thereby influencing their immune functions. These functions include inflammatory responses, antimicrobial activity, antigen presentation, and programmed cell death. Therefore, this review summarizes current research on the interactions between bacterial EVs and macrophages. This will aid in the deeper understanding of immune modulation mediated by pathogenic microorganisms and provide a basis for developing novel antibacterial therapeutic strategies. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1411196>
 
 ---
 

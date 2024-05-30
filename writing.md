@@ -1,11 +1,63 @@
 ---
 title: writing 2024.22
-updated: 2024-05-29 10:54:51
+updated: 2024-05-30 11:07:35
 ---
 
 # writing 2024.22
 
-(date: 2024-05-29 10:54:51)
+(date: 2024-05-30 11:07:35)
+
+---
+
+## Jaquays Receives Solstice Award
+
+date: 2024-05-30, from: Locus Magazine
+
+<p>The Science Fiction and Fantasy Writers Association (SFWA) has announced Jennell Jaquays as the posthumous recipient of the Kate Wilhelm Solstice Award &#8220;for distinguished contributions to the science fiction and fantasy community.&#8221;</p>
+<p>The Solstice Award, created in 2008 and given at the discretion of the SFWA president with the majority approval of the Board of Directors, is for individuals, living or dead, who have had “a significant impact on the  <a href="https://locusmag.com/2024/05/jaquays-receives-solstice-award/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/jaquays-receives-solstice-award/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-30, from: Neil Gaiman @ BlueSky)
+
+Wych Cross! Although the house I imagined Fawney Rigg to be based upon  would have been a convent around this time.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ktpmswetf42q>
+
+---
+
+## Brin Wins Caltech Distinguished Alumni Award
+
+date: 2024-05-29, from: Locus Magazine
+
+<p>David Brin has been announced as a 2024 recipient of the Caltech Distinguished Alumni Award, the university&#8217;s highest honor for alumni. Brin was honored with the award &#8220;for his enduring excellence in storytelling, examining how change, science, and technology affect the human condition in his New York Times-bestselling science fiction novels; for his support of revolutionary ideas in space science and engineering through NASA&#8217;s Innovative and Advanced Concepts Program.&#8221;</p>
+<p>The  <a href="https://locusmag.com/2024/05/brin-wins-caltech-distinguished-alumni-award/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/brin-wins-caltech-distinguished-alumni-award/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-29, from: Neil Gaiman @ BlueSky)
+
+Oh dear.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ktnquy7f2k2w>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-29, from: Neil Gaiman @ BlueSky)
+
+Exciting!!
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ktnihiwxdy2g>
 
 ---
 

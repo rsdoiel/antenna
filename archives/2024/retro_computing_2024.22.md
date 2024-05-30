@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.22
-updated: 2024-05-29 10:54:52
+updated: 2024-05-30 11:07:35
 ---
 
 # retro computing 2024.22
 
-(date: 2024-05-29 10:54:52)
+(date: 2024-05-30 11:07:35)
+
+---
+
+## KaOS Linux 2024.05 Adds Bcachfs Support and More
+
+date: 2024-05-30, from: Linux Magazine
+
+<p>With updates all around, KaOS Linux now includes support for the bcachefs file system.</p> 
+
+<http://www.linux-magazine.com/Online/News/KaOS-Linux-2024.05-Adds-Bcachfs-Support-and-More>
+
+---
+
+## May 2024 News Summary
+
+date: 2024-05-30, from: Icon Bar, RISC OS News
+
+Some things we noticed this month. What did you see? 
+
+<http://www.iconbar.com/comments/rss/news2055.html>
 
 ---
 

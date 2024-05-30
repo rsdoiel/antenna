@@ -1,11 +1,138 @@
 ---
 title: central coast 2024.22
-updated: 2024-05-29 10:54:51
+updated: 2024-05-30 11:07:34
 ---
 
 # central coast 2024.22
 
-(date: 2024-05-29 10:54:51)
+(date: 2024-05-30 11:07:34)
+
+---
+
+## Ron Fink: In Lompoc, Is Pale Blue Dot Just a Dream?
+
+date: 2024-05-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>According to the Lompoc Parks and Recreation webpage, Ken Adam Park served as a county park from 1968 to 1986.  The park is named for Ken Adam, the former owner [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ron-fink-in-lompoc-is-pale-blue-dot-just-a-dream/">Ron Fink: In Lompoc, Is Pale Blue Dot Just a Dream?</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ron-fink-in-lompoc-is-pale-blue-dot-just-a-dream/>
+
+---
+
+## Carrillo Recreation Center Hosting Weekly Pickup Basketball Games for Local Community
+
+date: 2024-05-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Carrillo Recreation Center is calling all local Santa Barbara hoopers. The center, located at 100 E Carrillo St. in downtown Santa Barbara, organizes weekly pickup basketball games every Tuesday [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/carrillo-recreation-center-hosting-weekly-pickup-basketball-games-for-local-community/">Carrillo Recreation Center Hosting Weekly Pickup Basketball Games for Local Community</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/carrillo-recreation-center-hosting-weekly-pickup-basketball-games-for-local-community/>
+
+---
+
+## Keeping Your Pets Safe During the Summer
+
+date: 2024-05-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/pc-heat-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/pc-heat-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/pc-heat-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/pc-heat-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/pc-heat-scaled.jpeg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/pc-heat-scaled.jpeg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/pc-heat-scaled.jpeg?resize=2048%2C1367&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/pc-heat-scaled.jpeg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/pc-heat-scaled.jpeg?resize=1568%2C1047&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/pc-heat-scaled.jpeg?resize=2000%2C1335&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/pc-heat-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/pc-heat-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/pc-heat-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/pc-heat-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Summer can promise great fun for pets and their humans alike, but keeping it enjoyable requires following certain precautions to protect your pet against higher temperatures and other hazards</p>
+<p>The post <a href="https://www.noozhawk.com/keeping-your-pets-safe-during-the-summer/">Keeping Your Pets Safe During the Summer</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/keeping-your-pets-safe-during-the-summer/>
+
+---
+
+## Joan Kinevan Gresh of Santa Barbara, 1955-2024
+
+date: 2024-05-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="350" height="373" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052924-JGresh2-350.gif?fit=350%2C373&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Joan Kinevan Gresh" decoding="async" loading="lazy" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Joan Kinevan Gresh, member of a Santa Barbara pioneer family, passed away on May 26, 2024. Joan’s great-grandparents Patrick and Nora Kinevan were Irish immigrants who called Santa Barbara their [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/joan-kinevan-gresh-of-santa-barbara-1955-2024/">Joan Kinevan Gresh of Santa Barbara, 1955-2024 </a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/joan-kinevan-gresh-of-santa-barbara-1955-2024/>
+
+---
+
+## Mailboxes of Key West
+
+date: 2024-05-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/040524-POD-Kirsten-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Mailboxes of Key West, Florida." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/040524-POD-Kirsten-Macfadyen.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/040524-POD-Kirsten-Macfadyen.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/040524-POD-Kirsten-Macfadyen.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/040524-POD-Kirsten-Macfadyen.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/040524-POD-Kirsten-Macfadyen.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/040524-POD-Kirsten-Macfadyen.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/040524-POD-Kirsten-Macfadyen.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/040524-POD-Kirsten-Macfadyen.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/040524-POD-Kirsten-Macfadyen.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/040524-POD-Kirsten-Macfadyen.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/040524-POD-Kirsten-Macfadyen.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/040524-POD-Kirsten-Macfadyen.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/040524-POD-Kirsten-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/mailboxes-of-key-west/">Mailboxes of Key West</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/mailboxes-of-key-west/>
+
+---
+
+## UCSB Students March in Support of Palestine, Call for Divestment
+
+date: 2024-05-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052924-divestment-march-1-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="UCSB march." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052924-divestment-march-1-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052924-divestment-march-1-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052924-divestment-march-1-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052924-divestment-march-1-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052924-divestment-march-1-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052924-divestment-march-1-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052924-divestment-march-1-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052924-divestment-march-1-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052924-divestment-march-1-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052924-divestment-march-1-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>On Wednesday, about 100 UC Santa Barbara students marched from People’s Park in Isla Vista to outside the Loma Pelona building on campus, calling for the university to divest from [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsb-students-march-in-support-of-palestine-call-for-divestment-resolution/">UCSB Students March in Support of Palestine, Call for Divestment</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsb-students-march-in-support-of-palestine-call-for-divestment-resolution/>
+
+---
+
+## Santa Maria Elks Rodeo Saddles Up for 4 Days of Action
+
+date: 2024-05-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SM-Elks-Rodeo1a-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Rodeo clown Matt Merritt introduces Junior Barrelman Reed Lemieux from Orcutt." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SM-Elks-Rodeo1a-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SM-Elks-Rodeo1a-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SM-Elks-Rodeo1a-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SM-Elks-Rodeo1a-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SM-Elks-Rodeo1a-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SM-Elks-Rodeo1a-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SM-Elks-Rodeo1a-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SM-Elks-Rodeo1a-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SM-Elks-Rodeo1a-js.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-SM-Elks-Rodeo1a-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>With fresh paint, new plants and award-winning dirt in the arena, the Santa Maria Elks Rodeo is ready to ride for the next four days. The 81st Elks Rodeo, at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-elks-rodeo-saddles-up-for-4-days-of-action/">Santa Maria Elks Rodeo Saddles Up for 4 Days of Action</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-maria-elks-rodeo-saddles-up-for-4-days-of-action/>
+
+---
+
+## Local Players Dominate All-Channel League Girls Lacrosse Honors
+
+date: 2024-05-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/mia-martinez-tomatis.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/mia-martinez-tomatis.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/mia-martinez-tomatis.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/mia-martinez-tomatis.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/mia-martinez-tomatis.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/mia-martinez-tomatis.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/mia-martinez-tomatis.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/mia-martinez-tomatis.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/mia-martinez-tomatis.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/mia-martinez-tomatis.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/mia-martinez-tomatis.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The local girls lacrosse teams turned in great seasons in 2024, and there were plenty of standout individual performers. Those individuals were honored with end-of-year awards and All-Channel League honors. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/local-players-dominate-all-channel-league-girls-lacrosse-honors/">Local Players Dominate All-Channel League Girls Lacrosse Honors</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/local-players-dominate-all-channel-league-girls-lacrosse-honors/>
+
+---
+
+## Fire Officials Reach 70% Containment, Lift Evacuation Warnings for Cuyama Valley Blaze
+
+date: 2024-05-29, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="771" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Hill-Fire-Aerial-3-sbcfd-1100.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Fire officials lifted evacuation warnings Wednesday for a wildfire burning in the Cuyama Valley." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Hill-Fire-Aerial-3-sbcfd-1100.jpg?w=1100&amp;ssl=1 1100w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Hill-Fire-Aerial-3-sbcfd-1100.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Hill-Fire-Aerial-3-sbcfd-1100.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Hill-Fire-Aerial-3-sbcfd-1100.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Hill-Fire-Aerial-3-sbcfd-1100.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Hill-Fire-Aerial-3-sbcfd-1100.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Hill-Fire-Aerial-3-sbcfd-1100.jpg?resize=706%2C531&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052824-Hill-Fire-Aerial-3-sbcfd-1100.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Fire officials lifted all evacuation warnings for the Hill Fire burning in the Cuyama Valley Wednesday afternoon as they reached 70% containment. The fire started midday Tuesday near Kirschenmenn Road [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/fire-officials-lift-evacuation-warnings-for-cuyama-valley-blaze/">Fire Officials Reach 70% Containment, Lift Evacuation Warnings for Cuyama Valley Blaze</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/fire-officials-lift-evacuation-warnings-for-cuyama-valley-blaze/>
+
+---
+
+## Crime Rates Across Santa Barbara County Continue to Fall for Second Year
+
+date: 2024-05-29, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="579" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052923-sbso-crime-stats-2.jpg?fit=1024%2C579&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara County Sheriff&#039;s Office 2023 crime stats show the lowest Part 1 crime total in 10 years, which includes violent and property crimes." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052923-sbso-crime-stats-2.jpg?w=2087&amp;ssl=1 2087w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052923-sbso-crime-stats-2.jpg?resize=300%2C170&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052923-sbso-crime-stats-2.jpg?resize=1024%2C579&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052923-sbso-crime-stats-2.jpg?resize=768%2C434&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052923-sbso-crime-stats-2.jpg?resize=1536%2C868&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052923-sbso-crime-stats-2.jpg?resize=2048%2C1158&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052923-sbso-crime-stats-2.jpg?resize=1200%2C678&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052923-sbso-crime-stats-2.jpg?resize=1568%2C887&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052923-sbso-crime-stats-2.jpg?resize=2000%2C1131&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052923-sbso-crime-stats-2.jpg?resize=400%2C226&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052923-sbso-crime-stats-2.jpg?resize=706%2C399&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052923-sbso-crime-stats-2.jpg?fit=1024%2C579&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Crime rates have dropped 16.9% across Santa Barbara County, continuing to fall from last year, according to the Sheriff’s Office. The agency released new numbers last week showing a drop [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/crime-rates-across-santa-barbara-county-continue-to-fall-for-second-year/">Crime Rates Across Santa Barbara County Continue to Fall for Second Year</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/crime-rates-across-santa-barbara-county-continue-to-fall-for-second-year/>
 
 ---
 

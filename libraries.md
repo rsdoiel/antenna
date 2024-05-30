@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.22
-updated: 2024-05-29 10:54:51
+updated: 2024-05-30 11:07:35
 ---
 
 # libraries 2024.22
 
-(date: 2024-05-29 10:54:51)
+(date: 2024-05-30 11:07:35)
+
+---
+
+## Guest Post: Jagged Edges of Conversational Interfaces Over Scholarly and Professional Content
+
+date: 2024-05-30, from: Scholarly Kitchen
+
+<p>The gaps in capability of AI will narrow over time, but publishers and end users need education on those gaps to make investment decisions and to confidently utilize Generative AI tools effectively.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/05/30/guest-post-jagged-edges-of-conversational-interfaces-over-scholarly-and-professional-content/">Guest Post: Jagged Edges of Conversational Interfaces Over Scholarly and Professional Content</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/05/30/guest-post-jagged-edges-of-conversational-interfaces-over-scholarly-and-professional-content/>
 
 ---
 
@@ -25,7 +37,7 @@ date: 2024-05-29, from: Scholarly Kitchen
 
 date: 2024-05-28, from: Association of Research Libraries News
 
-<p>Last Updated on May 28, 2024, 3:57 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, May 29 &#124; Thursday, May 30 Tuesday, May...</p>
+<p>Last Updated on May 29, 2024, 3:54 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, May 29 &#124; Thursday, May 30 Tuesday, May...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-28-30/">Day in Review (May 28–30)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

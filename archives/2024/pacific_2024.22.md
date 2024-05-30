@@ -1,11 +1,614 @@
 ---
 title: pacific 2024.22
-updated: 2024-05-29 10:54:51
+updated: 2024-05-30 11:07:34
 ---
 
 # pacific 2024.22
 
-(date: 2024-05-29 10:54:51)
+(date: 2024-05-30 11:07:34)
+
+---
+
+## PII readies for runway paving
+
+date: 2024-05-30, from: Marshal Islands Journal
+
+<p>The large-scale airport paving and improvement project is expected to get underway in late July or early August, according to contractor Pacific International Inc. PII since early this year has been mobilizing its equipment and facilities in anticipation of the airport work. A large asphalt plant has been set up a mile to the west [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/pii-readies-for-runway-paving/">PII readies for runway paving</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/pii-readies-for-runway-paving/>
+
+---
+
+## Elon Musk could become policy adviser if Trump wins election, WSJ reports
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (Reuters) &#8212; Donald Trump is considering tapping billionaire Elon Musk as a policy adviser if the Republican presidential candidate reclaims the White House in November&#8217;s election, the Wall Street Journal reported on Wednesday, citing people familiar with the talks.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/nation-world-news/elon-musk-could-become-policy-adviser-if-trump-wins-election-wsj-reports/>
+
+---
+
+## Pearl Harbor attack survivor Herb Elfring dies at 102
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>Pearl Harbor attack survivor Herbert Elfring died Saturday in Michigan at age 102.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/hawaii-news/pearl-harbor-attack-survivor-herb-elfring-dies-at-102/>
+
+---
+
+## There’s nothing simple or obvious about Trump’s trial defense
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>During closing arguments in Donald Trump&#8217;s felony trial Tuesday morning, his lawyer Todd Blanche said, &#8220;There&#8217;s a reason why, in life, usually the simplest answer is the right one.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/opinion/theres-nothing-simple-or-obvious-about-trumps-trial-defense/>
+
+---
+
+## Israel will always be held to a different standard
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>Israel stands accused of genocide as it fights to destroy Hamas in response to its savage terrorist attack last October. Is the world&#8217;s only Jewish state being held to a different standard? Many Israelis believe this to be true, and they are, undeniably, right. It doesn&#8217;t, however, make all criticism of the war in Gaza either unfair or antisemitic.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/opinion/israel-will-always-be-held-to-a-different-standard/>
+
+---
+
+## Public invited to Disaster Preparedness Fair
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County Civil Defense is hosting a Disaster Preparedness Fair on Saturday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/community/public-invited-to-disaster-preparedness-fair/>
+
+---
+
+## Palace Theater hosts second annual talent competition
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>The brightest stars of Hilo will be showcasing their talents Saturday in the Palace Theater&#8217;s second annual variety show competition.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/entertainment/palace-theater-hosts-second-annual-talent-competition/>
+
+---
+
+## Obituaries for May 30
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>Raymond Stephen Benevides, 92, of Hilo died May 15 at Life Care Center of Hilo. Born in Hilo, he was a retired custodian for Waiakea Elementary School, retired U.S. Army staff sergeant and member of St. Joseph Catholic Church. Private family services at a later date. Survived by wife, Betty Joan Leilani Benevides of Hilo; children, Dwayne (Stella) Benevides of Oahu, Francesca L.B. (Michael C.) DeMattos of Oahu and Raymond (Perry V. Hayes) Benevides of Los Angeles; sister-in-law, Helen Shirota Benevides of Pepeekeo; two grandchildren. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/obituaries/obituaries-for-may-30-10/>
+
+---
+
+## Biden campaign plots stay-the-course strategy after Trump verdict
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>Typically, if your political opponent is convicted of a felony, it&#8217;s considered a rare gift.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/nation-world-news/biden-campaign-plots-stay-the-course-strategy-after-trump-verdict/>
+
+---
+
+## Exclusive-White House to support new nuclear power plants in the U.S.
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212;- The White House on Wednesday plans to announce new measures to support the development of new U.S. nuclear power plants, a large potential source of carbon-free electricity the government says is needed to combat climate change.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/nation-world-news/exclusive-white-house-to-support-new-nuclear-power-plants-in-the-u-s/>
+
+---
+
+## Hilo school wins grant from Laura Bush Foundation
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>Chiefess Kapi&#8216;olani Elementary School in Hilo earlier this month was one of 200 schools from 40 states across the country to receive a $5,000 grant through the Laura Bush Foundation for America&#8217;s Libraries.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/community/hilo-school-wins-grant-from-laura-bush-foundation/>
+
+---
+
+## Police celebrate DARE graduates in E. Hawaii
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Police Department and school resource officers would like to congratulate the 2024 graduates of the Drug Abuse Resistance Education (DARE) program.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/community/police-celebrate-dare-graduates-in-e-hawaii/>
+
+---
+
+## Alito refuses calls for recusal over display of provocative flags
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Justice Samuel Alito declined Wednesday to recuse himself from two cases arising from the Jan. 6, 2021, attack on the Capitol after reports that flags displayed outside his houses appeared to support the &#8220;Stop the Steal&#8221; movement.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/nation-world-news/alito-refuses-calls-for-recusal-over-display-of-provocative-flags/>
+
+---
+
+## Historic criminal trial of Hunter Biden to probe drug addiction
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>WILMINGTON, Delaware &#8212; The criminal trial of Hunter Biden on gun charges kicks off next week, with federal prosecutors likely to dissect lurid details of his crack cocaine addiction that could provide fuel for opponents of his father&#8217;s presidential reelection bid.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/nation-world-news/historic-criminal-trial-of-hunter-biden-to-probe-drug-addiction/>
+
+---
+
+## Kupuna win some, lose some at Casino Day
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>Seniors from across the island came to Hilo on Wednesday to try their luck at Casino Day.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/hawaii-news/kupuna-win-some-lose-some-at-casino-day/>
+
+---
+
+## Hawaiian Electric will use outages to prevent wildfires
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>Hawaiian Electric could cut power to nearly 20,000 West Hawaii customers to prevent wildfires this summer.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/hawaii-news/hawaiian-electric-will-use-outages-to-prevent-wildfires/>
+
+---
+
+## Judge’s instructions will be a road map for jury weighing Trump’s fate
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; It&#8217;s all up to the jury now.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/nation-world-news/judges-instructions-will-be-a-road-map-for-jury-weighing-trumps-fate/>
+
+---
+
+## Israel seizes Gaza’s entire border with Egypt, presses with raids into Rafah
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO &#8212; Israeli forces have taken control of a buffer zone along the border between the Gaza Strip and Egypt, the country&#8217;s military said on Wednesday, giving Israel effective authority over the Palestinian territory&#8217;s entire land border.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/nation-world-news/israel-seizes-gazas-entire-border-with-egypt-presses-with-raids-into-rafah/>
+
+---
+
+## NASA astronauts return to Space Coast ahead of Starliner launch
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>KENNEDY SPACE CENTER, Fla. &#8212; NASA astronauts Butch Wilmore and Suni Williams returned to Kennedy Space Center on Tuesday as their much-delayed flight to the International Space Station aboard Boeing&#8217;s CST-100 Starliner looks like it may finally happen Saturday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/nation-world-news/nasa-astronauts-return-to-space-coast-ahead-of-starliner-launch/>
+
+---
+
+## Study: Food insecurity is widespread in Hawaii
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>More than 40% of Big Island households didn&#8217;t know where their next meal would come from in 2023, according to a study by the Hawaii Foodbank.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/hawaii-news/study-food-insecurity-is-widespread-in-hawaii/>
+
+---
+
+## Trial date set for Carlton Inada in death of Barbara Klein
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>A 72-year-old Hilo man accused of the hit-and-run death of a 79-year-old Hilo woman in October has a trial date of Aug. 19.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/obituaries/trial-date-set-for-carlton-inada-in-death-of-barbara-klein/>
+
+---
+
+## Josh Gibson is new batting leader as MLB updates records
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>It has been an article of faith for nearly a century, as if chiseled onto a tablet by Abner Doubleday himself: The leading hitter in major league history is Tyrus Raymond Cobb.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/sports/josh-gibson-is-new-batting-leader-as-mlb-updates-records/>
+
+---
+
+## HH’s Cook nabs NCAA scholarship
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>INDIANAPOLIS, Indiana &#8211; Hawaii Hilo baseball&#8217;s Mason Cook was selected as one of 46 student-athletes to receive an NCAA Division II 50th Anniversary Scholarship as announced at the Division II National Championships Festival in Orlando, Florida.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/sports/hhs-cook-nabs-ncaa-scholarship/>
+
+---
+
+## Its future in doubt, the freewheeling ‘Inside the NBA’ is on edge instead
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>MINNEAPOLIS &#8212; The future of &#8220;Inside the NBA&#8221; was already a sensitive topic when Charles Barkley stepped into an elevator in Minneapolis after Game 2 of the Western Conference finals late Friday. Barkley&#8217;s on-air candor as an analyst is a key reason that the studio show has become so influential and beloved among basketball fans and around the league.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/sports/its-future-in-doubt-the-freewheeling-inside-the-nba-is-on-edge-instead/>
+
+---
+
+## Celtics ‘not sure’ if Kristaps Porzingis will be ready for Game 1
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>Boston Celtics star Kristaps Porzingis has &#8220;ramped it up&#8221; in workouts but coach Joe Mazzulla said Wednesday he&#8217;s &#8220;not sure&#8221; if the 7-foot-2 forward will be ready for the NBA Finals opener.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/sports/celtics-not-sure-if-kristaps-porzingis-will-be-ready-for-game-1/>
+
+---
+
+## Biles eyes ninth all-around title at U.S. championships
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) - Simone Biles enters this weekend&#8217;s U.S. Gymnastics Championships as the favorite to claim yet another all-around title as the sport&#8217;s most dominant force continues to build momentum ahead of the Paris Olympics.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/sports/biles-eyes-ninth-all-around-title-at-u-s-championships/>
+
+---
+
+## 49ers, receiver Jauan Jennings agree to 2-year, $15.4 million extension: Source
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>The San Francisco 49ers and receiver Jauan Jennings agreed to a two-year, $15.4 million deal, including $10.5 million guaranteed, league sources confirmed Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/sports/49ers-receiver-jauan-jennings-agree-to-2-year-15-4-million-extension-source/>
+
+---
+
+## Scheffler freed of charges arising from Louisville arrest
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>Charges against world number one golfer Scottie Scheffler stemming from his arrest before the second round of the PGA Championship in Louisville, Kentucky, two weeks ago were dropped on Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/sports/scheffler-freed-of-charges-arising-from-louisville-arrest/>
+
+---
+
+## Local Fierro wins Tahiti Pro to boost French Olympic medal hopes
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; Local wildcard Vahine Fierro won the Shisheido Tahiti Pro in pumping surf at her home break of Teahupo&#8217;o on Wednesday, establishing herself as favourite for Olympic gold when the Paris 2024 Games kicks off at the same venue in two months.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/sports/local-fierro-wins-tahiti-pro-to-boost-french-olympic-medal-hopes/>
+
+---
+
+## Ortiz-Strauss inks college signature
+
+date: 2024-05-30, from: Hawaii Tribune Harold
+
+
+				<p>KEALAKEKUA &#8212; Konawaena wrestling hosted another collegiate signing day for the second straight week on Wednesday in Ellison Onizuka Gymnasium &#8212; but this time, the second girls wrestler in program history inked her signature.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/05/30/sports/ortiz-strauss-inks-college-signature/>
+
+---
+
+## Guam senators set to vote on power credit program's six-month extension 
+
+date: 2024-05-30, from: Pacific Island Times
+
+By Pacific Island Times News Staff Guam ratepayers would get more relief if a bill extending the power credit program is signed into law.... 
+
+<https://www.pacificislandtimes.com/post/guam-senators-set-to-vote-on-power-credit-program-s-six-month-extension>
+
+---
+
+## PSS goes solar
+
+date: 2024-05-30, from: Marshal Islands Journal
+
+<p>A new “solar car park” is in the process of installation at the Public School System parking area in Delap. It’s funded by the Taiwan Embassy and supplied by Speedtech Energy, a Taiwan-based solar company. Local company Green Energy Solutions is the contractor, collaborating with Speedtech, National Energy Office and PSS for local installation and [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/pss-goes-solar/">PSS goes solar</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/pss-goes-solar/>
+
+---
+
+## Judge denies pretrial release for suspect charged in fatal stabbing
+
+date: 2024-05-30, from: Guam Daily Post
+
+A man suspected in a fatal stabbing in Mangilao was denied a request to be released from prison pending trial. 
+
+<https://www.postguam.com/news/local/judge-denies-pretrial-release-for-suspect-charged-in-fatal-stabbing/article_fcf64444-1e1f-11ef-b9eb-13f84b287a09.html>
+
+---
+
+## Older man found 'floating but not moving' off Tumon
+
+date: 2024-05-30, from: Guam Daily Post
+
+An elderly male who "was floating but not moving" was pulled from the shores of Tumon on Wednesday afternoon. 
+
+<https://www.postguam.com/news/local/older-man-found-floating-but-not-moving-off-tumon/article_738f80ca-1e11-11ef-bf48-af5ad73a7aed.html>
+
+---
+
+## Wood Bat baseball playoffs begin Saturday
+
+date: 2024-05-30, from: Guam Daily Post
+
+Currently, with the 2024 Spring Amateur Wood Bat Baseball League, Guam Amateur Baseball Association is ending its 11th season. The single-elimination playoffs will feature amateur fall league champion Kings, No. 2-seeded Chalan Pago Affiliates, Cardinals, Angels and Amigos fill out… 
+
+<https://www.postguam.com/sports/local/wood-bat-baseball-playoffs-begin-saturday/article_14d1ab1e-1e0a-11ef-a547-3fd750c786bc.html>
+
+---
+
+## Walking football entices soccer players
+
+date: 2024-05-30, from: Guam Daily Post
+
+Interested in trying something new, Barb Sana enlisted her friend Resa Saddo to join her when she saw an opportunity to try walking football as part of Guam Football Association’s AFC Grassroots Football Day celebration Saturday at the Guam Football… 
+
+<https://www.postguam.com/sports/local/walking-football-entices-soccer-players/article_bb39c088-1e03-11ef-9f2a-cbb5751728c4.html>
+
+---
+
+## Blas, Lombard win gold in Nimitz Loop
+
+date: 2024-05-30, from: Guam Daily Post
+
+Last Sunday was a beautiful morning for fun and fast racing, as the Guam Cycling Federation Nimitz Hill Loop Road Race challenged cyclists of varying abilities in the recreational, leg-burner, and elite divisions. Each 8-mile lap, which took place on… 
+
+<https://www.postguam.com/sports/local/blas-lombard-win-gold-in-nimitz-loop/article_2f93916e-1e10-11ef-b41c-ab990767eca3.html>
+
+---
+
+## Hågat marina rehab complete
+
+date: 2024-05-30, from: Guam Daily Post
+
+The Agat Marina has served the community for many years and for many it holds a special place in their hearts, according to Port Authority of Guam General Manager Rory Respicio, who unveiled the rehabilitated Dock B and other upgrades… 
+
+<https://www.postguam.com/news/local/h-gat-marina-rehab-complete/article_1b356638-1e1b-11ef-b191-8b77e9844ae1.html>
+
+---
+
+## GDOE Special Education works to maximize support staff needs
+
+date: 2024-05-30, from: Guam Daily Post
+
+The Guam Department of Education Special Education Division reported "good news" to the Legislature's committee on education last week, with the extension of critical support staff and the maximization of support staff resources. 
+
+<https://www.postguam.com/news/local/gdoe-special-education-works-to-maximize-support-staff-needs/article_c9dca0b6-1e1b-11ef-a4f3-b769f45934d0.html>
+
+---
+
+## Amended energy credit bill to bring 6-month relief if enacted
+
+date: 2024-05-30, from: Guam Daily Post
+
+An amendment to Bill 277-37 that passed Thursday on the legislative session floor could bring six months of energy credits to Guam Power Authority ratepayers. 
+
+<https://www.postguam.com/news/local/amended-energy-credit-bill-to-bring-6-month-relief-if-enacted/article_99568cbc-1e49-11ef-b883-3bff6364d244.html>
+
+---
+
+## Man on pretrial release allegedly assaults woman, damages car
+
+date: 2024-05-30, from: Guam Daily Post
+
+A man on pretrial release in a 2022 burglary case is facing new charges related to allegedly assaulting a woman and damaging her car. 
+
+<https://www.postguam.com/news/local/man-on-pretrial-release-allegedly-assaults-woman-damages-car/article_e0a9fe36-1e36-11ef-9875-8b35b79ef0af.html>
+
+---
+
+## Man charged with drug possession is person of interest in Maite carjacking
+
+date: 2024-05-30, from: Guam Daily Post
+
+A man wanted for questioning related to a carjacking in March at the Maite Mobil gas station was arrested and charged last week in connection to methamphetamine possession. 
+
+<https://www.postguam.com/news/local/man-charged-with-drug-possession-is-person-of-interest-in-maite-carjacking/article_050dcd2a-1e19-11ef-9ef9-b738388cfa6e.html>
+
+---
+
+## The historical significance of Ratu Sir Lala Sukuna
+
+date: 2024-05-30, from: University of the South Pacific (Fiji)
+
+<p>Ratu Sir Josefa Lalabalavu Sukuna is an inspiring figure in Fijian history who embodies the...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/the-historical-significance-of-ratu-sir-lala-sukuna/">The historical significance of Ratu Sir Lala Sukuna</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/the-historical-significance-of-ratu-sir-lala-sukuna/>
+
+---
+
+## Chief Hurao Academy seeks charter school status
+
+date: 2024-05-30, from: Guam Daily Post
+
+The room was packed with parents, teachers and students of Chief Hurao Academy, as the Guam Academy Charter Schools Council opened the floor for testimony on the request to turn Chief Hurao into a charter school. 
+
+<https://www.postguam.com/news/local/chief-hurao-academy-seeks-charter-school-status/article_7deb5e68-1e1b-11ef-ab1a-fb4aefdfb94d.html>
+
+---
+
+## High-level LDS visitor
+
+date: 2024-05-30, from: Marshal Islands Journal
+
+<p>WILMER JOEL A high-level visitor from the Church of Jesus Christ of Latter-day Saints has not been to the Marshall Islands since 2011. This reality was brought home during Apostle Elder Quentin L. Cook&#8217;s two-day visit to Ebeye and Majuro last week.Cook is the second apostle from the Quorum of the Twelve to visit the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/high-level-lds-visitor/">High-level LDS visitor</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/high-level-lds-visitor/>
+
+---
+
+## Sulfur molecules from space seeded early life on Earth
+
+date: 2024-05-30, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> These organic molecules were created in laboratory simulations that mimic the conditions of interstellar ices found in space.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/29/sulfur-molecules-from-space/">Sulfur molecules from space seeded early life on Earth</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/29/sulfur-molecules-from-space/>
+
+---
+
+## Cuba to Florida swim made possible by UH researcher’s jellyfish cream
+
+date: 2024-05-30, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Angel Yanagihara played a vital role in developing a cream aimed at preventing box jellyfish stings, a crucial concern for Diana Nyad during her swim.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/29/nyad-jellyfish-cream/">Cuba to Florida swim made possible by <abbr>UH</abbr> researcher’s jellyfish cream</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/29/nyad-jellyfish-cream/>
+
+---
+
+## $11.7M grant renewal advances diabetes research in Hawaiʻi
+
+date: 2024-05-30, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>JABSOM</abbr>’s Diabetes Research Center will use the grant renewal to continue critical research.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/29/grant-renewal-diabetes-research/">$11.7M grant renewal advances diabetes research in Hawaiʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/29/grant-renewal-diabetes-research/>
+
+---
+
+## Underwood: Guam faces housing, cultural and economic insecurities in exchange for military security 
+
+date: 2024-05-30, from: Pacific Island Times
+
+By Jayvee Vallejera Former Guam Delegate Robert A. Underwood has drawn attention to some of the fallout arising from the U.S. military’s... 
+
+<https://www.pacificislandtimes.com/post/underwood-guam-faces-housing-cultural-and-economic-insecurities-in-exchange-for-military-security>
+
+---
+
+## US highlights commitment to small island communities at conference
+
+date: 2024-05-29, from: Pacific Island Times
+
+St.  John's, Antigua and Barbuda (DOI) — The U.S. government is committed to advancing a bold and timely global response to the climate... 
+
+<https://www.pacificislandtimes.com/post/us-highlights-commitment-to-small-island-communities-at-conference>
+
+---
+
+## Top honors for UH Mānoa STEM scholars, JABSOM epigeneticist
+
+date: 2024-05-29, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>ARCS</abbr> Foundation Honolulu awarded $110,000 to 16 scholars.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/29/top-honors-arcs-scholars-2024/">Top honors for <abbr>UH</abbr> Mānoa <abbr>STEM</abbr> scholars, <abbr>JABSOM</abbr> epigeneticist</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/29/top-honors-arcs-scholars-2024/>
+
+---
+
+## NRC backs animal program
+
+date: 2024-05-29, from: Marshal Islands Journal
+
+<p>KAREN EARNSHAW The Ministry of Natural Resources and Commerce and the local non-profit organization RMI Love Animals have re-signed a Memorandum of Agreement to continue the partnership between the organization and the ministry. This includes a significant contribution of $30,000 for vet-related needs. RMI Love Animals&#8217; advisor Prue Palmer told the Journal that “under the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/nrc-backs-animal-program/">NRC backs animal program</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/nrc-backs-animal-program/>
+
+---
+
+## AI-powered wildfire forecast system for Hawaiʻi is goal of UH researchers
+
+date: 2024-05-29, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The team will work together to improve the state’s existing forecast system, which currently uses data from a single station at the Honolulu airport.</p>
+The post <a href="https://www.hawaii.edu/news/2024/05/29/ai-powered-wildfire-forecast-system/"><abbr>AI</abbr>-powered wildfire forecast system for Hawaiʻi is goal of <abbr>UH</abbr> researchers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/05/29/ai-powered-wildfire-forecast-system/>
 
 ---
 
@@ -393,6 +996,56 @@ date: 2024-05-29, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/05/29/sports/djokovic-and-sabalenka-ease-through-on-rain-hit-day-at-french-open/>
+
+---
+
+## AG seeks 45 years for carjacking convict
+
+date: 2024-05-29, from: Guam Daily Post
+
+The Office of the Attorney General will be seeking a 45-year prison sentence for a man found guilty of a carjacking at Oka Pay-Less supermarket earlier this year. 
+
+<https://www.postguam.com/news/local/ag-seeks-45-years-for-carjacking-convict/article_62dd7faa-1d50-11ef-b987-934de82639ff.html>
+
+---
+
+## Sked is resentenced to life for 2021 Humåtak mayor murder
+
+date: 2024-05-29, from: Guam Daily Post
+
+Joyner Sked was resentenced to life imprisonment for charges related to the 2021 death of former Humåtak Mayor Daniel Sanchez. 
+
+<https://www.postguam.com/news/local/sked-is-resentenced-to-life-for-2021-hum-tak-mayor-murder/article_c6d8c16e-1d59-11ef-9bae-e78eb3f7bcfd.html>
+
+---
+
+## Temporary power units now on Guam
+
+date: 2024-05-29, from: Guam Daily Post
+
+The temporary generation units from Aggreko have arrived on Guam and are in the process of clearing customs at the Port Authority of Guam, with plans to transport the units to their designated site in Yigo this week, according to… 
+
+<https://www.postguam.com/news/local/temporary-power-units-now-on-guam/article_d575b15c-1d70-11ef-b4d7-2f0ca45dc060.html>
+
+---
+
+## Senators discuss bill to reduce  projected GWA rate increases
+
+date: 2024-05-29, from: Guam Daily Post
+
+Lawmakers have now moved on to addressing various financial measures as they press on with session, with the discussion on Wednesday morning centering on Bill 274-37. 
+
+<https://www.postguam.com/news/local/senators-discuss-bill-to-reduce-projected-gwa-rate-increases/article_4fbbfeae-1d4d-11ef-b660-e7530a9e96a4.html>
+
+---
+
+## Suspect allegedly invades home, stabs woman with kitchen knife
+
+date: 2024-05-29, from: Guam Daily Post
+
+ 
+
+<https://www.postguam.com/news/local/suspect-allegedly-invades-home-stabs-woman-with-kitchen-knife/article_f4b07132-1d49-11ef-bf7f-93a337f1b9e3.html>
 
 ---
 
@@ -832,6 +1485,86 @@ date: 2024-05-28, from: Island Times
 
 ---
 
+## Candidates talk issues in forum
+
+date: 2024-05-28, from: Guam Daily Post
+
+Senatorial and congressional hopefuls gathered Tuesday at the Hyatt Regency Guam in Tumon for a primary candidates' forum hosted by the Guam Women's Chamber of Commerce and the Guam Hotel and Restaurant Association. 
+
+<https://www.postguam.com/news/local/candidates-talk-issues-in-forum/article_cbb9ec72-1cae-11ef-bb01-6f755e37dbc6.html>
+
+---
+
+## 17 schools pass inspection, 20 pending
+
+date: 2024-05-28, from: Guam Daily Post
+
+As of May 17, the Guam Department of Education said 17 schools have passed sanitary inspection, two of which were schools that were faced with many challenges. 
+
+<https://www.postguam.com/news/local/17-schools-pass-inspection-20-pending/article_210ca2f2-1be5-11ef-b354-13425b94e6da.html>
+
+---
+
+## CCU approves maintaining LEAC
+
+date: 2024-05-28, from: Guam Daily Post
+
+The Consolidated Commission on Utilities has authorized the Guam Power Authority to ask the Public Utilities Commission to keep the Levelized Energy Adjustment Clause at the same rate from August 2024 through January 2025. 
+
+<https://www.postguam.com/news/ccu-approves-maintaining-leac/article_ea78bec0-1cc4-11ef-8db7-e7b0ac6b619d.html>
+
+---
+
+## Castle doctrine, sewage change bills fail to make session agenda
+
+date: 2024-05-28, from: Guam Daily Post
+
+As promised during a Committee on Rules meeting earlier in May, Sens. Chris Duenas and William Parkinson attempted to place bills about changes to Guam's sewage laws and an expansion to the island's castle doctrine law onto the agenda as… 
+
+<https://www.postguam.com/news/local/castle-doctrine-sewage-change-bills-fail-to-make-session-agenda/article_d52dd7be-1ca4-11ef-8921-5764533888a4.html>
+
+---
+
+## Nori Lounge rape trial delayed
+
+date: 2024-05-28, from: Guam Daily Post
+
+A judge ruled on a couple of motions in a sexual assault case, which resulted in a delay in trial. 
+
+<https://www.postguam.com/news/local/nori-lounge-rape-trial-delayed/article_af5e895a-1c8d-11ef-8882-db30dc803456.html>
+
+---
+
+## GPD promotes 23 new sergeants
+
+date: 2024-05-28, from: Guam Daily Post
+
+Twenty-three Guam Police Department officers were promoted to sergeant last week during a ceremony at the Dusit Thani Guam Resort. 
+
+<https://www.postguam.com/news/local/gpd-promotes-23-new-sergeants/article_d9db2b7e-1c93-11ef-8f46-3f7c17cfe2df.html>
+
+---
+
+## Serebour found guilty of Pay-Less carjacking, not guilty of using gun
+
+date: 2024-05-28, from: Guam Daily Post
+
+A man was found guilty of a carjacking at the Oka Pay-Less supermarket in March, however, he was found not guilty of using a firearm. 
+
+<https://www.postguam.com/news/local/serebour-found-guilty-of-pay-less-carjacking-not-guilty-of-using-gun/article_719a777c-1cac-11ef-99c9-333227d35f5b.html>
+
+---
+
+## Female detainee accused of attempted escape from DOC
+
+date: 2024-05-28, from: Guam Daily Post
+
+A female detainee was accused of trying to escape from prison earlier this month. 
+
+<https://www.postguam.com/news/local/female-detainee-accused-of-attempted-escape-from-doc/article_e7c4c018-1c8b-11ef-9d05-83790766012d.html>
+
+---
+
 ## Guam to Host 26th Micronesian Islands Forum, Palau President to Skip Meeting
 
 date: 2024-05-28, from: Island Times
@@ -1060,6 +1793,16 @@ date: 2024-05-28, from: Island Times
 
 ---
 
+## Governor's chief adviser on fiscal discipline has died
+
+date: 2024-05-28, from: Guam Daily Post
+
+Bertha Duenas, the woman who served as chief adviser on fiscal discipline for the governor, has died. 
+
+<https://www.postguam.com/news/governors-chief-adviser-on-fiscal-discipline-has-died/article_99e7cf2e-1cbe-11ef-99d3-9732f85a2ee0.html>
+
+---
+
 ## Paving the way for a community Invertebrate Fisheries Survey
 
 date: 2024-05-28, from: University of the South Pacific (Fiji)
@@ -1190,6 +1933,16 @@ date: 2024-05-27, updated: 2024-05-28, from: Marianas Variety
 THE CNMI faces a significant public health challenge with high rates of type 2 diabetes, a condition that poses serious health risks and economic burdens. The prevalence of this disease underscores the urgent need for effective management strategies. 
 
 <https://www.mvariety.com/sports/localsports/fighting-diabetes-through-exercise-and-nutrition/article_d889f8fa-1c2e-11ef-a51d-a71645bec46d.html>
+
+---
+
+## Memorial Day Ceremony honors fallen heroes
+
+date: 2024-05-27, from: Guam Daily Post
+
+Flags waved in the wind on Monday, as a solemn Memorial Day ceremony was held at the Veterans Cemetery in Piti to honor the memory of these fallen heroes. The flags, according to Gov. Lou Leon Guerrero, represent a promise… 
+
+<https://www.postguam.com/news/memorial-day-ceremony-honors-fallen-heroes/article_84ffc00c-1c06-11ef-8826-0b5fab046be7.html>
 
 ---
 
@@ -1409,6 +2162,96 @@ date: 2024-05-27, from: Hawaii Tribune Harold
 
 ---
 
+## Guam taking part in UN conference on Small Island Developing States
+
+date: 2024-05-27, from: Guam Daily Post
+
+The Local2030 Islands Network, of which Guam is a founding member, will host its third Leaders' Summit at the United Nations' 4th International Conference on Small Island Developing States, or SIDS4, on May 29 in the Caribbean nation of Antigua… 
+
+<https://www.postguam.com/news/local/guam-taking-part-in-un-conference-on-small-island-developing-states/article_ccf3c30e-1bc5-11ef-b039-afdc73024a61.html>
+
+---
+
+## National champions made at track and field meet
+
+date: 2024-05-27, from: Guam Daily Post
+
+With the 2024 Oceania Athletics Championships and the 10th Micronesian Games slated for later this summer, the Guam Track and Field Association 2024 National Championship Meet on Sunday afforded athletes a chance to fine-tune their strategies and try to produce… 
+
+<https://www.postguam.com/sports/local/national-champions-made-at-track-and-field-meet/article_0179c0aa-1bb3-11ef-b336-3b0c619d1b1b.html>
+
+---
+
+## Repwak appointed new attorney for 4 separate cases
+
+date: 2024-05-27, from: Guam Daily Post
+
+An alleged gang leader suspected in several violent incidents in recent months was appointed a new attorney to represent him. 
+
+<https://www.postguam.com/news/local/repwak-appointed-new-attorney-for-4-separate-cases/article_201ef3f8-1bd7-11ef-98a4-174cc154a96b.html>
+
+---
+
+## Jury in deliberations for carjacking trial
+
+date: 2024-05-27, from: Guam Daily Post
+
+A jury of 12 is currently deliberating whether a man accused of a carjacking in Tamuning earlier this year will be found guilty or not guilty of the charges. 
+
+<https://www.postguam.com/news/local/jury-in-deliberations-for-carjacking-trial/article_645b6842-1bd4-11ef-b5e7-8bd0c7032dac.html>
+
+---
+
+## GVB: Seoul ‘Color of Guam’ pop-up expands ‘reach to new audiences’
+
+date: 2024-05-27, from: Guam Daily Post
+
+The Guam Visitors Bureau represented Guam in its inaugural “Color of Guam” pop-up event in South Korea, providing a “unique glimpse” into what Guam has to offer the Korean market. 
+
+<https://www.postguam.com/news/local/gvb-seoul-color-of-guam-pop-up-expands-reach-to-new-audiences/article_487bfcca-1bcc-11ef-a10f-3f31ac776858.html>
+
+---
+
+## Lee dominates Fujii in ITF singles final
+
+date: 2024-05-27, from: Guam Daily Post
+
+After two weeks of hard-hitting action, the second of two 2024 Citadel Guam World Tour J60 Dededo junior tennis tournaments wrapped up Sunday afternoon at the Guam National Tennis Center in Dededo. 
+
+<https://www.postguam.com/sports/local/lee-dominates-fujii-in-itf-singles-final/article_e5f75d60-1ba8-11ef-9e39-1f74fabdd582.html>
+
+---
+
+## Man accused of attempting to stab minor
+
+date: 2024-05-27, from: Guam Daily Post
+
+A 22-year-old man was accused of threatening residents at a Barrigada apartment with a knife. 
+
+<https://www.postguam.com/news/local/man-accused-of-attempting-to-stab-minor/article_28d1c96a-1bbb-11ef-b7e5-eb2ae60a8c24.html>
+
+---
+
+## BRIP suspended, psychologists concerned over GDOE pay cuts
+
+date: 2024-05-27, from: Guam Daily Post
+
+One by one, Guam Department of Education school psychologists aired their frustrations over the suspension of the Bonuses, Rewards and Incentives Program, or BRIP. 
+
+<https://www.postguam.com/news/local/brip-suspended-psychologists-concerned-over-gdoe-pay-cuts/article_550cc97a-1982-11ef-b0a5-7f83aad7b965.html>
+
+---
+
+## Amendment 'could pave the way' for Agent Orange compensation
+
+date: 2024-05-27, from: Guam Daily Post
+
+ 
+
+<https://www.postguam.com/news/local/amendment-could-pave-the-way-for-agent-orange-compensation/article_c7b7498e-1bce-11ef-a924-37f0dfe1ddaa.html>
+
+---
+
 ## USP represented at the 7th FALAH project workshop
 
 date: 2024-05-27, from: University of the South Pacific (Fiji)
@@ -1475,4 +2318,94 @@ date: 2024-05-26, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/05/26/hawaii-news/hpp-lot-owner-said-to-be-seeking-nearly-1-4m/>
+
+---
+
+## ‘Doodle for Google’ Guam winner advances to national competition
+
+date: 2024-05-26, from: Guam Daily Post
+
+Merizo Martyrs Memorial School student Isaiah Charles San Nicolas hopes for a future filled with plants. That vision was shared in a drawing that was chosen to represent Guam in the 16th annual "Doodle for Google" competition, which is now… 
+
+<https://www.postguam.com/news/local/doodle-for-google-guam-winner-advances-to-national-competition/article_2f8083c2-1aef-11ef-ab66-6fff0f824a00.html>
+
+---
+
+## 1-2 typhoons predicted for Marianas before end of year
+
+date: 2024-05-26, from: Guam Daily Post
+
+The tropical cyclone outlook for the Pacific islands looks favorable, with the likelihood of storms decreasing for the rest of the year. 
+
+<https://www.postguam.com/news/local/1-2-typhoons-predicted-for-marianas-before-end-of-year/article_3f5ea146-1a3d-11ef-b479-a7e284437976.html>
+
+---
+
+## Swanson: Double sessions may end middle of next school year
+
+date: 2024-05-26, from: Guam Daily Post
+
+During a legislative oversight hearing on Friday, the Guam Department of Education touched on a number of efforts that could see some students returning to their home campuses and ending double sessions. 
+
+<https://www.postguam.com/news/local/swanson-double-sessions-may-end-middle-of-next-school-year/article_884e4130-1af7-11ef-b3bd-1310e83761f8.html>
+
+---
+
+## Bisita Luta
+
+date: 2024-05-26, from: Guam Daily Post
+
+ 
+
+<https://www.postguam.com/entertainment/bisita-luta/article_101ebecc-1ae0-11ef-8f54-7fb53599441a.html>
+
+---
+
+## Daunting challenges make Ronja Steinbach tick
+
+date: 2024-05-26, from: Guam Daily Post
+
+As eight other endurance athletes were still pushing their bodies to the limit and beyond in the Guam Running Club Perimeter Relay and Ultramarathon, 23-year-old Ronja Steinbach had finished the race nearly two hours earlier and was already surrounded by… 
+
+<https://www.postguam.com/sports/local/daunting-challenges-make-ronja-steinbach-tick/article_9c0177b0-1ad9-11ef-98e1-977b6bae64b2.html>
+
+---
+
+## GDOE on rightsizing: Rezoning is more likely than school closures
+
+date: 2024-05-26, from: Guam Daily Post
+
+The largest endeavor of the Guam Department of Education is the rightsizing of the district, which initially involved the consolidation of student populations with the decommissioning of select schools. But, according to education officials, rezoning is more of a possibility. 
+
+<https://www.postguam.com/news/local/gdoe-on-rightsizing-rezoning-is-more-likely-than-school-closures/article_9773dbf6-1a35-11ef-a861-97fad1c64509.html>
+
+---
+
+## Man allegedly threatens to blow up ITC building with self inside
+
+date: 2024-05-26, from: Guam Daily Post
+
+A magistrate's complaint filed in the Superior Court of Guam against Juan Nathan Rios provided more insight into what reportedly transpired the day he allegedly made statements that the International Trade Center was going to “blow up.” 
+
+<https://www.postguam.com/news/local/man-allegedly-threatens-to-blow-up-itc-building-with-self-inside/article_d8cd2bb8-1af6-11ef-b6f1-672acbb07fd0.html>
+
+---
+
+## Former employee is accused of assault in restaurant disturbance
+
+date: 2024-05-26, from: Guam Daily Post
+
+A former King’s restaurant employee has been charged with assault after he allegedly damaged restaurant property and threatened the life of an individual over a missing phone. 
+
+<https://www.postguam.com/news/local/former-employee-is-accused-of-assault-in-restaurant-disturbance/article_3fce0ef4-1af7-11ef-b5fd-cb546b3e1450.html>
+
+---
+
+## Man, allegedly drunk, scares Dededo family from slumber
+
+date: 2024-05-26, from: Guam Daily Post
+
+Members of a family in Dededo received quite the scare early Thursday morning as they thought someone was attempting to break into their home. 
+
+<https://www.postguam.com/news/local/man-allegedly-drunk-scares-dededo-family-from-slumber/article_52f610cc-1af6-11ef-994b-bf694e53b81a.html>
 

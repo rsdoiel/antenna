@@ -1,11 +1,473 @@
 ---
 title: columns 2024.22
-updated: 2024-05-29 10:54:51
+updated: 2024-05-30 11:07:34
 ---
 
 # columns 2024.22
 
-(date: 2024-05-29 10:54:51)
+(date: 2024-05-30 11:07:34)
+
+---
+
+##  AI Is a False God. &#8220;The idea that AI will lead us... 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044711-ai-is-a-false-god>
+
+---
+
+##  The Purpose of a System Is What It Does. &#8220;Driving change requires... 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044712-the-purpose-of-a-system>
+
+---
+
+##  &#8220;Planet of the Apes&#8221; Goes to a 70s Mall 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/planet-of-the-apes-goes-to-a-70s-mall>
+
+---
+
+## May 29, 2024
+
+date: 2024-05-30, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/may-29-2024-9c2>
+
+---
+
+##  Here&#8217;s a behind-the-scenes of Ayo Edebiri doing the voice for the Envy... 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044706-heres-a-behind-the-scenes>
+
+---
+
+## One Heck Of A Halvening
+
+date: 2024-05-30, from: David Rosenthal's blog
+
+The fundamental idea behind Bitcoin is that, if you restrict the supply of something, its price will rise. That is why the system arranges that there will only ever be 21 million Bitcoin by halving the reward paid for mining the next block every 210,000 blocks (about every four years), an event called the "halvening" (or more recently just the halving). It is an article of faith among the crypto-bros that, after the halvening, the price will rise. For <a href="https://bitbo.io/halving/">example</a>:<br />
+<blockquote>
+In the image below, the vertical blue lines indicate the previous three halvings (2012-11-28, 2016-7-9, and 2020-5-11). Note how the price has jumped significantly after each halving.<br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRqdsJlBVcWiktXb6QwgmcfXiPVvQlezuD2GwVtkhaQCCi6oJfleE2betgJGxe5VXQJC1G2f4krlGw9XEqHR0vjCz353Vg0hc1lNFTmDk3LyOLR1tMMnqYYzZX8wsWFPwABrAeT8gWcczn9jI26jT2aaSAlc-qQ-W2qxQE-znMIqpk0WZKGQfHG1IbFd-k/s756/bitbo.io.png" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="349" data-original-width="756" height="93" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRqdsJlBVcWiktXb6QwgmcfXiPVvQlezuD2GwVtkhaQCCi6oJfleE2betgJGxe5VXQJC1G2f4krlGw9XEqHR0vjCz353Vg0hc1lNFTmDk3LyOLR1tMMnqYYzZX8wsWFPwABrAeT8gWcczn9jI26jT2aaSAlc-qQ-W2qxQE-znMIqpk0WZKGQfHG1IbFd-k/w200-h93/bitbo.io.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://bitbo.io/halving/">Source</a></td></tr></tbody></table>
+</blockquote>
+The most recent halvening happened on Friday, April 19<sup>th</sup>. It was eagerly awaited so, six weeks later, it is time to go below the fold and look at the effects.<br />
+<span><a name='more'></a></span>
+<h3>Before</h3>
+Lets start back in October when the Bitcoin "price" was in the high $20Ks. This was a problem, because only the most efficient miners could make a profit at that "price". They could look out six months to see the looming halvening, which would mean that even the most efficient, with their income halved, would be losing a lot of money. Something needed to be done. By April the price needed to be at least in the mid $50Ks, or the Bitcoin mining industry would suffer a bloodbath.<br />
+<br />
+<table align="right" border="1" cellpadding="3" cellspacing="5" cols="5" rules="groups">
+<thead><tr><th>Date</th><th>USDT</th><th>Change</th><th>BTC</th><th>Change</th></tr>
+<tr><th>&nbsp;</th><th>10<sup>9</sup></th><th>10<sup>9</sup></th><th>$10<sup>3</sup></th><th>$10<sup>3</sup></th></tr>
+</thead><tbody>
+<tr><td align="right">10/01/23</td><td align="right">83.26</td><td align="right">0.38</td><td align="right">27,976</td><td align="right">2,175</td></tr>
+<tr><td align="right">11/01/23</td><td align="right">84.92</td><td align="right">1.66</td><td align="right">35.442</td><td align="right">7.466</td></tr>
+<tr><td align="right">12/01/23</td><td align="right">89.54</td><td align="right">4.62</td><td align="right">38.689</td><td align="right">3,247</td></tr>
+<tr><td align="right">01/01/24</td><td align="right">91.74</td><td align="right">2.20</td><td align="right">44.187</td><td align="right">5,498</td></tr>
+<tr><td align="right">02/01/24</td><td align="right">96.21</td><td align="right">4.47</td><td align="right">43.077</td><td align="right">-1,110</td></tr>
+<tr><td align="right">03/01/24</td><td align="right">99.26</td><td align="right">3.05</td><td align="right">62.432</td><td align="right">19,355</td></tr>
+<tr><td align="right">04/01/24</td><td align="right">104.70</td><td align="right">5.44</td><td align="right">69.705</td><td align="right">7,273</td></tr>
+<tr><td align="right">04/17/24</td><td align="right">109.03</td><td align="right">4.33</td><td align="right">61,275</td><td align="right">-8,430</td></tr>
+</tbody></table>
+Coincidentally, October was when Tether started printing USDT at a rate only before seen during the heady days of 2021. At the start of October there were 83B USDT, by the halvening there were 110B, 32.5% more.<br />
+<br />
+The extra supply of 27B USDT, whose primary function is to buy cryptocurrency, certainly created demand for Bitcoin, whose supply over the same period increased by only 0.95%. This excess of demand over supply, as the crypto-bros would have predicted increased the price. But by 149%, which might have been more than they predicted. Note that it peaked at $73,094 on March 13<sup>th</sup>, 35 days before the halvening, and has trended lower since.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLOlCwKKzFtPOF2-n9-jooIEWxCv9M8gyh_0Qs47LPmRVbAc7o6chzbm_dW-rNv4hRETS-WzdBHwPApZYIwMvpdrNiyDX_E7Y3H1Poq4kfkS5y8Tl_RJx3iK2-nToU8dT7bpP6PcyiHk3kDbMAaNxxYMjGsINrbU6CpaDthJFUp8Ww1bPdwYHmmApzxZwx/s1200/HashRate-052724.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="600" data-original-width="1200" height="100" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLOlCwKKzFtPOF2-n9-jooIEWxCv9M8gyh_0Qs47LPmRVbAc7o6chzbm_dW-rNv4hRETS-WzdBHwPApZYIwMvpdrNiyDX_E7Y3H1Poq4kfkS5y8Tl_RJx3iK2-nToU8dT7bpP6PcyiHk3kDbMAaNxxYMjGsINrbU6CpaDthJFUp8Ww1bPdwYHmmApzxZwx/w200-h100/HashRate-052724.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.blockchain.com/explorer/charts/hash-rate">Source</a></td></tr></tbody></table>
+This huge pump in the BTC "price" meant that the most efficient miners's margins went from scant to extortionate, and sucked in a whole lot of mining rigs that had been turned off as being uneconomic. In the graph of the 30-day moving average hash rate, the rate of increase is lower until around the start of the pump in October, then it increases as the pump takes hold. The earlier rate may represent the rate at which Bitmain can ship the latest rigs, the additional later rate probably represents re-activated older rigs.<br />
+<br />
+David Pan's <a href="https://www.bloomberg.com/news/articles/2024-04-11/bitcoin-miners-power-up-rigs-to-record-levels-as-halving-nears"><i>Bitcoin Miners Power Up Rigs to Record Levels Ahead of ‘Halving’</i></a> reported the mining surge a week before the halvening:<br />
+<blockquote>
+Bitcoin mining companies are boosting their cash reserves to cope with the negative impact from the halving through a variety of channels including running their operations at full capacity or expanding them to produce and sell more coins amid soaring Bitcoin prices in the latest rally.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3IaiX9sbFafEFNGICsl3ef9k5i6BGOB-FMB_vX8k5tgLCu3LLnkSSEkDO2Sv6ryWrYSouRf8V9sabrbI2llVYnilEjG7IJ1UQCBYIUhMRuouac6tq6EvgZ96pvBfz-IupVUG4Dgl4NwsGEzRZ3Dvn36qi3a7lFAuvTLNDovUizaRhoRGOos9V3rX_Zn8y/s811/MinersHodlings.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="442" data-original-width="811" height="109" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3IaiX9sbFafEFNGICsl3ef9k5i6BGOB-FMB_vX8k5tgLCu3LLnkSSEkDO2Sv6ryWrYSouRf8V9sabrbI2llVYnilEjG7IJ1UQCBYIUhMRuouac6tq6EvgZ96pvBfz-IupVUG4Dgl4NwsGEzRZ3Dvn36qi3a7lFAuvTLNDovUizaRhoRGOos9V3rX_Zn8y/w200-h109/MinersHodlings.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.coindesk.com/markets/2024/04/10/crypto-miners-run-down-bitcoin-inventory-to-3-year-low-in-a-strategic-pre-halving-move/">Source</a></td></tr></tbody></table>
+Omkar Godbole's <a href="https://www.coindesk.com/markets/2024/04/10/crypto-miners-run-down-bitcoin-inventory-to-3-year-low-in-a-strategic-pre-halving-move/"><i>Crypto Miners Run Down Bitcoin Inventory to 3-Year Low in a Strategic Pre-Halving Move</i></a> had more detail on how they were "boosting their cash reserves":<br />
+<blockquote>
+The number of bitcoin held by miners ... declined to 1.794 million BTC this week, the lowest since early 2021, according to data source CoinMetrics.<br />
+<br />
+The so-called miner balance has fallen by 27,000 since November, implying steady selling in the months leading up to the quadrennial mining reward halving.<br />
+...<br />
+The rally has allowed miners to take profits at higher prices and fund equipment upgrades to prepare for the reduced rewards rate, according to algorithmic trading firm Wintermute.<br />
+<br />
+"With miners' holdings still near an all-time high in USD terms ($124 billion), this sell-off appears to be a strategic move for profit-taking and operational upgrades, marking a behavioral change from the last cycle," Wintermute said in a weekly newsletter.
+</blockquote>
+Some miners, having ridden the hype around the halvening and cashed in their winnings, have pivoted to the probably more durable AI hype, as David Pan reported in <a href="https://www.bloomberg.com/news/articles/2024-05-08/bitcoin-miner-core-converts-data-center-infrastructure-for-ai"><i>Bitcoin Miner Core Scientific Converts Data Infrastructure for AI</i></a>:<br />
+<blockquote>
+The Austin, Texas-based company deployed 16-megawatt data-center capacity for AI startup CoreWeave Inc. and plans to convert more going forward. The move comes amid a slump in Bitcoin mining revenue and growing demand for data centers to host graphics processing units to power AI applications.
+</blockquote>
+<h3>After</h3>
+<table align="right" border="1" cellpadding="3" cellspacing="5" cols="5" rules="groups">
+<thead><tr><th>Date</th><th>USDT</th><th>Change</th><th>BTC</th><th>Change</th></tr>
+<tr><th>&nbsp;</th><th>10<sup>9</sup></th><th>10<sup>9</sup></th><th>$10<sup>3</sup></th><th>$10<sup>3</sup></th></tr>
+</thead><tbody>
+<tr><td align="right">04/19/24</td><td align="right">109.78</td><td align="right">0.75</td><td align="right">63,851</td><td align="right">2,576</td></tr>
+<tr><td align="right">04/26/24</td><td align="right">110.52</td><td align="right">0.74</td><td align="right">63,750</td><td align="right">-377</td></tr>
+<tr><td align="right">05/03/24</td><td align="right">110.83</td><td align="right">0.31</td><td align="right">62,891</td><td align="right">-859</td></tr>
+<tr><td align="right">05/10/24</td><td align="right">110.83</td><td align="right">0.00</td><td align="right">60,793</td><td align="right">-2098</td></tr>
+<tr><td align="right">05/17/24</td><td align="right">111.39</td><td align="right">0.56</td><td align="right">63,066</td><td align="right">2,273</td></tr>
+<tr><td align="right">05/24/24</td><td align="right">111.92</td><td align="right">0.53</td><td align="right">63,526</td><td align="right">460</td></tr>
+</tbody></table>
+What has happened since the halvening? Ten days after the event that was supposed to send the BTC "price" soaring Sidhartha Shukla wrote in <a href="https://www.bloomberg.com/news/articles/2024-04-30/bitcoin-on-pace-for-worst-month-since-ftx-crash-with-etf-demand-cooling"><i>Bitcoin Faces Worst Month Since FTX Crash With ETF Demand Cooling</i></a>:<br />
+<blockquote>
+The much-anticipated Bitcoin halving, a quadrennial event that reduces the supply of new coins in the market and historically acted as a price tailwind, had minimal impact since it happened on April 19.
+</blockquote>
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ3ycZyz3TLWvtOufk7tx2mUDYvHnIEwcxfOjNHd3J_tJfm-B5OqepyNCHDriX462GY8jcl0KU9L85-oh5zyoRSQn1Yvy-NEpnzb11hXFOY-uaOlEr5JvLfPcAhWuBM6wLJWhyjvmv8YvVEXIO0AUIyhwJ0O-J2A4Nu3660ZyoLBmpGxHsSjAWmnEDn46L/s1107/TradingVolumes.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="631" data-original-width="1107" height="114" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ3ycZyz3TLWvtOufk7tx2mUDYvHnIEwcxfOjNHd3J_tJfm-B5OqepyNCHDriX462GY8jcl0KU9L85-oh5zyoRSQn1Yvy-NEpnzb11hXFOY-uaOlEr5JvLfPcAhWuBM6wLJWhyjvmv8YvVEXIO0AUIyhwJ0O-J2A4Nu3660ZyoLBmpGxHsSjAWmnEDn46L/w200-h114/TradingVolumes.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.bloomberg.com/news/articles/2024-05-10/trading-on-centralized-crypto-exchanges-fell-for-first-time-in-seven-months">Source</a></td></tr></tbody></table>
+As the table shows, the flood of new Tethers dried up, and so the BTC price trended down. And, as Olga Kharif reported three weeks later, <a href="https://www.bloomberg.com/news/articles/2024-05-10/trading-on-centralized-crypto-exchanges-fell-for-first-time-in-seven-months"><i>Trading on Crypto Exchanges Fell for First Time in Seven Months</i></a>:<br />
+<blockquote>
+Spot trading volume on so-called centralized exchanges such as Coinbase Global, Binance and Kraken tumbled 32.6% to $2 trillion last month, according to data from researcher CCData. Derivatives trading volume also declined for the first time in seven months, falling by 26.1% to $4.57 trillion.
+</blockquote>
+Kharif's graph shows the trading frenzy triggered by the flood of new Tethers peaking in March.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLOlCwKKzFtPOF2-n9-jooIEWxCv9M8gyh_0Qs47LPmRVbAc7o6chzbm_dW-rNv4hRETS-WzdBHwPApZYIwMvpdrNiyDX_E7Y3H1Poq4kfkS5y8Tl_RJx3iK2-nToU8dT7bpP6PcyiHk3kDbMAaNxxYMjGsINrbU6CpaDthJFUp8Ww1bPdwYHmmApzxZwx/s1200/HashRate-052724.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="600" data-original-width="1200" height="100" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLOlCwKKzFtPOF2-n9-jooIEWxCv9M8gyh_0Qs47LPmRVbAc7o6chzbm_dW-rNv4hRETS-WzdBHwPApZYIwMvpdrNiyDX_E7Y3H1Poq4kfkS5y8Tl_RJx3iK2-nToU8dT7bpP6PcyiHk3kDbMAaNxxYMjGsINrbU6CpaDthJFUp8Ww1bPdwYHmmApzxZwx/w200-h100/HashRate-052724.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.blockchain.com/explorer/charts/hash-rate">Source</a></td></tr></tbody></table>
+As might have been expected, halving the miners' income even from its pumped-up level has started to force the less efficient players out. The hash rate graph is extremely noisy, with routine daily swings of more than 20%, but the graph of the 30-day moving average hash rate shows that it peaked about a week after the halvening, and a week later started a downward trend.<br />
+<br />
+It isn't just that the miners' income has been halved. It is also that their costs are rising, as David Pan's <a href="https://www.bloomberg.com/news/articles/2024-04-14/bitcoin-halving-will-deal-a-10-billion-blow-to-crypto-miners"><i>Bitcoin ‘Halving’ Will Deal a $10 Billion Blow to Crypto Miners</i></a> explains:<br />
+<blockquote>
+“Power in the US is extraordinarily constrained,” said Adam Sullivan, chief executive officer at Austin, Texas-based Core Scientific Inc., one of the largest public Bitcoin mining companies. “Right now, miners are competing against some of the largest tech companies in the world, who are trying to find space for data centers, which are high energy consumers too.”<br />
+<br />
+The nascent AI industry is drawing in massive amounts of capital, which is making it harder for miners to secure favorable electricity rates with utility companies. Amazon.com Inc. is set to spend almost $150 billion on data centers, while Blackstone is building a $25 billion empire of centers. Google Inc. and Microsoft Corp. are also making hefty investments.<br />
+<br />
+“The artificial intelligence crowd is willing to pay three or four times what Bitcoin miners were paying last year” for electricity, said David Foley, co-managing partner at Bitcoin Opportunity Fund, which has made investments in both public and private miners. That is happening across the globe, he said.<br />
+</blockquote>
+Of course, if the miners' break-even last year was around BTC=$25K, the halvening would put it at $50K. So now, at around $67K, the miners can afford to pay more for power, but not "three or four times" more. Pan points out another <a href="https://www.bloomberg.com/news/articles/2024-04-14/bitcoin-halving-will-deal-a-10-billion-blow-to-crypto-miners">problem for the miners</a>:<br />
+<blockquote>
+The tech giants also have an edge in acquiring power from utilities, given their consistent revenue stream, whereas crypto mining revenue fluctuates with the rise and fall in Bitcoin prices. Utilities consider tech companies as more reliable purchasers given their strong balance sheets, said Taras Kulyk, CEO at crypto-mining services provider SunnyDigital.<br />
+<br />
+With that competition in place, low-cost power contracts could be tougher to renew when existing agreements expire. Large-scale Bitcoin miners tend to lock in energy prices, typically for a few years, said Greg Beard, CEO of public Bitcoin miner Stronghold Digital Mining Inc.
+</blockquote>
+<h3>Transaction Fees</h3>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU_xqwWn92r2DZj3RPzPWO5yVvWbqu4yQ1eIrISLQlwddzwzQKOGncqOt-bD3UGXNwohMf3cmitAa4x_8mQM05PFj8MKsLPKsb6-puLNFBxZxIdVF4lnF86r2E9IqAKU10Lr1u_aZK5KVJHw1LHgFGtI6yV0HZbPAIGioy4l0SQpDGwhKX1bjdohCntAL8/s1200/fees-usd-per-transaction.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="600" data-original-width="1200" height="100" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU_xqwWn92r2DZj3RPzPWO5yVvWbqu4yQ1eIrISLQlwddzwzQKOGncqOt-bD3UGXNwohMf3cmitAa4x_8mQM05PFj8MKsLPKsb6-puLNFBxZxIdVF4lnF86r2E9IqAKU10Lr1u_aZK5KVJHw1LHgFGtI6yV0HZbPAIGioy4l0SQpDGwhKX1bjdohCntAL8/w200-h100/fees-usd-per-transaction.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.blockchain.com/explorer/charts/fees-usd-per-transaction">Source</a></td></tr></tbody></table>
+One might have expected a gradual decrease in the hash rate to start as soon as the supply of mining rewards was halved. Why did miners <i>increase</i> the hash rate after their block reward was halved? The answer is that there was a massive spike in transaction fees. A week before the  average fee had been $2.82. The day before the average fee was $19.09. On halvening day the average fee was $127, a 565% rise. A week later it was $4.42. These massive fee spikes caused when everyone wants to transact are inevitable given that Bitcoin is limited to around 7 transactions per second.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ9GgD-m6xq1hzxoQYFHdW4NNTWMI97KGcMVfroguU9KNeUc4Q8G4GtLlsJuUtk02lbTiJvPyIzbVmBfA6njY92QTYKHePzBouRGm6WYtUmprlsfR_3TUWaXYxoGZj_6xgc1kKC1fa1XhXNCxtlBW3yYjbPW6r8xHflAQ6So9AhQk5k61tzofHwaSgM0Lp/s936/SubsidyVsFee-042024.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="578" data-original-width="936" height="124" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ9GgD-m6xq1hzxoQYFHdW4NNTWMI97KGcMVfroguU9KNeUc4Q8G4GtLlsJuUtk02lbTiJvPyIzbVmBfA6njY92QTYKHePzBouRGm6WYtUmprlsfR_3TUWaXYxoGZj_6xgc1kKC1fa1XhXNCxtlBW3yYjbPW6r8xHflAQ6So9AhQk5k61tzofHwaSgM0Lp/w200-h124/SubsidyVsFee-042024.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://theminermag.com/news/2024-04-20/what-halving-bitcoin-hashprice-soar-two-year-highs/">Source</a></td></tr></tbody></table>
+The day of the halvening the miners made a total of $108M. This bonanza completely reversed the normal state of the Bitcoin blockchain, in which transactions are <a href="https://blog.dshr.org/2024/05/fee-only-bitcoin.html">around 95% subsidized</a> by inflating the currency with block rewards, to a state in which the block reward was less than 20% of the miners' income. As I discussed in <a href="https://blog.dshr.org/2024/05/fee-only-bitcoin.html"><i>Fee-Only Bitcoin</i></a>, this is close to the state Bitcoin will be in all the time after three more halvenings in 2036. I predict that the average fee then will be around $90/transaction, and that spikes could easily exceed $540/transaction.<br />
+<br />
+The explanation for the spike in fees lies in something else that deliberately coincided with the halvening which caused a huge surge in demand for transactions.  Joel Agbo's <a href="https://www.coingecko.com/learn/what-are-bitcoin-runes"><i>What Are Bitcoin Runes? Bringing Memecoins to Bitcoin</i></a> explains:<br />
+<blockquote>
+Casey Rodarmor, the creator of the Ordinals protocol that lets users create NFT-like inscriptions on the Bitcoin blockchain, is releasing Runes, a new protocol that lets users easily create tokens on top of Bitcoin like Solana and Ethereum. While the <a href="https://www.coingecko.com/learn/brc-20-tokens">BRC-20</a> and <a href="https://www.coingecko.com/learn/what-are-src-20-tokens-stamps-bitcoin">SRC-20</a> token standards already exist, these are based on Ordinals theory, which can result in UTXO proliferation that spam Bitcoin, <br />
+<br />
+In an attempt to create a healthier way of etching tokens on the Bitcoin network, <a href="https://rodarmor.com/blog/runes/">Rodarmor announced Runes in September 2023</a> and has been working on this since then. As the protocol nears its launch date, there is an increase in interest around Runes and what it could mean for Bitcoin.<br />
+<blockquote>
+<i>“Creating a good fungible token protocol for Bitcoin might bring significant transaction fee revenue, developer mindshare, and users to Bitcoin.”</i>
+<blockquote>
+- Casey Rodarmor, creator of Runes
+</blockquote></blockquote>
+Bitcoin Runes launchedon Block 840,000, following the Bitcoin halving in April 2024. The creator does not impact Bitcoin, although it adds to the excitement that follows the fourth Bitcoin halving. Rodarmor states that Bitcoin Runes’ simplicity and overall architecture will aid the primary reason for its development – the creation of fungible tokens on the Bitcoin blockchain. 
+</blockquote>
+TheMinerMag's <a href="https://theminermag.com/news/2024-04-20/what-halving-bitcoin-hashprice-soar-two-year-highs/"><i>Bitcoin Miners Bag $109M in Halving Day Rewards as Hashprice Soars to Two-Year Highs</i></a> summarizes what happened:<br />
+<blockquote>
+The soaring transaction fees resulted from on-chain users rushing to create meme-like tokens on bitcoin using the Rune protocol, which is similar to the ERC-20 standard for creating tokens on Ethereum.<br />
+<br />
+Although tokens created on Rune are fungible, the values are subject to speculations on <a href="https://www.coindesk.com/markets/2024/04/20/runes-protocol-launches-on-bitcoin-sending-fees-soaring-as-users-rush-to-mint-tokens/">various measures</a> such as how early they were created, the uniqueness and quality of their symbols, and the potential of being listed on exchanges.<br />
+<br />
+According to a Rune explorer, 1,750 Rune projects have been created as of writing, or as the protocol terms it, “etched.” For instance, some of the early “etched” projects are called “<a href="https://runealpha.xyz/runes/840004:6">MASSIVE•PILE•OF•SHIT</a>” or “<a href="https://runealpha.xyz/runes/840000:3">DOG•GO•TO•THE•MOON</a>“<br />
+<br />
+Because the protocol utilizes <a href="https://www.coingecko.com/learn/what-are-bitcoin-runes">bitcoin’s UTXO</a> (unspent transaction output) model, it creates a mechanism where a user’s transaction for a token issuance will first enter bitcoin’s mempool and will be successfully created after the transaction is confirmed.<br />
+<br />
+As bitcoin influencer Jimmy Song put it <a href="https://twitter.com/jimmysong/status/1781518918001078441">here</a>, explaining the current fee market dynamics, this mechanism also creates room for “squatters” to snipe a user’s creation by outbidding them using a higher fee.<br />
+<br />
+“Whichever comes first gets the symbol and the asset issuance. But if you want to squat on a good symbol name, you can just look for mempool transactions that are attempting to create a new asset and create your own with a bigger fee,” Song wrote.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDUsJ3BaUHo1UIyheiCLsFgshUyNU1usbPUNjrAWBiJBNBbRiq-etoY9KRC7-IBQFTLiimGdoe9myGFRp0mV3LmVkG9F1jMycTKmjDlIdlwlPtwR8-IIGz9ysSQBzpAOhtSOqLJSObBRwAHuhgjI4MNU7YN7OLAkrZI6bb6oPTsrRjHFB8TjkLKiJU9i-w/s1140/runes.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="497" data-original-width="1140" height="88" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDUsJ3BaUHo1UIyheiCLsFgshUyNU1usbPUNjrAWBiJBNBbRiq-etoY9KRC7-IBQFTLiimGdoe9myGFRp0mV3LmVkG9F1jMycTKmjDlIdlwlPtwR8-IIGz9ysSQBzpAOhtSOqLJSObBRwAHuhgjI4MNU7YN7OLAkrZI6bb6oPTsrRjHFB8TjkLKiJU9i-w/w200-h88/runes.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://runealpha.xyz/">Source</a></td></tr></tbody></table>
+This is another form of <a href="https://blog.dshr.org/2022/09/miners-extractable-value.html">Miner's Extractable Value</a> in Ethereum. But the sugar high didn't last, as Muyao Shen and María Paula Mijares Torres reported in <a href="https://www.bloomberg.com/news/articles/2024-04-29/bitcoin-miner-boosting-memecoins-allure-already-begins-to-wane"><i>Bitcoin Miner Boosting Memecoins Allure Already Begins to Wane</i></a>:<br />
+<blockquote>
+Just as the April 19 “halving” reduced the amount of tokens awarded to miners for validating transactions, network transaction fees jumped as users rushed to mint the speculative coins on Bitcoin for the first time. The process is enabled by the Rune protocol, through which people can create their own fungible tokens. Dune Analytics’ data shows that the total transactions in Runes dropped to around 45,700 on Monday from its peak at above 750,000 on April 23.<br />
+...<br />
+Since the protocol launch, Runes have generated 2,169 Bitcoin, or approximately $137 million, in fees, according to data compiled by Dune Analytics user cryptokoryo. The share of transactions related to Runes peaked on April 23, where it counted for 81% of all Bitcoin transactions.
+</blockquote>
+<br />
+$139M in 9 days to the miners for 71,381 memecoins, whose "market cap" according to <a href="https://runealpha.xyz/"><tt>runealpha.xyz</tt></a> is 55,765BTC ($3.8B) down 99.4%). If that is right, at one point the runes were "worth" $635B! What an amazing innovation that creates $635B out of thin air in a few days!<br />
+<h3>Tether</h3>
+There are two possible, not mutually exclusive, reasons for the flood of 27B USDT:<br />
+<ol type="A">
+<li>Speculators, believing that the halvening would send BTC moonwards, bought 27B newly created USDT with $27B USD. They used the 27B USDT to buy BTC, more than doubling the "price".</li>
+<li>Holders of BTC pledged it as collateral for loans of 27B newly created USDT from Tether. They used the 27B USDT to buy BTC, more than doubling the "price". They then sold half the newly doubled BTC for USDT, with which they repaid the loan. At the peak anyone who bought BTC between the beginning of the pump and November 11<sup>th</sup> November had more than doubled their money.</li>
+</ol>
+Case B is Tether's "magic money pump"; I wrote about it in 2020's <a href="https://blog.dshr.org/2020/12/stablecoins.html"><i>Stablecoins</i></a> pointing out that, among other research:<br />
+<blockquote>
+<a href="https://doi.org/10.1111/jofi.12903"><i>Is Bitcoin Really Untethered?</i></a> by John Griffin and Amit Shams shows that:<br />
+<blockquote>
+Rather than demand from cash investors, these patterns are most consistent with the supply‐based hypothesis of unbacked digital money inflating cryptocurrency prices. 
+</blockquote>
+Their paper was originally published in 2018 and updated in 2019 and 2020.
+</blockquote>
+<a href="https://arxiv.org/abs/2405.12768"><i>Ponzi Funds</i></a> by Philippe van der Beck, Jean-Philippe Bouchaud and Dario Villamaina describe a similar "magic money pump" in certain mutual funds whose holdings are concentrated, as BTC hodlers' are:<br />
+<blockquote>
+Flow-driven trading in these securities causes price pressure, which pushes up the funds' existing positions resulting in realized returns. We decompose fund returns into a price pressure (self-inflated) and a fundamental component and show that when allocating capital across funds, investors are unable to identify whether realized returns are self-inflated or fundamental. Because investors chase self-inflated fund returns at a high frequency, even short-lived impact meaningfully affects fund flows at longer time scales. The combination of price impact and return chasing causes an endogenous feedback loop and a reallocation of wealth to early fund investors, which unravels once the price pressure reverts.
+</blockquote>
+This effect mirrors that in Bitcoin. If, for example by wash trading or borrowing loan-backed USDT, HODL-ers can start a BTC price spike other speculators will join in and thus create an "endogenous feedback loop". In ETFs, van der Beck <i>et al</i> estimate that this effect reallocates $500M/day to earlier investors.<br />
+<br />
+I returned to the idea of "magic money pumps" in 2021's <a href="https://blog.dshr.org/2021/08/stablecoins-part-2.html"><i>Stablecoins Part 2</i></a> as news came out that the DoJ had a criminal investigation into Tether. Now, Amy Castor and David Gerard's <a href="https://amycastor.com/2024/05/14/tether-and-sanctions-whats-coming-for-paolos-beautiful-launderette/"><i>Tether and sanctions: what’s coming for Paolo’s beautiful launderette</i></a> discuss law enforcement's increasing pressure on Tether because of its use in rampant sanctions evasion. They list Islamic Jihad, Hamas, Venezuela's oil industry and Russia's war on Ukraine as being funded via Tether:<br />
+<blockquote>
+Chainalysis found that stablecoins like Tether were used in the vast majority of crypto-based scam transactions and sanctions evasion in 2023.<br />
+<br />
+TRM Labs concurred, saying that Tether was the most used stablecoin in illicit crypto flows in 2023. Tether on the Tron blockchain in particular had “cemented its position as the currency of choice for use by terrorist financing entities.”
+</blockquote> 
+
+<https://blog.dshr.org/2024/05/one-heck-of-halvening.html>
+
+---
+
+##  Bill McKibben reviews an exhibition with &#8220;images of climate change that cannot... 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044707-bill-mckibben-reviews-an->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-30, from: Dave Winer's Scripting News)
+
+BTW, I've noticed that Google often doesn't link to the Wikipedia page unless you specifically ask for it. I don't like that. I think it should always be at the top. 
+
+<http://scripting.com/2024/05/30.html#a143314>
+
+---
+
+##  Trailer for Season Three of The Bear 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/trailer-for-season-three-of-the-bear>
+
+---
+
+## Biden: Why isn't Trump in jail?
+
+date: 2024-05-30, from: Dave Winer's Scripting News
+
+<p>Biden would be a fine president if our problems were limited to the virus, the economy and climate change. </p>
+<p>He's like Obama, but with much more experience at getting things done in Washington. </p>
+<p>His failure is that the fascist movement in the country is much stronger now than it was when he took office. </p>
+<p>Are we better off than we were four years ago? No, sadly we are worse off. Trump is a much bigger threat now.</p>
+<p>Biden is a fine LBJ-like president. And like LBJ, he has his Vietnam. Biden's war he can't end is called Trump. Trump isn't in jail. That's the failure right there. </p>
+<p>The problem could be fixed if we had this discussion out in the open, so that the press raises it every day and in every press event. They shouldn't be trying to embarrass him about his age, that's rude and deceptive, instead they should ask why isn't Trump in jail?</p>
+<p>If Biden wanted to address this, and it would certainly help his chances of winning, he would:</p>
+<ul>
+<li>Fire Garland immediately.</li>
+<li>Apologize for not firing him sooner. It was a mistake. My mistake. I own it. I am sorry.</li>
+<li>Nominate <a href="https://en.wikipedia.org/wiki/Jamie_Raskin">Jamie Raskin</a>, <a href="https://en.wikipedia.org/wiki/Liz_Cheney">Liz Cheney</a> or <a href="https://en.wikipedia.org/wiki/Ruben_Gallego">Ruben Gallego</a> as the new AG.   </li>
+<li>Biden's number one promise is that he will <i>fully</i> prosecute Trump and all insurrectionists in his second term, starting now. This would also serve as a warning to any Trump supporters that tried to pull any tricks before or during the election. </li>
+</ul>
+<p>Trump is making a fool of Biden by saying openly that he will be a dictator on Day 1.</p>
+<p>People who think Trump is losing don't get it. People are rightly fed up with Biden. But not for the economy. That's bullshit. And not because he's old. Rather because he's selling us out, just hoping against hope that the voters will save us. It's kind of unreasonable to expect that when you, the person we elected president to get us out of this hole, didn't fire the biggest obstacle to our starting to dig. </p>
+<p>Depend on Mueller, Congress, the press, the courts, now the voters. </p>
+<p>No Biden, you're the president. This is <i>your</i> job. </p>
+ 
+
+<http://scripting.com/2024/05/30/134935.html?title=bidenWhyIsntTrumpInJail>
+
+---
+
+## 2024-05-23 Death and dying
+
+date: 2024-05-30, from: Alex Schroeder's Blog
+
+<h1 id="2024-05-23-death-and-dying">2024-05-23 Death and dying</h1>
+
+<p>This is the first time somebody is dying in my close family where I am old enough to be an adult about it.</p>
+
+<p>One of my sisters died when I was about twenty. I was living in Switzerland with my dad, and it was terrible to hear my mom crying at the phone, practically unable to tell me what had happened, to then see my father confused, shocked. I booked a flight for him but didn&rsquo;t go myself. My mom was living in Portugal with my two sisters. I wasn&rsquo;t there for my sister&rsquo;s burial. People had to be buried within 48 hours, back then. I don&rsquo;t know how things are now. There was school and stuff and I had not lived with my sisters for a few years. I didn&rsquo;t feel very close. It just felt weird. I didn&rsquo;t know what it was supposed to mean.</p>
+
+<p>Now, thirty years later, my stepfather is dying. His kidneys are failing, his liver is failing, his lungs are filling up with water, his heart is failing; they can&rsquo;t give him his heart medication because the kidneys are at their limits, can&rsquo;t have him move around because he&rsquo;s weak, and so he&rsquo;s breaking down. I mean, he&rsquo;s calm, he knows what&rsquo;s happening, and he&rsquo;s very, very tired. He&rsquo;s ready to go.</p>
+
+<p>I think that in my heart, I know that this is how it works. We have to go one day. I don&rsquo;t want to spend the last hours hooked up to machines. I&rsquo;ll be very, very tired. I&rsquo;ll just want to go home. I also won&rsquo;t want anybody around me to be sad. Hopefully, I&rsquo;ll feel that I lived a good life, that I had a good time, that the people I spend my time with were decent people, worthy of the short time I was given. I hope that I will be able to let go and be at peace. It&rsquo;s what I hear about my stepfather.</p>
+
+<p>But when I sit in that family video call, with siblings in Portugal and Germany and my, and my mother, and one after another people start crying, choking up, it&rsquo;s hard. It&rsquo;s a that invisible choker, grabbing us, one after another.</p>
+
+<p>I need to remember the good times, the conversations we had, the laughter we shared. I need to book a flight and see the rest of our family. All that independence and all that living abroad is coming back to haunt us, now.</p>
+
+<p>To go and support each other.</p>
+
+<p>Go and hug your loved ones.</p>
+
+<p><a class="tag" href="/search/?q=%23Family">#Family</a></p>
+
+<p><strong>2024-05-27</strong>. I arrived today. He didn’t look good at all. In fact, he seemed to be barely holding on to life. Sleeping, mostly. Occasionally, gasping for air, staring, maybe recognizing us, saying a word or two. It was heartbreaking. He died the same day. The doctor and the nurse came, two very friendly people. Removed the tubes, stopped the Morphium machine, made his death official.</p>
+
+<p>There were so many tears. A step brother, a half-brother, a half-sister, my sister, my half-brother’s wife, their kid, my mom… the kid was the only one that seemed unperturbed. “Don’t be sad, grandma!”</p>
+
+<p>Later the funerary services came to pick up the body. Again, both of them super nice. We’ll see how things go, tomorrow. My mother is not feeling well. I seem to be doing OK. I can be strong when it’s not my partner that has died.</p>
+
+<p>I’m happy we were all there for him, singing songs, bringing him his birthday cake (he died on his 78th birthday). I’m happy we were all there for each other.</p>
+
+<p><strong>2024-05-28</strong>. Cremation today. The sun is out. People on the radio.</p>
+
+<p><strong>2024-05-30</strong>. On the way home. It was good to see the family again. I gave a little speech in Portuguese, explaining how the language continues to remain important to us, even if we live a abroad, and how hard it was for a family where people live in different countries, alone – but also how our parents divorcing and marrying had led to an ever growing family. There are more parents, more siblings, and I love it and it helps. We can all help each other. And my deceased stepfather was certainly an enrichment for our family, bringing anarchy and lawlessness and laughter into a family that was rigid and regimented and dour, and how we all grew with that and how it was important to remember the good times we had and the lessens we all drew from his presence. Truly, a great influence for all of us.</p>
+
+<p>I still remember how I met him years before my mother met him. He lived across the river alone with his son, wild and free and I was so jealous. I wished to love like that! And then my parents divorced, my dad went back to Switzerland and a year later I followed him and got to live wild and free like them, it was amazing. And one day I came back and there were rumors that our mother had found a boyfriend. Imagine my surprise when it was him! The wild and free guitar playing dude from across the river! And eventually my friend from school turned into my stepbrother, moved in with my mom, lived in my room. It was mysterious and magical and then to see him and his father struggle with my mom, the changes they brought about, it was a miracle.</p>
+
+<p>So, my man, wherever you are, here‘s to you and your last trip, to your guitars and flutes, your love of music and freedom, your spirit of independence and love of people and aliens. Cheers! I hope to see you again.</p> 
+
+<https://alexschroeder.ch/view/2024-05-23-death>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-30, from: Dave Winer's Scripting News)
+
+The best humor is about other people being stupid, evil, clumsy or their misfortune. Watch a SNL skit. It's not about people being smart or brave, kind, generous or otherwise wonderful. That's another kind of entertainment. We find the misfortune of others funny. Especially famous, successful people. 
+
+<http://scripting.com/2024/05/30.html#a125832>
+
+---
+
+## Supply Chain Attack against Courtroom Software
+
+date: 2024-05-30, updated: 2024-05-28, from: Bruce Schneier blog
+
+<p>No word on how this <a href="https://arstechnica.com/security/2024/05/crooks-plant-backdoor-in-software-used-by-courtrooms-around-the-world/">backdoor</a> was installed:</p>
+<blockquote><p>A software maker serving more than 10,000 courtrooms throughout the world hosted an application update containing a hidden backdoor that maintained persistent communication with a malicious website, researchers reported Thursday, in the latest episode of a supply-chain attack.</p>
+<p>The software, known as the JAVS Viewer 8, is a component of the JAVS Suite 8</a>, an application package courtrooms use to record, play back, and manage audio and video from proceedings. Its maker, Louisville, Kentucky-based Justice AV Solutions, says its products are used in more than 10,000 courtrooms throughout the US and 11 other countries. The company has been in business for 35 years...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/05/supply-chain-attack-against-courtroom-software.html>
+
+---
+
+## Odd Man Out
+
+date: 2024-05-30, from: Ayjay blog
+
+Carol Reed’s Odd Man Out is a brilliant movie about … well, that’s the question. Some people say it’s a movie about the IRA, but that’s certainly wrong, and not because the name of the organization and the name of the city in which the action is set are never mentioned. This is obviously Belfast, [&#8230;] 
+
+<https://blog.ayjay.org/odd-man-out/>
+
+---
+
+## My father’s recitations
+
+date: 2024-05-30, from: Robert Reich's blog
+
+They were a key to understanding him 
+
+<https://robertreich.substack.com/p/my-fathers-recitations>
+
+---
+
+## May 29, 2024 
+
+date: 2024-05-30, from: Heather Cox Richardson blog
+
+President Joe Biden and Vice President Kamala Harris campaigned today in Philadelphia, Pennsylvania. They spoke at Girard College, a school where Black Americans make up most of the student body, where they emphasized the importance of Black voters to the Democratic coalition and the ways in which the administration&#8217;s actions have delivered on its promises to the Black community. 
+
+<https://heathercoxrichardson.substack.com/p/may-29-2024>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-30, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/13/commanderDataStarTrek.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Art much simpler than some people think. It's not like a batting average or a weather forecast. It's not something that can be measured objectively. Art is the response that it evokes in the observer. It's art when people say "that's not art." And when someone says only human professionals create art, if he really believes that, he has no freaking clue what art is. 
+
+<http://scripting.com/2024/05/29.html#a021757>
+
+---
+
+## Housing is broken for everyone but the rich
+
+date: 2024-05-30, from: Tracy Durnell Blog
+
+Against Landlords by Robin Rendle This feeling isn’t rage though, it’s simply injustice. A sensitivity to an unnatural thing. A force you might not understand, but you feel it in your bones. The way to fix the housing crisis then is to follow the money and call this thing for what it is: a grave [&#8230;] 
+
+<https://tracydurnell.com/2024/05/29/housing-is-broken-for-everyone-but-the-rich/>
+
+---
+
+## Weird online money stuff
+
+date: 2024-05-30, from: Tracy Durnell Blog
+
+STOP THE COMMENTS!!!!! On brands commenting down below and meditating on work and life balances. by Kyle Raymond Fitzpatrick Showing up in the comments, as a person or a brand, is an opportunity to express politics, humor, services: it’s all a means to steal attention, walking into someone else’s wedding, wearing a white dress with [&#8230;] 
+
+<https://tracydurnell.com/2024/05/29/weird-online-money-stuff/>
+
+---
+
+## The vision of libraries
+
+date: 2024-05-29, from: Tracy Durnell Blog
+
+This is why libraries are under attack. They are the physical incarnation of an approach to life and politics and humanity that would, if it was expanded upon, let us live, and live well. And therefore they’re threatening. Libraries are a little window into a world where we aren’t scrambling to survive, where profit doesn’t [&#8230;] 
+
+<https://tracydurnell.com/2024/05/29/the-vision-of-libraries/>
+
+---
+
+## A Fun AI Fail
+
+date: 2024-05-29, from: Doc Searls (at Harvard), New Old Blog
+
+Here is me, trying to get ChatGPT (version 4o, which I pay for) to give me an illustration to use in my last post here, titled The People&#8217;s AI. But don&#8217;t go there yet (if you haven&#8217;t already). What I ended up using there is a punchline at the end of the dialog that starts [&#8230;] 
+
+<https://doc.searls.com/2024/05/29/a-fun-ai-fail/>
+
+---
+
+##  &#8220;My Bike Is Everything to Me&#8221; 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/my-bike-is-everything-to-me>
+
+---
+
+##  How planes fly: &#8220;Air, very important magic.&#8221; See also: No One Can... 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044702-how-planes-fly-air-very>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-29, from: Dave Winer's Scripting News)
+
+How can we tell if ChatGPT is intelligent? How can I tell if you're intelligent. How do I know I'm intelligent. It could be my "intelligence" is as algorithmic as ChatGPT's. It could be that my intelligence is only a <a href="https://en.wikipedia.org/wiki/Self-preservation">survival mechanism</a>, and the only way I could think of something I think is intelligent is if it furthers my chance to reproduce. But what happens when our intellect instructs us to destroy the environment we depend on for life? It could be we are already obsolete, without the robots, it sure feels that way, and that our only <a href="https://en.wikipedia.org/wiki/Noah%27s_Ark">ark</a> that could lead us to a new place where our species can survive in some form is for us to morph into electronic beings whose intelligence is distributed around the planet so we don't die if it becomes uninhabitable in one place, but not in others. And a LLM might thrive in an environment that can't support human life. 
+
+<http://scripting.com/2024/05/29.html#a194217>
+
+---
+
+##  404 Media explains the antitrust lawsuit against Live Nation/Ticketmaster. &#8220;It is about... 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044704-404-media-explains-the-an>
+
+---
+
+## F*C*K
+
+date: 2024-05-29, from: Om Malik blog
+
+When I woke up this&#160;morning,&#160;the temperature in my part of San Francisco was 53 degrees Fahrenheit. At the same time, the temperature in Delhi was 53 degrees&#160;Celsius.&#160;If anyone tells you that climate change is a hoax, show&#160;them&#160;the temperature records for the past four decades.&#160; When I was a&#160;teenager,&#160;40 degrees&#160;Celsius&#160;was high during the summers, though we &#8230; 
+
+<https://om.co/2024/05/29/fck/>
 
 ---
 
@@ -61,7 +523,7 @@ date: 2024-05-29, updated: 2024-05-29, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-05-29, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/13/commanderDataStarTrek.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://tulanehullabaloo.com/65986/uncategorized/imitation-game-can-ai-rival-student-intellect/">Walter Isaacson asks</a> if ChatGPT can rival a student's intellect. My answer as a former teaching assistant who graded lots of student programs, absolutely. It rivals the intellect of every human being I know, including professors. It hasn't learned yet how to synthesize new ideas, it seems. And there are strong guardrails that keep it from going into certain areas. It is more capable than we know, therefore. BTW, I didn't realize he teaches at <a href="https://en.wikipedia.org/wiki/Tulane_University">Tulane</a>. I got my undergraduate degree there in 1976. 
+<a href="https://tulanehullabaloo.com/65986/uncategorized/imitation-game-can-ai-rival-student-intellect/">Walter Isaacson asks</a> if ChatGPT can rival a student's intellect. My answer as a former teaching assistant who graded lots of student programs, absolutely. It rivals the intellect of every human being I know, including professors. It hasn't learned yet how to synthesize new ideas, it seems. And there are strong guardrails that keep it from going into certain areas. It is more capable than we know, therefore. BTW, I didn't realize he teaches at <a href="https://en.wikipedia.org/wiki/Tulane_University">Tulane</a>. I got my undergraduate degree there in 1976. 
 
 <http://scripting.com/2024/05/29.html#a151345>
 
@@ -155,6 +617,16 @@ date: 2024-05-29, from: Heather Cox Richardson blog
 The defense and the prosecution today made their closing statements in the New York criminal case against Trump for falsifying business records to hide a $130,000 payment to adult film actress Stephanie Clifford, also known as Stormy Daniels. The payment was intended to stop her account of her sexual encounter with Trump from becoming public in the days before the 2016 election, when the Trump campaign was already reeling from the Access Hollywood tape showing Trump boasting of sexual assault. 
 
 <https://heathercoxrichardson.substack.com/p/may-28-2024>
+
+---
+
+## Systems: The Purpose of a System is What It Does
+
+date: 2024-05-29, updated: 2024-05-29, from: Anil Dash blog
+
+ 
+
+<https://anildash.com/2024/05/29/systems-the-purpose-of-a-system/>
 
 ---
 
@@ -270,7 +742,7 @@ Cross-posting to various social web sites has gotten out of hand, not just for t
 
 date: 2024-05-28, from: Doc Searls (at Harvard), New Old Blog
 
-People need their own AIs. Personally and collectively. We won&#8217;t get them from Anthropic, Apple, Google, Meta, or Microsoft. Not even from Apple. All of those companies will want to provide AIaaS: AI as a Service, rather than AI that&#8217;s yours alone. Or ours, collectively. The People&#8217;s AI can only come from people. Since it [&#8230;] 
+People need their own AIs. Personally and collectively. We won&#8217;t get them from Anthropic, Apple, Google, OpenAI, Meta, or Microsoft. Not even from Apple. All those companies will want to provide AIaaS: AI as a Service, rather than AI that&#8217;s yours alone. Or ours, collectively. The People&#8217;s AI can only come from people. Since it [&#8230;] 
 
 <https://doc.searls.com/2024/05/28/the-peoples-ai/>
 
@@ -542,44 +1014,6 @@ date: 2024-05-28, updated: 2024-05-25, from: Bruce Schneier blog
 <p>The mathematics of lattice cryptography revolve around combining sets of vectors&#8212;that&#8217;s the lattice&#8212;in a multi-dimensional space. These lattices are filled with multi-dimensional periodicities. The ...</p> 
 
 <https://www.schneier.com/blog/archives/2024/05/lattice-based-cryptosystems-and-quantum-cryptanalysis.html>
-
----
-
-## 2024-05-23 Death and dying
-
-date: 2024-05-28, from: Alex Schroeder's Blog
-
-<h1 id="2024-05-23-death-and-dying">2024-05-23 Death and dying</h1>
-
-<p>This is the first time somebody is dying in my close family where I am old enough to be an adult about it.</p>
-
-<p>One of my sisters died when I was about twenty. I was living in Switzerland with my dad, and it was terrible to hear my mom crying at the phone, practically unable to tell me what had happened, to then see my father confused, shocked. I booked a flight for him but didn&rsquo;t go myself. My mom was living in Portugal with my two sisters. I wasn&rsquo;t there for my sister&rsquo;s burial. People had to be buried within 48 hours, back then. I don&rsquo;t know how things are now. There was school and stuff and I had not lived with my sisters for a few years. I didn&rsquo;t feel very close. It just felt weird. I didn&rsquo;t know what it was supposed to mean.</p>
-
-<p>Now, thirty years later, my stepfather is dying. His kidneys are failing, his liver is failing, his lungs are filling up with water, his heart is failing; they can&rsquo;t give him his heart medication because the kidneys are at their limits, can&rsquo;t have him move around because he&rsquo;s weak, and so he&rsquo;s breaking down. I mean, he&rsquo;s calm, he knows what&rsquo;s happening, and he&rsquo;s very, very tired. He&rsquo;s ready to go.</p>
-
-<p>I think that in my heart, I know that this is how it works. We have to go one day. I don&rsquo;t want to spend the last hours hooked up to machines. I&rsquo;ll be very, very tired. I&rsquo;ll just want to go home. I also won&rsquo;t want anybody around me to be sad. Hopefully, I&rsquo;ll feel that I lived a good life, that I had a good time, that the people I spend my time with were decent people, worthy of the short time I was given. I hope that I will be able to let go and be at peace. It&rsquo;s what I hear about my stepfather.</p>
-
-<p>But when I sit in that family video call, with siblings in Portugal and Germany and my, and my mother, and one after another people start crying, choking up, it&rsquo;s hard. It&rsquo;s a that invisible choker, grabbing us, one after another.</p>
-
-<p>I need to remember the good times, the conversations we had, the laughter we shared. I need to book a flight and see the rest of our family. All that independence and all that living abroad is coming back to haunt us, now.</p>
-
-<p>To go and support each other.</p>
-
-<p>Go and hug your loved ones.</p>
-
-<p><a class="tag" href="/search/?q=%23Family">#Family</a></p>
-
-<p><strong>2024-05-27</strong>. I arrived today. He didn’t look good at all. In fact, he seemed to be barely holding on to life. Sleeping, mostly. Occasionally, gasping for air, staring, maybe recognizing us, saying a word or two. It was heartbreaking. He died the same day. The doctor and the nurse came, two very friendly people. Removed the tubes, stopped the Morphium machine, made his death official.</p>
-
-<p>There were so many tears. A step brother, a half-brother, a half-sister, my sister, my half-brother’s wife, their kid, my mom… the kid was the only one that seemed unperturbed. “Don’t be sad, grandma!”</p>
-
-<p>Later the funerary services came to pick up the body. Again, both of them super nice. We’ll see how things go, tomorrow. My mother is not feeling well. I seem to be doing OK. I can be strong when it’s not my partner that has died.</p>
-
-<p>I’m happy we were all there for him, singing songs, bringing him his birthday cake (he died on his 78th birthday). I’m happy we were all there for each other.</p>
-
-<p><strong>2024-05-28</strong>. Cremation today. The sun is out. People on the radio.</p> 
-
-<https://alexschroeder.ch/view/2024-05-23-death>
 
 ---
 

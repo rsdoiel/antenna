@@ -1,11 +1,385 @@
 ---
 title: socal north 2024.22
-updated: 2024-05-29 10:54:51
+updated: 2024-05-30 11:07:34
 ---
 
 # socal north 2024.22
 
-(date: 2024-05-29 10:54:51)
+(date: 2024-05-30 11:07:34)
+
+---
+
+## Bruins in Hollywood: Beyond Film
+
+date: 2024-05-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+There&#8217;s a lot more to Hollywood than acting. In the third episode of this four-part miniseries, actors and UCLA students Niyah Coleman and Addison Chandler discuss their interests in modeling, fashion and the business of entertainment with Podcasts contributor Jackson Wooton. 
+
+<https://dailybruin.com/2024/05/30/bruins-in-hollywood-beyond-film/>
+
+---
+
+## Enjoy the Warm Summer Nights at SENSES and Celebrate!
+
+date: 2024-05-30, from: City of Santa Clarita
+
+<p>By Mayor Cameron Smyth School is out for summer and it is time to enjoy the long sunny days and warm nights. With June right around the corner, get ready to join your friends and family for two of the City’s most popular outdoor events. We are in the middle of the line-up for both [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/05/30/enjoy-the-warm-summer-nights-at-senses-and-celebrate/">Enjoy the Warm Summer Nights at SENSES and Celebrate!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/05/30/enjoy-the-warm-summer-nights-at-senses-and-celebrate/>
+
+---
+
+## Emma Malabuyo qualifies to represent Philippines at 2024 Paris Olympics
+
+date: 2024-05-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Emma Malabuyo&#8217;s Olympic dream began when she was a little girl.
+And now, they&#8217;ve been realized.
+After missing Olympic qualification through the World Cup Series this year, the UCLA gymnastics junior clinched a ticket to the 2024 Paris Olympics after placing third in the all-around at the 2024 Asian Championships on May 24 &#8211; a competition she had just four weeks to prepare for. 
+
+<https://dailybruin.com/2024/05/29/emma-malabuyo-qualifies-to-represent-philippines-at-2024-paris-olympics/>
+
+---
+
+## The new news: How the media is attracting young readers
+
+date: 2024-05-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Carmella Boykin had to be TV-ready by 3:30 a.m. each morning.
+Although she didn’t originally want a traditional job right out of college, Boykin saw the CBS morning news broadcasting gig as her “Oprah moment” for launching a media career. 
+
+<https://dailybruin.com/2024/05/29/the-new-news-how-the-media-is-attracting-young-readers/>
+
+---
+
+## Instagram account goodmorningucla spreads humor, positivity across UCLA community
+
+date: 2024-05-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 29 at 10:16 p.m.</em>
+Good morning, UCLA!
+These three words have become synonymous with Charlie Kratus, a first-year business economics student. 
+
+<https://dailybruin.com/2024/05/29/instagram-account-goodmorningucla-spreads-humor-positivity-across-ucla-community/>
+
+---
+
+## Concienciar Sobre la Salud Mental Recorriendo el Camino de Santiago
+
+date: 2024-05-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?w=1440&amp;ssl=1 1440w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Para ayudar a aumentar la conciencia y recaudar fondos para el Centro Comunitario de Salud Mental del Valle de San Fernando en Van Nuys y cumplir una meta personal de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/29/concienciar-sobre-la-salud-mental-recorriendoel-camino-de-santiago/">Concienciar Sobre la Salud Mental Recorriendo el Camino de Santiago</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/29/concienciar-sobre-la-salud-mental-recorriendoel-camino-de-santiago/>
+
+---
+
+## Estudiante de Sylmar Representará a los Lakers en la Final de Math Hoops en Nueva York
+
+date: 2024-05-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="1007" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/002_elsol.jpg?fit=1024%2C1007&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/002_elsol.jpg?w=1440&amp;ssl=1 1440w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/002_elsol.jpg?resize=300%2C295&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/002_elsol.jpg?resize=1024%2C1007&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/002_elsol.jpg?resize=768%2C755&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/002_elsol.jpg?resize=1200%2C1180&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/002_elsol.jpg?resize=400%2C393&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/002_elsol.jpg?resize=706%2C694&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/002_elsol.jpg?fit=1024%2C1007&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Daleyza Castellanos de Sylmar es una alegre niña de 10 años con un gran sentido del humor que disfruta jugando con sus dos hermanas. También tiene un espíritu competitivo y [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/29/estudiante-de-sylmar-representara-a-los-lakers-en-la-final-de-math-hoops-en-nueva-york/">Estudiante de Sylmar Representará a los Lakers en la Final de Math Hoops en Nueva York</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/29/estudiante-de-sylmar-representara-a-los-lakers-en-la-final-de-math-hoops-en-nueva-york/>
+
+---
+
+## Horóscopo
+
+date: 2024-05-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>ARIES (21 de mar &#8211; 19 de abr) Las cosas hermosas parecen llamarte esta semana con varias invitaciones y peticiones: disfrútame, protégeme, cómprame, envidiadme, hazme. Mientras no es posible prestar [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/29/horoscopo-165/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/29/horoscopo-165/>
+
+---
+
+## EVENTOS Locales – Semana de 30 de mayo, 2024
+
+date: 2024-05-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Sabado, Junio 1 Ceremonia de Izamiento de la Bandera del Mes del Orgullo City Hall 117 N. Macneil St. San Fernando 10 a.m. – 11 a.m. Celebremos la diversidad y [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/29/eventos-locales-semana-de-30-de-mayo-2024/">EVENTOS Locales &#8211; Semana de 30 de mayo, 2024 </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/29/eventos-locales-semana-de-30-de-mayo-2024/>
+
+---
+
+## La Ciudad de San Fernando Subida la Bandera de PrideEste Fin de Semana
+
+date: 2024-05-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/05/flags_elsol-scaled.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/05/flags_elsol-scaled.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/05/flags_elsol-scaled.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/05/flags_elsol-scaled.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/05/flags_elsol-scaled.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/05/flags_elsol-scaled.jpg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/05/flags_elsol-scaled.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/05/flags_elsol-scaled.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/05/flags_elsol-scaled.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/05/flags_elsol-scaled.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/05/flags_elsol-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/05/flags_elsol-scaled.jpg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/05/flags_elsol-scaled.jpg?resize=1568%2C2091&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/05/flags_elsol-scaled.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/05/flags_elsol-scaled.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/05/flags_elsol-scaled.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La ciudad de San Fernando comienza una vez más el Mes de Pride LGBTQ+ con el izamiento anual de la Bandera de Pride del Progreso. Celebrada en junio, la celebración [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/29/la-ciudad-de-san-fernando-subida-la-bandera-de-prideeste-fin-de-semana/">La Ciudad de San Fernando Subida la Bandera de PrideEste Fin de Semana</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/29/la-ciudad-de-san-fernando-subida-la-bandera-de-prideeste-fin-de-semana/>
+
+---
+
+## El Lineman’s Rodeo del LADWP Muestra las Habilidades de los Trabajadores de Servicios Públicos
+
+date: 2024-05-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/20240518_dw_linemans_rodeo_Z828417-1280x1280-1-1024x682-1.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/20240518_dw_linemans_rodeo_Z828417-1280x1280-1-1024x682-1.jpeg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/20240518_dw_linemans_rodeo_Z828417-1280x1280-1-1024x682-1.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/20240518_dw_linemans_rodeo_Z828417-1280x1280-1-1024x682-1.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/20240518_dw_linemans_rodeo_Z828417-1280x1280-1-1024x682-1.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/20240518_dw_linemans_rodeo_Z828417-1280x1280-1-1024x682-1.jpeg?resize=400%2C266&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/20240518_dw_linemans_rodeo_Z828417-1280x1280-1-1024x682-1.jpeg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/20240518_dw_linemans_rodeo_Z828417-1280x1280-1-1024x682-1.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>En una muestra de conocimiento, atletismo, trabajo en equipo y procedimientos de seguridad, los trabajadores de las empresas eléctricas del oeste de los Estados Unidos compitieron en el Lineman’s Rodeo [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/29/el-linemans-rodeo-del-ladwp-muestra-las-habilidades-de-los-trabajadores-de-servicios-publicos/">El Lineman’s Rodeo del LADWP Muestra las Habilidades de los Trabajadores de Servicios Públicos</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/29/el-linemans-rodeo-del-ladwp-muestra-las-habilidades-de-los-trabajadores-de-servicios-publicos/>
+
+---
+
+## Teen Tech Center Ofrece un Santuario Después de la Escuela en North Hills
+
+date: 2024-05-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="683" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Teen-Tech-Center_SN_08-scaled.jpeg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Teen-Tech-Center_SN_08-scaled.jpeg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Teen-Tech-Center_SN_08-scaled.jpeg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Teen-Tech-Center_SN_08-scaled.jpeg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Teen-Tech-Center_SN_08-scaled.jpeg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Teen-Tech-Center_SN_08-scaled.jpeg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Teen-Tech-Center_SN_08-scaled.jpeg?resize=1366%2C2048&amp;ssl=1 1366w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Teen-Tech-Center_SN_08-scaled.jpeg?resize=1200%2C1800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Teen-Tech-Center_SN_08-scaled.jpeg?resize=1568%2C2352&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Teen-Tech-Center_SN_08-scaled.jpeg?resize=2000%2C3000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Teen-Tech-Center_SN_08-scaled.jpeg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Teen-Tech-Center_SN_08-scaled.jpeg?resize=706%2C1059&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/Teen-Tech-Center_SN_08-scaled.jpeg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La organización comunitaria sin fines de lucro North Valley Caring Services (NVCS) en North Hills es ahora el hogar de Best Buy Teen Tech Center, un espacio extracurricular donde los [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/29/teen-tech-center-ofrece-un-santuario-despues-de-la-escuela-en-north-hills/">Teen Tech Center Ofrece un Santuario Después de la Escuela en North Hills</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/29/teen-tech-center-ofrece-un-santuario-despues-de-la-escuela-en-north-hills/>
+
+---
+
+## César E. Chávez Learning Academies Celebra una Semana de Inspiración Artística
+
+date: 2024-05-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="683" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1620079-scaled.jpeg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1620079-scaled.jpeg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1620079-scaled.jpeg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1620079-scaled.jpeg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1620079-scaled.jpeg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1620079-scaled.jpeg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1620079-scaled.jpeg?resize=1366%2C2048&amp;ssl=1 1366w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1620079-scaled.jpeg?resize=1200%2C1800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1620079-scaled.jpeg?resize=1568%2C2352&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1620079-scaled.jpeg?resize=2000%2C3000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1620079-scaled.jpeg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1620079-scaled.jpeg?resize=706%2C1059&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/L1620079-scaled.jpeg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La semana pasada, César E. Chávez Learning Academies (CCLA) en San Fernando se transformó, obteniendo 15 nuevos murales de artistas de renombre a través del Festival de Artes de Marca. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/29/cesar-e-chavez-learning-academies-celebra-una-semana-de-inspiracion-artistica/">César E. Chávez Learning Academies Celebra una Semana de Inspiración Artística</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/29/cesar-e-chavez-learning-academies-celebra-una-semana-de-inspiracion-artistica/>
+
+---
+
+## El Desfile del Día de los Caídos Honra a los Ex Alumnos de la Escuela Preparatoria Canoga Park
+
+date: 2024-05-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="970" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2300_elsol-scaled.jpg?fit=970%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2300_elsol-scaled.jpg?w=2425&amp;ssl=1 2425w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2300_elsol-scaled.jpg?resize=284%2C300&amp;ssl=1 284w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2300_elsol-scaled.jpg?resize=970%2C1024&amp;ssl=1 970w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2300_elsol-scaled.jpg?resize=768%2C811&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2300_elsol-scaled.jpg?resize=1455%2C1536&amp;ssl=1 1455w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2300_elsol-scaled.jpg?resize=1940%2C2048&amp;ssl=1 1940w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2300_elsol-scaled.jpg?resize=1200%2C1267&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2300_elsol-scaled.jpg?resize=1568%2C1656&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2300_elsol-scaled.jpg?resize=2000%2C2112&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2300_elsol-scaled.jpg?resize=400%2C422&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2300_elsol-scaled.jpg?resize=706%2C745&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2300_elsol-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/IMG_2300_elsol-scaled.jpg?fit=970%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Un estimado de 38,000 residentes del valle se reunieron en Canoga Park para el 32º Desfile del Día de los Caídos para honrar a los héroes caídos, incluidos los que [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/29/el-desfile-del-dia-de-los-caidos-honra-a-los-ex-alumnos-de-la-escuela-preparatoria-canoga-park/">El Desfile del Día de los Caídos Honra a los Ex Alumnos de la Escuela Preparatoria Canoga Park</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/29/el-desfile-del-dia-de-los-caidos-honra-a-los-ex-alumnos-de-la-escuela-preparatoria-canoga-park/>
+
+---
+
+## Metro Inicia Programa Piloto de “Tap-to-Exit” en la Estación de Tren de North Hollywood
+
+date: 2024-05-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>NORTH HOLLYWOOD (CNS) &#8211; Para aumentar la seguridad en las líneas de trenes, Metro ha lanzado formalmente un programa piloto en North Hollywood que requiere que los pasajeros de trenes [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/29/metro-inicia-programa-piloto-de-tap-to-exit-en-la-estacion-de-tren-de-north-hollywood/">Metro Inicia Programa Piloto de “Tap-to-Exit” en la Estación de Tren de North Hollywood</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/29/metro-inicia-programa-piloto-de-tap-to-exit-en-la-estacion-de-tren-de-north-hollywood/>
+
+---
+
+## CCE announces lowering of prices for summer internship courses
+
+date: 2024-05-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+The cost to obtain UCLA credit for a summer internship through 195CE courses will soon be cut by over 80%, with a decrease from $1,325 to $208. 
+
+<https://dailybruin.com/2024/05/29/cce-announces-lowering-of-prices-for-summer-internship-courses/>
+
+---
+
+## Opinion: Passion for learning, patience will reveal unclear path for philosophy students
+
+date: 2024-05-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+As an optimistic first-year student, I always envisioned college as a place where I could explore new interests and discover my future self. But this is far from the reality that I have experienced throughout my time at UCLA. 
+
+<https://dailybruin.com/2024/05/29/opinion-passion-for-learning-patience-will-reveal-unclear-path-for-philosophy-students/>
+
+---
+
+## This year’s Actor’s Showcase will spotlight talents of 19 senior theatre students
+
+date: 2024-05-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 29 at 8:28 p.m.</em>
+As the credits roll on their undergraduate careers, UCLA’s graduating class of actors bring their talents to the spotlight. 
+
+<https://dailybruin.com/2024/05/29/this-years-actors-showcase-will-spotlight-talents-of-19-senior-theatre-students/>
+
+---
+
+## Desiree Becker joins Levallois Paris Saint-Cloud Volleyball in international debut
+
+date: 2024-05-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+A wish of &#8220;bonne chance&#8221; &#8211; or &#8220;good luck&#8221; &#8211; is in order for Desiree Becker.
+The graduate student middle blocker has a chance to make her mark on the French volleyball scene. 
+
+<https://dailybruin.com/2024/05/29/desiree-becker-joins-levallois-paris-saint-cloud-volleyball-in-international-debut/>
+
+---
+
+## Travel ball to Women’s College World Series: Quartet returns to Oklahoma as Bruins
+
+date: 2024-05-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 29 at 11:02 p.m.</em>
+Lifelong bonds are forged from neighborhood diamonds to star-studded Oklahoma City.
+Graduate student outfielder Jadelyn Allchin and redshirt seniors shortstop Maya Brady, catcher Sharlize Palacios and outfielder Janelle Meoño have all starred in the Women’s College World Series before – but for the first time, the quartet will do it together. 
+
+<https://dailybruin.com/2024/05/29/travel-ball-to-womens-college-world-series-quartet-returns-to-oklahoma-as-bruins/>
+
+---
+
+## UCLA softball will face Alabama in 1st round of Women’s College World Series
+
+date: 2024-05-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 29 at 10:56 p.m.</em>
+Aspirations vary wildly in the kaleidoscope of childhood dreams.
+While some children envision themselves as an astronaut or the next Hollywood star, young softball players dream of playing in the Women&#8217;s College World Series – a stage that garnered an average of 1.6 million viewers in 2023. 
+
+<https://dailybruin.com/2024/05/29/ucla-softball-will-face-alabama-in-1st-round-of-womens-college-world-series/>
+
+---
+
+## Janiah Barker rounds out women’s basketball’s trifecta of top three recruits
+
+date: 2024-05-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 29 at 11:06 p.m.</em>
+The Bruins captured the No. 1 class of 2022 recruit – sophomore center Lauren Betts – in last year&#8217;s offseason. 
+
+<https://dailybruin.com/2024/05/29/janiah-barker-rounds-out-womens-basketballs-trifecta-of-top-three-recruits/>
+
+---
+
+## Mehr Juneja is bringing new representation to the world of standup comedy
+
+date: 2024-05-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Through labor and laughter, Mehr Juneja is redefining representation in comedy.
+Recent alumnus Juneja is a self-made comedian and the producer and co-founder of the Los Angeles based comedy show &#8220;Imposter Syndrome.&#8221; Juneja said &#8220;Imposter Syndrome&#8221; seeks to highlight historically underrepresented voices and those whose identities are often used as targets in comedic spaces. 
+
+<https://dailybruin.com/2024/05/29/mehr-juneja-is-bringing-new-representation-to-the-world-of-standup-comedy/>
+
+---
+
+## Nurses protest Ronald Reagan UCLA Medical Center’s proposed schedule changes
+
+date: 2024-05-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 29 at 10:52 p.m.</em>
+Around 70 registered nurses and community members rallied near Ronald Reagan UCLA Medical Center on Wednesday morning to protest changes by hospital management to float pool nurse scheduling shifts. 
+
+<https://dailybruin.com/2024/05/29/nurses-protest-ronald-reagan-ucla-medical-centers-proposed-schedule-changes/>
+
+---
+
+## BREAKING: Amber Miller to step down as dean of Dornsife
+
+date: 2024-05-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Miller will leave the University to become president of the William and Flora Hewlett Foundation.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/29/breaking-amber-miller-to-step-down-as-dean-of-dornsife/">BREAKING: Amber Miller to step down as dean of Dornsife</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/05/29/breaking-amber-miller-to-step-down-as-dean-of-dornsife/>
+
+---
+
+## Narrated Articles — Opinion: Maintaining a maternal relationship is crucial amid challenges of adolescence
+
+date: 2024-05-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Listen to Opinion columnist Miu Kikuchi narrate her article &#8220;Opinion: Maintaining a maternal relationship is crucial amid challenges of adolescence.&#8221; The article was published May 17, 2024. 
+
+<https://dailybruin.com/2024/05/29/narrated-articles-opinion-maintaining-a-maternal-relationship-is-crucial-amid-challenges-of-adolescence/>
+
+---
+
+## This Week: May 24
+
+date: 2024-05-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Podcasts contributors Sofia Alcomandas, Lauren Miller and Olivia Miller discuss the death of Iranian president Ebrahim Raisi, the New York trial of former president Donald Trump and more. 
+
+<https://dailybruin.com/2024/05/29/this-week-may-24/>
+
+---
+
+## De-Stress Slime Time Event
+
+date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The post <a href="https://theroundupnews.com/2024/05/29/de-stress-slime-time-event/">De-Stress Slime Time Event</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/29/de-stress-slime-time-event/?utm_source=rss&utm_medium=rss&utm_campaign=de-stress-slime-time-event>
+
+---
+
+## Appreciating teachers year-round
+
+date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Being a professor can often be a thankless job. Students sometimes see certain classes as more of a roadblock to reaching their goal of graduation</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/29/appreciating-teachers-year-round/">Appreciating teachers year-round</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/29/appreciating-teachers-year-round/?utm_source=rss&utm_medium=rss&utm_campaign=appreciating-teachers-year-round>
+
+---
+
+## More field trips to improve student success
+
+date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce College is doing well with having established partnerships with four-year universities, but it can expand to ensure better transfer rates and student success. Field</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/29/more-field-trips-to-improve-student-success/">More field trips to improve student success</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/29/more-field-trips-to-improve-student-success/?utm_source=rss&utm_medium=rss&utm_campaign=more-field-trips-to-improve-student-success>
+
+---
+
+## Students need a sign
+
+date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Walking down the Pierce College Mall or through the Bookstore and cafe, students may not notice the marquee and television screens are either outdated or</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/29/students-need-a-sign/">Students need a sign</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/29/students-need-a-sign/?utm_source=rss&utm_medium=rss&utm_campaign=students-need-a-sign>
+
+---
+
+## Learning Self Defense
+
+date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce College is a big campus. With 426 acres, it&#8217;s difficult to keep its students safe all the time. According to the Title IX page</p>
+<p>The post <a href="https://theroundupnews.com/2024/05/29/learning-self-defense/">Learning Self Defense</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/05/29/learning-self-defense/?utm_source=rss&utm_medium=rss&utm_campaign=learning-self-defense>
 
 ---
 
@@ -167,7 +541,7 @@ date: 2024-05-29, from: The Round Up (Pierce College Student Newspaper)
 
 ## After A Challenging School Year, LGBTQ+ Educators Share Their Experiences
 
-date: 2024-05-29, updated: 2024-05-29, from: The LAist
+date: 2024-05-29, updated: 2024-05-30, from: The LAist
 
 Protests, flag bans, and book restrictions tested teachers’ ability to create a safe space for students to learn. 
 
@@ -309,7 +683,7 @@ UCLA has long been a leader in healthcare innovation. In this miniseries, Daily 
 
 date: 2024-05-29, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated May 28 at 9:58 p.m.</em>
+<em>This post was updated May 29 at 10:14 p.m.</em>
 Around 200 people gathered at Bruin Plaza on Tuesday to show support for the ongoing United Auto Workers Local 4811 strike.&#160;
 UCLA members of UAW Local 4811 – which represents academic student employees, graduate students, and academic and postdoctoral researchers – began picketing at 9 a.m. 
 
@@ -321,8 +695,9 @@ UCLA members of UAW Local 4811 – which represents academic student employees, 
 
 date: 2024-05-29, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated May 29 at 10:58 p.m.&#160;</em>
 Gabriela Jaquez was doing homework when she got a call on Mother&#8217;s Day.
-UCLA women&#8217;s basketball director of operations Pam Walker had an offer &#8211;  the chance to add another DI sport to the sophomore forward&#8217;s resume. 
+UCLA women&#8217;s basketball director of operations Pam Walker had an offer – the chance to add another Division I sport to the sophomore forward&#8217;s resume. 
 
 <https://dailybruin.com/2024/05/28/a-dream-come-true-how-gabriela-jaquez-joined-ucla-softball/>
 
@@ -342,7 +717,7 @@ Jack Garland: Welcome to Sidequest, a miniseries by Daily Bruin podcast where we
 
 ## UCLA Academic Workers Go On Strike, Growing Protest Against University Of California System
 
-date: 2024-05-28, updated: 2024-05-28, from: The LAist
+date: 2024-05-28, updated: 2024-05-30, from: The LAist
 
 Student researchers, teaching assistants and post-docs at UCLA and UC Davis went on strike Tuesday, expanding a strike that began at UC Santa Cruz earlier in May. 
 
@@ -531,7 +906,7 @@ UCLA men’s basketball legend Bill Walton died of cancer Monday at age 71, the 
 
 ## When Is A Strike Legal? And Who Gets To Decide? What's At Stake As UC Strikes Ramp Up
 
-date: 2024-05-27, updated: 2024-05-28, from: The LAist
+date: 2024-05-27, updated: 2024-05-29, from: The LAist
 
 If a state agency says the University of California's academic workers can't stay on strike, "a whole cascade of bad things" could happen. 
 

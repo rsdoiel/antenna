@@ -1,11 +1,111 @@
 ---
 title: games 2024.22
-updated: 2024-05-29 10:54:51
+updated: 2024-05-30 11:07:35
 ---
 
 # games 2024.22
 
-(date: 2024-05-29 10:54:51)
+(date: 2024-05-30 11:07:35)
+
+---
+
+## Cuckoo’s director hopes young people sneak into his movie and blow their minds
+
+date: 2024-05-30, updated: 2024-05-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24167466/cuckoo-director-tilman-singer-preview-interview-hunter-schafer>
+
+---
+
+## Life Eater is a time management horror game where I’m the monster
+
+date: 2024-05-30, updated: 2024-05-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24167967/life-eater-strange-scaffold-stalking-horror-game>
+
+---
+
+## The best sports movies you can watch at home
+
+date: 2024-05-30, updated: 2024-05-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/what-to-watch/23041486/best-sports-movies-good-watch-netflix-football-basketball-racing-fighting-boxing-mma>
+
+---
+
+## The Rogue Prince of Persia is a promising start with unfavorable odds
+
+date: 2024-05-30, updated: 2024-05-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24167461/the-rogue-prince-of-persia-review-early-access-dead-cells>
+
+---
+
+## Why Lucasfilm decided the High Republic is the future of Star Wars
+
+date: 2024-05-30, updated: 2024-05-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/star-wars/24167362/star-wars-acolyte-high-republic-future>
+
+---
+
+## GTA Online update for the week of May 30
+
+date: 2024-05-30, updated: 2024-05-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gta-online-guides/2024/5/30/24167876/may-30-weekly-update-events-benefactor>
+
+---
+
+## Not sure what game to put on the table this weekend? Leave a comment below for advice
+
+date: 2024-05-30, updated: 2024-05-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/tabletop-games/2024/5/30/24167375/best-board-game-ttrpg-tcg-play-now-recommendations>
+
+---
+
+## How to watch PlayStation’s new State of Play stream
+
+date: 2024-05-30, updated: 2024-05-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24158274/playstation-state-of-play-may-2024-date-sony>
+
+---
+
+## Let Keanu Reeves punch and shoot his way onto your summer reading list
+
+date: 2024-05-30, updated: 2024-05-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24166316/keanu-reeves-china-mieville-book-of-elsewhere-brzrkr>
+
+---
+
+## Netflix is making a Minecraft animated series
+
+date: 2024-05-30, updated: 2024-05-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24167807/minecraft-netflix-animated-series-tv-show>
 
 ---
 
@@ -66,16 +166,6 @@ date: 2024-05-29, updated: 2024-05-29, from: Polygon Website
  
 
 <https://www.polygon.com/24166978/tom-bombadil-rings-of-power-season-2-announcement>
-
----
-
-## Sony announces new PlayStation State of Play livestream for May
-
-date: 2024-05-29, updated: 2024-05-29, from: Polygon Website
-
- 
-
-<https://www.polygon.com/24158274/playstation-state-of-play-may-2024-date-sony>
 
 ---
 

@@ -1,11 +1,903 @@
 ---
 title: tech likely 2024.22
-updated: 2024-05-29 10:54:51
+updated: 2024-05-30 11:07:34
 ---
 
 # tech likely 2024.22
 
-(date: 2024-05-29 10:54:51)
+(date: 2024-05-30 11:07:34)
+
+---
+
+##  AI Is a False God. &#8220;The idea that AI will lead us... 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044711-ai-is-a-false-god>
+
+---
+
+## The Moon and Amaey Shah
+
+date: 2024-05-30, from: NASA breaking news
+
+Sometimes a story about a NASA volunteer just grabs your heart and won’t let go. NASA Scientist Dr. Brian Day shared with us the incredible story of what first ignited his passion for involving the public in his scientific research. It’s a story about a boy named Amaey Shah. “Through the NASA Speakers Bureau, I was paired […] 
+
+<https://science.nasa.gov/get-involved/citizen-science/the-moon-and-amaey-shah/>
+
+---
+
+##  The Purpose of a System Is What It Does. &#8220;Driving change requires... 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044712-the-purpose-of-a-system>
+
+---
+
+## Webb Spots a Starburst
+
+date: 2024-05-30, from: NASA breaking news
+
+The James Webb Space Telescope observed “starburst” galaxy NGC 4449, seen in this image released on May 29, 2024. Starbursts are intense periods of star formation usually concentrated at a galaxy’s core, but NGC 4449’s activity is much more widespread — likely due to past interactions with its galactic neighbors. Astronomers can study this galaxy [&#8230;] 
+
+<https://www.nasa.gov/image-article/webb-spots-a-starburst/>
+
+---
+
+##  &#8220;Planet of the Apes&#8221; Goes to a 70s Mall 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/planet-of-the-apes-goes-to-a-70s-mall>
+
+---
+
+## Disturbing and misleading efforts to defame Helen Toner through misdirection
+
+date: 2024-05-30, from: Gary Marcus blog
+
+OpenAI&#8217;s new board just made its loyalties clear. We should all be worried/ 
+
+<https://garymarcus.substack.com/p/disturbing-and-misleading-efforts>
+
+---
+
+## NASA Welcomes Peru as 41st Artemis Accords Signatory
+
+date: 2024-05-30, from: NASA breaking news
+
+NASA Administrator Bill Nelson welcomed Peru as the newest nation to sign the Artemis Accords Thursday during a ceremony with the U.S. State Department at NASA Headquarters in Washington. Peru joins 40 other countries in a commitment to advancing principles for the safe, transparent, and responsible exploration of the Moon, Mars and beyond. “NASA is [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-welcomes-peru-as-41st-artemis-accords-signatory/>
+
+---
+
+## Travel
+
+date: 2024-05-30, from: NASA breaking news
+
+The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has another way that a transferee Traveler may submit his [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/nssc/travel/>
+
+---
+
+## Twin NASA Satellites Ready to Help Gauge Earth’s Energy Balance
+
+date: 2024-05-30, from: NASA breaking news
+
+Information from the PREFIRE mission will illuminate how clouds and water vapor in the Arctic and Antarctic influence the amount of heat the poles radiate into space. A pair of new shoebox-size NASA satellites will help unravel an atmospheric mystery that’s bedeviled scientists for years: how the behavior of clouds and water vapor at Earth’s [&#8230;] 
+
+<https://www.nasa.gov/missions/prefire/twin-nasa-satellites-ready-to-help-gauge-earths-energy-balance/>
+
+---
+
+##  Here&#8217;s a behind-the-scenes of Ayo Edebiri doing the voice for the Envy... 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044706-heres-a-behind-the-scenes>
+
+---
+
+##  Bill McKibben reviews an exhibition with &#8220;images of climate change that cannot... 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044707-bill-mckibben-reviews-an->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-30, from: Dave Winer's Scripting News)
+
+BTW, I've noticed that Google often doesn't link to the Wikipedia page unless you specifically ask for it. I don't like that. I think it should always be at the top. 
+
+<http://scripting.com/2024/05/30.html#a143314>
+
+---
+
+## Summary of the 2023 GRACE Follow-On Science Team Meeting
+
+date: 2024-05-30, from: NASA breaking news
+
+Felix Landerer, NASA/Jet Propulsion Laboratory, felix.w.landerer@jpl.nasa.gov Introduction In October 2023, the annual gathering of the Gravity Recovery and Climate Experiment (GRACE) and GRACE Follow-On [G-FO] Science Team took place in Boulder, CO, hosted at University Corporation for Atmospheric Research’s (UCAR) Center Green campus. The event had 70 in-person participant and an additional 52 online participants […] 
+
+<https://science.nasa.gov/uncategorized/summary-of-the-2023-grace-follow-on-science-team-meeting/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-05-30, from: Miguel de Icaza Mastondon feed)
+
+<p>“Erik Prince, the founder of the military contractor Blackwater and younger brother of Betsy DeVos, invited around 650 of his contacts to join a secret, private group chat. And now it has leaked.”</p><p><a href="https://newrepublic.com/article/182008/erik-prince-secret-global-group-chat-off-leash" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">newrepublic.com/article/182008</span><span class="invisible">/erik-prince-secret-global-group-chat-off-leash</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112530448287276253>
+
+---
+
+##  Trailer for Season Three of The Bear 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/trailer-for-season-three-of-the-bear>
+
+---
+
+## Grotesque
+
+date: 2024-05-30, updated: 2024-05-30, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/05/30/grotesque/>
+
+---
+
+## Biden: Why isn't Trump in jail?
+
+date: 2024-05-30, from: Dave Winer's Scripting News
+
+<p>Biden would be a fine president if our problems were limited to the virus, the economy and climate change. </p>
+<p>He's like Obama, but with much more experience at getting things done in Washington. </p>
+<p>His failure is that the fascist movement in the country is much stronger now than it was when he took office. </p>
+<p>Are we better off than we were four years ago? No, sadly we are worse off. Trump is a much bigger threat now.</p>
+<p>Biden is a fine LBJ-like president. And like LBJ, he has his Vietnam. Biden's war he can't end is called Trump. Trump isn't in jail. That's the failure right there. </p>
+<p>The problem could be fixed if we had this discussion out in the open, so that the press raises it every day and in every press event. They shouldn't be trying to embarrass him about his age, that's rude and deceptive, instead they should ask why isn't Trump in jail?</p>
+<p>If Biden wanted to address this, and it would certainly help his chances of winning, he would:</p>
+<ul>
+<li>Fire Garland immediately.</li>
+<li>Apologize for not firing him sooner. It was a mistake. My mistake. I own it. I am sorry.</li>
+<li>Nominate <a href="https://en.wikipedia.org/wiki/Jamie_Raskin">Jamie Raskin</a>, <a href="https://en.wikipedia.org/wiki/Liz_Cheney">Liz Cheney</a> or <a href="https://en.wikipedia.org/wiki/Ruben_Gallego">Ruben Gallego</a> as the new AG.   </li>
+<li>Biden's number one promise is that he will <i>fully</i> prosecute Trump and all insurrectionists in his second term, starting now. This would also serve as a warning to any Trump supporters that tried to pull any tricks before or during the election. </li>
+</ul>
+<p>Trump is making a fool of Biden by saying openly that he will be a dictator on Day 1.</p>
+<p>People who think Trump is losing don't get it. People are rightly fed up with Biden. But not for the economy. That's bullshit. And not because he's old. Rather because he's selling us out, just hoping against hope that the voters will save us. It's kind of unreasonable to expect that when you, the person we elected president to get us out of this hole, didn't fire the biggest obstacle to our starting to dig. </p>
+<p>Depend on Mueller, Congress, the press, the courts, now the voters. </p>
+<p>No Biden, you're the president. This is <i>your</i> job. </p>
+ 
+
+<http://scripting.com/2024/05/30/134935.html?title=bidenWhyIsntTrumpInJail>
+
+---
+
+## 2024-05-23 Death and dying
+
+date: 2024-05-30, from: Alex Schroeder's Blog
+
+<h1 id="2024-05-23-death-and-dying">2024-05-23 Death and dying</h1>
+
+<p>This is the first time somebody is dying in my close family where I am old enough to be an adult about it.</p>
+
+<p>One of my sisters died when I was about twenty. I was living in Switzerland with my dad, and it was terrible to hear my mom crying at the phone, practically unable to tell me what had happened, to then see my father confused, shocked. I booked a flight for him but didn&rsquo;t go myself. My mom was living in Portugal with my two sisters. I wasn&rsquo;t there for my sister&rsquo;s burial. People had to be buried within 48 hours, back then. I don&rsquo;t know how things are now. There was school and stuff and I had not lived with my sisters for a few years. I didn&rsquo;t feel very close. It just felt weird. I didn&rsquo;t know what it was supposed to mean.</p>
+
+<p>Now, thirty years later, my stepfather is dying. His kidneys are failing, his liver is failing, his lungs are filling up with water, his heart is failing; they can&rsquo;t give him his heart medication because the kidneys are at their limits, can&rsquo;t have him move around because he&rsquo;s weak, and so he&rsquo;s breaking down. I mean, he&rsquo;s calm, he knows what&rsquo;s happening, and he&rsquo;s very, very tired. He&rsquo;s ready to go.</p>
+
+<p>I think that in my heart, I know that this is how it works. We have to go one day. I don&rsquo;t want to spend the last hours hooked up to machines. I&rsquo;ll be very, very tired. I&rsquo;ll just want to go home. I also won&rsquo;t want anybody around me to be sad. Hopefully, I&rsquo;ll feel that I lived a good life, that I had a good time, that the people I spend my time with were decent people, worthy of the short time I was given. I hope that I will be able to let go and be at peace. It&rsquo;s what I hear about my stepfather.</p>
+
+<p>But when I sit in that family video call, with siblings in Portugal and Germany and my, and my mother, and one after another people start crying, choking up, it&rsquo;s hard. It&rsquo;s a that invisible choker, grabbing us, one after another.</p>
+
+<p>I need to remember the good times, the conversations we had, the laughter we shared. I need to book a flight and see the rest of our family. All that independence and all that living abroad is coming back to haunt us, now.</p>
+
+<p>To go and support each other.</p>
+
+<p>Go and hug your loved ones.</p>
+
+<p><a class="tag" href="/search/?q=%23Family">#Family</a></p>
+
+<p><strong>2024-05-27</strong>. I arrived today. He didn’t look good at all. In fact, he seemed to be barely holding on to life. Sleeping, mostly. Occasionally, gasping for air, staring, maybe recognizing us, saying a word or two. It was heartbreaking. He died the same day. The doctor and the nurse came, two very friendly people. Removed the tubes, stopped the Morphium machine, made his death official.</p>
+
+<p>There were so many tears. A step brother, a half-brother, a half-sister, my sister, my half-brother’s wife, their kid, my mom… the kid was the only one that seemed unperturbed. “Don’t be sad, grandma!”</p>
+
+<p>Later the funerary services came to pick up the body. Again, both of them super nice. We’ll see how things go, tomorrow. My mother is not feeling well. I seem to be doing OK. I can be strong when it’s not my partner that has died.</p>
+
+<p>I’m happy we were all there for him, singing songs, bringing him his birthday cake (he died on his 78th birthday). I’m happy we were all there for each other.</p>
+
+<p><strong>2024-05-28</strong>. Cremation today. The sun is out. People on the radio.</p>
+
+<p><strong>2024-05-30</strong>. On the way home. It was good to see the family again. I gave a little speech in Portuguese, explaining how the language continues to remain important to us, even if we live a abroad, and how hard it was for a family where people live in different countries, alone – but also how our parents divorcing and marrying had led to an ever growing family. There are more parents, more siblings, and I love it and it helps. We can all help each other. And my deceased stepfather was certainly an enrichment for our family, bringing anarchy and lawlessness and laughter into a family that was rigid and regimented and dour, and how we all grew with that and how it was important to remember the good times we had and the lessens we all drew from his presence. Truly, a great influence for all of us.</p>
+
+<p>I still remember how I met him years before my mother met him. He lived across the river alone with his son, wild and free and I was so jealous. I wished to love like that! And then my parents divorced, my dad went back to Switzerland and a year later I followed him and got to live wild and free like them, it was amazing. And one day I came back and there were rumors that our mother had found a boyfriend. Imagine my surprise when it was him! The wild and free guitar playing dude from across the river! And eventually my friend from school turned into my stepbrother, moved in with my mom, lived in my room. It was mysterious and magical and then to see him and his father struggle with my mom, the changes they brought about, it was a miracle.</p>
+
+<p>So, my man, wherever you are, here‘s to you and your last trip, to your guitars and flutes, your love of music and freedom, your spirit of independence and love of people and aliens. Cheers! I hope to see you again.</p> 
+
+<https://alexschroeder.ch/view/2024-05-23-death>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-30, from: Dave Winer's Scripting News)
+
+The best humor is about other people being stupid, evil, clumsy or their misfortune. Watch a SNL skit. It's not about people being smart or brave, kind, generous or otherwise wonderful. That's another kind of entertainment. We find the misfortune of others funny. Especially famous, successful people. 
+
+<http://scripting.com/2024/05/30.html#a125832>
+
+---
+
+## Help identify these obscure operating systems and vendors
+
+date: 2024-05-30, from: OS News
+
+Over on the GNU config-patches mailing list, Zack Weinberg is looking for help identifying a number of ancient operating systems and vendors. These are probably all either vendor or OS names from the late 1980s or early 1990s. Can anyone help me fill out the following list of things that ought to appear in testsuite/config-sub.data, if I knew what to put in place of the question marks? ???-pc533 ???-pc533-??????-sim ???-sim-??????-ultra ???-ultra-??????-unicom ???-unicom-??????-acis ???-???-aos???-triton ???-???-sysv3???-oss ???-???-sysv3???-storm-chaos ???-???-??? ↫ Zack Weinberg One of them has already been identified &#8211; &#8220;storm-chaos&#8221; turns out to have been added to binutils and/or maybe GCC in 2000, and after some digging around, John Marshall found what it&#8217;s referring to: chaos, a hobby operating system for x86 written in C. It has a long history, and after a period of inactivity came back in 2015 with a new website. Some new releases followed, with the last one being version 0.3.0 in 2019. It&#8217;s been silence since then. The others are still up for grabs to be discovered. There is some talk that the pc533 one might be a misspelling of pc532, which would refer to the &#8220;NS32K-based PC532 board running NetBSD&#8221;. This is an incredibly obscure complete system built around the NS32532, of which only around 150 were built in the early &#8217;90s. However, Weinberg is hesitant to accept this theory without more information, since there is already code to handle the pc532, and he wants to be sure before making any changes. If there is one place on the internet outside of the GNU mailing lists that might be able to help Weinberg, it&#8217;s the OSNews audience. We have so many older people reading OSNews who have been working or otherwise active in this field for many decades, and I wouldn&#8217;t be surprised if these cryptic names make some bells ring for some of you. If one of you does e-mail a reply, be sure to mention this article &#8211; organic marketing to help keep us going! 
+
+<https://www.osnews.com/story/139830/help-identify-these-osbscure-operating-systems-and-vendors/>
+
+---
+
+## Keeping Up with the Collinses
+
+date: 2024-05-30, from: Dave Karpf's blog
+
+The dreary end of the Pronatalist "movement." 
+
+<https://davekarpf.substack.com/p/keeping-up-with-the-collinses>
+
+---
+
+## Odd Man Out
+
+date: 2024-05-30, from: Ayjay blog
+
+Carol Reed’s Odd Man Out is a brilliant movie about … well, that’s the question. Some people say it’s a movie about the IRA, but that’s certainly wrong, and not because the name of the organization and the name of the city in which the action is set are never mentioned. This is obviously Belfast, [&#8230;] 
+
+<https://blog.ayjay.org/odd-man-out/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-05-30, from: Miguel de Icaza Mastondon feed)
+
+<p>Fresh baked, new InputMap UI for Godot on iPad:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112529629910700025>
+
+---
+
+## Cat TV | The MagPi #142
+
+date: 2024-05-30, from: Raspberry Pi News (.com)
+
+<p>Prolific maker Becky Stern chose a Raspberry Pi display to entertain her favourite feline. Rosie Hattersley wholeheartedly approves.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/cat-tv-the-magpi-142/">Cat TV | The MagPi #142</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/cat-tv-the-magpi-142/>
+
+---
+
+## The Clubs Conference is coming back
+
+date: 2024-05-30, from: Raspberry Pi (.org)
+
+<p>Following the huge success of last year’s Clubs Conference, we are delighted to announce that we will be hosting the second-ever Clubs Conference on Saturday 30 November and Sunday 1 December 2024 in Cambridge, UK. The event will be a weekend of learning and connecting for volunteers and educators involved in Code Club, CoderDojo, and&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/the-clubs-conference-is-coming-back/">The Clubs Conference is coming back</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/the-clubs-conference-is-coming-back/>
+
+---
+
+## Deno 1.44: Private npm registries, improved Node.js compat, and performance boosts
+
+date: 2024-05-30, updated: 2024-05-30, from: Deno blog
+
+Deno 1.44 adds support for private npm registries, gRPC connections, improved Node.js compat with initial Next.js support, and significant performance improvements. 
+
+<https://deno.com/blog/v1.44>
+
+---
+
+## AI and the English language
+
+date: 2024-05-30, from: Manu - I write blog
+
+
+                <p>I was going through my morning routine of checking emails and various forums and chats, when I stumbled on <a href="https://fosstodon.org/@eleventy/112526068812208213">this post on mastodon</a>.</p>
+<p>Not going to comment on the stupidity of the suggestion itself but it got me wondering if the fact that most of the web is English-based is going to be both a blessing and a curse for these AI. There is just so much nonsense written in English online, maybe a lot more as a % compared to the other languages.</p>
+<p>I very much look forward to reading some studies done by someone smarter than me in the future. It's a fascinating topic.</p>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/0f8WD4qADIdYukSc>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-30, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/13/commanderDataStarTrek.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Art much simpler than some people think. It's not like a batting average or a weather forecast. It's not something that can be measured objectively. Art is the response that it evokes in the observer. It's art when people say "that's not art." And when someone says only human professionals create art, if he really believes that, he has no freaking clue what art is. 
+
+<http://scripting.com/2024/05/29.html#a021757>
+
+---
+
+## Kara Swisher, Sam Altman, and the OpenAI Board
+
+date: 2024-05-29, from: Gary Marcus blog
+
+Helen Toner finally explains what the board was thinking 
+
+<https://garymarcus.substack.com/p/kara-swisher-sam-altman-and-the-openai>
+
+---
+
+## Spaceflight affects tumor-bearing fruit fly hosts and their parasites
+
+date: 2024-05-29, from: NASA breaking news
+
+How does spaceflight affect tumor-bearing fruit fly hosts and their parasites? Background: Like humans, fruit flies (a model organism for spaceflight research) also exhibit immune system dysfunction in space. Despite decades of studies on fruit flies and wasps, little was known about how their immune systems interact with natural parasites in space.&#160;Drosophila&#160;parasitoid&#160;wasps modify blood cell [&#8230;] 
+
+<https://www.nasa.gov/general/spaceflight-affects-tumor-bearing-fruit-fly-hosts-and-their-parasites/>
+
+---
+
+## Google is killing off the messaging service inside Google Maps
+
+date: 2024-05-29, from: OS News
+
+Google is killing off a messaging service! This one is the odd &#8220;Google Business Messaging&#8221; service—basically an instant messaging client that is built into Google Maps. If you looked up a participating business in Google Maps or Google Search on a phone, the main row of buttons in the place card would read something like &#8220;Call,&#8221; &#8220;Chat,&#8221; &#8220;Directions,&#8221; and &#8220;Website.&#8221; That &#8220;Chat&#8221; button is the service we&#8217;re talking about. It would launch a full messaging interface inside the Google Maps app, and businesses were expected to use it for customer service purposes. Google&#8217;s deeply dysfunctional messaging strategy might lead people to joke about a theoretical &#8220;Google Maps Messaging&#8221; service, but it already exists and has existed for years, and now it&#8217;s being shut down. ↫ Ron Amadeo at Ars Technica When it comes to Google, it&#8217;s often hard to distinguish meme from reality. 
+
+<https://www.osnews.com/story/139828/google-is-killing-off-the-messaging-service-inside-google-maps/>
+
+---
+
+## A Fun AI Fail
+
+date: 2024-05-29, from: Doc Searls (at Harvard), New Old Blog
+
+Here is me, trying to get ChatGPT (version 4o, which I pay for) to give me an illustration to use in my last post here, titled The People&#8217;s AI. But don&#8217;t go there yet (if you haven&#8217;t already). What I ended up using there is a punchline at the end of the dialog that starts [&#8230;] 
+
+<https://doc.searls.com/2024/05/29/a-fun-ai-fail/>
+
+---
+
+## Vox Media and The Atlantic sign content deals with OpenAI
+
+date: 2024-05-29, from: OS News
+
+Speaking of The Verge, its parent company Vox Media, along with The Atlantic, have signed a deal with OpenAI. Two more media companies have signed licensing agreements with OpenAI, allowing their content to be used to train its AI models and be shared inside of ChatGPT. The Atlantic and Vox Media — The Verge’s parent company — both announced deals with OpenAI on Wednesday. ↫ Emilia David at The Verge In the case of Vox Media, the deal was made and announced without informing their staff, which obviously doesn&#8217;t sit well with especially Vox&#8217; writers. By making deals like this, upper management gets to double-dip on the fruits of their workers&#8217; labour &#8211; first, the published content generates ad revenues, and second, OpenAI pays them to use said content for training and other purposes. And once the &#8220;AI&#8221; gets good enough, more and more of the writers will be fired, leaving only a skeleton crew of lower-paid workers to clean up the &#8220;AI&#8221; output. With this deal, the writing is on the wall for every journalist at Vox Media &#8211; you&#8217;re currently contributing to your own obsolescence, and your bosses are getting paid for it. As far as I know, OSNews&#8217; owner, David, has not yet been contacted by OpenAI. Regardless, I&#8217;ll sell the past 20-odd years of my terrible takes for 69 million euros, after deducting Swedish taxes. And since OpenAI is run by billionaires: taxes are this thing where normal people pay a portion of their income to the government in return for various government services. It&#8217;s wild, I know. 
+
+<https://www.osnews.com/story/139825/vox-media-and-the-atlantic-sign-content-deals-with-openai/>
+
+---
+
+##  &#8220;My Bike Is Everything to Me&#8221; 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/my-bike-is-everything-to-me>
+
+---
+
+## The Marshall Star for May 29, 2024
+
+date: 2024-05-29, from: NASA breaking news
+
+More to Marshall: Center Leadership Provides Updates During Spring All-Hands Meeting By Wayne Smith NASA’s Marshall Space Flight Center will celebrate its 65th birthday next summer, and while there are plans to honor the center’s rich history, there is also More to Marshall ahead. That was part of the message Center Director Joseph Pelfrey delivered [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-may-29-2024/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-05-29, from: Miguel de Icaza Mastondon feed)
+
+<p>In Part 8 of my ongoing blog post series on bringing Godot to the iPad, I discuss the code editing and debugging experience:</p><p><a href="https://blog.la-terminal.net/xogot-code-editing/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/xogot-cod</span><span class="invisible">e-editing/</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112526207975027994>
+
+---
+
+## NASA Goddard, Maryland Sign Memo to Boost State’s Aerospace Sector
+
+date: 2024-05-29, from: NASA breaking news
+
+To foster growth in Maryland’s aerospace industry, the state’s Department of Commerce signed a Memorandum of Understanding with NASA at the agency’s Goddard Space Flight Center in Greenbelt Wednesday, May 28, 2024. The agreement commits the two organizations to develop the state’s aerospace economy, particularly in the area surrounding Goddard’s main Greenbelt campus, as well [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/goddard/nasa-goddard-maryland-sign-memo-to-boost-states-aerospace-sector/>
+
+---
+
+##  How planes fly: &#8220;Air, very important magic.&#8221; See also: No One Can... 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044702-how-planes-fly-air-very>
+
+---
+
+## Technical writing is not a dead-end job, it's a landing pad
+
+date: 2024-05-29, from: Blog by Fabrizio Ferri-Benedetti
+
+With the job market getting tougher by the day, there&rsquo;s a rising belief among tech writers that their role is &ldquo;too niche&rdquo; and a &ldquo;dead-end job&rdquo;. I think that&rsquo;s the wrong way of looking at our profession — at any profession. Let me cast aside that dark veil of pessimism and offer an alternative viewpoint, that of tech writing as a platform to other professions, one that lets you move laterally with just a bit of curiosity and courage. 
+
+<https://passo.uno/posts/technical-writing-is-not-a-dead-end-job/>
+
+---
+
+## 25 Years Ago: STS-96 Resupplies the Space Station
+
+date: 2024-05-29, from: NASA breaking news
+
+On May 27, 1999, the second space station assembly and logistics mission began. The main goals of STS-96, designated as the 2A.1 mission in the overall assembly sequence, included resupplying and repairing the fledgling orbital facility, consisting of the Zarya and Node 1 modules assembled during STS-88 in December 1998. The multinational seven-member crew transferred [&#8230;] 
+
+<https://www.nasa.gov/history/25-years-ago-sts-96-resupplies-the-space-station/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-29, from: Dave Winer's Scripting News)
+
+How can we tell if ChatGPT is intelligent? How can I tell if you're intelligent. How do I know I'm intelligent. It could be my "intelligence" is as algorithmic as ChatGPT's. It could be that my intelligence is only a <a href="https://en.wikipedia.org/wiki/Self-preservation">survival mechanism</a>, and the only way I could think of something I think is intelligent is if it furthers my chance to reproduce. But what happens when our intellect instructs us to destroy the environment we depend on for life? It could be we are already obsolete, without the robots, it sure feels that way, and that our only <a href="https://en.wikipedia.org/wiki/Noah%27s_Ark">ark</a> that could lead us to a new place where our species can survive in some form is for us to morph into electronic beings whose intelligence is distributed around the planet so we don't die if it becomes uninhabitable in one place, but not in others. And a LLM might thrive in an environment that can't support human life. 
+
+<http://scripting.com/2024/05/29.html#a194217>
+
+---
+
+## Microsoft’s ‘Auto Super Resolution’ DLSS competitor isn’t exclusive to Qualcomm
+
+date: 2024-05-29, from: OS News
+
+When you launch a game on a Snapdragon on a Windows laptop, you might get an AI frame rate boost from Microsoft’s mysterious Auto Super Resolution (Auto SR) feature. But while Microsoft hasn’t fully explained how the feature works, The Verge can now confirm it’s not Qualcomm technology, not exclusive to Qualcomm’s new Snapdragon X chips, and not exclusive to specific games, either. ↫ Sean Hollister at The Verge These resolution enhancer technologies from NVIDIA, AMD, and apparently Microsoft are another great use of what we today call &#8220;AI&#8221; technologies. Of course, I wish we didn&#8217;t have to deal with several proprietary offerings but instead enjoyed several open source versions and possibly a standard to work off of, but give it some time, and we may still get there. Like I&#8217;ve said before &#8211; there&#8217;s nothing inherently wrong with &#8220;AI&#8221; technologies, as long as they&#8217;re used in ways that make sense, run locally, and most importantly, aren&#8217;t based on the wholesale theft of artists&#8217; and programmers&#8217; works. Unsurprisingly, the tech bros at companies like OpenAI don&#8217;t really understand the concept of &#8220;consent&#8221;, and until they do, their offerings should be deemed illegal. 
+
+<https://www.osnews.com/story/139821/microsofts-auto-super-resolution-dlss-competitor-isnt-exclusive-to-qualcomm/>
+
+---
+
+##  404 Media explains the antitrust lawsuit against Live Nation/Ticketmaster. &#8220;It is about... 
+
+date: 2024-05-29, updated: 2024-05-29, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044704-404-media-explains-the-an>
+
+---
+
+## App Store Apps Can Be Translocated
+
+date: 2024-05-29, from: Michael Tsai
+
+Howard Oakley: This article demonstrates that the last of those isn&#8217;t necessarily true, and what happens when an App Store app ends up being translocated. The combination of an App Store app with a quarantine xattr is a particular problem for users, as those apps are installed direct to their intended final destination, and their [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/29/app-store-apps-can-be-translocated/>
+
+---
+
+## CloudKit Throttles and Debugging
+
+date: 2024-05-29, from: Michael Tsai
+
+TN3162: The CloudKit infrastructure is shared by all apps and services. The resources are finite, and so high utilization from one app can negatively affect others. To avoid this kind of impact and optimize the overall experience, CloudKit implements a number of limits and controls on incoming traffic, which are known as throttles.CloudKit can enforce [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/29/cloudkit-throttles-and-debugging/>
+
+---
+
+## Can Anyone But a Tech Giant Build the Next Big Thing?
+
+date: 2024-05-29, from: Michael Tsai
+
+Jason Snell (Mastodon): I&#8217;m sad about the Ai Pin because it&#8212;and a similar AI hardware product, the Rabbit R1&#8212;shows just how much potential innovation is strangled by the presence of enormously powerful tech companies, most notably the Android-iPhone duopoly. [&#8230;] The problem is that I&#8217;m dismissing the Ai Pin and looking forward to the Apple [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/29/can-anyone-but-a-tech-giant-build-the-next-big-thing/>
+
+---
+
+## Kino: My New Favorite iPhone Video App
+
+date: 2024-05-29, from: Stu Maschwitz blog
+
+<figure class="
+              sqs-block-image-figure
+              intrinsic
+            "
+        >
+          
+        
+        
+
+        
+          <a class="
+                sqs-block-image-link
+                
+          
+        
+              " href="https://www.shotwithkino.com" target="_blank"
+          >
+            
+          
+            
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/8edb8985-b8fd-462c-9b92-4e9966ec843b/Untitled+Project_RPReplay_Final1716950678+%2800561%29.jpg" data-image-dimensions="1920x886" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/8edb8985-b8fd-462c-9b92-4e9966ec843b/Untitled+Project_RPReplay_Final1716950678+%2800561%29.jpg?format=1000w" width="1920" height="886" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/8edb8985-b8fd-462c-9b92-4e9966ec843b/Untitled+Project_RPReplay_Final1716950678+%2800561%29.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/8edb8985-b8fd-462c-9b92-4e9966ec843b/Untitled+Project_RPReplay_Final1716950678+%2800561%29.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/8edb8985-b8fd-462c-9b92-4e9966ec843b/Untitled+Project_RPReplay_Final1716950678+%2800561%29.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/8edb8985-b8fd-462c-9b92-4e9966ec843b/Untitled+Project_RPReplay_Final1716950678+%2800561%29.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/8edb8985-b8fd-462c-9b92-4e9966ec843b/Untitled+Project_RPReplay_Final1716950678+%2800561%29.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/8edb8985-b8fd-462c-9b92-4e9966ec843b/Untitled+Project_RPReplay_Final1716950678+%2800561%29.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/8edb8985-b8fd-462c-9b92-4e9966ec843b/Untitled+Project_RPReplay_Final1716950678+%2800561%29.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+          
+        
+          </a>
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <p class="">The new Kino app recording ProRes Log with a custom preview LUT.</p>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    
+  
+
+
+  
+
+
+<p>Yes we’re still talking about shooting video on iPhones. But I also want to talk about digital cinema shooting in general, in a world where top camera makers are battling to give filmmakers everything we want in a small, affordable package.</p><p>How does the DV Rebel spirit — born of camcorders and skateboard dollies — live on in a time of purpose-built digital cinema cameras that fit in your hand? For me, it’s meant keeping my rigs small and manageable. I love gimbals and drones and lidar focus rigs, but I’m happiest when my whole rig — tripod and all — can be picked up and moved with one hand.</p><p>We suffered through so many years of too little camera, but now it’s quite easy to have way too much camera. I want to live in that sweet spot where image quality is not compromised, but I can still move fast.</p><p>Turns out the same is true of camera apps.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            "
+        >
+          
+        
+        
+
+        
+          
+            
+              
+              
+          
+            
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/c7d98820-4621-4437-87d4-1aef22bf20d7/IMG_1431.jpg" data-image-dimensions="2766x1565" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/c7d98820-4621-4437-87d4-1aef22bf20d7/IMG_1431.jpg?format=1000w" width="2766" height="1565" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/c7d98820-4621-4437-87d4-1aef22bf20d7/IMG_1431.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/c7d98820-4621-4437-87d4-1aef22bf20d7/IMG_1431.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/c7d98820-4621-4437-87d4-1aef22bf20d7/IMG_1431.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/c7d98820-4621-4437-87d4-1aef22bf20d7/IMG_1431.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/c7d98820-4621-4437-87d4-1aef22bf20d7/IMG_1431.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/c7d98820-4621-4437-87d4-1aef22bf20d7/IMG_1431.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/c7d98820-4621-4437-87d4-1aef22bf20d7/IMG_1431.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+          
+        
+            
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <p class="">Photo by Karen Lum</p>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    
+  
+
+
+  
+
+
+<h2>The Goldilocks of iPhone ProRes Log</h2>
+<p>The built-in iPhone camera app is too little camera for shooting ProRes Log. There’s no preview LUTs, no manual adjustments, and the viewfinder is obscured by the controls.</p>
+<p>The Blackmagic Camera app is a truly wonderful gift to the Apple Log shooter, addressing all these issues. The only feature it lacks is the ability to pick it up in a rush and quickly make great-looking video. So, confession time: I almost never use it for anything other than the most controlled studio shooting. My <a href="https://prolost.com/blog/iphonelog-peru-taiwan">Peru and Taiwan travel clips</a>? Almost entirely shot with the native camera app.</p>
+<p>There’s a massive gulf between the too-little Apple app and the too-much Blackmagic offering. And my friends at Lux, makers of the wonderful <a href="https://halide.cam">Halide</a> still photo app for iPhone, have created a new video app that lives squarely in this sweet spot.</p>
+<h2>Kino</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            "
+        >
+          
+        
+        
+
+        
+          
+            
+              
+              
+          
+            
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/d7cb2b0d-4d56-4896-b2a3-93d861163181/IMG_8875.PNG" data-image-dimensions="2796x1290" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/d7cb2b0d-4d56-4896-b2a3-93d861163181/IMG_8875.PNG?format=1000w" width="2796" height="1290" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/d7cb2b0d-4d56-4896-b2a3-93d861163181/IMG_8875.PNG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/d7cb2b0d-4d56-4896-b2a3-93d861163181/IMG_8875.PNG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/d7cb2b0d-4d56-4896-b2a3-93d861163181/IMG_8875.PNG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/d7cb2b0d-4d56-4896-b2a3-93d861163181/IMG_8875.PNG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/d7cb2b0d-4d56-4896-b2a3-93d861163181/IMG_8875.PNG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/d7cb2b0d-4d56-4896-b2a3-93d861163181/IMG_8875.PNG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/d7cb2b0d-4d56-4896-b2a3-93d861163181/IMG_8875.PNG?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+          
+        
+            
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <p class="">Choose from built-in LUTs, or load your own. Bake them in, or just preview through them as you record uncorrected log.</p>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    
+  
+
+
+  
+
+
+<p><a href="http://www.shotwithkino.com/">Kino</a> is an app you can pop open and start shooting with right away, with just enough control to maximize the final quality of your iPhone video. It’s fast, fun, and a joy to use thanks to its thoughtful and beautiful design.</p><p>Out of the (<a href="https://www.threads.net/@halideapp/post/C7hmQFOiwFZ">skeuomorphic</a>) box, Kino is basically an app that shoots better-looking video on your recent iPhone. You can choose from professionally-designed LUTs to dial in the look you want.</p><p>On iPhone 15 Pro and Pro Max, Kino becomes a log-shooting powerhouse. You can choose whether to bake the LUT into your footage or not, and you can add your own LUTs.</p><p>Maybe my favorite feature is Auto Motion. While Apple’s camera app prefers fast shutter angles, Kino tries to keep you as close to a cinematic 180º shutter speed as possible.</p><p>Kino runs the spectrum from consumer app that just makes iPhone video look better to professional control and options. It’s the perfect DV Rebel video app.</p><h2>Prolost Brand LUTs</h2><p>Kino features LUTs created by filmmakers you’ll recognize, but the honor of supplying the most boring LUT fell to me. The Neutral LUT is none other than my Prolost “TECH” LUT that I explained <a href="https://prolost.com/blog/iphonelog-peru-taiwan">here</a>.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            "
+        >
+          
+        
+        
+
+        
+          <a class="
+                sqs-block-image-link
+                
+          
+        
+              " href="https://www.shotwithkino.com" target="_blank"
+          >
+            
+          
+            
+                
+                
+                
+                
+                
+                
+                
+                <img data-stretch="false" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/65009557-d3ff-4129-b8aa-896be29384de/Screenshot+2024-05-29+at+10.40.03%E2%80%AFAM.png" data-image-dimensions="2604x1244" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/65009557-d3ff-4129-b8aa-896be29384de/Screenshot+2024-05-29+at+10.40.03%E2%80%AFAM.png?format=1000w" width="2604" height="1244" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/65009557-d3ff-4129-b8aa-896be29384de/Screenshot+2024-05-29+at+10.40.03%E2%80%AFAM.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/65009557-d3ff-4129-b8aa-896be29384de/Screenshot+2024-05-29+at+10.40.03%E2%80%AFAM.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/65009557-d3ff-4129-b8aa-896be29384de/Screenshot+2024-05-29+at+10.40.03%E2%80%AFAM.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/65009557-d3ff-4129-b8aa-896be29384de/Screenshot+2024-05-29+at+10.40.03%E2%80%AFAM.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/65009557-d3ff-4129-b8aa-896be29384de/Screenshot+2024-05-29+at+10.40.03%E2%80%AFAM.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/65009557-d3ff-4129-b8aa-896be29384de/Screenshot+2024-05-29+at+10.40.03%E2%80%AFAM.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/65009557-d3ff-4129-b8aa-896be29384de/Screenshot+2024-05-29+at+10.40.03%E2%80%AFAM.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+          
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    
+  
+
+
+  
+
+
+<h2>Point and Shoot Experience, Pro Results</h2>
+<p>Accessibility is core to the DV Rebel ethos, and along with that came a focus on tuning not-quite-professional gear to achieve cinematic results. Years ago, this was essential for the indie filmmaker, as professional gear was truly unattainable.</p>
+<p>But even when professional tools are abundant and affordable (seriously, what a time to be a filmmaker!), sometimes the right camera for the job is the one that <em>feels great to shoot with.</em> And the same is true for camera apps.</p>
+
+
+
+
+  <a href="https://www.shotwithkino.com" class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element" target="_blank"
+  >
+    SHOTWITHKINO.COM
+  </a> 
+
+<https://prolost.com/blog/kino>
 
 ---
 
@@ -46,6 +938,17 @@ date: 2024-05-29, from: NASA breaking news
 Renowned ozone scientist Dr. Richard “Rich” Stolarski died on February 22, 2024, at age 82 from the complications of prostate cancer. Rich was born at Fort Lewis, WA on November 22, 1941. After short stays in Kansas and Hawaii, Rich’s family settled in Tacoma, WA. He attended Stadium High School for three years and Wilson […] 
 
 <https://science.nasa.gov/uncategorized/in-memoriam-dr-richard-s-stolarski-1941-2024/>
+
+---
+
+## Red Hat Enterprise Linux and AlmaLinux 8.10 released as end of the RHEL 8 line looms
+
+date: 2024-05-29, updated: 2024-05-29, from: Liam Proven's articles at the Register
+
+<h4>Some derivatives haven't got there yet, but it's time to get a move on...</h4>
+      <p>Two notable North American Linux distributors have emitted the last release in their 8.x series – although other vendors have yet to catch up with that cycle.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/05/29/rhel_and_alma_8_10/>
 
 ---
 
@@ -125,7 +1028,7 @@ Michael Abrams, NASA/Jet Propulsion Laboratory/California Institute of Technolog
 
 **@Dave Winer's Scripting News** (date: 2024-05-29, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/13/commanderDataStarTrek.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://tulanehullabaloo.com/65986/uncategorized/imitation-game-can-ai-rival-student-intellect/">Walter Isaacson asks</a> if ChatGPT can rival a student's intellect. My answer as a former teaching assistant who graded lots of student programs, absolutely. It rivals the intellect of every human being I know, including professors. It hasn't learned yet how to synthesize new ideas, it seems. And there are strong guardrails that keep it from going into certain areas. It is more capable than we know, therefore. BTW, I didn't realize he teaches at <a href="https://en.wikipedia.org/wiki/Tulane_University">Tulane</a>. I got my undergraduate degree there in 1976. 
+<a href="https://tulanehullabaloo.com/65986/uncategorized/imitation-game-can-ai-rival-student-intellect/">Walter Isaacson asks</a> if ChatGPT can rival a student's intellect. My answer as a former teaching assistant who graded lots of student programs, absolutely. It rivals the intellect of every human being I know, including professors. It hasn't learned yet how to synthesize new ideas, it seems. And there are strong guardrails that keep it from going into certain areas. It is more capable than we know, therefore. BTW, I didn't realize he teaches at <a href="https://en.wikipedia.org/wiki/Tulane_University">Tulane</a>. I got my undergraduate degree there in 1976. 
 
 <http://scripting.com/2024/05/29.html#a151345>
 
@@ -346,6 +1249,16 @@ The Turbo9 is a pipelined microprocessor IP written in Verilog that executes a s
 
 ---
 
+## Systems: The Purpose of a System is What It Does
+
+date: 2024-05-29, updated: 2024-05-29, from: Anil Dash
+
+ 
+
+<https://anildash.com/2024/05/29/systems-the-purpose-of-a-system/>
+
+---
+
 ##  An Instagram account full of the amazing, slightly deranged, and (I&#8217;d assume)... 
 
 date: 2024-05-28, updated: 2024-05-28, from: Jason Kottke blog
@@ -443,6 +1356,16 @@ date: 2024-05-28, from: OS News
 Aside from that, the company also announced Windows 11 IoT Enterprise LTSC 2024 this week. The company has also published the minimum system requirements as well as supported processor families. They have been categorized as Preferred and Optional. Interestingly, SSD has been added as a minimum system requirement, which has been a rumour about the client OS since mid-2022. ↫ Sayan Sen at NeoWin The LTSC release, which is not really supposed to be used by average consumers, is still remarkably popular. It contains a fixed feature set and gets far fewer updates than regular Windows releases, it omits otherwise stock applications like Edge, and gives its users far more control over which updates are and are not installed. LTSC also enjoys 10 years of support from Microsoft. Interestingly enough, the minimum specifications for the IoT version of LTSC do not require a TPM 2.0, unlike the regular version of Windows, which infamously does require one. I would assume that the &#8220;preferred&#8221; minimum requirements, which does require TPM 2.0, line up very well with the minimum requirements for the regular LTSC version of Windows 11. Both will become available later this year, alongside the regular release of Windows 11 24H2. 
 
 <https://www.osnews.com/story/139813/microsoft-published-minimum-system-requirements-cpu-support-for-windows-11-ltsc-2024/>
+
+---
+
+## Internet Archive and the Wayback Machine under DDoS cyber-attack
+
+date: 2024-05-28, from: Internet Archive Blog
+
+The Internet Archive, the nonprofit research library that’s home to millions of historical documents, preserved websites, and media content, is currently in its third day of warding off an intermittent [&#8230;] 
+
+<https://blog.archive.org/2024/05/28/internet-archive-and-the-wayback-machine-under-ddos-cyber-attack/>
 
 ---
 
@@ -571,7 +1494,7 @@ Earth planning date: Friday, May 24, 2024 The first sol of this weekend includes
 
 date: 2024-05-28, from: Doc Searls (at Harvard), New Old Blog
 
-People need their own AIs. Personally and collectively. We won&#8217;t get them from Anthropic, Apple, Google, Meta, or Microsoft. Not even from Apple. All of those companies will want to provide AIaaS: AI as a Service, rather than AI that&#8217;s yours alone. Or ours, collectively. The People&#8217;s AI can only come from people. Since it [&#8230;] 
+People need their own AIs. Personally and collectively. We won&#8217;t get them from Anthropic, Apple, Google, OpenAI, Meta, or Microsoft. Not even from Apple. All those companies will want to provide AIaaS: AI as a Service, rather than AI that&#8217;s yours alone. Or ours, collectively. The People&#8217;s AI can only come from people. Since it [&#8230;] 
 
 <https://doc.searls.com/2024/05/28/the-peoples-ai/>
 
@@ -783,44 +1706,6 @@ date: 2024-05-28, from: Raspberry Pi (.org)
  
 
 <https://www.raspberrypi.org/blog/what-would-an-ipo-mean-for-the-raspberry-pi-foundation/>
-
----
-
-## 2024-05-23 Death and dying
-
-date: 2024-05-28, from: Alex Schroeder's Blog
-
-<h1 id="2024-05-23-death-and-dying">2024-05-23 Death and dying</h1>
-
-<p>This is the first time somebody is dying in my close family where I am old enough to be an adult about it.</p>
-
-<p>One of my sisters died when I was about twenty. I was living in Switzerland with my dad, and it was terrible to hear my mom crying at the phone, practically unable to tell me what had happened, to then see my father confused, shocked. I booked a flight for him but didn&rsquo;t go myself. My mom was living in Portugal with my two sisters. I wasn&rsquo;t there for my sister&rsquo;s burial. People had to be buried within 48 hours, back then. I don&rsquo;t know how things are now. There was school and stuff and I had not lived with my sisters for a few years. I didn&rsquo;t feel very close. It just felt weird. I didn&rsquo;t know what it was supposed to mean.</p>
-
-<p>Now, thirty years later, my stepfather is dying. His kidneys are failing, his liver is failing, his lungs are filling up with water, his heart is failing; they can&rsquo;t give him his heart medication because the kidneys are at their limits, can&rsquo;t have him move around because he&rsquo;s weak, and so he&rsquo;s breaking down. I mean, he&rsquo;s calm, he knows what&rsquo;s happening, and he&rsquo;s very, very tired. He&rsquo;s ready to go.</p>
-
-<p>I think that in my heart, I know that this is how it works. We have to go one day. I don&rsquo;t want to spend the last hours hooked up to machines. I&rsquo;ll be very, very tired. I&rsquo;ll just want to go home. I also won&rsquo;t want anybody around me to be sad. Hopefully, I&rsquo;ll feel that I lived a good life, that I had a good time, that the people I spend my time with were decent people, worthy of the short time I was given. I hope that I will be able to let go and be at peace. It&rsquo;s what I hear about my stepfather.</p>
-
-<p>But when I sit in that family video call, with siblings in Portugal and Germany and my, and my mother, and one after another people start crying, choking up, it&rsquo;s hard. It&rsquo;s a that invisible choker, grabbing us, one after another.</p>
-
-<p>I need to remember the good times, the conversations we had, the laughter we shared. I need to book a flight and see the rest of our family. All that independence and all that living abroad is coming back to haunt us, now.</p>
-
-<p>To go and support each other.</p>
-
-<p>Go and hug your loved ones.</p>
-
-<p><a class="tag" href="/search/?q=%23Family">#Family</a></p>
-
-<p><strong>2024-05-27</strong>. I arrived today. He didn’t look good at all. In fact, he seemed to be barely holding on to life. Sleeping, mostly. Occasionally, gasping for air, staring, maybe recognizing us, saying a word or two. It was heartbreaking. He died the same day. The doctor and the nurse came, two very friendly people. Removed the tubes, stopped the Morphium machine, made his death official.</p>
-
-<p>There were so many tears. A step brother, a half-brother, a half-sister, my sister, my half-brother’s wife, their kid, my mom… the kid was the only one that seemed unperturbed. “Don’t be sad, grandma!”</p>
-
-<p>Later the funerary services came to pick up the body. Again, both of them super nice. We’ll see how things go, tomorrow. My mother is not feeling well. I seem to be doing OK. I can be strong when it’s not my partner that has died.</p>
-
-<p>I’m happy we were all there for him, singing songs, bringing him his birthday cake (he died on his 78th birthday). I’m happy we were all there for each other.</p>
-
-<p><strong>2024-05-28</strong>. Cremation today. The sun is out. People on the radio.</p> 
-
-<https://alexschroeder.ch/view/2024-05-23-death>
 
 ---
 

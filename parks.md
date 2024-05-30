@@ -1,19 +1,19 @@
 ---
 title: parks 2024.22
-updated: 2024-05-29 10:54:51
+updated: 2024-05-30 11:07:35
 ---
 
 # parks 2024.22
 
-(date: 2024-05-29 10:54:51)
+(date: 2024-05-30 11:07:35)
 
 ---
 
-## Pathways to Public Service: Liem Huynh
+## Military Appreciation: Building Partnerships in Idaho
 
-date: 2024-05-29, from: Bureau of Land Management, blog
+date: 2024-05-30, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>Pathways to Public Service: Liem Huynh</h1></div>
+<div class="field contact-block -title"><h1>Military Appreciation: Building Partnerships in Idaho</h1></div>
       
 
 
@@ -21,12 +21,12 @@ date: 2024-05-29, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><p>For Liem Huynh (pronounced LEE-em HU-win), after six years of service as a Public Affairs Specialist in the U.S. Army, it felt like a natural next step to join the BLM’s National Training Center as an Audio-Visual Production Specialist. But the full story of how Liem came to work for the Bureau in April 2023 is a remarkable one. His story also reflects importantly on the larger narrative of the BLM itself, as it continues to meet the mission by building a more diverse and inclusive workforce.</p>
+            <div class="field contact-block -body"><p style="margin-bottom:16px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><i>As we observe Military Appreciation Month, Air Force Maj. Megan Kiska explains the value in building partnerships. </i></span></span></p>
 
-<p>Liem started life in a small town in central Vietnam. In 2006, he and his parents, along with his brother, moved to Minneapolis, Minnesota. He graduated from high school there and earned a degree in Digital Video and Media Production. Then, in 2015, seeking to leverage his skills in audio-visual production, he enlisted in the U.S. Army and completed his Military Occupational Specialty as a Public Affairs Specialist at the Defense Information School in Fort Meade, Maryland.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">What do an Idaho Air National Guard mission protocol officer and a BLM Idaho administrative assistant for support services have in common?&nbsp; You might be surprised.</span></span></p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a1f27087-3653-4a99-9243-4b7d80ef939d" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cb4a2318-a59b-4851-8644-9a1b46ad3b20" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -35,7 +35,7 @@ date: 2024-05-29, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/Liem%20Huynh1.jpg?itok=rZOHroTg" width="640" height="427" alt="The photo shows a man facing the camera in a stocking cap, glasses, and winter fatigues as he stands near an ice-covered tree branch and looks down into the viewfinder of his own video camera.  " typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_2024.jpg?itok=kYOqkzur" width="640" height="480" alt="Air Force Maj. Megan Kiska on helo ride during the IRT. " typeof="foaf:Image">
 
 
 </div>
@@ -43,19 +43,20 @@ date: 2024-05-29, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>Liem Huynh captures video while deployed in Germany in December 2017. Photo Credit: U.S.<br>
-Army 22nd Mobile Public Affairs Detachment.</figcaption>
+<figcaption>Air Force Maj. Megan Kiska participates in the 2024 Idaho Air National Guard Innovative Readiness Training.</figcaption>
 </figure>
 
 
-<p>What followed was, as Liem himself describes, something of a whirlwind: a first deployment to South America to support the U.S. military’s effort on the Zika virus; being tasked with telling the story of communities hard hit by Hurricane Harvey and how the U.S. Army assisted them; a subsequent deployment to Europe to help focus attention on U.S. partnerships with allies there; and then further service back in the United States, where Liem provided critical assistance during the COVID-19 pandemic and helped soldiers exercise their right to vote during the 2020 elections.</p>
+<p style="margin-bottom:8px">&nbsp;</p>
 
-<p>These experiences changed Liem dramatically. Entering the Army as a shy, quiet kid, Liem felt compelled to live and work with others from a range of backgrounds who were often both outgoing and outspoken. His military service provided valuable lessons in how diverse and inclusive teams—using what he calls a “multi-angled” approach—are stronger and more effective than more homogenous teams adhering to a “my-way-or-no-way” approach.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">When Megan Kiska walks the corridors of the Bureau of Land Management Idaho State Office, you wouldn’t know in addition to her mission of protecting the land for future generations, she is also a major in the Idaho National Guard building relationships with local Tribal communities.&nbsp;&nbsp;<br>
+<br>
+This May, Air Force Maj. Megan Kiska, deployed for two weeks with the Idaho Air National Guard during their Innovative Readiness Training (IRT), with the goal of providing annual medical care to the Tribal Nations of Nez Perce (Nimiipuu) and Shoshone-Paiute (Sho- Pai).</span></span></p>
 
-<p>Liem brought these lessons with him to the BLM, where he continues his prior mission of public service.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">While most Tribal members receive Tribal medical coverage, “some family members and locals on the reservation may not receive health coverage,” says Megan.&nbsp; “The IRT is a collaborative program that leverages military and community resources to provide cost savings for participants and hands-on optical, dental, pharmaceutical and health education services for members of the Tribal community who may need to travel extended distances to the closest medical facility.”&nbsp; &nbsp;</span></span></p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a5c378c0-78bd-4670-bcec-7f8350949f40" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f0ddd819-2a42-47cf-ac8a-ba8640c1d89a" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -64,7 +65,7 @@ Army 22nd Mobile Public Affairs Detachment.</figcaption>
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/Liem%20Huynh3.jpg?itok=NJIuH5Gy" width="640" height="360" alt="Alt text: The photo shows three men facing the camera in outdoor gear as they stand in a grassland area with mountains in the background. Liem is on the right, wearing headphones and holding a video camera.  " typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_exam_2024%20%283%29.jpg?itok=BWcXCa5K" width="531" height="530" alt="Idaho Air National Guard perform eye exams during their Innovative Readiness Training (IRT)." typeof="foaf:Image">
 
 
 </div>
@@ -72,20 +73,18 @@ Army 22nd Mobile Public Affairs Detachment.</figcaption>
 </div>
 </div>
 
-<figcaption>Liem Huynh with representatives of the Arizona Antelope Foundation participating in a video<br>
-shoot for a BLM production featuring the Sky Islands Restoration Landscape in Arizona in<br>
-March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
+<figcaption>Idaho Air National Guard medics perform eye exams during Innovative Readiness Training (IRT). Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
 </figure>
 
 
-<p>“I see a real continuity between defending freedom and protecting the nation when I was in the Army and working to conserve, restore, and protect the nation’s resources, today and into the future, now that I’m working for the BLM,” he says.</p>
+<p style="margin-bottom:8px">&nbsp;</p>
 
-<p>For this reason, and also because of the respectful, supportive staff he feels privileged to team up with at the National Training Center, Liem has made a seamless transition to the BLM. Likewise, the Bureau’s emphasis on having a diverse and inclusive workforce aligns with what Liem encountered during his military service, when he learned firsthand how different experiences and skills team members bring to the table can enhance mission readiness. Liem noted another parallel: given that the public the Bureau serves is itself becoming more diverse, the agency, like the U.S. military, must keep pace, drawing on its own range of viewpoints and experiences to find sustainable solutions to contemporary challenges.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">According to Megan, who planned travel and developed presentations for distinguished federal, state, Tribal and military visitors during the IRT, military medics performed over 1,800 procedures assessed at a $234,359 fair market value in Lapwai, Idaho, and Duck Valley, Nevada.</span></span></p>
 
-<p>Liem shared some parting thoughts about his Asian American heritage, stressing the variety of the regions, languages, and traditions falling under the Asian American, Native Hawaiian, and Pacific Islander umbrella. He commented on the importance of recognizing and engaging with specific communities within this very large grouping, to promote more effective communication between the Bureau and Vietnamese Americans, Korean Americans, Japanese Americans, and many others.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">“Medics pulled molars, performed cleanings, provided glasses and even found blood clots, which saved lives,” she says.</span></span></p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="14438954-2363-4304-8375-49de9a0aeb36" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="8f43e5e9-8394-4bfd-b0d1-5cc7d6341236" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -94,7 +93,7 @@ March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/Liem%20Huynh2.jpg?itok=Nihze8JV" width="640" height="360" alt="The image shows a man wearing a brimmed hat and yellow jacket standing near a wetland area with mountains in the background. He is looking down into the viewfinder of his video camera with headphones around his neck. " typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_exam_2024_2%20%282%29.jpg?itok=aoXTxVwH" width="594" height="530" alt="Idaho National Guard perform dental exams during Innovative Readiness Training (IRT)." typeof="foaf:Image">
 
 
 </div>
@@ -102,16 +101,75 @@ March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 </div>
 </div>
 
-<figcaption>Liem Huynh captures video for a BLM production featuring the Sky Islands Restoration<br>
-Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
+<figcaption>Idaho National Guard perform dental exams during Innovative Readiness Training (IRT). Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
 </figure>
 
 
-<p>Within the BLM itself, Liem highlighted the importance of complementing diversity with inclusivity, so that people of color feel represented and know that their voices are being heard in decision-making processes.</p>
+<p style="margin-bottom:8px">&nbsp;</p>
 
-<p>Holding up both hands, he said, “As a person who specializes in audio-visual production, let me leave you with an image! All the fingers on my hands represent diversity. But inclusion happens when my fingers interlock, like so.”</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">A logistics officer by trade, Megan explains how the IRT provides real world logistics training, keeps helicopter personnel current with transportation/aviation qualifications, brings Army and Air Force medics together with Tribal health professionals, and provides a chance for Idaho and Nevada National Guard units to partner, and provides an opportunity to medical professionals to provide real-world training to improve readiness and survivability in complex contingency environments while providing key services for American communities using joint training operations.</span></span></p>
 
-<p>The BLM can draw inspiration from Liem Huynh’s visual metaphor, not to mention his life story, as the agency extends its own narrative into the 21st century and beyond.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Medical IRTs build trust at the local, state, and federal level. &nbsp;“We partner with members from the tribes during the health fair which is another way to help the community.&nbsp; They offer educational information on suicide prevention, alcoholism, sexual education, and the Head Start program.&nbsp; We also work with other non-profit organizations to provide specialized medical care and personnel, that we may be unable to provide.”</span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6c3f2c5d-54d3-4b42-b74b-1da295fb6111" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_Tribe_Dance%20%282%29.jpg?itok=TF2MsxWf" width="414" height="530" alt="Tribal dance performed during the IRT.  Photo courtesy of: Idaho National Guard and Nevada National Guard." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Tribal dance performed during the IRT.  Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:8px">&nbsp;</p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">In addition to the recent IRT, Idaho National Guard also trains at the Orchard Combat Training Center (OCTC), which is located 18 miles south of Boise, Idaho, at the Morley Nelson Snake River Birds of Prey National Conservation Area on BLM public lands. &nbsp;Megan works with environmental teams in protected Tribal areas and on BLM public lands, which is partially how she became familiar with the agency. &nbsp;She was also exposed to the BLM during required National Guard wildfire incident qualification training where guardsmen train to receive their Incident Qualification Card, commonly known as a Red Card.&nbsp; They work with the BLM, <span style="background:white"><span style="color:#333333">Idaho Department of Lands, U.S. Forest Service, and the Idaho Office of Emergency Management</span></span> serving the state to fight wildfires.&nbsp;“The BLM Hotshots often lead the fire teams that include National Guard members.”</span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Megan, who had been an Air Force active duty, reserve, and guard member, believes that being part of the military can help benefit everyone in the community, since the National Guard can provide fire and emergency response, helicopter rescue teams, medical, civil engineering, and cyber response for Tribal Nations, and being in the National Guard keeps the services and expertise within state.</span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="4c7d1c50-8c11-4eab-9e9c-e0881995d2e1" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_2024_Health%20%282%29.jpeg?itok=DQUElrVi" width="640" height="235" alt="Group poses with Roberta Bisbee, executive director Nimiipuu Health." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Group poses with Roberta Bisbee, executive director Nimiipuu Health during IRT.  Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:8px">&nbsp;</p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">According to Megan, every military experience is an opportunity for relationship building and skills learned during training and partnership events and easily transferable from the military to the civilian realm.</span></span></p>
+
+<p style="margin-bottom:16px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">She is an Idaho transplant who has lived here for 10 years and moved to Idaho because of her “passion for outdoor activities and perfect seasons.”&nbsp;Her favorite BLM areas are Salmon, Cottonwood, and Coeur d’Alene. &nbsp;She and her family are “big hikers, big outdoorsy people who like to snowshoe, fish, golf and ride 4-wheelers.”&nbsp; Her children are on the ski team at Bogus Basin and as a family, they are “big water people who like to float the Boise River and boat at C.J. Strike Reservoir.”&nbsp;</span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Aptos,sans-serif"><i><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#323130">** More than 2,000 veterans work at the Bureau of Land Management. We are deeply grateful for their sacrifices, dedication, courage.</span></span></span></span></i></span></span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Aptos,sans-serif"><i><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#323130">** If you know a local veteran who we should highlight, let us know.&nbsp;</span></span></span></span></i></span></span></span></p>
 </div>
       
 
@@ -123,7 +181,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+              <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
               </div>
       </div>
 
@@ -136,7 +194,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 <div class="blog-topics">
     <div class="field contact-block -blog-topic">
       <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/careers" hreflang="en">Careers</a></div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/cultural-heritage-and-paleontology" hreflang="en">Cultural Heritage and Paleontology</a></div>
                 </div>
   </div>
 
@@ -148,7 +206,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 
   <div class="field contact-block -release-date">
     <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-05-29T12:00:00Z">Wed, 05/29/2024 - 12:00 pm UTC</time>
+              <div><time datetime="2024-05-30T12:00:00Z">Thu, 05/30/2024 - 12:00 pm UTC</time>
 </div>
           </div>
 
@@ -160,7 +218,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 
   <div class="field contact-block -thumbnail-image">
     <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/48244/edit" hreflang="en">National Training Center.Liem Huynh</a></div>
+              <div><a href="https://www.blm.gov/media/48268/edit" hreflang="en">BLM_ID_Kiska_2024</a></div>
           </div>
 
 
@@ -184,8 +242,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
     <div class="field contact-block -tag">
       <div><strong>Tag:</strong> </div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/diversity" hreflang="en">Diversity</a></div>
-              <div><a href="https://www.blm.gov/tag/employee" hreflang="en">Employee</a></div>
+                    <div><a href="https://www.blm.gov/tag/cultural-heritage" hreflang="en">Cultural Heritage</a></div>
                     </div>
           </div>
   </div>
@@ -199,7 +256,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/idaho" hreflang="en">Idaho</a></div>
               </div>
       </div>
 
@@ -211,7 +268,539 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 
   <div class="field contact-block -teaser-image">
     <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/48244/edit" hreflang="en">National Training Center.Liem Huynh</a></div>
+              <div><a href="https://www.blm.gov/media/48268/edit" hreflang="en">BLM_ID_Kiska_2024</a></div>
+          </div> 
+
+<https://www.blm.gov/blog/2024-05-30/military-appreciation-building-partnerships-idaho>
+
+---
+
+## The American Dream - Korea to Idaho
+
+date: 2024-05-29, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Military Appreciation: Building Partnerships in Idaho</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:16px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><i>As we observe Military Appreciation Month, Air Force Maj. Megan Kiska explains the value in building partnerships. </i></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">What do an Idaho Air National Guard mission protocol officer and a BLM Idaho administrative assistant for support services have in common?&nbsp; You might be surprised.</span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cb4a2318-a59b-4851-8644-9a1b46ad3b20" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_2024.jpg?itok=kYOqkzur" width="640" height="480" alt="Air Force Maj. Megan Kiska on helo ride during the IRT. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Air Force Maj. Megan Kiska participates in the 2024 Idaho Air National Guard Innovative Readiness Training.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:8px">&nbsp;</p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">When Megan Kiska walks the corridors of the Bureau of Land Management Idaho State Office, you wouldn’t know in addition to her mission of protecting the land for future generations, she is also a major in the Idaho National Guard building relationships with local Tribal communities.&nbsp;&nbsp;<br>
+<br>
+This May, Air Force Maj. Megan Kiska, deployed for two weeks with the Idaho Air National Guard during their Innovative Readiness Training (IRT), with the goal of providing annual medical care to the Tribal Nations of Nez Perce (Nimiipuu) and Shoshone-Paiute (Sho- Pai).</span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">While most Tribal members receive Tribal medical coverage, “some family members and locals on the reservation may not receive health coverage,” says Megan.&nbsp; “The IRT is a collaborative program that leverages military and community resources to provide cost savings for participants and hands-on optical, dental, pharmaceutical and health education services for members of the Tribal community who may need to travel extended distances to the closest medical facility.”&nbsp; &nbsp;</span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f0ddd819-2a42-47cf-ac8a-ba8640c1d89a" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_exam_2024%20%283%29.jpg?itok=BWcXCa5K" width="531" height="530" alt="Idaho Air National Guard perform eye exams during their Innovative Readiness Training (IRT)." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Idaho Air National Guard medics perform eye exams during Innovative Readiness Training (IRT). Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:8px">&nbsp;</p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">According to Megan, who planned travel and developed presentations for distinguished federal, state, Tribal and military visitors during the IRT, military medics performed over 1,800 procedures assessed at a $234,359 fair market value in Lapwai, Idaho, and Duck Valley, Nevada.</span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">“Medics pulled molars, performed cleanings, provided glasses and even found blood clots, which saved lives,” she says.</span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="8f43e5e9-8394-4bfd-b0d1-5cc7d6341236" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_exam_2024_2%20%282%29.jpg?itok=aoXTxVwH" width="594" height="530" alt="Idaho National Guard perform dental exams during Innovative Readiness Training (IRT)." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Idaho National Guard perform dental exams during Innovative Readiness Training (IRT). Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:8px">&nbsp;</p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">A logistics officer by trade, Megan explains how the IRT provides real world logistics training, keeps helicopter personnel current with transportation/aviation qualifications, brings Army and Air Force medics together with Tribal health professionals, and provides a chance for Idaho and Nevada National Guard units to partner, and provides an opportunity to medical professionals to provide real-world training to improve readiness and survivability in complex contingency environments while providing key services for American communities using joint training operations.</span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Medical IRTs build trust at the local, state, and federal level. &nbsp;“We partner with members from the tribes during the health fair which is another way to help the community.&nbsp; They offer educational information on suicide prevention, alcoholism, sexual education, and the Head Start program.&nbsp; We also work with other non-profit organizations to provide specialized medical care and personnel, that we may be unable to provide.”</span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6c3f2c5d-54d3-4b42-b74b-1da295fb6111" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_Tribe_Dance%20%282%29.jpg?itok=TF2MsxWf" width="414" height="530" alt="Tribal dance performed during the IRT.  Photo courtesy of: Idaho National Guard and Nevada National Guard." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Tribal dance performed during the IRT.  Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:8px">&nbsp;</p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">In addition to the recent IRT, Idaho National Guard also trains at the Orchard Combat Training Center (OCTC), which is located 18 miles south of Boise, Idaho, at the Morley Nelson Snake River Birds of Prey National Conservation Area on BLM public lands. &nbsp;Megan works with environmental teams in protected Tribal areas and on BLM public lands, which is partially how she became familiar with the agency. &nbsp;She was also exposed to the BLM during required National Guard wildfire incident qualification training where guardsmen train to receive their Incident Qualification Card, commonly known as a Red Card.&nbsp; They work with the BLM, <span style="background:white"><span style="color:#333333">Idaho Department of Lands, U.S. Forest Service, and the Idaho Office of Emergency Management</span></span> serving the state to fight wildfires.&nbsp;“The BLM Hotshots often lead the fire teams that include National Guard members.”</span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Megan, who had been an Air Force active duty, reserve, and guard member, believes that being part of the military can help benefit everyone in the community, since the National Guard can provide fire and emergency response, helicopter rescue teams, medical, civil engineering, and cyber response for Tribal Nations, and being in the National Guard keeps the services and expertise within state.</span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="4c7d1c50-8c11-4eab-9e9c-e0881995d2e1" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_2024_Health%20%282%29.jpeg?itok=DQUElrVi" width="640" height="235" alt="Group poses with Roberta Bisbee, executive director Nimiipuu Health." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Group poses with Roberta Bisbee, executive director Nimiipuu Health during IRT.  Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:8px">&nbsp;</p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">According to Megan, every military experience is an opportunity for relationship building and skills learned during training and partnership events and easily transferable from the military to the civilian realm.</span></span></p>
+
+<p style="margin-bottom:16px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">She is an Idaho transplant who has lived here for 10 years and moved to Idaho because of her “passion for outdoor activities and perfect seasons.”&nbsp;Her favorite BLM areas are Salmon, Cottonwood, and Coeur d’Alene. &nbsp;She and her family are “big hikers, big outdoorsy people who like to snowshoe, fish, golf and ride 4-wheelers.”&nbsp; Her children are on the ski team at Bogus Basin and as a family, they are “big water people who like to float the Boise River and boat at C.J. Strike Reservoir.”&nbsp;</span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Aptos,sans-serif"><i><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#323130">** More than 2,000 veterans work at the Bureau of Land Management. We are deeply grateful for their sacrifices, dedication, courage.</span></span></span></span></i></span></span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Aptos,sans-serif"><i><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#323130">** If you know a local veteran who we should highlight, let us know.&nbsp;</span></span></span></span></i></span></span></span></p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/cultural-heritage-and-paleontology" hreflang="en">Cultural Heritage and Paleontology</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-05-30T12:00:00Z">Thu, 05/30/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48268/edit" hreflang="en">BLM_ID_Kiska_2024</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/cultural-heritage" hreflang="en">Cultural Heritage</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/idaho" hreflang="en">Idaho</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48268/edit" hreflang="en">BLM_ID_Kiska_2024</a></div>
+          </div> 
+
+<https://www.blm.gov/blog/2024-05-29/american-dream-korea-idaho>
+
+---
+
+## Pathways to Public Service: Liem Huynh
+
+date: 2024-05-29, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Military Appreciation: Building Partnerships in Idaho</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:16px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><i>As we observe Military Appreciation Month, Air Force Maj. Megan Kiska explains the value in building partnerships. </i></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">What do an Idaho Air National Guard mission protocol officer and a BLM Idaho administrative assistant for support services have in common?&nbsp; You might be surprised.</span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cb4a2318-a59b-4851-8644-9a1b46ad3b20" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_2024.jpg?itok=kYOqkzur" width="640" height="480" alt="Air Force Maj. Megan Kiska on helo ride during the IRT. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Air Force Maj. Megan Kiska participates in the 2024 Idaho Air National Guard Innovative Readiness Training.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:8px">&nbsp;</p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">When Megan Kiska walks the corridors of the Bureau of Land Management Idaho State Office, you wouldn’t know in addition to her mission of protecting the land for future generations, she is also a major in the Idaho National Guard building relationships with local Tribal communities.&nbsp;&nbsp;<br>
+<br>
+This May, Air Force Maj. Megan Kiska, deployed for two weeks with the Idaho Air National Guard during their Innovative Readiness Training (IRT), with the goal of providing annual medical care to the Tribal Nations of Nez Perce (Nimiipuu) and Shoshone-Paiute (Sho- Pai).</span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">While most Tribal members receive Tribal medical coverage, “some family members and locals on the reservation may not receive health coverage,” says Megan.&nbsp; “The IRT is a collaborative program that leverages military and community resources to provide cost savings for participants and hands-on optical, dental, pharmaceutical and health education services for members of the Tribal community who may need to travel extended distances to the closest medical facility.”&nbsp; &nbsp;</span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f0ddd819-2a42-47cf-ac8a-ba8640c1d89a" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_exam_2024%20%283%29.jpg?itok=BWcXCa5K" width="531" height="530" alt="Idaho Air National Guard perform eye exams during their Innovative Readiness Training (IRT)." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Idaho Air National Guard medics perform eye exams during Innovative Readiness Training (IRT). Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:8px">&nbsp;</p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">According to Megan, who planned travel and developed presentations for distinguished federal, state, Tribal and military visitors during the IRT, military medics performed over 1,800 procedures assessed at a $234,359 fair market value in Lapwai, Idaho, and Duck Valley, Nevada.</span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">“Medics pulled molars, performed cleanings, provided glasses and even found blood clots, which saved lives,” she says.</span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="8f43e5e9-8394-4bfd-b0d1-5cc7d6341236" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_exam_2024_2%20%282%29.jpg?itok=aoXTxVwH" width="594" height="530" alt="Idaho National Guard perform dental exams during Innovative Readiness Training (IRT)." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Idaho National Guard perform dental exams during Innovative Readiness Training (IRT). Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:8px">&nbsp;</p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">A logistics officer by trade, Megan explains how the IRT provides real world logistics training, keeps helicopter personnel current with transportation/aviation qualifications, brings Army and Air Force medics together with Tribal health professionals, and provides a chance for Idaho and Nevada National Guard units to partner, and provides an opportunity to medical professionals to provide real-world training to improve readiness and survivability in complex contingency environments while providing key services for American communities using joint training operations.</span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Medical IRTs build trust at the local, state, and federal level. &nbsp;“We partner with members from the tribes during the health fair which is another way to help the community.&nbsp; They offer educational information on suicide prevention, alcoholism, sexual education, and the Head Start program.&nbsp; We also work with other non-profit organizations to provide specialized medical care and personnel, that we may be unable to provide.”</span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6c3f2c5d-54d3-4b42-b74b-1da295fb6111" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_Tribe_Dance%20%282%29.jpg?itok=TF2MsxWf" width="414" height="530" alt="Tribal dance performed during the IRT.  Photo courtesy of: Idaho National Guard and Nevada National Guard." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Tribal dance performed during the IRT.  Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:8px">&nbsp;</p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">In addition to the recent IRT, Idaho National Guard also trains at the Orchard Combat Training Center (OCTC), which is located 18 miles south of Boise, Idaho, at the Morley Nelson Snake River Birds of Prey National Conservation Area on BLM public lands. &nbsp;Megan works with environmental teams in protected Tribal areas and on BLM public lands, which is partially how she became familiar with the agency. &nbsp;She was also exposed to the BLM during required National Guard wildfire incident qualification training where guardsmen train to receive their Incident Qualification Card, commonly known as a Red Card.&nbsp; They work with the BLM, <span style="background:white"><span style="color:#333333">Idaho Department of Lands, U.S. Forest Service, and the Idaho Office of Emergency Management</span></span> serving the state to fight wildfires.&nbsp;“The BLM Hotshots often lead the fire teams that include National Guard members.”</span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Megan, who had been an Air Force active duty, reserve, and guard member, believes that being part of the military can help benefit everyone in the community, since the National Guard can provide fire and emergency response, helicopter rescue teams, medical, civil engineering, and cyber response for Tribal Nations, and being in the National Guard keeps the services and expertise within state.</span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="4c7d1c50-8c11-4eab-9e9c-e0881995d2e1" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_2024_Health%20%282%29.jpeg?itok=DQUElrVi" width="640" height="235" alt="Group poses with Roberta Bisbee, executive director Nimiipuu Health." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Group poses with Roberta Bisbee, executive director Nimiipuu Health during IRT.  Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:8px">&nbsp;</p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">According to Megan, every military experience is an opportunity for relationship building and skills learned during training and partnership events and easily transferable from the military to the civilian realm.</span></span></p>
+
+<p style="margin-bottom:16px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">She is an Idaho transplant who has lived here for 10 years and moved to Idaho because of her “passion for outdoor activities and perfect seasons.”&nbsp;Her favorite BLM areas are Salmon, Cottonwood, and Coeur d’Alene. &nbsp;She and her family are “big hikers, big outdoorsy people who like to snowshoe, fish, golf and ride 4-wheelers.”&nbsp; Her children are on the ski team at Bogus Basin and as a family, they are “big water people who like to float the Boise River and boat at C.J. Strike Reservoir.”&nbsp;</span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Aptos,sans-serif"><i><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#323130">** More than 2,000 veterans work at the Bureau of Land Management. We are deeply grateful for their sacrifices, dedication, courage.</span></span></span></span></i></span></span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Aptos,sans-serif"><i><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#323130">** If you know a local veteran who we should highlight, let us know.&nbsp;</span></span></span></span></i></span></span></span></p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/cultural-heritage-and-paleontology" hreflang="en">Cultural Heritage and Paleontology</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-05-30T12:00:00Z">Thu, 05/30/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48268/edit" hreflang="en">BLM_ID_Kiska_2024</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/cultural-heritage" hreflang="en">Cultural Heritage</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/idaho" hreflang="en">Idaho</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48268/edit" hreflang="en">BLM_ID_Kiska_2024</a></div>
           </div> 
 
 <https://www.blm.gov/blog/2024-05-29/pathways-public-service-liem-huynh>
@@ -222,7 +811,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 
 date: 2024-05-28, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>Pathways to Public Service: Liem Huynh</h1></div>
+<div class="field contact-block -title"><h1>Military Appreciation: Building Partnerships in Idaho</h1></div>
       
 
 
@@ -230,12 +819,12 @@ date: 2024-05-28, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><p>For Liem Huynh (pronounced LEE-em HU-win), after six years of service as a Public Affairs Specialist in the U.S. Army, it felt like a natural next step to join the BLM’s National Training Center as an Audio-Visual Production Specialist. But the full story of how Liem came to work for the Bureau in April 2023 is a remarkable one. His story also reflects importantly on the larger narrative of the BLM itself, as it continues to meet the mission by building a more diverse and inclusive workforce.</p>
+            <div class="field contact-block -body"><p style="margin-bottom:16px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><i>As we observe Military Appreciation Month, Air Force Maj. Megan Kiska explains the value in building partnerships. </i></span></span></p>
 
-<p>Liem started life in a small town in central Vietnam. In 2006, he and his parents, along with his brother, moved to Minneapolis, Minnesota. He graduated from high school there and earned a degree in Digital Video and Media Production. Then, in 2015, seeking to leverage his skills in audio-visual production, he enlisted in the U.S. Army and completed his Military Occupational Specialty as a Public Affairs Specialist at the Defense Information School in Fort Meade, Maryland.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">What do an Idaho Air National Guard mission protocol officer and a BLM Idaho administrative assistant for support services have in common?&nbsp; You might be surprised.</span></span></p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a1f27087-3653-4a99-9243-4b7d80ef939d" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cb4a2318-a59b-4851-8644-9a1b46ad3b20" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -244,7 +833,7 @@ date: 2024-05-28, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/Liem%20Huynh1.jpg?itok=rZOHroTg" width="640" height="427" alt="The photo shows a man facing the camera in a stocking cap, glasses, and winter fatigues as he stands near an ice-covered tree branch and looks down into the viewfinder of his own video camera.  " typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_2024.jpg?itok=kYOqkzur" width="640" height="480" alt="Air Force Maj. Megan Kiska on helo ride during the IRT. " typeof="foaf:Image">
 
 
 </div>
@@ -252,19 +841,20 @@ date: 2024-05-28, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>Liem Huynh captures video while deployed in Germany in December 2017. Photo Credit: U.S.<br>
-Army 22nd Mobile Public Affairs Detachment.</figcaption>
+<figcaption>Air Force Maj. Megan Kiska participates in the 2024 Idaho Air National Guard Innovative Readiness Training.</figcaption>
 </figure>
 
 
-<p>What followed was, as Liem himself describes, something of a whirlwind: a first deployment to South America to support the U.S. military’s effort on the Zika virus; being tasked with telling the story of communities hard hit by Hurricane Harvey and how the U.S. Army assisted them; a subsequent deployment to Europe to help focus attention on U.S. partnerships with allies there; and then further service back in the United States, where Liem provided critical assistance during the COVID-19 pandemic and helped soldiers exercise their right to vote during the 2020 elections.</p>
+<p style="margin-bottom:8px">&nbsp;</p>
 
-<p>These experiences changed Liem dramatically. Entering the Army as a shy, quiet kid, Liem felt compelled to live and work with others from a range of backgrounds who were often both outgoing and outspoken. His military service provided valuable lessons in how diverse and inclusive teams—using what he calls a “multi-angled” approach—are stronger and more effective than more homogenous teams adhering to a “my-way-or-no-way” approach.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">When Megan Kiska walks the corridors of the Bureau of Land Management Idaho State Office, you wouldn’t know in addition to her mission of protecting the land for future generations, she is also a major in the Idaho National Guard building relationships with local Tribal communities.&nbsp;&nbsp;<br>
+<br>
+This May, Air Force Maj. Megan Kiska, deployed for two weeks with the Idaho Air National Guard during their Innovative Readiness Training (IRT), with the goal of providing annual medical care to the Tribal Nations of Nez Perce (Nimiipuu) and Shoshone-Paiute (Sho- Pai).</span></span></p>
 
-<p>Liem brought these lessons with him to the BLM, where he continues his prior mission of public service.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">While most Tribal members receive Tribal medical coverage, “some family members and locals on the reservation may not receive health coverage,” says Megan.&nbsp; “The IRT is a collaborative program that leverages military and community resources to provide cost savings for participants and hands-on optical, dental, pharmaceutical and health education services for members of the Tribal community who may need to travel extended distances to the closest medical facility.”&nbsp; &nbsp;</span></span></p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a5c378c0-78bd-4670-bcec-7f8350949f40" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f0ddd819-2a42-47cf-ac8a-ba8640c1d89a" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -273,7 +863,7 @@ Army 22nd Mobile Public Affairs Detachment.</figcaption>
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/Liem%20Huynh3.jpg?itok=NJIuH5Gy" width="640" height="360" alt="Alt text: The photo shows three men facing the camera in outdoor gear as they stand in a grassland area with mountains in the background. Liem is on the right, wearing headphones and holding a video camera.  " typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_exam_2024%20%283%29.jpg?itok=BWcXCa5K" width="531" height="530" alt="Idaho Air National Guard perform eye exams during their Innovative Readiness Training (IRT)." typeof="foaf:Image">
 
 
 </div>
@@ -281,20 +871,18 @@ Army 22nd Mobile Public Affairs Detachment.</figcaption>
 </div>
 </div>
 
-<figcaption>Liem Huynh with representatives of the Arizona Antelope Foundation participating in a video<br>
-shoot for a BLM production featuring the Sky Islands Restoration Landscape in Arizona in<br>
-March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
+<figcaption>Idaho Air National Guard medics perform eye exams during Innovative Readiness Training (IRT). Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
 </figure>
 
 
-<p>“I see a real continuity between defending freedom and protecting the nation when I was in the Army and working to conserve, restore, and protect the nation’s resources, today and into the future, now that I’m working for the BLM,” he says.</p>
+<p style="margin-bottom:8px">&nbsp;</p>
 
-<p>For this reason, and also because of the respectful, supportive staff he feels privileged to team up with at the National Training Center, Liem has made a seamless transition to the BLM. Likewise, the Bureau’s emphasis on having a diverse and inclusive workforce aligns with what Liem encountered during his military service, when he learned firsthand how different experiences and skills team members bring to the table can enhance mission readiness. Liem noted another parallel: given that the public the Bureau serves is itself becoming more diverse, the agency, like the U.S. military, must keep pace, drawing on its own range of viewpoints and experiences to find sustainable solutions to contemporary challenges.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">According to Megan, who planned travel and developed presentations for distinguished federal, state, Tribal and military visitors during the IRT, military medics performed over 1,800 procedures assessed at a $234,359 fair market value in Lapwai, Idaho, and Duck Valley, Nevada.</span></span></p>
 
-<p>Liem shared some parting thoughts about his Asian American heritage, stressing the variety of the regions, languages, and traditions falling under the Asian American, Native Hawaiian, and Pacific Islander umbrella. He commented on the importance of recognizing and engaging with specific communities within this very large grouping, to promote more effective communication between the Bureau and Vietnamese Americans, Korean Americans, Japanese Americans, and many others.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">“Medics pulled molars, performed cleanings, provided glasses and even found blood clots, which saved lives,” she says.</span></span></p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="14438954-2363-4304-8375-49de9a0aeb36" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="8f43e5e9-8394-4bfd-b0d1-5cc7d6341236" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -303,7 +891,7 @@ March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/Liem%20Huynh2.jpg?itok=Nihze8JV" width="640" height="360" alt="The image shows a man wearing a brimmed hat and yellow jacket standing near a wetland area with mountains in the background. He is looking down into the viewfinder of his video camera with headphones around his neck. " typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_exam_2024_2%20%282%29.jpg?itok=aoXTxVwH" width="594" height="530" alt="Idaho National Guard perform dental exams during Innovative Readiness Training (IRT)." typeof="foaf:Image">
 
 
 </div>
@@ -311,16 +899,75 @@ March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 </div>
 </div>
 
-<figcaption>Liem Huynh captures video for a BLM production featuring the Sky Islands Restoration<br>
-Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
+<figcaption>Idaho National Guard perform dental exams during Innovative Readiness Training (IRT). Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
 </figure>
 
 
-<p>Within the BLM itself, Liem highlighted the importance of complementing diversity with inclusivity, so that people of color feel represented and know that their voices are being heard in decision-making processes.</p>
+<p style="margin-bottom:8px">&nbsp;</p>
 
-<p>Holding up both hands, he said, “As a person who specializes in audio-visual production, let me leave you with an image! All the fingers on my hands represent diversity. But inclusion happens when my fingers interlock, like so.”</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">A logistics officer by trade, Megan explains how the IRT provides real world logistics training, keeps helicopter personnel current with transportation/aviation qualifications, brings Army and Air Force medics together with Tribal health professionals, and provides a chance for Idaho and Nevada National Guard units to partner, and provides an opportunity to medical professionals to provide real-world training to improve readiness and survivability in complex contingency environments while providing key services for American communities using joint training operations.</span></span></p>
 
-<p>The BLM can draw inspiration from Liem Huynh’s visual metaphor, not to mention his life story, as the agency extends its own narrative into the 21st century and beyond.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Medical IRTs build trust at the local, state, and federal level. &nbsp;“We partner with members from the tribes during the health fair which is another way to help the community.&nbsp; They offer educational information on suicide prevention, alcoholism, sexual education, and the Head Start program.&nbsp; We also work with other non-profit organizations to provide specialized medical care and personnel, that we may be unable to provide.”</span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6c3f2c5d-54d3-4b42-b74b-1da295fb6111" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_Tribe_Dance%20%282%29.jpg?itok=TF2MsxWf" width="414" height="530" alt="Tribal dance performed during the IRT.  Photo courtesy of: Idaho National Guard and Nevada National Guard." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Tribal dance performed during the IRT.  Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:8px">&nbsp;</p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">In addition to the recent IRT, Idaho National Guard also trains at the Orchard Combat Training Center (OCTC), which is located 18 miles south of Boise, Idaho, at the Morley Nelson Snake River Birds of Prey National Conservation Area on BLM public lands. &nbsp;Megan works with environmental teams in protected Tribal areas and on BLM public lands, which is partially how she became familiar with the agency. &nbsp;She was also exposed to the BLM during required National Guard wildfire incident qualification training where guardsmen train to receive their Incident Qualification Card, commonly known as a Red Card.&nbsp; They work with the BLM, <span style="background:white"><span style="color:#333333">Idaho Department of Lands, U.S. Forest Service, and the Idaho Office of Emergency Management</span></span> serving the state to fight wildfires.&nbsp;“The BLM Hotshots often lead the fire teams that include National Guard members.”</span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Megan, who had been an Air Force active duty, reserve, and guard member, believes that being part of the military can help benefit everyone in the community, since the National Guard can provide fire and emergency response, helicopter rescue teams, medical, civil engineering, and cyber response for Tribal Nations, and being in the National Guard keeps the services and expertise within state.</span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="4c7d1c50-8c11-4eab-9e9c-e0881995d2e1" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_2024_Health%20%282%29.jpeg?itok=DQUElrVi" width="640" height="235" alt="Group poses with Roberta Bisbee, executive director Nimiipuu Health." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Group poses with Roberta Bisbee, executive director Nimiipuu Health during IRT.  Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:8px">&nbsp;</p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">According to Megan, every military experience is an opportunity for relationship building and skills learned during training and partnership events and easily transferable from the military to the civilian realm.</span></span></p>
+
+<p style="margin-bottom:16px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">She is an Idaho transplant who has lived here for 10 years and moved to Idaho because of her “passion for outdoor activities and perfect seasons.”&nbsp;Her favorite BLM areas are Salmon, Cottonwood, and Coeur d’Alene. &nbsp;She and her family are “big hikers, big outdoorsy people who like to snowshoe, fish, golf and ride 4-wheelers.”&nbsp; Her children are on the ski team at Bogus Basin and as a family, they are “big water people who like to float the Boise River and boat at C.J. Strike Reservoir.”&nbsp;</span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Aptos,sans-serif"><i><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#323130">** More than 2,000 veterans work at the Bureau of Land Management. We are deeply grateful for their sacrifices, dedication, courage.</span></span></span></span></i></span></span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Aptos,sans-serif"><i><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#323130">** If you know a local veteran who we should highlight, let us know.&nbsp;</span></span></span></span></i></span></span></span></p>
 </div>
       
 
@@ -332,7 +979,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+              <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
               </div>
       </div>
 
@@ -345,7 +992,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 <div class="blog-topics">
     <div class="field contact-block -blog-topic">
       <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/careers" hreflang="en">Careers</a></div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/cultural-heritage-and-paleontology" hreflang="en">Cultural Heritage and Paleontology</a></div>
                 </div>
   </div>
 
@@ -357,7 +1004,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 
   <div class="field contact-block -release-date">
     <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-05-29T12:00:00Z">Wed, 05/29/2024 - 12:00 pm UTC</time>
+              <div><time datetime="2024-05-30T12:00:00Z">Thu, 05/30/2024 - 12:00 pm UTC</time>
 </div>
           </div>
 
@@ -369,7 +1016,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 
   <div class="field contact-block -thumbnail-image">
     <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/48244/edit" hreflang="en">National Training Center.Liem Huynh</a></div>
+              <div><a href="https://www.blm.gov/media/48268/edit" hreflang="en">BLM_ID_Kiska_2024</a></div>
           </div>
 
 
@@ -393,8 +1040,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
     <div class="field contact-block -tag">
       <div><strong>Tag:</strong> </div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/diversity" hreflang="en">Diversity</a></div>
-              <div><a href="https://www.blm.gov/tag/employee" hreflang="en">Employee</a></div>
+                    <div><a href="https://www.blm.gov/tag/cultural-heritage" hreflang="en">Cultural Heritage</a></div>
                     </div>
           </div>
   </div>
@@ -408,7 +1054,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/idaho" hreflang="en">Idaho</a></div>
               </div>
       </div>
 
@@ -420,7 +1066,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 
   <div class="field contact-block -teaser-image">
     <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/48244/edit" hreflang="en">National Training Center.Liem Huynh</a></div>
+              <div><a href="https://www.blm.gov/media/48268/edit" hreflang="en">BLM_ID_Kiska_2024</a></div>
           </div> 
 
 <https://www.blm.gov/blog/2024-05-28/balance-range-wide-consistency-local-flexibility>
@@ -487,7 +1133,7 @@ date: 2024-05-28, from: Bureau of Land Management, California
 
 date: 2024-05-28, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>Pathways to Public Service: Liem Huynh</h1></div>
+<div class="field contact-block -title"><h1>Military Appreciation: Building Partnerships in Idaho</h1></div>
       
 
 
@@ -495,12 +1141,12 @@ date: 2024-05-28, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><p>For Liem Huynh (pronounced LEE-em HU-win), after six years of service as a Public Affairs Specialist in the U.S. Army, it felt like a natural next step to join the BLM’s National Training Center as an Audio-Visual Production Specialist. But the full story of how Liem came to work for the Bureau in April 2023 is a remarkable one. His story also reflects importantly on the larger narrative of the BLM itself, as it continues to meet the mission by building a more diverse and inclusive workforce.</p>
+            <div class="field contact-block -body"><p style="margin-bottom:16px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><i>As we observe Military Appreciation Month, Air Force Maj. Megan Kiska explains the value in building partnerships. </i></span></span></p>
 
-<p>Liem started life in a small town in central Vietnam. In 2006, he and his parents, along with his brother, moved to Minneapolis, Minnesota. He graduated from high school there and earned a degree in Digital Video and Media Production. Then, in 2015, seeking to leverage his skills in audio-visual production, he enlisted in the U.S. Army and completed his Military Occupational Specialty as a Public Affairs Specialist at the Defense Information School in Fort Meade, Maryland.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">What do an Idaho Air National Guard mission protocol officer and a BLM Idaho administrative assistant for support services have in common?&nbsp; You might be surprised.</span></span></p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a1f27087-3653-4a99-9243-4b7d80ef939d" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cb4a2318-a59b-4851-8644-9a1b46ad3b20" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -509,7 +1155,7 @@ date: 2024-05-28, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/Liem%20Huynh1.jpg?itok=rZOHroTg" width="640" height="427" alt="The photo shows a man facing the camera in a stocking cap, glasses, and winter fatigues as he stands near an ice-covered tree branch and looks down into the viewfinder of his own video camera.  " typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_2024.jpg?itok=kYOqkzur" width="640" height="480" alt="Air Force Maj. Megan Kiska on helo ride during the IRT. " typeof="foaf:Image">
 
 
 </div>
@@ -517,19 +1163,20 @@ date: 2024-05-28, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>Liem Huynh captures video while deployed in Germany in December 2017. Photo Credit: U.S.<br>
-Army 22nd Mobile Public Affairs Detachment.</figcaption>
+<figcaption>Air Force Maj. Megan Kiska participates in the 2024 Idaho Air National Guard Innovative Readiness Training.</figcaption>
 </figure>
 
 
-<p>What followed was, as Liem himself describes, something of a whirlwind: a first deployment to South America to support the U.S. military’s effort on the Zika virus; being tasked with telling the story of communities hard hit by Hurricane Harvey and how the U.S. Army assisted them; a subsequent deployment to Europe to help focus attention on U.S. partnerships with allies there; and then further service back in the United States, where Liem provided critical assistance during the COVID-19 pandemic and helped soldiers exercise their right to vote during the 2020 elections.</p>
+<p style="margin-bottom:8px">&nbsp;</p>
 
-<p>These experiences changed Liem dramatically. Entering the Army as a shy, quiet kid, Liem felt compelled to live and work with others from a range of backgrounds who were often both outgoing and outspoken. His military service provided valuable lessons in how diverse and inclusive teams—using what he calls a “multi-angled” approach—are stronger and more effective than more homogenous teams adhering to a “my-way-or-no-way” approach.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">When Megan Kiska walks the corridors of the Bureau of Land Management Idaho State Office, you wouldn’t know in addition to her mission of protecting the land for future generations, she is also a major in the Idaho National Guard building relationships with local Tribal communities.&nbsp;&nbsp;<br>
+<br>
+This May, Air Force Maj. Megan Kiska, deployed for two weeks with the Idaho Air National Guard during their Innovative Readiness Training (IRT), with the goal of providing annual medical care to the Tribal Nations of Nez Perce (Nimiipuu) and Shoshone-Paiute (Sho- Pai).</span></span></p>
 
-<p>Liem brought these lessons with him to the BLM, where he continues his prior mission of public service.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">While most Tribal members receive Tribal medical coverage, “some family members and locals on the reservation may not receive health coverage,” says Megan.&nbsp; “The IRT is a collaborative program that leverages military and community resources to provide cost savings for participants and hands-on optical, dental, pharmaceutical and health education services for members of the Tribal community who may need to travel extended distances to the closest medical facility.”&nbsp; &nbsp;</span></span></p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a5c378c0-78bd-4670-bcec-7f8350949f40" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f0ddd819-2a42-47cf-ac8a-ba8640c1d89a" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -538,7 +1185,7 @@ Army 22nd Mobile Public Affairs Detachment.</figcaption>
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/Liem%20Huynh3.jpg?itok=NJIuH5Gy" width="640" height="360" alt="Alt text: The photo shows three men facing the camera in outdoor gear as they stand in a grassland area with mountains in the background. Liem is on the right, wearing headphones and holding a video camera.  " typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_exam_2024%20%283%29.jpg?itok=BWcXCa5K" width="531" height="530" alt="Idaho Air National Guard perform eye exams during their Innovative Readiness Training (IRT)." typeof="foaf:Image">
 
 
 </div>
@@ -546,20 +1193,18 @@ Army 22nd Mobile Public Affairs Detachment.</figcaption>
 </div>
 </div>
 
-<figcaption>Liem Huynh with representatives of the Arizona Antelope Foundation participating in a video<br>
-shoot for a BLM production featuring the Sky Islands Restoration Landscape in Arizona in<br>
-March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
+<figcaption>Idaho Air National Guard medics perform eye exams during Innovative Readiness Training (IRT). Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
 </figure>
 
 
-<p>“I see a real continuity between defending freedom and protecting the nation when I was in the Army and working to conserve, restore, and protect the nation’s resources, today and into the future, now that I’m working for the BLM,” he says.</p>
+<p style="margin-bottom:8px">&nbsp;</p>
 
-<p>For this reason, and also because of the respectful, supportive staff he feels privileged to team up with at the National Training Center, Liem has made a seamless transition to the BLM. Likewise, the Bureau’s emphasis on having a diverse and inclusive workforce aligns with what Liem encountered during his military service, when he learned firsthand how different experiences and skills team members bring to the table can enhance mission readiness. Liem noted another parallel: given that the public the Bureau serves is itself becoming more diverse, the agency, like the U.S. military, must keep pace, drawing on its own range of viewpoints and experiences to find sustainable solutions to contemporary challenges.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">According to Megan, who planned travel and developed presentations for distinguished federal, state, Tribal and military visitors during the IRT, military medics performed over 1,800 procedures assessed at a $234,359 fair market value in Lapwai, Idaho, and Duck Valley, Nevada.</span></span></p>
 
-<p>Liem shared some parting thoughts about his Asian American heritage, stressing the variety of the regions, languages, and traditions falling under the Asian American, Native Hawaiian, and Pacific Islander umbrella. He commented on the importance of recognizing and engaging with specific communities within this very large grouping, to promote more effective communication between the Bureau and Vietnamese Americans, Korean Americans, Japanese Americans, and many others.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">“Medics pulled molars, performed cleanings, provided glasses and even found blood clots, which saved lives,” she says.</span></span></p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="14438954-2363-4304-8375-49de9a0aeb36" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="8f43e5e9-8394-4bfd-b0d1-5cc7d6341236" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -568,7 +1213,7 @@ March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/Liem%20Huynh2.jpg?itok=Nihze8JV" width="640" height="360" alt="The image shows a man wearing a brimmed hat and yellow jacket standing near a wetland area with mountains in the background. He is looking down into the viewfinder of his video camera with headphones around his neck. " typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_exam_2024_2%20%282%29.jpg?itok=aoXTxVwH" width="594" height="530" alt="Idaho National Guard perform dental exams during Innovative Readiness Training (IRT)." typeof="foaf:Image">
 
 
 </div>
@@ -576,16 +1221,75 @@ March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 </div>
 </div>
 
-<figcaption>Liem Huynh captures video for a BLM production featuring the Sky Islands Restoration<br>
-Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
+<figcaption>Idaho National Guard perform dental exams during Innovative Readiness Training (IRT). Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
 </figure>
 
 
-<p>Within the BLM itself, Liem highlighted the importance of complementing diversity with inclusivity, so that people of color feel represented and know that their voices are being heard in decision-making processes.</p>
+<p style="margin-bottom:8px">&nbsp;</p>
 
-<p>Holding up both hands, he said, “As a person who specializes in audio-visual production, let me leave you with an image! All the fingers on my hands represent diversity. But inclusion happens when my fingers interlock, like so.”</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">A logistics officer by trade, Megan explains how the IRT provides real world logistics training, keeps helicopter personnel current with transportation/aviation qualifications, brings Army and Air Force medics together with Tribal health professionals, and provides a chance for Idaho and Nevada National Guard units to partner, and provides an opportunity to medical professionals to provide real-world training to improve readiness and survivability in complex contingency environments while providing key services for American communities using joint training operations.</span></span></p>
 
-<p>The BLM can draw inspiration from Liem Huynh’s visual metaphor, not to mention his life story, as the agency extends its own narrative into the 21st century and beyond.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Medical IRTs build trust at the local, state, and federal level. &nbsp;“We partner with members from the tribes during the health fair which is another way to help the community.&nbsp; They offer educational information on suicide prevention, alcoholism, sexual education, and the Head Start program.&nbsp; We also work with other non-profit organizations to provide specialized medical care and personnel, that we may be unable to provide.”</span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6c3f2c5d-54d3-4b42-b74b-1da295fb6111" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_Tribe_Dance%20%282%29.jpg?itok=TF2MsxWf" width="414" height="530" alt="Tribal dance performed during the IRT.  Photo courtesy of: Idaho National Guard and Nevada National Guard." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Tribal dance performed during the IRT.  Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:8px">&nbsp;</p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">In addition to the recent IRT, Idaho National Guard also trains at the Orchard Combat Training Center (OCTC), which is located 18 miles south of Boise, Idaho, at the Morley Nelson Snake River Birds of Prey National Conservation Area on BLM public lands. &nbsp;Megan works with environmental teams in protected Tribal areas and on BLM public lands, which is partially how she became familiar with the agency. &nbsp;She was also exposed to the BLM during required National Guard wildfire incident qualification training where guardsmen train to receive their Incident Qualification Card, commonly known as a Red Card.&nbsp; They work with the BLM, <span style="background:white"><span style="color:#333333">Idaho Department of Lands, U.S. Forest Service, and the Idaho Office of Emergency Management</span></span> serving the state to fight wildfires.&nbsp;“The BLM Hotshots often lead the fire teams that include National Guard members.”</span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Megan, who had been an Air Force active duty, reserve, and guard member, believes that being part of the military can help benefit everyone in the community, since the National Guard can provide fire and emergency response, helicopter rescue teams, medical, civil engineering, and cyber response for Tribal Nations, and being in the National Guard keeps the services and expertise within state.</span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="4c7d1c50-8c11-4eab-9e9c-e0881995d2e1" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_2024_Health%20%282%29.jpeg?itok=DQUElrVi" width="640" height="235" alt="Group poses with Roberta Bisbee, executive director Nimiipuu Health." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Group poses with Roberta Bisbee, executive director Nimiipuu Health during IRT.  Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:8px">&nbsp;</p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">According to Megan, every military experience is an opportunity for relationship building and skills learned during training and partnership events and easily transferable from the military to the civilian realm.</span></span></p>
+
+<p style="margin-bottom:16px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">She is an Idaho transplant who has lived here for 10 years and moved to Idaho because of her “passion for outdoor activities and perfect seasons.”&nbsp;Her favorite BLM areas are Salmon, Cottonwood, and Coeur d’Alene. &nbsp;She and her family are “big hikers, big outdoorsy people who like to snowshoe, fish, golf and ride 4-wheelers.”&nbsp; Her children are on the ski team at Bogus Basin and as a family, they are “big water people who like to float the Boise River and boat at C.J. Strike Reservoir.”&nbsp;</span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Aptos,sans-serif"><i><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#323130">** More than 2,000 veterans work at the Bureau of Land Management. We are deeply grateful for their sacrifices, dedication, courage.</span></span></span></span></i></span></span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Aptos,sans-serif"><i><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#323130">** If you know a local veteran who we should highlight, let us know.&nbsp;</span></span></span></span></i></span></span></span></p>
 </div>
       
 
@@ -597,7 +1301,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+              <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
               </div>
       </div>
 
@@ -610,7 +1314,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 <div class="blog-topics">
     <div class="field contact-block -blog-topic">
       <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/careers" hreflang="en">Careers</a></div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/cultural-heritage-and-paleontology" hreflang="en">Cultural Heritage and Paleontology</a></div>
                 </div>
   </div>
 
@@ -622,7 +1326,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 
   <div class="field contact-block -release-date">
     <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-05-29T12:00:00Z">Wed, 05/29/2024 - 12:00 pm UTC</time>
+              <div><time datetime="2024-05-30T12:00:00Z">Thu, 05/30/2024 - 12:00 pm UTC</time>
 </div>
           </div>
 
@@ -634,7 +1338,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 
   <div class="field contact-block -thumbnail-image">
     <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/48244/edit" hreflang="en">National Training Center.Liem Huynh</a></div>
+              <div><a href="https://www.blm.gov/media/48268/edit" hreflang="en">BLM_ID_Kiska_2024</a></div>
           </div>
 
 
@@ -658,8 +1362,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
     <div class="field contact-block -tag">
       <div><strong>Tag:</strong> </div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/diversity" hreflang="en">Diversity</a></div>
-              <div><a href="https://www.blm.gov/tag/employee" hreflang="en">Employee</a></div>
+                    <div><a href="https://www.blm.gov/tag/cultural-heritage" hreflang="en">Cultural Heritage</a></div>
                     </div>
           </div>
   </div>
@@ -673,7 +1376,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/idaho" hreflang="en">Idaho</a></div>
               </div>
       </div>
 
@@ -685,7 +1388,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 
   <div class="field contact-block -teaser-image">
     <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/48244/edit" hreflang="en">National Training Center.Liem Huynh</a></div>
+              <div><a href="https://www.blm.gov/media/48268/edit" hreflang="en">BLM_ID_Kiska_2024</a></div>
           </div> 
 
 <https://www.blm.gov/blog/2024-05-28/my-american-mustang-owning-piece-american-west>
@@ -696,7 +1399,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 
 date: 2024-05-28, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>Pathways to Public Service: Liem Huynh</h1></div>
+<div class="field contact-block -title"><h1>Military Appreciation: Building Partnerships in Idaho</h1></div>
       
 
 
@@ -704,12 +1407,12 @@ date: 2024-05-28, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><p>For Liem Huynh (pronounced LEE-em HU-win), after six years of service as a Public Affairs Specialist in the U.S. Army, it felt like a natural next step to join the BLM’s National Training Center as an Audio-Visual Production Specialist. But the full story of how Liem came to work for the Bureau in April 2023 is a remarkable one. His story also reflects importantly on the larger narrative of the BLM itself, as it continues to meet the mission by building a more diverse and inclusive workforce.</p>
+            <div class="field contact-block -body"><p style="margin-bottom:16px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><i>As we observe Military Appreciation Month, Air Force Maj. Megan Kiska explains the value in building partnerships. </i></span></span></p>
 
-<p>Liem started life in a small town in central Vietnam. In 2006, he and his parents, along with his brother, moved to Minneapolis, Minnesota. He graduated from high school there and earned a degree in Digital Video and Media Production. Then, in 2015, seeking to leverage his skills in audio-visual production, he enlisted in the U.S. Army and completed his Military Occupational Specialty as a Public Affairs Specialist at the Defense Information School in Fort Meade, Maryland.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">What do an Idaho Air National Guard mission protocol officer and a BLM Idaho administrative assistant for support services have in common?&nbsp; You might be surprised.</span></span></p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a1f27087-3653-4a99-9243-4b7d80ef939d" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cb4a2318-a59b-4851-8644-9a1b46ad3b20" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -718,7 +1421,7 @@ date: 2024-05-28, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/Liem%20Huynh1.jpg?itok=rZOHroTg" width="640" height="427" alt="The photo shows a man facing the camera in a stocking cap, glasses, and winter fatigues as he stands near an ice-covered tree branch and looks down into the viewfinder of his own video camera.  " typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_2024.jpg?itok=kYOqkzur" width="640" height="480" alt="Air Force Maj. Megan Kiska on helo ride during the IRT. " typeof="foaf:Image">
 
 
 </div>
@@ -726,19 +1429,20 @@ date: 2024-05-28, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>Liem Huynh captures video while deployed in Germany in December 2017. Photo Credit: U.S.<br>
-Army 22nd Mobile Public Affairs Detachment.</figcaption>
+<figcaption>Air Force Maj. Megan Kiska participates in the 2024 Idaho Air National Guard Innovative Readiness Training.</figcaption>
 </figure>
 
 
-<p>What followed was, as Liem himself describes, something of a whirlwind: a first deployment to South America to support the U.S. military’s effort on the Zika virus; being tasked with telling the story of communities hard hit by Hurricane Harvey and how the U.S. Army assisted them; a subsequent deployment to Europe to help focus attention on U.S. partnerships with allies there; and then further service back in the United States, where Liem provided critical assistance during the COVID-19 pandemic and helped soldiers exercise their right to vote during the 2020 elections.</p>
+<p style="margin-bottom:8px">&nbsp;</p>
 
-<p>These experiences changed Liem dramatically. Entering the Army as a shy, quiet kid, Liem felt compelled to live and work with others from a range of backgrounds who were often both outgoing and outspoken. His military service provided valuable lessons in how diverse and inclusive teams—using what he calls a “multi-angled” approach—are stronger and more effective than more homogenous teams adhering to a “my-way-or-no-way” approach.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">When Megan Kiska walks the corridors of the Bureau of Land Management Idaho State Office, you wouldn’t know in addition to her mission of protecting the land for future generations, she is also a major in the Idaho National Guard building relationships with local Tribal communities.&nbsp;&nbsp;<br>
+<br>
+This May, Air Force Maj. Megan Kiska, deployed for two weeks with the Idaho Air National Guard during their Innovative Readiness Training (IRT), with the goal of providing annual medical care to the Tribal Nations of Nez Perce (Nimiipuu) and Shoshone-Paiute (Sho- Pai).</span></span></p>
 
-<p>Liem brought these lessons with him to the BLM, where he continues his prior mission of public service.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">While most Tribal members receive Tribal medical coverage, “some family members and locals on the reservation may not receive health coverage,” says Megan.&nbsp; “The IRT is a collaborative program that leverages military and community resources to provide cost savings for participants and hands-on optical, dental, pharmaceutical and health education services for members of the Tribal community who may need to travel extended distances to the closest medical facility.”&nbsp; &nbsp;</span></span></p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a5c378c0-78bd-4670-bcec-7f8350949f40" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f0ddd819-2a42-47cf-ac8a-ba8640c1d89a" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -747,7 +1451,7 @@ Army 22nd Mobile Public Affairs Detachment.</figcaption>
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/Liem%20Huynh3.jpg?itok=NJIuH5Gy" width="640" height="360" alt="Alt text: The photo shows three men facing the camera in outdoor gear as they stand in a grassland area with mountains in the background. Liem is on the right, wearing headphones and holding a video camera.  " typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_exam_2024%20%283%29.jpg?itok=BWcXCa5K" width="531" height="530" alt="Idaho Air National Guard perform eye exams during their Innovative Readiness Training (IRT)." typeof="foaf:Image">
 
 
 </div>
@@ -755,20 +1459,18 @@ Army 22nd Mobile Public Affairs Detachment.</figcaption>
 </div>
 </div>
 
-<figcaption>Liem Huynh with representatives of the Arizona Antelope Foundation participating in a video<br>
-shoot for a BLM production featuring the Sky Islands Restoration Landscape in Arizona in<br>
-March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
+<figcaption>Idaho Air National Guard medics perform eye exams during Innovative Readiness Training (IRT). Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
 </figure>
 
 
-<p>“I see a real continuity between defending freedom and protecting the nation when I was in the Army and working to conserve, restore, and protect the nation’s resources, today and into the future, now that I’m working for the BLM,” he says.</p>
+<p style="margin-bottom:8px">&nbsp;</p>
 
-<p>For this reason, and also because of the respectful, supportive staff he feels privileged to team up with at the National Training Center, Liem has made a seamless transition to the BLM. Likewise, the Bureau’s emphasis on having a diverse and inclusive workforce aligns with what Liem encountered during his military service, when he learned firsthand how different experiences and skills team members bring to the table can enhance mission readiness. Liem noted another parallel: given that the public the Bureau serves is itself becoming more diverse, the agency, like the U.S. military, must keep pace, drawing on its own range of viewpoints and experiences to find sustainable solutions to contemporary challenges.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">According to Megan, who planned travel and developed presentations for distinguished federal, state, Tribal and military visitors during the IRT, military medics performed over 1,800 procedures assessed at a $234,359 fair market value in Lapwai, Idaho, and Duck Valley, Nevada.</span></span></p>
 
-<p>Liem shared some parting thoughts about his Asian American heritage, stressing the variety of the regions, languages, and traditions falling under the Asian American, Native Hawaiian, and Pacific Islander umbrella. He commented on the importance of recognizing and engaging with specific communities within this very large grouping, to promote more effective communication between the Bureau and Vietnamese Americans, Korean Americans, Japanese Americans, and many others.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">“Medics pulled molars, performed cleanings, provided glasses and even found blood clots, which saved lives,” she says.</span></span></p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="14438954-2363-4304-8375-49de9a0aeb36" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="8f43e5e9-8394-4bfd-b0d1-5cc7d6341236" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -777,7 +1479,7 @@ March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/Liem%20Huynh2.jpg?itok=Nihze8JV" width="640" height="360" alt="The image shows a man wearing a brimmed hat and yellow jacket standing near a wetland area with mountains in the background. He is looking down into the viewfinder of his video camera with headphones around his neck. " typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_exam_2024_2%20%282%29.jpg?itok=aoXTxVwH" width="594" height="530" alt="Idaho National Guard perform dental exams during Innovative Readiness Training (IRT)." typeof="foaf:Image">
 
 
 </div>
@@ -785,16 +1487,75 @@ March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 </div>
 </div>
 
-<figcaption>Liem Huynh captures video for a BLM production featuring the Sky Islands Restoration<br>
-Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
+<figcaption>Idaho National Guard perform dental exams during Innovative Readiness Training (IRT). Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
 </figure>
 
 
-<p>Within the BLM itself, Liem highlighted the importance of complementing diversity with inclusivity, so that people of color feel represented and know that their voices are being heard in decision-making processes.</p>
+<p style="margin-bottom:8px">&nbsp;</p>
 
-<p>Holding up both hands, he said, “As a person who specializes in audio-visual production, let me leave you with an image! All the fingers on my hands represent diversity. But inclusion happens when my fingers interlock, like so.”</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">A logistics officer by trade, Megan explains how the IRT provides real world logistics training, keeps helicopter personnel current with transportation/aviation qualifications, brings Army and Air Force medics together with Tribal health professionals, and provides a chance for Idaho and Nevada National Guard units to partner, and provides an opportunity to medical professionals to provide real-world training to improve readiness and survivability in complex contingency environments while providing key services for American communities using joint training operations.</span></span></p>
 
-<p>The BLM can draw inspiration from Liem Huynh’s visual metaphor, not to mention his life story, as the agency extends its own narrative into the 21st century and beyond.</p>
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Medical IRTs build trust at the local, state, and federal level. &nbsp;“We partner with members from the tribes during the health fair which is another way to help the community.&nbsp; They offer educational information on suicide prevention, alcoholism, sexual education, and the Head Start program.&nbsp; We also work with other non-profit organizations to provide specialized medical care and personnel, that we may be unable to provide.”</span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6c3f2c5d-54d3-4b42-b74b-1da295fb6111" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_Tribe_Dance%20%282%29.jpg?itok=TF2MsxWf" width="414" height="530" alt="Tribal dance performed during the IRT.  Photo courtesy of: Idaho National Guard and Nevada National Guard." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Tribal dance performed during the IRT.  Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:8px">&nbsp;</p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">In addition to the recent IRT, Idaho National Guard also trains at the Orchard Combat Training Center (OCTC), which is located 18 miles south of Boise, Idaho, at the Morley Nelson Snake River Birds of Prey National Conservation Area on BLM public lands. &nbsp;Megan works with environmental teams in protected Tribal areas and on BLM public lands, which is partially how she became familiar with the agency. &nbsp;She was also exposed to the BLM during required National Guard wildfire incident qualification training where guardsmen train to receive their Incident Qualification Card, commonly known as a Red Card.&nbsp; They work with the BLM, <span style="background:white"><span style="color:#333333">Idaho Department of Lands, U.S. Forest Service, and the Idaho Office of Emergency Management</span></span> serving the state to fight wildfires.&nbsp;“The BLM Hotshots often lead the fire teams that include National Guard members.”</span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Megan, who had been an Air Force active duty, reserve, and guard member, believes that being part of the military can help benefit everyone in the community, since the National Guard can provide fire and emergency response, helicopter rescue teams, medical, civil engineering, and cyber response for Tribal Nations, and being in the National Guard keeps the services and expertise within state.</span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="4c7d1c50-8c11-4eab-9e9c-e0881995d2e1" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/BLM_ID_Kiska_2024_Health%20%282%29.jpeg?itok=DQUElrVi" width="640" height="235" alt="Group poses with Roberta Bisbee, executive director Nimiipuu Health." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Group poses with Roberta Bisbee, executive director Nimiipuu Health during IRT.  Photo courtesy of: Idaho National Guard and Nevada National Guard.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:8px">&nbsp;</p>
+
+<p style="margin-bottom:8px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">According to Megan, every military experience is an opportunity for relationship building and skills learned during training and partnership events and easily transferable from the military to the civilian realm.</span></span></p>
+
+<p style="margin-bottom:16px"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif">She is an Idaho transplant who has lived here for 10 years and moved to Idaho because of her “passion for outdoor activities and perfect seasons.”&nbsp;Her favorite BLM areas are Salmon, Cottonwood, and Coeur d’Alene. &nbsp;She and her family are “big hikers, big outdoorsy people who like to snowshoe, fish, golf and ride 4-wheelers.”&nbsp; Her children are on the ski team at Bogus Basin and as a family, they are “big water people who like to float the Boise River and boat at C.J. Strike Reservoir.”&nbsp;</span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Aptos,sans-serif"><i><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#323130">** More than 2,000 veterans work at the Bureau of Land Management. We are deeply grateful for their sacrifices, dedication, courage.</span></span></span></span></i></span></span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Aptos,sans-serif"><i><span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#323130">** If you know a local veteran who we should highlight, let us know.&nbsp;</span></span></span></span></i></span></span></span></p>
 </div>
       
 
@@ -806,7 +1567,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+              <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
               </div>
       </div>
 
@@ -819,7 +1580,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 <div class="blog-topics">
     <div class="field contact-block -blog-topic">
       <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/careers" hreflang="en">Careers</a></div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/cultural-heritage-and-paleontology" hreflang="en">Cultural Heritage and Paleontology</a></div>
                 </div>
   </div>
 
@@ -831,7 +1592,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 
   <div class="field contact-block -release-date">
     <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-05-29T12:00:00Z">Wed, 05/29/2024 - 12:00 pm UTC</time>
+              <div><time datetime="2024-05-30T12:00:00Z">Thu, 05/30/2024 - 12:00 pm UTC</time>
 </div>
           </div>
 
@@ -843,7 +1604,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 
   <div class="field contact-block -thumbnail-image">
     <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/48244/edit" hreflang="en">National Training Center.Liem Huynh</a></div>
+              <div><a href="https://www.blm.gov/media/48268/edit" hreflang="en">BLM_ID_Kiska_2024</a></div>
           </div>
 
 
@@ -867,8 +1628,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
     <div class="field contact-block -tag">
       <div><strong>Tag:</strong> </div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/diversity" hreflang="en">Diversity</a></div>
-              <div><a href="https://www.blm.gov/tag/employee" hreflang="en">Employee</a></div>
+                    <div><a href="https://www.blm.gov/tag/cultural-heritage" hreflang="en">Cultural Heritage</a></div>
                     </div>
           </div>
   </div>
@@ -882,7 +1642,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/idaho" hreflang="en">Idaho</a></div>
               </div>
       </div>
 
@@ -894,7 +1654,7 @@ Landscape in Arizona in March 2024. Photo Credit: Rem Hawes, BLM.</figcaption>
 
   <div class="field contact-block -teaser-image">
     <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/48244/edit" hreflang="en">National Training Center.Liem Huynh</a></div>
+              <div><a href="https://www.blm.gov/media/48268/edit" hreflang="en">BLM_ID_Kiska_2024</a></div>
           </div> 
 
 <https://www.blm.gov/blog/2024-05-28/lending-native-perspectives-nagpra-blm-colorado>

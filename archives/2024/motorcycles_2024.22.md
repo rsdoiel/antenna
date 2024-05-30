@@ -1,11 +1,161 @@
 ---
 title: motorcycles 2024.22
-updated: 2024-05-29 10:54:51
+updated: 2024-05-30 11:07:35
 ---
 
 # motorcycles 2024.22
 
-(date: 2024-05-29 10:54:51)
+(date: 2024-05-30 11:07:35)
+
+---
+
+## Kawasaki Working on More Hybrid Models
+
+date: 2024-05-30, from: Cycle World News
+
+Kawasaki looks to be expanding its hybrid model lines with a Eliminator cruiser and Versys ADV model according to recent patent filings. 
+
+<https://www.cycleworld.com/motorcycle-news/kawasaki-eliminator-and-versys-hybrids-coming-soon/>
+
+---
+
+## Arai’s 40-Year Relationship With the IOM TT Is Uniquely Symbiotic
+
+date: 2024-05-30, from: Ride Apart, Electric Motorcycle News
+
+It all started with Joey. And how fitting that the anniversary coincides with his nephew, Michael, potentially becoming the new GOAT. 
+
+<https://www.rideapart.com/news/721442/arai-celebrates-40th-anniversary-iomtt/>
+
+---
+
+## How Much Power Does the 2024 Harley Street Glide Make?
+
+date: 2024-05-30, from: Cycle World News
+
+The 2024 Harley-Davidson Street Glide gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower. 
+
+<https://www.cycleworld.com/bikes/harley-davidson-street-glide-dyno-test-2024/>
+
+---
+
+## 2024 Indian Super Chief Limited Review
+
+date: 2024-05-30, from: Cycle World News
+
+Indian Motorcycle’s 2024 Super Chief Limited is just enough of everything you need from a touring cruiser with classic style. 
+
+<https://www.cycleworld.com/motorcycle-reviews/indian-super-chief-limited-review/>
+
+---
+
+## Thank Goodness, Triumph Is Finally Bringing Back Roulette Green
+
+date: 2024-05-30, from: Ride Apart, Electric Motorcycle News
+
+With so many great, historic colors to choose from, Triumph can keep it modern and also pay homage to its past. 
+
+<https://www.rideapart.com/news/721455/triumph-new-colors-2025-green/>
+
+---
+
+## A Dirt Bike Down a Mountain Bike Course Is Terrifying to Watch
+
+date: 2024-05-30, from: Ride Apart, Electric Motorcycle News
+
+Which you putting your money on? 
+
+<https://www.rideapart.com/news/721436/red-bull-hardline-mountain-bike-vs-dirt-bike-video/>
+
+---
+
+## Polaris Just Patented a 4-Wheel Off-Road Electric Scooter
+
+date: 2024-05-30, from: Ride Apart, Electric Motorcycle News
+
+Who's ready to hit some dunes? 
+
+<https://www.rideapart.com/news/721431/polaris-electric-off-road-scooter-patent/>
+
+---
+
+## Zane Smith Reflects on Cup Debut, Hopeful for Spark in St. Louis
+
+date: 2024-05-30, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer It’s rare for an athlete to forget their professional sports debut and the moments surrounding their dream now realized. In the case of Zane Smith,&#8230;  
+
+<https://kickinthetires.net/nascar/zane-smith-reflects-on-cup-debut-hopeful-for-spark-in-st-louis/>
+
+---
+
+## Why Not Jump A Sea-Doo Off A Cliff?
+
+date: 2024-05-30, from: Ride Apart, Electric Motorcycle News
+
+Who would’ve thought that a Sea-Doo could double as a personal aircraft?  
+
+<https://www.rideapart.com/news/721311/travis-pastrana-cliff-jump-sea-doo-video/>
+
+---
+
+## Brembo’s GP4-MotoGP Caliper Is So Good, It Won a Red Dot Design Award
+
+date: 2024-05-30, from: Ride Apart, Electric Motorcycle News
+
+Stops on a dime and looks good doing it.  
+
+<https://www.rideapart.com/news/721315/brembo-gp4-motogp-red-dot-design-award/>
+
+---
+
+## Repsol Will Apparently No Longer Sponsor Honda MotoGP
+
+date: 2024-05-30, from: Ride Apart, Electric Motorcycle News
+
+It's been rough times for the two since Marc Márquez went to Gresini, and it hasn't improved. 
+
+<https://www.rideapart.com/news/721306/repsol-honda-motogp-sponsorship-ends/>
+
+---
+
+## Triumph’s Off To A Strong Motocross Start
+
+date: 2024-05-30, from: Ride Apart, Electric Motorcycle News
+
+An impressive debut season in the Supercross series paves the way for a bright MX future.  
+
+<https://www.rideapart.com/news/721157/triumph-strong-start-2024-motocross-season/>
+
+---
+
+## Highlights From the 2024 Quail Motorcycle Gathering
+
+date: 2024-05-29, from: Cycle World News
+
+In its 14th year, The Quail Motorcycle Gathering returned to California’s Quail Lodge & Golf Club with a full slate of over 200 iconic bikes. 
+
+<https://www.cycleworld.com/motorcycle-news/quail-motorcycle-gathering-photo-gallery/>
+
+---
+
+## CFMoto 500SR Voom Previews New Four-Cylinder Engine
+
+date: 2024-05-29, from: Cycle World News
+
+CFMoto’s 500SR Voom concept features an inline-four and some heavy ’90s vibes. Is it ready for production? 
+
+<https://www.cycleworld.com/motorcycle-news/cfmoto-500sr-voom-previews-new-four-cylinder-engine/>
+
+---
+
+## ARCA Menards West Series: 2024 Portland Race Preview
+
+date: 2024-05-29, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires This Friday, May 31 will take place the first of the two road races of the 2024 season in the&#160;ARCA Menards West&#8230;  
+
+<https://kickinthetires.net/nascar/arca-menards-west-2024-portland-preview/>
 
 ---
 
