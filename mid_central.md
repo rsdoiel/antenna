@@ -1,11 +1,93 @@
 ---
 title: mid central 2024.22
-updated: 2024-05-30 11:07:34
+updated: 2024-05-31 08:33:26
 ---
 
 # mid central 2024.22
 
-(date: 2024-05-30 11:07:34)
+(date: 2024-05-31 08:33:26)
+
+---
+
+## Portable thermal anemometer hot-transistor bias compensation nulls battery discharge droop
+
+date: 2024-05-31, from: EDN Blog
+
+<img width="852" height="586" src="https://www.edn.com/wp-content/uploads/DroopyNot_Figure4.png?fit=852%2C586" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/DroopyNot_Figure4.png?w=852 852w, https://www.edn.com/wp-content/uploads/DroopyNot_Figure4.png?w=300 300w, https://www.edn.com/wp-content/uploads/DroopyNot_Figure4.png?w=768 768w" sizes="(max-width: 852px) 100vw, 852px" /><p>Portable thermal anemometer hot-transistor bias compensation nulls battery discharge droop that would otherwise degrade calibration accuracy.</p>
+<p>The post <a href="https://www.edn.com/portable-thermal-anemometer-hot-transistor-bias-compensation-nulls-battery-discharge-droop/" data-wpel-link="internal">Portable thermal anemometer hot-transistor bias compensation nulls battery discharge droop</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/portable-thermal-anemometer-hot-transistor-bias-compensation-nulls-battery-discharge-droop/>
+
+---
+
+## Infineon expands GaN HEMT lineup
+
+date: 2024-05-30, from: EDN Blog
+
+<img width="800" height="473" src="https://www.edn.com/wp-content/uploads/Infineon-G3G5.jpg?fit=800%2C473" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Infineon-G3G5.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Infineon-G3G5.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Infineon-G3G5.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Infineon is adding two more families of high and medium voltage GaN transistors to its portfolio of CoolGaN HEMTs spanning 40 V to 700 V.</p>
+<p>The post <a href="https://www.edn.com/infineon-expands-gan-hemt-lineup/" data-wpel-link="internal">Infineon expands GaN HEMT lineup</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/infineon-expands-gan-hemt-lineup/>
+
+---
+
+## 5G mMIMO predriver offers high gain
+
+date: 2024-05-30, from: EDN Blog
+
+<img width="800" height="422" src="https://www.edn.com/wp-content/uploads/Qorvo-QPA982.jpg?fit=800%2C422" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Qorvo-QPA982.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Qorvo-QPA982.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Qorvo-QPA982.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>A massive MIMO (mMIMO) predriver from Qorvo, the QPA9822 provides gain of 39 dB at 3.5 GHz and  output power of 28 dBm P1dB.</p>
+<p>The post <a href="https://www.edn.com/5g-mmimo-predriver-offers-high-gain/" data-wpel-link="internal">5G mMIMO predriver offers high gain</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/5g-mmimo-predriver-offers-high-gain/>
+
+---
+
+## Thin electrolytic capacitor achieves low ESR
+
+date: 2024-05-30, from: EDN Blog
+
+<img width="800" height="427" src="https://www.edn.com/wp-content/uploads/Murata-ECAS-E477.jpg?fit=800%2C427" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Murata-ECAS-E477.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Murata-ECAS-E477.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Murata-ECAS-E477.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Joining Murata’s ECAS series of polymer aluminum electrolytic capacitors is a device that boasts low equivalent series resistance of 4.5 mΩ.</p>
+<p>The post <a href="https://www.edn.com/thin-electrolytic-capacitor-achieves-low-esr/" data-wpel-link="internal">Thin electrolytic capacitor achieves low ESR</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/thin-electrolytic-capacitor-achieves-low-esr/>
+
+---
+
+## Board set kickstarts wireless charging design
+
+date: 2024-05-30, from: EDN Blog
+
+<img width="800" height="435" src="https://www.edn.com/wp-content/uploads/STMicro-charging-boards.jpg?fit=800%2C435" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/STMicro-charging-boards.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/STMicro-charging-boards.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/STMicro-charging-boards.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>A pair of 50-W Qi-compatible development boards from ST enables rapid wireless charging using the company’s ST Super Charge protocol.</p>
+<p>The post <a href="https://www.edn.com/board-set-kickstarts-wireless-charging-design/" data-wpel-link="internal">Board set kickstarts wireless charging design</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/board-set-kickstarts-wireless-charging-design/>
+
+---
+
+## RF amplifier series gains 300-W model
+
+date: 2024-05-30, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Rohde-bba300-1.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Rohde-bba300-1.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Rohde-bba300-1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Rohde-bba300-1.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The latest addition to the R&#038;S BBA300 family of RF amplifiers delivers output power of 300 W P1dB or adjustable saturation power up to 450 W.</p>
+<p>The post <a href="https://www.edn.com/rf-amplifier-series-gains-300-w-model/" data-wpel-link="internal">RF amplifier series gains 300-W model</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/rf-amplifier-series-gains-300-w-model/>
+
+---
+
+## International Amateur Radio Union 2024 Election Results
+
+date: 2024-05-30, from: Amateur Radio Relay League News
+
+<p>The International Amateur Radio Union (IARU) has re-elected Timothy Ellam, VE6SH/G4HUA, as President and elected Thomas Wrede, DF2OO, as Vice President. Both will serve 5-year terms that began May 9, 2024.</p><p>Ellam begins his fourth term as President. Wrede has been active in IARU matters for several years and has managed the Deutscher Amateur Radio Club (DARC) international affairs team since 2009...</p> 
+
+<http://www.arrl.org/news/view/international-amateur-radio-union-2024-election-results>
 
 ---
 
@@ -43,7 +125,7 @@ date: 2024-05-30, from: Amateur Radio Relay League News
 
 date: 2024-05-30, from: EDN Blog
 
-<img width="1000" height="666" src="https://www.edn.com/wp-content/uploads/Hero-Image-10.jpg?fit=1000%2C666" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-Image-10.jpg?w=1000 1000w, https://www.edn.com/wp-content/uploads/Hero-Image-10.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-Image-10.jpg?w=768 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><p>Malaysia is now looking to position itself as a global IC design and manufacturing hub amid U.S. restrictions on China’s chip industry.</p>
+<img width="1000" height="666" src="https://www.edn.com/wp-content/uploads/Hero-Image-10.jpg?fit=1000%2C666" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-Image-10.jpg?w=1000 1000w, https://www.edn.com/wp-content/uploads/Hero-Image-10.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-Image-10.jpg?w=768 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><p>Malaysia is now looking to position itself as a global IC design and manufacturing hub amid U.S. restrictions on China’s chip industry.</p>
 <p>The post <a href="https://www.edn.com/has-malaysias-semiconductor-moment-finally-arrived/" data-wpel-link="internal">Has Malaysia’s ‘semiconductor moment’ finally arrived</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
@@ -55,7 +137,7 @@ date: 2024-05-30, from: EDN Blog
 
 date: 2024-05-30, from: EDN Blog
 
-<img width="982" height="478" src="https://www.edn.com/wp-content/uploads/Fig.-1-18.jpg?fit=982%2C478" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Fig.-1-18.jpg?w=982 982w, https://www.edn.com/wp-content/uploads/Fig.-1-18.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig.-1-18.jpg?w=768 768w" sizes="(max-width: 982px) 100vw, 982px" /><p>A contactless doorbell design based on a change in the resistance of a temperature-sensitive element when a finger approaches the button.</p>
+<img width="982" height="478" src="https://www.edn.com/wp-content/uploads/Fig.-1-18.jpg?fit=982%2C478" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig.-1-18.jpg?w=982 982w, https://www.edn.com/wp-content/uploads/Fig.-1-18.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig.-1-18.jpg?w=768 768w" sizes="(max-width: 982px) 100vw, 982px" /><p>A contactless doorbell design based on a change in the resistance of a temperature-sensitive element when a finger approaches the button.</p>
 <p>The post <a href="https://www.edn.com/contactless-electric-bell-on-a-gradient-relay/" data-wpel-link="internal">Contactless electric bell on a gradient relay</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

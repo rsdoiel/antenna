@@ -1,11 +1,113 @@
 ---
 title: writing 2024.22
-updated: 2024-05-30 11:07:35
+updated: 2024-05-31 08:33:27
 ---
 
 # writing 2024.22
 
-(date: 2024-05-30 11:07:35)
+(date: 2024-05-31 08:33:27)
+
+---
+
+## Caitlin Thomas (2002-2024)
+
+date: 2024-05-31, from: Locus Magazine
+
+<p><strong>CAITLIN THOMAS</strong>, 21, died April 18, 2024 in Lurie Children’s Hospital in Chicago IL. She had Aicardi Syndrome, a rare congenital disorder.</p>
+<p>Born October 28, 2002, Caitlin was the daugh­ter of editors Lynne Marie Thomas &#38; Michael Damian Thomas of Uncanny, and was a familiar and beloved figure at conventions and events.</p>
+<p>Michael wrote, &#8220;Caitlin was the best of all of us – the most pure, loving, fun, and  <a href="https://locusmag.com/2024/05/caitlin-thomas/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/caitlin-thomas/>
+
+---
+
+## What Is a Set Piece and How To Plan Them in Your Script
+
+date: 2024-05-31, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/what-is-a-set-piece-and-how-to-plan-them-in-your-script" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/mission%20impossible%20ghost%20protocol.jpeg" alt="'Mission: Impossible Ghost Protocol,' What Is a Set Piece and How To Plan Them in Your Script" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>To put it in simple terms, a</span><span> “</span><span>set piece</span><span>” </span><span>is a pivotal scene in a film that serves as a centerpiece of action, emotion, or visual spectacle. These carefully crafted scenes </span><span>are executed</span><span> to excite audiences and leave a lasting impact long after they have left the movie theater. Set pieces create movie magic and are <a href="https://blog.finaldraft.com/scriptwriting-fundamentals-learning-the-basics">essential to your screenplay</a>.</span></p> 
+
+<https://blog.finaldraft.com/what-is-a-set-piece-and-how-to-plan-them-in-your-script>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-31, from: Neil Gaiman @ BlueSky)
+
+And he delivers it perfectly. I had a long drawn out battle with the editor who kept cutting away from Michael and blowing the joke. I won, and we stay on Michael as he says the whole thing, but I'm not sure the editor ever understood why.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ktrxsnsty224>
+
+---
+
+## Introducing the Authors Alliance’s First Zine: Can Authors Address AI Bias?
+
+date: 2024-05-31, from: Author's Union blog
+
+This guest post was jointly authored by Mariah Johnson and Marcus Liou, student attorneys in Georgetown’s Intellectual Property and Information Policy (iPIP) Clinic. Generative AI (GenAI) systems perpetuate biases, and authors can have a potent role in mitigating such biases. But GenAI is generating controversy among authors. Can authors do anything to ensure that these [&#8230;] 
+
+<https://www.authorsalliance.org/2024/05/31/introducing-the-authors-alliances-first-zine-can-authors-address-ai-bias/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-30, from: Neil Gaiman @ BlueSky)
+
+And he is @jcuneo.bsky.social if you want to tell him yourself.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ktqjqc4hdw22>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-05-30, from: Neil Gaiman @ BlueSky)
+
+I fucking LOVE John Cuneo. This is his cover. That is all.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ktqhx5f47a2i>
+
+---
+
+## Crime Writers of Canada Award of Excellence 2024 Winners
+
+date: 2024-05-30, from: Locus Magazine
+
+<p>The Crime Writers of Canada has announced the winners of the 2024 Award of Excellence. The winning stories include authors of genre interest Craig H. Bowlsby&#8217;s <strong>Requiem for a Lotus</strong> for Best Unpublished Crime Novel, Cherie Dimaline&#8217;s <strong>Funeral Songs for Dying Girls</strong> (Tundra Books) for Best Juvenile/YA Crime Book, Marcelle Dubé&#8217;s &#8220;Reversion&#8221; (Mystery Magazine) for Best Crime Short Story, and André Marois&#8217;s<strong> La sainte paix </strong>(Héliotrope) for Best French Language  <a href="https://locusmag.com/2024/05/crime-writers-of-canada-award-of-excellence-2024-winners/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/05/crime-writers-of-canada-award-of-excellence-2024-winners/>
+
+---
+
+## How Video Game Writer Neil Pollner Is Finding Success in Screenwriting
+
+date: 2024-05-30, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-video-game-writer-neil-pollner-is-finding-success-in-screenwriting" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Big%20Break%20logo%202400x1350-1.jpg" alt="Final Draft Big Break Screenwriting Contest; How Video Game Writer Neil Pollner is Finding Success in Screenwriting" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>If</span><span>you’ve</span><span> heard of the games </span><em><span>Mass Effect, Guild Wars 2, or Star Wars: The Old Republic</span></em><span>, then you know </span><a href="https://writers.coverfly.com/profile/writer-4bfbf0843-219874"><span>Neil </span><span>Pollner’s</span></a><span> work. He is a successful video game writer who wrote a genre-bending action-thriller that is bound to make waves in the market. After placing as a Category Winner in Final </span><span>Draft's</span><span> 2023 <a href="https://www.finaldraft.com/big-break-screenwriting-contest/?_gl=1*18bqf4b*_gcl_au*MTk1MTI2MjAxNS4xNzEyMzQ4ODg0*_ga*MTc2MzIyNTAxNy4xNzA0NDAxMzMz*_ga_W6F70R3YM1*MTcxNzA4Njg3My40My4xLjE3MTcwOTE5OTkuNjAuMC4w">Big Break Screenwriting Contest</a>, Neil signed with a manager he met on the jury </span><span>and</span><span> he has now received a couple of offers on his script </span><a href="https://writers.coverfly.com/projects/view/e9bb6942-fe43-4e09-9b9b-dbae41b4adb1/Without_a_Hitch"><em><span>Without a Hitch</span></em></a><span>.</span></p> 
+
+<https://blog.finaldraft.com/how-video-game-writer-neil-pollner-is-finding-success-in-screenwriting>
+
+---
+
+## 2024 Commonwealth Short Story Prize Winners
+
+date: 2024-05-30, from: Locus Magazine
+
+<p>The Commonwealth Foundation has announced the winners of the 2024 Commonwealth Short Story Prize. The winning authors include author of genre interest Portia Subran for her short story, &#8220;The Devil&#8217;s Son.&#8221;</p>
+<div class="mynomorebulletlist">
+<p>The five winners will go through a final round of judging, and the winner will be announced June 26, 2024. For more information, including the complete list of winners, see the Commonwealth Foundation website.</p>
+
+<p><strong>While you are here,</strong> please </p></div> <a href="https://locusmag.com/2024/05/2024-commonwealth-short-story-prize-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/05/2024-commonwealth-short-story-prize-winners/>
 
 ---
 
@@ -27,6 +129,17 @@ Wych Cross! Although the house I imagined Fawney Rigg to be based upon  would ha
 [contains quote post or other embedded content] 
 
 <https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ktpmswetf42q>
+
+---
+
+## NarraScope workshops on June 21st
+
+date: 2024-05-30, updated: 2024-05-30, from: NarraScope, Celebrating Narrative Games
+
+<p>A few updates:</p>
+<p>Last year we had online workshops Friday afternoon and in-person workshops Friday evening. This year, the schedule has worked out differently: <em>all</em> our workshops will be online. The first set will be Saturday, June 8th; the second set will be the Friday afternoon of NarraScope (June 21st …</p> 
+
+<https://narrascope.org/2024/05/reg-workshops-2024.html>
 
 ---
 

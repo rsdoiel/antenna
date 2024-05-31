@@ -1,11 +1,134 @@
 ---
 title: socal north 2024.22
-updated: 2024-05-30 11:07:34
+updated: 2024-05-31 08:33:26
 ---
 
 # socal north 2024.22
 
-(date: 2024-05-30 11:07:34)
+(date: 2024-05-31 08:33:26)
+
+---
+
+## The Transfer Take: The Reintroduction
+
+date: 2024-05-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+After a nearly two-year hiatus, The Transfer Take is back! Podcasts contributor Ashley Tsao sits down with prospective UCLA applicant Christina Bui to discuss the transfer application and the emotions involved in the process. 
+
+<https://dailybruin.com/2024/05/30/the-transfer-take-the-reintroduction/>
+
+---
+
+## Bruins voice support for UAW Local 4811 strike, concern over UCLA admin’s response
+
+date: 2024-05-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students expressed support for the United Auto Workers Local 4811 strike at UCLA but said there has been a lack of communication surrounding the strike&#8217;s effects on classes. 
+
+<https://dailybruin.com/2024/05/30/bruins-voice-support-for-uaw-local-4811-strike-concern-over-ucla-admins-response/>
+
+---
+
+## Marqueece Harris-Dawson confirmed as LA City Council’s next president
+
+date: 2024-05-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Los Angeles City Council confirmed President Pro Tempore Marqueece Harris-Dawson as the council’s next president Tuesday.
+Last week, Councilmembers Katy Yaroslavsky – who represents Westwood – and Heather Hutt nominated Harris-Dawson, who represents District 8 and chairs the city’s Planning and Land Use Management Committee. 
+
+<https://dailybruin.com/2024/05/30/marqueece-harris-dawson-confirmed-as-la-city-councils-next-president/>
+
+---
+
+## Law enforcement leadership structure at UCLA faces scrutiny in wake of encampment
+
+date: 2024-05-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+For the Daily Bruin&#8217;s full coverage on the UC Divest Coalition and Students for Justice in Palestine at UCLA encampment, see here.
+Municipal leaders, policing experts and documents acquired by the Daily Bruin outlined and discussed the law enforcement leadership structure on campus. 
+
+<https://dailybruin.com/2024/05/30/law-enforcement-leadership-structure-at-ucla-faces-scrutiny-in-wake-of-encampment/>
+
+---
+
+## UCLA’s contracts with CHP, LAPD reveal costs associated with police on campus
+
+date: 2024-05-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+For the Daily Bruin&#8217;s full coverage on the UC Divest Coalition and Students for Justice in Palestine at UCLA encampment, see here.
+Contracts obtained by the Daily Bruin outlined costs associated with policing on campus. 
+
+<https://dailybruin.com/2024/05/30/uclas-contracts-with-chp-lapd-reveal-costs-associated-with-police-on-campus/>
+
+---
+
+## UCPD arrests, charges student with battery
+
+date: 2024-05-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 30 at 7:45 p.m.</em>
+UCPD arrested and charged a student with battery near Perloff Hall on Wednesday afternoon.&#160;
+The arrested student, Jeffrey Baum, struck an on-duty security officer&#8217;s hand while the officer was holding his phone near Murphy Hall and was then arrested near Perloff Hall, according to a Thursday UCPD news release. 
+
+<https://dailybruin.com/2024/05/30/ucpd-arrests-charges-student-with-battery/>
+
+---
+
+## Food reviewer Julianna Shimabukuro creates culinary content, community
+
+date: 2024-05-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+Julianna Shimabukuro is giving people a taste of California.
+The fourth-year psychobiology student said she has a strong passion for food that has accompanied her throughout her life. 
+
+<https://dailybruin.com/2024/05/30/food-reviewer-julianna-shimabukuro-creates-culinary-content-community/>
+
+---
+
+## Jury finds Donald Trump guilty on all 34 felony counts
+
+date: 2024-05-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 30 at 4:46 p.m.</em>
+A Manhattan jury found former president and presumptive Republican presidential nominee Donald Trump guilty on 34 felony counts of falsifying business records Thursday afternoon. 
+
+<https://dailybruin.com/2024/05/30/jury-finds-donald-trump-guilty-on-all-34-felony-counts/>
+
+---
+
+## UCLA calls student hearings for arrested participants of pro-Palestine encampment
+
+date: 2024-05-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students arrested for participating in the Palestine solidarity encampment have been called for student hearings by the Office of Student Conduct.
+The encampment began April 25, was declared unlawful April 30 and was dismantled May 2 by police. 
+
+<https://dailybruin.com/2024/05/30/ucla-calls-student-hearings-for-arrested-participants-of-pro-palestine-encampment/>
+
+---
+
+## Trump Found Guilty on All 34 Counts
+
+date: 2024-05-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="980" height="653" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/09/trump.webp?fit=980%2C653&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/09/trump.webp?w=980&amp;ssl=1 980w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/09/trump.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/09/trump.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/09/trump.webp?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/09/trump.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/09/trump.webp?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/09/trump.webp?fit=980%2C653&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A Manhattan jury has found former President Donald Trump guilty on all counts making him the first American president to be found guilty of a felony. LOS ANGELES (CNS) &#8211; [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/05/30/trump-found-guilty-on-all-34-counts/">Trump Found Guilty on All 34 Counts</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/05/30/trump-found-guilty-on-all-34-counts/>
+
+---
+
+## UCLA softball, Woolery strike down Alabama in Women’s College World Series opener
+
+date: 2024-05-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated May 30 at 3:30 p.m.</em>
+The journey to a championship can be tumultuous.
+Whether it’s the path that upended the Bruins last season or the lightning delay that moved Thursday’s start back two hours, the trek is never easy. 
+
+<https://dailybruin.com/2024/05/30/ucla-softball-woolery-strike-down-alabama-in-womens-college-world-series-opener/>
 
 ---
 
@@ -70,7 +193,7 @@ These three words have become synonymous with Charlie Kratus, a first-year busin
 
 date: 2024-05-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?w=1440&amp;ssl=1 1440w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?w=1440&amp;ssl=1 1440w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/05/440895242_122140472924173348_6853323115379840871_n.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Para ayudar a aumentar la conciencia y recaudar fondos para el Centro Comunitario de Salud Mental del Valle de San Fernando en Van Nuys y cumplir una meta personal de [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/05/29/concienciar-sobre-la-salud-mental-recorriendoel-camino-de-santiago/">Concienciar Sobre la Salud Mental Recorriendo el Camino de Santiago</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -217,7 +340,7 @@ As an optimistic first-year student, I always envisioned college as a place wher
 
 date: 2024-05-30, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated May 29 at 8:28 p.m.</em>
+<em>This post was updated May 30 at 5:20 p.m.</em>
 As the credits roll on their undergraduate careers, UCLA’s graduating class of actors bring their talents to the spotlight. 
 
 <https://dailybruin.com/2024/05/29/this-years-actors-showcase-will-spotlight-talents-of-19-senior-theatre-students/>
@@ -292,12 +415,12 @@ Around 70 registered nurses and community members rallied near Ronald Reagan UCL
 
 ---
 
-## BREAKING: Amber Miller to step down as dean of Dornsife
+## Amber Miller to step down as dean of Dornsife
 
 date: 2024-05-29, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Miller will leave the University to become president of the William and Flora Hewlett Foundation.</p>
-<p>The post <a href="https://dailytrojan.com/2024/05/29/breaking-amber-miller-to-step-down-as-dean-of-dornsife/">BREAKING: Amber Miller to step down as dean of Dornsife</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2024/05/29/breaking-amber-miller-to-step-down-as-dean-of-dornsife/">Amber Miller to step down as dean of Dornsife</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2024/05/29/breaking-amber-miller-to-step-down-as-dean-of-dornsife/>

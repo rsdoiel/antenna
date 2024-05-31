@@ -1,11 +1,61 @@
 ---
 title: motorcycles 2024.22
-updated: 2024-05-30 11:07:35
+updated: 2024-05-31 08:33:27
 ---
 
 # motorcycles 2024.22
 
-(date: 2024-05-30 11:07:35)
+(date: 2024-05-31 08:33:27)
+
+---
+
+## This Motorcycle Patent Has the Wildest Aero We've Ever Seen
+
+date: 2024-05-31, from: Ride Apart, Electric Motorcycle News
+
+How wild is too wild?  
+
+<https://www.rideapart.com/news/721473/white-motorcycle-concepts-crazy-aero-patent/>
+
+---
+
+## Indian MotoGP Race Cancelled Because It’s Too Damn Hot
+
+date: 2024-05-31, from: Ride Apart, Electric Motorcycle News
+
+115 in the shade means 130 on the tarmac in your leathers.  
+
+<https://www.rideapart.com/news/721578/motogp-india-race-canceled-heat-wave/>
+
+---
+
+## Yeah, You Really Shouldn't Post Riding Reckless On Social Media
+
+date: 2024-05-31, from: Ride Apart, Electric Motorcycle News
+
+Unless you want to be arrested... 
+
+<https://www.rideapart.com/news/721472/speeding-video-arrest-warrant-instagram-australia/>
+
+---
+
+## BMW's CEO Says Electric Motorcycles Aren't Ready to Compete With Gas Ones
+
+date: 2024-05-31, from: Ride Apart, Electric Motorcycle News
+
+"Not now, maybe later." 
+
+<https://www.rideapart.com/news/721572/bmw-motorrad-ceo-electric-motorcycle-interview/>
+
+---
+
+## First Look: 2025 Ducati Streetfighter V4 S Supreme
+
+date: 2024-05-30, from: Cycle World News
+
+Ducati’s new limited Streetfighter V4 S gets custom livery by Supreme and Drudi Performance, and is part of a collection with technical and lifestyle apparel. 
+
+<https://www.cycleworld.com/bikes/ducati-streetfighter-v4-s-supreme-first-look/>
 
 ---
 

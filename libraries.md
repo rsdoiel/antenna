@@ -1,11 +1,33 @@
 ---
 title: libraries 2024.22
-updated: 2024-05-30 11:07:35
+updated: 2024-05-31 08:33:27
 ---
 
 # libraries 2024.22
 
-(date: 2024-05-30 11:07:35)
+(date: 2024-05-31 08:33:27)
+
+---
+
+## Why Are English Language Spellings So Weird?
+
+date: 2024-05-31, from: Scholarly Kitchen
+
+<p>Why are English spellings so inconsistent and weird?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/05/31/why-are-english-language-spellings-so-weird/">Why Are English Language Spellings So Weird?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/05/31/why-are-english-language-spellings-so-weird/>
+
+---
+
+## Ozma of Oz, by L. Frank Baum
+
+date: 2024-05-31, from: Standard Ebooks, new releaases
+
+A girl gets whisked away to a fairy land and helps restore the proper rulers to the throne. 
+
+<https://standardebooks.org/ebooks/l-frank-baum/ozma-of-oz>
 
 ---
 
@@ -37,7 +59,7 @@ date: 2024-05-29, from: Scholarly Kitchen
 
 date: 2024-05-28, from: Association of Research Libraries News
 
-<p>Last Updated on May 29, 2024, 3:54 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, May 29 &#124; Thursday, May 30 Tuesday, May...</p>
+<p>Last Updated on May 31, 2024, 8:11 am ET Sign up to receive the Day in Review by email. Jump to: Wednesday, May 29 &#124; Thursday, May 30 Tuesday, May...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-may-28-30/">Day in Review (May 28–30)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -54,6 +76,16 @@ date: 2024-05-28, from: Scholarly Kitchen
  
 
 <https://scholarlykitchen.sspnet.org/2024/05/28/mental-health-awareness-mondays-better-mental-health-through-embodiment/>
+
+---
+
+## Ulysses, by James Joyce
+
+date: 2024-05-28, from: Standard Ebooks, new releaases
+
+A man passes a day in early twentieth-century Dublin, in a journey patterned on Homer’s Odyssey. 
+
+<https://standardebooks.org/ebooks/james-joyce/ulysses>
 
 ---
 

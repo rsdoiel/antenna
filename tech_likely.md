@@ -1,11 +1,658 @@
 ---
 title: tech likely 2024.22
-updated: 2024-05-30 11:07:34
+updated: 2024-05-31 08:33:27
 ---
 
 # tech likely 2024.22
 
-(date: 2024-05-30 11:07:34)
+(date: 2024-05-31 08:33:27)
+
+---
+
+## Hurricane Season Begins
+
+date: 2024-05-31, from: NASA breaking news
+
+June 1 marks the beginning of the 2024 hurricane season in the Atlantic Ocean. NASA observes and studies hurricanes from space, both with views from the space station and with satellites. This vantage point helps scientists understand how climate change impacts hurricanes and learn how communities can better prepare for tropical cyclones in a warmer [&#8230;] 
+
+<https://www.nasa.gov/image-article/hurricane-season-begins/>
+
+---
+
+## Winners Named in NASA Space Tech Art Challenge
+
+date: 2024-05-31, from: NASA breaking news
+
+Space technology might look a bit different decades from now. The NASA Innovative Advanced Concepts (NIAC) program studies innovative, technically credible, advanced projects that could one day “change the possible” in aerospace. To help people understand what these innovations might look like, NIAC has turned to artists and graphic designers in a global contest to [&#8230;] 
+
+<https://www.nasa.gov/image-article/winners-named-in-nasa-space-tech-art-challenge/>
+
+---
+
+## NASA Mission Flies Over Arctic to Study Sea Ice Melt Causes
+
+date: 2024-05-31, from: NASA breaking news
+
+It’s not just rising air and water temperatures influencing the decades-long decline of Arctic sea ice. Clouds, aerosols, even the bumps and dips on the ice itself can play a role. To explore how these factors interact and impact sea ice melting, NASA is flying two aircraft equipped with scientific instruments over the Arctic Ocean [&#8230;] 
+
+<https://www.nasa.gov/earth/nasa-mission-flies-over-arctic-to-study-sea-ice-melt-causes/>
+
+---
+
+##  Fabric & Letterforms 
+
+date: 2024-05-31, updated: 2024-05-31, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/fabric-letterforms>
+
+---
+
+## Servo sees another month full of improvements
+
+date: 2024-05-31, from: OS News
+
+Servo, the Rust-based browser engine originally started by Mozilla but since spun off into an entity under the umbrella of the Linux Foundation, has published another monthly update. As almost every month, there&#8217;s been a lot of progress on rendering tech I don&#8217;t quite understand, and further improved support for various standards. Another major focus is the ongoing font system rework, which is yielding not only vastly improved support for font rendering options, but is also reducing the memory load. The example browser included in Servo is also making progress, from reducing the amount of errors on Windows, to implementing support for using extra mouse buttons to go back and forward, and showing the link desination when hovering the mouse over a link. 
+
+<https://www.osnews.com/story/139850/servo-sees-another-month-full-of-improvements/>
+
+---
+
+##  The JWST has imaged the most distant known galaxy, seeing it as... 
+
+date: 2024-05-31, updated: 2024-05-31, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044717-the-jwst-has-imaged-the>
+
+---
+
+## Mathematicians Attempt to Glimpse Past the Big Bang
+
+date: 2024-05-31, from: Quanta Magazine
+
+By studying the geometry of model space-times, researchers offer alternative views of the universe’s first moments.            <p>The post <a href="https://www.quantamagazine.org/mathematicians-attempt-to-glimpse-past-the-big-bang-20240531/" target="_blank">Mathematicians Attempt to Glimpse Past the Big Bang</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/mathematicians-attempt-to-glimpse-past-the-big-bang-20240531/>
+
+---
+
+## Space Station Research Advances NASA’s Plans to Explore the Moon, Mars
+
+date: 2024-05-31, from: NASA breaking news
+
+Space, the saying goes, is hard. And the farther humans go, the harder it can get. Some of the challenges on missions to explore the Moon and Mars include preventing microbial contamination of these destinations, navigating there safely, protecting crew members and hardware from radiation, and maintaining and repairing equipment. Research on the International Space [&#8230;] 
+
+<https://www.nasa.gov/missions/station/iss-research/space-station-research-advances-nasas-plans-to-explore-the-moon-mars/>
+
+---
+
+## 25 years of Krita
+
+date: 2024-05-31, from: OS News
+
+Twenty-five years. A quarter century. That&#8217;s how long we&#8217;ve been working on Krita. Well, what would become Krita. It started out as KImageShop, but that name was nuked by a now long-dead German lawyer. Then it was renamed to Krayon, and that name was also nuked. Then it was renamed to Krita, and that name stuck. I only became part of Krita in 2003, when Krita was still part of KDE&#8217;s suite of productivity applications, KOffice, later renamed to Calligra&#8230; And I became maintainer of Krita in 2004, when Patrick Julien handed over the baton. That means that I&#8217;ve been around Krita for about twenty of those twenty-five years, so I&#8217;ll hope you, dear reader, will forgive me for making this a really personal post; a very large part of my life has been tied up with Krita, and it&#8217;s going to show. ↫ Krita website While it may not be as popular as something like LibreOffice due to fewer people needing it, Krita is a cornerstone application of the Linux desktop (it&#8217;s also available for Windows and macOS), and I honestly can barely believe it&#8217;s been around for this long. I&#8217;m about as far removed from being an artistic painter as a squirrel&#8217;s tail is from being a functioning propeller engine so I don&#8217;t have need for Krita, but I&#8217;m always surprised by how many people mention using it for their painting endeavours. I wish the project and its developers another successful 25 years, and they&#8217;re going to need it &#8211; Krita 5.3 is coming soon(ish), and the much more involved Krita 6.0, which makes the jump fro Qt 5 to Qt 6, is also in the works. On a personal note, I&#8217;m online acquainted with the lead maintainer of Krita, and as she alludes to at the end of the article, COVID hit her hard, and maintaining such a huge open source project isn&#8217;t easy to begin with. Much respect for keeping it up, and of course, to everyone else contributing to the project. 
+
+<https://www.osnews.com/story/139842/25-years-of-krita/>
+
+---
+
+## Can the Raspberry Pi 5 handle 4K?
+
+date: 2024-05-31, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Can the Raspberry Pi 5 handle 4K?</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/apple-tv-raspberry-pi-5-libreelec.jpeg" alt="Apple TV and Raspberry Pi 5 connected to LG OLED TV"></p>
+
+<p>In the past, I've booted <a href="https://libreelec.tv">LibreELEC</a> on the Raspberry Pi Compute Module 4 in my "<a href="https://www.jeffgeerling.com/blog/2022/tv-thats-not-necs-pi-powered-55-display">This is not a TV</a>" Sharp NEC display.</p>
+
+<p>According to <a href="https://libreelec.tv/2023/09/28/rpi5-support/">LibreELEC's Pi 5 blog post</a>, the new BCM2712 SoC decodes 4K and 1080p content just fine in H.264, and supports HEVC 4K60 hardware decoding.</p>
+
+<p>And they've tested AV1, VC1, and VP9 at 1080p with no issue, though 4K in non-native formats does encounter frame dropping.</p>
+
+<p>I wanted to put the Pi through some testing of my own, now that the Pi 5's been out for months, and LibreELEC version 12 is stable.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-05-31T08:59:25-05:00" title="Friday, May 31, 2024 - 08:59" class="datetime">May 31, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/can-raspberry-pi-5-handle-4k>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-31, from: Dave Winer's Scripting News)
+
+A <a href="https://imgs.scripting.com/2024/05/31/blogrollScreen.png">screen shot</a> that illustrates. If you're going to put your name in the title, put it in the first part. 
+
+<http://scripting.com/2024/05/31.html#a134229>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-31, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=w05CYrXe4p4">Them Changes</a>. 
+
+<http://scripting.com/2024/05/31.html#a133208>
+
+---
+
+## Bohdan Troschynsky opened issue #138: broken caption rendering in Chexbox at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-05-31, updated: 2024-05-31, from: Oberon A2 at CAS
+
+
+<p dir="auto">In CheckBox from WMStandardComponents not appear caption (Look GUIPat12a.Mod for example).</p>
+<ol dir="auto">
+<li>Not setting text color: Need add TextColor property and set canvas.color before drawing text</li>
+<li>Wrong coordinates in DrawString, possible better using DrawStringInRect</li>
+<li>When used ZeroSkin  CheckBox image drawing on on the whole area</li>
+</ol>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/138>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-31, from: Dave Winer's Scripting News)
+
+Perhaps I should add a new element to the <a href="http://source.scripting.com/">source namespace</a>, the name of the author of a blog, if the feed is for a blog. Here's why I need it. I am building my blogroll. Every time I find an insightful story about using tech I use, these days esp AI, I add it to my blogroll so I get to see any new articles they write when they post. But if their blog has a catchy name, I'll never pick it out of the list as I scan for something new to read. I need the name of the author too. Basically a blogger should provide their name, but of course it's completely optional. I'll subscribe anyway, if the article is on-topic. I'm soaking this stuff up now, building my own personal firehose. 
+
+<http://scripting.com/2024/05/31.html#a130243>
+
+---
+
+## Tech is about people
+
+date: 2024-05-31, from: Dave Winer's Scripting News
+
+<p>Once again we're at the beginning of a huge tech-induced transformation, and yet again the people who already occupy a high rung of the ladder of success, or imagine they do, are pissing all over it, without using it.</p>
+<p>I remember <a href="https://en.wiktionary.org/wiki/kvell">kvelling</a> about Napster, about how the ability to program my own music had made it possible for me to explore my own life in new ways, because music is inexorably bound to memory. For me the big revelation came on <a href="http://scripting.com/2000/06/18.html">Father's Day in 2000</a> when I heard <a href="https://www.youtube.com/watch?v=P6zaCV4niKk">Father and Son</a> by Cat Stevens on the radio and desperately wanted to hear it again. </p>
+<p>I had tried Napster a few months earlier and found that it had none of my music. It was basically just a technology demo. I tried it again, and this time not only did it have the Cat Stevens song, but it had every song from my childhood that I hadn't heard since being a kid listening to WABC on the transistor radio my grandfather gave me for my birthday when I was five or six years old.</p>
+<p>I told this story at a Future of Music conference and was torn apart by the other people on stage, supposedly creative people, who cared not one bit about how people used the product they created, and the power of being able to program our own music. They were the bosses of music and my job was merely to give them money and admiration and stfu. They tried to get me off the stage (I was the moderator) but I stood my ground and of course never forgot.</p>
+<p>It happened again a few years later at the DNC in Boston, when the journalists mocked the bloggers because we had no experience as journalists, and they didn't like the way we dressed (they wrote articles about it, in the NYT even). 20+ years later they're still complaining, but they forget to blame us for their misery, now. Their misery is they forget the glory of their job, which is empowering us -- their users -- to change the world that so desperately needs changing. </p>
+<p>It's happening again with AI, which is opening up creative expression to people who can't draw, or aren't good writers, or people who want to be better programmers, or who knows -- this technology is the most powerful I've used in my long life in tech. </p>
+<p>The difference is -- you have to use something before your criticism makes any sense. That was the mistake the music industry made with Napster. What the journalists made regarding bloggers (we're they're sources, tried to say over and over but they don't listen they just like to talk and be admired and our job as usual is to give them money and stfu). </p>
+<p>My very good friend Doc Searls sees it the same way. He calls it <a href="https://doc.searls.com/2024/05/28/the-peoples-ai/">People's AI</a>. We're going to build this out the way we did it with blogging and podcasting a few years ago. It may be our last rodeo, we're getting on in years, but I'm so glad I lived to see this.</p>
+<p>(Sidebar: The people who run tech companies today have no idea how to build new technology markets, the categories they occupy were built by others, now gone. I finally figured that's our disconnect and why products lose important features when they are taken over by the inheritors, and why the leaders of Google et al have no idea where to put AI for users to build with it, or even that the users build the stuff they use in tech. Say what you want about Jack, Ev and Biz, but they understood this idea and they did let the users lead.)</p>
+<p>And btw, don't miss that it was twelve of us, twelve people, that finally said what the ladder-occupiers have failed to say for far too long about Trump -- he's a felon. We've known that, but when did Obama, Biden, Moscow Mitch or anyone else with a name or reputation to protect say the most obvious truth. They're all powerless and weak, and if we want to get out of this mess we're going to have to lead ourselves. Waiting for them, that didn't work. </p>
+<p>PS: Thanks to Twitter for increasing the character limit, so I can <a href="https://x.com/davewiner/status/1796516437281935415">write my blog posts</a> on my iPad before starting my day. Like this. ;-)</p>
+<p>PPS: BTW -- here's <a href="https://www.youtube.com/watch?v=P6zaCV4niKk">the song</a>. Somehow the music industry survived my ability to share this song with you and my future self.</p>
+<p>PPPS: I write these pieces with specific people in mind but I rarely say who they are because it embarrasses them. But I write <i>all</i> my pieces the my regular readers, who keep me going, almost 30 years (on Oct 10 this year). I hope they build great things with these ideas, and they let me help them do it. </p>
+<p>PPPPS: Doc tends to write brilliant pieces that perfectly describe these points in time. Let's travel back to 1997, as Steve Jobs is returning to Apple, when <a href="http://scripting.com/davenet/stories/DocSearlsonSteveJobs.html">Doc explained</a> that while he loves me, Steve loves no one but Steve. <span class="spOldSchoolEmoji">😄</span></p>
+<p>PPPPPS: The motto for the podcasting community as it was booting up in 2004 was "users and developers party together." That was the thing that Adam and I agreed on. Adam being the user, and I being the developer. Of course it was his trying to be a developer, and me trying to be a user that was the spark that created the boom. We both made it safe for amateurs to do what we do. That's why podcasting, unlike the music industry, never went to war with its users.  <span class="spOldSchoolEmoji">💥</span></p>
+ 
+
+<http://scripting.com/2024/05/31/123255.html?title=techIsAboutPeople>
+
+---
+
+## Donald Trump Is Now a Convicted Felon
+
+date: 2024-05-31, updated: 2024-05-31, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/05/31/donald-trump-is-now-a-convicted-felon/>
+
+---
+
+## Hubble Views the Lights of a Galactic Bar
+
+date: 2024-05-31, from: NASA breaking news
+
+This new image from the NASA/ESA Hubble Space Telescope shows the broad and sweeping spiral galaxy NGC 4731. It lies in the constellation Virgo and is located 43 million light-years from Earth. This highly detailed image uses data collected from six different filters. The abundance of color illustrates the galaxy’s billowing clouds of gas, dark […] 
+
+<https://science.nasa.gov/missions/hubble/hubble-views-the-lights-of-a-galactic-bar/>
+
+---
+
+## P&B: Matthew Graybosch
+
+date: 2024-05-31, from: Manu - I write blog
+
+
+                <p>This is the 40th edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have Matthew Graybosch and his blog, <a href="https://starbreaker.org">starbreaker.org</a></p>
+<p>To follow this series <a href="https://peopleandblogs.com">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed">RSS feed</a>.</p>
+<p>If you're enjoying the People and Blogs series and you want to see it grow, consider supporting on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a>.</p>
+<hr />
+<h2>Let's start from the basics: can you introduce yourself?</h2>
+<p>I'm Matthew Graybosch of Long Island in New York. I'm a GenX college dropout with delusions of erudition, a long-haired metalhead, and an incorrigible nerd. I'm a man of modest means and plebeian tastes, and if this post seems disjointed, it is because I am large and contain multitudes.</p>
+<p>I had majored in computer science but I regret not saying be damned to the naysayers and going for a liberal arts degree. Then again, I probably should have just become an electrician; it's a union job in a skilled trade and not particularly amenable to outsourcing or automation.</p>
+<p>Instead, I build software for a living — a job that pays well but often feels like building cathedrals atop quicksand — and make a hobby of writing science fantasy inspired by heavy metal and prog rock. Nothing I've written would be mistaken by a discerning reader for a towering work of literature, but I had a hell of a lot of fun writing it, and I've given readings from my work at the World Fantasy Convention. I'm also a terrible musician; I can stay on beat and in tune, and play three instruments poorly: viola, piano, and bass guitar. I have an uncle who does philosophy for a living; I merely dabble in it, since I'm one of those techies who gets curious about areas outside his expertise and sometimes develops opinions about them, too. Worse, I sometimes express them on my website, though you may find I am somewhat more progressive in many of my opinions than the typical Hacker News commenter.</p>
+<p>I currently live and work in central Pennsylvania. I'm technically a homeowner, but all that means right now is that my landlord is a bank, my rent isn't subject to annual increases, and I'm much less likely to hear my neighbors having sex or domestic disputes. It still beats being a renter.</p>
+<p>I have a relatively anodyne and corporate-friendly "professional" website at <a href="https://matthewgraybosch.com/">matthewgraybosch.com</a>, but my personal website is at <a href="https://starbreaker.org/">starbreaker.org</a> and that's where I let my hair down and speak my mind straight from the heart (with <a href="https://starbreaker.org/blog/rants/disdain-profanity-luxury-belief/index.html">liberal use of profanity</a>).</p>
+<p>I tend to use the alias "starbreaker" online. I grabbed it out of an old Judas Priest song from their <em>Sin After Sin</em> album, but apparently it's also the name of a DC super-villain from the 1970s that nobody gives a damn about anymore. It's also a super-weapon in the Xeelee sequence of sf novels by Stephen Baxter. But I just didn't want to use "Stormbringer"; there were too many of those online in 1996.</p>
+<p>However, when I play <em>Final Fantasy XIV</em> I'm <a href="https://na.finalfantasyxiv.com/lodestone/character/40706699/">Naomi Bradleigh</a>. You can blame my wife Catherine for that; she loves to play around with character creation in RPGs, she tends to make characters based on characters from <a href="https://starbreaker.org/fiction/">my fiction</a>, and Naomi is one of her favorites: a swashbuckling soprano catgirl whose demon sword (which was forged of a stable transuranic heavy metal not yet seated at the periodic table) has figured out how to talk to her over 802.11 wireless networking and thinks that <em>The Dreaming City</em> by Michael Moorcock and <em>Gate of Ivrel</em> by C. J. Cherryh are fun bedtime stories.</p>
+<p>Besides, I <a href="https://starbreaker.org/blog/entertainment/playing-woman-ffxiv/index.html">already pretend to be a man in real life</a>. Why also do it in <a href="https://starbreaker.org/blog/rants/choose-life-problem-video-games/index.html">a massively multiplayer online power fantasy</a>?</p>
+<p>I suppose I should mention my day job. For my sins, I work a full-stack developer working at one of the US' Big Four consulting firms. They've got me typecast as a .NET developer, but my technical repertoire is rather broader than they care to realize. When I dropped out of college, it was with both a working knowledge of UNIX and the sting of my ex-girlfriend's last kiss still lingering on my lips.</p>
+<p>Not many geeks can make that boast; they might manage the former but not necessary the latter. I run Slackware and OpenBSD on secondhand computers at home, and build my website with basic UNIX tools. More on that later, since you're curious about my tech stack. I've been on the periphery of various FOSS projects for years; I used to be active on the FreeBSD mailing list between 2002 and 2004 and used to answer a lot of questions about setting up dial-up connections using <code>wvdial</code>. I had also dabbled a bit with Gemini Protocol in 2020 and 2021, to the point of running my own server at tanelorn.city. I'm also part of the reason that <a href="https://lists.sr.ht/~adnano/gemini/%3C20200613053926.GH11281%40brevard.conman.org%3E#%3C20200613022323.46fd03f0ec8bd59ca6a5709b@matthewgraybosch.com%3E">Gemini's companion upload protocol is called "Titan"</a>.</p>
+<p>I not only use GNU Emacs for programming at home, but for my writing. Speaking of which, I'm the author of the novels <em>Without Bloodshed</em> and <em>Silent Clarion</em>, as well as stories like "The Milgram Battery" and "Limited Liability". They're all part of the same post-apocalyptic metal hurlant science fantasy saga: <em>Starbreaker</em>. It's basically a pastiche on Michael Moorcock and a bunch of other sf and fantasy authors who aren't slavish imitators of J. R. R. Tolkien, though I do have a dark lord who wears white and already rules the world; he's a Silicon Valley Saruman and as cunning a linguist as his namesake. (Remember: what happens in Lothlorien stays in Lothlorien.) If you read my fiction, expect a strong undercurrent of the same sort of Romantic Satanism one finds in Byron, Shelley, and Goethe.</p>
+<p>I'm also autistic, but wasn't diagnosed until I was in my early 40s. Being like that has made my life harder than it might ordinarily be; I can be sociable, friendly, or even charming with effort — but even doing the minimum to seem normal in an office setting can leave me drained at the end of a workday. Despite this, I managed to meet a woman online in 2000 and court her for four years before marrying her in 2004; it'll have been 20 years for Catherine and me this Halloween.</p>
+<p>I haven't always had the means to make a huge fuss over her for our anniversaries, but we did spend her 40th birthday in Paris, where I did the talking for both of us because I had just enough French to order at shops and restaurants and make basic polite conversation without immediately revealing myself as an Ugly American. It was more than she had, though. <em>Mais non, je ne parle et lire pas Francais bien.</em> But my French is better than my German, which is barely good enough to make sense of Rammstein lyrics.</p>
+<p>I've got a couple of cats curled up beside me while I'm writing this, and the neighborhood strays know me for a soft touch. I'm a typical middle-aged American man in that I don't have any friends beside my wife, and I had to get by as a child and a young man without a lot of support, but the life I live is mostly the life I wanted for myself in my youth and I've done most of what I had wanted to do. I've written and published novels, I've traveled a bit, I live in a library, and my wife and I still enjoy each other's company. I'm doing pretty well for myself.</p>
+<p>(Fair warning: if my introduction seemed like too much, it only gets worse from here.)</p>
+<h2>What's the story behind your blog?</h2>
+<p>I can't remember ever not having some kind of website after I first got internet access through my college's computer lab back in 1996. I've always dabbled in writing about my life online and sharing bits and pieces of my fiction online. The internet was always a place where I could geek out in a way I never felt safe enough to do in "real life". Even though I wasn't diagnosed as autistic until I was about 41, my parents had taught me to keep a low profile, not show off what I knew, and not bore other people with my interests.</p>
+<p>On my websites I wasn't obligated to play by those rules, so I didn't. I didn't even have to be myself online. Instead, I could call myself "Mabelode the Faceless" in the time-honored tradition of wannabe hackers adopting grandiose pseudonyms. Of course, I'm still doing that, but taking inspiration from a Judas Priest song instead of a Michael Moorcock novel.</p>
+<p>For about a decade I ran a website under my real name at <a href="https://matthewgraybosch.com/">matthewgraybosch.com</a>, because posting fiction on Google+ had gotten me a book deal with an independent press and I needed a website to promote myself if I wasn't to be wholly dependent on parasocial media like Google+, Facebook, and Twitter. If I had been a bit smarter at the time, I would have registered <a href="https://starbreaker.org/">starbreaker.org</a> in 2013 instead of 2020 and never used my real name. Though if I had really been smart, I would not have let starbreaker.net go, which I had held from about 2000 to 2006.</p>
+<p>I still have a website on <a href="https://matthewgraybosch.com/">matthewgraybosch.com</a>, but it's mainly a substitute for having a LinkedIn account because LinkedIn has always been the Ashley Madison of job hunting, only more cultish. I mean, have you seen the people posting there? It's like the Stepford Wives got equally robotic husbands and they all got corporate jobs.</p>
+<p>Some would argue that my clinging to a personal website instead of "getting with the program" and doing social media or a podcast or video is pointless. However, the pointlessness is the point. It's rather like my science fantasy writing: a sacrament of defiance. I feel as though the world only values me (and men in general (and don't even get me started on the way women are still objectified; Elon Musk in particular reminds me of Immortan Joe from <em>Mad Max: Fury Road</em>)) for my ability to further enrich the already wealthy. My saving the best of my effort and paltry intellect for a website or fiction that benefits nobody but merely amuses me is the sort of gentle rebellion that keeps me alive. Without it I'd have killed myself decades ago, because a life lived solely for the sake of others isn't a life at all, but a life sentence.</p>
+<p>On a lighter note, it's helped me with dating, too. All of the women I've dated, I met online. It wasn't my face or physique that interested them, but my writing. One of them is my wife of twenty years. The possibility that she might read something I've posted online keeps me from being entirely unreasonable.</p>
+<p>Nevertheless, I'm just another opinionated guy who happens to be capable of running his own website, so I do. If I had more musical talent and better social skills, I might be playing in a heavy metal band on nights and weekends instead.</p>
+<p>Instead, I have <a href="https://starbreaker.org/">starbreaker.org</a>, where I let my hair down and speak my mind straight from the heart. My opinions aren't necessarily palatable; I'm generally irreligious, anti-capitalist, and anti-authoritarian. I provide the usual disclaimers, but it should be obvious that I'm not speaking for my employers there, or their partners and clients. Besides, if somebody doesn't want to hire me because I play the edgelord on a personal website then they don't deserve to have my name on their payroll in the first place; they're not a <em>culture fit</em> for me because they think they have the right to expect me to put aside basic human rights like freedom of expression even when I'm not on the clock.</p>
+<h2>What does your creative process look like when it comes to blogging?</h2>
+<p>Wifi off, headphones on. Beyond that, it depends. Sometimes I know what I want to write and have most of it roughed out in my head before my fingertips touch the keyboard because it's been in the background of my mind like a daemon process. Sometimes I'm feeling my way through, exploring an idea, smacking it around like my cat with a hollow ball that dispenses a little kibble if he can get it to roll the right way.</p>
+<p>And sometimes, I'm just angry — usually about real-world bullshit that a sensible person would dismiss as somebody else's problem because they don't have the power and authority to take meaningful action. I, however, am not a sensible person. (My wife is looking over my shoulder and saying, "Thank God", incidentally.)</p>
+<p>Hemingway supposedly wrote a lot of his best work while drunk. I'd like to think I've managed a few epic rants while somewhere between high dudgeon and Shakespearean wrath. There's a trope in Japanese role-playing games which suggests that you can solve the world's problems by finding the right white-haired pretty-boy and beating the crap out of him, but the real-world has a surplus of problems and a marked shortage of atomic blond Adonises on whom the world's problems can be blamed. Besides, I've more experience with a pen than a sword, and I'm a middle-aged adult besides, so I use my words.</p>
+<p>Ultimately, my creative process — such as it is — is often just me asking myself how I can go about leaving the world a few scars by which to remember me without hurting innocent people in the process. I am ultimately shouting at the void, daring it to shout back as the abyss might in a Nietzschean staring contest. And sometimes it does, too.</p>
+<p>For example, last year I wrote a rant after reading a post by Jake Seliger in which he outlined his regrets, because most of them annoyed me; they sounded like the scoldings of would-be Jordan Petersen who thinks he knows something about the world because he's made a few mistakes. One of them, which he suggested was not widely applicable, was in my opinion the only one that mattered. He didn't see a doctor the moment he noticed that something was weird about his tongue. If he had, he might not have lost it to cancer. If he had, he might not be slowly dying.</p>
+<p>A couple of months later, I got an email from a woman whom discretion forbids me to name. She went to the doctor after putting it off for months because she had read my rant. Turns out she's got cancer, too. I never heard from her again. I hope she made it, but I'll never know. All I know is that if she did make it, but never felt the need to write to me again, I might still have saved somebody's life.</p>
+<h2>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</h2>
+<p>If I have an ideal creative environment, I haven't found it yet. I've written at food courts in crowded shopping malls while my wife went shopping. I've written in an overpriced apartment with thin walls while my neighbors had a domestic dispute (after calling the police). I've written in my bedroom as a young man while my parents screamed at each other over money. I've written in the break room at my day job. I've written in bed, unable to sleep, and in my home office while listening in on a conference call that should have been an email.</p>
+<p>I'm not joking about any of this. I wrote one novel, <a href="https://starbreaker.org/fiction/novels/without-bloodshed/index.html"><em>Without Bloodshed</em></a>, 1000 words at a time while hiding in a pizza parlor near my office. I'd get a slice, write part of a scene, and go back to work. I finished the first draft in about 100 days of writing in this fashion. I worked on <a href="https://starbreaker.org/fiction/novels/silent-clarion/index.html"><em>Silent Clarion</em></a> while working the night shift, babysitting a server farm. Did a lot of blogging that year, too, but I haven't gotten around to digging those posts out of the archive.</p>
+<p>Rather than waiting or searching for the right environment in which to write, I made do with what I had; Virginia Woolf might have needed a room of her own, but there were times when I didn't even have that. Instead, I counted myself lucky if my parents weren't at my door giving me grief for being at home writing instead of going out and trying to meet girls. Never mind that what little money I made from my part time job went toward college expenses (or maintenance on my bicycle) so I had no money for dating, let alone the time or inclination.</p>
+<p>I've found that it isn't so much the physical space that affects my creativity, but the playlist. The wrong music can make achieving a flow state impossible, but the right music can make me all but unstoppable. A playlist has to have music complex enough to engage my brain and keep me from noticing the world around me, but not so complex that I focus more on the music than the task I've set myself. Also, when writing fiction, the music needs to match the character.</p>
+<p>For example, I've had good sessions with albums by the Blue Öyster Cult, Queensrÿche, Therion, Hiromi Uehara, Thank You Scientist, Braindance, Galneryus, The Sisters of Mercy, Threshold, Savatage, Judas Priest, Ghost, Paradise Lost, and Iron Maiden. I've had terrible sessions with albums by Frank Zappa, even though he's an old favorite. Likewise King Crimson, Mahavishnu Orchestra, Steve Vai, Devin Townshend, Coheed and Cambria, Baroness, and Titans to Tachyons — all of whom have released excellent albums that just don't make for good writing music because they demand the listener's active attention.</p>
+<p>The importance of having the right album playing doesn't apply solely to blogging, incidentally. It applies to my fiction writing and to my day job as a developer. All of these roles require that I be able to quickly and reliably access a flow state.</p>
+<p>There's also the matter of tooling. I don't spend quite so much time in GNU Emacs that I use it to read and compose email, but that's mainly because setting up Emacs to interface with an IMAP-based provider is a pain in the ass and Fastmail's web interface is <em>good enough</em> that I'd rather not bother. Emacs has, however, become indispensable to me for writing in a way few other applications have. It is for me what Scrivener is for a lot of novelists, and it integrates with other tools in a way few writing tools can match. Those that can generally trace their descent to Bill Joy's vi editor.</p>
+<h2>A question for the techie readers: can you run us through your tech stack?</h2>
+<p>I doubt your more technical readers would find my stack particularly impressive, but everything's in <a href="https://git.sr.ht/~starbreaker/starbreaker.org">my site's git repository</a>, which is publicly accessible on Sourcehut.</p>
+<p>I usually have "Rube Goldberg Variations" by Thank You Scientist on repeat when working on my tooling, incidentally. The title seemed fitting.</p>
+<p>My host is Nearly Free Speech, and my website is served by Apache on FreeBSD. It's all static HTML pages with a little CSS (as a treat) so there's no database involved and no need for a server-side programming language or framework like PHP or Ruby on Rails, let alone the C# and ASP.NET I use at my day job.</p>
+<p>Nor is there any JavaScript, let alone front-end frameworks like Bootstrap. It simply isn't needed for a personal website in my opinion, especially not with all the functionality that gets built into HTML5 and CSS3. I'm not one of those developers building their blog with Node.js and Astro or Eleventy, for example, let alone React. I don't even use a static site generator like Jekyll or Hugo, though I've tried both.</p>
+<p>I write for my website in HTML with GNU Emacs on an old, secondhand computer running Slackware, and I compile Emacs myself to have the latest version. I used to use Markdown or Org Mode and convert to HTML with pandoc, but that gets slow once you've got a couple hundred posts in your archive (not to mention a few novels). Each page's metadata is stored in a separate file as shell variables that I source from my build script.</p>
+<p>I make use of templates and partials, but implement them using shell scripts and a makefile that I run locally instead of depending on a continuous integration (CI) system. My dependencies are limited to bash, GNU coreutils, sed, awk, m4, exiftool, libjxl, avifenc, cwebp, HTML tidy, and tools from the W3C's HTML-XML-utils suite. My idea of deploying a website is to type "make install", which calls rsync and pushes changes to my host over SSH. If I really wanted automatic builds and deployments, I could set up a cron job on my Slackware machine.</p>
+<p>Aside from the support for WebP, AVIF, and JPEG XL image formats, my stack is something I might have used in 1999 if I knew then what I knew today. It's just a MEWNIX system. My cats know this.</p>
+<figure class="m-o" data-template="with"><div class="m-m"><img class="img" loading="lazy" src="https://manuelmoreale.com/media/pages/thoughts/pb-matthew-graybosch/9c25d1967c-1717050282/battlestation.jpg" style="aspect-ratio:1000 / 1333"></div><figcaption>Smudge (bottom right) and Purrseus (top left) taking turns as sysadmins</figcaption></figure>
+<p>(At risk of ruining a joke by explanation: MEWNIX is a weak pun on UNIX, which was in turn a weak pun on MULTICS.)</p>
+<h2>Given your experience, if you were to start a blog today, would you do anything differently?</h2>
+<p>The main reason I have a blog is that everybody and their cat seems to have one. I can't help but wonder if maybe blogging really did break the World Wide Web, as some posts I've read suggest.</p>
+<p>I find that blogging requires a different sort of focus, and that I don't necessarily refer to old blog posts when writing new ones. When blogging, it is easy to ignore the past in favor of the eternal present. This often leads to me repeating myself, or at least paraphrasing myself, because each post is a discrete and timestamped snapshot of what I was thinking in the moment. It seems a format better suited to machines than people.</p>
+<p>If I were starting from zero today, or could go back 20 years knowing what I know today, I wouldn't start a blog. I would rather have the online equivalent of a <a href="https://starbreaker.org/blog/personal/making-a-grimoire/index.html">commonplace book or a grimoire</a>, with a single page per major topic that just keeps growing as I add to it. If I have written about a particular subject, such as commentary on a particular novel or heavy metal album, I would rather expand upon or refine what I have already written than write something entirely new.</p>
+<p>I understand that this is also called digital gardening. However, having an internet grimoire appeals more to my inner child, who is still a thirteen-year-old edgelord trying to shock his elders by appearing to dabble in diabolism.</p>
+<p>At the very least, I would not want to do as much blogging as I currently do, but instead take an excerpt from my commonplace and either summarize or reformat it as a blog post — or use the blog to highlight changes and additions to my grimoire.</p>
+<p>I also think that blogging doesn't encourage deep reading on the part of visitors. You might read a blog post because somebody shared a link somewhere, but not bother to dig deeper into that site's archive. Furthermore, blogging in retrospect seems a precursor to social media, especially after RSS feeds and feed aggregators had their 15 minutes. This approach made it easy to think in terms of being a "content creator" and thus commodifying personal expression.</p>
+<p>It's bad enough I have to be a commodity, or human capital, at my day job. I don't want to be a commodity in my recreation as well.</p>
+<h2>Financial question since the web is obsessed with money: how much does it cost to run your blog? Is it just a cost or does it generate some revenue? And what's your position on people monetising personal blogs?</h2>
+<p>I rent my domain for about $15/year. Dot org domains don't seem trendy, so they're generally cheap. I rent disk, CPU, and bandwidth from Nearly Free Speech for about $5/month on average, though that's dependent mainly on traffic. Hosting on Nearly Free Speech is relatively cheap because they charge extra for technical support if you aren't the sort who can read a FAQ and figure things out yourself.</p>
+<p>I pay the expenses of running a website out of my salary from my day job instead of trying to make a side hustle out of it. This is, oddly enough, recreation and self-care for me. My website is my work done my way, and that's priceless.</p>
+<p>Besides, I spend a lot less to run my website than I have on any of the following in a given year:</p>
+<ul>
+<li>Local, state, and Federal property, sales, income, and payroll taxes</li>
+<li>Power</li>
+<li>Heating</li>
+<li>Water</li>
+<li>Sewage</li>
+<li>Garbage collection</li>
+<li>Rent/Mortgage payments</li>
+<li>Groceries</li>
+<li>My subscription to <em>Final Fantasy XIV</em> (aka multiplayer power fantasy with anime melodrama and a symphonic power metal soundtrack)</li>
+<li>Books, movies, and music on physical media</li>
+<li>Dates with my wife</li>
+<li>Health insurance premiums</li>
+<li>Residential internet access from a regional monopoly provider those TOS won't let me self-host HTTP or email</li>
+<li>Streaming video subscriptions that have little of interest to watch</li>
+</ul>
+<p>I'm against monetizing personal websites, but nobody elected me to have an opinion on what other people do with their own websites — and they certainly aren't <em>paying</em> me to care. If you want to turn your website into a side hustle, or can make a full-time living off of affiliate links and making people pay for the privilege of posting comments, more power to you. I just can't be bothered to do any of that myself.</p>
+<p>Memo to people monetizing their sites with ads: don't expect me to turn off my ad blocker for you. I don't do that for <em>anybody</em>, because all adtech is malware and uBlock Origin is the new Norton Antivirus. And if you get really annoying, I'll disable JavaScript for your domain, too. Why? For the same reason I write: because I can, because I choose to, and because you can't stop me. If ads on your website can't support your expenses, too bad: that's what having a day job is for.</p>
+<p>Incidentally, I'm even rethinking my "screw AI" and "screw Google" stance; it had occurred to me that by <a href="https://starbreaker.org/robots.txt">blocking AI crawlers</a> I am forgoing an opportunity to throw a monkey wrench (or a spanner for the Brits reading this) into OpenAI's works by injecting my irreligious, anti-capitalist, and anti-authoritarian sentiments into their training data. It would be amusing of ChatGPT encouraged young workers to ask themselves what America has done for <em>them</em> lately because OpenAI slurped down my blog without anything resembling meaningful human oversight.</p>
+<p>On the other hand, there's enough machine-generated slop on the internet without me indirectly contributing to it.</p>
+<h2>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</h2>
+<p>I was tempted to suggest that you take a look at my <a href="https://starbreaker.org/bookmarks/">links page</a> and pick websites to check out, but reorganizing that page (and adding more sites) has been on my to-do list for a while now.</p>
+<p>I'll try to keep this simple: with one exception that I'll list first, if I mention a website here it's probably worthwhile to interview its operator as well.</p>
+<p>The exception is Simone Silvestroni at <a href="https://minutestomidnight.co.uk/">Minutes to Midnight</a>, because not only have <a href="https://manuelmoreale.com/pb-simone-silvestroni">you already thought of him</a> but he seems to have submitted his reply with greater alacrity than I've managed.</p>
+<ul>
+<li>I like <a href="https://silviamaggidesign.com/">Silvia Maggi's</a> website, whom Simone often mentions. I didn't know she and Simone were married until recently; I never asked because I figured it was none of my business.</li>
+<li>I also like <a href="https://maya.land/">maya.land</a>, not least because its content warning both amuses me and allows me to indulge in self-flattery; because I can chuckle when I read it, it proves I can take a joke.</li>
+<li>I don't think Brian Russ has a blog, but he's been running the <a href="http://www.bnrmetal.com/v5/main/home">BNR Metal Pages</a> since 1995. It was one of the first websites I ever visited when I first got onto the internet at a college computer lab in late 1996.</li>
+<li><a href="https://so1o.xyz/">so1o</a> is an otaku and gamer out of Hong Kong. He <a href="https://so1o.xyz/blog/designing-in-the-open">builds his website from scratch</a>, and he's better at it than he thinks.</li>
+<li><a href="https://lysianth.us/">Lysianthus</a> is another website operator who isn't much for blogging. I like her style, though.</li>
+<li><a href="https://frills.dev/">Frills</a> is a web developer from Wales with some <a href="https://frills.dev/experiments/">fun experiments</a>. I've made a lot of use of her <a href="https://frills.dev/experiments/html-named-colors/">HTML Named Colors</a> tool.</li>
+<li><a href="https://www.kradeelav.com/">Kradeelav</a> is fun if you're into villains or leather. She does a lot of fan art, but isn't suitable for children. I liked her zine <a href="https://kradeelav.itch.io/boxofdoom"><em>The Box of Doom</em></a> (and bought a paper copy).</li>
+<li><a href="https://www.marginalia.nu/">Viktor Lofgren</a> runs his own <a href="https://search.marginalia.nu">search engine</a>. That alone should make him worth interviewing.</li>
+<li><a href="https://darylsun.page/">Daryl Sun</a> is a Filipina gamer and otaku building her own website and blog.</li>
+<li><a href="https://foreverliketh.is/">foreverliketh.is</a> is a teacher and digital gardener.</li>
+<li><a href="https://melonland.net/">Melon</a> runs a smol web forum that's closed on Mondays (Irish time).</li>
+<li><a href="https://blog.basementcommunity.com/">Orchids</a> runs another smol web forum called Basement Community.</li>
+<li><a href="https://btxx.org/">Bradley Taunt</a> is into minimalist web design, shell scripting, and OpenBSD.</li>
+<li><a href="https://xandra.cc">xandra</a> was active in Yesterweb and is currently one of the major personalities behind <a href="https://32bit.cafe">32bit Cafe</a>.</li>
+<li><a href="https://nightfall.city/nex/in/m15o/">m150</a> isn't really a blogger, but a hacker and sysadmin who runs little social sites like <a href="https://midnight.pub">The Midnight Pub</a> and <a href="https://nightfall.city">Nightfall City</a>.</li>
+<li><a href="https://dataswamp.org/~solene/index.html">Solène Rapenne</a> is an OpenBSD developer and blogger who wrote her own static site generator in <a href="https://lisp-lang.org/">Common Lisp</a>.</li>
+<li><a href="https://tarabrenn.neocities.org/">Tara Brennan</a> is new to having a personal website, but if she keeps at it I think she'll have an interesting blog.</li>
+</ul>
+<h2>Final question: is there anything you want to share with us?</h2>
+<p>Oh, there's quite a bit I could share, and not all of it mine, but I'll get to the self-promotion in due course.</p>
+<h3>Books</h3>
+<ul>
+<li><em>Circe</em> by Madeline Miller retells the myths surrounding the sorceress who first proved an obstacle to Odysseus before becoming an ally, giving her a depth of character not readily apparent in the source material. I had written at some length about her first novel, <a href="https://starbreaker.org/blog/entertainment/song-of-achilles/index.html"><em>The Song of Achilles</em></a>, too.</li>
+<li><em>A Thousand Ships</em> and <em>Stone Blind</em> by Natalie Haynes are more retellings of classic myths by a feminist classical scholar; Haynes also hosts "Natalie Haynes Stands Up for the Classics" for BBC Radio 4.</li>
+<li>I am still reading Emily Wilson's translation of Homer's <em>Iliad</em>; my wife had given me the hardcover for Christmas. When I'm done I'll read her translation of the <em>Odyssey</em>, and I wonder what she'd make of Virgil's <em>Aeneid</em>.</li>
+<li>I have at the top of one of my "read next" piles a copy of <em>Inanna</em> by Emily H. Wilson, no relation to the aforementioned translator of Homer. This novel deals with Sumerian myth, and includes a rather more down-to-earth depiction of Gilgamesh.</li>
+<li>If retellings of ancient epics aren't your style, I'd like to recommend <a href="https://www.ljcohen.net/">L. J. Cohen's</a> space operas, starting with <a href="https://starbreaker.org/blog/entertainment/lj-cohen-derelict-worthy-heinlein/index.html"><em>Derelict</em></a>.</li>
+<li>Sally Wiener Grotta has four feminist sf stories worthy of <a href="https://starbreaker.org/blog/entertainment/catherine-lucille-moore-queen-pulps/index.html">C. L. Moore</a> in her latest collection, <a href="https://www.sallywienergrotta.com/of-being-woman/"><em>Of Being Woman</em></a>.</li>
+</ul>
+<h3>Music</h3>
+<p>I had been listening to some of the following while working on this post (and other things):</p>
+<ul>
+<li><a href="https://nuclearpowertrio.bandcamp.com/album/a-clear-and-present-rager"><em>A Clear and Present Rager</em></a> and <a href="https://nuclearpowertrio.bandcamp.com/album/wet-ass-plutonium"><em>Wet Ass Plutonium</em></a> by the Nuclear Power Trio remind me of Liquid Tension Experiment on a Latin jazz kick, but with more puns and tongues wedged firmly in cheeks hidden by dictator masks.</li>
+<li>Oddly enough for band that seems to mainly do jazz/synthwave fusion, I discovered Cloud People's <a href="https://cloudpeople1.bandcamp.com/album/simulacra"><em>Simulacra</em></a> album via a review on <a href="https://www.angrymetalguy.com/cloud-people-simulacra-review/">Angry Metal Guy</a>.</li>
+<li><a href="https://emberbelladonna.bandcamp.com/album/the-grove"><em>The Grove</em></a> by Ember Belladonna is folk metal with a flute as lead instrument, but flautist Emma Kramer-Rodger doesn't play like she's auditioning for a Jethro Tull revival band, and thank Arioch for that.</li>
+<li>NYC's Braindance calls the music they do <a href="http://progressivedarkwave.com/brainbio.html">"progressive darkwave"</a>. It kinda reminds me of Type O Negative, but with more guitar shredding courtesy of axe witch Vora Vor. Whenever I put on their <em>Redemption</em> album from 2002, I settle into a groove, but I think I still have the promo tape I got from them while waiting to get into a show at the long-gone Roseland Ballroom in Manhattan back in 1995. And their website is a throwback to turn-of-the-century web design.</li>
+</ul>
+<h3>My Stuff</h3>
+<p>I've got a fairly sizable archive of posts on my website, but I provide a <a href="https://starbreaker.org/blog/recommended.html">recommended page</a> as a starting point. It has web manifestos like "Party Like It's 1989" and "This Is Not My Side Hustle" along with rants like "Literature Ain't Burger King" and "Storming Heaven". Basically, something to offend everyone.</p>
+<p>There's also <a href="https://starbreaker.org/fiction/index.html">my fiction</a>. After the rights to the fiction I had published with <a href="https://writerbeware.blog/2018/04/25/author-complaints-mount-at-curiosity-quills-press/">Curiosity Quills Press</a> reverted to me around 2020, I ended up putting it all on my website. Good thing, too, because my first novel <a href="https://starbreaker.org/fiction/novels/without-bloodshed/index.html"><em>Without Bloodshed</em></a> (2013) is long out of print, and my second novel <a href="https://starbreaker.org/fiction/novels/silent-clarion/index.html"><em>Silent Clarion</em></a> never got a print edition in the first place.</p>
+<p>(For people interested in web development, I manage to publish both of these novels as a single page while using less data than a typical post on either Twitter, Bluesky, or Mastodon. My secret: no JavaScript, and no frameworks — just raw HTML with a little CSS.)</p>
+<p>Both novels, as well as my <a href="https://starbreaker.org/fiction/stories/index.html">short stories</a> and <a href="https://starbreaker.org/fiction/index.html">other unfinished/abandoned work</a>, are pastiches of <em>Final Fantasy</em>, Michael Moorcock, and lyrics from Blue Öyster Cult and Judas Priest. My fiction page makes no secret of my influences, and you can also read <em>Silent Clarion</em> as a mostly-affectionate parody of urban fantasy and paranormal romances by the likes of Laurell K. Hamilton, Patricia Briggs, and Kim Harrison.</p>
+<p>If you've ever decided against sharing something like <a href="http://motherfuckingwebsite.com">Motherfucking Website</a> at work because of the profanity (or find it too Oedipal), I've got you covered. <a href="https://actualwebsite.org/">This is an Actual Website</a>.</p>
+<p>As I mentioned, I have a somewhat more professional website at <a href="https://matthewgraybosch.com/">matthewgraybosch.com</a>. At least, I'm not using nearly as much profanity there, but I still claim to be a "full-stack thaumaturge" there. I'm also looking for a better job, so if anybody knows somebody looking to hire an experienced generalist techie with a patchwork DIY liberal arts education, please send them my way.</p>
+<p>In closing, and to paraphrase what I say in party chat after a dungeon crawl or boss fight in <em>Final Fantasy XIV</em>: <strong>thanks for having me!</strong></p>
+<hr />
+<p>This was the 40th edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Matthew. Make sure to <a href="https://starbreaker.org">follow his blog</a> (<a href="https://starbreaker.org/feeds/everything.xml">RSS</a>) and get in touch with him if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a> and all supporters will be listed here as well as on the <a href="https://peopleandblogs.com">official site</a> of the newsletter.</p>
+<p><a href="https://www.thingelstad.com">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml">RSS</a>) — <a href="https://some.studio">Piet Terheyden</a> — <a href="https://minim.blog">Raul Montala</a> (<a href="http://github.com/rmontala/minim/commits.atom">RSS</a>) — Eleonora — <a href="https://carlbarenbrug.com">Carl Barenbrug</a> (<a href="https://carlbarenbrug.com/feed/rss">RSS</a>) — <a href="https://tangiblelife.net">Steve Ledlow</a> (<a href="https://tangiblelife.net/feed.rss">RSS</a>) — Paolo Ruggeri — <a href="https://thejollyteapot.com">Nicolas Magand</a> (<a href="https://thejollyteapot.com/feed.rss">RSS</a>) — <a href="https://robhope.com">Rob Hope</a> — <a href="https://chrishannah.me">Chris Hannah</a> (<a href="https://chrishannah.me/index.xml">RSS</a>) — <a href="https://blog.pcora.eu">Pedro Corá</a> (<a href="https://blog.pcora.eu/feed.xml">RSS</a>) — <a href="https://colinwalker.blog/">Colin Walker</a> (<a href="https://colinwalker.blog/dailyfeed.xml">RSS</a>) — <a href="https://softlandings.world/">Sixian Lim</a> (<a href="https://www.softlandings.world/feed.rss">RSS</a>) — <a href="https://mattstein.com">Matt Stein</a> (<a href="https://mattstein.com/rss.xml">RSS</a>) — <a href="https://winnielim.org">Winnie Lim</a> (<a href="https://winnielim.org/feed/">RSS</a>) — <a href="https://flamedfury.com/">Flamed</a> (<a href="https://flamedfury.com/feed.xml/">RSS</a>) — <a href="https://skyhold.org">C Jackdaw</a> (<a href="https://journal.miso.town/atom?url=https://skyhold.org/index.html">RSS</a>) — <a href="https://tiv.today">Kevin Humdrum</a> (<a href="https://tiv.today/feed.rss">RSS</a>) — <a href="https://www.doc.cc/">Fabricio Teixeira</a> (<a href="https://www.doc.cc/feed.xml">RSS</a>) — <a href="https://rosalindcroad.com">Rosalind Croad</a> — <a href="https://frankmeeuwsen.com">Frank Meeuwsen</a> (<a href="https://frankmeeuwsen.com/feed.xml">RSS</a>) — <a href="https://www.elmike.me">Mike Walsh</a> (<a href="https://www.elmike.me/feed.xml">RSS</a>) — <a href="https://www.byzero.de/">Markus Heurung</a> — <a href="https://jeremybassetti.com">Jeremy Bassetti</a> (<a href="https://jeremybassetti.com/index.xml">RSS</a>) — <a href="https://cleverlaziness.xyz/">Juan Villela</a> (<a href="https://cleverlaziness.xyz/posts/index.xml">RSS</a>) — <a href="https://mwarrenarts.com/">Michael Warren</a> (<a href="https://mwarrenarts.com/rss">RSS</a>) — <a href="https://cagrimmett.com/">Chuck Grimmett</a> (<a href="https://cagrimmett.com/feed">RSS</a>) — <a href="https://eatweeds.co.uk">Robin Harford</a> (<a href="https://www.eatweeds.co.uk/feed/">RSS</a>) — <a href="https://bryanmanio.com/">Bryan Maniotakis</a> (<a href="https://bryanmanio.com/feed/">RSS</a>) — <a href="https://bjhess.com/">Barry Hess</a> (<a href="https://bjhess.com/posts_feed">RSS</a>) — <a href="https://chrisjung.xyz">Chris Jung</a> (<a href="https://chrisjung.xyz/feed/rss">RSS</a>) — <a href="https://ivanmoreale.com">Ivan Moreale</a> — <a href="https://islandinthenet.com">Khürt Williams</a> (<a href="https://islandinthenet.com/feed/">RSS</a>) — <a href="https://werd.io/">Ben Werdmuller</a> (<a href="https://werd.io/feed">RSS</a>) — <a href="https://corygibbons.com">Cory Gibbons</a> — <a href="https://www.lkhrs.com/">Luke Harris</a> (<a href="https://www.lkhrs.com/blog/index.xml">RSS</a>) — <a href="https://lars-christian.com/">Lars-Christian Simonsen</a> (<a href="https://lars-christian.com/feed/">RSS</a>) — <a href="https://sethw.xyz">Seth Werkheiser</a> (<a href="https://sethw.xyz/feed/">RSS</a>) — <a href="https://www.codyschultz.com">Cody Schultz</a> — <a href="https://bradbarrish.com">Brad Barrish</a> (<a href="https://bradbarrish.com/feed/">RSS</a>) — <a href="https://galaiko.rocks">Nikita Galaiko</a> — Erik Blankvoort — <a href="https://jagasantagostino.com">Jaga Santagostino</a> — <a href="https://andzuck.com/">Andrew Zuckerman</a> — <a href="https://www.mattiacompagnucci.com">Mattia Compagnucci</a> (<a href="https://mattiacompagnucci.com/feed.rss">RSS</a>) — <a href="https://tdh.se/">Thord D. Hedengren</a> (<a href="https://tdh.se/feed/feed.xml">RSS</a>) — <a href="https://fabiensauser.ch">Fabien Sauser</a> (<a href="https://fabiensauser.ch/index.xml">RSS</a>) — <a href="http://dizzard.net/">Maxwell Omdal</a> — <a href="https://numericcitizen.me">Numeric Citizen</a> (<a href="https://feedpress.me/numericcitizen-feeds.xml?ref=numericcitizen.me">RSS</a>) — <a href="https://heydingus.net">Jarrod Blundy</a> (<a href="https://heydingus.net/feeds">RSS</a>) — <a href="https://gwtf.it">Andrea Contino</a> (<a href="https://gwtf.it/feed">RSS</a>) — <a href="https://sebastiandedeyne.com/">Sebastian De Deyne</a> (<a href="https://sebastiandedeyne.com/index.xml">RSS</a>) — <a href="https://koolinus.net/blog/">Nicola Losito</a> (<a href="https://koolinus.net/blog/feed/">RSS</a>) — <a href="https://amerpie.lol/">Lou Plummer</a> (<a href="https://amerpie.lol/feed.xml">RSS</a>) — <a href="https://lmika.org/">Leon Mika</a> (<a href="https://lmika.org/feed.xml">RSS</a>) — <a href="http://veronique.ink">Veronique</a> (<a href="https://veronique.ink/feed/">RSS</a>) — <a href="https://surplusjouissance.com">Neil Gorman</a> (<a href="https://www.surplusjouissance.com/rss/">RSS</a>) — <a href="https://reaper.is/">Reaper</a> (<a href="https://reaper.is/rss.xml">RSS</a>) — <a href="https://www.mattrutherford.co.uk/">Matt Rutherford</a> (<a href="https://www.mattrutherford.co.uk/rss/">RSS</a>) — <a href="https://therealadam.com">Adam Keys</a> (<a href="https://therealadam.com/feed.xml">RSS</a>) — <a href="https://aleemshaun.com/">Aleem Ali</a> (<a href="https://aleemshaun.com/feed">RSS</a>) — <a href="https://www.ismailsevik.com/">İsmail Şevik</a> (<a href="https://www.ismailsevik.com/feeds/posts/default?alt=rss">RSS</a>) — <a href="https://nikkin.dev/">Nikkin</a> (<a href="https://nikkin.dev/feed.xml">RSS</a>) — <a href="https://jeremyfelt.com/">Jeremy Felt</a> (<a href="https://jeremyfelt.com/feed">RSS</a>) — <a href="https://hansfast.net">Hans</a> (<a href="https://hansfast.net/everything.rss">RSS</a>) — <a href="https://www.markpitblado.me/">Mark Pitblado</a> (<a href="https://www.markpitblado.me/feed.xml">RSS</a>) — <a href="https://www.morelightmorelight.com/">Matt Katz</a> (<a href="https://www.morelightmorelight.com/feed">RSS</a>) — <a href="https://iljapanic.com/">Ilja Panić</a></p>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale">support on Ko-Fi</a>;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/Igsq4erIIlLCVUIG>
+
+---
+
+## Genesis
+
+date: 2024-05-31, from: Ayjay blog
+
+I was disappointed by Marilynne Robinson’s Reading Genesis, though that may have less to do with the quality of Robinson’s book than with my way of thinking about the Bible. Robinson proceeds by a kind of Lockean association of ideas: on one (typical) page a thought about Joseph and his brothers reminds her Adam and [&#8230;] 
+
+<https://blog.ayjay.org/genesis/>
+
+---
+
+## Desperately seeking ICQ? It may shut down, but Nina could resurrect it
+
+date: 2024-05-31, updated: 2024-05-31, from: Liam Proven's articles at the Register
+
+<h4>Multiple folks are working on FOSS servers for classic messaging apps</h4>
+      <p>Multiple independent efforts are underway to save ICQ from extinction… as well as MSN, AIM, Yahoo! and more.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/05/31/nina_saving_icq/>
+
+---
+
+## What We Learned from a Year of Building with LLMs (Part II)
+
+date: 2024-05-31, from: O'Reilly Radar
+
+A possibly apocryphal quote attributed to many leaders reads: “Amateurs talk strategy and tactics. Professionals talk operations.” Where the tactical perspective sees a thicket of&#160;sui generis&#160;problems, the operational perspective sees a pattern of organizational dysfunction to repair. Where the strategic perspective sees an opportunity, the operational perspective sees a challenge worth rising to. In part [&#8230;] 
+
+<https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii/>
+
+---
+
+## June’s Night Sky Notes: Constant Companions: Circumpolar Constellations, Part III
+
+date: 2024-05-31, from: NASA breaking news
+
+In the final Circumpolar Constellations installment, learn about objects in Cepheus, Draco, and Ursa Major, and how to find them in June’s Night Sky Notes! 
+
+<https://science.nasa.gov/solar-system/skywatching/night-sky-network/jun2024-night-sky-notes/>
+
+---
+
+## Endless OS 6: How desktop Linux may look, one day
+
+date: 2024-05-31, updated: 2024-05-31, from: Liam Proven's articles at the Register
+
+<h4>An extra-robust, novice-friendly distro, with local apps, that's not ChromeOS</h4>
+      <p>EndlessOS 6 is a toughened and much-simplified immutable Debian 12 with a friendly GNOME-based desktop, aimed at kids, education, and novice users.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/05/31/endless_os_6/>
+
+---
+
+## HackSpace magazine meets Jón Schone | HackSpace #79
+
+date: 2024-05-31, from: Raspberry Pi News (.com)
+
+<p>In the latest issue of HackSpace magazine, out now, Andrew Gregory meets Jón Schone. Beware: this man does weird things with 3D printers. </p>
+<p>The post <a href="https://www.raspberrypi.com/news/hackspace-magazine-meets-jon-schone-hackspace-79/">HackSpace magazine meets Jón Schone | HackSpace #79</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/hackspace-magazine-meets-jon-schone-hackspace-79/>
+
+---
+
+## FLTK 1.4.x Weekly Snapshot (master)
+
+date: 2024-05-31, from: Fast Light Tool Kit
+
+A new weekly snapshot of FLTK 1.4.x (master) is now available 
+
+<https://www.fltk.org/articles.php?L1924>
+
+---
+
+## Engineering for Slow Internet
+
+date: 2024-05-31, from: brr, an Antarctica IT blog
+
+How to minimize user frustration in Antarctica. 
+
+<https://brr.fyi/posts/engineering-for-slow-internet>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-31, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/01/13/davesCoffee.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">On the day I wrote a <a href="http://scripting.com/2024/05/30/134935.html">piece</a> asking why Trump isn't in jail, the jury returns a <a href="https://www.yahoo.com/news/live/trump-verdict-live-updates-trump-found-guilty-of-34-counts-of-falsifying-business-records-becoming-the-first-us-president-to-be-convicted-of-criminal-charges-205128980.html">34 guilty verdicts</a> in his Manhattan trial. It's the people that get this stuff right. Juries are <a href="http://scripting.com/davenet/1996/03/01/juryduty.html">wonderful</a>. 
+
+<http://scripting.com/2024/05/30.html#a014120>
+
+---
+
+## Full Circle Magazine 205
+
+date: 2024-05-31, from: Full Circle Magazine
+
+<p>This month:</p>
+<ul>
+<li>Command &amp; Conquer</li>
+<li>How-To : Python, Stable Diffusion and Latex</li>
+<li>Graphics : Inkscape</li>
+<li>Review : Ubuntu 24.04, Damn Small Linux, Ubuntu Cinnamon 23.10 and Ubuntu MATE 23.10</li>
+<li>UbPorts Touch</li>
+<li>My Opinion : Meshtastic</li>
+<li>Ubuntu Games - Barony</li>
+</ul>
+<p>plus: News, Micro This, Q&amp;A, The Daily Waddle, and more.</p>
+<p><strong>Other Languages</strong></p>
+<ul>
+<li><a href="https://dl.fullcirclemagazine.org/issue205_fr.pdf">French PDF</a></li>
+</ul> 
+
+<https://fullcirclemagazine.org/magazines/issue-205/>
+
+---
+
+## First, and possibly only, look at Dell’s weird version of FreeBSD: ThinOS
+
+date: 2024-05-30, from: OS News
+
+About a week ago I reported on a case study from Dell and FreeBSD, about Dell&#8217;s ThinOS thin client operating system, which basically consists of a proprietary Dell GUI running on top of, at the moment, FreeBSD 12 (they&#8217;re moving to FreeBSD 14 for the next ThinOS release). Well, this got me interested &#8211; I&#8217;ve always been fascinated by thin clients, and a Dell/Wyse FreeBSD &#8216;distribution&#8217; is just wild enough to be interesting &#8211; so I went onto eBay, and bought a Dell thin client. More specifically, I bought a Dell OptiPlex 3000 Thin Client, which comes with an Intel Pentium Silver N6005, a four core CPU without hyperthreading, 16 GB of RAM, a 32GB eMMC storage chip with room for a small M.2 SSD, WiFi 6, Ethernet, USB 3.0, 2.0, and C ports, Bluetooth, and so on. A low-power, but still quite capable little computer that I snagged for a mere €130, which is a steal compared to the full unit price; my configuration is sold new for like €700-800. Of course, these things are sold in batches of hundreds or maybe even thousands of units, and in such volumes corporate clients get massive discounts. Still, it&#8217;s a nice deal. My model came installed with Ubuntu 20.04 LTS, which I was not at all interested in. I immediately downloaded the latest ThinOS version for my model, used Dell&#8217;s tool and instructions to create a bootable USB, and got to work. The installation process was quick and easy, and does indeed look like an automated FreeBSD installation, TUI and all. After the installation is completed, you get guided through a first-run experience to configure things like the keyboard, WiFi, and so on, and it looks rather fancy. Once I completed the first-run experience, I hit the roadblock I was expecting: in order to use ThinOS, you need a ThinOS Activation License. Since my device was originally sold with (I think) Ubuntu preinstalled, it doesn&#8217;t have a TAL in its UEFI, and the only way to push a TAL to a device is to use the Dell Wyse Management Suite. Sadly, the Dell WMS only runs on Windows, and to make matters far worse, only on Windows Server. And it gets even worse &#8211; even if I created a Windows Server VM just to run WMS, I need the Pro version, which isn&#8217;t free (the free Standard version cannot push TALs), and I&#8217;d need to buy a TAL. Aside from the Windows Server restriction, I was aware of these limitations and requirements, so I&#8217;m not in the least bit surprised. I was curious to see if buying a TAL was an easy experience, or if it&#8217;s entirely geared towards enterprise customers and silly hobbyists like me need not apply. Without a license, I can use the proprietary Dell user interface, but it seems I can&#8217;t connect to any possible VDI providers, and I can&#8217;t tell what other features might be gated at the moment. With some admittedly very mild poking and prodding, I also haven&#8217;t been able to discover any ways of &#8216;leaving&#8217; Dell&#8217;s proprietary GUI to get to a terminal. I&#8217;ll do some more prodding over the coming days. I&#8217;m not entirely sure where to go from here when it comes to seeing just how much you can do with ThinOS, which was my original goal for this project. I have a feeling the pro version of the Dell Wyse Management Suite is going to be rather expensive &#8211; I can&#8217;t find any pricing information, which confirms my suspicions &#8211; so I think the journey ends here. Unless any OSNews readers have experience with this stuff, and can point me to some tips and tricks to perhaps acquire and install a TAL some other way, there won&#8217;t be a more in-depth look at Dell&#8217;s weird version of FreeBSD on OSNews. Which sucks, but was to be expected when it comes to enterprise software. Mind you, this does not mean the hardware is going to waste. Not only are there other purpose-built thin client operating systems to experiment with, it is also a full-fledged tiny x86 computer with completely silent passive cooling and a free M.2 slot, so the possibilities are endless. 
+
+<https://www.osnews.com/story/139840/first-and-possibly-only-look-at-dells-weird-version-of-freebsd-thinos/>
+
+---
+
+##  &#8220;Donald Trump has been found guilty of all 34 counts of falsifying... 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044715-donald-trump-has-been-fou>
+
+---
+
+## clichés, yes or no
+
+date: 2024-05-30, from: Ayjay blog
+
+Amanda Montell: Since the moment I learned about the concept of the “thought-terminating cliche” I’ve been seeing them everywhere I look: in televised political debates, in flouncily stencilled motivational posters, in the hashtag wisdom that clogs my social media feeds. Coined in 1961 by psychiatrist Robert Jay Lifton, the phrase describes a catchy platitude aimed [&#8230;] 
+
+<https://blog.ayjay.org/cliches-yes-or-no/>
+
+---
+
+## Testing object detection (yolo, mobilenet, etc.) with picamera2 on Pi 5
+
+date: 2024-05-30, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Testing object detection (yolo, mobilenet, etc.) with picamera2 on Pi 5</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Besides the Pi 5 being approximately 2.5x faster for general compute, the addition of other blocks of the Arm architecture in the Pi 5's upgrade to A76 cores promises to speed up other tasks, too.</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/jeff-geerling-object-detection-person-raspberry-pi-5.jpeg" alt="Jeff Geerling person object detection on Pi 5"></p>
+
+<p>On the Pi 4, popular image processing models for object detection, pose detection, etc. would top out at 2-5 fps using the built-in CPU. Accessories like the <a href="https://coral.ai">Google Coral TPU</a> speed things up considerably (and are eminently useful in builds like my <a href="https://www.jeffgeerling.com/blog/2024/building-pi-frigate-nvr-axzezs-interceptor-1u-case">Frigate NVR</a>), but a Coral adds on $60 to the cost of your Pi project.</p>
+
+<p>With the Pi 5, if I can double or triple inference speed—even at the expense of maxing out CPU usage—it could be worth it <em>for some things</em>.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-05-30T15:42:13-05:00" title="Thursday, May 30, 2024 - 15:42" class="datetime">May 30, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/testing-object-detection-yolo-mobilenet-etc-picamera2-on-pi-5>
+
+---
+
+## NASA Welcomes Slovakia as New Artemis Accords Signatory
+
+date: 2024-05-30, from: NASA breaking news
+
+Slovakia signed the Artemis Accords Thursday during a ceremony hosted by NASA Administrator Bill Nelson at the agency’s headquarters in Washington, becoming the 42nd nation to join an international community in a commitment to peaceful, transparent, and responsible exploration of space for the benefit of all. “NASA welcomes Slovakia as the newest signatory of the [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-welcomes-slovakia-as-new-artemis-accords-signatory/>
+
+---
+
+## Apple Silicon MacBook Pro Battery Replacement
+
+date: 2024-05-30, from: Michael Tsai
+
+Jeff Johnson (Mastodon): Yesterday I took the M1 MacBook Pro to my local Apple-authorized service provider that I&#8217;ve been going to for many years, who performed all of the work on my Intel MacBook Pro, including the battery replacements and a Staingate screen replacement. This is a third-party shop, not an Apple Store. To my [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/30/apple-silicon-macbook-pro-battery-replacement/>
+
+---
+
+## YouTube Playables
+
+date: 2024-05-30, from: Michael Tsai
+
+Juli Clover: YouTube is the latest company to introduce mobile games that are available outside of the App Store, today announcing the official launch of &#8220;Playables&#8221; in the YouTube app.[&#8230;]YouTube is focusing on &#8220;lightweight, entertaining games,&#8221; so many of the options are games that are meant to be played for a short period of time [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/30/youtube-playables/>
+
+---
+
+## iOS Retro Console Game Emulators
+
+date: 2024-05-30, from: Michael Tsai
+
+OatmealDome (via Steve Troughton-Smith): Apple modified their App Store guidelines to allow retro game emulators in the App Store. This week, Delta, a multi-system emulator that was previously only available via AltStore, was released on the App Store. Since these events happened, we&#8217;ve been asked many times if we will submit DolphiniOS (our fork of [&#8230;] 
+
+<https://mjtsai.com/blog/2024/05/30/ios-retro-console-game-emulators/>
+
+---
+
+##  The Green-Energy Revolution Shows What Real Innovation Looks Like. &#8220;Fossil fuel power... 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044714-the-green-energy-revoluti>
+
+---
+
+## What’s Up: June 2024 Skywatching Tips from NASA
+
+date: 2024-05-30, from: NASA breaking news
+
+Planets rule the a.m., and what’s that bright light? Saturn and Mars meet up with the Moon, Jupiter returns at dawn, and tips for identifying some common objects seen in the sky. Highlights “Planet Parade” note: Some online sources have shared excitement about a “parade of planets” visible in the morning sky in early June […] 
+
+<https://science.nasa.gov/solar-system/skywatching/whats-up-june-2024-skywatching-tips-from-nasa/>
+
+---
+
+## Málaga, Spain
+
+date: 2024-05-30, from: mrusme blog
+
+"Málaga is a municipality of Spain, capital of the Province of Málaga, in the
+autonomous community of Andalusia. With a population of 578,460 in 2020, it is
+the second-most populous city in Andalusia and the sixth most populous in the
+country. It lies in Southern Iberia on the Costa del Sol of the Mediterranean,
+primarily in the left bank of the Guadalhorce. The urban core originally
+developed in the space between the Gibralfaro Hill and the Guadalmedina." 
+
+<https://xn--gckvb8fzb.com/travel/spain/malaga/>
+
+---
+
+##  The trailer for Wolfs, an action-comedy flick starring George Clooney and Brad... 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/0044708-the-trailer-for-wolfs-an>
+
+---
+
+##  The Talking Piano 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/05/the-talking-piano>
+
+---
+
+## NASA Releases New High-Quality, Near Real-Time Air Quality Data
+
+date: 2024-05-30, from: NASA breaking news
+
+NASA has made new data available that can provide air pollution observations at unprecedented resolutions – down to the scale of individual neighborhoods. The near real-time data comes from the agency’s TEMPO (Tropospheric Emissions: Monitoring of Pollution) instrument, which launched last year to improve life on Earth by revolutionizing the way scientists observe air quality [&#8230;] 
+
+<https://www.nasa.gov/missions/tempo/nasa-releases-new-high-quality-near-real-time-air-quality-data/>
+
+---
+
+## NASA Updates Coverage for Boeing’s Starliner Launch, Docking
+
+date: 2024-05-30, from: NASA breaking news
+
+NASA will provide live coverage of prelaunch and launch activities for the agency’s Boeing Crew Flight Test, which will carry NASA astronauts Butch Wilmore and Suni Williams to and from the International Space Station. Launch of the ULA (United Launch Alliance) Atlas V rocket and Boeing Starliner spacecraft is targeted for 12:25 p.m. EDT Saturday, [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-updates-coverage-for-boeings-starliner-launch-docking/>
 
 ---
 
@@ -180,12 +827,13 @@ date: 2024-05-30, from: Dave Winer's Scripting News
 <li>Fire Garland immediately.</li>
 <li>Apologize for not firing him sooner. It was a mistake. My mistake. I own it. I am sorry.</li>
 <li>Nominate <a href="https://en.wikipedia.org/wiki/Jamie_Raskin">Jamie Raskin</a>, <a href="https://en.wikipedia.org/wiki/Liz_Cheney">Liz Cheney</a> or <a href="https://en.wikipedia.org/wiki/Ruben_Gallego">Ruben Gallego</a> as the new AG.   </li>
-<li>Biden's number one promise is that he will <i>fully</i> prosecute Trump and all insurrectionists in his second term, starting now. This would also serve as a warning to any Trump supporters that tried to pull any tricks before or during the election. </li>
+<li>Biden's number one promise is that he will <i>fully</i> prosecute Trump and all insurrectionists in his second term, starting now. This would also serve as a warning to any Trump supporters that tried to overthrow the government (again, sigh) before or during the election. </li>
 </ul>
 <p>Trump is making a fool of Biden by saying openly that he will be a dictator on Day 1.</p>
 <p>People who think Trump is losing don't get it. People are rightly fed up with Biden. But not for the economy. That's bullshit. And not because he's old. Rather because he's selling us out, just hoping against hope that the voters will save us. It's kind of unreasonable to expect that when you, the person we elected president to get us out of this hole, didn't fire the biggest obstacle to our starting to dig. </p>
-<p>Depend on Mueller, Congress, the press, the courts, now the voters. </p>
+<p>Depend on Congress, the press, the courts, now the voters. </p>
 <p>No Biden, you're the president. This is <i>your</i> job. </p>
+<p><img src="https://imgs.scripting.com/2019/10/29/lockHimUp.png"></p>
  
 
 <http://scripting.com/2024/05/30/134935.html?title=bidenWhyIsntTrumpInJail>
@@ -238,7 +886,7 @@ date: 2024-05-30, from: Alex Schroeder's Blog
 
 **@Dave Winer's Scripting News** (date: 2024-05-30, from: Dave Winer's Scripting News)
 
-The best humor is about other people being stupid, evil, clumsy or their misfortune. Watch a SNL skit. It's not about people being smart or brave, kind, generous or otherwise wonderful. That's another kind of entertainment. We find the misfortune of others funny. Especially famous, successful people. 
+The best humor is about other people being stupid, evil, clumsy or their misfortune. Watch a SNL skit. It's not about people being smart or brave, kind, generous or otherwise wonderful. That's another kind of entertainment. We find the misfortune of others funny. Especially famous, successful people. Why? I have no idea. 
 
 <http://scripting.com/2024/05/30.html#a125832>
 
@@ -341,6 +989,39 @@ date: 2024-05-30, from: Manu - I write blog
 <img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/13/commanderDataStarTrek.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Art much simpler than some people think. It's not like a batting average or a weather forecast. It's not something that can be measured objectively. Art is the response that it evokes in the observer. It's art when people say "that's not art." And when someone says only human professionals create art, if he really believes that, he has no freaking clue what art is. 
 
 <http://scripting.com/2024/05/29.html#a021757>
+
+---
+
+## pgAdmin 4 v8.7 Released
+
+date: 2024-05-30, from: PostgreSQL News
+
+<p>The pgAdmin Development Team is pleased to announce pgAdmin 4 version 8.7. This release of pgAdmin 4 includes 19 bug fixes and new features. For more details please see the <a href="https://www.pgadmin.org/docs/pgadmin4/8.7/release_notes_8_7.html">release notes</a>.</p>
+<p>pgAdmin is the leading Open Source graphical management tool for PostgreSQL. For more information, please see <a href="https://www.pgadmin.org/">the website</a>.</p>
+<p>Notable changes in this release include:</p>
+<h3>Features:</h3>
+<ul>
+<li>Added support for the 'Add to macros' feature and fixed various usability issues.</li>
+<li>Added support for executing the query at the cursor position in the query tool.</li>
+<li>Changes in Query Tool, Debugger, and ERD Tool shortcuts to remove the use of Accesskey which will allow them to be customized.</li>
+<li>Added support for viewing PGD Clusters.</li>
+<li>Enhance the Delete dialog by highlighting the names of the objects to be deleted in bold.</li>
+<li>Added support for platform Ubuntu 24.04 and Fedora 40.</li>
+</ul>
+<h3>Bugs/Housekeeping:</h3>
+<ul>
+<li>Upgrade react-table from v7 to v8.</li>
+<li>Ensure that Schema Diff does not indicate a table as different when the trigger names are the same but the trigger function body is different.</li>
+<li>Fixed an issue of the pgAdmin window size increasing each time it was reopened.</li>
+<li>Update the documentation for the preferences dialog and keyboard shortcuts.</li>
+<li>Fixed an issue where pgAdmin fails to start when Ubuntu OS is upgraded to a major version.</li>
+<li>Fixed incorrect highlighting for C-Style escape strings in SQL editor.</li>
+<li>Fixed an issue where the recover password button was enabled even when no email was provided.</li>
+<li>Fixed an issue where resetting the password from the password reset link was not working.</li>
+</ul>
+<p>Builds for Windows and macOS are available now, along with a Python Wheel, Docker Container, RPM, DEB Package, and source code tarball from the <a href="https://www.pgadmin.org/download/">tarball area</a>.</p> 
+
+<https://www.postgresql.org/about/news/pgadmin-4-v87-released-2867/>
 
 ---
 
@@ -1259,6 +1940,16 @@ date: 2024-05-29, updated: 2024-05-29, from: Anil Dash
 
 ---
 
+## 2024 Community Award Results
+
+date: 2024-05-29, from: The United States Research Software Engineer Association
+
+Announcing the winners of the 2024 US-RSE Community Awards! About the Awards: The US-RSE Community Awards are a new initiative, launched in 2024 to celebrate the outstanding achievements of individuals who have made a lasting impact on the Research Software Engineer community. These prestigious awards recognize excellence in two categories:... 
+
+<https://us-rse.org/2024-05-29-community-awards-results/>
+
+---
+
 ##  An Instagram account full of the amazing, slightly deranged, and (I&#8217;d assume)... 
 
 date: 2024-05-28, updated: 2024-05-28, from: Jason Kottke blog
@@ -1736,6 +2427,17 @@ date: 2024-05-28, from: NASA breaking news
 When you think about personal property, your home, clothes, and electronic devices probably come to mind. For NASA, personal property comprises government-owned government-held assets ranging from laptops to spacecraft and space station components. Managing the financial records for these assets is the responsibility of the Property Accounting Team, which includes Personal Property Accountant Britney Tang. [&#8230;] 
 
 <https://www.nasa.gov/centers-and-facilities/johnson/johnson-celebrates-aa-and-nhpi-heritage-month-britney-tang/>
+
+---
+
+## US-RSE May 2024 Newsletter
+
+date: 2024-05-28, from: The United States Research Software Engineer Association
+
+May 2024 - 
+          In this monthly newsletter, we share recent, current, and planned activities of the US-RSE Association, and related news that we think is of interest to US-RSE members. Newsletters are also available on our website alongside the growing resources and information on the US-RSE Association. To receive our newsletter, join US-RSE.... 
+
+<https://us-rse.org/2024-05-28-newsletter/>
 
 ---
 

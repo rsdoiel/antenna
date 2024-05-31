@@ -1,11 +1,111 @@
 ---
 title: games 2024.22
-updated: 2024-05-30 11:07:35
+updated: 2024-05-31 08:33:27
 ---
 
 # games 2024.22
 
-(date: 2024-05-30 11:07:35)
+(date: 2024-05-31 08:33:27)
+
+---
+
+## Fortnite Crew Pack and skin for June 2024
+
+date: 2024-05-31, updated: 2024-05-31, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin>
+
+---
+
+## The 31 best movies on Netflix right now
+
+date: 2024-05-31, updated: 2024-05-31, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/21266801/best-movies-on-netflix>
+
+---
+
+## The 25 must-read books of summer 2024
+
+date: 2024-05-31, updated: 2024-05-31, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/5/31/24158244/book-preview-summer-2024>
+
+---
+
+## Your first look at Critical Role’s Caduceus Clay in his new Dark Horse comic
+
+date: 2024-05-31, updated: 2024-05-31, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24167891/critical-role-caduceus-clay-dark-horse-comic-preview-pages>
+
+---
+
+## All the new video games launching in 2024
+
+date: 2024-05-30, updated: 2024-05-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gaming/23844302/video-game-release-dates-2024-new-upcoming>
+
+---
+
+## Now we know what Monster Hunter Wilds looks like in action
+
+date: 2024-05-30, updated: 2024-05-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24168014/monster-hunter-wilds-open-world-gameplay-trailer-state-of-play>
+
+---
+
+## Every big announcement from PlayStation’s new State of Play
+
+date: 2024-05-30, updated: 2024-05-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24167434/playstation-sony-state-of-play-ps5-showcase-announcements-trailers>
+
+---
+
+## Marvel Rivals is coming to PlayStation 5, Xbox Series X
+
+date: 2024-05-30, updated: 2024-05-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24168146/marvel-rivals-playstation-5-xbox-series-x-state-of-play-release-date>
+
+---
+
+## Anya Taylor-Joy walked off the Furiosa set with her favorite prop
+
+date: 2024-05-30, updated: 2024-05-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24162575/anya-taylor-joy-furiosa-souvenir-prop-prosthetic-arm-chris-hemsworth>
+
+---
+
+## Where to unlock all extra trials in FFXIV
+
+date: 2024-05-30, updated: 2024-05-30, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24167962/extra-trials-bonus-optional-where-to-unlock-quests-starting-locations>
 
 ---
 

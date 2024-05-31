@@ -1,11 +1,344 @@
 ---
 title: weather 2024.22
-updated: 2024-05-30 11:07:35
+updated: 2024-05-31 08:33:27
 ---
 
 # weather 2024.22
 
-(date: 2024-05-30 11:07:35)
+(date: 2024-05-31 08:33:27)
+
+---
+
+## SPC - No MDs are in effect as of Fri May 31 15:30:16 UTC 2024
+
+date: 2024-05-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Fri May 31 15:30:16 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-05-31, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Fri, 31 May 2024 15:28:41 GMT 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## SPC Severe Thunderstorm Watch 359 Status Reports
+
+date: 2024-05-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0359.html"><img src="https://www.spc.noaa.gov/products/watch/ww0359_radar.gif" border="1" alt="WW 0359 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 359
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 60 SSE LBX
+TO 10 W BPT.
+
+WW 359 WILL BE ALLOWED TO EXPIRE AT 311600Z.
+
+..DEAN..05/31/24
+
+ATTN...WFO...HGX...
+
+
+STATUS REPORT FOR WS 359 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+GMZ355-311600-
+
+CW 
+
+.    ADJACENT COASTAL WATERS INCLUDED ARE
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+REFER TO WATCH COUNTY NOTIFICATION STATEMENTS FOR OFFICIAL
+INFORMATION ON COUNTIES...INDEPENDENT CITIES AND MARINE ZONES
+CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0359.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0359.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 359
+
+date: 2024-05-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0359.html"><img src="https://www.spc.noaa.gov/products/watch/ww0359_radar.gif" border="1" alt="WW 0359 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Watch Number 359
+NWS Storm Prediction Center Norman OK
+350 AM CDT Fri May 31 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Severe Thunderstorm Watch for portions of 
+  Southeast Texas
+  Coastal Waters
+
+* Effective this Friday morning from 350 AM until 1100 AM CDT.
+
+* Primary threats include...
+  Scattered damaging winds and isolated significant gusts to 75
+    mph possible
+  Isolated large hail events to 1.5 inches in diameter possible
+  A tornado or two possible
+
+SUMMARY...A squall line with embedded bowing segments will likely
+persist through the morning as the storms move across Southeast
+Texas (including the College Station and Houston metro areas) to the
+upper Texas coast.  Damaging winds of 60-75 mph will be the main
+threat, though the strongest storms could produce isolated large
+hail of 1-1.5 inches in diameter.  An isolated tornado or two may
+also occur with circulations embedded in the line.
+
+The severe thunderstorm watch area is approximately along and 75
+statute miles north and south of a line from 35 miles west of
+College Station TX to 15 miles north northeast of Galveston TX. For
+a complete depiction of the watch see the associated watch outline
+update (WOUS64 KWNS WOU9).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Severe Thunderstorm Watch means conditions are
+favorable for severe thunderstorms in and close to the watch area.
+Persons in these areas should be on the lookout for threatening
+weather conditions and listen for later statements and possible
+warnings. Severe thunderstorms can and occasionally do produce
+tornadoes.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 358...
+
+AVIATION...A few severe thunderstorms with hail surface and aloft to
+1.5 inches. Extreme turbulence and surface wind gusts to 65 knots. A
+few cumulonimbi with maximum tops to 550. Mean storm motion vector
+31040.
+
+...Thompson
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0359.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0359.html>
+
+---
+
+## SPC May 31, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-05-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0748 AM CDT Fri May 31 2024
+
+Valid 311300Z - 011200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THROUGH THIS
+EVENING ACROSS THE CENTRAL/SOUTHERN HIGH PLAINS...FROM SOUTHWEST TX
+TO THE TX COAST...AND ACROSS THE ARK-LA-MISS...
+
+...SUMMARY...
+A few severe storms with large hail and damaging winds will be
+possible this afternoon/evening across the central/southern High
+Plains, from southwest Texas to the Texas coast, and across the
+Ark-La-Miss.
+
+...Central/southeast TX to the Ark-La-Miss through this evening...
+An MCS that formed overnight in central TX continues to move
+southeastward toward the upper and middle TX coastal plain, with
+some continuing threat for at least isolated damaging winds and some
+hail (mainly west end of the MCS).  Other convection has formed
+farther northwest atop the trailing cold pool, and these storms may
+also pose an isolated large hail threat.  Once the convection moves
+off the upper and middle TX coast later this morning, a large
+portion of TX to the north of the ongoing storms will have been
+stabilized by convective overturning.  Thus, have opted to remove
+some of the SLGT risk area across east TX.
+
+Farther east, lingering low-level moisture, pockets of surface
+heating later today, and the approach of remnant MCVs and a midlevel
+trough from the Red River Valley may support some uptick in storm
+coverage/intensity this afternoon from northern LA into southeastern
+AR.  Potentially moderate buoyancy (assuming sufficient surface
+heating) and modest vertical shear could support a few
+semi-organized clusters and/or weak supercells capable of producing
+isolated damaging winds/large hail, and perhaps a tornado or two.
+
+Farther west, there will be some potential for additional storm
+development this afternoon/evening along the outflow boundary
+trailing westward into the Edwards Plateau and Trans-Pecos.  Any
+storms that form in this corridor could become supercells capable of
+produce isolated large hail in an environment with steep midlevel
+lapse rates, moderate-strong buoyancy, and effective bulk shear in
+excess of 40 kt.
+
+...Central/southern High Plains through tonight...
+In the wake of overnight convection, clouds and weak northerly
+low-level flow are present across northeast CO.  A weak upslope
+regime will become established during the day, and cloud breaks will
+allow pockets of surface heating (stronger farther south toward
+southeast CO).  Potentially moderate buoyancy (MLCAPE of 1000-1500
+J/kg) and sufficiently long/straight hodographs will support
+supercells capable of producing large hail, while damaging winds
+will also be possible with any upscale growth into small clusters. 
+A couple of storm clusters could persist into the overnight hours
+into western KS and the TX Panhandle in response to a weak low-level
+jet and associated warm advection.
+
+..Thompson/Grams.. 05/31/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 358 Status Reports
+
+date: 2024-05-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0358.html"><img src="https://www.spc.noaa.gov/products/watch/ww0358_radar.gif" border="1" alt="WW 0358 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 358
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 60 E JCT TO
+25 W AUS TO 55 SE AUS.
+
+WW 358 WILL BE ALLOWED TO EXPIRE AT 311200Z.
+
+FOR ADDITIONAL INFORMATION SEE MESOSCALE DISCUSSION 1092.
+
+..GRAMS..05/31/24
+
+ATTN...WFO...EWX...FWD...SJT...
+
+
+STATUS REPORT FOR WS 358 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+TXC031-055-171-209-311200-
+
+TX 
+.    TEXAS COUNTIES INCLUDED ARE
+
+BLANCO               CALDWELL            GILLESPIE           
+HAYS                 
+
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+REFER TO WATCH COUNTY NOTIFICATION STATEMENTS FOR OFFICIAL
+INFORMATION ON COUNTIES...INDEPENDENT CITIES AND MARINE ZONES
+CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0358.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0358.html>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2024-05-31, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ABPZ20 KNHC 311125<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+500 AM PDT Fri May 31 2024<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+South of the Coast of Southern Mexico:<br/>
+A broad area of low pressure located a couple of hundred miles west <br/>
+of the coast of Central America is associated with a tropical wave <br/>
+and is producing disorganized showers and thunderstorms. Development <br/>
+of this system appears unlikely while it moves slowly westward well <br/>
+to the south of the coast of Mexico through the weekend and early <br/>
+next week.<br/>
+* Formation chance through 48 hours...low...10 percent.<br/>
+* Formation chance through 7 days...low...10 percent.<br/>
+<br/>
+$$<br/>
+Forecaster Bucci<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-05-31, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Fri May 31 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Berg<br>NNNN<br><br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2024-05-31, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0221 AM CDT Fri May 31 2024
+
+Valid 011200Z - 021200Z
+
+...Synopsis...
+Increasing west-southwesterly surface winds are expected Saturday
+across northern AZ and far northwestern NM, where fuels continue to
+become more receptive due to a lack of appreciable rainfall and
+persistent daily minimum RH in the low teens and single digits.
+Further east across FL, increasing easterly sustained winds around
+the base of a surface high pressure are expected to combine with RH
+of less than 35-40 percent, and ERC fuels exceeding the 85-95th
+percentile. However, meteorological fire spread conditions only
+warrant Elevated areas at this time.
+
+..Barnes.. 05/31/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -295,68 +628,6 @@ storms move east.
 
 ---
 
-## There are no tropical cyclones at this time.
-
-date: 2024-05-30, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Thu, 30 May 2024 17:34:42 GMT 
-
-<https://www.nhc.noaa.gov/gis/>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2024-05-30, from: Eastern Pacific Tropical Weather Outlook
-
- <br />
- 874 <br />
- ABPZ20 KNHC 301733<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 1100 AM PDT Thu May 30 2024<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- South of the Coast of Southern Mexico:<br />
- A broad area of low pressure, associated with a tropical wave, has <br />
- formed a couple of hundred miles west of the coast of Central <br />
- America and is producing disorganized showers and thunderstorms.  <br />
- Some slow development of this system is possible through the weekend <br />
- and early next week while it moves slowly westward well to the south <br />
- of the coast of Mexico.<br />
- * Formation chance through 48 hours...low...10 percent.<br />
- * Formation chance through 7 days...low...20 percent.<br />
- <br />
- $$<br />
- Forecaster Berg<br />
- <br />
-  
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-05-30, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Thu May 30 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Bucci<br>NNNN<br><br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
 ## SPC May 30, 2024 1630 UTC Day 1 Convective Outlook
 
 date: 2024-05-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -476,99 +747,6 @@ small to warrant an Elevated area.
  
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
-
----
-
-## SPC - No MDs are in effect as of Wed May 29 17:46:02 UTC 2024
-
-date: 2024-05-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Wed May 29 17:46:02 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC May 29, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-05-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0741 AM CDT Wed May 29 2024
-
-Valid 291300Z - 301200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON
-THROUGH LATE EVENING ACROSS THE NORTHERN/CENTRAL HIGH PLAINS AND IN
-SOUTHWEST TX...
-
-...SUMMARY...
-Scattered strong storms posing a risk for severe hail and wind
-appear likely across the northern and central High Plains late this
-afternoon and evening. Isolated large hail will also be possible in
-southwest Texas.
-
-...Northern/central High Plains this afternoon into tonight...
-A midlevel shortwave trough over the northern Rockies will continue
-eastward with associated lee troughing expected across the
-northern/central High Plains through the afternoon/evening.  A
-corridor of modest low-level moistening (boundary-layer dewpoints
-potentially into the 50s) will occur along and east of the lee
-trough, where afternoon surface temperatures will warm well into the
-80s beneath steep midlevel lapse rates and result in SBCAPE of
-1000-2000 J/kg with minimal convective inhibition.  Scattered
-high-based thunderstorms are expected to form by mid afternoon near
-the lee trough and spread eastward through late evening, with some
-potential for storms to be maintained into tonight in association
-with a strengthening low-level jet and warm advection.  Occasional
-severe outflow gusts of 60-70 mph and isolated large hail of 1-1.5
-inches in diameter will be the main threats with primarily multicell
-clusters and possibly some weak supercell structures given
-weak-modest deep-layer vertical shear (effective shear generally
-25-30 kt). 
-
-...Southern Plains today into tonight...
-Widespread convective overturning has occurred across TX in the past
-24 hours, with the remnants of a large MCS now weakening just off
-the lower TX coast.  Lingering low-level moisture and steep lapse
-rates across the Trans-Pecos (northwest of the MCS remnants) could
-support isolated thunderstorm development this afternoon near the
-Davis Mountains.  Here, MLCAPE in excess of 2000 J/kg and
-sufficiently long hodographs will favor splitting supercells capable
-of producing isolated large hail, potentially 2 inches in diameter
-or larger.  
-
-Otherwise, marginally severe storm development may occur near the
-upper TX coast later today with a remnant MCV on the edge of the
-richer low-level moisture.  The southern portion of the central High
-Plains convection may persist through tonight and grow into a
-loosely organized MCS from western KS southward into the TX
-Panhandle and western OK, where the storms will encounter gradually
-increasing low-level moisture in a warm advection regime.  A few
-strong gusts and isolated/marginally severe hail may occur with the
-strongest embedded storms. 
-
-...Central Appalachians/Mid-Atlantic this afternoon...
-A midlevel trough now over OH will progress eastward to the
-Mid-Atlantic coast by early tonight.  Low-level moisture will be
-relatively limited in advance of the midlevel trough and a weak
-surface reflection, but surface heating and steepening of low-level
-lapse rates will contribute to weak SBCAPE of 250-500 J/kg. 
-Scattered, low-topped thunderstorms will be possible this afternoon
-across PA/MD/VA and convection will spread to the coast this
-evening.  The steep low-level lapse rates will promote gusty outflow
-winds, but severe/damaging winds appear unlikely given marginal
-buoyancy and weak low-level flow to limit momentum transfer.
-
-..Thompson/Grams.. 05/29/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 

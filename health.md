@@ -1,11 +1,51 @@
 ---
 title: health 2024.22
-updated: 2024-05-30 11:07:35
+updated: 2024-05-31 08:33:27
 ---
 
 # health 2024.22
 
-(date: 2024-05-30 11:07:35)
+(date: 2024-05-31 08:33:27)
+
+---
+
+## Gut microbiota influence acute pancreatitis through inflammatory proteins: a Mendelian randomization analysis
+
+date: 2024-05-31, from: Frontiers in Cellular and Infection Microbiology
+
+Background/AimWe employed Mendelian randomization (MR) analysis to investigate the causal relationship between the gut microbiota, acute pancreatitis, and potential inflammatory proteins.MethodsThe data for gut microbiota, acute pancreatitis, and inflammatory proteins are sourced from public databases. We conducted a bidirectional MR analysis to explore the causal relationship between gut microbiota and acute pancreatitis, and employed a two-step MR analysis to identify potential mediating inflammatory proteins. IVW is the primary analysis method, heterogeneity, pleiotropy, and sensitivity analyses were also conducted simultaneously.ResultsWe identified five bacterial genera associated with the risk of acute pancreatitis, namely genus.Coprococcus3, genus.Eubacterium fissicatena group, genus.Erysipelotrichaceae UCG-003, genus.Fusicatenibacter, and genus.Ruminiclostridium6. Additionally, we have discovered three inflammatory proteins that are also associated with the occurrence of acute pancreatitis, namely interleukin-15 receptor subunit alpha (IL-15RA), monocyte chemoattractant protein-4 (CCL13), and tumor necrosis factor receptor superfamily member 9 (TNFRSF9). Following a two-step MR analysis, we ultimately identified IL-15RA as a potential intermediate factor, with a mediated effect of 0.018 (95% CI: 0.005 - 0.032).ConclusionOur results support the idea that genus.Coprococcus3 promotes the occurrence of acute pancreatitis through IL-15RA. Furthermore, there is a potential causal relationship between the gut microbiota, inflammatory proteins, and acute pancreatitis. These findings provide new insights for subsequent acute pancreatitis prevention. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1380998>
+
+---
+
+## Salivary biomarkers as pioneering indicators for diagnosis and severity stratification of pediatric long COVID
+
+date: 2024-05-31, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionLong COVID, or post-acute sequelae of SARS-CoV-2 infection (PASC), manifests as persistent and often debilitating symptoms enduring well beyond the initial COVID-19 infection. This disease is especially worrying in children since it can seriously alter their development. Presently, a specific diagnostic test or definitive biomarker set for confirming long COVID is lacking, relying instead on the protracted presence of symptoms post-acute infection.MethodsWe measured the levels of 13 biomarkers in 105 saliva samples (49 from children with long COVID and 56 controls), and the Pearson correlation coefficient was used to analyse the correlations between the levels of the different salivary biomarkers. Multivariate logistic regression analyses were performed to determine which of the 13 analysed salivary biomarkers were useful to discriminate between children with long COVID and controls, as well as between children with mild and severe long COVID symptoms.ResultsPediatric long COVID exhibited increased oxidant biomarkers and decreased antioxidant, immune response, and stress-related biomarkers. Correlation analyses unveiled distinct patterns between biomarkers in long COVID and controls. Notably, a multivariate logistic regression pinpointed TOS, ADA2, total proteins, and AOPP as pivotal variables, culminating in a remarkably accurate predictive model distinguishing long COVID from controls. Furthermore, total proteins and ADA1 were instrumental in discerning between mild and severe long COVID symptoms.DiscussionThis research sheds light on the potential clinical utility of salivary biomarkers in diagnosing and categorizing the severity of pediatric long COVID. It also lays the groundwork for future investigations aimed at unravelling the prognostic value of these biomarkers in predicting the trajectory of long COVID in affected individuals. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1396263>
+
+---
+
+## Weathering the storm: diagnosis and treatment of a life-threatening disseminated Nocardia otitidiscaviarum infection
+
+date: 2024-05-31, from: Frontiers in Cellular and Infection Microbiology
+
+Nocardiosis demonstrates a temporal categorization that includes acute, subacute, and chronic stages alongside distinct typical localizations such as pulmonary, cutaneous, and disseminated forms. Disseminated nocardiosis, commonly caused by Nocardia asteroides, N. brasiliensis, and N. farcinica, continues to result in substantial morbidity and mortality. Herein, we report a life-threatening disseminated nocardiosis caused by Nocardia otitidiscaviarum in a patient with minimal change disease. This study emphasizes the difficulty in the diagnosis and treatment of unknown infections in clinical settings and highlights the important role played by laboratories in solving infectious diseases caused by rare pathogens. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1397847>
+
+---
+
+## The role of CD4+ T cells in visceral leishmaniasis; new and emerging roles for NKG7 and TGFβ
+
+date: 2024-05-31, from: Frontiers in Cellular and Infection Microbiology
+
+Visceral leishmaniasis is a potentially devastating neglected tropical disease caused by the protozoan parasites Leishmania donovani and L. infantum (chagasi). These parasites reside in tissue macrophages and survive by deploying a number of mechanisms aimed at subverting the host immune response. CD4+ T cells play an important role in controlling Leishmania parasites by providing help in the form of pro-inflammatory cytokines to activate microbiocidal pathways in infected macrophages. However, because these cytokines can also cause tissue damage if over-produced, regulatory immune responses develop, and the balance between pro-inflammatory and regulatory CD4+ T cells responses determines the outcomes of infection. Past studies have identified important roles for pro-inflammatory cytokines such as IFNγ and TNF, as well as regulatory co-inhibitory receptors and the potent anti-inflammatory cytokine IL-10. More recently, other immunoregulatory molecules have been identified that play important roles in CD4+ T cell responses during VL. In this review, we will discuss recent findings about two of these molecules; the NK cell granule protein Nkg7 and the anti-inflammatory cytokine TGFβ, and describe how they impact CD4+ T cell functions and immune responses during visceral leishmaniasis. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1414493>
 
 ---
 

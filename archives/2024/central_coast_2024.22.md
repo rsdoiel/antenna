@@ -1,11 +1,137 @@
 ---
 title: central coast 2024.22
-updated: 2024-05-30 11:07:34
+updated: 2024-05-31 08:33:26
 ---
 
 # central coast 2024.22
 
-(date: 2024-05-30 11:07:34)
+(date: 2024-05-31 08:33:26)
+
+---
+
+## 2 People Hospitalized After Crash Involving Chumash Bus on Highway 154
+
+date: 2024-05-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Highway-154-Crash-2-sbcfd-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Two people were seriously injured late Thursday night in a collision in the Santa Ynez Valley involving a pickup and a bus from the Chumash Casino Resort." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Highway-154-Crash-2-sbcfd-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Highway-154-Crash-2-sbcfd-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Highway-154-Crash-2-sbcfd-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Highway-154-Crash-2-sbcfd-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Highway-154-Crash-2-sbcfd-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Highway-154-Crash-2-sbcfd-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Highway-154-Crash-2-sbcfd-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Highway-154-Crash-2-sbcfd-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Highway-154-Crash-2-sbcfd-2000.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Highway-154-Crash-2-sbcfd-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Two people were seriously injured late Thursday night in a collision in the Santa Ynez Valley involving a pickup and a bus from the Chumash Casino Resort. Firefighters and other [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/2-people-hospitalized-after-crash-involving-chumash-bus-on-highway-154/">2 People Hospitalized After Crash Involving Chumash Bus on Highway 154</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/2-people-hospitalized-after-crash-involving-chumash-bus-on-highway-154/>
+
+---
+
+## Feeding Frenzy
+
+date: 2024-05-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052624-POD-Bill-Hallier.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Hundreds of pelicans and shorebirds were feeding just off Santa Barbara’s Leadbetter Beach on May 25 after an unusual mass of dead fish turned up in the water and along the beach." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052624-POD-Bill-Hallier.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052624-POD-Bill-Hallier.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052624-POD-Bill-Hallier.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052624-POD-Bill-Hallier.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052624-POD-Bill-Hallier.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052624-POD-Bill-Hallier.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052624-POD-Bill-Hallier.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052624-POD-Bill-Hallier.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052624-POD-Bill-Hallier.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052624-POD-Bill-Hallier.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052624-POD-Bill-Hallier.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052624-POD-Bill-Hallier.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/052624-POD-Bill-Hallier.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/feeding-frenzy/">Feeding Frenzy</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/feeding-frenzy/>
+
+---
+
+## BizHawk: New Kin Doughnut Shop Proving to Be Worth the Wait — Up to 2 Hours
+
+date: 2024-05-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-BizHawk-Will-Chen-Tommy-Chang-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Kin&#039;s Will Chen, left, and Tommy Chang." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-BizHawk-Will-Chen-Tommy-Chang-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-BizHawk-Will-Chen-Tommy-Chang-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-BizHawk-Will-Chen-Tommy-Chang-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-BizHawk-Will-Chen-Tommy-Chang-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-BizHawk-Will-Chen-Tommy-Chang-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-BizHawk-Will-Chen-Tommy-Chang-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-BizHawk-Will-Chen-Tommy-Chang-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-BizHawk-Will-Chen-Tommy-Chang-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-BizHawk-Will-Chen-Tommy-Chang-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-BizHawk-Will-Chen-Tommy-Chang-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>From the same place where his father used to buy him shoes when he was a boy, Tommy Chang is now running a successful startup in town. What was once [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-new-kin-doughnut-shop-proving-to-be-worth-the-wait-up-to-2-hours/">BizHawk: New Kin Doughnut Shop Proving to Be Worth the Wait — Up to 2 Hours</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bizhawk-new-kin-doughnut-shop-proving-to-be-worth-the-wait-up-to-2-hours/>
+
+---
+
+## Ryann Neushul Named to U.S. Women’s Water Polo Team for Paris Olympics
+
+date: 2024-05-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="1009" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053924-Ryann-Neushul.jpg?fit=1024%2C1009&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053924-Ryann-Neushul.jpg?w=1992&amp;ssl=1 1992w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053924-Ryann-Neushul.jpg?resize=300%2C295&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053924-Ryann-Neushul.jpg?resize=1024%2C1009&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053924-Ryann-Neushul.jpg?resize=768%2C756&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053924-Ryann-Neushul.jpg?resize=1536%2C1513&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053924-Ryann-Neushul.jpg?resize=1200%2C1182&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053924-Ryann-Neushul.jpg?resize=1568%2C1544&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053924-Ryann-Neushul.jpg?resize=400%2C394&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053924-Ryann-Neushul.jpg?resize=706%2C695&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053924-Ryann-Neushul.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053924-Ryann-Neushul.jpg?fit=1024%2C1009&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES — The trifecta is complete for the Neushul family. Ryann, the youngest daughter of Peter and Cathy Neushul of Isla Vista, was selected as one of the 13 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ryann-neushul-named-to-u-s-womens-water-polo-team-for-paris-olympics/">Ryann Neushul Named to U.S. Women&#8217;s Water Polo Team for Paris Olympics</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ryann-neushul-named-to-u-s-womens-water-polo-team-for-paris-olympics/>
+
+---
+
+## Goleta Celebrates New Garden, Playground, Picnic Area in Old Town’s Armitos Park
+
+date: 2024-05-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/4292024-Community-Garden-DG-1-.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Armitos Park in Goleta." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/4292024-Community-Garden-DG-1-.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/4292024-Community-Garden-DG-1-.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/4292024-Community-Garden-DG-1-.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/4292024-Community-Garden-DG-1-.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/4292024-Community-Garden-DG-1-.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/4292024-Community-Garden-DG-1-.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/4292024-Community-Garden-DG-1-.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/4292024-Community-Garden-DG-1-.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/4292024-Community-Garden-DG-1-.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/4292024-Community-Garden-DG-1-.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>There’s something new in Old Town Goleta, and it comes with pizza. The city on Wednesday celebrated the new community garden, playground, community pizza oven in the picnic area, and [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-celebrates-new-garden-playground-picnic-area-in-old-towns-armitos-park/">Goleta Celebrates New Garden, Playground, Picnic Area in Old Town&#8217;s Armitos Park</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goleta-celebrates-new-garden-playground-picnic-area-in-old-towns-armitos-park/>
+
+---
+
+## Santa Barbara High’s Andreas Dybdahl Breaks School Mile Record at Hoka Festival of Miles
+
+date: 2024-05-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Andreas Dybdahl is going to need a bigger trophy case. The UCLA signee and Santa Barbara High senior just wrapped up his historic high school career with his second straight [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-highs-andreas-dybdahl-breaks-school-mile-record-at-hoka-festival-of-miles/">Santa Barbara High&#8217;s Andreas Dybdahl Breaks School Mile Record at Hoka Festival of Miles</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-highs-andreas-dybdahl-breaks-school-mile-record-at-hoka-festival-of-miles/>
+
+---
+
+## Captain’s Log: Shark, Sea Lion and Salmon — The Food Chain Went Wild
+
+date: 2024-05-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>We are not fishing for salmon this year off of California because the long drought made it hard for salmon to reproduce. Now that we’ve had a couple of years [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/captains-log-shark-sea-lion-and-salmon-food-chain-went-wild/">Captain’s Log: Shark, Sea Lion and Salmon — The Food Chain Went Wild</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/captains-log-shark-sea-lion-and-salmon-food-chain-went-wild/>
+
+---
+
+## League Champion Dos Pueblos Dominates Local All-Channel League Boys Lacrosse Honors
+
+date: 2024-05-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/All-CL-lacrosse.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/All-CL-lacrosse.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/All-CL-lacrosse.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/All-CL-lacrosse.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/All-CL-lacrosse.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/All-CL-lacrosse.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/All-CL-lacrosse.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/All-CL-lacrosse.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/All-CL-lacrosse.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/All-CL-lacrosse.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/All-CL-lacrosse.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>There is plenty of boys lacrosse talent to go around in the Santa Barbara area, and it was on full display for the 2024 spring season. That talent was awarded [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/league-champion-dos-pueblos-dominates-local-all-channel-league-boys-lacrosse-honors/">League Champion Dos Pueblos Dominates Local All-Channel League Boys Lacrosse Honors</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/league-champion-dos-pueblos-dominates-local-all-channel-league-boys-lacrosse-honors/>
+
+---
+
+## New Vegetation Fire in Cuyama Valley Blackens 6.7 Acres
+
+date: 2024-05-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Cuyama-Fire-2-sbcfd-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Firefighters in the Cuyama Valley remained busy on Thursday as they battled yet another new blaze while still working to surround a much larger fire nearby in northeastern Santa Barbara County." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Cuyama-Fire-2-sbcfd-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Cuyama-Fire-2-sbcfd-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Cuyama-Fire-2-sbcfd-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Cuyama-Fire-2-sbcfd-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Cuyama-Fire-2-sbcfd-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Cuyama-Fire-2-sbcfd-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Cuyama-Fire-2-sbcfd-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Cuyama-Fire-2-sbcfd-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Cuyama-Fire-2-sbcfd-2000.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/053024-Cuyama-Fire-2-sbcfd-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Firefighters in the Cuyama Valley remained busy on Thursday as they battled yet another new blaze while still working to surround a much larger fire nearby in northeastern Santa Barbara [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/new-vegetation-fire-in-cuyama-valley-blackens-6-7-acres/">New Vegetation Fire in Cuyama Valley Blackens 6.7 Acres</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/new-vegetation-fire-in-cuyama-valley-blackens-6-7-acres/>
+
+---
+
+## Local Shelters Participating in Statewide Adopt-a-Pet Day, June 1
+
+date: 2024-05-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara County Animal Services (SBCAS) will participate in the first California Adopt-a-Pet Day, organized by the California Animal Welfare Association (CalAnimals), and ASPCA (American Society for the Prevention of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/local-shelters-participating-in-statewide-adopt-a-pet-day-june-1/">Local Shelters Participating in Statewide Adopt-a-Pet Day, June 1</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/local-shelters-participating-in-statewide-adopt-a-pet-day-june-1/>
 
 ---
 

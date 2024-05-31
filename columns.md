@@ -1,11 +1,339 @@
 ---
 title: columns 2024.22
-updated: 2024-05-30 11:07:34
+updated: 2024-05-31 08:33:27
 ---
 
 # columns 2024.22
 
-(date: 2024-05-30 11:07:34)
+(date: 2024-05-31 08:33:27)
+
+---
+
+##  Fabric & Letterforms 
+
+date: 2024-05-31, updated: 2024-05-31, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/fabric-letterforms>
+
+---
+
+##  The JWST has imaged the most distant known galaxy, seeing it as... 
+
+date: 2024-05-31, updated: 2024-05-31, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044717-the-jwst-has-imaged-the>
+
+---
+
+## Can the Raspberry Pi 5 handle 4K?
+
+date: 2024-05-31, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Can the Raspberry Pi 5 handle 4K?</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/apple-tv-raspberry-pi-5-libreelec.jpeg" alt="Apple TV and Raspberry Pi 5 connected to LG OLED TV"></p>
+
+<p>In the past, I've booted <a href="https://libreelec.tv">LibreELEC</a> on the Raspberry Pi Compute Module 4 in my "<a href="https://www.jeffgeerling.com/blog/2022/tv-thats-not-necs-pi-powered-55-display">This is not a TV</a>" Sharp NEC display.</p>
+
+<p>According to <a href="https://libreelec.tv/2023/09/28/rpi5-support/">LibreELEC's Pi 5 blog post</a>, the new BCM2712 SoC decodes 4K and 1080p content just fine in H.264, and supports HEVC 4K60 hardware decoding.</p>
+
+<p>And they've tested AV1, VC1, and VP9 at 1080p with no issue, though 4K in non-native formats does encounter frame dropping.</p>
+
+<p>I wanted to put the Pi through some testing of my own, now that the Pi 5's been out for months, and LibreELEC version 12 is stable.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-05-31T08:59:25-05:00" title="Friday, May 31, 2024 - 08:59" class="datetime">May 31, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/can-raspberry-pi-5-handle-4k>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-31, from: Dave Winer's Scripting News)
+
+A <a href="https://imgs.scripting.com/2024/05/31/blogrollScreen.png">screen shot</a> that illustrates. If you're going to put your name in the title, put it in the first part. 
+
+<http://scripting.com/2024/05/31.html#a134229>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-31, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=w05CYrXe4p4">Them Changes</a>. 
+
+<http://scripting.com/2024/05/31.html#a133208>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-31, from: Dave Winer's Scripting News)
+
+Perhaps I should add a new element to the <a href="http://source.scripting.com/">source namespace</a>, the name of the author of a blog, if the feed is for a blog. Here's why I need it. I am building my blogroll. Every time I find an insightful story about using tech I use, these days esp AI, I add it to my blogroll so I get to see any new articles they write when they post. But if their blog has a catchy name, I'll never pick it out of the list as I scan for something new to read. I need the name of the author too. Basically a blogger should provide their name, but of course it's completely optional. I'll subscribe anyway, if the article is on-topic. I'm soaking this stuff up now, building my own personal firehose. 
+
+<http://scripting.com/2024/05/31.html#a130243>
+
+---
+
+## Tech is about people
+
+date: 2024-05-31, from: Dave Winer's Scripting News
+
+<p>Once again we're at the beginning of a huge tech-induced transformation, and yet again the people who already occupy a high rung of the ladder of success, or imagine they do, are pissing all over it, without using it.</p>
+<p>I remember <a href="https://en.wiktionary.org/wiki/kvell">kvelling</a> about Napster, about how the ability to program my own music had made it possible for me to explore my own life in new ways, because music is inexorably bound to memory. For me the big revelation came on <a href="http://scripting.com/2000/06/18.html">Father's Day in 2000</a> when I heard <a href="https://www.youtube.com/watch?v=P6zaCV4niKk">Father and Son</a> by Cat Stevens on the radio and desperately wanted to hear it again. </p>
+<p>I had tried Napster a few months earlier and found that it had none of my music. It was basically just a technology demo. I tried it again, and this time not only did it have the Cat Stevens song, but it had every song from my childhood that I hadn't heard since being a kid listening to WABC on the transistor radio my grandfather gave me for my birthday when I was five or six years old.</p>
+<p>I told this story at a Future of Music conference and was torn apart by the other people on stage, supposedly creative people, who cared not one bit about how people used the product they created, and the power of being able to program our own music. They were the bosses of music and my job was merely to give them money and admiration and stfu. They tried to get me off the stage (I was the moderator) but I stood my ground and of course never forgot.</p>
+<p>It happened again a few years later at the DNC in Boston, when the journalists mocked the bloggers because we had no experience as journalists, and they didn't like the way we dressed (they wrote articles about it, in the NYT even). 20+ years later they're still complaining, but they forget to blame us for their misery, now. Their misery is they forget the glory of their job, which is empowering us -- their users -- to change the world that so desperately needs changing. </p>
+<p>It's happening again with AI, which is opening up creative expression to people who can't draw, or aren't good writers, or people who want to be better programmers, or who knows -- this technology is the most powerful I've used in my long life in tech. </p>
+<p>The difference is -- you have to use something before your criticism makes any sense. That was the mistake the music industry made with Napster. What the journalists made regarding bloggers (we're they're sources, tried to say over and over but they don't listen they just like to talk and be admired and our job as usual is to give them money and stfu). </p>
+<p>My very good friend Doc Searls sees it the same way. He calls it <a href="https://doc.searls.com/2024/05/28/the-peoples-ai/">People's AI</a>. We're going to build this out the way we did it with blogging and podcasting a few years ago. It may be our last rodeo, we're getting on in years, but I'm so glad I lived to see this.</p>
+<p>(Sidebar: The people who run tech companies today have no idea how to build new technology markets, the categories they occupy were built by others, now gone. I finally figured that's our disconnect and why products lose important features when they are taken over by the inheritors, and why the leaders of Google et al have no idea where to put AI for users to build with it, or even that the users build the stuff they use in tech. Say what you want about Jack, Ev and Biz, but they understood this idea and they did let the users lead.)</p>
+<p>And btw, don't miss that it was twelve of us, twelve people, that finally said what the ladder-occupiers have failed to say for far too long about Trump -- he's a felon. We've known that, but when did Obama, Biden, Moscow Mitch or anyone else with a name or reputation to protect say the most obvious truth. They're all powerless and weak, and if we want to get out of this mess we're going to have to lead ourselves. Waiting for them, that didn't work. </p>
+<p>PS: Thanks to Twitter for increasing the character limit, so I can <a href="https://x.com/davewiner/status/1796516437281935415">write my blog posts</a> on my iPad before starting my day. Like this. ;-)</p>
+<p>PPS: BTW -- here's <a href="https://www.youtube.com/watch?v=P6zaCV4niKk">the song</a>. Somehow the music industry survived my ability to share this song with you and my future self.</p>
+<p>PPPS: I write these pieces with specific people in mind but I rarely say who they are because it embarrasses them. But I write <i>all</i> my pieces the my regular readers, who keep me going, almost 30 years (on Oct 10 this year). I hope they build great things with these ideas, and they let me help them do it. </p>
+<p>PPPPS: Doc tends to write brilliant pieces that perfectly describe these points in time. Let's travel back to 1997, as Steve Jobs is returning to Apple, when <a href="http://scripting.com/davenet/stories/DocSearlsonSteveJobs.html">Doc explained</a> that while he loves me, Steve loves no one but Steve. <span class="spOldSchoolEmoji">😄</span></p>
+<p>PPPPPS: The motto for the podcasting community as it was booting up in 2004 was "users and developers party together." That was the thing that Adam and I agreed on. Adam being the user, and I being the developer. Of course it was his trying to be a developer, and me trying to be a user that was the spark that created the boom. We both made it safe for amateurs to do what we do. That's why podcasting, unlike the music industry, never went to war with its users.  <span class="spOldSchoolEmoji">💥</span></p>
+ 
+
+<http://scripting.com/2024/05/31/123255.html?title=techIsAboutPeople>
+
+---
+
+## How AI Will Change Democracy
+
+date: 2024-05-31, updated: 2024-05-30, from: Bruce Schneier blog
+
+<p>I don&#8217;t think it&#8217;s an exaggeration to predict that artificial intelligence will affect every aspect of our society. Not by doing new things. But mostly by doing things that are already being done by humans, perfectly competently.</p>
+<p>Replacing humans with AIs isn&#8217;t necessarily interesting. But when an AI takes over a human task, the task changes.</p>
+<p>In particular, there are potential changes over four dimensions: Speed, scale, scope and sophistication. The problem with AIs trading stocks isn&#8217;t that they&#8217;re better than humans&#8212;it&#8217;s that they&#8217;re faster. But computers are better at chess and Go because they use more sophisticated strategies than humans. We&#8217;re worried about AI-controlled social media accounts because they operate on a superhuman scale...</p> 
+
+<https://www.schneier.com/blog/archives/2024/05/how-ai-will-change-democracy.html>
+
+---
+
+## Genesis
+
+date: 2024-05-31, from: Ayjay blog
+
+I was disappointed by Marilynne Robinson’s Reading Genesis, though that may have less to do with the quality of Robinson’s book than with my way of thinking about the Bible. Robinson proceeds by a kind of Lockean association of ideas: on one (typical) page a thought about Joseph and his brothers reminds her Adam and [&#8230;] 
+
+<https://blog.ayjay.org/genesis/>
+
+---
+
+## Debunking Myth #1: “Economics is an objective science that has nothing to do with politics or morality. Or power.”
+
+date: 2024-05-31, from: Robert Reich's blog
+
+Please click below for our overview video. You&#8217;ll find my fuller discussion just after. 
+
+<https://robertreich.substack.com/p/debunking-myth-1-economics-is-an>
+
+---
+
+## May 30, 2024 
+
+date: 2024-05-31, from: Heather Cox Richardson blog
+
+After slightly less than ten hours of deliberation, a jury today found former president Donald J. Trump guilty on all 34 counts of falsifying business records in order to unlawfully influence the 2016 election. For the first time in our history, a former president of the United States is a convicted felon. 
+
+<https://heathercoxrichardson.substack.com/p/may-30-2024>
+
+---
+
+## 10 Economic Myths Debunked, starting tomorrow! 
+
+date: 2024-05-31, from: Robert Reich's blog
+
+Right here. On this Substack. Please join me. 
+
+<https://robertreich.substack.com/p/10-economic-myths-debunked-starting>
+
+---
+
+## MNT Pocket Reform
+
+date: 2024-05-31, from: Jirka's blog
+
+I think this is my last "new"  computer for a long time. It arrived two days ago and  now is (mostly) ready  for use. The machine  is new (from the batch of the first 18  machines shipped to customers) and still are some software details what need to  be polished - suspend does not work in default setup (she suspend script refuses to work with the installed CPU  and I  didn't  dare to  try  suspend it  directly,  yet; the  NVME migration script does strange things). 
+
+<http://jirka.1-2-8.net/20240531-0442_MNT_Pocket_Reform>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-05-31, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/01/13/davesCoffee.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">On the day I wrote a <a href="http://scripting.com/2024/05/30/134935.html">piece</a> asking why Trump isn't in jail, the jury returns a <a href="https://www.yahoo.com/news/live/trump-verdict-live-updates-trump-found-guilty-of-34-counts-of-falsifying-business-records-becoming-the-first-us-president-to-be-convicted-of-criminal-charges-205128980.html">34 guilty verdicts</a> in his Manhattan trial. It's the people that get this stuff right. Juries are <a href="http://scripting.com/davenet/1996/03/01/juryduty.html">wonderful</a>. 
+
+<http://scripting.com/2024/05/30.html#a014120>
+
+---
+
+## Kino 1.0
+
+date: 2024-05-31, updated: 2024-05-31, from: Daring Fireball
+
+ 
+
+<https://www.lux.camera/introducing-kino-pro-video-camera/>
+
+---
+
+## Lorne Michaels on SNL ‘Best Cast’ Nostalgia
+
+date: 2024-05-31, updated: 2024-05-31, from: Daring Fireball
+
+ 
+
+<https://www.today.com/popculture/lorne-michaels-laughter-legacy-40-years-saturday-night-live-t2941#>
+
+---
+
+## Donald Trump is a Convicted Felon
+
+date: 2024-05-31, updated: 2024-05-31, from: Ron Garret
+
+The question of whether or not Republicans will nominate a convicted felon to be their candidate for President of the United States is no longer a hypothetical.&nbsp; Unless they can somehow persuade him to withdraw from the race (and good luck with that) they will have no choice.&nbsp; The primaries are over.&nbsp; The convention will just be a rubber stamp.&nbsp; And Trump's conviction will not 
+
+<https://blog.rongarret.info/2024/05/donald-trump-is-convicted-felon.html>
+
+---
+
+## Gurman: ‘iOS 18 Siri AI Update Will Let Users Control Features in Apps With Voice’
+
+date: 2024-05-31, updated: 2024-05-31, from: Daring Fireball
+
+ 
+
+<https://www.bloomberg.com/news/articles/2024-05-30/apple-ios-18-siri-ai-update-will-let-users-control-features-in-apps-with-voice>
+
+---
+
+## The Information: ‘OpenAI CEO Sam Altman Cements Control as He Secures Apple Deal’
+
+date: 2024-05-31, updated: 2024-05-31, from: Daring Fireball
+
+ 
+
+<https://www.theinformation.com/articles/openai-ceo-cements-control-as-he-secures-apple-deal?rc=jfy0lk>
+
+---
+
+## Trump Is Now a Convicted Felon
+
+date: 2024-05-31, from: Dan Rather's Steady
+
+The jury has spoken. What will the voters say? 
+
+<https://steady.substack.com/p/trump-is-now-a-convicted-felon>
+
+---
+
+## Friday 31 May, 2024
+
+date: 2024-05-30, from: John Naughton's online diary
+
+Up the garden path Quote of the Day ”Being short never bothered me for three seconds. The rest of the time I wanted to commit suicide. Mel Brooks Musical alternative to the morning’s radio news Michel Legrand &#124; &#8220;The Windmills &#8230; <a href="https://memex.naughtons.org/friday-31-may-2024/39502/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-31-may-2024/39502/>
+
+---
+
+## Convicted Felon Trump
+
+date: 2024-05-30, from: Robert Reich's blog
+
+Trump will find it difficult to attack 12 Americans who did their duty under the Constitution 
+
+<https://robertreich.substack.com/p/the-convicted-felon>
+
+---
+
+##  &#8220;Donald Trump has been found guilty of all 34 counts of falsifying... 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044715-donald-trump-has-been-fou>
+
+---
+
+## clichés, yes or no
+
+date: 2024-05-30, from: Ayjay blog
+
+Amanda Montell: Since the moment I learned about the concept of the “thought-terminating cliche” I’ve been seeing them everywhere I look: in televised political debates, in flouncily stencilled motivational posters, in the hashtag wisdom that clogs my social media feeds. Coined in 1961 by psychiatrist Robert Jay Lifton, the phrase describes a catchy platitude aimed [&#8230;] 
+
+<https://blog.ayjay.org/cliches-yes-or-no/>
+
+---
+
+## Testing object detection (yolo, mobilenet, etc.) with picamera2 on Pi 5
+
+date: 2024-05-30, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Testing object detection (yolo, mobilenet, etc.) with picamera2 on Pi 5</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Besides the Pi 5 being approximately 2.5x faster for general compute, the addition of other blocks of the Arm architecture in the Pi 5's upgrade to A76 cores promises to speed up other tasks, too.</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/jeff-geerling-object-detection-person-raspberry-pi-5.jpeg" alt="Jeff Geerling person object detection on Pi 5"></p>
+
+<p>On the Pi 4, popular image processing models for object detection, pose detection, etc. would top out at 2-5 fps using the built-in CPU. Accessories like the <a href="https://coral.ai">Google Coral TPU</a> speed things up considerably (and are eminently useful in builds like my <a href="https://www.jeffgeerling.com/blog/2024/building-pi-frigate-nvr-axzezs-interceptor-1u-case">Frigate NVR</a>), but a Coral adds on $60 to the cost of your Pi project.</p>
+
+<p>With the Pi 5, if I can double or triple inference speed—even at the expense of maxing out CPU usage—it could be worth it <em>for some things</em>.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-05-30T15:42:13-05:00" title="Thursday, May 30, 2024 - 15:42" class="datetime">May 30, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/testing-object-detection-yolo-mobilenet-etc-picamera2-on-pi-5>
+
+---
+
+##  The Green-Energy Revolution Shows What Real Innovation Looks Like. &#8220;Fossil fuel power... 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044714-the-green-energy-revoluti>
+
+---
+
+## Málaga, Spain
+
+date: 2024-05-30, from: mrusme blog
+
+"Málaga is a municipality of Spain, capital of the Province of Málaga, in the
+autonomous community of Andalusia. With a population of 578,460 in 2020, it is
+the second-most populous city in Andalusia and the sixth most populous in the
+country. It lies in Southern Iberia on the Costa del Sol of the Mediterranean,
+primarily in the left bank of the Guadalhorce. The urban core originally
+developed in the space between the Gibralfaro Hill and the Guadalmedina." 
+
+<https://xn--gckvb8fzb.com/travel/spain/malaga/>
+
+---
+
+##  The trailer for Wolfs, an action-comedy flick starring George Clooney and Brad... 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/0044708-the-trailer-for-wolfs-an>
+
+---
+
+##  The Talking Piano 
+
+date: 2024-05-30, updated: 2024-05-30, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/05/the-talking-piano>
 
 ---
 
@@ -269,12 +597,13 @@ date: 2024-05-30, from: Dave Winer's Scripting News
 <li>Fire Garland immediately.</li>
 <li>Apologize for not firing him sooner. It was a mistake. My mistake. I own it. I am sorry.</li>
 <li>Nominate <a href="https://en.wikipedia.org/wiki/Jamie_Raskin">Jamie Raskin</a>, <a href="https://en.wikipedia.org/wiki/Liz_Cheney">Liz Cheney</a> or <a href="https://en.wikipedia.org/wiki/Ruben_Gallego">Ruben Gallego</a> as the new AG.   </li>
-<li>Biden's number one promise is that he will <i>fully</i> prosecute Trump and all insurrectionists in his second term, starting now. This would also serve as a warning to any Trump supporters that tried to pull any tricks before or during the election. </li>
+<li>Biden's number one promise is that he will <i>fully</i> prosecute Trump and all insurrectionists in his second term, starting now. This would also serve as a warning to any Trump supporters that tried to overthrow the government (again, sigh) before or during the election. </li>
 </ul>
 <p>Trump is making a fool of Biden by saying openly that he will be a dictator on Day 1.</p>
 <p>People who think Trump is losing don't get it. People are rightly fed up with Biden. But not for the economy. That's bullshit. And not because he's old. Rather because he's selling us out, just hoping against hope that the voters will save us. It's kind of unreasonable to expect that when you, the person we elected president to get us out of this hole, didn't fire the biggest obstacle to our starting to dig. </p>
-<p>Depend on Mueller, Congress, the press, the courts, now the voters. </p>
+<p>Depend on Congress, the press, the courts, now the voters. </p>
 <p>No Biden, you're the president. This is <i>your</i> job. </p>
+<p><img src="https://imgs.scripting.com/2019/10/29/lockHimUp.png"></p>
  
 
 <http://scripting.com/2024/05/30/134935.html?title=bidenWhyIsntTrumpInJail>
@@ -327,7 +656,7 @@ date: 2024-05-30, from: Alex Schroeder's Blog
 
 **@Dave Winer's Scripting News** (date: 2024-05-30, from: Dave Winer's Scripting News)
 
-The best humor is about other people being stupid, evil, clumsy or their misfortune. Watch a SNL skit. It's not about people being smart or brave, kind, generous or otherwise wonderful. That's another kind of entertainment. We find the misfortune of others funny. Especially famous, successful people. 
+The best humor is about other people being stupid, evil, clumsy or their misfortune. Watch a SNL skit. It's not about people being smart or brave, kind, generous or otherwise wonderful. That's another kind of entertainment. We find the misfortune of others funny. Especially famous, successful people. Why? I have no idea. 
 
 <http://scripting.com/2024/05/30.html#a125832>
 

@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.22
-updated: 2024-05-30 11:07:35
+updated: 2024-05-31 08:33:27
 ---
 
 # retro computing 2024.22
 
-(date: 2024-05-30 11:07:35)
+(date: 2024-05-31 08:33:27)
+
+---
+
+## WROCC June 2024 meeting on wednesday - Mark Moxon on Lander
+
+date: 2024-05-31, from: Icon Bar, RISC OS News
+
+The June 2024 WROCC meeting features Mark Moxon looking at Lander. 
+
+<http://www.iconbar.com/comments/rss/news2070.html>
 
 ---
 
