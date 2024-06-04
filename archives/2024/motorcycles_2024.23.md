@@ -1,11 +1,131 @@
 ---
 title: motorcycles 2024.23
-updated: 2024-06-03 08:51:08
+updated: 2024-06-04 08:11:52
 ---
 
 # motorcycles 2024.23
 
-(date: 2024-06-03 08:51:08)
+(date: 2024-06-04 08:11:52)
+
+---
+
+## Does X Mark The Spot? Kawasaki Updates KX250, KX250X, and KLX230R For 2025
+
+date: 2024-06-04, from: Ride Apart, Electric Motorcycle News
+
+Whether you're into MX, cross-country racing, or just hitting the trails, Team Green wants to have you smiling in the dirt in 2025. 
+
+<https://www.rideapart.com/news/721966/kawasaki-kx250x-kx250-klx230r-2025/>
+
+---
+
+## Honda's Adorable Grom Gets a Much-Deserved Facelift
+
+date: 2024-06-04, from: Ride Apart, Electric Motorcycle News
+
+It's the fourth-gen version of the tiny but mighty 125cc pocket rocket,. Will the new look mean new fans? 
+
+<https://www.rideapart.com/news/721953/2025-honda-grom-comes-america/>
+
+---
+
+## Scooter Thief Makes Off With $3 Million Worth of Jewelry
+
+date: 2024-06-04, from: Ride Apart, Electric Motorcycle News
+
+Scoot, scoot with the loot, loot! 
+
+<https://www.rideapart.com/news/721940/monaco-scooter-heist-robber/>
+
+---
+
+## Buy This $10,000 Watch to Match Your Limited Edition $30,000 Triumph
+
+date: 2024-06-04, from: Ride Apart, Electric Motorcycle News
+
+If you don't have a limited edition Breitling to go with your limited edition Speed Triple, is there even a point? 
+
+<https://www.rideapart.com/news/721961/speed-triple-breitling-collaboration/>
+
+---
+
+## Check Out This Chinese BMW F 900 GS Knockoff
+
+date: 2024-06-04, from: Ride Apart, Electric Motorcycle News
+
+Loncin and BMW have been working together for years, and the Voge DS900X clearly makes use of BMW-derived tech.  
+
+<https://www.rideapart.com/news/721824/voge-ds900x-bmw-f900gs-platform/>
+
+---
+
+## Kawasaki Announces All-New Elektrode 20 and Elektrode 20FS for Kids
+
+date: 2024-06-04, from: Ride Apart, Electric Motorcycle News
+
+Kawasaki's new range has your kid covered when it's time to step up. 
+
+<https://www.rideapart.com/news/721754/2025-kawasaki-elektrode-20/>
+
+---
+
+## Honda CB1000 Hornet Nears Production
+
+date: 2024-06-03, from: Cycle World News
+
+We’ve known since last fall’s EICMA show that Honda has plans to bring the CB1000 Hornet to market, but new details show that the bike is nearing completion. 
+
+<https://www.cycleworld.com/motorcycle-news/honda-cb1000-hornet-nears-production/>
+
+---
+
+## Gallery Test 2
+
+date: 2024-06-03, from: Cycle World News
+
+This is the second test for a gallery 
+
+<https://www.cycleworld.com/gallery/gallery-test-2/>
+
+---
+
+## Hamlin stays red-hot with Gateway runner-up, keeps top-five streak alive
+
+date: 2024-06-03, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer MADISON, Ill. – It’s become almost tradition for 20-year NASCAR Cup Series veteran Denny Hamlin to call his shot as the favorite for his first&#8230;  
+
+<https://kickinthetires.net/nascar/hamlin-stays-red-hot-with-gateway-runner-up-keeps-top-five-streak-alive/>
+
+---
+
+## Aprilia Tuareg Racing is Unstoppable at the Hellas Rally Raid
+
+date: 2024-06-03, from: Cycle World News
+
+In the mountains of central Greece, Jacopo Cerutti and Francesco Montanari, in the saddle of the Aprilia Tuareg 660 pulled a great performance out of the bag in the Hellas Rally Raid. 
+
+<https://www.cycleworld.com/the-wire/aprilia-tuareg-racing-unstoppable-at-hellas-rally-raid/>
+
+---
+
+## Welcome Jorge
+
+date: 2024-06-03, from: Cycle World News
+
+It could only be Jorge Martín the ideal rider to ensure continuity after the announcement of Aleix Espargaró's retirement, who has always been Martín's friend and mentor. 
+
+<https://www.cycleworld.com/the-wire/welcome-jorge-martin/>
+
+---
+
+## 2024 ARCA West at Portland: Team Reactions, Analysis
+
+date: 2024-06-03, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires The first of two road races of the season was held in Portland, Oregon at the Portland International Raceway. It was William&#8230;  
+
+<https://kickinthetires.net/nascar/24-arca-west-portland-reactions-analysis/>
 
 ---
 

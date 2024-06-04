@@ -1,17 +1,381 @@
 ---
 title: columns 2024.23
-updated: 2024-06-03 08:51:07
+updated: 2024-06-04 08:11:52
 ---
 
 # columns 2024.23
 
-(date: 2024-06-03 08:51:07)
+(date: 2024-06-04 08:11:52)
+
+---
+
+##  Bubble Wrap Impressionist Paintings 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/bubble-wrap-impressionist-paintings>
+
+---
+
+##  It&#8217;s interesting (but unsurprising) to see the no-kneeling-during-the-nation-anthem, anti-flag-burning &#8220;patriots&#8221; flying Confederate... 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044746-its-interesting-but-unsur>
+
+---
+
+##  TIL that the theme song for PBS&#8217;s The Star Hustler (starring Jack... 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044734-til-that-the-theme-song>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-04, from: Dave Winer's Scripting News)
+
+The test for whether it's a podcast or not is if they say you can get it "Wherever you get your podcasts." If they can say that, it's a podcast. If you have to get it from Apple or YouTube or whoever, it's not a podcast. That's the rule. 
+
+<http://scripting.com/2024/06/04.html#a120730>
+
+---
+
+## On-demand hallucination
+
+date: 2024-06-04, from: Dave Winer's Scripting News
+
+<p>I asked ChatGPT to draw a picture of an interviewer hallucinating during a news show with several distinguished panelists discussing an important issue.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/04/ondemandhallucination.png"></center>You don't have to trick ChatGPT into hallucinating. Just ask it to. <span class="spOldSchoolEmoji">😄</span></div></p>
+ 
+
+<http://scripting.com/2024/06/04/120356.html?title=ondemandHallucination>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-04, from: Dave Winer's Scripting News)
+
+In other words the designers of CSS and JavaScript and probably every other technology everyone uses had no idea what actual developers were doing with their committee-designed creation. They made mistakes and piled them on each other, fixing old mistakes with new mistakes. After 30 years of evolving in this convoluted way, if you want to create useful software, you have to either master all of it (and no one has) or pay $20 a month to OpenAI so you can use it to navigate the awful hairball that the web platform has become. Where we only have a sliver of knowledge as humans, <i>the machine knows all of it.</i> And that's just programming. I'm just guessing that everything is that way. You know the <a href="https://chatgpt.com/share/6c5a6426-62f9-48c1-9995-b4ae6f808907">part</a> in The Matrix Reloaded where we're told <a href="https://youtu.be/Ny_mr3QX9Q8?si=7GMMS7dBvZW5cOag&t=165">no one knows</a> how the technology works. That's where we are now. Spend your whole life using the stuff and you still only know a tiny fraction of what you need to make good software. We needed what ChatGPT does, but we didn't know we needed it. That's where we are now, and the journos are sitting on the sidelines hurling <a href="https://www.wikihow.com/Make-Spitballs">spitballs</a> at it. 
+
+<http://scripting.com/2024/06/04.html#a114721>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-04, from: Dave Winer's Scripting News)
+
+What got me spinning was listening to Rachel Maddow advertise her podcast at the beginning of her show last night. You can get the podcast for free, she says, or if you want no ads, you can pay some money and get it from Apple. What Apple is selling there, and Maddow is going along with, is not a freaking podcast and by calling it one they undermine a great medium. I understand why Maddow might not care, she makes millions from a medium that doesn't give users much choice (ie MSNBC) so why should she care about podcasting, which does. 
+
+<http://scripting.com/2024/06/04.html#a113715>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-04, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/01/runner.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If podcasting had a marketing team behind it, we'd run a campaign that says "It's not podcasting if you don't have choice." If you have to use Apple, Audible, Spotify or Google to listen to something that's nice, hope it's good for you but folks that is not a podcast. Podcasts give you the listener all the power. If you give it up it'll all be Disneyfied before too long. It pisses me off that Amazon Music sends me messages about all the new "podcasts" they have. I mutter under my breath when I hear this, some expletive I'd rather not repeat here. Amazon, the users know that podcasting == user choice, and they hate you just a little every time you lie about it. Find another term you like and use that. You have the money to do the market testing. Come on, just once play fair. You'll be surprised how good it feels, and I wouldn't be surprised if the users reward you for it. 
+
+<http://scripting.com/2024/06/04.html#a113149>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-04, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/01/26/cartoonChicken.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It’s too bad when I post something <a href="https://www.facebook.com/dave.winer.12/posts/pfbid032amw64trW4jswCVsfwhgbfgcniSyx1styAwrKifZGZd4urQhHNaqG5zyVznnntD3l">positive</a> about ChatGPT, which I do because journalists are dumping on it based on not using it but asking it <a href="https://en.wikipedia.org/wiki/Gotcha_journalism">gotcha questions</a>, which seems to be all they know how to do, the trolls show up, asking if we’ve read this or that journalism article. On <a href="https://www.facebook.com/dave.winer.12/posts/pfbid032amw64trW4jswCVsfwhgbfgcniSyx1styAwrKifZGZd4urQhHNaqG5zyVznnntD3l?comment_id=1492038041740096">Facebook</a>, I delete the comments and change the permissions to only allow friends to comment. <i>The journalists are wrong about ChatGPT.</i> I solve problems with it. It guides me through difficult programming situations, esp around convoluted designs like CSS and JavaScript. It knows all of it. The only times it hallucinates (and I know it's doing it btw, I'm not stupid) is when there is not enough info on the web to give an answer. It would be nice if it just said "I don't know" but it's early, and they haven't figured out how to do that yet. The journalists have no sense of wonder I guess, or they never thought to use it in their jobs. I can't wait for the first aha! from a journalist -- who will say this: "Aha! Now I see what this is for and it's freaking lovely." But they've decided it sucks and that's that. Too bad, we're going on without them. And thanks to the good moderation tools we can keep the turd-droppers from totally screwing it up. 
+
+<http://scripting.com/2024/06/04.html#a112534>
+
+---
+
+## Breaking a Password Manager
+
+date: 2024-06-04, updated: 2024-05-31, from: Bruce Schneier blog
+
+<p>Interesting <a href="https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/">story</a> of breaking the security of the RoboForm password manager in order to recover a cryptocurrency wallet password.</p>
+<blockquote><p>Grand and Bruno spent months reverse engineering the version of the RoboForm program that they thought Michael had used in 2013 and found that the pseudo-random number generator used to generate passwords in that version­and subsequent versions until 2015­did indeed have a significant flaw that made the random number generator not so random. The RoboForm program unwisely tied the random passwords it generated to the date and time on the user’s computer­it determined the computer’s date and time, and then generated passwords that were predictable. If you knew the date and time and other parameters, you could compute any password that would have been generated on a certain date and time in the past...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/06/breaking-a-password-manager.html>
+
+---
+
+## The public option
+
+date: 2024-06-04, from: Enlightenment Economics blog
+
+I&#8217;m on my way to a workshop at The New Institute in Hamburg, where I will talk about the scope for a public option in (especially) digital markets. As preparation, I&#8217;ve read a recent short (and moderately technical) book surveying &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2024/06/the-public-option/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2024/06/the-public-option/>
+
+---
+
+## The Party of Huge Nothingburgers 
+
+date: 2024-06-04, from: Robert Reich's blog
+
+At a time when America faces existential crises, Trump Republicans are busily manufacturing non-crises 
+
+<https://robertreich.substack.com/p/the-party-of-nothingburger-issues>
+
+---
+
+## 2024-05-23 Death and dying
+
+date: 2024-06-04, from: Alex Schroeder's Blog
+
+<h1 id="2024-05-23-death-and-dying">2024-05-23 Death and dying</h1>
+
+<p>This is the first time somebody is dying in my close family where I am old enough to be an adult about it.</p>
+
+<p>One of my sisters died when I was about twenty. I was living in Switzerland with my dad, and it was terrible to hear my mom crying at the phone, practically unable to tell me what had happened, to then see my father confused, shocked. I booked a flight for him but didn&rsquo;t go myself. My mom was living in Portugal with my two sisters. I wasn&rsquo;t there for my sister&rsquo;s burial. People had to be buried within 48 hours, back then. I don&rsquo;t know how things are now. There was school and stuff and I had not lived with my sisters for a few years. I didn&rsquo;t feel very close. It just felt weird. I didn&rsquo;t know what it was supposed to mean.</p>
+
+<p>Now, thirty years later, my stepfather is dying. His kidneys are failing, his liver is failing, his lungs are filling up with water, his heart is failing; they can&rsquo;t give him his heart medication because the kidneys are at their limits, can&rsquo;t have him move around because he&rsquo;s weak, and so he&rsquo;s breaking down. I mean, he&rsquo;s calm, he knows what&rsquo;s happening, and he&rsquo;s very, very tired. He&rsquo;s ready to go.</p>
+
+<p>I think that in my heart, I know that this is how it works. We have to go one day. I don&rsquo;t want to spend the last hours hooked up to machines. I&rsquo;ll be very, very tired. I&rsquo;ll just want to go home. I also won&rsquo;t want anybody around me to be sad. Hopefully, I&rsquo;ll feel that I lived a good life, that I had a good time, that the people I spend my time with were decent people, worthy of the short time I was given. I hope that I will be able to let go and be at peace. It&rsquo;s what I hear about my stepfather.</p>
+
+<p>But when I sit in that family video call, with siblings in Portugal and Germany and my mother, and one after another people start crying, choking up, it&rsquo;s hard. It&rsquo;s that invisible choker, grabbing us, one after another.</p>
+
+<p>I need to remember the good times, the conversations we had, the laughter we shared. I need to book a flight and see the rest of our family. All that independence and all that living abroad is coming back to haunt us, now.</p>
+
+<p>To go and support each other.</p>
+
+<p>Go and hug your loved ones.</p>
+
+<p><a class="tag" href="/search/?q=%23Family">#Family</a></p>
+
+<p><strong>2024-05-27</strong>. I arrived today. He didn’t look good at all. In fact, he seemed to be barely holding on to life. Sleeping, mostly. Occasionally, gasping for air, staring, maybe recognizing us, saying a word or two. It was heartbreaking. He died the same day. The doctor and the nurse came, two very friendly people. Removed the tubes, stopped the Morphium machine, made his death official.</p>
+
+<p>There were so many tears. A step brother, a half-brother, a half-sister, my sister, my half-brother’s wife, their kid, my mom… the kid was the only one that seemed unperturbed. “Don’t be sad, grandma!”</p>
+
+<p>Later the funerary services came to pick up the body. Again, both of them super nice. We’ll see how things go, tomorrow. My mother is not feeling well. I seem to be doing OK. I can be strong when it’s not my partner that has died.</p>
+
+<p>I’m happy we were all there for him, singing songs, bringing him his birthday cake (he died on his 78th birthday). I’m happy we were all there for each other.</p>
+
+<p><strong>2024-05-28</strong>. Cremation today. The sun is out. People on the radio.</p>
+
+<p><strong>2024-05-30</strong>. On the way home. It was good to see the family again. I gave a little speech in Portuguese, explaining how the language continues to remain important to us, even if we live a abroad, and how hard it was for a family where people live in different countries, alone – but also how our parents divorcing and marrying had led to an ever growing family. There are more parents, more siblings, and I love it and it helps. We can all help each other. And my deceased stepfather was certainly an enrichment for our family, bringing anarchy and lawlessness and laughter into a family that was rigid and regimented and dour, and how we all grew with that and how it was important to remember the good times we had and the lessons we all drew from his presence. Truly, a great influence for all of us.</p>
+
+<p>I still remember how I met him years before my mother met him. He lived across the river alone with his son, wild and free and I was so jealous. I wished to live like that! And then my parents divorced, my dad went back to Switzerland and a year later I followed him and got to live wild and free like them, it was amazing. And one day I came back and there were rumours that our mother had found a boyfriend. Imagine my surprise when it was him, the wild and free guitar playing dude from across the river! And eventually my friend from school turned into my stepbrother, moved in with my mom, lived in my room. It was mysterious and magical and then to see him and his father struggle with my mom, the changes they brought about, it was a miracle.</p>
+
+<p>So, my man, wherever you are, here&rsquo;s to you and your last trip, to your guitars and flutes, your love of music and freedom, your spirit of independence and love of people and aliens. Cheers! I hope to see you again.</p> 
+
+<https://alexschroeder.ch/view/2024-05-23-death>
+
+---
+
+## June 3, 2024 
+
+date: 2024-06-04, from: Heather Cox Richardson blog
+
+The fallout from the New York jury&#8217;s conviction of Donald Trump on 34 felony counts last Thursday, May 30, continues. Trump&#8217;s team continues to insist that the guilty verdict will help him, but that&#8217;s nonsensical on its face: if guilty verdicts are so helpful, why has he moved heaven and earth to keep the many other cases against him from going to trial? And why are he and House speaker Mike Johnson (R-LA) calling for the Supreme Court to overturn the convictions? 
+
+<https://heathercoxrichardson.substack.com/p/june-3-2024>
+
+---
+
+## Testing Raspberry Pi's AI Kit - 13 TOPS for $70
+
+date: 2024-06-04, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Testing Raspberry Pi's AI Kit - 13 TOPS for $70</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Raspberry Pi today launched the <a href="https://www.raspberrypi.com/news/raspberry-pi-ai-kit-available-now-at-70/">AI Kit</a>, a $70 addon which straps a Hailo-8L on top of a Raspberry Pi 5, using the recently-launched M.2 HAT (the Hailo-8L is of the M.2 M-key variety, and comes preinstalled).</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/pi-ai-kit.jpeg" alt="Raspberry Pi AI Kit"></p>
+
+<p>The Hailo-8L's claim to fame is 3-4 TOPS/W efficiency, which, along with the Pi's 3-4W idle power consumption, puts it alongside Nvidia's edge devices like the Jetson Orin in terms of TOPS/$ and TOPS/W for price and efficiency.</p>
+
+<p>Google's <a href="https://coral.ai">Coral TPU</a> has been a popular choice for a machine learning/AI accelerator for the Pi for years now, but Google seems to have left the project on life support, after the Coral hardware was scalped for a couple years about as badly as the Raspberry Pi itself!</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-06-04T02:06:56-05:00" title="Tuesday, June 4, 2024 - 02:06" class="datetime">June 4, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/testing-raspberry-pis-ai-kit-13-tops-70>
+
+---
+
+## Tickets for The Talk Show Live From WWDC 2024
+
+date: 2024-06-04, updated: 2024-06-04, from: Daring Fireball
+
+ 
+
+<https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2024>
+
+---
+
+## Instagram Is Testing ‘Unskippable’ Video Ads
+
+date: 2024-06-04, updated: 2024-06-04, from: Daring Fireball
+
+ 
+
+<https://techcrunch.com/2024/06/03/instagram-confirms-test-of-unskippable-ads/>
+
+---
+
+##  Should Employees Be Paid? Why People Think It&#8217;s Time. &#8220;Others feel the... 
+
+date: 2024-06-03, updated: 2024-06-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044738-should-employees-be-paid->
+
+---
+
+## Witnessing the death of the web as a news medium
+
+date: 2024-06-03, from: Chris Heilmann's blog
+
+As some of you may know, I started out as a radio journalist. And when I discovered the web in around 1996, I knew that, to me, radio and TV were not the dominant news media any longer. Nowhere but on the web was it possible to research and cross-reference from dozens or resources with [&#8230;] 
+
+<https://christianheilmann.com/2024/06/03/witnessing-the-death-of-the-web-as-a-news-medium/>
+
+---
+
+## Is this is the future of “blogging?”
+
+date: 2024-06-03, from: Om Malik blog
+
+Fable Studio, a San Francisco-based startup that gained&#160;fame for demonstrating the ability&#160;to create an episode of South Park with a&#160;brief&#160;prompt, is&#160;making headlines&#160;again.&#160;The company is&#160;launching&#160;Showrunner, a streaming&#160;platform that will&#160;enable&#160;users to create their own&#160;AI-prompted&#160;episodes of various shows.&#160; “The vision is to be the Netflix of AI,” says chief executive Edward Saatchi. “Maybe you finish all of the &#8230; 
+
+<https://om.co/2024/06/03/why-i-want-my-ai-tv/>
+
+---
+
+##  Our Unpleasant Privatized Reality 
+
+date: 2024-06-03, updated: 2024-06-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/our-unpleasant-privatized-reality>
+
+---
+
+## [Sponsor] Kolide: ‘Are You Worse at Security Than the TSA?’
+
+date: 2024-06-03, updated: 2024-06-03, from: Daring Fireball
+
+ 
+
+<https://l.kolide.co/43vcTaN>
+
+---
+
+##  &#8220;It&#8217;s not your imagination: a disproportionate number of women really do play... 
+
+date: 2024-06-03, updated: 2024-06-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044729-its-not-your-imagination->
+
+---
+
+##  There&#8217;s now a Bechdel Test for climate change in movies. &#8220;The Climate... 
+
+date: 2024-06-03, updated: 2024-06-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044727-theres-now-a-bechdel-test>
+
+---
+
+##  Announcing the Tiny Awards 2024, a competition to find and celebrate the... 
+
+date: 2024-06-03, updated: 2024-06-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044731-announcing-the-tiny-award>
+
+---
+
+## Dr Pepper Ties Pepsi as America’s No. 2 Soda
+
+date: 2024-06-03, updated: 2024-06-03, from: Daring Fireball
+
+ 
+
+<https://www.wsj.com/business/dr-pepper-soda-sales-92b292c3?st=jjmwtcde0tita41&reflink=desktopwebshare_permalink>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2024-06-03, from: Dave Winer's Scripting News)
 
-One of the flaws in the design of Teslas is they are really difficult to operate safely for people who are farsighted, such as myself. A lot of the status messages are too small for me to read without reading glasses, and in the time it takes to put them on the message is gone. Esp frustrating for the messages that tell you to do this or that to keep using FSD. And when I'm flipping the glasses down, my eyes are not on the road Mr or Ms Tesla. This is a design problem. Maybe you should use voice prompts for this kind of stuff. Or use a camera to see if my hands are on the wheel. 
+If you make a podcast client, I'd like to have an <a href="https://opml.org/spec2.opml#subscriptionLists">OPML list</a> of all the feeds I'm subscribed to in my client so I can follow it in my feed reader. I'd really like it to go the other way, actually, so I could maintain the list on my desktop computer, and have it automatically reflected in the mobile podcast client. It's very important that it use OPML, that's the standard for this stuff. I couldn't possibly get excited by another format. Podcasting thrives on these standards. The client I use is <a href="https://pocketcasts.com/">Pocket Casts</a> which is part of Automattic. BTW, you can <a href="https://editsubscriptionlists.opml.org/">use Drummer to edit</a> a subscription list. Its native format is OPML. 
+
+<http://scripting.com/2024/06/03.html#a180154>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-03, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/03/wewon.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's been almost nine years since I did the <a href="http://scripting.com/2015/09/30/aPodcastAboutPodcasting.html">podcast about podcasting</a>. Today I was asked how I feel about podcasting now. Here's what I said. It's still working -- people expect to have choice in where they listen to their podcasts, and as long as that's true they will imho continue to have choice. But even if Google took it over tomorrow, I'd be happy with the outcome. It's been over 20 years since we rolled it out, and it's still delivering huge value to lots of people, and isn't controlled by anyone, as far as I can tell there are no gatekeepers. If only we had been able to keep blogging free of that kind of control, but I have hope there too. 
+
+<http://scripting.com/2024/06/03.html#a175249>
+
+---
+
+##  Brats, a Documentary Film About the 80s Hollywood Brat Pack 
+
+date: 2024-06-03, updated: 2024-06-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/brats-a-documentary-film-about-the-80s-hollywood-brat-pack>
+
+---
+
+## June 2, 2024
+
+date: 2024-06-03, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/june-2-2024-df1>
+
+---
+
+## Archiving a Way
+
+date: 2024-06-03, from: Doc Searls (at Harvard), New Old Blog
+
+My father, Allen H. Searls, was an archivist. Not a formal one, but good in the vernacular, at least when it came to one of the most consequential things he did in his life: helping build the George Washington Bridge. He did this by photographing his work and fellow workers. He shot with a Kodak [&#8230;] 
+
+<https://doc.searls.com/2024/06/03/archiving-a-way/>
+
+---
+
+##  A list of the highest known prices paid for paintings. Some private... 
+
+date: 2024-06-03, updated: 2024-06-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044726-a-list-of-the-highest>
+
+---
+
+##  Amazing: thousands of patients in England are being given personalized cancer vaccines... 
+
+date: 2024-06-03, updated: 2024-06-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044728-amazing-thousands-of-pati>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-03, from: Dave Winer's Scripting News)
+
+One of the flaws in the design of Teslas is they are really difficult to operate safely for people who are farsighted, such as myself. A lot of the <a href="https://imgs.scripting.com/2024/06/03/teslascreen.png">status messages</a> are too small for me to read without reading glasses, and in the time it takes to put them on the message is gone. Esp frustrating for the messages that tell you to do this or that to keep using FSD. And when I'm flipping the glasses down, my eyes are not on the road Mr or Ms Tesla. This is a design problem. Maybe you should use voice prompts for this kind of stuff. Or use a camera to see if my hands are on the wheel. 
 
 <http://scripting.com/2024/06/03.html#a152049>
 
@@ -47,7 +411,7 @@ date: 2024-06-03, updated: 2024-06-03, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-06-03, from: Dave Winer's Scripting News)
 
-Another great application for ChatGPT. Try to find a blog post or article about the design of a language that gets to what you want to know without wading through a lot of stuff you don't care about. I got it to explain Swift, Go and Rust quickly. Okay now I know what they're doing. It would have taken me days before to assemble this, and I never have that kind of time for such execursions. 
+Another great application for ChatGPT. Try to find a blog post or article about the design of a language that gets to what you want to know without wading through a lot of stuff you don't care about. I got it to explain Swift, Go and Rust quickly. Okay now I know what they're doing. It would have taken me days to assemble this, and I never have that kind of time for such execursions. 
 
 <http://scripting.com/2024/06/03.html#a143532>
 
@@ -55,7 +419,7 @@ Another great application for ChatGPT. Try to find a blog post or article about 
 
 **@Dave Winer's Scripting News** (date: 2024-06-03, from: Dave Winer's Scripting News)
 
-We should apply mathematics to language design. The goal of the language should be maximum simplicity for the human developer. As much of the complexity as possible should be handled by software, either at compiletime or runtime. It should read like pseudocode. I want to write about this. We should study languages for the real reason we use them. We started out writing code by toggling switches on the front panel of the computer, and for a few decades we were factoring but then we turned around in the other direction. I am from the church of factoring. I do it in my designs of products at all levels, and I treat languages with the same care. It turns out all the rules of working on open systems also apply to language design. I plan to write more about this. 
+We should apply mathematics to language design. The goal of the language should be maximum simplicity for the human developer. As much of the complexity as possible should be handled by software, either at compile-time or runtime. It should strive to read like <a href="https://en.wikipedia.org/wiki/Pseudocode">pseudocode</a>. We started out writing code by toggling switches on the front panel of the computer, and for a few decades we were factoring and making it simpler with every iteration, but then we turned around in the other direction. I am from the church of factoring. I do it in my designs of products at all levels, and I treat languages with the same care. It turns out all the rules of working on open systems also apply to language design. I plan to write more about this. 
 
 <http://scripting.com/2024/06/03.html#a143127>
 
@@ -99,6 +463,16 @@ date: 2024-06-03, from: Ayjay blog
 The story begins with creation, and creation is largely a matter of dividing: dividing the region of order from the region of chaos (tohu wabohu), then light from darkness, then the waters above from the waters below, then the waters below from the dry land, then “the lights in the vault of the heavens to [&#8230;] 
 
 <https://blog.ayjay.org/genesis-orientation/>
+
+---
+
+## New zine: How Git Works!
+
+date: 2024-06-03, updated: 2024-06-03, from: Julia Evans blog
+
+ 
+
+<https://jvns.ca/blog/2024/04/25/new-zine--how-git-works-/>
 
 ---
 

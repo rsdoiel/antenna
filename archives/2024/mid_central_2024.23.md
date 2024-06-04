@@ -1,11 +1,45 @@
 ---
 title: mid central 2024.23
-updated: 2024-06-03 08:51:07
+updated: 2024-06-04 08:11:51
 ---
 
 # mid central 2024.23
 
-(date: 2024-06-03 08:51:07)
+(date: 2024-06-04 08:11:51)
+
+---
+
+## Image sensor embeds AI to explore image data
+
+date: 2024-06-04, from: EDN Blog
+
+<img width="600" height="307" src="https://www.edn.com/wp-content/uploads/Hero-image-image-sensor.jpg?fit=600%2C307" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-image-sensor.jpg?w=600 600w, https://www.edn.com/wp-content/uploads/Hero-image-image-sensor.jpg?w=300 300w" sizes="(max-width: 600px) 100vw, 600px" /><p>A new image sensor design combines hybrid bonding with high-density through silicon via to integrate various components.</p>
+<p>The post <a href="https://www.edn.com/image-sensor-embeds-ai-to-explore-image-data/" data-wpel-link="internal">Image sensor embeds AI to explore image data</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/image-sensor-embeds-ai-to-explore-image-data/>
+
+---
+
+## Component tolerance sensitivities of single op-amp filter sections
+
+date: 2024-06-04, from: EDN Blog
+
+<img width="1686" height="863" src="https://www.edn.com/wp-content/uploads/Figure-2-Low-Pass-Filter-spreadsheet-screenshot.jpg?fit=1686%2C863" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure-2-Low-Pass-Filter-spreadsheet-screenshot.jpg?w=1686 1686w, https://www.edn.com/wp-content/uploads/Figure-2-Low-Pass-Filter-spreadsheet-screenshot.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-2-Low-Pass-Filter-spreadsheet-screenshot.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Figure-2-Low-Pass-Filter-spreadsheet-screenshot.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Figure-2-Low-Pass-Filter-spreadsheet-screenshot.jpg?w=1536 1536w" sizes="(max-width: 1686px) 100vw, 1686px" /><p>Simple methods for designing filters allow you to choose passive components that minimize response sensitivities to their tolerances. </p>
+<p>The post <a href="https://www.edn.com/component-tolerance-sensitivities-of-single-op-amp-filter-sections/" data-wpel-link="internal">Component tolerance sensitivities of single op-amp filter sections</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/component-tolerance-sensitivities-of-single-op-amp-filter-sections/>
+
+---
+
+## Honoring Drs. Katsuyo Howard and Franklin Ng
+
+date: 2024-06-03, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+An event to honor retired professors Dr. Katsuyo Howard and Dr. Franklin Ng was held on April 12 at Fresno State. Spearheaded by Dr. Jenny Banh, an associate professor of Asian American studies and anthropology at Fresno State, the ceremony is the first of many signature events to come for the Central Valley Asian American... 
+
+<https://fscollegian.com/2024/06/honoring-drs-katsuyo-howard-and-franklin-ng/>
 
 ---
 
@@ -13,7 +47,7 @@ updated: 2024-06-03 08:51:07
 
 date: 2024-06-03, from: EDN Blog
 
-<img width="1400" height="907" src="https://www.edn.com/wp-content/uploads/bottom-cover_off.jpg?fit=1400%2C907" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/bottom-cover_off.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/bottom-cover_off.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/bottom-cover_off.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/bottom-cover_off.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>No longer works on MacOS. Still works on Windows. What’s behind the O/S functional variance? Let's find out.</p>
+<img width="1400" height="907" src="https://www.edn.com/wp-content/uploads/bottom-cover_off.jpg?fit=1400%2C907" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/bottom-cover_off.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/bottom-cover_off.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/bottom-cover_off.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/bottom-cover_off.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>No longer works on MacOS. Still works on Windows. What’s behind the O/S functional variance? Let's find out.</p>
 <p>The post <a href="https://www.edn.com/an-o-s-fussy-usb-flash-drive/" data-wpel-link="internal">An O/S-fussy USB flash drive</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

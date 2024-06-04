@@ -1,11 +1,55 @@
 ---
 title: libraries 2024.23
-updated: 2024-06-03 08:51:08
+updated: 2024-06-04 08:11:52
 ---
 
 # libraries 2024.23
 
-(date: 2024-06-03 08:51:08)
+(date: 2024-06-04 08:11:52)
+
+---
+
+## Collective constructions: open peer review of an article on indigenous literature
+
+date: 2024-06-04, from: SciELO in Perspective
+
+<p>Open peer review is critical to ensuring the integrity and quality of academic research, enabling greater transparency and collaboration. According to the researchers, the dialogical process between authors and reviewers and the resulting knowledge exchange guaranteed a significant improvement of the research. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://humanas.blog.scielo.org/en/2024/06/04/collective-constructions-open-peer-review-of-an-article-on-indigenous-literature/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://humanas.blog.scielo.org/en/2024/06/04/collective-constructions-open-peer-review-of-an-article-on-indigenous-literature/#new_tab">Collective constructions: open peer review of an article on indigenous literature</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://humanas.blog.scielo.org/en/2024/06/04/collective-constructions-open-peer-review-of-an-article-on-indigenous-literature/#new_tab>
+
+---
+
+## Towards Conversational Discovery: New Discovery Applications for Scholarly Information in the Era of Generative Artificial Intelligence
+
+date: 2024-06-04, from: Scholarly Kitchen
+
+<p>How is generative AI  moving us towards conversational discovery and what does this mean for publishing and future trends in information discovery?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/06/04/towards-conversational-discovery-new-discovery-applications-for-scholarly-information-in-the-era-of-generative-artificial-intelligence/">Towards Conversational Discovery: New Discovery Applications for Scholarly Information in the Era of Generative Artificial Intelligence</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/06/04/towards-conversational-discovery-new-discovery-applications-for-scholarly-information-in-the-era-of-generative-artificial-intelligence/>
+
+---
+
+## Dataset_of_Imperiali_et_al_Frontiers_Plant_Science_2017
+
+date: 2024-06-04, from: ETH Zurich, recently added
+
+Maurhofer, Monika 
+
+<http://hdl.handle.net/20.500.11850/676305>
+
+---
+
+## Educação em Revista celebrates 39 years of publishing academic research: interview with the Editor
+
+date: 2024-06-03, from: SciELO in Perspective
+
+<p>In an interview, the editor-in-chief of <em>Educação em Revista</em> shares information about the publication's trajectory since it was founded in 1985, its efforts to remain free and open, and its adaptations to the latest national and international publishing trends. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://humanas.blog.scielo.org/en/2024/06/03/interview-with-the-editor-of-educacao-em-revista/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://humanas.blog.scielo.org/en/2024/06/03/interview-with-the-editor-of-educacao-em-revista/#new_tab"><em>Educação em Revista</em> celebrates 39 years of publishing academic research: interview with the Editor</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://humanas.blog.scielo.org/en/2024/06/03/interview-with-the-editor-of-educacao-em-revista/#new_tab>
 
 ---
 

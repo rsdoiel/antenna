@@ -1,11 +1,87 @@
 ---
 title: socal north 2024.23
-updated: 2024-06-03 08:51:07
+updated: 2024-06-04 08:11:51
 ---
 
 # socal north 2024.23
 
-(date: 2024-06-03 08:51:07)
+(date: 2024-06-04 08:11:51)
+
+---
+
+## The Transfer Take: The Reintroduction, Part 2
+
+date: 2024-06-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+What is the application process like for transfer students? What should transfer students expect after enrolling at UCLA? Podcasts contributor Ashley Tsao sits down with current UCLA student Brandon Chen to discuss these questions and share tips for prospective applicants. 
+
+<https://dailybruin.com/2024/06/04/the-transfer-take-the-reintroduction-part-2/>
+
+---
+
+## Bruin to Bruin: Jeff Annison
+
+date: 2024-06-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Jeff Annison, cofounder of Legion M and UCLA alumnus, joins Podcasts contributor Aidan Teeger to discuss his career and advice for students. 
+
+Aidan Teeger: Welcome to Bruin to Bruin, where we tap into the wisdom and insights of the UCLA community. 
+
+<https://dailybruin.com/2024/06/04/bruin-to-bruin-jeff-annison/>
+
+---
+
+## Seminar explores rich written archives at Young Research Library and beyond
+
+date: 2024-06-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated June 4 at 12:48 a.m.</em>
+Most people may not consider an 18th century Chinese wood block a book. Yet Professor Matthew Fisher’s new English capstone seminar challenges students to reimagine what a “book” can be – a paperback novel, fruit labels or even a collection of bark fabrics. 
+
+<https://dailybruin.com/2024/06/03/seminar-explores-rich-written-archives-at-young-research-library-and-beyond/>
+
+---
+
+## Protesters walk out, block traffic to oppose Israeli military’s invasion of Rafah
+
+date: 2024-06-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Over 300 pro-Palestine protesters marched through campus and blocked traffic Monday to oppose the Israeli military’s invasion of Rafah – a city in the southern Gaza Strip – and demand UC divestment from Israel. 
+
+<https://dailybruin.com/2024/06/03/protesters-walk-out-block-traffic-to-oppose-israeli-militarys-invasion-of-rafah/>
+
+---
+
+## USC Walking Tour
+
+date: 2024-06-03, from: Transiting Los Angeles
+
+The campus of the University of Southern California offers much for the visitor to enjoy. Come with us on this walking tour, with its spectacular architecture, deep film history, and a stunning panorama. 
+
+<https://transitinglosangeles.com/2024/06/03/usc/>
+
+---
+
+## GLOW NIGHTS AT THE CUBE!
+
+date: 2024-06-03, from: City of Santa Clarita
+
+<p>Get ready to light up the night at The Cube – Ice and Entertainment Center, Powered by FivePoint Valencia. Starting in June, join us for Glow Nights every Saturday night from 7:30-9:30 p.m. When you purchase a Public Skate admission, you&#8217;ll receive a FREE glowstick and have an unforgettably fun experience! Bring your friends and [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/06/03/glow-nights-at-the-cube/">GLOW NIGHTS AT THE CUBE!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/06/03/glow-nights-at-the-cube/>
+
+---
+
+## UCLA Faculty Association files unfair labor practice charge against the UC
+
+date: 2024-06-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This is a developing story and will be updated as more information becomes available.</em>
+The UCLA Faculty Association announced Monday that it filed an unfair labor practice charge against the UC over the University’s treatment of faculty during the Palestine solidarity encampment and its aftermath. 
+
+<https://dailybruin.com/2024/06/03/ucla-faculty-association-files-unfair-labor-practice-charge-against-the-uc/>
 
 ---
 
@@ -25,7 +101,7 @@ It’s easily attainable in words. But realizing it in its entirety is rare.
 
 date: 2024-06-03, from: The Daily Bruin (UCLA Student Newspaper)
 
-Social media platform TikTok and e-commerce companies SHEIN and Temu have recently gained prevalence in the United States, particularly among college-aged students. 
+Social media platform TikTok and e-commerce companies SHEIN and Temu have recently gained prevalence in the United States, particularly among college-aged students.
 However, recent pushback from the U.S. 
 
 <https://dailybruin.com/2024/06/02/us-china-relations-intensify-amid-challenges-on-companies-like-tiktok-shein/>
