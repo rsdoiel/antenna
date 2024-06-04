@@ -1,11 +1,224 @@
 ---
 title: socal north 2024.23
-updated: 2024-06-04 08:11:51
+updated: 2024-06-04 15:10:09
 ---
 
 # socal north 2024.23
 
-(date: 2024-06-04 08:11:51)
+(date: 2024-06-04 15:10:09)
+
+---
+
+## UCLA’s Spring Symphony to feature pieces by Brahms and Sibelius
+
+date: 2024-06-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+The school year will come to a musical end at the annual Spring Symphony concert.
+The UCLA Symphony will perform two symphonic and orchestral works at Schoenberg Hall on Wednesday. 
+
+<https://dailybruin.com/2024/06/04/uclas-spring-symphony-to-feature-pieces-by-brahms-and-sibelius/>
+
+---
+
+## UCPD searches for suspect in attempted burglary at Gayley Avenue residence
+
+date: 2024-06-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD is searching for a suspect after an attempted burglary Monday.&#160;
+The suspect reportedly climbed a wall into the backyard of an occupied residence on the 600 Block of Gayley Avenue on Monday around 1:17 a.m. 
+
+<https://dailybruin.com/2024/06/04/ucpd-searches-for-suspect-in-attempted-burglary-at-gayley-avenue-residence/>
+
+---
+
+## Recent UCLA student-directed play retells religious stories through queer lens
+
+date: 2024-06-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Rainbows, rabbits and rabbis abounded in the UCLA Department of Theater&#8217;s latest production.
+&#8220;The Most Fabulous Story Ever Told,&#8221; written by Paul Rudnick, ran from May 29 to June 1 in The Little Theater. 
+
+<https://dailybruin.com/2024/06/04/recent-ucla-student-directed-play-retells-religious-stories-through-queer-lens/>
+
+---
+
+## What Local Journalism Has To Do With Your Problem Potholes And Deteriorating Sewers
+
+date: 2024-06-04, updated: 2024-06-04, from: The LAist
+
+A new study from UCLA and Duke University found that local journalism helps voters show support at the polls for fixing crumbling infrastructure. 
+
+<https://laist.com/news/politics/what-local-journalism-has-to-do-with-your-problem-potholes-and-deteriorating-sewers>
+
+---
+
+## That Was the Year That Was — or Was It?
+
+date: 2024-06-04, from: California Tech (Caltech Student Newspaper)
+
+A brief, abridged recapitulation of the events of this academic year, in very rough chronological order. Enjoy! 
+
+<https://tech.caltech.edu/2024/06/04/the-year-that-was/>
+
+---
+
+## Professor Dana Murphy's Reinstatement Petition
+
+date: 2024-06-04, from: California Tech (Caltech Student Newspaper)
+
+We, the students of Caltech, are writing a petition to request that Dean Jahner and the Caltech administration reinstate Professor Murphy and recognize the importance of Black studies at Caltech. 
+
+<https://tech.caltech.edu/2024/06/04/hss-professor-reinstatement-petition/>
+
+---
+
+## A Profile on Professor Joe Kirschvink
+
+date: 2024-06-04, from: California Tech (Caltech Student Newspaper)
+
+What is it about Ge 136 that tempts so many worn down undergraduates to forfeit a restful weekend for such discomfort? Professor Joe Kirschvink is the man behind the madness. 
+
+<https://tech.caltech.edu/2024/06/04/profile-joe-kirschvink/>
+
+---
+
+## Athletics in Admissions at Caltech — A Look at Some Numbers
+
+date: 2024-06-04, from: California Tech (Caltech Student Newspaper)
+
+The Tech reviewed a report containing some data regarding student-athletes at Caltech from the Student Success Analysis Working Group&hellip; 
+
+<https://tech.caltech.edu/2024/06/04/athletics-in-admissions-caltech/>
+
+---
+
+## Beautiful, Unrealistic Solutions (Lessons in Chemistry Review #4)
+
+date: 2024-06-04, from: California Tech (Caltech Student Newspaper)
+
+Well readers, an entire term has gone by and I did not continue my column on the Apple TV+ series, Lessons In Chemistry, in a timely manner. Apologies. I know you all were dying for more of my ramblings on this very mid show. 
+
+<https://tech.caltech.edu/2024/06/04/beautiful-unrealistic-solutions/>
+
+---
+
+## EAS’ Cultural Facelift: Introducing the Graduate Student Advisory Board
+
+date: 2024-06-04, from: California Tech (Caltech Student Newspaper)
+
+I am excited to introduce the EAS Graduate Student Advisory Board (GSAB), a proactive initiative aimed at bridging these gaps and cultivating a unified EAS community culture which will enhance the educational experience for all its members. 
+
+<https://tech.caltech.edu/2024/06/04/eas-cultural-facelift/>
+
+---
+
+## Graduate Student and Postdoc Workers Share Goals for a Better Workplace as Union Bargaining Begins
+
+date: 2024-06-04, from: California Tech (Caltech Student Newspaper)
+
+On May 29, Caltech GSWs and postdocs began bargaining our first union contract to guarantee legally enforceable workplace rights including wages, benefits, and protections against abuse, discrimination, and unsafe workplaces&hellip; 
+
+<https://tech.caltech.edu/2024/06/04/goals-for-better-workplace/>
+
+---
+
+## Meet the People of Red Door: Deveon Howard
+
+date: 2024-06-04, from: California Tech (Caltech Student Newspaper)
+
+As part of an ongoing effort to make the voices of Red Door staff heard in The California Tech, the following interview was conducted with Deveon Howard, the Assistant Manager of Red Door. 
+
+<https://tech.caltech.edu/2024/06/04/people-of-red-door/>
+
+---
+
+## Songs to Char a Marshmallow to
+
+date: 2024-06-04, from: California Tech (Caltech Student Newspaper)
+
+Whether you’re having a bonfire at the beach, or camping in the woods, s’mores season is officially here, and with it, a playlist to absolutely scorch your ‘mallows to. 
+
+<https://tech.caltech.edu/2024/06/04/songs-to-char-a-marshmallow-to/>
+
+---
+
+## Staging Earth Data in TACIT’s Earth Data: The Musical
+
+date: 2024-06-04, from: California Tech (Caltech Student Newspaper)
+
+Last April, Theater Arts at Caltech (TACIT) staged the part one beta version of Earth Data: The Musical, an original musical inspired by real-life research at JPL&hellip; 
+
+<https://tech.caltech.edu/2024/06/04/staging-earth-data/>
+
+---
+
+## The California Tech Sponsored Workout 2 — Techxercises
+
+date: 2024-06-04, from: California Tech (Caltech Student Newspaper)
+
+As your friendly neighborhood former Dabney Athman, I would like to give you a nice example workout. And guess what? Today is leg day! 
+
+<https://tech.caltech.edu/2024/06/04/techxercises/>
+
+---
+
+## The Decision-Making Process for Reinstating Standardized Testing in Admissions
+
+date: 2024-06-04, from: California Tech (Caltech Student Newspaper)
+
+In an email to faculty on January 30, 2024, President Rosenbaum wrote that, “Two questions that have arisen in recent campus conversations concern the value of standardized testing, and the appropriate role of extracurricular activities, in admissions decisions”&hellip; 
+
+<https://tech.caltech.edu/2024/06/04/decision-making-for-standardized-tests/>
+
+---
+
+## The Huntington's New Homage to Nature
+
+date: 2024-06-04, from: California Tech (Caltech Student Newspaper)
+
+On May 25, Homage to Nature was unveiled at The Huntington Library, Art Museum, and Botanical Gardens&hellip; 
+
+<https://tech.caltech.edu/2024/06/04/huntington-homage-to-nature/>
+
+---
+
+## Voting in ASCIT Elections should be mandatory: An argument.
+
+date: 2024-06-04, from: California Tech (Caltech Student Newspaper)
+
+Voting. It is every citizen’s right, or in this case every Caltech undergraduate’s right. 
+
+<https://tech.caltech.edu/2024/06/04/ascit-voting-mandatory/>
+
+---
+
+## We are the engine of research at Caltech. But who is providing the fuel, and who is driving?
+
+date: 2024-06-04, from: California Tech (Caltech Student Newspaper)
+
+Caltech and JPL are enmeshed financially, politically, and scientifically with Raytheon Technologies, a major weapons manufacturer which sells large amounts of weapons to the Israeli Defence Force. 
+
+<https://tech.caltech.edu/2024/06/04/sjp-who-provides-the-fuel/>
+
+---
+
+## Who is The Tech and What Do We Stand For?
+
+date: 2024-06-04, from: California Tech (Caltech Student Newspaper)
+
+The Tech is not simply a broadcaster of all opinions that happen to come from Caltech students. All opinions are not created equal, and they should not be treated as such. 
+
+<https://tech.caltech.edu/2024/06/04/who-is-the-tech/>
+
+---
+
+## How To Host Your Own Super Fun Children's Reading Party, Just Like We Did
+
+date: 2024-06-04, updated: 2024-06-04, from: The LAist
+
+For our second annual Super-Fun Saturday, we partnered with more than two dozen community partners, along with local Los Angeles authors and performers. 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/super-fun-saturday-2024-children-books-authors>
 
 ---
 
@@ -52,6 +265,16 @@ Over 300 pro-Palestine protesters marched through campus and blocked traffic Mon
 
 ---
 
+## How Voting Snags Left Many Local Mexicans Unable To Vote In Mexico’s Historic Election
+
+date: 2024-06-04, updated: 2024-06-04, from: The LAist
+
+Former Mexico City mayor Claudia Sheinbaum was elected Mexico’s first female president in the nation’s first electoral face-off between two female presidential candidates. But many local Mexican citizens who had hoped to cast a ballot at the local consulate couldn’t do so. 
+
+<https://laist.com/news/politics/voting-snags-local-mexicans-unable-to-vote-in-mexicos-election>
+
+---
+
 ## USC Walking Tour
 
 date: 2024-06-03, from: Transiting Los Angeles
@@ -71,6 +294,16 @@ date: 2024-06-03, from: City of Santa Clarita
  
 
 <https://santaclarita.gov/blog/2024/06/03/glow-nights-at-the-cube/>
+
+---
+
+## CA Senate Preserves Big Corporate Tax Breaks That Benefit Some Cities
+
+date: 2024-06-03, updated: 2024-06-03, from: The LAist
+
+California cities funnel $1 billion in online sales taxes back to wealthy corporations, but the state Senate killed a bill that would change the rules for those arrangements. The vote came down to whether senators represent a city with a major retailer in a tax-sharing agreement in their districts. 
+
+<https://laist.com/news/politics/ca-senate-preserves-big-corporate-tax-breaks-that-benefit-some-cities>
 
 ---
 

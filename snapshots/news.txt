@@ -370,6 +370,7 @@ https://timkellogg.me/blog/atom.xml "~Tom Kellog blog" curl/8.5.0 (rsdoiel@gmail
 https://maggieappleton.com/rss.xml "~Maggie Appleton blog"
 https://www.oneusefulthing.org/feed "~One Useful Thing"
 https://webcurios.co.uk/feed/ "~Web Curios blog"
+https://feed.tedium.co/ "~Tedium feed"
 
 #
 # Hobbies

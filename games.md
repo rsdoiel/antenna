@@ -1,11 +1,111 @@
 ---
 title: games 2024.23
-updated: 2024-06-04 08:11:52
+updated: 2024-06-04 15:10:10
 ---
 
 # games 2024.23
 
-(date: 2024-06-04 08:11:52)
+(date: 2024-06-04 15:10:10)
+
+---
+
+## Bad Boys: Ride or Die has a troubling case of franchise cancer
+
+date: 2024-06-04, updated: 2024-06-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24171554/bad-boys-ride-or-die-review-will-smith-martin-lawrence>
+
+---
+
+## The 7th Citadel, spiritual successor to The 7th Continent, is back on Kickstarter for a limited time
+
+date: 2024-06-04, updated: 2024-06-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/tabletop-games/24171548/7th-citadel-kickstarter-solo-cooperative-adventure-release-date-price>
+
+---
+
+## Where to unlock every normal raid in FFXIV
+
+date: 2024-06-04, updated: 2024-06-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24171296/normal-raids-unlock-roulette-list-tiers-gear>
+
+---
+
+## Star Wars’ real problem isn’t boring Jedi, it’s boring Sith
+
+date: 2024-06-04, updated: 2024-06-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/star-wars/24171289/star-wars-sith-boring>
+
+---
+
+## The best scenes from Studio Ghibli movies
+
+date: 2024-06-04, updated: 2024-06-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/animation-cartoons/2020/5/29/21273972/best-studio-ghibli-movies-scenes>
+
+---
+
+## Destiny 2 The Final Shape Legendary campaign rewards, solo difficulty explained
+
+date: 2024-06-04, updated: 2024-06-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24171049/the-final-shape-legendary-campaign-rewards-solo-difficulty>
+
+---
+
+## How to unlock Prismatic in Destiny 2: The Final Shape
+
+date: 2024-06-04, updated: 2024-06-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24170266/prismatic-subclass-unlock-final-shape>
+
+---
+
+## How to charge Transcendence in Destiny 2 The Final Shape
+
+date: 2024-06-04, updated: 2024-06-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24168527/transcendence-how-to-charge-bound>
+
+---
+
+## Destiny 2 power level guide, all caps and Powerful and Pinnacle gear sources explained
+
+date: 2024-06-04, updated: 2024-06-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/23611953/power-level-cap-powerful-pinnacle-gear>
+
+---
+
+## How to unlock armor Exotics with Rahool reputation in Destiny 2
+
+date: 2024-06-04, updated: 2024-06-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24167016/unlock-exotic-armor-master-rahool-reputation>
 
 ---
 

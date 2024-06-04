@@ -209,6 +209,7 @@ https://willnorris.com/atom.xml "~Will Norris blog"
 
 https://blog.gtk.org/feed/ "~Gtk Developer blog"
 https://wilw.dev/feeds "~Wil Webberly blog"
+https://feed.tedium.co/ "~Tedium site"
 
 #
 # Publications

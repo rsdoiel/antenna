@@ -1,11 +1,86 @@
 ---
 title: central coast 2024.23
-updated: 2024-06-04 08:11:51
+updated: 2024-06-04 15:10:09
 ---
 
 # central coast 2024.23
 
-(date: 2024-06-04 08:11:51)
+(date: 2024-06-04 15:10:09)
+
+---
+
+## José Diaz Corral of Goleta, 1941-2024
+
+date: 2024-06-04, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="350" height="552" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-JCorral-350.gif?fit=350%2C552&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="José Diaz Corral" decoding="async" fetchpriority="high" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>José Diaz Corral, the youngest of six children, was born on Dec. 31, 1941, in Tepehuanes, Durango, Mexico. He has been a resident of Goleta for the past 65 years. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/jose-diaz-corral-of-goleta-1941-2024/">José Diaz Corral of Goleta, 1941-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/jose-diaz-corral-of-goleta-1941-2024/>
+
+---
+
+## Cynder Sinclair: Leading From Within Aims to Alter All Community Sectors
+
+date: 2024-06-04, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Many people dream of transforming their community. Ken Saxon achieved that goal, and he’s not done. After finishing a successful business career, Saxon put his entrepreneurial skills to work on [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/cynder-sinclair-leading-from-within-aims-to-alter-all-community-sectors/">Cynder Sinclair: Leading From Within Aims to Alter All Community Sectors</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/cynder-sinclair-leading-from-within-aims-to-alter-all-community-sectors/>
+
+---
+
+## Finding Balance This Summer With Outdoor Yoga and Fitness
+
+date: 2024-06-04, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="727" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/sr-yoga-scaled.jpeg?fit=1024%2C727&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/sr-yoga-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/sr-yoga-scaled.jpeg?resize=300%2C213&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/sr-yoga-scaled.jpeg?resize=1024%2C727&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/sr-yoga-scaled.jpeg?resize=768%2C545&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/sr-yoga-scaled.jpeg?resize=1536%2C1091&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/sr-yoga-scaled.jpeg?resize=2048%2C1454&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/sr-yoga-scaled.jpeg?resize=1200%2C852&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/sr-yoga-scaled.jpeg?resize=1568%2C1113&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/sr-yoga-scaled.jpeg?resize=2000%2C1420&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/sr-yoga-scaled.jpeg?resize=400%2C284&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/sr-yoga-scaled.jpeg?resize=706%2C501&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/sr-yoga-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/sr-yoga-scaled.jpeg?fit=1024%2C727&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>This summer, take your yoga practice or fitness routine outdoors and immerse yourself in the beauty of nature</p>
+<p>The post <a href="https://www.noozhawk.com/finding-balance-this-summer-with-outdoor-yoga-and-fitness/">Finding Balance This Summer With Outdoor Yoga and Fitness</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/finding-balance-this-summer-with-outdoor-yoga-and-fitness/>
+
+---
+
+## Vandenberg SFB Conducts Week’s First ICBM Test, Second Set for Thursday
+
+date: 2024-06-04, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="681" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Minuteman-ICBM-Test-contributed.jpg?fit=1024%2C681&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Minuteman-ICBM-Test-contributed.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Minuteman-ICBM-Test-contributed.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Minuteman-ICBM-Test-contributed.jpg?resize=1024%2C681&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Minuteman-ICBM-Test-contributed.jpg?resize=768%2C511&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Minuteman-ICBM-Test-contributed.jpg?resize=1536%2C1022&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Minuteman-ICBM-Test-contributed.jpg?resize=2048%2C1363&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Minuteman-ICBM-Test-contributed.jpg?resize=1200%2C799&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Minuteman-ICBM-Test-contributed.jpg?resize=1568%2C1043&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Minuteman-ICBM-Test-contributed.jpg?resize=2000%2C1331&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Minuteman-ICBM-Test-contributed.jpg?resize=400%2C266&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Minuteman-ICBM-Test-contributed.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Minuteman-ICBM-Test-contributed.jpg?fit=1024%2C681&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>This week’s first unarmed Minuteman III missile test launch took place early Tuesday morning, clearing the way for the second set for Thursday at Vandenberg Space Force Base.&#160; The three-stage [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/vandenberg-sfb-conducts-weeks-first-icbm-test-second-set-for-thursday/">Vandenberg SFB Conducts Week&#8217;s First ICBM Test, Second Set for Thursday</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/vandenberg-sfb-conducts-weeks-first-icbm-test-second-set-for-thursday/>
+
+---
+
+## Pianist Suri Kim, 15, to Give Free Performance at Santa Maria Library
+
+date: 2024-06-04, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Community members are invited to attend a performance by young pianist Suri Kim, 3 p.m. Saturday, June 8 in Shepard Hall at the Santa Maria Public Library. The program is [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/pianist-suri-kim-15-to-give-free-performance-at-santa-maria-library/">Pianist Suri Kim, 15, to Give Free Performance at Santa Maria Library</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/pianist-suri-kim-15-to-give-free-performance-at-santa-maria-library/>
+
+---
+
+## Lompoc School District Awarded State Grant for Nearly $5 million
+
+date: 2024-06-04, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Lompoc Unified School District (LUSD) has received a $4,987,500 Community Schools Implementation Grant Award from the California Department of Education (CDE). This grant is part of the $1.3 billion in [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lompoc-school-district-awarded-state-grant-for-nearly-5-million/">Lompoc School District Awarded State Grant for Nearly $5 million</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/lompoc-school-district-awarded-state-grant-for-nearly-5-million/>
 
 ---
 
@@ -13,7 +88,7 @@ updated: 2024-06-04 08:11:51
 
 date: 2024-06-04, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Bridge of Sighs in Oxford, England." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Bridge of Sighs in Oxford, England." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/041224-POD-Tony-Cirincione.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The post <a href="https://www.noozhawk.com/bridge-of-sighs/">Bridge of Sighs</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 
@@ -38,7 +113,7 @@ date: 2024-06-04, from: Newshawk, the freshest news in Santa Barbara County
 
 date: 2024-06-04, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="UCSB workers on strike." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="UCSB workers on strike." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060324-uaw-strike-5-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>On Monday, graduate workers and researchers at UC Santa Barbara joined the picket line alongside workers at other University of California campuses as part of an ongoing strike over the [&#8230;]</p>
 <p>The post <a href="https://www.noozhawk.com/graduate-workers-at-ucsb-begin-their-strike-a-week-before-finals/">Graduate Workers at UCSB Go On Strike a Week Before Finals</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
@@ -51,7 +126,7 @@ date: 2024-06-04, from: Newshawk, the freshest news in Santa Barbara County
 
 date: 2024-06-04, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara County Fire Chief Mark Hartwig." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara County Fire Chief Mark Hartwig." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06032024-Fire-Press-Conference-DG-4.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Santa Barbara County&#8217;s event marking the beginning of High Fire Season started late Monday because of multiple vegetation fires in the area. “We&#8217;re not here to tell you we&#8217;re kicking [&#8230;]</p>
 <p>The post <a href="https://www.noozhawk.com/santa-barbara-county-officials-urge-public-to-prepare-now-for-wildfire-season/">Santa Barbara County Officials Urge Public to Prepare Now for Wildfire Season</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  

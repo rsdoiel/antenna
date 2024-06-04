@@ -1,11 +1,31 @@
 ---
 title: journalism 2024.23
-updated: 2024-06-04 08:11:52
+updated: 2024-06-04 15:10:10
 ---
 
 # journalism 2024.23
 
-(date: 2024-06-04 08:11:52)
+(date: 2024-06-04 15:10:10)
+
+---
+
+## Does curiosity make you read more hard news? How about anxiety?
+
+date: 2024-06-04, from: Nieman Journalism Lab
+
+Why do people read the news? To journalists, that may sound like a stupid question. We read news because it&#8217;s critical to democracy! Because it&#8217;s the fascinating narrative of human existence! Because it&#8217;s a daily heroic tale of reporters uncovering corruption, malfeasance, and grift! But to normies, it&#8217;s sometimes a real puzzle. News is an... 
+
+<https://www.niemanlab.org/2024/06/does-curiosity-make-you-read-more-hard-news-how-about-anxiety/>
+
+---
+
+## We always thought The Epoch Times was sketchy, but this is really something
+
+date: 2024-06-04, from: Nieman Journalism Lab
+
+The Department of Justice has charged the CFO of The Epoch Times — the shadowy, Chinese-backed, pro-Trump, conspiracy-embracing, billboard-loving, and weirdly successful media company — with conspiring to launder at least $67 million in illegally obtained funds. (If you&#8217;d hoped to attend The Epoch Times School of Journalism, you might want to make other plans.) The... 
+
+<https://www.niemanlab.org/2024/06/we-always-thought-the-epoch-times-was-sketchy-but-this-is-really-something/>
 
 ---
 

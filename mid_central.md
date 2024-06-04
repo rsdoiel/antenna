@@ -1,11 +1,33 @@
 ---
 title: mid central 2024.23
-updated: 2024-06-04 08:11:51
+updated: 2024-06-04 15:10:09
 ---
 
 # mid central 2024.23
 
-(date: 2024-06-04 08:11:51)
+(date: 2024-06-04 15:10:09)
+
+---
+
+## ARRL Systems Service Disruption
+
+date: 2024-06-04, from: Amateur Radio Relay League News
+
+<p><strong> Updated 6/4/2024</strong></p><p>On or around May 12, 2024, ARRL was the victim of a sophisticated network attack by a malicious international cyber group. ARRL immediately involved the FBI and engaged with third party experts to investigate.</p><p>This serious incident was extensive and categorized by the FBI as “unique,” compromising network devices, servers, cloud-based systems, and PCs.</p><p>ARRL management quickly est...</p> 
+
+<http://www.arrl.org/news/view/arrl-systems-service-disruption>
+
+---
+
+## Los Banos Campus to Open New Child Development Center This Fall
+
+date: 2024-06-04, from: Blue Devil News (Merced Community College Student Newspaper)
+
+<p>The Merced College Los Banos Campus held an open house May 21 to showcase its new Child Development Center, which will provide local families with a high-quality childcare facility and&#8230;</p>
+<p>The post <a href="https://www.mccd.edu/news/los-banos-campus-to-open-new-child-development-center-this-fall/">Los Banos Campus to Open New Child Development Center This Fall</a> appeared first on <a href="https://www.mccd.edu">Merced College</a>.</p>
+ 
+
+<https://www.mccd.edu/news/los-banos-campus-to-open-new-child-development-center-this-fall/>
 
 ---
 

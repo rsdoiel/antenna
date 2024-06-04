@@ -1,11 +1,135 @@
 ---
 title: columns 2024.23
-updated: 2024-06-04 08:11:52
+updated: 2024-06-04 15:10:09
 ---
 
 # columns 2024.23
 
-(date: 2024-06-04 08:11:52)
+(date: 2024-06-04 15:10:09)
+
+---
+
+##  Apple Music&#8217;s 100 Best Albums 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/apple-musics-100-best-albums>
+
+---
+
+## Elon Musk Told Nvidia to Ship AI Chips Reserved for Tesla to X
+
+date: 2024-06-04, updated: 2024-06-04, from: Daring Fireball
+
+ 
+
+<https://www.cnbc.com/2024/06/04/elon-musk-told-nvidia-to-ship-ai-chips-reserved-for-tesla-to-x-xai.html>
+
+---
+
+##  Virologist Dr. Rick Bright: Why the New Human Case of Bird Flu... 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044749-virologist-dr-rick-bright>
+
+---
+
+##  At some point, you have to wonder what&#8217;s actually in the $1.50... 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044743-at-some-point-you-have>
+
+---
+
+##  World-first tooth-regrowing drug will be given to humans in September. &#8220;If successful,... 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044741-world-first-tooth-regrowi>
+
+---
+
+##  Tintin-Inspired Kits for the Belgian National Football Team 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/tintin-inspired-kits-for-the-belgian-national-football-team>
+
+---
+
+## Open Letter From AI Researchers: ‘A Right to Warn About Advanced Artificial Intelligence’
+
+date: 2024-06-04, updated: 2024-06-04, from: Daring Fireball
+
+ 
+
+<https://righttowarn.ai/>
+
+---
+
+## Convicted felon Donald Trump
+
+date: 2024-06-04, from: Dave Winer's Scripting News
+
+<p>Keith Olbermann makes a good point in <a href="https://omny.fm/shows/countdown-with-keith-olbermann/keep-calling-him-convicted-felon-donald-trump-6-4">today's podcast</a>. </p>
+<p>Instead of "Donald Trump" we should always say "Convicted felon Donald Trump."</p>
+<p>It's branding and it works. He's right. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/04/handcuffsTrump.png"></center>Convicted felon Donald Trump.</div></p>
+ 
+
+<http://scripting.com/2024/06/04/170341.html?title=convictedFelonDonaldTrump>
+
+---
+
+##  Things the guys who stole my phone have texted me to try... 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044745-things-the-guys-who-stole>
+
+---
+
+##  The Best Podcasts of 2024 So Far, including 99% Invisible&#8217;s series on... 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044747-the-best-podcasts-of-2024>
+
+---
+
+## June 3, 2024
+
+date: 2024-06-04, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/june-3-2024-580>
+
+---
+
+##  What cars would the Founding Fathers have driven? &#8220;thomas jefferson would have... 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044748-what-cars-would-the-found>
 
 ---
 
@@ -77,7 +201,7 @@ What got me spinning was listening to Rachel Maddow advertise her podcast at the
 
 **@Dave Winer's Scripting News** (date: 2024-06-04, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/01/runner.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If podcasting had a marketing team behind it, we'd run a campaign that says "It's not podcasting if you don't have choice." If you have to use Apple, Audible, Spotify or Google to listen to something that's nice, hope it's good for you but folks that is not a podcast. Podcasts give you the listener all the power. If you give it up it'll all be Disneyfied before too long. It pisses me off that Amazon Music sends me messages about all the new "podcasts" they have. I mutter under my breath when I hear this, some expletive I'd rather not repeat here. Amazon, the users know that podcasting == user choice, and they hate you just a little every time you lie about it. Find another term you like and use that. You have the money to do the market testing. Come on, just once play fair. You'll be surprised how good it feels, and I wouldn't be surprised if the users reward you for it. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/01/runner.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If podcasting had a marketing team behind it, we'd run a campaign that says "It's not podcasting if you don't have choice." If you have to use Apple, Audible, Spotify or Google to listen to something, that's nice, hope it's good for you, but folks that is not a podcast. Podcasts give you the listener all the power. If you give it up it'll all be Disneyfied before too long. It pisses me off that Amazon Music sends me messages about all the new "podcasts" they have. I mutter under my breath when I hear this, some expletive I'd rather not repeat. Amazon, the users know that podcasting == user choice, and they hate you just a little every time you lie about it. Find another term you like and use that. You have the money to do the marketing. Come on, just once play fair. You'll be surprised how good it feels, and I wouldn't be surprised if the users reward you for it. 
 
 <http://scripting.com/2024/06/04.html#a113149>
 
@@ -237,7 +361,7 @@ As some of you may know, I started out as a radio journalist. And when I discove
 
 ---
 
-## Is this is the future of “blogging?”
+## From Blogging to AI: This is the  future of media
 
 date: 2024-06-03, from: Om Malik blog
 

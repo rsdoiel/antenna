@@ -1,11 +1,299 @@
 ---
 title: tech likely 2024.23
-updated: 2024-06-04 08:11:52
+updated: 2024-06-04 15:10:09
 ---
 
 # tech likely 2024.23
 
-(date: 2024-06-04 08:11:52)
+(date: 2024-06-04 15:10:09)
+
+---
+
+## 2024-06-01 Fonts are important
+
+date: 2024-06-04, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-01-fonts-are-important">2024-06-01 Fonts are important</h1>
+
+<p>I was thinking about writing a simple editor again. The <a href="https://smallandnearlysilent.com/">Small and Nearly Silent</a> web app by <a class="account" href="https://tenforward.social/@eli_oat" title="@eli_oat@tenforward.social">@eli_oat</a> is beautiful because it mixes text and line drawings. I often feel that I&rsquo;d like a simple path-based SVG-like drawing ability, like <a href="https://akkartik.name/lines.html">lines</a>, by <a class="account" href="https://merveilles.town/@akkartik" title="@akkartik@merveilles.town">@akkartik</a>. Some lines, some control points, some curves, filling stuff with patterns… I don&rsquo;t know whether I&rsquo;d actually use it, but it&rsquo;s alluring.</p>
+
+<p>The whole <a href="https://wiki.xxiivv.com/site/uxn.html">uxn</a> ecosystem with many different small tools is also quite alluring. Unfortunately, it&rsquo;s also a bit hard to get into an existing ecosystem like that. I still feel that if spent a while writing something myself, it&rsquo;d feel more like it was &ldquo;mine&rdquo;. I&rsquo;d just understand it better. I just don&rsquo;t know if I&rsquo;m ready to spend that much time on it, or if I&rsquo;d even be able to pull it off. So that&rsquo;s why I wavering at the same time that I&rsquo;m fascinated.</p>
+
+<p>Given all that, I was thinking about Gforth and found <a href="https://github.com/JeremiahCheatham/Gforth-SDL2-Bindings/">SDL2 Bindings for Gforth</a>, and I found the example <a href="https://github.com/JeremiahCheatham/Yellow-Snow">Yellow Snow</a> game using this library, I tried to compile it and Gforth complained about the missing headers. No problem, I thought to myself. I know what to do: <code>sudo apt install libsdl2-ttf-dev libsdl2-image-dev libsdl2-mixer-dev</code> – but the mixer results in <a href="https://doc.sccode.org/">SuperCollider</a> getting deinstalled. Oh no!</p>
+
+<p>So now I&rsquo;m once again thinking about the thing I actually want to do. Do I want to build an Emacs light? A simple line-based text editor like <code>ed</code> but with more features? An editor that only runs inside a terminal, like <code>kilo</code> or <code>mini</code>? See <a href="2018-03-12_Writing_an_Editor">2018-03-12 Writing an Editor</a> for more. Or would it be an editor with a GUI? Would it work only with X11? Or would it be based on SDL?</p>
+
+<p>I feel like an editor with a minimal GUI would be nice. I don&rsquo;t think I need a menu, but I think I&rsquo;d like a way to scale font size up and down, UTF-8 support to write German and Portuguese, basically render Markdown and some simple variant of SVG, inline. I feel like that&rsquo;s why I need to start with graphics and font support. Otherwise I&rsquo;ll end up with something like <a href="https://git.sr.ht/~m15o/grid/">grid</a>: a cool <a href="https://plan9.io/wiki/plan9/using_acme/index.html">ACME</a>-inspired text editor, but it would only really works for English.</p>
+
+<p><a class="tag" href="/search/?q=%23Editor">#Editor</a></p>
+
+<p><strong>2024-06-04</strong>. Thinking about Go and the <a href="https://github.com/hibiken/mini">mini</a> editor.
+It runs in a terminal. So what would it take to turn it into a graphical editor with fonts, ligatures, bidirectional text, font-sizes, and all of that?</p>
+
+<p><a href="https://github.com/go-text/typesetting">go-text/typesetting</a> is a library that&rsquo;s used by <a href="https://fyne.io">Fyne</a>, <a href="https://gioui.org">Gio</a>, and <a href="https://ebitengine.org">Ebitengine</a>. So perhaps one of these frameworks?</p>
+
+<p>Fyne has a <a href="https://apps.fyne.io/apps/com.fynelabs.notes.html">Notes</a> example application.
+It looks like a nice, simple app. When I built it, however, it didn&rsquo;t work.
+Is it because I&rsquo;m on Wayland? I don&rsquo;t know.</p>
+
+<ul>
+<li>Gio is used by <a href="https://anvil-editor.net/">Anvil</a>, an editor with many features.</li>
+<li>Ebitengine has a <a href="https://ebitengine.org/en/examples/font.html">Font</a> example.</li>
+</ul> 
+
+<https://alexschroeder.ch/view/2024-06-01-editor>
+
+---
+
+## NASA to Change How It Points Hubble Space Telescope
+
+date: 2024-06-04, from: NASA breaking news
+
+After completing a series of tests and carefully considering the options, NASA announced Tuesday work is underway to transition its Hubble Space Telescope to operate using only one gyroscope (gyro). While the telescope went into safe mode May 24, where it now remains until work is complete, this change will enable Hubble to continue exploring […] 
+
+<https://science.nasa.gov/missions/hubble/nasa-to-change-how-it-points-hubble-space-telescope/>
+
+---
+
+##  Apple Music&#8217;s 100 Best Albums 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/apple-musics-100-best-albums>
+
+---
+
+## NASA Astronauts Practice Next Giant Leap for Artemis
+
+date: 2024-06-04, from: NASA breaking news
+
+The physics remain the same, but the rockets, spacecraft, landers, and spacesuits are new as NASA and its industry partners prepare for Artemis astronauts to walk on the Moon for the first time since 1972. NASA astronaut Doug “Wheels” Wheelock and Axiom Space astronaut Peggy Whitson put on spacesuits, developed by Axiom Space, to interact [&#8230;] 
+
+<https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-astronauts-practice-next-giant-leap-for-artemis/>
+
+---
+
+## Moon Tree Planted at U.S. Capitol Marks Enduring NASA, Artemis Legacy
+
+date: 2024-06-04, from: NASA breaking news
+
+NASA astronaut and Artemis II Commander Reid Wiseman provides remarks at a Moon Tree dedication ceremony Tuesday, June 4, at the U.S. Capitol in Washington. The American Sweetgum tree was grown from a seed that flew around the Moon during the agency’s Artemis I mission in 2022. In April, NASA announced the agency selected organizations [&#8230;] 
+
+<https://www.nasa.gov/image-article/moon-tree-planted-at-u-s-capitol-marks-enduring-nasa-artemis-legacy/>
+
+---
+
+##  Virologist Dr. Rick Bright: Why the New Human Case of Bird Flu... 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044749-virologist-dr-rick-bright>
+
+---
+
+## New Energy Source Powers Subsea Robots Indefinitely
+
+date: 2024-06-04, from: NASA breaking news
+
+Power modules driven by ocean temperatures save money, reduce pollution  
+
+<https://www.nasa.gov/technology/tech-transfer-spinoffs/new-energy-source-powers-subsea-robots-indefinitely/>
+
+---
+
+##  At some point, you have to wonder what&#8217;s actually in the $1.50... 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044743-at-some-point-you-have>
+
+---
+
+## macOS Installer’s “Failed to Personalize” Error
+
+date: 2024-06-04, from: Michael Tsai
+
+Adam Engst: Typically, Mac firmware is updated whenever a new version of macOS is installed, but if something goes wrong in the process, the Mac can be left with outdated firmware. When automatic firmware updates fail, the solution is to &#8220;revive&#8221; or &#8220;restore&#8221; the Mac using another Mac running macOS 12 Monterey or later and [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/04/macos-installers-failed-to-personalize-error/>
+
+---
+
+## Proposed EU Chat Control
+
+date: 2024-06-04, from: Michael Tsai
+
+Patrick Breyer (via Hacker News): The highly controversial indiscriminate child sexual abuse regulation (so-called chat control) could still be endorsed by EU governments after all, as France could give up its previous veto. This is reported by Euractiv and confirmed by internal documents. France considers the new &#8220;upload moderation&#8221; proposal in principle as a viable [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/04/proposed-eu-chat-control/>
+
+---
+
+## Swift at 10
+
+date: 2024-06-04, from: Michael Tsai
+
+Basic Apple Guy: 10 Years Ago: Apple Announced Swift Brian Webster: 10 year anniversary of Swift being announced at WWDC. Chris Lattner: Wow that&#8217;s right. This was a big day and Swift has come a long way in the intervening decade: Congrats to everyone who has driven it forward to support such an amazing tech [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/04/swift-at-10/>
+
+---
+
+## SwiftData Issues in macOS 14 and iOS 17
+
+date: 2024-06-04, from: Michael Tsai
+
+Helge He&#223;: Ugh, inverse SwiftData relationship updates do not seem to trigger Observation, that feels like a biggie &#x1F633; [&#8230;] This feels really bad, because the relationships are the thing which make an ORM worthwhile. I.e. you&#8217;d usually have a network of many objects being displayed in distinct views (not just the simple demo). Those [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/04/swiftdata-issues-in-macos-14-and-ios-17/>
+
+---
+
+## Ames Science Directorate’s Stars of the Month, June 2024
+
+date: 2024-06-04, from: NASA breaking news
+
+The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Amy Gresser, Mary Beth Wilhelm, Taylor Bell, and Liane Guild. Their commitment to the NASA mission represents the talent, camaraderie, and vision needed to explore this world and beyond. Space Biosciences Star: Amy Gresser Dr. Amy Gresser is the Space Biology [&#8230;] 
+
+<https://www.nasa.gov/general/ames-science-directorates-stars-of-the-month-june-2024/>
+
+---
+
+##  World-first tooth-regrowing drug will be given to humans in September. &#8220;If successful,... 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044741-world-first-tooth-regrowi>
+
+---
+
+## Open letter responding to Yann LeCun
+
+date: 2024-06-04, from: Gary Marcus blog
+
+A memo for future intellectual historians 
+
+<https://garymarcus.substack.com/p/open-letter-responding-to-yann-lecun>
+
+---
+
+##  Tintin-Inspired Kits for the Belgian National Football Team 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/tintin-inspired-kits-for-the-belgian-national-football-team>
+
+---
+
+## Convicted felon Donald Trump
+
+date: 2024-06-04, from: Dave Winer's Scripting News
+
+<p>Keith Olbermann makes a good point in <a href="https://omny.fm/shows/countdown-with-keith-olbermann/keep-calling-him-convicted-felon-donald-trump-6-4">today's podcast</a>. </p>
+<p>Instead of "Donald Trump" we should always say "Convicted felon Donald Trump."</p>
+<p>It's branding and it works. He's right. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/04/handcuffsTrump.png"></center>Convicted felon Donald Trump.</div></p>
+ 
+
+<http://scripting.com/2024/06/04/170341.html?title=convictedFelonDonaldTrump>
+
+---
+
+## Ted Michalek: Engineering from Apollo to Artemis
+
+date: 2024-06-04, from: NASA breaking news
+
+From the first lunar footsteps of Apollo to the threshold of humanity’s return aboard the Artemis missions, Ted Michalek has been part of the fabric of Goddard for 55 years — and counting! Name: Theodore “Ted” MichalekTitle: Chief technical engineer (retired), now consultantFormal Job Classification: Thermal engineerOrganization: Thermal Engineering Branch (Code 545), Mechanical Division (Code [&#8230;] 
+
+<https://www.nasa.gov/people-of-nasa/goddard-people/ted-michalek-engineering-from-apollo-to-artemis/>
+
+---
+
+##  Things the guys who stole my phone have texted me to try... 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044745-things-the-guys-who-stole>
+
+---
+
+## Tiny Awards
+
+date: 2024-06-04, from: Tilde.news
+
+<p><a href="https://tilde.news/s/9sxuam/tiny_awards">Comments</a></p> 
+
+<https://tinyawards.net/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-04, from: Miguel de Icaza Mastondon feed)
+
+<p>The Venn diagram of people that use the Oxford comma and put useless private modifiers on c# class members is a perfect circle.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112559313348854312>
+
+---
+
+## 55 Years Ago: Star Trek Final Episode Airs, Relationship with NASA Endures
+
+date: 2024-06-04, from: NASA breaking news
+
+The voyages of the Starship Enterprise came to a sudden and premature end on June 3, 1969, with the airing of the final episode of the Star Trek original television series. Ironically, the show’s cancellation came just six weeks before humanity embarked on its first voyage to land on another celestial body. Although the show [&#8230;] 
+
+<https://www.nasa.gov/history/55-years-ago-star-trek-final-episode-airs-relationship-with-nasa-endures/>
+
+---
+
+##  The Best Podcasts of 2024 So Far, including 99% Invisible&#8217;s series on... 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044747-the-best-podcasts-of-2024>
+
+---
+
+## “OpenAI Insiders Warn of a ‘Reckless’ Race for Dominance”
+
+date: 2024-06-04, from: Gary Marcus blog
+
+Passing along this scoop from Kevin Roose: Roose supplied a gift link: https://x.com/kevinroose/status/1797992577255518480?s=61 The letter itself, cosigned by Bengio, Hinton, and Russell, can be found here https://righttowarn.ai. I fully endorse its four recommendations: 
+
+<https://garymarcus.substack.com/p/openai-insiders-warn-of-a-reckless>
+
+---
+
+##  What cars would the Founding Fathers have driven? &#8220;thomas jefferson would have... 
+
+date: 2024-06-04, updated: 2024-06-04, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044748-what-cars-would-the-found>
+
+---
+
+## FreeBSD 14.1 released
+
+date: 2024-06-04, from: OS News
+
+A new point release in the FreeBSD 14 series &#8211; the first one, in fact, not counting 14.0. FreeBSD 14.1 adds SIMD implementations of string and memory operations on amd64 in the C library to improve performance, improvements to the sound system, such as device hotplug support, and the latest versions of OpenZFS, clang/llvm, and OpenSSH. FreeBSD 14.0 users can just upgrade to FreeBSD 14.1, or you can do a fresh install, of course. 
+
+<https://www.osnews.com/story/139876/freebsd-14-1-released/>
 
 ---
 
@@ -46,6 +334,16 @@ date: 2024-06-04, updated: 2024-06-04, from: Jason Kottke blog
  
 
 <https://kottke.org/24/06/0044746-its-interesting-but-unsur>
+
+---
+
+## Solid State Quantum Magnetometers—Seeking out water worlds from the quantum world
+
+date: 2024-06-04, from: NASA breaking news
+
+“Follow the water!”  The solar system is full of water in different states, from the Sun’s water vapor to the ice of Pluto and beyond. Water is not only linked to the possibility to sustain life, it is also interesting for its own geological properties and potential uses. For example, ice on the Moon and Mars could support human exploration. Comets that hit Earth may have deposited water on our planet. The icy comets and rings of Saturn reveal how solar systems change over time. 
+
+<https://science.nasa.gov/science-research/science-enabling-technology/solid-state-quantum-magnetometers-seeking-out-water-worlds-from-the-quantum-world/>
 
 ---
 
@@ -107,6 +405,16 @@ date: 2024-06-04, updated: 2024-06-04, from: One Foot Tsunami
 
 ---
 
+## Quadruple-Booked
+
+date: 2024-06-04, from: Tedium site
+
+The latest artificial intelligence use cases, like Windows’ Recall and Zoom’s digital twins, appear to be built specifically for managers and executives, and literally nobody else. That’s a problem. 
+
+<https://feed.tedium.co/link/15204/16703350/ai-technology-management-focus>
+
+---
+
 **@Dave Winer's Scripting News** (date: 2024-06-04, from: Dave Winer's Scripting News)
 
 The test for whether it's a podcast or not is if they say you can get it "Wherever you get your podcasts." If they can say that, it's a podcast. If you have to get it from Apple or YouTube or whoever, it's not a podcast. That's the rule. 
@@ -145,7 +453,7 @@ What got me spinning was listening to Rachel Maddow advertise her podcast at the
 
 **@Dave Winer's Scripting News** (date: 2024-06-04, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/01/runner.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If podcasting had a marketing team behind it, we'd run a campaign that says "It's not podcasting if you don't have choice." If you have to use Apple, Audible, Spotify or Google to listen to something that's nice, hope it's good for you but folks that is not a podcast. Podcasts give you the listener all the power. If you give it up it'll all be Disneyfied before too long. It pisses me off that Amazon Music sends me messages about all the new "podcasts" they have. I mutter under my breath when I hear this, some expletive I'd rather not repeat here. Amazon, the users know that podcasting == user choice, and they hate you just a little every time you lie about it. Find another term you like and use that. You have the money to do the market testing. Come on, just once play fair. You'll be surprised how good it feels, and I wouldn't be surprised if the users reward you for it. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/01/runner.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If podcasting had a marketing team behind it, we'd run a campaign that says "It's not podcasting if you don't have choice." If you have to use Apple, Audible, Spotify or Google to listen to something, that's nice, hope it's good for you, but folks that is not a podcast. Podcasts give you the listener all the power. If you give it up it'll all be Disneyfied before too long. It pisses me off that Amazon Music sends me messages about all the new "podcasts" they have. I mutter under my breath when I hear this, some expletive I'd rather not repeat. Amazon, the users know that podcasting == user choice, and they hate you just a little every time you lie about it. Find another term you like and use that. You have the money to do the marketing. Come on, just once play fair. You'll be surprised how good it feels, and I wouldn't be surprised if the users reward you for it. 
 
 <http://scripting.com/2024/06/04.html#a113149>
 
@@ -253,6 +561,56 @@ date: 2024-06-04, from: Gary Marcus blog
 Perhaps no week of AI drama will ever match the week in which Sam got fired and rehired, but the writers for the AI reality series we are all watching just don&#8217;t quit. For one thing, the bad press about Sam Altman and OpenAI, who once seemingly could do no wrong, just keep coming. 
 
 <https://garymarcus.substack.com/p/ai-as-reality-television>
+
+---
+
+## Rebalancing our REST API traffic
+
+date: 2024-06-04, from: Crossref Blog
+
+<p>Since we first launched our REST API around 2013 as a Labs project, it has evolved well beyond a prototype into arguably Crossref’s most visible and valuable service. It is the result of 20,000 organisations around the world that have worked for many years to curate and share metadata about their various resources, from research grants to research articles and other component inputs and outputs of research.</p>
+<p>The REST API is relied on by a large part of the research information community and beyond, seeing around 1.8 billion requests each month. Just five years ago, that average monthly number was 600 million. Our members are the heaviest users, using it for all kinds of information about their own records or picking up connections like citations and other relationships. Databases, discovery tools, libraries, and governments all use the API. Research groups use it for all sorts of things such as analysing trends in science or recording retractions and corrections.</p>
+<p>So the chances are high that almost any tool you rely on in scientific research has somewhere incorporated metadata through us.</p>
+<h2 id="optimising-performance">Optimising performance</h2>
+<p>For some time, we’ve been noticing reduced performance in a number of ways, and periodically we have a flurry of manually blocking/unblocking IP addresses from requesters that are hammering and degrading the service for everyone else, and this is of course only minimally effective and very short term. You can always watch out status page for alerts. This is the current one about REST API performance: <a href="https://status.crossref.org/incidents/d7k4ml9vvswv" target="_blank">https://status.crossref.org/incidents/d7k4ml9vvswv</a>.</p>
+<p>As the number of users and requests has grown, our strategies for serving those requests must evolve. This post discusses how we’re approaching balancing the growth in usage for the immediate term and provides some thoughts about things we could try in the future on which we’ll update gladly take feedback and advice.</p>
+<h3 id="load-balancing">Load balancing</h3>
+<p>In 2018, we started routing users through three different pools (<em>public</em>, <em>polite</em>, and <em>plus</em>). This coincided with the launch of <a href="https://www.crossref.org/services/metadata-retrieval/metadata-plus">Metadata Plus</a>, a paid-for service with monthly data dumps and very high rate limits. Note that all metadata is exactly the same and real-time across all pools. We also, more recently, introduced an <em>internal</em> pool. Here&rsquo;s more about them:</p>
+<ul>
+<li>
+<p><em>Plus</em>: This is the aforementioned premium option; it’s really for ‘enterprise-wide’ use in production services and is not really relevant here.</p>
+</li>
+<li>
+<p><em>Public</em>: This is the default and is the one that is struggling at the moment. You don’t have to identify yourself and, in theory, we don’t have to work through the night to support it if it’s struggling (although we often do). <em>Public</em> currently receives around <strong>30,000</strong> requests per minute.</p>
+</li>
+<li>
+<p><em>Polite</em>: Traffic is routed to <em>polite</em> simply by detecting a mailto in the header. Any system or person including an email is being routed to a currently-quieter pool, this means we can always get in touch for troubleshooting (and only troubleshooting). <em>Polite</em> currently receives around <strong>5,000</strong> requests per minute.</p>
+</li>
+<li>
+<p><em>Internal</em>: In 2021, we introduced a new pool just for our own tools where we can control and predict the traffic. <em>Internal</em> currently receives around <strong>1,000</strong> requests per minute.</p>
+</li>
+</ul>
+<p>The volumes of traffic across <em>public</em>, <em>polite</em> and <em>internal</em> pools are very different and yet each pool has always had similar resources. The purpose of each of these pools has been long-established but our efforts to ask the community to use <em>polite</em> by default have not been particularly successful and it is clear that we don’t have the right balance.</p>
+<p>The <em>internal</em> pool has been dedicated to our internal services that have predictable usage and that have requests that are not initiated by external users. The <em>internal</em> pool has arbitrarily included reference matching but not Crossmark, Event Data, or search.crossref.org, which all use the <em>polite</em> pool instead, along with the community. We have the capacity on the <em>internal</em> pool to shift all of this “internal” traffic across, and in doing so we will create more capacity for genuine <em>polite</em> users and redefine what we consider to be “internal”.</p>
+<p>Creating more capacity on <em>polite</em> will also give us the opportunity to load-balance requests to both <em>polite</em> and <em>public</em> across the two pools. We are at a point where we cannot eke more performance out of the API without architectural changes. In order to buy ourselves time to address this properly, we will modify the routing of <em>polite</em> and <em>public</em> and evenly distribute requests to the two pools 50/50.</p>
+<p>The <em>public</em> and <em>polite</em> pools have equal resources at the moment yet handle very different volumes of traffic (30,000 req/min vs 5,000 req/min), and with the proposed changes to internal traffic the <em>polite</em> pool would handle a fraction of this. The result would look something like 31,000 req/min evenly distributed across <em>public</em> and <em>polite</em>.</p>
+<h3 id="rate-limiting">Rate limiting</h3>
+<p>Our rate-limiting also needs review. We track a number of metrics in our web proxy but only deny requests on one of them - the number of requests per second. On <em>public</em> and <em>polite</em> we limit each IP address to sending 50 req/sec and if this rate is exceeded users are denied access for 10 seconds. These limits are generous and we cannot realistically support this volume of request for all users of the <em>public</em> or <em>polite</em> API.</p>
+<p>However, when requests are taking a long time to return, we potentially have a separate problem of high concurrency as hundreds of requests could be sent before the first one has returned. We intend to identify and impose an appropriate rate limit on concurrent requests from each IP to prevent a small number of users from disproportionately affecting all users with long-running queries.</p>
+<h3 id="longer-term">Longer-term</h3>
+<p>So, in the short-term we will revise our pool traffic as described above. We’ll do that this week. Then we will review the current rate limits and reduce them to something more reasonable for the majority of users. And we’ll identify and introduce a rate limit for concurrent requests from each user.</p>
+<p>Longer-term, we need to rearchitect our Elasticsearch pools so that we can:</p>
+<ul>
+<li>Reduce shard sizes to improve performance of queries</li>
+<li>Balance data shards and replicas more evenly</li>
+<li>Optimise our instance types for our workload</li>
+</ul>
+<h2 id="want-to-help">Want to help?</h2>
+<p>Thanks for asking!</p>
+<p>Firstly, please, everyone, do always put an email in your API request headers - while the short term plan will help stabilise performance, this habit will always help us troubleshoot e.g. we can always contact you instead of blocking you!</p>
+<p>Secondly, we know many of you incorporate Crossref metadata, add lots of value to it in order to deliver important services, and also develop APIs of your own. We’d love any comments or recommendations from those of you handling similar situations on scaling and optimising API performance. You can comment on this post which is managed via our Discourse forum. We’ll aslo be adding updates to this thread as well as on status.crossref.org. If you’d like to be in touch with any of us directly, all our emails are <a href="mailto:firstinitiallastname@crossref.org">firstinitiallastname@crossref.org</a>.</p> 
+
+<https://www.crossref.org/blog/rebalancing-our-rest-api-traffic/>
 
 ---
 
@@ -849,6 +1207,16 @@ The act of discarding a message that does not exist must therefore do one of two
 The worst part about having a felon in the White House is that he's probably committing felonies while he's in the freaking White House. 
 
 <http://scripting.com/2024/06/02.html#a143128>
+
+---
+
+## The Bargain Bin Evolves
+
+date: 2024-06-02, from: Tedium site
+
+Thoughts on modern commerce from going to a bin store. It’s a place where e-commerce returns go to die. 
+
+<https://feed.tedium.co/link/15204/16700690/daabin-bin-store-retail-ecommerce-returns>
 
 ---
 

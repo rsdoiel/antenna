@@ -1,11 +1,71 @@
 ---
 title: motorcycles 2024.23
-updated: 2024-06-04 08:11:52
+updated: 2024-06-04 15:10:10
 ---
 
 # motorcycles 2024.23
 
-(date: 2024-06-04 08:11:52)
+(date: 2024-06-04 15:10:10)
+
+---
+
+## Yamaha Outdoor Access Initiative Reaches Milestone with 500th Grant
+
+date: 2024-06-04, from: Cycle World News
+
+Yamaha Motor Corp., USA, announces its Yamaha Outdoor Access Initiative (OAI) awarded 500 grants nationwide, reinforcing its status as the leading supporter of public land access in the powersports industry. 
+
+<https://www.cycleworld.com/the-wire/yamaha-outdoor-access-initiative-reaches-milestone-with-500th-grant/>
+
+---
+
+## Bagnaia Gains Ground at Mugello
+
+date: 2024-06-04, from: Cycle World News
+
+Francesco Bagnaia takes the win in Mugello ahead of Ducati teammate Enea Bastianini. Point lead Jorge Martín finishes third. 
+
+<https://www.cycleworld.com/motorcycle-racing/mugello-motogp-race-report-2024/>
+
+---
+
+## Suzuki Developing Electric Motocrosser
+
+date: 2024-06-04, from: Cycle World News
+
+Unlike their street-oriented counterparts, electric MXers make a lot more sense. Suzuki appears to be headed down that path with a model of its own. 
+
+<https://www.cycleworld.com/motorcycle-news/suzuki-developing-electric-motocrosser/>
+
+---
+
+## Suzuki V-Strom 800DE Rally Racer Project
+
+date: 2024-06-04, from: Cycle World News
+
+We built the most extreme V-Strom 800DE in search of rally glory that was inspired by Suzuki’s DR Big Paris-Dakar racer from the early ’90s. 
+
+<https://www.cycleworld.com/bikes/suzuki-v-strom-800de-rally-racer-project/>
+
+---
+
+## Indian Motorcycle Factory Rider Troy Herfoss Goes 1-2 at Road America, Leads King of The Baggers Championship Standings
+
+date: 2024-06-04, from: Cycle World News
+
+Three-Time Australian Superbike Champion Troy Herfoss Continues Remarkable Performance Aboard S&S Indian Challenger, Secures Fourth Victory of Season. 
+
+<https://www.cycleworld.com/the-wire/indian-motorcycle-factory-rider-troy-herfoss-goes-1-2-at-road-america/>
+
+---
+
+## Harley-Davidson Factory Racer Kyle Wyman Sets a New King of the Baggers Track Record and Wins Race Two at Road America
+
+date: 2024-06-04, from: Cycle World News
+
+Harley-Davidson Factory Racing rider Kyle Wyman used his masterful race craft and Harley-Davidson horsepower to score a dramatic victory on Sunday in MotoAmerica. 
+
+<https://www.cycleworld.com/the-wire/harley-davidson-factory-racer-kyle-wyman-sets-new-king-of-the-baggers-track-record-and-wins-race-two-at-road-america/>
 
 ---
 

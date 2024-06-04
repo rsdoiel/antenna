@@ -1,11 +1,64 @@
 ---
 title: pacific 2024.23
-updated: 2024-06-04 08:11:51
+updated: 2024-06-04 15:10:09
 ---
 
 # pacific 2024.23
 
-(date: 2024-06-04 08:11:51)
+(date: 2024-06-04 15:10:09)
+
+---
+
+## Passing the torch
+
+date: 2024-06-04, from: Pacific Island Times
+
+Today, random thoughts. I remember introducing a bill to restrict the size of campaign signs. My motivation was to protect the trees. It... 
+
+<https://www.pacificislandtimes.com/post/passing-the-torch>
+
+---
+
+## Climate change and culture wars
+
+date: 2024-06-04, from: Pacific Island Times
+
+Majuro—When I was a young boy growing up in Pennsylvania, I had a beagle named Bébé. She slept with me, head on pillow, and faithfully... 
+
+<https://www.pacificislandtimes.com/post/climate-change-and-culture-wars>
+
+---
+
+## An Endemic Way of Life, Part 1: Coming to Juan Fernandez
+
+date: 2024-06-04, from: Island Conservation News
+
+<p>Part 1 of filmmaker Cece King's reflection on her time on Juan Fernandez Island in Chile, learning about conservation and community!</p>
+<p>The post <a href="https://www.islandconservation.org/an-endemic-way-of-life-part-1-coming-to-juan-fernandez/">An Endemic Way of Life, Part 1: Coming to Juan Fernandez</a> appeared first on <a href="https://www.islandconservation.org">Island Conservation</a>.</p>
+ 
+
+<https://www.islandconservation.org/an-endemic-way-of-life-part-1-coming-to-juan-fernandez/>
+
+---
+
+## UH among 15 colleges to launch Google Cybersecurity Clinics
+
+date: 2024-06-04, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Students will learn cybersecurity skills to protect vulnerable organizations and infrastructure in the state of <span aria-label="Hawaii">Hawai&#699;i</span></p>
+The post <a href="https://www.hawaii.edu/news/2024/06/04/uh-to-launch-google-cybersecurity-clinics/"><abbr>UH</abbr> among 15 colleges to launch Google Cybersecurity Clinics</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/04/uh-to-launch-google-cybersecurity-clinics/>
+
+---
+
+## 'We can control our destiny:' Micronesia Islands Forum 2024 concludes 
+
+date: 2024-06-04, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Micronesia Islands Forum (MIF) 2024 concluded Tuesday with leaders committing to unity to navigate... 
+
+<https://www.pacificislandtimes.com/post/we-can-control-our-destiny-micronesia-islands-forum-2024-concludes>
 
 ---
 
@@ -333,6 +386,18 @@ date: 2024-06-04, from: Island Times
 
 ---
 
+## Traffic fatality on Waikoloa Road
+
+date: 2024-06-04, from: Hawaii Tribune Harold
+
+
+				<p>A 27-year-old Waikoloa man died in a single vehicle collision Tuesday near the 5-mile marker on Waikoloa Road (Highway 191), which is located in Waikoloa, Hawaii.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/04/hawaii-news/traffic-fatality-on-waikoloa-road/>
+
+---
+
 ## Woman Found Stabbed After Car Crash in Meyuns Dies at Hospital
 
 date: 2024-06-04, from: Island Times
@@ -419,6 +484,106 @@ date: 2024-06-04, from: Island Times
 
 ---
 
+## 30-day comment period starts for proposed missile defense testing
+
+date: 2024-06-04, from: Guam Daily Post
+
+Monday marked the start of a 30-day public comment period for a proposed final Environmental Assessment/Overseas Environmental Assessment and proposed Finding of No Significant Impact for missile defense flight tests or target tracking exercises to be conducted from Andersen Air… 
+
+<https://www.postguam.com/news/local/30-day-comment-period-starts-for-proposed-missile-defense-testing/article_fd94785a-2219-11ef-8519-d30ac8128d80.html>
+
+---
+
+## Applications being accepted for Doc Sanchez scholarship
+
+date: 2024-06-04, from: Guam Daily Post
+
+The University of Guam School of Business and Public Administration has announced in a press release that applications are now being accepted for the Pedro "Doc" C. Sanchez Professional Scholarship for employees of the government of Guam intending to enroll… 
+
+<https://www.postguam.com/news/local/applications-being-accepted-for-doc-sanchez-scholarship/article_195cb0fa-2221-11ef-9f14-736dbaf268cc.html>
+
+---
+
+## Regional leaders join together at Micronesian Islands Forum
+
+date: 2024-06-04, from: Guam Daily Post
+
+On Monday, the first day of the Micronesian Islands Forum, the room at the Hyatt Regency Guam was filled with representatives and elected leaders from Guam, the Commonwealth of the Northern Mariana Islands, the Federated States of Micronesia - Chuuk,… 
+
+<https://www.postguam.com/news/local/regional-leaders-join-together-at-micronesian-islands-forum/article_1f38fa22-21a6-11ef-b527-db4b43b647f2.html>
+
+---
+
+## Cannabis testing exemption, other measures not addressed in session
+
+date: 2024-06-04, from: Guam Daily Post
+
+Although lawmakers passed a number of measures this last session, including a six-month extension to Guam's long-standing energy credit program, one measure that wasn't addressed, despite being on the session agenda was a bill that would exempt cannabis-related businesses from… 
+
+<https://www.postguam.com/news/local/cannabis-testing-exemption-other-measures-not-addressed-in-session/article_d88971ea-2148-11ef-8e3e-0b6310594581.html>
+
+---
+
+## Dolphins 2024 graduation
+
+date: 2024-06-04, from: Guam Daily Post
+
+The Southern High School, home of the Dolphins, Class of 2024, celebrates graduation at the University of Guam Field House on Monday, June 3, 2024. 
+
+<https://www.postguam.com/island_life/dolphins-2024-graduation/article_78f05bb2-21a3-11ef-8c0f-f3c0dc7a65ed.html>
+
+---
+
+## Repwak asserts speedy trial right in 4 cases
+
+date: 2024-06-04, from: Guam Daily Post
+
+A man suspected of being involved in several violent incidents in the past month and a half has asserted his right to a speedy trial in four separate felony cases. 
+
+<https://www.postguam.com/news/local/repwak-asserts-speedy-trial-right-in-4-cases/article_a59e0d0a-222d-11ef-92e5-479406a412b7.html>
+
+---
+
+## GDOE accredited districtwide
+
+date: 2024-06-04, from: Guam Daily Post
+
+The Guam Department of Education has been awarded accreditation for six years for all grade levels by the Accrediting Commission for Schools, Western Association of Schools and Colleges. 
+
+<https://www.postguam.com/news/local/gdoe-accredited-districtwide/article_10bd684e-2169-11ef-b87a-1ffa4ae465ee.html>
+
+---
+
+## No word on DODEA buying GDOE school
+
+date: 2024-06-04, from: Guam Daily Post
+
+The Department of Defense Education Activity buying an unused public school facility in anticipation of an influx of military dependents, namely children, may not happen. 
+
+<https://www.postguam.com/news/local/no-word-on-dodea-buying-gdoe-school/article_462a26d6-2158-11ef-8d15-77b046c3ccc9.html>
+
+---
+
+## Man allegedly assaults police officers while 'high on meth'
+
+date: 2024-06-04, from: Guam Daily Post
+
+A man allegedly assaulted two Guam Police Department officers after being suspected of smashing a car windshield with a rock while high on methamphetamine. 
+
+<https://www.postguam.com/news/local/man-allegedly-assaults-police-officers-while-high-on-meth/article_642f9b70-2162-11ef-a25a-ef6ba35e490d.html>
+
+---
+
+## Unsealed: Mantanona discussed drug shipment with GPD personnel
+
+date: 2024-06-04, from: Guam Daily Post
+
+A recently unsealed application for a warrant revealed another Guam Police Department officer communicated with John "Boom" Mantanona about alleged drug trafficking activities. 
+
+<https://www.postguam.com/news/local/unsealed-mantanona-discussed-drug-shipment-with-gpd-personnel/article_e2dca7f4-2164-11ef-8cc3-6f51ca5a22af.html>
+
+---
+
 ## COURAGE
 
 date: 2024-06-04, from: Island Times
@@ -453,6 +618,16 @@ date: 2024-06-04, from: Island Times
  
 
 <https://islandtimes.org/letter-to-the-editor-9/>
+
+---
+
+## DOA: GDOE school project documentation short of standard
+
+date: 2024-06-04, from: Guam Daily Post
+
+Mold mitigation and fencing projects for the island's public schools remain pending a little more than a year after Typhoon Mawar made landfall on Guam, but according to the Department of Administration, the Guam Department of Education had not turned… 
+
+<https://www.postguam.com/news/doa-gdoe-school-project-documentation-short-of-standard/article_bbeb018e-221a-11ef-988c-bbeb87e01877.html>
 
 ---
 

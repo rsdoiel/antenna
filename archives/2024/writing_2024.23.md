@@ -1,11 +1,54 @@
 ---
 title: writing 2024.23
-updated: 2024-06-04 08:11:52
+updated: 2024-06-04 15:10:10
 ---
 
 # writing 2024.23
 
-(date: 2024-06-04 08:11:52)
+(date: 2024-06-04 15:10:10)
+
+---
+
+## MaryAnn Harris (1953-2024)
+
+date: 2024-06-04, from: Locus Magazine
+
+<p>Artist, author, and musician MaryAnn Harris, 71, died June 3, 2024 after a long struggle with the Powassan virus. Harris was married to author Charles de Lint and was his frequent collaborator as manager, editor, and illustrator.</p>
+<p>Harris was born in Ottawa, Ontario, Canada. She met de Lint in 1974, and they married in 1980. She served as de Lint&#8217;s business manager and first editor, and created the cover art  <a href="https://locusmag.com/2024/06/maryann-harris-1953-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/maryann-harris-1953-2024/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-04, from: Neil Gaiman @ BlueSky)
+
+Seeing all the firefly conversations, I thought I would put up this song for anyone who misses it or hasn't heard it ever. 
+
+https://youtu.be/OKXkVUM4xu8?si=rk-1vco1oV4rftyg 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ku4dyvbhlb2v>
+
+---
+
+## Colleen Mondor Reviews River Mumma by Zalika Reid-Benta
+
+date: 2024-06-04, from: Locus Magazine
+
+<p><strong>River Mumma</strong>, Zalika Reid-Benta (Penguin Canada 978-0-73524-476-4, C$24.95, 256pp, tp) August 2023. (Erewhon 978-1-645-66135-1, $27.00, 284pp, hc) March 2024. Cover by Rebecca Farrin.</p>
+<p>So there you are, grad school completed, back home with degree in hand, and all your hopes and dreams must be shelved because the only job you can get entails a lot of folding clothes, cleaning up fitting rooms, and greeting bored customers. This is the  <a href="https://locusmag.com/2024/06/colleen-mondor-reviews-river-mumma-by-zalika-reid-benta/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/colleen-mondor-reviews-river-mumma-by-zalika-reid-benta/>
+
+---
+
+## The Third Season
+
+date: 2024-06-04, from: John August blog
+
+John welcomes Meredith Scardino (Girls5eva) and Jen Statsky (Hacks) to discuss the highs and lows of writing the third season of a hit comedy. But how do you push a series forward without violating the premise or retreading familiar terrain? Are the shows still the shows they pitched? How has streaming changed since their shows [&#8230;]
+The post <a href="https://johnaugust.com/2024/the-third-season">The Third Season</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/the-third-season>
 
 ---
 

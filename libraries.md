@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.23
-updated: 2024-06-04 08:11:52
+updated: 2024-06-04 15:10:10
 ---
 
 # libraries 2024.23
 
-(date: 2024-06-04 08:11:52)
+(date: 2024-06-04 15:10:10)
+
+---
+
+## Day in Review (June 3–6)
+
+date: 2024-06-04, from: Association of Research Libraries News
+
+<p>Last Updated on June 4, 2024, 3:51 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 4 &#124; Wednesday, June 5 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-june-3-6/">Day in Review (June 3–6)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/day-in-review/day-in-review-june-3-6/>
 
 ---
 
