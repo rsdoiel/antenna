@@ -1,11 +1,71 @@
 ---
 title: games 2024.23
-updated: 2024-06-04 15:10:10
+updated: 2024-06-05 08:49:09
 ---
 
 # games 2024.23
 
-(date: 2024-06-04 15:10:10)
+(date: 2024-06-05 08:49:09)
+
+---
+
+## The best action movies of the year so far
+
+date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24091121/best-action-movies-2024-watch>
+
+---
+
+## The Acolyte gives Jedi a blurry line between Star Wars’ Light and Dark sides
+
+date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/star-wars/24171654/star-wars-acolyte-series-jedi-sol-force-powers-mind-reading>
+
+---
+
+## It’s freaky anime gremlin girl summer
+
+date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/anime/24171470/dungeon-meshi-apothecary-diaries-gremlin-girls>
+
+---
+
+## Foundry Virtual Tabletop takes the online play experience to the next level
+
+date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/tabletop-games/24170422/foundry-virtual-tabletop-interview-explainer-immersive>
+
+---
+
+## The Acolyte’s best mystery is about how to murder a Jedi, not who did
+
+date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/star-wars/24171592/star-wars-acolyte-kill-jedi-mae-sith-master-no-weapon>
+
+---
+
+## The Acolyte’s High Republic gives Star Wars a totally new timeline to play with
+
+date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/star-wars/24171372/star-wars-high-republic-acolyte-when-timeline-what>
 
 ---
 

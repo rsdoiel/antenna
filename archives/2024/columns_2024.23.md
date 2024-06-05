@@ -1,11 +1,215 @@
 ---
 title: columns 2024.23
-updated: 2024-06-04 15:10:09
+updated: 2024-06-05 08:49:09
 ---
 
 # columns 2024.23
 
-(date: 2024-06-04 15:10:09)
+(date: 2024-06-05 08:49:09)
+
+---
+
+## Quite the Postscript
+
+date: 2024-06-05, updated: 2024-06-05, from: Daring Fireball
+
+ 
+
+<https://www.businessinsider.com/justin-long-promotes-huawei-android-phones-2017-1>
+
+---
+
+##  &#8220;The 25 Photos That Defined the Modern Age&#8221; 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/the-25-photos-that-defined-the-modern-age>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-05, from: Dave Winer's Scripting News)
+
+We could bridge RSS and ActivityPub and get a lot more interop quickly. 
+
+<http://scripting.com/2024/06/05.html#a151856>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-05, from: Dave Winer's Scripting News)
+
+Jon Stewart from this Monday is good to watch as a reminder of what the press could be doing beyond what Jay Rosen recommends (which is on the right track). They could be playing the same role that the 12 jurors in NYC did. I'd love to see a requirement that every moderator of a major news show in the US do jury duty for a couple of weeks a year, to keep them aware of the standard that should also apply to news, not just justice. 
+
+<http://scripting.com/2024/06/05.html#a151218>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-05, from: Dave Winer's Scripting News)
+
+It's amazing how well Comey's rep has been laundered, but I'll never forget that his CYA move re Hillary's emails at the every end of the 2016 campaign, knocked Hillary off her game, she never recovered and we had four years of Trump and maybe more as a result. He should not get to be an authority on democracy at this point. There has been no apology, or regret expressed. 
+
+<http://scripting.com/2024/06/05.html#a151023>
+
+---
+
+##  How the invention of dynamite, anarchists, library science, and J. Edgar Hoover... 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044744-how-the-invention-of-dyna>
+
+---
+
+## Online Privacy and Overfishing
+
+date: 2024-06-05, updated: 2024-06-04, from: Bruce Schneier blog
+
+<p><a href="https://spectrum.ieee.org/tag/microsoft">Microsoft</a> recently <u><a href="https://www.reuters.com/technology/cybersecurity/microsoft-says-it-caught-hackers-china-russia-iran-using-its-ai-tools-2024-02-14/">caught state-backed hackers</a></u> using its generative AI tools to help with their attacks. In the security community, the immediate questions weren&#8217;t about how hackers were using the tools (that was utterly predictable), but about how Microsoft figured it out. The natural conclusion was that Microsoft was spying on its AI users, looking for harmful hackers at work.</p>
+<p>Some <a href="https://news.ycombinator.com/item?id=39442429">pushed back</a> at characterizing Microsoft&#8217;s actions as &#8220;spying.&#8221; Of <em>course</em> cloud service providers monitor what users are doing. And because we expect Microsoft to be doing something like this, it&#8217;s not fair to call it spying...</p> 
+
+<https://www.schneier.com/blog/archives/2024/06/online-privacy-and-overfishing.html>
+
+---
+
+## Genesis: fertility
+
+date: 2024-06-05, from: Ayjay blog
+
+If the defining axes of Genesis 1–11 were making/naming and commanding/disobeying, those of the Patriarchal narratives are fertility/barrenness and pastoral/urban. Over and over again the LORD promises fertility to the barren, and to the childless a multitude of descendants. The primary sign of the LORD’s covenant with the children of Abraham is circumcision, the marking [&#8230;] 
+
+<https://blog.ayjay.org/genesis-fertility/>
+
+---
+
+## Is Microsoft trying to commit suicide?
+
+date: 2024-06-05, updated: 2024-06-05, from: Charlie's Diary
+
+The breaking tech news this year has been the pervasive spread of "AI" (or rather, statistical modeling based on hidden layer neural networks) into everything. It's the latest hype bubble now that Cryptocurrencies are no longer the freshest sucker-bait in... 
+
+<http://www.antipope.org/charlie/blog-static/2024/06/is-microsoft-trying-to-commit-.html>
+
+---
+
+## The Trump-Musk Thugocracy
+
+date: 2024-06-05, from: Robert Reich's blog
+
+Why do so many Americans support these super bullies? 
+
+<https://robertreich.substack.com/p/the-trump-musk-thugocracy>
+
+---
+
+## Office Hours: Why is the world drifting toward authoritarianism and neofascism?
+
+date: 2024-06-05, from: Robert Reich's blog
+
+And what can be done about it? 
+
+<https://robertreich.substack.com/p/office-hours-why-is-the-world-drifting>
+
+---
+
+## Equal systems mean better systems
+
+date: 2024-06-05, from: Tracy Durnell Blog
+
+This *should* apply to problems, too. For some reason, the wealthy seem to believe they can protect themselves from the impacts of climate change &#8212; but no one can buy nicer weather. Even jetting from location to location, following decent weather, doesn&#8217;t really save you because then you waste a bunch of your life flying and [&#8230;] 
+
+<https://tracydurnell.com/2024/06/04/equal-systems-mean-better-systems/>
+
+---
+
+## June 4, 2024
+
+date: 2024-06-05, from: Heather Cox Richardson blog
+
+The Gettysburg Address it wasn&#8217;t. Seventy-seven years ago, on June 5, 1947, Secretary of State George C. Marshall, who had been a five-star general in World War II, gave a commencement speech at Harvard University. Rather than stirring, the speech was bland. Its long sentences were hard to follow. It was vague. And yet, in just under eleven minutes on a sunny afternoon, Marshall laid out a plan that would shape the modern world. 
+
+<https://heathercoxrichardson.substack.com/p/june-4-2024>
+
+---
+
+## ★ Now Qualcomm Went Long
+
+date: 2024-06-05, updated: 2024-06-05, from: Daring Fireball
+
+The core genius at the heart of the original “Get a Mac” campaign is that while Long’s Mac character was likable, John Hodgman’s PC — ostensibly the foil — was lovable. 
+
+<https://daringfireball.net/2024/06/now_qualcomm_went_long>
+
+---
+
+## Apple Held Talks With China Mobile to Bring Apple TV+ to China
+
+date: 2024-06-05, updated: 2024-06-05, from: Daring Fireball
+
+ 
+
+<https://www.theinformation.com/articles/apple-held-talks-with-china-mobile-to-bring-apple-tv-to-china?rc=jfy0lk>
+
+---
+
+## Wednesday 5 June, 2024
+
+date: 2024-06-04, from: John Naughton's online diary
+
+First rose of Summer? Quote of the Day ”The New York Times now generates more time on-site and profit from word games than they do from news. You wouldn’t know that from their staffing or the conversations they have.” Seth &#8230; <a href="https://memex.naughtons.org/wednesday-5-june-2024/39512/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-5-june-2024/39512/>
+
+---
+
+## Jon Stewart Would Like A Word
+
+date: 2024-06-04, from: Dan Rather's Steady
+
+Good advice for young voters feeling election anxiety 
+
+<https://steady.substack.com/p/jon-stewart-would-like-a-word>
+
+---
+
+## 2024-06-01 Fonts are important
+
+date: 2024-06-04, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-01-fonts-are-important">2024-06-01 Fonts are important</h1>
+
+<p>I was thinking about writing a simple editor again. The <a href="https://smallandnearlysilent.com/">Small and Nearly Silent</a> web app by <a class="account" href="https://tenforward.social/@eli_oat" title="@eli_oat@tenforward.social">@eli_oat</a> is beautiful because it mixes text and line drawings. I often feel that I&rsquo;d like a simple path-based SVG-like drawing ability, like <a href="https://akkartik.name/lines.html">lines</a>, by <a class="account" href="https://merveilles.town/@akkartik" title="@akkartik@merveilles.town">@akkartik</a>. Some lines, some control points, some curves, filling stuff with patterns… I don&rsquo;t know whether I&rsquo;d actually use it, but it&rsquo;s alluring.</p>
+
+<p>The whole <a href="https://wiki.xxiivv.com/site/uxn.html">uxn</a> ecosystem with many different small tools is also quite alluring. Unfortunately, it&rsquo;s also a bit hard to get into an existing ecosystem like that. I still feel that if spent a while writing something myself, it&rsquo;d feel more like it was &ldquo;mine&rdquo;. I&rsquo;d just understand it better. I just don&rsquo;t know if I&rsquo;m ready to spend that much time on it, or if I&rsquo;d even be able to pull it off. So that&rsquo;s why I wavering at the same time that I&rsquo;m fascinated.</p>
+
+<p>Given all that, I was thinking about Gforth and found <a href="https://github.com/JeremiahCheatham/Gforth-SDL2-Bindings/">SDL2 Bindings for Gforth</a>, and I found the example <a href="https://github.com/JeremiahCheatham/Yellow-Snow">Yellow Snow</a> game using this library, I tried to compile it and Gforth complained about the missing headers. No problem, I thought to myself. I know what to do: <code>sudo apt install libsdl2-ttf-dev libsdl2-image-dev libsdl2-mixer-dev</code> – but the mixer results in <a href="https://doc.sccode.org/">SuperCollider</a> getting deinstalled. Oh no!</p>
+
+<p>So now I&rsquo;m once again thinking about the thing I actually want to do. Do I want to build an Emacs light? A simple line-based text editor like <code>ed</code> but with more features? An editor that only runs inside a terminal, like <code>kilo</code> or <code>mini</code>? See <a href="2018-03-12_Writing_an_Editor">2018-03-12 Writing an Editor</a> for more. Or would it be an editor with a GUI? Would it work only with X11? Or would it be based on SDL?</p>
+
+<p>I feel like an editor with a minimal GUI would be nice. I don&rsquo;t think I need a menu, but I think I&rsquo;d like a way to scale font size up and down, UTF-8 support to write German and Portuguese, basically render Markdown and some simple variant of SVG, inline. I feel like that&rsquo;s why I need to start with graphics and font support. Otherwise I&rsquo;ll end up with something like <a href="https://git.sr.ht/~m15o/grid/">grid</a>: a cool <a href="https://plan9.io/wiki/plan9/using_acme/index.html">ACME</a>-inspired text editor, but it would only really works for English.</p>
+
+<p><a class="tag" href="/search/?q=%23Editor">#Editor</a></p>
+
+<p><strong>2024-06-04</strong>. Thinking about Go and the <a href="https://github.com/hibiken/mini">mini</a> editor.
+It runs in a terminal. So what would it take to turn it into a graphical editor with fonts, ligatures, bidirectional text, font-sizes, and all of that?</p>
+
+<p><a href="https://github.com/go-text/typesetting">go-text/typesetting</a> is a library that&rsquo;s used by <a href="https://fyne.io">Fyne</a>, <a href="https://gioui.org">Gio</a>, and <a href="https://ebitengine.org">Ebitengine</a>. So perhaps one of these frameworks?</p>
+
+<p>Fyne has a <a href="https://apps.fyne.io/apps/com.fynelabs.notes.html">Notes</a> example application.
+It looks like a nice, simple app. When I built it, however, it didn&rsquo;t work.
+Is it because I&rsquo;m on Wayland? I don&rsquo;t know.</p>
+
+<p>Gio is used by <a href="https://anvil-editor.net/">Anvil</a>, an ACME-like editor with many features.
+In fact, it already looks like it has too many features for me to start building something.
+I wonder. Perhaps those are the right features? I just can&rsquo;t warm up to using the mouse all that much.</p>
+
+<p>Ebitengine has a <a href="https://ebitengine.org/en/examples/font.html">Font</a> example.
+It just shows how one loads a font for a number of code-points and that&rsquo;s that.
+An interesting way to load a font, for sure.</p> 
+
+<https://alexschroeder.ch/view/2024-06-01-editor>
 
 ---
 
@@ -21,7 +225,7 @@ date: 2024-06-04, updated: 2024-06-04, from: Jason Kittke's blog
 
 ## Elon Musk Told Nvidia to Ship AI Chips Reserved for Tesla to X
 
-date: 2024-06-04, updated: 2024-06-04, from: Daring Fireball
+date: 2024-06-04, updated: 2024-06-05, from: Daring Fireball
 
  
 
@@ -217,10 +421,10 @@ What got me spinning was listening to Rachel Maddow advertise her podcast at the
 
 ## Breaking a Password Manager
 
-date: 2024-06-04, updated: 2024-05-31, from: Bruce Schneier blog
+date: 2024-06-04, updated: 2024-06-05, from: Bruce Schneier blog
 
 <p>Interesting <a href="https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/">story</a> of breaking the security of the RoboForm password manager in order to recover a cryptocurrency wallet password.</p>
-<blockquote><p>Grand and Bruno spent months reverse engineering the version of the RoboForm program that they thought Michael had used in 2013 and found that the pseudo-random number generator used to generate passwords in that version­and subsequent versions until 2015­did indeed have a significant flaw that made the random number generator not so random. The RoboForm program unwisely tied the random passwords it generated to the date and time on the user’s computer­it determined the computer’s date and time, and then generated passwords that were predictable. If you knew the date and time and other parameters, you could compute any password that would have been generated on a certain date and time in the past...</p></blockquote> 
+<blockquote><p>Grand and Bruno spent months reverse engineering the version of the RoboForm program that they thought Michael had used in 2013 and found that the pseudo-random number generator used to generate passwords in that version&#8212;­and subsequent versions until 2015­&#8212;did indeed have a significant flaw that made the random number generator not so random. The RoboForm program unwisely tied the random passwords it generated to the date and time on the user’s computer­&#8212;it determined the computer’s date and time, and then generated passwords that were predictable. If you knew the date and time and other parameters, you could compute any password that would have been generated on a certain date and time in the past...</p></blockquote> 
 
 <https://www.schneier.com/blog/archives/2024/06/breaking-a-password-manager.html>
 

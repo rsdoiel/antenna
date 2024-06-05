@@ -1,11 +1,34 @@
 ---
 title: libraries 2024.23
-updated: 2024-06-04 15:10:10
+updated: 2024-06-05 08:49:09
 ---
 
 # libraries 2024.23
 
-(date: 2024-06-04 15:10:10)
+(date: 2024-06-05 08:49:09)
+
+---
+
+## Pedagogical practices for student retention
+
+date: 2024-06-05, from: SciELO in Perspective
+
+<p>Professional education has been undergoing transformations, so schools are challenged to re-signify the way they maintain a link with society. Student dropout is one of the major problems faced, and pedagogical practices are aimed at getting students more involved with the institution. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://humanas.blog.scielo.org/en/2024/06/05/pedagogical-practices-for-student-retention/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://humanas.blog.scielo.org/en/2024/06/05/pedagogical-practices-for-student-retention/#new_tab">Pedagogical practices for student retention</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://humanas.blog.scielo.org/en/2024/06/05/pedagogical-practices-for-student-retention/#new_tab>
+
+---
+
+## Can Parents in Academia “Have it All”?
+
+date: 2024-06-05, from: Scholarly Kitchen
+
+<p>How can academia better accommodate the diverse needs of parents striving to balance their research pursuits with family responsibilities?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/06/05/can-parents-in-academia-have-it-all/">Can Parents in Academia “Have it All”?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/06/05/can-parents-in-academia-have-it-all/>
 
 ---
 

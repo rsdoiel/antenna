@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.23
-updated: 2024-06-04 15:10:09
+updated: 2024-06-05 08:49:08
 ---
 
 # mid central 2024.23
 
-(date: 2024-06-04 15:10:09)
+(date: 2024-06-05 08:49:08)
+
+---
+
+## Elevating embedded systems with I3C
+
+date: 2024-06-05, from: EDN Blog
+
+<img width="2100" height="841" src="https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?fit=2100%2C841" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=2100 2100w, https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=1900 1900w" sizes="(max-width: 2100px) 100vw, 2100px" /><p>Understanding the features of I3C and how it can be implemented in modern embedded systems from IoT devices to datacenter computers.</p>
+<p>The post <a href="https://www.edn.com/elevating-embedded-systems-with-i3c/" data-wpel-link="internal">Elevating embedded systems with I3C</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/elevating-embedded-systems-with-i3c/>
 
 ---
 
@@ -31,12 +43,12 @@ date: 2024-06-04, from: Blue Devil News (Merced Community College Student Newspa
 
 ---
 
-## Image sensor embeds AI to explore image data
+## Image sensor embeds AI to explore visual data
 
 date: 2024-06-04, from: EDN Blog
 
-<img width="600" height="307" src="https://www.edn.com/wp-content/uploads/Hero-image-image-sensor.jpg?fit=600%2C307" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-image-sensor.jpg?w=600 600w, https://www.edn.com/wp-content/uploads/Hero-image-image-sensor.jpg?w=300 300w" sizes="(max-width: 600px) 100vw, 600px" /><p>A new image sensor design combines hybrid bonding with high-density through silicon via to integrate various components.</p>
-<p>The post <a href="https://www.edn.com/image-sensor-embeds-ai-to-explore-image-data/" data-wpel-link="internal">Image sensor embeds AI to explore image data</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+<img width="600" height="307" src="https://www.edn.com/wp-content/uploads/Hero-image-image-sensor.jpg?fit=600%2C307" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-image-sensor.jpg?w=600 600w, https://www.edn.com/wp-content/uploads/Hero-image-image-sensor.jpg?w=300 300w" sizes="(max-width: 600px) 100vw, 600px" /><p>A new image sensor design combines hybrid bonding with high-density through silicon via to integrate various components.</p>
+<p>The post <a href="https://www.edn.com/image-sensor-embeds-ai-to-explore-image-data/" data-wpel-link="internal">Image sensor embeds AI to explore visual data</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
 <https://www.edn.com/image-sensor-embeds-ai-to-explore-image-data/>

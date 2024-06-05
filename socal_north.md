@@ -1,11 +1,195 @@
 ---
 title: socal north 2024.23
-updated: 2024-06-04 15:10:09
+updated: 2024-06-05 08:49:08
 ---
 
 # socal north 2024.23
 
-(date: 2024-06-04 15:10:09)
+(date: 2024-06-05 08:49:08)
+
+---
+
+## USC Chabad co-directors’ house vandalized, motive unclear
+
+date: 2024-06-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Rabbi Dov and Runya Wagner's house has also served as USC's Chabad House for the past five years.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/05/usc-chabad-co-directors-house-vandalized/">USC Chabad co-directors&#8217; house vandalized, motive unclear</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/05/usc-chabad-co-directors-house-vandalized/>
+
+---
+
+## Gallery: Medium Build performs at the Troubadour, featuring artist Rosie Rush
+
+date: 2024-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Featuring artist Rosie Rush, Medium Build performed live at the Troubadour on May 24. 
+
+<https://dailybruin.com/2024/06/05/gallery-medium-build-performs-at-the-troubadour-featuring-artist-rosie-rush/>
+
+---
+
+## Classifieds – June 5, 2024
+
+date: 2024-06-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/05/classifieds-june-5-2024/">Classifieds &#8211; June 5, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/05/classifieds-june-5-2024/>
+
+---
+
+## On the championship track: USC ready for NCAA Championships
+
+date: 2024-06-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC’s men’s and women’s track athletes go for the ultimate prize this week.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/05/on-the-championship-track-usc-ready-for-ncaa-championships/">On the championship track: USC ready for NCAA Championships</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/05/on-the-championship-track-usc-ready-for-ncaa-championships/>
+
+---
+
+## Daily Trojan alum wins Pulitzer Prize
+
+date: 2024-06-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The USC adjunct professor won the award for his work with the <em>Los Angeles Times</em>.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/05/daily-trojan-alum-wins-pulitzer-prize/">&lt;em&gt;Daily Trojan&lt;/em&gt; alum wins Pulitzer Prize</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/05/daily-trojan-alum-wins-pulitzer-prize/>
+
+---
+
+## Take a closer look, oil is all around
+
+date: 2024-06-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p> While we should focus on clean energy, Big Oil also needs to be transparent.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/05/take-a-closer-look-oil-is-all-around/">Take a closer look, oil is all around</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/05/take-a-closer-look-oil-is-all-around/>
+
+---
+
+## NCAA reaches historic $2.8 billion settlement with athletes
+
+date: 2024-06-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The impacts of the NCAA settlement create a new playing field for the Trojans. </p>
+<p>The post <a href="https://dailytrojan.com/2024/06/05/ncaa-reaches-historic-2-8-billion-settlement-with-athletes/">NCAA reaches historic $2.8 billion settlement with athletes</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/05/ncaa-reaches-historic-2-8-billion-settlement-with-athletes/>
+
+---
+
+## We romanticize the immediate spark in friendships
+
+date: 2024-06-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/06/05/we-romanticize-the-immediate-spark-in-friendships/">We romanticize the immediate spark in friendships</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/05/we-romanticize-the-immediate-spark-in-friendships/>
+
+---
+
+## girl in red brilliantly rocks the Greek Theatre
+
+date: 2024-06-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The indie artist brought fall feelings and positive reflections to her latest tour.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/05/girl-in-red-brilliantly-rocks-the-greek-theatre/">girl in red brilliantly rocks the Greek Theatre</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/05/girl-in-red-brilliantly-rocks-the-greek-theatre/>
+
+---
+
+## Stand up, speak up, dress up
+
+date: 2024-06-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Political activism can come in many forms, one of which is the garments we wear. </p>
+<p>The post <a href="https://dailytrojan.com/2024/06/05/stand-up-speak-up-dress-up/">Stand up, speak up, dress up</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/05/stand-up-speak-up-dress-up/>
+
+---
+
+## Start the party with these ‘songs of the summer’
+
+date: 2024-06-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Break down these 2010s hits — including the new champion of this summer.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/05/start-the-party-with-these-songs-of-the-summer/">Start the party with these ‘songs of the summer’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/05/start-the-party-with-these-songs-of-the-summer/>
+
+---
+
+## USC celebrates the beginning of Pride Month over Zoom
+
+date: 2024-06-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students, faculty and staff discussed the importance of representation and unity. </p>
+<p>The post <a href="https://dailytrojan.com/2024/06/05/usc-celebrates-the-beginning-of-pride-month-over-zoom/">USC celebrates the beginning of Pride Month over Zoom</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/05/usc-celebrates-the-beginning-of-pride-month-over-zoom/>
+
+---
+
+## Los Angeles City Council requests reports on LAPD action at UCLA, USC encampments
+
+date: 2024-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Los Angeles City Council unanimously passed a motion Tuesday requesting a report from LAPD and the LA County Office of Inspector General regarding LAPD’s decisions during Palestine solidarity encampments at UCLA and the University of Southern California. 
+
+<https://dailybruin.com/2024/06/04/los-angeles-city-council-requests-reports-on-lapd-action-at-ucla-usc-encampments/>
+
+---
+
+## This Week: May 31
+
+date: 2024-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Updates from the Israel-Hamas war. Former president and presumptive Republican presidential nominee Donald Trump found guilty of 34 felony counts. Podcasts contributors Izzy Greig, Zo&#235; Bordes and Olivia Miller discuss these stories and more. 
+
+<https://dailybruin.com/2024/06/04/this-week-may-31/>
+
+---
+
+## Narrated Articles — Opinion: Bollywood music connects community, deepens cultural roots amid language barriers
+
+date: 2024-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Listen to Opinion columnist Prisha Puntambekar narrate her article &#8220;Opinion: Bollywood music connects community, deepens cultural roots amid language barriers.&#8221; The article was published May 23, 2024. 
+
+<https://dailybruin.com/2024/06/04/narrated-articles-opinion-bollywood-music-connects-community-deepens-cultural-roots-amid-language-barriers/>
+
+---
+
+## LA City Council Sends Back Donation of Police Dogs for Further Scrutiny
+
+date: 2024-06-04, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="640" height="480" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/LAPD_K9.jpg?fit=640%2C480&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="LAPD officer loading a black German Shephard into a truck." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/LAPD_K9.jpg?w=640&amp;ssl=1 640w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/LAPD_K9.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/LAPD_K9.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/LAPD_K9.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/LAPD_K9.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/LAPD_K9.jpg?fit=640%2C480&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; The Los Angeles City Council today declined to accept a donation of two police service dogs and sent the request back to the committee after one [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/04/la-city-council-sends-back-donation-of-police-dogs-for-further-scrutiny/">LA City Council Sends Back Donation of Police Dogs for Further Scrutiny</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/04/la-city-council-sends-back-donation-of-police-dogs-for-further-scrutiny/>
 
 ---
 
@@ -400,7 +584,7 @@ UCLA has a handful of two-sport athletes, with three across its 21 chartered spo
 
 date: 2024-06-03, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated June 7 at 7:38 p.m.</em>
+<em>This post was updated June 4 at 7:50 p.m.</em>
 For UCLA’s Department of African American Studies, celebration and remembrance are equally important ahead of Juneteenth.
 On Wednesday, Royce Hall will welcome artists from across the nation for the first “Prelude to &#8230; JUNETEENTH DAY CELEBRATION,” a free multimedia art event that will feature music, dance and spoken word performances to tell the history of emancipation in the United States. 
 

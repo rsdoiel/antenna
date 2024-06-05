@@ -1,11 +1,126 @@
 ---
 title: writing 2024.23
-updated: 2024-06-04 15:10:10
+updated: 2024-06-05 08:49:09
 ---
 
 # writing 2024.23
 
-(date: 2024-06-04 15:10:10)
+(date: 2024-06-05 08:49:09)
+
+---
+
+## Gary K. Wolfe Reviews The Bezzle by Cory Doctorow
+
+date: 2024-06-05, from: Locus Magazine
+
+<p><strong>The Bezzle</strong>, Cory Doctorow (Tor 9781250865878, $27.99, 240pp, hc) February 2024.</p>
+<p>There are a handful of SF writers so sharply attuned to the arcane systems that underlie contemporary culture that it sometimes becomes a challenge to figure out what’s SF and what’s not; William Gibson and Kim Stanley Robinson come to mind, as does Cory Doctorow. <strong>The Bezzle</strong>, Doctorow’s second novel in a new series featuring forensic accountant  <a href="https://locusmag.com/2024/06/gary-k-wolfe-reviews-the-bezzle-by-cory-doctorow/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/gary-k-wolfe-reviews-the-bezzle-by-cory-doctorow/>
+
+---
+
+## 40th Anniversary Writers & Illustrators of the Future
+
+date: 2024-06-05, from: Locus Magazine
+
+<p></p>
+<p>The annual Writers and Illustrators of the Future Awards gala event was held on April 25, 2024 at the Taglyan Complex in Los Angeles. This years’ proceedings marked two important mile­stones: the 40th anniversary of the Awards for Writers and the 35th for Illustrators. The lavish ceremonies commemorated 24 new winners and included retrospectives on four decades of imagi­native achievement; Grand Prize winners were Jack Nash in writing (for his  <a href="https://locusmag.com/2024/06/40th-anniversary-writers-illustrators-of-the-future/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/40th-anniversary-writers-illustrators-of-the-future/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-05, from: Neil Gaiman @ BlueSky)
+
+I wrote it for them.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ku6dympsyc2w>
+
+---
+
+## Write Now with Scrivener, Episode no. 39: Kate Heartfield, Historical Fantasy Author
+
+date: 2024-06-05, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p><iframe frameborder="0" height="200" scrolling="no" src="https://player.fireside.fm/v2/FGsx06Yz+5qVQeZPo?theme=dark" width="740"></iframe></p>
+
+<p><strong>Show notes</strong>:</p>
+
+
+	<a href="https://www.kateheartfield.com" target="_blank">Kate Heartfield</a>
+	<a href="https://www.kateheartfield.com/the-embroidered-book/" target="_blank">The Embroidered Book</a>
+	<a href="https://www.kateheartfield.com/the-valkyrie/" target="_blank">The Valkyrie</a>
+	<a href="https://www.penguinrandomhouse.com/books/58201/grendel-by-john-gardner/" target="_blank">John Gardner, Grendel</a>
+	<a href="https://www.aeontimeline.com" target="_blank">Aeon Timeline</a>
+	<a href="https://vajra.me/books/the-saint-of-bright-doors/" target="_blank">Vajra Chandrasekera, The Saint of Bright Doors</a>
+
+
+<p>Learn more about <a href="https://www.literatureandlatte.com/scrivener/overview" target="_blank">Scrivener</a>, and check out the ebook <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>.</p>
+
+<p>If you like the podcast, please <a href="https://podcasts.apple.com/us/podcast/write-now-with-scrivener/id1568550068" target="_blank">follow it in Apple Podcasts</a> or your favorite podcast app. Leave a rating or review, and tell your friends. And check out past episodes of <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+
+
+<p>Kate Heartield studied journalism but had always written fiction. &quot;I&#39;m one of those people who has been a fiction writer since I was a kid. I wrote at 11 o&#39;clock at night when I had a full-time newspaper job and a kid. I would take a few years off from time to time, but for the most part, I&#39;ve always written fiction.&quot;</p>
+
+<p>Now, with about half her time devoted to journalism and half to fiction, Kate has written eight novels and two interactive games, and focuses mostly on historical fantasy.</p>
+
+<p>We discussed the writing process; Kate draws on her experience as a journalist when writing fiction. &quot;I start with a really skeletal draft, and I have to add to it as I go; I&#39;m not one of those people who cuts from draft to draft. I think part of that is my journalistic training, that I&#39;ve trained myself to write in as few words as possible. And then with fiction, sometimes to build tension and to have emotion and bring the reader into the piece, longer work is actually better paced for that. I&#39;ve learned about my process that my first draft is probably about 75% as long as the final draft will be.&quot;</p>
+
+<p>One of Kate&#39;s recent novels is <em>The Embroidered Book</em>, a historical fantasy about Marie Antoinette in the 18th century. I asked Kate if it was easier to have this skeleton of truth that she could add to in telling a fantasy story?</p>
+
+<p>&quot;It was easier in some ways. I really liked telling a story that&#39;s in amongst the real facts of history, that uses the real facts of history as a scaffolding and then fills in some secret knowledge in between those facts. I suppose it does give me touch points along the way, or milestones to hit so that I have a structure that I can start with. And then I can work with that and change it in a way that suits the story that I&#39;m trying to tell.</p>
+
+<p>&quot;In other ways, it also does make it more difficult. Because if you get to a point in the story, where you think, &#39;Oh, actually, for character arc purposes, I need something else to happen,&#39; if you&#39;ve already committed to telling a story that is not going to deviate from history, you&#39;ve got to be really creative and find a way to do that without actually departing from those facts. So it&#39;s similar to straightforward historical fiction, like Hilary Mantel&#39;s books, in that you&#39;re still telling a character story within those facts, and so you&#39;ve got to find a way to work within that, which can be a challenge.&quot;</p>
+
+<p>Historical fiction relies on in-depth research and Kate said, &quot;I use Scrivener as a hub for all my research. In the Research folder, I have a bunch of text documents that are my running bibliography and links to sources and interesting web pages. I write myself copious notes that all go into Scrivener as well.&ldquo;</p>
+
+<p>I asked whether Kate outlines her novels. &quot;I do outline. I tend to work more with a synopsis than an outline, in the sense that I learned that a bullet-point outline, or point form as we say in Canada, is not that useful for me because it doesn&#39;t have the connective tissue of storytelling in it. It doesn&#39;t have the <em>becauses</em> and <em>therefores</em> and <em>thens</em>, whereas a synopsis is a story, even if it is a short and kind of boring story. It has the logic of a story behind it because it&#39;s got to be written in complete sentences and with all of that connective tissue. So what I tend to do now is write myself a synopsis, typically one or two pages. Once I have all my notes about character arcs and the basic beats that I want to hit in the story, I&#39;ll write it as a synopsis and then I&#39;ll keep that running synopsis in Scrivener, in one of my documents in the Research folder. The reason I call it a running synopsis is because I am the kind of person that changes as I go.&quot;</p>
+
+<p>Kate builds a timeline for her novels using Scrivener and <a href="https://www.aeontimeline.com" target="_blank">Aeon Timeline</a>. &quot;The one really interesting way that I use Scrivener now is to help me with my timeline. I have it integrated into Aeon Timeline, which allows me to put metadata in Scrivener that will then appear in the timeline. That helps me a lot, because one thing I have found as someone writing historical fiction, and also as a reviser who changes as I go, is I end up with my character ages being wrong, or I end up with some sort of continuity error at the end. I find that using Scrivener deliberately to tie into all of my note-taking in my timelines is really helpful, because that way, if I change anything in the document, I&#39;m immediately going to change it in all my notes.&quot;</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+ 
+
+<https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-39-kate-heartfield-historical-fantasy-author>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-05, from: Neil Gaiman @ BlueSky)
+
+Things I did not know about my dog until tonight:
+
+ He eats bear shit. 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ku5ixwcuts2m>
+
+---
+
+## John Maddox Roberts (1947-2024)
+
+date: 2024-06-04, from: Locus Magazine
+
+<p>Author John Maddox Roberts, 76, died May 23, 2024 in Estancia NM.</p>
+<p>Roberts was born in Ohio on June 25, 1947. He began publishing with SF novel <strong>The Strayed Sheep of Charun</strong> (1977; revised as <strong>Cestus Dei</strong>, 1983). Other works include the Spacer series, with <strong>Space Angel</strong> (1979) and <strong>Spacer: Window of the Mind </strong>(1988); the Cingulum sequence, with <strong>The Cingulum</strong> (1985), <strong>Cloak of Illusion</strong> (1985), and<strong> The Sword, </strong> <a href="https://locusmag.com/2024/06/john-maddox-roberts-1947-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/john-maddox-roberts-1947-2024/>
 
 ---
 

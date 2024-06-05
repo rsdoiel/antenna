@@ -1,11 +1,21 @@
 ---
 title: journalism 2024.23
-updated: 2024-06-04 15:10:10
+updated: 2024-06-05 08:49:09
 ---
 
 # journalism 2024.23
 
-(date: 2024-06-04 15:10:10)
+(date: 2024-06-05 08:49:09)
+
+---
+
+## “If it’s good for the company now, work with them”: The Atlantic CEO on signing a deal with OpenAI
+
+date: 2024-06-05, from: Nieman Journalism Lab
+
+Shortly before The Atlantic announced &#8220;a product and content&#8221; partnership with OpenAI, the magazine published a piece by The Information CEO and founder Jessica Lessin that argued &#8220;media companies are making a huge mistake with AI.&#8221; &#8220;For as long as I have reported on internet companies, I have watched news leaders try to bend their... 
+
+<https://www.niemanlab.org/2024/06/if-its-good-for-the-company-now-work-with-them-the-atlantic-ceo-on-signing-a-deal-with-openai/>
 
 ---
 
@@ -23,7 +33,7 @@ Why do people read the news? To journalists, that may sound like a stupid questi
 
 date: 2024-06-04, from: Nieman Journalism Lab
 
-The Department of Justice has charged the CFO of The Epoch Times — the shadowy, Chinese-backed, pro-Trump, conspiracy-embracing, billboard-loving, and weirdly successful media company — with conspiring to launder at least $67 million in illegally obtained funds. (If you&#8217;d hoped to attend The Epoch Times School of Journalism, you might want to make other plans.) The... 
+The Department of Justice has charged the CFO of The Epoch Times — the shadowy, pro-Trump, conspiracy-embracing, billboard-loving, and weirdly successful media company — with conspiring to launder at least $67 million in illegally obtained funds. (If you&#8217;d hoped to attend The Epoch Times School of Journalism, you might want to make other plans.) The CFO,... 
 
 <https://www.niemanlab.org/2024/06/we-always-thought-the-epoch-times-was-sketchy-but-this-is-really-something/>
 

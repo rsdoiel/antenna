@@ -1,11 +1,187 @@
 ---
 title: tech likely 2024.23
-updated: 2024-06-04 15:10:09
+updated: 2024-06-05 08:49:08
 ---
 
 # tech likely 2024.23
 
-(date: 2024-06-04 15:10:09)
+(date: 2024-06-05 08:49:08)
+
+---
+
+##  &#8220;The 25 Photos That Defined the Modern Age&#8221; 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/the-25-photos-that-defined-the-modern-age>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-05, from: Dave Winer's Scripting News)
+
+We could bridge RSS and ActivityPub and get a lot more interop quickly. 
+
+<http://scripting.com/2024/06/05.html#a151856>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-05, from: Dave Winer's Scripting News)
+
+Jon Stewart from this Monday is good to watch as a reminder of what the press could be doing beyond what Jay Rosen recommends (which is on the right track). They could be playing the same role that the 12 jurors in NYC did. I'd love to see a requirement that every moderator of a major news show in the US do jury duty for a couple of weeks a year, to keep them aware of the standard that should also apply to news, not just justice. 
+
+<http://scripting.com/2024/06/05.html#a151218>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-05, from: Dave Winer's Scripting News)
+
+It's amazing how well Comey's rep has been laundered, but I'll never forget that his CYA move re Hillary's emails at the every end of the 2016 campaign, knocked Hillary off her game, she never recovered and we had four years of Trump and maybe more as a result. He should not get to be an authority on democracy at this point. There has been no apology, or regret expressed. 
+
+<http://scripting.com/2024/06/05.html#a151023>
+
+---
+
+## AMD drops Windows 10 support for new chipsets and processors, while Microsoft expands testing efforts for new Windows 10 features
+
+date: 2024-06-05, from: OS News
+
+Remember when I said the honeymoon with AMD&#8217;s consumer-friendly chipset and socket support policy would eventually end? Well, while this is not exactly that, it will make a lot of people very unhappy. While AMD, as does any other company, was boastful about its product touting the 16% IPC boost on Zen 5 and the big AI performance leap delivering up to 50 TOPS on the NPU side, an interesting drawback of the Ryzen AI 300 series that has managed to avoid getting media attention is the lack of support for Windows 10. While this was just an unconfirmed rumour last month even though it was suggested by a supposed Lenovo China manager, we have now got confirmation from AMD itself that the report, that Strix point and newer CPUs and APUs will not support Windows 10 is true. ↫ Sayan Sen at NeoWin Official support for Windows 10 is ending next year, so there is some reason to AMD&#8217;s madness, but at the same time, almost 70% of Windows users are currently using Windows 10, and leaving those users behind might not be the best idea AMD ever had. There is an argument to be made that at least a reasonable number of these people are still using Windows 10 not out of their own volition, but because of Microsoft&#8217;s strict hardware requirements, and as such, anyone buying a new AMD machine will just opt for the latest version of Windows out of habit, but I still think there&#8217;s a sizable contingent of people who actively choose Windows 10 over 11 for a whole host of reasons. On a strongly related note, despite 2025 marking the end of regular support for Windows 10, Microsoft yesterday announced it&#8217;s expanding the the number of Insider channels for new Windows 10 features from one to two, adding a Beta tier below the existing Release Preview tier. Microsoft, too, will have to come to terms with the fact that with 70% of Windows users using Windows 10, they might not even be able to drop support for the operating system as early as next year. While this 70% number will surely slowly decrease over the next 12 months, with many people simply being unable to upgrade due to hardware limitations, I have a suspicion we might see an extension on that 2025 date. 
+
+<https://www.osnews.com/story/139879/amd-drops-windows-10-support-for-new-chipsets-and-processors-while-microsoft-expands-testing-efforts-for-new-windows-10-features/>
+
+---
+
+##  How the invention of dynamite, anarchists, library science, and J. Edgar Hoover... 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044744-how-the-invention-of-dyna>
+
+---
+
+## Most Life on Earth is Dormant, After Pulling an ‘Emergency Brake’
+
+date: 2024-06-05, from: Quanta Magazine
+
+Many microbes and cells are in deep sleep, waiting for the right moment to activate. Biologists discovered a widespread protein that abruptly shuts down a cell’s activity — and turns it back on just as fast.            <p>The post <a href="https://www.quantamagazine.org/most-life-on-earth-is-dormant-after-pulling-an-emergency-brake-20240605/" target="_blank">Most Life on Earth is Dormant, After Pulling an ‘Emergency Brake’</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/most-life-on-earth-is-dormant-after-pulling-an-emergency-brake-20240605/>
+
+---
+
+## Carving Into Carbonates at Old Faithful Geyser
+
+date: 2024-06-05, from: NASA breaking news
+
+This past week on Mars, Perseverance made a pit stop near Overlook Mountain to abrade a rock called Old Faithful Geyser. This target is situated within the Western side of the Margin Unit, an area around the upper edge of Jezero Crater that is astrobiologically-interesting due to its abundant carbonate. Carbonate-bearing rocks have been a […] 
+
+<https://science.nasa.gov/blogs/carving-into-carbonates-at-old-faithful-geyser/>
+
+---
+
+## Sols 4205-4206: Curiosity Would Like One of Each, Please!
+
+date: 2024-06-05, from: NASA breaking news
+
+Earth planning date: Monday, June 3, 2024 You know that feeling at the ice cream shop when you’re presented with so many tantalizing options and you have to narrow it down to just a few to taste test, and then you have to strategize how to fit all the best flavors in your bowl?  That’s […] 
+
+<https://science.nasa.gov/blogs/sols-4205-4206-curiosity-would-like-one-of-each-please/>
+
+---
+
+## Sols 4202-4204: Sticking Around
+
+date: 2024-06-05, from: NASA breaking news
+
+Earth planning date: Friday, May 31, 2024 Our most recent drive delivered us, as planned, right alongside ‘Whitebark Pass.’ This last drive was only about 9 metres, but Curiosity has been doing a lot of travelling lately and this weekend we’re giving the rover a well-deserved break from driving – but not a break from […] 
+
+<https://science.nasa.gov/blogs/sols-4202-4204-sticking-around/>
+
+---
+
+## First sign of GenAI Winter?
+
+date: 2024-06-05, from: Gary Marcus blog
+
+Investors appear to have taken note 
+
+<https://garymarcus.substack.com/p/first-sign-of-genai-winter>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-05, from: Miguel de Icaza Mastondon feed)
+
+<p>Nice optimization guide for VisionPro environments:</p><p><a href="https://developer.apple.com/documentation/realitykit/construct-an-immersive-environment-for-visionos?changes=_3___1_5,_3___1_5&amp;language=objc,objcDoes" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">developer.apple.com/documentat</span><span class="invisible">ion/realitykit/construct-an-immersive-environment-for-visionos?changes=_3___1_5,_3___1_5&amp;language=objc,objcDoes</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112564047630870837>
+
+---
+
+## NASA Launches Second Small Climate Satellite to Study Earth’s Poles
+
+date: 2024-06-05, from: NASA breaking news
+
+The second of NASA’s PREFIRE (Polar Radiant Energy in the Far-InfraRed Experiment) two satellites is communicating with ground controllers after launching at 3:15 p.m. NZST, Wednesday (11:15 p.m. EDT, June 4). Data from these two shoebox-size cube satellites, or CubeSats, will better predict how Earth’s ice, seas, and weather will change in a warming world [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-launches-second-small-climate-satellite-to-study-earths-poles/>
+
+---
+
+## Our First Transformer of the Month: Matt Dosberg
+
+date: 2024-06-05, from: NASA breaking news
+
+It is impossible to pinpoint a single, static definition of what makes a “Digital Transformer.” Although Matt Dosberg’s official title is Digital Transformation and IT Innovation Lead for Goddard Space Flight Center (GSFC), his full contributions to NASA require a lengthier description. He is the nexus for everything under the Digital Transformation (DT) umbrella at [&#8230;] 
+
+<https://www.nasa.gov/general/our-first-transformer-of-the-month-matt-dosberg/>
+
+---
+
+## Make an LED glowing prom dress using RP2040
+
+date: 2024-06-05, from: Raspberry Pi News (.com)
+
+<p>Want to sparkle on the dance floor and be the shining star of the ball (literally)? Brighten up the room by creating your own light-up dress with shimmering RP2040-controlled NeoPixels.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/make-an-led-glowing-prom-dress-using-rp2040/">Make an LED glowing prom dress using RP2040</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/make-an-led-glowing-prom-dress-using-rp2040/>
+
+---
+
+## Genesis: fertility
+
+date: 2024-06-05, from: Ayjay blog
+
+If the defining axes of Genesis 1–11 were making/naming and commanding/disobeying, those of the Patriarchal narratives are fertility/barrenness and pastoral/urban. Over and over again the LORD promises fertility to the barren, and to the childless a multitude of descendants. The primary sign of the LORD’s covenant with the children of Abraham is circumcision, the marking [&#8230;] 
+
+<https://blog.ayjay.org/genesis-fertility/>
+
+---
+
+## LimeNET Micro 2.0 Developer Edition Campaign Launches
+
+date: 2024-06-05, from: Lime Microsystems news
+
+<p>The crowdfunding campaign for LimeNET Micro 2.0 has launched today on Crowd Supply and purchasing options include the LimePSB RPCM board-only, a complete LimeNET Micro 2.0 kit, and also a deluxe kit which includes the Amarisoft 5G stack with core network, plus two 5G smartphones and ten SIM cards.</p>
+<p>The post <a rel="nofollow" href="https://limemicro.com/news/limenet-micro-2-0-developer-edition-campaign-launches/">LimeNET Micro 2.0 Developer Edition Campaign Launches</a> appeared first on <a rel="nofollow" href="https://limemicro.com">Lime Microsystems</a>.</p>
+ 
+
+<https://limemicro.com/news/limenet-micro-2-0-developer-edition-campaign-launches/>
+
+---
+
+## A prototype of the future
+
+date: 2024-06-05, updated: 2024-06-05, from: Robin Rendle Essays
+
+ 
+
+<https://robinrendle.com/notes/a-prototype-of-the-future/>
 
 ---
 
@@ -36,10 +212,13 @@ It runs in a terminal. So what would it take to turn it into a graphical editor 
 It looks like a nice, simple app. When I built it, however, it didn&rsquo;t work.
 Is it because I&rsquo;m on Wayland? I don&rsquo;t know.</p>
 
-<ul>
-<li>Gio is used by <a href="https://anvil-editor.net/">Anvil</a>, an editor with many features.</li>
-<li>Ebitengine has a <a href="https://ebitengine.org/en/examples/font.html">Font</a> example.</li>
-</ul> 
+<p>Gio is used by <a href="https://anvil-editor.net/">Anvil</a>, an ACME-like editor with many features.
+In fact, it already looks like it has too many features for me to start building something.
+I wonder. Perhaps those are the right features? I just can&rsquo;t warm up to using the mouse all that much.</p>
+
+<p>Ebitengine has a <a href="https://ebitengine.org/en/examples/font.html">Font</a> example.
+It just shows how one loads a font for a number of code-points and that&rsquo;s that.
+An interesting way to load a font, for sure.</p> 
 
 <https://alexschroeder.ch/view/2024-06-01-editor>
 
@@ -102,6 +281,16 @@ date: 2024-06-04, from: NASA breaking news
 Power modules driven by ocean temperatures save money, reduce pollution  
 
 <https://www.nasa.gov/technology/tech-transfer-spinoffs/new-energy-source-powers-subsea-robots-indefinitely/>
+
+---
+
+## ARMD Solicitations
+
+date: 2024-06-04, from: NASA breaking news
+
+This ARMD solicitations page compiles the opportunities to collaborate with NASA’s aeronautical innovators and/or contribute to their research to enable new and improved air transportation systems. A summary of available opportunities with key dates requiring action are listed first. More information about each opportunity is detailed lower on this page. University Student Research ChallengeJune 30, [&#8230;] 
+
+<https://www.nasa.gov/aeronautics/armd-solicitations/>
 
 ---
 

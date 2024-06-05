@@ -1,11 +1,71 @@
 ---
 title: health 2024.23
-updated: 2024-06-04 15:10:10
+updated: 2024-06-05 08:49:09
 ---
 
 # health 2024.23
 
-(date: 2024-06-04 15:10:10)
+(date: 2024-06-05 08:49:09)
+
+---
+
+## Towards broad-spectrum protection: the development and challenges of combined respiratory virus vaccines
+
+date: 2024-06-05, from: Frontiers in Cellular and Infection Microbiology
+
+In the post-COVID-19 era, the co-circulation of respiratory viruses, including influenza, SARS-CoV-2, and respiratory syncytial virus (RSV), continues to have significant health impacts and presents ongoing public health challenges. Vaccination remains the most effective measure for preventing viral infections. To address the concurrent circulation of these respiratory viruses, extensive efforts have been dedicated to the development of combined vaccines. These vaccines utilize a range of platforms, including mRNA-based vaccines, viral vector vaccines, and subunit vaccines, providing opportunities in addressing multiple pathogens at once. This review delves into the major advancements in the field of combined vaccine research, underscoring the strategic use of various platforms to tackle the simultaneous circulation of respiratory viruses effectively. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1412478>
+
+---
+
+## Antifungal, anti-biofilm, and anti-hyphal properties of N-substituted phthalimide derivatives against Candida species
+
+date: 2024-06-05, from: Frontiers in Cellular and Infection Microbiology
+
+Candida species comprise a ubiquitous pathogenic fungal genus responsible for causing candidiasis. They are one of the primary causatives of several mucosal and systemic infections in humans and can survive in various environments. In this study, we investigated the antifungal, anti-biofilm, and anti-hyphal effects of six N-substituted phthalimides against three Candida species. Of the derivatives, N-butylphthalimide (NBP) was the most potent, with a minimum inhibitory concentration (MIC) of 100 µg/ml and which dose-dependently inhibited biofilm at sub-inhibitory concentrations (10–50 µg/ml) in both the fluconazole-resistant and fluconazole-sensitive Candida albicans and Candida parapsilosis. NBP also effectively inhibited biofilm formation in other pathogens including uropathogenic Escherichia coli, Staphylococcus epidermidis, Staphylococcus aureus, and Vibrio parahaemolyticus, along with the polymicrobial biofilms of S. epidermidis and C. albicans. NBP markedly inhibited the hyphal formation and cell aggregation of C. albicans and altered its colony morphology in a dose-dependent manner. Gene expression analysis showed that NBP significantly downregulated the expression of important hyphal- and biofilm-associated genes, i.e., ECE1, HWP1, and UME6, upon treatment. NBP also exhibited mild toxicity at concentrations ranging from 2 to 20 µg/ml in a nematode model. Therefore, this study suggests that NBP has anti-biofilm and antifungal potential against various Candida strains. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1414618>
+
+---
+
+## Gut microbes improve prognosis of Klebsiella pneumoniae pulmonary infection through the lung-gut axis
+
+date: 2024-06-05, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe gut microbiota plays a vital role in the development of sepsis and in protecting against pneumonia. Previous studies have demonstrated the existence of the gut-lung axis and the interaction between the gut and the lung, which is related to the prognosis of critically ill patients; however, most of these studies focused on chronic lung diseases and influenza virus infections. The purpose of this study was to investigate the effect of faecal microbiota transplantation (FMT) on Klebsiella pneumoniae-related pulmonary infection via the gut-lung axis and to compare the effects of FMT with those of traditional antibiotics to identify new therapeutic strategies.MethodsWe divided the mice into six groups: the blank control (PBS), pneumonia-derived sepsis (KP), pneumonia-derived sepsis + antibiotic (KP + PIP), pneumonia-derived sepsis + faecal microbiota transplantation(KP + FMT), antibiotic treatment control (KP+PIP+PBS), and pneumonia-derived sepsis+ antibiotic + faecal microbiota transplantation (KP + PIP + FMT) groups to compare the survival of mice, lung injury, inflammation response, airway barrier function and the intestinal flora, metabolites and drug resistance genes in each group.ResultsAlterations in specific intestinal flora can occur in the gut of patients with pneumonia-derived sepsis caused by Klebsiella pneumoniae. Compared with those in the faecal microbiota transplantation group, the antibiotic treatment group had lower levels of proinflammatory factors and higher levels of anti-inflammatory factors but less amelioration of lung pathology and improvement of airway epithelial barrier function. Additionally, the increase in opportunistic pathogens and drug resistance-related genes in the gut of mice was accompanied by decreased production of favourable fatty acids such as acetic acid, propionic acid, butyric acid, decanoic acid, and secondary bile acids such as chenodeoxycholic acid 3-sulfate, isodeoxycholic acid, taurodeoxycholic acid, and 3-dehydrocholic acid; the levels of these metabolites were restored by faecal microbiota transplantation. Faecal microbiota transplantation after antibiotic treatment can gradually ameliorate gut microbiota disorder caused by antibiotic treatment and reduce the number of drug resistance genes induced by antibiotics.ConclusionIn contrast to direct antibiotic treatment, faecal microbiota transplantation improves the prognosis of mice with pneumonia-derived sepsis caused by Klebsiella pneumoniae by improving the structure of the intestinal flora and increasing the level of beneficial metabolites, fatty acids and secondary bile acids, thereby reducing systemic inflammation, repairing the barrier function of alveolar epithelial cells, and alleviating pathological damage to the lungs. The combination of antibiotics with faecal microbiota transplantation significantly alleviates intestinal microbiota disorder, reduces the selection for drug resistance genes caused by antibiotics, and mitigates lung lesions; these effects are superior to those following antibiotic monotherapy. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1392376>
+
+---
+
+## Beyond the double helix: the multifaceted landscape of extracellular DNA in Staphylococcus aureus biofilms
+
+date: 2024-06-05, from: Frontiers in Cellular and Infection Microbiology
+
+Staphylococcus aureus forms biofilms consisting of cells embedded in a matrix made of proteins, polysaccharides, lipids, and extracellular DNA (eDNA). Biofilm-associated infections are difficult to treat and can promote antibiotic resistance, resulting in negative healthcare outcomes. eDNA within the matrix contributes to the stability, growth, and immune-evasive properties of S. aureus biofilms. eDNA is released by autolysis, which is mediated by murein hydrolases that access the cell wall via membrane pores formed by holin-like proteins. The eDNA content of S. aureus biofilms varies among individual strains and is influenced by environmental conditions, including the presence of antibiotics. eDNA plays an important role in biofilm development and structure by acting as an electrostatic net that facilitates protein-cell and cell-cell interactions. Because of eDNA’s structural importance in biofilms and its ubiquitous presence among S. aureus isolates, it is a potential target for therapeutics. Treatment of biofilms with DNase can eradicate or drastically reduce them in size. Additionally, antibodies that target DNABII proteins, which bind to and stabilize eDNA, can also disperse biofilms. This review discusses the recent literature on the release, structure, and function of eDNA in S. aureus biofilms, in addition to a discussion of potential avenues for targeting eDNA for biofilm eradication. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1400648>
+
+---
+
+## Ceftazidime/avibactam resistance is associated with PER-3-producing ST309 lineage in Chilean clinical isolates of non-carbapenemase producing Pseudomonas aeruginosa
+
+date: 2024-06-05, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionCeftazidime/avibactam (CZA) is indicated against multidrug-resistant Pseudomonas aeruginosa, particularly those that are carbapenem resistant. CZA resistance in P. aeruginosa producing PER, a class A extended-spectrum β-lactamase, has been well documented in vitro. However, data regarding clinical isolates are scarce. Our aim was to analyze the contribution of PER to CZA resistance in non-carbapenemase-producing P. aeruginosa clinical isolates that were ceftazidime and/or carbapenem non-susceptible.MethodsAntimicrobial susceptibility was determined through agar dilution and broth microdilution, while blaPER gene was screened through PCR. All PER-positive isolates and five PER-negative isolates were analyzed through Whole Genome Sequencing. The mutational resistome associated to CZA resistance was determined through sequence analysis of genes coding for PBPs 1b, 3 and 4, MexAB-OprM regulators MexZ, MexR, NalC and NalD, AmpC regulators AmpD and AmpR, and OprD porin. Loss of blaPER-3 gene was induced in a PER-positive isolate by successive passages at 43°C without antibiotics. ResultsTwenty-six of 287 isolates studied (9.1%) were CZA-resistant. Thirteen of 26 CZA-resistant isolates (50%) carried blaPER. One isolate carried blaPER but was CZA-susceptible. PER-producing isolates had significantly higher MICs for CZA, amikacin, gentamicin, ceftazidime, meropenem and ciprofloxacin than non-PER-producing isolates. All PER-producing isolates were ST309 and their blaPER-3 gene was associated to ISCR1, an insertion sequence known to mobilize adjacent DNA. PER-negative isolates were classified as ST41, ST235 (two isolates), ST395 and ST253. PER-negative isolates carried genes for narrow-spectrum β-lactamases and the mutational resistome showed that all isolates had one major alteration in at least one of the genes analyzed. Loss of blaPER-3 gene restored susceptibility to CZA, ceftolozane/tazobactam and other β-lactamsin the in vitro evolved isolate. DiscussionPER-3-producing ST309 P. aeruginosa is a successful multidrug-resistant clone with blaPER-3 gene implicated in resistance to CZA and other β-lactams. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1410834>
+
+---
+
+## A novel pathogenic species of genus Stenotrophomonas: Stenotrophomonas pigmentata sp. nov
+
+date: 2024-06-05, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionStenotrophomonas is a prominent genus owing to its dual nature. Species of this genus have many applications in industry and agriculture as plant growth-promoting rhizobacteria and microbial biological control agents, whereas species such as Stenotrophomonas maltophilia are considered one of the leading gram-negative multi-drug-resistant bacterial pathogens because of their high contribution to the increase in crude mortality and significant clinical challenge. Pathogenic Stenotrophomonas species and most clinical isolates belong to the Stenotrophomonas maltophilia complex (SMc). However, a strain highly homologous to S. terrae was isolated from a patient with pulmonary tuberculosis (TB), which aroused our interest, as S. terrae belongs to a relatively distant clade from SMc and there have been no human association reports.MethodsThe pathogenicity, immunological and biochemical characteristics of 610A2T were systematically evaluated.Results610A2T is a new species of genus Stenotrophomonas, which is named as Stenotrophomonas pigmentata sp. nov. for its obvious brown water-soluble pigment. 610A2T is pathogenic and caused significant weight loss, pulmonary congestion, and blood transmission in mice because it has multiple virulence factors, haemolysis, and strong biofilm formation abilities. In addition, the cytokine response induced by this strain was similar to that observed in patients with TB, and the strain was resistant to half of the anti-TB drugs.ConclusionsThe pathogenicity of 610A2T may not be weaker than that of S. maltophilia. Its isolation extended the opportunistic pathogenic species to all 3 major clades of the genus Stenotrophomonas, indicating that the clinical importance of species of Stenotrophomonas other than S. maltophilia and potential risks to biological safety associated with the use of Stenotrophomonas require more attention. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1410385>
 
 ---
 

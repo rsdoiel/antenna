@@ -1,11 +1,91 @@
 ---
 title: motorcycles 2024.23
-updated: 2024-06-04 15:10:10
+updated: 2024-06-05 08:49:09
 ---
 
 # motorcycles 2024.23
 
-(date: 2024-06-04 15:10:10)
+(date: 2024-06-05 08:49:09)
+
+---
+
+## Did We Just Get A Peek At A New Honda Monkey Color?
+
+date: 2024-06-05, from: Ride Apart, Electric Motorcycle News
+
+At Honda's annual HondaGO Bike Meeting in Japan, visitors may just have gotten a sneak peak at the future. 
+
+<https://www.rideapart.com/news/722125/honda-monkey-puko-blue-color/>
+
+---
+
+## Orange County Choppers Were Trash As Evidenced By This Video
+
+date: 2024-06-05, from: Ride Apart, Electric Motorcycle News
+
+They looked cool. They were built like shit.  
+
+<https://www.rideapart.com/news/721733/orange-county-choppers-bearded-mechanic-video/>
+
+---
+
+## Kawasaki's New UTV Is a Murdered-Out Machine Meant for the Night
+
+date: 2024-06-05, from: Ride Apart, Electric Motorcycle News
+
+Might as well be a ghost. 
+
+<https://www.rideapart.com/news/722116/kawasaki-2025-teryx-krx-1000-blackout-utv/>
+
+---
+
+## Is The Clip The E-Bike Conversion Kit That'll Finally Work?
+
+date: 2024-06-05, from: Ride Apart, Electric Motorcycle News
+
+Turning any old bike into an e-bike is quite a hefty claim.  
+
+<https://www.rideapart.com/news/722035/clip-ebike-conversion-kit/>
+
+---
+
+## You Can Put Your Name on a MotoGP Bike and Win a Ducati V4s
+
+date: 2024-06-05, from: Ride Apart, Electric Motorcycle News
+
+The question is: what does a regular person have to gain from sponsoring a MotoGP team? The answer: a lot. 
+
+<https://www.rideapart.com/news/721934/sponsor-gresini-motogp-deal/>
+
+---
+
+## Verge Motorcycles Is Trying to Sell Motorcycles Out of Retail Shops
+
+date: 2024-06-05, from: Ride Apart, Electric Motorcycle News
+
+The EV motorcycle specialist has not one, but two retail stores.  
+
+<https://www.rideapart.com/news/721964/verge-motorcycles-opens-stores-california/>
+
+---
+
+## Take a Look at This 430 Horsepower Fully Electric Flying Motorcycle
+
+date: 2024-06-05, from: Ride Apart, Electric Motorcycle News
+
+Czech company UDX is adamant on making it a reality.  
+
+<https://www.rideapart.com/news/721967/udx-airwolf-flying-motorcycle-coming-soon/>
+
+---
+
+## Uncertainty, opportunity await Cup Series drivers at “new” Sonoma
+
+date: 2024-06-04, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer Sonoma Raceway, which sits atop the golden rolling hills of Northern California’s Wine Country, has been a staple on the NASCAR Cup Series circuit dating&#8230;  
+
+<https://kickinthetires.net/nascar/uncertainty-opportunity-await-cup-series-drivers-at-new-sonoma/>
 
 ---
 
@@ -66,6 +146,26 @@ date: 2024-06-04, from: Cycle World News
 Harley-Davidson Factory Racing rider Kyle Wyman used his masterful race craft and Harley-Davidson horsepower to score a dramatic victory on Sunday in MotoAmerica. 
 
 <https://www.cycleworld.com/the-wire/harley-davidson-factory-racer-kyle-wyman-sets-new-king-of-the-baggers-track-record-and-wins-race-two-at-road-america/>
+
+---
+
+## Polaris' New Sportsman ATV Can Finally Bring a Friend Along for a Comfortable Ride
+
+date: 2024-06-04, from: Ride Apart, Electric Motorcycle News
+
+Oh the places we shall go.  
+
+<https://www.rideapart.com/news/721957/polaris-sportsman-570-2-up-atv-debut-specs-prices-2025-6x6/>
+
+---
+
+## Polaris Just Dropped a Wild 6x6 ATV To Get Your Further Into the Field
+
+date: 2024-06-04, from: Ride Apart, Electric Motorcycle News
+
+Witness me! 
+
+<https://www.rideapart.com/news/721960/polaris-6x6-sportsman-570-2025-specs-price/>
 
 ---
 

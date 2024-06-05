@@ -1,11 +1,136 @@
 ---
 title: central coast 2024.23
-updated: 2024-06-04 15:10:09
+updated: 2024-06-05 08:49:08
 ---
 
 # central coast 2024.23
 
-(date: 2024-06-04 15:10:09)
+(date: 2024-06-05 08:49:08)
+
+---
+
+## Ring of Kerry
+
+date: 2024-06-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042124-POD-Douglas-Scott.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Ring of Kerry, Ireland." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042124-POD-Douglas-Scott.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042124-POD-Douglas-Scott.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042124-POD-Douglas-Scott.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042124-POD-Douglas-Scott.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042124-POD-Douglas-Scott.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042124-POD-Douglas-Scott.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042124-POD-Douglas-Scott.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042124-POD-Douglas-Scott.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042124-POD-Douglas-Scott.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042124-POD-Douglas-Scott.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042124-POD-Douglas-Scott.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042124-POD-Douglas-Scott.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042124-POD-Douglas-Scott.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/ring-of-kerry/">Ring of Kerry</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ring-of-kerry/>
+
+---
+
+## Santa Barbara Council Sends Sales Tax Increase to Voters, But Debates Ballot Language
+
+date: 2024-06-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Sales-Tax-Meagan-Harmon-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara City Councilwoman Meagan Harmon." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Sales-Tax-Meagan-Harmon-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Sales-Tax-Meagan-Harmon-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Sales-Tax-Meagan-Harmon-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Sales-Tax-Meagan-Harmon-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Sales-Tax-Meagan-Harmon-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Sales-Tax-Meagan-Harmon-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Sales-Tax-Meagan-Harmon-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Sales-Tax-Meagan-Harmon-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Sales-Tax-Meagan-Harmon-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-Sales-Tax-Meagan-Harmon-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara voters will decide in November whether to increase the sales tax by a half-cent, the City Council decided Tuesday. The council members, however, disagreed over whether housing or [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-council-sends-sales-tax-increase-to-voters-but-debates-ballot-language/">Santa Barbara Council Sends Sales Tax Increase to Voters, But Debates Ballot Language</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-council-sends-sales-tax-increase-to-voters-but-debates-ballot-language/>
+
+---
+
+## Ron Fink: Revenue Losses From California Tax Credit Committee Projects Affect Lompoc General Fund
+
+date: 2024-06-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>After discussing this issue with current and former city of Lompoc employees I found out why low-income housing is a burden on smaller communities like Lompoc. Most California cities derive [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ron-fink-revenue-losses-from-california-tax-credit-committee-projects-affect-lompoc-general-fund/">Ron Fink: Revenue Losses From California Tax Credit Committee Projects Affect Lompoc General Fund</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ron-fink-revenue-losses-from-california-tax-credit-committee-projects-affect-lompoc-general-fund/>
+
+---
+
+## Santa Barbara School District OKs $7.3 Million Spending Plan for Instruments, Art Supplies
+
+date: 2024-06-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060124-Music-Michael-Kiyoi-2-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Michael Kiyoi, instrumental music director at San Marcos High School." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060124-Music-Michael-Kiyoi-2-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060124-Music-Michael-Kiyoi-2-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060124-Music-Michael-Kiyoi-2-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060124-Music-Michael-Kiyoi-2-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060124-Music-Michael-Kiyoi-2-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060124-Music-Michael-Kiyoi-2-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060124-Music-Michael-Kiyoi-2-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060124-Music-Michael-Kiyoi-2-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060124-Music-Michael-Kiyoi-2-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060124-Music-Michael-Kiyoi-2-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Here comes the money. Schools in the Santa Barbara Unified School District will receive $7.3 million to fund instruments and art supplies. The school board voted 4-0 last week to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-school-district-gets-7-3-million-state-grant-for-instruments-art-supplies/">Santa Barbara School District OKs $7.3 Million Spending Plan for Instruments, Art Supplies</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-school-district-gets-7-3-million-state-grant-for-instruments-art-supplies/>
+
+---
+
+## Tracy Beckerman: When Trouble Is Brewing
+
+date: 2024-06-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>My husband was never much of a coffee drinker, but after a business trip to Italy, he became enamored with espresso. At first he would just order it in restaurants. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/tracy-beckerman-when-trouble-is-brewing/">Tracy Beckerman: When Trouble Is Brewing</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/tracy-beckerman-when-trouble-is-brewing/>
+
+---
+
+## Artist Ashwini Bhat Interacts with Clay, Public in ‘Earth Under Our Feet’ at Santa Barbara Museum of Art
+
+date: 2024-06-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ashwini-Bhat-promo-headshot-horiz.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Artist Ashwini Bhat." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ashwini-Bhat-promo-headshot-horiz.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ashwini-Bhat-promo-headshot-horiz.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ashwini-Bhat-promo-headshot-horiz.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ashwini-Bhat-promo-headshot-horiz.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ashwini-Bhat-promo-headshot-horiz.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ashwini-Bhat-promo-headshot-horiz.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ashwini-Bhat-promo-headshot-horiz.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ashwini-Bhat-promo-headshot-horiz.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ashwini-Bhat-promo-headshot-horiz.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ashwini-Bhat-promo-headshot-horiz.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Indian-born artist Ashwini Bhat has a general idea of what will happen during her two-part, interactive free performance “Earth Under Our Feet” on the front terrace at the Santa Barbara [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/artist-ashwini-bhat-interacts-with-clay-public-in-earth-under-our-feet-at-santa-barbara-museum-of-art/">Artist Ashwini Bhat Interacts with Clay, Public in &#8216;Earth Under Our Feet&#8217; at Santa Barbara Museum of Art</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/artist-ashwini-bhat-interacts-with-clay-public-in-earth-under-our-feet-at-santa-barbara-museum-of-art/>
+
+---
+
+## Cate School Spring Student-Athletes Collect All-Tri-Valley, Frontier League Honors
+
+date: 2024-06-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/cate-all-league-cover.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/cate-all-league-cover.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/cate-all-league-cover.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/cate-all-league-cover.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/cate-all-league-cover.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/cate-all-league-cover.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/cate-all-league-cover.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/cate-all-league-cover.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/cate-all-league-cover.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/cate-all-league-cover.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/cate-all-league-cover.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Cate School experienced success across several different sports during the spring season, and there were many individual student-athletes at the forefront of this success. With this success at a team [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/cate-school-spring-student-athletes-collect-all-tri-valley-frontier-league-honors/">Cate School Spring Student-Athletes Collect All-Tri-Valley, Frontier League Honors</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/cate-school-spring-student-athletes-collect-all-tri-valley-frontier-league-honors/>
+
+---
+
+## Circus Vargas Show Takes an Acrobatic Journey Around the World
+
+date: 2024-06-04, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-JIverson-2000.gif?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Ringmaster Johnathan Lee Iverson wears white suit with gold embroidered scroll work and matching top hat as he introduces Circus Vargas performers to the audience. (Courtesy photo)" decoding="async" loading="lazy" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Circus Vargas’ 2024 production Jubilé! An Epic World Celebration! will be held June 17-27 at Earl Warren Showgrounds in Santa Barbara, and June 21-July 8 at the Madonna Inn in [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/circus-vargas-show-takes-an-acrobatic-journey-around-the-world/">Circus Vargas Show Takes an Acrobatic Journey Around the World</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/circus-vargas-show-takes-an-acrobatic-journey-around-the-world/>
+
+---
+
+## County Will Ask Voters to Increase Hotel Tax on November Ballot
+
+date: 2024-06-04, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara County – and several cities – will be asking voters to increase the hotel tax rate this November. The county Board of Supervisors voted Tuesday to place a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/county-will-ask-voters-to-increase-hotel-tax-on-november-ballot/">County Will Ask Voters to Increase Hotel Tax on November Ballot</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/county-will-ask-voters-to-increase-hotel-tax-on-november-ballot/>
+
+---
+
+## Lompoc Library Summer Reading Challenge: Read, Renew, Repeat
+
+date: 2024-06-04, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Lompoc Public Library System invites community members to read what they like, renew their books, bodies, and minds, and repeat often by participating in the Summer Reading Challenge: Read, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lompoc-library-summer-reading-challenge-read-renew-repeat/">Lompoc Library Summer Reading Challenge: Read, Renew, Repeat</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/lompoc-library-summer-reading-challenge-read-renew-repeat/>
 
 ---
 

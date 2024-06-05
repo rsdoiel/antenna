@@ -1,11 +1,481 @@
 ---
 title: pacific 2024.23
-updated: 2024-06-04 15:10:09
+updated: 2024-06-05 08:49:08
 ---
 
 # pacific 2024.23
 
-(date: 2024-06-04 15:10:09)
+(date: 2024-06-05 08:49:08)
+
+---
+
+## US eases restrictions on US territories' membership in Pacific Islands Forum 
+
+date: 2024-06-05, from: Pacific Island Times
+
+By Pacific Island Times News Staff The U.S. government has agreed to allow U.S. territories to join the Pacific Islands Forum as... 
+
+<https://www.pacificislandtimes.com/post/us-territories-get-the-green-light-to-join-pacific-islands-forum-as-associate-members>
+
+---
+
+## Energy credit extension now law, OPA continuous funding vetoed
+
+date: 2024-06-05, from: Guam Daily Post
+
+Gov. Lou Leon Guerrero has signed into law six more months of energy credits for Guam's long-standing Prugråman Ayuda Para I Taotao-ta Energy Credit Program, but has rejected another measure meant to provide continuous funding for the Office of Public… 
+
+<https://www.postguam.com/news/energy-credit-extension-now-law-opa-continuous-funding-vetoed/article_5c3fb156-231b-11ef-a979-2333b0776e3e.html>
+
+---
+
+## Your Views for June 5
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>Some thoughts on&#0010;politics in America</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/opinion/your-views-for-june-5-7/>
+
+---
+
+## Trump’s whining is a projection
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>A truism of the Trump era is that every accusation is a confession. When Donald Trump hurls wild charges at his opponents, he is telegraphing what he plans to do to them, preemptively justifying the breaking of laws and norms by casting himself as the victim of the very misdeeds he&#8217;s going to commit.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/opinion/trumps-whining-is-a-projection/>
+
+---
+
+## GOP road gets bumpy with Trump convictions
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>Amid the cheers and jeers over Donald Trump&#8217;s legal fate is a practical reality: The former president&#8217;s conviction will be an albatross for Republicans.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/opinion/gop-road-gets-bumpy-with-trump-convictions/>
+
+---
+
+## US attorney general denies politicizing justice system against Trump
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. Attorney General Merrick Garland on Tuesday rejected accusations by House Republicans that he had politicized the criminal justice system in a bid to stop Donald Trump from reclaiming the White House.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/nation-world-news/us-attorney-general-denies-politicizing-justice-system-against-trump/>
+
+---
+
+## House votes to impose sanctions on ICC
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The House voted mostly along party lines Tuesday to impose sanctions on officials at the International Criminal Court in a rebuke of efforts by the court&#8217;s top prosecutor to charge top Israeli leaders with war crimes in connection with the offensive against Hamas.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/nation-world-news/house-votes-to-impose-sanctions-on-icc/>
+
+---
+
+## Boeing’s Starliner set up for 3rd shot at 1st human spaceflight
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>KENNEDY SPACE CENTER, Fla. &#8212; A pair of NASA astronauts will be at it again today trying to take a ride on Boeing&#8217;s CST-100 Starliner making its first-ever human spaceflight.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/nation-world-news/boeings-starliner-set-up-for-3rd-shot-at-1st-human-spaceflight/>
+
+---
+
+## SpaceX’s next Starship rocket test gets FAA go-ahead
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Federal Aviation Administration (FAA) on Tuesday said it issued a license for SpaceX&#8217;s fourth flight of its Starship rocket system, another test mission along the company&#8217;s path to building a reusable satellite launcher and moon lander.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/nation-world-news/spacexs-next-starship-rocket-test-gets-faa-go-ahead/>
+
+---
+
+## Hunter Biden jury sees evidence of addiction, hears ‘no one is above the law’
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>WILMINGTON, Delaware &#8212; Prosecutors in the historic criminal trial of President Joe Biden&#8217;s son Hunter Biden told jurors on Tuesday that overwhelming evidence shows that the younger Biden lied to hide his drug addiction so he could illegally buy a gun, while the defense said he had no intent to deceive.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/nation-world-news/hunter-biden-jury-sees-evidence-of-addiction-hears-no-one-is-above-the-law/>
+
+---
+
+## Israel strikes, shelling kill 19 in Gaza amid manoeuvring on ceasefire quest
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/JERUSALEM &#8212; Israeli shelling and airstrikes killed at least 19 people in central and south Gaza on Tuesday including two policemen who were helping protect humanitarian aid deliveries in the southern city of Rafah, Palestinian medics said.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/nation-world-news/israel-strikes-shelling-kill-19-in-gaza-amid-manoeuvring-on-ceasefire-quest/>
+
+---
+
+## Killer turbulence sees more airlines embrace data-driven mindset
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>Airlines are expressing a greater interest in IATA&#8217;s turbulence awareness program, a data collection system that helps pilots navigate tricky weather in real time, after last month&#8217;s Singapore Airlines Ltd. incident that left one dead and scores injured.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/nation-world-news/killer-turbulence-sees-more-airlines-embrace-data-driven-mindset/>
+
+---
+
+## India’s Modi set to win historic third term but with surprisingly slim majority
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>NEW DELHI &#8212; Indian Prime Minister Narendra Modi looked set on Tuesday to retain power at the head of a ruling coalition but his Hindu nationalist party lost its outright majority for the first time in a decade as voters defied predictions of another landslide.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/nation-world-news/indias-modi-set-to-win-historic-third-term-but-with-surprisingly-slim-majority/>
+
+---
+
+## Baseball-Padres’ Marcano gets lifetime MLB ban for betting on baseball
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; San Diego Padres infielder Tucupita Marcano received a lifetime ban from Major League Baseball for placing hundreds of bets on baseball, including games involving the Pittsburgh Pirates last season when he was a member of the team, MLB said on Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/sports/baseball-padres-marcano-gets-lifetime-mlb-ban-for-betting-on-baseball/>
+
+---
+
+## NHL’s move to Salt Lake City is latest sports downsizing
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>Sometimes, smaller is better.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/sports/nhls-move-to-salt-lake-city-is-latest-sports-downsizing-2/>
+
+---
+
+## Baseball star Ohtani’s ex-interpreter pleads guilty to bank fraud
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>SANTA ANA, California (Reuters) -Japanese baseball great Shohei Ohtani&#8217;s former interpreter pleaded guilty on Tuesday to stealing nearly $17 million from the athlete&#8217;s bank account to pay off his own gambling debts, according to U.S. prosecutors.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/sports/baseball-star-ohtanis-ex-interpreter-pleads-guilty-to-bank-fraud/>
+
+---
+
+## Tua Tagovailoa delivers another sharp day in limited work
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>MIAMI &#8212; Tua Tagovailoa continues to sit out the Miami Dolphins&#8217; 11-on-11 work while his camp negotiates for a multiyear contract extension, but the team&#8217;s starting quarterback was dealing during the 7-on-7 periods he threw in during Tuesday&#8217;s practice.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/sports/tua-tagovailoa-delivers-another-sharp-day-in-limited-work/>
+
+---
+
+## HCRA: Puna Canoe Club collects 13 medals in Hilo
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8212; Moku O Hawai&#8216;i Ourigger Canoe Racing Association hosted its third long-distance meet of the 2024 season on Saturday in Hilo Bayfront. Exactly 461 paddlers competed, with 233 of them being keiki. Michael O&#8217;Shaughnessy was the event&#8217;s oldest participant at 79 years old, while Stone Schaber was the youngest at age 9. The event was sponsored by Hui Wa&#8216;a &#8216;O Waiakea.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/sports/hcra-puna-canoe-club-collects-13-medals-in-hilo/>
+
+---
+
+## Kyrie Irving: ‘Wasn’t my best self’ during Celtics tenure, ‘looking forward’ to NBA Finals in Boston
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>DALLAS &#8212; As he prepares to return to the arena where he once vowed to have his jersey retired in the rafters, Kyrie Irving said he wasn&#8217;t his best self during his two seasons playing for the Boston Celtics.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/sports/kyrie-irving-wasnt-my-best-self-during-celtics-tenure-looking-forward-to-nba-finals-in-boston/>
+
+---
+
+## Christian McCaffrey, 49ers agree to 2-year extension worth $19 million per season: Sources
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>SANTA CLARA, Calif. &#8212; Christian McCaffrey and the 49ers reportedly agreed Tuesday to a two-year contract extension worth $19 million each season.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/sports/christian-mccaffrey-49ers-agree-to-2-year-extension-worth-19-million-per-season-sources/>
+
+---
+
+## In Caitlin Clark/WNBA discourse, Pat McAfee and ESPN came up short
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>The only place in the Disney media kingdom where you could possibly get away with calling a 22-year-old woman a &#8220;White b&#8212;-&#8221; is on ESPN on weekday afternoons.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/sports/in-caitlin-clark-wnba-discourse-pat-mcafee-and-espn-came-up-short/>
+
+---
+
+## Training simulation staged for first responders
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>A multi-agency training simulation Tuesday at Waiakea High School evaluated and improved the responses to potential incidents involving hazardous materials.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/hawaii-news/training-simulation-staged-for-first-responders/>
+
+---
+
+## Traveling to Europe, Biden will find both solidarity and isolation
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; When President Joe Biden lands in France today, he will be rallying European leaders to his side and showcasing the resolve he has helped to foster on behalf of Ukraine.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/nation-world-news/traveling-to-europe-biden-will-find-both-solidarity-and-isolation/>
+
+---
+
+## Oil industry asks Supreme Court to block climate change lawsuits from Hawaii, other states
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Oil and gas companies are asking the Supreme Court to block dozens of high-powered lawsuits from Hawaii to Massachusetts seeking to hold the industry liable for billions of dollars in costs related to climate change.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/hawaii-news/oil-industry-asks-supreme-court-to-block-climate-change-lawsuits-from-hawaii-other-states/>
+
+---
+
+## Recent Kilauea eruptions could indicate new phase of activity
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>The brief eruption of Kilauea earlier this week was three years in the making.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/hawaii-news/recent-kilauea-eruptions-could-indicate-new-phase-of-activity/>
+
+---
+
+## Suspect sought in Hilo burglary
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>South Hilo patrol officers responded Monday at about 3:12 a.m. to a burglary alarm at a business located on the 500 block of West Kawailani Street in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/hawaii-news/suspect-sought-in-hilo-burglary/>
+
+---
+
+## Armed standoff suspect indicted
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>An armed standoff suspect freed by a judge on cashless bail over a prosecutor&#8217;s objection has been indicted and is back behind bars.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/hawaii-news/armed-standoff-suspect-indicted/>
+
+---
+
+## COVID cases creep up on the Big Island
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Island hospitals are reporting a slight increase in COVID-19 activity similar to rising rates throughout the state.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/hawaii-news/covid-cases-creep-up-on-the-big-island/>
+
+---
+
+## Three Hilo residents accused of crimes related to stolen checks
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>Three people have been arrested and charged with various financial crime offenses stemming from a theft of mail that occurred in January.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/hawaii-news/three-hilo-residents-accused-of-crimes-related-to-stolen-checks/>
+
+---
+
+## Obituaries for June 5
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>John &#8220;Johnito&#8221; R. Santos, 80, of Mountain View died May 17 at home. Born Kaneohe, Oahu, he was an auto detailer for Big Island Toyota, professional boxer and coach for HI-PAL. Visitation 10-11 a.m. Monday (June 10) at Ballard Family Mortuary in Hilo. Service 11 a.m. to noon. Burial 1:30 p.m. to follow at Alae Cemetery. Survived by wife, Sandra A. Santos of Mountain View; sons, Benjamin (Kim) Cortez of Hilo, Ezra Santos of Maui, John (Naomi) Santos of Hilo, Quintin Santos of Mountain View and Kalani Santos Bertilacci of Pahoa; daughters, Barbara Alavarez of Pahoa, Shirley Santos Roaque of Hilo, Alvina Santos of Pahoa, Lola (Keola) Akui of Keaau, Juanita Santos of Mountain View, Pikake Martin of Honolulu and Vicki Santos of Pahoa; sisters Margaret Santos, Carmelita Tavares and Dolores Santos of Honolulu, Alvina (John) Desoto of Mountain View; grandchildren and great-grandchildren. Arrangements by Ballard Family Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/obituaries/obituaries-for-june-5-10/>
+
+---
+
+## Project Today seeks to recognize  all living Guam WWII survivors
+
+date: 2024-06-05, from: Guam Daily Post
+
+The Guam Visitors Bureau and Sen. Jesse Lujan are working together to honor World War II survivors living on and off Guam through a joint initiative called Project Today. 
+
+<https://www.postguam.com/news/local/project-today-seeks-to-recognize-all-living-guam-wwii-survivors/article_d3091244-22e1-11ef-b88f-fb67bab40544.html>
+
+---
+
+## Public hearing set  for bill to allow use of GHC land for  temporary SSHS
+
+date: 2024-06-05, from: Guam Daily Post
+
+Recently introduced legislation seeking to amend the law so that schools are included in the use of Guam Housing Corp. property in Dededo/Yigo, for a temporary Simon Sanchez High School campus, will have its public hearing next week. 
+
+<https://www.postguam.com/news/local/public-hearing-set-for-bill-to-allow-use-of-ghc-land-for-temporary-sshs/article_ef4a92a0-22e8-11ef-b006-63b7a86bf5ea.html>
+
+---
+
+## Charges dismissed in Maite car theft suspect's 1st appearance
+
+date: 2024-06-05, from: Guam Daily Post
+
+Charges for a man accused of assaulting and stealing a 76-year-old man's truck at a Maite gas station were dismissed without prejudice. 
+
+<https://www.postguam.com/news/local/charges-dismissed-in-maite-car-theft-suspects-1st-appearance/article_9f3fa16a-22d4-11ef-a20c-07e766c66c28.html>
+
+---
+
+## Serebour seeking acquittal of Pay-Less carjacking conviction
+
+date: 2024-06-05, from: Guam Daily Post
+
+Timothy Tedtaotao Serebour is seeking an acquittal of his carjacking conviction based on insufficient evidence presented at trial. 
+
+<https://www.postguam.com/news/local/serebour-seeking-acquittal-of-pay-less-carjacking-conviction/article_bd6caa72-22e1-11ef-8d53-e7a45027d07f.html>
+
+---
+
+## Man, 31, accused of raping girl, 11, while she was showering
+
+date: 2024-06-05, from: Guam Daily Post
+
+A 31-year-old man was accused of raping an 11-year-old girl in the shower. 
+
+<https://www.postguam.com/news/local/man-31-accused-of-raping-girl-11-while-she-was-showering/article_5564d8d4-22f8-11ef-8785-dff2c0415e7b.html>
+
+---
+
+## Suspected gang leader pleads not guilty to several violent charges
+
+date: 2024-06-05, from: Guam Daily Post
+
+An alleged gang leader deemed by police as a “very dangerous individual” entered pleas of not guilty to several violent offenses. 
+
+<https://www.postguam.com/news/local/suspected-gang-leader-pleads-not-guilty-to-several-violent-charges/article_643f20ba-22dc-11ef-8ac7-cf7ed547e8e0.html>
+
+---
+
+## Empowering Tonga’s Seafood Entrepreneurs: Graduates Celebrate Success in Micro-Qualification Training
+
+date: 2024-06-05, from: University of the South Pacific (Fiji)
+
+<p>6 June, 2024, Nukualofa, Tonga – Approximately 20 participants successfully completed a micro-qualification training on...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/empowering-tongas-seafood-entrepreneurs-graduates-celebrate-success-in-micro-qualification-training/">Empowering Tonga&#8217;s Seafood Entrepreneurs: Graduates Celebrate Success in Micro-Qualification Training</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/empowering-tongas-seafood-entrepreneurs-graduates-celebrate-success-in-micro-qualification-training/>
+
+---
+
+## Over 30 Trainees Complete USP PEUMP Money Minded Business Basics Training
+
+date: 2024-06-05, from: University of the South Pacific (Fiji)
+
+<p>On May 29, 2024 &#8211; Over 30 trainees successfully completed the Money Minded Business Basics...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/over-30-trainees-complete-usp-peump-money-minded-business-basics-training/">Over 30 Trainees Complete USP PEUMP Money Minded Business Basics Training</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/over-30-trainees-complete-usp-peump-money-minded-business-basics-training/>
+
+---
+
+## Palau vice president endorses US territories' membership in Pacific Island Forum
+
+date: 2024-06-05, from: Pacific Island Times
+
+By Frank Whitman Palau Vice President Uduch Sengebau Senior called for an “enhanced organizational structure” and the inclusion of the... 
+
+<https://www.pacificislandtimes.com/post/palau-vice-president-endorses-us-territories-membership-in-pacific-island-forum>
+
+---
+
+## 30-day comment period starts for proposed missile defense testing
+
+date: 2024-06-05, from: Guam Daily Post
+
+ 
+
+<https://www.postguam.com/news/local/30-day-comment-period-starts-for-proposed-missile-defense-testing/article_28e37e4a-22d1-11ef-b545-0f870c088c4e.html>
+
+---
+
+## †Juan "John" Sablan Salas
+
+date: 2024-06-04, updated: 2024-06-04, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/obituaries/juan-john-sablan-salas/article_a4f1d45c-22bb-11ef-bd57-2362e238604f.html>
 
 ---
 
@@ -49,6 +519,96 @@ date: 2024-06-04, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/06/04/uh-to-launch-google-cybersecurity-clinics/"><abbr>UH</abbr> among 15 colleges to launch Google Cybersecurity Clinics</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/06/04/uh-to-launch-google-cybersecurity-clinics/>
+
+---
+
+## Next stop: high school
+
+date: 2024-06-04, updated: 2024-06-05, from: Marianas Variety
+
+Hundreds of well-wishers gathered Thursday morning at the Crown Plaza Resort to celebrate Chacha Ocean View Middle School’s promotion of 85 eighth grade students to high school. Opening and welcoming remarks were given by Principal Martha Kintol.  Other remarks and award presentations were given by Commissioner of Education Dr. Lawrence F. Camacho and Acting Board of Education Chairperson Maisie B. Tenorio. The awardees were:  Board of Education, Academic Excellence Award, Cyrena Cing Ada, Valedictorian; Commissioner of Education Academic Excellence Award, Jesse Lin, Salutatorian; Principal’s Award, Aimaan Mustansar; Leadership Award, Cyrena Cing Ada; Lancheru Spirit Award, Jesse Lin; Academic Excellence in the subject of English Language Arts, Mark Alexander Aquino &amp; Aniyah-Emma Camacho; Academic Excellence in the subject of Mathematics, Cyrena Cing Ada; Academic Excellence in the subject of Science, Jesse Lin; Academic Excellence in the subject of Social Studies, Cyrena Cing Ada; Academic Excellence in the subject of Chamorro Language and Heritage Studies, Cyrena Cing Ada; Academic Excellence in the subject of Physical Education, Mark Alexander Aquino; Academic Excellence in the subject of Leadership Corps, Jesse Lin &amp; Aniyah-Emma Camacho; Academic Excellence in the subject of Business Math, Cyrena Cing Ada; Academic Excellence in the subject of Computer Applications, Cyrena Cing Ada; Academic Excellence in the subject of Woodshop, Cyrena Cing Ada; Winning theme, “Inspire Yourself to Inspire Others,” written by Jarian Sablan. After the certificates were presented, the promotees ended the event by giving rousing performances of “Best Day of My Life” by the American Authors, and the COVMS School Song. 
+
+<https://www.mvariety.com/news/community_bulletins/next-stop-high-school/article_7cbc98e8-226e-11ef-b9c1-cf8c0b032c0a.html>
+
+---
+
+## Wang, Miller rule 3rd Annual Grotto 10K ‘24
+
+date: 2024-06-04, updated: 2024-06-05, from: Marianas Variety
+
+RUN Saipan’s 3rd Annual Grotto 10K ‘24 featured a mix of young and experienced runners such as 15-year-old Jireh Wang and 54-year-old Akiko Miller, who finished first in their respective divisions on Saturday morning. 
+
+<https://www.mvariety.com/sports/localsports/wang-miller-rule-3rd-annual-grotto-10k-24/article_19766f24-226a-11ef-9d41-933a124e554d.html>
+
+---
+
+## Peliliu edges Man Amigos, 23-22; Germance wins homerun derby
+
+date: 2024-06-04, updated: 2024-06-05, from: Marianas Variety
+
+PELILIU are still vying for a spot in the top five of the 2024 Budweiser Belau Amateur Softball Association League after pulling a late-game rally to upset Man Amigos, 23-22, and earn their eighth win of the season at the Dandan baseball field on Sunday. 
+
+<https://www.mvariety.com/sports/localsports/peliliu-edges-man-amigos-23-22-germance-wins-homerun-derby/article_f933aeb2-2268-11ef-9ff6-bfa83a8cef71.html>
+
+---
+
+## Saipan Awaodori team to perform in Japan again
+
+date: 2024-06-04, updated: 2024-06-05, from: Marianas Variety
+
+THE Saipan Awaodori team will once again join Awaodori performers in Japan. 
+
+<https://www.mvariety.com/news/local/saipan-awaodori-team-to-perform-in-japan-again/article_36732728-223f-11ef-ab79-2311b05d92f4.html>
+
+---
+
+## Saipan Chamber of Commerce commends governor for initiating Section 902 talks
+
+date: 2024-06-04, updated: 2024-06-05, from: Marianas Variety
+
+(SCC) — The Saipan Chamber of Commerce commends Governor Arnold I. Palacios for writing to President Joseph R. Biden Jr. on April 26, 2024 to initiate consultations between the CNMI and the U.S. pursuant to Section 902 of the Covenant. 
+
+<https://www.mvariety.com/news/local/saipan-chamber-of-commerce-commends-governor-for-initiating-section-902-talks/article_a0e6a0d6-225c-11ef-a6c2-9b2dfa380033.html>
+
+---
+
+## Rota delegation honors former Senate President Julian S. Calvo
+
+date: 2024-06-04, updated: 2024-06-05, from: Marianas Variety
+
+THE Rota Legislative Delegation on Tuesday adopted Senate Commemorative Resolution 23-4 honoring former Senate President Julian S. Calvo. 
+
+<https://www.mvariety.com/news/local/rota-delegation-honors-former-senate-president-julian-s-calvo/article_7425de3a-2244-11ef-953b-7b907f270ca6.html>
+
+---
+
+## ‘We can take control of our destiny’
+
+date: 2024-06-04, updated: 2024-06-05, from: Marianas Variety
+
+HAGÅTÑA (Office of the Guam Governor) — The Micronesia Islands Forum 2024 concluded Tuesday with leaders committing to unity to navigate the complex issues facing the region. Following two days of presentations on issues ranging from workforce development and transportation to energy, education, healthcare, digitization, and cybersecurity, leaders agreed on the next order of business — establishing a Secretary General. 
+
+<https://www.mvariety.com/news/local/we-can-take-control-of-our-destiny/article_cc9c49dc-225d-11ef-8079-e790115da669.html>
+
+---
+
+## Court sentences 2 defendants in conspiracy to transport illegal aliens
+
+date: 2024-06-04, updated: 2024-06-05, from: Marianas Variety
+
+DONGLIN Xu and Qingjiang Li have been sentenced by the federal court for their involvement in a conspiracy to transport illegal aliens by boat to Guam. 
+
+<https://www.mvariety.com/news/local/court-sentences-2-defendants-in-conspiracy-to-transport-illegal-aliens/article_8d626f0c-2254-11ef-a55f-4bfa76a0c7cd.html>
+
+---
+
+## Marianas Milk
+
+date: 2024-06-04, updated: 2024-06-05, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/views/columnists/marianas-milk/article_e183d998-225b-11ef-8178-eb543ff3ecce.html>
 
 ---
 
@@ -398,6 +958,30 @@ date: 2024-06-04, from: Hawaii Tribune Harold
 
 ---
 
+## ‘Furiosa,’ ‘The Fall Guy’ and the summer the movies died
+
+date: 2024-06-04, from: Hawaii Tribune Harold
+
+
+				<p>The sky is falling at the summer box office, and it&#8217;s not even officially summer yet.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/04/nation-world-news/furiosa-the-fall-guy-and-the-summer-the-movies-died/>
+
+---
+
+## Case of missing Hilo woman is still a mystery after seven years
+
+date: 2024-06-04, from: Hawaii Tribune Harold
+
+
+				<p>Police have more tools than ever to solve missing person cases &#8212; GPS, cellphone records, electronic bank transactions and airline flight databanks have been used to solve disappearances.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/04/hawaii-news/case-of-missing-hilo-woman-is-still-a-mystery-after-seven-years/>
+
+---
+
 ## Woman Found Stabbed After Car Crash in Meyuns Dies at Hospital
 
 date: 2024-06-04, from: Island Times
@@ -422,13 +1006,13 @@ date: 2024-06-04, from: Island Times
 
 ---
 
-## Jomile Garcia: From Self-Taught Artist to Entrepreneur in Palau
+## Jomil Garcia: From Self-Taught Artist to Entrepreneur in Palau
 
 date: 2024-06-04, from: Island Times
 
 <figure><img width="768" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-2-1.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-2-1.jpg?w=768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-2-1.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-2-1.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-2-1.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-2-1.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-2-1.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-2-1.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-2-1.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-2-1.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70557" data-permalink="https://islandtimes.org/jomile-garcia-from-self-taught-artist-to-entrepreneur-in-palau/untitled-2-38/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-2-1.jpg?fit=768%2C1024&amp;ssl=1" data-orig-size="768,1024" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Untitled-2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-2-1.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-2-1.jpg?fit=768%2C1024&amp;ssl=1" /></figure>
-<p>By: Marissa Dilmeang Spires Jomile Garcia, a self-taught artist from Palau, has turned her passion for art into a thriving entrepreneurial venture. Through her Instagram account, @pw.artsthetics, she promotes her own designs on stickers, t-shirts, tote bags, and phone cases. Garcia also accepts art requests and commissions, including a mural for the VIP Guest Hotel [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/jomile-garcia-from-self-taught-artist-to-entrepreneur-in-palau/">Jomile Garcia: From Self-Taught Artist to Entrepreneur in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+<p>By: Marissa Dilmeang Spires Jomil Garcia, a self-taught artist from Palau, has turned her passion for art into a thriving entrepreneurial venture. Through her Instagram account, @pw.artsthetics, she promotes her own designs on stickers, t-shirts, tote bags, and phone cases. Garcia also accepts art requests and commissions, including a mural for the VIP Guest Hotel [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/jomile-garcia-from-self-taught-artist-to-entrepreneur-in-palau/">Jomil Garcia: From Self-Taught Artist to Entrepreneur in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
 
 <https://islandtimes.org/jomile-garcia-from-self-taught-artist-to-entrepreneur-in-palau/>
@@ -475,7 +1059,7 @@ date: 2024-06-04, from: Island Times
 
 date: 2024-06-04, from: Island Times
 
-<figure><img width="554" height="136" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1a.jpg?fit=554%2C136&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1a.jpg?w=554&amp;ssl=1 554w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1a.jpg?resize=300%2C74&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1a.jpg?resize=400%2C98&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1a.jpg?fit=554%2C136&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70543" data-permalink="https://islandtimes.org/water-games-festival-invitation/untitled-1a-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1a.jpg?fit=554%2C136&amp;ssl=1" data-orig-size="554,136" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Untitled-1a" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1a.jpg?fit=300%2C74&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1a.jpg?fit=554%2C136&amp;ssl=1" /></figure>
+<figure><img width="554" height="136" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1a.jpg?fit=554%2C136&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1a.jpg?w=554&amp;ssl=1 554w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1a.jpg?resize=300%2C74&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1a.jpg?resize=400%2C98&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1a.jpg?fit=554%2C136&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70543" data-permalink="https://islandtimes.org/water-games-festival-invitation/untitled-1a-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1a.jpg?fit=554%2C136&amp;ssl=1" data-orig-size="554,136" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Untitled-1a" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1a.jpg?fit=300%2C74&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1a.jpg?fit=554%2C136&amp;ssl=1" /></figure>
 <p>June 9, Sunday, 08:30-12:00 2024 Long Island Park, Koror In celebration of the 25th Anniversary of Diplomatic Relations between the Republic of Palau and the Republic of China (Taiwan), the ROC (Taiwan) Embassy, the Ministry of State, and the Ministry of Human Resources, Culture, Tourism and Development in collaborating with PVA, PNOC, and Koror State [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/water-games-festival-invitation/">Water Games Festival Invitation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -588,7 +1172,7 @@ A recently unsealed application for a warrant revealed another Guam Police Depar
 
 date: 2024-06-04, from: Island Times
 
-<figure><img width="524" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?fit=524%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?fit=524%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70541" data-permalink="https://islandtimes.org/courage/wc1-12/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?fit=524%2C522&amp;ssl=1" data-orig-size="524,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WC1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?fit=524%2C522&amp;ssl=1" /></figure>
+<figure><img width="524" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?fit=524%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?fit=524%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70541" data-permalink="https://islandtimes.org/courage/wc1-12/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?fit=524%2C522&amp;ssl=1" data-orig-size="524,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WC1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1.jpg?fit=524%2C522&amp;ssl=1" /></figure>
 <p>Attitude is a little thing that makes a big difference. The saddest thing in life is wasted talent. Chazz Palminteri The gift of encouragement is freely given if you ask GOD for it. It is needed for us to build each other up, the body of Christ, the church, our home and family. We can [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/courage/">COURAGE</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -695,7 +1279,7 @@ date: 2024-06-04, from: Island Times
 
 date: 2024-06-04, from: Island Times
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70522" data-permalink="https://islandtimes.org/mexico-elects-claudia-sheinbaum-as-its-first-woman-president/mexico-elects-claudia/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Eduardo Verdugo&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Ruling party presidential candidate Claudia Sheinbaum greets supporters after the National Electoral Institute announced she held an irreversible lead in the election in Mexico City, early Monday, June 3, 2024. (AP Photo\/Eduardo Verdugo)&quot;,&quot;created_timestamp&quot;:&quot;1717374124&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;200&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.0025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Mexico elects Claudia" data-image-description="" data-image-caption="&lt;p&gt;Ruling party presidential candidate Claudia Sheinbaum greets supporters after the National Electoral Institute announced she held an irreversible lead in the election in Mexico City, early Monday, June 3, 2024. (AP Photo/Eduardo Verdugo)&lt;/p&gt;
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70522" data-permalink="https://islandtimes.org/mexico-elects-claudia-sheinbaum-as-its-first-woman-president/mexico-elects-claudia/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Eduardo Verdugo&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Ruling party presidential candidate Claudia Sheinbaum greets supporters after the National Electoral Institute announced she held an irreversible lead in the election in Mexico City, early Monday, June 3, 2024. (AP Photo\/Eduardo Verdugo)&quot;,&quot;created_timestamp&quot;:&quot;1717374124&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;200&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.0025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Mexico elects Claudia" data-image-description="" data-image-caption="&lt;p&gt;Ruling party presidential candidate Claudia Sheinbaum greets supporters after the National Electoral Institute announced she held an irreversible lead in the election in Mexico City, early Monday, June 3, 2024. (AP Photo/Eduardo Verdugo)&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mexico-elects-Claudia.jpg?fit=780%2C520&amp;ssl=1" /></figure>
 <p>By MARÍA VERZA and MARK STEVENSON Associated Press MEXICO CITY (AP) — Mexico’s projected presidential winner Claudia Sheinbaum will become the first woman president in the country&#8217;s 200-year history. The climate scientist and former Mexico City mayor said Sunday night that her two competitors had called her and conceded her victory. “I will become the [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/mexico-elects-claudia-sheinbaum-as-its-first-woman-president/">Mexico elects Claudia Sheinbaum as its first woman president</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
@@ -721,7 +1305,7 @@ date: 2024-06-04, from: Island Times
 
 date: 2024-06-04, from: Island Times
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70519" data-permalink="https://islandtimes.org/injured-kristaps-porzingis-on-track-for-return-as-celtics-prepare-for-nba-finals-against-mavericks/injured-kristaps/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Steven Senne&quot;,&quot;camera&quot;:&quot;ILCE-9M3&quot;,&quot;caption&quot;:&quot;Boston Celtics guard Payton Pritchard, left, guard Derrick White, center, and center Kristaps Porzingis, right, watch from the bench as the Cleveland Cavaliers lead the Celtics during the second half of Game 2 of an NBA basketball second-round playoff series, Thursday, May 9, 2024, in Boston. (AP Photo\/Steven Senne)&quot;,&quot;created_timestamp&quot;:&quot;1715289723&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved.&quot;,&quot;focal_length&quot;:&quot;77&quot;,&quot;iso&quot;:&quot;4000&quot;,&quot;shutter_speed&quot;:&quot;0.0004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Injured Kristaps" data-image-description="" data-image-caption="&lt;p&gt;Boston Celtics guard Payton Pritchard, left, guard Derrick White, center, and center Kristaps Porzingis, right, watch from the bench as the Cleveland Cavaliers lead the Celtics during the second half of Game 2 of an NBA basketball second-round playoff series, Thursday, May 9, 2024, in Boston. (AP Photo/Steven Senne)&lt;/p&gt;
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70519" data-permalink="https://islandtimes.org/injured-kristaps-porzingis-on-track-for-return-as-celtics-prepare-for-nba-finals-against-mavericks/injured-kristaps/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Steven Senne&quot;,&quot;camera&quot;:&quot;ILCE-9M3&quot;,&quot;caption&quot;:&quot;Boston Celtics guard Payton Pritchard, left, guard Derrick White, center, and center Kristaps Porzingis, right, watch from the bench as the Cleveland Cavaliers lead the Celtics during the second half of Game 2 of an NBA basketball second-round playoff series, Thursday, May 9, 2024, in Boston. (AP Photo\/Steven Senne)&quot;,&quot;created_timestamp&quot;:&quot;1715289723&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved.&quot;,&quot;focal_length&quot;:&quot;77&quot;,&quot;iso&quot;:&quot;4000&quot;,&quot;shutter_speed&quot;:&quot;0.0004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Injured Kristaps" data-image-description="" data-image-caption="&lt;p&gt;Boston Celtics guard Payton Pritchard, left, guard Derrick White, center, and center Kristaps Porzingis, right, watch from the bench as the Cleveland Cavaliers lead the Celtics during the second half of Game 2 of an NBA basketball second-round playoff series, Thursday, May 9, 2024, in Boston. (AP Photo/Steven Senne)&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Injured-Kristaps.jpg?fit=780%2C520&amp;ssl=1" /></figure>
 <p>By KYLE HIGHTOWER AP Sports Writer BOSTON (AP) — Whether injured Celtics center Kristaps Porzingis will be ready in time for the start of the NBA Finals this week is still to be determined. But signs are pointing to him being able to return to the court sooner rather than later during Boston’s matchup with [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/injured-kristaps-porzingis-on-track-for-return-as-celtics-prepare-for-nba-finals-against-mavericks/">Injured Kristaps Porzingis on track for return as Celtics prepare for NBA Finals against Mavericks</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
@@ -735,7 +1319,7 @@ date: 2024-06-04, from: Island Times
 
 date: 2024-06-04, from: Island Times
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70517" data-permalink="https://islandtimes.org/swansons-tiebreaking-2-run-homer-suzukis-grand-slam-lift-cubs-past-reds-7-5-at-wet-wrigley-field/swanson/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Charles Rex Arbogast&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Chicago Cubs catcher Miguel Amaya, left, and relief pitcher H\u00e9ctor Neris celebrate the team&#039;s 7-5 win over the Cincinnati Reds in a baseball game that ended early Sunday, June 2, 2024, in Chicago. (AP Photo\/Charles Rex Arbogast)&quot;,&quot;created_timestamp&quot;:&quot;1717287731&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;400&quot;,&quot;iso&quot;:&quot;4000&quot;,&quot;shutter_speed&quot;:&quot;0.00025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Swanson" data-image-description="" data-image-caption="&lt;p&gt;Chicago Cubs catcher Miguel Amaya, left, and relief pitcher Héctor Neris celebrate the team&#8217;s 7-5 win over the Cincinnati Reds in a baseball game that ended early Sunday, June 2, 2024, in Chicago. (AP Photo/Charles Rex Arbogast)&lt;/p&gt;
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70517" data-permalink="https://islandtimes.org/swansons-tiebreaking-2-run-homer-suzukis-grand-slam-lift-cubs-past-reds-7-5-at-wet-wrigley-field/swanson/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Charles Rex Arbogast&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Chicago Cubs catcher Miguel Amaya, left, and relief pitcher H\u00e9ctor Neris celebrate the team&#039;s 7-5 win over the Cincinnati Reds in a baseball game that ended early Sunday, June 2, 2024, in Chicago. (AP Photo\/Charles Rex Arbogast)&quot;,&quot;created_timestamp&quot;:&quot;1717287731&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;400&quot;,&quot;iso&quot;:&quot;4000&quot;,&quot;shutter_speed&quot;:&quot;0.00025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Swanson" data-image-description="" data-image-caption="&lt;p&gt;Chicago Cubs catcher Miguel Amaya, left, and relief pitcher Héctor Neris celebrate the team&#8217;s 7-5 win over the Cincinnati Reds in a baseball game that ended early Sunday, June 2, 2024, in Chicago. (AP Photo/Charles Rex Arbogast)&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Swanson.jpg?fit=780%2C520&amp;ssl=1" /></figure>
 <p>By JAY COHEN AP Baseball Writer CHICAGO (AP) — Dansby Swanson hit a tiebreaking two-run homer in the eighth inning, and the Chicago Cubs beat the Cincinnati Reds 7-5 on a rainy Saturday night. Seiya Suzuki committed an ugly error and hit his first career grand slam —&#160;in one wild inning&#160;— as Chicago won for [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/swansons-tiebreaking-2-run-homer-suzukis-grand-slam-lift-cubs-past-reds-7-5-at-wet-wrigley-field/">Swanson’s tiebreaking 2-run homer, Suzuki’s grand slam lift Cubs past Reds 7-5 at wet Wrigley Field</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
