@@ -1,11 +1,195 @@
 ---
 title: tech likely 2024.23
-updated: 2024-06-05 08:49:08
+updated: 2024-06-05 14:07:42
 ---
 
 # tech likely 2024.23
 
-(date: 2024-06-05 08:49:08)
+(date: 2024-06-05 14:07:42)
+
+---
+
+## AGI by 2027? 
+
+date: 2024-06-05, from: Gary Marcus blog
+
+Fun with charts 
+
+<https://garymarcus.substack.com/p/agi-by-2027>
+
+---
+
+## Meet the Simunauts: Ohio State Students to Test Space Food Solutions for NASA
+
+date: 2024-06-05, from: NASA breaking news
+
+By Savannah Bullard NASA’s Deep Space Food Challenge kicks off its final eight-week demonstration this month, and a new crew is running the show.&#160; NASA’s partner for the Deep Space Food Challenge, the Methuselah Foundation, has teamed up &#160;with Ohio State University in Columbus to facilitate the challenge’s third and final phase. The university is [&#8230;] 
+
+<https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/meet-the-simunauts-ohio-state-students-to-test-space-food-solutions-for-nasa/>
+
+---
+
+##  The Trailer for Black Barbie 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/the-trailer-for-black-barbie>
+
+---
+
+## Bartender Acquired by Applause Group
+
+date: 2024-06-05, from: Michael Tsai
+
+Juli Clover (Reddit, Hacker News, Mac Power Users Talk, AppleInsider): Popular Mac app Bartender appears to have been quietly sold approximately two months ago, with neither the prior owner nor the current owner providing customers or potential customers with information on the sale.[&#8230;]Bartender&#8217;s new owners replied to the Reddit thread and confirmed that Bartender had [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/05/bartender-acquired-by-applause-group/>
+
+---
+
+## Screen Time Bugs
+
+date: 2024-06-05, from: Michael Tsai
+
+Joanna Stern (tweet): Porn, violent images, illicit drugs. I could see it all by typing a special string of characters into the Safari browser&#8217;s address bar. The parental controls I had set via Apple&#8217;s Screen Time? Useless.Security researchers reported this particular software bug to Apple multiple times over the past three years with no luck. [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/05/screen-time-bugs/>
+
+---
+
+## The Marshall Star for June 5, 2024
+
+date: 2024-06-05, from: NASA breaking news
+
+LIFTOFF! NASA Astronauts Pilot First Starliner Crewed Test to Station NASA astronauts Butch Wilmore and Suni Williams are safely in orbit on the first crewed flight test aboard Boeing’s Starliner spacecraft bound for the International Space Station. As part of NASA’s Boeing Crew Flight Test, the astronauts lifted off at 9:52 a.m. CDT June 5 [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-june-5-2024/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-06-05, from: Tomosino's Mastodon feed)
+
+<p>Breakfast this morning was tea, chia pudding, and all the drugs</p> 
+
+<https://tilde.zone/@tomasino/112565759371436255>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-05, from: Miguel de Icaza Mastondon feed)
+
+<p>Amazing feat.</p><p>Bringing Vulkan to Linux on Apple Silicon in one month:</p><p><a href="https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">rosenzweig.io/blog/vk13-on-the</span><span class="invisible">-m1-in-1-month.html</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112565702066357538>
+
+---
+
+##  In the last 10 years, Paris has closed 100 streets to cars,... 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044758-in-the-last-10-years>
+
+---
+
+## Starliner to the Stars
+
+date: 2024-06-05, from: NASA breaking news
+
+A United Launch Alliance Atlas V rocket with Boeing’s CST-100 Starliner spacecraft aboard launches from Cape Canaveral Space Force Station in Florida, in this image from June 5, 2024. As part of&#160;NASA’s Commercial Crew Program, the flight test will help validate the transportation system, launch pad, rocket, spacecraft, in-orbit operations capabilities, and return to Earth [&#8230;] 
+
+<https://www.nasa.gov/image-article/starliner-to-the-stars/>
+
+---
+
+##  Intermezzo by Sally Rooney 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/intermezzo-by-sally-rooney>
+
+---
+
+##  This is *excellent*: The Musical History Lesson Buried Beneath the Song of... 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044757-this-is-excellent-the-mus>
+
+---
+
+##  *whispers quietly* I&#8217;m not enjoying Frankenstein that much. I am also behind... 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044754-whispers-quietly-im-not-e>
+
+---
+
+##  &#8220;How do you study mind-altering drugs when every clinical-trial participant knows they&#8217;re... 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044751-how-do-you-study-mind-alt>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-05, from: Miguel de Icaza Mastondon feed)
+
+<p>Work starts on rewriting in SwiftUI the advanced importers in Godot:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112564933314216221>
+
+---
+
+## Mountain Rain or Snow Volunteers Broke Records This Winter
+
+date: 2024-06-05, from: NASA breaking news
+
+The Mountain Rain or Snow project asks volunteers to track rain, snow, and mixed precipitation all winter long—and this was a winter like no other! This season, 1,684 people submitted precipitation observations—that’s about a third more than last season. These volunteers submitted over 32,110 observations, breaking last year’s record by over 10,000. Some observers excelled by sending in hundreds of observations—Patrick Thorson submitted […] 
+
+<https://science.nasa.gov/get-involved/citizen-science/mountain-rain-or-snow-volunteers-broke-records-this-winter/>
+
+---
+
+##  Great rec from Youngna Park: &#8220;Part of my life strategy for eating... 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044753-great-rec-from-youngna-pa>
+
+---
+
+## Marcus Is Doing Better Now
+
+date: 2024-06-05, updated: 2024-06-05, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/06/05/marcus-is-doing-better-now/>
+
+---
+
+## LIFTOFF! NASA Astronauts Pilot First Starliner Crewed Test to Station
+
+date: 2024-06-05, from: NASA breaking news
+
+Editor&#8217;s note: This release was updated June 5, 2024, to include instructions on how to attend the post-docking briefing on Thursday, June 6. NASA astronauts Butch Wilmore and Suni Williams are safely in orbit on the first crewed flight test aboard Boeing’s Starliner spacecraft bound for the International Space Station. As part of NASA’s Boeing [&#8230;] 
+
+<https://www.nasa.gov/news-release/liftoff-nasa-astronauts-pilot-first-starliner-crewed-test-to-station/>
 
 ---
 
@@ -21,7 +205,7 @@ date: 2024-06-05, updated: 2024-06-05, from: Jason Kottke blog
 
 **@Dave Winer's Scripting News** (date: 2024-06-05, from: Dave Winer's Scripting News)
 
-We could bridge RSS and ActivityPub and get a lot more interop quickly. 
+We could bridge RSS and ActivityPub and get more interop. 
 
 <http://scripting.com/2024/06/05.html#a151856>
 
@@ -29,7 +213,7 @@ We could bridge RSS and ActivityPub and get a lot more interop quickly.
 
 **@Dave Winer's Scripting News** (date: 2024-06-05, from: Dave Winer's Scripting News)
 
-Jon Stewart from this Monday is good to watch as a reminder of what the press could be doing beyond what Jay Rosen recommends (which is on the right track). They could be playing the same role that the 12 jurors in NYC did. I'd love to see a requirement that every moderator of a major news show in the US do jury duty for a couple of weeks a year, to keep them aware of the standard that should also apply to news, not just justice. 
+Jon Stewart from this Monday is <a href="https://www.youtube.com/watch?v=qmxzQJt80XI">good to watch</a> as a reminder of what the press could be doing beyond what Jay Rosen recommends (which is on the right track). They could be playing the same role that the 12 jurors in NYC did. I'd love to see a requirement that every moderator of a major news show in the US do jury duty for a couple of weeks a year, to keep them aware of the standard that should also apply to news, not just justice. (Update: <a href="https://x.com/jayrosen_nyu/status/1798365545106141236">Jay is on it</a>.) 
 
 <http://scripting.com/2024/06/05.html#a151218>
 
@@ -37,7 +221,7 @@ Jon Stewart from this Monday is good to watch as a reminder of what the press co
 
 **@Dave Winer's Scripting News** (date: 2024-06-05, from: Dave Winer's Scripting News)
 
-It's amazing how well Comey's rep has been laundered, but I'll never forget that his CYA move re Hillary's emails at the every end of the 2016 campaign, knocked Hillary off her game, she never recovered and we had four years of Trump and maybe more as a result. He should not get to be an authority on democracy at this point. There has been no apology, or regret expressed. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/05/05/butheremails.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's amazing how well Comey's rep has been laundered, but I'll never forget that his CYA move re <a href="https://www.fbi.gov/news/press-releases/statement-by-fbi-director-james-b-comey-on-the-investigation-of-secretary-hillary-clinton2019s-use-of-a-personal-e-mail-system">Hillary's emails</a> at the very end of the 2016 campaign, knocked Hillary off her feet, she never recovered and we had four years of Trump and maybe more as a result. He is not an authority on democracy, he's one of the early pariahs. There has been no apology, or regret expressed. As bad as Alito. I wonder if CNN has bothered to check how people feel about him. 
 
 <http://scripting.com/2024/06/05.html#a151023>
 

@@ -1,11 +1,11 @@
 ---
 title: journalism 2024.23
-updated: 2024-06-05 08:49:09
+updated: 2024-06-05 14:07:42
 ---
 
 # journalism 2024.23
 
-(date: 2024-06-05 08:49:09)
+(date: 2024-06-05 14:07:42)
 
 ---
 
@@ -16,6 +16,16 @@ date: 2024-06-05, from: Nieman Journalism Lab
 Shortly before The Atlantic announced &#8220;a product and content&#8221; partnership with OpenAI, the magazine published a piece by The Information CEO and founder Jessica Lessin that argued &#8220;media companies are making a huge mistake with AI.&#8221; &#8220;For as long as I have reported on internet companies, I have watched news leaders try to bend their... 
 
 <https://www.niemanlab.org/2024/06/if-its-good-for-the-company-now-work-with-them-the-atlantic-ceo-on-signing-a-deal-with-openai/>
+
+---
+
+## People don’t trust the news media to use generative AI responsibly, RISJ finds
+
+date: 2024-06-05, from: Nieman Journalism Lab
+
+A new report from the Reuters Institute offers up insight into how readers around the world are thinking about the place of generative AI in their news. The study cast a wide net, surveying the general public in six countries: Argentina, Denmark, France, Japan, the U.K., and the U.S. There has been much debate about... 
+
+<https://www.niemanlab.org/2024/06/people-dont-trust-the-news-media-to-use-generative-ai-responsibly-reuters-finds/>
 
 ---
 

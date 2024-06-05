@@ -1,11 +1,41 @@
 ---
 title: motorcycles 2024.23
-updated: 2024-06-05 08:49:09
+updated: 2024-06-05 14:07:42
 ---
 
 # motorcycles 2024.23
 
-(date: 2024-06-05 08:49:09)
+(date: 2024-06-05 14:07:42)
+
+---
+
+## Michael Dunlop Beat a 24-Year Record to Become The New King of the Isle of Man
+
+date: 2024-06-05, from: Ride Apart, Electric Motorcycle News
+
+We've waited 24 years for someone to take the crown, and how fitting it's the last standing Dunlop. 
+
+<https://www.rideapart.com/news/722261/michael-dunlop-isle-of-man-tt-wins-2024/>
+
+---
+
+## CFMoto Unveils 675SR-R
+
+date: 2024-06-05, from: Cycle World News
+
+CFMoto teased us with this middleweight sportbike a year ago, and now it appears to be very near production ready. We expect the model to be released soon. 
+
+<https://www.cycleworld.com/motorcycle-news/cfmoto-unveils-675sr-r/>
+
+---
+
+## 2025 Triumph Speed Triple 1200 RR Breitling Limited Edition
+
+date: 2024-06-05, from: Cycle World News
+
+Triumph has teamed up with Swiss watchmaker Breitling to create these limited-edition products. Only 270 of the special Speed Triple 1200 RRs will be made. 
+
+<https://www.cycleworld.com/bikes/triumph-speed-triple-1200-rr-breitling-limited-edition/>
 
 ---
 
@@ -183,7 +213,7 @@ Whether you're into MX, cross-country racing, or just hitting the trails, Team G
 
 date: 2024-06-04, from: Ride Apart, Electric Motorcycle News
 
-It's the fourth-gen version of the tiny but mighty 125cc pocket rocket,. Will the new look mean new fans? 
+It's the fourth-gen version of the tiny but mighty 125cc pocket rocket. Will the new look mean new fans? 
 
 <https://www.rideapart.com/news/721953/2025-honda-grom-comes-america/>
 

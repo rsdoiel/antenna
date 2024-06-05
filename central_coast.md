@@ -1,11 +1,134 @@
 ---
 title: central coast 2024.23
-updated: 2024-06-05 08:49:08
+updated: 2024-06-05 14:07:42
 ---
 
 # central coast 2024.23
 
-(date: 2024-06-05 08:49:08)
+(date: 2024-06-05 14:07:42)
+
+---
+
+## County Budget Hearings Set June 11
+
+date: 2024-06-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara County Board of Supervisors will hold budget hearings at 9 a.m. June 11 and, if needed, June 13 in the County Administration Building, Fourth Floor Hearing Room, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/county-budget-hearings-set-june-11/">County Budget Hearings Set June 11</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/county-budget-hearings-set-june-11/>
+
+---
+
+## Santa Barbara Fire Department Makes Multiple Promotions
+
+date: 2024-06-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The city of Santa Barbara Fire Department has promoted several of its members to new ranks within the department. “I am extremely proud of all the members who were recently [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-fire-department-makes-multiple-promotions/">Santa Barbara Fire Department Makes Multiple Promotions</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-fire-department-makes-multiple-promotions/>
+
+---
+
+## Goleta Solid Waste Rate Increase of 4.97% Begins July 1
+
+date: 2024-06-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Starting July 1, all Goleta customers will see an increase to their MarBorg solid waste rate collection charges as part of an annual adjustment. The Goleta City Council approved an [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-solid-waste-rate-increase-of-4-97-begins-july-1/">Goleta Solid Waste Rate Increase of 4.97% Begins July 1</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goleta-solid-waste-rate-increase-of-4-97-begins-july-1/>
+
+---
+
+## Dear Annie: Friends, Frustrations and Finding New Connections
+
+date: 2024-06-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Dear Annie: I’ve experienced couples being completely tone-deaf to the single friends in their lives. Sometimes they have no interest in helping their friends find a relationship. I’m not even [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dear-annie-friends-frustrations-and-finding-new-connections/">Dear Annie: Friends, Frustrations and Finding New Connections</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dear-annie-friends-frustrations-and-finding-new-connections/>
+
+---
+
+## Dos Pueblos Alum Miles Evans Qualifies for U.S. Men’s Beach Volleyball Olympic Team
+
+date: 2024-06-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/usa-beach-volleyball.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/usa-beach-volleyball.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/usa-beach-volleyball.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/usa-beach-volleyball.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/usa-beach-volleyball.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/usa-beach-volleyball.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/usa-beach-volleyball.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/usa-beach-volleyball.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/usa-beach-volleyball.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/usa-beach-volleyball.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/usa-beach-volleyball.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Another week, another Dos Pueblos alum punched their ticket to the 2024 Paris Olympics. After Ryann Neushul was named to the US Women’s Water Polo team last week, fellow former [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dos-pueblos-alum-miles-evans-qualifies-for-u-s-mens-beach-volleyball-olympic-team/">Dos Pueblos Alum Miles Evans Qualifies for U.S. Men&#8217;s Beach Volleyball Olympic Team</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dos-pueblos-alum-miles-evans-qualifies-for-u-s-mens-beach-volleyball-olympic-team/>
+
+---
+
+## 1309 Castillo Street, SANTA BARBARA, CA 93101
+
+date: 2024-06-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1309-Castillo-Street.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1309-Castillo-Street.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1309-Castillo-Street.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1309-Castillo-Street.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1309-Castillo-Street.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1309-Castillo-Street.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1309-Castillo-Street.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1309-Castillo-Street.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Offered At $1,550,000</p>
+<p>The post <a href="https://www.noozhawk.com/1309-castillo-street-santa-barbara-ca-93101/">1309 Castillo Street, SANTA BARBARA, CA 93101</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/1309-castillo-street-santa-barbara-ca-93101/>
+
+---
+
+## Santa Barbara Triathletes Shine at Honu 70.3 Ironman Race in Hawaii
+
+date: 2024-06-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A group of six Santa Barbara triathletes from TOWER 26 each put together top-10 performances at the Honu 70.3 Ironman Race in Kona, Hawaii last weekend. Jason Smith, the head [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-triathletes-shine-at-honu-70-3-ironman-race-in-hawaii/">Santa Barbara Triathletes Shine at Honu 70.3 Ironman Race in Hawaii</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-triathletes-shine-at-honu-70-3-ironman-race-in-hawaii/>
+
+---
+
+## 690 Lorraine Avenue, SANTA BARBARA, CA 93111
+
+date: 2024-06-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/690-Lorraine-Ave-01-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/690-Lorraine-Ave-01-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/690-Lorraine-Ave-01-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/690-Lorraine-Ave-01-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/690-Lorraine-Ave-01-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/690-Lorraine-Ave-01-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/690-Lorraine-Ave-01-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/690-Lorraine-Ave-01-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/690-Lorraine-Ave-01-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/690-Lorraine-Ave-01-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/690-Lorraine-Ave-01-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/690-Lorraine-Ave-01-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/690-Lorraine-Ave-01-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/690-Lorraine-Ave-01-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Offered At $1,850,000</p>
+<p>The post <a href="https://www.noozhawk.com/690-lorraine-avenue-santa-barbara-ca-93111/">690 Lorraine Avenue, SANTA BARBARA, CA 93111</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/690-lorraine-avenue-santa-barbara-ca-93111/>
+
+---
+
+## Mateo Olin Ferreira Wins Scholarship From Radio Enthusiasts Groups
+
+date: 2024-06-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Mateo Olin Ferreira, a graduating senior at Orcutt Academy Charter High School, has received the 2024 scholarship from the Santa Barbara Amateur Radio Club and the Santa Barbara Wireless Foundation. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/mateo-olin-ferreir-wins-scholarship-from-radio-enthusiasts-groups/">Mateo Olin Ferreira Wins Scholarship From Radio Enthusiasts Groups</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/mateo-olin-ferreir-wins-scholarship-from-radio-enthusiasts-groups/>
+
+---
+
+## Lompoc Tapped as a Tree City USA
+
+date: 2024-06-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>For the 34th year, Lompoc has been named a 2023 Tree City USA by the Arbor Day Foundation in honor of its commitment to effective urban forest management. The Tree [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lompoc-tapped-as-a-tree-city-usa/">Lompoc Tapped as a Tree City USA</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/lompoc-tapped-as-a-tree-city-usa/>
 
 ---
 

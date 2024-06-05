@@ -1,11 +1,111 @@
 ---
 title: games 2024.23
-updated: 2024-06-05 08:49:09
+updated: 2024-06-05 14:07:42
 ---
 
 # games 2024.23
 
-(date: 2024-06-05 08:49:09)
+(date: 2024-06-05 14:07:42)
+
+---
+
+## Where to unlock all optional dungeons in FFXIV
+
+date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24172146/dungeon-list-unlock-quests-optional>
+
+---
+
+## Dare to impress your dad this Father’s Day with these awesome gifts
+
+date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24161974/best-fathers-day-gift-guide-ideas>
+
+---
+
+## 9 games that need to be at Summer Game Fest or it’s so over
+
+date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24171532/summer-game-fest-2024-e3-xbox-showcase-ubisoft-forward>
+
+---
+
+## World of Warcraft fans are worried about the game’s saddest shaman
+
+date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24171525/world-of-warcraft-thrall-lore-the-war-within-fan-reaction>
+
+---
+
+## How to get Ergo Sum in Destiny 2: The Final Shape
+
+date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24172105/ergo-sum-how-to-get-unlock-perks>
+
+---
+
+## Dimension 20’s next season does ’80s action movies, Jumanji style
+
+date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24172006/dimension-20-never-stop-blowing-up-dropout>
+
+---
+
+## This is the most important showcase in Xbox’s history
+
+date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24171899/xbox-showcase-2024-preview-analysis>
+
+---
+
+## Dave Bautista takes on the entire assassin underworld in The Killer’s Game trailer
+
+date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24171995/killers-game-trailer-release-date-cast-dave-bautista-action-movie>
+
+---
+
+## New Hades 2 patch decreases the likelihood of a ‘patently unfair’ Chronos
+
+date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24172050/hades-2-patch-notes-chronos-weapon-upgrades>
+
+---
+
+## All new Exotics in Destiny 2: The Final Shape
+
+date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24167097/final-shape-exotic-weapon-armor-list>
 
 ---
 

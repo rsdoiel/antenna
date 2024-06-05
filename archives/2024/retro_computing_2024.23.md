@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.23
-updated: 2024-06-05 08:49:09
+updated: 2024-06-05 14:07:42
 ---
 
 # retro computing 2024.23
 
-(date: 2024-06-05 08:49:09)
+(date: 2024-06-05 14:07:42)
+
+---
+
+## b.log 2024/06/05 - AI is the wrong hammer to crack a nut with, Apophenia.
+
+date: 2024-06-05, from: Richard Murray's blog
+
+AI is the wrong hammer to crack a nut with, Apophenia. 
+
+<https://heyrick.eu/blog/index.php?diary=20240605>
 
 ---
 

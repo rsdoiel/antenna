@@ -1,11 +1,69 @@
 ---
 title: writing 2024.23
-updated: 2024-06-05 08:49:09
+updated: 2024-06-05 14:07:42
 ---
 
 # writing 2024.23
 
-(date: 2024-06-05 08:49:09)
+(date: 2024-06-05 14:07:42)
+
+---
+
+## 💽 Making the geek movie
+
+date: 2024-06-05, from: Interesting, a blog on writing
+
+Sure, the theoretical particle physicists get it... but will it play in Peoria? 
+
+<https://inneresting.substack.com/p/making-the-geek-movie>
+
+---
+
+## Write On: 'Late Night' Host Seth Meyers
+
+date: 2024-06-05, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-late-night-host-seth-meyers" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Late%20Night%20Host%20Seth%20Meyers.png" alt="Write On: 'Late Night' Host Seth Meyers" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“Just a shout out to everybody who's listening who has ever written a movie. This is a true story –</p> 
+
+<https://blog.finaldraft.com/write-on-late-night-host-seth-meyers>
+
+---
+
+## Owning the Room: From General Meetings to Pitching on a Project
+
+date: 2024-06-05, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/owning-the-room-from-general-meetings-to-pitching-on-a-project" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Owning%20the%20Room_%20From%20General%20Meetings%20to%20Pitching%20on%20a%20Project_3.jpg" alt="Owning the Room: From General Meetings to Pitching on a Project" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Writing scripts is just one part of being a professional screenwriter.&nbsp;&nbsp;</p> 
+
+<https://blog.finaldraft.com/owning-the-room-from-general-meetings-to-pitching-on-a-project>
+
+---
+
+## 2024 Kurd Laßwitz Preis Winners
+
+date: 2024-06-05, from: Locus Magazine
+
+<p>Winners of the 2024 Kurd Laßwitz Preis have been announced. The prize is awarded to German-language SF works published in the previous year.</p>
+<p></p>
+<div class="mynomorebulletlist">
+<p><strong>Best German SF Novel</strong></p>
+<ul>
+<li>WINNER: <strong>Neurobiest</strong>, Aiki Mira (Eridanus)</li>
+</ul>
+<ul>
+<li><strong>[empfindungsfæhig], </strong>Reda El Arbi (Lector)</li>
+<li><strong>Niemandes Schlaf</strong>, Sven Haupt (Eridanus)</li>
+<li><strong>Adam und Ada</strong>, Christian Kellermann (Hirnkost)</li>
+<li><strong>Skábma </strong><strong>– Das Nanobot-Experiment</strong>, Jacqueline Montemurri (Roter Drache)</li>
+<li><strong>Tachyon </strong><strong>– Die Waffe</strong>, Brandon Q. Morris (Fischer Tor)</li></ul></div> <a href="https://locusmag.com/2024/06/2024-kurd-laswitz-preis-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/06/2024-kurd-laswitz-preis-winners/>
 
 ---
 

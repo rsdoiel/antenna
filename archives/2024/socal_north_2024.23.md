@@ -1,11 +1,65 @@
 ---
 title: socal north 2024.23
-updated: 2024-06-05 08:49:08
+updated: 2024-06-05 14:07:41
 ---
 
 # socal north 2024.23
 
-(date: 2024-06-05 08:49:08)
+(date: 2024-06-05 14:07:41)
+
+---
+
+## Q&A: Pac-12 sports writers reflect on the end of the conference
+
+date: 2024-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+The last Pac-12 game ever wrapped up in fitting fashion – Arizona walked off USC in the conference baseball championship under a dark Scottsdale, Arizona, sky. 
+
+<https://dailybruin.com/2024/06/05/qa-pac-12-sports-writers-reflect-on-the-end-of-the-conference/>
+
+---
+
+## Keck workers launch informational picket
+
+date: 2024-06-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The demonstration aims to draw attention to ongoing contract negotiations between USC and workers at Keck School of Medicine of USC.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/05/keck-workers-launch-informational-picket/">Keck workers launch informational picket</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/05/keck-workers-launch-informational-picket/>
+
+---
+
+## Second Take: Repeat purchases of vinyl albums harm environment, consumers
+
+date: 2024-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+In an age where vinyl LPs are all the rage, it&#8217;s time to consume physical forms of music in moderation.
+Vinyl records have made a comeback in the past decade despite the dominance of more convenient forms of music listening such as streaming. 
+
+<https://dailybruin.com/2024/06/05/second-take-repeat-purchases-of-vinyl-albums-harm-environment-consumers/>
+
+---
+
+## Q&A: UCLA Film & Television Archive, Farhang Foundation host Iran film celebration
+
+date: 2024-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Long-lost Iranian cinema jewels are being pulled from the archive this June.
+The UCLA Film &#38; Television Archive annually joins forces with the Farhang Foundation to put on the &#8220;UCLA Celebration of Iranian Cinema.&#8221; Screening films from June 14 to 30 at Billy Wilder Theater, the event aims to bring films from across the Iranian diaspora to the Los Angeles landscape. 
+
+<https://dailybruin.com/2024/06/05/qa-ucla-film-television-archive-farhang-foundation-host-iran-film-celebration/>
+
+---
+
+## Summer Reading 2024
+
+date: 2024-06-05, from: Santa Clarita Public Library
+
+<p><img width="1024" height="1024" src="https://www.santaclaritalibrary.com/files/2024/06/SRP_Digital_2024_1500x1500.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Santa Clarita Public Library presents 2024 Summer Reading" decoding="async" srcset="https://www.santaclaritalibrary.com/files/2024/06/SRP_Digital_2024_1500x1500.jpg 1024w, https://www.santaclaritalibrary.com/files/2024/06/SRP_Digital_2024_1500x1500-300x300.jpg 300w, https://www.santaclaritalibrary.com/files/2024/06/SRP_Digital_2024_1500x1500-150x150.jpg 150w, https://www.santaclaritalibrary.com/files/2024/06/SRP_Digital_2024_1500x1500-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>The Santa Clarita Public Library presents 2024 Summer Reading. Enjoy a summer filled with exploration, songs, crafts, special events and of course &#8211; READING! Register yourself or sign-up the whole family to log your reading days and participate in a variety of reading challenges from June 10 through July 27, for the chance to win [&#8230;] 
+
+<https://santaclaritalibrary.beanstack.com/reader365#new_tab>
 
 ---
 
@@ -201,6 +255,16 @@ The school year will come to a musical end at the annual Spring Symphony concert
 The UCLA Symphony will perform two symphonic and orchestral works at Schoenberg Hall on Wednesday. 
 
 <https://dailybruin.com/2024/06/04/uclas-spring-symphony-to-feature-pieces-by-brahms-and-sibelius/>
+
+---
+
+## Here's How Orange County Cities Are Managing Vastly Different Budgets
+
+date: 2024-06-04, updated: 2024-06-05, from: The LAist
+
+Some cities like Orange are in the red, while others like Irvine are flush with cash. 
+
+<https://laist.com/news/politics/how-are-orange-county-cities-allocating-their-budgets>
 
 ---
 

@@ -1,11 +1,91 @@
 ---
 title: columns 2024.23
-updated: 2024-06-05 08:49:09
+updated: 2024-06-05 14:07:42
 ---
 
 # columns 2024.23
 
-(date: 2024-06-05 08:49:09)
+(date: 2024-06-05 14:07:42)
+
+---
+
+##  The Trailer for Black Barbie 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/the-trailer-for-black-barbie>
+
+---
+
+##  In the last 10 years, Paris has closed 100 streets to cars,... 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044758-in-the-last-10-years>
+
+---
+
+##  Intermezzo by Sally Rooney 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/intermezzo-by-sally-rooney>
+
+---
+
+##  This is *excellent*: The Musical History Lesson Buried Beneath the Song of... 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044757-this-is-excellent-the-mus>
+
+---
+
+##  *whispers quietly* I&#8217;m not enjoying Frankenstein that much. I am also behind... 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044754-whispers-quietly-im-not-e>
+
+---
+
+##  &#8220;How do you study mind-altering drugs when every clinical-trial participant knows they&#8217;re... 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044751-how-do-you-study-mind-alt>
+
+---
+
+##  Great rec from Youngna Park: &#8220;Part of my life strategy for eating... 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044753-great-rec-from-youngna-pa>
+
+---
+
+## June 4, 2024
+
+date: 2024-06-05, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/june-4-2024-0b1>
 
 ---
 
@@ -31,7 +111,7 @@ date: 2024-06-05, updated: 2024-06-05, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-06-05, from: Dave Winer's Scripting News)
 
-We could bridge RSS and ActivityPub and get a lot more interop quickly. 
+We could bridge RSS and ActivityPub and get more interop. 
 
 <http://scripting.com/2024/06/05.html#a151856>
 
@@ -39,7 +119,7 @@ We could bridge RSS and ActivityPub and get a lot more interop quickly.
 
 **@Dave Winer's Scripting News** (date: 2024-06-05, from: Dave Winer's Scripting News)
 
-Jon Stewart from this Monday is good to watch as a reminder of what the press could be doing beyond what Jay Rosen recommends (which is on the right track). They could be playing the same role that the 12 jurors in NYC did. I'd love to see a requirement that every moderator of a major news show in the US do jury duty for a couple of weeks a year, to keep them aware of the standard that should also apply to news, not just justice. 
+Jon Stewart from this Monday is <a href="https://www.youtube.com/watch?v=qmxzQJt80XI">good to watch</a> as a reminder of what the press could be doing beyond what Jay Rosen recommends (which is on the right track). They could be playing the same role that the 12 jurors in NYC did. I'd love to see a requirement that every moderator of a major news show in the US do jury duty for a couple of weeks a year, to keep them aware of the standard that should also apply to news, not just justice. (Update: <a href="https://x.com/jayrosen_nyu/status/1798365545106141236">Jay is on it</a>.) 
 
 <http://scripting.com/2024/06/05.html#a151218>
 
@@ -47,7 +127,7 @@ Jon Stewart from this Monday is good to watch as a reminder of what the press co
 
 **@Dave Winer's Scripting News** (date: 2024-06-05, from: Dave Winer's Scripting News)
 
-It's amazing how well Comey's rep has been laundered, but I'll never forget that his CYA move re Hillary's emails at the every end of the 2016 campaign, knocked Hillary off her game, she never recovered and we had four years of Trump and maybe more as a result. He should not get to be an authority on democracy at this point. There has been no apology, or regret expressed. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/05/05/butheremails.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's amazing how well Comey's rep has been laundered, but I'll never forget that his CYA move re <a href="https://www.fbi.gov/news/press-releases/statement-by-fbi-director-james-b-comey-on-the-investigation-of-secretary-hillary-clinton2019s-use-of-a-personal-e-mail-system">Hillary's emails</a> at the very end of the 2016 campaign, knocked Hillary off her feet, she never recovered and we had four years of Trump and maybe more as a result. He is not an authority on democracy, he's one of the early pariahs. There has been no apology, or regret expressed. As bad as Alito. I wonder if CNN has bothered to check how people feel about him. 
 
 <http://scripting.com/2024/06/05.html#a151023>
 
@@ -65,7 +145,7 @@ date: 2024-06-05, updated: 2024-06-05, from: Jason Kittke's blog
 
 ## Online Privacy and Overfishing
 
-date: 2024-06-05, updated: 2024-06-04, from: Bruce Schneier blog
+date: 2024-06-05, updated: 2024-06-05, from: Bruce Schneier blog
 
 <p><a href="https://spectrum.ieee.org/tag/microsoft">Microsoft</a> recently <u><a href="https://www.reuters.com/technology/cybersecurity/microsoft-says-it-caught-hackers-china-russia-iran-using-its-ai-tools-2024-02-14/">caught state-backed hackers</a></u> using its generative AI tools to help with their attacks. In the security community, the immediate questions weren&#8217;t about how hackers were using the tools (that was utterly predictable), but about how Microsoft figured it out. The natural conclusion was that Microsoft was spying on its AI users, looking for harmful hackers at work.</p>
 <p>Some <a href="https://news.ycombinator.com/item?id=39442429">pushed back</a> at characterizing Microsoft&#8217;s actions as &#8220;spying.&#8221; Of <em>course</em> cloud service providers monitor what users are doing. And because we expect Microsoft to be doing something like this, it&#8217;s not fair to call it spying...</p> 

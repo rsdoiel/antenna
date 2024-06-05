@@ -1,11 +1,21 @@
 ---
 title: parks 2024.23
-updated: 2024-06-05 08:49:09
+updated: 2024-06-05 14:07:42
 ---
 
 # parks 2024.23
 
-(date: 2024-06-05 08:49:09)
+(date: 2024-06-05 14:07:42)
+
+---
+
+## California’s Newest State Park – Dos Rios – will be a Welcomed Addition by Residents and Visitors to the San Joaquin Valley
+
+date: 2024-06-05, from: California State Parks blog
+
+California’s newest state park is located at the confluence of the Tuolumne and San Joaquin Rivers in Stanislaus County World Environment Day reminds us of the importance of protecting our shared environment. In California, the opening of a new state park shows California’s commitment to this. Opening on June 12, Dos Rios is the largest [&#8230;] 
+
+<https://castateparks.wordpress.com/2024/06/05/californias-newest-state-park-dos-rios-will-be-a-welcomed-addition-by-residents-and-visitors-to-the-san-joaquin-valley/>
 
 ---
 
@@ -13,7 +23,7 @@ updated: 2024-06-05 08:49:09
 
 date: 2024-06-03, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>PODCAST: Cleaning up abandoned mine lands yields wildlife benefits in southwest New Mexico </h1></div>
+<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/biden-harris-administration-finalizes-strategy-guide-balanced-management-conservation" hreflang="en">Biden-Harris Administration finalizes strategy to guide balanced management, conservation of public lands</a></h2></div>
       
 
 
@@ -21,28 +31,30 @@ date: 2024-06-03, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="63c8b54f-78fb-412a-a3ba-c10137ab643f" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
-
-
-
-
-  
-
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/OTG%20Podcast%20Brand%202024.png?itok=CiS6KJJO" width="640" height="205" alt="On The Ground logo for BLM Podcast" typeof="foaf:Image">
-
-
+  <div class="field contact-block -release-date">
+    <div><strong>Publication Date:</strong> </div>
+              <div><time datetime="2024-04-18T12:00:00Z">Thu, 04/18/2024 - 12:00 pm UTC</time>
 </div>
-      
-</div>
-</div>
+          </div>
 
+
+
+
+
+  
+
+            <div class="field contact-block -body"><div class="blm-responsive-iframe"><iframe allowfullscreen frameborder="0" src="https://www.youtube.com/embed/yssRQ8Z0nu8?si=bfjOBNEDwtaqQDwF" title="Public Lands Rule"></iframe></div>
 
 <p>&nbsp;</p>
 
-<figure role="group" class="align-center">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="0e4ba21f-7d17-481f-bc27-b23786d0733b" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<p><strong>WASHINGTON – </strong>The Department of the Interior today announced a final rule to help guide the balanced management of America’s public lands. The <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="876a3ccf-e418-402c-80b0-a400b77c8e92" href="https://www.blm.gov/public-lands-rule" rel="noreferrer noopener" target="_blank">final Public Lands Rule</a> provides tools for the Bureau of Land Management (BLM) to help improve the health and resilience of public lands in the face of a changing climate; conserve important wildlife habitat and intact landscapes; facilitate responsible development; and better recognize unique cultural and natural resources on public lands.&nbsp;</p>
+
+<p>The Public Lands Rule builds on historic investments in public lands, waters and clean energy deployment provided by <a href="https://www.doi.gov/investing-america" rel="noreferrer noopener" target="_blank">President Biden’s Investing in America agenda</a>, which recognizes the critical value of our public lands to all Americans. It also complements the President’s <em><a href="https://www.doi.gov/priorities/america-the-beautiful" rel="noreferrer noopener" target="_blank">America the Beautiful</a></em> initiative, a 10-year, locally led and nationally scaled effort to protect, conserve, connect and restore the lands, waters and wildlife upon which we all depend.&nbsp;</p>
+
+<p>Building on decades of land management experience and emphasizing the use of science and data, including Indigenous Knowledge, to guide balanced decision-making, the rule applies the existing fundamentals of land health across BLM programs, establishes restoration and mitigation leases, and clarifies practices to designate and protect Areas of Critical Environmental Concern (ACECs). The rule will help to ensure the BLM continues to protect land health while managing other uses of the public lands, such as clean energy development and outdoor recreation.&nbsp;&nbsp;</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="77b0b3f1-9f20-446b-a9c1-308a0a194612" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -51,7 +63,7 @@ date: 2024-06-03, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/Cookes%20Peak%20AML%20cropped.jpg?itok=z9RfrXRt" width="640" height="407" alt="A cement worker smooths a cap on a mine" typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-05/Cosumnes_large.jpg?itok=c5z08u7f" width="640" height="282" alt="Duck fly over a wetland" typeof="foaf:Image">
 
 
 </div>
@@ -59,207 +71,76 @@ date: 2024-06-03, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>A construction worker finishes cement work on a mine adit closure. The finished product will allow bats and small creatures through, but keep humans out.</figcaption>
+<figcaption>The Cosumnes River Preserve is home to California’s largest remaining valley oak riparian forest, and is one of the few protected wetland habitat areas in the state.. Photo by John Ciccarelli, BLM.</figcaption>
 </figure>
 
 
-<p>&nbsp;</p>
+<p>“As stewards of America’s public lands, the Interior Department takes seriously our role in helping bolster landscape resilience in the face of worsening climate impacts. Today’s final rule helps restore balance to our public lands as we continue using the best-available science to restore habitats, guide strategic and responsible development, and sustain our public lands for generations to come,” <strong>said Secretary Deb Haaland</strong>. “Complemented with historic investments from President Biden’s Investing in America agenda, we are implementing enduring changes that will benefit wildlife, communities and habitats.”&nbsp;&nbsp;</p>
 
-<h4 class="text-align-center"><em>Click PLAY to listen</em></h4>
+<p>“America’s public lands are our national treasures and need to be managed and made resilient for future generations of Americans,” said <strong>John Podesta, Senior Advisor to the President for International Climate Policy</strong>. “Today’s final rule from the Department of the Interior is a huge win for ensuring balance on our public lands, helping them withstand the challenges of climate change and environmental threats like invasive species, and making sure they continue to provide services to the American people for decades to come.”&nbsp;</p>
 
-<div data-embed-button="audio" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="e2731eaf-888a-4318-b2eb-c3ed63d54c3c" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
-  
-  
+<p>“The Interior Department is ensuring our public lands are managed with an eye to future generations, complementing President Biden’s ambitious conservation agenda,” said <strong>White House Council on Environmental Quality Chair Brenda Mallory</strong>. “From the most rugged backcountry spots to popular close-to-home recreation areas, these reforms will help deliver cleaner water, healthier lands, abundant wildlife, and more recreation opportunities for all of us.”&nbsp;</p>
 
+<p>The final rule comes amid growing pressures and historic challenges facing land managers. The impacts of climate change—including prolonged drought, increasing wildfires, and an influx of invasive species—pose increasing risks to communities, wildlife and ecosystems. The Public Lands Rule will help the BLM navigate changing conditions on the ground, while helping public lands continue to serve as economic drivers across the West.&nbsp;</p>
 
+<p>“The BLM received and considered over 200,000 comments on the proposed rule from individuals, state, Tribal and local governments, industry groups and advocacy organizations, which led to important improvements in this final rule,” said<strong> Principal Deputy Assistant Secretary for Land and Minerals Management Dr. Steve Feldgus</strong>. “Continued broad collaboration with this diverse group of partners will be key to our implementation of this rule to ensure that our public lands are being managed for all Americans.”&nbsp;</p>
 
+<p>“Our public lands provide wildlife habitat and clean water, the energy that lights our homes, the wood we build with, and the places where we make family memories,” said <strong>BLM Director Tracy Stone-Manning</strong>. “This rule honors our obligation to current and future generations to help ensure our public lands and waters remain healthy amid growing pressures and change.”&nbsp;</p>
 
-  
+<p>The final rule clarifies and refines concepts <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="a3dbb21a-e603-4e08-ae95-812badce4d4c" href="https://www.blm.gov/press-release/interior-department-releases-proposed-plan-guide-balanced-management-public-lands" rel="noreferrer noopener" target="_blank">first proposed in April 2023</a>. The BLM provided a 90-day comment period on this rule, holding five public meetings and receiving over 200,000 comments, the vast majority of which supported the effort. In response to the substantive comments received, the BLM clarified and refined concepts laid out in the proposed rule.&nbsp;</p>
 
-            <div class="field contact-block -media-audio-file"><audio controls="controls">
-      <source src="https://www.blm.gov/sites/default/files/audio/2024-05/OTG_NM_BIL%20Cooke%27s%20Peak%2C%20April%202024_FINAL.wav" type="audio/x-wav">
-  </audio>
+<p>The final rule:&nbsp;</p>
+
+<ul role="list">
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{92}" paraid="1845017194"><strong>Directs BLM to manage for landscape health.</strong> Successful public land management that delivers natural resources, wildlife habitat and clean water requires a thorough understanding of the health and condition of the landscape, especially as conditions shift on the ground due to climate change. To help sustain the health of our lands and waters, the rule directs the BLM to manage public land uses in accordance with the fundamentals of land health, which will help watersheds support soils, plants, and water; ecosystems provide healthy populations and communities of plants and animals; and wildlife habitats on public lands protect threatened and endangered species consistent with the multiple use and sustained yield framework.&nbsp;&nbsp;</p>
+	</li>
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="2" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{54f3d397-8072-4cdd-b17d-d3315875494d}{167}" paraid="948577800"><strong>Provides a mechanism for restoring and protecting our public lands through restoration and mitigation leases.</strong> Restoration leases provide greater clarity for the BLM to work with appropriate partners to restore degraded lands. Mitigation leases will provide a clear and consistent mechanism for developers to offset their impacts by investing in land health elsewhere on public lands, like they currently can on state and private lands. The final rule clarifies who can obtain a restoration or mitigation lease, limiting potential lessees to qualified individuals, businesses, non-governmental organizations, Tribal governments, conservation districts, or state fish and wildlife agencies. Restoration and mitigation leases will not be issued if they would conflict with existing authorized uses.&nbsp;</p>
+	</li>
+	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
+	<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{25}" paraid="2007072068"><strong>Clarifies the designation and management of ACECs. </strong>The final rule provides greater detail about how the BLM will continue to follow the direction in the Federal Land Policy and Management Act to prioritize the designation and protection of ACECs. Following public comments, the final rule clarifies how BLM consideration of new ACEC nominations and temporary management options does not interfere with the BLM’s discretion to continue advancing pending project applications.&nbsp;&nbsp;</p>
+	</li>
+</ul>
+
+<p paraeid="{34142706-99e8-4d98-af45-4ccf760b6cb6}{88}" paraid="142264570">The Public Lands Rule complements the BLM’s recently announced <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06d6484b-aed8-41b9-8534-dc43506bf5d6" href="https://www.blm.gov/renewable-energy-rule" rel="noreferrer noopener" target="_blank">final Renewable Energy Rule</a>, providing consistent direction and new tools for mitigation, helping advance the efficient and environmentally responsible development of renewable energy on BLM-managed public lands, providing greater clarity and consistency in permitting, and allowing for the continued acceleration of project reviews and approvals, while managing public lands under the principles of multiple use and sustained yield.&nbsp;</p>
+
+<p paraeid="{d394f3eb-337f-44b5-9c1e-b8510fed2d8e}{177}" paraid="201596216">The final rule will publish in the Federal Register in the coming days.&nbsp;</p>
 </div>
       
-</div>
-</div>
-
-
-<p>In the southwestern corner of New Mexico, the Bureau of Land Management is closing more than 300 mine features -- adits, shafts and other open spaces. Frequently hidden from view, these sites were abandoned years ago and can be dangerous for humans unfamiliar with the area where they are located. Some of these features also provide a glimpse into the nation's mining history.&nbsp;</p>
-
-<p>Simply closing mines is not a blanket solution. Some of these are home to animal species like the Mexican long-nosed bat -- also called the greater long-nosed bat -- a small species that was <a href="https://ecos.fws.gov/ecp/species/8203">listed as endangered by the U.S. Fish &amp; Wildlife Service</a> in 1988. While the process of closing the mine features has been ongoing since 2016, BLM received funding through the Bipartisan Infrastructure Law in 2022 to restore the abandoned mine lands. For Physical Scientist Chris Teske, this involves improving the bat habitat as well as making the area safer.&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<figure role="group" class="align-center">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="4b11016d-f6aa-40e3-b767-98ad90d48cef" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/Cookes%20Peak%20Range.JPG?itok=poM8CrpI" width="640" height="427" alt="A mountain peak in New Mexico" typeof="foaf:Image">
+  <div class="field contact-block -subtitle">
+    <div><strong>Subtitle:</strong> </div>
+              <div>Public Lands Rule will help conserve wildlife habitat, restore places impacted by wildfire and drought, expand outdoor recreation, and guide thoughtful development</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-<figcaption>Cookes Peak Range in southwestern New Mexico.</figcaption>
-</figure>
-
-
-<p>&nbsp;</p>
-
-<h2>TRANSCRIPT: Cleaning up abandoned mine lands yields wildlife benefits in southwest New Mexico&nbsp;</h2>
-
-<p>In a remote part of southwestern New Mexico, the Bureau of Land Management is restoring an area to both protect people from dangerous mine shafts and to improve the habitat for endangered species.&nbsp;</p>
-
-<p>I’m David Howell, and you’re listening to <em>On The Ground, A Bureau of Land Management Podcast</em>. Chris Teske is a physical scientist in charge of cleaning up mine adits and shafts in the Cookes Peak Range, west of Las Cruces, New Mexico. The mines were abandoned by private operators many years ago, but still presented a danger to the public. Congress provides funding every year for making abandoned mines less dangerous, but the 2021 Bipartisan Infrastructure Law provided additional funds for mine land restoration – to help erase or reduce the visibility of the mines from the landscape. And as I sat down with Chris, he surprised me right off the bat when he described the volume of work at the site.&nbsp;</p>
-
-<p>CHRIS TESKE, PHYSICAL SCIENTIST, BLM NEW MEXICO: Cookes Peak Range was a mine for silver, and then they would ship their silver to a little mill site called Lake Valley, which is probably 40 miles away. &nbsp;In total on Cookes, we did 320 mine closures, but not all 320 were related to BIL funding. It was just that…</p>
-
-<p>DAVID HOWELL, INTERVIEWER: Sorry, did you say 320 mines?</p>
-
-<p>TESKE: Yeah, mining features, yeah.</p>
-
-<p>HOWELL: Holy cow! So these were individual holes they drilled?</p>
-
-<p>TESKE: Yeah, adits, shafts, some stopes that had opened up. So we did seven phases: six regular phases and then the BIL funding phase at the end of it. &nbsp;2016 was the beginning of the phases for our regular mine closures.</p>
-
-<p>HOWELL: Wow. OK, so you've been working on this for about eight years, then.</p>
-
-<p>HOWELL: Yeah, yeah. But it's a really pretty mountain range. It's kind of rough, the roads getting up to the top, but once you get there, it is really an amazing view from up there.</p>
-
-<p>HOWELL: That's great. Backing up just a little bit, my understanding is that this mine was abandoned, right?</p>
-
-<p>TESKE: Yes, they were all abandoned.</p>
-
-<p>HOWELL: OK, so what does an abandoned mine then mean for the federal government?</p>
-
-<p>TESKE: So all these open holes on the range with all the public, you know, going out and recreating more actually has increased the chance of people getting you know injured or killed. Luckily, we haven't had that many: the last fatality on a mine site in New Mexico was in 2020. Cookes Range, we hadn't had any fatalities, but with the increased visitation, it was going to happen.&nbsp;</p>
-
-<p>HOWELL: So BLM’s regular abandoned mine land program funding that comes from Congress -- that's mostly just to address the holes in the ground, block them up so that they don't pose a public health or safety hazard?</p>
-
-<p>TESKE: Right, right. Unless it's something real major, we don't get back into the reseeding of them at that point. Where the BIL funding actually helped out was, we actually reseeded the roads that actually went into the sites, so you can't even tell where the roads were that went back into some of these sites anymore. &nbsp;</p>
-
-<figure role="group" class="align-center">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="470b6486-8281-4a0b-ace8-5537f9939018" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/Cookes%20Peak%20AML%20progress%20.jpg?itok=OSqlR51_" width="640" height="422" alt="workers protect historic mine shaft" typeof="foaf:Image">
+  <div class="field contact-block -fiscal-year">
+    <div><strong>Fiscal Year:</strong> </div>
+              <div>2024</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-<figcaption>Some mine features are historic and help tell the story of past mining. These features are made safer by building a structure around the historic shaft, which reduces harm to humans but allows bats to pass through.</figcaption>
-</figure>
-
-
-<p>&nbsp;</p>
-
-<p>HOWELL: So… OK, so you got these 300 mine features that you're that you've been working on. Bipartisan Infrastructure Law funding, as I understand it, has been aimed at trying to not just deal with the closures, which you have been, but also to restore the land, right?&nbsp;</p>
-
-<p>TESKE: Yep, and the BIL part was just to close some features, the few remaining, and then we reseeded grass to all the sites. And then our last portion of it here in February was to plant agave because this is Mexican long nosed bat territory. So we actually planted agave to enhance their range. And that's a threatened bat also.&nbsp;</p>
-
-<p>HOWELL: &nbsp;Oh, so they need the agave to you know, as.. for their sustenance, I guess.</p>
-
-<p>TESKE: Yes, yes. Because they're nectar feeding bats, so they would use the agave once they bloom. So it was it was threefold, you know, what we did: we wanted to enhance their habitat, and then we also enhanced other wildlife habitat with the reseeding and everything.</p>
-
-<p>HOWELL: Wow, okay – that’s fantastic! &nbsp;So is the project done at this point, then?</p>
-
-<p>TESKE: Almost. I want to go in and do another phase of agave on the east side of the mountain. We did 300 plants on the agave on the west side of the range, and then I'm gonna go in and do another 300 agave plants on the east side.&nbsp;</p>
-
-<p>HOWELL:&nbsp;<br>
-So what do you hope that somebody coming and driving that area is going to see or not see, maybe, 10 years from now?</p>
-
-<p>TESKE: What I would like them to see is that there's not pronounced erosion. A lot of times the erosion starts from the old mining roads and old mining trails, and the way we went about mitigating that was reestablishing the vegetation on those. I believe we won't see the major rilling and cutting from erosion in the next 10 years.</p>
-
-<p>HOWELL: That's maybe one of the other hazards, the natural hazards that happens as a result of mining in that area?</p>
-
-<p>TESKE: Yeah. Because those roads give you a channel for that water to flow down so fast. So when we mitigate them, you remove that energy of the water, then it's more controllable; you kind of kick it to overland flow at that point. &nbsp;When that road is “re-veg’ed,” then that spreads that water out, down the hillside, not just channel it.</p>
-
-<p>HOWELL: Takes the energy out of it and then it doesn't wear away the soil. That's fantastic.</p>
-
-<p>TESKE: Yeah.</p>
-
-<p>HOWELL: So this project has been ongoing for quite a long time, longer than the 8 years of just the treatment.</p>
-
-<p>TESKE: Oh, yeah – it was several years prior to that, the cultural studies, wildlife studies. A lot of people don't understand how much work goes into one of the projects, you know.</p>
-
-<p>HOWELL: Yeah, I was gonna say -- you're taking a very holistic look at this from a lot of different scientific disciplines.</p>
-
-<p>TESKE: Oh yeah. There's other things -- I want to do wildlife waters up on this site too, and we've coordinated with our wildlife people. That's what I want to do: finish out on Cookes with two wildlife waters, one on the east side and one on the west.&nbsp;</p>
-
-<p>HOWELL: And so, besides the bats that you've got up there, what other kinds of species live in the area?&nbsp;</p>
-
-<p>TESKE: Elk and Deer right now. The state is planning on reintroducing the desert bighorn sheep to the Cookes Range. That’s the other species which the wildlife waters would be good for, once they do reestablish them there.</p>
-
-<figure role="group" class="align-center">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="3fef3d11-bf71-42ff-aa7e-f9f5f7316a9f" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
-  
-  
 
 
 
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/AML-NM-220.01%20completed.jpg?itok=ltOuPygg" width="640" height="442" alt="a fence around an old mine shaft" typeof="foaf:Image">
+  <div class="field contact-block -organization">
+    <div><strong>Organization:</strong> </div>
+              <div>Bureau of Land Management</div>
+          </div>
 
-
-</div>
-      
-</div>
-</div>
-
-<figcaption>A fence around a historic mine opening deters humans and protects wildlife from human contact.</figcaption>
-</figure>
-
-
-<p>&nbsp;</p>
-
-<p>HOWELL: &nbsp;Okay, so you received $300,000 from the Bipartisan Infrastructure Law primarily to finish up all of this work: removing those last features, doing the revegetation and re-seeding.&nbsp;</p>
-
-<p>TESKE: Right. And when we do reseeding, we don't just spread the seed on the ground either. We use a wood mulch: it's like wood splinters that we use, and that actually holds the water better and then helps the seeds establish. A lot of times people don't use the mulch, or they try to use a straw mulch, which blows away. But this wood mulch -- it goes away after a while, but it sticks out to get your plants established.&nbsp;</p>
-
-<p>HOWELL: Right. Yeah. You know, I've seen that in a lot of garden landscaping, actually.&nbsp;</p>
-
-<p>TESKE: Right.&nbsp;</p>
-
-<p>HOWELL: I did that a lot in the northwest when I lived there.</p>
-
-<p>TESKE: Yeah, yeah, there it would really hold water in the northwest.</p>
-
-<p>HOWELL: It would. It does!</p>
-
-<p>TESKE:&nbsp;<br>
-Yeah, it does well here, too, you know. With our limited rainfall, it really works well.</p>
-
-<p>HOWELL: Well, that's fantastic! Chris, thank you so much. This has been really awesome and educational. It sounds like you guys are doing some fantastic work there.</p>
-
-<p>TESKE: Well, you're welcome. Thank you.</p>
-
-<p><br>
-HOWELL: Chris Teske is a Physical Scientist working on abandoned mine land cleanup projects in New Mexico. We have photos of the area and the cleanup on our website, BLM.gov</p>
-
-<p>I’m David Howell, thanks for joining me, and we’ll see you out there <em>On The Ground.</em>&nbsp;<br>
-&nbsp;</p>
-</div>
-      
 
 
 
@@ -269,7 +150,19 @@ HOWELL: Chris Teske is a Physical Scientist working on abandoned mine land clean
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+          <div><a href="https://www.blm.gov/region/alaska" hreflang="en">Alaska</a></div>
+          <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+          <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
+          <div><a href="https://www.blm.gov/region/eastern-states" hreflang="en">Eastern States</a></div>
+          <div><a href="https://www.blm.gov/region/idaho" hreflang="en">Idaho</a></div>
+          <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+          <div><a href="https://www.blm.gov/region/nevada" hreflang="en">Nevada</a></div>
+          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+          <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
+          <div><a href="https://www.blm.gov/region/wyoming" hreflang="en">Wyoming</a></div>
               </div>
       </div>
 
@@ -279,12 +172,13 @@ HOWELL: Chris Teske is a Physical Scientist working on abandoned mine land clean
 
   
 
-<div class="blog-topics">
-    <div class="field contact-block -blog-topic">
-      <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/abandoned-mine-lands" hreflang="en">Abandoned Mine Lands</a></div>
-                </div>
-  </div>
+  <div class="field contact-block -tag">
+    <div><strong>Tag:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
+          <div><a href="https://www.blm.gov/tag/rule" hreflang="en">Rule</a></div>
+              </div>
+      </div>
 
 
 
@@ -292,60 +186,72 @@ HOWELL: Chris Teske is a Physical Scientist working on abandoned mine land clean
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-06-05T12:00:00Z">Wed, 06/05/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -office">
-    <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/las-cruces-district-office" hreflang="en">Las Cruces District Office</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -thumbnail-image">
-    <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/48307/edit" hreflang="en">Cookes Peak AML 1</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -featured">
-    <div><strong>Featured:</strong> </div>
-              <div>Off</div>
-          </div>
-
-
-
-
-
-  
-
-<div class="blog-tags">
-    <div class="field contact-block -tag">
-      <div><strong>Tag:</strong> </div>
+  <div class="field contact-block -contact">
+    <div><strong>Contact:</strong> </div>
+          <div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/infrastructure" hreflang="en">Infrastructure</a></div>
-              <div><a href="https://www.blm.gov/tag/abandoned-mine-lands" hreflang="en">Abandoned Mine Lands</a></div>
-                    </div>
+
+  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+  <div class="field contact-block -label">
+    <div><strong>Name:</strong> </div>
+              <div>Interior Press</div>
           </div>
-  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -email">
+    <div><strong>Email:</strong> </div>
+              <div>Interior_Press@ios.doi.gov</div>
+          </div>
+
+      </div>
+</div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -related-content">
+    <div><strong>Related Content:</strong> </div>
+          <div>
+              <div>
+
+  <div class="paragraph paragraph--type--wysiwyg paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+            <div class="field contact-block -summary"><ul>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="4f604006-b8a9-43b5-90cf-2d3b0b90baa4" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_general-factsheet_508.pdf">General Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="f99f8a1f-ea7f-4ce4-ac83-edc5dc658672" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_ACEC_508.pdf">ACECs Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="008578b3-f5b3-4581-9395-a4618a37bfde" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Land%20Health_508.pdf">Land Health Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="970f5162-0030-46fc-8e45-5068eb4379ab" href="https://www.blm.gov/sites/default/files/docs/2024-04/PLR_factsheet_Restoration%20and%20Mitigation%20Leases_508.pdf">Restoration &amp; Mitigation Leases Fact Sheet</a>&nbsp;</li>
+	<li><a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="6e15f147-5842-44e9-816b-d9e37a75eec1" href="https://www.blm.gov/sites/default/files/docs/2024-04/BLM-Final-Public-Land-Rule-Infographic.pdf">Infographic</a></li>
+</ul>
+</div>
+      
+      </div>
+</div>
+              </div>
+      </div>
 
 
 
@@ -357,21 +263,8 @@ HOWELL: Chris Teske is a Physical Scientist working on abandoned mine land clean
     <div><strong>Editorial Access:</strong> </div>
           <div>
               <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
-          <div><a href="https://www.blm.gov/editorial-access/new-mexico" hreflang="en">New Mexico</a></div>
-          <div><a href="https://www.blm.gov/editorial-access/las-cruces-do" hreflang="en">Las Cruces DO</a></div>
               </div>
-      </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -teaser-image">
-    <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/48307/edit" hreflang="en">Cookes Peak AML 1</a></div>
-          </div> 
+      </div> 
 
 <https://www.blm.gov/blog/2024-06-03/laundress-mrs-nash-and-wrung-out-history>
 

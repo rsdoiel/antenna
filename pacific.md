@@ -1,19 +1,75 @@
 ---
 title: pacific 2024.23
-updated: 2024-06-05 08:49:08
+updated: 2024-06-05 14:07:42
 ---
 
 # pacific 2024.23
 
-(date: 2024-06-05 08:49:08)
+(date: 2024-06-05 14:07:42)
 
 ---
 
-## US eases restrictions on US territories' membership in Pacific Islands Forum 
+## Alumna’s ocean conservation research fueled by experiences at UH
+
+date: 2024-06-05, from: University of Hawaiʻi News
+
+<p>Jennifer Smith attended a year-long exchange at <abbr>UH</abbr> Hilo and pursued graduate studies at <abbr>UH</abbr> Mānoa.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/05/ocean-conservation-research-alumna-smith/">Alumna’s ocean conservation research fueled by experiences at <abbr>UH</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/05/ocean-conservation-research-alumna-smith/>
+
+---
+
+## In memoriam: Poet, professor, pioneer Caroline Sinavaiana-Gabbard
+
+date: 2024-06-05, from: University of Hawaiʻi News
+
+<p>Caroline Sinavaiana Gabbard died on May 26 in Samoa where she resided after retiring from <abbr>UH</abbr> Mānoa after 20 years.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/05/in-memoriam-caroline-sinavaiana-gabbard/">In memoriam: Poet, professor, pioneer Caroline Sinavaiana-Gabbard</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/05/in-memoriam-caroline-sinavaiana-gabbard/>
+
+---
+
+## Image of the Week: Night tree
+
+date: 2024-06-05, from: University of Hawaiʻi News
+
+<p>This week's image is from the Office of Communications.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/05/image-of-the-week-night-tree/">Image of the Week: Night tree</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/05/image-of-the-week-night-tree/>
+
+---
+
+## UH Mānoa in top 2% globally for academics, faculty, research, more
+
+date: 2024-06-05, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa ranked <abbr>No</abbr>. 73 among U.S. institutions and <abbr>No</abbr>. 488 in the world.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/05/2025-qs-world-university-rankings/"><abbr>UH</abbr> Mānoa in top 2% globally for academics, faculty, research, more</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/05/2025-qs-world-university-rankings/>
+
+---
+
+## Tonga’s Late Island shows promising results with surge in seabird populations after rat eradication initiative
+
+date: 2024-06-05, from: Island Conservation News
+
+<p>A recent monitoring trip to Late Island shows promising results!</p>
+<p>The post <a href="https://www.islandconservation.org/tongas-late-island-shows-promising-results/">Tonga&#8217;s Late Island shows promising results with surge in seabird populations after rat eradication initiative</a> appeared first on <a href="https://www.islandconservation.org">Island Conservation</a>.</p>
+ 
+
+<https://www.islandconservation.org/tongas-late-island-shows-promising-results/>
+
+---
+
+## US eases restriction on US territories' membership in Pacific Islands Forum 
 
 date: 2024-06-05, from: Pacific Island Times
 
-By Pacific Island Times News Staff The U.S. government has agreed to allow U.S. territories to join the Pacific Islands Forum as... 
+By Mar-Vic Cagurangan The U.S. government has agreed to allow U.S. territories to join the Pacific Islands Forum as non-voting associate... 
 
 <https://www.pacificislandtimes.com/post/us-territories-get-the-green-light-to-join-pacific-islands-forum-as-associate-members>
 
@@ -425,6 +481,39 @@ An alleged gang leader deemed by police as a “very dangerous individual” ent
 
 ---
 
+## FestPAC performances, events at UH West Oʻahu, UH Mānoa
+
+date: 2024-06-05, from: University of Hawaiʻi News
+
+<p>FestPAC events will be held at <abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> on June 10 and 13.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/04/festpac-uh-west-oahu-more/">FestPAC performances, events at <abbr>UH</abbr> West Oʻahu, <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/04/festpac-uh-west-oahu-more/>
+
+---
+
+## UH Mānoa provost competition awards multidisciplinary innovation
+
+date: 2024-06-05, from: University of Hawaiʻi News
+
+<p>Eleven projects were awarded a total of $2.3 million in the 4th <abbr>UH</abbr> Mānoa Strategic Investment Initiative competition.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/04/manoa-strategic-initiatives-winners-2024/"><abbr>UH</abbr> Mānoa provost competition awards multidisciplinary innovation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/04/manoa-strategic-initiatives-winners-2024/>
+
+---
+
+## Hawaiian Word of the Week: Iune
+
+date: 2024-06-05, from: University of Hawaiʻi News
+
+<p>Iune&#8212;June.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/04/hawaiian-word-of-the-week-iune/">Hawaiian Word of the Week: Iune</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/04/hawaiian-word-of-the-week-iune/>
+
+---
+
 ## Empowering Tonga’s Seafood Entrepreneurs: Graduates Celebrate Success in Micro-Qualification Training
 
 date: 2024-06-05, from: University of the South Pacific (Fiji)
@@ -437,6 +526,17 @@ date: 2024-06-05, from: University of the South Pacific (Fiji)
 
 ---
 
+## UH student art graces public spaces
+
+date: 2024-06-05, from: University of Hawaiʻi News
+
+<p>The <span aria-label="Hawaii">Hawai&#699;i</span> State Foundation on Culture and the Arts has added 6 pieces from <abbr>UH</abbr> students to its Art in Public Places Collection.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/04/uh-student-art-in-public-spaces/"><abbr>UH</abbr> student art graces public spaces</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/04/uh-student-art-in-public-spaces/>
+
+---
+
 ## Over 30 Trainees Complete USP PEUMP Money Minded Business Basics Training
 
 date: 2024-06-05, from: University of the South Pacific (Fiji)
@@ -446,6 +546,28 @@ date: 2024-06-05, from: University of the South Pacific (Fiji)
  
 
 <https://www.usp.ac.fj/news/over-30-trainees-complete-usp-peump-money-minded-business-basics-training/>
+
+---
+
+## Vulcans finish fifth in 2023–24 Bob Hogue Commissioner’s Cup
+
+date: 2024-06-05, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo made a big jump from seventh place in 2022&#8211;23 to fifth place in 2023&#8211;24.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/04/vulcans-fifth-2023-24-bob-hogue-commissioners-cup/">Vulcans finish fifth in 2023–24 Bob Hogue Commissioner’s Cup</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/04/vulcans-fifth-2023-24-bob-hogue-commissioners-cup/>
+
+---
+
+## NCAA releases APR for 2022–23 academic year
+
+date: 2024-06-05, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa Athletics posted an all-sport Academic Performance Rate score of 970 for the academic year 2022&#8211;23 in figures released by the <abbr>NCAA</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/04/ncaa-apr-2022-23-academic-year/"><abbr>NCAA</abbr> releases <abbr>APR</abbr> for 2022–23 academic year</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/04/ncaa-apr-2022-23-academic-year/>
 
 ---
 

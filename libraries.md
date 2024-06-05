@@ -1,11 +1,32 @@
 ---
 title: libraries 2024.23
-updated: 2024-06-05 08:49:09
+updated: 2024-06-05 14:07:42
 ---
 
 # libraries 2024.23
 
-(date: 2024-06-05 08:49:09)
+(date: 2024-06-05 14:07:42)
+
+---
+
+## Entwicklung der Beziehungen Pjöngjangs zu Moskau und Peking
+
+date: 2024-06-06, from: ETH Zurich, recently added
+
+Schepers, Névine
+Grgić, Gorana 
+
+<http://hdl.handle.net/20.500.11850/677010>
+
+---
+
+## Summer Reading 2024
+
+date: 2024-06-05, from: Santa Clarita Public Library
+
+<p><img width="1024" height="1024" src="https://www.santaclaritalibrary.com/files/2024/06/SRP_Digital_2024_1500x1500.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Santa Clarita Public Library presents 2024 Summer Reading" decoding="async" srcset="https://www.santaclaritalibrary.com/files/2024/06/SRP_Digital_2024_1500x1500.jpg 1024w, https://www.santaclaritalibrary.com/files/2024/06/SRP_Digital_2024_1500x1500-300x300.jpg 300w, https://www.santaclaritalibrary.com/files/2024/06/SRP_Digital_2024_1500x1500-150x150.jpg 150w, https://www.santaclaritalibrary.com/files/2024/06/SRP_Digital_2024_1500x1500-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>The Santa Clarita Public Library presents 2024 Summer Reading. Enjoy a summer filled with exploration, songs, crafts, special events and of course &#8211; READING! Register yourself or sign-up the whole family to log your reading days and participate in a variety of reading challenges from June 10 through July 27, for the chance to win [&#8230;] 
+
+<https://santaclaritalibrary.beanstack.com/reader365#new_tab>
 
 ---
 
@@ -36,7 +57,7 @@ date: 2024-06-05, from: Scholarly Kitchen
 
 date: 2024-06-04, from: Association of Research Libraries News
 
-<p>Last Updated on June 4, 2024, 3:51 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 4 &#124; Wednesday, June 5 &#124; Thursday,...</p>
+<p>Last Updated on June 5, 2024, 4:21 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 4 &#124; Wednesday, June 5 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-june-3-6/">Day in Review (June 3–6)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -74,6 +95,16 @@ date: 2024-06-04, from: ETH Zurich, recently added
 Maurhofer, Monika 
 
 <http://hdl.handle.net/20.500.11850/676305>
+
+---
+
+## Dataset pertaining to paper "On the Timescales of the Response of the Brewer-Dobson Circulation to an Abrupt Quadrupling of CO2"
+
+date: 2024-06-04, from: ETH Zurich, recently added
+
+Chiodo, Gabriel; Calvo, Natalia; Garcia, Rolando 
+
+<http://hdl.handle.net/20.500.11850/677011>
 
 ---
 
