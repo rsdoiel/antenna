@@ -74,7 +74,6 @@ http://jirka.1-2-8.net/blog-rss.xml "~Jirka's blog"
 http://l2program.co.uk/feed "~Joss Whittle, The rantings of a mad scientist"
 https://jon-e.net/blog/feed.xml "~Jonny Saunders blog"
 http://blog.guidoism.com/feed.atom "~Guido Bartolucci blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-https://blog.ayjay.org/feed/ "~Ayjay blog"
 https://ghuntley.com/rss/ "~Geoffrey Hunntley's blog"
 https://xn--gckvb8fzb.com/index.xml "~mrusme blog"
 https://xobs.io/index.xml "~Xobs blog"

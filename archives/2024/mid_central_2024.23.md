@@ -1,11 +1,47 @@
 ---
 title: mid central 2024.23
-updated: 2024-06-05 14:07:42
+updated: 2024-06-06 09:04:46
 ---
 
 # mid central 2024.23
 
-(date: 2024-06-05 14:07:42)
+(date: 2024-06-06 09:04:46)
+
+---
+
+## Synthesis framework simplifies silicon implementation for AI models
+
+date: 2024-06-06, from: EDN Blog
+
+<img width="1280" height="720" src="https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?fit=1280%2C720" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?w=1280 1280w, https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?w=1260 1260w, https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?w=800 800w" sizes="(max-width: 1280px) 100vw, 1280px" /><p>A new synthesis tool enables software developers of AI models to perform silicon implementation using C++ code.</p>
+<p>The post <a href="https://www.edn.com/synthesis-framework-simplifies-silicon-implementation-for-ai-models/" data-wpel-link="internal">Synthesis framework simplifies silicon implementation for AI models</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/synthesis-framework-simplifies-silicon-implementation-for-ai-models/>
+
+---
+
+## Getting positive results from NTC thermistors with a simple passive interface
+
+date: 2024-06-06, from: EDN Blog
+
+<img width="518" height="771" src="https://www.edn.com/wp-content/uploads/Figure2_Thermopt.png?fit=518%2C771" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure2_Thermopt.png?w=518 518w, https://www.edn.com/wp-content/uploads/Figure2_Thermopt.png?w=202 202w" sizes="(max-width: 518px) 100vw, 518px" /><p>A simple passive interface that limits max thermistor self-heating, allowing us to obtain temperature measurements from NTC thermistors.</p>
+<p>The post <a href="https://www.edn.com/getting-positive-results-from-ntc-thermistors-with-a-simple-passive-interface/" data-wpel-link="internal">Getting positive results from NTC thermistors with a simple passive interface</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/getting-positive-results-from-ntc-thermistors-with-a-simple-passive-interface/>
+
+---
+
+## Los Banos Campus to Open New Child Development Center This Fall
+
+date: 2024-06-06, from: Blue Devil News (Merced Community College Student Newspaper)
+
+<p>The Merced College Los Banos Campus held an open house May 21 to showcase its new Child Development Center, which will provide local families with a high-quality childcare facility and&#8230;</p>
+<p>The post <a href="https://www.mccd.edu/news/los-banos-campus-to-open-new-child-development-center-this-fall/">Los Banos Campus to Open New Child Development Center This Fall</a> appeared first on <a href="https://www.mccd.edu">Merced College</a>.</p>
+ 
+
+<https://www.mccd.edu/news/los-banos-campus-to-open-new-child-development-center-this-fall/>
 
 ---
 
@@ -13,7 +49,7 @@ updated: 2024-06-05 14:07:42
 
 date: 2024-06-05, from: EDN Blog
 
-<img width="2100" height="841" src="https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?fit=2100%2C841" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=2100 2100w, https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=1900 1900w" sizes="(max-width: 2100px) 100vw, 2100px" /><p>Understanding the features of I3C and how it can be implemented in modern embedded systems from IoT devices to datacenter computers.</p>
+<img width="2100" height="841" src="https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?fit=2100%2C841" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=2100 2100w, https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/GR-24-093680-240308-MCU8-GRAPH-SSD-Sideband-Communication-7x5-1.jpg?w=1900 1900w" sizes="(max-width: 2100px) 100vw, 2100px" /><p>Understanding the features of I3C and how it can be implemented in modern embedded systems from IoT devices to datacenter computers.</p>
 <p>The post <a href="https://www.edn.com/elevating-embedded-systems-with-i3c/" data-wpel-link="internal">Elevating embedded systems with I3C</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
@@ -28,18 +64,6 @@ date: 2024-06-04, from: Amateur Radio Relay League News
 <p><strong> Updated 6/4/2024</strong></p><p>On or around May 12, 2024, ARRL was the victim of a sophisticated network attack by a malicious international cyber group. ARRL immediately involved the FBI and engaged with third party experts to investigate.</p><p>This serious incident was extensive and categorized by the FBI as “unique,” compromising network devices, servers, cloud-based systems, and PCs.</p><p>ARRL management quickly est...</p> 
 
 <http://www.arrl.org/news/view/arrl-systems-service-disruption>
-
----
-
-## Los Banos Campus to Open New Child Development Center This Fall
-
-date: 2024-06-04, from: Blue Devil News (Merced Community College Student Newspaper)
-
-<p>The Merced College Los Banos Campus held an open house May 21 to showcase its new Child Development Center, which will provide local families with a high-quality childcare facility and&#8230;</p>
-<p>The post <a href="https://www.mccd.edu/news/los-banos-campus-to-open-new-child-development-center-this-fall/">Los Banos Campus to Open New Child Development Center This Fall</a> appeared first on <a href="https://www.mccd.edu">Merced College</a>.</p>
- 
-
-<https://www.mccd.edu/news/los-banos-campus-to-open-new-child-development-center-this-fall/>
 
 ---
 

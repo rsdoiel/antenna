@@ -1,11 +1,31 @@
 ---
 title: journalism 2024.23
-updated: 2024-06-05 14:07:42
+updated: 2024-06-06 09:04:46
 ---
 
 # journalism 2024.23
 
-(date: 2024-06-05 14:07:42)
+(date: 2024-06-06 09:04:46)
+
+---
+
+## Scenes from the trial of Ozy’s Carlos Watson
+
+date: 2024-06-06, from: Nieman Journalism Lab
+
+The nation&#8217;s attention was recently focused on a courtroom in lower Manhattan, home to a trial that was endlessly liveblogged, camera ban be damned. But for news-about-news junkies, there&#8217;s another New York City trial — this one in Brooklyn — that should be drawing attention. It involves Carlos Watson, the CEO and co-founder of Ozy.... 
+
+<https://www.niemanlab.org/2024/06/scenes-from-the-trial-of-ozys-carlos-watson/>
+
+---
+
+## Farewell to Climate Nexus, an inbox stalwart
+
+date: 2024-06-06, from: Nieman Journalism Lab
+
+Last week, Zack Colman of Politico reported that Climate Nexus, a climate communications firm that&#8217;s been a stalwart of the climate news landscape since 2011, will shut down on June 21. The Water Hub, a Climate Nexus project that focuses on water issues, will be splitting off into its own organization, but many of the... 
+
+<https://www.niemanlab.org/2024/06/farewell-to-climate-nexus-an-inbox-stalwart/>
 
 ---
 

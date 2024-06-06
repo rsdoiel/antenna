@@ -1,11 +1,481 @@
 ---
 title: tech likely 2024.23
-updated: 2024-06-05 14:07:42
+updated: 2024-06-06 09:04:46
 ---
 
 # tech likely 2024.23
 
-(date: 2024-06-05 14:07:42)
+(date: 2024-06-06 09:04:46)
+
+---
+
+## The Curious About Everything Newsletter #39
+
+date: 2024-06-06, from: Curious about everything blog
+
+The many interesting things I read in May 2024 
+
+<https://jodiettenberg.substack.com/p/thirty-nine>
+
+---
+
+##  Starring the Computer: a catalog of computers used in movies and TV... 
+
+date: 2024-06-06, updated: 2024-06-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044733-starring-the-computer-a-c>
+
+---
+
+## NASA, Global Astronomers Await Rare Nova Explosion
+
+date: 2024-06-06, from: NASA breaking news
+
+Around the world this summer, professional and amateur astronomers alike will be fixed on one small constellation deep in the night sky. But it’s not the seven stars of Corona Borealis, the “Northern Crown,” that have sparked such fascination. It’s a dark spot among them where an impending nova event – so bright it will [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/nasa-global-astronomers-await-rare-nova-explosion/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-06, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@growwith.nash/post/C7ztTyASBmS">Question</a>: "Worst financial advice for someone in their 20s?" <a href="https://www.threads.net/@davew/post/C74GmMjMzCB">Answer</a>. 
+
+<http://scripting.com/2024/06/06.html#a151035>
+
+---
+
+## A new use for ChatGPT
+
+date: 2024-06-06, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/06/loveAmericaCat.png"></center>Greeting cards. 😀</div></p>
+ 
+
+<http://scripting.com/2024/06/06/150015.html?title=aNewUseForChatgpt>
+
+---
+
+##  Duck Amuck is one of my all-time favorite Looney Tunes cartoons. Some... 
+
+date: 2024-06-06, updated: 2024-06-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044759-duck-amuck-is-one-of>
+
+---
+
+## OSNews needs your help to stay alive
+
+date: 2024-06-06, from: OS News
+
+As some of you will know, I recently started working on OSNews as my full-time job, and that means I sometimes need to be annoying and remind you all that I need your help in keeping the website going. Ad income has been going down the drain for years and years now, so your support is crucial in keeping OSNews online. We&#8217;ve been providing you with the latest technology news for over 25 years now, and I&#8217;d really like to keep things going for another 25 years. So, how can you help? You can become an OSNews Patreon, which will remove ads from OSNews, and give you a little bit of flair on every comment you post to show off that you support us. We offer three pricing tiers with an increasing level of prominence for your flair, with the highest tier giving you the option of choosing your own flair to really show off to your fellow readers and commenters that you are just a little bit more equal than everyone else. You can also make individual donations through Ko-Fi. Since I really need to replace the monitor of my OSNews workstation &#8211; after eight years of loyal use, the cheap monitor is started to show ghosting and flickering, and I feel like it could give out at any moment &#8211; I&#8217;ve set a goal on Ko-Fi for this very purpose. I don&#8217;t expect this goal to be met any time soon, but it&#8217;s a nice target to aim for and look forward to. I intend to replace the old 4K display with the cheapest 4K/144Hz panel I can find here in Sweden, but since that will most likely be unrealistic price-wise, the goal is rooted more in aspiration than reality. There are other ways to support us too &#8211; you can make a donation through Liberapay, or go to our merch store and buy T-shirts, mugs, and other cool items. The ultimate goal that I&#8217;m working towards is to eventually be able to offer ad-free by default, fully supported by you, our generous readers. This is a long-term goal and not something we&#8217;ll achieve overnight, but I want to maintain OSNews&#8217; independence at all costs. Virtually every other technology news site you visit is part of a major media empire, such as The Verge or Ars Technica, with huge amounts of staff and massive funds backing them &#8211; and all the questionable relationships between writers and the technology companies that entails. Add to it the rise of artificial intelligence and the negative consequences that&#8217;s going to have, and the need for independent, reader-funded technology websites is greater than ever. That being said, we will not be gating content behind paywalls, so even if you cannot or are unwilling to support us, you will still get all the same content as everyone else. As such, supporting OSNews financially is entirely optional, and will not degrade your experience in any way. Still, OSNews&#8217; continued existence is entirely dependent on me being able to generate enough income through it, so while you do not have to support us, it&#8217;s definitely needed. 
+
+<https://www.osnews.com/story/139901/osnews-needs-your-help-to-stay-alive/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-06, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/04/21/cylon.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I used the ChatGPT "upload an image" feature today while debugging some software. I could show it what wasn't working with a screen shot. Amazingly it understood and made the connection to the software we were working on, and suggested a modification that made it work properly. This was an important missing bit of functionality, previously you had to explain in words what wasn't working visually. That worked too, but was cumbersome. Much easier to just show it was wrong. And the UI couldn't be simpler. Take the screen shot at paste it into the box where you normally type. It starts analyzing before you press Enter. 
+
+<http://scripting.com/2024/06/06.html#a142526>
+
+---
+
+##  Genderswap[dot]fm is a catalog of gender-swapped song covers — think Beyoncé covering... 
+
+date: 2024-06-06, updated: 2024-06-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044752-genderswapdotfm-is-a-cata>
+
+---
+
+## The First Responder UAS Wireless Data Gatherer Challenge
+
+date: 2024-06-06, from: NASA breaking news
+
+The First Responder UAS Wireless Data Gatherer Challenge (UAS 6.0) seeks innovators with applicable expertise across and beyond the UAS ecosystem. For public safety and the greater good, contribute invaluable knowledge and ingenuity in artificial intelligence (AI), radio communications and mapping, Internet of Things (IoT), cybersecurity, and more. Challenge results will support the public safety [&#8230;] 
+
+<https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/the-first-responder-uas-wireless-data-gatherer-challenge/>
+
+---
+
+## The 2024 FAA Data Challenge
+
+date: 2024-06-06, from: NASA breaking news
+
+The 2024 Federal Aviation Administration (FAA) Data Challenge ushers in a groundbreaking opportunity for university students to identify challenges and present solutions toward the evolution of the National Airspace System (NAS) into a more information-centric entity. By harnessing the power of artificial intelligence and advanced analytics, participants are invited to tackle pressing challenges within aviation [&#8230;] 
+
+<https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/the-2024-faa-data-challenge/>
+
+---
+
+## A BSD person tries Alpine Linux
+
+date: 2024-06-06, from: OS News
+
+I’ve barely scratched the surface, but there’s enough here for me to seriously consider a switch to it as my primary Linux distro for testing and servers. I love that htop(1) and lsof(1) only shows a small list of recognisable processes, that it uses OpenRC, that package management seems straight forward, and that it’s so simple to configure. I’ve wondered what a modern, functional “Occam’s Linux” would look like. This is it. ↫ Ruben Schade Alpine is very popular among people inclined towards BSD, but who still want to run Linux as well &#8211; and it&#8217;s easy to see why when you try it out or read about it. This article is a good jumping-off point for those of you curious about Alpine. 
+
+<https://www.osnews.com/story/139899/a-bsd-person-tries-alpine-linux-2/>
+
+---
+
+## Targeted Genome Editor Delivery Challenge
+
+date: 2024-06-06, from: NASA breaking news
+
+Gene editing holds the promise to treat genetic diseases at the source by correcting the faulty genetic patterns within our cells. The National Institutes of Health (NIH) has launched the TARGETED (Targeted Genome Editor Delivery) Challenge to advance genome editing technology by sourcing innovative solutions for delivering genome editors to somatic cells. The Challenge is [&#8230;] 
+
+<https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/targeted-genome-editor-delivery-challenge/>
+
+---
+
+## They’re putting “AI” in your BIOS
+
+date: 2024-06-06, from: OS News
+
+You know what could really use a dose of &#8220;AI&#8221;? Your BIOS. aiBIOS leverages an LLM to integrate AI capabilities into Insyde Software’s flagship firmware solution, InsydeH2O® UEFI BIOS. It provides the ability to interpret the PC user’s request, analyze their specific hardware, and parse through the LLM’s extensive knowledge base of BIOS and computer terminology to make the appropriate changes to the BIOS Setup. This breakthrough technology helps address a major hurdle for PC users that require or desire changes to their BIOS Setup for their personal computers but do not fully understand the meaning of the settings available to them. ↫ Insyde press release Google told users to put glue on pizzas and eat rocks, so I&#8217;m sure the combined efforts of a BIOS maker will surely not pose any problems when automatically changing BIOS settings based on the requests of users who do not really understand what they&#8217;re doing. This surely is a recipe for success, and I can&#8217;t wait to tell my BIOS to enable XMP, only for it to disable hyperthreading, change the boot order to only allow booting from the non-existent floppy drive, and to force the use of the integrated GPU when I&#8217;m actually using a dedicated one. This is going to be just fine. 
+
+<https://www.osnews.com/story/139896/theyre-puting-ai-in-your-bios/>
+
+---
+
+## Run Your Privacy-Respecting AI on Gentoo Linux
+
+date: 2024-06-06, from: mrusme blog
+
+Would you like to have ChatGPT summarize YouTube videos for you, but without
+OpenAI knowing the lewd content that you're watching, or paying them an arm
+and a leg for it? You can, and it's actually fairly straightforward. 
+
+<https://xn--gckvb8fzb.com/run-your-privacy-respecting-ai-on-gentoo-linux/>
+
+---
+
+## Water Supply Forecast Rodeo
+
+date: 2024-06-06, from: NASA breaking news
+
+Accurate seasonal water supply forecasts are crucial for effective water resources management. Help the Bureau of Reclamation develop models to forecast the cumulative streamflow volume for sites across the Western United States. Government Agency: Bureau of Reclamation Award: $500,000 Open Date: October 2023 Close Date: July 2024 For more information, visit: https://www.drivendata.org/competitions/group/reclamation-water-supply-forecast/ 
+
+<https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/water-supply-forecast-rodeo/>
+
+---
+
+## An overview of the Starlark language
+
+date: 2024-06-06, from: OS News
+
+Starlark is a small programming language, designed as a simple dialect of Python and intended primarily for embedded use in applications. Some people might say it’s a bit like Lua with Python syntax, but I think there are many interesting bits to discuss. The language is now open-source and used in many other applications and companies. As I led the design and implementation of Starlark, I’d like to write a bit more about it. ↫ Laurent Le Brun I&#8217;m sure there&#8217;s a few among you will like this. 
+
+<https://www.osnews.com/story/139894/an-overview-of-the-starlark-language/>
+
+---
+
+## NASA Marshall Engineer Receives AIAA Honors Award
+
+date: 2024-06-06, from: NASA breaking news
+
+By Daniel Boyette Advanced space nuclear propulsion systems are critical to NASA’s Moon to Mars vision. On May 15, one of the individuals at the forefront of those future exploration efforts was honored for his contributions. Kurt Polzin, chief engineer for the Space Nuclear Propulsion Office at NASA’s Marshall Space Flight Center in Huntsville, Alabama, [&#8230;] 
+
+<https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/space-nuclear-propulsion-snp/nasa-marshall-engineer-receives-aiaa-honors-award/>
+
+---
+
+## Pioneering Research for Early Prediction of Alzheimer’s and Related Dementias EUREKA Challenge
+
+date: 2024-06-06, from: NASA breaking news
+
+The National Institute on Aging (NIA), a component of the National Institutes of Health (NIH) seeks to stimulate the use of data resources with appropriate sample diversity, including data relevant to under-resourced, underserved communities disproportionately burdened by AD/ADRD. For example, for Asian, Black, or Hispanic older adults, the protein amyloid – which has long been [&#8230;] 
+
+<https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/pioneering-research-for-early-prediction-of-alzheimers-and-related-dementias-eureka-challenge/>
+
+---
+
+## shhhhh
+
+date: 2024-06-06, from: Ayjay blog
+
+It’s called the “good cop, bad cop” routine, but in practice the bad cop always comes first. Softens you up, makes you want it to stop. Then comes the good cop with a kindly smile and a quiet voice. Or: You were right to think of social media as rage-bait, but you were mistaken about [&#8230;] 
+
+<https://blog.ayjay.org/shhhhh/>
+
+---
+
+## Windows Recall demands an extraordinary level of trust that Microsoft hasn’t earned
+
+date: 2024-06-06, from: OS News
+
+The short version is this: In its current form, Recall takes screenshots and uses OCR to grab the information on your screen; it then writes the contents of windows plus records of different user interactions in a locally stored SQLite database to track your activity. Data is stored on a per-app basis, presumably to make it easier for Microsoft’s app-exclusion feature to work. Beaumont says “several days” of data amounted to a database around 90KB in size. In our usage, screenshots taken by Recall on a PC with a 2560×1440 screen come in at 500KB or 600KB apiece (Recall saves screenshots at your PC&#8217;s native resolution, minus the taskbar area). Recall works locally thanks to Azure AI code that runs on your device, and it works without Internet connectivity and without a Microsoft account. Data is encrypted at rest, sort of, at least insofar as your entire drive is generally encrypted when your PC is either signed into a Microsoft account or has Bitlocker turned on. But in its current form, Beaumont says Recall has “gaps you can drive a plane through” that make it trivially easy to grab and scan through a user’s Recall database if you either (1) have local access to the machine and can log into any account (not just the account of the user whose database you’re trying to see), or (2) are using a PC infected with some kind of info-stealer virus that can quickly transfer the SQLite database to another system. ↫ Andrew Cunningham at Ars Technica It really does seem Recall is kind of a mess in the security department, and it has a certain rushed quality about it. All the screenshots are saved in an AppData folder, and data pulled from those screenshots is stored in a local SQLite database that happens to be entirely unencrypted. TotalRecall, a tool developed by Alexander Hagenah, will neatly pull the data from Recall for you without any hassle or issues. This truly is a security nightmare. Aside from all the obvious issues this presents, such as making it even easier for law enforcement to gain access to pretty much everything you do online, something especially troubling for minorities or in countries with less-than-stellar police departments, Recall also presents a whole host of other problems. Imagine being in an abusive relationship, and the abusive partner demanding Recall be left on at all times to exert even more control. Imagine an unscrupulous employee abusing Recall to steal sensitive information from a company for a competitor. Imagine living in some backwards part of a country with controlling religious parents, and you happen to be gay. The problems here are endless. The fact you can turn Recall off doesn&#8217;t mean much, since in the above examples, turning it off is not an option since there are controlling people involved who will demand you keep it on. Browser history and other forms of history in your computer exist as well, of course, but they&#8217;re not always as easy to parse, they&#8217;re easier to manipulate, sanitise, and temporarily hide. Recall just combines all of this and puts a neat little bow on it, ready to be abused by anyone with bad intentions. Recall is ill-conceived, badly implemented, and a solution looking for a problem, that in an of itself creates tons of other problems. I hope Microsoft reconsiders, but in a world where &#8220;AI&#8221; makes investors go nuts, I doubt we&#8217;ll see a sudden sense of clarity coming out of Redmond. 
+
+<https://www.osnews.com/story/139892/windows-recall-demands-an-extraordinary-level-of-trust-that-microsoft-hasnt-earned/>
+
+---
+
+## Can Psychedelics Improve Mental Health?
+
+date: 2024-06-06, from: Quanta Magazine
+
+Research suggests that psychedelic drugs can reopen critical periods of brain development to create opportunities for re-learning and psychological healing. In this episode, co-host Janna Levin speaks with Gül Dölen, a neuroscientist studying the therapeutic potential of psychedelic substances.            <p>The post <a href="https://www.quantamagazine.org/can-psychedelics-improve-mental-health-20240606/" target="_blank">Can Psychedelics Improve Mental Health?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/can-psychedelics-improve-mental-health-20240606/>
+
+---
+
+## 2024-06-06 Learning to be a programmer
+
+date: 2024-06-06, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-06-learning-to-be-a-programmer">2024-06-06 Learning to be a programmer</h1>
+
+<p>I was talking with <a class="account" href="https://merveilles.town/@akkartik" title="@akkartik@merveilles.town">@akkartik</a> and <a class="account" href="https://mas.to/@TodePond" title="@TodePond@mas.to">@TodePond</a> about programming.</p>
+
+<p><a class="account" href="https://mas.to/@TodePond" title="@TodePond@mas.to">@TodePond</a> got me thinking about communities around programming when they wrote:</p>
+
+<blockquote>
+<p>the problem i see is that no one is talking to each other. everyone is trying to build their solutions in isolation - as island communities. in my opinion we shouldnt build anything new, we should try to make compatible the mindsets and tools that we already have. its an extreme viewpoint but i see no one else taking it, so im taking it.</p>
+</blockquote>
+
+<p>I can definitely see many people writing their own software and many more people using existing software and never adapting it. I do it, too!</p>
+
+<p>To put a really hurtful spin onto it: we rarely sit next to a newbie using our software. I never do. Never. We should listen to them muttering to themselves for the first four hours. The bugs they attribute to their own incompetence; the confusing usability issues they never report… and now imagine sitting next to a newbie looking at our code, trying to find their way. No comments. No helpful guides. The code is the best documentation, some people say. I guess they haven&rsquo;t seen my code. All those readability refactors I didn’t do. All these questions nobody ever asked me. People look at the code and don’t come back.</p>
+
+<p>Those are my free software nightmares when I look at all the things I’ve written with a community of one. 😳</p>
+
+<p>Anyway, I guess what I want to say: if you feel like you write free software for others but nobody joins your community, you are not alone. We are all together in this, alone. 😥</p>
+
+<p>I think the reason for this has to do with how hard it is to understand code by just reading it instead of writing. It’s super hard to get into another code base. And it is hard to write code such that it is a welcoming ramp up. I’d say Emacs is one of the examples where it worked but we don’t actually know whether the approach is “good”. I certainly used Emacs for a year or two before writing my own init file way back when.</p>
+
+<p>I&rsquo;m not sure which parts enable it and I&rsquo;m not sure if having more of the same would result in more programmers modifying the code and sharing their modifications.</p>
+
+<ul>
+<li>Good documentation of the programming language, Emacs Lisp</li>
+<li>Good documentation of the software itself, Emacs</li>
+<li>Good documentation of the code, with documentation strings and comments throughout the code base</li>
+</ul>
+
+<p>Nearly every function is documented, nearly every global variable is documented, the concepts are documented in the manual, the language is documented in the manual – it&rsquo;s a gigantic group effort to build that ramp.</p>
+
+<p>I think this is how you get started modifying Emacs: with an init file that customizes some part of it.</p>
+
+<p>That reminds me of the post by Peter Seibel (2014) that I recently saw linked in my feed:</p>
+
+<blockquote>
+<p>It was sometime after that presentation that I finally realized the obvious: code is not literature. We don’t read code, we decode it. We examine it. A piece of code is not literature; it is a specimen. Knuth said something that should have pointed me down this track when I asked him about his own code reading: … He’s not describing reading literature; he’s describing a scientific investigation.&rdquo; – <a href="https://gigamonkeys.com/code-reading/">Code is not literature</a></p>
+</blockquote>
+
+<p>I feel this is how I approach new code: find a tiny task and see whether I can make that change. Usually this requires building the code, searching the best location, learning about the code style, investigating the libraries used, and so on. There are many strings attached.</p>
+
+<p>I don&rsquo;t know how else to do it.</p>
+
+<p>The same is true at the office. Our code base is about four million lines of code. Newbies get assigned small issues to fix and need to ask a gazillion questions and that&rsquo;s how they learn.</p>
+
+<p>If only there were a better way. If there is, I don&rsquo;t know it.</p>
+
+<p><a class="account" href="https://merveilles.town/@akkartik" title="@akkartik@merveilles.town">@akkartik</a> linked a guest post on their blog (2018):</p>
+
+<blockquote>
+<p>We all read code already; it’s just that we usually read when we want to edit. And the <em>comprehension</em> that questions about reading are really concerned with—it comes from both reading and writing, interleaved in complex ways. That hacking produces better comprehension than passive, linear reading fits with what we know about learning. – <a href="https://akkartik.name/post/comprehension">Nobody&rsquo;s just reading your code</a>, by <a href="https://stephenmalina.com/">Stephen Malina</a></p>
+</blockquote>
+
+<p><a class="account" href="https://merveilles.town/@akkartik" title="@akkartik@merveilles.town">@akkartik</a> summary of our little interchange gives me pause:</p>
+
+<blockquote>
+<p>We live in a world where everybody is illiterate, unable to read computer programs. Everybody. A tiny minority can <em>write</em> programs, but even they can&rsquo;t read programs written by others without 1000x effort. They/we oppress the rest.</p>
+</blockquote>
+
+<p>Indeed, how not to be part of this, I wonder.</p>
+
+<p><a class="tag" href="/search/?q=%23Programming">#Programming</a></p> 
+
+<https://alexschroeder.ch/view/2024-06-06-programming>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-06, from: Miguel de Icaza Mastondon feed)
+
+<p>I stopped using Adobe software a few years ago, I just didn’t use it enough and was happy with the iPad and Mac alternatives.</p><p>I don’t do enough graphics design work to justify subscriptions (not even Figma that everyone loves)</p> 
+
+<https://mastodon.social/@Migueldeicaza/112569566704920069>
+
+---
+
+## You Are Not Prepared to See a CyberTruck
+
+date: 2024-06-06, updated: 2024-06-06, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/06/06/you-are-not-prepared-to-see-a-cybertruck/>
+
+---
+
+## What We Learned from a Year of Building with LLMs (Part III): Strategy
+
+date: 2024-06-06, from: O'Reilly Radar
+
+We&#160;previously shared&#160;our insights on the&#160;tactics&#160;we have honed while operating LLM applications. Tactics are granular: they are the specific actions employed to achieve specific objectives. We&#160;also shared&#160;our perspective on operations: the higher-level processes in place to support tactical work to achieve objectives. But where do those objectives come from? That is the domain of&#160;strategy. Strategy answers [&#8230;] 
+
+<https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-iii-strategy/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-06-06, from: Tomosino's Mastodon feed)
+
+<p>Kiddo's last day of year 6 today. It's going too fast</p> 
+
+<https://tilde.zone/@tomasino/112568979937258341>
+
+---
+
+## Teach your tomato plant to talk
+
+date: 2024-06-06, from: Raspberry Pi News (.com)
+
+<p>Meet Audrey, a Raspberry Pi 5-enhanced tomato plant who uses AI to talk to you and help you look after her better.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/teach-your-tomato-plant-to-talk/">Teach your tomato plant to talk</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/teach-your-tomato-plant-to-talk/>
+
+---
+
+## 2024-06-06 Flowers and bees
+
+date: 2024-06-06, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-06-flowers-and-bees">2024-06-06 Flowers and bees</h1>
+
+<p>On the balcony …</p>
+
+<p>Hängepolster-Glockenblume<br>
+Campanula poscharskyana</p>
+
+<p><img loading="lazy" src="2024-06-03-flowers-1.jpg" alt="" /></p>
+
+<p>Dalmatiner Glockenblume<br>
+Campanula portenschlagiana</p>
+
+<p><img loading="lazy" src="2024-06-03-flowers-2.jpg" alt="" /></p>
+
+<p>Garten-Löwenmaul<br>
+Antirrhinum majus</p>
+
+<p><img loading="lazy" src="2024-06-03-flowers-3.jpg" alt="" /></p>
+
+<p>Muskatellersalbei<br>
+Salvia sclarea</p>
+
+<p><img loading="lazy" src="2024-06-03-flowers-4.jpg" alt="" /></p>
+
+<p><img loading="lazy" src="2024-06-03-flowers-5.jpg" alt="" /></p>
+
+<p>The cemetery has a bunch of rectangular, brutalist ponds. It‘s not easy for animals to get down to the water. These bees found a corner where moss or algae suck up some water from below and so the bees can drink from the wet plant material. I think. 😍</p>
+
+<p><img loading="lazy" src="2024-06-03-flowers-6.jpg" alt="" /></p>
+
+<p>Wiesen-Pippau<br>
+Crepis biennis</p>
+
+<p>Looks much taller and slimmer than the lion‘s tooth, dent-de-lion, dandelion.</p>
+
+<p><img loading="lazy" src="2024-06-03-flowers-7.jpg" alt="" /></p>
+
+<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Flowers">#Flowers</a> <a class="tag" href="/search/?q=%23Plants">#Plants</a></p> 
+
+<https://alexschroeder.ch/view/2024-06-03-flowers>
+
+---
+
+## Expose Kubernetes services via inlets tunnels on AWS EC2
+
+date: 2024-06-06, updated: 2024-06-06, from: Inlets.dev, cloud tunneling
+
+Learn how to install an inlets tunnel server to AWS EC2 and expose services from within a private Kubernetes cluster. 
+
+<https://inlets.dev/blog/2024/06/06/tunnel-k8s-via-aws-ec2.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-05, from: Miguel de Icaza Mastondon feed)
+
+<p>After a fine day reimplementing the debugger UI, a treat:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112566529392546315>
+
+---
+
+## EU data protection board says ChatGPT still not meeting data accuracy standards
+
+date: 2024-06-05, from: OS News
+
+OpenAI&#8217;s efforts to produce less factually false output from its ChatGPT chatbot are not enough to ensure full compliance with European Union data rules, a&#160;task force&#160;at the EU&#8217;s privacy watchdog said. &#8220;Although the measures taken in order to comply with the transparency principle are beneficial to avoid misinterpretation of the output of ChatGPT, they are not sufficient to comply with the data accuracy principle,&#8221; the task force said in a report released on its website on Friday. ↫ Tassilo Hummel at Reuters I&#8217;m glad at least some authorities are taking the wildly inaccurate nonsense outputs of many &#8220;AI&#8221; tools seriously. I&#8217;m not entirely sure when a tool like ChatGPT can be considered &#8220;accurate&#8221;, but whatever it is now, is not it. 
+
+<https://www.osnews.com/story/139886/eu-data-protection-board-says-chatgpt-still-not-meeting-data-accuracy-standards/>
+
+---
+
+##  A Long Surfing Life 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/a-long-surfing-life>
+
+---
+
+## 55 TOPS Raspberry Pi AI PC - 4 TPUs, 2 NPUs
+
+date: 2024-06-05, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">55 TOPS Raspberry Pi AI PC - 4 TPUs, 2 NPUs</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>I'm in full-on procrastination mode with <a href="https://opensauce.com">Open Sauce</a> coming up in 10 days and a project I haven't started on for it, so I decided to try building the stable AI PC with all the AI accelerator chips I own:</p>
+
+<ul>
+<li>Hailo-8 (26 TOPS)</li>
+<li>Hailo-8L (13 TOPS)</li>
+<li>2x Coral Dual Edge TPU (8+8 = 16 TOPS)</li>
+<li>2x Coral Edge TPU (4+4 = 8 TOPS)</li>
+</ul>
+
+<p>After my first faltering attempt in my <a href="https://www.jeffgeerling.com/blog/2024/testing-raspberry-pis-ai-kit-13-tops-70">testing of Raspberry Pi's new AI Kit</a>, I decided to try building it again, but with a more 'proper' PCIe setup, with external 12V power to the PCIe devices, courtesy of an <a href="https://pineboards.io/products/hat-upcity-lite-for-raspberry-pi-5">uPCIty Lite PCIe HAT</a> for the Pi 5.</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-55-tops-ai-board.jpg" alt="Raspberry Pi 55 TOPS AI Board"></p>
+
+<p>I'm... not sure it's that much less janky, but at least I had one board with a bunch of M.2 cards instead of many precariously stacked on top of each other!</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-06-05T16:55:56-05:00" title="Wednesday, June 5, 2024 - 16:55" class="datetime">June 5, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/55-tops-raspberry-pi-ai-pc-4-tpus-2-npus>
+
+---
+
+## GNU Nano gains optional modern keybindings
+
+date: 2024-06-05, from: OS News
+
+GNU Nano, by far my favourite text editor when using the command line, released version 8.0 recently &#8211; and by recently I mean a month ago &#8211; and in it, there&#8217;s a pretty interesting additional feature that should make using Nano a little bit more straightforward for those not used to its key combinations. Command-line option &#8211;modernbindings (-/) makes ^Q quit, ^X cut, ^C copy, ^V paste, ^Z undo, ^Y redo, ^O open a file, ^W write a file, ^R replace, ^G find again, ^D find again backwards, ^A set the mark, ^T jump to a line, ^P show the position, and ^E execute. ↫ GNU Nano&#8217;s news page Basically, this option makes Nano&#8217;s key bindings a bit more in line with what you might expect as someone coming from a graphical environment. Of course, Nano&#8217;s keybindings are listed at the bottom of its user interface, but it&#8217;s still nice to have the option of making them more in line with the wider computing world. Instead of using the command-line option, you can also change the name of Nano&#8217;s executable, or a symlink to it, to start with &#8220;e&#8221;. 
+
+<https://www.osnews.com/story/139884/gnu-nano-gains-optional-modern-keybindings/>
+
+---
+
+##  David Robson on what science says about overcoming shyness. &#8220;One of the... 
+
+date: 2024-06-05, updated: 2024-06-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044735-david-robson-on-what-scie>
 
 ---
 
@@ -221,7 +691,7 @@ Jon Stewart from this Monday is <a href="https://www.youtube.com/watch?v=qmxzQJt
 
 **@Dave Winer's Scripting News** (date: 2024-06-05, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2022/05/05/butheremails.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's amazing how well Comey's rep has been laundered, but I'll never forget that his CYA move re <a href="https://www.fbi.gov/news/press-releases/statement-by-fbi-director-james-b-comey-on-the-investigation-of-secretary-hillary-clinton2019s-use-of-a-personal-e-mail-system">Hillary's emails</a> at the very end of the 2016 campaign, knocked Hillary off her feet, she never recovered and we had four years of Trump and maybe more as a result. He is not an authority on democracy, he's one of the early pariahs. There has been no apology, or regret expressed. As bad as Alito. I wonder if CNN has bothered to check how people feel about him. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/05/05/butheremails.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's amazing how well <a href="https://abcnews.go.com/Politics/comey-announced-reopening-clinton-email-probe-days-election/story?id=54470601">Comey's</a> rep has been laundered, but I'll never forget that his CYA move re <a href="https://www.fbi.gov/news/press-releases/statement-by-fbi-director-james-b-comey-on-the-investigation-of-secretary-hillary-clinton2019s-use-of-a-personal-e-mail-system">Hillary's emails</a> at the very end of the 2016 campaign, knocked Hillary off her feet, she never recovered and we had four years of Trump and maybe more as a result. He is not an authority on democracy, he's one of the early pariahs. There has been no apology, or regret expressed. As bad as Alito. I wonder if CNN has bothered to check how people feel about him. 
 
 <http://scripting.com/2024/06/05.html#a151023>
 
@@ -1465,6 +1935,16 @@ date: 2024-06-03, from: Hundred Rabbits blog
 <p><a href='https://100r.co/site/log.html#may2024' target='_blank'>Continue Reading</a></p> 
 
 <https://100r.co/site/log.html#may2024>
+
+---
+
+## Join Our Monthly Giving Circle and Support the Internet Archive!
+
+date: 2024-06-03, from: Internet Archive Blog
+
+Monthly donors sustain our work and ensure that the Internet Archive will always be free for all. Our supporters have joined us arm-in-arm for decades against corporate interests, censorship, and [&#8230;] 
+
+<https://blog.archive.org/2024/06/03/join-our-monthly-giving-circle-and-support-the-internet-archive/>
 
 ---
 

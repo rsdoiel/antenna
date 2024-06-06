@@ -1,11 +1,44 @@
 ---
 title: libraries 2024.23
-updated: 2024-06-05 14:07:42
+updated: 2024-06-06 09:04:46
 ---
 
 # libraries 2024.23
 
-(date: 2024-06-05 14:07:42)
+(date: 2024-06-06 09:04:46)
+
+---
+
+## Bambi, by Felix Salten
+
+date: 2024-06-06, from: Standard Ebooks, new releaases
+
+A roe deer learns the rules of the forest and how to survive in a world inhabited by men as he grows to maturity. 
+
+<https://standardebooks.org/ebooks/felix-salten/bambi/whittaker-chambers>
+
+---
+
+## How do young people experience the democratization of access to higher education?
+
+date: 2024-06-06, from: SciELO in Perspective
+
+<p>Educational expansion, marked by the tension between meritocracy and pragmatism in access to higher education, confronts the aspirations and realities of young people, especially those from working class backgrounds, amid the erosion of traditional notions of career and stability. While some seek any degree as a means of social mobility, others aim for specific careers, trying to adapt in the face of obstacles. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://humanas.blog.scielo.org/en/2024/06/06/how-do-young-people-experience-the-democratization-of-access-to-higher-education/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://humanas.blog.scielo.org/en/2024/06/06/how-do-young-people-experience-the-democratization-of-access-to-higher-education/#new_tab">How do young people experience the democratization of access to higher education?</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://humanas.blog.scielo.org/en/2024/06/06/how-do-young-people-experience-the-democratization-of-access-to-higher-education/#new_tab>
+
+---
+
+## Guest Post — DOAJ’s Role in Supporting Trust in Scholarly Journals: Current Challenges and Future Solutions
+
+date: 2024-06-06, from: Scholarly Kitchen
+
+<p>In this post we reflect on the current threats to trust in scholarly journal publishing, and the implications for organizations like Directory of Open Access Journals (DOAJ) that seek to uphold that trust.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/06/06/guest-post-doajs-role-in-supporting-trust-in-scholarly-journals-current-challenges-and-future-solutions/">Guest Post &#8212; DOAJ’s Role in Supporting Trust in Scholarly Journals: Current Challenges and Future Solutions</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/06/06/guest-post-doajs-role-in-supporting-trust-in-scholarly-journals-current-challenges-and-future-solutions/>
 
 ---
 

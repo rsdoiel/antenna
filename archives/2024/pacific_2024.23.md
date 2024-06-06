@@ -1,11 +1,367 @@
 ---
 title: pacific 2024.23
-updated: 2024-06-05 14:07:42
+updated: 2024-06-06 09:04:46
 ---
 
 # pacific 2024.23
 
-(date: 2024-06-05 14:07:42)
+(date: 2024-06-06 09:04:46)
+
+---
+
+## Making peace with land and ocean: Generation restoration in action across Blue Pacific
+
+date: 2024-06-06, from: Pacific Island Times
+
+The very foundation of life for our Pacific people—their ability to sustain themselves—is eroding with each passing season.... 
+
+<https://www.pacificislandtimes.com/post/making-peace-with-land-and-ocean-generation-restoration-in-action-across-blue-pacific>
+
+---
+
+## What the world can learn from a tiny South Pacific island nation
+
+date: 2024-06-06, from: Pacific Island Times
+
+New docu-film highlights Niue's successful marine conservation through the fusion of traditional knowledge and science By Jayvee... 
+
+<https://www.pacificislandtimes.com/post/what-the-world-can-learn-from-a-tiny-south-pacific-island-nation>
+
+---
+
+## Hunter Biden’s ex-girlfriend describes his drug use at his criminal trial
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>WILMINGTON, Delaware &#8212; Hunter Biden&#8217;s former girlfriend testified about his near-constant crack cocaine use at lavish hotels at the criminal trial where prosecutors are trying to prove that U.S. President Joe Biden&#8217;s son lied about his addiction to illegally buy a gun.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/nation-world-news/hunter-bidens-ex-girlfriend-describes-his-drug-use-at-his-criminal-trial/>
+
+---
+
+## Top news app in US has Chinese origins and ‘writes fiction’ with the help of AI
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212;Last Christmas Eve, NewsBreak, a free app with roots in China that is the most downloaded news app in the United States, published an alarming piece about a small town shooting. It was headlined &#8220;Christmas Day Tragedy Strikes Bridgeton, New Jersey Amid Rising Gun Violence in Small Towns.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/nation-world-news/top-news-app-in-us-has-chinese-origins-and-writes-fiction-with-the-help-of-ai/>
+
+---
+
+## Israel secretly targets US lawmakers with influence campaign on Gaza war
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>TEL AVIV, Israel &#8212; Israel organized and paid for an influence campaign last year targeting U.S. lawmakers and the American public with pro-Israel messaging, as it aimed to foster support for its actions in the war in the Gaza Strip, according to officials involved in the effort and documents related to the operation.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/nation-world-news/israel-secretly-targets-us-lawmakers-with-influence-campaign-on-gaza-war/>
+
+---
+
+## Putin says West is wrong to assume Russia would never use nuclear weapons
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>ST PETERSBURG, Russia &#8212; Russian President Vladimir Putin said on Wednesday that the West was wrong to assume that Moscow would never use nuclear weapons and said that he was considering deploying conventional missiles in striking distance of the United States and its allies.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/nation-world-news/putin-says-west-is-wrong-to-assume-russia-would-never-use-nuclear-weapons/>
+
+---
+
+## Nvidia overtakes Apple as No. 2 most valuable company
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>Nvidia&#8217;s rallied to record highs on Wednesday, with the artificial intelligence chipmaker&#8217;s valuation breaching the $3 trillion mark and overtaking Apple to become the world&#8217;s second most valuable company.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/nation-world-news/nvidia-overtakes-apple-as-no-2-most-valuable-company/>
+
+---
+
+## In apparent blow to Biden plan, Hamas leader demands full end to Gaza war
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/JERUSALEM &#8212;The leader of Hamas said on Wednesday the group would demand a permanent end to the war in Gaza and Israeli withdrawal as part of a ceasefire plan, dealing an apparent blow to a truce proposal touted last week by U.S. President Joe Biden.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/nation-world-news/in-apparent-blow-to-biden-plan-hamas-leader-demands-full-end-to-gaza-war/>
+
+---
+
+## Telecoms seek to block US reinstatement of net neutrality rules
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (Reuters) &#8212; Telecom industry groups are seeking to block the Biden administration&#8217;s reinstatement of landmark net neutrality rules set to take effect on July 22.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/nation-world-news/telecoms-seek-to-block-us-reinstatement-of-net-neutrality-rules/>
+
+---
+
+## US expecting Russian naval exercises in Caribbean this summer
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (Reuters) &#8212; Russia plans to send combat vessels into the Caribbean region this summer as part of naval exercises that will likely include port calls in Cuba and possibly stops in Venezuela, a senior U.S. official said on Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/nation-world-news/us-expecting-russian-naval-exercises-in-caribbean-this-summer/>
+
+---
+
+## Boeing’s Starliner launches on historic 1st human spaceflight for NASA
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>KENNEDY SPACE CENTER, Fla. &#8212; A pair of NASA astronauts have finally taken their historic ride on Boeing&#8217;s CST-100 Starliner making its first-ever human spaceflight Wednesday morning.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/nation-world-news/boeings-starliner-launches-on-historic-1st-human-spaceflight-for-nasa/>
+
+---
+
+## Trump election interference case paused in Georgia during challenge to prosecutor
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A Georgia appeals court on Wednesday paused the criminal case accusing Donald Trump of seeking to subvert the 2020 election while it considers the former president&#8217;s bid to disqualify lead prosecutor Fani Willis, a court order showed.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/nation-world-news/trump-election-interference-case-paused-in-georgia-during-challenge-to-prosecutor/>
+
+---
+
+## GOP blocks contraception bill in Senate as Democrats seek political edge
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Senate Republicans on Wednesday blocked action on legislation to codify the right to contraception access nationwide, a bill Democrats brought to the floor to spotlight an issue on which the GOP is at odds with a vast majority of voters.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/nation-world-news/gop-blocks-contraception-bill-in-senate-as-democrats-seek-political-edge/>
+
+---
+
+## Obituaries for June 6
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>Corazon &#8220;Connie&#8221; Pascua, 86, of Hilo died April 30 at Legacy Hilo Rehabilitation and Nursing Center. Born in Kealakekua, she was a bartender and worked at numerous establishments including Hilo Hotel, Henri&#8217;s on Kapiolani, Green Door, Ken&#8217;s Pancake House and Hale Inu, an avid bowler and bowled in the Tuesday night and Wednesday morning leagues at Hilo Lanes. Visitation 5:30-6 p.m. Friday, June 21, at Ballard Family Mortuary. Memorial service at 6 p.m. Casual attire. Survived by sons, Darren Pascua of Keaau and Ivan (Shawna) Imai of Kailua-Kona; daughters, Jody (Benny) Palisbo of Keaau and Allison DeGuzman of Hilo; brothers, Asterio &#8220;Terry&#8221; (Ruth) Canda of Pahoa, Ronald (Valerie) Rillon of Reno, Nev., and Francisco &#8220;Cisco&#8221; (Renee) Rillon of Waimanalo, Oahu; sisters Sandra Silvis of Roseville, Minn., and Bernadette &#8220;Bernie&#8221; (Daniel &#8220;Hoss&#8221; Alvarez) Canda of Kailua-Kona; daughter-in-law Carolyn Pascua of Fredericksburg, Va.; brother-in-law Robert Naiga Sr. of Pahoa; sister-in-law Carmen Canda of Keaau; 12 grandchildren and 24 great-grandchildren; nieces and nephews. Arrangements by Ballard Family Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/obituaries/obituaries-for-june-6-10/>
+
+---
+
+## Hunter Biden’s trial is not about his father
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>Normally, a trial in the federal courthouse in Wilmington, Delaware, for lying about not being a drug addict on a form to buy a Colt Cobra .38 Special revolver would not be of much concern to the public. But since the defendant is troubled First Son Hunter Biden and the case is prosecuted by a special counsel appointed by the U.S. attorney general, the world is watching.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/opinion/hunter-bidens-trial-is-not-about-his-father/>
+
+---
+
+## The verdict is in on the Supreme Court
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; After Donald Trump was found guilty of 34 felony counts in a Manhattan court, conservatives &#8212; from Marjorie Taylor Greene to George Santos to the Heritage Foundation &#8212; began posting upside-down American flags on the social platform X in solidarity with the &#8220;political prisoner,&#8221; as Trump absurdly styles himself.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/opinion/the-verdict-is-in-on-the-supreme-court/>
+
+---
+
+## High-tech safeguards facilitated MLB’s wagering crackdown
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>When MLB permanently banned San Diego Padres infielder Tucupita Marcano on Tuesday, the particulars of his wrongdoing were laid out in specific detail: 387 bets placed at legal sportsbooks, 231 wagers related to MLB and 25 on the Pittsburgh Pirates, his employer at the time. He was accused of betting more than $150,000 on baseball.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/sports/high-tech-safeguards-facilitated-mlbs-wagering-crackdown/>
+
+---
+
+## UH QB Schager a counselor at Manning Passing Academy
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>The student will become the instructor.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/sports/uh-qb-schager-a-counselor-at-manning-passing-academy/>
+
+---
+
+## Favored Celtics battle Doncic and the Mavs in NBA Finals
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; There was a championship celebrated on the parquet court inside TD Garden just two years ago.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/sports/favored-celtics-battle-doncic-and-the-mavs-in-nba-finals/>
+
+---
+
+## Colts center on Goodell’s wish for 18 games: ‘Put on a helmet for 18 of those games, then come talk to me’
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>INDIANAPOLIS &#8212; Ryan Kelly isn&#8217;t a fan of the NFL potentially moving to an 18-game regular season. The Colts&#8217; center and longest-tenured player, who is a vice president on the NFLPA&#8217;s executive committee, sounded off Wednesday on the possibility of the league adding another game to its regular-season calendar.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/sports/colts-center-on-goodells-wish-for-18-games-put-on-a-helmet-for-18-of-those-games-then-come-talk-to-me/>
+
+---
+
+## Homelessness down 28%: Officials credit increases in funding for services, affordable housing
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>It appears the number of homeless individuals on Hawaii Island has reached its lowest point in the last six years.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/hawaii-news/homelessness-down-28-officials-credit-increases-in-funding-for-services-affordable-housing/>
+
+---
+
+## Hawaii insurance chief doesn’t see carrier exit as costs rise
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii has been the subject of some scary national headlines lately regarding property insurance, but the state insurance commissioner Tuesday expressed a less calamitous view of the industry affecting homeowners.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/hawaii-news/hawaii-insurance-chief-doesnt-see-carrier-exit-as-costs-rise/>
+
+---
+
+## Plan to turn Manago Hotel into housing nixed
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>A $5.5 million county grant to purchase a historic West Hawaii hotel and use it for affordable housing has fallen through.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/hawaii-news/plan-to-turn-manago-hotel-into-housing-nixed/>
+
+---
+
+## How Michael Crichton’s widow Sherri got James Patterson to finish ‘Eruption’
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>Novelist Michael Crichton never talked much about his works in progress, says his widow Sherri Crichton.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/hawaii-news/how-michael-crichtons-widow-sherri-got-james-patterson-to-finish-eruption/>
+
+---
+
+## DOH: Trace amounts of chromium detected in Laupahoehoe well
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>Trace amounts of chromium have been detected for the first time in water samples collected at the Laupahoehoe P-2 Well.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/hawaii-news/doh-trace-amounts-of-chromium-detected-in-laupahoehoe-well/>
+
+---
+
+## Bill to regulate bike tours advances
+
+date: 2024-06-06, from: Hawaii Tribune Harold
+
+
+				<p>A proposal to impose regulations upon commercial bike tour operators in Hawaii County has advanced despite pushback from bicyclists and tour groups.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/06/hawaii-news/bill-to-regulate-bike-tours-advances/>
+
+---
+
+## Educators seek their MAs
+
+date: 2024-06-06, from: Marshal Islands Journal
+
+<p>The University of the South Pacific Campus in Majuro together with the Marshall Islands Public School System launched a master of education program at the end of May. The event took place at the USP Campus in Rairok and featured remarks from both USP and PSS representatives. The event was emceed by USP Campus Director [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/educators-seek-their-mas/">Educators seek their MAs</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/educators-seek-their-mas/>
+
+---
+
+## Agreement Reached Between USP, AUSPS, and USPSU
+
+date: 2024-06-06, from: University of the South Pacific (Fiji)
+
+<p>Dear Members of the University Community, We are delighted to announce that after eight collaborative...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/agreement-reached-between-usp-ausps-and-uspsu/">Agreement Reached Between USP, AUSPS, and USPSU</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/agreement-reached-between-usp-ausps-and-uspsu/>
+
+---
+
+## Lots of happy grads
+
+date: 2024-06-06, from: Marshal Islands Journal
+
+<p>This graduation season saw proud parents, family members, and friends witnessing graduates from secondary schools to colleges in Majuro receiving their diplomas, certificates, awards, and degrees.&#160; As is customary in commencement ceremonies, graduates received academic awards or credentials, speeches from the salutatorian and valedictorian, turning tassels from right to left signifying alumni status, songs, and [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/lots-of-happy-grads/">Lots of happy grads</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/lots-of-happy-grads/>
+
+---
+
+## Micro Games action hits fever pitch
+
+date: 2024-06-05, from: Marshal Islands Journal
+
+<p>The International Conference Center at the heart of Majuro is expected to showcase the most advanced and cutting-edge technology ever used in the sports arena in the Marshall Islands. Technical team from the National Telecommunication Authority has been busy the past few days installing computers and wires in preparation for the Micronesian Games. One gadget [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/micro-games-action-hits-fever-pitch/">Micro Games action hits fever pitch</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/micro-games-action-hits-fever-pitch/>
 
 ---
 
@@ -62,6 +418,106 @@ date: 2024-06-05, from: Island Conservation News
  
 
 <https://www.islandconservation.org/tongas-late-island-shows-promising-results/>
+
+---
+
+## Fuel prices down for 3rd time since May
+
+date: 2024-06-05, updated: 2024-06-06, from: Marianas Variety
+
+FUEL prices on Saipan are down for the third time since May. 
+
+<https://www.mvariety.com/news/local/fuel-prices-down-for-3rd-time-since-may/article_b7bfc6d2-22fe-11ef-848f-bb3c9b189e61.html>
+
+---
+
+## Tinian hosts Valiant Shield 24
+
+date: 2024-06-05, updated: 2024-06-06, from: Marianas Variety
+
+VALIANT Shield 24 is happening at Tinian Northfield with approximately 75 personnel from the Marine Air Control Squadron 4 deployed to the site. 
+
+<https://www.mvariety.com/news/local/tinian-hosts-valiant-shield-24/article_71dbbd3c-2304-11ef-9bed-432f84eafae3.html>
+
+---
+
+## Philippines says troops held weapons but did not point at Chinese coast guard
+
+date: 2024-06-05, updated: 2024-06-06, from: Marianas Variety
+
+MANILA (Reuters) — Philippine troops stationed on a warship grounded on a disputed South China Sea shoal held on to their weapons after Chinese coast guard boats came very close to the ship but they did not point their guns at them, military officials said on Tuesday. 
+
+<https://www.mvariety.com/news/regional_world/philippines-says-troops-held-weapons-but-did-not-point-at-chinese-coast-guard/article_abb01fba-2347-11ef-badb-a7be84a593a3.html>
+
+---
+
+## MLB roundup: Luis Gil keeps rolling as Yanks best Twins
+
+date: 2024-06-05, updated: 2024-06-06, from: Marianas Variety
+
+(Reuters) — Rookie Luis Gil allowed one hit in six scoreless innings to win his seventh straight start and combined with three relievers on a two-hitter as the New York Yankees earned a 5-1 victory over the visiting Minnesota Twins on Tuesday night. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-luis-gil-keeps-rolling-as-yanks-best-twins/article_b49b8a32-2348-11ef-8a4a-43465327255b.html>
+
+---
+
+## Marianas Milk
+
+date: 2024-06-05, updated: 2024-06-06, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/views/columnists/marianas-milk/article_644f9110-2346-11ef-ba9b-abb3a18bc0c2.html>
+
+---
+
+## Bank of Guam invests in new digital scoreboard at UOG Calvo Fieldhouse
+
+date: 2024-06-05, updated: 2024-06-06, from: Marianas Variety
+
+HAGÅTÑA, Guam (BoG) —  Bank of Guam is proud to announce the donation of a LED digital scoreboard at the University of Guam Calvo Fieldhouse. Installation of the new scoreboard was completed earlier this year. 
+
+<https://www.mvariety.com/sports/localsports/bank-of-guam-invests-in-new-digital-scoreboard-at-uog-calvo-fieldhouse/article_50863ef6-2349-11ef-8ba5-0bcb163ec793.html>
+
+---
+
+## JKPL’s Naputi delivers keynote address at university symposium
+
+date: 2024-06-05, updated: 2024-06-06, from: Marianas Variety
+
+(JKPL) — Joeten-Kiyu Public Library is proud to announce that Library Director Erlinda C. Naputi delivered the keynote address at the San Jose State University School of Information’s Celebration of Asian American, Native Hawaiian &amp; Pacific Islander Heritage Month 2024 Symposium on the theme "The Role of Libraries, Museums, and Archives in Engaging with Local Communities." The event took place virtually on Saturday, May 25, 2024 at 3 a.m. CHst. 
+
+<https://www.mvariety.com/news/local/jkpl-s-naputi-delivers-keynote-address-at-university-symposium/article_9a6beef8-2344-11ef-b55d-a34113acfc94.html>
+
+---
+
+## Cabrera admits taking between $150K and $250K
+
+date: 2024-06-05, updated: 2024-06-06, from: Marianas Variety
+
+FORMER CNMI Bar Association Executive Director Peonie Cabrera admitted diverting between $150,000 and $250,000 in CNMI Bar and members’ funds to her personal account for personal use. 
+
+<https://www.mvariety.com/news/local/cabrera-admits-taking-between-150k-and-250k/article_6787dbce-2343-11ef-8a18-dffc6e286efc.html>
+
+---
+
+## Water quality degradation due to heavy rains
+
+date: 2024-06-05, updated: 2024-06-06, from: Marianas Variety
+
+(DEQ) — The Division of Environmental Quality was made aware of a discharge of accumulated stormwater from the storm drainage adjacent to and immediately south of the Crowne Plaza Resort, as a result of heavy rainfall. As a precaution, DEQ is issuing a special red flag advisory to the public, to not fish or swim within 300 feet of this location for the next 48 hours: 
+
+<https://www.mvariety.com/news/community_bulletins/water-quality-degradation-due-to-heavy-rains/article_7336e4fe-2345-11ef-96e6-7fe843159b34.html>
+
+---
+
+## US funds help DPS stay afloat
+
+date: 2024-06-05, updated: 2024-06-06, from: Marianas Variety
+
+DEPARTMENT of Public Safety Commissioner Anthony Macaranas and Director for Administration Kaye Inos told the House Ways and Means Committee on Tuesday that federal funds are helping DPS stay afloat. 
+
+<https://www.mvariety.com/news/local/us-funds-help-dps-stay-afloat/article_97b2279a-2317-11ef-951f-c33cc6bc41c6.html>
 
 ---
 
@@ -418,6 +874,30 @@ date: 2024-06-05, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/06/05/obituaries/obituaries-for-june-5-10/>
+
+---
+
+## JJ Redick as Lakers next coach? Why he’s the front-runner for the job
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>With the Los Angeles Lakers zeroing in on JJ Redick as the front-runner to become the next head coach, one of the franchise&#8217;s biggest remaining offseason questions should be answered relatively soon.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/sports/jj-redick-as-lakers-next-coach-why-hes-the-front-runner-for-the-job/>
+
+---
+
+## NBA nears rights deal worth $76 billion with NBC, ESPN and Amazon, WSJ reports
+
+date: 2024-06-05, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; The National Basketball Association is closing in on media rights deals with Comcast-owned NBC, Disney&#8217;s ESPN, and Amazon.com that would generate about $76 billion in media revenue over 11 years, the Wall Street Journal reported on Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/05/sports/nba-nears-rights-deal-worth-76-billion-with-nbc-espn-and-amazon-wsj-reports/>
 
 ---
 

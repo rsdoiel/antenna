@@ -1,11 +1,111 @@
 ---
 title: games 2024.23
-updated: 2024-06-05 14:07:42
+updated: 2024-06-06 09:04:46
 ---
 
 # games 2024.23
 
-(date: 2024-06-05 14:07:42)
+(date: 2024-06-06 09:04:46)
+
+---
+
+## BioWare renames Dragon Age: Dreadwolf to focus on its heroes, not its villain
+
+date: 2024-06-06, updated: 2024-06-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24172878/dragon-age-4-dreadwolf-veilguard-name-change-bioware>
+
+---
+
+## How to get the Legendary Khvostov and all Lost Encryption locations in Destiny 2
+
+date: 2024-06-06, updated: 2024-06-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24172527/khvostov-how-to-get-exotic-legendary-lost-encryption-locations>
+
+---
+
+## All the new D&D core rulebook cover art, together in one place for the first time
+
+date: 2024-06-06, updated: 2024-06-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24172797/dnd-dungeons-dragons-core-rulebook-cover-art-gallery-phb-dmg-mm>
+
+---
+
+## How to finish ‘Wild Card’ and get Still Hunt in Destiny 2
+
+date: 2024-06-06, updated: 2024-06-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24172688/still-hunt-quest-wild-card>
+
+---
+
+## Haymitch’s story to be finally told in new Hunger Games book
+
+date: 2024-06-06, updated: 2024-06-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24172776/hunger-games-haymitch-prequel-ballad-of-songbirds-and-snakes>
+
+---
+
+## Not sure what movie to watch? Leave a comment, we’ll help
+
+date: 2024-06-06, updated: 2024-06-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/entertainment/2024/6/6/24172064/best-movies-watch-tonight-best-recommendations-streaming>
+
+---
+
+## 2024’s franchise blockbusters, ranked by their value to the series
+
+date: 2024-06-06, updated: 2024-06-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24171622/2024-movie-sequels-prequels-ranked-least-to-most-essential>
+
+---
+
+## Everything to know about The Sims 5, aka Project Rene
+
+date: 2024-06-06, updated: 2024-06-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24171609/the-sims-5-project-rene-overview>
+
+---
+
+## Final Fantasy 14: Dawntrail is a Latin America-inspired ‘vacation’ setting
+
+date: 2024-06-06, updated: 2024-06-06, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24171667/final-fantasy-14-ffxiv-dawntrail-expansion-media-tour-update>
+
+---
+
+## Netflix’s killer-shark movie Under Paris is the missing link between Jaws and Sharktopus
+
+date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24172358/under-paris-review-netflix-shark-attack-thriller>
 
 ---
 

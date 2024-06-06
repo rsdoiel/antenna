@@ -1,11 +1,31 @@
 ---
 title: health 2024.23
-updated: 2024-06-05 14:07:42
+updated: 2024-06-06 09:04:47
 ---
 
 # health 2024.23
 
-(date: 2024-06-05 14:07:42)
+(date: 2024-06-06 09:04:47)
+
+---
+
+## Editorial: The interplay of gut-microbiome between infection and inflammation
+
+date: 2024-06-06, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1413473>
+
+---
+
+## Impacts of COVID-19 pandemic on culture-proven sepsis in neonates
+
+date: 2024-06-06, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveTo assess the effects of COVID-19 pandemic on the epidemiology of neonatal sepsis and the antibiotic resistance profiles of pathogens involved.MethodsThis retrospective cohort study analyzed infants diagnosed with culture-proven sepsis at the neonatal department of a tertiary children’s hospital in East China from January 2016 to December 2022. We compared the clinical and microbiological characteristics of neonatal sepsis cases between the pre-pandemic Phase I (2016–2019) and during the COVID-19 pandemic Phase II (2020–2022).ResultsA total of 507 infants with 525 sepsis episodes were included, with 343 episodes in Phase I and 182 in Phase II. The incidence of early-onset sepsis (EOS) was significantly lower during Phase II (p < 0.05). Infants in Phase II had lower gestational ages and birth weights compared to Phase I. Clinical signs such as mottled skin, severe anemia, thrombocytopenia were more prevalent in Phase II, alongside a higher incidence of complications. Notably, necrotizing enterocolitis (NEC) (p < 0.05) and meningitis (p < 0.1) occurred more frequently during Phase II. Escherichia coli (E. coli) and Klebsiella pneumoniae (K. pneumoniae) were the predominant pathogens isolated from infants of death and cases with complications. A significant decrease in the proportion of K. pneumoniae was observed in Phase II, alongside increased antibiotic resistance in both E. coli and K. pneumoniae. The period of the COVID-19 pandemic (Phase II) was identified as an independent risk factor for complications in infants with neonatal sepsis.ConclusionCOVID-19 pandemic response measures correlated with a decrease in EOS and an increase in neonatal sepsis complications and antibiotic resistance. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1391929>
 
 ---
 

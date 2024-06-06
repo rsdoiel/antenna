@@ -1,11 +1,247 @@
 ---
 title: socal north 2024.23
-updated: 2024-06-05 14:07:41
+updated: 2024-06-06 09:04:46
 ---
 
 # socal north 2024.23
 
-(date: 2024-06-05 14:07:41)
+(date: 2024-06-06 09:04:46)
+
+---
+
+## Vandalism of USC Chabad house not hate crime, early evidence suggests
+
+date: 2024-06-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Los Angeles Police Department is investigating the crime on Rabbi Dov and Runya Wagner's house, which has served as USC's Chabad House for the past five years.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/05/vandalism-of-usc-chabad-house-not-hate-crime-early-evidence-suggests/">Vandalism of USC Chabad house not hate crime, early evidence suggests</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/05/vandalism-of-usc-chabad-house-not-hate-crime-early-evidence-suggests/>
+
+---
+
+## West Hollywood pride celebrations bring together LGBTQ+ community
+
+date: 2024-06-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated June 5 at 11:23 p.m.</em>
+West Hollywood kicked off June with its annual WeHo Pride Parade on Sunday, drawing participants from across Los Angeles with its rainbow-drenched streets and candy-colored floats. 
+
+<https://dailybruin.com/2024/06/05/west-hollywood-pride-celebrations-bring-together-lgbtq-community/>
+
+---
+
+## SFPD La Llama de la Esperanza a Través de San Fernando
+
+date: 2024-06-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Torch-Run_SN_13-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Torch-Run_SN_13-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Torch-Run_SN_13-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Torch-Run_SN_13-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Torch-Run_SN_13-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Torch-Run_SN_13-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Torch-Run_SN_13-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Torch-Run_SN_13-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Torch-Run_SN_13-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Torch-Run_SN_13-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Torch-Run_SN_13-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Torch-Run_SN_13-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Torch-Run_SN_13-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Torch-Run_SN_13-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Torch-Run_SN_13-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Aferrados a la cerca de la escuela primaria O&#8217;Melveny en San Fernando, los niños de la escuela aplaudieron y coreaban: “¡Estados Unidos! ¡Estados Unidos! U.S.A!”, animando al Departamento de Policía [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/05/sfpd-la-llama-de-la-esperanza-a-traves-de-san-fernando/">SFPD La Llama de la Esperanza a Través de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/05/sfpd-la-llama-de-la-esperanza-a-traves-de-san-fernando/>
+
+---
+
+## Battle of the Senior Staff: UCLA Athletics’ best Pac-12 moments this century
+
+date: 2024-06-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated June 5 at 10:15 p.m.</em>
+UCLA’s time in the Pac-12 has nearly reached its end, as its official entrance to the Big Ten is just under two months away. 
+
+<https://dailybruin.com/2024/06/05/battle-of-the-senior-staff-ucla-athletics-best-pac-12-moments-this-century/>
+
+---
+
+## La Gran Reapertura del Parque Comunitario de North Hills Marca el Comienzo de Inversiones en Infraestructura y Seguridad de $2 millones
+
+date: 2024-06-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="550" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/P1130853-scaled-e1717643669912.jpg?fit=1024%2C550&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/P1130853-scaled-e1717643669912.jpg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/P1130853-scaled-e1717643669912.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/P1130853-scaled-e1717643669912.jpg?fit=1024%2C550&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/P1130853-scaled-e1717643669912.jpg?fit=1024%2C550&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La concejal de la ciudad de Los Ángeles, Imelda Padilla, junto con el Departamento de Recreación y Parques (RAP, por sus siglas en inglés) y la División de Misiones del [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/05/la-gran-reapertura-del-parque-comunitario-de-north-hills-marca-el-comienzo-de-inversiones-en-infraestructura-y-seguridad-de-2-millones/">La Gran Reapertura del Parque Comunitario de North Hills Marca el Comienzo de Inversiones en Infraestructura y Seguridad de $2 millones</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/05/la-gran-reapertura-del-parque-comunitario-de-north-hills-marca-el-comienzo-de-inversiones-en-infraestructura-y-seguridad-de-2-millones/>
+
+---
+
+## Horóscopo
+
+date: 2024-06-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>ARIES (21 de mar &#8211; 19 de abr) Reconoces la belleza en tu vida diaria, pero es más fácil verla cuando está fuera de lo común, lo cual es un [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/05/horoscopo-166/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/05/horoscopo-166/>
+
+---
+
+## EVENTOS Locales – Semana de 6 de junio, 2024
+
+date: 2024-06-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Sabado, Junio 8 Microchip Gratis para tu Perro Best friend Animal Society 15321 S. Brand Blvd. Mission Hills 8 a.m. – 12 p.m. La asambleísta Luz Rivas presenta microchip gratis [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/05/eventos-locales-semana-de-6-de-junio-2024/">EVENTOS Locales &#8211; Semana de 6 de junio, 2024 </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/05/eventos-locales-semana-de-6-de-junio-2024/>
+
+---
+
+## Celebra Pride en el Valle de San Fernando
+
+date: 2024-06-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Gran Inauguración del Centro LGBTQ+ de SFV Sábadode junio de 811 a.m. a 2 p.m.Somos Familia Valle 12411 Sheldon St #3, Valle del Sol Únete a Somos Familia Valle para [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/05/celebra-pride-en-el-valle-de-san-fernando/">Celebra Pride en el Valle de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/05/celebra-pride-en-el-valle-de-san-fernando/>
+
+---
+
+## El Mes de Pride Comienza en San Fernando con la Ceremonia de Izamiento de la Bandera
+
+date: 2024-06-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SF-Pride-Flag-Raising_SN_03-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SF-Pride-Flag-Raising_SN_03-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SF-Pride-Flag-Raising_SN_03-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SF-Pride-Flag-Raising_SN_03-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SF-Pride-Flag-Raising_SN_03-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SF-Pride-Flag-Raising_SN_03-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SF-Pride-Flag-Raising_SN_03-scaled.jpeg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SF-Pride-Flag-Raising_SN_03-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SF-Pride-Flag-Raising_SN_03-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SF-Pride-Flag-Raising_SN_03-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SF-Pride-Flag-Raising_SN_03-scaled.jpeg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SF-Pride-Flag-Raising_SN_03-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SF-Pride-Flag-Raising_SN_03-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SF-Pride-Flag-Raising_SN_03-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SF-Pride-Flag-Raising_SN_03-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Residentes, líderes comunitarios y funcionarios electos se reunieron el sábado 1 de junio frente al Ayuntamiento para izar la bandera de Pride del Progreso en la ciudad de San Fernando, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/05/el-mes-de-pride-comienza-en-san-fernando-con-la-ceremonia-de-izamiento-de-la-bandera/">El Mes de Pride Comienza en San Fernando con la Ceremonia de Izamiento de la Bandera</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/05/el-mes-de-pride-comienza-en-san-fernando-con-la-ceremonia-de-izamiento-de-la-bandera/>
+
+---
+
+## Multiple unions rally on campus in support of United Auto Workers strike
+
+date: 2024-06-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated June 5 at 11:16 p.m.</em>
+Over 300 students and community members rallied outside Murphy Hall on Wednesday in support of the ongoing United Auto Workers Local 4811 strike. 
+
+<https://dailybruin.com/2024/06/05/multiple-unions-rally-on-campus-in-support-of-united-auto-workers-strike/>
+
+---
+
+## Pequeño Grupo de Manifestantes Propalestinos Marchan en Pacoima
+
+date: 2024-06-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="978" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240601_184927964-1.jpg?fit=1024%2C978&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240601_184927964-1.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240601_184927964-1.jpg?resize=300%2C287&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240601_184927964-1.jpg?resize=1024%2C978&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240601_184927964-1.jpg?resize=768%2C734&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240601_184927964-1.jpg?resize=1200%2C1146&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240601_184927964-1.jpg?resize=400%2C382&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240601_184927964-1.jpg?resize=706%2C674&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240601_184927964-1.jpg?fit=1024%2C978&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Reunidos bajo un cielo nublado en la esquina de Ritchie Valens Pool, aproximadamente 20 manifestantes agarraron sus pancartas y banderas mientras marchaban por Laurel Canyon Boulevard en “solidaridad con Palestina”. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/05/pequeno-grupo-de-manifestantes-propalestinos-marchan-en-pacoima/">Pequeño Grupo de Manifestantes Propalestinos Marchan en Pacoima</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/05/pequeno-grupo-de-manifestantes-propalestinos-marchan-en-pacoima/>
+
+---
+
+## LADWP Inaugura un Jardín de Polinizadores en Honor a la Fallecida Cindy Montañez
+
+date: 2024-06-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Pollinator-Release-Photo-Blessing.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Pollinator-Release-Photo-Blessing.jpeg?w=1950&amp;ssl=1 1950w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Pollinator-Release-Photo-Blessing.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Pollinator-Release-Photo-Blessing.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Pollinator-Release-Photo-Blessing.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Pollinator-Release-Photo-Blessing.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Pollinator-Release-Photo-Blessing.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Pollinator-Release-Photo-Blessing.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Pollinator-Release-Photo-Blessing.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Pollinator-Release-Photo-Blessing.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Pollinator-Release-Photo-Blessing.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Pollinator-Release-Photo-Blessing.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Adornado con flora y fauna amigables con California, el nuevo jardín de polinizadores en el embalse de Hollywood fue presentado por el Departamento de Agua y Energía de Los Ángeles [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/05/ladwp-inaugura-un-jardin-de-polinizadores-en-honor-a-la-fallecida-cindy-montanez/">LADWP Inaugura un Jardín de Polinizadores en Honor a la Fallecida Cindy Montañez</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/05/ladwp-inaugura-un-jardin-de-polinizadores-en-honor-a-la-fallecida-cindy-montanez/>
+
+---
+
+## Biden Revela Orden Que Suspenderá Solicitudes de Asilo Para Ayudar a “Ganar Control” de la Frontera
+
+date: 2024-06-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="980" height="653" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/el-sol-.webp?fit=980%2C653&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/el-sol-.webp?w=980&amp;ssl=1 980w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/el-sol-.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/el-sol-.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/el-sol-.webp?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/el-sol-.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/el-sol-.webp?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/el-sol-.webp?fit=980%2C653&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>By  Seung Min Kim, Colleen Long, Elliot Spagat y Stephen GrovesAssociated Press WASHINGTON (AP) — El presidente Joe Biden reveló el martes planes para aprobar de inmediato importantes restricciones a [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/05/biden-revela-orden-que-suspendera-solicitudes-de-asilo-para-ayudar-a-ganar-control-de-la-frontera/">Biden Revela Orden Que Suspenderá Solicitudes de Asilo Para Ayudar a “Ganar Control” de la Frontera</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/05/biden-revela-orden-que-suspendera-solicitudes-de-asilo-para-ayudar-a-ganar-control-de-la-frontera/>
+
+---
+
+## Alex Padilla Responde a la Acción Ejecutiva de Biden que Prohíbe el Asilo
+
+date: 2024-06-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Tras la acción ejecutiva del presidente Joe Biden para prohibir efectivamente las solicitudes de asilo en la frontera sur, el senador Alex Padilla, presidente del Subcomité Judicial del Senado sobre [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/05/alex-padilla-responde-a-la-accion-ejecutiva-de-biden-que-prohibe-el-asilo/">Alex Padilla Responde a la Acción Ejecutiva de Biden que Prohíbe el Asilo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/05/alex-padilla-responde-a-la-accion-ejecutiva-de-biden-que-prohibe-el-asilo/>
+
+---
+
+## Chae Campbell returns to UCLA gymnastics for fifth and final year
+
+date: 2024-06-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated June 5 at 9:47 p.m.</em>
+The 2025 UCLA gymnastics roster will host some of the biggest names in the sport – Olympians Emma Malabuyo, Brooklyn Moors and potentially Jordan Chiles. 
+
+<https://dailybruin.com/2024/06/05/chae-campbell-returns-to-ucla-gymnastics-for-fifth-and-final-year/>
+
+---
+
+## Frustrated With University, Academic Workers Make UC Irvine The Sixth Campus To Enter Strike
+
+date: 2024-06-06, updated: 2024-06-06, from: The LAist
+
+UC Irvine's teaching assistants, postdocs, and researchers are the latest to walk off the job in a dispute over the university's handling of campus protests. 
+
+<https://laist.com/news/education/academic-worker-strike-university-of-california-irvine>
+
+---
+
+## Students showcase biotechnology research
+
+date: 2024-06-06, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Students and visitors entering Building 600 on June 1 would later leave with newfound knowledge of plant and soil science, DNA barcoding and protein biomanufacturing,</p>
+<p>The post <a href="https://theroundupnews.com/2024/06/05/students-showcase-biotechnology-research/">Students showcase biotechnology research</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/06/05/students-showcase-biotechnology-research/?utm_source=rss&utm_medium=rss&utm_campaign=students-showcase-biotechnology-research>
+
+---
+
+## USAC freezes transfer of funds to endowment until UC divests
+
+date: 2024-06-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council unanimously approved a change to its bylaws Tuesday that freezes the transfer of funds into its endowment until the UC divests from companies participating &#8220;in the violation of human rights.&#8221;
+The amendment, proposed May 28 by Cultural Affairs Commissioner Alicia Verdugo, makes changes to Article VII &#8211; which concerns finance &#8211; of the USA Bylaws. 
+
+<https://dailybruin.com/2024/06/05/usac-freezes-transfer-of-funds-to-endowment-until-uc-divests/>
+
+---
+
+## Judge Rules City Of Santa Ana Must Revise Non-Citizen Voting Measure
+
+date: 2024-06-05, updated: 2024-06-05, from: The LAist
+
+The language could cast the measure in a favorable light, according to a lawsuit filed against the city. 
+
+<https://laist.com/news/politics/judge-rules-city-of-santa-ana-must-revise-non-citizen-voting-measure>
+
+---
+
+## Reports: Baseball’s Malakhi Knight, Jack Holman enter the transfer portal
+
+date: 2024-06-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA baseball juniors outfielder Malakhi Knight and designated hitter Jack Holman entered the transfer portal Monday, D1 Baseball reported.
+Knight was the Bruins&#8217; highest-ranked recruit to take the field since left-hander Justin Hooper in 2015. 
+
+<https://dailybruin.com/2024/06/05/reports-baseballs-malakhi-knight-jack-holman-enter-the-transfer-portal/>
 
 ---
 
@@ -13,6 +249,7 @@ updated: 2024-06-05 14:07:41
 
 date: 2024-06-05, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated June 5 at 10:05 p.m.</em>
 The last Pac-12 game ever wrapped up in fitting fashion – Arizona walked off USC in the conference baseball championship under a dark Scottsdale, Arizona, sky. 
 
 <https://dailybruin.com/2024/06/05/qa-pac-12-sports-writers-reflect-on-the-end-of-the-conference/>
@@ -46,8 +283,9 @@ Vinyl records have made a comeback in the past decade despite the dominance of m
 
 date: 2024-06-05, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated June 5 at 8:36 p.m.</em>
 Long-lost Iranian cinema jewels are being pulled from the archive this June.
-The UCLA Film &#38; Television Archive annually joins forces with the Farhang Foundation to put on the &#8220;UCLA Celebration of Iranian Cinema.&#8221; Screening films from June 14 to 30 at Billy Wilder Theater, the event aims to bring films from across the Iranian diaspora to the Los Angeles landscape. 
+The UCLA Film &#38; Television Archive annually joins forces with the Farhang Foundation to put on the “UCLA Celebration of Iranian Cinema.” Screening films from June 14 to 30 at Billy Wilder Theater, the event aims to bring films from across the Iranian diaspora to the Los Angeles landscape. 
 
 <https://dailybruin.com/2024/06/05/qa-ucla-film-television-archive-farhang-foundation-host-iran-film-celebration/>
 
@@ -204,10 +442,11 @@ date: 2024-06-05, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## Los Angeles City Council requests reports on LAPD action at UCLA, USC encampments
+## Los Angeles City Council requests report on LAPD action at UCLA, USC encampments
 
 date: 2024-06-05, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated June 5 at 11:29 p.m.</em>
 The Los Angeles City Council unanimously passed a motion Tuesday requesting a report from LAPD and the LA County Office of Inspector General regarding LAPD’s decisions during Palestine solidarity encampments at UCLA and the University of Southern California. 
 
 <https://dailybruin.com/2024/06/04/los-angeles-city-council-requests-reports-on-lapd-action-at-ucla-usc-encampments/>
@@ -507,6 +746,7 @@ Most people may not consider an 18th century Chinese wood block a book. Yet Prof
 
 date: 2024-06-04, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated June 5 at 11:26 p.m.</em>
 Over 300 pro-Palestine protesters marched through campus and blocked traffic Monday to oppose the Israeli military’s invasion of Rafah – a city in the southern Gaza Strip – and demand UC divestment from Israel. 
 
 <https://dailybruin.com/2024/06/03/protesters-walk-out-block-traffic-to-oppose-israeli-militarys-invasion-of-rafah/>

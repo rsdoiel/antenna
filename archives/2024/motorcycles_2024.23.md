@@ -1,11 +1,101 @@
 ---
 title: motorcycles 2024.23
-updated: 2024-06-05 14:07:42
+updated: 2024-06-06 09:04:47
 ---
 
 # motorcycles 2024.23
 
-(date: 2024-06-05 14:07:42)
+(date: 2024-06-06 09:04:47)
+
+---
+
+## Piaggio Wins Patent Case Against Peugeot
+
+date: 2024-06-06, from: Ride Apart, Electric Motorcycle News
+
+No, not the car company Peugeot... 
+
+<https://www.rideapart.com/news/722299/piaggio-mp3-peugeot-patent-infringement/>
+
+---
+
+## There's a BMW Motorcycle Engine Hiding In This Classic Citroën 2CV
+
+date: 2024-06-06, from: Ride Apart, Electric Motorcycle News
+
+What else are you going to do with an old BMW boxer engine? 
+
+<https://www.rideapart.com/news/722284/bmw-motorcycle-engine-citroen-2cv-build/>
+
+---
+
+## West Series: 100th career race for Bobby Hillis Jr.
+
+date: 2024-06-06, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires. This Friday at Sonoma Raceway, CA, a 39th driver will reach the mark of 100 career races in the history the ARCA&#8230;  
+
+<https://kickinthetires.net/nascar/west-series-100th-race-bobby-hillis-jr/>
+
+---
+
+## KTM Has an Automatic Adventure Motorcycle Coming
+
+date: 2024-06-06, from: Ride Apart, Electric Motorcycle News
+
+I, personally, like both, but I'm not sure how I feel about an automatic on a KTM... 
+
+<https://www.rideapart.com/news/722274/ktm-automatic-motorcycle-concept-prototype/>
+
+---
+
+## Here Are Some Of The Most Stolen Motorcycles In The UK
+
+date: 2024-06-06, from: Ride Apart, Electric Motorcycle News
+
+Let’s take a look at what you can do to prevent motorcycle theft.  
+
+<https://www.rideapart.com/news/722127/report-most-stolen-motorcycles-uk/>
+
+---
+
+## Yamaha Is Under Investigation For Improper Vehicle Testing In Japan
+
+date: 2024-06-06, from: Ride Apart, Electric Motorcycle News
+
+Falsified reports regarding sound pressure level tests for the YZF-R1, YZF-R3, and TMAX have already come to light. 
+
+<https://www.rideapart.com/news/722267/yamaha-japan-testing-scandal-investigation/>
+
+---
+
+## CFMoto Is Probably Debuting a 675 SR Sportbike Soon
+
+date: 2024-06-06, from: Ride Apart, Electric Motorcycle News
+
+It previewed a special Aspar Edition of the 675 SR.  
+
+<https://www.rideapart.com/news/722126/cfmoto-675sr-aspar-edition-concept/>
+
+---
+
+## Massimo Rivola on Signing Jorge Martín to Aprilia
+
+date: 2024-06-05, from: Cycle World News
+
+Jorge Martín signed to race for Aprilia in what may be the quickest contract negotiation ever in MotoGP. What factors contributed to Martin’s quick decision? 
+
+<https://www.cycleworld.com/motorcycle-racing/massimo-rivola-on-signing-jorge-martin-to-aprilia-interview/>
+
+---
+
+## ARCA Menards West Series: 2024 Sonoma Race Preview
+
+date: 2024-06-05, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires. Barely a week between the two road races of the 2024 ARCA Menards West Series season. This time it is the traditional&#8230;  
+
+<https://kickinthetires.net/nascar/arca-menards-west-2024-sonoma-preview/>
 
 ---
 

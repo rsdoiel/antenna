@@ -1,11 +1,100 @@
 ---
 title: central coast 2024.23
-updated: 2024-06-05 14:07:42
+updated: 2024-06-06 09:04:46
 ---
 
 # central coast 2024.23
 
-(date: 2024-06-05 14:07:42)
+(date: 2024-06-06 09:04:46)
+
+---
+
+## Ferry Rainbow
+
+date: 2024-06-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/010322-POD-Dave-Welton.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The Washington State Ferry M/V Suquamish on the Clinton to Mukilteo run." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/010322-POD-Dave-Welton.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/010322-POD-Dave-Welton.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/010322-POD-Dave-Welton.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/010322-POD-Dave-Welton.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/010322-POD-Dave-Welton.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/010322-POD-Dave-Welton.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/010322-POD-Dave-Welton.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/010322-POD-Dave-Welton.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/010322-POD-Dave-Welton.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/010322-POD-Dave-Welton.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/010322-POD-Dave-Welton.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/010322-POD-Dave-Welton.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/010322-POD-Dave-Welton.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/ferry-rainbow/">Ferry Rainbow</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ferry-rainbow/>
+
+---
+
+## Santa Barbara City Council Tentatively Agrees to Raise Fees for Boats, Parking at Harbor
+
+date: 2024-06-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06042024-Slip-Fees-DG-1.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara waterfront." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06042024-Slip-Fees-DG-1.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06042024-Slip-Fees-DG-1.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06042024-Slip-Fees-DG-1.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06042024-Slip-Fees-DG-1.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06042024-Slip-Fees-DG-1.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06042024-Slip-Fees-DG-1.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06042024-Slip-Fees-DG-1.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06042024-Slip-Fees-DG-1.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06042024-Slip-Fees-DG-1.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/06042024-Slip-Fees-DG-1.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara&#8217;s Waterfront Department plans to raise slip fees for boats and parking fees in the harbor lot. The proposed changes are part of the Waterfront Department&#8217;s budget for next [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-council-tentatively-agrees-to-raise-fees-for-boats-parking-at-harbor/">Santa Barbara City Council Tentatively Agrees to Raise Fees for Boats, Parking at Harbor</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-council-tentatively-agrees-to-raise-fees-for-boats-parking-at-harbor/>
+
+---
+
+## Goleta Council Considers Restriping Options for Parts of Cathedral Oaks Road
+
+date: 2024-06-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Cathedral-Oaks-improvements-3-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Cathedral Oaks Road in Goleta." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Cathedral-Oaks-improvements-3-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Cathedral-Oaks-improvements-3-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Cathedral-Oaks-improvements-3-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Cathedral-Oaks-improvements-3-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Cathedral-Oaks-improvements-3-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Cathedral-Oaks-improvements-3-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Cathedral-Oaks-improvements-3-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Cathedral-Oaks-improvements-3-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Cathedral-Oaks-improvements-3-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Cathedral-Oaks-improvements-3-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Goleta City Council on Tuesday considered three restriping options to improve conditions on Cathedral Oaks Road between Paseo del Pinon and Northgate Drive as part of the 2023 Pavement [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-council-considers-restriping-options-for-parts-of-cathedral-oaks-road/">Goleta Council Considers Restriping Options for Parts of Cathedral Oaks Road</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goleta-council-considers-restriping-options-for-parts-of-cathedral-oaks-road/>
+
+---
+
+## Orcutt Academy High School Celebrates Graduates with Focus on Pursuing Purpose
+
+date: 2024-06-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Orcutt-Academy-Grad1a-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Orcutt Academy High School valedictorian Camden Patterson." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Orcutt-Academy-Grad1a-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Orcutt-Academy-Grad1a-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Orcutt-Academy-Grad1a-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Orcutt-Academy-Grad1a-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Orcutt-Academy-Grad1a-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Orcutt-Academy-Grad1a-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Orcutt-Academy-Grad1a-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Orcutt-Academy-Grad1a-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Orcutt-Academy-Grad1a-js.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Orcutt-Academy-Grad1a-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Valedictorian Camden Patterson told his fellow Orcutt Academy High School graduates to pursue their future paths with pride and purpose during a Wednesday afternoon ceremony that marked the debut of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/orcutt-academy-high-school-celebrates-graduates-with-focus-on-pursuing-purpose/">Orcutt Academy High School Celebrates Graduates with Focus on Pursuing Purpose</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/orcutt-academy-high-school-celebrates-graduates-with-focus-on-pursuing-purpose/>
+
+---
+
+## Santa Barbara County Reports 13% Staff Vacancy Rate, Plans ‘Status Quo’ Budget
+
+date: 2024-06-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara County expects to end the financial year with a relatively small surplus of $6.7 million and plans a “status quo” budget for the 2024-25 year. While some departments [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-county-reports-13-staff-vacancy-rate-plans-status-quo-budget/">Santa Barbara County Reports 13% Staff Vacancy Rate, Plans &#8216;Status Quo&#8217; Budget</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-county-reports-13-staff-vacancy-rate-plans-status-quo-budget/>
+
+---
+
+## Major Injuries Reported After Plane Crashes Into Vineyard in Santa Ynez
+
+date: 2024-06-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Airplane-Crash-Santa-Ynez-sbcfd-1500.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The pilot was critically injured on Wednesday when a small plane crashed near the Santa Ynez Airport." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Airplane-Crash-Santa-Ynez-sbcfd-1500.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Airplane-Crash-Santa-Ynez-sbcfd-1500.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Airplane-Crash-Santa-Ynez-sbcfd-1500.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Airplane-Crash-Santa-Ynez-sbcfd-1500.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Airplane-Crash-Santa-Ynez-sbcfd-1500.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Airplane-Crash-Santa-Ynez-sbcfd-1500.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Airplane-Crash-Santa-Ynez-sbcfd-1500.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060524-Airplane-Crash-Santa-Ynez-sbcfd-1500.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>One person was critically injured on Wednesday when a small plane crashed near the Santa Ynez Airport. Santa Barbara County firefighters and other emergency personnel were dispatched at about 4:40 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/major-injuries-reported-after-plane-crashes-into-vineyard-in-santa-ynez/">Major Injuries Reported After Plane Crashes Into Vineyard in Santa Ynez</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/major-injuries-reported-after-plane-crashes-into-vineyard-in-santa-ynez/>
+
+---
+
+## 14 Local Student-Athletes Named to Spring All-CIF-SS Squads
+
+date: 2024-06-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/all-cif-spring-cover.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/all-cif-spring-cover.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/all-cif-spring-cover.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/all-cif-spring-cover.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/all-cif-spring-cover.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/all-cif-spring-cover.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/all-cif-spring-cover.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/all-cif-spring-cover.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/all-cif-spring-cover.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/all-cif-spring-cover.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/all-cif-spring-cover.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The high school athletics calendar in spring is jam packed year in and year out, with plenty of local athletes shining in a wide range of sports. This year, these [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/14-local-student-athletes-named-to-spring-all-cif-ss-squads/">14 Local Student-Athletes Named to Spring All-CIF-SS Squads</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/14-local-student-athletes-named-to-spring-all-cif-ss-squads/>
 
 ---
 

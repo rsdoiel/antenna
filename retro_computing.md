@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.23
-updated: 2024-06-05 14:07:42
+updated: 2024-06-06 09:04:47
 ---
 
 # retro computing 2024.23
 
-(date: 2024-06-05 14:07:42)
+(date: 2024-06-06 09:04:47)
+
+---
+
+## NixOS 24.05 is Ready for Prime Time
+
+date: 2024-06-06, from: Linux Magazine
+
+<p>The latest release of NixOS (Uakari) has arrived and offers its usual reproducible, declarative, and reliable goodness.</p> 
+
+<http://www.linux-magazine.com/Online/News/NixOS-24.05-is-Ready-for-Prime-Time>
+
+---
+
+## WROCC June 2024 meeting - Mark Moxon dissects Lander
+
+date: 2024-06-06, from: Icon Bar, RISC OS News
+
+Wakefield's June speaker was Mark Moxon looking at Lander. Previously he has documented other games such as Elite. 
+
+<http://www.iconbar.com/comments/rss/news2074.html>
 
 ---
 

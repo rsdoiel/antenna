@@ -1,11 +1,68 @@
 ---
 title: writing 2024.23
-updated: 2024-06-05 14:07:42
+updated: 2024-06-06 09:04:46
 ---
 
 # writing 2024.23
 
-(date: 2024-06-05 14:07:42)
+(date: 2024-06-06 09:04:46)
+
+---
+
+## Archita Mittra Reviews Sun of Blood and Ruin by Mariely Lares
+
+date: 2024-06-06, from: Locus Magazine
+
+<p><strong>Sun of Blood and Ruin</strong>, Mariely Lares (Harper Voyager 978-0-06325-431-2, $30.00, 384pp, hc) February 2024.</p>
+<p>Pitched as a reimagining of Zorro against the backdrop of Mexican anticolonial resis­tance, <strong>Sun of Blood and Ruin </strong>– the debut novel by Mariely Lares – manages to be a fun com­fort read with a distinctively folkloric bent. Like its gender-flipped Zorro protagonist who constantly switches between two identities (Lady Leonora, a member of  <a href="https://locusmag.com/2024/06/archita-mittra-reviews-sun-of-blood-and-ruin-by-mariely-lares/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/archita-mittra-reviews-sun-of-blood-and-ruin-by-mariely-lares/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-06, from: Neil Gaiman @ BlueSky)
+
+I got the best news today from one of the artists whose work went out in the Heritage Auction that someone who bought a drawing from him long ago, and sold it for a lot more recently, is sending him 10% of the profits. So the idea of cutting in the artists is starting to catch on. And I'm glad. 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kubae7mceq27>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-06, from: Neil Gaiman @ BlueSky)
+
+Tonight a firefly landed on my arm...
+
+https://www.instagram.com/reel/C723FscRd8P/?igsh=MWd3NGd5cTZ5YmkzZg== 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ku7xgfbgyc2d>
+
+---
+
+## Spotlight on: Lindsay Ellis
+
+date: 2024-06-05, from: Locus Magazine
+
+<p><strong>LINDSAY ELLIS</strong> is an author, media critic, and Hugo-nominated video essayist. She also was the co-host of the PBS digital series “It’s Lit,.&#8221; After earning her bachelor&#8217;s in Cinema Studies from NYU&#8217;s Tisch School of the Arts, she earned her MFA in Film and Television Production from USC&#8217;s School of Cinematic Arts with a focus in documentary and screenwriting. She lives in Long Beach, CA. <strong>Apostles of Mercy</strong> is her  <a href="https://locusmag.com/2024/06/spotlight-on-lindsay-ellis/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/spotlight-on-lindsay-ellis/>
+
+---
+
+## 2024 Seiun Awards
+
+date: 2024-06-05, from: Locus Magazine
+
+<p>Yanekon, the 62nd Japan Science Fiction Convention, has announced the winners for the 2024 Seiun Awards, honoring the best original and translated works published last year in Japan.</p>
+<div class="nobullets">
+<p><strong>Best Translated Novel</strong></p>
+<ul>
+<li>WINNER:<strong> The Kaiju Preservation Society</strong>, John Scalzi, translated by Masayuki Uchida (Hayakawa Shobo)</li>
+</ul>
+<ul>
+<li><strong>Mickey 7</strong>, Edward Ashton, translated by Mayumi Otani (Hayakawa Bunko SF)</li>
+<li><strong>The Greenhouse at the End of the World</strong>, Kim Cho-yeop, translated by </li></ul></div> <a href="https://locusmag.com/2024/06/2024-seiun-awards/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/06/2024-seiun-awards/>
 
 ---
 
