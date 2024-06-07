@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.23
-updated: 2024-06-07 08:27:13
+updated: 2024-06-07 11:29:06
 ---
 
 # retro computing 2024.23
 
-(date: 2024-06-07 08:27:13)
+(date: 2024-06-07 11:29:06)
+
+---
+
+## The Last Days of Zork
+
+date: 2024-06-07, from: Digital Antiquarian
+
+If you follow the latest developments in modern gaming even casually, as I do, you know that Microsoft and Activision Blizzard recently concluded the most eye-watering transaction ever to take place in the industry: the former acquired the latter for a price higher than the gross national product of more than half of the world&#8217;s [&#8230;] 
+
+<https://www.filfre.net/2024/06/the-last-days-of-zork/>
 
 ---
 

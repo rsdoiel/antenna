@@ -1,11 +1,128 @@
 ---
 title: tech likely 2024.23
-updated: 2024-06-07 08:27:13
+updated: 2024-06-07 11:29:04
 ---
 
 # tech likely 2024.23
 
-(date: 2024-06-07 08:27:13)
+(date: 2024-06-07 11:29:04)
+
+---
+
+## NASA to Discuss Upcoming Spacewalks for Station Repairs, Upgrades
+
+date: 2024-06-07, from: NASA breaking news
+
+NASA astronauts aboard the International Space Station will conduct three spacewalks targeted for June. NASA will discuss the upcoming spacewalks during a news conference at 4 p.m. EDT Tuesday, June 11.Live coverage will air on NASA+, NASA Television, the NASA app, YouTube, and the agency’s website. Learn how to stream NASA TV through a variety of [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-to-discuss-upcoming-spacewalks-for-station-repairs-upgrades/>
+
+---
+
+## PACE Celebrates National Ocean Month With Colorful Views of the Planet
+
+date: 2024-06-07, from: NASA breaking news
+
+What do you give to an ocean that has everything? This year, for National Ocean Month, NASA’s Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) satellite— is gifting us a unique look at our home planet. The visualizations created with data from the satellite, which launched on Feb. 8, are already enhancing the ways that we view [&#8230;] 
+
+<https://www.nasa.gov/earth/pace-celebrates-national-ocean-month-with-colorful-views-of-the-planet/>
+
+---
+
+## National Weather Service Office of Science and Technology Integration Visit to Learn about SPoRT
+
+date: 2024-06-07, from: NASA breaking news
+
+The National Weather Service in Huntsville hosted a visit by the NWS Office of Science and Technology Integration. OSTI is the main office within the NWS that manages and plans research to operations projects for the NWS and the integration of technology across NWS field offices. The visit by OSTI leadership and management started with [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/marshall-earth-sciences/national-weather-service-office-of-science-and-technology-integration-visit-to-learn-about-sport/>
+
+---
+
+## Receipt of a Small Apollo 16 Regolith Dust Sample for the Dusty Plasma Lab
+
+date: 2024-06-07, from: NASA breaking news
+
+Dennis Gallagher (ST13) reports receiving on 3/1/24, one gram of Apollo 16 regolith of 1 mm and smaller dust regolith from the Johnson Space Center (JSC) Apollo Archive. The material request is motivated by the planned NASA Artemis missions to the Moon’s south polar region where the surface is generally expected to be like that [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/receipt-of-a-small-apollo-16-regolith-dust-sample-for-the-dusty-plasma-lab/>
+
+---
+
+## New Imaging X-ray Polarimetry Explorer (IXPE) Discovery Papers Published
+
+date: 2024-06-07, from: NASA breaking news
+
+On 3/7/24, Astrophysical Journal published online “X-ray Polarimetry of the Dipping Accreting Neutron Star 4U 1624–49” by M. Lynne Saade (Astrophysics Branch) et al. This is the 51st discovery paper published by the IXPE Science Team. The first author, Lynnie Saade, is a new postdoc working on IXPE and this is her first IXPE paper, [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/new-imaging-x-ray-polarimetry-explorer-ixpe-discovery-papers-published/>
+
+---
+
+## Participation in the First TOPS Symposium at KSC
+
+date: 2024-06-07, from: NASA breaking news
+
+NASA&#8217;s Transform to Open Science (TOPS) initiative aims to transform agencies, organizations, and communities to an inclusive culture of open science. A set of TOPS Champions at selected NASA Centers have developed the open science curriculum that they will teach at Centers, conferences, science meetings, etc. A first TOPS meeting with all Center Champions was [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/participation-in-the-first-tops-symposium-at-ksc/>
+
+---
+
+## Meeting with World Food Program’s Head of Geospatial Support Unit
+
+date: 2024-06-07, from: NASA breaking news
+
+Rahul Ramachandran (ST11) met with the World Food Program&#8217;s Head of Geospatial Support Unit. The focus was on his team&#8217;s work in Geospatial AI Foundation Models, specifically discussing the upcoming second version of the HLS Foundation Model. This new iteration promises an advanced architecture and extended training on global time sequences, offering unprecedented capabilities. The [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/meeting-with-world-food-programs-head-of-geospatial-support-unit/>
+
+---
+
+## Instructor-Led TOPS Workshop at MSFC
+
+date: 2024-06-07, from: NASA breaking news
+
+NASA&#8217;s Transform to Open Science (TOPS; https://nasa.github.io/Transform-to-Open-Science/) initiative aims to transform agencies, organizations, and communities to an inclusive culture of open science. TOPS’s first priority is to develop an open science curriculum to train scientists and researchers as part of our 5-year program. A set of TOPS Champions at selected NASA Centers have developed the [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/instructor-led-tops-workshop-at-msfc/>
+
+---
+
+## Newer versions of Ansible don't work with RHEL 8
+
+date: 2024-06-07, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Newer versions of Ansible don't work with RHEL 8</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Red Hat Enterprise Linux 8 is supported until 2029, and that distribution includes Python 3.6 for system python. Ansible's long been stuck between a rock and a hard place supporting certain modules (especially packaging modules like <code>dnf</code>/<code>yum</code> on RHEL and its derivatives, because the Python bindings for the packaging modules are stuck supporting system Python.</p>
+
+<p>Users are getting errors like:</p>
+
+<pre><code>/bin/sh: /usr/bin/python3: No such file or directory
+The module failed to execute correctly, you probably need to set the interpreter.\nSee stdout/stderr for the exact error.
+
+...or...
+
+SyntaxError: future feature annotations is not defined
+</code></pre>
+
+<p>As <code>ansible-core</code> evolves, they don't want to support old insecure versions of Python forever—<a href="https://endoflife.date/python">Python 3.6 was out of security support back in 2021!</a>.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-06-07T10:50:22-05:00" title="Friday, June 7, 2024 - 10:50" class="datetime">June 7, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/newer-versions-ansible-dont-work-rhel-8>
+
+---
+
+## Paper on Land-Use Planning in West Africa Published in IEEE J-STARS
+
+date: 2024-06-07, from: NASA breaking news
+
+As part of his NASA SERVIR research project, Pontus Olofsson (ST11) co-authored a paper for publication in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. The paper, titled Applications of Remote Sensing for Land Use Planning Scenarios With Suitability Analysis, presents results from a suitability analysis model using time series of [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/paper-on-land-use-planning-in-west-africa-published-in-ieee-j-stars/>
 
 ---
 

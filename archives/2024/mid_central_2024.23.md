@@ -1,11 +1,21 @@
 ---
 title: mid central 2024.23
-updated: 2024-06-07 08:27:13
+updated: 2024-06-07 11:29:03
 ---
 
 # mid central 2024.23
 
-(date: 2024-06-07 08:27:13)
+(date: 2024-06-07 11:29:03)
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-06-07, from: Amateur Radio Relay League News
+
+<p>This reporting week (May 30 to June 5) our Sun was active, with nine<br />new sunspot groups.<br /><br />One emerged on May 30, another on May 31, two more on June 1,<br />another on June 2, three more on June 3, and one more on June 4.<br /><br />Average daily sunspot number rose from 124.6 to 183.4, and average<br />daily solar flux from 164.8 to 184.8.<br /><br />Predicted solar flux is 190 on June 7-9, 170 on June 10-19, 180 on<br />June 20, 190 on ...</p> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-831>
 
 ---
 

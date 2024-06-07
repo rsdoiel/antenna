@@ -1,11 +1,57 @@
 ---
 title: writing 2024.23
-updated: 2024-06-07 08:27:13
+updated: 2024-06-07 11:29:05
 ---
 
 # writing 2024.23
 
-(date: 2024-06-07 08:27:13)
+(date: 2024-06-07 11:29:05)
+
+---
+
+## 4 Things ‘The Acolyte’ Can Teach You About Screenwriting
+
+date: 2024-06-07, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/4-things-the-acolyte-can-teach-you-about-screenwriting" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/The%20Acolyte%20Hero.jpeg" alt="'The Acolyte,' 4 Things ‘The Acolyte’ Can Teach You About Screenwriting" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>With 4.8 million views in one day, the latest </span><em><span><a href="https://blog.finaldraft.com/worldbuilding-101-using-the-star-wars-model">Star Wars</a> </span></em><span>installment, </span><em><span>The Acolyte</span></em>, is Disney’s biggest streaming launch <span>of</span><span> 2024. And as a lifelong </span><em><span>Star Wars </span></em><span>enthusiast, I can see why.</span></p> 
+
+<https://blog.finaldraft.com/4-things-the-acolyte-can-teach-you-about-screenwriting>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-07, from: Neil Gaiman @ BlueSky)
+
+From Jules Feiffer long ago. Nothing changes... 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kudvsfmsmf2s>
+
+---
+
+## A.C. Wise Reviews Short Fiction: Asimov’s
+
+date: 2024-06-07, from: Locus Magazine
+
+<p>Asimov’s 3-4/24</p>
+<p>The March/April 2024 issue of Asimov’s is quite a strong one. It opens with a “<strong>How Sere Kept Herself Together</strong>” by <strong>Alex­ander Jablokov</strong>, the third in a series of stories featuring Sere, an investigator, who in this case starts off looking into a kidnapping, but finds herself embroiled in a far more complex case. The worldbuilding is nicely done and the novella does a good  <a href="https://locusmag.com/2024/06/a-c-wise-reviews-short-fiction-asimovs-2/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/a-c-wise-reviews-short-fiction-asimovs-2/>
+
+---
+
+## Photo Story: Hexagon Retreat XV
+
+date: 2024-06-07, from: Locus Magazine
+
+<p>The 15th Hexagon Retreat was held in April 2024 in Crozet VA.</p>
+
+<p></p>
+<p><strong>Photographer: Scott H. Andrews</strong></p>
+<p><strong>While you are here,</strong> please take a moment to support Locus with a one-time or recurring donation. We rely on reader donations to keep the magazine and site going, and would like to keep the site paywall free, but <strong>WE NEED YOUR FINANCIAL SUPPORT</strong> to continue quality coverage of the science fiction and fantasy  <a href="https://locusmag.com/2024/06/photo-story-hexagon-retreat-xv/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/photo-story-hexagon-retreat-xv/>
 
 ---
 

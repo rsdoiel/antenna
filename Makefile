@@ -20,7 +20,7 @@ endif
 
 PROJECT = Antenna
 
-section_names = socal_north pacific mid_central central_coast tech_likely columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric.txt
+section_names = socal_north pacific mid_central central_coast tech_likely columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric
 
 md_files = $(addsuffix .md,$(section_names))
 
@@ -28,7 +28,7 @@ html_files = $(addsuffix .html,$(section_names))
 
 build: harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind dump
 
-world: snapshots harvest CITATION.cff dump website
+world: snapshots build
 
 california: harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind dump
 
@@ -37,7 +37,7 @@ snapshots: .FORCE
 
 website: markdown html archives index.html about.html search.html README.html pagefind
 
-harvest: *.skim
+harvest: $(section_names)
 
 *.skim: *.txt
 
@@ -47,53 +47,57 @@ harvest: *.skim
 #
 # Helper rules to retrieve and debug specific feed lists
 #
+
 socal_north: .FORCE
-	skimmer socal_north.txt
+	-skimmer socal_north.txt
 
 pacific: .FORCE
-	skimmer pacific.txt
+	-skimmer pacific.txt
 
 mid_central: .FORCE
-	skimmer mid_central.txt
+	-skimmer mid_central.txt
 
 central_coast: .FORCE
-	skimmer central_coast.txt
+	-skimmer central_coast.txt
 
 tech_likely: .FORCE
-	skimmer tech_likely.txt
+	-skimmer tech_likely.txt
 
 columns: .FORCE
-	skimmer columns.txt
+	-skimmer columns.txt
 
 weather: .FORCE
-	skimmer weather.txt
+	-skimmer weather.txt
 
 writing: .FORCE
-	skimmer writing.txt
+	-skimmer writing.txt
 
 games: .FORCE
-	skimmer games.txt
+	-skimmer games.txt
 
 libraries: .FORCE
-	skimmer libraries.txt
+	-skimmer libraries.txt
 
-journalism: .FORMCE
-	skimmer journalism.txt
+journalism: .FORCE
+	-skimmer journalism.txt
+
+home: .FORCE
+	-skimmer home.txt
 
 parks: .FORCE
-	skimmer parks.txt
+	-skimmer parks.txt
 
 health: .FORCE
-	skimmer health.txt
+	-skimmer health.txt
 
 motorcycles: .FORCE
-	skimmer motorcycles.txt
+	-skimmer motorcycles.txt
 
 retro_computing: .FORCE
-	skimmer retro_computing.txt
+	-skimmer retro_computing.txt
 
 going_electric: .FORCE
-	skimmer going_electric.txt
+	-skimmer going_electric.txt
 
 markdown: $(md_files)
 

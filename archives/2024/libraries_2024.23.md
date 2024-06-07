@@ -1,11 +1,22 @@
 ---
 title: libraries 2024.23
-updated: 2024-06-07 08:27:13
+updated: 2024-06-07 11:29:05
 ---
 
 # libraries 2024.23
 
-(date: 2024-06-07 08:27:13)
+(date: 2024-06-07 11:29:05)
+
+---
+
+## Educação em Revista: editorial challenges and scientific possibilities
+
+date: 2024-06-07, from: SciELO in Perspective
+
+<p>The trajectory of <em>Educação em Revista</em> reflects its commitment to quality scientific publishing. This editorial addresses its transformations in scientific management, technological adaptation, internationalization, and adherence to Open Science, discussing the need to professionalize the editorial staff of Brazilian scientific journals to guarantee financial and scientific sustainability nationally and internationally. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://humanas.blog.scielo.org/en/2024/06/07/educacao-em-revista-editorial-challenges-and-scientific-possibilities/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://humanas.blog.scielo.org/en/2024/06/07/educacao-em-revista-editorial-challenges-and-scientific-possibilities/#new_tab"><em>Educação em Revista:</em> editorial challenges and scientific possibilities</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://humanas.blog.scielo.org/en/2024/06/07/educacao-em-revista-editorial-challenges-and-scientific-possibilities/#new_tab>
 
 ---
 
@@ -29,6 +40,16 @@ date: 2024-06-07, from: Scholarly Kitchen
  
 
 <https://scholarlykitchen.sspnet.org/2024/06/07/how-do-dogs-see-the-world/>
+
+---
+
+## Nonlinear finite-element shell and plate simulation data for SSMLearn
+
+date: 2024-06-07, from: ETH Zurich, recently added
+
+Cenedese, Mattia; Axås, Joar 
+
+<http://hdl.handle.net/20.500.11850/676983>
 
 ---
 

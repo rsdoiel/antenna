@@ -27,7 +27,7 @@ https://sundial.csun.edu/feed/ "~The Sundail (CSUN Student Newspaper)"
 #https://www.laloyolan.com/search/?f=rss "~Laloyolan (LMU Student Newspaper)" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://www.laloyolan.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc "~Laloyolan (LMU Student Newspaper)" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://pepperdinebeacon.com/feed/ "~Pepperdine Beacon (Pepperdine Student Newspaper)
-https://caltechletters.org/feed.xml "~Caltech Letters (a student blog)"
+# https://caltechletters.org/feed.xml "~Caltech Letters (a student blog)" # Appears defunct now, May 2024
 https://canyonsnews.com/feed/ "~The Canyon News (COC Student Newspaper)"
 https://dailytrojan.com/feed/ "~The Daily Trojan (USC Student Newspaper)" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://wp.dailybruin.com/feed/ "~The Daily Bruin (UCLA Student Newspaper)"

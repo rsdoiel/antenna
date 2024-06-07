@@ -1,11 +1,80 @@
 ---
 title: columns 2024.23
-updated: 2024-06-07 08:27:13
+updated: 2024-06-07 11:29:04
 ---
 
 # columns 2024.23
 
-(date: 2024-06-07 08:27:13)
+(date: 2024-06-07 11:29:04)
+
+---
+
+## [Podcast] End of Tech’s Easy Growth
+
+date: 2024-06-07, from: Om Malik blog
+
+I was recently invited to participate in the Trends with Friends podcast, co-hosted by long time friend Howard Lindzon. The podcast primarily focuses on “markets” and less on “technology,&#8221; as I understand it. Howie and his co-hosts were eager to discuss Apple, AI, and the significant changes sweeping our industry. My overarching message for them &#8230; 
+
+<https://om.co/2024/06/07/techs-end-of-easy-growth/>
+
+---
+
+## June 6, 2024
+
+date: 2024-06-07, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/june-6-2024-ecd>
+
+---
+
+## Newer versions of Ansible don't work with RHEL 8
+
+date: 2024-06-07, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Newer versions of Ansible don't work with RHEL 8</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Red Hat Enterprise Linux 8 is supported until 2029, and that distribution includes Python 3.6 for system python. Ansible's long been stuck between a rock and a hard place supporting certain modules (especially packaging modules like <code>dnf</code>/<code>yum</code> on RHEL and its derivatives, because the Python bindings for the packaging modules are stuck supporting system Python.</p>
+
+<p>Users are getting errors like:</p>
+
+<pre><code>/bin/sh: /usr/bin/python3: No such file or directory
+The module failed to execute correctly, you probably need to set the interpreter.\nSee stdout/stderr for the exact error.
+
+...or...
+
+SyntaxError: future feature annotations is not defined
+</code></pre>
+
+<p>As <code>ansible-core</code> evolves, they don't want to support old insecure versions of Python forever—<a href="https://endoflife.date/python">Python 3.6 was out of security support back in 2021!</a>.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-06-07T10:50:22-05:00" title="Friday, June 7, 2024 - 10:50" class="datetime">June 7, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/newer-versions-ansible-dont-work-rhel-8>
+
+---
+
+## 2024-06-07 Leukerbad
+
+date: 2024-06-07, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-07-leukerbad">2024-06-07 Leukerbad</h1>
+
+<p>Visiting the Swiss Alps inorder to meet family tomorrow.</p>
+
+<p>Looking towards Sion from the bus from Leuk to Leukerbad.</p>
+
+<p><img loading="lazy" src="2024-06-07-leukerbad-1.jpg" alt="" /></p>
+
+<p>Sadly, it rains.</p>
+
+<p><img loading="lazy" src="2024-06-07-leukerbad-2.jpg" alt="" /></p>
+
+<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<https://alexschroeder.ch/view/2024-06-07-leukerbad>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: pacific 2024.23
-updated: 2024-06-07 08:27:13
+updated: 2024-06-07 11:29:03
 ---
 
 # pacific 2024.23
 
-(date: 2024-06-07 08:27:13)
+(date: 2024-06-07 11:29:03)
 
 ---
 
@@ -309,6 +309,86 @@ date: 2024-06-07, from: INSIGHTS ON PBS HAWAIʻI
 
 ---
 
+## Tenant accused of assaulting property manager because of alleged scam
+
+date: 2024-06-07, from: Guam Daily Post
+
+An apartment tenant was accused of assaulting the property manager of the complex because the tenant felt he was being scammed by the property manager and the landlord. 
+
+<https://www.postguam.com/news/local/tenant-accused-of-assaulting-property-manager-because-of-alleged-scam/article_0a763e00-2477-11ef-9904-bf2410482dc2.html>
+
+---
+
+## Limo termination appeal may come to settlement
+
+date: 2024-06-07, from: Guam Daily Post
+
+A yearslong adverse action appeal brought on by former Department of Corrections Lt. Jeffrey Limo may finally be coming to an end, with renewed interest in settling the case among the parties, according to discussions Wednesday during a status call… 
+
+<https://www.postguam.com/news/local/limo-termination-appeal-may-come-to-settlement/article_39a6b3a8-2305-11ef-af46-e7d929a86c11.html>
+
+---
+
+## Teens in custody in suspected crime spree
+
+date: 2024-06-07, from: Guam Daily Post
+
+Three minors were taken into custody on suspicion of going on a crime spree in Sånta Rita-Sumai and Hågat over the past week. 
+
+<https://www.postguam.com/news/local/teens-in-custody-in-suspected-crime-spree/article_f80fd342-2472-11ef-9d53-eb9e9fddad8f.html>
+
+---
+
+## Delegate proposes NDAA RECA amendment as program deadline looms
+
+date: 2024-06-07, from: Guam Daily Post
+
+The Radiation Exposure Compensation Act will expire on June 7, Washington, D.C., time, and with no vote called in the U.S. House of Representatives to forward a measure meant to extend and expand the program, it appears that deadline is… 
+
+<https://www.postguam.com/news/local/delegate-proposes-ndaa-reca-amendment-as-program-deadline-looms/article_cddcca10-246f-11ef-b14a-f700527c8488.html>
+
+---
+
+## Micronesian Islands Forum concludes with letter to President Biden
+
+date: 2024-06-07, from: Guam Daily Post
+
+After several days of discussion and collaboration the Micronesian Islands Forum concluded with elected leaders and representatives from the region writing a joint letter asking President Joe Biden for help. 
+
+<https://www.postguam.com/news/local/micronesian-islands-forum-concludes-with-letter-to-president-biden/article_dfaad56c-23ce-11ef-9b6b-7f34134000a7.html>
+
+---
+
+## Judge recused in drug case because of 'close link' to AG
+
+date: 2024-06-07, from: Guam Daily Post
+
+A judge has been disqualified from presiding over a drug case because of his "close link" to Attorney General Douglas Moylan. 
+
+<https://www.postguam.com/news/local/judge-recused-in-drug-case-because-of-close-link-to-ag/article_d81785ba-2398-11ef-b7b5-77101afbaefe.html>
+
+---
+
+## Valiant Shield 24 underway
+
+date: 2024-06-07, from: Guam Daily Post
+
+Over the next two weeks island residents may notice increased military activity as the Indo-Pacific Valiant Shield 2024 exercise is underway. 
+
+<https://www.postguam.com/news/local/valiant-shield-24-underway/article_9b087eca-2471-11ef-946c-af8d1e52ef42.html>
+
+---
+
+## †Lysander Ysidro Bermudes Tudela
+
+date: 2024-06-07, updated: 2024-06-07, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/obituaries/lysander-ysidro-bermudes-tudela/article_96e65908-24ac-11ef-8ad2-f7bd3f6a1fb9.html>
+
+---
+
 ## Palau International Airport Welcomes Luxurious New VIP Lounge
 
 date: 2024-06-07, from: Island Times
@@ -572,6 +652,16 @@ By Pacific Island Times News Staff The Micronesian Islands Forum concluded this 
 
 ---
 
+## Closure of Incheon-Saipan route ‘a huge setback’: HANMI
+
+date: 2024-06-07, updated: 2024-06-07, from: Marianas Variety
+
+THE Hotel Association of the Northern Mariana Islands issued the following statement on Friday: 
+
+<https://www.mvariety.com/news/local/closure-of-incheon-saipan-route-a-huge-setback-hanmi/article_16c9a97e-2488-11ef-b94a-1717fe9ff238.html>
+
+---
+
 ## A bittersweet journey with my parents
 
 date: 2024-06-07, from: Pacific Island Times
@@ -589,6 +679,16 @@ date: 2024-06-07, from: Pacific Island Times
 By Pacific Island Times News Staff While empirical evidence speaks to the growing cases of dementia on Guam, no current data are... 
 
 <https://www.pacificislandtimes.com/post/what-dementia-related-services-are-available-on-guam>
+
+---
+
+## †Artemio Iglesias Deleon Guerrero
+
+date: 2024-06-06, updated: 2024-06-06, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/obituaries/artemio-iglesias-deleon-guerrero/article_23cb921e-2455-11ef-8367-0f206a6956c9.html>
 
 ---
 
@@ -676,6 +776,76 @@ date: 2024-06-06, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/06/06/stem-pre-academy-director-kaupp/">Alumna to lead <abbr>UH</abbr>’s <abbr>STEM</abbr> initiatives for Hawaiʻi middle schools</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/06/06/stem-pre-academy-director-kaupp/>
+
+---
+
+## FEATURE ǀ Dead fish
+
+date: 2024-06-06, updated: 2024-06-06, from: Marianas Variety
+
+IT frustrates me, at my age and for someone who often acts like he knows it all, to consider just how much more I have yet to learn and how little time (relatively speaking) I have left to figure things out… about a lot of things, but certainly about human nature and the complexities of our relationships with each other and with life itself.  The ebb and flow of individual life experiences and perspectives make it difficult to grasp in a single thought the meaning of life, much less any certainty about the best way to live it.  Complicating matters (for many of us) is having been raised in juxtaposing cultures — island sea-faring, warrior poets of the Mortlocks and old-south, Confederate good-ole-boys of Virgina for me.  You really can’t script a juxtaposition of more complex proportions.  What may be acceptable in one is not always correct in the other.  It’s fair to say, being mixed up can be confusing, but there is hope in finding balance down the middle (on an even keel, if you will).  There is an undertow of commonalities in nearly all cultures, but we sometimes need to wipe the fog off the lenses from our respective upbringing to see and appreciate them fully. 
+
+<https://www.mvariety.com/views/columnists/feature-dead-fish/article_2d4cfe90-2414-11ef-a57f-7f2fddaaf44e.html>
+
+---
+
+## Elite Force edges NAPA, 57-55
+
+date: 2024-06-06, updated: 2024-06-06, from: Marianas Variety
+
+THE Elite Force bagged their second straight win by outlasting NAPA, 57-55, in a game of the Destroyers Friendly Games League at the TSL Sports Complex on Sunday. 
+
+<https://www.mvariety.com/sports/localsports/elite-force-edges-napa-57-55/article_b6001edc-2411-11ef-acd4-470ab365938d.html>
+
+---
+
+## Nothing is new, it is just forgotten
+
+date: 2024-06-06, updated: 2024-06-06, from: Marianas Variety
+
+Show, don’t tell 
+
+<https://www.mvariety.com/views/editorials/nothing-is-new-it-is-just-forgotten/article_2d43e0ae-2413-11ef-b6f9-b396a36258cc.html>
+
+---
+
+## Variations ǀ Smartphones are redefining ‘smartness’
+
+date: 2024-06-06, updated: 2024-06-06, from: Marianas Variety
+
+THIS week let’s talk about a subject that is not as seemingly hopeless as the CNMI government’s financial condition. I’m referring to the education of our children in this era of smartphones — and earbuds. 
+
+<https://www.mvariety.com/views/columnists/variations-smartphones-are-redefining-smartness/article_ac750146-2413-11ef-872e-e74099a5f71d.html>
+
+---
+
+## Luta Ag Fair
+
+date: 2024-06-06, updated: 2024-06-06, from: Marianas Variety
+
+On May 24, 2024, hundreds of community members on Rota gathered at Chamorro Village for the Luta Ag Fair to celebrate the island's agricultural producers. Students from Rota's public schools observed the colorful, award-winning produce displayed at the fair. Local farmers and ranchers showcased their livestock, ornamentals, and produce, providing an opportunity to highlight their agricultural work and dedication. The event allowed participants to view and appreciate the products of Rota's agricultural industry. 
+
+<https://www.mvariety.com/news/community_bulletins/luta-ag-fair/article_98d59474-2414-11ef-b846-efcf1f6b69d8.html>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2024-06-06, updated: 2024-06-06, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is now available at the Joeten Shopping Center in Susupe. 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Nvidia overtakes Apple as No. 2 most valuable company
+
+date: 2024-06-06, updated: 2024-06-06, from: Marianas Variety
+
+(Reuters) — Nvidia's rallied to record highs on Wednesday, with the artificial intelligence chipmaker's valuation breaching the $3 trillion mark and overtaking Apple to become the world's second most valuable company. 
+
+<https://www.mvariety.com/business/business_news/nvidia-overtakes-apple-as-no-2-most-valuable-company/article_cde45882-2417-11ef-847a-a7f95259c23c.html>
 
 ---
 
@@ -996,6 +1166,116 @@ date: 2024-06-06, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/06/06/hawaii-news/bill-to-regulate-bike-tours-advances/>
+
+---
+
+## Bulldogs get their diplomas
+
+date: 2024-06-06, from: Guam Daily Post
+
+Graduates of Okkodo High School Class of 2024 share a celebration at the commencement ceremony at the University of Guam Calvo Field House in Mangilao on Wednesday. 
+
+<https://www.postguam.com/island_life/bulldogs-get-their-diplomas/article_7b0a5c74-231d-11ef-9cf3-b777e548345c.html>
+
+---
+
+## DRT seeking about $17M for fiscal 2025
+
+date: 2024-06-06, from: Guam Daily Post
+
+The Guam Department of Revenue and Taxation is seeking a budget of just over $17 million for fiscal year 2025, an increase of about $500,000 from the current fiscal year, according to acting DRT Director Marie Lizama. 
+
+<https://www.postguam.com/news/local/drt-seeking-about-17m-for-fiscal-2025/article_2a999a50-2392-11ef-8ca6-d7e7286079ea.html>
+
+---
+
+## Drug dealer given 8 years in federal prison
+
+date: 2024-06-06, from: Guam Daily Post
+
+A man who pleaded guilty to possession with intent to distribute methamphetamine will spend eight years in federal prison. 
+
+<https://www.postguam.com/news/local/drug-dealer-given-8-years-in-federal-prison/article_3a077858-23a2-11ef-8aa4-93e1f11add7b.html>
+
+---
+
+## Man accused of repeat assaults, threatening woman with a gun
+
+date: 2024-06-06, from: Guam Daily Post
+
+A woman has alleged a man known to her assaulted her and threatened to kill her repeatedly over the course of a week. 
+
+<https://www.postguam.com/news/local/man-accused-of-repeat-assaults-threatening-woman-with-a-gun/article_ec4b419c-22f9-11ef-a177-a316e3b6a618.html>
+
+---
+
+## DYA: 1,500 apply for Summer Youth Employment Program
+
+date: 2024-06-06, from: Guam Daily Post
+
+Youths who applied for jobs with the governor’s Summer Youth Employment Program will find out if they made the cut as early as Monday. 
+
+<https://www.postguam.com/news/local/dya-1-500-apply-for-summer-youth-employment-program/article_b7d80ce2-23b2-11ef-bdc1-93c600b29676.html>
+
+---
+
+## USNH Guam to become trauma center
+
+date: 2024-06-06, from: Guam Daily Post
+
+U.S. Naval Hospital Guam is moving forward to become a trauma center, according to its medical director, Dr. Sally Westcott. 
+
+<https://www.postguam.com/news/local/usnh-guam-to-become-trauma-center/article_fe0adf1e-23b2-11ef-8668-0b499a066d27.html>
+
+---
+
+## Sharks volleyball steps up in Saipan
+
+date: 2024-06-06, from: Guam Daily Post
+
+This past weekend, the Simon Sanchez High School Sharks boys volleyball team traveled to Saipan to play in an exhibition tournament with two all-star teams from the Commonwealth of the Northern Mariana Islands and the Marianas High School Dolphins, the… 
+
+<https://www.postguam.com/sports/local/sharks-volleyball-steps-up-in-saipan/article_d4d2dcba-2398-11ef-a640-377986143e5e.html>
+
+---
+
+## Mustangs get first win in Philippines
+
+date: 2024-06-06, from: Guam Daily Post
+
+ 
+
+<https://www.postguam.com/sports/local/mustangs-get-first-win-in-philippines/article_19293f6e-2392-11ef-956c-d331aa684b3d.html>
+
+---
+
+## Anthony Gregoire is ready to be 'always ready' in the Coast Guard
+
+date: 2024-06-06, from: Guam Daily Post
+
+When Harvest Christian Academy standout tennis player Anthony Gregoire transferred from Saipan to Guam with his family in his eighth grade year, the pandemic hit and nothing would ever be the same – at least, not for a long, long… 
+
+<https://www.postguam.com/sports/local/anthony-gregoire-is-ready-to-be-always-ready-in-the-coast-guard/article_24204736-238e-11ef-ade9-b35399614d41.html>
+
+---
+
+## Employee allegedly took $20K out of register over 5 months
+
+date: 2024-06-06, from: Guam Daily Post
+
+A gas station employee allegedly stole $20,000 in total from the station's cash register since the start of the year. 
+
+<https://www.postguam.com/news/local/employee-allegedly-took-20k-out-of-register-over-5-months/article_f7c81762-22fd-11ef-bfc4-9b3c356db042.html>
+
+---
+
+## Energy credit extension now law, OPA funding bill vetoed
+
+date: 2024-06-06, from: Guam Daily Post
+
+Gov. Lou Leon Guerrero has signed into law six more months of energy credits for Guam's long-standing Prugråman Ayuda Para I Taotao-ta Energy Credit Program, but has rejected another measure meant to provide continuous funding for the Office of Public… 
+
+<https://www.postguam.com/news/local/energy-credit-extension-now-law-opa-funding-bill-vetoed/article_e8c01bae-2391-11ef-9c3c-6329de51800d.html>
 
 ---
 

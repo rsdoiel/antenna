@@ -1,11 +1,21 @@
 ---
 title: socal north 2024.23
-updated: 2024-06-07 08:27:12
+updated: 2024-06-07 11:29:02
 ---
 
 # socal north 2024.23
 
-(date: 2024-06-07 08:27:12)
+(date: 2024-06-07 11:29:02)
+
+---
+
+## Gardena Student Elected To LAUSD Board. Here's What She Wants To Do
+
+date: 2024-06-07, updated: 2024-06-07, from: The LAist
+
+Anely Cortez Lopez will start her term as student board member in July: “I'm going to … show students that their voices are meant to be heard and not overshadowed by the noise.” 
+
+<https://laist.com/news/education/lausd-los-angeles-unified-student-board-member-2024-2025>
 
 ---
 

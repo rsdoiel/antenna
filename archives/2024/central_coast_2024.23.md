@@ -1,11 +1,110 @@
 ---
 title: central coast 2024.23
-updated: 2024-06-07 08:27:13
+updated: 2024-06-07 11:29:04
 ---
 
 # central coast 2024.23
 
-(date: 2024-06-07 08:27:13)
+(date: 2024-06-07 11:29:04)
+
+---
+
+## UCSB Student Government Passes Divestment Bill; Encampment Plans to Stay Into Summer
+
+date: 2024-06-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-divestment-resolution-ucsb2-RC.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="UC Santa Barbara&#039;s Associated Student Senate passed a resolution supporting students demands for UC-wide divestment from weapons manufacturing. Some students plan to continue the encampment into summer, after the school year ends next week." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-divestment-resolution-ucsb2-RC.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-divestment-resolution-ucsb2-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-divestment-resolution-ucsb2-RC.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-divestment-resolution-ucsb2-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-divestment-resolution-ucsb2-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-divestment-resolution-ucsb2-RC.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-divestment-resolution-ucsb2-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-divestment-resolution-ucsb2-RC.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-divestment-resolution-ucsb2-RC.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-divestment-resolution-ucsb2-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-divestment-resolution-ucsb2-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060424-divestment-resolution-ucsb2-RC.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Associated Student Senate at UC Santa Barbara recently passed a passed a divestment bill to stop some student fees going to companies supporting Israel. The bill means that Associated [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsb-student-government-passes-divestment-bill-encampment-plans-to-stay-into-summer/">UCSB Student Government Passes Divestment Bill; Encampment Plans to Stay Into Summer</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsb-student-government-passes-divestment-bill-encampment-plans-to-stay-into-summer/>
+
+---
+
+## Gerald Carpenter: Music Club’s Scholarship Recipients Show Their Stuff
+
+date: 2024-06-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>June brings many delights to the world. It is the beginning of summer, and the end of the regular school year. It is the most popular month for marriages. From [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/gerald-carpenter-music-clubs-scholarship-recipients-show-their-stuff/">Gerald Carpenter: Music Club&#8217;s Scholarship Recipients Show Their Stuff</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/gerald-carpenter-music-clubs-scholarship-recipients-show-their-stuff/>
+
+---
+
+## Sidewalk Replacement Underway in Lompoc Due to Tree Root Damage
+
+date: 2024-06-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Construction began in Lompoc this week on a project to replace sidewalks and other concrete infrastructure damaged by tree roots on the east side of H Street between College Avenue [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/sidewalk-replacement-underway-in-lompoc-due-to-tree-root-damage/">Sidewalk Replacement Underway in Lompoc Due to Tree Root Damage</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sidewalk-replacement-underway-in-lompoc-due-to-tree-root-damage/>
+
+---
+
+## Concerts in the Park Series Returns to Chase Palm Park, June 27-Aug. 8
+
+date: 2024-06-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara Parks and Recreation Department has announced the return of the free annual Concerts in the Park series at to the Great Meadow at Chase Palm Park, along [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/concerts-in-the-park-series-returns-to-chase-palm-park-june-27-aug-8/">Concerts in the Park Series Returns to Chase Palm Park, June 27-Aug. 8</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/concerts-in-the-park-series-returns-to-chase-palm-park-june-27-aug-8/>
+
+---
+
+## San Marcos Students Pitch Business Plans at Model Trade Show
+
+date: 2024-06-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Students in the San Marcos Entrepreneurship Academy (SMEA) presented their innovative business plans in a trade show format recently at SMEA&#8217;s annual Business Plan Showcase. This showcase is a culmination [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/san-marcos-students-pitch-business-plans-at-model-trade-show/">San Marcos Students Pitch Business Plans at Model Trade Show</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/san-marcos-students-pitch-business-plans-at-model-trade-show/>
+
+---
+
+## Chamber Celebrates Leadership Lompoc Valley Class of 2024
+
+date: 2024-06-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="737" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-LLVClass2024-2000.gif?fit=1024%2C737&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Members of the Leadership Lompoc Valley Class of 2024 join for a group photo in front of a logo banner flanked by green and white balloons. (Courtesy photo)" decoding="async" loading="lazy" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Lompoc Valley Chamber of Commerce has announced the graduation of the Leadership Lompoc Valley Class of 2024 and the honoring of Tim Harrington with the annual Dick DeWees Leadership [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/chamber-celebrates-leadership-lompoc-valley-class-of-2024/">Chamber Celebrates Leadership Lompoc Valley Class of 2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/chamber-celebrates-leadership-lompoc-valley-class-of-2024/>
+
+---
+
+## Chantel Green Named Solvang Theaterfest Executive Director
+
+date: 2024-06-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Solvang Theaterfest has appointed Chantel Green as its new executive director, effective in June. Ashley Esdaile will step into the role of assistant director. Green has been with Solvang Theaterfest [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/chantel-green-named-solvang-theaterfest-executive-director/">Chantel Green Named Solvang Theaterfest Executive Director</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/chantel-green-named-solvang-theaterfest-executive-director/>
+
+---
+
+## Bill Macfadyen: Montecito’s Hot Springs at Center of Cold War Over Trail
+
+date: 2024-06-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-060324-Montecito-Hot-Springs-Courtesy-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Who doesn’t love a public hot tub?" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-060324-Montecito-Hot-Springs-Courtesy-2000.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-060324-Montecito-Hot-Springs-Courtesy-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-060324-Montecito-Hot-Springs-Courtesy-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-060324-Montecito-Hot-Springs-Courtesy-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-060324-Montecito-Hot-Springs-Courtesy-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-060324-Montecito-Hot-Springs-Courtesy-2000.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-060324-Montecito-Hot-Springs-Courtesy-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-060324-Montecito-Hot-Springs-Courtesy-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-060324-Montecito-Hot-Springs-Courtesy-2000.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-060324-Montecito-Hot-Springs-Courtesy-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-060324-Montecito-Hot-Springs-Courtesy-2000.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-060324-Montecito-Hot-Springs-Courtesy-2000.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-060324-Montecito-Hot-Springs-Courtesy-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>In addition to our daily run of local news, Noozhawk publishes and maintains several special interest sections throughout the year. Under the direction of sales manager Sheridan Taphorn and her [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bill-macfadyen-montecitos-hot-springs-at-center-of-cold-war-over-trail/">Bill Macfadyen: Montecito’s Hot Springs at Center of Cold War Over Trail</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bill-macfadyen-montecitos-hot-springs-at-center-of-cold-war-over-trail/>
 
 ---
 
@@ -13,7 +112,7 @@ updated: 2024-06-07 08:27:13
 
 date: 2024-06-07, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Iceberg in Curtiss Bay, Antarctica." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Iceberg in Curtiss Bay, Antarctica." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The post <a href="https://www.noozhawk.com/antarctica-iceberg/">Antarctica Iceberg</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 

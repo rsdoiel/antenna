@@ -1,11 +1,31 @@
 ---
 title: motorcycles 2024.23
-updated: 2024-06-07 08:27:13
+updated: 2024-06-07 11:29:05
 ---
 
 # motorcycles 2024.23
 
-(date: 2024-06-07 08:27:13)
+(date: 2024-06-07 11:29:05)
+
+---
+
+## Rev’It Xena 4 Ladies One-Piece Motorcycle Suit Review
+
+date: 2024-06-07, from: Cycle World News
+
+Rev’It has a new track suit for the female form: the Xena 4 Ladies one-piece. With top-shelf materials and construction, are there any misses? We find out. 
+
+<https://www.cycleworld.com/motorcycle-gear-and-products/rev-it-xena-4-ladies-one-piece-motorcycle-suit-review/>
+
+---
+
+## Remember When YouTuber Alex Choi Nearly Killed a Motorcyclist?
+
+date: 2024-06-07, from: Ride Apart, Electric Motorcycle News
+
+Dude's been doing stupid shit for years.  
+
+<https://www.rideapart.com/news/722544/alex-choi-youtube-motorcycle-helicopter-stunt-charged/>
 
 ---
 

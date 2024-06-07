@@ -1,11 +1,111 @@
 ---
 title: games 2024.23
-updated: 2024-06-07 08:27:13
+updated: 2024-06-07 11:29:05
 ---
 
 # games 2024.23
 
-(date: 2024-06-07 08:27:13)
+(date: 2024-06-07 11:29:05)
+
+---
+
+## Dectus Medallion left and right locations in Elden Ring
+
+date: 2024-06-07, updated: 2024-06-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-guide-walkthrough/24173497/dectus-medallion-left-right-locations-how-to-use-join>
+
+---
+
+## How to complete Irina’s questline in Elden Ring
+
+date: 2024-06-07, updated: 2024-06-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-guide-walkthrough/24173495/irina-questline-steps-letter-dead-father>
+
+---
+
+## How to beat Leonine Misbegotten in Elden Ring
+
+date: 2024-06-07, updated: 2024-06-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-guide-walkthrough/24173489/leonine-misbegotten-location-weakness-how-to-beat>
+
+---
+
+## How to watch Summer Game Fest 2024 — and what to expect
+
+date: 2024-06-07, updated: 2024-06-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24172340/summer-game-fest-2024-sgf-time-date-how-where-to-watch>
+
+---
+
+## Dare to impress your dad this Father’s Day with these awesome gifts
+
+date: 2024-06-07, updated: 2024-06-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24161974/best-fathers-day-gift-guide-ideas>
+
+---
+
+## The newest Humble Bundle is full of hits from Warhammer’s Black Library
+
+date: 2024-06-07, updated: 2024-06-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24173734/black-library-humble-bundle-warhammer-40k-horus-heresy-age-sigmar>
+
+---
+
+## The best Blu-rays of 2024
+
+date: 2024-06-07, updated: 2024-06-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24100988/best-blu-rays-2024-4k-uhd>
+
+---
+
+## 2024 has incredible games — you just need to know where to look
+
+date: 2024-06-07, updated: 2024-06-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24173629/12-new-indie-games-play-right-now>
+
+---
+
+## Pokémon Go ‘Slumbering Sands’ event guide
+
+date: 2024-06-07, updated: 2024-06-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/2024/6/7/24173677/slumbering-sands-timed-research-shiny-komala-slakoth-visor>
+
+---
+
+## How to get the Khvostov Exotic and all Lost Encryption locations in Destiny 2
+
+date: 2024-06-07, updated: 2024-06-07, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24172527/khvostov-how-to-get-exotic-legendary-lost-encryption-locations>
 
 ---
 
@@ -119,16 +219,6 @@ date: 2024-06-06, updated: 2024-06-06, from: Polygon Website
 
 ---
 
-## How to get the Legendary Khvostov and all Lost Encryption locations in Destiny 2
-
-date: 2024-06-06, updated: 2024-06-06, from: Polygon Website
-
- 
-
-<https://www.polygon.com/destiny-2-guide-walkthrough/24172527/khvostov-how-to-get-exotic-legendary-lost-encryption-locations>
-
----
-
 ## All the new D&D core rulebook cover art, together in one place for the first time
 
 date: 2024-06-06, updated: 2024-06-06, from: Polygon Website
@@ -216,16 +306,6 @@ date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
  
 
 <https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24172146/dungeon-list-unlock-quests-optional>
-
----
-
-## Dare to impress your dad this Father’s Day with these awesome gifts
-
-date: 2024-06-05, updated: 2024-06-05, from: Polygon Website
-
- 
-
-<https://www.polygon.com/24161974/best-fathers-day-gift-guide-ideas>
 
 ---
 

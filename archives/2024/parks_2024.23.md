@@ -1,11 +1,11 @@
 ---
 title: parks 2024.23
-updated: 2024-06-07 08:27:13
+updated: 2024-06-07 11:29:05
 ---
 
 # parks 2024.23
 
-(date: 2024-06-07 08:27:13)
+(date: 2024-06-07 11:29:05)
 
 ---
 
@@ -206,6 +206,16 @@ date: 2024-06-05, from: California State Parks blog
 California’s newest state park is located at the confluence of the Tuolumne and San Joaquin Rivers in Stanislaus County World Environment Day reminds us of the importance of protecting our shared environment. In California, the opening of a new state park shows California’s commitment to this. Opening on June 12, Dos Rios is the largest [&#8230;] 
 
 <https://castateparks.wordpress.com/2024/06/05/californias-newest-state-park-dos-rios-will-be-a-welcomed-addition-by-residents-and-visitors-to-the-san-joaquin-valley/>
+
+---
+
+## Summer Safety: Avoid Hiking During Excessive Heat Warnings
+
+date: 2024-06-05, from: Press Releases
+
+The National Weather Service has issued an excessive heat warning for parts of Grand Canyon National Park. The warning is in effect from 8 a.m. Thursday, June 6 to 8 p.m. Friday, June 7 for areas below 4,000 feet in the canyon including Phantom Ranch and Havasupai Gardens. Forecast temperatures in the shade range between 105 F/41 C and 111 F/44 C. Hotter than normal temperatures will also hit the rims, with highs of 92 F/33 C on the South Rim and 85 F/30 C on the North Rim. The National Park Service recommends not hiking below the rim during the excessive heat warning. https://www.nps.gov/grca/learn/news/summer-safety-hike-smart-2024.htm 
+
+<https://www.nps.gov/grca/learn/news/summer-safety-hike-smart-2024.htm>
 
 ---
 
