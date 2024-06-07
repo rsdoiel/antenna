@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.23
-updated: 2024-06-06 09:04:47
+updated: 2024-06-07 08:27:13
 ---
 
 # retro computing 2024.23
 
-(date: 2024-06-06 09:04:47)
+(date: 2024-06-07 08:27:13)
+
+---
+
+## b.log 2024/06/06 - A big arse pull, Speaking of trust, Speaking of arse pulls, What did the Tories ever do for us?
+
+date: 2024-06-06, from: Richard Murray's blog
+
+A big arse pull, Speaking of trust, Speaking of arse pulls, What did the Tories ever do for us? 
+
+<https://heyrick.eu/blog/index.php?diary=20240606>
 
 ---
 

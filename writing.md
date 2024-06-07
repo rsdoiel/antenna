@@ -1,11 +1,67 @@
 ---
 title: writing 2024.23
-updated: 2024-06-06 09:04:46
+updated: 2024-06-07 08:27:13
 ---
 
 # writing 2024.23
 
-(date: 2024-06-06 09:04:46)
+(date: 2024-06-07 08:27:13)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-07, from: Neil Gaiman @ BlueSky)
+
+Thank you!
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kudj35yzu525>
+
+---
+
+## More workshops on June 21st
+
+date: 2024-06-07, updated: 2024-06-07, from: NarraScope, Celebrating Narrative Games
+
+<p>Late addition of two workshops for June 21st:</p>
+<p><strong>Learn the Basics of Writing Branching Narratives with Yarn Spinner</strong> – Paris Buttfield-Addison</p>
+<p>This workshop will teach attendees how to use the free, open-source interactive narrative and game development tool, Yarn Spinner. In 90 minutes, you’ll learn how to write stories in …</p> 
+
+<https://narrascope.org/2024/06/more-workshops-2024.html>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-07, from: Neil Gaiman @ BlueSky)
+
+I'm glad Frank got away. It was a bit scary.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kucmhk76vq2t>
+
+---
+
+## Paula Guran Reviews Nightmare, The Deadlands, and The Dark
+
+date: 2024-06-06, from: Locus Magazine
+
+<p>Nightmare 2/24, 3/24, 4/24
+The Deadlands Winter ’24
+The Dark 1/24, 2/24, 3/24</p>
+<p>Of the three originals in Nightmare #137, a flash piece satisfied me the most. <strong>Jessica Luke García </strong>notes in her introduction to “<strong>First Girl</strong>” that we “live in a Final Girl world” then proceeds to give the girl who dies first in any slasher movie her telling and sometimes risible due.</p>
+<p>Two of the new  <a href="https://locusmag.com/2024/06/paula-guran-reviews-nightmare-the-deadlands-and-the-dark/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/paula-guran-reviews-nightmare-the-deadlands-and-the-dark/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-06, from: Neil Gaiman @ BlueSky)
+
+Absolutely.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kubnuayqma26>
 
 ---
 

@@ -1,11 +1,111 @@
 ---
 title: health 2024.23
-updated: 2024-06-06 09:04:47
+updated: 2024-06-07 08:27:13
 ---
 
 # health 2024.23
 
-(date: 2024-06-06 09:04:47)
+(date: 2024-06-07 08:27:13)
+
+---
+
+## Metagenomic next-generation sequencing could play a pivotal role in validating the diagnosis of invasive mold disease of the central nervous system
+
+date: 2024-06-07, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundInvasive mold diseases of the central nervous (CNS IMD) system are exceedingly rare disorders, characterized by nonspecific clinical symptoms. This results in significant diagnostic challenges, often leading to delayed diagnosis and the risk of misdiagnosis for patients. Metagenomic Next-Generation Sequencing (mNGS) holds significant importance for the diagnosis of infectious diseases, especially in the rapid and accurate identification of rare and difficult-to-culture pathogens. Therefore, this study aims to explore the clinical characteristics of invasive mold disease of CNS IMD in children and assess the effectiveness of mNGS technology in diagnosing CNS IMD.MethodsThree pediatric patients diagnosed with Invasive mold disease brain abscess and treated in the Pediatric Intensive Care Unit (PICU) of the First Affiliated Hospital of Zhengzhou University from January 2020 to December 2023 were selected for this study.ResultsCase 1, a 6-year-old girl, was admitted to the hospital with “acute liver failure.” During her hospital stay, she developed fever, irritability, and seizures. CSF mNGS testing resulted in a negative outcome. Multiple brain abscesses were drained, and Aspergillus fumigatus was detected in pus culture and mNGS. The condition gradually improved after treatment with voriconazole combined with caspofungin. Case 2, a 3-year-old girl, was admitted with “acute B-lymphoblastic leukemia.” During induction chemotherapy, she developed fever and seizures. Aspergillus fumigatus was detected in the intracranial abscess fluid by mNGS, and the condition gradually improved after treatment with voriconazole combined with caspofungin, followed by “right-sided brain abscess drainage surgery.” Case 3, a 7-year-old girl, showed lethargy, fever, and right-sided limb weakness during the pending chemotherapy period for acute B-lymphoblastic leukemia. Rhizomucor miehei and Rhizomucor pusillus was detected in the cerebrospinal fluid by mNGS. The condition gradually improved after treatment with amphotericin B combined with posaconazole. After a six-month follow-up post-discharge, the three patients improved without residual neurological sequelae, and the primary diseases were in complete remission.ConclusionThe clinical manifestations of CNS IMD lack specificity. Early mNGS can assist in identifying the pathogen, providing a basis for definitive diagnosis. Combined surgical treatment when necessary can help improve prognosis. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1393242>
+
+---
+
+## Editorial: Research implications on microbial virulence factors, resistance, and new therapeutic strategies in the context of future infectious disease therapies
+
+date: 2024-06-07, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1406119>
+
+---
+
+## The urinary microbiota composition and functionality of calcium oxalate stone formers
+
+date: 2024-06-07, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundAccumulated evidences indicate that dysbiosis of the urinary microbiota is associated with kidney stone formation. In the present study, we aimed to investigate the urinary microbiota composition and functionality of patients with calcium oxalate stones and compare it with those of healthy individuals.MethodWe collected bladder urine samples from 68 adult patients with calcium oxalate stones and 54 age-matched healthy controls by transurethral catheterization. 16S rRNA gene and shotgun sequencing were utilized to characterize the urinary microbiota and functionality associated with calcium oxalate stones.ResultsAfter further exclusion, a total of 100 subjects was finally included and analyzed. The diversity of the urinary microbiota in calcium oxalate stone patients was not significantly different from that of healthy controls. However, the urinary microbiota structure of calcium oxalate stone formers significantly differed from that of healthy controls (PERMANOVA, r = 0.026, P = 0.019). Differential representation of bacteria (e.g., Bifidobacterium) and several enriched functional pathways (e.g., threonine biosynthesis) were identified in the urine of calcium oxalate stone patients.ConclusionOur results showed significantly different urinary microbiota structure and several enriched functional pathways in calcium oxalate stone patients, which provide new insight into the pathogenesis of calcium oxalate stones. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1394955>
+
+---
+
+## MpoxNet: dual-branch deep residual squeeze and excitation monkeypox classification network with attention mechanism
+
+date: 2024-06-07, from: Frontiers in Cellular and Infection Microbiology
+
+While the world struggles to recover from the devastation wrought by the widespread spread of COVID-19, monkeypox virus has emerged as a new global pandemic threat. In this paper, a high precision and lightweight classification network MpoxNet based on ConvNext is proposed to meet the need of fast and safe detection of monkeypox classification. In this method, a two-branch depth-separable convolution residual Squeeze and Excitation module is designed. This design aims to extract more feature information with two branches, and greatly reduces the number of parameters in the model by using depth-separable convolution. In addition, our method introduces a convolutional attention module to enhance the extraction of key features within the receptive field. The experimental results show that MpoxNet has achieved remarkable results in monkeypox disease classification, the accuracy rate is 95.28%, the precision rate is 96.40%, the recall rate is 93.00%, and the F1-Score is 95.80%. This is significantly better than the current mainstream classification model. It is worth noting that the FLOPS and the number of parameters of MpoxNet are only 30.68% and 31.87% of those of ConvNext-Tiny, indicating that the model has a small computational burden and model complexity while efficient performance. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1397316>
+
+---
+
+## Pathogenic spectrum and drug resistance of bloodstream infection in patients with acute myeloid leukaemia: a single centre retrospective study
+
+date: 2024-06-07, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundBloodstream infection (BSI) represent a prevalent complication in haematological malignancies (HMs). Typically, Patients with BSI usually undergo empirical treatment pending pathogen identification. The timely and effective management of BSIs significantly influences patient prognosis. However, pathogen distribution in BSIs exhibits regional variation. In this study, we investigated the clinical characteristics, pathogen spectrum, drug resistance, risk factors of short-term prognosis and long-term prognostic factors of acute myeloid leukemia (AML) patients with BSI at Zhejiang Provincal People’s Hospital.MethodsFrom 2019 to 2021, a total of 56 AML patients with BSI were treated in the Department of Haematology at Zhejiang Province People’s Hospital. Data regarding pathogen spectrum and drug resistance were collected for analysis. The patients were stratified into non-survivor cohort and survivor cohort within 30 days after BSI, and the predictors of 30-days mortality were identified through both univariate and multivariate Logistic regression analyses. Furthermore, Kaplan-Meier survival analysis and Cox regression analysis were employed to ascertain the risk factors associated with poor prognosis in AML patients complicated by BSI.ResultsA total of 70 strains of pathogenic bacteria were isolated from 56 AML patients with BSI. Gram-negative bacteria constituted the predominant pathogens (71.4%), with Klebsiella pneumoniae being the most prevalent (22.9%). Gram-positive bacteria and fungi accounted for 22.9% and 5.7%, respectively. Univariate and multivariate analyses revealed significant differences in total protein, albumin levels, and the presence of septic shock between the non-survivor cohort and the survior cohort 30 days post-BSI. COX regression analysis showed that agranulocytosis duration exceeding 20 days (HR:3.854; 95% CI: 1.451–10.242) and septic shock (HR:3.788; 95% CI: 1.729–8.299) were independent risk factors for poor prognosis in AML patients complicated by BSI. Notably, the mortality rate within 30 days after Stenotrophomonas maltophilia infection was up to 71.4%.ConclusionsIn this study, Gram-negative bacteria, predominantly Klebsiella pneumoniae, constituted the primary pathogens among AML patients with BSIs. Serum albumin levels and the presence of septic shock emerged as independent risk factors for mortality within 30 days among AML patients with BSI. In terms of long-term prognosis, extended agranulocytosis duration exceeding 20 days and septic shock were associated with elevated mortality rates in AML patients with BSI. Additionally, in our centre, Stenotrophomonas maltophilia infection was found to be associated with a poor prognosis. Early intervention for Stenotrophomonas maltophilia infection in our centre could potentially improve patient outcomes. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1390053>
+
+---
+
+## Utilization of the Shensheng-Piwen changed medicinal powder extracts combines metal-organic frameworks as an antibacterial agent
+
+date: 2024-06-07, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionWidespread opportunistic pathogens pose a serious threat to global health, particularly in susceptible hospital populations. The escalating crisis of antibiotic resistance highlights the urgent need for novel antibacterial agents and alternative treatment approaches. Traditional Chinese Medicine (TCM) and its compounds have deep roots in the treatment of infectious diseases. It has a variety of active ingredients and multi-target properties, opening up new avenues for the discovery and development of antimicrobial drugs.MethodsThis study focuses on assessing the efficacy of the Shensheng-Piwen changed medicinal powder (SPC) extracts against opportunistic pathogen infections by broth microdilution and agar disc diffusion methods. Additionally, biofilm inhibition and eradication assays were performed to evaluate the antibiofilm effects of SPC extracts.ResultsMetabolite profiles were analyzed by LC-MS. Furthermore, the potential synergistic effect between SPC and Metal-Organic Framework (MOF) was investigated by bacterial growth curve analysis. The results indicated that the SPC extracts exhibited antibacterial activity against S. aureus, with a minimum inhibitory concentration (MIC) of 7.8 mg/mL (crude drug concentration). Notably, at 1/2 MIC, the SPC extracts significantly inhibited biofilm formation, with over 80% inhibition, which was critical in tackling chronic and hospital-acquired infections. Metabolomic analysis of S. aureus revealed that SPC extracts induced a notable reduction in the levels of various metabolites, including L-proline, L-asparagine. This suggested that the SPC extracts could interfere with the metabolism of S. aureus. Meanwhile, the growth curve experiment proved that SPC extracts and MOFs had a synergistic antibacterial effect.DiscussionIn conclusion, the present study highlights the potential of SPC extracts as a novel antibacterial agent against S. aureus infections, with promising biofilm inhibition properties. The observed synergistic effect between SPC extracts and MOFs further supports the exploration of this combination as an alternative treatment approach. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1376312>
+
+---
+
+## Anti-chlamydial activity of vaginal fluids: new evidence from an in vitro model
+
+date: 2024-06-07, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionWe assessed the in vitro anti-chlamydial activity of fresh vaginal secretions, deciphering the microbial and metabolic components able to counteract Chlamydia trachomatis viability.MethodsForty vaginal samples were collected from a group of reproductive-aged women and their anti-chlamydial activity was evaluated by inhibition experiments. Each sample underwent 16S rRNA metabarcoding sequencing to determine the bacterial composition, as well as 1H-NMR spectroscopy to detect and quantify the presence of vaginal metabolites.ResultsSamples characterized by a high anti-chlamydial activity were enriched in Lactobacillus, especially Lactobacillus crispatus and Lactobacillus iners, while not-active samples exhibited a significant reduction of lactobacilli, along with higher relative abundances of Streptococcus and Olegusella. Lactobacillus gasseri showed an opposite behavior compared to L. crispatus, being more prevalent in not-active vaginal samples. Higher concentrations of several amino acids (i.e., isoleucine, leucine, and aspartate; positively correlated to the abundance of L. crispatus and L. jensenii) lactate, and 4-aminobutyrate were the most significant metabolic fingerprints of highly active samples. Acetate and formate concentrations, on the other hand, were related to the abundances of a group of anaerobic opportunistic bacteria (including Prevotella, Dialister, Olegusella, Peptostreptococcus, Peptoniphilus, Finegoldia and Anaerococcus). Finally, glucose, correlated to Streptococcus, Lachnospira and Alloscardovia genera, emerged as a key molecule of the vaginal environment: indeed, the anti-chlamydial effect of vaginal fluids decreased as glucose concentrations increased.DiscussionThese findings could pave the way for novel strategies in the prevention and treatment of chlamydial urogenital infections, such as lactobacilli probiotic formulations or lactobacilli-derived postbiotics. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1403782>
+
+---
+
+## Characteristics of the gut microbiota and serum metabolites in postmenopausal women with reduced bone mineral density
+
+date: 2024-06-07, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionEmerging evidence suggests that the gut microbiota is closely associated with bone homeostasis. However, little is known about the relationships among the bone mineral density (BMD) index, bone turnover markers, and the gut microbiota and its metabolites in postmenopausal women.MethodsIn this study, to understand gut microbiota signatures and serum metabolite changes in postmenopausal women with reduced BMD, postmenopausal individuals with normal or reduced BMD were recruited and divided into normal and OS groups. Feces and serum samples were collected for 16S rRNA gene sequencing, liquid chromatography coupled with mass spectrometry (LC-MS)-based metabolomics and integrated analysis.ResultsThe results demonstrated that bacterial richness and diversity were greater in the OS group than in the normal group. Additionally, distinguishing bacteria were found among the two groups and were closely associated with the BMD index and bone turnover markers. Metabolomic analysis revealed that the expression of serum metabolites, such as etiocholanolone, testosterone sulfate, and indole-3-pyruvic acid, and the corresponding signaling pathways, especially those involved in tryptophan metabolism, fatty acid degradation and steroid hormone biosynthesis, also changed significantly. Correlation analysis revealed positive associations between normal group-enriched Bacteroides abundance and normal group-enriched etiocholanolone and testosterone sulfate abundances; in particular, Bacteroides correlated positively with BMD. Importantly, the tryptophan-indole metabolism pathway was uniquely metabolized by the gut bacteria-derived tnaA gene, the predicted abundance of which was significantly greater in the normal group than in the control group, and the abundance of Bacteroides was strongly correlated with the tnaA gene.DiscussionOur results indicated a clear difference in the gut microbiota and serum metabolites of postmenopausal women. Specifically altered bacteria and derived metabolites were closely associated with the BMD index and bone turnover markers, indicating the potential of the gut microbiota and serum metabolites as modifiable factors and therapeutic targets for preventing osteoporosis. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1367325>
+
+---
+
+## Early immune response to Toxoplasma gondii lineage III isolates of different virulence phenotype
+
+date: 2024-06-07, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionToxoplasma gondii is an intracellular parasite of importance to human and veterinary health. The structure and diversity of the genotype population of T. gondii varies considerably with respect to geography, but three lineages, type I, II and III, are distributed globally. Lineage III genotypes are the least well characterized in terms of biology, host immunity and virulence. Once a host is infected with T.gondii, innate immune mechanisms are engaged to reduce the parasite burden in tissues and create a pro-inflammatory environment in which the TH1 response develops to ensure survival. This study investigated the early cellular immune response of Swiss-Webster mice post intraperitoneal infection with 10 tachyzoites of four distinct non-clonal genotypes of lineage III and a local isolate of ToxoDB#1. The virulence phenotype, cumulative mortality (CM) and allele profiles of ROP5, ROP16, ROP18 and GRA15 were published previously.MethodsParasite dissemination in different tissues was analyzed by real-time PCR and relative expression levels of IFNγ, IL12-p40, IL-10 and TBX21 in the cervical lymph nodes (CLN), brain and spleen were calculated using the ΔΔCt method. Stage conversion was determined by detection of the BAG1 transcript in the brain.ResultsTissue dissemination depends on the virulence phenotype but not CM, while the TBX21 and cytokine levels and kinetics correlate better with CM than virulence phenotype. The earliest detection of BAG1 was seven days post infection. Only infection with the genotype of high CM (69.4%) was associated with high T-bet levels in the CLN 24 h and high systemic IFNγ expression which was sustained over the first week, while infection with genotypes of lower CM (38.8%, 10.7% and 6.8%) is characterized by down-regulation and/or low systemic levels of IFNγ. The response intensity, as assessed by cytokine levels, to the genotype of high CM wanes over time, while it increases gradually to genotypes of lower CM.DiscussionThe results point to the conclusion that the immune response is not correlated with the virulence phenotype and/or allele profile, but an early onset, intense pro-inflammatory response is characteristic of genotypes with high CM. Additionally, high IFNγ level in the brain may hamper stage conversion. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1414067>
+
+---
+
+## Temperatures above 37°C increase virulence of a convergent Klebsiella pneumoniae sequence type 307 strain
+
+date: 2024-06-07, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundConvergence of Klebsiella pneumoniae (KP) pathotypes has been increasingly reported in recent years. These pathogens combine features of both multidrug-resistant and hypervirulent KP. However, clinically used indicators for hypervirulent KP identification, such as hypermucoviscosity, appear to be differentially expressed in convergent KP, potential outbreak clones are difficult to identify. We aimed to fill such knowledge gaps by investigating the temperature dependence of hypermucoviscosity and virulence in a convergent KP strain isolated during a clonal outbreak and belonging to the high-risk sequence type (ST)307.MethodsHypermucoviscosity, biofilm formation, and mortality rates in Galleria mellonella larvae were examined at different temperatures (room temperature, 28°C, 37°C, 40°C and 42°C) and with various phenotypic experiments including electron microscopy. The underlying mechanisms of the phenotypic changes were explored via qPCR analysis to evaluate plasmid copy numbers, and transcriptomics.ResultsOur results show a temperature-dependent switch above 37°C towards a hypermucoviscous phenotype, consistent with increased biofilm formation and in vivo mortality, possibly reflecting a bacterial response to fever-like conditions. Furthermore, we observed an increase in plasmid copy number for a hybrid plasmid harboring carbapenemase and rmpA genes. However, transcriptomic analysis revealed no changes in rmpA expression at higher temperatures, suggesting alternative regulatory pathways.ConclusionThis study not only elucidates the impact of elevated temperatures on hypermucoviscosity and virulence in convergent KP but also sheds light on previously unrecognized aspects of its adaptive behavior, underscoring its resilience to changing environments. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1411286>
 
 ---
 

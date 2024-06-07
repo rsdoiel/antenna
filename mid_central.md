@@ -1,11 +1,123 @@
 ---
 title: mid central 2024.23
-updated: 2024-06-06 09:04:46
+updated: 2024-06-07 08:27:13
 ---
 
 # mid central 2024.23
 
-(date: 2024-06-06 09:04:46)
+(date: 2024-06-07 08:27:13)
+
+---
+
+## ARRL Member Bulletin for June 6, 2024
+
+date: 2024-06-07, from: Amateur Radio Relay League News
+
+<p><strong>MEMBER BULLETIN</strong></p><p>June 6, 2024   </p><p>Dear ARRL member,   </p><p>We are writing to inform you of a serious incident that has impacted ARRL’s operations. On or around May 12, 2024, ARRL was the victim of a sophisticated network attack by a malicious international cyber group. We immediately involved the FBI and engaged with third party experts to investigate.   </p><p>On May 16, on the eve of the ARRL National Conven...</p> 
+
+<http://www.arrl.org/news/view/arrl-member-bulletin-for-june-6-2024>
+
+---
+
+## Why binary analysis is the cornerstone of robust IoT testing
+
+date: 2024-06-07, from: EDN Blog
+
+<img width="728" height="446" src="https://www.edn.com/wp-content/uploads/Hero-iamge-Finite-State.jpg?fit=728%2C446" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-iamge-Finite-State.jpg?w=728 728w, https://www.edn.com/wp-content/uploads/Hero-iamge-Finite-State.jpg?w=300 300w" sizes="(max-width: 728px) 100vw, 728px" /><p>Binary analysis ensures that connected products are as secure as possible from today's cyber threats and IP theft.</p>
+<p>The post <a href="https://www.edn.com/why-binary-analysis-is-the-cornerstone-of-robust-iot-testing/" data-wpel-link="internal">Why binary analysis is the cornerstone of robust IoT testing</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/why-binary-analysis-is-the-cornerstone-of-robust-iot-testing/>
+
+---
+
+## Multistandard video switch handles 13.5 Gbps
+
+date: 2024-06-07, from: EDN Blog
+
+<img width="700" height="456" src="https://www.edn.com/wp-content/uploads/Diodes-41310-switch.jpg?fit=700%2C456" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Diodes-41310-switch.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Diodes-41310-switch.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>A four-lane video switch from Diodes supports DisplayPort 2.1 transmission rates at up to 13.5 Gbps and HDMI 2.1 at up to 12 Gbps.</p>
+<p>The post <a href="https://www.edn.com/multistandard-video-switch-handles-13-5-gbps/" data-wpel-link="internal">Multistandard video switch handles 13.5 Gbps</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/multistandard-video-switch-handles-13-5-gbps/>
+
+---
+
+## Multiphase controller meets Intel IMVP 9.2
+
+date: 2024-06-07, from: EDN Blog
+
+<img width="800" height="472" src="https://www.edn.com/wp-content/uploads/Alpha-71137QI.jpg?fit=800%2C472" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Alpha-71137QI.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Alpha-71137QI.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Alpha-71137QI.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>AOS offers a 3-rail, 7-phase controller that complies with Intel Mobile Voltage Positioning (IMVP) 8, 9, 9.1, and 9.2 specifications.</p>
+<p>The post <a href="https://www.edn.com/multiphase-controller-meets-intel-imvp-9-2/" data-wpel-link="internal">Multiphase controller meets Intel IMVP 9.2</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/multiphase-controller-meets-intel-imvp-9-2/>
+
+---
+
+## GaN power packages improve thermal resistance
+
+date: 2024-06-07, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/CGD-ICeGaN-packages.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/CGD-ICeGaN-packages.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/CGD-ICeGaN-packages.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/CGD-ICeGaN-packages.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Fabless semiconductor firm CGD announced two packages for its ICeGaN family of GaN power ICs that enhance thermal performance.</p>
+<p>The post <a href="https://www.edn.com/gan-power-packages-improve-thermal-resistance/" data-wpel-link="internal">GaN power packages improve thermal resistance</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/gan-power-packages-improve-thermal-resistance/>
+
+---
+
+## GaN power amp delivers 16 W for mMIMO
+
+date: 2024-06-07, from: EDN Blog
+
+<img width="800" height="463" src="https://www.edn.com/wp-content/uploads/Mitsubishi-GaN-amp.jpg?fit=800%2C463" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Mitsubishi-GaN-amp.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Mitsubishi-GaN-amp.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Mitsubishi-GaN-amp.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Mitsubishi will be sampling a GaN power amplifier module (PAM) capable of supplying 16 W of average output power starting this month.</p>
+<p>The post <a href="https://www.edn.com/gan-power-amp-delivers-16-w-for-mmimo/" data-wpel-link="internal">GaN power amp delivers 16 W for mMIMO</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/gan-power-amp-delivers-16-w-for-mmimo/>
+
+---
+
+## Timing module migrates legacy equipment
+
+date: 2024-06-07, from: EDN Blog
+
+<img width="800" height="440" src="https://www.edn.com/wp-content/uploads/Microchip-TimeProvider-XT.jpg?fit=800%2C440" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Microchip-TimeProvider-XT.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Microchip-TimeProvider-XT.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Microchip-TimeProvider-XT.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p> Microchip’s TimeProvider XT migrates E1, T1, or CC synchronization outputs to a fully redundant TimeProvider 4100 grandmaster.</p>
+<p>The post <a href="https://www.edn.com/timing-module-migrates-legacy-equipment/" data-wpel-link="internal">Timing module migrates legacy equipment</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/timing-module-migrates-legacy-equipment/>
+
+---
+
+## ARRL Systems Service Disruption
+
+date: 2024-06-06, from: Amateur Radio Relay League News
+
+<p><strong>Updated 6/6/2024</strong></p><p><span>We are aware that certain members believe we should be openly communicating everything associated with this incident. We are working with industry experts, including cyber crime attorneys and the authorities, who have directed us to be conservative and cautious with our communications while restoring the ARRL network.</span></p><p><span>ARRL’s association membership system was not impacted by this ...</span></p> 
+
+<http://www.arrl.org/news/view/arrl-systems-service-disruption>
+
+---
+
+## ARRL Affiliated Club in MS Donates 3D Printer, Books, to Local Library
+
+date: 2024-06-06, from: Amateur Radio Relay League News
+
+<p>An ARRL  The National Association for Amateur Radio® Affiliated Club, The Jackson Amateur Radio Club (JARC), serving the metropolitan area of Jackson, Mississippi, recently donated two 3D printers with a retail value of $3,000 to the Library System in Madison County (MCLS).</p><p>“Thank you, Jackson Amateur Radio Club, for all you have done for our library system. We so appreciate you,” said MCLS Dire...</p> 
+
+<http://www.arrl.org/news/view/arrl-affiliated-club-in-ms-donates-3d-printer-books-to-local-library>
+
+---
+
+## 2024 ARRL Field Day 2 Weeks Away, Free Shipping on FD Merch
+
+date: 2024-06-06, from: Amateur Radio Relay League News
+
+<p>2024 ARRL Field Day is June 22 -23, just 2 weeks away! There is still time to get your official merchandise in time for the event. ARRL is even offering free US shipping on Field Day orders of $30 or more with code FD2024. Plus, if you use that code, you’ll get a bonus 2024 ARRL Field Day pin automatically included in your order. This offer ends Monday, June 10.</p><p>The theme for 2024 ARRL Field Day...</p> 
+
+<http://www.arrl.org/news/view/2024-arrl-field-day-2-weeks-away-free-shipping-on-fd-merch>
 
 ---
 
@@ -13,7 +125,7 @@ updated: 2024-06-06 09:04:46
 
 date: 2024-06-06, from: EDN Blog
 
-<img width="1280" height="720" src="https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?fit=1280%2C720" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?w=1280 1280w, https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?w=1260 1260w, https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?w=800 800w" sizes="(max-width: 1280px) 100vw, 1280px" /><p>A new synthesis tool enables software developers of AI models to perform silicon implementation using C++ code.</p>
+<img width="1280" height="720" src="https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?fit=1280%2C720" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?w=1280 1280w, https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?w=1260 1260w, https://www.edn.com/wp-content/uploads/Hero-image-catapult-ai-nn-siemens.jpg?w=800 800w" sizes="(max-width: 1280px) 100vw, 1280px" /><p>A new synthesis tool enables software developers of AI models to perform silicon implementation using C++ code.</p>
 <p>The post <a href="https://www.edn.com/synthesis-framework-simplifies-silicon-implementation-for-ai-models/" data-wpel-link="internal">Synthesis framework simplifies silicon implementation for AI models</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
@@ -54,16 +166,6 @@ date: 2024-06-05, from: EDN Blog
  
 
 <https://www.edn.com/elevating-embedded-systems-with-i3c/>
-
----
-
-## ARRL Systems Service Disruption
-
-date: 2024-06-04, from: Amateur Radio Relay League News
-
-<p><strong> Updated 6/4/2024</strong></p><p>On or around May 12, 2024, ARRL was the victim of a sophisticated network attack by a malicious international cyber group. ARRL immediately involved the FBI and engaged with third party experts to investigate.</p><p>This serious incident was extensive and categorized by the FBI as “unique,” compromising network devices, servers, cloud-based systems, and PCs.</p><p>ARRL management quickly est...</p> 
-
-<http://www.arrl.org/news/view/arrl-systems-service-disruption>
 
 ---
 

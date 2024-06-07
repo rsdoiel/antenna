@@ -1,11 +1,693 @@
 ---
 title: pacific 2024.23
-updated: 2024-06-06 09:04:46
+updated: 2024-06-07 08:27:13
 ---
 
 # pacific 2024.23
 
-(date: 2024-06-06 09:04:46)
+(date: 2024-06-07 08:27:13)
+
+---
+
+## In a stunner, Lakers set to pursue UConn’s Dan Hurley for head coaching position
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; The Lakers are planning to offer their head coaching position to UConn head coach Dan Hurley, according to people with knowledge of the team&#8217;s plans but not authorized to speak publicly.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/sports/in-a-stunner-lakers-set-to-pursue-uconns-dan-hurley-for-head-coaching-position/>
+
+---
+
+## Former UH standout rejoining basketball team as assistant coach
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>(SA) &#8212; A former standout forward is rejoining the University of Hawaii basketball team as a full-time assistant coach.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/sports/former-uh-standout-rejoining-basketball-team-as-assistant-coach/>
+
+---
+
+## U.S. junior golf: Broderson wins local qualifier
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA-KONA &#8212; Some of the top youth golfers from across the globe gathered Wednesday at Makani Golf Club for the 76th U.S. Junior Amateur and the 75th U.S. Girls&#8217; Junior Amateur qualifiers, but one local boy made headlines over the rest of the field.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/sports/u-s-junior-golf-broderson-wins-local-qualifier/>
+
+---
+
+## Seahawks add to quarterback depth, agree to terms with P.J. Walker
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>SEATTLE &#8212; With mandatory minicamp on tap next week, the Seahawks added a third quarterback to their roster &#8212; veteran free agent P.J. Walker.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/sports/seahawks-add-to-quarterback-depth-agree-to-terms-with-p-j-walker/>
+
+---
+
+## At D-Day commemoration, Biden pledges continued Ukraine support
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>OMAHA BEACH, France &#8212; U.S. President Joe Biden made an impassioned call for the defence of freedom and democracy at the 80th anniversary of the D-Day landings in Normandy on Thursday, urging Western powers to stay the course with Ukraine and not surrender to Russian tyranny.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/nation-world-news/at-d-day-commemoration-biden-pledges-continued-ukraine-support/>
+
+---
+
+## Kristaps Porzingis’ return sparks Celtics in Finals opener
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; Kristaps Porzingis returned from a 10-game absence to record 20 points off the bench and the Boston Celtics snuffed a second-half rally to beat the Dallas Mavericks 107-89 on Thursday night in Game 1 of the NBA Finals.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/sports/kristaps-porzingis-return-sparks-celtics-in-finals-opener/>
+
+---
+
+## Day of activities set for World Ocean Day
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>The public is invited to celebrate World Ocean Day with family-friendly activities and educational booths in Kalakaua Park this Saturday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/hawaii-news/day-of-activities-set-for-world-ocean-day/>
+
+---
+
+## Why the student encampments worked
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>In the past several months, I have visited two student encampments in Chicago and, in both cases, I sensed the power of people in a liberated zone. The evacuation of these encampments brought to mind consecutive attempts by the Egyptian military to evacuate Tahrir.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/opinion/why-the-student-encampments-worked/>
+
+---
+
+## Why you shouldn’t obsess about the national debt
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>The United States government is more than $34 trillion in debt. Did you know that our government owes $34 trillion? That&#8217;s $34 <em>trillion!</em></p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/opinion/their-views/why-you-shouldnt-obsess-about-the-national-debt/>
+
+---
+
+## The GOP push for post-verdict payback: ‘Fight fire with fire’
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>Republican allies of Donald Trump are calling for revenge prosecutions and other retaliatory measures against Democrats in response to his felony conviction in New York.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/nation-world-news/the-gop-push-for-post-verdict-payback-fight-fire-with-fire/>
+
+---
+
+## Big Isle man to get new trial in sex assault case
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>A Hawaii Supreme Court majority opinion filed Wednesday ordered a new trial for a Hawaii Island man, tried and convicted by a Kona Circuit Court jury for sexually assaulting in 2019 a visiting 78-year-old woman camping at a South Kohala beach park. He was 18 years old at the time of the attack.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/hawaii-news/big-isle-man-to-get-new-trial-in-sex-assault-case/>
+
+---
+
+## S clears way for antitrust inquiries of Nvidia, Microsoft and OpenAI
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Federal regulators have reached a deal that allows them to proceed with antitrust investigations into the dominant roles that Microsoft, OpenAI and Nvidia play in the artificial intelligence industry, in the strongest sign of how regulatory scrutiny into the powerful technology has escalated.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/nation-world-news/s-clears-way-for-antitrust-inquiries-of-nvidia-microsoft-and-openai/>
+
+---
+
+## Israeli strike on UN school kills dozens in Gaza
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/JERUSALEM &#8212; Israel hit a Gaza school on Thursday with what it described as a targeted airstrike on up to 30 Hamas and Islamic Jihad fighters inside, and a Hamas official said 40 people were killed including women and children sheltering at the U.N. site.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/nation-world-news/israeli-strike-on-un-school-kills-dozens-in-gaza/>
+
+---
+
+## Inside the base where Israel has detained thousands of Palestinians
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>SDE TEIMAN, Israel &#8212; The men sat in rows, handcuffed and blindfolded, unable to see the Israeli soldiers who stood watch over them from the other side of a mesh fence.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/nation-world-news/inside-the-base-where-israel-has-detained-thousands-of-palestinians/>
+
+---
+
+## Your Views for June 7
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>A call for better&#0010;preschool programs</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/opinion/your-views-for-june-7-8/>
+
+---
+
+## New orchestra launched for high school students
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>High school musicians have a new opportunity to pursue their musical passions with the recent launch of the Hummingbirds Youth Philharmonic, Hawaii Island&#8217;s first youth orchestra.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/community/new-orchestra-launched-for-high-school-students/>
+
+---
+
+## STARS Program open to high school girls this summer
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>The Pacific International Space Center for Exploration Systems at the University of Hawaii at Hilo is hosting the eighth annual Women&#8217;s STARS (STEM Aerospace Research Scholars) Program this summer.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/community/stars-program-open-to-high-school-girls-this-summer/>
+
+---
+
+## Clash over phone hacking article preceded exit of Washington Post editor
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>Weeks before the embattled executive editor of The Washington Post abruptly resigned Sunday, her relationship with the company&#8217;s CEO became increasingly tense.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/nation-world-news/clash-over-phone-hacking-article-preceded-exit-of-washington-post-editor/>
+
+---
+
+## At Menendez trial, ex-prosecutor recounts ‘gross’ meeting with New Jersey senator
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK (Reuters) -The former New Jersey attorney general Gurbir Grewal testified at U.S. Senator Bob Menendez&#8217;s corruption trial on Thursday that the lawmaker sought to intervene in a local criminal case, including a meeting that Grewal&#8217;s deputy described as &#8220;gross.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/nation-world-news/at-menendez-trial-ex-prosecutor-recounts-gross-meeting-with-new-jersey-senator/>
+
+---
+
+## 17 public schools offer summer meals to children
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Education has announced that 17 public schools on the Big Island will serve meals free of charge over the summer to children ages 18 and younger &#8212; regardless of public school enrollment status &#8212; through its summer food service program.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/community/17-public-schools-offer-summer-meals-to-children/>
+
+---
+
+## ‘The Gin Game’ comes to the Aloha Theater in Kainaliu
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>The Pulitzer Prize-winning drama &#8220;The Gin Game,&#8221; written by Donald L. Coburn, will be live on stage at the Aloha Theater in Kainaliu from Friday, June 21, through Sunday, June 23. Tickets are on sale now.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/community/the-gin-game-comes-to-the-aloha-theater-in-kainaliu/>
+
+---
+
+## Obituaries for June 7
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>Luisa Guerrero Paguirigan, 92, of Keaau died May 19 at Hilo Benioff Medical Center. Born in Batac, Ilocos Norte, Philippines, she was a retired sorter for Mauna Loa Macadamia Nut Co. and member of St. Joseph Catholic Church and Annak Ti Batac Association of Hawaii. Private services held. Survived by brother, Camilo (Gloria) Guerrero of Hilo; sisters-in-law, Miriam Dublada of Hilo, Josenia Guerrero of Paauilo, Nenita Guerrero of Keaau, Magdalena Bumanglag of Hilo and Lydia Paguirigan of Kona; nieces, nephews and cousins. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/obituaries/obituaries-for-june-7-10/>
+
+---
+
+## Hunter Biden’s sister-in-law says she found, threw away, his gun
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>WILMINGTON, Delaware &#8212; Hunter Biden&#8217;s sister-in-law testified on Thursday that she found his gun and threw it away out of fear of his spiraling addiction, potentially bolstering prosecutors&#8217; case that President Joe Biden&#8217;s son broke a law barring illegal drug users from owning firearms.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/nation-world-news/hunter-bidens-sister-in-law-says-she-found-threw-away-his-gun/>
+
+---
+
+## SpaceX achieves more control with latest Starship launch
+
+date: 2024-06-07, from: Hawaii Tribune Harold
+
+
+				<p>The latest SpaceX Starship and Super Heavy rocket launched from Texas Thursday on an orbital flight that achieved more control in landing operations.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/07/nation-world-news/spacex-achieves-more-control-with-latest-starship-launch/>
+
+---
+
+## PRIMARY ELECTION 2024 HAWAIʻI COUNTY MAYOR’S RACE
+
+date: 2024-06-07, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>To read our Election Policy, click here.</p>
+<p>The post <a href="https://www.pbshawaii.org/primary-election-2024-hawai%ca%bbi-county-mayors-race/">PRIMARY ELECTION 2024 &lt;br/&gt;HAWAIʻI COUNTY MAYOR&#8217;S RACE</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/primary-election-2024-hawai%ca%bbi-county-mayors-race/>
+
+---
+
+## Palau International Airport Welcomes Luxurious New VIP Lounge
+
+date: 2024-06-07, from: Island Times
+
+<figure><img width="804" height="603" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/1.jpg?fit=804%2C603&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/1.jpg?w=804&amp;ssl=1 804w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/1.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/1.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/1.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/1.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/1.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/1.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/1.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/1.jpg?fit=804%2C603&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70649" data-permalink="https://islandtimes.org/palau-international-airport-welcomes-luxurious-new-vip-lounge/1-57/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/1.jpg?fit=804%2C603&amp;ssl=1" data-orig-size="804,603" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/1.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/1.jpg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>Palau International Airport travelers can now enjoy a touch of luxury before their flights with the grand opening of the new 680 VIP Lounge in the departure area. The lounge, which held a soft opening yesterday, boasts a sophisticated atmosphere designed to pamper discerning guests. Weary travelers will find the 680 VIP Lounge a haven [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-international-airport-welcomes-luxurious-new-vip-lounge/">Palau International Airport Welcomes Luxurious New VIP Lounge</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-international-airport-welcomes-luxurious-new-vip-lounge/>
+
+---
+
+## Airai car accident claims life, injures family
+
+date: 2024-06-07, from: Island Times
+
+<figure><img width="600" height="800" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Messenger_creation_c846f46a-5c5e-45a8-9a07-be64902e526d.jpeg?fit=600%2C800&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Messenger_creation_c846f46a-5c5e-45a8-9a07-be64902e526d.jpeg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Messenger_creation_c846f46a-5c5e-45a8-9a07-be64902e526d.jpeg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Messenger_creation_c846f46a-5c5e-45a8-9a07-be64902e526d.jpeg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Messenger_creation_c846f46a-5c5e-45a8-9a07-be64902e526d.jpeg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Messenger_creation_c846f46a-5c5e-45a8-9a07-be64902e526d.jpeg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Messenger_creation_c846f46a-5c5e-45a8-9a07-be64902e526d.jpeg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Messenger_creation_c846f46a-5c5e-45a8-9a07-be64902e526d.jpeg?fit=600%2C800&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70646" data-permalink="https://islandtimes.org/airai-car-accident-claims-life-injures-family/messenger_creation_c846f46a-5c5e-45a8-9a07-be64902e526d/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Messenger_creation_c846f46a-5c5e-45a8-9a07-be64902e526d.jpeg?fit=600%2C800&amp;ssl=1" data-orig-size="600,800" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Messenger_creation_c846f46a-5c5e-45a8-9a07-be64902e526d" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Messenger_creation_c846f46a-5c5e-45a8-9a07-be64902e526d.jpeg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Messenger_creation_c846f46a-5c5e-45a8-9a07-be64902e526d.jpeg?fit=600%2C800&amp;ssl=1" /></figure>
+<p>A car accident on Compact Road in Oikull, Airai, Wednesday afternoon, June 5, 2024, resulted in the death of a 36-year-old man and injured his wife and two children. Isak Elbelau Jr. was traveling from Airai to Ngchesar with his wife and their two children, ages 2 and 5. According to a family member, their [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/airai-car-accident-claims-life-injures-family/">Airai car accident claims life, injures family</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/airai-car-accident-claims-life-injures-family/>
+
+---
+
+## Supplemental Budget approved with Minimum Wage Increase
+
+date: 2024-06-07, from: Island Times
+
+<p>Koror, Palau &#8211; Palau&#8217;s Senate passed a $13 million supplemental budget for fiscal year 2024 (FY 2024), which also raises the minimum wage by 75 cents per hour. The measure came after both the House and Senate failed to agree on their own versions of the supplemental budget bill. A conference committee, comprised of members [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/supplemental-budget-approved-with-minimum-wage-increase/">Supplemental Budget approved with Minimum Wage Increase</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/supplemental-budget-approved-with-minimum-wage-increase/>
+
+---
+
+## Palauan Youth:
+
+date: 2024-06-07, from: Island Times
+
+<p>Seeking Opportunities Beyond Paradise By: Marissa Dilmeang Spires Koror, Palau &#8211; Graduation season brings familiar questions for Palauan youth: What paths lie ahead? College? Careers? Military service? These are just some of the possibilities for the roughly 2,300 Palauans between the ages of 12 and 24, a demographic representing 13% of the island nation&#8217;s population. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauan-youth/">Palauan Youth:</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palauan-youth/>
+
+---
+
+## BNH staff and visitors advised against drinking unsafe water
+
+date: 2024-06-07, from: Island Times
+
+<figure><img width="400" height="267" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/logo.jpg?fit=400%2C267&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/logo.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/logo.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/logo.jpg?fit=400%2C267&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70639" data-permalink="https://islandtimes.org/bnh-staff-and-visitors-advised-against-drinking-unsafe-water/logo-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/logo.jpg?fit=400%2C267&amp;ssl=1" data-orig-size="400,267" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="logo" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/logo.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/logo.jpg?fit=400%2C267&amp;ssl=1" /></figure>
+<p>The Environmental Quality Protection Board (EQPB) has found the water at Belau National Hospital (BNH) unsafe for drinking. The Ministry of Health and Human Services (MHHS), Division of Environmental Health took a sample test on May 27&#160; and “found that the samples did not meet safe drinking water quality standards.” Therefore, it is crucial that [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/bnh-staff-and-visitors-advised-against-drinking-unsafe-water/">BNH staff and visitors advised against drinking unsafe water</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/bnh-staff-and-visitors-advised-against-drinking-unsafe-water/>
+
+---
+
+## Palau blames China for Cyberattack, calls it harassment
+
+date: 2024-06-07, from: Island Times
+
+<figure><img width="600" height="856" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=600%2C856&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?resize=210%2C300&amp;ssl=1 210w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?resize=400%2C571&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=600%2C856&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70146" data-permalink="https://islandtimes.org/palau-recognizes-law-enforcement-during-national-police-week/whipps-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=600%2C856&amp;ssl=1" data-orig-size="600,856" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1715164497&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;320&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="whipps" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=210%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=600%2C856&amp;ssl=1" /></figure>
+<p>KOROR, Palau — Palau&#8217;s President Surangel Whipps accused China of a &#8220;major cyberattack&#8221; targeting his country&#8217;s government, calling it a tactic to weaken ties with Taiwan and the United States. Whipps said the attack, which took place in March shortly after Palau signed a new security deal with the U.S., resulted in the theft of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-blames-china-for-cyberattack-calls-it-harassment/">Palau blames China for Cyberattack, calls it harassment</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-blames-china-for-cyberattack-calls-it-harassment/>
+
+---
+
+## U.S. conducts valiant shield 24 exercise in Palau
+
+date: 2024-06-07, from: Island Times
+
+<p>KOROR, Palau &#8211; More than 600 U.S. troops, including soldiers, sailors, airmen and Marines, are participating in a large-scale military exercise, Valiant Shield 24, in Palau from June 7 to 18. Valiant Shield is a biennial, multinational training event designed to enhance joint combat readiness among U.S. forces. The exercise simulates real-world scenarios involving land, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-conducts-valiant-shield-24-exercise-in-palau/">U.S. conducts valiant shield 24 exercise in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/u-s-conducts-valiant-shield-24-exercise-in-palau/>
+
+---
+
+## PICRC with Whaleology to record whales and dolphins around Palau
+
+date: 2024-06-07, from: Island Times
+
+<figure><img width="1024" height="812" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/dd.jpg?fit=1024%2C812&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/dd.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/dd.jpg?resize=300%2C238&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/dd.jpg?resize=1024%2C812&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/dd.jpg?resize=768%2C609&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/dd.jpg?resize=1200%2C951&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/dd.jpg?resize=400%2C317&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/dd.jpg?resize=706%2C560&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/dd.jpg?fit=1024%2C812&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70632" data-permalink="https://islandtimes.org/picrc-with-whaleology-to-record-whales-and-dolphins-around-palau/dd-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/dd.jpg?fit=1249%2C990&amp;ssl=1" data-orig-size="1249,990" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;10&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS 7D Mark II&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1715448124&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;210&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.000625&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="dd" data-image-description="" data-image-caption="&lt;p&gt;Credit-Olive Andrews species  killer whales&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/dd.jpg?fit=300%2C238&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/dd.jpg?fit=780%2C619&amp;ssl=1" /></figure>
+<p>The Palau International Coral Reef Center (PICRC) has just concluded a collaboration with Whaleology, a consultancy organization that specializes in the research and protection of whales in the Pacific. Over three weeks in May, Whaleology worked with the researchers at PICRC to provide training on cetacean research techniques and to carry out surveys in Palau’s [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-with-whaleology-to-record-whales-and-dolphins-around-palau/">PICRC with Whaleology to record whales and dolphins around Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/picrc-with-whaleology-to-record-whales-and-dolphins-around-palau/>
+
+---
+
+## Sustainable reef fisheries
+
+date: 2024-06-07, from: Island Times
+
+<figure><img width="1024" height="539" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/fisheries.jpg?fit=1024%2C539&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/fisheries.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/fisheries.jpg?resize=300%2C158&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/fisheries.jpg?resize=1024%2C539&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/fisheries.jpg?resize=768%2C405&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/fisheries.jpg?resize=1200%2C632&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/fisheries.jpg?resize=400%2C211&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/fisheries.jpg?resize=706%2C372&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/fisheries.jpg?fit=1024%2C539&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70629" data-permalink="https://islandtimes.org/sustainable-reef-fisheries/fisheries/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/fisheries.jpg?fit=1249%2C658&amp;ssl=1" data-orig-size="1249,658" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="fisheries" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/fisheries.jpg?fit=300%2C158&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/fisheries.jpg?fit=780%2C411&amp;ssl=1" /></figure>
+<p>On June 4th, The Bureau of Fisheries (BOF) and Japan International Cooperation Agency (JICA) held a consultation with fishermen regarding the collection of reef fishery data. Scientific information on the current status of coastal resources is limited, making it unclear how much impact fishing activities have on them. Similarly, due to high rates of self-consumption [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/sustainable-reef-fisheries/">Sustainable reef fisheries</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/sustainable-reef-fisheries/>
+
+---
+
+## Iakiu Photo Exhibition
+
+date: 2024-06-07, from: Island Times
+
+<figure><img width="600" height="419" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/YakyuExhibit_PR.jpg?fit=600%2C419&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/YakyuExhibit_PR.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/YakyuExhibit_PR.jpg?resize=300%2C210&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/YakyuExhibit_PR.jpg?resize=400%2C279&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/YakyuExhibit_PR.jpg?fit=600%2C419&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70626" data-permalink="https://islandtimes.org/iakiu-photo-exhibition/yakyuexhibit_pr/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/YakyuExhibit_PR.jpg?fit=600%2C419&amp;ssl=1" data-orig-size="600,419" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;REKEMESIK BERROUS&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="YakyuExhibit_PR" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/YakyuExhibit_PR.jpg?fit=300%2C210&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/YakyuExhibit_PR.jpg?fit=600%2C419&amp;ssl=1" /></figure>
+<p>June 04, 2024- The Embassy of Japan in Palau is pleased to announce that it will hold a small photo exhibition in effort to celebrate the 30th Anniversary of diplomatic relations between Japan and Palau. The photo exhibition will be highlighting how baseball was introduced to Palau by the Japanese before WWII as part of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/iakiu-photo-exhibition/">Iakiu Photo Exhibition</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/iakiu-photo-exhibition/>
+
+---
+
+## Blind Spot Tragedy:
+
+date: 2024-06-07, from: Island Times
+
+<p>Seeking Justice for the family involved in tragic accident near Mokko-Melekeok In the tranquil island nation of Palau, nestled amidst the azure waters of the Pacific, a devastating tragedy unfolded along a winding stretch of road connecting Mokko to Melekeok. It was a serene day, but the tranquility was shattered by the screech of tires [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/blind-spot-tragedy/">Blind Spot Tragedy:</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/blind-spot-tragedy/>
+
+---
+
+## NO BLAME GAME
+
+date: 2024-06-07, from: Island Times
+
+<figure><img width="301" height="284" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?w=301&amp;ssl=1 301w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="60533" data-permalink="https://islandtimes.org/risk-of-growing-up/womens-corner-1-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" data-orig-size="301,284" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" /></figure>
+<p>Insanity is doing the same thing over and over again and expecting different results.  Einstein &#8220;Life is 10% what happens to you and 90% how you react to it. &#8212;Charles Swindoll My problem was ruminating on what was said and done to me. I became insane. Like a hamster running on a wheel going nowhere. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/no-blame-game/">NO BLAME GAME</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/no-blame-game/>
+
+---
+
+## ‘We can control our destiny:
+
+date: 2024-06-07, from: Island Times
+
+<p>Micronesia Islands Forum 2024 concludes HAGATNA (PACIFIC ISLAND TIMES) &#8212; The Micronesia Islands Forum (MIF) 2024 concluded Tuesday with leaders committing to unity to navigate the complex issues facing the region. Following two days of presentations on issues ranging from workforce development and transportation to energy, education, healthcare, digitisation, and cybersecurity, leaders agreed on the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/we-can-control-our-destiny/">&#8216;We can control our destiny:</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/we-can-control-our-destiny/>
+
+---
+
+## ANZ urges customers to be alert to business email compromise and fake invoice scams
+
+date: 2024-06-07, from: Island Times
+
+<p>SUVA, (ANZ) &#8212; As scammers use increasingly sophisticated methods to exploit consumers, ANZ is urging customers to be aware of business email compromise and fake invoice scams. Criminals may pose as a legitimate business and request the urgent transfer of funds to a new account or send false invoices with fraudulent details. ANZ Regional Executive [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/anz-urges-customers-to-be-alert-to-business-email-compromise-and-fake-invoice-scams/">ANZ urges customers to be alert to business email compromise and fake invoice scams</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/anz-urges-customers-to-be-alert-to-business-email-compromise-and-fake-invoice-scams/>
+
+---
+
+## U.S eases restriction on U.S territories’ membership in Pacific Islands Forum
+
+date: 2024-06-07, from: Island Times
+
+<p>WASHINGTON/HAGATNA (PACIFIC ISLAND TIMES) &#8212;The U.S government has agreed to allow U.S territories to join the Pacific Islands Forum(PIF) as non-voting associate members, modifying an old policy that previously barred their participation in international organizations in “any capacity.” Secretary of State Antony Blinken this week wrote to Guam Governor Lou Leon Guerrero and CNMI Governor [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-eases-restriction-on-u-s-territories-membership-in-pacific-islands-forum/">U.S eases restriction on U.S territories&#8217; membership in Pacific Islands Forum</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/u-s-eases-restriction-on-u-s-territories-membership-in-pacific-islands-forum/>
+
+---
+
+## Keeping children safe on social media
+
+date: 2024-06-07, from: Island Times
+
+<figure><img width="1024" height="669" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Keeping-children-safe-on-social-media.jpg?fit=1024%2C669&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Keeping-children-safe-on-social-media.jpg?w=1890&amp;ssl=1 1890w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Keeping-children-safe-on-social-media.jpg?resize=300%2C196&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Keeping-children-safe-on-social-media.jpg?resize=1024%2C669&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Keeping-children-safe-on-social-media.jpg?resize=768%2C502&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Keeping-children-safe-on-social-media.jpg?resize=1536%2C1004&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Keeping-children-safe-on-social-media.jpg?resize=1200%2C784&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Keeping-children-safe-on-social-media.jpg?resize=1568%2C1025&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Keeping-children-safe-on-social-media.jpg?resize=400%2C261&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Keeping-children-safe-on-social-media.jpg?resize=706%2C461&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Keeping-children-safe-on-social-media.jpg?fit=1024%2C669&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70613" data-permalink="https://islandtimes.org/keeping-children-safe-on-social-media/keeping-children-safe-on-social-media/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Keeping-children-safe-on-social-media.jpg?fit=1890%2C1235&amp;ssl=1" data-orig-size="1890,1235" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.2&quot;,&quot;credit&quot;:&quot;Kiichiro Sato&quot;,&quot;camera&quot;:&quot;Canon EOS-1D X&quot;,&quot;caption&quot;:&quot;FILE - A child holds an iPhone at an Apple store on Sept. 25, 2015 in Chicago. Parents \u0097 and even some teens themselves \u0097 are growing increasingly concerned about the effects of social media use on young people. (AP Photo\/Kiichiro Sato, File)&quot;,&quot;created_timestamp&quot;:&quot;1443173045&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;50&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.0008&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Keeping children safe on social media" data-image-description="" data-image-caption="&lt;p&gt;FILE &#8211; A child holds an iPhone at an Apple store on Sept. 25, 2015 in Chicago. Parents  and even some teens themselves  are growing increasingly concerned about the effects of social media use on young people. (AP Photo/Kiichiro Sato, File)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Keeping-children-safe-on-social-media.jpg?fit=300%2C196&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Keeping-children-safe-on-social-media.jpg?fit=780%2C510&amp;ssl=1" /></figure>
+<p>What parents should know to protect their kids By BARBARA ORTUTAY AP Technology Writer At what age should kids be on social media? Should they be on it at all? If they aren&#8217;t, will they be social pariahs? Should parents monitor their conversations? Do parental controls work? Navigating social media as a parent — not [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/keeping-children-safe-on-social-media/">Keeping children safe on social media</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/keeping-children-safe-on-social-media/>
+
+---
+
+## Tokyo’s local government will launch a dating app to try and boost Japan’s falling birth rate
+
+date: 2024-06-07, from: Island Times
+
+<p>In short: Japan&#8217;s capital Tokyo will develop a dating app to try and help boost the country&#8217;s falling birth rate. (ABC-Australia) Japan&#8217;s capital Tokyo will launch its own dating app as part of government efforts to boost the plunging national birth rate. A Tokyo official said the app will launch as early as this summer, with [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tokyos-local-government-will-launch-a-dating-app-to-try-and-boost-japans-falling-birth-rate/">Tokyo&#8217;s local government will launch a dating app to try and boost Japan&#8217;s falling birth rate</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/tokyos-local-government-will-launch-a-dating-app-to-try-and-boost-japans-falling-birth-rate/>
+
+---
+
+## Palau’s Young Stars Shine at Oceania Area Championships
+
+date: 2024-06-07, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-athletics-2024-v2.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-athletics-2024-v2.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-athletics-2024-v2.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-athletics-2024-v2.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-athletics-2024-v2.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-athletics-2024-v2.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-athletics-2024-v2.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-athletics-2024-v2.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-athletics-2024-v2.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-athletics-2024-v2.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-athletics-2024-v2.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-athletics-2024-v2.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70608" data-permalink="https://islandtimes.org/palaus-young-stars-shine-at-oceania-area-championships/palau-athletics-2024-v2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-athletics-2024-v2.jpg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Palau athletics 2024 v2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-athletics-2024-v2.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-athletics-2024-v2.jpg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>Suva, Fiji &#8211; Palau&#8217;s Kraven Ngirchomlei and Peace Adaba impressed in their first U18 1500m race at the 2024 Oceania Area Championships. Ngirchomlei shaved a significant 10 seconds off his personal best, clocking an impressive 4:38.53. Adaba also put in a strong showing, improving her time to 4:44.69. Earlier, Ngirchomlei led Team Palau into the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-young-stars-shine-at-oceania-area-championships/">Palau&#8217;s Young Stars Shine at Oceania Area Championships</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palaus-young-stars-shine-at-oceania-area-championships/>
+
+---
+
+## Belau Omal Marathon course certification
+
+date: 2024-06-07, from: Island Times
+
+<figure><img width="1024" height="758" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Security-classificaitron.jpg?fit=1024%2C758&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Security-classificaitron.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Security-classificaitron.jpg?resize=300%2C222&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Security-classificaitron.jpg?resize=1024%2C758&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Security-classificaitron.jpg?resize=768%2C568&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Security-classificaitron.jpg?resize=1200%2C888&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Security-classificaitron.jpg?resize=400%2C296&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Security-classificaitron.jpg?resize=706%2C522&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Security-classificaitron.jpg?fit=1024%2C758&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70605" data-permalink="https://islandtimes.org/belau-omal-marathon-course-certification/minister-payne-media-release-template-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Security-classificaitron.jpg?fit=1249%2C924&amp;ssl=1" data-orig-size="1249,924" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Southall, Ben&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;Minister Payne Media Release Template&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Minister Payne Media Release Template" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Security-classificaitron.jpg?fit=300%2C222&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Security-classificaitron.jpg?fit=780%2C577&amp;ssl=1" /></figure>
+<p>5 June 2024&#8211; The Australian Embassy is pleased to have supported the Belau Omal Marathon course certification recently. Mr Jarrod Gibson &#8211; a World Athletics Road Race Course Measurer and with Oceania Athletics, travelled from Australia to Palau to undertake course certification. With World Athletics certification, the Belau Omal Marathon is a qualifying race for [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/belau-omal-marathon-course-certification/">Belau Omal Marathon course certification</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/belau-omal-marathon-course-certification/>
+
+---
+
+## Fiji’s 75-year-old prime minister Sitiveni Rabuka wins international athletics medal for shot-put
+
+date: 2024-06-07, from: Island Times
+
+<p>In short:&#160; (ABC-Australia) Fiji&#8217;s prime minister has wound back the clock by winning a bronze medal at an international athletics championship, aged 75. Sitiveni Rabuka, who competed for Fiji at both rugby and athletics in his youth, finished on the podium for his age category in the shot-put at the Oceania Athletics Championships held in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/fijis-75-year-old-prime-minister-sitiveni-rabuka-wins-international-athletics-medal-for-shot-put/">Fiji&#8217;s 75-year-old prime minister Sitiveni Rabuka wins international athletics medal for shot-put</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/fijis-75-year-old-prime-minister-sitiveni-rabuka-wins-international-athletics-medal-for-shot-put/>
+
+---
+
+## Micronesian leaders agree to explore expansion of air service in the region
+
+date: 2024-06-07, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Micronesian Islands Forum concluded this week with Pacific island leaders agreeing to explore more... 
+
+<https://www.pacificislandtimes.com/post/micronesian-leaders-agree-to-explore-expansion-of-air-service-in-the-region>
+
+---
+
+## A bittersweet journey with my parents
+
+date: 2024-06-07, from: Pacific Island Times
+
+By Marie Benito (Delivered at the Dementia Care Conference hosted by the University of Guam at the Westin Resort Guam on May 11, 2024.... 
+
+<https://www.pacificislandtimes.com/post/a-bittersweet-journey-with-my-parents>
+
+---
+
+## What dementia-related services are available on Guam
+
+date: 2024-06-07, from: Pacific Island Times
+
+By Pacific Island Times News Staff While empirical evidence speaks to the growing cases of dementia on Guam, no current data are... 
+
+<https://www.pacificislandtimes.com/post/what-dementia-related-services-are-available-on-guam>
+
+---
+
+## Hawaiʻi Bowl returns to traditional Christmas Eve time slot
+
+date: 2024-06-06, from: University of Hawaiʻi News
+
+<p>Last year, the game was played outside of the Christmas Eve slot for just the fifth time in bowl history.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/06/hawaii-bowl-returns-to-christmas-eve/">Hawaiʻi Bowl returns to traditional Christmas Eve time slot</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/06/hawaii-bowl-returns-to-christmas-eve/>
+
+---
+
+## UH experts provide guidance to Shibuya delegation ahead of sister city signing
+
+date: 2024-06-06, from: University of Hawaiʻi News
+
+<p>The Shibuya delegation wanted to learn more about regenerative tourism practices.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/06/experts-provide-guidance-to-shibuya/"><abbr>UH</abbr> experts provide guidance to Shibuya delegation ahead of sister city signing</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/06/experts-provide-guidance-to-shibuya/>
+
+---
+
+## Second Blue Talanoa : Voices of the Future
+
+date: 2024-06-06, from: University of the South Pacific (Fiji)
+
+<p>On May 27th, 2024, the French Embassy in Fiji organised a “Second Blue Talanoa: Voices...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/second-blue-talanoa-voices-of-the-future/">Second Blue Talanoa : Voices of the Future</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/second-blue-talanoa-voices-of-the-future/>
+
+---
+
+## New tourist destination?
+
+date: 2024-06-06, from: Marshal Islands Journal
+
+<p>Journal 6/5/1987 P2 Shoplifting on riseAn increase in shoplifting has been noted by island retailer Robert Reimers Enterprises, and although some of the culprits are being apprehended by no means are all deft-of-hands being intercepted. Quite a few discarded items of clothes have been discovered of late in their Majuro downtown store, evidence that switched [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/new-tourist-destination/">New tourist destination?</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/new-tourist-destination/>
+
+---
+
+## The toll road called ‘dementia’
+
+date: 2024-06-06, from: Pacific Island Times
+
+Bridgman, Mi— The toll road called dementia is an enormous and complex highway that leads to a very bumpy ride. When my wonderful wife... 
+
+<https://www.pacificislandtimes.com/post/the-toll-road-called-dementia>
+
+---
+
+## Dementia: What it is and what it is not
+
+date: 2024-06-06, from: Pacific Island Times
+
+Guam experts tackle the dreaded disease By Jeni Ann Flores Where are my keys?! In the fridge?! Why on earth are they in the fridge?! Cell... 
+
+<https://www.pacificislandtimes.com/post/dementia-what-it-is-and-what-it-is-not>
+
+---
+
+## For the Future of Ka Malu ʻUlu o Lele
+
+date: 2024-06-06, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Bailey Baybayan No Ka Malu ʻUlu o Lele For the lush green lands that flow from Mauka to Makai Fish ponds that house the sustenance of our people Winds that carry the sweet fragrance of aloha Our land is &#8230; <a href="https://hawaiipacificreview.org/2024/06/06/for-the-future-of-ka-malu-%ca%bbulu-o-lele/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/06/06/for-the-future-of-ka-malu-%ca%bbulu-o-lele/>
+
+---
+
+## Alumna to lead UH’s STEM initiatives for Hawaiʻi middle schools
+
+date: 2024-06-06, from: University of Hawaiʻi News
+
+<p>Lauren Kaupp will be responsible for engaging with researchers and faculty across the <abbr>UH</abbr> System to develop <abbr>STEM</abbr> initiatives that inspire middle school students.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/06/stem-pre-academy-director-kaupp/">Alumna to lead <abbr>UH</abbr>’s <abbr>STEM</abbr> initiatives for Hawaiʻi middle schools</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/06/stem-pre-academy-director-kaupp/>
+
+---
+
+## Aussies back women’s meeting
+
+date: 2024-06-06, from: Marshal Islands Journal
+
+<p>The Marshall Islands is receiving a boost from Australia for hosting an important regional women’s conference in Majuro in late July. Australia is providing $100,000 to the Ministry of Culture and Internal Affairs (MOCIA) and Women United Together Marshall Islands (WUTMI) to support WUTMI’s participation at the upcoming Triennial Conference of Pacific Women – scheduled [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/aussies-back-womens-meeting/">Aussies back women’s meeting</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/aussies-back-womens-meeting/>
 
 ---
 
@@ -353,6 +1035,50 @@ date: 2024-06-06, from: Marshal Islands Journal
 
 ---
 
+## Linking planetary science, art, Indigenous culture focus of early career award
+
+date: 2024-06-06, from: University of Hawaiʻi News
+
+<p>A researcher will link planetary science and art to the Indigenous culture in <span aria-label="Hawaii">Hawai&#699;i</span> with a $200,000 <abbr>NASA</abbr> Planetary Science Early Career Award.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/05/award-emily-costello/">Linking planetary science, art, Indigenous culture focus of early career award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/05/award-emily-costello/>
+
+---
+
+## Artistic achievement scholarships for three Leeward CC students
+
+date: 2024-06-06, from: University of Hawaiʻi News
+
+<p>John Young Foundation scholarships support art students with tuition, books and supplies.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/05/john-young-scholarships-leeward-students/">Artistic achievement scholarships for three Leeward <abbr>CC</abbr> students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/05/john-young-scholarships-leeward-students/>
+
+---
+
+## UH researchers explore innovative Japan aging plan
+
+date: 2024-06-05, from: University of Hawaiʻi News
+
+<p>The Fukuoka 100 Plan is a cross-sector initiative that's transforming aging services in Japan.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/05/japan-aging-plan-explored/"><abbr>UH</abbr> researchers explore innovative Japan aging plan</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/05/japan-aging-plan-explored/>
+
+---
+
+## Viral baseball team Savannah Bananas finds star in UH alum Archer
+
+date: 2024-06-05, from: University of Hawaiʻi News
+
+<p>Andy Archer played at <abbr>UH</abbr> in 2022.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/05/andy-archer-savannah-bananas/">Viral baseball team Savannah Bananas finds star in <abbr>UH</abbr> alum Archer</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/05/andy-archer-savannah-bananas/>
+
+---
+
 ## Micro Games action hits fever pitch
 
 date: 2024-06-05, from: Marshal Islands Journal
@@ -518,6 +1244,16 @@ date: 2024-06-05, updated: 2024-06-06, from: Marianas Variety
 DEPARTMENT of Public Safety Commissioner Anthony Macaranas and Director for Administration Kaye Inos told the House Ways and Means Committee on Tuesday that federal funds are helping DPS stay afloat. 
 
 <https://www.mvariety.com/news/local/us-funds-help-dps-stay-afloat/article_97b2279a-2317-11ef-951f-c33cc6bc41c6.html>
+
+---
+
+## Allies come together in the Indo-Pacific: Valiant Shield 24 
+
+date: 2024-06-05, from: Pacific Island Times
+
+By Pacific Island Times News Staff Pearl Harbor--  U.S. Indo-Pacific Command joint forces, along with allied and partner forces, are... 
+
+<https://www.pacificislandtimes.com/post/allies-come-together-in-the-indo-pacific-valiant-shield-24>
 
 ---
 

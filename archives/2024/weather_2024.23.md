@@ -1,121 +1,107 @@
 ---
 title: weather 2024.23
-updated: 2024-06-06 09:04:46
+updated: 2024-06-07 08:27:13
 ---
 
 # weather 2024.23
 
-(date: 2024-06-06 09:04:46)
+(date: 2024-06-07 08:27:13)
 
 ---
 
-## There are no tropical cyclones at this time.
+## SPC - No watches are valid as of Fri Jun  7 13:54:01 UTC 2024
 
-date: 2024-06-06, from: Eastern Pacific Basin GIS Data
+date: 2024-06-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No tropical cyclones as of Thu, 06 Jun 2024 15:24:42 GMT 
-
-<https://www.nhc.noaa.gov/gis/>
-
----
-
-## SPC - No watches are valid as of Thu Jun  6 14:03:02 UTC 2024
-
-date: 2024-06-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Thu Jun  6 14:03:02 UTC 2024. 
+No watches are valid as of Fri Jun  7 13:54:01 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Thu Jun  6 14:03:02 UTC 2024
+## SPC - No MDs are in effect as of Fri Jun  7 13:54:01 UTC 2024
 
-date: 2024-06-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-06-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Thu Jun  6 14:03:02 UTC 2024. 
+No Mesoscale Discussions are in effect as of Fri Jun  7 13:54:01 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/md/>
 
 ---
 
-## SPC Jun 6, 2024 1300 UTC Day 1 Convective Outlook
+## There are no tropical cyclones at this time.
 
-date: 2024-06-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-06-07, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Fri, 07 Jun 2024 12:40:18 GMT 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## SPC Jun 7, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-06-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0714 AM CDT Thu Jun 06 2024
+0721 AM CDT Fri Jun 07 2024
 
-Valid 061300Z - 071200Z
+Valid 071300Z - 081200Z
 
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS
-AFTERNOON/EVENING ACROSS WESTERN OK AND THE EASTERN TX PANHANDLE...
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON
+AND EVENING FROM CENTRAL NEBRASKA SOUTHEASTWARD INTO NORTHEAST
+KANSAS AND FAR WESTERN MISSOURI...
 
 ...SUMMARY...
-Damaging gusts of 60-70 mph will be possible this afternoon/evening
-across western Oklahoma and the eastern Texas Panhandle.  Isolated
-wind damage will be possible this afternoon from eastern New York
-into the Carolinas, and isolated wind damage/hail may also occur
-across the central/east central Florida peninsula.
+Severe thunderstorms are expected across the central Plains region
+beginning mid afternoon. Damaging winds and large hail are the
+primary threats.
 
-...TX Panhandle/western OK this afternoon/evening...
-In the wake of a midlevel low over the upper Great Lakes, a weak
-surface cold front will drift southward from KS into northern OK and
-the TX/OK Panhandles by later this afternoon/evening.  Weak lee
-cyclogenesis across eastern NM will induce southerly low-level flow
-and northward moisture advection across TX/OK to the south of the
-front.  Strong surface heating and the increase in low-level
-moisture will contribute to moderate buoyancy by mid-late afternoon
-(MLCAPE >1500 J/kg), in an environment of steep low-level lapse
-rates/deep mixing.  Low-level convergence/ascent along the front
-should focus thunderstorm development by mid-late afternoon from
-northwest OK into the TX Panhandle, and storms will subsequently
-spread southward through the evening.  Moderate buoyancy, inverted-V
-profiles and northwesterly effective bulk shear of 35-40 kt will
-favor a mix of multicell clusters and high-based supercells capable
-of producing severe outflow gusts (mainly 60-70 mph) and isolated
-large hail (1-1.5 inch diameter).
+...Central Plains...
+The early morning water vapor imagery loop shows a broad upper ridge
+across the southwest US, with a shortwave trough topping the ridge
+over CO.  This feature will emerge into the high Plains by early
+afternoon.  Southerly low-level winds are transporting rich moisture
+rapidly northward, with 60s dewpoints now into southwest KS.  A few
+hours of sunshine/mixing should result in a rapid jump of surface
+dewpoints into much of KS/NE, where strong heating will occur.  This
+should yield a corridor of moderate MLCAPE by mid-afternoon
+(1500-2500 J/kg).  Present indications are that intense
+thunderstorms will form over north-central NE by mid-afternoon in a
+strongly sheared environment.  These supercell storms will pose a
+risk of all hazards for a few hours, tracking southeastward and
+organizing into a fast-moving MCS.  As the storms track into eastern
+NE/KS and western IA/MO during the evening, model guidance suggests
+the potential for rather widespread damaging winds and hail.  This
+activity is expected to weaken overnight as it tracks into southeast
+KS and southern MO.  Given the increasing confidence of this
+scenario and the potential for a more widespread severe event, have
+upgraded to ENH.
 
-...East central FL this afternoon...
-The Atlantic coast sea breeze will likely be favored this afternoon
-for thunderstorm development, within a weak background westerly flow
-regime.  Strong surface heating across the central peninsula,
-boundary-layer dewpoints in the 70s, and midlevel lapse rates near 7
-C/km will result in MLCAPE near 3000 J/kg with minimal convective
-inhibition.  Seasonally cool midlevel temperatures (-8 to -10 C at
-500 mb) and the large buoyancy will support some threat for isolated
-large hail (1-1.5 inches in diameter) where vertical shear is
-slightly enhanced by the sea breeze.  The large buoyancy will also
-result in substantial water-loaded downdrafts with the potential for
-isolated wind damage (55-65 mph gusts) in an environment with steep
-low-level lapse rates and DCAPE > 1000 J/kg.
+...Southwest KS and TX/OK Panhandles...
+A low-level convergence/dryline boundary is expected to become
+established late this afternoon from northeast NM into parts of the
+TX/OK Panhandles and southwest KS.  Temperatures are expected to
+rise into the 90s or low 100s in this area, where scattered
+high-based afternoon thunderstorms will develop.  A deeply mixed
+boundary-layer, strong southwesterly low/mid level winds, and
+sufficient CAPE will result in a few severe storms through the early
+evening.  Damaging wind gusts appear to be the main concern,
+although some hail is also possible.
 
-...NY into the Carolinas this afternoon/evening...
-A pronounced midlevel trough will progress eastward from the Great
-Lakes to NY/PA by this evening, and it will be accompanied by a
-surface cold front and pre-frontal trough in the lee of the higher
-terrain.  Midlevel lapse rates in the warm sector will not be steep,
-but surface heating in cloud breaks and boundary-layer dewpoints of
-65-70 F will support MLCAPE of 1000-1500 J/kg by early-mid
-afternoon, when storm development is expected along the surface
-boundaries.  There will be some increase in midlevel flow over the
-surface warm sector this afternoon (30+ kt flow near 500 mb), which
-will favor primarily multicell clusters and line segments capable of
-producing occasional wind damage (50-60 mph gusts).  
+...Great Basin...
+A well-defined shortwave trough is currently over central CA moving
+eastward.  Lift associated with this trough, coupled with increasing
+mid-level moisture across the Great Basin depicted in water vapor
+imagery, will aid in the development of scattered thunderstorms over
+central/eastern NV.  This activity will track eastward into parts of
+UT during the peak heating period.  Forecast soundings show very
+steep low and mid level lapse rates and sufficient CAPE for damaging
+wind gusts in the more intense storms.
 
-Somewhat greater storm coverage is expected in the vicinity of
-eastern NY where forcing for ascent will be more focused, with more
-scattered storms farther south into the Carolinas.  Despite weaker
-deep-layer vertical shear with southward extent toward the
-Carolinas, modest enhancement of flow in the 700-500 mb layer (30+
-kt) and steep low-level lapse rates will support isolated downbursts
-with wind damage.  Portions of this area will be re-evaluated in
-later outlooks for higher wind probabilities, primarily for
-sufficient cloud breaks and resultant destabilization.
-
-..Thompson/Grams.. 06/06/2024
+..Hart/Bentley.. 06/07/2024
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
@@ -125,72 +111,9 @@ sufficient cloud breaks and resultant destabilization.
 
 ---
 
-## Central North Pacific Tropical Weather Outlook
-
-date: 2024-06-06, from: Central Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ACPN50 PHFO 061121<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-200 AM HST Thu Jun 6 2024<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Shigesato<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-06-06, from: Central Pacific Basin Tropical Cyclones
-
-No tropical cyclones as of Thu, 06 Jun 2024 15:24:42 GMT 
-
-<https://www.nhc.noaa.gov/>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2024-06-06, from: Eastern Pacific Basin Tropical Cyclones
-
-
-<br/>
-327 <br/>
-ABPZ20 KNHC 061117<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-500 AM PDT Thu Jun 6 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Tropical cyclone formation is not expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Bucci<br/>
-<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
 ## NHC Atlantic Outlook
 
-date: 2024-06-06, from: Graphical Tropical Weather Outlooks
+date: 2024-06-07, from: Graphical Tropical Weather Outlooks
 
 
 <br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
@@ -199,10 +122,70 @@ date: 2024-06-06, from: Graphical Tropical Weather Outlooks
 <img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
 <br /><br />
 <div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Thu Jun 6 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Pasch<br>NNNN<br><br></div></div><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Fri Jun 7 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Reinhart<br>NNNN<br><br></div></div><br />
  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2024-06-07, from: Central Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ACPN50 PHFO 071125<br />
+ TWOCP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS Central Pacific Hurricane Center Honolulu HI<br />
+ 200 AM HST Fri Jun 7 2024<br />
+ <br />
+ For the central North Pacific...between 140W and 180W:<br />
+ <br />
+ Tropical cyclone formation is not expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Shigesato<br />
+  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-06-07, from: Central Pacific Basin Tropical Cyclones
+
+No tropical cyclones as of Fri, 07 Jun 2024 12:40:18 GMT 
+
+<https://www.nhc.noaa.gov/>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2024-06-07, from: Eastern Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ABPZ20 KNHC 071122<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 500 AM PDT Fri Jun 7 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ Tropical cyclone formation is not expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Cangialosi<br />
+  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 

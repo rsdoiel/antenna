@@ -1,11 +1,101 @@
 ---
 title: motorcycles 2024.23
-updated: 2024-06-06 09:04:47
+updated: 2024-06-07 08:27:13
 ---
 
 # motorcycles 2024.23
 
-(date: 2024-06-06 09:04:47)
+(date: 2024-06-07 08:27:13)
+
+---
+
+## Take A Look At These Cool New Kawasaki Z900RS Colors
+
+date: 2024-06-07, from: Ride Apart, Electric Motorcycle News
+
+Can we expect to see them on our side of the pond any time soon? 
+
+<https://www.rideapart.com/news/722414/kawasaki-z900rs-cafe-2025-colors/>
+
+---
+
+## Is There A Place For The Jawa 42 Bobber On US Roads?
+
+date: 2024-06-07, from: Ride Apart, Electric Motorcycle News
+
+It’ll surely make for a classy option in the entry-level cruiser market.  
+
+<https://www.rideapart.com/news/722303/jawa-42-bobber-red-sheen-launched/>
+
+---
+
+## Watch Everything It Takes To Complete the Fastest IOM TT Lap
+
+date: 2024-06-07, from: Ride Apart, Electric Motorcycle News
+
+Most of us will never know what it takes to ride full pelt around the TT. But this POV of Peter Hickman is the best insight we have. 
+
+<https://www.rideapart.com/news/722295/pov-iom-tt-ride-peter-hickman/>
+
+---
+
+## UK Police Just Seized This Homemade E-Bike Because It's Too Fast
+
+date: 2024-06-07, from: Ride Apart, Electric Motorcycle News
+
+It’s several times more powerful than the legal limit.  
+
+<https://www.rideapart.com/news/722306/crazy-2000w-ebike-seized-uk-police/>
+
+---
+
+## Kawasaki New Jet Ski Ultra 160 And 310 Are Ready To Make A Splash
+
+date: 2024-06-07, from: Ride Apart, Electric Motorcycle News
+
+Tons of tech make these Jet Skis more than just your average PWC.  
+
+<https://www.rideapart.com/news/722304/2025-kawasaki-jet-ski-ultra-160-310/>
+
+---
+
+## LiveWire-based Kymco RevoNEX and SuperNEX
+
+date: 2024-06-06, from: Cycle World News
+
+Kymco will base its RevoNEX and SuperNEX models on partner LiveWire’s electric motorcycle platform. It will feature a simulated manual transmission. 
+
+<https://www.cycleworld.com/motorcycle-news/livewire-based-kymco-revonex-and-supernex/>
+
+---
+
+## They Might Finally Give Out an Oscar for a Stunt Performance
+
+date: 2024-06-06, from: Ride Apart, Electric Motorcycle News
+
+Fingers crossed.  
+
+<https://www.rideapart.com/news/722419/academy-awards-best-stunt-performance-oscars/>
+
+---
+
+## Ducati’s Davide Tardozzi on Márquez Factory Signing
+
+date: 2024-06-06, from: Cycle World News
+
+Ducati’s team manager Davide Tardozzi explains why Marc Márquez got the factory ride over Jorge Martín. 
+
+<https://www.cycleworld.com/motorcycle-racing/ducati-davide-tardozzi-on-marc-marquez-factory-signing-interview/>
+
+---
+
+## West Series: Tribute to Parnelli Jones
+
+date: 2024-06-06, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires It is with great sadness that we learned of the passing at age 90 of Parnelli Jones, a true legend of the&#8230;  
+
+<https://kickinthetires.net/nascar/west-series-tribute-to-parnelli-jones/>
 
 ---
 

@@ -1,11 +1,136 @@
 ---
 title: socal north 2024.23
-updated: 2024-06-06 09:04:46
+updated: 2024-06-07 08:27:12
 ---
 
 # socal north 2024.23
 
-(date: 2024-06-06 09:04:46)
+(date: 2024-06-07 08:27:12)
+
+---
+
+## The Transfer Take: Resources, Resources, Resources
+
+date: 2024-06-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+How do transfer students utilize UCLA resources to make the most of their limited time at UCLA? Podcasts contributor Ashley Tsao sits down with students Chris Gil and Nancy Alcala to talk about how they have utilized UCLA resources to join clubs, apply for internships and find communities for their niche hobbies. 
+
+<https://dailybruin.com/2024/06/07/the-transfer-take-resources-resources-resources/>
+
+---
+
+## 76th Commencement: Caps off to class of 2024
+
+date: 2024-06-07, from: The Round Up (Pierce College Student Newspaper)
+
+<p>On a hot June morning, a sprawling community college in the West San Fernando Valley was the place where students from many walks of life,</p>
+<p>The post <a href="https://theroundupnews.com/2024/06/06/76th-commencement-caps-off-to-class-of-2024/">76th Commencement: Caps off to class of 2024</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/06/06/76th-commencement-caps-off-to-class-of-2024/?utm_source=rss&utm_medium=rss&utm_campaign=76th-commencement-caps-off-to-class-of-2024>
+
+---
+
+## Gallery: girl in red creates playful and passionate atmosphere in the Greek Theatre
+
+date: 2024-06-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+girl in red performed last Thursday night at the Greek Theatre to an audience of more than 5,000 concertgoers, showcasing her ethereal vocals. It was the indie pop artist’s second Los Angeles concert in her “Doing it Again Tour.” The Beaches, an indie rock band from Toronto, opened the show playing various hits. 
+
+<https://dailybruin.com/2024/06/06/gallery-girl-in-red-creates-playful-and-passionate-atmosphere-in-the-greek-theatre/>
+
+---
+
+## How student-run organizations prepare students for business-related careers
+
+date: 2024-06-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Joining student-led business clubs is a common first step for Bruins interested in consulting and finance careers.
+The recruitment process for jobs in business fields can involve many steps and requires knowledge of the inner workings of the industry. 
+
+<https://dailybruin.com/2024/06/06/how-student-run-organizations-prepare-students-for-business-related-careers/>
+
+---
+
+## UCLA under review in House investigation of antisemitism on campus
+
+date: 2024-06-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+The United States House of Representatives announced Monday that it had initiated a review into UCLA&#8217;s federal funding and learning environment amid the Department of Education&#8217;s investigation into antisemitism on the University&#8217;s campus. 
+
+<https://dailybruin.com/2024/06/06/ucla-under-review-in-house-investigation-of-antisemitism-on-campus/>
+
+---
+
+## Students collage creative works, career opportunities through UCLA film festival
+
+date: 2024-06-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA&#8217;s film festival is framing the narrative for animators and filmmakers alike as they enter their professional careers.
+The UCLA School of Theater, Film and Television hosts an annual film festival to celebrate the work of current students throughout the year and highlight influential alumni through three events: the Animation Extravaganza, Screenwriters Showcase and Producers Marketplace. 
+
+<https://dailybruin.com/2024/06/06/students-collage-creative-works-career-opportunities-through-ucla-film-festival/>
+
+---
+
+## Free Tire Collection Event Set for June 22
+
+date: 2024-06-06, from: City of Santa Clarita
+
+<p>Event Open to Los Angeles County Residents The City of Santa Clarita and Los Angeles County Department of Public Works have partnered to offer a convenient and free option for residents to dispose of their used tires. The FREE Tire Collection Event will be held on Saturday, June 22, 2024, from 9:00 a.m. to 3:00 [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/06/06/free-tire-collection-event-set-for-june-22/">Free Tire Collection Event Set for June 22</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/06/06/free-tire-collection-event-set-for-june-22/>
+
+---
+
+## Bruin to Bruin: Jim Newton
+
+date: 2024-06-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Renowned journalist and UCLA professor Jim Newton sits down with Podcasts contributor Kayla Hayempour. 
+
+Kayla Hayempour: Hello and welcome to Bruin to Bruin. On this show we sit down with members of the UCLA community to hear their story and advice they have for students. 
+
+<https://dailybruin.com/2024/06/06/bruin-to-bruin-jim-newton/>
+
+---
+
+## Beat the Heat This Summer with Santa Clarita Transit!
+
+date: 2024-06-06, from: City of Santa Clarita
+
+<p>By Mayor Pro Tem Bill Miranda As the days start to feel longer and warmer, summer adventures in Santa Clarita are on the horizon. Whether you’re local or a visitor eager to explore all that our City and surroundings have to offer, there’s no better way to get around than with Santa Clarita Transit. In [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/06/06/beat-the-heat-this-summer-with-santa-clarita-transit/">Beat the Heat This Summer with Santa Clarita Transit!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/06/06/beat-the-heat-this-summer-with-santa-clarita-transit/>
+
+---
+
+## Health Care & Community: Research and Clinical Practice
+
+date: 2024-06-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the second episode of this miniseries, Professor Jocelyn Meza joins Podcasts contributor Danielle Cho to discuss her research and beliefs regarding youth-serving health care.
+
+
+Danielle Cho: In this interview, I talked with Professor Jocelyn Meza, an assistant professor in residence at the Department of Psychiatry and Biobehavioral Sciences at UCLA in the David Geffen School of Medicine, and also a licensed psychologist. 
+
+<https://dailybruin.com/2024/06/06/health-care-community-research-and-clinical-practice/>
+
+---
+
+## Bruin to Bruin: Melissa Berton
+
+date: 2024-06-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Melissa Berton, an Academy Award-winning producer, women&#8217;s rights advocate and UCLA alumnus, joins Podcasts contributor Kayla Hayempour. 
+
+Kayla Hayempour: Hello, and welcome to Bruin to Bruin. 
+
+<https://dailybruin.com/2024/06/06/bruin-to-bruin-melissa-berton/>
 
 ---
 
@@ -21,7 +146,7 @@ date: 2024-06-06, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## West Hollywood pride celebrations bring together LGBTQ+ community
+## West Hollywood Pride celebrations bring together LGBTQ+ community
 
 date: 2024-06-06, from: The Daily Bruin (UCLA Student Newspaper)
 
@@ -49,7 +174,7 @@ date: 2024-06-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-06-06, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated June 5 at 10:15 p.m.</em>
+<em>This post was updated June 6 at 2:32 p.m.</em>
 UCLA’s time in the Pac-12 has nearly reached its end, as its official entrance to the Big Ten is just under two months away. 
 
 <https://dailybruin.com/2024/06/05/battle-of-the-senior-staff-ucla-athletics-best-pac-12-moments-this-century/>

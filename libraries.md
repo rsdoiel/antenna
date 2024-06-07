@@ -1,11 +1,45 @@
 ---
 title: libraries 2024.23
-updated: 2024-06-06 09:04:46
+updated: 2024-06-07 08:27:13
 ---
 
 # libraries 2024.23
 
-(date: 2024-06-06 09:04:46)
+(date: 2024-06-07 08:27:13)
+
+---
+
+## The Open University of Brazil in the management of student permanence in Pedagogy courses
+
+date: 2024-06-07, from: SciELO in Perspective
+
+<p>The growth of distance education (<em>Educação a Distância, EaD</em>) in Brazil, coupled with the high dropout rates in this modality, brings with it the need to renew school management models, with the aim of keeping students until they graduate. Based on an analysis of the Pedagogy courses at the Open University of Brazil, researchers have developed alternative guidelines to guarantee student retention.  <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://humanas.blog.scielo.org/en/2024/06/07/the-open-university-of-brazil-in-the-management-of-student-permanence-in-pedagogy-courses/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://humanas.blog.scielo.org/en/2024/06/07/the-open-university-of-brazil-in-the-management-of-student-permanence-in-pedagogy-courses/#new_tab">The Open University of Brazil in the management of student permanence in Pedagogy courses</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://humanas.blog.scielo.org/en/2024/06/07/the-open-university-of-brazil-in-the-management-of-student-permanence-in-pedagogy-courses/#new_tab>
+
+---
+
+## How Do Dogs See the World?
+
+date: 2024-06-07, from: Scholarly Kitchen
+
+<p>What does the research tell us about how dogs see the world?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/06/07/how-do-dogs-see-the-world/">How Do Dogs See the World?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/06/07/how-do-dogs-see-the-world/>
+
+---
+
+## Web platform can revolutionize the essay correction process
+
+date: 2024-06-06, from: SciELO in Perspective
+
+<p>In search of an alternative to the laborious process of correcting essays, more specifically regarding identifying deviations from the theme in essays, researchers have developed a text feedback platform that simulates the National High School Examination (<em>Exame Nacional do Ensino Médio, ENEM</em>) guidelines and grades, the Corrector of Essays by Artificial Intelligence (<em>Corretor de Redações por Inteligência Artificial, CRIA</em>). The tool is already being used by students and education professionals. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://humanas.blog.scielo.org/en/2024/06/06/web-platform-can-revolutionize-the-essay-correction-process/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://humanas.blog.scielo.org/en/2024/06/06/web-platform-can-revolutionize-the-essay-correction-process/#new_tab">Web platform can revolutionize the essay correction process</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://humanas.blog.scielo.org/en/2024/06/06/web-platform-can-revolutionize-the-essay-correction-process/#new_tab>
 
 ---
 
@@ -90,7 +124,7 @@ date: 2024-06-05, from: Scholarly Kitchen
 
 date: 2024-06-04, from: Association of Research Libraries News
 
-<p>Last Updated on June 5, 2024, 4:21 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 4 &#124; Wednesday, June 5 &#124; Thursday,...</p>
+<p>Last Updated on June 7, 2024, 8:17 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 4 &#124; Wednesday, June 5 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-june-3-6/">Day in Review (June 3–6)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

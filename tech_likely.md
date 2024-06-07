@@ -1,11 +1,619 @@
 ---
 title: tech likely 2024.23
-updated: 2024-06-06 09:04:46
+updated: 2024-06-07 08:27:13
 ---
 
 # tech likely 2024.23
 
-(date: 2024-06-06 09:04:46)
+(date: 2024-06-07 08:27:13)
+
+---
+
+## 2024-06-07 Leukerbad
+
+date: 2024-06-07, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-07-leukerbad">2024-06-07 Leukerbad</h1>
+
+<p>Visiting the Swiss Alps inorder to meet family tomorrow.</p>
+
+<p>Looking towards Sion from the bus from Leuk to Leukerbad.</p>
+
+<p><img loading="lazy" src="2024-06-07-leukerbad-1.jpg" alt="" /></p>
+
+<p>Sadly, it rains.</p>
+
+<p><img loading="lazy" src="2024-06-07-leukerbad-2.jpg" alt="" /></p>
+
+<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<https://alexschroeder.ch/view/2024-06-07-leukerbad>
+
+---
+
+## The misguided backlash against California’s SB-1047
+
+date: 2024-06-07, from: Gary Marcus blog
+
+State Senator Scott Wiener and others in California have proposed a bill, SB-1047m that would some modest (to my taste) restraints on AI. It doesn&#8217;t call for a private right of action, which would allow individual citizens to sue AI companies for a wide set of reasons; it doesn&#8217;t call for ban on training or deploying AI, not even the kind of extremely large language models some called for ban on. It certainly doesn&#8217;t call for a ban on research, The most stringent rules don&#8217;t even apply to training runs that cost less than a $100 million dollars, exempting all or nearly all academic research, and most of what smaller and even medium-sized startups could afford. It doesn&#8217;t call for the state to make decisions about what can be deployed, as an FDA-like approval process for drugs does. 
+
+<https://garymarcus.substack.com/p/the-misguided-backlash-against-californias>
+
+---
+
+## Quick out-of-the-box BSD support for the Topton GM1
+
+date: 2024-06-07, from: OS News
+
+I bought a Topton GM1 Industrial Mini PC for my HomeLab. It is aimed at running Slackware Linux but I wanted to have a quick look at how well BSD OSes support it out-of-the-box. ↫ Joel Carnat That&#8217;s really all there&#8217;s to this story. I just really, really love tiny industrial and office computers and thin clients, and every time I see another one for sale I really have to stop myself from buying one I have absolutely no use for. There&#8217;s just something about how these little guys are built that speaks to me &#8211; they&#8217;re different than regular PCs, but only marginally so, making them fun to play around with, getting drivers for everything, seeing if Linux and BSD have any issues with it, and so on. They&#8217;re also often fanless, which is a major boon. The Dell thin client I wrote about last week has been run through a gauntlet of operating systems to see just how capable it is, and I&#8217;m surprise by just how much you can do even with a pedestrian Pentium Silver. For now it&#8217;s running Fedora GNOME to get an idea how the most default of default Linux environments performs and feels &#8211; so I can include it in future articles about it &#8211; but I think I&#8217;m going to set it up as a retrogaming console using Batocera. Industrial, office, and thin client computers are just fun to play around with, and they&#8217;re incredibly cheap when buying used. If things like a Raspberry Pi are hard to get, backordered, or overpriced due to demand outstripping supply, it&#8217;s definitely a good idea to see if you can find some cast-off thin client or whatever for your project instead. 
+
+<https://www.osnews.com/story/139905/quick-out-of-the-box-bsd-support-for-the-topton-gm1/>
+
+---
+
+## Microsoft blocks Windows 11 workaround that enabled local accounts
+
+date: 2024-06-07, from: OS News
+
+Before PC users can enjoy everything Windows 11 has on tap, they must first enter an e-mail address that’s linked to a Microsoft account. If you don’t have one, you’ll be asked to create one before you can start setting it up. A frequently used trick to circumvent this block is a small but ingenious step. By entering a random e-mail address and password, which doesn’t exist and causes the link to fail, you end up directly with the creation of a local account and can thus avoid creating an official account with Microsoft. ↫ Laura Pippig at PCWorld Microsoft has now &#8220;fixed&#8221; this trick, and it&#8217;s no longer possible to use it. The other popular method of circumventing the Microsoft account requirement, by opening the command prompt during installation and running OOBE\BYPASSNRO, still works, but one has to wonder how long it&#8217;s going to take before Microsoft plugs that method, too. It seems the company is hell-bent on getting every consumer onto the Microsoft Account train, come hell or high water, so I wouldn&#8217;t be surprised seeing local accounts eventually being positioned as a &#8220;pro&#8221; or even &#8220;enterprise&#8221; feature that will simply no longer be available on consumer PCs. I don&#8217;t think there&#8217;s anything inherently wrong with offering an online account option, but the keyword here is option. You should always be able to set up any computer to run with a regular old local account, even if only because internet access isn&#8217;t always a given in many places around the world. Add the obvious privacy concerns to that &#8211; an issue amplified by Recall &#8211; and I doubt users&#8217; desire to run a local account and jump through hoops to do so will fade any time soon. 
+
+<https://www.osnews.com/story/139903/microsoft-blocks-windows-11-workaround-that-enabled-local-accounts/>
+
+---
+
+## In Highly Connected Networks, There’s Always a Loop
+
+date: 2024-06-07, from: Quanta Magazine
+
+Mathematicians show that graphs of a certain common type must contain a route that visits each point exactly once.            <p>The post <a href="https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/" target="_blank">In Highly Connected Networks, There&#8217;s Always a Loop</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/>
+
+---
+
+## SERVIR Co-hosts Regional Workshop on Inclusive Climate Action
+
+date: 2024-06-07, from: NASA breaking news
+
+From 2/12-16/24, representatives of SERVIR&#8217;s Science Coordination Office participated in an Inclusive Climate Action Workshop in Chiang Mai, Thailand. Hosted by SERVIR&#8217;s Southeast Asia program, along with USAID, the Asian Disaster Preparedness Center, and the World Wildlife Fund, the event was organized as a space to exchange ideas on how Earth and climate information can [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/servir-co-hosts-regional-workshop-on-inclusive-climate-action/>
+
+---
+
+## NASA Invites Media to Watch Agency’s Break the Ice Lunar Challenge Final Phase
+
+date: 2024-06-07, from: NASA breaking news
+
+NASA will announce the winners of the final phase of its Break the Ice Lunar Challenge on Wednesday, June 12 at Alabama A&#38;M University’s (AAMU) Agribition Center in Huntsville, Alabama. The challenge aims to develop new technologies that could support a sustained human presence on the Moon by the end of the decade. Media and [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-watch-agencys-break-the-ice-lunar-challenge-final-phase/>
+
+---
+
+## SPoRT Undertakes New Collaboration with the United Nations (U.N.) Satellite Centre
+
+date: 2024-06-07, from: NASA breaking news
+
+Patrick Duran and Anita LeRoy (ST11) met with Samir Belabbes from the United Nations Institute for Training and Research to investigate ways for SPoRT to provide NASA remote sensing products to the UN Satellite Centre. The new collaboration springs from a presentation given by Belabbes at last year’s Joint Applications Workshop of NASA’s CYGNSS and [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/marshall-science-research-and-projects/sport-undertakes-new-collaboration-with-the-united-nations-u-n-satellite-centre/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-07, from: Miguel de Icaza Mastondon feed)
+
+<p>Last minute WWDC request, this should not take Apple engineers more than a few minutes to implement, so if they come together, it can still make it into the keynote.</p><p>Search option on the Journal app.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112575608600491720>
+
+---
+
+## An internet for writers
+
+date: 2024-06-07, from: Dave Winer's Scripting News
+
+<p>The next step in online social media will be group blogs that support the APIs needed to integrate with not only the Fediverse, but other non-AP services that have their own APIs. Each one will have a theme, a voice, not all writers in agreement of course, but sharing a similar perspective, context, point of view.</p>
+ 
+
+<http://scripting.com/2024/06/07/133218.html?title=anInternetForWriters>
+
+---
+
+## That’s a Lot of Rowing
+
+date: 2024-06-07, updated: 2024-06-07, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/06/07/thats-a-lot-of-rowing/>
+
+---
+
+## 2024-06-06 Learning to be a programmer
+
+date: 2024-06-07, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-06-learning-to-be-a-programmer">2024-06-06 Learning to be a programmer</h1>
+
+<p>I was talking with <a class="account" href="https://merveilles.town/@akkartik" title="@akkartik@merveilles.town">@akkartik</a> and <a class="account" href="https://mas.to/@TodePond" title="@TodePond@mas.to">@TodePond</a> about programming.</p>
+
+<p><a class="account" href="https://mas.to/@TodePond" title="@TodePond@mas.to">@TodePond</a> got me thinking about communities around programming when they wrote:</p>
+
+<blockquote>
+<p>the problem i see is that no one is talking to each other. everyone is trying to build their solutions in isolation - as island communities. in my opinion we shouldnt build anything new, we should try to make compatible the mindsets and tools that we already have. its an extreme viewpoint but i see no one else taking it, so im taking it.</p>
+</blockquote>
+
+<p>I can definitely see many people writing their own software and many more people using existing software and never adapting it. I do it, too!</p>
+
+<p>To put a really hurtful spin onto it: we rarely sit next to a newbie using our software. I never do. Never. We should listen to them muttering to themselves for the first four hours. The bugs they attribute to their own incompetence; the confusing usability issues they never report… and now imagine sitting next to a newbie looking at our code, trying to find their way. No comments. No helpful guides. The code is the best documentation, some people say. I guess they haven&rsquo;t seen my code. All those readability refactors I didn’t do. All these questions nobody ever asked me. People look at the code and don’t come back.</p>
+
+<p>Those are my free software nightmares when I look at all the things I’ve written with a community of one. 😳</p>
+
+<p>Anyway, I guess what I want to say: if you feel like you write free software for others but nobody joins your community, you are not alone. We are all together in this, alone. 😥</p>
+
+<p>I think the reason for this has to do with how hard it is to understand code by just reading it instead of writing. It’s super hard to get into another code base. And it is hard to write code such that it is a welcoming ramp up. I’d say Emacs is one of the examples where it worked but we don’t actually know whether the approach is “good”. I certainly used Emacs for a year or two before writing my own init file way back when.</p>
+
+<p>I&rsquo;m not sure which parts enable it and I&rsquo;m not sure if having more of the same would result in more programmers modifying the code and sharing their modifications.</p>
+
+<ul>
+<li>Good documentation of the programming language, Emacs Lisp</li>
+<li>Good documentation of the software itself, Emacs</li>
+<li>Good documentation of the code, with documentation strings and comments throughout the code base</li>
+</ul>
+
+<p>Nearly every function is documented, nearly every global variable is documented, the concepts are documented in the manual, the language is documented in the manual – it&rsquo;s a gigantic group effort to build that ramp.</p>
+
+<p>I think this is how you get started modifying Emacs: with an init file that customizes some part of it.</p>
+
+<p>That reminds me of the post by Peter Seibel (2014) that I recently saw linked in my feed:</p>
+
+<blockquote>
+<p>It was sometime after that presentation that I finally realized the obvious: code is not literature. We don’t read code, we decode it. We examine it. A piece of code is not literature; it is a specimen. Knuth said something that should have pointed me down this track when I asked him about his own code reading: … He’s not describing reading literature; he’s describing a scientific investigation.&rdquo; – <a href="https://gigamonkeys.com/code-reading/">Code is not literature</a></p>
+</blockquote>
+
+<p>I feel this is how I approach new code: find a tiny task and see whether I can make that change. Usually this requires building the code, searching the best location, learning about the code style, investigating the libraries used, and so on. There are many strings attached.</p>
+
+<p>I don&rsquo;t know how else to do it.</p>
+
+<p>The same is true at the office. Our code base is about four million lines of code. Newbies get assigned small issues to fix and need to ask a gazillion questions and that&rsquo;s how they learn.</p>
+
+<p>If only there were a better way. If there is, I don&rsquo;t know it.</p>
+
+<p><a class="account" href="https://merveilles.town/@akkartik" title="@akkartik@merveilles.town">@akkartik</a> linked a guest post on their blog (2018):</p>
+
+<blockquote>
+<p>We all read code already; it’s just that we usually read when we want to edit. And the <em>comprehension</em> that questions about reading are really concerned with—it comes from both reading and writing, interleaved in complex ways. That hacking produces better comprehension than passive, linear reading fits with what we know about learning. – <a href="https://akkartik.name/post/comprehension">Nobody&rsquo;s just reading your code</a>, by <a href="https://stephenmalina.com/">Stephen Malina</a></p>
+</blockquote>
+
+<p><a class="account" href="https://merveilles.town/@akkartik" title="@akkartik@merveilles.town">@akkartik</a> summary of our little interchange gives me pause:</p>
+
+<blockquote>
+<p>We live in a world where everybody is illiterate, unable to read computer programs. Everybody. A tiny minority can <em>write</em> programs, but even they can&rsquo;t read programs written by others without 1000x effort. They/we oppress the rest.</p>
+</blockquote>
+
+<p>Indeed, how not to be part of this, I wonder.</p>
+
+<p><a class="tag" href="/search/?q=%23Programming">#Programming</a></p>
+
+<p><strong>2024-06-07</strong>. <a class="account" href="https://idiomdrottning.org/users/Sandra" title="@Sandra@idiomdrottning.org">@Sandra</a> says:</p>
+
+<blockquote>
+<p>I think “programming for the household” is actually awesome. Automating our <em>own</em> lives, autonomously, not squeezing our lives into someone else’s automation. – <a href="https://idiomdrottning.org/code-for-yourself">There’s no shame in programming for yourself</a></p>
+</blockquote> 
+
+<https://alexschroeder.ch/view/2024-06-06-programming>
+
+---
+
+## Imagining students’ progression in the era of generative AI
+
+date: 2024-06-07, from: Raspberry Pi (.org)
+
+<p>Generative artificial intelligence (AI) tools are becoming more easily accessible to learners and educators, and increasingly better at generating code solutions to programming tasks, code explanations, computing lesson plans, and other learning resources. This raises many questions for educators in terms of what and how we teach students about computing and AI, and AI’s impact&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/students-progression-generative-ai-computing-education-brett-becker/">Imagining students&#8217; progression in the era of generative AI</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/students-progression-generative-ai-computing-education-brett-becker/>
+
+---
+
+## The Republican Party has belonged to Trump for a long time
+
+date: 2024-06-07, from: Dave Karpf's blog
+
+Ruminating on the timescale of the past eight years. 
+
+<https://davekarpf.substack.com/p/on-trumpism-as-normal-times>
+
+---
+
+## P&B: JF Martin
+
+date: 2024-06-07, from: Manu - I write blog
+
+
+                <p>This is the 41st edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have JF Martin and his blog, <a href="https://blog.numericcitizen.me">blog.numericcitizen.me</a></p>
+<p>To follow this series <a href="https://peopleandblogs.com">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed">RSS feed</a>.</p>
+<p>If you're enjoying the People and Blogs series and you want to see it grow, consider supporting on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a>.</p>
+<hr />
+<h2>Let's start from the basics: can you introduce yourself?</h2>
+<p>My name is JF Martin, a.k.a. Numeric Citizen in the digital space. I'm 56 years old. I live in Montreal, Canada. I’m a French Canadian. I have a master’s degree in computer science (1993). My research field was user experience and user interface quality assessment. I credit my passion for Apple for this choice of research field because at that time, in 1990-1993, there was a hot debate about which was better, the PC or the Mac, and I advocated for better user interfaces. I’ve been working in the information technology field for thirty years. I wrote about that <a href="https://numericcitizen.me/celebrating-reflecting-on-my-30-years-career-in-it/">here</a>. My first job was to work for an Apple dealer. I eventually moved to a more traditional IT type of work, doing things in IT infrastructures, first with PC deployments in small and medium enterprises, then in data center related technologies deployment and management.</p>
+<p>Apple played a significant influence in my life since 1983. I have always preferred creative people and Apple has attracted them more than any other computer brand. I always felt at home in this user community, even though I'm a rather analytic guy professionally. Yet, I consider myself a compulsive creator. Creating something has always been part of my life. When I was a young boy, I was building something with Legos. Then, it was replaced with photography. Then, computers came to my life, first with a Commodore and then with an Apple Macintosh in 1985. Since then, computers, i.e. the Mac, the iPad, have always been central to any creative project. One of them being an indie iOS developer from 2009 to 2013 when I was developing apps for the iPhone. Since then, I mostly spend my time as a blogger and a writer. Photography is also one of my creative hobbies, and you can find my work here on <a href="https://pixelfed.social/numericcitizen">Pixelfed</a> and <a href="https://glass.photo/numericcitizen">Glass</a>. </p>
+<h2>What's the story behind your blog?</h2>
+<p>First, let’s clear something out of the way: using the Numeric Citizen name. To me, Numeric Citizen was evocative of a citizen living in cyberspace, sharing things with it, learning things from it, etc. I thought it was a good parallel with real-world citizenship. But eventually, I found out that in English, the more frequent word for this would have been “Digital Citizen”, but I couldn’t get the right domain name for it, and it was too late, so I decided to keep the Numeric Citizen moniker.</p>
+<p>Now, about my blog. Well, I have a few blogs and websites. Four, to be precise. But let’s go back in time. In 1994, I had a Mac and created a website about meteorology. It was a science-related educative project. This lasted a couple of years. Next, in 2006, I experimented with Apple iWeb, part of the iLife suite. Sadly, I can’t remember what my website was about, but I do remember that I preferred the version of Apple where RSS was still a thing in Safari and iWeb let anyone own a blog for a MobileMe subscription. It’s too bad that Apple dropped iWeb.</p>
+<p>I started blogging in 2009 using Google’s Blogger platform. This time, it was about sharing my experiences and discoveries while developing apps for the iPhone. Eventually, I stopped doing that and kept the blog running until 2013. That was it for Blogger. Then, in 2015, I went back to blogging, this time on <a href="http://wordpress.com/">WordPress.com</a>, and it was a more general-purpose blog where I was sharing my thoughts about Apple, among other things. Since then, I’ve been writing about Apple, technology, and photography. Last year, I completed a migration out of <a href="http://wordpress.com/">WordPress.com</a> to <a href="http://ghost.org/">Ghost.org</a>. I couldn’t be happier. Ghost is much simpler to use and manage (no plugins!). But that’s not all. Starting in 2018, I opened a blog on Micro.blog. Since then, I’ve been blogging regularly, and I love it. My website on Ghost is more dedicated to long-form articles, which require more research and writing work. My blog on Micro.blog is about sharing short thoughts and comments about the same subjects. </p>
+<p>I often consider myself a digital nomad (or a numeric nomad?). I frequently try different things and don’t hesitate to move from one place to another if I see better value and functionality. Last year, I was really on the move, but I think I will settle for a while once I finish my migration from SmugMug to PixelFed.</p>
+<h2>What does your creative process look like when it comes to blogging?</h2>
+<p>I’m a highly iterative type of guy. I rarely start writing an article and finish it in one stretch. It’s way too demanding for me. I have a few parallel ongoing research and writing projects and do round-robin writing across them. I'm using Craft Docs for most of my writing needs, an app I love dearly. I developed a rather sophisticated template for my research needs. This template helps me organize my research and support my writing efforts with Craft. When I’m ready to publish, I export to Ulysses, do the final proofing using Grammarly, select the destination and hit publish. I wish I could do all this from Craft, but it’s currently impossible.</p>
+<p>Inspiration comes without warning. I often go for a walk and think about so many things. I usually come back with an idea about a new article or a tweak to my creative workflows and start working on it as soon as possible. My creative hobby is what makes me thrive in life. Without it, the last three years with the COVID pandemic would have been so hard on me.</p>
+<p>I write a lot about my creative process and the tools that I use all the time. Occasionally, I’ll share an update about my creative workflow when there are enough changes to it. You can read about my last update right <a href="https://world.numericcitizen.io/content-creator-workflow-update-as-of-2023-11">here</a>. These articles are posted on what I call: a blog about blogging. It is currently available as a series of shared documents built-in Craft, but I recently started re-publishing them on a <a href="https://meta.numericcitizen.me/">new Micro.blog website</a> so that I could let people follow my updates using RSS, which Craft doesn't support.</p>
+<h2>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</h2>
+<p>My creative environment is relatively simple: my home. I do like to go to coffee shops. I <a href="https://numericcitizen.me/on-creative-work-in-a-coffee-shop/">wrote about these</a>.  I also love to write on my terrasse outside during summer. Bird noises and the wind are indeed delightful while writing. The best triggers for my creativity come down to the time of the day. I love working early in the morning and during the weekends. At night or late in the evening, I’m less into it and find it hard to focus. One thing is clear: many of my ideas come when I do something other than creating, like while taking a walk or... taking my shower. 😅</p>
+<h2>A question for the techie readers: can you run us through your tech stack?</h2>
+<p>I depend on three hosting solutions: Ghost, Micro.blog, and Craft Docs. I don’t self-host anything. I don’t have time for that (and I’m probably too old, too). At some point, I contemplated the idea of self-hosting a Hugo instance, but when I started to dig a bit into Hugo’s inner workings, I quickly changed my mind. I’m a « SaaS » type of guy, I guess. </p>
+<p>My main domain name is “<a href="http://numericcitizen.me/">numericcitizen.me</a>” and I use a subdomain for each of my publishing space or “channel”. Publishing on Ghost goes to “<a href="http://numericcitizen.me/">numericcitizen.me</a>”, but sharing on Micro.blog goes to <a href="https://blog.numericcitizen.me/">blog.numericcitizen.me</a> while my metablog goes to <a href="https://meta.numericcitizen.me/">meta.numericcitizen.me</a>. Photos shared on Pixelfed photos can be seen by visiting <a href="https://photos.numericcitizen.me/">photos.numericcitizen.me</a>.You get the idea. I have so many small websites (too many?) and so I created a hub page that can be reached via, you guessed it, <a href="https://hub.numericcitizen.me/">hub.numericicitizen.me</a>. The latter is hosted on Micro.blog.</p>
+<p>But what about newsletters for those who prefer the email experience? I tried Substack and was happy with it until I wasn’t. I tried Buttondown but eventually settled on Ghost. It was one of the many reasons I decided to leave WordPress behind. Under Substack, I used to have the <a href="https://numericcitizen.me/numeric-citizen-introspection-24/">Introspection newsletter</a>, which wasn't about introspection but rather a collection of thoughts and links divided into sections. I stopped publishing this newsletter in September 2022. One year later, I started a new one covering <a href="https://numericcitizen.me/my-weekly-creative-summary-for-the-week-of-2024-08/">my creative week</a>. And I hope to continue publishing this one for a long time because of the pleasure I get while putting it together.</p>
+<h2>Given your experience, if you were to start a blog today, would you do anything differently?</h2>
+<p>It’s a hard question. We can always do things differently but the way I see it is simple: my current state is essentially the culmination of all my past experiences, good or bad. It’s an infinite learning process, always feeding the future “me”. </p>
+<p>I often wonder if a single “big” website would be better than having so many small ones. I could achieve similar results by using categories and tags with each post. But in the end, I prefer dedicated and more focused but connected silos.</p>
+<p>Regarding RSS feeds, I wish I had known about FeedPress earlier so that my readers wouldn’t have to change their subscriptions each time I moved my stuff from one place to another. It’s a great way to centralize feeds from different places where I publish content. Someone can subscribe to my megafeed to see everything I share online.</p>
+<p>I wish I had done one thing: each time I made a significant design change to one of my websites or moved from one platform to another, I wish I had kept a screenshot of the previous design. I don't have a visual memory of my journey as a blogger. I find this a bit sad. </p>
+<p>And yes, I still prefer Digital Citizen over Numeric Citizen. 🤷🏻‍♂️</p>
+<h2>Financial question since the web is obsessed with money: how much does it cost to run your blog? Is it just a cost or does it generate some revenue? And what's your position on people monetising personal blogs?</h2>
+<p>Ghost isn’t exactly cheap (300$ per year), but their support is stellar. Micro.blog is a bargain (120$ per year) for everything you get. Craft is rather a cheap option, too (at 116$ per year) if you do more than note-taking with it, which I do. All in all, if you do the math, my online presence comes at a cost. I’ll let you do the math. I didn’t count domain name registration and other stuff like apps and other services making <a href="https://world.numericcitizen.io/meta-toolset">my digital toolset</a>. You can see the full details right <a href="https://crafted.numericcitizen.me/current-subscriptions">here</a>, on my “Subscriptions" page. </p>
+<p>Now, I want to share a few words about monetization possibilities. I have tried many times, and it’s tough. Over the years, I slowly learned that when someone shows support with a subscription to my website or sends me money, I consider this a gift. Visitors to my main website on Ghost can subscribe for free or pay a small fee to show appreciation. That’s about it. I don’t make money with my YouTube channel because I haven’t met the requirements yet. I'm looking to make money there. I did receive some money via PayPal once or twice. I wasn't expecting that. It's cool. I said a big thank you. </p>
+<h2>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</h2>
+<p>I think you should give a try with <a href="https://maique.eu/about/">Maique</a>. He’s from Portugal. He is passionate about photography and shares a lot of creative content on different platforms, mostly open ones. I think he could share a lot as a blogger who constantly tries new things. We're cosmic brothers.</p>
+<h2>Final question: is there anything you want to share with us?</h2>
+<p>Oh, did I mention my YouTube channel? It’s a complement to my blogs. I know I’m spread everywhere, but it is still manageable. You can find it <a href="https://www.youtube.com/c/numericcitizenvideos">here</a>. I also have a podcast because I wanted to test the medium, and I quite like it, too, but I don’t produce new episodes often enough. And yes, I’m an amateur photographer with a Glass <a href="https://glass.photo/numericcitizen">profile</a>. I don’t read books. I don’t play games, but I prefer experimenting with modern media (words, audio, video, images).</p>
+<p>This text was written using my brain and an iterative process on recycled electrons. 🤓 Thanks for having me on People &amp; Blog series!</p>
+<hr />
+<p>This was the 41st edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Num C. Make sure to <a href="https://blog.numericcitizen.me">follow his blog</a> (<a href="https://blog.numericcitizen.me/feed.json">RSS</a>) and get in touch with him if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a> and all supporters will be listed here as well as on the <a href="https://peopleandblogs.com">official site</a> of the newsletter.</p>
+<p><a href="https://www.thingelstad.com">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml">RSS</a>) — <a href="https://some.studio">Piet Terheyden</a> — <a href="https://minim.blog">Raul Montala</a> (<a href="http://github.com/rmontala/minim/commits.atom">RSS</a>) — Eleonora — <a href="https://carlbarenbrug.com">Carl Barenbrug</a> (<a href="https://carlbarenbrug.com/feed/rss">RSS</a>) — <a href="https://tangiblelife.net">Steve Ledlow</a> (<a href="https://tangiblelife.net/feed.rss">RSS</a>) — <a href="https://www.feadin.eu">Paolo Ruggeri</a> (<a href="https://www.feadin.eu/en/posts/index.xml">RSS</a>) — <a href="https://thejollyteapot.com">Nicolas Magand</a> (<a href="https://thejollyteapot.com/feed.rss">RSS</a>) — <a href="https://robhope.com">Rob Hope</a> — <a href="https://chrishannah.me">Chris Hannah</a> (<a href="https://chrishannah.me/index.xml">RSS</a>) — <a href="https://blog.pcora.eu">Pedro Corá</a> (<a href="https://blog.pcora.eu/feed.xml">RSS</a>) — <a href="https://colinwalker.blog/">Colin Walker</a> (<a href="https://colinwalker.blog/dailyfeed.xml">RSS</a>) — <a href="https://softlandings.world/">Sixian Lim</a> (<a href="https://www.softlandings.world/feed.rss">RSS</a>) — <a href="https://mattstein.com">Matt Stein</a> (<a href="https://mattstein.com/rss.xml">RSS</a>) — <a href="https://winnielim.org">Winnie Lim</a> (<a href="https://winnielim.org/feed/">RSS</a>) — <a href="https://flamedfury.com/">Flamed</a> (<a href="https://flamedfury.com/feed.xml/">RSS</a>) — <a href="https://skyhold.org">C Jackdaw</a> (<a href="https://journal.miso.town/atom?url=https://skyhold.org/index.html">RSS</a>) — <a href="https://tiv.today">Kevin Humdrum</a> (<a href="https://tiv.today/feed.rss">RSS</a>) — <a href="https://www.doc.cc/">Fabricio Teixeira</a> (<a href="https://www.doc.cc/feed.xml">RSS</a>) — <a href="https://rosalindcroad.com">Rosalind Croad</a> — <a href="https://frankmeeuwsen.com">Frank Meeuwsen</a> (<a href="https://frankmeeuwsen.com/feed.xml">RSS</a>) — <a href="https://www.elmike.me">Mike Walsh</a> (<a href="https://www.elmike.me/feed.xml">RSS</a>) — <a href="https://www.byzero.de/">Markus Heurung</a> — <a href="https://cleverlaziness.xyz/">Juan Villela</a> (<a href="https://cleverlaziness.xyz/posts/index.xml">RSS</a>) — <a href="https://mwarrenarts.com/">Michael Warren</a> (<a href="https://mwarrenarts.com/rss">RSS</a>) — <a href="https://cagrimmett.com/">Chuck Grimmett</a> (<a href="https://cagrimmett.com/feed">RSS</a>) — <a href="https://eatweeds.co.uk">Robin Harford</a> (<a href="https://www.eatweeds.co.uk/feed/">RSS</a>) — <a href="https://bryanmanio.com/">Bryan Maniotakis</a> (<a href="https://bryanmanio.com/feed/">RSS</a>) — <a href="https://bjhess.com/">Barry Hess</a> (<a href="https://bjhess.com/posts_feed">RSS</a>) — <a href="https://chrisjung.xyz">Chris Jung</a> (<a href="https://chrisjung.xyz/feed/rss">RSS</a>) — <a href="https://ivanmoreale.com">Ivan Moreale</a> — <a href="https://islandinthenet.com">Khürt Williams</a> (<a href="https://islandinthenet.com/feed/">RSS</a>) — <a href="https://werd.io/">Ben Werdmuller</a> (<a href="https://werd.io/feed">RSS</a>) — <a href="https://corygibbons.com">Cory Gibbons</a> — <a href="https://www.lkhrs.com/">Luke Harris</a> (<a href="https://www.lkhrs.com/blog/index.xml">RSS</a>) — <a href="https://lars-christian.com/">Lars-Christian Simonsen</a> (<a href="https://lars-christian.com/feed/">RSS</a>) — <a href="https://sethw.xyz">Seth Werkheiser</a> (<a href="https://sethw.xyz/feed/">RSS</a>) — <a href="https://www.codyschultz.com">Cody Schultz</a> — <a href="https://bradbarrish.com">Brad Barrish</a> (<a href="https://bradbarrish.com/feed/">RSS</a>) — <a href="https://galaiko.rocks">Nikita Galaiko</a> — Erik Blankvoort — <a href="https://jagasantagostino.com">Jaga Santagostino</a> — <a href="https://andzuck.com/">Andrew Zuckerman</a> — <a href="https://www.mattiacompagnucci.com">Mattia Compagnucci</a> (<a href="https://mattiacompagnucci.com/feed.rss">RSS</a>) — <a href="https://tdh.se/">Thord D. Hedengren</a> (<a href="https://tdh.se/feed/feed.xml">RSS</a>) — <a href="https://fabiensauser.ch">Fabien Sauser</a> (<a href="https://fabiensauser.ch/index.xml">RSS</a>) — <a href="http://dizzard.net/">Maxwell Omdal</a> — <a href="https://numericcitizen.me">Numeric Citizen</a> (<a href="https://feedpress.me/numericcitizen-feeds.xml?ref=numericcitizen.me">RSS</a>) — <a href="https://heydingus.net">Jarrod Blundy</a> (<a href="https://heydingus.net/feeds">RSS</a>) — <a href="https://gwtf.it">Andrea Contino</a> (<a href="https://gwtf.it/feed">RSS</a>) — <a href="https://sebastiandedeyne.com/">Sebastian De Deyne</a> (<a href="https://sebastiandedeyne.com/index.xml">RSS</a>) — <a href="https://koolinus.net/blog/">Nicola Losito</a> (<a href="https://koolinus.net/blog/feed/">RSS</a>) — <a href="https://amerpie.lol/">Lou Plummer</a> (<a href="https://amerpie.lol/feed.xml">RSS</a>) — <a href="https://lmika.org/">Leon Mika</a> (<a href="https://lmika.org/feed.xml">RSS</a>) — <a href="http://veronique.ink">Veronique</a> (<a href="https://veronique.ink/feed/">RSS</a>) — <a href="https://surplusjouissance.com">Neil Gorman</a> (<a href="https://www.surplusjouissance.com/rss/">RSS</a>) — <a href="https://reaper.is/">Reaper</a> (<a href="https://reaper.is/rss.xml">RSS</a>) — <a href="https://www.mattrutherford.co.uk/">Matt Rutherford</a> (<a href="https://www.mattrutherford.co.uk/rss/">RSS</a>) — <a href="https://therealadam.com">Adam Keys</a> (<a href="https://therealadam.com/feed.xml">RSS</a>) — <a href="https://aleemshaun.com/">Aleem Ali</a> (<a href="https://aleemshaun.com/feed">RSS</a>) — <a href="https://www.ismailsevik.com/">İsmail Şevik</a> (<a href="https://www.ismailsevik.com/feeds/posts/default?alt=rss">RSS</a>) — <a href="https://nikkin.dev/">Nikkin</a> (<a href="https://nikkin.dev/feed.xml">RSS</a>) — <a href="https://jeremyfelt.com/">Jeremy Felt</a> (<a href="https://jeremyfelt.com/feed">RSS</a>) — <a href="https://hansfast.net">Hans</a> (<a href="https://hansfast.net/everything.rss">RSS</a>) — <a href="https://www.markpitblado.me/">Mark Pitblado</a> (<a href="https://www.markpitblado.me/feed.xml">RSS</a>) — <a href="https://www.morelightmorelight.com/">Matt Katz</a> (<a href="https://www.morelightmorelight.com/feed">RSS</a>) — <a href="https://iljapanic.com/">Ilja Panić</a> — <a href="https://odongo.pl">Emmanuel Odongo</a></p>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale">support on Ko-Fi</a>;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/I0hDG48jZInrUlAw>
+
+---
+
+## Genesis: the country and the city
+
+date: 2024-06-07, from: Ayjay blog
+
+Raymond Williams, in his great The Country and the City, shows how ancient this contrast is, and how standardized its terms are. The contrast is almost always between (a) the innocence and simplicity of the countryside and (b) the noisy corruption of the city. Juvenal begins his third Satire thus: Quid Romae faciam? mentiri nescio [&#8230;] 
+
+<https://blog.ayjay.org/genesis-the-country-and-the-city/>
+
+---
+
+## FLTK 1.4.x Weekly Snapshot (master)
+
+date: 2024-06-07, from: Fast Light Tool Kit
+
+A new weekly snapshot of FLTK 1.4.x (master) is now available 
+
+<https://www.fltk.org/articles.php?L1925>
+
+---
+
+## Hubble Examines a Barred Spiral’s Light
+
+date: 2024-06-07, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image features the barred spiral galaxy NGC 3059, which lies about 57 million light-years from Earth. Hubble’s Wide Field Camera 3 collected the data in May 2024 as part of an observing program that studied a number of galaxies. All of the observations used the same range of filters: partially […] 
+
+<https://science.nasa.gov/missions/hubble/hubble-examines-a-barred-spirals-light/>
+
+---
+
+## Apple’s Ancient Font Editor 2.0 App: Full Demo
+
+date: 2024-06-07, from: Tilde.news
+
+<p><a href="https://tilde.news/s/oizpxa/apple_s_ancient_font_editor_2_0_app_full">Comments</a></p> 
+
+<https://www.youtube.com/watch?v=rOwzfaTU0XA>
+
+---
+
+## Real-time and Core editions of Ubuntu arrive
+
+date: 2024-06-07, updated: 2024-06-07, from: Liam Proven's articles at the Register
+
+<h4>And it's time to upgrade any Mantic Minotaurs you have lying around</h4>
+      <p>Canonical has followed up the latest LTS release of Ubuntu with real-time and IoT editions, while ushering the last interim release into retirement.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/06/07/ubuntu_24_realtime_core/>
+
+---
+
+## Mermaid LED hair hides a tiny RP2040
+
+date: 2024-06-07, from: Raspberry Pi News (.com)
+
+<p>Maker Becky Stern combined her adoration of Princess Ariel and DIY tech expertise to create a glorious LED mermaid hair piece.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/mermaid-led-hair-hides-a-tiny-rp2040/">Mermaid LED hair hides a tiny RP2040</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/mermaid-led-hair-hides-a-tiny-rp2040/>
+
+---
+
+##  Every Kind of Bridge Explained in 15 Minutes 
+
+date: 2024-06-06, updated: 2024-06-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/every-kind-of-bridge-explained-in-15-minutes>
+
+---
+
+##  The trailer for When We Were Wizards: An Oral History of Dungeons... 
+
+date: 2024-06-06, updated: 2024-06-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044762-the-trailer-for-when-we>
+
+---
+
+##  A Shaded Relief Map of Manhattan 
+
+date: 2024-06-06, updated: 2024-06-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/a-shaded-relief-map-of-manhattan>
+
+---
+
+##  A UK research team has discovered that the more CO2 air contains,... 
+
+date: 2024-06-06, updated: 2024-06-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044761-a-uk-research-team-has>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-06, from: Dave Winer's Scripting News)
+
+More bad financial advice: "Give money to Trump! He needs your help! They're out to get him! You're next!" 
+
+<http://scripting.com/2024/06/06.html#a211011>
+
+---
+
+##  New album from Jamie xx, In Waves, is coming out on September... 
+
+date: 2024-06-06, updated: 2024-06-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044764-new-album-from-jamie-xx>
+
+---
+
+## NASA Awards Contracts for Acquisition of Liquid Nitrogen, Oxygen
+
+date: 2024-06-06, from: NASA breaking news
+
+NASA has awarded contracts to six companies to supply liquid nitrogen and liquid oxygen in support of operations at agency centers and facilities across the United States. The indefinite-delivery/fixed-price contract runs from Monday, July 1, 2024, through June 30, 2029. The awards and approximate maximum contract values are: The total maximum delivery of liquid nitrogen, [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-awards-contracts-for-acquisition-of-liquid-nitrogen-oxygen/>
+
+---
+
+## How to converse online
+
+date: 2024-06-06, from: Manu - I write blog
+
+
+                <p>The web is, at its core, a conversation tool. At least for the most part. You can have a conversation synchronously via chats and DMs, you can have a conversation semi-synchronously via posts on social media and forums, and you can have a conversation asynchronously using emails or blog posts. The vast majority of what’s happening on the web is a conversation of some sort.</p>
+<p>Over the past few weeks, this topic of online conversations managed to find its way over and over again in my brain. What’s the ideal workflow for a good online conversation? I’m currently typing these words and I’m talking to nobody. I don’t have an imaginary audience and I usually assume that nobody will read these words even though I know for a fact that some of you do. And yet, more often than not these posts I write end up being excellent conversation starters. But what’s the best way to have that conversation? I defaulted to email for pretty much all my interactions even though some people do ping me via Apple Messages every now and again. Is this arrangement ideal? Is email the best tool to have these conversations? I honestly don’t know. I do know that so far I haven’t found a better alternative.</p>
+<p>Is this workflow ideal? I write something, you read it on the site, in your RSS reader, or in your inbox, you send me an email, I reply to you and off we go? Those are a lot of steps and there’s substantial friction involved. You need to decide to send me an email, hunt for my email address, write something, and overcome the weirdness of sending an email to a stranger. It’s a lot. Wouldn’t it be a lot easier to leave a quick comment? Shouldn’t I have comments on my site? Well, no. Comments are easily one of the worst ways to have meaningful conversations online. I’m not saying it’s impossible to have a smart, thoughtful conversation in a comment section, I’m just saying it’s bloody hard. Comments are performative. You write knowing the other people will see your comment and so it’s not just a conversation between you and me. It’s a conversation between you, me, and the countless other people who will stumble on this page at any point in time.</p>
+<p>When it comes to conversations, the location matters. It matters in the real world and it matters in the digital world. Do you know how many people have sent me awful, nasty emails in the past 7 years, since I started this blog? Exactly zero. I’m aware that now that I said it someone will do it just to be the first but still, my point stands. Since an email is private people don’t usually bother because it takes time and effort and there’s no reward at the end. They won’t get to see my reaction, people won’t add a +1 to a like or a whatever to their comment. The private space of an email conversation matters, it matters a lot.</p>
+<p>Another thing that matters is intentions. I recently removed from this site the integration with webmention.io to receive webmentions from other sites. Why? Well, because as much as I like and approve the idea behind the concept of a webmention I also think that taking the time matters. Taking 20 seconds to send an email to say “Hey, I wrote something and I quoted something you wrote” has a lot more value in my world than configuring a server to automatically send a ping towards my server. I know most people won’t bother doing that and that’s fine. I honestly prefer to not know, I prefer to not receive all those automated pings and live in ignorance.</p>
+<p>I obviously don’t have an answer to the question I’m asking in this post. I don’t know what’s the best way to have a conversation online. What I do know is that a good conversation takes time and effort. It takes willingness to engage and it takes honesty. But they’re rewarding. Good conversations are incredibly rewarding. I encourage you to try. Try emailing the people behind the sites you read. Try to get in touch. See what happens. Most won’t reply, and that’s fine. It happens. But some will. And you never know what can happen.</p>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/RYtycIPIBuhww5um>
+
+---
+
+##  Download Free Coloring Books From Museums and Libraries 
+
+date: 2024-06-06, updated: 2024-06-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/download-free-coloring-books-from-museums-and-libraries>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-06, from: Miguel de Icaza Mastondon feed)
+
+<p>Stolen from Twitter</p> 
+
+<https://mastodon.social/@Migueldeicaza/112571110422501842>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-06, from: Miguel de Icaza Mastondon feed)
+
+<p>Everyone involved in making the SwiftUI @Observable macro come to life deserves a bonus this year.</p><p>Nothing, nothing has done more for my productivity than this.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112571108566231774>
+
+---
+
+## WWDC 2024 Wish Lists
+
+date: 2024-06-06, from: Michael Tsai
+
+I always want releases focused on bug fixes, but we all know that isn&#8217;t going to happen. If we&#8217;re dreaming big, how about something like virtual memory for iOS so that it stops losing my Safari tabs? Cihat G&#252;nd&#252;z: From a SportsKit API and .zoom modifier in SwiftUI, over improved SwiftData and source control in [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/06/wwdc-2024-wish-lists/>
+
+---
+
+##  Every Conversation Between Every Parent and Their Child After One Year of... 
+
+date: 2024-06-06, updated: 2024-06-06, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044740-every-conversation-betwee>
+
+---
+
+## Updated Adobe Terms of Use
+
+date: 2024-06-06, from: Michael Tsai
+
+Ben Lovejoy (via John C. Randolph): A change to Adobe terms &#38; conditions for apps like Photoshop has outraged many professional users, concerned that the company is claiming the right to access their content, use it freely, and even sub-licence it to others.The company is requiring users to agree to the new terms in order [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/06/updated-adobe-terms-of-use/>
+
+---
+
+## MarketplaceKit License Renewal Problems
+
+date: 2024-06-06, from: Michael Tsai
+
+Mysk: Several iOS apps installed from alternative marketplaces stopped working after some time. Some are grayed out and can&#8217;t be opened or deleted. Others crash on launch because MarketplaceKit can&#8217;t renew the license. How would users recover their data when apps end up like this? Oleksandr Bilous: Technically, apps doesn&#8217;t crash, they are just terminated [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/06/marketplacekit-license-renewal-problems/>
+
+---
+
+## Windows 11 Requires Microsoft Account
+
+date: 2024-06-06, from: Michael Tsai
+
+Laura Pippig (via Hacker News): Before PC users can enjoy everything Windows 11 has on tap, they must first enter an e-mail address that&#8217;s linked to a Microsoft account. If you don&#8217;t have one, you&#8217;ll be asked to create one before you can start setting it up. A frequently used trick to circumvent this block [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/06/windows-11-requires-microsoft-account/>
+
+---
+
+## Webb Finds Plethora of Carbon Molecules Around Young Star
+
+date: 2024-06-06, from: NASA breaking news
+
+An international team of astronomers has used NASA’s James Webb Space Telescope to study the disk of gas and dust around a young, very low-mass star. The results reveal the largest number of carbon-containing molecules seen to date in such a disk. These findings have implications for the potential composition of any planets that might […] 
+
+<https://science.nasa.gov/missions/webb/webb-finds-plethora-of-carbon-molecules-around-young-star/>
+
+---
+
+## Jonathan Lunine Appointed Chief Scientist of NASA’s Jet Propulsion Laboratory
+
+date: 2024-06-06, from: NASA breaking news
+
+In his new role, his leadership will be critical in fostering an environment of scientific innovation and excellence, ensuring that JPL remains at the forefront of discovery. Distinguished planetary scientist and astrophysicist Jonathan I. Lunine has been appointed chief scientist of NASA’s Jet Propulsion Laboratory. He will officially assume his role Aug. 16. As chief [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/jpl/jonathan-lunine-appointed-chief-scientist-of-nasas-jet-propulsion-laboratory/>
+
+---
+
+## Lansweeper finds a lot of CentOS Linux out there
+
+date: 2024-06-06, updated: 2024-06-06, from: Liam Proven's articles at the Register
+
+<h4>Network scan reveals 26 percent of Linux boxes are CentOS 7, EOL later this month. What happens next?</h4>
+      <p>Lansweeper's scans of its customers' networks found an awful lot of Linux boxes facing imminent end of life, with no direct upgrade path. This, for clarity, is a very bad thing.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/06/06/lansweeper_centos/>
+
+---
+
+## Moon Tree Dedication with Artemis II Crew
+
+date: 2024-06-06, from: NASA breaking news
+
+NASA astronauts Victor Glover (left), Reid Wiseman (middle left), and Christina Koch (middle right), and Canadian Space Agency (CSA) astronaut Jeremy Hansen (right), pose for a photo after a Moon Tree dedication ceremony, Tuesday, June 4, 2024, at the United States Capitol in Washington. The American Sweetgum tree pictured was grown from a seed that [&#8230;] 
+
+<https://www.nasa.gov/image-article/moon-tree-dedication-with-artemis-ii-crew/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-06, from: Miguel de Icaza Mastondon feed)
+
+<p>“How long can replacing the debugger view take, a couple of days, three tops?”</p> 
+
+<https://mastodon.social/@Migueldeicaza/112570789016966090>
+
+---
+
+## Sols 4207-4208: A Taste of Rocky Road
+
+date: 2024-06-06, from: NASA breaking news
+
+Earth planning date: Wednesday June 5, 2024 Curiosity was still at the ice cream shop for planning today, with the delicious feast of rock flavours still at arm’s reach and begging to be sampled. In the previous plan, one such flavour, captured in today’s blog image and perhaps most analogous to Rocky Road (not only given that […] 
+
+<https://science.nasa.gov/blogs/sols-4207-4208-a-taste-of-rocky-road/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-06, from: Miguel de Icaza Mastondon feed)
+
+<p>It’s just not priced for the “I need to add a caption to this picture”-once-a-month demographic</p> 
+
+<https://mastodon.social/@Migueldeicaza/112570637262266677>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-06, from: Miguel de Icaza Mastondon feed)
+
+<p>I will always cherish a tweets years ago from someone that has now vanished from the internet that said:</p><p>“Wine in a box: for the classy bitch on a budget”</p> 
+
+<https://mastodon.social/@Migueldeicaza/112570625633868138>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-06, from: Miguel de Icaza Mastondon feed)
+
+<p>Lunch was Chicken tikka masala with Mexican maize tortillas and Italian wine.</p><p>That’s just how the cookie crumbles.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112570603278068404>
+
+---
+
+## NASA Scientists Take to the Seas to Study Air Quality
+
+date: 2024-06-06, from: NASA breaking news
+
+Satellites continuously peer down from orbit to take measurements of Earth, and this week a group of scientists set sail to verify some of those data points. On June 2, the SCOAPE (Satellite Coastal and Oceanic Atmospheric Pollution Experiment) research team, in partnership with the U.S. Interior Department’s Bureau of Ocean Energy Management, took to [&#8230;] 
+
+<https://www.nasa.gov/earth/nasa-scientists-take-to-the-seas-to-study-air-quality/>
 
 ---
 
@@ -225,76 +833,6 @@ date: 2024-06-06, from: Quanta Magazine
 Research suggests that psychedelic drugs can reopen critical periods of brain development to create opportunities for re-learning and psychological healing. In this episode, co-host Janna Levin speaks with Gül Dölen, a neuroscientist studying the therapeutic potential of psychedelic substances.            <p>The post <a href="https://www.quantamagazine.org/can-psychedelics-improve-mental-health-20240606/" target="_blank">Can Psychedelics Improve Mental Health?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
 
 <https://www.quantamagazine.org/can-psychedelics-improve-mental-health-20240606/>
-
----
-
-## 2024-06-06 Learning to be a programmer
-
-date: 2024-06-06, from: Alex Schroeder's Blog
-
-<h1 id="2024-06-06-learning-to-be-a-programmer">2024-06-06 Learning to be a programmer</h1>
-
-<p>I was talking with <a class="account" href="https://merveilles.town/@akkartik" title="@akkartik@merveilles.town">@akkartik</a> and <a class="account" href="https://mas.to/@TodePond" title="@TodePond@mas.to">@TodePond</a> about programming.</p>
-
-<p><a class="account" href="https://mas.to/@TodePond" title="@TodePond@mas.to">@TodePond</a> got me thinking about communities around programming when they wrote:</p>
-
-<blockquote>
-<p>the problem i see is that no one is talking to each other. everyone is trying to build their solutions in isolation - as island communities. in my opinion we shouldnt build anything new, we should try to make compatible the mindsets and tools that we already have. its an extreme viewpoint but i see no one else taking it, so im taking it.</p>
-</blockquote>
-
-<p>I can definitely see many people writing their own software and many more people using existing software and never adapting it. I do it, too!</p>
-
-<p>To put a really hurtful spin onto it: we rarely sit next to a newbie using our software. I never do. Never. We should listen to them muttering to themselves for the first four hours. The bugs they attribute to their own incompetence; the confusing usability issues they never report… and now imagine sitting next to a newbie looking at our code, trying to find their way. No comments. No helpful guides. The code is the best documentation, some people say. I guess they haven&rsquo;t seen my code. All those readability refactors I didn’t do. All these questions nobody ever asked me. People look at the code and don’t come back.</p>
-
-<p>Those are my free software nightmares when I look at all the things I’ve written with a community of one. 😳</p>
-
-<p>Anyway, I guess what I want to say: if you feel like you write free software for others but nobody joins your community, you are not alone. We are all together in this, alone. 😥</p>
-
-<p>I think the reason for this has to do with how hard it is to understand code by just reading it instead of writing. It’s super hard to get into another code base. And it is hard to write code such that it is a welcoming ramp up. I’d say Emacs is one of the examples where it worked but we don’t actually know whether the approach is “good”. I certainly used Emacs for a year or two before writing my own init file way back when.</p>
-
-<p>I&rsquo;m not sure which parts enable it and I&rsquo;m not sure if having more of the same would result in more programmers modifying the code and sharing their modifications.</p>
-
-<ul>
-<li>Good documentation of the programming language, Emacs Lisp</li>
-<li>Good documentation of the software itself, Emacs</li>
-<li>Good documentation of the code, with documentation strings and comments throughout the code base</li>
-</ul>
-
-<p>Nearly every function is documented, nearly every global variable is documented, the concepts are documented in the manual, the language is documented in the manual – it&rsquo;s a gigantic group effort to build that ramp.</p>
-
-<p>I think this is how you get started modifying Emacs: with an init file that customizes some part of it.</p>
-
-<p>That reminds me of the post by Peter Seibel (2014) that I recently saw linked in my feed:</p>
-
-<blockquote>
-<p>It was sometime after that presentation that I finally realized the obvious: code is not literature. We don’t read code, we decode it. We examine it. A piece of code is not literature; it is a specimen. Knuth said something that should have pointed me down this track when I asked him about his own code reading: … He’s not describing reading literature; he’s describing a scientific investigation.&rdquo; – <a href="https://gigamonkeys.com/code-reading/">Code is not literature</a></p>
-</blockquote>
-
-<p>I feel this is how I approach new code: find a tiny task and see whether I can make that change. Usually this requires building the code, searching the best location, learning about the code style, investigating the libraries used, and so on. There are many strings attached.</p>
-
-<p>I don&rsquo;t know how else to do it.</p>
-
-<p>The same is true at the office. Our code base is about four million lines of code. Newbies get assigned small issues to fix and need to ask a gazillion questions and that&rsquo;s how they learn.</p>
-
-<p>If only there were a better way. If there is, I don&rsquo;t know it.</p>
-
-<p><a class="account" href="https://merveilles.town/@akkartik" title="@akkartik@merveilles.town">@akkartik</a> linked a guest post on their blog (2018):</p>
-
-<blockquote>
-<p>We all read code already; it’s just that we usually read when we want to edit. And the <em>comprehension</em> that questions about reading are really concerned with—it comes from both reading and writing, interleaved in complex ways. That hacking produces better comprehension than passive, linear reading fits with what we know about learning. – <a href="https://akkartik.name/post/comprehension">Nobody&rsquo;s just reading your code</a>, by <a href="https://stephenmalina.com/">Stephen Malina</a></p>
-</blockquote>
-
-<p><a class="account" href="https://merveilles.town/@akkartik" title="@akkartik@merveilles.town">@akkartik</a> summary of our little interchange gives me pause:</p>
-
-<blockquote>
-<p>We live in a world where everybody is illiterate, unable to read computer programs. Everybody. A tiny minority can <em>write</em> programs, but even they can&rsquo;t read programs written by others without 1000x effort. They/we oppress the rest.</p>
-</blockquote>
-
-<p>Indeed, how not to be part of this, I wonder.</p>
-
-<p><a class="tag" href="/search/?q=%23Programming">#Programming</a></p> 
-
-<https://alexschroeder.ch/view/2024-06-06-programming>
 
 ---
 
@@ -1415,8 +1953,8 @@ date: 2024-06-04, from: Crossref Blog
 <p>The REST API is relied on by a large part of the research information community and beyond, seeing around 1.8 billion requests each month. Just five years ago, that average monthly number was 600 million. Our members are the heaviest users, using it for all kinds of information about their own records or picking up connections like citations and other relationships. Databases, discovery tools, libraries, and governments all use the API. Research groups use it for all sorts of things such as analysing trends in science or recording retractions and corrections.</p>
 <p>So the chances are high that almost any tool you rely on in scientific research has somewhere incorporated metadata through us.</p>
 <h2 id="optimising-performance">Optimising performance</h2>
-<p>For some time, we’ve been noticing reduced performance in a number of ways, and periodically we have a flurry of manually blocking/unblocking IP addresses from requesters that are hammering and degrading the service for everyone else, and this is of course only minimally effective and very short term. You can always watch out status page for alerts. This is the current one about REST API performance: <a href="https://status.crossref.org/incidents/d7k4ml9vvswv" target="_blank">https://status.crossref.org/incidents/d7k4ml9vvswv</a>.</p>
-<p>As the number of users and requests has grown, our strategies for serving those requests must evolve. This post discusses how we’re approaching balancing the growth in usage for the immediate term and provides some thoughts about things we could try in the future on which we’ll update gladly take feedback and advice.</p>
+<p>For some time, we’ve been noticing reduced performance in a number of ways, and periodically we have a flurry of manually blocking/unblocking IP addresses from requesters that are hammering and degrading the service for everyone else, and this is of course only minimally effective and very short term. You can always watch our status page for alerts. This is the current one about REST API performance: <a href="https://status.crossref.org/incidents/d7k4ml9vvswv" target="_blank">https://status.crossref.org/incidents/d7k4ml9vvswv</a>.</p>
+<p>As the number of users and requests has grown, our strategies for serving those requests must evolve. This post discusses how we’re approaching balancing the growth in usage for the immediate term and provides some thoughts about things we could try in the future on which we’ll gladly take feedback and advice.</p>
 <h3 id="load-balancing">Load balancing</h3>
 <p>In 2018, we started routing users through three different pools (<em>public</em>, <em>polite</em>, and <em>plus</em>). This coincided with the launch of <a href="https://www.crossref.org/services/metadata-retrieval/metadata-plus">Metadata Plus</a>, a paid-for service with monthly data dumps and very high rate limits. Note that all metadata is exactly the same and real-time across all pools. We also, more recently, introduced an <em>internal</em> pool. Here&rsquo;s more about them:</p>
 <ul>
@@ -1451,7 +1989,7 @@ date: 2024-06-04, from: Crossref Blog
 <h2 id="want-to-help">Want to help?</h2>
 <p>Thanks for asking!</p>
 <p>Firstly, please, everyone, do always put an email in your API request headers - while the short term plan will help stabilise performance, this habit will always help us troubleshoot e.g. we can always contact you instead of blocking you!</p>
-<p>Secondly, we know many of you incorporate Crossref metadata, add lots of value to it in order to deliver important services, and also develop APIs of your own. We’d love any comments or recommendations from those of you handling similar situations on scaling and optimising API performance. You can comment on this post which is managed via our Discourse forum. We’ll aslo be adding updates to this thread as well as on status.crossref.org. If you’d like to be in touch with any of us directly, all our emails are <a href="mailto:firstinitiallastname@crossref.org">firstinitiallastname@crossref.org</a>.</p> 
+<p>Secondly, we know many of you incorporate Crossref metadata, add lots of value to it in order to deliver important services, and also develop APIs of your own. We’d love any comments or recommendations from those of you handling similar situations on scaling and optimising API performance. You can comment on this post which is managed via our Discourse forum. We’ll also be adding updates to this thread as well as on status.crossref.org. If you’d like to be in touch with any of us directly, all our emails are <a href="mailto:firstinitiallastname@crossref.org">firstinitiallastname@crossref.org</a>.</p> 
 
 <https://www.crossref.org/blog/rebalancing-our-rest-api-traffic/>
 
@@ -1544,6 +2082,16 @@ date: 2024-06-03, from: NASA breaking news
 NASA will hold a media teleconference at 4 p.m. EDT, Tuesday, June 4, to provide an update on operations for NASA’s Hubble Space Telescope. NASA anticipates Hubble will continue making discoveries, working with other observatories such as the agency’s James Webb Space Telescope, throughout this decade and into the next. Audio of the teleconference will stream [&#8230;] 
 
 <https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-hubble-operations-update/>
+
+---
+
+##  One of the great modern mysteries, finally solved: How many cans of... 
+
+date: 2024-06-03, updated: 2024-06-03, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044737-one-of-the-great-modern>
 
 ---
 

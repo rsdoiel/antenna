@@ -1,11 +1,136 @@
 ---
 title: central coast 2024.23
-updated: 2024-06-06 09:04:46
+updated: 2024-06-07 08:27:13
 ---
 
 # central coast 2024.23
 
-(date: 2024-06-06 09:04:46)
+(date: 2024-06-07 08:27:13)
+
+---
+
+## Antarctica Iceberg
+
+date: 2024-06-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Iceberg in Curtiss Bay, Antarctica." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Tammy-Voight.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/antarctica-iceberg/">Antarctica Iceberg</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/antarctica-iceberg/>
+
+---
+
+## Driver Killed When Vehicle Plunges Off Highway 135 Bridge in Orcutt
+
+date: 2024-06-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A vehicle plunged off a Highway 135 bridge in Orcutt late Thursday night, killing the driver, according to the Santa Barbara County Fire Department. The crash occurred at about 10:35 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/driver-killed-when-vehicle-plunges-off-highway-135-bridge-in-orcutt/">Driver Killed When Vehicle Plunges Off Highway 135 Bridge in Orcutt</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/driver-killed-when-vehicle-plunges-off-highway-135-bridge-in-orcutt/>
+
+---
+
+## BizHawk: Derf’s Cafe in Santa Barbara Closing After Nearly 50 Years of Service
+
+date: 2024-06-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-BizHawk-Kent-Story-Berta-Hernandez-Guillermo-Angel-Nunez-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Kent Storey, left, Berta Hernandez and Guillermo Angel Nunez say they&#039;re sad that Derf&#039;s Cafe is closing after nearly 50 years." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-BizHawk-Kent-Story-Berta-Hernandez-Guillermo-Angel-Nunez-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-BizHawk-Kent-Story-Berta-Hernandez-Guillermo-Angel-Nunez-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-BizHawk-Kent-Story-Berta-Hernandez-Guillermo-Angel-Nunez-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-BizHawk-Kent-Story-Berta-Hernandez-Guillermo-Angel-Nunez-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-BizHawk-Kent-Story-Berta-Hernandez-Guillermo-Angel-Nunez-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-BizHawk-Kent-Story-Berta-Hernandez-Guillermo-Angel-Nunez-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-BizHawk-Kent-Story-Berta-Hernandez-Guillermo-Angel-Nunez-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-BizHawk-Kent-Story-Berta-Hernandez-Guillermo-Angel-Nunez-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-BizHawk-Kent-Story-Berta-Hernandez-Guillermo-Angel-Nunez-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-BizHawk-Kent-Story-Berta-Hernandez-Guillermo-Angel-Nunez-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Phil Collins&#8217; &#8220;Take Me Home&#8221; classic hit played over the speakers at Derf&#8217;s Cafe on Thursday afternoon. The moody end-of-an-era song was fitting, as Derf&#8217;s Cafe is experiencing its final [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-derfs-cafe-in-santa-barbara-closing-after-nearly-50-years-of-service/">BizHawk: Derf&#8217;s Cafe in Santa Barbara Closing After Nearly 50 Years of Service</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bizhawk-derfs-cafe-in-santa-barbara-closing-after-nearly-50-years-of-service/>
+
+---
+
+## Santa Maria, Pioneer Valley, Righetti High Schools Bid Farewell to Their Graduates
+
+date: 2024-06-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-santa-maria-graduation-lw-03.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Maria High School graduation." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-santa-maria-graduation-lw-03.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-santa-maria-graduation-lw-03.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-santa-maria-graduation-lw-03.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-santa-maria-graduation-lw-03.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-santa-maria-graduation-lw-03.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-santa-maria-graduation-lw-03.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-santa-maria-graduation-lw-03.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-santa-maria-graduation-lw-03.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-santa-maria-graduation-lw-03.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-santa-maria-graduation-lw-03.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Limitations don’t exist and dreams can become reality, two speakers told their fellow Santa Maria High School graduates Thursday, one of three campuses bidding goodbye to hundreds of seniors. “I [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-pioneer-valley-righetti-high-schools-bid-farewell-to-their-graduates/">Santa Maria, Pioneer Valley, Righetti High Schools Bid Farewell to Their Graduates</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-maria-pioneer-valley-righetti-high-schools-bid-farewell-to-their-graduates/>
+
+---
+
+## St. Joseph High School Celebrates Its Class of 2024
+
+date: 2024-06-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-st-joseph-graduation-lw-03.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="St. Joseph High School graduation." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-st-joseph-graduation-lw-03.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-st-joseph-graduation-lw-03.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-st-joseph-graduation-lw-03.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-st-joseph-graduation-lw-03.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-st-joseph-graduation-lw-03.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-st-joseph-graduation-lw-03.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-st-joseph-graduation-lw-03.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-st-joseph-graduation-lw-03.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-st-joseph-graduation-lw-03.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-st-joseph-graduation-lw-03.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>St. Joseph High School proudly graduated about 105 students in Orcutt on Thursday during its 57th commencement. Lucas Mayes is valedictorian and Paige Beal is salutatorian for the class of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/st-joseph-high-school-celebrates-its-class-of-2024/">St. Joseph High School Celebrates Its Class of 2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/st-joseph-high-school-celebrates-its-class-of-2024/>
+
+---
+
+## AIDS/LifeCycle Participants Don Red for Fundraising Ride’s Trek into Lompoc
+
+date: 2024-06-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-AIDS-LIfeCycle3-js.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="AIDS/LifeCycle riders travel in the Lompoc Valley on Thursday morning. sporting colorful red clothing for the trek from Santa Maria." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-AIDS-LIfeCycle3-js.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-AIDS-LIfeCycle3-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-AIDS-LIfeCycle3-js.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-AIDS-LIfeCycle3-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-AIDS-LIfeCycle3-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-AIDS-LIfeCycle3-js.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-AIDS-LIfeCycle3-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-AIDS-LIfeCycle3-js.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-AIDS-LIfeCycle3-js.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-AIDS-LIfeCycle3-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-AIDS-LIfeCycle3-js.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060624-AIDS-LIfeCycle3-js.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Decked out in colorful red outfits, AIDS LifeCycle bicyclists hit the road Thursday en route to Lompoc as part of the 545-mile multipurpose ride.&#160; After spending the night at Preisker [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/aids-lifecycle-participants-don-red-for-fundraising-rides-trek-into-lompoc/">AIDS/LifeCycle Participants Don Red for Fundraising Ride&#8217;s Trek into Lompoc</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/aids-lifecycle-participants-don-red-for-fundraising-rides-trek-into-lompoc/>
+
+---
+
+## Santa Barbara School District Replies to Questions About Teacher Talks
+
+date: 2024-06-07, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>This communication is to address the recent inquiries we have received about current negotiations and possible teacher’s strike. Santa Barbara Unified School District is committed to working with our union [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-school-district-replies-to-questions-about-teacher-talks/">Santa Barbara School District Replies to Questions About Teacher Talks</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-school-district-replies-to-questions-about-teacher-talks/>
+
+---
+
+## Santa Barbara Foresters Look to Reclaim NBC World Series Title with New Faces, New Home Field
+
+date: 2024-06-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-preview-cover.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-preview-cover.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-preview-cover.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-preview-cover.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-preview-cover.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-preview-cover.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-preview-cover.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-preview-cover.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-preview-cover.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-preview-cover.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-preview-cover.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Santa Barbara Foresters fell one game short of the NBC World Series title last year, leaving Wichita, Kansas without a championship for the first time since 2019. After another [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-foresters-look-to-reclaim-nbc-world-series-title-with-new-faces-new-home-field/">Santa Barbara Foresters Look to Reclaim NBC World Series Title with New Faces, New Home Field</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-foresters-look-to-reclaim-nbc-world-series-title-with-new-faces-new-home-field/>
+
+---
+
+## After Outcry, UCSB Shifts Commencement Back to Traditional Lagoon Lawn Location
+
+date: 2024-06-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>After a controversial announcement that UC Santa Barbara was changing its commencement ceremony venue, the university has walked back the decision, and is returning the events to their traditional location [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/after-outcry-ucsb-shifts-commencement-back-to-traditional-lagoon-lawn-location/">After Outcry, UCSB Shifts Commencement Back to Traditional Lagoon Lawn Location</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/after-outcry-ucsb-shifts-commencement-back-to-traditional-lagoon-lawn-location/>
+
+---
+
+## Captain’s Log: Guidelines for Coyote Encounters
+
+date: 2024-06-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A coyote encounter can easily occur in your own neighborhood, as well as out in the wild.  Not quite sure how to recognize a coyote? It roughly resembles a small [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/captains-log-guidelines-for-coyote-encounters/">Captain’s Log: Guidelines for Coyote Encounters</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/captains-log-guidelines-for-coyote-encounters/>
 
 ---
 

@@ -1,11 +1,327 @@
 ---
 title: columns 2024.23
-updated: 2024-06-06 09:04:46
+updated: 2024-06-07 08:27:13
 ---
 
 # columns 2024.23
 
-(date: 2024-06-06 09:04:46)
+(date: 2024-06-07 08:27:13)
+
+---
+
+## An internet for writers
+
+date: 2024-06-07, from: Dave Winer's Scripting News
+
+<p>The next step in online social media will be group blogs that support the APIs needed to integrate with not only the Fediverse, but other non-AP services that have their own APIs. Each one will have a theme, a voice, not all writers in agreement of course, but sharing a similar perspective, context, point of view.</p>
+ 
+
+<http://scripting.com/2024/06/07/133218.html?title=anInternetForWriters>
+
+---
+
+## The job machine keeps churning
+
+date: 2024-06-07, from: Robert Reich's blog
+
+But the Fed should reduce interest rates nonetheless 
+
+<https://robertreich.substack.com/p/the-job-machine-keeps-churning>
+
+---
+
+## 2024-06-06 Learning to be a programmer
+
+date: 2024-06-07, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-06-learning-to-be-a-programmer">2024-06-06 Learning to be a programmer</h1>
+
+<p>I was talking with <a class="account" href="https://merveilles.town/@akkartik" title="@akkartik@merveilles.town">@akkartik</a> and <a class="account" href="https://mas.to/@TodePond" title="@TodePond@mas.to">@TodePond</a> about programming.</p>
+
+<p><a class="account" href="https://mas.to/@TodePond" title="@TodePond@mas.to">@TodePond</a> got me thinking about communities around programming when they wrote:</p>
+
+<blockquote>
+<p>the problem i see is that no one is talking to each other. everyone is trying to build their solutions in isolation - as island communities. in my opinion we shouldnt build anything new, we should try to make compatible the mindsets and tools that we already have. its an extreme viewpoint but i see no one else taking it, so im taking it.</p>
+</blockquote>
+
+<p>I can definitely see many people writing their own software and many more people using existing software and never adapting it. I do it, too!</p>
+
+<p>To put a really hurtful spin onto it: we rarely sit next to a newbie using our software. I never do. Never. We should listen to them muttering to themselves for the first four hours. The bugs they attribute to their own incompetence; the confusing usability issues they never report… and now imagine sitting next to a newbie looking at our code, trying to find their way. No comments. No helpful guides. The code is the best documentation, some people say. I guess they haven&rsquo;t seen my code. All those readability refactors I didn’t do. All these questions nobody ever asked me. People look at the code and don’t come back.</p>
+
+<p>Those are my free software nightmares when I look at all the things I’ve written with a community of one. 😳</p>
+
+<p>Anyway, I guess what I want to say: if you feel like you write free software for others but nobody joins your community, you are not alone. We are all together in this, alone. 😥</p>
+
+<p>I think the reason for this has to do with how hard it is to understand code by just reading it instead of writing. It’s super hard to get into another code base. And it is hard to write code such that it is a welcoming ramp up. I’d say Emacs is one of the examples where it worked but we don’t actually know whether the approach is “good”. I certainly used Emacs for a year or two before writing my own init file way back when.</p>
+
+<p>I&rsquo;m not sure which parts enable it and I&rsquo;m not sure if having more of the same would result in more programmers modifying the code and sharing their modifications.</p>
+
+<ul>
+<li>Good documentation of the programming language, Emacs Lisp</li>
+<li>Good documentation of the software itself, Emacs</li>
+<li>Good documentation of the code, with documentation strings and comments throughout the code base</li>
+</ul>
+
+<p>Nearly every function is documented, nearly every global variable is documented, the concepts are documented in the manual, the language is documented in the manual – it&rsquo;s a gigantic group effort to build that ramp.</p>
+
+<p>I think this is how you get started modifying Emacs: with an init file that customizes some part of it.</p>
+
+<p>That reminds me of the post by Peter Seibel (2014) that I recently saw linked in my feed:</p>
+
+<blockquote>
+<p>It was sometime after that presentation that I finally realized the obvious: code is not literature. We don’t read code, we decode it. We examine it. A piece of code is not literature; it is a specimen. Knuth said something that should have pointed me down this track when I asked him about his own code reading: … He’s not describing reading literature; he’s describing a scientific investigation.&rdquo; – <a href="https://gigamonkeys.com/code-reading/">Code is not literature</a></p>
+</blockquote>
+
+<p>I feel this is how I approach new code: find a tiny task and see whether I can make that change. Usually this requires building the code, searching the best location, learning about the code style, investigating the libraries used, and so on. There are many strings attached.</p>
+
+<p>I don&rsquo;t know how else to do it.</p>
+
+<p>The same is true at the office. Our code base is about four million lines of code. Newbies get assigned small issues to fix and need to ask a gazillion questions and that&rsquo;s how they learn.</p>
+
+<p>If only there were a better way. If there is, I don&rsquo;t know it.</p>
+
+<p><a class="account" href="https://merveilles.town/@akkartik" title="@akkartik@merveilles.town">@akkartik</a> linked a guest post on their blog (2018):</p>
+
+<blockquote>
+<p>We all read code already; it’s just that we usually read when we want to edit. And the <em>comprehension</em> that questions about reading are really concerned with—it comes from both reading and writing, interleaved in complex ways. That hacking produces better comprehension than passive, linear reading fits with what we know about learning. – <a href="https://akkartik.name/post/comprehension">Nobody&rsquo;s just reading your code</a>, by <a href="https://stephenmalina.com/">Stephen Malina</a></p>
+</blockquote>
+
+<p><a class="account" href="https://merveilles.town/@akkartik" title="@akkartik@merveilles.town">@akkartik</a> summary of our little interchange gives me pause:</p>
+
+<blockquote>
+<p>We live in a world where everybody is illiterate, unable to read computer programs. Everybody. A tiny minority can <em>write</em> programs, but even they can&rsquo;t read programs written by others without 1000x effort. They/we oppress the rest.</p>
+</blockquote>
+
+<p>Indeed, how not to be part of this, I wonder.</p>
+
+<p><a class="tag" href="/search/?q=%23Programming">#Programming</a></p>
+
+<p><strong>2024-06-07</strong>. <a class="account" href="https://idiomdrottning.org/users/Sandra" title="@Sandra@idiomdrottning.org">@Sandra</a> says:</p>
+
+<blockquote>
+<p>I think “programming for the household” is actually awesome. Automating our <em>own</em> lives, autonomously, not squeezing our lives into someone else’s automation. – <a href="https://idiomdrottning.org/code-for-yourself">There’s no shame in programming for yourself</a></p>
+</blockquote> 
+
+<https://alexschroeder.ch/view/2024-06-06-programming>
+
+---
+
+## The Justice Department Took Down the 911 S5 Botnet
+
+date: 2024-06-07, updated: 2024-06-06, from: Bruce Schneier blog
+
+<p>The US Justice Department has <a href="https://www.justice.gov/opa/pr/911-s5-botnet-dismantled-and-its-administrator-arrested-coordinated-international-operation">dismantled</a> an enormous botnet:</p>
+<blockquote><p>According to an indictment unsealed on May 24, from 2014 through July 2022, Wang and others are alleged to have created and disseminated malware to compromise and amass a network of millions of residential Windows computers worldwide. These devices were associated with more than 19 million unique IP addresses, including 613,841 IP addresses located in the United States. Wang then generated millions of dollars by offering cybercriminals access to these infected IP addresses for a fee...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/06/the-justice-department-took-down-the-911-s5-botnet.html>
+
+---
+
+## Debunking Myth #2: “Government obstructs the free market”
+
+date: 2024-06-07, from: Robert Reich's blog
+
+Bunk! The choice is not government or free market, because government creates the market. 
+
+<https://robertreich.substack.com/p/debunking-myth-2-government-obstructs>
+
+---
+
+## June 6, 2024 
+
+date: 2024-06-07, from: Heather Cox Richardson blog
+
+President Franklin Delano Roosevelt had good news for the American people when he gave his twenty-ninth Fireside Chat on June 5, 1944. The day before, on June 4, Rome had fallen to Allied troops. &#8220;The first of the Axis capitals is now in our hands,&#8221; Roosevelt said. 
+
+<https://heathercoxrichardson.substack.com/p/june-6-2024>
+
+---
+
+## NYT: ‘What Ukraine Has Lost During Russia’s Invasion’
+
+date: 2024-06-07, updated: 2024-06-07, from: Daring Fireball
+
+ 
+
+<https://www.nytimes.com/interactive/2024/06/03/world/europe/ukraine-destruction.html?smid=threads-nytimes>
+
+---
+
+## Nvidia Hits the $3T Market Cap Club, Passing Apple, Trailing Only Microsoft
+
+date: 2024-06-07, updated: 2024-06-07, from: Daring Fireball
+
+ 
+
+<https://spyglass.org/nvidia-3-trillion/>
+
+---
+
+## How The Wall Street Journal Fell Behind in the ‘Apple Is Behind on AI’ Arms Race
+
+date: 2024-06-07, updated: 2024-06-07, from: Daring Fireball
+
+ 
+
+<https://www.wsj.com/tech/ai/apple-ai-siri-development-behind-9ea65ee8>
+
+---
+
+## 1Password and Safari
+
+date: 2024-06-07, updated: 2024-06-07, from: Daring Fireball
+
+ 
+
+<https://techhub.social/@mitchchn@mastodon.social/112554203735136007>
+
+---
+
+##  Every Kind of Bridge Explained in 15 Minutes 
+
+date: 2024-06-06, updated: 2024-06-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/every-kind-of-bridge-explained-in-15-minutes>
+
+---
+
+## Friday 7 June, 2024
+
+date: 2024-06-06, from: John Naughton's online diary
+
+No parking Quote of the Day ”An intellectual is someone whose mind watches itself.” Albert Camus Musical alternative to the morning’s radio news Sweet Home Chicago &#124; Blues Harmonica Link It’s clear that I’ve been underestimating the harmonica for a &#8230; <a href="https://memex.naughtons.org/friday-7-june-2024/39519/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-7-june-2024/39519/>
+
+---
+
+##  The trailer for When We Were Wizards: An Oral History of Dungeons... 
+
+date: 2024-06-06, updated: 2024-06-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044762-the-trailer-for-when-we>
+
+---
+
+##  A Shaded Relief Map of Manhattan 
+
+date: 2024-06-06, updated: 2024-06-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/a-shaded-relief-map-of-manhattan>
+
+---
+
+## The New York Times: ‘How the Humane AI Pin Flopped’
+
+date: 2024-06-06, updated: 2024-06-07, from: Daring Fireball
+
+ 
+
+<https://www.nytimes.com/2024/06/06/technology/humane-ai-pin.html>
+
+---
+
+## Gurman Reports Apple Is (Finally) Breaking Passwords Into a Standalone App for the Mac and iOS
+
+date: 2024-06-06, updated: 2024-06-06, from: Daring Fireball
+
+ 
+
+<https://www.bloomberg.com/news/articles/2024-06-06/apple-to-debut-passwords-app-in-challenge-to-1password-lastpass>
+
+---
+
+## Thank You From A Grateful Nation
+
+date: 2024-06-06, from: Dan Rather's Steady
+
+On this 80th anniversary of the invasion of Normandy 
+
+<https://steady.substack.com/p/thank-you-from-a-grateful-nation>
+
+---
+
+##  A UK research team has discovered that the more CO2 air contains,... 
+
+date: 2024-06-06, updated: 2024-06-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044761-a-uk-research-team-has>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-06, from: Dave Winer's Scripting News)
+
+More bad financial advice: "Give money to Trump! He needs your help! They're out to get him! You're next!" 
+
+<http://scripting.com/2024/06/06.html#a211011>
+
+---
+
+## The M4-in-iPad-Pro Sleuth
+
+date: 2024-06-06, updated: 2024-06-06, from: Daring Fireball
+
+ 
+
+<https://forums.macrumors.com/threads/ipad-pro-using-m4.2424153/>
+
+---
+
+##  New album from Jamie xx, In Waves, is coming out on September... 
+
+date: 2024-06-06, updated: 2024-06-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044764-new-album-from-jamie-xx>
+
+---
+
+## bye bye hosting c-ares web
+
+date: 2024-06-06, from: Daniel Stenberg Blog
+
+At some point during 2003, my friend Bjørn Reese (from Dancer) and I were discussing back and forth and planning to maybe create our own asynchronous DNS/name resolver library. We felt that the synchronous APIs provided by gethostname() and getaddrinfo() were too limiting in for example curl. We could really use something that would not &#8230; <a href="https://daniel.haxx.se/blog/2024/06/06/bye-bye-hosting-c-ares-web/" class="more-link">Continue reading <span class="screen-reader-text">bye bye hosting c-ares web</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/06/06/bye-bye-hosting-c-ares-web/>
+
+---
+
+## New M2 iPad Air Has 9-Core GPU, Not 10-Core as Originally Specified
+
+date: 2024-06-06, updated: 2024-06-06, from: Daring Fireball
+
+ 
+
+<https://9to5mac.com/2024/06/03/apple-says-m2-ipad-air-performance-claims-are-accurate-despite-gpu-mix-up/>
+
+---
+
+##  Download Free Coloring Books From Museums and Libraries 
+
+date: 2024-06-06, updated: 2024-06-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/download-free-coloring-books-from-museums-and-libraries>
+
+---
+
+##  Every Conversation Between Every Parent and Their Child After One Year of... 
+
+date: 2024-06-06, updated: 2024-06-06, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044740-every-conversation-betwee>
 
 ---
 
@@ -304,76 +620,6 @@ OpenAI knowing the lewd content that you're watching, or paying them an arm
 and a leg for it? You can, and it's actually fairly straightforward. 
 
 <https://xn--gckvb8fzb.com/run-your-privacy-respecting-ai-on-gentoo-linux/>
-
----
-
-## 2024-06-06 Learning to be a programmer
-
-date: 2024-06-06, from: Alex Schroeder's Blog
-
-<h1 id="2024-06-06-learning-to-be-a-programmer">2024-06-06 Learning to be a programmer</h1>
-
-<p>I was talking with <a class="account" href="https://merveilles.town/@akkartik" title="@akkartik@merveilles.town">@akkartik</a> and <a class="account" href="https://mas.to/@TodePond" title="@TodePond@mas.to">@TodePond</a> about programming.</p>
-
-<p><a class="account" href="https://mas.to/@TodePond" title="@TodePond@mas.to">@TodePond</a> got me thinking about communities around programming when they wrote:</p>
-
-<blockquote>
-<p>the problem i see is that no one is talking to each other. everyone is trying to build their solutions in isolation - as island communities. in my opinion we shouldnt build anything new, we should try to make compatible the mindsets and tools that we already have. its an extreme viewpoint but i see no one else taking it, so im taking it.</p>
-</blockquote>
-
-<p>I can definitely see many people writing their own software and many more people using existing software and never adapting it. I do it, too!</p>
-
-<p>To put a really hurtful spin onto it: we rarely sit next to a newbie using our software. I never do. Never. We should listen to them muttering to themselves for the first four hours. The bugs they attribute to their own incompetence; the confusing usability issues they never report… and now imagine sitting next to a newbie looking at our code, trying to find their way. No comments. No helpful guides. The code is the best documentation, some people say. I guess they haven&rsquo;t seen my code. All those readability refactors I didn’t do. All these questions nobody ever asked me. People look at the code and don’t come back.</p>
-
-<p>Those are my free software nightmares when I look at all the things I’ve written with a community of one. 😳</p>
-
-<p>Anyway, I guess what I want to say: if you feel like you write free software for others but nobody joins your community, you are not alone. We are all together in this, alone. 😥</p>
-
-<p>I think the reason for this has to do with how hard it is to understand code by just reading it instead of writing. It’s super hard to get into another code base. And it is hard to write code such that it is a welcoming ramp up. I’d say Emacs is one of the examples where it worked but we don’t actually know whether the approach is “good”. I certainly used Emacs for a year or two before writing my own init file way back when.</p>
-
-<p>I&rsquo;m not sure which parts enable it and I&rsquo;m not sure if having more of the same would result in more programmers modifying the code and sharing their modifications.</p>
-
-<ul>
-<li>Good documentation of the programming language, Emacs Lisp</li>
-<li>Good documentation of the software itself, Emacs</li>
-<li>Good documentation of the code, with documentation strings and comments throughout the code base</li>
-</ul>
-
-<p>Nearly every function is documented, nearly every global variable is documented, the concepts are documented in the manual, the language is documented in the manual – it&rsquo;s a gigantic group effort to build that ramp.</p>
-
-<p>I think this is how you get started modifying Emacs: with an init file that customizes some part of it.</p>
-
-<p>That reminds me of the post by Peter Seibel (2014) that I recently saw linked in my feed:</p>
-
-<blockquote>
-<p>It was sometime after that presentation that I finally realized the obvious: code is not literature. We don’t read code, we decode it. We examine it. A piece of code is not literature; it is a specimen. Knuth said something that should have pointed me down this track when I asked him about his own code reading: … He’s not describing reading literature; he’s describing a scientific investigation.&rdquo; – <a href="https://gigamonkeys.com/code-reading/">Code is not literature</a></p>
-</blockquote>
-
-<p>I feel this is how I approach new code: find a tiny task and see whether I can make that change. Usually this requires building the code, searching the best location, learning about the code style, investigating the libraries used, and so on. There are many strings attached.</p>
-
-<p>I don&rsquo;t know how else to do it.</p>
-
-<p>The same is true at the office. Our code base is about four million lines of code. Newbies get assigned small issues to fix and need to ask a gazillion questions and that&rsquo;s how they learn.</p>
-
-<p>If only there were a better way. If there is, I don&rsquo;t know it.</p>
-
-<p><a class="account" href="https://merveilles.town/@akkartik" title="@akkartik@merveilles.town">@akkartik</a> linked a guest post on their blog (2018):</p>
-
-<blockquote>
-<p>We all read code already; it’s just that we usually read when we want to edit. And the <em>comprehension</em> that questions about reading are really concerned with—it comes from both reading and writing, interleaved in complex ways. That hacking produces better comprehension than passive, linear reading fits with what we know about learning. – <a href="https://akkartik.name/post/comprehension">Nobody&rsquo;s just reading your code</a>, by <a href="https://stephenmalina.com/">Stephen Malina</a></p>
-</blockquote>
-
-<p><a class="account" href="https://merveilles.town/@akkartik" title="@akkartik@merveilles.town">@akkartik</a> summary of our little interchange gives me pause:</p>
-
-<blockquote>
-<p>We live in a world where everybody is illiterate, unable to read computer programs. Everybody. A tiny minority can <em>write</em> programs, but even they can&rsquo;t read programs written by others without 1000x effort. They/we oppress the rest.</p>
-</blockquote>
-
-<p>Indeed, how not to be part of this, I wonder.</p>
-
-<p><a class="tag" href="/search/?q=%23Programming">#Programming</a></p> 
-
-<https://alexschroeder.ch/view/2024-06-06-programming>
 
 ---
 
@@ -679,7 +925,7 @@ If the defining axes of Genesis 1–11 were making/naming and commanding/disobey
 
 ## Is Microsoft trying to commit suicide?
 
-date: 2024-06-05, updated: 2024-06-06, from: Charlie's Diary
+date: 2024-06-05, updated: 2024-06-07, from: Charlie's Diary
 
 The breaking tech news this year has been the pervasive spread of "AI" (or rather, statistical modeling based on hidden layer neural networks) into everything. It's the latest hype bubble now that Cryptocurrencies are no longer the freshest sucker-bait in... 
 
@@ -1120,7 +1366,7 @@ date: 2024-06-04, from: Jeff Geerling blog
 
 ## Tickets for The Talk Show Live From WWDC 2024
 
-date: 2024-06-04, updated: 2024-06-04, from: Daring Fireball
+date: 2024-06-04, updated: 2024-06-06, from: Daring Fireball
 
  
 
@@ -1195,6 +1441,16 @@ date: 2024-06-03, updated: 2024-06-03, from: Jason Kittke's blog
  
 
 <https://kottke.org/24/06/0044729-its-not-your-imagination->
+
+---
+
+##  One of the great modern mysteries, finally solved: How many cans of... 
+
+date: 2024-06-03, updated: 2024-06-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044737-one-of-the-great-modern>
 
 ---
 
