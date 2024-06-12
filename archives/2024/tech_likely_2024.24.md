@@ -1,11 +1,21 @@
 ---
 title: tech likely 2024.24
-updated: 2024-06-12 07:04:27
+updated: 2024-06-12 07:36:07
 ---
 
 # tech likely 2024.24
 
-(date: 2024-06-12 07:04:27)
+(date: 2024-06-12 07:36:07)
+
+---
+
+##  Care to play a game of Probabilistic Tic-Tac-Toe? &#8220;What gives us the... 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044792-care-to-play-a-game>
 
 ---
 
@@ -29,7 +39,7 @@ Computer scientist Lance Fortnow writes that by embracing the computations that 
 
 **@Dave Winer's Scripting News** (date: 2024-06-12, from: Dave Winer's Scripting News)
 
-Is <a href="https://imgs.scripting.com/2024/06/12/wordpressWritersExperience.png">this</a> the <a href="https://x.com/davewiner/status/1800879295063003367">user experience</a> writers want from WordPress? If I were designing it, I would start from scratch, build an easy writing tool for writers to focus on writing, and make the design process accessible if they want to work in that mode, but keep it out of their way because most writing has nothing to do with design. 
+Is this the <a href="https://x.com/davewiner/status/1800879295063003367">user experience</a> writers want from WordPress? If I were designing it, I would start from scratch, build an easy writing tool for writers to focus on writing, and make the design process accessible if they want to work in that mode, but keep it out of their way because most writing has nothing to do with design. 
 
 <http://scripting.com/2024/06/12.html#a132537>
 

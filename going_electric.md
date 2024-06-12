@@ -1,11 +1,41 @@
 ---
 title: going electric 2024.24
-updated: 2024-06-12 07:04:28
+updated: 2024-06-12 07:36:10
 ---
 
 # going electric 2024.24
 
-(date: 2024-06-12 07:04:28)
+(date: 2024-06-12 07:36:10)
+
+---
+
+## Here Are Some Track Day Tips From 6-Time WSBK Champ Jonathan Rea
+
+date: 2024-06-12, from: Ride Apart, Electric Motorcycle News
+
+Pair some pro tips with your practice and get your head ready for your next track day! 
+
+<https://www.rideapart.com/news/722954/jonathan-rea-track-day-tips/>
+
+---
+
+## 'Tesla’s Future Relies On His Presence': Musk's $56B Pay Vote Down To The Wire
+
+date: 2024-06-12, from: Inside EVs News
+
+How the Tesla shareholder vote tomorrow will go seems to be anyone's guess. Plus: more on the EU's China tariffs, and GM's Cruise is back. 
+
+<https://insideevs.com/news/723041/tesla-musk-vote-preview-cm/>
+
+---
+
+## Check Out These Insane Fake Supercar Jet-Skis
+
+date: 2024-06-12, from: Ride Apart, Electric Motorcycle News
+
+Brought to you by Florida, duh.  
+
+<https://www.rideapart.com/news/722924/supercar-jet-ski-watersports-car-miami-florida/>
 
 ---
 

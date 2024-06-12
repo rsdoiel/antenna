@@ -7,6 +7,12 @@ title: Antenna Archives
 
 ## SoCal North
 
+* [socal north 2024.24](socal_north_2024.24.md)
+* [socal north 2024.23](socal_north_2024.23.md)
+* [socal north 2024.22](socal_north_2024.22.md)
+* [socal north 2024.21](socal_north_2024.21.md)
+* [socal north 2024.20](socal_north_2024.20.md)
+* [socal north 2024.19](socal_north_2024.19.md)
 * [socal north 2024.18](socal_north_2024.18.md)
 * [socal north 2024.17](socal_north_2024.17.md)
 * [socal north 2024.16](socal_north_2024.16.md)
@@ -28,6 +34,12 @@ title: Antenna Archives
 
 ## Weather
 
+* [weather 2024.24](weather_2024.24.md)
+* [weather 2024.23](weather_2024.23.md)
+* [weather 2024.22](weather_2024.22.md)
+* [weather 2024.21](weather_2024.21.md)
+* [weather 2024.20](weather_2024.20.md)
+* [weather 2024.19](weather_2024.19.md)
 * [weather 2024.18](weather_2024.18.md)
 * [weather 2024.17](weather_2024.17.md)
 * [weather 2024.16](weather_2024.16.md)
@@ -49,6 +61,12 @@ title: Antenna Archives
 
 ## Pacific
 
+* [pacific 2024.24](pacific_2024.24.md)
+* [pacific 2024.23](pacific_2024.23.md)
+* [pacific 2024.22](pacific_2024.22.md)
+* [pacific 2024.21](pacific_2024.21.md)
+* [pacific 2024.20](pacific_2024.20.md)
+* [pacific 2024.19](pacific_2024.19.md)
 * [pacific 2024.18](pacific_2024.18.md)
 * [pacific 2024.17](pacific_2024.17.md)
 * [pacific 2024.16](pacific_2024.16.md)
@@ -70,6 +88,12 @@ title: Antenna Archives
 
 ## Mid Central
 
+* [mid central 2024.24](mid_central_2024.24.md)
+* [mid central 2024.23](mid_central_2024.23.md)
+* [mid central 2024.22](mid_central_2024.22.md)
+* [mid central 2024.21](mid_central_2024.21.md)
+* [mid central 2024.20](mid_central_2024.20.md)
+* [mid central 2024.19](mid_central_2024.19.md)
 * [mid central 2024.18](mid_central_2024.18.md)
 * [mid central 2024.17](mid_central_2024.17.md)
 * [mid central 2024.16](mid_central_2024.16.md)
@@ -91,6 +115,12 @@ title: Antenna Archives
 
 ## Tech Likely
 
+* [tech likely 2024.24](tech_likely_2024.24.md)
+* [tech likely 2024.23](tech_likely_2024.23.md)
+* [tech likely 2024.22](tech_likely_2024.22.md)
+* [tech likely 2024.21](tech_likely_2024.21.md)
+* [tech likely 2024.20](tech_likely_2024.20.md)
+* [tech likely 2024.19](tech_likely_2024.19.md)
 * [tech likely 2024.18](tech_likely_2024.18.md)
 * [tech likely 2024.17](tech_likely_2024.17.md)
 * [tech likely 2024.16](tech_likely_2024.16.md)
@@ -112,6 +142,12 @@ title: Antenna Archives
 
 ## Writing
 
+* [writing 2024.24](writing_2024.24.md)
+* [writing 2024.23](writing_2024.23.md)
+* [writing 2024.22](writing_2024.22.md)
+* [writing 2024.21](writing_2024.21.md)
+* [writing 2024.20](writing_2024.20.md)
+* [writing 2024.19](writing_2024.19.md)
 * [writing 2024.18](writing_2024.18.md)
 * [writing 2024.17](writing_2024.17.md)
 * [writing 2024.16](writing_2024.16.md)
@@ -133,6 +169,12 @@ title: Antenna Archives
 
 ## Parks
 
+* [parks 2024.24](parks_2024.24.md)
+* [parks 2024.23](parks_2024.23.md)
+* [parks 2024.22](parks_2024.22.md)
+* [parks 2024.21](parks_2024.21.md)
+* [parks 2024.20](parks_2024.20.md)
+* [parks 2024.19](parks_2024.19.md)
 * [parks 2024.18](parks_2024.18.md)
 * [parks 2024.17](parks_2024.17.md)
 * [parks 2024.16](parks_2024.16.md)
@@ -154,6 +196,12 @@ title: Antenna Archives
 
 ## Libaries, Archives and Museums
 
+* [libraries 2024.24](libraries_2024.24.md)
+* [libraries 2024.23](libraries_2024.23.md)
+* [libraries 2024.22](libraries_2024.22.md)
+* [libraries 2024.21](libraries_2024.21.md)
+* [libraries 2024.20](libraries_2024.20.md)
+* [libraries 2024.19](libraries_2024.19.md)
 * [libraries 2024.18](libraries_2024.18.md)
 * [libraries 2024.17](libraries_2024.17.md)
 * [libraries 2024.16](libraries_2024.16.md)
@@ -175,6 +223,12 @@ title: Antenna Archives
 
 ## Columns
 
+* [columns 2024.24](columns_2024.24.md)
+* [columns 2024.23](columns_2024.23.md)
+* [columns 2024.22](columns_2024.22.md)
+* [columns 2024.21](columns_2024.21.md)
+* [columns 2024.20](columns_2024.20.md)
+* [columns 2024.19](columns_2024.19.md)
 * [columns 2024.18](columns_2024.18.md)
 * [columns 2024.17](columns_2024.17.md)
 * [columns 2024.16](columns_2024.16.md)
@@ -196,16 +250,34 @@ title: Antenna Archives
 
 ## Retro Computing
 
+* [retro computing 2024.24](retro_computing_2024.24.md)
+* [retro computing 2024.23](retro_computing_2024.23.md)
+* [retro computing 2024.22](retro_computing_2024.22.md)
+* [retro computing 2024.21](retro_computing_2024.21.md)
+* [retro computing 2024.20](retro_computing_2024.20.md)
+* [retro computing 2024.19](retro_computing_2024.19.md)
 * [retro computing 2024.18](retro_computing_2024.18.md)
 * [retro computing 2024.17](retro_computing_2024.17.md)
 * [retro computing 2024.16](retro_computing_2024.16.md)
 
 ## Journalism
 
+* [journalism 2024.24](journalism_2024.24.md)
+* [journalism 2024.23](journalism_2024.23.md)
+* [journalism 2024.22](journalism_2024.22.md)
+* [journalism 2024.21](journalism_2024.21.md)
+* [journalism 2024.20](journalism_2024.20.md)
+* [journalism 2024.19](journalism_2024.19.md)
 * [journalism 2024.18](journalism_2024.18.md)
 
 ## Eletrict Motocycles
 
+* [motorcycles 2024.24](motorcycles_2024.24.md)
+* [motorcycles 2024.23](motorcycles_2024.23.md)
+* [motorcycles 2024.22](motorcycles_2024.22.md)
+* [motorcycles 2024.21](motorcycles_2024.21.md)
+* [motorcycles 2024.20](motorcycles_2024.20.md)
+* [motorcycles 2024.19](motorcycles_2024.19.md)
 * [motorcycles 2024.18](motorcycles_2024.18.md)
 * [motorcycles 2024.17](motorcycles_2024.17.md)
 * [motorcycles 2024.16](motorcycles_2024.16.md)

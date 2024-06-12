@@ -1,11 +1,31 @@
 ---
 title: motorcycles 2024.24
-updated: 2024-06-12 07:04:28
+updated: 2024-06-12 07:36:10
 ---
 
 # motorcycles 2024.24
 
-(date: 2024-06-12 07:04:28)
+(date: 2024-06-12 07:36:10)
+
+---
+
+## Here Are Some Track Day Tips From 6-Time WSBK Champ Jonathan Rea
+
+date: 2024-06-12, from: Ride Apart, Electric Motorcycle News
+
+Pair some pro tips with your practice and get your head ready for your next track day! 
+
+<https://www.rideapart.com/news/722954/jonathan-rea-track-day-tips/>
+
+---
+
+## Check Out These Insane Fake Supercar Jet-Skis
+
+date: 2024-06-12, from: Ride Apart, Electric Motorcycle News
+
+Brought to you by Florida, duh.  
+
+<https://www.rideapart.com/news/722924/supercar-jet-ski-watersports-car-miami-florida/>
 
 ---
 

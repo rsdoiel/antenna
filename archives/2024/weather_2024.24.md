@@ -1,29 +1,29 @@
 ---
 title: weather 2024.24
-updated: 2024-06-12 07:04:27
+updated: 2024-06-12 07:36:08
 ---
 
 # weather 2024.24
 
-(date: 2024-06-12 07:04:27)
+(date: 2024-06-12 07:36:08)
 
 ---
 
-## SPC - No watches are valid as of Wed Jun 12 13:46:02 UTC 2024
+## SPC - No watches are valid as of Wed Jun 12 14:03:02 UTC 2024
 
 date: 2024-06-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Wed Jun 12 13:46:02 UTC 2024. 
+No watches are valid as of Wed Jun 12 14:03:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Wed Jun 12 13:46:02 UTC 2024
+## SPC - No MDs are in effect as of Wed Jun 12 14:03:02 UTC 2024
 
 date: 2024-06-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Wed Jun 12 13:46:02 UTC 2024. 
+No Mesoscale Discussions are in effect as of Wed Jun 12 14:03:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/md/>
 
@@ -152,27 +152,26 @@ date: 2024-06-12, from: Eastern Pacific Tropical Weather Outlook
 
 ---
 
-## Central North Pacific Tropical Weather Outlook
+## Central Pacific Tropical Weather Outlook
 
-date: 2024-06-12, from: Central Pacific Basin Tropical Cyclones
+date: 2024-06-12, from: Central Pacific Tropical Weather Outlook
 
-
-<br/>
-000<br/>
-ACPN50 PHFO 121114<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-200 AM HST Wed Jun 12 2024<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Gibbs<br/>
- 
+ <br />
+ 000<br />
+ ACPN50 PHFO 121114<br />
+ TWOCP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS Central Pacific Hurricane Center Honolulu HI<br />
+ 200 AM HST Wed Jun 12 2024<br />
+ <br />
+ For the central North Pacific...between 140W and 180W:<br />
+ <br />
+ No tropical cyclones are expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Gibbs<br />
+  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
 
