@@ -1,11 +1,431 @@
 ---
 title: socal north 2024.24
-updated: 2024-06-10 09:22:53
+updated: 2024-06-12 07:04:26
 ---
 
 # socal north 2024.24
 
-(date: 2024-06-10 09:22:53)
+(date: 2024-06-12 07:04:26)
+
+---
+
+## California’s Transitional Kindergarten Expansion Creates Big Choices For Parents
+
+date: 2024-06-12, updated: 2024-06-12, from: The LAist
+
+As California moves toward its goal of serving more than 300,000 students by the fall of 2025, the success of universal TK will largely depend on parents buying into the program. 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/california-transitional-kindergarten-expansion-big-choices-parents>
+
+---
+
+## Classifieds – June 12, 2024
+
+date: 2024-06-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/12/classifieds-june-12-2024/">Classifieds &#8211; June 12, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/12/classifieds-june-12-2024/>
+
+---
+
+## Editorial Cartoon: “Never Done Graduating”
+
+date: 2024-06-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/06/12/editorial-cartoon-never-done-graduating/>
+
+---
+
+## DJ creates community with music in Signal Hill
+
+date: 2024-06-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Arron Herrera promotes music and good cheer to Hilltop Park every Sunday.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/12/dj-creates-community-with-music-in-signal-hill/">DJ creates community with music in Signal Hill</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/12/dj-creates-community-with-music-in-signal-hill/>
+
+---
+
+## Structured obedience fuels the violence against Gazans
+
+date: 2024-06-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Learned conformity has allowed atrocities against Palestine to keep occuring.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/12/structured-obedience-fuels-the-violence-against-gazans/">Structured obedience fuels the violence against Gazans</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/12/structured-obedience-fuels-the-violence-against-gazans/>
+
+---
+
+## The ascent of Noah Roberts
+
+date: 2024-06-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>After facing early adversity, the redshirt freshman is a future star for the Trojans.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/12/the-ascent-of-noah-roberts/">The ascent of Noah Roberts</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/12/the-ascent-of-noah-roberts/>
+
+---
+
+## Student Health shares advice for practicing healthy sleep, nutrition
+
+date: 2024-06-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Practicing mindfulness can improve physical and emotional health, Student Health said.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/12/student-health-shares-advice-for-practicing-healthy-sleep-nutrition/">Student Health shares advice for practicing healthy sleep, nutrition</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/12/student-health-shares-advice-for-practicing-healthy-sleep-nutrition/>
+
+---
+
+## Rocco’s Revival
+
+date: 2024-06-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Anaheim native Rocco Grimaldi is building a magical second act of his hockey career.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/12/roccos-revival/">Rocco’s Revival</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/12/roccos-revival/>
+
+---
+
+## Moving away from people taught me to value time with myself
+
+date: 2024-06-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>We are constantly around friends in college, so a solo summer was very daunting.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/12/moving-away-from-people-taught-me-to-value-time-with-myself/">Moving away from people taught me to value time with myself</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/12/moving-away-from-people-taught-me-to-value-time-with-myself/>
+
+---
+
+## University releases preliminary culture survey results
+
+date: 2024-06-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Respondents rated the University highest in “Excellence” and lowest in “Open Communication” and “Accountability.”</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/12/university-releases-preliminary-culture-survey-results/">University releases preliminary culture survey results</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/12/university-releases-preliminary-culture-survey-results/>
+
+---
+
+## Daily Trojan A&E staff predicts the 77th Tony Awards
+
+date: 2024-06-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The prestigious Broadway awards will take place on June 16 in New York City.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/12/daily-trojan-ae-staff-predicts-the-77th-tony-awards/">Daily Trojan A&#038;E staff predicts the 77th Tony Awards</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/12/daily-trojan-ae-staff-predicts-the-77th-tony-awards/>
+
+---
+
+## Keck workers hold informational picket
+
+date: 2024-06-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Workers called attention to the ongoing contract negotiations between the University and the Keck National Union of Healthcare Workers group, which have been unfolding for the past four months. </p>
+<p>The post <a href="https://dailytrojan.com/2024/06/12/keck-workers-hold-informational-picket/">Keck workers hold informational picket</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/12/keck-workers-hold-informational-picket/>
+
+---
+
+## Editorial Cartoon: “Light at the End of the Tunnel”
+
+date: 2024-06-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/06/11/editorial-cartoon-light-at-the-end-of-the-tunnel/>
+
+---
+
+## Editorial Cartoon: “A Graduate’s Next Step”
+
+date: 2024-06-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/06/11/editorial-cartoon-a-graduates-next-step/>
+
+---
+
+## Editorial Cartoon: “Con-grad-ulations!”
+
+date: 2024-06-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/06/11/editorial-cartoon-con-grad-ulations/>
+
+---
+
+## UCLA men’s tennis incoming freshman Kaylan Bigun secures French Open title
+
+date: 2024-06-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Kaylan Bigun fell to his knees after Saturday&#8217;s final stroke.
+He stood up the victor &#8211; letting out a yell toward the crowd with both arms held high &#8211; claiming his first Grand Slam. 
+
+<https://dailybruin.com/2024/06/11/ucla-mens-tennis-incoming-freshman-kaylan-bigun-secures-french-open-title/>
+
+---
+
+## Bruin to Bruin: Cari Champion
+
+date: 2024-06-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Cari Champion, a broadcast journalist and television host known for her work on Tennis Channel and ESPN, joins Podcasts contributors and sisters Lauren and Olivia Miller. 
+
+<https://dailybruin.com/2024/06/11/bruin-to-bruin-cari-champion/>
+
+---
+
+## Gallery: Through our lens 2023-2024
+
+date: 2024-06-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Daily Bruin Photo staffers reflect on some of the best memories this year from behind the camera. 
+
+<https://dailybruin.com/2024/06/11/gallery-through-our-lens-2023-2024/>
+
+---
+
+## This Year
+
+date: 2024-06-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+A recap of events from the 2023-2024 school year including the political demonstrations, departure of Chip Kelly, cancellation of Spring Sing and upcoming national election with Podcasts contributor Olivia Miller, City and Crime editor Sharla Steinman, Sports staff writer Jack Nelson, Arts editor Talia Sajor and Podcasts contributor Aidan Teeger. 
+
+<https://dailybruin.com/2024/06/11/this-year/>
+
+---
+
+## California Can Ban Gun Sales At Fairgrounds And On State Property, Federal Judges Rule
+
+date: 2024-06-12, updated: 2024-06-12, from: The LAist
+
+Judges at the 9th Circuit Court of Appeals distinguished between gun buyers’ First Amendment rights and the government’s authority to decide what kind of commerce takes place on public property. 
+
+<https://laist.com/news/politics/california-can-ban-gun-sales-at-fairgrounds-and-on-state-property-federal-judges-rule>
+
+---
+
+## These Wrongly Arrested Black Men Say A California Bill Would Let Police Misuse Face Recognition
+
+date: 2024-06-11, updated: 2024-06-11, from: The LAist
+
+Three men falsely arrested based on face recognition technology have joined the fight against a California bill that aims to place guardrails around police use of the technology. They say it will still allow abuses and misguided arrests. 
+
+<https://laist.com/news/politics/these-wrongly-arrested-black-men-say-a-california-bill-would-let-police-misuse-face-recognition>
+
+---
+
+## City to Begin Construction on Traffic and Pedestrian Safety Improvement Project
+
+date: 2024-06-11, from: City of Santa Clarita
+
+<p>City to Use $1.5 Million in Federal Funding for Road Enhancements Working in close collaboration with Senator Alex Padilla and Congressman Mike Garcia, the City of Santa Clarita was awarded $1.5 million in federal funding to address traffic circulation and pedestrian improvements within our community. To mark the start of construction, Congressman Mike Garcia and [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/06/11/city-to-begin-construction-on-traffic-and-pedestrian-safety-improvement-project/">City to Begin Construction on Traffic and Pedestrian Safety Improvement Project</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/06/11/city-to-begin-construction-on-traffic-and-pedestrian-safety-improvement-project/>
+
+---
+
+## BREAKING: Non-tenure track faculty win union election
+
+date: 2024-06-11, from: Laloyolan (LMU Student Newspaper)
+
+This win marks a significant step in the non-tenure track faculty unionization effort, which they declared last November. 
+
+<https://www.laloyolan.com/news/breaking-non-tenure-track-faculty-win-union-election/article_05158254-280f-11ef-8f18-8f8d5341748f.html>
+
+---
+
+## Deadline Extended For Angelenos To Weigh In On LA’s Next Police Chief
+
+date: 2024-06-11, updated: 2024-06-12, from: The LAist
+
+The Police Commission extended the deadline to complete a community survey to June 14. 
+
+<https://laist.com/news/politics/deadline-extended-for-angelenos-to-weigh-in-on-las-next-police-chief>
+
+---
+
+## Bruin to Bruin: Nia Sioux
+
+date: 2024-06-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+Nia Sioux, a UCLA senior and Dance Moms star, sits down with Podcasts contributor Megan Vahdat to discuss her time at UCLA, experiences on reality television, mental health initiative and plans for the future. 
+
+<https://dailybruin.com/2024/06/11/bruin-to-bruin-nia-sioux/>
+
+---
+
+## California Is Adding A New Grade For All 4 Year Olds. But Not Every District Has The Right Space For Them
+
+date: 2024-06-11, updated: 2024-06-12, from: The LAist
+
+School districts across the state are struggling to build or modify the classroom space most appropriate for new young learners. 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/california-transitional-kindergarten-tk-classroom-space-facilities-bonds>
+
+---
+
+## Senior Signoffs 2024
+
+date: 2024-06-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/tag/senior-signoffs-24>
+
+---
+
+## Pro-Palestine protesters arrested following protests, encampments on campus
+
+date: 2024-06-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated June 11 at 12:23 a.m.</em>
+Approximately 25 pro-Palestine protesters were arrested outside Dodd Hall and ordered to remain away from campus for 14 days after protests Monday that commemorated Palestinians killed in the Israel-Hamas war. 
+
+<https://dailybruin.com/2024/06/11/pro-palestine-protesters-arrested-following-protests-encampments-on-campus/>
+
+---
+
+## From Bruin Crossing to Kerckhoff 118: Final stroll down Bruinwalk -30-
+
+date: 2024-06-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+My introduction to the Daily Bruin emerged from an experience that many Bruins are familiar with &#8211; the mad rush of your first fall quarter at UCLA to branch out, make friends and explore absolutely everything. 
+
+<https://dailybruin.com/2024/06/10/from-bruin-crossing-to-kerckhoff-118-final-stroll-down-bruinwalk-30/>
+
+---
+
+## Passion, perseverance inspired me to use my voice, continue writing for The Bruin -30-
+
+date: 2024-06-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+For as long as I can remember, writing has been the thing that makes me tick.
+For a writer to understand how to “put the words together” – as my high school English teacher Mr. 
+
+<https://dailybruin.com/2024/06/10/passion-perseverance-inspired-me-to-use-my-voice-continue-writing-for-the-bruin-30/>
+
+---
+
+## Applying to The Bruin was an unexpected gift, but the best I could have asked for -30-
+
+date: 2024-06-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+Ironically, the best birthday gift that I gave to myself during my time at UCLA was applying to the Daily Bruin my freshman year. 
+It was Zoom University, and after having spent the past few months at home, I wanted to try and find a semblance of community, so I applied to the Daily Bruin, admittedly last minute since my birthday is Oct. 
+
+<https://dailybruin.com/2024/06/10/applying-to-the-bruin-was-an-unexpected-gift-but-the-best-i-could-have-asked-for-30/>
+
+---
+
+## Learning how to balance justice and journalism as a copy editor -30-
+
+date: 2024-06-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+A career in journalism was never on my radar.
+Activism &#8211; which is commonly perceived as incompatible with journalism &#8211; constituted a large part of my identity in high school. 
+
+<https://dailybruin.com/2024/06/10/learning-how-to-balance-justice-and-journalism-as-a-copy-editor-30/>
+
+---
+
+## Childhood dream restored, fulfilled thanks to experiences at Daily Bruin -30-
+
+date: 2024-06-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+At six years old, I knew I was going to work in the sports media business.
+Every day after school, I watched “SportsCenter” on ESPN. During the summer, I&#8217;d watch the same 60-minute show on replay for hours. 
+
+<https://dailybruin.com/2024/06/10/childhood-dream-restored-fulfilled-thanks-to-experiences-at-daily-bruin-30/>
+
+---
+
+## Final buzzer: Scoring friendship, purpose and passion in the Daily Bruin -30-
+
+date: 2024-06-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+Growing up, basketball was an escape for me.
+Every piece of life stress, personal or academic, vacated my mind as soon as I stepped on the court. 
+
+<https://dailybruin.com/2024/06/10/final-buzzer-scoring-friendship-purpose-and-passion-in-the-daily-bruin/>
+
+---
+
+## Opinion: Simplifying of news through repost culture harms political discourse
+
+date: 2024-06-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+Israel and Palestine. Russia and Ukraine. China and Taiwan. With numerous conflicts around the world, there has been some uncertainty for many young people about how to help. 
+
+<https://dailybruin.com/2024/06/10/opinion-simplifying-of-news-through-repost-culture-harms-political-discourse/>
+
+---
+
+## A perfect storm: Uncovering my calling as I journeyed through sports journalism -30-
+
+date: 2024-06-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+“Tyus! Tyus!” my dad called out. He waved down someone donning a UCLA tracksuit a few feet ahead.
+It was 2012, I was 10 years old and hobbling along on crutches from, fittingly, a basketball injury. 
+
+<https://dailybruin.com/2024/06/10/a-perfect-storm-uncovering-my-calling-as-i-journeyed-through-sports-journalism-30/>
+
+---
+
+## From punctuation to people, I learned so much in my time at the Daily Bruin -30-
+
+date: 2024-06-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+During my sophomore year, I applied to be a Daily Bruin Copy editor at 2:00 a.m. on the last possible date of the fall recruitment process. 
+
+<https://dailybruin.com/2024/06/10/from-punctuation-to-people-i-learned-so-much-in-my-time-at-the-daily-bruin-30/>
+
+---
+
+## Senior Class Co President statements
+
+date: 2024-06-11, from: California Tech (Caltech Student Newspaper)
+
+Candidate statements for potential senior class co-presidents. 
+
+<https://tech.caltech.edu/2024/06/statements/statements/>
+
+---
+
+## LA Public Library's Summer Reading Returns (With A New Tote Bag To Covet)
+
+date: 2024-06-10, updated: 2024-06-11, from: The LAist
+
+The Los Angeles Public Library’s summer reading challenges kicks off with a new tote bag designed by local artist Noor Sofi. 
+
+<https://laist.com/news/education/los-angeles-public-library-summer-reading-2024-tote-bag>
 
 ---
 

@@ -1,11 +1,849 @@
 ---
 title: tech likely 2024.24
-updated: 2024-06-10 09:22:53
+updated: 2024-06-12 07:04:27
 ---
 
 # tech likely 2024.24
 
-(date: 2024-06-10 09:22:53)
+(date: 2024-06-12 07:04:27)
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-12, from: Miguel de Icaza Mastondon feed)
+
+<p>And now Gnome does a cameo at Apple’s WWDC, you must see it to believe it!</p><p>Part of this great and concise video:</p><p><a href="https://developer.apple.com/videos/play/wwdc2024/10184/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">developer.apple.com/videos/pla</span><span class="invisible">y/wwdc2024/10184/</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112603953776125289>
+
+---
+
+## Computation Is All Around Us, and You Can See It if You Try
+
+date: 2024-06-12, from: Quanta Magazine
+
+Computer scientist Lance Fortnow writes that by embracing the computations that surround us, we can begin to understand and tame our seemingly random world.             <p>The post <a href="https://www.quantamagazine.org/computation-is-all-around-us-and-you-can-see-it-if-you-try-20240612/" target="_blank">Computation Is All Around Us, and You Can See It if You Try</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/computation-is-all-around-us-and-you-can-see-it-if-you-try-20240612/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-12, from: Dave Winer's Scripting News)
+
+Is <a href="https://imgs.scripting.com/2024/06/12/wordpressWritersExperience.png">this</a> the <a href="https://x.com/davewiner/status/1800879295063003367">user experience</a> writers want from WordPress? If I were designing it, I would start from scratch, build an easy writing tool for writers to focus on writing, and make the design process accessible if they want to work in that mode, but keep it out of their way because most writing has nothing to do with design. 
+
+<http://scripting.com/2024/06/12.html#a132537>
+
+---
+
+## NASA Supports California Students Aiming to Advance Technology
+
+date: 2024-06-12, from: NASA breaking news
+
+Students from a minority-serving university in California are helping solve challenges of autonomous systems for future drone operations on Earth and other planets. These students are making the most of opportunities with NASA, the U.S. Department of Defense, and industry, focusing on autopilot development and advanced systems that adapt and evolve. Students from California State [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-supports-california-students-aiming-to-advance-technology/>
+
+---
+
+## An Age of Hyperabundance
+
+date: 2024-06-12, from: Tilde.news
+
+<p><a href="https://tilde.news/s/0gioqb/age_hyperabundance">Comments</a></p> 
+
+<https://www.nplusonemag.com/issue-47/essays/an-age-of-hyperabundance/>
+
+---
+
+## This roof-mounted Raspberry Pi tracks flights and photographs the aurora borealis
+
+date: 2024-06-12, from: Raspberry Pi News (.com)
+
+<p>An Alaska-based maker sees your flight tracker and raises you with a two-for-one: a flight-tracking, aurora borealis-photographing, roof-mounted setup.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/this-roof-mounted-raspberry-pi-tracks-flights-and-photographs-the-aurora-borealis/">This roof-mounted Raspberry Pi tracks flights and photographs the aurora borealis</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/this-roof-mounted-raspberry-pi-tracks-flights-and-photographs-the-aurora-borealis/>
+
+---
+
+## NASA Ames Hosts National Wildfire Coordinating Group
+
+date: 2024-06-12, from: NASA breaking news
+
+On May 21-23, 2024, the National Wildfire Coordinating Group (NWCG) visited NASA Ames Research Center, with participants representing 13 agencies and organizations. NWCG is a cooperative group focused on providing national leadership to enable interoperable wildland fire operations among federal, state, local, Tribal, and territorial partners. NASA became an associate member of NWCG in February [&#8230;] 
+
+<https://www.nasa.gov/general/nasa-ames-hosts-national-wildfire-coordinating-group/>
+
+---
+
+## wal2mongo v1.0.7 is released
+
+date: 2024-06-12, from: PostgreSQL News
+
+<p>HighGo Software is pleased to announce the first GitHub community release of wal2mongo v1.0.7, which can be used to replicate PostgreSQL database changes to an output format that can be directly fed into the mongo client tool to achieve logical replication between PostgreSQl and MongoDB. Wal2mongo plugin is useful for a case where PostgreSQL is used as the main raw data source to collect data from outside world but MongoDB is used internally for data analytics purposes. Manual data migration between PostgreSQL and MongoDB poses a lot of potential problem and having a logical decoding plugin like wal2mongo can help reduce the data migration complexity between the two databases.</p>
+<h2>Source Code on GitHub</h2>
+<p>The source code releases of wal2mongo plugin can be found <a href="https://github.com/HighgoSoftware/wal2mongo/releases/tag/v1.0.7">here</a></p>
+<h2>Project Home on GitHub</h2>
+<p>https://github.com/HighgoSoftware/wal2mongo </p>
+<h2>About wal2mongo</h2>
+<p>wal2mongo is a PostgreSQL logical decoding output plugin designed to simplify logical replication from PostgreSQL to MongoDB by formatting the output into a JSON-like format accepted by MongoDB. For detailed information on how to use it, you can find it <a href="https://github.com/HighgoSoftware/wal2mongo">here</a></p>
+<p>The logical replication application project that can be used with wal2mongo to achieve a fully automatic logical replication setup with enhanced control, security and performance in mind. We will continue to improve the logical decoding performance and enhance wal2mongo functionalities based on community feedback.</p> 
+
+<https://www.postgresql.org/about/news/wal2mongo-v107-is-released-2873/>
+
+---
+
+##  The myth about cars that&#8217;s hurting cities. &#8220;In study after study in... 
+
+date: 2024-06-11, updated: 2024-06-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044791-the-myth-about-cars-hurti>
+
+---
+
+## Window Tiling and Snapping in Sequoia
+
+date: 2024-06-11, from: Michael Tsai
+
+William Gallagher: Now with macOS Sequoia, it&#8217;s having a third go &#8212; and this time it&#8217;s mimicking third-party window management apps. There are very many of these, including perhaps the most popular, Moom.All of them, including Apple&#8217;s new window tiling feature, let you either drag a given window to a certain spot on your screen, [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/11/window-tiling-and-snapping-in-sequoia/>
+
+---
+
+##  According to a new report from the FBI, murders, rapes, assaults, robberies,... 
+
+date: 2024-06-11, updated: 2024-06-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044793-according-to-a-new-report>
+
+---
+
+## NASA Selects 2024 Small Business, Research Teams for Tech Development
+
+date: 2024-06-11, from: NASA breaking news
+
+NASA will award funding to nearly 250 small business teams to develop new technologies to address agency priorities, such as carbon neutrality and energy storage for various applications in space and on Earth. The new awards from NASA’s Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) program invest in a diverse portfolio [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-selects-2024-small-business-research-teams-for-tech-development/>
+
+---
+
+## NASA Program Sends University Payloads to Space
+
+date: 2024-06-11, from: NASA breaking news
+
+NASA’s Flight Opportunities program sent two university payloads on suborbital flight tests onboard Virgin Galactic’s VSS Unity on June 8 when it launched from Spaceport America in Las Cruces, New Mexico. The payloads carrying scientific research from University of California, Berkeley and Purdue University in West Lafayette, Indiana, align with critical technology needs that NASA has [&#8230;] 
+
+<https://www.nasa.gov/image-article/nasa-program-sends-university-payloads-to-space/>
+
+---
+
+##  The 2024 Drone Photos Awards 
+
+date: 2024-06-11, updated: 2024-06-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/the-2024-drone-photos-awards>
+
+---
+
+## NASA Funds Study of Proposals to Investigate Space Weather Systems
+
+date: 2024-06-11, from: NASA breaking news
+
+NASA has selected three proposals for concept studies of missions to investigate the complex system of space weather that surrounds our planet and how it’s connected to Earth’s atmosphere. The three concepts propose how to enact the DYNAMIC (Dynamical Neutral Atmosphere-Ionosphere Coupling) mission, which was recommended by the 2013 Decadal Survey for Solar and Space [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-funds-study-of-proposals-to-investigate-space-weather-systems/>
+
+---
+
+## Ed Stone, Former Director of JPL, Voyager Project Scientist, Dies
+
+date: 2024-06-11, from: NASA breaking news
+
+Known for his steady leadership, consensus building, and enthusiasm for engaging the public in science, Stone left a deep impact on the space community. Edward C. Stone, former director of NASA’s Jet Propulsion Laboratory in Southern California, and longtime project scientist of the agency’s Voyager mission, died on June 9, 2024. He was 88. He [&#8230;] 
+
+<https://www.nasa.gov/missions/voyager-program/ed-stone-former-director-of-jpl-and-voyager-project-scientist-dies/>
+
+---
+
+## 11 Jun 2024
+
+date: 2024-06-11, from: Miguel de Icaza's blog
+
+<h1 id="swiftnavigation">SwiftNavigation</h1>
+<p>To celebrate that <a href="https://developer.apple.com/wwdc24/10103">RealityKit's is coming to MacOS, iOS and iPadOS</a> and is no
+longer limited to VisionOS, I am releasing
+<a href="https://github.com/migueldeicaza/SwiftNavigation">SwiftNavigation</a> for
+RealityKit.</p>
+<p>Last year, as I was building a game for VisionPro, I wanted the 3D characters I
+placed in the world to navigate the world, go from one point to another, avoid
+obstacles and have those 3D characters avoid each other.</p>
+<p>Almost every game engine in the world uses the C++ library
+<a href="http://recastnav.com">RecastNavigation</a> library to do this - Unity, Unreal and
+Godot all use it.</p>
+<p><a href="https://github.com/migueldeicaza/SwiftNavigation">SwiftNavigation</a> was born:
+Both a Swift wrapper to the underlying C++ library which leverages extensively
+Swift's C++ interoperability capabilities and it directly integrates into the
+RealityKit entity system.</p>
+<p>This library is magical, you create a <a href="https://xibbon.github.io/SwiftNavigationDocs/documentation/swiftnavigation/buildingmesh">navigation
+mesh</a>
+from the world that you capture and then you can <a href="https://xibbon.github.io/SwiftNavigationDocs/documentation/swiftnavigation/navmeshquery">query it</a> for paths to navigate
+from one point to another or you can create a <a href="https://xibbon.github.io/SwiftNavigationDocs/documentation/swiftnavigation/navmesh/makecrowd(maxagents:agentradius:)">crowd
+controller</a>
+that will automatically move your objects.</p>
+<p>Until I have the time to write full tutorials, your best bet is to look at the
+<a href="https://github.com/migueldeicaza/SwiftNavigationDemo">example project</a> that
+uses it.</p> 
+
+<https://tirania.org/blog/archive/2024/Jun-11.html>
+
+---
+
+## Under pressure from Russian censors, Mozilla removes anti-censorship extensions
+
+date: 2024-06-11, from: OS News
+
+A few days ago, I was pointed to a post on the Mozilla forums, in which developers of Firefox extensions designed to circumvent Russian censorship were surprised to find that their extensions were suddenly no longer available within Russia. The extension developers and other users in the thread were obviously not amused, and since they had received no warning or any other form of communication from Mozilla, they were left in the dark as to what was going on. I did a journalism and contacted Mozilla directly, and inquired about the situation. Within less than 24 hours Mozilla got back to me with an official statement, attributed to an unnamed Mozilla spokesperson: Following recent regulatory changes in Russia, we received persistent requests from Roskomnadzor demanding that five add-ons be removed from the Mozilla add-on store. After careful consideration, we’ve temporarily restricted their availability within Russia. Recognizing the implications of these actions, we are closely evaluating our next steps while keeping in mind our local community. ↫ Mozilla spokesperson via email I and most people I talked to already suspected this was the case, and considering Russia is a totalitarian dictatorship, it&#8217;s not particularly surprising it would go after browser extensions that allow people to circumvent state censorship. Other totalitarian dictatorships like China employ similar, often far more sophisticated methods of state control and censorship, too, so it&#8217;s right in line with expectations. I would say that I&#8217;m surprised Mozilla gave in, but at the same time, it&#8217;s highly likely resisting would lead to massive fines and possible arrests of any Mozilla employees or contributors living in Russia, if any such people exist, and I can understand a non-profit like Mozilla not having the means to effectively stand up against the Russian government. That being said, Mozilla&#8217;s official statement seems to imply they&#8217;re still in the middle of their full decision-making process regarding this issue, so other options may still be on the table, and I think it&#8217;s prudent to give Mozilla some more time to deal with this situation. Regardless, this decision is affecting real people inside Russia, and I&#8217;m sure if you&#8217;re using tools like these inside a totalitarian dictatorship, you&#8217;re probably not too fond of said dictatorship. Losing access to these Firefox extensions through the official add-store will be a blow to their human rights, so let&#8217;s hope the source code and &#8216;sideloaded&#8217; versions of these extensions remain available for them to use instead. 
+
+<https://www.osnews.com/story/139928/under-pressure-from-russian-censors-mozilla-removes-anti-censorship-extensions/>
+
+---
+
+##  Sacha Greif recently made the decision to pause his excellent design site/newsletter... 
+
+date: 2024-06-11, updated: 2024-06-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044789-sacha-greif-recently-made>
+
+---
+
+## NASA Invites Media for Launch of New Disaster Response System
+
+date: 2024-06-11, from: NASA breaking news
+
+NASA invites media to an event at the agency’s headquarters at 2 p.m. EDT Thursday, June 13, to learn about a new Disaster Response Coordination System that will provide communities and organizations around the world with access to science and data to aid disaster response. &#160; The event will be held in NASA’s James E. [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-for-launch-of-new-disaster-response-system/>
+
+---
+
+## Celebrating Pride at NASA’s Ames Research Center
+
+date: 2024-06-11, from: NASA breaking news
+
+The Intersex Progress Pride flag (beneath the American flag) flies in front of the Administration Building at NASA’s Ames Research Center in California’s Silicon Valley on June 5, 2024, to commemorate LGBTQI+ Pride Month. This is the first time the flag has flown at any NASA center. We celebrate and honor the LGBTQI+ members of [&#8230;] 
+
+<https://www.nasa.gov/image-article/celebrating-pride-at-nasas-ames-research-center/>
+
+---
+
+## Apple WWDC 2024: the 13 biggest announcements
+
+date: 2024-06-11, from: OS News
+
+Apple’s Worldwide Developers Conference keynote has come to a close — and the company had a whole lot to share. We got our first look at the AI features coming to Apple’s devices and some major updates across the company’s operating systems. If you missed out on watching the keynote live, we’ve gathered all the biggest announcements that you can check out below. ↫ Emma Roth at The Verge Most of the stuff Apple announced aren&#8217;t particularly interesting &#8211; a lot of catch-up stuff that has become emblematic of companies like Google, Apple, and Microsoft when it comes to their operating systems. The one thing that did stand out is Apple&#8217;s approach to offloading machine learning requests to the cloud when they are too difficult to handle on device. They&#8217;ve developed a new way of doing this, using servers with Apple&#8217;s own M chips, which is pretty cool and harkens back the days of the Xserve. In short, these server are using the same kind of techniques to encrypt and secure data on iPhones, but now to encrypt and secure the data coming in for offloaded machine learning requests. The root of trust for Private Cloud Compute is our compute node: custom-built server hardware that brings the power and security of Apple silicon to the data center, with the same hardware security technologies used in iPhone, including the Secure Enclave and Secure Boot. We paired this hardware with a new operating system: a hardened subset of the foundations of iOS and macOS tailored to support Large Language Model (LLM) inference workloads while presenting an extremely narrow attack surface. This allows us to take advantage of iOS security technologies such as Code Signing and sandboxing. ↫ Apple&#8217;s security research blog Apple also provided some insight into where its training data is coming from, and it claims it&#8217;s only using licensed data and &#8220;publicly available data collected by our web-crawler&#8221;. The words &#8220;licensed&#8221; and &#8220;publicly available&#8221; are doing a lot of heavy lifting here, and I&#8217;m not entirely sure what definitions of those terms Apple is using. There are enough people out there who feel every piece of data &#8211; whether under copyright, available under an open source license, or whatever &#8211; is fair, legal game for ML training, so who knows what Apple is using based on these statements alone. From Apple&#8217;s presentations yesterday, as well as any later statements, it&#8217;s also not clear when machine learning requests get offloaded in the first place. Apple states they try to run as much as possible on-device, and will offload when needed, but the conditions under which such offloading happens are nebulous and unclear, making it hard for users to know what&#8217;s going to happen when they use Apple&#8217;s new machine learning features. 
+
+<https://www.osnews.com/story/139926/apple-wwdc-2024-the-13-biggest-announcements/>
+
+---
+
+##  Neutrinos &#8220;hold the keys to new physics&#8221; but are &#8220;driving scientists crazy&#8221;.... 
+
+date: 2024-06-11, updated: 2024-06-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044787-neutrinos-hold-the-keys-t>
+
+---
+
+## Right-margin images
+
+date: 2024-06-11, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/11/nakedJenToday.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's been driving me <a href="https://www.facebook.com/dave.winer.12/posts/pfbid024FDKvbd25XG3C2JQmfXBuvXGZuyw7btYnXRKZtVWmLbABdyH8ke93rqfTnK6EkUjl">crazy</a> watching Stan Krute doing all these weird and often beautifully bizarre ChatGPT images, and realizing they are only being seen by people on Facebook when there's this huge world of creative people that don't or won't use FB.</p>
+<p>Then it occurred to me, I have the perfect place for these images, outside the facebookiverse, that would showcase them, and be easy to produce (I don't want to take on responsibility for big production overhead myself).</p>
+<p>I have images I put in the right margin of blog posts on <a href="http://scripting.com/">Scripting News</a>. Small little bits of creative color, that may or may not be connected to the story they are next to. And sometimes connected in non-obvious ways, intended to make you think.</p>
+<p>Then NakedJen sent me a recent picture of herself that's perfect for the right margin. Seen in the right margin of this post.</p>
+<p>Here's a <a href="http://scripting.com/images/manyImages.html">page</a> where you can scroll through the collection of images I can choose from. I'd love to add more creative stuff here. And I'd love to get some of Stan Krute's genius or Brad Pettit or whoever else might be so inspired. </p>
+<p>No promises about when or if they'd be used. You can post them here, as comments on this message if you like. </p>
+<p>I may have to restrict this to people I follow, just letting you know, based on past experience. </p>
+ 
+
+<http://scripting.com/2024/06/11/185209.html?title=rightmarginImages>
+
+---
+
+## NASA Glenn Visits Duluth for Air and Aviation Expo, STEAM Festival
+
+date: 2024-06-11, from: NASA breaking news
+
+NASA’s Glenn Research Center public engagement staff arrived in Minnesota for the Duluth Air and Aviation Expo, May 17-18, with several exhibits and two hometown stars who joined as part of a larger NASA presence. Duluthian Heather McDonald met with local students to talk about living and working in space and how she became the [&#8230;] 
+
+<https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-visits-duluth-for-air-and-aviation-expo-steam-festival/>
+
+---
+
+## TECH Day at NASA Attracts Middle School Students
+
+date: 2024-06-11, from: NASA breaking news
+
+Research shows that STEM education is important to middle school students because it helps them develop critical thinking and problem-solving skills. It is also crucial for preparing students for their future careers.&#160;&#160; NASA Glenn Research Center’s Office of STEM Engagement invited middle school students from several area schools to TECH Day at NASA Glenn in [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/tech-day-at-nasa-attracts-middle-school-students/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-11, from: Miguel de Icaza Mastondon feed)
+
+<p>Apple has listened to our prayers:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112599454894263293>
+
+---
+
+##  Backcountry biker Laura Killingbeck thoughtfully weighs in on the &#8220;man or bear?&#8221;... 
+
+date: 2024-06-11, updated: 2024-06-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044788-backcountry-biker-laura-k>
+
+---
+
+##  The Cookie Monster Alphabet 
+
+date: 2024-06-11, updated: 2024-06-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/the-cookie-monster-alphabet>
+
+---
+
+##  An in-depth look at the Etak Navigator, the first practical vehicle navigation... 
+
+date: 2024-06-11, updated: 2024-06-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044776-an-in-depth-look-at-the>
+
+---
+
+##  The View From Earth of Different Planets Replacing the Moon 
+
+date: 2024-06-11, updated: 2024-06-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/the-view-from-earth-of-different-planets-replacing-the-moon-1>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-11, from: Miguel de Icaza Mastondon feed)
+
+<p>To monetize AI, you either sprinkle it into your existing products or you sell shovels to those people.</p><p>The rest is fun, but hard.</p><p>The fart app era or AI is over.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112598784981309480>
+
+---
+
+##  The &#8220;Coming to Apple TV+&#8221; reel shown at WWDC contains some tantalizing... 
+
+date: 2024-06-11, updated: 2024-06-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044785-the-coming-to-apple-tv>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-11, from: Miguel de Icaza Mastondon feed)
+
+<p>To celebrate that RealityKit is coming in full force to iOS, MacOS and iPadOS, I am releasing SwiftNavigation - a Swift and RealityKit library to do mesh navigation - with optional RealityKit integration:</p><p>Read more here:</p><p><a href="https://tirania.org/blog/archive/2024/Jun-11.html" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">tirania.org/blog/archive/2024/</span><span class="invisible">Jun-11.html</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112598574156426278>
+
+---
+
+##  Three Bags Full, about a flock of whodunit-solving sheep, has been adapted... 
+
+date: 2024-06-11, updated: 2024-06-11, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044779-three-bags-full-about-a>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-11, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/11/nakedJenToday.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Meanwhile the Repubs are getting ahead of themselves. Bannon said <a href="https://politicalwire.com/2024/06/11/bannon-tells-ex-fbi-directors-to-leave-the-country/">something</a> that he should be arrested for. I'm sure it's horribly illegal to threaten people the way he did, and he did it in public. 
+
+<http://scripting.com/2024/06/11.html#a143023>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-11, from: Dave Winer's Scripting News)
+
+I caught a bit of the last <a href="https://ew.com/tv/vanna-white-loses-celebrity-wheel-of-fortune-to-jeopardy-hosts-mayim-bialik-ken-jennings/">Wheel of Fortune</a>. The three players were celebs: Vanna White, Ken Jennings and Mayim Bialik. What was remarkable was how super-human Jennings is. He could solve the puzzle with almost no information. I have no clue how he saw the patterns. He has freakish intelligence. 
+
+<http://scripting.com/2024/06/11.html#a142700>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-11, from: Dave Winer's Scripting News)
+
+Someone should tell the kids the Repubs will come for their weed. Just sayin. There probably are a number of voting age youngsters who have never lived in a time and place when cannabis was illegal. 
+
+<http://scripting.com/2024/06/11.html#a142134>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-11, from: Dave Winer's Scripting News)
+
+By popular demand -- my blogroll now makes it more clear that the permalink to each item is the date of the item. <a href="https://imgs.scripting.com/2024/06/11/blogrollScreenShot.png">Screen shot</a>. This is a convention in blogs and social media apps that the timestamp doubles as a permalink. And I think this is more distracting, and cluttered, but let's give it a try. It's possible that people missed that they could go to the website from the blogroll. Now it should be more obvious. 
+
+<http://scripting.com/2024/06/11.html#a141007>
+
+---
+
+## Ostrichs in Government, Part II
+
+date: 2024-06-11, updated: 2024-06-11, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/06/11/ostrichs-in-government-part-ii/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-11, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2021/05/13/knicksFan.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The Repubs are coming uncloaked. Their slogan might as well be Revenge. It's the one thing everyone who votes for Trump wants more than anything. They hate their lives, and are looking for someone to release their rage on. They don't know how else to do it. It doesn't have much to do with inflation or unemployment, material wealth. It's deeper than that. We're all living a lie, that if we had money we'd be happy. The sad truth is no one is happy with this arrangement. Ask a billionaire if you don't believe me. They have huge grievances which you would have thought all that wealth would have cured them of. The new Nazis have a selling proposition that works every few generations, after the memory of the previous societal explosion are gone. My parents, the last people I knew who lived through the Nazis are gone. I just have the memory of the aftermath, and it wasn't pretty. “All of this has happened before, and it will all happen again.” We're at the beginning of the "happen again" moment. My grandfather told me what to do, but I won't do it, pretty sure of that. 
+
+<http://scripting.com/2024/06/11.html#a134713>
+
+---
+
+## Adobe’s Slow Decay
+
+date: 2024-06-11, from: Tedium site
+
+The problem with Adobe is not any single decision it has made. It is the company’s longer track record, which suggests a genuine lack of respect for non-enterprise users. They’re allowing things to rot. 
+
+<https://feed.tedium.co/link/15204/16710857/adobe-consumer-trust-decline>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-11, from: Miguel de Icaza Mastondon feed)
+
+<p>Stolen from threads:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112598189195043611>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-11, from: Miguel de Icaza Mastondon feed)
+
+<p>Good talk on squeezing your models to run on small devices and apple silicon:</p><p><a href="https://developer.apple.com/wwdc24/10159" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">developer.apple.com/wwdc24/101</span><span class="invisible">59</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112598148881854876>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-11, from: Miguel de Icaza Mastondon feed)
+
+<p>Apple trained their models to work with the AppIntents schema (this powers shortcuts and existing Siri commands), a great way of surfacing the existing capabilities of apps and extend their reach.</p><p>While Microsoft could have done this, their equivalent frameworks are just not widely used - a phenomenon caused in part by slow upgrading windows users and in part by a void in evangelism for their Windows platform.  </p><p>The core product advances are left out in the cold to fend for themselves.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112598028288591370>
+
+---
+
+## 2024-06-07 Leukerbad
+
+date: 2024-06-11, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-07-leukerbad">2024-06-07 Leukerbad</h1>
+
+<p>Visiting the Swiss Alps in order to meet family tomorrow.</p>
+
+<p>Looking towards Sion from the bus from Leuk to Leukerbad.</p>
+
+<p><img loading="lazy" src="2024-06-07-leukerbad-1.jpg" alt="" /></p>
+
+<p>Sadly, it rains.</p>
+
+<p><img loading="lazy" src="2024-06-07-leukerbad-2.jpg" alt="" /></p>
+
+<p>Wonderful waterfalls.</p>
+
+<p><img loading="lazy" src="2024-06-07-leukerbad-3.jpg" alt="" /></p>
+
+<p>The humidity called forth beautiful snails.</p>
+
+<p><img loading="lazy" src="2024-06-07-leukerbad-4.jpg" alt="" /></p>
+
+<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
+
+<https://alexschroeder.ch/view/2024-06-07-leukerbad>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-11, from: Miguel de Icaza Mastondon feed)
+
+<p>I don’t think developers that use iPads and want it to become Macs appreciate just how vast the not-developer app ecosystem is.</p><p>Just look at the downloads numbers for apps like Sketcher3D or paint applications and compare it to developer tools.</p><p>The difference ranges between 100x to 1000x reviews.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112597998431650605>
+
+---
+
+## [REPOST] Will the climate crisis be a boon for authoritarians?
+
+date: 2024-06-11, from: Dave Karpf's blog
+
+Revisiting a two-year-old piece 
+
+<https://davekarpf.substack.com/p/repost-will-the-climate-crisis-be>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-11, from: Miguel de Icaza Mastondon feed)
+
+<p>My new motto:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112597842318069120>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-11, from: Miguel de Icaza Mastondon feed)
+
+<p>SwiftGodot made a short appearance on what’s new in Swift!</p> 
+
+<https://mastodon.social/@Migueldeicaza/112597839630464141>
+
+---
+
+## Answers: Generative AI as Learning Tool
+
+date: 2024-06-11, from: O'Reilly Radar
+
+At O’Reilly, we’re not just building training materials about AI. We’re also using it to build new kinds of learning experiences. One of the ways we are putting AI to work is our update to Answers. Answers is a generative AI-powered feature that aims to answer questions in the flow of learning. It’s in every [&#8230;] 
+
+<https://www.oreilly.com/radar/answers-generative-ai-as-learning-tool/>
+
+---
+
+## character
+
+date: 2024-06-11, from: Ayjay blog
+
+The book of Genesis features a large number of distinct and memorable characters: Adam and Eve, Noah, Abraham and Sarah, Esau and Jacob, Joseph. Our attention is captured for the longest periods by Abraham and Jacob, but often we see them in relation to their children and other family members. They rarely occupy the stage [&#8230;] 
+
+<https://blog.ayjay.org/character/>
+
+---
+
+## The money conundrum
+
+date: 2024-06-11, from: Manu - I write blog
+
+
+                <p>I wrote about my dislike of money before on this site. Money and everything related to it is by far the part I enjoy the least about my job. And it’s a non-negligible part of it considering I worked solo my entire life. What’s hard for me is this idea of attaching a monetary value to what I do. I was struggling doing it 13 years ago, when I started my career, I’m struggling with it today and I’m sure it won’t change anytime soon. That’s because work, for me, is not a matter of trading money for a service. It’s a human interaction. And adding money to a human interaction makes no sense.</p>
+<p>Don’t get me wrong, I get why it does make sense in a practical sense. I’m not an idiot. I just don’t understand it at a more deeply personal level. What drives me is the desire to help people. This is either directly, with my job or indirectly, with the other things I do online. And when you’re driven by this desire to help others, money becomes a painful obstacle. Because I just can’t spend my time helping others and not earn a living. It’s just not an option. So I have to compromise.</p>
+<p>I discussed this topic in the past with various people and one of the feedback I got is to treat work just as a way of earning enough to free more time that I can then use to help others. That’s a reasonable suggestion but I just can’t apply it to my life. I don’t know why, I can’t get into that type of mindset. I’m sure part of this is the good old impostor syndrome which I’ll have to confront at some point but part is just the nature of who I am as a person.</p>
+<p>This is also why I struggle with the idea of monetising my side projects. It’s why I love the “Pay What You Want” model because it eliminates the burden of having to put a price on what I do.</p>
+<p>This constant tension between money on one side and the desire to help others on the other is also why I live on the edge of constant burnout. Saying no to people is hard when you know you have the skills necessary to help them. And it’s why I always end up with way too many projects going on at the same time and find myself waking up in the middle of the night thinking about all the things that I have to do and I won’t have time to do. And it sucks. I know it’s not a healthy way of living but I have not yet learned how to do things differently.</p>
+<p>Money sucks. It sucks that we constantly have to keep it in mind. It sucks that we can’t just ignore it and focus on the things that matter. Money is also weird. You’d think that the same amount of money would make the same type of impact in my life but it clearly doesn’t. Every time someone signs up for my “one a month” membership I’m super happy. And it’s just 1$. Actually, it’s not even 1$ because after the various fees I’m left with roughly 70 cents. But those 70 cents have meaning. But 70 extra cents on a client invoice is a rounding error. I don’t even care. Hell, earning 2000$ doesn’t have the same effect from a personal standpoint as getting one extra subscriber for 1$ a month. Human psychology is fascinating.</p>
+<hr />
+<p>Speaking of one-a-month members, I recently tweaked my <a href="https://manuelmoreale.com/supporters">supporters page</a> because I hated the idea of not having a place to acknowledge those people who were kind enough to support what I do at some point but are no longer active subscribers. Just removing them from the list didn’t feel right so I added an extra section for past members.</p>
+<p>The internet would really benefit from having a native way to let people support each other. It’s great that services like <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a> exist but also part of me would love to have all these functionalities integrated at the browser level somehow. I’m sure someone is reading this and screaming “Crypto! Blockchain!” but I doubt that’s a solution.</p>
+<p>Anyway, I’m curious to know if you have thoughts on this whole money thing so if you do, please get in touch.</p>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/Nmla2pShP0p5Bnpv>
+
+---
+
+## Vouch for Me
+
+date: 2024-06-11, from: Greg Egan's feed
+
+My new story, "Vouch For Me", has just been published in the July/August 2024 issue of Analog magazine. 
+
+<https://www.gregegan.net/BIBLIOGRAPHY/Bibliography.html>
+
+---
+
+## Raspberry Pi IPO
+
+date: 2024-06-11, from: Raspberry Pi News (.com)
+
+<p>Today, we’re proud to announce that Raspberry Pi has listed on the London Stock Exchange, as Raspberry Pi Holdings plc.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/raspberry-pi-ipo/">Raspberry Pi IPO</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/raspberry-pi-ipo/>
+
+---
+
+## Could low-carbon cement and steel be cheaper than we think?
+
+date: 2024-06-11, from: Hannah Richie at Substack
+
+Low-carbon cement and steel costs at least 25% extra. But this increases the cost of final products &#8211; like a house or car &#8211; by just 1%. 
+
+<https://www.sustainabilitybynumbers.com/p/cement-steel-premium>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-11, from: Miguel de Icaza Mastondon feed)
+
+<p>The new calendar is lovely, color coded for calendars and  tasks</p> 
+
+<https://mastodon.social/@Migueldeicaza/112595173154238323>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-10, from: Miguel de Icaza Mastondon feed)
+
+<p>Loving the updater Journal app.</p><p>And it features printing and streak reminders</p><p>Also, you can export your entries now from the settings app.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112594921883421798>
+
+---
+
+## Tuxedo showcases prototype Linux laptop with Snapdragon X Elite
+
+date: 2024-06-10, from: OS News
+
+I&#8217;ve long been waiting for a powerful ARM laptop that can run Linux comfortably, and it seems that with Qualcomm&#8217;s new Snapdragon X Elite SoC, that&#8217;s finally going to happen. We talked earlier about how for once, Qualcomm is taking Linux support for their new laptop-focused processors very seriously, and that promise and associated effort is paying dividend. Tuxedo, a popular Linux OEM from Germany, has announced it&#8217;s working on a laptop with the Snapdragon X Elite chip, and they showed off a working prototype at Computex in Taiwan. We have been working with a first prototype for some time, which will soon be replaced by a second one. The development is still in the alpha stage, as some drivers are still missing, which will hopefully be available with the next two kernel versions. It is quite conceivable that an ARM notebook from TUXEDO will be under your Christmas tree in 2024. However, there are still too many pieces of the hardware, software and delivery capability puzzle missing to even begin to set a release date. TUXEDO for ARM will come, but we don’t yet know exactly when. ↫ Tuxedo&#8217;s website Their timeline of more Qualcomm drivers making it into the next two kernel versions lines up with Qualcomm&#8217;s own timeline, so it seems we&#8217;re mostly just waiting for them to finish their Linux drivers and add them to the kernel. This is quite exciting, and a much better option for Linux users than buying a Windows version of an X Elite or Pro laptop and hoping for the best. 
+
+<https://www.osnews.com/story/139924/tuxedo-showcases-prototype-linux-laptop-with-snapdragon-x-elite/>
+
+---
+
+##  A scientific investigation into bears, the cuddly apex predator: If Not Friend,... 
+
+date: 2024-06-10, updated: 2024-06-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044780-a-scientific-investigatio>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-10, from: Dave Winer's Scripting News)
+
+<a href="http://scripting.com/2024/06/10/whyTheMechanismBehindChatGPTDoesntMatter.m4a">Podcast</a>: Why the mechanism behind ChatGPT doesn't matter. As usual I ramble all over the place, but hopefully this illuminates and perhaps entertains. 15 minutes. 
+
+<http://scripting.com/2024/06/10.html#a210933>
+
+---
+
+##  Cotino is a &#8220;Storyliving by Disney™ community&#8221; in the greater Palm Springs... 
+
+date: 2024-06-10, updated: 2024-06-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044775-cotino-is-a-storyliving-b>
+
+---
+
+## NetBSD 10 with disk encryption on UEFI, and NetBSD 10 on the Pinebook Pro
+
+date: 2024-06-10, from: OS News
+
+NetBSD 10 was released recently, so a lot of people are experimenting with it and writing down their thoughts. I&#8217;ve got two of those for you today, to help you in case you, too, want to install NetBSD 10 and play around with, or just use, it. First, what if you want to install NetBSD 10 on a UEFI system, but with full disk encryption in case your device gets stolen? It turns out there are countless guides for installing with full-disk encryption on MBR-based systems, but once you use UEFI &#8211; as you should be &#8211; things get a lot more complicated. The NetBSD installer is apparently rather basic, and a better solution is to drop to a shell and install NetBSD that way instead, and even then, full disk encryption with UEFI is actually not possible, as it seems the root file system &#8211; where the operating system itself resides &#8211; cannot be encrypted. The restriction is in the root file-system. It needs to be in plain-text and in a regular partition. It seems to me that rootfs in CGD or LVM is not well supported. ↫ vsis.online This seems like something the NetBSD team may need to take a look at, since full disk encryption should be an easy option to choose, even, or especially in 2024, on UEFI systems. Such encryption is easily achieved on Linux or Windows systems, and it seems odd to me that NetBSD is lagging behind a bit here. In the meantime, the linked guide will be a good jumping-off point for those of you interested in going a similar route. The second article I want to highlight concerns NetBSD 10 on the Pinebook Pro, the inexpensive ARM laptop that normally ships with Linux. It turns out there&#8217;s a NetBSD 10 image for this device, so installation is quite a bit more straightforward than the more exotic setup I mentioned earlier. It seems most of the hardware works quite well out of the box, with the inly exception being the on-board Wi-Fi, which the author addressed with a USB W-Fi dongle. Other than that, NetBSD is running well on the Pinebook Pro for the author, which is great to read since that makes this cheap device a great starting point for people interested in running NetBSD. 
+
+<https://www.osnews.com/story/139922/netbsd-10-with-disk-encryption-on-uefi-and-netbsd-10-on-the-pinebook-pro/>
+
+---
+
+##  AI Can Ruin Movies Now, Too 
+
+date: 2024-06-10, updated: 2024-06-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/ai-can-ruin-movies-now-too>
+
+---
+
+##  The Verge: the 13 biggest announcements from Apple&#8217;s developer conference, including their... 
+
+date: 2024-06-10, updated: 2024-06-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044784-the-verge-the-13-biggest>
+
+---
+
+## Apple Intelligence Announced
+
+date: 2024-06-10, from: Michael Tsai
+
+Apple (preview, Hacker News, MacRumors, 9To5Mac): Writing Tools help users feel more confident in their writing. With Rewrite, Apple Intelligence allows users to choose from different versions of what they have written, adjusting the tone to suit the audience and task at hand. From finessing a cover letter, to adding humor and creativity to a [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/10/apple-intelligence-announced/>
+
+---
+
+## macOS 15 Sequoia Announced
+
+date: 2024-06-10, from: Michael Tsai
+
+Apple (preview, Hacker News, MacRumors, 9to5Mac): macOS Sequoia makes Continuity even more magical with iPhone Mirroring, which allows users to fully access and engage with their iPhone &#8212; right from their Mac. A user&#8217;s custom wallpaper and icons appear just like on their iPhone, and they can swipe between pages on their Home Screen, or [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/10/macos-15-sequoia-announced/>
+
+---
+
+## iPadOS 18 Announced
+
+date: 2024-06-10, from: Michael Tsai
+
+Apple (preview, MacRumors, 9to5Mac): With iPadOS 18, Calculator comes to iPad with Math Notes, along with new handwriting tools in Notes &#8212; all designed for Apple Pencil. [&#8230;] An all-new Math Notes calculator allows users to type or write out mathematical expressions and see them instantly solved in their own handwriting. They can also assign [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/10/ipados-18-announced/>
+
+---
+
+## watchOS 11 Announced
+
+date: 2024-06-10, from: Michael Tsai
+
+Apple (preview, MacRumors, 9to5Mac): The new Vitals app surfaces key health metrics and context to help users make more informed day-to-day decisions, and the ability to measure training load offers a game-changing new experience when working out for improved fitness and performance. Activity rings are even more customizable, the Smart Stack and Photos face use [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/10/watchos-11-announced/>
+
+---
+
+## tvOS 18 Announced
+
+date: 2024-06-10, from: Michael Tsai
+
+Apple (MacRumors, 9to5Mac): With tvOS 18, intelligent new features like InSight &#8212; and updates to Enhance Dialogue and subtitles &#8212; level up cinematic experiences, while new Apple Fitness+, Apple Music, and FaceTime capabilities get even better on users&#8217; biggest screen. The Home app gains new features with iOS 18, like guest access and hands-free unlock [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/10/tvos-18-announced/>
+
+---
+
+## iOS 18 Announced
+
+date: 2024-06-10, from: Michael Tsai
+
+Apple (MacRumors, 9to5Mac): Users will be able to arrange apps and widgets in any open space on the Home Screen, customize the buttons at the bottom of the Lock Screen, and quickly access more controls in Control Center. Photo libraries are automatically organized in a new single view in Photos, and helpful new collections keep [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/10/ios-18-announced/>
+
+---
+
+## visionOS 2 Announced
+
+date: 2024-06-10, from: Michael Tsai
+
+Apple (preview, MacRumors, 9to5Mac): With visionOS 2, users can revisit past memories by creating spatial photos directly from their library in the Photos app. visionOS uses advanced machine learning to transform a 2D image into a beautiful spatial photo that truly comes to life on Vision Pro. [&#8230;] Later this year, Canon will offer a [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/10/visionos-2-announced/>
+
+---
+
+##  &#8220;There have been more gun suicides than gun homicides in the United... 
+
+date: 2024-06-10, updated: 2024-06-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044777-there-have-been-more-gun>
+
+---
+
+##  &#8220;Elephants call each other by name and respond when they hear others... 
+
+date: 2024-06-10, updated: 2024-06-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044778-elephants-call-each-other>
+
+---
+
+##  1982 DC Comics Style Guide 
+
+date: 2024-06-10, updated: 2024-06-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/1982-dc-comics-style-guide>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-10, from: Miguel de Icaza Mastondon feed)
+
+<p>God I love these Journal updates.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112593495695434292>
+
+---
+
+##  Tapping the sign: the important differences between patriotism & nationalism. &#8220;Patriotism: pride... 
+
+date: 2024-06-10, updated: 2024-06-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044772-tapping-the-sign-the-impo>
+
+---
+
+##  Guy Who Sucks At Being A Person Sees Huge Potential In AI.... 
+
+date: 2024-06-10, updated: 2024-06-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044771-guy-who-sucks-at-being>
+
+---
+
+## Ostrichs in Government, Part I
+
+date: 2024-06-10, updated: 2024-06-10, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/06/10/ostrichs-in-government-part-i/>
+
+---
+
+##  Maris Kreizman argues for adding full credit pages to books acknowledging everyone... 
+
+date: 2024-06-10, updated: 2024-06-10, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044768-maris-kreizman-argues-for>
 
 ---
 
@@ -218,6 +1056,16 @@ date: 2024-06-10, updated: 2024-06-10, from: nlnet feed
 
 ---
 
+## Browsertrix 1.10: Now with Assistive QA!
+
+date: 2024-06-10, updated: 2024-06-10, from: Web Recorder
+
+After some rest and a few solid weeks of polish after our demo at IIPC’s 2024 Web Archiving Conference, we’re proud to release Browsertrix 1.10: Now with Assistive QA! 
+
+<https://webrecorder.net//2024/06/10/browsertrix-1-10.html>
+
+---
+
 ## pgmoneta 0.12
 
 date: 2024-06-10, from: PostgreSQL News
@@ -405,36 +1253,6 @@ date: 2024-06-09, from: Tilde.news
 <p><a href="https://tilde.news/s/qjzj2a/nfs_must_die_byfs">Comments</a></p> 
 
 <https://nluug.nl/bestanden/presentaties/2024-05-21-tom-lyon-why-nfs-must-die-and-how-to-get-beyond-file-sharing-in-the-cloud.pdf>
-
----
-
-## 2024-06-07 Leukerbad
-
-date: 2024-06-09, from: Alex Schroeder's Blog
-
-<h1 id="2024-06-07-leukerbad">2024-06-07 Leukerbad</h1>
-
-<p>Visiting the Swiss Alps inorder to meet family tomorrow.</p>
-
-<p>Looking towards Sion from the bus from Leuk to Leukerbad.</p>
-
-<p><img loading="lazy" src="2024-06-07-leukerbad-1.jpg" alt="" /></p>
-
-<p>Sadly, it rains.</p>
-
-<p><img loading="lazy" src="2024-06-07-leukerbad-2.jpg" alt="" /></p>
-
-<p>Wonderful waterfalls.</p>
-
-<p><img loading="lazy" src="2024-06-07-leukerbad-3.jpg" alt="" /></p>
-
-<p>The humidity called forth beautiful snails.</p>
-
-<p><img loading="lazy" src="2024-06-07-leukerbad-4.jpg" alt="" /></p>
-
-<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p> 
-
-<https://alexschroeder.ch/view/2024-06-07-leukerbad>
 
 ---
 

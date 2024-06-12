@@ -1,11 +1,292 @@
 ---
 title: writing 2024.24
-updated: 2024-06-10 09:22:53
+updated: 2024-06-12 07:04:27
 ---
 
 # writing 2024.24
 
-(date: 2024-06-10 09:22:53)
+(date: 2024-06-12 07:04:27)
+
+---
+
+## How to Proofread Your Manuscript in Scrivener
+
+date: 2024-06-12, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p>When you finish the first draft of your manuscript, there are several steps you need to complete to prepare it for submission to agents or publishers: revising, editing, and proofreading. Revising looks at the big picture of a book: the characters, the flow, the plot and subplots, and the timeline, to improve the overall clarity, coherence, and logical flow of the writing. Editing focuses on refining the language and style of the writing to ensure that it is clear, concise, and that it is in the author&#39;s voice.</p>
+
+<p>Proofreading is the final stage, and it involves identifying and correcting surface-level errors. The goal of proofreading is to ensure that the document is free of minor mistakes that could distract the reader.</p>
+
+<p>In this article, we look at specific tools in Scrivener that can help you proofread your manuscript.</p>
+
+Let your manuscript sit for a while
+
+<p>You&#39;ve completed your first draft, and you&#39;ve done the revisions and edits, so now you should put your manuscript aside and wait for a while. As you&#39;ve seen going through the revision and editing process, when you keep reading the same text over and over you lose perspective.</p>
+
+<p>To proofread, to spot small errors that you&#39;ve missed in your previous edit passes, you need to see the manuscript with new eyes. It&#39;s impossible to achieve this perfectly, but if you take some time away from the manuscript, your brain will be in a better position to notice things you&#39;ve missed before when you go to proofread it.</p>
+
+Change the font
+
+<p>You&#39;ve probably chosen to use a font in Scrivener&#39;s Editor that you&#39;re comfortable with, that allows you to work for hours on your computer without fatiguing your eyes. But you&#39;ve become familiar with seeing your words in that font. The best way to start proofreading is to change the font to something different. If you use a serif font, such as Times or Palatino, change to a sans serif font, like Arial or Helvetica, or vice versa. You may also want to change the font size to something bigger and easier to read.</p>
+
+<p>You can <a href="https://www.literatureandlatte.com/blog/customize-the-scrivener-editor-2-adjusting-fonts-in-the-editor" target="_blank">make this change in the Editor, or in Scrivener&#39;s Settings or Options</a>, and you can change it back when you&#39;ve finished proofreading. You&#39;ll find that a different font makes the text look very different, and you&#39;ll spot typos and homophone errors - words like they&#39;re, their, and there - more easily.</p>
+
+Use Composition Mode
+
+<p>The Scrivener window has many elements: the Binder, Editor, and Inspector, along with the header and footer bars. When proofreading, you don&#39;t need to see any of these. You don&#39;t need to see synopses, metadata, or the structure of your manuscript in the Binder.</p>
+
+<p>Switch to <a href="https://www.literatureandlatte.com/blog/distraction-free-writing-with-scrivener" target="_blank">Composition Mode</a>. When you do this, Scrivener displays your text on a background, and nothing else. It allows you to focus on the text without being distracted.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-articles/proof1.png" alt=""  />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                Use Focus Mode
+
+<p>It could be difficult when proofreading to really focus on your words and sentences. When you look at one sentence after another, one paragraph after another, things get blurry after a while. Whether you use Composition Mode or not, you can use Focus Mode to look at your manuscript in closer detail.</p>
+
+<p>Choose View &gt; Text Editing &gt; Focus, then choose Line, Sentence, or Paragraph. If you&#39;re in Composition Mode, you can move your cursor to the bottom of your screen to show the toolbar, then click Focus to see these options.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-articles/proof2.png" alt="" width="280" />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Using Focus Mode by sentence is a great way to see your sentences on their own, without being influenced by what comes before and after.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-articles/proof3.png" alt=""  />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Working like this, you can use the up and down arrow keys to move from one line to the next; as you get to a new sentence, it is highlighted, and the rest of the text is dimmed.</p>
+
+Use Dialog Focus to proofread dialog
+
+<p>When proofreading, you look at your entire manuscript. But if you&#39;ve written a novel, you should pay close attention to dialog because it&#39;s very easy to trip the reader up with typos and errors in spoken text. Scrivener&#39;s Dialog Focus works like Focus Mode above, but you can choose to only highlight direct speech.&nbsp;</p>
+
+<figure><img alt="" src="https://www.literatureandlatte.com/assets/image/blog/article/blog-images/dialogue-focus-windows.png" /></figure>
+
+<p>You might want to do one proofreading pass just focusing on dialog to make sure the dialog flows correctly.</p>
+
+Read your text out loud
+
+<p>While you may miss typos and errors when you read on a screen, if you read your text out loud, you will immediately notice places where you stumble. This is a good way to not only find typos but also find clunky sentences. This takes a while, but it&#39;s a great way to experience your text differently.</p>
+
+<p>If you don&#39;t want to read your text out loud, you can have your computer do it for you. Both Mac and Windows computers can read text. The voices may not be ideal, but they&#39;ve gotten better in recent years.</p>
+
+<p>On Mac, put your cursor where you want the computer to start speaking, then choose Edit &gt; Speech &gt; Start Speaking. You can choose which voice you want to use, and the speed at which it reads, in Settings &gt; Accessibility &gt; Spoken Content. In the System Voice menu, you&#39;ll see a number of voices, some of which are installed on your Mac, some that you may need to download. Try these out, and try adjusting the Speaking Rate slider to see which speed works best.</p>
+
+<p>On Windows, <a href="https://support.microsoft.com/en-gb/windows/chapter-4-reading-text-8054c6cd-dccf-5070-e405-953f036e4a15" target="_blank">you use Narrator for this</a>. Press the Windows key + Ctrl + Enter to start reading. Type Narrator in the Search field in the Taskbar to open Narrator settings where you can choose a voice, change keyboard shortcuts, and download &quot;natural&quot; voices.</p>
+
+<p>When you get to the proofreading stage of your manuscript, take advantage of these tools in Scrivener to correct every last typo.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+ 
+
+<https://www.literatureandlatte.com/blog/how-to-proofread-your-manuscript-in-scrivener>
+
+---
+
+## Industry Software
+
+date: 2024-06-11, from: John August blog
+
+John and Craig decode the current state of software in the film and television industry. With dozens of programs needed for every project, they look at why bad and outdated programs continue to have a hold on the industry, why it’s so hard to build something better, and how these programs find financial success in [&#8230;]
+The post <a href="https://johnaugust.com/2024/industry-software">Industry Software</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/industry-software>
+
+---
+
+## Liz Bourke Reviews Necrobane by Daniel M. Ford
+
+date: 2024-06-11, from: Locus Magazine
+
+<p><strong>Necrobane</strong>, Daniel M. Ford (Tor 978-1-25081-568-2, $28.99, 304pp, hc.) April 2024.</p>
+<p>Speaking of romps, Daniel M. Ford’s <strong>Necrobane</strong>, sequel to 2023’s <strong>The Warden </strong>(which concealed much entertainment behind its bland title), is a classic adventure in the sword-and-sorcery mode. It follows <strong>The Warden </strong>in style, tone, and content, and opens directly after <strong>The Warden</strong>’s striking cliffhanger.</p>
+<p>A Warden is part magistrate, part law enforce­ment, part general magical  <a href="https://locusmag.com/2024/06/liz-bourke-reviews-necrobane-by-daniel-m-ford/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/liz-bourke-reviews-necrobane-by-daniel-m-ford/>
+
+---
+
+## New Books, 11 June 2024
+
+date: 2024-06-11, from: Locus Magazine
+
+<p>Bowles, David &#38; McCall, Guadalupe García: <b>Hearts of Fire and Snow</b>
+(Bloomsbury USA 9781547610044, $19.99, 320pp, formats: hardcover, ebook, 06/11/2024)</p>
+<p>Young-adult fantasy romance about two people linked by a magic conch: a woman in modern day Mexico fleeing gang violence and a man in 1521 Tenochtitlan under siege by Spanish invaders. The authors provide a long note on working together and their inspirations.</p>
+<p>&#160;</p>
+<p>Cashore, Kristin: <b>There Is a Door </b> <a href="https://locusmag.com/2024/06/new-books-11-june-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/new-books-11-june-2024/>
+
+---
+
+## 5 Reasons You Should Write a Sports Biopic Like 'Clipped'
+
+date: 2024-06-11, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/5-reasons-you-should-write-a-sports-biopic-like-clipped" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Clipped.jpeg" alt="5 Reasons You Should Write a Sports Biopic Like Clipped" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><em><span>Clipped</span></em><span> is a sports drama that’s been causing quite a buzz.&nbsp;</span></p> 
+
+<https://blog.finaldraft.com/5-reasons-you-should-write-a-sports-biopic-like-clipped>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-11, from: Neil Gaiman @ BlueSky)
+
+I'm loving this series of poems...
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kun53qdz3z2w>
+
+---
+
+## 2024 Frank R. Paul Award Nominees
+
+date: 2024-06-11, from: Locus Magazine
+
+<p>The shortlist and honorable mentions have been announced for the Frank R. Paul awards, which honor &#8220;outstanding work in book and magazine cover art.&#8221;</p>
+<p><strong>Best Book Cover
+</strong></p>
+<ul>
+<li>Pawel Dabrowski for <strong>Zen and the Art of Starship Maintenance</strong> by Tobias S. Buckell (Apex)</li>
+<li>Serena Malyon for <strong>Where Peace Is Lost</strong> by Valerie Valdes (Harper Voyager)</li>
+<li>Maurizio Manzieri for <strong>The Y</strong><strong>ear’s Top Hard Science Fiction Stories 7 </strong>edited by Allan Kaster </li></ul> <a href="https://locusmag.com/2024/06/2024-frank-r-paul-award-nominees/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/06/2024-frank-r-paul-award-nominees/>
+
+---
+
+## 2024 Future Worlds Prize
+
+date: 2024-06-10, from: Locus Magazine
+
+<p>The Future Worlds Prize for Fantasy and Science Fiction Writers of Colour has announced its winner and runner up:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li>WINNER: &#8220;The Suit Sellers of Kowloon&#8221;, Ese Erheriene</li>
+<li>RUNNER-UP: &#8220;Tribe of the Snow Leopards&#8221;, Farah Maria Rahman</li>
+</ul>
+<ul>
+<li>&#8220;The Unbound Atlas&#8221;, Zita Abila</li>
+<li>&#8220;Blood on Shadowed Blades&#8221;, Nelita Aromona</li>
+<li>&#8220;Ek Haseena Thi&#8221;, Isha Karki</li>
+<li>&#8220;The Yawn of the Pond&#8221;, Inigo Laguda</li>
+<li>&#8220;Walk in Fire&#8221;, Ruairidh MacLean</li>
+<li>&#8220;Let None Through&#8221;, M.A. Seneviratne</li>
+</ul>
+<p>The </p></div> <a href="https://locusmag.com/2024/06/2024-future-worlds-prize/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/06/2024-future-worlds-prize/>
+
+---
+
+## Weekly Bestsellers, 10 June 2024
+
+date: 2024-06-10, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+<p>Bumped out of first place by the latest John Grisham novel, Stephen King’s <b>You Like It Darker: Stories</b> ranks #2 on the three lists it debuted on last week, and debuts at #8 on the LA Times list this week.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+06.16
+LAT
+06.09
+USAT 
+06.02
+PW 
+06.10
+Amz 
+(06.10)
+UK:
+Amz UK 
+(06.10)
+Canada:
+Amz.ca 
+(06.10)
+
+
+Items on list -x- number of <a href="https://locusmag.com/2024/06/weekly-bestsellers-10-june-2024/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/06/weekly-bestsellers-10-june-2024/>
 
 ---
 

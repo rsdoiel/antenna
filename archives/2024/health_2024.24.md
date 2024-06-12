@@ -1,11 +1,61 @@
 ---
 title: health 2024.24
-updated: 2024-06-10 09:22:54
+updated: 2024-06-12 07:04:28
 ---
 
 # health 2024.24
 
-(date: 2024-06-10 09:22:54)
+(date: 2024-06-12 07:04:28)
+
+---
+
+## Editorial: The role of inflammasome in viral infection, volume II
+
+date: 2024-06-12, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1438310>
+
+---
+
+## The multifaceted role of c-di-AMP signaling in the regulation of Porphyromonas gingivalis lipopolysaccharide structure and function
+
+date: 2024-06-12, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThis study unveils the intricate functional association between cyclic di-3’,5’-adenylic acid (c-di-AMP) signaling, cellular bioenergetics, and the regulation of lipopolysaccharide (LPS) profile in Porphyromonas gingivalis, a Gram-negative obligate anaerobe considered as a keystone pathogen involved in the pathogenesis of chronic periodontitis. Previous research has identified variations in P. gingivalis LPS profile as a major virulence factor, yet the underlying mechanism of its modulation has remained elusive.MethodsWe employed a comprehensive methodological approach, combining two mutants exhibiting varying levels of c-di-AMP compared to the wild type, alongside an optimized analytical methodology that combines conventional mass spectrometry techniques with a novel approach known as FLATn.ResultsWe demonstrate that c-di-AMP acts as a metabolic nexus, connecting bioenergetic status to nuanced shifts in fatty acid and glycosyl profiles within P. gingivalis LPS. Notably, the predicted regulator gene cdaR, serving as a potent regulator of c-di-AMP synthesis, was found essential for producing N-acetylgalactosamine and an unidentified glycolipid class associated with the LPS profile.ConclusionThe multifaceted roles of c-di-AMP in bacterial physiology are underscored, emphasizing its significance in orchestrating adaptive responses to stimuli. Furthermore, our findings illuminate the significance of LPS variations and c-di-AMP signaling in determining the biological activities and immunostimulatory potential of P. gingivalis LPS, promoting a pathoadaptive strategy. The study expands the understanding of c-di-AMP pathways in Gram-negative species, laying a foundation for future investigations into the mechanisms governing variations in LPS structure at the molecular level and their implications for host-pathogen interactions. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1418651>
+
+---
+
+## Structure-based virtual screening methods for the identification of novel phytochemical inhibitors targeting furin protease for the management of COVID-19
+
+date: 2024-06-11, from: Frontiers in Cellular and Infection Microbiology
+
+The coronavirus disease 2019 (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus, is a highly contagious respiratory disease with widespread societal impact. The symptoms range from cough, fever, and pneumonia to complications affecting various organs, including the heart, kidneys, and nervous system. Despite various ongoing efforts, no effective drug has been developed to stop the spread of the virus. Although various types of medications used to treat bacterial and viral diseases have previously been employed to treat COVID-19 patients, their side effects have also been observed. The way SARS-CoV-2 infects the human body is very specific, as its spike protein plays an important role. The S subunit of virus spike protein cleaved by human proteases, such as furin protein, is an initial and important step for its internalization into a human host. Keeping this context, we attempted to inhibit the furin using phytochemicals that could produce minimal side effects. For this, we screened 408 natural phytochemicals from various plants having antiviral properties, against furin protein, and molecular docking and dynamics simulations were performed. Based on the binding score, the top three compounds (robustaflavone, withanolide, and amentoflavone) were selected for further validation. MM/GBSA energy calculations revealed that withanolide has the lowest binding energy of −57.2 kcal/mol followed by robustaflavone and amentoflavone with a binding energy of −45.2 kcal/mol and −39.68 kcal/mol, respectively. Additionally, ADME analysis showed drug-like properties for these three lead compounds. Hence, these natural compounds robustaflavone, withanolide, and amentoflavone, may have therapeutic potential for the management of SARS-CoV-2 by targeting furin. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1391288>
+
+---
+
+## The muscle and neural architecture of Taenia crassiceps cysticerci revisited; implications on head-tail polarization of the larvae
+
+date: 2024-06-11, from: Frontiers in Cellular and Infection Microbiology
+
+Taenia crassiceps has been used for decades as an experimental model for the study of human and porcine cysticercosis. Even though, its life cycle, tissue organization, ultrastructure and immune response elicited in the host, have been extensively described, there are many other biological questions remaining to be addressed. In the present study we revisited the muscle and neural architecture of cysticerci in two of the most frequently used strains (WFU and ORF), using conventional staining and confocal microscopy imaging, aiming to assemble an updated anatomy. Differences between both strains, including polarization processes during development of the young budding larvae, are emphasized. We also performed a search for genes that have been related to peptidergic neural processes in other related flatworms. These findings can help to understand the anatomical and molecular consequences of the scolex presence or absence in both strains. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1415162>
+
+---
+
+## People’s CDC COVID-19 Weather Report
+
+date: 2024-06-10, from: People's CDC
+
+This is the @PeoplesCDC weekly update for June 10, 2024! This Weather Report from the People’s CDC sheds light on the ongoing COVID situation in the US.  
+
+<https://peoplescdc.org/2024/06/10/peoples-cdc-covid-19-weather-report-76/>
 
 ---
 

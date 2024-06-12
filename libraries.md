@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.24
-updated: 2024-06-10 09:22:53
+updated: 2024-06-12 07:04:27
 ---
 
 # libraries 2024.24
 
-(date: 2024-06-10 09:22:53)
+(date: 2024-06-12 07:04:27)
 
 ---
 
@@ -16,6 +16,74 @@ date: 2024-06-13, from: ETH Zurich, recently added
 Doderer, Michael 
 
 <http://hdl.handle.net/20.500.11850/676697>
+
+---
+
+## Guest Post:  Many Patches Make a Quilt — SSP’s Membership Survey
+
+date: 2024-06-12, from: Scholarly Kitchen
+
+<p>Here we present the results from the SSP biannual membership survey.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/06/12/guest-post-many-patches-make-a-quilt-ssps-membership-survey/">Guest Post:  Many Patches Make a Quilt &#8212; SSP’s Membership Survey</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/06/12/guest-post-many-patches-make-a-quilt-ssps-membership-survey/>
+
+---
+
+## Day in Review (June 10–13)
+
+date: 2024-06-11, from: Association of Research Libraries News
+
+<p>Last Updated on June 11, 2024, 3:35 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 11 &#124; Wednesday, June 12 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-june-10-13/">Day in Review (June 10–13)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/day-in-review/day-in-review-june-10-13/>
+
+---
+
+## Kitchen Essentials: An Interview with Nici Pfeiffer of the Center for Open Science
+
+date: 2024-06-11, from: Scholarly Kitchen
+
+<p>Today's Kitchen Essentials interview is with Nici Pfeiffer, Chief Product Officer for the Center for Open Science (COS), including the popular and highly-used Open Science Framework (OSF).</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/06/11/kitchen-essentials-an-interview-with-nici-pfeiffer-of-the-center-for-open-science/">Kitchen Essentials: An Interview with Nici Pfeiffer of the Center for Open Science</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/06/11/kitchen-essentials-an-interview-with-nici-pfeiffer-of-the-center-for-open-science/>
+
+---
+
+## The Special Correspondent, by Jules Verne
+
+date: 2024-06-10, from: Standard Ebooks, new releaases
+
+A Parisian news reporter is assigned to travel across Asia by train and report on the sights, experiences, and interesting characters along the way. 
+
+<https://standardebooks.org/ebooks/jules-verne/the-special-correspondent/the-boys-own-paper>
+
+---
+
+## Letter Opposing Amendment 1082 in the National Defense Authorization Act (NDAA)
+
+date: 2024-06-10, from: Association of Research Libraries News
+
+<p>Last Updated on June 11, 2024, 10:47 am ET On June 10, 2024, ARL signed on to a letter opposing amendment 1082 in the National Defense Authorization Act (NDAA), which...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/copyright/letter-opposing-amendment-1082-in-the-national-defense-authorization-act-ndaa/">Letter Opposing Amendment 1082 in the National Defense Authorization Act (NDAA)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/copyright/letter-opposing-amendment-1082-in-the-national-defense-authorization-act-ndaa/>
+
+---
+
+## The Luzumiyat, by Abu al-ʻAlaʼ al-Maʻarri
+
+date: 2024-06-10, from: Standard Ebooks, new releaases
+
+A collection of quatrains by Abu al-ʻAlaʼ al-Maʻarri. 
+
+<https://standardebooks.org/ebooks/abu-al-ala-al-maarri/the-luzumiyat/ameen-rihani>
 
 ---
 

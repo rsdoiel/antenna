@@ -118,15 +118,6 @@ html: front_page.tmpl $(html_files)
 	pandoc -f markdown -t html5 \
            --lua-filter=links-to-html.lua \
 	       --metadata urls_file="$(basename $@).txt" \
-           --metadata mid_central_page="mid_central.html" \
-           --metadata pacific_page="pacific.html" \
-           --metadata socal_north_page="socal_north.html" \
-           --metadata tech_likely_page="tech_likely.html" \
-           --metadata libraries_page="libraries.html" \
-           --metadata games_page="games.html" \
-           --metadata parks_page="parks.html" \
-           --metadata columns_page="columns.html" \
-           --metadata weather_page="weather.html" \
            --template front_page.tmpl \
            $< \
            >$@
@@ -187,15 +178,6 @@ CITATION.cff: .FORCE
 about.html: about.md
 	pandoc --metadata title="About $(PROJECT)" \
 		--lua-filter=links-to-html.lua \
-		--metadata mid_central_page="mid_central.html" \
-		--metadata pacific_page="pacific.html" \
-		--metadata socal_north_page="socal_north.html" \
-		--metadata tech_likely_page="tech_likely.html" \
-		--metadata columns_page="columns.html" \
-        --metadata libraries_page="libraries.html" \
-        --metadata games_page="games.html" \
-        --metadata parks_page="parks.html" \
-		--metadata weather_page="weather.html" \
         --template front_page.tmpl \
 		about.md >about.html
 
@@ -209,46 +191,18 @@ about.md: .FORCE
 index.html: .FORCE
 	@echo '' | pandoc --metadata title="The $(PROJECT)" \
 		--lua-filter=links-to-html.lua \
-		--metadata mid_central_page="mid_central.html" \
-		--metadata pacific_page="pacific.html" \
-		--metadata socal_north_page="socal_north.html" \
-		--metadata tech_likely_page="tech_likely.html" \
-		--metadata columns_page="columns.html" \
-        --metadata libraries_page="libraries.html" \
-        --metadata games_page="games.html" \
-        --metadata parks_page="parks.html" \
-		--metadata weather_page="weather.html" \
 		--template front_page.tmpl \
 		index.md >index.html
 
 search.html: .FORCE
 	@echo '' | pandoc --metadata title="$(PROJECT) Search" \
 		--lua-filter=links-to-html.lua \
-		--metadata mid_central_page="mid_central.html" \
-		--metadata pacific_page="pacific.html" \
-		--metadata socal_north_page="socal_north.html" \
-		--metadata tech_likely_page="tech_likely.html" \
-		--metadata columns_page="columns.html" \
-        --metadata libraries_page="libraries.html" \
-        --metadata games_page="games.html" \
-        --metadata parks_page="parks.html" \
-		--metadata weather_page="weather.html" \
 		--template front_page.tmpl \
 		search.md >search.html
 
 README.html: .FORCE
 	@echo '' | pandoc --metadata title="Read about $(PROJECT)" \
 		--lua-filter=links-to-html.lua \
-		--metadata mid_central_page="mid_central.html" \
-		--metadata pacific_page="pacific.html" \
-		--metadata socal_north_page="socal_north.html" \
-		--metadata tech_likely_page="tech_likely.html" \
-		--metadata columns_page="columns.html" \
-        --metadata libraries_page="libraries.html" \
-        --metadata games_page="games.html" \
-        --metadata parks_page="parks.html" \
-        --metadata parks_page="parks.html" \
-		--metadata weather_page="weather.html" \
 		--template front_page.tmpl \
 		README.md >README.html
 
