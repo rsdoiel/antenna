@@ -1,11 +1,21 @@
 ---
 title: home 2024.24
-updated: 2024-06-12 07:36:09
+updated: 2024-06-13 08:24:20
 ---
 
 # home 2024.24
 
-(date: 2024-06-12 07:36:09)
+(date: 2024-06-13 08:24:20)
+
+---
+
+## Farmworker Housing — video with Secretary Ross touring housing sites
+
+date: 2024-06-12, from: Calfifornia Dept. Aggriculture blog
+
+CDFA Secretary Karen Ross recently joined colleagues in the Newsom Administration for tours of three important farmworker housing sites in Salinas and Gilroy. The tours emphasized the efforts of key agencies and partners collaborating to improve living conditions for farmworkers. 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27882>
 
 ---
 

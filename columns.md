@@ -1,11 +1,339 @@
 ---
 title: columns 2024.24
-updated: 2024-06-12 07:36:08
+updated: 2024-06-13 08:24:19
 ---
 
 # columns 2024.24
 
-(date: 2024-06-12 07:36:08)
+(date: 2024-06-13 08:24:19)
+
+---
+
+##  How Tennis Balls Became Yellow, Feat. David Attenborough 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/how-tennis-balls-became-yellow-feat-david-attenborough>
+
+---
+
+## 2024-06-13 Anvil Editor and multiple cursors
+
+date: 2024-06-13, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-13-anvil-editor-and-multiple-cursors">2024-06-13 Anvil Editor and multiple cursors</h1>
+
+<p>I like how the author of the <a href="https://anvil-editor.net/">Anvil Editor</a> (an <a href="http://acme.cat-v.org/">Acme</a>-like editor) explains how to use it and provides a small number of super-short videos to show it. Here’s a good way to use video in documentation! This is important because an &ldquo;ACME-like editor&rdquo; is pretty alien for people these days. It relies on three buttons your mouse. The menus are small, editable windows where you select a word with the mouse and the middle mouse button to execute it. You can create your own menus by simply writing them.</p>
+
+<p>This is great, but alien.</p>
+
+<p>I kept wondering how feasible it would be to add a few key bindings to allow one to use it without a mouse. Window switching, selection growing, executing, I keep thinking that it should be possible. That mandatory three button mouse has kept me away from ACME-like editors.</p>
+
+<p>I&rsquo;ve been experimenting a bit with adding more keyboard bindings. Since it doesn&rsquo;t seem to have a git repository, I made <a href="https://src.alexschroeder.ch/anvil.git">my own</a> so I can keep track of the patches.</p>
+
+<p>I plan to force-push with abandon.</p>
+
+<p>I try to do a tiny snippet of programming in the mornings or evenings. Currently I&rsquo;m looking at my &ldquo;extending the selection&rdquo; code and how it interacts (badly) with multiple cursors. I guess I don&rsquo;t understand the attraction of multiple cursors compared to &ldquo;record a keyboard macro once and then replay it for the rest of the file, for a fixed number of times, or as long as I keep pressing a key&rdquo; (the way standard Emacs allows me to) compared to alt-clicking a number of times at just the right spot (I guess my mousing is terrible) to place the cursors and then do the necessary edits. Whenever something like this comes, I&rsquo;m editing data files or something like that so I would have to place hundreds or thousands of cursors… Only one of these approaches scales. I must be missing something about multiple cursors.</p>
+
+<p>When I asked about it on fedi, people recommended I give <code>multiple-cursors</code> for Emacs a try. I looked at the <a href="https://emacsrocks.com/e13.html">Emacs Rocks video for mc</a> and liked it. Again, this is video documentation well done, essentially a <em>demo</em>, not a manual.</p>
+
+<p>I started using for small things (a handful of lines) where it was indeed easier to use than keyboard macros or regular expressions because of the immediate feedback and the ability to undo any damage done and still continue the operation. Nice!</p>
+
+<p>I still ♥️ Emacs!</p>
+
+<p><a class="tag" href="/search/?q=%23Emacs">#Emacs</a></p> 
+
+<https://alexschroeder.ch/view/2024-06-13-anvil>
+
+---
+
+## Marbella, Spain
+
+date: 2024-06-13, from: mrusme blog
+
+"Marbella is a city and municipality in southern Spain, belonging to the
+province of Málaga in the autonomous community of Andalusia. It is part of the
+Costa del Sol and is the headquarters of the Association of Municipalities of
+the region; it is also the head of the judicial district that bears its name." 
+
+<https://xn--gckvb8fzb.com/travel/spain/marbella/>
+
+---
+
+##  The Day After Tomorrow turns 20. &#8220;Twenty years after its release, it... 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044804-the-day-after-tomorrow-tu>
+
+---
+
+## Why Google should know my blog
+
+date: 2024-06-13, from: Dave Winer's Scripting News
+
+<p>I did a search on my site for NakedJen. </p>
+<p>Google thinks I meant "Naked Men."</p>
+<p>This is why Google should know I have a blog and it has it indexed, and if it just looks it would know that question shows how <b>dumb</b> it is. </p>
+<p>When I type my mother's name in, searching on my own blog (again) it tries to correct the spelling of her name. My own mother's name.</p>
+<p>Google started out so smart then they must have lost all the smart people. Or they got stupid? I don't know. But there's so much they could do to improve their product, it would be sensible to, while they're shooting for the fences, do the small things that would give users an idea that there's <i>some</i> humanity to the product. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/13/nakedJenOrNakedMen.png"></center>NakedJen or "Naked Men."</div></p>
+<p>PS: ChatGPT should also know where my blog is, and it should be constantly loading the updates. This is the freaking breakthrough. Do it. </p>
+ 
+
+<http://scripting.com/2024/06/13/131949.html?title=whyGoogleShouldKnowMyBlog>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-13, from: Dave Winer's Scripting News)
+
+Also, I'm using their <a href="https://github.com/Automattic/wp-calypso">Calypso API</a> to talk to WordPress. I like it. Well-designed and documented. I've built another layer that makes it even easier for a browser-based JavaScript apps, and also added storage, which you can't do a web app without. 
+
+<http://scripting.com/2024/06/13.html#a131215>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-13, from: Dave Winer's Scripting News)
+
+It's not much of a secret that my next product is the minimal writing tool I always felt <a href="https://www.google.com/search?q=site%3Ascripting.com+wordpress">WordPress</a> should have. I have not been doing this in conjunction with Automattic, I'm not sure we're on the same planet re what WordPress is for. Ultimately it'll be their decision if this idea gains traction. But I keep hearing people ask for this product, and I think it's the reason Substack and Ghost have become popular. I'm going to put it out there, and see what comes back. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/06/13.html#a130610>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-13, from: Dave Winer's Scripting News)
+
+"Too much of everything is just enough." -- <a href="https://genius.com/The-grateful-dead-i-need-a-miracle-lyrics">The Dead</a>. 
+
+<http://scripting.com/2024/06/13.html#a125822>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-13, from: Dave Winer's Scripting News)
+
+BTW, I love the new <a href="https://imgs.scripting.com/2024/06/11/nakedJenToday.png">margin image</a> of NakedJen. Talking with her the other day we decided this would be the opening scene of The NakedJen Movie. The <a href="https://www.youtube.com/watch?v=5xqiu0ekahw">meaning</a> of the image is well-known to people who travel with the Dead, as Jen did. I've never been to a Dead concert with her, but I understand it's like going to a Comdex or MacWorld in the 80s or <a href="http://www.bricklin.com/albums/pcforum99/">Esther's</a> or <a href="https://www.edge.org/digerati/alsop/">Stewart's</a> conferences for me in the 90s. Sure you go for the music, but <i>mainly</i> you go to <a href="http://scripting.com/davenet/1996/10/24/QueSeraSera.html">schmooze</a> in the hallways. I love talking with her on the phone the most. We have thought about doing a podcast, and even tried recording one, but our one-to-one conversations are much more interesting, and funny. We're take turns being <a href="https://en.wikipedia.org/wiki/Pinky_and_the_Brain">Pinky or the Brain</a>. 
+
+<http://scripting.com/2024/06/13.html#a124732>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-13, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/11/nakedJenToday.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm working on a server app to read blogroll source in OPML, and build a database of other blogrolls that are linked to feeds in the original blogroll, accessed via the <a href="https://opml.org/blogroll.opml">feed or html source</a>. It was a lucky thing when I designed the format for <a href="https://opml.org/spec2.opml#subscriptionLists">subscription lists</a> back in the 00s that it included the <i>htmlUrl</i> attribute, it makes the HTML easier to find (though the channel-level link element in the feed could play the same role). Anyway, of course I'm using a SQL database for all this, and when I was thinking about it initially I thought "no big deal" it's a variant of a SQL table I've now done a dozen times. But it was a big deal, because I've yet to come up with a way to factor this so that I have a library that knows how to make the kind of table that keeps coming up all the time, to bury the complexity and make creating a new one much simpler. Same thing with CSS and JavaScript. I know the justification for CSS is that it makes scaling from phones to desktops possible, but that would be equally possible if you provided a good object with properties that can be configured at runtime. That's how we do it on servers with a config.json file. Then you could do a much better job of factoring browser-based apps. Imagine how much smoother everything would be if these structures could be factored. This probably doesn't make sense to too many people, maybe it won't even make sense to me in a couple of years, when hopefully I've moved on to a better way of doing these things. I would love to have the time to take a crack at doing the factoring anyway, I'm sure it's possible, just not obvious how to do it. In the meantime I think there are now enough blogrolls out there to build something interesting out of them, which is why I'm taking my break from <i>The Next Product</i> to do this. 
+
+<http://scripting.com/2024/06/13.html#a123437>
+
+---
+
+## AI and the Indian Election
+
+date: 2024-06-13, updated: 2024-06-11, from: Bruce Schneier blog
+
+<p>As India concluded the <a href="https://www.reuters.com/world/india/india-hold-worlds-largest-elections-between-april-june-2024-03-16/">world&#8217;s largest election</a> on June 5, 2024, with over <a href="https://www.reuters.com/graphics/INDIA-ELECTION/zgponbzllvd/">640 million votes</a> counted, observers could assess how the various parties and factions used artificial intelligence technologies&#8212;and what lessons that holds for the rest of the world.</p>
+<p>The campaigns made extensive use of AI, including deepfake impersonations of candidates, celebrities and dead politicians. By some estimates, <a href="https://www.wired.com/story/indian-elections-ai-deepfakes/">millions of Indian voters</a> viewed deepfakes.</p>
+<p>But, despite fears of widespread disinformation, for <a href="https://www.theatlantic.com/technology/archive/2024/06/india-election-deepfakes-generative-ai/678597/">the most part</a> the campaigns, candidates and activists used AI constructively in the election. They used AI for typical political activities, including mudslinging, but primarily to better connect with voters...</p> 
+
+<https://www.schneier.com/blog/archives/2024/06/ai-and-the-indian-election.html>
+
+---
+
+## Biden must put the blame for high prices where it belongs — on big corporations
+
+date: 2024-06-13, from: Robert Reich's blog
+
+They have record profits, record share prices, and record monopoly power &#8212; which is why Biden must threaten them with real consequences unless they stop shafting consumers 
+
+<https://robertreich.substack.com/p/its-greedflation-stupid-b3c>
+
+---
+
+## June 12, 2024 
+
+date: 2024-06-13, from: Heather Cox Richardson blog
+
+On June 13, 1942, President Franklin D. Roosevelt issued Executive Order 9182, consolidating a number of different government information offices into the Office of War Information (OWI). The mission of the new agency was to gather public information and to spread it across the U.S. and abroad through the press, radio, motion pictures, and other media. Its aim, in the middle of World War II, was to develop &#8220;an informed and intelligent understanding, at home and abroad, of the status and progress of the war effort and of the war policies, activities, and aims of the Government.&#8221; 
+
+<https://heathercoxrichardson.substack.com/p/june-12-2024>
+
+---
+
+## ‘Apple Aggregates AI’
+
+date: 2024-06-13, updated: 2024-06-13, from: Daring Fireball
+
+ 
+
+<https://stratechery.com/2024/wwdc-apple-intelligence-apple-aggregates-ai/>
+
+---
+
+## Pocket Reform in use
+
+date: 2024-06-13, from: Jirka's blog
+
+My position at work have been changed from June 3 to a more challenging one. Thus the frequency of my posts might decrease even more. 
+
+<http://jirka.1-2-8.net/20240613-0442_Pocket_Reform_in_use>
+
+---
+
+## British OSes?
+
+date: 2024-06-13, from: Jirka's blog
+
+Logout  {sup}1{/sup} (the creator of the Bongusta, you know) wrote two nice posts about  the operating systems from the Great Britain. While the RiscOS is known to me (I'm not saying  I'm able to use it!) the OS of the Sinclair QL is something I never saw on a real hardware. 
+
+<http://jirka.1-2-8.net/20240613-0442_British_OSes>
+
+---
+
+## Pairing with ChatGPT to help write a Postgres function
+
+date: 2024-06-13, from: Jonudell blog
+
+Here&#8217;s the latest installment in the series on working with LLMS: https://thenewstack.io/techniques-for-using-llms-to-help-write-a-postgres-function/ It was only after I deployed the function and used it in three different dashboards that the penny finally dropped. This had begun as an exercise to wrap a SQL idiom that made use of the lag() function. But when I looked at &#8230; <a href="https://blog.jonudell.net/2024/06/12/pairing-with-chatgpt-to-help-write-a-postgres-function/" class="more-link">Continue reading <span class="screen-reader-text">Pairing with ChatGPT to help write a Postgres function</span></a> 
+
+<https://blog.jonudell.net/2024/06/12/pairing-with-chatgpt-to-help-write-a-postgres-function/>
+
+---
+
+##  The Birth of Breaking News 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/the-birth-of-breaking-news-1>
+
+---
+
+## Mac Virtualization in MacOS 15 Sequoia Now Supports Logging In to iCloud
+
+date: 2024-06-12, updated: 2024-06-12, from: Daring Fireball
+
+ 
+
+<https://arstechnica.com/gadgets/2024/06/apple-quietly-improves-mac-virtualization-in-macos-15-sequoia/>
+
+---
+
+## Arm, Qualcomm Legal Battle Might Disrupt ‘AI PCs’
+
+date: 2024-06-12, updated: 2024-06-12, from: Daring Fireball
+
+ 
+
+<https://www.reuters.com/technology/arm-qualcomm-legal-battle-seen-disrupting-ai-powered-pc-wave-2024-06-10/>
+
+---
+
+##  Are You an NPC? (Or Do You Have Free Will?) 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/are-you-an-npc-or-do-you-have-free-will>
+
+---
+
+##  Some people with insomnia think they are awake but they&#8217;re actually asleep.... 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044803-some-people-with-insomnia>
+
+---
+
+## June 11, 2024
+
+date: 2024-06-12, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/june-11-2024-43b>
+
+---
+
+##  What&#8217;s the Rarest Move in Chess? 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/whats-the-rarest-move-in-chess>
+
+---
+
+##  David Pierce reports on the Excel World Championship from Las Vegas. &#8220;There... 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044801-david-pierce-reports-on-t>
+
+---
+
+##  Ask a Manager update about a guy who told his interviewer during... 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044800-ask-a-manager-update-abou>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-12, from: Dave Winer's Scripting News)
+
+A simple <a href="https://chatgpt.com/share/44dbe62f-6bac-4b08-880d-91822be0d6c7">example</a> where ChatGPT saves programmer time. MySQL has awful error messages. Rather than try to figure out what they mean, I paste the message into ChatGPT and say nothing. It tells me what the error was and even fixes it for me. I copy the result, paste it into MySQL and I'm back on the road. One can imagine where they build that into the MySQL app and I converse with it instead of the app with the awful error messages. 
+
+<http://scripting.com/2024/06/12.html#a162334>
+
+---
+
+##  Lots of good responses to this thread: &#8220;What is something someone who... 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044796-lots-of-good-responses-to>
+
+---
+
+##  Of course Kenji López-Alt had a friend come up with a computer... 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044797-of-course-kenji-lopez-alt>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-12, from: Dave Winer's Scripting News)
+
+I'm happy to host <a href="http://scripting.com/2024/06/11/185209.html">sidebar images</a> on Scripting News that showcase the creative possibilities of ChatGPT-developed art. 
+
+<http://scripting.com/2024/06/12.html#a143459>
+
+---
+
+##  Chaka Khan&#8217;s Tiny Desk Concert 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/chaka-khans-tiny-desk-concert>
 
 ---
 
@@ -21,7 +349,7 @@ date: 2024-06-12, updated: 2024-06-12, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-06-12, from: Dave Winer's Scripting News)
 
-Is this the <a href="https://x.com/davewiner/status/1800879295063003367">user experience</a> writers want from WordPress? If I were designing it, I would start from scratch, build an easy writing tool for writers to focus on writing, and make the design process accessible if they want to work in that mode, but keep it out of their way because most writing has nothing to do with design. 
+Is this the <a href="https://x.com/davewiner/status/1800879295063003367">user experience</a> writers want from WordPress? If I were designing it, I would start from scratch, build an easy writing tool for writers to focus on writing, make the design process accessible if they want to work in that mode, but keep it out of their way because most writing has nothing to do with design. 
 
 <http://scripting.com/2024/06/12.html#a132537>
 
@@ -38,11 +366,11 @@ date: 2024-06-12, updated: 2024-06-11, from: Bruce Schneier blog
 
 ---
 
-## Office Hours: Tomorrow’s big election
+## Office Hours: Tomorrow's vote will decide whether Musk extorts Tesla shareholders for the biggest bonus in history
 
 date: 2024-06-12, from: Robert Reich's blog
 
-Friends, Tomorrow, Tesla shareholders vote on whether to give Elon Musk a bonus worth about $50 billion. That&#8217;s roughly what Congress appropriated for Ukraine earlier this year after months of legislative and political negotiation. The Delaware Chancery court has found that the bonus is excessive and wasn&#8217;t the product of negotiation between Tesla and Musk. 
+We'll know tomorrow, and in the potential litigation to follow 
 
 <https://robertreich.substack.com/p/office-hours-tomorrows-big-election>
 

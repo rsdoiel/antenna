@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.24
-updated: 2024-06-12 07:36:10
+updated: 2024-06-13 08:24:21
 ---
 
 # retro computing 2024.24
 
-(date: 2024-06-12 07:36:10)
+(date: 2024-06-13 08:24:21)
+
+---
+
+## Plus Post: Seiko RC-1000
+
+date: 2024-06-12, from: Computer ads from the Past
+
+Take it out on the town! 
+
+<https://computeradsfromthepast.substack.com/p/plus-post-seiko-rc-1000>
 
 ---
 

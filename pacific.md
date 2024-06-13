@@ -1,11 +1,555 @@
 ---
 title: pacific 2024.24
-updated: 2024-06-12 07:36:06
+updated: 2024-06-13 08:24:17
 ---
 
 # pacific 2024.24
 
-(date: 2024-06-12 07:36:06)
+(date: 2024-06-13 08:24:17)
+
+---
+
+## Guam’s fight for radiation exposure compensation ‘far from over’
+
+date: 2024-06-13, from: Pacific Island Times
+
+By Mar-Vic Cagurangan Despite nearly two decades of relentless lobbying, Guam’s hopes to finally be included in the Radiation Exposure... 
+
+<https://www.pacificislandtimes.com/post/guam-s-fight-for-radiation-exposure-compensation-far-from-over>
+
+---
+
+## Which MLB contenders have the most prospect chips to offer in trade deadline deals?
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>One of the biggest misconceptions in baseball is that teams without highly ranked farm systems have no prospects to offer in trade deadline deals. In fact, every organization has prospects other teams covet &#8212; even those with the bottom-ranked farms &#8212; and if a team is determined to make a deal, a deal can usually be had. That said, it&#8217;s far easier for teams to land their top trade targets if they have a larger pool of attractive prospects to deal from, and it&#8217;s easier for those teams to part with talented prospects when they have more in the pipeline.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/sports/which-mlb-contenders-have-the-most-prospect-chips-to-offer-in-trade-deadline-deals/>
+
+---
+
+## Celtics hold off desperate Mavs, go up 3-0 in Finals
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>DALLAS - The Boston Celtics, one win away from sweeping the NBA Finals, insist they won&#8217;t get overconfident.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/sports/celtics-hold-off-desperate-mavs-go-up-3-0-in-finals/>
+
+---
+
+## Jerry West, one of basketball’s greatest players, dies at 86
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>Jerry West, who emerged from West Virginia coal country to become one of basketball&#8217;s greatest players, a signature figure in the history of the Los Angeles Lakers and a literal icon of the sport &#8212; his is the silhouette on the logo of the NBA, died Wednesday. He was 86.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/sports/jerry-west-one-of-basketballs-greatest-players-dies-at-86/>
+
+---
+
+## History is on Panthers’ side with 2-0 Stanley Cup Final lead, but team staying in the moment
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>Even with a 2-0 series lead in the Stanley Cup Final, the Florida Panthers know the value of keeping with the one-game-at-a-time mentality that got them to this point as the series shifts to the road.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/sports/history-is-on-panthers-side-with-2-0-stanley-cup-final-lead-but-team-staying-in-the-moment/>
+
+---
+
+## Disney, Florida’s DeSantis end spat with deal on 15-year expansion plan
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; Disney and Florida Governor Ron DeSantis have put an end to their feud with a deal that allows the entertainment giant to develop the Walt Disney World Resort near Orlando for the next 15 years.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/disney-floridas-desantis-end-spat-with-deal-on-15-year-expansion-plan/>
+
+---
+
+## US wishes India luck with ‘structural issues’ in strained China ties
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (Reuters) &#8212; The United States wishes India well in its efforts to improve strained ties with China, the number-two U.S. diplomat said on Wednesday, while cautioning that Chinese leader Xi Jinping finds it very hard to show any flexibility on territorial issues.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/us-wishes-india-luck-with-structural-issues-in-strained-china-ties/>
+
+---
+
+## Fewer than half of Hawaii’s keiki proficient in reading and math
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>A new study reports that fewer than half of Hawaii&#8217;s students are proficient in reading and math and that Hawaii is ranked among the bottom third of states nationally for economic well-being, indicating a need for more state action supporting keiki and families.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/hawaii-news/fewer-than-half-of-hawaiis-keiki-proficient-in-reading-and-math/>
+
+---
+
+## Work on Nanue project could begin early next year
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>Rehabilitation of another Hamakua bridge is scheduled to begin early next year.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/hawaii-news/work-on-nanue-project-could-begin-early-next-year/>
+
+---
+
+## Lee Loy candidacy challenged: Petitioners claim her main residence is in a different district
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>An objection has been filed over Hawaii County Council member Sue Lee Loy&#8217;s candidacy for the state House District 2 seat and her registration to vote in the district.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/hawaii-news/lee-loy-candidacy-challenged-petitioners-claim-her-main-residence-is-in-a-different-district/>
+
+---
+
+## US Open analysis: What to know as the world’s best invade Pinehurst
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>The third men&#8217;s major championship of the year sees the U.S. Open return to a Donald Ross North Carolina masterpiece, Pinehurst No. 2.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/sports/us-open-analysis-what-to-know-as-the-worlds-best-invade-pinehurst/>
+
+---
+
+## US consumer prices unchanged in May; bolster rate cut expectations
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. consumer prices were unexpectedly unchanged in May as cheaper gasoline and other goods offset higher costs for rental housing, but inflation remains too high for the Federal Reserve to start cutting interest rates before September.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/us-consumer-prices-unchanged-in-may-bolster-rate-cut-expectations/>
+
+---
+
+## DOH: COVID activity level ‘in the red’
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health reminds the public to be vigilant due to high levels of COVID-19 activity in Hawaii.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/hawaii-news/doh-covid-activity-level-in-the-red/>
+
+---
+
+## SpaceX sued by engineers fired after accusing Elon Musk of sexism
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; Rocket maker SpaceX and its CEO Elon Musk were sued on Wednesday by eight engineers who say they were illegally fired for raising concerns about alleged sexual harassment and discrimination against women.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/spacex-sued-by-engineers-fired-after-accusing-elon-musk-of-sexism/>
+
+---
+
+## ‘Wildlife’ causes power outage in Hilo
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>About 1,000 Hawaiian Electric customers in Hilo briefly lost power Wednesday morning after an animal-related mishap.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/hawaii-news/wildlife-causes-power-outage-in-hilo/>
+
+---
+
+## Trump’s short list for VP uninspired, problematic
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>Donald Trump&#8217;s uninspired list of vice presidential prospects includes several men who have been critical of Trump, which could present problems for the ticket.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/opinion/trumps-short-list-for-vp-uninspired-problematic/>
+
+---
+
+## Go Slow, Joe
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>In Normandy last week, President Joe Biden gave a speech defending democracy that was designed to evoke Ronald Reagan&#8217;s famed &#8220;Boys of Pointe du Hoc&#8221; address in the same spot 40 years ago.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/opinion/go-slow-joe/>
+
+---
+
+## Hunter Biden trial isn’t changing US voters’ minds, Reuters/Ipsos poll finds
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (Reuters) &#8212; Most U.S. voters followed the criminal trial of President Joe Biden&#8217;s son Hunter Biden and the vast majority say his conviction won&#8217;t affect their vote in the Nov. 5 election, according to a Reuters/Ipsos poll that closed on Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/hunter-biden-trial-isnt-changing-us-voters-minds-reuters-ipsos-poll-finds/>
+
+---
+
+## Russian warships, nuclear submarine enter Havana’s harbor under watch of US destroyers
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>A group of Russian warships that sailed close to Florida shores, closely watched by U.S. destroyers, entered the port of Havana on Wednesday morning ahead of Russian military exercises in the Caribbean.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/russian-warships-nuclear-submarine-enter-havanas-harbor-under-watch-of-us-destroyers/>
+
+---
+
+## Biden will sign new security agreement with Ukraine during G7 summit
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Joe Biden will sign a new security agreement with Ukraine today to pledge America&#8217;s long-term support to the country, during his meeting with leaders of the Group of Seven democracies in Italy, a top U.S. official said.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/biden-will-sign-new-security-agreement-with-ukraine-during-g7-summit/>
+
+---
+
+## 3 days in space were enough to change 4 astronauts’ bodies and minds
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>Space changes you, even during short trips off the planet.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/3-days-in-space-were-enough-to-change-4-astronauts-bodies-and-minds/>
+
+---
+
+## Republican-controlled US House votes to hold attorney general in contempt
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Republican-controlled U.S. House of Representatives voted on Wednesday to hold Attorney General Merrick Garland in contempt for refusing to turn over audio recordings of a special counsel interview with Democratic President Joe Biden.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/republican-controlled-us-house-votes-to-hold-attorney-general-in-contempt/>
+
+---
+
+## Attempted murder, gun charges against Miske are dismissed
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge dismissed attempted murder and firearm charges against alleged organized crime leader Michael J. Miske Jr. related to a May 2017 attack at Kualoa Ranch, according to federal court records.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/hawaii-news/attempted-murder-gun-charges-against-miske-are-dismissed/>
+
+---
+
+## Man found mentally fit for trial in acid attack
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>Sebastian Mahkwan, one of two men indicted in a murder-for-hire plot in the Jan. 23 acid attack on a Chinese-language teacher, was found mentally fit Monday to stand trial.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/hawaii-news/man-found-mentally-fit-for-trial-in-acid-attack/>
+
+---
+
+## Obituaries for June 13
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>William Ku&#8216;ulei Townsend, 87, of Hilo died April 6 at home. Born in Honolulu, he was a steel and construction contractor, who starrted his career at Pacific Welding and Machine Works, a family business, and managed various projects renovating and repurposing buildings in Hawaii and California. In retirement, he enjoyed gardening and woodworking. Celebration of life 11 a.m. Saturday, June 22, at Onekahakaha Beach Park, Pavilions No. 2 and 3. Scattering of ashes 1 p.m. Sunday, June 23, at Keauhou Harbor in Kona. Survived by sons, George Puni (Barbara) Townsend, Timothy (Leonora) Walsh and Michael (Sue Swanson) Walsh; daughter, Sharon (Robert) Alapai; brother-in-law, Agenhart Ellis; sisters, Ululani (Hagi) Young, Marion (Billy) Makaimoku, Charlotte (Ted Lazaga) Townsend and Marcy (Richard) Marchan; 16 grandchildren, 25 great-grandchildren and two great-great grandchildren; cousins, nieces, and nephews.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/obituaries/obituaries-for-june-13-10/>
+
+---
+
+## US says Hamas seeks changes to ceasefire plan; Hamas denies proposing new ideas
+
+date: 2024-06-13, from: Hawaii Tribune Harold
+
+
+				<p>DOHA/GENEVA/CAIRO &#8212; U.S. Secretary of State Antony Blinken said on Wednesday that Hamas had proposed numerous changes, some unworkable, to a U.S.-backed proposal for a ceasefire with Israel in Gaza, but that mediators were determined to close the gaps.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/us-says-hamas-seeks-changes-to-ceasefire-plan-hamas-denies-proposing-new-ideas/>
+
+---
+
+## Setting it straight: 'I have never said I object to Chinese tourists' 
+
+date: 2024-06-13, from: Pacific Island Times
+
+Saipan-- I wish to correct some of the inaccurate and misleading statements made in the press this week. First, let me be clear that my... 
+
+<https://www.pacificislandtimes.com/post/setting-it-straight-i-have-never-said-i-object-to-chinese-tourists>
+
+---
+
+## RES 6th graders stand out
+
+date: 2024-06-13, from: Marshal Islands Journal
+
+<p>Eighty-two students from the sixth grade at Rita Elementary School who were promoted to middle school status received certificates and awards last Friday under the theme: “The fear of the Lord is the beginning of wisdom” (Proverbs 9:12). Out of the four sections, two students emerged with the top grade point average. The students are [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/res-6th-graders-stand-out/">RES 6th graders stand out</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/res-6th-graders-stand-out/>
+
+---
+
+## †Amado G. Verdaguer
+
+date: 2024-06-13, updated: 2024-06-13, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/obituaries/amado-g-verdaguer/article_d0e9d242-2952-11ef-acd8-ff89c67e67d0.html>
+
+---
+
+## USCIS approves wage hike for H-2B workers on Guam
+
+date: 2024-06-13, from: Pacific Island Times
+
+By Pacific Island Times News Staff The US. Citizen and Immigration Services has approved the new prevailing wage rates for guest workers... 
+
+<https://www.pacificislandtimes.com/post/uscis-approves-wage-hike-for-h-2b-workers-on-guam>
+
+---
+
+## Fashion night at Jitak
+
+date: 2024-06-13, from: Marshal Islands Journal
+
+<p>While the Festival of Pacific Arts was happening in Hawaii, local business Lakadrikdrim held a fashion entertainment showcasing island wear and crafts last Friday at Jitak Likatu Bar. The show provided a platform for a group of young, for some, super young, models to showcase their talent and local handicrafts. One by one, each participant [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/fashion-night-at-jitak/">Fashion night at Jitak</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/fashion-night-at-jitak/>
+
+---
+
+## Home is Here NuiNow, Eloise Luzader, Cane Haul Road
+
+date: 2024-06-13, from: Home is Here
+
+<p>Enjoy three stories about defying expectations...</p>
+<p>The post <a href="https://www.pbshawaii.org/home-is-here-nuinow-eloise-luzader-cane-haul-road/">Home is Here &lt;br/&gt;NuiNow, Eloise Luzader, Cane Haul Road</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/home-is-here-nuinow-eloise-luzader-cane-haul-road/>
+
+---
+
+## It’s show time!
+
+date: 2024-06-13, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON There are no more “tomorrows” — the Micronesian Games are here! Athletes, coaches and officials are now living at the MIHS Micro Games Village, the Games food crew is turning out thousands of meals daily at the Village, and the RMI opening ceremony team is gearing for the big kickoff event this Saturday [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/its-show-time/">It’s show time!</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/its-show-time/>
+
+---
+
+## CNMI eyes Taiwan market
+
+date: 2024-06-13, from: Pacific Island Times
+
+By Pacific Island Times News Staff Saipan--  Beefing up its efforts to diversify the CNMI's source markets for visitors, the Marianas... 
+
+<https://www.pacificislandtimes.com/post/cnmi-eyes-taiwan-market>
+
+---
+
+## Student entrepreneurs network with Hawaiʻi business leaders at inaugural showcase
+
+date: 2024-06-13, from: University of Hawaiʻi News
+
+<p><abbr>PACE</abbr> plans to host a Founders and Friends Showcase every semester.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/12/pace-founders-and-friends-showcase/">Student entrepreneurs network with Hawaiʻi business leaders at inaugural showcase</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/12/pace-founders-and-friends-showcase/>
+
+---
+
+## UH receives five-star rating as top workplace for LGBTQ+ 2024
+
+date: 2024-06-13, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> recognized as one of the nation’s top 400 companies across 78 industries.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/12/uh-receives-five-star-rating-top-workplace-lgbtq/"><abbr>UH</abbr> receives five-star rating as top workplace for <abbr>LGBTQ</abbr>+ 2024</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/12/uh-receives-five-star-rating-top-workplace-lgbtq/>
+
+---
+
+## USP SLS peer mentoring at QVS a success
+
+date: 2024-06-12, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP), through the Student Learning Support (SLS), is taking...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-sls-peer-mentoring-at-qvs-a-success/">USP SLS peer mentoring at QVS a success</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-sls-peer-mentoring-at-qvs-a-success/>
+
+---
+
+## UH Mānoa launches search for director of new Health Sciences Institute
+
+date: 2024-06-12, from: University of Hawaiʻi News
+
+<p>The position will oversee the institute’s mission of addressing the complex health challenges facing <span aria-label="Hawaii">Hawai&#699;i</span> and the Pacific.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/12/health-sciences-institute-director-search/"><abbr>UH</abbr> Mānoa launches search for director of new Health Sciences Institute</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/12/health-sciences-institute-director-search/>
+
+---
+
+## Images of the Week: FestPAC Welcome
+
+date: 2024-06-12, from: University of Hawaiʻi News
+
+<p>This week's image is from the FestPAC opening ceremony.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/12/image-of-the-week-festpac-welcome/">Images of the Week: FestPAC Welcome</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/12/image-of-the-week-festpac-welcome/>
+
+---
+
+## At the Festival of Pacific Arts & Culture in Hawaii
+
+date: 2024-06-12, updated: 2024-06-13, from: Marianas Variety
+
+Wood carvers from various Pacific islands, including the CNMI, are hard at work creating their art on the grounds of the Bishop Museum in Honolulu during FestPac 2024. 
+
+<https://www.mvariety.com/lifestyle/at-the-festival-of-pacific-arts-culture-in-hawaii/article_39f8c920-2889-11ef-bb46-a765636a721d.html>
+
+---
+
+## House panel chair vows to support NMC
+
+date: 2024-06-12, updated: 2024-06-13, from: Marianas Variety
+
+THE chair of the House Ways and Means Committee on Tuesday vowed to support Northern Marianas College’s funding needs. 
+
+<https://www.mvariety.com/news/local/house-panel-chair-vows-to-support-nmc/article_7f3acc52-2895-11ef-8fa9-7f75f95d47eb.html>
+
+---
+
+## CPA board revisits request for exclusive stevedoring services at Tinian port
+
+date: 2024-06-12, updated: 2024-06-13, from: Marianas Variety
+
+THE Commonwealth Ports Authority’s board of directors on Friday discussed Tinian Marine Stevedore Inc.'s request for exclusive rights to provide stevedoring and terminal services at the Port of Tinian. 
+
+<https://www.mvariety.com/news/local/cpa-board-revisits-request-for-exclusive-stevedoring-services-at-tinian-port/article_788ddb80-2898-11ef-b6e5-83edcc20b973.html>
+
+---
+
+## RT&T asks CPA for more time to take corrective actions
+
+date: 2024-06-12, updated: 2024-06-13, from: Marianas Variety
+
+THE Rota Terminal &amp; Transfer Company Inc. is requesting the Commonwealth Ports Authority board of directors for an extension of the deadline to take correction actions on several violations of a lease agreement to operate the Rota West Harbor. 
+
+<https://www.mvariety.com/news/local/rt-t-asks-cpa-for-more-time-to-take-corrective-actions/article_1535e452-2879-11ef-aa26-e358bfa9d0ab.html>
+
+---
+
+## Taiwanese FestPac delegates  present cultural artifacts to Bishop Museum
+
+date: 2024-06-12, updated: 2024-06-13, from: Marianas Variety
+
+HONOLULU — Taiwan’s representatives to Festival of Pacific Arts &amp; Culture conducted a special gifting ceremony and cultural exchange on the grounds of the Bishop Museum on Monday, June 10. 
+
+<https://www.mvariety.com/news/local/taiwanese-festpac-delegates-present-cultural-artifacts-to-bishop-museum/article_41e9f136-28c5-11ef-9de5-0b1f040b39a3.html>
+
+---
+
+## Green flags on Saipan, Rota
+
+date: 2024-06-12, updated: 2024-06-13, from: Marianas Variety
+
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan’s east and south recreational beaches as well as from Rota’s recreational beaches and storm drainages this week as part of the regularly scheduled sampling.  None of the samples collected contained excessive concentration of fecal indicator bacteria nor did they exceed CNMI marine water quality standards. Therefore, BECQ assigns the following sampled beach sites a green flag. Enjoy our waters! 
+
+<https://www.mvariety.com/news/local/green-flags-on-saipan-rota/article_69f37eca-2886-11ef-a40a-7b42eb69e91c.html>
+
+---
+
+## Regal donates $3,187 to the American Red Cross in the NMI
+
+date: 2024-06-12, updated: 2024-06-13, from: Marianas Variety
+
+Regal Saipan Megaplex General Manager Maybelline Cabrera and staff present a donation to John Hirsh of the American Red Cross-NMI chapter. The Regal Foundation and their Star of Hope program have donated $3,187 to the American Red Cross. The generous donation will be used to support Red Cross programs throughout Saipan, Rota and Tinian. Since 2003 the Regal Foundation has supported communities in which Regal operates by partnering with selected charities like the Red Cross who provide aid to families affected by economic, social, physical, or educational disadvantages. “The NMI Red Cross Chapter is grateful for Regal support and uses their generosity to improve lives here in the NMI,” said Juan Diego Tenorio, disaster program manager. “We are proud to be included as a national Regal partner and appreciate the generous support at the local community level” said John Hirsh, NMI chapter executive director. 
+
+<https://www.mvariety.com/news/community_bulletins/regal-donates-3-187-to-the-american-red-cross-in-the-nmi/article_d90011a8-28bc-11ef-8884-2f5b3f5766fb.html>
+
+---
+
+## Judge issues preliminary injunction against Zaji
+
+date: 2024-06-12, updated: 2024-06-13, from: Marianas Variety
+
+SUPERIOR Court Associate Judge Kenneth L. Govendo has granted Northern Marianas College’s request for a preliminary injunction against Zaji Zajradhara to restrain, enjoin and prohibit him from communicating with Small Business Development Center employees by any method for any reason. 
+
+<https://www.mvariety.com/news/local/judge-issues-preliminary-injunction-against-zaji/article_991f6270-28bf-11ef-b4e9-73c327f32efa.html>
+
+---
+
+## US Probation Office requests arrest warrant for Vickilyn Teregeyo
+
+date: 2024-06-12, updated: 2024-06-13, from: Marianas Variety
+
+THE U.S. Probation Office on Wednesday requested the federal court to issue an arrest warrant for Vickilyn Manglona Teregeyo for violating curfew and failing to return to the HOPE Recovery Center. 
+
+<https://www.mvariety.com/news/local/us-probation-office-requests-arrest-warrant-for-vickilyn-teregeyo/article_7d2cf588-28c3-11ef-b1cb-53f60e7dcaaa.html>
 
 ---
 
@@ -342,6 +886,18 @@ date: 2024-06-12, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/06/12/nation-world-news/nuclear-power-is-hard-a-climate-minded-billionaire-wants-to-make-it-easier/>
+
+---
+
+## Body of Ocean View woman found in Kailua-Kona
+
+date: 2024-06-12, from: Hawaii Tribune Harold
+
+
+				<p>Police have initiated an investigation after a partially decomposed body of a woman was discovered within a parked vehicle located in a neighborhood in Kailua-Kona.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/12/hawaii-news/body-of-ocean-view-woman-found-in-kailua-kona/>
 
 ---
 

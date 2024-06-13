@@ -1,11 +1,147 @@
 ---
 title: writing 2024.24
-updated: 2024-06-12 07:36:08
+updated: 2024-06-13 08:24:19
 ---
 
 # writing 2024.24
 
-(date: 2024-06-12 07:36:08)
+(date: 2024-06-13 08:24:19)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-13, from: Neil Gaiman @ BlueSky)
+
+It must be like people who only know Spaceballs encountering Star Wars for the first time.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kusa3wnm4y2u>
+
+---
+
+## 2024 Nommo Awards Shortlist
+
+date: 2024-06-12, from: Locus Magazine
+
+<p>The African Speculative Fiction Society (ASFS) has announced the shortlist for the 2024 Nommo Awards, given to works &#8220;by Africans as defined by the ASFS and Nommo Awards Guidelines.&#8221;</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Novel</strong></p>
+<ul>
+<li><strong>Bones and Runes</strong>, Stephen Embleton (self-published)</li>
+<li><strong>Dazzling</strong>, Chịkọdịlị Emelụmadụ (Wildfire)</li>
+<li><strong>Warrior of the Wind</strong>, Suyi Davies Okungbowa (Orbit)
+</li>
+<li><strong>Don’t Answer When They Call Your Name</strong>, Ukamaka Olisakwe (Griots Lounge)
+</li>
+<li><strong>Vagabonds!</strong>, Eloghosa Osunde (Riverhead)</li>
+<li><strong>Shigidi </strong></li></ul></div> <a href="https://locusmag.com/2024/06/2024-nommo-awards-shortlist/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/06/2024-nommo-awards-shortlist/>
+
+---
+
+## Chiang Wins PEN/Malamud Award
+
+date: 2024-06-12, from: Locus Magazine
+
+<p>The PEN/Faulkner Foundation has announced Ted Chiang as the winner of the 2024 PEN/Malamud Award for Excellence in the Short Story, which &#8220;recognizes writers who have demonstrated exceptional achievement in the short story form.&#8221;</p>
+<p>Chiang will be honored at the annual PEN/Malamud Award Ceremony, held in partnership with American University, on December 1, 2024. For more, see the PEN/Faulkner Foundation website.</p>
+
+<p><strong>While you are here,</strong> please take a moment to  <a href="https://locusmag.com/2024/06/chiang-wins-pen-malamud-award/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/chiang-wins-pen-malamud-award/>
+
+---
+
+## 2024 Lambda Literary Awards
+
+date: 2024-06-12, from: Locus Magazine
+
+<p>The Lambda Literary Foundation has announced the winners for the 36th Annual Lambda Literary Awards (the &#8220;Lammys&#8221;), celebrating &#8220;the best lesbian, gay, bisexual, and transgender books.&#8221; Winners of genre interest include:
+</p>
+<div class="nobullets">
+<p><strong>LGBTQ+ Speculative Fiction</strong></p>
+<ul>
+<li>WINNER: <strong>I Keep My Exoskeletons to Myself</strong>, Marisa Crane (Catapult)</li>
+</ul>
+<ul>
+<li><strong>The Archive Undying</strong>, Emma Mieko Candon (Tordotcom)</li>
+<li><strong>The Saint of Bright Doors</strong>, Vajra Chandrasekera (Tordotcom)</li>
+<li><strong>The Thick and the Lean</strong>, Chana Porter </li></ul></div> <a href="https://locusmag.com/2024/06/2024-lambda-literary-awards/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/06/2024-lambda-literary-awards/>
+
+---
+
+## 2023 Analog AnLab Awards
+
+date: 2024-06-12, from: Locus Magazine
+
+<p>Results of the 2023 Analog Analytical Laboratory (AnLab) Awards have been announced, with many finalists available to read online.</p>
+<div class="vc_row wpb_row vc_row-fluid">
+<div class="wpb_column vc_column_container vc_col-sm-12">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<p><strong>BEST NOVELLA</strong></p>
+<ul>
+<li>1st place: &#8220;Poison&#8220;, Frank Wu &#38; Jay Werkheiser (5-6/23)</li>
+<li>2nd place: &#8220;The Tinker and the Timestream&#8220;, Carolyn Ives Gilman (3-4/23)</li>
+<li>3rd place: &#8220;Flying Carpet&#8220;, Rajnar Vajra (11-12/23)</li>
+<li>4th place: &#8220;To Fight the Colossus&#8220;, Adam-Troy Castro (7-8/23)</li>
+<li>5th place: &#8220;The Elephant-Maker&#8221;, Alec Nevala-Lee (1-2/23)</li>
+</ul>
+<p><strong>BEST NOVELETTE</strong></p>
+<ul>
+<li>1st place:&#8221;The Deviltree&#8220;, Monalisa </li></ul></div></div></div></div></div></div> <a href="https://locusmag.com/2024/06/2023-analog-anlab-awards/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/06/2023-analog-anlab-awards/>
+
+---
+
+## 🤫 Some unspoken thing
+
+date: 2024-06-12, from: Interesting, a blog on writing
+
+Using the page to tell actors what to leave unsaid. 
+
+<https://inneresting.substack.com/p/some-unspoken-thing>
+
+---
+
+## Le Guin Home to Host Writers Residency
+
+date: 2024-06-12, from: Locus Magazine
+
+<p>Portland OR non-profit Literary Arts has announced that the home of late SF Grandmaster Ursula K. Le Guin (1929-2018) will become the site of the Ursula K. Le Guin Writers Residency, in accordance with Le Guin&#8217;s wishes.</p>
+<p>The Le Guin family donated the home in Northwest Portland to the organization. Le Guin wrote many of her most famous works in the second-floor writing studio of the house, which she and  <a href="https://locusmag.com/2024/06/le-guin-home-to-host-writers-residency/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/le-guin-home-to-host-writers-residency/>
+
+---
+
+## How ‘Colin From Accounts’ Writers Craft a Hilarious TV Pilot
+
+date: 2024-06-12, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-colin-from-accounts-writers-craft-a-hilarious-tv-pilot" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Colin%20From%20Accounts%202.jpeg" alt="How ‘Colin From Accounts’ Writers Craft a Hilarious TV Pilot" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>A dog. A nipple. A piece of human poop. This may not sound like a recipe for a great romantic sitcom, but with sizzling natural chemistry between the two leads, <a href="https://www.imdb.com/title/tt18228732/"><em>Colin From Accounts</em></a> may be the funniest streaming show.</p> 
+
+<https://blog.finaldraft.com/how-colin-from-accounts-writers-craft-a-hilarious-tv-pilot>
+
+---
+
+## Jake Casella Brookins Reviews Ocean’s Godori by Elaine U. Cho
+
+date: 2024-06-12, from: Locus Magazine
+
+<p><strong>Ocean’s Godori, </strong>Elaine U. Cho (Hillman Grad Books 978-1-63893-059-4, 352pp, $28.00, hc)</p>
+<p>Set in a lightly sketched future in which humans have spread into space, terraforming along the way, Elaine U. Cho’s debut novel <strong>Ocean’s Godori </strong>follows Ocean Yoon, a talented spaceship pilot. Following an initially unexplained fall from grace, Ocean has signed on with the Ohneul, a low-ranking ship. Aloof but comfortable in her ship’s found-family dynamic, Ocean’s biggest  <a href="https://locusmag.com/2024/06/jake-casella-brookins-reviews-oceans-godori-by-elaine-u-cho/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/jake-casella-brookins-reviews-oceans-godori-by-elaine-u-cho/>
 
 ---
 

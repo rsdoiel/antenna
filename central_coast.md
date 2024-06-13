@@ -1,11 +1,136 @@
 ---
 title: central coast 2024.24
-updated: 2024-06-12 07:36:06
+updated: 2024-06-13 08:24:18
 ---
 
 # central coast 2024.24
 
-(date: 2024-06-12 07:36:06)
+(date: 2024-06-13 08:24:18)
+
+---
+
+## Teachers Union, Santa Barbara School District Reach Contract Settlement after 12 Hours of Mediation
+
+date: 2024-06-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/IMG_2788-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/IMG_2788-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/IMG_2788-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/IMG_2788-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/IMG_2788-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/IMG_2788-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/IMG_2788-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/IMG_2788-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/IMG_2788-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/IMG_2788-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/IMG_2788-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/IMG_2788-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/IMG_2788-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/IMG_2788-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The deal is done. The Santa Barbara Teachers Association reached a tentative agreement Wednesday to settle its contract dispute with the Santa Barbara Unified School District, according to Hozby Galindo, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/teachers-union-santa-barbara-unified-school-district-reach-contract-settlement-after-12-hours-of-mediation/">Teachers Union, Santa Barbara School District Reach Contract Settlement after 12 Hours of Mediation</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/teachers-union-santa-barbara-unified-school-district-reach-contract-settlement-after-12-hours-of-mediation/>
+
+---
+
+## St. Mary’s Cathedral
+
+date: 2024-06-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Douglas-Scott.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="St. Mary’s Cathedral in Killarney, Ireland." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Douglas-Scott.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Douglas-Scott.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Douglas-Scott.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Douglas-Scott.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Douglas-Scott.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Douglas-Scott.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Douglas-Scott.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Douglas-Scott.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Douglas-Scott.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Douglas-Scott.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Douglas-Scott.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Douglas-Scott.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/042224-POD-Douglas-Scott.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/st-marys-cathedral/">St. Mary’s Cathedral</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/st-marys-cathedral/>
+
+---
+
+## Supporters Speak Up for Pioneer Valley High School Principal Facing Termination
+
+date: 2024-06-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061224-PVHS-Principal-Support1a-js-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Support for Pioneer Valley Union High School Principal Shanda Herrera." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061224-PVHS-Principal-Support1a-js-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061224-PVHS-Principal-Support1a-js-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061224-PVHS-Principal-Support1a-js-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061224-PVHS-Principal-Support1a-js-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061224-PVHS-Principal-Support1a-js-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061224-PVHS-Principal-Support1a-js-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061224-PVHS-Principal-Support1a-js-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061224-PVHS-Principal-Support1a-js-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061224-PVHS-Principal-Support1a-js-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061224-PVHS-Principal-Support1a-js-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061224-PVHS-Principal-Support1a-js-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061224-PVHS-Principal-Support1a-js-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061224-PVHS-Principal-Support1a-js-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A beloved principal dubbed the heart of Pioneer Valley Union High School prompted a standing-room-only crowd to show up in support at a rare Wednesday morning school board meeting after [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/supporters-speak-up-for-pioneer-valley-high-school-principal-facing-termination/">Supporters Speak Up for Pioneer Valley High School Principal Facing Termination</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/supporters-speak-up-for-pioneer-valley-high-school-principal-facing-termination/>
+
+---
+
+## Santa Barbara Foresters Fall in Road Matchup Against Conejo Oaks, 7-4
+
+date: 2024-06-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara Foresters dropped their second straight game on Wednesday, falling to the Conejo Oaks on the road by a score of 7-4. With the loss, the Foresters are [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-foresters-fall-in-road-matchup-against-conejo-oaks-7-4/">Santa Barbara Foresters Fall in Road Matchup Against Conejo Oaks, 7-4</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-foresters-fall-in-road-matchup-against-conejo-oaks-7-4/>
+
+---
+
+## County Supervisors Frustrated Over Cannabis Dispensary Delays
+
+date: 2024-06-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061024-State-Street-Cannabis-Dispensary-Site-1-gm.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="4235 State St. in Santa Barbara." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061024-State-Street-Cannabis-Dispensary-Site-1-gm.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061024-State-Street-Cannabis-Dispensary-Site-1-gm.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061024-State-Street-Cannabis-Dispensary-Site-1-gm.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061024-State-Street-Cannabis-Dispensary-Site-1-gm.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061024-State-Street-Cannabis-Dispensary-Site-1-gm.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061024-State-Street-Cannabis-Dispensary-Site-1-gm.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061024-State-Street-Cannabis-Dispensary-Site-1-gm.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061024-State-Street-Cannabis-Dispensary-Site-1-gm.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061024-State-Street-Cannabis-Dispensary-Site-1-gm.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061024-State-Street-Cannabis-Dispensary-Site-1-gm.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Only two of the six permitted cannabis dispensaries in Santa Barbara County are open, and both are reporting lower sales than expected. That’s contributing to Santa Barbara County’s cannabis tax [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/county-supervisors-frustrated-over-cannabis-dispensary-delays/">County Supervisors Frustrated Over Cannabis Dispensary Delays</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/county-supervisors-frustrated-over-cannabis-dispensary-delays/>
+
+---
+
+## Santa Barbara Triathlete Susan Cochran, 71, Is In It to — Finish
+
+date: 2024-06-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="800" height="533" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060224-SusanCochran-800-crop.jpg?fit=800%2C533&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Susan Cochran of Santa Barbara takes a first place in her age group in a Santa Barbara Triathlon." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060224-SusanCochran-800-crop.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060224-SusanCochran-800-crop.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060224-SusanCochran-800-crop.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060224-SusanCochran-800-crop.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060224-SusanCochran-800-crop.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/060224-SusanCochran-800-crop.jpg?fit=800%2C533&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>When Susan Cochran participates in a triathlon, swims a mile, or bikes a long, challenging course, she is driven by one goal — to finish. At age 71, the Santa [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-triathlete-susan-cochran-71-is-in-it-to-finish/">Santa Barbara Triathlete Susan Cochran, 71, Is In It to — Finish</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-triathlete-susan-cochran-71-is-in-it-to-finish/>
+
+---
+
+## California Coastal Commission Delays Discussion of SpaceX Plan for Vandenberg
+
+date: 2024-06-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A California Coastal Commission agenda item about increased SpaceX launches at Vandenberg Space Force Base has been delayed for at least two months. Meeting in Morro Bay for three days, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/california-coastal-commission-delays-discussion-of-spacex-launch-plan-for-vandenberg/">California Coastal Commission Delays Discussion of SpaceX Plan for Vandenberg</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/california-coastal-commission-delays-discussion-of-spacex-launch-plan-for-vandenberg/>
+
+---
+
+## Santa Barbara High Girls Water Polo, Beach Volleyball Named CIF State Academic Champions
+
+date: 2024-06-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara High tacked on two more athletic honors just one day before the conclusion of the 2023-24 school year. The Dons’ girls water polo and girls beach volleyball squads [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-high-girls-water-polo-beach-volleyball-named-cif-state-academic-champions/">Santa Barbara High Girls Water Polo, Beach Volleyball Named CIF State Academic Champions</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-high-girls-water-polo-beach-volleyball-named-cif-state-academic-champions/>
+
+---
+
+## State Award Honors Vista Del Mar School District Efforts to Go Green
+
+date: 2024-06-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Vista Del Mar Union School District in Gaviota has been awarded the 2024 California Green Ribbon Schools award recognizing its commitment to environmental stewardship, health and wellness, and sustainability [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/state-award-honors-vista-del-mar-school-district-efforts-to-go-green/">State Award Honors Vista Del Mar School District Efforts to Go Green</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/state-award-honors-vista-del-mar-school-district-efforts-to-go-green/>
+
+---
+
+## Waves of Romance: Mastering Your Beach Wedding
+
+date: 2024-06-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/beach-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Couple getting married at the beach" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/beach-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/beach-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/beach-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/beach-scaled.jpeg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/beach-scaled.jpeg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/beach-scaled.jpeg?resize=2048%2C1367&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/beach-scaled.jpeg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/beach-scaled.jpeg?resize=1568%2C1047&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/beach-scaled.jpeg?resize=2000%2C1335&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/beach-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/beach-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/beach-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/beach-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p> There’s no experience like standing barefoot in front of the ocean while professing your eternal love to that extraordinary person</p>
+<p>The post <a href="https://www.noozhawk.com/waves-of-romance-mastering-your-beach-wedding/">Waves of Romance: Mastering Your Beach Wedding</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/waves-of-romance-mastering-your-beach-wedding/>
 
 ---
 

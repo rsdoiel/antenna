@@ -1,11 +1,141 @@
 ---
 title: motorcycles 2024.24
-updated: 2024-06-12 07:36:10
+updated: 2024-06-13 08:24:21
 ---
 
 # motorcycles 2024.24
 
-(date: 2024-06-12 07:36:10)
+(date: 2024-06-13 08:24:21)
+
+---
+
+## Do Four E-Scooters Make a Car? Someone Found Out
+
+date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
+
+This guy's buddy broke his wrist on a Lime scooter, so he came up with a questionable solution. 
+
+<https://www.rideapart.com/news/723083/lime-scooter-car-build-video/>
+
+---
+
+## Insta360 GO 3S Adds 4K Capability To The Brand's Tiniest Camera
+
+date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
+
+The company's smallest, most wearable action cam gets a 4K upgrade. 
+
+<https://www.rideapart.com/news/723101/insta360-go-3s-action-cam/>
+
+---
+
+## A New Bill Aims to Ban 'Wildlife Whacking' With Snowmobiles and Other Motor Vehicles
+
+date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
+
+Good, cause this isn't hunting.  
+
+<https://www.rideapart.com/news/723077/wildlife-whacking-ban-snowmobile-wolf/>
+
+---
+
+## Benda’s LFC700 Is a Weird Futuristic Cruiser
+
+date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
+
+It recently made its debut in France, hinting at availability in the rest of Europe soon.  
+
+<https://www.rideapart.com/news/722814/benda-lfc700-cruiser-launch-europe/>
+
+---
+
+## Is Anzu Robotics The Answer To DJI's Potential Ban?
+
+date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
+
+It's got those drones you like from a company that rhymes with PKY, only stripped of the stuff that pending US legislation says is bad. 
+
+<https://www.rideapart.com/news/722802/anzu-robotics-dji-drone-ban/>
+
+---
+
+## Did You Know Apple Tests the iPhone's Durability With Motorcycle Engine Vibrations?
+
+date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
+
+Marques Brownlee visited the Apple Labs and discovered a lot of interesting facts. 
+
+<https://www.rideapart.com/news/723075/apple-iphone-durability-testing-motorcycles/>
+
+---
+
+## Beta’s Xtrainer Is Ready To Train The Next Generation Of Off-Roaders
+
+date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
+
+Beta sprinkles the 2025 Xtrainer with a bunch of refinements.  
+
+<https://www.rideapart.com/news/722811/2025-beta-xtrainer-unveiled/>
+
+---
+
+## ARCA Menards Series West: 2024 Sonoma Race Review
+
+date: 2024-06-12, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires. The fourth race of the 2024 ARCA Menards West Series season was contested on the road track at Sonoma Raceway in Sonoma,&#8230;  
+
+<https://kickinthetires.net/nascar/arca-west-2024-sonoma-race-review/>
+
+---
+
+## Bimota and KTM Team Up in WorldSBK for 2025
+
+date: 2024-06-12, from: Cycle World News
+
+Bimota returns to racing in WorldSBK, replacing the factory Kawasaki team in a new strategy for both brands. 
+
+<https://www.cycleworld.com/motorcycle-racing/bimota-ktm-team-up-worldsbk-2025/>
+
+---
+
+## 2025 KTM 990 Adventure Caught Testing
+
+date: 2024-06-12, from: Cycle World News
+
+KTM looks to be changing up its middleweight adventure, utilizing the brand’s new 947cc parallel twin in an all-new chassis. 
+
+<https://www.cycleworld.com/motorcycle-news/ktm-990-adventure-spy-shots/>
+
+---
+
+## Piaggio Group: Michele Colaninno Elected ACEM President For a Second Term
+
+date: 2024-06-12, from: Cycle World News
+
+Michele Colaninno, Chief Executive Officer of the Piaggio Group (PIA.MI), has been elected for a second term as President of ACEM (Association des Constructeurs Européens de Motocycles). 
+
+<https://www.cycleworld.com/the-wire/piaggio-group-michele-colaninno-elected-acem-president-for-second-term/>
+
+---
+
+## Yamaha Just Gave Out Its 500th Award Through Its Outdoor Access Initiative
+
+date: 2024-06-12, from: Ride Apart, Electric Motorcycle News
+
+Doing good work to preserve our access to the outdoors. 
+
+<https://www.rideapart.com/news/722938/yamaha-outdoor-access-initiative-500-awards/>
+
+---
+
+## Highlights From the 2024 Quail Motorcycle Gathering
+
+date: 2024-06-12, from: Cycle World News
+
+In its 14th year, The Quail Motorcycle Gathering returned to California’s Quail Lodge & Golf Club with a full slate of over 200 iconic bikes. 
+
+<https://www.cycleworld.com/motorcycle-news/quail-motorcycle-gathering-photo-gallery/>
 
 ---
 

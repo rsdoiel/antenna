@@ -1,11 +1,315 @@
 ---
 title: socal north 2024.24
-updated: 2024-06-12 07:36:05
+updated: 2024-06-13 08:24:16
 ---
 
 # socal north 2024.24
 
-(date: 2024-06-12 07:36:05)
+(date: 2024-06-13 08:24:16)
+
+---
+
+## What Is Transitional Kindergarten? What to Expect When Enrolling Your Child
+
+date: 2024-06-13, updated: 2024-06-13, from: The LAist
+
+California is making transitional kindergarten available to all 4-year-olds. So what is it, and how do you know if it’s right for your child and your family? 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/what-is-transitional-kindergarten-what-to-expect-when-enrolling-your-child>
+
+---
+
+## Estudiantes de Pacoima Siguen Comprometiéndose a Decir No a las Drogas y las Pandillas
+
+date: 2024-06-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El día antes de que terminara el año escolar en la Escuela Primaria Pacoima Charter Elementary, el Oficial Principal del Departamento de Policía de Los Ángeles, Michael Scott, reunió a [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/12/estudiantes-de-pacoima-siguen-comprometiendose-a-decir-no-a-las-drogas-y-las-pandillas/">Estudiantes de Pacoima Siguen Comprometiéndose a Decir No a las Drogas y las Pandillas</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/12/estudiantes-de-pacoima-siguen-comprometiendose-a-decir-no-a-las-drogas-y-las-pandillas/>
+
+---
+
+## Graduada de César Chávez Academies Representando al Norte de SFV en Concurso Nacional de Arte
+
+date: 2024-06-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="738" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Congressional-art-20240006-2_elsol.jpg?fit=738%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Congressional-art-20240006-2_elsol.jpg?w=1648&amp;ssl=1 1648w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Congressional-art-20240006-2_elsol.jpg?resize=216%2C300&amp;ssl=1 216w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Congressional-art-20240006-2_elsol.jpg?resize=738%2C1024&amp;ssl=1 738w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Congressional-art-20240006-2_elsol.jpg?resize=768%2C1066&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Congressional-art-20240006-2_elsol.jpg?resize=1106%2C1536&amp;ssl=1 1106w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Congressional-art-20240006-2_elsol.jpg?resize=1475%2C2048&amp;ssl=1 1475w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Congressional-art-20240006-2_elsol.jpg?resize=1200%2C1666&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Congressional-art-20240006-2_elsol.jpg?resize=1568%2C2177&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Congressional-art-20240006-2_elsol.jpg?resize=400%2C555&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Congressional-art-20240006-2_elsol.jpg?resize=706%2C980&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Congressional-art-20240006-2_elsol.jpg?fit=738%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Cada año, cientos de estudiantes de preparatorias participan en el Concurso de Arte del Congreso, donde se selecciona un ganador de cada distrito del Congreso para viajar a Washington, D.C., [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/12/graduada-de-cesar-chavez-academies-representando-al-norte-de-sfv-en-concurso-nacional-de-arte/">Graduada de César Chávez Academies Representando al Norte de SFV en Concurso Nacional de Arte</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/12/graduada-de-cesar-chavez-academies-representando-al-norte-de-sfv-en-concurso-nacional-de-arte/>
+
+---
+
+## Apps and websites to help you post-graduation
+
+date: 2024-06-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/06/12/apps-and-websites-to-help-you-post-graduation/>
+
+---
+
+## Horóscopo
+
+date: 2024-06-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>ARIES (21 de mar &#8211; 19 de abr) Te sentirás inclinado a trabajar aún más duro de lo habitual esta semana. También tienes pozos más profundos de autodisciplina, así que [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/12/horoscopo-167/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/12/horoscopo-167/>
+
+---
+
+## Best sports records of the years
+
+date: 2024-06-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/06/12/best-sports-records-of-the-years/>
+
+---
+
+## EVENTOS Locales – Semana de 13 de junio, 2024
+
+date: 2024-06-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Jueves y Sabado en Junio Calles Verdes Cuidado de Árboles Verano Register for meeting location San Fernando&#160; (818) 623-4879 8 a.m. – 11 a.m. ¡Los árboles necesitan a las personas, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/12/eventos-locales-semana-de-13-de-junio-2024/">EVENTOS Locales &#8211; Semana de 13 de junio, 2024</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/12/eventos-locales-semana-de-13-de-junio-2024/>
+
+---
+
+## Somos Familia Valle Abre su Primer Centro LGBTQ+ en el Valle de San Fernando
+
+date: 2024-06-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="683" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Somos-Familia-Valle_SN_14-scaled.jpeg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Somos-Familia-Valle_SN_14-scaled.jpeg?w=1706&amp;ssl=1 1706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Somos-Familia-Valle_SN_14-scaled.jpeg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Somos-Familia-Valle_SN_14-scaled.jpeg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Somos-Familia-Valle_SN_14-scaled.jpeg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Somos-Familia-Valle_SN_14-scaled.jpeg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Somos-Familia-Valle_SN_14-scaled.jpeg?resize=1365%2C2048&amp;ssl=1 1365w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Somos-Familia-Valle_SN_14-scaled.jpeg?resize=1200%2C1800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Somos-Familia-Valle_SN_14-scaled.jpeg?resize=1568%2C2352&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Somos-Familia-Valle_SN_14-scaled.jpeg?resize=2000%2C3000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Somos-Familia-Valle_SN_14-scaled.jpeg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Somos-Familia-Valle_SN_14-scaled.jpeg?resize=706%2C1059&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Somos-Familia-Valle_SN_14-scaled.jpeg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Después de 10 años de organización, el grupo sin fines de lucro Somos Familia Valle abrió el primer centro LGBTQ+ en el Valle de San Fernando que está dirigido por [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/12/somos-familia-valle-abre-su-primer-centro-lgbtq-en-el-valle-de-san-fernando/">Somos Familia Valle Abre su Primer Centro LGBTQ+ en el Valle de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/12/somos-familia-valle-abre-su-primer-centro-lgbtq-en-el-valle-de-san-fernando/>
+
+---
+
+## Los Estudiantes de Magnolia Science Academy Ofrecen Clases de Inglés Gratuitas a Refugiados de Todo el Mundo
+
+date: 2024-06-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/DSC00034-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/DSC00034-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/DSC00034-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/DSC00034-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/DSC00034-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/DSC00034-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/DSC00034-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/DSC00034-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/DSC00034-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/DSC00034-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/DSC00034-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/DSC00034-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/DSC00034-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/DSC00034-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/DSC00034-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Cada año, la organización sin fines de lucro Embrace Relief ofrece a los refugiados de todo el mundo la oportunidad de aprender inglés de forma gratuita a través de clases [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/12/los-estudiantes-de-magnolia-science-academy-ofrecen-clases-de-ingles-gratuitas-a-refugiados-de-todo-el-mundo/">Los Estudiantes de Magnolia Science Academy Ofrecen Clases de Inglés Gratuitas a Refugiados de Todo el Mundo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/12/los-estudiantes-de-magnolia-science-academy-ofrecen-clases-de-ingles-gratuitas-a-refugiados-de-todo-el-mundo/>
+
+---
+
+## Policía de San Fernando Arresta a Sospechoso de Intento de Secuestro y Violación
+
+date: 2024-06-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="490" height="614" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SFPD-Arrest.png?fit=490%2C614&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SFPD-Arrest.png?w=490&amp;ssl=1 490w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SFPD-Arrest.png?resize=239%2C300&amp;ssl=1 239w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SFPD-Arrest.png?resize=400%2C501&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SFPD-Arrest.png?fit=490%2C614&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La policía de San Fernando arrestó a Jimmy Antepara, de 62 años, de San Fernando, el martes 4 de junio, por intentar secuestrar y violar a una menor de 14 [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/12/policia-de-san-fernando-arresta-a-sospechoso-de-intento-de-secuestro-y-violacion/">Policía de San Fernando Arresta a Sospechoso de Intento de Secuestro y Violación</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/12/policia-de-san-fernando-arresta-a-sospechoso-de-intento-de-secuestro-y-violacion/>
+
+---
+
+## Mientras la Corte Suprema Sopesa si Debe Juzgar a Donald Trump, Emergen Dudas Sobre su Imparcialidad
+
+date: 2024-06-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="820" height="546" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/national_elSol.webp?fit=820%2C546&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/national_elSol.webp?w=820&amp;ssl=1 820w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/national_elSol.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/national_elSol.webp?resize=768%2C511&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/national_elSol.webp?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/national_elSol.webp?resize=400%2C266&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/national_elSol.webp?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/national_elSol.webp?fit=820%2C546&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>By  Mark ShermanAssociated Press WASHINGTON (AP) — Hace 50 años, tres de los magistrados que fueron designados por Richard Nixon a la Corte Suprema se unieron a un fallo de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/12/mientras-la-corte-suprema-sopesa-si-debe-juzgar-a-donald-trump-emergen-dudas-sobre-su-imparcialidad/">Mientras la Corte Suprema Sopesa si Debe Juzgar a Donald Trump, Emergen Dudas Sobre su Imparcialidad</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/12/mientras-la-corte-suprema-sopesa-si-debe-juzgar-a-donald-trump-emergen-dudas-sobre-su-imparcialidad/>
+
+---
+
+## Virtual Resilience
+
+date: 2024-06-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/06/12/virtual-resilience/>
+
+---
+
+## LA County ‘Parks After Dark’ Program Kicks off Summer 2024 with Mega Concerts Series and ‘Dive-in’ Movies
+
+date: 2024-06-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="791" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SummerPAD-English5-14F_Page_1-791x1024-1.png?fit=791%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SummerPAD-English5-14F_Page_1-791x1024-1.png?w=791&amp;ssl=1 791w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SummerPAD-English5-14F_Page_1-791x1024-1.png?resize=232%2C300&amp;ssl=1 232w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SummerPAD-English5-14F_Page_1-791x1024-1.png?resize=768%2C994&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SummerPAD-English5-14F_Page_1-791x1024-1.png?resize=400%2C518&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SummerPAD-English5-14F_Page_1-791x1024-1.png?resize=706%2C914&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/SummerPAD-English5-14F_Page_1-791x1024-1.png?fit=791%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Another summer of music, movies and fun in the pool awaits parkgoers when LA County Parks &#38; Recreation’s award-winning Parks After Dark (PAD) summer program series kicks off at El [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/12/la-county-parks-after-dark-program-kicks-off-summer-2024-with-mega-concerts-series-and-dive-in-movies/">LA County ‘Parks After Dark’ Program Kicks off Summer 2024 with Mega Concerts Series and ‘Dive-in’ Movies</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/12/la-county-parks-after-dark-program-kicks-off-summer-2024-with-mega-concerts-series-and-dive-in-movies/>
+
+---
+
+## LADWP Celebrates Pride Month with Flag Raising and March
+
+date: 2024-06-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="732" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/20220612_CC_Pride_Parade_0200-2048x2048-1-1024x732-1.jpeg?fit=1024%2C732&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/20220612_CC_Pride_Parade_0200-2048x2048-1-1024x732-1.jpeg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/20220612_CC_Pride_Parade_0200-2048x2048-1-1024x732-1.jpeg?resize=300%2C214&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/20220612_CC_Pride_Parade_0200-2048x2048-1-1024x732-1.jpeg?resize=768%2C549&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/20220612_CC_Pride_Parade_0200-2048x2048-1-1024x732-1.jpeg?resize=400%2C286&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/20220612_CC_Pride_Parade_0200-2048x2048-1-1024x732-1.jpeg?resize=706%2C505&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/20220612_CC_Pride_Parade_0200-2048x2048-1-1024x732-1.jpeg?fit=1024%2C732&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>For the first time, the Los Angeles Department of Water and Power (LADWP) raised the Progress Pride Flag in front of its headquarters, the John Ferraro Building in Downtown Los [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/12/ladwp-celebrates-pride-month-with-flag-raising-and-march/">LADWP Celebrates Pride Month with Flag Raising and March</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/12/ladwp-celebrates-pride-month-with-flag-raising-and-march/>
+
+---
+
+## Op-ed: The instructors, staff of Dodd Hall demand that our workplace be restored
+
+date: 2024-06-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor&#8217;s Note: This submission is an edited version of a statement signed by over 100 UCLA faculty and staff who work in Dodd Hall. Please see the original letter to view the complete list of signatories. 
+
+<https://dailybruin.com/2024/06/12/op-ed-the-instructors-staff-of-dodd-hall-demand-that-our-workplace-be-restored/>
+
+---
+
+## Thanks to Them
+
+date: 2024-06-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/2024/06/12/thanks-to-them/>
+
+---
+
+## SDA acting, dramatic writing MFA degrees to be tuition-free
+
+date: 2024-06-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The change will go into effect in the 2024-25 academic year.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/12/sda-acting-dramatic-writing-mfa-degrees-to-be-tuition-free/">SDA acting, dramatic writing MFA degrees to be tuition-free</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/12/sda-acting-dramatic-writing-mfa-degrees-to-be-tuition-free/>
+
+---
+
+## The fight to remember Powell Cat
+
+date: 2024-06-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+On March 9, 2023, the official Powell Cat Instagram account posted a single black square with the words, “RIP Powell Cat.” The post, which garnered nearly 24,000 likes, featured comments expressing shock and offering condolences. 
+
+<https://dailybruin.com/2024/06/12/the-fight-to-remember-powell-cat/>
+
+---
+
+## Renew Your Love for Reading at the Santa Clarita Public Library’s Annual Summer Reading Program
+
+date: 2024-06-12, from: City of Santa Clarita
+
+<p>Read, Renew and Repeat at the Library! Summer is right around the corner and the Santa Clarita Public Library has launched its highly anticipated Summer Reading Program through July 27. This beloved program offers residents of all ages a variety of family-friendly activities, reading challenges, crafts and more—all for free. With the theme &#8220;Read, Renew, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/06/12/renew-your-love-for-reading-at-the-santa-clarita-public-librarys-annual-summer-reading-program/">Renew Your Love for Reading at the Santa Clarita Public Library&#8217;s Annual Summer Reading Program</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/06/12/renew-your-love-for-reading-at-the-santa-clarita-public-librarys-annual-summer-reading-program/>
+
+---
+
+## DB Seniors Reflect on their Most Challenging Pieces
+
+date: 2024-06-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+DB Seniors reflect on the most challenging pieces they&#8217;ve worked on. 
+
+<https://dailybruin.com/2024/06/12/db-seniors-reflect-on-their-most-challenging-pieces/>
+
+---
+
+## A Day in the Life of a Graduating UCLA Senior
+
+date: 2024-06-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Accompany Daily Bruin Video as we follow a day in the lives of three graduating seniors! 
+
+<https://dailybruin.com/2024/06/12/a-day-in-the-life-of-a-graduating-ucla-senior/>
+
+---
+
+## People from across the UC gathered to protest against order halting UAW strike
+
+date: 2024-06-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Nearly 150 people – including graduate students from across the UC – gathered Wednesday to protest a restraining order halting the ongoing United Auto Workers Local 4811 strike, as well as the University’s use of force against student workers protesting in support of Palestine. 
+
+<https://dailybruin.com/2024/06/12/people-from-across-the-uc-gathered-to-protest-against-order-halting-uaw-strike/>
+
+---
+
+## UCLA chancellor appointment, Julio Frenk
+
+date: 2024-06-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/tag/ucla-chancellor-appointment>
+
+---
+
+## Chancellor-designate Julio Frenk answers media questions after his appointment
+
+date: 2024-06-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Chancellor-designate Julio Frenk said he would prioritize rebuilding trust after recent campus protests during a press conference Wednesday.&#160;
+“Trust is not received. It&#8217;s earned,” he said. 
+
+<https://dailybruin.com/2024/06/12/chancellor-designate-julio-frenk-answers-media-questions-after-his-appointment/>
+
+---
+
+## A Workplace Safety Board Bucked Gavin Newsom. Now He’s Shaking It Up
+
+date: 2024-06-12, updated: 2024-06-12, from: The LAist
+
+The governor’s office demoted the California Occupational Safety and Health Standards Board's chairperson and removed another member who criticized the administration. 
+
+<https://laist.com/news/politics/a-workplace-safety-board-bucked-gavin-newsom-now-hes-shaking-it-up>
+
+---
+
+## University of Miami President Julio Frenk announced as UCLA’s new chancellor
+
+date: 2024-06-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated June 12 at 1:55 p.m.</em>
+University of Miami President Julio Frenk was announced as UCLA’s next permanent chancellor by the UC Board of Regents Wednesday morning. 
+
+<https://dailybruin.com/2024/06/12/university-of-miami-president-julio-frenk-announced-as-uclas-new-chancellor/>
+
+---
+
+## UCLA Appoints Julio Frenk, University Of Miami President, As New Chancellor
+
+date: 2024-06-12, updated: 2024-06-12, from: The LAist
+
+Frenk will lead one of the country's most competitive public universities after a turbulent year. 
+
+<https://laist.com/news/education/ucla-new-chancellor-julio-frenk-gene-block>
 
 ---
 

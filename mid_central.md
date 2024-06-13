@@ -1,20 +1,32 @@
 ---
 title: mid central 2024.24
-updated: 2024-06-12 07:36:06
+updated: 2024-06-13 08:24:17
 ---
 
 # mid central 2024.24
 
-(date: 2024-06-12 07:36:06)
+(date: 2024-06-13 08:24:17)
 
 ---
 
-## The 2024 WWDC: AI stands for Apple intelligence, you see…
+## System-on-chip (SoC) design is all about IP management
+
+date: 2024-06-13, from: EDN Blog
+
+<img width="771" height="660" src="https://www.edn.com/wp-content/uploads/Fig-2-Silicon-IP-Faraday.png?fit=771%2C660" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-2-Silicon-IP-Faraday.png?w=771 771w, https://www.edn.com/wp-content/uploads/Fig-2-Silicon-IP-Faraday.png?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-2-Silicon-IP-Faraday.png?w=768 768w" sizes="(max-width: 771px) 100vw, 771px" /><p>SoCs are designed primarily by assembling various silicon IP blocks from multiple vendors.</p>
+<p>The post <a href="https://www.edn.com/system-on-chip-soc-design-is-all-about-ip-management/" data-wpel-link="internal">System-on-chip (SoC) design is all about IP management</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/system-on-chip-soc-design-is-all-about-ip-management/>
+
+---
+
+## The 2024 WWDC: AI stands for Apple Intelligence, you see…
 
 date: 2024-06-12, from: EDN Blog
 
-<img width="1960" height="1102" src="https://www.edn.com/wp-content/uploads/WWDC24-Apple-Intelligence.jpg?fit=1960%2C1102" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/WWDC24-Apple-Intelligence.jpg?w=1960 1960w, https://www.edn.com/wp-content/uploads/WWDC24-Apple-Intelligence.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/WWDC24-Apple-Intelligence.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/WWDC24-Apple-Intelligence.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/WWDC24-Apple-Intelligence.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/WWDC24-Apple-Intelligence.jpg?w=1260 1260w, https://www.edn.com/wp-content/uploads/WWDC24-Apple-Intelligence.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/WWDC24-Apple-Intelligence.jpg?w=1900 1900w" sizes="(max-width: 1960px) 100vw, 1960px" /><p>We may not have heard over 100 utterances of “AI” at WWDC, as we did at Google’s dev event. “Apple Intelligence”, on the other hand…</p>
-<p>The post <a href="https://www.edn.com/the-2024-wwdc-ai-stands-for-apple-intelligence-you-see/" data-wpel-link="internal">The 2024 WWDC: AI stands for Apple intelligence, you see…</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+<img width="1960" height="1102" src="https://www.edn.com/wp-content/uploads/WWDC24-Apple-Intelligence.jpg?fit=1960%2C1102" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/WWDC24-Apple-Intelligence.jpg?w=1960 1960w, https://www.edn.com/wp-content/uploads/WWDC24-Apple-Intelligence.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/WWDC24-Apple-Intelligence.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/WWDC24-Apple-Intelligence.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/WWDC24-Apple-Intelligence.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/WWDC24-Apple-Intelligence.jpg?w=1260 1260w, https://www.edn.com/wp-content/uploads/WWDC24-Apple-Intelligence.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/WWDC24-Apple-Intelligence.jpg?w=1900 1900w" sizes="(max-width: 1960px) 100vw, 1960px" /><p>We may not have heard over 100 utterances of “AI” at WWDC, as we did at Google’s dev event. “Apple Intelligence”, on the other hand…</p>
+<p>The post <a href="https://www.edn.com/the-2024-wwdc-ai-stands-for-apple-intelligence-you-see/" data-wpel-link="internal">The 2024 WWDC: AI stands for Apple Intelligence, you see…</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
 <https://www.edn.com/the-2024-wwdc-ai-stands-for-apple-intelligence-you-see/>

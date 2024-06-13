@@ -1,11 +1,481 @@
 ---
 title: going electric 2024.24
-updated: 2024-06-12 07:36:10
+updated: 2024-06-13 08:24:22
 ---
 
 # going electric 2024.24
 
-(date: 2024-06-12 07:36:10)
+(date: 2024-06-13 08:24:22)
+
+---
+
+## 2024 Ford F-150 Lightning EPA Energy Consumption Is 2.1 Miles/kWh
+
+date: 2024-06-13, from: Inside EVs News
+
+The EPA range rating remains the same, at up to 300-320 miles on a single charge. 
+
+<https://insideevs.com/news/723051/2024-ford-f150-lightning-epa-range-consumption/>
+
+---
+
+## Do Four E-Scooters Make a Car? Someone Found Out
+
+date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
+
+This guy's buddy broke his wrist on a Lime scooter, so he came up with a questionable solution. 
+
+<https://www.rideapart.com/news/723083/lime-scooter-car-build-video/>
+
+---
+
+## Tesla Cybertruck Increased The Average EV Price In The U.S. In May
+
+date: 2024-06-13, from: Inside EVs News
+
+Without Tesla in the mix, EV prices actually went down last month, but you can’t have it both ways. 
+
+<https://insideevs.com/news/723138/tesla-cybertruck-average-ev-price-may/>
+
+---
+
+## Ford enables all dealers to sell EVs, bringing +90% of Americans within reach
+
+date: 2024-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Ford-EV-costs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As <a href="https://electrek.co/guides/ford/">Ford</a> looks to grow its Model e EV business, the company believes its dealer network can be a significant asset. Ford announced Thursday it’s enabling all dealers to sell EVs, meaning 90% of Americans will live within 25 miles of a Ford dealership that sells electric vehicles.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/13/ford-enables-all-dealers-sell-evs-90-us-within-reach/#more-367483" data-post-id="367483" data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/13/ford-enables-all-dealers-sell-evs-90-us-within-reach/>
+
+---
+
+## Hydrogen bicycles, new e-scooters, & more! The coolest stuff I saw at Micromobility Europe 2024
+
+date: 2024-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/micromobility-europe-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I recently had the chance <a href="https://electrek.co/2024/06/04/micromobility-europe-conference-heads-to-amsterdam-for-big-fun-with-small-evs/">to attend Micromobility Europe 2024</a>, the latest industry tradeshow promoting the proliferation of right-sized personal electric vehicles. For two days, the show took to Amsterdam to showcase many of the newest innovations and companies pushing the envelope on what micromobility vehicles can offer to urban residents. </p>
+
+
+
+<p>Here is a smattering of many of the most interesting things I saw (and test rode) <a href="https://micromobility.io/events/micromobility-europe">while exploring the show.</a></p>
+
+
+
+ <a href="https://electrek.co/2024/06/13/hydrogen-bicycles-new-e-scooters-more-the-coolest-stuff-i-saw-at-micromobility-europe-2024/#more-366863" data-post-id="366863" data-layer-pagetype="post" data-layer-postcategory="ebikes,electric-scooter" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/13/hydrogen-bicycles-new-e-scooters-more-the-coolest-stuff-i-saw-at-micromobility-europe-2024/>
+
+---
+
+## Mercedes-Benz is deploying 400 kW US-made EV fast chargers with CCS and NACS cables
+
+date: 2024-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Mercedes-EV-chargers-Alpitronic.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/mercedes-benz/">Mercedes-Benz</a> has announced a new agreement to deploy technology from European EV charger developer Alpitronic as the latter expands its presence in North America. Mercedes plans to install its new partner’s 400 kW EV fast chargers, built locally in the US, as part of a broader $1 billion investment to expand North American charging infrastructure.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/13/mercedes-benz-deploying-400-kw-us-ev-fast-chargers-ccs-nacs/#more-367481" data-post-id="367481" data-layer-pagetype="post" data-layer-postcategory="alpitronic,ev-chargers,ev-charging,mercedes-benz" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/13/mercedes-benz-deploying-400-kw-us-ev-fast-chargers-ccs-nacs/>
+
+---
+
+## Watch The 2024 Tesla Shareholder Vote Livestream Here
+
+date: 2024-06-13, from: Inside EVs News
+
+The livestream begins at 4:30 PM Eastern time. 
+
+<https://insideevs.com/news/723204/tesla-shareholder-vote-livestream/>
+
+---
+
+## Ford Cancels Model e Dealership Program And Set EV Pricing Model
+
+date: 2024-06-13, from: Inside EVs News
+
+The bold attempt to separate EV sales from combustion sales proved too difficult a task to accomplish. 
+
+<https://insideevs.com/news/723205/ford-cancels-modele-dealership-program/>
+
+---
+
+## Insta360 GO 3S Adds 4K Capability To The Brand's Tiniest Camera
+
+date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
+
+The company's smallest, most wearable action cam gets a 4K upgrade. 
+
+<https://www.rideapart.com/news/723101/insta360-go-3s-action-cam/>
+
+---
+
+## Porsche just officially paired up with ChargePoint in the US
+
+date: 2024-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/TVPCNA2024056_PR_MACAN_CHARGEPOINT_PRESS_RELEASE-1-2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Porsche Cars North America has signed an agreement that gives drivers access to ChargePoint’s network within the Porsche Charging Service.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/13/porsche-chargepoint/#more-367400" data-post-id="367400" data-layer-pagetype="post" data-layer-postcategory="chargepoint,dc-fast-charging,ev-chargers,porsche" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/13/porsche-chargepoint/>
+
+---
+
+## A New Bill Aims to Ban 'Wildlife Whacking' With Snowmobiles and Other Motor Vehicles
+
+date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
+
+Good, cause this isn't hunting.  
+
+<https://www.rideapart.com/news/723077/wildlife-whacking-ban-snowmobile-wolf/>
+
+---
+
+## Elon Musk Is Claiming Victory In Tesla Shareholder Pay Vote
+
+date: 2024-06-13, from: Inside EVs News
+
+The Tesla CEO said that shareholders voted “by wide margins” to approve his $56 billion compensation package. But things are far from over. 
+
+<https://insideevs.com/news/723195/tesla-musk-ceo-victory-vote/>
+
+---
+
+## Benda’s LFC700 Is a Weird Futuristic Cruiser
+
+date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
+
+It recently made its debut in France, hinting at availability in the rest of Europe soon.  
+
+<https://www.rideapart.com/news/722814/benda-lfc700-cruiser-launch-europe/>
+
+---
+
+## Is Anzu Robotics The Answer To DJI's Potential Ban?
+
+date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
+
+It's got those drones you like from a company that rhymes with PKY, only stripped of the stuff that pending US legislation says is bad. 
+
+<https://www.rideapart.com/news/722802/anzu-robotics-dji-drone-ban/>
+
+---
+
+## Did You Know Apple Tests the iPhone's Durability With Motorcycle Engine Vibrations?
+
+date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
+
+Marques Brownlee visited the Apple Labs and discovered a lot of interesting facts. 
+
+<https://www.rideapart.com/news/723075/apple-iphone-durability-testing-motorcycles/>
+
+---
+
+## Beta’s Xtrainer Is Ready To Train The Next Generation Of Off-Roaders
+
+date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
+
+Beta sprinkles the 2025 Xtrainer with a bunch of refinements.  
+
+<https://www.rideapart.com/news/722811/2025-beta-xtrainer-unveiled/>
+
+---
+
+## Tesla jumps on talent of Koch company making direct drive for robots
+
+date: 2024-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Screenshot-2024-06-13-at-12.30.12 PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla appears to be behind the acquisition, or “acqui-hire”, of a company developing direct drive motors for robots as it is being liquidated by Koch Engineered Solutions.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/13/tesla-jumps-talent-koch-company-making-direct-drive-robots/#more-367425" data-post-id="367425" data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/13/tesla-jumps-talent-koch-company-making-direct-drive-robots/>
+
+---
+
+## Tesla vote results: shareholders said ‘yes’ again to his ~$55B in pay, claims Musk
+
+date: 2024-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/07/Elon-Musk-Twitter-deal.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>With Tesla’s shareholder meeting still hours away, Tesla CEO Elon Musk shared charts suggesting that shareholders have approved two controversial ballot measures.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/13/musk-claims-both-controversial-tesla-shareholder-votes-passed/#more-367422" data-post-id="367422" data-layer-pagetype="post" data-layer-postcategory="elon-musk,tesla" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/13/musk-claims-both-controversial-tesla-shareholder-votes-passed/>
+
+---
+
+## Ørsted got a huge Tesla battery storage system for the world’s single largest offshore wind farm
+
+date: 2024-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/themes/ninetofive/dist/images/default-electrek-related-guide.png?w=1440" /></div><p>Ørsted just bought a 300 MW Tesla battery energy storage system for the UK’s Hornsea 3 Offshore Wind Farm. </p>
+
+
+
+ <a href="https://electrek.co/2024/06/12/orsted-tesla-battery-storage-system-offshore-wind-farm/#more-367418" data-post-id="367418" data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/12/orsted-tesla-battery-storage-system-offshore-wind-farm/>
+
+---
+
+## Optimus gets to work, a new BYD, EV forecasts, and go karts | Quick Charge
+
+date: 2024-06-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/two_optimus.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla tweeted news that it has two autonomous Optimus robots working at its factory, BYD announces a new, RWD hot hatch, EV sales are building towards future growth, and there’s a new, internationally recognized electric karting championship coming to the US. All this and more on today’s exciting episode of Quick Charge.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/12/optimus-gets-to-work-a-new-byd-ev-forecasts-and-go-karts-quick-charge/#more-367392" data-post-id="367392" data-layer-pagetype="post" data-layer-postcategory="byd,quick-charge,tesla,tesla-optimus" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/12/optimus-gets-to-work-a-new-byd-ev-forecasts-and-go-karts-quick-charge/>
+
+---
+
+## Next-Generation Apple CarPlay: The Most Interesting New Features
+
+date: 2024-06-12, from: Inside EVs News
+
+With endlessly customizable gauge clusters and infotainment screens, Apple wants you to tailor CarPlay to your taste. 
+
+<https://insideevs.com/news/723106/next-generation-apple-carplay-wwdc24-interesting-features/>
+
+---
+
+## Ford poaches ex-Tesla, Rivian, and Apple talent to develop affordable EVs
+
+date: 2024-06-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Fords-first-all-electric-Explorer-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As the race heats up to introduce more affordable electric cars, <a href="https://electrek.co/guides/ford/">Ford</a> is bringing on some of the best EV engineers to help it compete. Over the past few months, Ford has hired talent from Tesla, Rivian, Apple, and Lucid to help accelerate the development of affordable EVs.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/12/ford-poaches-ex-tesla-rivian-apple-talent-build-affordable-evs/#more-367380" data-post-id="367380" data-layer-pagetype="post" data-layer-postcategory="ford,rivian" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/12/ford-poaches-ex-tesla-rivian-apple-talent-build-affordable-evs/>
+
+---
+
+## What Is A 'Smart' Electric Car Charger And Why Should You Buy One?
+
+date: 2024-06-12, from: Inside EVs News
+
+There are "dumb" chargers and "smart" chargers. What makes a charger smart? Let's explore this topic. 
+
+<https://insideevs.com/news/723064/smart-ev-charger-buy-use-tips/>
+
+---
+
+## Honda undercuts Tesla Model Y after slashing Prologue EV lease prices to $399/mo
+
+date: 2024-06-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Honda-Prologue-Tesla-Model-Y.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After introducing new incentives, the <a href="https://electrek.co/guides/honda/">Honda Prologue EV</a> is now cheaper to lease than Tesla’s Model Y. Honda believes the Prologue hits the “sweet spot” of the electric SUV market at the right price. Can it compete with Tesla’s best-selling Model Y?</p>
+
+
+
+ <a href="https://electrek.co/2024/06/12/honda-undercuts-tesla-model-y-slashing-prologue-ev-prices/#more-367367" data-post-id="367367" data-layer-pagetype="post" data-layer-postcategory="honda,honda-prologue" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/12/honda-undercuts-tesla-model-y-slashing-prologue-ev-prices/>
+
+---
+
+## Nissan Ariya EV Recalled For Oil Leak That Could Lead To Loss Of Power
+
+date: 2024-06-12, from: Inside EVs News
+
+An oil leak isn’t the first thing that springs to mind when thinking about an EV, but it’s real. And here, it could lead to a loss of power. 
+
+<https://insideevs.com/news/723047/nissan-ariya-oil-leak-recall/>
+
+---
+
+## Tesla Pay Vote Is ‘A Nightmare For Shareholders’: What Could Happen
+
+date: 2024-06-12, from: Inside EVs News
+
+Be careful what you wish for, some investors warn. Musk could keep $TSLA’s value high, but will he do things differently at Tesla? 
+
+<https://insideevs.com/news/723081/tesla-musk-vote-shareholder-nightmare/>
+
+---
+
+## Save $355 during Lectric Father’s Day EV sale, rare UGREEN PowerRoam station discounts, Husqvarna robot mower, more
+
+date: 2024-06-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/lectric-xpeak-header-image.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Headlining today’s Green Deals is <a href="https://9to5toys.com/2024/06/12/lectric-xpeak-off-road-e-bikes-back-to-all-time-1299-low-plus-more-up-to-400-off-in-fathers-day-sale/">Lectric’s Father’s Day sale</a> that is taking up to $355 off e-bike bundles, like the XPeak off-road e-bikes at $1,299, as well as taking $19 off add-on gear just for Dad and even a chance to win a free e-bike. Following behind are rare discounts on the <a href="https://9to5toys.com/2024/06/11/ugreens-1024wh-powerroam-1200-portable-power-station-hits-new-599-low-save-400/">UGREEN PowerRoam 1200 Portable Power Station</a> and the <a href="https://9to5toys.com/2024/06/11/ugreens-1024wh-powerroam-1200-portable-power-station-hits-new-599-low-save-400/">PowerRoam 2200 Portable Power Station</a>, with the former hitting a <a href="https://9to5toys.com/2024/06/11/ugreens-1024wh-powerroam-1200-portable-power-station-hits-new-599-low-save-400/">new $599 low</a>. And bringing up the rear is the return of <a href="https://9to5toys.com/2024/06/12/unlike-your-kids-husqvarnas-robotic-automower-115h-actually-wants-to-cut-the-lawn-now-over-100-off/">Husqvarna’s Automower 115H Robotic Lawn Mower at $599</a>. Plus, all the other hangover Green Deals that are still alive and well.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/12/lectric-fathers-day-ev-sale-ugreen-powerroam-station-discounts-husqvarna-robot-mower-more/#more-367350" data-post-id="367350" data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/12/lectric-fathers-day-ev-sale-ugreen-powerroam-station-discounts-husqvarna-robot-mower-more/>
+
+---
+
+## Check Out This Plug-In Electric Car Adoption Map For All U.S. States In 2023
+
+date: 2024-06-12, from: Inside EVs News
+
+California, the District of Columbia (DC) and Hawaii have the highest share of plug-in electric cars. 
+
+<https://insideevs.com/news/723005/plugin-car-adoption-map-us-states-2023/>
+
+---
+
+## BYD Seal 06GT leaks in China as sporty new EV hatch poised for EU market
+
+date: 2024-06-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/BYD-Seal-06GT.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new electric hot hatch is about to hit the market. The new <a href="https://electrek.co/guides/byd/">BYD</a> Seal 06GT was uncovered in China ahead of its official market debut later this year.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/12/byd-seal-06gt-leaks-china-sporty-new-ev-hatch/#more-367338" data-post-id="367338" data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/12/byd-seal-06gt-leaks-china-sporty-new-ev-hatch/>
+
+---
+
+## Archer hits new eVTOL milestone, completing a transition flight that topped 100 mph [Video]
+
+date: 2024-06-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Archer-eVTOL-transition.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/archer-aviation/">Archer Aviation</a> continues to make developmental headway in its quest to commercial eVTOL operations. Archer recently completed a successful transition flight—one of the trickiest maneuvers to overcome in eVTOL design. The advanced air mobility developer filmed the entire journey, reaching flight speeds of over 100 mph. </p>
+
+
+
+ <a href="https://electrek.co/2024/06/12/archer-new-evtol-milestone-completing-transition-flight-topped-100-mph-video/#more-367344" data-post-id="367344" data-layer-pagetype="post" data-layer-postcategory="archer-aviation,evtol" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/12/archer-new-evtol-milestone-completing-transition-flight-topped-100-mph-video/>
+
+---
+
+## Here Are The Automaker EV Apps People Love And Hate Most
+
+date: 2024-06-12, from: Inside EVs News
+
+Tesla and Hyundai rule the charts, while Polestar and Subaru are at the bottom. 
+
+<https://insideevs.com/news/723032/best-worst-ev-smartphone-apps-jd-power-2024/>
+
+---
+
+## EV sales aren’t ‘lagging’ – they’re headed for long-term growth
+
+date: 2024-06-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-Model-3-Perofrmance-2024.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>EV sales will continue to grow despite the mixed near-term outlook, according to a new report from BloombergNEF – here’s why.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/12/ev-sales-arent-lagging-theyre-headed-for-long-term-growth/#more-367288" data-post-id="367288" data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,electric-trucks,electric-vehicles,evs,solar" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/12/ev-sales-arent-lagging-theyre-headed-for-long-term-growth/>
+
+---
+
+## LondonEnergy puts Volvo FM Electric semi trucks to work in waste management
+
+date: 2024-06-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/londonenergy_MAIN.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The waste management and resource experts at LondonEnergy have taken delivery of a Volvo FM Electric 6×2 tractor unit, and they’re putting it to work <em>immediately</em>.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/12/londonenergy-puts-volvo-fm-electric-semi-trucks-to-work-in-waste-management/#more-367314" data-post-id="367314" data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,volvo-trucks" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/12/londonenergy-puts-volvo-fm-electric-semi-trucks-to-work-in-waste-management/>
+
+---
+
+## Genesis GV60 electric SUV is getting an upgrade, here’s our first look [Video]
+
+date: 2024-06-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Genesis-GV60-upgrade.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The all-electric <a href="https://electrek.co/guides/genesis-gv60/">Genesis GV60</a> is due for an upgrade. The electric luxury SUV is getting a facelift with several new design upgrades. Check out the first look at the new Genesis GV60 upgrade in the video below.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/12/genesis-gv60-ev-getting-upgrade-first-look-video/#more-367285" data-post-id="367285" data-layer-pagetype="post" data-layer-postcategory="genesis,genesis-gv60" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/12/genesis-gv60-ev-getting-upgrade-first-look-video/>
+
+---
+
+## Championship electric go-kart racing is coming to the US this fall, and you can participate
+
+date: 2024-06-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Electric-kart-racing-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Have you ever dreamt of becoming a professional racer? Maybe not stock cars, but perhaps you’ve smoked little kids at the go-kart track and thought, “Yeah, I could go pro.” Now’s your chance as the World Kart Association and Blue Shock Race are bringing an electric kart racing championship to the US, and racers of all experience levels are invited to join the fun.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/12/championship-electric-go-kart-racing-coming-to-us-fall-you-can-participate/#more-367289" data-post-id="367289" data-layer-pagetype="post" data-layer-postcategory="blue-shock-race,electric-go-karts,electric-kart-racing,world-karting-association" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/12/championship-electric-go-kart-racing-coming-to-us-fall-you-can-participate/>
+
+---
+
+## Tesla Resumes Hiring: AI And Robotics Engineers, Service Technician Jobs Open
+
+date: 2024-06-12, from: Inside EVs News
+
+After a brief hiring freeze last month, hundreds of positions are now open in the U.S. 
+
+<https://insideevs.com/news/723060/tesla-resumes-hiring-ai-robotics-software-engineering/>
+
+---
+
+## Elon Musk exposes himself through Apple/OpenAI temper tantrum
+
+date: 2024-06-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Elon-Musk-tamper-tantrum-apple-openai.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon Musk has thrown a temper tantrum over Apple’s integration of OpenAI, and the episode exposes the problem with his social media addiction.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/12/elon-musk-exposes-himself-through-apple-openai-tamper-tantrum/#more-367247" data-post-id="367247" data-layer-pagetype="post" data-layer-postcategory="elon-musk" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/12/elon-musk-exposes-himself-through-apple-openai-tamper-tantrum/>
+
+---
+
+## Yamaha Just Gave Out Its 500th Award Through Its Outdoor Access Initiative
+
+date: 2024-06-12, from: Ride Apart, Electric Motorcycle News
+
+Doing good work to preserve our access to the outdoors. 
+
+<https://www.rideapart.com/news/722938/yamaha-outdoor-access-initiative-500-awards/>
+
+---
+
+## Americans Are Convinced Toyota, Honda, Nissan Lead The Way On EVs: New Survey
+
+date: 2024-06-12, from: Inside EVs News
+
+Years of hybrid cars and "electrified" marketing terms have people convinced they're ahead. 
+
+<https://insideevs.com/news/722987/automakers-tricked-people-electrified-vehicles-evs-survey/>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.24
-updated: 2024-06-12 07:36:09
+updated: 2024-06-13 08:24:20
 ---
 
 # libraries 2024.24
 
-(date: 2024-06-12 07:36:09)
+(date: 2024-06-13 08:24:20)
+
+---
+
+## Guest Post — A Global Network for Early Career Research Integrity Practitioners
+
+date: 2024-06-13, from: Scholarly Kitchen
+
+<p>The World Conferences on Research Integrity Foundation (WCRIF) is building a network of early career researchers and professionals in research integrity to promote peer-to-peer mentorship, supports researchers in furthering their careers in RI, and fostering a global community that supports research with integrity.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/06/13/guest-post-a-global-network-for-early-career-research-integrity-practitioners/">Guest Post &#8212; A Global Network for Early Career Research Integrity Practitioners</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/06/13/guest-post-a-global-network-for-early-career-research-integrity-practitioners/>
 
 ---
 
@@ -35,7 +47,7 @@ date: 2024-06-12, from: Scholarly Kitchen
 
 date: 2024-06-11, from: Association of Research Libraries News
 
-<p>Last Updated on June 11, 2024, 3:35 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 11 &#124; Wednesday, June 12 &#124; Thursday,...</p>
+<p>Last Updated on June 12, 2024, 11:21 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 11 &#124; Wednesday, June 12 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-june-10-13/">Day in Review (June 10–13)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

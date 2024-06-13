@@ -1,11 +1,21 @@
 ---
 title: journalism 2024.24
-updated: 2024-06-12 07:36:08
+updated: 2024-06-13 08:24:20
 ---
 
 # journalism 2024.24
 
-(date: 2024-06-12 07:36:08)
+(date: 2024-06-13 08:24:20)
+
+---
+
+## How YouTube’s recommendations pull you away from news
+
+date: 2024-06-12, from: Nieman Journalism Lab
+
+YouTube&#8217;s inevitable nudge toward entertainment It’s become increasingly clear that social media platforms aren’t particularly habitable environments for news — or at least not as habitable as they used to be, or as news organizations once thought. In some cases, that shift away from news has been distinct and explicit, as in the case of... 
+
+<https://www.niemanlab.org/2024/06/how-youtubes-recommendations-pull-you-away-from-news/>
 
 ---
 

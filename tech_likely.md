@@ -1,11 +1,530 @@
 ---
 title: tech likely 2024.24
-updated: 2024-06-12 07:36:07
+updated: 2024-06-13 08:24:18
 ---
 
 # tech likely 2024.24
 
-(date: 2024-06-12 07:36:07)
+(date: 2024-06-13 08:24:18)
+
+---
+
+## Virtual keyboard for Android
+
+date: 2024-06-13, from: Tilde.news
+
+<p><a href="https://tilde.news/s/2zujbi/virtual_keyboard_for_android">Comments</a></p> 
+
+<https://software-lab.de/StenoBoard/README>
+
+---
+
+##  How Tennis Balls Became Yellow, Feat. David Attenborough 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/how-tennis-balls-became-yellow-feat-david-attenborough>
+
+---
+
+## 2024-06-13 Anvil Editor and multiple cursors
+
+date: 2024-06-13, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-13-anvil-editor-and-multiple-cursors">2024-06-13 Anvil Editor and multiple cursors</h1>
+
+<p>I like how the author of the <a href="https://anvil-editor.net/">Anvil Editor</a> (an <a href="http://acme.cat-v.org/">Acme</a>-like editor) explains how to use it and provides a small number of super-short videos to show it. Here’s a good way to use video in documentation! This is important because an &ldquo;ACME-like editor&rdquo; is pretty alien for people these days. It relies on three buttons your mouse. The menus are small, editable windows where you select a word with the mouse and the middle mouse button to execute it. You can create your own menus by simply writing them.</p>
+
+<p>This is great, but alien.</p>
+
+<p>I kept wondering how feasible it would be to add a few key bindings to allow one to use it without a mouse. Window switching, selection growing, executing, I keep thinking that it should be possible. That mandatory three button mouse has kept me away from ACME-like editors.</p>
+
+<p>I&rsquo;ve been experimenting a bit with adding more keyboard bindings. Since it doesn&rsquo;t seem to have a git repository, I made <a href="https://src.alexschroeder.ch/anvil.git">my own</a> so I can keep track of the patches.</p>
+
+<p>I plan to force-push with abandon.</p>
+
+<p>I try to do a tiny snippet of programming in the mornings or evenings. Currently I&rsquo;m looking at my &ldquo;extending the selection&rdquo; code and how it interacts (badly) with multiple cursors. I guess I don&rsquo;t understand the attraction of multiple cursors compared to &ldquo;record a keyboard macro once and then replay it for the rest of the file, for a fixed number of times, or as long as I keep pressing a key&rdquo; (the way standard Emacs allows me to) compared to alt-clicking a number of times at just the right spot (I guess my mousing is terrible) to place the cursors and then do the necessary edits. Whenever something like this comes, I&rsquo;m editing data files or something like that so I would have to place hundreds or thousands of cursors… Only one of these approaches scales. I must be missing something about multiple cursors.</p>
+
+<p>When I asked about it on fedi, people recommended I give <code>multiple-cursors</code> for Emacs a try. I looked at the <a href="https://emacsrocks.com/e13.html">Emacs Rocks video for mc</a> and liked it. Again, this is video documentation well done, essentially a <em>demo</em>, not a manual.</p>
+
+<p>I started using for small things (a handful of lines) where it was indeed easier to use than keyboard macros or regular expressions because of the immediate feedback and the ability to undo any damage done and still continue the operation. Nice!</p>
+
+<p>I still ♥️ Emacs!</p>
+
+<p><a class="tag" href="/search/?q=%23Emacs">#Emacs</a></p> 
+
+<https://alexschroeder.ch/view/2024-06-13-anvil>
+
+---
+
+## Marbella, Spain
+
+date: 2024-06-13, from: mrusme blog
+
+"Marbella is a city and municipality in southern Spain, belonging to the
+province of Málaga in the autonomous community of Andalusia. It is part of the
+Costa del Sol and is the headquarters of the Association of Municipalities of
+the region; it is also the head of the judicial district that bears its name." 
+
+<https://xn--gckvb8fzb.com/travel/spain/marbella/>
+
+---
+
+##  The Day After Tomorrow turns 20. &#8220;Twenty years after its release, it... 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044804-the-day-after-tomorrow-tu>
+
+---
+
+## Why Google should know my blog
+
+date: 2024-06-13, from: Dave Winer's Scripting News
+
+<p>I did a search on my site for NakedJen. </p>
+<p>Google thinks I meant "Naked Men."</p>
+<p>This is why Google should know I have a blog and it has it indexed, and if it just looks it would know that question shows how <b>dumb</b> it is. </p>
+<p>When I type my mother's name in, searching on my own blog (again) it tries to correct the spelling of her name. My own mother's name.</p>
+<p>Google started out so smart then they must have lost all the smart people. Or they got stupid? I don't know. But there's so much they could do to improve their product, it would be sensible to, while they're shooting for the fences, do the small things that would give users an idea that there's <i>some</i> humanity to the product. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/13/nakedJenOrNakedMen.png"></center>NakedJen or "Naked Men."</div></p>
+<p>PS: ChatGPT should also know where my blog is, and it should be constantly loading the updates. This is the freaking breakthrough. Do it. </p>
+ 
+
+<http://scripting.com/2024/06/13/131949.html?title=whyGoogleShouldKnowMyBlog>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-13, from: Dave Winer's Scripting News)
+
+Also, I'm using their <a href="https://github.com/Automattic/wp-calypso">Calypso API</a> to talk to WordPress. I like it. Well-designed and documented. I've built another layer that makes it even easier for a browser-based JavaScript apps, and also added storage, which you can't do a web app without. 
+
+<http://scripting.com/2024/06/13.html#a131215>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-13, from: Dave Winer's Scripting News)
+
+It's not much of a secret that my next product is the minimal writing tool I always felt <a href="https://www.google.com/search?q=site%3Ascripting.com+wordpress">WordPress</a> should have. I have not been doing this in conjunction with Automattic, I'm not sure we're on the same planet re what WordPress is for. Ultimately it'll be their decision if this idea gains traction. But I keep hearing people ask for this product, and I think it's the reason Substack and Ghost have become popular. I'm going to put it out there, and see what comes back. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/06/13.html#a130610>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-13, from: Dave Winer's Scripting News)
+
+"Too much of everything is just enough." -- <a href="https://genius.com/The-grateful-dead-i-need-a-miracle-lyrics">The Dead</a>. 
+
+<http://scripting.com/2024/06/13.html#a125822>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-13, from: Dave Winer's Scripting News)
+
+BTW, I love the new <a href="https://imgs.scripting.com/2024/06/11/nakedJenToday.png">margin image</a> of NakedJen. Talking with her the other day we decided this would be the opening scene of The NakedJen Movie. The <a href="https://www.youtube.com/watch?v=5xqiu0ekahw">meaning</a> of the image is well-known to people who travel with the Dead, as Jen did. I've never been to a Dead concert with her, but I understand it's like going to a Comdex or MacWorld in the 80s or <a href="http://www.bricklin.com/albums/pcforum99/">Esther's</a> or <a href="https://www.edge.org/digerati/alsop/">Stewart's</a> conferences for me in the 90s. Sure you go for the music, but <i>mainly</i> you go to <a href="http://scripting.com/davenet/1996/10/24/QueSeraSera.html">schmooze</a> in the hallways. I love talking with her on the phone the most. We have thought about doing a podcast, and even tried recording one, but our one-to-one conversations are much more interesting, and funny. We're take turns being <a href="https://en.wikipedia.org/wiki/Pinky_and_the_Brain">Pinky or the Brain</a>. 
+
+<http://scripting.com/2024/06/13.html#a124732>
+
+---
+
+## Email Self-Defense - a guide to fighting surveillance with GnuPGencryption
+
+date: 2024-06-13, from: Tilde.news
+
+<p><a href="https://tilde.news/s/jy4tzn/email_self_defense_guide_fighting">Comments</a></p> 
+
+<https://emailselfdefense.fsf.org/en/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-13, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/11/nakedJenToday.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm working on a server app to read blogroll source in OPML, and build a database of other blogrolls that are linked to feeds in the original blogroll, accessed via the <a href="https://opml.org/blogroll.opml">feed or html source</a>. It was a lucky thing when I designed the format for <a href="https://opml.org/spec2.opml#subscriptionLists">subscription lists</a> back in the 00s that it included the <i>htmlUrl</i> attribute, it makes the HTML easier to find (though the channel-level link element in the feed could play the same role). Anyway, of course I'm using a SQL database for all this, and when I was thinking about it initially I thought "no big deal" it's a variant of a SQL table I've now done a dozen times. But it was a big deal, because I've yet to come up with a way to factor this so that I have a library that knows how to make the kind of table that keeps coming up all the time, to bury the complexity and make creating a new one much simpler. Same thing with CSS and JavaScript. I know the justification for CSS is that it makes scaling from phones to desktops possible, but that would be equally possible if you provided a good object with properties that can be configured at runtime. That's how we do it on servers with a config.json file. Then you could do a much better job of factoring browser-based apps. Imagine how much smoother everything would be if these structures could be factored. This probably doesn't make sense to too many people, maybe it won't even make sense to me in a couple of years, when hopefully I've moved on to a better way of doing these things. I would love to have the time to take a crack at doing the factoring anyway, I'm sure it's possible, just not obvious how to do it. In the meantime I think there are now enough blogrolls out there to build something interesting out of them, which is why I'm taking my break from <i>The Next Product</i> to do this. 
+
+<http://scripting.com/2024/06/13.html#a123437>
+
+---
+
+## What's in a name? "AI" versus "Machine Learning" 
+
+date: 2024-06-13, from: Dave Karpf's blog
+
+Are large language models a new *general purpose technology,* or an incremental advancement on existing technologies? 
+
+<https://davekarpf.substack.com/p/whats-in-a-name-ai-versus-machine>
+
+---
+
+## the wanderers and the city
+
+date: 2024-06-13, from: Ayjay blog
+
+My earlier posts in this series (which began by reading Genesis but has since expanded) are:  Orientation to the topic  On fertility  The country and the city  An outline of the Pentateuch  Character  The Pentateuch concludes with the death of Moses and the arrival of the children of Israel at the doorstep of the Promised [&#8230;] 
+
+<https://blog.ayjay.org/the-wanderers-and-the-city/>
+
+---
+
+## Version 256 of systemd boasts '42% less Unix philosophy'
+
+date: 2024-06-13, updated: 2024-06-13, from: Liam Proven's articles at the Register
+
+<h4>And it's subsuming another bit of Linux by replacing sudo</h4>
+      <p>The latest version of the systemd init system is out, with the openly confrontational tag line: "Available soon in your nearest distro, now with 42 percent less Unix philosophy."</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/06/13/version_256_systemd/>
+
+---
+
+## Raspberry Pi fireplace emulator
+
+date: 2024-06-13, from: Raspberry Pi News (.com)
+
+<p>While summer is ostensibly here in the UK, so far it's the kind where this original Raspberry Pi fireplace project is highly appealing.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/raspberry-pi-fireplace-emulator/">Raspberry Pi fireplace emulator</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/raspberry-pi-fireplace-emulator/>
+
+---
+
+## Sols 4212-4214: Gearing up to Drill!
+
+date: 2024-06-13, from: NASA breaking news
+
+Earth planning date: Monday, June 11, 2024 Curiosity is gearing up to drill! Last week, it encountered a rock with unusual coloration and texture that was just out of reach (you can read about it and see pictures here and here). So that Curiosity could learn more about the geology around these rocks, it “bumped” […] 
+
+<https://science.nasa.gov/blogs/sols-4212-4214-gearing-up-to-drill/>
+
+---
+
+## Pairing with ChatGPT to help write a Postgres function
+
+date: 2024-06-13, from: John Udell blog
+
+Here&#8217;s the latest installment in the series on working with LLMS: https://thenewstack.io/techniques-for-using-llms-to-help-write-a-postgres-function/ It was only after I deployed the function and used it in three different dashboards that the penny finally dropped. This had begun as an exercise to wrap a SQL idiom that made use of the lag() function. But when I looked at &#8230; <a href="https://blog.jonudell.net/2024/06/12/pairing-with-chatgpt-to-help-write-a-postgres-function/" class="more-link">Continue reading <span class="screen-reader-text">Pairing with ChatGPT to help write a Postgres function</span></a> 
+
+<https://blog.jonudell.net/2024/06/12/pairing-with-chatgpt-to-help-write-a-postgres-function/>
+
+---
+
+## Ames Research Center Democratizes Space Biosciences Research with First Commercial Astronaut Data
+
+date: 2024-06-12, from: NASA breaking news
+
+Background: To protect astronauts from spaceflight health risks like solar radiation and microgravity, scientists develop countermeasures by studying model organisms exposed to the space environment. For the first time, commercial astronaut data from the Inspiration4 (I4) mission has been collected for open-access research in an effort led by Weill Cornell Medicine. ARC’s Open Science Data [&#8230;] 
+
+<https://www.nasa.gov/general/ames-research-center-democratizes-space-biosciences-research-with-first-commercial-astronaut-data/>
+
+---
+
+## Kennedy Space Center Recipient of Presidential Federal Sustainability Award
+
+date: 2024-06-12, from: NASA breaking news
+
+KSC is the first NASA Center to offer workplace EV charging, setting the foundation for other NASA Centers. EV chargers are one way the KSC team is embracing the Executive Order goal for Zero Emission Vehicles (ZEVs) by 2035. These charging stations greatly benefit KSC sustainability efforts to reduce greenhouse gas emissions. Within the first [&#8230;] 
+
+<https://www.nasa.gov/news-release/kennedy-space-center-recipient-of-presidential-federal-sustainability-award/>
+
+---
+
+## Chrome OS switching to the Android Linux kernel and related Android subsystems
+
+date: 2024-06-12, from: OS News
+
+Surprisingly quietly, in the middle of Apple&#8217;s WWDC, Google&#8217;s ChromeOS team has made a rather massive announcement that seems to be staying a bit under the radar. Google is announcing today that it is replacing many of ChromeOS&#8217; current relatively standard Linux-based subsystems with the comparable subsystems from Android. To continue rolling out new Google AI features to users at a faster and even larger scale, we’ll be embracing portions of the Android stack, like the Android Linux kernel and Android frameworks, as part of the foundation of ChromeOS. We already have a strong history of collaboration, with Android apps available on ChromeOS and the start of unifying our Bluetooth stacks as of ChromeOS 122. ↫ Prajakta Gudadhe and Alexander Kuscher on the Chromium blog The benefits to Google here are obvious: instead of developing and maintaining two variants of the Linux kernel and various related subsystems, they now only have to focus on one, saving money and time. It will also make it easier for both platforms to benefit from new features and bugfixes, which should benefit users of both platforms quite a bit. As mentioned in the snippet, the first major subsystem in ChromeOS to be replaced by its Android counterpart is Bluetooth. ChromeOS was using the BlueZ Bluetooth stack, the same one used by most (all?) Linux distributions today, which was initially developed by Qualcomm, but has now switched over to using Fluoride, the one from Android. According to Google, Fluoride has a number of benefits over BlueZ. It runs almost entirely in userspace, as opposed to BlueZ, where more than 50% of the code resides in the kernel. In addition, Fluoride is written in Rust, and Google claims it has a simpler architecture, making it easier to perform testing. Google also highlights that Fluoride has a far larger userbase &#8211; i.e., all Android users &#8211; which also presents a number of benefits. Google performed internal tests to measure the improvements as a result from switching ChromeOS from BlueZ to Fluoride, and the test results speak for themselves &#8211; pairing is faster, pairing fails less often, and reconnecting an already paired device fails less often. With Bluetooth being a rather problematic technology to use, any improvements to the user experience are welcome. At the end of Google&#8217;s detailed blog post about the switch to Fluoride, the company notes that it intends for the project as whole &#8211; which is called Project Floss &#8211; to be a standalone open source project, capable of running on any Linux distribution. ↫ Russ Lindsay, Abhishek Pandit-Subedi, Alain Michaud, and Loic Wei Yu Neng on the chromeOS dev website We aspire to position Project Floss as a standalone open source project that can reach beyond the walls of Google’s own operating system in a way where we can maximize the overall value and agility of the larger Bluetooth ecosystem. We also intend to support the Linux community as a whole with the goal that Floss can easily run on most Linux distributions. If Fluoride can indeed deliver tangible, measurable benefits in Bluetooth performance on Linux desktops, I have no doubt quite a few distributions will be more than willing to switch over. Bluetooth is used a lot, and if Fedora, Ubuntu, Arch, and so on, can improve the Bluetooth experience by switching over, I&#8217;m pretty sure they will, or at least consider doing so. 
+
+<https://www.osnews.com/story/139941/chrome-os-switching-to-the-android-linux-kernel-and-related-android-subsystems/>
+
+---
+
+## Arm, Qualcomm legal battle seen disrupting AI-powered PC wave
+
+date: 2024-06-12, from: OS News
+
+The new Windows on ARM Copilot+ PC thing, running on Qualcomm&#8217;s Snapdragon X Elite and Pro chips, isn&#8217;t even out the door yet, and we&#8217;re already dealing with legal proceedings. But the main conversation among conference attendees was over how a contract dispute between Arm Holdings and Qualcomm, which work together to make the chips powering these new laptops, could abruptly halt the shipment of new PCs that industry leaders expect will make Microsoft and its partners billions of dollars. ↫ Max A. Cherney at Reuters The basic gist of the story is as follows. Qualcomm acquired a company named Nuvia, founded by former Apple processor engineers, in order to gain new technology to build its Snapdragon X Elite and Pro chips. Nuvia was planning on developing ARM chips for servers, but after the acquisition, Qualcomm changed their plans and repurposed their technology for use in laptops &#8211; the new X chips. ARM claims that Nuvia was only granted a license for server use, and not laptop use. Qualcomm, meanwhile, argued that it has a broad license to use ARM for pretty much anything, and as such, that any possible restrictions Nuvia had are irrelevant. While this all sounds like very rich corporations having a silly legal slapfight, it could have real consequences. If the legal case goes very, very wrong for Qualcomm, it could halt the sale of devices powered by the Snapdragon X chips well before they&#8217;re even shipping. I doubt it&#8217;ll get that far &#8211; it rarely does, and there&#8217;s some big names and big reputations at play here &#8211; but it does highlight the absurdity of how the ARM ecosystem works. Speaking of the ARM ecosystem, Qualcomm isn&#8217;t the only ARM chip makers dying to break into the PC market. Qualcomm currently has a weird exclusivity agreement with Microsoft where it&#8217;s the only ARM chip supplier for PCs, but that agreement is running out soon. Another player that&#8217;s ready to storm this market once that happens is MediaTek, who is also developing a chip geared towards Microsoft&#8217;s Copilot+ specifications, with a release target of 2025. Let&#8217;s hope MediaTek will be as forthcoming with Linux support as Qualcomm surprisingly has been, but I have my sincerest doubt. 
+
+<https://www.osnews.com/story/139939/arm-qualcomm-legal-battle-seen-disrupting-ai-powered-pc-wave/>
+
+---
+
+## NASA Welcomes Armenia as 43rd Artemis Accords Signatory
+
+date: 2024-06-12, from: NASA breaking news
+
+NASA Administrator Bill Nelson welcomed Armenia as the newest nation to sign the Artemis Accords Wednesday during a ceremony with the U.S. State Department at NASA Headquarters in Washington. Armenia joins 42 other countries in a commitment to advancing principles for the safe, transparent, and responsible exploration of the Moon, Mars and beyond. “NASA is [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-welcomes-armenia-as-43rd-artemis-accords-signatory/>
+
+---
+
+## Space Omics and Medical Atlas (SOMA) Package
+
+date: 2024-06-12, from: NASA breaking news
+
+June 11, 2024 &#8211; The Space Omics and Medical Atlas (SOMA) package, the largest-ever collection of data for aerospace medicine and space biology, was publicly released on Tuesday! This monumental achievement was made possible through the collaborative efforts of over 100 institutions from more than 25 countries. Of the total 44 publications in the SOMA [&#8230;] 
+
+<https://www.nasa.gov/general/space-omice-and-medical-atlas-soma-package/>
+
+---
+
+## Linus Torvalds: extensible scheduler “sched_ext” in Linux 6.11
+
+date: 2024-06-12, from: OS News
+
+The extensible scheduler &#8220;sched_ext&#8221; code has proven quite versatile for opening up better Linux gaming performance, more quickly prototyping new scheduler changes, Ubuntu/Canonical has been evaluating it for pursuing a more micro-kernel like design, and many other interesting approaches with it. Yet it&#8217;s remained out of tree but that is now changing with the upcoming Linux 6.11 cycle. Linus Torvalds as the benevolent dictator for life &#8220;BDFL&#8221; of the Linux kernel announced he intends to merge the sched_ext patches for Linux 6.11 even though there has been some objections by other kernel developers. Torvalds feels the sched_ext code is ready enough and provides real value to the mainline Linux kernel. It&#8217;s not worth dragging out sched_ext continuing to be out-of-tree. ↫ Michael Larabel at Phoronix I haven&#8217;t felt the need to mess around with the Linux scheduler in a long, long time &#8211; I have some vague memories of perhaps well over a decade ago where opting for a different scheduler could lead to better desktop-focused performance characteristics, but the details in my brain are so fuzzy that it may just be a fabricated or confabulated memory. 
+
+<https://www.osnews.com/story/139937/linus-torvalds-extensible-scheduler-sched_ext-in-linux-6-11/>
+
+---
+
+##  The Birth of Breaking News 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/the-birth-of-breaking-news-1>
+
+---
+
+## OpenBSD extreme privacy setup
+
+date: 2024-06-12, from: OS News
+
+This is an attempt to turn OpenBSD into a Whonix or Tails alternative, although if you really need that level of privacy, use a system from this list and not the present guide. It is easy to spot OpenBSD using network fingerprinting, this can not be defeated, you can not hide the fact you use OpenBSD to network operators. I did this guide as a challenge for fun, but I also know some users have a use for this level of privacy. ↫ Solène Rapenne Written by OpenBSD developer Solène Rapenne, so you&#8217;re probably not going to find a guide written by anyone more knowledgeable. 
+
+<https://www.osnews.com/story/139935/openbsd-extreme-privacy-setup/>
+
+---
+
+## The Marshall Star for June 12, 2024
+
+date: 2024-06-12, from: NASA breaking news
+
+Shining Stars: Marshall Teams Support Successful Crew Flight Test By Wayne Smith From preparing for flight readiness, to providing day-of-launch support, to delivering a critical piece of replacement hardware, NASA’s Marshall Space Flight Center played an integral role in the agency’s crew flight test to the International Space Station. The Starliner spacecraft – NASA’s Boeing [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-june-12-2024/>
+
+---
+
+## Microsoft pulls release preview build of Windows 11 24H2 after Recall controversy
+
+date: 2024-06-12, from: OS News
+
+Microsoft recently announced some big changes to the Recall feature in Windows, and now it&#8217;s pulled the Release Preview version which contained Recall entirely. It&#8217;s likely not a coincidence that Microsoft also quietly pulled the build of the Windows 11 24H2 update that it had been testing in its Release Preview channel for Windows Insiders. It&#8217;s not unheard of for Microsoft to stop distributing a beta build of Windows after releasing it, but the Release Preview channel is typically the last stop for a Windows update before a wider release. ↫ Andrew Cunningham at Ars Technica The company doesn&#8217;t actually mention why the release was pulled, but the reason is pretty obvious if you connect the dots. I&#8217;m at least glad Microsoft is taking the complaints seriously, and while I don&#8217;t personally think Recall is a good idea, if a user gives their consent and uses it knowingly and willingly, I don&#8217;t see any problems with it. 
+
+<https://www.osnews.com/story/139933/microsoft-pulls-release-preview-build-of-windows-11-24h2-after-recall-controversy/>
+
+---
+
+## Thank You, Big Nerd Ranch
+
+date: 2024-06-12, from: Michael Tsai
+
+Big Nerd Ranch: It is with a mix of emotions that we announce the upcoming sunsetting of some key aspects of Big Nerd Ranch and the transition of others. For over 23 years, we&#8217;ve had the privilege of empowering aspiring programmers through our immersive bootcamps and books. From the iconic ranch in south Georgia to [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/12/thank-you-big-nerd-ranch/>
+
+---
+
+## iOS RCS Support Delayed
+
+date: 2024-06-12, from: Michael Tsai
+
+Allison Johnson (Hacker News): The long-awaited day is here: Apple has announced that its Messages app will support RCS in iOS 18. The new standard will replace SMS as the default communication protocol between Android and iOS devices. The move comes after years of taunting, cajoling, and finally, some regulatory scrutiny from the EU. Unfortunately, [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/12/ios-rcs-support-delayed/>
+
+---
+
+## NASA Selects Raytheon Company to Build Landsat Next Instruments
+
+date: 2024-06-12, from: NASA breaking news
+
+NASA selects Raytheon Company to provide three instruments and related services, with an option for one additional instrument, in support of the Landsat Next mission based at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. The contract includes a cost-plus-award-fee base period and a cost-plus-fixed-fee option period with a total value of $506.7 million. The [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-selects-raytheon-company-to-build-landsat-next-instruments/>
+
+---
+
+##  Are You an NPC? (Or Do You Have Free Will?) 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/are-you-an-npc-or-do-you-have-free-will>
+
+---
+
+## Celebrating failure
+
+date: 2024-06-12, from: Manu - I write blog
+
+
+                <p>Biographies of great people, interviews with successful entrepreneurs, and podcast episodes with famous creators. The world doesn’t lack celebrations of greatness. It should be inspiring to hear from someone successful, it should motivate you to do more, to work harder, and to strive for greatness. But like many other good things in life, too much of it can be detrimental. You can ingest only so many success stories before starting to feel bad for not being one of them. It’s partly why social media mostly sucks. It’s performative. Everyone is showing the best parts of their lives while the shitty moments are kept private, away from public eyes.</p>
+<p>Failure should be shared. Trying and failing at something should be celebrated. Not because of the failure itself but because that’s the only way to achieve something worthwhile. Failing is inevitable. Everyone has to go through it and confront it one way or another. It’s part of the process and it’s something we should be more upfront and open about it. And again, it should be celebrated.</p>
+<p>Does anyone make a podcast with interviews with people who didn’t have success? To people who tried hard but ultimately failed? I’d love to listen to those stories.</p>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/Rk9hyuobQj7FEq1j>
+
+---
+
+##  Some people with insomnia think they are awake but they&#8217;re actually asleep.... 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044803-some-people-with-insomnia>
+
+---
+
+## Lakita Lowe: Leading Space Commercialization Innovations and Fostering STEM Engagement
+
+date: 2024-06-12, from: NASA breaking news
+
+Lakita Lowe is at the forefront of space commercialization, seamlessly merging scientific expertise with visionary leadership to propel NASA&#8217;s commercial ambitions and ignite a passion for STEM in future generations. As a project integrator for NASA’s Commercial Low Earth Orbit Development Program (CLDP), Lowe leverages her extensive background in scientific research and biomedical studies to [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/lakita-lowe-leading-space-commercialization-innovations-and-fostering-stem-engagement/>
+
+---
+
+## Quirky Circling Behavior in Mice Informs Research on Humans in Space
+
+date: 2024-06-12, from: NASA breaking news
+
+During the Rodent Research-1 (RR-1) mission flown to the ISS in 2014, videos that were taken to observe the mice revealed an unusual behavior that researchers are still working to understand. Young (16-week-old) but not old (32-week-old) mice engaged in a high level of&#160;&#8216;running&#8217; behavior beginning within two weeks of launch (Sci Reports, 2019). Some [&#8230;] 
+
+<https://www.nasa.gov/general/quirky-circling-behavior-in-mice-aboard-the-iss/>
+
+---
+
+## A Solitary Sight
+
+date: 2024-06-12, from: NASA breaking news
+
+ESA (European Space Agency) astronaut Andreas Mogensen snapped a photo of the waning gibbous moon from the International Space Station as it soared 260 miles above the Atlantic Ocean near the northeast coast of South America on Sept. 30, 2023. Waning gibbous is one of eight moon phases, occurring after the full moon. The Sun [&#8230;] 
+
+<https://www.nasa.gov/image-article/a-solitary-sight/>
+
+---
+
+## Plus Post: Seiko RC-1000
+
+date: 2024-06-12, from: Computer ads from the Past
+
+Take it out on the town! 
+
+<https://computeradsfromthepast.substack.com/p/plus-post-seiko-rc-1000>
+
+---
+
+##  What&#8217;s the Rarest Move in Chess? 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/whats-the-rarest-move-in-chess>
+
+---
+
+##  David Pierce reports on the Excel World Championship from Las Vegas. &#8220;There... 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044801-david-pierce-reports-on-t>
+
+---
+
+## Sorry, Kids, No Fireworks This Year
+
+date: 2024-06-12, updated: 2024-06-12, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/06/12/sorry-kids-no-fireworks-this-year/>
+
+---
+
+##  Ask a Manager update about a guy who told his interviewer during... 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044800-ask-a-manager-update-abou>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-12, from: Dave Winer's Scripting News)
+
+A simple <a href="https://chatgpt.com/share/44dbe62f-6bac-4b08-880d-91822be0d6c7">example</a> where ChatGPT saves programmer time. MySQL has awful error messages. Rather than try to figure out what they mean, I paste the message into ChatGPT and say nothing. It tells me what the error was and even fixes it for me. I copy the result, paste it into MySQL and I'm back on the road. One can imagine where they build that into the MySQL app and I converse with it instead of the app with the awful error messages. 
+
+<http://scripting.com/2024/06/12.html#a162334>
+
+---
+
+##  Lots of good responses to this thread: &#8220;What is something someone who... 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044796-lots-of-good-responses-to>
+
+---
+
+## A sense of rebellion
+
+date: 2024-06-12, from: Tilde.news
+
+<p><a href="https://tilde.news/s/wxcrld/sense_rebellion">Comments</a></p> 
+
+<https://www.sense-of-rebellion.com>
+
+---
+
+##  Of course Kenji López-Alt had a friend come up with a computer... 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044797-of-course-kenji-lopez-alt>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-12, from: Dave Winer's Scripting News)
+
+I'm happy to host <a href="http://scripting.com/2024/06/11/185209.html">sidebar images</a> on Scripting News that showcase the creative possibilities of ChatGPT-developed art. 
+
+<http://scripting.com/2024/06/12.html#a143459>
+
+---
+
+##  Chaka Khan&#8217;s Tiny Desk Concert 
+
+date: 2024-06-12, updated: 2024-06-12, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/chaka-khans-tiny-desk-concert>
 
 ---
 
@@ -39,7 +558,7 @@ Computer scientist Lance Fortnow writes that by embracing the computations that 
 
 **@Dave Winer's Scripting News** (date: 2024-06-12, from: Dave Winer's Scripting News)
 
-Is this the <a href="https://x.com/davewiner/status/1800879295063003367">user experience</a> writers want from WordPress? If I were designing it, I would start from scratch, build an easy writing tool for writers to focus on writing, and make the design process accessible if they want to work in that mode, but keep it out of their way because most writing has nothing to do with design. 
+Is this the <a href="https://x.com/davewiner/status/1800879295063003367">user experience</a> writers want from WordPress? If I were designing it, I would start from scratch, build an easy writing tool for writers to focus on writing, make the design process accessible if they want to work in that mode, but keep it out of their way because most writing has nothing to do with design. 
 
 <http://scripting.com/2024/06/12.html#a132537>
 
@@ -101,6 +620,27 @@ date: 2024-06-12, from: PostgreSQL News
 <p>The logical replication application project that can be used with wal2mongo to achieve a fully automatic logical replication setup with enhanced control, security and performance in mind. We will continue to improve the logical decoding performance and enhance wal2mongo functionalities based on community feedback.</p> 
 
 <https://www.postgresql.org/about/news/wal2mongo-v107-is-released-2873/>
+
+---
+
+## Registration open for PGDay UK 2024, September 11th, London, England
+
+date: 2024-06-12, from: PostgreSQL News
+
+<p>PGDay UK 2024 will take place in London on September 11th at the Cavendish Conference Centre!</p>
+<h2>Registration</h2>
+<p>Registration for attendees is now open. For more information and to secure your seat, please visit:</p>
+<p><a href="https://2024.pgday.uk/registration/">https://2024.pgday.uk/registration/</a></p>
+<p>The discount code EARLYBIRD may be used by up to 20 attendees, so register quickly if you want to save a few quid!</p>
+<h2>Sponsors</h2>
+<p>Sponsor the event and take your chance to present your services or products to the PostgreSQL community - or see it as a give-back opportunity. The benefactor sponsorship level also includes a free entrance ticket. Please head to:</p>
+<p><a href="https://2024.pgday.uk/become-sponsor/">https://2024.pgday.uk/become-sponsor/</a> for more details.</p>
+<h2>See you there!</h2>
+<p>As usual, if you have any questions, don't hesitate to contact us at <a href="mailto:contact@pgday.uk">contact@pgday.uk</a>.</p>
+<p>We look forward to seeing you in London in September!</p>
+<p>PGDay UK 2024 is a <a href="https://www.postgresql.eu/">PostgreSQL Europe</a> event run according to the <a href="https://www.postgresql.org/about/policies/conferences/">PostgreSQL Community Conference Recognition programme</a>. Local logistics and other services are provided by Slonik Enterprises Ltd. on a not-for-profit basis.</p> 
+
+<https://www.postgresql.org/about/news/registration-open-for-pgday-uk-2024-september-11th-london-england-2876/>
 
 ---
 

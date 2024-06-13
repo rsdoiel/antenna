@@ -1,11 +1,111 @@
 ---
 title: games 2024.24
-updated: 2024-06-12 07:36:08
+updated: 2024-06-13 08:24:20
 ---
 
 # games 2024.24
 
-(date: 2024-06-12 07:36:08)
+(date: 2024-06-13 08:24:20)
+
+---
+
+## Teamfight Tactics turns 5, stepping out from League’s shadow
+
+date: 2024-06-13, updated: 2024-06-13, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24176416/teamfight-tactics-tft-teams-5-year-anniversary-design-popularity>
+
+---
+
+## Not sure what TV show to watch? Leave a comment, we’ll help
+
+date: 2024-06-13, updated: 2024-06-13, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24177228/best-tv-watch-tonight-recommendations-streaming>
+
+---
+
+## Delicious in Dungeon season 2 is in the works — here’s what we know
+
+date: 2024-06-13, updated: 2024-06-13, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24176995/when-delicious-in-dungeon-season-2-release>
+
+---
+
+## The best movies of 2024 so far
+
+date: 2024-06-13, updated: 2024-06-13, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/what-to-watch/24064917/best-movies-2024>
+
+---
+
+## This Plastic Man body horror odyssey from the Halt and Catch Fire creator looks absolutely sick
+
+date: 2024-06-13, updated: 2024-06-13, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24177632/dc-plastic-man-death-2024-comic-christopher-cantwell-alex-lins>
+
+---
+
+## The Boys season 4 becomes a stronger show but a weaker satire
+
+date: 2024-06-13, updated: 2024-06-13, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24176428/the-boys-season-4-review-new>
+
+---
+
+## 2024 has already had more video game industry layoffs than all of 2023 — and it’s only June
+
+date: 2024-06-13, updated: 2024-06-13, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24177290/video-game-industry-layoffs-studio-closures-record>
+
+---
+
+## Finally, 2024 is giving us a good imaginary-friends movie
+
+date: 2024-06-13, updated: 2024-06-13, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24177114/the-imaginary-netflix-release-date-studio-ponoc>
+
+---
+
+## Monster Hunter Rise is a timely addition to PlayStation Plus this June
+
+date: 2024-06-13, updated: 2024-06-13, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24177560/playstation-plus-game-catalog-extra-premium-june-2024>
+
+---
+
+## Giant Helldivers 2 update buffs a ton of stratagems and weapons
+
+date: 2024-06-13, updated: 2024-06-13, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24177578/helldivers-2-update-notes-patch-01-000-400-stratagems-weapons-changes>
 
 ---
 
