@@ -1,11 +1,111 @@
 ---
 title: games 2024.24
-updated: 2024-06-13 08:24:20
+updated: 2024-06-14 07:34:19
 ---
 
 # games 2024.24
 
-(date: 2024-06-13 08:24:20)
+(date: 2024-06-14 07:34:19)
+
+---
+
+## How to get Euphony in Destiny 2
+
+date: 2024-06-14, updated: 2024-06-14, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24177869/euphony-how-to-get-perks-list>
+
+---
+
+## Talisman’s 5th edition will feature a cooperative expansion for the first time
+
+date: 2024-06-14, updated: 2024-06-14, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24177766/talisman-coop-mode-expansion-alliances-release-date-price>
+
+---
+
+## Critical Role wants to host even more live shows, especially outside of the US
+
+date: 2024-06-14, updated: 2024-06-14, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24177197/critical-role-international-live-show-plans-travis-willingham-interview>
+
+---
+
+## The best TV of 2024 so far
+
+date: 2024-06-14, updated: 2024-06-14, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series>
+
+---
+
+## Metaphor: ReFantazio is setting high stakes for itself
+
+date: 2024-06-14, updated: 2024-06-14, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24178053/metaphor-refantazio-preview-impressions-summer-game-fest>
+
+---
+
+## Inside Out 2 revives the old Pixar magic
+
+date: 2024-06-14, updated: 2024-06-14, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24178014/inside-out-2-review>
+
+---
+
+## NewJeans is the PUBG collab I didn’t know I needed
+
+date: 2024-06-13, updated: 2024-06-13, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24178043/newjeans-pubg-playerunknown-battlegrounds-event>
+
+---
+
+## The Jackbox Megapicker solves the biggest issue with the Party Packs
+
+date: 2024-06-13, updated: 2024-06-13, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24178010/jackbox-games-megapicker-party-packs-library>
+
+---
+
+## GTA Online update for the week of June 13
+
+date: 2024-06-13, updated: 2024-06-13, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/gta-online-guides/24177949/june-13-weekly-update-events-data-leaks-dr-dre>
+
+---
+
+## Ahri ban rate soars after ultra expensive new League of Legends skin drops
+
+date: 2024-06-13, updated: 2024-06-13, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24177805/league-of-legends-ahri-bans-immortalized-legend-skin>
 
 ---
 

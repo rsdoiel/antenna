@@ -1,11 +1,538 @@
 ---
 title: tech likely 2024.24
-updated: 2024-06-13 08:24:18
+updated: 2024-06-14 07:34:18
 ---
 
 # tech likely 2024.24
 
-(date: 2024-06-13 08:24:18)
+(date: 2024-06-14 07:34:18)
+
+---
+
+## The Brainstem Fine-Tunes Inflammation Throughout the Body
+
+date: 2024-06-14, from: Quanta Magazine
+
+The evolutionarily ancient part of the brain that controls breathing and heart rate also regulates the immune system — a discovery about the brain-body axis made by experts on taste.            <p>The post <a href="https://www.quantamagazine.org/the-brainstem-fine-tunes-inflammation-throughout-the-body-20240614/" target="_blank">The Brainstem Fine-Tunes Inflammation Throughout the Body</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/the-brainstem-fine-tunes-inflammation-throughout-the-body-20240614/>
+
+---
+
+## Upcycle a Sonos Play:1
+
+date: 2024-06-14, from: Raspberry Pi News (.com)
+
+<p>If you’ve got a broken or unused Sonos speaker sulking in the corner, it’s possible to upcycle it for many different purposes using Raspberry Pi.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/upcycle-a-sonos-play1/">Upcycle a Sonos Play:1</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/upcycle-a-sonos-play1/>
+
+---
+
+## Johnson Celebrates LGBTQI+ Pride Month: Meet Margaret Kennedy
+
+date: 2024-06-14, from: NASA breaking news
+
+Although surrounded by the big and bold missions of human spaceflight, Margaret Kennedy, an aerospace systems engineer on the Human Health and Performance Contract, still appreciates the little things. Ask about her favorite NASA experience to date and she will tell you it is getting to show her badge to the gate guards at Houston’s [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/johnson-celebrates-lgbtqi-pride-month-meet-margaret-kennedy/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-14, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/14/julieAndrews.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'd like YouTube TV to let me block Fox News. It shows up on their home screen as the default channel and it starts playing automatically. For some reason they've decided I want or need to watch Fox News. Please stop doing that. Not just for me, for everyone. If there has to be a default make it something easy like Seinfeld perhaps. Or Law & Order. I haven't switched from Spectrum, I'm trying YouTube TV while I think about switching. This is a small thing, but might be a deal-stopper. I don't want my nose rubbed in how evil they are. I know. I want to turn on TV to escape. A Julie Andrews movie perhaps. 
+
+<http://scripting.com/2024/06/14.html#a130254>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-14, from: Dave Winer's Scripting News)
+
+I hate sticky keyboards. Very low tolerance. 
+
+<http://scripting.com/2024/06/14.html#a130241>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-14, from: Dave Winer's Scripting News)
+
+Matt Terenzio, who has been a friend for many years, <a href="https://mastodon.social/@librenews/112615016271629839">threw a fat pitch</a> about people like me who think the NY Times has a lot of explaining to do. I don't think anyone is listening, but my issue with the Times is when they embrace and promote conspiracy theories that damage our political system. Matt says we have many truths, and I think that's where we differ, there has to be one truth when it comes to accusations of the kind that the Repubs throw at Democratic candidates and minorities. When they take a side against the people, that's when I have a problem. 
+
+<http://scripting.com/2024/06/14.html#a125646>
+
+---
+
+## CHIP FIGHT GO!
+
+date: 2024-06-14, from: Tedium site
+
+The emergence of a conflict between Qualcomm and Arm over desktop chip dominance feels like a revival of one of the PC industry’s most important conflicts. 
+
+<https://feed.tedium.co/link/15204/16714570/amd-qualcomm-cpu-licensing-battle>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-14, from: Dave Winer's Scripting News)
+
+Thanks Mr President. <a href="https://www.youtube.com/watch?v=VC2SshZ373M">This</a> needed to be said. 
+
+<http://scripting.com/2024/06/14.html#a124437>
+
+---
+
+## Introducing More Flexible Domain Association for Deno Subhosting
+
+date: 2024-06-14, updated: 2024-06-14, from: Deno blog
+
+This new update simplifies programmatically managing custom domains, wildcard domains, subdomains for different deployments, and more. 
+
+<https://deno.com/blog/subhosting-flexible-domain-association>
+
+---
+
+## P&B: Jessica Nickelsen
+
+date: 2024-06-14, from: Manu - I write blog
+
+
+                <p>This is the 42nd edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have Jessica Nickelsen and her blog, <a href="https://discombobulated.co.nz">discombobulated.co.nz</a></p>
+<p>If I'm not mistaken I discovered Jess thanks to her <a href="https://discombobulated.co.nz/100">100</a> blog post. There're enough ideas in there to power a blog for at least a few years.</p>
+<p>To follow this series <a href="https://peopleandblogs.com">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed">RSS feed</a>.</p>
+<p>If you're enjoying the People and Blogs series and you want to see it grow, consider supporting on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a>.</p>
+<hr />
+<h2>Let's start from the basics: can you introduce yourself?</h2>
+<p>Hi, I'm Jessica. Jess really. I live in Wellington, New Zealand. I've lived in New Zealand on and off since 1990, when my family moved here from the States. My mother is a kiwi and Dad's american. They met when my dad came out to NZ as a ski instructor in the 60s.</p>
+<p>I had a "very American" childhood and briefly went to Junior High School before moving. One of my favourite stories from that time is that everyone at my new school wanted to know if my old school was "like Beverly Hills 90210." I had to break it to them that no, my junior high in Vancover, Washington wasn't exactly the same, though we did have lockers and foosball tables and fake-cheese nachos for lunch, haha.</p>
+<p>I went to university in NZ - a place called Otago University in Dunedin. It's a university town waaaaay down in the South Island. It's an awesome city, a bit wild--it even has an albatross colony. I started off as pre-med, because I always enjoyed science and maths at school, but then veered off when I failed Chemistry. I studied music, archaeology, geology, history, english. At one point I was going to do my degree in geology but then at the end I wound up doing English literature. Later on when I was working in IT and bored, I finished my honours degree, part-time. Somehow I studied the Old Norse language (we translated excerpts from the Eddas, as well as some amazing prose stuff) and also wrote my thesis on Literature and Technology. I think I've always been all over the place.</p>
+<p>I still work in IT, and it's still boring, even though I am just part time these days (my husband and I have an eleven-year-old daughter and I do all the runaround stuff with her too). But maybe that lets me focus on everything else I do. I have a lot of hobbies, but I've probably run out of room to talk about them here. But a few that could be worth mentioning are my writing of course, as well as some assistant editorial stuff I do for Utopia Science Fiction magazine. I like taking photos and develop film as well. I play piano and do karate. I knit socks. I was a video game reviewer for ten years too.</p>
+<h2>What's the story behind your blog?</h2>
+<p>I actually have a few blogs. I think you found me through my writing one? I was wanting to self-publish some books and thought I needed a blog with my name on it to do it properly. That one has all of my books on it, but I guess my "real" blog is the one at discombobulated.co.nz, though that's had a few iterations over the years.</p>
+<p>It started out in 2000, when I was doing my "OE" (or Overseas Experience, what kiwis call the migration of most NZ young people overseas for an indefinite period of time) in Dublin. I lived and worked there for about three years. I had another boring IT job and decided when I was sitting around waiting for releases (I was working as a localisation engineer at Microsoft) I might as well do something online. I found a service called Diary-x that some of your readers might remember. My domain in those days was herself.diary-x.com, but the blog itself was named "Discombobulated in Dublin." A sort of Sleepless in Seattle reference, I guess, but I really was discombobulated in those days so it seemed to fit.</p>
+<p>That all fell over, and the owner confessed that he hadn't made any backups, or the backups had failed, or something. It was my first introduction to the concept of resiliency and I guess it was a good lesson, because I still adhere to the concept of <a href="https://www.veritas.com/information-center/3-2-1-backup-rule">3-2-1</a> with most of my stuff. Later I moved to Wordpress like everyone else, and I think it was then that I first bought my domain (discombobulated.co.nz). I like having a 'co.nz' domain. I think it's cute. I'm in the process of trying to bring over all of my old wordpress posts but that may take some time.</p>
+<h2>What does your creative process look like when it comes to blogging?</h2>
+<p>My blog is a completely personal one, so I don't tend to write multiple drafts or get proofreading done. I figure any typos or weirdness is just part of the experience, which is less about a professional image and more of a slice-of-life moment.</p>
+<p>I've always struggled with the way blogging changed so much and became just another way for people to market things or sell you stuff. I really did enjoy how it was back in the early days, where you would follow people and get a sense of their internal monologues, what it was like for them to live in certain places. I've always loved having little windows into other people's lives.</p>
+<p>So basically my process is, I go, "hm, it's been a while, I should probably do a blog post." And sometimes I start with the weather, or I have some news I want to write about. Or I look back through some recent photographs and find one I want to write about. Sometimes I note down quotes I like from books I'm reading, or the post might turn into a longer piece about an actual topic. But most of the time they are just stream-of-consciousness brain dumps. (Sorry.)</p>
+<p>I guess it is pretty self-absorbed, really, writing like this and making it public. But I just think back on those blogs that I really loved in the past, and how it made me feel when I read them. And I sort of want to re-create that, I guess. So those are my touchstones, in a way. A vague guiding principle.</p>
+<h2>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</h2>
+<p>I'm not too concerned about where I write, although I really don't like the feeling that someone might be behind me, looking over my shoulder. I used to work in an open office, back in my office IT days, and I could never get used to the feeling.</p>
+<p>For the most part I write at my desk in my study--I have a mac mini and a nice big screen. (I also work from home, but that's on a windows machine, so everything is pretty separate.) I'm also quite happy typing in bed on my laptop too; for some reason generally I find writing in bed works really well for me. On the weekends I really like opening the door to the balcony by the bed and sitting there to write.</p>
+<p>I keep quite a few notebooks and I journal in those, but composing a blog post in a notebook feels a little strange. Recently I've set up a chair outside the study, under some punga ferns that hang over the fence there, and I have found that sitting there with a notebook, and brain.fm on my headphones has been pretty wild in terms of getting into the zone.</p>
+<p>Probably like most people I'm drawn to beautiful photos of desks in minimal offices, or a spot at a beautiful cafe, but to be honest by the time I'm in the flow of writing I hardly even notice my surroundings. I'm in that in-between space, somewhere between the text on the screen and my brain.</p>
+<p>I'd love to work other places apart from home, but the libraries in New Zealand are pretty much public spaces these days, and because most of them are small and suburban (our big one in Wellington is currently out of action due to earthquake strengthening) there aren't many places to just find a quiet desk. There's also a bit of a mood among cafes where they don't seem to like you "bludging" a seat for too long. Of course there are coworking spaces--I even signed up for one a while ago, but they are pretty expensive and it's just a bit hard to justify.</p>
+<h2>A question for the techie readers: can you run us through your tech stack?</h2>
+<p>Sure! My writing blog is one of those Jekyll templates hosted on GitHub pages, though I am looking at simplifying that. (It also got a really bad score on the websitecarbon.com website, which is another reason I'm considering moving.) What I do really like about it is that I have the site mirrored locally, and I can edit the html and css in Zed (<a href="https://zed.dev">https://zed.dev</a>) (currently my code editor of choice, though I sometimes go back to Vim). I like writing a post in a text file and then pushing a copy out to where it's hosted. It feels more like writing that way.</p>
+<p>My personal blog is similar, though I use Blot.im for that. All the files sit on Dropbox, and everything just syncs and updates as I edit them. I have the templates and structure sitting there and it's very easy to make changes.</p>
+<p>I recently implemented a weird sort of flow though, involving Obsidian and an automator folder monitoring workflow. I have, in Obsidian, a Blog folder, with drafts and posts subfolders. I create a draft blog post based on a template I've created with the right YAML front matter, write it in Obsidian, and then when I'm ready, I drag it over to the posts folder. Once it arrives there, automator kicks in and makes a copy to my Blot folder.</p>
+<p>I like writing blog posts in markdown in Obsidian; everything syncs to GitHub pretty easily. The only faff is with implementing photos, which I usually resize by hand and copy to an assets folder within the Blot structure. But it's easy enough to implement without too much flicking around.</p>
+<p>I don't know if this seems really weird or not. But I've come to realise that I really dislike writing anything in a web browser; everything just feels very slow and mouse-oriented. My next challenge is to try and find a newsletter option that I can use in a similar way. If anyone has any suggestions I'd love to hear them!</p>
+<p>Both my domains are registered through 1stdomains.nz. I couldn't even tell you why I first signed up with them. The site is a bit clunky but I like that they are a kiwi company.</p>
+<h2>Given your experience, if you were to start a blog today, would you do anything differently?</h2>
+<p>Going way back, I think despite everything that happened with the diary-x fiasco, it was a really great place to hang out and meet other people online. (I even reconnected with someone on micro.blog who I had been friends with back in those days; it was very surreal!) I think all I would do differently really is make sure I kept even some basic text copies of what I'd written--even the wayback machine hasn't been able to find everything.</p>
+<p>I do think that using Wordpress was a bit of a lesson in how hard it can be to get everything out of a hulking CMS. Yes there are some good scripts that can do it, but I still have over three hundred posts that I have to now go back through and sort the links for images. It's just turned into a complete chore.</p>
+<p>More recently, I think I wish I'd just used the shortened version of my name for the author blog. Jess Nickelsen rather than Jessica Nickelsen. It seems like a small thing, but Jess feels more like me. Maybe I'll just do it, heh!</p>
+<h2>Financial question since the web is obsessed with money: how much does it cost to run your blog? Is it just a cost or does it generate some revenue? And what's your position on people monetising personal blogs?</h2>
+<p>The domain names are around $30 NZ a year, each. Blot is about $20 USD a year, because I got in on early pricing quite a few years ago. I think it's around $60 a year now.</p>
+<p>(I also have mini blogs with omg.lol; those are $20 USD a year but I think I subscribed when they were having a sale. I also pay for micro.blog because I really like what they are doing there and it's a lovely community. That's $5 USD a month.)</p>
+<p>I don't have anything against people monetising their blogs at all, but don't you think that a monetised blog has a different feel? They become more...performative? Less of a window and more of a presentation? I guess in my mind I separate those sort of blogs out into the same realm as recipe blogs or youtube channels. It becomes more about a business and less about openness. And while I completely understand that for some people this is their main form of income, I almost wish there was another name for "this sort of thing," other than "blog."</p>
+<p>I'm really still just working out my thoughts on the whole thing. Maybe my stumbling block is that I'm a Gen-Xer who remembers when all of this was just a giant playground, and now it's all become quite serious.</p>
+<h2>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</h2>
+<p>Ohh, this is hard. There are so many interesting blogs out there, and I love that this is a problem. It was awesome to see you interviewing some bloggers who I genuinely love reading (like Adrianna Tan, Derek Sivers and Winnie Lim). Here are a few other blogs that I really like:</p>
+<ul>
+<li><a href="https://arnoldhoogerwerf.nl">arnoldhoogerwerf.nl</a> - he does all sorts of interesting field recordings in nature and sometimes makes films to accompany them</li>
+<li><a href="https://wonderpens.ca/blogs/uncategorized">wonderpens.ca</a> - though they are a stationery shop, this is a commercial blog I genuinely enjoy; sincere and well-written, with lovely photography.</li>
+<li><a href="https://saigonboy.me">saigonboy.me</a> I discovered this blog while I was investigating Montaigne.io (which still looks pretty cool; a blog created via apple notes?) This is a snippety sort of travel blog, with illustrations rather than photographs. I really like it.</li>
+<li><a href="https://danwang.co">danwang.co</a> - Dan Wang pretty much does just one post a year, but I've been reading them for a few years now and always feel smarter and more human after reading them.</li>
+<li><a href="https://muan.co">muan.co</a> - I like Mu-An Chiou's blog (it's dreamy) but she's also got a nice mix of personal and professional there too.</li>
+<li><a href="https://www.robertvanvliet.com">robertvanvliet.com</a> - Robert Van Vliet's blog is a nice example of how I'd like to bring my two blogs together. He also seems quite dreamy and artsy as well as being techy, which is a nice combination.</li>
+<li><a href="https://brainbaking.com">brainbaking.com</a> - I think Winnie Lim also recommended this blog. It's another one of my favourites as well.</li>
+</ul>
+<h2>Final question: is there anything you want to share with us?</h2>
+<p>Thanks to mental floss I was able to track down the very first web page I think I ever visited on the internet: <a href="http://www.pmichaud.com/toast/">Strawberry Pop-Tart Blow-Torches</a>. It gave me such genuine delight to know this page still exists!</p>
+<p>Also check out Anthony Alvarado's <em>DIY Magic</em>. It's such a great book on creativity!</p>
+<hr />
+<p>This was the 42nd edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Jess. Make sure to <a href="https://discombobulated.co.nz">follow her blog</a> (<a href="https://discombobulated.co.nz/feed.rss">RSS</a>) and get in touch with her if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a> and all supporters will be listed here as well as on the <a href="https://peopleandblogs.com">official site</a> of the newsletter.</p>
+<p><a href="https://www.thingelstad.com">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml">RSS</a>) — <a href="https://some.studio">Piet Terheyden</a> — <a href="https://minim.blog">Raul Montala</a> (<a href="http://github.com/rmontala/minim/commits.atom">RSS</a>) — Eleonora — <a href="https://carlbarenbrug.com">Carl Barenbrug</a> (<a href="https://carlbarenbrug.com/feed/rss">RSS</a>) — <a href="https://tangiblelife.net">Steve Ledlow</a> (<a href="https://tangiblelife.net/feed.rss">RSS</a>) — <a href="https://www.feadin.eu">Paolo Ruggeri</a> (<a href="https://www.feadin.eu/en/posts/index.xml">RSS</a>) — <a href="https://thejollyteapot.com">Nicolas Magand</a> (<a href="https://thejollyteapot.com/feed.rss">RSS</a>) — <a href="https://robhope.com">Rob Hope</a> — <a href="https://chrishannah.me">Chris Hannah</a> (<a href="https://chrishannah.me/index.xml">RSS</a>) — <a href="https://blog.pcora.eu">Pedro Corá</a> (<a href="https://blog.pcora.eu/feed.xml">RSS</a>) — <a href="https://colinwalker.blog/">Colin Walker</a> (<a href="https://colinwalker.blog/dailyfeed.xml">RSS</a>) — <a href="https://softlandings.world/">Sixian Lim</a> (<a href="https://www.softlandings.world/feed.rss">RSS</a>) — <a href="https://mattstein.com">Matt Stein</a> (<a href="https://mattstein.com/rss.xml">RSS</a>) — <a href="https://winnielim.org">Winnie Lim</a> (<a href="https://winnielim.org/feed/">RSS</a>) — <a href="https://flamedfury.com/">Flamed</a> (<a href="https://flamedfury.com/feed.xml/">RSS</a>) — <a href="https://skyhold.org">C Jackdaw</a> (<a href="https://journal.miso.town/atom?url=https://skyhold.org/index.html">RSS</a>) — <a href="https://tiv.today">Kevin Humdrum</a> (<a href="https://tiv.today/feed.rss">RSS</a>) — <a href="https://www.doc.cc/">Fabricio Teixeira</a> (<a href="https://www.doc.cc/feed.xml">RSS</a>) — <a href="https://rosalindcroad.com">Rosalind Croad</a> — <a href="https://frankmeeuwsen.com">Frank Meeuwsen</a> (<a href="https://frankmeeuwsen.com/feed.xml">RSS</a>) — <a href="https://www.elmike.me">Mike Walsh</a> (<a href="https://www.elmike.me/feed.xml">RSS</a>) — <a href="https://www.byzero.de/">Markus Heurung</a> — <a href="https://cleverlaziness.xyz/">Juan Villela</a> (<a href="https://cleverlaziness.xyz/posts/index.xml">RSS</a>) — <a href="https://mwarrenarts.com/">Michael Warren</a> (<a href="https://mwarrenarts.com/rss">RSS</a>) — <a href="https://cagrimmett.com/">Chuck Grimmett</a> (<a href="https://cagrimmett.com/feed">RSS</a>) — <a href="https://eatweeds.co.uk">Robin Harford</a> (<a href="https://www.eatweeds.co.uk/feed/">RSS</a>) — <a href="https://bryanmanio.com/">Bryan Maniotakis</a> (<a href="https://bryanmanio.com/feed/">RSS</a>) — <a href="https://bjhess.com/">Barry Hess</a> (<a href="https://bjhess.com/posts_feed">RSS</a>) — <a href="https://chrisjung.xyz">Chris Jung</a> (<a href="https://chrisjung.xyz/feed/rss">RSS</a>) — <a href="https://ivanmoreale.com">Ivan Moreale</a> — <a href="https://islandinthenet.com">Khürt Williams</a> (<a href="https://islandinthenet.com/feed/">RSS</a>) — <a href="https://werd.io/">Ben Werdmuller</a> (<a href="https://werd.io/feed">RSS</a>) — <a href="https://corygibbons.com">Cory Gibbons</a> — <a href="https://www.lkhrs.com/">Luke Harris</a> (<a href="https://www.lkhrs.com/blog/index.xml">RSS</a>) — <a href="https://lars-christian.com/">Lars-Christian Simonsen</a> (<a href="https://lars-christian.com/feed/">RSS</a>) — <a href="https://www.codyschultz.com">Cody Schultz</a> — <a href="https://bradbarrish.com">Brad Barrish</a> (<a href="https://bradbarrish.com/feed/">RSS</a>) — <a href="https://galaiko.rocks">Nikita Galaiko</a> — Erik Blankvoort — <a href="https://jagasantagostino.com">Jaga Santagostino</a> — <a href="https://andzuck.com/">Andrew Zuckerman</a> — <a href="https://www.mattiacompagnucci.com">Mattia Compagnucci</a> (<a href="https://mattiacompagnucci.com/feed.rss">RSS</a>) — <a href="https://tdh.se/">Thord D. Hedengren</a> (<a href="https://tdh.se/feed/feed.xml">RSS</a>) — <a href="https://fabiensauser.ch">Fabien Sauser</a> (<a href="https://fabiensauser.ch/index.xml">RSS</a>) — <a href="http://dizzard.net/">Maxwell Omdal</a> — <a href="https://numericcitizen.me">Numeric Citizen</a> (<a href="https://feedpress.me/numericcitizen-feeds.xml?ref=numericcitizen.me">RSS</a>) — <a href="https://heydingus.net">Jarrod Blundy</a> (<a href="https://heydingus.net/feeds">RSS</a>) — <a href="https://gwtf.it">Andrea Contino</a> (<a href="https://gwtf.it/feed">RSS</a>) — <a href="https://sebastiandedeyne.com/">Sebastian De Deyne</a> (<a href="https://sebastiandedeyne.com/index.xml">RSS</a>) — <a href="https://koolinus.net/blog/">Nicola Losito</a> (<a href="https://koolinus.net/blog/feed/">RSS</a>) — <a href="https://amerpie.lol/">Lou Plummer</a> (<a href="https://amerpie.lol/feed.xml">RSS</a>) — <a href="https://lmika.org/">Leon Mika</a> (<a href="https://lmika.org/feed.xml">RSS</a>) — <a href="http://veronique.ink">Veronique</a> (<a href="https://veronique.ink/feed/">RSS</a>) — <a href="https://surplusjouissance.com">Neil Gorman</a> (<a href="https://www.surplusjouissance.com/rss/">RSS</a>) — <a href="https://reaper.is/">Reaper</a> (<a href="https://reaper.is/rss.xml">RSS</a>) — <a href="https://www.mattrutherford.co.uk/">Matt Rutherford</a> (<a href="https://www.mattrutherford.co.uk/rss/">RSS</a>) — <a href="https://therealadam.com">Adam Keys</a> (<a href="https://therealadam.com/feed.xml">RSS</a>) — <a href="https://aleemshaun.com/">Aleem Ali</a> (<a href="https://aleemshaun.com/feed">RSS</a>) — <a href="https://www.ismailsevik.com/">İsmail Şevik</a> (<a href="https://www.ismailsevik.com/feeds/posts/default?alt=rss">RSS</a>) — <a href="https://nikkin.dev/">Nikkin</a> (<a href="https://nikkin.dev/feed.xml">RSS</a>) — <a href="https://jeremyfelt.com/">Jeremy Felt</a> (<a href="https://jeremyfelt.com/feed">RSS</a>) — <a href="https://hansfast.net">Hans</a> (<a href="https://hansfast.net/everything.rss">RSS</a>) — <a href="https://www.markpitblado.me/">Mark Pitblado</a> (<a href="https://www.markpitblado.me/feed.xml">RSS</a>) — <a href="https://www.morelightmorelight.com/">Matt Katz</a> (<a href="https://www.morelightmorelight.com/feed">RSS</a>) — <a href="https://iljapanic.com/">Ilja Panić</a> — <a href="https://odongo.pl">Emmanuel Odongo</a></p>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale">support on Ko-Fi</a>;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/94aNZxzHWsqxPDwV>
+
+---
+
+## 2024-06-14 Morality, justice and the law
+
+date: 2024-06-14, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-14-morality-justice-and-the-law">2024-06-14 Morality, justice and the law</h1>
+
+<p>Some actions are legal and still reprehensible. People won&rsquo;t get punished by the state or the police but that doesn&rsquo;t protect them from scorn, disdain, harsh comments and insults. Actions have consequences.</p>
+
+<p>Perhaps some people need to see it spelled out. I think when I was young I also needed somebody to tell me because when I grew up, I thought that the state is great, the law is great, and we&rsquo;re all good people. But morality, justice and the law are not the same. The law only concerns the things were the state will come and impose fines and punishment. Justice is the thing we aspire to (but which the state often cannot deliver). And the moral good goes further than that.</p>
+
+<p>To be morally good or bad is different from being just or unjust and that is different from something being legal or illegal.</p>
+
+<p>So please, when people say that something is reprehensible they usually don&rsquo;t care whether it was legal or not because they aren&rsquo;t going to call the cops. It&rsquo;s an occasion to be happy for just being called names, for only getting demeaned and ridiculed, for just getting inundated with mails and complaints. It&rsquo;s a learning opportunity because when the cops show up and take your stuff, when you get invitations to show up in court, when the bills start coming in, then it&rsquo;s worse. Much worse.</p>
+
+<p>I&rsquo;ve seen this a few times on fedi, now. Somebody thinks it&rsquo;s OK to index all the status messages for their search engine, ingest all the status messages for their sentiment analysis or for their training data, and then they&rsquo;re surprised when people get angry. A discussion ensues, and some people will say, hey, it was not illegal now, was it? Therefore there&rsquo;s no point in getting angry or acting surprised.</p>
+
+<p>This misunderstands how humans manage to live together. When I was young and learned about hackers breaking into computer systems cheered for them because I didn&rsquo;t like the corporations. And if it wasn&rsquo;t illegal it was good or something like that. I was confused. But now, as I look around, I see defence in depth all around me. The garden fence has a gate that is trivial to jump over and to open, but to do so invites trouble. Whether jumping the fence is legal or illegal doesn&rsquo;t matter at first. Perhaps somebody runs away from bullies or creeps and they&rsquo;re welcome to jump that fence and escape. Things are negotiable. In a civilized world, many things need to happen before the state needs to get involved, and this is how it is supposed to be. Differences can be resolved.</p>
+
+<p>A recent example of what I&rsquo;m talking about:</p>
+
+<blockquote>
+<p>A recent investigation by Liaizon Wakest revealed that Maven, a new social network founded by former OpenAI Team Lead Ken Stanley, has been importing a vast amount of statuses from Mastodon without anyone’s consent. – <a href="https://wedistribute.org/2024/06/maven-mastodon-posts/">Maven Imported 1.12 Million Fediverse Posts</a>, by <a href="https://deadsuperhero.com/">Sean Tilley</a></p>
+</blockquote>
+
+<p>People react harshly:</p>
+
+<blockquote>
+<p>I can’t emphasize enough how much I would love if all the data centers containing the code running these things, across every network, just suddenly exploded. Take it all back to zero, and then put up a digital wall, like in Cyberpunk 2077 when they built a whole new internet that isn’t infested with garbage. – <a href="https://cmdr-nova.online/2024/06/13/hey-its-maven-whos-maven/">Hey It’s Maven! Who’s Maven?</a>, by <a class="account" href="https://cmdr-nova.online/author/cmdr_nova/" title="@cmdr_nova@cmdr-nova.online">@cmdr_nova</a></p>
+</blockquote>
+
+<p>&ldquo;Move fast and break things&rdquo; is shit advice.</p>
+
+<p>&ldquo;Act now and ask for forgiveness later&rdquo; is shit advice.</p>
+
+<p>It breaks all the good will accumulated so far and it&rsquo;ll take a lifetime to rebuild.</p>
+
+<p>The advice that has been true for generations is: &ldquo;Ask politely and respect the answers given&rdquo;.</p>
+
+<blockquote>
+<p>So there&rsquo;s a difference in opinion in the fediverse on whether it&rsquo;s important to get consent to use somebody&rsquo;s public posts for a purpose they didn&rsquo;t originally intend it for: adding them to a search engine, using them as part of algorithmic recommendation systems, &ldquo;bridging&rdquo; them to another social networks, using it to train artificial intelligence systems, and so on. Some think this is just fine, or that it&rsquo;s enough to assume consent and give people the ability to &ldquo;opt out&rdquo; and withdraw consent.  Others think that these uses should require informed, affirmative, &ldquo;opt in&rdquo; consent. – <a href="https://nexusofprivacy.net/consent-for-fediverse-developers/">Eight tips about consent for fediverse developers</a>, for <a class="account" href="https://mastodon.social/@nexusofprivacy" title="@nexusofprivacy@mastodon.social">@nexusofprivacy</a>, by <a class="account" href="https://blahaj.zone/@jdp23" title="@jdp23@blahaj.zone">@jdp23</a></p>
+</blockquote>
+
+<p><a class="tag" href="/search/?q=%23Philosophy">#Philosophy</a></p> 
+
+<https://alexschroeder.ch/view/2024-06-14-law>
+
+---
+
+## Hubble Observes a Cosmic Fossil
+
+date: 2024-06-14, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image features the globular cluster NGC 2005. It’s not an unusual globular cluster in and of itself, but it is a peculiarity when compared to its surroundings. NGC 2005 is located about 750 light-years from the heart of the Large Magellanic Cloud (LMC), which is the Milky Way’s largest satellite […] 
+
+<https://science.nasa.gov/missions/hubble/hubble-observes-a-cosmic-fossil/>
+
+---
+
+## FLTK 1.4.x Weekly Snapshot (master)
+
+date: 2024-06-14, from: Fast Light Tool Kit
+
+A new weekly snapshot of FLTK 1.4.x (master) is now available 
+
+<https://www.fltk.org/articles.php?L1927>
+
+---
+
+## Some interesting charts on the "Cleantech Revolution”
+
+date: 2024-06-14, from: Hannah Richie at Substack
+
+An interesting slide deck on electrification, decarbonisation and where the world might be headed. 
+
+<https://www.sustainabilitybynumbers.com/p/cleantech-revolution>
+
+---
+
+## Sols 4214–4215: The Best Laid Plans…
+
+date: 2024-06-14, from: NASA breaking news
+
+Earth planning date: Wednesday, June 12, 2024 Planning today was defined by the decision about whether or not to drill at “Mammoth Lakes,” the potential drill target that we selected on Monday. This decision is made based on the answer to two questions. First, does this location meet our science objectives? On Monday, we undertook […] 
+
+<https://science.nasa.gov/blogs/sols-4214-4215-the-best-laid-plans/>
+
+---
+
+## Voyager 1 Returning Science Data From All Four Instruments
+
+date: 2024-06-13, from: NASA breaking news
+
+The spacecraft has resumed gathering information about interstellar space. NASA’s Voyager 1 spacecraft is conducting normal science operations for the first time following a technical issue that arose in November 2023. The team partially resolved the issue in April when they prompted the spacecraft to begin returning engineering data, which includes information about the health […] 
+
+<https://science.nasa.gov/missions/voyager-program/voyager-1/voyager-1-returning-science-data-from-all-four-instruments/>
+
+---
+
+##  Gone Swimming, With Tara Booth 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/gone-swimming-with-tara-booth>
+
+---
+
+## Canonical and DeepComputing announce new RISC-V laptop shipping with Ubuntu
+
+date: 2024-06-13, from: OS News
+
+Speaking of PCs that don&#8217;t use x86 chips, Canonical and DeepComputing today announced a new RISC-V laptop running Ubuntu, available for pre-order in a few days. It&#8217;s the successor to the DC-ROMA, which shipped last year. Adding to a long list of firsts, the new DC-ROMA laptop II is the first to feature SpacemiT’s SoC K1 – with its 8-cores RISC-V CPU running at up to 2.0GHz with 16GB of memory. This significantly doubled its overall performance and energy efficiency over the previous generation’s 4-cores SoC running at 1.5GHz. Moreover, SpacemiT’s SoC K1 is also the world’s first SoC to support RISC-V high performance computing RVA 22 Profile RVV 1.0 with 256 bit width, and to have powerful AI capabilities with its customised matrix operation instruction based on IME Group design principle!&#160; This second-generation DC-ROMA RISC-V laptop also features an all-metal casing making it more durable, as well as improving heat dissipation and more on its premium class look and feel compared to previous generation. ↫ Canonical&#8217;s blog The DC-ROMA II is clearly aimed at developers, as it has what is essentially a GeekPort on the side of the laptop, to aid in porting and debugging software. Aside from that and the RISC-V processor, it&#8217;s a rather mid-range kind of device, and no pricing has been published yet so I&#8217;m not sure if this is something I could afford for an OSNews review. Once the preorders go live in a few days, we&#8217;ll know more. If you&#8217;d like to see this RISC-V laptop make an appearance on OSNews, let me know, and I&#8217;ll see what I can do. 
+
+<https://www.osnews.com/story/139948/canonical-and-deepcomputing-announce-new-risc-v-laptop-shipping-with-ubuntu/>
+
+---
+
+## The Qualcomm Snapdragon X architecture deep dive: getting to know Oryon and Adreno X1
+
+date: 2024-06-13, from: OS News
+
+In the last 8 months Qualcomm has made a lot of interesting claims for their high-performance Windows-on-Arm SoC – many of which will be put to the test in the coming weeks. But beyond all the performance claims and bluster amidst what is shaping up to be a highly competitive environment for PC CPUs, there’s an even more fundamental question about the Snapdragon X that we’ve been dying to get to:&#160;how does it work? Ahead of next week’s launch, then, we’re finally getting the answer to that, as today Qualcomm is releasing their long-awaited architectural disclosure on the Snapdragon X SoC. This includes not only their new, custom Arm v8 “Oryon” CPU core, but also technical disclosures on their Adreno GPU, and the Hexagon NPU that backs their heavily-promoted AI capabilities. The company has made it clear in the past that the Snapdragon X is a serious, top-priority effort for the company – that they’re not just slapping together a Windows SoC from their existing IP blocks and calling it a day – so there’s a great deal of novel technology within the SoC. ↫ Ryan Smith at AnandTech I cannot wait until AnandTech can move beyond diving into information provided by Qualcomm, and can start doing their own incredibly in-depth benchmarks and research. Assuming the effort succeeds, the Snapdragon X line will most likely form the backbone of ARM PCs for years &#8211; if not decades &#8211; to come, meaning that when you and I go shopping for a new laptop, this chip will be the one heavily promoted by stores and outlets. How closely independent benchmarks line up with Qualcomm&#8217;s eight months of promises and cherry-picked benchmarks will also tell us a lot about how trustworthy the company will be about the performance of its chips going forward. In smartphones &#8211; where we mostly see Qualcomm today &#8211; performance simply doesn&#8217;t matter as much, but when you&#8217;re dealing with laptops, and in the future possibly even desktops, performance suddenly matters a lot more, and Qualcomm&#8217;s claims will be facing a level of scrutiny and detail I don&#8217;t think they&#8217;ve ever really had to deal with before. PC enthusiasts don&#8217;t mess around. If the Linux support turns out to be as solid as Qualcomm claims, and if the performance figures they&#8217;ve been putting out are verified by quality independent reviewers like the people at AnandTech, I honestly don&#8217;t think my next laptop will be using x86. I just hope weird companies like Chuwi will release a version of their MiniBook X with one a Qualcomm chip, because I&#8217;ll be damned if I go back to anything larger than 10&#8243;. 
+
+<https://www.osnews.com/story/139946/the-qualcomm-snapdragon-x-architecture-deep-dive-getting-to-know-oryon-and-adreno-x1/>
+
+---
+
+## The Next Full Moon is the Strawberry Moon
+
+date: 2024-06-13, from: NASA breaking news
+
+The Next Full Moon is the Strawberry Moon; the Flower, Hot, Hoe, or Planting Moon; the Mead or Honey Moon; the Rose Moon; Vat Purnima; Poson Poya; and the LRO Moon. The next full Moon will be Friday evening, June 21, 2024, appearing opposite the Sun (in Earth-based longitude) at 9:08 PM EDT. This will […] 
+
+<https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-strawberry-moon-2/>
+
+---
+
+##  Paul Theroux: &#8220;In the short run, criticism seems to have merit; in... 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044783-paul-theroux-in-the-short>
+
+---
+
+##  Is everyone really taking steroids? Rosecrans Baldwin says yes: &#8220;Someone in your... 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044782-is-everyone-really-taking>
+
+---
+
+##  What Does &#8216;Havering&#8217; Mean? 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/what-does-havering-mean>
+
+---
+
+## NASA Announces New System to Aid Disaster Response
+
+date: 2024-06-13, from: NASA breaking news
+
+In early May, widespread flooding and landslides occurred in the Brazilian state of Rio Grande do Sul, leaving thousands of people without food, water, or electricity. In the following days, NASA teams provided data and imagery to help on-the-ground responders understand the disaster’s impacts and deploy aid. Building on this response and similar successes, on […] 
+
+<https://science.nasa.gov/earth/natural-disasters/nasa-announces-new-system-to-aid-disaster-response/>
+
+---
+
+## NSTGRO 2024
+
+date: 2024-06-13, from: NASA breaking news
+
+NSTGRO Homepage Claire LesslerUniversity of ChicagoPrecision Spectroscopic Calibration and Next-Generation Millimeter-Wave Spectrometers Miron LiuUniversity of MichiganDevelopment of a Magnetically Shielded Hall Thruster without Pole Erosion Ashley MaldonadoOtero University of Southern CaliforniaOptimizing heterogeneous nanostructured materials for space applications Camille McDonnellUniversity of Maryland, College ParkLow-SWaP Nanophotonic Quantum Enhanced Sensors with Highly Squeezed Light Daniel MiliateUniversity of California, [&#8230;] 
+
+<https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro-2024/>
+
+---
+
+##  Pretty dark but also fascinating: &#8220;ancient DNA extracted from 64 of the... 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044807-pretty-dark-but-also-fasc>
+
+---
+
+## NASA’s Webb Reveals Long-Studied Star Is Actually Twins
+
+date: 2024-06-13, from: NASA breaking news
+
+Managed by NASA’s Jet Propulsion Laboratory through launch, Webb’s Mid-Infrared Instrument also revealed jets of gas flowing into space from the twin stars. Scientists recently got a big surprise from NASA’s James Webb Space Telescope when they turned the observatory toward a group of young stars called WL 20. The region has been studied since [&#8230;] 
+
+<https://www.nasa.gov/missions/webb/nasas-webb-reveals-long-studied-star-is-actually-twins/>
+
+---
+
+## iPhone Mirroring
+
+date: 2024-06-13, from: Michael Tsai
+
+Filipe Esp&#243;sito (Reddit): Both macOS 15 and iOS 18 introduce iPhone Mirroring, which is a new way of interacting with your iPhone from your Mac. The feature lets you see and control your iPhone screen from your computer without having to touch your phone. You can also drag and drop files between macOS and the [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/13/iphone-mirroring/>
+
+---
+
+## Dark Mode iOS 18 App Icons
+
+date: 2024-06-13, from: Michael Tsai
+
+Apple: People can customize the appearance of their app icons to be light, dark, or tinted. You can create your own variations to ensure that each one looks exactly the way you way you want. See Apple Design Resources for icon templates.Design your dark and tinted icons to feel at home next to system app [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/13/dark-mode-ios-18-app-icons/>
+
+---
+
+## Redesigned Photos App in iOS 18
+
+date: 2024-06-13, from: Michael Tsai
+
+Federico Viticci: The Photos app is getting a big redesign in iOS 18 that is surely going to take some time getting used to. The new design revolves around a single-page UI that eschews a tab bar in favor of a split-screen approach with your grid of photos shown at the top, followed by a [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/13/redesigned-photos-app-in-ios-18/>
+
+---
+
+## Catalyst (Not) at WWDC24
+
+date: 2024-06-13, from: Michael Tsai
+
+As far as I can tell, there were no Catalyst sessions this year. Apple hasn&#8217;t talked about it much since 2021. The Mac developer page says: Choose your app-builder technology Another early choice to make is which app-builder technology to use for your interface. Apple&#8217;s app-builder technologies provide the core infrastructure macOS needs to communicate [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/13/catalyst-not-at-wwdc24/>
+
+---
+
+## Using Apple Accounts With macOS Virtual Machines
+
+date: 2024-06-13, from: Michael Tsai
+
+Andrew Cunningham (Hacker News): But up until now, you haven&#8217;t been able to sign into iCloud using macOS on a VM. This made the feature less useful for developers or users hoping to test iCloud features in macOS, or whose apps rely on some kind of syncing with iCloud, or people who just wanted easy [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/13/using-apple-accounts-with-macos-virtual-machines/>
+
+---
+
+## Apple Account
+
+date: 2024-06-13, from: Michael Tsai
+
+Joe Rossignol: Earlier this year, we reported that &#8220;Apple ID&#8221; would be renamed to &#8220;Apple Account,&#8221; and this change has now been officially announced. 
+
+<https://mjtsai.com/blog/2024/06/13/apple-account/>
+
+---
+
+## NASA’s RASC-AL Competition Selects 2024 Winners
+
+date: 2024-06-13, from: NASA breaking news
+
+Out of 14 finalist teams that encompassed collegiate and university representation from across the globe, the Virginia Polytechnic Institute and State University team with their concept, “Project Draupnir,” in the AI-Powered Self-Replicating Probe theme, took home top prize in NASA’s Revolutionary Aerospace Systems Concepts &#8211; Academic Linkage (RASC-AL) competition.&#160;&#160; The University of Maryland took second [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/langley/nasas-rasc-al-competition-selects-2024-winners/>
+
+---
+
+## The forgotten techno speech synthesiser
+
+date: 2024-06-13, from: Tilde.news
+
+<p><a href="https://tilde.news/s/vyyoy6/forgotten_techno_speech_synthesiser">Comments</a></p> 
+
+<https://www.youtube.com/watch?v=MZVOzDKfcWE>
+
+---
+
+##  Diary Comics, Jan. 2 & 11 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/diary-comics-jan-2-11>
+
+---
+
+## ‘NASA in the Park’ Returns to Rocket City June 22
+
+date: 2024-06-13, from: NASA breaking news
+
+NASA in the Park is coming back to Big Spring Park East in Huntsville, Alabama, on Saturday, June 22, from 10 a.m. to 2 p.m. CDT. The event is free and open to the public. NASA’s Marshall Space Flight Center, its partners, and collaborators will fill the park with space exhibits, music, food vendors, and [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-in-the-park-returns-to-rocket-city-june-22/>
+
+---
+
+##  An analysis of the easiest & hardest puzzles from the NY Times&#8217;... 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044769-an-analysis-of-the-easies>
+
+---
+
+## Exclusive: Mozilla reverses course, re-lists extensions it removed in Russia
+
+date: 2024-06-13, from: OS News
+
+Two days ago, I broke the news that Mozilla removed several Firefox extensions from the add-on store in Russia, after pressure from Russian censors. Mozilla provided me with an official statement, which seemed to highlight that the decision was not final, and it seems I was right &#8211; today, probably helped by the outcry our story caused, Mozilla has announced it&#8217;s reversing the decision. In a statement sent to me via email, an unnamed Mozilla spokesperson says: In alignment with our commitment to an open and accessible internet, Mozilla will reinstate previously restricted listings in Russia. Our initial decision to temporarily restrict these listings was made while we considered the regulatory environment in Russia and the potential risk to our community and staff. As outlined in our Manifesto, Mozilla&#8217;s core principles emphasise the importance of an internet that is a global public resource, open and accessible to all. Users should be free to customise and enhance their online experience through add-ons without undue restrictions. By reinstating these add-ons, we reaffirm our dedication to: &#8211; Openness: Promoting a free and open internet where users can shape their online experience.&#8211; Accessibility: Ensuring that the internet remains a public resource accessible to everyone, regardless of geographical location. We remain committed to supporting our users in Russia and worldwide and will continue to advocate for an open and accessible internet for all. ↫ Mozilla spokesperson via email I&#8217;m glad Mozilla reversed its decision, because giving in to a dictatorship never ends well &#8211; it starts with a few extensions today, but ends up with the kind of promotional tours for China that Tim Cook goes on regularly. Firefox is a browser that lives or dies by its community, and if that community is unhappy with the course of Mozilla or the decisions it makes, especially ones that touch on core values and human rights, it&#8217;s not going to end well for them. That being said, this does make me wonder what would&#8217;ve happened if the forum thread that started all this died in obscurity and never made its way to the media. Would Mozilla have made the same reversal? 
+
+<https://www.osnews.com/story/139943/exclusive-mozilla-reverses-course-re-lists-extensions-it-removed-in-russia/>
+
+---
+
+##  &#8220;How the Fridge Changed Flavor&#8221; 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/how-the-fridge-changed-flavor>
+
+---
+
+##  A short oral history of pioneering Chicago house anthem Move Your Body.... 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044795-a-short-oral-history-of-1>
+
+---
+
+## The 4th of July (Observed)
+
+date: 2024-06-13, updated: 2024-06-13, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/06/13/the-4th-of-july-observed/>
 
 ---
 
@@ -209,6 +736,16 @@ date: 2024-06-13, from: John Udell blog
 Here&#8217;s the latest installment in the series on working with LLMS: https://thenewstack.io/techniques-for-using-llms-to-help-write-a-postgres-function/ It was only after I deployed the function and used it in three different dashboards that the penny finally dropped. This had begun as an exercise to wrap a SQL idiom that made use of the lag() function. But when I looked at &#8230; <a href="https://blog.jonudell.net/2024/06/12/pairing-with-chatgpt-to-help-write-a-postgres-function/" class="more-link">Continue reading <span class="screen-reader-text">Pairing with ChatGPT to help write a Postgres function</span></a> 
 
 <https://blog.jonudell.net/2024/06/12/pairing-with-chatgpt-to-help-write-a-postgres-function/>
+
+---
+
+## Five Nine Problems
+
+date: 2024-06-13, from: Specbranch blog
+
+A guilty pleasure of mine is the pursuit of perfection. It is certainly a vice in most contexts, but there are some problems whose solutions demand a measure of perfection. These are problems that I will refer to as &ldquo;5-9 problems&rdquo;: problems whose solutions need five 9&rsquo;s (or more) in some dimension. Usually, those nines are correctness of some kind, but they can also be availability or for some systems, speed. 
+
+<https://specbranch.com/posts/five-nines/>
 
 ---
 

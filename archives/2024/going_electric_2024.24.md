@@ -1,11 +1,415 @@
 ---
 title: going electric 2024.24
-updated: 2024-06-13 08:24:22
+updated: 2024-06-14 07:34:21
 ---
 
 # going electric 2024.24
 
-(date: 2024-06-13 08:24:22)
+(date: 2024-06-14 07:34:21)
+
+---
+
+## Is The Awesome and Adorable Honda Dax Finally Coming To The US?
+
+date: 2024-06-14, from: Ride Apart, Electric Motorcycle News
+
+A California Air Resources Board filing from late May, 2024 strongly points to yes. 
+
+<https://www.rideapart.com/news/723250/honda-dax-us-documents-2025/>
+
+---
+
+## The Tesla Model Y Long Range Is Cheaper To Lease Than The Model 3 Long Range
+
+date: 2024-06-14, from: Inside EVs News
+
+Less money for a bigger car? That’s a great deal in our eyes. However, there is one caveat. 
+
+<https://insideevs.com/news/723283/tesla-model-y-lr-cheaper-lease-model-3-lr/>
+
+---
+
+## Tesla produces 1,300 Cybertrucks per week, moving from Foundations Series next quarter
+
+date: 2024-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/Tesla-Cybertruck-off-roading-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla confirmed that it managed to produce 1,300 Cybertrucks in a week and it is moving from its Foundations Series production run next quarter.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/14/tesla-produces-1300-cybertrucks-per-week-foundations-series/#more-367608" data-post-id="367608" data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/14/tesla-produces-1300-cybertrucks-per-week-foundations-series/>
+
+---
+
+## Lewis Hamilton Helped Produce This Documentary on 'Motorcycle Mary' McGee
+
+date: 2024-06-14, from: Ride Apart, Electric Motorcycle News
+
+You should know her name. 
+
+<https://www.rideapart.com/news/723111/motorcycle-mary-espn-30-for-30/>
+
+---
+
+## Tesla's New Version Of 'Full Self-Driving' Is Better, But Flawed
+
+date: 2024-06-14, from: Inside EVs News
+
+Sometimes it drives like a pro. In other instances, it would fail a driving test.  
+
+<https://insideevs.com/news/723266/tesla-fsd-can-detect-pedestrans-emergency-vehicles/>
+
+---
+
+## Take A Look At Husqvarna’s Updated Enduro And Dual-Sport Lineup
+
+date: 2024-06-14, from: Ride Apart, Electric Motorcycle News
+
+More tech, improved performance, better adjustability.  
+
+<https://www.rideapart.com/news/723112/2025-husqvarna-dual-sport-enduro-bikes/>
+
+---
+
+## Germany looks to keep the peace by halting or at least softening incoming tariffs on Chinese EVs
+
+date: 2024-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/11/Mercedes-GLC-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Just days after the EU Commission determined EVs imported from <a href="https://electrek.co/guides/china/">China</a> have an unfair advantage due to government subsidies and responding with higher tariffs, Germany, one of the region’s largest automotive markets, has spoken against the decision, stating the imposed tariffs could hurt the success of local automakers selling vehicles in China.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/14/germany-peace-halting-softening-incoming-tariffs-chinese-evs-eu/#more-367642" data-post-id="367642" data-layer-pagetype="post" data-layer-postcategory="china,europe" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/14/germany-peace-halting-softening-incoming-tariffs-chinese-evs-eu/>
+
+---
+
+## Chevrolet Equinox EV Is Missing Key Features, But Most Are Coming This Year
+
+date: 2024-06-14, from: Inside EVs News
+
+A rear mirror camera, Bose audio, wireless charging, a HUD and 19.2 kW charging have so far been unavailable to order. 
+
+<https://insideevs.com/news/722621/equinox-ev-missing-wireless-sunroof/>
+
+---
+
+## Win a Trip to Pastranaland and Hopefully You Won’t End up in the ER
+
+date: 2024-06-14, from: Ride Apart, Electric Motorcycle News
+
+Don't be like Streetbike Tommy, please.  
+
+<https://www.rideapart.com/news/723237/contest-win-trip-pastranaland-travis-pastrana/>
+
+---
+
+## Suzuki's Electric Motocross Patent is Essentially Just an EV-Swap
+
+date: 2024-06-14, from: Ride Apart, Electric Motorcycle News
+
+It’s essentially an electric swap on an existing platform.  
+
+<https://www.rideapart.com/news/723130/new-suzuki-patent-electric-rmz/>
+
+---
+
+## On National Golf Cart Day (seriously), here’s 10 ways they beat cars
+
+date: 2024-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/05/golf-cart-street-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Golf carts are no longer just for cruising the country club. In fact, these days, <a href="https://electrek.co/2023/08/07/rise-of-electric-golf-carts-as-second-cars/">they’re more commonly found </a>zipping through neighborhood streets or joy-riding around beach communities. These smaller, more efficient alternatives to traditional cars might just be a good choice for your ‘second car’, believe it or not.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/14/on-national-golf-cart-day-seriously-heres-10-ways-they-beat-cars/#more-367621" data-post-id="367621" data-layer-pagetype="post" data-layer-postcategory="golf-carts" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/14/on-national-golf-cart-day-seriously-heres-10-ways-they-beat-cars/>
+
+---
+
+## Non-Foundation Tesla Cybertruck Coming Next Quarter, International Version Possible: Musk
+
+date: 2024-06-13, from: Inside EVs News
+
+Tesla Cybertrucks could head to markets outside of the U.S. soon.  
+
+<https://insideevs.com/news/723268/tesla-cybertruck-international-foundation/>
+
+---
+
+## Tesla will allow ‘one-time’ FSD transfer for one more quarter, says Musk
+
+date: 2024-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/Tesla-FSD-Beta-official-demo.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>After repeatedly claiming that Tesla will not allow owners to transfer Full Self-Driving capability to new vehicles, Tesla CEO Elon Musk agreed today that Tesla will allow them to do so for “one more quarter.”</p>
+
+
+
+ <a href="https://electrek.co/2024/06/13/tesla-will-allow-one-time-fsd-transfer-for-one-more-quarter-says-musk/#more-367603" data-post-id="367603" data-layer-pagetype="post" data-layer-postcategory="full-self-driving-fsd,tesla" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/13/tesla-will-allow-one-time-fsd-transfer-for-one-more-quarter-says-musk/>
+
+---
+
+## Elon Musk bets Tesla on Optimus, says over 1,000 robots working in factories next year
+
+date: 2024-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Tesla-Bot-Optimus-hero.webp?w=1500" /></div><p>Elon Musk is betting Tesla on its Optimus program, which he now says will add tens of trillion of dollars to its valuation.</p>
+
+
+
+<p>He added that Tesla should have over 1,000 humanoid robots working in its factories next year, but he is delaying a recently shared timeline.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/13/elon-musk-bets-tesla-optimus-over-1000-robots-working-factories-next-year/#more-367600" data-post-id="367600" data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-optimus" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/13/elon-musk-bets-tesla-optimus-over-1000-robots-working-factories-next-year/>
+
+---
+
+## Tesla shareholders officially approve all company proposals, backing the board on almost everything
+
+date: 2024-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/06/Tesla-Giga-Laboratory-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla shareholders have officially approved all company proposals at their annual shareholders meeting. They are backing the board – though they voted to shareholder proposals that the board recommend against.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/13/tesla-shareholders-officially-approve-all-company-proposals-backing-the-board-on-almost-everything/#more-367585" data-post-id="367585" data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/13/tesla-shareholders-officially-approve-all-company-proposals-backing-the-board-on-almost-everything/>
+
+---
+
+## Elon Musk Teases Three New Teslas: 'These Are Going To Be Special'
+
+date: 2024-06-13, from: Inside EVs News
+
+Tesla's CEO teased three new models during the company's annual meeting, but offered no details.  
+
+<https://insideevs.com/news/723265/tesla-new-vehicles-elon-musk/>
+
+---
+
+## Tesla, Elon Musk sued by shareholders for breach of fiduciary duty over AI funneling threats
+
+date: 2024-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/Elon-Musk-Game-of-Thrones-FI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s board of directors and Elon Musk are being sued by shareholders for breach of fiduciary duty over threats that the CEO made about not building AI products at Tesla, and even funneling resources to his private companies.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/13/tesla-elon-musk-sued-shareholders-breach-fiduciary-duty-ai-funneling-threats/#more-367555" data-post-id="367555" data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/13/tesla-elon-musk-sued-shareholders-breach-fiduciary-duty-ai-funneling-threats/>
+
+---
+
+## Elon wins, Ford backs down, a cheap electric Jeep, & Honda lease deals | Quick Charge
+
+date: 2024-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/winnerisyou_2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Watch Elon’s $56 billion victory lap live as Ford walks back its controversial Model E program and snaps up Tesla, Rivian, and Apple car castaways to help it build affordable EVs, Jeep’s $25,000 electric Renegade, Honda’s lease deals, and more on today’s electrifying episode of Quick Charge!</p>
+
+
+
+ <a href="https://electrek.co/2024/06/13/elon-wins-ford-backs-down-a-cheap-electric-jeep-honda-lease-deals-quick-charge/#more-367570" data-post-id="367570" data-layer-pagetype="post" data-layer-postcategory="elon-musk,ford,honda,jeep,quick-charge" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/13/elon-wins-ford-backs-down-a-cheap-electric-jeep-honda-lease-deals-quick-charge/>
+
+---
+
+## BYD sees bigger profits on some EVs sold in the EU than in China, even with tariffs
+
+date: 2024-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/BYD-NEV-share.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After the EU announced new tariffs on Chinese EV imports, <a href="https://electrek.co/guides/byd/">BYD</a> is subject to an additional 17.4% duty. However, with BYD reportedly generating higher EV profits on models like the Seal U in the EU than in China, the EV leader is expected to overcome the impact.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/13/byd-bigger-ev-profits-eu-even-with-tariffs/#more-367556" data-post-id="367556" data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/13/byd-bigger-ev-profits-eu-even-with-tariffs/>
+
+---
+
+## Hyundai Motors Global EV Wholesale Sales Decline Continued In May 2024
+
+date: 2024-06-13, from: Inside EVs News
+
+The first few Hyundai Insters (aka Casper EV) emerged in the stats. 
+
+<https://insideevs.com/news/723238/hyundai-global-ev-sales-may2024/>
+
+---
+
+## Watch This Car Try to Lane-Split and Get Sent Flying Into the Air
+
+date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
+
+Even in the diminutive Honda Fit, you can't lane-split a car.  
+
+<https://www.rideapart.com/news/723256/car-lane-splitting-fail-video/>
+
+---
+
+## Volkswagen’s EV Sales Surpass Tesla In Germany
+
+date: 2024-06-13, from: Inside EVs News
+
+But overall EV sales were down more than 30% last month. 
+
+<https://insideevs.com/news/723196/plugin-car-sales-germany-may2024/>
+
+---
+
+## Tesla (TSLA) shareholders meeting news hub: watch Elon’s victory lap
+
+date: 2024-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Tesla-shareholders-meeting-cyberroundup.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Join us for our coverage of Tesla’s 2024 annual shareholders meeting, also called ‘Cyber Roundup’. We will know the full results of the shareholder votes and there are likely going to be a few announcements coming out of the event.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/13/tesla-tsla-shareholders-meeting-news-hub-watch-elons-victory-lap/#more-367544" data-post-id="367544" data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/13/tesla-tsla-shareholders-meeting-news-hub-watch-elons-victory-lap/>
+
+---
+
+## Six Electric Sedans Were Driven Until They Died. The Results Are Fascinating
+
+date: 2024-06-13, from: Inside EVs News
+
+CarWow tested BYD, Porsche, BMW, Mercedes, Polestar and Tesla EVs. One had the best range.  
+
+<https://insideevs.com/news/723246/bmw-mercedes-porsche-byd-range/>
+
+---
+
+## Jeep is launching an electric Renegade for under $25,000
+
+date: 2024-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Jeep-electric-Renegade-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>An all-electric Jeep Renegade is finally confirmed. Even better, it will start at under $25,000 as <a href="https://electrek.co/guides/jeep/">Jeep</a> expands into new markets. In the US, the Jeep Renegade EV will join two other all-electric Jeep vehicles, the Wagoneer S and Wangler-inspired Recon.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/13/jeep-launching-electric-renegade-under-25000/#more-367528" data-post-id="367528" data-layer-pagetype="post" data-layer-postcategory="jeep" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/13/jeep-launching-electric-renegade-under-25000/>
+
+---
+
+## Rad Power takes $400 off e-bikes and 20% off accessories, NIU BQi-C3 Pro hits new $1,299 low, 1-day tool deals, and more
+
+date: 2024-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Rad-Power-RadRover-6-Plus-e-bike-2-new.webp?w=1600" /></div><p>All work and no play makes Reinette a dull girl – that’s why today’s Green Deals are mostly about play with a little bit of “work” to balance out the scales. Headlining these deals is <a href="https://9to5toys.com/2024/06/12/rad-power-takes-up-to-400-off-e-bikes-and-20-off-premium-add-on-accessories-starting-from-1199/">Rad Power’s summer sale</a> that is taking up to $400 off e-bikes and 20% off premium add-on accessories, with the <a href="https://9to5toys.com/2024/06/12/rad-power-takes-up-to-400-off-e-bikes-and-20-off-premium-add-on-accessories-starting-from-1199/">RadRover 6 Plus e-bike</a> once more leading the charge at <a href="https://9to5toys.com/2024/06/12/rad-power-takes-up-to-400-off-e-bikes-and-20-off-premium-add-on-accessories-starting-from-1199/">$1,199</a>. It is joined by the return of the <a href="https://9to5toys.com/2024/06/13/nius-class-3-bqi-c3-pro-e-bike-with-90-mile-range-returns-to-1299-low-reg-2200/">NIU BQi-C3 Pro e-bike at a new $1,299 low</a>, as well as two <a href="https://9to5toys.com/2024/06/13/greenworks-80v-26-inch-cordless-electric-hedge-trimmer-returns-to-175-low-in-1-day-discount/">one-day deals on useful Greenworks and Worx tools</a> – and going down further to our links, you’ll find a separate one-day deal on the <a href="https://9to5toys.com/2024/06/13/apollos-2023-air-electric-scooter-tops-out-at-21-mph-for-up-to-34-miles-at-799-for-today-only/">Apollo 2023 Air Electric Scooter at $799</a>. Plus, all the other hangover Green Deals that are still alive and well.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/13/rad-power-summer-sale-niu-bqi-c3-pro-1-day-tool-deals-and-more/#more-367534" data-post-id="367534" data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/13/rad-power-summer-sale-niu-bqi-c3-pro-1-day-tool-deals-and-more/>
+
+---
+
+## Ford Mustang Mach-E: How Much Does It Cost To Charge It?
+
+date: 2024-06-13, from: Inside EVs News
+
+Compared to a base FWD Ford Escape with a 30 MPG rating, a Mach E, driven 10,000 miles per year, would save you $3,164 over five years.  
+
+<https://insideevs.com/news/723108/ford-mustang-mach-e-charging-costs/>
+
+---
+
+## Mercedes-Benz To Deploy ‘World’s Most Efficient 400 kW Charger’ In The U.S.
+
+date: 2024-06-13, from: Inside EVs News
+
+The automaker will install Alpitronic's 400 kW chargers with NACS and CCS plugs. 
+
+<https://insideevs.com/news/723236/mercedes-benz-alpitronic-400kw-chargers-nacs-ccs/>
+
+---
+
+## The Alpine A290 Is The Electric Hot Hatch You Want But Can’t Have
+
+date: 2024-06-13, from: Inside EVs News
+
+Look at it! It’s delightfully cute and with Alpine’s know-how, it should handle like a dream. 
+
+<https://insideevs.com/news/723201/alpine-a290-official-specs-details-interior/>
+
+---
+
+## Jeep's $25,000 EV Will Be The Next Renegade
+
+date: 2024-06-13, from: Inside EVs News
+
+Jeep has given a name to its upcoming affordable electric car, and it's a familiar one.  
+
+<https://insideevs.com/news/723241/jeepr-renegade-ev-25k-news/>
+
+---
+
+## Honda is launching its new electric N-VAN e starting at $15,500
+
+date: 2024-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Honda-electric-N-VAN-e-12.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The highly anticipated electric <a href="https://electrek.co/guides/honda/">Honda</a> N-VAN e will officially hit the market in October. Honda announced its new electric N-Van will start at $15,500 (2,439,800 yen) as it looks to ramp up EV sales.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/13/honda-launching-new-electric-n-van-starting-15500/#more-367498" data-post-id="367498" data-layer-pagetype="post" data-layer-postcategory="honda" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/13/honda-launching-new-electric-n-van-starting-15500/>
+
+---
+
+## Fast Charging Doesn’t Degrade Batteries More Than Slow Charging: Study
+
+date: 2024-06-13, from: Inside EVs News
+
+Data from over 13,000 Tesla EVs in the United States shows little to no difference between the two charging methods. 
+
+<https://insideevs.com/news/723194/fast-charging-battery-degrade-slow-charging/>
+
+---
+
+## Alpine kicks off its all-electric era with the A290 hot hatch EV that has video game style challenges
+
+date: 2024-06-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Alpine-EV-A290-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>French automaker Alpine has launched its first EV model called the A290. This addition to <a href="https://electrek.co/guides/alpine/">Alpine’s</a> small but sporty portfolio kicks off a lineup of BEVs to follow and comes equipped with some exciting features, including bidirectional charging capabilities, in-cockpit driving tutorials, and video game-like challenges you can complete.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/13/alpine-all-electric-era-a290-hot-hatch-ev-video-game-style-challenges/#more-367489" data-post-id="367489" data-layer-pagetype="post" data-layer-postcategory="alpine,alpine-a290" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/13/alpine-all-electric-era-a290-hot-hatch-ev-video-game-style-challenges/>
+
+---
+
+## Ford's Affordable EV Is From A Crack Team Of Tesla, Apple And Rivian Vets
+
+date: 2024-06-13, from: Inside EVs News
+
+Plus, China slams EU's EV tariffs and Audi's billion-dollar investment in Mexico. 
+
+<https://insideevs.com/news/723206/ford-hires-tesla-apple-rivian/>
 
 ---
 
@@ -169,7 +573,7 @@ It's got those drones you like from a company that rhymes with PKY, only strippe
 
 ---
 
-## Did You Know Apple Tests the iPhone's Durability With Motorcycle Engine Vibrations?
+## Did You Know Apple Tests the iPhone's Durability With Motorcycle Vibrations?
 
 date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
 

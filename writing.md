@@ -1,11 +1,44 @@
 ---
 title: writing 2024.24
-updated: 2024-06-13 08:24:19
+updated: 2024-06-14 07:34:19
 ---
 
 # writing 2024.24
 
-(date: 2024-06-13 08:24:19)
+(date: 2024-06-14 07:34:19)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-14, from: Neil Gaiman @ BlueSky)
+
+Congratulations!!
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kuv63j4cus2v>
+
+---
+
+## How Josh Flanagan Found His Screenwriting Calling with Big Break
+
+date: 2024-06-13, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-josh-flanagan-found-his-screenwriting-calling-with-big-break" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Josh%20Flanagan.jpg" alt="How Josh Flanagan Found His Screenwriting Calling with Big Break" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span><a href="https://writers.coverfly.com/profile/writer-b3e6f8a35-175663?utm_source=screencraft&amp;utm_campaign=ScreenCraft%20Action%20&amp;%20Adventure%20Screenplay%20Competition%20(2022)%20Winners&amp;utm_medium=blog">Josh Flanagan</a>, the Comedy Feature Winner for the 2022 <a href="https://www.finaldraft.com/big-break-screenwriting-contest/?utm_term=final%20draft%20big%20break&amp;utm_campaign=FD+%7C+REV+%7C+Big+Break+2023&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_tgt=kwd-416014306220&amp;hsa_grp=160393640376&amp;hsa_src=g&amp;hsa_net=adwords&amp;hsa_mt=e&amp;hsa_ver=3&amp;hsa_ad=693831123964&amp;hsa_acc=7877895225&amp;hsa_kw=final%20draft%20big%20break&amp;hsa_cam=20108043043&amp;gad_source=1&amp;gclid=Cj0KCQjwsaqzBhDdARIsAK2gqndQuU_J2u9nCYyaN3fOosOnj2zhvQDz8A2gna5mndZ_QxAU-CpiI2gaAqmuEALw_wcB">Final Draft's Big </a></span><a href="https://www.finaldraft.com/big-break-screenwriting-contest/?utm_term=final%20draft%20big%20break&amp;utm_campaign=FD+%7C+REV+%7C+Big+Break+2023&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_tgt=kwd-416014306220&amp;hsa_grp=160393640376&amp;hsa_src=g&amp;hsa_net=adwords&amp;hsa_mt=e&amp;hsa_ver=3&amp;hsa_ad=693831123964&amp;hsa_acc=7877895225&amp;hsa_kw=final%20draft%20big%20break&amp;hsa_cam=20108043043&amp;gad_source=1&amp;gclid=Cj0KCQjwsaqzBhDdARIsAK2gqndQuU_J2u9nCYyaN3fOosOnj2zhvQDz8A2gna5mndZ_QxAU-CpiI2gaAqmuEALw_wcB"><span>Break Screenwriting Contest</span></a><span>, </span><span>didn’t</span><span> plan on being a writer. Initially, he wanted to be a director at the University of Texas in </span><span>Austin’s</span><span> film school. However, that soon changed when he realized that, while he </span><span>didn’t</span><span> have the experience of being a storyteller, as someone with a bit more life experience (</span><span>he</span><span> was an Army vet before college), </span><span>he</span><span> had more stories he wanted to tell compared to his peers.</span></p> 
+
+<https://blog.finaldraft.com/how-josh-flanagan-found-his-screenwriting-calling-with-big-break>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-13, from: Neil Gaiman @ BlueSky)
+
+And I was thrilled to meet @profcarolyne.bsky.social
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kut3wnoy5f2s>
 
 ---
 
@@ -27,14 +60,13 @@ date: 2024-06-12, from: Locus Magazine
 <div class="mynomorebulletlist">
 <p><strong>Best Novel</strong></p>
 <ul>
-<li><strong>Bones and Runes</strong>, Stephen Embleton (self-published)</li>
+<li><strong>Bones and Runes</strong>, Stephen Embleton (Abibiman Publishing)</li>
 <li><strong>Dazzling</strong>, Chịkọdịlị Emelụmadụ (Wildfire)</li>
 <li><strong>Warrior of the Wind</strong>, Suyi Davies Okungbowa (Orbit)
 </li>
 <li><strong>Don’t Answer When They Call Your Name</strong>, Ukamaka Olisakwe (Griots Lounge)
 </li>
-<li><strong>Vagabonds!</strong>, Eloghosa Osunde (Riverhead)</li>
-<li><strong>Shigidi </strong></li></ul></div> <a href="https://locusmag.com/2024/06/2024-nommo-awards-shortlist/" class="read-more">...Read More </a> 
+<li><strong>Vagabonds!</strong>, Eloghosa Osunde (Riverhead)</li></ul></div> <a href="https://locusmag.com/2024/06/2024-nommo-awards-shortlist/" class="read-more">...Read More </a> 
 
 <https://locusmag.com/2024/06/2024-nommo-awards-shortlist/>
 

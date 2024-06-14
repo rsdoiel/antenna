@@ -1,11 +1,47 @@
 ---
 title: libraries 2024.24
-updated: 2024-06-13 08:24:20
+updated: 2024-06-14 07:34:20
 ---
 
 # libraries 2024.24
 
-(date: 2024-06-13 08:24:20)
+(date: 2024-06-14 07:34:20)
+
+---
+
+## The Genetic Drift of Baby Names
+
+date: 2024-06-14, from: Scholarly Kitchen
+
+<p>Why do some names fall out of fashion, and how is the study of names like the study of genetics?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/06/14/the-genetic-drift-of-baby-names/">The Genetic Drift of Baby Names</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/06/14/the-genetic-drift-of-baby-names/>
+
+---
+
+## ARL Libraries Remember Juneteenth
+
+date: 2024-06-13, from: Association of Research Libraries News
+
+<p>Last Updated on June 13, 2024, 5:05 pm ET   The following list includes events, blog posts, exhibits, and other resources from ARL member libraries in honor of Juneteenth 2024....</p>
+<p>The post <a href="https://www.arl.org/blog/arl-libraries-remember-juneteenth/">ARL Libraries Remember Juneteenth</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/blog/arl-libraries-remember-juneteenth/>
+
+---
+
+## Canadian ARL Libraries Celebrate National Indigenous History Month
+
+date: 2024-06-13, from: Association of Research Libraries News
+
+<p>Last Updated on June 13, 2024, 4:07 pm ET ARL libraries in Canada are celebrating National Indigenous History Month (NIHM) in June. See below for a roundup of their NIHM...</p>
+<p>The post <a href="https://www.arl.org/blog/canadian-arl-libraries-celebrate-national-indigenous-history-month/">Canadian ARL Libraries Celebrate National Indigenous History Month</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/blog/canadian-arl-libraries-celebrate-national-indigenous-history-month/>
 
 ---
 
@@ -47,7 +83,7 @@ date: 2024-06-12, from: Scholarly Kitchen
 
 date: 2024-06-11, from: Association of Research Libraries News
 
-<p>Last Updated on June 12, 2024, 11:21 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 11 &#124; Wednesday, June 12 &#124; Thursday,...</p>
+<p>Last Updated on June 13, 2024, 3:20 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 11 &#124; Wednesday, June 12 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-june-10-13/">Day in Review (June 10–13)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

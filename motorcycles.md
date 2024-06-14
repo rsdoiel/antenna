@@ -1,11 +1,121 @@
 ---
 title: motorcycles 2024.24
-updated: 2024-06-13 08:24:21
+updated: 2024-06-14 07:34:20
 ---
 
 # motorcycles 2024.24
 
-(date: 2024-06-13 08:24:21)
+(date: 2024-06-14 07:34:20)
+
+---
+
+## Is The Awesome and Adorable Honda Dax Finally Coming To The US?
+
+date: 2024-06-14, from: Ride Apart, Electric Motorcycle News
+
+A California Air Resources Board filing from late May, 2024 strongly points to yes. 
+
+<https://www.rideapart.com/news/723250/honda-dax-us-documents-2025/>
+
+---
+
+## Lewis Hamilton Helped Produce This Documentary on 'Motorcycle Mary' McGee
+
+date: 2024-06-14, from: Ride Apart, Electric Motorcycle News
+
+You should know her name. 
+
+<https://www.rideapart.com/news/723111/motorcycle-mary-espn-30-for-30/>
+
+---
+
+## Take A Look At Husqvarna’s Updated Enduro And Dual-Sport Lineup
+
+date: 2024-06-14, from: Ride Apart, Electric Motorcycle News
+
+More tech, improved performance, better adjustability.  
+
+<https://www.rideapart.com/news/723112/2025-husqvarna-dual-sport-enduro-bikes/>
+
+---
+
+## Win a Trip to Pastranaland and Hopefully You Won’t End up in the ER
+
+date: 2024-06-14, from: Ride Apart, Electric Motorcycle News
+
+Don't be like Streetbike Tommy, please.  
+
+<https://www.rideapart.com/news/723237/contest-win-trip-pastranaland-travis-pastrana/>
+
+---
+
+## Suzuki's Electric Motocross Patent is Essentially Just an EV-Swap
+
+date: 2024-06-14, from: Ride Apart, Electric Motorcycle News
+
+It’s essentially an electric swap on an existing platform.  
+
+<https://www.rideapart.com/news/723130/new-suzuki-patent-electric-rmz/>
+
+---
+
+## Plain text journaling
+
+date: 2024-06-14, from: Herman Bear Blog
+
+The new/old way of keeping a digital journal 
+
+<https://herman.bearblog.dev/plain-text-journaling/>
+
+---
+
+## 2024 BMW F 900 GS Ride Review
+
+date: 2024-06-13, from: Cycle World News
+
+BMW’s F 900 GS is a huge leap forward for the German manufacturer’s middleweight ADV machine. It’s lighter, slimmer, with more power and a better chassis and handling. 
+
+<https://www.cycleworld.com/motorcycle-reviews/bmw-f-900-gs-ride-review/>
+
+---
+
+## Watch This Car Try to Lane-Split and Get Sent Flying Into the Air
+
+date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
+
+Even in the diminutive Honda Fit, you can't lane-split a car.  
+
+<https://www.rideapart.com/news/723256/car-lane-splitting-fail-video/>
+
+---
+
+## How Much Power Does the 2024 Suzuki GSX-8R Make?
+
+date: 2024-06-13, from: Cycle World News
+
+The 2024 Suzuki GSX-8R gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower. 
+
+<https://www.cycleworld.com/bikes/suzuki-gsx-8r-dyno-test-2024/>
+
+---
+
+## Motorcycle Gear Friction
+
+date: 2024-06-13, from: Cycle World News
+
+Gears in a motorcycle engine are a source of friction, but some surprising things happen when those teeth come together. 
+
+<https://www.cycleworld.com/blogs/ask-kevin/motorcycle-gear-friction/>
+
+---
+
+## Bimota and Kawasaki Team Up in WorldSBK for 2025
+
+date: 2024-06-13, from: Cycle World News
+
+Bimota returns to racing in WorldSBK, replacing the factory Kawasaki team in a new strategy for both brands. 
+
+<https://www.cycleworld.com/motorcycle-racing/bimota-kawasaki-team-up-worldsbk-2025/>
 
 ---
 
@@ -59,7 +169,7 @@ It's got those drones you like from a company that rhymes with PKY, only strippe
 
 ---
 
-## Did You Know Apple Tests the iPhone's Durability With Motorcycle Engine Vibrations?
+## Did You Know Apple Tests the iPhone's Durability With Motorcycle Vibrations?
 
 date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
 
@@ -416,14 +526,4 @@ date: 2024-06-09, from: Ride Apart, Electric Motorcycle News
 Where does one sign up? 
 
 <https://www.rideapart.com/news/722567/ducati-swapped-go-kart-video-wheelies/>
-
----
-
-## How Much Power Does the 2024 Suzuki GSX-8R Make?
-
-date: 2024-06-09, from: Cycle World News
-
-The 2024 Suzuki GSX-8R gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower. 
-
-<https://www.cycleworld.com/bikes/suzuki-gsx-8r-dyno-test-2024/>
 

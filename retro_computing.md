@@ -1,11 +1,55 @@
 ---
 title: retro computing 2024.24
-updated: 2024-06-13 08:24:21
+updated: 2024-06-14 07:34:21
 ---
 
 # retro computing 2024.24
 
-(date: 2024-06-13 08:24:21)
+(date: 2024-06-14 07:34:21)
+
+---
+
+## Haskell for the Impatient: Algebraic effects
+
+date: 2024-06-14, from: James Hobson blog
+
+This is the second post in the Haskell for the Impatient series. The required knowledge is:
+Monads Haskell data types GADTs I&rsquo;m going to try a different writing style this time. A kind of Q&amp;A between you and me. Hopefully it&rsquo;s a bit less dry.
+Why am I here? You are here to learn about algebraic effects!
+So why am I handcuffed to a radiator? In my short experiance as a haskell educator, this seems to have been a necessary pre-requisite to learning about algebraic effects. 
+
+</posts/posts/algebraic-effects/>
+
+---
+
+## Haskell for the Impatient: F-Algebras
+
+date: 2024-06-14, from: James Hobson blog
+
+F-Algebras This is the first blog post in the Haskell for the Impatient series. The required knowledge is:
+Haskell Data Types Folds Functors (It&rsquo;s what the F stands for!) Motivations When I talk about folds, I am not referring to Foldable, I am referring to natural folds. This is when you take a data structure, e.g. a list, and you replace the constructors of that list with something else. An example of a natural fold is foldr. 
+
+</posts/posts/algebras/>
+
+---
+
+## Rougol June 2024 meeting on monday
+
+date: 2024-06-14, from: Icon Bar, RISC OS News
+
+The June 2024 Rougol meeting is on Monday 17th June 
+
+<http://www.iconbar.com/comments/rss/news2071.html>
+
+---
+
+## Haskell for the Impatient
+
+date: 2024-06-13, from: James Hobson blog
+
+Haskell for the Impatient Learning haskell is a strange journey. You will probably start with some textbook, such as &lsquo;Learn you a Haskell&rsquo;, which will take you from no knowledge, right up to enough to write programs&hellip; badly; you obviously should learn more. Real World Haskell gets you a bit further (although it&rsquo;s quite outdated) but stops pretty soon as well. At this point there is no obvious path of where to go next. 
+
+</posts/posts/impatient-haskell/>
 
 ---
 

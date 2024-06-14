@@ -1,11 +1,31 @@
 ---
 title: journalism 2024.24
-updated: 2024-06-13 08:24:20
+updated: 2024-06-14 07:34:19
 ---
 
 # journalism 2024.24
 
-(date: 2024-06-13 08:24:20)
+(date: 2024-06-14 07:34:19)
+
+---
+
+## Business Insider’s owner signed a huge OpenAI deal. ChatGPT still won’t credit the site’s biggest scoops
+
+date: 2024-06-13, from: Nieman Journalism Lab
+
+On Wednesday, the Insider Union called on Business Insider management to share details on the licensing deal it inked with OpenAI late last year. The letter, obtained by Nieman Lab and addressed to Business Insider CEO Barbara Peng and chief revenue officer Maggie Milnamow, represents a growing demand in newsrooms for transparency about the terms... 
+
+<https://www.niemanlab.org/2024/06/insider-union-chatgpt-hallucinating-links-business-insider-articles-openai-deal/>
+
+---
+
+## How Newslaundry worked with its users to make its journalism more accessible
+
+date: 2024-06-13, from: Nieman Journalism Lab
+
+In 2022, a subscriber wrote to the Indian news outlet Newslaundry. He said that he paid for his subscription, but was also blind, and found it unfair that he wasn&#8217;t always able to access it in a way that worked for him. Another user reached out to saying she was preparing for exams and needed... 
+
+<https://www.niemanlab.org/2024/06/how-newslaundry-worked-with-its-users-to-make-its-journalism-more-accessible/>
 
 ---
 

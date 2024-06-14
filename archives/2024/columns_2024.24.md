@@ -1,11 +1,282 @@
 ---
 title: columns 2024.24
-updated: 2024-06-13 08:24:19
+updated: 2024-06-14 07:34:18
 ---
 
 # columns 2024.24
 
-(date: 2024-06-13 08:24:19)
+(date: 2024-06-14 07:34:18)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-14, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/14/julieAndrews.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'd like YouTube TV to let me block Fox News. It shows up on their home screen as the default channel and it starts playing automatically. For some reason they've decided I want or need to watch Fox News. Please stop doing that. Not just for me, for everyone. If there has to be a default make it something easy like Seinfeld perhaps. Or Law & Order. I haven't switched from Spectrum, I'm trying YouTube TV while I think about switching. This is a small thing, but might be a deal-stopper. I don't want my nose rubbed in how evil they are. I know. I want to turn on TV to escape. A Julie Andrews movie perhaps. 
+
+<http://scripting.com/2024/06/14.html#a130254>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-14, from: Dave Winer's Scripting News)
+
+I hate sticky keyboards. Very low tolerance. 
+
+<http://scripting.com/2024/06/14.html#a130241>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-14, from: Dave Winer's Scripting News)
+
+Matt Terenzio, who has been a friend for many years, <a href="https://mastodon.social/@librenews/112615016271629839">threw a fat pitch</a> about people like me who think the NY Times has a lot of explaining to do. I don't think anyone is listening, but my issue with the Times is when they embrace and promote conspiracy theories that damage our political system. Matt says we have many truths, and I think that's where we differ, there has to be one truth when it comes to accusations of the kind that the Repubs throw at Democratic candidates and minorities. When they take a side against the people, that's when I have a problem. 
+
+<http://scripting.com/2024/06/14.html#a125646>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-14, from: Dave Winer's Scripting News)
+
+Thanks Mr President. <a href="https://www.youtube.com/watch?v=VC2SshZ373M">This</a> needed to be said. 
+
+<http://scripting.com/2024/06/14.html#a124437>
+
+---
+
+## Demo of AES GCM Misuse Problems
+
+date: 2024-06-14, updated: 2024-06-11, from: Bruce Schneier blog
+
+<p>This is  really neat <a href="https://infosec.exchange/@fre/112586389698033590">demo</a> of the security problems arising from reusing nonces with a symmetric cipher in GCM mode.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/06/demo-of-aes-gcm-misuse-problems.html>
+
+---
+
+## 2024-06-14 Morality, justice and the law
+
+date: 2024-06-14, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-14-morality-justice-and-the-law">2024-06-14 Morality, justice and the law</h1>
+
+<p>Some actions are legal and still reprehensible. People won&rsquo;t get punished by the state or the police but that doesn&rsquo;t protect them from scorn, disdain, harsh comments and insults. Actions have consequences.</p>
+
+<p>Perhaps some people need to see it spelled out. I think when I was young I also needed somebody to tell me because when I grew up, I thought that the state is great, the law is great, and we&rsquo;re all good people. But morality, justice and the law are not the same. The law only concerns the things were the state will come and impose fines and punishment. Justice is the thing we aspire to (but which the state often cannot deliver). And the moral good goes further than that.</p>
+
+<p>To be morally good or bad is different from being just or unjust and that is different from something being legal or illegal.</p>
+
+<p>So please, when people say that something is reprehensible they usually don&rsquo;t care whether it was legal or not because they aren&rsquo;t going to call the cops. It&rsquo;s an occasion to be happy for just being called names, for only getting demeaned and ridiculed, for just getting inundated with mails and complaints. It&rsquo;s a learning opportunity because when the cops show up and take your stuff, when you get invitations to show up in court, when the bills start coming in, then it&rsquo;s worse. Much worse.</p>
+
+<p>I&rsquo;ve seen this a few times on fedi, now. Somebody thinks it&rsquo;s OK to index all the status messages for their search engine, ingest all the status messages for their sentiment analysis or for their training data, and then they&rsquo;re surprised when people get angry. A discussion ensues, and some people will say, hey, it was not illegal now, was it? Therefore there&rsquo;s no point in getting angry or acting surprised.</p>
+
+<p>This misunderstands how humans manage to live together. When I was young and learned about hackers breaking into computer systems cheered for them because I didn&rsquo;t like the corporations. And if it wasn&rsquo;t illegal it was good or something like that. I was confused. But now, as I look around, I see defence in depth all around me. The garden fence has a gate that is trivial to jump over and to open, but to do so invites trouble. Whether jumping the fence is legal or illegal doesn&rsquo;t matter at first. Perhaps somebody runs away from bullies or creeps and they&rsquo;re welcome to jump that fence and escape. Things are negotiable. In a civilized world, many things need to happen before the state needs to get involved, and this is how it is supposed to be. Differences can be resolved.</p>
+
+<p>A recent example of what I&rsquo;m talking about:</p>
+
+<blockquote>
+<p>A recent investigation by Liaizon Wakest revealed that Maven, a new social network founded by former OpenAI Team Lead Ken Stanley, has been importing a vast amount of statuses from Mastodon without anyone’s consent. – <a href="https://wedistribute.org/2024/06/maven-mastodon-posts/">Maven Imported 1.12 Million Fediverse Posts</a>, by <a href="https://deadsuperhero.com/">Sean Tilley</a></p>
+</blockquote>
+
+<p>People react harshly:</p>
+
+<blockquote>
+<p>I can’t emphasize enough how much I would love if all the data centers containing the code running these things, across every network, just suddenly exploded. Take it all back to zero, and then put up a digital wall, like in Cyberpunk 2077 when they built a whole new internet that isn’t infested with garbage. – <a href="https://cmdr-nova.online/2024/06/13/hey-its-maven-whos-maven/">Hey It’s Maven! Who’s Maven?</a>, by <a class="account" href="https://cmdr-nova.online/author/cmdr_nova/" title="@cmdr_nova@cmdr-nova.online">@cmdr_nova</a></p>
+</blockquote>
+
+<p>&ldquo;Move fast and break things&rdquo; is shit advice.</p>
+
+<p>&ldquo;Act now and ask for forgiveness later&rdquo; is shit advice.</p>
+
+<p>It breaks all the good will accumulated so far and it&rsquo;ll take a lifetime to rebuild.</p>
+
+<p>The advice that has been true for generations is: &ldquo;Ask politely and respect the answers given&rdquo;.</p>
+
+<blockquote>
+<p>So there&rsquo;s a difference in opinion in the fediverse on whether it&rsquo;s important to get consent to use somebody&rsquo;s public posts for a purpose they didn&rsquo;t originally intend it for: adding them to a search engine, using them as part of algorithmic recommendation systems, &ldquo;bridging&rdquo; them to another social networks, using it to train artificial intelligence systems, and so on. Some think this is just fine, or that it&rsquo;s enough to assume consent and give people the ability to &ldquo;opt out&rdquo; and withdraw consent.  Others think that these uses should require informed, affirmative, &ldquo;opt in&rdquo; consent. – <a href="https://nexusofprivacy.net/consent-for-fediverse-developers/">Eight tips about consent for fediverse developers</a>, for <a class="account" href="https://mastodon.social/@nexusofprivacy" title="@nexusofprivacy@mastodon.social">@nexusofprivacy</a>, by <a class="account" href="https://blahaj.zone/@jdp23" title="@jdp23@blahaj.zone">@jdp23</a></p>
+</blockquote>
+
+<p><a class="tag" href="/search/?q=%23Philosophy">#Philosophy</a></p> 
+
+<https://alexschroeder.ch/view/2024-06-14-law>
+
+---
+
+## Access
+
+date: 2024-06-14, from: John's World Wide Wall Display
+
+warning parents that although they think they are giving their children access to the internet, they are really giving the internet access to their children. I&#8217;ve not listened to this yet but this jumped out at me. 
+
+<https://johnjohnston.info/blog/access/>
+
+---
+
+## Debunking Myth #3: “The rich deserve to be rich”
+
+date: 2024-06-14, from: Robert Reich's blog
+
+Friends, Don&#8217;t be fooled by the myth that people are paid what they&#8217;re &#8220;worth&#8221; &#8212; that the rich deserve their ever-increasing incomes and wealth because they&#8217;re worth far more to the economy now than years ago (when the incomes and wealth of those at the top were more modest relative to everyone else&#8217;s). 
+
+<https://robertreich.substack.com/p/debunking-myth-3-the-rich-deserve>
+
+---
+
+## June 13, 2024
+
+date: 2024-06-14, from: Heather Cox Richardson blog
+
+The Port of Baltimore reopened yesterday, fewer than 100 days after a container ship hit the Francis Scott Key Bridge on March 26, collapsing it into the channel. The port is a major shipping hub, especially for imports and exports of cars and light trucks&#8212;about 750,000 vehicles went through it in 2022. It is also the nation&#8217;s second-biggest exporter of coal. In 2023 it moved a record-breaking $80 billion worth of foreign cargo. 
+
+<https://heathercoxrichardson.substack.com/p/june-13-2024>
+
+---
+
+## Wayne Ma Confirms That Mark Gurman Scooped Him on the No-Cash Apple-OpenAI Deal
+
+date: 2024-06-13, updated: 2024-06-13, from: Daring Fireball
+
+ 
+
+<https://www.theinformation.com/briefings/apple-openai-arent-paying-each-other-for-chatgpt-on-iphone?rc=jfy0lk>
+
+---
+
+## Friday 14 June, 2024
+
+date: 2024-06-13, from: John Naughton's online diary
+
+Street furniture London, near King’s Cross Quote of the Day ”Always tell the truth and no one will believe you.” Ronald Knox Musical alternative to the morning’s radio news Händel &#124; Suite in G minor, HWV 452 &#124; Keith Jarrett &#8230; <a href="https://memex.naughtons.org/friday-14-june-2024/39538/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-14-june-2024/39538/>
+
+---
+
+##  Gone Swimming, With Tara Booth 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/gone-swimming-with-tara-booth>
+
+---
+
+## Gurman: Neither Apple Nor OpenAI Are Paying for Partnership
+
+date: 2024-06-13, updated: 2024-06-13, from: Daring Fireball
+
+ 
+
+<https://www.bloomberg.com/news/articles/2024-06-12/apple-to-pay-openai-for-chatgpt-through-distribution-not-cash>
+
+---
+
+##  Paul Theroux: &#8220;In the short run, criticism seems to have merit; in... 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044783-paul-theroux-in-the-short>
+
+---
+
+##  Is everyone really taking steroids? Rosecrans Baldwin says yes: &#8220;Someone in your... 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044782-is-everyone-really-taking>
+
+---
+
+## ‘The Shamans and the Chieftain’
+
+date: 2024-06-13, updated: 2024-06-13, from: Daring Fireball
+
+ 
+
+<https://snyder.substack.com/p/a-short-course-in-the-rule-of-law>
+
+---
+
+##  What Does &#8216;Havering&#8217; Mean? 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/what-does-havering-mean>
+
+---
+
+##  Pretty dark but also fascinating: &#8220;ancient DNA extracted from 64 of the... 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044807-pretty-dark-but-also-fasc>
+
+---
+
+## This Is Love
+
+date: 2024-06-13, updated: 2024-06-13, from: Daring Fireball
+
+ 
+
+<https://talkingpointsmemo.com/edblog/photo-of-the-day-7>
+
+---
+
+## June 12, 2024
+
+date: 2024-06-13, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/june-12-2024-ef5>
+
+---
+
+##  Diary Comics, Jan. 2 & 11 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/diary-comics-jan-2-11>
+
+---
+
+##  An analysis of the easiest & hardest puzzles from the NY Times&#8217;... 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044769-an-analysis-of-the-easies>
+
+---
+
+##  &#8220;How the Fridge Changed Flavor&#8221; 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/how-the-fridge-changed-flavor>
+
+---
+
+##  A short oral history of pioneering Chicago house anthem Move Your Body.... 
+
+date: 2024-06-13, updated: 2024-06-13, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044795-a-short-oral-history-of-1>
 
 ---
 
@@ -357,7 +628,7 @@ Is this the <a href="https://x.com/davewiner/status/1800879295063003367">user ex
 
 ## Using AI for Political Polling
 
-date: 2024-06-12, updated: 2024-06-11, from: Bruce Schneier blog
+date: 2024-06-12, updated: 2024-06-13, from: Bruce Schneier blog
 
 <p>Public polling is a critical function of modern political campaigns and movements, but it isn&#8217;t what it once was. Recent US election cycles have <a href="https://www.theatlantic.com/ideas/archive/2020/11/polling-catastrophe/616986/">produced</a> <a href="https://www.pewresearch.org/short-reads/2016/11/09/why-2016-election-polls-missed-their-mark/">copious</a> <a href="https://www.pewresearch.org/methods/2021/03/02/what-2020s-election-poll-errors-tell-us-about-the-accuracy-of-issue-polling/#:~:text=Most%20preelection%20polls%20in%202020,close%20when%20it%20was%20not.">postmortems</a> explaining both the successes and the flaws of public polling. There are two main reasons polling fails.</p>
 <p>First, nonresponse has skyrocketed. It&#8217;s radically harder to reach people than it used to be. Few people fill out surveys that come in the mail anymore. Few people answer their phone when a stranger calls. Pew Research <a href="https://www.pewresearch.org/short-reads/2019/02/27/response-rates-in-telephone-surveys-have-resumed-their-decline/">reported</a> that 36% of the people they called in 1997 would talk to them, but only 6% by 2018. Pollsters worldwide have faced similar challenges...</p> 
@@ -704,7 +975,7 @@ date: 2024-06-11, from: Alex Schroeder's Blog
 
 ## LLMs Acting Deceptively
 
-date: 2024-06-11, updated: 2024-06-06, from: Bruce Schneier blog
+date: 2024-06-11, updated: 2024-06-14, from: Bruce Schneier blog
 
 <p>New research: &#8220;<a href="https://www.pnas.org/doi/full/10.1073/pnas.2317967121">Deception abilities emerged in large language models</a>&#8220;:</p>
 <blockquote><p><b>Abstract:</b> Large language models (LLMs) are currently at the forefront of intertwining AI systems with human communication and everyday life. Thus, aligning them with human values is of great importance. However, given the steady increase in reasoning abilities, future LLMs are under suspicion of becoming able to deceive human operators and utilizing this ability to bypass monitoring efforts. As a prerequisite to this, LLMs need to possess a conceptual understanding of deception strategies. This study reveals that such strategies emerged in state-of-the-art LLMs, but were nonexistent in earlier LLMs. We conduct a series of experiments showing that state-of-the-art LLMs are able to understand and induce false beliefs in other agents, that their performance in complex deception scenarios can be amplified utilizing chain-of-thought reasoning, and that eliciting Machiavellianism in LLMs can trigger misaligned deceptive behavior. GPT-4, for instance, exhibits deceptive behavior in simple test scenarios 99.16% of the time (P &#60; 0.001). In complex second-order deception test scenarios where the aim is to mislead someone who expects to be deceived, GPT-4 resorts to deceptive behavior 71.46% of the time (P &#60; 0.001) when augmented with chain-of-thought reasoning. In sum, revealing hitherto unknown machine behavior in LLMs, our study contributes to the nascent field of machine psychology...</p></blockquote> 
@@ -983,10 +1254,10 @@ Greetings from the Catskills where it's a bright early summer day.
 
 ## Exploiting Mistyped URLs
 
-date: 2024-06-10, updated: 2024-06-06, from: Bruce Schneier blog
+date: 2024-06-10, updated: 2024-06-13, from: Bruce Schneier blog
 
 <p>Interesting research: &#8220;<a href="https://dl.acm.org/doi/10.1145/3589334.3645510">Hyperlink Hijacking: Exploiting Erroneous URL Links to Phantom Domains</a>&#8220;:</p>
-<blockquote><p><b>Abstract:</b> Web users often follow hyperlinks hastily, expecting them to be correctly programmed. However, it is possible those links contain typos or other mistakes. By discovering active but erroneous hyperlinks, a malicious actor can spoof a website or service, impersonating the expected content and phishing private information. In &#8220;typosquatting,&#8221; misspellings of common domains are registered to exploit errors when users mistype a web address. Yet, no prior research has been dedicated to situations where the linking errors of web publishers (i.e. developers and content contributors) propagate to users. We hypothesize that these &#8220;hijackable hyperlinks&#8221; exist in large quantities with the potential to generate substantial traffic. Analyzing large-scale crawls of the web using high-performance computing, we show the web currently contains active links to more than 572,000 dot-com domains that have never been registered, what we term &#8216;phantom domains.&#8217; Registering 51 of these, we see 88% of phantom domains exceeding the traffic of a control domain, with up to 10 times more visits. Our analysis shows that these links exist due to 17 common publisher error modes, with the phantom domains they point to free for anyone to purchase and exploit for under 20, representing a low barrier to entry for potential attackers...</p></blockquote> 
+<blockquote><p><b>Abstract:</b> Web users often follow hyperlinks hastily, expecting them to be correctly programmed. However, it is possible those links contain typos or other mistakes. By discovering active but erroneous hyperlinks, a malicious actor can spoof a website or service, impersonating the expected content and phishing private information. In &#8220;typosquatting,&#8221; misspellings of common domains are registered to exploit errors when users mistype a web address. Yet, no prior research has been dedicated to situations where the linking errors of web publishers (i.e. developers and content contributors) propagate to users. We hypothesize that these &#8220;hijackable hyperlinks&#8221; exist in large quantities with the potential to generate substantial traffic. Analyzing large-scale crawls of the web using high-performance computing, we show the web currently contains active links to more than 572,000 dot-com domains that have never been registered, what we term &#8216;phantom domains.&#8217; Registering 51 of these, we see 88% of phantom domains exceeding the traffic of a control domain, with up to 10 times more visits. Our analysis shows that these links exist due to 17 common publisher error modes, with the phantom domains they point to free for anyone to purchase and exploit for under $20, representing a low barrier to entry for potential attackers...</p></blockquote> 
 
 <https://www.schneier.com/blog/archives/2024/06/exploiting-mistyped-urls.html>
 

@@ -1,11 +1,21 @@
 ---
 title: home 2024.24
-updated: 2024-06-13 08:24:20
+updated: 2024-06-14 07:34:20
 ---
 
 # home 2024.24
 
-(date: 2024-06-13 08:24:20)
+(date: 2024-06-14 07:34:20)
+
+---
+
+## CDFA special investigators honored for their work to stop skimmer fraud suspects
+
+date: 2024-06-13, from: Calfifornia Dept. Aggriculture blog
+
+Two special investigators in CDFA&#8217;s Division of Measurement Standards (DMS), Jamie Quiroz and Dirk Rudolph, were recently honored by the US Attorney&#8217;s Office at an &#8220;Excellence in the Pursuit of Justice&#8221; awards ceremony hosted by the federal agency. The investigative &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27852">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27852>
 
 ---
 

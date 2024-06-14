@@ -1,17 +1,95 @@
 ---
 title: socal north 2024.24
-updated: 2024-06-13 08:24:16
+updated: 2024-06-14 07:34:16
 ---
 
 # socal north 2024.24
 
-(date: 2024-06-13 08:24:16)
+(date: 2024-06-14 07:34:16)
+
+---
+
+## Concert review: Vampire Weekend provides spirited performance of new, past hits at Hollywood Bowl
+
+date: 2024-06-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+After nearly two decades, Vampire Weekend is still performing with the same nerdy charm of a college band.
+The indie pop and rock group, which formed at Columbia University in 2006, delivered both skillful musicianship and summery vibes in its sold-out performance Wednesday night at the Hollywood Bowl. 
+
+<https://dailybruin.com/2024/06/13/vampire-weekend-provides-spirited-performance-of-new-past-hits-at-hollywood-bowl/>
+
+---
+
+## Pro-Palestine group claims credit for alleged arson at UC Berkeley
+
+date: 2024-06-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+A pro-Palestine group claimed credit for an alleged arson on the UC Berkeley campus, saying it was started in retribution for arrests made at UCLA on Monday. 
+
+<https://dailybruin.com/2024/06/13/pro-palestine-group-claims-credit-for-alleged-arson-at-uc-berkeley/>
+
+---
+
+## Gavin Newsom And Top Democrats Are Deciding California’s Budget Behind Closed Doors
+
+date: 2024-06-13, updated: 2024-06-13, from: The LAist
+
+The Legislature passes a placeholder state budget, but must still negotiate with Gov. Newsom on the final deal. How the state spends taxpayer money is largely being decided out of public view. 
+
+<https://laist.com/news/politics/gavin-newsom-and-top-democrats-are-deciding-californias-budget-behind-closed-doors>
+
+---
+
+## Jerry West, Lakers Hall of Fame Player, Executive Dies at 86
+
+date: 2024-06-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="256" height="328" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/256px-Jerry_West_LA.jpg?fit=256%2C328&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Photo of Jerry West in 2010" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/256px-Jerry_West_LA.jpg?w=256&amp;ssl=1 256w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/256px-Jerry_West_LA.jpg?resize=234%2C300&amp;ssl=1 234w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/256px-Jerry_West_LA.jpg?fit=256%2C328&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/256px-Jerry_West_LA.jpg?fit=256%2C328&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; Jerry West, a Hall of Fame basketball icon who won an NBA championship with the Los Angeles Lakers and was an executive during the Showtime Lakers [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/13/jerry-west-lakers-hall-of-fame-player-executive-dies-at-86/">Jerry West, Lakers Hall of Fame Player, Executive Dies at 86</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/13/jerry-west-lakers-hall-of-fame-player-executive-dies-at-86/>
+
+---
+
+## Occidental Board says no to Oxy SJP and JVP divestment demands. “Stay tuned,” says Oxy SJP
+
+date: 2024-06-13, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The Board’s Announcement In a June 10 email from the Occidental Board of Trustees, Board Chair Lisa H. Link P’18 announced the rejection of a divestment proposal from Oxy Students for Justice in Palestine (Oxy SJP) and Oxy Jewish Voice for Peace (Oxy JVP). The announcement comes a month to the day after Oxy SJP, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/06/13/occidental-board-says-no-to-oxy-sjp-and-jvp-divestment-demands-stay-tuned-says-oxy-sjp/2912481">Occidental Board says no to Oxy SJP and JVP divestment demands. “Stay tuned,” says Oxy SJP</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/06/13/occidental-board-says-no-to-oxy-sjp-and-jvp-divestment-demands-stay-tuned-says-oxy-sjp/2912481>
+
+---
+
+## Here’s What Students With Learning Disabilities Need To Know Before Enrolling In Community College
+
+date: 2024-06-13, updated: 2024-06-13, from: The LAist
+
+There’s a lot of help available, but students have to take the first step. 
+
+<https://laist.com/news/education/learning-disabilities-community-college-special-needs-students-accommodations>
+
+---
+
+## Dive into Water Safety!
+
+date: 2024-06-13, from: City of Santa Clarita
+
+<p>By Councilwoman Marsha McLean&#160; It is disturbing and unfortunate that children ages one to four have the highest drowning rate.&#160; According to the Centers for Disease Control and Prevention, fatal drowning is the leading cause of death for children and the second leading cause of unintentional deaths. As a mother and grandmother living in Southern [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/06/13/dive-into-water-safety/">Dive into Water Safety!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/06/13/dive-into-water-safety/>
 
 ---
 
 ## What Is Transitional Kindergarten? What to Expect When Enrolling Your Child
 
-date: 2024-06-13, updated: 2024-06-13, from: The LAist
+date: 2024-06-13, updated: 2024-06-14, from: The LAist
 
 California is making transitional kindergarten available to all 4-year-olds. So what is it, and how do you know if it’s right for your child and your family? 
 
@@ -23,7 +101,7 @@ California is making transitional kindergarten available to all 4-year-olds. So 
 
 date: 2024-06-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Just-Say-No_SN_02_elsol-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>El día antes de que terminara el año escolar en la Escuela Primaria Pacoima Charter Elementary, el Oficial Principal del Departamento de Policía de Los Ángeles, Michael Scott, reunió a [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/06/12/estudiantes-de-pacoima-siguen-comprometiendose-a-decir-no-a-las-drogas-y-las-pandillas/">Estudiantes de Pacoima Siguen Comprometiéndose a Decir No a las Drogas y las Pandillas</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
