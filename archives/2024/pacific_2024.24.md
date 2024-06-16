@@ -1,3360 +1,405 @@
 ---
 title: pacific 2024.24
-updated: 2024-06-15 17:33:50
+updated: 2024-06-16 13:04:21
 ---
 
 # pacific 2024.24
 
-(date: 2024-06-15 17:33:50)
+(date: 2024-06-16 13:04:21)
 
 ---
 
-## UH technology startup provides flood monitoring, real-time data in Maryland
+## BC’s Tales of the Pacific ǀ The incredible life of James O’Connell
 
-date: 2024-06-14, from: University of Hawaiʻi News
+date: 2024-06-16, updated: 2024-06-16, from: Marianas Variety
 
-<p>The data collected with Hohonu’s low-cost sensors and software will track and measure flooding to inform emergency management, adaptation and mitigation efforts.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/14/hohonu-flood-monitor/"><abbr>UH</abbr> technology startup provides flood monitoring, real-time data in Maryland</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+“IT was not much of a living, but taking money from people just so they could look at my tattoos seemed like an easy way to get by.  But the markings were nothing compared to the story of how I got them.  Have you ever heard of Pohnpei?” 
 
-<https://www.hawaii.edu/news/2024/06/14/hohonu-flood-monitor/>
+<https://www.mvariety.com/views/columnists/bc-s-tales-of-the-pacific-the-incredible-life-of-james-o-connell/article_dbd15a7a-2ba2-11ef-9775-7f49b440c4b4.html>
 
 ---
 
-## Joint Task Force Micronesia eyes strong deterrence to prevent conflict
+## FEATURE ǀ Celebrating 80 years of peace in the Pacific
 
-date: 2024-06-14, from: Pacific Island Times
+date: 2024-06-16, updated: 2024-06-16, from: Marianas Variety
 
-By Pacific Island Times News Staff Rear Adm. Gregory C. Huffman today officially assumed command of the Joint Task Force-Micronesia... 
+The following is the text of the author’s remarks during the commemoration of the 80th anniversary of the Battle of Saipan at American Memorial Park on June 15, 2024. 
 
-<https://www.pacificislandtimes.com/post/joint-task-force-micronesia-eyes-strong-deterrence-to-prevent-conflict>
+<https://www.mvariety.com/views/columnists/feature-celebrating-80-years-of-peace-in-the-pacific/article_76ed4fa0-2ba3-11ef-bf42-2b3d28d7751f.html>
 
 ---
 
-## Take two: Guam's open government law supersedes confidentiality in public affairs
+## 'A gesture of peace'
 
-date: 2024-06-14, from: Pacific Island Times
+date: 2024-06-16, updated: 2024-06-16, from: Marianas Variety
 
-Moylan asks the court to rehear conflict-of-interest case By Mar-Vic Cagurangan Attorney General Douglas Moylan today asked the Supreme... 
+A GESTURE of peace. 
 
-<https://www.pacificislandtimes.com/post/take-two-moylan-asks-the-court-to-rehear-case-on-attorney-general-s-duties>
+<https://www.mvariety.com/news/local/a-gesture-of-peace/article_e292ffe8-2bbc-11ef-b370-9b1cbe6a1cc3.html>
 
 ---
 
-## Want savings on energy-efficient home upgrades? A new tool can help you save big
+## Federal financial aid available for students enrolled in NMC’s fall semester
 
-date: 2024-06-14, updated: 2024-06-14, from: Marianas Variety
+date: 2024-06-16, updated: 2024-06-16, from: Marianas Variety
 
-(BPT) - As a homeowner, you may have heard about incentives to tackle climate change that are available as a result of the Inflation Reduction Act (IRA), a large piece of legislation that was passed last year. Many of its opportunities focus directly on your personal slice of the American dream — your home. The EPA’s ENERGY STAR program just launched a new tool that can help you find all of the savings available to you. 
+(NMC) —  Qualified Northern Marianas College students who are looking to access financial aid can receive up to $7,365 in Pell Grants for NMC’s fall 2024 semester if they submit the 2024-2025 Free Application for Federal Financial Aid and the supporting documents before Aug. 15, 2024. 
 
-<https://www.mvariety.com/online_features/senior_living/want-savings-on-energy-efficient-home-upgrades-a-new-tool-can-help-you-save-big/article_cc9abb17-caac-5989-81d3-88a2e6f1eace.html>
+<https://www.mvariety.com/news/community_bulletins/federal-financial-aid-available-for-students-enrolled-in-nmc-s-fall-semester/article_ab30a876-2bac-11ef-a5d2-3f604696f648.html>
 
 ---
 
-## Everything You Need To Know To Host An Epic Summer Pool Party
+## 80 years of peace in the Pacific
 
-date: 2024-06-14, updated: 2024-06-14, from: Marianas Variety
+date: 2024-06-16, updated: 2024-06-16, from: Marianas Variety
 
-(BPT) - Summer has arrived! If you're lucky enough to find a pool to spend the summer by, a pool party is a must. Whether you're taking advantage of the sunshine and hot weather during the day or enjoying a warm evening, all it takes is a little bit of planning to upgrade your poolside bash. 
+U.S. military and CNMI officials on Friday commemorated the 80th anniversary of the Battle of Saipan and Tinian with a gathering at invasion beach, a motorcade, a wreath-laying ceremony at American Memorial Park, a flyover and other activities. 
 
-<https://www.mvariety.com/online_features/lawn_and_garden/everything-you-need-to-know-to-host-an-epic-summer-pool-party/article_b7bd8b19-40d9-5ac9-9823-c69a8d3a7909.html>
+<https://www.mvariety.com/news/local/80-years-of-peace-in-the-pacific/article_cdf3c15e-2bca-11ef-94b3-c385aa6d2001.html>
 
 ---
 
-## Does your head ache? Discover how chiropractic care can help
+## Saipan Chamber of Commerce to hold webinars for annual scholarship program
 
-date: 2024-06-14, updated: 2024-06-14, from: Marianas Variety
+date: 2024-06-16, updated: 2024-06-16, from: Marianas Variety
 
-(BPT) - Do you regularly experience headaches or migraines? You’re not alone. Headache disorders, including migraines, tension headaches and cluster headaches, are some of the most common nervous system disorders. 
+(SCC) —  The Saipan Chamber of Commerce is excited to announce two upcoming webinars designed to provide detailed information about its annual scholarship program. The webinars will be held on June 17 and June 24, from 5 p.m. to 6 p.m. These virtual sessions are scheduled to accommodate the busy schedules of working students. 
 
-<https://www.mvariety.com/online_features/health_and_wellness/does-your-head-ache-discover-how-chiropractic-care-can-help/article_d6b15b14-294c-5f94-bfc7-0c2808c4cf1f.html>
+<https://www.mvariety.com/news/community_bulletins/saipan-chamber-of-commerce-to-hold-webinars-for-annual-scholarship-program/article_e210d8e0-2ba5-11ef-a5b2-5fc4cbf8cd9f.html>
 
 ---
 
-## The AI Effect:  Green Product Design Sees Sharp Increase
+## Joint Task Force Micronesia holds assumption of command ceremony
 
-date: 2024-06-14, updated: 2024-06-14, from: Marianas Variety
+date: 2024-06-16, updated: 2024-06-16, from: Marianas Variety
 
-(NAPSI)—Good news for people concerned about the planet. Today’s resourceful industrial designers and engineers are utilizing artificial intelligence (AI) to develop quality products and limit environmental impacts. 
+ANDERSEN AIR FORCE BASE, Guam — Adm. Samuel J. Paparo, commander of U.S. Indo-Pacific Command, presided over the establishment ceremony of Joint Task Force-Micronesia or JTF-M at Andersen Air Force Base, Guam on June 14, 2024, where Rear Adm. Gregory C. Huffman assumed command. 
 
-<https://www.mvariety.com/online_features/green_living/the-ai-effect-green-product-design-sees-sharp-increase/article_a1e892bf-c92d-52ae-9b7b-7be5f73289dc.html>
+<https://www.mvariety.com/news/local/joint-task-force-micronesia-holds-assumption-of-command-ceremony/article_adaf3d3c-2ba8-11ef-a0bc-ebb4cea5818d.html>
 
 ---
 
-## Celtics vow to maintain fight even with commanding Finals lead
+## Liberation Day sponsor
 
-date: 2024-06-14, from: Hawaii Tribune Harold
+date: 2024-06-16, updated: 2024-06-16, from: Marianas Variety
 
+Marianas Variety President Amier C. Younis and Liberation Day Committee Chair Delbert Pua hold a ceremonial check for $10,000, representing MV’s in-kind donation to this year’s festivities. 
 
-				<p>Although the Celtics hold a commanding 3-0 lead over the Dallas Mavericks in the NBA Finals, Boston coach Joe Mazzulla realizes the fight is far from over.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/sports/celtics-vow-to-maintain-fight-even-with-commanding-finals-lead/>
-
----
-
-## MLB roundup: Royals stun Yanks with late rally
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>Maikel Garcia&#8217;s ninth-inning double boosted the host Kansas City Royals past the New York Yankees 4-3 on Thursday afternoon to avoid a four-game sweep.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/sports/mlb-roundup-royals-stun-yanks-with-late-rally/>
-
----
-
-## McIlroy shares U.S. Open lead with Cantlay after bogey-free start SOURCE:
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>Rory McIlroy, looking to snap a 10-year major drought, capped a flawless outing with a birdie to join Patrick Cantlay atop the first-round U.S. Open leaderboard on Thursday at Pinehurst Resort in North Carolina.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/sports/mcilroy-shares-u-s-open-lead-with-cantlay-after-bogey-free-start-source/>
-
----
-
-## Why Dan Hurley ultimately decided he couldn’t leave UConn for the Lakers
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>STORRS, Conn. &#8212; Dan Hurley was tempted by the Los Angeles Lakers&#8217; organization and the head coaching opportunity he was presented, but there were ultimately too many reasons to stay in Connecticut.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/sports/why-dan-hurley-ultimately-decided-he-couldnt-leave-uconn-for-the-lakers/>
-
----
-
-## ‘This is a broken system’: Effort to reform Child Welfare Services gains momentum
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>Concerned community members have banded together to reform Hawaii&#8217;s child welfare system to better serve the most vulnerable families and children.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/hawaii-news/this-is-a-broken-system-effort-to-reform-child-welfare-services-gains-momentum/>
-
----
-
-## G7 agrees on loan deal to support Ukraine with Russian assets
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>BORGO EGNAZIA, Italy &#8212; Leaders of the Group of Seven major democracies agreed on an outline deal on Thursday to provide $50 billion of loans for Ukraine using interest from Russian sovereign assets frozen after Moscow invaded its neighbour in 2022.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/nation-world-news/g7-agrees-on-loan-deal-to-support-ukraine-with-russian-assets/>
-
----
-
-## Supreme Court maintains broad access to abortion pill
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The Supreme Court on Thursday maintained access to a widely available abortion pill, rejecting a bid from a group of anti-abortion organizations and doctors to undo the Food and Drug Administration&#8217;s approval of the drug.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/nation-world-news/supreme-court-maintains-broad-access-to-abortion-pill/>
-
----
-
-## Outage in downtown Honolulu closes multiple state offices
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>A power outage in downtown Honolulu closed multiple state offices and knocked out many traffic signals in the area Thursday morning.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/hawaii-news/outage-in-downtown-honolulu-closes-multiple-state-offices/>
-
----
-
-## Pedestrian death ruled a suicide
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>Police have identified the male pedestrian killed April 25 by a pickup truck in Volcano as 44-year-old Collins Kaholo of Volcano.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/obituaries/pedestrian-death-ruled-a-suicide/>
-
----
-
-## Supreme Court, in Starbucks ruling, curbs labor regulator’s authority
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>The Supreme Court ruled in favor of Starbucks on Thursday in a challenge against a labor ruling by a federal judge, making it more difficult for a key federal agency to intervene when a company is accused of illegally suppressing labor organizing.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/nation-world-news/supreme-court-in-starbucks-ruling-curbs-labor-regulators-authority/>
-
----
-
-## Your Views for June 14
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>The mayor should&#0010;&#8216;right this wrong&#8217;</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/opinion/your-views-for-june-14-6/>
-
----
-
-## Hunter Biden conviction is how the system works
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>Tuesday, Hunter Biden was convicted by a Delaware federal jury on three felony counts related to his purchase of a firearm in 2018. This trial and conviction is how things are supposed to work.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/opinion/hunter-biden-conviction-is-how-the-system-works/>
-
----
-
-## Secret audio of Alito isn’t the smoking gun liberals think
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>It&#8217;s hard to imagine a clearer violation of journalistic ethics than pretending to hold beliefs you don&#8217;t, asking Supreme Court justices if they agree, and surreptitiously recording their answers at a no-media dinner. The novelty of the stunt, however, shouldn&#8217;t distract us from the real takeaway, which is precisely that the recordings yielded nothing we didn&#8217;t already know.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/opinion/secret-audio-of-alito-isnt-the-smoking-gun-liberals-think/>
-
----
-
-## Coco Palms bringing Kimpton to Hawai‘i
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>WAILUA &#8212; Kimpton Hotels and Restaurants announced Wednesday that it is partnering with the Coco Palms Resort following a historically sensitive restoration of the iconic property in Wailua.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/hawaii-news/coco-palms-bringing-kimpton-to-hawaii/>
-
----
-
-## HICC assembles ‘Cash Mob’ at downtown Hilo business
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>The Hawaii Island Chamber of Commerce hosted a &#8220;Cash Mob&#8221; at Aloha Grown in downtown Hilo on Thursday.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/community/hicc-assembles-cash-mob-at-downtown-hilo-business/>
-
----
-
-## HPD lieutenant graduates from FBI Academy
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>Hawaii Police Department Lt. Jeremy Lewis graduated from the FBI National Academy in Quantico, Va., on March 15, police said.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/community/hpd-lieutenant-graduates-from-fbi-academy/>
-
----
-
-## La Nina weather 65% likely to develop in July-Sept, says US forecaster
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>(Reuters) &#8212; There is a 65% chance of the La Nina weather pattern, characterized by cold temperatures in the Pacific Ocean, developing during July-September, a U.S. government forecaster said on Thursday.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/nation-world-news/la-nina-weather-65-likely-to-develop-in-july-sept-says-us-forecaster/>
-
----
-
-## Tesla’s Musk wins shareholder approval for $56 billion pay package, touts his ability to ‘deliver’
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>Tesla shareholders approved CEO Elon Musk&#8217;s $56 billion pay package, the electric vehicle-maker said on Thursday, a big thumbs-up to his leadership and an incentive to keep his focus on his biggest source of wealth.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/nation-world-news/teslas-musk-wins-shareholder-approval-for-56-billion-pay-package-touts-his-ability-to-deliver/>
-
----
-
-## Supreme Court’s Clarence Thomas took additional trips paid for by benefactor, senator says
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Justice Clarence Thomas never disclosed three trips aboard the private jet of Texas billionaire Harlan Crow, according to documents obtained by the Senate Judiciary Committee.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/nation-world-news/supreme-courts-clarence-thomas-took-additional-trips-paid-for-by-benefactor-senator-says/>
-
----
-
-## Israeli forces advance deeper into Rafah as diplomacy falters
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>CAIRO &#8212; Israeli tanks advanced deeper into the western area of Rafah, amid one of the worst nights of bombardment from air, ground, and sea, forcing many families to flee their homes and tents under darkness, residents said on Thursday.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/nation-world-news/israeli-forces-advance-deeper-into-rafah-as-diplomacy-falters/>
-
----
-
-## Obituaries for June 14
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>Maryjane (Paulino) Kalani, 82, of Hilo died May 28 at Legacy Hilo Rehabilitation and Nursing Center. Born in Hilo, she was a homemaker and member of New Hope - Hilo. Visitation 9-10 a.m. Friday, June 21, at Dodo Mortuary Chapel. Funeral service at 10 a.m. Burial to follow at Alae Cemetery. Casual attire; flowers welcome. Survived by children, Laura Pascubillo of Oahu, Marilyn (David) Nascimento of Pahoa, Barbara Fernandez of Modesto, Calif., and James (Frances) Barley of Hilo; sisters, Marilyn (Johnson) Kalawe of Pahoa and Frances Moreno of Hilo; stepsisters, Loraine Reddick of Hilo, Gladys Meyers of Pahoa and Madeline Silva of Keaau; 13 grandchildren and 37 great-grandchildren; nieces, nephews and cousins. Arrangements by Dodo Mortuary.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/obituaries/obituaries-for-june-14-12/>
-
----
-
-## All access to Haiku Stairs region closed for removal
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>The state Department of Land and Natural Resources and the City and County of Honolulu announced Wednesday the closure of the entire Moanalua Section of the Honolulu Watershed Forest Reserve &#8212; also known as Middle Ridge &#8212; and the Moanalua Valley Neighborhood Park for the removal of the Haiku Stairs.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/hawaii-news/all-access-to-haiku-stairs-region-closed-for-removal/>
-
----
-
-## UH-Hilo student pharmacists to help patients manage medications
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>Student pharmacists from the University of Hawaii at Hilo Daniel K. Inouye College of Pharmacy will soon be helping HMSA and University Health Partners to perform medication therapy management, or MTM, for people with chronic diseases.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/community/uh-hilo-student-pharmacists-to-help-patients-manage-medications/>
-
----
-
-## Event Saturday will honor Correa, dedicate ballfield
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>To honor the enduring legacy of James &#8220;Jimmy&#8221; Correa &#8212; affectionately known as the &#8220;Father of Hilo Baseball&#8221; &#8212; a dedication ceremony will be held at 10 a.m. Saturday at the Francis Wong Stadium within the Ho&#8216;olulu Complex.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/community/event-saturday-will-honor-correa-dedicate-ballfield/>
-
----
-
-## Free bonsai exhibit set for Wailoa Center
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>The Mokuhonua Bonsai Kai along with Hilo Bonsai Kyoshitsu invites the public to their annual bonsai exhibit on Friday, June 28, and Saturday, June 29, at the Wailoa Center in Hilo.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/community/free-bonsai-exhibit-set-for-wailoa-center/>
-
----
-
-## Trump talks tariffs and taxes, calls Republican host city ‘horrible’
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Donald Trump criticized U.S. aid to Ukraine and suggested raising tariffs to replace the U.S. income tax on a Thursday visit to Capitol Hill where he also called the city hosting his party&#8217;s presidential convention &#8220;horrible.&#8221;</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/nation-world-news/trump-talks-tariffs-and-taxes-calls-republican-host-city-horrible/>
-
----
-
-## 4.1-magnitude quake jolts Ka‘u
-
-date: 2024-06-14, from: Hawaii Tribune Harold
-
-
-				<p>A magnitude 4.1 earthquake occurred at 1:43 p.m. today nine miles east-southeast of Naalehu at a depth of 23 miles below sea level, according to the Hawaiian Volcano Observatory.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/14/hawaii-news/4-1-magnitude-quake-jolts-kau/>
-
----
-
-## State House District 2 (Democratic Primary) State Senate District 22 (Republican Primary)
-
-date: 2024-06-14, from: INSIGHTS ON PBS HAWAIʻI
-
-<p>The Big Island Mayor faces several challengers as he tries for a second term in office...</p>
-<p>The post <a href="https://www.pbshawaii.org/state-house-district-2-democratic-primary-state-senate-district-22-republican-primary/">State House District 2 (Democratic Primary) &lt;br/&gt;State Senate District 22 (Republican Primary)</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
- 
-
-<https://www.pbshawaii.org/state-house-district-2-democratic-primary-state-senate-district-22-republican-primary/>
-
----
-
-## Palau Minimum Wage to Increase to $4.25 in October
-
-date: 2024-06-14, from: Island Times
-
-<p>Koror, Palau &#8211; Palau&#8217;s minimum wage will rise from $3.50 to $4.25 per hour, effective October 1, 2024. The increase was passed as part of the Fiscal Year (FY) 2024 Supplemental Budget bill, signed into law by President Surangel Whipps Jr. on June 10, 2024. The new minimum wage will apply to all employment contracts [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/palau-minimum-wage-to-increase-to-4-25-in-october/">Palau Minimum Wage to Increase to $4.25 in October</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/palau-minimum-wage-to-increase-to-4-25-in-october/>
-
----
-
-## U.S. and Palau Strengthen Partnership in Exercise Valiant Shield
-
-date: 2024-06-14, from: Island Times
-
-<figure><img width="1024" height="577" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240613_135710-scaled.jpg?fit=1024%2C577&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240613_135710-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240613_135710-scaled.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240613_135710-scaled.jpg?resize=1024%2C577&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240613_135710-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240613_135710-scaled.jpg?resize=1536%2C865&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240613_135710-scaled.jpg?resize=2048%2C1153&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240613_135710-scaled.jpg?resize=1200%2C676&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240613_135710-scaled.jpg?resize=1568%2C883&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240613_135710-scaled.jpg?resize=2000%2C1126&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240613_135710-scaled.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240613_135710-scaled.jpg?resize=706%2C398&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240613_135710-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240613_135710-scaled.jpg?fit=1024%2C577&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70772" data-permalink="https://islandtimes.org/u-s-and-palau-strengthen-partnership-in-exercise-valiant-shield/20240613_135710/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240613_135710-scaled.jpg?fit=2560%2C1442&amp;ssl=1" data-orig-size="2560,1442" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1718287032&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;5.23&quot;,&quot;iso&quot;:&quot;64&quot;,&quot;shutter_speed&quot;:&quot;0.0083333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20240613_135710" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240613_135710-scaled.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240613_135710-scaled.jpg?fit=780%2C440&amp;ssl=1" /></figure>
-<p>KOROR, Palau – The United States and Palau are bolstering their longstanding partnership through Exercise Valiant Shield, a large-scale military training event currently underway across the Indo-Pacific region. “This exercise is a routine training event that upholds our commitment to regional security and Palau’s defense under the Compact of Free Association,” said Col. Matthew Mulvey [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/u-s-and-palau-strengthen-partnership-in-exercise-valiant-shield/">U.S. and Palau Strengthen Partnership in Exercise Valiant Shield</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/u-s-and-palau-strengthen-partnership-in-exercise-valiant-shield/>
-
----
-
-## Team Palau heads out for Micronesian Games
-
-date: 2024-06-14, from: Island Times
-
-<figure><img width="953" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau-to-Micro-Games-RMI.jpg?fit=953%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau-to-Micro-Games-RMI.jpg?w=1512&amp;ssl=1 1512w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau-to-Micro-Games-RMI.jpg?resize=279%2C300&amp;ssl=1 279w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau-to-Micro-Games-RMI.jpg?resize=953%2C1024&amp;ssl=1 953w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau-to-Micro-Games-RMI.jpg?resize=768%2C825&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau-to-Micro-Games-RMI.jpg?resize=1430%2C1536&amp;ssl=1 1430w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau-to-Micro-Games-RMI.jpg?resize=1200%2C1289&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau-to-Micro-Games-RMI.jpg?resize=400%2C430&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau-to-Micro-Games-RMI.jpg?resize=706%2C758&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau-to-Micro-Games-RMI.jpg?fit=953%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70768" data-permalink="https://islandtimes.org/team-palau-heads-out-for-micronesian-games/team-palau-to-micro-games-rmi/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau-to-Micro-Games-RMI.jpg?fit=1512%2C1624&amp;ssl=1" data-orig-size="1512,1624" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Team Palau to Micro Games &#8211; RMI" data-image-description="" data-image-caption="&lt;p&gt;Aquatics, Basketball, Micro All Around, Softball Fastpitch, Spearfishing, Table Tennis, Volleyball and Weightlifting are up first with their competitions. They will be joined by the rest of the Team Palau Athletics, Tennis &#038; Wrestling on June 15 when their competitions start.  (Photo credit:  Elilai Sugiyama, PNOC)&lt;/p&gt;
-" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau-to-Micro-Games-RMI.jpg?fit=279%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau-to-Micro-Games-RMI.jpg?fit=780%2C838&amp;ssl=1" /></figure>
-<p>By: Marissa Dilmeang Spires Palauan athletes gathered with coaches and national leaders for a send-off ceremony on June 11th at the Palau National Olympic Gymnasium (PNOC) before departing for the Micronesian Games. First-Time Excitement: Several athletes expressed excitement about the upcoming competition. Basketball player Jason, a versatile guard, is looking forward to his first trip [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/team-palau-heads-out-for-micronesian-games/">Team Palau heads out for Micronesian Games</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/team-palau-heads-out-for-micronesian-games/>
-
----
-
-## Japan Air Chief Visits Palau, Deepens Ties, Offers Condolences
-
-date: 2024-06-14, from: Island Times
-
-<figure><img width="577" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/General-Uchikura-Hiroaki-Japan-Air-Self-Defense-Force-scaled.jpg?fit=577%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/General-Uchikura-Hiroaki-Japan-Air-Self-Defense-Force-scaled.jpg?w=1442&amp;ssl=1 1442w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/General-Uchikura-Hiroaki-Japan-Air-Self-Defense-Force-scaled.jpg?resize=169%2C300&amp;ssl=1 169w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/General-Uchikura-Hiroaki-Japan-Air-Self-Defense-Force-scaled.jpg?resize=577%2C1024&amp;ssl=1 577w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/General-Uchikura-Hiroaki-Japan-Air-Self-Defense-Force-scaled.jpg?resize=768%2C1364&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/General-Uchikura-Hiroaki-Japan-Air-Self-Defense-Force-scaled.jpg?resize=865%2C1536&amp;ssl=1 865w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/General-Uchikura-Hiroaki-Japan-Air-Self-Defense-Force-scaled.jpg?resize=1153%2C2048&amp;ssl=1 1153w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/General-Uchikura-Hiroaki-Japan-Air-Self-Defense-Force-scaled.jpg?resize=1200%2C2131&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/General-Uchikura-Hiroaki-Japan-Air-Self-Defense-Force-scaled.jpg?resize=1568%2C2784&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/General-Uchikura-Hiroaki-Japan-Air-Self-Defense-Force-scaled.jpg?resize=2000%2C3551&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/General-Uchikura-Hiroaki-Japan-Air-Self-Defense-Force-scaled.jpg?resize=400%2C710&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/General-Uchikura-Hiroaki-Japan-Air-Self-Defense-Force-scaled.jpg?resize=706%2C1254&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/General-Uchikura-Hiroaki-Japan-Air-Self-Defense-Force-scaled.jpg?fit=577%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70766" data-permalink="https://islandtimes.org/japan-air-chief-visits-palau-deepens-ties-offers-condolences/general-uchikura-hiroaki-japan-air-self-defense-force/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/General-Uchikura-Hiroaki-Japan-Air-Self-Defense-Force-scaled.jpg?fit=1442%2C2560&amp;ssl=1" data-orig-size="1442,2560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1718300592&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;5.23&quot;,&quot;iso&quot;:&quot;40&quot;,&quot;shutter_speed&quot;:&quot;0.0081967213114754&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="General Uchikura Hiroaki, Japan Air Self-Defense Force" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/General-Uchikura-Hiroaki-Japan-Air-Self-Defense-Force-scaled.jpg?fit=169%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/General-Uchikura-Hiroaki-Japan-Air-Self-Defense-Force-scaled.jpg?fit=577%2C1024&amp;ssl=1" /></figure>
-<p>KOROR, Palau General Ichikura Hiraoki, Chief of Staff of the Japan Air Self-Defense Force (JASDF), visited Palau this week to promote deeper ties and offer condolences for wartime losses. In an interview, Gen. Hiraoki highlighted two main purposes for the visit. First, he emphasized strengthening &#8220;human interactions&#8221; and &#8220;mutual understanding&#8221; between Japan and Palau. This [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/japan-air-chief-visits-palau-deepens-ties-offers-condolences/">Japan Air Chief Visits Palau, Deepens Ties, Offers Condolences</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/japan-air-chief-visits-palau-deepens-ties-offers-condolences/>
-
----
-
-## Peleliu Chiefs Endorse US Military Presence, Seek Referendum on Restrictions
-
-date: 2024-06-14, from: Island Times
-
-<p>Koror, Palau—On June 14, 2024, eighteen chiefs of Peleliu state passed a resolution expressing strong support for U.S. military activities in their state. During the 4th Peleliu State Traditional Leaders Conference, Resolution No. 22-04 was adopted. It urges Governor Emais Roberts to call for a constitutional referendum to amend Article XI, Section 6 of the [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/peleliu-chiefs-endorse-us-military-presence-seek-referendum-on-restrictions/">Peleliu Chiefs Endorse US Military Presence, Seek Referendum on Restrictions</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/peleliu-chiefs-endorse-us-military-presence-seek-referendum-on-restrictions/>
-
----
-
-## China Warns Citizens of Travel Risks in Palau
-
-date: 2024-06-14, from: Island Times
-
-<p>Koror, Palau &#8211; China issued a travel warning to its citizens visiting Palau, citing &#8220;frequent safety cases&#8221; for its nationals. This move follows tensions between the two nations after Palau accused China of a cyberattack in March 2024. Palau&#8217;s government claims the attack crippled its financial system and stole over 20,000 government documents. China vehemently [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/china-warns-citizens-of-travel-risks-in-palau/">China Warns Citizens of Travel Risks in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/china-warns-citizens-of-travel-risks-in-palau/>
-
----
-
-## New Taiwan-Funded Facilities Boost Palau’s Aquaculture Industry
-
-date: 2024-06-14, from: Island Times
-
-<figure><img width="1024" height="676" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pic01.jpg?fit=1024%2C676&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pic01.jpg?w=1417&amp;ssl=1 1417w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pic01.jpg?resize=300%2C198&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pic01.jpg?resize=1024%2C676&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pic01.jpg?resize=768%2C507&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pic01.jpg?resize=1200%2C793&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pic01.jpg?resize=400%2C264&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pic01.jpg?resize=706%2C466&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pic01.jpg?fit=1024%2C676&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70758" data-permalink="https://islandtimes.org/new-taiwan-funded-facilities-boost-palaus-aquaculture-industry/pic01-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pic01.jpg?fit=1417%2C936&amp;ssl=1" data-orig-size="1417,936" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="pic01" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pic01.jpg?fit=300%2C198&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pic01.jpg?fit=780%2C515&amp;ssl=1" /></figure>
-<p>KOROR, Palau &#8211; A ribbon-cutting ceremony was held on June 13, 2024, to celebrate the opening of new facilities at the Palau National Aquaculture Center (PNAC) in Koror. The project, funded by Taiwan, aims to bolster Palau&#8217;s aquaculture industry, contributing to food security, economic opportunities, and marine resource sustainability. Enhanced Capacity for Aquaculture Development The [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/new-taiwan-funded-facilities-boost-palaus-aquaculture-industry/">New Taiwan-Funded Facilities Boost Palau&#8217;s Aquaculture Industry</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/new-taiwan-funded-facilities-boost-palaus-aquaculture-industry/>
-
----
-
-## Undaunted by Wind and Rain
-
-date: 2024-06-14, from: Island Times
-
-<p>Celebrating Taiwan-Palau 25th Anniversary of Diplomatic Relations The Water Games Festival A Resounding Success To celebrate the 25th anniversary of diplomatic relations between the Republic of China (Taiwan) and the Republic of Palau, the Taiwanese Embassy in Palau, in collaboration with the Ministry of State, Ministry of Human Resources, Culture. Tourism, and Development, Palau National [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/undaunted-by-wind-and-rain/">Undaunted by Wind and Rain</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/undaunted-by-wind-and-rain/>
-
----
-
-## SILENCE is WISER
-
-date: 2024-06-14, from: Island Times
-
-<figure><img width="900" height="900" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/unnamed.jpg?fit=900%2C900&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/unnamed.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/unnamed.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/unnamed.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/unnamed.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/unnamed.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/unnamed.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/unnamed.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/unnamed.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/unnamed.jpg?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/unnamed.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/unnamed.jpg?fit=900%2C900&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70740" data-permalink="https://islandtimes.org/silence-is-wiser-2/unnamed-22/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/unnamed.jpg?fit=900%2C900&amp;ssl=1" data-orig-size="900,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="unnamed" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/unnamed.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/unnamed.jpg?fit=780%2C780&amp;ssl=1" /></figure>
-<p>A fool vents all her feelings, But a wise Woman holds them back. Proverbs 29:11 This wisdom is a straight kick to the stomach for me as I recall the times I spoke all that I felt without any type of filter. I can make excuses and say I was young and foolish which is [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/silence-is-wiser-2/">SILENCE is WISER</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/silence-is-wiser-2/>
-
----
-
-## Pacific Island Blue Carbon Knowledge Exchange Network: Seagrass mapping and monitoring campaign
-
-date: 2024-06-14, from: Island Times
-
-<figure><img width="920" height="920" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone.png?fit=920%2C920&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone.png?w=920&amp;ssl=1 920w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone.png?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone.png?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone.png?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone.png?fit=920%2C920&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70738" data-permalink="https://islandtimes.org/pacific-island-blue-carbon-knowledge-exchange-network-seagrass-mapping-and-monitoring-campaign/opinion-according-to-microphone-3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone.png?fit=920%2C920&amp;ssl=1" data-orig-size="920,920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="opinion-according-to-microphone" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone.png?fit=780%2C780&amp;ssl=1" /></figure>
-<p>Op-Ed by U.S. Ambassador Joel Ehrendreich Climate change impacts Pacific countries’ national security as well as the lives, health, and livelihoods of its citizens.&#160; As a Pacific country, the United States is committed to partnering with the Republic of Palau and other Pacific Island Countries (PICs) in adapting and managing this threat.&#160; Palau is fortunate [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/pacific-island-blue-carbon-knowledge-exchange-network-seagrass-mapping-and-monitoring-campaign/">Pacific Island Blue Carbon Knowledge Exchange Network: Seagrass mapping and monitoring campaign</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/pacific-island-blue-carbon-knowledge-exchange-network-seagrass-mapping-and-monitoring-campaign/>
-
----
-
-## Fiji, PNG call for UN decolonisation mission to riot-stuck New Caledonia
-
-date: 2024-06-14, from: Island Times
-
-<p>NEW YORK, 13 JUNE 2024 (BENAR NEWS)&#8212;Fiji and Papua New Guinea have urged the UN’s decolonisation committee to expedite a visit to the French-controlled Pacific territory of New Caledonia following its pro-independence riots last month. Nine people have died, dozens were injured and businesses were torched during unrest in the capital Noumea triggered by the [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/fiji-png-call-for-un-decolonisation-mission-to-riot-stuck-new-caledonia/">Fiji, PNG call for UN decolonisation mission to riot-stuck New Caledonia</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/fiji-png-call-for-un-decolonisation-mission-to-riot-stuck-new-caledonia/>
-
----
-
-## Vanuatu voters support Constitutional Change to end Political instability
-
-date: 2024-06-14, from: Island Times
-
-<p>PORT VILA, 13 JUNE 2024 (AFP) &#8212; Vanuatu has voted to change its constitution in a bid to end years of political instability, results of the Pacific nation&#8217;s first national referendum showed on Wednesday. A grassroots push to alter the constitution had been gaining momentum since October last year, when Vanuatu churned through three prime [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/vanuatu-voters-support-constitutional-change-to-end-political-instability/">Vanuatu voters support Constitutional Change to end Political instability</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/vanuatu-voters-support-constitutional-change-to-end-political-instability/>
-
----
-
-## EU pushes for suspension of Vanuatu visa-waiver programme
-
-date: 2024-06-14, from: Island Times
-
-<p>PORT VILA, 13 JUNE 2024 (ABC PACIFIC BEAT) &#8212; An advisor to the Vanuatu government says the European Commission is pushing through with a suspension of its visa-waiver programme with the Pacific country despite concessions made by the government. The European Commission proposed to make the temporary suspension permanent late last week, threatening an end [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/eu-pushes-for-suspension-of-vanuatu-visa-waiver-programme/">EU pushes for suspension of Vanuatu visa-waiver programme</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/eu-pushes-for-suspension-of-vanuatu-visa-waiver-programme/>
-
----
-
-## France’s Macron defends decision on snap legislative elections, urges voters to defeat far-right
-
-date: 2024-06-14, from: Island Times
-
-<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Frances-Macron.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Frances-Macron.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Frances-Macron.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Frances-Macron.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Frances-Macron.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Frances-Macron.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Frances-Macron.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70728" data-permalink="https://islandtimes.org/frances-macron-defends-decision-on-snap-legislative-elections-urges-voters-to-defeat-far-right/frances-macron/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Frances-Macron.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;11&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;French President Emmanuel Macron delivers a speech, Wednesday, June 12, 2024 in Paris. President Emmanuel Macron is addressing French voters on Wednesday for the first times since he has called snap national election following a crushing defeat of his party by the far-right in the European vote. (AP Photo\/Michel Euler)&quot;,&quot;created_timestamp&quot;:&quot;1718193229&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;324&quot;,&quot;iso&quot;:&quot;4000&quot;,&quot;shutter_speed&quot;:&quot;0.0025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="France&#8217;s Macron" data-image-description="" data-image-caption="&lt;p&gt;French President Emmanuel Macron delivers a speech, Wednesday, June 12, 2024 in Paris. President Emmanuel Macron is addressing French voters on Wednesday for the first times since he has called snap national election following a crushing defeat of his party by the far-right in the European vote. (AP Photo/Michel Euler)&lt;/p&gt;
-" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Frances-Macron.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Frances-Macron.jpg?fit=780%2C520&amp;ssl=1" /></figure>
-<p>By SYLVIE CORBET and BARBARA SURK Associated Press PARIS (AP) — French President Emmanuel Macron defended his decision to call snap parlimentary elections after his party’s crushing defeat in the European parliamentary vote, insisting on Wednesday that voters will ultimately choose the “progressive bloc&#8221; over the far-right. In France, legislative elections decide the makeup of [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/frances-macron-defends-decision-on-snap-legislative-elections-urges-voters-to-defeat-far-right/">France&#8217;s Macron defends decision on snap legislative elections, urges voters to defeat far-right</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/frances-macron-defends-decision-on-snap-legislative-elections-urges-voters-to-defeat-far-right/>
-
----
-
-## Abdullah Joudeh was in Gaza’s Nuseirat Refugee Camp 5 when Israeli special forces rescued four Hamas hostages
-
-date: 2024-06-14, from: Island Times
-
-<p>By&#160;Adam Harvey&#160;and Aziz Elkahlout (ABC-Australia) In Gaza&#8217;s Nuseirat Refugee Camp 5, Abdullah Joudeh came face-to-face with an Israeli special forces team, and lived. &#8220;I found them just in front of me,&#8221; Mr Joudeh told 7.30. &#8220;Some were in the truck, some were on a ladder, some were on the balcony holding an iron pad — [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/abdullah-joudeh-was-in-gazas-nuseirat-refugee-camp-5-when-israeli-special-forces-rescued-four-hamas-hostages/">Abdullah Joudeh was in Gaza&#8217;s Nuseirat Refugee Camp 5 when Israeli special forces rescued four Hamas hostages</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/abdullah-joudeh-was-in-gazas-nuseirat-refugee-camp-5-when-israeli-special-forces-rescued-four-hamas-hostages/>
-
----
-
-## New Pacific Islands Forum leader calls on island nations to strengthen bond
-
-date: 2024-06-14, from: Pacific Island Times
-
-By Mar-Vic Cagurangan Taking the helm of the Pacific Islands Forum as its new secretary general, former Nauru President Baron Waqa has... 
-
-<https://www.pacificislandtimes.com/post/new-pacific-islands-forum-leader-calls-on-island-nations-to-strengthen-bond>
-
----
-
-## Palau Wrestling Team Preparesfor Micronesian Games
-
-date: 2024-06-14, from: Island Times
-
-<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/6a1e9102-8d5a-4529-ba77-3571f27b90de.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/6a1e9102-8d5a-4529-ba77-3571f27b90de.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/6a1e9102-8d5a-4529-ba77-3571f27b90de.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/6a1e9102-8d5a-4529-ba77-3571f27b90de.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/6a1e9102-8d5a-4529-ba77-3571f27b90de.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/6a1e9102-8d5a-4529-ba77-3571f27b90de.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/6a1e9102-8d5a-4529-ba77-3571f27b90de.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/6a1e9102-8d5a-4529-ba77-3571f27b90de.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/6a1e9102-8d5a-4529-ba77-3571f27b90de.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/6a1e9102-8d5a-4529-ba77-3571f27b90de.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/6a1e9102-8d5a-4529-ba77-3571f27b90de.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/6a1e9102-8d5a-4529-ba77-3571f27b90de.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/6a1e9102-8d5a-4529-ba77-3571f27b90de.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/6a1e9102-8d5a-4529-ba77-3571f27b90de.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70724" data-permalink="https://islandtimes.org/palau-wrestling-team-preparesfor-micronesian-games/6a1e9102-8d5a-4529-ba77-3571f27b90de/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/6a1e9102-8d5a-4529-ba77-3571f27b90de.jpg?fit=2000%2C1500&amp;ssl=1" data-orig-size="2000,1500" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="6a1e9102-8d5a-4529-ba77-3571f27b90de" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/6a1e9102-8d5a-4529-ba77-3571f27b90de.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/6a1e9102-8d5a-4529-ba77-3571f27b90de.jpg?fit=780%2C585&amp;ssl=1" /></figure>
-<p>In preparation for the upcoming Micronesian Games in the Marshall Islands, our wrestling team has been training very hard. With only a few athletes taking part in the games, our team has been practicing twice a day in preparation for the competition. In doing so, we were able to have Ms. Kaede Matsuyama, female wrestler, [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/palau-wrestling-team-preparesfor-micronesian-games/">Palau Wrestling Team Preparesfor Micronesian Games</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/palau-wrestling-team-preparesfor-micronesian-games/>
-
----
-
-## Celtics’ Porzingis out of Game 3 of the NBA Finals because of rare tendon injury in lower left leg
-
-date: 2024-06-14, from: Island Times
-
-<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70722" data-permalink="https://islandtimes.org/celtics-porzingis-out-of-game-3-of-the-nba-finals-because-of-rare-tendon-injury-in-lower-left-leg/celtics-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;Smiley N. Pool&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Boston Celtics center Kristaps Porzingis talks with reporters before basketball practice, Tuesday, June 11, 2024, in Dallas, in preparation for Game 3 of the NBA Finals against the Dallas Mavericks. (Smiley N. Pool\/The Dallas Morning News via AP)&quot;,&quot;created_timestamp&quot;:&quot;1718113440&quot;,&quot;copyright&quot;:&quot;The Dallas Morning News&quot;,&quot;focal_length&quot;:&quot;127&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.002&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Celtics" data-image-description="" data-image-caption="&lt;p&gt;Boston Celtics center Kristaps Porzingis talks with reporters before basketball practice, Tuesday, June 11, 2024, in Dallas, in preparation for Game 3 of the NBA Finals against the Dallas Mavericks. (Smiley N. Pool/The Dallas Morning News via AP)&lt;/p&gt;
-" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics.jpg?fit=780%2C520&amp;ssl=1" /></figure>
-<p>By STEPHEN HAWKINS AP Sports Writer DALLAS (AP) — Kristaps Porzingis did not play for the Boston Celtics in Game 3 of the NBA Finals on Wednesday night because of a&#160;rare tendon injury in his lower left leg&#160;suffered in the previous game. The Celtics announced about two hours before tipoff that Porzingis was out for [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/celtics-porzingis-out-of-game-3-of-the-nba-finals-because-of-rare-tendon-injury-in-lower-left-leg/">Celtics&#8217; Porzingis out of Game 3 of the NBA Finals because of rare tendon injury in lower left leg</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/celtics-porzingis-out-of-game-3-of-the-nba-finals-because-of-rare-tendon-injury-in-lower-left-leg/>
-
----
-
-## Kaimuki cat cafe ‘Popoki and Tea’ to close on June 23
-
-date: 2024-06-14, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
-
-The Kaimuki cat cafe ‘Popoki and Tea’ is set to close its doors on June 23. Since opening four years ago, Popoki + Tea has provided visitors with handcrafted teas and the company of adoptable cats. 
-
-<https://www.manoanow.org/kaleo/kaimuki-cat-cafe-popoki-and-tea-to-close-on-june-23/article_551c761a-2a24-11ef-bcb4-c3071901fbcc.html>
-
----
-
-## Hoʻoulu Lāhui: Welcoming the 13th Festival of Pacific Arts and Culture to Hawaiʻi
-
-date: 2024-06-14, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
-
-On June 6, 24 nations from across Oceania gathered in Oʻahu to officially kick off the celebration of their shared cultural backgrounds during the 13th Festival of the Pacific Cultures and Arts, or FestPAC. 
-
-<https://www.manoanow.org/kaleo/ho-oulu-l-hui-welcoming-the-13th-festival-of-pacific-arts-and-culture-to-hawai/article_5d83b7b2-2a1c-11ef-bfbb-b3991e9eb8a7.html>
-
----
-
-## †Maria "Kita/Lia" Deleon Guerrero Quichocho Cruz
-
-date: 2024-06-14, updated: 2024-06-14, from: Marianas Variety
-
- 
-
-<https://www.mvariety.com/obituaries/maria-kita-lia-deleon-guerrero-quichocho-cruz/article_f69ccbf6-2a16-11ef-82dc-af71074e75ed.html>
-
----
-
-## †Fifth Year Death Anniversary: Nieves "Ebi" Lizama Babauta
-
-date: 2024-06-14, updated: 2024-06-14, from: Marianas Variety
-
- 
-
-<https://www.mvariety.com/obituaries/fifth-year-death-anniversary-nieves-ebi-lizama-babauta/article_f176a606-2a16-11ef-bb78-03f1b1c3369c.html>
-
----
-
-## Improve Your Backyard, Deck or Patio by Hanging String Lights
-
-date: 2024-06-14, updated: 2024-06-14, from: Marianas Variety
-
-(StatePoint) Outdoor lighting can extend the time you can spend enjoying your backyard with your friends and family. While there are a host of involved and expensive outdoor lighting solutions, there’s one easy DIY alternative that offers a lot of charm. 
-
-<https://www.mvariety.com/online_features/lawn_and_garden/improve-your-backyard-deck-or-patio-by-hanging-string-lights/article_5310fa7e-c4b8-5a41-a335-04698e5fdbe2.html>
-
----
-
-## UH Hilo student pharmacists to help patient medication management
-
-date: 2024-06-14, from: University of Hawaiʻi News
-
-<p>Students will assist patients through Medication Therapy Management for people with chronic diseases in Hawai&#699;i.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/13/hilo-student-pharmacists-medication-management/"><abbr>UH</abbr> Hilo student pharmacists to help patient medication management</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/06/13/hilo-student-pharmacists-medication-management/>
-
----
-
-## Asia-Pacific women's group relieved by court's decision to let abortion pills stay on the market
-
-date: 2024-06-14, from: Pacific Island Times
-
-By Pacific Island Times News Staff The National Asian Pacific American Women’s Forum today welcomed the U.S. Supreme Court’s decision... 
-
-<https://www.pacificislandtimes.com/post/asia-pacific-women-s-group-relieved-by-court-s-decision-to-let-abortion-pills-stay-on-the-market>
-
----
-
-## Vietnamese ambassador sparks more UH partnership talks
-
-date: 2024-06-14, from: University of Hawaiʻi News
-
-<p>Ambassador Nguyen Quoc Dzung stressed the importance of educational ties between Vietnam and the U.S.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/13/vietnamese-ambassador-sparks-partnership-talks/">Vietnamese ambassador sparks more <abbr>UH</abbr> partnership talks</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/06/13/vietnamese-ambassador-sparks-partnership-talks/>
-
----
-
-## Maui nurse earns bachelor’s degree to empower Hana community
-
-date: 2024-06-14, from: University of Hawaiʻi News
-
-<p>Sherae Hanchett's path to nursing was driven by a strong desire to care for her grandparents and enhance the consistency of healthcare in her community.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/13/maui-nurse-earns-bsn-empower-hana/">Maui nurse earns bachelor’s degree to empower Hana community</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/06/13/maui-nurse-earns-bsn-empower-hana/>
-
----
-
-## UH’s Machado receives second-team All-Region honors
-
-date: 2024-06-14, from: University of Hawaiʻi News
-
-<p>Austin Machado hit .351 with four home runs and 48 <abbr>RBI</abbr>s, and leading the team and finishing second in the Big West with 19 doubles.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/13/machado-receives-all-region-honors/"><abbr>UH</abbr>’s Machado receives second-team All-Region honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/06/13/machado-receives-all-region-honors/>
-
----
-
-## 12 UH Warriors placed on Athlon Preseason All-Mountain West team
-
-date: 2024-06-14, from: University of Hawaiʻi News
-
-<p>Four players were selected on the first two teams, five players on the third team and three to the fourth team.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/13/athlon-preseason-all-mw-team/">12 <abbr>UH</abbr> Warriors placed on Athlon Preseason All-Mountain West team</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/06/13/athlon-preseason-all-mw-team/>
-
----
-
-## †Lourdes C. Camacho
-
-date: 2024-06-14, updated: 2024-06-14, from: Marianas Variety
-
- 
-
-<https://www.mvariety.com/obituaries/lourdes-c-camacho/article_39a0355a-29e5-11ef-90cb-1f17bdda9adb.html>
-
----
-
-## Election 2024 CANDIDATES: JUNE 13 BROADCAST INSIGHTS ON PBS HAWAIʻI
-
-date: 2024-06-13, from: INSIGHTS ON PBS HAWAIʻI
-
-<p>_ Other Candidates in the race for Hawaiʻi County Mayor. There are three other candidates in the race. They are: Daniel H. Cunningham Kavin H. Kahikina Yumi T.R. Kawano We invited all there candidates to submit a written document outlining their positions on the issues.  Yumi Kawano is the only candidate who responded. Yumi Kawano Hawaii [&#8230;]</p>
-<p>The post <a href="https://www.pbshawaii.org/election-2024-candidates-june-13-broadcast-insights-on-pbs-hawai%ca%bbi/">Election 2024 &lt;br/&gt;CANDIDATES: JUNE 13 BROADCAST &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
- 
-
-<https://www.pbshawaii.org/election-2024-candidates-june-13-broadcast-insights-on-pbs-hawai%ca%bbi/>
-
----
-
-## Guam has two new charter schools
-
-date: 2024-06-13, from: Pacific Island Times
-
-By Pacific Island Times News Staff The Guam Academy Charter Schools Council has approved the establishment of a new charter school... 
-
-<https://www.pacificislandtimes.com/post/guam-has-two-new-charter-schools>
-
----
-
-## Cruz unveils platform with five main action goals for Guam
-
-date: 2024-06-13, from: Pacific Island Times
-
-By Jayvee Vallejera Ginger Cruz, who aspires to become Guam’s next delegate in the U.S. Congress, unveiled yesterday a campaign platform... 
-
-<https://www.pacificislandtimes.com/post/cruz-unveils-platform-with-five-main-action-goals-for-guam>
-
----
-
-## Rice crisis hits Majuro
-
-date: 2024-06-13, from: Marshal Islands Journal
-
-<p>Journal 6/12/1987 P3 PIC hires most youth everLater this month, 450 youth will be busy at summer jobs thanks to the Private Industry Council (PIC) which approved the jobs on Majuro, Ebeye, Kwajalein and the outer islands. It is the most ever provided by the PIC, which runs the annual summer job program. P11 MIHS [&#8230;]</p>
-<p>The post <a href="https://marshallislandsjournal.com/rice-crisis-hits-majuro/">Rice crisis hits Majuro</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
- 
-
-<https://marshallislandsjournal.com/rice-crisis-hits-majuro/>
-
----
-
-## Battle of the regions: Americans share their favorite cheeseburgers
-
-date: 2024-06-13, updated: 2024-06-15, from: Marianas Variety
-
-(BPT) - In the summertime across America, there’s one thing that brings us together — cheeseburgers. Sure, we all make them differently, but when it comes to their favorite topping, the choice is easy — Sargento 100% real, natural cheese. And who better than Sargento to set you up with 100% real, natural cheese slices! 
-
-<https://www.mvariety.com/online_features/food_recipes_entertaining/battle-of-the-regions-americans-share-their-favorite-cheeseburgers/article_0100183c-e92b-5ccd-ad80-2b35fe554086.html>
-
----
-
-## UH 2024 tenure and promotion list
-
-date: 2024-06-13, from: University of Hawaiʻi News
-
-<p>Congratulations to the University of <span aria-label="Hawaii">Hawai&#699;i</span>’s 2024 tenure and promotion recipients.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/13/uh-2024-tenure-and-promotion-list/"><abbr>UH</abbr> 2024 tenure and promotion list</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/06/13/uh-2024-tenure-and-promotion-list/>
-
----
-
-## Self-Portrait with Matilda, 1996
-
-date: 2024-06-13, from: Hawai'i Pacific Review (HPU Literary Magazine)
-
-by Siobhan Jean-Charles Every day she untangles herself from the sidewalks, sits in the library with the sun spilling in her lap. She stacks the novels into a skyline. At the bookstore, I don’t think about how close the men &#8230; <a href="https://hawaiipacificreview.org/2024/06/13/self-portrait-with-matilda-1996/">Continue reading <span class="meta-nav">&#8594;</span></a> 
-
-<https://hawaiipacificreview.org/2024/06/13/self-portrait-with-matilda-1996/>
-
----
-
-## Driving Toward Sustainability: 3 Considerations for Sustainable Tires
-
-date: 2024-06-13, updated: 2024-06-15, from: Marianas Variety
-
-(BPT) - In today's world, environmental consciousness is a driving force behind consumer purchase decisions for everyday items like clothing, housewares and even tires. With sustainability on the minds of drivers — many considering EVs or hybrid vehicles to reduce their carbon footprint — Hankook Tire recently explored drivers’ preferences when shopping for tires that are also good for the planet. Here's where the rubber meets the road when it comes to eco-friendly tires: 
-
-<https://www.mvariety.com/online_features/automotive/driving-toward-sustainability-3-considerations-for-sustainable-tires/article_0fd771e3-b7a1-5931-a413-e98f7f1d05aa.html>
-
----
-
-## ​Threats
-
-date: 2024-06-13, updated: 2024-06-13, from: Marianas Variety
-
-I WANT to thank “Saipan man” for saying that my advocating for my wife is nothing but rants and complaints, but the truth is at least I faced the person who abducted my wife in U.S. court. 
-
-<https://www.mvariety.com/views/letters_to_editor/threats/article_a92bc64c-29a3-11ef-a7d6-8b132bbdcbe2.html>
-
----
-
-## Dollar gains on hawkish Fed, even as inflation cools
-
-date: 2024-06-13, updated: 2024-06-13, from: Marianas Variety
-
-NEW YORK (Reuters) — The dollar gained on Thursday despite a soft U.S. producer price inflation report for May, after the Federal Reserve adopted a hawkish tone at the conclusion of its meeting on Wednesday. 
-
-<https://www.mvariety.com/business/business_news/dollar-gains-on-hawkish-fed-even-as-inflation-cools/article_edc434a4-29a0-11ef-8693-67a874968d1b.html>
-
----
-
-## Missing person
-
-date: 2024-06-13, updated: 2024-06-13, from: Marianas Variety
-
- 
-
-<https://www.mvariety.com/news/local/missing-person/article_8b4e4352-298f-11ef-ab6c-bf1075119628.html>
-
----
-
-## ‘We are stronger when we work together’
-
-date: 2024-06-13, updated: 2024-06-13, from: Marianas Variety
-
-The following is the text of Gov. Arnold I. Palacios’ opening remarks at the Micronesian Islands Forum 2024, which was held on June 3-5 at the Hyatt Regency Guam. 
-
-<https://www.mvariety.com/news/local/we-are-stronger-when-we-work-together/article_2dfbd308-2990-11ef-92eb-0bbab0a9f376.html>
-
----
-
-## CNMI DOL reminds businesses of law regarding reduction in force, closure of business
-
-date: 2024-06-13, updated: 2024-06-13, from: Marianas Variety
-
-(CNMI DOL) — The CNMI Department of Labor is reminding the business community that there must be timely communication with the CNMI DOL and their affected employees should they undergo a reduction in force or business closure. This requirement is outlined in § 80-20.1-240. 
-
-<https://www.mvariety.com/news/local/cnmi-dol-reminds-businesses-of-law-regarding-reduction-in-force-closure-of-business/article_efb56802-298f-11ef-9dfa-93b6773abe2c.html>
-
----
-
-## Governor reappoints Balajadia to licensing board
-
-date: 2024-06-13, updated: 2024-06-13, from: Marianas Variety
-
-GOVERNOR Arnold I. Palacios on Monday reappointed Capital Improvement Program Administrator Elizabeth S. Balajadia, P.E. to the Board of Professional Licensing. 
-
-<https://www.mvariety.com/news/local/governor-reappoints-balajadia-to-licensing-board/article_bf5ab34c-295d-11ef-aea0-472f0872ab52.html>
-
----
-
-## Pacific Islands Humanities Network elects officers
-
-date: 2024-06-13, updated: 2024-06-13, from: Marianas Variety
-
-HONOLULU — The Pacific Islands Humanities Network or PIHN (not PIHC as previously reported) elected its officers on Tuesday, June 11, here. 
-
-<https://www.mvariety.com/news/local/pacific-islands-humanities-network-elects-officers/article_e81bd26a-295e-11ef-abe3-5b806d91d387.html>
-
----
-
-## Pacific Festival opens with a bang
-
-date: 2024-06-13, from: Marshal Islands Journal
-
-<p>The latest edition of the Pacific Festival of Arts opened in Hawaii this past weekend, with the large Marshall Islands delegation joining two dozen other islands at the opening festivities. The opening event was held at the Stan Sheriff Center at the University of Hawaii. Marshall Islands delegation featured Miss Marshall Islands Claret Chong Gum, [&#8230;]</p>
-<p>The post <a href="https://marshallislandsjournal.com/pacific-festival-opens-with-a-bang/">Pacific Festival opens with a bang</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
- 
-
-<https://marshallislandsjournal.com/pacific-festival-opens-with-a-bang/>
-
----
-
-## Guam’s fight for radiation exposure compensation ‘far from over’
-
-date: 2024-06-13, from: Pacific Island Times
-
-By Mar-Vic Cagurangan Despite nearly two decades of relentless lobbying, Guam’s hopes to finally be included in the Radiation Exposure... 
-
-<https://www.pacificislandtimes.com/post/guam-s-fight-for-radiation-exposure-compensation-far-from-over>
-
----
-
-## Which MLB contenders have the most prospect chips to offer in trade deadline deals?
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>One of the biggest misconceptions in baseball is that teams without highly ranked farm systems have no prospects to offer in trade deadline deals. In fact, every organization has prospects other teams covet &#8212; even those with the bottom-ranked farms &#8212; and if a team is determined to make a deal, a deal can usually be had. That said, it&#8217;s far easier for teams to land their top trade targets if they have a larger pool of attractive prospects to deal from, and it&#8217;s easier for those teams to part with talented prospects when they have more in the pipeline.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/sports/which-mlb-contenders-have-the-most-prospect-chips-to-offer-in-trade-deadline-deals/>
-
----
-
-## Celtics hold off desperate Mavs, go up 3-0 in Finals
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>DALLAS - The Boston Celtics, one win away from sweeping the NBA Finals, insist they won&#8217;t get overconfident.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/sports/celtics-hold-off-desperate-mavs-go-up-3-0-in-finals/>
-
----
-
-## Jerry West, one of basketball’s greatest players, dies at 86
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>Jerry West, who emerged from West Virginia coal country to become one of basketball&#8217;s greatest players, a signature figure in the history of the Los Angeles Lakers and a literal icon of the sport &#8212; his is the silhouette on the logo of the NBA, died Wednesday. He was 86.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/sports/jerry-west-one-of-basketballs-greatest-players-dies-at-86/>
-
----
-
-## History is on Panthers’ side with 2-0 Stanley Cup Final lead, but team staying in the moment
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>Even with a 2-0 series lead in the Stanley Cup Final, the Florida Panthers know the value of keeping with the one-game-at-a-time mentality that got them to this point as the series shifts to the road.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/sports/history-is-on-panthers-side-with-2-0-stanley-cup-final-lead-but-team-staying-in-the-moment/>
-
----
-
-## Disney, Florida’s DeSantis end spat with deal on 15-year expansion plan
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>(Reuters) &#8212; Disney and Florida Governor Ron DeSantis have put an end to their feud with a deal that allows the entertainment giant to develop the Walt Disney World Resort near Orlando for the next 15 years.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/disney-floridas-desantis-end-spat-with-deal-on-15-year-expansion-plan/>
-
----
-
-## US wishes India luck with ‘structural issues’ in strained China ties
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON (Reuters) &#8212; The United States wishes India well in its efforts to improve strained ties with China, the number-two U.S. diplomat said on Wednesday, while cautioning that Chinese leader Xi Jinping finds it very hard to show any flexibility on territorial issues.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/us-wishes-india-luck-with-structural-issues-in-strained-china-ties/>
-
----
-
-## Fewer than half of Hawaii’s keiki proficient in reading and math
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>A new study reports that fewer than half of Hawaii&#8217;s students are proficient in reading and math and that Hawaii is ranked among the bottom third of states nationally for economic well-being, indicating a need for more state action supporting keiki and families.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/hawaii-news/fewer-than-half-of-hawaiis-keiki-proficient-in-reading-and-math/>
-
----
-
-## Work on Nanue project could begin early next year
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>Rehabilitation of another Hamakua bridge is scheduled to begin early next year.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/hawaii-news/work-on-nanue-project-could-begin-early-next-year/>
-
----
-
-## Lee Loy candidacy challenged: Petitioners claim her main residence is in a different district
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>An objection has been filed over Hawaii County Council member Sue Lee Loy&#8217;s candidacy for the state House District 2 seat and her registration to vote in the district.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/hawaii-news/lee-loy-candidacy-challenged-petitioners-claim-her-main-residence-is-in-a-different-district/>
-
----
-
-## US Open analysis: What to know as the world’s best invade Pinehurst
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>The third men&#8217;s major championship of the year sees the U.S. Open return to a Donald Ross North Carolina masterpiece, Pinehurst No. 2.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/sports/us-open-analysis-what-to-know-as-the-worlds-best-invade-pinehurst/>
-
----
-
-## US consumer prices unchanged in May; bolster rate cut expectations
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; U.S. consumer prices were unexpectedly unchanged in May as cheaper gasoline and other goods offset higher costs for rental housing, but inflation remains too high for the Federal Reserve to start cutting interest rates before September.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/us-consumer-prices-unchanged-in-may-bolster-rate-cut-expectations/>
-
----
-
-## DOH: COVID activity level ‘in the red’
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>The state Department of Health reminds the public to be vigilant due to high levels of COVID-19 activity in Hawaii.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/hawaii-news/doh-covid-activity-level-in-the-red/>
-
----
-
-## SpaceX sued by engineers fired after accusing Elon Musk of sexism
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>(Reuters) &#8212; Rocket maker SpaceX and its CEO Elon Musk were sued on Wednesday by eight engineers who say they were illegally fired for raising concerns about alleged sexual harassment and discrimination against women.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/spacex-sued-by-engineers-fired-after-accusing-elon-musk-of-sexism/>
-
----
-
-## ‘Wildlife’ causes power outage in Hilo
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>About 1,000 Hawaiian Electric customers in Hilo briefly lost power Wednesday morning after an animal-related mishap.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/hawaii-news/wildlife-causes-power-outage-in-hilo/>
-
----
-
-## Trump’s short list for VP uninspired, problematic
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>Donald Trump&#8217;s uninspired list of vice presidential prospects includes several men who have been critical of Trump, which could present problems for the ticket.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/opinion/trumps-short-list-for-vp-uninspired-problematic/>
-
----
-
-## Go Slow, Joe
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>In Normandy last week, President Joe Biden gave a speech defending democracy that was designed to evoke Ronald Reagan&#8217;s famed &#8220;Boys of Pointe du Hoc&#8221; address in the same spot 40 years ago.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/opinion/go-slow-joe/>
-
----
-
-## Hunter Biden trial isn’t changing US voters’ minds, Reuters/Ipsos poll finds
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON (Reuters) &#8212; Most U.S. voters followed the criminal trial of President Joe Biden&#8217;s son Hunter Biden and the vast majority say his conviction won&#8217;t affect their vote in the Nov. 5 election, according to a Reuters/Ipsos poll that closed on Tuesday.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/hunter-biden-trial-isnt-changing-us-voters-minds-reuters-ipsos-poll-finds/>
-
----
-
-## Russian warships, nuclear submarine enter Havana’s harbor under watch of US destroyers
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>A group of Russian warships that sailed close to Florida shores, closely watched by U.S. destroyers, entered the port of Havana on Wednesday morning ahead of Russian military exercises in the Caribbean.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/russian-warships-nuclear-submarine-enter-havanas-harbor-under-watch-of-us-destroyers/>
-
----
-
-## Biden will sign new security agreement with Ukraine during G7 summit
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; U.S. President Joe Biden will sign a new security agreement with Ukraine today to pledge America&#8217;s long-term support to the country, during his meeting with leaders of the Group of Seven democracies in Italy, a top U.S. official said.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/biden-will-sign-new-security-agreement-with-ukraine-during-g7-summit/>
-
----
-
-## 3 days in space were enough to change 4 astronauts’ bodies and minds
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>Space changes you, even during short trips off the planet.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/3-days-in-space-were-enough-to-change-4-astronauts-bodies-and-minds/>
-
----
-
-## Republican-controlled US House votes to hold attorney general in contempt
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The Republican-controlled U.S. House of Representatives voted on Wednesday to hold Attorney General Merrick Garland in contempt for refusing to turn over audio recordings of a special counsel interview with Democratic President Joe Biden.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/republican-controlled-us-house-votes-to-hold-attorney-general-in-contempt/>
-
----
-
-## Attempted murder, gun charges against Miske are dismissed
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>A federal judge dismissed attempted murder and firearm charges against alleged organized crime leader Michael J. Miske Jr. related to a May 2017 attack at Kualoa Ranch, according to federal court records.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/hawaii-news/attempted-murder-gun-charges-against-miske-are-dismissed/>
-
----
-
-## Man found mentally fit for trial in acid attack
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>Sebastian Mahkwan, one of two men indicted in a murder-for-hire plot in the Jan. 23 acid attack on a Chinese-language teacher, was found mentally fit Monday to stand trial.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/hawaii-news/man-found-mentally-fit-for-trial-in-acid-attack/>
-
----
-
-## Obituaries for June 13
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>William Ku&#8216;ulei Townsend, 87, of Hilo died April 6 at home. Born in Honolulu, he was a steel and construction contractor, who starrted his career at Pacific Welding and Machine Works, a family business, and managed various projects renovating and repurposing buildings in Hawaii and California. In retirement, he enjoyed gardening and woodworking. Celebration of life 11 a.m. Saturday, June 22, at Onekahakaha Beach Park, Pavilions No. 2 and 3. Scattering of ashes 1 p.m. Sunday, June 23, at Keauhou Harbor in Kona. Survived by sons, George Puni (Barbara) Townsend, Timothy (Leonora) Walsh and Michael (Sue Swanson) Walsh; daughter, Sharon (Robert) Alapai; brother-in-law, Agenhart Ellis; sisters, Ululani (Hagi) Young, Marion (Billy) Makaimoku, Charlotte (Ted Lazaga) Townsend and Marcy (Richard) Marchan; 16 grandchildren, 25 great-grandchildren and two great-great grandchildren; cousins, nieces, and nephews.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/obituaries/obituaries-for-june-13-10/>
-
----
-
-## US says Hamas seeks changes to ceasefire plan; Hamas denies proposing new ideas
-
-date: 2024-06-13, from: Hawaii Tribune Harold
-
-
-				<p>DOHA/GENEVA/CAIRO &#8212; U.S. Secretary of State Antony Blinken said on Wednesday that Hamas had proposed numerous changes, some unworkable, to a U.S.-backed proposal for a ceasefire with Israel in Gaza, but that mediators were determined to close the gaps.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/13/nation-world-news/us-says-hamas-seeks-changes-to-ceasefire-plan-hamas-denies-proposing-new-ideas/>
-
----
-
-## Setting the record straight: 'I have never said I object to Chinese tourists' 
-
-date: 2024-06-13, from: Pacific Island Times
-
-Saipan-- I wish to correct some of the inaccurate and misleading statements made in the press this week. First, let me be clear that my... 
-
-<https://www.pacificislandtimes.com/post/setting-it-straight-i-have-never-said-i-object-to-chinese-tourists>
-
----
-
-## RES 6th graders stand out
-
-date: 2024-06-13, from: Marshal Islands Journal
-
-<p>Eighty-two students from the sixth grade at Rita Elementary School who were promoted to middle school status received certificates and awards last Friday under the theme: “The fear of the Lord is the beginning of wisdom” (Proverbs 9:12). Out of the four sections, two students emerged with the top grade point average. The students are [&#8230;]</p>
-<p>The post <a href="https://marshallislandsjournal.com/res-6th-graders-stand-out/">RES 6th graders stand out</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
- 
-
-<https://marshallislandsjournal.com/res-6th-graders-stand-out/>
-
----
-
-## †Amado G. Verdaguer
-
-date: 2024-06-13, updated: 2024-06-13, from: Marianas Variety
-
- 
-
-<https://www.mvariety.com/obituaries/amado-g-verdaguer/article_d0e9d242-2952-11ef-acd8-ff89c67e67d0.html>
-
----
-
-## USCIS approves wage hike for H-2B workers on Guam
-
-date: 2024-06-13, from: Pacific Island Times
-
-By Pacific Island Times News Staff The US. Citizen and Immigration Services has approved the new prevailing wage rates for guest workers... 
-
-<https://www.pacificislandtimes.com/post/uscis-approves-wage-hike-for-h-2b-workers-on-guam>
-
----
-
-## Fashion night at Jitak
-
-date: 2024-06-13, from: Marshal Islands Journal
-
-<p>While the Festival of Pacific Arts was happening in Hawaii, local business Lakadrikdrim held a fashion entertainment showcasing island wear and crafts last Friday at Jitak Likatu Bar. The show provided a platform for a group of young, for some, super young, models to showcase their talent and local handicrafts. One by one, each participant [&#8230;]</p>
-<p>The post <a href="https://marshallislandsjournal.com/fashion-night-at-jitak/">Fashion night at Jitak</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
- 
-
-<https://marshallislandsjournal.com/fashion-night-at-jitak/>
-
----
-
-## Home is Here NuiNow, Eloise Luzader, Cane Haul Road
-
-date: 2024-06-13, from: Home is Here
-
-<p>Enjoy three stories about defying expectations...</p>
-<p>The post <a href="https://www.pbshawaii.org/home-is-here-nuinow-eloise-luzader-cane-haul-road/">Home is Here &lt;br/&gt;NuiNow, Eloise Luzader, Cane Haul Road</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
- 
-
-<https://www.pbshawaii.org/home-is-here-nuinow-eloise-luzader-cane-haul-road/>
-
----
-
-## It’s show time!
-
-date: 2024-06-13, from: Marshal Islands Journal
-
-<p>GIFF JOHNSON There are no more “tomorrows” — the Micronesian Games are here! Athletes, coaches and officials are now living at the MIHS Micro Games Village, the Games food crew is turning out thousands of meals daily at the Village, and the RMI opening ceremony team is gearing for the big kickoff event this Saturday [&#8230;]</p>
-<p>The post <a href="https://marshallislandsjournal.com/its-show-time/">It’s show time!</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
- 
-
-<https://marshallislandsjournal.com/its-show-time/>
-
----
-
-## CNMI eyes Taiwan market
-
-date: 2024-06-13, from: Pacific Island Times
-
-By Pacific Island Times News Staff Saipan--  Beefing up its efforts to diversify the CNMI's source markets for visitors, the Marianas... 
-
-<https://www.pacificislandtimes.com/post/cnmi-eyes-taiwan-market>
-
----
-
-## Student entrepreneurs network with Hawaiʻi business leaders at inaugural showcase
-
-date: 2024-06-13, from: University of Hawaiʻi News
-
-<p><abbr>PACE</abbr> plans to host a Founders and Friends Showcase every semester.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/12/pace-founders-and-friends-showcase/">Student entrepreneurs network with Hawaiʻi business leaders at inaugural showcase</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/06/12/pace-founders-and-friends-showcase/>
-
----
-
-## UH receives five-star rating as top workplace for LGBTQ+ 2024
-
-date: 2024-06-13, from: University of Hawaiʻi News
-
-<p><abbr>UH</abbr> recognized as one of the nation’s top 400 companies across 78 industries.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/12/uh-receives-five-star-rating-top-workplace-lgbtq/"><abbr>UH</abbr> receives five-star rating as top workplace for <abbr>LGBTQ</abbr>+ 2024</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/06/12/uh-receives-five-star-rating-top-workplace-lgbtq/>
-
----
-
-## USP SLS peer mentoring at QVS a success
-
-date: 2024-06-12, from: University of the South Pacific (Fiji)
-
-<p>The University of the South Pacific (USP), through the Student Learning Support (SLS), is taking...</p>
-<p>The post <a href="https://www.usp.ac.fj/news/usp-sls-peer-mentoring-at-qvs-a-success/">USP SLS peer mentoring at QVS a success</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
- 
-
-<https://www.usp.ac.fj/news/usp-sls-peer-mentoring-at-qvs-a-success/>
-
----
-
-## UH Mānoa launches search for director of new Health Sciences Institute
-
-date: 2024-06-12, from: University of Hawaiʻi News
-
-<p>The position will oversee the institute’s mission of addressing the complex health challenges facing <span aria-label="Hawaii">Hawai&#699;i</span> and the Pacific.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/12/health-sciences-institute-director-search/"><abbr>UH</abbr> Mānoa launches search for director of new Health Sciences Institute</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/06/12/health-sciences-institute-director-search/>
-
----
-
-## Seven ‘Bows named to Phil Steele’s Preseason Mountain West/Pac-2 teams
-
-date: 2024-06-12, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
-
- 
-
-<https://www.manoanow.org/kaleo/seven-bows-named-to-phil-steele-s-preseason-mountain-west-pac-2-teams/article_a87bdc60-28ee-11ef-9806-a744d4816222.html>
-
----
-
-## Images of the Week: FestPAC Welcome
-
-date: 2024-06-12, from: University of Hawaiʻi News
-
-<p>This week's image is from the FestPAC opening ceremony.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/12/image-of-the-week-festpac-welcome/">Images of the Week: FestPAC Welcome</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/06/12/image-of-the-week-festpac-welcome/>
-
----
-
-## At the Festival of Pacific Arts & Culture in Hawaii
-
-date: 2024-06-12, updated: 2024-06-13, from: Marianas Variety
-
-Wood carvers from various Pacific islands, including the CNMI, are hard at work creating their art on the grounds of the Bishop Museum in Honolulu during FestPac 2024. 
-
-<https://www.mvariety.com/lifestyle/at-the-festival-of-pacific-arts-culture-in-hawaii/article_39f8c920-2889-11ef-bb46-a765636a721d.html>
-
----
-
-## House panel chair vows to support NMC
-
-date: 2024-06-12, updated: 2024-06-13, from: Marianas Variety
-
-THE chair of the House Ways and Means Committee on Tuesday vowed to support Northern Marianas College’s funding needs. 
-
-<https://www.mvariety.com/news/local/house-panel-chair-vows-to-support-nmc/article_7f3acc52-2895-11ef-8fa9-7f75f95d47eb.html>
-
----
-
-## CPA board revisits request for exclusive stevedoring services at Tinian port
-
-date: 2024-06-12, updated: 2024-06-13, from: Marianas Variety
-
-THE Commonwealth Ports Authority’s board of directors on Friday discussed Tinian Marine Stevedore Inc.'s request for exclusive rights to provide stevedoring and terminal services at the Port of Tinian. 
-
-<https://www.mvariety.com/news/local/cpa-board-revisits-request-for-exclusive-stevedoring-services-at-tinian-port/article_788ddb80-2898-11ef-b6e5-83edcc20b973.html>
-
----
-
-## RT&T asks CPA for more time to take corrective actions
-
-date: 2024-06-12, updated: 2024-06-13, from: Marianas Variety
-
-THE Rota Terminal &amp; Transfer Company Inc. is requesting the Commonwealth Ports Authority board of directors for an extension of the deadline to take correction actions on several violations of a lease agreement to operate the Rota West Harbor. 
-
-<https://www.mvariety.com/news/local/rt-t-asks-cpa-for-more-time-to-take-corrective-actions/article_1535e452-2879-11ef-aa26-e358bfa9d0ab.html>
-
----
-
-## Taiwanese FestPac delegates  present cultural artifacts to Bishop Museum
-
-date: 2024-06-12, updated: 2024-06-13, from: Marianas Variety
-
-HONOLULU — Taiwan’s representatives to Festival of Pacific Arts &amp; Culture conducted a special gifting ceremony and cultural exchange on the grounds of the Bishop Museum on Monday, June 10. 
-
-<https://www.mvariety.com/news/local/taiwanese-festpac-delegates-present-cultural-artifacts-to-bishop-museum/article_41e9f136-28c5-11ef-9de5-0b1f040b39a3.html>
-
----
-
-## Green flags on Saipan, Rota
-
-date: 2024-06-12, updated: 2024-06-13, from: Marianas Variety
-
-(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan’s east and south recreational beaches as well as from Rota’s recreational beaches and storm drainages this week as part of the regularly scheduled sampling.  None of the samples collected contained excessive concentration of fecal indicator bacteria nor did they exceed CNMI marine water quality standards. Therefore, BECQ assigns the following sampled beach sites a green flag. Enjoy our waters! 
-
-<https://www.mvariety.com/news/local/green-flags-on-saipan-rota/article_69f37eca-2886-11ef-a40a-7b42eb69e91c.html>
-
----
-
-## Regal donates $3,187 to the American Red Cross in the NMI
-
-date: 2024-06-12, updated: 2024-06-13, from: Marianas Variety
-
-Regal Saipan Megaplex General Manager Maybelline Cabrera and staff present a donation to John Hirsh of the American Red Cross-NMI chapter. The Regal Foundation and their Star of Hope program have donated $3,187 to the American Red Cross. The generous donation will be used to support Red Cross programs throughout Saipan, Rota and Tinian. Since 2003 the Regal Foundation has supported communities in which Regal operates by partnering with selected charities like the Red Cross who provide aid to families affected by economic, social, physical, or educational disadvantages. “The NMI Red Cross Chapter is grateful for Regal support and uses their generosity to improve lives here in the NMI,” said Juan Diego Tenorio, disaster program manager. “We are proud to be included as a national Regal partner and appreciate the generous support at the local community level” said John Hirsh, NMI chapter executive director. 
-
-<https://www.mvariety.com/news/community_bulletins/regal-donates-3-187-to-the-american-red-cross-in-the-nmi/article_d90011a8-28bc-11ef-8884-2f5b3f5766fb.html>
-
----
-
-## Judge issues preliminary injunction against Zaji
-
-date: 2024-06-12, updated: 2024-06-13, from: Marianas Variety
-
-SUPERIOR Court Associate Judge Kenneth L. Govendo has granted Northern Marianas College’s request for a preliminary injunction against Zaji Zajradhara to restrain, enjoin and prohibit him from communicating with Small Business Development Center employees by any method for any reason. 
-
-<https://www.mvariety.com/news/local/judge-issues-preliminary-injunction-against-zaji/article_991f6270-28bf-11ef-b4e9-73c327f32efa.html>
-
----
-
-## US Probation Office requests arrest warrant for Vickilyn Teregeyo
-
-date: 2024-06-12, updated: 2024-06-13, from: Marianas Variety
-
-THE U.S. Probation Office on Wednesday requested the federal court to issue an arrest warrant for Vickilyn Manglona Teregeyo for violating curfew and failing to return to the HOPE Recovery Center. 
-
-<https://www.mvariety.com/news/local/us-probation-office-requests-arrest-warrant-for-vickilyn-teregeyo/article_7d2cf588-28c3-11ef-b1cb-53f60e7dcaaa.html>
-
----
-
-## Caitlin Clark left off U.S. Olympic team; A’Ja Wilson, Breanna Stewart, Diana Taurasi headline roster
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>Indiana Fever rookie sensation Caitlin Clark was left off the 12-player Team USA women&#8217;s basketball roster for the upcoming Summer Olympics. The official roster was announced by USA Basketball on Tuesday.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/sports/caitlin-clark-left-off-u-s-olympic-team-aja-wilson-breanna-stewart-diana-taurasi-headline-roster/>
-
----
-
-## Stephen Tsai: UH would like to see progress on stadium issue
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>The future of University of Hawaii sports is in rubble.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/sports/stephen-tsai-uh-would-like-to-see-progress-on-stadium-issue/>
-
----
-
-## Johnston: Oilers need more from Connor McDavid, who has yet to make his mark on the Final
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>SUNRISE, Fla. &#8212; No one needs to remind Connor McDavid that he may never get another chance like this one.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/sports/johnston-oilers-need-more-from-connor-mcdavid-who-has-yet-to-make-his-mark-on-the-final/>
-
----
-
-## DWS poster contest winners announced
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>Hawaii Island public school students, charter school students, private school students and a homeschooler displayed their water conservation knowledge and artistic creativity in the 6th Annual Keiki Water Conservation Poster Contest held by the Hawaii County Department of Water Supply.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/community/dws-poster-contest-winners-announced/>
-
----
-
-## Still time to register for Tahitian dance competition
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>Merahi Productions invites Tahitian dancers from across the state and beyond to come together in Hilo for its 11th annual cultural exhibition and competition, Heiva I Keaukaha.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/hawaii-news/still-time-to-register-for-tahitian-dance-competition/>
-
----
-
-## Three receive promotions in Hawaii Police Department
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>Police Chief Benjamin Moszkowicz has announced three recent promotions in the Hawaii Police Department.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/community/three-receive-promotions-in-hawaii-police-department/>
-
----
-
-## UH football team receives commitments from pair of offensive linemen
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>The University of Hawaii football team has invested in a protection plan, securing 2025 commitments from two offensive linemen.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/sports/uh-football-team-receives-commitments-from-pair-of-offensive-linemen/>
-
----
-
-## Celtics’ Kristaps Porzingis tears tendon in leg, Game 3 status unclear
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>DALLAS &#8212; Boston Celtics star center Kristaps Porzingis suffered a torn tendon in his left leg, leaving his status day to day and his availability for Game 3 of the NBA Finals in question.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/sports/celtics-kristaps-porzingis-tears-tendon-in-leg-game-3-status-unclear/>
-
----
-
-## Your Views for June 12
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>&#8216;Shocked by all&#0010;the suffering&#8217;</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/opinion/your-views-for-june-12-6/>
-
----
-
-## Bye-bye Bannon: Former Trump aide heads where he belongs
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>Steve Bannon, the relentless right-wing operator and provocateur who&#8217;s dedicated his career to advancing the cause of an American version of fascism, has been ordered by a federal judge to serve out his four-month prison conviction.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/opinion/bye-bye-bannon-former-trump-aide-heads-where-he-belongs/>
-
----
-
-## Public invited to 4-H Livestock Show & Sale
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>The Hawaii County 4-H Livestock Show &#038; Sale will be held Friday and Saturday.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/community/public-invited-to-4-h-livestock-show-sale/>
-
----
-
-## Legal Aid Society to offer free information about foreclosures, reverse mortgages, fair housing
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>The Legal Aid Society of Hawaii is pleased to announce a free legal information presentation from 12 p.m. to 1 p.m. on Friday at the Hilo Lagoon Centre Conference Room.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/community/legal-aid-society-to-offer-free-information-about-foreclosures-reverse-mortgages-fair-housing/>
-
----
-
-## Hunter Biden found guilty on charges related to gun purchase in 2018
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>WILMINGTON, Del. &#8212; A jury in Wilmington, Delaware, on Tuesday found Hunter Biden, President Joe Biden&#8217;s son, guilty of three felony counts for lying on a federal firearms application, a shattering blow for the Biden family in the middle of an unforgiving presidential election campaign.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/nation-world-news/hunter-biden-found-guilty-on-charges-related-to-gun-purchase-in-2018/>
-
----
-
-## Above average rain in May unlikely to ease dry season concerns
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>&#8220;The first month of the 2024 dry season started with a week of trade winds and rainfall mostly linked to the east-facing windward shores. That was the end of the dry conditions.&#8221;</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/hawaii-news/above-average-rain-in-may-unlikely-to-ease-dry-season-concerns/>
-
----
-
-## Police: Alleged Kona car thief targeted rentals
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>A 33-year-old Kailua-Kona man accused of being a serial car thief apparently targeted mostly rental vehicles, according to court documents filed by police.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/hawaii-news/police-alleged-kona-car-thief-targeted-rentals/>
-
----
-
-## In secret recordings, Alito endorses nation of ‘godliness.’ Roberts talks of pluralism.
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Supreme Court Justice Samuel Alito told a woman posing as a Catholic conservative last week that compromise in America between the left and right might be impossible and then agreed with the view that the nation should return to a place of godliness.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/nation-world-news/in-secret-recordings-alito-endorses-nation-of-godliness-roberts-talks-of-pluralism/>
-
----
-
-## Time to rethink the US nuclear arsenal
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>The conflicts in Ukraine and Gaza have captured most of the public attention when it comes to thinking about U.S. foreign policy, and rightly so, given the devastating human consequences. But there is another issue that cannot be ignored if we want to secure the future of life on this planet &#8212; a new nuclear arms race.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/opinion/time-to-rethink-the-us-nuclear-arsenal/>
-
----
-
-## Hilo housing complex for veterans will offer 92 units
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>Big Island veterans should be able to move into a long-awaited Hilo housing development by September.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/hawaii-news/hilo-housing-complex-for-veterans-will-offer-92-units/>
-
----
-
-## Manhattan DA to testify to House committee after Trump sentencing
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON (Reuters) &#8212; Manhattan District Attorney Alvin Bragg will testify before Congress on July 12, a day after former U.S. President Donald Trump is sentenced in his hush money case, a person familiar with the matter said on Tuesday.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/nation-world-news/manhattan-da-to-testify-to-house-committee-after-trump-sentencing/>
-
----
-
-## US industry groups sue to block ‘forever chemical’ drinking-water rule
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>(Reuters) &#8212; U.S. manufacturing and chemical industry groups have filed a lawsuit seeking to block a federal rule announced this year setting the first-ever drinking water standard to protect people against toxic &#8220;forever chemicals.&#8221;</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/nation-world-news/us-industry-groups-sue-to-block-forever-chemical-drinking-water-rule/>
-
----
-
-## Midwives ask court to stop law that requires licensing to practice
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>Kiana Rowley, a registered nurse, testified Monday in Circuit Court that she is paying $100,000 in tuition to become a certified nurse midwife after a Hawaii law requiring midwives to have a state-issued license went into full effect July 1.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/hawaii-news/midwives-ask-court-to-stop-law-that-requires-licensing-to-practice/>
-
----
-
-## Honolulu attorneys agree to pay $7M to boy injured in 2021 Makaha police chase
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>City attorneys agreed to pay $7 million to a boy who was partially paralyzed after a police chase led to a crash and an alleged cover-up in Makaha in September 2021.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/hawaii-news/honolulu-attorneys-agree-to-pay-7m-to-boy-injured-in-2021-makaha-police-chase/>
-
----
-
-## Dallas pastor Tony Evans, citing undisclosed ‘sin,’ leaves pulpit
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>Tony Evans, a longtime pastor of a prominent evangelical megachurch in Dallas, stepped away from his position Sunday, citing an undisclosed &#8220;sin.&#8221;</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/nation-world-news/dallas-pastor-tony-evans-citing-undisclosed-sin-leaves-pulpit/>
-
----
-
-## As Supreme Court decisions loom, a legal assault is weakening SEC’s power
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; A legal assault on the U.S. Securities and Exchange Commission is chipping away at its powers to oversee Wall Street and is likely to intensify with two imminent Supreme Court rulings.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/nation-world-news/as-supreme-court-decisions-loom-a-legal-assault-is-weakening-secs-power/>
-
----
-
-## Kahala landowner put on notice for shoreline violations
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>State and county officials have put a Kahala Avenue property owner on notice of potentially hundreds of thousands of dollars in fines due to multiple violations of shoreline laws.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/hawaii-news/kahala-landowner-put-on-notice-for-shoreline-violations/>
-
----
-
-## Obituaries for June 12
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>Stanley Sumio Kaku, 77, of Kealakekua died April 14 at Hospice of Kona&#8217;s Nakamaru Hale in Holualoa. Born in Kealakekua, he was a retired PBX switcher for the former Hawaiian Telephone Co. and U.S. Army veteran. Private services. No flowers or koden. Survived by wife, Julie Ann Kaku of Kealakekua; sisters, Jean Murata and Lenora (Bill) Kelley of Honolulu, Lilly Ushiroda of Kealakekua; nieces and nephews. Arrangements by Dodo Mortuary.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/obituaries/obituaries-for-june-12-9/>
-
----
-
-## Star Menendez witness is questioned about ‘his lies and his cheating’
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>NEW YORK &#8212; For days, as the government&#8217;s star witness was testifying against him, Sen. Bob Menendez offered much the same comment each time he exited his bribery trial in Manhattan: &#8220;Wait for the cross and find the truth.&#8221;</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/nation-world-news/star-menendez-witness-is-questioned-about-his-lies-and-his-cheating/>
-
----
-
-## Nuclear power is hard. a climate-minded billionaire wants to make it easier.
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>Outside a small coal town in southwest Wyoming, a multibillion-dollar effort to build the first in a new generation of U.S. nuclear power plants is underway.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/nation-world-news/nuclear-power-is-hard-a-climate-minded-billionaire-wants-to-make-it-easier/>
-
----
-
-## Body of Ocean View woman found in Kailua-Kona
-
-date: 2024-06-12, from: Hawaii Tribune Harold
-
-
-				<p>Police have initiated an investigation after a partially decomposed body of a woman was discovered within a parked vehicle located in a neighborhood in Kailua-Kona.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/12/hawaii-news/body-of-ocean-view-woman-found-in-kailua-kona/>
-
----
-
-## San Nicolas courts veterans' vote
-
-date: 2024-06-12, from: Pacific Island Times
-
-By Pacific Island Times News Staff Former Guam Del. Michael San Nicolas is seeking to enlist the veterans' vote in his new bid for the... 
-
-<https://www.pacificislandtimes.com/post/san-nicolas-courts-veterans-vote>
-
----
-
-## Cruz to unveil campaign platform
-
-date: 2024-06-12, from: Pacific Island Times
-
-By Pacific Island Times News Staff Ginger Cruz, a Democratic candidate for Guam delegate to the U.S. Congress,  vows to elevate the... 
-
-<https://www.pacificislandtimes.com/post/cruz-to-unveil-campaign-platform>
-
----
-
-## Hawaiian Word of the Week: Hōʻike
-
-date: 2024-06-11, from: University of Hawaiʻi News
-
-<p><span aria-label="Hoike">H&#333;&#699;ike</span>&#8212;To show or exhibit.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/11/hawaiian-word-of-the-week-hoike/">Hawaiian Word of the Week: Hōʻike</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/06/11/hawaiian-word-of-the-week-hoike/>
-
----
-
-##  Déjà vu democracy
-
-date: 2024-06-11, from: Pacific Island Times
-
-“His daily toil is getting jobs for relatives and retainers. Sometimes he puts a dummy on the payroll and collects the dummy’s salary... 
-
-<https://www.pacificislandtimes.com/post/d%C3%A9j%C3%A0-vu-democracy>
-
----
-
-## Marine Monitoring: Expect the Unexpected and Other Experiences from Islands Lost in Time
-
-date: 2024-06-11, from: Island Conservation News
-
-<p>Read about Nathaniel Hanna Holloway's experience doing marine monitoring in the Galápagos!</p>
-<p>The post <a href="https://www.islandconservation.org/marine-monitoring-expect-the-unexpected-and-other-experiences-from-islands-lost-in-time/">Marine Monitoring: Expect the Unexpected and Other Experiences from Islands Lost in Time</a> appeared first on <a href="https://www.islandconservation.org">Island Conservation</a>.</p>
- 
-
-<https://www.islandconservation.org/marine-monitoring-expect-the-unexpected-and-other-experiences-from-islands-lost-in-time/>
-
----
-
-## OPINION ǀ The Governor advocates for a balanced approach
-
-date: 2024-06-11, updated: 2024-06-12, from: Marianas Variety
-
-I HAVE seen a few reactions to my previous opinion piece. I must address the misinformation in some of them and clarify my stance on tourism and economic diversification in the CNMI. 
-
-<https://www.mvariety.com/views/columnists/opinion-the-governor-advocates-for-a-balanced-approach/article_c5881a5e-27b7-11ef-b145-d39547ec3e3a.html>
-
----
-
-## OPINION ǀ Truth 51: The China Poli-tricking has Begun!!!
-
-date: 2024-06-11, updated: 2024-06-12, from: Marianas Variety
-
-THE TRUTH of the matter is the perception of the Governor’s statement to “pivot away from China” seems to have been totally misinterpreted, as it’s just a poli-trick! The assertion that the Governor and those who appreciate his pivot of dedicating our resources away from China are “against Chinese Tourists,” are so far from the truth they must be in the Andromeda Galaxy seeing time lapses of the CNMI. I want to make it perfectly CLEAR, as I’m sure it is safe to say that virtually “NO ONE is against Chinese Tourists coming to the CNMI.”  But WE (the CNMI) shouldn’t be putting “all our bets on China” figuratively given the fact WE cannot and will never be able to predict what the Chinese Government will do, as everything can change in the blink-of-an-eye for TRUE!  The Governor made a “SAFE &amp; SOUND” call, and I don’t see the Governor nor anyone trying to prevent Chinese Tourists from coming — just political talk (poli-tricking) against the Governor and no ideas offered on what else WE can do beyond China. Yet, WE the People have two entire industries (Cannabis Tourism &amp; Hemp Industry) that have yet to be fully functioning and one is even costing us money.  I don’t see the China supporters doing any supporting and promoting of these two potential NEW Revenues for the CNMI. PROPONENTs &amp; OPPONENTs of China need to read my last opinion Op ed on the Casino Commission, which is something everyone needs to read about our own self-destruction and our future that is definitely beyond China’s influence alone that WE can control — for TRUE! WE must and can do a much better job of controlling our fate! 
-
-<https://www.mvariety.com/views/columnists/opinion-truth-51-the-china-poli-tricking-has-begun/article_c90d6016-27b8-11ef-b163-977bf3c87c30.html>
-
----
-
-## The Friends of the Arts Youth Theater presents Alice in Wonderland
-
-date: 2024-06-11, updated: 2024-06-12, from: Marianas Variety
-
-(FOA) — The Friends of the Arts is sponsoring its Youth Theater in presenting the CNMI International Thespian Team, featuring their production of Jason Pizzaro's Alice in Wonderland with additional presentations of thespian individual performances, technical support skills, and film productions. 
-
-<https://www.mvariety.com/lifestyle/the-friends-of-the-arts-youth-theater-presents-alice-in-wonderland/article_ad6fa478-27bc-11ef-8a1b-3739edd01f33.html>
-
----
-
-## Mike Arciaga places 1st in bodybuilding debut
-
-date: 2024-06-11, updated: 2024-06-12, from: Marianas Variety
-
-FORMER Saipan resident Mike Arciaga is making waves on the mainland U.S., winning three awards at the Panhandle Show Down in Pensacola, Florida on April 13. 
-
-<https://www.mvariety.com/sports/localsports/mike-arciaga-places-1st-in-bodybuilding-debut/article_baa6b110-27fb-11ef-b5b5-7b642525a41b.html>
-
----
-
-## Nothing surprises us anymore​
-
-date: 2024-06-11, updated: 2024-06-12, from: Marianas Variety
-
-IF a state worker, a state lawyer or a state pastor can work with state government or county officials to take your wife then you know it's an orchestrated government corruption in the making. 
-
-<https://www.mvariety.com/views/letters_to_editor/nothing-surprises-us-anymore/article_2de15d52-280a-11ef-a208-e7a553afebf4.html>
-
----
-
-## MLB roundup: M’s stun White Sox with walk-off slam
-
-date: 2024-06-11, updated: 2024-06-12, from: Marianas Variety
-
-(Reuters) — Cal Raleigh hit a grand slam with one out in the bottom of the ninth inning as the Seattle Mariners rallied from a four-run deficit to defeat the visiting Chicago White Sox 8-4 on Monday night. 
-
-<https://www.mvariety.com/sports/nationalsports/mlb-roundup-m-s-stun-white-sox-with-walk-off-slam/article_7a117e6a-27fa-11ef-a5b2-8b6bb4ffd0a2.html>
-
----
-
-## Bio-Pro edges Yabangis, 83-82
-
-date: 2024-06-11, updated: 2024-06-12, from: Marianas Variety
-
-IN a thrilling showdown, Bio-Pro outlasted Yabangis, 83-82, in the Destroyers Friendly Games League at the TSL Sports Complex on Sunday. 
-
-<https://www.mvariety.com/sports/localsports/bio-pro-edges-yabangis-83-82/article_5896460c-27fb-11ef-bf76-3312ebc4927b.html>
-
----
-
-## Hamas says it accepts UN-backed Gaza truce plan, US cites ‘hopeful sign’
-
-date: 2024-06-11, updated: 2024-06-12, from: Marianas Variety
-
-TEL AVIV/CAIRO (Reuters) — Hamas accepts a U.N. resolution backing a plan to end the war with Israel in Gaza and is ready to negotiate details, a senior official of the Palestinian militant group said on Tuesday in what the U.S. Secretary of State called "a hopeful sign." 
-
-<https://www.mvariety.com/news/regional_world/hamas-says-it-accepts-un-backed-gaza-truce-plan-us-cites-hopeful-sign/article_9bc8e314-27fe-11ef-94b3-879c69b3cda8.html>
-
----
-
-## Go get ‘em Team Marianas!
-
-date: 2024-06-11, updated: 2024-06-12, from: Marianas Variety
-
-THE Northern Marianas Sports Association on Monday hosted a send-off ceremony at the Ada gym for the CNMI athletes competing in the 2024 Micronesian Games, which will be held on June 15-24 in Majuro, the Marshall Islands. 
-
-<https://www.mvariety.com/sports/localsports/go-get-em-team-marianas/article_333472c0-27fc-11ef-a1ca-ef499a944bae.html>
-
----
-
-## California public university academics end pro-Palestinian strike under court order
-
-date: 2024-06-11, updated: 2024-06-12, from: Marianas Variety
-
-LOS ANGELES (Reuters) — Thousands of University of California academic workers who went on strike at six campuses protesting administrators' response to pro-Palestinian protests returned to the job on Monday under court order, but their union vowed more protests to come. 
-
-<https://www.mvariety.com/news/national/california-public-university-academics-end-pro-palestinian-strike-under-court-order/article_1db661ee-27ff-11ef-af53-37f170530d5f.html>
-
----
-
-## Conservation fence protects endangered seabirds at Molokai preserve
-
-date: 2024-06-11, from: Hawaii Tribune Harold
-
-
-				<p>A new, 5,600-foot-long conservation fence at Mokio Preserve now keeps seabirds safe from predators on Molokai, according to the nonprofit American Bird Conservancy and Molokai Land Trust.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/11/hawaii-news/conservation-fence-protects-endangered-seabirds-at-molokai-preserve/>
-
----
-
-## Suspects sought in Keaukaha assault
-
-date: 2024-06-11, from: Hawaii Tribune Harold
-
-
-				<p>Police detectives are requesting assistance to help identify three suspects involved in an assault Saturday evening at King&#8217;s Landing in Hilo.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/11/hawaii-news/suspects-sought-in-keaukaha-assault/>
-
----
-
-## Trump’s lawyer seeks oral arguments on Fani Willis appeal in Georgia case
-
-date: 2024-06-11, from: Hawaii Tribune Harold
-
-
-				<p>ATLANTA &#8212; Lawyers for former President Donald Trump on Monday asked the Georgia Court of Appeals to hear oral arguments on the challenge to disqualify District Attorney Fani Willis from Fulton County&#8217;s election interference case.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/11/nation-world-news/trumps-lawyer-seeks-oral-arguments-on-fani-willis-appeal-in-georgia-case/>
-
----
-
-## On Sen. Menendez’s patio, businessperson says, he asked directly for help
-
-date: 2024-06-11, from: Hawaii Tribune Harold
-
-
-				<p>NEW YORK &#8212; Jose Uribe, a businessperson who has said he bribed Sen. Bob Menendez, D-N.J., in return for his help in quashing a criminal investigation involving two people close to him, testified Monday that he had asked the senator directly for his help and that Menendez had said he would &#8220;look into it.&#8221;</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/11/nation-world-news/on-sen-menendezs-patio-businessperson-says-he-asked-directly-for-help/>
-
----
-
-## Rebecca Grossman gets 15 years to life for murders of boys killed in LA crosswalk
-
-date: 2024-06-11, from: Hawaii Tribune Harold
-
-
-				<p>LOS ANGELES &#8212; A judge on Monday sentenced Rebecca Grossman to 15 years to life in prison for the murders of two brothers she struck while speeding through a Westlake Village crosswalk four years ago, saying her actions were &#8220;reckless and unquestionably negligent.&#8221;</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/11/nation-world-news/rebecca-grossman-gets-15-years-to-life-for-murders-of-boys-killed-in-la-crosswalk/>
-
----
-
-## Obituaries for June 11
-
-date: 2024-06-11, from: Hawaii Tribune Harold
-
-
-				<p>Shimomi &#8220;Violet&#8221; Araujo, 98, of Hilo died June 3 at Hilo Benioff Medical Center. Born in Waiakea Mill, Hilo, she was a retired seamstress for the former Shimomi&#8217;s Garment Factory and the former Kamehameha Garments, and member of Hilo Seventh-day Adventist Church and the Lanakila FCE, aka Hilo Association for Family and Community Education. Visitation 1-3 p.m. Sunday (June 16) at Dodo Mortuary Chapel. Funeral service at 3 p.m. Cremation to follow. Visitation and celebration of life also 10-11 a.m. Wednesday, June 19, at the Hilo Seventh-day Adventist Church, 162 Kapiolani St. Interment at a later date. Survived by daughter, Elizabeth (Roger) Toledo of Hilo; son, Clayton B. (Terri Saito) Araujo of Hilo; daughter-in-law, Jo Ann Araujo of San Antonio; eight grandchildren, 14 great-grandchildren and two great-great-grandchildren; nieces and nephews. Arrangements by Dodo Mortuary.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/11/obituaries/obituaries-for-june-11-10/>
-
----
-
-## Regarding unhoused: ‘We are far from done’
-
-date: 2024-06-11, from: Hawaii Tribune Harold
-
-
-				<p>The recent Homeless Point-in-Time Count (PITC) results for Hawaii County, as reported on by the Tribune-Herald on June 6, indicates a significant reduction of 285 individuals or 28% in our unhoused population and should be celebrated. Yet this positive step may seem contrary to what many experience daily in downtown Hilo.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/11/opinion/regarding-unhoused-we-are-far-from-done/>
-
----
-
-## The Oceans Court ruled that the seas are a hot mess. Why haven’t you heard about it?
-
-date: 2024-06-11, from: Hawaii Tribune Harold
-
-
-				<p>On May 21, the International Tribunal for the Law of the Sea, in Hamburg, Germany, ruled that greenhouse gases are marine pollutants and nations must take action to &#8220;reduce, control and prevent&#8221; their effects. The tribunal, sometimes called the Oceans Court, was responding to a request from a consortium of small island nations disappearing under rising seas.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/11/opinion/the-oceans-court-ruled-that-the-seas-are-a-hot-mess-why-havent-you-heard-about-it/>
-
----
-
-## Senate contraception bill vote is a preview of next fight over reproductive rights
-
-date: 2024-06-11, from: Hawaii Tribune Harold
-
-
-				<p>It is infuriating as well as alarming that the U.S. Senate on Wednesday failed to pass the Right to Contraception Act, a straightforward bill that would guarantee a federal right to safe and legal contraception.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/11/opinion/senate-contraception-bill-vote-is-a-preview-of-next-fight-over-reproductive-rights/>
-
----
-
-## Man dies in Kona of apparent drowning
-
-date: 2024-06-11, from: Hawaii Tribune Harold
-
-
-				<p>Police are investigating a possible drowning involving a 31-year-old man from Pahoa that occurred Sunday morning off the shore of Ali&#8216;i Drive in Kailua-Kona.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/11/hawaii-news/man-dies-in-kona-of-apparent-drowning/>
-
----
-
-## Police report fentanyl arrests for May, seek tips from public
-
-date: 2024-06-11, from: Hawaii Tribune Harold
-
-
-				<p>As part of its continuing community outreach about the dangers of fentanyl, the Hawaii Police Department provides monthly updates about the amount of fentanyl-related arrests in Hawaii County and the quantity of fentanyl recovered for the preceding month.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/11/hawaii-news/police-report-fentanyl-arrests-for-may-seek-tips-from-public/>
-
----
-
-## Uber loses challenge to California gig work law in US appeals court
-
-date: 2024-06-11, from: Hawaii Tribune Harold
-
-
-				<p>(Reuters) &#8212; A U.S. appeals court on Monday rejected a bid by Uber and subsidiary Postmates to revive a challenge to a California law that could force the companies to treat drivers as employees rather than independent contractors who are typically less expensive.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/11/nation-world-news/uber-loses-challenge-to-california-gig-work-law-in-us-appeals-court/>
-
----
-
-## Whipps Signs Supplemental Budget, FY 2024 Total Reaches $133 Million
-
-date: 2024-06-11, from: Island Times
-
-<figure><img width="1024" height="577" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Whipps-signs-RPPL-11-34-Supplemental-Budget-scaled.jpg?fit=1024%2C577&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Whipps-signs-RPPL-11-34-Supplemental-Budget-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Whipps-signs-RPPL-11-34-Supplemental-Budget-scaled.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Whipps-signs-RPPL-11-34-Supplemental-Budget-scaled.jpg?resize=1024%2C577&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Whipps-signs-RPPL-11-34-Supplemental-Budget-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Whipps-signs-RPPL-11-34-Supplemental-Budget-scaled.jpg?resize=1536%2C865&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Whipps-signs-RPPL-11-34-Supplemental-Budget-scaled.jpg?resize=2048%2C1153&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Whipps-signs-RPPL-11-34-Supplemental-Budget-scaled.jpg?resize=1200%2C676&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Whipps-signs-RPPL-11-34-Supplemental-Budget-scaled.jpg?resize=1568%2C883&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Whipps-signs-RPPL-11-34-Supplemental-Budget-scaled.jpg?resize=2000%2C1126&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Whipps-signs-RPPL-11-34-Supplemental-Budget-scaled.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Whipps-signs-RPPL-11-34-Supplemental-Budget-scaled.jpg?resize=706%2C398&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Whipps-signs-RPPL-11-34-Supplemental-Budget-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Whipps-signs-RPPL-11-34-Supplemental-Budget-scaled.jpg?fit=1024%2C577&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70700" data-permalink="https://islandtimes.org/whipps-signs-supplemental-budget-fy-2024-total-reaches-133-million/whipps-signs-rppl-11-34-supplemental-budget/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Whipps-signs-RPPL-11-34-Supplemental-Budget-scaled.jpg?fit=2560%2C1442&amp;ssl=1" data-orig-size="2560,1442" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1718029958&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;5.23&quot;,&quot;iso&quot;:&quot;500&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Whipps signs RPPL 11-34 Supplemental Budget" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Whipps-signs-RPPL-11-34-Supplemental-Budget-scaled.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Whipps-signs-RPPL-11-34-Supplemental-Budget-scaled.jpg?fit=780%2C440&amp;ssl=1" /></figure>
-<p>KOROR, Palau (June 10, 2024) — Palau President Surangel Whipps Jr. signed a supplemental budget bill into law yesterday, increasing the total budget for fiscal year 2024 to $133,629,954. A second supplemental budget is anticipated to bring the total to $140 million. Whipps said the budget arrived “just in time” to fund urgent matters, including [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/whipps-signs-supplemental-budget-fy-2024-total-reaches-133-million/">Whipps Signs Supplemental Budget, FY 2024 Total Reaches $133 Million</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/whipps-signs-supplemental-budget-fy-2024-total-reaches-133-million/>
-
----
-
-## Palau Women Leaders Offered Online Workshop on AI
-
-date: 2024-06-11, from: Island Times
-
-<p>KOROR, Palau— Women leaders in Palau are being offered an online workshop to gain expertise in navigating Artificial Intelligence (AI). The invitation comes from the Women Political Leaders (WPL), a global network advocating for women in politics. WPL aims to increase the number of women in leadership positions and their influence. In a letter to [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/palau-women-leaders-offered-online-workshop-on-ai/">Palau Women Leaders Offered Online Workshop on AI</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/palau-women-leaders-offered-online-workshop-on-ai/>
-
----
-
-## World Ocean Day Celebrated in Palau
-
-date: 2024-06-11, from: Island Times
-
-<figure><img width="1024" height="644" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PCS-celebrates-World-Ocean-Day.jpeg?fit=1024%2C644&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PCS-celebrates-World-Ocean-Day.jpeg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PCS-celebrates-World-Ocean-Day.jpeg?resize=300%2C189&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PCS-celebrates-World-Ocean-Day.jpeg?resize=1024%2C644&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PCS-celebrates-World-Ocean-Day.jpeg?resize=768%2C483&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PCS-celebrates-World-Ocean-Day.jpeg?resize=1200%2C755&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PCS-celebrates-World-Ocean-Day.jpeg?resize=400%2C252&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PCS-celebrates-World-Ocean-Day.jpeg?resize=706%2C444&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PCS-celebrates-World-Ocean-Day.jpeg?fit=1024%2C644&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70696" data-permalink="https://islandtimes.org/world-ocean-day-celebrated-in-palau/pcs-celebrates-world-ocean-day/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PCS-celebrates-World-Ocean-Day.jpeg?fit=1500%2C944&amp;ssl=1" data-orig-size="1500,944" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PCS celebrates World Ocean Day" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PCS-celebrates-World-Ocean-Day.jpeg?fit=300%2C189&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PCS-celebrates-World-Ocean-Day.jpeg?fit=780%2C491&amp;ssl=1" /></figure>
-<p>By: Telbakes Yano KOROR, Palau– The Palau Conservation Society (PCS) held a World Ocean Day event on Long Island, emphasizing the theme “Catalyzing Action for Ocean and Climate.” Over 100 participants, including the Palau High School sophomore biology class, attended the event. PCS Executive Director Elbuchel Sadang thanked attendees and encouraged young people to learn [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/world-ocean-day-celebrated-in-palau/">World Ocean Day Celebrated in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/world-ocean-day-celebrated-in-palau/>
-
----
-
-## Palau Faces Environmental Threats from Rising Seas and Invasive Monkeys
-
-date: 2024-06-11, from: Island Times
-
-<p>By:&#160; Marissa Dilmeang Spires KOROR, Palau &#8211; Palau&#8217;s pristine environment is under threat from rising sea levels and invasive species, according to a report by the Palau Conservation Society. The report, titled &#8220;Strategic Plan for 2022 to 2027,&#8221; details how climate change is causing sea levels to rise, which is exposing coral reefs and killing [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/palau-faces-environmental-threats-from-rising-seas-and-invasive-monkeys/">Palau Faces Environmental Threats from Rising Seas and Invasive Monkeys</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/palau-faces-environmental-threats-from-rising-seas-and-invasive-monkeys/>
-
----
-
-## Car crash claims young life
-
-date: 2024-06-11, from: Island Times
-
-<p>KOROR, Palau &#8211; A young Palauan life was cut short early Friday morning in a car accident. Christian Elwel, a high school student who attended his prom on Thursday, June 6, died after the car he was a passenger in crashed into a guardrail near King&#8217;s in Malakal. Police arrived at the scene to find [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/car-crash-claims-young-life/">Car crash claims young life</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/car-crash-claims-young-life/>
-
----
-
-## Palau Leads Pacific Solar Initiative in Collaboration with International Partners
-
-date: 2024-06-11, from: Island Times
-
-<p>KOROR, Palau &#8211; Palau&#8217;s Office of the Vice President is now powered by solar energy, thanks to a regional project spotlighting the potential of renewable energy in island nations. The $1.3 million initiative, funded by the Indian government and spearheaded by the Pacific Island Development Forum (PIDF), the United Nations Development Programme (UNDP), and the [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/palau-leads-pacific-solar-initiative-in-collaboration-with-international-partners/">Palau Leads Pacific Solar Initiative in Collaboration with International Partners</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/palau-leads-pacific-solar-initiative-in-collaboration-with-international-partners/>
-
----
-
-## Palau president expects China to try to meddle in election
-
-date: 2024-06-11, from: Island Times
-
-<p>TOKYO, 10 JUNE 2024 (STRAIT TIMES) &#8212; The Pacific island nation of Palau expects China to attempt to meddle in a national election later this year over its recognition of Taiwan, President Surangel Whipps Jr said in an interview in Tokyo. His support of Palau&#8217;s recognition of Taiwan as a sovereign state makes him “the [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/palau-president-expects-china-to-try-to-meddle-in-election/">Palau president expects China to try to meddle in election</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/palau-president-expects-china-to-try-to-meddle-in-election/>
-
----
-
-## Micronesian islands are losing workers, residents to mass migration
-
-date: 2024-06-11, from: Island Times
-
-<p>HAGATNA, 07 JUNE 2024 (GUAM PACIFIC DAILY NEWS) &#8212; Stories of residents leaving their home island and labour shortages are common across Micronesia, island leaders said during a summit in Guam this week. Regional leaders put their heads together on how to tackle the issue during the 26th Micronesian Islands Forum, which took place on [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/micronesian-islands-are-losing-workers-residents-to-mass-migration/">Micronesian islands are losing workers, residents to mass migration</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/micronesian-islands-are-losing-workers-residents-to-mass-migration/>
-
----
-
-## In the competitive world of customs brokerage, efficiency is paramount
-
-date: 2024-06-11, from: Island Times
-
-<figure><img width="1024" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/KRW-Broker-Image.jpg?fit=1024%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/KRW-Broker-Image.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/KRW-Broker-Image.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/KRW-Broker-Image.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/KRW-Broker-Image.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/KRW-Broker-Image.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/KRW-Broker-Image.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/KRW-Broker-Image.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/KRW-Broker-Image.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/KRW-Broker-Image.jpg?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/KRW-Broker-Image.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/KRW-Broker-Image.jpg?fit=1024%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70684" data-permalink="https://islandtimes.org/in-the-competitive-world-of-customs-brokerage-efficiency-is-paramount/krw-broker-image/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/KRW-Broker-Image.jpg?fit=1024%2C1024&amp;ssl=1" data-orig-size="1024,1024" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="KRW Broker Image" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/KRW-Broker-Image.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/KRW-Broker-Image.jpg?fit=780%2C780&amp;ssl=1" /></figure>
-<p>The Republic of Palau’s Bureau of Customs and Border Protection recently implemented the cutting-edge ASYCUDAWorld system, developed by the United Nations Trade and Development (UNCTAD). This move has transformed the trading community’s experience, streamlining nationwide customs processes and mandating use of the automated system by customs brokers and agents. KRW Company, a well-established customs agency [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/in-the-competitive-world-of-customs-brokerage-efficiency-is-paramount/">In the competitive world of customs brokerage, efficiency is paramount</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/in-the-competitive-world-of-customs-brokerage-efficiency-is-paramount/>
-
----
-
-## Former intern, Maikani Mereng Andres, returns to PICRC as researcher
-
-date: 2024-06-11, from: Island Times
-
-<figure><img width="1024" height="624" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/M.Andres-PR-photo-1.jpg?fit=1024%2C624&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/M.Andres-PR-photo-1.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/M.Andres-PR-photo-1.jpg?resize=300%2C183&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/M.Andres-PR-photo-1.jpg?resize=1024%2C624&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/M.Andres-PR-photo-1.jpg?resize=768%2C468&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/M.Andres-PR-photo-1.jpg?resize=1536%2C936&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/M.Andres-PR-photo-1.jpg?resize=2048%2C1248&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/M.Andres-PR-photo-1.jpg?resize=1200%2C731&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/M.Andres-PR-photo-1.jpg?resize=1568%2C955&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/M.Andres-PR-photo-1.jpg?resize=2000%2C1218&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/M.Andres-PR-photo-1.jpg?resize=400%2C244&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/M.Andres-PR-photo-1.jpg?resize=706%2C430&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/M.Andres-PR-photo-1.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/M.Andres-PR-photo-1.jpg?fit=1024%2C624&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70676" data-permalink="https://islandtimes.org/former-intern-maikani-mereng-andres-returns-to-picrc-as-researcher/m-andres-pr-photo-1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/M.Andres-PR-photo-1.jpg?fit=2500%2C1523&amp;ssl=1" data-orig-size="2500,1523" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="M.Andres PR photo (1)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/M.Andres-PR-photo-1.jpg?fit=300%2C183&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/M.Andres-PR-photo-1.jpg?fit=780%2C475&amp;ssl=1" /></figure>
-<p>The Palau International Coral Reef Center (PICRC) is happy to welcome Maikani Mereng Andres back as a Researcher. Maikani has a long history with PICRC, having completed a number of internships here since high school, and has recently graduated from the University of Hawaii at Hilo with a major in Marine Biology and a minor [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/former-intern-maikani-mereng-andres-returns-to-picrc-as-researcher/">Former intern, Maikani Mereng Andres, returns to PICRC as researcher</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/former-intern-maikani-mereng-andres-returns-to-picrc-as-researcher/>
-
----
-
-## TRUST the PROCESS
-
-date: 2024-06-11, from: Island Times
-
-<figure><img width="400" height="400" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70674" data-permalink="https://islandtimes.org/trust-the-process/lnkcvqv8_400x400-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1" data-orig-size="400,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="LNkCVQv8_400x400" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400.jpg?fit=400%2C400&amp;ssl=1" /></figure>
-<p>“If you are working on something that you really care about, you don’t have to be pushed. The vision pulls you.” —Steve Jobs Everything you&#8217;ve ever wanted is sitting on the other side of fear. High school was not the best years of my life. It was overwhelming with fear and painful emotions. I was [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/trust-the-process/">TRUST the PROCESS</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/trust-the-process/>
-
----
-
-## Deep Down Under: How deep sea mining threatens Australia and the Pacific
-
-date: 2024-06-11, from: Island Times
-
-<figure><img width="880" height="920" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2.png?fit=880%2C920&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2.png?w=880&amp;ssl=1 880w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2.png?resize=287%2C300&amp;ssl=1 287w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2.png?resize=768%2C803&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2.png?resize=400%2C418&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2.png?resize=706%2C738&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2.png?fit=880%2C920&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70672" data-permalink="https://islandtimes.org/deep-down-under-how-deep-sea-mining-threatens-australia-and-the-pacific/opinion-icon2-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2.png?fit=880%2C920&amp;ssl=1" data-orig-size="880,920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="opinion-icon2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2.png?fit=287%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2.png?fit=780%2C815&amp;ssl=1" /></figure>
-<p>By Kimberley Bernard&#160; SYDNEY &#160;(GREENPEACE) &#8212; At the bottom of the globe sit the island nations of Australia and the 15 Pacific Island countries – internationally recognised and globally loved for their relaxed way of life, connection to crystal clear waters, and abundant marine life. The waters of the South Pacific hold the stories of [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/deep-down-under-how-deep-sea-mining-threatens-australia-and-the-pacific/">Deep Down Under: How deep sea mining threatens Australia and the Pacific</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/deep-down-under-how-deep-sea-mining-threatens-australia-and-the-pacific/>
-
----
-
-## 26th Micronesian Islands Forum 2024 concludes with signing of joint communiqué and letter to Biden
-
-date: 2024-06-11, from: Island Times
-
-<p>HAGÅTÑA,10 JUNE 2024 (OFFICE OF GUAM GOVERNOR) — Following two days of discussions on emerging issues and proposed action, regional leaders from Guam, the Federated States of Micronesia(FSM), the Republic of Palau, the Republic of the Marshall Islands (RMI), the Republic of Nauru, the Commonwealth of the Northern Mariana Islands, and the FSM states Chuuk, [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/26th-micronesian-islands-forum-2024-concludes-with-signing-of-joint-communique-and-letter-to-biden/">26th Micronesian Islands Forum 2024 concludes with signing of joint communiqué and letter to Biden</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/26th-micronesian-islands-forum-2024-concludes-with-signing-of-joint-communique-and-letter-to-biden/>
-
----
-
-## Micronesian travel is ‘among the most expensive in the world’
-
-date: 2024-06-11, from: Island Times
-
-<p>HAGATNA, 07 JUNE 2024 (GUAM PACIFIC DAILY NEWS) &#8212; Travel to, from and within Micronesia is “among the most expensive in the world,” according to island leaders gathered this week on Guam and pledged to make it their top priority as a group to take steps to lower airfare in the region. High airfare costs [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/micronesian-travel-is-among-the-most-expensive-in-the-world/">Micronesian travel is ‘among the most expensive in the world’</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/micronesian-travel-is-among-the-most-expensive-in-the-world/>
-
----
-
-## Macron dissolves the French parliament and calls a snap election after defeat in EU vote
-
-date: 2024-06-11, from: Island Times
-
-<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Macron-dissolves-the-French-parliament.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Macron-dissolves-the-French-parliament.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Macron-dissolves-the-French-parliament.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Macron-dissolves-the-French-parliament.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Macron-dissolves-the-French-parliament.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Macron-dissolves-the-French-parliament.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Macron-dissolves-the-French-parliament.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70663" data-permalink="https://islandtimes.org/macron-dissolves-the-french-parliament-and-calls-a-snap-election-after-defeat-in-eu-vote/macron-dissolves-the-french-parliament/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Macron-dissolves-the-French-parliament.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;Lewis JOLY&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Far-right National Rally lead candidate Jordan Bardella delivers a speech at the party election night headquarters, Sunday, June 9, 2024 in Paris. First projected results from France put far-right National Rally party well ahead in EU elections, according to French opinion poll institutes. (AP Photo\/Lewis Joly)&quot;,&quot;created_timestamp&quot;:&quot;1717963674&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;200&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Macron dissolves the French parliament" data-image-description="" data-image-caption="&lt;p&gt;Far-right National Rally lead candidate Jordan Bardella delivers a speech at the party election night headquarters, Sunday, June 9, 2024 in Paris. First projected results from France put far-right National Rally party well ahead in EU elections, according to French opinion poll institutes. (AP Photo/Lewis Joly)&lt;/p&gt;
-" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Macron-dissolves-the-French-parliament.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Macron-dissolves-the-French-parliament.jpg?fit=780%2C520&amp;ssl=1" /></figure>
-<p>By SYLVIE CORBET and SAMUEL PETREQUIN Associated Press PARIS (AP) — President Emmanuel Macron dissolved the lower house of France&#8217;s parliament in a surprise announcement sending voters back to the polls in the coming weeks to choose lawmakers, after his party was handed a humbling defeat by the far-right in the European elections Sunday. The [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/macron-dissolves-the-french-parliament-and-calls-a-snap-election-after-defeat-in-eu-vote/">Macron dissolves the French parliament and calls a snap election after defeat in EU vote</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/macron-dissolves-the-french-parliament-and-calls-a-snap-election-after-defeat-in-eu-vote/>
-
----
-
-## New Zealand Prime Minister Christopher Luxon says China Premier Li Qiang will visit this week
-
-date: 2024-06-11, from: Island Times
-
-<p>New Zealand Prime Minister Christopher Luxon has announced that China&#8217;s premier, Li Qiang, will visit the country this week.&#160; It will be the first trip to the nation by a Chinese premier since Li Keqiang&#8217;s visit in 2017. Mr Luxon, speaking at a post-cabinet press conference on Monday, local time, said the visit would be [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/new-zealand-prime-minister-christopher-luxon-says-china-premier-li-qiang-will-visit-this-week/">New Zealand Prime Minister Christopher Luxon says China Premier Li Qiang will visit this week</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/new-zealand-prime-minister-christopher-luxon-says-china-premier-li-qiang-will-visit-this-week/>
-
----
-
-## Celtics beat Mavericks 105-98, take 2-0 lead in NBA Finals as series heads to Dallas
-
-date: 2024-06-11, from: Island Times
-
-<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-beat-Mavericks.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-beat-Mavericks.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-beat-Mavericks.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-beat-Mavericks.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-beat-Mavericks.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-beat-Mavericks.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-beat-Mavericks.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70660" data-permalink="https://islandtimes.org/celtics-beat-mavericks-105-98-take-2-0-lead-in-nba-finals-as-series-heads-to-dallas/celtics-beat-mavericks/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-beat-Mavericks.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Steven Senne&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Boston Celtics guard Jaylen Brown, center, tries to pass while pressured by Dallas Mavericks forward P.J. Washington (25) and guard Luka Doncic, left, during the first half of Game 2 of the NBA Finals basketball series, Sunday, June 9, 2024, in Boston. (AP Photo\/Steven Senne)&quot;,&quot;created_timestamp&quot;:&quot;1717963821&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;400&quot;,&quot;iso&quot;:&quot;4000&quot;,&quot;shutter_speed&quot;:&quot;0.0004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Celtics beat Mavericks" data-image-description="" data-image-caption="&lt;p&gt;Boston Celtics guard Jaylen Brown, center, tries to pass while pressured by Dallas Mavericks forward P.J. Washington (25) and guard Luka Doncic, left, during the first half of Game 2 of the NBA Finals basketball series, Sunday, June 9, 2024, in Boston. (AP Photo/Steven Senne)&lt;/p&gt;
-" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-beat-Mavericks.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-beat-Mavericks.jpg?fit=780%2C520&amp;ssl=1" /></figure>
-<p>By JIMMY GOLEN AP Sports Writer BOSTON (AP) — Jrue Holiday led the scoring. Derrick White added a chase-down block. Jayson Tatum and Jaylen Brown pitched in, too — with their passing and defense. The Mavericks can stop worrying about&#160;who Boston&#8217;s best player is. Everyone is contributing to the Celtics&#8217; quest for an unprecedented 18th [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/celtics-beat-mavericks-105-98-take-2-0-lead-in-nba-finals-as-series-heads-to-dallas/">Celtics beat Mavericks 105-98, take 2-0 lead in NBA Finals as series heads to Dallas</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/celtics-beat-mavericks-105-98-take-2-0-lead-in-nba-finals-as-series-heads-to-dallas/>
-
----
-
-## Mike Tyson’s fight with Jake Paul has been rescheduled for Nov. 15 after Tyson’s health episode
-
-date: 2024-06-11, from: Island Times
-
-<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mike-Tyson.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mike-Tyson.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mike-Tyson.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mike-Tyson.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mike-Tyson.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mike-Tyson.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mike-Tyson.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70658" data-permalink="https://islandtimes.org/mike-tysons-fight-with-jake-paul-has-been-rescheduled-for-nov-15-after-tysons-health-episode/mike-tyson/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mike-Tyson.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Sam Hodde&quot;,&quot;camera&quot;:&quot;ILCE-9M2&quot;,&quot;caption&quot;:&quot;FILE - Mike Tyson speaks during a news conference promoting his upcoming boxing bout against Jake Paul, May 16, 2024, in Arlington, Texas. Tyson was recovering Monday, May 27, after suffering a medical emergency a day earlier during a flight from Miami to Los Angeles, his representatives said. The 58-year-old boxing legend \u201cbecame nauseous and dizzy due to an ulcer flare up 30 minutes before landing\u201d his publicist&#039;s office said in a statement. (AP Photo\/Sam Hodde, File)&quot;,&quot;created_timestamp&quot;:&quot;1715889096&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved.&quot;,&quot;focal_length&quot;:&quot;400&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.0025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Mike Tyson" data-image-description="" data-image-caption="&lt;p&gt;FILE &#8211; Mike Tyson speaks during a news conference promoting his upcoming boxing bout against Jake Paul, May 16, 2024, in Arlington, Texas. Tyson was recovering Monday, May 27, after suffering a medical emergency a day earlier during a flight from Miami to Los Angeles, his representatives said. The 58-year-old boxing legend “became nauseous and dizzy due to an ulcer flare up 30 minutes before landing” his publicist&#8217;s office said in a statement. (AP Photo/Sam Hodde, File)&lt;/p&gt;
-" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mike-Tyson.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Mike-Tyson.jpg?fit=780%2C520&amp;ssl=1" /></figure>
-<p>Mike Tyson&#8217;s fight with Jake Paul is now set for Nov. 15 after the former world heavyweight champion fell ill on a flight last month. The fight was originally set for July 20 in Arlington, Texas, home to the NFL&#8217;s Dallas Cowboys, and will be aired on Netflix. Tyson became nauseous and dizzy&#160;during the final [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/mike-tysons-fight-with-jake-paul-has-been-rescheduled-for-nov-15-after-tysons-health-episode/">Mike Tyson&#8217;s fight with Jake Paul has been rescheduled for Nov. 15 after Tyson&#8217;s health episode</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/mike-tysons-fight-with-jake-paul-has-been-rescheduled-for-nov-15-after-tysons-health-episode/>
-
----
-
-## IOC advises media against calling trans athletes “biologically male/female”
-
-date: 2024-06-11, from: Island Times
-
-<p>LAUSANNE (INSIDE THE GAMES)&#8212;In its latest &#8216;Portrayal Guidelines&#8217;, the International Olympic Committee (IOC) has encouraged media not to use the terms &#8220;biologically male&#8221; or &#8220;biologically female&#8221; when describing trans athletes, calling it &#8220;problematic language&#8221;. This is the third edition of the IOC&#8217;s Portrayal Guidelines subtitled &#8216;Gender-equal, fair and inclusive representation in sport&#8217;. They have been [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/ioc-advises-media-against-calling-trans-athletes-biologically-male-female/">IOC advises media against calling trans athletes &#8220;biologically male/female&#8221;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/ioc-advises-media-against-calling-trans-athletes-biologically-male-female/>
-
----
-
-## Census officials provide a snapshot of Guam’s economy
-
-date: 2024-06-11, from: Pacific Island Times
-
-By Pacific Island Times News Staff The U.S. Census Bureau has released statistics from the 2022 Economic Census for Guam, which officials... 
-
-<https://www.pacificislandtimes.com/post/census-officials-provide-a-snapshot-of-guam-s-economy>
-
----
-
-## The CNMI can't rely on a single market; local economy needs cushion 
-
-date: 2024-06-11, from: Pacific Island Times
-
-Saipan--I have seen a few reactions to my previous opinion piece. I must address some misinformation and clarify my stance on tourism and... 
-
-<https://www.pacificislandtimes.com/post/the-cnmi-can-t-rely-on-a-single-market-local-economy-needs-cushion>
-
----
-
-## Bleak hope: An economy in panic mode 
-
-date: 2024-06-11, from: Pacific Island Times
-
-CNMI tourism stakeholders target 500K visitors a year By Bryan Manabat Saipan— The Northern Marianas’ tourism stakeholders celebrated the... 
-
-<https://www.pacificislandtimes.com/post/bleak-hope-an-economy-in-panic-mode>
-
----
-
-## More UH experts join Gov. Green marine advisory committee
-
-date: 2024-06-11, from: University of Hawaiʻi News
-
-<p>Four University of <span aria-label="Hawaii">Hawai&#699;i</span> experts and leaders have been appointed to the Governor's Advisory Committee on Marine Affairs.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/10/more-uh-experts-join-marine-advisory/">More <abbr>UH</abbr> experts join Gov. Green marine advisory committee</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/06/10/more-uh-experts-join-marine-advisory/>
-
----
-
-## UH students sweep local advertising, design awards
-
-date: 2024-06-11, from: University of Hawaiʻi News
-
-<p>Pele Best of Show and Special Judges awards went to <abbr>UH</abbr> students.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/10/uh-students-sweep-pele-awards/"><abbr>UH</abbr> students sweep local advertising, design awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/06/10/uh-students-sweep-pele-awards/>
-
----
-
-## Operation Irensia: A new chapter in Pacific maritime cooperation
-
-date: 2024-06-11, from: Pacific Island Times
-
-By Sara Muir US Coast Guard In a display of regional unity and maritime prowess, U.S. Coast Guard Forces Micronesia and Base Guam hosted... 
-
-<https://www.pacificislandtimes.com/post/operation-irensia-a-new-chapter-in-pacific-maritime-cooperation>
-
----
-
-## UH-led Waikīkī sea-level rise adaptations to elevate infrastructure, utilities
-
-date: 2024-06-11, from: University of Hawaiʻi News
-
-<p>Researchers created architectural renderings illustrating flood adaptation strategies in Waik&#299;k&#299; which can be adapted for low-lying coastal cities across the country.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/10/waikiki-architecture-renderings/"><abbr>UH</abbr>-led Waikīkī sea-level rise adaptations to elevate infrastructure, utilities</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/06/10/waikiki-architecture-renderings/>
-
----
-
-## In memoriam: Carbonate geochemist Stephen Vaughn Smith
-
-date: 2024-06-10, from: University of Hawaiʻi News
-
-<p><abbr>UH</abbr> M&#257;noa Emeritus Professor Stephen Vaughn Smith died on April 14, 2024.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/10/stephen-vaughn-smith/">In memoriam: Carbonate geochemist Stephen Vaughn Smith</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/06/10/stephen-vaughn-smith/>
-
----
-
-## Mohr earns All-America status at NCAA Championships
-
-date: 2024-06-10, from: University of Hawaiʻi News
-
-<p>Hallee Mohr became the fourth Rainbow Wahine discus thrower to earn All-America recognition.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/10/mohr-discus-all-american-honors/">Mohr earns All-America status at <abbr>NCAA</abbr> Championships</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/06/10/mohr-discus-all-american-honors/>
-
----
-
-## ​​Arrokoth’s sugars hint at life’s early building blocks
-
-date: 2024-06-10, from: University of Hawaiʻi News
-
-<p>A team of scientists discovered that Arrokoth’s surface contains sugars such as ribose and glucose.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/10/arrokoth-sugars-lifes-early-building-blocks/">​​Arrokoth’s sugars hint at life’s early building blocks</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/06/10/arrokoth-sugars-lifes-early-building-blocks/>
-
----
-
-## UH astronomers part of NASA’s $19.5M artificial star mission
-
-date: 2024-06-10, from: University of Hawaiʻi News
-
-<p>The Landolt Space Mission plans to send a satellite into orbit in 2029 and UH astronomers will utilize observations to generate fresh star brightness catalogs.</p>
-The post <a href="https://www.hawaii.edu/news/2024/06/10/19-5m-artificial-star-mission/"><abbr>UH</abbr> astronomers part of <abbr>NASA</abbr>’s $19.5M artificial star mission</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2024/06/10/19-5m-artificial-star-mission/>
-
----
-
-## Rep. Ogo explores grant opportunities for innovative drone service
-
-date: 2024-06-10, updated: 2024-06-10, from: Marianas Variety
-
-REPRESENTATIVE Julie Ogo is actively exploring grant opportunities to enhance the livelihood of the people of Rota through innovative solutions. One of the key initiatives she is focusing on is the implementation of drone services for inter-island medical supply transportation. 
-
-<https://www.mvariety.com/news/local/rep-ogo-explores-grant-opportunities-for-innovative-drone-service/article_2075e788-26f6-11ef-ac64-ef4cf92a31b4.html>
-
----
-
-## MANGO to host workshop with EPA's Environmental Justice Team
-
-date: 2024-06-10, updated: 2024-06-10, from: Marianas Variety
-
-(MANGO) — The Marianas Alliance of Non-Governmental Organizations, in partnership with the Bureau of Environmental and Coastal Quality, is excited to announce an upcoming workshop featuring the Environmental Protection Agency's Environmental Justice team. This event is part of MANGO's ongoing efforts to engage the community with key environmental initiatives and funding opportunities provided by the EPA. 
-
-<https://www.mvariety.com/news/community_bulletins/mango-to-host-workshop-with-epas-environmental-justice-team/article_26d4b190-26f1-11ef-ae47-0772235b4c65.html>
-
----
-
-## Ex-MHS teacher pleads not guilty to child porn charges
-
-date: 2024-06-10, updated: 2024-06-10, from: Marianas Variety
-
-DAVID Matthew Frahm, a former Marianas High School music teacher accused of making child pornography, has pled not guilty. 
-
-<https://www.mvariety.com/news/local/ex-mhs-teacher-pleads-not-guilty-to-child-porn-charges/article_5be02bd4-272e-11ef-936d-5fc085e3402e.html>
-
----
-
-## Auto Marine office burglarized twice
-
-date: 2024-06-10, updated: 2024-06-10, from: Marianas Variety
-
-AUTO Marine Inc.’s office on lower Navy Hill has been burglarized twice, its president, Adonis Santos, told reporters on Monday. 
-
-<https://www.mvariety.com/news/local/auto-marine-office-burglarized-twice/article_2b2bbdf8-2730-11ef-8d2a-6bfd152af7c0.html>
-
----
-
-## Rota farmer first to test commercial regenerative agriculture methods
-
-date: 2024-06-10, updated: 2024-06-10, from: Marianas Variety
-
-AMBROSIO “Ambi” Alubia, a Rota farmer who exports produce to Guam and Saipan, has witnessed significant success in the growth of his papaya fruits following his participation in Northern Marianas College-Cooperative Research, Extension, and Education Services’ regenerative agriculture workshops along with technical assistance provided by CREES personnel. 
-
-<https://www.mvariety.com/news/local/rota-farmer-first-to-test-commercial-regenerative-agriculture-methods/article_6ee75da8-2731-11ef-a100-a3e90d3cfc28.html>
-
----
-
-## CNMI, American Samoa, Guam, and Hawaii form regional humanities group
-
-date: 2024-06-10, updated: 2024-06-10, from: Marianas Variety
-
-HONOLULU — Leo Pangelinan, the executive director of the Northern Marianas Humanities Council, signed a memorandum of understanding with his counterparts from American Samoa, Guam and Hawaii to establish the Pacific Islander Humanities Councils or PIHC. 
-
-<https://www.mvariety.com/news/local/cnmi-american-samoa-guam-and-hawaii-form-regional-humanities-group/article_faec6578-2731-11ef-a9bf-4f40c6bf5769.html>
-
----
-
-## Sand Wear the Sun Don't Shine rules sand sculpting contest
-
-date: 2024-06-10, updated: 2024-06-10, from: Marianas Variety
-
-SAND Wear the Sun Don't Shine on Saturday topped the sand sculpting competition at the Sandy Beach Homes beach in Chalan Kanoa. 
-
-<https://www.mvariety.com/news/local/sand-wear-the-sun-dont-shine-rules-sand-sculpting-contest/article_eb542038-26f5-11ef-b5b0-ef86fc0b1e4c.html>
-
----
-
-## CHCC ‘Vax2School’ summer outreach schedule
-
-date: 2024-06-10, updated: 2024-06-10, from: Marianas Variety
-
-(CHCC) — The Commonwealth Healthcare Corporation’s Public Health Services, in collaboration with the Public School System, the Division of Youth Services, and the Diocese of Chalan Kanoa, will be at various school campuses and community centers throughout Saipan to provide immunization services such as vaccinations and issuance of school health certificate for students who need to be brought up to date with recommended immunizations for school year 2024-2025. 
-
-<https://www.mvariety.com/news/local/chcc-vax2school-summer-outreach-schedule/article_63293e4e-26f2-11ef-ae15-eb7333b5fb1a.html>
-
----
-
-## CNMI Operation Wellness ongoing
-
-date: 2024-06-10, updated: 2024-06-10, from: Marianas Variety
-
-THE Commonwealth Bureau of Military Affairs would like to remind the community that the 2024 CNMI Operation Wellness started Monday and will be offering services free of charge until June 28, 2024. 
-
-<https://www.mvariety.com/news/community_bulletins/cnmi-operation-wellness-ongoing/article_a439886c-26f7-11ef-a39b-2b48b2d04880.html>
-
----
-
-## Get involved: Nominate now for the 2024 Bridge of Light Award
-
-date: 2024-06-10, updated: 2024-06-10, from: Marianas Variety
-
-(NMCADSV) — The Northern Marianas Coalition Against Domestic &amp; Sexual Violence encourages the community to nominate deserving individuals for the 2024 Bridge of Light Award or BOLA. This award commends individuals who demonstrate consistent dedication to aiding victims, survivors, and the entire community in addressing domestic and sexual violence in the CNMI. 
-
-<https://www.mvariety.com/news/community_bulletins/get-involved-nominate-now-for-the-2024-bridge-of-light-award/article_14d58a08-26ee-11ef-a477-33318586dc1a.html>
-
----
-
-## Guam missile defense tests to disrupt lives of residents living near the drill site, local officials say 
-
-date: 2024-06-10, from: Pacific Island Times
-
-Local government asks MDA to extend public commenting period on 'complex document' By Pacific Island Times News Staff The documents... 
-
-<https://www.pacificislandtimes.com/post/guam-missile-defense-tests-to-affect-residents-living-near-the-drill-site>
-
----
-
-## Guam's cyber defenses 'are inadequate' 
-
-date: 2024-06-10, from: Pacific Island Times
-
-Senator warns Pacific islands are 'very vulnerable to cyber-attacks'' By Mar-Vic Cagurangan The recent digital intrusion that breached... 
-
-<https://www.pacificislandtimes.com/post/guam-s-cyber-defenses-are-inadequate>
-
----
-
-## County seeks to obtain land for Pohoiki Road widening via eminent domain
-
-date: 2024-06-10, from: Hawaii Tribune Harold
-
-
-				<p>The manager of a pair of parcels in lower Puna is resisting a plan by Hawaii County to seize portions of that land in order to begin reopening Pohoiki Road.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/10/hawaii-news/county-seeks-to-obtain-land-for-pohoiki-road-widening-via-eminent-domain/>
-
----
-
-## Hawaii student FAFSA applications down 20%
-
-date: 2024-06-10, from: Hawaii Tribune Harold
-
-
-				<p>As the deadline for the application to qualify for federal assistance to help pay for college nears this year, a Hawaii organization is trying new strategies to up their outreach efforts to local students and families.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/10/hawaii-news/hawaii-student-fafsa-applications-down-20/>
-
----
-
-## World Ocean Day panel discusses coral reef ecosystems
-
-date: 2024-06-10, from: Hawaii Tribune Harold
-
-
-				<p>Scientists, cultural practitioners and leaders in environmental conservation urge action over more conversation after two decades of research on Hawaii Island&#8217;s coral reefs.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/10/hawaii-news/world-ocean-day-panel-discusses-coral-reef-ecosystems/>
-
----
-
-## Japan likes tourists, just not this many
-
-date: 2024-06-10, from: Hawaii Tribune Harold
-
-
-				<p>KYOTO, Japan &#8212; On two recent occasions, a foreign tourist walked into Shoji Matsumoto&#8217;s barbershop, through a front door that grates loudly when opened more than halfway, wanting a haircut.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/10/nation-world-news/japan-likes-tourists-just-not-this-many/>
-
----
-
-## Mountain landslide destroys section of highway to Jackson, Wyo.
-
-date: 2024-06-10, from: Hawaii Tribune Harold
-
-
-				<p>(NYT) &#8212; A landslide in the Teton mountains destroyed part of a highway that links Idaho with Jackson, Wyoming, forcing authorities to close the road indefinitely Saturday just as the area was entering its summer tourism season. </p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/10/nation-world-news/mountain-landslide-destroys-section-of-highway-to-jackson-wyo/>
-
----
-
-## In Las Vegas, Trump appeals to local workers and avoids talk of conviction
-
-date: 2024-06-10, from: Hawaii Tribune Harold
-
-
-				<p>LAS VEGAS &#8212; Former President Donald Trump stood in blazing heat in a Las Vegas park Sunday and directly appealed to working-class voters by promising to eliminate taxes on tips for hospitality workers.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/10/nation-world-news/in-las-vegas-trump-appeals-to-local-workers-and-avoids-talk-of-conviction/>
-
----
-
-## Trump will have virtual interview with probation official today
-
-date: 2024-06-10, from: Hawaii Tribune Harold
-
-
-				<p>Former President Donald Trump, who was convicted last month on 34 felony counts of falsifying business records, is expected to have a virtual interview with a New York City Probation Department official today, three people with knowledge of the matter said.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/10/nation-world-news/trump-will-have-virtual-interview-with-probation-official-today/>
-
----
-
-## Israel keeps pounding central Gaza as Palestinian death toll in hostage rescue raid rises to 274
-
-date: 2024-06-10, from: Hawaii Tribune Harold
-
-
-				<p>CAIRO &#8212; Israeli forces pounded central Gaza anew on Sunday, a day after killing 274 Palestinians during a hostage rescue raid, and tanks advanced further into Rafah in an apparent bid to seal off part of the southern city, residents and Hamas media said. </p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/10/nation-world-news/israel-keeps-pounding-central-gaza-as-palestinian-death-toll-in-hostage-rescue-raid-rises-to-274/>
-
----
-
-## Biden visits a military cemetery in France that Trump once snubbed
-
-date: 2024-06-10, from: Hawaii Tribune Harold
-
-
-				<p>PARIS &#8212; There is trolling. And then there is presidential trolling.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/10/nation-world-news/biden-visits-a-military-cemetery-in-france-that-trump-once-snubbed/>
-
----
-
-## Microsoft unveils all-digital Xbox consoles, ‘Doom’ title at Games Showcase
-
-date: 2024-06-10, from: Hawaii Tribune Harold
-
-
-				<p>(Reuters) &#8212; Microsoft kicked off its annual Xbox Games Showcase on Sunday, unveiling a new all-digital version of its Xbox Series X and S consoles as well as trailers for more than a dozen games including the next installment of &#8220;Call of Duty.&#8221; </p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/10/nation-world-news/microsoft-unveils-all-digital-xbox-consoles-doom-title-at-games-showcase/>
-
----
-
-## Macron calls French legislative election after far-right win
-
-date: 2024-06-10, from: Hawaii Tribune Harold
-
-
-				<p>Voters in France and Germany dealt a massive blow to their leaders in European Parliament elections Sunday, leading Emmanuel Macron to take the extreme decision to call a snap legislative ballot, which has the potential to throw the country into political chaos just as it&#8217;s set to host the Olympics.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/10/nation-world-news/macron-calls-french-legislative-election-after-far-right-win/>
-
----
-
-## Modi, striking a modest tone, is sworn in for a third term
-
-date: 2024-06-10, from: Hawaii Tribune Harold
-
-
-				<p>NEW DELHI &#8212; As a humbled Narendra Modi was sworn in Sunday for a third term as India&#8217;s prime minister, the political air in New Delhi appeared transformed.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/10/nation-world-news/modi-striking-a-modest-tone-is-sworn-in-for-a-third-term/>
-
----
-
-## Jrue Holiday, Celtics take 2-0 NBA Finals lead over Mavs
-
-date: 2024-06-10, from: Hawaii Tribune Harold
-
-
-				<p>BOSTON &#8212; Although he considers himself part of the supporting cast, Boston Celtics guard Jrue Holiday looked like a star on Sunday night.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/10/sports/jrue-holiday-celtics-take-2-0-nba-finals-lead-over-mavs/>
-
----
-
-## Carlos Alcaraz tops Alexander Zverev to win first French Open
-
-date: 2024-06-10, from: Hawaii Tribune Harold
-
-
-				<p>The next great Spaniard has arrived at the French Open.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/10/sports/carlos-alcaraz-tops-alexander-zverev-to-win-first-french-open/>
-
----
-
-## Vulcans recapture PacWest Hawai‘i Challenge
-
-date: 2024-06-10, from: Hawaii Tribune Harold
-
+<https://www.mvariety.com/news/community_bulletins/liberation-day-sponsor/article_b703fd04-299c-11ef-b2f8-7b6bf6359a59.html>
 
-				<p>For the second time in three years, the University of Hawaii at Hilo is the winner of the 2023-24 PacWest Hawai&#8216;i Challenge for local athletic bragging rights between the three NCAA Division II institutions in Hawaii.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/06/10/sports/vulcans-recapture-pacwest-hawaii-challenge/>
-
 ---
-
-## Tony Vitello’s Vols are in the College World Series again, proving ‘goofy’ goes a long way
 
-date: 2024-06-10, from: Hawaii Tribune Harold
+## Liberation Day festivities underway
 
+date: 2024-06-16, updated: 2024-06-16, from: Marianas Variety
 
-				<p>KNOXVILLE, Tenn. &#8212; Tennessee senior pitcher Zander Sechrist had given up six hits and one run, unearned, striking out six and walking none, in six innings Sunday night in the most important situation he had faced in his career.</p>
-			 
+THE unveiling of a mural that depicts the theme of this year’s Liberation Day celebration was among the highlights of the first day of the festivities at the Garapan Fishing Base on Saturday evening. 
 
-<https://www.hawaiitribune-herald.com/2024/06/10/sports/tony-vitellos-vols-are-in-the-college-world-series-again-proving-goofy-goes-a-long-way/>
+<https://www.mvariety.com/news/local/liberation-day-festivities-underway/article_fc16ed4e-2bb7-11ef-b98d-230601d76628.html>
 
 ---
-
-## Giants TE Darren Waller retires after 8 NFL seasons
 
-date: 2024-06-10, from: Hawaii Tribune Harold
+## Marianas fashion shines on FestPAC stage
 
+date: 2024-06-16, updated: 2024-06-16, from: Marianas Variety
 
-				<p>New York Giants tight end Darren Waller announced his retirement on Sunday, explaining in a YouTube video that &#8220;the passion has slowly been fading.&#8221;</p>
-			 
+HONOLULU — Former Miss Marianas Shannon Tudela Sasamoto and other representatives of the CNMI were featured in a fashion show at the 13th Festival of Pacific Arts and Cultures alongside Guam designers and models on Wednesday, June 12. 
 
-<https://www.hawaiitribune-herald.com/2024/06/10/sports/giants-te-darren-waller-retires-after-8-nfl-seasons/>
+<https://www.mvariety.com/news/local/marianas-fashion-shines-on-festpac-stage/article_bd5623bc-2bb8-11ef-bcb0-73d845268797.html>
 
 ---
 
-## MLB roundup: Angels rally, walk off Astros
+## Sweden and Iran exchange prisoners in breakthrough deal
 
-date: 2024-06-10, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>Logan O&#8217;Hoppe&#8217;s two-run home run in the bottom of the ninth inning lifted the Los Angeles Angels to a 9-7 victory over the Houston Astros on Sunday afternoon in Anaheim, Calif.</p>
+				<p>STOCKHOLM &#8212; Sweden and Iran carried out a prisoner exchange on Saturday, officials said, with Sweden freeing a former Iranian official convicted for his role in a mass execution in the 1980s while Iran released two Swedes being held there.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/10/sports/mlb-roundup-angels-rally-walk-off-astros/>
+<https://www.hawaiitribune-herald.com/2024/06/16/nation-world-news/sweden-and-iran-exchange-prisoners-in-breakthrough-deal/>
 
 ---
 
-## he US election system was already wobbling, and now here comes AI
+## Police ID possible drowning victim as Pahoa man
 
-date: 2024-06-10, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>As we head into election season, the potential for misinformation is enormous and the ability of election officials to respond to artificial intelligence is limited.</p>
+				<p>Hawaii Island police are investigating a possible drowning the morning of June 9 off the shore of the 75-5700 block of Alii Drive, Kailua-Kona.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/10/opinion/he-us-election-system-was-already-wobbling-and-now-here-comes-ai/>
+<https://www.hawaiitribune-herald.com/2024/06/16/hawaii-news/police-id-possible-drowning-victim-as-pahoa-man/>
 
 ---
 
-## Is the Fed behind the curve?
+## Raised crosswalks to be installed near Kohala schools
 
-date: 2024-06-10, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>Monetary policymakers around the world are beginning, cautiously, to edge off the tight-money policies they imposed in an effort to cool inflation. Most important, the European Central Bank just cut the interest rates it controls by a quarter of a percentage point &#8212; a small number in itself but a signal of future normalization. And the ECB is a major player, setting policy for an economy around four-fifths as large as America&#8217;s.</p>
+				<p>Three raised crosswalks will be installed next week in front of Kohala Elementary, Kohala Middle and Kohala High schools.</p>
 			 
-
-<https://www.hawaiitribune-herald.com/2024/06/10/opinion/is-the-fed-behind-the-curve/>
-
----
-
-## Delaney breaks through on Guam
-
-date: 2024-06-10, from: Guam Daily Post
-
- 
-
-<https://www.postguam.com/sports/local/delaney-breaks-through-on-guam/article_bd6b566a-26ae-11ef-a5e9-ab542d0a258c.html>
-
----
-
-## Wood, Bukikosa-Esplana jubilant in Budweiser monthly
-
-date: 2024-06-10, from: Guam Daily Post
-
-Women ruled the lanes during the June edition of the Budweiser King and Prince of the Lanes. Maria Wood defeated top seed Juan Blas in the monthly finals with a scratch score of 179 to 170. Blas showed his striking… 
-
-<https://www.postguam.com/sports/local/wood-bukikosa-esplana-jubilant-in-budweiser-monthly/article_3acce61e-26af-11ef-9873-fbbd649fb9c4.html>
-
----
-
-## Tyanna Jacot 3-peats, Ivan Sablan repeats at Guam Amateur Golf Championship
-
-date: 2024-06-10, from: Guam Daily Post
-
-In a tournament that spanned two weekends and played on three challenging golf courses – Finest Guam Golf & Resort, Onward Talofofo Golf Club and Country Club of the Pacific – 15-year-old Tyanna Jacot and 20-year-old Ivan Sablan won the… 
-
-<https://www.postguam.com/sports/local/tyanna-jacot-3-peats-ivan-sablan-repeats-at-guam-amateur-golf-championship/article_ce82358c-269e-11ef-b5c7-0347c9cda27f.html>
-
----
 
-## Nurse takes home DAISY Award
+<https://www.hawaiitribune-herald.com/2024/06/16/hawaii-news/raised-crosswalks-to-be-installed-near-kohala-schools/>
 
-date: 2024-06-10, from: Guam Daily Post
-
-A Guam Regional Medical City emergency department nurse has been named the 2024 Diseases Attacking the Immune System, or DAISY, Award honoree. 
-
-<https://www.postguam.com/news/local/nurse-takes-home-daisy-award/article_e5c87434-26c8-11ef-a9ac-37d1cf78ea52.html>
-
----
-
-## Federal drug trial starts next week
-
-date: 2024-06-10, from: Guam Daily Post
-
-A jury of 12 has been selected for a man facing charges stemming from selling methamphetamine out of his home in 2021. 
-
-<https://www.postguam.com/news/local/federal-drug-trial-starts-next-week/article_4fbd243c-26d5-11ef-a3c8-6f0f2a92f30c.html>
-
----
-
-## Judge considering dismissal of  federal jury tampering charges
-
-date: 2024-06-10, from: Guam Daily Post
-
-A federal judge is considering whether to dismiss and suppress evidence in a case of a couple accused of influencing a juror in their 2018 drug trial. 
-
-<https://www.postguam.com/news/local/judge-considering-dismissal-of-federal-jury-tampering-charges/article_dff18ee4-26cb-11ef-9400-aff6f321a63c.html>
-
----
-
-## 2017 Messier murder suspects’ trials scheduled for later in year
-
-date: 2024-06-10, from: Guam Daily Post
-
-Negotiations are ongoing with trials scheduled later this year for two men accused in the 2017 homicide of Adam Messier. 
-
-<https://www.postguam.com/news/local/2017-messier-murder-suspects-trials-scheduled-for-later-in-year/article_4aa25e16-26c8-11ef-ace3-a313e7cb715e.html>
-
----
-
-## Board reviews complaints filed  by veterinarians on each other
-
-date: 2024-06-10, from: Guam Daily Post
-
-Things got a bit confusing for the Guam Board of Allied Health Examiners, which reviewed a slew of complaints filed by local veterinarians against each other. 
-
-<https://www.postguam.com/news/local/board-reviews-complaints-filed-by-veterinarians-on-each-other/article_44bce386-26d2-11ef-be9f-0309df03b815.html>
-
----
-
-## GHS/OCD owes general fund, in danger of losing federal funding
-
-date: 2024-06-10, from: Guam Daily Post
-
-Despite claiming to be 100% federally funded, Guam Homeland Security/Office of Civil Defense actually owes $8.4 million to the general fund due to federal grant restrictions, while prior documentation has repeatedly warned that the agencies may lose federal funding if… 
-
-<https://www.postguam.com/news/local/ghs-ocd-owes-general-fund-in-danger-of-losing-federal-funding/article_f436a8b2-26c1-11ef-8f40-07721affcb87.html>
-
----
-
-## Documentary film director with Guam roots wins James Beard
-
-date: 2024-06-10, from: Guam Daily Post
-
-A short documentary film produced by a director with Guam roots has won the James Beard Award, which recognizes the nation’s top food authors, broadcast producers, hosts, journalists, podcasters and social media content creators. 
-
-<https://www.postguam.com/news/local/documentary-film-director-with-guam-roots-wins-james-beard/article_c9c41640-26d1-11ef-b535-a30e688fb2f7.html>
-
----
-
-## Pacific island states team up to harness volcanic aquifers for water solutions 
-
-date: 2024-06-10, from: Pacific Island Times
-
-By Pacific Island Times News Staff Suva, Fiji (SPC)– Recognizing the need to tackle critical water management challenges for the region’s... 
-
-<https://www.pacificislandtimes.com/post/pacific-island-states-team-up-to-harness-volcanic-aquifers-for-water-solutions>
-
----
-
-## New defense command on Guam focused on building 'a very strong deterrent force'
-
-date: 2024-06-09, from: Pacific Island Times
-
-By Frank Whitman A little more than a year after taking command of Joint Region Marianas, Rear Adm. Gregory Huffman has turned over... 
-
-<https://www.pacificislandtimes.com/post/new-defense-command-on-guam-focused-on-building-a-very-strong-deterrent-force>
-
----
-
-## Brief chat with Denise Mendiola: Paving pathways to work
-
-date: 2024-06-09, from: Pacific Island Times
-
-By Frank Whitman To meet the businesses’ need for skilled workers in Guam and Micronesia, and the students’ need for skills that will... 
-
-<https://www.pacificislandtimes.com/post/brief-chat-with-denise-mendiola-paving-pathways-to-work>
-
----
-
-##  Immigration and asylum
-
-date: 2024-06-09, from: Pacific Island Times
-
-The CNMI’s economy will collapse because nobody will visit, while Guam is being overrun with illegal migrants using the CNMI as a... 
-
-<https://www.pacificislandtimes.com/post/immigration-and-asylum>
-
----
-
-##  The consequence of benign neglect
-
-date: 2024-06-09, from: Pacific Island Times
-
-After decades of benign neglect by the United States, the U.S. embassy in Pohnpei has ramped up its staff and is making a show of... 
-
-<https://www.pacificislandtimes.com/post/the-consequence-of-benign-neglect>
-
----
-
-## Broken promises: A day in the life of a Simon Sanchez student
-
-date: 2024-06-09, from: Pacific Island Times
-
-By Rubyjayne Buhain-Redila Gavin Borja’s alarm clock blares, jolting him awake from a restless sleep. Bleary-eyed, he glances at the... 
-
-<https://www.pacificislandtimes.com/post/broken-promises-a-day-in-the-life-of-a-sumon-sanchez-student>
-
----
-
-## Guam AG opposes proposed conversion of recreational facility into solar farm 
-
-date: 2024-06-09, from: Pacific Island Times
-
-By Pacific Island Times News Staff Attorney General Douglas Moylan is opposing a bill that would convert a government property earmarked... 
-
-<https://www.pacificislandtimes.com/post/guam-ag-opposes-proposed-conversion-of-recreational-facility-into-solar-farm>
-
 ---
 
-## Future of Prince Kuhio Plaza still in limbo
+## Ukraine peace talks held in Switzerland, though Russia isn’t invited
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>The chairman of the Hawaiian Homes Commission last month told the manager of Prince Kuhio Plaza that if a 40-year lease extension the mall is seeking is to be granted, PKP and its parent company, Brookfield Properties, will have to improve its benefits package for Native Hawaiians.</p>
+				<p>OBB&#0220;RGEN, Switzerland &#8212; Ukrainian President Volodymyr Zelenskyy played the starring role at a peace conference in Switzerland on Saturday aimed at shoring up support for Ukraine&#8217;s negotiating positions in its war with Russia with the backing of as many nations as possible.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/hawaii-news/future-of-prince-kuhio-plaza-still-in-limbo/>
+<https://www.hawaiitribune-herald.com/2024/06/16/nation-world-news/ukraine-peace-talks-held-in-switzerland-though-russia-isnt-invited/>
 
 ---
 
-## Cop cleared in teen’s death
+## De Luzes selling Big Island Toyota: Servco will take over, retain employees
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>An 18-year Hawaii Police Department veteran who was behind the wheel of a police cruiser when it struck and killed a 16-year-old pedestrian in January is back on duty.</p>
+				<p>Big Island Toyota is being sold.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/hawaii-news/cop-cleared-in-teens-death/>
+<https://www.hawaiitribune-herald.com/2024/06/16/hawaii-news/de-luzes-selling-big-island-toyota-servco-will-take-over-retain-employees/>
 
 ---
 
-## Safety concerns regarding KWXX Ho‘olaule‘a resolved: Event will return to downtown Hilo
+## Lee Loy responds to election challenge
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>The 28th KWXX Ho&#8216;olaule&#8216;a might not happen this year, but it will eventually return to downtown Hilo now that a conflict with Hawaii County has been resolved.</p>
+				<p>A term-limited Hawaii County Council member facing a legal challenge to her campaign for the state House District 2 seat being vacated by Rep. Richard Onishi has filed her response.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/hawaii-news/safety-concerns-regarding-kwxx-hoolaulea-resolved-event-will-return-to-downtown-hilo/>
+<https://www.hawaiitribune-herald.com/2024/06/16/hawaii-news/lee-loy-responds-to-election-challenge/>
 
 ---
 
-## Pele’s Kitchen reopens following fire
+## HPD makes progress on hiring officers
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>With plenty of community support and hard work, Pele&#8217;s Kitchen in Pahoa has reopened 78 days after a structure fire.</p>
+				<p>In his State of the County address in March, Mayor Mitch Roth set a goal of filling all the vacant officer positions in the Hawaii Police Department by June 2025.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/hawaii-news/peles-kitchen-reopens-following-fire/>
+<https://www.hawaiitribune-herald.com/2024/06/16/hawaii-news/hpd-makes-progress-on-hiring-officers/>
 
 ---
 
-## Chorus director Tom McAlexander dies at age 84
+## Charles Barkley says he’ll retire from TV after next year, ‘no matter what happens’ with TNT
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>Tom McAlexander, a man who devoted his retirement to lifting East Hawaii&#8217;s voices in song, died June 2 at his Volcano home. He was 84.</p>
+				<p>Amid an uncertain future for NBA coverage on TNT, Charles Barkley said he will retire from TV after next year.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/hawaii-news/chorus-director-tom-mcalexander-dies-at-age-84/>
+<https://www.hawaiitribune-herald.com/2024/06/16/sports/charles-barkley-says-hell-retire-from-tv-after-next-year-no-matter-what-happens-with-tnt/>
 
 ---
 
-## Israel rescues 4 hostages in assault that killed scores of Palestinians
+## MLB roundup: Rockies erupt for 16 runs, club Pirates
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>JERUSALEM &#8212; Israeli soldiers and special operations police rescued four hostages from the Gaza Strip on Saturday amid a heavy air and ground assault and flew them back to Israel by helicopter to be reunited with their families. The news was met with jubilation in Israel, where anxieties over the fate of the roughly 120 remaining captives have been rising after eight months of war.</p>
+				<p>Hunter Goodman homered twice and finished a triple shy of the cycle, Michael Toglia hit a grand slam and also singled and the Colorado Rockies beat the Pittsburgh Pirates 16-4 in Denver on Saturday night.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/nation-world-news/israel-rescues-4-hostages-in-assault-that-killed-scores-of-palestinians/>
+<https://www.hawaiitribune-herald.com/2024/06/16/sports/mlb-roundup-rockies-erupt-for-16-runs-club-pirates/>
 
 ---
 
-## Biden and Macron talk togetherness, with no mention of discord over Gaza Strip
+## Oilers stay alive with thrashing of Panthers in Game 4
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>PARIS &#8212; U.S. President Joe Biden and French President Emmanuel Macron on Saturday stressed how much they agree with each other about world affairs, including the war in Ukraine, even as their countries have expressed sharply different views of the fighting in the Gaza Strip between Israel and Hamas.</p>
+				<p>Connor McDavid had a goal and three assists to help the Edmonton Oilers avoid elimination with an 8-1 win against the visiting Florida Panthers on Saturday night in Game 4 of the Stanley Cup Final.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/nation-world-news/biden-and-macron-talk-togetherness-with-no-mention-of-discord-over-gaza-strip/>
+<https://www.hawaiitribune-herald.com/2024/06/16/sports/oilers-stay-alive-with-thrashing-of-panthers-in-game-4/>
 
 ---
 
-## William A. Anders, who flew on first manned orbit of the moon, dies at 90
+## Community celebrates dedication of James “Jimmy” Correa Ballfield
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>Maj. William A. Anders, who flew on the first manned space mission to orbit the moon, the Apollo 8 &#8220;Genesis flight&#8221; of Christmas Eve 1968, and took the color photograph &#8220;Earthrise,&#8221; which is credited with inspiring the modern environmental movement, died Friday morning when a small plane he was piloting alone dived into the water near Roche Harbor, Washington, northwest of Seattle. He was 90.</p>
+				<p>The baseball field at Francis Wong Stadium officially has a new name to honor the legacy of James &#8220;Jimmy&#8221; Correa and the impact he had as the &#8220;Father of Hilo Baseball.&#8221;</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/nation-world-news/william-a-anders-who-flew-on-first-manned-orbit-of-the-moon-dies-at-90/>
+<https://www.hawaiitribune-herald.com/2024/06/16/sports/community-celebrates-dedication-of-james-jimmy-correa-ballfield/>
 
 ---
 
-## Vietnam arrests prominent journalist for Facebook posts
+## Kyrie Irving, down 3-1 again, returns to Boston for his ultimate test
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>Authorities in Vietnam have arrested one of the country&#8217;s most prominent journalists and accused him of &#8220;abusing democratic freedoms&#8221; by posting articles on Facebook that &#8220;infringed on the interests of the state and the legitimate rights and interests of organizations and individuals.&#8221;</p>
+				<p>DALLAS &#8212; The last time we saw Kyrie Irving in Boston, he was agitated walking off the court, strutting with determination.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/nation-world-news/vietnam-arrests-prominent-journalist-for-facebook-posts/>
+<https://www.hawaiitribune-herald.com/2024/06/16/sports/kyrie-irving-down-3-1-again-returns-to-boston-for-his-ultimate-test/>
 
 ---
 
-## Obituaries for June 9
+## Grit and swagger: Spalletti’s Italy survive storm
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>Lynette Noelani Auna, 63, of Keaukaha died May 29. Born in Hilo, she was a probation officer, teacher, business owner, counselor and political aide, Hilo High School Class of 1979 alumna, graduate of Hawaii Community College and Pathway Connect and member of The Church of Jesus Christ of Latter-day Saints, Keaukaha Ward. Visitation 8-10:30 a.m. Friday (June 14) at The Church of Jesus Christ of Latter-day Saints Hilo Stake Center, 1373 Kilauea Ave.. Funeral service at 11 a.m. Burial tp at the Homelani Memorial Park. Survived by husband, Aubrey Auna of Hilo; sons, Aaron (Jackie) Auna and Marcus Auna of Hilo; daughter, Jacelyn Auna of Hilo; mother, Roselani Napeahi of Hilo; brother, Joseph (Wanda) Napeahi of Kahuku; sisters, Terri Napeahi, Laures Napeahi-Ulep and LaCher (Eric) Napeahi of Hilo; brothers-in-law, Aley (Danelle) Auna of Kailua-Kona and Ahlberg (Tia) Auna of San Antonio; sisters-in-law, Adrienne (Sam) Thomas of Hilo, Allyce TeNgaio of Pleasant Grove, Utah, and Althea (Fia) Neria of Salt Lake City; three grandchildren; aunts, uncles, cousins, nieces and nephews. Arrangements by Dodo Mortuary.</p>
+				<p>DORTMUND, Germany &#8212; The way Italy fought back to win their Euro 2024 opener against Albania should instill new belief in a fan base badly hurt by their failure to qualify for the last two World Cups.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/obituaries/obituaries-for-june-9-12/>
+<https://www.hawaiitribune-herald.com/2024/06/16/sports/grit-and-swagger-spallettis-italy-survive-storm/>
 
 ---
 
-## Volcano Watch: Keeping up with Kilauea
+## Spain outclass Croatia 3-0 in Euro 2024 opener
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>Kilauea began erupting from fissures southwest of Kaluapele (the summit caldera) just after midnight on June 3; the eruption ceased just nine hours later, though lava flows continued to slowly spread for several more hours. Prior to the brief eruption, the USGS Hawaiian Volcano Observatory (HVO) had been monitoring pulses of heightened seismic activity in the summit area for weeks.</p>
+				<p>BERLIN &#8212; Spain overran Croatia 3-0, striking three times in a sublime first half to earn maximum points in their Euro 2024 Group B opener on Saturday and confirm their status as title contenders.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/community/volcano-watch-keeping-up-with-kilauea/>
+<https://www.hawaiitribune-herald.com/2024/06/16/sports/spain-outclass-croatia-3-0-in-euro-2024-opener/>
 
 ---
 
-## Panthers take Stanley Cup Final lead over Oilers but know what’s next is ‘going to be a grind’
+## Trump, Biden and CNN prepare for a hostile debate (with muted mics)
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>SUNRISE, Fla. &#8212; Ten hours after a Game 5 victory over the New York Rangers, the elevator door on the 25 floor of the Florida Panthers&#8217; Manhattan hotel opened 30 minutes before the Panthers&#8217; team bus was scheduled to leave for the airport.</p>
+				<p>There will be no opening statements. President Joe Biden and former President Donald Trump will each have two minutes to answer questions &#8212; followed by one-minute rebuttals and responses to the rebuttals. Red lights visible to the candidates will flash when they have five seconds left, and turn solid red when time has expired. And each man&#8217;s microphone will be muted when it is not his turn to speak.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/sports/panthers-take-stanley-cup-final-lead-over-oilers-but-know-whats-next-is-going-to-be-a-grind/>
+<https://www.hawaiitribune-herald.com/2024/06/16/nation-world-news/trump-biden-and-cnn-prepare-for-a-hostile-debate-with-muted-mics/>
 
 ---
 
-## Cainglit, Bercan named KTA Super Stores Superstars of May
+## Trump visits Detroit church in bid to court Black voters
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>The KTA Super Stores Superstars of the Month highlights one male and one female Hawai&#8217;i Hilo Vulcans student-athlete for their stand-out accomplishments.</p>
+				<p>DETROIT &#8212; Donald Trump ventured on Saturday where few Republican presidential candidates tread &#8211; the city of Detroit, attending a community forum as part of a push to peel Black voters from President Joe Biden ahead of November&#8217;s election.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/sports/cainglit-bercan-named-kta-super-stores-superstars-of-may/>
+<https://www.hawaiitribune-herald.com/2024/06/16/nation-world-news/trump-visits-detroit-church-in-bid-to-court-black-voters/>
 
 ---
 
-## MLB roundup: Dodgers, Teoscar Hernandez top Yankees again
+## Voyager 1, after major malfunction, is back from the brink, NASA Says
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>Teoscar Hernandez hit two home runs, including a grand slam in the eighth inning, as the Los Angeles Dodgers pulled away for an 11-3 victory over the host New York Yankees on Saturday night.</p>
+				<p>Several months after a grave computer problem seemed to spell the end for Voyager 1, which for nearly a half century had provided data on the outer planets and the far reaches of the solar system, NASA announced Thursday that it had restored the spacecraft to working order.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/sports/mlb-roundup-dodgers-teoscar-hernandez-top-yankees-again/>
+<https://www.hawaiitribune-herald.com/2024/06/16/nation-world-news/voyager-1-after-major-malfunction-is-back-from-the-brink-nasa-says/>
 
 ---
 
-## As Celtics and Mavs prepare for Game 2, Jason Kidd opts to play head games
+## Unruly passenger who was restrained with duct tape faces record fine
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>BOSTON &#8212; It&#8217;s as though the NBA marketing people got together a couple of days back to mull this question: What can be done to bring an added layer of soap opera-level intrigue to this NBA Finals between the Boston Celtics and Dallas Mavericks?</p>
+				<p>An American Airlines passenger who kicked and spit at flight attendants and passengers and attempted to open the cabin door before she was secured to a seat with duct tape has been sued by the Federal Aviation Administration for $81,950, the largest fine issued by the agency for unruly behavior.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/sports/as-celtics-and-mavs-prepare-for-game-2-jason-kidd-opts-to-play-head-games/>
+<https://www.hawaiitribune-herald.com/2024/06/16/nation-world-news/unruly-passenger-who-was-restrained-with-duct-tape-faces-record-fine/>
 
 ---
 
-## Clay queen Swiatek rules again at Roland Garros
+## Volcano Watch: A decade later, remembering the Pahoa lava flow crisis
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>PARIS &#8212; Iga Swiatek produced a ruthless performance to crush 12th seed Jasmine Paolini on Saturday and win a third straight French Open crown and fifth Grand Slam title of her career.</p>
+				<p>Over the past few years, eruptions of Kilauea volcano on the Island of Hawaii have happened in remote regions and lava flows have not directly threatened communities. However, the approaching anniversary of a lava flow crisis a decade ago reminds us that eruptions on Kilauea have the potential to cause damage and island-wide disruption.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/sports/clay-queen-swiatek-rules-again-at-roland-garros/>
+<https://www.hawaiitribune-herald.com/2024/06/16/features/volcano-watch-a-decade-later-remembering-the-pahoa-lava-flow-crisis/>
 
 ---
 
-## Italy’s Ravenna: once powerful, still glorious
+## Obituaries for June 16
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>Ravenna is on Italy&#8217;s tourist map for one reason: its 1,500-year-old churches decorated with best-in-the-West Byzantine mosaics. While locals go about their business, busloads of tourists slip in and out of this town near the Adriatic coast to bask in the glittering glory of Byzantium, the eastern Roman Empire.</p>
+				<p>Ronnie Marcelo Aurello, 60, of Paauilo died May 31 at Queen&#8217;s North Hawaii Community Hospital. Born in Honokaa, he was the banquet lead houseman at The Westin Hapuna Beach Hotel, banquet porter at Mauna Kea Beach Hotel and brittle maker for Hawaiian Holiday Macadamia Nut. Visitation 8-9:30 a.m. Saturday (June 22) at Our Lady of Lourdes Catholic Church in Honokaa. Service to follow. Survived by wife, Janette (Gonsalves) Aurello of Paauilo; son, Ronson Aurello of Paauilo; daughter, Ashley (Harry) Yim of Maryland; brothers, Rodney (JoAnn) Aurello of Hilo, Randal (Karen) Aurello of Bartlett, Tenn., Ryan (Charmaine) Aurello and Roland (Angelina Agustin) Aurello of Paauilo; sisters, Rosita Nagun of Waikoloa and Rosalinda (Clive) Kidani of Paauilo; mother-in-law, Eleanor Gonsalves of Hilo; brothers-in-law, James &#8220;Gonzo&#8221; Gonsalves of Paauilo, Jaime (Eileen) Iwasaki of Papaaloa, Jarrett (Pua) Gonzalves Sr. of Louisville, Ky., and Darren (Christina) Gonsalves of Virginia; sisters-in-law, Cheryl Lynn (Elmer) Gonsalves-Tabudlo of Waimea, Shariann (Kui Dela Cruz) Gonsalves of Honokaa and Trisha (Brad) Gaston of Hilo; aunts, uncles, nieces, nephews and cousins. Arrangements by Ballard Family Mortuary.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/features/italys-ravenna-once-powerful-still-glorious/>
+<https://www.hawaiitribune-herald.com/2024/06/16/obituaries/obituaries-for-june-16-12/>
 
 ---
 
-## Underrated national parks to visit this summer
+## Irwin: Islands of Opportunity in the Pacific
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>National parks are incredible places for discovery, yet oftentimes we think about visiting only the most popular: Yosemite, Yellowstone, Glacier, and a few others. Yet the National Park Service maintains and protects hundreds of parks, national lakeshores and seashores, recreation areas, walking trails and more, all for you to take in and enjoy.</p>
+				<p>Like many people from Hawaii Island, I was privileged to attend a small part of the 13th Festival of Pacific Arts and Culture, or FestPAC. The energy in the convention center, the range of engaging performances and displays, the diversity of people in Honolulu, all combined for an amazing experience even if I could only attend for a couple of hours.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/features/underrated-national-parks-to-visit-this-summer/>
+<https://www.hawaiitribune-herald.com/2024/06/16/opinion/irwin-islands-of-opportunity-in-the-pacific/>
 
 ---
 
-## Donald Trump’s mob rule
+## Steves: ‘It feels like a new morning in Belfast’
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>This week, Breitbart interviewed former Trump official Peter Navarro, one of many criminals in the ex-president&#8217;s orbit, from the Miami prison where he is serving four months for contempt of Congress. While life behind bars is difficult, Navarro boasted that his stint has been smoothed by his ties to Donald Trump, which make him something of a made man. The former president, said Navarro, is beloved not just by the guards, but by the &#8220;vast majority&#8221; of inmates as well. &#8220;If I were a Bidenite, things would be a lot tougher here &#8212; and yes, they know exactly who I am and respect the fact that I stood up for a principle and didn&#8217;t bow to the government,&#8221; he said.</p>
+				<p>Belfast, Northern Ireland&#8217;s capital city, is perhaps best known for the sectarian strife that took place here during the era of the Troubles, and as the birthplace of the Titanic (and many other ships that didn&#8217;t sink). While these two claims to fame aren&#8217;t too uplifting, Belfast&#8217;s story is hardly a downer. This unsinkable city, just two hours away from Dublin by train, makes for a fascinating day trip.</p>
 			 
 
-<https://www.hawaiitribune-herald.com/2024/06/09/opinion/donald-trumps-mob-rule/>
+<https://www.hawaiitribune-herald.com/2024/06/16/features/steves-it-feels-like-a-new-morning-in-belfast/>
 
 ---
 
-## Dear justices: Please keep the lights on
+## Supreme Court isn’t above other branches
 
-date: 2024-06-09, from: Hawaii Tribune Harold
+date: 2024-06-16, from: Hawaii Tribune Harold
 
 
-				<p>Our politicians, elected officials and government are supposed to do what&#8217;s best for the people of Hawaii, not for a pet special interest group or their own ideology. That&#8217;s why it is so hard to understand the City of Honolulu pursuing a lawsuit that aims to punish companies for &#8220;causing&#8221; climate change by using fossil fuels.</p>
+				<p>Speaking freely at a glitzy Supreme Court Historical Society event earlier this month, Justice Samuel Alito pointed out that there are &#8220;fundamental things that really can&#8217;t be compromised&#8221; in society, and speculated that &#8220;one side or the other is going to win.&#8221; The comments were recorded by a documentarian who had attended the events and surreptitiously recorded the justices as they increasingly find themselves under the microscope for tossing precedent overboard and embarking on ideologically rigid right-wing path.</p>
 			 
-
-<https://www.hawaiitribune-herald.com/2024/06/09/opinion/dear-justices-please-keep-the-lights-on/>
-
----
-
-## 76 King's edge Cardinals in championship game
-
-date: 2024-06-09, from: Guam Daily Post
-
-With the Guam Amateur Baseball Association 2024 Spring Amateur Baseball League championship game on the line, the 76 King’s defeated the Cardinals 4-3 Saturday at Okkodo High School. 
-
-<https://www.postguam.com/sports/local/76-kings-edge-cardinals-in-championship-game/article_06ed451e-25dd-11ef-b437-430549196eab.html>
-
----
-
-## Legacy Volleyball Club seeks unity, hardware in Quezon City
-
-date: 2024-06-09, from: Guam Daily Post
-
-Thirty-seven youth volleyball players from Legacy Volleyball Club are set to compete in the highly anticipated Unity Tournament in Quezon City, Philippines. The delegation, comprised of two U14 teams and one U17 team, departed Guam on Saturday and will return… 
-
-<https://www.postguam.com/sports/local/legacy-volleyball-club-seeks-unity-hardware-in-quezon-city/article_e1efb0c8-25df-11ef-91bc-13d20fe81678.html>
-
----
-
-## GEDA: Grant applications are open for child care programs
-
-date: 2024-06-09, from: Guam Daily Post
-
-Up to $200,000 in grant funding has been made available to certified child care development facilities through the launch of the 2024 Community Care Summer Grant Program. 
-
-<https://www.postguam.com/news/local/geda-grant-applications-are-open-for-child-care-programs/article_48ed0838-2550-11ef-a821-efe9dccd1350.html>
-
----
-
-## Trespassing suspect, sleeping in garage, allegedly had drugs
-
-date: 2024-06-09, from: Guam Daily Post
-
-Guam Police Department officers searched a man who was found sleeping on private property, stating they were “fearful” that if they tried to wake him, he would brandish a weapon. A subsequent pat-down allegedly yielded drug paraphernalia on his person. 
-
-<https://www.postguam.com/news/local/trespassing-suspect-sleeping-in-garage-allegedly-had-drugs/article_95ec3830-25fe-11ef-bb99-a3ff4801f231.html>
-
----
-
-## Man allegedly assaults woman, burns down her ‘family shack’
-
-date: 2024-06-09, from: Guam Daily Post
-
-A man is behind bars after he allegedly assaulted his girlfriend and burned down her house. 
-
-<https://www.postguam.com/news/local/man-allegedly-assaults-woman-burns-down-her-family-shack/article_ad352118-25f0-11ef-9907-dbd795d0c80b.html>
-
----
-
-## Man, allegedly displaying signs of meth use, arrested in traffic stop
-
-date: 2024-06-09, from: Guam Daily Post
-
-Richard Flores, 51, allegedly exhibited signs of methamphetamine use on Friday, according to Guam Police Department officers who encountered him during a traffic stop. 
-
-<https://www.postguam.com/news/local/man-allegedly-displaying-signs-of-meth-use-arrested-in-traffic-stop/article_672a63dc-25fe-11ef-8499-af96c5f8914a.html>
-
----
-
-## GPA prepares to implement energy credit
-
-date: 2024-06-09, from: Guam Daily Post
-
-The Guam Power Authority is getting ready to apply energy credits to ratepayers' accounts, but how much and when is dependent on the funding received. 
-
-<https://www.postguam.com/news/local/gpa-prepares-to-implement-energy-credit/article_6a70694a-2605-11ef-84ec-f76320ff9a42.html>
-
----
-
-## Departing doctor donates golf cart to GMH
-
-date: 2024-06-09, from: Guam Daily Post
-
-After nearly two years as the Guam Memorial Hospital Authority’s foot and ankle specialist, Dr. Dustin Prins is bidding GMH farewell, but he’s hopeful his recent donation will continue to help patients. 
 
-<https://www.postguam.com/news/local/departing-doctor-donates-golf-cart-to-gmh/article_d09561ce-254e-11ef-a36e-cfd3456f412d.html>
+<https://www.hawaiitribune-herald.com/2024/06/16/opinion/supreme-court-isnt-above-other-branches/>
 
 ---
 
-## Adelup declares June Philippine Independence Month on Guam
+## Bookshelf: The story of the Tinian battle in words and images
 
-date: 2024-06-09, from: Guam Daily Post
+date: 2024-06-16, from: Pacific Island Times
 
-On Friday, the 126th celebration of Philippine Independence kicked off with members of the Filipino community on Guam and the governor’s office recognizing the historic significance of the event. 
+By Pacific Island Times News Staff At 02.45 hours on the morning of Aug. 6, 1945, a Boeing B-29 Superfortress, named after the pilot’s... 
 
-<https://www.postguam.com/news/local/adelup-declares-june-philippine-independence-month-on-guam/article_91158308-253a-11ef-a113-b739f4ac0a1b.html>
+<https://www.pacificislandtimes.com/post/bookshelf-the-story-of-the-tinian-battle-in-words-and-images>
 
 ---
 
-## Nearly 150 Guam musicians to perform in Vienna music festival
+## Leveraging the power of art for a sustainable future 
 
-date: 2024-06-09, from: Guam Daily Post
+date: 2024-06-16, from: Pacific Island Times
 
-For the first time, a delegation of nearly 150 musicians and their support team will be representing the island at the Summa Cum Laude International Youth Music Festival. 
+By Pacific Island Times News Staff From visual arts to performance and multimedia, CHamoru and other Pacific island artists are... 
 
-<https://www.postguam.com/news/local/nearly-150-guam-musicians-to-perform-in-vienna-music-festival/article_ebce5572-25fd-11ef-bb87-af4a9e00271a.html>
+<https://www.pacificislandtimes.com/post/leveraging-the-power-of-art-for-a-sustainable-future>
 
