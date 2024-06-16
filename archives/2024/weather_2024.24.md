@@ -1,11 +1,11 @@
 ---
 title: weather 2024.24
-updated: 2024-06-14 07:34:19
+updated: 2024-06-15 17:33:53
 ---
 
 # weather 2024.24
 
-(date: 2024-06-14 07:34:19)
+(date: 2024-06-15 17:33:53)
 
 ---
 
@@ -103,113 +103,6 @@ threat of locally damaging winds and hail.
  
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-06-14, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Fri Jun 14 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Offshore of the Southeastern U.S. (AL90):<br>Satellite data and surface observations indicate that the low <br>pressure area offshore of the southeastern U.S. coast has become a <br>little better organized since yesterday.  However, upper-level <br>winds remain strong, and the system is forecast to merge with a <br>front over the western Atlantic Saturday or Sunday. Regardless of <br>development, heavy rainfall is forecast to continue across portions <br>of the Florida peninsula through Saturday. For more information, <br>see products issued by the Weather Prediction Center and local <br>National Weather Service Forecast Offices.<br>* Formation chance through 48 hours...low...20 percent.<br>* Formation chance through 7 days...low...20 percent.<br><br />
-2. Southwestern Gulf of Mexico:<br>A broad area of low pressure is forecast to form over the <br>southwestern Gulf of Mexico late this weekend or early next week. <br>Environmental conditions appear conducive for gradual development of <br>this system, and a tropical depression could form during the early <br>or middle part of next week while it moves slowly westward or <br>west-northwestward.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...medium...50 percent.<br><br />
-<br>Weather Prediction Center products can be found at <br>www.wpc.ncep.noaa.gov and National Weather Service forecast <br>information can be found at www.weather.gov<br><br>Forecaster Beven<br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-06-14, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Fri, 14 Jun 2024 11:39:43 GMT 
-
-<https://www.nhc.noaa.gov/gis/>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2024-06-14, from: Eastern Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ABPZ20 KNHC 141137<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-500 AM PDT Fri Jun 14 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Offshore of Southern Mexico:<br/>
-An area of low pressure located a couple of hundred miles southwest <br/>
-of Acapulco, Mexico, is producing limited shower and thunderstorm <br/>
-activity. Further development of this system is becoming unlikely, <br/>
-as the system interacts with a broader circulation that is forecast <br/>
-to develop offshore of southern Mexico and Central America early <br/>
-next week. <br/>
-* Formation chance through 48 hours...low...10 percent.<br/>
-* Formation chance through 7 days...low...10 percent.<br/>
-<br/>
-$$<br/>
-Forecaster Kelly<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-06-14, from: Eastern Pacific Basin Tropical Cyclones
-
-No tropical cyclones as of Fri, 14 Jun 2024 11:39:43 GMT 
-
-<https://www.nhc.noaa.gov/>
-
----
-
-## CPHC Central North Pacific Outlook
-
-date: 2024-06-14, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC HFOTWOCP ALL<br />
-TTAA00 PHFO DDHHMM<br />
-<br />
-Tropical Weather Outlook<br />
-NWS Central Pacific Hurricane Center Honolulu HI<br />
-200 AM HST Fri Jun 14 2024<br />
-<br />
-For the central North Pacific...between 140W and 180W:<br />
-<br />
-No tropical cyclones are expected during the next 7 days.<br />
-<br />
-$$<br />
-Forecaster Almanza<br />
-NNNN<br />
-<br />
-</div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
 
 ---
 

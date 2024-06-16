@@ -1,11 +1,63 @@
 ---
 title: mid central 2024.24
-updated: 2024-06-14 07:34:17
+updated: 2024-06-15 17:33:51
 ---
 
 # mid central 2024.24
 
-(date: 2024-06-14 07:34:17)
+(date: 2024-06-15 17:33:51)
+
+---
+
+## ARRL Systems Service Disruption
+
+date: 2024-06-14, from: Amateur Radio Relay League News
+
+<p><b>Updated 6/14/2024</b></p><p>We are continuing to make progress on restoring the ARRL network and many related systems and databases. Thank you for your continued patience and understanding as we carefully address and restore affected services.</p><p>While the Logbook of The World® server, Online DXCC, and related user data are secure and unaffected, we have taken the precautionary measure of keeping the services...</p> 
+
+<http://www.arrl.org/news/view/arrl-systems-service-disruption>
+
+---
+
+## What GAA and HBM restrictions mean for South Korea
+
+date: 2024-06-14, from: EDN Blog
+
+<img width="600" height="274" src="https://www.edn.com/wp-content/uploads/Fig-1-GAA-Samsung-1.jpg?fit=600%2C274" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-GAA-Samsung-1.jpg?w=600 600w, https://www.edn.com/wp-content/uploads/Fig-1-GAA-Samsung-1.jpg?w=300 300w" sizes="(max-width: 600px) 100vw, 600px" /><p>Though no final decision has been made yet, it’d be interesting to see how South Korean officials respond to GAA and HBM export restrictions.</p>
+<p>The post <a href="https://www.edn.com/what-gaa-and-hbm-restrictions-mean-for-south-korea/" data-wpel-link="internal">What GAA and HBM restrictions mean for South Korea</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/what-gaa-and-hbm-restrictions-mean-for-south-korea/>
+
+---
+
+## ARRL Teachers Institute Kicks Off Summer Cohorts
+
+date: 2024-06-14, from: Amateur Radio Relay League News
+
+<p>Teachers are gathered from around the United States to learn about amateur radio, and how to use it in their classrooms as part of science, technology, engineering, and mathematics (STEM) education. The 2024 cohorts of the ARRL Teachers Institute (TI) on Wireless Technology have begun.  </p><p>The first group members for the year are each returning teachers participating in the second round of learnin...</p> 
+
+<http://www.arrl.org/news/view/arrl-teachers-institute-kicks-off-summer-cohorts>
+
+---
+
+## 2024 ARRL Field Day is Next Week!
+
+date: 2024-06-14, from: Amateur Radio Relay League News
+
+<p>The amateur radio event of the year is just a few short days away, June 22-23. Hundreds of thousands of hams around North America and beyond will participate in the beloved operating event. If you’re still looking for a place to go, use the Field Day locator tool at www.arrl.org/field-day-locator.</p><p>As clubs and individual operators make their last-minute checks on gear (have you checked all of yo...</p> 
+
+<http://www.arrl.org/news/view/2024-arrl-field-day-is-next-week>
+
+---
+
+## Amateur Radio Connects Family Members During Utah Boating Emergency
+
+date: 2024-06-14, from: Amateur Radio Relay League News
+
+<p>On June 5, Isaac Stiles, KJ7FAY, and his 3-year-old son were involved in a boating accident. Their canoe had tipped over at the Lost Dog Confluence to the Flaming Gorge Reservoir. The initial emergency call was made by Stiles’ wife, Kendal. She had to drive to nearby campsites until she found someone with a phone and then made the call to the Green River Fire Department (GRFD). She told them th...</p> 
+
+<http://www.arrl.org/news/view/amateur-radio-connects-family-members-during-utah-boating-emergency>
 
 ---
 
@@ -23,7 +75,7 @@ date: 2024-06-14, from: Amateur Radio Relay League News
 
 date: 2024-06-14, from: EDN Blog
 
-<img width="584" height="891" src="https://www.edn.com/wp-content/uploads/Spot-Welding-3.png?fit=584%2C891" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Spot-Welding-3.png?w=584 584w, https://www.edn.com/wp-content/uploads/Spot-Welding-3.png?w=197 197w" sizes="(max-width: 584px) 100vw, 584px" /><p>Spot welds are used in many day-to-day items, but how is it performed? And what are some of the considerations that come with spot welding?</p>
+<img width="584" height="891" src="https://www.edn.com/wp-content/uploads/Spot-Welding-3.png?fit=584%2C891" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Spot-Welding-3.png?w=584 584w, https://www.edn.com/wp-content/uploads/Spot-Welding-3.png?w=197 197w" sizes="(max-width: 584px) 100vw, 584px" /><p>Spot welds are used in many day-to-day items, but how is it performed? And what are some of the considerations that come with spot welding?</p>
 <p>The post <a href="https://www.edn.com/a-look-at-spot-welding/" data-wpel-link="internal">A look at spot welding</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

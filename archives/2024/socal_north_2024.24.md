@@ -1,11 +1,73 @@
 ---
 title: socal north 2024.24
-updated: 2024-06-14 07:34:16
+updated: 2024-06-15 17:33:50
 ---
 
 # socal north 2024.24
 
-(date: 2024-06-14 07:34:16)
+(date: 2024-06-15 17:33:50)
+
+---
+
+## Summer Fire Risks Highlighted at Multi-Agency Safety Press Conference
+
+date: 2024-06-14, from: City of Santa Clarita
+
+<p>&#160;Residents Can See Fire Equipment, Helicopters and Brush-Clearing Goats in Action on June 21 As we officially welcome hot summer weather, the City of Santa Clarita, County of Los Angeles and public safety officials are urging residents to keep their families, pets and properties safe from wildfires this season. To educate residents about the wildfire [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/06/14/summer-fire-risks-highlighted-at-multi-agency-safety-press-conference/">Summer Fire Risks Highlighted at Multi-Agency Safety Press Conference</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/06/14/summer-fire-risks-highlighted-at-multi-agency-safety-press-conference/>
+
+---
+
+## ‘Just for the Halibut’ crowns champs
+
+date: 2024-06-14, from: Catalina Islander
+
+The ‘Just for the Halibut’ Fishing tournament fundraiser recently crowned this year’s winners. In first place was Billy Katkov, who hauled in a 19.78 lb. halibut. Jeffrey McElroy took second with a 14.78 lb. catch and Nathan Lins was third with a 9.84 pounder. The event was started 35 years ago by Steve Bray, but [&#8230;] 
+
+<https://thecatalinaislander.com/just-for-the-halibut-crowns-champs/>
+
+---
+
+## Budget to go to council June 18
+
+date: 2024-06-14, from: Catalina Islander
+
+The final version of the 2024-25 budget will come to the Avalon City Council on Tuesday, June 18. The proposed budget for the city as a whole increased 6.1%, according to Finance Director Matt Baker. He presented the council with a draft—repeat, draft—of the budget at the June 4 meeting. Remember that all numbers are [&#8230;] 
+
+<https://thecatalinaislander.com/budget-to-go-to-council-june-18/>
+
+---
+
+## Hamilton Cove Real Estate, Straight Up Builders win softball
+
+date: 2024-06-14, from: Catalina Islander
+
+Bravo’s Landscaping and Hamilton Cove Real Estate opened the night for Catalina Co Ed Softball. Bravo’s Landscaping’s Sebastian Sanchez hit a solo home run in the top of the first. Bravo’s Landscaping added three more runs in the second. After two quick outs Tyler Engel hit a solo home run. Two more runs followed off [&#8230;] 
+
+<https://thecatalinaislander.com/hamilton-cove-real-estate-straight-up-builders-win-softball/>
+
+---
+
+## New exhibit highlights Catalina history
+
+date: 2024-06-14, from: Catalina Islander
+
+A new exhibit at the Catalina Island Museum for Art &#38; History highlights the museum’s seven-decade role in preserving the island’s unique history and art. With a growing permanent collection, the museum unveils previously unseen captivating artifacts in the exhibition. On display until fall 2024, the exhibit shares curious artifacts, photos, and paintings revealing Catalina [&#8230;] 
+
+<https://thecatalinaislander.com/new-exhibit-highlights-catalina-history/>
+
+---
+
+## Sheriff’s Log: June 6 to June 12, 2024
+
+date: 2024-06-14, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of June 6 to June 12, 2024. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<https://thecatalinaislander.com/sheriffs-log-june-6-to-june-12-2024/>
 
 ---
 
@@ -24,6 +86,7 @@ The indie pop and rock group, which formed at Columbia University in 2006, deliv
 
 date: 2024-06-14, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Jun 14 at 5:09 p.m.</em>
 A pro-Palestine group claimed credit for an alleged arson on the UC Berkeley campus, saying it was started in retribution for arrests made at UCLA on Monday. 
 
 <https://dailybruin.com/2024/06/13/pro-palestine-group-claims-credit-for-alleged-arson-at-uc-berkeley/>
@@ -284,6 +347,18 @@ date: 2024-06-12, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/06/12/sda-acting-dramatic-writing-mfa-degrees-to-be-tuition-free/>
+
+---
+
+## SDA acting, dramatic writing MFA degrees to be tuition-free
+
+date: 2024-06-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The change will go into effect in the 2024-25 academic year.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/12/sda-acting-dramatic-writing-mfa-degrees-to-be-tuition-free-2/">SDA acting, dramatic writing MFA degrees to be tuition-free</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/12/sda-acting-dramatic-writing-mfa-degrees-to-be-tuition-free-2/>
 
 ---
 

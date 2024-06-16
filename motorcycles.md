@@ -1,11 +1,41 @@
 ---
 title: motorcycles 2024.24
-updated: 2024-06-14 07:34:20
+updated: 2024-06-15 17:33:54
 ---
 
 # motorcycles 2024.24
 
-(date: 2024-06-14 07:34:20)
+(date: 2024-06-15 17:33:54)
+
+---
+
+## AMA Pro Racing Jumps on the ADV Train
+
+date: 2024-06-14, from: Cycle World News
+
+A new AdventureTrackers class has been added to the Progressive American Flat Track series, and will make its debut at the inaugural Sturgis TT on August 11. 
+
+<https://www.cycleworld.com/motorcycle-news/american-flat-track-debuts-adv-race-series/>
+
+---
+
+## Truex announces retirement from full-time NASCAR racing at Iowa
+
+date: 2024-06-14, from: Kickin the Tires blog
+
+Martin Truex Jr. announced Friday at Iowa Speedway that he is retiring from full-time competition at the end of the season. The driver of Joe Gibbs Racing's No. 19 Toyota said he does not know what his racing plans are for next year. 
+
+<https://kickinthetires.net/nascar/truex-announces-retirement-from-full-time-nascar-racing-at-iowa/>
+
+---
+
+## Recall: Side Bag Holders May Detach From the 2024 BMW CE 02
+
+date: 2024-06-14, from: Ride Apart, Electric Motorcycle News
+
+The issue is related to 2024 models fitted with dealer accessory side bag holders. 
+
+<https://www.rideapart.com/news/723262/recall-side-bags-bmw-ce02/>
 
 ---
 
@@ -139,7 +169,7 @@ The company's smallest, most wearable action cam gets a 4K upgrade.
 
 ---
 
-## A New Bill Aims to Ban 'Wildlife Whacking' With Snowmobiles and Other Motor Vehicles
+## (Update) A New Bill Aims to Ban 'Wildlife Whacking' With Snowmobiles and Other Motor Vehicles
 
 date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
 

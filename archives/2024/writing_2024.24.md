@@ -1,11 +1,131 @@
 ---
 title: writing 2024.24
-updated: 2024-06-14 07:34:19
+updated: 2024-06-15 17:33:53
 ---
 
 # writing 2024.24
 
-(date: 2024-06-14 07:34:19)
+(date: 2024-06-15 17:33:53)
+
+---
+
+## 🔄 #204 - Let's circle back to that
+
+date: 2024-06-14, from: Interesting, a blog on writing
+
+Follow ups with new links for previous issues. 
+
+<https://inneresting.substack.com/p/204-lets-circle-back-to-that>
+
+---
+
+## Scriptnotes, Episode 641: What Characters Know, Transcript
+
+date: 2024-06-14, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August. Craig Mazin: My name is Craig Mazin. John: You are listening to Episode 641 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, what do your characters [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-641-what-characters-know-transcript">Scriptnotes, Episode 641: What Characters Know, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/scriptnotes-episode-641-what-characters-know-transcript>
+
+---
+
+## Write On: 'Inside Out 2' Co-Writer Dave Holstein
+
+date: 2024-06-14, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-inside-out-2-co-writer-dave-holstein" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Inside%20Out%20Co-Writer%20Dave%20Holstein.png" alt="Write On: 'Inside Out 2' Co-Writer Dave Holstein" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>In this episode of <a href="https://blog.finaldraft.com/tag/podcast">Final Draft's Write On podcast</a>, we talk with Dave Holstein, co-writer of the upcoming Disney/Pixar sequel <em>Inside Out 2</em>, which takes us back into the mind of a now teenage Riley as she navigates a whole new crop of personified emotions, including Envy, voiced by <em>The Bear </em>star Ayo Edebiri, and of course, Anxiety, voiced by <em>Stranger Things’ </em>Maya Hawke.</p> 
+
+<https://blog.finaldraft.com/write-on-inside-out-2-co-writer-dave-holstein>
+
+---
+
+## 2024 YA Book Prize Shortlist
+
+date: 2024-06-14, from: Locus Magazine
+
+<p>The ten-title shortlist of the 2024 YA Book Prize includes a number of titles of genre interest, including:</p>
+<div class="nobullets">
+<ul>
+<li><strong>Girl, Goddess, Queen</strong>, Bea Fitzgerald (Penguin Children’s)</li>
+<li><strong>HappyHead</strong>, Josh Silver (Rock the Boat)</li>
+<li><strong>Every Exquisite Thing</strong>, Laura Steven (Electric Monkey)</li>
+</ul>
+</div>
+<p>The YA Book Prize is awarded to a YA title written by an author living in the UK or Ireland. &#8220;The shortlist is selected by a team at The  <a href="https://locusmag.com/2024/06/2024-ya-book-prize-shortlist/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/2024-ya-book-prize-shortlist/>
+
+---
+
+## 2024 SFWA Election Results
+
+date: 2024-06-14, from: Locus Magazine
+
+<p>The Science Fiction and Fantasy Writers Association (SFWA) has announced the results of its election for open positions.</p>
+<div class="mynomorebulletlist">
+<p><b>Vice President:</b></p>
+<ul>
+<li>Chelsea Mueller</li>
+</ul>
+<p><b>Chief Financial Officer:</b></p>
+<ul>
+<li>Jonathan Brazee</li>
+</ul>
+<p><b>Directors-at-Large
+</b></p>
+<ul>
+<li>Anthony Eichenlaub</li>
+<li>Oghenechovwe Donald Ekpeki</li>
+</ul>
+<p>They will join continuing Board members Jeffe Kennedy, Phoebe Barton, Alton Kremer, Noah Sturdevant, and Christine Taylor-Butler.</p>
+</div>
+<p>For more, see the announcement on File 770.</p>
+
+<p><strong>While you are here,</strong> please take a moment to support Locus with  <a href="https://locusmag.com/2024/06/2024-sfwa-election-results/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/2024-sfwa-election-results/>
+
+---
+
+## Dream Foundry Event For Creatives of Color
+
+date: 2024-06-14, from: Locus Magazine
+
+<p>The Dream Foundry has announced The Anvil, an upcoming &#8220;unconference&#8221; for creatives of color and their allies:</p>
+<p>The Anvil is a virtual one-day unconference for creatives of color, happening August 10 from noon-10 pm CDT. The unconference format does away with top-down programming. Instead, the event list is built by the attendees and to meet their wants and needs. In addition to attendee-led discussions and networking opportunities, The Anvil will  <a href="https://locusmag.com/2024/06/dream-foundry-event-for-creatives-of-color/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/dream-foundry-event-for-creatives-of-color/>
+
+---
+
+## Charles Payseur Reviews Short Fiction: GigaNotoSaurus, Beneath Ceaseless Skies, and Diabolical Plots
+
+date: 2024-06-14, from: Locus Magazine
+
+<p>GigaNotoSaurus 3/24
+Beneath Ceaseless Skies 3/7/24, 3/21/24
+Diabolical Plots 2/24</p>
+<p>The March GigaNotoSaurus is <strong>Amy Johnson</strong>’s nested narrative “<strong>The Fake Birdhouses of Springville</strong>”, which unfolds in the early days of the COVID-19 pandemic in 2020 and features an aid delivery worker listening to a story about birdhouses that are not birdhouses over the course of many visits to an older woman on the route. The story is  <a href="https://locusmag.com/2024/06/charles-payseur-reviews-short-fiction-giganotosaurus-beneath-ceaseless-skies-and-diabolical-plots/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/charles-payseur-reviews-short-fiction-giganotosaurus-beneath-ceaseless-skies-and-diabolical-plots/>
+
+---
+
+## Photo Story: Rainforest Writers Retreat
+
+date: 2024-06-14, from: Locus Magazine
+
+<p>The annual Rainforest Resort Village writers retreat, hosted by Patrick Swenson and Fairwood Press, took place at Lake Quinault WA with four sessions in February and March 2024. For more.</p>
+
+<p></p>
+<p><strong>Photographer: Scott H. Andrews</strong></p>
+<p><strong>While you are here,</strong> please take a moment to support Locus with a one-time or recurring donation. We rely on reader donations to keep the magazine and site going, and would like to keep the site  <a href="https://locusmag.com/2024/06/photo-story-rainforest-writers-retreat-2/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/photo-story-rainforest-writers-retreat-2/>
 
 ---
 

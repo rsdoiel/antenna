@@ -1,11 +1,32 @@
 ---
 title: libraries 2024.24
-updated: 2024-06-14 07:34:20
+updated: 2024-06-15 17:33:54
 ---
 
 # libraries 2024.24
 
-(date: 2024-06-14 07:34:20)
+(date: 2024-06-15 17:33:54)
+
+---
+
+## The Wyvern Mystery, by J. Sheridan Le Fanu
+
+date: 2024-06-14, from: Standard Ebooks, new releaases
+
+A young orphan marries a man with a secret that threatens to ruin both of them. 
+
+<https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-wyvern-mystery>
+
+---
+
+## How to translate academic writing into podcasts using generative AI [Originally published in the LSE Impact blog in June/2024]
+
+date: 2024-06-14, from: SciELO in Perspective
+
+<p>One of the benefits of generative AI is the ability to transform one media from text, to speech, to imagery to video. In this post Andy Tattersall explores one aspect of this ability, by transforming his archive written blogposts into a podcast format, Talking Threads, and discusses why and how this could be beneficial for research communication. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blogs.lse.ac.uk/impactofsocialsciences/2024/06/10/how-to-translate-academic-writing-to-podcasts-using-generative-ai/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2024/06/10/how-to-translate-academic-writing-to-podcasts-using-generative-ai/#new_tab">How to translate academic writing into podcasts using generative AI [Originally published in the LSE Impact blog in June/2024]</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://blogs.lse.ac.uk/impactofsocialsciences/2024/06/10/how-to-translate-academic-writing-to-podcasts-using-generative-ai/#new_tab>
 
 ---
 
@@ -25,7 +46,7 @@ date: 2024-06-14, from: Scholarly Kitchen
 
 date: 2024-06-13, from: Association of Research Libraries News
 
-<p>Last Updated on June 13, 2024, 5:05 pm ET   The following list includes events, blog posts, exhibits, and other resources from ARL member libraries in honor of Juneteenth 2024....</p>
+<p>Last Updated on June 14, 2024, 2:41 pm ET The following list includes events, blog posts, exhibits, and other resources from ARL member libraries in honor of Juneteenth 2024. Arizona...</p>
 <p>The post <a href="https://www.arl.org/blog/arl-libraries-remember-juneteenth/">ARL Libraries Remember Juneteenth</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -37,7 +58,7 @@ date: 2024-06-13, from: Association of Research Libraries News
 
 date: 2024-06-13, from: Association of Research Libraries News
 
-<p>Last Updated on June 13, 2024, 4:07 pm ET ARL libraries in Canada are celebrating National Indigenous History Month (NIHM) in June. See below for a roundup of their NIHM...</p>
+<p>Last Updated on June 14, 2024, 12:17 pm ET ARL libraries in Canada are celebrating National Indigenous History Month (NIHM) in June. See below for a roundup of their NIHM...</p>
 <p>The post <a href="https://www.arl.org/blog/canadian-arl-libraries-celebrate-national-indigenous-history-month/">Canadian ARL Libraries Celebrate National Indigenous History Month</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -83,7 +104,7 @@ date: 2024-06-12, from: Scholarly Kitchen
 
 date: 2024-06-11, from: Association of Research Libraries News
 
-<p>Last Updated on June 13, 2024, 3:20 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 11 &#124; Wednesday, June 12 &#124; Thursday,...</p>
+<p>Last Updated on June 14, 2024, 2:57 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 11 &#124; Wednesday, June 12 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-june-10-13/">Day in Review (June 10–13)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

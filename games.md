@@ -1,11 +1,41 @@
 ---
 title: games 2024.24
-updated: 2024-06-14 07:34:19
+updated: 2024-06-15 17:33:53
 ---
 
 # games 2024.24
 
-(date: 2024-06-14 07:34:19)
+(date: 2024-06-15 17:33:53)
+
+---
+
+## Netflix’s Ultraman: Rising, I Saw the TV Glow, and every movie new to streaming this week
+
+date: 2024-06-14, updated: 2024-06-14, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/6/14/24174156/new-movies-i-saw-the-tv-glow-ultraman-rising-netflix-monkey-man>
+
+---
+
+## Studio Ponoc’s The Imaginary may be the closest we get to a Calvin and Hobbes movie
+
+date: 2024-06-14, updated: 2024-06-14, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/anime/24178688/the-imaginary-review-studio-ponoc>
+
+---
+
+## Forget House of the Dragon, I am watching ant wars on YouTube
+
+date: 2024-06-14, updated: 2024-06-14, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24178680/antscanada-youtube-vivarium>
 
 ---
 

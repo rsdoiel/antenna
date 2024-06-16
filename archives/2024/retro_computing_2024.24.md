@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.24
-updated: 2024-06-14 07:34:21
+updated: 2024-06-15 17:33:55
 ---
 
 # retro computing 2024.24
 
-(date: 2024-06-14 07:34:21)
+(date: 2024-06-15 17:33:55)
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2024-06-14, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 8: Rivers of Disappointment 
+
+<https://www.filfre.net/2024/06/this-week-on-the-analog-antiquarian/>
+
+---
+
+## AlmaLinux Now Supports Raspberry Pi 5
+
+date: 2024-06-14, from: Linux Magazine
+
+<p>If you're looking to create with the Raspberry Pi 5 and want to use AlmaLinux as your OS, you're in luck because it's now possible.</p> 
+
+<http://www.linux-magazine.com/Online/News/AlmaLinux-Now-Supports-Raspberry-Pi-5>
 
 ---
 

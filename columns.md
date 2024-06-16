@@ -1,17 +1,180 @@
 ---
 title: columns 2024.24
-updated: 2024-06-14 07:34:18
+updated: 2024-06-15 17:33:52
 ---
 
 # columns 2024.24
 
-(date: 2024-06-14 07:34:18)
+(date: 2024-06-15 17:33:52)
+
+---
+
+## US psyops to undermine confidence in vaccines
+
+date: 2024-06-14, from: Tracy Durnell Blog
+
+Holy shit. So, we decide to prioritize vaccinating Americans during a global pandemic, and allow drug companies to set their own pricing on vaccines. But extorting poor countries and undermining the vaccination effort isn&#8217;t enough for us. When China does the right thing and provides vaccines affordably, we launch psyops to undermine trust in their [&#8230;] 
+
+<https://tracydurnell.com/2024/06/14/us-psyops-to-undermine-confidence-in-vaccines/>
+
+---
+
+## Friday Squid Blogging: Squid Cartoon
+
+date: 2024-06-14, updated: 2024-06-12, from: Bruce Schneier blog
+
+<p>Squid <a href="https://www.gocomics.com/nonsequitur/2004/07/24">humor</a>.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>
+<p>Read my blog posting guidelines <a href="https://www.schneier.com/blog/archives/2017/03/commenting_poli.html">here</a>.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/06/friday-squid-blogging-squid-cartoon-2.html>
+
+---
+
+## It’s The American Flag
+
+date: 2024-06-14, from: Dan Rather's Steady
+
+Not a Trump flag 
+
+<https://steady.substack.com/p/its-the-american-flag>
+
+---
+
+## Re: Big Tech & Digital literacy
+
+date: 2024-06-14, from: John's World Wide Wall Display
+
+A reply to Andy McLaughlin and Ian Gibson around Big Tech in education. 
+
+<https://johnjohnston.info/blog/re-big-tech-digital-literacy/>
+
+---
+
+##  Wallace & Gromit: Vengeance Most Fowl 
+
+date: 2024-06-14, updated: 2024-06-14, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/wallace-gromit-vengeance-most-fowl>
+
+---
+
+## ★ The Talk Show Live From WWDC 2024
+
+date: 2024-06-14, updated: 2024-06-15, from: Daring Fireball
+
+Recorded in front of a live (and lively) audience at The California Theatre in San Jose Tuesday evening, special guests John Giannandrea, Craig Federighi, and Greg Joswiak join me to discuss Apple’s announcements at WWDC 2024. Presented both in standard 4K video and 3D video with spatial audio. 
+
+<https://daringfireball.net/2024/06/the_talk_show_live_from_wwdc_2024>
+
+---
+
+## Jayson Tatić and the Boston Celtićs
+
+date: 2024-06-14, from: Doc Searls (at Harvard), New Old Blog
+
+Nobody&#8217;s talking about this, so I will: Jayson Tatum is playing a decoy. More to the point, he is playing Jokić, Dončić, or a bit of both. Not all the time (such as when he&#8217;s doing one of those step-back threes with lots of time on the clock, but enough). So let&#8217;s call him Jayson [&#8230;] 
+
+<https://doc.searls.com/2024/06/14/jayson-tatic-and-the-boston-celtics/>
+
+---
+
+## A great political ad
+
+date: 2024-06-14, from: Dave Winer's Scripting News
+
+<p>Okay it's not the best political ad ever but it's pretty freaking good.</p>
+<p>We love America and the flag stands for the good in us, in all of us. And our president not only gets that, he is doing what presidents are supposed to do, unite us. To the extent that we can at this time be united. But even a MAGA, viewing this ad, is going to have to swell up with pride for what this country means. </p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/VC2SshZ373M?si=CV1-O9liPDmIhQRN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>But I have a question for my campaign friend and politics rabbi -- <a href="https://podcasts.apple.com/us/podcast/that-trippi-show/id1523896927">Joe Trippi</a>. Joe, why don't they ask for a contribution at the end? I'd pay money specifically to have that ad run everywhere, even in states we have no chance of winning. Because there are people in every state that deserve encouragement, and if we want to really win we need them to feel part of our great country as much as anyone in a swing state. And there's always value in forcing the opposition to campaign in states they otherwise feel are safe. </p>
+<p>So let me -- a regular citizen -- earmark a contribution for <i>this</i> message. It gives me another way to vote, a sense I'm participating. </p>
+ 
+
+<http://scripting.com/2024/06/14/175200.html?title=aGreatPoliticalAd>
+
+---
+
+##  Auriea Harvey&#8217;s pioneering site Entropy8 has been restored as part of a... 
+
+date: 2024-06-14, updated: 2024-06-14, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044819-auriea-harveys-pioneering>
+
+---
+
+## June 13, 2024
+
+date: 2024-06-14, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/june-13-2024-161>
+
+---
+
+##  From Palestinian-American Mo Husseini, a list of 50 Completely True Things, including... 
+
+date: 2024-06-14, updated: 2024-06-14, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044812-from-palestinian-american>
+
+---
+
+## Upcoming Speaking Engagements
+
+date: 2024-06-14, updated: 2024-06-14, from: Bruce Schneier blog
+
+<p>This is a current list of where and when I am scheduled to speak:</p>
+<ul>
+<li>I&#8217;m appearing on a panel on Society and Democracy at <a href="https://ci2024.weebly.com/">ACM Collective Intelligence</a> in Boston, Massachusetts. The conference runs from June 26 through 29, 2024, and my panel is at 9:00 AM on Friday, June 28.</li>
+<li>I&#8217;m speaking on &#8220;Reimagining Democracy in the Age of AI&#8221; at the <a href="https://www.umt.edu/mansfield/dialogues/mansfield-dialogues/speaker-pages/bruce-schneier.php">Bozeman Library</a> in Bozeman, Montana, USA, July 18, 2024. The event will also be available via Zoom.</li>
+<li>I&#8217;m speaking at the <a href="https://tedxbillings.com/democracy/">TEDxBillings Democracy Event</a> in Billings, Montana, USA, on July 19, 2024.</li>
+</ul>
+<p>The list is maintained on ...</p> 
+
+<https://www.schneier.com/blog/archives/2024/06/upcoming-speaking-engagements-37.html>
+
+---
+
+##  The kids who were 1st graders when 20 of their classmates were... 
+
+date: 2024-06-14, updated: 2024-06-14, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044814-the-kids-who-were-1st>
+
+---
+
+##  Seven Samurai&#8217;s 4K Restoration 
+
+date: 2024-06-14, updated: 2024-06-14, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/seven-samurais-4k-restoration>
+
+---
+
+##  Boston Should Rename Its Airport for Bill Russell. &#8220;He was Boston&#8217;s greatest... 
+
+date: 2024-06-14, updated: 2024-06-14, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044818-boston-should-rename-its->
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2024-06-14, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/14/julieAndrews.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'd like YouTube TV to let me block Fox News. It shows up on their home screen as the default channel and it starts playing automatically. For some reason they've decided I want or need to watch Fox News. Please stop doing that. Not just for me, for everyone. If there has to be a default make it something easy like Seinfeld perhaps. Or Law & Order. I haven't switched from Spectrum, I'm trying YouTube TV while I think about switching. This is a small thing, but might be a deal-stopper. I don't want my nose rubbed in how evil they are. I know. I want to turn on TV to escape. A Julie Andrews movie perhaps. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/14/julieAndrews.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'd like YouTube TV to let me block Fox News. It shows up on their home screen as the default channel and it starts playing automatically. For some reason they've decided need to watch Fox News. Please stop doing that. Not just for me, for everyone. If there has to be a default make it something easy like Seinfeld perhaps. Or Law & Order. I haven't switched from Spectrum, I'm trying YouTube TV while I think about switching. This is a small thing, but might be a deal-stopper. I don't want my nose rubbed in how evil they are. I know. I want to turn on TV to escape. A Julie Andrews movie perhaps. 
 
 <http://scripting.com/2024/06/14.html#a130254>
 
@@ -27,7 +190,7 @@ I hate sticky keyboards. Very low tolerance.
 
 **@Dave Winer's Scripting News** (date: 2024-06-14, from: Dave Winer's Scripting News)
 
-Matt Terenzio, who has been a friend for many years, <a href="https://mastodon.social/@librenews/112615016271629839">threw a fat pitch</a> about people like me who think the NY Times has a lot of explaining to do. I don't think anyone is listening, but my issue with the Times is when they embrace and promote conspiracy theories that damage our political system. Matt says we have many truths, and I think that's where we differ, there has to be one truth when it comes to accusations of the kind that the Repubs throw at Democratic candidates and minorities. When they take a side against the people, that's when I have a problem. 
+<a href="https://www.google.com/search?q=site%3Ascripting.com+matt+terenzio">Matt Terenzio</a>, who has been a friend for many years, <a href="https://mastodon.social/@librenews/112615016271629839">threw a fat pitch</a> about people like me who think the NY Times has a lot of explaining to do. I don't think anyone is listening, but my issue with the Times is when they embrace and promote conspiracy theories that damage our political system. Matt says we have many truths, and I think that's where we differ, there has to be one truth when it comes to accusations of the kind that the Repubs throw at Democratic candidates and minorities. When they take a side against the people, that's when I have a problem. 
 
 <http://scripting.com/2024/06/14.html#a125646>
 
@@ -130,6 +293,16 @@ The Port of Baltimore reopened yesterday, fewer than 100 days after a container 
 
 ---
 
+## The New Alt Media and the Future of Publishing
+
+date: 2024-06-14, updated: 2024-06-14, from: Anil Dash blog
+
+ 
+
+<https://anildash.com/2024/06/14/the-new-alt-media/>
+
+---
+
 ## Wayne Ma Confirms That Mark Gurman Scooped Him on the No-Cash Apple-OpenAI Deal
 
 date: 2024-06-13, updated: 2024-06-13, from: Daring Fireball
@@ -162,7 +335,7 @@ date: 2024-06-13, updated: 2024-06-13, from: Jason Kittke's blog
 
 ## Gurman: Neither Apple Nor OpenAI Are Paying for Partnership
 
-date: 2024-06-13, updated: 2024-06-13, from: Daring Fireball
+date: 2024-06-13, updated: 2024-06-15, from: Daring Fireball
 
  
 

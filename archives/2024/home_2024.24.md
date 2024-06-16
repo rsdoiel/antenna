@@ -1,11 +1,31 @@
 ---
 title: home 2024.24
-updated: 2024-06-14 07:34:20
+updated: 2024-06-15 17:33:54
 ---
 
 # home 2024.24
 
-(date: 2024-06-14 07:34:20)
+(date: 2024-06-15 17:33:54)
+
+---
+
+## USDA awards $50 million to support farmworkers and Ag employers; California to receive $4.4 million
+
+date: 2024-06-14, from: Calfifornia Dept. Aggriculture blog
+
+From a USDA news release USDA Secretary Tom Vilsack has announced awards of $50 million to 141 awardees in 40 states and Puerto Rico, through the Farm Labor Stabilization and Protection Pilot Program (FLSP Program), reaching 177 unique agricultural operations &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27893">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27893>
+
+---
+
+## Nominations open for Integrated Pest Management Achievement Awards
+
+date: 2024-06-14, from: Calfifornia Dept. Aggriculture blog
+
+The California Department of Pesticide Regulation (DPR) is accepting nominations for its annual Integrated Pest Management (IPM) Achievement Awards. Nominations will be accepted through June 30, 2024.  The DPR IPM Achievement Awards honor the innovations and achievements of individuals and &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27889">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27889>
 
 ---
 

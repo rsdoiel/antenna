@@ -1,11 +1,299 @@
 ---
 title: going electric 2024.24
-updated: 2024-06-14 07:34:21
+updated: 2024-06-15 17:33:55
 ---
 
 # going electric 2024.24
 
-(date: 2024-06-14 07:34:21)
+(date: 2024-06-15 17:33:55)
+
+---
+
+## GM Fights Back Against BYD Seagull With Updated Wuling Bingo
+
+date: 2024-06-14, from: Inside EVs News
+
+A new water-cooled motor allows the Bingo to reach up to 81 mph. 
+
+<https://insideevs.com/news/723421/wuling-bingo-china-2024-gm/>
+
+---
+
+## Chevy cuts Equinox EV lease prices by nearly $140 per month
+
+date: 2024-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/GM-Equinox-EV-production.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>If you were looking to lease Chevy’s new all-electric Equinox, it just got a lot cheaper. Chevy cut Equinox EV lease prices by nearly $140 per month. With new offers, the <a href="https://electrek.co/guides/chevy-equinox-ev/">Chevy Equinox EV</a> can be leased for as little as $379 per month.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/14/chevy-cuts-equinox-ev-lease-prices-140-per-month/#more-367739" data-post-id="367739" data-layer-pagetype="post" data-layer-postcategory="chevrolet,chevrolet-equinox-ev,chevy-equinox-ev" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/14/chevy-cuts-equinox-ev-lease-prices-140-per-month/>
+
+---
+
+## Podcast: Tesla shareholders meeting, more lawsuits, ultra-fast charging, and more
+
+date: 2024-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the Tesla shareholders meeting, more lawsuits coming for Tesla, ultra-fast charging by Lotus, and more.</p>
+
+
+
+<p>Today’s Podcast is sponsored by the <a href="https://www.americansolarchallenge.org/the-competition/2024-american-solar-challenge/">Electrek American Solar Challenge 2024</a>.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Electrek_6-14-24.mp3"></audio></figure>
+
+
+
+ <a href="https://electrek.co/2024/06/14/podcast-tesla-shareholders-meeting-more-lawsuits-ultra-fast-charging/#more-367723" data-post-id="367723" data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/14/podcast-tesla-shareholders-meeting-more-lawsuits-ultra-fast-charging/>
+
+---
+
+## The Biggest Victim Of Europe's Anti-China EV Tariffs: The Mini Cooper
+
+date: 2024-06-14, from: Inside EVs News
+
+BMW's joint venture with China's Great Wall Motors means unexpected tariff headaches for the new electric Mini. 
+
+<https://insideevs.com/news/723403/tariff-mini-cooper-electric-china/>
+
+---
+
+## GM’s Wuling launches new $8,000 Bingo EV in China undercutting BYD’s Seagull
+
+date: 2024-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/GMs-Bingo-EV-8000.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new low-cost electric car launched Friday to take on BYD’s Seagull EV. GM’s <a href="https://electrek.co/guides/saic-gm-wuling/">Wuling</a> launched the 2024 Bingo EV Friday, starting under $8,000 (56,800 yuan) as it looks to top BYD.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/14/gms-wuling-launches-8000-bingo-ev-undercutting-byd-seagull/#more-367728" data-post-id="367728" data-layer-pagetype="post" data-layer-postcategory="saic-gm-wuling" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/14/gms-wuling-launches-8000-bingo-ev-undercutting-byd-seagull/>
+
+---
+
+## Confirmed: Audi Q6 E-Tron Sportback And RS Q6 E-Tron Coming Next Year
+
+date: 2024-06-14, from: Inside EVs News
+
+Audi also said that a PPE-platform-based A6 is also in the works.  
+
+<https://insideevs.com/news/723391/rsq6-etron-sportback-audi-soon/>
+
+---
+
+## Save $550+ on Trek e-bikes from $1,200, Bluetti power station bundles hit new lows, VEVOR 16A to 40A EV chargers, more
+
+date: 2024-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/trek-electra-cruiser-go-e-bike.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Headlining today’s Green Deals and leading the group into the weekend for Father’s Day, is a <a href="https://9to5toys.com/2024/06/14/treks-electra-cruiser-go-e-bikes-return-to-1200-reg-1600-more-up-to-550-off/">summer sale from Trek Bikes</a> taking up to $550 off a large lineup of e-bikes, lead by the <a href="https://9to5toys.com/2024/06/14/treks-electra-cruiser-go-e-bikes-return-to-1200-reg-1600-more-up-to-550-off/">Electra Cruiser Go! Step-Over e-bike for $1,200</a>. It is joined by the <a href="https://9to5toys.com/2024/06/14/bluetti-power-stations-and-bundles-hit-new-all-time-lows-at-up-to-50-off-starting-from-149/">Bluetti AC180 Portable Power Station with a 200W Solar Panel at a new $849 low</a>, along with several other units that are hitting new low prices as well. Closing out this week is <a href="https://9to5toys.com/2024/06/13/vevors-16a-to-40a-level-1-and-2-portable-ev-chargers-start-from-new-93-low-in-time-for-summer-road-trips/">VEVOR’s 16A to 40A Level 1 and 2 EV Chargers</a> that are starting from a <a href="https://9to5toys.com/2024/06/13/vevors-16a-to-40a-level-1-and-2-portable-ev-chargers-start-from-new-93-low-in-time-for-summer-road-trips/">new $93 all-time low</a>. Plus, all the other hangover Green Deals that are still alive and well.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/14/trek-e-bikes-bluetti-power-station-bundles-vevor-16a-to-40a-ev-chargers-more/#more-367705" data-post-id="367705" data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/14/trek-e-bikes-bluetti-power-station-bundles-vevor-16a-to-40a-ev-chargers-more/>
+
+---
+
+## 2024 Honda Prologue Gets New Discounts For Savings Of Up To $10,500
+
+date: 2024-06-14, from: Inside EVs News
+
+Piling up the tax credit and manufacturer incentives makes the Prologue EV cheaper to lease than the Tesla Model Y. 
+
+<https://insideevs.com/news/723342/2024-honda-prologue-lease-deal-discount/>
+
+---
+
+## Meet the funky new Fiat Grande Panda EV, coming to global markets
+
+date: 2024-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Fiat-Grande-Panda-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The iconic <a href="https://electrek.co/guides/fiat-panda/">Fiat Panda</a> is getting a funky new design and electric upgrade as part of the brand’s new global line-up. The Fiat Grande Panda EV fuses “Italian personality” with a retro new style. Check out the first images below.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/14/meet-funky-new-fiat-grande-panda-ev/#more-367700" data-post-id="367700" data-layer-pagetype="post" data-layer-postcategory="fiat,fiat-panda" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/14/meet-funky-new-fiat-grande-panda-ev/>
+
+---
+
+## Lucid CEO says its Air has hit efficiency of 5 miles per kWh and ‘no one else is even close’
+
+date: 2024-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Lucid-Air-2024-lineup.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>During a recent webcast at the annual Evercore ISI Global Clean Energy &amp; Transitions Summit, <a href="https://electrek.co/guides/lucid-motors">Lucid Motors</a> CEO and CTO Peter Rawlinson shared some exciting news about the automaker and electric mobility in general. Earlier this week, a version of its flagship Lucid Air sedan delivered an efficiency ratio of 5 miles per kWh, which could soon translate to more affordable long-range models for all.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/14/lucid-ceo-air-efficiency-5-miles-per-kwh-no-one-else-is-even-close/#more-367691" data-post-id="367691" data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-air,lucid-motors" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/14/lucid-ceo-air-efficiency-5-miles-per-kwh-no-one-else-is-even-close/>
+
+---
+
+## Pork, Dairy, Booze: China To Hit Europe Back After New EV Tariffs
+
+date: 2024-06-14, from: Inside EVs News
+
+The Chinese government might slap tit-for-tat trade barriers in retaliation for EU tariffs on EVs.  
+
+<https://insideevs.com/news/723366/china-retaliatory-trade-tariffs-europe-electric-vehicle/>
+
+---
+
+## GM had $6 billion to spend on next-gen EVs, chose stock buybacks | opinion
+
+date: 2024-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/01/GM-compact-electric-pickup.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Despite numerous delays and mounting competition from Ford, Stellantis, and the Chinese, <a href="https://www.autonews.com/automakers-suppliers/gm-board-approves-6b-share-buyback">the GM board decided to take $6 billion and pump its share price instead of investing in the company’s future</a>.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/14/gm-had-6-billion-to-spend-on-next-gen-evs-chose-stock-buybacks-opinion/#more-367589" data-post-id="367589" data-layer-pagetype="post" data-layer-postcategory="china,gm,rivian,stellantis" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/14/gm-had-6-billion-to-spend-on-next-gen-evs-chose-stock-buybacks-opinion/>
+
+---
+
+## BYD’s Fang Cheng Bao unveils images of its rugged new all-electric SUV
+
+date: 2024-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/BYDs-rugged-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/byd/">BYD’s</a> Fang Cheng Bao officially revealed images for its new Bao 3 rugged electric SUV. From the first look, the off-road electric SUV, dubbed the “interstellar tank,” appears to out-muscle even Jeep’s meanest model.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/14/byds-fang-cheng-bao-unveils-rugged-new-electric-suv-images/#more-367673" data-post-id="367673" data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/14/byds-fang-cheng-bao-unveils-rugged-new-electric-suv-images/>
+
+---
+
+## Tesla’s upcoming 3 new EVs raise some questions
+
+date: 2024-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Screenshot-2024-06-14-at-10.36.45 AM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has unveiled a new slide with 3 new electric vehicles, which raises some questions about the company’s previously known upcoming lineup.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/14/tesla-upcoming-3-new-evs-raise-some-questions/#more-367657" data-post-id="367657" data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/14/tesla-upcoming-3-new-evs-raise-some-questions/>
+
+---
+
+## This Tesla Model S Only Lost 36% Of Its Range After 430,000 Miles
+
+date: 2024-06-14, from: Inside EVs News
+
+This 2016 Model S P90D is still on its original battery and electric motors. How far can it go? 
+
+<https://insideevs.com/news/723362/tesla-model-s-430000-miles-range-test/>
+
+---
+
+## Elon Musk Says Optimus Will Make Tesla Worth Half Of The Entire S&P 500
+
+date: 2024-06-14, from: Inside EVs News
+
+Plus, automakers are worried about high new car inventory, and Stellantis doesn't want to be protected by EV tariffs. 
+
+<https://insideevs.com/news/723346/elon-musk-optimus-25-trillion/>
+
+---
+
+## NIO launches EL8 in Europe amid looming tariff threats to Chinese-made EVs
+
+date: 2024-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/NIO-EL8-Europe-launch.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Despite recently announced tariffs on Chinese-made EVs imported into Europe, NIO has officially launched its EL8 SUV overseas. It will initially be sold in five EU markets as <a href="https://electrek.co/guides/nio/">NIO</a> touts its commitment to sales in the region despite the looming threat of import fees.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/14/nio-launches-el8-in-europe-amid-looming-tariff-threats-to-chinese-made-evs/#more-367666" data-post-id="367666" data-layer-pagetype="post" data-layer-postcategory="europe,nio,nio-el8,nio-es8" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/14/nio-launches-el8-in-europe-amid-looming-tariff-threats-to-chinese-made-evs/>
+
+---
+
+## Recall: Side Bag Holders May Detach From the 2024 BMW CE 02
+
+date: 2024-06-14, from: Ride Apart, Electric Motorcycle News
+
+The issue is related to 2024 models fitted with dealer accessory side bag holders. 
+
+<https://www.rideapart.com/news/723262/recall-side-bags-bmw-ce02/>
+
+---
+
+## Rad Power Bikes announces response to China tariffs and rising e-bike prices
+
+date: 2024-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/rad-expand-5-plus-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="http://bit.ly/Rad-Power_Bikes">Rad Power Bikes</a>, one of the leading electric bicycle companies in the US, has announced its response to rising e-bike costs in the US after the tariff exclusion on Chinese-produced electric bikes expires.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/14/rad-power-bikes-announces-response-to-china-tariffs-and-rising-e-bike-prices/#more-367637" data-post-id="367637" data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/14/rad-power-bikes-announces-response-to-china-tariffs-and-rising-e-bike-prices/>
+
+---
+
+## Wheel-E Podcast: Micromobility Europe 2024, 80 MPH army e-bike, more
+
+date: 2024-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes all the cool stuff we saw at Micromobility Europe 2024, new low-cost Lectric XP Lite 2.0, an 80 MPH military e-bike, how Paris cleaned its air by kicking out cars, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/06/WheelE-6-14-24.mp3"></audio></figure>
+
+
+
+ <a href="https://electrek.co/2024/06/14/wheel-e-podcast-micromobility-europe-2024-80-mph-army-e-bike-more/#more-367634" data-post-id="367634" data-layer-pagetype="post" data-layer-postcategory="wheel-e-podcast" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/14/wheel-e-podcast-micromobility-europe-2024-80-mph-army-e-bike-more/>
+
+---
+
+## Volvo EX30 Faces Delay, Unclear Future Over China Tariffs
+
+date: 2024-06-14, from: Inside EVs News
+
+The EX30 is built in China, so new tariffs could raise its price—or halt its debut in the U.S. Volvo says it's coming, but buyers claim radio silence. 
+
+<https://insideevs.com/news/723093/volvo-ex30-summer-tariffs-china/>
+
+---
+
+## BYD cuts prices on its best-selling Atto 3 electric SUV in Australia to rival Tesla
+
+date: 2024-06-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/BYD-prices-Australia-4.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new price war is fueling EV sales in Australia as the competition heats up to gain overseas market share. BYD launched its new <a href="https://electrek.co/guides/byd-atto-3/">Atto 3 electric SUV</a> in Australia with several updates, including lower prices, as it looks to chip away at Tesla’s lead.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/14/byd-cuts-prices-best-selling-ev-australia-rival-tesla/#more-367649" data-post-id="367649" data-layer-pagetype="post" data-layer-postcategory="byd,byd-atto-3" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/14/byd-cuts-prices-best-selling-ev-australia-rival-tesla/>
 
 ---
 
@@ -533,7 +821,7 @@ date: 2024-06-13, from: Electrek Feed
 
 ---
 
-## A New Bill Aims to Ban 'Wildlife Whacking' With Snowmobiles and Other Motor Vehicles
+## (Update) A New Bill Aims to Ban 'Wildlife Whacking' With Snowmobiles and Other Motor Vehicles
 
 date: 2024-06-13, from: Ride Apart, Electric Motorcycle News
 

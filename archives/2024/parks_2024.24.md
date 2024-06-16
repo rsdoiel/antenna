@@ -1,11 +1,11 @@
 ---
 title: parks 2024.24
-updated: 2024-06-14 07:34:20
+updated: 2024-06-15 17:33:54
 ---
 
 # parks 2024.24
 
-(date: 2024-06-14 07:34:20)
+(date: 2024-06-15 17:33:54)
 
 ---
 
@@ -13,7 +13,7 @@ updated: 2024-06-14 07:34:20
 
 date: 2024-06-13, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>The Banded Burrowing Owl </h1></div>
+<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/blm-seeks-input-proposed-management-updates-southern-oregon" hreflang="en">BLM seeks input on proposed management updates in southern Oregon</a></h2></div>
       
 
 
@@ -21,12 +21,20 @@ date: 2024-06-13, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><p>A BLM wildlife biologist’s recent sighting of a banded bird in his field office area led to a remarkable example of inter-agency collaboration.</p>
+  <div class="field contact-block -release-date">
+    <div><strong>Publication Date:</strong> </div>
+              <div><time datetime="2024-06-06T12:00:00Z">Thu, 06/06/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
-<p>Craig Miller, who works for the BLM’s Havre Field Office, was conducting sage-grouse surveys in a remote area of the Upper Missouri River Breaks in north-central Montana when he noticed some burrowing owls on a small prairie dog town. One of the owls was pretty close to the two-track dirt road he was traveling, and he thought he may have seen an identifying band on its legs.&nbsp;</p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="090c6077-03cd-4caa-af01-79fa329a1b6a" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+
+
+
+  
+
+            <div class="field contact-block -body"><figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cc6b2997-b76c-4710-a0c7-bfd1a309f3b8" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -35,7 +43,7 @@ date: 2024-06-13, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Owl1_Miller%204x5.jpg?itok=4e5dgQid" width="288" height="363" alt="Photo. A small, brown-and-white burrowing owl stands on top of a dirt mound; bright-blue-colored band on its left leg; grassy prairie background; daytime." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Lakeview_sagebrush_landscape.png?itok=yJACxwvS" width="640" height="480" alt="The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM." typeof="foaf:Image">
 
 
 </div>
@@ -43,57 +51,47 @@ date: 2024-06-13, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>The blue band on this small burrowing owl caught the eye of BLM biologist Craig Miller and led to a remarkable example of inter-agency collaboration. Photo by Craig Miller, wildlife biologist, Havre Field Office.</figcaption>
+<figcaption>The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM.</figcaption>
 </figure>
 
 
-<p>Bird banding is an important technique used by professional wildlife researchers for studying and identifying individual birds. Scientists put aluminum or colored bands on birds' legs. And, much like the license plate on a car, each metal band is engraved with a unique set of numbers.</p>
+<p>&nbsp;</p>
 
-<p>“As I was grabbing the binoculars, I thought to myself, there is no way I would be able to see a small band on an owl with the naked eye,” said Miller. “Much to my surprise, BINGO, banded owl.”</p>
+<p><strong>LAKEVIEW, Ore. </strong>— The Bureau of Land Management is seeking public comment on a Draft Environmental Impact Statement (EIS) for amending the&nbsp;<a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="c8ec45bf-6708-4c48-8c95-bded76d11290" href="https://www.blm.gov/sites/default/files/Lakeview_RMP_Text_Appendices.pdf" target="_blank" title="2003 Lakeview Resource Management Plan">2003 Lakeview Resource Management Plan</a>, which would update the management of 3.2 million acres of BLM-managed public lands in Lake and Harney counties. The amendment, which has been prepared to respond to a <a href="https://eplanning.blm.gov/public_projects/lup/87435/116985/142662/20100610_57-1_AmendRemand_SettleAgree_web.pdf" target="_blank" title="2010 court settlement">2010 court settlement</a>, addresses the management of public lands for wilderness characteristics, recreation, and grazing.</p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="794a3b43-fb8a-4bf7-9e35-65480d8a5410" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
-  
-  
+<p aria-hidden="true">“We welcome the public’s insight and input into how we can appropriately balance the management of these lands,<strong>” said Jami Ludwig, BLM Lakeview Field Manager.</strong> “This plan will help guide BLM’s management of this landscape for the next 20 years.”</p>
 
+<p>As directed by the 2010 settlement, the BLM’s draft EIS and plan amendment consider a wide-range of management options for lands with wilderness characteristics, grazing, and outdoor recreation, including off-highway vehicle use. Public comments received on this draft will help inform the development of a final plan, which could combine management approaches from several of the draft alternatives, if appropriate.</p>
 
+<p>The BLM plans to host an in-person public meeting in Lakeview and two virtual public meetings during the comment period to discuss and answer questions about the plan. The BLM will announce these meetings at least 15 days in advance through the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register">BLM National NEPA Register</a>, public notices, media releases, social media, and/or mailings.</p>
 
+<p>A Notice of Availability will publish in tomorrow’s <em>Federal Register</em> to open a 90-day comment period. Project information is available at the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register 2">BLM National NEPA Register</a> where written comments may be submitted via the “Participate Now” option (preferred) by Sept. 4, 2024. Comments may also be submitted to <a href="mailto:BLM_OR_LV_RMP_Team@blm.gov" title="send email">BLM_OR_LV_RMP_Team@blm.gov</a><u>,</u>&nbsp;or delivered to BLM Lakeview District, 1301 South G Street, Lakeview, OR 97630</p>
 
-  
-
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Owl2_Miller_crop%205x3.5.jpg?itok=SiQUwv9w" width="480" height="327" alt="Photo. Close-up of the legs of a small, brown-and-white burrowing owl standings on top of a dirt mound; bright-blue-colored band on its left leg; smaller, silver-colored band on its right leg; grassy prairie background; daytime." typeof="foaf:Image">
-
-
+<p>For more information, please contact Michael Collins at 541-947-6112.</p>
 </div>
       
-</div>
-</div>
-
-<figcaption>The bands on the legs of this small burrowing owl were placed by researchers in Suffield, Alberta, about 185 miles from where the bird was sighted in north-central Montana. Banding is a technique used to identify and track individual birds. Photo by Craig Miller, wildlife biologist, Havre Field Office.</figcaption>
-</figure>
 
 
-<p>Miller took several photos of the banded owl using a spotting scope. He was only able to see a blueish-colored band with an R and a couple of 2s on it, as well as some numbers on a silver band on the bird’s other leg. He wasn’t certain how to find out more about the owl, so he reached out to a former colleague at the <a href="http://www.fws.gov/">U.S. Fish and Wildlife Service</a>.&nbsp;</p>
 
-<p>A few emails later, the email group network had expanded to include almost a dozen wildlife professionals from the BLM, U.S. FWS, the <a href="http://www.uidaho.edu/">University of Idaho</a>, a global owl conservation organization and an owl researcher in Canada.</p>
 
-<p>“With the help of all of the experts on the email chain, we were able to identify the banded individual owl,” Miller said. “It was a pretty cool experience.”</p>
+  
 
-<p>David H. Johnson, founder of the <a href="https://www.biologicaldiversity.org/campaigns/global_owl_project/owl_paintings.html">Global Owl Project</a>, who works with 450 people in 65 countries to research, track and preserve owl habitat, got drawn into the email chain. Among Johnson’s professional contacts in Canada, researchers identified the owl as one that had been banded in Alberta.</p>
+  <div class="field contact-block -fiscal-year">
+    <div><strong>Fiscal Year:</strong> </div>
+              <div>2024</div>
+          </div>
 
-<p>“That BUOW (burrowing owl) was banded July 11, 2022, by Conservation &amp; Science team members working for the Wilder Institute. It was captured as a nestling, in the wild, inside an artificial nest-burrow,” Dr. Troy Wellicome, senior species-at-risk biologist with the Canadian Wildlife Service, <a href="http://www.canada.ca/en/environment-climate-change.html">Environment and Climate Change Canada</a>, and adjunct professor at the <a href="ualberta.ca/index.html">University of Alberta</a>, Department of Biological Sciences, in Edmonton, Canada, wrote. “Both of the nestling’s parents were unbanded, wild BUOWs (i.e., did not spend any time in human care).”&nbsp;</p>
 
-<p>“The nestling was banded an estimated 30 days after it had hatched (based on flight feather lengths)...a few miles west of Suffield, Alberta,” Graham Dixon-MacCallum, a population ecologist at the <a href="wilderinstitute.org/">Wilder Institute</a> in Alberta, Canada, wrote. “This nestling was banded with a blue A-Craft aluminum band on its left leg, with the letter R over the number 22 etched into the blue anodized band.”&nbsp;</p>
 
-<p>The distance between the burrow in Montana where the blue-banded adult female was most-recently sighted is about 185 miles (as the owl flies) from its natal burrow where it was banded.</p>
 
-<p>“Importantly now, will be to see if this female nests and produces young at its current site in Montana,” Johnson noted.&nbsp;</p>
 
-<p>“Make sure to give those burrowing owls a second look,” Miller suggested. “You never know if they might be part of someone’s important research.”</p>
+  
 
-<p>Learn more about burrowing owls on the Montana Fish Wildlife and Parks’ website – <a href="https://fieldguide.mt.gov/speciesDetail.aspx?elcode=ABNSB10010">https://fieldguide.mt.gov/speciesDetail.aspx?elcode=ABNSB10010</a>.</p>
-</div>
-      
+  <div class="field contact-block -organization">
+    <div><strong>Organization:</strong> </div>
+              <div>Bureau of land Management</div>
+          </div>
+
 
 
 
@@ -103,8 +101,8 @@ date: 2024-06-13, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
-          <div><a href="https://www.blm.gov/region/north-central-do" hreflang="en">North Central DO</a></div>
+              <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+          <div><a href="https://www.blm.gov/region/lakeview-do" hreflang="en">Lakeview DO</a></div>
               </div>
       </div>
 
@@ -114,24 +112,13 @@ date: 2024-06-13, from: Bureau of Land Management, blog
 
   
 
-<div class="blog-topics">
-    <div class="field contact-block -blog-topic">
-      <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/fish-and-wildlife" hreflang="en">Fish and Wildlife</a></div>
-                </div>
-  </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -release-date">
-    <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-06-13T12:00:00Z">Thu, 06/13/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
+  <div class="field contact-block -tag">
+    <div><strong>Tag:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/tag/eis" hreflang="en">EIS</a></div>
+          <div><a href="https://www.blm.gov/tag/planning-and-nepa" hreflang="en">Planning and NEPA</a></div>
+              </div>
+      </div>
 
 
 
@@ -140,8 +127,8 @@ date: 2024-06-13, from: Bureau of Land Management, blog
   
 
   <div class="field contact-block -office">
-    <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/havre-field-office" hreflang="en">Havre Field Office</a></div>
+    <div><strong>District/Field Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/lakeview-district-office" hreflang="en">Lakeview District Office</a></div>
           </div>
 
 
@@ -150,36 +137,50 @@ date: 2024-06-13, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -thumbnail-image">
-    <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/48451/edit" hreflang="en">MT/DKs Burrowing Owl 2024 June 13</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -featured">
-    <div><strong>Featured:</strong> </div>
-              <div>On</div>
-          </div>
-
-
-
-
-
-  
-
-<div class="blog-tags">
-    <div class="field contact-block -tag">
-      <div><strong>Tag:</strong> </div>
+  <div class="field contact-block -contact">
+    <div><strong>Contact:</strong> </div>
+          <div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/wildlife" hreflang="en">Wildlife</a></div>
-                    </div>
+
+  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+  <div class="field contact-block -label">
+    <div><strong>Name:</strong> </div>
+              <div>Lisa McNee</div>
           </div>
-  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -email">
+    <div><strong>Email:</strong> </div>
+              <div>lmcnee@blm.gov</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -phone">
+    <div><strong>Phone:</strong> </div>
+              <div>541-947-6811</div>
+          </div>
+
+      </div>
+</div>
+              </div>
+      </div>
 
 
 
@@ -190,7 +191,7 @@ date: 2024-06-13, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/oregon-washington" hreflang="en">Oregon-Washington</a></div>
               </div>
       </div> 
 
@@ -214,7 +215,7 @@ The trail will be closed to all pedestrian traffic as National Park Service (NPS
 
 date: 2024-06-10, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>The Banded Burrowing Owl </h1></div>
+<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/blm-seeks-input-proposed-management-updates-southern-oregon" hreflang="en">BLM seeks input on proposed management updates in southern Oregon</a></h2></div>
       
 
 
@@ -222,12 +223,20 @@ date: 2024-06-10, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><p>A BLM wildlife biologist’s recent sighting of a banded bird in his field office area led to a remarkable example of inter-agency collaboration.</p>
+  <div class="field contact-block -release-date">
+    <div><strong>Publication Date:</strong> </div>
+              <div><time datetime="2024-06-06T12:00:00Z">Thu, 06/06/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
-<p>Craig Miller, who works for the BLM’s Havre Field Office, was conducting sage-grouse surveys in a remote area of the Upper Missouri River Breaks in north-central Montana when he noticed some burrowing owls on a small prairie dog town. One of the owls was pretty close to the two-track dirt road he was traveling, and he thought he may have seen an identifying band on its legs.&nbsp;</p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="090c6077-03cd-4caa-af01-79fa329a1b6a" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+
+
+
+  
+
+            <div class="field contact-block -body"><figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cc6b2997-b76c-4710-a0c7-bfd1a309f3b8" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -236,7 +245,7 @@ date: 2024-06-10, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Owl1_Miller%204x5.jpg?itok=4e5dgQid" width="288" height="363" alt="Photo. A small, brown-and-white burrowing owl stands on top of a dirt mound; bright-blue-colored band on its left leg; grassy prairie background; daytime." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Lakeview_sagebrush_landscape.png?itok=yJACxwvS" width="640" height="480" alt="The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM." typeof="foaf:Image">
 
 
 </div>
@@ -244,57 +253,47 @@ date: 2024-06-10, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>The blue band on this small burrowing owl caught the eye of BLM biologist Craig Miller and led to a remarkable example of inter-agency collaboration. Photo by Craig Miller, wildlife biologist, Havre Field Office.</figcaption>
+<figcaption>The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM.</figcaption>
 </figure>
 
 
-<p>Bird banding is an important technique used by professional wildlife researchers for studying and identifying individual birds. Scientists put aluminum or colored bands on birds' legs. And, much like the license plate on a car, each metal band is engraved with a unique set of numbers.</p>
+<p>&nbsp;</p>
 
-<p>“As I was grabbing the binoculars, I thought to myself, there is no way I would be able to see a small band on an owl with the naked eye,” said Miller. “Much to my surprise, BINGO, banded owl.”</p>
+<p><strong>LAKEVIEW, Ore. </strong>— The Bureau of Land Management is seeking public comment on a Draft Environmental Impact Statement (EIS) for amending the&nbsp;<a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="c8ec45bf-6708-4c48-8c95-bded76d11290" href="https://www.blm.gov/sites/default/files/Lakeview_RMP_Text_Appendices.pdf" target="_blank" title="2003 Lakeview Resource Management Plan">2003 Lakeview Resource Management Plan</a>, which would update the management of 3.2 million acres of BLM-managed public lands in Lake and Harney counties. The amendment, which has been prepared to respond to a <a href="https://eplanning.blm.gov/public_projects/lup/87435/116985/142662/20100610_57-1_AmendRemand_SettleAgree_web.pdf" target="_blank" title="2010 court settlement">2010 court settlement</a>, addresses the management of public lands for wilderness characteristics, recreation, and grazing.</p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="794a3b43-fb8a-4bf7-9e35-65480d8a5410" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
-  
-  
+<p aria-hidden="true">“We welcome the public’s insight and input into how we can appropriately balance the management of these lands,<strong>” said Jami Ludwig, BLM Lakeview Field Manager.</strong> “This plan will help guide BLM’s management of this landscape for the next 20 years.”</p>
 
+<p>As directed by the 2010 settlement, the BLM’s draft EIS and plan amendment consider a wide-range of management options for lands with wilderness characteristics, grazing, and outdoor recreation, including off-highway vehicle use. Public comments received on this draft will help inform the development of a final plan, which could combine management approaches from several of the draft alternatives, if appropriate.</p>
 
+<p>The BLM plans to host an in-person public meeting in Lakeview and two virtual public meetings during the comment period to discuss and answer questions about the plan. The BLM will announce these meetings at least 15 days in advance through the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register">BLM National NEPA Register</a>, public notices, media releases, social media, and/or mailings.</p>
 
+<p>A Notice of Availability will publish in tomorrow’s <em>Federal Register</em> to open a 90-day comment period. Project information is available at the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register 2">BLM National NEPA Register</a> where written comments may be submitted via the “Participate Now” option (preferred) by Sept. 4, 2024. Comments may also be submitted to <a href="mailto:BLM_OR_LV_RMP_Team@blm.gov" title="send email">BLM_OR_LV_RMP_Team@blm.gov</a><u>,</u>&nbsp;or delivered to BLM Lakeview District, 1301 South G Street, Lakeview, OR 97630</p>
 
-  
-
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Owl2_Miller_crop%205x3.5.jpg?itok=SiQUwv9w" width="480" height="327" alt="Photo. Close-up of the legs of a small, brown-and-white burrowing owl standings on top of a dirt mound; bright-blue-colored band on its left leg; smaller, silver-colored band on its right leg; grassy prairie background; daytime." typeof="foaf:Image">
-
-
+<p>For more information, please contact Michael Collins at 541-947-6112.</p>
 </div>
       
-</div>
-</div>
-
-<figcaption>The bands on the legs of this small burrowing owl were placed by researchers in Suffield, Alberta, about 185 miles from where the bird was sighted in north-central Montana. Banding is a technique used to identify and track individual birds. Photo by Craig Miller, wildlife biologist, Havre Field Office.</figcaption>
-</figure>
 
 
-<p>Miller took several photos of the banded owl using a spotting scope. He was only able to see a blueish-colored band with an R and a couple of 2s on it, as well as some numbers on a silver band on the bird’s other leg. He wasn’t certain how to find out more about the owl, so he reached out to a former colleague at the <a href="http://www.fws.gov/">U.S. Fish and Wildlife Service</a>.&nbsp;</p>
 
-<p>A few emails later, the email group network had expanded to include almost a dozen wildlife professionals from the BLM, U.S. FWS, the <a href="http://www.uidaho.edu/">University of Idaho</a>, a global owl conservation organization and an owl researcher in Canada.</p>
 
-<p>“With the help of all of the experts on the email chain, we were able to identify the banded individual owl,” Miller said. “It was a pretty cool experience.”</p>
+  
 
-<p>David H. Johnson, founder of the <a href="https://www.biologicaldiversity.org/campaigns/global_owl_project/owl_paintings.html">Global Owl Project</a>, who works with 450 people in 65 countries to research, track and preserve owl habitat, got drawn into the email chain. Among Johnson’s professional contacts in Canada, researchers identified the owl as one that had been banded in Alberta.</p>
+  <div class="field contact-block -fiscal-year">
+    <div><strong>Fiscal Year:</strong> </div>
+              <div>2024</div>
+          </div>
 
-<p>“That BUOW (burrowing owl) was banded July 11, 2022, by Conservation &amp; Science team members working for the Wilder Institute. It was captured as a nestling, in the wild, inside an artificial nest-burrow,” Dr. Troy Wellicome, senior species-at-risk biologist with the Canadian Wildlife Service, <a href="http://www.canada.ca/en/environment-climate-change.html">Environment and Climate Change Canada</a>, and adjunct professor at the <a href="ualberta.ca/index.html">University of Alberta</a>, Department of Biological Sciences, in Edmonton, Canada, wrote. “Both of the nestling’s parents were unbanded, wild BUOWs (i.e., did not spend any time in human care).”&nbsp;</p>
 
-<p>“The nestling was banded an estimated 30 days after it had hatched (based on flight feather lengths)...a few miles west of Suffield, Alberta,” Graham Dixon-MacCallum, a population ecologist at the <a href="wilderinstitute.org/">Wilder Institute</a> in Alberta, Canada, wrote. “This nestling was banded with a blue A-Craft aluminum band on its left leg, with the letter R over the number 22 etched into the blue anodized band.”&nbsp;</p>
 
-<p>The distance between the burrow in Montana where the blue-banded adult female was most-recently sighted is about 185 miles (as the owl flies) from its natal burrow where it was banded.</p>
 
-<p>“Importantly now, will be to see if this female nests and produces young at its current site in Montana,” Johnson noted.&nbsp;</p>
 
-<p>“Make sure to give those burrowing owls a second look,” Miller suggested. “You never know if they might be part of someone’s important research.”</p>
+  
 
-<p>Learn more about burrowing owls on the Montana Fish Wildlife and Parks’ website – <a href="https://fieldguide.mt.gov/speciesDetail.aspx?elcode=ABNSB10010">https://fieldguide.mt.gov/speciesDetail.aspx?elcode=ABNSB10010</a>.</p>
-</div>
-      
+  <div class="field contact-block -organization">
+    <div><strong>Organization:</strong> </div>
+              <div>Bureau of land Management</div>
+          </div>
+
 
 
 
@@ -304,8 +303,8 @@ date: 2024-06-10, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
-          <div><a href="https://www.blm.gov/region/north-central-do" hreflang="en">North Central DO</a></div>
+              <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+          <div><a href="https://www.blm.gov/region/lakeview-do" hreflang="en">Lakeview DO</a></div>
               </div>
       </div>
 
@@ -315,24 +314,13 @@ date: 2024-06-10, from: Bureau of Land Management, blog
 
   
 
-<div class="blog-topics">
-    <div class="field contact-block -blog-topic">
-      <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/fish-and-wildlife" hreflang="en">Fish and Wildlife</a></div>
-                </div>
-  </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -release-date">
-    <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-06-13T12:00:00Z">Thu, 06/13/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
+  <div class="field contact-block -tag">
+    <div><strong>Tag:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/tag/eis" hreflang="en">EIS</a></div>
+          <div><a href="https://www.blm.gov/tag/planning-and-nepa" hreflang="en">Planning and NEPA</a></div>
+              </div>
+      </div>
 
 
 
@@ -341,8 +329,8 @@ date: 2024-06-10, from: Bureau of Land Management, blog
   
 
   <div class="field contact-block -office">
-    <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/havre-field-office" hreflang="en">Havre Field Office</a></div>
+    <div><strong>District/Field Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/lakeview-district-office" hreflang="en">Lakeview District Office</a></div>
           </div>
 
 
@@ -351,36 +339,50 @@ date: 2024-06-10, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -thumbnail-image">
-    <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/48451/edit" hreflang="en">MT/DKs Burrowing Owl 2024 June 13</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -featured">
-    <div><strong>Featured:</strong> </div>
-              <div>On</div>
-          </div>
-
-
-
-
-
-  
-
-<div class="blog-tags">
-    <div class="field contact-block -tag">
-      <div><strong>Tag:</strong> </div>
+  <div class="field contact-block -contact">
+    <div><strong>Contact:</strong> </div>
+          <div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/wildlife" hreflang="en">Wildlife</a></div>
-                    </div>
+
+  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+  <div class="field contact-block -label">
+    <div><strong>Name:</strong> </div>
+              <div>Lisa McNee</div>
           </div>
-  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -email">
+    <div><strong>Email:</strong> </div>
+              <div>lmcnee@blm.gov</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -phone">
+    <div><strong>Phone:</strong> </div>
+              <div>541-947-6811</div>
+          </div>
+
+      </div>
+</div>
+              </div>
+      </div>
 
 
 
@@ -391,7 +393,7 @@ date: 2024-06-10, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/oregon-washington" hreflang="en">Oregon-Washington</a></div>
               </div>
       </div> 
 
@@ -403,7 +405,7 @@ date: 2024-06-10, from: Bureau of Land Management, blog
 
 date: 2024-06-10, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>The Banded Burrowing Owl </h1></div>
+<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/blm-seeks-input-proposed-management-updates-southern-oregon" hreflang="en">BLM seeks input on proposed management updates in southern Oregon</a></h2></div>
       
 
 
@@ -411,12 +413,20 @@ date: 2024-06-10, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><p>A BLM wildlife biologist’s recent sighting of a banded bird in his field office area led to a remarkable example of inter-agency collaboration.</p>
+  <div class="field contact-block -release-date">
+    <div><strong>Publication Date:</strong> </div>
+              <div><time datetime="2024-06-06T12:00:00Z">Thu, 06/06/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
-<p>Craig Miller, who works for the BLM’s Havre Field Office, was conducting sage-grouse surveys in a remote area of the Upper Missouri River Breaks in north-central Montana when he noticed some burrowing owls on a small prairie dog town. One of the owls was pretty close to the two-track dirt road he was traveling, and he thought he may have seen an identifying band on its legs.&nbsp;</p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="090c6077-03cd-4caa-af01-79fa329a1b6a" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+
+
+
+  
+
+            <div class="field contact-block -body"><figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cc6b2997-b76c-4710-a0c7-bfd1a309f3b8" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -425,7 +435,7 @@ date: 2024-06-10, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Owl1_Miller%204x5.jpg?itok=4e5dgQid" width="288" height="363" alt="Photo. A small, brown-and-white burrowing owl stands on top of a dirt mound; bright-blue-colored band on its left leg; grassy prairie background; daytime." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Lakeview_sagebrush_landscape.png?itok=yJACxwvS" width="640" height="480" alt="The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM." typeof="foaf:Image">
 
 
 </div>
@@ -433,57 +443,47 @@ date: 2024-06-10, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>The blue band on this small burrowing owl caught the eye of BLM biologist Craig Miller and led to a remarkable example of inter-agency collaboration. Photo by Craig Miller, wildlife biologist, Havre Field Office.</figcaption>
+<figcaption>The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM.</figcaption>
 </figure>
 
 
-<p>Bird banding is an important technique used by professional wildlife researchers for studying and identifying individual birds. Scientists put aluminum or colored bands on birds' legs. And, much like the license plate on a car, each metal band is engraved with a unique set of numbers.</p>
+<p>&nbsp;</p>
 
-<p>“As I was grabbing the binoculars, I thought to myself, there is no way I would be able to see a small band on an owl with the naked eye,” said Miller. “Much to my surprise, BINGO, banded owl.”</p>
+<p><strong>LAKEVIEW, Ore. </strong>— The Bureau of Land Management is seeking public comment on a Draft Environmental Impact Statement (EIS) for amending the&nbsp;<a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="c8ec45bf-6708-4c48-8c95-bded76d11290" href="https://www.blm.gov/sites/default/files/Lakeview_RMP_Text_Appendices.pdf" target="_blank" title="2003 Lakeview Resource Management Plan">2003 Lakeview Resource Management Plan</a>, which would update the management of 3.2 million acres of BLM-managed public lands in Lake and Harney counties. The amendment, which has been prepared to respond to a <a href="https://eplanning.blm.gov/public_projects/lup/87435/116985/142662/20100610_57-1_AmendRemand_SettleAgree_web.pdf" target="_blank" title="2010 court settlement">2010 court settlement</a>, addresses the management of public lands for wilderness characteristics, recreation, and grazing.</p>
 
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="794a3b43-fb8a-4bf7-9e35-65480d8a5410" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
-  
-  
+<p aria-hidden="true">“We welcome the public’s insight and input into how we can appropriately balance the management of these lands,<strong>” said Jami Ludwig, BLM Lakeview Field Manager.</strong> “This plan will help guide BLM’s management of this landscape for the next 20 years.”</p>
 
+<p>As directed by the 2010 settlement, the BLM’s draft EIS and plan amendment consider a wide-range of management options for lands with wilderness characteristics, grazing, and outdoor recreation, including off-highway vehicle use. Public comments received on this draft will help inform the development of a final plan, which could combine management approaches from several of the draft alternatives, if appropriate.</p>
 
+<p>The BLM plans to host an in-person public meeting in Lakeview and two virtual public meetings during the comment period to discuss and answer questions about the plan. The BLM will announce these meetings at least 15 days in advance through the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register">BLM National NEPA Register</a>, public notices, media releases, social media, and/or mailings.</p>
 
+<p>A Notice of Availability will publish in tomorrow’s <em>Federal Register</em> to open a 90-day comment period. Project information is available at the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register 2">BLM National NEPA Register</a> where written comments may be submitted via the “Participate Now” option (preferred) by Sept. 4, 2024. Comments may also be submitted to <a href="mailto:BLM_OR_LV_RMP_Team@blm.gov" title="send email">BLM_OR_LV_RMP_Team@blm.gov</a><u>,</u>&nbsp;or delivered to BLM Lakeview District, 1301 South G Street, Lakeview, OR 97630</p>
 
-  
-
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Owl2_Miller_crop%205x3.5.jpg?itok=SiQUwv9w" width="480" height="327" alt="Photo. Close-up of the legs of a small, brown-and-white burrowing owl standings on top of a dirt mound; bright-blue-colored band on its left leg; smaller, silver-colored band on its right leg; grassy prairie background; daytime." typeof="foaf:Image">
-
-
+<p>For more information, please contact Michael Collins at 541-947-6112.</p>
 </div>
       
-</div>
-</div>
-
-<figcaption>The bands on the legs of this small burrowing owl were placed by researchers in Suffield, Alberta, about 185 miles from where the bird was sighted in north-central Montana. Banding is a technique used to identify and track individual birds. Photo by Craig Miller, wildlife biologist, Havre Field Office.</figcaption>
-</figure>
 
 
-<p>Miller took several photos of the banded owl using a spotting scope. He was only able to see a blueish-colored band with an R and a couple of 2s on it, as well as some numbers on a silver band on the bird’s other leg. He wasn’t certain how to find out more about the owl, so he reached out to a former colleague at the <a href="http://www.fws.gov/">U.S. Fish and Wildlife Service</a>.&nbsp;</p>
 
-<p>A few emails later, the email group network had expanded to include almost a dozen wildlife professionals from the BLM, U.S. FWS, the <a href="http://www.uidaho.edu/">University of Idaho</a>, a global owl conservation organization and an owl researcher in Canada.</p>
 
-<p>“With the help of all of the experts on the email chain, we were able to identify the banded individual owl,” Miller said. “It was a pretty cool experience.”</p>
+  
 
-<p>David H. Johnson, founder of the <a href="https://www.biologicaldiversity.org/campaigns/global_owl_project/owl_paintings.html">Global Owl Project</a>, who works with 450 people in 65 countries to research, track and preserve owl habitat, got drawn into the email chain. Among Johnson’s professional contacts in Canada, researchers identified the owl as one that had been banded in Alberta.</p>
+  <div class="field contact-block -fiscal-year">
+    <div><strong>Fiscal Year:</strong> </div>
+              <div>2024</div>
+          </div>
 
-<p>“That BUOW (burrowing owl) was banded July 11, 2022, by Conservation &amp; Science team members working for the Wilder Institute. It was captured as a nestling, in the wild, inside an artificial nest-burrow,” Dr. Troy Wellicome, senior species-at-risk biologist with the Canadian Wildlife Service, <a href="http://www.canada.ca/en/environment-climate-change.html">Environment and Climate Change Canada</a>, and adjunct professor at the <a href="ualberta.ca/index.html">University of Alberta</a>, Department of Biological Sciences, in Edmonton, Canada, wrote. “Both of the nestling’s parents were unbanded, wild BUOWs (i.e., did not spend any time in human care).”&nbsp;</p>
 
-<p>“The nestling was banded an estimated 30 days after it had hatched (based on flight feather lengths)...a few miles west of Suffield, Alberta,” Graham Dixon-MacCallum, a population ecologist at the <a href="wilderinstitute.org/">Wilder Institute</a> in Alberta, Canada, wrote. “This nestling was banded with a blue A-Craft aluminum band on its left leg, with the letter R over the number 22 etched into the blue anodized band.”&nbsp;</p>
 
-<p>The distance between the burrow in Montana where the blue-banded adult female was most-recently sighted is about 185 miles (as the owl flies) from its natal burrow where it was banded.</p>
 
-<p>“Importantly now, will be to see if this female nests and produces young at its current site in Montana,” Johnson noted.&nbsp;</p>
 
-<p>“Make sure to give those burrowing owls a second look,” Miller suggested. “You never know if they might be part of someone’s important research.”</p>
+  
 
-<p>Learn more about burrowing owls on the Montana Fish Wildlife and Parks’ website – <a href="https://fieldguide.mt.gov/speciesDetail.aspx?elcode=ABNSB10010">https://fieldguide.mt.gov/speciesDetail.aspx?elcode=ABNSB10010</a>.</p>
-</div>
-      
+  <div class="field contact-block -organization">
+    <div><strong>Organization:</strong> </div>
+              <div>Bureau of land Management</div>
+          </div>
+
 
 
 
@@ -493,8 +493,8 @@ date: 2024-06-10, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
-          <div><a href="https://www.blm.gov/region/north-central-do" hreflang="en">North Central DO</a></div>
+              <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+          <div><a href="https://www.blm.gov/region/lakeview-do" hreflang="en">Lakeview DO</a></div>
               </div>
       </div>
 
@@ -504,24 +504,13 @@ date: 2024-06-10, from: Bureau of Land Management, blog
 
   
 
-<div class="blog-topics">
-    <div class="field contact-block -blog-topic">
-      <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/fish-and-wildlife" hreflang="en">Fish and Wildlife</a></div>
-                </div>
-  </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -release-date">
-    <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-06-13T12:00:00Z">Thu, 06/13/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
+  <div class="field contact-block -tag">
+    <div><strong>Tag:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/tag/eis" hreflang="en">EIS</a></div>
+          <div><a href="https://www.blm.gov/tag/planning-and-nepa" hreflang="en">Planning and NEPA</a></div>
+              </div>
+      </div>
 
 
 
@@ -530,8 +519,8 @@ date: 2024-06-10, from: Bureau of Land Management, blog
   
 
   <div class="field contact-block -office">
-    <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/havre-field-office" hreflang="en">Havre Field Office</a></div>
+    <div><strong>District/Field Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/lakeview-district-office" hreflang="en">Lakeview District Office</a></div>
           </div>
 
 
@@ -540,36 +529,50 @@ date: 2024-06-10, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -thumbnail-image">
-    <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/48451/edit" hreflang="en">MT/DKs Burrowing Owl 2024 June 13</a></div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -featured">
-    <div><strong>Featured:</strong> </div>
-              <div>On</div>
-          </div>
-
-
-
-
-
-  
-
-<div class="blog-tags">
-    <div class="field contact-block -tag">
-      <div><strong>Tag:</strong> </div>
+  <div class="field contact-block -contact">
+    <div><strong>Contact:</strong> </div>
+          <div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/wildlife" hreflang="en">Wildlife</a></div>
-                    </div>
+
+  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+  <div class="field contact-block -label">
+    <div><strong>Name:</strong> </div>
+              <div>Lisa McNee</div>
           </div>
-  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -email">
+    <div><strong>Email:</strong> </div>
+              <div>lmcnee@blm.gov</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -phone">
+    <div><strong>Phone:</strong> </div>
+              <div>541-947-6811</div>
+          </div>
+
+      </div>
+</div>
+              </div>
+      </div>
 
 
 
@@ -580,7 +583,7 @@ date: 2024-06-10, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/oregon-washington" hreflang="en">Oregon-Washington</a></div>
               </div>
       </div> 
 

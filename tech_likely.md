@@ -1,11 +1,412 @@
 ---
 title: tech likely 2024.24
-updated: 2024-06-14 07:34:18
+updated: 2024-06-15 17:33:52
 ---
 
 # tech likely 2024.24
 
-(date: 2024-06-14 07:34:18)
+(date: 2024-06-15 17:33:52)
+
+---
+
+## Can you blow a PC speaker with a Linux kernel module?
+
+date: 2024-06-14, from: OS News
+
+Sometimes you come across a story that&#8217;s equally weird and delightful, and this is definitely one of them. Oleksandr Natalenko posted a link on Mastodon to a curious email sent to the Linux Kernel Mailing List, which apparently gets sent to the LKML every single year. The message is very straightforward. Is it possible to write a kernel module which, when loaded, will blow the PC speaker? ↫ R.F. Burns on the LKML Since this gets sent every year, it&#8217;s most likely some automated thing that&#8217;s more of a joke than a real request at this point. However, originally, there was a real historical reason behind the inquiry, as Schlemihl Schalmeier on Mastodon points out. They link to the original rationale behind the request, posted to the LKML after the request was first made, all the way back in 2007. At the time, the author was helping a small school system manage a number of Linux workstations, and the students there were abusing the sound cards on those workstations for shenanigans. They addressed this by only allowing users with root privileges access to the sound devices. However, kids are smart, and they started abusing the PC speaker instead, and even unloading the PC speaker kernel module didn&#8217;t help because the kids found ways to abuse the PC speaker outside of the operating system (the BIOS maybe? I have no idea). And so, the author notes, the school system wanted them to remove the PC speakers entirely, but this would be a very fiddly and time-consuming effort, since there were a lot of PCs, and of course, this would all have to be done on-site &#8211; unlike the earlier solutions which could all be done remotely. So, the idea was raised about seeing if there was a way to blow the PC speaker by loading a kernel module.  If so, a mass-deployment of a kernel module overnight would take care of the PC speaker problem once and for all. ↫ R.F. Burns on the LKML So, that&#8217;s the original story behind the request. It&#8217;s honestly kind of ingenious, and it made me wonder if the author got a useful reply on the LKML, and if such a kernel module was ever created. The original thread didn&#8217;t seem particularly conclusive to me, and the later yearly instances of the request don&#8217;t seem to yield much either. It seems unlikely to me this is possible at all. Regardless, this is a very weird bit of Linux kernel lore, and I&#8217;d love to know if there&#8217;s more going on. Various parts of the original rationale seem dubious to me, such as the handwavy thing about abusing the PC speaker outside of the operating system, and what does &#8220;abusing&#8221; the PC speaker even mean in the first place? As Natalenko notes, it seems there&#8217;s more to this story, and I&#8217;d love to find out what it is. 
+
+<https://www.osnews.com/story/139958/can-you-blow-a-pc-speaker-with-a-linux-kernel-module/>
+
+---
+
+## starting over
+
+date: 2024-06-14, from: Ayjay blog
+
+Around a month ago, I mentioned that I had just read and really enjoyed Robin Sloan’s novel Moonbound. And that’s true! But what I didn’t say at the time is that I definitely didn’t get the most out of my reading experience, didn’t have full concentration as I read. And I know why. It was [&#8230;] 
+
+<https://blog.ayjay.org/starting-over/>
+
+---
+
+## Apple set to be first big tech group to face charges under EU digital law
+
+date: 2024-06-14, from: OS News
+
+Brussels is set to charge Apple over allegedly stifling competition on its mobile app store, the first time EU regulators have used new digital rules to target a Big Tech group. The European Commission has determined that the iPhone maker is not complying with obligations to allow app developers to “steer” users to offers outside its App Store without imposing fees on them, according to three people with close knowledge of its investigation. ↫ Javier Espinoza and Michael Acton This was always going to happen for as long as Apple&#8217;s malicious compliance kept dragging on. The rules in the Digital Markets Act are quite clear and simple, and despite the kind of close cooperation with EU lawmakers no normal EU citizen is ever going to get, Apple has been breaking this law from day one without any intent to comply. European Union regulators have given Apple far, far more leeway and assistance than any regular citizen of small business would get, and that has to stop. The possible fines under the DMA are massive. If Apple is found guilty, they could be fined for up to 10% of its global revenue, or 20% for repeated violations. This is no laughing matters, and this is not one of those cases where a company like Apple could calculate fines as a mere cost of doing business &#8211; this would have a material impact on the company&#8217;s numbers, and shareholders are definitely not going to like it if Apple gets fined such percentages. As these are preliminary findings, Apple could still implement changes, but if past behaviour is any indication, any possibly changes will just be ever more malicious compliance. 
+
+<https://www.osnews.com/story/139956/apple-set-to-be-first-big-yech-group-to-face-charges-under-eu-digital-law/>
+
+---
+
+## This Week in the IndieWeb
+
+date: 2024-06-14, from: This week in Indie Web
+
+
+
+<h1><a href="https://indieweb.org/this-week/2024-06-14.html">June 7-14, 2024</a></h1>
+<h2 id="recent-events">Recent Events</h2><p>From <a href="https://events.indieweb.org/archive">events.indieweb.org/archive</a>:</p>
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/06/homebrew-website-club-europe-london-AkxvCbl5ug9o" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-06-12T19:00:00+00:00">Wednesday, June 12 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary"><p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, a coder, or all the above.</p></div><div><img src="https://indieweb.org/this-week/images/2024-06-14/0e6a043929a631ac9798bbdf6fc783aa57fc9e63.jpg" style="width:100%" class="u-photo"></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/06/homebrew-website-club-nuremberg-germany-aD8II7Ogs9jH" class="u-url">Homebrew Website Club - Nuremberg/Germany</a></div>
+<time class="dt-start" datetime="2024-06-12T18:00:00+00:00">Wednesday, June 12 at 6:00pm</time><br>
+<ul><li>FÜRTH, Bayern: Fab Lab Region Nürnberg e.V.</li></ul><div style="font-style: italic" class="e-summary"><p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p></div><div><img src="https://indieweb.org/this-week/images/2024-06-14/f6df307d7c6d9bab8b019cfa10ec87ddc0cc273f.jpg" style="width:100%" class="u-photo"></div></div>
+<h2 id="upcoming-events">Upcoming Events</h2><p>From <a href="https://events.indieweb.org/">events.indieweb.org</a>:</p>
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/06/front-end-study-hall-005-WD3wbGiCIija" class="u-url">Front End Study Hall #005</a></div>
+<time class="dt-start" datetime="2024-06-18T12:00:00-07:00">Tuesday, June 18 at 12:00pm</time><br>
+<div style="font-style: italic" class="e-summary"><p>Front End Study Hall is an HTML + CSS focused group meeting, held on Zoom to learn from each other about how to make code do what we want.</p>
+
+<p>Come prepared to teach and learn!</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/06/homebrew-website-club-europe-london-tbUSVVr5yWT3" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-06-19T19:00:00+01:00">Wednesday, June 19 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary"><p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, a coder, or all the above.</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/06/homebrew-website-club-pacific-NfG3leietgb5" class="u-url">Homebrew Website Club - Pacific</a></div>
+<time class="dt-start" datetime="2024-06-19T18:00:00-07:00">Wednesday, June 19 at 6:00pm</time><br>
+</div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/06/homebrew-website-club-edinburgh-1210iock7v5d" class="u-url">Homebrew Website Club Edinburgh</a></div>
+<time class="dt-start" datetime="2024-06-25T18:00:00+01:00">Tuesday, June 25 at 6:00pm</time><br>
+<ul><li>EDINBURGH, Scotland: Costa Coffee (Upstairs)</li></ul></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/06/homebrew-website-club-europe-london-7EeVR8ATRtpk" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-06-26T19:00:00+01:00">Wednesday, June 26 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary"><p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, a coder, or all the above.</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/homebrew-website-club-nürnberg-digital-festival-edition-MpDAKz0jW4Cn" class="u-url">Homebrew Website Club - Nürnberg Digital Festival Edition</a></div>
+<time class="dt-start" datetime="2024-07-03T18:00:00+02:00">Wednesday, July 3 at 6:00pm</time><br>
+<ul><li>NÜRNBERG, Bayern: LEONARDO – Zentrum für Kreativität und Innovation</li></ul><div style="font-style: italic" class="e-summary"><p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/homebrew-website-club-europe-london-1MGOh2nqIkCp" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-07-03T19:00:00+01:00">Wednesday, July 3 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary"><p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, a coder, or all the above.</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/homebrew-website-club-nuremberg-germany-mSA17SBkPqdw" class="u-url">Homebrew Website Club - Nuremberg/Germany</a></div>
+<time class="dt-start" datetime="2024-07-10T18:00:00+02:00">Wednesday, July 10 at 6:00pm</time><br>
+<ul><li>NÜRNBERG, Bayern: LEONARDO – Zentrum für Kreativität und Innovation</li></ul><div style="font-style: italic" class="e-summary"><p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/send-a-friend-a-webmention-day-Yg7gsfhZDigm" class="u-url">Send a Friend a Webmention Day</a></div>
+<time class="dt-start" datetime="2024-07-30T00:00:00+00:00">Tuesday, July 30</time><br>
+</div>
+<h2 id="news">What We’re Reading</h2><p>From <a href="https://news.indieweb.org/en">news.indieweb.org</a>:</p><div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://publ.beesbuzz.biz/blog/274-Publ-v0-7-26-released" class="u-url p-name">Publ v0.7.26 released</a></div><div>by <a href="https://publ.beesbuzz.biz" class="p-author h-card">publ.beesbuzz.biz</a> on <a href="https://publ.beesbuzz.biz/blog/274-Publ-v0-7-26-released"><time class="dt-published" datetime="2024-06-11T00:00:06+00:00">June 11</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://publ.beesbuzz.biz/blog/789-Webmention-js-0-5-5-released-important-security-update" class="u-url p-name">Webmention.js 0.5.5 released - important security update!</a></div><div>by <a href="https://publ.beesbuzz.biz" class="p-author h-card">publ.beesbuzz.biz</a> on <a href="https://publ.beesbuzz.biz/blog/789-Webmention-js-0-5-5-released-important-security-update"><time class="dt-published" datetime="2024-06-11T00:00:06+00:00">June 11</time></a></div></div>
+
+<h2 id="new-community-members">New Community Members</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=2">IndieWeb Wiki: New User Pages</a>:</p>
+<h3><a href="https://indieweb.org/User%3AWww.ottorask.com">User:Www.ottorask.com</a></h3><p style="font-size:0.8em;">Created by Www.ottorask.com on Friday</p>
+<h2 id="new-wiki-pages">Top New Wiki Pages</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb Wiki: New Pages</a>:</p>
+<h3><a href="https://indieweb.org/2024/Portland">2024/Portland</a></h3><p>IndieWebCamp Portland 2024 is planned for 2024-08-25, the Sunday after XOXO 2024, if we can find a venue for it!</p><p style="font-size:0.8em;">Created by Tantek.com on Wednesday and edited 3 more times</p>
+<h3><a href="https://indieweb.org/Beeper">Beeper</a></h3><p>Beeper is a *universal chat app" http://beeper.com.</p><p style="font-size:0.8em;">Created by [Jo] on Tuesday</p>
+<h2 id="new-event-notes">New Event Notes</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb Wiki: New Pages</a>:</p>
+
+<p><b>Homebrew Website Club - Nuremberg/Germany:</b> <a href="https://indieweb.org/events/2024-06-12-hwc-nuremberg">2024-06-12</a>, <a href="https://indieweb.org/events/2024-05-08-hwc-nuremberg">2024-05-08</a></p>
+<p><b>Homebrew Website Club Europe/London:</b> <a href="https://indieweb.org/events/2024-06-12-hwc-europe">2024-06-12</a></p>
+<p><b>Homebrew Website Club - Nürnberg Digital Festival Edition:</b> <a href="https://indieweb.org/events/2024-07-03-hwc-nuremberg">2024-07-03</a></p>
+
+<h2 id="changed-wiki-pages">Top Edited Wiki Pages</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?namespace=0&title=Special%3ARecentChanges">IndieWeb Wiki: Recent Changes</a>:</p>
+<ul>
+<li><b><a href="https://indieweb.org/Planning">Planning</a></b> <a href="https://indieweb.org/wiki/index.php?title=Planning&amp;action=historysubmit&amp;diff=95822&amp;oldid=95767">16 edits</a> by tantek.com, snarfed.org, martymcgui.re, aaronparecki.com, gregorlove.com, and artlung.com</li>
+<li><b><a href="https://indieweb.org/discuss">discuss</a></b> <a href="https://indieweb.org/wiki/index.php?title=discuss&amp;action=historysubmit&amp;diff=95797&amp;oldid=95764">7 edits</a> by gregorlove.com, alabut.com, martymcgui.re, and mat.tl</li>
+<li><b><a href="https://indieweb.org/stream.indieweb.org">stream.indieweb.org</a></b> <a href="https://indieweb.org/wiki/index.php?title=stream.indieweb.org&amp;action=historysubmit&amp;diff=95841&amp;oldid=93304">2 edits</a> by aaronparecki.com</li>
+<li><b><a href="https://indieweb.org/video">video</a></b> <a href="https://indieweb.org/wiki/index.php?title=video&amp;action=historysubmit&amp;diff=95831&amp;oldid=82583">2 edits</a> by artlung.com</li>
+<li><b><a href="https://indieweb.org/webring">webring</a></b> <a href="https://indieweb.org/wiki/index.php?title=webring&amp;action=historysubmit&amp;diff=95784&amp;oldid=89766">2 edits</a> by tantek.com</li></ul>
+
+ 
+
+<https://indieweb.org/this-week/2024-06-14.html>
+
+---
+
+## Microsoft chose profit over security and left US government vulnerable to Russian hack, whistleblower says
+
+date: 2024-06-14, from: OS News
+
+Former employee says software giant dismissed his warnings about a critical flaw because it feared losing government business. Russian hackers later used the weakness to breach the National Nuclear Security Administration, among others. ↫ Renee Dudley at ProPublica In light of Recall, a very dangerous game. 
+
+<https://www.osnews.com/story/139954/microsoft-chose-profit-over-security-and-left-us-government-vulnerable-to-russian-hack-whistleblower-says/>
+
+---
+
+## Driving forward in Android drivers
+
+date: 2024-06-14, from: OS News
+
+Google&#8217;s own Project Zero security research effort, which often finds and publishes vulnerabilities in both other companies&#8217; and its own products, set its sights on Android once more, this time focusing on third-party kernel drivers. Android&#8217;s open-source ecosystem has led to an incredible diversity of manufacturers and vendors developing software that runs on a broad variety of hardware. This hardware requires supporting drivers, meaning that many different codebases carry the potential to compromise a significant segment of Android phones. There are recent public examples of third-party drivers containing serious vulnerabilities that are exploited on Android. While there exists a well-established body of public (and In-the-Wild) security research on Android GPU drivers, other chipset components may not be as frequently audited so this research sought to explore those drivers in greater detail. ↫ Seth Jenkins They found a whole host of security issues in these third-party kernel drivers in phones both from Google itself as well as from other companies. An interesting point the authors make is that because it&#8217;s getting ever harder to find 0-days in core Android, people with nefarious intent are looking at other parts of an Android system now, and these kernel drivers are an inviting avenue for them. They seem to focus mostly on GPU drivers, for now, but it stands to reason they&#8217;ll be targeting other drivers, too. As usual with Android, the discovered exploits were often fixed, but the patches took way, way too long to find their way to end users due to the OEMs lagging behind when it comes to sending those patches to users. The authors propose wider adoption of Android APEX to make it easier to OEMs to deliver kernel patches to users faster. I always like the Project Zero studies and articles, because they really take no prisoners, and whether they&#8217;re investigating someone else like Microsoft or Apple, or their own company Google, they go in hard, do not surgarcoat their findings, and apply the same standards to everyone. 
+
+<https://www.osnews.com/story/139952/driving-forward-in-android-drivers/>
+
+---
+
+## NASA, Boeing to Discuss Starliner’s Mission
+
+date: 2024-06-14, from: NASA breaking news
+
+NASA and Boeing will discuss Starliner’s mission and departure from the International Space Station as part of the agency’s Boeing Crew Flight Test in a pre-departure media teleconference at 12 p.m. EDT Tuesday, June 18. NASA, Boeing, and station management teams will evaluate mission requirements and weather conditions at available landing locations in the southwestern [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-boeing-to-discuss-starliners-mission/>
+
+---
+
+## WWDC 2024 Links
+
+date: 2024-06-14, from: Michael Tsai
+
+General: Keynote (YouTube, Hacker News, Lobsters, MacRumors, TidBITS, Mac Power Users Talk, The Verge) Sessions (Spreadsheet, via Daniel Jalkut) Videos Unofficial WWDC App (Script to Title Videos in EagleFiler) Beta OS Downloads (Requirements, Installer, Create Install Disk With DropDMG, How to Install) Xcode Beta Sample Code What&#8217;s New: Bento Boxes Apple API Changes List Apple [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/14/wwdc-2024-links/>
+
+---
+
+## Private Cloud Compute
+
+date: 2024-06-14, from: Michael Tsai
+
+Apple (via Ivan Krsti&#x107;, ArsTechnica): Apple Intelligence is the personal intelligence system that brings powerful generative models to iPhone, iPad, and Mac. For advanced features that need to reason over complex data with larger foundation models, we created Private Cloud Compute (PCC), a groundbreaking cloud intelligence system designed specifically for private AI processing. For the [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/14/private-cloud-compute/>
+
+---
+
+## UTM Blocked Outside App Store via Notarization
+
+date: 2024-06-14, from: Michael Tsai
+
+Benjamin Mayo (Hacker News): App Review has rejected a submission from the developers of UTM, a generic PC system emulator for iPhone and iPad. The open source app was submitted to the store, given the recent rule change that allows retro game console emulators, like Delta or Folium. App Review rejected UTM, deciding that a [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/14/utm-blocked-outside-app-store-via-notarization/>
+
+---
+
+## NASA Announces Winners of 2024 Student Launch Competition
+
+date: 2024-06-14, from: NASA breaking news
+
+Over 1,000 students from across the U.S. and Puerto Rico launched high-powered, amateur rockets on April 13, just north of NASA’s Marshall Space Flight Center in Huntsville, Alabama, as part of the agency’s annual Student Launch competition. Teams of middle school, high school, college, and university students were tasked to design, build, and launch a [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-winners-of-2024-student-launch-competition/>
+
+---
+
+## NASA Joins National Space Council in Celebration of Black Space Week
+
+date: 2024-06-14, from: NASA breaking news
+
+Each year, Black Space Week celebrates the achievements of Black Americans in space-related fields. To kick-off Black Space Week 2024, NASA is collaborating with the National Space Council for the Beyond the Color Lines: From Science Fiction to Science Fact forum on Monday, June 17, at 11:30 a.m. EDT at the National Museum of African [&#8230;] 
+
+<https://www.nasa.gov/people-of-nasa/diversity-at-nasa/missionequity/nasa-joins-national-space-council-in-celebration-of-black-space-week/>
+
+---
+
+##  Wallace & Gromit: Vengeance Most Fowl 
+
+date: 2024-06-14, updated: 2024-06-14, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/wallace-gromit-vengeance-most-fowl>
+
+---
+
+## Continuing the MiSTer Journey
+
+date: 2024-06-14, from: Stephen Smith's blog
+
+Introduction Last time, we started our MiSTer journey and could run the various cores that didn’t require the add-on memory expansion module. I finally received the memory expansion board, so now theoretically I can run any of the MiSTer computers, consoles and arcade games. For game consoles, this seems to be the case as all [&#8230;] 
+
+<https://smist08.wordpress.com/2024/06/14/continuing-the-mister-journey/>
+
+---
+
+## NASA to Discuss Outcome of 5th Biennial Asteroid Threat Exercise
+
+date: 2024-06-14, from: NASA breaking news
+
+NASA will host a virtual media briefing at 3:30 p.m. EDT, Thursday, June 20, to discuss a new summary of a recent tabletop exercise to simulate national and international responses to a hypothetical asteroid impact threat. The fifth biennial Planetary Defense Interagency Tabletop Exercise was held April 2 and 3, 2024, at the Johns Hopkins [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-to-discuss-outcome-of-5th-biennial-asteroid-threat-exercise/>
+
+---
+
+## NASA-Led Mission to Map Air Pollution Over Both U.S. Coasts
+
+date: 2024-06-14, from: NASA breaking news
+
+This summer between June 17 and July 2, NASA will fly aircraft over Baltimore, Philadelphia, parts of Virginia, and California to collect data on air pollutants and greenhouse gas emissions. &#160; The campaign supports the NASA Student Airborne Research Program for undergraduate interns. The East Coast flights will take place from June 17-26. Researchers and [&#8230;] 
+
+<https://www.nasa.gov/earth/nasa-led-mission-to-map-air-pollution-over-both-u-s-coasts/>
+
+---
+
+## Jayson Tatić and the Boston Celtićs
+
+date: 2024-06-14, from: Doc Searls (at Harvard), New Old Blog
+
+Nobody&#8217;s talking about this, so I will: Jayson Tatum is playing a decoy. More to the point, he is playing Jokić, Dončić, or a bit of both. Not all the time (such as when he&#8217;s doing one of those step-back threes with lots of time on the clock, but enough). So let&#8217;s call him Jayson [&#8230;] 
+
+<https://doc.searls.com/2024/06/14/jayson-tatic-and-the-boston-celtics/>
+
+---
+
+## NASA’s Wallops Flight Facility to Launch Student Experiments
+
+date: 2024-06-14, from: NASA breaking news
+
+More than 50 student and faculty teams are sending experiments into space as part of NASA’s RockOn and RockSat-C student flight programs. The annual student mission, “RockOn,” is scheduled to launch from Wallops Island, Virginia, on a Terrier-Improved Orion sounding rocket Thursday, June 20, with a launch window that opens at 5:30 a.m. EDT. An [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/wallops/nasas-wallops-flight-facility-to-launch-student-experiments/>
+
+---
+
+## A great political ad
+
+date: 2024-06-14, from: Dave Winer's Scripting News
+
+<p>Okay it's not the best political ad ever but it's pretty freaking good.</p>
+<p>We love America and the flag stands for the good in us, in all of us. And our president not only gets that, he is doing what presidents are supposed to do, unite us. To the extent that we can at this time be united. But even a MAGA, viewing this ad, is going to have to swell up with pride for what this country means. </p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/VC2SshZ373M?si=CV1-O9liPDmIhQRN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>But I have a question for my campaign friend and politics rabbi -- <a href="https://podcasts.apple.com/us/podcast/that-trippi-show/id1523896927">Joe Trippi</a>. Joe, why don't they ask for a contribution at the end? I'd pay money specifically to have that ad run everywhere, even in states we have no chance of winning. Because there are people in every state that deserve encouragement, and if we want to really win we need them to feel part of our great country as much as anyone in a swing state. And there's always value in forcing the opposition to campaign in states they otherwise feel are safe. </p>
+<p>So let me -- a regular citizen -- earmark a contribution for <i>this</i> message. It gives me another way to vote, a sense I'm participating. </p>
+ 
+
+<http://scripting.com/2024/06/14/175200.html?title=aGreatPoliticalAd>
+
+---
+
+##  Auriea Harvey&#8217;s pioneering site Entropy8 has been restored as part of a... 
+
+date: 2024-06-14, updated: 2024-06-14, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044819-auriea-harveys-pioneering>
+
+---
+
+## Summary of the Ninth DSCOVR EPIC and NISTAR Science Team Meeting
+
+date: 2024-06-14, from: NASA breaking news
+
+Introduction The ninth Deep Space Climate Observatory (DSCOVR) Earth Polychromatic Camera (EPIC) and National Institute of Standards and Technology (NIST) Advanced Radiometer [NISTAR] Science Team Meeting (STM) was held virtually October 16–17, 2023. Over 35 scientists attended, most of whom were from NASA’s Goddard Space Flight Center (GSFC), with several participating from other NASA field […] 
+
+<https://science.nasa.gov/uncategorized/summary-of-the-ninth-dscovr-epic-and-nistar-science-team-meeting/>
+
+---
+
+## NASA’s Hubble Restarts Science in New Pointing Mode
+
+date: 2024-06-14, from: NASA breaking news
+
+NASA successfully transitioned operations for the agency’s Hubble Space Telescope to an alternate operating mode that uses one gyro, returning the spacecraft to daily science operations Friday. The telescope and its instruments are stable and functioning normally. Hubble went into safe mode May 24 due to an ongoing issue with one of its gyroscopes (gyros), […] 
+
+<https://science.nasa.gov/missions/hubble/nasas-hubble-restarts-science-in-new-pointing-mode/>
+
+---
+
+## Microsoft delays Recall feature
+
+date: 2024-06-14, from: OS News
+
+After initially announcing it was going to change its Recall feature and then pulling the preview Windows release containing the feature, Microsoft has now given in almost entirely and is delaying Recall altogether. Instead of shipping it on every new Copilot+ PC, they&#8217;re going to release it as an optional feature for Windows Insiders. Today, we are communicating an additional update on the Recall (preview) feature for Copilot+ PCs. Recall will now shift from a preview experience broadly available for Copilot+ PCs on June 18, 2024, to a preview available first in the Windows Insider Program (WIP) in the coming weeks. Following receiving feedback on Recall from our Windows Insider Community, as we typically do, we plan to make Recall (preview) available for all Copilot+ PCs coming soon. ↫ Pavan Davuluri on the Windows blog It&#8217;s incredible just how much Microsoft has bungled the launch of this feature, as it&#8217;s now almost overshadowing everything else that comes with these new ARM laptops. They rushed to shove machine learning into a major feature, and didn&#8217;t stop to think about the consequences. Typical Silicon Valley behaviour. 
+
+<https://www.osnews.com/story/139950/microsoft-delays-recall-feature/>
+
+---
+
+## NASA’s LRO Spots China’s Chang’e 6 Spacecraft on Lunar Far Side
+
+date: 2024-06-14, from: NASA breaking news
+
+NASA’s LRO (Lunar Reconnaissance Orbiter) imaged China’s Chang&#8217;e 6 sample return spacecraft on the far side of the Moon on June 7. Chang&#8217;e 6 landed on June 1, and when LRO passed over the landing site almost a week later, it acquired an image showing the lander on the rim of an eroded, 55-yard-diameter (about [&#8230;] 
+
+<https://www.nasa.gov/missions/lro/nasas-lro-spots-chinas-change-6-spacecraft-on-lunar-far-side/>
+
+---
+
+## Johnson Celebrates LGBTQI+ Pride Month: Meet Michael Chandler
+
+date: 2024-06-14, from: NASA breaking news
+
+Michael Chandler has provided configuration and data management support at Houston’s Johnson Space Center for the last 13 years. After roughly seven years supporting the Exploration Systems Development Division, Chandler transitioned to the Moon to Mars Program Office in 2019. He and his team work to ensure that the baseline for Moon to Mars products, [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/johnson-celebrates-lgbtqi-pride-month-meet-michael-chandler/>
+
+---
+
+##  From Palestinian-American Mo Husseini, a list of 50 Completely True Things, including... 
+
+date: 2024-06-14, updated: 2024-06-14, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044812-from-palestinian-american>
+
+---
+
+## The New O’Reilly Answers: The R in “RAG” Stands for “Royalties”
+
+date: 2024-06-14, from: O'Reilly Radar
+
+Generative AI may be a groundbreaking new technology, but it’s also unleashed a torrent of complications that undermine its trustworthiness, many of which are the basis of lawsuits. Will content creators and publishers on the open web ever be directly credited and fairly compensated for their works’ contributions to AI platforms? Will there be an [&#8230;] 
+
+<https://www.oreilly.com/radar/the-new-oreilly-answers-the-r-in-rag-stands-for-royalties/>
+
+---
+
+##  The kids who were 1st graders when 20 of their classmates were... 
+
+date: 2024-06-14, updated: 2024-06-14, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044814-the-kids-who-were-1st>
+
+---
+
+##  Seven Samurai&#8217;s 4K Restoration 
+
+date: 2024-06-14, updated: 2024-06-14, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/seven-samurais-4k-restoration>
+
+---
+
+##  Boston Should Rename Its Airport for Bill Russell. &#8220;He was Boston&#8217;s greatest... 
+
+date: 2024-06-14, updated: 2024-06-14, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044818-boston-should-rename-its->
+
+---
+
+## Just When He Thought He Was Out
+
+date: 2024-06-14, updated: 2024-06-14, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/06/14/just-when-he-thought-he-was-out/>
 
 ---
 
@@ -43,7 +444,7 @@ Although surrounded by the big and bold missions of human spaceflight, Margaret 
 
 **@Dave Winer's Scripting News** (date: 2024-06-14, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/14/julieAndrews.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'd like YouTube TV to let me block Fox News. It shows up on their home screen as the default channel and it starts playing automatically. For some reason they've decided I want or need to watch Fox News. Please stop doing that. Not just for me, for everyone. If there has to be a default make it something easy like Seinfeld perhaps. Or Law & Order. I haven't switched from Spectrum, I'm trying YouTube TV while I think about switching. This is a small thing, but might be a deal-stopper. I don't want my nose rubbed in how evil they are. I know. I want to turn on TV to escape. A Julie Andrews movie perhaps. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/14/julieAndrews.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'd like YouTube TV to let me block Fox News. It shows up on their home screen as the default channel and it starts playing automatically. For some reason they've decided need to watch Fox News. Please stop doing that. Not just for me, for everyone. If there has to be a default make it something easy like Seinfeld perhaps. Or Law & Order. I haven't switched from Spectrum, I'm trying YouTube TV while I think about switching. This is a small thing, but might be a deal-stopper. I don't want my nose rubbed in how evil they are. I know. I want to turn on TV to escape. A Julie Andrews movie perhaps. 
 
 <http://scripting.com/2024/06/14.html#a130254>
 
@@ -59,7 +460,7 @@ I hate sticky keyboards. Very low tolerance.
 
 **@Dave Winer's Scripting News** (date: 2024-06-14, from: Dave Winer's Scripting News)
 
-Matt Terenzio, who has been a friend for many years, <a href="https://mastodon.social/@librenews/112615016271629839">threw a fat pitch</a> about people like me who think the NY Times has a lot of explaining to do. I don't think anyone is listening, but my issue with the Times is when they embrace and promote conspiracy theories that damage our political system. Matt says we have many truths, and I think that's where we differ, there has to be one truth when it comes to accusations of the kind that the Repubs throw at Democratic candidates and minorities. When they take a side against the people, that's when I have a problem. 
+<a href="https://www.google.com/search?q=site%3Ascripting.com+matt+terenzio">Matt Terenzio</a>, who has been a friend for many years, <a href="https://mastodon.social/@librenews/112615016271629839">threw a fat pitch</a> about people like me who think the NY Times has a lot of explaining to do. I don't think anyone is listening, but my issue with the Times is when they embrace and promote conspiracy theories that damage our political system. Matt says we have many truths, and I think that's where we differ, there has to be one truth when it comes to accusations of the kind that the Repubs throw at Democratic candidates and minorities. When they take a side against the people, that's when I have a problem. 
 
 <http://scripting.com/2024/06/14.html#a125646>
 
@@ -263,6 +664,38 @@ date: 2024-06-14, from: NASA breaking news
 Earth planning date: Wednesday, June 12, 2024 Planning today was defined by the decision about whether or not to drill at “Mammoth Lakes,” the potential drill target that we selected on Monday. This decision is made based on the answer to two questions. First, does this location meet our science objectives? On Monday, we undertook […] 
 
 <https://science.nasa.gov/blogs/sols-4214-4215-the-best-laid-plans/>
+
+---
+
+## The New Alt Media and the Future of Publishing
+
+date: 2024-06-14, updated: 2024-06-14, from: Anil Dash
+
+ 
+
+<https://anildash.com/2024/06/14/the-new-alt-media/>
+
+---
+
+## New Merch! Hoodies and Mugs!
+
+date: 2024-06-14, from: Redox OS News
+
+New merch is now live! You can buy hoodies and mugs and help support Redox development! All proceeds that come to us go directly into our development budget.
+If you would rather just donate to Redox directly, we have Patreon and Donorbox, or check out our Donate Page for more options.
+Coffee Mug! Presenting the awesome new Redox coffee mug! Approximately $8 from the sale of each mug goes to Redox to help us fund development. 
+
+<https://www.redox-os.org/news/merch-2024-06/>
+
+---
+
+## Supercronching videos for embedding in websites with ffmpeg
+
+date: 2024-06-14, from: Ze Iaso's blog
+
+TL;DR: I convert it from video to gif to video 
+
+<https://xeiaso.net/notes/2024/cronchgif/>
 
 ---
 
@@ -1178,6 +1611,16 @@ date: 2024-06-12, from: PostgreSQL News
 <p>PGDay UK 2024 is a <a href="https://www.postgresql.eu/">PostgreSQL Europe</a> event run according to the <a href="https://www.postgresql.org/about/policies/conferences/">PostgreSQL Community Conference Recognition programme</a>. Local logistics and other services are provided by Slonik Enterprises Ltd. on a not-for-profit basis.</p> 
 
 <https://www.postgresql.org/about/news/registration-open-for-pgday-uk-2024-september-11th-london-england-2876/>
+
+---
+
+## US-RSE Pride Month Spotlight - Sally Ride
+
+date: 2024-06-12, from: The United States Research Software Engineer Association
+
+US-RSE’s DEI working group (DEI-WG) is proud to help US-RSE celebrate and participate in Pride Month. Throughout June, the US-RSE will spotlight LGBTQ+ individuals who have been involved in computing, science, engineering, and/or math, and have inspired our members through their accomplishments in their careers and their personal stories. This... 
+
+<https://us-rse.org/2024-06-12-pride-spotlight-sally-ride/>
 
 ---
 

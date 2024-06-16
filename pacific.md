@@ -1,21 +1,82 @@
 ---
 title: pacific 2024.24
-updated: 2024-06-14 07:34:16
+updated: 2024-06-15 17:33:50
 ---
 
 # pacific 2024.24
 
-(date: 2024-06-14 07:34:16)
+(date: 2024-06-15 17:33:50)
 
 ---
 
-## Take two: Moylan asks the court to rehear case on attorney general's duties 
+## UH technology startup provides flood monitoring, real-time data in Maryland
+
+date: 2024-06-14, from: University of Hawaiʻi News
+
+<p>The data collected with Hohonu’s low-cost sensors and software will track and measure flooding to inform emergency management, adaptation and mitigation efforts.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/14/hohonu-flood-monitor/"><abbr>UH</abbr> technology startup provides flood monitoring, real-time data in Maryland</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/14/hohonu-flood-monitor/>
+
+---
+
+## Joint Task Force Micronesia eyes strong deterrence to prevent conflict
 
 date: 2024-06-14, from: Pacific Island Times
 
-By Pacific Island Times News Staff Attorney General Douglas Moylan today asked the Supreme Court of Guam to reconsider its May 31... 
+By Pacific Island Times News Staff Rear Adm. Gregory C. Huffman today officially assumed command of the Joint Task Force-Micronesia... 
+
+<https://www.pacificislandtimes.com/post/joint-task-force-micronesia-eyes-strong-deterrence-to-prevent-conflict>
+
+---
+
+## Take two: Guam's open government law supersedes confidentiality in public affairs
+
+date: 2024-06-14, from: Pacific Island Times
+
+Moylan asks the court to rehear conflict-of-interest case By Mar-Vic Cagurangan Attorney General Douglas Moylan today asked the Supreme... 
 
 <https://www.pacificislandtimes.com/post/take-two-moylan-asks-the-court-to-rehear-case-on-attorney-general-s-duties>
+
+---
+
+## Want savings on energy-efficient home upgrades? A new tool can help you save big
+
+date: 2024-06-14, updated: 2024-06-14, from: Marianas Variety
+
+(BPT) - As a homeowner, you may have heard about incentives to tackle climate change that are available as a result of the Inflation Reduction Act (IRA), a large piece of legislation that was passed last year. Many of its opportunities focus directly on your personal slice of the American dream — your home. The EPA’s ENERGY STAR program just launched a new tool that can help you find all of the savings available to you. 
+
+<https://www.mvariety.com/online_features/senior_living/want-savings-on-energy-efficient-home-upgrades-a-new-tool-can-help-you-save-big/article_cc9abb17-caac-5989-81d3-88a2e6f1eace.html>
+
+---
+
+## Everything You Need To Know To Host An Epic Summer Pool Party
+
+date: 2024-06-14, updated: 2024-06-14, from: Marianas Variety
+
+(BPT) - Summer has arrived! If you're lucky enough to find a pool to spend the summer by, a pool party is a must. Whether you're taking advantage of the sunshine and hot weather during the day or enjoying a warm evening, all it takes is a little bit of planning to upgrade your poolside bash. 
+
+<https://www.mvariety.com/online_features/lawn_and_garden/everything-you-need-to-know-to-host-an-epic-summer-pool-party/article_b7bd8b19-40d9-5ac9-9823-c69a8d3a7909.html>
+
+---
+
+## Does your head ache? Discover how chiropractic care can help
+
+date: 2024-06-14, updated: 2024-06-14, from: Marianas Variety
+
+(BPT) - Do you regularly experience headaches or migraines? You’re not alone. Headache disorders, including migraines, tension headaches and cluster headaches, are some of the most common nervous system disorders. 
+
+<https://www.mvariety.com/online_features/health_and_wellness/does-your-head-ache-discover-how-chiropractic-care-can-help/article_d6b15b14-294c-5f94-bfc7-0c2808c4cf1f.html>
+
+---
+
+## The AI Effect:  Green Product Design Sees Sharp Increase
+
+date: 2024-06-14, updated: 2024-06-14, from: Marianas Variety
+
+(NAPSI)—Good news for people concerned about the planet. Today’s resourceful industrial designers and engineers are utilizing artificial intelligence (AI) to develop quality products and limit environmental impacts. 
+
+<https://www.mvariety.com/online_features/green_living/the-ai-effect-green-product-design-sees-sharp-increase/article_a1e892bf-c92d-52ae-9b7b-7be5f73289dc.html>
 
 ---
 
@@ -331,6 +392,18 @@ date: 2024-06-14, from: Hawaii Tribune Harold
 
 ---
 
+## 4.1-magnitude quake jolts Ka‘u
+
+date: 2024-06-14, from: Hawaii Tribune Harold
+
+
+				<p>A magnitude 4.1 earthquake occurred at 1:43 p.m. today nine miles east-southeast of Naalehu at a depth of 23 miles below sea level, according to the Hawaiian Volcano Observatory.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/14/hawaii-news/4-1-magnitude-quake-jolts-kau/>
+
+---
+
 ## State House District 2 (Democratic Primary) State Senate District 22 (Republican Primary)
 
 date: 2024-06-14, from: INSIGHTS ON PBS HAWAIʻI
@@ -569,6 +642,26 @@ date: 2024-06-14, from: Island Times
 
 ---
 
+## Kaimuki cat cafe ‘Popoki and Tea’ to close on June 23
+
+date: 2024-06-14, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+The Kaimuki cat cafe ‘Popoki and Tea’ is set to close its doors on June 23. Since opening four years ago, Popoki + Tea has provided visitors with handcrafted teas and the company of adoptable cats. 
+
+<https://www.manoanow.org/kaleo/kaimuki-cat-cafe-popoki-and-tea-to-close-on-june-23/article_551c761a-2a24-11ef-bcb4-c3071901fbcc.html>
+
+---
+
+## Hoʻoulu Lāhui: Welcoming the 13th Festival of Pacific Arts and Culture to Hawaiʻi
+
+date: 2024-06-14, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+On June 6, 24 nations from across Oceania gathered in Oʻahu to officially kick off the celebration of their shared cultural backgrounds during the 13th Festival of the Pacific Cultures and Arts, or FestPAC. 
+
+<https://www.manoanow.org/kaleo/ho-oulu-l-hui-welcoming-the-13th-festival-of-pacific-arts-and-culture-to-hawai/article_5d83b7b2-2a1c-11ef-bfbb-b3991e9eb8a7.html>
+
+---
+
 ## †Maria "Kita/Lia" Deleon Guerrero Quichocho Cruz
 
 date: 2024-06-14, updated: 2024-06-14, from: Marianas Variety
@@ -586,6 +679,16 @@ date: 2024-06-14, updated: 2024-06-14, from: Marianas Variety
  
 
 <https://www.mvariety.com/obituaries/fifth-year-death-anniversary-nieves-ebi-lizama-babauta/article_f176a606-2a16-11ef-bb78-03f1b1c3369c.html>
+
+---
+
+## Improve Your Backyard, Deck or Patio by Hanging String Lights
+
+date: 2024-06-14, updated: 2024-06-14, from: Marianas Variety
+
+(StatePoint) Outdoor lighting can extend the time you can spend enjoying your backyard with your friends and family. While there are a host of involved and expensive outdoor lighting solutions, there’s one easy DIY alternative that offers a lot of charm. 
+
+<https://www.mvariety.com/online_features/lawn_and_garden/improve-your-backyard-deck-or-patio-by-hanging-string-lights/article_5310fa7e-c4b8-5a41-a335-04698e5fdbe2.html>
 
 ---
 
@@ -708,6 +811,16 @@ date: 2024-06-13, from: Marshal Islands Journal
 
 ---
 
+## Battle of the regions: Americans share their favorite cheeseburgers
+
+date: 2024-06-13, updated: 2024-06-15, from: Marianas Variety
+
+(BPT) - In the summertime across America, there’s one thing that brings us together — cheeseburgers. Sure, we all make them differently, but when it comes to their favorite topping, the choice is easy — Sargento 100% real, natural cheese. And who better than Sargento to set you up with 100% real, natural cheese slices! 
+
+<https://www.mvariety.com/online_features/food_recipes_entertaining/battle-of-the-regions-americans-share-their-favorite-cheeseburgers/article_0100183c-e92b-5ccd-ad80-2b35fe554086.html>
+
+---
+
 ## UH 2024 tenure and promotion list
 
 date: 2024-06-13, from: University of Hawaiʻi News
@@ -726,6 +839,16 @@ date: 2024-06-13, from: Hawai'i Pacific Review (HPU Literary Magazine)
 by Siobhan Jean-Charles Every day she untangles herself from the sidewalks, sits in the library with the sun spilling in her lap. She stacks the novels into a skyline. At the bookstore, I don’t think about how close the men &#8230; <a href="https://hawaiipacificreview.org/2024/06/13/self-portrait-with-matilda-1996/">Continue reading <span class="meta-nav">&#8594;</span></a> 
 
 <https://hawaiipacificreview.org/2024/06/13/self-portrait-with-matilda-1996/>
+
+---
+
+## Driving Toward Sustainability: 3 Considerations for Sustainable Tires
+
+date: 2024-06-13, updated: 2024-06-15, from: Marianas Variety
+
+(BPT) - In today's world, environmental consciousness is a driving force behind consumer purchase decisions for everyday items like clothing, housewares and even tires. With sustainability on the minds of drivers — many considering EVs or hybrid vehicles to reduce their carbon footprint — Hankook Tire recently explored drivers’ preferences when shopping for tires that are also good for the planet. Here's where the rubber meets the road when it comes to eco-friendly tires: 
+
+<https://www.mvariety.com/online_features/automotive/driving-toward-sustainability-3-considerations-for-sustainable-tires/article_0fd771e3-b7a1-5931-a413-e98f7f1d05aa.html>
 
 ---
 
@@ -1251,6 +1374,16 @@ date: 2024-06-12, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/06/12/health-sciences-institute-director-search/"><abbr>UH</abbr> Mānoa launches search for director of new Health Sciences Institute</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/06/12/health-sciences-institute-director-search/>
+
+---
+
+## Seven ‘Bows named to Phil Steele’s Preseason Mountain West/Pac-2 teams
+
+date: 2024-06-12, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+ 
+
+<https://www.manoanow.org/kaleo/seven-bows-named-to-phil-steele-s-preseason-mountain-west-pac-2-teams/article_a87bdc60-28ee-11ef-9806-a744d4816222.html>
 
 ---
 
