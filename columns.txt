@@ -42,6 +42,7 @@ https://poynder.blogspot.com/feeds/posts/default?alt=rss "~Richard Poydner blog"
 https://www.schneier.com/feed/atom/ "~Bruce Schneier blog"
 https://waitbutwhy.com/feed "~Wait but why blog"
 https://heathercoxrichardson.substack.com/feed "~Heather Cox Richardson blog"
+https://shadycharacters.co.uk/feed/ "~Shady Characters blog"
 
 #
 # People Blogs, from news.txt, evaluate and prune
