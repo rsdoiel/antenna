@@ -1,11 +1,41 @@
 ---
 title: retro computing 2024.25
-updated: 2024-06-17 08:00:48
+updated: 2024-06-18 08:12:57
 ---
 
 # retro computing 2024.25
 
-(date: 2024-06-17 08:00:48)
+(date: 2024-06-18 08:12:57)
+
+---
+
+## Vote for the June 2004 Plus Post Topic
+
+date: 2024-06-18, from: Computer ads from the Past
+
+If you are a paid subscriber, voting is open for one week for this month's topic 
+
+<https://computeradsfromthepast.substack.com/p/vote-for-the-june-2004-plus-post>
+
+---
+
+## b.log 2024/06/17 - The end of an era 1, The end of an era 2, Conundrum, Some philosphical existential sci-fi questions.
+
+date: 2024-06-17, from: Richard Murray's blog
+
+The end of an era 1, The end of an era 2, Conundrum, Some philosphical existential sci-fi questions. 
+
+<https://heyrick.eu/blog/index.php?diary=20240617>
+
+---
+
+## Ubuntu's App Center Finally Supports Local Installs Again
+
+date: 2024-06-17, from: Linux Magazine
+
+<p>If you regularly download .deb files and would prefer a GUI method of installing, Ubuntu has your back.</p> 
+
+<http://www.linux-magazine.com/Online/News/Ubuntu-s-App-Center-Finally-Supports-Local-Installs-Again>
 
 ---
 

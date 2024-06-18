@@ -1,15 +1,79 @@
 ---
 title: socal north 2024.25
-updated: 2024-06-17 08:00:44
+updated: 2024-06-18 08:12:51
 ---
 
 # socal north 2024.25
 
-(date: 2024-06-17 08:00:44)
+(date: 2024-06-18 08:12:51)
 
 ---
 
-## LAUSD Considers A Phone-Free School Day, For Real This Time
+## From Hotel Rooms To Art Deco Icon: How City Hall Evolved Into That Big Downtown Tower
+
+date: 2024-06-18, updated: 2024-06-18, from: The LAist
+
+Plus, why L.A. actually has four city halls. 
+
+<https://laist.com/news/politics/la-city-hall-los-angeles-history-san-pedro-van-nuys-westside>
+
+---
+
+## Olympian Joanna Hayes named director of UCLA track and field, cross country
+
+date: 2024-06-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jun 17 at 9:11 p.m.</em>
+UCLA track and field added Olympic glory to its coaching roster on Monday.
+Former 100-meter hurdles Olympic champion Joanna Hayes was announced as the director of UCLA track and field and cross country in a press conference release Monday. 
+
+<https://dailybruin.com/2024/06/17/olympian-joanna-hayes-named-director-of-ucla-track-and-field-cross-country/>
+
+---
+
+## Graduation Issue 2024
+
+date: 2024-06-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://features.dailybruin.com/2024/grad-issue-2024/#multimedia>
+
+---
+
+## Gallery: String of country artists join Luke Combs at Sofi Stadium
+
+date: 2024-06-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+On June 14, the day his newest album “Fathers &#38; Sons” premiered, country artist Luke Combs made his Sofi Stadium debut in front of around 70,000 fans. 
+
+<https://dailybruin.com/2024/06/17/gallery-string-of-country-artists-join-luke-combs-at-sofi-stadium/>
+
+---
+
+## In Latest Library Wars Chapter, Huntington Beach Set To Vote On Switching To Private Management
+
+date: 2024-06-17, updated: 2024-06-18, from: The LAist
+
+The proposal got only one bid. City officials say it could save taxpayers money but many questions remain. 
+
+<https://laist.com/news/politics/huntington-beach-privatization-library-vote>
+
+---
+
+## Bouquet Canyon Trail Construction to Begin
+
+date: 2024-06-17, from: City of Santa Clarita
+
+<p>Calling all bicyclists, runners, walkers and more! Central Park is about to get a brand-new trail! Construction on the Bouquet Canyon Trail is set to begin on June 24. This new Class I, shared-use trail will provide a safe, scenic route for bicyclists, runners and walkers, bypassing the traffic on Bouquet Canyon Road.&#160; The trail [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/06/17/bouquet-canyon-trail-construction-to-begin/">Bouquet Canyon Trail Construction to Begin</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/06/17/bouquet-canyon-trail-construction-to-begin/>
+
+---
+
+## LAUSD Might Ban Smartphones During School Day (For Real This Time)
 
 date: 2024-06-17, updated: 2024-06-17, from: The LAist
 

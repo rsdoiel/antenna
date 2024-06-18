@@ -1,11 +1,190 @@
 ---
 title: weather 2024.25
-updated: 2024-06-17 08:00:46
+updated: 2024-06-18 08:12:54
 ---
 
 # weather 2024.25
 
-(date: 2024-06-17 08:00:46)
+(date: 2024-06-18 08:12:54)
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-06-18, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Tue, 18 Jun 2024 15:09:50 GMT 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-06-18, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Tue Jun 18 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems: <br>The National Hurricane Center is issuing advisories on Potential <br>Tropical Cyclone One, located over the southwestern Gulf of Mexico. <br>* Formation chance through 48 hours...high...80 percent.<br>* Formation chance through 7 days...high...80 percent.<br><br>1. Southwestern Atlantic Ocean:<br>An area of cloudiness and showers located several hundred miles east <br>of the Bahamas is associated with a surface trough and an <br>upper-level area of low pressure.  Environmental conditions could be <br>conducive for some gradual development of this system during the <br>next few days while it moves westward or west-northwestward.  The <br>system is forecast to approach the coast of the southeastern United <br>States on Friday.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...20 percent.<br><br />
+2. Southwestern Gulf of Mexico:<br>Another broad area of low pressure is forecast to develop over the <br>southwestern Gulf of Mexico this weekend. Environmental conditions <br>are expected to be conducive for gradual development of this system <br>early next week while it moves slowly northward or northwestward. <br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...low...20 percent.<br><br />
+<br>Public Advisories on Potential Tropical Cyclone One are issued <br>under WMO header WTNT31 KNHC and under AWIPS header MIATCPAT1.<br>Forecast/Advisories on Potential Tropical Cyclone One are issued <br>under WMO header WTNT21 KNHC and under AWIPS header MIATCMAT1.<br><br>Forecaster Kelly<br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## SPC - No watches are valid as of Tue Jun 18 13:19:01 UTC 2024
+
+date: 2024-06-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Tue Jun 18 13:19:01 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Tue Jun 18 13:19:01 UTC 2024
+
+date: 2024-06-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Tue Jun 18 13:19:01 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Jun 18, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-06-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0745 AM CDT Tue Jun 18 2024
+
+Valid 181300Z - 191200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM THE UPPER
+MISSISSIPPI VALLEY TO THE CENTRAL PLAINS...
+
+...SUMMARY...
+Scattered strong to severe storms are expected this afternoon into
+evening over parts of the Upper Mississippi Valley southwestward
+into the central High Plains.
+
+...Upper Midwest/Middle Missouri Valley/Central Plains...
+In the short term, a moderately organized quasi-linear segment over
+far northeast Minnesota/Arrowhead could pose a localized severe risk
+this morning, although overall severe potential has waned in the
+predawn hours and this downward intensity trend should generally
+continue as it encounters a more stable air mass downstream.
+
+Otherwise, a prominent mid/upper-level trough over the northern High
+Plains early today will continue an east-northeastward progression
+over the Dakotas/northern Minnesota through tonight. While weak
+mid-level height falls will extend along this corridor early, much
+of the CONUS will actually experience neutral-weak height rises as
+the eastern CONUS anticyclone dominates and builds west into the
+Ohio Valley. This evolution will result in a notable surface low
+tracking from eastern South Dakota, across northern Minnesota into
+Ontario by mid-afternoon. Building surface pressures over the Plains
+will force a cold front southeastward, and this boundary will serve
+as the focus for potentially strong/severe convection by late
+afternoon.
+
+The strongest mid-level flow and deep-layer shear will be noted
+across the upper Mississippi Valley, but adequate shear will extend
+the length of the front into the central High Plains where a few
+supercells are expected to develop, including west-central/southwest
+Kansas, and potentially toward the Colorado/Oklahoma/Kansas border
+region. The primary risk for organized and more intense updrafts
+will be during the late afternoon through early evening hours when
+instability will be maximized. Large hail and damaging winds are the
+primary risks.
+
+...Upper Ohio Valley to upstate New York/northern New England...
+Water-vapor/regional radar imagery reflect multiple widely dispersed
+thunderstorm clusters and MCVs regionally early today, occurring on
+the western/northern periphery of a prominent upper ridge centered
+over the Mid-Atlantic States and Carolinas. Surface heating will
+contribute to ample destabilization across a broad portion of the
+upper Ohio River Valley into upstate New York and northern New
+England. Isolated to widely scattered thunderstorms will once again
+develop and increase into the afternoon, influenced in some areas by
+the aforementioned MCVs, with localized downbursts/strong wind gusts
+regionally possible through the diurnal heating cycle.
+
+...Lower/Middle Texas Coast...
+Low-level easterly winds should strengthen tonight toward the coast
+in relation to Potential Tropical Cyclone One. Current thinking is
+that mini-supercell-conducive ingredients will remain focused
+offshore through tonight, but this scenario will be reevaluated in
+subsequent outlooks.
+
+..Guyer/Leitman.. 06/18/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2024-06-18, from: Eastern Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ABPZ20 KNHC 181138<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 500 AM PDT Tue Jun 18 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ Tropical cyclone formation is not expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Kelly<br />
+  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2024-06-18, from: Central Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ACPN50 PHFO 181119<br />
+ TWOCP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS Central Pacific Hurricane Center Honolulu HI<br />
+ 200 AM HST Tue Jun 18 2024<br />
+ <br />
+ For the central North Pacific...between 140W and 180W:<br />
+ <br />
+ No tropical cyclones are expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ <br />
+ Forecaster Gibbs<br />
+  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
 
 ---
 
@@ -260,198 +439,6 @@ few cumulonimbi with maximum tops to 500. Mean storm motion vector
  
 
 <https://www.spc.noaa.gov/products/watch/ww0427.html>
-
----
-
-## SPC Jun 17, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-06-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0740 AM CDT Mon Jun 17 2024
-
-Valid 171300Z - 181200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM THE
-NORTHERN/CENTRAL PLAINS TO THE UPPER MIDWEST/UPPER GREAT LAKES...
-
-...SUMMARY...
-Scattered strong to severe storms are expected today mainly across
-the Upper Mississippi Valley, and across the central High Plains and
-Northern Plains late this afternoon through tonight, with damaging
-winds and large hail possible.
-
-...Upper Mississippi Valley/Upper Great Lakes...
-A modestly organized quasi-linear band of convection continues to
-make a general east-northeastward progression across southeast
-Minnesota into west/northwest Wisconsin around sunrise. While the
-convection has trended less organized and generally less intense,
-strong/locally severe wind gusts have continued to occur within an
-environment characterized by steep lapse rates and ample elevated
-instability in vicinity of the synoptic front. Evolving MCV
-influences and diurnal destabilization may allow strong/severe
-storms to persist east-northeastward across central/northern
-Wisconsin and perhaps Upper Michigan today, with additional
-redevelopment a possibility this afternoon/early evening along the
-outflow-reinforced front near the Iowa/Minnesota border vicinity.
-Bouts of damaging winds and severe hail are the primary hazards.
-
-...Northern/Central Plains...
-A pronounced mid/upper-level trough over the Pacific Northwest will
-shift east-northeastward over the northern Intermountain region
-today and reach the northern High Plains tonight. Steady surface
-cyclogenesis will occur today across interior Wyoming, and
-subsequently into the central High Plains in vicinity of a
-southwest/northeast-oriented front. 
-
-Near/south of the front, strong boundary-layer heating is expected
-across the central High Plains of eastern Colorado into northwest
-Kansas and southwest Nebraska. As temperatures warm into the lower
-90s F, convective temperatures will be breached and isolated
-supercells should develop, most probable near/east of the northeast
-Colorado surface low and triple point vicinity including the
-Colorado/Nebraska/Kansas border region. Forecast soundings exhibit
-ample MLCAPE (2500-4000 J/kg) with steep lapse rates, along with
-favorable shear for sustained rotating updrafts. Very large hail may
-accompany this activity and some tornado threat may also exist.
-These storms are likely to persist east-northeastward and
-potentially cluster/organize to a degree toward central Nebraska
-this evening.
-
-Farther north, strong dynamic forcing will encourage convection to
-develop across the High Plains of northeast Wyoming and southeast
-Montana immediately ahead of the surging cold front. This activity
-will spread northeast ahead of the shortwave trough into the Dakotas
-during the overnight hours, further aided by a substantial increase
-of a south-southwesterly low-level jet. The severe threat will shift
-into the upper Red River Valley late tonight.
-
-...Lower Great Lakes/Upper Ohio River Valley...
-A convective cluster/MCV moving eastward out of southeast Lower
-Michigan early this morning should broadly influence additional
-thunderstorm development into the afternoon, within a moderately to
-strongly unstable environment regionally. Deep layer shear will be
-weak (generally 25 kt or less), but steepening low-level lapse rates
-and a moist/unstable air mass could allow for some stronger
-pulse-type storms capable of localized wind damage this afternoon.
-
-..Guyer/Leitman.. 06/17/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-06-17, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Mon, 17 Jun 2024 12:14:09 GMT 
-
-<https://www.nhc.noaa.gov/gis/>
-
----
-
-## Central Pacific Tropical Weather Outlook
-
-date: 2024-06-17, from: Central Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ACPN50 PHFO 171213<br />
- TWOCP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS Central Pacific Hurricane Center Honolulu HI<br />
- 200 AM HST Mon Jun 17 2024<br />
- <br />
- For the central North Pacific...between 140W and 180W:<br />
- <br />
- No tropical cyclones are expected during the next 7 days.<br />
- <br />
- $$<br />
- Forecaster TS<br />
-  
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-06-17, from: Central Pacific Basin Tropical Cyclones
-
-No tropical cyclones as of Mon, 17 Jun 2024 12:14:09 GMT 
-
-<https://www.nhc.noaa.gov/>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-06-17, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Mon Jun 17 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br><br>1. Satellite imagery and surface observations indicate that a broad <br>area of low pressure is forming over the Bay of Campeche. <br>Environmental conditions appear conducive for additional gradual <br>development, and a tropical depression or tropical storm is likely <br>to form by midweek while it moves slowly westward or <br>west-northwestward toward the western Gulf coast. <br><br>Regardless of development, several days of heavy rainfall are <br>expected across portions of southern Mexico and Central America, and <br>these rains are likely to cause life-threatening flooding and flash <br>flooding.  Locally heavy rainfall is also expected to spread over <br>portions of the northwestern coast of the Gulf of Mexico by the <br>middle of the week.  In addition, gale warnings have been issued for <br>portions of the Gulf of Mexico, and more information on those <br>warnings is available in High Seas Forecasts issued by the National <br>Weather Service.  Interests along the western and northwestern Gulf <br>coasts should monitor the progress of this system. An Air Force <br>Reserve Hurricane Hunter aircraft is scheduled to investigate the <br>system later today.<br>* Formation chance through 48 hours...high...70 percent.<br>* Formation chance through 7 days...high...70 percent.<br><br />
-2. Southwestern Atlantic Ocean:<br>An area of cloudiness and thunderstorms located several hundred <br>miles east of the Bahamas is associated with a surface trough and <br>an upper-level area of low pressure.  Environmental conditions <br>could be conducive for some development of this system during the <br>next few days while it moves westward or west-northwestward.  The <br>system is forecast to approach the coast of the southeast United <br>States on Thursday or Friday.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...30 percent.<br><br />
-<br>High Seas Forecasts issued by the National Weather Service<br>can be found under AWIPS header NFDHSFAT1, WMO header FZNT01 <br>KWBC, and online at ocean.weather.gov/shtml/NFDHSFAT1.php<br><br>Forecaster Beven<br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2024-06-17, from: Eastern Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ABPZ20 KNHC 171139<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 500 AM PDT Mon Jun 17 2024<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- Offshore Central America (EP90):<br />
- An area of low pressure associated with disorganized showers and <br />
- thunderstorms has moved inland over Central America and further <br />
- development is not expected.  Regardless of development, heavy <br />
- rainfall is forecast to continue across portions of southern Mexico <br />
- and Central America during the next several days.  These rains are <br />
- likely to cause life-threatening flooding and flash flooding.<br />
- * Formation chance through 48 hours...low...near 0 percent.<br />
- * Formation chance through 7 days...low...near 0 percent.<br />
- <br />
- $$<br />
- Forecaster Bucci<br />
-  
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## SPC - No MDs are in effect as of Sun Jun 16 19:58:11 UTC 2024
-
-date: 2024-06-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Sun Jun 16 19:58:11 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 

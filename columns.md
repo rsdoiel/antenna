@@ -1,11 +1,232 @@
 ---
 title: columns 2024.25
-updated: 2024-06-17 08:00:46
+updated: 2024-06-18 08:12:54
 ---
 
 # columns 2024.25
 
-(date: 2024-06-17 08:00:46)
+(date: 2024-06-18 08:12:54)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-18, from: Dave Winer's Scripting News)
+
+My second Podcast0 episode is up. Here's the <a href="http://scripting.com/podcast0/rss.xml">RSS 2.0 feed</a>. And the <a href="https://podcasts.apple.com/us/podcast/my-second-podcast/id1752527298?i=1000659386865">page</a> for the episode on Apple Podcasts. 
+
+<http://scripting.com/2024/06/18.html#a120630>
+
+---
+
+## Rethinking Democracy for the Age of AI
+
+date: 2024-06-18, updated: 2024-06-18, from: Bruce Schneier blog
+
+<p>There is a lot written about technology&#8217;s threats to democracy. Polarization. Artificial intelligence. The concentration of wealth and power. I have a more general story: The political and economic systems of governance that were created in the mid-18th century are poorly suited for the 21st century. They don&#8217;t align incentives well. And they are being hacked too effectively.</p>
+<p>At the same time, the cost of these hacked systems has never been greater, across all human history. We have become too powerful as a species. And our systems cannot keep up with fast-changing disruptive technologies...</p> 
+
+<https://www.schneier.com/blog/archives/2024/06/rethinking-democracy-for-the-age-of-ai.html>
+
+---
+
+## A depressing catalogue
+
+date: 2024-06-18, from: Enlightenment Economics blog
+
+The depressing UK election campaign (albeit far less depressing than some others around the world) sent me back to a book whose subtitle is &#8216;Half a century of British economic decline&#8217;. It&#8217;s Russell Jones&#8217;s excellent and sobering The Tyranny of &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2024/06/a-depressing-catalogue/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2024/06/a-depressing-catalogue/>
+
+---
+
+## Trump at the Business Greedtable
+
+date: 2024-06-18, from: Robert Reich's blog
+
+America&#8217;s corporate elite is even greedier than you might have assumed 
+
+<https://robertreich.substack.com/p/trump-and-the-business-greedtable>
+
+---
+
+## The coolest tech video I've seen in ages
+
+date: 2024-06-18, from: Matt Haughey blog
+
+<p>The most interesting tech video I&#x2019;ve seen in a while is this one and I&#x2019;ll tell you why:</p><figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/Lv7MPyu7fZw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Classic Car Guys React To My 4x4 Restomod!   (we got a history lesson)"></iframe></figure><p>For background, this YouTube channel is run by a tow truck guy from Bend, OR. I like the guy and his channel because in the past I learned</p> 
+
+<https://a.wholelottanothing.org/the-coolest-tech-video-in-ages/>
+
+---
+
+## June 17, 2024
+
+date: 2024-06-18, from: Heather Cox Richardson blog
+
+Leaders from the Group of Seven (G7) met for their fiftieth summit in Italy from June 13 to June 15. Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States formed the G7 in 1975 as a forum for democracies with advanced economies to talk about political and economic issues. The European Union is also part of the forum, and this June, Ukraine president Volodymyr Zelensky also attended. 
+
+<https://heathercoxrichardson.substack.com/p/june-17-2024>
+
+---
+
+## [Sponsor] Kolide by 1Password: ‘Looking Past the Smoke and Mirrors of the MGM Hack’
+
+date: 2024-06-18, updated: 2024-06-18, from: Daring Fireball
+
+ 
+
+<https://1password.com/xam/extended-access-management?utm_campaign=xam_launch&utm_source=daring_fireball_blog&utm_medium=paid_ad&utm_content=xam_product>
+
+---
+
+## The creativity of ChatGPT
+
+date: 2024-06-18, from: Dave Winer's Scripting News
+
+<p>I love the creativity of ChatGPT, some call it hallucinations, but maybe all the rest of this stuff is hallucinating, maybe only ChatGPT sees what's real? Could be. </p>
+<p>This was the prompt: "PODCAST0 from Dave Winer with occasional appearances by Adam Curry, all original 2004 podcasts, the very first podcasts in the galaxy, and possibly the universe."</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/17/allthepodcasts.png"></center>All the original 2004 podcasts. </div></p>
+ 
+
+<http://scripting.com/2024/06/17/025755.html?title=theCreativityOfChatgpt>
+
+---
+
+## Ming-Chi Kuo Says This Year’s Series 10 Apple Watches Will Increase in Size
+
+date: 2024-06-18, updated: 2024-06-18, from: Daring Fireball
+
+ 
+
+<https://medium.com/@mingchikuo/2h24-%E6%96%B0%E6%AC%BEapple-watch%E9%97%9C%E6%B3%A8%E7%84%A6%E9%BB%9E-series-10-%E9%89%91%E5%8A%9B%E7%89%B9-3d%E5%88%97%E5%8D%B0-the-focus-of-the-2h24-new-apple-watch-series-10-and-98075c44ce92>
+
+---
+
+## Apple Discontinuing Apple Pay Later, Just 8 Months After Rolling Out in the U.S.
+
+date: 2024-06-18, updated: 2024-06-18, from: Daring Fireball
+
+ 
+
+<https://9to5mac.com/2024/06/17/apple-pay-later-united-states-ending/>
+
+---
+
+## A Mental Health Emergency
+
+date: 2024-06-17, from: Dan Rather's Steady
+
+The surgeon general is asking for a strong measure to fix the problem 
+
+<https://steady.substack.com/p/a-mental-health-emergency>
+
+---
+
+##  Abstract Swirls 
+
+date: 2024-06-17, updated: 2024-06-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/abstract-swirls>
+
+---
+
+##  A Brief History of Time Travel. &#8220;Today, of course, time travel is... 
+
+date: 2024-06-17, updated: 2024-06-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044816-a-brief-history-of-time>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-17, from: Dave Winer's Scripting News)
+
+I can also set up a separate feed for Scripting News podcasts, and I'm definitely going to do that too. If this idea catches on I'd like to <a href="https://podcast0.com/">collect</a> and share interesting podcast0's. 
+
+<http://scripting.com/2024/06/17.html#a171126>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-17, from: Dave Winer's Scripting News)
+
+Here's a <a href="https://imgs.scripting.com/2024/06/17/podcastscreenshot.png">screen shot</a> of the post from 2004 in Pocketcasts. The arrow points at the date. It's cool that a podcast from 20 years ago appears to work. I wonder how it'll sort in the Most Recent lists? 
+
+<http://scripting.com/2024/06/17.html#a170930>
+
+---
+
+##  Adam Conover interviewed Zoë Schlanger for his podcast: Your Houseplants Can Think.... 
+
+date: 2024-06-17, updated: 2024-06-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044813-adam-conover-interviewed->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-17, from: Dave Winer's Scripting News)
+
+I added my <a href="http://scripting.com/podcast0/rss.xml">Podcast0 feed</a> to <a href="https://podcastindex.org/search?q=http://scripting.com/podcast0/rss.xml">PodcastIndex</a> and <a href="https://podcasts.apple.com/us/podcast/dws-podcast0-feed/id1752527298">Apple</a>. I've subscribed in <a href="https://pocketcasts.com/">Pocketcasts</a>, and am listening to the first episode now. 
+
+<http://scripting.com/2024/06/17.html#a165642>
+
+---
+
+## Financial Times Reports EC to Charge Apple With Non-Compliance Under DMA for CTF
+
+date: 2024-06-17, updated: 2024-06-18, from: Daring Fireball
+
+ 
+
+<https://www.ft.com/content/31a996d5-b472-4357-953e-ace078494604>
+
+---
+
+## June 16, 2024
+
+date: 2024-06-17, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/june-16-2024-217>
+
+---
+
+##  Colorful DIY Lego Millennium Falcon 
+
+date: 2024-06-17, updated: 2024-06-17, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/colorful-diy-lego-millennium-falcon>
+
+---
+
+## Twenty years ago today
+
+date: 2024-06-17, from: Dave Winer's Scripting News
+
+<p>I was talking with a friend over the weekend about the origins of podcasting, and how, in June of 2004, I finally decided to do an audio post, to get my feet wet, and to prove all you needed was a laptop and a little software and you could be doing radio almost as easily as writing a blog post. </p>
+<p>That was <a href="http://scripting.com/2004/06/11.html#When:9:13:45AM">June 11, 2004</a>. </p>
+<p>Then it hit me, it's June <i>2024</i> now, it's been <i>twenty freaking years</i>. </p>
+<p>In hindsight, that podcast was the start of the bootstrap that saw a dozen shows by September and then hundreds and thousands, and now here we are, podcasting has been through quite a few bursts of growth and it's still as open as it was back in June 2004. </p>
+<p><b>Anyone with a laptop can do a podcast</b>. That was the goal. You don't need anyone's permission. That was a breakthrough in radio. Prior to that, you had to get a lot of approval, and every step made it less real and less interesting, imho. </p>
+<p>My partner in this at the time was <a href="https://www.google.com/search?q=site%3Ascripting.com+Adam+Curry">Adam Curry</a>. Sometime in that period he started <a href="https://en.wikipedia.org/wiki/Daily_Source_Code">The Daily Source Code</a>, and then we did a podcast together for a few months called <a href="http://secrets.scripting.com/">Trade Secrets</a>. My own podcast was called <a href="http://morningcoffeenotes.com/">Morning Coffee Notes</a>. </p>
+<p>So I thought, why not do a Serial-like podcast over the next few months, with the actual programs from 2004, along with the Trade Secrets shows. I think I have them all archived. And it would be great if Adam did the same with his shows, starting when they started. And Dawn & Drew, Dave Slusher. This can go on forever if you like. (I promise mine won't.)</p>
+<p>So here's the URL for the podcast.</p>
+<p><a href="http://scripting.com/podcast0/rss.xml">http://scripting.com/podcast0/rss.xml</a></p>
+<p>I'm sure there will be a lot of cringeworthy moments, but what the heck. I'll hopefully have the feed up before the end of the day, and I'll register it with Apple so will hopefully be transcripts. </p>
+<p>I hope I can count on you to spread the word, this is how the podcasting bootstrap happened. If you want to learn how two weird geek hippie types like Adam and myself, can have an idea, and then by constantly trying out new approaches, eventually it sticks and becomes a new medium that's still thriving twenty years later. </p>
+<p>It should be quite a story! :-)</p>
+<p>Here's a picture of myself and Adam at Gnomedex in the summer of 2004. And that's the laptop I used to make all these podcasts. I was living in Seattle at the time. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/17/gnomedexDaveAdam.png"></center>Dave and Adam at Gnomedex in 2004.</div></p>
+<p>PS: Here's the <a href="https://podcasts.apple.com/us/podcast/dws-podcast0-feed/id1752527298">Apple Podcasts page</a>. </p>
+ 
+
+<http://scripting.com/2024/06/17/152838.html?title=twentyYearsAgoToday>
 
 ---
 
@@ -592,9 +813,9 @@ date: 2024-06-16, updated: 2024-06-16, from: Daring Fireball
 
 ---
 
-## Japan Enacts Law to Mandate Third-Party App Stores, and You’ll Never Guess Which Class of Devices Aren’t Included
+## Japan Enacts Law to Mandate Third-Party App Stores, and You’ll Never Guess Which Devices Aren’t Included
 
-date: 2024-06-16, updated: 2024-06-16, from: Daring Fireball
+date: 2024-06-16, updated: 2024-06-17, from: Daring Fireball
 
  
 

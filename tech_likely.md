@@ -1,11 +1,446 @@
 ---
 title: tech likely 2024.25
-updated: 2024-06-17 08:00:45
+updated: 2024-06-18 08:12:54
 ---
 
 # tech likely 2024.25
 
-(date: 2024-06-17 08:00:45)
+(date: 2024-06-18 08:12:54)
+
+---
+
+## Vote for the June 2004 Plus Post Topic
+
+date: 2024-06-18, from: Computer ads from the Past
+
+If you are a paid subscriber, voting is open for one week for this month's topic 
+
+<https://computeradsfromthepast.substack.com/p/vote-for-the-june-2004-plus-post>
+
+---
+
+## A teacher’s guide to teaching Experience AI lessons
+
+date: 2024-06-18, from: Raspberry Pi (.org)
+
+<p>Today, Laura James, Head of Computing and ICT at King Edward’s School in Bath, UK, shares how Experience AI has transformed how she teaches her students about artificial intelligence. This article will also appear in issue 24 of Hello World magazine, which will be available for free from 1 July and focuses on the impact&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/a-teachers-guide-to-teaching-experience-ai-lessons/">A teacher’s guide to teaching Experience AI lessons</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/a-teachers-guide-to-teaching-experience-ai-lessons/>
+
+---
+
+## Across a Continent, Trees Sync Their Fruiting to the Sun
+
+date: 2024-06-18, from: Quanta Magazine
+
+European beech trees more than 1,500 kilometers apart all drop their fruit at the same time in a grand synchronization event now linked to the summer solstice.            <p>The post <a href="https://www.quantamagazine.org/across-a-continent-trees-sync-their-fruiting-to-the-sun-20240618/" target="_blank">Across a Continent, Trees Sync Their Fruiting to the Sun</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/across-a-continent-trees-sync-their-fruiting-to-the-sun-20240618/>
+
+---
+
+## How to Fix ‘AI’s Original Sin’
+
+date: 2024-06-18, from: O'Reilly Radar
+
+Last month, TheNew York Times claimed that tech giants OpenAI and Google have waded into a copyright gray area by transcribing the vast volume of YouTube videos and using that text as additional training data for their AI models despite terms of service that prohibit such efforts and copyright law that the Times argues places [&#8230;] 
+
+<https://www.oreilly.com/radar/how-to-fix-ais-original-sin/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-18, from: Miguel de Icaza Mastondon feed)
+
+<p>Current status</p> 
+
+<https://mastodon.social/@Migueldeicaza/112637660961444855>
+
+---
+
+## Soyinka and the mythical method
+
+date: 2024-06-18, from: Ayjay blog
+
+I have an essay in the new issue of Harper’s called “Yesterday’s Men: The Death of the Mythical Method.” It traces the interest in myth and myth-making from Giambattista Vico to George Lucas, tries to explain why myth has ceased to be an appealing and useful category to our intelligentsia, and asks whether there might [&#8230;] 
+
+<https://blog.ayjay.org/soyinka-and-the-mythical-method/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-18, from: Dave Winer's Scripting News)
+
+My second Podcast0 episode is up. Here's the <a href="http://scripting.com/podcast0/rss.xml">RSS 2.0 feed</a>. And the <a href="https://podcasts.apple.com/us/podcast/my-second-podcast/id1752527298?i=1000659386865">page</a> for the episode on Apple Podcasts. 
+
+<http://scripting.com/2024/06/18.html#a120630>
+
+---
+
+## Generative AI for Farming
+
+date: 2024-06-18, from: O'Reilly Radar
+
+AI is too often seen as a “first world” enterprise of, by, and for the wealthy. We’re going to take a look at a Digital Green’s Farmer.Chat, a generative AI bot that was designed to help small-scale farmers in developing countries access critical agricultural information. Developing countries have frequently developed technical solutions that would never [&#8230;] 
+
+<https://www.oreilly.com/radar/generative-ai-for-farming/>
+
+---
+
+## Ada and Zangemann: Fancy reading your kids a book about FOSS?
+
+date: 2024-06-18, updated: 2024-06-18, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Devconf.cz</span> It's not every tech conference that has story-reading sessions… but maybe they should</h4>
+      <p>Free Software Foundation Europe president Matthias Kirshner's picture book Ada and Zangemann explains the concepts of FOSS to school kids… and managers, marketing people, and victims of Windows-induced Stockholm Syndrome.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/06/18/ada_and_zangemann/>
+
+---
+
+## DON'T TELL ME WHAT TO THINK
+
+date: 2024-06-18, from: Howard Jacobson blog
+
+First the lunatics took over the asylum, now the children have taken over the playground. After the campus glamping and the race to see who knows least about Middle East politics &#8211; the Americans are still winning but Oxford&#8217;s coming up fast on the outside &#8211; we move on to the summer game of holier-than-thou in which celebrities with clout join activists with heart-on-sleeve consciences in pressuring the country&#8217;s leading literary festivals to shoot themselves in the foot. 
+
+<https://jacobsonh.substack.com/p/dont-tell-me-what-to-think>
+
+---
+
+## The creativity of ChatGPT
+
+date: 2024-06-18, from: Dave Winer's Scripting News
+
+<p>I love the creativity of ChatGPT, some call it hallucinations, but maybe all the rest of this stuff is hallucinating, maybe only ChatGPT sees what's real? Could be. </p>
+<p>This was the prompt: "PODCAST0 from Dave Winer with occasional appearances by Adam Curry, all original 2004 podcasts, the very first podcasts in the galaxy, and possibly the universe."</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/17/allthepodcasts.png"></center>All the original 2004 podcasts. </div></p>
+ 
+
+<http://scripting.com/2024/06/17/025755.html?title=theCreativityOfChatgpt>
+
+---
+
+## Sols 4216-4218: Another ‘Mammoth’ Plan!
+
+date: 2024-06-18, from: NASA breaking news
+
+Earth planning date: Friday, June 14, 2024 At the start of this week, we did a preload test on the target “Mammoth Lakes,” the rightmost bright ellipse (DRT ellipse, so less dusty) on the workspace image above. The preload test shows the stability of the rock, making sure it doesn’t move and that it doesn’t […] 
+
+<https://science.nasa.gov/blogs/sols-4216-4218-another-mammoth-plan/>
+
+---
+
+## 45 Projects Receiving New NGI Zero Grants
+
+date: 2024-06-18, updated: 2024-06-18, from: nlnet feed
+
+ 
+
+<https://nlnet.nl/news/2024/20240618-Call-announcement.html>
+
+---
+
+## Get Kubernetes Ingress like Magic
+
+date: 2024-06-18, updated: 2024-06-18, from: Inlets.dev, cloud tunneling
+
+Learn how to expose Ingress from your Kubernetes cluster like magic without having to setup any additional infrastructure. 
+
+<https://inlets.dev/blog/2024/06/18/magic-kubernetes-ingress.html>
+
+---
+
+## One year of solo dev, wrapping up the grant-funded work
+
+date: 2024-06-18, from: Marginallia log
+
+A year ago I walked out of the office for the last time. I handed in my corpo laptop, said some good-byes, and since then I have been my own boss.
+This first year has been funded by an NLnet grant, which I&rsquo;m in the midst of wrapping up. As of now, the work is all done, the final request for payment has been sent.
+There&rsquo;s a similar last-day-of-school levity to both these events. 
+
+<https://www.marginalia.nu/log/a_107_nlnext/>
+
+---
+
+## Cinnamon 6.2 released
+
+date: 2024-06-17, from: OS News
+
+Cinnamon, the popular GTK desktop environment developed by the Linux Mint project, pushed out Cinnamon 6.2 today, which will serve as the default desktop for Linux Mint 22. It&#8217;s a relatively minor release, but it does contain a major new feature which is actually quite welcome: a new GTK frontend for GNOME Online Accounts, part of the XApp project. This makes it possible to use the excellent GNOME Online Accounts framework, without having to resort to a GNOME application &#8211; and will come in very handy on other GTK desktops, too, like Xfce. The remainder of the changes consist of a slew of bugfixes, small new features, and nips and tucks here and there. Wayland support is still an in-progress effort for Cinnamon, so you&#8217;ll be stuck with X for now. 
+
+<https://www.osnews.com/story/139983/cinnamon-6-2-released/>
+
+---
+
+## IceWM 3.6.0 released
+
+date: 2024-06-17, from: OS News
+
+Less than a month after 3.5.0, IceWM is already shipping version 3.6.0. Once again not a major, earth-shattering release, it does contain at least one really cool feature that I think it pretty nifty: if you double-click on a window border, it will maximise just that side of the window. Pretty neat. For the rest, it&#8217;s small changes and bug fixes for this venerable window manager. 
+
+<https://www.osnews.com/story/139979/icewm-3-6-0-released/>
+
+---
+
+## Meta halts plans to train machine learning on Facebook, Instagram posts in EU
+
+date: 2024-06-17, from: OS News
+
+It seems that if you want to steer clear from having Facebook use your Facebook, WhatsApp, Instagram, etc. data for machine learning training, you might want to consider moving to the European Union. Meta has apparently paused plans to process mounds of user data to bring new AI experiences to Europe. The decision comes after data regulators rebuffed the tech giant&#8217;s claims that it had &#8220;legitimate interests&#8221; in processing European Union- and European Economic Area (EEA)-based Facebook and Instagram users&#8217; data—including personal posts and pictures—to train future AI tools. ↫ Ashley Belanger These are just the opening salvos of the legal war that&#8217;s brewing here, so who knows how it&#8217;s going to turn out. For now, though, European Union Facebook users are safe from Facebook&#8217;s machine learning training. 
+
+<https://www.osnews.com/story/139981/meta-halts-plans-to-train-machine-learning-on-facebook-instagram-posts-in-eu/>
+
+---
+
+## Vinix now runs Solitaire
+
+date: 2024-06-17, from: OS News
+
+Way, way back in the cold and bleak days of 2021, I mentioned Vinix on OSNews, an operating system written in the V programming language. A few days ago, over on Mastodon, the official account for the V programming language sent out a screenshot showing Solitaite running on Vinix, showing off what the experimental operating system can do. The project doesn&#8217;t seem to really publish any changelogs or release notes, so it&#8217;s difficult to figure out what, exactly, is going on at the moment. The roadmap indicates they&#8217;ve already got a solid base going to work from, such as mlibc, bash, GCC/G++, X and an X window manager, and more &#8211; with things like Wayland, networking, and more on the roadmap. 
+
+<https://www.osnews.com/story/139985/vinix-now-runs-solitaire/>
+
+---
+
+## NASA Awards Contract for Neutral Buoyancy Laboratory Operations
+
+date: 2024-06-17, from: NASA breaking news
+
+NASA has awarded a contract to Vertex Aerospace, LLC of Madison, Mississippi, for labor support to ensure continuing safe operations of the Sonny Carter Training Facility at NASA’s Johnson Space Center in Houston. The Neutral Buoyancy Laboratory Operations Contract II has a two-year base period that begins Oct. 1, followed by five option periods ranging [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-awards-contract-for-neutral-buoyancy-laboratory-operations/>
+
+---
+
+## Johnson Celebrates LGBTQI+ Pride Month: Meet Maya FarrHenderson
+
+date: 2024-06-17, from: NASA breaking news
+
+Maya FarrHenderson’s first day at NASA’s Johnson Space Center in Houston involved the usual new hire setup and training tasks, but also something special: A tour of the CHAPEA (Crew Health and Performance Exploration Analog) and HERA (Human Exploration Research Analog) habitats. “It was such a thrill to start my career at NASA standing in [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/johnson-celebrates-lgbtqi-pride-month-meet-maya-farrhenderson/>
+
+---
+
+## Rumored Thinner Apple Devices
+
+date: 2024-06-17, from: Michael Tsai
+
+Tim Hardwick: Apple intends to slim down the MacBook Pro, Apple Watch, and iPhone, with the new ultra-thin M4 iPad Pro a sign of the company&#8217;s new design trajectory, according to Bloomberg&#8217;s Mark Gurman.[&#8230;]Writing in the latest edition of his Power On newsletter, Gurman says that like the iPad Pro, Apple is now focused on [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/17/rumored-thinner-apple-devices/>
+
+---
+
+## U.S. Sues Adobe Over Subscriptions
+
+date: 2024-06-17, from: Michael Tsai
+
+FTC (PDF, via Hacker News): The Federal Trade Commission is taking action against software maker Adobe and two of its executives, Maninder Sawhney and David Wadhwani, for deceiving consumers by hiding the early termination fee for its most popular subscription plan and making it difficult for consumers to cancel their subscriptions. [&#8230;] According to the [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/17/u-s-sues-adobe-over-subscriptions/>
+
+---
+
+## EU to Charge Apple for Violating DMA
+
+date: 2024-06-17, from: Michael Tsai
+
+Joe Rossignol: The European Commission plans to charge Apple for violating the Digital Markets Act after determining that the iPhone maker is not complying with obligations to allow app developers to &#8220;steer&#8221; users to offers outside of the App Store without fees, according to the Financial Times, which cites three people familiar with the matter.It [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/17/eu-to-charge-apple-for-violating-dma/>
+
+---
+
+## Japan Passes Law to Allow App Marketplaces
+
+date: 2024-06-17, from: Michael Tsai
+
+Ryohei Yasoshima and Riho Nagao (Hacker News): Legislation slated to be sent to the parliament in 2024 would restrict moves by platform operators to keep users in the operators&#8217; own ecosystems and shut out rivals, focusing mainly on four areas: app stores and payments, search, browsers, and operating systems.The plan is to allow the Japan [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/17/japan-passes-law-to-allow-app-marketplaces/>
+
+---
+
+##  Abstract Swirls 
+
+date: 2024-06-17, updated: 2024-06-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/abstract-swirls>
+
+---
+
+## Microsoft starts beating the Windows 11 PR drum in face of reluctant Windows 10 users
+
+date: 2024-06-17, from: OS News
+
+I have a feeling Microsoft is really starting to feel some pressure about its plans to abandon Windows 10 next year. Data shows that 70% of Windows users are still using Windows 10, and this percentage has proven to be remarkably resilient, making it very likely that hundreds of millions of Windows users will be out of regular, mainstream support and security patches next year. It seems Microsoft is, therefore, turning up the PR campaign, this time by publishing a blog post about myths and misconceptions about Windows 11. The kind of supposed myths and misconceptions Microsoft details are exactly the kind of stuff corporations with large deployments worry about at night. For instance, Microsoft repeatedly bangs the drum on application compatibility, stating that despite the change in number &#8211; 10 to 11 &#8211; Windows 11 is built on the same base as its predecessor, and as such, touts 99.7% application compatibility. Furthermore, Microsoft adds that if businesses to suffer from an incompatibility, they can use something call App Assure &#8211; which I will intentionally mispronounce until the day I die because I&#8217;m apparently a child &#8211; to fix any issues. Apparently, the visual changes to the user interface in Windows 11 are also a cause of concern for businesses, as Microsoft dedicated an entire entry to this, citing a study that the visual changes do not negatively impact productivity. The blog post then goes on to explain how the changes are actually really great and enhance productivity &#8211; you know, the usual PR speak. There&#8217;s more in the blog post, and I have a feeling we&#8217;ll be seeing more and more of this kind of PR offensive as the cut-off date for Windows 10 support nears. Windows 10 users will probably also see more and more Windows 11 ads when using their computers, too, urging them to upgrade even when they very well cannot because of missing TPMs or unsupported processors. I don&#8217;t think any of these things will work to bring that 70% number down much over the next 12 months, and that&#8217;s a big problem for Microsoft. I&#8217;m not going to make any predictions, but I wouldn&#8217;t be surprised if Microsoft will simply be forced by, well, reality to extend the official support for Windows 10 well beyond 2025. Especially with all the recent investigations into Microsoft&#8217;s shoddy internal security culture, there&#8217;s just no way they can cut 70% of their users off from security updates and patches. 
+
+<https://www.osnews.com/story/139964/microsoft-starts-beating-the-windows-11-pr-drum-in-face-of-reluctant-windows-10-users/>
+
+---
+
+## Mobile comms via satellite for backcountry and maritime safety
+
+date: 2024-06-17, from: OS News
+
+Stranded on a desert island; lost in the forest; stuck in the snow; injured and unable to get back to civilization. Human beings have used their ingenuity for millennia to try to signal for rescue. there&#8217;s been a progression of technological innovations: smoke signals, mirrors, a loud whistle, a portable radio, a mobile phone. With each invention, it&#8217;s been possible to venture a little farther from populated areas and still have peace of mind about being able to call for help. But once you get past the range of a terrestrial radio tower, whether it&#8217;s into the wilderness or out at sea, it starts to get more complicated and expensive to be able to call for rescue. In the next year or so, it&#8217;s going to become a lot simpler and less expensive. Probably enough to become ubiquitous. Hardware infrastructure is already in place, and the relevant software and service support is rolling out now. It&#8217;s been possible for decades for adventurers to keep in contact via satellite. The first commercial maritime satellite communications was launched in 1976. Globalstar and Iridium launched in the late 90s and drove down the device size and service cost of satellite phones. However, the service was a lot more expensive than cellular phone service, and not enough people were willing to pay for remote comms to be able to overcome the massive infrastructure costs, and both companies went bankrupt. Their investors lost their money, but the satellites still worked, so once the bankruptcies were hashed out they fulfilled their promise, as least technologically. On a parallel track, in the late 1980s International Cospas-Sarsat Programme was set up to develop a system for satellite aided search and rescue system that detects and locates emergency beacons activated by aircraft, ships and people engaged in recreational activities in remote areas, and then sends these distress alerts to search-and-rescue (SAR) authorities. Many types of beacons are available, and nowadays they send exact GPS coordinates along with the call for rescue. In the 2010s, the Satellite Emergency Notification Device or SEND device was brought to market. These are portable beacons that connect to the Globalstar and Iridium networks and allow people in remote areas not only to call for help in emergencies, but also to communicate via text messaging. Currently the two most popular SEND devices are the Garmin inReach Mini 2 and the Spot X. These devices cost $400 and $250 USD respectively, and require monthly service fees of $12-40. For someone undertaking a long and dangerous expedition into the backcountry, these are very reasonable costs, especially for someone who does it often. But for most people, it&#8217;s just not practical to pay for and carry a device like that &#8220;just in case.&#8221; In 2022, the iPhone 14 included a feature that was the first step in taking satellite-based communication into the mainstream. It allows iPhone users to share their location via Find My feature with new radio hardware that connects to the Globalstar service. So if you&#8217;re out adventuring, your friends can keep track of where you are. And if there&#8217;s an emergency, you can make an emergency SOS. It&#8217;s not just a generic Mayday: you can text specific details about your emergency and it will be transmitted to the local authorities. You can also choose to notify your personal emergency contacts. Last week, at WWDC, Apple announced the next stage: in iOS 18, iMessage users will be able to send text messages over satellite, using the same Globalstar network as its SOS features. Initially at least, this feature is expected to be free. With this expansion, iPhone users will have the basic functionality of a SPOT or inReach device, without special hardware or a monthly fee. SpaceX&#8217;s Starlink, which first offered service in 2021, has much higher bandwidth and lower latency than the Globalstar and Iridium networks. Starlink&#8217;s current offering requires a dinner plate sized antenna and conventional networking hardware to enable high bandwidth mobile internet. It&#8217;s great for a vehicle, but impractical for a backpacker. However, SpaceX has announced 2nd generation satellites that can connect to 1900MHz spectrum mobile phone radios, and T-Mobile has announced that it will be enabling the service for its customers in late 2024, and Apple, Google, and Samsung devices are confirmed to be supported. Initially, like Apple&#8217;s service, this will be restricted to text messaging and other low-bandwidth applications. Phone calls and higher bandwidth internet connectivity are promised in 2025. The other two big US carriers, AT&#38;T and Verizon, have announced they will be partnering with a competing service, AST SpaceMobile, but it&#8217;s unlikely those plans will come to fruition very soon. Mobile phone users outside the US will also need to wait. Apple&#8217;s Message via satellite is only announced for US users, as is T-Mobile&#8217;s offering. So if you&#8217;re in the US, and have an iPhone, or are a T-Mobile subscriber with an Apple, Samsung, or Google device, you&#8217;ll soon be able to point your phone at the sky, even in remote areas, to call for help, give your friends an update on your expedition, or just stay in touch. Pretty soon, Tom Hanks won&#8217;t have to make friends with a volleyball when he crash lands on a deserted island, at least not until his battery dies. 
+
+<https://www.osnews.com/story/139973/mobile-comms-via-satellite-for-backcountry-and-maritime-safety/>
+
+---
+
+## Abusing title reporting and tmux integration in iTerm2 for code execution
+
+date: 2024-06-17, from: Tilde.news
+
+<p><a href="https://tilde.news/s/ca0pdh/abusing_title_reporting_tmux">Comments</a></p> 
+
+<https://vin01.github.io/piptagole/escape-sequences/iterm2/rce/2024/06/16/iterm2-rce-window-title-tmux-integration.html>
+
+---
+
+##  A Brief History of Time Travel. &#8220;Today, of course, time travel is... 
+
+date: 2024-06-17, updated: 2024-06-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044816-a-brief-history-of-time>
+
+---
+
+## NASA Interns Blast Off for Their First Week at Goddard
+
+date: 2024-06-17, from: NASA breaking news
+
+Several hundred new faces walked through the gates of NASA’s Goddard Space Flight Center in Greenbelt, Maryland, for the first time on June 3. Who is this small army of motivated space-enthusiasts? It’s Goddard’s 2024 summer intern cohort. Across Goddard’s campuses, more than 300 on-site and virtual interns spend the 10-week program contributing across all [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/goddard/nasa-interns-blast-off-for-their-first-week-at-goddard/>
+
+---
+
+## NASA Satellites Find Snow Didn’t Offset Southwest US Groundwater Loss
+
+date: 2024-06-17, from: NASA breaking news
+
+Record snowfall in recent years has not been enough to offset long-term drying conditions and increasing groundwater demands in the U.S. Southwest, according to a new analysis of NASA satellite data. Declining water levels in the Great Salt Lake and Lake Mead have been testaments to a megadrought afflicting western North America since 2000. But [&#8230;] 
+
+<https://www.nasa.gov/science-research/earth-science/nasa-satellites-find-snow-didnt-offset-southwest-us-groundwater-loss/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-17, from: Dave Winer's Scripting News)
+
+I can also set up a separate feed for Scripting News podcasts, and I'm definitely going to do that too. If this idea catches on I'd like to <a href="https://podcast0.com/">collect</a> and share interesting podcast0's. 
+
+<http://scripting.com/2024/06/17.html#a171126>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-17, from: Dave Winer's Scripting News)
+
+Here's a <a href="https://imgs.scripting.com/2024/06/17/podcastscreenshot.png">screen shot</a> of the post from 2004 in Pocketcasts. The arrow points at the date. It's cool that a podcast from 20 years ago appears to work. I wonder how it'll sort in the Most Recent lists? 
+
+<http://scripting.com/2024/06/17.html#a170930>
+
+---
+
+##  Adam Conover interviewed Zoë Schlanger for his podcast: Your Houseplants Can Think.... 
+
+date: 2024-06-17, updated: 2024-06-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044813-adam-conover-interviewed->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-17, from: Dave Winer's Scripting News)
+
+I added my <a href="http://scripting.com/podcast0/rss.xml">Podcast0 feed</a> to <a href="https://podcastindex.org/search?q=http://scripting.com/podcast0/rss.xml">PodcastIndex</a> and <a href="https://podcasts.apple.com/us/podcast/dws-podcast0-feed/id1752527298">Apple</a>. I've subscribed in <a href="https://pocketcasts.com/">Pocketcasts</a>, and am listening to the first episode now. 
+
+<http://scripting.com/2024/06/17.html#a165642>
+
+---
+
+## Slow Your Student’s ‘Summer Slide’ and Beat Boredom With NASA STEM
+
+date: 2024-06-17, from: NASA breaking news
+
+The school year has come to an end, and those long summer days are stretching ahead like an open runway. Parents and educators often worry about the “summer slide,” the concept that students may lose academic ground while out of school. But summer doesn’t mean students’ imaginations have to stay grounded! Are you hoping to [&#8230;] 
+
+<https://www.nasa.gov/learning-resources/slow-your-students-summer-slide/>
+
+---
+
+## Let Reader’s Read
+
+date: 2024-06-17, from: Open Library Blog
+
+Mek here, program lead for OpenLibrary.org at the Internet Archive with important updates and a way for library lovers to help protect an Internet that champions library values. Over the last several months, Open Library readers have felt the devastating impact of more than 500,000 books being removed from the Internet Archive&#8217;s lending library, as [&#8230;] 
+
+<https://blog.openlibrary.org/2024/06/17/let-readers-read/>
+
+---
+
+## Thoughts on "Free" Software (1988)
+
+date: 2024-06-17, from: Tilde.news
+
+<p><a href="https://tilde.news/s/jhd2h1/thoughts_on_free_software_1988">Comments</a></p> 
+
+<https://simson.net/ref/1992/Unipress_thoughts_on_free_software.pdf>
+
+---
+
+##  Colorful DIY Lego Millennium Falcon 
+
+date: 2024-06-17, updated: 2024-06-17, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/colorful-diy-lego-millennium-falcon>
+
+---
+
+## How Raspberry Pi built a silicon design team | #MagPiMonday
+
+date: 2024-06-17, from: Raspberry Pi News (.com)
+
+<p>Lucy Hattersley of The MagPi meets Raspberry Pi’s ASIC design team to talk about chip design.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/how-raspberry-pi-built-a-silicon-design-team-magpimonday/">How Raspberry Pi built a silicon design team | #MagPiMonday</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/how-raspberry-pi-built-a-silicon-design-team-magpimonday/>
+
+---
+
+## Twenty years ago today
+
+date: 2024-06-17, from: Dave Winer's Scripting News
+
+<p>I was talking with a friend over the weekend about the origins of podcasting, and how, in June of 2004, I finally decided to do an audio post, to get my feet wet, and to prove all you needed was a laptop and a little software and you could be doing radio almost as easily as writing a blog post. </p>
+<p>That was <a href="http://scripting.com/2004/06/11.html#When:9:13:45AM">June 11, 2004</a>. </p>
+<p>Then it hit me, it's June <i>2024</i> now, it's been <i>twenty freaking years</i>. </p>
+<p>In hindsight, that podcast was the start of the bootstrap that saw a dozen shows by September and then hundreds and thousands, and now here we are, podcasting has been through quite a few bursts of growth and it's still as open as it was back in June 2004. </p>
+<p><b>Anyone with a laptop can do a podcast</b>. That was the goal. You don't need anyone's permission. That was a breakthrough in radio. Prior to that, you had to get a lot of approval, and every step made it less real and less interesting, imho. </p>
+<p>My partner in this at the time was <a href="https://www.google.com/search?q=site%3Ascripting.com+Adam+Curry">Adam Curry</a>. Sometime in that period he started <a href="https://en.wikipedia.org/wiki/Daily_Source_Code">The Daily Source Code</a>, and then we did a podcast together for a few months called <a href="http://secrets.scripting.com/">Trade Secrets</a>. My own podcast was called <a href="http://morningcoffeenotes.com/">Morning Coffee Notes</a>. </p>
+<p>So I thought, why not do a Serial-like podcast over the next few months, with the actual programs from 2004, along with the Trade Secrets shows. I think I have them all archived. And it would be great if Adam did the same with his shows, starting when they started. And Dawn & Drew, Dave Slusher. This can go on forever if you like. (I promise mine won't.)</p>
+<p>So here's the URL for the podcast.</p>
+<p><a href="http://scripting.com/podcast0/rss.xml">http://scripting.com/podcast0/rss.xml</a></p>
+<p>I'm sure there will be a lot of cringeworthy moments, but what the heck. I'll hopefully have the feed up before the end of the day, and I'll register it with Apple so will hopefully be transcripts. </p>
+<p>I hope I can count on you to spread the word, this is how the podcasting bootstrap happened. If you want to learn how two weird geek hippie types like Adam and myself, can have an idea, and then by constantly trying out new approaches, eventually it sticks and becomes a new medium that's still thriving twenty years later. </p>
+<p>It should be quite a story! :-)</p>
+<p>Here's a picture of myself and Adam at Gnomedex in the summer of 2004. And that's the laptop I used to make all these podcasts. I was living in Seattle at the time. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/17/gnomedexDaveAdam.png"></center>Dave and Adam at Gnomedex in 2004.</div></p>
+<p>PS: Here's the <a href="https://podcasts.apple.com/us/podcast/dws-podcast0-feed/id1752527298">Apple Podcasts page</a>. </p>
+ 
+
+<http://scripting.com/2024/06/17/152838.html?title=twentyYearsAgoToday>
 
 ---
 
