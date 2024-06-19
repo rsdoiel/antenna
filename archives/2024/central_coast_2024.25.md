@@ -1,11 +1,135 @@
 ---
 title: central coast 2024.25
-updated: 2024-06-18 08:12:53
+updated: 2024-06-19 08:57:05
 ---
 
 # central coast 2024.25
 
-(date: 2024-06-18 08:12:53)
+(date: 2024-06-19 08:57:05)
+
+---
+
+## Dusk in Santiago
+
+date: 2024-06-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/121923-POD-Colin-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Dusk in Santiago, Chile." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/121923-POD-Colin-Macfadyen.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/121923-POD-Colin-Macfadyen.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/121923-POD-Colin-Macfadyen.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/121923-POD-Colin-Macfadyen.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/121923-POD-Colin-Macfadyen.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/121923-POD-Colin-Macfadyen.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/121923-POD-Colin-Macfadyen.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/121923-POD-Colin-Macfadyen.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/121923-POD-Colin-Macfadyen.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/121923-POD-Colin-Macfadyen.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/121923-POD-Colin-Macfadyen.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/121923-POD-Colin-Macfadyen.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/04/121923-POD-Colin-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/dusk-in-santiago/">Dusk in Santiago</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dusk-in-santiago/>
+
+---
+
+## Falcon Rocket on Starlink Satellite Mission Launches at Twilight From Vandenberg
+
+date: 2024-06-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-SpaceX-Starlink-Moon1-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="As the moon shines, a Falcon 9 rocket rises above Vandenberg Space Force Base." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-SpaceX-Starlink-Moon1-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-SpaceX-Starlink-Moon1-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-SpaceX-Starlink-Moon1-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-SpaceX-Starlink-Moon1-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-SpaceX-Starlink-Moon1-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-SpaceX-Starlink-Moon1-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-SpaceX-Starlink-Moon1-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-SpaceX-Starlink-Moon1-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-SpaceX-Starlink-Moon1-js.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-SpaceX-Starlink-Moon1-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Hours after the Santa Barbara County Board of Supervisors ratified a new pact to reduce the impacts of SpaceX launches on a campground neighboring Vandenberg Space Force Base, the company [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/falcon-rocket-on-starlink-satellite-mission-launches-at-twilight-from-vandenberg-afb/">Falcon Rocket on Starlink Satellite Mission Launches at Twilight From Vandenberg</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/falcon-rocket-on-starlink-satellite-mission-launches-at-twilight-from-vandenberg-afb/>
+
+---
+
+## Santa Barbara Foresters’ Offense Stays Hot, Leads the Way in 12-5 Win Over Conejo Oaks
+
+date: 2024-06-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-cover-618.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-cover-618.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-cover-618.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-cover-618.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-cover-618.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-cover-618.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-cover-618.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-cover-618.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-cover-618.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-cover-618.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-cover-618.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Santa Barbara Foresters’ offense piled on runs in the middle innings to pull away and eventually secure a 12-5 victory over the Conejo Oaks on Tuesday at Eddie Mathews [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-foresters-offense-stays-hot-leads-the-way-in-12-5-win-over-conejo-oaks/">Santa Barbara Foresters&#8217; Offense Stays Hot, Leads the Way in 12-5 Win Over Conejo Oaks</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-foresters-offense-stays-hot-leads-the-way-in-12-5-win-over-conejo-oaks/>
+
+---
+
+## Builder’s Remedy Apartment Project Proposed on Grand Avenue for Santa Barbara’s Lower Riviera
+
+date: 2024-06-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Grand-Avenue-Housing-Project-Photo-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A lot on the Riviera is proposed for 30 apartments." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Grand-Avenue-Housing-Project-Photo-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Grand-Avenue-Housing-Project-Photo-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Grand-Avenue-Housing-Project-Photo-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Grand-Avenue-Housing-Project-Photo-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Grand-Avenue-Housing-Project-Photo-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Grand-Avenue-Housing-Project-Photo-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Grand-Avenue-Housing-Project-Photo-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Grand-Avenue-Housing-Project-Photo-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Grand-Avenue-Housing-Project-Photo-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Grand-Avenue-Housing-Project-Photo-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A 30-unit market-rate and affordable housing project is proposed for the Lower Riviera, in the hills above Santa Barbara. Industrial Partners Group wants to build the apartment building at 1609 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/30-unit-affordable-apartment-project-proposed-for-santa-barbaras-lower-riviera/">Builder&#8217;s Remedy Apartment Project Proposed on Grand Avenue for Santa Barbara&#8217;s Lower Riviera</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/30-unit-affordable-apartment-project-proposed-for-santa-barbaras-lower-riviera/>
+
+---
+
+## Strawberries Still in Top-Crop Spot for Santa Barbara County Despite Field-Damaging Storms
+
+date: 2024-06-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Crop-Report-DG-4.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Strawberries are Santa Barbara County&#039;s top crop." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Crop-Report-DG-4.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Crop-Report-DG-4.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Crop-Report-DG-4.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Crop-Report-DG-4.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Crop-Report-DG-4.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Crop-Report-DG-4.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Crop-Report-DG-4.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Crop-Report-DG-4.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Crop-Report-DG-4.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061824-Crop-Report-DG-4.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Strawberries continue to reign supreme among the top crops in Santa Barbara County, bringing in more than $775 million in revenue, according to the 2023 Crop and Livestock Report. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/strawberries-still-in-top-crop-spot-for-santa-barbara-county-despite-field-damaging-storms/">Strawberries Still in Top-Crop Spot for Santa Barbara County Despite Field-Damaging Storms</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/strawberries-still-in-top-crop-spot-for-santa-barbara-county-despite-field-damaging-storms/>
+
+---
+
+## Kids Can Get Meals Over Summer
+
+date: 2024-06-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>While school is out for summer, the need to feed students does not go away. So, Santa Barbara Unified School District is offering free meals to families, June 17-Aug. 9. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/kids-can-get-meals-over-summer/">Kids Can Get Meals Over Summer</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/kids-can-get-meals-over-summer/>
+
+---
+
+## Zoofari Ball: Jungle After Dark to Celebrate the Wild Things
+
+date: 2024-06-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara Zoo’s Zoofari Ball: Jungle After Dark, celebrating all things wild, will be held Saturday, Aug. 24. The Zoofari Ball charitable event invites participants to enjoy the zoo [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/zoofari-ball-jungle-after-dark-to-celebrate-the-wild-things/">Zoofari Ball: Jungle After Dark to Celebrate the Wild Things</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/zoofari-ball-jungle-after-dark-to-celebrate-the-wild-things/>
+
+---
+
+## Solvang Music in Park Series Tuning Up For Summer Concerts
+
+date: 2024-06-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Solvang Chamber of Commerce’s Summer Music in the Park Series for 2024 will feature 11 live musical performances, held at 5 p.m. Wednesdays, June 19-Aug. 28 at Solvang Park, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/solvang-music-in-park-series-tuning-up-for-summer-concerts/">Solvang Music in Park Series Tuning Up For Summer Concerts</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/solvang-music-in-park-series-tuning-up-for-summer-concerts/>
+
+---
+
+## Planning Commissioners Dig into Details for Agricultural Enterprise Ordinance
+
+date: 2024-06-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara County planning commissioners may be nearing the finish line for the agricultural enterprise ordinance. The goal is for agricultural property owners to make more money through new or [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/planning-commissioners-dig-into-details-for-agricultural-enterprise-ordinance/">Planning Commissioners Dig into Details for Agricultural Enterprise Ordinance</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/planning-commissioners-dig-into-details-for-agricultural-enterprise-ordinance/>
+
+---
+
+## Ron Fink: Italian Stone Pines: Beauty and Danger in Santa Barbara
+
+date: 2024-06-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Back in May, Noozhawk reported: “Santa Barbara’s Urban Forestry staff will remove five Italian stone pines on East Anapamu Street after a comprehensive assessment identified the aging trees as a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ron-fink-italian-stone-pines-beauty-and-danger-in-santa-barbara/">Ron Fink: Italian Stone Pines: Beauty and Danger in Santa Barbara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ron-fink-italian-stone-pines-beauty-and-danger-in-santa-barbara/>
 
 ---
 

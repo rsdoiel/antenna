@@ -1,11 +1,33 @@
 ---
 title: retro computing 2024.25
-updated: 2024-06-18 08:12:57
+updated: 2024-06-19 08:57:15
 ---
 
 # retro computing 2024.25
 
-(date: 2024-06-18 08:12:57)
+(date: 2024-06-19 08:57:15)
+
+---
+
+## FreeDOS in the news
+
+date: 2024-06-18, from: FreeDOS News
+
+<div class="markdown_content"><p>The FreeDOS Project will turn 30 years old on June 29. That's a long time for any open source software project! We've been celebrating by sharing articles and presentations about FreeDOS. Here are some recent items: Lukas talked about <a class="" href="https://pretalx.com/devconf-cz-2024/talk/YKCRXP/" rel="nofollow">FreeDOS and QEMU</a> {skip ahead to about 3:36:00 in the video}, Jim wrote about <a class="" href="https://www.both.org/?p=3991" rel="nofollow">Looking ahead to 30 years of FreeDOS</a> and <a class="" href="https://allthingsopen.org/articles/30-years-freedos" rel="nofollow">Looking ahead to 30 years of FreeDOS</a> {repeat of the other article}.</p>
+<p>If you plan to write an article about FreeDOS, please check out our <a class="" href="https://www.freedos.org/presskit/" rel="nofollow">press kit</a> with information, quick facts, logos, and screenshots.</p></div> 
+
+<https://sourceforge.net/p/freedos/news/2024/06/freedos-in-the-news/>
+
+---
+
+## How to install FreeDOS
+
+date: 2024-06-18, from: FreeDOS News
+
+<div class="markdown_content"><p>If you're new to FreeDOS and want to install it for yourself, you can install on real hardware or in a virtual machine. We usually recommend a virtual machine, but you can also use an old PC or purchase a new "retro" computer. To install on a virtual machine, you can watch the video about <a class="" href="https://youtu.be/xXkmOwLPpcg?feature=shared" rel="nofollow">How to install FreeDOS on VirtualBox</a> or read this article series: <a class="" href="https://www.both.org/?p=4743" rel="nofollow">How I boot FreeDOS using QEMU</a> {overview} and <a class="" href="https://www.both.org/?p=5612" rel="nofollow">Running FreeDOS on Linux with QEMU</a> {basic setup} and <a class="" href="https://www.both.org/?p=5632" rel="nofollow">How to run DOS apps on Linux</a> {sound setup}, or read our wiki page about <a class="" href="https://wiki.freedos.org/wiki/QEMU" rel="nofollow">installing on QEMU</a>. To learn about running FreeDOS on a classic PC, you can read <a class="" href="https://www.both.org/?p=5690" rel="nofollow">Running FreeDOS on the Pocket386</a> or watch the video <a class="" href="https://youtu.be/2h96UseZs6Q" rel="nofollow">FreeDOS running on real hardware</a> or read our wiki page about <a class="" href="https://wiki.freedos.org/wiki/Pocket386" rel="nofollow">installing FreeDOS on the Pocket386</a>.</p>
+<p>For a bit of tech trivia, also read <a class="" href="https://www.both.org/?p=5546" rel="nofollow">Why DOS has 16 colors</a>.</p></div> 
+
+<https://sourceforge.net/p/freedos/news/2024/06/how-to-install-freedos/>
 
 ---
 

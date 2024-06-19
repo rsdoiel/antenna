@@ -1,11 +1,101 @@
 ---
 title: games 2024.25
-updated: 2024-06-18 08:12:55
+updated: 2024-06-19 08:57:13
 ---
 
 # games 2024.25
 
-(date: 2024-06-18 08:12:55)
+(date: 2024-06-19 08:57:13)
+
+---
+
+## Is Star Wars: The Acolyte just an elaborate Force choke origin story?
+
+date: 2024-06-19, updated: 2024-06-19, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/star-wars/24181235/star-wars-acolyte-mae-master-jedi-force-choke-origin>
+
+---
+
+## How to beat Mohg, Lord of Blood in Elden Ring
+
+date: 2024-06-19, updated: 2024-06-19, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-guide-walkthrough/24087922/mohg-how-to-beat-boss-strategy>
+
+---
+
+## Inside Out 2’s Lance Slashblade was inspired by a real-life secret video game crush
+
+date: 2024-06-19, updated: 2024-06-19, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24177919/lance-slashblade-inside-out-2-kingdom-hearts>
+
+---
+
+## There’s a... phantom menace... lurking in this week’s Acolyte
+
+date: 2024-06-19, updated: 2024-06-19, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/star-wars/24181423/plo-koon-acolyte-dave-filoni>
+
+---
+
+## So who is The Acolyte’s Master? We think episode 4 makes it pretty clear
+
+date: 2024-06-19, updated: 2024-06-19, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/star-wars/24177229/acolyte-master-who-is-answer>
+
+---
+
+## Dear TV writers: Please stop being weird about pronouns
+
+date: 2024-06-19, updated: 2024-06-19, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24177908/star-wars-acolyte-tv-they-them-pronouns-stop-being-weird-about-it>
+
+---
+
+## What time does Elden Ring: Shadow of the Erdtree DLC release?
+
+date: 2024-06-18, updated: 2024-06-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180893/release-time-date-dlc-sote-est-pst-bst-cest>
+
+---
+
+## Echoes of Wisdom’s swordless Zelda is not about what’s canon — it’s about good gameplay
+
+date: 2024-06-18, updated: 2024-06-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24181059/legend-of-zelda-echoes-wisdom-why-no-sword-gameplay-nintendo-link>
+
+---
+
+## Smile 2 is making good on the original’s viral marketing gimmick
+
+date: 2024-06-18, updated: 2024-06-18, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24181195/smile-2-trailer-release-date-cast-sequel-concert>
 
 ---
 

@@ -1,17 +1,336 @@
 ---
 title: columns 2024.25
-updated: 2024-06-18 08:12:54
+updated: 2024-06-19 08:57:12
 ---
 
 # columns 2024.25
 
-(date: 2024-06-18 08:12:54)
+(date: 2024-06-19 08:57:12)
+
+---
+
+##  Excellent news: according to David Simon, Homicide: Life on the Street will... 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044832-excellent-news-according->
+
+---
+
+## Louie Mantia on Dark Mode App Icons
+
+date: 2024-06-19, updated: 2024-06-19, from: Daring Fireball
+
+ 
+
+<https://lmnt.me/blog/dark-mode-app-icons.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-19, from: Dave Winer's Scripting News)
+
+Here's a game you can play. Every time you think "good" immediately say "gouda." For some reason it's funny. 
+
+<http://scripting.com/2024/06/19.html#a152822>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-19, from: Dave Winer's Scripting News)
+
+Technical note. I made a <a href="https://imgs.scripting.com/2024/06/19/datesoff.png">mistake</a> in converting local time to GMT in the code that builds the feed. My times were off by four hours. So I corrected them. And now instead of three items in the feed, according to my own feed software, there are now six. I bet all the <a href="https://podcasts.apple.com/us/podcast/dws-podcast0-feed/id1752527298">other</a> systems will do the same thing because the guid is a function of the creation date of the item, and they changed. Oh well. At least the <a href="http://scripting.com/podcast0/rss.xml">RSS version</a> only has three items. I think I should change how the guid works. 
+
+<http://scripting.com/2024/06/19.html#a151601>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-19, from: Dave Winer's Scripting News)
+
+Today's <a href="http://scripting.com/podcast0/rss.xml">podcast-zero</a> episode is up. It's from June 14, 2004. It's 1/2 of a panel in 1991 that I was on with Bill Gates. This is before the turn to the web. At this point I'm starting to look around for audio that might fit into this new audio blog channel that goes with my written blog. 
+
+<http://scripting.com/2024/06/19.html#a151042>
+
+---
+
+##  Are the &#8220;World&#8217;s 50 Best Restaurants&#8221; Even Restaurants? 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/are-the-worlds-50-best-restaurants-even-restaurants>
+
+---
+
+##  American English &#8220;invisible letters&#8221; include the t in pizza, the r in... 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044830-american-english-invisibl>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-19, from: Dave Winer's Scripting News)
+
+I asked ChatGPT to <a href="https://chatgpt.com/share/290adf1b-9d58-4eff-a543-aefbedcf3219">write</a> a Hello World app for Threads. Here's <a href="https://github.com/scripting/Scripting-News/issues/309">the code</a>. I haven't tried running it yet. 
+
+<http://scripting.com/2024/06/19.html#a134102>
+
+---
+
+## The next patriotic kitten
+
+date: 2024-06-19, from: Dave Winer's Scripting News
+
+<p>I loved being my own DJ with Napster, and none of the execs or journalists figured out that this was the appeal of getting all the music out from behind the incredibly obsolete and brutal paywall that the music industry had concocted. They didn't give a shit about the users except they wanted our money, there was no love in the connection between the creativity of the artists and the creativity of the users. We supposedly didn't have any. </p>
+<p>I'm like <a href="https://en.wikipedia.org/wiki/Emmett_Chapman">Emmett Chapman</a>, an accomplished musician who created a new kind of <a href="https://en.wikipedia.org/wiki/Chapman_Stick">musicial instrument</a> for himself and others to use. That's what I do with software. I play the tools I make. But what I really get off on is the music the users make. I was thinking about my father yesterday, it would have been his 95th birthday. He died at 80, so there's been plenty of time to process his life as I knew it. The best connection he and I had was silent. I inherited my love for outliners from him, yet that love was latent probably for hundreds of generations in our family. I had the skill and creativity to create such a tool, and finally the <a href="https://en.wikipedia.org/wiki/IBM_Personal_Computer">technology</a> existed, and he let his son turn his mind upside down and inside out. For that he would say Every day is Father's Day. That may be my greatest accomplishment.</p>
+<p>I was chatting with my brother yesterday, ChatGPT came up, and I thought (and said) I bet dad would have loved ChatGPT. Then I thought of our uncle Ken, on my mother's side, and said he would have shit his pants over ChatGPT. Ken spent literally hours every day with the meager reference tools he owned in his off the grid cottage near St Augustine. The way I love ChatGPT is the way he would have loved it. I'm absolutely sure of it. My paternal grandfather would have loved it, and I expect my great uncle <a href="https://en.wikipedia.org/wiki/Arno_Schmidt">Arno</a> who was a pioneer of <a href="https://en.wikipedia.org/wiki/Zettelkasten">zettlekasten</a> would have also lost his shit over ChatGPT.</p>
+<p>Which leads me to the art of a user of ChatGPT (which really needs a shorter name). People's first reaction is that by creating art with ChatGPT I'm stealing. Bollocks. I'm creating. I'm not even going to validate that with a rebuttal. I am proving it with the <a href="https://www.google.com/search?q=%22Patriotic+Kitten%22">Patriotic Kitten</a> thread, the next of which I will now entertain you with. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/19/patrioticKitten2.png"></center>The second patriotic kitten. </div></p>
+ 
+
+<http://scripting.com/2024/06/19/125500.html?title=theNextPatrioticKitten>
+
+---
+
+## The FeedLand stack
+
+date: 2024-06-19, from: Dave Winer's Scripting News
+
+<p>One of the cool things about the way I designed FeedLand internally is that there are various levels of feed stuff. If you want to start over at any level, you can, and today I'm doing exactly that. But first here's the stack:</p>
+<ol>
+<li>At the lowest level is the <a href="https://www.npmjs.com/package/reallysimple">reallysimple package</a>, which reads any feed and returns a consistent JavaScript object, so the database code only ever sees one kind of feed. All the differences between RSS and Atom are flattened, and features from the source <a href="https://source.scripting.com/">namespace</a> are included, where they are present.  </li>
+<li>Above that level is the <a href="https://www.npmjs.com/package/feedlanddatabase">feedlanddatabase package</a>, which has a Node API that does all the stuff with the SQL database that FeedLand runs off. So if all you want to do is add feeds, subscribe to them, add a user, subscribe to a reading list, build a river, all that stuff is at this level. This is the level at which I'm going to start building today.</li>
+<li>Next level up is the <a href="https://www.npmjs.com/package/feedland">feedland package</a>, which implements the REST interface, and handles all the runtime stuff that the FeedLand client needs.</li>
+<li>And the final level is the one the user interacts with, it runs in the browser, and makes the REST calls to the feedland server. All the rendering of the objects coming out of the database via the REST interface happens here.  </li>
+</ol>
+<p>In an <a href="http://scripting.com/2024/06/16.html#a112207">application</a> I'm working on, I found myself reimplementing features of FeedLand, and I stopped myself and said, nooooo use the API that's already there. The advantages are many, including I will be able to use FeedLand to manage the data structures. So that's what I'm doing. Wish me luck.</p>
+ 
+
+<http://scripting.com/2024/06/19/123842.html?title=theFeedlandStack>
+
+---
+
+## The Hacking of Culture and the Creation of Socio-Technical Debt
+
+date: 2024-06-19, updated: 2024-06-18, from: Bruce Schneier blog
+
+<p>Culture is increasingly mediated through algorithms. These algorithms have splintered the organization of culture, a result of states and tech companies vying for influence over mass audiences. One byproduct of this splintering is a shift from imperfect but broad cultural narratives to a proliferation of niche groups, who are defined by ideology or aesthetics instead of nationality or geography. This change reflects a material shift in the relationship between collective identity and power, and illustrates how states no longer have exclusive domain over either. Today, both power and culture are increasingly corporate...</p> 
+
+<https://www.schneier.com/blog/archives/2024/06/the-hacking-of-culture-and-the-creation-of-socio-technical-debt.html>
+
+---
+
+## Office Hours: Is the Trump verdict hurting or helping him?
+
+date: 2024-06-19, from: Robert Reich's blog
+
+Friends, In countries where political persecution really exists, some candidates use the criminal cases against them to say, &#8220;You see, I effectively fought the system, and they came for me.&#8221; Trump is using this ploy, but will it work in America? 
+
+<https://robertreich.substack.com/p/office-hours-is-the-trump-verdict>
+
+---
+
+## June 18, 2024
+
+date: 2024-06-19, from: Heather Cox Richardson blog
+
+First, a follow-up to last night&#8217;s letter on foreign affairs: Russian president Vladimir Putin visited North Korea today for a meeting with leader Kim Jong Un, who greeted his visitor personally as he got off the plane. Putin is looking for more weapons for his war on Ukraine. U.S. national security spokesman John Kirby expressed concern about &#8220;the deepening relationship between these two countries.&#8221; 
+
+<https://heathercoxrichardson.substack.com/p/june-18-2024>
+
+---
+
+## Jon Stewart Talks About His Split With Apple on Matthew Belloni’s ‘The Town’
+
+date: 2024-06-19, updated: 2024-06-19, from: Daring Fireball
+
+ 
+
+<https://open.spotify.com/episode/6Uo3FUqfmv85jl1fx96q9H>
+
+---
+
+## Willie Mays, Greatest Centerfielder in Baseball History, Dies at 93
+
+date: 2024-06-19, updated: 2024-06-19, from: Daring Fireball
+
+ 
+
+<https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php>
+
+---
+
+## Wednesday 19 June, 2024
+
+date: 2024-06-18, from: John Naughton's online diary
+
+Eagle eye Bath Abbey Quote of the Day ”Life breaks all of us but some of us get stronger in the broken places.” Ernest Hemingway  Musical alternative to the morning’s radio news Bruce Springsteen &#124; The Rising Link Rise and &#8230; <a href="https://memex.naughtons.org/wednesday-19-june-2024/39545/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-19-june-2024/39545/>
+
+---
+
+##  NASA&#8217;s Voyager 1 probe is fully online again after months of spouting... 
+
+date: 2024-06-18, updated: 2024-06-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044828-nasas-voyager-1-probe-is>
+
+---
+
+## Why Dolphin Isn’t Coming to the App Store (Spoiler: It Needs a JIT)
+
+date: 2024-06-18, updated: 2024-06-18, from: Daring Fireball
+
+ 
+
+<https://oatmealdome.me/blog/why-dolphin-isnt-coming-to-the-app-store/>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2024-06-18, from: Dave Winer's Scripting News)
 
-My second Podcast0 episode is up. Here's the <a href="http://scripting.com/podcast0/rss.xml">RSS 2.0 feed</a>. And the <a href="https://podcasts.apple.com/us/podcast/my-second-podcast/id1752527298?i=1000659386865">page</a> for the episode on Apple Podcasts. 
+I'm highly motivated to support the newly released Threads API, but a quick look indicates that it's a fairly large project. All I want to do is cross-post, along with Masto and Bluesky. I did both those a loooong time ago. But I really want my links to go to threads, and also create a thread-writer for it like the one I did for Twitter and Bluesky. There's no shortage of really interesting projects now, so I think I'm going to have to wait to do this for a while. If anyone makes a really simple Hello World for Threads for Node.js that would make my day. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/06/18.html#a205725>
+
+---
+
+##  An Apple Watch reimagined in the style of a Newton. Love the... 
+
+date: 2024-06-18, updated: 2024-06-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044827-an-apple-watch-reimagined>
+
+---
+
+##  57 Sandwiches That Define New York City. Never mind if you don&#8217;t... 
+
+date: 2024-06-18, updated: 2024-06-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044826-57-sandwiches-that-define>
+
+---
+
+## Open Source PC Emulator UTM Blocked by Apple for Notarization, Including Through EU Marketplaces
+
+date: 2024-06-18, updated: 2024-06-19, from: Daring Fireball
+
+ 
+
+<https://mjtsai.com/blog/2024/06/14/utm-blocked-outside-app-store-via-notarization/>
+
+---
+
+##  I have zero interest in invite-only restaurants, but I love this sentence:... 
+
+date: 2024-06-18, updated: 2024-06-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044825-i-have-zero-interest-in>
+
+---
+
+## Popular AI Chatbots — Including ChatGPT, Mistral, and Meta AI — Spread Russian Propaganda (Because of Course They Do)
+
+date: 2024-06-18, updated: 2024-06-18, from: Daring Fireball
+
+ 
+
+<https://www.axios.com/2024/06/18/ai-chatbots-russian-propaganda>
+
+---
+
+##  Report: Every Place On Earth Has Wrong Amount Of Water. &#8220;In every... 
+
+date: 2024-06-18, updated: 2024-06-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044824-report-every-place-on-ear>
+
+---
+
+##  Yes, everyone really is sick a lot more often after COVID. &#8220;At... 
+
+date: 2024-06-18, updated: 2024-06-18, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044823-yes-everyone-really-is-si>
+
+---
+
+## When convenience becomes a liability
+
+date: 2024-06-18, from: Matt Haughey blog
+
+<p>In the Summer of 2003, I bought my very first Mac of my own, with my own money. Previously, I was a Windows guy that occasionally dabbled in Mac stuff using hand-me-down powerbooks. But my new Mac would be my new full-time, daily driver computer. I kept a Windows computer</p> 
+
+<https://a.wholelottanothing.org/when-convenience-becomes-a-liability/>
+
+---
+
+## Scroll Reverser for MacOS
+
+date: 2024-06-18, updated: 2024-06-18, from: Daring Fireball
+
+ 
+
+<https://pilotmoon.com/scrollreverser/>
+
+---
+
+## June 17, 2024
+
+date: 2024-06-18, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/june-17-2024-7a4>
+
+---
+
+## Apple Security Research: ‘Private Cloud Compute: A New Frontier for AI Privacy in the Cloud’
+
+date: 2024-06-18, updated: 2024-06-18, from: Daring Fireball
+
+ 
+
+<https://security.apple.com/blog/private-cloud-compute/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-18, from: Dave Winer's Scripting News)
+
+<a href="http://scripting.com/stories/2009/10/03/fathersDay.html">My</a> <a href="https://www.google.com/search?q=site%3Ascripting.com+father%27s+day">father</a>, <a href="https://leonwiner.com/">Leon Winer</a>, would have been 95 today. 
+
+<http://scripting.com/2024/06/18.html#a160059>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-18, from: Dave Winer's Scripting News)
+
+For people who use <a href="http://docserver.scripting.com/drummer/electricDrummer.opml">Electric Drummer</a>. If you accidentally close a file that's open and want it to re-appear in its previous position, you can edit your prefs.json file. You can find it by choosing <i>Open Data Folder</i> from the File menu. You'll see prefs.json. Open it in a text editor, and make the changes you want -- carefully. Probably a good idea to make a copy of the file before editing. But I just did it and laughed out loud, why didn't I think of this before? Heh. 
+
+<http://scripting.com/2024/06/18.html#a155642>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-18, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/18/patrioticKitty.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">My second Podcast0 episode is up. Here's the <a href="http://scripting.com/podcast0/rss.xml">RSS 2.0 feed</a>. And the <a href="https://podcasts.apple.com/us/podcast/my-second-podcast/id1752527298?i=1000659386865">page</a> for the episode on Apple Podcasts. 
 
 <http://scripting.com/2024/06/18.html#a120630>
 

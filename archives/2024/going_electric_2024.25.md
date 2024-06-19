@@ -1,11 +1,419 @@
 ---
 title: going electric 2024.25
-updated: 2024-06-18 08:12:57
+updated: 2024-06-19 08:57:16
 ---
 
 # going electric 2024.25
 
-(date: 2024-06-18 08:12:57)
+(date: 2024-06-19 08:57:16)
+
+---
+
+## How BYD’s EV batteries will soon power up tens of thousands of electric motorcycles
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/ampersand-motorcycle-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Electric motorcycles are likely not the first thing that comes to mind when thinking of <a href="https://electrek.co/guides/byd/">BYD</a>, the world’s leading electric car maker. But thanks to a new agreement, the company’s batteries are heading to Africa, where they’ll be used in Ampersand’s electric motorcycles.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/how-byds-ev-batteries-will-soon-power-up-tens-of-thousands-of-electric-motorcycles/#more-368312" data-post-id="368312" data-layer-pagetype="post" data-layer-postcategory="africa,byd,electric-motorcycle" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/how-byds-ev-batteries-will-soon-power-up-tens-of-thousands-of-electric-motorcycles/>
+
+---
+
+## Ford Mach-E EV lease prices drop below gas-powered Mustang with new discounts
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Ford-EV-costs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>You can now drive an electric <a href="https://electrek.co/guides/ford-mach-e/">Ford Mustang Mach-E</a> for less than the gas-powered model. With an up to 400% discount, Ford Mach-E lease prices are considerably cheaper.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/ford-mach-e-ev-lease-prices-drop-below-gas-mustang/#more-368283" data-post-id="368283" data-layer-pagetype="post" data-layer-postcategory="ford,ford-mach-e" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/ford-mach-e-ev-lease-prices-drop-below-gas-mustang/>
+
+---
+
+## Tesla Cybertruck makes it to Dubai as police vehicle
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Tesla-Cybertruck-Dubai-Police.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla Cybertruck, which is officially only sold in the US, has made it to Dubai and it’s apparently going to be a police vehicle.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/tesla-cybertruck-dubai-police-vehicle/#more-368293" data-post-id="368293" data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/tesla-cybertruck-dubai-police-vehicle/>
+
+---
+
+## Shell opens first megawatt EV charging station for land AND sea
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/netherlands-assets-mwchargeretca240607-pacovanleeuwen37-1-169-copy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Shell Marine just opened a novel new <a href="https://electrek.co/2024/05/16/chargepoint-megawatt-charging-system/">megawatt charging station</a> designed to service both land-based <em>and</em> ocean-going battery-electric vehicles.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/shell-opens-first-megawatt-ev-charging-station-for-land-and-sea/#more-368288" data-post-id="368288" data-layer-pagetype="post" data-layer-postcategory="marine-electrification,megawatt-charge-standard-mcs,shell" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/shell-opens-first-megawatt-ev-charging-station-for-land-and-sea/>
+
+---
+
+## Absolute Maniac Builds Wall Of Death, Just So He Can Test His Drift Trike
+
+date: 2024-06-19, from: Ride Apart, Electric Motorcycle News
+
+You've seen two wheels on a Wall of Death. But what about three? 
+
+<https://www.rideapart.com/news/723756/wall-death-drift-trike-video/>
+
+---
+
+## E-motorcycle brand CAKE went bankrupt. Here’s how they’re planning a comeback
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/03/cake-bikes-header-jump-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Everyone loves a good comeback story. Rocky. The Karate Kid. CAKE? That’s right, the Swedish electric motorcycle company is preparing to rise again.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/e-motorcycle-brand-cake-went-bankrupt-heres-how-theyre-planning-a-comeback/#more-368285" data-post-id="368285" data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/e-motorcycle-brand-cake-went-bankrupt-heres-how-theyre-planning-a-comeback/>
+
+---
+
+## Tesla Cybertruck Owner Tries Towing A Model 3 While Charging It. Here’s What Happened
+
+date: 2024-06-19, from: Inside EVs News
+
+Having a set of electrical outlets in the bed of the truck can prove to be quite useful. 
+
+<https://insideevs.com/news/723841/tesla-cybetruck-towing-charging/>
+
+---
+
+## Trade wars escalate as Chinese automakers request retaliatory tariffs on cars imported from EU
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/BYD-first-cargo-ship-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As anticipated, <a href="https://electrek.co/guides/china/">China</a> and its massive network of EV OEMs are not pleased with the EU Commission’s recent decision to impose tariffs on Chinese-built vehicles. In retaliation, Chinese automakers have implored their government to increase tariffs on imported European cars.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/trade-wars-escalate-chinese-automakers-request-retaliatory-tariffs-cars-eu/#more-368273" data-post-id="368273" data-layer-pagetype="post" data-layer-postcategory="china,europe,tariffs" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/trade-wars-escalate-chinese-automakers-request-retaliatory-tariffs-cars-eu/>
+
+---
+
+## Ferrari is preparing to launch its first EV sports car, but it will come with a hefty price tag
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Ferrari-first-EV-cost-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The first fully electric Ferrari is coming soon. <a href="https://electrek.co/guides/ferrari/">Ferrari</a> is preparing to launch its first electric sports car, but it will come with a hefty price tag. The first Ferrari EV sports car will cost over $500,000 (500,000 euros). Here’s what you can expect.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/ferrari-launching-first-ev-soon-cost/#more-368248" data-post-id="368248" data-layer-pagetype="post" data-layer-postcategory="ferrari" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/ferrari-launching-first-ev-soon-cost/>
+
+---
+
+## Motorcycle Rider Nearly Gets Hit By a Flying Deer, Both Escape Doom
+
+date: 2024-06-19, from: Ride Apart, Electric Motorcycle News
+
+A definite "Oh no" moment.  
+
+<https://www.rideapart.com/news/723747/motorcycle-rider-deer-jump-video-harley-davidson/>
+
+---
+
+## Oxford sets a new world record for solar panel efficiency
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/11/pexels-photo-356036.jpeg?quality=82&#038;strip=all&#038;w=1521" /></div><p><a href="https://www.oxfordpv.com/">Oxford PV</a>, a spin-off from the University of Oxford, says it’s achieved a new world record for solar panel efficiency.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/oxford-sets-a-new-world-record-for-solar-panel-efficiency/#more-368258" data-post-id="368258" data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,uk" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/oxford-sets-a-new-world-record-for-solar-panel-efficiency/>
+
+---
+
+## Electric, autonomous tech + EV demand driving mining equipment market growth
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/epiroc_baas.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Rising demand for nickel, lithium, and phosphates combined with the natural benefits of electrification are driving the adoption of electric mining machines. At the same time, a persistent operator shortage is boosting demand for autonomous machines.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/electric-autonomous-tech-ev-demand-driving-mining-equipment-market-growth/#more-368235" data-post-id="368235" data-layer-pagetype="post" data-layer-postcategory="caterpillar,electric-construction-equipment,mining" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/electric-autonomous-tech-ev-demand-driving-mining-equipment-market-growth/>
+
+---
+
+## 'No One Else Is Even Close': Lucid CEO On Air Efficiency, Gravity SUV
+
+date: 2024-06-19, from: Inside EVs News
+
+Peter Rawlinson says Lucid is ahead of Tesla in terms of tech and efficiency, and it’s also building a "true" SUV, unlike the Model X. 
+
+<https://insideevs.com/news/723811/lucid-ceo-efficiency-gravity-suv/>
+
+---
+
+## This $400 Tesla Aftermarket Part Fixes One Very Controversial Feature
+
+date: 2024-06-19, from: Inside EVs News
+
+For a few hundred dollars and a good amount of elbow grease, you can get your turn signal stalks back. 
+
+<https://insideevs.com/news/723759/tesla-model-3-highland-stalks/>
+
+---
+
+## Cake Motorcycles Says It's Back, This Time With New Ownership
+
+date: 2024-06-19, from: Ride Apart, Electric Motorcycle News
+
+After entering bankruptcy in February 2024, the new owner says he's ready to move forward. 
+
+<https://www.rideapart.com/news/723764/cake-motorcycles-scandinavian-resurrection-bankruptcy-ev/>
+
+---
+
+## Flying electric ferries battle to smoothly sail commuters over the wave crests
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Electric-hydrofoil-boat-Vessev-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As electric boats slowly gain market share among recreational boaters, a different breed of silent, efficient speed boats is now targetting commuters. Hydrofoil electric ferries are coming to a river or lake near you, and multiple companies are working to make it happen.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/flying-electric-ferries-battle-to-smoothly-sail-commuters-over-the-wave-crests/#more-368227" data-post-id="368227" data-layer-pagetype="post" data-layer-postcategory="electric-boats" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/flying-electric-ferries-battle-to-smoothly-sail-commuters-over-the-wave-crests/>
+
+---
+
+## Honda is more American than Ford, Tesla still 3/10, Jeep deals, and Fisker goes under
+
+date: 2024-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/fisker_losing.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s Quick Charge, it’s a tale of two CEOs – one getting a $56 billion payday while the other one pulls the plug on his namesake company for the third time. Also: the Honda Ridgeline is the most American pickup you can buy, Jeep’s new EV is already getting a price cut, Hyundai’s building IONIQ 5s in Georgia, eVTOLs, and all the federal EV incentives you can get.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/18/honda-is-more-american-than-ford-tesla-still-3-10-jeep-deals-and-fisker-goes-under/#more-368206" data-post-id="368206" data-layer-pagetype="post" data-layer-postcategory="ev-rebate,fisker,quick-charge,tesla" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/18/honda-is-more-american-than-ford-tesla-still-3-10-jeep-deals-and-fisker-goes-under/>
+
+---
+
+## The Fisker Bankruptcy Doesn't Mean EVs Are in Trouble. Here's Why
+
+date: 2024-06-18, from: Inside EVs News
+
+Fisker likely would've faced this same outcome if it had a gas engine under its hood instead of a battery in the floor.  
+
+<https://insideevs.com/news/723752/fisker-bankruptcy-ev-sales/>
+
+---
+
+## Kia EV4 captured in the wild showing off distinct rear end [Video]
+
+date: 2024-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Kia-EV4-captured.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia is launching its new low-cost EV4 next year. Ahead of its official debut, the <a href="https://electrek.co/guides/kia-ev4/">Kia EV4</a> was captured out in the wild. Check out the unique back end in the new video below.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/18/kia-ev4-captured-wild-showing-off-distinct-rear-end-video/#more-368178" data-post-id="368178" data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/18/kia-ev4-captured-wild-showing-off-distinct-rear-end-video/>
+
+---
+
+## This Maryland county is building a huge green hydrogen bus depot microgrid
+
+date: 2024-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/ALP-Bus-Depot-Renderings-Building-2-Final-Color-Render.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Montgomery County, Maryland, and AlphaStruxure have kicked off construction of the US’s largest renewable energy-powered bus depot.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/18/maryland-county-solar-storage-green-hydrogen-bus-depot-microgrid/#more-368181" data-post-id="368181" data-layer-pagetype="post" data-layer-postcategory="battery-storage,egeb,energy-brief,solar,hydrogen,solar-power" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/18/maryland-county-solar-storage-green-hydrogen-bus-depot-microgrid/>
+
+---
+
+## Rivian will race the new 1,025hp Ascend Quad Max R1T at Pike’s Peak this week
+
+date: 2024-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Screenshot-2024-06-18-at-1.28.04PM-e1718742575135.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Rivian’s new high-powered Ascend Quad Max R1T variant will race up Pike’s Peak, one of the longest-running and most difficult races in the world, this weekend.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/18/rivian-will-race-the-new-1025hp-ascend-quad-max-r1t-at-pikes-peak-this-week/#more-368151" data-post-id="368151" data-layer-pagetype="post" data-layer-postcategory="electric-racing,pikes-peak-international-hill-climb,rivian-r1t" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/18/rivian-will-race-the-new-1025hp-ascend-quad-max-r1t-at-pikes-peak-this-week/>
+
+---
+
+## 5 US military bases in the Carolinas just signed up for solar power
+
+date: 2024-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/camp-lejeune-marines.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>The US Department of Defense agreed to source renewable power from two new solar farms for five military bases in the Carolinas.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/18/military-carolinas-solar/#more-368163" data-post-id="368163" data-layer-pagetype="post" data-layer-postcategory="carolinas,egeb,energy-brief,solar,north-carolina,president-biden,solar-power,south-carolina" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/18/military-carolinas-solar/>
+
+---
+
+## BYD wants to take on Hyundai in Korea with its $25,000 Seal EV
+
+date: 2024-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/BYD-November-sales.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD is charging up the competition with <a href="https://electrek.co/guides/hyundai/">Hyundai</a> on its home turf. The Chinese automaker plans to launch its Tesla Model 3-rivaling Seal EV in Korea for under $25,000.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/18/byd-hyundai-25000-seal-ev/#more-368154" data-post-id="368154" data-layer-pagetype="post" data-layer-postcategory="byd,byd-seal" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/18/byd-hyundai-25000-seal-ev/>
+
+---
+
+## EV Sales Plateau In Europe And North America, But China Expands
+
+date: 2024-06-18, from: Inside EVs News
+
+The U.S. and Europe are applying tariffs to defend their markets, which might affect short-term growth. But China is full speed ahead. 
+
+<https://insideevs.com/news/723698/ev-sales-plateau-europe-america-2024/>
+
+---
+
+## Save $600 on Segway’s new Navimow robots, Jackery sale takes 42% off power stations, 1-day Worx discount, more
+
+date: 2024-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Segway-Navimow-H-Series-new.png?w=1200" /></div><p>With Father’s Day having past, Green Deals are starting to slow, but that doesn’t mean there’s not a few ongoing discounts worth checking out. Headlining today’s deals is the second-ever discount (twice as big as the first) on <a href="https://9to5toys.com/2024/06/18/segways-latest-smart-h-series-navimowers-cut-the-lawn-for-you-at-new-all-time-lows-from-1299-600-off/">Segway’s Navimow H Series Robot Mowers that start from $1,299</a>. They are joined by the <a href="https://9to5toys.com/2024/06/18/jackery-power-stations-bundles-and-accessories-up-to-42-off-starting-from-100/">leftover Father’s Day sale over at Jackery</a> that is taking up to 42% off power stations, bundles, and accessories – and even offering five chances to win free equipment! There’s also a one-day deal on the popular <a href="https://9to5toys.com/2024/06/18/worx-7-5-inch-12a-lawn-edger-trencher-keeps-you-on-the-straight-and-narrow-for-clean-lines-at-100-for-today-only/">Worx 7.5-inch 12A Lawn Edger/Trencher</a> that will remain at <a href="https://9to5toys.com/2024/06/18/worx-7-5-inch-12a-lawn-edger-trencher-keeps-you-on-the-straight-and-narrow-for-clean-lines-at-100-for-today-only/">$100</a> for the rest of the day. Plus, all the other hangover Green Deals that are still alive and well.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/18/segways-navimow-robots-jackery-sale-1-day-worx-discount-more/#more-368143" data-post-id="368143" data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/18/segways-navimow-robots-jackery-sale-1-day-worx-discount-more/>
+
+---
+
+## Tesla Cybertruck 15,000-Mile Ownership Review: ‘Designed To Be A Street Truck’
+
+date: 2024-06-18, from: Inside EVs News
+
+YouTuber reveals battery health, degradation and many other details after three months with the Cyberbeast. 
+
+<https://insideevs.com/news/723748/tesla-cybertruck-15000-mile-ownership-review/>
+
+---
+
+## Jeep Wagoneer S all-electric SUV to launch with a $7,500 lease discount
+
+date: 2024-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Jeep-first-EV-Wagoneer-S-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Jeep’s first fully electric vehicle in the US will debut with a $7,500 discount as the rugged SUV brand looks to compete with Tesla. The <a href="https://electrek.co/guides/jeep/">Jeep</a> Wagoneer S will launch this fall with a $7,500 lease discount, making it more competitive with Tesla’s top-selling Model Y. Which electric SUV are you going with?</p>
+
+
+
+ <a href="https://electrek.co/2024/06/18/jeep-wagoneer-s-ev-launch-7500-lease-discount/#more-368132" data-post-id="368132" data-layer-pagetype="post" data-layer-postcategory="electric-jeep,jeep" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/18/jeep-wagoneer-s-ev-launch-7500-lease-discount/>
+
+---
+
+## Stellantis Outwits EU Tariffs, Starts Production Of Cheap Chinese EV In Poland
+
+date: 2024-06-18, from: Inside EVs News
+
+A few decades ago, Western automakers were flocking to China. Now, they’re calling on China to get them out of a rut. 
+
+<https://insideevs.com/news/723657/stellantis-leapmotor-t03-production-poland-europe/>
+
+---
+
+## Elon Musk says Tesla will give some new stock options to top performers
+
+date: 2024-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/06/Elon-Musk-at-Tesla-company-wide-meeting-2022.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon Musk says Tesla will give some new stock options to top performers after shareholders approved his own record-breaking compensation package.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/18/elon-musk-tesla-will-give-some-new-stock-options-to-top-performers/#more-368097" data-post-id="368097" data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/18/elon-musk-tesla-will-give-some-new-stock-options-to-top-performers/>
+
+---
+
+## Swiss electric scooter maker VMAX unveils two new budget and performance models in US
+
+date: 2024-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/vmax-vx2-extreme-header-scooter.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Swiss-based <a href="https://vmax-escooter.us/collections/vmax-e-scooter-time-for-e-quality">VMAX</a> has been a key player in the European electric scooter market since 2015, and last year expanded into the US market. Now we’re getting our first look at two new models released into the US market, the VMAX VX2 Extreme and the VX5 Pro.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/18/swiss-electric-scooter-maker-vmax-unveils-two-new-budget-and-performance-models-in-us/#more-367814" data-post-id="367814" data-layer-pagetype="post" data-layer-postcategory="electric-scooter" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/18/swiss-electric-scooter-maker-vmax-unveils-two-new-budget-and-performance-models-in-us/>
+
+---
+
+## Hyundai to launch updated 2025 IONIQ 5 as first EV at its new GA plant: Here’s what to expect
+
+date: 2024-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Hyundai-updated-2025-IONIQ-5.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s best-selling electric vehicle is getting a refresh. The updated 2025 IONIQ 5 will be the first vehicle to roll out of <a href="https://electrek.co/guides/hyundai/">Hyundai’s</a> new $7.6 billion EV plant in Georgia later this year. Here are some changes you can expect to see with the new Hyundai IONIQ 5.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/18/hyundai-launch-updated-2025-ioniq-5-new-ev-plant-soon/#more-368081" data-post-id="368081" data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/18/hyundai-launch-updated-2025-ioniq-5-new-ev-plant-soon/>
+
+---
+
+## Tesla Model Y Among Most 'American' Cars, But Model 3 Knocked Off Top 10
+
+date: 2024-06-18, from: Inside EVs News
+
+Plus, one out of three buyers require Apple CarPlay or Android Auto, and automakers are setting their sights on software-defined vehicles. 
+
+<https://insideevs.com/news/723720/tesla-model-y-american-made/>
 
 ---
 
@@ -29,7 +437,7 @@ What if concrete was more than just a building material? MIT researchers are inv
 
 ---
 
-## Is a Steamroller a Motorcycle? An Investigation
+## A Steamroller Is a Motorcycle: Here's Why
 
 date: 2024-06-18, from: Ride Apart, Electric Motorcycle News
 
@@ -53,7 +461,7 @@ date: 2024-06-18, from: Electrek Feed
 
 ---
 
-## You Know You Want a Turbo LS-Swapped V8 Jet Ski
+## This Jet Ski Has a V8 Hiding Beneath Its Shell, And a Turbo
 
 date: 2024-06-18, from: Ride Apart, Electric Motorcycle News
 
@@ -138,6 +546,20 @@ date: 2024-06-18, from: Ride Apart, Electric Motorcycle News
 The Solar E-Clipse could be the next-generation stunt bike.  
 
 <https://www.rideapart.com/news/723469/solar-scooters-e-clipse-20/>
+
+---
+
+## Here’s every electric vehicle that currently qualifies for the US federal tax credit in 2024
+
+date: 2024-06-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/11/Electric-vehicle-tax-credits-2024.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As sales of electric vehicles continue to grow in 2024, many new and prospective customers have questions about qualifying for a <a href="https://electrek.co/guides/ev-federal-tax-credit/">federal tax credit</a> on electric vehicles. Whether your vehicle qualifies or not is a simple yes or no question, but the amount you may qualify for varies by household due to a number of different factors. Luckily, we have compiled everything you need to know about tax credits for your new or current electric vehicle into one place.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/18/which-electric-vehicles-qualify-us-federal-tax-credit-ev-2024/#more-160594" data-post-id="160594" data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/18/which-electric-vehicles-qualify-us-federal-tax-credit-ev-2024/>
 
 ---
 
@@ -685,7 +1107,7 @@ Buy it so I don't go to jail for robbing a bank.
 
 ---
 
-## Someone Tell Us About this Nitrous-Fed Supercharged Kawasaki H2R, Please
+## Here's a Nitrous-Fed Supercharged Kawasaki H2R: Hell Yeah
 
 date: 2024-06-16, from: Ride Apart, Electric Motorcycle News
 

@@ -1,11 +1,55 @@
 ---
 title: mid central 2024.25
-updated: 2024-06-18 08:12:52
+updated: 2024-06-19 08:57:05
 ---
 
 # mid central 2024.25
 
-(date: 2024-06-18 08:12:52)
+(date: 2024-06-19 08:57:05)
+
+---
+
+## Overcoming V2G implementation challenges
+
+date: 2024-06-19, from: EDN Blog
+
+<img width="1106" height="394" src="https://www.edn.com/wp-content/uploads/Figure-3-12.jpg?fit=1106%2C394" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-3-12.jpg?w=1106 1106w, https://www.edn.com/wp-content/uploads/Figure-3-12.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-3-12.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Figure-3-12.jpg?w=1024 1024w" sizes="(max-width: 1106px) 100vw, 1106px" /><p>V2G can revolutionize automotive/energy industries but the existence of multiple V2G architectures requires effort for standards compliance. </p>
+<p>The post <a href="https://www.edn.com/overcoming-v2g-implementation-challenges/" data-wpel-link="internal">Overcoming V2G implementation challenges</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/overcoming-v2g-implementation-challenges/>
+
+---
+
+## The advent of all-solid-state battery for wearables
+
+date: 2024-06-19, from: EDN Blog
+
+<img width="3133" height="2089" src="https://www.edn.com/wp-content/uploads/Hero-image-solid-state-batteries-TDK.jpg?fit=3133%2C2089" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-solid-state-batteries-TDK.jpg?w=3133 3133w, https://www.edn.com/wp-content/uploads/Hero-image-solid-state-batteries-TDK.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-solid-state-batteries-TDK.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-solid-state-batteries-TDK.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-solid-state-batteries-TDK.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-solid-state-batteries-TDK.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Hero-image-solid-state-batteries-TDK.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Hero-image-solid-state-batteries-TDK.jpg?w=2850 2850w" sizes="(max-width: 3133px) 100vw, 3133px" /><p>A new battery material breakthrough at TDK could now pave the way for the widespread adoption of solid-state technology.</p>
+<p>The post <a href="https://www.edn.com/the-advent-of-all-solid-state-battery-for-wearables/" data-wpel-link="internal">The advent of all-solid-state battery for wearables</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/the-advent-of-all-solid-state-battery-for-wearables/>
+
+---
+
+## Veterans Memorial Brick Program⭐
+
+date: 2024-06-18, from: City of Atwater News Releases
+
+ 
+
+<https://www.atwater.org/veteran-brick-program/>
+
+---
+
+## City of Atwater Announces the Expected Appointment of City Manager
+
+date: 2024-06-18, from: City of Atwater News Releases
+
+ 
+
+<https://www.atwater.org/city-of-atwater-announces-the-expected-appointment-of-city-manager/>
 
 ---
 
@@ -13,7 +57,7 @@ updated: 2024-06-18 08:12:52
 
 date: 2024-06-18, from: EDN Blog
 
-<img width="1087" height="661" src="https://www.edn.com/wp-content/uploads/ULDOP2_Fig1.png?fit=1087%2C661" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/ULDOP2_Fig1.png?w=1087 1087w, https://www.edn.com/wp-content/uploads/ULDOP2_Fig1.png?w=300 300w, https://www.edn.com/wp-content/uploads/ULDOP2_Fig1.png?w=768 768w, https://www.edn.com/wp-content/uploads/ULDOP2_Fig1.png?w=1024 1024w" sizes="(max-width: 1087px) 100vw, 1087px" /><p>A continued exploration of the road towards an audio oscillator with truly low distortion, with a successful outcome.</p>
+<img width="1087" height="661" src="https://www.edn.com/wp-content/uploads/ULDOP2_Fig1.png?fit=1087%2C661" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/ULDOP2_Fig1.png?w=1087 1087w, https://www.edn.com/wp-content/uploads/ULDOP2_Fig1.png?w=300 300w, https://www.edn.com/wp-content/uploads/ULDOP2_Fig1.png?w=768 768w, https://www.edn.com/wp-content/uploads/ULDOP2_Fig1.png?w=1024 1024w" sizes="(max-width: 1087px) 100vw, 1087px" /><p>A continued exploration of the road towards an audio oscillator with truly low distortion, with a successful outcome.</p>
 <p>The post <a href="https://www.edn.com/ultra-low-distortion-oscillator-part-2-the-real-deal/" data-wpel-link="internal">Ultra-low distortion oscillator, part 2: the real deal</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

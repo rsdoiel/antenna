@@ -1,11 +1,533 @@
 ---
 title: tech likely 2024.25
-updated: 2024-06-18 08:12:54
+updated: 2024-06-19 08:57:10
 ---
 
 # tech likely 2024.25
 
-(date: 2024-06-18 08:12:54)
+(date: 2024-06-19 08:57:10)
+
+---
+
+## On “What Money Can’t Buy”
+
+date: 2024-06-19, from: Manu - I write blog
+
+
+                <p>I finished listening to the audio version of <a href="https://en.wikipedia.org/wiki/Michael_Sandel">Michael Sandel</a>’s “<a href="https://scholar.harvard.edu/sandel/publications/what-money-cant-buy-moral-limits-markets">What Money Can’t Buy</a>” a few days ago. Great book, I hated every second of it. The topic is very interesting but most of the concepts and examples were infuriating. The book touches on pretty much everything I hate about the current state of the world when it comes to its relationship with money and advertising. Still, was good company on a few long road trips and I love when the audiobooks are narrated by the author. Thanks for suggesting the book <a href="https://johnjago.com">John</a>!</p>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/rOjsIufrLYRfJ3fF>
+
+---
+
+##  Excellent news: according to David Simon, Homicide: Life on the Street will... 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044832-excellent-news-according->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-19, from: Dave Winer's Scripting News)
+
+Here's a game you can play. Every time you think "good" immediately say "gouda." For some reason it's funny. 
+
+<http://scripting.com/2024/06/19.html#a152822>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-19, from: Dave Winer's Scripting News)
+
+Technical note. I made a <a href="https://imgs.scripting.com/2024/06/19/datesoff.png">mistake</a> in converting local time to GMT in the code that builds the feed. My times were off by four hours. So I corrected them. And now instead of three items in the feed, according to my own feed software, there are now six. I bet all the <a href="https://podcasts.apple.com/us/podcast/dws-podcast0-feed/id1752527298">other</a> systems will do the same thing because the guid is a function of the creation date of the item, and they changed. Oh well. At least the <a href="http://scripting.com/podcast0/rss.xml">RSS version</a> only has three items. I think I should change how the guid works. 
+
+<http://scripting.com/2024/06/19.html#a151601>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-19, from: Miguel de Icaza Mastondon feed)
+
+<p>In Yak Shaving news, my last project was “I bet I can rewrite the debugger pads in SwiftUI and it would be fun”.</p><p>Good news, I did, it was fun, the result is awesome, and it was quick.</p><p>Bad news, the immediate consequence of this was “well there are a lot of other pads that deserve the SwiftUI treatment”</p> 
+
+<https://mastodon.social/@Migueldeicaza/112643942262939527>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-19, from: Dave Winer's Scripting News)
+
+Today's <a href="http://scripting.com/podcast0/rss.xml">podcast-zero</a> episode is up. It's from June 14, 2004. It's 1/2 of a panel in 1991 that I was on with Bill Gates. This is before the turn to the web. At this point I'm starting to look around for audio that might fit into this new audio blog channel that goes with my written blog. 
+
+<http://scripting.com/2024/06/19.html#a151042>
+
+---
+
+##  Are the &#8220;World&#8217;s 50 Best Restaurants&#8221; Even Restaurants? 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/are-the-worlds-50-best-restaurants-even-restaurants>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-19, from: Miguel de Icaza Mastondon feed)
+
+<p>Given the current inflationary cost of Yak Shaving, I think Godot for iPad will be feature complete sometime in September/October - this is the earliest I can have useful TestFlight feedback.</p><p>Hopefully I can properly launch to the public early next year, depending on how many bugs and warts have to be fixed.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112643817859041403>
+
+---
+
+## RP2040 makes Kit-Cat Klock’s eyes follow you around the room
+
+date: 2024-06-19, from: Raspberry Pi News (.com)
+
+<p>This modified Kit-Cat Klock has an RP2040 hiding inside to make its eyes follow you around the room. </p>
+<p>The post <a href="https://www.raspberrypi.com/news/rp2040-makes-kit-cat-klocks-eyes-follow-you-around-the-room/">RP2040 makes Kit-Cat Klock&#8217;s eyes follow you around the room</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/rp2040-makes-kit-cat-klocks-eyes-follow-you-around-the-room/>
+
+---
+
+##  American English &#8220;invisible letters&#8221; include the t in pizza, the r in... 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044830-american-english-invisibl>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-19, from: Dave Winer's Scripting News)
+
+I asked ChatGPT to <a href="https://chatgpt.com/share/290adf1b-9d58-4eff-a543-aefbedcf3219">write</a> a Hello World app for Threads. Here's <a href="https://github.com/scripting/Scripting-News/issues/309">the code</a>. I haven't tried running it yet. 
+
+<http://scripting.com/2024/06/19.html#a134102>
+
+---
+
+## The next patriotic kitten
+
+date: 2024-06-19, from: Dave Winer's Scripting News
+
+<p>I loved being my own DJ with Napster, and none of the execs or journalists figured out that this was the appeal of getting all the music out from behind the incredibly obsolete and brutal paywall that the music industry had concocted. They didn't give a shit about the users except they wanted our money, there was no love in the connection between the creativity of the artists and the creativity of the users. We supposedly didn't have any. </p>
+<p>I'm like <a href="https://en.wikipedia.org/wiki/Emmett_Chapman">Emmett Chapman</a>, an accomplished musician who created a new kind of <a href="https://en.wikipedia.org/wiki/Chapman_Stick">musicial instrument</a> for himself and others to use. That's what I do with software. I play the tools I make. But what I really get off on is the music the users make. I was thinking about my father yesterday, it would have been his 95th birthday. He died at 80, so there's been plenty of time to process his life as I knew it. The best connection he and I had was silent. I inherited my love for outliners from him, yet that love was latent probably for hundreds of generations in our family. I had the skill and creativity to create such a tool, and finally the <a href="https://en.wikipedia.org/wiki/IBM_Personal_Computer">technology</a> existed, and he let his son turn his mind upside down and inside out. For that he would say Every day is Father's Day. That may be my greatest accomplishment.</p>
+<p>I was chatting with my brother yesterday, ChatGPT came up, and I thought (and said) I bet dad would have loved ChatGPT. Then I thought of our uncle Ken, on my mother's side, and said he would have shit his pants over ChatGPT. Ken spent literally hours every day with the meager reference tools he owned in his off the grid cottage near St Augustine. The way I love ChatGPT is the way he would have loved it. I'm absolutely sure of it. My paternal grandfather would have loved it, and I expect my great uncle <a href="https://en.wikipedia.org/wiki/Arno_Schmidt">Arno</a> who was a pioneer of <a href="https://en.wikipedia.org/wiki/Zettelkasten">zettlekasten</a> would have also lost his shit over ChatGPT.</p>
+<p>Which leads me to the art of a user of ChatGPT (which really needs a shorter name). People's first reaction is that by creating art with ChatGPT I'm stealing. Bollocks. I'm creating. I'm not even going to validate that with a rebuttal. I am proving it with the <a href="https://www.google.com/search?q=%22Patriotic+Kitten%22">Patriotic Kitten</a> thread, the next of which I will now entertain you with. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/19/patrioticKitten2.png"></center>The second patriotic kitten. </div></p>
+ 
+
+<http://scripting.com/2024/06/19/125500.html?title=theNextPatrioticKitten>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-19, from: Miguel de Icaza Mastondon feed)
+
+<p>More iOS 18 notes app goodness, when you accept an answer for your calculation, it celebrates it with an animation:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112643365878182103>
+
+---
+
+## The FeedLand stack
+
+date: 2024-06-19, from: Dave Winer's Scripting News
+
+<p>One of the cool things about the way I designed FeedLand internally is that there are various levels of feed stuff. If you want to start over at any level, you can, and today I'm doing exactly that. But first here's the stack:</p>
+<ol>
+<li>At the lowest level is the <a href="https://www.npmjs.com/package/reallysimple">reallysimple package</a>, which reads any feed and returns a consistent JavaScript object, so the database code only ever sees one kind of feed. All the differences between RSS and Atom are flattened, and features from the source <a href="https://source.scripting.com/">namespace</a> are included, where they are present.  </li>
+<li>Above that level is the <a href="https://www.npmjs.com/package/feedlanddatabase">feedlanddatabase package</a>, which has a Node API that does all the stuff with the SQL database that FeedLand runs off. So if all you want to do is add feeds, subscribe to them, add a user, subscribe to a reading list, build a river, all that stuff is at this level. This is the level at which I'm going to start building today.</li>
+<li>Next level up is the <a href="https://www.npmjs.com/package/feedland">feedland package</a>, which implements the REST interface, and handles all the runtime stuff that the FeedLand client needs.</li>
+<li>And the final level is the one the user interacts with, it runs in the browser, and makes the REST calls to the feedland server. All the rendering of the objects coming out of the database via the REST interface happens here.  </li>
+</ol>
+<p>In an <a href="http://scripting.com/2024/06/16.html#a112207">application</a> I'm working on, I found myself reimplementing features of FeedLand, and I stopped myself and said, nooooo use the API that's already there. The advantages are many, including I will be able to use FeedLand to manage the data structures. So that's what I'm doing. Wish me luck.</p>
+ 
+
+<http://scripting.com/2024/06/19/123842.html?title=theFeedlandStack>
+
+---
+
+## Behold the Power of Grimace
+
+date: 2024-06-19, updated: 2024-06-19, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/06/19/behold-the-power-of-grimace/>
+
+---
+
+## a parable
+
+date: 2024-06-19, from: Ayjay blog
+
+In 1969, when the Beatles were recording the album that became Abbey Road, Paul McCartney would come in every day to record a vocal track. (He lived near the studio, so it was easy for him to drop by.) The vocal he was trying to get right was “Oh! Darling” — a song that, some [&#8230;] 
+
+<https://blog.ayjay.org/great-expectations-2/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-19, from: Miguel de Icaza Mastondon feed)
+
+<p>Cute, on iOS 18, the notes app also does simple math for you.</p><p>When I added the = sign, this happened:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112640821223134925>
+
+---
+
+## Postgres Ibiza 2024
+
+date: 2024-06-19, from: PostgreSQL News
+
+<p><a href="https://pgibz.io">Postgres Ibiza</a> 2024 is happening again in September. A three-day event split into:</p>
+<ul>
+<li>
+<p>Conference: 2 days, September 9th and 10th.</p>
+</li>
+<li>
+<p>Unconference: 1 day, September 11th, following the spirit of the best <a href="https://www.jcrete.org/what-is-an-unconference_/">open spaces</a>.</p>
+</li>
+</ul>
+<p>Postgres Ibiza 2024 builds on the success of the last editions (2023 and 2019, before the pandemic) and brings a refreshing, open and diverse Postgres conference. Where all ideas can be shared, the future of Postgres discussed and stronger connections can be made in a truly unique environment. With an open minded view on topics, people and ideas, it's the conference with the elevated hallway track. An ideal gathering for networking, partnerships and discussing the future of Postgres.</p>
+<p>Additional information:</p>
+<ul>
+<li>
+<p><a href="https://pgibz.io/#call-for-papers">Call for Papers</a> is open until June 23rd.</p>
+</li>
+<li>
+<p><a href="https://pgibz.io/#call-for-papers">Call for Sponsors</a> is also open. See <a href="https://pgibz.io/assets/downloads/PGIBZ2024-prospectus.pdf">prospectus</a> for more details.</p>
+</li>
+<li>
+<p><a href="https://postgresql.fund/blog/postgresql-ibiza-2024-call-for-papers-and-sponsors/">CFP &amp; CFS Blog post announcement</a>.</p>
+</li>
+<li>
+<p><a href="https://pgibz.io/#tickets">Tickets are on sale</a>.</p>
+</li>
+<li>
+<p><a href="https://pgibz.io/#committee">Talk Selection Committee</a>.</p>
+</li>
+</ul>
+<p>The event will be held in the same conference venue as the last editions, the spectacular <a href="https://www.palaciocongresosibiza.com/">Palacio de Congresos de Ibiza</a> which happens to be a few steps away from many hotels... and the beach!</p>
+<p>Postgres Ibiza is a Community Postgres event, organized by the non-profit <a href="https://postgresql.fund">Fundación PostgreSQL</a>.</p> 
+
+<https://www.postgresql.org/about/news/postgres-ibiza-2024-2878/>
+
+---
+
+## DeepComputing announces third-party RISC-V mainboard for the Framework 13 laptop
+
+date: 2024-06-18, from: OS News
+
+Framework, the company making modular, upgradeable, and repairable laptops, and DeepComputing, the same company that&#8217;s making the DC ROMA II RISC-V laptop we talked about last week, have announced something incredibly cool: a brand new RISC-V mainboard that fits right into existing Framework 13 laptops. Sporting a RISC-V StarFive JH7110 SoC, this groundbreaking Mainboard was independently designed and developed by DeepComputing. It’s the main component of the very first RISC-V laptop to run Canonical’s Ubuntu Desktop and Server, and the Fedora Desktop OS and represents the first independently developed Mainboard for a Framework Laptop. ↫ The DeepComputing website For a company that was predicted to fail by a popular Apple spokesperson, it seems Framework is doing remarkably well. This new mainboard is the first one not made by Framework itself, and is the clearest validation yet of the concept put into the market by the Framework team. I can&#8217;t recall the last time you could buy a laptop powered by one architecture, and then upgrade to an entirely different architecture down the line, just by replacing the mainboard. The news of this RISC-V mainboard has made me dream of other possibilities &#8211; like someone crazy enough to design, I don&#8217;t know, a POWER10 or POWER11 mainboard? Entirely impossible and unlikely due to heat constraints, but one may dream, right? 
+
+<https://www.osnews.com/story/140001/deepcomputing-announces-third-party-risc-v-mainboard-for-the-framework-13-laptop/>
+
+---
+
+## The Marshall Star for June 18, 2024
+
+date: 2024-06-18, from: NASA breaking news
+
+California Teams Win $1.5 Million in NASA’s Break the Ice Lunar Challenge By Savannah Bullard After two days of live competitions, two teams from southern California are heading home with a combined $1.5 million from NASA’s Break the Ice Lunar Challenge.&#160; Since 2020, competitors from around the world have competed in this challenge with the [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-june-18-2024/>
+
+---
+
+## Update on Newton, the Wayland-native accessibility project
+
+date: 2024-06-18, from: OS News
+
+There&#8217;s incredibly good news for people who use accessibility tools on Linux, but who were facing serious, gamebreaking problems when trying to use Wayland. Matt Campbell, of the GNOME accessibility team, has been hard at work on an entirely new accessibility architecture for modern free desktops, and he&#8217;s got some impressive results to show for it already. I’ve now implemented enough of the new architecture that Orca is basically usable on Wayland with some real GTK 4 apps, including Nautilus, Text Editor, Podcasts, and the Fractal client for Matrix. Orca keyboard commands and keyboard learn mode work, with either Caps Lock or Insert as the Orca modifier. Mouse review also works more or less. Flat review is also working. The Orca command to left-click the current flat review item works for standard GTK 4 widgets. ↫ Matt Campbell One of the major goals of the project was to enable such accessibility support for Flatpak applications without having to pass an exception for the AT-SPI bus. what this means is that the new accessibility architecture can run as part of a Flatpak application without having to break out of their sandbox, which is obviously a hugely important feature to implement. There&#8217;s still a lot of work to be done, though. Something like the GNOME shell doesn&#8217;t yet support Newton, of course, so that&#8217;s still using the older, much slower AT-SPI bus. Wayland also doesn&#8217;t support mouse synthesizing yet, things like font, size, style, and colour aren&#8217;t exposed yet, and there&#8217;s a many more limitations due to this being such a new project. The project also isn&#8217;t trying to be GNOME-specific; Campbell wants to work with the other desktops to eventually end up with an accessibility architecture that is truly cross-desktop. The blog post further goes into great detail about implementation details, current and possible future shortcomings, and a lot more. 
+
+<https://www.osnews.com/story/139996/update-on-newton-the-wayland-native-accessibility-project/>
+
+---
+
+##  NASA&#8217;s Voyager 1 probe is fully online again after months of spouting... 
+
+date: 2024-06-18, updated: 2024-06-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044828-nasas-voyager-1-probe-is>
+
+---
+
+## MNT Reform 1.0 beta hand assembly
+
+date: 2024-06-18, from: Tilde.news
+
+<p><a href="https://tilde.news/s/stf7h8/mnt_reform_1_0_beta_hand_assembly">Comments</a></p> 
+
+<https://mntmn.com/media/videos/reform-beta-hand-assembly.mp4>
+
+---
+
+## High-Speed Market Studies
+
+date: 2024-06-18, from: NASA breaking news
+
+Owing to NASA&#8217;s Quesst mission and Commercial Supersonic Technology project, there is growing industry interest in commercial aircraft that fly faster than the speed of sound. In 2020, NASA funded two independent studies to investigate the economic viability of this potential market for high-speed commercial flight. Since then, NASA has funded additional studies to investigate [&#8230;] 
+
+<https://www.nasa.gov/directorates/armd/aavp/ht/high-speed-studies/>
+
+---
+
+## NASA Releases Hubble Image Taken in New Pointing Mode
+
+date: 2024-06-18, from: NASA breaking news
+
+NASA’s Hubble Space Telescope has taken its first new images since changing to an alternate operating mode that uses one gyro. The spacecraft returned to science operations June 14 after being offline for several weeks due to an issue with one of its gyroscopes (gyros), which help control and orient the telescope. This new image […] 
+
+<https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/>
+
+---
+
+## Artemis, Architecture, and Lunar Science: SMD and ESDMD Associate Administrators visits Tokyo
+
+date: 2024-06-18, from: NASA breaking news
+
+June 18, 2024 At NASA we always say that exploration enables science, and science enables exploration. During a recent, quick trip to Tokyo, Japan with our Associate Administrator for the Exploration Systems Development Mission Directorate (ESDMD), Cathy Koerner, I had an opportunity to share this message with our partners at the Japanese Aerospace Exploration Agency […] 
+
+<https://science.nasa.gov/directorates/smd/artemis-architecture-and-lunar-science-smd-and-esdmd-associate-administrators-visits-tokyo/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-18, from: Dave Winer's Scripting News)
+
+I'm highly motivated to support the newly released Threads API, but a quick look indicates that it's a fairly large project. All I want to do is cross-post, along with Masto and Bluesky. I did both those a loooong time ago. But I really want my links to go to threads, and also create a thread-writer for it like the one I did for Twitter and Bluesky. There's no shortage of really interesting projects now, so I think I'm going to have to wait to do this for a while. If anyone makes a really simple Hello World for Threads for Node.js that would make my day. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/06/18.html#a205725>
+
+---
+
+##  An Apple Watch reimagined in the style of a Newton. Love the... 
+
+date: 2024-06-18, updated: 2024-06-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044827-an-apple-watch-reimagined>
+
+---
+
+## KDE Plasma 6.1 released
+
+date: 2024-06-18, from: OS News
+
+After the very successful release of KDE Plasma 6.0, which moved the entire desktop environment and most of its applications over to Qt 6, fixed a whole slow of bugs, and streamlined the entire KDE desktop and its applications, it&#8217;s now time for KDE Plasma 6.1, where we&#8217;re going to see a much stronger focus on new features. While it&#8217;s merely a point release, it&#8217;s still a big one. The tentpole new feature of Plasma 6.1 is access to remote Plasma desktops. You can go into Settings and log into any Plasma desktop, which is built entirely and directly into KDE&#8217;s own Wayland compositor, avoiding the use of third party applications of hacky extensions to X.org. Having such remote access built right into the desktop environment and its compositor itself is a much cleaner implementation than in the before time with X. Another feature that worked just fine under X but was still missing from KDE Plasma on Wayland is something they now call &#8220;persistent applications&#8221; &#8211; basically, KDE will now remember which windows you had open when you closed KDE or shut down your computer, and open them back up right where you left off when you log back in. It&#8217;s one of those things that got lost in the transition to Wayland, and having it back is really, really welcome. Speaking of Wayland, KDE Plasma 6.1 also introduces two major new rendering features. Explicit sync removes flickering and glitches most commonly seen on NVIDIA hardware, while triple buffering provides smoother animations and screen rendering. There&#8217;s more here, too, such as a completely reworked edit desktop view, support for controlling keyboard LED backlighting traditionally found in gaming laptops, and more. KDE Plasma 6.1 will find its way to your distribution of choice soon enough, but of course, you can compile and install it yourself, too. 
+
+<https://www.osnews.com/story/139993/kde-plasma-6-1-released/>
+
+---
+
+## NASA Awards Logistic Services, Management Contract
+
+date: 2024-06-18, from: NASA breaking news
+
+NASA has awarded the Goddard Logistics Services Contract to TRAX International Corporation of Las Vegas to provide logistics services and management for NASA missions. The cost-plus-fixed-fee contract includes a base period and up to five options with a potential contract value of approximately $265 million if all options are exercised. The basic period of performance [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-awards-logistic-services-management-contract/>
+
+---
+
+## NASA Selects Lockheed Martin to Build Next-Gen Spacecraft for NOAA
+
+date: 2024-06-18, from: NASA breaking news
+
+NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has selected Lockheed Martin Corp. of Littleton, Colorado, to build the spacecraft for NOAA’s Geostationary Extended Observations (GeoXO) satellite program. This cost-plus-award-fee contract is valued at approximately $2.27 billion. It includes the development of three spacecraft as well as four options for additional spacecraft. [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-selects-lockheed-martin-to-build-next-gen-spacecraft-for-noaa/>
+
+---
+
+##  57 Sandwiches That Define New York City. Never mind if you don&#8217;t... 
+
+date: 2024-06-18, updated: 2024-06-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044826-57-sandwiches-that-define>
+
+---
+
+## NASA Sets Launch Coverage for NOAA Weather Satellite
+
+date: 2024-06-18, from: NASA breaking news
+
+NASA will provide live coverage of prelaunch and launch activities for the National Oceanic and Atmospheric Administration’s (NOAA) GOES-U (Geostationary Operational Environmental Satellite U) mission. The two-hour launch window opens at 5:16 p.m. EDT Tuesday, June 25, for the satellite’s launch on a SpaceX Falcon Heavy rocket from Launch Complex 39A at NASA&#8217;s Kennedy Space [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-noaa-weather-satellite/>
+
+---
+
+##  I have zero interest in invite-only restaurants, but I love this sentence:... 
+
+date: 2024-06-18, updated: 2024-06-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044825-i-have-zero-interest-in>
+
+---
+
+## NASA’s OSIRIS-REx Etched into Collier Trophy, Aerospace History
+
+date: 2024-06-18, from: NASA breaking news
+
+NASA’s OSIRIS-REx mission has been immortalized at the Smithsonian’s National Air and Space Museum in Washington as the latest awardee of the Robert J. Collier Trophy. Bestowed annually by the National Aeronautic Association, the trophy recognizes groundbreaking aerospace achievements. OSIRIS-REx, formally the Origins, Spectral Interpretation, Resource Identification, and Security – Regolith Explorer, was honored “for [&#8230;] 
+
+<https://www.nasa.gov/image-article/nasas-osiris-rex-etched-into-collier-trophy-aerospace-history/>
+
+---
+
+## The history of DR-DOS
+
+date: 2024-06-18, from: OS News
+
+I&#8217;ve always found the world of DOS versions and variants to be confusing, since most of it took place when I was very young (I&#8217;m from 1984) so I wasn&#8217;t paying much attention to computing quite yet, other than playing DOS games. One of the variants of DOS I never quite understood where it was from until much, much later, was DR-DOS. To this day, I pronounce this as &#8220;Doctor DOS&#8221;. If you&#8217;re also a little unclear on what, exactly, DR-DOS was,&#160;Bradford Morgan White has an excellent article detailing the origins and history of DR-DOS, making it very easy to get up to speed and expand your knowledge on DOS, which is surely a very marketable skill in the days of Electron and Electron for Developers. DR DOS was a great product. It was superior to other DOS versions in many ways, and it is certainly possible that it could have been more successful were it not for Microsoft Windows having been so wildly successful. Starting with Windows 95, the majority of computer users simply didn’t much care about which DOS loaded Windows so long as it worked. There’s quite a bit of lore regarding legal battles and copyrights surrounding CP/M and DOS involving Microsoft and Digital Research. This has been covered in previous articles to some extent, but I am not really certain how much would have changed had Microsoft and Digital Research got on. Gates and Kildall had been quite friendly at one point, and we know that the two mutually chose not to work together due to differences in business practices and beliefs. Kildall chose to be quite a bit more friendly and less competitive while Gates very much chose to be competitive and at times a bit ruthless. Additionally, Kildall sold DRI rather than continue the fight, and DRI had never really attempted to combine DR DOS with GEM as a cohesive product to fight Windows before Windows became the ultimate ruler of the OS market following Windows 3.1’s release. Still, it was an absolutely brilliant product and part of me will always feel that it ought to have won. ↫ Bradford Morgan White I can definitely imagine an alternative timeline in which Digital Research managed to combine DR-DOS with GEM in a more attractive way, stealing Microsoft&#8217;s thunder before Gates&#8217; balls got rolling properly with Windows 3.x. It&#8217;s one of the many, many what-ifs in this sector, but not one you often hear or read about. 
+
+<https://www.osnews.com/story/139991/the-history-of-dr-dos/>
+
+---
+
+## iDOS 3 Rejected From the App Store
+
+date: 2024-06-18, from: Michael Tsai
+
+Litchie (Reddit): Initially they rejected the submission because it was same as iDOS 2, but after I explained to them that I can not continue under iDOS2 [because Apple had blocklisted it], then they rejected again as &#8220;Design spam&#8221; on the basis that there has been many submissions lately with the exact same design.I don&#8217;t [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/18/idos-3-rejected-from-the-app-store/>
+
+---
+
+## Former Head of NSA Joins OpenAI Board
+
+date: 2024-06-18, from: Michael Tsai
+
+Jay Peters: OpenAI has appointed Paul M. Nakasone, a retired general of the US Army and a former head of the National Security Agency (NSA), to its board of directors, the company announced on Thursday. Nakasone, who was nominated to lead the NSA by former President Donald Trump, directed the agency from 2018 until February [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/18/former-head-of-nsa-joins-openai-board/>
+
+---
+
+## Adobe’s hidden cancellation fee is unlawful, FTC suit says
+
+date: 2024-06-18, from: OS News
+
+To lock subscribers into recurring monthly payments, Adobe would typically pre-select by default its most popular &#8220;annual paid monthly&#8221; plan, the FTC alleged. That subscription option locked users into an annual plan despite paying month to month. If they canceled after a two-week period, they&#8217;d owe Adobe an early termination fee (ETF) that costs 50 percent of their remaining annual subscription. The &#8220;material terms&#8221; of this fee are hidden during enrollment, the FTC claimed, only appearing in &#8220;disclosures that are designed to go unnoticed and that most consumers never see.&#8221; ↫ Ashley Belanger at Ars Technica There&#8217;s a sucker for every corporation, but I highly doubt there&#8217;s anyone out there who would consider this a fair business practice. This is so obviously designed to hide costs during sign-up, and then unveil them when the user considers quitting. If this is deemed legal or allowed, you can expect everyone to jump on this bandwagon to scam users out of their money. It goes further than this, though. According to the FTC, Adobe knew this practice was shady, but continued it anyway because altering it would negatively affect the bottom line. The FTC is actually targeting two Adobe executives directly, which is always nice to hear &#8211; it&#8217;s usually management that pushes such illegal practices through, leaving the lower ranks little choice but to comply or lose their job. Stuff like this is exactly why confidence in the major technology companies is at an all-time low. 
+
+<https://www.osnews.com/story/139989/adobes-hidden-cancellation-fee-is-unlawful-ftc-suit-says/>
+
+---
+
+## Version control in the age of distributed computing (2023)
+
+date: 2024-06-18, from: Tilde.news
+
+<p><a href="https://tilde.news/s/ablvde/version_control_age_distributed">Comments</a></p> 
+
+<https://www.youtube.com/watch?v=DTbJ9ss4WBc>
+
+---
+
+##  Report: Every Place On Earth Has Wrong Amount Of Water. &#8220;In every... 
+
+date: 2024-06-18, updated: 2024-06-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044824-report-every-place-on-ear>
+
+---
+
+## Hiropon: Takashi Murakami's Early Digital Works [nsfw]
+
+date: 2024-06-18, from: Tilde.news
+
+<p><a href="https://tilde.news/s/vkeqkz/hiropon_takashi_murakami_s_early_digital">Comments</a></p> 
+
+<https://cdrom.ca/art/2024/06/16/hiropon.html>
+
+---
+
+## Celebrating Juneteenth
+
+date: 2024-06-18, from: NASA breaking news
+
+The crew aboard the International Space Station captured this image of Galveston, Texas, the birthplace of Juneteenth, as the station orbited 224 miles above on Nov. 23, 2011. In the early 1800s, slavers periodically used Galveston Island as an outpost for operations. By 1860, about one-third of Galveston’s population lived under the oppression of chattel slavery. Even [&#8230;] 
+
+<https://www.nasa.gov/image-article/celebrating-juneteenth/>
+
+---
+
+##  Yes, everyone really is sick a lot more often after COVID. &#8220;At... 
+
+date: 2024-06-18, updated: 2024-06-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044823-yes-everyone-really-is-si>
+
+---
+
+## Happy Birthday, Redshift Wrangler!
+
+date: 2024-06-18, from: NASA breaking news
+
+About one year ago the Redshift Wrangler project first asked you to help examine “spectra” of distant galaxies. These spectra are diagrams that show how much light we receive from them as a function of wavelength.  “Since launching on May 30, 2023, we have reached almost 2,000 volunteers joining our project.” said Coffin.  “Together we have made […] 
+
+<https://science.nasa.gov/get-involved/citizen-science/happy-birthday-redshift-wrangler/>
+
+---
+
+## By The Numbers: The Celtics 2024 Championship
+
+date: 2024-06-18, updated: 2024-06-18, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/06/18/by-the-numbers-the-celtics-2024-championship/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-18, from: Dave Winer's Scripting News)
+
+<a href="http://scripting.com/stories/2009/10/03/fathersDay.html">My</a> <a href="https://www.google.com/search?q=site%3Ascripting.com+father%27s+day">father</a>, <a href="https://leonwiner.com/">Leon Winer</a>, would have been 95 today. 
+
+<http://scripting.com/2024/06/18.html#a160059>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-18, from: Dave Winer's Scripting News)
+
+For people who use <a href="http://docserver.scripting.com/drummer/electricDrummer.opml">Electric Drummer</a>. If you accidentally close a file that's open and want it to re-appear in its previous position, you can edit your prefs.json file. You can find it by choosing <i>Open Data Folder</i> from the File menu. You'll see prefs.json. Open it in a text editor, and make the changes you want -- carefully. Probably a good idea to make a copy of the file before editing. But I just did it and laughed out loud, why didn't I think of this before? Heh. 
+
+<http://scripting.com/2024/06/18.html#a155642>
+
+---
+
+## Find My Cat: Raspberry Pi GPS tracker for pets
+
+date: 2024-06-18, from: Raspberry Pi News (.com)
+
+<p>Creative engineer Sahas Chitlange built a GPS tracking device using a Raspberry Pi so he always knows where his cat is. </p>
+<p>The post <a href="https://www.raspberrypi.com/news/find-my-cat-raspberry-pi-gps-tracker-for-pets/">Find My Cat: Raspberry Pi GPS tracker for pets</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/find-my-cat-raspberry-pi-gps-tracker-for-pets/>
 
 ---
 
@@ -16,6 +538,16 @@ date: 2024-06-18, from: Computer ads from the Past
 If you are a paid subscriber, voting is open for one week for this month's topic 
 
 <https://computeradsfromthepast.substack.com/p/vote-for-the-june-2004-plus-post>
+
+---
+
+## How the Guardian uses Deno to audit accessibility and performance across their 2.7 million articles
+
+date: 2024-06-18, updated: 2024-06-18, from: Deno blog
+
+The Guardian receives over 350 million unique page views. Learn how Deno helps the Guardian maximize web performance and adhere to accessibility standards to retain and grow their readership. 
+
+<https://deno.com/blog/guardian>
 
 ---
 
@@ -41,11 +573,11 @@ European beech trees more than 1,500 kilometers apart all drop their fruit at th
 
 ---
 
-## How to Fix ‘AI’s Original Sin’
+## How to Fix “AI’s Original Sin”
 
 date: 2024-06-18, from: O'Reilly Radar
 
-Last month, TheNew York Times claimed that tech giants OpenAI and Google have waded into a copyright gray area by transcribing the vast volume of YouTube videos and using that text as additional training data for their AI models despite terms of service that prohibit such efforts and copyright law that the Times argues places [&#8230;] 
+Last month, The New York Times claimed that tech giants OpenAI and Google have waded into a copyright gray area by transcribing the vast volume of YouTube videos and using that text as additional training data for their AI models despite terms of service that prohibit such efforts and copyright law that the Times argues [&#8230;] 
 
 <https://www.oreilly.com/radar/how-to-fix-ais-original-sin/>
 
@@ -71,7 +603,7 @@ I have an essay in the new issue of Harper’s called “Yesterday’s Men: The 
 
 **@Dave Winer's Scripting News** (date: 2024-06-18, from: Dave Winer's Scripting News)
 
-My second Podcast0 episode is up. Here's the <a href="http://scripting.com/podcast0/rss.xml">RSS 2.0 feed</a>. And the <a href="https://podcasts.apple.com/us/podcast/my-second-podcast/id1752527298?i=1000659386865">page</a> for the episode on Apple Podcasts. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/18/patrioticKitty.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">My second Podcast0 episode is up. Here's the <a href="http://scripting.com/podcast0/rss.xml">RSS 2.0 feed</a>. And the <a href="https://podcasts.apple.com/us/podcast/my-second-podcast/id1752527298?i=1000659386865">page</a> for the episode on Apple Podcasts. 
 
 <http://scripting.com/2024/06/18.html#a120630>
 
@@ -81,7 +613,7 @@ My second Podcast0 episode is up. Here's the <a href="http://scripting.com/podca
 
 date: 2024-06-18, from: O'Reilly Radar
 
-AI is too often seen as a “first world” enterprise of, by, and for the wealthy. We’re going to take a look at a Digital Green’s Farmer.Chat, a generative AI bot that was designed to help small-scale farmers in developing countries access critical agricultural information. Developing countries have frequently developed technical solutions that would never [&#8230;] 
+AI is too often seen as an enterprise of, by, and for the wealthy. We’re going to take a look at a Digital Green’s Farmer.Chat, a generative AI bot that was designed to help small-scale farmers in developing countries access critical agricultural information. Developing countries have frequently implemented technical solutions that would never have occurred [&#8230;] 
 
 <https://www.oreilly.com/radar/generative-ai-for-farming/>
 
@@ -160,6 +692,65 @@ This first year has been funded by an NLnet grant, which I&rsquo;m in the midst 
 There&rsquo;s a similar last-day-of-school levity to both these events. 
 
 <https://www.marginalia.nu/log/a_107_nlnext/>
+
+---
+
+## PremiumSoft Introduces Navicat 17 for PostgreSQL: Revolutionizing Database Management and Development
+
+date: 2024-06-18, from: PostgreSQL News
+
+<p>Navicat, a leading provider of powerful database management and development software, is proud to unveil Navicat 17 for PostgreSQL, an innovative release that sets a new standard in the realm of database management and development. Navicat 17 introduces a wide array of cutting-edge features and enhancements that revolutionize the way users interact with their databases, empowering them to achieve unmatched efficiency and productivity. With support for PostgreSQL, Navicat 17 enhanced productivity, streamline workflows, and deliver an exceptional user experience.</p>
+<p>Key features of Navicat™ 17  for PostgreSQL include:</p>
+<ul>
+<li>
+<p>All-New Model Workspace: Navicat 17 presents an enhanced diagram design, a more powerful synchronization tool, support for data dictionaries, and other features that elevate the database modeling experience to new heights.</p>
+</li>
+<li>
+<p>Data Profiling: The Data Viewer in Navicat 17 integrates a Data Profiling tool, providing users with a visual and comprehensive view of their data. This feature enables users to gain valuable insights and make informed decisions based on data analysis.</p>
+</li>
+<li>
+<p>Data Dictionary: Navicat 17 introduces a Data Dictionary that offers documentation and descriptions for each data element within databases across various server platforms. This feature enhances data understanding and facilitates efficient collaboration among team members.</p>
+</li>
+<li>
+<p>Query Pinned Result: Users can now retain a specific set of query results for reference, allowing for easy comparison and analysis.</p>
+</li>
+<li>
+<p>Visual Query Explain: Navicat 17 introduces a powerful graphical presentation feature that provides users with valuable insights into query implementation for MySQL, MariaDB, and PostgreSQL databases.</p>
+</li>
+<li>
+<p>Table Profile: Navicat 17 allows users to save different combinations of filters, sort orders, and column displays for tables. This feature streamlines data exploration and analysis.</p>
+</li>
+<li>
+<p>Navicat URI: With Navicat URI, users can effortlessly share and locate server objects, streamlining collaboration and enhancing productivity.</p>
+</li>
+<li>
+<p>Manage Connection: Navicat 17 introduces enhanced connection management capabilities, enabling users to organize connections using stars, colors, and groups, or even hide.</p>
+</li>
+<li>
+<p>Business Intelligence (BI) Features:</p>
+</li>
+<li>
+<p>Chart Interaction: All charts on a dashboard can now be interconnected, allowing for dynamic and interactive data exploration.</p>
+</li>
+<li>
+<p>Calculated Field: Users can transform data using specific formulas or expressions, empowering them to derive meaningful insights and perform advanced data analysis.</p>
+</li>
+<li>
+<p>Expanded Platform Support: The BI features in Navicat 17 now extend support to MongoDB and Snowflake databases.</p>
+</li>
+<li>and more. </li>
+</ul>
+<p>Navicat 17 for PostgreSQL is now available for download and purchase on the PremiumSoft website at https://navicat.com/en/products/navicat-for-postgresql. Users can also take advantage of a 14-day fully functional free trial to experience the power and capabilities of Navicat 17 firsthand.</p>
+<p>About Navicat</p>
+<p>Navicat develops the leading database management and development software. One of its top-rated products, Navicat Premium, allows you to simultaneously connect to MySQL, Redis, PostgreSQL, SQL Server, Oracle, MariaDB, SQLite, and MongoDB databases from a single application. Compatible with cloud databases like Amazon RDS, Amazon Aurora, Amazon Redshift, Amazon ElastiCache, Microsoft Azure, Oracle Cloud, Google Cloud, MongoDB Atlas and Redis Enterprise Cloud. Additionally, Navicat Premium is compatible with GaussDB and OceanBase databases. You can quickly and easily build, manage and maintain your databases.</p>
+<p>About PremiumSoft</p>
+<p>PremiumSoft CyberTech Ltd. is a multinational corporation headquartered in Hong Kong, the company was founded in 1999 and has developed numerous award-winning products over the years.</p>
+<p>For all media enquiries, please contact:</p>
+<p>Media Relations</p>
+<p>media@navicat.com</p>
+<p>www.navicat.com</p> 
+
+<https://www.postgresql.org/about/news/premiumsoft-introduces-navicat-17-for-postgresql-revolutionizing-database-management-and-development-2860/>
 
 ---
 
@@ -830,9 +1421,9 @@ NASA and its international partners are using the same generically shaped wing d
 
 ## Chatkontrolle: Kuhhandel, während niemand hinschaut
 
-date: 2024-06-17, updated: 2024-06-17, from: Chaos Computer Club
+date: 2024-06-17, updated: 2024-06-18, from: Chaos Computer Club
 
-Der belgische Vorsitz im Rat der EU will die Chatkontrolle am Mittwochn den 19. Juni, abstimmen lassen. Nach einem weiteren Hütchenspielertrick, den massenhaften Angriff auf Verschlüsselung nicht als solchen erscheinen zu lassen, wackelt nun der Widerstand Frankreichs. Der CCC erinnert daran, dass sich an der Verordnung nichts Nennenswertes geändert hat. 
+Der belgische Vorsitz im Rat der EU will die Chatkontrolle am Mittwoch, den 19. Juni, abstimmen lassen. Nach einem weiteren Hütchenspielertrick, den massenhaften Angriff auf Verschlüsselung nicht als solchen erscheinen zu lassen, wackelt nun der Widerstand Frankreichs. Der CCC erinnert daran, dass sich an der Verordnung nichts Nennenswertes geändert hat. 
 
 <https://www.ccc.de/de/updates/2024/chatkontrolle-kuhhandel-wahrend-niemand-hinschaut>
 

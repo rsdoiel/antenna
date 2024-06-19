@@ -1,11 +1,178 @@
 ---
 title: writing 2024.25
-updated: 2024-06-18 08:12:55
+updated: 2024-06-19 08:57:13
 ---
 
 # writing 2024.25
 
-(date: 2024-06-18 08:12:55)
+(date: 2024-06-19 08:57:13)
+
+---
+
+## Wole Talabi Reviews In the Shadow of the Fall by Tobi Ogundiran
+
+date: 2024-06-19, from: Locus Magazine
+
+<p><strong>In the Shadow of the Fall</strong>, Tobi Ogundiran (Tordotcom 978-1-25090-796-7, $20.99, 160pp, hc). July 2024.</p>
+<p>Less than a year ago, Tobi Ogundiran pre­sented us with <strong>Jackal, Jackal, </strong>a delightful selection of dark tales accessibly infused with legends and folklore. One of those stories was ‘‘Guardian of the Gods’’ (first published in FIYAH), which tells the story of Ashâke, an acolyte who can’t hear the gods speak. I reviewed it  <a href="https://locusmag.com/2024/06/wole-talabi-reviews-in-the-shadow-of-the-fall-by-tobi-ogundiran/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/wole-talabi-reviews-in-the-shadow-of-the-fall-by-tobi-ogundiran/>
+
+---
+
+## How to Make a PDF of Your Scrivener Project
+
+date: 2024-06-19, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p>As you&rsquo;re working on your project, you may want to create a PDF of your manuscript, or of parts of the project. This can be handy if you want to print out some of your text to edit it, or if you want to share it with someone: a friend, a beta reader, a critique partner, or an agent. You might even want to save your project as a PDF as a backup, just in case.</p>
+
+<p>Scrivener gives you several ways to do this: you can &zwnj;compile the entire project as a PDF, you can print (Mac) or export (Windows) the project as a PDF, or you can print or export selected documents from your Binder as PDF files, if you don&rsquo;t want to create a PDF of your entire project.</p>
+
+Compile your project as a PDF
+
+<p>When you compile your Scrivener project, you tell Scrivener to paste together all the elements in your Binder and format them according to <a href="https://www.literatureandlatte.com/blog/using-section-layouts-to-compile-your-scrivener-project" target="_blank">the section layouts you&rsquo;ve chosen</a>. This allows you to choose precise formatting: font, size, line spacing, margins, and more.</p>
+
+<p>You can compile Scrivener projects to a number of formats, such as .docx or RTF, ebooks, and even plain text. But you can also choose to compile to a PDF, which will create a sharable document of your entire project.</p>
+
+<p>Your compiled project can look very different from what you see in Scrivener, if you&rsquo;ve set the Editor view and formatting to be as comfortable as possible when you&rsquo;re writing. You may use a large font when writing, but you may want to create a PDF in a 12 point font, which is easier to read. This can be especially useful if you want to print your draft to edit it on paper.</p>
+
+<p>See <a href="https://www.literatureandlatte.com/blog/compiling-your-scrivener-project-the-basics" target="_blank">Compiling Your Scrivener Project: The Basics</a> to learn how to compile your project as a PDF, and in other formats.</p>
+
+Print a PDF
+
+<p>While you don&rsquo;t actually print a PDF - it&rsquo;s a digital document - you can use the print function on a Mac or a Windows PC to create a PDF. This is a quick way of generating a PDF of your manuscript, but it doesn&rsquo;t change the formatting like when you compile the project. The PDF will retain the font and size you have set in the Editor, as well as any other formatting you&rsquo;ve applied.</p>
+
+<p>To print a PDF on a Mac, click the top-level folder in the Binder: this is generally Draft or Manuscript. Choose File &gt; Print Current Document, then click PDF at the bottom of the window and choose Save as PDF. Select a location to save the file, then click Save.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-articles/pdf1.png" alt=""  />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>On Windows, you can&rsquo;t print by selecting the top-level Draft or Manuscript folder. You can, however select any other folder, which displays all its contents in <a href="https://www.literatureandlatte.com/blog/view-and-edit-multiple-documents-with-scrivenings" target="_blank">Scrivenings view</a>.</p>
+
+<p>Choose File &gt; Print Current Document, and choose Microsoft Print to PDF from the Printer menu. Click Print, then enter a name for the PDF and choose a location to save the file, and click Save. You won&rsquo;t get a single document of your entire project, but you can use Acrobat Reader, if you have this installed, or you can use <a href="https://www.adobe.com/uk/acrobat/online/merge-pdf.html" target="_blank">Adobe&rsquo;s online Merge PDF tool</a> to upload the files and download a single file. Many Windows PDF viewers and tools can also merge files like this.</p>
+
+Save selected files as a PDF
+
+<p>You may not want to save your entire project as a PDF, but only certain parts of it. You can do this to to re-read or edit individual scenes or chapters as you&rsquo;re progressing with your project, or send excerpts of your project to a critique partner or agent.</p>
+
+<p>To do this on Mac, select one or more files in the Binder, then use the Print Current Document command as just above. You can select multiple contiguous files by clicking on the first file you want to save, pressing Shift, then clicking on the last file. To select non-contiguous files, click on the first one, then press Command (Mac) or Ctrl (Windows). Each time you click on another file, as long as you hold down the modifier key, that file will be selected.</p>
+
+<p>On Mac, choose File &gt; Print Current Document, then proceed as above to save your selected files as a single PDF file.</p>
+
+<p>On Windows, once you&rsquo;ve selected files as above, choose Export &gt; Files &gt; Export Text Files as Adobe PDF. Click Export, and Scrivener exports each file as a separate PDF. You can then merge them, as explained above.</p>
+
+<p>It&rsquo;s easy and useful to save your Scrivener project, or parts of it, as a PDF. You may find this useful to be able to share your project with others, or when you want to revise or edit your work.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+ 
+
+<https://www.literatureandlatte.com/blog/how-to-make-a-pdf-of-your-scrivener-project>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-18, from: Neil Gaiman @ BlueSky)
+
+Henry Selick talks about the Coraline remaster ahead of the rerelease:
+https://variety.com/2024/film/global/henry-selick-remastered-coraline-laika-annecy-1236035190/#article-comments 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kv7q2xdxu22n>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-18, from: Neil Gaiman @ BlueSky)
+
+That's the one!
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kv7o7al53k2b>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-18, from: Neil Gaiman @ BlueSky)
+
+Google is always right.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kv7o6ptgj22n>
+
+---
+
+## The Bricks of Breaking In: How 'S.W.A.T' Co-Ep Kent Rotherham Found His Voice in the Writers' Room
+
+date: 2024-06-18, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/the-bricks-of-breaking-in-how-s.w.a.t-co-ep-kent-rotherham-found-his-voice-in-the-writers-room" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Bricks%20of%20Breaking%20In_%20Kent%20Rotherham.jpeg" alt="The Bricks of Breaking In: How 'S.W.A.T' Co-Ep Kent Rotherham Found His Voice in the Writers' Room" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>There are many avenues writers can take on their journey to becoming a television writer. One significant pathway is going the assistant route and working up the ranks to staff. </span></p> 
+
+<https://blog.finaldraft.com/the-bricks-of-breaking-in-how-s.w.a.t-co-ep-kent-rotherham-found-his-voice-in-the-writers-room>
+
+---
+
+## Crafting Your Ending
+
+date: 2024-06-18, from: John August blog
+
+In this compendium episode, John and Craig fast-forward to the third act to talk about endings. How do they work? What makes them great? And how do you fix them when they’re not working? They look at how to connect your ending to your characters, crafting a twist that surprises (but doesn’t confuse), the function [&#8230;]
+The post <a href="https://johnaugust.com/2024/crafting-your-ending">Crafting Your Ending</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/crafting-your-ending>
+
+---
+
+## Paula Guran Reviews The Angel of Indian Lake by Stephen Graham Jones
+
+date: 2024-06-18, from: Locus Magazine
+
+<p><strong>The Angel of Indian Lake</strong>, Stephen Graham Jones (Saga 978-1-66801-166-9, $28.99, 464pp, hc) March 2024.</p>
+<p>Jade Daniels – the uber-Final Girl – returns to the bloodily beleaguered town of Proofrock, Idaho, in <strong>The Angel of Indian Lake</strong>, the last installment of Stephen Graham Jones’s brilliant Indian Lake Trilogy. It’s October 2023, four years since the events of <strong>Don’t Fear the Reaper</strong>; eight years since we first met  <a href="https://locusmag.com/2024/06/paula-guran-reviews-the-angel-of-indian-lake-by-stephen-graham/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/paula-guran-reviews-the-angel-of-indian-lake-by-stephen-graham/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-18, from: Neil Gaiman @ BlueSky)
+
+When I met Ditko I didn't see the resemblance. It took Google to show it to us...
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kv7j2xxxbk2u>
 
 ---
 

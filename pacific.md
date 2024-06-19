@@ -1,11 +1,626 @@
 ---
 title: pacific 2024.25
-updated: 2024-06-18 08:12:52
+updated: 2024-06-19 08:57:04
 ---
 
 # pacific 2024.25
 
-(date: 2024-06-18 08:12:52)
+(date: 2024-06-19 08:57:04)
+
+---
+
+## Amata: Celebrate the cause of freedom
+
+date: 2024-06-19, updated: 2024-06-19, from: Marianas Variety
+
+WASHINGTON, D.C. (Office of the American Samoa Congressional Delegate) — U.S. Congresswoman Uifa’atali Amata is highlighting the national Juneteenth holiday, created by Congress in 2021. 
+
+<https://www.mvariety.com/news/national/amata-celebrate-the-cause-of-freedom/article_a38a637a-2e3e-11ef-b4f1-6751174ef5e1.html>
+
+---
+
+## Global security environment prompts US military 'to be perpetually ready’
+
+date: 2024-06-19, from: Pacific Island Times
+
+By Joseph Meyers Amid the alarming rise in global conflicts and regional tensions, Navy officials said the U.S. military is confident of... 
+
+<https://www.pacificislandtimes.com/post/global-security-environment-prompts-us-military-to-be-perpetually-ready>
+
+---
+
+## Aircraft carrier brings 5,000 sailors during port call on Guam
+
+date: 2024-06-19, from: Pacific Island Times
+
+By Joseph Meyers Guam will have a busy week with 5,000 sailors aboard the USS Ronald Reagan (CVN-76) who will be on liberty for "rest and... 
+
+<https://www.pacificislandtimes.com/post/aircraft-carrier-brings-5-000-sailors-during-port-call-on-guam>
+
+---
+
+## Remembering Willie Mays as both untouchable and human
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>At the end, the Say Hey Kid looked nothing like the extraordinary force who had been at the center of the American imagination for much of the 20th century.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/sports/remembering-willie-mays-as-both-untouchable-and-human/>
+
+---
+
+## Portugal 2 Czech Republic 1: Dramatic late winner boosts Cristiano Ronaldo and Co
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>Portugal&#8217;s blushes were spared as they came from behind to earn victory over the Czech Republic in their opening match at Euro 2024.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/sports/portugal-2-czech-republic-1-dramatic-late-winner-boosts-cristiano-ronaldo-and-co/>
+
+---
+
+## Connor McDavid, Oilers top Panthers, extend finals again
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>Connor McDavid scored twice in a four-point performance while leading Edmonton to a 5-3 victory over the Florida Panthers on Tuesday in Sunrise, Fla., as the Oilers staved off elimination for a second time in the Stanley Cup Final.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/sports/connor-mcdavid-oilers-top-panthers-extend-finals-again/>
+
+---
+
+## MLB roundup: Down 5 in 9th, Dodgers rally to top Rockies
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>Teoscar Hernandez followed Jason Heyward&#8217;s grand slam with a three-run homer in a seven-run ninth inning as the Los Angeles Dodgers rallied to beat the Colorado Rockies 11-9 on Tuesday in Denver.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/sports/mlb-roundup-down-5-in-9th-dodgers-rally-to-top-rockies/>
+
+---
+
+## Schauffele: Rory McIlroy in ‘tough spot’ due to intense microscope
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; As someone who has held the unofficial title of &#8220;best player yet to win a major,&#8221; Xander Schauffele can empathize with Rory McIlroy&#8217;s decision not to compete at this week&#8217;s Travelers Championship.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/sports/schauffele-rory-mcilroy-in-tough-spot-due-to-intense-microscope/>
+
+---
+
+## Obituaries for June 19
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>Michael &#8220;Mr. Bartelt&#8221; &#8221;Mr. Mike&#8221; R. Bartelt, 75, of Mountain View died June 3 at Hilo Benioff Medical Center. He was a food service manager at Waiakea Elementary, Intermediate and High and Mountain View Elementary schools, operated a used bookstore in Hilo and retired from the Hawaii Air National Guard and was a Vietnam War veteran. Private services and scattering of ashes at a later date. Condolences and memories to: Margaret A. Bartelt, P.O. Box 425, Kurtistown, HI 96760. Online condolences: homelanimemorialpark.com. Survived by former wife of 51 years, Margaret A. Bartelt; brothers, David Bartelt, Bill Bartelt, Tom (Peggy) Bartelt, Andy Bartelt and Jeffrey Bartelt; sisters, Julie (Mark) Daniels and Marie Rivera; sisters-in-law Jean (Robert) Hruska and Joyce (Bob) Luckow; brothers-in-law Fred (Marilyn) VanHandel and Luke (Ellen) VanHandel; nieces, nephews, grandnieces and grandnephews. Arrangements by Homelani Memorial Park.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/obituaries/obituaries-for-june-19-10/>
+
+---
+
+## Luka Doncic failed at the highest level. Now, he must learn from it
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; Luka Doncic said his final words about this Dallas Mavericks season, now concluded, before the Boston Celtics had even lifted their championship trophy to the sky.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/sports/luka-doncic-failed-at-the-highest-level-now-he-must-learn-from-it/>
+
+---
+
+## Presentation today about invasive beetle
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>The Hilo County Farm Bureau and the state Department of Agriculture will present, &#8220;Coconut rhinoceros beetle: pest threat and response&#8221; from 5 p.m. to 7 p.m. today at Hawaii Community College in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/community/presentation-today-about-invasive-beetle/>
+
+---
+
+## Public invited to attend free CERT training course
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County Civil Defense Agency has scheduled a free two-day Community Emergency Response Team Basic Training (CERT) course from 8 a.m. to 4:30 p.m. on Saturday, July 20, and Sunday, July 21, at the Old Kohala District Courthouse in Kapaau in North Kohala.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/community/public-invited-to-attend-free-cert-training-course/>
+
+---
+
+## HFS awards $45,000 in scholarships to students
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>This year, 10 scholarships were awarded by HFS Federal Credit Union to graduating Big Island high school seniors and five scholarships to current college students attending a two-year, four-year or graduate program.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/community/hfs-awards-45000-in-scholarships-to-students/>
+
+---
+
+## Public invited to ‘Coffee With a Cop’ events in Kona
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>West Hawaii residents are invited to attend three &#8220;Coffee With a Cop&#8221; events this month in Kona for an opportunity to get to know their district police officers.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/community/public-invited-to-coffee-with-a-cop-events-in-kona/>
+
+---
+
+## Hundreds of Keaau Elementary students participate in telescope outreach program
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>Subaru Telescope made it possible for nearly 650 elementary school students from Keaau Elementary School to visit its Hilo base facility this year as part of its continuing Subaru Stars program, now in its second year, that brings astronomy and STEM education to underserved communities across Hawaii Island.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/community/hundreds-of-keaau-elementary-students-participate-in-telescope-outreach-program/>
+
+---
+
+## ‘Critical fire conditions’ continue to hamper firefighting as blazes across California grow
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Crews battling wildfires across California on Tuesday, including the Post fire in Los Angeles County, face another day of gusty winds and low humidity that will push flames into tinder-dry fuel, weather forecasters warned.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/nation-world-news/critical-fire-conditions-continue-to-hamper-firefighting-as-blazes-across-california-grow/>
+
+---
+
+## Putin flies into North Korea with promise to back it against the US
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL/MOSCOW &#8212; Russian President Vladimir Putin arrived in North Korea on Wednesday for his first visit in 24 years, vowing to deepen trade and security ties with the reclusive nuclear-armed state and to support it against the United States.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/nation-world-news/putin-flies-into-north-korea-with-promise-to-back-it-against-the-us/>
+
+---
+
+## Titan disaster forces global rethinking of deep sea exploration
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>When five men died on June 18, 2023, in the implosion of the Titan submersible during a dive to the Titanic&#8217;s resting place, the knowledge of Paul-Henri Nargeolet was lost, too. It was Nargeolet&#8217;s 38th dive to the sunken liner. Known as Mr. Titanic, he helped retrieve thousands of artifacts that have been displayed in museums and at events around the world.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/nation-world-news/titan-disaster-forces-global-rethinking-of-deep-sea-exploration/>
+
+---
+
+## Police arrest 25 for DUI
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>During the week of June 10-16, Hawaii Island police arrested 25 motorists for DUI. Five of the drivers were involved in a traffic accident. Two of the drivers were younger than 21.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/hawaii-news/police-arrest-25-for-dui-19/>
+
+---
+
+## Lahaina homes face 20% turnover in 3 years
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>A new report released Monday by the Hawaii Land Trust indicates that without intervention Lahaina could see an estimated 6.5% of residential properties totaling $122 million change hands over a year, and within three years a 20% turnover of ownership equating to at least $360 million.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/nation-world-news/lahaina-homes-face-20-turnover-in-3-years/>
+
+---
+
+## Call center nearly complete: Police and fire dispatchers could move in this September
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County&#8217;s police and fire dispatchers are getting closer to moving into a new call center that has been under construction since October 2021.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/hawaii-news/call-center-nearly-complete-police-and-fire-dispatchers-could-move-in-this-september/>
+
+---
+
+## After 2 serious 737 Max engine incidents at Southwest, Boeing alerts pilots
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>Last year, two Southwest Airlines 737 Max jets lost engines on takeoff after striking large birds, emergencies made much more serious when smoke and fumes penetrated inside the airplanes.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/nation-world-news/after-2-serious-737-max-engine-incidents-at-southwest-boeing-alerts-pilots/>
+
+---
+
+## Missing Puna man still sought
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>Police are renewing their request for any information relative to the disappearance of 33-year-old Justin Kawika Ferreira of Puna.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/hawaii-news/missing-puna-man-still-sought/>
+
+---
+
+## Neighbors help man escape house fire
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>Neighbors assisted a man to escape his burning Hawaiian Paradise Park home early Tuesday morning.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/hawaii-news/neighbors-help-man-escape-house-fire/>
+
+---
+
+## Leases awarded for Hawaiian homestead on Maui
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>Homeownership is on the near horizon for an initial group of Native Hawaiian households to benefit from a historic 2022 appropriation by the state Legislature.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/hawaii-news/leases-awarded-for-hawaiian-homestead-on-maui/>
+
+---
+
+## SCOTUS ruling hints end is near for effort to make climate policy in state courts
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>If a beach erodes in Honolulu, can a company be sued for producing oil in Holland? And under Hawaii state laws to boot?</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/hawaii-news/scotus-ruling-hints-end-is-near-for-effort-to-make-climate-policy-in-state-courts/>
+
+---
+
+## Israel and Hezbollah play a risky tit-for-tat, leaving region on edge
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; As the war has raged in the Gaza Strip, another battle has unfurled in parallel along Israel&#8217;s northern border with Lebanon &#8212; a risky game of tit-for-tat that has intensified in recent weeks, with a far stronger foe.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/nation-world-news/israel-and-hezbollah-play-a-risky-tit-for-tat-leaving-region-on-edge/>
+
+---
+
+## Boeing CEO blasted in US Senate hearing while apologizing for safety woes
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Shortly after Boeing CEO Dave Calhoun took his seat Tuesday, families who lost relatives in the 2018 and 2019 crashes of the company&#8217;s 737 Max 8 planes called out to him, demanding that he turn around and acknowledge them and the photos of their loved ones.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/nation-world-news/boeing-ceo-blasted-in-us-senate-hearing-while-apologizing-for-safety-woes/>
+
+---
+
+## Trump decries state of economy in Wisconsin city where his promise of jobs fell short
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>RACINE, Wisconsin (Reuters) &#8212; Donald Trump addressed supporters on Tuesday at a rally in Racine, Wisconsin, seeking to present himself as the best candidate for the U.S. economy even as a major local factory that he broke ground on six years ago ended up a flop.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/nation-world-news/trump-decries-state-of-economy-in-wisconsin-city-where-his-promise-of-jobs-fell-short/>
+
+---
+
+## New York’s highest court rejects Trump’s appeal of gag order in hush money case
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; New York&#8217;s highest court rejected Donald Trump&#8217;s appeal of the gag order in his hush-money case in a terse decision Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/nation-world-news/new-yorks-highest-court-rejects-trumps-appeal-of-gag-order-in-hush-money-case/>
+
+---
+
+## Justin Timberlake arrested for drunken driving in the Hamptons
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>Pop singer Justin Timberlake was arrested and charged with driving while intoxicated after failing to obey a stop sign and twice veering from his lane in the upscale Hamptons seaside area of New York, authorities said on Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/nation-world-news/justin-timberlake-arrested-for-drunken-driving-in-the-hamptons/>
+
+---
+
+## U.S. Senate passes bill to support advanced nuclear energy deployment
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; The U.S. Senate on Tuesday passed a bill to accelerate the deployment of nuclear energy capacity, including by speeding permitting and creating new incentives for advanced nuclear reactor technologies.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/nation-world-news/u-s-senate-passes-bill-to-support-advanced-nuclear-energy-deployment/>
+
+---
+
+## Biden gives legal protections to immigrant spouses of US citizens
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden on Tuesday granted far-reaching new protections for hundreds of thousands of immigrants who have been living in the United States illegally for years but are married to American citizens.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/nation-world-news/biden-gives-legal-protections-to-immigrant-spouses-of-us-citizens/>
+
+---
+
+## Nvidia eclipses Microsoft as world’s most valuable company
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>Nvidia became the world&#8217;s most valuable company on Tuesday, dethroning tech heavyweight Microsoft as its high-end processors play a central role in a scramble to dominate artificial intelligence technology.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/nation-world-news/nvidia-eclipses-microsoft-as-worlds-most-valuable-company/>
+
+---
+
+## Secret Service agent robbed at gunpoint on night of Biden’s LA gala
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>A U.S. Secret Service agent was robbed at gunpoint in Southern California over the weekend, on the same night that President Joe Biden was in Los Angeles for a reelection fundraiser, authorities said Monday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/nation-world-news/secret-service-agent-robbed-at-gunpoint-on-night-of-bidens-la-gala/>
+
+---
+
+## Hawaiian Word of the Week: Lā
+
+date: 2024-06-19, from: University of Hawaiʻi News
+
+<p>Lā&#8212;Day, date.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/18/hawaiian-word-of-the-week-la/">Hawaiian Word of the Week: Lā</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/18/hawaiian-word-of-the-week-la/>
+
+---
+
+## FestPAC 2024: Celebrating diversity and tradition
+
+date: 2024-06-19, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> and <abbr>UH</abbr> Mānoa played significant roles in the 13th Festival of Pacific Arts and Culture.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/18/festpac-2024-diversity-tradition/">FestPAC 2024: Celebrating diversity and tradition</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/18/festpac-2024-diversity-tradition/>
+
+---
+
+## USP ranked amongst top Universities in the 2024 THE Impact Rankings
+
+date: 2024-06-19, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) has been ranked in the 2024 Times Higher...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-ranked-amongst-top-universities-in-the-2024-the-impact-rankings/">USP ranked amongst top Universities in the 2024 THE Impact Rankings</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-ranked-amongst-top-universities-in-the-2024-the-impact-rankings/>
+
+---
+
+## Buddhist monks inspire peace at UH Mānoa
+
+date: 2024-06-19, from: University of Hawaiʻi News
+
+<p>The revered monks shared the importance of non-violence, in an effort to demonstrate how ancient wisdom can address modern challenges.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/18/buddhist-monks-inspire-peace/">Buddhist monks inspire peace at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/18/buddhist-monks-inspire-peace/>
+
+---
+
+## Waiawa inmates cook, earn Kapiʻolani CC culinary certificates
+
+date: 2024-06-19, from: University of Hawaiʻi News
+
+<p>The inmates served up a banquet menu with Persian, Thai and Hawaiian influences.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/18/waiawa-inmates-kapiolani-cc-culinary-certificates/">Waiawa inmates cook, earn Kapiʻolani <abbr>CC</abbr> culinary certificates</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/18/waiawa-inmates-kapiolani-cc-culinary-certificates/>
+
+---
+
+## ʻImi Hoʻōla graduates secure JABSOM admission
+
+date: 2024-06-18, from: University of Hawaiʻi News
+
+<p>The program has guided more than 300 students from disadvantaged backgrounds toward medical careers.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/18/imi-hoola-2024-graduates/">ʻImi Hoʻōla graduates secure <abbr>JABSOM</abbr> admission</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/18/imi-hoola-2024-graduates/>
+
+---
+
+## Five Rainbow Wahine named academic all-district
+
+date: 2024-06-18, from: University of Hawaiʻi News
+
+<p>The <abbr>UH</abbr> Mānoa women’s track and field team honorees are Helen Hoadley, Hallee Mohr, Lilian Turban, Tara Wyllie and Amy Warrington.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/18/five-rainbow-wahine-named-academic-all-district/">Five Rainbow Wahine named academic all-district</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/18/five-rainbow-wahine-named-academic-all-district/>
+
+---
+
+## UH student-built satellite selected for NASA launch
+
+date: 2024-06-18, from: University of Hawaiʻi News
+
+<p>A <abbr>UH</abbr> student group was selected to launch their satellite to space through <abbr>NASA</abbr>’s CubeSat Launch Initiative.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/18/student-built-satellite-nasa/"><abbr>UH</abbr> student-built satellite selected for <abbr>NASA</abbr> launch</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/18/student-built-satellite-nasa/>
+
+---
+
+## NVIDIA visits UH Esports to talk jobs; new scholarships for students
+
+date: 2024-06-18, from: University of Hawaiʻi News
+
+<p>NVIDIA’s emphasis on hiring gamers was a real eye opener to the <abbr>UH</abbr> Mānoa students.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/18/nvidia-visits-uh-esports/">NVIDIA visits <abbr>UH</abbr> Esports to talk jobs; new scholarships for students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/18/nvidia-visits-uh-esports/>
+
+---
+
+## Record $5M for Hawaiʻi Promise scholarships at UH Community Colleges
+
+date: 2024-06-18, from: University of Hawaiʻi News
+
+<p>More funds are available to help eligible <abbr>UH</abbr> Community College students with tuition, fees, books and supplies.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/18/record-5m-for-hawaii-promise-scholarships/">Record $5M for Hawaiʻi Promise scholarships at <abbr>UH</abbr> Community Colleges</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/18/record-5m-for-hawaii-promise-scholarships/>
+
+---
+
+## Biden offers path to citizenship to spouses of US citizens in election-year gambit
+
+date: 2024-06-18, updated: 2024-06-19, from: Marianas Variety
+
+WASHINGTON (Reuters) — President Joe Biden on Tuesday will announce a program offering a path to citizenship to hundreds of thousands of immigrants in the U.S. illegally who are married to U.S. citizens, a large-scale legalization effort that contrasts sharply with Republican rival Donald Trump's plan for mass deportations. 
+
+<https://www.mvariety.com/news/national/biden-offers-path-to-citizenship-to-spouses-of-us-citizens-in-election-year-gambit/article_6037b944-2d83-11ef-8e51-3b2008b700db.html>
+
+---
+
+## Putin vows to support North Korea against the United States
+
+date: 2024-06-18, updated: 2024-06-19, from: Marianas Variety
+
+SEOUL/MOSCOW (Reuters) — Russian President Vladimir Putin vowed on Tuesday to deepen trade and security ties with North Korea and to support it against the United States, as he headed to the reclusive nuclear-armed country for the first time in 24 years. 
+
+<https://www.mvariety.com/news/regional_world/putin-vows-to-support-north-korea-against-the-united-states/article_113064d2-2d82-11ef-8bea-7f424c44533f.html>
+
+---
+
+## A grandmother goes for high-action stunts in ‘Thelma’
+
+date: 2024-06-18, updated: 2024-06-19, from: Marianas Variety
+
+(Reuters) — At 94 years old, actor June Squibb had to convince filmmakers that she could do a lot of her own stunts in the action-packed comedy film "Thelma," about a grandmother seeking revenge. 
+
+<https://www.mvariety.com/lifestyle/a-grandmother-goes-for-high-action-stunts-in-thelma/article_27987204-2d92-11ef-b4c2-a73792af96ce.html>
+
+---
+
+## Brad Pitt's F1 movie set for release in June 2025
+
+date: 2024-06-18, updated: 2024-06-19, from: Marianas Variety
+
+(Reuters) — Brad Pitt's as-yet unnamed Formula One movie will be released globally on June 25 next year, with a North American debut two days later, F1 and Apple Original Films announced on Tuesday. 
+
+<https://www.mvariety.com/lifestyle/brad-pitts-f1-movie-set-for-release-in-june-2025/article_751ef804-2d92-11ef-97b2-6f3191c81ba1.html>
+
+---
+
+## S&P 500, Dow rise after soft retail sales data; eyes on Fed speakers
+
+date: 2024-06-18, updated: 2024-06-19, from: Marianas Variety
+
+(Reuters) — The S&amp;P 500 and the Dow rose on Tuesday following softer-than-expected U.S. retail sales numbers, with focus on commentary from a slew of Federal Reserve officials later in the day. 
+
+<https://www.mvariety.com/business/business_news/s-p-500-dow-rise-after-soft-retail-sales-data-eyes-on-fed-speakers/article_16d576fe-2d8f-11ef-b489-ab4771b96df4.html>
+
+---
+
+## Football fever inspires unusual opera in Germany
+
+date: 2024-06-18, updated: 2024-06-19, from: Marianas Variety
+
+HAMBURG, Germany (Reuters) — Football fever at Euro 2024 in Germany is being felt not only inside packed stadiums, raucous bars and heaving city squares — but also in the more rarefied atmosphere of an opera house. 
+
+<https://www.mvariety.com/lifestyle/football-fever-inspires-unusual-opera-in-germany/article_ccce945c-2d91-11ef-acfa-87d3d7be48d0.html>
+
+---
+
+## Thank you from Tinian
+
+date: 2024-06-18, updated: 2024-06-19, from: Marianas Variety
+
+Big shout out and thank you to Borderline/Allstar Sporting Goods and Fishing Tackle &amp; Sporting Goods for your kind and ample donations to Tinian's newly renovated Little League Baseball Field! Your generosity is helping shape the next generation of champions by allowing our youth to discover their potential both on and off the field. 
+
+<https://www.mvariety.com/news/community_bulletins/thank-you-from-tinian/article_635c2d0e-2d8c-11ef-8880-3bb177cfaf35.html>
+
+---
+
+## Erica Leon Guerrero's OSU success story
+
+date: 2024-06-18, updated: 2024-06-19, from: Marianas Variety
+
+CORVALLIS, Ore. — In a testament to perseverance and dedication, Erica Jonette Leon Guerrero, daughter of Juan and Juana Leon Guerrero, a graduating senior at Oregon State University, has triumphed over the challenges of online education in the Commonwealth of the Northern Mariana Islands. Despite the geographical distance, Erica Leon Guerrero has successfully navigated the digital landscape of higher education to earn a well-deserved degree. 
+
+<https://www.mvariety.com/news/community_bulletins/erica-leon-guerreros-osu-success-story/article_91653d18-2d8b-11ef-ac55-cb42c80d107e.html>
+
+---
+
+## CNMI Operation Wellness includes veterinary services
+
+date: 2024-06-18, updated: 2024-06-19, from: Marianas Variety
+
+VETERINARY services at no cost to pet owners are available on Saipan, Tinian, and Rota as part of CNMI Operation Wellness. 
+
+<https://www.mvariety.com/news/local/cnmi-operation-wellness-includes-veterinary-services/article_03ace2f4-2d3c-11ef-bcfc-c7d3c2873e56.html>
 
 ---
 
@@ -351,7 +966,7 @@ date: 2024-06-18, from: Island Times
 
 date: 2024-06-18, from: Island Times
 
-<figure><img width="621" height="510" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-establish-diplomatic-ties-with-Ukraine.jpg?fit=621%2C510&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-establish-diplomatic-ties-with-Ukraine.jpg?w=621&amp;ssl=1 621w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-establish-diplomatic-ties-with-Ukraine.jpg?resize=300%2C246&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-establish-diplomatic-ties-with-Ukraine.jpg?resize=400%2C329&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-establish-diplomatic-ties-with-Ukraine.jpg?fit=621%2C510&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70811" data-permalink="https://islandtimes.org/palau-establishes-diplomatic-relations-with-ukraine-calls-for-end-to-war/palau-establish-diplomatic-ties-with-ukraine/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-establish-diplomatic-ties-with-Ukraine.jpg?fit=621%2C510&amp;ssl=1" data-orig-size="621,510" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Palau establish diplomatic ties with Ukraine" data-image-description="" data-image-caption="&lt;p&gt;Photo credit: Office of the President&lt;/p&gt;
+<figure><img width="621" height="510" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-establish-diplomatic-ties-with-Ukraine.jpg?fit=621%2C510&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-establish-diplomatic-ties-with-Ukraine.jpg?w=621&amp;ssl=1 621w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-establish-diplomatic-ties-with-Ukraine.jpg?resize=300%2C246&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-establish-diplomatic-ties-with-Ukraine.jpg?resize=400%2C329&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-establish-diplomatic-ties-with-Ukraine.jpg?fit=621%2C510&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70811" data-permalink="https://islandtimes.org/palau-establishes-diplomatic-relations-with-ukraine-calls-for-end-to-war/palau-establish-diplomatic-ties-with-ukraine/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-establish-diplomatic-ties-with-Ukraine.jpg?fit=621%2C510&amp;ssl=1" data-orig-size="621,510" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Palau establish diplomatic ties with Ukraine" data-image-description="" data-image-caption="&lt;p&gt;Photo credit: Office of the President&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-establish-diplomatic-ties-with-Ukraine.jpg?fit=300%2C246&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-establish-diplomatic-ties-with-Ukraine.jpg?fit=621%2C510&amp;ssl=1" /></figure>
 <p>Geneva, Switzerland &#8211; President Surangel Whipps Jr. of Palau met with Ukrainian President Volodymyr Zelenskyy on the sidelines of the Global Peace Summit in Switzerland, marking the first high-level contact between the two nations. The leaders formalized their new relationship by signing a Joint Communiqué with their respective foreign ministers, establishing diplomatic relations between Palau [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/palau-establishes-diplomatic-relations-with-ukraine-calls-for-end-to-war/">Palau Establishes Diplomatic Relations with Ukraine, Calls for End to War</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
@@ -401,7 +1016,7 @@ date: 2024-06-18, from: Island Times
 
 date: 2024-06-18, from: Island Times
 
-<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?w=6000&amp;ssl=1 6000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=1568%2C882&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=2000%2C1125&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70806" data-permalink="https://islandtimes.org/palau-visitors-authority-strengthens-presence-in-taiwan-at-taipei-tourism-expo/pva-trade-show-in-taiwan-with-china-airlines/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?fit=6000%2C3375&amp;ssl=1" data-orig-size="6000,3375" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="PVA Trade Show in Taiwan with China Airlines" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?fit=780%2C439&amp;ssl=1" /></figure>
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?w=6000&amp;ssl=1 6000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=1568%2C882&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=2000%2C1125&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70806" data-permalink="https://islandtimes.org/palau-visitors-authority-strengthens-presence-in-taiwan-at-taipei-tourism-expo/pva-trade-show-in-taiwan-with-china-airlines/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?fit=6000%2C3375&amp;ssl=1" data-orig-size="6000,3375" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="PVA Trade Show in Taiwan with China Airlines" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Trade-Show-in-Taiwan-with-China-Airlines.png?fit=780%2C439&amp;ssl=1" /></figure>
 <p>The Palau Visitors Authority (PVA) participated in the Taipei Tourism Expo (TTE) 2024, held from May 31 to June 3, to solidify its position in the Taiwanese market, a key source of visitors for Palau. Recognizing the importance of Taiwanese travelers, the PVA aimed to build stronger connections and encourage continued visitor growth. The expo [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/palau-visitors-authority-strengthens-presence-in-taiwan-at-taipei-tourism-expo/">Palau Visitors Authority Strengthens Presence in Taiwan at Taipei Tourism Expo</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -426,7 +1041,7 @@ date: 2024-06-18, from: Island Times
 
 date: 2024-06-18, from: Island Times
 
-<figure><img width="225" height="224" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?fit=225%2C224&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?w=225&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?fit=225%2C224&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?fit=225%2C224&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70798" data-permalink="https://islandtimes.org/make-living-life-intentional/images-2-3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?fit=225%2C224&amp;ssl=1" data-orig-size="225,224" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (2)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?fit=225%2C224&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?fit=225%2C224&amp;ssl=1" /></figure>
+<figure><img width="225" height="224" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?fit=225%2C224&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?w=225&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?fit=225%2C224&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?fit=225%2C224&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70798" data-permalink="https://islandtimes.org/make-living-life-intentional/images-2-3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?fit=225%2C224&amp;ssl=1" data-orig-size="225,224" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (2)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?fit=225%2C224&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/images-2.png?fit=225%2C224&amp;ssl=1" /></figure>
 <p>The natural human desire to explore and discover new experiences is often hindered by our fear of change and the pressure to fit in with the crowd. We can’t allow our fears to choose the path of least resistance. Our fear of change and the unknown has made us complacent in our comfort zones, suppressing [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/make-living-life-intentional/">Make Living Life Intentional</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -439,7 +1054,7 @@ date: 2024-06-18, from: Island Times
 
 date: 2024-06-18, from: Island Times
 
-<figure><img width="920" height="920" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?fit=920%2C920&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?w=920&amp;ssl=1 920w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?fit=920%2C920&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70796" data-permalink="https://islandtimes.org/without-nuclear-it-will-be-almost-impossible-to-decarbonise-by-2050-un-atomic-energy-chief/opinion-according-to-microphone-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?fit=920%2C920&amp;ssl=1" data-orig-size="920,920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="opinion-according-to-microphone" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?fit=780%2C780&amp;ssl=1" /></figure>
+<figure><img width="920" height="920" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?fit=920%2C920&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?w=920&amp;ssl=1 920w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?fit=920%2C920&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70796" data-permalink="https://islandtimes.org/without-nuclear-it-will-be-almost-impossible-to-decarbonise-by-2050-un-atomic-energy-chief/opinion-according-to-microphone-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?fit=920%2C920&amp;ssl=1" data-orig-size="920,920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="opinion-according-to-microphone" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-according-to-microphone-1.png?fit=780%2C780&amp;ssl=1" /></figure>
 <p>NEW YORK (UN NEWS CENTRE) &#8212; Although nuclear energy is widely used for electricity production, it has often faced an image problem, particularly in the wake of accidents such as the 1985 Chernobyl disaster, the 2011 Fukushima accident or, more recently, the occupation by Russian forces of the Zaporizhzhia nuclear power plant in Ukraine. The [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/without-nuclear-it-will-be-almost-impossible-to-decarbonise-by-2050-un-atomic-energy-chief/">‘Without nuclear, it will be almost impossible to decarbonise by 2050’, UN atomic energy chief</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -500,7 +1115,7 @@ date: 2024-06-18, from: Island Times
 
 date: 2024-06-18, from: Island Times
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-back-home.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-back-home.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-back-home.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-back-home.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-back-home.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-back-home.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-back-home.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70785" data-permalink="https://islandtimes.org/celtics-back-home-with-chance-to-close-out-mavericks-and-clinch-record-18th-nba-championship/celtics-back-home/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-back-home.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Sam Hodde&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Dallas Mavericks center Dereck Lively II hangs from the rim after a basket against the Boston Celtics during the first half in Game 3 of the NBA basketball finals, Wednesday, June 12, 2024, in Dallas. (AP Photo\/Sam Hodde)&quot;,&quot;created_timestamp&quot;:&quot;1718224260&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;400&quot;,&quot;iso&quot;:&quot;3200&quot;,&quot;shutter_speed&quot;:&quot;0.000625&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Celtics back home" data-image-description="" data-image-caption="&lt;p&gt;Dallas Mavericks center Dereck Lively II hangs from the rim after a basket against the Boston Celtics during the first half in Game 3 of the NBA basketball finals, Wednesday, June 12, 2024, in Dallas. (AP Photo/Sam Hodde)&lt;/p&gt;
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-back-home.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-back-home.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-back-home.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-back-home.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-back-home.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-back-home.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-back-home.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70785" data-permalink="https://islandtimes.org/celtics-back-home-with-chance-to-close-out-mavericks-and-clinch-record-18th-nba-championship/celtics-back-home/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-back-home.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Sam Hodde&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Dallas Mavericks center Dereck Lively II hangs from the rim after a basket against the Boston Celtics during the first half in Game 3 of the NBA basketball finals, Wednesday, June 12, 2024, in Dallas. (AP Photo\/Sam Hodde)&quot;,&quot;created_timestamp&quot;:&quot;1718224260&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;400&quot;,&quot;iso&quot;:&quot;3200&quot;,&quot;shutter_speed&quot;:&quot;0.000625&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Celtics back home" data-image-description="" data-image-caption="&lt;p&gt;Dallas Mavericks center Dereck Lively II hangs from the rim after a basket against the Boston Celtics during the first half in Game 3 of the NBA basketball finals, Wednesday, June 12, 2024, in Dallas. (AP Photo/Sam Hodde)&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-back-home.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-back-home.jpg?fit=780%2C520&amp;ssl=1" /></figure>
 <p>By JIMMY GOLEN AP Sports Writer BOSTON (AP) — The Boston Celtics’ catastrophic performance in Game 4 of the NBA Finals gave them a chance to clinch another championship on Monday night under the 17 banners already hanging in the TD Garden rafters. And, coach Joe Mazzulla reminded them, that they would still have two [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/celtics-back-home-with-chance-to-close-out-mavericks-and-clinch-record-18th-nba-championship/">Celtics back home with chance to close out Mavericks and clinch record 18th NBA championship</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
@@ -526,7 +1141,7 @@ date: 2024-06-18, from: Island Times
 
 date: 2024-06-18, from: Island Times
 
-<figure><img width="1024" height="614" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Japanese-slugger.jpg?fit=1024%2C614&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Japanese-slugger.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Japanese-slugger.jpg?resize=300%2C180&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Japanese-slugger.jpg?resize=768%2C461&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Japanese-slugger.jpg?resize=400%2C240&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Japanese-slugger.jpg?resize=706%2C423&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Japanese-slugger.jpg?fit=1024%2C614&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70782" data-permalink="https://islandtimes.org/japanese-slugger-rintaro-sasaki-blazing-his-own-baseball-path-in-us-via-stanford-mlb-draft-league/japanese-slugger/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Japanese-slugger.jpg?fit=1024%2C614&amp;ssl=1" data-orig-size="1024,614" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS R6&quot;,&quot;caption&quot;:&quot;Trenton Thunder first baseman Rintaro Sasaki (49) fields a ground ball before a baseball game against the Frederick Keys, Tuesday, June 11, 2024, in Frederick, Md. The 19-year-old prospect will make his U.S. debut Tuesday in the MLB Draft League, playing for the Trenton Thunder of New Jersey along with others hoping to one day develop into major leaguers.(AP Photo\/Daniel Kucin Jr.)&quot;,&quot;created_timestamp&quot;:&quot;1718126903&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;560&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.00015625&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Japanese slugger" data-image-description="" data-image-caption="&lt;p&gt;Trenton Thunder first baseman Rintaro Sasaki (49) fields a ground ball before a baseball game against the Frederick Keys, Tuesday, June 11, 2024, in Frederick, Md. The 19-year-old prospect will make his U.S. debut Tuesday in the MLB Draft League, playing for the Trenton Thunder of New Jersey along with others hoping to one day develop into major leaguers.(AP Photo/Daniel Kucin Jr.)&lt;/p&gt;
+<figure><img width="1024" height="614" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Japanese-slugger.jpg?fit=1024%2C614&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Japanese-slugger.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Japanese-slugger.jpg?resize=300%2C180&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Japanese-slugger.jpg?resize=768%2C461&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Japanese-slugger.jpg?resize=400%2C240&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Japanese-slugger.jpg?resize=706%2C423&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Japanese-slugger.jpg?fit=1024%2C614&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70782" data-permalink="https://islandtimes.org/japanese-slugger-rintaro-sasaki-blazing-his-own-baseball-path-in-us-via-stanford-mlb-draft-league/japanese-slugger/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Japanese-slugger.jpg?fit=1024%2C614&amp;ssl=1" data-orig-size="1024,614" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS R6&quot;,&quot;caption&quot;:&quot;Trenton Thunder first baseman Rintaro Sasaki (49) fields a ground ball before a baseball game against the Frederick Keys, Tuesday, June 11, 2024, in Frederick, Md. The 19-year-old prospect will make his U.S. debut Tuesday in the MLB Draft League, playing for the Trenton Thunder of New Jersey along with others hoping to one day develop into major leaguers.(AP Photo\/Daniel Kucin Jr.)&quot;,&quot;created_timestamp&quot;:&quot;1718126903&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;560&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.00015625&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Japanese slugger" data-image-description="" data-image-caption="&lt;p&gt;Trenton Thunder first baseman Rintaro Sasaki (49) fields a ground ball before a baseball game against the Frederick Keys, Tuesday, June 11, 2024, in Frederick, Md. The 19-year-old prospect will make his U.S. debut Tuesday in the MLB Draft League, playing for the Trenton Thunder of New Jersey along with others hoping to one day develop into major leaguers.(AP Photo/Daniel Kucin Jr.)&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Japanese-slugger.jpg?fit=300%2C180&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Japanese-slugger.jpg?fit=780%2C468&amp;ssl=1" /></figure>
 <p>AP-BBC&#8211;Stanford-Japanese Slugger, 1st Ld-Writethru By JANIE McCAULEY AP Baseball Writer Eds: UPDATES: Updates with Sasaki&#8217;s home run, debut stats, fresh photo links.; Updates Media. STANFORD, Calif. (AP) — When balls start landing on the Stanford football team’s practice grass way beyond the wall in right-center field, everybody knows Japanese slugger Rintaro Sasaki must be taking [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/japanese-slugger-rintaro-sasaki-blazing-his-own-baseball-path-in-us-via-stanford-mlb-draft-league/">Japanese slugger Rintaro Sasaki blazing his own baseball path in US via Stanford, MLB Draft League</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
@@ -564,6 +1179,18 @@ date: 2024-06-18, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/06/17/bachman-hall-renovation-modernized-preserved-historic-past/">Bachman Hall renovation modernized structure while preserving historic past</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/06/17/bachman-hall-renovation-modernized-preserved-historic-past/>
+
+---
+
+## Master of Education programme launched at USP RMI Campus
+
+date: 2024-06-18, from: University of the South Pacific (Fiji)
+
+<p>The Discipline of Education (DoE) and the Institute of Education (IoE) at The University of...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/master-of-education-programme-launched-at-usp-rmi-campus/">Master of Education programme launched at USP RMI Campus</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/master-of-education-programme-launched-at-usp-rmi-campus/>
 
 ---
 
