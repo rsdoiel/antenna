@@ -1,11 +1,512 @@
 ---
 title: pacific 2024.25
-updated: 2024-06-19 08:57:04
+updated: 2024-06-20 07:50:35
 ---
 
 # pacific 2024.25
 
-(date: 2024-06-19 08:57:04)
+(date: 2024-06-20 07:50:35)
+
+---
+
+## Akinas make their move in Manoa Cup early rounds
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>Kihei and Keanu Akina hauled their own golf clubs up and down the slopes of Oahu Country Club on Tuesday. With much of their family at a cheer camp they manage annually at UH-Manoa, the Akina brothers served as their own caddies at the Manoa Cup. While some struggled to find footing, the Akinas, Kahuku natives who moved to Utah eight years ago, stood unfazed, negotiating soft greens and 15 mph winds as they piled up birdies and notched big wins.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/sports/akinas-make-their-move-in-manoa-cup-early-rounds/>
+
+---
+
+## Are planes safe right now? How to understand flight disruptions.
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>Smoke in the cabin. A tire blowout. A cracked windshield. No shortage of problems can affect a flight, fueling traveler anxiety and contributing to thousands of daily delays and cancellations around the world.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/nation-world-news/are-planes-safe-right-now-how-to-understand-flight-disruptions/>
+
+---
+
+## Fed officials steer cautiously toward potential rate cuts
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; Federal Reserve officials, heartened by recent data, are looking for further confirmation that inflation is cooling and for any warning signs from a still-strong labor market as they steer cautiously toward what most expect to be an interest rate cut or two by the end of this year.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/nation-world-news/fed-officials-steer-cautiously-toward-potential-rate-cuts/>
+
+---
+
+## Inside the Celtics’ championship march to Banner 18: ‘We made all the sacrifices’
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; At shootaround before Game 3 of the second round, Jaylen Brown shrugged off a question about the Celtics&#8217; playoff struggles at home. They had dropped Game 2 at TD Garden for the second straight series, but Brown would not accept that they had a problem. In the past, sure, Boston had trouble protecting the parquet. Brown said the Celtics were focused on changing that narrative.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/sports/inside-the-celtics-championship-march-to-banner-18-we-made-all-the-sacrifices/>
+
+---
+
+## Getting real with the Dallas Cowboys Cheerleaders
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>They are famous for their jump splits and Rockette-style leg lifts; their big hair, blue sleeves and star-embroidered vests; and their white boots and bedazzled shorts. Their uniform is so iconic that it hangs in the Smithsonian.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/sports/getting-real-with-the-dallas-cowboys-cheerleaders/>
+
+---
+
+## HPD’s DUI arrests questioned; county auditor forwards complaint to Police Commission
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>When the Hawaii County Police Commission meets Friday, the agenda includes an unofficial complaint alleging the department&#8217;s officers automatically arrest and charge motorists with driving under the influence of intoxicants when drug paraphernalia is found.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/hawaii-news/hpds-dui-arrests-questioned-county-auditor-forwards-complaint-to-police-commission/>
+
+---
+
+## Council approves the use of eminent domain to get land for Pohoiki Road
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>A land dispute regarding a pair of Puna land parcels Hawaii County needs access to in order to reopen Pohoiki Road seems unlikely to be resolved cordially.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/hawaii-news/council-approves-the-use-of-eminent-domain-to-get-land-for-pohoiki-road/>
+
+---
+
+## Council OKs new regulations for bike tours
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>A proposed series of regulations for commercial bike tour groups has finally passed the County Council, albeit not without disagreements.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/hawaii-news/council-oks-new-regulations-for-bike-tours/>
+
+---
+
+## Report: New medical facility needed in Kailua-Kona
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>A new report about health care in West Hawaii recommends building a new hospital facility closer to Kailua-Kona.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/hawaii-news/report-new-medical-facility-needed-in-kailua-kona/>
+
+---
+
+## The Supreme Court averts disaster with mifepristone ruling
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>Last week, the nation dodged a bullet with the Supreme Court&#8217;s 9-0 decision tossing a lawsuit that had sought to end the decades-old FDA approval of the drug mifepristone, which is used in medication abortions. The trouble for the plaintiffs was that they could not point to any specific harm that they or anyone else suffered from the approval of a drug that is safer than most over-the-counter drugs.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/opinion/the-supreme-court-averts-disaster-with-mifepristone-ruling/>
+
+---
+
+## HCRA: Puna dominantes second regatta of season
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>Moku O Hawai&#8217;i Outrigger Canoe Racing Association saw its second regatta of the 2024 season last weekend in Hilo Bayfront.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/sports/hcra-puna-dominantes-second-regatta-of-season/>
+
+---
+
+## ‘Heat dome’ coming to California brings new challenge for firefighters
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Another bout of dangerous, triple-digit heat is headed for much of California&#8217;s interior this weekend, creating new concerns for firefighters battling wildfires across the state, including two that have surpassed 15,000 acres.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/nation-world-news/heat-dome-coming-to-california-brings-new-challenge-for-firefighters/>
+
+---
+
+## Israeli tanks push deeper into Rafah, forcing people to flee again
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO &#8212; Israeli tanks backed by warplanes and drones advanced deeper into the western part of the Gaza Strip city of Rafah on Wednesday, killing eight people, according to residents and Palestinian medics.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/nation-world-news/israeli-tanks-push-deeper-into-rafah-forcing-people-to-flee-again/>
+
+---
+
+## Obituaries for June 20
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>Lance Paul Larsen, 70, of Mountain View died May 17 at Hilo Benioff Medical Center. Born in Honolulu, Hawaii. He was a mechanic and Hawaiian patriot. Celebration of life 4-7 p.m. Sunday (June 23) at 455 Kihapai St., Kailua, Oahu. Survived by, children, Lance Paul Larsen Jr. and Michelle Kuulei Davis of Honolulu; mother, Claire J. Vega of Kailua, Oahu; siblings, Cynthia R. Larsen-Dias of Kailua, Oahu, Roxann J. Larsen-Lee of Waimanalo, Oahu, and David M. Larsen of Honolulu; nine grandchildren. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/obituaries/obituaries-for-june-20-11/>
+
+---
+
+## In rare rebuke, Toyota chair’s investor support tumbles
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>TOKYO &#8212; Investor support for Toyota Motor&#8217;s longtime leader, Akio Toyoda, sank to its lowest level since he took the helm as shareholders challenged the extent of control he exerts over the company.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/nation-world-news/in-rare-rebuke-toyota-chairs-investor-support-tumbles/>
+
+---
+
+## Federal dams harm Native American communities, US acknowledges
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>The federal government has released a report that for the first time acknowledges the harms that dams in the Pacific Northwest have &#8220;inflicted and continue to inflict&#8221; on Native American tribes, it said.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/nation-world-news/federal-dams-harm-native-american-communities-us-acknowledges/>
+
+---
+
+## The paranoid style in tariff policy
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>A few days ago Donald Trump floated a truly terrible, indeed unworkable economic proposal. I&#8217;m aware that many readers will say, &#8220;So what else is new?&#8221; But in so doing, you&#8217;re letting Trump benefit from the soft bigotry of rock-bottom expectations, not holding him to the standards that should apply to any presidential candidate. A politician shouldn&#8217;t be given a pass on nonsense because he talks nonsense all the time.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/opinion/the-paranoid-style-in-tariff-policy/>
+
+---
+
+## Downtown Honolulu is plagued by another power outage
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>Hawaiian Electric repair crews continued to work overnight after a power outage shut down downtown Honolulu &#8212; the second disruption in less than a week to affect the area.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/hawaii-news/downtown-honolulu-is-plagued-by-another-power-outage/>
+
+---
+
+## Hawaii hotel occupancy fell in May as softness continued
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>Summer isn&#8217;t coming in hot for Hawaii hoteliers, who saw hotel occupancy drop to its lowest level of the year in May and are expecting a continued slowdown.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/hawaii-news/hawaii-hotel-occupancy-fell-in-may-as-softness-continued/>
+
+---
+
+## New evidence Baldwin was reckless with gun before ‘Rust’ shooting, prosecutors say
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; New evidence shows that Alec Baldwin was reckless with a revolver before the weapon fired a live round that killed &#8220;Rust&#8221; cinematographer Halyna Hutchins in 2021, prosecutors alleged ahead of the actor&#8217;s July manslaughter trial.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/nation-world-news/new-evidence-baldwin-was-reckless-with-gun-before-rust-shooting-prosecutors-say/>
+
+---
+
+## A mysterious monolith appears near Las Vegas. Why? It’s anyone’s guess.
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>It looks like something out of a sci-fi movie. A tall, vertical column mirroring everything around it, with no explanation of its purpose and origin.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/nation-world-news/a-mysterious-monolith-appears-near-las-vegas-why-its-anyones-guess/>
+
+---
+
+## Ex-OCCC officer in murder, kidnapping case called ‘emotional’
+
+date: 2024-06-20, from: Hawaii Tribune Harold
+
+
+				<p>Police officers&#8217; testimony Tuesday provided clues as to what was on the mind of a then 44-year-old Oahu Community Correctional Center training officer after he allegedly fatally shot his 66-year-old mother eight years ago in his Maili home.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/20/hawaii-news/ex-occc-officer-in-murder-kidnapping-case-called-emotional/>
+
+---
+
+## RMI athletes shine
+
+date: 2024-06-20, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON Marshall Islands sports men and women turned in many outstanding performances in the early days of the Micronesian Games starting this past Saturday. It kicked off with RMI women’s basketball team winning the RMI’s first medal of the Games, a bronze in the 3&#215;3 basketball tournament, last Sunday afternoon. Winning the bronze for [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/rmi-athletes-shine/">RMI athletes shine</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/rmi-athletes-shine/>
+
+---
+
+## Anxiety, depression a major problem in space science community
+
+date: 2024-06-20, from: University of Hawaiʻi News
+
+<p>The severity of anxiety and depressive symptoms in the planetary science community is greater than in the general U.S. population.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/19/mental-health-space-science/">Anxiety, depression a major problem in space science community</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/19/mental-health-space-science/>
+
+---
+
+## $1.7M to help build resilient workforce in American Samoa
+
+date: 2024-06-20, from: University of Hawaiʻi News
+
+<p>This program will provide training and certifications focused on creating climate-ready positions.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/19/resilient-workforce-american-samoa/">$1.7M to help build resilient workforce in American Samoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/19/resilient-workforce-american-samoa/>
+
+---
+
+## Yap to begin canvassing votes cast in May 31 political status referendum
+
+date: 2024-06-20, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Yap Election Commission on Friday will begin tabulating the ballots cast during the May 31... 
+
+<https://www.pacificislandtimes.com/post/yap-to-begin-canvassing-votes-cast-in-may-31-political-status-referendum>
+
+---
+
+## RMI’s first Games medal
+
+date: 2024-06-20, from: Marshal Islands Journal
+
+<p>For the first time in Micronesian Games history, the 10th Games hosted a 3&#215;3 basketball competition with six men’s and five women’s teams participating. The two-day competition was dominated by Team Guam, with both their teams winning gold medals. The Saturday-Sunday tournament brought hundreds out to watch the games at the refurbished ECC gymnasium. RMI [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/rmis-first-games-medal/">RMI’s first Games medal</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/rmis-first-games-medal/>
+
+---
+
+## USP in the WURI Global Top 300 Innovative Universities
+
+date: 2024-06-20, from: University of the South Pacific (Fiji)
+
+<p>The 2024 World University Ranking for Innovation (WURI), released last week, ranked The University of...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-in-the-wuri-global-top-300-innovative-universities/">USP in the WURI Global Top 300 Innovative Universities</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-in-the-wuri-global-top-300-innovative-universities/>
+
+---
+
+## High-wattage opening for Micro Games
+
+date: 2024-06-19, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON The Micronesian Games kicked off in Majuro Saturday June 15 with a gala celebration that featured sports delegations from the 10 islands in the sub-region parading in uniform with flags and banners along a newly opened track field, a rarely performed traditional stick dance of the Marshall Islands, a Marshall Islands flag dance, and [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/high-wattage-opening-for-micro-games/">High-wattage opening for Micro Games</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/high-wattage-opening-for-micro-games/>
+
+---
+
+## Strengthening Seafood Safety and Quality and Empowering Fiji’s Seafood Industry
+
+date: 2024-06-19, from: University of the South Pacific (Fiji)
+
+<p>Eighteen trainees successfully graduated with micro qualification training in Maintaining Seafood Safety and Quality in...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/strengthening-seafood-safety-and-quality-and-empowering-fijis-seafood-industry/">Strengthening Seafood Safety and Quality and Empowering Fiji’s Seafood Industry</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/strengthening-seafood-safety-and-quality-and-empowering-fijis-seafood-industry/>
+
+---
+
+## 2 UH faculty awarded fellowship for global environmental leadership
+
+date: 2024-06-19, from: University of Hawaiʻi News
+
+<p>This program will offer Poonam Keral and Pamela Scheffler an opportunity to engage in field experiences across Botswana, Mexico, India, and Atlanta, Georgia.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/19/forsee-fellowship-keral-scheffler/">2 <abbr>UH</abbr> faculty awarded fellowship for global environmental leadership</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/19/forsee-fellowship-keral-scheffler/>
+
+---
+
+## ​​UH Mānoa humanities boosted by national delegation visit
+
+date: 2024-06-19, from: University of Hawaiʻi News
+
+<p>The <abbr>NEH</abbr> delegation also met with <abbr>UH</abbr> Mānoa faculty who received <abbr>NEH</abbr> funding, and learned about the lasting impact of their projects.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/19/national-endowment-for-the-humanities-visit/">​​<abbr>UH</abbr> Mānoa humanities boosted by national delegation visit</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/19/national-endowment-for-the-humanities-visit/>
+
+---
+
+## USP Lautoka Campus Hosts Dragon Boat Festival Cultural Exhibition
+
+date: 2024-06-19, from: University of the South Pacific (Fiji)
+
+<p>The Confucius Classroom at The University of the South Pacific (USP) Lautoka Campus hosted a...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-lautoka-campus-hosts-dragon-boat-festival-cultural-exhibition/">USP Lautoka Campus Hosts Dragon Boat Festival Cultural Exhibition</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-lautoka-campus-hosts-dragon-boat-festival-cultural-exhibition/>
+
+---
+
+## Image of the Week: Sculptor at work
+
+date: 2024-06-19, from: University of Hawaiʻi News
+
+<p>This week's image is sculptor Bumpei Akaji at work during his time at <abbr>UH</abbr> Mānoa.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/19/image-of-the-week-sculptor-at-work/">Image of the Week: Sculptor at work</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/19/image-of-the-week-sculptor-at-work/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2024-06-19, updated: 2024-06-20, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is now available at the Joeten Shopping Center in Susupe. 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## ‘Bikeriders’ maneuvers through 60's Chicago motorcycle gang life
+
+date: 2024-06-19, updated: 2024-06-20, from: Marianas Variety
+
+(Reuters) — For Austin Butler, getting into his role as the stoic bike rider named Benny in the Focus Features film “The Bikeriders” meant learning everything he could about riding a motorcycle. 
+
+<https://www.mvariety.com/lifestyle/bikeriders-maneuvers-through-60s-chicago-motorcycle-gang-life/article_956c4db4-2e3c-11ef-9f5f-abc0f397bd30.html>
+
+---
+
+## Pharrell Williams kicks off Paris Fashion Week with Louis Vuitton show at UNESCO
+
+date: 2024-06-19, updated: 2024-06-20, from: Marianas Variety
+
+PARIS (Reuters) — Louis Vuitton men's creative director Pharrell Williams took to an outdoor, turf-lined runway at UNESCO headquarters on Tuesday, opening Paris Fashion week with an evening show. 
+
+<https://www.mvariety.com/lifestyle/pharrell-williams-kicks-off-paris-fashion-week-with-louis-vuitton-show-at-unesco/article_f2f58b26-2e3c-11ef-b866-134b7859a34e.html>
+
+---
+
+## 'Bridgerton' showrunner teases 'extremely juicy' fourth season
+
+date: 2024-06-19, updated: 2024-06-20, from: Marianas Variety
+
+LONDON (Reuters) — Fans of the hit Netflix show "Bridgerton" can expect news of its fourth season "sooner rather than later," the series' writer and showrunner, Jess Brownell, said. 
+
+<https://www.mvariety.com/lifestyle/bridgerton-showrunner-teases-extremely-juicy-fourth-season/article_49f28154-2e3d-11ef-8ab6-13759d26d8d9.html>
+
+---
+
+## In South China Sea dispute, Philippines' bolder hand tests Beijing
+
+date: 2024-06-19, updated: 2024-06-20, from: Marianas Variety
+
+MANILA/HONG KONG (Reuters) — Huddled in the presidential situation room in February last year, senior Philippines officials faced a stark choice. 
+
+<https://www.mvariety.com/news/regional_world/in-south-china-sea-dispute-philippines-bolder-hand-tests-beijing/article_3940adbc-2e3e-11ef-9a96-eb6c04ed6679.html>
+
+---
+
+## Los Angeles school board votes to ban smartphones
+
+date: 2024-06-19, updated: 2024-06-20, from: Marianas Variety
+
+(Reuters) — The Los Angeles Unified School District Board of Education on Tuesday voted to ban smartphones for its 429,000 students in an attempt to insulate kids from distractions and social media that undermine learning and hurt mental health. 
+
+<https://www.mvariety.com/news/national/los-angeles-school-board-votes-to-ban-smartphones/article_d8606f36-2e3e-11ef-84fa-3ffc0ab04d3f.html>
+
+---
+
+## Bears hold down Royals 9-5
+
+date: 2024-06-19, updated: 2024-06-20, from: Marianas Variety
+
+THE Bears notched their second win of the season by beating the Royals, 9-5, in the 2024 Tan Holdings Saipan Baseball League at the Francisco “Tan Ko” Palacios Baseball Field on Tuesday. 
+
+<https://www.mvariety.com/sports/localsports/bears-hold-down-royals-9-5/article_0592bda0-2e45-11ef-b322-3b3e2f7883c0.html>
+
+---
+
+## NMI earns 17 medals in swimming, loses to Palau in fast-pitch softball
+
+date: 2024-06-19, updated: 2024-06-20, from: Marianas Variety
+
+TEAM Marianas' swim team is still in the spotlight at the 2024 Micronesian Games in Majuro, Marshall Islands, winning 17 medals — 11 gold, 2 silver, 4 bronze —  during the finals at the Kwajalein pool on Wednesday. 
+
+<https://www.mvariety.com/sports/localsports/nmi-earns-17-medals-in-swimming-loses-to-palau-in-fast-pitch-softball/article_ee8bc59c-2e45-11ef-bb0e-3f38ac3683b3.html>
+
+---
+
+## House panel seeks answers from CEDA on investor shortfall
+
+date: 2024-06-19, updated: 2024-06-20, from: Marianas Variety
+
+TOURIST arrivals and other economic indicators are down. 
+
+<https://www.mvariety.com/news/local/house-panel-seeks-answers-from-ceda-on-investor-shortfall/article_aee92642-2e0d-11ef-93e7-779d2f97c377.html>
+
+---
+
+## Saipan’s Carol Lee named to Dean's List at Georgia Tech for the Spring 2024 Semester
+
+date: 2024-06-19, updated: 2024-06-20, from: Marianas Variety
+
+ATLANTA, Ga. — Carol Lee of Saipan made the Dean's List for the Spring 2024 semester at the Georgia Institute of Technology. This designation is awarded to undergraduate students who have earned a 3.0 or higher academic average for the semester. 
+
+<https://www.mvariety.com/news/community_bulletins/saipan-s-carol-lee-named-to-deans-list-at-georgia-tech-for-the-spring-2024/article_064c0a7c-2e44-11ef-8160-97293547c102.html>
 
 ---
 
@@ -420,6 +921,18 @@ date: 2024-06-19, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/06/19/nation-world-news/secret-service-agent-robbed-at-gunpoint-on-night-of-bidens-la-gala/>
+
+---
+
+## Benioffs donate another 158 acres to Big Island nonprofit
+
+date: 2024-06-19, from: Hawaii Tribune Harold
+
+
+				<p>Philanthropists Marc and Lynne Benioff have donated more land to help increase the supply of affordable housing on Hawaii Island.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/19/hawaii-news/benioffs-donate-another-158-acres-to-big-island-nonprofit/>
 
 ---
 

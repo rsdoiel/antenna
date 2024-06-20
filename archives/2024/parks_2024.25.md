@@ -1,11 +1,24 @@
 ---
 title: parks 2024.25
-updated: 2024-06-19 08:57:15
+updated: 2024-06-20 07:50:39
 ---
 
 # parks 2024.25
 
-(date: 2024-06-19 08:57:15)
+(date: 2024-06-20 07:50:39)
+
+---
+
+## Stage 2 fire restrictions begin Friday, June 21 at Grand Canyon National Park
+
+date: 2024-06-19, from: Press Releases
+
+Due to warm and dry weather conditions and increasing fire danger, Grand Canyon National Park will implement Stage 2 fire restrictions for the South Rim, North Rim and Inner Canyon beginning at 8 a.m. on Friday, June 21.
+
+
+The restriction encompasses the entire park including all campgrounds, residential areas, backcountry sites and developed recreation sites including: Phantom Ranch, Cottonwood Campground, Havasupai Gardens Campground and the Colorado River corridor. https://www.nps.gov/grca/learn/news/stage2-fire-restrictions-begin-june21-2024.htm 
+
+<https://www.nps.gov/grca/learn/news/stage2-fire-restrictions-begin-june21-2024.htm>
 
 ---
 

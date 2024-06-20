@@ -1,11 +1,73 @@
 ---
 title: writing 2024.25
-updated: 2024-06-19 08:57:13
+updated: 2024-06-20 07:50:38
 ---
 
 # writing 2024.25
 
-(date: 2024-06-19 08:57:13)
+(date: 2024-06-20 07:50:38)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-20, from: Neil Gaiman @ BlueSky)
+
+That's unusual.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kveecn5qy22n>
+
+---
+
+## 2024 Prix Imaginales Winners
+
+date: 2024-06-19, from: Locus Magazine
+
+<p>Winners have been announced for the 2024 Prix Imaginales, honoring the best works of fantasy published in France.</p>
+<div class="mynomorebulletlist">
+<p><strong>French Novel</strong></p>
+<ul>
+<li>WINNER:<strong> Du thé pour les fantômes</strong>, Chris Vuklisevik (Denoël)</li>
+</ul>
+<ul>
+<li><strong>Avant la forêt</strong>, Julia Colin, (Aux forges de Vulcain)</li>
+<li><strong>Méduse</strong>, Martine Desjardins (L’Atalante)</li>
+<li><strong>L’Armée fantoche Capitale du Nord, tome 3</strong>, Claire Duvivier (Aux forges de Vulcain)</li>
+<li><strong>Le Palais au-delà de la mer</strong>, Xénia Vetsera (Du Chat </li></ul></div> <a href="https://locusmag.com/2024/06/2024-prix-imaginales-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/06/2024-prix-imaginales-winners/>
+
+---
+
+## 2024 Science Fiction Planet Awards
+
+date: 2024-06-19, from: Locus Magazine
+
+<p>Winners have been announced for the second annual Science Fiction Planet Awards, a Chinese award honoring contributions to science fiction including works of literature, film/television, and technology.</p>
+<p><strong>Best Novel</strong></p>
+<div class="mynomorebulletlist">
+<p><strong>Once Upon a Time in Nanjing</strong>, Tianrui Shuofu (Jiangsu Phoenix)</p>
+<p><strong>Excellent Novel
+</strong></p>
+<div class="mynomorebulletlist">
+<p><strong>Abyssal Wars</strong>, Fujisaki Singo (Kadokawa)</p>
+</div>
+<p><strong>Best Novella</strong></p>
+<p>“Our Martians”, Bao Shu (<strong>Visiting the Stars: Chinese Stories of Flying to the Outer Space</strong>)</p>
+<p><strong>Best Short Story
+</strong></p></div> <a href="https://locusmag.com/2024/06/2024-science-fiction-planet-awards/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/06/2024-science-fiction-planet-awards/>
+
+---
+
+## 😶 On creating emotion
+
+date: 2024-06-19, from: Interesting, a blog on writing
+
+Hitting the audience square in the feels. 
+
+<https://inneresting.substack.com/p/on-creating-emotion>
 
 ---
 

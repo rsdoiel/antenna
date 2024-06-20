@@ -1,11 +1,21 @@
 ---
 title: home 2024.25
-updated: 2024-06-19 08:57:14
+updated: 2024-06-20 07:50:39
 ---
 
 # home 2024.25
 
-(date: 2024-06-19 08:57:14)
+(date: 2024-06-20 07:50:39)
+
+---
+
+## CDFA commemorates Juneteenth
+
+date: 2024-06-19, from: Calfifornia Dept. Aggriculture blog
+
+Today, CDFA joins in the commemoration of&#160;Juneteenth, marking the end of slavery in the United States. This is also an opportunity to acknowledge the history and achievements of Black Americans throughout our country, including California agriculture. CDFA strives to support &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27912">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27912>
 
 ---
 

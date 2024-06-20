@@ -1,19 +1,19 @@
 ---
 title: weather 2024.25
-updated: 2024-06-19 08:57:13
+updated: 2024-06-20 07:50:38
 ---
 
 # weather 2024.25
 
-(date: 2024-06-19 08:57:13)
+(date: 2024-06-20 07:50:38)
 
 ---
 
 ## There are no tropical cyclones at this time.
 
-date: 2024-06-19, from: Eastern Pacific Basin GIS Data
+date: 2024-06-20, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Wed, 19 Jun 2024 15:53:46 GMT 
+No tropical cyclones as of Thu, 20 Jun 2024 14:46:06 GMT 
 
 <https://www.nhc.noaa.gov/gis/>
 
@@ -21,7 +21,7 @@ No tropical cyclones as of Wed, 19 Jun 2024 15:53:46 GMT
 
 ## NHC Atlantic Outlook
 
-date: 2024-06-19, from: Graphical Tropical Weather Outlooks
+date: 2024-06-20, from: Graphical Tropical Weather Outlooks
 
 
 <br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
@@ -30,109 +30,98 @@ date: 2024-06-19, from: Graphical Tropical Weather Outlooks
 <img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
 <br /><br />
 <div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Wed Jun 19 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems: <br>The National Hurricane Center is issuing advisories on Potential <br>Tropical Cyclone One, located over the western Gulf of Mexico. <br>* Formation chance through 48 hours...high...80 percent.<br>* Formation chance through 7 days...high...80 percent.<br><br>1. Southwestern Atlantic Ocean:<br>An area of showers and thunderstorms located several hundred miles <br>east of the Bahamas is associated with a surface trough of low <br>pressure. Environmental conditions are marginally conducive for some <br>gradual development of this system during the next few days while it <br>moves westward or west-northwestward. The system is forecast to <br>approach the coast of the southeastern United States by the latter <br>part of this week.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...20 percent.<br><br />
-2. Southwestern Gulf of Mexico:<br>Another broad area of low pressure is forecast to develop over the <br>southwestern Gulf of Mexico this weekend. Environmental conditions <br>are expected to be conducive for gradual development of this system <br>through early next week while it moves slowly west-northwestward or <br>northwestward. <br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...low...30 percent.<br><br />
-<br>Forecaster Kelly<br></div></div><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Thu Jun 20 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems: <br>The National Hurricane Center is issuing advisories on Tropical <br>Storm Alberto, located inland over northeastern Mexico. <br><br>1. Southwestern Atlantic Ocean (AL92):<br>A small area of low pressure located about 150 miles east of the <br>northernmost Bahamas continues to produce disorganized shower <br>and thunderstorm activity.  While environmental conditions are only <br>marginally conducive due to nearby dry air, further development of <br>this system could lead to the development of a tropical depression <br>while the low moves west-northwestward at 10 to 15 mph and <br>approaches the northeastern coast of Florida or the Georgia coast <br>early on Friday.  An Air Force Reserve reconnaissance aircraft is <br>scheduled to investigate this system this afternoon, if necessary.<br>* Formation chance through 48 hours...medium...40 percent.<br>* Formation chance through 7 days...medium...40 percent.<br><br />
+2. Southwestern Gulf of Mexico:<br>A broad area of low pressure is forecast to form over southeastern <br>Mexico and northern Central America on Friday.  Environmental <br>conditions appear conducive for gradual development after this <br>system moves over the Bay of Campeche on Saturday, and a tropical <br>depression could form over the southwestern Gulf of Mexico this <br>weekend while it moves slowly west-northwestward or northwestward. <br>* Formation chance through 48 hours...low...20 percent.<br>* Formation chance through 7 days...medium...50 percent.<br><br />
+<br>Forecaster Berg<br></div></div><br />
  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
-## SPC - No watches are valid as of Wed Jun 19 13:22:01 UTC 2024
+## SPC Jun 20, 2024 1300 UTC Day 1 Convective Outlook
 
-date: 2024-06-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Wed Jun 19 13:22:01 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Wed Jun 19 13:22:01 UTC 2024
-
-date: 2024-06-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Wed Jun 19 13:22:01 UTC 2024. 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Jun 19, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-06-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-06-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0742 AM CDT Wed Jun 19 2024
+0749 AM CDT Thu Jun 20 2024
 
-Valid 191300Z - 201200Z
+Valid 201300Z - 211200Z
 
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS THE
-SOUTHERN HIGH PLAINS...SOUTH/SOUTHEAST TEXAS...AND MIDWEST TO NEW
-ENGLAND...
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE
+NORTH-CENTRAL HIGH PLAINS AND NORTHEAST/NEW ENGLAND...
 
 ...SUMMARY...
-Locally strong wind gusts and hail may occur with storms over the
-southern High Plains, with a couple of strong gusts also possible
-across parts of the Midwest and from the Lower Great Lakes into New
-England. A brief tornado or two may occur across south Texas through
-tonight.
+Storms may produce scattered damaging wind gusts over parts of the
+Northeast and New England mainly this afternoon. Scattered severe
+storms are also expected over parts of the north-central High
+Plains.
 
-...Synopsis...
-Dominant East Coast upper ridge is forecast to build west into the
-Middle Mississippi Valley later today as the primary belt of
-westerlies retreats north of the international border. This westward
-expansion will encourage the tropical system over the western Gulf
-basin to move into northeast Mexico, considerably south of the Rio
-Grande Valley.
+...Northeast States/New England...
+The prominent upper anticyclone currently centered over the middle
+Atlantic will gradually build westward across the CONUS today, while
+some flattening of the ridge will occur over the Northeast and
+especially New England. The stronger mid-level westerlies will be
+located closer to the international border and across eastern
+Canada, with weaker winds aloft over the lower Great Lakes into
+southern New England. A surface cold front will advance south into
+northern Maine, extending westward into southern lower Michigan by
+midday, with subsequent southeastward movement expected across the
+Northeast through early evening.
 
-...Southern High Plains...
-As convection persists while generally diminishing in overall
-intensity across the Oklahoma/Texas Panhandles and northwest
-Oklahoma this morning, outflows will contribute to additional
-moistening with westward extend across far west/northwest Texas into
-eastern New Mexico. This is where potentially severe thunderstorm
-development is expected around mid/late afternoon across the Raton
-Mesa vicinity southward across east-central/southeast New Mexico.
-Instances of large hail and severe-caliber wind gusts will be
-possible.
+This boundary will serve as the focus for intensifying convection
+later today as surface temperatures quickly soar through the 80s
+into the lower 90 F, with a weak mid-level impulse/MCV near Lake
+Ontario this morning being an additional influence. While deep-layer
+shear will not be particularly strong in most areas, PW values are
+seasonally moist with 1.5-2 inches expected, contributing to upwards
+of 2000-3000 MLCAPE this afternoon particularly across upstate New
+York and interior New England/southern Maine. Damaging winds will be
+possible with the strongest storms this afternoon.
 
-...Lower Great Lakes to northern New England...
-While upper ridging will dominate this region, scattered convection
-will once again develop from portions of the Ohio Valley
-northeastward into New England, as surface temperatures warm through
-the mid 80s to near 90 F. Convective temperatures will be breached
-and thunderstorms should develop within a seasonally moist
-environment with PW values in excess of 1.75 inches. Gusty winds are
-the primary concern with this convection occurring in a weakly
-sheared environment.
+...North-Central Plains...
+Weak mid-level height rises will occur over the central Plains
+through tonight, with a belt of moderately strong west-southwesterly
+flow aloft, and few embedded disturbances, from Utah/Wyoming toward
+the Dakotas and Upper Midwest. Surface cyclogenesis, focused across
+northeast Colorado later today, will contribute to a
+north-northwestward flux of low-level moisture across the central
+High Plains/eastern Wyoming and Black Hills vicinity. 
 
-...South/southeast Texas...
-Low-level shear will increase especially this afternoon into tonight
-along the Texas Coast and inland across south Texas, along the
-northern fringe of the western Gulf basin tropical system. Reference
-NHC for the latest details on Potential Tropical Cyclone One, as
-this feature may evolve into a tropical cyclone before it moves
-inland south of the lower Rio Grande Valley. While this system will
-remain at low latitudes, 850mb flow is expected to increase across
-south Texas such that sustained updrafts will likely rotate. High PW
-and strong low-level shear favors some risk for a tornado or two.
+Initial thunderstorm development/intensification will occur over the
+mountains toward southeast Wyoming/Colorado Front Range by
+mid-afternoon, with subsequent development into the nearby High
+Plains this evening, in areas near/north of the surface low/triple
+point and east/northeastward-extending front. Initial storm mode
+should be supercellular and large hail is expected.
 
-...Northern Missouri/eastern Iowa to southern Wisconsin...
-To the east-northeast of lingering early morning convection across
-northeast Kansas/northwest Missouri, cloud cover should generally
-diminish today near the outflow augmented
-southwest/northeast-oriented synoptic front across the region.
-Potentially aided by an MCV, thunderstorms should redevelop and
-intensify this afternoon as the boundary layer destabilizes, with as
-much as 30 kt of effective shear maximized immediately near the
-synoptic front. Isolated instances of localized wind damage could
-occur.
+Aided by an early evening strengthening of a southerly low-level
+jet, storms will likely consolidate and grow upscale into a possible
+MCS within the warm-advection zone focused across western/northern
+Nebraska and south-central/southern South Dakota. Severe wind gusts
+could materialize along the leading edge of the MCS.
 
-..Guyer/Leitman.. 06/19/2024
+...Central Rockies/Four Corners Area...
+While not overly moist regionally, a west-northwestward flux of
+moisture and a moderately strong belt of southwesterly mid-level
+flow will contribute to sustained thunderstorms, particularly from
+mid-afternoon through early evening. Some of these may produce
+severe-caliber downbursts.
+
+...South Texas...
+Supercell/brief tornado related to Tropical Storm Alberto is
+expected to continue to diminish this morning as it moves inland and
+weakens over northeast Mexico.
+
+...Central/eastern Montana...
+A weak mid-level disturbance, moderately strong flow aloft, and an
+adequately moist boundary layer may contribute to some
+strong/locally severe storms late this afternoon and early evening,
+with hail/gusty winds possible.
+
+..Guyer/Leitman.. 06/20/2024
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
@@ -142,55 +131,144 @@ occur.
 
 ---
 
-## Eastern North Pacific Tropical Weather Outlook
+## SPC - No watches are valid as of Thu Jun 20 12:54:01 UTC 2024
 
-date: 2024-06-19, from: Eastern Pacific Basin Tropical Cyclones
+date: 2024-06-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
+No watches are valid as of Thu Jun 20 12:54:01 UTC 2024. 
 
-<br/>
-000<br/>
-ABPZ20 KNHC 191141<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-500 AM PDT Wed Jun 19 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Tropical cyclone formation is not expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Kelly<br/>
- 
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Thu Jun 20 12:54:01 UTC 2024
+
+date: 2024-06-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Thu Jun 20 12:54:01 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2024-06-20, from: Eastern Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ABPZ20 KNHC 201146<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 500 AM PDT Thu Jun 20 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ Tropical cyclone formation is not expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Berg<br />
+  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 
-## Central North Pacific Tropical Weather Outlook
+## Central Pacific Tropical Weather Outlook
 
-date: 2024-06-19, from: Central Pacific Basin Tropical Cyclones
+date: 2024-06-20, from: Central Pacific Tropical Weather Outlook
 
-
-<br/>
-000<br/>
-ACPN50 PHFO 191131<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-200 AM HST Wed Jun 19 2024<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Bohlin<br/>
- 
+ <br />
+ 000<br />
+ ACPN50 PHFO 201121<br />
+ TWOCP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS Central Pacific Hurricane Center Honolulu HI<br />
+ 200 AM HST Thu Jun 20 2024<br />
+ <br />
+ For the central North Pacific...between 140W and 180W:<br />
+ <br />
+ No tropical cyclones are expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Bohlin<br />
+  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2024-06-20, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0144 AM CDT Thu Jun 20 2024
+
+Valid 211200Z - 221200Z
+
+...NO CRITICAL AREAS...
+
+...Synopsis...
+Fire weather concerns will largely remain low on Friday. High
+pressure will continue to build in across the desert southwest,
+keeping winds generally light outside of gusty thunderstorm outflow.
+Continued widely scattered thunderstorm activity is expected across
+much of New Mexico and Arizona as remnant tropical moisture
+continues to be in place, with precipitable water generally
+0.75-1.00 in and slow storm motions.
+
+..Thornton.. 06/20/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2024-06-20, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0143 AM CDT Thu Jun 20 2024
+
+Valid 201200Z - 211200Z
+
+...NO CRITICAL AREAS...
+
+...Synopsis...
+A westerly push of moisture will continue across New Mexico
+and Arizona today. Precipitable water values will increase to
+around 0.75-1.00 in into northeastern Arizona. Widely scattered
+thunderstorm activity is expected, along with cooler temperatures
+and higher relative humidity. Initially, thunderstorm activity may
+pose a risk for dry lightning, with soundings indicating large
+temperature and dewpoint spreads. Storm motion is expected to be
+rather slow with most guidance indicating high likelihood of
+measurable precipitation and increasing moisture and cloud cover
+through the afternoon/evening.
+
+..Thornton.. 06/20/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
 
 ---
 
@@ -607,69 +685,6 @@ cores before convection weakens after sunset.
 
 ---
 
-## SPC Day 2 Fire Weather Outlook
-
-date: 2024-06-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0242 PM CDT Sun Jun 16 2024
-
-Valid 171200Z - 181200Z
-
-...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF SOUTHERN
-UTAH...NORTHERN ARIZONA...WESTERN NEW MEXICO...AND FAR SOUTHWEST
-COLORADO...
-
-The Elevated risk area in central California has been expanded
-southward to cover most of the San Joaquin Valley along with
-adjacent areas of the western Transverse Ranges and the southern
-Sierra Nevada. Fuels in the area have rapidly dried. Additionally,
-the ongoing Post Fire has been displaying rapid growth in the
-presence of strong winds (gusts of 40-50 mph with higher gusts in
-mountain gaps) despite somewhat marginal RH for the area (15-25%
-minimums). All of this highlights the potential for further fire
-activity in the region. Otherwise, the Critical area has been
-expanded in southern Utah and northern Arizona with better
-confidence in Critical fire weather conditions overlapping areas of
-dry fuels. See the previous discussion for further details.
-
-..Supinie.. 06/16/2024
-
-.PREV DISCUSSION... /ISSUED 0155 AM CDT Sun Jun 16 2024/
-
-...Synopsis...
-A secondary shortwave will rotate through the western US trough on
-Monday, bringing continued strong southwesterly flow across much of
-the desert southwest into the southern High Plains. 
-
-Across northeastern Arizona, southeastern Utah, and portions of
-western New Mexico, afternoon relative humidity reductions to 10-15
-percent will overlap sustained winds around 20 mph. Fuels in this
-region are critically dry, supporting maintaining a Critical
-delineation across these regions on Monday. Broader Elevated fire
-weather concerns are expected across much of Arizona into
-southern/central Utah, eastern Nevada, and into western New Mexico
-and southern Colorado. 
-
-Elevated fire weather concerns are also expected as strong
-northwesterly flow at 10-15 mph on the backside of the trough
-overlaps relative humidity reductions to 15-20 percent (locally
-around 10 percent) within the Sacramento Valley and San Joaquin
-Valley in northern/central California. Fuels within this region are
-sufficiently dry to support Elevated fire weather concerns.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
 ## SPC Severe Thunderstorm Watch 424 Status Reports
 
 date: 2024-06-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -836,66 +851,6 @@ Tuesday morning if they develop far enough south.
  
 
 <https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2024-06-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook CORR 1
-NWS Storm Prediction Center Norman OK
-1151 AM CDT Sun Jun 16 2024
-
-Valid 161700Z - 171200Z
-
-CORRECTED FOR HEADLINE
-
-...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF SOUTHERN
-UTAH...NORTHERN ARIZONA...AND FAR SOUTHEAST NEVADA...
-
-An Elevated risk area has been added for portions of the southern
-Sierra Nevada and western Transverse Ranges in southern California.
-RH is somewhat marginal for the area, with a minimum of 15-25%
-expected. However, strong winds (40-50 mph gusts with higher gusts
-in mountain gaps), rapid drying of fuels, poor overnight RH
-recovery, and observed rapid growth of the Post fire indicate the
-threat for additional fire activity in the area. Otherwise, see the
-previous discussion for further details.
-
-..Supinie.. 06/16/2024
-
-.PREV DISCUSSION... /ISSUED 0151 AM CDT Sun Jun 16 2024/
-
-...Synopsis...
-A deepening western trough will bring an increase in southwesterly
-flow across much of the desert Southwest this afternoon. Fuels in
-this region have seen significant drying after several days of warm
-and dry conditions. Guidance indicates fuels in this region are
-critically dry, with recent ERCs data indicating 90th percentile for
-dryness across much of northern and central Arizona. This is further
-supported by active recent fire activity in this region. Relative
-humidity reductions to 5-10 percent will overlap sustained winds
-15-20 mph across central/northern Arizona, southern Utah, and far
-southeastern Nevada where a Critical delineation was maintained with
-this outlook. Outside of this region, a more broad area of Elevated
-fire weather conditions will be possible across much of
-central/southern Utah into southern Arizona, where there is less
-confidence is sustained Critical wind speeds. 
-
-Elevated conditions may also extend into portions of western Nevada
-in the lee of the Sierras. In this region, afternoon relative
-humidity reductions to 15-20 percent will overlap sustained winds
-10-15 mph (locally higher) amid modestly receptive fuels.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
 
 ---
 

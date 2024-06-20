@@ -1,11 +1,33 @@
 ---
 title: libraries 2024.25
-updated: 2024-06-19 08:57:14
+updated: 2024-06-20 07:50:39
 ---
 
 # libraries 2024.25
 
-(date: 2024-06-19 08:57:14)
+(date: 2024-06-20 07:50:39)
+
+---
+
+## Guest Post — The Case For Not Citing Chatbots As Information Sources (Part II)
+
+date: 2024-06-20, from: Scholarly Kitchen
+
+<p>Citing chatbots as information sources offer little in terms of promoting smart use of generative AI and could also be damaging.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/06/20/the-case-for-not-citing-chatbots-as-information-sources-part-ii/">Guest Post &#8212; The Case For Not Citing Chatbots As Information Sources (Part II)</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/06/20/the-case-for-not-citing-chatbots-as-information-sources-part-ii/>
+
+---
+
+## A Yankee in the Trenches, by Robert Derby Holmes
+
+date: 2024-06-19, from: Standard Ebooks, new releaases
+
+An American describes his experiences in the British Army in the First World War. 
+
+<https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches>
 
 ---
 

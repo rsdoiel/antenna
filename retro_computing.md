@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.25
-updated: 2024-06-19 08:57:15
+updated: 2024-06-20 07:50:40
 ---
 
 # retro computing 2024.25
 
-(date: 2024-06-19 08:57:15)
+(date: 2024-06-20 07:50:40)
+
+---
+
+## New libm-0.8
+
+date: 2024-06-20, from: FreeDOS News
+
+<div class="markdown_content"><p>Gregory Pietsch's libm is a public domain math library for programmers. Gregory recently released version 0.8 with fixes to the tanh and csqrt functions. Please help test this  new release; send feedback to the freedos-devel email list. You can download it from the FreeDOS Files Archive, hosted at Ibiblio, under <a class="" href="https://ibiblio.org/pub/micro/pc-stuff/freedos/files/devel/libs/libm/0.8/" rel="nofollow">/devel/libs/libm</a>.</p></div> 
+
+<https://sourceforge.net/p/freedos/news/2024/06/new-libm-08/>
+
+---
+
+## Bomb Squad Peripherals' BLOWGUN
+
+date: 2024-06-19, from: Computer ads from the Past
+
+It Could Have Been a Lot Worse - His Data is BLOWGUN Protected! 
+
+<https://computeradsfromthepast.substack.com/p/bomb-squad-peripherals-blowgun>
 
 ---
 

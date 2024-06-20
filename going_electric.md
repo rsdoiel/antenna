@@ -1,11 +1,343 @@
 ---
 title: going electric 2024.25
-updated: 2024-06-19 08:57:16
+updated: 2024-06-20 07:50:40
 ---
 
 # going electric 2024.25
 
-(date: 2024-06-19 08:57:16)
+(date: 2024-06-20 07:50:40)
+
+---
+
+## Chinese ministry says EU’s anti-subsidy EV probe made spy-like levels of ‘unreasonable demands’
+
+date: 2024-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Chinese-EV-subsidy-probe.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Another day, another deeper understanding of the conversations going on behind closed doors as <a href="https://electrek.co/guides/china/">China</a> and the EU approach the negotiating table as they toe the lines of a looming trade war surrounding vehicle imports and anti-subsidy probes of Chinese EVs.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/20/chinese-ministry-eu-anti-subsidy-ev-probe-spy-like-levels-unreasonable-demands/#more-368446" data-post-id="368446" data-layer-pagetype="post" data-layer-postcategory="china,europe" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/20/chinese-ministry-eu-anti-subsidy-ev-probe-spy-like-levels-unreasonable-demands/>
+
+---
+
+## Judge OKs Tesla Anti-Trust Lawsuit Over Parts, Service Monopoly
+
+date: 2024-06-20, from: Inside EVs News
+
+Plus, EVs are driven less than ICE counterparts in U.S. and Hyundai's Georgia factory will signal its U.S. EV ramp up starting in Q4. 
+
+<https://insideevs.com/news/723963/critical-materials-2024-06-20/>
+
+---
+
+## BYD hits a major milestone as its Yuan brand crosses 1 million in sales
+
+date: 2024-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/BYD-Yuan-1-million-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s leading EV maker, <a href="https://electrek.co/guides/byd/">BYD</a>, just hit another major milestone. The BYD Yuan family surpassed 1 million in sales this week, becoming its latest brand to cross the threshold.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/20/byd-major-milestone-yuan-brand-1-million-sales/#more-368445" data-post-id="368445" data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/20/byd-major-milestone-yuan-brand-1-million-sales/>
+
+---
+
+## With Fisker Bankrupt, The 'Lucid Ocean' Might Become A Real EV
+
+date: 2024-06-20, from: Inside EVs News
+
+Lucid applied for a “Lucid Ocean” trademark for use on an “electrically powered automobile.” What does it mean? 
+
+<https://insideevs.com/news/723960/lucid-ocean-ev-trademark-application/>
+
+---
+
+## Benelli’s New 902S Motorcycle Packs Some “Monstrous” Inspirations
+
+date: 2024-06-20, from: Ride Apart, Electric Motorcycle News
+
+The muscular naked bike might have you second-guessing who actually made it.  
+
+<https://www.rideapart.com/news/723689/benelli-902s-unveiled-china/>
+
+---
+
+## This Tesla Cybertruck Looks Like A Mirror On Wheels. It’s For Sale
+
+date: 2024-06-20, from: Inside EVs News
+
+It turns out that polishing a stainless steel car makes it extremely shiny. The question is, isn’t it a traffic risk? 
+
+<https://insideevs.com/news/723832/polished-tesla-cybertruck-for-sale/>
+
+---
+
+## The Tesla Cybertruck Is Getting Big Charging Improvements ‘Soon’
+
+date: 2024-06-20, from: Inside EVs News
+
+One of the gripes with the electric pickup is that it just doesn’t charge fast enough. An OTA update will fix that, according to Tesla. 
+
+<https://insideevs.com/news/723931/tesla-cybertruck-charging-improvement-ota/>
+
+---
+
+## This Strange Four-Wheel Vehicle Is an E-Bike, Its Makers Want It To Replace Your Car
+
+date: 2024-06-20, from: Ride Apart, Electric Motorcycle News
+
+It’s a pedal-assist micro-car complete with a roof and lockable doors.  
+
+<https://www.rideapart.com/news/723432/karbike-electric-cargo-bike-microcar/>
+
+---
+
+## Norton Motorcycles Has Set Up Shop In Scotland
+
+date: 2024-06-20, from: Ride Apart, Electric Motorcycle News
+
+Norton has teamed up with sports car dealer Revolutions to bring its two-wheelers to Scotland.  
+
+<https://www.rideapart.com/news/723709/norton-expands-scotland-revolutons-partnership/>
+
+---
+
+## Actor Woody Harrelson Crashed His Bike, But Ted Danson Patched Him Up
+
+date: 2024-06-20, from: Ride Apart, Electric Motorcycle News
+
+With friends like these, who needs oblivious drivers? 
+
+<https://www.rideapart.com/news/723744/woody-harrelson-crash-ted-danson/>
+
+---
+
+## Sedan, SUV Or Coupe? Kia EV4 Caught In The Wild With Camouflage
+
+date: 2024-06-20, from: Inside EVs News
+
+The EV4 is like a mix of sedan, fastback and crossover, and it has a very distinctive long-tail rear-end design with plenty of overhang. 
+
+<https://insideevs.com/news/723867/kia-ev4-spy-videos-korea/>
+
+---
+
+## Yoshimura’s Oil-Cooled Revival Project Will Keep Vintage GSX-Rs Alive
+
+date: 2024-06-20, from: Ride Apart, Electric Motorcycle News
+
+Yoshimura will produce parts and upgrades for the oil-cooled Suzuki GSX-R750 and GSX-R1100.  
+
+<https://www.rideapart.com/news/723702/yoshimura-oil-cooled-revival-project/>
+
+---
+
+## Off-Road Trails Are Closing: That's Bad for Disabled Americans
+
+date: 2024-06-20, from: Ride Apart, Electric Motorcycle News
+
+People forget that not everyone can hike.  
+
+<https://www.rideapart.com/news/723737/outdoor-americans-with-disabilities-act/>
+
+---
+
+## Rattan’s newest electric bike has a name you can’t say in polite company
+
+date: 2024-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/rattan-pinus-e-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Rattan, a long-time player now seeing increased penetration in the entry-level e-bike market, has rolled out new electric bicycle models for the 2024 riding season. And believe it or not, it’s the little guy that’s getting most of the attention. That’s right, it’s time to check out the company’s latest small format 20″ folding e-bike. Say “Hello” to Rattan’s new Pinus. </p>
+
+
+
+ <a href="https://electrek.co/2024/06/20/rattans-newest-electric-bike-has-a-name-you-cant-say-in-polite-company/#more-368432" data-post-id="368432" data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/20/rattans-newest-electric-bike-has-a-name-you-cant-say-in-polite-company/>
+
+---
+
+## GM EV Owners Still Can't Use Tesla Superchargers. Here's Why
+
+date: 2024-06-19, from: Inside EVs News
+
+GM said Supercharger access would be online in "Spring 2024." Now we know more about what's going on. 
+
+<https://insideevs.com/news/723885/gm-ev-supercharger-access/>
+
+---
+
+## Hyundai is launching two new electric cars in Europe, a low-cost EV and new IONIQ model
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Hyundai-Kona-Electric-N-Line-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Despite talk of an “EV slowdown,” Hyundai is charging ahead. <a href="https://electrek.co/guides/hyundai/">Hyundai</a> is launching two new electric vehicles in Europe, including a low-cost EV and a new IONIQ model, to boost its market share in the region.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/hyundai-launching-low-cost-ev-new-ioniq-model/#more-368399" data-post-id="368399" data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/hyundai-launching-low-cost-ev-new-ioniq-model/>
+
+---
+
+## Ford F-150 Lightning: How Much Does It Cost To Charge It?
+
+date: 2024-06-19, from: Inside EVs News
+
+It costs about 6 times more to fuel a gas Ford F-150 to drive the same distance as the electric Lightning. 
+
+<https://insideevs.com/news/723890/ford-f150-lightning-charging-costs/>
+
+---
+
+## This UK wind monopile factory will create 2,000+ jobs, become world’s largest
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Teeside-monopile-factory-sarens.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>The UK is constructing the world’s largest monopile factory, and it’s poised to create over 2,000 new jobs.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/uk-wind-monopile-factory-will-create-2000-jobs-become-worlds-largest/#more-368409" data-post-id="368409" data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/uk-wind-monopile-factory-will-create-2000-jobs-become-worlds-largest/>
+
+---
+
+## Rivian and Ford chase Pike’s Peak glory, China’s angry, and pricing news
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/pikespeak-2023.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>on this special Juneteenth edition of Quick Charge: Rivian and Ford are chasing Pike’s Peak glory with their own takes on the best way to get a 1000+ hp electric truck up the mountain. Meanwhile, it’s Ford vs. Ferrari again in terms of who has the most attractive price for their prancing horse, Chinese car brands want a trade war, and Shell has an ultra-fast megawatt charging solution good for both land AND sea!</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/rivian-and-ford-chase-pikes-peak-glory-chinas-angry-and-pricing-news/#more-368402" data-post-id="368402" data-layer-pagetype="post" data-layer-postcategory="ford,pikes-peak,quick-charge,rivian" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/rivian-and-ford-chase-pikes-peak-glory-chinas-angry-and-pricing-news/>
+
+---
+
+## Watt Electric Vehicle Company (WEVC) launches new ‘off the shelf’ performance EV platform
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Watt-electric-architecture.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Watt Electric Vehicle Company <a href="https://electrek.co/guides/watt-electric-vehicle-company/">(WEVC)</a> has unveiled a new lightweight modular EV architecture to build several low—to medium-volume vehicle designs, such as sports coupes, off-road buggies, and rideshare vehicles.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/watt-electric-vehicle-company-wevc-new-off-the-shelf-performance-ev-platform/#more-368338" data-post-id="368338" data-layer-pagetype="post" data-layer-postcategory="watt-electric-vehicle-company" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/watt-electric-vehicle-company-wevc-new-off-the-shelf-performance-ev-platform/>
+
+---
+
+## Mississippi’s first utility-scale wind farm is officially online
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/AES_Tunica-Delta-Wind.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Mississippi officially launched its first utility-scale wind farm yesterday, and it’s got the tallest onshore wind turbines in the US.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/mississippis-first-utility-scale-wind-farm-is-officially-online/#more-368377" data-post-id="368377" data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,wind-power,wind-turbine" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/mississippis-first-utility-scale-wind-farm-is-officially-online/>
+
+---
+
+## A Kia EV3 Built In Mexico Could Be A Sub-$30,000 Electric Car
+
+date: 2024-06-19, from: Inside EVs News
+
+Kia won't say where the EV3 will be built. But Mexico is a possibility, which would unlock tax credits to make it even more affordable. 
+
+<https://insideevs.com/news/723855/kia-ev3-mexico-production/>
+
+---
+
+## Range Rover Electric waitlist doubles as over 38,000 line up to buy the brand’s first EV
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Range-Rover-electric-images-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The first all-electric <a href="https://electrek.co/guides/range-rover/">Range Rover</a> SUV is expected to officially debut later this year. With over 38,000 buyers lining up, the Range Rover Electric waitlist has doubled over the past four months as anticipation builds.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/range-rover-electric-waitlist-doubles-38000-buyers-await/#more-368374" data-post-id="368374" data-layer-pagetype="post" data-layer-postcategory="jaguar-land-rover,range-rover,range-rover-electric" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/range-rover-electric-waitlist-doubles-38000-buyers-await/>
+
+---
+
+## Lectric’s XPeak off-road e-bike now $1,399 with extra battery, ALLPOWERS power station sale, Greenworks tool roundup, more
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Lectric-XPeak-Off-Road-e-bike.webp?w=1200" /></div><p>Headlining today’s Green Deals is the <a href="https://9to5toys.com/2024/06/19/lectrics-extended-summer-sale-increases-savings-up-to-727-on-popular-e-bike-bundles/">extended summer sale from Lectric eBikes</a> that has increased savings on e-bike bundles up to $727 off, with the <a href="https://9to5toys.com/2024/06/19/lectrics-extended-summer-sale-increases-savings-up-to-727-on-popular-e-bike-bundles/">XPeak Off-Road e-bikes rising to $1,399</a>, but now including a free extra battery for double the mileage. It is joined by <a href="https://9to5toys.com/2024/06/18/save-up-to-45-on-allpowers-power-stations-solar-generator-bundles-and-accessories-starting-from-89/">ALLPOWERS’ ongoing sales event</a> that is taking up to 45% off its power stations, solar generator bundles, and accessories starting from <a href="https://9to5toys.com/2024/06/18/save-up-to-45-on-allpowers-power-stations-solar-generator-bundles-and-accessories-starting-from-89/">$89</a>. And bringing up the rear is the <a href="https://9to5toys.com/2024/06/19/greenworks-1900-psi-electric-pressure-washer-returns-to-120-low-in-1-day-deal-more-from-30/">Greenworks GW1900 Electric Pressure Washer</a> that is back at the <a href="https://9to5toys.com/2024/06/19/greenworks-1900-psi-electric-pressure-washer-returns-to-120-low-in-1-day-deal-more-from-30/">$120 low for today only</a> – with a roundup of the other 80V Greenworks tools that are seeing discounts at both Best Buy and Amazon. You’ll also find the lowest current price on the <a href="https://9to5toys.com/2024/06/19/gotrax-z4-pro-foldable-e-bike-carries-you-50-miles-and-saves-on-storage-space-for-1000/">GoTrax Z4 Pro Foldable e-bike</a> down among the links. Plus, all the other hangover Green Deals that are still alive and well.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/lectrics-xpeak-off-road-e-bike-now-1399-allpowers-power-station-sale-greenworks-tool-roundup-more/#more-368348" data-post-id="368348" data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/lectrics-xpeak-off-road-e-bike-now-1399-allpowers-power-station-sale-greenworks-tool-roundup-more/>
+
+---
+
+## Average Tesla Model 3, Model Y Battery Degradation After 200,000 Miles Impresses
+
+date: 2024-06-19, from: Inside EVs News
+
+On average, the capacity fade for the Long Range battery version is 15%. 
+
+<https://insideevs.com/news/723734/tesla-model-3y-battery-capacity-degradation-200000miles/>
+
+---
+
+## Jaguar Land Rover is reviving this SUV as an EV model to rival BYD
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Jaguar-Land-Rover-BYD-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Jaguar Land Rover is reviving the Freelander as an electric SUV to compete with <a href="https://electrek.co/guides/byd/">BYD</a> in the world’s largest EV market. The Freelander EV is part of <a href="https://electrek.co/guides/jaguar-land-rover/">JLR’s</a> plans to revamp the brand as the industry shifts to electric.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/jaguar-land-rover-rival-byd-plans-revive-suv-ev/#more-368335" data-post-id="368335" data-layer-pagetype="post" data-layer-postcategory="byd,jaguar-land-rover" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/jaguar-land-rover-rival-byd-plans-revive-suv-ev/>
+
+---
+
+## Lucid Ocean? With Fisker now bankrupt, another EV automaker is swooping in on the trademark
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Lucid-Ocean-trademark.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Could “Ocean” be a potential nameplate for an upcoming BEV model from Lucid? It’s certainly possible following a recent filing submitted by <a href="https://electrek.co/guides/lucid-motors/">the American automaker</a> to the United States Patent and Trademark Office (USPTO). Sorry, Fisker.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/lucid-ocean-fisker-bankrupt-ev-automaker-trademark-filing/#more-368343" data-post-id="368343" data-layer-pagetype="post" data-layer-postcategory="fisker,lucid,lucid-motors" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/lucid-ocean-fisker-bankrupt-ev-automaker-trademark-filing/>
+
+---
+
+## BYD, CATL Working On LFP Batteries That Could Be Fully Recharged In 10 Minutes
+
+date: 2024-06-19, from: Inside EVs News
+
+That’s the idea, at least. But whatever the outcome, it’s clear that battery technology is moving extremely rapidly. 
+
+<https://insideevs.com/news/723788/byd-catl-lfp-battery-6c-charging-10-minutes/>
 
 ---
 

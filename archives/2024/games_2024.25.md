@@ -1,11 +1,61 @@
 ---
 title: games 2024.25
-updated: 2024-06-19 08:57:13
+updated: 2024-06-20 07:50:38
 ---
 
 # games 2024.25
 
-(date: 2024-06-19 08:57:13)
+(date: 2024-06-20 07:50:38)
+
+---
+
+## You have 1 day left to save on Shadow of the Erdtree pre-orders
+
+date: 2024-06-20, updated: 2024-06-20, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24180474/elden-ring-shadow-of-the-erdtree-dlc-expansion-deal-sale>
+
+---
+
+## NYX is a hyper-local teen hangout book for a new X-Men era
+
+date: 2024-06-20, updated: 2024-06-20, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24181086/marvel-nyx-2024-preview-ms-marvel-wolverine>
+
+---
+
+## Justice for Kelnacca, The Acolyte’s real hero
+
+date: 2024-06-19, updated: 2024-06-19, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/star-wars/24181315/star-wars-acolyte-justice-for-kelnacca>
+
+---
+
+## How Disney’s new Princess and the Frog ride connects to the upcoming Tiana TV series
+
+date: 2024-06-19, updated: 2024-06-19, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24180188/tianas-bayou-adventure-show-ride-princess-and-the-frog>
+
+---
+
+## The Boys songwriter behind Vought on Ice did the excruciating homework
+
+date: 2024-06-19, updated: 2024-06-19, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24181252/boys-vought-on-ice-lets-put-christ-back-christmas>
 
 ---
 

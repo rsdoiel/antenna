@@ -1,11 +1,81 @@
 ---
 title: motorcycles 2024.25
-updated: 2024-06-19 08:57:15
+updated: 2024-06-20 07:50:40
 ---
 
 # motorcycles 2024.25
 
-(date: 2024-06-19 08:57:15)
+(date: 2024-06-20 07:50:40)
+
+---
+
+## Benelli’s New 902S Motorcycle Packs Some “Monstrous” Inspirations
+
+date: 2024-06-20, from: Ride Apart, Electric Motorcycle News
+
+The muscular naked bike might have you second-guessing who actually made it.  
+
+<https://www.rideapart.com/news/723689/benelli-902s-unveiled-china/>
+
+---
+
+## This Strange Four-Wheel Vehicle Is an E-Bike, Its Makers Want It To Replace Your Car
+
+date: 2024-06-20, from: Ride Apart, Electric Motorcycle News
+
+It’s a pedal-assist micro-car complete with a roof and lockable doors.  
+
+<https://www.rideapart.com/news/723432/karbike-electric-cargo-bike-microcar/>
+
+---
+
+## Norton Motorcycles Has Set Up Shop In Scotland
+
+date: 2024-06-20, from: Ride Apart, Electric Motorcycle News
+
+Norton has teamed up with sports car dealer Revolutions to bring its two-wheelers to Scotland.  
+
+<https://www.rideapart.com/news/723709/norton-expands-scotland-revolutons-partnership/>
+
+---
+
+## Actor Woody Harrelson Crashed His Bike, But Ted Danson Patched Him Up
+
+date: 2024-06-20, from: Ride Apart, Electric Motorcycle News
+
+With friends like these, who needs oblivious drivers? 
+
+<https://www.rideapart.com/news/723744/woody-harrelson-crash-ted-danson/>
+
+---
+
+## Yoshimura’s Oil-Cooled Revival Project Will Keep Vintage GSX-Rs Alive
+
+date: 2024-06-20, from: Ride Apart, Electric Motorcycle News
+
+Yoshimura will produce parts and upgrades for the oil-cooled Suzuki GSX-R750 and GSX-R1100.  
+
+<https://www.rideapart.com/news/723702/yoshimura-oil-cooled-revival-project/>
+
+---
+
+## Off-Road Trails Are Closing: That's Bad for Disabled Americans
+
+date: 2024-06-20, from: Ride Apart, Electric Motorcycle News
+
+People forget that not everyone can hike.  
+
+<https://www.rideapart.com/news/723737/outdoor-americans-with-disabilities-act/>
+
+---
+
+## Alon Day, Alpha Prime Partner with JSSI, Setna iO at Chicago
+
+date: 2024-06-19, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor Six years after his most recent NASCAR race in the United States, Alon Day returns to the NASCAR Xfinity Series with Alpha Prime Racing. The&#8230;  
+
+<https://kickinthetires.net/nascar/jssi-setnaio-alon-day-alphaprime-chicago/>
 
 ---
 

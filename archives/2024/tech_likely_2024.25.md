@@ -1,11 +1,377 @@
 ---
 title: tech likely 2024.25
-updated: 2024-06-19 08:57:10
+updated: 2024-06-20 07:50:37
 ---
 
 # tech likely 2024.25
 
-(date: 2024-06-19 08:57:10)
+(date: 2024-06-20 07:50:37)
+
+---
+
+##  Trolley Problem Variations for Dads. &#8220;As he begins to think it over,... 
+
+date: 2024-06-20, updated: 2024-06-20, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044843-trolley-problem-variation>
+
+---
+
+## Stephanie Duchesne: Leading with Integrity and Openness for CLDP
+
+date: 2024-06-20, from: NASA breaking news
+
+Of all the lessons learned throughout her NASA career, the importance of relationship and personal integrity is one that has been repeatedly reinforced for Stephanie Duchesne, a Commercial Low Earth Orbit Development Program (CLDP) project executive. “Each person you work with has their own unique perspectives and concerns, and in order to solve a problem [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/stephanie-duchesne-leading-with-integrity-and-openness-for-cldp/>
+
+---
+
+## First of Its Kind Detection Made in Striking New Webb Image
+
+date: 2024-06-20, from: NASA breaking news
+
+Alignment of bipolar jets confirms star formation theories For the first time, a phenomenon astronomers have long hoped to directly image has been captured by NASA’s James Webb Space Telescope’s Near-Infrared Camera (NIRCam). In this stunning image of the Serpens Nebula, the discovery lies in the northern area (seen at the upper left) of this […] 
+
+<https://science.nasa.gov/missions/webb/first-of-its-kind-detection-made-in-striking-new-webb-image/>
+
+---
+
+## Standards Kitty
+
+date: 2024-06-20, from: Dave Winer's Scripting News
+
+<p>Here is the image of the cute yet sad "Standards Kitty." She feels the pain of someone reinventing something while claiming to support open standards. Despite her tears, she's still really adorable.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/20/standardsKittyIsSad.png"></center>Standards Kitty is sad.</div></p>
+ 
+
+<http://scripting.com/2024/06/20/134901.html?title=standardsKitty>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-20, from: Dave Winer's Scripting News)
+
+Why did the Podcast 2.0 people reinvent <a href="http://home.rsscloud.co/">rssCloud</a>? That's the kind of bullshit Google does. We don't do that in the open formats and protocols world. What really pains me is they claim to follow <a href="https://this.how/standards/">my</a> Rules for Standards-makers. Imho they do not. Two rules apply. <a href="https://this.how/standards/#1497798753000">Rule #1</a> says the only reason we do this is interop. It's called Rule #1 for a reason. And the <a href="https://this.how/standards/#1497798940000">one way</a> is better rule a little further down the page. I've seen this happen twice where people say they abide by the RFSM but then do exactly the opposite of what it says to do. We have to do this better people. Come on. Also come up with something more humble than the name you've chosen. We've been down this path too. The only way it ends is in tears. Meanwhile you've made the <a href="http://scripting.com/2024/06/20/134901.html?title=standardsKitty">Standards Kitty</a> cry. 
+
+<http://scripting.com/2024/06/20.html#a133741>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-20, from: Dave Winer's Scripting News)
+
+Now that I'm publishing a podcast feed designed to be read in commercial podcast clients, I'm learning for the first time how they work. For example, they seem to list shows not in the order they discovered them, as I do in my products, rather in order of pubDate. So when I set the dates on the shows from 2004 to their actual dates, that would have worked if I hadn't made a <a href="http://scripting.com/2024/06/19.html#a151601">mistake</a> in GMT-encoding the dates. Stupid programmer (me). Now they will show up first in the lists forever unless I switch to that form of dates. This so totally sucks. I wish there were something in RSS to say "Hey readers dump your cache now, let's start over, because I fcuked up." It wouldn't have mattered anyway, I'm sure none of them would listen, right? 
+
+<http://scripting.com/2024/06/20.html#a133225>
+
+---
+
+## Sneak Peek: Mundango
+
+date: 2024-06-20, from: Dave Rupert blog
+
+<p><tt>It’s a secret to everyone! This post is for RSS subscribers only.
+<a href="https://daverupert.com/rss-club/">Read more about RSS Club</a>.
+</tt></p>
+<img src="https://cdn.daverupert.com/posts/2024/mundango.png" alt="Screenshot of a Mundango bingo board" width="1200" height="719">
+<p><a href="https://mundango.daverupert.com/" class="button">Play Mundango</a></p>
+<p>I’ve got something for you. Lately I’ve been getting a lot of joy from life’s small moments; like texting an old friend, seeing a cool bug, or a watching the cardinals zip through my backyard. To nudge my brain towards absorbing more of these mundane pleasures, I built a little game.</p>
+<p>Mundango is a game about finding life’s normal things. Each day you get a new game of moments to capture and enjoy. It’s up to you how you play. You can play it like Pokémon Go and try to catch ‘em all or you can visit the board at the end of the day for a bit of reflection. Me? I plunk on it when I’ve got a few spare minutes throughout the day.</p>
+<p>I’ve got a couple feature requests on deck but it’s at a point where I’d love more feedback. <a href="https://mastodon.social/@davatron5000/112611154594927376">The activities were crowdsourced on Mastodon</a> so if you have some more suggestions of small simple moments that bring you joy, I’d love to hear them. Or if you have general ideas about what would this more interesting (e.g., a turtle mascot), let me know.</p> 
+
+<https://daverupert.com/2024/06/sneak-peek-mundango/>
+
+---
+
+## How Is Science Even Possible?
+
+date: 2024-06-20, from: Quanta Magazine
+
+How are scientists able to crack fundamental questions about nature and life? How does math make the complex cosmos understandable? In this episode, the physicist Nigel Goldenfeld and co-host Steven Strogatz explore the deep foundations of the scientific process.            <p>The post <a href="https://www.quantamagazine.org/how-is-science-even-possible-20240620/" target="_blank">How Is Science Even Possible?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/how-is-science-even-possible-20240620/>
+
+---
+
+## Force Feeding Faith
+
+date: 2024-06-20, updated: 2024-06-20, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/06/20/force-feeding-faith/>
+
+---
+
+## NASA Preserves Its Past at Kennedy While Building Future of Space
+
+date: 2024-06-20, from: NASA breaking news
+
+Current and former employees of NASA’s Kennedy Space Center in Florida gathered recently to celebrate the installation of a Florida Historical Marker cast in bronze at the location of the spaceport’s old headquarters building. The first of its kind inside the center’s secure area, the marker is the latest example of the center’s commitment to [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/nasa-preserves-its-past-at-kennedy-while-building-future-of-space/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-20, from: Dave Winer's Scripting News)
+
+ChatGPT is the Ozempic of online info-finding. Neither is a panacea, there are side-effects, but both make possible great feats that weren't possible before, and both have come about just in the last year or two. 
+
+<http://scripting.com/2024/06/20.html#a115837>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-20, from: Dave Winer's Scripting News)
+
+<a href="https://mastodon.social/@davew/112648408196566182">Until recently</a> I was always unsure of how to use CSS, been that way for many years. Then I started to use ChatGPT and could ask it how to do things, and I’ve gotten much closer to the designs I wanted, and I’m getting better at it with every project I do. 
+
+<http://scripting.com/2024/06/20.html#a115731>
+
+---
+
+## Facebook APIs are a sad place
+
+date: 2024-06-20, from: Dave Winer's Scripting News
+
+<p>I started to write the code to hook up my linkblogger to Threads, but it led me to the same website with all my broken Facebook apps, the ones that stopped working when they shut down the API after the 2016 election. A reminder that this is still Facebook. And while I don't blame them for shutting down the APIs, the whole experience left a really bad feeling. </p>
+<p>So I backed out of the project to give it some more thought. Do I really want to go down this road?</p>
+<p>And of course I had the cute little kitten illustrate.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/20/kittenStartledByThreadsAPI.png"></center>The kitten is startled by the Facebook developer site.</div></p>
+<p>A cute little kitten is sitting at a desk with a laptop, preparing to write an app. The laptop screen shows code for the Threads API from Meta. The kitten has a surprised and concerned expression as she looks at the developer site on another screen, which shows a Facebook logo and reminds her of the events of 2016. In the background, a calendar shows the year 2024. The scene is set in a cozy room with soft lighting and a few toys scattered around, giving it a homely feel.</p>
+ 
+
+<http://scripting.com/2024/06/20/115039.html?title=facebookApisAreASadPlace>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-20, from: Dave Winer's Scripting News)
+
+I'd like to do a series of interview-style podcasts. I'm <a href="https://mastodon.social/@davew/112648820680722618">wondering</a> if there are any services set up to make this easy. Or should we just use Zoom, and record the audio somehow? 
+
+<http://scripting.com/2024/06/20.html#a112702>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-20, from: Dave Winer's Scripting News)
+
+People of my generation (born 1955) are at the point in our lives when we would feel better if we got credit for our accomplishments, good intentions, the ways we made the world better, but it’s dawning on us that we didn’t make as much of a difference as we hoped to, and what little we did accomplish will largely go unrecognized. Even worse, none of it, even in the short term, made much of a difference. 😂Threads API reminds me wh 
+
+<http://scripting.com/2024/06/20.html#a111832>
+
+---
+
+## Introducing a computing curriculum in Odisha
+
+date: 2024-06-20, from: Raspberry Pi (.org)
+
+<p>We are working with two partner organisations in Odisha, India, to develop and roll out the IT &#38; Coding Curriculum (Kaushali), a computing curriculum for government high schools. Last year we launched the first part of the curriculum and rolled out teacher training. Read on to find out what we have learned from this work.&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/introducing-a-computing-curriculum-in-odisha/">Introducing a computing curriculum in Odisha</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/introducing-a-computing-curriculum-in-odisha/>
+
+---
+
+## Laser-cut business card necklace
+
+date: 2024-06-20, from: Raspberry Pi News (.com)
+
+<p>This laser-cut aluminium business card necklace means you never need to panic about running out of traditional cards ever again.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/laser-cut-business-card-necklace/">Laser-cut business card necklace</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/laser-cut-business-card-necklace/>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-06-20, from: Jessica Smith's blog)
+
+<p>So I think my Plex Media Server is basically kaput. The computer got unplugged somehow, and when I tried rebooting it, the unattended upgrades have broken the Linux install to the point that not even &ldquo;recovery mode&rdquo; works any more. I thought Linux Mint was supposed to be kind of idiot-proof but clearly not, lol. Next time I think I&rsquo;ll try Debian Stable&hellip; because clearly what I need is something <strong>stable</strong>! Geez.</p>
+<p>Anyway, I cancelled my Spotify subscription a few months ago so I guess I&rsquo;m resorting to YouTube Music now. The experience of using this instead of Plexamp will surely boot my arse into gear to re-setup the Plex server sooner rather than later 😐</p> 
+
+<https://www.jayeless.net/2024/06/plex-server-kaput.html>
+
+---
+
+## The ExectOS operating system
+
+date: 2024-06-19, from: OS News
+
+ExectOS is a preemptive, reentrant multitasking operating system that implements the XT architecture which derives from NT architecture. It is modular, and consists of two main layers: microkernel and user modes. Its’ kernel mode has full access to the hardware and system resources and runs code in a protected memory area. It consists of executive services, which is itself made up on many modules that do specific tasks, a kernel and drivers. Unlike the NT, system does not feature a separate Hardware Abstraction Layer (HAL) between the physical hardware and the rest of the OS. Instead, XT architecture integrates a hardware specific code with the kernel. The user mode is made up of subsystems and it has been designed to run applications written for many different types of operating systems. This allows us to implement any environment subsystem to support applications that are strictly written to the corresponding standard (eg. DOS, or POSIX). Thanks to that ExectOS will allow to run existing software, including Win32 applications. ↫ ExectOS website What ExectOS seems to be is an implementation very close to what Windows NT originally was &#8211; implementing the theory of Windows NT, not the reality. It&#8217;s clearly still in very early development, but in theory, I really like the idea of what they&#8217;re trying to achieve here. Windows NT is, after all, in and of itself not a bad concept &#8211; it&#8217;s just been tarred and feathered by decades of mismanagement from Microsoft. Implementing something that closely resembles the original, minimalist theories behind NT could lead to an interesting operating system for sure. ExectOS is open source, contains its own boot loader, only runs on EFI, and installation on real hardware, while technically possible, is discouraged. 
+
+<https://www.osnews.com/story/140011/the-exectos-operating-system/>
+
+---
+
+## The X Windowing System turns 40 today
+
+date: 2024-06-19, from: OS News
+
+Today just so happens to be the 40th birthday of X, the venerable windowing system that&#8217;s on its way out, at least in the Linux world. From the original announcement by Robert W. Scheifler: I&#8217;ve spent the last couple weeks writing a window system for the VS100. I stole a fair amount of code from W, surrounded it with an asynchronous rather than a synchronous interface, and called it X. Overall performance appears to be about twice that of W. The code seems fairly solid at this point, although there are still some deficiencies to be fixed up. We at LCS have stopped using W, and are now actively building applications on X. Anyone else using W should seriously consider switching. This is not the ultimate window system, but I believe it is a good starting point for experimentation. Right at the moment there is a CLU (and an Argus) interface to X; a C interface is in the works. The three existing applications are a text editor (TED), an Argus I/O interface, and a primitive window manager. There is no documentation yet; anyone crazy enough to volunteer? I may get around to it eventually. ↫ Robert W. Scheifler Reading this announcement email made me wonder if way back then, in 1984, the year of my birth, there were also people poo-pooing this new thing called &#8220;X&#8221; for not having all the features W had. There must&#8217;ve people posting angry messages on various BBS servers about how X is dumb and useless since it doesn&#8217;t have their feature in W that allows them to use an acoustic modem to send a signal over their internal telephone system by slapping their terminal in just the right spot to activate their Betamax that&#8217;s hotwired into the telephone system. I mean, W was only about a year old at the time, so probably not, but there must&#8217;ve been a lot of complaining and whining about this newfangled X thing, and now, 40 years later, long after it has outgrown its usefulness, we&#8217;re again dealing with people so hell-bent on keeping an outdated system running but hoping &#8211; nay, demanding &#8211; others to do the actual work of maintaining it. X served its purpose. It took way too long, but we&#8217;ve moved on. Virtually every new Linux user since roughly 12-24 months ago will most likely never use X, and never even know what it was. They&#8217;re using a more modern, more stable, more performant, more secure, and better maintained system, leading to a better user experience, and that&#8217;s something we should all agree on is a good thing. 
+
+<https://www.osnews.com/story/140008/the-x-windowing-system-turns-40-today/>
+
+---
+
+## Peter Easthope commented on issue #141 at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-06-19, updated: 2024-06-19, from: Oberon A2 at CAS
+
+
+<p data-sourcepos="1:1-1:168" dir="auto">P.s. in LinuxA2 Gen. 32-bit, Apr 19 2023, &lt;F12&gt; yields the confirmation &#34;Unloading HotKeys... done.&#34; but the key functionalities peculiar to Oberon remain absent.</p>
+<p data-sourcepos="3:1-3:192" dir="auto">Perhaps the intention is that HotKeys set the appropriate key functionality but it&#39;s not yet available.  Otherwise I don&#39;t have git-lfs working properly and the local executable isn&#39;t correct.</p>
+<p data-sourcepos="5:1-5:52" dir="auto">Is the Oberon subsystem working correctly elsewhere?</p>
+<p data-sourcepos="7:1-7:16" dir="auto">Thx,      ... P.</p>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/141#note_191913>
+
+---
+
+##  Photographer Sue Kwon Captured the New York Hip Hop Scene in Its... 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044845-photographer-sue-kwon-cap>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-19, from: Miguel de Icaza Mastondon feed)
+
+<p>8yo today sees a sign on a store and goes “that’s ai generated”</p><p>Sure it was, what I can’t figure out is how she knows this.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112645447920761348>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-19, from: Miguel de Icaza Mastondon feed)
+
+<p>From @abidlabs at twitter:</p><p>“Best HN comment.  Ever”</p> 
+
+<https://mastodon.social/@Migueldeicaza/112645274392360058>
+
+---
+
+##  How a Bicycle Is Made 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/how-a-bicycle-is-made-1>
+
+---
+
+##  &#8220;Historical fanfiction&#8221; and the dangerous intellectual dishonesty of originalism. &#8220;If you want... 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044841-historical-fanfiction-and>
+
+---
+
+## Apple Intelligence Training
+
+date: 2024-06-19, from: Michael Tsai
+
+Apple: In the following overview, we will detail how two of these models &#8212; a ~3 billion parameter on-device language model, and a larger server-based language model available with Private Cloud Compute and running on Apple silicon servers &#8212; have been built and adapted to perform specialized tasks efficiently, accurately, and responsibly.[&#8230;]Our foundation models are [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/19/apple-intelligence-training/>
+
+---
+
+## Customizable Control Center and Lock Screen Buttons in iOS 18
+
+date: 2024-06-19, from: Michael Tsai
+
+Tim Hardwick: In iOS 18, when you invoke Control Center with a swipe down from the top-right of your iPhone&#8217;s screen, you can continuously swipe to get to more control center screens. There&#8217;s a new controls gallery that lets you customize the controls you see, and you can change the size of buttons to emphasize [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/19/customizable-control-center-and-lock-screen-buttons-in-ios-18/>
+
+---
+
+## Tab Bar and Sidebar in iPadOS 18
+
+date: 2024-06-19, from: Michael Tsai
+
+Tim Hardwick: In iPadOS 18, Apple has redesigned the tab bar experience for many apps like Podcasts, Apple TV, and Apple Music. Previously in these apps, tabs sat at the bottom of the interface. When in portrait orientation however, tab bars now sit at the top of these apps to be closer to other navigation [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/19/tab-bar-and-sidebar-in-ipados-18/>
+
+---
+
+## Arvind, RIP
+
+date: 2024-06-19, from: Michael Tsai
+
+Adam Zewe (via Hacker News): A prolific researcher who led the Computation Structures Group in the Computer Science and Artificial Intelligence Laboratory (CSAIL), Arvind served on the MIT faculty for nearly five decades. [&#8230;] As a scientist, Arvind was well known for important contributions to dataflow computing, which seeks to optimize the flow of data [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/19/arvind-rip/>
+
+---
+
+##  Mel Brooks is producing a sequel to Spaceballs with Josh Gad starring.... 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044829-mel-brooks-is-producing-a>
+
+---
+
+##  A Massive Trove of Aerial Photos of Glaciers 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/a-massive-trove-of-aerial-photos-of-glaciers>
+
+---
+
+##  How heat affects our brains: it makes us dumber, irritable, impulsive, and... 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044839-how-heat-affects-our-brai>
+
+---
+
+## Bomb Squad Peripherals' BLOWGUN
+
+date: 2024-06-19, from: Computer ads from the Past
+
+It Could Have Been a Lot Worse - His Data is BLOWGUN Protected! 
+
+<https://computeradsfromthepast.substack.com/p/bomb-squad-peripherals-blowgun>
+
+---
+
+##  It&#8217;s always worth reading Timothy Snyder on fascism: The Shamans (SCOTUS) and... 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044836-its-always-worth-reading->
+
+---
+
+##  The Science of Having a Great Conversation. &#8220;The art of conversation is... 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044835-the-science-of-having-a>
 
 ---
 
@@ -63,7 +429,7 @@ Technical note. I made a <a href="https://imgs.scripting.com/2024/06/19/datesoff
 
 **@Dave Winer's Scripting News** (date: 2024-06-19, from: Dave Winer's Scripting News)
 
-Today's <a href="http://scripting.com/podcast0/rss.xml">podcast-zero</a> episode is up. It's from June 14, 2004. It's 1/2 of a panel in 1991 that I was on with Bill Gates. This is before the turn to the web. At this point I'm starting to look around for audio that might fit into this new audio blog channel that goes with my written blog. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/11/nakedJenToday.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Today's <a href="http://scripting.com/podcast0/rss.xml">podcast-zero</a> episode is up. It's from June 14, 2004. It's 1/2 of a panel in 1991 that I was on with Bill Gates. This is before the turn to the web. At this point I'm starting to look around for audio that might fit into this new audio blog channel that goes with my written blog. 
 
 <http://scripting.com/2024/06/19.html#a151042>
 
@@ -222,6 +588,16 @@ date: 2024-06-19, from: PostgreSQL News
 <p>Postgres Ibiza is a Community Postgres event, organized by the non-profit <a href="https://postgresql.fund">Fundación PostgreSQL</a>.</p> 
 
 <https://www.postgresql.org/about/news/postgres-ibiza-2024-2878/>
+
+---
+
+## AI Tinkerers Ottawa v2.5.0 trip report
+
+date: 2024-06-19, from: Ze Iaso's blog
+
+I love this meetup so much 
+
+<https://xeiaso.net/notes/2024/ait-ottawa-2.5.0/>
 
 ---
 

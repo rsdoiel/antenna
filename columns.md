@@ -1,11 +1,386 @@
 ---
 title: columns 2024.25
-updated: 2024-06-19 08:57:12
+updated: 2024-06-20 07:50:37
 ---
 
 # columns 2024.25
 
-(date: 2024-06-19 08:57:12)
+(date: 2024-06-20 07:50:37)
+
+---
+
+##  Trolley Problem Variations for Dads. &#8220;As he begins to think it over,... 
+
+date: 2024-06-20, updated: 2024-06-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044843-trolley-problem-variation>
+
+---
+
+## Standards Kitty
+
+date: 2024-06-20, from: Dave Winer's Scripting News
+
+<p>Here is the image of the cute yet sad "Standards Kitty." She feels the pain of someone reinventing something while claiming to support open standards. Despite her tears, she's still really adorable.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/20/standardsKittyIsSad.png"></center>Standards Kitty is sad.</div></p>
+ 
+
+<http://scripting.com/2024/06/20/134901.html?title=standardsKitty>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-20, from: Dave Winer's Scripting News)
+
+Why did the Podcast 2.0 people reinvent <a href="http://home.rsscloud.co/">rssCloud</a>? That's the kind of bullshit Google does. We don't do that in the open formats and protocols world. What really pains me is they claim to follow <a href="https://this.how/standards/">my</a> Rules for Standards-makers. Imho they do not. Two rules apply. <a href="https://this.how/standards/#1497798753000">Rule #1</a> says the only reason we do this is interop. It's called Rule #1 for a reason. And the <a href="https://this.how/standards/#1497798940000">one way</a> is better rule a little further down the page. I've seen this happen twice where people say they abide by the RFSM but then do exactly the opposite of what it says to do. We have to do this better people. Come on. Also come up with something more humble than the name you've chosen. We've been down this path too. The only way it ends is in tears. Meanwhile you've made the <a href="http://scripting.com/2024/06/20/134901.html?title=standardsKitty">Standards Kitty</a> cry. 
+
+<http://scripting.com/2024/06/20.html#a133741>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-20, from: Dave Winer's Scripting News)
+
+Now that I'm publishing a podcast feed designed to be read in commercial podcast clients, I'm learning for the first time how they work. For example, they seem to list shows not in the order they discovered them, as I do in my products, rather in order of pubDate. So when I set the dates on the shows from 2004 to their actual dates, that would have worked if I hadn't made a <a href="http://scripting.com/2024/06/19.html#a151601">mistake</a> in GMT-encoding the dates. Stupid programmer (me). Now they will show up first in the lists forever unless I switch to that form of dates. This so totally sucks. I wish there were something in RSS to say "Hey readers dump your cache now, let's start over, because I fcuked up." It wouldn't have mattered anyway, I'm sure none of them would listen, right? 
+
+<http://scripting.com/2024/06/20.html#a133225>
+
+---
+
+## Sneak Peek: Mundango
+
+date: 2024-06-20, from: Dave Rupert blog
+
+<p><tt>It’s a secret to everyone! This post is for RSS subscribers only.
+<a href="https://daverupert.com/rss-club/">Read more about RSS Club</a>.
+</tt></p>
+<img src="https://cdn.daverupert.com/posts/2024/mundango.png" alt="Screenshot of a Mundango bingo board" width="1200" height="719">
+<p><a href="https://mundango.daverupert.com/" class="button">Play Mundango</a></p>
+<p>I’ve got something for you. Lately I’ve been getting a lot of joy from life’s small moments; like texting an old friend, seeing a cool bug, or a watching the cardinals zip through my backyard. To nudge my brain towards absorbing more of these mundane pleasures, I built a little game.</p>
+<p>Mundango is a game about finding life’s normal things. Each day you get a new game of moments to capture and enjoy. It’s up to you how you play. You can play it like Pokémon Go and try to catch ‘em all or you can visit the board at the end of the day for a bit of reflection. Me? I plunk on it when I’ve got a few spare minutes throughout the day.</p>
+<p>I’ve got a couple feature requests on deck but it’s at a point where I’d love more feedback. <a href="https://mastodon.social/@davatron5000/112611154594927376">The activities were crowdsourced on Mastodon</a> so if you have some more suggestions of small simple moments that bring you joy, I’d love to hear them. Or if you have general ideas about what would this more interesting (e.g., a turtle mascot), let me know.</p> 
+
+<https://daverupert.com/2024/06/sneak-peek-mundango/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-20, from: Dave Winer's Scripting News)
+
+ChatGPT is the Ozempic of online info-finding. Neither is a panacea, there are side-effects, but both make possible great feats that weren't possible before, and both have come about just in the last year or two. 
+
+<http://scripting.com/2024/06/20.html#a115837>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-20, from: Dave Winer's Scripting News)
+
+<a href="https://mastodon.social/@davew/112648408196566182">Until recently</a> I was always unsure of how to use CSS, been that way for many years. Then I started to use ChatGPT and could ask it how to do things, and I’ve gotten much closer to the designs I wanted, and I’m getting better at it with every project I do. 
+
+<http://scripting.com/2024/06/20.html#a115731>
+
+---
+
+## Facebook APIs are a sad place
+
+date: 2024-06-20, from: Dave Winer's Scripting News
+
+<p>I started to write the code to hook up my linkblogger to Threads, but it led me to the same website with all my broken Facebook apps, the ones that stopped working when they shut down the API after the 2016 election. A reminder that this is still Facebook. And while I don't blame them for shutting down the APIs, the whole experience left a really bad feeling. </p>
+<p>So I backed out of the project to give it some more thought. Do I really want to go down this road?</p>
+<p>And of course I had the cute little kitten illustrate.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/20/kittenStartledByThreadsAPI.png"></center>The kitten is startled by the Facebook developer site.</div></p>
+<p>A cute little kitten is sitting at a desk with a laptop, preparing to write an app. The laptop screen shows code for the Threads API from Meta. The kitten has a surprised and concerned expression as she looks at the developer site on another screen, which shows a Facebook logo and reminds her of the events of 2016. In the background, a calendar shows the year 2024. The scene is set in a cozy room with soft lighting and a few toys scattered around, giving it a homely feel.</p>
+ 
+
+<http://scripting.com/2024/06/20/115039.html?title=facebookApisAreASadPlace>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-20, from: Dave Winer's Scripting News)
+
+I'd like to do a series of interview-style podcasts. I'm <a href="https://mastodon.social/@davew/112648820680722618">wondering</a> if there are any services set up to make this easy. Or should we just use Zoom, and record the audio somehow? 
+
+<http://scripting.com/2024/06/20.html#a112702>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-20, from: Dave Winer's Scripting News)
+
+People of my generation (born 1955) are at the point in our lives when we would feel better if we got credit for our accomplishments, good intentions, the ways we made the world better, but it’s dawning on us that we didn’t make as much of a difference as we hoped to, and what little we did accomplish will largely go unrecognized. Even worse, none of it, even in the short term, made much of a difference. 😂Threads API reminds me wh 
+
+<http://scripting.com/2024/06/20.html#a111832>
+
+---
+
+## Inside 22,734 Steam games
+
+date: 2024-06-20, from: Daniel Stenberg Blog
+
+About a year ago I blogged about games that use curl. In that post I listed a bunch of well-known titles I knew use curl and there was a list of 136 additional games giving credit to curl. Kind of amazing that over one hundred games decided to use curl! At the time, lots of &#8230; <a href="https://daniel.haxx.se/blog/2024/06/20/inside-22734-steam-games/" class="more-link">Continue reading <span class="screen-reader-text">Inside 22,734 Steam games</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/06/20/inside-22734-steam-games/>
+
+---
+
+## Recovering Public Keys from Signatures
+
+date: 2024-06-20, updated: 2024-06-19, from: Bruce Schneier blog
+
+<p>Interesting summary of various ways to <a href="https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/">derive the public key</a> from digitally signed files.</p>
+<blockquote><p>Normally, with a signature scheme, you have the public key and want to know whether a given signature is valid. But what if we instead have a message and a signature, assume the signature is valid, and want to know which public key signed it? A rather delightful property if you want to attack anonymity in some proposed &#8220;everybody just uses cryptographic signatures for everything&#8221; scheme.</p></blockquote>
+ 
+
+<https://www.schneier.com/blog/archives/2024/06/recovering-public-keys-from-signatures.html>
+
+---
+
+## Biden should welcome their hatred
+
+date: 2024-06-20, from: Robert Reich's blog
+
+Advice for Joe in his first debate with the convicted felon &#8212; one week from tonight 
+
+<https://robertreich.substack.com/p/biden-must-welcome-their-hatred>
+
+---
+
+## Good idea?
+
+date: 2024-06-20, from: Tracy Durnell Blog
+
+The power of blogging! 🦾Trying to explain it to someone else is also a good way to quickly purge bad ideas! Many a time I have realized midway through explanation that it is silly or rooted in unjustified anxieties. 
+
+<https://tracydurnell.com/2024/06/19/good-idea/>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-06-20, from: Jessica Smith's blog)
+
+<p>So I think my Plex Media Server is basically kaput. The computer got unplugged somehow, and when I tried rebooting it, the unattended upgrades have broken the Linux install to the point that not even &ldquo;recovery mode&rdquo; works any more. I thought Linux Mint was supposed to be kind of idiot-proof but clearly not, lol. Next time I think I&rsquo;ll try Debian Stable&hellip; because clearly what I need is something <strong>stable</strong>! Geez.</p>
+<p>Anyway, I cancelled my Spotify subscription a few months ago so I guess I&rsquo;m resorting to YouTube Music now. The experience of using this instead of Plexamp will surely boot my arse into gear to re-setup the Plex server sooner rather than later 😐</p> 
+
+<https://www.jayeless.net/2024/06/plex-server-kaput.html>
+
+---
+
+## Perplexity AI Is Lying About Their User Agent
+
+date: 2024-06-20, updated: 2024-06-20, from: Daring Fireball
+
+ 
+
+<https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/>
+
+---
+
+## Wired: ‘Perplexity Is a Bullshit Machine’
+
+date: 2024-06-20, updated: 2024-06-20, from: Daring Fireball
+
+ 
+
+<https://www.wired.com/story/perplexity-is-a-bullshit-machine/>
+
+---
+
+## A Rose by Any Other Name Would Smell as Sweet; An Encryption Back Door by Any Other Name Would Still Smell Like Shit
+
+date: 2024-06-20, updated: 2024-06-20, from: Daring Fireball
+
+ 
+
+<https://signal.org/blog/pdfs/upload-moderation.pdf>
+
+---
+
+## Copilot Plus PCs, Where the ‘Plus’ Means More Dumb Stickers
+
+date: 2024-06-20, updated: 2024-06-20, from: Daring Fireball
+
+ 
+
+<https://www.threads.net/@thurrott/post/C8X-mm1uP9f/>
+
+---
+
+## June 19, 2024 
+
+date: 2024-06-20, from: Heather Cox Richardson blog
+
+Today is the federal holiday honoring Juneteenth, the celebration of the announcement in Texas on June 19th, 1865, that enslaved Americans were free. That announcement came as late as it did because, while General Robert E. Lee surrendered his Army of Northern Virginia to General Ulysses S. Grant of the U.S. Army on April 9, 1865, it was not until June 2 that General Edmund Kirby Smith surrendered the Trans-Mississippi Department, the last major army of the Confederacy, to the United States, in Galveston, Texas. Smith then fled to Mexico. 
+
+<https://heathercoxrichardson.substack.com/p/june-19-2024>
+
+---
+
+## Samsung Warns That Their New Snapdragon-Based PCs Aren’t Compatible With Fortnite or Some Adobe Apps
+
+date: 2024-06-20, updated: 2024-06-20, from: Daring Fireball
+
+ 
+
+<https://www.wsj.com/tech/new-samsung-laptop-with-ai-functions-has-trouble-running-software-including-fortnite-2f7f011a?st=gfu4vgy6nfofh42&reflink=desktopwebshare_permalink>
+
+---
+
+## OpenAI Co-Founder Launches New Startup
+
+date: 2024-06-20, from: Om Malik blog
+
+It might as well be an episode from&#160;&#8220;Days&#160;of Our (AI) Lives. Ilya Sutskever, co-founder of OpenAI, who left the company earlier this spring, is back in&#160;action&#160;with a new startup, Safe Superintelligence (SSI). Daniel Gross, former&#160;AI&#160;lead&#160;at Apple,&#160;and&#160;researcher&#160;Daniel Levy are co-founders of the&#160;company. Sutskever is a well-respected and revered&#160;researcher&#160;who was part of&#160;Geoffrey&#160;Hinton&#8217;s core research&#160;group&#160;and also at Google. &#8230; 
+
+<https://om.co/2024/06/19/openai-co-founder-launches-new-startup/>
+
+---
+
+## FTC Lawsuit Alleges Adobe’s Cancellation Fees Are Illegal
+
+date: 2024-06-20, updated: 2024-06-20, from: Daring Fireball
+
+ 
+
+<https://arstechnica.com/tech-policy/2024/06/ftc-sues-adobe-over-hefty-hidden-fees-manipulative-sign-ups/>
+
+---
+
+## Mike Masnick: ‘The Surgeon General Is Wrong; Social Media Doesn’t Need Warning Labels’
+
+date: 2024-06-19, updated: 2024-06-19, from: Daring Fireball
+
+ 
+
+<https://www.thedailybeast.com/the-surgeon-general-is-wrong-social-media-doesnt-need-warning-labels>
+
+---
+
+## OpenAI Expats Found ‘Safe Superintelligence Inc.’
+
+date: 2024-06-19, updated: 2024-06-19, from: Daring Fireball
+
+ 
+
+<https://ssi.inc/>
+
+---
+
+##  Photographer Sue Kwon Captured the New York Hip Hop Scene in Its... 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044845-photographer-sue-kwon-cap>
+
+---
+
+##  How a Bicycle Is Made 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/how-a-bicycle-is-made-1>
+
+---
+
+## The overwhelming loudness of performance
+
+date: 2024-06-19, from: Tracy Durnell Blog
+
+&#8220;Mad Max is Sidelined in His Own Movie,&#8221; and Why Patently Wrong Ideas Never Die by Freddie deBoer I think ideas become memes because a lot of people are afraid to have their own ideas. I think people say this sort of thing because the internet has taught them that the only thing that matters [&#8230;] 
+
+<https://tracydurnell.com/2024/06/19/the-overwhelming-loudness-of-performance/>
+
+---
+
+## New Blog Moderation Policy
+
+date: 2024-06-19, updated: 2024-06-19, from: Bruce Schneier blog
+
+<p>There has been a lot of toxicity in the comments section of this blog. Recently, we&#8217;re having to delete more and more comments. Not just spam and off-topic comments, but also sniping and personal attacks. It&#8217;s gotten so bad that I need to do something.</p>
+<p>My options are limited because I&#8217;m just one person, and this website is free, ad-free, and anonymous. I pay for a part-time moderator out of pocket; he isn&#8217;t able to constantly monitor comments. And I&#8217;m unwilling to require verified accounts.</p>
+<p>So starting now, we will be pre-screening comments and letting through only those that 1) are on topic, 2) contribute to the discussion, and 3) don&#8217;t attack or insult anyone. The standard is not going to be &#8220;well, I guess this doesn&#8217;t technically quite break a rule,&#8221; but &#8220;is this actually contributing.&#8221;...</p> 
+
+<https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html>
+
+---
+
+##  &#8220;Historical fanfiction&#8221; and the dangerous intellectual dishonesty of originalism. &#8220;If you want... 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044841-historical-fanfiction-and>
+
+---
+
+##  Mel Brooks is producing a sequel to Spaceballs with Josh Gad starring.... 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044829-mel-brooks-is-producing-a>
+
+---
+
+##  A Massive Trove of Aerial Photos of Glaciers 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/a-massive-trove-of-aerial-photos-of-glaciers>
+
+---
+
+##  How heat affects our brains: it makes us dumber, irritable, impulsive, and... 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044839-how-heat-affects-our-brai>
+
+---
+
+##  It&#8217;s always worth reading Timothy Snyder on fascism: The Shamans (SCOTUS) and... 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044836-its-always-worth-reading->
+
+---
+
+##  The Science of Having a Great Conversation. &#8220;The art of conversation is... 
+
+date: 2024-06-19, updated: 2024-06-19, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044835-the-science-of-having-a>
+
+---
+
+## ‘That’s Odd — Usually the Blood Gets Off at the Second Floor’
+
+date: 2024-06-19, updated: 2024-06-19, from: Daring Fireball
+
+ 
+
+<https://lmnt.me/blog/wallpapers/overlook-hotel.html>
+
+---
+
+## June 18, 2024
+
+date: 2024-06-19, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/june-18-2024-7be>
 
 ---
 
@@ -47,7 +422,7 @@ Technical note. I made a <a href="https://imgs.scripting.com/2024/06/19/datesoff
 
 **@Dave Winer's Scripting News** (date: 2024-06-19, from: Dave Winer's Scripting News)
 
-Today's <a href="http://scripting.com/podcast0/rss.xml">podcast-zero</a> episode is up. It's from June 14, 2004. It's 1/2 of a panel in 1991 that I was on with Bill Gates. This is before the turn to the web. At this point I'm starting to look around for audio that might fit into this new audio blog channel that goes with my written blog. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/11/nakedJenToday.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Today's <a href="http://scripting.com/podcast0/rss.xml">podcast-zero</a> episode is up. It's from June 14, 2004. It's 1/2 of a panel in 1991 that I was on with Bill Gates. This is before the turn to the web. At this point I'm starting to look around for audio that might fit into this new audio blog channel that goes with my written blog. 
 
 <http://scripting.com/2024/06/19.html#a151042>
 

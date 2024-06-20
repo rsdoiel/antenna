@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.25
-updated: 2024-06-19 08:57:05
+updated: 2024-06-20 07:50:36
 ---
 
 # mid central 2024.25
 
-(date: 2024-06-19 08:57:05)
+(date: 2024-06-20 07:50:36)
+
+---
+
+## Solar day-lamp with active MPPT and no ballast resistors
+
+date: 2024-06-20, from: EDN Blog
+
+<img width="956" height="1036" src="https://www.edn.com/wp-content/uploads/SolarDayLamp_Figure.png?fit=956%2C1036" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/SolarDayLamp_Figure.png?w=956 956w, https://www.edn.com/wp-content/uploads/SolarDayLamp_Figure.png?w=277 277w, https://www.edn.com/wp-content/uploads/SolarDayLamp_Figure.png?w=768 768w, https://www.edn.com/wp-content/uploads/SolarDayLamp_Figure.png?w=945 945w" sizes="(max-width: 956px) 100vw, 956px" /><p>A solar day lamp design with active MPPT, a high voltage, constant-current LED drive, and no ballast resistors.</p>
+<p>The post <a href="https://www.edn.com/solar-day-lamp-with-active-mppt-and-no-ballast-resistors/" data-wpel-link="internal">Solar day-lamp with active MPPT and no ballast resistors</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/solar-day-lamp-with-active-mppt-and-no-ballast-resistors/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2024-06-19 08:57:05
 
 date: 2024-06-19, from: EDN Blog
 
-<img width="1106" height="394" src="https://www.edn.com/wp-content/uploads/Figure-3-12.jpg?fit=1106%2C394" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-3-12.jpg?w=1106 1106w, https://www.edn.com/wp-content/uploads/Figure-3-12.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-3-12.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Figure-3-12.jpg?w=1024 1024w" sizes="(max-width: 1106px) 100vw, 1106px" /><p>V2G can revolutionize automotive/energy industries but the existence of multiple V2G architectures requires effort for standards compliance. </p>
+<img width="1106" height="394" src="https://www.edn.com/wp-content/uploads/Figure-3-12.jpg?fit=1106%2C394" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure-3-12.jpg?w=1106 1106w, https://www.edn.com/wp-content/uploads/Figure-3-12.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-3-12.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Figure-3-12.jpg?w=1024 1024w" sizes="(max-width: 1106px) 100vw, 1106px" /><p>V2G can revolutionize automotive/energy industries but the existence of multiple V2G architectures requires effort for standards compliance. </p>
 <p>The post <a href="https://www.edn.com/overcoming-v2g-implementation-challenges/" data-wpel-link="internal">Overcoming V2G implementation challenges</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
