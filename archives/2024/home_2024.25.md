@@ -1,11 +1,31 @@
 ---
 title: home 2024.25
-updated: 2024-06-20 07:50:39
+updated: 2024-06-21 06:37:58
 ---
 
 # home 2024.25
 
-(date: 2024-06-20 07:50:39)
+(date: 2024-06-21 06:37:58)
+
+---
+
+## CDFA partners with California Certified Organic Farmers on trade mission to Mexico
+
+date: 2024-06-20, from: Calfifornia Dept. Aggriculture blog
+
+This week a delegation of California organic companies traveled to Guadalajara and Mexico City to meet with foreign buyers and learn about market opportunities for organic products. California is the nation’s largest agricultural producer of organic products, and Mexico imported &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27937">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27937>
+
+---
+
+## Celebrating LGBTQ+ Pride Month: a CDFA panel discussion
+
+date: 2024-06-20, from: Calfifornia Dept. Aggriculture blog
+
+June is LGBTQ+ Pride Month, and this week, CDFA’s Diversity, Equity and Inclusion (DEI) Committee and the agency’s Office of Civil Rights commemorated the month with a panel discussion featuring CDFA employees who are members of the LGBTQ+ community. Moderated &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27929">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27929>
 
 ---
 

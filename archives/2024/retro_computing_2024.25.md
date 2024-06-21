@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.25
-updated: 2024-06-20 07:50:40
+updated: 2024-06-21 06:37:59
 ---
 
 # retro computing 2024.25
 
-(date: 2024-06-20 07:50:40)
+(date: 2024-06-21 06:37:59)
+
+---
+
+## SUSE Offers CentOS 7 Spport with Liberty Linux Lite
+
+date: 2024-06-20, from: Linux Magazine
+
+<p>SUSE's Liberty Linux support offering now includes CentOS 7, which means businesses won't be forced to migrate those servers for some time.</p> 
+
+<http://www.linux-magazine.com/Online/News/SUSE-Offers-CentOS-7-Spport-with-Liberty-Linux-Lite>
 
 ---
 

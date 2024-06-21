@@ -1,11 +1,493 @@
 ---
 title: tech likely 2024.25
-updated: 2024-06-20 07:50:37
+updated: 2024-06-21 06:37:56
 ---
 
 # tech likely 2024.25
 
-(date: 2024-06-20 07:50:37)
+(date: 2024-06-21 06:37:56)
+
+---
+
+##  How do we know how many people died of Covid-19? &#8220;After four... 
+
+date: 2024-06-21, updated: 2024-06-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044849-how-do-we-know-how>
+
+---
+
+## Chill Out, Ride a Pickle
+
+date: 2024-06-21, updated: 2024-06-21, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/06/21/chill-out-ride-a-pickle/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-21, from: Dave Winer's Scripting News)
+
+The best software does one thing well, that a lot of people want to do, that there is no other way to do. I've never seen this, but it's the ideal. 
+
+<http://scripting.com/2024/06/21.html#a125345>
+
+---
+
+## How to escape VMware's pricey clutches with Virt-v2v
+
+date: 2024-06-21, updated: 2024-06-21, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Devconf.cz</span> Or any other hypervisors that might hypothetically be acquired or suddenly get more costly</h4>
+      <p>Moving a VM from one host machine to another is easy. Moving VMs from one hypervisor to another is less trivial – but help is at hand.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/06/21/virtv2v_helps_you_move_vms/>
+
+---
+
+##  50 Years Ago in Photos: A Look Back at 1974. Gas shortages,... 
+
+date: 2024-06-21, updated: 2024-06-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044844-50-years-ago-in-photos>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-21, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/21/wordleKittyHello.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Bruce Schneier</a> has a new blog moderation policy. Everyone should have <a href="https://this.how/commentGuidelines/">one</a>. He's a bit of a troll himself. Once he gave a talk at an O'Reilly conference, and while I was in the audience, accused me of designing <a href="http://xmlrpc.com/">XML-RPC</a> to get around firewalls. I happen to know that's not true, and in fact you can <i>easily</i> spec a firewall rule that keeps out XML-RPC calls, that was a design goal. So I waited my turn, and explained. He just stood there, offered no apology or retraction or explanation. Now that's fucked up Bruce. From that point on I never believed any of his proclamations. And I rarely forget people who openly trash my rep like that. Tech is so fucked up that way. People like Schneier take advantage of the fact that people don't understand the terminology so they get away with hurling insults randomly like that. 
+
+<http://scripting.com/2024/06/21.html#a122650>
+
+---
+
+## Raspberry Pi at Open Sauce 2024
+
+date: 2024-06-21, from: Raspberry Pi News (.com)
+
+<p>We're just back from Open Sauce 2024. We've never seen so many makers, tech enthusiasts, and YouTubers all in one place before.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/raspberry-pi-at-open-sauce-2024/">Raspberry Pi at Open Sauce 2024</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/raspberry-pi-at-open-sauce-2024/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-21, from: Dave Winer's Scripting News)
+
+There's a new kitten to keep track of -- <a href="https://imgs.scripting.com/2024/06/21/wordleKittyYeahYeahYeahSoFreakingCute.png">Wordle Kitty</a>. When I need to score a big win, I turn Wordle over to this kitten and she does a <a href="https://www.facebook.com/dave.winer.12/posts/pfbid0szTePh1cFbHgfrfiiHVhBBcnvJVEJWYpw4F4ZP1pVB1iwFgo7o82DNA52x2FQEJrl">kickass job</a> while remaining as cute as can be. 
+
+<http://scripting.com/2024/06/21.html#a121235>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-21, from: Dave Winer's Scripting News)
+
+Thanks for all the good advice via email and <a href="https://mastodon.social/@davew/112648820680722618">Mastodon</a> re best way to <a href="http://scripting.com/2024/06/20.html#a112702">record an interview podcast</a> in 2024. I'm really getting into this. I'm definitely going to come up with a nice pure podcast feed for Scripting News. But first I have some new software to ship. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/06/21.html#a121044>
+
+---
+
+## Hubble Captures Infant Stars Transforming a Nebula
+
+date: 2024-06-21, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image presents a visually striking collection of interstellar gas and dust. Named RCW 7, the nebula is located just over 5,300 light-years from Earth in the constellation Puppis. Nebulae are areas rich in the raw material needed to form new stars. Under the influence of gravity, parts of these molecular […] 
+
+<https://science.nasa.gov/missions/hubble/hubble-captures-infant-stars-transforming-a-nebula/>
+
+---
+
+##  The Models for American Gothic 
+
+date: 2024-06-21, updated: 2024-06-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/the-models-for-american-gothic-1>
+
+---
+
+## P&B: Jennifer Devastatia del Gato
+
+date: 2024-06-21, from: Manu - I write blog
+
+
+                <p>This is the 43rd edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have Jennifer "💕 Devastatia 💕" del Gato and her blog, <a href="https://devastatia.com">devastatia.com</a></p>
+<p>I think I have mentioned it before but I absolutely love her site because it's precisely everything mine isn't. My site is this super clean, super calm place, with no JS, no weirdness going on, and almost no images. Her site is a proper experience and you'll understand what I mean when you click that link. And even though the containers are incredibly different we share an appreciation for a certain type of living the web which is why I'm very grateful to have her as a guest on this series.</p>
+<p>To follow this series <a href="https://peopleandblogs.com">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed">RSS feed</a>.</p>
+<p>If you're enjoying the People and Blogs series and you want to see it grow, consider supporting on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a>.</p>
+<hr />
+<h2>Let's start from the basics: can you introduce yourself?</h2>
+<p>I was born and raised in the southern United States. I think I got a reasonably decent public education in an era just before the education system, both higher and lower, started becoming extremist indoctrination. You'll find countless Gen Xers online these days reminiscing about the things we used to do as kids. There's not much I can add to that as far as everyday life goes.</p>
+<p>I became an avid fan of science fiction at an early age, and developed a fascination with history, science, electronics, and computers. The two latter were the same hobby back then, actually. You had to understand electronics to mess around with computers.</p>
+<h2>What's the story behind your blog?</h2>
+<p>The funny thing is that I don't really call my website a "blog" or consider myself to be a "blogger" per se. I didn't really have a plan or goal for what I wanted to do with my personal website when I started it. I only knew that the social media paradigm wasn't working for me, and I needed to do something else.</p>
+<p>My stock in trade has long been shitposting on "free speech" forums and social media. I have a habit of getting banned from social media sites because the normies don't get my sense of humor. I'm not interested in making my opinions "advertiser-friendly," nor in virtue-signaling to censorious, self-righteous ideologues. It's popular amongst the simple-minded these days to label people as bigots on the basis of colorful remarks. In so doing, the self-appointed thought police often completely miss the point the writer was trying to make. As a feral Gen Xer, I don't have the patience to walk on eggshells around thin-skinned people. If I can't be honest and authentic, then why bother?</p>
+<p>An essential aspect of my modus operandi is to always return to a "last known good" state when current conditions aren't yielding favorable results. I've been on the World Wide Web since 1994, and have owned personal websites before. I mean that's what everybody did when the Internet was first opened to the public. The ever-growing litany of creative constraints imposed by social media over the years more or less forced my return to the "real" Internet.</p>
+<p>The name "Devastatia" was a nickname I made up for a cat I used to have. Audrey and her big brother Elvis liked to tear things up, as cats do, so I gave them the nicknames Dr. Destructo and his lovely assistant, Devastatia. It had a gothy ring to it, and since I'm a goth, I thought it'd make a catchy screen name.</p>
+<p>I thought it would be funny to spoof social media "influencers" — low-talent midwits with swollen egos — so I built a sort of role-playing character around that idea. That's how Devastatia was born.</p>
+<h2>What does your creative process look like when it comes to blogging?</h2>
+<p>You've heard the expression, "The jokes write themselves," right? Well, the Internet is basically one big lolcow for those of us who can see the humor in almost anything. Most of my social commentary and shitposting is in response to things I see online.</p>
+<p>Nearly everything I write is my own opinion and shouldn't be taken as fact. "Fact-checking" has acquired an unsavory connotation for me due to the way it's ham-handedly rammed down our throats, sans nuance or context, by ideologues in the mainstream media and on social media. When I do research something, it's usually just a quick Web search in which I choose a few links that have intriguing titles or summaries, not necessarily the "most relevant" results as decided by the search engines. Some of those links lead to fact-checking articles, but they're not typically the agenda-driven kind.</p>
+<p>I re-read and edit the crap out of an article after I publish it, usually for hours, and sometimes for days. I'm careful not to make spelling or grammatical errors, but some occasionally slip through. I catch most of them the same day by re-reading though. Most of my editing is done to improve the flow of a passage, to add content I forgot to include in the first draft, or to express something in a more picturesque way. Sometimes I'll come up with a relevant joke hours later, and throw it in retroactively to liven the piece up.</p>
+<p>I think the most glaring error I've made was a continuity error in one of my erotic short stories. A reader brought it to my attention months after the piece was published. A peripheral character, coincidentally named Manuel, was identified as the brother of a main character in one episode, but as his cousin in the following episode.</p>
+<p>I write a lot about Web development because that's what interests me. I decorate my pages with irrelevant naughty pictures because I like looking at them, and my readers tell me they do too. I aim to be nerdy, funny, and sexy at the same time. I think I mostly succeed at that.</p>
+<h2>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</h2>
+<p>I just need for it to be reasonably quiet and dark. When I started messing with computers, everything was green or amber text in a fixed-width font on a black background — which, incidentally, is why my website resembles an old school terminal. I use a dark mode browser plugin on every site I visit. Staring at a page with a white background is like staring into a flashlight. Why would anybody do such a thing?</p>
+<p>I usually don't notice my physical surroundings at all once I get into the groove. I keep the temperature at around 77° Fahrenheit and wear as few clothes as possible, so I don't even feel the air, really.</p>
+<p>I'm also blind in my right eye and nearsighted in the left, so I sit pretty close to the monitor. Most of the items on my desk have dark colors, so I don't really notice anything in my peripheral vision when there are no lights on nearby.</p>
+<p>I use a 75% mechanical keyboard with Cherry MX switches, again because that's what I'm used to from the early days of home computing. I detest touch screens and keyboards with short-travel switches.</p>
+<h2>A question for the techie readers: can you run us through your tech stack?</h2>
+<p>My basic tools are <a href="https://www.geany.org/">Geany</a>, a coding text editor for Linux similar to UltraEdit or Notepad++ for Windows; FileZilla, an FTP client that's ubiquitous on Windows, Mac, and Linux PCs; and Firefox. If I happen to be in the terminal and need to take a quick look at something, I'll open it in vim. I haven't used Github that much since I left the corporate world. The tools I use now are the same ones I used when I first started making personal websites years ago.</p>
+<p>All of my sites are hosted on <a href="https://siteground.com/">SiteGround</a>. Page loads are very fast, their tech support is prompt and effective, and their "grow big" plan gives me everything I need. I don't remember where I registered my domain name. It's registered either through SiteGround or DreamHost.</p>
+<p>I absolutely hate reading other people's code. When I worked as a professional developer, I became disenchanted with the emphasis on integrating third-party software over writing custom code. I'm not an integrator, and I'm definitely not a "coder." I'm a programmer. That's what I got into this racket to do, and now that I have full creative control, that's what I do.</p>
+<p>With the exception of a couple of PHP packages and some code snippets borrowed from Stack Overflow and elsewhere, everything on my site is hand-coded by me. I don't use third-party frameworks or general-purpose libraries period, let alone a third-party CMS. Everything is written either specifically for its task or as a component that I can reuse for multiple similar tasks.</p>
+<h2>Given your experience, if you were to start a blog today, would you do anything differently?</h2>
+<p>I think the question presumes I have a purpose or goal in mind when I start something, which isn't necessarily the case. I'll oftentimes start working on something because I find the technology interesting, and the use case will present itself later.</p>
+<p>That said, my current website is showing its limitations, and I'm slowly developing the next version. This is only my second single-page application (SPA), and the first in which I got everything working as expected. I've constantly added features over the past seven or eight months, and it's reached the point where it'd be easier to rewrite most of it from scratch than to keep adding onto the existing platform.</p>
+<p>I won't change my domain name or the name of my site because it's the name I'm known by. One doesn't change a trademark that has achieved brand recognition without a good reason. Companies only do so when they get a bad reputation due to scandal. Well, I'm not overly concerned about my reputation. I mean I have a slutty online persona and write naughty stories, both by choice. Those things are fun for me, and I don't believe that'll ever change.</p>
+<h2>Financial question since the Web is obsessed with money: how much does it cost to run your blog? Is it just a cost, or does it generate some revenue? And what's your position on people monetising personal blogs?</h2>
+<p>It'd be difficult to separate the cost of running my personal site from the cost of running my other sites because they're all on a single hosting plan. Moreover, the plan includes capabilities that aren't available with the typical "basic" plan because, as somebody who compulsively tinkers with technology, I know I'll use them. I also prefer traditional .com, .net, or .org domain names when available, which tend to cost a little more than some of the newer "personal website" top-level domains.</p>
+<p>I have three sites at the moment, and will probably build others. As of now, simple division of the total cost by the number of sites yields an average cost of about 156 USD per year. That's about what I'd pay for three domain names and individual hosting plans from the same company, and the per-site cost will decrease as I add more sites.</p>
+<p>I don't try to monetize my site, nor make any effort to promote it in the major search engines. This is a personal project that I work on for the fun of it. The Personal Web as a community has plenty of grassroots ways to help a website gain attention — webrings, listing sites, blog carnivals, etc. — from those who are interested in personal websites.</p>
+<p>I don't have anything against other people monetizing their blogs if they choose to do so, but it's not for me. Again, this is all for fun and "at will." I don't want to be held to other people's expectations regarding deadlines, messaging, or the type or quality of content I produce.</p>
+<h2>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</h2>
+<p>One of the most fascinating people I know on the Personal Web isn't a blogger at all. Magill, or <a href="https://bohemiansultriness.nekoweb.org/">Fritzi</a> as she's known on the Personal Web, is a well-read 60s pop culture aficionado who, in addition to making charming little brochure sites, publishes <a href="https://theliverpudlianbardot.neocities.org/">erotic Beatles fan fiction</a> on <a href="https://archiveofourown.org/">Archive of Our Own</a> (AO3). Fritzi isn't a professional Web designer, but you'd never guess it because she's exceptionally talented.</p>
+<p>And you'll definitely want to interview <a href="https://sarajaksa.eu/">Sara Jaksa</a>. Sara is a brilliant woman whose correspondence I enjoy immensely. I'd love to hear from her more frequently, but I understand that her work keeps her very busy. What I like most about Sara is that she doesn't give shallow answers, but considers things deeply before forming an opinion. It'd be interesting to read her answers to some of your questions.</p>
+<h2>Final question: is there anything you want to share with us?</h2>
+<p>I'm a blurter. Anything I want to share will most likely appear on my website the moment it wanders into my mind. I use my site the same way I'd use Twitter if I weren't banned from there. I'm always throwing things at the wall to see what'll stick.</p>
+<p>As for projects, I'm working on a free RSS feed reader for personal website feeds called <a href="https://www.geeklyreader.com/">The Geekly Reader</a>. Commercial readers making money from blogs that the authors themselves haven't monetized just doesn't sit well with me. In my view, they're the same as low-effort YouTubers whose videos are nothing but a text-to-speech program reading a Reddit thread. The days of corporations profiting from other people's free content need to end.</p>
+<p>When I heard that 123Guestbook is shutting down in July, I started a project at <a href="https://personal-web.org/">Personal-Web.org</a> to provide a replacement for static website owners who use 123Guestbook. Depending on how much utilization that service gets, I may provide other hosted widgets later.</p>
+<hr />
+<p>This was the 43rd edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Devastatia. Make sure to <a href="https://devastatia.com">follow her blog</a> (<a href="https://devastatia.com/rss">RSS</a>) and get in touch with her if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a> and all supporters will be listed here as well as on the <a href="https://peopleandblogs.com">official site</a> of the newsletter.</p>
+<p><a href="https://www.thingelstad.com">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml">RSS</a>) — <a href="https://some.studio">Piet Terheyden</a> — <a href="https://minim.blog">Raul Montala</a> (<a href="http://github.com/rmontala/minim/commits.atom">RSS</a>) — Eleonora — <a href="https://carlbarenbrug.com">Carl Barenbrug</a> (<a href="https://carlbarenbrug.com/feed/rss">RSS</a>) — <a href="https://tangiblelife.net">Steve Ledlow</a> (<a href="https://tangiblelife.net/feed.rss">RSS</a>) — <a href="https://www.feadin.eu">Paolo Ruggeri</a> (<a href="https://www.feadin.eu/en/posts/index.xml">RSS</a>) — <a href="https://thejollyteapot.com">Nicolas Magand</a> (<a href="https://thejollyteapot.com/feed.rss">RSS</a>) — <a href="https://robhope.com">Rob Hope</a> — <a href="https://chrishannah.me">Chris Hannah</a> (<a href="https://chrishannah.me/index.xml">RSS</a>) — <a href="https://blog.pcora.eu">Pedro Corá</a> (<a href="https://blog.pcora.eu/feed.xml">RSS</a>) — <a href="https://colinwalker.blog/">Colin Walker</a> (<a href="https://colinwalker.blog/dailyfeed.xml">RSS</a>) — <a href="https://softlandings.world/">Sixian Lim</a> (<a href="https://www.softlandings.world/feed.rss">RSS</a>) — <a href="https://mattstein.com">Matt Stein</a> (<a href="https://mattstein.com/rss.xml">RSS</a>) — <a href="https://winnielim.org">Winnie Lim</a> (<a href="https://winnielim.org/feed/">RSS</a>) — <a href="https://flamedfury.com/">Flamed</a> (<a href="https://flamedfury.com/feed.xml/">RSS</a>) — <a href="https://skyhold.org">C Jackdaw</a> (<a href="https://journal.miso.town/atom?url=https://skyhold.org/index.html">RSS</a>) — <a href="https://tiv.today">Kevin Humdrum</a> (<a href="https://tiv.today/feed.rss">RSS</a>) — <a href="https://www.doc.cc/">Fabricio Teixeira</a> (<a href="https://www.doc.cc/feed.xml">RSS</a>) — <a href="https://rosalindcroad.com">Rosalind Croad</a> — <a href="https://frankmeeuwsen.com">Frank Meeuwsen</a> (<a href="https://frankmeeuwsen.com/feed.xml">RSS</a>) — <a href="https://www.elmike.me">Mike Walsh</a> (<a href="https://www.elmike.me/feed.xml">RSS</a>) — <a href="https://www.byzero.de/">Markus Heurung</a> — <a href="https://cleverlaziness.xyz/">Juan Villela</a> (<a href="https://cleverlaziness.xyz/posts/index.xml">RSS</a>) — <a href="https://mwarrenarts.com/">Michael Warren</a> (<a href="https://mwarrenarts.com/rss">RSS</a>) — <a href="https://cagrimmett.com/">Chuck Grimmett</a> (<a href="https://cagrimmett.com/feed">RSS</a>) — <a href="https://eatweeds.co.uk">Robin Harford</a> (<a href="https://www.eatweeds.co.uk/feed/">RSS</a>) — <a href="https://bryanmanio.com/">Bryan Maniotakis</a> (<a href="https://bryanmanio.com/feed/">RSS</a>) — <a href="https://bjhess.com/">Barry Hess</a> (<a href="https://bjhess.com/posts_feed">RSS</a>) — <a href="https://chrisjung.xyz">Chris Jung</a> (<a href="https://chrisjung.xyz/feed/rss">RSS</a>) — <a href="https://ivanmoreale.com">Ivan Moreale</a> — <a href="https://islandinthenet.com">Khürt Williams</a> (<a href="https://islandinthenet.com/feed/">RSS</a>) — <a href="https://werd.io/">Ben Werdmuller</a> (<a href="https://werd.io/feed">RSS</a>) — <a href="https://corygibbons.com">Cory Gibbons</a> — <a href="https://www.lkhrs.com/">Luke Harris</a> (<a href="https://www.lkhrs.com/blog/index.xml">RSS</a>) — <a href="https://lars-christian.com/">Lars-Christian Simonsen</a> (<a href="https://lars-christian.com/feed/">RSS</a>) — <a href="https://www.codyschultz.com">Cody Schultz</a> — <a href="https://bradbarrish.com">Brad Barrish</a> (<a href="https://bradbarrish.com/feed/">RSS</a>) — <a href="https://galaiko.rocks">Nikita Galaiko</a> — Erik Blankvoort — <a href="https://jagasantagostino.com">Jaga Santagostino</a> — <a href="https://andzuck.com/">Andrew Zuckerman</a> — <a href="https://www.mattiacompagnucci.com">Mattia Compagnucci</a> (<a href="https://mattiacompagnucci.com/feed.rss">RSS</a>) — <a href="https://tdh.se/">Thord D. Hedengren</a> (<a href="https://tdh.se/feed/feed.xml">RSS</a>) — <a href="https://fabiensauser.ch">Fabien Sauser</a> (<a href="https://fabiensauser.ch/index.xml">RSS</a>) — <a href="http://dizzard.net/">Maxwell Omdal</a> — <a href="https://numericcitizen.me">Numeric Citizen</a> (<a href="https://feedpress.me/numericcitizen-feeds.xml?ref=numericcitizen.me">RSS</a>) — <a href="https://heydingus.net">Jarrod Blundy</a> (<a href="https://heydingus.net/feeds">RSS</a>) — <a href="https://gwtf.it">Andrea Contino</a> (<a href="https://gwtf.it/feed">RSS</a>) — <a href="https://sebastiandedeyne.com/">Sebastian De Deyne</a> (<a href="https://sebastiandedeyne.com/index.xml">RSS</a>) — <a href="https://koolinus.net/blog/">Nicola Losito</a> (<a href="https://koolinus.net/blog/feed/">RSS</a>) — <a href="https://amerpie.lol/">Lou Plummer</a> (<a href="https://amerpie.lol/feed.xml">RSS</a>) — <a href="https://lmika.org/">Leon Mika</a> (<a href="https://lmika.org/feed.xml">RSS</a>) — <a href="http://veronique.ink">Veronique</a> (<a href="https://veronique.ink/feed/">RSS</a>) — <a href="https://surplusjouissance.com">Neil Gorman</a> (<a href="https://www.surplusjouissance.com/rss/">RSS</a>) — <a href="https://reaper.is/">Reaper</a> (<a href="https://reaper.is/rss.xml">RSS</a>) — <a href="https://www.mattrutherford.co.uk/">Matt Rutherford</a> (<a href="https://www.mattrutherford.co.uk/rss/">RSS</a>) — <a href="https://therealadam.com">Adam Keys</a> (<a href="https://therealadam.com/feed.xml">RSS</a>) — <a href="https://aleemshaun.com/">Aleem Ali</a> (<a href="https://aleemshaun.com/feed">RSS</a>) — <a href="https://nikkin.dev/">Nikkin</a> (<a href="https://nikkin.dev/feed.xml">RSS</a>) — <a href="https://jeremyfelt.com/">Jeremy Felt</a> (<a href="https://jeremyfelt.com/feed">RSS</a>) — <a href="https://hansfast.net">Hans</a> (<a href="https://hansfast.net/everything.rss">RSS</a>) — <a href="https://www.markpitblado.me/">Mark Pitblado</a> (<a href="https://www.markpitblado.me/feed.xml">RSS</a>) — <a href="https://www.morelightmorelight.com/">Matt Katz</a> (<a href="https://www.morelightmorelight.com/feed">RSS</a>) — <a href="https://iljapanic.com/">Ilja Panić</a> — <a href="https://odongo.pl">Emmanuel Odongo</a> — <a href="https://kevquirk.com/">Kev Quirk</a> (<a href="https://kevquirk.com/feed">RSS</a>) — <a href="https://artlung.com/">Joe Crawford</a> (<a href="https://artlung.com/feed/">RSS</a>) — <a href="https://www.ismailsevik.com/">İsmail Şevik</a> (<a href="https://www.ismailsevik.com/feeds/posts/default?alt=rss">RSS</a>)</p>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale">support on Ko-Fi</a>;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/qxZ43WH6hGmgEYCD>
+
+---
+
+## the uncanny valley of blogging
+
+date: 2024-06-21, from: Ayjay blog
+
+I used to call my blog Snakes &#38; Ladders, because that reflected my belief that culture – culture-as-a-whole – is never simply ascending or declining, but is undergoing in its various locations constant ups and downs. But beneath that point is an image of myself as an observer and critic of this cultural moment. Now [&#8230;] 
+
+<https://blog.ayjay.org/the-uncanny-valley-of-blogging/>
+
+---
+
+## FLTK 1.4.x Weekly Snapshot (master)
+
+date: 2024-06-21, from: Fast Light Tool Kit
+
+A new weekly snapshot of FLTK 1.4.x (master) is now available 
+
+<https://www.fltk.org/articles.php?L1928>
+
+---
+
+## JS Party podcast: Polypane-demonium
+
+date: 2024-06-21, from: Kilian Valkhof's blog
+
+<p>I was invited to the JS Party podcast to talk about all things Polypane, from the business side of things to nitty-gritty features that I&#8217;ve been working on. I had a lot of fun and I think Nick and Jerod did as well. Polypane purveyor Kilian Valkhof joins Nick &#038; Jerod to tell us all [&#8230;]</p>
+The post <a href="https://kilianvalkhof.com/2024/web/js-party-podcast-polypane-demonium/">JS Party podcast: Polypane-demonium</a> first appeared on <a href="https://kilianvalkhof.com">Kilian Valkhof</a>. 
+
+<https://kilianvalkhof.com/2024/web/js-party-podcast-polypane-demonium/>
+
+---
+
+## GPT-5… now arriving Gate 8, Gate 9, Gate 10
+
+date: 2024-06-21, from: Gary Marcus blog
+
+The increasingly delayed countdown to GPT5 
+
+<https://garymarcus.substack.com/p/gpt-5-now-arriving-gate-8-gate-9>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-06-21, from: Jessica Smith's blog)
+
+<p>I&rsquo;m so sick of these frigid overnight lows we&rsquo;ve been having every day. Our whole flat drops down to about 10° overnight and stays there all day except for the rooms we run heaters in. It&rsquo;s so constraining, feeling like only one room at a time is even hospitable to human life&hellip;</p>
+<p>Not sure whether Gidget is also sick of the frigid temperatures, or whether she&rsquo;s relishing the opportunity to insist on hours and hours of cuddles. Because she&rsquo;s definitely been doing that. Hard to get housework done or whatever when it&rsquo;s <em>so</em> cold out there and I could sit still, under covers, with a cat on my lap instead.</p>
+<img src="https://www.jayeless.net/media/2024/06/gidget-morning-cuddles.jpeg" alt="A tabby cat with white paws and belly resting on a bed with her tummy partially exposed." class="u-photo"> 
+
+<https://www.jayeless.net/2024/06/frigid-mornings.html>
+
+---
+
+## Is 2024 the year of Windows on the desktop?
+
+date: 2024-06-20, from: OS News
+
+It should be no secret to anyone reading OSNews that I&#8217;m not exactly a fan of Windows. While I grew up using MS-DOS, Windows 3.x, and Windows 9x, the move to Windows XP was a sour one for me, and ever since I&#8217;ve vastly preferred first BeOS, and then Linux. When, thanks to the tireless efforts of the Wine community and Valve gaming on Linux became a boring, it-just-works affair, I said goodbye to my final gaming-only Windows installation about four or so years ago. However, I also strongly believe that in order to be able to fairly criticise or dislike something, you should at least have experience with it. As such, I decided it was time for what I expected was going to be some serious technology BDSM, and I installed Windows 11 on my workstation and force myself to use it for a few weeks to see if Microsoft&#8217;s latest operating system truly was as bad as I make it out to be in my head. Installing Windows 11 Technically speaking, my workstation is not supported by Windows 11. Despite packing two Intel Xeon E5 V4 2640 CPUs for a total of 20 cores and 40 threads, 32 GB of ECC RAM, an AMD Radeon Pro w5700, and the usual stuff like an M.2 SSD, this machine apparently did not meet the minimum specifications for Windows 11 since it has no TPM 2.0 security chip, and the processors were deemed too old. Luckily, these limitations are entirely artificial and meaningless, and using Ventoy, which by default disables these silly restrictions, I was able to install Windows 11 just fine. During installation, you run into the first problem if you&#8217;re coming from a different operating system &#8211; even after all these years, Windows still does not give a single hootin&#8217; toot about any existing operating systems or bootloaders on your machine. This wasn&#8217;t an issue for me since I was going to allow Windows to take over the entire machine, but for those of used to have control over what happens when we install our operating systems, be advised that your other operating systems will most likely be rendered unbootable. The tools you have access to during installation for things like disk partitioning are also incredibly limited, and there&#8217;s nothing like the live environments you&#8217;re used to from the Linux world &#8211; all you get is an installer. In addition, since Windows only really supports FAT and NTFS file systems, your existing ext4, btrfs, UFS, or ZFS partitions used by your Linux or BSD installs will not work at all in Windows. Again &#8211; be advised that Windows is a very limited operating system compared to Linux or BSD. Once the actual installation part is done, you&#8217;re treated to a lengthy &#8211; and I truly mean lengthy &#8211; out of box experience. This is where you first get a glimpse of just how much data Microsoft wants to collect from its Windows users, and it stands in stark contrast to what I&#8217;m used to as a Linux user. On my Linux distribution of choice, Fedora KDE, there&#8217;s really only KDE&#8217;s opt-in, voluntary User Feedback option, which only collects basic system information in an entirely anonymous way. Windows, meanwhile, seems to want to collect pretty much everything you do on your machine, and while there&#8217;s some prompts to reduce the amount of data it collects, even with everything set to minimum it&#8217;s still quite a lot. Once you&#8217;re past the out of box experience, you can finally start using your new Windows installation &#8211; but actually not really. Unlike a Linux distribution, where all your hardware is detected automatically and will use the latest drivers, on Windows, you will most likely have to do some manual driver hunting, searching the web for PCI and vendor IDs to hopefully locate the correct drivers, which isn&#8217;t always easy. To make matters worse, even if Windows Update installs the correct drivers for you, those are often outdated, and you&#8217;re better off downloading the latest versions straight from the vendors&#8217; websites. This is especially problematic for motherboard drivers &#8211; motherboard vendor websites often list horribly outdated drivers. Updating Windows 11 Once you have all the drivers installed and updated, which often requires several reboots, you might notice that your system seems to be awfully busy, even when you&#8217;re not actually doing anything with it. Most likely, this means Windows Update is running in the background, sucking up a lot of system resources. If you&#8217;re used to Linux or BSD, where updating is a quick and centralised process, updating things on Windows is a complete and utter mess. Instead of just updating everything all at once, Windows Update will often require several different rounds of updates, marked by reboots. You&#8217;ll also discover that Windows Update is not only incredibly slow both when it comes to downloading and installing, but that it&#8217;s also incredibly buggy. Updates will randomly fail to install for no apparent reason, and there&#8217;s a whole cottage industry of useless ML and SEO content on the internet trying to &#8220;help&#8221; you fix these issues. On my system, without doing anything, Windows Update managed to break itself in less than 24 hours &#8211; it listed 79 (!) driver updates related to the two Xeon processors (I assume it listed certain drivers for every single of the 40 threads), but every single one of them, save for one or two, would fail to install with a useless generic error code. Every time I tried to install them, one or two more would install, with everything else failing, until eventually the update process just hung the entire system. A few days later, the listed updated just disappeared entirely from Windows Update. The updates had no KB numbers, so it was impossible to find any information on them, and to this day, I have no idea what was going on here. Even after battling your way through Windows Update, you&#8217;re not done actually updating your system. Unlike,  
+
+<https://www.osnews.com/story/139987/is-2024-the-year-of-windows-on-the-desktop/>
+
+---
+
+## 55 Years Ago: One Month Until the Moon Landing
+
+date: 2024-06-20, from: NASA breaking news
+
+With the dress rehearsal completed during Apollo 10 in May 1969, only a few weeks remained until Apollo 11, the actual Moon landing mission to meet President Kennedy’s goal set in 1961. Apollo 11 astronauts Neil A. Armstrong, Michael Collins, and Edwin E. “Buzz” Aldrin and their backups James A. Lovell, William A. Anders, and [&#8230;] 
+
+<https://www.nasa.gov/history/55-years-ago-one-month-until-the-moon-landing/>
+
+---
+
+## Marshall Research Scientist Enables Large-Scale Open Science
+
+date: 2024-06-20, from: NASA breaking news
+
+By Jessica Barnett  Most people use tools at work, whether it’s a hammer, a pencil, or a computer. Very few seek a doctorate degree in creating new tools for the job. Using that degree to make it easier for people around the world to access and use the vast amounts of data gathered by NASA? […] 
+
+<https://science.nasa.gov/open-science/research-scientist-rahul-ramachandran/>
+
+---
+
+## Donkey Kong: A Record of Struggle
+
+date: 2024-06-20, from: Tilde.news
+
+<p><a href="https://tilde.news/s/znwtva/donkey_kong_record_struggle">Comments</a></p> 
+
+<https://shmuplations.com/donkeykong/>
+
+---
+
+##  80 Iconic Piano Intros, Played Back-to-Back From Memory 
+
+date: 2024-06-20, updated: 2024-06-20, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/80-iconic-piano-intros-played-back-to-back-from-memory>
+
+---
+
+## NASA Releases Updated Climate Change Adaptation, Resilience Plan
+
+date: 2024-06-20, from: NASA breaking news
+
+NASA joined more than 20 federal agencies in releasing its updated Climate Adaptation Plan Thursday, helping expand the Biden-Harris Administration’s efforts to make federal operations increasingly resilient to the impacts of climate change for the benefit of all. The updated plans advance the administration’s National Climate Resilience Framework, which helps align climate resilience investments across [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-releases-updated-climate-change-adaptation-resilience-plan/>
+
+---
+
+## How We Made the Deno Language Server Ten Times Faster
+
+date: 2024-06-20, updated: 2024-06-20, from: Deno blog
+
+When a customer reported performance issues with the Deno language server, we began a performance investigation that resulted in reducing auto-completion times from 6-8 seconds to under one second in large codebases. This is how we did it. 
+
+<https://deno.com/blog/optimizing-our-lsp>
+
+---
+
+## NASA, Partners Conduct Fifth Asteroid Impact Exercise, Release Summary
+
+date: 2024-06-20, from: NASA breaking news
+
+For the benefit of all, NASA released a summary Thursday of the fifth biennial Planetary Defense Interagency Tabletop Exercise. NASA’s Planetary Defense Coordination Office, in partnership with FEMA (Federal Emergency Management Agency) and with the assistance of the U.S. Department of State Office of Space Affairs, convened the tabletop exercise to inform and assess our [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-partners-conduct-fifth-asteroid-impact-exercise-release-summary/>
+
+---
+
+## NASA’s Hubble Celebrates 21st Anniversary with “Rose” of Galaxies
+
+date: 2024-06-20, from: NASA breaking news
+
+To celebrate the 21st anniversary of the Hubble Space Telescope&#8217;s deployment into space, astronomers at the Space Telescope Science Institute in Baltimore, Md., pointed Hubble&#8217;s eye at an especially photogenic pair of interacting galaxies called Arp 273. The larger of the spiral galaxies, known as UGC 1810, has a disk that is distorted into a [&#8230;] 
+
+<https://www.nasa.gov/image-article/nasas-hubble-celebrates-21st-anniversary-with-rose-of-galaxies/>
+
+---
+
+## Safe Superintelligence Inc.
+
+date: 2024-06-20, from: Michael Tsai
+
+Ilya Sutskever et al. (via Hacker News): Building safe superintelligence (SSI) is the most important technical problem of our&#x200B;&#x200B; time. We have started the world&#8217;s first straight-shot SSI lab, with one goal and one product: a safe superintelligence. [&#8230;] We approach safety and capabilities in tandem, as technical problems to be solved through revolutionary engineering [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/20/safe-superintelligence-inc/>
+
+---
+
+## SuperDuper 3.9 Beta
+
+date: 2024-06-20, from: Michael Tsai
+
+Dave Nanian: We&#8217;re happy to announce Beta 2 of SuperDuper! v3.9, our initial cut at a Sequoia compatible release.[&#8230;]SuperDuper v3.9 includes Dark Mode support, and banishes our old textured window to the land of shadows.[&#8230;][W]e&#8217;ve turned on our ability to copy local Cloud files, while intelligently skipping the files and folders that have local &#8220;stubs&#8221;. [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/20/superduper-3-9-beta/>
+
+---
+
+## MicroMac: a Macintosh for Under £5
+
+date: 2024-06-20, from: Michael Tsai
+
+Matt Evans (via Hacker News): A Raspberry Pi RP2040 microcontroller (on a Pico board), driving monochrome VGA video and taking USB keyboard/mouse input, emulating a Macintosh 128K computer and disc storage. The RP2040 has easily enough RAM to house the Mac&#8217;s memory, plus that of the emulator; it&#8217;s fast enough (with some tricks) to meet [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/20/micromac-a-macintosh-for-under-5/>
+
+---
+
+## OmniFocus 4.3
+
+date: 2024-06-20, from: Michael Tsai
+
+Ainsley Bourque Olson (release notes): Focus Filters, configurable in the Focus section of the Settings app, allow you to customize what app data is displayed when a Focus mode is enabled on your device. With OmniFocus 4.3, you can now set device Focus Filters to automatically filter out any OmniFocus content which is not relevant [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/20/omnifocus-4-3/>
+
+---
+
+## NASA Invites Media to ‘NASA in the Park’ June 22
+
+date: 2024-06-20, from: NASA breaking news
+
+Media are invited to attend a celebration of space and the Rocket City during&#160;NASA in the Park&#160;on Saturday, June 22, 10 a.m. to 2 p.m. CDT at Big Spring Park East in Huntsville, Alabama. NASA and partners will pack the park&#160;with exhibits, music, food vendors, and hands-on activities for all ages. This event is free [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-nasa-in-the-park-june-22/>
+
+---
+
+## Augmented Reality Speeds Spacecraft Construction at NASA Goddard
+
+date: 2024-06-20, from: NASA breaking news
+
+Technicians armed with advanced measuring equipment, augmented reality headsets, and QR codes virtually checked the fit of some Roman Space Telescope structures before building or moving them through facilities at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. “We’ve been able to place sensors, mounting interfaces, and other spacecraft hardware in 3D space faster and [&#8230;] 
+
+<https://www.nasa.gov/technology/goddard-tech/augmented-reality-speeds-spacecraft-construction-at-nasa-goddard/>
+
+---
+
+## Why Scientists Are Intrigued by Air in NASA’s Mars Sample Tubes
+
+date: 2024-06-20, from: NASA breaking news
+
+Tucked away with each rock and soil sample collected by the agency’s Perseverance rover is a potential boon for atmospheric scientists. Atmospheric scientists get a little more excited with every rock core NASA’s Perseverance Mars rover seals in its titanium sample tubes, which are being gathered for eventual delivery to Earth as part of the [&#8230;] 
+
+<https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/why-scientists-are-intrigued-by-air-in-nasas-mars-sample-tubes/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-20, from: Miguel de Icaza Mastondon feed)
+
+<p>Lovely find from Hacker News.</p><p>Blending Swift and Node:</p><p><a href="https://github.com/kabiroberai/node-swift" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/kabiroberai/node-sw</span><span class="invisible">ift</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112650253295892530>
+
+---
+
+## NASA CubeSats Loaded for Launch
+
+date: 2024-06-20, from: NASA breaking news
+
+Eight CubeSats that are part of NASA’s CubeSat Launch Initiative have been integrated into Firefly Aerospace’s deployment hardware and are ready to be encapsulated into the payload fairing of Firefly’s Alpha rocket. The launch, named “Noise of Summer,&#8221; will lift off early this summer from Space Launch Complex 2 at Vandenberg Space Force Base in [&#8230;] 
+
+<https://www.nasa.gov/image-article/nasa-cubesats-loaded-for-launch/>
+
+---
+
+## Dev Home Preview v0.15 Release
+
+date: 2024-06-20, from: Windows Developer Blog
+
+<p>Welcome to the latest release of Dev Home, where we’ve been working to deliver your top asks. Dev Home is available by default and is open source on <a href="https://github.com/microsoft/devhome">GitHub</a>. Let’s dive into what‘s new!</p>
+<h2>Mach</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2024/06/20/dev-home-preview-v0-15-release/">Dev Home Preview v0.15 Release</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<https://blogs.windows.com/windowsdeveloper/2024/06/20/dev-home-preview-v0-15-release/>
+
+---
+
+##  A photographer entered a real photo of a flamingo in an AI... 
+
+date: 2024-06-20, updated: 2024-06-20, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044846-a-photographer-entered-a->
+
+---
+
+## When Robots Aggregate
+
+date: 2024-06-20, from: Tedium site
+
+The mess between Forbes and Perplexity AI highlights how soulless and extractive aggregation can be in the wrong hands. It’s the wrong direction for LLMs. 
+
+<https://feed.tedium.co/link/15204/16720747/perplexity-forbes-ai-aggregation-risks>
+
+---
+
+##  A Few Lessons from Roger Federer&#8217;s Dartmouth Commencement Speech 
+
+date: 2024-06-20, updated: 2024-06-20, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/a-few-lessons-from-roger-federers-dartmouth-commencement-speech>
+
+---
+
+## systemd 256.1: Now slightly less likely to delete /home
+
+date: 2024-06-20, updated: 2024-06-20, from: Liam Proven's articles at the Register
+
+<h4>Fixes catastrophic data loss, er, <del>bug</del>, er <del>poorly documented feature</del>... <em>user error</em></h4>
+      <p>Following closely after systemd version 256 comes 256.1, which fixes a handful of bugs. One of these is emphatically not systemd-tmpfiles recursively deleting your entire home directory. That's a feature.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/06/20/systemd_2561_data_wipe_fix/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-20, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=dlRuYCDyeOA">Take Me Back to Tulsa</a>. 
+
+<http://scripting.com/2024/06/20.html#a150341>
+
+---
+
+##  The Coming Birth-Control Revolution. &#8220;Researchers have taken massive steps toward developing simple,... 
+
+date: 2024-06-20, updated: 2024-06-20, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044837-the-coming-birth-control->
 
 ---
 
@@ -53,7 +535,7 @@ date: 2024-06-20, from: Dave Winer's Scripting News
 
 **@Dave Winer's Scripting News** (date: 2024-06-20, from: Dave Winer's Scripting News)
 
-Why did the Podcast 2.0 people reinvent <a href="http://home.rsscloud.co/">rssCloud</a>? That's the kind of bullshit Google does. We don't do that in the open formats and protocols world. What really pains me is they claim to follow <a href="https://this.how/standards/">my</a> Rules for Standards-makers. Imho they do not. Two rules apply. <a href="https://this.how/standards/#1497798753000">Rule #1</a> says the only reason we do this is interop. It's called Rule #1 for a reason. And the <a href="https://this.how/standards/#1497798940000">one way</a> is better rule a little further down the page. I've seen this happen twice where people say they abide by the RFSM but then do exactly the opposite of what it says to do. We have to do this better people. Come on. Also come up with something more humble than the name you've chosen. We've been down this path too. The only way it ends is in tears. Meanwhile you've made the <a href="http://scripting.com/2024/06/20/134901.html?title=standardsKitty">Standards Kitty</a> cry. 
+Why did the Podcast 2.0 people reinvent <a href="http://home.rsscloud.co/">rssCloud</a>? That's the kind of bullshit Google does. We don't do that in the open formats and protocols world. What really pains me is they claim to follow <a href="https://this.how/standards/">my</a> Rules for Standards-makers. Imho they do not. Two rules apply. <a href="https://this.how/standards/#1497798753000">Rule #1</a> says the only reason we do this is interop. It's called Rule #1 for a reason. And the <a href="https://this.how/standards/#1497798940000">one way</a> rule a little further down the page. I've seen this happen twice where people say they abide by the <a href="https://this.how/standards/">RFSM</a> but then do exactly the opposite of what it says to do. We have to do this better people. Come on. Also come up with something more humble than the name you've chosen. We've been down this path. The only way it ends is in <a href="http://scripting.com/2024/06/20/134901.html?title=standardsKitty">tears</a>. 
 
 <http://scripting.com/2024/06/20.html#a133741>
 
@@ -191,6 +673,26 @@ date: 2024-06-20, from: Raspberry Pi News (.com)
 <p>Anyway, I cancelled my Spotify subscription a few months ago so I guess I&rsquo;m resorting to YouTube Music now. The experience of using this instead of Plexamp will surely boot my arse into gear to re-setup the Plex server sooner rather than later 😐</p> 
 
 <https://www.jayeless.net/2024/06/plex-server-kaput.html>
+
+---
+
+## Systems: What does a board of directors do?
+
+date: 2024-06-20, updated: 2024-06-20, from: Anil Dash
+
+ 
+
+<https://anildash.com/2024/06/20/dash-board/>
+
+---
+
+## Teardown 2024
+
+date: 2024-06-20, from: Modos Blog
+
+We're excited to share that we'll be at Teardown 2024! 
+
+<https://www.modos.tech/blog/teardown-2024>
 
 ---
 
@@ -598,6 +1100,18 @@ date: 2024-06-19, from: Ze Iaso's blog
 I love this meetup so much 
 
 <https://xeiaso.net/notes/2024/ait-ottawa-2.5.0/>
+
+---
+
+## Software Showcase #1
+
+date: 2024-06-19, from: Redox OS News
+
+We have posted our first software showcase in our YouTube channel. In this video, Ribbon shows several programs running on Redox.
+ Donate to Redox If you would like to support Redox, please consider donating or buying some merch!
+ Donate Patreon Merch  Join us on Matrix Chat If you want to contribute, give feedback or just listen in to the conversation, join us on Matrix Chat. 
+
+<https://www.redox-os.org/news/software-showcase-1/>
 
 ---
 

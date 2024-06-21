@@ -1,11 +1,136 @@
 ---
 title: central coast 2024.25
-updated: 2024-06-20 07:50:36
+updated: 2024-06-21 06:37:55
 ---
 
 # central coast 2024.25
 
-(date: 2024-06-20 07:50:36)
+(date: 2024-06-21 06:37:55)
+
+---
+
+## Costa Rica
+
+date: 2024-06-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/041624-POD-Patricia-Tangney.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="La Parcela Hotel in Costa Rica." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/041624-POD-Patricia-Tangney.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/041624-POD-Patricia-Tangney.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/041624-POD-Patricia-Tangney.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/041624-POD-Patricia-Tangney.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/041624-POD-Patricia-Tangney.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/041624-POD-Patricia-Tangney.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/041624-POD-Patricia-Tangney.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/041624-POD-Patricia-Tangney.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/041624-POD-Patricia-Tangney.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/041624-POD-Patricia-Tangney.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/041624-POD-Patricia-Tangney.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/041624-POD-Patricia-Tangney.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/05/041624-POD-Patricia-Tangney.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/costa-rica/">Costa Rica</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/costa-rica/>
+
+---
+
+## BizHawk: Dollar Tree to Replace 99 Cents Only Store in Downtown Santa Barbara
+
+date: 2024-06-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-BizHawk-Dollar-Tree-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A Dollar Tree store is coming to the 400 block of State Street in Santa Barbara." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-BizHawk-Dollar-Tree-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-BizHawk-Dollar-Tree-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-BizHawk-Dollar-Tree-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-BizHawk-Dollar-Tree-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-BizHawk-Dollar-Tree-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-BizHawk-Dollar-Tree-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-BizHawk-Dollar-Tree-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-BizHawk-Dollar-Tree-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-BizHawk-Dollar-Tree-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-BizHawk-Dollar-Tree-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Out with one, in with another. The 99 Cents Only store on the 400 block of State Street closed in April, but the building won&#8217;t stay vacant for very long. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-dollar-tree-to-replace-99-cents-only-store-in-downtown-santa-barbara/">BizHawk: Dollar Tree to Replace 99 Cents Only Store in Downtown Santa Barbara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bizhawk-dollar-tree-to-replace-99-cents-only-store-in-downtown-santa-barbara/>
+
+---
+
+## Goleta Approves Operating Budget with Focus on Capital Improvement Projects
+
+date: 2024-06-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Goleta-Budget-3-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Goleta Mayor Pro Tempore Luz Reyes Martín." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Goleta-Budget-3-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Goleta-Budget-3-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Goleta-Budget-3-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Goleta-Budget-3-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Goleta-Budget-3-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Goleta-Budget-3-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Goleta-Budget-3-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Goleta-Budget-3-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Goleta-Budget-3-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Goleta-Budget-3-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Ahead of the second year of a two-year budget plan, the Goleta City Council reviewed and approved the city’s operating budget and capital improvement plan. The city is expecting an increase [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-approves-operating-budget-with-focus-on-capital-improvement-projects/">Goleta Approves Operating Budget with Focus on Capital Improvement Projects</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goleta-approves-operating-budget-with-focus-on-capital-improvement-projects/>
+
+---
+
+## Gang Member Sentenced to Prison for ‘Senseless’ Killing of Soldier in Lompoc
+
+date: 2024-06-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="712" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Marlon-Brumfield-Killer-Sentencing1-js.jpg?fit=1024%2C712&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Supporters and family members of Lompoc shooting victim Marlon Brumfield Jr." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Marlon-Brumfield-Killer-Sentencing1-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Marlon-Brumfield-Killer-Sentencing1-js.jpg?resize=300%2C209&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Marlon-Brumfield-Killer-Sentencing1-js.jpg?resize=1024%2C712&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Marlon-Brumfield-Killer-Sentencing1-js.jpg?resize=768%2C534&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Marlon-Brumfield-Killer-Sentencing1-js.jpg?resize=1536%2C1068&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Marlon-Brumfield-Killer-Sentencing1-js.jpg?resize=1200%2C834&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Marlon-Brumfield-Killer-Sentencing1-js.jpg?resize=1568%2C1090&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Marlon-Brumfield-Killer-Sentencing1-js.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Marlon-Brumfield-Killer-Sentencing1-js.jpg?resize=706%2C491&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-Marlon-Brumfield-Killer-Sentencing1-js.jpg?fit=1024%2C712&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A Santa Barbara County Superior Court judge in Santa Maria sentenced Walter Alexander Morales to state prison after he admitted fatally shooting a soldier home on leave in Lompoc five [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/gang-member-sentenced-to-prison-for-senseless-killing-of-soldier-in-lompoc/">Gang Member Sentenced to Prison for &#8216;Senseless&#8217; Killing of Soldier in Lompoc</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/gang-member-sentenced-to-prison-for-senseless-killing-of-soldier-in-lompoc/>
+
+---
+
+## County Supervisors Approve Plan to Spend $3 Million in Opioid Settlement Funds
+
+date: 2024-06-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara County Board of Supervisors on Tuesday approved more than $3 million from opioid settlement funds to be used by programs that support opioid overdose prevention, treatment and [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/county-supervisors-approve-plan-to-spend-3-million-in-opioid-settlement-funds/">County Supervisors Approve Plan to Spend $3 Million in Opioid Settlement Funds</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/county-supervisors-approve-plan-to-spend-3-million-in-opioid-settlement-funds/>
+
+---
+
+## Caltrans Discovers Tension Cracks on Highway 154; Starts Traffic Control Near Santa Barbara
+
+date: 2024-06-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Caltrans has established traffic control on Highway 154 near San Antonio Creek Road as part of an ongoing emergency project to repair a slip out along the southbound shoulder of the highway. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/caltrans-discovers-tension-cracks-on-highway-154-starts-traffic-control-near-santa-barbara/">Caltrans Discovers Tension Cracks on Highway 154; Starts Traffic Control Near Santa Barbara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/caltrans-discovers-tension-cracks-on-highway-154-starts-traffic-control-near-santa-barbara/>
+
+---
+
+## Miles Evans Joins Elite Group of Homegrown Beach Volleyball Players to Qualify for Olympics
+
+date: 2024-06-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="820" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?fit=1024%2C820&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?w=1600&amp;ssl=1 1600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?resize=300%2C240&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?resize=1024%2C820&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?resize=768%2C615&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?resize=1536%2C1230&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?resize=1200%2C961&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?resize=1568%2C1255&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?resize=400%2C320&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?resize=706%2C565&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061924-Miles-Evans-digging.jpeg?fit=1024%2C820&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Miles Evans was working as a coach at the Jon Lee Beach Volleyball Camp for youth at East Beach during the summer as Todd Rogers and Phil Dalhausser trained on [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/miles-evans-joins-elite-group-of-homegrown-beach-volleyball-players-to-qualify-for-olympics/">Miles Evans Joins Elite Group of Homegrown Beach Volleyball Players to Qualify for Olympics</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/miles-evans-joins-elite-group-of-homegrown-beach-volleyball-players-to-qualify-for-olympics/>
+
+---
+
+## Ventura County Supervisors Pass $3.04 Billion Budget for 2024-25
+
+date: 2024-06-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Ventura County Board of Supervisors has unanimously approved a $3.04 billion balanced budget for fiscal year 2024-25, following the county’s annual budget hearing. The budget focuses on board priorities [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ventura-county-supervisors-pass-3-04-billion-budget-for-2024-25/">Ventura County Supervisors Pass $3.04 Billion Budget for 2024-25 </a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ventura-county-supervisors-pass-3-04-billion-budget-for-2024-25/>
+
+---
+
+## Anacapa School Students Experience Costa Rican Culture of ‘Pura Vida’
+
+date: 2024-06-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="641" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062024-anacapacostarica-2000.gif?fit=1024%2C641&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Students and teachers from Anacapa School pose for a group shot at a spot overlooking the sea in Costa Rica. (Courtesy photo)" decoding="async" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>As part of its experiential learning programs, Anacapa School in Santa Barbara has been offering all-school expeditions in the fall and spring, primarily to domestic destinations like Zion, Grand Canyon [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/anacapa-school-students-experience-costa-rican-culture-of-pura-vida/">Anacapa School Students Experience Costa Rican Culture of &#8216;Pura Vida&#8217;</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/anacapa-school-students-experience-costa-rican-culture-of-pura-vida/>
+
+---
+
+## Community Environmental Council Targets Plastic Pollution Solutions
+
+date: 2024-06-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>This summer, the Community Environmental Council&#160;(CEC) and its partners are hosting several events focused on building awareness about the impacts of plastic pollution and what steps can be taken to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/community-environmental-council-targets-plastic-pollution-solutions/">Community Environmental Council Targets Plastic Pollution Solutions</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/community-environmental-council-targets-plastic-pollution-solutions/>
 
 ---
 

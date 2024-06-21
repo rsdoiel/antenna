@@ -1,11 +1,101 @@
 ---
 title: motorcycles 2024.25
-updated: 2024-06-20 07:50:40
+updated: 2024-06-21 06:37:59
 ---
 
 # motorcycles 2024.25
 
-(date: 2024-06-20 07:50:40)
+(date: 2024-06-21 06:37:59)
+
+---
+
+## Learning How to Wheelie Is Hard, But Not Anymore
+
+date: 2024-06-21, from: Ride Apart, Electric Motorcycle News
+
+And it'll only cost you $150 in parts.  
+
+<https://www.rideapart.com/news/724023/wild-wheelies-wheelie-machine-plans-design/>
+
+---
+
+## Kawasaki Now Offers Jet Ski Crate Engines, Get Ready For Crazy Engine Swaps
+
+date: 2024-06-21, from: Ride Apart, Electric Motorcycle News
+
+Where would you stuff these high-performance engines into?  
+
+<https://www.rideapart.com/news/723896/kawasaki-jet-ski-crate-engines-on-sale/>
+
+---
+
+## Buy a Special Edition Elvis Triumph, Reenact a Very Obscure Movie Scene
+
+date: 2024-06-21, from: Ride Apart, Electric Motorcycle News
+
+The House of Hinckley meets the Memphis Mafia in an alternate timeline. 
+
+<https://www.rideapart.com/news/724016/triumph-elvis-presley-bonneville-t120/>
+
+---
+
+## Shimano Just Patented a Brake-By-Wire System: Are Motorcycles Next
+
+date: 2024-06-21, from: Ride Apart, Electric Motorcycle News
+
+Fly-by-wire technology has been around for decades in planes and cars. But is it something the bicycle or motorcycle industry really needs?  
+
+<https://www.rideapart.com/news/723768/shimano-wireless-braking-system-patent/>
+
+---
+
+## Can-Am's Weird-Looking EV Car Isn't a UTV, But Maybe It Is
+
+date: 2024-06-21, from: Ride Apart, Electric Motorcycle News
+
+In the immortal words of Ryan Reynolds, "But why?" 
+
+<https://www.rideapart.com/news/724006/can-am-utv-ev-car-patent/>
+
+---
+
+## Don’t Worry, KTM Is Not Killing Off Its Two-Stroke Dirt Bikes
+
+date: 2024-06-21, from: Ride Apart, Electric Motorcycle News
+
+KTM’s 2026 two-stroke range is reportedly under development as we speak.  
+
+<https://www.rideapart.com/news/723773/ktm-not-discontinuing-2stroke-dirt-bikes/>
+
+---
+
+## Harley’s Softail Platform Is 40 Years Old
+
+date: 2024-06-21, from: Cycle World News
+
+H-D is celebrating the 40th anniversary of its popular Softail platform, which debuted in 1984 with the FXST Softail, but has since spawned a variety of models. 
+
+<https://www.cycleworld.com/motorcycle-news/harley-davidson-softail-platform-celebrates-40-years/>
+
+---
+
+## BMW Motorrad presents the R 1300 GS Trophy Competition and F 900 GS Trophy Marshal Bikes
+
+date: 2024-06-20, from: Cycle World News
+
+BMW Motorrad presents the R 1300 GS Trophy Competition and F 900 GS Trophy Marshal Bikes for the BMW Motorrad International GS Trophy 2024 Namibia. 
+
+<https://www.cycleworld.com/the-wire/bmw-motorrad-presents-r-1300-gs-trophy-competition-and-f-900-gs-trophy-marshal-bikes/>
+
+---
+
+## Yamaha’s XSR900 GP Mamola Is Retro Racer Perfection: Still Won't Sell It In the US
+
+date: 2024-06-20, from: Ride Apart, Electric Motorcycle News
+
+The XSR900 GP looks gorgeous draped in Mamola’s YZR500 livery.  
+
+<https://www.rideapart.com/news/723466/yamaha-xsr900gp-mamola-yard-built/>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: mid central 2024.25
-updated: 2024-06-20 07:50:36
+updated: 2024-06-21 06:37:54
 ---
 
 # mid central 2024.25
 
-(date: 2024-06-20 07:50:36)
+(date: 2024-06-21 06:37:54)
+
+---
+
+## Examining an environmental antonym: Tile’s Slim
+
+date: 2024-06-21, from: EDN Blog
+
+<img width="1400" height="1741" src="https://www.edn.com/wp-content/uploads/bottom_removed-3.jpg?fit=1400%2C1741" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/bottom_removed-3.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/bottom_removed-3.jpg?w=241 241w, https://www.edn.com/wp-content/uploads/bottom_removed-3.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/bottom_removed-3.jpg?w=823 823w, https://www.edn.com/wp-content/uploads/bottom_removed-3.jpg?w=1235 1235w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>How’s that saying go: “brother from another mother”? This time it’s “brothers from the same mother company, but of different form factors”. </p>
+<p>The post <a href="https://www.edn.com/examining-an-environmental-antonym-tiles-slim/" data-wpel-link="internal">Examining an environmental antonym: Tile’s Slim</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/examining-an-environmental-antonym-tiles-slim/>
+
+---
+
+## Five technologies reshaping electronics manufacturing
+
+date: 2024-06-21, from: EDN Blog
+
+<img width="2656" height="1806" src="https://www.edn.com/wp-content/uploads/Hero-image-electronics-manufacturing.jpg?fit=2656%2C1806" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-electronics-manufacturing.jpg?w=2656 2656w, https://www.edn.com/wp-content/uploads/Hero-image-electronics-manufacturing.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-electronics-manufacturing.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-electronics-manufacturing.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-electronics-manufacturing.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-electronics-manufacturing.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Hero-image-electronics-manufacturing.jpg?w=1900 1900w" sizes="(max-width: 2656px) 100vw, 2656px" /><p>Several technological innovations have arisen to meet the growing challenges in electronics manufacturing.</p>
+<p>The post <a href="https://www.edn.com/five-technologies-reshaping-electronics-manufacturing/" data-wpel-link="internal">Five technologies reshaping electronics manufacturing</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/five-technologies-reshaping-electronics-manufacturing/>
 
 ---
 
@@ -13,7 +37,7 @@ updated: 2024-06-20 07:50:36
 
 date: 2024-06-20, from: EDN Blog
 
-<img width="956" height="1036" src="https://www.edn.com/wp-content/uploads/SolarDayLamp_Figure.png?fit=956%2C1036" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/SolarDayLamp_Figure.png?w=956 956w, https://www.edn.com/wp-content/uploads/SolarDayLamp_Figure.png?w=277 277w, https://www.edn.com/wp-content/uploads/SolarDayLamp_Figure.png?w=768 768w, https://www.edn.com/wp-content/uploads/SolarDayLamp_Figure.png?w=945 945w" sizes="(max-width: 956px) 100vw, 956px" /><p>A solar day lamp design with active MPPT, a high voltage, constant-current LED drive, and no ballast resistors.</p>
+<img width="956" height="1036" src="https://www.edn.com/wp-content/uploads/SolarDayLamp_Figure.png?fit=956%2C1036" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/SolarDayLamp_Figure.png?w=956 956w, https://www.edn.com/wp-content/uploads/SolarDayLamp_Figure.png?w=277 277w, https://www.edn.com/wp-content/uploads/SolarDayLamp_Figure.png?w=768 768w, https://www.edn.com/wp-content/uploads/SolarDayLamp_Figure.png?w=945 945w" sizes="(max-width: 956px) 100vw, 956px" /><p>A solar day lamp design with active MPPT, a high voltage, constant-current LED drive, and no ballast resistors.</p>
 <p>The post <a href="https://www.edn.com/solar-day-lamp-with-active-mppt-and-no-ballast-resistors/" data-wpel-link="internal">Solar day-lamp with active MPPT and no ballast resistors</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

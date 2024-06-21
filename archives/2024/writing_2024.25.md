@@ -1,11 +1,76 @@
 ---
 title: writing 2024.25
-updated: 2024-06-20 07:50:38
+updated: 2024-06-21 06:37:57
 ---
 
 # writing 2024.25
 
-(date: 2024-06-20 07:50:38)
+(date: 2024-06-21 06:37:57)
+
+---
+
+## 3 Writing Lessons from 'Orphan Black: Echoes' Showrunner Anna Fishko
+
+date: 2024-06-21, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/3-writing-lessons-from-orphan-black-echoes-showrunner-anna-fishko" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Orphan%20Black%20Echoes.jpg" alt="3 Writing Lessons from 'Orphan Black: Echoes' Showrunner Anna Fishko" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Who doesn't love a story identity, mysterious pasts, and...4D-printed body parts? Anna Fishko, showrunner and Executive Producer of sci-fi thriller <em>Orphan Black: Echoes</em>, pulls out all the stops in this expansion of the <em>Orphan Black&nbsp;</em>world, twisting perceptions of self and introducing tech that makes cloning seem old-fashioned.</p> 
+
+<https://blog.finaldraft.com/3-writing-lessons-from-orphan-black-echoes-showrunner-anna-fishko>
+
+---
+
+## Locus Bestsellers, June
+
+date: 2024-06-20, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+
+<strong>The Locus Bestsellers for March include top titles: Fourth Wing by Rebecca Yarros (Red Tower), Dune by Frank Herbert (Ace), and </strong><strong>A Court of Thorns and Roses by Sarah J. Maas (Bloomsbury US)</strong>
+
+</div>
+<p></p>
+<div class="postcontent">
+
+
+
+
+HARDCOVERS
+Months
+on list
+Last
+month
+
+
+1)
+<strong>Fourth Wing</strong>, Rebecca Yarros (Red Tower)
+10
+2
+
+
+2)
+<strong>A Fate Inked in Blood</strong>, Danielle L. Jensen (Del Rey)
+1
+&#8211;
+
+
+3)
+<strong>Iron Flame</strong>, Rebecca Yarros (Red </div> <a href="https://locusmag.com/2024/06/locus-bestsellers-june-3/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/06/locus-bestsellers-june-3/>
+
+---
+
+## Adrienne Martini Reviews Those Beyond the Wall by Micaiah Johnson
+
+date: 2024-06-20, from: Locus Magazine
+
+<p><strong>Those Beyond the Wall</strong>, Micaiah Johnson (Del Rey 978-0-5934-9750-0, $28.99, 384pp, hc) March 2024.</p>
+<p>Micaiah Johnson’s <strong>Those Beyond the Wall </strong>isn’t so much a sequel to 2020’s <strong>The Space Between Worlds </strong>as it is one that tracks parallel to it. The timeline has advanced slightly, but her created world looks different from this location. Rather than focus on the power dynamics in wealthy, walled Wi­ley City, we’re in Ashtown,  <a href="https://locusmag.com/2024/06/adrienne-martini-reviews-those-beyond-the-wall-by-micaiah-johnson/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/adrienne-martini-reviews-those-beyond-the-wall-by-micaiah-johnson/>
 
 ---
 

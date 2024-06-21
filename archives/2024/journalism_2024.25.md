@@ -1,11 +1,41 @@
 ---
 title: journalism 2024.25
-updated: 2024-06-20 07:50:38
+updated: 2024-06-21 06:37:57
 ---
 
 # journalism 2024.25
 
-(date: 2024-06-20 07:50:38)
+(date: 2024-06-21 06:37:57)
+
+---
+
+## The Baltimore Banner, turning two, celebrates a subscriber bump and a new education hub
+
+date: 2024-06-20, from: Nieman Journalism Lab
+
+The Baltimore Banner celebrated its second birthday this week with a &#8220;B&#8221; cake, balloons, and a pair of announcements. First up, the nonprofit newsroom shared it now has 49,000 paid subscribers. Of those, 47,000 are individual subscribers and 2,000 are institutional subscribers who have activated their accounts. (Previously, The Banner included other group subscriptions in... 
+
+<https://www.niemanlab.org/2024/06/the-baltimore-banner-turning-two-celebrates-a-subscriber-bump-and-a-new-education-hub/>
+
+---
+
+## Is the news industry ready for another pivot to video?
+
+date: 2024-06-20, from: Nieman Journalism Lab
+
+Seven or eight years ago much of the news industry lost its head over a supposed &#8220;pivot to video&#8221; after Facebook pushed live and other formats with the promise of monetization to come. That didn’t work out so well for publishers, many of whom had hired expensive video teams and found they had to row... 
+
+<https://www.niemanlab.org/2024/06/is-the-news-industry-ready-for-another-pivot-to-video/>
+
+---
+
+## Many people don’t pay full price for their news subscription. Most don’t want to pay anything at all
+
+date: 2024-06-20, from: Nieman Journalism Lab
+
+It’s no secret that news publishers have struggled to make money and sustain their businesses in the digital era. Ad revenue has been siphoned away by Big Tech and money from print advertising has been in continual decline. A solution to this problem is simple on the face of it, but not so in practice:... 
+
+<https://www.niemanlab.org/2024/06/many-people-dont-pay-full-price-for-their-news-subscription-most-dont-want-to-pay-anything-at-all/>
 
 ---
 

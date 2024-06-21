@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.25
-updated: 2024-06-20 07:50:39
+updated: 2024-06-21 06:37:58
 ---
 
 # libraries 2024.25
 
-(date: 2024-06-20 07:50:39)
+(date: 2024-06-21 06:37:58)
+
+---
+
+## The World of Competitive Excel eSports
+
+date: 2024-06-21, from: Scholarly Kitchen
+
+<p>Think you're pretty handy with Excel? Wait until you see the world of professional spreadsheet competitors.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/06/21/the-world-of-competitive-excel-esports/">The World of Competitive Excel eSports</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/06/21/the-world-of-competitive-excel-esports/>
 
 ---
 
@@ -47,7 +59,7 @@ date: 2024-06-19, from: Scholarly Kitchen
 
 date: 2024-06-19, from: CSUN Library Blog, Cited
 
-<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2024/06/outdoors.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" style="margin-bottom: 15px;" fetchpriority="high" /></div>Summer is here! The days are longer (but the library hours are shorter) and as the weather continues to warm, it&#8217;s important to take this&#8230; 
+<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2024/06/outdoors.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" /></div>Summer is here! The days are longer (but the library hours are shorter) and as the weather continues to warm, it&#8217;s important to take this&#8230; 
 
 <https://library.csun.edu/blogs/cited/2024/06/19/summer-recommendations-exploring-the-outdoors-and-centering-well-being/>
 
@@ -81,7 +93,7 @@ date: 2024-06-18, from: Scholarly Kitchen
 
 date: 2024-06-17, from: Association of Research Libraries News
 
-<p>Last Updated on June 18, 2024, 2:53 pm ET Sign up to receive the Day in Review by email. Note: Day in Review will be on hiatus Wednesday for Juneteenth,...</p>
+<p>Last Updated on June 20, 2024, 2:38 pm ET Sign up to receive the Day in Review by email. Note: Day in Review was on hiatus Wednesday for Juneteenth. Jump...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-june-17-20/">Day in Review (June 17–20)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

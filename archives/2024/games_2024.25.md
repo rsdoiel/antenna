@@ -1,11 +1,111 @@
 ---
 title: games 2024.25
-updated: 2024-06-20 07:50:38
+updated: 2024-06-21 06:37:57
 ---
 
 # games 2024.25
 
-(date: 2024-06-20 07:50:38)
+(date: 2024-06-21 06:37:57)
+
+---
+
+## It looks like Zelda games have changed forever
+
+date: 2024-06-21, updated: 2024-06-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/zelda/24182328/zelda-echoes-of-wisdom-design-change>
+
+---
+
+## Elden Ring: Shadow of the Erdtree guides and walkthroughs
+
+date: 2024-06-20, updated: 2024-06-20, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180113/dlc-walkthroughs-guides>
+
+---
+
+## Elden Ring Shadow of the Erdtree DLC interactive map
+
+date: 2024-06-20, updated: 2024-06-20, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/e/23946370>
+
+---
+
+## What time does Elden Ring: Shadow of the Erdtree DLC release?
+
+date: 2024-06-20, updated: 2024-06-20, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180893/release-time-date-dlc-sote-est-pst-bst-cest>
+
+---
+
+## How to access Elden Ring DLC Shadow of the Erdtree
+
+date: 2024-06-20, updated: 2024-06-20, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24087766/how-to-access-dlc-start-location-requirements>
+
+---
+
+## All site of grace locations in Elden Ring: Shadow of the Erdtree DLC
+
+date: 2024-06-20, updated: 2024-06-20, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24182490/site-of-grace-locations-all-where-to-find-sote-dlc>
+
+---
+
+## How to beat Golden Hippopotamus in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-20, updated: 2024-06-20, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24182448/golden-hippopotamus-location-weakness-strategy-how-to-beat-sote-dlc>
+
+---
+
+## How to beat Rellana, Twin Moon Knight in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-20, updated: 2024-06-20, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24182436/rellana-location-weakness-strategy-how-to-beat-sote-dlc>
+
+---
+
+## Elden Ring DLC map for Shadow of the Erdtree
+
+date: 2024-06-20, updated: 2024-06-20, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/c/elden-ring-shadow-erdtree-guide/24182329/interactive-map-dlc-sote-shadow-realm>
+
+---
+
+## ‘Somewhere a great rune has broken’ meaning in Elden Ring Shadow of the Erdtree
+
+date: 2024-06-20, updated: 2024-06-20, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24182243/somewhere-great-rune-broken-powerful-charm-location-powerful-charm-sote-dlc>
 
 ---
 
@@ -116,16 +216,6 @@ date: 2024-06-19, updated: 2024-06-19, from: Polygon Website
  
 
 <https://www.polygon.com/24177908/star-wars-acolyte-tv-they-them-pronouns-stop-being-weird-about-it>
-
----
-
-## What time does Elden Ring: Shadow of the Erdtree DLC release?
-
-date: 2024-06-18, updated: 2024-06-18, from: Polygon Website
-
- 
-
-<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180893/release-time-date-dlc-sote-est-pst-bst-cest>
 
 ---
 

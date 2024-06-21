@@ -1,11 +1,351 @@
 ---
 title: going electric 2024.25
-updated: 2024-06-20 07:50:40
+updated: 2024-06-21 06:37:59
 ---
 
 # going electric 2024.25
 
-(date: 2024-06-20 07:50:40)
+(date: 2024-06-21 06:37:59)
+
+---
+
+## Learning How to Wheelie Is Hard, But Not Anymore
+
+date: 2024-06-21, from: Ride Apart, Electric Motorcycle News
+
+And it'll only cost you $150 in parts.  
+
+<https://www.rideapart.com/news/724023/wild-wheelies-wheelie-machine-plans-design/>
+
+---
+
+## Kawasaki Now Offers Jet Ski Crate Engines, Get Ready For Crazy Engine Swaps
+
+date: 2024-06-21, from: Ride Apart, Electric Motorcycle News
+
+Where would you stuff these high-performance engines into?  
+
+<https://www.rideapart.com/news/723896/kawasaki-jet-ski-crate-engines-on-sale/>
+
+---
+
+## Buy a Special Edition Elvis Triumph, Reenact a Very Obscure Movie Scene
+
+date: 2024-06-21, from: Ride Apart, Electric Motorcycle News
+
+The House of Hinckley meets the Memphis Mafia in an alternate timeline. 
+
+<https://www.rideapart.com/news/724016/triumph-elvis-presley-bonneville-t120/>
+
+---
+
+## Podcast: Tesla Model 3 LR gets cheap, Fisker goes bankrupt, cheap EVs adapt, and more
+
+date: 2024-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla Model 3 LR gets cheap, Fisker goes bankrupt, cheap EVs adapt and more.</p>
+
+
+
+<p>Today’s Podcast is sponsored by the <a href="https://www.americansolarchallenge.org/the-competition/2024-american-solar-challenge/">Electrek American Solar Challenge 2024</a>.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/21/podcast-tesla-model-3-cheap-fisker-goes-bankrupt-cheap-evs-adapt/#more-368610" data-post-id="368610" data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/21/podcast-tesla-model-3-cheap-fisker-goes-bankrupt-cheap-evs-adapt/>
+
+---
+
+## Say Hello To North Korea’s First EV. It’s Not What It Seems
+
+date: 2024-06-21, from: Inside EVs News
+
+Enter the Madusan EV, which claims 450 miles of range—better than any of Tesla’s current EVs. Let's unpack that. 
+
+<https://insideevs.com/news/724104/north-korea-madusan-ev/>
+
+---
+
+## Shimano Just Patented a Brake-By-Wire System: Are Motorcycles Next
+
+date: 2024-06-21, from: Ride Apart, Electric Motorcycle News
+
+Fly-by-wire technology has been around for decades in planes and cars. But is it something the bicycle or motorcycle industry really needs?  
+
+<https://www.rideapart.com/news/723768/shimano-wireless-braking-system-patent/>
+
+---
+
+## Can-Am's Weird-Looking EV Car Isn't a UTV, But Maybe It Is
+
+date: 2024-06-21, from: Ride Apart, Electric Motorcycle News
+
+In the immortal words of Ryan Reynolds, "But why?" 
+
+<https://www.rideapart.com/news/724006/can-am-utv-ev-car-patent/>
+
+---
+
+## Footloose, for e-bikes? The US town that banned all electric bicycles
+
+date: 2024-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/kevin-bacon-footloose-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>As electric bicycles skyrocket in popularity and adoption rates soar, nearly everywhere in the US is seeing a higher number of e-bikes used for transportation. That is, except for one town that banned e-bikes and e-scooters devices altogether.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/21/footloose-for-e-bikes-the-us-town-that-banned-all-electric-bicycles/#more-368223" data-post-id="368223" data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/21/footloose-for-e-bikes-the-us-town-that-banned-all-electric-bicycles/>
+
+---
+
+## Don’t Worry, KTM Is Not Killing Off Its Two-Stroke Dirt Bikes
+
+date: 2024-06-21, from: Ride Apart, Electric Motorcycle News
+
+KTM’s 2026 two-stroke range is reportedly under development as we speak.  
+
+<https://www.rideapart.com/news/723773/ktm-not-discontinuing-2stroke-dirt-bikes/>
+
+---
+
+## Cheap new Hyundai, Tesla sales crater, Ford levels up, and China doesn’t like spies
+
+date: 2024-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/electric-hyundai.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On this episode of Quick Charge, Hyundai continues to invest in new electric vehicles, this time teasing a $25,000 (ish) compact EV set to debut later this month, along with a new IONIQ model. On the domestic front, Tesla sales are cratering so hard that they’re making everyone else’s great numbers look bad, Ford is leveling up its self driving software, and China thinks the Europeans are spying on them.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/20/cheap-new-hyundai-tesla-sales-crater-ford-levels-up-and-china-doesnt-like-spies/#more-368598" data-post-id="368598" data-layer-pagetype="post" data-layer-postcategory="china,ford,hyundai,quick-charge" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/20/cheap-new-hyundai-tesla-sales-crater-ford-levels-up-and-china-doesnt-like-spies/>
+
+---
+
+## Arizona’s largest battery storage project clinches $513M in financing
+
+date: 2024-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Papago-Energy-Storage-Arizona-Recurrent-Energy.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Recurrent Energy has secured $513 million in financing for Arizona’s largest standalone battery storage project.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/20/arizona-largest-battery-storage-project/#more-368583" data-post-id="368583" data-layer-pagetype="post" data-layer-postcategory="battery-storage,egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/20/arizona-largest-battery-storage-project/>
+
+---
+
+## Elon Musk claims Tesla’s new AI supercluster will grow to over 500 MW, record AI chip
+
+date: 2024-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/10/Screen-Shot-2022-10-01-at-3.10.03-PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon Musk claims Tesla’s new AI supercluster will grow to over 500 MW, making it one of, if not the biggest in the world. At the same time, the CEO claims Tesla is achieving some record-breaking performance with its next-en AI chip.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/20/elon-musk-tesla-new-ai-supercluster-over-500-mw-record-ai-chip/#more-368571" data-post-id="368571" data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/20/elon-musk-tesla-new-ai-supercluster-over-500-mw-record-ai-chip/>
+
+---
+
+## BMW 1 series is going electric as an affordable EV for younger buyers
+
+date: 2024-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/BMW-1-series-electric-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BMW’s compact class is going electric. The <a href="https://electrek.co/guides/bmw/">BMW</a> 1 Series will be transformed into an affordable electric car as the brand looks to attract younger buyers. BMW’s 1 Series and 2 Series will spawn i1 and i2 EV models.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/20/bmw-1-series-going-electric-affordable-ev-young-buyers/#more-368572" data-post-id="368572" data-layer-pagetype="post" data-layer-postcategory="bmw" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/20/bmw-1-series-going-electric-affordable-ev-young-buyers/>
+
+---
+
+## How Fisker Owners Are Banding Together To Keep Their Cars Running
+
+date: 2024-06-20, from: Inside EVs News
+
+The new Fisker Owners Association aims to make sure that Ocean owners can keep their cars running even after Fisker's bankruptcy.  
+
+<https://insideevs.com/news/724031/fisker-ocean-owners-association-parts/>
+
+---
+
+## Entry-Level Front-Wheel Drive BMW Neue Klasse EVs Coming In 2027
+
+date: 2024-06-20, from: Inside EVs News
+
+The i3 was tall and slightly awkward-looking, but it was a global hit, and BMW is now looking to reenter the compact EV segment. 
+
+<https://insideevs.com/news/724015/bmw-i1-i2-neue-klasse-electric/>
+
+---
+
+## NIO confident its affordable Firefly EVs will still be competitive despite EU tariffs
+
+date: 2024-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/NIO-third-EV-plant.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With additional tariffs expected on imported Chinese EVs, <a href="https://electrek.co/guides/nio/">NIO</a> says its affordable Firefly brand will still be competitive in the EU. Although it may impact sales, CEO William Li is still confident in the EV maker’s expansion plans.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/20/nio-affordable-firefly-evs-still-compete-eu-tariffs/#more-368554" data-post-id="368554" data-layer-pagetype="post" data-layer-postcategory="nio" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/20/nio-affordable-firefly-evs-still-compete-eu-tariffs/>
+
+---
+
+## U.S. EV Registrations Jumped In April 2024. But Tesla Is Sinking
+
+date: 2024-06-20, from: Inside EVs News
+
+The non-Tesla all-electric car registrations were up 69% year-over-year—and were higher than Tesla's overall figures.  
+
+<https://insideevs.com/news/723998/us-ev-registrations-100000-april2024/>
+
+---
+
+## RadPower’s summer sale increases savings, Goal Zero Yeti 1000 core at new low, Anker SOLIX 522 1-day sale, more
+
+date: 2024-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Rad-Power-bikes-radrover-6-plus-high-step-group-ride.webp?w=1600" /></div><p>Despite the excessive heat across multiple regions already, it’s officially the first day of summer! Kicking off the season’s Green Deals is <a href="https://9to5toys.com/2024/06/20/rad-power-takes-up-to-400-off-e-bikes-and-20-off-premium-add-on-accessories-starting-from-1199/">Rad Power’s updated summer sale</a> that has increased savings on e-bikes (with new additions) up to $500 and is now taking up to 40% off even more accessories than before, with the <a href="https://9to5toys.com/2024/06/20/rad-power-takes-up-to-400-off-e-bikes-and-20-off-premium-add-on-accessories-starting-from-1199/">RadRover 6 Plus e-bike back at its $1,099 low</a>. It is joined by <a href="https://9to5toys.com/2024/06/20/goal-zeros-yeti-1000-core-983wh-portable-power-station-hits-new-500-low-reg-900-more/">Goal Zero’s Yeti 1000 Core Portable Power Station</a> at a new <a href="https://9to5toys.com/2024/06/20/goal-zeros-yeti-1000-core-983wh-portable-power-station-hits-new-500-low-reg-900-more/">$500 low</a>, as well as a one-day deal on <a href="https://9to5toys.com/2024/06/20/ankers-299wh-lifepo4-powerhouse-with-six-ports-returns-to-189-for-today-only-at-best-buy/">Anker’s popular SOLIX 522 Portable Power Station for $189</a>. Plus, all the other hangover Green Deals that are still alive and well.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/20/radpowers-summer-sale-goal-zero-yeti-1000-core-anker-solix-522-more/#more-368549" data-post-id="368549" data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/20/radpowers-summer-sale-goal-zero-yeti-1000-core-anker-solix-522-more/>
+
+---
+
+## NIO's New Battery Swap Station 4.0 Is Faster, Bigger And Automatic
+
+date: 2024-06-20, from: Inside EVs News
+
+It can complete a swap in just over two minutes and will be compatible with multiple EV brands. 
+
+<https://insideevs.com/news/723937/nio-battery-swap-station-fourth-generation/>
+
+---
+
+## CEO says Ford is ‘getting close’ to Level 3 autonomous driving that enables ‘hands and eyes off’
+
+date: 2024-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Ford-autonomous-driving-Level-3.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>In a recent interview, Ford CEO Jim Farley discussed the American automaker’s progress in autonomous driving, stating that it has achieved Level 3, which allows drivers to take their hands off the wheel and eyes off the road. However, it’ll still be a while before <a href="https://electrek.co/guides/ford/">Ford</a> customers get to test it out.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/20/ceo-ford-getting-close-level-3-autonomous-driving-hands-eyes-off/#more-368530" data-post-id="368530" data-layer-pagetype="post" data-layer-postcategory="autonomous,autonomous-driving,ford,ford-bluecruise" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/20/ceo-ford-getting-close-level-3-autonomous-driving-hands-eyes-off/>
+
+---
+
+## The Tesla Model X Is Almost A Decade Old. Its Quality Issues Still Aren’t Fixed
+
+date: 2024-06-20, from: Inside EVs News
+
+As Tesla focuses on new models and pivots to AI and robotaxis, will the Model X continue to be the ignored middle child? 
+
+<https://insideevs.com/news/723886/tesla-model-x-decade-old-quality-issues/>
+
+---
+
+## Drastic price cuts boost EV registrations in April as Toyota, Ford, Rivian lead growth
+
+date: 2024-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/April-EV-registrations-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford, <a href="https://electrek.co/guides/rivian/">Rivian</a>, and Toyota led the growth in April as US EV registrations perked up. The growth comes after drastic price cuts and other incentives led to over $10,000 in savings on some models.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/20/big-price-cuts-boost-april-ev-growth-ford-rivian-lead/#more-368468" data-post-id="368468" data-layer-pagetype="post" data-layer-postcategory="ford,rivian" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/20/big-price-cuts-boost-april-ev-growth-ford-rivian-lead/>
+
+---
+
+## Massive Expansion Of North American Battery Manufacturing Capacity Ahead
+
+date: 2024-06-20, from: Inside EVs News
+
+It should be enough to build at least 12 million all-electric vehicles annually. 
+
+<https://insideevs.com/news/723882/north-american-battery-manufacturing-capacity-1200gwh-2030/>
+
+---
+
+## BMW cancels $2 billion battery cell order from Northvolt
+
+date: 2024-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/northvolt-revolt-ett-factory.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>German automaker BMW said today that it has canceled a €2 billion ($2.15 billion) order for EV battery cells with <a href="https://northvolt.com/" target="_blank" rel="noreferrer noopener">Northvolt</a>.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/20/bmw-cancels-2-billion-battery-cell-order-from-northvolt/#more-368496" data-post-id="368496" data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/20/bmw-cancels-2-billion-battery-cell-order-from-northvolt/>
+
+---
+
+## Exiting Tesla exec suggests spending 1% of revenue on advertising
+
+date: 2024-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2020/11/tesla-hero-tsla-3.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s former head of investor relations suggests that the automaker should spend 1% of its revenue on advertising to expand brand awareness.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/20/exiting-tesla-exec-spending-revenue-advertising/#more-368475" data-post-id="368475" data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/20/exiting-tesla-exec-spending-revenue-advertising/>
+
+---
+
+## Starrun R20 review: Is this sub-$1,000 full-suspension fat tire e-bike worth it?
+
+date: 2024-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/starrun-r20-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I’ve always found the sub-$1k e-bike segment fascinating. The bikes aren’t always the best, but the good ones are usually good enough for most casual and/or recreational riders. And this is the group of e-bikes with the biggest potential for winning over new riders who haven’t fully committed to the idea of a pricier e-bike replacing a good chunk of car miles. The<a href="https://starrunbike.com/products/r20"> $899 Starrun R20</a> is the latest folding fat tire e-bike that seems ready to compete in this quickly crowding market. So does it have what it takes?</p>
+
+
+
+ <a href="https://electrek.co/2024/06/20/starrun-r20-review-is-this-sub-1000-full-suspension-fat-tire-e-bike-worth-it/#more-367754" data-post-id="367754" data-layer-pagetype="post" data-layer-postcategory="ebikes,review" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/20/starrun-r20-review-is-this-sub-1000-full-suspension-fat-tire-e-bike-worth-it/>
+
+---
+
+## Yamaha’s XSR900 GP Mamola Is Retro Racer Perfection: Still Won't Sell It In the US
+
+date: 2024-06-20, from: Ride Apart, Electric Motorcycle News
+
+The XSR900 GP looks gorgeous draped in Mamola’s YZR500 livery.  
+
+<https://www.rideapart.com/news/723466/yamaha-xsr900gp-mamola-yard-built/>
+
+---
+
+## All Top EV Brands, Except Tesla, Noted Registration Growth In Q1 2024
+
+date: 2024-06-20, from: Inside EVs News
+
+U.S. EV registrations accounted for 6.9% of the car market in Q1. 
+
+<https://insideevs.com/news/723865/us-ev-registrations-march2024/>
 
 ---
 
@@ -44,6 +384,20 @@ date: 2024-06-20, from: Electrek Feed
  <a href="https://electrek.co/2024/06/20/byd-major-milestone-yuan-brand-1-million-sales/#more-368445" data-post-id="368445" data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" class="more-link">more…</a> 
 
 <https://electrek.co/2024/06/20/byd-major-milestone-yuan-brand-1-million-sales/>
+
+---
+
+## BYD hits a major milestone as its Yuan brand crosses 1 million in sales
+
+date: 2024-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/BYD-Yuan-1-million-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s leading EV maker, <a href="https://electrek.co/guides/byd/">BYD</a>, just hit another major milestone. The BYD Yuan family surpassed 1 million in sales this week, becoming its latest brand to cross the threshold.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/20/byd-brand-milestone-topping-1-million-sales/#more-368445" data-post-id="368445" data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/20/byd-brand-milestone-topping-1-million-sales/>
 
 ---
 
@@ -158,6 +512,20 @@ date: 2024-06-20, from: Electrek Feed
  <a href="https://electrek.co/2024/06/20/rattans-newest-electric-bike-has-a-name-you-cant-say-in-polite-company/#more-368432" data-post-id="368432" data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" class="more-link">more…</a> 
 
 <https://electrek.co/2024/06/20/rattans-newest-electric-bike-has-a-name-you-cant-say-in-polite-company/>
+
+---
+
+## 2024 Tesla prices: How much does your favorite model cost?
+
+date: 2024-06-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/2022-Tesla-prices.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Although its sales lead was just usurped by BYD, <a href="https://electrek.co/guides/Tesla/">Tesla</a> continues to dominate as an EV industry leader in 2024. While other automakers are driving their new electrified models through a door in the automotive industry that Tesla originally kicked in, the American automaker now offers five ever-popular EV models. That being said, prices have risen in recent years and, in true Tesla fashion, fluctuate often. Here’s where Tesla prices currently sit in 2024.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/20/2024-tesla-prices-how-much-does-model-cost-ev-3-y-s-x-cybertruck/#more-239511" data-post-id="239511" data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-2nd-generation-roadster,tesla-cybertruck,tesla-model-3,tesla-model-s,tesla-model-x,tesla-model-y" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/20/2024-tesla-prices-how-much-does-model-cost-ev-3-y-s-x-cybertruck/>
 
 ---
 
@@ -366,6 +734,20 @@ date: 2024-06-19, from: Electrek Feed
  <a href="https://electrek.co/2024/06/19/ford-mach-e-ev-lease-prices-drop-below-gas-mustang/#more-368283" data-post-id="368283" data-layer-pagetype="post" data-layer-postcategory="ford,ford-mach-e" data-layer-viewtype="unknown" class="more-link">more…</a> 
 
 <https://electrek.co/2024/06/19/ford-mach-e-ev-lease-prices-drop-below-gas-mustang/>
+
+---
+
+## Ford cuts Mustang Mach-E EV lease prices with up to 400% discount
+
+date: 2024-06-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Ford-EV-costs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>You can now drive an electric <a href="https://electrek.co/guides/ford-mach-e/">Ford Mustang Mach-E</a> for less than the gas-powered model. With an up to 400% discount, Ford Mach-E lease prices are considerably cheaper.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/19/ford-cuts-mustang-mach-e-ev-lease-prices-400-off/#more-368283" data-post-id="368283" data-layer-pagetype="post" data-layer-postcategory="ford,ford-mach-e" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/19/ford-cuts-mustang-mach-e-ev-lease-prices-400-off/>
 
 ---
 

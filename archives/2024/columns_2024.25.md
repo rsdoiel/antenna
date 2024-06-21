@@ -1,11 +1,292 @@
 ---
 title: columns 2024.25
-updated: 2024-06-20 07:50:37
+updated: 2024-06-21 06:37:56
 ---
 
 # columns 2024.25
 
-(date: 2024-06-20 07:50:37)
+(date: 2024-06-21 06:37:56)
+
+---
+
+##  How do we know how many people died of Covid-19? &#8220;After four... 
+
+date: 2024-06-21, updated: 2024-06-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044849-how-do-we-know-how>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-21, from: Dave Winer's Scripting News)
+
+The best software does one thing well, that a lot of people want to do, that there is no other way to do. I've never seen this, but it's the ideal. 
+
+<http://scripting.com/2024/06/21.html#a125345>
+
+---
+
+##  50 Years Ago in Photos: A Look Back at 1974. Gas shortages,... 
+
+date: 2024-06-21, updated: 2024-06-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044844-50-years-ago-in-photos>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-21, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/21/wordleKittyHello.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Bruce Schneier</a> has a new blog moderation policy. Everyone should have <a href="https://this.how/commentGuidelines/">one</a>. He's a bit of a troll himself. Once he gave a talk at an O'Reilly conference, and while I was in the audience, accused me of designing <a href="http://xmlrpc.com/">XML-RPC</a> to get around firewalls. I happen to know that's not true, and in fact you can <i>easily</i> spec a firewall rule that keeps out XML-RPC calls, that was a design goal. So I waited my turn, and explained. He just stood there, offered no apology or retraction or explanation. Now that's fucked up Bruce. From that point on I never believed any of his proclamations. And I rarely forget people who openly trash my rep like that. Tech is so fucked up that way. People like Schneier take advantage of the fact that people don't understand the terminology so they get away with hurling insults randomly like that. 
+
+<http://scripting.com/2024/06/21.html#a122650>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-21, from: Dave Winer's Scripting News)
+
+There's a new kitten to keep track of -- <a href="https://imgs.scripting.com/2024/06/21/wordleKittyYeahYeahYeahSoFreakingCute.png">Wordle Kitty</a>. When I need to score a big win, I turn Wordle over to this kitten and she does a <a href="https://www.facebook.com/dave.winer.12/posts/pfbid0szTePh1cFbHgfrfiiHVhBBcnvJVEJWYpw4F4ZP1pVB1iwFgo7o82DNA52x2FQEJrl">kickass job</a> while remaining as cute as can be. 
+
+<http://scripting.com/2024/06/21.html#a121235>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-21, from: Dave Winer's Scripting News)
+
+Thanks for all the good advice via email and <a href="https://mastodon.social/@davew/112648820680722618">Mastodon</a> re best way to <a href="http://scripting.com/2024/06/20.html#a112702">record an interview podcast</a> in 2024. I'm really getting into this. I'm definitely going to come up with a nice pure podcast feed for Scripting News. But first I have some new software to ship. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/06/21.html#a121044>
+
+---
+
+##  The Models for American Gothic 
+
+date: 2024-06-21, updated: 2024-06-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/the-models-for-american-gothic-1>
+
+---
+
+## Ross Anderson’s Memorial Service
+
+date: 2024-06-21, updated: 2024-06-20, from: Bruce Schneier blog
+
+<p>The memorial service for <a href="https://www.schneier.com/essays/archives/2024/04/in-memoriam-ross-anderson-1956-2024.html">Ross Anderson</a> will be held on Saturday, at 2:00 PM BST. People can attend remotely on <a href="https://chucamacuk.zoom.us/j/81822292108">Zoom</a>. (The passcode is &#8220;L3954FrrEF&#8221;.)</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/06/ross-andersons-memorial-service.html>
+
+---
+
+## Debunking Myth #4: “Corporate Political Donations Are Free Speech.” 
+
+date: 2024-06-21, from: Robert Reich's blog
+
+Bunk! 
+
+<https://robertreich.substack.com/p/debunking-myth-4-corporate-political>
+
+---
+
+## Dystopian architecture as memorial
+
+date: 2024-06-21, from: Tracy Durnell Blog
+
+ 
+
+<https://tracydurnell.com/2024/06/21/dystopian-architecture-as-memorial/>
+
+---
+
+## Escape velocity?
+
+date: 2024-06-21, from: Enlightenment Economics blog
+
+I&#8217;ve read Ray Kurweil&#8217;s jaw-dropping book, The Singularity is Nearer: When We Merge With AI, so you don&#8217;t have to. He does literally believe we will be injected with nanobots to create an AI super-cortex above our own neo-cortex, plugged &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2024/06/escape-velocity/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2024/06/escape-velocity/>
+
+---
+
+## June 20, 2024 
+
+date: 2024-06-21, from: Heather Cox Richardson blog
+
+Yesterday, in North Korea, Russian president Vladimir Putin and North Korean leader Kim Jong Un signed a security partnership between their countries that said they would &#8220;provide mutual assistance in case of aggression.&#8221; The two authoritarian leaders essentially resurrected a 1961 agreement between North Korea and the Soviet Union. According to the North Korean News Agency, the agreement also calls for the two countries to work together toward a &#8220;just and multipolar new world order.&#8221; 
+
+<https://heathercoxrichardson.substack.com/p/june-20-2024>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-06-21, from: Jessica Smith's blog)
+
+<p>I&rsquo;m so sick of these frigid overnight lows we&rsquo;ve been having every day. Our whole flat drops down to about 10° overnight and stays there all day except for the rooms we run heaters in. It&rsquo;s so constraining, feeling like only one room at a time is even hospitable to human life&hellip;</p>
+<p>Not sure whether Gidget is also sick of the frigid temperatures, or whether she&rsquo;s relishing the opportunity to insist on hours and hours of cuddles. Because she&rsquo;s definitely been doing that. Hard to get housework done or whatever when it&rsquo;s <em>so</em> cold out there and I could sit still, under covers, with a cat on my lap instead.</p>
+<img src="https://www.jayeless.net/media/2024/06/gidget-morning-cuddles.jpeg" alt="A tabby cat with white paws and belly resting on a bed with her tummy partially exposed." class="u-photo"> 
+
+<https://www.jayeless.net/2024/06/frigid-mornings.html>
+
+---
+
+## Friday 21 June, 2024
+
+date: 2024-06-20, from: John Naughton's online diary
+
+Helter-skelter The helical chutes inside Frank Gehry’s Tower in the Luma Arles arts centre, photographed yesterday. Believe it or not, perfectly sensible adults come hurtling down these. The view from the top of the tower is terrific, though. First time &#8230; <a href="https://memex.naughtons.org/friday-21-june-2024/39558/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-21-june-2024/39558/>
+
+---
+
+## Thou Shalt Not Violate the Constitution
+
+date: 2024-06-20, from: Dan Rather's Steady
+
+Public schools should not be Sunday Schools 
+
+<https://steady.substack.com/p/thou-shalt-not-violate-the-constitution>
+
+---
+
+##  80 Iconic Piano Intros, Played Back-to-Back From Memory 
+
+date: 2024-06-20, updated: 2024-06-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/80-iconic-piano-intros-played-back-to-back-from-memory>
+
+---
+
+## Matt Levine on OpenAI’s True Purpose
+
+date: 2024-06-20, updated: 2024-06-20, from: Daring Fireball
+
+ 
+
+<https://www.bloomberg.com/opinion/articles/2024-06-20/virgin-orbit-had-a-fake-takeover?sref=CrGXSfHu>
+
+---
+
+## Anthropic Introduces Claude 3.5 Sonnet
+
+date: 2024-06-20, updated: 2024-06-20, from: Daring Fireball
+
+ 
+
+<https://www.anthropic.com/news/claude-3-5-sonnet>
+
+---
+
+## Warp’s Agent Mode: Natural Language for Terminal Commands
+
+date: 2024-06-20, updated: 2024-06-20, from: Daring Fireball
+
+ 
+
+<https://www.warp.dev/blog/agent-mode>
+
+---
+
+## Lacking Votes, EU Postpones Vote on CSAM Law That Would Ban End-to-End-Encryption for Messaging
+
+date: 2024-06-20, updated: 2024-06-20, from: Daring Fireball
+
+ 
+
+<https://www.politico.eu/article/eu-council-cancels-vote-on-encryption-breaking-child-sexual-abuse-law/>
+
+---
+
+##  A photographer entered a real photo of a flamingo in an AI... 
+
+date: 2024-06-20, updated: 2024-06-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044846-a-photographer-entered-a->
+
+---
+
+## ‘This $8 Cardboard Knife Will Change Your Life’
+
+date: 2024-06-20, updated: 2024-06-20, from: Daring Fireball
+
+ 
+
+<https://www.theobsessor.com/this-8-cardboard-knife-will-change-your-life/>
+
+---
+
+## ‘Fast Crimes at Lambda School’
+
+date: 2024-06-20, updated: 2024-06-20, from: Daring Fireball
+
+ 
+
+<https://www.sandofsky.com/lambda-school/>
+
+---
+
+## Apple ID to Be Renamed to Apple Account
+
+date: 2024-06-20, updated: 2024-06-20, from: Daring Fireball
+
+ 
+
+<https://tidbits.com/2024/06/13/apple-id-to-be-renamed-to-apple-account-disrupting-independent-documentation/>
+
+---
+
+## June 19, 2024
+
+date: 2024-06-20, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/june-19-2024-a2c>
+
+---
+
+##  A Few Lessons from Roger Federer&#8217;s Dartmouth Commencement Speech 
+
+date: 2024-06-20, updated: 2024-06-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/a-few-lessons-from-roger-federers-dartmouth-commencement-speech>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-20, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=dlRuYCDyeOA">Take Me Back to Tulsa</a>. 
+
+<http://scripting.com/2024/06/20.html#a150341>
+
+---
+
+## Blog On Vacation
+
+date: 2024-06-20, from: David Rosenthal's blog
+
+This blog will be taking a break for a couple of weeks.<br /> 
+
+<https://blog.dshr.org/2024/06/blog-on-vacation.html>
+
+---
+
+##  The Coming Birth-Control Revolution. &#8220;Researchers have taken massive steps toward developing simple,... 
+
+date: 2024-06-20, updated: 2024-06-20, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044837-the-coming-birth-control->
 
 ---
 
@@ -33,7 +314,7 @@ date: 2024-06-20, from: Dave Winer's Scripting News
 
 **@Dave Winer's Scripting News** (date: 2024-06-20, from: Dave Winer's Scripting News)
 
-Why did the Podcast 2.0 people reinvent <a href="http://home.rsscloud.co/">rssCloud</a>? That's the kind of bullshit Google does. We don't do that in the open formats and protocols world. What really pains me is they claim to follow <a href="https://this.how/standards/">my</a> Rules for Standards-makers. Imho they do not. Two rules apply. <a href="https://this.how/standards/#1497798753000">Rule #1</a> says the only reason we do this is interop. It's called Rule #1 for a reason. And the <a href="https://this.how/standards/#1497798940000">one way</a> is better rule a little further down the page. I've seen this happen twice where people say they abide by the RFSM but then do exactly the opposite of what it says to do. We have to do this better people. Come on. Also come up with something more humble than the name you've chosen. We've been down this path too. The only way it ends is in tears. Meanwhile you've made the <a href="http://scripting.com/2024/06/20/134901.html?title=standardsKitty">Standards Kitty</a> cry. 
+Why did the Podcast 2.0 people reinvent <a href="http://home.rsscloud.co/">rssCloud</a>? That's the kind of bullshit Google does. We don't do that in the open formats and protocols world. What really pains me is they claim to follow <a href="https://this.how/standards/">my</a> Rules for Standards-makers. Imho they do not. Two rules apply. <a href="https://this.how/standards/#1497798753000">Rule #1</a> says the only reason we do this is interop. It's called Rule #1 for a reason. And the <a href="https://this.how/standards/#1497798940000">one way</a> rule a little further down the page. I've seen this happen twice where people say they abide by the <a href="https://this.how/standards/">RFSM</a> but then do exactly the opposite of what it says to do. We have to do this better people. Come on. Also come up with something more humble than the name you've chosen. We've been down this path. The only way it ends is in <a href="http://scripting.com/2024/06/20/134901.html?title=standardsKitty">tears</a>. 
 
 <http://scripting.com/2024/06/20.html#a133741>
 
@@ -239,6 +520,16 @@ date: 2024-06-20, updated: 2024-06-20, from: Daring Fireball
  
 
 <https://arstechnica.com/tech-policy/2024/06/ftc-sues-adobe-over-hefty-hidden-fees-manipulative-sign-ups/>
+
+---
+
+## Systems: What does a board of directors do?
+
+date: 2024-06-20, updated: 2024-06-20, from: Anil Dash blog
+
+ 
+
+<https://anildash.com/2024/06/20/dash-board/>
 
 ---
 

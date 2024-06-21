@@ -1,11 +1,722 @@
 ---
 title: pacific 2024.25
-updated: 2024-06-20 07:50:35
+updated: 2024-06-21 06:37:54
 ---
 
 # pacific 2024.25
 
-(date: 2024-06-20 07:50:35)
+(date: 2024-06-21 06:37:54)
+
+---
+
+## CNMI sees surge in Chinese arrivals
+
+date: 2024-06-21, from: Pacific Island Times
+
+By Pacific Island Times News Staff Saipan—   China has marked its highest monthly arrivals since direct flights were halted during the... 
+
+<https://www.pacificislandtimes.com/post/cnmi-sees-surge-in-chinese-arrivals>
+
+---
+
+## Patriots, RB Stevenson agree to 4-year extension
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>The New England Patriots and running back Rhamondre Stevenson have agreed to a four-year, $36 million extension that includes $17 million guaranteed, league sources said Thursday. The contract also includes $3 million per year in upside incentives based on reaching more than 1,400 scrimmage yards plus All-Pro and Pro Bowl appearances that could bring the deal up to $48 million, per a league source.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/sports/patriots-rb-stevenson-agree-to-4-year-extension/>
+
+---
+
+## County announces Fourth of July celebrations
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County&#8217;s official Independence Day celebrations will take place Thursday, July 4, in Hilo and Kona.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/hawaii-news/county-announces-fourth-of-july-celebrations/>
+
+---
+
+## Inside the Lakers’ decision to hire JJ Redick and how he shapes their future
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>Seven weeks after firing Darvin Ham, the Los Angeles Lakers landed on their next head coach on Thursday: JJ Redick, the 15-year NBA veteran turned podcaster and broadcaster, league sources with direct knowledge of the situation tell <em>The Athletic</em>. Redick is signing a four-year deal worth in the neighborhood of $8 million per season with the Lakers, according to sources briefed on the deal.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/sports/inside-the-lakers-decision-to-hire-jj-redick-and-how-he-shapes-their-future/>
+
+---
+
+## Bulls trade veteran defensive star Alex Caruso to Thunder for guard Josh Giddey
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO &#8212; The Chicago Bulls made their first move in a turning point of an offseason Thursday, trading defensive star Alex Caruso to the Oklahoma City Thunder in exchange for shooting guard Josh Giddey, a source confirmed to the Chicago Tribune.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/sports/bulls-trade-veteran-defensive-star-alex-caruso-to-thunder-for-guard-josh-giddey/>
+
+---
+
+## Committee denies extension for Kona Vistas
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>After public outcry, a controversial West Hawaii housing development on Tuesday was denied a time extension to complete its project.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/hawaii-news/committee-denies-extension-for-kona-vistas/>
+
+---
+
+## Judge in Trump documents case rejected suggestions to step aside
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>Shortly after Judge Aileen M. Cannon drew the assignment in June 2023 to oversee former President Donald Trump&#8217;s classified documents case, two more experienced colleagues on the federal bench in Florida urged her to pass it up and hand it off to another jurist, according to two people briefed on the conversations.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/nation-world-news/judge-in-trump-documents-case-rejected-suggestions-to-step-aside/>
+
+---
+
+## Keiki get hands-on learning experience during ‘Imiloa program
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>During summer break, some keiki are spending time learning about the history and culture of wa&#8216;a (canoes) through immersive educational experiences at the &#8216;Imiloa Astronomy Center in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/hawaii-news/keiki-get-hands-on-learning-experience-during-imiloa-program/>
+
+---
+
+## Preparing for an inevitable AI emergency
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>Artificial intelligence is advancing at a speed and in ways that were unanticipated even by the foremost AI experts. Just a few decades ago, AI was largely theoretical, existing primarily in the realms of science fiction and academic research. Today, AI permeates nearly every aspect of our lives, from the algorithms that curate social media feeds to the autonomous systems that drive cars. This rapid advancement, while promising in many respects, also heralds a new era of uncertainty and potential peril.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/opinion/preparing-for-an-inevitable-ai-emergency/>
+
+---
+
+## Treat all gun violators the same as Hunter Biden
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>If Hunter Biden&#8217;s name had been Jim Bob Jones would he have been tried and convicted for lying on a federal firearms purchase form?</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/opinion/treat-all-gun-violators-the-same-as-hunter-biden/>
+
+---
+
+## Police investigating potential drowning in Kainaliu
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating the possible drowning death of a 58-year-old Oahu man Thursday afternoon at Kainaliu Beach in Kona.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/hawaii-news/police-investigating-potential-drowning-in-kainaliu/>
+
+---
+
+## ‘Truly one for the ages’: State settles lawsuit filed by 13 youths over climate change
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green on Thursday announced settlement of a lawsuit against the state by 13 youth plaintiffs who alleged the state violated their constitutional rights to a livable environment by operating a transportation system that contributes to greenhouse gas emissions and climate change.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/hawaii-news/truly-one-for-the-ages-state-settles-lawsuit-filed-by-13-youths-over-climate-change/>
+
+---
+
+## Public invited to fentanyl task force’s talk story sessions
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Island Fentanyl Task Force is inviting families and friends who have lost a loved one to a drug overdose to an &#8220;Information and Talk Story&#8221; session.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/community/public-invited-to-fentanyl-task-forces-talk-story-sessions/>
+
+---
+
+## Public invited to bon dance in Honomu
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>Honomu Henjoji Mission invites communities along the Hamakua Coast to celebrate life with a Obon service and dance this Saturday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/hawaii-news/public-invited-to-bon-dance-in-honomu/>
+
+---
+
+## Nonprofit buys 42 acres in Hilo for affordable housing
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>The nonprofit Council for Native Hawaiian Advancement has announced the acquisition of 43.08 acres of land in Hilo that will be designated for affordable housing.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/community/nonprofit-buys-42-acres-in-hilo-for-affordable-housing/>
+
+---
+
+## US FAA probes low-flying Southwest Airlines flight near Oklahoma City
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Federal Aviation Administration (FAA) said on Thursday it is investigating a Southwest Airlines flight that descended to a low altitude 9 miles (14.5 km) from the Oklahoma City airport.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/hawaii-news/us-faa-probes-low-flying-southwest-airlines-flight-near-oklahoma-city/>
+
+---
+
+## Extreme heat kills hundreds, millions more sweltering worldwide as summer begins
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; Deadly heatwaves are scorching cities on four continents as the Northern Hemisphere marks the first day of summer, a sign that climate change may again help to fuel record-breaking heat that could surpass last summer as the warmest in 2,000 years.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/nation-world-news/extreme-heat-kills-hundreds-millions-more-sweltering-worldwide-as-summer-begins/>
+
+---
+
+## TikTok lays out past efforts to address US concerns
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>TikTok, a popular video app facing a new law that could lead it to being banned in the United States, released details Thursday about numerous confidential meetings with top federal officials as it tried to address concerns about the company&#8217;s Chinese ownership.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/nation-world-news/tiktok-lays-out-past-efforts-to-address-us-concerns/>
+
+---
+
+## New North Korea-Russia pact calls for immediate military aid if invaded
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL &#8212; North Korea and Russia have agreed to provide immediate military assistance if either faces armed aggression, according to the full text of a landmark pact released on Thursday by Pyongyang after a visit by Russian President Vladimir Putin.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/nation-world-news/new-north-korea-russia-pact-calls-for-immediate-military-aid-if-invaded/>
+
+---
+
+## Visiting Vietnam, Putin seeks new ‘security architecture’ for Asia
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>HANOI (Reuters) &#8212; Russian President Vladimir Putin said he wanted to build a &#8220;reliable security architecture&#8221; in the Asia-Pacific region during a state visit to Vietnam on Thursday, part of a trip to Asia seen as show of defiance to the West.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/nation-world-news/visiting-vietnam-putin-seeks-new-security-architecture-for-asia/>
+
+---
+
+## Israel pounds central Gaza camps, deepens invasion of Rafah
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO &#8212; Several Israeli air strikes in the central and northern Gaza Strip overnight and into Thursday killed at least 14 people and wounded dozens of others, according to medics, while tanks deepened their invasion into Rafah in the south, residents said.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/nation-world-news/israel-pounds-central-gaza-camps-deepens-invasion-of-rafah/>
+
+---
+
+## Your Views for June 21
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>Keep the lights on&#0010;with rooftop solar</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/opinion/your-views-for-june-21-8/>
+
+---
+
+## Man, 26, allegedly carjacks pickup, rams police vehicle
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>A 26-year-old man was arrested Tuesday after allegedly carjacking a pickup truck in Nanakuli before ramming a police vehicle and trying to steal another car in Kaneohe.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/hawaii-news/man-26-allegedly-carjacks-pickup-rams-police-vehicle/>
+
+---
+
+## Donald Sutherland, shape-shifting movie star, dies at 88
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>Donald Sutherland, whose ability to both charm and unsettle, both reassure and repulse, was amply displayed in scores of film roles as diverse as a laid-back battlefield surgeon in &#8220;M*A*S*H,&#8221; a ruthless Nazi spy in &#8220;Eye of the Needle,&#8221; a soulful father in &#8220;Ordinary People&#8221; and a strutting fascist in &#8220;1900,&#8221; died Thursday in Miami. He was 88.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/nation-world-news/donald-sutherland-shape-shifting-movie-star-dies-at-88/>
+
+---
+
+## Supreme Court upholds Trump-era tax provision
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court on Thursday upheld a tax on foreign income that helped finance the cuts President Donald Trump imposed in 2017 in a case that many experts had cautioned could undercut the nation&#8217;s tax system.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/nation-world-news/supreme-court-upholds-trump-era-tax-provision/>
+
+---
+
+## Obituaries for June 21
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>Kenneth Takeo &#8220;Bosho&#8221; Komatsu, 82, of Hilo, died May 30 at Hilo Benioff Medical Center. Born in Hilo, he was retired state Department of Health vector control inspector and a food preparation instructor for the Peace Corps. Private services were held. No flowers or koden (monetary gifts). Survived by wife, Leatrice Komatsu of Hilo; son, Marc (Christopher) Komatsu of Las Vegas; brother, Donald Komatsu of Hilo; sister-in-law, Sandra (Aaron) Hirano of Hilo; nieces, nephews and cousins. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/obituaries/obituaries-for-june-21-9/>
+
+---
+
+## Kapolei man charged with moving more than $950K worth of drugs
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Department of Justice wants a Kapolei man held without bail after he was charged with using an assault rifle and shotgun while dealing more than $950,000 worth of cocaine, fentanyl, MDMA, cannabis and steroids.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/hawaii-news/kapolei-man-charged-with-moving-more-than-950k-worth-of-drugs/>
+
+---
+
+## Japan Coast Guard Training Ship Kojima Concludes Historic Voyage to Palau
+
+date: 2024-06-21, from: Island Times
+
+<figure><img width="576" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Cpt.-Sakae-Kazushi-scaled.jpg?fit=576%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Cpt.-Sakae-Kazushi-scaled.jpg?w=1440&amp;ssl=1 1440w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Cpt.-Sakae-Kazushi-scaled.jpg?resize=169%2C300&amp;ssl=1 169w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Cpt.-Sakae-Kazushi-scaled.jpg?resize=576%2C1024&amp;ssl=1 576w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Cpt.-Sakae-Kazushi-scaled.jpg?resize=768%2C1365&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Cpt.-Sakae-Kazushi-scaled.jpg?resize=864%2C1536&amp;ssl=1 864w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Cpt.-Sakae-Kazushi-scaled.jpg?resize=1152%2C2048&amp;ssl=1 1152w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Cpt.-Sakae-Kazushi-scaled.jpg?resize=1200%2C2133&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Cpt.-Sakae-Kazushi-scaled.jpg?resize=1568%2C2788&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Cpt.-Sakae-Kazushi-scaled.jpg?resize=400%2C711&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Cpt.-Sakae-Kazushi-scaled.jpg?resize=706%2C1255&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Cpt.-Sakae-Kazushi-scaled.jpg?fit=576%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70873" data-permalink="https://islandtimes.org/japan-coast-guard-training-ship-kojima-concludes-historic-voyage-to-palau/cpt-sakae-kazushi/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Cpt.-Sakae-Kazushi-scaled.jpg?fit=1440%2C2560&amp;ssl=1" data-orig-size="1440,2560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1718820830&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;64&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Cpt. Sakae Kazushi" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Cpt.-Sakae-Kazushi-scaled.jpg?fit=169%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Cpt.-Sakae-Kazushi-scaled.jpg?fit=576%2C1024&amp;ssl=1" /></figure>
+<p>Koror, Palau &#8211; The Japan Coast Guard Academy training vessel Kojima arrived in Palau this week, marking the final stop on its three-month international training cruise. The ship, carrying 42 cadets and 44 crew members, is scheduled for decommissioning upon its return to Japan, making this a historic visit. &#8220;Kojima,&#8221; meaning &#8220;small islands,&#8221; aptly concludes [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japan-coast-guard-training-ship-kojima-concludes-historic-voyage-to-palau/">Japan Coast Guard Training Ship Kojima Concludes Historic Voyage to Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/japan-coast-guard-training-ship-kojima-concludes-historic-voyage-to-palau/>
+
+---
+
+## Collaboration Emerges as Key to Addressing Environmental Threats at 4th National Symposium
+
+date: 2024-06-21, from: Island Times
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/4thNES-scaled.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/4thNES-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/4thNES-scaled.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/4thNES-scaled.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/4thNES-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/4thNES-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/4thNES-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/4thNES-scaled.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/4thNES-scaled.jpg?resize=1568%2C882&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/4thNES-scaled.jpg?resize=2000%2C1125&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/4thNES-scaled.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/4thNES-scaled.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/4thNES-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/4thNES-scaled.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70871" data-permalink="https://islandtimes.org/collaboration-emerges-as-key-to-addressing-environmental-threats-at-4th-national-symposium/4thnes/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/4thNES-scaled.jpg?fit=2560%2C1440&amp;ssl=1" data-orig-size="2560,1440" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1718898411&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="4thNES" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/4thNES-scaled.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/4thNES-scaled.jpg?fit=780%2C439&amp;ssl=1" /></figure>
+<p>Koror, Palau &#8211; Increased collaboration among stakeholders is critical to tackling environmental challenges, according to the 4th National Environmental Symposium held yesterday, June 20th, 2024, at the Amayong Cultural Center. The symposium brought together environmental experts, representatives from various agencies, and community members to discuss pressing environmental issues, current solutions, and future strategies. The focus [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/collaboration-emerges-as-key-to-addressing-environmental-threats-at-4th-national-symposium/">Collaboration Emerges as Key to Addressing Environmental Threats at 4th National Symposium</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/collaboration-emerges-as-key-to-addressing-environmental-threats-at-4th-national-symposium/>
+
+---
+
+## Palau and RMI Tied for 3rd Place in Medal Counts at MicroGames
+
+date: 2024-06-21, from: Island Times
+
+<figure><img width="449" height="474" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1-2.jpg?fit=449%2C474&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1-2.jpg?w=449&amp;ssl=1 449w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1-2.jpg?resize=284%2C300&amp;ssl=1 284w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1-2.jpg?resize=400%2C422&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1-2.jpg?fit=449%2C474&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70869" data-permalink="https://islandtimes.org/palau-and-rmi-tied-for-3rd-place-in-medal-counts-at-microgames/untitled-1-92/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1-2.jpg?fit=449%2C474&amp;ssl=1" data-orig-size="449,474" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Untitled-1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1-2.jpg?fit=284%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Untitled-1-2.jpg?fit=449%2C474&amp;ssl=1" /></figure>
+<p>As of June 20, Palau is tied with the Republic of the Marshall Islands (RMI) for 3rd place in the medal counts at the 2024 MicroGames, with each nation securing 59 medals. Palau&#8217;s medal tally includes 6 gold, 35 silver, and 18 bronze medals. The Palau Table Tennis team demonstrated remarkable dedication, playing until 2 [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-and-rmi-tied-for-3rd-place-in-medal-counts-at-microgames/">Palau and RMI Tied for 3rd Place in Medal Counts at MicroGames</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-and-rmi-tied-for-3rd-place-in-medal-counts-at-microgames/>
+
+---
+
+## AD HOC Art Center Fosters Appreciation in Palauan Community
+
+date: 2024-06-21, from: Island Times
+
+<figure><img width="1024" height="549" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Screen-Shot-2024-06-19-at-2.22.44-PM.png?fit=1024%2C549&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Screen-Shot-2024-06-19-at-2.22.44-PM.png?w=1034&amp;ssl=1 1034w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Screen-Shot-2024-06-19-at-2.22.44-PM.png?resize=300%2C161&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Screen-Shot-2024-06-19-at-2.22.44-PM.png?resize=1024%2C549&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Screen-Shot-2024-06-19-at-2.22.44-PM.png?resize=768%2C411&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Screen-Shot-2024-06-19-at-2.22.44-PM.png?resize=400%2C214&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Screen-Shot-2024-06-19-at-2.22.44-PM.png?resize=706%2C378&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Screen-Shot-2024-06-19-at-2.22.44-PM.png?fit=1024%2C549&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70866" data-permalink="https://islandtimes.org/ad-hoc-art-center-fosters-appreciation-in-palauan-community/screen-shot-2024-06-19-at-2-22-44-pm/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Screen-Shot-2024-06-19-at-2.22.44-PM.png?fit=1034%2C554&amp;ssl=1" data-orig-size="1034,554" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Screen Shot 2024-06-19 at 2.22.44 PM" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Screen-Shot-2024-06-19-at-2.22.44-PM.png?fit=300%2C161&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Screen-Shot-2024-06-19-at-2.22.44-PM.png?fit=780%2C418&amp;ssl=1" /></figure>
+<p>Koror, Palau &#8211; In 2022, co-founders Benina Berger and Tati launched the AD HOC Art Center, a local non-governmental organization (NGO). AD HOC provides a space for artists and experienced art enthusiasts to lead art events for children, teens, and adults. The center, currently located at Urur Labs courtesy of PCC, aligns with Berger&#8217;s background [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ad-hoc-art-center-fosters-appreciation-in-palauan-community/">AD HOC Art Center Fosters Appreciation in Palauan Community</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/ad-hoc-art-center-fosters-appreciation-in-palauan-community/>
+
+---
+
+## Palau Seeks Tourist Market Diversification to Bolster Economic Security
+
+date: 2024-06-21, from: Island Times
+
+<p>Palau&#8217;s President, Surangel Whipps Jr., emphasized the importance of a diversified economy, particularly within the tourism industry, for national economic security and resilience. Recent arrival data indicates a significant shift in tourist demographics. While China remains the largest single-source market, its share has shrunk to approximately 25% of the total, down from 50%. This decline [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-seeks-tourist-market-diversification-to-bolster-economic-security/">Palau Seeks Tourist Market Diversification to Bolster Economic Security</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-seeks-tourist-market-diversification-to-bolster-economic-security/>
+
+---
+
+## “Infused with God’s Love: Transforming Through His Presence”
+
+date: 2024-06-21, from: Island Times
+
+<figure><img width="400" height="400" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400-1.jpg?fit=400%2C400&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400-1.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400-1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400-1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400-1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400-1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400-1.jpg?fit=400%2C400&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70858" data-permalink="https://islandtimes.org/infused-with-gods-love-transforming-through-his-presence/lnkcvqv8_400x400-7/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400-1.jpg?fit=400%2C400&amp;ssl=1" data-orig-size="400,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="LNkCVQv8_400x400" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400-1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/LNkCVQv8_400x400-1.jpg?fit=400%2C400&amp;ssl=1" /></figure>
+<p>God&#8217;s love in our hearts is like a bag of tea steeping in hot water. Initially, the water is clear and separate, much like our lives before we fully embrace His love. As the tea bag infuses its essence into the water, it gradually transforms into a rich, aromatic brew. In the same way, the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/infused-with-gods-love-transforming-through-his-presence/">&#8220;Infused with God&#8217;s Love: Transforming Through His Presence&#8221;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/infused-with-gods-love-transforming-through-his-presence/>
+
+---
+
+## Palau’s 2024 Election: Apathy,Ignorance, or Shortage of Candidates?
+
+date: 2024-06-21, from: Island Times
+
+<figure><img width="400" height="403" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/review-icon-png-23.png?fit=400%2C403&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/review-icon-png-23.png?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/review-icon-png-23.png?resize=298%2C300&amp;ssl=1 298w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/review-icon-png-23.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/review-icon-png-23.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/review-icon-png-23.png?fit=400%2C403&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70856" data-permalink="https://islandtimes.org/palaus-2024-election-apathyignorance-or-shortage-of-candidates/review-icon-png-23-9/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/review-icon-png-23.png?fit=400%2C403&amp;ssl=1" data-orig-size="400,403" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="review-icon-png-23" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/review-icon-png-23.png?fit=298%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/review-icon-png-23.png?fit=400%2C403&amp;ssl=1" /></figure>
+<p>With nearly five months until Palau&#8217;s significant national election, the usual flurry of candidate announcements is conspicuously absent. Apart from a few contenders for the Office of the President, which is also notably quieter compared to previous elections, there is a distinct lack of enthusiasm for positions in the House of Delegates and Senate.Historically, by [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-2024-election-apathyignorance-or-shortage-of-candidates/">Palau’s 2024 Election: Apathy,Ignorance, or Shortage of Candidates?</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palaus-2024-election-apathyignorance-or-shortage-of-candidates/>
+
+---
+
+## FSM calls for stronger Ocean protection and Seabed mining regulations at UNCLOS meeting
+
+date: 2024-06-21, from: Island Times
+
+<p>By Pita Ligaiula NEW YORK, 19 JUNE 2024 (PACNEWS)&#8212;The permanent representative of the Federated States of Micronesia (FSM) to the United Nations in New York, Ambassador Jeem Lippwe has emphasised the urgent need for decisive global action on ocean protection in light of the climate crisis. “Micronesia welcomes the reports of the UN Secretary-General under [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/fsm-calls-for-stronger-ocean-protection-and-seabed-mining-regulations-at-unclos-meeting/">FSM calls for stronger Ocean protection and Seabed mining regulations at UNCLOS meeting</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/fsm-calls-for-stronger-ocean-protection-and-seabed-mining-regulations-at-unclos-meeting/>
+
+---
+
+## ‘We cannot have peace without independence’ – New Caledonia government
+
+date: 2024-06-21, from: Island Times
+
+<p>NOUMEA, 20 JUNE 2024 (RNZ PACIFIC) &#8212; As New Caledonia passes the one-month mark since violent and deadly clashes erupted on 13 May, there has been no clear path put forward by Paris as far as the Kanak Socialist National Liberation Front (FLNKS) is concerned. On Wednesday, eight people, including the leader of the Field [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/we-cannot-have-peace-without-independence-new-caledonia-government/">&#8216;We cannot have peace without independence&#8217; &#8211; New Caledonia government</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/we-cannot-have-peace-without-independence-new-caledonia-government/>
+
+---
+
+## Guam radiation survivors demand nuclear compensation from U.S
+
+date: 2024-06-21, from: Island Times
+
+<p>HAGATNA, 20 JUNE 2024 (ABC PACIFIC) &#8212; Anti-nuclear advocates in Guam say despite a recent setback in the US Senate, they&#8217;ll be pushing for compensation for people who were exposed to deadly radiation during nuclear tests in the Pacific. The U.S carried out 67 nuclear tests in the Marshall Islands between 1946 and 1958, which [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/guam-radiation-survivors-demand-nuclear-compensation-from-u-s/">Guam radiation survivors demand nuclear compensation from U.S</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/guam-radiation-survivors-demand-nuclear-compensation-from-u-s/>
+
+---
+
+## North Korea says deal between Putin and Kim requires immediate military assistance in event of war
+
+date: 2024-06-21, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/North-Korea-says.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/North-Korea-says.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/North-Korea-says.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/North-Korea-says.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/North-Korea-says.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/North-Korea-says.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/North-Korea-says.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70846" data-permalink="https://islandtimes.org/north-korea-says-deal-between-putin-and-kim-requires-immediate-military-assistance-in-event-of-war/north-korea-says/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/North-Korea-says.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Kristina Kormilitsyna&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Russian President Vladimir Putin, left, and North Korea&#039;s leader Kim Jong Un exchange documents during a signing ceremony of the new partnership in Pyongyang, North Korea, on Wednesday, June 19, 2024. Putin and  Kim signed a new partnership that includes a vow of mutual aid if either country is attacked, during a Wednesday summit that came as both face escalating standoffs with the West. (Kristina Kormilitsyna, Sputnik, Kremlin Pool Photo via AP)&quot;,&quot;created_timestamp&quot;:&quot;1718805096&quot;,&quot;copyright&quot;:&quot;Sputnik&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="North Korea says" data-image-description="" data-image-caption="&lt;p&gt;Russian President Vladimir Putin, left, and North Korea&#8217;s leader Kim Jong Un exchange documents during a signing ceremony of the new partnership in Pyongyang, North Korea, on Wednesday, June 19, 2024. Putin and  Kim signed a new partnership that includes a vow of mutual aid if either country is attacked, during a Wednesday summit that came as both face escalating standoffs with the West. (Kristina Kormilitsyna, Sputnik, Kremlin Pool Photo via AP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/North-Korea-says.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/North-Korea-says.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By KIM TONG-HYUNG Associated Press SEOUL, South Korea (AP) — The new agreement&#160;between Russia and North Korea&#160;reached by their leaders at a Pyongyang summit requires both countries to use all available means to provide immediate military assistance in the event of war, North Korean state media said Thursday. Both North Korea&#8217;s Kim Jong Un and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/north-korea-says-deal-between-putin-and-kim-requires-immediate-military-assistance-in-event-of-war/">North Korea says deal between Putin and Kim requires immediate military assistance in event of war</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/north-korea-says-deal-between-putin-and-kim-requires-immediate-military-assistance-in-event-of-war/>
+
+---
+
+## Indonesian Muslim metal band Voice of Baceprot take peaceful brand of thrash metal to Glastonbury
+
+date: 2024-06-21, from: Island Times
+
+<p>By&#160;Gillian Aeria&#160;and&#160;Erwin Renaldi (ABC-Australia) Voice of Baceprot are a devoutly Muslim all-female thrash metal band hell-bent on shattering the genre&#8217;s masculine image and misconceptions about Islam. Originally from the small farming town of Singajaya in religiously conservative West Java, the three-piece have spent the past decade overcoming prejudice and pressure to conform, to achieve global [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/indonesian-muslim-metal-band-voice-of-baceprot-take-peaceful-brand-of-thrash-metal-to-glastonbury/">Indonesian Muslim metal band Voice of Baceprot take peaceful brand of thrash metal to Glastonbury</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/indonesian-muslim-metal-band-voice-of-baceprot-take-peaceful-brand-of-thrash-metal-to-glastonbury/>
+
+---
+
+## Celtics have short to-do list as they look to become 1st repeat NBA champion since 2018
+
+date: 2024-06-21, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-have-short.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-have-short.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-have-short.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-have-short.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-have-short.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-have-short.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-have-short.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70843" data-permalink="https://islandtimes.org/celtics-have-short-to-do-list-as-they-look-to-become-1st-repeat-nba-champion-since-2018/celtics-have-short/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-have-short.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;ILCE-9M3&quot;,&quot;caption&quot;:&quot;Boston Celtics forward Jayson Tatum, center, holds the Larry O&#039;Brien Championship Trophy as he celebrates with center Kristaps Porzingis, left, and guard Jaylen Brown, right, after the Celtics won the NBA championship with a Game 5 victory over the Dallas Mavericks on Monday, June 17, 2024, in Boston. (AP Photo\/Charles Krupa)&quot;,&quot;created_timestamp&quot;:&quot;1718666671&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;137&quot;,&quot;iso&quot;:&quot;2000&quot;,&quot;shutter_speed&quot;:&quot;0.0004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Celtics have short" data-image-description="" data-image-caption="&lt;p&gt;Boston Celtics forward Jayson Tatum, center, holds the Larry O&#8217;Brien Championship Trophy as he celebrates with center Kristaps Porzingis, left, and guard Jaylen Brown, right, after the Celtics won the NBA championship with a Game 5 victory over the Dallas Mavericks on Monday, June 17, 2024, in Boston. (AP Photo/Charles Krupa)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-have-short.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Celtics-have-short.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By KYLE HIGHTOWER AP Sports Writer BOSTON (AP) — It took more than a decade, savvy front office and draft moves, and some free agency luck for the Celtics to ultimately build the roster that brought an end to their 16-year championship drought. But with NBA Finals MVP Jaylen Brown already locked up long-term and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/celtics-have-short-to-do-list-as-they-look-to-become-1st-repeat-nba-champion-since-2018/">Celtics have short to-do list as they look to become 1st repeat NBA champion since 2018</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/celtics-have-short-to-do-list-as-they-look-to-become-1st-repeat-nba-champion-since-2018/>
+
+---
+
+## Orioles hold off Yankees 7-6 in 10 innings after Gerrit Cole makes his season debut for New York
+
+date: 2024-06-21, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Orioles-hold-off.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Orioles-hold-off.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Orioles-hold-off.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Orioles-hold-off.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Orioles-hold-off.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Orioles-hold-off.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Orioles-hold-off.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70841" data-permalink="https://islandtimes.org/orioles-hold-off-yankees-7-6-in-10-innings-after-gerrit-cole-makes-his-season-debut-for-new-york/orioles-hold-off/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Orioles-hold-off.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;Pamela Smith&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Baltimore Orioles&#039; Cedric Mullins, left, and Ram\u00f3n Ur\u00edas celebrate a home run hit by Ur\u00edas during the fifth inning of a baseball game against the New York Yankees, Wednesday, June 19, 2024, in New York. (AP Photo\/Pamela Smith)&quot;,&quot;created_timestamp&quot;:&quot;1718828939&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved.&quot;,&quot;focal_length&quot;:&quot;400&quot;,&quot;iso&quot;:&quot;5000&quot;,&quot;shutter_speed&quot;:&quot;0.0005&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Orioles hold off" data-image-description="" data-image-caption="&lt;p&gt;Baltimore Orioles&#8217; Cedric Mullins, left, and Ramón Urías celebrate a home run hit by Urías during the fifth inning of a baseball game against the New York Yankees, Wednesday, June 19, 2024, in New York. (AP Photo/Pamela Smith)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Orioles-hold-off.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Orioles-hold-off.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By MIKE FITZPATRICK AP Baseball Writer NEW YORK (AP) — Cedric Mullins hit a tiebreaking single in the 10th inning and scored on a throwing error to help the Baltimore Orioles hold off the New York Yankees 7-6 in a wild finish Wednesday night. After dropping the series opener Tuesday in a matchup between the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/orioles-hold-off-yankees-7-6-in-10-innings-after-gerrit-cole-makes-his-season-debut-for-new-york/">Orioles hold off Yankees 7-6 in 10 innings after Gerrit Cole makes his season debut for New York</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/orioles-hold-off-yankees-7-6-in-10-innings-after-gerrit-cole-makes-his-season-debut-for-new-york/>
+
+---
+
+## Imported seafood floods local markets due to fishing restrictions in US Pacific 
+
+date: 2024-06-21, from: Pacific Island Times
+
+By Pacific Island Times News Staff Fishermen in the U.S. Pacific islands are shortchanged in the face of growing federal restrictions... 
+
+<https://www.pacificislandtimes.com/post/imported-seafood-floods-local-markets-due-to-fishing-restrictions-in-us-pacific>
+
+---
+
+## Guam ready to roll out free Wi-Fi hotspots in pilot areas 
+
+date: 2024-06-21, from: Pacific Island Times
+
+By Pacific Island Times News Staff The National Telecommunications and Information Administration has approved Guam’s Digital Equity plan... 
+
+<https://www.pacificislandtimes.com/post/guam-ready-to-roll-out-free-wi-fi-hotspots-in-pilot-areas>
+
+---
+
+## Maui food hub, Hawaiian monk seal project, more in UH Magazine
+
+date: 2024-06-21, from: University of Hawaiʻi News
+
+<p>The latest issue of the <em>University of <span aria-label="Hawaii">Hawai&#699;i</span> Magazine is available online.</em></p>
+The post <a href="https://www.hawaii.edu/news/2024/06/20/uh-magazine-summer-2024/">Maui food hub, Hawaiian monk seal project, more in <abbr>UH</abbr> Magazine</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/20/uh-magazine-summer-2024/>
+
+---
+
+## CNMI government: IPI can’t generate revenue, can’t operate as a casino
+
+date: 2024-06-21, updated: 2024-06-21, from: Marianas Variety
+
+SAYING that the casino investor has no ability to generate revenue or operate as a casino and has “no business to reorganize,” the CNMI government, represented by Chief Solicitor J. Robert Glass Jr., is requesting the federal bankruptcy court to convert Imperial Pacific International’s Chapter 11 petition to Chapter 7. 
+
+<https://www.mvariety.com/news/local/cnmi-government-ipi-can-t-generate-revenue-can-t-operate-as-a-casino/article_b3d6fa2a-2f71-11ef-a6ef-eb5bf060c7aa.html>
+
+---
+
+## Mental Health: A Silent Epidemic
+
+date: 2024-06-21, from: University of the South Pacific (Fiji)
+
+<p>The past few years have witnessed a significant increase in the prevalence of mental health...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/mental-health-a-silent-epidemic/">Mental Health: A Silent Epidemic</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/mental-health-a-silent-epidemic/>
+
+---
+
+## Nursing alumnae inducted as American Academy of Nursing Fellows
+
+date: 2024-06-21, from: University of Hawaiʻi News
+
+<p>Lorrie Wong and Laura Reichhardt have dedicated their careers to advancing the nursing profession.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/20/nursing-alumnae-aan-fellows/">Nursing alumnae inducted as American Academy of Nursing Fellows</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/20/nursing-alumnae-aan-fellows/>
+
+---
+
+## Pacific war games heat up 
+
+date: 2024-06-21, from: Pacific Island Times
+
+By James C. Pearce The United States and Russia are upping the military ante in the Pacific, as the world enters a new and potentially... 
+
+<https://www.pacificislandtimes.com/post/pacific-war-games-heat-up>
+
+---
+
+## News waits for the media
+
+date: 2024-06-20, from: Marshal Islands Journal
+
+<p>Journal 6/19/1987 P5 RepMar eyes ties with neighborsThe Marshalls plans to soon establish diplomatic ties with four of its closest neighbors as a result of discussions held during last month’s South Pacific Forum in Western Samoa. Foreign Secretary Jiba Kabua said official contact was made with Kiribati, Tuvalu, Nauru and Western Samoa. P15 Forum meeting [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/news-waits-for-the-media/">News waits for the media</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/news-waits-for-the-media/>
+
+---
+
+## Red Hill health registry to support individuals exposed to fuel
+
+date: 2024-06-20, from: University of Hawaiʻi News
+
+<p>Individuals who are interested in receiving updates on the registry’s development and community engagement efforts are encouraged to sign up.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/20/red-hill-health-registry/">Red Hill health registry to support individuals exposed to fuel</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/20/red-hill-health-registry/>
+
+---
+
+## Sick Days
+
+date: 2024-06-20, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by April Bannister When her heart buys its ticket and packs its suitcase and settles in its window seat to watch the airplane heave up from the soil, she is at home—she has not yet laid in her hospital bed, &#8230; <a href="https://hawaiipacificreview.org/2024/06/20/sick-days/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/06/20/sick-days/>
+
+---
+
+## Team Marianas earns record 53 golds
+
+date: 2024-06-20, updated: 2024-06-20, from: Marianas Variety
+
+(Northern Marianas Sports Association) — Team Marianas has set a new record after bringing its total gold medal haul in the 2024 Micronesian Games to 53 golds. 
+
+<https://www.mvariety.com/sports/localsports/team-marianas-earns-record-53-golds/article_a914e120-2f1b-11ef-b64b-630f7bb5a654.html>
+
+---
+
+## Saipan son obtains bachelor’s degree in criminal justice from Portland State University
+
+date: 2024-06-20, updated: 2024-06-20, from: Marianas Variety
+
+MARC Christian A. De La Torre, a member of the Tau Sigma Academic Honor Society at the Portland State University, has obtained a bachelor’s degree in criminal justice from PSU. 
+
+<https://www.mvariety.com/news/community_bulletins/saipan-son-obtains-bachelor-s-degree-in-criminal-justice-from-portland-state-university/article_036f03ba-2f1e-11ef-b365-c39ee7d034f2.html>
+
+---
+
+## Travis Villagomez accused of stealing construction tools, equipment
+
+date: 2024-06-20, updated: 2024-06-20, from: Marianas Variety
+
+TRAVIS Gumataotao Villagomez, who was charged with burglary and theft, appeared before Superior Court Associate Judge Joseph N. Camacho for a bail hearing on Thursday. 
+
+<https://www.mvariety.com/news/local/travis-villagomez-accused-of-stealing-construction-tools-equipment/article_6eb9bdc4-2ef9-11ef-8762-a3e02062a2e4.html>
+
+---
+
+## Tinian officials, businesses join UNIFIL in celebrating Philippine Independence Day
+
+date: 2024-06-20, updated: 2024-06-20, from: Marianas Variety
+
+LOCAL officials, local residents and businesspersons on Tinian joined the United Filipinos on Tinian or UNIFIL in celebrating the 126th Philippine Independence Day on June 12, 2024. 
+
+<https://www.mvariety.com/news/local/tinian-officials-businesses-join-unifil-in-celebrating-philippine-independence-day/article_e61d2ab0-2ede-11ef-856e-c7d84598d90b.html>
+
+---
+
+## CPA board exempts airlines from terminal rent
+
+date: 2024-06-20, updated: 2024-06-20, from: Marianas Variety
+
+THE Commonwealth Ports Authority board of directors, by a vote of 5 to 1, approved CPA Resolution 2024-4, an emergency regulation to exempt commercial airlines from paying terminal rental fees. 
+
+<https://www.mvariety.com/news/local/cpa-board-exempts-airlines-from-terminal-rent/article_093ffd16-2ed9-11ef-bf04-fbbdb2fe167c.html>
+
+---
+
+## $27.8M in tax refunds
+
+date: 2024-06-20, updated: 2024-06-20, from: Marianas Variety
+
+THE CNMI government has issued a total of $27.8 million in tax refunds for 21,654 taxpayers, the Department of Finance announced Thursday. 
+
+<https://www.mvariety.com/news/local/27-8m-in-tax-refunds/article_b09708e6-2edb-11ef-b726-6bd1b00e3654.html>
+
+---
+
+## USS Rafael Peralta brings naval visitors to Saipan
+
+date: 2024-06-20, updated: 2024-06-20, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios and Lt. Gov. David M. Apatang welcomed the officers and crewmembers of the USS Rafael Peralta to Saipan on Thursday, June 20. 
+
+<https://www.mvariety.com/news/local/uss-rafael-peralta-brings-naval-visitors-to-saipan/article_bc359374-2edc-11ef-9ed7-bb82190a8874.html>
+
+---
+
+## Judge to hear Villanueva’s motion to dismiss on July 8
+
+date: 2024-06-20, updated: 2024-06-20, from: Marianas Variety
+
+SUPERIOR Court Presiding Judge Roberto C. Naraja has scheduled a hearing for July 8 at 2:30 p.m. on the three motions filed by Shayne Villanueva. 
+
+<https://www.mvariety.com/news/local/judge-to-hear-villanueva-s-motion-to-dismiss-on-july-8/article_d00be150-2ef5-11ef-8396-ebd623970e0e.html>
+
+---
+
+## MVA retains three board members, elects one new member
+
+date: 2024-06-20, updated: 2024-06-20, from: Marianas Variety
+
+THE Marianas Visitors Authority held its biannual general membership meeting at Saipan World Resort on Thursday and voted to retain three incumbent board members and elect a new member. 
+
+<https://www.mvariety.com/news/local/mva-retains-three-board-members-elects-one-new-member/article_3e3e2842-2eef-11ef-8062-af830b549520.html>
+
+---
+
+## Japan backs water reservoir
+
+date: 2024-06-20, from: Marshal Islands Journal
+
+<p>WILMER JOEL A groundbreaking for a new water reservoir funded by Japan, a project worth over $13 million, was held last Friday next to Katoj Park. In a statement from the Japanese Embassy, the project “contributes to securing clean and stable water supply and enhancement of resilience to climate change and natural disasters in the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/japan-backs-water-reservoir/">Japan backs water reservoir</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/japan-backs-water-reservoir/>
 
 ---
 
@@ -270,6 +981,18 @@ date: 2024-06-20, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/06/20/hawaii-news/ex-occc-officer-in-murder-kidnapping-case-called-emotional/>
+
+---
+
+## State House District 20 (Democratic Primary)
+
+date: 2024-06-20, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>There is no incumbent running for District 20 in the State House of Representatives...</p>
+<p>The post <a href="https://www.pbshawaii.org/insights-district20-democraticprimary/">State House District 20 (Democratic Primary)</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/insights-district20-democraticprimary/>
 
 ---
 
@@ -1453,7 +2176,7 @@ date: 2024-06-18, from: Hawaii Tribune Harold
 
 date: 2024-06-18, from: Island Times
 
-<figure><img width="576" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?fit=576%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?w=1125&amp;ssl=1 1125w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?resize=169%2C300&amp;ssl=1 169w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?resize=576%2C1024&amp;ssl=1 576w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?resize=768%2C1365&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?resize=864%2C1536&amp;ssl=1 864w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?resize=400%2C711&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?resize=706%2C1255&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?fit=576%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70816" data-permalink="https://islandtimes.org/palau-makes-strong-start-at-micro-games/ub-wins-gold/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?fit=1125%2C2000&amp;ssl=1" data-orig-size="1125,2000" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="UB wins Gold" data-image-description="" data-image-caption="&lt;p&gt;Photo Credit to PNOC&lt;/p&gt;
+<figure><img width="576" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?fit=576%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?w=1125&amp;ssl=1 1125w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?resize=169%2C300&amp;ssl=1 169w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?resize=576%2C1024&amp;ssl=1 576w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?resize=768%2C1365&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?resize=864%2C1536&amp;ssl=1 864w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?resize=400%2C711&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?resize=706%2C1255&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?fit=576%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70816" data-permalink="https://islandtimes.org/palau-makes-strong-start-at-micro-games/ub-wins-gold/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?fit=1125%2C2000&amp;ssl=1" data-orig-size="1125,2000" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="UB wins Gold" data-image-description="" data-image-caption="&lt;p&gt;Photo Credit to PNOC&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?fit=169%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/UB-wins-Gold.jpeg?fit=576%2C1024&amp;ssl=1" /></figure>
 <p>KOROR, Palau &#8211; Palauan athletes enjoyed a successful opening week at the Micro Games in the Marshall Islands, collecting a total of 26 medals, 1 gold, 17 silver, and 7 bronze medals. The first medals haul came in the 3&#215;3 men&#8217;s basketball competition, where Palau secured a silver medal after facing Guam. Palau&#8217;s Aquatics Team [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/palau-makes-strong-start-at-micro-games/">Palau Makes Strong Start at Micro Games</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>

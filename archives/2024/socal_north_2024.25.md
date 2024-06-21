@@ -1,11 +1,99 @@
 ---
 title: socal north 2024.25
-updated: 2024-06-20 07:50:35
+updated: 2024-06-21 06:37:53
 ---
 
 # socal north 2024.25
 
-(date: 2024-06-20 07:50:35)
+(date: 2024-06-21 06:37:53)
+
+---
+
+## California's New Educator Training Aims To Boost LGBTQ+ Student Safety
+
+date: 2024-06-21, updated: 2024-06-21, from: The LAist
+
+The state-mandated training for educators working with seventh to 12th grade students is coming in June 2025. 
+
+<https://laist.com/news/education/lgbtq-los-angeles-california-la-lacoe-cde-prism-training-ab-5>
+
+---
+
+## USC student will not be charged in fatal stabbing of carjacking suspect — live updates
+
+date: 2024-06-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The 19-year-old was arrested for stabbing a man who was attempting to break into a car near the Lambda Chi Alpha and Delta Tau Delta fraternity houses on Monday evening.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/20/usc-student-will-not-be-charged-in-fatal-stabbing/">USC student will not be charged in fatal stabbing of carjacking suspect — live updates</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/20/usc-student-will-not-be-charged-in-fatal-stabbing/>
+
+---
+
+## High Court Blocks Anti-Tax Measure From California Ballot
+
+date: 2024-06-21, updated: 2024-06-21, from: The LAist
+
+The state Supreme Court takes a business-backed initiative to make it more difficult to raise taxes off the Nov. 5 ballot. Gov. Newsom and legislative leaders sued to kick it off. 
+
+<https://laist.com/news/politics/high-court-blocks-anti-tax-measure-from-california-ballot>
+
+---
+
+## USC Health Center Pharmacy to close June 24 to June 28
+
+date: 2024-06-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students are advised to contact the USC Medical Plaza Pharmacy or the CVS at University Gateway for prescription transfers.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/20/usc-health-center-pharmacy-to-close-june-24-to-june-28/">USC Health Center Pharmacy to close June 24 to June 28</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/20/usc-health-center-pharmacy-to-close-june-24-to-june-28/>
+
+---
+
+## Young Men Of Color Struggle To Enroll In College. This Advising Program Says Its Approach Works
+
+date: 2024-06-20, updated: 2024-06-20, from: The LAist
+
+USC’s College Advising Corps is turning perceived deficits of young men of color into strengths to get them enrolled in education after high school. 
+
+<https://laist.com/news/education/young-men-of-color-college-enrollment-usc-advising-corps>
+
+---
+
+## Get Ready for the Soundtrack of Summer at Concerts in the Park!
+
+date: 2024-06-20, from: City of Santa Clarita
+
+<p>By Councilmember Jason Gibbs Every summer, Santa Clarita’s very own Central Park (27150 Bouquet Canyon Road) transforms into a premiere venue for live musical performances where friends, families and neighbors come together to sing and dance the night away. With the evenings beginning to feel longer and warmer, it brings me great joy to welcome [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/06/20/get-ready-for-the-soundtrack-of-summer-at-concerts-in-the-park/">Get Ready for the Soundtrack of Summer at Concerts in the Park!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/06/20/get-ready-for-the-soundtrack-of-summer-at-concerts-in-the-park/>
+
+---
+
+## Submission Period Open for Youth Grove at Central Park
+
+date: 2024-06-20, from: City of Santa Clarita
+
+<p>Release Forms Due July 12 for Inclusion in 2024 Evening of Remembrance Event The City of Santa Clarita is now accepting names for the Youth Grove in Central Park (27150 Bouquet Canyon Road). This project honors Santa Clarita youth, aged 24 years and younger, who have tragically lost their lives in traffic-related incidents. Youth must [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/06/20/submission-period-open-for-youth-grove-at-central-park-2/">Submission Period Open for Youth Grove at Central Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/06/20/submission-period-open-for-youth-grove-at-central-park-2/>
+
+---
+
+## Gallery: The 54th Annual LA Pride Parade Celebrates Queer Identities
+
+date: 2024-06-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Participants walked down Hollywood Boulevard with floats, banners and other props celebrating the 54th Annual LA Pride Parade on June 9. 
+
+<https://dailybruin.com/2024/06/20/gallery-the-54th-annual-la-pride-parade-celebrates-queer-identities/>
 
 ---
 
@@ -87,7 +175,7 @@ date: 2024-06-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-06-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="776" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/rsz-l1006286-2_elsol.jpg?fit=776%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/rsz-l1006286-2_elsol.jpg?w=812&amp;ssl=1 812w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/rsz-l1006286-2_elsol.jpg?resize=227%2C300&amp;ssl=1 227w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/rsz-l1006286-2_elsol.jpg?resize=776%2C1024&amp;ssl=1 776w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/rsz-l1006286-2_elsol.jpg?resize=768%2C1014&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/rsz-l1006286-2_elsol.jpg?resize=400%2C528&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/rsz-l1006286-2_elsol.jpg?resize=706%2C932&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/rsz-l1006286-2_elsol.jpg?fit=776%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="776" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/rsz-l1006286-2_elsol.jpg?fit=776%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/rsz-l1006286-2_elsol.jpg?w=812&amp;ssl=1 812w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/rsz-l1006286-2_elsol.jpg?resize=227%2C300&amp;ssl=1 227w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/rsz-l1006286-2_elsol.jpg?resize=776%2C1024&amp;ssl=1 776w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/rsz-l1006286-2_elsol.jpg?resize=768%2C1014&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/rsz-l1006286-2_elsol.jpg?resize=400%2C528&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/rsz-l1006286-2_elsol.jpg?resize=706%2C932&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/rsz-l1006286-2_elsol.jpg?fit=776%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Cuando regresaba a casa de una quinceañera alrededor de los 14 años, Kevin Al Pérez fue confrontado por su madre, quien descubrió esa noche que era gay. “Ella trajo la [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/06/19/encontrar-y-proteger-a-la-familia-elegida/">Encontrar y Proteger a la Familia Elegida</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -112,7 +200,7 @@ date: 2024-06-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-06-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="457" height="542" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/gizella-c.jpg?fit=457%2C542&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/gizella-c.jpg?w=457&amp;ssl=1 457w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/gizella-c.jpg?resize=253%2C300&amp;ssl=1 253w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/gizella-c.jpg?resize=400%2C474&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/gizella-c.jpg?fit=457%2C542&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="457" height="542" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/gizella-c.jpg?fit=457%2C542&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/gizella-c.jpg?w=457&amp;ssl=1 457w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/gizella-c.jpg?resize=253%2C300&amp;ssl=1 253w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/gizella-c.jpg?resize=400%2C474&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/gizella-c.jpg?fit=457%2C542&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Madre local y líder desde hace mucho tiempo en PFLAG – Padres, Amigos y Familias aliadas con la comunidad LGBTQ – Gizella Czene, residente de Van Nuys, recuerda vívidamente el [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/06/19/lider-de-pflag-ayuda-a-padres-de-habla-hispana-a-apoyar-a-sus-hijos-lgbtq/">Líder de PFLAG Ayuda a Padres de Habla Hispana a Apoyar a Sus Hijos LGBTQ+</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -125,7 +213,7 @@ date: 2024-06-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-06-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="701" height="876" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_7931_1.jpeg?fit=701%2C876&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_7931_1.jpeg?w=701&amp;ssl=1 701w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_7931_1.jpeg?resize=240%2C300&amp;ssl=1 240w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_7931_1.jpeg?resize=400%2C500&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_7931_1.jpeg?fit=701%2C876&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="701" height="876" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_7931_1.jpeg?fit=701%2C876&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_7931_1.jpeg?w=701&amp;ssl=1 701w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_7931_1.jpeg?resize=240%2C300&amp;ssl=1 240w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_7931_1.jpeg?resize=400%2C500&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_7931_1.jpeg?fit=701%2C876&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A pesar de moverse por el mundo y conocer diferentes lugares, Azucena Saldana siempre ha regresado a su hogar en el Valle de San Fernando. “Crecí en Pacoima. Crecí al [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/06/19/resistencia-liberacion-y-resiliencia-queer/">Resistencia, Liberación y Resiliencia Queer</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -350,7 +438,7 @@ The UC Board of Regents heard public comment from community members Wednesday ab
 
 date: 2024-06-19, from: CSUN Library Blog, Cited
 
-<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2024/06/outdoors.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" style="margin-bottom: 15px;" fetchpriority="high" /></div>Summer is here! The days are longer (but the library hours are shorter) and as the weather continues to warm, it&#8217;s important to take this&#8230; 
+<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2024/06/outdoors.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" /></div>Summer is here! The days are longer (but the library hours are shorter) and as the weather continues to warm, it&#8217;s important to take this&#8230; 
 
 <https://library.csun.edu/blogs/cited/2024/06/19/summer-recommendations-exploring-the-outdoors-and-centering-well-being/>
 
