@@ -1,11 +1,245 @@
 ---
 title: going electric 2024.25
-updated: 2024-06-21 06:37:59
+updated: 2024-06-22 11:23:17
 ---
 
 # going electric 2024.25
 
-(date: 2024-06-21 06:37:59)
+(date: 2024-06-22 11:23:17)
+
+---
+
+## Nissan feels the heat from BYD’s EV price war in China
+
+date: 2024-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Nissan-Rogue-like-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Nissan is the latest victim of BYD’s “liberation battle” against gas-powered cars. After BYD’s aggressive price cuts this year, <a href="https://electrek.co/guides/nissan/">Nissan</a> is shutting down a factory in China as it struggles to keep up.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/21/nissan-feels-heat-byds-ev-price-war-china/#more-368714" data-post-id="368714" data-layer-pagetype="post" data-layer-postcategory="nissan" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/21/nissan-feels-heat-byds-ev-price-war-china/>
+
+---
+
+## Tesla Model 3 Long Range costs $3,200 more to finance than last week
+
+date: 2024-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/2024-Tesla-prices-Model-3.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla scrapped promotional financing on the Model 3 Long Range this week after it became eligible for the $7,500 federal tax credit.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/21/tesla-model-3-long-range-costs-3200-more-to-finance-than-last-week/#more-368712" data-post-id="368712" data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/21/tesla-model-3-long-range-costs-3200-more-to-finance-than-last-week/>
+
+---
+
+## American Test Of Three Chinese EVs: 'It’s A Wake-Up Call'
+
+date: 2024-06-21, from: Inside EVs News
+
+Chinese Tesla rivals from XPeng, Zeekr and Avatr impressed two U.S. auto industry veterans.  
+
+<https://insideevs.com/news/724040/chinese-ev-xpeng-zeekr-tesla/>
+
+---
+
+## Utah is getting 20 ‘hyper-fast’ Electrify America EV charging stations
+
+date: 2024-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/ElectrifyAmericaRockyMountainPowerandcityofMillcreekcelebrateopeningofnewHyper-FastchargingstationinMillcreekUtah.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Electrify America and electric utility Rocky Mountain Power have rolled out the first of 20 DC fast charging stations in Utah.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/21/utah-is-getting-20-hyper-fast-electrify-america-ev-charging-stations/#more-368686" data-post-id="368686" data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,electrify-america,ev-charging,ev-charging-stations,utah" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/21/utah-is-getting-20-hyper-fast-electrify-america-ev-charging-stations/>
+
+---
+
+## Hyundai previews the Casper Electric, a low-cost EV that will be re-badged in Europe [Video]
+
+date: 2024-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Hyundai-Casper-Electric.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai will introduce its new affordable EV, the Casper Electric, next week. In Europe, it will be called the Inster EV as <a href="https://electrek.co/guides/hyundai/">Hyundai</a> looks to meet the growing demand for low-cost EVs. Ahead of its official debut, Hyundai is giving us a closer look at the model in its latest video. Check it out below.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/21/hyundai-previews-casper-electric-new-affordable-ev-video/#more-368684" data-post-id="368684" data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/21/hyundai-previews-casper-electric-new-affordable-ev-video/>
+
+---
+
+## Save $500+ during Heybike summer sale, EGO Power+ riding mower, EAST OAK digital electric smoker, more
+
+date: 2024-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Heybike-Mars-2.0-e-bike.webp?w=1200" /></div><p>Closing out this week’s Green deals is the <a href="https://9to5toys.com/2024/06/21/heybikes-summer-sale-takes-500-off-e-bikes-with-free-accessories-and-bundle-options-all-starting-from-999/">Heybike summer sale</a> that is taking up to $500 off its e-bikes while also offering free accessories and bundle options, with the <a href="https://9to5toys.com/2024/06/21/heybikes-summer-sale-takes-500-off-e-bikes-with-free-accessories-and-bundle-options-all-starting-from-999/">Mars 2.0 Folding e-bike</a> sitting at the lowest reduced price of <a href="https://9to5toys.com/2024/06/21/heybikes-summer-sale-takes-500-off-e-bikes-with-free-accessories-and-bundle-options-all-starting-from-999/">$999</a>. It is joined by the return of the <a href="https://9to5toys.com/2024/06/21/save-1098-on-the-ego-power-z6-42-inch-zero-turn-riding-mower-with-extra-batteries-back-at-4999-low/">EGO Power+ 56V 42-inch Z6 Zero-Turn Riding Mower</a> that comes with two extra batteries and is back at its <a href="https://9to5toys.com/2024/06/21/save-1098-on-the-ego-power-z6-42-inch-zero-turn-riding-mower-with-extra-batteries-back-at-4999-low/">$4,999 low</a>. Then there is the <a href="https://9to5toys.com/2024/06/20/east-oaks-30-inch-digital-electric-smoker-with-725-sq-ft-of-vertical-cooking-space-returns-to-255-low/">EAST OAK 30-inch Digital Electric Smoker</a> that has also fallen to its lowest price of <a href="https://9to5toys.com/2024/06/20/east-oaks-30-inch-digital-electric-smoker-with-725-sq-ft-of-vertical-cooking-space-returns-to-255-low/">$255</a>. Plus, all the other hangover Green Deals that are still alive and well.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/21/heybike-summer-sale-ego-power-riding-mower-east-oak-digital-electric-smoker-more/#more-368669" data-post-id="368669" data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/21/heybike-summer-sale-ego-power-riding-mower-east-oak-digital-electric-smoker-more/>
+
+---
+
+## Hyundai Ioniq 5: How Much Range Does It Have?
+
+date: 2024-06-21, from: Inside EVs News
+
+It depends on the version, the weather and how you drive it, but we break that all down for you here. 
+
+<https://insideevs.com/news/724113/hyundai-ioniq-5-electric-car-range/>
+
+---
+
+## Volvo EX30 tops Mini in Europe as low-cost EV’s sales surge in May
+
+date: 2024-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Volvo-recall-EX30-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The cheapest and smallest Volvo EV is off to a hot start. After only five months on the market, the <a href="https://electrek.co/guides/volvo-ex30/">Volvo EX30 </a>topped BMW’s Mini in Europe’s small premium segment as sales continued surging.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/21/volvo-ex30-tops-mini-europe-low-cost-evs-sales-surge/#more-368666" data-post-id="368666" data-layer-pagetype="post" data-layer-postcategory="volvo,volvo-ex30" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/21/volvo-ex30-tops-mini-europe-low-cost-evs-sales-surge/>
+
+---
+
+## Kia Global EV Retail Sales Hit A New Record In May 2024
+
+date: 2024-06-21, from: Inside EVs News
+
+The volume exceeded 19,400 units and reached a 7.5% share of the brand's total volume. 
+
+<https://insideevs.com/news/724066/kia-global-ev-sales-may2024/>
+
+---
+
+## Some Tesla Owners Report Malfunctioning Dog Mode In New Update
+
+date: 2024-06-21, from: Inside EVs News
+
+Be a little extra cautious when enabling Dog Mode in Tesla's recent software update. 
+
+<https://insideevs.com/news/724121/tesla-dog-mode-not-working/>
+
+---
+
+## CFMoto’s 500SR Voom Has Air Scoops for Headlights, and an Inline-4
+
+date: 2024-06-21, from: Ride Apart, Electric Motorcycle News
+
+If CFMoto can price this right and get it to the US, riders will be all over it. 
+
+<https://www.rideapart.com/news/724019/cfmoto-500sr-voom-details/>
+
+---
+
+## Electrified Hummer H1 Has Old-School Looks, Same Power As New GMC Hummer EV
+
+date: 2024-06-21, from: Inside EVs News
+
+Is the iconic shape of the Humvee enough to convince buyers to spend up to $140,000 on an EV that has precisely zero modern amenities? 
+
+<https://insideevs.com/news/724079/naev-hummer-ev-conversion-specs-details/>
+
+---
+
+## Ferrari’s new solar-powered e-building opens ahead of first EV sports car debut
+
+date: 2024-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Ferraris-e-building-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The Italian luxury sports car maker is preparing to launch its first EV. <a href="https://electrek.co/guides/ferrari/">Ferrari’s</a> new e-building opened its doors on Friday with Italian President Sergio Mattarella in attendance. The new plant, entirely powered by renewable energy, is set to launch the first Ferrari EV sports car.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/21/ferraris-new-solar-powered-e-building-opens-first-ev-sports-car/#more-368640" data-post-id="368640" data-layer-pagetype="post" data-layer-postcategory="ferrari" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/21/ferraris-new-solar-powered-e-building-opens-first-ev-sports-car/>
+
+---
+
+## China Spent Lavishly On Its EV Revolution. Here’s How Much It Cost
+
+date: 2024-06-21, from: Inside EVs News
+
+We also discuss how close Ford is to Level 3 cars and Japan’s plan to catch up to the U.S. and China in software-defined cars. 
+
+<https://insideevs.com/news/724133/china-spent-over-230-billion-dollars-on-evs/>
+
+---
+
+## Spy photos hint at Xiaomi’s quick encore to the SU7 EV to compete against the Tesla Model Y
+
+date: 2024-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Xiaomi-EV-spy-image-rear.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s only been six months since <a href="https://electrek.co/guides/xiaomi/">Xiaomi Automobile</a> launched its first-ever BEV – the SU7. Following early success, Xiaomi has been developing a second model, and spy images from local media outlets in China have given us a (camouflaged) glimpse at the EV’s exterior design.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/21/spy-photos-hint-at-xiaomis-quick-encore-to-the-su7-ev-to-compete-against-the-tesla-model-y/#more-368638" data-post-id="368638" data-layer-pagetype="post" data-layer-postcategory="spy-shots,xiaomi,xiaomi-automobile,xiaomi-su7" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/21/spy-photos-hint-at-xiaomis-quick-encore-to-the-su7-ev-to-compete-against-the-tesla-model-y/>
+
+---
+
+## BYD nears huge Mexico EV plant deal with 50,000 sales in sight this year
+
+date: 2024-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/BYD-Mexico-EV-plant.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s leading automaker, <a href="https://electrek.co/guides/byd/">BYD</a>, is rapidly expanding its global footprint. BYD is closing in on a deal for an EV plant in Mexico, which is expected to be among the biggest in the region.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/21/byd-huge-mexico-ev-plant-deal-50000-sales/#more-368614" data-post-id="368614" data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/21/byd-huge-mexico-ev-plant-deal-50000-sales/>
+
+---
+
+## Will This Ultra-Rare Vintage Scooter Run After 40 Years?
+
+date: 2024-06-21, from: Ride Apart, Electric Motorcycle News
+
+Is it a ridable two-stroke Czech masterpiece, or just a large (but pretty) paperweight? 
+
+<https://www.rideapart.com/news/724032/vintage-czech-scooter-tatran-125/>
+
+---
+
+## Canada reportedly preparing tariffs on Chinese EVs to align with US and EU trade partners
+
+date: 2024-06-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Canada-tarrifs-China.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The threat of tariffs and an all-out trade war over Chinese EVs is expanding globally, and Canada is reportedly joining the turmoil. The Canadian government is preparing tariffs on <a href="https://electrek.co/guides/china/">Chinese-made</a> EVs to align with the US and European Union, which have already proposed heavy duties to deter “unfair” competition imported from overseas.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/21/canada-preparing-tariffs-chinese-evs-to-align-with-us-eu-trade-partners/#more-368617" data-post-id="368617" data-layer-pagetype="post" data-layer-postcategory="canada,china,tariffs" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/21/canada-preparing-tariffs-chinese-evs-to-align-with-us-eu-trade-partners/>
+
+---
+
+## Ford F-150 Lightning SuperTruck Only Has A 50-kWh Battery. Here’s Why That’s Enough
+
+date: 2024-06-21, from: Inside EVs News
+
+The standard electric Lightning can be specced with up to 131 kWh of juice. But this isn’t your average pickup. 
+
+<https://insideevs.com/news/724058/ford-f-150-lightning-supertruck-battery-power-explainer/>
 
 ---
 
@@ -51,6 +285,10 @@ date: 2024-06-21, from: Electrek Feed
 
 
 
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Electrek_6-21-24.mp3"></audio></figure>
+
+
+
  <a href="https://electrek.co/2024/06/21/podcast-tesla-model-3-cheap-fisker-goes-bankrupt-cheap-evs-adapt/#more-368610" data-post-id="368610" data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" class="more-link">more…</a> 
 
 <https://electrek.co/2024/06/21/podcast-tesla-model-3-cheap-fisker-goes-bankrupt-cheap-evs-adapt/>
@@ -67,7 +305,7 @@ Enter the Madusan EV, which claims 450 miles of range—better than any of Tesla
 
 ---
 
-## Shimano Just Patented a Brake-By-Wire System: Are Motorcycles Next
+## Shimano Just Patented a Brake-By-Wire System. Are Motorcycles Next?
 
 date: 2024-06-21, from: Ride Apart, Electric Motorcycle News
 
@@ -205,7 +443,7 @@ date: 2024-06-20, from: Electrek Feed
 
 date: 2024-06-20, from: Inside EVs News
 
-The non-Tesla all-electric car registrations were up 69% year-over-year—and were higher than Tesla's overall figures.  
+Non-Tesla all-electric car registrations were up 69% year-over-year—and were higher than Tesla's overall figures.  
 
 <https://insideevs.com/news/723998/us-ev-registrations-100000-april2024/>
 

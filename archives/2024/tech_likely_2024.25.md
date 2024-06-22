@@ -1,11 +1,363 @@
 ---
 title: tech likely 2024.25
-updated: 2024-06-21 06:37:56
+updated: 2024-06-22 11:23:14
 ---
 
 # tech likely 2024.25
 
-(date: 2024-06-21 06:37:56)
+(date: 2024-06-22 11:23:14)
+
+---
+
+## EasyOS: an experimental Linux distribution
+
+date: 2024-06-21, from: OS News
+
+There&#8217;s really a Linux distribution for everyone, it seems. EasyOS sounds like it&#8217;s going to be some Debian derivative with a theme or something, but it&#8217;s truly something different &#8211; in fact, it has such a unique philosophy and approach to everything I barely know where to even start. Everything in EasyOS runs in containers, in the distribution&#8217;s own custom container format, even entire desktop environments, and containers are configured entirely graphically. EasyOS runs every application in RAM, making it insanely fast, and you can save the contents of RAM to disk whenever you want. You can also choose a special boot option where the entire session is only loaded in RAM, with disk access entirely disabled, for maximum security. Now things are going to get weird. In EasyOS, you always run as root, which may seem like a stupid thing to do, and I&#8217;m sure some people will find this offputting. The idea, however, is you run every application as its own user (e.g. Firefox runs as the &#8220;firefox&#8221; user), entirely isolated from every other user, or in containers with further constraints applied. I honestly kind of like this approach. If these first few details of what EasyOS is going for tickles your fancy, I really urge you to read the rest of their detailed explanation of what, exactly, EasyOS is going for. It&#8217;s an opinionated distribution, for sure, but it&#8217;s opinionated in a way where they&#8217;re clearly putting a lot of thought into the decisions they make. I&#8217;m definitely feeling the pull to give it a try and see if it&#8217;s something for me. 
+
+<https://www.osnews.com/story/140037/easyos-an-experimental-linux-distribution/>
+
+---
+
+## No Apple Intelligence or iPhone Mirroring in EU at Launch
+
+date: 2024-06-21, from: Michael Tsai
+
+Juli Clover (Hacker News, ArsTechnica): Apple today said that European customers will not get access to the Apple Intelligence, iPhone Mirroring, and SharePlay Screen Sharing features that are coming to the iPhone, iPad, and Mac this September due to regulatory issues related to the Digital Markets Act. John Gruber (Mastodon): Kudos to Apple for breaking [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/21/no-apple-intelligence-or-iphone-mirroring-in-eu-at-launch/>
+
+---
+
+## This Week in the IndieWeb
+
+date: 2024-06-21, from: This week in Indie Web
+
+
+
+<h1><a href="https://indieweb.org/this-week/2024-06-21.html">June 14-21, 2024</a></h1>
+<h2 id="recent-events">Recent Events</h2><p>From <a href="https://events.indieweb.org/archive">events.indieweb.org/archive</a>:</p>
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/06/homebrew-website-club-pacific-NfG3leietgb5" class="u-url">Homebrew Website Club - Pacific</a></div>
+<time class="dt-start" datetime="2024-06-19T18:00:00+00:00">Wednesday, June 19 at 6:00pm</time><br>
+<div><img src="https://indieweb.org/this-week/images/2024-06-21/b54d39e7c779c7445616f3359fe3764bb50f016c.jpg" style="width:100%" class="u-photo"></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/06/homebrew-website-club-europe-london-tbUSVVr5yWT3" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-06-19T19:00:00+00:00">Wednesday, June 19 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary"><p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, a coder, or all the above.</p></div><div><img src="https://indieweb.org/this-week/images/2024-06-21/90abf3ca5b2959c03297cab4f2f85f7c49b4b91b.jpg" style="width:100%" class="u-photo"></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/06/front-end-study-hall-005-WD3wbGiCIija" class="u-url">Front End Study Hall #005</a></div>
+<time class="dt-start" datetime="2024-06-18T12:00:00+00:00">Tuesday, June 18 at 12:00pm</time><br>
+<div style="font-style: italic" class="e-summary"><p>Front End Study Hall is an HTML + CSS focused group meeting, held on Zoom to learn from each other about how to make code do what we want.</p>
+
+<p>Come prepared to teach and learn!</p></div><div><img src="https://indieweb.org/this-week/images/2024-06-21/2d979a18a41a3c0db83665ac73380da28524baea.jpg" style="width:100%" class="u-photo"></div></div>
+<h2 id="upcoming-events">Upcoming Events</h2><p>From <a href="https://events.indieweb.org/">events.indieweb.org</a>:</p>
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/06/homebrew-website-club-edinburgh-1210iock7v5d" class="u-url">Homebrew Website Club Edinburgh</a></div>
+<time class="dt-start" datetime="2024-06-25T18:00:00+01:00">Tuesday, June 25 at 6:00pm</time><br>
+<ul><li>EDINBURGH, Scotland: Costa Coffee (Upstairs)</li></ul></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/06/homebrew-website-club-europe-london-7EeVR8ATRtpk" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-06-26T19:00:00+01:00">Wednesday, June 26 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary"><p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, a coder, or all the above.</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/bonus-online-homebrew-website-club-writing-edition-i8jny55Dngyd" class="u-url">Bonus Online Homebrew Website Club - Writing Edition</a></div>
+<time class="dt-start" datetime="2024-07-01T20:00:00+02:00">Monday, July 1 at 8:00pm</time><br>
+<div style="font-style: italic" class="e-summary"><p>The Homebrew Website Club to discuss the writing and writing-related topics. If you write on the web, whenever this is short message, detailed blog posts, reviews, rantings or fiction, come join us.</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/front-end-study-hall-006-SSFMWaLFzMng" class="u-url">Front End Study Hall #006</a></div>
+<time class="dt-start" datetime="2024-07-02T18:00:00+01:00">Tuesday, July 2 at 6:00pm</time><br>
+<div style="font-style: italic" class="e-summary"><p>Front End Study Hall is an HTML + CSS focused group meeting, held on Zoom to learn from each other about how to make code do what we want.</p>
+
+<p>Come prepared to teach and learn!</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/homebrew-website-club-nürnberg-digital-festival-edition-MpDAKz0jW4Cn" class="u-url">Homebrew Website Club - Nürnberg Digital Festival Edition</a></div>
+<time class="dt-start" datetime="2024-07-03T18:00:00+02:00">Wednesday, July 3 at 6:00pm</time><br>
+<ul><li>NÜRNBERG, Bayern: LEONARDO – Zentrum für Kreativität und Innovation</li></ul><div style="font-style: italic" class="e-summary"><p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/homebrew-website-club-europe-london-1MGOh2nqIkCp" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-07-03T19:00:00+01:00">Wednesday, July 3 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary"><p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, a coder, or all the above.</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/homebrew-website-club-pacific-H6HjYtrlWMkn" class="u-url">Homebrew Website Club - Pacific</a></div>
+<time class="dt-start" datetime="2024-07-03T18:00:00-07:00">Wednesday, July 3 at 6:00pm</time><br>
+</div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/homebrew-website-club-nuremberg-germany-mSA17SBkPqdw" class="u-url">Homebrew Website Club - Nuremberg/Germany</a></div>
+<time class="dt-start" datetime="2024-07-10T18:00:00+02:00">Wednesday, July 10 at 6:00pm</time><br>
+<ul><li>NÜRNBERG, Bayern: LEONARDO – Zentrum für Kreativität und Innovation</li></ul><div style="font-style: italic" class="e-summary"><p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/07/send-a-friend-a-webmention-day-Yg7gsfhZDigm" class="u-url">Send a Friend a Webmention Day</a></div>
+<time class="dt-start" datetime="2024-07-30T00:00:00+00:00">Tuesday, July 30</time><br>
+</div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/08/homebrew-website-club-nuremberg-germany-vxakxQ2PARVz" class="u-url">Homebrew Website Club - Nuremberg/Germany</a></div>
+<time class="dt-start" datetime="2024-08-14T18:00:00+02:00">Wednesday, August 14 at 6:00pm</time><br>
+<ul><li>NÜRNBERG, Bayern: LEONARDO – Zentrum für Kreativität und Innovation</li></ul><div style="font-style: italic" class="e-summary"><p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p></div></div>
+<h2 id="news">What We’re Reading</h2><p>From <a href="https://news.indieweb.org/en">news.indieweb.org</a>:</p><div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://sarajaksa.eu/2024/06/do-you-have-any-private-parts-off-your-site/" class="u-url p-name">Do you have any private parts off your site?</a></div><div>by <a href="https://sarajaksa.eu" class="p-author h-card">sarajaksa.eu</a> on <a href="https://sarajaksa.eu/2024/06/do-you-have-any-private-parts-off-your-site/"><time class="dt-published" datetime="2024-06-21T15:20:57+00:00">June 21</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://lifeofpablo.com/blog/why-i-attend-weekly-indieweb-meetings" class="u-url p-name">Why I Attend Weekly IndieWeb Meetings</a></div><div>by <a href="https://lifeofpablo.com" class="p-author h-card">lifeofpablo.com</a> on <a href="https://lifeofpablo.com/blog/why-i-attend-weekly-indieweb-meetings"><time class="dt-published" datetime="2024-06-21T05:11:13+00:00">June 21</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://lifeofpablo.com/blog/hosting-indiewebcamp-sacramento-and-calls-for-co-hosts" class="u-url p-name">Hosting IndieWebCamp Sacramento and Calls for Co-Hosts</a></div><div>by <a href="https://lifeofpablo.com" class="p-author h-card">lifeofpablo.com</a> on <a href="https://lifeofpablo.com/blog/hosting-indiewebcamp-sacramento-and-calls-for-co-hosts"><time class="dt-published" datetime="2024-06-19T19:49:48+00:00">June 19</time></a></div></div>
+
+
+
+<h2 id="new-event-notes">New Event Notes</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb Wiki: New Pages</a>:</p>
+
+<p><b>Homebrew Website Club Europe/London:</b> <a href="https://indieweb.org/events/2024-06-19-hwc-europe">2024-06-19</a></p>
+<p><b>Homebrew Website Club - Pacific:</b> <a href="https://indieweb.org/events/2024-06-19-hwc-pacific">2024-06-19</a></p>
+<p><b>Front End Study Hall #005:</b> <a href="https://indieweb.org/events/2024-06-18-front-end-study-hall">2024-06-18</a></p>
+
+<h2 id="changed-wiki-pages">Top Edited Wiki Pages</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?namespace=0&title=Special%3ARecentChanges">IndieWeb Wiki: Recent Changes</a>:</p>
+<ul>
+<li><b><a href="https://indieweb.org/Letterboxd">Letterboxd</a></b> <a href="https://indieweb.org/wiki/index.php?title=Letterboxd&amp;action=historysubmit&amp;diff=95915&amp;oldid=56955">7 edits</a> by gregorlove.com, tantek.com, davidjohnmead.com, and aramzuckerscharff.com</li>
+<li><b><a href="https://indieweb.org/Planning">Planning</a></b> <a href="https://indieweb.org/wiki/index.php?title=Planning&amp;action=historysubmit&amp;diff=95881&amp;oldid=95822">5 edits</a> by werd.io and david.shanske.com</li>
+<li><b><a href="https://indieweb.org/rel-me">rel-me</a></b> <a href="https://indieweb.org/wiki/index.php?title=rel-me&amp;action=historysubmit&amp;diff=95909&amp;oldid=95502">3 edits</a> by gregorlove.com and tantek.com</li>
+<li><b><a href="https://indieweb.org/rel-author">rel-author</a></b> <a href="https://indieweb.org/wiki/index.php?title=rel-author&amp;action=historysubmit&amp;diff=95903&amp;oldid=10850">3 edits</a> by tantek.com and gregorlove.com</li>
+<li><b><a href="https://indieweb.org/Front_End_Study_Hall">Front End Study Hall</a></b> <a href="https://indieweb.org/wiki/index.php?title=Front+End+Study+Hall&amp;action=historysubmit&amp;diff=95871&amp;oldid=95743">3 edits</a> by artlung.com</li>
+<li><b><a href="https://indieweb.org/H2VX">H2VX</a></b> <a href="https://indieweb.org/wiki/index.php?title=H2VX&amp;action=historysubmit&amp;diff=95850&amp;oldid=78116">3 edits</a> by loqi.me and tantek.com</li>
+<li><b><a href="https://indieweb.org/events/2024-08-22-xoxo">events/2024-08-22-xoxo</a></b> <a href="https://indieweb.org/wiki/index.php?title=events%2F2024-08-22-xoxo&amp;action=historysubmit&amp;diff=95883&amp;oldid=95666">2 edits</a> by tantek.com</li>
+<li><b><a href="https://indieweb.org/chat-names">chat-names</a></b> <a href="https://indieweb.org/wiki/index.php?title=chat-names&amp;action=historysubmit&amp;diff=95868&amp;oldid=95710">2 edits</a> by mat.tl and www.ottorask.com</li>
+<li><b><a href="https://indieweb.org/phprc">phprc</a></b> <a href="https://indieweb.org/wiki/index.php?title=phprc&amp;action=historysubmit&amp;diff=95851&amp;oldid=57775">2 edits</a> by loqi.me and tantek.com</li></ul>
+
+ 
+
+<https://indieweb.org/this-week/2024-06-21.html>
+
+---
+
+## NASA’s SLS Rocket: Block 1 vs. Block 1B Configuration
+
+date: 2024-06-21, from: NASA breaking news
+
+NASA’s SLS (Space Launch System) rocket in the Block 1B cargo configuration will launch for the first time beginning with Artemis IV. This upgraded and more powerful SLS rocket will enable SLS to send over 38 metric tons (83,700 lbs.) to the Moon, including NASA’s Orion spacecraft and its crew, along with heavy payloads for [&#8230;] 
+
+<https://www.nasa.gov/image-article/nasas-sls-rocket-block-1-vs-block-1b-configuration/>
+
+---
+
+## Hypersonic Technology Project Overview
+
+date: 2024-06-21, from: NASA breaking news
+
+Vehicles that travel at hypersonic speeds fly faster than five times the speed of sound. NASA studies the fundamental science of hypersonics to understand it better and applies this understanding to enable point-to-point and space access hypersonic vehicles. These vehicles would use airbreathing engines, which utilize oxygen in the atmosphere. In the long term, NASA [&#8230;] 
+
+<https://www.nasa.gov/directorates/armd/aavp/ht/hypersonic-tech-overview/>
+
+---
+
+## Hypersonics Technical Challenges
+
+date: 2024-06-21, from: NASA breaking news
+
+Technical Challenges (TCs) are finite-duration research and development endeavors supporting the strategic goals of NASA. The Hypersonic Technology project&#8217;s Technical Challenges include estimation of uncertainty for hypersonic research problems and vehicle systems, testing controls for switching engines mid-flight, and researching more efficient fuel combustors for large ramjets, which will be needed by future commercial high-speed [&#8230;] 
+
+<https://www.nasa.gov/directorates/armd/aavp/ht/hypersonic-tech-challenges/>
+
+---
+
+## Hypersonic Research Topics
+
+date: 2024-06-21, from: NASA breaking news
+
+The Hypersonic Technology project is divided into four research topic areas. The first research topic is system-level design, analysis, and validation, which explores the impacts of technologies on vehicle performance. The second and third topics focus more specifically on propulsion technologies and vehicle technologies enabling hypersonic flight. The fourth topic area explores material technology that [&#8230;] 
+
+<https://www.nasa.gov/directorates/armd/aavp/ht/hypersonic-research-topics/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-21, from: Miguel de Icaza Mastondon feed)
+
+<p>Friend of the show Jeremy Scahill said this was an incredible documentary about Gaza.</p><p>I haven’t watched it yet, will do tonight:</p><p><a href="https://m.youtube.com/watch?v=ECFpW5zoFXA" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">m.youtube.com/watch?v=ECFpW5zo</span><span class="invisible">FXA</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112656415407558805>
+
+---
+
+## a numbers game
+
+date: 2024-06-21, from: Ayjay blog
+
+The Supreme Court of the United States has been busy this week (notes this SCOTUS-watcher, whose pinned tabs include supremecourt.gov). You hear a lot these days about a “polarized” and therefore somehow illegitimate court. A 6-3 court, we always hear, with six Republican appointees (Chief Justice Roberts, Thomas, Alito, Gorsuch, Kavanaugh, Barrett) and three Democratic [&#8230;] 
+
+<https://blog.ayjay.org/a-numbers-game/>
+
+---
+
+##  The USPS Honors Alex Trebek With a Stamp 
+
+date: 2024-06-21, updated: 2024-06-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/the-usps-honors-alex-trebek-with-a-stamp>
+
+---
+
+## NASA’s ELaNa 43 Prepares for Firefly Aerospace Launch
+
+date: 2024-06-21, from: NASA breaking news
+
+NASA is readying for the launch of several small satellites to space, built with the help of students, educators, and researchers from across the country, as part of the agency&#8217;s CubeSat Launch Initiative. The ELaNa 43 (Educational Launch of Nanosatellites 43) mission includes eight CubeSats flying on Firefly Aerospace’s Alpha rocket for its “Noise of [&#8230;] 
+
+<https://www.nasa.gov/missions/small-satellite-missions/nasas-elana-43-prepares-for-firefly-aerospace-launch/>
+
+---
+
+## Apple won’t release its new AI features in the EU because they don’t comply with EU privacy and competition laws
+
+date: 2024-06-21, from: OS News
+
+Apple has announced it&#8217;s not shipping three of its tentpole new features, announced during WWDC, in the European Union: Apple Intelligence, iPhone Mirroring, and SharePlay Screen Sharing. Ever since the introduction of especially Apple Intelligence, the company has been in hot water over the sourcing of its training data &#8211; Apple admitted it&#8217;s been scraping everyone&#8217;s data for years and now used it to train its AI features. This will obviously have included vasts amounts of data from European websites and citizens, and with the strict EU privacy laws, there&#8217;s a very real chance that such scraping is simply not legal. As such, it&#8217;s simpler to just not comply with such stricter privacy laws than to design your products with privacy in mind. As Steven Troughton-Smith quips: How many EU-based sites did Apple scrape to build the feature it now says it can&#8217;t ship in the EU because of legal uncertainty? ↫ Steven Troughton-Smith Other massive corporations like Google and Facebook seem to have little issue shipping AI features in the EU, and have been doing so for quite a while now. And mind you, as Tim Cook has been very keen to reiterate in every single interview for the past two years or so, Apple has been shipping AI features similar to what they announced at WWDC for years as well, but it&#8217;s only now that the European Union is actually imposing regulations on them &#8211; instead of letting corporatism run wild &#8211; that it can no longer ship such features in the EU? Apple is throwing its users under the bus because Tim Cook is big mad that someone told him no. As I keep reiterating, consent is something Silicon Valley simply does not understand. 
+
+<https://www.osnews.com/story/140034/apples-wont-release-its-new-ai-features-in-the-eu-because-they-dont-comply-with-eu-privacy-and-competition-laws/>
+
+---
+
+## Privacy features lose their way in latest Firefox update
+
+date: 2024-06-21, updated: 2024-06-21, from: Liam Proven's articles at the Register
+
+<h4>Mozilla backtracking on private window changes after uproar</h4>
+      <p>Firefox remains the browser of choice for many, but the latest update has lost users' tabs and makes it much more apparent when they have private tabs open, missing the point of privacy.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/06/21/firefox_127_private_window/>
+
+---
+
+## NASA Invites Public to Share Excitement of NOAA GOES-U Launch
+
+date: 2024-06-21, from: NASA breaking news
+
+NASA invites the public to participate in virtual activities and events leading up to the launch of the NOAA (National Oceanic and Atmospheric Administration) GOES-U (Geostationary Operational Environmental Satellite-U) mission.&#160; NASA is targeting a two-hour window opening at 5:16 p.m. EDT Tuesday, June 25, for the launch of the weather satellite aboard a SpaceX Falcon [&#8230;] 
+
+<https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-share-excitement-of-noaa-goes-u-launch/>
+
+---
+
+##  Reggie Jackson&#8217;s Brutal Honesty About Playing Baseball in Alabama in the 60s 
+
+date: 2024-06-21, updated: 2024-06-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/reggie-jackson-honesty-baseball-alabama-60s>
+
+---
+
+##  Hockley Clarke on his relationship with a blackbird who lived in his... 
+
+date: 2024-06-21, updated: 2024-06-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044840-hockley-clarke-on-his-rel>
+
+---
+
+## Contracts and Acquisition Integrity Law
+
+date: 2024-06-21, from: NASA breaking news
+
+About In its functional leadership role, the Contracts and Acquisition Integrity Law Practice Group supports policy-level interactions with other elements of Government; provides specialized guidance and advice to the Offices of the General Counsel at NASA Field Centers regarding contract award, administration and litigation matters; and develops and coordinates NASA legal policy in these areas.&#160; [&#8230;] 
+
+<https://www.nasa.gov/organizations/contracts-and-acquisition-integrity-law/>
+
+---
+
+## Acquisition Integrity Program
+
+date: 2024-06-21, from: NASA breaking news
+
+In its functional leadership role, the Acquisition and Integrity Program (AIP) supports policy-level interactions with other governmental agencies combating procurement fraud. This Program provides specialized guidance and advice to the Office of the Chief Counsel at NASA Field Centers regarding procurement fraud matters; advises on affirmative litigation in the recovery of monies resulting from fraudulent [&#8230;] 
+
+<https://www.nasa.gov/organizations/acquisition-integrity-program/>
+
+---
+
+##  The Message by Ta-Nehisi Coates 
+
+date: 2024-06-21, updated: 2024-06-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/the-message-by-ta-nehisi-coates>
+
+---
+
+## Coordinating an Airborne Lab Across the Globe with NASA’s Earth Science Project Office
+
+date: 2024-06-21, from: NASA breaking news
+
+Tracking the spread of harmful air pollutants across large regions requires aircraft, satellites, and diverse team of scientists. NASA’s global interest in the threat of air pollution extends into Asia, where it works with partners on the Airborne and Satellite Investigation of Asian Air Quality (ASIA-AQ).  This international mission integrates satellite data and aircraft measurements [&#8230;] 
+
+<https://www.nasa.gov/general/coordinating-an-airborne-lab-across-the-globe-with-nasas-earth-science-project-office/>
+
+---
+
+##  Walmart is switching to electronic price tags that &#8220;allow employees to change... 
+
+date: 2024-06-21, updated: 2024-06-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044848-walmart-is-switching-to-e>
+
+---
+
+## Comments are often spam
+
+date: 2024-06-21, from: Dave Winer's Scripting News
+
+<p>More and more I see comments, unless explicitly asked for, as spam that I'd disable if I could. </p>
+<p>Most of the energy in social networks these days goes into keeping the garbage out of replies. If originators had stronger tools, there would be less work for the platform to do, and overall happier people. </p>
+<p>On Facebook, I often limit comments to friends, who don't tend to spam, presumably because we like to stay on good terms, and spam is an imposition, at best, and often insulting.</p>
+ 
+
+<http://scripting.com/2024/06/21/145709.html?title=commentsAreOftenSpam>
+
+---
+
+## Job Hoppin’
+
+date: 2024-06-21, updated: 2024-06-21, from: Robin Rendle Essays
+
+ 
+
+<https://robinrendle.com/notes/job-hoppin/>
+
+---
+
+##  We Deserve a Better Work Life 
+
+date: 2024-06-21, updated: 2024-06-21, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/we-deserve-a-better-work-life>
+
+---
+
+## How the Square Root of 2 Became a Number
+
+date: 2024-06-21, from: Quanta Magazine
+
+Useful mathematical concepts, like the number line, can linger for millennia before they are rigorously defined.            <p>The post <a href="https://www.quantamagazine.org/how-the-square-root-of-2-became-a-number-20240621/" target="_blank">How the Square Root of 2 Became a Number</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/how-the-square-root-of-2-became-a-number-20240621/>
 
 ---
 
@@ -31,7 +383,7 @@ date: 2024-06-21, updated: 2024-06-21, from: One Foot Tsunami
 
 **@Dave Winer's Scripting News** (date: 2024-06-21, from: Dave Winer's Scripting News)
 
-The best software does one thing well, that a lot of people want to do, that there is no other way to do. I've never seen this, but it's the ideal. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/21/wordleKittyHello.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The best software does one thing well, that a lot of people want to do, that there is no other way to do. I've never seen this, but it's the ideal. 
 
 <http://scripting.com/2024/06/21.html#a125345>
 
@@ -60,7 +412,7 @@ date: 2024-06-21, updated: 2024-06-21, from: Jason Kottke blog
 
 **@Dave Winer's Scripting News** (date: 2024-06-21, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/21/wordleKittyHello.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Bruce Schneier</a> has a new blog moderation policy. Everyone should have <a href="https://this.how/commentGuidelines/">one</a>. He's a bit of a troll himself. Once he gave a talk at an O'Reilly conference, and while I was in the audience, accused me of designing <a href="http://xmlrpc.com/">XML-RPC</a> to get around firewalls. I happen to know that's not true, and in fact you can <i>easily</i> spec a firewall rule that keeps out XML-RPC calls, that was a design goal. So I waited my turn, and explained. He just stood there, offered no apology or retraction or explanation. Now that's fucked up Bruce. From that point on I never believed any of his proclamations. And I rarely forget people who openly trash my rep like that. Tech is so fucked up that way. People like Schneier take advantage of the fact that people don't understand the terminology so they get away with hurling insults randomly like that. 
+<a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Bruce Schneier</a> has a new blog moderation policy. Everyone should have <a href="https://this.how/commentGuidelines/">one</a>. 
 
 <http://scripting.com/2024/06/21.html#a122650>
 
@@ -1858,7 +2210,7 @@ The school year has come to an end, and those long summer days are stretching ah
 
 ---
 
-## Let Reader’s Read
+## Let Readers Read
 
 date: 2024-06-17, from: Open Library Blog
 

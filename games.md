@@ -1,11 +1,41 @@
 ---
 title: games 2024.25
-updated: 2024-06-21 06:37:57
+updated: 2024-06-22 11:23:15
 ---
 
 # games 2024.25
 
-(date: 2024-06-21 06:37:57)
+(date: 2024-06-22 11:23:15)
+
+---
+
+## Netflix’s Trigger Warning, The Beast, and every movie new to streaming this week
+
+date: 2024-06-21, updated: 2024-06-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/6/21/24178820/new-movies-the-beast-trigger-warning-netflix-mars-express>
+
+---
+
+## Sir Ansbach questline steps in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-21, updated: 2024-06-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183286/sir-ansbach-questline-steps-dlc-sote>
+
+---
+
+## How to use the Storeroom Key in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-21, updated: 2024-06-21, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183368/storeroom-key-location-how-to-use-sote>
 
 ---
 

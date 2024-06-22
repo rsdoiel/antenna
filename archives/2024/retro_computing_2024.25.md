@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.25
-updated: 2024-06-21 06:37:59
+updated: 2024-06-22 11:23:17
 ---
 
 # retro computing 2024.25
 
-(date: 2024-06-21 06:37:59)
+(date: 2024-06-22 11:23:17)
+
+---
+
+## The Journeyman Project
+
+date: 2024-06-21, from: Digital Antiquarian
+
+I find that it&#8217;s oddly difficult for me to tell the story of Presto Studios, the maker of the Journeyman Project series of cult-classic adventure games, without drawing a lot of parallels and comparisons to Cyan, Inc., the maker of the multi-million-selling mega-hit Myst. This is not only because Presto won the lottery after making [&#8230;] 
+
+<https://www.filfre.net/2024/06/the-journeyman-project/>
 
 ---
 

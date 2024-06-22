@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.25
-updated: 2024-06-21 06:37:58
+updated: 2024-06-22 11:23:16
 ---
 
 # libraries 2024.25
 
-(date: 2024-06-21 06:37:58)
+(date: 2024-06-22 11:23:16)
+
+---
+
+## ARL Celebrates Pride Month 2024
+
+date: 2024-06-21, from: Association of Research Libraries News
+
+<p>Last Updated on June 21, 2024, 2:05 pm ET June is internationally recognized as Pride Month for the lesbian, gay, bisexual, transgender, queer, intersex, asexual, and two-spirit (LGBTQIA2S+) community. The...</p>
+<p>The post <a href="https://www.arl.org/blog/pride2024/">ARL Celebrates Pride Month 2024</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/blog/pride2024/>
 
 ---
 
@@ -101,7 +113,7 @@ date: 2024-06-17, from: Association of Research Libraries News
 
 ---
 
-## Let Reader’s Read
+## Let Readers Read
 
 date: 2024-06-17, from: Open Library Blog
 

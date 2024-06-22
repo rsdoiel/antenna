@@ -1,11 +1,175 @@
 ---
 title: columns 2024.25
-updated: 2024-06-21 06:37:56
+updated: 2024-06-22 11:23:14
 ---
 
 # columns 2024.25
 
-(date: 2024-06-21 06:37:56)
+(date: 2024-06-22 11:23:14)
+
+---
+
+## ★ By My Count Trump is Batting .900 on the Ten Commandments
+
+date: 2024-06-21, updated: 2024-06-22, from: Daring Fireball
+
+“Honor thy father and thy mother”, the exception that proves the rule. 
+
+<https://daringfireball.net/2024/06/lousiana_ten_commandments_trump>
+
+---
+
+## Why Are They Taking So Long?
+
+date: 2024-06-21, from: Dan Rather's Steady
+
+100+ days later, we are still waiting 
+
+<https://steady.substack.com/p/why-are-they-taking-so-long>
+
+---
+
+## Friday Squid Blogging: Squid Nebula
+
+date: 2024-06-21, updated: 2024-06-20, from: Bruce Schneier blog
+
+<p>Beautiful <a href="https://apod.nasa.gov/apod/ap240617.html">astronomical photo</a>.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/06/friday-squid-blogging-squid-nebula-2.html>
+
+---
+
+## June 20, 2024
+
+date: 2024-06-21, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/june-20-2024-373>
+
+---
+
+## ★ The EU Is Reaping What It Sows With the DMA: Uncertainty
+
+date: 2024-06-21, updated: 2024-06-21, from: Daring Fireball
+
+This is not spite. Spite would be saying these features will never come to the EU while the DMA remains in place. But a delayed rollout is the only rational response to the DMA: extreme caution in the face of the law’s by-design uncertainty and severe penalties. 
+
+<https://daringfireball.net/2024/06/eu_reaping_what_it_sows>
+
+---
+
+## 60 years ago today, they murdered my protector
+
+date: 2024-06-21, from: Robert Reich's blog
+
+Friends, I&#8217;ve shared some of this with you, but today marks 60 years since it happened &#8212; when the Klan murdered my protector. I was always the shortest kid in school, which made me an easy target for bullies. To protect myself, I got into the habit of befriending older boys who&#8217;d watch my back. 
+
+<https://robertreich.substack.com/p/60-years-ago-today-they-murdered>
+
+---
+
+##  The USPS Honors Alex Trebek With a Stamp 
+
+date: 2024-06-21, updated: 2024-06-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/the-usps-honors-alex-trebek-with-a-stamp>
+
+---
+
+## Reggie Jackson on Willie Mays’s Legacy, and the Abject Racism Faced by Black Baseball Players in the 1960s
+
+date: 2024-06-21, updated: 2024-06-22, from: Daring Fireball
+
+ 
+
+<https://www.youtube.com/watch?v=GMH2z4lFvZw>
+
+---
+
+## The Classroom of the Skies
+
+date: 2024-06-21, from: James Fallows, Substack
+
+Airline travel is so safe because the aviation system is so relentless about learning from failures. New lessons from an ex-astronaut at age 90, two 90-year-old aircraft, and two 737 MAX planes. 
+
+<https://fallows.substack.com/p/the-classroom-of-the-skies>
+
+---
+
+##  Reggie Jackson&#8217;s Brutal Honesty About Playing Baseball in Alabama in the 60s 
+
+date: 2024-06-21, updated: 2024-06-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/reggie-jackson-honesty-baseball-alabama-60s>
+
+---
+
+##  Hockley Clarke on his relationship with a blackbird who lived in his... 
+
+date: 2024-06-21, updated: 2024-06-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044840-hockley-clarke-on-his-rel>
+
+---
+
+## EU Users Won’t Get Apple Intelligence, iPhone Mirroring, or the New SharePlay Screen Sharing Features This Year, Thanks to the DMA
+
+date: 2024-06-21, updated: 2024-06-21, from: Daring Fireball
+
+ 
+
+<https://www.ft.com/content/360751cb-7a22-48e0-9b00-6a30ff41dcfe>
+
+---
+
+##  The Message by Ta-Nehisi Coates 
+
+date: 2024-06-21, updated: 2024-06-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/the-message-by-ta-nehisi-coates>
+
+---
+
+##  Walmart is switching to electronic price tags that &#8220;allow employees to change... 
+
+date: 2024-06-21, updated: 2024-06-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044848-walmart-is-switching-to-e>
+
+---
+
+## Comments are often spam
+
+date: 2024-06-21, from: Dave Winer's Scripting News
+
+<p>More and more I see comments, unless explicitly asked for, as spam that I'd disable if I could. </p>
+<p>Most of the energy in social networks these days goes into keeping the garbage out of replies. If originators had stronger tools, there would be less work for the platform to do, and overall happier people. </p>
+<p>On Facebook, I often limit comments to friends, who don't tend to spam, presumably because we like to stay on good terms, and spam is an imposition, at best, and often insulting.</p>
+ 
+
+<http://scripting.com/2024/06/21/145709.html?title=commentsAreOftenSpam>
+
+---
+
+##  We Deserve a Better Work Life 
+
+date: 2024-06-21, updated: 2024-06-21, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/we-deserve-a-better-work-life>
 
 ---
 
@@ -21,7 +185,7 @@ date: 2024-06-21, updated: 2024-06-21, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-06-21, from: Dave Winer's Scripting News)
 
-The best software does one thing well, that a lot of people want to do, that there is no other way to do. I've never seen this, but it's the ideal. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/21/wordleKittyHello.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The best software does one thing well, that a lot of people want to do, that there is no other way to do. I've never seen this, but it's the ideal. 
 
 <http://scripting.com/2024/06/21.html#a125345>
 
@@ -39,7 +203,7 @@ date: 2024-06-21, updated: 2024-06-21, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-06-21, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/21/wordleKittyHello.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Bruce Schneier</a> has a new blog moderation policy. Everyone should have <a href="https://this.how/commentGuidelines/">one</a>. He's a bit of a troll himself. Once he gave a talk at an O'Reilly conference, and while I was in the audience, accused me of designing <a href="http://xmlrpc.com/">XML-RPC</a> to get around firewalls. I happen to know that's not true, and in fact you can <i>easily</i> spec a firewall rule that keeps out XML-RPC calls, that was a design goal. So I waited my turn, and explained. He just stood there, offered no apology or retraction or explanation. Now that's fucked up Bruce. From that point on I never believed any of his proclamations. And I rarely forget people who openly trash my rep like that. Tech is so fucked up that way. People like Schneier take advantage of the fact that people don't understand the terminology so they get away with hurling insults randomly like that. 
+<a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Bruce Schneier</a> has a new blog moderation policy. Everyone should have <a href="https://this.how/commentGuidelines/">one</a>. 
 
 <http://scripting.com/2024/06/21.html#a122650>
 
@@ -174,7 +338,7 @@ date: 2024-06-20, updated: 2024-06-20, from: Daring Fireball
 
 ## Anthropic Introduces Claude 3.5 Sonnet
 
-date: 2024-06-20, updated: 2024-06-20, from: Daring Fireball
+date: 2024-06-20, updated: 2024-06-22, from: Daring Fireball
 
  
 

@@ -1,11 +1,142 @@
 ---
 title: socal north 2024.25
-updated: 2024-06-21 06:37:53
+updated: 2024-06-22 11:23:12
 ---
 
 # socal north 2024.25
 
-(date: 2024-06-21 06:37:53)
+(date: 2024-06-22 11:23:12)
+
+---
+
+## City Now Accepting Project Proposals for Make a Difference Day
+
+date: 2024-06-21, from: City of Santa Clarita
+
+<p>Partner with Residents to Make a Difference in Our Community! The City of Santa Clarita invites local schools and nonprofits to submit a proposal outlining a project that can benefit from volunteer support as part of Make A Difference Day on Saturday, October 26. This annual event, held on the fourth Saturday of October, unites [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/06/21/city-now-accepting-project-proposals-for-make-a-difference-day/">City Now Accepting Project Proposals for Make a Difference Day</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/06/21/city-now-accepting-project-proposals-for-make-a-difference-day/>
+
+---
+
+## Charge against 1st arrest related to attacks on encampment changed to misdemeanor
+
+date: 2024-06-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+This is a developing story and will be updated as more information becomes available.&#160;
+UCPD changed the charge of its first arrest in relation to the April 30 counter-protester attack on the first Palestine solidarity encampment from an alleged felony to a misdemeanor, according to a press release from the Los Angeles County District Attorney’s Office.&#160;
+The arrested individual, Edan On, was referred to the Los Angeles City Attorney’s Office from the LA county DA for misdemeanor filing consideration Friday. 
+
+<https://dailybruin.com/2024/06/21/charge-against-1st-arrest-related-to-attacks-on-encampment-changed-to-misdemeanor/>
+
+---
+
+## Frida Esparza announces return to UCLA gymnastics for fifth year
+
+date: 2024-06-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+Rising graduate student Frida Esparza is not hanging up her Bruin leotard yet.&#160;
+Esparza and UCLA gymnastics announced Friday that she will use her fifth year of NCAA eligibility to compete in the 2024-2025 season after the COVID-19 pandemic and injuries limited her previous four seasons.&#160;
+Before arriving in Westwood, the first-generation student represented the Mexican national team at the World Championships in 2018 and 2019. 
+
+<https://dailybruin.com/2024/06/21/frida-esparza-announces-return-to-ucla-gymnastics-for-fifth-year/>
+
+---
+
+## Avalon community celebrates PRIDE
+
+date: 2024-06-21, from: Catalina Islander
+
+Avalon showed its Pride and support for the LGBTQ+ community and allies on June 15. “Love Catalina, Jim Luttjohann and I would like to thank everyone who did attend Pride,” said Councilmember Michael Ponce during the June 18 City Council meeting. “It was a great event; year three, looking forward to year four, and we [&#8230;] 
+
+<https://thecatalinaislander.com/avalon-community-celebrates-pride/>
+
+---
+
+## Relaxing Day on Catalina
+
+date: 2024-06-21, from: Catalina Islander
+
+Bob Kanter was visiting friends on Avalon recently, when they happened upon this Catalina Bison taking a rest. Kanter said he took a tour of the island interior and even got to visit the marine laboratory at Big Fishermans Cove, where he spent several months in the ‘70s working on his graduate research. 
+
+<https://thecatalinaislander.com/relaxing-day-on-catalina/>
+
+---
+
+## The Cube Hosts Inaugural Girls and Women, Three-on-Three Hockey Tournament
+
+date: 2024-06-21, from: City of Santa Clarita
+
+<p>The Cube – Ice and Entertainment Center, Powered by FivePoint Valencia, is excited to announce its first-ever Girls and Women’s Three-on-Three Hockey Tournament. This exciting event will take place on Saturday, June 22, with a series of games culminating in championship matches at 6:15 p.m., 6:45 p.m. and 7:30 p.m., on The Pond ice rink. [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/06/21/the-cube-hosts-inaugural-girls-and-women-three-on-three-hockey-tournament/">The Cube Hosts Inaugural Girls and Women, Three-on-Three Hockey Tournament</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/06/21/the-cube-hosts-inaugural-girls-and-women-three-on-three-hockey-tournament/>
+
+---
+
+## Michael Levine to serve as interim Executive Vice Chancellor and Provost
+
+date: 2024-06-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA announced that Michael Levine will become the interim Executive Vice Chancellor and Provost.
+In an email to students Friday, Chancellor Gene Block announced that Levine – the current vice chancellor for academic affairs and personnel – had been appointed to the role. 
+
+<https://dailybruin.com/2024/06/21/michael-levine-to-serve-as-interim-executive-vice-chancellor-and-provost/>
+
+---
+
+## Avalon boosts commuter subsidy
+
+date: 2024-06-21, from: Catalina Islander
+
+The Avalon City Council on June 18 voted unanimously to increase the commuter book subsidy by $20. The new total: $105 per book, according to City Manager David Maistros. Councilmember Yesenia De La Rosa was absent this week. The new subsidy begins this July, according to the staff report. “The important thing is: We never [&#8230;] 
+
+<https://thecatalinaislander.com/avalon-boosts-commuter-subsidy/>
+
+---
+
+## Sheriff’s Log: June 13 to June 19, 2024
+
+date: 2024-06-21, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of June 13 to June 19, 2024. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<https://thecatalinaislander.com/sheriffs-log-june-13-to-june-19-2024/>
+
+---
+
+## Fourth of July with USC Marching Band
+
+date: 2024-06-21, from: Catalina Islander
+
+For the Islander Catalina Museum for Art &#38; History announces a collaboration with the University of Southern California Trojan Marching Band over the upcoming Fourth of July holiday. They invite visitors, locals and SC alumni alike to celebrate America and island traditions over Independence Day. “We are thrilled to host an event with the beloved [&#8230;] 
+
+<https://thecatalinaislander.com/fourth-of-july-with-usc-marching-band/>
+
+---
+
+## **Traffic Advisory** Upcoming Lane Closures on Copper Hill Drive and Rio Norte Drive
+
+date: 2024-06-21, from: City of Santa Clarita
+
+<p>Median Modifications to Begin June 24 Part of the federally funded Traffic and Pedestrian Circulation and Safety Improvement Project, construction on Copper Hill Drive at Rio Norte Drive will begin Monday, June 24. Crews will begin the construction of median modifications, paving, grinding and overlay operations which will result in the extension of the existing [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/06/21/traffic-advisory-upcoming-lane-closures-on-copper-hill-drive-and-rio-norte-drive/">**Traffic Advisory** Upcoming Lane Closures on Copper Hill Drive and Rio Norte Drive</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/06/21/traffic-advisory-upcoming-lane-closures-on-copper-hill-drive-and-rio-norte-drive/>
+
+---
+
+## Why A Gay California Senator Is Annoyed By His Own LGBTQ Health Info Bill
+
+date: 2024-06-21, updated: 2024-06-21, from: The LAist
+
+Sen. Scott Wiener is irked that he had to introduce a bill that would require health officials to ask LGBTQ people for demographic info on state health forms. He says they should have been doing it anyway. 
+
+<https://laist.com/news/politics/why-a-gay-california-senator-is-annoyed-by-his-own-lgbtq-health-info-bill>
 
 ---
 
@@ -31,16 +162,6 @@ date: 2024-06-21, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## High Court Blocks Anti-Tax Measure From California Ballot
-
-date: 2024-06-21, updated: 2024-06-21, from: The LAist
-
-The state Supreme Court takes a business-backed initiative to make it more difficult to raise taxes off the Nov. 5 ballot. Gov. Newsom and legislative leaders sued to kick it off. 
-
-<https://laist.com/news/politics/high-court-blocks-anti-tax-measure-from-california-ballot>
-
----
-
 ## USC Health Center Pharmacy to close June 24 to June 28
 
 date: 2024-06-21, from: The Daily Trojan (USC Student Newspaper)
@@ -53,9 +174,19 @@ date: 2024-06-21, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
+## High Court Blocks Anti-Tax Measure From California Ballot
+
+date: 2024-06-20, updated: 2024-06-21, from: The LAist
+
+The state Supreme Court takes a business-backed initiative to make it more difficult to raise taxes off the Nov. 5 ballot. Gov. Gavin Newsom and legislative leaders sued to kick it off. 
+
+<https://laist.com/news/politics/high-court-blocks-anti-tax-measure-from-california-ballot>
+
+---
+
 ## Young Men Of Color Struggle To Enroll In College. This Advising Program Says Its Approach Works
 
-date: 2024-06-20, updated: 2024-06-20, from: The LAist
+date: 2024-06-20, updated: 2024-06-21, from: The LAist
 
 USC’s College Advising Corps is turning perceived deficits of young men of color into strengths to get them enrolled in education after high school. 
 

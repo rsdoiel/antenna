@@ -1,11 +1,71 @@
 ---
 title: mid central 2024.25
-updated: 2024-06-21 06:37:54
+updated: 2024-06-22 11:23:13
 ---
 
 # mid central 2024.25
 
-(date: 2024-06-21 06:37:54)
+(date: 2024-06-22 11:23:13)
+
+---
+
+## ARRL Systems Service Disruption
+
+date: 2024-06-21, from: Amateur Radio Relay League News
+
+<p><strong>Updated 6/21/2024</strong></p><p>ARRL staff continue to work with outside industry experts to ensure that all servers have been remediated, tested, and all data has been confirmed. We have also been working to ensure that the network is secure.</p><p>As noted in previous updates, Logbook of The World® servers and data are fine and working. LoTW® has dependencies on other servers, for example membership data, which ha...</p> 
+
+<http://www.arrl.org/news/view/arrl-systems-service-disruption>
+
+---
+
+## Gaming the Amateur Radio Digital Modes
+
+date: 2024-06-21, from: Amateur Radio Relay League News
+
+<p>Ever played poker over FT8? YouTuber Steve McGrane, KM9G (@temporarilyoffline), and his friends at the YouTube channel Coffee and Ham Radios (@coffeeandhamradios) do. They even livestream it monthly on the channel Frequency Frenzy (@FreqFrenzy). They’ve devised a system of automatically assigning values to QSO data from amateur radio digital mode contacts that corresponds with playing cards. Th...</p> 
+
+<http://www.arrl.org/news/view/gaming-the-amateur-radio-digital-modes>
+
+---
+
+## Colorado Teacher and Ham Accepted to the Albert Einstein Distinguished Educator Fellowship Program
+
+date: 2024-06-21, from: Amateur Radio Relay League News
+
+<p>Dara Gardner, KFØNIX, a member of the Pikes Peak Radio Amateur Association (PPRAA), has been accepted to the Albert Einstein Distinguished Educator Fellowship (AEF) Program. The AEF program provides a unique opportunity for accomplished K-12 educators in the fields of science, technology, engineering, and mathematics (STEM) to serve in the national education arena.</p><p>“It's pretty exciting,” said G...</p> 
+
+<http://www.arrl.org/news/view/colorado-teacher-and-ham-accepted-to-the-albert-einstein-distinguished-educator-fellowship-program>
+
+---
+
+## 2024 ARRL Field Day is Here!
+
+date: 2024-06-21, from: Amateur Radio Relay League News
+
+ 
+
+<http://www.arrl.org/news/view/2024-arrl-field-day-is-here>
+
+---
+
+## New Hampshire ARES Serves Mount Washington Road Race
+
+date: 2024-06-21, from: Amateur Radio Relay League News
+
+<p>On June 15, 2024, a dozen New Hampshire Amateur Radio Emergency Service (ARES) operators from the Mount Washington Valley ARES group and the Central New Hampshire ARES group, as well as a number of out-of-state ARES volunteers, again provided emergency radio communications at the Delta Dental Mount Washington Road Race.</p><p>Fourteen hundred participants ran up the mountain into a region of infamous ...</p> 
+
+<http://www.arrl.org/news/view/new-hampshire-ares-serves-mount-washington-road-race>
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-06-21, from: Amateur Radio Relay League News
+
+<p>Sunspot numbers rose this week, with the average changing from 139.4<br />to 149.6, but average daily solar flux only shifted from 179.2 to<br />178.<br /><br />Only four sunspot groups emerged this week. There was one on June 15<br />and three on June 19.<br /><br />Average daily planetary A index only changed from 11.6 to 10.3.<br /><br />Predicted solar flux is 205 and 210 on June 21-22, then 200 June<br />23-27, then 190, 185, and 190, on June 28-30...</p> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-833>
 
 ---
 

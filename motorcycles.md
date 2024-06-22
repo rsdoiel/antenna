@@ -1,11 +1,71 @@
 ---
 title: motorcycles 2024.25
-updated: 2024-06-21 06:37:59
+updated: 2024-06-22 11:23:16
 ---
 
 # motorcycles 2024.25
 
-(date: 2024-06-21 06:37:59)
+(date: 2024-06-22 11:23:16)
+
+---
+
+## 2024 BMW F 900 GS Ride Review
+
+date: 2024-06-21, from: Cycle World News
+
+BMW’s F 900 GS is a huge leap forward for the German manufacturer’s middleweight ADV machine. It’s lighter, slimmer, with more power and a better chassis and handling. 
+
+<https://www.cycleworld.com/motorcycle-reviews/bmw-f-900-gs-ride-review/>
+
+---
+
+## How Motorcycles Turn: Camber Thrust
+
+date: 2024-06-21, from: Cycle World News
+
+Motorcycles are not steered in the same manner as a car, but why is that? Two words: camber thrust. What is it, and how does it make a motorcycle turn? 
+
+<https://www.cycleworld.com/blogs/ask-kevin/how-motorcycles-turn-camber-thrust-explained/>
+
+---
+
+## Mallory Dobbs on Racing in New World Championship
+
+date: 2024-06-21, from: Cycle World News
+
+Mallory Dobbs bought a racebike in 2016 after riding for just six months. Now she is racing in the new FIM Women's Circuit Racing World Championship. 
+
+<https://www.cycleworld.com/motorcycle-racing/mallory-dobbs-on-racing-new-world-championship-interview/>
+
+---
+
+## CFMoto 675SR Production Details
+
+date: 2024-06-21, from: Cycle World News
+
+CFMoto is preparing multiple versions of its 675SR triple. The recently type-approved bike appears to be built with reduced output for A2-license areas in Europe. 
+
+<https://www.cycleworld.com/motorcycle-news/cfmoto-675sr-production-details/>
+
+---
+
+## CFMoto’s 500SR Voom Has Air Scoops for Headlights, and an Inline-4
+
+date: 2024-06-21, from: Ride Apart, Electric Motorcycle News
+
+If CFMoto can price this right and get it to the US, riders will be all over it. 
+
+<https://www.rideapart.com/news/724019/cfmoto-500sr-voom-details/>
+
+---
+
+## Will This Ultra-Rare Vintage Scooter Run After 40 Years?
+
+date: 2024-06-21, from: Ride Apart, Electric Motorcycle News
+
+Is it a ridable two-stroke Czech masterpiece, or just a large (but pretty) paperweight? 
+
+<https://www.rideapart.com/news/724032/vintage-czech-scooter-tatran-125/>
 
 ---
 
@@ -39,7 +99,7 @@ The House of Hinckley meets the Memphis Mafia in an alternate timeline.
 
 ---
 
-## Shimano Just Patented a Brake-By-Wire System: Are Motorcycles Next
+## Shimano Just Patented a Brake-By-Wire System. Are Motorcycles Next?
 
 date: 2024-06-21, from: Ride Apart, Electric Motorcycle News
 

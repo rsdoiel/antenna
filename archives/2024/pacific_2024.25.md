@@ -1,11 +1,94 @@
 ---
 title: pacific 2024.25
-updated: 2024-06-21 06:37:54
+updated: 2024-06-22 11:23:12
 ---
 
 # pacific 2024.25
 
-(date: 2024-06-21 06:37:54)
+(date: 2024-06-22 11:23:12)
+
+---
+
+## Newsletter spotlights creative works of incarcerated women
+
+date: 2024-06-21, from: University of Hawaiʻi News
+
+<p>The newsletter is filled with poetry, art, quotes, testimonies and general creativity produced by about 11 residents at the Women’s Community Correctional Center.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/21/liberty-who-are-we-newsletter/">Newsletter spotlights creative works of incarcerated women</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/21/liberty-who-are-we-newsletter/>
+
+---
+
+## Special education degrees made possible through Leeward CC partnership
+
+date: 2024-06-21, from: University of Hawaiʻi News
+
+<p>Educational assistant aims to become a special education teacher with help from Leeward <abbr>CC</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/21/sped-degrees-leeward-cc-partnership/">Special education degrees made possible through Leeward <abbr>CC</abbr> partnership</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/21/sped-degrees-leeward-cc-partnership/>
+
+---
+
+## Whole Body Deodorant: Tips to Staying Fresh Everywhere
+
+date: 2024-06-21, updated: 2024-06-21, from: Marianas Variety
+
+Sorry, but your browser does not support the video tag. 
+
+<https://www.mvariety.com/online_features/fashion_beauty_fitness/whole-body-deodorant-tips-to-staying-fresh-everywhere/article_f85f4392-f9ff-55e5-a118-98c8b5029035.html>
+
+---
+
+## Miss Hawaiʻi Teen Volunteer developed platform at UH West Oʻahu
+
+date: 2024-06-21, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span>’s Emalia Pomaialoha Dalire crowned Miss <span aria-label="Hawaii">Hawai&#699;i</span> Teen Volunteer.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/21/miss-hawaii-teen-volunteer/">Miss Hawaiʻi Teen Volunteer developed platform at <abbr>UH</abbr> West Oʻahu</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/21/miss-hawaii-teen-volunteer/>
+
+---
+
+## New Data from Carter’s Shows that Moms are Having a 'Hot Mom Summer'
+
+date: 2024-06-21, updated: 2024-06-21, from: Marianas Variety
+
+(BPT) - As the temperatures rise and summer approaches, expecting mothers are desperate for a way to beat the heat while awaiting their little one's arrival. In fact, according to a recent survey from Carter’s, the leading children’s apparel brand trusted by parents for 150+ years, more than 80% of U.S. women agreed that no one really knows what it means to be hot until you’ve experienced a summer pregnancy. 
+
+<https://www.mvariety.com/online_features/family_living/new-data-from-carter-s-shows-that-moms-are-having-a-hot-mom-summer/article_df7b6102-aa7e-5315-9742-908f87c193e3.html>
+
+---
+
+## 2 in 5 U.S. Adults Over 50 Report Feeling Lonely: How Adult Children Can Help Their Parents Live Independently and Feel Less Isolated
+
+date: 2024-06-21, updated: 2024-06-21, from: Marianas Variety
+
+Sorry, but your browser does not support the video tag. 
+
+<https://www.mvariety.com/online_features/senior_living/2-in-5-u-s-adults-over-50-report-feeling-lonely-how-adult-children-can/article_7271f4c3-74f0-5b0e-bb79-8f13af412fcc.html>
+
+---
+
+## 5 Things a Patient Wants People to Know about NF1-PN
+
+date: 2024-06-21, updated: 2024-06-21, from: Marianas Variety
+
+(BPT) - Thirty-eight-year-old Antwan has been living with neurofibromatosis type 1 with plexiform neurofibromas (NF1-PN) his whole life. This diagnosis led to more than 25 hospitalizations and 18 surgeries, as well as the need to have a permanent ventilator to help him breathe. 
+
+<https://www.mvariety.com/online_features/health_and_wellness/5-things-a-patient-wants-people-to-know-about-nf1-pn/article_624c2ba6-b5e4-5ec3-9c07-308f472e1cf2.html>
+
+---
+
+## Start in the attic to keep your home and energy budget cool
+
+date: 2024-06-21, updated: 2024-06-21, from: Marianas Variety
+
+(BPT) - Is your home ready for what may be another historically warm summer season? According to data from the National Oceanic and Atmospheric Administration, 2023 was the planet’s warmest year on record and there is a one-in-three chance that 2024 will be warmer than 2023.1 
+
+<https://www.mvariety.com/online_features/real_estate/start-in-the-attic-to-keep-your-home-and-energy-budget-cool/article_772fdb30-a782-57e2-bfac-4ff974f9ba4c.html>
 
 ---
 
@@ -331,6 +414,18 @@ date: 2024-06-21, from: Hawaii Tribune Harold
 
 ---
 
+## Police ID motorcyclist killed in Kona crash
+
+date: 2024-06-21, from: Hawaii Tribune Harold
+
+
+				<p>Police have identified a motorcyclist who died in a two-vehicle collision Wednesday at the intersection of Palani Road and Kealakaa Street in Kailua-Kona as 29-year-old Zachary McQuaid Stubbs of Kailua-Kona.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/21/hawaii-news/police-id-motorcyclist-killed-in-kona-crash/>
+
+---
+
 ## Japan Coast Guard Training Ship Kojima Concludes Historic Voyage to Palau
 
 date: 2024-06-21, from: Island Times
@@ -531,6 +626,36 @@ By Pacific Island Times News Staff The National Telecommunications and Informati
 
 ---
 
+## How to DIY A Deck Drainage System
+
+date: 2024-06-21, updated: 2024-06-21, from: Marianas Variety
+
+(NewsUSA) - If you plan to add an elevated deck to your home, there’s one element that will greatly increase its value and function: an under-deck drainage system. These systems, which divert water to keep the space beneath a deck dry, are easy to install for both professional builders and DIYers, and virtually doubles an outdoor living space. 
+
+<https://www.mvariety.com/online_features/home_decorating/how-to-diy-a-deck-drainage-system/article_967d4721-b444-5599-9e0e-3e10e3a69b7e.html>
+
+---
+
+## Boost Your Home Wi-Fi for Ultimate Summer Fun!
+
+date: 2024-06-21, updated: 2024-06-21, from: Marianas Variety
+
+(NewsUSA) - With summer break upon us, families are gearing up to spend more time at home together, leading to increased demand on their internet connections to support various devices. On average, internet users ages 16-64 already spend 47 hours per week online, but as the heat sets in, families are likely to find themselves retreating indoors and relying even more heavily on robust Wi-Fi for everything from streaming movies to staying connected with loved ones. 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/boost-your-home-wi-fi-for-ultimate-summer-fun/article_ba9c05fe-1e40-5e06-91d8-5093b2caf7cd.html>
+
+---
+
+## Toys for Tots Supports Children for a Summer of Fun and Learning
+
+date: 2024-06-21, updated: 2024-06-21, from: Marianas Variety
+
+(NewsUSA) - Most children in the United States look forward to their summer break from school as a chance to have fun with friends, spend time with family, and have new adventures and experiences that are so crucial to stimulate and nurture young and inquisitive minds. 
+
+<https://www.mvariety.com/online_features/family_living/toys-for-tots-supports-children-for-a-summer-of-fun-and-learning/article_b0920bca-f1c2-5592-b322-7bd59d879be0.html>
+
+---
+
 ## Maui food hub, Hawaiian monk seal project, more in UH Magazine
 
 date: 2024-06-21, from: University of Hawaiʻi News
@@ -582,6 +707,16 @@ date: 2024-06-21, from: Pacific Island Times
 By James C. Pearce The United States and Russia are upping the military ante in the Pacific, as the world enters a new and potentially... 
 
 <https://www.pacificislandtimes.com/post/pacific-war-games-heat-up>
+
+---
+
+## A dermatologist’s ultimate summer guide for whole body care
+
+date: 2024-06-20, updated: 2024-06-22, from: Marianas Variety
+
+(BPT) - You probably worry a lot about caring for your body — especially your skin — over the winter, when harsh temps and cold winds can take their toll. But did you know your self-care routine could also use an overhaul to face the challenges of the hot summer months? 
+
+<https://www.mvariety.com/online_features/health_and_wellness/a-dermatologist-s-ultimate-summer-guide-for-whole-body-care/article_6cd86084-715f-5b49-ba96-75f87b2e776d.html>
 
 ---
 

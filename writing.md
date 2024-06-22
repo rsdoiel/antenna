@@ -1,11 +1,136 @@
 ---
 title: writing 2024.25
-updated: 2024-06-21 06:37:57
+updated: 2024-06-22 11:23:15
 ---
 
 # writing 2024.25
 
-(date: 2024-06-21 06:37:57)
+(date: 2024-06-22 11:23:15)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-21, from: Neil Gaiman @ BlueSky)
+
+It’s so good!!
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kvhsyqjxq32s>
+
+---
+
+## Bradley Shortlisted for Waterstones Debut Fiction Prize
+
+date: 2024-06-21, from: Locus Magazine
+
+<p><strong>The Ministry of Time </strong>by Kaliane Bradley (Sceptre) was shortlisted for the Waterstones Debut Fiction Prize. &#8220;Celebrating debut fiction in all its forms, the prize highlights the importance of discovering and championing new talent and acts as an extension of the alchemy of bookseller word-of-mouth recommendation.&#8221;</p>
+<p>The award is “open to all debut fiction, including genre fiction such as crime, sci-fi and fantasy as well as fiction in translation.” The  <a href="https://locusmag.com/2024/06/bradley-shortlisted-for-waterstones-debut-fiction-prize/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/bradley-shortlisted-for-waterstones-debut-fiction-prize/>
+
+---
+
+## 2024 Society of Authors’ Awards Winners
+
+date: 2024-06-21, from: Locus Magazine
+
+<p>The winners and runners-up of the 2024 Society of Authors&#8217; Awards have been announced. Titles and authors of genre interest follow.
+</p>
+<div class="mynomorebulletlist">
+<p><strong>ADCI Literary Prize</strong></p>
+<ul>
+<li>WINNER:<strong> Mother Sea</strong>, Lorraine Wilson (Fairlight)</li>
+</ul>
+<p><strong>ALCS Tom-Gallon Trust Award</strong></p>
+<ul>
+<li>RUNNER-UP: &#8220;Arewa Boys&#8221;, Hussani Abdulrahim</li>
+<li>RUNNER-UP: &#8220;Little Green Man&#8221;, Edward Hogan</li>
+</ul>
+</div>
+<p>The winners share a prize fund of over £140,000.</p>
+<p>For more information, including the complete winners and shortlists, see the Society of Authors&#8217; website. <a href="https://locusmag.com/2024/06/2024-society-of-authors-awards-winnerss/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/2024-society-of-authors-awards-winnerss/>
+
+---
+
+## Coelho Wins 2024 Yoto Carnegie Medal
+
+date: 2024-06-21, from: Locus Magazine
+
+<p>Joseph Coelho has been awarded the 2024 Yoto Carnegie Medal for Writing for <strong>The Boy Lost in the Maze</strong>, illustrated by Kate Milner (Otter-Barry).</p>
+<p>The awards are presented by the Chartered Institute of Library and Information Professionals (CILIP). Winners receive £500 worth of books to donate to local libraries, a golden medal, and a £5,000 Colin Mears Award cash prize.</p>
+<p>For more information, including the full list of winners  <a href="https://locusmag.com/2024/06/coelho-wins-2024-yoto-carnegie-medal/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/coelho-wins-2024-yoto-carnegie-medal/>
+
+---
+
+## ‽ #205 - How much we don't know
+
+date: 2024-06-21, from: Interesting, a blog on writing
+
+When is world-building filling in gaps vs. expanding the universe of the story? 
+
+<https://inneresting.substack.com/p/205-how-much-we-dont-know>
+
+---
+
+## How Anna Klassen Turned Competition Wins into a Thriving Screenwriting Career
+
+date: 2024-06-21, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-anna-klassen-turned-competition-wins-into-a-thriving-screenwriting-career" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Writing-1.jpg" alt="How Anna Klassen Turned Competition Wins into a Thriving Screenwriting Career" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>Finding your way into the Hollywood screenwriting circle is one of the hardest hurdles any aspiring writer has to face. However, there are several ways to break in. One of them is screenwriting competitions. </span></p> 
+
+<https://blog.finaldraft.com/how-anna-klassen-turned-competition-wins-into-a-thriving-screenwriting-career>
+
+---
+
+## 2024 Wellman Award Shortlist
+
+date: 2024-06-21, from: Locus Magazine
+
+<p>The North Carolina Speculative Fiction Foundation (NCSFF) has announced the shortlist for the 2024 Manly Wade Wellman Award. The award recognizes &#8220;outstanding achievement in science fiction and fantasy novels written by North Carolina authors.&#8221;</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>The Strange</strong>, Nathan Ballingrud (Saga)</li>
+<li><strong>A Harvest of Ash and Blood</strong>, D.J. Molles (Blackstone)</li>
+<li><strong>The Master of Samar</strong>, Melissa Scott (Candlemark &#38; Gleam)</li>
+<li><strong>We Are the Crisis</strong>, Cadwell Turnbull (Blackstone)</li>
+<li><strong>The Unmaking </strong></li></ul></div> <a href="https://locusmag.com/2024/06/2024-wellman-award-shortlist/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/06/2024-wellman-award-shortlist/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-21, from: Neil Gaiman @ BlueSky)
+
+I need a new backpack. Any recommendations for brands that are tough, lightweight and have many pockets and sections? And can hold a 16 inch macbook. 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kvh5vzat622n>
+
+---
+
+## Gary K. Wolfe Reviews The Brides of High Hill by Nghi Vo
+
+date: 2024-06-21, from: Locus Magazine
+
+<p>The Brides of High Hill, Nghi Vo (Tordotcom 9781250851444, $19.95, 128pp, tp) May 2024.</p>
+<p>Over the past few years, Nghi Vo has parlayed the East and Southeast Asia-inspired world of her Singing Hills cycle into not only a delightful playground for the adventures of her itinerant Cleric Chih, whose ostensible mission is to collect stories for his monastery, but also into a kind of laboratory for storytelling itself. Earlier novellas  <a href="https://locusmag.com/2024/06/gary-k-wolfe-reviews-the-brides-of-high-hill-by-nghi-vo/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/gary-k-wolfe-reviews-the-brides-of-high-hill-by-nghi-vo/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-21, from: Neil Gaiman @ BlueSky)
+
+Tickets for Coraline in August worldwide are now on sale at Coraline.com! If you can, see it in 3D. Trust me on this.
+https://Coraline.com 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kvgw43iair2k>
 
 ---
 
