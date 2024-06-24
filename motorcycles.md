@@ -1,11 +1,31 @@
 ---
 title: motorcycles 2024.26
-updated: 2024-06-24 08:24:18
+updated: 2024-06-24 16:20:18
 ---
 
 # motorcycles 2024.26
 
-(date: 2024-06-24 08:24:18)
+(date: 2024-06-24 16:20:18)
+
+---
+
+## Gaige Herrera Sets Two All-Time NHRA Win-Streak Records with Victory at Richmond
+
+date: 2024-06-24, from: Cycle World News
+
+Suzuki Hayabusa Wins Tenth Consecutive NHRA Pro Stock Motorcycle National. 
+
+<https://www.cycleworld.com/the-wire/gaige-herrera-sets-two-all-time-nhra-win-streak-records-with-victory-at-richmond/>
+
+---
+
+## After Chef Gordon Ramsay’s Bike Crash, His Son Is Proud To Wear a Helmet
+
+date: 2024-06-24, from: Ride Apart, Electric Motorcycle News
+
+Scary way to spend a Father's Day, but well wishes poured in from around the globe. And more importantly, his kid got the message. 
+
+<https://www.rideapart.com/news/724182/gordon-ramsay-bike-crash-helmet/>
 
 ---
 

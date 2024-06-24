@@ -1,11 +1,301 @@
 ---
 title: tech likely 2024.26
-updated: 2024-06-24 08:24:16
+updated: 2024-06-24 16:20:16
 ---
 
 # tech likely 2024.26
 
-(date: 2024-06-24 08:24:16)
+(date: 2024-06-24 16:20:16)
+
+---
+
+## Windows 11 is now automatically enabling OneDrive folder backup without asking permission
+
+date: 2024-06-24, from: OS News
+
+Microsoft has made OneDrive slightly more annoying for Windows 11 users. Quietly and without any announcement, the company changed Windows 11&#8217;s initial setup so that it could turn on the automatic folder backup without asking for it. Now, those setting up a new Windows computer the way Microsoft wants them to (in other words, connected to the internet and signed into a Microsoft account) will get to their desktops with OneDrive already syncing stuff from folders like Desktop Pictures, Documents, Music, and Videos. Depending on how much is stored there, you might end up with a desktop and other folders filled to the brim with shortcuts to various stuff right after finishing a clean Windows installation. ↫ Taras Buria at NeoWin Just further confirmation that Windows 11 is not ready for the desktop. 
+
+<https://www.osnews.com/story/140055/windows-11-is-now-automatically-enabling-onedrive-folder-backup-without-asking-permission/>
+
+---
+
+##  A Genealogy of Technology and Power Since 1500 
+
+date: 2024-06-24, updated: 2024-06-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/a-genealogy-of-technology-and-power-since-1500>
+
+---
+
+## Apple first company to be found violating DMA
+
+date: 2024-06-24, from: OS News
+
+Today, the European Commission has informed Apple of its preliminary view that its App Store rules are in breach of the Digital Markets Act (DMA), as they prevent app developers from freely steering consumers to alternative channels for offers and content. In addition, the Commission opened a new non-compliance procedure against Apple over concerns that its new contractual requirements for third-party app developers and app stores, including Apple&#8217;s new “Core Technology Fee”, fall short of ensuring effective compliance with Apple&#8217;s obligations under the DMA. ↫ European Commission press release File this in the category for entirely expected news that is the opposite of surprising. Apple has barely even been maliciously compliant with the DMA, and the European Commission is entirely right in pursuing the company for its continued violation of the law. The DMA really isn&#8217;t a very complicated law, and the fact the world&#8217;s most powerful and wealthiest corporation in the world can&#8217;t seem to adapt its products to the privacy and competition laws here in the EU is clearly just a bunch of grandstanding and whining. In fact, I find that the European Commission is remarkably lenient and cooperative in its dealings with the major technology giants in general, and Apple in particular. They&#8217;ve been in talks with Apple for a long time now in preparation for the DMA, the highest-ranking EU officials regularly talked with Apple and Tim Cook, they&#8217;ve been given ample warnings, instructions, and additional time to make sure their products do not violate the law &#8211; as a European Union citizen, I can tell you no small to medium business or individual EU citizen gets this kind of leniency and silk gloves treatment. Everything Apple is reaping, it sowed all by itself. As I posted on Mastodon a few days ago: The EU enacted a new law a while ago that all bottle caps should remain attached to the bottle, to combat plastic trash. All the bottle and packaging makers, from massive multinationals like Coca Cola and fucking Nestlé to small local producers invested in the development of new caps, changing their production lines, and shipping the new caps. Today, a month before the law goes into effect, it&#8217;s basically impossible to find a bottle without an attached cap. I don&#8217;t know, I thought this story was weirdly relevant right now with Apple being a whiny bitch. Imagine being worse than Coca Cola and motherfucking Nestlé. ↫ Thom Holwerda Apple is in this mess and facing insane fines as high as 10% of their worldwide turnover because spoiled, rich, privileged brats like Tim Cook are not used to anyone ever saying &#8220;no&#8221;. Silicon Valley has shown, time and time again, from massive data collection for advertising purposes to scraping the entire web for machine learning, that they simply do not understand consent. Now that there&#8217;s finally someone big, strong, and powerful enough to not take Silicon Valley&#8217;s bullshit, they start throwing tamper tantrums like toddlers. Apple&#8217;s public attacks on the European Union &#8211; and their instructions to their PR attack dogs to step it up a notch &#8211; are not doing them any favours, either. The EU is, contrary to just about any other government body in the Western world, ridiculously popular among its citizens, and laws that curb the power of megacorps are even more popular. I honestly have no idea who&#8217;s running their PR department, because they&#8217;re doing a terrible job, at least here in the EU. 
+
+<https://www.osnews.com/story/140053/apple-first-company-to-be-found-violating-dma/>
+
+---
+
+## Johnson Celebrates LGBTQI+ Pride Month: Eva Granger
+
+date: 2024-06-24, from: NASA breaking news
+
+Eva Granger firmly believes that anyone can launch a career at NASA. As the events and milestones lead for the Orion Program’s strategic communications team, she dedicates her time to engaging with the public and educating them not only about the Orion spacecraft but also about the various opportunities to contribute to the agency’s mission. [&#8230;] 
+
+<https://www.nasa.gov/general/johnson-celebrates-lgbtqi-pride-month-eva-granger/>
+
+---
+
+##  I knew the western US had become drier, but I hadn&#8217;t realized... 
+
+date: 2024-06-24, updated: 2024-06-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044862-i-knew-the-western-us>
+
+---
+
+## iOS and iPadOS 18 can format external drives
+
+date: 2024-06-24, from: OS News
+
+I can&#8217;t believe this is considered something I need to write about, but it&#8217;s still a very welcome new feature that surprisingly has taken this long to become available: iOS and iPadOS 18 now allow you to format external storage devices. Last year when I began testing iPadOS 17 betas, I noticed the addition of options for renaming and erasing external drives in the Files app. I watched these options over the course of the beta cycle for iPadOS 17 to see if any further changes would come. The one I watched most closely was the “Erase” option for external drives. This option uses the same glyph as the Erase option in Disc Utility on macOS. In Disc Utility on the Mac, in order to reformat an external drive, you first select the “Erase” option, and then additional options appear for selecting the new format you wish to reformat the drive with. When I saw the “Erase” option added in the Files app on iPadOS, I suspected that Apple might be moving towards adding these reformatting options into the Files app on iPadOS. And I’m excited to confirm that this is exactly what Apple has done in iPadOS 18! ↫ Kaleb Cadle It was soon confirmed this feature is available in iOS 18 as well. You can only format in APFS, ExFAT and FAT, so it&#8217;s not exactly a cornucopia of file systems to choose from, but it&#8217;s better than nothing. This won&#8217;t magically fix all the issues a lot of people have with especially iPadOS when it comes to feeling constrained when using their expensive, powerful tablets with detachable keyboards, but it takes away at least one tiny reason to keep a real computer around. Baby steps, I guess. 
+
+<https://www.osnews.com/story/140051/ios-and-ipados-18-can-format-external-drives/>
+
+---
+
+## Slow time?
+
+date: 2024-06-24, from: Status-Q blog
+
+Back in the days when I had an analogue watch, rather than a serious computer, strapped to my wrist, I often wondered whether life would be more or less stressful if I removed the minute and second hands, so that I could only tell the time to, say, the nearest 5-10 minutes.  Would I be <a class="more-link excerpt-link" href="https://statusq.org/archives/2024/06/24/12102/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<https://statusq.org/archives/2024/06/24/12102/>
+
+---
+
+##  The Art Book for Children 
+
+date: 2024-06-24, updated: 2024-06-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/the-art-book-for-children>
+
+---
+
+## Apple Found in Breach of DMA
+
+date: 2024-06-24, from: Michael Tsai
+
+Lisa O&#8217;Carroll (via Hacker News, New York Times, Slashdot): Apple has been found to be in breach of sweeping new EU laws designed to allow smaller companies to compete and allow consumers to find cheaper and alternative apps in the tech business&#8217;s app store.The European Commission, which also acts as the EU antitrust and technology [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/24/apple-found-in-breach-of-dma/>
+
+---
+
+## SwiftData vs. Realm Performance Comparison
+
+date: 2024-06-24, from: Michael Tsai
+
+Jacob Bartlett: The Realm DB engine was written from the ground-up in C++ to minimise this overhead. [&#8230;] Therefore, it&#8217;s not unreasonable to describe SwiftData as a wrapper over a wrapper over a wrapper.[&#8230;]These show that the SwiftData objects took around 10x longer to instantiate.[&#8230;]Realm topped out at writing 2,000,000 simple User objects before hitting [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/24/swiftdata-vs-realm-performance-comparison/>
+
+---
+
+## Always Allow Safari Bookmarklets
+
+date: 2024-06-24, from: Michael Tsai
+
+Jeff Johnson: You may already be aware that for a number of years, Safari has asked your permission every time you click on a link, such as an RSS feed, that opens in an app other than Safari[&#8230;][&#8230;]The permission prompt now has an option to &#8220;Always Allow&#8221;! This option is new in Safari 17. This [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/24/always-allow-safari-bookmarklets/>
+
+---
+
+## iCloud Drive, Dropbox, and Proton Drive
+
+date: 2024-06-24, from: Michael Tsai
+
+Ryan Christoffel (AppleInsider): The problem is, Apple &#8220;intelligently&#8221; decides which files can remain stored in local cache, and will make decisions to remove certain downloads without telling you. So when you need to access a given file&#8212;say, on an airplane with no connection&#8212;you might find that the file has been sent back to the cloud [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/24/icloud-drive-dropbox-and-proton-drive/>
+
+---
+
+## AI Companies Ignoring Robots.txt
+
+date: 2024-06-24, from: Michael Tsai
+
+Mark Sullivan: The AI search startup Perplexity is in hot water in the wake of a Wiredinvestigation revealing that the startup has been crawling content from websites that don&#8217;t want to be crawled.[&#8230;]&#8220;Perplexity is not ignoring the Robot Exclusions Protocol and then lying about it,&#8221; said Perplexity cofounder and CEO Aravind Srinivas in a phone [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/24/ai-companies-ignoring-robots-txt/>
+
+---
+
+## Pirate Ship
+
+date: 2024-06-24, from: Michael Tsai
+
+Adam Engst: Pirate Ship is a shipping platform with an elegant interface that allows users to access discounted shipping rates from USPS and UPS with no subscription fee. I&#8217;ve used it a handful of times for mailing packages, and it has been brilliant.[&#8230;]And, oh, what a lovely interface![&#8230;]Pirate Ship has negotiated corporate-level discounted shipping rates [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/24/pirate-ship/>
+
+---
+
+## NASA Webb, Hubble Scientist Marcia Rieke Awarded Gruber Cosmology Prize
+
+date: 2024-06-24, from: NASA breaking news
+
+Marcia Rieke, a scientist who worked on NASA’s James Webb Space Telescope and Hubble Space Telescope, has received the Gruber Foundation&#8217;s 2024 Cosmology Prize. Rieke will receive the award and gold laureate pin at a ceremony August 8, 2024, at the General Assembly of the International Astronomical Union in Cape Town, South Africa. Rieke was [&#8230;] 
+
+<https://www.nasa.gov/missions/webb/nasa-webb-hubble-scientist-marcia-rieke-awarded-gruber-cosmology-prize/>
+
+---
+
+##  I am enjoying the empathetic trajectory of the Charli XCX and Lorde... 
+
+date: 2024-06-24, updated: 2024-06-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044863-i-am-enjoying-the-empathe>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-24, from: Miguel de Icaza Mastondon feed)
+
+<p>Example catchup sessions:</p><p><a href="https://developer.apple.com/wwdc24/10184" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">developer.apple.com/wwdc24/101</span><span class="invisible">84</span></a></p><p> <a href="https://developer.apple.com/wwdc24/10150" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">developer.apple.com/wwdc24/101</span><span class="invisible">50</span></a></p><p><a href="https://developer.apple.com/wwdc24/10181" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">developer.apple.com/wwdc24/101</span><span class="invisible">81</span></a></p><p><a href="https://developer.apple.com/wwdc24/10223" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">developer.apple.com/wwdc24/102</span><span class="invisible">23</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112673063204840521>
+
+---
+
+##  Observers have reported a large red spot on Jupiter since the 1660s.... 
+
+date: 2024-06-24, updated: 2024-06-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044861-observers-have-reported-a>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-24, from: Miguel de Icaza Mastondon feed)
+
+<p>One thing I loved about this year’s WWDC is that there were plenty of catchup sessions, covering the basics for newcomers.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112673015401826718>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-24, from: Miguel de Icaza Mastondon feed)
+
+<p>I enjoyed the technical details on this slide deck. <a href="https://mastodon.online/@karppinen/112672855308433453" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.online/@karppinen/112</span><span class="invisible">672855308433453</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112672898534110977>
+
+---
+
+##  How to Give Away a Fortune 
+
+date: 2024-06-24, updated: 2024-06-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/how-to-give-away-a-fortune>
+
+---
+
+## [Scummvm-devel] Re: SCUMM Engine (2002)
+
+date: 2024-06-24, from: Tilde.news
+
+<p><a href="https://tilde.news/s/8vnunh/scummvm_devel_re_scumm_engine_2002">Comments</a></p> 
+
+<https://lists.scummvm.org/pipermail/scummvm-devel/2002-June/000341.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-24, from: Miguel de Icaza Mastondon feed)
+
+<p>Unlike .NET where the improvements to Visual Studio support are behind a subscription, the Swift improvements are public and open for all:</p><p><a href="https://forums.swift.org/t/improvements-to-swift-in-visual-studio-code-coming-with-swift-6/72708" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">forums.swift.org/t/improvement</span><span class="invisible">s-to-swift-in-visual-studio-code-coming-with-swift-6/72708</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112672807503501506>
+
+---
+
+## On the GOES
+
+date: 2024-06-24, from: NASA breaking news
+
+On June 14, 2024, NOAA’s (National Oceanic and Atmospheric Administration) last Geostationary Operational Environmental Satellite, GOES-U, started its journey from the Astrotech Space Operations facility to the SpaceX hangar at Launch Complex 39A at NASA’s Kennedy Space Center in Florida. GOES-U is the final weather-observing and environmental monitoring satellite in NOAA’s GOES-R Series. GOES-U will [&#8230;] 
+
+<https://www.nasa.gov/image-article/on-the-goes/>
+
+---
+
+## GNU Guile 3.0.10 released
+
+date: 2024-06-24, from: Tilde.news
+
+<p><a href="https://tilde.news/s/vzecvi/gnu_guile_3_0_10_released">Comments</a></p> 
+
+<https://lists.gnu.org/archive/html/guile-user/2024-06/msg00026.html>
+
+---
+
+##  How do actors memorize their lines? &#8220;Actors engage in elaborative rehearsal, focusing... 
+
+date: 2024-06-24, updated: 2024-06-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044732-how-do-actors-memorize-th>
+
+---
+
+## EPYX's Pitstop
+
+date: 2024-06-24, from: Computer ads from the Past
+
+Where Winning is the Pits. 
+
+<https://computeradsfromthepast.substack.com/p/epyxs-pitstop>
+
+---
+
+## Contributing to open source docs as a technical writer
+
+date: 2024-06-24, from: Blog by Fabrizio Ferri-Benedetti
+
+<p>I&rsquo;ve recently become a docs maintainer for OpenTelemetry, a pretty big open source project. As I often receive questions on how to start contributing to open source docs, this seemed the right time to write about it. Let me tell you how I started and progressed, and what you can do to start your open source documentation journey.</p> 
+
+<https://passo.uno/contribute-open-source-docs/>
+
+---
+
+##  Anxiety in Inside Out 2 Is Too Real 
+
+date: 2024-06-24, updated: 2024-06-24, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/anxiety-in-inside-out-2-is-too-real>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-24, from: Dave Winer's Scripting News)
+
+<a href="https://mastodon.social/@davew/112671576365142333">Heard</a> an interview show on NPR where they went to laundromats and asked people about the upcoming election. Big surprise they say pretty much exactly what they say on the news about the candidates, all of it <a href="https://en.wikipedia.org/wiki/False_balance#:~:text=False%20balance%2C%20known%20colloquially%20as,viewpoints%20than%20the%20evidence%20supports.">bothsidesisms</a> and no mention of the fascism coming our way if we go one direction. It's all everyone's fault, so why bother voting, is mostly what they say. SMH in disbelief. 
+
+<http://scripting.com/2024/06/24.html#a152539>
 
 ---
 
@@ -14,6 +304,17 @@ updated: 2024-06-24 08:24:16
 <p>Oh shit, real estate is about to get more expensive </p><p><a href="https://hachyderm.io/@mogul/112672174037838068" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">hachyderm.io/@mogul/1126721740</span><span class="invisible">37838068</span></a></p> 
 
 <https://mastodon.social/@Migueldeicaza/112672216354591991>
+
+---
+
+## Linux geeks cheer as Arm wrestles x86
+
+date: 2024-06-24, updated: 2024-06-24, from: Liam Proven's articles at the Register
+
+<h4>AlmaLinux and upstream kernel support for Raspberry Pi 5, plus a forthcoming high-performance Arm64 Tuxedo laptop</h4>
+      <p>Encouraging noises are coming from multiple directions around Linux support for both current and next-generation Arm64 kit.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/06/24/almalinux_pi5_tuxedo/>
 
 ---
 
@@ -52,6 +353,38 @@ date: 2024-06-24, updated: 2024-06-24, from: Jason Kottke blog
  
 
 <https://kottke.org/24/06/0044860-great-news-about-hiv-prev>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-24, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=tQjxIvcGGdE">Bell Bottom Blues</a>. "It's all wrong but it's all right." 
+
+<http://scripting.com/2024/06/24.html#a124427>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-24, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/03/12/macpaint.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If you think you understand the significance of RSS, I bet you don't. Please listen to the <a href="http://scripting.com/2024/06/23/howRssStartedTheRealStory.m4a">14-minute podcast</a> I <a href="http://scripting.com/2024/06/23.html#a201841">posted</a> yesterday for the real story. We should learn from this and not repeat the same mistake, and of course until the real story is out, we can't learn from it. Let's get it right on the Wikipedia page. It isn't about Guha or Libby, me, or whoever. It's really about the power of Netscape and the early web news publishing companies that supported RSS, and the blogging systems that jumped on board (including my own products) and then two years later, the NYT coming on board, followed by the entire news industry. A bunch of nerds arguing on a mail list is <i>not</i> the story. With the benefit of well over twenty years hindsight this should, by now, be kind of obvious. 
+
+<http://scripting.com/2024/06/24.html#a123814>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-24, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@davew/post/C8mUXGiMODB">Threads could</a> make it a lot easier for us to cross-post to their system, esp since they say they will support ActivityPub. As it is there are too many hoops to jump through imho. I think basically they all want you to use their UI's which amounts to writing in <a href="http://scripting.com/2024/01/14/031201.html">tiny little textboxes</a> of course. 
+
+<http://scripting.com/2024/06/24.html#a123121>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-24, from: Dave Winer's Scripting News)
+
+I <a href="https://mastodon.social/@davew/112671088952473981">want</a> to be able to run Frontier on the new Macs, but was disappointed that VMware doesn’t work and had given up on the idea. But I just learned that UTM might work. Here’s the <a href="https://chatgpt.com/share/38d87439-9a34-402d-9c46-7a047e7e2866">transcript</a> of my inquiry. Wondering if <a href="https://mastodon.social/@davew/112671088952473981">anyone has had good experience</a> using UTM to run older Mac software on Apple CPUs. 
+
+<http://scripting.com/2024/06/24.html#a123002>
 
 ---
 
@@ -235,6 +568,22 @@ In der Sachverständigenanhörung im Innenausschuss des Deutschen Bundestages zu
 
 ---
 
+**@Dave Winer's Scripting News** (date: 2024-06-23, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/23/scriptingNewsAd.gif" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm going to start a new podcast-only feed, and <a href="http://scripting.com/2024/06/23/howRssStartedTheRealStory.m4a">this will be first episode</a>. 14 minutes. It tells the story of RSS as a remarkable coming-together of tech, news, publishing and blogging. The first burst came from Netscape and four leading web pubs, Salon, Red Herring Wired and Motley Fool. As a leading blogger and developer of blogging tools, I jumped on board as soon as I heard of it, as did the people at Blogger. RSS was an instant standard with a great installed base, and retained its simplicity. You have no idea how remarkable that is. It grew like a weed. An installed base developed. There was confusion for a couple of years, between 2000 and 2002, about what RSS was, but the market stayed with the format specified by Netscape in 1999. Then in 2002, at UserLand we did a deal with the NY Times to get their news flowing through RSS, and in the next year, the <i>entire news world supported RSS.</i> That's the story. You can write all about who did what in a background story, but the big story, the miracle, mostly remains untold. What matters is an open format took root and retained its simplicity. And it pays to understand why it was not a strong enough foundation to be successful, first because the vendors didn't work with each other, and then because Twitter made subscription one click, where it was ridiculous how hard it was to subscribe to a feed in RSS. We should learn from this, and not repeat the same mistakes, and of course until the real story is out there, we can't learn from it. This is a 14-minute podcast. I cut off the last five minutes because I got lost in the weeds. All of this is documented in the archive of this blog and the sites it points to. And if there's interest I'll happily talk about it in a future podcast. 
+
+<http://scripting.com/2024/06/23.html#a201841>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-23, from: Dave Winer's Scripting News)
+
+I saw a <a href="https://www.caranddriver.com/tesla/cybertruck">Tesla truck</a> parked in Woodstock yesterday. I wasn't prepared for how big it was. It's an impressive looking machine. 
+
+<http://scripting.com/2024/06/23.html#a194645>
+
+---
+
 ## Turn Off The Pillow Machines
 
 date: 2024-06-23, from: Tedium site
@@ -282,6 +631,16 @@ tip of the Iberian Peninsula. It has an area of 6.7 km2 (2.6 sq mi) and is
 bordered to the north by Spain (Campo de Gibraltar)." 
 
 <https://xn--gckvb8fzb.com/travel/uk/gibraltar/>
+
+---
+
+## Property Progress: Septic Tank Removal
+
+date: 2024-06-23, updated: 2024-06-23, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<https://www.sevarg.net/2024/06/23/septic-tank-removal/>
 
 ---
 

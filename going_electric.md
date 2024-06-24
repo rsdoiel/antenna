@@ -1,11 +1,215 @@
 ---
 title: going electric 2024.26
-updated: 2024-06-24 08:24:19
+updated: 2024-06-24 16:20:19
 ---
 
 # going electric 2024.26
 
-(date: 2024-06-24 08:24:19)
+(date: 2024-06-24 16:20:19)
+
+---
+
+## Mercedes added to NACS ‘coming soon’ page as Tesla slows rollout
+
+date: 2024-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/mercedes-tesla-supercharger-NACS-e1719268211649.jpg?quality=82&#038;strip=all&#038;w=928" /></div><p>Tesla’s NACS support webpage now lists Mercedes along other automakers in its “coming soon” section, though the timeline for Supercharger support has been pushed back for other automakers as Tesla <a href="https://electrek.co/2024/05/03/read-the-wild-email-tesla-is-sending-to-suppliers-amid-supercharger-chaos/">sorts through</a> a <a href="https://electrek.co/2024/04/29/tesla-conducting-more-layoffs-including-entire-supercharger-team/">chaotic reorganization</a> of its charging team at the behest of CEO Elon Musk.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/24/mercedes-added-to-nacs-coming-soon-page-as-tesla-slows-rollout/#more-368934" data-post-id="368934" data-layer-pagetype="post" data-layer-postcategory="mercedes-benz,north-american-charging-standard-nacs" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/24/mercedes-added-to-nacs-coming-soon-page-as-tesla-slows-rollout/>
+
+---
+
+## Toyota takes a page from Tesla as it opens Lexus charging stations to other EVs
+
+date: 2024-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Toyota-Lexus-charging-1.jpeg?quality=82&#038;strip=all&#038;w=1330" /></div><p>Despite its slow shift to fully electric cars, <a href="https://electrek.co/guides/toyota/">Toyota</a> may be learning. Toyota announced it’s opening Lexus charging stations to other EVs in Japan, taking a page from Tesla in the US and globally.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/24/toyota-opens-lexus-charging-stations-all-evs-tesla-like/#more-368919" data-post-id="368919" data-layer-pagetype="post" data-layer-postcategory="lexus,toyota" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/24/toyota-opens-lexus-charging-stations-all-evs-tesla-like/>
+
+---
+
+## Rivian R1T Two-Year Ownership Review: Work Truck Weaknesses
+
+date: 2024-06-24, from: Inside EVs News
+
+The owner loves it, but a hard life has exposed a few issues. Replacing components isn't easy, and some parts aren't for work duty. 
+
+<https://insideevs.com/news/724383/rivian-r1t-work-truck/>
+
+---
+
+## Tesla CTs get totaled, EV sales going great, and a call for better charging signs
+
+date: 2024-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/tesla-total.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s <em>electrifying</em> episode of Quick Charge, we check out a number of totaled Teslas, question the legitimacy of “boat mode,” and chart the company’s declining sales. Meanwhile, NIO is hitting its sales targets, VW is doubling production of its electric van, and I want 60′ tall illuminated EV charging signs on highways.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/24/tesla-cts-get-totaled-ev-sales-going-great-and-a-call-for-better-charging-signs/#more-368928" data-post-id="368928" data-layer-pagetype="post" data-layer-postcategory="quick-charge,tesla,tesla-cybertruck" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/24/tesla-cts-get-totaled-ev-sales-going-great-and-a-call-for-better-charging-signs/>
+
+---
+
+## Gas stations tell Florida to stop dawdling with $198M in federal EV charger funding
+
+date: 2024-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/tesla-supercharger-wawa.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Florida will get $198 million of federal EV charger funding over five years, but Wawa, Buc-ee’s, Busy Bee, and others can’t access it because the state is slacking.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/24/gas-stations-florida-federal-ev-charger-funding/#more-368897" data-post-id="368897" data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/24/gas-stations-florida-federal-ev-charger-funding/>
+
+---
+
+## Owner Drives Hyundai Ioniq 6 Until It Dies: 'It Just Won't Quit'
+
+date: 2024-06-24, from: Inside EVs News
+
+How much range do you really have below zero? One owner just found out. 
+
+<https://insideevs.com/news/724387/hyundai-ioniq-6-zero-range/>
+
+---
+
+## Rivian (RIVN) drastically cuts costs as push for first profit ramps up: What to expect in Q2
+
+date: 2024-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Rivian-costs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rivian (RIVN) is learning from its past as it looks to turn its first profit. The cost of building its vehicles has “improved dramatically” as <a href="https://electrek.co/guides/rivian/">Rivian</a> slashes costs on its path to profitability.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/24/rivian-rivn-drastically-cuts-costs-push-first-profit/#more-368902" data-post-id="368902" data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/24/rivian-rivn-drastically-cuts-costs-push-first-profit/>
+
+---
+
+## Volkswagen Adds ChatGPT Voice Assistant To ID.4, Other Models
+
+date: 2024-06-24, from: Inside EVs News
+
+ChatGPT is coming to "most" U.S. 2025 model-year Volkswagen vehicles, including its EVs. Will this up VW's voice assistant game? 
+
+<https://insideevs.com/news/724376/volkswagen-chatgpt-id4-2025/>
+
+---
+
+## Murf takes $400 off e-bikes and 20% off accessories, Jackery power stations 42% off, Rachio smart hose timer at new low, more
+
+date: 2024-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Murf-electric-bikes-Higgs-step-thru-e-bike.webp?w=1200" /></div><p>With the few June sales events having come to a close over the weekend and future events like <a href="https://9to5toys.com/2024/06/13/prime-day-2024-best-deals/">Amazon’s upcoming Prime Days</a> waiting on the horizon, we’ve got a few notable Green Deals for you today in the downtime. Leading the charge today is <a href="https://9to5toys.com/2024/06/24/murfs-fourth-of-july-sale-takes-400-off-e-bikes-starting-from-1795-with-additional-20-off-accessories/">Murf’s Fourth of July sale</a> that is taking $400 off its e-bike lineup while also offering 20% off all accessories, with the company’s <a href="https://9to5toys.com/2024/06/24/murfs-fourth-of-july-sale-takes-400-off-e-bikes-starting-from-1795-with-additional-20-off-accessories/">Higgs Step-Thru e-bike now sitting at $1,995</a>. It is joined by <a href="https://9to5toys.com/2024/06/24/jackerys-latest-sale-offers-42-off-discounts-on-power-stations-and-bundles-starting-from-220/">Jackery’s latest sale</a> that is taking 42% off a collection of power stations and bundles, with options like the <a href="https://9to5toys.com/2024/06/24/jackerys-latest-sale-offers-42-off-discounts-on-power-stations-and-bundles-starting-from-220/">Explorer 2000 Pro Portable Power Station</a> bundled alongside two 200W solar panels for a return <a href="https://9to5toys.com/2024/06/24/jackerys-latest-sale-offers-42-off-discounts-on-power-stations-and-bundles-starting-from-220/">$1,899 low</a>. There’s also <a href="https://9to5toys.com/2024/06/24/rachios-smart-hose-timer-keeps-a-watch-on-your-water-and-the-weather-starting-from-new-64-low-more-from-79/">Rachio’s Smart Hose Timer</a> that has just fallen to a <a href="https://9to5toys.com/2024/06/24/rachios-smart-hose-timer-keeps-a-watch-on-your-water-and-the-weather-starting-from-new-64-low-more-from-79/">new $64 low</a> as well, with other water controller options starting <a href="https://9to5toys.com/2024/06/24/rachios-smart-hose-timer-keeps-a-watch-on-your-water-and-the-weather-starting-from-new-64-low-more-from-79/">from $79</a>. Plus, all the other hangover Green Deals that are still alive and well.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/24/murf-fourth-of-july-sale-jackery-power-stations-rachio-smart-hose-timer-more/#more-368874" data-post-id="368874" data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/24/murf-fourth-of-july-sale-jackery-power-stations-rachio-smart-hose-timer-more/>
+
+---
+
+## NIO (NIO) expected to hit Q2 delivery target after record 20.5K sold in May
+
+date: 2024-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/NIO-layoffs-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After setting a new delivery record in May, <a href="https://electrek.co/guides/nio/">NIO</a> (NYSE: NIO) is expected to deliver over 54,000 EVs in the second quarter. Despite a slight decline from May’s numbers, NIO is projected to deliver over 18,000 EVs in June, which would be enough to top its Q2 delivery target.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/24/nio-nio-hit-q2-delivery-target-20-5k-may-record/#more-368877" data-post-id="368877" data-layer-pagetype="post" data-layer-postcategory="nio" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/24/nio-nio-hit-q2-delivery-target-20-5k-may-record/>
+
+---
+
+## Lexus Made The Most Efficient Electric Crossover On Sale. Here's How
+
+date: 2024-06-24, from: Inside EVs News
+
+A certain combination of wheels, tires and powertrain can boost the range by dozens of miles. 
+
+<https://insideevs.com/news/724290/lexus-rz-300e-efficiency-explained/>
+
+---
+
+## New York’s largest offshore wind farm just got the official greenlight
+
+date: 2024-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Sunrise-Wind-Map-Orsted.jpg?quality=82&#038;strip=all&#038;w=1100" /></div><p><a href="https://sunrisewindny.com/">Sunrise Wind</a>, New York’s largest offshore wind farm, now has the final permit it needs from the US Department of the Interior’s Bureau of Ocean Energy Management (BOEM) to start construction.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/24/new-yorks-largest-offshore-wind-farm-sunrise-wind/#more-368848" data-post-id="368848" data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,new-york,offshore-wind-power" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/24/new-yorks-largest-offshore-wind-farm-sunrise-wind/>
+
+---
+
+## A Used Mercedes-Benz EQS Can Be Yours For New Tesla Model 3 Prices
+
+date: 2024-06-24, from: Inside EVs News
+
+It’s an absolute steal. Used EQS EVs are selling for less than half their original prices.  
+
+<https://insideevs.com/news/724339/used-mercedes-benz-eqs-prices-have-crashed/>
+
+---
+
+## Volkswagen wants to double ID.Buzz production as three-row electric van hits the US
+
+date: 2024-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/VW-ID.Buzz-production.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The iconic Volkswagen Microbus is making a comeback in all-electric form. VW wants to more than double <a href="https://electrek.co/guides/vw-id-buzz/">ID.Buzz</a> production as the three-row electric van rolls out in the US this year.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/24/vw-id-buzz-production-surge-electric-van-us/#more-368840" data-post-id="368840" data-layer-pagetype="post" data-layer-postcategory="volkswagen,volkswagen-id-buzz,vw-id-buzz" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/24/vw-id-buzz-production-surge-electric-van-us/>
+
+---
+
+## After Chef Gordon Ramsay’s Bike Crash, His Son Is Proud To Wear a Helmet
+
+date: 2024-06-24, from: Ride Apart, Electric Motorcycle News
+
+Scary way to spend a Father's Day, but well wishes poured in from around the globe. And more importantly, his kid got the message. 
+
+<https://www.rideapart.com/news/724182/gordon-ramsay-bike-crash-helmet/>
+
+---
+
+## Tesla (TSLA) is expected to have tough quarter for deliveries again
+
+date: 2024-06-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/Tesla-Model-3-red-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) is again expected to have a difficult quarter for electric vehicle deliveries as estimates are going down.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/24/tesla-tsla-expected-tough-quarter-deliveries-again/#more-368839" data-post-id="368839" data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/24/tesla-tsla-expected-tough-quarter-deliveries-again/>
 
 ---
 

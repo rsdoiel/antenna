@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.26
-updated: 2024-06-24 08:24:15
+updated: 2024-06-24 16:20:14
 ---
 
 # mid central 2024.26
 
-(date: 2024-06-24 08:24:15)
+(date: 2024-06-24 16:20:14)
+
+---
+
+## Thermal analysis tool aims to reinvigorate 3D-IC design
+
+date: 2024-06-24, from: EDN Blog
+
+<img width="1000" height="563" src="https://www.edn.com/wp-content/uploads/hero-image-3dic.jpg?fit=1000%2C563" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/hero-image-3dic.jpg?w=1000 1000w, https://www.edn.com/wp-content/uploads/hero-image-3dic.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/hero-image-3dic.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/hero-image-3dic.jpg?w=800 800w" sizes="(max-width: 1000px) 100vw, 1000px" /><p>Calibre 3DThermal enables designers to model, visualize, and mitigate thermal effects from early-stage chip design to packaging to signoff.</p>
+<p>The post <a href="https://www.edn.com/thermal-analysis-tool-aims-to-reinvigorate-3d-ic-design/" data-wpel-link="internal">Thermal analysis tool aims to reinvigorate 3D-IC design</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/thermal-analysis-tool-aims-to-reinvigorate-3d-ic-design/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2024-06-24 08:24:15
 
 date: 2024-06-24, from: EDN Blog
 
-<img width="1002" height="868" src="https://www.edn.com/wp-content/uploads/Ready-to-Install.png?fit=1002%2C868" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Ready-to-Install.png?w=1002 1002w, https://www.edn.com/wp-content/uploads/Ready-to-Install.png?w=300 300w, https://www.edn.com/wp-content/uploads/Ready-to-Install.png?w=768 768w" sizes="(max-width: 1002px) 100vw, 1002px" /><p>A supposedly unsupported Microsoft Surface Pro 5 seemed to run fine when Registry-hacked for a Windows 11 upgrade. Caveat emptor.</p>
+<img width="1002" height="868" src="https://www.edn.com/wp-content/uploads/Ready-to-Install.png?fit=1002%2C868" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Ready-to-Install.png?w=1002 1002w, https://www.edn.com/wp-content/uploads/Ready-to-Install.png?w=300 300w, https://www.edn.com/wp-content/uploads/Ready-to-Install.png?w=768 768w" sizes="(max-width: 1002px) 100vw, 1002px" /><p>A supposedly unsupported Microsoft Surface Pro 5 seemed to run fine when Registry-hacked for a Windows 11 upgrade. Caveat emptor.</p>
 <p>The post <a href="https://www.edn.com/updating-an-unsanctioned-pc-to-windows-11/" data-wpel-link="internal">Updating an unsanctioned PC to Windows 11</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.26
-updated: 2024-06-24 08:24:19
+updated: 2024-06-24 16:20:19
 ---
 
 # retro computing 2024.26
 
-(date: 2024-06-24 08:24:19)
+(date: 2024-06-24 16:20:19)
+
+---
+
+## EPYX's Pitstop
+
+date: 2024-06-24, from: Computer ads from the Past
+
+Where Winning is the Pits. 
+
+<https://computeradsfromthepast.substack.com/p/epyxs-pitstop>
 
 ---
 

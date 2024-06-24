@@ -1,9 +1,899 @@
 ---
 title: parks 2024.26
-updated: 2024-06-24 08:24:18
+updated: 2024-06-24 16:20:18
 ---
 
 # parks 2024.26
 
-(date: 2024-06-24 08:24:18)
+(date: 2024-06-24 16:20:18)
+
+---
+
+## Youth group celebrates 25 years of public land projects
+
+date: 2024-06-24, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>PODCAST: BLM invests in Youth programs and projects nationwide using Inflation Reduction Act funds</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p>&nbsp;&nbsp;</p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="63c8b54f-78fb-412a-a3ba-c10137ab643f" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/OTG%20Podcast%20Brand%202024.png?itok=CiS6KJJO" width="640" height="205" alt="On The Ground logo for BLM Podcast" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="983b923d-2f96-4019-b391-e00761c40f28" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/YEP_Zeedyk_3.jpg?itok=01aKSq7Q" width="640" height="480" alt="a group of workers piling rocks in a stream channel" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Near Dillon, Montana, workers from the Youth Employment Program install "Zeedyk" structures: low-profile structures made of rocks designed to slow water in a stream channel in hopes of slowing erosion.</figcaption>
+</figure>
+
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p class="text-align-center"><strong><em>Click PLAY to listen</em></strong></p>
+
+<div data-embed-button="audio" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="3edb09ba-6e04-4ca2-bd2d-75fa3931a9f4" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-audio-file"><audio controls="controls">
+      <source src="https://www.blm.gov/sites/default/files/audio/2024-06/OTG_Youth%20Projects%202024_v2.mp3" type="audio/mpeg">
+  </audio>
+</div>
+      
+</div>
+</div>
+
+
+<p>The Bureau of Land Management works with youth through a variety of programs. Those who come to BLM Visitor Centers and at many public events can quickly find educational programs geared toward young people. BLM also contracts with organizations that hire youth between the ages of 16 and 30 to work on specific public land projects aimed at ecological restoration, noxious weed control, public information, and many other programs.&nbsp;</p>
+
+<p>In this episode of "On The Ground: A Bureau of Land Management Podcast," we talk with BLM Specialists putting young people to work. In addition to its regular appropriations from Congress, BLM received an infusion of funds from the Inflation Reduction Act to help train future public land stewards. We'll visit with Maya Fuller, BLM's National Lead for Youth Initiatives funded by IRA about the goals of youth outreach. We'll also talk with BLM specialists in Arizona, Utah and Montana about work planned this summer. And finally, we'll meet a college freshman in Colorado who hopes to make natural resources a future career.&nbsp;</p>
+
+<p>It's an extended edition of "On The Ground!"&nbsp;</p>
+
+<p>Interviews:&nbsp;</p>
+
+<ul>
+	<li>Maya Fuller, National Youth Coordinator for Inflation Reduction Act Projects</li>
+	<li>Rachel Shively, Restoration Landscape Specialist, BLM Arizona Strip Field Office, Arizona</li>
+	<li>Dustin Shaible, Wildlife Biologist, BLM Color Country District, Utah</li>
+	<li>Cory Manseau, Project Manager, BLM Dillon Field Office, Montana</li>
+	<li>Grace Wahl, Intern, BLM Kremmling Field Office, Colorado</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="9729e238-1b86-4273-9971-243322830a27" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Grace%20Wahl%201.jpg?itok=4RgwH_Vk" width="398" height="530" alt="a woman raises a flag at a BLM office" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Grace Wahl, an intern at the BLM's Kremmling (Colo.) Field Office, raises the flag at the office each morning. She works the front desk and answers questions for people wanting to visit public lands.</figcaption>
+</figure>
+
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h2>TRANSCRIPT: BLM invests in Youth programs and projects nationwide using Inflation Reduction Act funds</h2>
+
+<p><br>
+DAVID HOWELL (NARRATOR): &nbsp;The <a href="https://www.blm.gov/about/our-mission">mission of the Bureau of Land Management</a> is to sustain the health, diversity, and productivity of public lands for the use and enjoyment of present and future generations. The idea of working with an eye toward what we are leaving the generations yet to come is deeply engrained in BLM’s culture.&nbsp;</p>
+
+<p>I’m David Howell, and you’re listening to “On The Ground, a Bureau of Land Management Podcast.” BLM has been working for decades with youth organizations, and has also actively recruited students and recent college graduates to come work for the agency after graduation. The passage of the Inflation Reduction Act brought additional funding to BLM for youth programs – money that has been spread to offices and projects throughout the country.&nbsp;</p>
+
+<p>In this episode of “On The Ground,” we’re going to talk with people who are putting the next generation of land managers to work.&nbsp;</p>
+
+<p>HOWELL: We begin with Maya Fuller, BLM’s National Program Lead for this initiative, and Maya – you and I have been working on youth initiatives for a good share of our careers and sometimes the definitions switch up a little bit. In this case, what are we defining as “youth?”</p>
+
+<p>MAYA FULLER (NATIONAL YOUTH COORDINATOR for Inflation Reduction Act Projects): &nbsp;So “youth” for the BLM programs are aged 16 to 30 years old when we talk about youth employment. So when we are in the Youth Conservation Corps program, those are youth that are 16 to 30. We're also looking at youth programs that provide education or engagement opportunities that are sort of –I'm gonna say, “all ages” at one point. Are we not, you know, we're all kids, right? You know, we're all young at heart, but there is through the IRA funding, we're also looking at making investments in youth that are preschool, kindergarten, you know, up through high school. We also have opportunities to work with youth, sort of “all ages” in the volunteer stewardship side.&nbsp;</p>
+
+<p>HOWELL: Typically, what kinds of youth projects do we have kids working on?</p>
+
+<p>FULLER: You know, really if there's an opportunity to teach a young person about what we do, why we do it -- and at the same time lend some of our skills or, you know, have an experience where we can share some of our skills or our knowledge -- everything the BLM does, there's room for the youth program. So when you think about recreation, botany, plants, noxious, you know, noxious weeds, native seeds, forestry, you know all the way into rangelands and archaeology, there really isn't a single program that we have that you know again that youth can't get engaged in.&nbsp;</p>
+
+<p>HOWELL: For many young people, eradicating noxious weeds is usually a good starting place for learning about natural resources. North of the Grand Canyon, in what’s commonly called the Arizona Strip, Amy Shiveley is working with a team of young people from the Arizona Conservation Corps who are treating a patch of field bindweed, which is considered to be a noxious weed in Arizona.&nbsp;</p>
+
+<p>RACHEL SHIVELY (RESTORATION LANDSCAPE SPECIALIST, BLM’s Arizona Strip Field Office): &nbsp;And the name sort of indicates the issue with it. It forms these viny mats and will suffocate native vegetation. And so it takes a lot of effort to get it back under control so that we can give native plants a chance to come back and help restore the area. And it’s spread by birds, so it can end up out here in the middle of nowhere…</p>
+
+<p>HOWELL: Oh wow!</p>
+
+<p>SHIVELY: …where you don’t expect it, yeah. But this specific unit is 71 acres and it's a pretty gnarly patch. So, if they can turn it back to native vegetation, it will go a big way to restoring some of that habitat.</p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="2fa13f2c-a650-438a-bfe5-ee9efd30b761" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/ShivwitsEA_OT12_E_20200730%201.JPG?itok=wEVSY7iC" width="640" height="480" alt="a field of noxious weeds" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Field bindweed is an invasive plant that chokes out native plants (darker green plants above, in front of the ponderosa pines). The BLM's Arizona Strip Field Office in northern Arizona is using crews this summer to spray the weeds on 71 acres to give native plants a chance to regrow.</figcaption>
+</figure>
+
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>HOWELL: That's great. How long do you have the crew for this summer?</p>
+
+<p>SHIVELY: We have them this summer for four weeks and then again next year. And so we're going to see how well it responds to the herbicide after the first year before we know if it'll be ready for seeding early on.&nbsp;</p>
+
+<p>HOWELL: And then after they're done with you, do they go someplace else and work for other parts of the summer?</p>
+
+<p>SHIVELY: Yes. Yeah, they seem to be pretty booked up. They only had a few...they call their two week working period "hitches" and they only had a few of them available by the time we got all of our agreement in place. And I do think this crew is specifically certified for the herbicide application. And so they should be traveling all around Arizona and getting multiple experiences throughout the state.</p>
+
+<p>HOWELL: Sounds like everyone’s gonna be pretty busy this summer!</p>
+
+<p>SHIVELY: Yes, hopefully. That's the way we like it.</p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="e2d45c74-61f5-4b63-b90d-35dd09026a17" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/crew%20photos%205.22.24%20%282%29.JPG?itok=hFDe8uB6" width="640" height="480" alt="a crew prepares to spray weeds" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>West of Cedar City, Utah, a youth crew from the American Conservation Experience prepares to spray weeds near Quichipa Lake. The crew is certified for spray application.</figcaption>
+</figure>
+
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>HOWELL: A couple of hours north of the Arizona Strip lies Quichipa Lake, west of Cedar City, Utah. &nbsp;Dustin Shaible, a wildlife biologist for BLM, has been working with the local Water Conservancy District to figure out how to recharge the aquifer while also restoring wetlands that attract wildlife species. For Schaible, this means taking out another noxious invader: tamarisk.</p>
+
+<p>DUSTIN SCHAIBLE (WILDLIFE BIOLOGIST, BLM Color Country District): Yeah, I mean, the tamarisk is, it's like kind of a tricky one. There's a few different methods that we've used, including just pulling, piling and then burning the piles. This time we used a bull hog, which is a big machine that comes in and just mulches the tree all the way down to the ground. And then we come behind and spray it. We've done mow-and-spray -- kind of depends on how big the stand is that we're working. But it's been.. it's a tricky one! The Scotch thistle is a lot easier. You just we just come in and spray that before it flowers in the spring. And so that's a little bit more straightforward. But the tamarisk has largely been more of a…we’ve kind of been almost doing it in plots to see what works best.&nbsp;</p>
+
+<p>HOWELL: Yeah, it's kind of a beastly weed, isn't it?</p>
+
+<p>SCHAIBLE: It is, yeah. It can take over a system pretty quickly, but we've been trying to get rid of it and then also just replace right behind it. So we've been planting willows right behind it too, to try to get some of those more desirable species in that have a little bit more value for wildlife.</p>
+
+<p>HOWELL: &nbsp;For Scheible, contracting with youth groups helps BLM knock out a lot of work in a short amount of time, but for college students, it allows a peek into the world ahead.&nbsp;</p>
+
+<p>SCHAIBLE: &nbsp;The group that we just had out was American Conservation Experience. They have about 6 to 8 folks come out. And largely they're just in there, just doing hard manual labor; like, they literally have been working really hard for us. But like, I think a lot of those folks are the ones that are just trying to get their foot in the door, get a little bit more experience with natural resource management. They come in for probably, like, a week at a time or so. &nbsp;Through the same organization, we have, like, a wildlife intern program that we also use. And so we have those folks, like, kind of work a little bit more closely with us on a day-to-day basis and actually are based in our field office, and so they get a little bit different experience. But we definitely try to use the youth about a lot of things that we do.</p>
+
+<p>HOWELL: Weeds aren’t the only project for youth crews. In Dillon, Montana, BLM Project Manager Cory Manseau is working with two groups this summer to work on artificial beaver dams and dike structures designed to slow water down, creating wetlands for wildlife and reducing erosion. Manseau is working with the Montana Conservation Corps, and also with the Youth Employment Program (YEP), which recruits high school and college students from the local area.&nbsp;</p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="3d7aa4ac-c327-4d87-b124-f4bfb653170f" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/YEP_Zeedyk_7.jpg?itok=SVyld9Dc" width="640" height="480" alt="a group of people standing in a field listening to a trainer" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Near Dillon, Montana, workers from the Youth Employment Program (YEP) receive instruction from a BLM trainer on building Zeedyk structures, which are rock structures in streambeds designed to slow erosion.</figcaption>
+</figure>
+
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>CORY MANSEAU (Project Manager, BLM Dillon Field Office, Montana): They do heavy recruitment locally, both in the high school and then our small university here in Dillon. They do a lot of outreach and recruitment there, and they've expanded their recruitment to several other college campuses across the state as well. They also help us with drawing in applicants for our seasonal workforce. They help distribute our job announcements, and then many of the people that they hire on as their crew members oftentimes return to us as seasonal employees, you know, in later years after they worked for YEP. So it's a it's a great program to kind of help us to get some new employees in our system as well.</p>
+
+<p>HOWELL: How did you get involved in working with the youth programs?</p>
+
+<p>MANSEAU: I've been involved for several years, just more on a periphery, but since taking on the job of project manager and this job is specifically tied to the Inflation Reduction Act and our Missouri Headwaters Restoration landscape. So through this job I've I've become much more heavily involved with just helping to manage some of these projects that are being completed with these youth organizations. So yeah, it's really, really fun and exciting work, and just really rewarding.</p>
+
+<p>HOWELL: &nbsp;Many BLM specialists started out in youth programs like these, or (like me) as college interns. I couldn’t end this episode without talking with someone who is currently going through that experience – which led me to Grace Wahl, who works the front desk in BLM’s office in Kremmling, Colorado. Grace is a college freshman at the University of Wyoming, and is hoping that working for BLM will jumpstart her career.&nbsp;</p>
+
+<p>HOWELL: Do you have a major yet?</p>
+
+<p>GRACE WAHL (INTERN, BLM Kremmling Colorado Field Office): I do -- so I'm actually double majoring. So my first one is rangeland ecology and watershed management with the concurrent major of environmental and natural resources, and then with a minor in psychology with hopes to go to law school for my environmental law degree with a focus on water law so I can become a water attorney.</p>
+
+<p>HOWELL: Oh my goodness. Yeah, you've got plans!</p>
+
+<p>WAHL: Yes! So I grew up on a cattle ranch here in Kremmling, and I have seen first hand just how important water rights are, especially to the agricultural side, but since being here and working for the BLM, I also see how important it is for the government side, as well as just like the natural ecosystem.</p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="357107d3-1124-40d2-9c9d-61105c20d71e" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Grace%20Wahl%202.jpg?itok=Dbj85hZz" width="640" height="480" alt="two women look over a map" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Grace Wahl (above, in uniform), a freshman at the University of Wyoming, is an intern at the BLM's Kremmling Field Office in Colorado. She works at the front desk helping people with permits and information about recreation.</figcaption>
+</figure>
+
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>HOWELL: Cool. So when you're working the front desk, you're probably the first person that that people meet when they walk in the door. What do you what do you like about working with working up at the, you know, as folks come into the office there?</p>
+
+<p>WAHL: Well, I've seen just different backgrounds of people who likes to enjoy, like, rafting, or who likes to enjoy hiking. We also have a very large deposit of ammonites up in Kremmling, and so people like to go look at those fossils and just explaining that to them. Or for them going to go play up in Walden at the sand dunes, or just providing them with any information that I can, as well as also just seeing how excited they get about rafting or so on and so forth.</p>
+
+<p>FULLER: A water rights attorney is incredible. You know, I love that goal.</p>
+
+<p>HOWELL: &nbsp;That’s Maya Fuller again. And we talked about the experience of seeing the light come on in these young people.&nbsp;</p>
+
+<p>FULLER: Oh my gosh. You know what? I have met with young people who have never walked a path that isn't paved before, and BLM offered that first experience, you know, into the woods, out of out of a city. You know, coming across wildlife that they have never experienced before, just these really personal unique experience that then transcend to: “I wanna make this part of my life!” Or, you know, there was another story where we had a group that were doing inventory and monitoring projects counting frogs, and to have the professional biologists say, “This is what I do for a living!” &nbsp;And light bulbs - you could just see them going off, you know: “Wow, you get paid to be out here and, you know, this is just a great day for us. But this is your job!” Yeah. It really is inspiring to work with folks in this type of program.</p>
+
+<p>NARRATOR: Maya Fuller is the BLM’s National Youth Program Lead for the Inflation Reduction Act. &nbsp;We also heard from Rachel Shively in BLM’s Arizona Strip Field Office in St. George, Utah; Dustin Schaible from the Cedar City Field Office in Utah; Cory Manseau in the Dillon Field Office in Montana; and Grace Wahl at the Kremmling Field Office in Colorado.&nbsp;</p>
+
+<p>As always, we have photos on our website. You can find them at BLM.gov/blog, and that will get you to this and other podcasts in this series.&nbsp;</p>
+
+<p>I’m David Howell. Thanks for joining me, and we’ll see you out there “On The Ground.”&nbsp;<br>
+&nbsp;</p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="63c8b54f-78fb-412a-a3ba-c10137ab643f" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/OTG%20Podcast%20Brand%202024.png?itok=CiS6KJJO" width="640" height="205" alt="On The Ground logo for BLM Podcast" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/youth-and-educators" hreflang="en">Youth and Educators</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-06-24T12:00:00Z">Mon, 06/24/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/national-office" hreflang="en">National Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48576/edit" hreflang="en">Youth program in Montana</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/ground" hreflang="en">On the Ground</a></div>
+              <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
+              <div><a href="https://www.blm.gov/tag/youth-programs" hreflang="en">Youth Programs</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48576/edit" hreflang="en">Youth program in Montana</a></div>
+          </div> 
+
+<https://www.blm.gov/blog/2024-06-24/youth-group-celebrates-25-years-public-land-projects>
+
+---
+
+## Unleashing the Science - Cadastral Classroom Investigation Field Exercise
+
+date: 2024-06-24, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>PODCAST: BLM invests in Youth programs and projects nationwide using Inflation Reduction Act funds</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p>&nbsp;&nbsp;</p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="63c8b54f-78fb-412a-a3ba-c10137ab643f" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/OTG%20Podcast%20Brand%202024.png?itok=CiS6KJJO" width="640" height="205" alt="On The Ground logo for BLM Podcast" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="983b923d-2f96-4019-b391-e00761c40f28" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/YEP_Zeedyk_3.jpg?itok=01aKSq7Q" width="640" height="480" alt="a group of workers piling rocks in a stream channel" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Near Dillon, Montana, workers from the Youth Employment Program install "Zeedyk" structures: low-profile structures made of rocks designed to slow water in a stream channel in hopes of slowing erosion.</figcaption>
+</figure>
+
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p class="text-align-center"><strong><em>Click PLAY to listen</em></strong></p>
+
+<div data-embed-button="audio" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="3edb09ba-6e04-4ca2-bd2d-75fa3931a9f4" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-audio-file"><audio controls="controls">
+      <source src="https://www.blm.gov/sites/default/files/audio/2024-06/OTG_Youth%20Projects%202024_v2.mp3" type="audio/mpeg">
+  </audio>
+</div>
+      
+</div>
+</div>
+
+
+<p>The Bureau of Land Management works with youth through a variety of programs. Those who come to BLM Visitor Centers and at many public events can quickly find educational programs geared toward young people. BLM also contracts with organizations that hire youth between the ages of 16 and 30 to work on specific public land projects aimed at ecological restoration, noxious weed control, public information, and many other programs.&nbsp;</p>
+
+<p>In this episode of "On The Ground: A Bureau of Land Management Podcast," we talk with BLM Specialists putting young people to work. In addition to its regular appropriations from Congress, BLM received an infusion of funds from the Inflation Reduction Act to help train future public land stewards. We'll visit with Maya Fuller, BLM's National Lead for Youth Initiatives funded by IRA about the goals of youth outreach. We'll also talk with BLM specialists in Arizona, Utah and Montana about work planned this summer. And finally, we'll meet a college freshman in Colorado who hopes to make natural resources a future career.&nbsp;</p>
+
+<p>It's an extended edition of "On The Ground!"&nbsp;</p>
+
+<p>Interviews:&nbsp;</p>
+
+<ul>
+	<li>Maya Fuller, National Youth Coordinator for Inflation Reduction Act Projects</li>
+	<li>Rachel Shively, Restoration Landscape Specialist, BLM Arizona Strip Field Office, Arizona</li>
+	<li>Dustin Shaible, Wildlife Biologist, BLM Color Country District, Utah</li>
+	<li>Cory Manseau, Project Manager, BLM Dillon Field Office, Montana</li>
+	<li>Grace Wahl, Intern, BLM Kremmling Field Office, Colorado</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="9729e238-1b86-4273-9971-243322830a27" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Grace%20Wahl%201.jpg?itok=4RgwH_Vk" width="398" height="530" alt="a woman raises a flag at a BLM office" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Grace Wahl, an intern at the BLM's Kremmling (Colo.) Field Office, raises the flag at the office each morning. She works the front desk and answers questions for people wanting to visit public lands.</figcaption>
+</figure>
+
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h2>TRANSCRIPT: BLM invests in Youth programs and projects nationwide using Inflation Reduction Act funds</h2>
+
+<p><br>
+DAVID HOWELL (NARRATOR): &nbsp;The <a href="https://www.blm.gov/about/our-mission">mission of the Bureau of Land Management</a> is to sustain the health, diversity, and productivity of public lands for the use and enjoyment of present and future generations. The idea of working with an eye toward what we are leaving the generations yet to come is deeply engrained in BLM’s culture.&nbsp;</p>
+
+<p>I’m David Howell, and you’re listening to “On The Ground, a Bureau of Land Management Podcast.” BLM has been working for decades with youth organizations, and has also actively recruited students and recent college graduates to come work for the agency after graduation. The passage of the Inflation Reduction Act brought additional funding to BLM for youth programs – money that has been spread to offices and projects throughout the country.&nbsp;</p>
+
+<p>In this episode of “On The Ground,” we’re going to talk with people who are putting the next generation of land managers to work.&nbsp;</p>
+
+<p>HOWELL: We begin with Maya Fuller, BLM’s National Program Lead for this initiative, and Maya – you and I have been working on youth initiatives for a good share of our careers and sometimes the definitions switch up a little bit. In this case, what are we defining as “youth?”</p>
+
+<p>MAYA FULLER (NATIONAL YOUTH COORDINATOR for Inflation Reduction Act Projects): &nbsp;So “youth” for the BLM programs are aged 16 to 30 years old when we talk about youth employment. So when we are in the Youth Conservation Corps program, those are youth that are 16 to 30. We're also looking at youth programs that provide education or engagement opportunities that are sort of –I'm gonna say, “all ages” at one point. Are we not, you know, we're all kids, right? You know, we're all young at heart, but there is through the IRA funding, we're also looking at making investments in youth that are preschool, kindergarten, you know, up through high school. We also have opportunities to work with youth, sort of “all ages” in the volunteer stewardship side.&nbsp;</p>
+
+<p>HOWELL: Typically, what kinds of youth projects do we have kids working on?</p>
+
+<p>FULLER: You know, really if there's an opportunity to teach a young person about what we do, why we do it -- and at the same time lend some of our skills or, you know, have an experience where we can share some of our skills or our knowledge -- everything the BLM does, there's room for the youth program. So when you think about recreation, botany, plants, noxious, you know, noxious weeds, native seeds, forestry, you know all the way into rangelands and archaeology, there really isn't a single program that we have that you know again that youth can't get engaged in.&nbsp;</p>
+
+<p>HOWELL: For many young people, eradicating noxious weeds is usually a good starting place for learning about natural resources. North of the Grand Canyon, in what’s commonly called the Arizona Strip, Amy Shiveley is working with a team of young people from the Arizona Conservation Corps who are treating a patch of field bindweed, which is considered to be a noxious weed in Arizona.&nbsp;</p>
+
+<p>RACHEL SHIVELY (RESTORATION LANDSCAPE SPECIALIST, BLM’s Arizona Strip Field Office): &nbsp;And the name sort of indicates the issue with it. It forms these viny mats and will suffocate native vegetation. And so it takes a lot of effort to get it back under control so that we can give native plants a chance to come back and help restore the area. And it’s spread by birds, so it can end up out here in the middle of nowhere…</p>
+
+<p>HOWELL: Oh wow!</p>
+
+<p>SHIVELY: …where you don’t expect it, yeah. But this specific unit is 71 acres and it's a pretty gnarly patch. So, if they can turn it back to native vegetation, it will go a big way to restoring some of that habitat.</p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="2fa13f2c-a650-438a-bfe5-ee9efd30b761" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/ShivwitsEA_OT12_E_20200730%201.JPG?itok=wEVSY7iC" width="640" height="480" alt="a field of noxious weeds" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Field bindweed is an invasive plant that chokes out native plants (darker green plants above, in front of the ponderosa pines). The BLM's Arizona Strip Field Office in northern Arizona is using crews this summer to spray the weeds on 71 acres to give native plants a chance to regrow.</figcaption>
+</figure>
+
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>HOWELL: That's great. How long do you have the crew for this summer?</p>
+
+<p>SHIVELY: We have them this summer for four weeks and then again next year. And so we're going to see how well it responds to the herbicide after the first year before we know if it'll be ready for seeding early on.&nbsp;</p>
+
+<p>HOWELL: And then after they're done with you, do they go someplace else and work for other parts of the summer?</p>
+
+<p>SHIVELY: Yes. Yeah, they seem to be pretty booked up. They only had a few...they call their two week working period "hitches" and they only had a few of them available by the time we got all of our agreement in place. And I do think this crew is specifically certified for the herbicide application. And so they should be traveling all around Arizona and getting multiple experiences throughout the state.</p>
+
+<p>HOWELL: Sounds like everyone’s gonna be pretty busy this summer!</p>
+
+<p>SHIVELY: Yes, hopefully. That's the way we like it.</p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="e2d45c74-61f5-4b63-b90d-35dd09026a17" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/crew%20photos%205.22.24%20%282%29.JPG?itok=hFDe8uB6" width="640" height="480" alt="a crew prepares to spray weeds" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>West of Cedar City, Utah, a youth crew from the American Conservation Experience prepares to spray weeds near Quichipa Lake. The crew is certified for spray application.</figcaption>
+</figure>
+
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>HOWELL: A couple of hours north of the Arizona Strip lies Quichipa Lake, west of Cedar City, Utah. &nbsp;Dustin Shaible, a wildlife biologist for BLM, has been working with the local Water Conservancy District to figure out how to recharge the aquifer while also restoring wetlands that attract wildlife species. For Schaible, this means taking out another noxious invader: tamarisk.</p>
+
+<p>DUSTIN SCHAIBLE (WILDLIFE BIOLOGIST, BLM Color Country District): Yeah, I mean, the tamarisk is, it's like kind of a tricky one. There's a few different methods that we've used, including just pulling, piling and then burning the piles. This time we used a bull hog, which is a big machine that comes in and just mulches the tree all the way down to the ground. And then we come behind and spray it. We've done mow-and-spray -- kind of depends on how big the stand is that we're working. But it's been.. it's a tricky one! The Scotch thistle is a lot easier. You just we just come in and spray that before it flowers in the spring. And so that's a little bit more straightforward. But the tamarisk has largely been more of a…we’ve kind of been almost doing it in plots to see what works best.&nbsp;</p>
+
+<p>HOWELL: Yeah, it's kind of a beastly weed, isn't it?</p>
+
+<p>SCHAIBLE: It is, yeah. It can take over a system pretty quickly, but we've been trying to get rid of it and then also just replace right behind it. So we've been planting willows right behind it too, to try to get some of those more desirable species in that have a little bit more value for wildlife.</p>
+
+<p>HOWELL: &nbsp;For Scheible, contracting with youth groups helps BLM knock out a lot of work in a short amount of time, but for college students, it allows a peek into the world ahead.&nbsp;</p>
+
+<p>SCHAIBLE: &nbsp;The group that we just had out was American Conservation Experience. They have about 6 to 8 folks come out. And largely they're just in there, just doing hard manual labor; like, they literally have been working really hard for us. But like, I think a lot of those folks are the ones that are just trying to get their foot in the door, get a little bit more experience with natural resource management. They come in for probably, like, a week at a time or so. &nbsp;Through the same organization, we have, like, a wildlife intern program that we also use. And so we have those folks, like, kind of work a little bit more closely with us on a day-to-day basis and actually are based in our field office, and so they get a little bit different experience. But we definitely try to use the youth about a lot of things that we do.</p>
+
+<p>HOWELL: Weeds aren’t the only project for youth crews. In Dillon, Montana, BLM Project Manager Cory Manseau is working with two groups this summer to work on artificial beaver dams and dike structures designed to slow water down, creating wetlands for wildlife and reducing erosion. Manseau is working with the Montana Conservation Corps, and also with the Youth Employment Program (YEP), which recruits high school and college students from the local area.&nbsp;</p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="3d7aa4ac-c327-4d87-b124-f4bfb653170f" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/YEP_Zeedyk_7.jpg?itok=SVyld9Dc" width="640" height="480" alt="a group of people standing in a field listening to a trainer" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Near Dillon, Montana, workers from the Youth Employment Program (YEP) receive instruction from a BLM trainer on building Zeedyk structures, which are rock structures in streambeds designed to slow erosion.</figcaption>
+</figure>
+
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>CORY MANSEAU (Project Manager, BLM Dillon Field Office, Montana): They do heavy recruitment locally, both in the high school and then our small university here in Dillon. They do a lot of outreach and recruitment there, and they've expanded their recruitment to several other college campuses across the state as well. They also help us with drawing in applicants for our seasonal workforce. They help distribute our job announcements, and then many of the people that they hire on as their crew members oftentimes return to us as seasonal employees, you know, in later years after they worked for YEP. So it's a it's a great program to kind of help us to get some new employees in our system as well.</p>
+
+<p>HOWELL: How did you get involved in working with the youth programs?</p>
+
+<p>MANSEAU: I've been involved for several years, just more on a periphery, but since taking on the job of project manager and this job is specifically tied to the Inflation Reduction Act and our Missouri Headwaters Restoration landscape. So through this job I've I've become much more heavily involved with just helping to manage some of these projects that are being completed with these youth organizations. So yeah, it's really, really fun and exciting work, and just really rewarding.</p>
+
+<p>HOWELL: &nbsp;Many BLM specialists started out in youth programs like these, or (like me) as college interns. I couldn’t end this episode without talking with someone who is currently going through that experience – which led me to Grace Wahl, who works the front desk in BLM’s office in Kremmling, Colorado. Grace is a college freshman at the University of Wyoming, and is hoping that working for BLM will jumpstart her career.&nbsp;</p>
+
+<p>HOWELL: Do you have a major yet?</p>
+
+<p>GRACE WAHL (INTERN, BLM Kremmling Colorado Field Office): I do -- so I'm actually double majoring. So my first one is rangeland ecology and watershed management with the concurrent major of environmental and natural resources, and then with a minor in psychology with hopes to go to law school for my environmental law degree with a focus on water law so I can become a water attorney.</p>
+
+<p>HOWELL: Oh my goodness. Yeah, you've got plans!</p>
+
+<p>WAHL: Yes! So I grew up on a cattle ranch here in Kremmling, and I have seen first hand just how important water rights are, especially to the agricultural side, but since being here and working for the BLM, I also see how important it is for the government side, as well as just like the natural ecosystem.</p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="357107d3-1124-40d2-9c9d-61105c20d71e" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Grace%20Wahl%202.jpg?itok=Dbj85hZz" width="640" height="480" alt="two women look over a map" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Grace Wahl (above, in uniform), a freshman at the University of Wyoming, is an intern at the BLM's Kremmling Field Office in Colorado. She works at the front desk helping people with permits and information about recreation.</figcaption>
+</figure>
+
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>HOWELL: Cool. So when you're working the front desk, you're probably the first person that that people meet when they walk in the door. What do you what do you like about working with working up at the, you know, as folks come into the office there?</p>
+
+<p>WAHL: Well, I've seen just different backgrounds of people who likes to enjoy, like, rafting, or who likes to enjoy hiking. We also have a very large deposit of ammonites up in Kremmling, and so people like to go look at those fossils and just explaining that to them. Or for them going to go play up in Walden at the sand dunes, or just providing them with any information that I can, as well as also just seeing how excited they get about rafting or so on and so forth.</p>
+
+<p>FULLER: A water rights attorney is incredible. You know, I love that goal.</p>
+
+<p>HOWELL: &nbsp;That’s Maya Fuller again. And we talked about the experience of seeing the light come on in these young people.&nbsp;</p>
+
+<p>FULLER: Oh my gosh. You know what? I have met with young people who have never walked a path that isn't paved before, and BLM offered that first experience, you know, into the woods, out of out of a city. You know, coming across wildlife that they have never experienced before, just these really personal unique experience that then transcend to: “I wanna make this part of my life!” Or, you know, there was another story where we had a group that were doing inventory and monitoring projects counting frogs, and to have the professional biologists say, “This is what I do for a living!” &nbsp;And light bulbs - you could just see them going off, you know: “Wow, you get paid to be out here and, you know, this is just a great day for us. But this is your job!” Yeah. It really is inspiring to work with folks in this type of program.</p>
+
+<p>NARRATOR: Maya Fuller is the BLM’s National Youth Program Lead for the Inflation Reduction Act. &nbsp;We also heard from Rachel Shively in BLM’s Arizona Strip Field Office in St. George, Utah; Dustin Schaible from the Cedar City Field Office in Utah; Cory Manseau in the Dillon Field Office in Montana; and Grace Wahl at the Kremmling Field Office in Colorado.&nbsp;</p>
+
+<p>As always, we have photos on our website. You can find them at BLM.gov/blog, and that will get you to this and other podcasts in this series.&nbsp;</p>
+
+<p>I’m David Howell. Thanks for joining me, and we’ll see you out there “On The Ground.”&nbsp;<br>
+&nbsp;</p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="63c8b54f-78fb-412a-a3ba-c10137ab643f" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-05/OTG%20Podcast%20Brand%202024.png?itok=CiS6KJJO" width="640" height="205" alt="On The Ground logo for BLM Podcast" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/youth-and-educators" hreflang="en">Youth and Educators</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-06-24T12:00:00Z">Mon, 06/24/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/national-office" hreflang="en">National Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48576/edit" hreflang="en">Youth program in Montana</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/ground" hreflang="en">On the Ground</a></div>
+              <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
+              <div><a href="https://www.blm.gov/tag/youth-programs" hreflang="en">Youth Programs</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48576/edit" hreflang="en">Youth program in Montana</a></div>
+          </div> 
+
+<https://www.blm.gov/blog/2024-06-24/unleashing-science-cadastral-classroom-investigation-field-exercise>
 

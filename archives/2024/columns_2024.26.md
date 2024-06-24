@@ -1,11 +1,129 @@
 ---
 title: columns 2024.26
-updated: 2024-06-24 08:24:16
+updated: 2024-06-24 16:20:16
 ---
 
 # columns 2024.26
 
-(date: 2024-06-24 08:24:16)
+(date: 2024-06-24 16:20:16)
+
+---
+
+##  A Genealogy of Technology and Power Since 1500 
+
+date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/a-genealogy-of-technology-and-power-since-1500>
+
+---
+
+## ★ Apple Disables WebKit’s JIT in Lockdown Mode, Offering a Hint Why BrowserEngineKit Is Complex and Restricted
+
+date: 2024-06-24, updated: 2024-06-24, from: Daring Fireball
+
+To put it in Steven Sinofsky’s terms, gatekeeping is a fundamental aspect of Apple’s brand promise with iOS. 
+
+<https://daringfireball.net/2024/06/apple_disables_webkits_jit_in_lockdown_mode>
+
+---
+
+##  I knew the western US had become drier, but I hadn&#8217;t realized... 
+
+date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044862-i-knew-the-western-us>
+
+---
+
+##  The Art Book for Children 
+
+date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/the-art-book-for-children>
+
+---
+
+##  I am enjoying the empathetic trajectory of the Charli XCX and Lorde... 
+
+date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044863-i-am-enjoying-the-empathe>
+
+---
+
+##  Observers have reported a large red spot on Jupiter since the 1660s.... 
+
+date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044861-observers-have-reported-a>
+
+---
+
+##  How to Give Away a Fortune 
+
+date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/how-to-give-away-a-fortune>
+
+---
+
+##  How do actors memorize their lines? &#8220;Actors engage in elaborative rehearsal, focusing... 
+
+date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044732-how-do-actors-memorize-th>
+
+---
+
+##  Anxiety in Inside Out 2 Is Too Real 
+
+date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/anxiety-in-inside-out-2-is-too-real>
+
+---
+
+## June 23, 2024
+
+date: 2024-06-24, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/june-23-2024-5fd>
+
+---
+
+## Quick productivity tip: Renaming lots of files in MacOS Finder
+
+date: 2024-06-24, from: Chris Heilmann's blog
+
+When you select several files in Finder and choose &#8220;rename&#8221; from the context menu, you can batch rename them. You can search and replace text, add to beginning or end or even generate numbered file names. Sadly, there&#8217;s no Regular Expressions support. Check the screencast to see it in action: 
+
+<https://christianheilmann.com/2024/06/24/quick-productivity-tip-renaming-lots-of-files-in-macos-finder/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-24, from: Dave Winer's Scripting News)
+
+<a href="https://mastodon.social/@davew/112671576365142333">Heard</a> an interview show on NPR where they went to laundromats and asked people about the upcoming election. Big surprise they say pretty much exactly what they say on the news about the candidates, all of it <a href="https://en.wikipedia.org/wiki/False_balance#:~:text=False%20balance%2C%20known%20colloquially%20as,viewpoints%20than%20the%20evidence%20supports.">bothsidesisms</a> and no mention of the fascism coming our way if we go one direction. It's all everyone's fault, so why bother voting, is mostly what they say. SMH in disbelief. 
+
+<http://scripting.com/2024/06/24.html#a152539>
 
 ---
 
@@ -224,6 +342,16 @@ tip of the Iberian Peninsula. It has an area of 6.7 km2 (2.6 sq mi) and is
 bordered to the north by Spain (Campo de Gibraltar)." 
 
 <https://xn--gckvb8fzb.com/travel/uk/gibraltar/>
+
+---
+
+## Property Progress: Septic Tank Removal
+
+date: 2024-06-23, updated: 2024-06-23, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<https://www.sevarg.net/2024/06/23/septic-tank-removal/>
 
 ---
 

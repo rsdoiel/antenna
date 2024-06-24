@@ -1,11 +1,111 @@
 ---
 title: games 2024.26
-updated: 2024-06-24 08:24:17
+updated: 2024-06-24 16:20:17
 ---
 
 # games 2024.26
 
-(date: 2024-06-24 08:24:17)
+(date: 2024-06-24 16:20:17)
+
+---
+
+## Add a trio of games to your backlog for just $15 with the Fanatical Diamond Collection
+
+date: 2024-06-24, updated: 2024-06-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24183376/fanatical-gaming-fallout-arkane-dishonored-deal-sale>
+
+---
+
+## How to duplicate Remembrances in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-24, updated: 2024-06-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24184933/duplicate-remembrances-how-to-stone-coffin-altar-locations>
+
+---
+
+## All Elden Ring DLC Remembrance bosses and rewards
+
+date: 2024-06-24, updated: 2024-06-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183189/dlc-remembrance-all-rewards-how-to-get-sote>
+
+---
+
+## Fans are already coming up with wild theories about The Legend of Zelda: Echoes of Wisdom
+
+date: 2024-06-24, updated: 2024-06-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/zelda/24183247/zelda-echoes-wisdom-theories-trailer-analysis>
+
+---
+
+## How to beat Rellana, Twin Moon Knight in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-24, updated: 2024-06-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24182436/rellana-location-weakness-strategy-how-to-beat-sote-dlc>
+
+---
+
+## How to beat Ghostflame Dragons in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-24, updated: 2024-06-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24185125/ghostflame-dragon-locations-weakness-strategy-how-to-beat-sote-dlc>
+
+---
+
+## Nosferatu is coming to make vampires scary again
+
+date: 2024-06-24, updated: 2024-06-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24184946/nosferatu-trailer-release-date-cast-remake>
+
+---
+
+## How to beat Messmer the Impaler in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-24, updated: 2024-06-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24184831/messmer-location-weakness-strategy-how-to-beat-sote-dlc>
+
+---
+
+## You can pick up a Steam Deck for its lowest price ever if you hurry
+
+date: 2024-06-24, updated: 2024-06-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24185018/steam-deck-handheld-valve-deal-sale>
+
+---
+
+## Elden Ring’s DLC isn’t as difficult if you just run away
+
+date: 2024-06-24, updated: 2024-06-24, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24184982/elden-ring-dlc-shadow-erdtree-difficult-hard-boss>
 
 ---
 

@@ -1,11 +1,135 @@
 ---
 title: central coast 2024.26
-updated: 2024-06-24 08:24:15
+updated: 2024-06-24 16:20:15
 ---
 
 # central coast 2024.26
 
-(date: 2024-06-24 08:24:15)
+(date: 2024-06-24 16:20:15)
+
+---
+
+## No Reopening Time Yet for Highway 154 Closure as Crews Continue Emergency Work
+
+date: 2024-06-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="686" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062324-highway-154-crack-measurements-ph.jpg?fit=1024%2C686&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Crack measurements on Highway 154, which was still closed Monday afternoon for emergency repairs." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062324-highway-154-crack-measurements-ph.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062324-highway-154-crack-measurements-ph.jpg?resize=300%2C201&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062324-highway-154-crack-measurements-ph.jpg?resize=1024%2C686&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062324-highway-154-crack-measurements-ph.jpg?resize=768%2C515&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062324-highway-154-crack-measurements-ph.jpg?resize=1536%2C1029&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062324-highway-154-crack-measurements-ph.jpg?resize=2048%2C1372&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062324-highway-154-crack-measurements-ph.jpg?resize=1200%2C804&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062324-highway-154-crack-measurements-ph.jpg?resize=1568%2C1051&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062324-highway-154-crack-measurements-ph.jpg?resize=2000%2C1340&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062324-highway-154-crack-measurements-ph.jpg?resize=400%2C268&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062324-highway-154-crack-measurements-ph.jpg?resize=706%2C473&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062324-highway-154-crack-measurements-ph.jpg?fit=1024%2C686&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Highway 154 was still closed to traffic Monday afternoon as Caltrans assesses damage to the road and determines how long emergency repairs will take to complete. The highway was closed [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/no-reopening-time-yet-for-highway-154-closure-as-crews-continue-emergency-work/">No Reopening Time Yet for Highway 154 Closure as Crews Continue Emergency Work</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/no-reopening-time-yet-for-highway-154-closure-as-crews-continue-emergency-work/>
+
+---
+
+## Santa Barbara Talks: Emily Zacarias Says Amount of Social Media Bullying is ‘Unfathomable’
+
+date: 2024-06-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A quick internet search reveals an array of articles across the country showing young people dying by suicide over bullying. It&#8217;s an issue that Goleta Union School Board member Emily [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-talks-emily-zacarias-says-amount-of-social-media-bullying-is-unfathomable/">Santa Barbara Talks: Emily Zacarias Says Amount of Social Media Bullying is &#8216;Unfathomable&#8217;</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-talks-emily-zacarias-says-amount-of-social-media-bullying-is-unfathomable/>
+
+---
+
+## UCSB Police Dismantle Pro-Palestine Encampment, Arrest 5 People
+
+date: 2024-06-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062424-ucsb-encampment-shut-down-1-RC.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The UC Santa Barbara encampment occupied three lawns on campus until police dismantled it early Sunday morning." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062424-ucsb-encampment-shut-down-1-RC.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062424-ucsb-encampment-shut-down-1-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062424-ucsb-encampment-shut-down-1-RC.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062424-ucsb-encampment-shut-down-1-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062424-ucsb-encampment-shut-down-1-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062424-ucsb-encampment-shut-down-1-RC.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062424-ucsb-encampment-shut-down-1-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062424-ucsb-encampment-shut-down-1-RC.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062424-ucsb-encampment-shut-down-1-RC.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062424-ucsb-encampment-shut-down-1-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062424-ucsb-encampment-shut-down-1-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062424-ucsb-encampment-shut-down-1-RC.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Campus police arrested five people Sunday and dismantled the pro-Palestine encampment known as the UCSB Liberated Zone. Two women and three men were taken into custody at about 4 a.m. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsb-police-dismantle-pro-palestine-encampment-arrest-5-people/">UCSB Police Dismantle Pro-Palestine Encampment, Arrest 5 People</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsb-police-dismantle-pro-palestine-encampment-arrest-5-people/>
+
+---
+
+## Ventura Police Deploying Drones to Enforce July 4th Fireworks Ban
+
+date: 2024-06-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>With the Fourth of July approaching, the Ventura Police Department reminds community members that all fireworks are illegal within city limits. This year, the department is implementing new technology to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ventura-police-deploying-drones-to-enforce-july-4th-fireworks-ban/">Ventura Police Deploying Drones to Enforce July 4th Fireworks Ban</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ventura-police-deploying-drones-to-enforce-july-4th-fireworks-ban/>
+
+---
+
+## MTD’s 8th Annual Youth Art Poster Contest Gets Back to Nature
+
+date: 2024-06-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062424-ATannerMTDart-2000.gif?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Anika Tanner, a sixth-grader at Trivium Charter School, won a first place with her drawing of a turquoise and pink decorated bus with rainbow, trees and jungle animals in the background — depicting the contest theme of Nature Buses. (Courtesy photo)" decoding="async" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara MTD’s 8th Annual Youth Art Poster Contest held this spring attracted 120 entries from local students in grades one through. The contest theme was Nature Buses. The winning [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/mtds-8th-annual-youth-art-poster-contest-gets-back-to-nature/">MTD’s 8th Annual Youth Art Poster Contest Gets Back to Nature</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/mtds-8th-annual-youth-art-poster-contest-gets-back-to-nature/>
+
+---
+
+## Karen Telleen-Lawton: Sunset the Subsidies
+
+date: 2024-06-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>My brother- and sister-in-law had a great meal arrangement. Greg is an amateur gourmet chef. They love to entertain, which they did frequently for years. He cooks with panache and [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/karen-telleen-lawton-sunset-the-subsidies/">Karen Telleen-Lawton: Sunset the Subsidies  </a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/karen-telleen-lawton-sunset-the-subsidies/>
+
+---
+
+## Vista Del Mar School Celebrates First 8th Grade Class in Over Five Years
+
+date: 2024-06-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Vista del Mar Union School District in Gaviota hosted its first eighth-grade promotion ceremony in more than five years, a milestone that marks the resilience and dedication of the community [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/vista-del-mar-school-celebrates-first-8th-grade-class-in-over-five-years/">Vista Del Mar School Celebrates First 8th Grade Class in Over Five Years</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/vista-del-mar-school-celebrates-first-8th-grade-class-in-over-five-years/>
+
+---
+
+## Mad Hatter Transition House Fundraiser Boasts Top Dollar — $200,000
+
+date: 2024-06-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>This year&#8217;s 25th Mad Hatter Luncheon hosted by the Transition House Auxiliary exceeded all fundraising expectations, bringing in $200,000 for Transition House. The celebration at the Ritz-Carlton Bacara featured fancy [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/mad-hatter-transition-house-fundraiser-boasts-top-dollar-200000/">Mad Hatter Transition House Fundraiser Boasts Top Dollar — $200,000</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/mad-hatter-transition-house-fundraiser-boasts-top-dollar-200000/>
+
+---
+
+## Cass Ensberg: A Practical Solution to Restore and Promote State Street
+
+date: 2024-06-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-State-Street-Pre-Covid-Circulation-ce.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Proposed State Street enhancements." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-State-Street-Pre-Covid-Circulation-ce.jpg?w=1422&amp;ssl=1 1422w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-State-Street-Pre-Covid-Circulation-ce.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-State-Street-Pre-Covid-Circulation-ce.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-State-Street-Pre-Covid-Circulation-ce.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-State-Street-Pre-Covid-Circulation-ce.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-State-Street-Pre-Covid-Circulation-ce.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-State-Street-Pre-Covid-Circulation-ce.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/1-State-Street-Pre-Covid-Circulation-ce.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>[Noozhawk’s note: One year ago, Santa Barbara architect Cass Ensberg proposed a number of straightforward recommendations to enhance downtown Santa Barbara and lure back locals while the city explores a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/cass-ensberg-a-practical-solution-to-restore-and-promote-state-street/">Cass Ensberg: A Practical Solution to Restore and Promote State Street</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/cass-ensberg-a-practical-solution-to-restore-and-promote-state-street/>
+
+---
+
+## Mary Hunt: 7 Easy Ways to Slash the Cost of Clothing
+
+date: 2024-06-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Clothing is not optional, but spending a lot of money on it is, says author Gregory Karp in his book Living Rich by Spending Smart. Off the top of your [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/mary-hunt-7-easy-ways-to-slash-the-cost-of-clothing/">Mary Hunt: 7 Easy Ways to Slash the Cost of Clothing</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/mary-hunt-7-easy-ways-to-slash-the-cost-of-clothing/>
 
 ---
 
