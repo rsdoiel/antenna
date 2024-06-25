@@ -1,11 +1,181 @@
 ---
 title: going electric 2024.26
-updated: 2024-06-24 16:20:19
+updated: 2024-06-25 08:32:57
 ---
 
 # going electric 2024.26
 
-(date: 2024-06-24 16:20:19)
+(date: 2024-06-25 08:32:57)
+
+---
+
+## Tesla Cybertruck's Massive Wiper Triggers Recall Of 12,000 Trucks
+
+date: 2024-06-25, from: Inside EVs News
+
+Plus, Americans want to own their car data and EV charging signage sucks. 
+
+<https://insideevs.com/news/724482/tesla-cybertruck-wiper-call-12000/>
+
+---
+
+## New Kawasaki W175 Brings The Retro Modern Fun, Won't Break The Bank
+
+date: 2024-06-25, from: Ride Apart, Electric Motorcycle News
+
+If you ever wished the W800 came in a smaller displacement, you should see what Kawasaki has going on in Indonesia. 
+
+<https://www.rideapart.com/news/724393/kawasaki-w175-cafe-se-blackstyle/>
+
+---
+
+## Stellantis Could Bring Ram ProMaster City Back As An Electric Van
+
+date: 2024-06-25, from: Inside EVs News
+
+The Ram ProMaster City was discontinued in 2022, but it could return as an EV van based on the Citroen Ë-Jumpy. 
+
+<https://insideevs.com/news/724483/ram-promaster-city-ev-return/>
+
+---
+
+## EcoFlow launches massive DELTA Pro 3 that can power 99% of your home appliances
+
+date: 2024-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/tesla-ecoflow-charging-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>EcoFlow, one of the most well-known names in the portable power station industry, today announced the launch of the company’s new EcoFlow<a href="https://www.ecoflow.com/us/delta-pro-3-portable-power-station" target="_blank" rel="noreferrer noopener"> DELTA Pro 3</a>, an ultra-powerful portable power station that EcoFlow says is powerful enough to handle 99% of home appliances. For everything from refrigerators to air conditioning units and more, this is the big boy we’ve been waiting for.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/25/ecoflow-launches-massive-delta-pro-3-that-can-power-99-of-your-home-appliances/#more-368987" data-post-id="368987" data-layer-pagetype="post" data-layer-postcategory="battery-backup,ecoflow" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/25/ecoflow-launches-massive-delta-pro-3-that-can-power-99-of-your-home-appliances/>
+
+---
+
+## KTM's XC-W Dirt Bike Updates Aren't Actually Small, and 2-Strokes Remain
+
+date: 2024-06-25, from: Ride Apart, Electric Motorcycle News
+
+After a near-total redesign for 2024, we weren't expecting much more from the 2025 XC-W lineup. KTM must have missed the memo. 
+
+<https://www.rideapart.com/news/724389/2025-ktm-xcw-lineup/>
+
+---
+
+## BYD launches $33K Seal EV to challenge Toyota in its own backyard
+
+date: 2024-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/BYD-Seal-Toyota-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s leading automaker, <a href="https://electrek.co/guides/byd/">BYD</a>, is taking on Toyota in its home market. As it expands into Toyota’s territory, BYD launched the Seal EV in Japan on Tuesday, its third electric car in the country.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/25/byd-launches-33k-seal-ev-to-rival-toyota-in-its-own-backyard/#more-368970" data-post-id="368970" data-layer-pagetype="post" data-layer-postcategory="byd,toyota" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/25/byd-launches-33k-seal-ev-to-rival-toyota-in-its-own-backyard/>
+
+---
+
+## Totaled Tesla Cybertrucks Are Headed To Salvage Auctions
+
+date: 2024-06-25, from: Inside EVs News
+
+It looks like it doesn't take much to take out a Cybertruck 
+
+<https://insideevs.com/news/724374/tesla-cybertruck-totaled-going-auction/>
+
+---
+
+## If You Fart In This Motorcycle Rain Canopy Creation, You Might Die
+
+date: 2024-06-25, from: Ride Apart, Electric Motorcycle News
+
+Not just because you're Dutch ovening yourself after a burrito, but it's gonna fog up. 
+
+<https://www.rideapart.com/news/724361/custom-motorcycle-rain-canopy-windshield/>
+
+---
+
+## There’s a Street-Legal Rally Motorcycle Coming to the US, and It’s Awesome
+
+date: 2024-06-25, from: Ride Apart, Electric Motorcycle News
+
+Who wouldn’t want a rally-ready bike for the road?  
+
+<https://www.rideapart.com/news/724188/kove-450-rally-street-legal-usa/>
+
+---
+
+## A Year From Now, Honda's Super Cub 50 Will Get The Axe In Japan
+
+date: 2024-06-25, from: Ride Apart, Electric Motorcycle News
+
+It's the end of an era, and it's not the only bike facing this fate, either. 
+
+<https://www.rideapart.com/news/724364/honda-50cc-bikes-discontinued-2025/>
+
+---
+
+## Honda’s Rubicon 4x4 and Pioneer 520 ATVs Are Ready To Shake up the Trails
+
+date: 2024-06-25, from: Ride Apart, Electric Motorcycle News
+
+All-around four-wheelers for both work and play.  
+
+<https://www.rideapart.com/news/724191/2025-honda-rubicon-4x4-pioneer-520/>
+
+---
+
+## Tesla recalls over 11,000 Cybertrucks over trim detaching and wiper issue
+
+date: 2024-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Tesla-Cybertruck-smuggle-russia.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has issued two new recalls for the Cybertruck over a trim in the bed that can detach while driving and a defective windshield wiper.</p>
+
+
+
+<p>The recalls reveal that Tesla has built over 11,000 Cybertrucks.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/25/tesla-recalls-over-11000-cybertrucks-over-trim-detaching-wiper-issue/#more-368966" data-post-id="368966" data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/25/tesla-recalls-over-11000-cybertrucks-over-trim-detaching-wiper-issue/>
+
+---
+
+## This Cheap Go-Kart Kit Doesn't Need an Engine Swap, But You Know You Want To
+
+date: 2024-06-25, from: Ride Apart, Electric Motorcycle News
+
+Oh, the possibilities! 
+
+<https://www.rideapart.com/news/724351/go-power-sports-bolt-go-kart-kit-engine-swap/>
+
+---
+
+## Ready for Production, China’s 8 Cylinder Honda Gold Wing Killer Is Coming Soon
+
+date: 2024-06-25, from: Ride Apart, Electric Motorcycle News
+
+Great Wall is keen on taking the premium motorcycle market by storm.  
+
+<https://www.rideapart.com/news/724185/gwm-s2000gl-goldwing-killer-coming-soon/>
+
+---
+
+## BP’s Castrol invests $50M in Gogoro, leading EV battery-swapping provider
+
+date: 2024-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/05/gogoro-korea-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>According to a joint announcement, Castrol, a global leader in lubricants and part of the oil giant BP, today announced an investment of up to US$50 million in Gogoro, a global technology leader in battery-swapping ecosystems.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/25/bps-castrol-invests-50m-in-gogoro-leading-ev-battery-swapping-provider/#more-368956" data-post-id="368956" data-layer-pagetype="post" data-layer-postcategory="battery-swap,bp,electric-scooter,gogoro" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/25/bps-castrol-invests-50m-in-gogoro-leading-ev-battery-swapping-provider/>
 
 ---
 

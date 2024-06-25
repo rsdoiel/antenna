@@ -1,11 +1,166 @@
 ---
 title: columns 2024.26
-updated: 2024-06-24 16:20:16
+updated: 2024-06-25 08:32:54
 ---
 
 # columns 2024.26
 
-(date: 2024-06-24 16:20:16)
+(date: 2024-06-25 08:32:54)
+
+---
+
+##  Oreo Kintsugi 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/oreo-kintsugi>
+
+---
+
+## Reuters: Amazon Is Considering $5 Monthly Charge for Improved Alexa
+
+date: 2024-06-25, updated: 2024-06-25, from: Daring Fireball
+
+ 
+
+<https://www.reuters.com/technology/amazon-mulls-5-10-monthly-price-tag-unprofitable-alexa-service-ai-revamp-2024-06-21/>
+
+---
+
+## Gurman Just Pantsed the WSJ on Their Report About Apple and Meta Working on an AI Deal
+
+date: 2024-06-25, updated: 2024-06-25, from: Daring Fireball
+
+ 
+
+<https://www.bloomberg.com/news/articles/2024-06-24/apple-spurned-idea-of-iphone-ai-partnership-with-meta-months-ago>
+
+---
+
+##  US Surgeon General Vivek Murthy declares gun violence a public health crisis.... 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044866-us-surgeon-general-vivek->
+
+---
+
+##  &#8220;Since Texas&#8217; ban on abortion went into effect, infant deaths in the... 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044865-since-texas-ban-on-aborti>
+
+---
+
+## The podcast-only feed, part 1
+
+date: 2024-06-25, from: Dave Winer's Scripting News
+
+<p>I'm getting my podcast-only feed for Scripting News ready. </p>
+<p>It's going to be an Apple-compliant podcast feed. </p>
+<p>Of course when it came time to do the logo I went to my reasonably-priced graphics consultant, ChatGPT. It came breathtakingly close on the first attempt, but it repeated part of the story. Every time I asked it to fix a problem, it created another problem, and the image brightness was reduced, not just in terms of pixels but also the creativity of the image. Of course it isn't really creative. I know. Yadda yadda. </p>
+<p>Finally I got something that I could live with that I liked but was imperfect. I decided that since the motto of my blog is "It's even worse than it appears" that an obvious imperfection is totally consistent with the philosophy, and we move onward. As they say, still diggin!</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/25/scriptingNewsInlineImageVersion.png"></center>It's even worse than *@#) appears.</div></p>
+<p>The prompt for the image: "I'm sure you're aware of my blog, Scripting News, scripting.com. I am doing a new podcast feed for the blog. This feed is designed to get through Apple's submission process so it can be listed in their podcast database. One of the requirements is a 3000 by 3000 image that serves as a logo for the podcast. I need something simple and bold that says 'Scripting News podcast' and then 'With Dave Winer and friends' and 'It's even worse than it appears.' On a background of corn fields in Iowa viewed from the air."</p>
+ 
+
+<http://scripting.com/2024/06/25/134922.html?title=thePodcastonlyFeedPart1>
+
+---
+
+## Breaking the M-209
+
+date: 2024-06-25, updated: 2024-06-25, from: Bruce Schneier blog
+
+<p>Interesting <a href="https://dspace.ut.ee/server/api/core/bitstreams/f707e86c-a7d6-421b-b904-267439ee1cee/content">paper</a> about a German cryptanalysis machine that helped break the US <a href="https://www.cryptomuseum.com/crypto/hagelin/m209/">M-209</a> mechanical ciphering machine.</p>
+<p>The paper contains a good description of how the M-209 works.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/06/breaking-the-m-209.html>
+
+---
+
+## Valuing the future
+
+date: 2024-06-25, from: Enlightenment Economics blog
+
+Discounting the Future: The Ascendancy of a Political Technology by Liliana Doganova is an interesting read. I don&#8217;t entirely agree with its perspective, which is that the concept of discounted cash flow or net present value is inherently damaging to &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2024/06/valuing-the-future/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2024/06/valuing-the-future/>
+
+---
+
+## The taxing difference
+
+date: 2024-06-25, from: Robert Reich's blog
+
+Trump&#8217;s and Biden&#8217;s tax policies need more coverage because they&#8217;re opposites. Biden&#8217;s is progressive. Trump&#8217;s is regressive. 
+
+<https://robertreich.substack.com/p/the-taxing-difference>
+
+---
+
+## June 24, 2024 
+
+date: 2024-06-25, from: Heather Cox Richardson blog
+
+Two years ago today, on June 24, 2022, the U.S. Supreme Court handed down the Dobbs v. Jackson Women&#8217;s Health Organization decision, overturning the 1973 Roe v. Wade decision that recognized a woman&#8217;s right to terminate a pregnancy. The vote was 6&#8211;3. 
+
+<https://heathercoxrichardson.substack.com/p/june-24-2024>
+
+---
+
+## Briefly on Julian Assange
+
+date: 2024-06-25, from: Jessica Smith's blog
+
+<p>So, Viv and I were in the car this morning when we heard about the Assange plea deal.</p>
+<p>Viv: omg, finally! I only hope he&rsquo;ll now give up hacking 😔<br>
+Me: Hmm, or maybe he should give up non-consensual sex. That&rsquo;s where he went wrong, isn&rsquo;t it?<br>
+Viv: &hellip;true</p>
+<p>I mean, fuck. I know this prosecution has been politically motivated, purely to punish him for his role exposing Western war crimes. The charges he&rsquo;s accepted a plea deal over are the US &ldquo;espionage&rdquo; ones, after all, not the Swedish sexual assault ones, which were dropped long ago. And I don&rsquo;t support politically-motivated prosecutions of people who expose war crimes. But I&rsquo;ve also never been comfortable with any kind of personalised &ldquo;I support Assange&rdquo; sentiment, as if he were a righteous martyr, rather than &ldquo;I support exposing those who commit war crimes&rdquo;.</p>
+<p>Back in my student activist days, I once got stuck doing a stall where we were trying to get signatures on a petition calling for Assange&rsquo;s charges to be dropped (and this was back when they were the sexual assault charges, not the espionage ones). The organiser of the stall knew full well the attitude I was going to take to this, so he gave me a stack of leaflets and told me to hand them out around Campus Centre. I took the stack, went upstairs, dropped them all straight in the bin, then chilled out in the cafeteria for an hour before reporting back. I think he knew that&rsquo;s what I was going to do, too, lol. I didn&rsquo;t get scolded for skipping out on nearly the whole stall, which I usually would&rsquo;ve been.</p>
+<p>Anyway, Assange is married now, so maybe he has straightened himself out. I don&rsquo;t know. I think it&rsquo;s good there&rsquo;s a resolution at last to the political prosecution (although I would note, cynically, that so many years have passed that the &ldquo;deterrence&rdquo; objective has already been achieved, and the, uh, short-term memory of the political establishment means no one cares what happened during the War on Terror any more, anyway). But Assange himself is still an asshole.</p> 
+
+<https://www.jayeless.net/2024/06/assange-plea-deal.html>
+
+---
+
+## Wordle Kitty on top of the world
+
+date: 2024-06-25, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/24/wordleKittyImpressive.png"></center>Another impressive day for Wordle Kitty! </div></p>
+ 
+
+<http://scripting.com/2024/06/24/025057.html?title=wordleKittyOnTopOfTheWorld>
+
+---
+
+## [Sponsor] WorkOS
+
+date: 2024-06-25, updated: 2024-06-25, from: Daring Fireball
+
+ 
+
+<https://workos.com/?utm_source=daringfireball&utm_medium=display&utm_campaign=q12024>
+
+---
+
+## European Commission Dings Apple Over Anti-Steering Provisions in App Store, and Opens New Investigations Into Core Technology Fee, Sideloading Protections, and the Eligibility Requirements to Offer an Alternative Marketplace
+
+date: 2024-06-24, updated: 2024-06-25, from: Daring Fireball
+
+ 
+
+<https://ec.europa.eu/commission/presscorner/detail/en/IP_24_3433>
 
 ---
 
@@ -21,7 +176,7 @@ date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
 
 ## ★ Apple Disables WebKit’s JIT in Lockdown Mode, Offering a Hint Why BrowserEngineKit Is Complex and Restricted
 
-date: 2024-06-24, updated: 2024-06-24, from: Daring Fireball
+date: 2024-06-24, updated: 2024-06-25, from: Daring Fireball
 
 To put it in Steven Sinofsky’s terms, gatekeeping is a fundamental aspect of Apple’s brand promise with iOS. 
 
@@ -289,7 +444,7 @@ date: 2024-06-24, updated: 2024-06-24, from: Peter Sefton's Blog
 
 ## ★ WWDC 2024: Apple Intelligence
 
-date: 2024-06-23, updated: 2024-06-24, from: Daring Fireball
+date: 2024-06-23, updated: 2024-06-25, from: Daring Fireball
 
 Apple is focusing on what it can do that no one else can on Apple devices, and not really even trying to compete against ChatGPT *et al.* for world-knowledge context. They’re focusing on unique differentiation, and eschewing commoditization. 
 

@@ -1,11 +1,91 @@
 ---
 title: games 2024.26
-updated: 2024-06-24 16:20:17
+updated: 2024-06-25 08:32:55
 ---
 
 # games 2024.26
 
-(date: 2024-06-24 16:20:17)
+(date: 2024-06-25 08:32:55)
+
+---
+
+## New DLC armor locations in Elden Ring Shadow of the Erdtree
+
+date: 2024-06-25, updated: 2024-06-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180255/all-new-dlc-armor-set-locations>
+
+---
+
+## 15 Elden Ring-ass movies to watch when you’re not playing Elden Ring
+
+date: 2024-06-25, updated: 2024-06-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/what-to-watch/22981316/movies-like-elden-ring-dark-souls-fantasy-movies>
+
+---
+
+## How to beat Ghostflame Dragons in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-25, updated: 2024-06-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24185125/ghostflame-dragon-locations-weakness-strategy-how-to-beat-sote-dlc>
+
+---
+
+## New DLC spell locations in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-25, updated: 2024-06-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180257/all-spell-locations>
+
+---
+
+## How to get to the Ruins of Unte in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-25, updated: 2024-06-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24185145/ruins-of-unte-location-how-to-get-enter>
+
+---
+
+## Mattel’s most popular games are now colorblind accessible
+
+date: 2024-06-25, updated: 2024-06-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/6/25/24184822/mattel-accessibility-games-uno-donation-colorblind-summer-camp>
+
+---
+
+## Amazon Prime Day 2024 is coming this July — here’s how to get ready
+
+date: 2024-06-25, updated: 2024-06-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/amazon-prime-day/24183351/amazon-prime-day-2024-start-end-date-sales-deals-sign-up>
+
+---
+
+## Can Morelull be shiny in Pokémon Go?
+
+date: 2024-06-25, updated: 2024-06-25, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24184830/can-morelull-be-shiny-shiinotic>
 
 ---
 
@@ -56,16 +136,6 @@ date: 2024-06-24, updated: 2024-06-24, from: Polygon Website
  
 
 <https://www.polygon.com/elden-ring-shadow-erdtree-guide/24182436/rellana-location-weakness-strategy-how-to-beat-sote-dlc>
-
----
-
-## How to beat Ghostflame Dragons in Elden Ring: Shadow of the Erdtree
-
-date: 2024-06-24, updated: 2024-06-24, from: Polygon Website
-
- 
-
-<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24185125/ghostflame-dragon-locations-weakness-strategy-how-to-beat-sote-dlc>
 
 ---
 
@@ -176,16 +246,6 @@ date: 2024-06-24, updated: 2024-06-24, from: Polygon Website
  
 
 <https://www.polygon.com/24182584/house-dragon-aemond-daemon-interview-episode-2>
-
----
-
-## New DLC spell locations in Elden Ring: Shadow of the Erdtree
-
-date: 2024-06-23, updated: 2024-06-23, from: Polygon Website
-
- 
-
-<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180257/all-spell-locations>
 
 ---
 

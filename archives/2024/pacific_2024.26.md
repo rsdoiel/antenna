@@ -1,11 +1,562 @@
 ---
 title: pacific 2024.26
-updated: 2024-06-24 16:20:14
+updated: 2024-06-25 08:32:52
 ---
 
 # pacific 2024.26
 
-(date: 2024-06-24 16:20:14)
+(date: 2024-06-25 08:32:52)
+
+---
+
+## Notes from FestPac: The friends we made, the songs we heard and the struggles we shared  
+
+date: 2024-06-25, from: Pacific Island Times
+
+By Johanna Salinas The 2016 Festival of the Pacific on Guam gave me a sense of deep connection to my culture, my ancestors and my fellow... 
+
+<https://www.pacificislandtimes.com/post/notes-from-festpac-the-friends-we-made-the-songs-we-heard-and-the-struggles-we-shared>
+
+---
+
+## Guam Customs intercepts cargo container crawling with destructive beetle species 
+
+date: 2024-06-25, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Guam Customs and Quarantine Agency has stopped the entry of a 40-foot shipping container from... 
+
+<https://www.pacificislandtimes.com/post/guam-customs-intercepts-cargo-container-crawling-with-destructive-beetle-species>
+
+---
+
+## Lakers officially name JJ Redick as coach: Why storied franchise pursued the former player-turned-analyst
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>The Los Angeles Lakers named JJ Redick as coach, the team announced Monday. Redick, the 29th coach in franchise history, was officially introduced at a news conference Monday afternoon.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/sports/lakers-officially-name-jj-redick-as-coach-why-storied-franchise-pursued-the-former-player-turned-analyst/>
+
+---
+
+## Let’s Talk Food: Cooking with children
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>With the children off for the summer, this is a good time to cook with them and teach them some culinary skills. It is something very important to me as eventually they will be on their own and if they can cook, you need not worry about them. Artemis, age 5, told me she wanted me to teach her how to cook so she will have 100 boyfriends.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/community/lets-talk-food-cooking-with-children-3/>
+
+---
+
+## Kai ‘Ehitu dominates weekend regatta
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>Over 1,200 individual paddlers and 321 crews competed in Moko O Hawai&#8216;i&#8217;s eighth race of the 2024 season Saturday in Hilo Bay. Sponsored by Keaukaha Canoe Club, the race was additionally the third regatta of the year. Over 500 paddlers were keiki.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/sports/kai-ehitu-dominates-weekend-regatta/>
+
+---
+
+## One contender remains to develop new stadium
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>The loss of one of the two master-developer candidates is not expected to further delay construction of the New Aloha Stadium Entertainment District, state and University of Hawaii officials insisted.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/sports/one-contender-remains-to-develop-new-stadium/>
+
+---
+
+## Panthers win franchise’s first Stanley Cup with Game 7 win over Oilers
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>From the outset, the Florida Panthers said this was going to happen. They made the declaration in training camp that they were going to finish the job they couldn&#8217;t finish last year. The 2023-24 season would not be a success without a Stanley Cup.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/sports/panthers-win-franchises-first-stanley-cup-with-game-7-win-over-oilers/>
+
+---
+
+## Unlikely wild animals are being smuggled into US ports: Corals
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>You might imagine that when federal wildlife inspectors search for illegally trafficked animal goods, they&#8217;d be on the lookout for elephant ivory or tiger skins. But other creatures are frequently being seized at American ports of entry, creatures you perhaps would not realize are animals: corals.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/nation-world-news/unlikely-wild-animals-are-being-smuggled-into-us-ports-corals/>
+
+---
+
+## Biden lands first blows in debate with Trump before it’s even started
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>Joe Biden has landed the first blows in his debate with Donald Trump before it&#8217;s even begun.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/opinion/biden-lands-first-blows-in-debate-with-trump-before-its-even-started/>
+
+---
+
+## Clarence Thomas and John Roberts are at a fork in the road
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>Two years ago, when the Supreme Court decided New York State Rifle and Pistol Association Inc. v. Bruen, it created a jurisprudential mess that scrambled American gun laws. On Friday not only did the cleanup begin, but the Supreme Court also cleared the way for one of the most promising legal innovations for preventing gun violence: red flag laws.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/opinion/clarence-thomas-and-john-roberts-are-at-a-fork-in-the-road/>
+
+---
+
+## Wastewater discharge reported
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County on Sunday reported an estimated 607,000 gallons of &#8220;nonchlorinated secondary treated effluent&#8221; was discharged Friday from the Hilo Wastewater Treatment Plant between 8:15 a.m. and 12:30 p.m.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/hawaii-news/wastewater-discharge-reported/>
+
+---
+
+## Grisly murder case drags on: Puna man is accused of shooting to death his wife, children in 2016
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>The court-appointed attorney for a 57-year-old Pahoa man accused of killing his wife and two children eight years ago has been granted a private investigator, at taxpayers&#8217; expense, to ascertain the history of mental health in his client&#8217;s family.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/hawaii-news/grisly-murder-case-drags-on-puna-man-is-accused-of-shooting-to-death-his-wife-children-in-2016/>
+
+---
+
+## Popular North Shore surfer, lifeguard dies after attack by shark
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>A popular Pipeline big-wave surfer died Sunday on the North Shore after he was bitten by a shark while surfing during a break from his city life-guarding shift.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/hawaii-news/popular-north-shore-surfer-lifeguard-dies-after-attack-by-shark/>
+
+---
+
+## Hawaii Army units help prepare Philippines in ongoing dispute
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii-based Army units are continuing to play a central role in U.S.- Philippine relations as tensions mount between China and the Philippines.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/hawaii-news/hawaii-army-units-help-prepare-philippines-in-ongoing-dispute/>
+
+---
+
+## Isle firm aims to cut cost of laying power lines underground
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>Putting more power lines underground is an expensive part of a plan by the state&#8217;s largest electrical utility to reduce wildfire risk, and that price could come down under an ongoing national effort with a Hawaii connection.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/hawaii-news/isle-firm-aims-to-cut-cost-of-laying-power-lines-underground/>
+
+---
+
+## Russia promises retaliation against US for Ukraine strike on Crimea
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>MOSCOW &#8212; The Kremlin on Monday squarely blamed the United States for an attack on Crimea with U.S.-supplied ATACMS missiles that killed at least four people and injured 151, and Moscow formally warned the U.S. ambassador that retaliation would follow.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/nation-world-news/russia-promises-retaliation-against-us-for-ukraine-strike-on-crimea/>
+
+---
+
+## Supreme Court enters crunch time for term loaded with big issues
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court has yet to issue opinions this term in about a dozen major cases that could rock the country&#8217;s politics and reshape the law on issues such as abortion, government regulation of speech online and the reach of the administrative state.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/nation-world-news/supreme-court-enters-crunch-time-for-term-loaded-with-big-issues/>
+
+---
+
+## Voyager 1, after major malfunction, is back from the brink, NASA says
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>Several months after a grave computer problem seemed to spell the end for Voyager 1, which for nearly a half-century had provided data on the outer planets and the far reaches of the solar system, NASA announced recently that it had restored the spacecraft to working order.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/nation-world-news/voyager-1-after-major-malfunction-is-back-from-the-brink-nasa-says-2/>
+
+---
+
+## Judge skeptical of requests to muzzle Trump attacks on FBI
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>FORT PIERCE, Florida &#8212; The judge overseeing Donald Trump&#8217;s classified-documents case reacted skeptically on Monday to a request from prosecutors to bar the former president from making statements that could endanger law enforcement agents who have worked on the case.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/nation-world-news/judge-skeptical-of-requests-to-muzzle-trump-attacks-on-fbi/>
+
+---
+
+## WikiLeaks’ Julian Assange to be freed after pleading guilty to US Espionage Act charge
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/SYDNEY &#8212; WikiLeaks founder Julian Assange is due to plead guilty this week to violating U.S. espionage law, in a deal that will end his imprisonment in Britain and allow him to return home to Australia, ending a long legal odyssey.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/nation-world-news/wikileaks-julian-assange-to-be-freed-after-pleading-guilty-to-us-espionage-act-charge/>
+
+---
+
+## Obituaries for June 25
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>Victor &#8220;Cello&#8221; Bestamente, 89, of Pahoa died June 15 at Hilo Benioff Medical Center. Born in Kona, he was a caretaker and member of Pahoa Sacred Heart Catholic Church. Visitation 5-6 p.m. Friday (June 28) at Father Avery Church Hall in Pahoa. Wake service at 6 p.m. Visitation again 7:30-10 a.m. Saturday (June 29) at Pahoa Sacred Heart Catholic Church, Visitation from 7:30 a.m. to 10 a.m., Celebration of Mass at 10 a.m. Burial at the Church Cemetery/ Luncheon to follow at Father Avery Hall He is survived by sister, Sarah Alani Bestamente Aniban of Pahoa; nephews, Wayne (Radhika) Aniban of Oahu, Patrick (Ohia) Anban of Pahala, William (Manu) Aniban of Maui, Fred Sanoria of Pahoa, Lawrence (Sandy) Sanoria of Volcano, Timothy Bestamente of California, Jason Bestamente of Oahu; nieces, Betty Ann (Leroy) Dikito of Kalapana, Darlene Hirano of Hawaiian Beaches, Mary (Jacob) Hook of Kohala, Susan (Rodrigo) Sadumiano of Kona, Barbara Bestamente Sanoria of Hilo, Roxanne (Viktor) Lawcock of Kurtistown, Paulette (Kaleo) Pacheco of Pahoa, Donna (Ron) Minardo and Audrey (Mike) McMahen of California. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/obituaries/obituaries-for-june-25-11/>
+
+---
+
+## Hawaii’s vacation rentals total nearly 6% of housing supply
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>Despite vacation rental crackdowns and looming legislative reforms, vacation rental supply statewide still accounts for a significant portion of Hawaii&#8217;s housing stock.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/hawaii-news/hawaiis-vacation-rentals-total-nearly-6-of-housing-supply/>
+
+---
+
+## The Micro Games 2024
+
+date: 2024-06-25, from: Island Times
+
+<figure><img width="575" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?fit=575%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=168%2C300&amp;ssl=1 168w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=575%2C1024&amp;ssl=1 575w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=768%2C1368&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=863%2C1536&amp;ssl=1 863w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=1150%2C2048&amp;ssl=1 1150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=1200%2C2137&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=400%2C712&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=706%2C1257&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?fit=575%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70925" data-permalink="https://islandtimes.org/the-micro-games-2024/team-palau-9/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?fit=1249%2C2224&amp;ssl=1" data-orig-size="1249,2224" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Team Palau" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?fit=168%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?fit=575%2C1024&amp;ssl=1" /></figure>
+<p>Palau athletes concluded the Micro Games 2024 in the Marshall Islands, placing 4th with 18 Gold, 60 Silver, and 38 Bronze medals, for a total of 116 medals. The athletes were in high spirits, many of whom had reached new records and surpassed personal bests.</p>
+<p>The post <a href="https://islandtimes.org/the-micro-games-2024/">The Micro Games 2024</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/the-micro-games-2024/>
+
+---
+
+## Palau National Landfill Nears Capacity Faster Than Expected, Highlighting Waste Management Concerns
+
+date: 2024-06-25, from: Island Times
+
+<p>KOROR, Palau – Palau&#8217;s national landfill, opened just three years ago in Aimeliik State, is filling up at an alarming rate. With 7.4% of its capacity reached in that short time frame, the landfill&#8217;s projected 25-year lifespan appears increasingly unlikely without significant intervention. The issue stems from high waste volumes and limited recycling efforts. Despite [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-national-landfill-nears-capacity-faster-than-expected-highlighting-waste-management-concerns/">Palau National Landfill Nears Capacity Faster Than Expected, Highlighting Waste Management Concerns</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-national-landfill-nears-capacity-faster-than-expected-highlighting-waste-management-concerns/>
+
+---
+
+## High Chiefs to Discuss Preserving Tradition at Second Traditional Leaders’ Forum
+
+date: 2024-06-25, from: Island Times
+
+<p>Koror, Palau &#8211; The Rubekul Belau, Palau&#8217;s Council of Chiefs, is gearing up for its second Traditional Leaders&#8217; Forum, scheduled for July 3-4, 2024, at the National Gymnasium in Koror. The forum, themed &#8220;Honor, Respect and Preserve our Basic Traditional Values,&#8221; aims to address the decline of traditional practices due to the fast pace of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/high-chiefs-to-discuss-preserving-tradition-at-second-traditional-leaders-forum/">High Chiefs to Discuss Preserving Tradition at Second Traditional Leaders&#8217; Forum</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/high-chiefs-to-discuss-preserving-tradition-at-second-traditional-leaders-forum/>
+
+---
+
+## Palau Sees Significant Tourism Growth in May 2024
+
+date: 2024-06-25, from: Island Times
+
+<figure><img width="259" height="185" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?fit=259%2C185&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?w=259&amp;ssl=1 259w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?fit=259%2C185&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?fit=259%2C185&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70919" data-permalink="https://islandtimes.org/palau-sees-significant-tourism-growth-in-may-2024/tourist-arrival/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?fit=259%2C185&amp;ssl=1" data-orig-size="259,185" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="tourist arrival" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?fit=259%2C185&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?fit=259%2C185&amp;ssl=1" /></figure>
+<p>KOROR, Palau (June 24, 2024) – Palau&#8217;s tourism industry experienced robust growth in May 2024, welcoming a total of 4,475 visitors. This represents a 2% increase from April 2024 and a significant 78% rise compared to May 2023, according to the latest figures released by the Palau Visitors Authority. China continued to be the leading [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-sees-significant-tourism-growth-in-may-2024/">Palau Sees Significant Tourism Growth in May 2024</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-sees-significant-tourism-growth-in-may-2024/>
+
+---
+
+## Excise Tax Removed from locally Bottled Water
+
+date: 2024-06-25, from: Island Times
+
+<p>KOROR, Palau—Under the recently passed supplemental budget law, the Excise tax on locally bottled water has been removed, a move aimed at boosting domestic manufacturers. The change is expected to reduce prices for consumers by 20% to 25%. Water bottling companies are no longer required to file or pay the excise tax. The tax, previously [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/excise-tax-removed-from-locally-bottled-water/">Excise Tax Removed from locally Bottled Water</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/excise-tax-removed-from-locally-bottled-water/>
+
+---
+
+## Mindszenty Principal Discusses Educating Palau’s Future Leaders
+
+date: 2024-06-25, from: Island Times
+
+<p>“Educators: Shaping the Future Citizens of Palau” By: Marissa Dilmeang Spires Mindszenty High School, a private institution known for its small, close-knit student body, prioritizes instilling moral values alongside academics, according to Principal Alan Marbou. In an interview with Island Times intern Marissa Spires, Mr. Marbou highlighted the school&#8217;s core values of &#8220;family, Christian principles, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/mindszenty-principal-discusses-educating-palaus-future-leaders/">Mindszenty Principal Discusses Educating Palau&#8217;s Future Leaders</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/mindszenty-principal-discusses-educating-palaus-future-leaders/>
+
+---
+
+## First Military Fixed-Wing Aircraft Lands on PeleliuRecertified Airstrip
+
+date: 2024-06-25, from: Island Times
+
+<figure><img width="1000" height="667" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/aircraft-land-in-Peleliu2.jpg?fit=1000%2C667&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/aircraft-land-in-Peleliu2.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/aircraft-land-in-Peleliu2.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/aircraft-land-in-Peleliu2.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/aircraft-land-in-Peleliu2.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/aircraft-land-in-Peleliu2.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/aircraft-land-in-Peleliu2.jpg?fit=1000%2C667&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70915" data-permalink="https://islandtimes.org/first-military-fixed-wing-aircraft-lands-on-peleliurecertified-airstrip/aircraft-land-in-peleliu2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/aircraft-land-in-Peleliu2.jpg?fit=1000%2C667&amp;ssl=1" data-orig-size="1000,667" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="aircraft land in Peleliu2" data-image-description="" data-image-caption="&lt;p&gt;Photo By Lance Cpl. Hannah Hollerud | A U.S. Marine Corps KC-130J Super Hercules aircraft with 1st Marine Air Wing, lands on a newly designated airstrip on the island of Peleliu, Republic of Palau, June 22, 2024. For the first time since its recertification in June, a military fixed-wing aircraft has touched down on the historic Peleliu airstrip, marking a significant and triumphant return to this iconic World War II site. (U.S. Marine Corps photo by Lance Cpl. Hannah Hollerud)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/aircraft-land-in-Peleliu2.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/aircraft-land-in-Peleliu2.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>PELELIU, Palau – For the first time since its recertification in June, a military fixed-wing aircraft has touched down on the historic Peleliu airstrip, marking a significant and triumphant return to this iconic World War II site, on June 22, 2024. This landmark event was made possible by the tireless efforts of the Marine Corps [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/first-military-fixed-wing-aircraft-lands-on-peleliurecertified-airstrip/">First Military Fixed-Wing Aircraft Lands on PeleliuRecertified Airstrip</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/first-military-fixed-wing-aircraft-lands-on-peleliurecertified-airstrip/>
+
+---
+
+## Palau’s deep sea expedition team established
+
+date: 2024-06-25, from: Island Times
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240624_Palau-deep-sea-research-team.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240624_Palau-deep-sea-research-team.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240624_Palau-deep-sea-research-team.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240624_Palau-deep-sea-research-team.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240624_Palau-deep-sea-research-team.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240624_Palau-deep-sea-research-team.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240624_Palau-deep-sea-research-team.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240624_Palau-deep-sea-research-team.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240624_Palau-deep-sea-research-team.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240624_Palau-deep-sea-research-team.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240624_Palau-deep-sea-research-team.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240624_Palau-deep-sea-research-team.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240624_Palau-deep-sea-research-team.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240624_Palau-deep-sea-research-team.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70908" data-permalink="https://islandtimes.org/palaus-deep-sea-expedition-team-established/20240624_palau-deep-sea-research-team/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240624_Palau-deep-sea-research-team.jpg?fit=2500%2C1666&amp;ssl=1" data-orig-size="2500,1666" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="20240624_Palau deep sea research team" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240624_Palau-deep-sea-research-team.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/20240624_Palau-deep-sea-research-team.jpg?fit=780%2C519&amp;ssl=1" /></figure>
+<p>The upcoming scientific expedition to the Palau National Marine Sanctuary (PNMS) through a partnership with the Ocean Exploration Trust (OET) and the National Oceanic and Atmospheric Administration (NOAA) has provided a unique opportunity for professionals in the fields of research, education, and traditional knowledge and best practices. One such opportunity was the inclusion of Palauans [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-deep-sea-expedition-team-established/">Palau’s deep sea expedition team established</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palaus-deep-sea-expedition-team-established/>
+
+---
+
+## I Hope You Dance”
+
+date: 2024-06-25, from: Island Times
+
+<figure><img width="524" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1-1.jpg?fit=524%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1-1.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1-1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1-1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1-1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1-1.jpg?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1-1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1-1.jpg?fit=524%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70906" data-permalink="https://islandtimes.org/i-hope-you-dance/wc1-13/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1-1.jpg?fit=524%2C522&amp;ssl=1" data-orig-size="524,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WC1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1-1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/WC1-1.jpg?fit=524%2C522&amp;ssl=1" /></figure>
+<p>I hope you never lose your sense of wonder You get your fill to eat, but always keep that hunger May you never take one single breath for granted God forbid love ever leave you empty-handed I hope you still feel small when you stand beside the ocean Whenever one door closes, I hope one [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/i-hope-you-dance/">I Hope You Dance&#8221;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/i-hope-you-dance/>
+
+---
+
+## Modernising Governance Systems in the North Pacific
+
+date: 2024-06-25, from: Island Times
+
+<figure><img width="880" height="920" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2-1.png?fit=880%2C920&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2-1.png?w=880&amp;ssl=1 880w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2-1.png?resize=287%2C300&amp;ssl=1 287w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2-1.png?resize=768%2C803&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2-1.png?resize=400%2C418&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2-1.png?resize=706%2C738&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2-1.png?fit=880%2C920&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70904" data-permalink="https://islandtimes.org/modernising-governance-systems-in-the-north-pacific/opinion-icon2-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2-1.png?fit=880%2C920&amp;ssl=1" data-orig-size="880,920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="opinion-icon2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2-1.png?fit=287%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/opinion-icon2-1.png?fit=780%2C815&amp;ssl=1" /></figure>
+<p>By Marine Destrez, Project Manager &#8211; Public Finance Management Project, UNDP Pacific Office in Fiji KOROR (UNDP) &#8212; It’s 5am in Palau as we land in Arai’s airport, the plane was delayed by more than three hours and children and adults alike are exhausted. Yet the time and the delays did not seem to diminish [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/modernising-governance-systems-in-the-north-pacific/">Modernising Governance Systems in the North Pacific</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/modernising-governance-systems-in-the-north-pacific/>
+
+---
+
+## Yap to begin canvassing votes for 31 May political status referendum
+
+date: 2024-06-25, from: Island Times
+
+<p>YAP (PACIFIC ISLAND TIMES) &#8212; The Yap Election Commission in the Federated States of Mironesia (FSM) on Friday will begin tabulating the ballots cast during the 31 May referendum related to the island state’s political status. Yap voters were asked to answer the question: “Shall the State of Yap commence a review of its political [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/yap-to-begin-canvassing-votes-for-31-may-political-status-referendum/">Yap to begin canvassing votes for 31 May political status referendum</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/yap-to-begin-canvassing-votes-for-31-may-political-status-referendum/>
+
+---
+
+## GEF Council approves more than $700 million for vast environmental needs
+
+date: 2024-06-25, from: Island Times
+
+<p>WASHINGTON (GEF) &#8212; Global Environment Facility member countries has approved US$736.4 million in funding, including new support for the Great Green Wall, a landmark initiative focused on increasing climate resilience and improving land health across Africa’s Sahel region. The diverse package of financing includes the new Global Biodiversity Framework Fund’s first three approved projects, less [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/gef-council-approves-more-than-700-million-for-vast-environmental-needs/">GEF Council approves more than $700 million for vast environmental needs</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/gef-council-approves-more-than-700-million-for-vast-environmental-needs/>
+
+---
+
+## Fiji Tourism targets $4.2b in revenue
+
+date: 2024-06-25, from: Island Times
+
+<p>SUVA (FIJI LIVE) &#8212; Fiji&#8217;s deputy Prime Minister and Minister for Tourism Viliame Gavoka is optimistic that at the rate at which the tourism market is growing, Fiji could see $4.2 billion (US$2.1 million) in revenue in the next four years. Speaking at the launch of Fiji’s National Sustainable Tourism Framework, Gavoka said over 80,000 [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/fiji-tourism-targets-4-2b-in-revenue/">Fiji Tourism targets $4.2b in revenue</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/fiji-tourism-targets-4-2b-in-revenue/>
+
+---
+
+## Chinese premier sees mixed success in Asia-Pacific charm offensive
+
+date: 2024-06-25, from: Island Times
+
+<p>SYDNEY &#160;2024 (VOA) &#8212; Chinese Premier Li Qiang has wrapped up a three-country tour of the Asia-Pacific region, boosting trade ties and rebuilding relations. But the trip also saw a reemergence of some thorny diplomatic issues. Through this visit Li, the second most powerful official in China, became the first premier to visit New Zealand [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/chinese-premier-sees-mixed-success-in-asia-pacific-charm-offensive/">Chinese premier sees mixed success in Asia-Pacific charm offensive</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/chinese-premier-sees-mixed-success-in-asia-pacific-charm-offensive/>
+
+---
+
+## With its new pact with North Korea, Russia raises the stakes with the West over Ukraine
+
+date: 2024-06-25, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/With-its-new-pact-1.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/With-its-new-pact-1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/With-its-new-pact-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/With-its-new-pact-1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/With-its-new-pact-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/With-its-new-pact-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/With-its-new-pact-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/With-its-new-pact-1.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/With-its-new-pact-1.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70896" data-permalink="https://islandtimes.org/with-its-new-pact-with-north-korea-russia-raises-the-stakes-with-the-west-over-ukraine/with-its-new-pact-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/With-its-new-pact-1.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;?????&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;In this photo provided by the North Korean government, North Korean leader Kim Jong Un, right, and Russia&#039;s President Vladimir Putin shake hands after signing a comprehensive strategic partnership in Pyongyang, North Korea Wednesday, June 19, 2024. The content of this image is as provided and cannot be independently verified. Korean language watermark on image as provided by source reads: \&quot;KCNA\&quot; which is the abbreviation for Korean Central News Agency. (Korean Central News Agency\/Korea News Service via AP)&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="With its new pact" data-image-description="" data-image-caption="&lt;p&gt;In this photo provided by the North Korean government, North Korean leader Kim Jong Un, right, and Russia&#8217;s President Vladimir Putin shake hands after signing a comprehensive strategic partnership in Pyongyang, North Korea Wednesday, June 19, 2024. The content of this image is as provided and cannot be independently verified. Korean language watermark on image as provided by source reads: &#8220;KCNA&#8221; which is the abbreviation for Korean Central News Agency. (Korean Central News Agency/Korea News Service via AP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/With-its-new-pact-1.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/With-its-new-pact-1.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By The Associated Press Behind the smiles, the balloons and the red-carpet pageantry of President Vladimir Putin&#8217;s&#160;visit to North Korea&#160;last week, a strong signal came through: In the spiraling confrontation with the U.S. and its allies over Ukraine, the Russian leader is willing to challenge Western interests like never before. The&#160;pact that he signed&#160;with North [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/with-its-new-pact-with-north-korea-russia-raises-the-stakes-with-the-west-over-ukraine/">With its new pact with North Korea, Russia raises the stakes with the West over Ukraine</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/with-its-new-pact-with-north-korea-russia-raises-the-stakes-with-the-west-over-ukraine/>
+
+---
+
+## Max Scherzer throws 5 scoreless innings in 3-time Cy Young winner’s season debut for the Rangers
+
+date: 2024-06-25, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Max-Scherzer.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Max-Scherzer.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Max-Scherzer.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Max-Scherzer.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Max-Scherzer.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Max-Scherzer.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Max-Scherzer.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70890" data-permalink="https://islandtimes.org/max-scherzer-throws-5-scoreless-innings-in-3-time-cy-young-winners-season-debut-for-the-rangers/max-scherzer/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Max-Scherzer.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;Albert Pena&quot;,&quot;camera&quot;:&quot;NIKON Z 9&quot;,&quot;caption&quot;:&quot;Texas Rangers starting pitcher Max Scherzer throws in his first baseball game back from the injury list in the first inning against the Kansas City Royals, Sunday, June 23, 2024, in Arlington, Texas. (AP Photo\/Albert Pena)&quot;,&quot;created_timestamp&quot;:&quot;1719149788&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;500&quot;,&quot;iso&quot;:&quot;6400&quot;,&quot;shutter_speed&quot;:&quot;0.0005&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Max Scherzer" data-image-description="" data-image-caption="&lt;p&gt;Texas Rangers starting pitcher Max Scherzer throws in his first baseball game back from the injury list in the first inning against the Kansas City Royals, Sunday, June 23, 2024, in Arlington, Texas. (AP Photo/Albert Pena)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Max-Scherzer.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Max-Scherzer.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By STEPHEN HAWKINS AP Baseball Writer ARLINGTON, Texas (AP) — Max Scherzer couldn&#8217;t wait to finally get back on the mound for the Texas Rangers. The three-time Cy Young Award winner also knew when he had done enough in his season debut. Scherzer retired the first 13 batters he faced, and 15 of 16 overall, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/max-scherzer-throws-5-scoreless-innings-in-3-time-cy-young-winners-season-debut-for-the-rangers/">Max Scherzer throws 5 scoreless innings in 3-time Cy Young winner&#8217;s season debut for the Rangers</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/max-scherzer-throws-5-scoreless-innings-in-3-time-cy-young-winners-season-debut-for-the-rangers/>
+
+---
+
+## Coco Gauff to lead US tennis team at Paris Olympics after missing Tokyo
+
+date: 2024-06-25, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Coco-Gauff-to-lead.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Coco-Gauff-to-lead.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Coco-Gauff-to-lead.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Coco-Gauff-to-lead.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Coco-Gauff-to-lead.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Coco-Gauff-to-lead.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Coco-Gauff-to-lead.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70888" data-permalink="https://islandtimes.org/coco-gauff-to-lead-us-tennis-team-at-paris-olympics-after-missing-tokyo/coco-gauff-to-lead/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Coco-Gauff-to-lead.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Thibault Camus&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Coco Gauff of the U.S. clenches her fist after scoring a point against Tunisia&#039;s Ons Jabeur during their quarterfinal match of the French Open tennis tournament at the Roland Garros stadium in Paris, Tuesday, June 4, 2024. (AP Photo\/Thibault Camus)&quot;,&quot;created_timestamp&quot;:&quot;1716726099&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;300&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.0001&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Coco Gauff to lead" data-image-description="" data-image-caption="&lt;p&gt;Coco Gauff of the U.S. clenches her fist after scoring a point against Tunisia&#8217;s Ons Jabeur during their quarterfinal match of the French Open tennis tournament at the Roland Garros stadium in Paris, Tuesday, June 4, 2024. (AP Photo/Thibault Camus)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Coco-Gauff-to-lead.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Coco-Gauff-to-lead.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By KEN MAGUIRE AP Sports Writer Coco Gauff will lead the U.S. tennis team at the&#160;Paris Olympics&#160;three years after missing the Tokyo Games because she tested positive for COVID-19. The 20-year-old Gauff, ranked No. 2, will be joined by No. 5 Jessica Pegula, Danielle Collins and Emma Navarro in women&#8217;s singles, along with Taylor Fritz, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/coco-gauff-to-lead-us-tennis-team-at-paris-olympics-after-missing-tokyo/">Coco Gauff to lead US tennis team at Paris Olympics after missing Tokyo</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/coco-gauff-to-lead-us-tennis-team-at-paris-olympics-after-missing-tokyo/>
+
+---
+
+## US Coast Guard strengthens ties with FSM under Pacific Partnership
+
+date: 2024-06-25, from: Pacific Island Times
+
+By Chief Warrant Officer Sara Muir U.S. Coast Guard Forces Micronesia / Sector Guam Ponhpei— The U.S. Coast Guard continued its support... 
+
+<https://www.pacificislandtimes.com/post/us-coast-guard-strengthens-ties-with-fsm-under-pacific-partnership>
+
+---
+
+## WikiLeaks founder Julian Assange to enter guilty plea in CNMI federal court 
+
+date: 2024-06-25, from: Pacific Island Times
+
+By Pacific Island Times News Staff WikiLeaks founder Julian Assange will plead guilty to a conspiracy charge at the District Court of the... 
+
+<https://www.pacificislandtimes.com/post/wikileaks-founder-julian-assange-to-enter-plea-guilt-in-cnmi-federal-court>
+
+---
+
+## UH research leads ocean-based climate solutions in UN initiative
+
+date: 2024-06-25, from: University of Hawaiʻi News
+
+<p>Christopher Sabine is among the world’s top researchers working on Vision 2030, a United Nations initiative to address the challenges facing the world’s oceans.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/24/publication-un-initiative/"><abbr>UH</abbr> research leads ocean-based climate solutions in <abbr>UN</abbr> initiative</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/24/publication-un-initiative/>
+
+---
+
+## WikiLeaks' Julian Assange to be freed after pleading guilty to US Espionage Act charge, will appear before NMI federal court
+
+date: 2024-06-25, updated: 2024-06-25, from: Marianas Variety
+
+WASHINGTON/SYDNEY (Reuters) — WikiLeaks founder Julian Assange is due to plead guilty this week to violating U.S. espionage law, in a deal that will end his imprisonment in Britain and allow him to return home to Australia, ending a long legal odyssey. 
+
+<https://www.mvariety.com/news/local/wikileaks-julian-assange-to-be-freed-after-pleading-guilty-to-us-espionage-act-charge-will/article_6d0a62e4-3296-11ef-a89a-f7653ca5afd7.html>
+
+---
+
+## $1.6M to advance ‘computational thinking’ and respond to emerging technology
+
+date: 2024-06-25, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> and <span aria-label="Kauai">Kaua&#699;i</span> <abbr>CC</abbr> have each received more than $800,000 from the National Science Foundation to advance computational thinking.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/24/advance-computational-thinking-emerging-technology/">$1.6<abbr>M</abbr> to advance ‘computational thinking’ and respond to emerging technology</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/24/advance-computational-thinking-emerging-technology/>
+
+---
+
+## $2.1M for UH-led Maui wildfire response research
+
+date: 2024-06-25, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> projects totaling &#36;2.1 million address the impacts to air and water quality, public health, ecosystem resilience and community evacuation responses.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/24/2-1m-maui-wildfire-response/">$2.1M for <abbr>UH</abbr>-led Maui wildfire response research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/24/2-1m-maui-wildfire-response/>
+
+---
+
+## Middle school voices help anti-vaping strategies
+
+date: 2024-06-24, from: University of Hawaiʻi News
+
+<p>Researchers are working with Hawaiʻi Island middle schoolers to understand substance use.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/24/vape-use-hawaii-schools-study/">Middle school voices help anti-vaping strategies</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/24/vape-use-hawaii-schools-study/>
 
 ---
 
@@ -21,69 +572,9 @@ date: 2024-06-24, from: Island Conservation News
 
 ---
 
-## Mabuhay Street Market brings Filipino flavors to Mari Bar
-
-date: 2024-06-24, updated: 2024-06-24, from: Marianas Variety
-
-(Special Advertising Feature) — Mari Bar is celebrating the month of Philippine Independence with the Mabuhay Street Market on Thursday, June 27, 2024, from 5 p.m. to 9:30 p.m. at the Crowne Plaza Resort Saipan. Bring your friends, family, and loved ones to enjoy an evening filled with some of the Philippines’ favorite dishes, refreshing beverages, special cocktails, and live entertainment. 
-
-<https://www.mvariety.com/lifestyle/mabuhay-street-market-brings-filipino-flavors-to-mari-bar/article_49e972fc-31f4-11ef-bbc5-cbb8596a1ae2.html>
-
----
-
-## Domingo Atalig claims Amigos June Ace title
-
-date: 2024-06-24, updated: 2024-06-24, from: Marianas Variety
-
-DOMINGO Atalig shot a net score of 136 to claim the Amigos Golf Club’s June Ace of the Month title on Sunday, June 16, at the Laolao Bay Golf &amp; Resort. 
-
-<https://www.mvariety.com/sports/localsports/domingo-atalig-claims-amigos-june-ace-title/article_d3209622-322b-11ef-9247-c70be74f47aa.html>
-
----
-
-## Braves rally past Ol’Aces to win majors title
-
-date: 2024-06-24, updated: 2024-06-24, from: Marianas Variety
-
-THE Braves bagged the majors division championship title of the 2024 Natibu Sports Association  Youth Baseball League after rallying past the Ol’Aces,12-7,  at the Miguel “Tan Ge” Pangelinan Baseball Field on Sunday, June 16. 
-
-<https://www.mvariety.com/sports/localsports/braves-rally-past-ol-aces-to-win-majors-title/article_3c21634a-322c-11ef-933f-579ee40e3b31.html>
-
----
-
-## MLB roundup: Nearly perfect, Cards' Sonny Gray baffles Giants
-
-date: 2024-06-24, updated: 2024-06-24, from: Marianas Variety
-
-(Reuters) — Sonny Gray took a perfect game into the seventh inning as the St. Louis Cardinals defeated the visiting San Francisco Giants 5-3 on Sunday to complete a three-game series sweep. 
-
-<https://www.mvariety.com/sports/nationalsports/mlb-roundup-nearly-perfect-cards-sonny-gray-baffles-giants/article_36e8bb18-322b-11ef-ba3d-a78870f01f03.html>
-
----
-
-## Team Marianas exceeds expectations
-
-date: 2024-06-24, updated: 2024-06-24, from: Marianas Variety
-
-(Northern Marianas Sports Association) — Team Marianas ruled the 2024 Micronesian Games after finishing with a 70-23-29 gold-silver-bronze medal tally yesterday. 
-
-<https://www.mvariety.com/sports/localsports/team-marianas-exceeds-expectations/article_e2cc083a-322c-11ef-ae4f-4fa5f966a483.html>
-
----
-
-## RSVP for Saipan Chamber of Commerce’s July general membership meeting
-
-date: 2024-06-24, updated: 2024-06-24, from: Marianas Variety
-
-(SCC) — The Saipan Chamber of Commerce would like to encourage all members and future members to RSVP for the upcoming July general membership meeting, scheduled for Wednesday, July 3, 2024 from 11:30 a.m. to 1 p.m. at the Hibiscus Hall, Crowne Plaza Resort. 
-
-<https://www.mvariety.com/news/community_bulletins/rsvp-for-saipan-chamber-of-commerce-s-july-general-membership-meeting/article_92335592-31f3-11ef-9d0e-fb8557e4e941.html>
-
----
-
 ## NMI Supreme Court reverses trial court in family business dispute
 
-date: 2024-06-24, updated: 2024-06-24, from: Marianas Variety
+date: 2024-06-24, updated: 2024-06-25, from: Marianas Variety
 
 ON June 24, 2024, the local Supreme Court reversed the trial court’s judgment finding Eun Soo Han liable to his brother-in-law, Sun Ha Park, for tortious interference with contract. The lower court’s $90,000 economic, emotional distress, and punitive damages award against Han has been vacated. 
 
@@ -93,7 +584,7 @@ ON June 24, 2024, the local Supreme Court reversed the trial court’s judgment 
 
 ## MVA joins Hong Kong tourism expo
 
-date: 2024-06-24, updated: 2024-06-24, from: Marianas Variety
+date: 2024-06-24, updated: 2024-06-25, from: Marianas Variety
 
 (MVA) —  For the first time since before the pandemic, the Marianas Visitors Authority returned this month to International Travel Expo or ITE Hong Kong — the city’s only annual travel fair — to promote the Marianas. 
 
@@ -103,11 +594,71 @@ date: 2024-06-24, updated: 2024-06-24, from: Marianas Variety
 
 ## CHCC enhances cardiology services on Rota and Tinian through telemedicine platform
 
-date: 2024-06-24, updated: 2024-06-24, from: Marianas Variety
+date: 2024-06-24, updated: 2024-06-25, from: Marianas Variety
 
 (CHCC) — Telemedicine has revolutionized healthcare delivery in many rural/remote regions, and the CNMI is no exception. Through the Commonwealth Healthcare Corporation, the integration of telemedicine has brough significant improvements to the healthcare landscape in our islands. One of the most notable benefits of telemedicine in the CNMI is access to specialty care at the Rota and Tinian Health Centers. By leveraging telemedicine platforms, CHCC cardiologist based in Saipan is now conducting remote consultations, reviewing of diagnostic tests, and collaborating with the healthcare team at RHC and THC. 
 
 <https://www.mvariety.com/news/local/chcc-enhances-cardiology-services-on-rota-and-tinian-through-telemedicine-platform/article_ae481692-31f2-11ef-94ce-f3a048c71ea4.html>
+
+---
+
+## Mabuhay Street Market brings Filipino flavors to Mari Bar
+
+date: 2024-06-24, updated: 2024-06-25, from: Marianas Variety
+
+(Special Advertising Feature) — Mari Bar is celebrating the month of Philippine Independence with the Mabuhay Street Market on Thursday, June 27, 2024, from 5 p.m. to 9:30 p.m. at the Crowne Plaza Resort Saipan. Bring your friends, family, and loved ones to enjoy an evening filled with some of the Philippines’ favorite dishes, refreshing beverages, special cocktails, and live entertainment. 
+
+<https://www.mvariety.com/lifestyle/mabuhay-street-market-brings-filipino-flavors-to-mari-bar/article_49e972fc-31f4-11ef-bbc5-cbb8596a1ae2.html>
+
+---
+
+## Domingo Atalig claims Amigos June Ace title
+
+date: 2024-06-24, updated: 2024-06-25, from: Marianas Variety
+
+DOMINGO Atalig shot a net score of 136 to claim the Amigos Golf Club’s June Ace of the Month title on Sunday, June 16, at the Laolao Bay Golf &amp; Resort. 
+
+<https://www.mvariety.com/sports/localsports/domingo-atalig-claims-amigos-june-ace-title/article_d3209622-322b-11ef-9247-c70be74f47aa.html>
+
+---
+
+## Braves rally past Ol’Aces to win majors title
+
+date: 2024-06-24, updated: 2024-06-25, from: Marianas Variety
+
+THE Braves bagged the majors division championship title of the 2024 Natibu Sports Association  Youth Baseball League after rallying past the Ol’Aces,12-7,  at the Miguel “Tan Ge” Pangelinan Baseball Field on Sunday, June 16. 
+
+<https://www.mvariety.com/sports/localsports/braves-rally-past-ol-aces-to-win-majors-title/article_3c21634a-322c-11ef-933f-579ee40e3b31.html>
+
+---
+
+## MLB roundup: Nearly perfect, Cards' Sonny Gray baffles Giants
+
+date: 2024-06-24, updated: 2024-06-25, from: Marianas Variety
+
+(Reuters) — Sonny Gray took a perfect game into the seventh inning as the St. Louis Cardinals defeated the visiting San Francisco Giants 5-3 on Sunday to complete a three-game series sweep. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-nearly-perfect-cards-sonny-gray-baffles-giants/article_36e8bb18-322b-11ef-ba3d-a78870f01f03.html>
+
+---
+
+## Team Marianas exceeds expectations
+
+date: 2024-06-24, updated: 2024-06-25, from: Marianas Variety
+
+(Northern Marianas Sports Association) — Team Marianas ruled the 2024 Micronesian Games after finishing with a 70-23-29 gold-silver-bronze medal tally yesterday. 
+
+<https://www.mvariety.com/sports/localsports/team-marianas-exceeds-expectations/article_e2cc083a-322c-11ef-ae4f-4fa5f966a483.html>
+
+---
+
+## RSVP for Saipan Chamber of Commerce’s July general membership meeting
+
+date: 2024-06-24, updated: 2024-06-25, from: Marianas Variety
+
+(SCC) — The Saipan Chamber of Commerce would like to encourage all members and future members to RSVP for the upcoming July general membership meeting, scheduled for Wednesday, July 3, 2024 from 11:30 a.m. to 1 p.m. at the Hibiscus Hall, Crowne Plaza Resort. 
+
+<https://www.mvariety.com/news/community_bulletins/rsvp-for-saipan-chamber-of-commerce-s-july-general-membership-meeting/article_92335592-31f3-11ef-9d0e-fb8557e4e941.html>
 
 ---
 
@@ -338,6 +889,18 @@ date: 2024-06-24, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/06/24/sports/scottie-scheffler-bests-tom-kim-in-playoff-at-chaotic-travelers/>
+
+---
+
+## Shaka is now officially the state gesture
+
+date: 2024-06-24, from: Hawaii Tribune Harold
+
+
+				<p>A new law has designated the shaka as the official state gesture.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/24/hawaii-news/shaka-is-now-officially-the-state-gesture/>
 
 ---
 

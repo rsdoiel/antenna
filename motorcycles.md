@@ -1,11 +1,101 @@
 ---
 title: motorcycles 2024.26
-updated: 2024-06-24 16:20:18
+updated: 2024-06-25 08:32:56
 ---
 
 # motorcycles 2024.26
 
-(date: 2024-06-24 16:20:18)
+(date: 2024-06-25 08:32:56)
+
+---
+
+## New Kawasaki W175 Brings The Retro Modern Fun, Won't Break The Bank
+
+date: 2024-06-25, from: Ride Apart, Electric Motorcycle News
+
+If you ever wished the W800 came in a smaller displacement, you should see what Kawasaki has going on in Indonesia. 
+
+<https://www.rideapart.com/news/724393/kawasaki-w175-cafe-se-blackstyle/>
+
+---
+
+## KTM's XC-W Dirt Bike Updates Aren't Actually Small, and 2-Strokes Remain
+
+date: 2024-06-25, from: Ride Apart, Electric Motorcycle News
+
+After a near-total redesign for 2024, we weren't expecting much more from the 2025 XC-W lineup. KTM must have missed the memo. 
+
+<https://www.rideapart.com/news/724389/2025-ktm-xcw-lineup/>
+
+---
+
+## If You Fart In This Motorcycle Rain Canopy Creation, You Might Die
+
+date: 2024-06-25, from: Ride Apart, Electric Motorcycle News
+
+Not just because you're Dutch ovening yourself after a burrito, but it's gonna fog up. 
+
+<https://www.rideapart.com/news/724361/custom-motorcycle-rain-canopy-windshield/>
+
+---
+
+## There’s a Street-Legal Rally Motorcycle Coming to the US, and It’s Awesome
+
+date: 2024-06-25, from: Ride Apart, Electric Motorcycle News
+
+Who wouldn’t want a rally-ready bike for the road?  
+
+<https://www.rideapart.com/news/724188/kove-450-rally-street-legal-usa/>
+
+---
+
+## A Year From Now, Honda's Super Cub 50 Will Get The Axe In Japan
+
+date: 2024-06-25, from: Ride Apart, Electric Motorcycle News
+
+It's the end of an era, and it's not the only bike facing this fate, either. 
+
+<https://www.rideapart.com/news/724364/honda-50cc-bikes-discontinued-2025/>
+
+---
+
+## Honda’s Rubicon 4x4 and Pioneer 520 ATVs Are Ready To Shake up the Trails
+
+date: 2024-06-25, from: Ride Apart, Electric Motorcycle News
+
+All-around four-wheelers for both work and play.  
+
+<https://www.rideapart.com/news/724191/2025-honda-rubicon-4x4-pioneer-520/>
+
+---
+
+## This Cheap Go-Kart Kit Doesn't Need an Engine Swap, But You Know You Want To
+
+date: 2024-06-25, from: Ride Apart, Electric Motorcycle News
+
+Oh, the possibilities! 
+
+<https://www.rideapart.com/news/724351/go-power-sports-bolt-go-kart-kit-engine-swap/>
+
+---
+
+## Ready for Production, China’s 8 Cylinder Honda Gold Wing Killer Is Coming Soon
+
+date: 2024-06-25, from: Ride Apart, Electric Motorcycle News
+
+Great Wall is keen on taking the premium motorcycle market by storm.  
+
+<https://www.rideapart.com/news/724185/gwm-s2000gl-goldwing-killer-coming-soon/>
+
+---
+
+## 2025 Honda Grom First Ride Review and RACE
+
+date: 2024-06-25, from: Cycle World News
+
+Honda’s 2025 Grom continues the minimoto trend made popular by the original 2014 Grom but gets a new look that helps it stand out from its predecessors. 
+
+<https://www.cycleworld.com/motorcycle-reviews/honda-grom-first-ride-review-and-race/>
 
 ---
 

@@ -1,11 +1,210 @@
 ---
 title: tech likely 2024.26
-updated: 2024-06-24 16:20:16
+updated: 2024-06-25 08:32:53
 ---
 
 # tech likely 2024.26
 
-(date: 2024-06-24 16:20:16)
+(date: 2024-06-25 08:32:53)
+
+---
+
+## Sponsoring sqlite-vec to enable more powerful Local AI applications
+
+date: 2024-06-25, from: Mozilla Developer Network blog
+
+<p>Today we’re proud to announce the next Mozilla Builders project: sqlite-vec. Led by independent developer Alex Garcia, this project brings vector search functionality to the beloved SQLite embedded database. Alex has been working on this problem for a while, and we think his latest approach will have a great impact by providing application developers with a powerful new tool for building Local AI applications.</p>
+<p>The post <a href="https://hacks.mozilla.org/2024/06/sponsoring-sqlite-vec-to-enable-more-powerful-local-ai-applications/">Sponsoring sqlite-vec to enable more powerful Local AI applications</a> appeared first on <a href="https://hacks.mozilla.org">Mozilla Hacks - the Web developer blog</a>.</p>
+ 
+
+<https://hacks.mozilla.org/2024/06/sponsoring-sqlite-vec-to-enable-more-powerful-local-ai-applications/>
+
+---
+
+## Microsoft charged with EU antitrust violations for bundling Teams
+
+date: 2024-06-25, from: OS News
+
+The European Commission has informed Microsoft of its preliminary view that Microsoft has breached EU antitrust rules by tying its communication and collaboration product Teams to its popular productivity applications included in its suites for businesses Office 365 and Microsoft 365. ↫ European Commission press release Chalk this one up in the unsurprising column, too. Teams has infested Office, and merely by being bundled it&#8217;s become a major competitor to Slack, even though everyone who has to use it seems to absolutely despise Teams with a shared passion rivaling only Americans&#8217; disgust for US Congress. On a mildly related note, I&#8217;m working with a friend to set up a Matrix server specifically for OSNews users, so we can have a self-hosted, secure, and encrypted space to hang out, continue conversations beyond the shelf life of a news item, suggest interesting stories, point out spelling mistakes, and so on. It&#8217;ll be invite-only at first, with preference given to Patreons, active commenters, and other people I trust. We intend to federate, so if everything goes according to plan, you can use your existing Matrix username and account. I&#8217;ll keep y&#8217;all posted. 
+
+<https://www.osnews.com/story/140063/microsoft-charged-with-eu-antitrust-violations-for-bundling-teams/>
+
+---
+
+## NASA-IBM Collaboration Develops INDUS Large Language Models for Advanced Science Research
+
+date: 2024-06-25, from: NASA breaking news
+
+By Derek Koehl Collaborations with private, non-federal partners through Space Act Agreements are a key component in the work done by NASA’s Interagency Implementation and Advanced Concepts Team (IMPACT). A collaboration with International Business Machines (IBM) has produced INDUS, a comprehensive suite of large language models (LLMs) tailored for the domains of Earth science, biological […] 
+
+<https://science.nasa.gov/open-science/ai-language-model-science-research/>
+
+---
+
+##  US Surgeon General Vivek Murthy declares gun violence a public health crisis.... 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044866-us-surgeon-general-vivek->
+
+---
+
+##  &#8220;Since Texas&#8217; ban on abortion went into effect, infant deaths in the... 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044865-since-texas-ban-on-aborti>
+
+---
+
+## The podcast-only feed, part 1
+
+date: 2024-06-25, from: Dave Winer's Scripting News
+
+<p>I'm getting my podcast-only feed for Scripting News ready. </p>
+<p>It's going to be an Apple-compliant podcast feed. </p>
+<p>Of course when it came time to do the logo I went to my reasonably-priced graphics consultant, ChatGPT. It came breathtakingly close on the first attempt, but it repeated part of the story. Every time I asked it to fix a problem, it created another problem, and the image brightness was reduced, not just in terms of pixels but also the creativity of the image. Of course it isn't really creative. I know. Yadda yadda. </p>
+<p>Finally I got something that I could live with that I liked but was imperfect. I decided that since the motto of my blog is "It's even worse than it appears" that an obvious imperfection is totally consistent with the philosophy, and we move onward. As they say, still diggin!</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/25/scriptingNewsInlineImageVersion.png"></center>It's even worse than *@#) appears.</div></p>
+<p>The prompt for the image: "I'm sure you're aware of my blog, Scripting News, scripting.com. I am doing a new podcast feed for the blog. This feed is designed to get through Apple's submission process so it can be listed in their podcast database. One of the requirements is a 3000 by 3000 image that serves as a logo for the podcast. I need something simple and bold that says 'Scripting News podcast' and then 'With Dave Winer and friends' and 'It's even worse than it appears.' On a background of corn fields in Iowa viewed from the air."</p>
+ 
+
+<http://scripting.com/2024/06/25/134922.html?title=thePodcastonlyFeedPart1>
+
+---
+
+## Take a Ride on the Pinus
+
+date: 2024-06-25, updated: 2024-06-25, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/06/25/take-a-ride-on-the-pinus/>
+
+---
+
+## Raspberry Pi Connect: remote shell access and support for older devices
+
+date: 2024-06-25, from: Raspberry Pi News (.com)
+
+<p>Today's beta release of Raspberry Pi Connect includes remote shell access and support for all Raspberry Pi computers, whether they're running Raspberry Pi OS 32-bit or 64-bit. This includes Raspberry Pi OS Lite as well as versions of Raspberry Pi OS with the desktop.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/raspberry-pi-connect-remote-shell-access-and-support-for-older-devices/">Raspberry Pi Connect: remote shell access and support for older devices</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/raspberry-pi-connect-remote-shell-access-and-support-for-older-devices/>
+
+---
+
+## Gateway: Up Close in Stunning Detail
+
+date: 2024-06-25, from: NASA breaking news
+
+Witness Gateway in stunning detail with this video that brings the future of lunar exploration to life. 
+
+<https://www.nasa.gov/missions/artemis/gateway/gateway-up-close-in-stunning-detail/>
+
+---
+
+## Create anytime, anywhere with OctoStudio
+
+date: 2024-06-25, from: Raspberry Pi (.org)
+
+<p>Today our friends Mitch Resnick and Natalie Rusk from MIT&#8217;s Lifelong Kindergarten group tell you about OctoStudio, their free mobile app for children to create with code. Find their companion article for teachers in the upcoming issue of Hello World magazine, out for free on Monday 1 July. When people see our new OctoStudio coding&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/octostudio-app/">Create anytime, anywhere with OctoStudio</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/octostudio-app/>
+
+---
+
+## Unlocking the Power of AI Driven Development with SudoLang
+
+date: 2024-06-25, from: O'Reilly Radar
+
+As AI continues to advance at a rapid pace, developers are increasingly turning to AI Driven Development (AIDD) to build more intelligent and adaptive applications. However, using natural language prompts to describe complex behaviors to AI can be a real challenge. While natural language is expressive, it lacks the structure and efficiency needed to clearly [&#8230;] 
+
+<https://www.oreilly.com/radar/unlocking-the-power-of-ai-driven-development-with-sudolang/>
+
+---
+
+## Ubuntu 24.10 will default NVIDIA users to Wayland
+
+date: 2024-06-25, from: OS News
+
+The transition to Wayland is nearing completion for most desktop Linux users. The most popular desktop Linux distribution in the world, Ubuntu, has made the call and is switching its NVIDIA users over to Wayland by default in the upcoming release of Ubuntu 24.10. The proprietary NVIDIA graphics driver has been the hold-out on Ubuntu in sticking to the GNOME X.Org session out-of-the-box rather than Wayland as has been the default for the past several releases when using other GPUs/drivers. But for Ubuntu 24.10, the plan is to cross that threshold for NVIDIA now that their official driver has much better Wayland support and has matured into great shape. Particularly with the upcoming NVIDIA R555 driver reaching stable very soon, the Wayland support is in great shape with features like explicit sync ready to use. ↫ Michael Larabel This is great news for the Linux desktop, as having such a popular Linux distribution defaulting the users of the most popular graphics card brand to X.org created a major holdout. None of this obviously means that Wayland is perfect or that all use cases are covered &#8211; accessibility is an important use case where tooling simply hasn&#8217;t been optimised yet for Wayland, but work is underway &#8211; and for those of us who prefer X.org for a variety of reasons, there are still countless distributions offering it as a fallback or as the default option. 
+
+<https://www.osnews.com/story/140061/ubuntu-24-10-will-default-nvidia-users-to-wayland/>
+
+---
+
+## Microsoft puts repair front and center
+
+date: 2024-06-25, from: OS News
+
+It seems the success of the Framework laptops, as well the community&#8217;s relentless focus on demanding repairable devices and he ensuing legislation, are starting to have an impact. It wasn&#8217;t that long ago that Microsoft&#8217;s Surface devices were effectively impossible to repair, but with the brand new Snapdragon X Elite and Pro devices, the company has made an impressive U-turn, according to iFixIt. Both the new Surface Laptop and Surface Pro are exceptionally easy to repair, and take cues from Framework&#8217;s hardware. Microsoft’s journey from the unrepairable Surface Laptop to the highly repairable devices on our teardown table should drive home the importance of designing for repair. The ability to create a repairable Surface was always there but the impetus to design for repairable was missing. I’ll take that as a sign that Right to Repair advocacy and legislation has begun to bear fruit. ↫ Shahram Mokhtari The new Surface devices contain several affordances to make opening them up and repairing them easier. They take cues from Framework in that inside screws and components are clearly labeled to indicate what type they are and which parts they&#8217;re holding in place, and there&#8217;s a QR code that leads to online repair guides, which were available right away, instead of having to wait months to forever for those to become accessible. The components are also not layered; in other words,you don&#8217;t need to remove six components just to get to the SSD, or whatever &#8211; some laptops require you to take out the entire mainboard just to get access to the fans to clean them, which is bananas. Microsoft technically doesn&#8217;t have to do any of this, so it&#8217;s definitely praiseworthy that their hardware department is going the extra kilometre to make this happen. The fact that even the Surface Pro, a tablet, can be reasonably opened up and repaired is especially welcome, since tablets are notoriously difficult to impossible to repair. 
+
+<https://www.osnews.com/story/140059/microsoft-puts-repair-front-and-center/>
+
+---
+
+## Briefly on Julian Assange
+
+date: 2024-06-25, from: Jessica Smith's blog
+
+<p>So, Viv and I were in the car this morning when we heard about the Assange plea deal.</p>
+<p>Viv: omg, finally! I only hope he&rsquo;ll now give up hacking 😔<br>
+Me: Hmm, or maybe he should give up non-consensual sex. That&rsquo;s where he went wrong, isn&rsquo;t it?<br>
+Viv: &hellip;true</p>
+<p>I mean, fuck. I know this prosecution has been politically motivated, purely to punish him for his role exposing Western war crimes. The charges he&rsquo;s accepted a plea deal over are the US &ldquo;espionage&rdquo; ones, after all, not the Swedish sexual assault ones, which were dropped long ago. And I don&rsquo;t support politically-motivated prosecutions of people who expose war crimes. But I&rsquo;ve also never been comfortable with any kind of personalised &ldquo;I support Assange&rdquo; sentiment, as if he were a righteous martyr, rather than &ldquo;I support exposing those who commit war crimes&rdquo;.</p>
+<p>Back in my student activist days, I once got stuck doing a stall where we were trying to get signatures on a petition calling for Assange&rsquo;s charges to be dropped (and this was back when they were the sexual assault charges, not the espionage ones). The organiser of the stall knew full well the attitude I was going to take to this, so he gave me a stack of leaflets and told me to hand them out around Campus Centre. I took the stack, went upstairs, dropped them all straight in the bin, then chilled out in the cafeteria for an hour before reporting back. I think he knew that&rsquo;s what I was going to do, too, lol. I didn&rsquo;t get scolded for skipping out on nearly the whole stall, which I usually would&rsquo;ve been.</p>
+<p>Anyway, Assange is married now, so maybe he has straightened himself out. I don&rsquo;t know. I think it&rsquo;s good there&rsquo;s a resolution at last to the political prosecution (although I would note, cynically, that so many years have passed that the &ldquo;deterrence&rdquo; objective has already been achieved, and the, uh, short-term memory of the political establishment means no one cares what happened during the War on Terror any more, anyway). But Assange himself is still an asshole.</p> 
+
+<https://www.jayeless.net/2024/06/assange-plea-deal.html>
+
+---
+
+## The Northern Mariana Touchdown
+
+date: 2024-06-25, from: Tedium site
+
+After years in a British prison, Julian Assange is going back to Australia—minus a short layover in one of the world’s most remote places. As day trips go, it’s fascinating. 
+
+<https://feed.tedium.co/link/15204/16724146/julian-assange-northern-mariana-islands-unusual-trip>
+
+---
+
+## Wordle Kitty on top of the world
+
+date: 2024-06-25, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/24/wordleKittyImpressive.png"></center>Another impressive day for Wordle Kitty! </div></p>
+ 
+
+<http://scripting.com/2024/06/24/025057.html?title=wordleKittyOnTopOfTheWorld>
+
+---
+
+## The key bit of the code that was biting me in net/http
+
+date: 2024-06-25, from: Ze Iaso's blog
+
+A clip from a longer stream VOD where I explain how MIME parsing works in Go's net/http package 
+
+<https://xeiaso.net/videos/2024/how-mime-parsing-works/>
+
+---
+
+## Writing MIME, RSS, and existential suffering
+
+date: 2024-06-25, from: Ze Iaso's blog
+
+ 
+
+<https://xeiaso.net/vods/2024/mime-rss/>
 
 ---
 

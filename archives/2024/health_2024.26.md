@@ -1,11 +1,61 @@
 ---
 title: health 2024.26
-updated: 2024-06-24 16:20:19
+updated: 2024-06-25 08:32:57
 ---
 
 # health 2024.26
 
-(date: 2024-06-24 16:20:19)
+(date: 2024-06-25 08:32:57)
+
+---
+
+## People’s CDC COVID-19 Weather Report
+
+date: 2024-06-25, from: People's CDC
+
+This is the @PeoplesCDC weekly update for June 24, 2024! This Weather Report from the People’s CDC sheds light on the ongoing COVID situation in the US.  
+
+<https://peoplescdc.org/2024/06/24/peoples-cdc-covid-19-weather-report-77/>
+
+---
+
+## Miconazole induces aneuploidy-mediated tolerance in Candida albicans that is dependent on Hsp90 and calcineurin
+
+date: 2024-06-25, from: Frontiers in Cellular and Infection Microbiology
+
+Antifungal resistance and antifungal tolerance are two distinct terms that describe different cellular responses to drugs. Antifungal resistance describes the ability of a fungus to grow above the minimal inhibitory concentration (MIC) of a drug. Antifungal tolerance describes the ability of drug susceptible strains to grow slowly at inhibitory drug concentrations. Recent studies indicate antifungal resistance and tolerance have distinct evolutionary trajectories. Superficial candidiasis bothers millions of people yearly. Miconazole has been used for topical treatment of yeast infections for over 40 years. Yet, fungal resistance to miconazole remains relatively low. Here we found different clinical isolates of Candida albicans had different profile of tolerance to miconazole, and the tolerance was modulated by physiological factors including temperature and medium composition. Exposure of non-tolerant strains with different genetic backgrounds to miconazole mainly induced development of tolerance, not resistance, and the tolerance was mainly due to whole chromosomal or segmental amplification of chromosome R. The efflux gene CDR1 was required for maintenance of tolerance in wild type strains but not required for gain of aneuploidy-mediated tolerance. Heat shock protein Hsp90 and calcineurin were essential for maintenance as well as gain of tolerance. Our study indicates development of aneuploidy-mediated tolerance, not resistance, is the predominant mechanism of rapid adaptation to miconazole in C. albicans, and the clinical relevance of tolerance deserves further investigations. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1392564>
+
+---
+
+## Implications of silver nanoparticles for H. pylori infection: modulation of CagA function and signaling
+
+date: 2024-06-25, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundHelicobacter pylori infection poses a significant health burden worldwide, and its virulence factor CagA plays a pivotal role in its pathogenesis.MethodsIn this study, the interaction between H. pylori-infected AGS cells and silver nanoparticles (AgNPs) was investigated, with a focus on the modulation of CagA-mediated responses, investigated by western blotting. Both, the dose-dependent efficacy against H. pylori (growth curves, CFU assay) and the impact of the nanoparticles on AGS cells (MTT assay) were elucidated.ResultsAGS cells infected with H. pylori displayed dramatic morphological changes, characterized by elongation and a migratory phenotype, attributed to CagA activity. Preincubation of H. pylori with AgNPs affected these morphological changes in a concentration-dependent manner, suggesting a correlation between AgNPs concentration and CagA function.ConclusionOur study highlights the nuanced interplay between host-pathogen interactions and the therapeutic potential of AgNPs in combating H. pylori infection and offers valuable insights into the multifaceted dynamics of CagA mediated responses. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1419568>
+
+---
+
+## Comparative analysis of intestinal microbiota composition between free-ranged captive yak populations in Nimu County
+
+date: 2024-06-25, from: Frontiers in Cellular and Infection Microbiology
+
+The intestinal microbiota assumes a pivotal role in modulating host metabolism, immune responses, overall health, and additional physiological dimensions. The structural and functional characteristics of the intestinal microbiota may cause alterations within the host’s body to a certain extent. The composition of the gut microbiota is associated with environmental factors, dietary habits, and other pertinent conditions. The investigation into the gut microbiota of yaks remained relatively underexplored. An examination of yak gut microbiota holds promise in elucidating the complex relationship between microbial communities and the adaptive responses of the host to its environment. In this study, yak were selected from two distinct environmental conditions: those raised in sheds (NS, n=6) and grazed in Nimu County (NF, n=6). Fecal samples were collected from the yaks and subsequently processed for analysis through 16S rDNA and ITS sequencing methodologies. The results revealed that different feeding styles result in significant differences in the Alpha diversity of fungi in the gut of yaks, while the gut microbiota of captive yaks was relatively conserved. In addition, significant differences appeared in the abundance of microorganisms in different taxa, phylum Verrucomicrobiota was significantly enriched in group NF while Firmicutes was higher in group NS. At the genus level, Akkermansia, Paenibacillus, Roseburia, Dorea, UCG_012, Anaerovorax and Marvinbryantia were enriched in group NF while Desemzia, Olsenella, Kocuria, Ornithinimicrobium and Parvibacter were higher in group NS (P<0.05 or P<0.01). There was a significant difference in the function of gut microbiota between the two groups. The observed variations are likely influenced by differences in feeding methods and environmental conditions both inside and outside the pen. The findings of this investigation offer prospective insights into enhancing the yak breeding and expansion of the yak industry. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1420389>
+
+---
+
+## Reconstitution of human microglia and resident T cells in the brain of humanized DRAGA mice
+
+date: 2024-06-25, from: Frontiers in Cellular and Infection Microbiology
+
+Humanized mouse models are valuable tools for investigating the human immune system in response to infection and injury. We have previously described the human immune system (HIS)-DRAGA mice (HLA-A2.HLA-DR4.Rag1KO.IL-2RgKO.NOD) generated by infusion of Human Leukocyte Antigen (HLA)-matched, human hematopoietic stem cells from umbilical cord blood. By reconstituting human cells, the HIS-DRAGA mouse model has been utilized as a “surrogate in vivo human model” for infectious diseases such as Human Immunodeficiency Virus (HIV), Influenza, Coronavirus Disease 2019 (COVID-19), scrub typhus, and malaria. This humanized mouse model bypasses ethical concerns about the use of fetal tissues for the humanization of laboratory animals. Here in, we demonstrate the presence of human microglia and T cells in the brain of HIS-DRAGA mice. Microglia are brain-resident macrophages that play pivotal roles against pathogens and cerebral damage, whereas the brain-resident T cells provide surveillance and defense against infections. Our findings suggest that the HIS-DRAGA mouse model offers unique advantages for studying the functions of human microglia and T cells in the brain during infections, degenerative disorders, tumors, and trauma, as well as for testing therapeutics in these pathological conditions. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1367566>
 
 ---
 

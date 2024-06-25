@@ -1,11 +1,21 @@
 ---
 title: journalism 2024.26
-updated: 2024-06-24 16:20:17
+updated: 2024-06-25 08:32:55
 ---
 
 # journalism 2024.26
 
-(date: 2024-06-24 16:20:17)
+(date: 2024-06-25 08:32:55)
+
+---
+
+## Journalism has become ground zero for the vocation crisis
+
+date: 2024-06-25, from: Nieman Journalism Lab
+
+This year has been a grim one for journalism, with layoffs at the Los Angeles Times, Time magazine, NBC News, Forbes, National Geographic, Business Insider and Sports Illustrated. Further cuts loom in newsrooms across the U.S. Growing numbers of reporters and editors, tired of waiting for the other shoe to drop, are exiting the profession,... 
+
+<https://www.niemanlab.org/2024/06/journalism-has-become-ground-zero-for-the-vocation-crisis/>
 
 ---
 

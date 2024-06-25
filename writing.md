@@ -1,11 +1,63 @@
 ---
 title: writing 2024.26
-updated: 2024-06-24 16:20:17
+updated: 2024-06-25 08:32:54
 ---
 
 # writing 2024.26
 
-(date: 2024-06-24 16:20:17)
+(date: 2024-06-25 08:32:54)
+
+---
+
+## New & Notable Books, June
+
+date: 2024-06-25, from: Locus Magazine
+
+<p></p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>Ashton, Edward <strong>Mal Goes to War </strong>(St. Martin’s 4/24) Ashton made a splash years ago with SF novel <strong>Mickey7</strong>, and this new volume blends thrills with satire. Mal, a free AI who lives bodi­lessly in the Infosphere, finds the war between augmented Federals and puritanical Human­ists tedious and pointless&#8230; until a salvage job goes wrong and he finds himself trapped in the corpse of a cyborg soldier,  <a href="https://locusmag.com/2024/06/new-notable-books-june/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/new-notable-books-june/>
+
+---
+
+## Liz Bourke Reviews Road to Ruin by Hana Lee
+
+date: 2024-06-25, from: Locus Magazine
+
+<p><strong>Road to Ruin</strong>, Hana Lee (Saga 978-1-66803-561-0, $18.99, 368pp, tp.) May 2024.</p>
+<p>For a debut novel, Hana Lee’s <strong>Road to Ruin </strong>is a tour de force. Inventive and entertaining, it kept me on the edge of my seat the whole way through.</p>
+<p>Jin-Lu makes her living crossing the wasteland. She’s a courier, one of the few who travel outside the safety of the walled cities known as kerinas, delivering  <a href="https://locusmag.com/2024/06/liz-bourke-reviews-road-to-ruin-by-hana-lee/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/liz-bourke-reviews-road-to-ruin-by-hana-lee/>
+
+---
+
+## Farewell Scenes
+
+date: 2024-06-25, from: John August blog
+
+John welcomes back Aline Brosh McKenna to help figure out how to say goodbye&#8230; in your story. Using examples from some of their favorite movies, they explore how farewell scenes work, what sets them apart from the average see-you-later, and leaving a lasting effect on your characters and the audience. We also look at the [&#8230;]
+The post <a href="https://johnaugust.com/2024/farewell-scenes">Farewell Scenes</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/farewell-scenes>
+
+---
+
+## New Books, 25 June 2024
+
+date: 2024-06-25, from: Locus Magazine
+
+<p>Ackley-McPhail, Danielle, ed.: <b>The Chaos Clock: Tales of Cosmic Aether</b>
+(eSpec/NeoParadoxa 9781956463354, $17.95, 328pp, formats: trade paperback, ebook, 07/01/2024)</p>
+<p>Anthology of short stories involving time, mixing the cosmic weird of H.P. Lovecraft and the steam-age technology of H.G. Wells. Authors include James Chambers, Carol Gyzander, Will McDermott, Jody Lynn Nye.</p>
+<p>&#160;</p>
+<p>Adeyemi, Tomi: <b>Children of Anguish and Anarchy</b>
+(Macmillan/Holt 9781250171016, $24.99, 368pp, formats: hardcover, ebook, audio, 06/25/2024)</p>
+<p>Young-adult fantasy novel  <a href="https://locusmag.com/2024/06/new-books-25-june-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/new-books-25-june-2024/>
 
 ---
 

@@ -1,11 +1,47 @@
 ---
 title: mid central 2024.26
-updated: 2024-06-24 16:20:14
+updated: 2024-06-25 08:32:52
 ---
 
 # mid central 2024.26
 
-(date: 2024-06-24 16:20:14)
+(date: 2024-06-25 08:32:52)
+
+---
+
+## Power Tips #130: Migrating from a barrel jack to USB Type-C PD
+
+date: 2024-06-25, from: EDN Blog
+
+<img width="768" height="318" src="https://www.edn.com/wp-content/uploads/PowerTip130_Figure1.png?fit=768%2C318" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/PowerTip130_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/PowerTip130_Figure1.png?w=300 300w" sizes="(max-width: 768px) 100vw, 768px" /><p>A demonstration on how to quickly implement a USB-C connector and power management circuitry that negotiates the appropriate USB PD contract.</p>
+<p>The post <a href="https://www.edn.com/power-tips-130-migrating-from-a-barrel-jack-to-usb-type-c-pd/" data-wpel-link="internal">Power Tips #130: Migrating from a barrel jack to USB Type-C PD</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/power-tips-130-migrating-from-a-barrel-jack-to-usb-type-c-pd/>
+
+---
+
+## Reducing error of digital potentiometers
+
+date: 2024-06-25, from: EDN Blog
+
+<img width="215" height="205" src="https://www.edn.com/wp-content/uploads/Figure2_ReduceErrorsofDigiPot.gif?fit=215%2C205" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" /><p>Reducing the non-linear influence of wiper resistance in digital potentiometers on both ends of the resistance range.</p>
+<p>The post <a href="https://www.edn.com/reducing-error-of-digital-potentiometers/" data-wpel-link="internal">Reducing error of digital potentiometers</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/reducing-error-of-digital-potentiometers/>
+
+---
+
+## Connected MCUs incorporate Wi-Fi 6/6E, BLE 5.4
+
+date: 2024-06-25, from: EDN Blog
+
+<img width="4955" height="3125" src="https://www.edn.com/wp-content/uploads/Hero-image-CYW55913.png?fit=4955%2C3125" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-CYW55913.png?w=4955 4955w, https://www.edn.com/wp-content/uploads/Hero-image-CYW55913.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-CYW55913.png?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-CYW55913.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-CYW55913.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-CYW55913.png?w=2048 2048w, https://www.edn.com/wp-content/uploads/Hero-image-CYW55913.png?w=1900 1900w, https://www.edn.com/wp-content/uploads/Hero-image-CYW55913.png?w=2850 2850w" sizes="(max-width: 4955px) 100vw, 4955px" /><p>Connected MCUs, also called Wi-Fi SoCs, are targeted at smart home, industrial, wearables, and IoT applications.</p>
+<p>The post <a href="https://www.edn.com/connected-mcus-incorporate-wi-fi-6-6e-ble-5-4/" data-wpel-link="internal">Connected MCUs incorporate Wi-Fi 6/6E, BLE 5.4</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/connected-mcus-incorporate-wi-fi-6-6e-ble-5-4/>
 
 ---
 
@@ -13,7 +49,7 @@ updated: 2024-06-24 16:20:14
 
 date: 2024-06-24, from: EDN Blog
 
-<img width="1000" height="563" src="https://www.edn.com/wp-content/uploads/hero-image-3dic.jpg?fit=1000%2C563" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/hero-image-3dic.jpg?w=1000 1000w, https://www.edn.com/wp-content/uploads/hero-image-3dic.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/hero-image-3dic.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/hero-image-3dic.jpg?w=800 800w" sizes="(max-width: 1000px) 100vw, 1000px" /><p>Calibre 3DThermal enables designers to model, visualize, and mitigate thermal effects from early-stage chip design to packaging to signoff.</p>
+<img width="1000" height="563" src="https://www.edn.com/wp-content/uploads/hero-image-3dic.jpg?fit=1000%2C563" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/hero-image-3dic.jpg?w=1000 1000w, https://www.edn.com/wp-content/uploads/hero-image-3dic.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/hero-image-3dic.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/hero-image-3dic.jpg?w=800 800w" sizes="(max-width: 1000px) 100vw, 1000px" /><p>Calibre 3DThermal enables designers to model, visualize, and mitigate thermal effects from early-stage chip design to packaging to signoff.</p>
 <p>The post <a href="https://www.edn.com/thermal-analysis-tool-aims-to-reinvigorate-3d-ic-design/" data-wpel-link="internal">Thermal analysis tool aims to reinvigorate 3D-IC design</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

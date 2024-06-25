@@ -1,11 +1,33 @@
 ---
 title: libraries 2024.26
-updated: 2024-06-24 16:20:18
+updated: 2024-06-25 08:32:55
 ---
 
 # libraries 2024.26
 
-(date: 2024-06-24 16:20:18)
+(date: 2024-06-25 08:32:55)
+
+---
+
+## Short and sweet: the “RDM Guidelines” for ETH researches explained
+
+date: 2024-06-25, from: ETH Zurich Research Archives
+
+In a series of short videos, we explain the most important aspects of the “RDM Guidelines” quickly and easily – for good scientific practice and FAIR data. Read more<img src="https://analytics.library.ethz.ch/piwik.php?idsite=1&amp;rec=1&amp;url=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Fshort-and-sweet-the-rdm-guidelines-for-eth-researches-explained%2F&amp;action_name=Short+and+sweet%3A+the+%E2%80%9CRDM+Guidelines%E2%80%9D+for+ETH+researches+explained&amp;urlref=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" /> 
+
+<https://rc-blog.ethz.ch/en/short-and-sweet-the-rdm-guidelines-for-eth-researches-explained/>
+
+---
+
+## Day in Review (June 24-27)
+
+date: 2024-06-25, from: Association of Research Libraries News
+
+<p>Last Updated on June 25, 2024, 12:37 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 25 &#124; Wednesday, June 26 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-june-24-27/">Day in Review (June 24-27)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/day-in-review/day-in-review-june-24-27/>
 
 ---
 
