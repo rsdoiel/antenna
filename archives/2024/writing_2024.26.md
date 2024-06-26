@@ -1,11 +1,22 @@
 ---
 title: writing 2024.26
-updated: 2024-06-26 08:05:28
+updated: 2024-06-26 09:20:40
 ---
 
 # writing 2024.26
 
-(date: 2024-06-26 08:05:28)
+(date: 2024-06-26 09:20:40)
+
+---
+
+## Paula Guran Reviews The Proper Thing and Other Stories by Seanan McGuire
+
+date: 2024-06-26, from: Locus Magazine
+
+<p><strong>The Proper Thing and Other Stories, </strong>Seanan McGuire (Subterranean ISBN 978-1-64524-192-8, 508pp. $50.00, hc) April 2024. Cover by Carla McNeil.</p>
+<p>Probably best-known for her Wayward Children series, Hugo, Nebula, and Locus Award-winner Seanan McGuire is also a prolific writer of short fiction. McGuire’s second collection (she has two others writing as Mira Grant) is both massive and enchanting. The two dozen stories tend toward darkness but, more often than not,  <a href="https://locusmag.com/2024/06/paula-guran-reviews-the-proper-thing-and-other-stories-by-seanan-mcguire-2/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/paula-guran-reviews-the-proper-thing-and-other-stories-by-seanan-mcguire-2/>
 
 ---
 

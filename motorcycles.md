@@ -1,11 +1,21 @@
 ---
 title: motorcycles 2024.26
-updated: 2024-06-26 08:05:30
+updated: 2024-06-26 09:20:41
 ---
 
 # motorcycles 2024.26
 
-(date: 2024-06-26 08:05:30)
+(date: 2024-06-26 09:20:41)
+
+---
+
+## From Junkyard Bikes To Ice Cream, Watch Two Vintage Hondas Hit The Road
+
+date: 2024-06-26, from: Ride Apart, Electric Motorcycle News
+
+Can these two thrashed Hondas make it over 100 miles in 90-plus degree weather? 
+
+<https://www.rideapart.com/news/724548/junkyard-honda-icecream-road-trip/>
 
 ---
 

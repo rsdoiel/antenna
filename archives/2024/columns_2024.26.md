@@ -1,11 +1,31 @@
 ---
 title: columns 2024.26
-updated: 2024-06-26 08:05:28
+updated: 2024-06-26 09:20:39
 ---
 
 # columns 2024.26
 
-(date: 2024-06-26 08:05:28)
+(date: 2024-06-26 09:20:39)
+
+---
+
+## Human Insight + LLM Grunt Work = Creative Publishing Solution
+
+date: 2024-06-26, from: Jonudell blog
+
+Here&#8217;s the latest installment in the series on working with LLMS: https://thenewstack.io/human-insight-llm-grunt-work-creative-publishing-solution/ Although streamlined publishing of screenshots is nice, the biggest win comes from reviewing and revising in Google Docs; which, for better and worse, has become the defacto collaboration standard for many of us. I am ridiculously pleased with this solution. The rest of &#8230; <a href="https://blog.jonudell.net/2024/06/26/human-insight-llm-grunt-work-creative-publishing-solution/" class="more-link">Continue reading <span class="screen-reader-text">Human Insight + LLM Grunt Work = Creative Publishing Solution</span></a> 
+
+<https://blog.jonudell.net/2024/06/26/human-insight-llm-grunt-work-creative-publishing-solution/>
+
+---
+
+##  Pros And Cons Of Displaying The 10 Commandments In Every Classroom. &#8220;PRO:... 
+
+date: 2024-06-26, updated: 2024-06-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044876-pros-and-cons-of-displayi>
 
 ---
 

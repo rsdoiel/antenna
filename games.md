@@ -1,11 +1,51 @@
 ---
 title: games 2024.26
-updated: 2024-06-26 08:05:29
+updated: 2024-06-26 09:20:40
 ---
 
 # games 2024.26
 
-(date: 2024-06-26 08:05:29)
+(date: 2024-06-26 09:20:40)
+
+---
+
+## How to get into horror movies, according to Joe Dante
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24183313/how-to-get-into-horror-movies-joe-dante-gremlins>
+
+---
+
+## Elden Ring Shadow of the Erdtree walkthrough route for the main story
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24182737/walkthrough-where-to-go-after-critical-path-main-story-sote>
+
+---
+
+## Batman: Caped Crusader is all Gotham City throwbacks in first trailer
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24186437/batman-caped-crusader-trailer-animated-show>
+
+---
+
+## The first American Girl comic book, Julie and the Blue Guitar, is a worthy installment in the franchise
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24185954/american-girl-julie-blue-guitar-comic-review>
 
 ---
 

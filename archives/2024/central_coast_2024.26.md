@@ -1,11 +1,36 @@
 ---
 title: central coast 2024.26
-updated: 2024-06-26 08:05:27
+updated: 2024-06-26 09:20:38
 ---
 
 # central coast 2024.26
 
-(date: 2024-06-26 08:05:27)
+(date: 2024-06-26 09:20:38)
+
+---
+
+## Nicholas Basileos Gekis, Formerly of Santa Barbara, 1952-2024
+
+date: 2024-06-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="630" height="971" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-nickyG-630.gif?fit=630%2C971&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Nicholas Basileos Gekis" decoding="async" fetchpriority="high" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Nicholas Basileos Gekis, born on March 16, 1952, in Santa Barbara at St. Francis Hospital passed away on June 15, 2024, in Phoenix, Arizona, with his wife, brother and friends by [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/nicholas-basileos-gekis-formerly-of-santa-barbara-1952-2024/">Nicholas Basileos Gekis, Formerly of Santa Barbara, 1952-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/nicholas-basileos-gekis-formerly-of-santa-barbara-1952-2024/>
+
+---
+
+## Santa Barbara Unified Graduates 1st Interpretation/Translation Class
+
+date: 2024-06-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>One of the newest pathway programs at Santa Barbara Unified is celebrating its first graduating class. The Interpretation/Translation program at Santa Barbara High School — the first of its kind [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-unified-graduates-1st-interpretation-translation-class/">Santa Barbara Unified Graduates 1st Interpretation/Translation Class</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-unified-graduates-1st-interpretation-translation-class/>
 
 ---
 
@@ -13,7 +38,7 @@ updated: 2024-06-26 08:05:27
 
 date: 2024-06-26, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Great Sand Dunes National Park &amp; Preserve in south-central Colorado." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Great Sand Dunes National Park &amp; Preserve in south-central Colorado." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/050424-POD-Melissa-Marsted.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The post <a href="https://www.noozhawk.com/great-sand-dunes-national-park/">Great Sand Dunes National Park</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 
@@ -25,7 +50,7 @@ date: 2024-06-26, from: Newshawk, the freshest news in Santa Barbara County
 
 date: 2024-06-26, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/foresters-625-cover.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The Santa Barbara Foresters survived a late comeback effort and earned an 8-7 victory over the San Diego Bombers on Tuesday at Eddie Mathews Field. After the Bombers erased a [&#8230;]</p>
 <p>The post <a href="https://www.noozhawk.com/jesse-di-maggio-drives-in-go-ahead-run-as-foresters-outlast-san-diego-bombers-for-8-7-win/">Jesse Di Maggio Drives in Go-Ahead Run as Foresters Outlast San Diego Bombers for 8-7 Win</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  

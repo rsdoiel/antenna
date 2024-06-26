@@ -1,11 +1,41 @@
 ---
 title: tech likely 2024.26
-updated: 2024-06-26 08:05:27
+updated: 2024-06-26 09:20:39
 ---
 
 # tech likely 2024.26
 
-(date: 2024-06-26 08:05:27)
+(date: 2024-06-26 09:20:39)
+
+---
+
+## Mozilla integrating AI chatbots into Firefox
+
+date: 2024-06-26, from: OS News
+
+Mozilla has announced it&#8217;s adding easy access to tool like ChatGPT, Gemini, and so to Firefox. Whether it’s a local or a cloud-based model, if you want to use AI, we think you should have the freedom to use (or not use) the tools that best suit your needs. With that in mind, this week, we will launch an opt-in experiment offering access to preferred AI services in Nightly for improved productivity as you browse. Instead of juggling between tabs or apps for assistance, those who have opted-in will have the option to access their preferred AI service from the Firefox sidebar to summarize information, simplify language, or test their knowledge, all without leaving their current web page.&#160; Our initial offering will include ChatGPT, Google Gemini, HuggingChat, and Le Chat Mistral, but we will continue adding AI services that meet our standards for quality and user experience. ↫ Ian Carmichael My biggest worry is not so much Mozilla adding these tools to Firefox &#8211; other browsers are doing it, and people clearly want to use them, so it makes sense for Firefox, too, to integrate them into the browser. No, my biggest worry is that this is just the first step on the way to the next major revenue agreement &#8211; just as Google is paying Mozilla to be the default search engine in Firefox, what if OpenAI starts paying to be the default AI tool in Firefox? Once that happens, I&#8217;m afraid a lot of the verbiage around choice and the ability to easily disable it all is going to change. I&#8217;m still incredibly annoyed by the fact I have to dive into about:config just to properly remove Pocket, a service I do not use, do not want, and annoys me by taking up space in my UI. I&#8217;m afraid that one or two years from now, AI integration will be just another complex set of strings I need to look for in about:config to truly disable it all. It definitely feels like Firefox is only going to get worse from here on out, not better, and this AI stuff seems more like an invitation for a revenue agreement than something well thought-out and useful. We&#8217;ll see where things go from here, but my worries about Firefox&#8217; future are only growing stronger with Mozilla&#8217;s latest moves. As a Linux user, this makes me worried. 
+
+<https://www.osnews.com/story/140074/mozilla-integrating-ai-chatbots-into-firefox/>
+
+---
+
+## Human Insight + LLM Grunt Work = Creative Publishing Solution
+
+date: 2024-06-26, from: John Udell blog
+
+Here&#8217;s the latest installment in the series on working with LLMS: https://thenewstack.io/human-insight-llm-grunt-work-creative-publishing-solution/ Although streamlined publishing of screenshots is nice, the biggest win comes from reviewing and revising in Google Docs; which, for better and worse, has become the defacto collaboration standard for many of us. I am ridiculously pleased with this solution. The rest of &#8230; <a href="https://blog.jonudell.net/2024/06/26/human-insight-llm-grunt-work-creative-publishing-solution/" class="more-link">Continue reading <span class="screen-reader-text">Human Insight + LLM Grunt Work = Creative Publishing Solution</span></a> 
+
+<https://blog.jonudell.net/2024/06/26/human-insight-llm-grunt-work-creative-publishing-solution/>
+
+---
+
+##  Pros And Cons Of Displaying The 10 Commandments In Every Classroom. &#8220;PRO:... 
+
+date: 2024-06-26, updated: 2024-06-26, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044876-pros-and-cons-of-displayi>
 
 ---
 

@@ -1,11 +1,111 @@
 ---
 title: pacific 2024.26
-updated: 2024-06-26 08:05:26
+updated: 2024-06-26 09:20:38
 ---
 
 # pacific 2024.26
 
-(date: 2024-06-26 08:05:26)
+(date: 2024-06-26 09:20:38)
+
+---
+
+## Falcons feast on Blue Shark, 10-0
+
+date: 2024-06-26, updated: 2024-06-26, from: Marianas Variety
+
+THE undefeated Falcons continue to dominate the 2024 Tan Holdings Saipan Baseball League by shutting out the Blue Shark, 10-0, at the Francisco “Tan Ko” Palacios Baseball Field on Tuesday. It was the Falcons’ sixth consecutive win. 
+
+<https://www.mvariety.com/sports/localsports/falcons-feast-on-blue-shark-10-0/article_e43f5a8c-3399-11ef-b31e-2b534604197e.html>
+
+---
+
+## National Conference of State Legislatures representative to brief NMI lawmakers, staffers
+
+date: 2024-06-26, updated: 2024-06-26, from: Marianas Variety
+
+THE state liaison for the National Conference of State Legislatures, Arturo Perez is on island to brief the local lawmakers and the Legislative Bureau about the NCSL. 
+
+<https://www.mvariety.com/news/local/national-conference-of-state-legislatures-representative-to-brief-nmi-lawmakers-staffers/article_ff6b1022-3384-11ef-9cde-9f7f3bbc4da6.html>
+
+---
+
+## WikiLeaks founder returns to Australia a free man
+
+date: 2024-06-26, updated: 2024-06-26, from: Marianas Variety
+
+WIKILEAKS founder Julian Assange on Wednesday returned to his home country, Australia, a free man after admitting that he violated the U.S. Espionage Act. 
+
+<https://www.mvariety.com/news/local/wikileaks-founder-returns-to-australia-a-free-man/article_12f7674a-33cf-11ef-9022-4ff20e941396.html>
+
+---
+
+## ‘Island Knights’ conduct outreach on Saipan
+
+date: 2024-06-26, updated: 2024-06-26, from: Marianas Variety
+
+MEMBERS of Helicopter Sea Combat Squadron 25 or the “Island Knights” held a community outreach opportunity at the Francisco C. Ada/Saipan International Airport on Wednesday, June 26. 
+
+<https://www.mvariety.com/news/local/island-knights-conduct-outreach-on-saipan/article_7c71b426-3395-11ef-9ccd-afa61bed8f48.html>
+
+---
+
+## Rotaract Club of Saipan hosts Saipan Summer Showdown Vol. 2 video game tournament on June 29
+
+date: 2024-06-26, updated: 2024-06-26, from: Marianas Variety
+
+THE Saipan Summer Showdown Vol. 2 Tournament, hosted by the Rotaract Club of Saipan, takes place on Saturday, June 29 and is still accepting registrants, Rotaract President Richard Baleares said. 
+
+<https://www.mvariety.com/sports/localsports/rotaract-club-of-saipan-hosts-saipan-summer-showdown-vol-2-video-game-tournament-on-june/article_d0a1b8a6-338c-11ef-9b09-6f8901b23d38.html>
+
+---
+
+## American Samoa, Guam, CNMI,  US Virgin Islands’ Digital Equity plan accepted
+
+date: 2024-06-26, updated: 2024-06-26, from: Marianas Variety
+
+WASHINGTON (NTIA) — The Department of Commerce’s National Telecommunications and Information Administration has accepted Digital Equity plans from American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands. 
+
+<https://www.mvariety.com/news/local/american-samoa-guam-cnmi-us-virgin-islands-digital-equity-plan-accepted/article_e0867dba-33d2-11ef-9e36-3b99a7d866b3.html>
+
+---
+
+## Assange touches down on Saipan amid global media frenzy
+
+date: 2024-06-26, updated: 2024-06-26, from: Marianas Variety
+
+THE Bombardier Global 6000 private jet carrying WikiLeaks founder Julian Paul Assange landed at the Saipan airport on Tuesday at 6:14 a.m. 
+
+<https://www.mvariety.com/news/local/assange-touches-down-on-saipan-amid-global-media-frenzy/article_3ab88a8a-33ce-11ef-8396-7bd3d0c2874d.html>
+
+---
+
+## Probationers to gain trade skills through judiciary-NMTI partnership
+
+date: 2024-06-26, updated: 2024-06-26, from: Marianas Variety
+
+THE Office of Adult Probation, which is under the CNMI judiciary, has signed a memorandum of understanding with the Northern Marianas Technical Institute to provide local probationers an opportunity to acquire a career in electrical, electronics, construction, automotive technology and culinary arts, among other trades. 
+
+<https://www.mvariety.com/news/local/probationers-to-gain-trade-skills-through-judiciary-nmti-partnership/article_bb6b96b2-33c5-11ef-a67a-7f1074d124c6.html>
+
+---
+
+## Rep. Camacho asks Senate to act on tax-hike measures
+
+date: 2024-06-26, updated: 2024-06-26, from: Marianas Variety
+
+REPRESENTATIVE Diego Vincent F. Camacho on Tuesday criticized the Senate for its failure to act on bills that, he said, could address the CNMI government’s revenue shortfall. 
+
+<https://www.mvariety.com/news/local/rep-camacho-asks-senate-to-act-on-tax-hike-measures/article_3e7e8192-338d-11ef-aaa0-afda549134cc.html>
+
+---
+
+## Court ruling on Rota Resort ‘a great victory for Commonwealth,’ Sen. Manglona says
+
+date: 2024-06-26, updated: 2024-06-26, from: Marianas Variety
+
+A GREAT victory for the Commonwealth, especially for the people of Rota. 
+
+<https://www.mvariety.com/news/local/court-ruling-on-rota-resort-a-great-victory-for-commonwealth-sen-manglona-says/article_f14587da-3388-11ef-9a5b-fbb095feae54.html>
 
 ---
 
