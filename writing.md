@@ -1,11 +1,190 @@
 ---
 title: writing 2024.26
-updated: 2024-06-25 08:32:54
+updated: 2024-06-26 08:05:28
 ---
 
 # writing 2024.26
 
-(date: 2024-06-25 08:32:54)
+(date: 2024-06-26 08:05:28)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-26, from: Neil Gaiman @ BlueSky)
+
+2018 King Neptune at the Coney Island Parade...
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kvteg4fz6k2f>
+
+---
+
+## Why You Should Print Your Manuscript and Edit It on Paper
+
+date: 2024-06-26, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p>When you&#39;ve completed the first draft of your manuscript, it&#39;s time to revise it. The process of going from first to second draft can be long and complex, as you may need to move scenes around, add or remove characters, change plot lines and sub-plots, and more.</p>
+
+<p>Scrivener has <a href="https://www.literatureandlatte.com/blog/how-to-revise-the-first-draft-of-your-novel-in-scrivener" target="_blank">powerful tools to help you in the revision process</a>. But it can be helpful to print your manuscript and edit it on paper. Editing on paper has many advantages, even if you&#39;re just making structural edits of a first draft.</p>
+
+<p>Tip: you may find it easiest to <a href="https://www.literatureandlatte.com/blog/how-to-make-a-pdf-of-your-scrivener-project" target="_blank">create a PDF of your project</a> and then print that out, <a href="https://www.literatureandlatte.com/blog/printing-with-scrivener" target="_blank">rather than print it directly from Scrivener</a>. If you don&#39;t have a printer and need to go to a printing service, then you&#39;ll need a PDF.</p>
+
+You get a different perspective on your work
+
+<p>You&#39;ve been looking at your screen for hundreds of hours as you worked on your manuscript, seeing everything through the filter of your computer&#39;s display. If you print your manuscript, you see the work in a different way. It&#39;s no longer photons on a computer display; it&#39;s characters on paper, the way your project will eventually look in book form.</p>
+
+<p>You can see your manuscript as a pile of paper, rather than folders and files in Scrivener&#39;s binder. You get a better idea of how long it is, and specifically how long chapters are. You can also appreciate the lengths of paragraphs and lines of dialogue more easily than when looking at a screen.</p>
+
+Paper can help with structural editing
+
+<p>It&#39;s easy to move scenes around in Scrivener, but you need to know what you want to move. When looking at your project in the Binder, you see the names of the folders and files you&#39;ve created, but you don&#39;t see the contents of multiple sections or chapters until you select them.</p>
+
+<p>Clear your room and lay the chapters out on the floor. Stand back and look at the big picture; you may have a better view of the structure of your project, and you can move chapters and sections around and see how they flow from one to another. It can be useful to write synopses on Post-its or index cards attached to each chapter, so you know, at a glance, what is going on.&nbsp;</p>
+
+Paper changes your engagement
+
+<p>Looking at your manuscript on paper, your brain thinks differently than when it sees words on a screen. Ideally, you should print your manuscript in a different font than the one you use on screen. This helps you look at your manuscript as if it is new and fresh.</p>
+
+<p>The tactile nature of paper can help you approach the editing process differently than you would on screen. You may find that editing your manuscript on paper can be less fatiguing than doing so on screen and also enable you to find more errors or other elements to change.</p>
+
+Paper can make you slow down
+
+<p>When editing and proofreading, you can&#39;t rush. We&#39;re so used to looking at screens when writing that we might skip over potential errors when editing on screen. The slower pace of reading on paper can help you catch small errors and nuances that you might overlook on a computer.</p>
+
+<p>It&#39;s also easier to take breaks when editing on paper; pages end, they don&#39;t scroll, and you may find that you can pause more easily at the end of a page than you can on screen at the end of a paragraph.</p>
+
+You have many tools for editing
+
+<p>When you work on a computer, you are essentially limited to using a mouse and a keyboard. Editing on paper allows you to use a full range of tools: pens and pencils, highlighters, Post-it&nbsp;sticky notes, and more. For some people, using manual tools enhances creativity during the editing process. You can use multiple colors for your pens, highlighters, and Post-its, which can help you label and organize the types of changes you want to make. Working with analog tools enables your brain to process the text differently than when it is on screen.</p>
+
+<p>Depending on how you want to work with paper, you can choose different ways to print your manuscript. Some people mark locations on the page and take notes on a pad or in notebooks; others prefer to note everything on the page. If you plan to make notes on the printed pages, you may want to double-space the text and leave wide margins. If you want to make notes on Post-its, then you don&#39;t need wide margins, which means you can have fewer pages for each chapter.</p>
+
+You don&#39;t commit your changes immediately
+
+<p>One good thing about editing on paper is that you don&#39;t succumb to gut reactions about your text, making changes to your project immediately. As you write your changes - on the printed page, on a pad, or in a notebook - these are your thoughts during the editing process.</p>
+
+<p>Instead of the entire editing process taking place in real time on your computer, you get to allow your impressions to distill as you edit on paper. If you&#39;re editing a long manuscript, it may take days or even weeks before you go back to the screen to add your edits to your Scrivener project. When you go back to your project and look at your notes to apply changes, you may find that you think differently after a bit of time and make different edits, or don&#39;t change some of the edits that you&#39;ve marked.</p>
+
+<p>Also, some early edits may be influenced by later changes you&#39;ve made, making the entire process more global rather than just an incremental process from the beginning of your manuscript to the end.</p>
+
+<p>It may seem counterintuitive to edit on paper since you have written so much on a computer. But there are many benefits to this, and it&rsquo;s worth trying the next time you have a project to edit.&nbsp;</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+ 
+
+<https://www.literatureandlatte.com/blog/why-you-should-print-your-manuscript-and-edit-it-on-paper>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-26, from: Neil Gaiman @ BlueSky)
+
+Hurrah!!
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kvs37zorkk2g>
+
+---
+
+## Liz Bourke Reviews In the Shadow of the Ship by Aliette de Bodard
+
+date: 2024-06-25, from: Locus Magazine
+
+<p><strong>In the Shadow of the Ship</strong>, Aliette de Bodard (Subterranean Press 978-1-64524-147-8, $40.00, 96pp, hc) September 2024. Cover by Maurizio Manzieri.</p>
+<p><strong>In the Shadow of the Ship </strong>is the latest Xuya universe story from Aliette de Bodard. A short novella or a long novelette, it clocks in at around 90 pages of text, and it has many of the elements I’ve come to expect from de Bodard: elders who  <a href="https://locusmag.com/2024/06/liz-bourke-reviews-in-the-shadow-of-the-ship-by-aliette-de-bodard/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/liz-bourke-reviews-in-the-shadow-of-the-ship-by-aliette-de-bodard/>
+
+---
+
+## 2024 Indie Book Awards Winners
+
+date: 2024-06-25, from: Locus Magazine
+
+<p>The <strong>2024 Indie Book Awards Winners</strong> have been announced. <strong>Yellowface</strong> by R. F. Kuang (William Morrow/The Borough Press) won in the Fiction category, and <strong>The Golden Mole: and Other Vanishing Treasure</strong><b> </b>by Katherine Rundell with illustrations by Tayla Baldwin (Faber &#38; Faber UK) won in the Nonfiction category. There were several other titles and authors of genre interest on the 2024 shortlist, including <b>Weyward </b>by Emilia Hart (The Borough Press)  <a href="https://locusmag.com/2024/06/2024-indie-book-awards-winners/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/2024-indie-book-awards-winners/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-25, from: Neil Gaiman @ BlueSky)
+
+If you've ever read any Jonathan Carroll you will know how cool this is. If not, you have a treat in store.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kvricb5ptk2n>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-25, from: Neil Gaiman @ BlueSky)
+
+Good luck!
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kvrh34jdnc2q>
+
+---
+
+## This Is What Managers Look for in a Script
+
+date: 2024-06-25, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/this-is-what-managers-look-for-in-a-script" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/This%20Is%20What%20Managers%20Look%20for%20in%20a%20Script.jpg" alt="Three people looking at a laptop against a tan background; This Is What Managers Look for in a Script" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>These days it’s uncommon for a screenwriter to sell a script or get an agent without being repped by </span><a href="https://blog.finaldraft.com/the-business-of-screenwriting-working-with-the-right-manager-or-agent"><span>a manager</span></a><span> beforehand. Management companies have become the de facto filtering system of the screenplay marketplace. </span></p> 
+
+<https://blog.finaldraft.com/this-is-what-managers-look-for-in-a-script>
+
+---
+
+## Changes at Augur
+
+date: 2024-06-25, from: Locus Magazine
+
+<p>Kerry C. Byrne, CEO of Canadian magazine Augur and the more recently established Tales &#38; Feathers, has announced a restructuring of the Augur Society organization, including magazine pay rates. Toria Liao has been named chief operating officer while longtime Augur co-editor-in-chief Terese Mason Pierre has been named chief program officer.</p>
+<p>Augur Magazine and Tales &#38; Feathers Magazine will combine teams and move away from an Editor-in-Chief model, delegating workload. Augur  <a href="https://locusmag.com/2024/06/changes-at-augur/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/changes-at-augur/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-25, from: Neil Gaiman @ BlueSky)
+
+First I've heard of it. I too am fascinated.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kvr7afikik2n>
+
+---
+
+## SLF Diversity Grants Submissions Open
+
+date: 2024-06-25, from: Locus Magazine
+
+<p>Submissions for the Speculative Literature Foundation&#8217;s (SLF) Diverse Writers Grant and Diverse Worlds Grant are open through July 31, 2024.</p>
+<p>Each grant awards a recipient $500. Diverse Writers &#8220;is intended to support speculative fiction writers from underrepresented and underprivileged groups&#8221; while Diverse Worlds &#8220;is intended for work that best presents a diverse world, regardless of the writer’s background.&#8221; Winners will be announced September 15, 2024.</p>
+<p>The Speculative Literature Foundation is  <a href="https://locusmag.com/2024/06/slf-diversity-grants-submissions-open/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/slf-diversity-grants-submissions-open/>
 
 ---
 

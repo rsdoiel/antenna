@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.26
-updated: 2024-06-25 08:32:52
+updated: 2024-06-26 08:05:26
 ---
 
 # mid central 2024.26
 
-(date: 2024-06-25 08:32:52)
+(date: 2024-06-26 08:05:26)
+
+---
+
+## The good, the bad, and the ugly of zero trims
+
+date: 2024-06-26, from: EDN Blog
+
+<img width="551" height="263" src="https://www.edn.com/wp-content/uploads/GoodBadUgly_Figure-3.png?fit=551%2C263" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/GoodBadUgly_Figure-3.png?w=551 551w, https://www.edn.com/wp-content/uploads/GoodBadUgly_Figure-3.png?w=300 300w" sizes="(max-width: 551px) 100vw, 551px" /><p>Designing an amplifier nulling circuit that allows for the attenuation of the supply voltages without hurting the PSRR of the amplifier. </p>
+<p>The post <a href="https://www.edn.com/the-good-the-bad-and-the-ugly-of-zero-trims/" data-wpel-link="internal">The good, the bad, and the ugly of zero trims</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/the-good-the-bad-and-the-ugly-of-zero-trims/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2024-06-25 08:32:52
 
 date: 2024-06-25, from: EDN Blog
 
-<img width="768" height="318" src="https://www.edn.com/wp-content/uploads/PowerTip130_Figure1.png?fit=768%2C318" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/PowerTip130_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/PowerTip130_Figure1.png?w=300 300w" sizes="(max-width: 768px) 100vw, 768px" /><p>A demonstration on how to quickly implement a USB-C connector and power management circuitry that negotiates the appropriate USB PD contract.</p>
+<img width="768" height="318" src="https://www.edn.com/wp-content/uploads/PowerTip130_Figure1.png?fit=768%2C318" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/PowerTip130_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/PowerTip130_Figure1.png?w=300 300w" sizes="(max-width: 768px) 100vw, 768px" /><p>A demonstration on how to quickly implement a USB-C connector and power management circuitry that negotiates the appropriate USB PD contract.</p>
 <p>The post <a href="https://www.edn.com/power-tips-130-migrating-from-a-barrel-jack-to-usb-type-c-pd/" data-wpel-link="internal">Power Tips #130: Migrating from a barrel jack to USB Type-C PD</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

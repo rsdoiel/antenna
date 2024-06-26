@@ -1,11 +1,557 @@
 ---
 title: tech likely 2024.26
-updated: 2024-06-25 08:32:53
+updated: 2024-06-26 08:05:27
 ---
 
 # tech likely 2024.26
 
-(date: 2024-06-25 08:32:53)
+(date: 2024-06-26 08:05:27)
+
+---
+
+## Wordle Kitty prevails!
+
+date: 2024-06-26, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/26/wordleGrid.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Wordle Kitty hunkers down in an epic battle with Wordle Monkey on stage at Carnegie Hall in NYC for the honor of kittens everywhere. She ultimately prevails, but not without a brush with disaster! The NY Times judges her performance as merely “great!”</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/26/kittenAbides.png"></center>The Kitten Abides!</div></p>
+ 
+
+<http://scripting.com/2024/06/26/144307.html?title=wordleKittyPrevails>
+
+---
+
+##  Former Tennessee Abortion Clinic Workers & Volunteers Speak Out Against the State&#8217;s Abortion Ban 
+
+date: 2024-06-26, updated: 2024-06-26, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/former-tennessee-abortion-clinic-workers-volunteers-speak-out-against-the-states-abortion-ban>
+
+---
+
+## How AI Revolutionized Protein Science, but Didn’t End It
+
+date: 2024-06-26, from: Quanta Magazine
+
+Three years ago, Google’s AlphaFold pulled off the biggest artificial intelligence breakthrough in science to date, accelerating molecular research and kindling deep questions about why we do science.            <p>The post <a href="https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/" target="_blank">How AI Revolutionized Protein Science, but Didn’t End It</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/>
+
+---
+
+## Pillars of Creation Star in New Visualization from NASA’s Hubble and Webb Telescopes
+
+date: 2024-06-26, from: NASA breaking news
+
+Made famous in 1995 by NASA’s Hubble Space Telescope, the Pillars of Creation in the heart of the Eagle Nebula have captured imaginations worldwide with their arresting, ethereal beauty. Now, NASA has released a new 3D visualization of these towering celestial structures using data from NASA’s Hubble and James Webb space telescopes. This is the […] 
+
+<https://science.nasa.gov/missions/hubble/new-hubble-webb-pillars-of-creation-visualization/>
+
+---
+
+## The 1998 Florida Firestorm and NASA’s Kennedy Space Center
+
+date: 2024-06-26, from: NASA breaking news
+
+Lightning Crashes East central Florida’s natural environment and climate have shaped, and delayed, Kennedy Space Center launch operations since the 1960s. Torrential pop-up thunderstorms, Atlantic hurricanes, roasting heat, and other climatic phenomena, including lightning and fire, repeatedly hampered mission timelines and created dangerous conditions for astronauts and workers. Kennedy Space Center personnel understood the dangers [&#8230;] 
+
+<https://www.nasa.gov/history/the-1998-florida-firestorm-and-nasas-kennedy-space-center/>
+
+---
+
+##  Unhoused participants in the Denver Basic Income Project used their $1000/mo to... 
+
+date: 2024-06-26, updated: 2024-06-26, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044873-unhoused-participants-in->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-26, from: Dave Winer's Scripting News)
+
+Summary of yesterday's news: You should now be able to subscribe to my podcasts. Use the search function in your favorite podcast client and look for <i>Scripting News.</i> This is what it <a href="https://imgs.scripting.com/2024/06/26/applePodcastClientForScriptingNews.png">looks like</a> in Apple Podcasts, for example. 
+
+<http://scripting.com/2024/06/26.html#a130215>
+
+---
+
+## Smart bee hotel features 11 Raspberry Pis
+
+date: 2024-06-26, from: Raspberry Pi News (.com)
+
+<p>Ten Raspberry Pis work with individual live-streaming cameras, and an eleventh powers six weather stations around this smart bee hotel.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/smart-bee-hotel-features-11-raspberry-pis/">Smart bee hotel features 11 Raspberry Pis</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/smart-bee-hotel-features-11-raspberry-pis/>
+
+---
+
+## Diner in Florida Sneezes His Guts Out
+
+date: 2024-06-26, updated: 2024-06-26, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/06/26/diner-in-florida-sneezes-his-guts-out/>
+
+---
+
+## money is magic
+
+date: 2024-06-26, from: Ayjay blog
+
+Spoilers ahead, but come on, you know how books like this end. Trollope’s Doctor Thorne is the classic story about the poor orphan girl who turns out to be a princess, but with a twist: Trollope asks how a poor orphan girl can become a princess, and his answer is: With money. Mary Thorne doesn’t [&#8230;] 
+
+<https://blog.ayjay.org/money-is-magic/>
+
+---
+
+## SUSE Linux Enterprise 15 to receive support right up to end of Unix epoch
+
+date: 2024-06-26, updated: 2024-06-26, from: Liam Proven's articles at the Register
+
+<h4>And there's a special offer on the CentOS-compatible Liberty Linux</h4>
+      <p>As SUSE ascends its self-imposed ALP, this version may be the last of the fixed release cycle for openSUSE Leap.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/06/26/sle_opensuse_15_6/>
+
+---
+
+## 2024-06-22 Lieu for niche search
+
+date: 2024-06-26, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-22-lieu-for-niche-search">2024-06-22 Lieu for niche search</h1>
+
+<p>“Let me google it for you” was a bad reply back in the days; these days telling somebody “to google something” is insulting because we all know how aggravating it is to spend time and energy against privacy invasions and sifting through the AI slop and the grifters. Life is short and there’s no time for this.</p>
+
+<p>I try to err on the side of caution and always add links to stuff if I can. I’m preparing for the total breakdown of search as we know it.</p>
+
+<p>Some days Internet search feels like we’re at the capitalist optimum where everything is as painful as possible but not prohibitive. Can’t live without it (to find those link farms, advice sites, public archives) but also can’t find the private websites and blogs.</p>
+
+<p>Is it true that Reddit managed to replace all the blogs or is it true that we just can’t find them any more.
+The real problem is the loss of trust all around.</p>
+
+<p><a class="account" href="https://merveilles.town/@vesto" title="@vesto@merveilles.town">@vesto</a> reminded me that there was a solution in &ldquo;the realm of curating human-scale websites&rdquo;: <a href="https://lieu.cblgh.org/">Lieu</a>.</p>
+
+<p>And indeed, it looks like a great starting place!</p>
+
+<p>I&rsquo;m thinking that perhaps I can somehow use blog planets as sources for topic-specific search engines.
+I could use the blogs on <a href="https://planet.emacslife.com/">Planet Emacslife</a> to build an Emacs search engine and the blogs of <a href="https://campaignwiki.org/rpg/">RPG Planet</a> to build an RPG search engine.</p>
+
+<p>It seems quite doable!</p>
+
+<p>The ethics remain complicated, of course. Would I want search engine developers to scrape my site? Usually I just notice them when their bots misbehave so I&rsquo;m pretty averse to the entire situation. The search engine makers also being ad sellers and ads being a poison for our society doesn&rsquo;t help. The search engine makers being AI fans and AI energy and water requirements being cited as the reasons to keep fossil power plants running and to build nuclear power plants doesn&rsquo;t help. AI also resulting in me having to read texts that other people didn&rsquo;t bother to write adds injury to insult.</p>
+
+<p>In any case… perhaps there is a way to have ethical search and not drown in the AI slob: Hand curated websites (taken from the planets), no ads, no income (and therefore necessarily small in scope).</p>
+
+<p>I started experimenting. Using <code>webringSelector = &quot;#sidebar li a:nth-child(2) [href]&quot;</code> in the <code>lieu.toml</code> file seemes to get the links of RPG blogs, for example.</p>
+
+<p>One thing I find disturbing is that lieu uses Colly to scrape the web and <a href="https://github.com/gocolly/colly/issues/614">Colly ignores robots.txt by default</a>. I managed to lock the crawler out of my site in less than a second. Yikes!</p>
+
+<p>And the sad part is that if I add <code>c.IgnoreRobotsTxt = false</code> to the code, it seems to have no effect. Does anybody know more about how to control this?</p>
+
+<p><a class="tag" href="/search/?q=%23Search">#Search</a></p>
+
+<p>The following branches are probably temporary:</p>
+
+<p><a href="https://github.com/kensanata/lieu/tree/unix-domain-socket">unix-domain-socket</a>:
+This can be used by systemd to start the server connected to a Unix
+domain socket. Using a server like nginx or Apache as a front-end
+allows them to communicate with the server via the Unix domain socket.
+In that case, no port is required.</p>
+
+<p><a href="https://github.com/kensanata/lieu/tree/robots-txt">robots-txt</a>:
+This is where I try to enable <code>robots.txt</code> handling again – but I&rsquo;m failing at it.</p>
+
+<p>Then again, perhaps the ethics of it all make it untenable for me – is this really something I need? If it isn’t, perhaps I’d be better off doing something else.</p>
+
+<p><strong>2024-06-26</strong>. Perhaps it&rsquo;d be easier to search feeds. People already publish feeds. The feeds already contain the content they are willing to share. The feed is already limited to web pages and doesn&rsquo;t include web applications.</p> 
+
+<https://alexschroeder.ch/view/2024-06-22-lieu>
+
+---
+
+## What share of lithium-ion batteries are recycled?
+
+date: 2024-06-26, from: Hannah Richie at Substack
+
+We don't know, is the honest answer. But the 5% figure seems to be a myth. 
+
+<https://www.sustainabilitybynumbers.com/p/battery-recycling-myth>
+
+---
+
+## A very local storm
+
+date: 2024-06-26, from: Doc Searls (at Harvard), New Old Blog
+
+It was a derecho, or something like one. The gust front you see in the third image here looks a lot like the storm front in the image above (via Weatherbug, storm tracker view). I&#8217;d experienced one twelve years ago, in Arlington, Mass. It felt like a two minute hurricane, and when it was over, [&#8230;] 
+
+<https://doc.searls.com/2024/06/25/a-very-local-storm/>
+
+---
+
+## NASA, SpaceX Launch NOAA’s Latest Weather Satellite
+
+date: 2024-06-26, from: NASA breaking news
+
+NASA successfully launched the fourth and final satellite in a series of advanced weather satellites for NOAA (National Oceanic and Atmospheric Administration) at 5:26 p.m. EDT Tuesday. The GOES-U (Geostationary Operational Environmental Satellite) will benefit the nation by providing continuous coverage of weather and hazardous environmental conditions across much of the Western Hemisphere. The satellite [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-spacex-launch-noaas-latest-weather-satellite/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-26, from: Miguel de Icaza Mastondon feed)
+
+<p>This is why we can’t have nice things<br /><a href="https://fedi.simonwillison.net/@simon/112679629018556753" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">fedi.simonwillison.net/@simon/</span><span class="invisible">112679629018556753</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112680425382508559>
+
+---
+
+## John Sullivan opened issue #142: SVN History? at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-06-26, updated: 2024-06-26, from: Oberon A2 at CAS
+
+
+<p dir="auto">Hi, I was curious about browsing some of the pre-2000s sources for A2, particularly to see the history of the X11 interface <a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/blob/main/source/Unix.X11.Mod#L11">https://gitlab.inf.ethz.ch/felixf/oberon/-/blob/main/source/Unix.X11.Mod#L11</a></p>
+<p dir="auto">I tried using <code>git-svn</code> to pull the history from the ETH hosted SVN server, but it doesn&#39;t appear to work unfortunately. I could try again or take some pointers, but I don&#39;t want to blindly mash against what&#39;s meant to be an archive. Maybe the SVN repo could be dumped to an object storage service as a permanent download? In general I think it would be illustrative to have a more complete history of the source code, but I understand if that&#39;s not a priority of the faculty. Thanks!</p>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/142>
+
+---
+
+## We’re Fighting for Library Rights in Court This Friday – Join Us!
+
+date: 2024-06-26, from: Internet Archive Blog
+
+Friday is our day in court. After four long years of legal action, we will be in New York for the appellate oral argument in Hachette v. Internet Archive, the [&#8230;] 
+
+<https://blog.archive.org/2024/06/26/were-fighting-for-library-rights-in-court-this-friday-join-us/>
+
+---
+
+##  Flying With My Dad 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/flying-with-my-dad-1>
+
+---
+
+## Of Psion and Symbian
+
+date: 2024-06-25, from: OS News
+
+As cool as the organizer was, it was extremely limited in pretty much every way. Psion had got many things right in the first go, as reviewers were quick to admit, and that made iterating on the design somewhat easy. The Organiser II CM released in 1986 was built on the Hitachi HD6303X (Motorola 6803) clocked at 920kHz with 8K RAM and 32K ROM. The screen was a much improved dot matrix LCD with two lines of sixteen characters. This version also shipped with a little piezo beeper built in, and an expansion slot on the top. The expansion slot could allow for a wired power adapter, a serial cable, a bar code reader, a telephone dialer, and even a USB port. Given the reputation of the first model for ruggedness and the coverage of the same quality in the second model, this particular model sold quite well to companies who needed handheld computers for inventory and other purposes. The Organizer II XP launched the same year, and this model had 32K RAM and a backlit screen while otherwise being the same machine. Given that both of these models had significantly more RAM than their predecessor, the programming capabilities were greatly enhanced with a new language, OPL, which was similar to BASIC. ↫ Bradford Morgan White The Psion Organiser II is the very root of all mobile computing today. This may seem like hyperbole &#8211; but trust me, it really is. I have an Organiser II LZ64 with a 32k datapak (memory card), and while it may look like a calculator, this little machine from 1986 already contains the very skeleton of the graphical user interface Palm would eventually popularise, and the iPhone and Android would take to extraordinary heights. Turn on an Organiser II, and you&#8217;re greeted by a home screen with a grid of applications (no icons, though, of course &#8211; just labels) with a selector you moved around with the cursor keys. Hit the EXE key, and the application would load up, ready to be used; hit the home button (the ON key if my memory serves) and it would take you back to the home screen. This basic paradigm, of a grid of applications as a home screen you always return to, survives to this day, and is used by billions of people on their Android and iOS devices, both smartphones and tablets. People with little to no knowledge of the history of mobile computing &#8211; or people spreading corporate propaganda &#8211; often seem to act as if the release of the iPhone was the big bang of mobile computing, and that it materialised out of thin air because Steve Jobs alone willed it into existence. The reality is, though, that there is a direct line from the early Psion devices, through to Palm OS, the iPhone, and later Android. There were various dead end branches along the way, too, like the Newton, like Symbian, like the original Windows PocketPC, and so on &#8211; but that direct line from early Psion to that fancy Pixel 8 Pro or whatever you have today is solidly visible to anyone without an agenda. I love my Organiser II. It&#8217;s approaching 40 years old now, and it still works without a single hitch. There&#8217;s barely a scratch on it, the display is bright, the pixels are clear, the characteristic sliding cover feels as solid today as it did when it rolled off the factory line. This is where mobile computing began. 
+
+<https://www.osnews.com/story/140070/of-psion-and-symbian/>
+
+---
+
+## I_WANT_A_BROKEN_PS (exploration of Linux 'ps') (2004)
+
+date: 2024-06-25, from: Tilde.news
+
+<p><a href="https://tilde.news/s/geo2rq/i_want_broken_ps_exploration_linux_ps_2004">Comments</a></p> 
+
+<https://aplawrence.com/Blog/B1011.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-25, from: Miguel de Icaza Mastondon feed)
+
+<p>But I did appreciate that even the tiniest restaurant had a DJ and great music.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112679444154780122>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-25, from: Miguel de Icaza Mastondon feed)
+
+<p>I have wanted to party in Ibiza for about 23 years.</p><p>Last year I finally went, but it was a family vacation, and Laura got Covid.   So I did not set foot in a single club.</p><p>Will try again in 22 years.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112679440782355648>
+
+---
+
+##  End Legal Slavery in the United States (i.e. forced prison labor). &#8220;It&#8217;s... 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044872-end-legal-slavery-in-the>
+
+---
+
+## How Capitalism Becomes Feudalism (Severance and Technofuedalism)
+
+date: 2024-06-25, from: Literate Machine
+
+Video Version &#124; Podcast Version Unlike most of my videos, I’m going to try not to spoil too much of the first season of Severance, because I want you to watch it, and I want you not to have to watch it to enjoy this video. This will spoil a number of particulars about the<p><a href="https://literatemachine.com/2024/06/25/how-capitalism-becomes-feudalism-severance-and-technofuedalism/" class="more-link themebutton">Read More</a></p> 
+
+<https://literatemachine.com/2024/06/25/how-capitalism-becomes-feudalism-severance-and-technofuedalism/>
+
+---
+
+## llama.ttf
+
+date: 2024-06-25, from: Michael Tsai
+
+S&#248;ren Fuglede J&#248;rgensen (via Hacker News): llama.ttf is a font file which is also a large language model and an inference engine for that model.[&#8230;]The font shaping engine HarfBuzz, used in applications such as Firefox and Chrome, comes with a Wasm shaper allowing arbitrary code to be used to &#8220;shape&#8221; text.In particular, this &#8220;arbitrary&#8221; code [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/25/llama-ttf/>
+
+---
+
+## visionOS Throttles CPU Based on Microphones
+
+date: 2024-06-25, from: Michael Tsai
+
+Shiny Quagsire (via Hacker News): visionOS 2 (or RealityKit) seems to have gotten way more aggressive about power throttling (or my battery/cable are having issues idk), so ALVR seems to throttle to 45Hz at much lower PPDs despite being totally fine thermally. lolll I found the answer, I was getting fucked by the userexperienced. Apparently [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/25/visionos-throttles-cpu-based-on-microphones/>
+
+---
+
+## Lightroom Classic 13.3 and 13.4
+
+date: 2024-06-25, from: Michael Tsai
+
+Agen Schmitz: Adobe has released Lightroom Classic 13.3, enabling you to erase unwanted objects and imperfections in your photos using the Generative Remove tool (powered by Adobe Firefly generative AI). This requires a new catalog database format. I&#8217;m seeing some weird behavior in that I can run it for days with it seemingly not doing [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/25/lightroom-classic-13-3-and-13-4/>
+
+---
+
+## MarsEdit 5.2.1
+
+date: 2024-06-25, from: Michael Tsai
+
+MarsEdit 5.2: The &#8220;Search&#8221; field in the main window now features a filter selection to toggle between searching everything or searching just the current selection. Inline &#8220;Find&#8221; support is now available in the rendered versions of posts in the Preview Window or Main Window. These are great. The ability to duplicate posts may serve as [&#8230;] 
+
+<https://mjtsai.com/blog/2024/06/25/marsedit-5-2-1/>
+
+---
+
+##  We Can and Should Address Racial Disparities. &#8220;Most of the programs that... 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044869-we-can-and-should-address>
+
+---
+
+## NASA Selects Participating Scientists to Join ESA’s Hera Mission
+
+date: 2024-06-25, from: NASA breaking news
+
+NASA has selected 12 participating scientists to join ESA’s (European Space Agency) Hera mission, which is scheduled to launch in October 2024. Hera will study the binary asteroid system Didymos, including the moonlet Dimorphos, which was impacted by NASA’s DART (Double Asteroid Redirection Test) spacecraft on Sept. 26, 2022. The objectives of DART and Hera […] 
+
+<https://science.nasa.gov/science-research/planetary-science/nasa-selects-participating-scientists-to-join-esas-hera-mission/>
+
+---
+
+## Sol 4225: Sliding Down Horsetail Falls
+
+date: 2024-06-25, from: NASA breaking news
+
+Earth planning date: Monday, June 24, 2024 This will be an important week for chemistry on our latest drill sample “Mammoth Lakes 2.”  Curiosity’s primary goal today was a preconditioning of the SAM instrument in preparation for its chemical analysis. Due to the large amounts of power required by SAM, today’s science block was limited […] 
+
+<https://science.nasa.gov/blogs/sol-4225-sliding-down-horsetail-falls/>
+
+---
+
+##  Riding With the Street Demon 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/riding-with-the-street-demon>
+
+---
+
+## Open Call to New York-based Artists to Create Collaborative NASA Mural
+
+date: 2024-06-25, from: NASA breaking news
+
+NASA and the Hudson Square Business Improvement District are launching an open call to New York-based artists and artist teams to design and install a large-scale, space-themed neighborhood mural. The NASA x Hudson Square partnership was developed to inspire the surrounding Manhattan Hudson Square community by showcasing NASA’s work and missions. Artists are encouraged to [&#8230;] 
+
+<https://www.nasa.gov/general/open-call-to-new-york-based-artists-to-create-collaborative-nasa-mural/>
+
+---
+
+## Unity in Orbit: Astronauts Soar with Pride Aboard Station
+
+date: 2024-06-25, from: NASA breaking news
+
+A powerful symbol of pride waved high above Earth aboard the International Space Station in December 2021, reflecting NASA&#8217;s commitment to a collaborative and inclusive environment in human spaceflight. The Pride flag was unveiled by NASA astronauts to celebrate our identities and unite in our commitment to equality and acceptance for all individuals.&#160; At NASA&#8217;s [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/unity-in-orbit-astronauts-soar-with-pride-aboard-station/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-25, from: Miguel de Icaza Mastondon feed)
+
+<p>I am much more likely to buy directly from you if you have Apple Pay checkout.</p><p>Otherwise, I just instinctively put it off or check Amazon.</p><p>I suspect many more folks are on that boat (or might have a preference for Google’s version)</p><p>Reminded of that by a toot by <span class="h-card" translate="no"><a href="https://infosec.exchange/@vcsjones" class="u-url mention">@<span>vcsjones</span></a></span></p> 
+
+<https://mastodon.social/@Migueldeicaza/112678722791962014>
+
+---
+
+##  AC Lamberty writes about how his tastes (and experience of masculinity) changed... 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044871-ac-lamberty-writes-about->
+
+---
+
+## Six Adapters for Crewed Artemis Flights Tested, Built at NASA Marshall
+
+date: 2024-06-25, from: NASA breaking news
+
+As a child learning about basic engineering, you probably tried and failed to join a square-shaped toy with a circular-shaped toy: you needed a third shape to act as an adapter and connect them both together. On a much larger scale, integration of NASA’s powerful SLS (Space Launch System) rocket and the Orion spacecraft for [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/six-adapters-for-crewed-artemis-flights-tested-built-at-nasa-marshall/>
+
+---
+
+## 1988 Interview Between Scott McNealy of Sun Microsystems and MicroTimes
+
+date: 2024-06-25, from: Computer ads from the Past
+
+Scott McNealy talks about Sun Microsystems, RISC, UNIX, and NeXT 
+
+<https://computeradsfromthepast.substack.com/p/1988-interview-between-scott-mcnealy>
+
+---
+
+##  Super Mario Bros, the Typewriter Edition 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/super-mario-bros-the-typewriter-edition>
+
+---
+
+## Remote shell to a Raspberry Pi at 39,000 ft
+
+date: 2024-06-25, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Remote shell to a Raspberry Pi at 39,000 ft</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>For a few weeks I've been beta testing remote shell, the latest addition to Raspberry Pi Connect. Just a couple hours ago I was on a flight home from the new Micro Center in Charlotte.</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/remote-shell-laptop-airplane.jpeg" alt="Pi Connect Remote Shell in airplane on laptop"></p>
+
+<p>One huge problem with VNC or remote desktop is how flaky it is if you have limited bandwidth or an unstable connection, like on an airplane.</p>
+
+<p>It takes forever to start a screen sharing session, and the airplane's flaky WiFi usually causes the session to lock up, meaning you can't do much at all.</p>
+
+<p>Remote <em>terminal</em> access, just relaying text commands, is the best solution for that problem. And sure, I have a VPN I could use with SSH to get to my Pi, but <a href="https://www.raspberrypi.com/news/raspberry-pi-connect-remote-shell-access-and-support-for-older-devices/">Raspberry Pi Connect just added support for remote shell access</a>.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-06-25T12:24:51-05:00" title="Tuesday, June 25, 2024 - 12:24" class="datetime">June 25, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/remote-shell-raspberry-pi-39000-ft>
+
+---
+
+##  The record industry is suing a pair of AI music-making companies over... 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044868-the-record-industry-is-su>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-25, from: Dave Winer's Scripting News)
+
+The page on <a href="https://feedland.com/?feedurl=http%3A%2F%2Fscripting.com%2Fpodcast.xml">feedland.com</a> and <a href="https://feedland.org/?feedurl=http%3A%2F%2Fscripting.com%2Fpodcast.xml">feedland.org</a>. 
+
+<http://scripting.com/2024/06/25.html#a160522>
+
+---
+
+## NASA Infrared Detector Technical Interchange
+
+date: 2024-06-25, from: NASA breaking news
+
+When/Where August 27-28, 2024NASA Jet Propulsion Laboratory in Pasadena, CA Who may attend? Invited participants from the NASA Centers, NASA HQ, and the broader community of IR technology developers and stakeholders. All participants must be U.S. Persons – the meeting will be held at the CUI level and presentations may contain ITAR material. Registration will [&#8230;] 
+
+<https://www.nasa.gov/general/nasa-infrared-detector-technical-interchange-meeting-august-27-28-2024/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-25, from: Dave Winer's Scripting News)
+
+The <a href="https://podcasts.apple.com/us/podcast/scripting-news/id1753971770">Apple Podcasts</a> page for the podcast feed. 
+
+<http://scripting.com/2024/06/25.html#a160418>
+
+---
+
+## Jake Cupani: Increasing Visibility in Data Science
+
+date: 2024-06-25, from: NASA breaking news
+
+Jake Cupani, a data science specialist, focuses on the intersection between data visualization and user experience — UX — design. Name: Jake CupaniTitle: Financial analytics support specialistOrganization: Financial Analytics and Systems Office, Office of the Chief Financial Officer (Code 156) What do you do and what is most interesting about your role here at Goddard? [&#8230;] 
+
+<https://www.nasa.gov/people-of-nasa/goddard-people/jake-cupani-increasing-visibility-in-data-science/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-25, from: Dave Winer's Scripting News)
+
+And the <a href="https://this.how/scriptingNewsPodcast/">FAQ</a> for the feed, linked to in the feed. 
+
+<http://scripting.com/2024/06/25.html#a154605>
+
+---
+
+## Looking ahead to 30 years of FreeDOS
+
+date: 2024-06-25, from: OS News
+
+In a few days, 29 June, FreeDOS will turn 30. This happens to make it one of the oldest, continuously active open source projects in the world, originally created because Jim Hall had heard Microsoft was going to kill DOS when the upcoming Windows 95 was going to be released. After seeing the excitement around Linux, he decided it an open source DOS would be a valuable time investment. I still used DOS, and I didn’t want to stop using DOS. And I looked at what Linux had achieved: people from all over the world shared source code with each other to make this full operating system that worked just like Unix. And I thought “If they can do that with Linux, surely we can do the same thing with DOS.” I asked around on a discussion board (called Usenet) if anyone had made an “open source” DOS, and people said “No, but that’s a good idea .. and you should do it.” So that’s why I announced on June 29, 1994, that I was starting a new project to make an open source version of DOS that would work just like regular DOS. ↫ Jim Hall For an open source implementation of what was a dead end and now is a dead operating system, FreeDOS has been remarkably successful. Not only are there countless people using FreeDOS on retro hardware, it&#8217;s also a popular operating system for DOS gaming and running old DOS applications in virtual machines. On top of that, many motherboard makers and OEMs use FreeDOS to load firmware update tools, and some of them even offered FreeDOS as the preinstalled operating system when buying new hardware. With the ever-increasing popularity of retrocomputing and gaming, FreeDOS clearly has a bright future ahead of itself. 
+
+<https://www.osnews.com/story/140067/looking-ahead-to-30-years-of-freedos/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-25, from: Dave Winer's Scripting News)
+
+Here's the new Scripting News <a href="http://scripting.com/podcast.xml">podcast-only feed</a>. 
+
+<http://scripting.com/2024/06/25.html#a153612>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-25, from: Miguel de Icaza Mastondon feed)
+
+<p>Two great documentaries at the top of the charts on Apple TV:</p><p><a href="https://tv.apple.com/us/movie/israelism/umc.cmc.5l93obwb09jqv7vzx5onscc1" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">tv.apple.com/us/movie/israelis</span><span class="invisible">m/umc.cmc.5l93obwb09jqv7vzx5onscc1</span></a></p><p><a href="https://tv.apple.com/us/movie/finding-the-money/umc.cmc.4wlgfqq0pdcphvcg89pd2us9r" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">tv.apple.com/us/movie/finding-</span><span class="invisible">the-money/umc.cmc.4wlgfqq0pdcphvcg89pd2us9r</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112677990278095190>
 
 ---
 
@@ -18,6 +564,16 @@ date: 2024-06-25, from: Mozilla Developer Network blog
  
 
 <https://hacks.mozilla.org/2024/06/sponsoring-sqlite-vec-to-enable-more-powerful-local-ai-applications/>
+
+---
+
+##  Oreo Kintsugi 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/oreo-kintsugi>
 
 ---
 
@@ -51,6 +607,17 @@ date: 2024-06-25, updated: 2024-06-25, from: Jason Kottke blog
 
 ---
 
+## Andrew Tanenbaum honored for pioneering MINIX, the OS hiding in a lot of computers
+
+date: 2024-06-25, updated: 2024-06-25, from: Liam Proven's articles at the Register
+
+<h4>Software System Award recognises his contributions to education</h4>
+      <p>Andy Tanenbaum, creator of MINIX, has been recognized for his code, seminal textbooks, and wider educational influence over much of the modern FOSS world.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/06/25/tanenbaum_minix_award/>
+
+---
+
 ##  &#8220;Since Texas&#8217; ban on abortion went into effect, infant deaths in the... 
 
 date: 2024-06-25, updated: 2024-06-25, from: Jason Kottke blog
@@ -77,6 +644,21 @@ date: 2024-06-25, from: Dave Winer's Scripting News
 
 ---
 
+## The podcast-only logo
+
+date: 2024-06-25, from: Dave Winer's Scripting News
+
+<p>How the logo for the podcast-only feed was designed.</p>
+<p>I turned to ChatGPT of course. It came breathtakingly close on the first attempt, but it repeated part of the story. Every time I asked it to fix a problem, it created another problem, and the image brightness was reduced, not just in terms of pixels but also the creativity of the image. Of course it isn't really creative. I know. Yadda yadda. </p>
+<p>Finally I got something that I could live with that I liked but was imperfect. I decided that since the motto of my blog is "It's even worse than it appears" that an obvious imperfection is totally consistent with the philosophy, and we move onward. As they say, still diggin!</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/25/scriptingNewsInlineImageVersion.png"></center>It's even worse th*@#it appears.</div></p>
+<p>The prompt for the image: "I'm sure you're aware of my blog, Scripting News, scripting.com. I am doing a new podcast feed for the blog. This feed is designed to get through Apple's submission process so it can be listed in their podcast database. One of the requirements is a 3000 by 3000 image that serves as a logo for the podcast. I need something simple and bold that says 'Scripting News podcast' and then 'With Dave Winer and friends' and 'It's even worse than it appears.' On a background of corn fields in Iowa viewed from the air."</p>
+ 
+
+<http://scripting.com/2024/06/25/134922.html?title=thePodcastonlyLogo>
+
+---
+
 ## Take a Ride on the Pinus
 
 date: 2024-06-25, updated: 2024-06-25, from: One Foot Tsunami
@@ -96,6 +678,16 @@ date: 2024-06-25, from: Raspberry Pi News (.com)
  
 
 <https://www.raspberrypi.com/news/raspberry-pi-connect-remote-shell-access-and-support-for-older-devices/>
+
+---
+
+## Announcing Hono on JSR
+
+date: 2024-06-25, updated: 2024-06-25, from: Deno blog
+
+Hono, a lightweight, fast, cross-platform web framework, is now on JSR. 
+
+<https://deno.com/blog/hono-on-jsr>
 
 ---
 
@@ -517,6 +1109,17 @@ date: 2024-06-24, updated: 2024-06-24, from: Liam Proven's articles at the Regis
 
 ---
 
+## Linux geeks cheer as Arm wrestles x86
+
+date: 2024-06-24, updated: 2024-06-24, from: Liam Proven's articles at the Register
+
+<h4>AlmaLinux and upstream kernel support for Raspberry Pi 5, plus a forthcoming high-performance Arm64 Tuxedo laptop</h4>
+      <p>Encouraging noises are coming from multiple directions around Linux support for both current and next-generation Arm64 kit.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/06/24/arm_linux_x86/>
+
+---
+
 ## The Question of What’s Fair Illuminates the Question of What’s Hard
 
 date: 2024-06-24, from: Quanta Magazine
@@ -683,6 +1286,16 @@ date: 2024-06-24, from: Alex Schroeder's Blog
 <p><a class="tag" href="/search/?q=%23RPG">#RPG</a></p> 
 
 <https://alexschroeder.ch/view/2024-06-23-difficulty>
+
+---
+
+## 2024/06/24 Meet DARPA’s Newest X-plane: XRQ-73
+
+date: 2024-06-24, from: Darpa News
+
+<div style="float:left"><img title="shep" alt="shep" src="https://www.darpa.mil/DDM_Gallery/shepard 619X316 copy_thumb.jpg" border="0"/></div>The Series Hybrid Electric Propulsion AiRcraft Demonstration program, known as SHEPARD, sees it's hybrid-electric uncrewed aircraft system (UAS) receive its official X-plane designation, XRQ-73. The aircraft will be a Group 3 UAS weighing approximately 1,250 pounds; first flight is expected by year-end 2024. 
+
+<https://www.darpa.mil/news-events/2024-06-24>
 
 ---
 

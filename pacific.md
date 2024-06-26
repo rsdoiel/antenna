@@ -1,11 +1,572 @@
 ---
 title: pacific 2024.26
-updated: 2024-06-25 08:32:52
+updated: 2024-06-26 08:05:26
 ---
 
 # pacific 2024.26
 
-(date: 2024-06-25 08:32:52)
+(date: 2024-06-26 08:05:26)
+
+---
+
+## Assange’s plea deal sets a chilling precedent, but it could have been worse
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>The plea deal that Julian Assange, the founder of WikiLeaks, has reached with prosecutors is bad for American press freedoms. But the outcome also could have been worse.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/nation-world-news/assanges-plea-deal-sets-a-chilling-precedent-but-it-could-have-been-worse/>
+
+---
+
+## WikiLeaks founder Assange pleads guilty to espionage charge ahead of expected release
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>SAIPAN, Northern Mariana Islands &#8212;WikiLeaks founder Julian Assange pled guilty to one charge of violating U.S. espionage law on Wednesday in a courtroom on the U.S. Pacific island territory of Saipan where he is expected to walk free after a deal with U.S. prosecutors.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/nation-world-news/wikileaks-founder-assange-pleads-guilty-to-espionage-charge-ahead-of-expected-release/>
+
+---
+
+## Obituaries for June 26
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>Kenneth &#8220;Kenny&#8221; James Creekmur Sr., 74, of Waimea died June 10 at home. Born in Honolulu, he was a former Honolulu Police Department officer, lead law enforcement officer at Hilo and Kona international airports, private security, professional Hawaiian musician and la&#8216;au lapa&#8216;au practitioner. Private services held. Celebration of life at a later date. Survived by sons, Kenneth James &#8220;Vilai&#8221; (Janice) Creekmur Jr. of Honolulu, Abraham Joshua Creekmur of Kona, John Elias (Jamie Rudder) Creekmur and James Deogracias (Shaira Martins) Creekmur of Hilo; daughter, Jerusha Elizabeth (Warren) Creekmur-Dela Cruz of Hilo; 18 grandchildren and two great-grandchildren; a niece. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/obituaries/obituaries-for-june-26-11/>
+
+---
+
+## Israeli airstrikes kill at least 24 in Gaza City, health officials say
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO &#8212; Israeli forces killed at least 24 Palestinians in three separate airstrikes on Gaza City early on Tuesday and the dead included a sister of Ismail Haniyeh, the chief of militant Islamist group Hamas, Gaza health officials and medics said.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/nation-world-news/israeli-airstrikes-kill-at-least-24-in-gaza-city-health-officials-say/>
+
+---
+
+## Israeli military must draft ultra-Orthodox Jews, Supreme Court rules
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Israel&#8217;s Supreme Court on Tuesday ruled that the military must begin drafting ultra-Orthodox Jewish men, a decision that threatened to split Prime Minister Benjamin Netanyahu&#8217;s coalition government amid the war in the Gaza Strip.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/nation-world-news/israeli-military-must-draft-ultra-orthodox-jews-supreme-court-rules/>
+
+---
+
+## Biden officials pushed to remove age limits for trans surgery, documents show
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>(NYT) &#8212; Health officials in the Biden administration pressed an international group of medical experts to remove age limits for adolescent surgeries from guidelines for care of transgender minors, according to newly unsealed court documents.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/nation-world-news/biden-officials-pushed-to-remove-age-limits-for-trans-surgery-documents-show/>
+
+---
+
+## Anti-tax riots rock Kenya, as president vows crackdown on ‘treasonous’ protesters
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>NAIROBI, Kenya &#8212; Thousands of demonstrators flooded the streets of Kenya&#8217;s capital, Nairobi, and some broke into Parliament and briefly set fire to the entrance on Tuesday, after lawmakers approved tax increases that critics said would drive up the cost of living for millions.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/nation-world-news/anti-tax-riots-rock-kenya-as-president-vows-crackdown-on-treasonous-protesters/>
+
+---
+
+## Team starts work to combat appropriation of Hawaiian culture
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>Seven Native Hawaiian leaders in areas including culture and law convened an inaugural meeting Monday of a legislative group aiming to protect Hawaiian intellectual property from insulting and harmful use.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/hawaii-news/team-starts-work-to-combat-appropriation-of-hawaiian-culture/>
+
+---
+
+## Fatal shark attacks rare off Oahu, experts say
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>The North Shore community is still reeling from the loss Sunday of a beloved waterman Tamayo Perry due to an ap&#0173;parent shark attack off Malaekahana.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/hawaii-news/fatal-shark-attacks-rare-off-oahu-experts-say/>
+
+---
+
+## News media urge Green not to veto House bill
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>Journalists and news media groups are speaking out against Gov. Josh Green&#8217;s apparent decision to preserve a Hawaii statute that grants his office the authority to shut down electronic communications during a state of emergency.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/hawaii-news/news-media-urge-green-not-to-veto-house-bill/>
+
+---
+
+## Powerhouse hurricane watchdog satellite launches aboard SpaceX Falcon Heavy
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>CAPE CANAVERAL, Fla. &#8212; The last of a series of hurricane-hunting satellites got its most powerful ride ever to space Tuesday aboard a SpaceX Falcon Heavy.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/nation-world-news/powerhouse-hurricane-watchdog-satellite-launches-aboard-spacex-falcon-heavy/>
+
+---
+
+## Construction company that erroneously built HPP home must pay to remove it, judge says
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>A construction company that mistakenly built a house on a Hawaiian Paradise Park lot owned by a California woman has been ordered to pay for the demolition of the structure and removal of debris.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/hawaii-news/construction-company-that-erroneously-built-hpp-home-must-pay-to-remove-it-judge-says/>
+
+---
+
+## US voters prefer Trump on economy, Biden on democracy, Reuters/Ipsos poll finds
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. voters see Republican presidential candidate Donald Trump as the better candidate for the economy but prefer his Democratic rival President Joe Biden&#8217;s approach on preserving democracy, a new Reuters/Ipsos poll found.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/nation-world-news/us-voters-prefer-trump-on-economy-biden-on-democracy-reuters-ipsos-poll-finds/>
+
+---
+
+## Judge partially lifts Trump hush money gag order
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A New York judge partially lifted a gag order on Donald Trump on Tuesday following the Republican presidential candidate&#8217;s conviction on criminal charges stemming from an effort to influence the 2016 election by buying a porn star&#8217;s silence.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/nation-world-news/judge-partially-lifts-trump-hush-money-gag-order/>
+
+---
+
+## Water quality advisory lifted
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health has canceled the water quality advisory for the Hilo Bay area that was issued in response to an incident Friday at the Hilo Wastewater Treatment Plant.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/hawaii-news/water-quality-advisory-lifted/>
+
+---
+
+## Local sports briefs: Hawai‘i International Futsal Cup registration open, HCRA Scholarship deadline approaching
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>Hawai&#8216;i International &#0010;Futsal Cup registration open</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/sports/local-sports-briefs-hawaii-international-futsal-cup-registration-open-hcra-scholarship-deadline-approaching/>
+
+---
+
+## Bronny James shows off his favorite sneakers and shares his thoughts on the NBA draft
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Bronny James discussed stepping into his NBA legend father&#8217;s shoes &#8212; literally &#8212; while shopping for sneakers in a video published days ahead of the 2024 NBA draft.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/sports/bronny-james-shows-off-his-favorite-sneakers-and-shares-his-thoughts-on-the-nba-draft/>
+
+---
+
+## Tsai: As usual, there will be objections to funding a new stadium
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>Back in the not-so-good ol&#8217; days, weddings came with an appeal process.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/sports/tsai-as-usual-there-will-be-objections-to-funding-a-new-stadium/>
+
+---
+
+## Derrick White’s chipped tooth, Al Horford’s future, and more: Celtics takeaways
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; Payton Pritchard might be known as the heave god around town now, but it&#8217;s not by design. Seeing how consistently and comfortably Pritchard buries buzzer-beaters from all over the court, it would be fair to presume he practices these shots frequently.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/sports/derrick-whites-chipped-tooth-al-horfords-future-and-more-celtics-takeaways/>
+
+---
+
+## Athing Mu, Nia Akins and the brutal line between Olympic dreams and agony
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>EUGENE, Ore.&#8212; The thrill of victory and the agony of defeat, on this day at the University of Oregon&#8217;s storied Hayward Field, was more than a cliche. It was a portrait. A dichotomous display of the drama of sports.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/sports/athing-mu-nia-akins-and-the-brutal-line-between-olympic-dreams-and-agony/>
+
+---
+
+## Palace Theater hosts ‘Chicago’
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>The longest-running American musical in Broadway history will be showcased on the Hilo stage with local talent emulating all the glitz and glamour of &#8220;Chicago.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/hawaii-news/palace-theater-hosts-chicago/>
+
+---
+
+## HPD kicks off backpack drive
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Police Department is proud to participate once again in an islandwide backpack drive for island keiki in need.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/community/hpd-kicks-off-backpack-drive/>
+
+---
+
+## Hawaii Performing Arts Festival celebrates 20th anniversary
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>WAIMEA &#8212; Since the summer of 2005, Hawaii Performing Arts Festival has continued to bring world-class music to Hawaii Island.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/community/hawaii-performing-arts-festival-celebrates-20th-anniversary/>
+
+---
+
+## Cacao association awards funds to three organizations
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>Proceeds totaling $7,500 from the 2024 Big Island Chocolate Festival were awarded to three local organizations at the event&#8217;s recent volunteer appreciation celebration at the Ola Brew Kona Taproom.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/community/cacao-association-awards-funds-to-three-organizations/>
+
+---
+
+## Anthony Fauci has a right to savage Trump. His memoir takes a different and telling approach
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>Over his half-century career, Anthony Fauci learned what it was like to be both loved and loathed.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/opinion/anthony-fauci-has-a-right-to-savage-trump-his-memoir-takes-a-different-and-telling-approach/>
+
+---
+
+## A constitutional command: Louisiana’s Ten Commandments ploy
+
+date: 2024-06-26, from: Hawaii Tribune Harold
+
+
+				<p>It took almost no time at all for the ACLU and other civil liberties groups to file federal suit against the state of Louisiana after GOP Gov. Jeff Landry signed a bill that would require state-funded schools at all levels &#8212; from kindergarten on up &#8212; display a poster of the Ten Commandments, along with a so-called &#8220;context statement.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/26/opinion/a-constitutional-command-louisianas-ten-commandments-ploy/>
+
+---
+
+## Missile defense experts coming to Guam to spell out the scope of flight tests
+
+date: 2024-06-26, from: Pacific Island Times
+
+By Mar-Vic Cagurangan Missile defense experts will come to Guam next month to explain the scope of the proposed flight tests designed to... 
+
+<https://www.pacificislandtimes.com/post/missile-defense-experts-coming-to-guam-to-spell-out-the-scope-of-flight-tests>
+
+---
+
+## Feds asked to enforce country-of-origin labeling rule for seafood products sold by retailers at US territories
+
+date: 2024-06-26, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Western Pacific Regional Fishery Management Council has called on federal and local agencies to... 
+
+<https://www.pacificislandtimes.com/post/feds-asked-to-enforce-country-of-origin-labeling-rule-for-seafood-products-sold-by-retailers-at-us-t>
+
+---
+
+## UPDATED: Julian Assange pleads guilty to espionage in US territory of Saipan
+
+date: 2024-06-26, updated: 2024-06-26, from: Marianas Variety
+
+SAIPAN (The Independent/Pacnews) — WikiLeaks founder Julian Assange has arrived on the remote Pacific island of Saipan to plead guilty to espionage charges in a U.S. court. 
+
+<https://www.mvariety.com/news/local/updated-julian-assange-pleads-guilty-to-espionage-in-us-territory-of-saipan/article_ca26ec4e-3369-11ef-b159-6b4a67bf09c2.html>
+
+---
+
+## UH fans can design Wahine basketball uniforms
+
+date: 2024-06-26, from: University of Hawaiʻi News
+
+<p>The <abbr>UH</abbr> Mānoa Athletics Department is launching the Aloha Spirit Collection - Fan Edition Uniform Design Contest.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/25/aloha-spirit-collection-fan-edition-contest/"><abbr>UH</abbr> fans can design Wahine basketball uniforms</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/25/aloha-spirit-collection-fan-edition-contest/>
+
+---
+
+## An unexpected journey: turning a music dream into reality
+
+date: 2024-06-26, from: University of Hawaiʻi News
+
+<p>Reece Flores plans to release her first album on July 19.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/25/unexpected-journey-music-dream-reality/">An unexpected journey: turning a music dream into reality</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/25/unexpected-journey-music-dream-reality/>
+
+---
+
+## 9 student-athletes named CSC Academic All-District
+
+date: 2024-06-26, from: University of Hawaiʻi News
+
+<p>Nine <abbr>UH</abbr> Mānoa student-athletes have been selected to the College Sports Communicators Academic At-Large All-District Team.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/25/9-named-csc-academic-all-district/">9 student-athletes named <abbr>CSC</abbr> Academic All-District</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/25/9-named-csc-academic-all-district/>
+
+---
+
+## Hayashida defends Manoa Cup Title; ’Bows dominate field
+
+date: 2024-06-26, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> golfer Josh Hayashida successfully defended his title from last year’s Manoa Cup.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/25/hayashida-defends-manoa-cup-title/">Hayashida defends Manoa Cup Title; ’Bows dominate field</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/25/hayashida-defends-manoa-cup-title/>
+
+---
+
+## 7 Warriors named to Preseason All-Mountain West/PAC-2 Team
+
+date: 2024-06-26, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa placed seven football players on Phil Steele’s Preseason All-Mountain West/PAC-2 team.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/25/preseason-all-mountain-west-pac-2-team/">7 Warriors named to Preseason All-Mountain West/PAC-2 Team</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/25/preseason-all-mountain-west-pac-2-team/>
+
+---
+
+## UH Mānoa public health program earns 7-year re-accreditation
+
+date: 2024-06-26, from: University of Hawaiʻi News
+
+<p>This accreditation, which extends until the end of 2030, highlights the quality and impact of <abbr>OPHS</abbr> programs.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/25/public-health-7yr-reaccreditation/"><abbr>UH</abbr> Mānoa public health program earns 7-year re-accreditation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/25/public-health-7yr-reaccreditation/>
+
+---
+
+## Assange walks free after pleading guilty to breach of top-secret information 
+
+date: 2024-06-26, from: Pacific Island Times
+
+By Mar-Vic Cagurangan and Brian Manabat Saipan— WikiLeaks founder Julian P. Assange today pleaded guilty to his role in the breach of... 
+
+<https://www.pacificislandtimes.com/post/breaking-news-cnmi-s-federal-judge-accepts-assange-s-guilty-plea>
+
+---
+
+## New Guam-based command structure touted to beef up regional defense
+
+date: 2024-06-25, from: Pacific Island Times
+
+By Mar-Vic Cagurangan The Joint Task Force Micronesia will assume command and control of defense forces in the U.S-affiliated island... 
+
+<https://www.pacificislandtimes.com/post/new-guam-based-command-structure-touted-to-beef-up-regional-protection>
+
+---
+
+## Hawaiian Word of the Week: Holoholo
+
+date: 2024-06-25, from: University of Hawaiʻi News
+
+<p>Holoholo&#8212;To go for a walk, ride or sail. Often used to express going away from home.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/25/hawaiian-word-of-the-week-holoholo/">Hawaiian Word of the Week: Holoholo</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/25/hawaiian-word-of-the-week-holoholo/>
+
+---
+
+## Synthetic living matter, other next-gen innovations propelled by new computational tool
+
+date: 2024-06-25, from: University of Hawaiʻi News
+
+<p>Complex functional materials have specific properties or abilities, such as conducting electricity, changing shape or healing themselves.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/25/engineering-new-computational-tool/">Synthetic living matter, other next-gen innovations propelled by new computational tool</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/25/engineering-new-computational-tool/>
+
+---
+
+## Genki balls, math fun at UH Mānoa summer program for Moanalua Middle
+
+date: 2024-06-25, from: University of Hawaiʻi News
+
+<p>Programs like this are crucial for boosting students' confidence and proficiency in math and is foundational for their academic success, according to <abbr>UH</abbr> Mānoa Professor Monique Chyba.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/25/math-summer-program-moanalua-middle/">Genki balls, math fun at <abbr>UH</abbr> Mānoa summer program for Moanalua Middle</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/25/math-summer-program-moanalua-middle/>
+
+---
+
+## Of Love & Loss
+
+date: 2024-06-25, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Shayna Cristy-Mendez My body feels it before my brain can ever make sense of it; words always fail in their attempt to capture the sense of abandonment that comes with losing a parent to drug addiction. That particular sense &#8230; <a href="https://hawaiipacificreview.org/2024/06/25/of-love-loss/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/06/25/of-love-loss/>
+
+---
+
+## Eucon to host Oceanview Saipan Camp
+
+date: 2024-06-25, updated: 2024-06-26, from: Marianas Variety
+
+THE Oceanview Saipan Camp, which will take place at Eucon International School, is still accepting registrations, camp promoter Rapture Tarlit said. 
+
+<https://www.mvariety.com/news/local/eucon-to-host-oceanview-saipan-camp/article_29e38bb0-32bb-11ef-a50e-7bdaacdaf3f0.html>
+
+---
+
+## DOL Job Fair on June 28 at multi-purpose center
+
+date: 2024-06-25, updated: 2024-06-26, from: Marianas Variety
+
+THE CNMI Department of Labor reminds job seekers that there will be a job fair on Friday, June 28 from 9 a.m. to 3 p.m. at the multi-purpose center in Susupe. 
+
+<https://www.mvariety.com/news/local/dol-job-fair-on-june-28-at-multi-purpose-center/article_67b20e10-32bd-11ef-8256-174dc0759cad.html>
+
+---
+
+## Hollins University Dean's List includes 2 Saipan students
+
+date: 2024-06-25, updated: 2024-06-26, from: Marianas Variety
+
+ROANOKE, Va. — Hollins University congratulates students who earned Dean's List honors during the spring 2024 semester. To attain this distinction, students must earn at least a 3.5 average on a 4.0 grading scale. Congratulations to these distinguished scholars on earning this academic achievement. They include Saipan’s Dionne Torres and Nina Lauren Valdisimo. 
+
+<https://www.mvariety.com/news/community_bulletins/hollins-university-deans-list-includes-2-saipan-students/article_e464af14-32bb-11ef-95b2-b7c24ecbfcf1.html>
+
+---
+
+## Impressive field for Crowne Plaza Northern Marianas Open
+
+date: 2024-06-25, updated: 2024-06-26, from: Marianas Variety
+
+(Northern Marianas Badminton Association) — The Crowne Plaza Northern Marianas Open 2024, which will run from July 2 to 7 at the Gilbert C. Ada Gymnasium, will feature two former world junior champions, a reigning continental champion, and several Top 100 ranked players in the world. 
+
+<https://www.mvariety.com/sports/localsports/impressive-field-for-crowne-plaza-northern-marianas-open/article_46dd212a-32f9-11ef-8514-df0fa9961a8d.html>
+
+---
+
+## Saipan lawmakers question Tinian tax bill
+
+date: 2024-06-25, updated: 2024-06-26, from: Marianas Variety
+
+SAIPAN Reps. Diego Vincent F. Camacho, Roman Benavente, and Manny Gregory T. Castro on Tuesday “called out” Tinian Rep. Patrick San Nicolas for introducing House Local Bill 23-55, which proposes to impose a gross revenue tax on Tinian construction activities. 
+
+<https://www.mvariety.com/news/local/saipan-lawmakers-question-tinian-tax-bill/article_24dcd28a-32dd-11ef-9572-efc252788ea0.html>
+
+---
+
+## Red flags at 14 Saipan sites
+
+date: 2024-06-25, updated: 2024-06-26, from: Marianas Variety
+
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan's west coast recreational beaches and storm drainages every week. 
+
+<https://www.mvariety.com/news/community_bulletins/red-flags-at-14-saipan-sites/article_fc1f0cfe-32ba-11ef-bef6-1f50016aebfb.html>
+
+---
+
+## Asahi to face SUFA in softball championship series
+
+date: 2024-06-25, updated: 2024-06-26, from: Marianas Variety
+
+ASAHI and SUFA have secured their spots in a best-of-three championship series of the 2024 Belau Amateur Softball Association League after eliminating their respective semifinal opponents at the Dandan baseball field on Sunday. 
+
+<https://www.mvariety.com/sports/localsports/asahi-to-face-sufa-in-softball-championship-series/article_dcc92996-32f8-11ef-bb60-8bba45baf3b2.html>
+
+---
+
+## What to watch for in Biden-Trump presidential debate
+
+date: 2024-06-25, updated: 2024-06-26, from: Marianas Variety
+
+(Reuters) — The two oldest candidates ever to run for U.S. president meet on Thursday for a televised debate unlike any other. One accuses his rival of being unhinged and a danger to democracy, while the other accuses his opponent of being senile and corrupt. 
+
+<https://www.mvariety.com/news/national/what-to-watch-for-in-biden-trump-presidential-debate/article_75805f16-32fd-11ef-82ff-2f30b3b73fe9.html>
+
+---
+
+## Free NMC info session on July 2
+
+date: 2024-06-25, updated: 2024-06-26, from: Marianas Variety
+
+(NMC) — Northern Marianas College invites all community members looking to learn more about NMC’s admissions process and financial aid options to attend a free information session on Tuesday, July 2, 2024. 
+
+<https://www.mvariety.com/news/community_bulletins/free-nmc-info-session-on-july-2/article_8a613e02-32bf-11ef-be75-536cb78933f5.html>
 
 ---
 
@@ -266,6 +827,42 @@ date: 2024-06-25, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/06/25/hawaii-news/hawaiis-vacation-rentals-total-nearly-6-of-housing-supply/>
+
+---
+
+## Will Lewis says he helped hacking investigation. Scotland Yard had doubts.
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; Will Lewis, now the publisher of The Washington Post, was in full crisis mode in 2011. Then an executive at a subsidiary of Rupert Murdoch&#8217;s News Corp, he was an intermediary to the police detectives investigating a British phone-hacking scandal that had placed the company&#8217;s journalists and top leaders in legal peril.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/features/will-lewis-says-he-helped-hacking-investigation-scotland-yard-had-doubts/>
+
+---
+
+## 5 dead in North Las Vegas; gunman dies by suicide
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>LAS VEGAS &#8212; Police said Tuesday a 57-year-old man killed himself after five people were found dead and a 13-year-old girl was critically wounded in shootings in a North Las Vegas neighborhood.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/nation-world-news/5-dead-in-north-las-vegas-gunman-dies-by-suicide/>
+
+---
+
+## Police investigate shark bite at Anaeho‘omalu Bay
+
+date: 2024-06-25, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating a possible shark attack Monday at Anaeho&#8216;omalu Bay in Waikoloa.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/25/hawaii-news/police-investigate-shark-bite-at-anaehoomalu-bay/>
 
 ---
 

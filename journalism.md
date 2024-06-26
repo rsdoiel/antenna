@@ -1,11 +1,31 @@
 ---
 title: journalism 2024.26
-updated: 2024-06-25 08:32:55
+updated: 2024-06-26 08:05:29
 ---
 
 # journalism 2024.26
 
-(date: 2024-06-25 08:32:55)
+(date: 2024-06-26 08:05:29)
+
+---
+
+## Is journalism’s trust problem about money, not politics?
+
+date: 2024-06-26, from: Nieman Journalism Lab
+
+Journalism faces a credibility crisis. Only 32% of Americans report having “a great deal” or “fair amount” of trust in news reporting — a historical low. Journalists generally assume that their lack of credibility is a result of what people believe to be reporters’ and editors’ political bias. So they believe the key to improving public trust... 
+
+<https://www.niemanlab.org/2024/06/is-journalisms-trust-problem-about-money-not-politics/>
+
+---
+
+## Triangle Blog Blog aims for a sweet spot between local news and progressive politics
+
+date: 2024-06-25, from: Nieman Journalism Lab
+
+When I type “local news Carrboro” into Google in early June, at first glance, there seems to be an abundance of solid resources I can consult about the latest happenings in the small North Carolina town. At the top, there’s the radio station and website Chapelboro, “one of the only distributors of local news in... 
+
+<https://www.niemanlab.org/2024/06/triangle-blog-blog-aims-for-a-sweet-spot-between-local-news-and-progressive-politics/>
 
 ---
 

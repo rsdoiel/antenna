@@ -1,11 +1,111 @@
 ---
 title: games 2024.26
-updated: 2024-06-25 08:32:55
+updated: 2024-06-26 08:05:29
 ---
 
 # games 2024.26
 
-(date: 2024-06-25 08:32:55)
+(date: 2024-06-26 08:05:29)
+
+---
+
+## The best thriller TV series to watch on Netflix
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/what-to-watch/23745847/best-thriller-tv-series-netflix-shows-watch-streaming>
+
+---
+
+## Grab 22 of Capcom’s greatest fighting games on sale right now for under $20
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/2024/6/26/24186002/capcom-fighting-game-bundle-deal-sale-street-fighter>
+
+---
+
+## The Riven remake transforms a tricky classic into a modern masterpiece
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24185656/riven-review-remake-remaster-pc-steam-vr>
+
+---
+
+## The MCU’s Fantastic Four will be a period piece, Kevin Feige confirms
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24185973/fantastic-four-mcu-time-period-setting-kevin-feige>
+
+---
+
+## FromSoftware just made the Elden Ring DLC a little bit easier
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24186316/elden-ring-dlc-shadow-of-the-erdtree-patch-notes>
+
+---
+
+## What time does FFXIV maintenance end and Dawntrail release?
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2024/6/24/24184779/dawntrail-maintenance-start-end-time-zone-est-pst-bst>
+
+---
+
+## The original Resident Evil comes to PC, in all its unremastered glory
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24185916/resident-evil-1-pc-original-version-capcom>
+
+---
+
+## How many episodes is The Acolyte, exactly?
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/star-wars/24186178/acolyte-how-many-episodes-list>
+
+---
+
+## No one has ever been prettier than Austin Butler in The Bikeriders
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/23906339/austin-butler-the-bikeriders>
+
+---
+
+## So who is The Acolyte’s Master? Well, we got our answer
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/star-wars/24177229/acolyte-master-who-is-answer>
 
 ---
 
@@ -176,16 +276,6 @@ date: 2024-06-24, updated: 2024-06-24, from: Polygon Website
  
 
 <https://www.polygon.com/24184982/elden-ring-dlc-shadow-erdtree-difficult-hard-boss>
-
----
-
-## What time does FFXIV Dawntrail maintenance start and end?
-
-date: 2024-06-24, updated: 2024-06-24, from: Polygon Website
-
- 
-
-<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2024/6/24/24184779/dawntrail-maintenance-start-end-time-zone-est-pst-bst>
 
 ---
 

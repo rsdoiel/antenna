@@ -1,11 +1,362 @@
 ---
 title: columns 2024.26
-updated: 2024-06-25 08:32:54
+updated: 2024-06-26 08:05:28
 ---
 
 # columns 2024.26
 
-(date: 2024-06-25 08:32:54)
+(date: 2024-06-26 08:05:28)
+
+---
+
+## Wordle Kitty prevails!
+
+date: 2024-06-26, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/26/wordleGrid.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Wordle Kitty hunkers down in an epic battle with Wordle Monkey on stage at Carnegie Hall in NYC for the honor of kittens everywhere. She ultimately prevails, but not without a brush with disaster! The NY Times judges her performance as merely “great!”</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/26/kittenAbides.png"></center>The Kitten Abides!</div></p>
+ 
+
+<http://scripting.com/2024/06/26/144307.html?title=wordleKittyPrevails>
+
+---
+
+##  Former Tennessee Abortion Clinic Workers & Volunteers Speak Out Against the State&#8217;s Abortion Ban 
+
+date: 2024-06-26, updated: 2024-06-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/former-tennessee-abortion-clinic-workers-volunteers-speak-out-against-the-states-abortion-ban>
+
+---
+
+##  Unhoused participants in the Denver Basic Income Project used their $1000/mo to... 
+
+date: 2024-06-26, updated: 2024-06-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044873-unhoused-participants-in->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-26, from: Dave Winer's Scripting News)
+
+Summary of yesterday's news: You should now be able to subscribe to my podcasts. Use the search function in your favorite podcast client and look for <i>Scripting News.</i> This is what it <a href="https://imgs.scripting.com/2024/06/26/applePodcastClientForScriptingNews.png">looks like</a> in Apple Podcasts, for example. 
+
+<http://scripting.com/2024/06/26.html#a130215>
+
+---
+
+## The US Is Banning Kaspersky
+
+date: 2024-06-26, updated: 2024-06-25, from: Bruce Schneier blog
+
+<p><a href="https://www.wired.com/story/us-bans-kaspersky-software/?redirectURL=https%3A%2F%2Fwww.wired.com%2Fstory%2Fus-bans-kaspersky-software%2F">This move</a> has been coming for a long time.</p>
+<blockquote><p>The Biden administration on Thursday said it’s <a>banning the company</a> from selling its products to new US-based customers starting on July 20, with the company only allowed to provide software updates to existing customers through September 29. The ban&#8212;­the first such action under authorities given to the Commerce Department in 2019­&#8212;follows <a href="https://www.wired.com/story/wired-awake-140917/">years of warnings</a> from the US intelligence community about Kaspersky being a national security threat because Moscow could allegedly commandeer its all-seeing antivirus software to spy on its customers...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/06/the-us-is-banning-kaspersky.html>
+
+---
+
+## Office Hours: Who will win tomorrow’s debate?
+
+date: 2024-06-26, from: Robert Reich's blog
+
+And why? 
+
+<https://robertreich.substack.com/p/office-hours-tomorrows-debate>
+
+---
+
+## 2024-06-22 Lieu for niche search
+
+date: 2024-06-26, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-22-lieu-for-niche-search">2024-06-22 Lieu for niche search</h1>
+
+<p>“Let me google it for you” was a bad reply back in the days; these days telling somebody “to google something” is insulting because we all know how aggravating it is to spend time and energy against privacy invasions and sifting through the AI slop and the grifters. Life is short and there’s no time for this.</p>
+
+<p>I try to err on the side of caution and always add links to stuff if I can. I’m preparing for the total breakdown of search as we know it.</p>
+
+<p>Some days Internet search feels like we’re at the capitalist optimum where everything is as painful as possible but not prohibitive. Can’t live without it (to find those link farms, advice sites, public archives) but also can’t find the private websites and blogs.</p>
+
+<p>Is it true that Reddit managed to replace all the blogs or is it true that we just can’t find them any more.
+The real problem is the loss of trust all around.</p>
+
+<p><a class="account" href="https://merveilles.town/@vesto" title="@vesto@merveilles.town">@vesto</a> reminded me that there was a solution in &ldquo;the realm of curating human-scale websites&rdquo;: <a href="https://lieu.cblgh.org/">Lieu</a>.</p>
+
+<p>And indeed, it looks like a great starting place!</p>
+
+<p>I&rsquo;m thinking that perhaps I can somehow use blog planets as sources for topic-specific search engines.
+I could use the blogs on <a href="https://planet.emacslife.com/">Planet Emacslife</a> to build an Emacs search engine and the blogs of <a href="https://campaignwiki.org/rpg/">RPG Planet</a> to build an RPG search engine.</p>
+
+<p>It seems quite doable!</p>
+
+<p>The ethics remain complicated, of course. Would I want search engine developers to scrape my site? Usually I just notice them when their bots misbehave so I&rsquo;m pretty averse to the entire situation. The search engine makers also being ad sellers and ads being a poison for our society doesn&rsquo;t help. The search engine makers being AI fans and AI energy and water requirements being cited as the reasons to keep fossil power plants running and to build nuclear power plants doesn&rsquo;t help. AI also resulting in me having to read texts that other people didn&rsquo;t bother to write adds injury to insult.</p>
+
+<p>In any case… perhaps there is a way to have ethical search and not drown in the AI slob: Hand curated websites (taken from the planets), no ads, no income (and therefore necessarily small in scope).</p>
+
+<p>I started experimenting. Using <code>webringSelector = &quot;#sidebar li a:nth-child(2) [href]&quot;</code> in the <code>lieu.toml</code> file seemes to get the links of RPG blogs, for example.</p>
+
+<p>One thing I find disturbing is that lieu uses Colly to scrape the web and <a href="https://github.com/gocolly/colly/issues/614">Colly ignores robots.txt by default</a>. I managed to lock the crawler out of my site in less than a second. Yikes!</p>
+
+<p>And the sad part is that if I add <code>c.IgnoreRobotsTxt = false</code> to the code, it seems to have no effect. Does anybody know more about how to control this?</p>
+
+<p><a class="tag" href="/search/?q=%23Search">#Search</a></p>
+
+<p>The following branches are probably temporary:</p>
+
+<p><a href="https://github.com/kensanata/lieu/tree/unix-domain-socket">unix-domain-socket</a>:
+This can be used by systemd to start the server connected to a Unix
+domain socket. Using a server like nginx or Apache as a front-end
+allows them to communicate with the server via the Unix domain socket.
+In that case, no port is required.</p>
+
+<p><a href="https://github.com/kensanata/lieu/tree/robots-txt">robots-txt</a>:
+This is where I try to enable <code>robots.txt</code> handling again – but I&rsquo;m failing at it.</p>
+
+<p>Then again, perhaps the ethics of it all make it untenable for me – is this really something I need? If it isn’t, perhaps I’d be better off doing something else.</p>
+
+<p><strong>2024-06-26</strong>. Perhaps it&rsquo;d be easier to search feeds. People already publish feeds. The feeds already contain the content they are willing to share. The feed is already limited to web pages and doesn&rsquo;t include web applications.</p> 
+
+<https://alexschroeder.ch/view/2024-06-22-lieu>
+
+---
+
+## Notes on Tajikistan
+
+date: 2024-06-26, from: Tracy Durnell Blog
+
+I&#8217;ve recognized in recent years the gaps in my understanding of some parts of the world &#8212; &#8220;the stans,&#8221; as the author puts it, are one such region. I watched a documentary of a guy walking through the Caucasus Mountains a few years ago, Soviet Seasons taught me some things, and Trevor the Food Ranger [&#8230;] 
+
+<https://tracydurnell.com/2024/06/25/notes-on-tajikistan/>
+
+---
+
+## June 25, 2024 
+
+date: 2024-06-26, from: Heather Cox Richardson blog
+
+These days, reality is undermining the political power of the mythological image of the American cowboy. In the years after World War II, that image helped to sell the idea that a government that regulated business, provided a basic safety net, promoted infrastructure, and protected civil rights for Black and Brown Americans and for women was cruising perilously close to communism. The cowboy image suggested that a true American was an individualist man who worked hard to provide for and to protect his homebound wife and children, with a gun if necessary, and wanted only for the government to leave him and his business alone. 
+
+<https://heathercoxrichardson.substack.com/p/june-25-2024>
+
+---
+
+## Process reveals personality
+
+date: 2024-06-26, from: Tracy Durnell Blog
+
+I enjoy reading blogging about blogging for many reasons: learning how other people think seeing how other people work discussing a craft / format I enjoy sharing an interest/ hobby with others refining our understanding of blogging and its place in the modern and future Internet being reminded to do maintenance on my own site [&#8230;] 
+
+<https://tracydurnell.com/2024/06/25/process-reveals-personality/>
+
+---
+
+## A very local storm
+
+date: 2024-06-26, from: Doc Searls (at Harvard), New Old Blog
+
+It was a derecho, or something like one. The gust front you see in the third image here looks a lot like the storm front in the image above (via Weatherbug, storm tracker view). I&#8217;d experienced one twelve years ago, in Arlington, Mass. It felt like a two minute hurricane, and when it was over, [&#8230;] 
+
+<https://doc.searls.com/2024/06/25/a-very-local-storm/>
+
+---
+
+## Open Repositories 2024 Trip Report: Göteborg
+
+date: 2024-06-26, updated: 2024-06-26, from: Peter Sefton's Blog
+
+ 
+
+<https://ptsefton.com/2024/06/26/open-repositories-2024-trip/>
+
+---
+
+## I love seeing car YouTubers drop their networks
+
+date: 2024-06-25, from: Matt Haughey blog
+
+<p>There&apos;s been a trend lately in car-youtuber-land, one where you hear a host on camera say they&apos;re going to start a new channel of their own, and later they post a detailed video on how they quit their former employer, which was usually a car-related YouTube</p> 
+
+<https://a.wholelottanothing.org/i-love-seeing-car-youtubers-drop-their-networks/>
+
+---
+
+## Wednesday 26 June, 2024
+
+date: 2024-06-25, from: John Naughton's online diary
+
+Brief encounter Quote of the Day “We look at the present through a rear view mirror. We march backwards into the future.” Marshall McLuhan Musical alternative to the morning’s radio news Bach &#124; Wachet auf from Cantata No 140 &#124; &#8230; <a href="https://memex.naughtons.org/wednesday-26-june-2024/39578/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-26-june-2024/39578/>
+
+---
+
+## If You See Crazy, Report Crazy
+
+date: 2024-06-25, from: Dan Rather's Steady
+
+Coverage of the presidential candidates is disparate and dangerous 
+
+<https://steady.substack.com/p/if-you-see-crazy-report-crazy>
+
+---
+
+##  Flying With My Dad 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/flying-with-my-dad-1>
+
+---
+
+##  End Legal Slavery in the United States (i.e. forced prison labor). &#8220;It&#8217;s... 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044872-end-legal-slavery-in-the>
+
+---
+
+##  We Can and Should Address Racial Disparities. &#8220;Most of the programs that... 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044869-we-can-and-should-address>
+
+---
+
+##  Riding With the Street Demon 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/riding-with-the-street-demon>
+
+---
+
+##  AC Lamberty writes about how his tastes (and experience of masculinity) changed... 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044871-ac-lamberty-writes-about->
+
+---
+
+##  Super Mario Bros, the Typewriter Edition 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/super-mario-bros-the-typewriter-edition>
+
+---
+
+## Remote shell to a Raspberry Pi at 39,000 ft
+
+date: 2024-06-25, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Remote shell to a Raspberry Pi at 39,000 ft</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>For a few weeks I've been beta testing remote shell, the latest addition to Raspberry Pi Connect. Just a couple hours ago I was on a flight home from the new Micro Center in Charlotte.</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/remote-shell-laptop-airplane.jpeg" alt="Pi Connect Remote Shell in airplane on laptop"></p>
+
+<p>One huge problem with VNC or remote desktop is how flaky it is if you have limited bandwidth or an unstable connection, like on an airplane.</p>
+
+<p>It takes forever to start a screen sharing session, and the airplane's flaky WiFi usually causes the session to lock up, meaning you can't do much at all.</p>
+
+<p>Remote <em>terminal</em> access, just relaying text commands, is the best solution for that problem. And sure, I have a VPN I could use with SSH to get to my Pi, but <a href="https://www.raspberrypi.com/news/raspberry-pi-connect-remote-shell-access-and-support-for-older-devices/">Raspberry Pi Connect just added support for remote shell access</a>.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-06-25T12:24:51-05:00" title="Tuesday, June 25, 2024 - 12:24" class="datetime">June 25, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/remote-shell-raspberry-pi-39000-ft>
+
+---
+
+##  The record industry is suing a pair of AI music-making companies over... 
+
+date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044868-the-record-industry-is-su>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-25, from: Dave Winer's Scripting News)
+
+The page on <a href="https://feedland.com/?feedurl=http%3A%2F%2Fscripting.com%2Fpodcast.xml">feedland.com</a> and <a href="https://feedland.org/?feedurl=http%3A%2F%2Fscripting.com%2Fpodcast.xml">feedland.org</a>. 
+
+<http://scripting.com/2024/06/25.html#a160522>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-25, from: Dave Winer's Scripting News)
+
+The <a href="https://podcasts.apple.com/us/podcast/scripting-news/id1753971770">Apple Podcasts</a> page for the podcast feed. 
+
+<http://scripting.com/2024/06/25.html#a160418>
+
+---
+
+## Microsoft Edge Has an ‘Enhanced Security’ Mode That Disables the JIT
+
+date: 2024-06-25, updated: 2024-06-25, from: Daring Fireball
+
+ 
+
+<https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-just-got-a-super-duper-secure-mode-upgrade/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-25, from: Dave Winer's Scripting News)
+
+And the <a href="https://this.how/scriptingNewsPodcast/">FAQ</a> for the feed, linked to in the feed. 
+
+<http://scripting.com/2024/06/25.html#a154605>
+
+---
+
+## June 24, 2024
+
+date: 2024-06-25, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/june-24-2024-263>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-25, from: Dave Winer's Scripting News)
+
+Here's the new Scripting News <a href="http://scripting.com/podcast.xml">podcast-only feed</a>. 
+
+<http://scripting.com/2024/06/25.html#a153612>
+
+---
+
+## Why I love Underdogs
+
+date: 2024-06-25, from: Om Malik blog
+
+That was quite a night. Not surprisingly, I woke up late this morning. I simply couldn’t sleep because I was buzzing from what I had just witnessed—and I still am. On paper, it was a wild game of the fast-paced T20 version of cricket. But it was more than that. It was ambition and desire &#8230; 
+
+<https://om.co/2024/06/25/why-i-love-underdogs/>
 
 ---
 
@@ -72,6 +423,21 @@ date: 2024-06-25, from: Dave Winer's Scripting News
  
 
 <http://scripting.com/2024/06/25/134922.html?title=thePodcastonlyFeedPart1>
+
+---
+
+## The podcast-only logo
+
+date: 2024-06-25, from: Dave Winer's Scripting News
+
+<p>How the logo for the podcast-only feed was designed.</p>
+<p>I turned to ChatGPT of course. It came breathtakingly close on the first attempt, but it repeated part of the story. Every time I asked it to fix a problem, it created another problem, and the image brightness was reduced, not just in terms of pixels but also the creativity of the image. Of course it isn't really creative. I know. Yadda yadda. </p>
+<p>Finally I got something that I could live with that I liked but was imperfect. I decided that since the motto of my blog is "It's even worse than it appears" that an obvious imperfection is totally consistent with the philosophy, and we move onward. As they say, still diggin!</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/25/scriptingNewsInlineImageVersion.png"></center>It's even worse th*@#it appears.</div></p>
+<p>The prompt for the image: "I'm sure you're aware of my blog, Scripting News, scripting.com. I am doing a new podcast feed for the blog. This feed is designed to get through Apple's submission process so it can be listed in their podcast database. One of the requirements is a 3000 by 3000 image that serves as a logo for the podcast. I need something simple and bold that says 'Scripting News podcast' and then 'With Dave Winer and friends' and 'It's even worse than it appears.' On a background of corn fields in Iowa viewed from the air."</p>
+ 
+
+<http://scripting.com/2024/06/25/134922.html?title=thePodcastonlyLogo>
 
 ---
 

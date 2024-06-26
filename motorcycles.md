@@ -1,11 +1,131 @@
 ---
 title: motorcycles 2024.26
-updated: 2024-06-25 08:32:56
+updated: 2024-06-26 08:05:30
 ---
 
 # motorcycles 2024.26
 
-(date: 2024-06-25 08:32:56)
+(date: 2024-06-26 08:05:30)
+
+---
+
+## 2-Stroke V8s Were Beyond Cool, We Should Bring Them Back
+
+date: 2024-06-26, from: Ride Apart, Electric Motorcycle News
+
+Need to know more intensifies.  
+
+<https://www.rideapart.com/news/724534/evinrude-v8-2-stroke/>
+
+---
+
+## Watch Raw Onboard POV Superbike Footage of a Pro Rider Ripping Silverstone
+
+date: 2024-06-26, from: Ride Apart, Electric Motorcycle News
+
+This has to be the fastest track day of all time. 
+
+<https://www.rideapart.com/news/724524/jonathan-rea-silverstone-video/>
+
+---
+
+## The Navy Seals Just Used Snowmobiles To Meet up With a Freakin' Submarine
+
+date: 2024-06-26, from: Ride Apart, Electric Motorcycle News
+
+That's one way to catch a ride.  
+
+<https://www.rideapart.com/news/724528/navy-seals-submarine-snowmobile-training-exercise/>
+
+---
+
+## Turns Out This Motorcycle Racer Has A Knack For Designing Bikes
+
+date: 2024-06-26, from: Ride Apart, Electric Motorcycle News
+
+Petrux teamed up with Dotto Creations for two custom builds based on the Ducati DesertX and Panigale V4.  
+
+<https://www.rideapart.com/news/723533/danilo-petrucci-dotto-creations-custom-ducatis/>
+
+---
+
+## Yamaha's New Automatic Transmission Is Good for Everyone, and Here's How It Works
+
+date: 2024-06-26, from: Ride Apart, Electric Motorcycle News
+
+Powersports accessibility can be an issue, but this transmission could help. 
+
+<https://www.rideapart.com/news/724525/yamaha-automated-manual-transmission-explainer/>
+
+---
+
+## These People Just Rode Around the World on a Motorcycle, and Set a New Record
+
+date: 2024-06-26, from: Ride Apart, Electric Motorcycle News
+
+This was by all means the trip of a lifetime.  
+
+<https://www.rideapart.com/news/723429/ollie-lavi-set-new-world-record-two-motorcyclists/>
+
+---
+
+## Polaris' New Trademark Hints at Electric Youth ATV
+
+date: 2024-06-26, from: Ride Apart, Electric Motorcycle News
+
+Get ready, children.  
+
+<https://www.rideapart.com/news/724521/polaris-kinetic-outlaw-atv-ev/>
+
+---
+
+## 2024 Harley-Davidson Fat Boy 114
+
+date: 2024-06-26, from: Cycle World News
+
+Since its introduction in 1990, the Fat Boy has become one of Harley-Davidson’s most iconic cruisers. The 2024 model’s epic proportions continue the legacy. 
+
+<https://www.cycleworld.com/harley-davidson/fat-boy-114/>
+
+---
+
+## Was Honda’s Oval-Piston NR500 a Failure?
+
+date: 2024-06-26, from: Cycle World News
+
+Honda’s oval-piston V-4 NR500 racers may not have won a championship, but the concepts that came from it are in wide use today. 
+
+<https://www.cycleworld.com/blogs/ask-kevin/honda-nr500-failure-or-success/>
+
+---
+
+## Chase Briscoe: Joe Gibbs Racing is ‘the Opportunity of a Lifetime’
+
+date: 2024-06-25, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor HUNTERSVILLE, N.C. – The chance to move from a NASCAR Cup Series team owned by one NASCAR Hall of Famer to another proved to be&#8230;  
+
+<https://kickinthetires.net/nascar/briscoe-joe-gibbs-opportunity-lifetime/>
+
+---
+
+## Great Wall Tourers Power and Performance Details
+
+date: 2024-06-25, from: Cycle World News
+
+We now have numbers on Great Wall’s Souo brand’s gargantuan flat-eight-powered S2000ST and S2000GL tourers. How do they compare to the Hondas they aspire to be? 
+
+<https://www.cycleworld.com/motorcycle-news/great-wall-tourers-power-and-performance-details/>
+
+---
+
+## 2024 Ducati Hypermotard 698 Mono
+
+date: 2024-06-25, from: Cycle World News
+
+The 2024 Ducati Hypermotard 698 Mono is a lightweight high-revving single with made-for-fun electronics and youthful bravado. 
+
+<https://www.cycleworld.com/ducati/hypermotard-698-mono/>
 
 ---
 

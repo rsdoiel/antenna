@@ -1,11 +1,501 @@
 ---
 title: going electric 2024.26
-updated: 2024-06-25 08:32:57
+updated: 2024-06-26 08:05:31
 ---
 
 # going electric 2024.26
 
-(date: 2024-06-25 08:32:57)
+(date: 2024-06-26 08:05:31)
+
+---
+
+## From Junkyard Bikes To Ice Cream, Watch Two Vintage Hondas Hit The Road
+
+date: 2024-06-26, from: Ride Apart, Electric Motorcycle News
+
+Can these two thrashed Hondas make it over 100 miles in 90-plus degree weather? 
+
+<https://www.rideapart.com/news/724548/junkyard-honda-icecream-road-trip/>
+
+---
+
+## It’s Now Cheaper To Lease A Tesla Model 3 Than A Toyota Camry
+
+date: 2024-06-26, from: Inside EVs News
+
+Two of the best-selling cars in the United States battle it out on the leasing field. 
+
+<https://insideevs.com/news/724571/tesla-model-3-lease-cheaper-toyota-camry/>
+
+---
+
+## 2-Stroke V8s Were Beyond Cool, We Should Bring Them Back
+
+date: 2024-06-26, from: Ride Apart, Electric Motorcycle News
+
+Need to know more intensifies.  
+
+<https://www.rideapart.com/news/724534/evinrude-v8-2-stroke/>
+
+---
+
+## Here’s how big of a difference tires can make on Tesla Model 3
+
+date: 2024-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/05/Bridgestone-EV-tire-Turanza.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A fascinating new test highlights the impressive difference EV-specific tires can make on the efficiency of a Tesla Model 3 – though it would also apply to other vehicles.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/26/difference-tires-make-tesla-model-3/#more-369200" data-post-id="369200" data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/26/difference-tires-make-tesla-model-3/>
+
+---
+
+## These Are The Worst Used Electric Cars, According To Consumer Reports
+
+date: 2024-06-26, from: Inside EVs News
+
+Tesla, Hyundai, Rivian, Volkswagen, Chevrolet and Audi all have a place on Consumer Reports’s list. 
+
+<https://insideevs.com/news/724610/worst-used-evs-list-2024/>
+
+---
+
+## The UIM E1 World Championship adds Lake Como GP to its 2024 electric boat racing calendar
+
+date: 2024-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/E1-Lake-Como.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Nascent <a href="https://electrek.co/guides/e1-series/">electric boat racing series</a> E1 recently completed its third Grand Prix of its inaugural season. As the nine initial teams, led by a mix of celebrities and professional athletes, compete around the globe en route to the championship in Hong Kong this fall, E1 has added another gorgeous location for a summer GP – Lake Como.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/26/the-uim-e1-world-championship-adds-lake-como-gp-to-its-2024-electric-boat-racing-calendar/#more-369206" data-post-id="369206" data-layer-pagetype="post" data-layer-postcategory="e1-series,electric-boat-racing,uim-e1-world-championship" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/26/the-uim-e1-world-championship-adds-lake-como-gp-to-its-2024-electric-boat-racing-calendar/>
+
+---
+
+## Kia to launch affordable EV4 electric sedan next year with an ambitious production goal
+
+date: 2024-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Kia-launch-EV4.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With another low-cost (under $35K) electric car launching next year, <a href="https://electrek.co/guides/kia/">Kia</a> is setting an ambitious goal. Kia will launch EV4 production in early 2025, aiming to build 70,000 models a year to meet the demand for affordable EVs.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/26/kia-launch-affordable-ev4-next-year-ambitious-output/#more-369196" data-post-id="369196" data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/26/kia-launch-affordable-ev4-next-year-ambitious-output/>
+
+---
+
+## Watch Raw Onboard POV Superbike Footage of a Pro Rider Ripping Silverstone
+
+date: 2024-06-26, from: Ride Apart, Electric Motorcycle News
+
+This has to be the fastest track day of all time. 
+
+<https://www.rideapart.com/news/724524/jonathan-rea-silverstone-video/>
+
+---
+
+## How Volkswagen's Endless Software Headaches Led It To Rivian
+
+date: 2024-06-26, from: Inside EVs News
+
+Plus, GM's Cruise gets a new CEO, and we look at the EV market's "ebbs and flows" as every company struggles to figure out the future. 
+
+<https://insideevs.com/news/724619/rivian-volkswagen-explained-cm/>
+
+---
+
+## The Navy Seals Just Used Snowmobiles To Meet up With a Freakin' Submarine
+
+date: 2024-06-26, from: Ride Apart, Electric Motorcycle News
+
+That's one way to catch a ride.  
+
+<https://www.rideapart.com/news/724528/navy-seals-submarine-snowmobile-training-exercise/>
+
+---
+
+## XPeng’s founder tested out Tesla FSD in the US to see how it compares to XNGP [Video]
+
+date: 2024-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/XPeng-Tesla-FSD-Founder.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>For a couple of years, two of the leading driving systems pushing the limits of automotive autonomy have been Tesla’s Full Self-Driving (FSD) and XPeng Motors’ Navigation Guided Pilot <a href="https://electrek.co/guides/xpeng-ngp/">(XNGP)</a>. Both EV automakers are leading the race in their respective markets, but neither technology is available in the opposite country (at least for now). In a cool video recently posted by XPeng, founder, chairman, and CEO He Xiaopeng tested out Tesla FSD for himself in the US and documented his experience, which you can see in the video below.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/26/xpeng-founder-tested-tesla-fsd-us-how-it-compares-xngp-video/#more-369185" data-post-id="369185" data-layer-pagetype="post" data-layer-postcategory="autonomous-driving,tesla-full-self-driving,xpeng,xpeng-motors,xpeng-ngp" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/26/xpeng-founder-tested-tesla-fsd-us-how-it-compares-xngp-video/>
+
+---
+
+## Turns Out This Motorcycle Racer Has A Knack For Designing Bikes
+
+date: 2024-06-26, from: Ride Apart, Electric Motorcycle News
+
+Petrux teamed up with Dotto Creations for two custom builds based on the Ducati DesertX and Panigale V4.  
+
+<https://www.rideapart.com/news/723533/danilo-petrucci-dotto-creations-custom-ducatis/>
+
+---
+
+## Kia EV3 In-Depth Video: Way More Than Just A Cheap New EV
+
+date: 2024-06-26, from: Inside EVs News
+
+Sports-related graphics themes, a sliding center tray, ventilated rear seats and front lounge seats are all part of the Kia EV's deal. 
+
+<https://insideevs.com/news/724565/kia-ev3-walkaround-interior-details-features/>
+
+---
+
+## Honda releases lease details for its interesting CR-V fuel cell plug-in hybrid
+
+date: 2024-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/02-2025-Honda-CR-V-eFCEV-edited.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Honda has announced lease pricing for its upcoming CR-V e:FCEV fuel cell plug in hybrid, which operates either on electricity or hydrogen.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/26/honda-releases-lease-details-for-its-interesting-cr-v-fuel-cell-plug-in-hybrid/#more-369130" data-post-id="369130" data-layer-pagetype="post" data-layer-postcategory="honda,honda-cr-v-efcev" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/26/honda-releases-lease-details-for-its-interesting-cr-v-fuel-cell-plug-in-hybrid/>
+
+---
+
+## Yamaha's New Automatic Transmission Is Good for Everyone, and Here's How It Works
+
+date: 2024-06-26, from: Ride Apart, Electric Motorcycle News
+
+Powersports accessibility can be an issue, but this transmission could help. 
+
+<https://www.rideapart.com/news/724525/yamaha-automated-manual-transmission-explainer/>
+
+---
+
+## These People Just Rode Around the World on a Motorcycle, and Set a New Record
+
+date: 2024-06-26, from: Ride Apart, Electric Motorcycle News
+
+This was by all means the trip of a lifetime.  
+
+<https://www.rideapart.com/news/723429/ollie-lavi-set-new-world-record-two-motorcyclists/>
+
+---
+
+## Polaris' New Trademark Hints at Electric Youth ATV
+
+date: 2024-06-26, from: Ride Apart, Electric Motorcycle News
+
+Get ready, children.  
+
+<https://www.rideapart.com/news/724521/polaris-kinetic-outlaw-atv-ev/>
+
+---
+
+## Electrogenic brings the DeLorean DMC-12 Back to the Future with a ‘drop-in’ EV conversion kit
+
+date: 2024-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/DeLorean-EV-Conversion-hero-2.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Where BEV conversions are going, we don’t need roads… Actually, we still very much need roads, but we no longer need to look at the original DeLorean DMC-12, considered by many as a design far ahead of its time, as a dated combustion classic. The EV conversion experts at <a href="https://electrek.co/guides/electrogenic/">Electrogenic</a> have introduced a new “plug and play” kit that can bring any sample of the original DeLorean into the future of electric mobility. It still can’t actually travel through time, though…</p>
+
+
+
+ <a href="https://electrek.co/2024/06/26/electrogenic-delorean-dmc-12-back-to-the-future-drop-in-ev-conversion-kit/#more-369072" data-post-id="369072" data-layer-pagetype="post" data-layer-postcategory="delorean,delorean-ev,electrogenic,ev-conversion" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/26/electrogenic-delorean-dmc-12-back-to-the-future-drop-in-ev-conversion-kit/>
+
+---
+
+## Tern’s new Quick Haul Long electric cargo bike shows it’s not the size that matters
+
+date: 2024-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/tern-quick-haul-long-header-bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tern, one of the leading innovators in cargo electric bike design, has just announced its newest model. Get ready to stretch, because here comes the Quick Haul Long.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/26/terns-new-quick-haul-long-electric-cargo-bike-shows-its-not-the-size-that-matters/#more-368831" data-post-id="368831" data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/26/terns-new-quick-haul-long-electric-cargo-bike-shows-its-not-the-size-that-matters/>
+
+---
+
+## What are these hidden vehicles in Rivian’s shareholder letter?
+
+date: 2024-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/rivian-unreleased-vehicles-highlighted.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On top of Rivian’s <a href="https://electrek.co/2024/06/25/vw-will-invest-up-to-5b-into-rivian-to-form-joint-venture-for-next-gen-evs/">big VW partnership news today</a>, we also got a look at what some of Rivian’s future plans might include – including some vehicles that we haven’t heard anything about before.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/25/what-are-these-hidden-vehicles-in-rivians-product-roadmap/#more-369131" data-post-id="369131" data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/25/what-are-these-hidden-vehicles-in-rivians-product-roadmap/>
+
+---
+
+## Cybertruck recalls, Tesla vs. Camry, Polestar upgrades, and electric flight gets real
+
+date: 2024-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/total-recall.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.youtube.com/@ElectrekDaily"></a></p>
+
+
+
+<p>We gave the Tesla Cybertruck a lot of heat yesterday, and today we’re back for more as every single example of the controversial electric pickup built so far has been recalled. Meanwhile a Model 3 is cheaper than a Camry now, Polestar 2 gets an upgrade, and electric flight takes off. All this and more on today’s <em>energizing</em> episode of Quick Charge!</p>
+
+
+
+ <a href="https://electrek.co/2024/06/25/cybertruck-recalls-tesla-vs-camry-polestar-upgrades-and-electric-flight-gets-real/#more-369135" data-post-id="369135" data-layer-pagetype="post" data-layer-postcategory="catl,polestar,quick-charge,tesla-cybertruck" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/25/cybertruck-recalls-tesla-vs-camry-polestar-upgrades-and-electric-flight-gets-real/>
+
+---
+
+## Are These Rivian's New Vehicles Beyond The R2, R3 And R3X?
+
+date: 2024-06-25, from: Inside EVs News
+
+Rivian's latest announcement with Volkswagen, released ahead of today's investor call, has some clues as to what's next.  
+
+<https://insideevs.com/news/724547/rivian-future-vehicle-roadmap/>
+
+---
+
+## 2025 BMW M5 Has Up To 25 Miles Of Electric Range And A Big Weight Problem
+
+date: 2024-06-25, from: Inside EVs News
+
+Despite being more powerful than before, the first-ever plug-in hybrid BMW M5 is slower to 60 mph than its predecessor. 
+
+<https://insideevs.com/news/724420/2025-bmw-m5-phev-range-weight-specs/>
+
+---
+
+## 2025 Rivian R1: Watch It Rip It On The Racetrack
+
+date: 2024-06-25, from: Inside EVs News
+
+We spend the day pounding the pavement at the Pacific Raceway to find out just how quick the new R1 vehicles are.  
+
+<https://insideevs.com/news/724506/rivian-gen2-r1-track-results/>
+
+---
+
+## Volkswagen And Rivian Are Teaming Up On Software In $5 Billion Deal
+
+date: 2024-06-25, from: Inside EVs News
+
+The California startup gets a big cash pile, and Volkswagen gets the expertise it needs to solve some long-running tech problems. 
+
+<https://insideevs.com/news/724544/volkswagen-rivian-software-investment-partnership/>
+
+---
+
+## Here’s How Tesla’s Latest FSD Version Works In The Real World
+
+date: 2024-06-25, from: Inside EVs News
+
+The so-called “Full Self-Driving” version 12.4.1 does a lot of things right, but it’s still far from perfect. 
+
+<https://insideevs.com/news/724479/tesla-fsd-12-4-1-real-world-test/>
+
+---
+
+## VW will invest up to $5B into Rivian to form joint venture for next-gen EVs
+
+date: 2024-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Rivian-leasing-states.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>VW and Rivian have just announced that the two companies will form a joint venture, bringing Rivian’s software expertise to VW’s products and providing an initial $1 billion, and potentially up to an eventual $5 billion, in capital for Rivian to get through its push to deliver its upcoming R2 vehicle.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/25/vw-will-invest-up-to-5b-into-rivian-to-form-joint-venture-for-next-gen-evs/#more-369114" data-post-id="369114" data-layer-pagetype="post" data-layer-postcategory="rivian,vw" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/25/vw-will-invest-up-to-5b-into-rivian-to-form-joint-venture-for-next-gen-evs/>
+
+---
+
+## Rivian (RIVN) stock pops after new analyst sees ‘credible path’ for the EV maker to breakeven
+
+date: 2024-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Rivian-costs-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After <a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) stock earned a big buy rating on Tuesday, shares traded up nearly 9% as investors look for the EV maker to break even. A new analyst sees at least 50% upside for Rivian’s stock price with a “credible path” to breakeven gross margins.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/25/rivian-rivn-stock-pops-credible-path-breakeven/#more-369110" data-post-id="369110" data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/25/rivian-rivn-stock-pops-credible-path-breakeven/>
+
+---
+
+## Fisker Is Bankrupt. Owners Are Angry And Scrambling For Answers
+
+date: 2024-06-25, from: Inside EVs News
+
+Fisker Ocean owners have no idea what the future holds. Those with broken cars are in panic mode.  
+
+<https://insideevs.com/news/724522/fisker-bankruptcy-ocean-ev-owners/>
+
+---
+
+## Toyota Camry Crashes Into A Tesla Cybertruck, Gets Obliterated
+
+date: 2024-06-25, from: Inside EVs News
+
+Regardless of what you may think of the Cybertruck, you really don't want to crash into one. 
+
+<https://insideevs.com/news/724419/tesla-cybertruck-toyota-camry-crash/>
+
+---
+
+## Vineyard Wind 1 just became the US’s largest operating offshore wind farm
+
+date: 2024-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Avangrid-Vineyard-Wind-1-June-2024.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Five more wind turbines just came online at Vineyard Wind 1, making it the largest operating offshore wind farm in the US.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/25/vineyard-wind-1-us-largest-operating-offshore-wind-farm/#more-369076" data-post-id="369076" data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/25/vineyard-wind-1-us-largest-operating-offshore-wind-farm/>
+
+---
+
+## Rivian is now leasing R1T and R1S EVs in 33 US states
+
+date: 2024-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Rivian-leasing-states-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Good news for those looking to lease <a href="https://electrek.co/guides/rivian/">Rivian’s</a> electric adventure vehicles. Rivian (RIVN) is now leasing its R1T and R1S EVs in 33 US states after adding three more on Tuesday.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/25/rivian-leasing-r1t-r1s-evs-33-us-states/#more-369074" data-post-id="369074" data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r1s,rivian-r1t" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/25/rivian-leasing-r1t-r1s-evs-33-us-states/>
+
+---
+
+## Tesla Model Y: How Much Range Does It Have?
+
+date: 2024-06-25, from: Inside EVs News
+
+It depends on the version, the weather and how you drive it, but we break that all down for you here. 
+
+<https://insideevs.com/news/724378/tesla-model-y-range/>
+
+---
+
+## Save $803 during Blix 4th of July sale, Samsung Bespoke smart electric washer and ventless dryer, Hiboy 5-year anniversary, more
+
+date: 2024-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Blix-Sol-Eclipse-Cruiser-e-bike.webp?w=1200" /></div><p>Leading today’s Green Deals is <a href="https://9to5toys.com/2024/06/24/save-up-to-803-on-blix-e-bikes-with-accessory-bundles-starting-from-1499-for-4th-of-july/">Blix Bikes’ 4th of July sales event</a> that will save you up to $803 on e-bikes with their respective accessory bundles, with models like the <a href="https://9to5toys.com/2024/06/24/save-up-to-803-on-blix-e-bikes-with-accessory-bundles-starting-from-1499-for-4th-of-july/">Sol Eclipse Cruiser e-bike starting from $1,499</a>. Next, we have the biggest deal to date on <a href="https://9to5toys.com/2024/06/25/samsungs-bespoke-all-in-one-smart-electric-washer-and-ventless-dryer-at-new-lows-from-1600-up-to-3489-value/">Samsung’s Bespoke AI All-in-One 5.3 cubic-foot Ultra Capacity Washer and Ventless Heat Pump Dryer</a> that starts at a new <a href="https://9to5toys.com/2024/06/25/samsungs-bespoke-all-in-one-smart-electric-washer-and-ventless-dryer-at-new-lows-from-1600-up-to-3489-value/">$1,600 low</a>. Then, there is <a href="https://9to5toys.com/2024/06/25/hiboy-celebrates-anniversary-with-50-off-ev-discounts-plus-chances-to-win-free-gear-and-scooters/">Hiboy’s 5-year anniversary celebration</a> that is not only taking 50% off EVs, like the <a href="https://9to5toys.com/2024/06/25/hiboy-celebrates-anniversary-with-50-off-ev-discounts-plus-chances-to-win-free-gear-and-scooters/">MAX Pro Electric Scooter at a new $660 low</a>, but the company is also giving you several chances to win free gear and even some e-scooters too! And that’s not all either – if you head down to our links you’ll find several other deals on Jackery’s latest Solar Generator 1000 Plus Roam Kit for on-the-go solar charging, Anker’s 33L electric cooler, Z Grills’ portable pellet grill and smoker, and more. Plus, all the other hangover Green Deals that are still alive and well.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/25/blix-4th-of-july-sale-samsung-bespoke-smart-electric-washer-and-ventless-dryer-hiboy-5-year-anniversary-more/#more-369049" data-post-id="369049" data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/25/blix-4th-of-july-sale-samsung-bespoke-smart-electric-washer-and-ventless-dryer-hiboy-5-year-anniversary-more/>
+
+---
+
+## Polestar 2 Gets Slight Range Increase, New Colors And Wheels
+
+date: 2024-06-25, from: Inside EVs News
+
+These changes make an already solid EV better and align it with the newer models in the Polestar lineup. 
+
+<https://insideevs.com/news/724500/polestar-2-light-refresh-range/>
+
+---
+
+## CATL battery successfully powers electric plane with 1,800-mile civil aircraft expected
+
+date: 2024-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/04/Electric-plane-battery-CATL.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The world’s largest EV battery maker is powering up something even bigger. CATL successfully tested a 4-ton electric plane powered by its ultra-high energy density battery. By 2028, <a href="https://electrek.co/guides/catl/">CATL</a> expects to reveal an 8-ton civil electric aircraft with around 1,200 to 1,800 miles (2,000 to 3,000 km) range.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/25/catl-successfully-tests-electric-plane-1800-mile-model-nears/#more-369037" data-post-id="369037" data-layer-pagetype="post" data-layer-postcategory="catl" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/25/catl-successfully-tests-electric-plane-1800-mile-model-nears/>
+
+---
+
+## Tesla is reportedly in talks to use Michelin’s airless tires
+
+date: 2024-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/uptis_tire_6-e1719334595363.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is reportedly in talks with tire giant Michelin to use their latest airless tire technology in the former’s electric vehicle lineup.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/25/tesla-talks-use-michelins-airless-tires/#more-369031" data-post-id="369031" data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/25/tesla-talks-use-michelins-airless-tires/>
+
+---
+
+## Tesla Cybertruck Attends Tractor Pull, Is Told To 'Go Back To California'
+
+date: 2024-06-25, from: Inside EVs News
+
+The tractor-pulling crowd wasn’t impressed by the completely silent Cybertruck or its pulling performance. 
+
+<https://insideevs.com/news/724468/tesla-cybertruck-power-pulling-video/>
+
+---
+
+## The Tesla Model 3 is now cheaper to lease than a Toyota Camry
+
+date: 2024-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Tesla_Model_3_2024.jpg?quality=82&#038;strip=all&#038;w=1536" /></div><p>The 2024 Tesla Model 3 RWD is now cheaper to lease than the 2025 hybrid Toyota Camry – here’s how it breaks down.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/25/tesla-model-3-toyota-camry/#more-369012" data-post-id="369012" data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-3,toyota" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/25/tesla-model-3-toyota-camry/>
+
+---
+
+## Polestar launches new 2025 Polestar 2 with more range and a sleek style update
+
+date: 2024-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/2025-Polestar-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The all-electric fastback that started it all is getting a fresh update. Polestar launched the new 2025 <a href="https://electrek.co/guides/polestar-2/">Polestar 2</a> on Monday with more range and style than ever. Check out the first look below.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/25/polestar-launches-new-2025-polestar-2-more-range-style/#more-368999" data-post-id="368999" data-layer-pagetype="post" data-layer-postcategory="polestar,polestar-2" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/25/polestar-launches-new-2025-polestar-2-more-range-style/>
+
+---
+
+## Edmunds Owns Nine EVs. Three Of Them Wouldn’t Be Bought A Second Time
+
+date: 2024-06-25, from: Inside EVs News
+
+Some were trouble-free for tens of thousands of miles, but others were problematic from day one. 
+
+<https://insideevs.com/news/724464/long-term-ev-ownership-edmunds-video/>
 
 ---
 
