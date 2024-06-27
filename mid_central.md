@@ -1,11 +1,33 @@
 ---
 title: mid central 2024.26
-updated: 2024-06-26 09:20:38
+updated: 2024-06-27 08:57:49
 ---
 
 # mid central 2024.26
 
-(date: 2024-06-26 09:20:38)
+(date: 2024-06-27 08:57:49)
+
+---
+
+## When is a “good-enough” battery good enough?
+
+date: 2024-06-27, from: EDN Blog
+
+<img width="1024" height="512" src="https://www.edn.com/wp-content/uploads/Power-Points-Blog-160_good-enough-battery_Fig1.png?fit=1024%2C512" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Power-Points-Blog-160_good-enough-battery_Fig1.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Power-Points-Blog-160_good-enough-battery_Fig1.png?w=300 300w, https://www.edn.com/wp-content/uploads/Power-Points-Blog-160_good-enough-battery_Fig1.png?w=768 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><p>When the goal is not to advance technology significantly, the path of progress versus frustration level becomes shorter. </p>
+<p>The post <a href="https://www.edn.com/when-is-a-good-enough-battery-good-enough/" data-wpel-link="internal">When is a “good-enough” battery good enough?</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/when-is-a-good-enough-battery-good-enough/>
+
+---
+
+## Opinion: Native American student percentage needs to rise at Fresno State
+
+date: 2024-06-26, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Fresno State has a lot of diversity for being in the Central Valley, but I’ve noticed only a small percentage of Native Americans here on campus. 0.1% to be exact, according to the Fresno State Office of Institutional Effectiveness. When I first applied to Fresno State, I thought it would be diverse in all ethnicities,... 
+
+<https://fscollegian.com/2024/06/opinion-native-american-student-percentage-needs-to-rise-at-fresno-state/>
 
 ---
 
@@ -13,7 +35,7 @@ updated: 2024-06-26 09:20:38
 
 date: 2024-06-26, from: EDN Blog
 
-<img width="551" height="263" src="https://www.edn.com/wp-content/uploads/GoodBadUgly_Figure-3.png?fit=551%2C263" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/GoodBadUgly_Figure-3.png?w=551 551w, https://www.edn.com/wp-content/uploads/GoodBadUgly_Figure-3.png?w=300 300w" sizes="(max-width: 551px) 100vw, 551px" /><p>Designing an amplifier nulling circuit that allows for the attenuation of the supply voltages without hurting the PSRR of the amplifier. </p>
+<img width="551" height="263" src="https://www.edn.com/wp-content/uploads/GoodBadUgly_Figure-3.png?fit=551%2C263" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/GoodBadUgly_Figure-3.png?w=551 551w, https://www.edn.com/wp-content/uploads/GoodBadUgly_Figure-3.png?w=300 300w" sizes="(max-width: 551px) 100vw, 551px" /><p>Designing an amplifier nulling circuit that allows for the attenuation of the supply voltages without hurting the PSRR of the amplifier. </p>
 <p>The post <a href="https://www.edn.com/the-good-the-bad-and-the-ugly-of-zero-trims/" data-wpel-link="internal">The good, the bad, and the ugly of zero trims</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

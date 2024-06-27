@@ -1,11 +1,70 @@
 ---
 title: writing 2024.26
-updated: 2024-06-26 09:20:40
+updated: 2024-06-27 08:57:51
 ---
 
 # writing 2024.26
 
-(date: 2024-06-26 09:20:40)
+(date: 2024-06-27 08:57:51)
+
+---
+
+## Alexandra Pierce Reviews The Man Who Saw Seconds by Alexander Boldizar
+
+date: 2024-06-27, from: Locus Magazine
+
+<p><strong>The Man Who Saw Seconds, </strong>Alexander Boldizar (Clash 978-1-96098-807-2, $19.95, 325pp, tp) Cover by Joel Amat Güell. May 2024.</p>
+<p>A precog, an anarchist, and an assistant director of the NSA walk into a bar&#8230;.</p>
+<p>Preble Jefferson can see five seconds into the future. Fish is an anarchist, lawyer, and Jefferson’s friend. Thad Bigman is an assistant director at the NSA. The action in <strong>The Man Who Saw Seconds </strong>centres on  <a href="https://locusmag.com/2024/06/alexandra-pierce-reviews-the-man-who-saw-seconds-by-alexander-boldizar-2/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/alexandra-pierce-reviews-the-man-who-saw-seconds-by-alexander-boldizar-2/>
+
+---
+
+## 2024 Colorado Book Award
+
+date: 2024-06-26, from: Locus Magazine
+
+<div class="nobullets">
+<p>The winners of the 33rd annual Colorado Book Awards have been announced. Titles and authors of genre interest include:</p>
+<p><strong>Best Thriller</strong></p>
+<ul>
+<li><strong>No Child of Mine</strong>, Nichelle Giraldes (Poisoned Pen)</li>
+</ul>
+<p><strong>Best Short Story Collection
+</strong></p>
+<ul>
+<li><strong>Uranians, </strong>Theodore McCombs (Astra)</li>
+</ul>
+<p><strong>Best Science Fiction/Fantasy</strong></p>
+<ul>
+<li><strong>Dark Moon, Shallow Sea</strong>, David R. Slayton (Blackstone)</li>
+</ul>
+<p>The winners were announced at the 2024 Finalist Celebration and Winners Announcement at the Tivoli Turnhalle Theater in Denver.</p>
+<p>For </p></div> <a href="https://locusmag.com/2024/06/2024-colorado-book-award/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/06/2024-colorado-book-award/>
+
+---
+
+## 🐇 On Alice in Wonderland
+
+date: 2024-06-26, from: Interesting, a blog on writing
+
+Detours down the rabbit hole. 
+
+<https://inneresting.substack.com/p/on-alice-in-wonderland>
+
+---
+
+## Alexandra Pierce Reviews The Year’s Top Hard Science Fiction Stories 8 edited byAllan Kaster
+
+date: 2024-06-26, from: Locus Magazine
+
+<p><strong>The Year’s Top Hard Science Fiction Stories 8, </strong>Allan Kaster, ed. (Infinivox 978-1-88461-265-7, 358pp, $19.99, pb). Cover art by Maurizio Man­zieri. June 2024.</p>
+<p>The discussion about what counts as “hard” science fiction is a perennial one; and depending on the reason for having it, it can often be unproductive. In his introduction to this eighth in Infinivox’s Top Hard SF Stories series, Allan Kaster doesn’t offer a definition or a  <a href="https://locusmag.com/2024/06/alexandra-pierce-reviews-the-years-top-hard-science-fiction-stories-8-edited-byallan-kaster/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/alexandra-pierce-reviews-the-years-top-hard-science-fiction-stories-8-edited-byallan-kaster/>
 
 ---
 

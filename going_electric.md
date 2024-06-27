@@ -1,11 +1,385 @@
 ---
 title: going electric 2024.26
-updated: 2024-06-26 09:20:42
+updated: 2024-06-27 08:57:54
 ---
 
 # going electric 2024.26
 
-(date: 2024-06-26 09:20:42)
+(date: 2024-06-27 08:57:54)
+
+---
+
+## All Porsche Taycan EVs Recalled Globally For Brake Fix
+
+date: 2024-06-27, from: Inside EVs News
+
+Over 150,000 cars have been sold since the Taycan debuted in 2020. In the U.S. almost 32,000 cars are affected. 
+
+<https://insideevs.com/news/724708/porsche-taycan-global-recall-brake-hose/>
+
+---
+
+## Tesla now distinguishes cars by battery suppliers for tax credit eligibility
+
+date: 2024-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Screenshot-2024-06-26-at-4.54.07 PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is now distinguishing its cars between battery suppliers in order for people who are eligible for the tax credit to get it.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/27/tesla-distinguishes-cars-battery-suppliers-for-tax-credit-eligibility/#more-369325" data-post-id="369325" data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/27/tesla-distinguishes-cars-battery-suppliers-for-tax-credit-eligibility/>
+
+---
+
+## Rivian (RIVN) talks R2, cost-cutting, and more during 2024 Investor Day: Here’s the latest
+
+date: 2024-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Rivian-investor-day-6.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>At its first Investor Day on Thursday, <a href="https://electrek.co/guides/rivian/">Rivian</a> gave several insights into the EV maker’s future. CEO RJ Scaringe explained how Rivian’s software-defined EVs, built from the ground up, and other in-house tech are evolving for its next-gen vehicles.</p>
+
+
+
+<p>Check out the latest from Rivian’s 2024 Investor Day below.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/27/rivian-rivn-talks-r2-cost-cutting-more-2024-investor-day/#more-369366" data-post-id="369366" data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/27/rivian-rivn-talks-r2-cost-cutting-more-2024-investor-day/>
+
+---
+
+## An Entire Chapter of Hells Angels Was Just Arrested
+
+date: 2024-06-27, from: Ride Apart, Electric Motorcycle News
+
+After a multi-agency investigation, seven gang members are in custody.  
+
+<https://www.rideapart.com/news/724665/hells-angels-chapter-arrested/>
+
+---
+
+## The EU has revised its proposed tariffs on Chinese EVs… but only in the slightest
+
+date: 2024-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/03/2035-EU-ban-Commision.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new report states that the <a href="https://electrek.co/guides/europe/">European Union</a> has slightly tweaked its proposed tariffs on imported EVs from certain Chinese automakers after those companies divulged more details of their businesses. The tariff cuts are marginal but could offer a shred of hope that the EU is still willing to negotiate said duties before they are imposed next week. </p>
+
+
+
+ <a href="https://electrek.co/2024/06/27/eu-revised-proposed-tariffs-chinese-evs-only-in-the-slightest/#more-369362" data-post-id="369362" data-layer-pagetype="post" data-layer-postcategory="china,europe,tariffs" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/27/eu-revised-proposed-tariffs-chinese-evs-only-in-the-slightest/>
+
+---
+
+## Rivian And Volkswagen's Secret Meetings Involved 'Cloaked Audis' Before Deal: Report
+
+date: 2024-06-27, from: Inside EVs News
+
+Plus, legacy OEMs are creeping up on Tesla's sales and one-in-five public EV chargers are on the fritz. 
+
+<https://insideevs.com/news/724677/rivian-ceo-volkswagen-joint-venture/>
+
+---
+
+## U.S. EV Fuel Cost Savings Potential Is $10,000 Per 100,000 Miles
+
+date: 2024-06-27, from: Inside EVs News
+
+The larger the vehicle, the greater the fuel cost savings potential. 
+
+<https://insideevs.com/news/724643/electrification-vehicle-fuel-cost-savings-potential/>
+
+---
+
+## Steve McQueen Once Designed a Desert Racer, and It’s up for Auction
+
+date: 2024-06-27, from: Ride Apart, Electric Motorcycle News
+
+You've got two days. Go.  
+
+<https://www.rideapart.com/news/724660/metisse-steve-mcqueen-desert-racer/>
+
+---
+
+## Extreme E unveils hydrogen car for next season – same specs, 305kg heavier
+
+date: 2024-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/c13ee980-90db-53e3-abcb-7c36ab209d16.jpg?quality=82&#038;strip=all&#038;w=1499" /></div><p><a href="https://electrek.co/guides/extreme-e/">Extreme E</a>, the electric off-road racing series, is transitioning to using hydrogen instead of batteries for the 2025 season, and today it unveiled the car it plans to use next year – when it will also change its name to Extreme H.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/27/extreme-e-unveils-hydrogen-car-for-next-season-same-specs-305kg-heavier/#more-369331" data-post-id="369331" data-layer-pagetype="post" data-layer-postcategory="extreme-e,extreme-h" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/27/extreme-e-unveils-hydrogen-car-for-next-season-same-specs-305kg-heavier/>
+
+---
+
+## An E-Bike Battery Burned Down This Police Department's Garage
+
+date: 2024-06-27, from: Ride Apart, Electric Motorcycle News
+
+Total damages are in the millions, and include the department's animal control facility, IT department, and all of its motorcycles. 
+
+<https://www.rideapart.com/news/724663/ebike-batteries-blamed-couerdalene-fire-ev/>
+
+---
+
+## Hyundai unveils the INSTER sub-compact EV for Europe, starting at an MSRP below 25,000 euros
+
+date: 2024-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Hyundai-EV-Europe-INSTER-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>One week after teasing a European version of its Casper A-segment sub-compact EV called the INSTER, <a href="https://electrek.co/guides/hyundai/">Hyundai Motor Group</a> has officially unveiled the new mini-car, which holds a lot of potential with consumers. In addition to its sleek yet compact size, Hyundai promises the INSTER EV will hit Europe (and several other markets) at a starting price below 25,000 euros.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/27/hyundai-unveils-inster-sub-compact-ev-europe-starting-msrp-below-25000-euros/#more-369347" data-post-id="369347" data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-inster,hyundai-motor-group" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/27/hyundai-unveils-inster-sub-compact-ev-europe-starting-msrp-below-25000-euros/>
+
+---
+
+## Apparently, Deer and Elk Don't Care About Your Loud UTV or ATV
+
+date: 2024-06-27, from: Ride Apart, Electric Motorcycle News
+
+They do, however, care if you're talking too damn loud.  
+
+<https://www.rideapart.com/news/724640/deer-elk-off-road-utv-atv-noise-study/>
+
+---
+
+## Groms are Out, These Slammed Trike Scooter Choppers Are In
+
+date: 2024-06-27, from: Ride Apart, Electric Motorcycle News
+
+What in the Mad Max? 
+
+<https://www.rideapart.com/news/724648/wild-looking-trike-scooter-choppers/>
+
+---
+
+## Harley Wins One Of Its Federal 'Right To Repair' Class Action Lawsuits
+
+date: 2024-06-27, from: Ride Apart, Electric Motorcycle News
+
+It's one of three federal cases regarding complementary complaints against the Motor Company that have been in the works since 2022. 
+
+<https://www.rideapart.com/news/724659/harley-federal-right-repair-lawsuit/>
+
+---
+
+## Vespa Goes Sleek And Sporty With New Scooter Color
+
+date: 2024-06-27, from: Ride Apart, Electric Motorcycle News
+
+Add this to the countless number of colorways in Vespa’s catalog.  
+
+<https://www.rideapart.com/news/723479/vespa-gtv300-travolgente-gray-japan/>
+
+---
+
+## Hyundai Inster: This New Affordable Electric City Car Looks Fantastic
+
+date: 2024-06-27, from: Inside EVs News
+
+Based on the South Korean-spec Casper, Hyundai’s new city EV goes to Europe with an extended wheelbase and two battery options. 
+
+<https://insideevs.com/news/723917/hyundai-inster-ev-official-range-power-specs-price/>
+
+---
+
+## Don’t call it Robotaxi, Porsche recalls, what tires are best for Tesla, and BTTF
+
+date: 2024-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/robotaxi.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s episode, Mate Rimac beats Tesla to the Robotaxi punch, Porsche recalls 31,000 electric Taycan models, Fred helps find the best tires for your Tesla Model 3, and we go Back to the Future with an electric DeLorean restomod. All this and more, on YouTube’s <strong>ONLY</strong> show about EVs: <em>Quick Charge</em>!</p>
+
+
+
+ <a href="https://electrek.co/2024/06/26/dont-call-it-robotaxi-porsche-recalls-what-tires-are-best-for-tesla-and-bttf/#more-369319" data-post-id="369319" data-layer-pagetype="post" data-layer-postcategory="porsche,quick-charge,rimac,robotaxi" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/26/dont-call-it-robotaxi-porsche-recalls-what-tires-are-best-for-tesla-and-bttf/>
+
+---
+
+## Ford finds a new home to develop affordable electric vehicles
+
+date: 2024-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Fords-first-all-electric-Explorer.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford has officially chosen Long Beach as its new home to develop its next-generation EV platform. The new headquarters will be where <a href="https://electrek.co/guides/ford/">Ford’s</a> “Skunkworks” team will build its affordable next-gen electric vehicles.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/26/ford-finds-new-home-develop-affordable-electric-vehicles/#more-369305" data-post-id="369305" data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/26/ford-finds-new-home-develop-affordable-electric-vehicles/>
+
+---
+
+## EV laggard North Dakota just got its first Electrify America charging station [Update]
+
+date: 2024-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/11/ElectrifyAmerica-NorthDakota.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Electrify America launched its first EV charging station in North Dakota in November – and now the state is ready to take a big next step.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/26/north-dakota-electrify-america/#more-332682" data-post-id="332682" data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,electrify-america,ev-chargers" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/26/north-dakota-electrify-america/>
+
+---
+
+## The Number One Rule For Not Getting Screwed At The Car Dealer
+
+date: 2024-06-26, from: Inside EVs News
+
+If you're buying or leasing an EV right now, you can find some incredible deals. Just be sure to go in prepared. 
+
+<https://insideevs.com/news/724533/good-deal-dealership-negotation/>
+
+---
+
+## Apple's Next-Gen CarPlay Could Reimagine Gauge Clusters of Classic Enthusiast Cars
+
+date: 2024-06-26, from: Inside EVs News
+
+CarPlay's new all-in approach could have your new car feeling like the inside of a Lancia Delta Integrale—if Apple lets you, that is. 
+
+<https://insideevs.com/news/724658/apple-carplay-gauge-cluster-iconic/>
+
+---
+
+## Rimac, Maker Of Million-Dollar Hypercars, Just Launched A Robotaxi
+
+date: 2024-06-26, from: Inside EVs News
+
+It has no steering wheel and no pedals. There's just a giant screen inside. 
+
+<https://insideevs.com/news/724657/rimac-reveals-verne-robotaxi/>
+
+---
+
+## South Dakota’s largest solar farm just came online
+
+date: 2024-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Wild-Springs-South-Dakota-solar.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>National Grid Renewables just brought South Dakota’s largest solar farm online in Pennington County.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/26/south-dakotas-largest-solar-farm-just-came-online/#more-369266" data-post-id="369266" data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,oil-and-gas,solar-power" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/26/south-dakotas-largest-solar-farm-just-came-online/>
+
+---
+
+## Volvo delays low-cost EX30 deliveries in the US until 2025
+
+date: 2024-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Volvo-recall-EX30-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volvo’s cheapest and smallest EV won’t arrive in the US until next year. Volvo announced it’s delaying <a href="https://electrek.co/guides/volvo-ex30/">the EX30</a> launch in the US as it ramps up production in Belgium.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/26/volvo-delays-low-cost-ex30-deliveries-us-2025/#more-369263" data-post-id="369263" data-layer-pagetype="post" data-layer-postcategory="volvo,volvo-ex30" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/26/volvo-delays-low-cost-ex30-deliveries-us-2025/>
+
+---
+
+## First deal on Jackery Explorer 240 v2 LiFePO4 power station, Traeger grill/smoker sale, Anker SOLIX C1000 back at $599, more
+
+date: 2024-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Jackery-explorer-240-v2-portable-power-station.jpg?quality=82&#038;strip=all&#038;w=1201" /></div><p>Today’s Green Deals are full of new and return low prices, headlined by the first discount on <a href="https://9to5toys.com/2024/06/26/first-chance-to-save-on-jackerys-upgraded-lifepo4-explorer-240-v2-power-station-at-199/">Jackery’s new Explorer 240 v2 Portable Power Station at $199</a>. It is joined by a <a href="https://9to5toys.com/2024/06/26/save-at-least-200-on-traegers-pro-34-pellet-grill-and-smoker-back-at-500-low-more-from-17/">Best Buy sale on Traeger pellet grills and smokers</a> that can save you hundreds on your next backyard BBQ savior, <a href="https://9to5toys.com/2024/06/26/save-at-least-200-on-traegers-pro-34-pellet-grill-and-smoker-back-at-500-low-more-from-17/">the Pro 34 Pellet Grill and Smoker that is back at $500</a>, as well as <a href="https://9to5toys.com/2024/06/26/ankers-solix-c1000-power-station-returns-to-599-low-save-400-more-from-130/">Anker’s popular SOLIX C1000 Portable Power Station</a> that has returned to its <a href="https://9to5toys.com/2024/06/26/ankers-solix-c1000-power-station-returns-to-599-low-save-400-more-from-130/">$599 low</a> for the second time. Plus, all the other hangover Green Deals that are still alive and well.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/26/jackery-explorer-240-v2-power-station-traeger-grill-and-smoker-sale-anker-solix-c1000-more/#more-369257" data-post-id="369257" data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/26/jackery-explorer-240-v2-power-station-traeger-grill-and-smoker-sale-anker-solix-c1000-more/>
+
+---
+
+## Rimac launches new autonomous level 4 electric car brand Verne
+
+date: 2024-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Verne-electric-autonomous-vehicle.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Mate Rimac, founder of Rimac, launched a new level 4 autonomous electric car brand called Verne and coming to market in 2026.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/26/rimac-launches-new-autonomous-level-4-electric-car-brand-verne/#more-369247" data-post-id="369247" data-layer-pagetype="post" data-layer-postcategory="rimac-automobili,verne" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/26/rimac-launches-new-autonomous-level-4-electric-car-brand-verne/>
+
+---
+
+## The Plug-In Hybrid BMW M5 Is Heavier Than The Electric i5 M60
+
+date: 2024-06-26, from: Inside EVs News
+
+If you think EVs are too heavy, you probably don't want a PHEV.  
+
+<https://insideevs.com/news/724652/2025-bmw-m5-weight-vs-ev/>
+
+---
+
+## Porsche to recall over 31,000 Taycan electric cars due to a brake malfunction
+
+date: 2024-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/Porsche-2025-Taycan-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The all-electric <a href="https://electrek.co/guides/porsche-taycan/">Porsche Taycan</a> was hit with another recall. Porsche is recalling certain 2020 to 2025 Taycan models over a faulty front brake hose.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/26/porsche-recall-over-31000-taycan-evs-faulty-brake/#more-369246" data-post-id="369246" data-layer-pagetype="post" data-layer-postcategory="porsche,porsche-taycan" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/26/porsche-recall-over-31000-taycan-evs-faulty-brake/>
+
+---
+
+## Volvo EX30 Delayed In America Until 2025, Production Moving To Belgium
+
+date: 2024-06-26, from: Inside EVs News
+
+Volvo's affordable compact EX30 won't arrive this year after all. Blame the new tariffs on China-built EVs. 
+
+<https://insideevs.com/news/724655/volvo-ex30-delayed-china/>
+
+---
+
+## Electric BMW XM Reportedly Axed
+
+date: 2024-06-26, from: Inside EVs News
+
+BMW’s big and bold Lamborghini Urus-rivaling plug-in hybrid SUV gamble may not be paying off, so it could reportedly be discontinued. 
+
+<https://insideevs.com/news/724569/bmw-xm-axed-6-series/>
+
+---
+
+## Ford trims EU leadership as it struggles to keep pace in the shift to EVs
+
+date: 2024-06-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Fords-first-all-electric-Explorer-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford is cutting its EU leadership team as the automaker struggles to keep up with the market’s shift to EVs. After losing its European boss to Volkswagen, <a href="https://electrek.co/guides/ford/">Ford</a> is reorganizing its business to get the brand back on track.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/26/ford-trims-eu-leadership-struggles-shift-evs/#more-369221" data-post-id="369221" data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/26/ford-trims-eu-leadership-struggles-shift-evs/>
 
 ---
 
@@ -149,7 +523,7 @@ Petrux teamed up with Dotto Creations for two custom builds based on the Ducati 
 
 date: 2024-06-26, from: Inside EVs News
 
-Sports-related graphics themes, a sliding center tray, ventilated rear seats and front lounge seats are all part of the Kia EV's deal. 
+Sports-related graphics themes, a sliding center tray, ventilated rear seats and front lounge seats are all part of the Kia EV3's deal. 
 
 <https://insideevs.com/news/724565/kia-ev3-walkaround-interior-details-features/>
 
@@ -334,6 +708,20 @@ date: 2024-06-25, from: Electrek Feed
  <a href="https://electrek.co/2024/06/25/rivian-rivn-stock-pops-credible-path-breakeven/#more-369110" data-post-id="369110" data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" class="more-link">more…</a> 
 
 <https://electrek.co/2024/06/25/rivian-rivn-stock-pops-credible-path-breakeven/>
+
+---
+
+## Rivian (RIVN) stock surges after VW deal, ‘credible path’ for the EV maker to breakeven
+
+date: 2024-06-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Rivian-costs-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After <a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) stock is surging Wednesday following Volkswagen’s plans to invest up to $5 billion into the EV maker. Several analysts see significant upside for Rivian’s stock price with a “credible path” to breakeven gross margins.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/25/rivian-rivn-stock-surges-vw-deal-earns-confidence/#more-369110" data-post-id="369110" data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/25/rivian-rivn-stock-surges-vw-deal-earns-confidence/>
 
 ---
 

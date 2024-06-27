@@ -1,11 +1,111 @@
 ---
 title: motorcycles 2024.26
-updated: 2024-06-26 09:20:41
+updated: 2024-06-27 08:57:53
 ---
 
 # motorcycles 2024.26
 
-(date: 2024-06-26 09:20:41)
+(date: 2024-06-27 08:57:53)
+
+---
+
+## An Entire Chapter of Hells Angels Was Just Arrested
+
+date: 2024-06-27, from: Ride Apart, Electric Motorcycle News
+
+After a multi-agency investigation, seven gang members are in custody.  
+
+<https://www.rideapart.com/news/724665/hells-angels-chapter-arrested/>
+
+---
+
+## Steve McQueen Once Designed a Desert Racer, and It’s up for Auction
+
+date: 2024-06-27, from: Ride Apart, Electric Motorcycle News
+
+You've got two days. Go.  
+
+<https://www.rideapart.com/news/724660/metisse-steve-mcqueen-desert-racer/>
+
+---
+
+## An E-Bike Battery Burned Down This Police Department's Garage
+
+date: 2024-06-27, from: Ride Apart, Electric Motorcycle News
+
+Total damages are in the millions, and include the department's animal control facility, IT department, and all of its motorcycles. 
+
+<https://www.rideapart.com/news/724663/ebike-batteries-blamed-couerdalene-fire-ev/>
+
+---
+
+## Apparently, Deer and Elk Don't Care About Your Loud UTV or ATV
+
+date: 2024-06-27, from: Ride Apart, Electric Motorcycle News
+
+They do, however, care if you're talking too damn loud.  
+
+<https://www.rideapart.com/news/724640/deer-elk-off-road-utv-atv-noise-study/>
+
+---
+
+## Groms are Out, These Slammed Trike Scooter Choppers Are In
+
+date: 2024-06-27, from: Ride Apart, Electric Motorcycle News
+
+What in the Mad Max? 
+
+<https://www.rideapart.com/news/724648/wild-looking-trike-scooter-choppers/>
+
+---
+
+## Harley Wins One Of Its Federal 'Right To Repair' Class Action Lawsuits
+
+date: 2024-06-27, from: Ride Apart, Electric Motorcycle News
+
+It's one of three federal cases regarding complementary complaints against the Motor Company that have been in the works since 2022. 
+
+<https://www.rideapart.com/news/724659/harley-federal-right-repair-lawsuit/>
+
+---
+
+## Vespa Goes Sleek And Sporty With New Scooter Color
+
+date: 2024-06-27, from: Ride Apart, Electric Motorcycle News
+
+Add this to the countless number of colorways in Vespa’s catalog.  
+
+<https://www.rideapart.com/news/723479/vespa-gtv300-travolgente-gray-japan/>
+
+---
+
+## Yamaha’s Y-AMT Semi-auto Transmission
+
+date: 2024-06-26, from: Cycle World News
+
+Yamaha was an early developer of the semi-auto transmission with its YCC-S system two decades ago. Now it has a modern design ready to be deployed for 2025. 
+
+<https://www.cycleworld.com/motorcycle-news/yamaha-y-amt-semi-auto-transmission/>
+
+---
+
+## Was Honda’s Oval-Piston NR500 a Failure?
+
+date: 2024-06-26, from: Cycle World News
+
+Honda’s oval-piston V-4 NR500 racers may not have won a championship, but the concepts that came from it are in wide use today. 
+
+<https://www.cycleworld.com/blogs/ask-kevin/honda-nr500-failure-or-success/>
+
+---
+
+## Harley-Davidson Unveils Davidson Park, a New Community Park at Iconic Milwaukee Headquarters
+
+date: 2024-06-26, from: Cycle World News
+
+Spearheaded by the Harley-Davidson Foundation and designed by acclaimed designers Heatherwick Studio, Davidson Park will benefit employees, local community and visitors to Milwaukee. 
+
+<https://www.cycleworld.com/the-wire/harley-davidson-unveils-davidson-park-new-community-park-at-iconic-milwaukee-headquarters/>
 
 ---
 
@@ -96,16 +196,6 @@ date: 2024-06-26, from: Cycle World News
 Since its introduction in 1990, the Fat Boy has become one of Harley-Davidson’s most iconic cruisers. The 2024 model’s epic proportions continue the legacy. 
 
 <https://www.cycleworld.com/harley-davidson/fat-boy-114/>
-
----
-
-## Was Honda’s Oval-Piston NR500 a Failure?
-
-date: 2024-06-26, from: Cycle World News
-
-Honda’s oval-piston V-4 NR500 racers may not have won a championship, but the concepts that came from it are in wide use today. 
-
-<https://www.cycleworld.com/blogs/ask-kevin/honda-nr500-failure-or-success/>
 
 ---
 

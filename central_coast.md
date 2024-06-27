@@ -1,11 +1,135 @@
 ---
 title: central coast 2024.26
-updated: 2024-06-26 09:20:38
+updated: 2024-06-27 08:57:49
 ---
 
 # central coast 2024.26
 
-(date: 2024-06-26 09:20:38)
+(date: 2024-06-27 08:57:49)
+
+---
+
+## Sunset at Big Pond Ranch
+
+date: 2024-06-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061324-POD-Doreen-Eyman.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sunset at Big Pond Ranch in Santa Ynez." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061324-POD-Doreen-Eyman.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061324-POD-Doreen-Eyman.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061324-POD-Doreen-Eyman.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061324-POD-Doreen-Eyman.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061324-POD-Doreen-Eyman.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061324-POD-Doreen-Eyman.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061324-POD-Doreen-Eyman.jpg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061324-POD-Doreen-Eyman.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061324-POD-Doreen-Eyman.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061324-POD-Doreen-Eyman.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061324-POD-Doreen-Eyman.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061324-POD-Doreen-Eyman.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061324-POD-Doreen-Eyman.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/sunset-at-big-pond-ranch/">Sunset at Big Pond Ranch</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sunset-at-big-pond-ranch/>
+
+---
+
+## Cars, Bikes, Pedestrians, Oh My! Santa Barbara Committee Tries to Get Handle on Future of State Street
+
+date: 2024-06-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="958" height="547" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-State-Street-500-Block-Rendering-Courtesy-1.jpg?fit=958%2C547&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-State-Street-500-Block-Rendering-Courtesy-1.jpg?w=958&amp;ssl=1 958w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-State-Street-500-Block-Rendering-Courtesy-1.jpg?resize=300%2C171&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-State-Street-500-Block-Rendering-Courtesy-1.jpg?resize=768%2C439&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-State-Street-500-Block-Rendering-Courtesy-1.jpg?resize=400%2C228&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-State-Street-500-Block-Rendering-Courtesy-1.jpg?resize=706%2C403&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-State-Street-500-Block-Rendering-Courtesy-1.jpg?fit=958%2C547&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The idea of cars returning to State Street is losing gas. Although the State Street Advisory Committee ran out of time before making any formal votes, most members of the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/cars-bikes-pedestrians-oh-my-santa-barbara-committee-tries-to-get-handle-on-future-of-state-street/">Cars, Bikes, Pedestrians, Oh My! Santa Barbara Committee Tries to Get Handle on Future of State Street</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/cars-bikes-pedestrians-oh-my-santa-barbara-committee-tries-to-get-handle-on-future-of-state-street/>
+
+---
+
+## Altrusa Club of Central Coast Foundation Issues Awards
+
+date: 2024-06-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Nearly $70,000 has been awarded in both grant awards and scholarships from the 2023 Festival of Trees, Altrusa of the Central Coast Foundation has announced. “Through the efforts of the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/altrusa-club-of-central-coast-foundation-issues-awards/">Altrusa Club of Central Coast Foundation Issues Awards</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/altrusa-club-of-central-coast-foundation-issues-awards/>
+
+---
+
+## Work Revving Up for Traffic Signal, More Measures at Hwy. 166 Intersection
+
+date: 2024-06-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-Highway166-Black-Intersection2-js-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-Highway166-Black-Intersection2-js-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-Highway166-Black-Intersection2-js-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-Highway166-Black-Intersection2-js-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-Highway166-Black-Intersection2-js-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-Highway166-Black-Intersection2-js-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-Highway166-Black-Intersection2-js-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-Highway166-Black-Intersection2-js-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-Highway166-Black-Intersection2-js-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-Highway166-Black-Intersection2-js-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-Highway166-Black-Intersection2-js-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-Highway166-Black-Intersection2-js-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-Highway166-Black-Intersection2-js-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-Highway166-Black-Intersection2-js-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The long wait for the installation of a traffic signal and other safety measures at a busy intersection between Santa Maria and Guadalupe will end with the start of construction [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/work-revving-up-for-traffic-signal-more-measures-at-hwy-166-intersection/">Work Revving Up for Traffic Signal, More Measures at Hwy. 166 Intersection</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/work-revving-up-for-traffic-signal-more-measures-at-hwy-166-intersection/>
+
+---
+
+## Police Arrest 17-Year-Old in Santa Barbara After Weekend Shooting Left 1 Dead, 1 Injured in Santa Maria
+
+date: 2024-06-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A 17-year-old boy has been arrested in Santa Barbara in connection with a weekend double shooting that left one man dead and another injured in Santa Maria. At approximately 10:15 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/police-arrest-17-year-old-in-santa-barbara-after-weekend-shooting-left-1-dead-1-injured-in-santa-maria/">Police Arrest 17-Year-Old in Santa Barbara After Weekend Shooting Left 1 Dead, 1 Injured in Santa Maria</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/police-arrest-17-year-old-in-santa-barbara-after-weekend-shooting-left-1-dead-1-injured-in-santa-maria/>
+
+---
+
+## Santa Maria Man Named as Driver Killed When Car Plunged Off Bridge in Orcutt
+
+date: 2024-06-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A Santa Maria man has been identified as the driver who was killed earlier this month when a vehicle plunged off a Highway 135 bridge in Orcutt. The victim was [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-man-named-as-driver-killed-when-car-plunged-off-bridge/">Santa Maria Man Named as Driver Killed When Car Plunged Off Bridge in Orcutt</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-maria-man-named-as-driver-killed-when-car-plunged-off-bridge/>
+
+---
+
+## Fossil Free UC Historical Records Added to UCSB Library Collections
+
+date: 2024-06-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="559" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062624-fossilfree-2000.gif?fit=1024%2C559&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Fossil Free UC student activists carry a black plastic tubular sign over their heads during a demonstration in June 2015. (Courtesy photo)" decoding="async" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>With UC Santa Barbara students at the forefront, a yearslong coalition between campuses systemwide succeeded in raising awareness of UC investments in the fossil fuel industry. Detailed documentation of the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/fossil-free-uc-historical-records-added-to-ucsb-library-collections/">Fossil Free UC Historical Records Added to UCSB Library Collections</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/fossil-free-uc-historical-records-added-to-ucsb-library-collections/>
+
+---
+
+## Granville Sloan Knox, Jr. of Santa Barbara, 1938-2024
+
+date: 2024-06-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="964" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Knox-Granville-glacier-10MD.png?fit=1024%2C964&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Granville Sloan Knox, Jr." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Knox-Granville-glacier-10MD.png?w=2458&amp;ssl=1 2458w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Knox-Granville-glacier-10MD.png?resize=300%2C282&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Knox-Granville-glacier-10MD.png?resize=1024%2C964&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Knox-Granville-glacier-10MD.png?resize=768%2C723&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Knox-Granville-glacier-10MD.png?resize=1536%2C1446&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Knox-Granville-glacier-10MD.png?resize=2048%2C1928&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Knox-Granville-glacier-10MD.png?resize=1200%2C1130&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Knox-Granville-glacier-10MD.png?resize=1568%2C1476&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Knox-Granville-glacier-10MD.png?resize=2000%2C1883&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Knox-Granville-glacier-10MD.png?resize=400%2C377&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Knox-Granville-glacier-10MD.png?resize=706%2C665&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Knox-Granville-glacier-10MD.png?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Knox-Granville-glacier-10MD.png?fit=1024%2C964&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Granville Sloan Knox, Jr., dedicated husband, father, grandfather and friend, passed away in his sleep in Santa Barbara on Father’s Day, June 16, 2024. Born on May 18, 1938, in [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/granville-sloan-knox-jr-of-santa-barbara-1938-2024/">Granville Sloan Knox, Jr. of Santa Barbara, 1938-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/granville-sloan-knox-jr-of-santa-barbara-1938-2024/>
+
+---
+
+## Santa Barbara Symphony CEO Kathryn R. Martin Lauded for Her Leadership in Challenging Times
+
+date: 2024-06-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Kathryn R. Martin, Santa Barbara Symphony president/CEO, is being honored with the 2024 Executive Leadership Award by the Association of California Symphony Orchestras (ACSO). The ACSO Executive Leadership Award, which [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-symphony-ceo-kathryn-martin-lauded-for-her-leadership-in-challenging-times/">Santa Barbara Symphony CEO Kathryn R. Martin Lauded for Her Leadership in Challenging Times</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-symphony-ceo-kathryn-martin-lauded-for-her-leadership-in-challenging-times/>
+
+---
+
+## Erick Gonzalez Ramirez Joins School Board as Student Representative
+
+date: 2024-06-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara Unified School District Board of Trustees has welcomed Santa Barbara High School senior Erick Gonzalez Ramirez as the fourth student board member in district history. Before applying [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/erick-gonzalez-ramirez-joins-school-board-as-student-representative/">Erick Gonzalez Ramirez Joins School Board as Student Representative</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/erick-gonzalez-ramirez-joins-school-board-as-student-representative/>
 
 ---
 

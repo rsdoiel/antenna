@@ -1,11 +1,220 @@
 ---
 title: columns 2024.26
-updated: 2024-06-26 09:20:39
+updated: 2024-06-27 08:57:50
 ---
 
 # columns 2024.26
 
-(date: 2024-06-26 09:20:39)
+(date: 2024-06-27 08:57:50)
+
+---
+
+##  One Million Checkboxes. I love these sorts of minimal collaborative thingies. (Are... 
+
+date: 2024-06-27, updated: 2024-06-27, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044884-one-million-checkboxes-i->
+
+---
+
+##  Calm Down — Your Phone Isn&#8217;t Listening to Your Conversations. It&#8217;s Just... 
+
+date: 2024-06-27, updated: 2024-06-27, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044883-calm-down-your-phone>
+
+---
+
+## 2024-06-27 Keep your own archives
+
+date: 2024-06-27, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-27-keep-your-own-archives">2024-06-27 Keep your own archives</h1>
+
+<p>In these days of copyright maximalism I often think of all the fragments by ancient authors that we only know because they were quoted extensively by others.</p>
+
+<p>We should not expect the web to stay up, the links to stay fresh, the posts to remain available. No, it’s entropy all the way: technology comes and goes, servers come and go, pages are written and get deleted, people are born and die, and everything they ever built is pulled down as capitalism keeps eating us and our works.</p>
+
+<p>Here’s my wish: link if you can but quote extensively and fight copyright maximalism. Save our culture! Some of our works might survive into the far future and the quotes they bear are the life boats of our thoughts.</p>
+
+<p>I still need to get into the habit of archiving web posts I like. I&rsquo;m very unhappy about that. I started saving all the PDFs I liked, read, skimmed or intended to read, just in case I need find them again. It&rsquo;s a start, but not enough.</p>
+
+<p>It hurts my brain that Sophocles was so prolific, so famous, so beloved – and we got seven plays out of a hundred and twenty. 😭 And that’s one of the authors with complete plays available. All pre-Socratic philosophy relies on testimonia. 😭 😭</p>
+
+<p>Thanks to <a class="account" href="https://floss.social/@alcinnz" title="@alcinnz@floss.social">@alcinnz</a> and <a class="account" href="https://fosstodon.org/@Greta" title="@Greta@fosstodon.org">@Greta</a> for the conversation back in 2023.</p>
+
+<p>This message is brought to you not only by the film studios cancelling shows they already produced in order to save on taxes, nor by studios dumping TV archives, nor by search engines letting the USENET archive deteriorate, nor by the copyright owners eager to prey on any that would restore old movies that are rotting away due to age, hoping to leech any value somebody else might create, nor by thoughts of a generation of people entrusting their culture to the Internet where companies fail and servers die and nothing of value survives the coming apocalypse. No. It&rsquo;s because the artifacts of our lives and our culture are no longer made of clay and stone to last for a thousand years, nor paper or wood to last for centuries, and we&rsquo;ve handed them over to corporations that don&rsquo;t care. All they care for is profit.</p>
+
+<p>We need to take back what we can.</p>
+
+<p>We need to keep our own archives.</p>
+
+<p><a class="tag" href="/search/?q=%23Copyright">#Copyright</a></p> 
+
+<https://alexschroeder.ch/view/2024-06-27-keep-archives>
+
+---
+
+## Security Analysis of the EU’s Digital Wallet
+
+date: 2024-06-27, updated: 2024-06-27, from: Bruce Schneier blog
+
+<p>A group of cryptographers have <a href="https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/issues/200">analyzed</a> the eiDAS 2.0 regulation (electronic identification and trust services) that defines the new EU Digital Identity Wallet.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/06/security-analysis-of-the-eus-digital-wallet.html>
+
+---
+
+## long term curl versions
+
+date: 2024-06-27, from: Daniel Stenberg Blog
+
+In the curl project we ship new releases based on the master branch of our git repository, in a clean and linear commit history. We have never maintained an old branch for long term or stability etc. Instead we promise to not break user behavior nor the ABI or API. All users should be able &#8230; <a href="https://daniel.haxx.se/blog/2024/06/27/long-term-curl-versions/" class="more-link">Continue reading <span class="screen-reader-text">long term curl versions</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/06/27/long-term-curl-versions/>
+
+---
+
+## Announcing our debate watchalong in real time, tonight, on this page, starting 5:45 PT/8:45 ET
+
+date: 2024-06-27, from: Robert Reich's blog
+
+Please join us! 
+
+<https://robertreich.substack.com/p/the-first-presidential-debate-of>
+
+---
+
+## June 26, 2024
+
+date: 2024-06-27, from: Heather Cox Richardson blog
+
+Today President Joe Biden pardoned more than 2000 former military personnel who had been convicted of engaging in consensual sex under a gay sex ban in the military that has since been repealed. People covered under the pardon can apply to have their military discharges corrected and to recover the pay and benefits the convictions cost them. &#8220;[M]aintaining the finest fighting force in the world&#8230;means making sure that every member of our military feels safe and respected,&#8221; Biden said in a statement. 
+
+<https://heathercoxrichardson.substack.com/p/june-26-2024>
+
+---
+
+## The Talk Show: ‘150 Million Calculator Apps’
+
+date: 2024-06-27, updated: 2024-06-27, from: Daring Fireball
+
+ 
+
+<https://daringfireball.net/thetalkshow/2024/06/26/ep-403>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-26, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/26/feedlandSmall.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="http://scripting.com/2024/06/26/theFediverseIsDoomedUnlessSubscriptionGetsEasyFast.m4a">Podcast</a>: The Fediverse is doomed unless subscription gets easy, fast. Twitter kicked butt when it came out in 2006 and the butt it kicked was the <i>feed</i>iverse. Why? Because it was too damned hard and unnecessarily complicated to subscribe to a feed. In Twitter there was a button on each feed page that said Subscribe. Click the button and you're subscribed. That's it. May sound like a small matter, but it's not. Listen wherever you get your podcasts. I've been dying to say that. 12 minutes. 
+
+<http://scripting.com/2024/06/26.html#a225814>
+
+---
+
+## (Midweek Edition) Field Notes 06.26.2024
+
+date: 2024-06-26, from: Om Malik blog
+
+On My Mind I recently shared on Threads the following:&#160; “Social Media is like a mirror that makes objects appear bigger than they really are. It amplifies what was already there.”&#160; To expound on it a bit further, what I mean is that no matter what we do, somehow we let our true selves out. &#8230; 
+
+<https://om.co/2024/06/26/midweek-edition-field-notes-06-26-2024/>
+
+---
+
+##  The White Death 
+
+date: 2024-06-26, updated: 2024-06-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/the-white-death>
+
+---
+
+##  Loved Caity Weaver&#8217;s Letter of Recommendation for the only reality show I&#8217;ve... 
+
+date: 2024-06-26, updated: 2024-06-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044880-loved-caity-weavers-lette>
+
+---
+
+##  llama.ttf is a font that includes an LLM and an inference engine... 
+
+date: 2024-06-26, updated: 2024-06-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044879-llamattf-is-a-font-that>
+
+---
+
+##  Some Obvious Travel Advice 
+
+date: 2024-06-26, updated: 2024-06-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/some-obvious-travel-advice>
+
+---
+
+## Wavelength Is Shutting Down at the End of July
+
+date: 2024-06-26, updated: 2024-06-26, from: Daring Fireball
+
+ 
+
+<https://www.wavelength.app/>
+
+---
+
+##  Updated advice about lightning safety when you&#8217;re outdoors, including &#8220;hiding in a... 
+
+date: 2024-06-26, updated: 2024-06-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044878-updated-advice-about-ligh>
+
+---
+
+## AI Poetry Camera? Seriously?
+
+date: 2024-06-26, from: Om Malik blog
+
+Some days randomly remind you of the uniqueness of the place you call home. Yesterday was one of those days. I met Ryan Mather, who works for Sudowrite*, for coffee. He was in town for the Figma Design Conference. We chatted about writing, books, and how I use “AI” in my process. We discussed what &#8230; 
+
+<https://om.co/2024/06/26/a-poetic-ai-camera/>
+
+---
+
+##  New Order&#8217;s Iconic Blue Monday Played on Vintage Casio Instruments 
+
+date: 2024-06-26, updated: 2024-06-26, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/new-orders-iconic-blue-monday-played-on-vintage-casio-instruments>
+
+---
+
+## June 25, 2024
+
+date: 2024-06-26, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/june-25-2024-687>
 
 ---
 
@@ -392,7 +601,7 @@ date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
 
 ## Reuters: Amazon Is Considering $5 Monthly Charge for Improved Alexa
 
-date: 2024-06-25, updated: 2024-06-25, from: Daring Fireball
+date: 2024-06-25, updated: 2024-06-26, from: Daring Fireball
 
  
 

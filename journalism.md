@@ -1,11 +1,31 @@
 ---
 title: journalism 2024.26
-updated: 2024-06-26 09:20:40
+updated: 2024-06-27 08:57:52
 ---
 
 # journalism 2024.26
 
-(date: 2024-06-26 09:20:40)
+(date: 2024-06-27 08:57:52)
+
+---
+
+## El País aims for the U.S. with a new, American Spanish-language edition
+
+date: 2024-06-27, from: Nieman Journalism Lab
+
+For years and with various levels of success, U.S. news outlets have tried to engage Latinos and Spanish-language audiences with new bureaus abroad, Latino-focused verticals, new products, bilingual storytelling and/or translations. In May, Spain&#8217;s El País took a different approach: it launched its own digital edition to cover the United States in Spanish instead of... 
+
+<https://www.niemanlab.org/2024/06/el-pais-aims-for-the-u-s-with-a-new-american-spanish-language-edition/>
+
+---
+
+## Cityside launches Richmondside, its third local news site in California
+
+date: 2024-06-26, from: Nieman Journalism Lab
+
+Last month, I talked to Floodlight&#8217;s Miranda Green and NPR&#8217;s David Folkenflik about how they teamed up to investigate a news site owned by Chevron. That website was pretty much the only regular source of local news for the city of Richmond, California, and Folkenflik and Green called it a &#8220;news mirage&#8221; — something that... 
+
+<https://www.niemanlab.org/2024/06/cityside-launches-richmondside-its-third-local-news-site-in-california/>
 
 ---
 
@@ -16,6 +36,16 @@ date: 2024-06-26, from: Nieman Journalism Lab
 Journalism faces a credibility crisis. Only 32% of Americans report having “a great deal” or “fair amount” of trust in news reporting — a historical low. Journalists generally assume that their lack of credibility is a result of what people believe to be reporters’ and editors’ political bias. So they believe the key to improving public trust... 
 
 <https://www.niemanlab.org/2024/06/is-journalisms-trust-problem-about-money-not-politics/>
+
+---
+
+## The espionage trial of Evan Gershkovich signals a dangerous new era for journalism in Russia
+
+date: 2024-06-26, from: Nieman Journalism Lab
+
+The arrest and trial of U.S. reporter Evan Gershkovich on spying charges would have prompted a range of emotions in any outsider who has been a reporter or researcher in Russia. At first, there’s the sense that you yourself may have escaped after running a similar risk of working in such a potentially dangerous environment. Then comes... 
+
+<https://www.niemanlab.org/2024/06/the-espionage-trial-of-evan-gershkovich-signals-a-dangerous-new-era-for-journalism-in-russia/>
 
 ---
 

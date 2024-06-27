@@ -1,11 +1,111 @@
 ---
 title: games 2024.26
-updated: 2024-06-26 09:20:40
+updated: 2024-06-27 08:57:51
 ---
 
 # games 2024.26
 
-(date: 2024-06-26 09:20:40)
+(date: 2024-06-27 08:57:51)
+
+---
+
+## Elden Ring: Shadow of the Erdtree reaches 5M players in first week
+
+date: 2024-06-27, updated: 2024-06-27, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24187358/elden-ring-shadow-of-the-erdtree-copies-sold>
+
+---
+
+## We talked about evil with the most evil man on Evil
+
+date: 2024-06-27, updated: 2024-06-27, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24185934/evil-paramount-plus-michael-emerson>
+
+---
+
+## Not sure what anime to watch? Leave a comment, we’ll help
+
+date: 2024-06-27, updated: 2024-06-27, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/anime/2024/6/27/24185712/best-anime-watch-now-recommendations-streaming>
+
+---
+
+## Even Torrent is scared of the new Elden Ring DLC
+
+date: 2024-06-27, updated: 2024-06-27, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24186582/elden-ring-dlc-shadow-erdtree-torrent-scared>
+
+---
+
+## Nice, you can kill Conor McGregor in Hitman’s new DLC
+
+date: 2024-06-27, updated: 2024-06-27, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24186771/hitman-conor-mcgregor-elusive-target-ufc-disruptor-dlc>
+
+---
+
+## Enir-Ilim walkthrough in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186341/enir-ilim-steps-sealing-tree-sote-dlc>
+
+---
+
+## How to get Bloodfiend’s Arm in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186733/bloodfiends-arm-location-where-to-find-dlc-sote>
+
+---
+
+## Where to find the O Mother gesture in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186586/o-mother-gesture-location-where-to-find-sote>
+
+---
+
+## How to beat Commander Gaius in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186445/commander-gaius-location-weakness-strategy-how-to-beat-sote-dlc>
+
+---
+
+## How to beat the Scadutree Avatar in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24186490/scadutree-avatar-location-weakness-strategy-how-to-beat-sote-dlc>
 
 ---
 

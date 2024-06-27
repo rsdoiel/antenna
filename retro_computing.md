@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.26
-updated: 2024-06-26 09:20:42
+updated: 2024-06-27 08:57:53
 ---
 
 # retro computing 2024.26
 
-(date: 2024-06-26 09:20:42)
+(date: 2024-06-27 08:57:53)
+
+---
+
+## New alpha release v0.9.4 for the CROWler GoLang port
+
+date: 2024-06-27, from: Paola Zaino's blog
+
+📣 I am excited to announce the new alpha release 0.9.4 of theCROWler (my Content Discovery and Security development platform) GoLang Port available for Testing! This release introduces several new features and improvements: &#8211; [New] Detection Rules Support for Plugins: Now you can access the full DOM and live, allowing your plugins to capture malware [&#8230;] 
+
+<https://paolozaino.wordpress.com/2024/06/27/new-alpha-release-v0-9-4-for-the-crowler-golang-port/>
+
+---
+
+## Canonical Offers 12-Year LTS for Open Source Docker Images
+
+date: 2024-06-26, from: Linux Magazine
+
+<p>Canonical is expanding its LTS offering to reach beyond the DEB packages with a new distro-less Docker image.</p> 
+
+<http://www.linux-magazine.com/Online/News/Canonical-Offers-12-Year-LTS-for-Open-Source-Docker-Images>
 
 ---
 
