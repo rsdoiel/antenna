@@ -1,11 +1,275 @@
 ---
 title: tech likely 2024.26
-updated: 2024-06-27 08:57:50
+updated: 2024-06-27 17:05:32
 ---
 
 # tech likely 2024.26
 
-(date: 2024-06-27 08:57:50)
+(date: 2024-06-27 17:05:32)
+
+---
+
+## Windows 10 will be covered by 0patch, a third-party paid patching service
+
+date: 2024-06-27, from: OS News
+
+So I learned something new today: there are companies that provide security patches for Windows that aren&#8217;t Microsoft. I never even considered this could be a thing, but it turns out that a paid service called 0patch seems to have been around for a long time, and the consensus seems to be that not only can it be trusted, it also sometimes provides patches sooner than Microsoft does. Today, 0patch announced it&#8217;ll also be providing this service for Windows 10 after the end of support next year. With October 2025, 0patch will &#8220;security-adopt&#8221; Windows 10 v22H2, and provide critical security patches for it for at least 5 more years &#8211; even longer if there&#8217;s demand on the market. We&#8217;re the only provider of unofficial security patches for Windows (&#8220;virtual patches&#8221; are not really patches), and we have done this many times before: after security-adopting Windows 7 and Windows Server 2008 in January 2020, we took care of 6 versions of Windows 10 as their official support ended, security-adopted Windows 11 v21H2 to keep users who got stuck there secure, took care of Windows Server 2012 in October 2023 and adopted two popular Office versions &#8211; 2010 and 2013 &#8211; when they got abandoned by Microsoft. We&#8217;re still providing security patches for all of these. ↫ Mitja Kolsek on the 0patch blog This service implements patching through what it calls &#8220;micropatches&#8221;, which are very small sets of CPU instructions injected into running code in memory without modifying &#8211; in this case &#8211; Microsoft&#8217;s own code. These micropatches are applied by briefly stopping the offending program, injecting the fix, and continuing the program &#8211; without having to close the program or reboot. Of course, they can be unapplied in the same, non-disruptive way. The 0patch service will provide patches for 0days that Microsoft hasn&#8217;t fixed yet, patches for issues Microsoft won&#8217;t fix, and sometimes patches for third party code. As the headline clearly states, this service isn&#8217;t free, but honestly, at roughly 25 dollars plus tax per computer per year, it&#8217;s not exactly expensive, and definitely cheaper than Microsoft&#8217;s own Windows 10 Extended Security Update program it&#8217;s going to offer for Windows 10 after the end of support date next year. Diving a bit deeper into who is providing this service, it comes from a company called ACROS Security, a small company out of Slovenia. The company details its micropatches on its 0patch blog if you want more information on how each individual ones works. I still don&#8217;t know exactly what to make of this, and I definitely wouldn&#8217;t rely on something like this for mission-critical Windows computers or servers, but for something like a home PC that can&#8217;t be upgraded to Windows 11 but still works just fine, or perhaps some disposable virtual machines you&#8217;re using, this might be a good stopgap solution until you can upgrade to a better operating system, like Linux or one of the BSDs. Are there any people in the OSNews audience who&#8217;ve used 0patch, or perhaps a service similar to it? 
+
+<https://www.osnews.com/story/140078/windows-10-will-be-covered-by-0patch-a-third-party-paid-patching-service/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-06-27, from: Miguel de Icaza Mastondon feed)
+
+<p>To get a bunch of Godot games to work on mobile without changes, it is possible to use Apple&#39;s virtual controller, which gives you a mobile controller on top of your code for free, and you get to keep your physical controller code:</p><p><a href="https://developer.apple.com/documentation/gamecontroller/gcvirtualcontroller" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">developer.apple.com/documentat</span><span class="invisible">ion/gamecontroller/gcvirtualcontroller</span></a></p><p>We will be upstreaming this change soon.</p><p>Here it is with Godot on iPad:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112690800659059613>
+
+---
+
+## NASA, Boeing to Provide Commercial Crew, Space Station Update
+
+date: 2024-06-27, from: NASA breaking news
+
+Leadership from NASA’s International Space Station and Commercial Crew Programs, as well as Boeing, will participate in a media teleconference at 2 p.m. EDT Friday, June 28. NASA and Boeing continue to evaluate Starliner’s propulsion system performance before returning from the International Space Station as part of the agency’s Crew Flight Test. The agency also [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-boeing-to-provide-commercial-crew-space-station-update/>
+
+---
+
+##  I Will Fucking Piledrive You If You Mention AI Again. &#8220;&#8230;spending half... 
+
+date: 2024-06-27, updated: 2024-06-27, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044890-i-will-fucking-piledrive->
+
+---
+
+##  &#8220;I Shrink 10x Every 21s Until I&#8217;m an Atom&#8221; 
+
+date: 2024-06-27, updated: 2024-06-27, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/i-shrink-10x-every-21s-until-im-an-atom>
+
+---
+
+## NASA Awards Contract for Cargo Mission Support
+
+date: 2024-06-27, from: NASA breaking news
+
+NASA has awarded a contract to Leidos, Inc. of Reston, Virginia, to provide mission support for the agency’s International Space Station Program, Artemis campaign, and more. The Cargo Mission Contract 4 has a total potential value of $476.5 million, with a base period from Oct. 1, 2024, to Sept. 30, 2026, followed by three option [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-awards-contract-for-cargo-mission-support/>
+
+---
+
+## Station Nation: Meet Katie Burlingame, ETHOS Flight Controller and Instructor in the Flight Operations Directorate
+
+date: 2024-06-27, from: NASA breaking news
+
+Katie Burlingame is an ETHOS (Environmental and Thermal Operating Systems) flight controller and instructor in the Flight Operations Directorate supporting the International Space Station. Burlingame trains astronauts and flight controllers on the International Space Station’s environmental control systems, internal thermal control systems, and emergency response. Burlingame shares about their path to NASA, what Pride Month [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-katie-burlingame-ethos-flight-controller-and-instructor-in-the-flight-operations-directorate/>
+
+---
+
+## NASA Prepares for Air Taxi Passenger Comfort Studies
+
+date: 2024-06-27, from: NASA breaking news
+
+A new custom virtual reality flight simulator built by NASA researchers will allow them to explore how passengers experience air taxi rides and collect data that will help designers create new aircraft with passenger comfort in mind. Wayne Ringelberg, a test pilot at NASA’s Armstrong Flight Research Center in Edwards, California, recently completed a series [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-prepares-for-air-taxi-passenger-comfort-studies/>
+
+---
+
+## Fixing KWin’s performance on old hardware
+
+date: 2024-06-27, from: OS News
+
+KWin had a very long standing bug report about bad performance of the Wayland session on older Intel integrated graphics. There have been many investigations into what’s causing this, with a lot of more specific performance issues being found and fixed, but none of them managed to fully fix the issue… until now. ↫ Xaver Hugl An excellent deep dive into a very annoying problem KWin on Wayland running on older Intel hardware was facing. It turns out the issue was related to display timings, and older Intel hardware simply not being powerful enough to render frames within the timing window. The solution consisted of a various smaller solutions, and one bigger one: triple-buffering. The end result is a massive performance improvement for KWin on Wayland on older Intel hardware. This detailed post underlines just how difficult it is to simply render a bunch of windows and UI elements on time, without stutters or tearing, while taking into account the wide variety of hardware a project like KDE Plasma intends to run on. It&#8217;s great to see them paying attention to the older, less powerful systems too, instead of only focusing on the latest and greatest like Apple, and recently Microsoft as well, do. 
+
+<https://www.osnews.com/story/140076/fixing-kwins-performance-on-old-hardware/>
+
+---
+
+##  Paramount has taken offline the entire MTV News archive as well as... 
+
+date: 2024-06-27, updated: 2024-06-27, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044888-paramount-has-taken-offli>
+
+---
+
+##  The Biden administration&#8217;s successes (clean energy, infrastructure investment, workers&#8217; rights, making gov&#8217;t... 
+
+date: 2024-06-27, updated: 2024-06-27, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044887-the-biden-administrations>
+
+---
+
+## NASA Kennedy Team Recognized During White House Sustainability Awards
+
+date: 2024-06-27, from: NASA breaking news
+
+A team of seven NASA Kennedy employees was recognized by the White House for charging ahead with the expansion of the agency’s sustainable electric vehicle (EV) fleet at Kennedy Space Center. They did so at minimal cost to taxpayers while also offering zero emission EV charging for any workers and visitors willing to pay out [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-team-recognized-during-white-house-sustainability-awards/>
+
+---
+
+## Langley Celebrates Pride Month: Derek Bramble
+
+date: 2024-06-27, from: NASA breaking news
+
+Derek Bramble has served in a variety of mission and program support roles over his 14-year career at NASA Langley.  He currently serves as an HR Business Partner in LaRC&#8217;s Human Capital Office, where he works closely with a number of organizations across the Center providing them with strategic and operational HR support. Derek previously [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/langley/langley-celebrates-pride-month-derek-bramble/>
+
+---
+
+##  Diary Comics, January 2024 
+
+date: 2024-06-27, updated: 2024-06-27, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/diary-comics-january-2024>
+
+---
+
+## The subscription problem
+
+date: 2024-06-27, from: Dave Winer's Scripting News
+
+<p>Yesterday I did a <a href="http://scripting.com/2024/06/26.html#a225814">podcast</a> in my new <a href="https://this.how/scriptingNewsPodcast/">podcast-only feed</a> that explained how RSS had its moment between 2002 and 2006. The big event in 2002 was support from the NY Times, and in 2006 it was the advent of Twitter. </p>
+<ul>
+<li>The <a href="https://scripting.wordpress.com/2006/02/09/how-the-ny-times-came-to-support-rss/">NY Times support</a> gave us the news flow of one of the greatest and most respected news orgs. The entire news publishing industry followed, with incredible speed. It was an amazing time. Woodstock on the web. Everyone who was anyone was there.  </li>
+<li>Inbetween, <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> got the rep of being too hard for average people. The <i>only</i> reason for this deserved reputation is that subscription was a mess. Every website had to figure it out for themselves, and every feed reader acted as if they were the only feed reader in the world. RSS, which could have been the foundation of something very much like Twitter, never got out the corner of the market where it was totally adored, by people who were motivated enough to tolerate the awful state of subscribing.</li>
+<li>This was not in any way an insolvable problem. But it required something that the developers of the open web weren't able to do, work together. The W3C and IETF were busy trying to replace RSS, they were offended that it had been developed independently, even though their pitch for XML was that you could develop your own formats. It seemed they didn't believe their own hype? So not only did they not do do anything to help, they actively worked to undermine the success of RSS. That didn't work, fortunately. </li>
+<li>By the time <a href="https://en.wikipedia.org/wiki/Google_Reader">Google Reader</a> came along in 2005, it was too late for cooperation. Google dominated, and they didn't want to do anything to build an open news ecosystem.</li>
+<li><img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/27/followButton.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">When Twitter arrived in 2006, it had control of every aspect of user interface in their corporate platform, and were thus able to completely solve the subscription problem. Every feed had a button that said Follow. Click the button and you were following that feed. The button changed to Unfollow. That is was whole user interface right there. So easy anyone could use it.</li>
+</ul>
+<p>This story must sound familliar, in 2024 -- because it's all happening <a href="https://www.goodreads.com/quotes/468991-all-of-this-has-happened-before-and-it-will-all">again</a>. This time it's Facebook playing the role of Twitter, and Mastodon playing the role of RSS. And Mastodon has gotten a deserved reputation as being only for techie types. And the solution in 2024 is the same as it was in 2002 -- working together to make subscription easy. A one-click Follow button that works. One button for site-makers to put on their pages. And users leaning back and clicking away without a care in the world (at least about the software).</p>
+<p>The <a href="http://scripting.com/2024/06/26/theFediverseIsDoomedUnlessSubscriptionGetsEasyFast.m4a">podcast</a> is only 12 minutes long. Go have a listen and then think about whether or not you want to solve this problem for the fediverse. It can include non-ActivityPub systems btw, like Bluesky and even feed readers! We can all share the same subscription protocol. But it cannot be distributed. It must be centralized. </p>
+ 
+
+<http://scripting.com/2024/06/27/175207.html?title=theSubscriptionProblem>
+
+---
+
+## Mapping the Red Planet with the Power of Open Science
+
+date: 2024-06-27, from: NASA breaking news
+
+Mars rovers can only make exciting new discoveries thanks to human scientists making careful decisions about their next stop. The Mars 2020 mission is aimed at exploring the geology of Jezero Crater and seeking signs of ancient microbial life on Mars using the Perseverance rover. Scientists at NASA’s Jet Propulsion Laboratory (JPL) in Southern California […] 
+
+<https://science.nasa.gov/open-science/mars-mapping-open-source/>
+
+---
+
+## NASA Parachute Sensor Testing Could Make EPIC Mars Landings
+
+date: 2024-06-27, from: NASA breaking news
+
+Landing rovers and helicopters on Mars is a challenge. It’s an even bigger challenge when you don’t have enough information about how the parachutes are enduring strain during the descent to the surface. Researchers at NASA’s Armstrong Flight Research Center in Edwards, California, are experimenting with readily available, highly elastic sensors that can be fixed [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-parachute-sensor-testing-could-make-epic-mars-landings/>
+
+---
+
+## Hubble Captures Infant Stars Transforming a Nebula
+
+date: 2024-06-27, from: NASA breaking news
+
+This NASA/ESA&#160;Hubble Space Telescope&#160;image presents a visually striking collection of interstellar gas and dust. Named RCW 7, the nebula is located just over 5,300 light-years from Earth in the constellation Puppis. Nebulae&#160;are areas rich in the raw material needed to form new stars. Under the influence of gravity, parts of these molecular clouds collapse until [&#8230;] 
+
+<https://www.nasa.gov/image-article/hubble-captures-infant-stars-transforming-a-nebula/>
+
+---
+
+##  Asking AI to generate a video of the Tour de France. 1.... 
+
+date: 2024-06-27, updated: 2024-06-27, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/0044885-asking-ai-to-generate-a>
+
+---
+
+## Sergey Durmanov commented on issue #143 at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-06-27, updated: 2024-06-27, from: Oberon A2 at CAS
+
+
+<p data-sourcepos="1:1-1:154" dir="auto">The problem is that this code compiles without any warnings and gives the impression that the code is working. But when executed we will receive an error.</p>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/143#note_192621>
+
+---
+
+## NASA Celebrates 10 Years of Human Spaceflight’s NExT Pioneers
+
+date: 2024-06-27, from: NASA breaking news
+
+Experienced spacewalkers, university students, flight controllers, and NASA team members at all stages of their career recently came together at Johnson Space Center’s Neutral Buoyancy Laboratory (NBL) for an anniversary celebration that looked to the future as much as the past. The Office of STEM Engagement’s Micro-g Neutral Buoyancy Experiment Design Teams (Micro-g NExT) marked [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/nasa-celebrates-10-years-of-human-spaceflights-next-pioneers/>
+
+---
+
+## Sergey Durmanov commented on issue #144 at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-06-27, updated: 2024-06-27, from: Oberon A2 at CAS
+
+
+<p data-sourcepos="1:1-1:320" dir="auto">It seems to me that this particular problem can be solved if the compiler marks the formal parameter, which is (possibly) returned by reference, and checks the actual parameter when calling the procedure. This will not solve all problems with returning by reference, but it will eliminate a significant number of errors.</p>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/144#note_192620>
+
+---
+
+## Paramount Concerns
+
+date: 2024-06-27, from: Tedium site
+
+In an immediate austerity measure after a failed merger, Paramount kills a ton of online content—an ironic move for a brand that has long exploited nostalgia. 
+
+<https://feed.tedium.co/link/15204/16727401/paramount-online-content-erasure>
+
+---
+
+## Snapshots for IPC Fuzzing
+
+date: 2024-06-27, from: Mozilla Developer Network blog
+
+<p>Process separation remains one of the most important parts of the Firefox security model and securing our IPC (Inter-Process Communication) interfaces is crucial to keep privileges in the different processes separated. We take a more detailed look at our newest tool for finding vulnerabilities in these interfaces – snapshot fuzzing.</p>
+<p>The post <a href="https://hacks.mozilla.org/2024/06/snapshots-for-ipc-fuzzing/">Snapshots for IPC Fuzzing</a> appeared first on <a href="https://hacks.mozilla.org">Mozilla Hacks - the Web developer blog</a>.</p>
+ 
+
+<https://hacks.mozilla.org/2024/06/snapshots-for-ipc-fuzzing/>
+
+---
+
+##  15 Years of Plant Time Lapse Videos 
+
+date: 2024-06-27, updated: 2024-06-27, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/06/15-years-of-plant-time-lapse-videos>
 
 ---
 
@@ -88,6 +352,19 @@ date: 2024-06-27, from: Raspberry Pi (.org)
  
 
 <https://www.raspberrypi.org/blog/coolest-projects-2024-young-tech-creators-showcase-their-projects-online/>
+
+---
+
+## A Gentle Intro to TypeScript
+
+date: 2024-06-27, updated: 2024-06-27, from: Deno blog
+
+Quick, digestible bites of TypeScript goodness for Deno developers. 
+In this first bite, we introduce TypeScript, how to add type annotations 
+to your code and why you should.
+ 
+
+<https://deno.com/blog/deno-bites-ts-intro>
 
 ---
 
@@ -316,6 +593,113 @@ page.</p>
 </ul> 
 
 <https://www.postgresql.org/about/news/postgresql-17-beta-2-released-2885/>
+
+---
+
+## The anatomy of metadata matching
+
+date: 2024-06-27, from: Crossref Blog
+
+<p>In our <a href="https://www.crossref.org/blog/metadata-matching-101-what-is-it-and-why-do-we-need-it/">previous blog post</a> about metadata matching, we discussed what it is and why we need it (tl;dr: to discover more relationships within the scholarly record). Here, we will describe some basic matching-related terminology and the components of a matching process. We will also pose some typical product questions to consider when developing or integrating matching solutions.</p>
+<h2 id="basic-terminology">Basic terminology</h2>
+<p>Metadata matching is a high-level concept, with many different problems falling into this category. Indeed, no matter how much we like to focus on the similarities between different forms of matching, matching affiliation strings to ROR IDs or matching preprints to journal papers are still different in several important ways. At Crossref and ROR, we call these problems matching tasks.</p>
+<p>Simply put, a <strong>matching task</strong> defines the kind or nature of the matching. Examples of matching tasks are bibliographic reference matching, affiliation matching, grant matching, or preprint matching.</p>
+<p>Every matching task has an input, which is all the data that is needed to perform the matching. Input data can come in many shapes and forms, depending on the matching task. For example, all of the following could be inputs to a matching task:</p>
+<pre tabindex="0"><code>Department of Molecular Medicine, Sapporo Medical University, Sapporo 060-8556, Japan
+</code></pre><pre tabindex="0"><code>&lt;fr:program xmlns:fr=&#34;http://www.crossref.org/fundref.xsd&#34; name=&#34;fundref&#34;&gt;
+&lt;fr:assertion name=&#34;fundgroup&#34;&gt;
+&lt;fr:assertion name=&#34;funder_name&#34;&gt;
+European Union&#39;s Horizon 2020 Research and Innovation Program through Marie Sklodowska Curie
+&lt;fr:assertion name=&#34;funder_identifier&#34;&gt;http://dx.doi.org/10.13039/501100000780&lt;/fr:assertion&gt;
+&lt;/fr:assertion&gt;
+&lt;fr:assertion name=&#34;award_number&#34;&gt;721624&lt;/fr:assertion&gt;
+&lt;/fr:assertion&gt;
+&lt;/fr:program&gt;
+</code></pre><pre tabindex="0"><code>Everitt, W. N., &amp; Kalf, H. (2007). The Bessel differential equation and the Hankel transform. Journal of Computational and Applied Mathematics, 208(1), 3–19.
+</code></pre><pre tabindex="0"><code>{
+&#34;title&#34;: &#34;Functional single-cell genomics of human cytomegalovirus infection&#34;,
+&#34;issued&#34;: &#34;2021-10-25&#34;,
+&#34;author&#34;: [
+{&#34;given&#34;: &#34;Marco Y.&#34;, &#34;family&#34;: &#34;Hein&#34;},
+{&#34;given&#34;: &#34;Jonathan S.&#34;, &#34;family&#34;: &#34;Weissman&#34;, &#34;ORCID&#34;: &#34;http://orcid.org/0000-0003-2445-670X&#34;}
+]
+}
+</code></pre><p>Every matching task also has an <strong>output</strong>. For our purposes, this is almost exclusively zero or more matched identifiers. In the context of a specific matching task, output identifiers may be of a specific type (e.g. we might match to a ROR ID, and never to an ORCID ID). In some cases, there can be a certain target set as well (i.e. matching only to DataCite DOIs). The output identifiers can have different <a href="https://en.wikipedia.org/wiki/Cardinality" target="_blank">cardinality</a> depending on the task, meaning that the matching task might allow for zero, one, or more identifiers as a result of matching to a single input.</p>
+<p>A <strong>matching strategy</strong> defines how the matching is done. Multiple strategies can exist for a specific matching task. Compound strategies can run other strategies and combine their outcomes into a single result.</p>
+<p>In some cases, we may also want the matching strategy to output a confidence score for each matched identifier. A confidence score represents the degree of certainty or likelihood that the matched identifier is correct, typically expressed as a value between 0 and 1. This score may help with post-processing or further interpretation of the results.</p>
+<p>To summarise, the anatomy of the matching task can be diagrammed as follows:</p>
+<div style="text-align:center;margin:10px">
+<figure class="img-responsive"><img src="https://www.crossref.org/images/blog/2024/matching-task-anatomy.png"
+alt="The anatomy of the matching task" width="75%">
+</figure>
+</div>
+<br />
+<h2 id="how-to-specify-a-matching-task">How to specify a matching task</h2>
+<p>Whenever we plan the development or integration of a matching solution, it is good to begin by answering a few basic questions:</p>
+<ol>
+<li>What problem do we plan to solve with our matching task? What would we call our matching task and how would we describe it?</li>
+<li>What do we expect as the input for this matching task? Which input formats do we need to be able to accept? What information do we expect to find in this input?</li>
+<li>What kind of identifiers should be output? Is there a target set of identifiers? Can our matching output zero/one/or multiple identifiers, and under what conditions might that occur?</li>
+</ol>
+<p>These sound fairly simple, but the answers to these questions can be remarkably complex. Once one tries to apply these concepts to real-world problems, they might encounter several non-obvious challenges.</p>
+<p>For example, one common concern is at what level we should define each matching task. Consider the following problems:</p>
+<ol>
+<li>Matching bibliographic reference strings to DOIs. Example input:</li>
+</ol>
+<pre tabindex="0"><code>Everitt, W. N., &amp; Kalf, H. (2007). The Bessel differential equation and the Hankel transform. Journal of Computational and Applied Mathematics, 208(1), 3–19.
+</code></pre><ol start="2">
+<li>Matching structured bibliographic reference to DOIs. Example input:</li>
+</ol>
+<pre tabindex="0"><code>{
+volume: &#34;208&#34;,
+author: &#34;Everitt&#34;,
+journal-title: &#34;J. Comput. Appl. Math.&#34;,
+article-title: &#34;The Bessel differential equation and the Hankel transform&#34;,
+first-page: &#34;3&#34;,
+year: &#34;2007&#34;,
+issue: &#34;1&#34;
+}
+</code></pre><p>Are those discrete matching tasks (<em>unstructured reference matching</em> vs. <em>structured reference matching</em>), or are they the same task (<em>reference matching</em>) that can accept different types of inputs (unstructured or structured)?</p>
+<p>Similarly, let&rsquo;s compare the following tasks:</p>
+<ol>
+<li>Matching affiliation strings to ROR IDs. Example input:</li>
+</ol>
+<pre tabindex="0"><code>Department of Molecular Medicine, Sapporo Medical University, Sapporo 060-8556, Japan
+</code></pre><ol start="2">
+<li>Matching funder names to ROR IDs. Example input:</li>
+</ol>
+<pre tabindex="0"><code>Alexander von Humboldt Foundation
+</code></pre><p>Are these different matching tasks (<em>affiliation matching</em> vs. <em>funder matching</em>), or the same task with different inputs (<em>organisation matching</em>)?</p>
+<p>Defining the boundaries of a matching task can also be difficult. Consider, for example, the need to obtain ROR IDs for organisations mentioned in the acknowledgements section of a full-text academic paper. To begin, one may first extract the acknowledgement section from the full text, then run something like a named entity recognition (NER) tool to isolate the organisation names from the extracted text, and finally match these names to ROR IDs. Is this entire process matching, with the input being the full text of a paper? Or perhaps matching starts with the acknowledgement section as the input? Instead, is it only the last phase, where we try to match the extracted name to the ROR ID, that constitutes the matching task, with the extraction phases being completely separate processes?</p>
+<p>There are also important questions related to the expected behaviour of a matching strategy. Consider, for example, developing an affiliation matching strategy where we define our input as &ldquo;an affiliation string&rdquo;. What should happen when the strategy gets something else on the input, for example, song lyrics? Perhaps the strategy should simply return no matches, or an error, or we could say that in such a situation the behaviour is undefined and it simply doesn&rsquo;t matter what is returned. But what should happen if in this input we have the lyrics of <a href="https://www.azlyrics.com/lyrics/roxymusic/streetlife.html" target="_blank">Street Life by Roxy Music</a>, a song that mentions the names of a few universities that happen to have ROR IDs?</p>
+<p>It is likewise important to consider what should happen if different parts of the input match to different identifiers, like in the following example:</p>
+<pre tabindex="0"><code>Department of Haematology, Eastern Health and Monash University, Box Hill, Australia
+</code></pre><p>Here, &ldquo;Eastern Health&rdquo; matches to <a href="https://ror.org/00vyyx863" target="_blank">https://ror.org/00vyyx863</a> and &ldquo;Monash University&rdquo; to <a href="https://ror.org/02bfwt286" target="_blank">https://ror.org/02bfwt286</a>. Should the matching strategy return all the identifiers, one of them (if so, which one?), or nothing at all?</p>
+<p>Similar questions arise when it is possible to match to multiple versions (or duplicates) in the target identifier set. This can happen, for example, in the context of bibliographic reference matching or preprint matching. Multiple matches may occur when there are different editions, reprints, or variations of the same publication in the target dataset, each with its own unique identifier.</p>
+<p>If you are waiting for an answer to these questions, we unfortunately must disappoint you here. These can only be answered in the context of a specific problem, considering who the users are and what it is they need and expect.</p>
+<p>Did you notice any other subtleties related to metadata matching and its concerns? Are there other non-obvious questions that should be considered when planning to develop or integrate metadata matching strategies? Let us know—we&rsquo;d love to hear from you!</p> 
+
+<https://www.crossref.org/blog/the-anatomy-of-metadata-matching/>
+
+---
+
+## "No way to prevent this" say users of only language where this regularly happens
+
+date: 2024-06-27, from: Ze Iaso's blog
+
+ 
+
+<https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-5535/>
+
+---
+
+## "No way to prevent this" say users of only language where this regularly happens
+
+date: 2024-06-27, from: Ze Iaso's blog
+
+ 
+
+<https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-28820/>
 
 ---
 

@@ -1,11 +1,799 @@
 ---
 title: weather 2024.26
-updated: 2024-06-27 08:57:51
+updated: 2024-06-27 17:05:33
 ---
 
 # weather 2024.26
 
-(date: 2024-06-27 08:57:51)
+(date: 2024-06-27 17:05:33)
+
+---
+
+## SPC MD 1454
+
+date: 2024-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1454.html"><img src="https://www.spc.noaa.gov/products/md/mcd1454.png" border="1" alt="MD 1454 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1454
+NWS Storm Prediction Center Norman OK
+0647 PM CDT Thu Jun 27 2024
+
+Areas affected...northeastern Wyoming into western South Dakota
+
+Concerning...Severe Thunderstorm Watch 475...
+
+Valid 272347Z - 280145Z
+
+The severe weather threat for Severe Thunderstorm Watch 475
+continues.
+
+SUMMARY...Risk for locally damaging gusts and isolated hail should
+gradually increase across northern portions of WW 475 over the next
+1 to 2 hours.
+
+DISCUSSION...Latest radar loop shows isolated strong storms east of
+the Black hills, and a separate/expanding cluster of storms moving
+eastward out of southeastern Montana and northeastern Wyoming into
+northern portions of WW 475.  
+
+With a moist/moderately unstable environment in the vicinity of the
+warm and cold fronts and the narrow warm sector in between, and
+veering flow with height providing ample shear for rotating storms,
+the overall environment remains supportive of large hail and
+damaging gusts with stronger storms.  As such, as the convection
+spreads eastward into western South Dakota, severe risk should
+gradually increase.
+
+..Goss.. 06/27/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...ABR...BIS...UNR...BYZ...
+
+LAT...LON   45130421 45960385 45940212 44190113 43460129 43350310
+            44060530 44850535 45130421 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1454.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/md/md1454.html>
+
+---
+
+## SPC MD 1453
+
+date: 2024-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1453.html"><img src="https://www.spc.noaa.gov/products/md/mcd1453.png" border="1" alt="MD 1453 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1453
+NWS Storm Prediction Center Norman OK
+0621 PM CDT Thu Jun 27 2024
+
+Areas affected...portions of central North Dakota into central South
+Dakota
+
+Concerning...Severe potential...Severe Thunderstorm Watch likely 
+
+Valid 272321Z - 280045Z
+
+Probability of Watch Issuance...95 percent
+
+SUMMARY...The severe threat is increasing across portions of central
+ND into central SD as strong to potentially severe storms approach
+from the west. Severe gusts are the main threat, though some
+instances of severe hail and perhaps a tornado also may occur. A
+Severe Thunderstorm Watch issuance will be needed within the hour.
+
+DISCUSSION...Multicells and discrete supercells are moving across
+western SD/ND and are approaching the eastern bounds of Severe
+Thunderstorm Watch 475 and Tornado Watch 476. Meanwhile, a mature
+MCS continues to rapidly propagate eastward into ND from MT, and is
+poised to reach central ND in the next few hours. As these storms
+merge and approach central SD/ND, severe gusts will become likely as
+the storms move into a strongly unstable airmass (characterized by
+up to 3500 J/kg MLCAPE per 23Z mesoanalysis). Furthermore, the
+strengthening of the southerly LLJ (to 40+ kts), beneath increasing
+westerly 500 mb flow with the ejection of a mid-level vort max, will
+support effective bulk shear values well over 50 kts. Regional VADs
+and short-term RUC forecasts show enlarged and curved low-level
+hodographs with modest mid-level elongation. As such, any storms
+that remain surface based as they move into the central Dakotas
+should be accompanied by a severe threat. The eastward moving MCS
+should produce at least some severe wind, which is expected to be
+the predominant severe hazard. However, embedded mesovortices may be
+accompanied by an isolated tornado threat.
+
+A Severe Thunderstorm Watch will be issued within the hour to
+address the impending severe threat.
+
+..Squitieri/Smith.. 06/27/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...FGF...ABR...BIS...UNR...
+
+LAT...LON   45990189 48440204 48960169 48660054 47669954 46719939
+            45259904 44219928 43919977 43950084 45990189 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1453.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/md/md1453.html>
+
+---
+
+## SPC MD 1452
+
+date: 2024-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1452.html"><img src="https://www.spc.noaa.gov/products/md/mcd1452.png" border="1" alt="MD 1452 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1452
+NWS Storm Prediction Center Norman OK
+0603 PM CDT Thu Jun 27 2024
+
+Areas affected...portions of southwestern North Dakota
+
+Concerning...Tornado Watch 476...
+
+Valid 272303Z - 280030Z
+
+The severe weather threat for Tornado Watch 476 continues.
+
+SUMMARY...The severe threat continues across Tornado Watch 476. A
+few tornadoes remain possible with discrete supercells, but the
+severe wind threat should increase as an MCS overtakes the
+supercells in the next few hours.
+
+DISCUSSION...Two discrete supercells continue across southwestern ND
+as a well-developed MCS (with a history of severe gusts) approaches
+from southeastern MT. 22Z mesoanalysis shows modestly
+curved/elongated hodographs preceding the supercells, along with
+200-300 m2/s2 effective SRH, supporting tornado potential. With
+time, the fast approaching MCS from the west will merge with the
+supercells. This may augment the severe wind threat, with 75-90 mph
+gusts possible. QLCS tornadoes will still be a concern as well.
+
+..Squitieri.. 06/27/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...BIS...
+
+LAT...LON   46530361 46820384 47190384 47490370 47420305 46890267
+            46530303 46530361 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1452.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/md/md1452.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 473 Status Reports
+
+date: 2024-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0473.html"><img src="https://www.spc.noaa.gov/products/watch/ww0473_radar.gif" border="1" alt="WW 0473 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 473
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 30 WNW GCC
+TO 25 SE 4BQ TO 10 NW BHK TO 20 NNE GDV TO 80 N OLF.
+
+..KARSTENS..06/27/24
+
+ATTN...WFO...BYZ...GGW...
+
+
+STATUS REPORT FOR WS 473 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+MTC011-019-021-025-083-085-091-109-280040-
+
+MT 
+.    MONTANA COUNTIES INCLUDED ARE
+
+CARTER               DANIELS             DAWSON              
+FALLON               RICHLAND            ROOSEVELT           
+SHERIDAN             WIBAUX              
+
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+REFER TO WATCH COUNTY NOTIFICATION STATEMENTS FOR OFFICIAL
+INFORMATION ON COUNTIES...INDEPENDENT CITIES AND MARINE ZONES
+CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0473.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0473.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 473
+
+date: 2024-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0473.html"><img src="https://www.spc.noaa.gov/products/watch/ww0473_radar.gif" border="1" alt="WW 0473 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Watch Number 473
+NWS Storm Prediction Center Norman OK
+100 PM MDT Thu Jun 27 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Severe Thunderstorm Watch for portions of 
+  Central and Eastern Montana
+  North Central Wyoming
+
+* Effective this Thursday afternoon and evening from 100 PM until
+  800 PM MDT.
+
+* Primary threats include...
+  Scattered damaging winds and isolated significant gusts to 75
+    mph likely
+  Scattered large hail and isolated very large hail events to 2.5
+    inches in diameter likely
+  A tornado or two possible
+
+SUMMARY...Thunderstorms are expected to intensify across central
+Montana this afternoon and spread eastward across the watch area. 
+Several severe storms are expected, with a risk of large hail and
+damaging winds.  A tornado or two is also possible - mainly in
+eastern Montana.
+
+The severe thunderstorm watch area is approximately along and 110
+statute miles north and south of a line from 45 miles north
+northwest of Billings MT to 35 miles east of Glendive MT. For a
+complete depiction of the watch see the associated watch outline
+update (WOUS64 KWNS WOU3).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Severe Thunderstorm Watch means conditions are
+favorable for severe thunderstorms in and close to the watch area.
+Persons in these areas should be on the lookout for threatening
+weather conditions and listen for later statements and possible
+warnings. Severe thunderstorms can and occasionally do produce
+tornadoes.
+
+&&
+
+AVIATION...A few severe thunderstorms with hail surface and aloft to
+2.5 inches. Extreme turbulence and surface wind gusts to 65 knots. A
+few cumulonimbi with maximum tops to 500. Mean storm motion vector
+26030.
+
+...Hart
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0473.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0473.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 474 Status Reports
+
+date: 2024-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0474.html"><img src="https://www.spc.noaa.gov/products/watch/ww0474_radar.gif" border="1" alt="WW 0474 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 474
+
+THE SEVERE WEATHER THREAT CONTINUES ACROSS THE ENTIRE WATCH AREA.
+
+..KARSTENS..06/27/24
+
+ATTN...WFO...GJT...SLC...
+
+
+STATUS REPORT FOR WS 474 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+COC029-033-045-077-081-083-085-091-103-107-113-280040-
+
+CO 
+.    COLORADO COUNTIES INCLUDED ARE
+
+DELTA                DOLORES             GARFIELD            
+MESA                 MOFFAT              MONTEZUMA           
+MONTROSE             OURAY               RIO BLANCO          
+ROUTT                SAN MIGUEL          
+
+
+UTC007-009-013-015-017-019-025-031-037-041-047-055-280040-
+
+UT 
+.    UTAH COUNTIES INCLUDED ARE
+
+CARBON               DAGGETT             DUCHESNE            
+EMERY                GARFIELD            GRAND               
+KANE                 PIUTE               SAN JUAN            
+SEVIER               UINTAH              WAYNE               
+
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+REFER TO WATCH COUNTY NOTIFICATION STATEMENTS FOR OFFICIAL
+INFORMATION ON COUNTIES...INDEPENDENT CITIES AND MARINE ZONES
+CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0474.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0474.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 474
+
+date: 2024-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0474.html"><img src="https://www.spc.noaa.gov/products/watch/ww0474_radar.gif" border="1" alt="WW 0474 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Watch Number 474
+NWS Storm Prediction Center Norman OK
+115 PM MDT Thu Jun 27 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Severe Thunderstorm Watch for portions of 
+  Western Colorado
+  Central and Eastern Utah
+
+* Effective this Thursday afternoon and evening from 115 PM until
+  900 PM MDT.
+
+* Primary threats include...
+  Scattered damaging wind gusts to 70 mph possible
+  Scattered large hail events to 1.5 inches in diameter possible
+
+SUMMARY...Thunderstorms are developing over the higher terrain of
+central Utah.  This activity will spread eastward through the
+afternoon and early evening, posing a risk of a few instances of
+large hail and damaging wind gusts.
+
+The severe thunderstorm watch area is approximately along and 95
+statute miles east and west of a line from 45 miles south southeast
+of Bullfrog Marina UT to 40 miles north northwest of Craig CO. For a
+complete depiction of the watch see the associated watch outline
+update (WOUS64 KWNS WOU4).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Severe Thunderstorm Watch means conditions are
+favorable for severe thunderstorms in and close to the watch area.
+Persons in these areas should be on the lookout for threatening
+weather conditions and listen for later statements and possible
+warnings. Severe thunderstorms can and occasionally do produce
+tornadoes.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 473...
+
+AVIATION...A few severe thunderstorms with hail surface and aloft to
+1.5 inches. Extreme turbulence and surface wind gusts to 60 knots. A
+few cumulonimbi with maximum tops to 500. Mean storm motion vector
+25025.
+
+...Hart
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0474.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0474.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 475
+
+date: 2024-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0475.html"><img src="https://www.spc.noaa.gov/products/watch/ww0475_radar.gif" border="1" alt="WW 0475 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Watch Number 475
+NWS Storm Prediction Center Norman OK
+240 PM MDT Thu Jun 27 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Severe Thunderstorm Watch for portions of 
+  Eastern Colorado
+  Northwest Kansas
+  Western Nebraska
+  Western South Dakota
+  Northeast Wyoming
+
+* Effective this Thursday afternoon and evening from 240 PM until
+  900 PM MDT.
+
+* Primary threats include...
+  Scattered damaging winds and isolated significant gusts to 75
+    mph likely
+  Scattered large hail and isolated very large hail events to 3
+    inches in diameter likely
+  A tornado or two possible
+
+SUMMARY...Cluster of strong to severe thunderstorms are expected to
+track across the watch area this afternoon and evening.  A few
+supercells capable of very large hail, damaging winds, and a tornado
+or two are possible.
+
+The severe thunderstorm watch area is approximately along and 60
+statute miles east and west of a line from 35 miles northeast of
+Buffalo SD to 45 miles south of Goodland KS. For a complete
+depiction of the watch see the associated watch outline update
+(WOUS64 KWNS WOU5).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Severe Thunderstorm Watch means conditions are
+favorable for severe thunderstorms in and close to the watch area.
+Persons in these areas should be on the lookout for threatening
+weather conditions and listen for later statements and possible
+warnings. Severe thunderstorms can and occasionally do produce
+tornadoes.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 473...WW 474...
+
+AVIATION...A few severe thunderstorms with hail surface and aloft to
+3 inches. Extreme turbulence and surface wind gusts to 65 knots. A
+few cumulonimbi with maximum tops to 500. Mean storm motion vector
+27025.
+
+...Hart
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0475.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0475.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 475 Status Reports
+
+date: 2024-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0475.html"><img src="https://www.spc.noaa.gov/products/watch/ww0475_radar.gif" border="1" alt="WW 0475 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 475
+
+THE SEVERE WEATHER THREAT CONTINUES ACROSS THE ENTIRE WATCH AREA.
+
+FOR ADDITIONAL INFORMATION SEE MESOSCALE DISCUSSION 1454
+
+..KARSTENS..06/27/24
+
+ATTN...WFO...GLD...BOU...LBF...CYS...UNR...
+
+
+STATUS REPORT FOR WS 475 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+COC017-063-075-095-115-125-280040-
+
+CO 
+.    COLORADO COUNTIES INCLUDED ARE
+
+CHEYENNE             KIT CARSON          LOGAN               
+PHILLIPS             SEDGWICK            YUMA                
+
+
+KSC023-039-063-065-071-109-137-153-179-181-193-199-203-280040-
+
+KS 
+.    KANSAS COUNTIES INCLUDED ARE
+
+CHEYENNE             DECATUR             GOVE                
+GRAHAM               GREELEY             LOGAN               
+NORTON               RAWLINS             SHERIDAN            
+SHERMAN              THOMAS              WALLACE             
+WICHITA              
+
+
+NEC005-013-029-031-033-045-049-057-063-069-075-085-087-091-101-
+111-113-117-123-135-145-161-171-280040-
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0475.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0475.html>
+
+---
+
+## SPC Tornado Watch 476 Status Reports
+
+date: 2024-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0476.html"><img src="https://www.spc.noaa.gov/products/watch/ww0476_radar.gif" border="1" alt="WW 0476 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 476
+
+THE SEVERE WEATHER THREAT CONTINUES ACROSS THE ENTIRE WATCH AREA.
+
+FOR ADDITIONAL INFORMATION SEE MESOSCALE DISCUSSION 1452
+
+..KARSTENS..06/27/24
+
+ATTN...WFO...BIS...
+
+
+STATUS REPORT FOR WT 476 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+NDC001-007-011-025-033-041-053-087-089-105-280040-
+
+ND 
+.    NORTH DAKOTA COUNTIES INCLUDED ARE
+
+ADAMS                BILLINGS            BOWMAN              
+DUNN                 GOLDEN VALLEY       HETTINGER           
+MCKENZIE             SLOPE               STARK               
+WILLIAMS             
+
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+REFER TO WATCH COUNTY NOTIFICATION STATEMENTS FOR OFFICIAL
+INFORMATION ON COUNTIES...INDEPENDENT CITIES AND MARINE ZONES
+CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0476.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0476.html>
+
+---
+
+## SPC Tornado Watch 476
+
+date: 2024-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0476.html"><img src="https://www.spc.noaa.gov/products/watch/ww0476_radar.gif" border="1" alt="WW 0476 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 476
+NWS Storm Prediction Center Norman OK
+345 PM MDT Thu Jun 27 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  Western North Dakota
+
+* Effective this Thursday afternoon and evening from 345 PM until
+  900 PM MDT.
+
+* Primary threats include...
+  A couple tornadoes possible
+  Widespread damaging winds and isolated significant gusts to 80
+    mph likely
+  Scattered large hail and isolated very large hail events to 3
+    inches in diameter likely
+
+SUMMARY...Isolated supercells will possibly develop late this
+afternoon into the evening across western North Dakota.  In addition
+to the threat for a couple of tornadoes, a risk for large to very
+large hail (diameters 1 to 3 inches) and severe gusts will also
+accompany any discrete supercells.  A band of severe thunderstorms
+is forecast to move west to east across the Watch area later this
+evening.  A risk for a tornado may exist with any supercell embedded
+within the broken band.  Severe gusts (60-80 mph) will be likely
+with the more intense portions of the band of storms.
+
+The tornado watch area is approximately along and 45 statute miles
+east and west of a line from 55 miles north northeast of Williston
+ND to 60 miles south southwest of Dickinson ND. For a complete
+depiction of the watch see the associated watch outline update
+(WOUS64 KWNS WOU6).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 473...WW 474...WW 475...
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 3 inches. Extreme turbulence and surface wind
+gusts to 70 knots. A few cumulonimbi with maximum tops to 500. Mean
+storm motion vector 26030.
+
+...Smith
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0476.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0476.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 477 Status Reports
+
+date: 2024-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0477.html"><img src="https://www.spc.noaa.gov/products/watch/ww0477_radar.gif" border="1" alt="WW 0477 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS FOR WATCH 0477 HAS NOT BEEN ISSUED YET
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0477.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0477.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 477
+
+date: 2024-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0477.html"><img src="https://www.spc.noaa.gov/products/watch/ww0477_radar.gif" border="1" alt="WW 0477 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Watch Number 477
+NWS Storm Prediction Center Norman OK
+515 PM CDT Thu Jun 27 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Severe Thunderstorm Watch for portions of 
+  West and Southwest Kansas
+  Far Northwest Oklahoma and the Panhandle
+  Northern Texas Panhandle
+
+* Effective this Thursday afternoon from 515 PM until Midnight
+  CDT.
+
+* Primary threats include...
+  Scattered damaging wind gusts to 70 mph possible
+  Isolated very large hail events to 2 inches in diameter possible
+
+SUMMARY...Scattered thunderstorms are forecast to continue to
+develop this evening over western parts of the Watch area, and move
+east into a more moist airmass as a low-level jet intensifies.  The
+stronger storms will be capable of a risk for severe gusts (60-70
+mph) and perhaps large hail with the stronger thunderstorm cores.
+
+The severe thunderstorm watch area is approximately along and 80
+statute miles east and west of a line from 60 miles north northeast
+of Garden City KS to 40 miles south of Guymon OK. For a complete
+depiction of the watch see the associated watch outline update
+(WOUS64 KWNS WOU7).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Severe Thunderstorm Watch means conditions are
+favorable for severe thunderstorms in and close to the watch area.
+Persons in these areas should be on the lookout for threatening
+weather conditions and listen for later statements and possible
+warnings. Severe thunderstorms can and occasionally do produce
+tornadoes.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 473...WW 474...WW
+475...WW 476...
+
+AVIATION...A few severe thunderstorms with hail surface and aloft to
+2 inches. Extreme turbulence and surface wind gusts to 60 knots. A
+few cumulonimbi with maximum tops to 500. Mean storm motion vector
+26025.
+
+...Smith
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0477.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0477.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 478 Status Reports
+
+date: 2024-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0478.html"><img src="https://www.spc.noaa.gov/products/watch/ww0478_radar.gif" border="1" alt="WW 0478 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS FOR WATCH 0478 HAS NOT BEEN ISSUED YET
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0478.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0478.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 478
+
+date: 2024-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0478.html"><img src="https://www.spc.noaa.gov/products/watch/ww0478_radar.gif" border="1" alt="WW 0478 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Watch Number 478
+NWS Storm Prediction Center Norman OK
+700 PM CDT Thu Jun 27 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Severe Thunderstorm Watch for portions of 
+  Central North Dakota
+  Central South Dakota
+
+* Effective this Thursday night and Friday morning from 700 PM
+  until 200 AM CDT.
+
+* Primary threats include...
+  Scattered damaging winds and isolated significant gusts to 80
+    mph likely
+  Scattered large hail and isolated very large hail events to 2
+    inches in diameter possible
+
+SUMMARY...A severe squall line will likely move east across much of
+central North Dakota into north-central and central parts of South
+Dakota later this evening into tonight.  Scattered severe gusts
+primarily in the 60-80 mph range are the main severe hazard.
+
+The severe thunderstorm watch area is approximately along and 65
+statute miles east and west of a line from 20 miles north northwest
+of Minot ND to 45 miles south southeast of Pierre SD. For a complete
+depiction of the watch see the associated watch outline update
+(WOUS64 KWNS WOU8).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Severe Thunderstorm Watch means conditions are
+favorable for severe thunderstorms in and close to the watch area.
+Persons in these areas should be on the lookout for threatening
+weather conditions and listen for later statements and possible
+warnings. Severe thunderstorms can and occasionally do produce
+tornadoes.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 473...WW 474...WW
+475...WW 476...WW 477...
+
+AVIATION...A few severe thunderstorms with hail surface and aloft to
+2 inches. Extreme turbulence and surface wind gusts to 70 knots. A
+few cumulonimbi with maximum tops to 500. Mean storm motion vector
+26045.
+
+...Smith
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0478.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0478.html>
 
 ---
 
@@ -13,9 +801,256 @@ updated: 2024-06-27 08:57:51
 
 date: 2024-06-27, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Thu, 27 Jun 2024 15:36:25 GMT 
+No tropical cyclones as of Thu, 27 Jun 2024 23:41:59 GMT 
 
 <https://www.nhc.noaa.gov/gis/>
+
+---
+
+## Central North Pacific Tropical Weather Outlook
+
+date: 2024-06-27, from: Central Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ACPN50 PHFO 272341<br/>
+TWOCP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS Central Pacific Hurricane Center Honolulu HI<br/>
+200 PM HST Thu Jun 27 2024<br/>
+<br/>
+For the central North Pacific...between 140W and 180W:<br/>
+<br/>
+No tropical cyclones are expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Bedal/Stall<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-06-27, from: Central Pacific Basin Tropical Cyclones
+
+No tropical cyclones as of Thu, 27 Jun 2024 23:41:59 GMT 
+
+<https://www.nhc.noaa.gov/>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-06-27, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 PM EDT Thu Jun 27 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Western Caribbean/Southwestern Gulf of Mexico (AL94):<br>A broad area of low pressure over the western Caribbean Sea is <br>producing widespread but disorganized shower and thunderstorm <br>activity while it moves west-northwestward at around 15 mph.  Some <br>development of this system is possible over the northwestern <br>Caribbean Sea or over the southwestern Gulf of Mexico during the <br>next few days.<br>* Formation chance through 48 hours...low...20 percent.<br>* Formation chance through 7 days...low...30 percent.<br><br />
+2. Eastern Tropical Atlantic (AL95):<br>A tropical wave located several hundred miles west-southwest of the <br>Cabo Verde Islands continues to produce showers and thunderstorms. <br>This activity is beginning to show signs of organization, and <br>environmental conditions are forecast to remain conducive. Thus, <br>further development of this system is anticipated, and a tropical <br>depression or tropical storm is likely to form over the next couple <br>of days while the system moves westward at 15 to 20 mph towards the <br>Windward Islands.  Interests in the Lesser Antilles should monitor <br>the progress of this system.<br>* Formation chance through 48 hours...high...70 percent.<br>* Formation chance through 7 days...high...90 percent.<br><br />
+<br>Forecaster Kelly<br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2024-06-27, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ABPZ20 KNHC 272314<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+500 PM PDT Thu Jun 27 2024<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Tropical cyclone formation is not expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Papin<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## SPC Jun 27, 2024 2000 UTC Day 1 Convective Outlook
+
+date: 2024-06-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0233 PM CDT Thu Jun 27 2024
+
+Valid 272000Z - 281200Z
+
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS
+OF THE NORTHERN AND CENTRAL PLAINS...
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS OF
+UTAH AND WESTERN COLORADO...
+
+...SUMMARY...
+The greatest severe-thunderstorm threat is over parts of the
+northern/central High Plains this afternoon and evening, where very
+large hail, significant damaging winds, and a few tornadoes are
+possible.
+
+...Eastern Carolinas/GA...
+
+The Marginal (level 1 of 5) risk has been trimmed from central GA
+and portions of the Carolinas based on latest observations/ongoing
+convection and the location of the surface trough. Sporadic strong
+gusts remain possible into early evening.
+
+...Northern/Central Plains...
+
+The Marginal (level 1 of 5) risk has been trimmed across parts of
+southwest/west-central MT based on the current location of the upper
+trough and convection developing over the higher terrain shifting
+eastward. Meanwhile, the Enhanced (level 3 of 5) risk has been
+trimmed across a small part of northern ND. Persistent cloud cover
+has limited heating/destabilization across this area, and surface
+dewpoints are lower, in the upper 50s to near 60 F.  Current cloud
+cover is not expected to lift north/east very quickly. A
+differential heating boundary across western ND will likely serve as
+an effective warm front, with convection moving east of this
+boundary during the evening gradually weakening with time across
+central ND. 
+
+Otherwise, overall forecast philosophy remains unchanged from the
+previous outlook, and no changes have been made to the outlook
+across the central/southern Plains vicinity. See prior discussion
+below, or reference MCD 1445 and severe thunderstorm watch 473 for
+more information.
+
+...Eastern Great Basin...
+
+No changes have been made to the outlook across this region. See
+previous discussion below, or reference MCD 1446 and severe
+thunderstorm watch 474 for more information.
+
+..Leitman.. 06/27/2024
+
+.PREV DISCUSSION... /ISSUED 1112 AM CDT Thu Jun 27 2024/
+
+...Western MT into Eastern Great Basin...
+Morning water vapor loop shows an impressive shortwave trough
+rotating across the northwest states.  This feature will result in
+strengthening winds aloft across much of the Great Basin and
+northern Rockies today, along with increasing large scale forcing
+for ascent.  This will lead to scattered thunderstorms over the
+higher terrain of western MT into parts of WY/CO/UT by early
+afternoon.  Forecast soundings show sufficient westerly flow/shear
+through the cloud-bearing layer to support organized and
+occasionally supercell storms capable of hail and damaging wind
+gusts.
+
+...Eastern MT into the Dakotas...
+As convection spreads off the higher terrain into eastern MT, storms
+will encounter greater low level moisture/shear, further promoting
+supercell structures and the risk of very large hail and perhaps a
+few tornadoes.  These storms will progress eastward through the
+afternoon/evening into the Dakotas, where upscale growth into bowing
+structures is anticipated - capable of significant damaging winds.
+
+...Central Plains...
+Farther south, forcing will be weaker and convective coverage should
+be less.  However, convection will intensify as outflows from the
+High Plains spread eastward into the moist axis, with a combination
+of bowing and supercell storms expected.  Damaging winds are
+probably the main risk, but substantial low level and deep layer
+shear could support large hail and a tornado or two in this region
+as well.
+
+...Carolinas/GA...
+A very moist and unstable air mass is present today from
+central/eastern NC southwestward into eastern GA.  Scattered mid and
+high clouds will somewhat mitigate afternoon heating.  But a few
+strong/severe storms are expected, with water-loaded downdrafts
+capable of locally damaging wind gusts.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2024-06-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0231 PM CDT Thu Jun 27 2024
+
+Valid 291200Z - 051200Z
+
+Confidence in widespread critical fire weather conditions remains
+limited through the extended period, though some fire weather
+concerns are anticipated over the upcoming weekend across the Great
+Basin as an upper trough (recently noted over the northeast Pacific
+in water-vapor imagery) approaches the West Coast. Heading into next
+week, upper-level ridging is anticipated over the West, which may
+lead to a period of relatively weak winds, but warm/dry conditions
+favorable for curing fuels. Elsewhere across the CONUS, recent
+rainfall and/or precipitation chances should limit critical fire
+weather potential. 
+
+...D3/Saturday and D4/Sunday - Great Basin...
+Surface pressure falls are anticipated across central NV on D3/Sat
+afternoon ahead of the approaching upper trough. Increasing
+southerly flow emanating out of the Mojave desert should advect dry
+air northward into eastern NV into western UT and support areas of
+dry/windy conditions. Ensemble guidance continues to show only a
+modest signal for critical fire weather conditions, but most
+solutions suggest winds approaching 15 mph are likely with RH in the
+teens. This dry air mass will continue to spread northeast into
+northern UT and southwest WY by D4/Sun afternoon. A consolidating
+cyclone in the northern High Plains should bolster gradient winds
+across eastern NV into UT and WY ahead of an approaching cold front.
+The anticipation of a deepening cyclone, combined with at least one
+preceding day of warm/dry weather, lends higher confidence in the
+potential for critical fire weather conditions for Sunday afternoon.
+However, much of the risk area has recently received rainfall and/or
+may see rainfall over the next 24 hours. As such, fuel dryness may
+be modulated to some degree. This concern precludes higher risk
+probabilities, but rainfall and fuel trends will continue to be
+monitored. 
+
+Beyond D4/Sunday, elevated fire weather conditions may emerge each
+day across the northern Great Basin as a zonal flow regime becomes
+established. However, confidence in critical conditions is too
+limited for additional risk probabilities.
+
+..Moore.. 06/27/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/exper/fire_wx/>
 
 ---
 
@@ -36,32 +1071,6 @@ date: 2024-06-27, from: NOAA tornado/severe thunderstorm watches, mesoscale disc
 No Mesoscale Discussions are in effect as of Thu Jun 27 14:04:01 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/md/>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2024-06-27, from: Eastern Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ABPZ20 KNHC 271310<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-500 AM PDT Thu Jun 27 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Tropical cyclone formation is not expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Roberts<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 
@@ -207,26 +1216,6 @@ strong/locally severe downdrafts.
 
 ---
 
-## NHC Atlantic Outlook
-
-date: 2024-06-27, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Thu Jun 27 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Western Caribbean/Southwestern Gulf of Mexico (AL94):<br>A tropical wave over the western Caribbean Sea is producing <br>widespread but disorganized shower and thunderstorm activity while <br>it moves westward at around 20 mph.  Some development of <br>this system is possible over the northwestern Caribbean Sea or <br>over the southwestern Gulf of Mexico during the next several days.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...30 percent.<br><br />
-2. Eastern Tropical Atlantic (AL95):<br>A tropical wave located several hundred miles west-southwest of the <br>Cabo Verde Islands continues to produce disorganized shower and <br>thunderstorm activity.  Environmental conditions are forecast to be <br>conducive, and development of this system is anticipated.  A <br>tropical depression or tropical storm is likely to form this weekend <br>several hundred miles east of the Windward Islands while the system <br>moves westward at 15 to 20 mph.  <br>* Formation chance through 48 hours...medium...40 percent.<br>* Formation chance through 7 days...high...70 percent.<br><br />
-<br>Forecaster Pasch<br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
 ## SPC Day 2 Fire Weather Outlook
 
 date: 2024-06-27, from: NOAA Weather Forecasts
@@ -270,42 +1259,6 @@ could be added for southeastern Wyoming.
  
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2024-06-27, from: Central Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ACPN50 PHFO 270503<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-800 PM HST Wed Jun 26 2024<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Jelsema<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-06-27, from: Central Pacific Basin Tropical Cyclones
-
-No tropical cyclones as of Thu, 27 Jun 2024 15:36:25 GMT 
-
-<https://www.nhc.noaa.gov/>
 
 ---
 
@@ -905,72 +1858,6 @@ few cumulonimbi with maximum tops to 600. Mean storm motion vector
 
 ---
 
-## SPC Day 3-8 Fire Weather Outlook
-
-date: 2024-06-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3-8 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0348 PM CDT Mon Jun 24 2024
-
-Valid 261200Z - 021200Z
-
-Confidence in critical fire weather conditions remains limited
-through the second half of the work week and into the upcoming
-weekend. However, at least low-end fire concerns are expected to
-persist across parts of the Great Basin. 
-
-...D3/Wednesday to D4/Thursday - northern Great Basin...
-Recent GOES water-vapor imagery reveals a upper low over the
-northern Pacific that is gradually approaching the Pacific
-Northwest. Concurrently, mid-level moisture is slowly streaming
-northward through central/southern CA. A combination of increasing
-moisture and ascent ahead of the wave should promote isolated to
-scattered showers and thunderstorms across the Pacific Northwest and
-parts of the Great Basin beginning early D3/Wed. Increasing
-low-level winds within the dry slot of the maturing low will promote
-dry/windy conditions in the lee of the northern Sierra Nevada.
-Recent ensemble guidance continues to show a signal for elevated to
-critical fire weather conditions across northwest NV and adjacent
-portions of OR; however, the extent of the fire weather threat may
-be conditional on morning rainfall amounts and sufficient clearing
-in the wake of morning showers/thunderstorms. 
-
-The mid-level jet max is forecast to pass over the northern Great
-Basin/northern Rockies around peak heating on D4/Thur. The westerly
-downslope flow regime across much of NV and southern ID should
-continue to promote dry conditions, especially across areas that
-receive little rainfall in the preceding 24 hours. Ensemble
-solutions show a strong signal for 15+ mph winds, and drier
-solutions - notably the deterministic GFS as well as a few GEFS
-members - suggest winds may reach 20-30 mph as strong mid-level flow
-mixes to the surface. Consequently, elevated to critical fire
-weather conditions appear possible. 
-
-...D6/Saturday to D7/Sunday - Great Basin...
-Long-range ensembles and cluster analyses continue to suggest that a
-second, perhaps more amplified, upper wave will approach the Pacific
-Northwest/northern Great Basin during the D6/Sat to D7/Sun period.
-While spread in guidance is noted (and expected at this range), the
-overall synoptic regime implies increasing rain chances for the
-Pacific Northwest with fire weather potential across central NV into
-UT where drier/windier conditions are probable. Trends in this
-system will be monitored for potential fire concerns heading into
-the upcoming weekend.
-
-..Moore.. 06/24/2024
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/exper/fire_wx/>
-
----
-
 ## SPC Severe Thunderstorm Watch 451 Status Reports
 
 date: 2024-06-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -1082,99 +1969,6 @@ few cumulonimbi with maximum tops to 500. Mean storm motion vector
  
 
 <https://www.spc.noaa.gov/products/watch/ww0451.html>
-
----
-
-## SPC Jun 24, 2024 2000 UTC Day 1 Convective Outlook
-
-date: 2024-06-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0300 PM CDT Mon Jun 24 2024
-
-Valid 242000Z - 251200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS IN THE UPPER MS
-VALLEY ACROSS SOUTH WI...
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS SEPARATELY IN EAST
-NC...
-
-...SUMMARY...
-Scattered severe thunderstorms are expected over parts of the Upper
-Midwest late this afternoon into tonight. A corridor of potentially
-widespread destructive wind gusts could develop over parts of
-Minnesota into Wisconsin.
-
-...20Z Update...
-Overall forecast scenario remains valid with potential for an
-intense, bowing MCS this evening into tonight. With continued
-spatiotemporal differences among recent guidance for initial
-supercell development, confidence is below-average for further
-increases in severe probabilities along the north-northwest to
-south-southeast oriented MLCAPE gradient over the Upper MS Valley. 
-In addition, the likely orientation of the MCS with respect to the
-instability gradient suggest the significant severe wind threat may
-be relatively confined owing to abundant warm-moist sector MLCIN to
-the west and diminishing instability to the east. The corridor
-previously highlighted, that is centered on a portion of the Upper
-MS Valley into south WI, remains the most probable zone for
-potentially destructive wind gusts.
-
-..Grams.. 06/24/2024
-
-.PREV DISCUSSION... /ISSUED 1131 AM CDT Mon Jun 24 2024/
-
-...Upper Midwest...
-A weakening MCS continues to track eastward across central MN,
-associated with a shortwave trough over southern Canada.  Extreme
-instability will develop along the southern fringe of this MCS and
-accompanying cloud shield, with hot/humid conditions leading to
-MLCAPE values over 4500 J/kg by late afternoon across southwest MN. 
-Very warm temperatures aloft will likely suppress convective
-development in this volatile air mass, but strengthening
-southwesterly low-level winds by early evening will enhance warm
-advection and likely lead to thunderstorms over central MN.  Initial
-storms will be supercellular, with forecast soundings showing ample
-low level and deep-layer shear to support a risk of very large hail,
-damaging winds, and a few tornadoes.  
-
-As the evening progresses, most morning CAM solutions indicate that
-the cluster of supercells will grow upscale into a fast moving
-bowing MCS.  However, there is considerable diversity regarding the
-track of the most intense storms.  Given the very warm temperatures
-aloft, it seems likely the storms will track southeastward along the
-thermal gradient - across central/southern WI and into northern IL. 
-The potential exists for a corridor of widespread and occasionally
-significant (exceeding 65 kt) wind damage, so have upgraded to ENH. 
-The low-level air mass will become increasingly less unstable as the
-storms move across Lake Michigan and into northern IN by early Tue
-morning, suggesting a weakening trend.
-
-...Central High Plains...
-Scattered high-based showers and thunderstorms are expected to
-develop over the central Rockies and Black Hills today and spread
-eastward into parts of SD/NE/KS.  Hot surface temperatures and
-inverted-v profiles will support a risk of gusty/damaging winds with
-this activity for a few hours early this evening.
-
-...Eastern NC/SC...
-A surface front is sagging southeastward across NC today, with a
-very moist and moderately unstable air mass in place ahead of the
-front.  Thunderstorms are expected to form in this environment, with
-sufficient westerly flow aloft to help organize the storms and
-promote a risk of damaging wind gusts.  Given the amount of heating
-that is occurring in eastern NC, and morning guidance showing
-substantial coverage of storms, have added a SLGT risk for parts of
-this area.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
 
 ---
 

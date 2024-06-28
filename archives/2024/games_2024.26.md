@@ -1,11 +1,111 @@
 ---
 title: games 2024.26
-updated: 2024-06-27 08:57:51
+updated: 2024-06-27 17:05:33
 ---
 
 # games 2024.26
 
-(date: 2024-06-27 08:57:51)
+(date: 2024-06-27 17:05:33)
+
+---
+
+## Needle Knight Leda questline walkthrough for Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-27, updated: 2024-06-27, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24187208/needle-knight-leda-questline-steps-sote-dlc>
+
+---
+
+## Thiollier and St. Trina questline walkthrough for Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-27, updated: 2024-06-27, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24187195/thiollier-st-trina-questline-steps-imbibe-nectar-sote-dlc>
+
+---
+
+## Elden Ring Shadow of the Erdtree walkthrough route for the main story
+
+date: 2024-06-27, updated: 2024-06-27, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24182737/walkthrough-where-to-go-after-critical-path-main-story-sote>
+
+---
+
+## New DLC boss locations in Elden Ring Shadow of the Erdtree
+
+date: 2024-06-27, updated: 2024-06-27, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order>
+
+---
+
+## New DLC weapon locations in Elden Ring Shadow of the Erdtree
+
+date: 2024-06-27, updated: 2024-06-27, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180256/all-new-dlc-weapon-locations>
+
+---
+
+## Here are the hottest game deals you won’t want to miss during the Steam Summer Sale
+
+date: 2024-06-27, updated: 2024-06-27, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24187276/best-game-deals-steam-summer-sale-2024>
+
+---
+
+## How to use the Prayer Room Key in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-27, updated: 2024-06-27, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24187369/prayer-room-key-how-to-use-where-to-find-dlc-sote>
+
+---
+
+## Fire Knight Queelign questline walkthrough and steps in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-27, updated: 2024-06-27, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24187337/fire-knight-queelign-questline-steps-locations-dlc-sote>
+
+---
+
+## All Iris of Grace and Iris of Occultation locations in Elden Ring Shadow of the Erdtree
+
+date: 2024-06-27, updated: 2024-06-27, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24185215/iris-of-grace-occultation-locations-how-to-get-choice>
+
+---
+
+## A Quiet Place: Day One lives up to the first movie by doing something radically different
+
+date: 2024-06-27, updated: 2024-06-27, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24187509/quiet-place-day-one-review-prequel>
 
 ---
 
@@ -116,16 +216,6 @@ date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
  
 
 <https://www.polygon.com/24183313/how-to-get-into-horror-movies-joe-dante-gremlins>
-
----
-
-## Elden Ring Shadow of the Erdtree walkthrough route for the main story
-
-date: 2024-06-26, updated: 2024-06-26, from: Polygon Website
-
- 
-
-<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24182737/walkthrough-where-to-go-after-critical-path-main-story-sote>
 
 ---
 

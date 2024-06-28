@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.26
-updated: 2024-06-27 08:57:53
+updated: 2024-06-27 17:05:35
 ---
 
 # retro computing 2024.26
 
-(date: 2024-06-27 08:57:53)
+(date: 2024-06-27 17:05:35)
+
+---
+
+## b.log 2024/06/27 - Two days of epic thunderstorms, I got scammed, YouTube comments, Fibre, Take a bet on it.
+
+date: 2024-06-27, from: Richard Murray's blog
+
+Two days of epic thunderstorms, I got scammed, YouTube comments, Fibre, Take a bet on it. 
+
+<https://heyrick.eu/blog/index.php?diary=20240627>
 
 ---
 
@@ -13,7 +23,7 @@ updated: 2024-06-27 08:57:53
 
 date: 2024-06-27, from: Paola Zaino's blog
 
-📣 I am excited to announce the new alpha release 0.9.4 of theCROWler (my Content Discovery and Security development platform) GoLang Port available for Testing! This release introduces several new features and improvements: &#8211; [New] Detection Rules Support for Plugins: Now you can access the full DOM and live, allowing your plugins to capture malware [&#8230;] 
+📣 I am excited to announce the new alpha release 0.9.4 of theCROWler (my Content Discovery and Security development platform) GoLang Port available for Testing! Summary of the improvements This release introduces several new features and improvements: &#8211; [New] Detection Rules Support for Plugins: Now you can access the full DOM and live, allowing your [&#8230;] 
 
 <https://paolozaino.wordpress.com/2024/06/27/new-alpha-release-v0-9-4-for-the-crowler-golang-port/>
 

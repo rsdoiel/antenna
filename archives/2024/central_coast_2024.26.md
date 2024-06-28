@@ -1,11 +1,135 @@
 ---
 title: central coast 2024.26
-updated: 2024-06-27 08:57:49
+updated: 2024-06-27 17:05:31
 ---
 
 # central coast 2024.26
 
-(date: 2024-06-27 08:57:49)
+(date: 2024-06-27 17:05:31)
+
+---
+
+## Westmont Hires Paul Svagdis as Head Baseball Coach
+
+date: 2024-06-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/westmont-baseball-new-coach.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/westmont-baseball-new-coach.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/westmont-baseball-new-coach.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/westmont-baseball-new-coach.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/westmont-baseball-new-coach.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/westmont-baseball-new-coach.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/westmont-baseball-new-coach.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/westmont-baseball-new-coach.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/westmont-baseball-new-coach.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/westmont-baseball-new-coach.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/westmont-baseball-new-coach.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Robert Ruiz, Westmont&#8217;s director of athletics, has announced the naming of Paul Svagdis to serve as head coach of the Warriors&#8217; baseball program. &#8220;I am thrilled to welcome Paul and [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/westmont-hires-paul-svagdis-as-head-baseball-coach/">Westmont Hires Paul Svagdis as Head Baseball Coach</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/westmont-hires-paul-svagdis-as-head-baseball-coach/>
+
+---
+
+## SpaceX Launch of Spy Satellites to Prompt Jalama Beach Evacuation
+
+date: 2024-06-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A second set of spy satellites will ride a Falcon 9 rocket into orbit as soon as Friday night from Vandenberg Space Force Base, prompting the closure of Jalama Beach [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/spacex-launch-of-spy-satellites-to-prompt-jalama-beach-evacuation/">SpaceX Launch of Spy Satellites to Prompt Jalama Beach Evacuation</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/spacex-launch-of-spy-satellites-to-prompt-jalama-beach-evacuation/>
+
+---
+
+## Continued Highway 154 Closure Frustrates Local Residents, Businesses
+
+date: 2024-06-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062724-Highway-154-closure-signs-1-RC.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A section of Highway 154 remains closed as Caltrans crews try to stabilize the roadway after discovering tension cracks." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062724-Highway-154-closure-signs-1-RC.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062724-Highway-154-closure-signs-1-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062724-Highway-154-closure-signs-1-RC.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062724-Highway-154-closure-signs-1-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062724-Highway-154-closure-signs-1-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062724-Highway-154-closure-signs-1-RC.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062724-Highway-154-closure-signs-1-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062724-Highway-154-closure-signs-1-RC.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062724-Highway-154-closure-signs-1-RC.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062724-Highway-154-closure-signs-1-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062724-Highway-154-closure-signs-1-RC.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062724-Highway-154-closure-signs-1-RC.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Highway 154 in Santa Barbara has been partially closed for over a week, with no word on when Caltrans might reopen it. The closure has increased traffic on Highway 101 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/continued-highway-154-closure-frustrates-local-residents-businesses/">Continued Highway 154 Closure Frustrates Local Residents, Businesses</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/continued-highway-154-closure-frustrates-local-residents-businesses/>
+
+---
+
+## Captain’s Log: Perceptions and Perspectives Change From Horseback
+
+date: 2024-06-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Salt spray flew high as the horses galloped along the beach in shallow water. Teenage girls on horseback grinned ear-to-ear as their hair blew back and water splashed their faces. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/captains-log-perceptions-and-perspectives-change-from-horseback/">Captain’s Log: Perceptions and Perspectives Change From Horseback</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/captains-log-perceptions-and-perspectives-change-from-horseback/>
+
+---
+
+## UCSB’s Ajay Mitchell Selected 38th Overall by Oklahoma City Thunder in 2024 NBA Draft
+
+date: 2024-06-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/ajay-mitchell-draft-cover.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/ajay-mitchell-draft-cover.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/ajay-mitchell-draft-cover.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/ajay-mitchell-draft-cover.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/ajay-mitchell-draft-cover.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/ajay-mitchell-draft-cover.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/ajay-mitchell-draft-cover.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/ajay-mitchell-draft-cover.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/ajay-mitchell-draft-cover.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/ajay-mitchell-draft-cover.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/ajay-mitchell-draft-cover.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Former UCSB Men’s Basketball star Ajay Mitchell was drafted No. 38 overall by the Oklahoma City Thunder in the 2nd Round of the 2024 NBA Draft on Thursday, June 27. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsbs-ajay-mitchell-selected-38th-overall-by-oklahoma-city-thunder-in-2024-nba-draft/">UCSB&#8217;s Ajay Mitchell Selected 38th Overall by Oklahoma City Thunder in 2024 NBA Draft</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsbs-ajay-mitchell-selected-38th-overall-by-oklahoma-city-thunder-in-2024-nba-draft/>
+
+---
+
+## Goleta Valley South LL 10U All-Stars Rout Fillmore LL in District 63 Tournament
+
+date: 2024-06-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/gvsll-10-u-627.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/gvsll-10-u-627.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/gvsll-10-u-627.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/gvsll-10-u-627.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/gvsll-10-u-627.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/gvsll-10-u-627.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/gvsll-10-u-627.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/gvsll-10-u-627.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/gvsll-10-u-627.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/gvsll-10-u-627.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/gvsll-10-u-627.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Goleta Valley South LL 10U All-Stars dominated every aspect of the game en route to a victory over Fillmore LL in the District 63 Tournament on Wednesday. The game [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-valley-south-ll-10u-all-stars-rout-fillmore-ll-in-district-63-tournament/">Goleta Valley South LL 10U All-Stars Rout Fillmore LL in District 63 Tournament</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goleta-valley-south-ll-10u-all-stars-rout-fillmore-ll-in-district-63-tournament/>
+
+---
+
+## D.C. Collier: The Peril of Misplaced Faith
+
+date: 2024-06-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A river of tears is flowing at Gateway Church in Southlake, Texas, these days as another megachurch pastor goes down in flames from moral failure — big time. Congregants, leaders, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/d-c-collier-the-peril-of-misplaced-faith/">D.C. Collier: The Peril of Misplaced Faith</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/d-c-collier-the-peril-of-misplaced-faith/>
+
+---
+
+## Musician Jill Felber Joins Performing Arts Scholarship Foundation Board
+
+date: 2024-06-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Jill Felber, an internationally acclaimed recording artist and a music professor at UC Santa Barbara, has joined the Performing Arts Scholarship Foundation Board. The Performing Arts Scholarship Foundation is a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/musician-jill-felber-joins-performing-arts-scholarship-foundation-board/">Musician Jill Felber Joins Performing Arts Scholarship Foundation Board</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/musician-jill-felber-joins-performing-arts-scholarship-foundation-board/>
+
+---
+
+## Freedom to Choose Project Helping Those in Justice System for 20 Years
+
+date: 2024-06-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Celebrating its 20th anniversary, the Santa Barbara-based Freedom to Choose Project marks two decades of empowering individuals and families impacted by incarceration across California as it looks ahead to extending [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/freedom-to-choose-project-helping-those-in-justice-system-for-20-years/">Freedom to Choose Project Helping Those in Justice System for 20 Years</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/freedom-to-choose-project-helping-those-in-justice-system-for-20-years/>
+
+---
+
+## UCSB Summer Presentations on Innovative Research Open to All
+
+date: 2024-06-27, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Although many students leave campus, UC Santa Barbara is bustling throughout the summer. Among other activities, the sunny season features the lecture series “Ground-breaking Research/Innovative Technology,” or GRIT Talks, which [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsb-summer-presentations-on-innovative-research-open-to-all/">UCSB Summer Presentations on Innovative Research Open to All</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsb-summer-presentations-on-innovative-research-open-to-all/>
 
 ---
 

@@ -1,11 +1,247 @@
 ---
 title: going electric 2024.26
-updated: 2024-06-27 08:57:54
+updated: 2024-06-27 17:05:35
 ---
 
 # going electric 2024.26
 
-(date: 2024-06-27 08:57:54)
+(date: 2024-06-27 17:05:35)
+
+---
+
+## Here’s what Americans think of local wind and solar development
+
+date: 2024-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/pexels-photo-2673471.jpeg?quality=82&#038;strip=all&#038;w=1528" /></div><p>The Pew Research Center surveyed Americans about how they feel about local wind and solar development in their communities – this is what they found.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/27/heres-what-americans-think-of-local-wind-solar-development/#more-369500" data-post-id="369500" data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,wind-power" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/27/heres-what-americans-think-of-local-wind-solar-development/>
+
+---
+
+## Rivian investor day, Tesla battery project, Extreme H, and Chargeway + drops
+
+date: 2024-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/rivian_money.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This is it, the <strong>FIRST EVER</strong> extra long episode! We’ve got Rivian investor day, SRP and Tesla collaborate on a massive battery project in the desert, there’s a quick, hydrogen-powered racer that’s stirring up controversy, and my good friend, Matt Teske, <a href="https://www.chargeway.net/">shows up to talk about the all-new Chargeway +</a>. All this and more, on today’s <em>Quick Charge</em>!</p>
+
+
+
+ <a href="https://electrek.co/2024/06/27/rivian-investor-day-tesla-battery-project-extreme-h-and-chargeway-drops/#more-369493" data-post-id="369493" data-layer-pagetype="post" data-layer-postcategory="quick-charge,rivian,tesla" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/27/rivian-investor-day-tesla-battery-project-extreme-h-and-chargeway-drops/>
+
+---
+
+## Here's The Note Volvo Is Sending To EX30 Reservation-Holders
+
+date: 2024-06-27, from: Inside EVs News
+
+The EX30 has been delayed by anti-China tariffs and its future price is unclear. But Volvo is offering a $2,500 "loyalty bonus" toward the purchase of an XC40 or C40 EV. 
+
+<https://insideevs.com/news/724814/volvo-ex30-reservation-note/>
+
+---
+
+## EVs Still Have More Quality Problems. Here's Why
+
+date: 2024-06-27, from: Inside EVs News
+
+J.D. Power's newest Initial Quality Study shows that EVs and PHEVs have more issues than ICE cars. It's not the powertrain that's causing problems. 
+
+<https://insideevs.com/news/724798/are-evs-as-reliable/>
+
+---
+
+## Genesis reveals new Electrified G80 with more range, space, and style
+
+date: 2024-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Genesis-new-Electrified-G80-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Luxury automaker Genesis revealed the new <a href="https://electrek.co/guides/genesis-electrified-g80/">Electrified G80</a> at the Busan International Mobility Show (BIMOS) on Thursday. The updated luxury EV features a bigger battery for more range. Meanwhile, Genesis touched up the design for a more classy and sophisticated look. Check it out below.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/27/genesis-reveals-new-electrified-g80-more-range-class/#more-369464" data-post-id="369464" data-layer-pagetype="post" data-layer-postcategory="genesis,genesis-electrified-g80" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/27/genesis-reveals-new-electrified-g80-more-range-class/>
+
+---
+
+## Huffy upgrades Green Machine for electric age as $600 adult drift trike
+
+date: 2024-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Huffy-electric-Green-machine.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In case your neighbor didn’t have a Green Machine (video below) growing up as I did, the “big wheels” alternative looked like a little 3-wheeled pedal sled that was steered with two sticks instead of handlebars or a steering wheel. If you wanted to spin out (and what else would you want to do?), you’d simply push one stick forward and the other stick back and hold on!</p>
+
+
+
+<p>Well, a lot has changed in the almost 50 years since the Green Machine debuted, and Huffy knows it has many adults, like myself, nostalgic for that drift experience without having to do all of that pedaling.</p>
+
+
+
+<p>Enter the Huffy Electric Green Machine…</p>
+
+
+
+ <a href="https://electrek.co/2024/06/27/huffy-upgrades-green-machine-for-electric-age-as-600-adult-drift-trike/#more-369234" data-post-id="369234" data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/27/huffy-upgrades-green-machine-for-electric-age-as-600-adult-drift-trike/>
+
+---
+
+## A 250 kg WWII bomb was found at Tesla Gigafactory Berlin site
+
+date: 2024-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/01/Tesla-Gigafactory-Berlin-Hero-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A 250 kg World War 2 bomb was found at the site of Tesla’s planned expansion of Gigafactory Berlin. It will have to be detonated.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/27/wwii-bomb-found-tesla-gigafactory-berlin-site/#more-369441" data-post-id="369441" data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/27/wwii-bomb-found-tesla-gigafactory-berlin-site/>
+
+---
+
+## This anodeless, compressionless solid-state battery could be the next big thing [Update]
+
+date: 2024-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/ION-solid-state-battery.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Maryland-based ION Storage Systems is about to dramatically accelerate the commercialization of its unique solid-state batteries (SSBs).</p>
+
+
+
+ <a href="https://electrek.co/2024/06/27/anodeless-compressionless-solid-state-battery-ion/#more-352812" data-post-id="352812" data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-batteries,solid-state-batteries,solid-state-battery" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/27/anodeless-compressionless-solid-state-battery-ion/>
+
+---
+
+## Polestar launches new lower-priced Polestar 3 as first models reach customers
+
+date: 2024-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Polestar-3-lower-priced.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Polestar introduced a new, lower-priced <a href="https://electrek.co/guides/polestar-3/">Polestar 3</a> model on Thursday to intensify the competition with Tesla and Porsche. The new model comes as the first Polestar 3 customers received their electric SUVs.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/27/polestar-delivers-first-polestar-3-evs-adds-lower-priced-model/#more-369430" data-post-id="369430" data-layer-pagetype="post" data-layer-postcategory="polestar,polestar-3" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/27/polestar-delivers-first-polestar-3-evs-adds-lower-priced-model/>
+
+---
+
+## Honda's Hydrogen CR-V Lease Gets Up To $30,000 In Fuel Credits
+
+date: 2024-06-27, from: Inside EVs News
+
+Interested in trying the hydrogen life? Honda's new CR-V hydrogen plug-in hybrid at least comes with generous fueling assistance.  
+
+<https://insideevs.com/news/724761/honda-hydrogen-crv-lease-pricing-fuel-credits/>
+
+---
+
+## Save $300 on MOD Easy 3 e-bike with sidecar options, 1-day all-time low on Greenworks Utility e-bike, NIU KQi3 Pro e-scooter, more
+
+date: 2024-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/MOD-Easy-3-e-bike-lifestyle-1.webp?w=1200" /></div><p>With so many of the e-bike sales we’ve recently covered either ending in the next few days or having already ended (be sure to check out our collection of summer e-bike deals below), today’s Green Deals are here to give you a few more EV discounts to consider. Leading the pack is the unique and stylish <a href="https://9to5toys.com/2024/06/27/mod-easy-3-e-bike-oozes-the-unique-style-of-iconic-motorcycles-starting-at-2999-300-off-plus-sidecar-add-ons/">MOD Easy 3 e-bike for $2,999 shipped</a>, along with alternate variations including a sidecar attachment. It is joined by the very first discount we’ve seen on the <a href="https://9to5toys.com/2024/06/27/greenworks-80v-20-inch-venture-utility-e-bike-gets-first-discount-to-1700-low-in-1-day-only-sale-save-500/">new Greenworks 80V 20-inch Fat-Tire Utility e-bike</a> that is at <a href="https://9to5toys.com/2024/06/27/greenworks-80v-20-inch-venture-utility-e-bike-gets-first-discount-to-1700-low-in-1-day-only-sale-save-500/">$1,700</a> – but only for today! There’s also the surprise price cut on <a href="https://9to5toys.com/2024/06/26/nius-kqi3-pro-foldable-electric-scooter-cruises-31-miles-at-20-mph-to-new-480-low-reg-799/">NIU’s KQi3 Pro Foldable Electric Scooter</a> down to a new <a href="https://9to5toys.com/2024/06/26/nius-kqi3-pro-foldable-electric-scooter-cruises-31-miles-at-20-mph-to-new-480-low-reg-799/">$480 low</a>. Plus, all the other hangover Green Deals that are still alive and well.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/27/mod-easy-3-e-bike-greenworks-utility-e-bike-niu-kqi3-pro-e-scooter-more/#more-369429" data-post-id="369429" data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/27/mod-easy-3-e-bike-greenworks-utility-e-bike-niu-kqi3-pro-e-scooter-more/>
+
+---
+
+## Tesla Model 3: How Much Range Does It Have?
+
+date: 2024-06-27, from: Inside EVs News
+
+It depends on the version, the weather and how you drive it, but we break that all down for you here.  
+
+<https://insideevs.com/news/724629/tesla-model-3-range/>
+
+---
+
+## Drop-In EV Kit Turns Classic DeLorean Into The Sports Car It Was Designed To Be
+
+date: 2024-06-27, from: Inside EVs News
+
+You can thank the people at Electrogenic for that. 
+
+<https://insideevs.com/news/724717/delorean-drop-in-ev-conversion-kit/>
+
+---
+
+## A giant 1.3 GWh Tesla Megapack project is going online in Arizona
+
+date: 2024-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Tesla-Megapack-project-Arizona.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A massive Tesla Megapack project with 1.3 GWh of energy storage capacity is coming online in Arizona – making it one of the largest battery systems.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/27/tesla-megapack-project-giant-online-arizona/#more-369420" data-post-id="369420" data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-megapack" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/27/tesla-megapack-project-giant-online-arizona/>
+
+---
+
+## Act Now, Because EV Lease Deals Will Probably Get Worse Next Week
+
+date: 2024-06-27, from: Inside EVs News
+
+If you're looking to lease a new EV in the next couple of months, you might want to get the deal done this week.  
+
+<https://insideevs.com/news/724676/ev-lease-deals-june-2024/>
+
+---
+
+## Rivian (RIVN) reaffirms 57K production guidance, gross profit in Q4 2024
+
+date: 2024-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Rivian-gross-profit-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>EV maker <a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) reaffirmed its plans to build 57,000 vehicles this year during its 2024 Investor Day. More importantly, Rivian still expects to achieve a positive gross profit by the end of the year.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/27/rivian-rivn-reaffirms-57k-production-goal-gross-profit-q4/#more-369391" data-post-id="369391" data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/27/rivian-rivn-reaffirms-57k-production-goal-gross-profit-q4/>
+
+---
+
+## Velotric Summit 1 E-Bike review: The fast, lower-cost torque sensor eMTB I’ve wanted
+
+date: 2024-06-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/velotric-summit-electric-mountain-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I’ve been on the hunt for an electric mountain bike that would give me much of the performance of the fancier, high-priced models, yet without their major downside: that higher price. The <a href="https://velotricebike.pxf.io/R5k6gb">Velotric Summit 1</a> rolled in at the perfect time, and while the bike itself isn’t perfect, it’s darn near exactly what I’d want from an eMTB that focuses on keeping prices down.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/27/velotric-summit-1-e-bike-review-the-fast-lower-cost-torque-sensor-emtb-ive-wanted/#more-368784" data-post-id="368784" data-layer-pagetype="post" data-layer-postcategory="ebikes,review" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/27/velotric-summit-1-e-bike-review-the-fast-lower-cost-torque-sensor-emtb-ive-wanted/>
+
+---
+
+## Anyone Can Hail A Waymo Robotaxi In San Francisco Now
+
+date: 2024-06-27, from: Inside EVs News
+
+The Alphabet-owned autonomous taxi service ditched its waitlist and is letting anyone who has the app take a ride. 
+
+<https://insideevs.com/news/724734/waymo-robotaxi-san-francisco/>
 
 ---
 
@@ -105,7 +341,7 @@ You've got two days. Go.
 
 ---
 
-## Extreme E unveils hydrogen car for next season – same specs, 305kg heavier
+## Extreme E shows hydrogen offroad race car for 2025 – same specs, 305kg heavier
 
 date: 2024-06-27, from: Electrek Feed
 

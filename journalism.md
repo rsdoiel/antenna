@@ -1,11 +1,21 @@
 ---
 title: journalism 2024.26
-updated: 2024-06-27 08:57:52
+updated: 2024-06-27 17:05:33
 ---
 
 # journalism 2024.26
 
-(date: 2024-06-27 08:57:52)
+(date: 2024-06-27 17:05:33)
+
+---
+
+## ChatGPT is hallucinating fake links to its news partners’ biggest investigations
+
+date: 2024-06-27, from: Nieman Journalism Lab
+
+Over the past year, several major news media companies have signed on the dotted line with OpenAI, entering a content licensing partnership with the developer of ChatGPT. Most of those partnership announcements state that as part of the deals, ChatGPT will produce attributed summaries of each media company’s reporting and link to their publications&#8217; websites.... 
+
+<https://www.niemanlab.org/2024/06/chatgpt-is-hallucinating-fake-links-to-its-news-partners-biggest-investigations/>
 
 ---
 

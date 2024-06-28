@@ -1,11 +1,24 @@
 ---
 title: writing 2024.26
-updated: 2024-06-27 08:57:51
+updated: 2024-06-27 17:05:33
 ---
 
 # writing 2024.26
 
-(date: 2024-06-27 08:57:51)
+(date: 2024-06-27 17:05:33)
+
+---
+
+## Why Feedback Is Vital for Every Screenwriter
+
+date: 2024-06-27, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/why-feedback-is-vital-for-every-screenwriter" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Person%20Writing%20on%20Note%20Beside%20Gray%20Laptop%20Computer.jpeg" alt="A man in a button up shirt writing in a notebook while working on a laptop; Why Feedback Is Vital for Every Screenwriter" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>Getting feedback on what you’ve written is&nbsp;vital to the screenwriting process. You will likely </span><a href="https://blog.finaldraft.com/the-differences-between-a-rewrite-and-a-polish"><span>rewrite your script</span></a><span> a few times after reading it. However, after you’re happy with what you wrote and decide </span><a href="https://blog.finaldraft.com/youve-finished-your-screenplay.-now-what"><span>your script is finished</span></a><span>, it’s still a good idea to get feedback</span><span>from different people—both people you know and industry professionals—and be open to any constructive criticism or notes they have.</span></p> 
+
+<https://blog.finaldraft.com/why-feedback-is-vital-for-every-screenwriter>
 
 ---
 

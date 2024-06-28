@@ -1,15 +1,49 @@
 ---
 title: pacific 2024.26
-updated: 2024-06-27 08:57:48
+updated: 2024-06-27 17:05:30
 ---
 
 # pacific 2024.26
 
-(date: 2024-06-27 08:57:48)
+(date: 2024-06-27 17:05:30)
 
 ---
 
-## US announces $7M in grants for Palau 
+## Beckoned by Lilith
+
+date: 2024-06-27, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Isabel Rhodes They call me Maiden of the Night, but I crawled out of the sun. Celestial fluids dripped from my wings, blisters marred my cheeks and bloody welts rose out of my skin, a garden of puckered flesh &#8230; <a href="https://hawaiipacificreview.org/2024/06/27/beckoned-by-lilith/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/06/27/beckoned-by-lilith/>
+
+---
+
+## Nuclear suit vetoed in US
+
+date: 2024-06-27, from: Marshal Islands Journal
+
+<p>Journal 6/26/1987 P1 N-suit vetoedMarshallese nuclear claimants were handed a stunning setback when a US judge dismissed the billion dollar lawsuits last week Tuesday. US District Court Judge Thomas Hogan ruled that his court had no jurisdiction to hear the claims filed by the Marshall Islands Atomic Testing Litigation Project, which represents several thousand Marshallese. [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/nuclear-suit-vetoed-in-us/">Nuclear suit vetoed in US</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/nuclear-suit-vetoed-in-us/>
+
+---
+
+## Jubilee coaches Palau men
+
+date: 2024-06-27, from: Marshal Islands Journal
+
+<p>The intensity vibe shown in this photo between coach and players is rare. Uniquely, the head coach of the Palau men’s team at the Micronesian Games was a woman, Jubilee Kuartei, a long-time player, coach and the only FIBA-certified female referee in the Micronesia region. The level of undivided attention is proof of her unique [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/jubilee-coaches-palau-men/">Jubilee coaches Palau men</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/jubilee-coaches-palau-men/>
+
+---
+
+## US announces $7 million in COFA grants for Palau 
 
 date: 2024-06-27, from: Pacific Island Times
 

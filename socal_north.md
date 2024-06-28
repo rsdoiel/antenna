@@ -1,11 +1,98 @@
 ---
 title: socal north 2024.26
-updated: 2024-06-27 08:57:48
+updated: 2024-06-27 17:05:30
 ---
 
 # socal north 2024.26
 
-(date: 2024-06-27 08:57:48)
+(date: 2024-06-27 17:05:30)
+
+---
+
+## Uvalde
+
+date: 2024-06-27, from: The Sundail (CSUN Student Newspaper)
+
+ultrices neque ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna neque viverra justo nec ultrices dui sapien eget mi proin sed... 
+
+<https://sundial.csun.edu/182323/news/uvalde/>
+
+---
+
+## The Mental Health Pandemic in Texas
+
+date: 2024-06-27, from: The Sundail (CSUN Student Newspaper)
+
+On a sunny and windy morning in Uvalde, sun beams illuminate crosses surrounding a water fountain in the middle of the town’s central plaza. Some of the crosses have been... 
+
+<https://sundial.csun.edu/182344/news/the-mental-health-pandemic-in-texas/>
+
+---
+
+## A Club No One Wants To Be A Part Of
+
+date: 2024-06-27, from: The Sundail (CSUN Student Newspaper)
+
+Grief strikes at the most unexpected times. Never wished for, grief never goes away. Twenty-one families and dozens more community members in Uvalde, Texas, were forever changed on May 24,... 
+
+<https://sundial.csun.edu/182266/news/a-club-no-one-wants-to-be-a-part-of/>
+
+---
+
+## Fragments of Failed Policing in Uvalde
+
+date: 2024-06-27, from: The Sundail (CSUN Student Newspaper)
+
+The Uvalde Police Department has been on the lookout for new hires in recent months. Near the men’s bathroom is a locked entrance for duty dispatchers and command staff. A... 
+
+<https://sundial.csun.edu/182329/news/fragments-of-failed-policing-in-uvalde/>
+
+---
+
+## Bronny James drafted No. 55 to Lakers
+
+date: 2024-06-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Bronny James will join forces with his father in Los Angeles.</p>
+<p>The post <a href="https://dailytrojan.com/2024/06/27/bronny-james-drafted-no-55-to-lakers/">Bronny James drafted No. 55 to Lakers</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/06/27/bronny-james-drafted-no-55-to-lakers/>
+
+---
+
+## Adem Bona joins Philadelphia 76ers as No. 41 pick in 2024 NBA Draft
+
+date: 2024-06-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated June 27 at 2:42 p.m.</em>
+Coach Mick Cronin’s tutelage produced back-to-back Pac-12 Defensive Player of the Year winners – each of whom subsequently became NBA draftees.&#160;
+Former guard Jaylen Clark joined the Minnesota Timberwolves in the 2023 NBA Draft.&#160;
+And after a year as a mainstay of Cronin’s 2023-2024 lineup, former UCLA men’s basketball forward/center Adem Bona was selected No. 
+
+<https://dailybruin.com/2024/06/27/adem-bona-joins-philadelphia-76ers-as-no-41-pick-in-2024-nba-draft/>
+
+---
+
+## Op-ed: 21st Century Policing Solutions investigation is a ‘sham’ shielding UC, police
+
+date: 2024-06-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+We write as members of the UCLA community to state our refusal to participate in the investigation being conducted by 21st Century Policing Solutions on the police response to demonstrations and protests occurring in solidarity with the struggle to end Israel&#8217;s ongoing genocidal attack on Palestinians in the Gaza Strip. 
+
+<https://dailybruin.com/2024/06/27/op-ed-21st-century-policing-solutions-investigation-is-a-sham-shielding-uc-police/>
+
+---
+
+## Celebrating Our Heroes and Open Spaces
+
+date: 2024-06-27, from: City of Santa Clarita
+
+<p>By Councilmember Laurene Weste &#8220;Everybody needs beauty as well as bread, places to play in and pray in, where nature may heal and cheer and give strength to body and soul.&#8221; This quote by John Muir in his book “The Yosemite” perfectly articulates the importance of our environment and its profound impact on our well-being. [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/06/27/celebrating-our-heroes-and-open-spaces/">Celebrating Our Heroes and Open Spaces</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/06/27/celebrating-our-heroes-and-open-spaces/>
 
 ---
 
@@ -16,6 +103,30 @@ date: 2024-06-27, updated: 2024-06-27, from: The LAist
 Democrats, including Senate leader Mike McGuire of Santa Rosa, defended the budget process and the deal, saying the Legislature held more than a hundred public hearings. 
 
 <https://laist.com/news/politics/california-legislature-gets-nearly-300-billion-budget-done>
+
+---
+
+## Gathering at the Pierce campus celebrates Juneteenth
+
+date: 2024-06-27, from: The Round Up (Pierce College Student Newspaper)
+
+<p>On a hot summer weekend preceding Juneteenth, as attendees walked deeper along the Pierce College Mall between the long lines of various vendors, they were</p>
+<p>The post <a href="https://theroundupnews.com/2024/06/27/gathering-at-the-pierce-campus-celebrates-juneteenth/">Gathering at the Pierce campus celebrates Juneteenth</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/06/27/gathering-at-the-pierce-campus-celebrates-juneteenth/?utm_source=rss&utm_medium=rss&utm_campaign=gathering-at-the-pierce-campus-celebrates-juneteenth>
+
+---
+
+## President position at Pierce now filled until 2027
+
+date: 2024-06-27, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Ara Aguiar, who has been the Interim President at Pierce College for about two and a half years, was recommended by LACCD Chancellor Francisco Rodriguez</p>
+<p>The post <a href="https://theroundupnews.com/2024/06/27/president-position-at-pierce-now-filled-until-2027/">President position at Pierce now filled until 2027</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/06/27/president-position-at-pierce-now-filled-until-2027/?utm_source=rss&utm_medium=rss&utm_campaign=president-position-at-pierce-now-filled-until-2027>
 
 ---
 
@@ -33,6 +144,7 @@ President Biden and former President Donald Trump will face off in the first pre
 
 date: 2024-06-27, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated June 27 at 3 p.m.</em>
 UCLA officially joins the Big Ten on Aug. 2. After 96 years and 123 national championships in the Pac-12, the Bruins are at the forefront of the Big Ten&#8217;s West Coast expansion. 
 
 <https://dailybruin.com/2024/06/26/big-ten-preview-purdue/>

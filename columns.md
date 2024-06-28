@@ -1,11 +1,141 @@
 ---
 title: columns 2024.26
-updated: 2024-06-27 08:57:50
+updated: 2024-06-27 17:05:32
 ---
 
 # columns 2024.26
 
-(date: 2024-06-27 08:57:50)
+(date: 2024-06-27 17:05:32)
+
+---
+
+## Friday 28 June, 2024
+
+date: 2024-06-27, from: John Naughton's online diary
+
+En féte I came on this the other evening in the village where we stay. No idea what the event was celebrating (Footnote for shutterbugs I would have liked to get in closer without being obtrusive, so what really bothered &#8230; <a href="https://memex.naughtons.org/friday-28-june-2024/39584/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-28-june-2024/39584/>
+
+---
+
+##  I Will Fucking Piledrive You If You Mention AI Again. &#8220;&#8230;spending half... 
+
+date: 2024-06-27, updated: 2024-06-27, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044890-i-will-fucking-piledrive->
+
+---
+
+##  &#8220;I Shrink 10x Every 21s Until I&#8217;m an Atom&#8221; 
+
+date: 2024-06-27, updated: 2024-06-27, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/i-shrink-10x-every-21s-until-im-an-atom>
+
+---
+
+##  Paramount has taken offline the entire MTV News archive as well as... 
+
+date: 2024-06-27, updated: 2024-06-27, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044888-paramount-has-taken-offli>
+
+---
+
+##  The Biden administration&#8217;s successes (clean energy, infrastructure investment, workers&#8217; rights, making gov&#8217;t... 
+
+date: 2024-06-27, updated: 2024-06-27, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044887-the-biden-administrations>
+
+---
+
+##  Diary Comics, January 2024 
+
+date: 2024-06-27, updated: 2024-06-27, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/diary-comics-january-2024>
+
+---
+
+## The subscription problem
+
+date: 2024-06-27, from: Dave Winer's Scripting News
+
+<p>Yesterday I did a <a href="http://scripting.com/2024/06/26.html#a225814">podcast</a> in my new <a href="https://this.how/scriptingNewsPodcast/">podcast-only feed</a> that explained how RSS had its moment between 2002 and 2006. The big event in 2002 was support from the NY Times, and in 2006 it was the advent of Twitter. </p>
+<ul>
+<li>The <a href="https://scripting.wordpress.com/2006/02/09/how-the-ny-times-came-to-support-rss/">NY Times support</a> gave us the news flow of one of the greatest and most respected news orgs. The entire news publishing industry followed, with incredible speed. It was an amazing time. Woodstock on the web. Everyone who was anyone was there.  </li>
+<li>Inbetween, <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> got the rep of being too hard for average people. The <i>only</i> reason for this deserved reputation is that subscription was a mess. Every website had to figure it out for themselves, and every feed reader acted as if they were the only feed reader in the world. RSS, which could have been the foundation of something very much like Twitter, never got out the corner of the market where it was totally adored, by people who were motivated enough to tolerate the awful state of subscribing.</li>
+<li>This was not in any way an insolvable problem. But it required something that the developers of the open web weren't able to do, work together. The W3C and IETF were busy trying to replace RSS, they were offended that it had been developed independently, even though their pitch for XML was that you could develop your own formats. It seemed they didn't believe their own hype? So not only did they not do do anything to help, they actively worked to undermine the success of RSS. That didn't work, fortunately. </li>
+<li>By the time <a href="https://en.wikipedia.org/wiki/Google_Reader">Google Reader</a> came along in 2005, it was too late for cooperation. Google dominated, and they didn't want to do anything to build an open news ecosystem.</li>
+<li><img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/27/followButton.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">When Twitter arrived in 2006, it had control of every aspect of user interface in their corporate platform, and were thus able to completely solve the subscription problem. Every feed had a button that said Follow. Click the button and you were following that feed. The button changed to Unfollow. That is was whole user interface right there. So easy anyone could use it.</li>
+</ul>
+<p>This story must sound familliar, in 2024 -- because it's all happening <a href="https://www.goodreads.com/quotes/468991-all-of-this-has-happened-before-and-it-will-all">again</a>. This time it's Facebook playing the role of Twitter, and Mastodon playing the role of RSS. And Mastodon has gotten a deserved reputation as being only for techie types. And the solution in 2024 is the same as it was in 2002 -- working together to make subscription easy. A one-click Follow button that works. One button for site-makers to put on their pages. And users leaning back and clicking away without a care in the world (at least about the software).</p>
+<p>The <a href="http://scripting.com/2024/06/26/theFediverseIsDoomedUnlessSubscriptionGetsEasyFast.m4a">podcast</a> is only 12 minutes long. Go have a listen and then think about whether or not you want to solve this problem for the fediverse. It can include non-ActivityPub systems btw, like Bluesky and even feed readers! We can all share the same subscription protocol. But it cannot be distributed. It must be centralized. </p>
+ 
+
+<http://scripting.com/2024/06/27/175207.html?title=theSubscriptionProblem>
+
+---
+
+##  Asking AI to generate a video of the Tour de France. 1.... 
+
+date: 2024-06-27, updated: 2024-06-27, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/0044885-asking-ai-to-generate-a>
+
+---
+
+## June 26, 2024
+
+date: 2024-06-27, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/june-26-2024-5e4>
+
+---
+
+## European Commission Launches Investigation Against Microsoft for Integrating Teams With Office
+
+date: 2024-06-27, updated: 2024-06-27, from: Daring Fireball
+
+ 
+
+<https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3446>
+
+---
+
+##  15 Years of Plant Time Lapse Videos 
+
+date: 2024-06-27, updated: 2024-06-27, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/06/15-years-of-plant-time-lapse-videos>
+
+---
+
+## Sponsorship Openings at Daring Fireball and the Talk Show, Summer 2024 Edition
+
+date: 2024-06-27, updated: 2024-06-27, from: Daring Fireball
+
+ 
+
+<https://daringfireball.net/2024/03/sponsorship_openings_early_2024>
 
 ---
 

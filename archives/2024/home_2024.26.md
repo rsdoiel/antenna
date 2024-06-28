@@ -1,11 +1,21 @@
 ---
 title: home 2024.26
-updated: 2024-06-27 08:57:52
+updated: 2024-06-27 17:05:34
 ---
 
 # home 2024.26
 
-(date: 2024-06-27 08:57:52)
+(date: 2024-06-27 17:05:34)
+
+---
+
+## ​CDFA celebrates and welcomes UN declaration of 2026 as International Year of the Woman Farmer
+
+date: 2024-06-27, from: Calfifornia Dept. Aggriculture blog
+
+The United Nations has declared&#160;2026 as the International Year of the Woman Farmer, and the USDA hosted an event today in Washington DC to promote the announcement. CDFA is excited to celebrate the announcement and highlight the pioneering roles that &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27954">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27954>
 
 ---
 

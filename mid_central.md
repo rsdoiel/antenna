@@ -1,11 +1,71 @@
 ---
 title: mid central 2024.26
-updated: 2024-06-27 08:57:49
+updated: 2024-06-27 17:05:30
 ---
 
 # mid central 2024.26
 
-(date: 2024-06-27 08:57:49)
+(date: 2024-06-27 17:05:30)
+
+---
+
+## Wi-Fi module teams with Alexa Connect Kit
+
+date: 2024-06-27, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Quectel-FLM263D.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Quectel-FLM263D.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Quectel-FLM263D.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Quectel-FLM263D.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>A standalone Wi-Fi module, Quectel’s FLM263D works with the Alexa Connect Kit (ACK) SDK for Matter, enabling rapid setup with Amazon Alexa.</p>
+<p>The post <a href="https://www.edn.com/wi-fi-module-teams-with-alexa-connect-kit/" data-wpel-link="internal">Wi-Fi module teams with Alexa Connect Kit</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/wi-fi-module-teams-with-alexa-connect-kit/>
+
+---
+
+## SiC diode lineup spans 5 A to 40 A
+
+date: 2024-06-27, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Vishay-Gen3-1200.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Vishay-Gen3-1200.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Vishay-Gen3-1200.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Vishay-Gen3-1200.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Sixteen new Gen 3 1200-V SiC Schottky diodes from Vishay increase the efficiency and reliability of switching power designs.</p>
+<p>The post <a href="https://www.edn.com/sic-diode-lineup-spans-5-a-to-40-a/" data-wpel-link="internal">SiC diode lineup spans 5 A to 40 A</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/sic-diode-lineup-spans-5-a-to-40-a/>
+
+---
+
+## GaN MMIC power amps operate in Ka band
+
+date: 2024-06-27, from: EDN Blog
+
+<img width="800" height="338" src="https://www.edn.com/wp-content/uploads/Mitsubishi-Ka-band-amps.jpg?fit=800%2C338" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Mitsubishi-Ka-band-amps.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Mitsubishi-Ka-band-amps.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Mitsubishi-Ka-band-amps.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Mitsubishi will begin sampling its GaN MMIC power amplifiers for use in Ka band satellite communication earth stations next month.</p>
+<p>The post <a href="https://www.edn.com/gan-mmic-power-amps-operate-in-ka-band/" data-wpel-link="internal">GaN MMIC power amps operate in Ka band</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/gan-mmic-power-amps-operate-in-ka-band/>
+
+---
+
+## RF front end shrinks package size
+
+date: 2024-06-27, from: EDN Blog
+
+<img width="800" height="405" src="https://www.edn.com/wp-content/uploads/Spectrum-Control-SCi-block.jpg?fit=800%2C405" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Spectrum-Control-SCi-block.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Spectrum-Control-SCi-block.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Spectrum-Control-SCi-block.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Joining Spectrum Control’s SCi Blocks RF portfolio is an RF front-end system-in-package (SiP) for next-generation defense systems.</p>
+<p>The post <a href="https://www.edn.com/rf-front-end-shrinks-package-size/" data-wpel-link="internal">RF front end shrinks package size</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/rf-front-end-shrinks-package-size/>
+
+---
+
+## Intel unveils high-speed optical I/O chiplet
+
+date: 2024-06-27, from: EDN Blog
+
+<img width="800" height="445" src="https://www.edn.com/wp-content/uploads/Intel-OCI-chiplet.jpg?fit=800%2C445" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Intel-OCI-chiplet.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Intel-OCI-chiplet.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Intel-OCI-chiplet.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>A fully integrated optical compute interconnect (OCI) chiplet from Intel delivers up to 4 Tbps of bidirectional data transfer.</p>
+<p>The post <a href="https://www.edn.com/intel-unveils-high-speed-optical-i-o-chiplet/" data-wpel-link="internal">Intel unveils high-speed optical I/O chiplet</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/intel-unveils-high-speed-optical-i-o-chiplet/>
 
 ---
 
@@ -13,7 +73,7 @@ updated: 2024-06-27 08:57:49
 
 date: 2024-06-27, from: EDN Blog
 
-<img width="1024" height="512" src="https://www.edn.com/wp-content/uploads/Power-Points-Blog-160_good-enough-battery_Fig1.png?fit=1024%2C512" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Power-Points-Blog-160_good-enough-battery_Fig1.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Power-Points-Blog-160_good-enough-battery_Fig1.png?w=300 300w, https://www.edn.com/wp-content/uploads/Power-Points-Blog-160_good-enough-battery_Fig1.png?w=768 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><p>When the goal is not to advance technology significantly, the path of progress versus frustration level becomes shorter. </p>
+<img width="1024" height="512" src="https://www.edn.com/wp-content/uploads/Power-Points-Blog-160_good-enough-battery_Fig1.png?fit=1024%2C512" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Power-Points-Blog-160_good-enough-battery_Fig1.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Power-Points-Blog-160_good-enough-battery_Fig1.png?w=300 300w, https://www.edn.com/wp-content/uploads/Power-Points-Blog-160_good-enough-battery_Fig1.png?w=768 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><p>When the goal is not to advance technology significantly, the path of progress versus frustration level becomes shorter. </p>
 <p>The post <a href="https://www.edn.com/when-is-a-good-enough-battery-good-enough/" data-wpel-link="internal">When is a “good-enough” battery good enough?</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
