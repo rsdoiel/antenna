@@ -1,11 +1,111 @@
 ---
 title: motorcycles 2024.26
-updated: 2024-06-27 17:05:34
+updated: 2024-06-28 08:34:06
 ---
 
 # motorcycles 2024.26
 
-(date: 2024-06-27 17:05:34)
+(date: 2024-06-28 08:34:06)
+
+---
+
+## Weirdly, This Honda Scooter Patent Has a Gas Pedal
+
+date: 2024-06-28, from: Ride Apart, Electric Motorcycle News
+
+Could it get more people on two wheels? 
+
+<https://www.rideapart.com/news/724818/honda-gas-pedal-scooter-patent/>
+
+---
+
+## This Polaris RZR Is Hiding a Secret: It's Tesla-Powered
+
+date: 2024-06-28, from: Ride Apart, Electric Motorcycle News
+
+Time for all the torque.  
+
+<https://www.rideapart.com/news/724809/polaris-rzr-tesla-swap-utv-watch/>
+
+---
+
+## You Could Buy the Same UTV Sold to the Russian Military, Right Here in the US
+
+date: 2024-06-28, from: Ride Apart, Electric Motorcycle News
+
+Mil-spec? 
+
+<https://www.rideapart.com/news/724801/aodes-utv-russian-military-china/>
+
+---
+
+## Look At These Cool Accessories The Honda Monkey Is Getting, But Only In Japan
+
+date: 2024-06-28, from: Ride Apart, Electric Motorcycle News
+
+New colors, too, of course. 
+
+<https://www.rideapart.com/news/724815/honda-monkey-oem-accessories-2024/>
+
+---
+
+## These Motorcycle Stunt Riders Are Hosting a Travel Show, and It Looks Awesome
+
+date: 2024-06-28, from: Ride Apart, Electric Motorcycle News
+
+A raw, unfiltered ride around the US, which serves as a roadmap for your next adventure. 
+
+<https://www.rideapart.com/news/724797/always-anywhere-youtube-series/>
+
+---
+
+## 'Project 2025' Wants to Sell Off All Public Land, Pretends It's For Housing Crisis
+
+date: 2024-06-28, from: Ride Apart, Electric Motorcycle News
+
+None of this would solve housing issues, but it would line their pockets more. 
+
+<https://www.rideapart.com/news/724792/project-2025-public-lands-blm-sell-off-william-perry-pendley/>
+
+---
+
+## 2024 Harley-Davidson Fat Boy 114
+
+date: 2024-06-28, from: Cycle World News
+
+Since its introduction in 1990, the Fat Boy has become one of Harley-Davidson’s most iconic cruisers. The 2024 model’s epic proportions continue the legacy. 
+
+<https://www.cycleworld.com/harley-davidson/fat-boy-114/>
+
+---
+
+## 2024 Honda Gold Wing
+
+date: 2024-06-28, from: Cycle World News
+
+The 2024 Honda Gold Wing is one of the most refined, comfortable, and capable luxury tourers ever built. 
+
+<https://www.cycleworld.com/honda/gold-wing/>
+
+---
+
+## 2024 Ducati Hypermotard 698 Mono
+
+date: 2024-06-28, from: Cycle World News
+
+The 2024 Ducati Hypermotard 698 Mono is a lightweight high-revving single with made-for-fun electronics and youthful bravado. 
+
+<https://www.cycleworld.com/ducati/hypermotard-698-mono/>
+
+---
+
+## 2023 Suzuki GSX-8S
+
+date: 2024-06-28, from: Cycle World News
+
+The midsize GSX-8S joins Suzuki’s lineup of naked bikes, with an all-new engine and chassis made to suit a wide range of riders. 
+
+<https://www.cycleworld.com/suzuki/gsx-8s-2023/>
 
 ---
 
@@ -199,16 +299,6 @@ Get ready, children.
 
 ---
 
-## 2024 Harley-Davidson Fat Boy 114
-
-date: 2024-06-26, from: Cycle World News
-
-Since its introduction in 1990, the Fat Boy has become one of Harley-Davidson’s most iconic cruisers. The 2024 model’s epic proportions continue the legacy. 
-
-<https://www.cycleworld.com/harley-davidson/fat-boy-114/>
-
----
-
 ## Chase Briscoe: Joe Gibbs Racing is ‘the Opportunity of a Lifetime’
 
 date: 2024-06-25, from: Kickin the Tires blog
@@ -226,16 +316,6 @@ date: 2024-06-25, from: Cycle World News
 We now have numbers on Great Wall’s Souo brand’s gargantuan flat-eight-powered S2000ST and S2000GL tourers. How do they compare to the Hondas they aspire to be? 
 
 <https://www.cycleworld.com/motorcycle-news/great-wall-tourers-power-and-performance-details/>
-
----
-
-## 2024 Ducati Hypermotard 698 Mono
-
-date: 2024-06-25, from: Cycle World News
-
-The 2024 Ducati Hypermotard 698 Mono is a lightweight high-revving single with made-for-fun electronics and youthful bravado. 
-
-<https://www.cycleworld.com/ducati/hypermotard-698-mono/>
 
 ---
 

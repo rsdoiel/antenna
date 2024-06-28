@@ -1,11 +1,55 @@
 ---
 title: mid central 2024.26
-updated: 2024-06-27 17:05:30
+updated: 2024-06-28 08:34:02
 ---
 
 # mid central 2024.26
 
-(date: 2024-06-27 17:05:30)
+(date: 2024-06-28 08:34:02)
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-06-28, from: Amateur Radio Relay League News
+
+<p>ASWFC GEOMAGNETIC DISTURBANCE WARNING ISSUED AT 0538UTC/28 JUNE 2024 BY THE AUSTRALIAN SPACE WEATHER FORECASTING CENTRE:<br /><br />"A glancing blow from a recent CME is expected to arrive late on UT<br />day 28-Jun. Additional to this, solar wind parameter Bz has been<br />oriented southward for approximately 15 hours. Combined this may<br />induce G1 geomagnetic conditions. A second CME is expected to arrive<br />late on UT day...</p> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-834>
+
+---
+
+## Assume nothing. Question everything.
+
+date: 2024-06-28, from: EDN Blog
+
+<img width="591" height="323" src="https://www.edn.com/wp-content/uploads/Assumptions-2.png?fit=591%2C323" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Assumptions-2.png?w=591 591w, https://www.edn.com/wp-content/uploads/Assumptions-2.png?w=300 300w" sizes="(max-width: 591px) 100vw, 591px" /><p>Debunking a near-lifelong assumption that the cans of modern D-cells were connected to the negative terminal, as they had been in the past. </p>
+<p>The post <a href="https://www.edn.com/assume-nothing-question-everything/" data-wpel-link="internal">Assume nothing. Question everything.</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/assume-nothing-question-everything/>
+
+---
+
+## Intel bolsters EMIB packaging with EDA tools enablement
+
+date: 2024-06-28, from: EDN Blog
+
+<img width="1648" height="927" src="https://www.edn.com/wp-content/uploads/Hero-iamge-Intel-Foundry.jpg?fit=1648%2C927" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-iamge-Intel-Foundry.jpg?w=1648 1648w, https://www.edn.com/wp-content/uploads/Hero-iamge-Intel-Foundry.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-iamge-Intel-Foundry.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-iamge-Intel-Foundry.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-iamge-Intel-Foundry.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-iamge-Intel-Foundry.jpg?w=1260 1260w, https://www.edn.com/wp-content/uploads/Hero-iamge-Intel-Foundry.jpg?w=800 800w" sizes="(max-width: 1648px) 100vw, 1648px" /><p>Intel has teamed up with EDA vendors to ensure that heterogenous design tools, flows and methodologies support EMIB assembly technology.</p>
+<p>The post <a href="https://www.edn.com/intel-bolsters-emib-packaging-with-eda-tools-enablement/" data-wpel-link="internal">Intel bolsters EMIB packaging with EDA tools enablement</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/intel-bolsters-emib-packaging-with-eda-tools-enablement/>
+
+---
+
+## What to expect from Athletic Director Garrett Klassy’s press conference
+
+date: 2024-06-28, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+After Fresno State parted ways with former athletic director, Terry Tumey, it took nearly three months before a new name took over as the face of the athletic department.  The announcement came via Instagram on June 21 that Garrett Klassy will be the next director of athletics.  Before coming to Fresno, Klassy was the deputy... 
+
+<https://fscollegian.com/2024/06/what-to-expect-from-athletic-director-garrett-klassys-press-conference/>
 
 ---
 
@@ -13,7 +57,7 @@ updated: 2024-06-27 17:05:30
 
 date: 2024-06-27, from: EDN Blog
 
-<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Quectel-FLM263D.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Quectel-FLM263D.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Quectel-FLM263D.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Quectel-FLM263D.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>A standalone Wi-Fi module, Quectel’s FLM263D works with the Alexa Connect Kit (ACK) SDK for Matter, enabling rapid setup with Amazon Alexa.</p>
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Quectel-FLM263D.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Quectel-FLM263D.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Quectel-FLM263D.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Quectel-FLM263D.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>A standalone Wi-Fi module, Quectel’s FLM263D works with the Alexa Connect Kit (ACK) SDK for Matter, enabling rapid setup with Amazon Alexa.</p>
 <p>The post <a href="https://www.edn.com/wi-fi-module-teams-with-alexa-connect-kit/" data-wpel-link="internal">Wi-Fi module teams with Alexa Connect Kit</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

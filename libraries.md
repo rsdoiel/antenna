@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.26
-updated: 2024-06-27 17:05:34
+updated: 2024-06-28 08:34:05
 ---
 
 # libraries 2024.26
 
-(date: 2024-06-27 17:05:34)
+(date: 2024-06-28 08:34:05)
+
+---
+
+## Mental Health Awareness — Overcoming Imposter Syndrome: A Fireside Chat with Sarah Durrant, Lead from Within (Parts 3 & 4)
+
+date: 2024-06-28, from: Scholarly Kitchen
+
+<p>A fireside chat with Sarah Durrant; independent coach and transformational teacher, on the subject of Imposter Syndrome. Today, parts 3 &#038; 4.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/06/28/mental-health-awareness-overcoming-imposter-syndrome-a-fireside-chat-with-sarah-durrant-lead-from-within-parts-3-4/">Mental Health Awareness &#8212; Overcoming Imposter Syndrome: A Fireside Chat with Sarah Durrant, Lead from Within (Parts 3 &#038; 4)</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/06/28/mental-health-awareness-overcoming-imposter-syndrome-a-fireside-chat-with-sarah-durrant-lead-from-within-parts-3-4/>
 
 ---
 

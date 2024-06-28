@@ -1,11 +1,111 @@
 ---
 title: games 2024.26
-updated: 2024-06-27 17:05:33
+updated: 2024-06-28 08:34:05
 ---
 
 # games 2024.26
 
-(date: 2024-06-27 17:05:33)
+(date: 2024-06-28 08:34:05)
+
+---
+
+## Where to get free Fantasia in FFXIV
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24188148/free-fantasia-how-to-get-where>
+
+---
+
+## The best mobile games to play in 2024
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/what-to-play/24033491/best-mobile-games-apple-arcade-netflix-android-ios>
+
+---
+
+## How to unlock facewear (glasses) in FFXIV
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24188100/unlock-facewear-glasses-exchange>
+
+---
+
+## Where to unlock Viper in FFXIV
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24186727/unlock-viper-location-how-to-quest-vpr>
+
+---
+
+## Where to unlock Pictomancer in FFXIV
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24186702/pictomancer-unlock-location-how-to-quest-pct>
+
+---
+
+## Pokémon Go ‘Whispers in the Woods’ Masterwork Research tasks and rewards so far
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24188008/whispering-in-the-woods-masterwork-research-tasks-rewards-shiny-celebi>
+
+---
+
+## Elden Ring players are normalizing using summons in the DLC
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24186549/elden-ring-dlc-shadow-erdtree-summons-mimic-tear-difficulty-hard>
+
+---
+
+## One of Denzel Washington’s best steamy thrillers is leaving Netflix
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24086727/devil-in-a-blue-dress-movie-denzel-washington-netflix-thriller-sexy>
+
+---
+
+## Magic: The Gathering reveals Foundations, a new set expressly made for beginners
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24187331/mtg-foundations-announcement-release-date-price>
+
+---
+
+## How to get a Meteorite for Mega Rayquaza in Pokémon Go
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/23844046/meteorite-mega-rayquaza-dragon-ascent>
 
 ---
 

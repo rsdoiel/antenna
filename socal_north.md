@@ -1,11 +1,73 @@
 ---
 title: socal north 2024.26
-updated: 2024-06-27 17:05:30
+updated: 2024-06-28 08:34:00
 ---
 
 # socal north 2024.26
 
-(date: 2024-06-27 17:05:30)
+(date: 2024-06-28 08:34:00)
+
+---
+
+## Analysis: 4 takeaways from the first presidential debate
+
+date: 2024-06-28, updated: 2024-06-28, from: The LAist
+
+Why so many Democrats are ringing the fire alarms after the first general-election presidential debate of 2024. 
+
+<https://laist.com/news/politics/analysis-4-takeaways-from-the-first-presidential-debate>
+
+---
+
+## California exempts transitional kindergarten students from English-language proficiency test
+
+date: 2024-06-28, updated: 2024-06-28, from: The LAist
+
+Supporters of the change said the test was designed for older students and wasn’t developmentally appropriate for 4-year-olds. 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/california-exempts-transitional-kindergarten-students-english-language-proficiency-test>
+
+---
+
+## Federal money for student internet is gone. Here’s how LAUSD is keeping families connected
+
+date: 2024-06-28, updated: 2024-06-28, from: The LAist
+
+In the early months of the pandemic, researchers estimated about one-in-three LAUSD households lacked devices or a broadband connection. 
+
+<https://laist.com/news/education/los-angeles-unified-school-district-lausd-free-wifi-internet-2024>
+
+---
+
+## Community members talk transit benefits, issues at TransportationCamp LA
+
+date: 2024-06-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+Transportation professionals, scholars and students shared their concerns about transit issues at a conference June 8.
+The structure of TransportationCamp Los Angeles – hosted by the UCLA Institute of Transportation Studies at the Luskin School of Public Affairs – differed from formal conferences, as session topics were not decided by the organizers, according to the program&#8217;s website. 
+
+<https://dailybruin.com/2024/06/27/community-members-talk-transit-benefits-issues-at-transportationcamp-la/>
+
+---
+
+## Reports: Transfer pitchers August Souza, Ian May add arms to UCLA baseball
+
+date: 2024-06-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+May and August are finding their homes with the Bruins this June.
+Rising graduate student right-hander August Souza announced his transfer to UCLA baseball on Instagram on Sunday. 
+
+<https://dailybruin.com/2024/06/27/reports-transfer-pitchers-august-souza-ian-may-add-arms-to-ucla-baseball/>
+
+---
+
+## Californians will decide — in 2024 — whether to ban slavery. What will the measure do?
+
+date: 2024-06-28, updated: 2024-06-28, from: The LAist
+
+The oil industry’s decision will mean that state rules protecting homes and schools near oil and gas wells will go into effect. The companies instead will fight them in court. 
+
+<https://laist.com/news/politics/californians-will-decide-in-2024-whether-to-ban-slavery-what-will-the-measure-do>
 
 ---
 
@@ -65,7 +127,7 @@ date: 2024-06-27, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-06-27, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated June 27 at 2:42 p.m.</em>
+<em>This post was updated June 27 at 6:05 p.m.</em>
 Coach Mick Cronin’s tutelage produced back-to-back Pac-12 Defensive Player of the Year winners – each of whom subsequently became NBA draftees.&#160;
 Former guard Jaylen Clark joined the Minnesota Timberwolves in the 2023 NBA Draft.&#160;
 And after a year as a mainstay of Cronin’s 2023-2024 lineup, former UCLA men’s basketball forward/center Adem Bona was selected No. 

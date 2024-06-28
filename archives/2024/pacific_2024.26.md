@@ -1,11 +1,552 @@
 ---
 title: pacific 2024.26
-updated: 2024-06-27 17:05:30
+updated: 2024-06-28 08:34:01
 ---
 
 # pacific 2024.26
 
-(date: 2024-06-27 17:05:30)
+(date: 2024-06-28 08:34:01)
+
+---
+
+## ‘I am absolutely voting for Donald Trump’: Undecided voters react to Biden debate performance
+
+date: 2024-06-28, updated: 2024-06-28, from: Marianas Variety
+
+(Reuters) — A group of U.S. voters who were unable to choose between Joe Biden and Donald Trump before Thursday's presidential debate delivered their verdicts after the contest and it was almost universally bad news for Biden. 
+
+<https://www.mvariety.com/news/national/i-am-absolutely-voting-for-donald-trump-undecided-voters-react-to-biden-debate-performance/article_3c7bf998-3553-11ef-b3f2-231e91b4531f.html>
+
+---
+
+## Get ready for the Hawaii International Futsal Cup!
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>After a successful inaugural year in 2023, the Hawaii International Futsal Cup is set to return &#8212; this time on the Hilo side from Aug. 9 through Aug. 11, and promises to deliver an exciting futsal tournament for both athletes and spectators from across Hawaii and Japan.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/sports/get-ready-for-the-hawaii-international-futsal-cup/>
+
+---
+
+## NBA history: Lakers draft Bronny James, who will join father LeBron
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The first round of the NBA draft at Barclays Center yielded a massive surprise with the Lakers taking Tennessee All-American Dalton Knecht with the 17th pick.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/sports/nba-history-lakers-draft-bronny-james-who-will-join-father-lebron/>
+
+---
+
+## 10-man U.S.’s Copa America hopes in the balance
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>A goal called back. An 18th-minute red card. A brilliant goal. An equalizer. A goalkeeper substitution. A penalty whistled, then called back. A devastating goal given up in the final minutes of the game. Another red card.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/sports/10-man-u-s-s-copa-america-hopes-in-the-balance/>
+
+---
+
+## Green signs bills to boost health care, health care workforce
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>A series of mental health reforms became law Thursday, and state lawmakers touted the measures as a potential solution to the state&#8217;s rampant homelessness problem.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/hawaii-news/green-signs-bills-to-boost-health-care-health-care-workforce/>
+
+---
+
+## A fumbling performance, and a panicking party
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>President Joe Biden hoped to build fresh momentum for his reelection bid by agreeing to debate two months before he is formally nominated. Instead, his halting and disjointed performance Thursday night prompted a wave of panic among Democrats and reopened discussion of whether he should be the nominee at all.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/nation-world-news/a-fumbling-performance-and-a-panicking-party/>
+
+---
+
+## Shelter to open in Hilo: 25-bed facility for homeless will be located next to The Salvation Army
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>The Salvation Army will open a shelter in downtown Hilo this summer for those experiencing homelessness.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/hawaii-news/shelter-to-open-in-hilo-25-bed-facility-for-homeless-will-be-located-next-to-the-salvation-army/>
+
+---
+
+## NTSB sanctions Boeing over release of 737 MAX investigation details
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/SEATTLE &#8212; U.S. investigators on Thursday sanctioned Boeing for revealing details of a probe into a 737 MAX mid-air blowout and said they would refer its conduct to the Justice Department, prompting the embattled planemaker to issue an apology.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/nation-world-news/ntsb-sanctions-boeing-over-release-of-737-max-investigation-details/>
+
+---
+
+## North Las Vegas gunman who killed 5 took ex-girlfriend hostage, police say
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>LAS VEGAS &#8212; The gunman who killed five people at a North Las Vegas apartment complex took his ex-girlfriend hostage after he fatally shot her daughter and the daughter&#8217;s girlfriend in her presence, police said Thursday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/nation-world-news/north-las-vegas-gunman-who-killed-5-took-ex-girlfriend-hostage-police-say/>
+
+---
+
+## Kevin Costner explains why he self-funded Western epic ‘Horizon’
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA &#8212; When Kevin Costner believes in a project that nobody else does, he has funded it himself. Sometimes, he&#8217;s hit it out of the park as in 1990&#8217;s Oscar winning film &#8220;Dances with Wolves.&#8221; Sometimes, he whiffs as in 1997&#8217;s often mocked &#8220;The Postman.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/nation-world-news/kevin-costner-explains-why-he-self-funded-western-epic-horizon/>
+
+---
+
+## Biden stumbles early, Trump fires out falsehoods at first debate
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA &#8212; Democratic President Joe Biden delivered a shaky performance at Thursday&#8217;s debate while his Republican rival Donald Trump battered him with a series of often false attacks, as the two oldest presidential candidates ever exchanged deeply personal insults ahead of November&#8217;s U.S. election.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/nation-world-news/biden-stumbles-early-trump-fires-out-falsehoods-at-first-debate/>
+
+---
+
+## Supreme Court allows, for now, emergency abortions in Idaho
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court said Thursday that it would dismiss a case about emergency abortions in Idaho, temporarily clearing the way for women in the state to receive an abortion when their health is at risk.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/nation-world-news/supreme-court-allows-for-now-emergency-abortions-in-idaho/>
+
+---
+
+## Iran holds presidential vote with limited choices
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>DUBAI &#8212; Iranians will vote for a new president today following Ebrahim Raisi&#8217;s death in a helicopter crash, choosing from a tightly controlled group of four candidates loyal to the supreme leader, at a time of growing public frustration.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/nation-world-news/iran-holds-presidential-vote-with-limited-choices/>
+
+---
+
+## NFL hit with $4.7 billion verdict in ‘Sunday Ticket’ antitrust trial
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>The National Football League must pay more than $4.7 billion in class-action damages for overcharging subscribers of its &#8220;Sunday Ticket&#8221; telecasts, a California federal jury said on Thursday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/nation-world-news/nfl-hit-with-4-7-billion-verdict-in-sunday-ticket-antitrust-trial/>
+
+---
+
+## Supreme Court blocks Biden plan on air pollution
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (NYT) &#8212; The Supreme Court temporarily put on hold Thursday an Environmental Protection Agency plan to curtail air pollution that drifts across state lines, dealing another blow to the Biden administration&#8217;s efforts to protect the environment.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/nation-world-news/supreme-court-blocks-biden-plan-on-air-pollution/>
+
+---
+
+## Supreme Court jeopardizes opioid deal, rejecting protections for Sacklers
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court said Thursday that members of the Sackler family cannot be shielded from liability for civil claims related to the opioid epidemic, jeopardizing a bankruptcy plan that would have offered such protection in exchange for channeling billions of dollars toward addressing the crisis.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/nation-world-news/supreme-court-jeopardizes-opioid-deal-rejecting-protections-for-sacklers/>
+
+---
+
+## Kenny T shares bill with Makaha Sons at South Kona Summer Jam
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>It&#8217;s rare, even locally, that someone in their 40s bursts onto the music scene, but Kenny Tagavilla is the exception.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/hawaii-news/kenny-t-shares-bill-with-makaha-sons-at-south-kona-summer-jam/>
+
+---
+
+## Should ‘skiplagging’ to get a cheaper flight be banned?
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>Summer air travel is in full swing, and people are getting ticket shock at what it costs to fly.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/opinion/should-skiplagging-to-get-a-cheaper-flight-be-banned/>
+
+---
+
+## Are the Ten Commandments the basis of our moral system?
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>The governor of Louisiana just signed a law requiring the Ten Commandments to be displayed in public schools.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/opinion/are-the-ten-commandments-the-basis-of-our-moral-system/>
+
+---
+
+## Pride Festival returns, but no parade this year in downtown Hilo
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Island&#8217;s LGBTQ+ community on Saturday will hold the annual Pride Festival in Hilo &#8212; but without the parade.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/hawaii-news/pride-festival-returns-but-no-parade-this-year-in-downtown-hilo/>
+
+---
+
+## It's Summer on Guam
+
+date: 2024-06-28, from: Guam Daily Post
+
+It's Summer time on Guam as seen at Inalåhan Pools on Thursday, June 27, 2024. 
+
+<https://www.postguam.com/news/its-summer-on-guam/article_10fbfb7a-3502-11ef-a818-d7580391e610.html>
+
+---
+
+## Moratorium provision still rejected as other amendments pass for Bill 175
+
+date: 2024-06-28, from: Guam Daily Post
+
+After a fairly contentious Thursday morning, a few amendments for Bill 175-37 did manage to pass the Guam Legislature in the afternoon. However, despite agreeing to reconsider a moratorium provision in cases of increased nitrate contamination, lawmakers still ended up… 
+
+<https://www.postguam.com/news/moratorium-provision-still-rejected-as-other-amendments-pass-for-bill-175/article_81c66cda-34eb-11ef-989e-0bde3be09874.html>
+
+---
+
+## Man, 32, found guilty of repeated sex assaults of girl, 13
+
+date: 2024-06-28, from: Guam Daily Post
+
+A 32-year-old man was found guilty of several counts of first- and second-degree criminal sexual conduct charges related to repeated sexual assaults of a 13-year-old girl. 
+
+<https://www.postguam.com/news/man-32-found-guilty-of-repeated-sex-assaults-of-girl-13/article_58bd81fa-34ed-11ef-ac30-5f6d78101988.html>
+
+---
+
+## OAG: Teen charged in fatal crash was drunk, driving 78 mph
+
+date: 2024-06-28, from: Guam Daily Post
+
+A 17-year-old boy charged with vehicular homicide allegedly did not know how to drive and took several shots of vodka before a fatal car crash earlier this month. 
+
+<https://www.postguam.com/news/oag-teen-charged-in-fatal-crash-was-drunk-driving-78-mph/article_38788060-34e9-11ef-84bf-738eae422835.html>
+
+---
+
+## Repeat sex offender sentenced to 25 years
+
+date: 2024-06-28, from: Guam Daily Post
+
+A sex offender was sentenced to serve 25 years in prison for raping and abducting a 10-year-old girl in 2019. 
+
+<https://www.postguam.com/news/repeat-sex-offender-sentenced-to-25-years/article_6ff59670-34e6-11ef-a305-43c28ab29fd3.html>
+
+---
+
+## Bill 318 supports Guahan Doula Project
+
+date: 2024-06-28, from: Guam Daily Post
+
+Guam has a high maternal mortality and infant mortality rate with most pregnancy-related deaths being preventable as the island suffers from a shortage of obstetricians and gynecologists. But a bill introduced on Wednesday hopes to direct funding towards the Guahan… 
+
+<https://www.postguam.com/news/bill-318-supports-guahan-doula-project/article_7d158370-3440-11ef-96e0-0bfce345e9cb.html>
+
+---
+
+## Off-Island specialists to host medical outreach event Saturday
+
+date: 2024-06-28, from: Guam Daily Post
+
+This Saturday, island residents who are underinsured or have no health insurance have a unique opportunity to ask a group of specialists ranging from lifestyle wellness, mental health and pulmonary health to asthma and allergy, any burning questions they may… 
+
+<https://www.postguam.com/news/off-island-specialists-to-host-medical-outreach-event-saturday/article_45caafbe-3501-11ef-a386-bfc2fcf2191d.html>
+
+---
+
+## Bill seeks to pave the way for more  duty-free concessions at Guam airport 
+
+date: 2024-06-28, from: Pacific Island Times
+
+By Pacific Island Times News Staff A Republican senator is proposing to authorize the A.B. Won Pat International Airport Authority to... 
+
+<https://www.pacificislandtimes.com/post/bill-seeks-to-pave-the-way-for-more-duty-free-concessions-at-guam-airport>
+
+---
+
+## Palau’s forests see widespread death of Uduiud Trees
+
+date: 2024-06-28, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/manilkaraudoidO.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/manilkaraudoidO.jpg?w=1260&amp;ssl=1 1260w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/manilkaraudoidO.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/manilkaraudoidO.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/manilkaraudoidO.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/manilkaraudoidO.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/manilkaraudoidO.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/manilkaraudoidO.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/manilkaraudoidO.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71010" data-permalink="https://islandtimes.org/palaus-forests-see-widespread-death-of-uduiud-trees/manilkara-udoido/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/manilkaraudoidO.jpg?fit=1260%2C840&amp;ssl=1" data-orig-size="1260,840" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Ellai&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;Manilkara udoido&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Manilkara udoido" data-image-description="" data-image-caption="&lt;p&gt;(Photo credit: Jason Johnson, Plant Pathologist and Forest Health Specialist in&lt;br /&gt;
+the Republic of Palau)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/manilkaraudoidO.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/manilkaraudoidO.jpg?fit=780%2C520&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>PALAU — A peculiar phenomenon is occurring in the forests of Palau, particularly in the states of Aimeliik, Airai, Ngchesar, and Ngaptang. Hundreds of uduiud trees, also known as malinkara udoido, have been turning gray, shedding leaves, and dying over the past three years, according to a report from Palau’s Division of Forest, Land, and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-forests-see-widespread-death-of-uduiud-trees/">Palau&#8217;s forests see widespread death of Uduiud Trees</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palaus-forests-see-widespread-death-of-uduiud-trees/>
+
+---
+
+## Palau, U.S. discuss economic priorities at annual economic consultations
+
+date: 2024-06-28, from: Island Times
+
+<figure><img width="1024" height="480" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-US-Economic-Consultation.jpg?fit=1024%2C480&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-US-Economic-Consultation.jpg?w=1236&amp;ssl=1 1236w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-US-Economic-Consultation.jpg?resize=300%2C141&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-US-Economic-Consultation.jpg?resize=1024%2C480&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-US-Economic-Consultation.jpg?resize=768%2C360&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-US-Economic-Consultation.jpg?resize=1200%2C562&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-US-Economic-Consultation.jpg?resize=400%2C187&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-US-Economic-Consultation.jpg?resize=706%2C331&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-US-Economic-Consultation.jpg?fit=1024%2C480&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71007" data-permalink="https://islandtimes.org/palau-u-s-discuss-economic-priorities-at-annual-economic-consultations/palau-us-economic-consultation/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-US-Economic-Consultation.jpg?fit=1236%2C579&amp;ssl=1" data-orig-size="1236,579" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1719395723&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;5.23&quot;,&quot;iso&quot;:&quot;500&quot;,&quot;shutter_speed&quot;:&quot;0.025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Palau-US Economic Consultation" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-US-Economic-Consultation.jpg?fit=300%2C141&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Palau-US-Economic-Consultation.jpg?fit=780%2C366&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>The U.S. Department of the Interior and Palau held their first bilateral economic consultations since the passage of the Compact Review Agreement (CRA) of 2023 on June 26, 2024, at the Palau Pacific Resort. The consultations aimed to review Palau&#8217;s progress in achieving reforms outlined in the CRA, which is designed to support the island [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-u-s-discuss-economic-priorities-at-annual-economic-consultations/">Palau, U.S. discuss economic priorities at annual economic consultations</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-u-s-discuss-economic-priorities-at-annual-economic-consultations/>
+
+---
+
+## Palau faces major challenge in halting outmigration
+
+date: 2024-06-28, from: Island Times
+
+<p>Stopping the outmigration of Palauans is one of the biggest challenges Palau faces, President Surangel Whipps Jr. said at a press conference on Wednesday, June 26, 2024. &#8220;More than half of the Palauan population has migrated out of Palau since the Compact of Free Association with the United States came into force,&#8221; Whipps stated. He [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-faces-major-challenge-in-halting-outmigration/">Palau faces major challenge in halting outmigration</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-faces-major-challenge-in-halting-outmigration/>
+
+---
+
+## Local production incentive program to launch July 1, supporting livestock and aquaculture
+
+date: 2024-06-28, from: Island Times
+
+<p>Minister Steven Victor of the Ministry of Agriculture, Fisheries and Environment announced this week that the Local Production Incentive Program will launch on July 1, 2024. Aimed at supporting commercial production of livestock and aquaculture products, the program will subsidize feed for livestock producers and offer discounts for slaughtering pigs at the national slaughterhouse. The [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/local-production-incentive-program-to-launch-july-1-supporting-livestock-and-aquaculture/">Local production incentive program to launch July 1, supporting livestock and aquaculture</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/local-production-incentive-program-to-launch-july-1-supporting-livestock-and-aquaculture/>
+
+---
+
+## Team Palau celebrates Micro Games Medals, highlights importance of training
+
+date: 2024-06-28, from: Island Times
+
+<p>By: Marissa Dilmeang Spires Palauan athletes who competed in the 2024 Micro Games in the Marshall Islands shared their experiences and takeaways from the competition. Team Accomplishments Team Palau finished fourth overall, bringing home 116 medals. Weightlifter Roxanne highlighted the team&#8217;s success in weightlifting, winning 28 medals. Athlete Mary, competing in athletics, noted their achievement [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/team-palau-celebrates-micro-games-medals-highlights-importance-of-training/">Team Palau celebrates Micro Games Medals, highlights importance of training</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/team-palau-celebrates-micro-games-medals-highlights-importance-of-training/>
+
+---
+
+## US Army’s new precision missilehit moving target in Pacific exercise
+
+date: 2024-06-28, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pg4.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pg4.jpg?w=1236&amp;ssl=1 1236w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pg4.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pg4.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pg4.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pg4.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pg4.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pg4.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pg4.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70998" data-permalink="https://islandtimes.org/us-armys-new-precision-missilehit-moving-target-in-pacific-exercise/pg4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pg4.jpg?fit=1236%2C824&amp;ssl=1" data-orig-size="1236,824" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="pg4" data-image-description="" data-image-caption="&lt;p&gt;The U.S. Army launched its Precision Strike Missile for the first time outside of U.S. territory during Valiant Shield in Palau. PrSM successfully engaged a maritime target off the coast. (Photo courtesy of the U.S. Army)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pg4.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/pg4.jpg?fit=780%2C520&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By Jen Judson The U.S. Army said it fired its&#160;newly fielded Precision Strike Missile&#160;from the Pacific island of Palau and engaged a moving target at sea, marking the first time the weapon has been used outside of American-based testing sites. The first set of&#160;Precision Strike Missiles, or PrSM, were delivered to the Army in&#160;December 2023&#160;to begin replacing [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/us-armys-new-precision-missilehit-moving-target-in-pacific-exercise/">US Army’s new precision missilehit moving target in Pacific exercise</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/us-armys-new-precision-missilehit-moving-target-in-pacific-exercise/>
+
+---
+
+## Pursuing What Really Matters in Life
+
+date: 2024-06-28, from: Island Times
+
+<figure><img width="400" height="378" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="65054" data-permalink="https://islandtimes.org/intimacy-gone-bad-2/womens-corner-1-7/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" data-orig-size="400,378" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>“I used to fear failing at things that truly mattered to me, but now I find myself more afraid of succeeding at things that don’t matter.” -Bob Goff Our attention shapes our lives in profound ways. It’s not simply about achieving success or avoiding failure; it’s about what we choose to invest ourselves in. Often, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pursuing-what-really-matters-in-life/">Pursuing What Really Matters in Life</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/pursuing-what-really-matters-in-life/>
+
+---
+
+## First J-PRISM 3 Steering Committee Meeting highlights waste management successes in the Pacific
+
+date: 2024-06-28, from: Island Times
+
+<p>APIA (SPREP)&#8212;The management of solid waste has become one of the major concerns for small island countries in the Pacific region.  In particular, improper waste management has the potential to pose a significant negative impact on public health, water and food supply, ecosystems, tourism and trade, availability of resources and climate change, which threatens sustainable [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/first-j-prism-3-steering-committee-meeting-highlights-waste-management-successes-in-the-pacific/">First J-PRISM 3 Steering Committee Meeting highlights waste management successes in the Pacific</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/first-j-prism-3-steering-committee-meeting-highlights-waste-management-successes-in-the-pacific/>
+
+---
+
+## PVA  representative in Australia, Ms.  Potts, visits industry partners in Palau
+
+date: 2024-06-28, from: Island Times
+
+<figure><img width="1024" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?fit=1024%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?w=1636&amp;ssl=1 1636w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?resize=1536%2C1536&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?resize=1200%2C1200&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?resize=1568%2C1568&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?fit=1024%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70990" data-permalink="https://islandtimes.org/pva-representative-in-australia-ms-potts-visits-industry-partners-in-palau/pva-image/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?fit=1636%2C1636&amp;ssl=1" data-orig-size="1636,1636" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="PVA Image" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/PVA-Image.png?fit=780%2C780&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Koror, Palau – Ms. Caroline Potts, the PVA representative in Australia from GTI Australia, visited Palau on the inaugural Palau Paradise Express flight on May 22, 2024. Her visit aimed to strengthen industry partnerships and gain insights into the tourism industry to better market Palau to the Australian market, leveraging the new direct routes from [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pva-representative-in-australia-ms-potts-visits-industry-partners-in-palau/">PVA  representative in Australia, Ms.  Potts, visits industry partners in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/pva-representative-in-australia-ms-potts-visits-industry-partners-in-palau/>
+
+---
+
+## Palau and Japan collaborate to establish eco-friendly transportation system
+
+date: 2024-06-28, from: Island Times
+
+<figure><img width="824" height="458" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/JICA-Project.jpg?fit=824%2C458&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/JICA-Project.jpg?w=824&amp;ssl=1 824w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/JICA-Project.jpg?resize=300%2C167&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/JICA-Project.jpg?resize=768%2C427&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/JICA-Project.jpg?resize=400%2C222&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/JICA-Project.jpg?resize=706%2C392&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/JICA-Project.jpg?fit=824%2C458&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70987" data-permalink="https://islandtimes.org/palau-and-japan-collaborate-to-establish-eco-friendly-transportation-system-3/jica-project-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/JICA-Project.jpg?fit=824%2C458&amp;ssl=1" data-orig-size="824,458" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Tansawat Tithiwach&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="JICA Project" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/JICA-Project.jpg?fit=300%2C167&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/JICA-Project.jpg?fit=780%2C434&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>The Joint Coordinating Committee (JCC) for the &#8220;Project for Establishing an Eco-friendly Transportation System&#8221; held its fourth meeting on June 19, 2024, at the JICA Palau Office. The meeting, from 13:30 to 15:30 Palau Time, brought together key stakeholders from Palau and Japan to review progress and discuss future plans for enhancing public transportation in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-and-japan-collaborate-to-establish-eco-friendly-transportation-system-3/">Palau and Japan collaborate to establish eco-friendly transportation system</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-and-japan-collaborate-to-establish-eco-friendly-transportation-system-3/>
+
+---
+
+## From overfished to sustainable harvests: Pacific Bluefin Tuna rebound to new highs
+
+date: 2024-06-28, from: Island Times
+
+<p>HONOLULU (NOAA) &#8212; The recovery of Pacific bluefin tuna has achieved a major milestone—the species exceeded international targets a decade ahead of schedule. The rebuilding of Pacific bluefin tuna reflects a fisheries management success. International organisations cooperated across the Pacific to reverse decades of overfishing for the prized species. The International Scientific Committee for Tuna [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/from-overfished-to-sustainable-harvests-pacific-bluefin-tuna-rebound-to-new-highs/">From overfished to sustainable harvests: Pacific Bluefin Tuna rebound to new highs</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/from-overfished-to-sustainable-harvests-pacific-bluefin-tuna-rebound-to-new-highs/>
+
+---
+
+## U.S Missile defense experts coming to Guam to spell out the scope of flight tests
+
+date: 2024-06-28, from: Island Times
+
+<p>HAGATNA (PACIFIC ISLAND TIMES) &#8212;U. S missile defence experts will come to Guam next month to explain the scope of the proposed flight tests designed to assess the suitability of the tracking and interceptive system on island, a military official said. “This is a system that is going to be unique for Guam. It’s a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-missile-defense-experts-coming-to-guam-to-spell-out-the-scope-of-flight-tests/">U.S Missile defense experts coming to Guam to spell out the scope of flight tests</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/u-s-missile-defense-experts-coming-to-guam-to-spell-out-the-scope-of-flight-tests/>
+
+---
+
+## WikiLeaks founder Julian Assange returns to Australia a free man after US legal battle ends
+
+date: 2024-06-28, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Wikileaks-founder.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Wikileaks-founder.jpg?w=1236&amp;ssl=1 1236w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Wikileaks-founder.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Wikileaks-founder.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Wikileaks-founder.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Wikileaks-founder.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Wikileaks-founder.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Wikileaks-founder.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Wikileaks-founder.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70979" data-permalink="https://islandtimes.org/wikileaks-founder-julian-assange-returns-to-australia-a-free-man-after-us-legal-battle-ends/wikileaks-founder/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Wikileaks-founder.jpg?fit=1236%2C824&amp;ssl=1" data-orig-size="1236,824" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;Rick Rycroft&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;WikiLeaks founder Julian Assange gestures after landing at RAAF air base Fairbairn in Canberra, Australia, Wednesday, June 26 2024. Assange has returned to his homeland Australia aboard a charter jet hours after pleading guilty to obtaining and publishing U.S. military secrets in a deal with Justice Department prosecutors that concludes a drawn-out legal saga.(AP Photo\/Rick Rycroft)&quot;,&quot;created_timestamp&quot;:&quot;1719431854&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;560&quot;,&quot;iso&quot;:&quot;20000&quot;,&quot;shutter_speed&quot;:&quot;0.003125&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Wikileaks founder" data-image-description="" data-image-caption="&lt;p&gt;WikiLeaks founder Julian Assange gestures after landing at RAAF air base Fairbairn in Canberra, Australia, Wednesday, June 26 2024. Assange has returned to his homeland Australia aboard a charter jet hours after pleading guilty to obtaining and publishing U.S. military secrets in a deal with Justice Department prosecutors that concludes a drawn-out legal saga.(AP Photo/Rick Rycroft)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Wikileaks-founder.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Wikileaks-founder.jpg?fit=780%2C520&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By RICK RYCROFT and ROD McGUIRK Associated Press CANBERRA, Australia (AP) — WikiLeaks founder&#160;Julian Assange&#160;returned to his homeland Australia aboard a charter jet and raised a celebratory clenched fist as his supporters cheered Wednesday after he&#160;pleaded guilty&#160;to obtaining and publishing U.S. military secrets in a deal with Justice Department prosecutors that concludes a drawn-out legal [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/wikileaks-founder-julian-assange-returns-to-australia-a-free-man-after-us-legal-battle-ends/">WikiLeaks founder Julian Assange returns to Australia a free man after US legal battle ends</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/wikileaks-founder-julian-assange-returns-to-australia-a-free-man-after-us-legal-battle-ends/>
+
+---
+
+## Australian man Robert Trott sentenced to 11 years prison in Timor Leste for child sex abuse
+
+date: 2024-06-28, from: Island Times
+
+<p>By South-East Asia correspondent&#160;Bill Birtles&#160;and Zevonia Vieira (ABC-Australia) An Australian man has been sentenced to 11 years in jail in Timor Leste after he was convicted of abusing a girl under the age of 12. Robert Trott, 76, was found guilty on two counts of aggravated sexual abuse of a minor by a panel of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/australian-man-robert-trott-sentenced-to-11-years-prison-in-timor-leste-for-child-sex-abuse/">Australian man Robert Trott sentenced to 11 years prison in Timor Leste for child sex abuse</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/australian-man-robert-trott-sentenced-to-11-years-prison-in-timor-leste-for-child-sex-abuse/>
+
+---
+
+## Historic NBA draft for France, which joins US as only country with 3 players within top 10 picks
+
+date: 2024-06-28, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Historic-NBA.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Historic-NBA.jpg?w=1236&amp;ssl=1 1236w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Historic-NBA.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Historic-NBA.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Historic-NBA.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Historic-NBA.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Historic-NBA.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Historic-NBA.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Historic-NBA.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70974" data-permalink="https://islandtimes.org/historic-nba-draft-for-france-which-joins-us-as-only-country-with-3-players-within-top-10-picks/historic-nba/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Historic-NBA.jpg?fit=1236%2C824&amp;ssl=1" data-orig-size="1236,824" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Julia Nikhinson&quot;,&quot;camera&quot;:&quot;ILCE-9M3&quot;,&quot;caption&quot;:&quot;Alex Sarr, right, greets NBA commissioner Adam Silver after being selected as the second pick in the NBA basketball draft during the first round by the Washington Wizards, Wednesday, June 26, 2024, in New York. (AP Photo\/Julia Nikhinson)&quot;,&quot;created_timestamp&quot;:&quot;1719433228&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;200&quot;,&quot;iso&quot;:&quot;2500&quot;,&quot;shutter_speed&quot;:&quot;0.002&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Historic NBA" data-image-description="" data-image-caption="&lt;p&gt;Alex Sarr, right, greets NBA commissioner Adam Silver after being selected as the second pick in the NBA basketball draft during the first round by the Washington Wizards, Wednesday, June 26, 2024, in New York. (AP Photo/Julia Nikhinson)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Historic-NBA.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Historic-NBA.jpg?fit=780%2C520&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By TERESA M. WALKER AP Sports Writer The&#160;NBA&#160;may have to rethink the timing of its annual draft. Not the month, but a tweak to the hour the picks start coming off the board. Paris is six hours ahead of New York, so French basketball fans eager to see history had to stay up into the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/historic-nba-draft-for-france-which-joins-us-as-only-country-with-3-players-within-top-10-picks/">Historic NBA draft for France, which joins US as only country with 3 players within top 10 picks</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/historic-nba-draft-for-france-which-joins-us-as-only-country-with-3-players-within-top-10-picks/>
+
+---
+
+## Guam doula project gains bipartisan support
+
+date: 2024-06-28, from: Pacific Island Times
+
+By Jayvee Vallejera . This early, a newly introduced bill that aims to lower maternal and infant mortality on Guam by training doulas as... 
+
+<https://www.pacificislandtimes.com/post/guam-doula-project-gains-bipartisan-support>
+
+---
+
+## A ‘disaster’: Biden's shaky start in debate with Trump rattles Democrats
+
+date: 2024-06-28, updated: 2024-06-28, from: Marianas Variety
+
+(Reuters) — President Joe Biden's supporters had hoped Thursday night's debate would erase worries that the 81-year-old was too old to serve another term, but his hoarse voice and at times tentative performance against Republican rival Donald Trump did the opposite. 
+
+<https://www.mvariety.com/news/national/a-disaster-bidens-shaky-start-in-debate-with-trump-rattles-democrats/article_026d09a2-350a-11ef-872d-2f9e8a57c8f1.html>
+
+---
+
+## PTI survey: Pacific export revenue returns to pre-pandemic levels 
+
+date: 2024-06-28, from: Pacific Island Times
+
+By Mar-Vic Cagurangan The Pacific island region's export industry has recovered its pre-pandemic-level performance, posting a 49 percent... 
+
+<https://www.pacificislandtimes.com/post/pti-survey-pacific-export-revenue-returns-to-pre-pandemic-levels>
 
 ---
 
@@ -28,6 +569,86 @@ date: 2024-06-27, from: Marshal Islands Journal
  
 
 <https://marshallislandsjournal.com/nuclear-suit-vetoed-in-us/>
+
+---
+
+## Variations ǀ Repent!
+
+date: 2024-06-27, updated: 2024-06-27, from: Marianas Variety
+
+ON Feb. 22, 2024, the governor sat down for an interview with the Foundation for Defense of Democracies in Washington, D.C. FDD describes itself as “a nonpartisan 501(c)(3) research institute focusing on national security and foreign policy.” FDD said it does not accept donations from any foreign governments. Others say FDD is “neoconservative” and “part of the Israel lobby in the U.S.” 
+
+<https://www.mvariety.com/views/columnists/variations-repent/article_9944f3c2-3496-11ef-bb07-2fe1e5e0515c.html>
+
+---
+
+## Men's Mental Health Awareness Month
+
+date: 2024-06-27, updated: 2024-06-27, from: Marianas Variety
+
+AS June comes to a close, so does Men's Mental Health Awareness Month. This month has reminded us of the unique challenges men face in maintaining mental wellness and the need to address these issues openly. However, even as this dedicated month wraps up, our awareness and efforts should continue throughout the year. Breaking the stigma around men's mental health, promoting open discussions, and encouraging men to seek help must remain ongoing priorities. 
+
+<https://www.mvariety.com/views/letters_to_editor/mens-mental-health-awareness-month/article_875fb2c2-3497-11ef-a574-17f956c2a0b6.html>
+
+---
+
+## Chamolinian duo wins 2024 Walmart talent search
+
+date: 2024-06-27, updated: 2024-06-27, from: Marianas Variety
+
+SAIPAN-BORN Juanette “Nette” Villagomez and Leischeng “Lei” Saures took their Chamorro-Carolinian roots to a new level by winning the 2024 Walmart Associate Talent Search. 
+
+<https://www.mvariety.com/news/local/chamolinian-duo-wins-2024-walmart-talent-search/article_92360cbe-3474-11ef-b396-a38ff9ffbf44.html>
+
+---
+
+## MANGO hosts workshop on starting a nonprofit
+
+date: 2024-06-27, updated: 2024-06-27, from: Marianas Variety
+
+THE Marianas Alliance of Non-Government Organizations or MANGO conducted a “What is a Nonprofit?” workshop at its Gualo Rai office on Wednesday, June 26. 
+
+<https://www.mvariety.com/news/local/mango-hosts-workshop-on-starting-a-nonprofit/article_08425060-3444-11ef-8d6c-432c79c1a5f8.html>
+
+---
+
+## House confirms Angello to CPUC
+
+date: 2024-06-27, updated: 2024-06-27, from: Marianas Variety
+
+THE House of Representatives on Tuesday unanimously adopted Joint Standing Committee Report 23-1, confirming the reappointment of Dr. John A. “Jack” Angello to the Commonwealth Public Utilities Commission. 
+
+<https://www.mvariety.com/news/local/house-confirms-angello-to-cpuc/article_81d6acb2-3464-11ef-a673-ab434926c81d.html>
+
+---
+
+## This and that
+
+date: 2024-06-27, updated: 2024-06-27, from: Marianas Variety
+
+A better workforce ‘plan’ 
+
+<https://www.mvariety.com/views/editorials/this-and-that/article_01f2438a-3496-11ef-9325-23eb13b16b5f.html>
+
+---
+
+## MLB roundup: Rookie Gavin Stone, Dodgers blank White Sox
+
+date: 2024-06-27, updated: 2024-06-27, from: Marianas Variety
+
+(Reuters) — Rookie Gavin Stone pitched a four-hit, complete-game shutout and Shohei Ohtani smacked his National League-best 25th home run as the visiting Los Angeles Dodgers beat the Chicago White Sox 4-0 on Wednesday to complete a three-game sweep. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-rookie-gavin-stone-dodgers-blank-white-sox/article_66032f98-3495-11ef-b3ec-03872d68ebc9.html>
+
+---
+
+## Celebrating community commitment this 4th of July
+
+date: 2024-06-27, updated: 2024-06-27, from: Marianas Variety
+
+AS the Postmaster of Saipan, I am writing to express the unwavering commitment of our postal staff to serving our wonderful community. With the 4th of July approaching, a time when we celebrate our nation's independence and the freedoms we cherish, it is also a fitting moment to reflect on the values that bind us together. 
+
+<https://www.mvariety.com/views/letters_to_editor/celebrating-community-commitment-this-4th-of-july/article_40076348-3497-11ef-a3e2-cfb39ecc982c.html>
 
 ---
 
@@ -372,6 +993,106 @@ date: 2024-06-27, from: Marshal Islands Journal
  
 
 <https://marshallislandsjournal.com/where-have-they-all-gone/>
+
+---
+
+## Manny Tagle is the last man standing
+
+date: 2024-06-27, from: Guam Daily Post
+
+Third seed Manny Tagle put up eight strikes in a row to deny top seed Zaldy Ponce a second straight senior title with a 315-198 total, including handicap and bonus points Sunday afternoon at Central Lanes Bowling Center. 
+
+<https://www.postguam.com/sports/local/manny-tagle-is-the-last-man-standing/article_4e0e55de-33ff-11ef-81dc-0316cd920658.html>
+
+---
+
+## Amphibious Aquatics opens summer registration for Drown-Free Guåhan Initiative
+
+date: 2024-06-27, from: Guam Daily Post
+
+Registration is open for Amphibious Aquatics' summer session water safety initiative, which launched in early 2024. In an effort to increase capacity and combat Guam's devastating statistic of now more than one fatal drowning a month, summer registration is open… 
+
+<https://www.postguam.com/sports/local/amphibious-aquatics-opens-summer-registration-for-drown-free-gu-han-initiative/article_33f88e68-3408-11ef-a636-9b36ca8e544c.html>
+
+---
+
+## Young soccer players learn about mental health
+
+date: 2024-06-27, from: Guam Daily Post
+
+For young Guam national program athletes, understanding the concept of good mental health and wellness among teammates and its contribution to both individual and team success on the pitch is significant for success in the sport. 
+
+<https://www.postguam.com/sports/local/young-soccer-players-learn-about-mental-health/article_d82432a0-33fc-11ef-a14b-d70dd45493d4.html>
+
+---
+
+## Marianas Pro Korea concludes tournament
+
+date: 2024-06-27, from: Guam Daily Post
+
+The Marianas Pro Korea concluded its 2024 tournament with a sold-out event, setting the stage for the highly anticipated Marianas Open International Championship in Guam. Competitors from Guam and the Commonwealth of the Northern Mariana Islands faced fierce international contenders,… 
+
+<https://www.postguam.com/sports/local/marianas-pro-korea-concludes-tournament/article_c39d8610-3401-11ef-8889-5f15e93d4fb4.html>
+
+---
+
+## 3 arrested on suspicion of fuel theft
+
+date: 2024-06-27, from: Guam Daily Post
+
+Three men have been arrested and charged in connection to drilling holes into fuel tanks of cars and draining the tanks. 
+
+<https://www.postguam.com/news/local/3-arrested-on-suspicion-of-fuel-theft/article_42d8a800-3426-11ef-be34-4f86e180094c.html>
+
+---
+
+## 2017 homicide suspect to plead guilty
+
+date: 2024-06-27, from: Guam Daily Post
+
+A man charged in connection to a 2017 homicide has agreed to plead guilty. 
+
+<https://www.postguam.com/news/local/2017-homicide-suspect-to-plead-guilty/article_12005816-3414-11ef-acf1-27a1578f81bc.html>
+
+---
+
+## GPD investigating school break-ins
+
+date: 2024-06-27, from: Guam Daily Post
+
+The Guam Police Department is investigating reports of numerous school break-ins from this week. 
+
+<https://www.postguam.com/news/local/gpd-investigating-school-break-ins/article_3867184c-342c-11ef-ad64-7bed06c74b64.html>
+
+---
+
+## Man accused of meth possession after stopping car in front of police
+
+date: 2024-06-27, from: Guam Daily Post
+
+A man allegedly had methamphetamine in his car, which he said belonged to the Humåtak mayor and a former attorney general. 
+
+<https://www.postguam.com/news/local/man-accused-of-meth-possession-after-stopping-car-in-front-of-police/article_0bd84eba-341b-11ef-916c-df450c63fc51.html>
+
+---
+
+## Senators debate contested bill
+
+date: 2024-06-27, from: Guam Daily Post
+
+It was a lively - if sometimes heated - Thursday morning at the session hall of the Guam Congress Building as lawmakers proceeded to debate Bill 175-37, the measure proposing changes to Guam's sewage laws to better accommodate land development.… 
+
+<https://www.postguam.com/news/local/senators-debate-contested-bill/article_1365f728-3415-11ef-878c-23180ba45408.html>
+
+---
+
+## 17-year-old boy in custody, suspected of vehicular homicide in Hagåtña crash
+
+date: 2024-06-27, from: Guam Daily Post
+
+A 17-year-old boy has been arrested in connection to a fatal traffic crash on June 12 in Hagåtña. 
+
+<https://www.postguam.com/news/local/17-year-old-boy-in-custody-suspected-of-vehicular-homicide-in-hag-t-a-crash/article_ac501e82-3410-11ef-b4ab-371c2ffdc0fa.html>
 
 ---
 
@@ -883,6 +1604,96 @@ date: 2024-06-26, from: Pacific Island Times
 By Mar-Vic Cagurangan Missile defense experts will come to Guam next month to explain the scope of the proposed flight tests designed to... 
 
 <https://www.pacificislandtimes.com/post/missile-defense-experts-coming-to-guam-to-spell-out-the-scope-of-flight-tests>
+
+---
+
+## JTF-Micronesia commander: setting posture through region a critical task
+
+date: 2024-06-26, from: Guam Daily Post
+
+The creation of Joint Task Force-Micronesia is about a commitment to Guam and the region, and to ensuring the stability and security of a free and open Pacific, JTF-Micronesia commander Rear Adm. Gregory Huffman told members of the Rotary Club… 
+
+<https://www.postguam.com/news/jtf-micronesia-commander-setting-posture-through-region-a-critical-task/article_18c71a8a-32c6-11ef-bef5-bf2b9e13d464.html>
+
+---
+
+## Assange pleads guilty in Saipan
+
+date: 2024-06-26, from: Guam Daily Post
+
+WikiLeaks founder Julian Assange pleaded guilty in Saipan to a charge related to unlawfully obtaining and releasing classified national defense documents. 
+
+<https://www.postguam.com/news/local/assange-pleads-guilty-in-saipan/article_4f290334-336d-11ef-9ff9-b75bb989ede3.html>
+
+---
+
+## GPD to direct traffic at Tamuning intersection while lights are down
+
+date: 2024-06-26, from: Guam Daily Post
+
+Police officers will be present at a Tamuning intersection during peak traffic hours while downed traffic lights are being repaired. 
+
+<https://www.postguam.com/news/local/gpd-to-direct-traffic-at-tamuning-intersection-while-lights-are-down/article_d0cd26d8-334d-11ef-bf20-13f7aaea0ca0.html>
+
+---
+
+## Lawyers prepare for Ramangmou infant homicide trial next month
+
+date: 2024-06-26, from: Guam Daily Post
+
+Attorneys are prepared to start trial in the case of a woman accused in the death of her baby. 
+
+<https://www.postguam.com/news/local/lawyers-prepare-for-ramangmou-infant-homicide-trial-next-month/article_5fba260e-334c-11ef-ac89-efedb21324ee.html>
+
+---
+
+## Perez asks OAG for opinion on Bill 175, as Legislature debates
+
+date: 2024-06-26, from: Guam Daily Post
+
+Another matter concerning Bill 175-37 has been thrown in the ring. 
+
+<https://www.postguam.com/news/local/perez-asks-oag-for-opinion-on-bill-175-as-legislature-debates/article_59b4f250-334e-11ef-bc29-f7eda8584611.html>
+
+---
+
+## Catch of the day: Fishermen's Co-op back in business
+
+date: 2024-06-26, from: Guam Daily Post
+
+The Guam Fishermen's Cooperative Association is back open for business in a temporary facility after having been destroyed by Typhoon Mawar last year. 
+
+<https://www.postguam.com/island_life/catch-of-the-day-fishermens-co-op-back-in-business/article_2317fba6-32f5-11ef-931e-5be20fc81faf.html>
+
+---
+
+## 3 fentanyl-related deaths this year
+
+date: 2024-06-26, from: Guam Daily Post
+
+Three people have died from fentanyl this year, according to Guam Police Department Chief Stephen Ignacio. 
+
+<https://www.postguam.com/news/local/3-fentanyl-related-deaths-this-year/article_574c9988-3370-11ef-a0b7-831b586864c9.html>
+
+---
+
+## After initial failure, cannabis testing exemption bill makes it to voting file
+
+date: 2024-06-26, from: Guam Daily Post
+
+In a reversal from Tuesday, Bill 260-37, the measure that would exempt cannabis-related businesses from testing requirements until a testing laboratory is established, managed to get enough votes to place on the voting file Wednesday. 
+
+<https://www.postguam.com/news/local/after-initial-failure-cannabis-testing-exemption-bill-makes-it-to-voting-file/article_068065f4-337d-11ef-be03-fb50eedb3134.html>
+
+---
+
+## Customs intercepts potentially invasive beetle species
+
+date: 2024-06-26, from: Guam Daily Post
+
+Guam Customs and Quarantine Agency officials intercepted velvet longhorned beetles, a potentially invasive species, found in a shipping container earlier this month. 
+
+<https://www.postguam.com/news/local/customs-intercepts-potentially-invasive-beetle-species/article_e7001300-334f-11ef-ae19-af6b9c1b8e43.html>
 
 ---
 
@@ -1425,7 +2236,7 @@ date: 2024-06-25, from: Hawaii Tribune Harold
 
 date: 2024-06-25, from: Island Times
 
-<figure><img width="575" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?fit=575%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=168%2C300&amp;ssl=1 168w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=575%2C1024&amp;ssl=1 575w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=768%2C1368&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=863%2C1536&amp;ssl=1 863w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=1150%2C2048&amp;ssl=1 1150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=1200%2C2137&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=400%2C712&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=706%2C1257&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?fit=575%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70925" data-permalink="https://islandtimes.org/the-micro-games-2024/team-palau-9/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?fit=1249%2C2224&amp;ssl=1" data-orig-size="1249,2224" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Team Palau" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?fit=168%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?fit=575%2C1024&amp;ssl=1" /></figure>
+<figure><img width="575" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?fit=575%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=168%2C300&amp;ssl=1 168w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=575%2C1024&amp;ssl=1 575w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=768%2C1368&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=863%2C1536&amp;ssl=1 863w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=1150%2C2048&amp;ssl=1 1150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=1200%2C2137&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=400%2C712&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?resize=706%2C1257&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?fit=575%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70925" data-permalink="https://islandtimes.org/the-micro-games-2024/team-palau-9/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?fit=1249%2C2224&amp;ssl=1" data-orig-size="1249,2224" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Team Palau" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?fit=168%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/Team-Palau.jpg?fit=575%2C1024&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>Palau athletes concluded the Micro Games 2024 in the Marshall Islands, placing 4th with 18 Gold, 60 Silver, and 38 Bronze medals, for a total of 116 medals. The athletes were in high spirits, many of whom had reached new records and surpassed personal bests.</p>
 <p>The post <a href="https://islandtimes.org/the-micro-games-2024/">The Micro Games 2024</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1462,7 +2273,7 @@ date: 2024-06-25, from: Island Times
 
 date: 2024-06-25, from: Island Times
 
-<figure><img width="259" height="185" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?fit=259%2C185&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?w=259&amp;ssl=1 259w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?fit=259%2C185&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?fit=259%2C185&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70919" data-permalink="https://islandtimes.org/palau-sees-significant-tourism-growth-in-may-2024/tourist-arrival/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?fit=259%2C185&amp;ssl=1" data-orig-size="259,185" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="tourist arrival" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?fit=259%2C185&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?fit=259%2C185&amp;ssl=1" /></figure>
+<figure><img width="259" height="185" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?fit=259%2C185&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?w=259&amp;ssl=1 259w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?fit=259%2C185&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?fit=259%2C185&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70919" data-permalink="https://islandtimes.org/palau-sees-significant-tourism-growth-in-may-2024/tourist-arrival/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?fit=259%2C185&amp;ssl=1" data-orig-size="259,185" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="tourist arrival" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?fit=259%2C185&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/06/tourist-arrival.jpg?fit=259%2C185&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>KOROR, Palau (June 24, 2024) – Palau&#8217;s tourism industry experienced robust growth in May 2024, welcoming a total of 4,475 visitors. This represents a 2% increase from April 2024 and a significant 78% rise compared to May 2023, according to the latest figures released by the Palau Visitors Authority. China continued to be the leading [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/palau-sees-significant-tourism-growth-in-may-2024/">Palau Sees Significant Tourism Growth in May 2024</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1480,6 +2291,86 @@ date: 2024-06-25, from: Island Times
  
 
 <https://islandtimes.org/excise-tax-removed-from-locally-bottled-water/>
+
+---
+
+## 3 suspects charged in officer-involved shooting, high-speed chase on Sunday
+
+date: 2024-06-25, from: Guam Daily Post
+
+Three suspects involved in a high-speed chase and exchanging gunshots with police are facing felony and misdemeanor charges in the Superior Court of Guam. 
+
+<https://www.postguam.com/news/local/3-suspects-charged-in-officer-involved-shooting-high-speed-chase-on-sunday/article_7a01efe4-3287-11ef-99ca-7bb903966bea.html>
+
+---
+
+## Missile Defense Agency extends public comment period for Guam
+
+date: 2024-06-25, from: Guam Daily Post
+
+After receiving requests to extend the public comment period for proposed missile defense flight testing and target tracking activities by 60 days from both the lieutenant governor and the speaker, the Missile Defense Agency, along with Joint Task Force-Micronesia Command… 
+
+<https://www.postguam.com/news/local/missile-defense-agency-extends-public-comment-period-for-guam/article_f836bd14-328b-11ef-9bbe-e3990ab829c8.html>
+
+---
+
+## Behavioral Health offers help in reported rise of fentanyl use
+
+date: 2024-06-25, from: Guam Daily Post
+
+The Guam Behavioral Health and Wellness Center is offering resources to the community in light of reported cases of fentanyl use. 
+
+<https://www.postguam.com/news/local/behavioral-health-offers-help-in-reported-rise-of-fentanyl-use/article_bd87ee08-32af-11ef-91dc-4fd0e221aaf6.html>
+
+---
+
+## Man accused of stomping on victim's head
+
+date: 2024-06-25, from: Guam Daily Post
+
+A man was accused of stomping on the head of another man. 
+
+<https://www.postguam.com/news/local/man-accused-of-stomping-on-victims-head/article_633f0cda-32ad-11ef-b3f7-7b5d25a2e81f.html>
+
+---
+
+## Tosiuo faces charges in Dededo traffic crash, shooting, car theft
+
+date: 2024-06-25, from: Guam Daily Post
+
+Over the weekend, DJ Tosiuo, a man sought by police in connection to a terrorizing incident earlier this month and a shooting last month in Maite, was arrested after a traffic crash in Dededo. 
+
+<https://www.postguam.com/news/local/tosiuo-faces-charges-in-dededo-traffic-crash-shooting-car-theft/article_717b40e6-3291-11ef-bebf-2f5f63f41e7a.html>
+
+---
+
+## Participants sought for ADA survey
+
+date: 2024-06-25, from: Guam Daily Post
+
+To understand what barriers exist for individuals with disabilities, the Pacific ADA Center research team is calling for participants to engage in a survey, the organization announced in a press release. 
+
+<https://www.postguam.com/news/local/participants-sought-for-ada-survey/article_d4d648dc-31df-11ef-b4ef-ef3e9c97839a.html>
+
+---
+
+## Expansion to the castle doctrine fails to make session voting file
+
+date: 2024-06-25, from: Guam Daily Post
+
+Editor's note: 
+
+<https://www.postguam.com/news/local/expansion-to-the-castle-doctrine-fails-to-make-session-voting-file/article_be2dc170-3282-11ef-a5c7-1b9f297750cb.html>
+
+---
+
+## GALA Inc. Together with Pride: Rainbow Carnival
+
+date: 2024-06-25, from: Guam Daily Post
+
+The GALA Inc. Together with Pride: Rainbow Carnival celebration was held at the Skinner Plaza Park in Hagåtña on Saturday, June 22, 2024. 
+
+<https://www.postguam.com/island_life/gala-inc-together-with-pride-rainbow-carnival/article_20b7b5a2-3225-11ef-98ec-d38f26e80099.html>
 
 ---
 

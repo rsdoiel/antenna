@@ -1,11 +1,32 @@
 ---
 title: retro computing 2024.26
-updated: 2024-06-27 17:05:35
+updated: 2024-06-28 08:34:07
 ---
 
 # retro computing 2024.26
 
-(date: 2024-06-27 17:05:35)
+(date: 2024-06-28 08:34:07)
+
+---
+
+## June 2024 News Summary
+
+date: 2024-06-28, from: Icon Bar, RISC OS News
+
+Some things we noticed this month. What did you see? 
+
+<http://www.iconbar.com/comments/rss/news2073.html>
+
+---
+
+## siegfried 1.11.1 released
+
+date: 2024-06-28, from: IT for Archivists
+
+Version 1.11.1 of siegfried is now available. Get it here.
+CHANGELOG v1.11.1 (2024-06-28) WASM build. See pkg/wasm/README.md for more details. Feature sponsored by Archives New Zealand. Inspired by Andy Jackson -sym flag enables following symbolic links to files during scanning. Requested by Max Moser XDG_DATA_DIRS checked when determining siegfried home location. Requested by Michał Górny Windows 7 build on releases page (built with go 1.20). Requested by Aleksandr Sergeev update PRONOM to v118 update LOC to 2024-06-14 zips piped into STDIN are decompressed with -z flag. 
+
+<https://www.itforarchivists.com/post/sf1111/>
 
 ---
 

@@ -1,11 +1,32 @@
 ---
 title: writing 2024.26
-updated: 2024-06-27 17:05:33
+updated: 2024-06-28 08:34:04
 ---
 
 # writing 2024.26
 
-(date: 2024-06-27 17:05:33)
+(date: 2024-06-28 08:34:04)
+
+---
+
+## Ian Mond Reviews Takaoka’s Travels by Tatsuhiko Shibusawa
+
+date: 2024-06-28, from: Locus Magazine
+
+<p><strong>Takaoka’s Travels</strong>, Tatsuhiko Shibusawa (Stone Bridge/Monkey 979-8-98868-870-9, $18.95, 178pp, tp) May 2024.</p>
+<p>In 865, at the age of 65, Imperial Japanese Prince Takaoka, the third son of Emperor Heizeil, a Bud­dhist monk who also went by the monastic name Shinyo, set forth from Canton with three aides to Hindustan (India). Sadly, Takaoka never com­pleted the journey, reportedly mauled and eaten by a tiger somewhere near the Malay peninsula. In  <a href="https://locusmag.com/2024/06/ian-mond-reviews-takaokas-travels-by-tatsuhiko-shibusawa/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/ian-mond-reviews-takaokas-travels-by-tatsuhiko-shibusawa/>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-28, from: Neil Gaiman @ BlueSky)
+
+I don't know. But there are 32 up at https://www.neilgaiman.com/Neil's_Work/International_Covers
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kvyihefcr52w>
 
 ---
 

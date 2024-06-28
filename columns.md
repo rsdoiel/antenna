@@ -1,11 +1,158 @@
 ---
 title: columns 2024.26
-updated: 2024-06-27 17:05:32
+updated: 2024-06-28 08:34:04
 ---
 
 # columns 2024.26
 
-(date: 2024-06-27 17:05:32)
+(date: 2024-06-28 08:34:04)
+
+---
+
+## 2024-06-28 Biden
+
+date: 2024-06-28, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-28-biden">2024-06-28 Biden</h1>
+
+<p>When I see all this talk about Biden and the US elections I keep thinking: almost all that matters is that Biden has a vice president that can take over as soon as things break down. I still remember thinking when Biden got elected: this guy has nothing; he is the most boring and conflict averse choice. And this was exactly what the US needed. And it’s what the US still needs. A boring candidate whose administration gets stuff done.</p>
+
+<p>Of course, the US also needs a lot of other things: reforms, policy changes, and on and on. And you can have both! Do not vote for the fascist and keep the criticism up. So I can say: racism, Israel, Ukraine, immigration, gerrymandering, gun control, Snowden… work on all these things!! Do it! But just because I’m unhappy about the lack of progress does not mean you should abstain or vote for a fascist.</p>
+
+<p>The fact that both candidates are old white men is a shame, yes of course! But it is not a reason to hand power to the fascists.</p>
+
+<p>And often things can get done at the local level. The Swiss based their constitution on the US constitution (senate, congress, states, federalism) and I know that what is impossible to achieve at the national level can sometimes be achieved at the state level, and what cannot be achieved at the state level can be achieved at the city level, in the community, in the library, at the bar, at home.</p>
+
+<p>Wherever things are not first past the post you can kick Democrats where it hurts and beat them. And then, perhaps, one day, things will get better.</p>
+
+<p>Then again, here in Switzerland percentages go up and down here and there and yet one feels that nothing really changes. It’s hard and people aren’t as social I would prefer them to be.</p>
+
+<p>I do like flowers and trees and birds and amphibians and bees and ants and marine mammals and bison and many other things, though. The help me through the dark times.</p>
+
+<p><a class="tag" href="/search/?q=%23USA">#USA</a></p> 
+
+<https://alexschroeder.ch/view/2024-06-28-biden>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-28, from: Dave Winer's Scripting News)
+
+<a href="https://www.youtube.com/watch?v=10Rw7tf3QzM">Today's song</a>: "Respect yourself, respect yourself, respect yourself." 
+
+<http://scripting.com/2024/06/28.html#a141344>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-28, from: Dave Winer's Scripting News)
+
+I've started a FAQ for <a href="https://this.how/whyVoteForBiden/">why we should vote for Biden</a> in November. I would have liked to have been looking at this list last night at the debate, to remind myself that even if the President had trouble explaining it in words, there were still good reasons to vote for him. 
+
+<http://scripting.com/2024/06/28.html#a134751>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-28, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/28/cherryCokeZero.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I don't want to write about last night's debate. But if I did, I'd say there's nothing to be done, we just have to let this play out. Even if Biden were to step aside, that would just open the convention and there are lots of Democrats who would see this as their opportunity to be the FDR or Lincoln of the 21st century. There would be no nominee until after the convention, maybe it wouldn't be so bad for the Democrats to have everyone's full attention for a few months. There will be lots of polls, that's for sure. In the meantime, I'm going to try to enjoy the summer, it's beautiful here in the mountains north of the city, and I have some software to finish. And of course I will vote for Democrats straight down the line in the coming election. 
+
+<http://scripting.com/2024/06/28.html#a133023>
+
+---
+
+## The 2024 Trump-Biden Debate
+
+date: 2024-06-28, from: Wait but why blog
+
+<p>Jeez</p>
+<p>The post <a href="https://waitbutwhy.com/2024/06/debate2024.html">The 2024 Trump-Biden Debate</a> appeared first on <a href="https://waitbutwhy.com">Wait But Why</a>.</p>
+ 
+
+<https://waitbutwhy.com/2024/06/debate2024.html>
+
+---
+
+## James Bamford on Section 702 Extension
+
+date: 2024-06-28, updated: 2024-06-28, from: Bruce Schneier blog
+
+<p>Longtime NSA-watcher James Bamford has a <a href="https://www.thenation.com/article/world/nsa-warrantless-surveillance/tnamp/">long article</a> on the reauthorization of Section 702 of the Foreign Intelligence Surveillance Act (FISA).</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/06/james-bamford-on-section-702-extension.html>
+
+---
+
+## Bookmarked: How France Adopts An Open Source-Based Education Strategy
+
+date: 2024-06-28, from: John's World Wide Wall Display
+
+Kauffmann said that France has never officially embraced big tech in schools, which makes the project easier, and that the public generally is skeptic towards monopolies and the abuse of private data. The country is thus undergoing a cultural shift in the digital education sector, promoting the use of free, open, and interoperable code, data, [&#8230;] 
+
+<https://johnjohnston.info/blog/bookmarked-how-france-adopts-an-open-source-based-education-strategy/>
+
+---
+
+## Keynote Scavenger Hunt
+
+date: 2024-06-28, from: John's World Wide Wall Display
+
+<div><img width="620" height="465" src="https://johnjohnston.info/blog/wp-content/uploads/2024/06/scavenger-hunt-620x465.jpg" class="attachment-medium size-medium u-featured wp-post-image" alt="Grass in the foreground 2 blurred people behind" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://johnjohnston.info/blog/wp-content/uploads/2024/06/scavenger-hunt-620x465.jpg 620w, https://johnjohnston.info/blog/wp-content/uploads/2024/06/scavenger-hunt-768x576.jpg 768w, https://johnjohnston.info/blog/wp-content/uploads/2024/06/scavenger-hunt-668x501.jpg 668w, https://johnjohnston.info/blog/wp-content/uploads/2024/06/scavenger-hunt.jpg 1024w" sizes="(max-width: 620px) 100vw, 620px" data-attachment-id="19411" data-permalink="https://johnjohnston.info/blog/keynote-scavenger-hunt/scavenger-hunt/" data-orig-file="https://johnjohnston.info/blog/wp-content/uploads/2024/06/scavenger-hunt.jpg" data-orig-size="1024,768" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="scavenger-hunt" data-image-description="" data-image-caption="" data-medium-file="https://johnjohnston.info/blog/wp-content/uploads/2024/06/scavenger-hunt-620x465.jpg" data-large-file="https://johnjohnston.info/blog/wp-content/uploads/2024/06/scavenger-hunt.jpg" /></div>My last day of term plan yesterday was a scavenger hunt, Capture the Flag and tidy our MakerSpace. The scavenger hunt was made in Keynote, a slide for each challenge. I&#8217;ve recently read Digital Scavenger Hunts – DigiLearnFalk which shows how to make really attractive one-slide digital hunts in keynote. Using place holders. They have [&#8230;] 
+
+<https://johnjohnston.info/blog/keynote-scavenger-hunt/>
+
+---
+
+## June 27, 2024 
+
+date: 2024-06-28, from: Heather Cox Richardson blog
+
+Tonight was the first debate between President Joe Biden and presumptive Republican presidential nominee Donald Trump, and by far the most striking thing about the debate was the overwhelming focus among pundits immediately afterward about Biden&#8217;s appearance and soft, hoarse voice as he rattled off statistics and events. Virtually unmentioned was the fact that Trump lied and rambled incoherently, ignored questions to say whatever he wanted; refused to acknowledge the events of January 6, 2021; and refused to commit to accepting the result of the 2024 presidential election, finally saying he would accept it only if it met his standards for fairness. 
+
+<https://heathercoxrichardson.substack.com/p/june-27-2024>
+
+---
+
+## Debunking myth #5: “The market doesn’t play favorites.”
+
+date: 2024-06-28, from: Robert Reich's blog
+
+BUNK! 
+
+<https://robertreich.substack.com/p/debunking-myth-5-the-market-doesnt>
+
+---
+
+## Election Countdown, 130 Days to Go: A Bad Night for America.
+
+date: 2024-06-28, from: James Fallows, Substack
+
+Let me count the ways. 
+
+<https://fallows.substack.com/p/election-countdown-130-days-to-go>
+
+---
+
+## Final thoughts on tonight’s debate
+
+date: 2024-06-28, from: Robert Reich's blog
+
+Friends, Thanks for joining Heather and me tonight. It was a painful evening. Let me leave you with these quotes: &#8220;The great masses of the people &#8230; will more easily fall victim to a big lie than to a small one.&#8221; &#8212; Adolf Hitler, Mein Kampf &#8220;If you tell a lie big enough and keep repeating it, people will eventually come to believe it. The lie can be maintained only for such time as the State can shield the people from the political, economic and/or military consequences of the lie. It thus becomes vitally important for the State to use all of its powers to repress dissent, for the truth is the mortal enemy of the lie, and thus by extension, the truth is the greatest enemy of the State.&#8221; &#8212; attributed to Joseph Goebbels 
+
+<https://robertreich.substack.com/p/final-thoughts-on-tonights-debate>
+
+---
+
+## Wordle Kitty to the rescue
+
+date: 2024-06-28, from: Dave Winer's Scripting News
+
+<p>After tonight's debate, how about <a href="https://www.google.com/search?q=%22Wordle+Kitty%22">Wordle Kitty</a> to cheer us up? <span class="spOldSchoolEmoji">😄</span></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/27/wordleKittyDebate.png"></center>Wordle Kitty on the debate stage.</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/27/wordleKittyPan.png"></center>Wordle Kitty doesn't want to <a href="https://en.wikipedia.org/wiki/Peter_Pan">grow up</a>. </div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/27/wordleKittyPlayingInTheBand.png"></center>Wordle Kitty <a href="https://www.youtube.com/watch?v=Qe6sJMjy4T0">playing in the band</a>. </div></p>
+ 
+
+<http://scripting.com/2024/06/27/024829.html?title=wordleKittyToTheRescue>
 
 ---
 
@@ -518,7 +665,7 @@ I enjoy reading blogging about blogging for many reasons: learning how other peo
 
 date: 2024-06-26, from: Doc Searls (at Harvard), New Old Blog
 
-It was a derecho, or something like one. The gust front you see in the third image here looks a lot like the storm front in the image above (via Weatherbug, storm tracker view). I&#8217;d experienced one twelve years ago, in Arlington, Mass. It felt like a two minute hurricane, and when it was over, [&#8230;] 
+It was a derecho, or something like one. The gust front you see in the third image here — —looks a lot like the storm front in the top image above (via Weatherbug, storm tracker view). I&#8217;d experienced one twelve years ago, in Arlington, Mass. It felt like a two minute hurricane, and when it [&#8230;] 
 
 <https://doc.searls.com/2024/06/25/a-very-local-storm/>
 

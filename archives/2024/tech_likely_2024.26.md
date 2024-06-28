@@ -1,11 +1,336 @@
 ---
 title: tech likely 2024.26
-updated: 2024-06-27 17:05:32
+updated: 2024-06-28 08:34:03
 ---
 
 # tech likely 2024.26
 
-(date: 2024-06-27 17:05:32)
+(date: 2024-06-28 08:34:03)
+
+---
+
+## The need for a President that speaks AI natively
+
+date: 2024-06-28, from: Gary Marcus blog
+
+Last night was a travesty, but that is just the beginning of our problems 
+
+<https://garymarcus.substack.com/p/the-need-for-a-president-that-speaks>
+
+---
+
+## Why Is This Shape So Terrible to Pack?
+
+date: 2024-06-28, from: Quanta Magazine
+
+Two mathematicians have proved a long-standing conjecture that is a step on the way toward finding the worst shape for packing the plane.            <p>The post <a href="https://www.quantamagazine.org/why-is-this-shape-so-terrible-to-pack-20240628/" target="_blank">Why Is This Shape So Terrible to Pack?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/why-is-this-shape-so-terrible-to-pack-20240628/>
+
+---
+
+## 2024-06-28 Biden
+
+date: 2024-06-28, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-28-biden">2024-06-28 Biden</h1>
+
+<p>When I see all this talk about Biden and the US elections I keep thinking: almost all that matters is that Biden has a vice president that can take over as soon as things break down. I still remember thinking when Biden got elected: this guy has nothing; he is the most boring and conflict averse choice. And this was exactly what the US needed. And it’s what the US still needs. A boring candidate whose administration gets stuff done.</p>
+
+<p>Of course, the US also needs a lot of other things: reforms, policy changes, and on and on. And you can have both! Do not vote for the fascist and keep the criticism up. So I can say: racism, Israel, Ukraine, immigration, gerrymandering, gun control, Snowden… work on all these things!! Do it! But just because I’m unhappy about the lack of progress does not mean you should abstain or vote for a fascist.</p>
+
+<p>The fact that both candidates are old white men is a shame, yes of course! But it is not a reason to hand power to the fascists.</p>
+
+<p>And often things can get done at the local level. The Swiss based their constitution on the US constitution (senate, congress, states, federalism) and I know that what is impossible to achieve at the national level can sometimes be achieved at the state level, and what cannot be achieved at the state level can be achieved at the city level, in the community, in the library, at the bar, at home.</p>
+
+<p>Wherever things are not first past the post you can kick Democrats where it hurts and beat them. And then, perhaps, one day, things will get better.</p>
+
+<p>Then again, here in Switzerland percentages go up and down here and there and yet one feels that nothing really changes. It’s hard and people aren’t as social I would prefer them to be.</p>
+
+<p>I do like flowers and trees and birds and amphibians and bees and ants and marine mammals and bison and many other things, though. The help me through the dark times.</p>
+
+<p><a class="tag" href="/search/?q=%23USA">#USA</a></p> 
+
+<https://alexschroeder.ch/view/2024-06-28-biden>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-28, from: Dave Winer's Scripting News)
+
+<a href="https://www.youtube.com/watch?v=10Rw7tf3QzM">Today's song</a>: "Respect yourself, respect yourself, respect yourself." 
+
+<http://scripting.com/2024/06/28.html#a141344>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-28, from: Dave Winer's Scripting News)
+
+I've started a FAQ for <a href="https://this.how/whyVoteForBiden/">why we should vote for Biden</a> in November. I would have liked to have been looking at this list last night at the debate, to remind myself that even if the President had trouble explaining it in words, there were still good reasons to vote for him. 
+
+<http://scripting.com/2024/06/28.html#a134751>
+
+---
+
+## An Eclipse Megamovie Megastar
+
+date: 2024-06-28, from: NASA breaking news
+
+Nazmus “Naz” Nasir is a software engineer by day, and an astrophotographer by night….and sometimes by day as well! This April, Naz participated in NASA’s Eclipse Megamovie 2024 project, photographing the total solar eclipse. He posted online a spectacular video composed of stabilized and aligned photographs of the sun taken during totality. The video includes links to tutorials Naz […] 
+
+<https://science.nasa.gov/get-involved/citizen-science/an-eclipse-megamovie-megastar/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-28, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/28/cherryCokeZero.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I don't want to write about last night's debate. But if I did, I'd say there's nothing to be done, we just have to let this play out. Even if Biden were to step aside, that would just open the convention and there are lots of Democrats who would see this as their opportunity to be the FDR or Lincoln of the 21st century. There would be no nominee until after the convention, maybe it wouldn't be so bad for the Democrats to have everyone's full attention for a few months. There will be lots of polls, that's for sure. In the meantime, I'm going to try to enjoy the summer, it's beautiful here in the mountains north of the city, and I have some software to finish. And of course I will vote for Democrats straight down the line in the coming election. 
+
+<http://scripting.com/2024/06/28.html#a133023>
+
+---
+
+## NASA Shares Two New Moon to Mars Architecture White Papers
+
+date: 2024-06-28, from: NASA breaking news
+
+NASA has released two white papers associated with the agency’s Moon to Mars architecture efforts. The papers, one on lunar mobility drivers and needs, and one on lunar surface cargo, detail NASA’s latest thinking on specific areas of its lunar exploration strategy. While NASA has established a yearly cadence of releasing new documents associated with [&#8230;] 
+
+<https://www.nasa.gov/humans-in-space/nasa-shares-two-new-moon-to-mars-architecture-white-papers/>
+
+---
+
+## The 2024 Trump-Biden Debate
+
+date: 2024-06-28, from: Wait but why blog
+
+<p>Jeez</p>
+<p>The post <a href="https://waitbutwhy.com/2024/06/debate2024.html">The 2024 Trump-Biden Debate</a> appeared first on <a href="https://waitbutwhy.com">Wait But Why</a>.</p>
+ 
+
+<https://waitbutwhy.com/2024/06/debate2024.html>
+
+---
+
+## Hubble Examines an Active Galaxy Near the Lion’s Heart
+
+date: 2024-06-28, from: NASA breaking news
+
+It might appear featureless and unexciting at first glance, but NASA/ESA Hubble Space Telescope observations of this elliptical galaxy — known as Messier 105 — show that the stars near the galaxy’s center are moving very rapidly. Astronomers have concluded that these stars are zooming around a supermassive black hole with an estimated mass of […] 
+
+<https://science.nasa.gov/missions/hubble/hubble-examines-an-active-galaxy-near-the-lions-heart/>
+
+---
+
+## P&B: Alison Wilder
+
+date: 2024-06-28, from: Manu - I write blog
+
+
+                <p>This is the 44th edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have Alison Wilder and her blog, <a href="https://alisonwilder.net">alisonwilder.net</a></p>
+<p>To follow this series <a href="https://peopleandblogs.com">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed">RSS feed</a>.</p>
+<p>If you're enjoying the People and Blogs series and you want to see it grow, consider supporting on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a>.</p>
+<hr />
+<h2>Let's start from the basics: can you introduce yourself?</h2>
+<p>I grew up on a ranch in West Texas. Horses, rodeo, and roping were my life. I was going to be a horse trainer. Then, when my life took a left turn in high school, I got much more serious about music, started writing songs, and ended up pursuing a music degree at the University of North Texas. </p>
+<p>After college, I had a 3-year stint in Portland, Oregon, where I started the band <a href="https://alisonwilder.net/voodoo-economics-accept-no-imitations/">Voodoo Economics</a>. My bandmates and I moved to Philly in 2004-ish, where I wrote for, played in, and produced for Voodoo while completing a Master's in music theory at Temple University. After a few years of adjunct teaching, I decided a PhD in music theory &amp; cognition at McGill University in Montreal was the right move, so I went off to do that. The timing was epically bad -- this was the beginning of the end of the humanities in North American universities, after all -- and I realized after about a year that it would be nearly impossible to get a job in a place where I actually wanted to live. So I packed up the piano yet again and headed back to Philadelphia. </p>
+<p>Back in Philly, I co-founded a music tech company with a super-cool and interesting composer/pianist/technologist named Greg Wilder. After a whirlwind couple of years in the depths of the music industry, we decided to move away from daily ops with that company, and I was very much at loose ends. I had never had any real marketable skills (don't try to tell me songwriting and music theory are marketable!), and I had no idea what to do. So I asked Greg, <em>"What should I do?"</em> </p>
+<p><em>"Learn Linux,"</em> he said. </p>
+<p>So I wiped my laptop, installed Debian, and was off to the races. Then I said, <em>"but what should I do with Linux?"</em></p>
+<p><em>"Maybe WordPress?"</em> he said. </p>
+<p>It was 2011, and the timing couldn't have been better. I learned WordPress, started faffing about in PHP, Javascript, and all the rest, and somehow people started writing checks. Over the last 13 years, Greg and I have turned my faffing about into a couple of real businesses (<a href="https://punktdigital.com/">Punkt Digital</a> and <a href="https://wickedgoodweb.com/">Wicked Good Web</a>). At some point during all of that, we got married, moved to New Hampshire, divorced, and stayed best friends. </p>
+<p>Though I stopped music completely for about 7 years after the start-up (relationship status: it's complicated), I've spent the last 6 years or so building my studio back up and pouring myself into songwriting and producing again (<a href="https://blixbyrd.bandcamp.com/">Blix Byrd</a> and <a href="https://doctorbody.bandcamp.com/">Doctor Body</a> with Greg). Which brings us to today. Phew!</p>
+<h2>What's the story behind your blog?</h2>
+<p>I've always loved writing. Some days, I harbor secret aspirations to be a real writer. (Uh-oh, secret's out...) So blogging just comes naturally. I don't think of my blog as part of a business, or as a way to promote myself exactly. It's more of a place that gives me an outlet to organize my thoughts publicly. </p>
+<p>I generally find myself writing about a combination of daily life, music, my own creative process, and things I'm doing or making. I haven't used social media much (although I've been enjoying <a href="https://io.waxandleather.com/@alisynthesis">Mastodon</a> for the last year or two!), so I sometimes use my blog as my own personal Insta-book feed. It's fun to make a quick post of something I like and/or find amusing, and I enjoy perusing my old posts occasionally. My memory isn't the greatest, so in the case of daily life posts, I often wouldn't remember the thing at all if I didn't blog about it! </p>
+<p>Because blogging is purely for my own fun and enjoyment, I don't force myself to keep any kind of posting schedule. I just post when I feel like it. I go through phases where that's weekly, monthly, or even less. So if you're looking for a consistent presence in your RSS feed, my blog is probably not for you. </p>
+<p>I don't have any blog posts from prior to my current website, although I did have other blogs on Tumblr and early Squarespace over the years. It looks like I started blogging on my own site in about 2014. See, told you my memory was bad...I had to sign in to find out when my earliest posts were! </p>
+<h2>What does your creative process look like when it comes to blogging?</h2>
+<p>My blogging process probably doesn't qualify as a process. More like, "I just blog when I feel like it and say whatever I want to." That said, I do also write quite a bit privately, so maybe it would be interesting to explore the difference between my public and private writing? </p>
+<p>I'm generally an open book -- the kind of person who will tell strangers whatever they want to know about me. That said, I do write differently on my blog than in my personal journals. Obviously, I edit a lot more on the blog. I also tend to post the kinds of things that I think others might find interesting, which means I don't often post about my own internal thoughts and feelings. </p>
+<p>That said, I enjoy reading blogs where people get personal, so now I'm wondering why I don't do that! Perhaps a topic for a future blog post? </p>
+<p>And to the second question: the above paragraphs illustrate how I get my inspiration -- navel gazing and over-thinking. ;) </p>
+<p>For quick posts, I write directly in WordPress. For longer bits or things that come out of my private journaling, I write in Markdown in Obsidian. (Yes, I'm one of those obsessive Obsidian people.)</p>
+<h2>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</h2>
+<p>I'm a very aesthetically-minded person who is most satisfied when I feel like I'm immersed in beautiful and creative objects. I've tried to craft my home environment so that I feel inspired in every seat in the house. Right now, I'm sitting on my back porch looking my gardens and typing on my laptop. It's May in New Hampshire, and you can almost hear the plants growing. </p>
+<p>I tend to write short bits on my laptop wherever I want to be sitting, because my office/studio is a place I work seriously. That said, my studio is beautiful, ergonomic, and has a powerful computer, so anything that takes awhile or requires lots of research/editing/photo work, I'll tend to do there. </p>
+<p>I don't typically listen to music while I work, because my brain won't agree to keep it in the background. And if music can be in the background, I probably don't want to hear it at all. (Not a judgment about wallpaper music, that's just how it is for me.) So there's lots of silence at my house. </p>
+<h2>A question for the techie readers: can you run us through your tech stack?</h2>
+<p>Greg and I operate our own managed WordPress hosting platform (Digital Ocean + Serverpilot) for our clients, so we also host all of our own personal websites there. How convenient! </p>
+<p>Sometimes I think about switching to a static site generator, and have certainly enjoyed playing around with them and occasionally using them for client projects, but since I know so much about WordPress, it's kinda my default. </p>
+<p>We register all our domains at Namecheap, which has been rock solid over the years. </p>
+<h2>Given your experience, if you were to start a blog today, would you do anything differently?</h2>
+<p>I don't think so. If I weren't a WordPress person for work, I would probably use a static site generator and really enjoy that experience. I could easily see using an Obsidian vault at my CMS, and in face, I maintain a public-not-public recipe site where I do exactly that, using Obsidian to write, and Jekyll to website. </p>
+<h2>Financial question since the web is obsessed with money: how much does it cost to run your blog? Is it just a cost or does it generate some revenue? And what's your position on people monetising personal blogs?</h2>
+<p>That's a tough question since we run our own Digital Ocean servers. If I were a client of ours, I would pay $486/year for our managed hosting plan. But since I'm not, I don't.</p>
+<p>My blog generates absolutely no revenue. I haven't tried, and I doubt I will, because I prefer keeping my creative life separate from my financial life. (Now that's a blog post topic! I'm surprised I haven't written about that before. Who knows, maybe I have.) </p>
+<p>That said, I don't see anything wrong with other people monetizing their blog. More power to 'em! I don't regularly financially support any bloggers, although I do tend to throw folks the occasional bone when I enjoy their work for awhile. </p>
+<h2>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</h2>
+<p>Here's a <a href="https://drive.proton.me/urls/4QTNCKWFYW#fX4XAW0GJI4Z">link to all the personal blogs I subscribe to</a> in my RSS reader: </p>
+<p>A few quick blog recs: </p>
+<ul>
+<li>Gotta plug <a href="https://gregwilder.com">Greg Wilder's blog</a>, which is an awesome and regularly-updated account of being a composer/pianist/synthesizer wizard/mountain man.</li>
+<li><a href="https://ruk.ca/">Peter Rukavina</a> is a writer, printer and developer on Prince Edward Island. I don't know him, but I so enjoy his description of his life on his blog. He seems like a wonderful person!</li>
+<li><a href="https://rubenerd.com/">Ruben Schade</a> is an prolific blogger/developer who I also don't know, but whose writing style and perspective I totally enjoy.</li>
+</ul>
+<h2>Final question: is there anything you want to share with us?</h2>
+<p>I've been obsessed with <a href="https://en.wikipedia.org/wiki/Peter_Strickland_(director)">Peter Strickland</a>'s films over the last few years. Berberian Sound Studio and its soundtrack (by the super-cool band Broadcast) are AMAZING. Check them out if your taste tends toward the weird and wild.</p>
+<p>More in weird electronic music: don't sleep on Mort Garson. He may be dead, but <a href="https://mortgarson.bandcamp.com/">he's still on Bandcamp</a>!</p>
+<p>If you like hearing over-educated musicians who used to be married blathering about music, check out Greg's and my podcast, <a href="https://toomuchmusicpodcast.com">Too Much Music</a>.</p>
+<hr />
+<p>This was the 44th edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Alison. Make sure to <a href="https://alisonwilder.net">follow her blog</a> (<a href="https://alisonwilder.net/feed/">RSS</a>) and get in touch with her if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a> and all supporters will be listed here as well as on the <a href="https://peopleandblogs.com">official site</a> of the newsletter.</p>
+<p><a href="https://www.thingelstad.com">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml">RSS</a>) — <a href="https://some.studio">Piet Terheyden</a> — <a href="https://minim.blog">Raul Montala</a> (<a href="http://github.com/rmontala/minim/commits.atom">RSS</a>) — Eleonora — <a href="https://carlbarenbrug.com">Carl Barenbrug</a> (<a href="https://carlbarenbrug.com/feed/rss">RSS</a>) — <a href="https://tangiblelife.net">Steve Ledlow</a> (<a href="https://tangiblelife.net/feed.rss">RSS</a>) — <a href="https://www.feadin.eu">Paolo Ruggeri</a> (<a href="https://www.feadin.eu/en/posts/index.xml">RSS</a>) — <a href="https://thejollyteapot.com">Nicolas Magand</a> (<a href="https://thejollyteapot.com/feed.rss">RSS</a>) — <a href="https://robhope.com">Rob Hope</a> — <a href="https://chrishannah.me">Chris Hannah</a> (<a href="https://chrishannah.me/index.xml">RSS</a>) — <a href="https://blog.pcora.eu">Pedro Corá</a> (<a href="https://blog.pcora.eu/feed.xml">RSS</a>) — <a href="https://colinwalker.blog/">Colin Walker</a> (<a href="https://colinwalker.blog/dailyfeed.xml">RSS</a>) — <a href="https://softlandings.world/">Sixian Lim</a> (<a href="https://www.softlandings.world/feed.rss">RSS</a>) — <a href="https://mattstein.com">Matt Stein</a> (<a href="https://mattstein.com/rss.xml">RSS</a>) — <a href="https://winnielim.org">Winnie Lim</a> (<a href="https://winnielim.org/feed/">RSS</a>) — <a href="https://flamedfury.com/">Flamed</a> (<a href="https://flamedfury.com/feed.xml/">RSS</a>) — <a href="https://skyhold.org">C Jackdaw</a> (<a href="https://journal.miso.town/atom?url=https://skyhold.org/index.html">RSS</a>) — <a href="https://tiv.today">Kevin Humdrum</a> (<a href="https://tiv.today/feed.rss">RSS</a>) — <a href="https://www.doc.cc/">Fabricio Teixeira</a> (<a href="https://www.doc.cc/feed.xml">RSS</a>) — <a href="https://rosalindcroad.com">Rosalind Croad</a> — <a href="https://frankmeeuwsen.com">Frank Meeuwsen</a> (<a href="https://frankmeeuwsen.com/feed.xml">RSS</a>) — <a href="https://www.elmike.me">Mike Walsh</a> (<a href="https://www.elmike.me/feed.xml">RSS</a>) — <a href="https://www.byzero.de/">Markus Heurung</a> — <a href="https://cleverlaziness.xyz/">Juan Villela</a> (<a href="https://cleverlaziness.xyz/posts/index.xml">RSS</a>) — <a href="https://mwarrenarts.com/">Michael Warren</a> (<a href="https://mwarrenarts.com/rss">RSS</a>) — <a href="https://cagrimmett.com/">Chuck Grimmett</a> (<a href="https://cagrimmett.com/feed">RSS</a>) — <a href="https://eatweeds.co.uk">Robin Harford</a> (<a href="https://www.eatweeds.co.uk/feed/">RSS</a>) — <a href="https://bryanmanio.com/">Bryan Maniotakis</a> (<a href="https://bryanmanio.com/feed/">RSS</a>) — <a href="https://bjhess.com/">Barry Hess</a> (<a href="https://bjhess.com/posts_feed">RSS</a>) — <a href="https://chrisjung.xyz">Chris Jung</a> (<a href="https://chrisjung.xyz/feed/rss">RSS</a>) — <a href="https://ivanmoreale.com">Ivan Moreale</a> — <a href="https://islandinthenet.com">Khürt Williams</a> (<a href="https://islandinthenet.com/feed/">RSS</a>) — <a href="https://werd.io/">Ben Werdmuller</a> (<a href="https://werd.io/feed">RSS</a>) — <a href="https://corygibbons.com">Cory Gibbons</a> — <a href="https://www.lkhrs.com/">Luke Harris</a> (<a href="https://www.lkhrs.com/blog/index.xml">RSS</a>) — <a href="https://lars-christian.com/">Lars-Christian Simonsen</a> (<a href="https://lars-christian.com/feed/">RSS</a>) — <a href="https://www.codyschultz.com">Cody Schultz</a> — <a href="https://bradbarrish.com">Brad Barrish</a> (<a href="https://bradbarrish.com/feed/">RSS</a>) — <a href="https://galaiko.rocks">Nikita Galaiko</a> — Erik Blankvoort — <a href="https://jagasantagostino.com">Jaga Santagostino</a> — <a href="https://andzuck.com/">Andrew Zuckerman</a> — <a href="https://www.mattiacompagnucci.com">Mattia Compagnucci</a> (<a href="https://mattiacompagnucci.com/feed.rss">RSS</a>) — <a href="https://tdh.se/">Thord D. Hedengren</a> (<a href="https://tdh.se/feed/feed.xml">RSS</a>) — <a href="https://fabiensauser.ch">Fabien Sauser</a> (<a href="https://fabiensauser.ch/index.xml">RSS</a>) — <a href="http://dizzard.net/">Maxwell Omdal</a> — <a href="https://numericcitizen.me">Numeric Citizen</a> (<a href="https://feedpress.me/numericcitizen-feeds.xml?ref=numericcitizen.me">RSS</a>) — <a href="https://heydingus.net">Jarrod Blundy</a> (<a href="https://heydingus.net/feeds">RSS</a>) — <a href="https://gwtf.it">Andrea Contino</a> (<a href="https://gwtf.it/feed">RSS</a>) — <a href="https://sebastiandedeyne.com/">Sebastian De Deyne</a> (<a href="https://sebastiandedeyne.com/index.xml">RSS</a>) — <a href="https://koolinus.net/blog/">Nicola Losito</a> (<a href="https://koolinus.net/blog/feed/">RSS</a>) — <a href="https://amerpie.lol/">Lou Plummer</a> (<a href="https://amerpie.lol/feed.xml">RSS</a>) — <a href="https://lmika.org/">Leon Mika</a> (<a href="https://lmika.org/feed.xml">RSS</a>) — <a href="http://veronique.ink">Veronique</a> (<a href="https://veronique.ink/feed/">RSS</a>) — <a href="https://surplusjouissance.com">Neil Gorman</a> (<a href="https://www.surplusjouissance.com/rss/">RSS</a>) — <a href="https://reaper.is/">Reaper</a> (<a href="https://reaper.is/rss.xml">RSS</a>) — <a href="https://www.mattrutherford.co.uk/">Matt Rutherford</a> (<a href="https://www.mattrutherford.co.uk/rss/">RSS</a>) — <a href="https://therealadam.com">Adam Keys</a> (<a href="https://therealadam.com/feed.xml">RSS</a>) — <a href="https://aleemshaun.com/">Aleem Ali</a> (<a href="https://aleemshaun.com/feed">RSS</a>) — <a href="https://nikkin.dev/">Nikkin</a> (<a href="https://nikkin.dev/feed.xml">RSS</a>) — <a href="https://jeremyfelt.com/">Jeremy Felt</a> (<a href="https://jeremyfelt.com/feed">RSS</a>) — <a href="https://hansfast.net">Hans</a> (<a href="https://hansfast.net/everything.rss">RSS</a>) — <a href="https://www.markpitblado.me/">Mark Pitblado</a> (<a href="https://www.markpitblado.me/feed.xml">RSS</a>) — <a href="https://www.morelightmorelight.com/">Matt Katz</a> (<a href="https://www.morelightmorelight.com/feed">RSS</a>) — <a href="https://iljapanic.com/">Ilja Panić</a> — <a href="https://odongo.pl">Emmanuel Odongo</a> — <a href="https://kevquirk.com/">Kev Quirk</a> (<a href="https://kevquirk.com/feed">RSS</a>) — <a href="https://artlung.com/">Joe Crawford</a> (<a href="https://artlung.com/feed/">RSS</a>) — <a href="https://www.ismailsevik.com/">İsmail Şevik</a> (<a href="https://www.ismailsevik.com/feeds/posts/default?alt=rss">RSS</a>)</p>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale">support on Ko-Fi</a>;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/6gM21s63wmAbvbPb>
+
+---
+
+## counterparts
+
+date: 2024-06-28, from: Ayjay blog
+
+More Trollopean spoilers here.  One of Trollope’s more interesting habits as a novelist is the tendency to create counterparts: a character in one novel will mirror a character in another. The proper counterpart of Lady Arabella in Doctor Thorne, whom I discussed in my previous post, appears in the next Barsetshire novel, Framley Parsonage: I [&#8230;] 
+
+<https://blog.ayjay.org/counterparts/>
+
+---
+
+## Raspberry Pi AI Kit review | HackSpace #80
+
+date: 2024-06-28, from: Raspberry Pi News (.com)
+
+<p>In the latest issue of HackSpace magazine, out now, Ben Everard puts the new Raspberry Pi AI Kit through its paces. </p>
+<p>The post <a href="https://www.raspberrypi.com/news/raspberry-pi-ai-kit-review-hackspace-80/">Raspberry Pi AI Kit review | HackSpace #80</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/raspberry-pi-ai-kit-review-hackspace-80/>
+
+---
+
+## FLTK 1.4.x Weekly Snapshot (master)
+
+date: 2024-06-28, from: Fast Light Tool Kit
+
+A new weekly snapshot of FLTK 1.4.x (master) is now available 
+
+<https://www.fltk.org/articles.php?L1929>
+
+---
+
+## Felix Oliver Friedrich commented on issue #143 at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-06-28, updated: 2024-06-28, from: Oberon A2 at CAS
+
+
+<p data-sourcepos="1:1-1:217" dir="auto">A compiler cannot catch all semantic errors. An infinite recursion is often not caught by a compiler. Again, I argue for (in)completeness reasons: it would, probably, be not that difficult to catch cases like this one</p>
+<div class="gl-relative markdown-code-block js-markdown-code">
+<pre data-sourcepos="2:1-7:3" class="code highlight js-syntax-highlight language-plaintext" v-pre="true"><code><span id="LC1" class="line" lang="plaintext">PROCEDURE P();</span>
+<span id="LC2" class="line" lang="plaintext">BEGIN</span>
+<span id="LC3" class="line" lang="plaintext">  P()</span>
+<span id="LC4" class="line" lang="plaintext">END P;</span></code></pre>
+<copy-code></copy-code>
+</div>
+<p data-sourcepos="8:1-8:153" dir="auto">but it already becomes more difficult when the error is not that obvious any more like in the following wrong attempt to implement the factorial function</p>
+<div class="gl-relative markdown-code-block js-markdown-code">
+<pre data-sourcepos="9:1-16:3" class="code highlight js-syntax-highlight language-plaintext" v-pre="true"><code><span id="LC1" class="line" lang="plaintext">PROCEDURE F(i: INTEGER): INTEGER;</span>
+<span id="LC2" class="line" lang="plaintext">BEGIN</span>
+<span id="LC3" class="line" lang="plaintext">  IF (i &gt; 1) RETURN i*F(i)</span>
+<span id="LC4" class="line" lang="plaintext">  ELSE RETURN i</span>
+<span id="LC5" class="line" lang="plaintext">  END</span>
+<span id="LC6" class="line" lang="plaintext">END F;</span></code></pre>
+<copy-code></copy-code>
+</div>
+<p data-sourcepos="17:1-17:252" dir="auto">So, for the time being, I don&#39;t know how to handle this. The compiler would need to do much more sophisticated things than it is currently doing in order to detect a lot of infinite recursion cases (and it would never be guaranteed to catch all cases).</p>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/143#note_192639>
+
+---
+
+## Felix Oliver Friedrich commented on issue #144 at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-06-28, updated: 2024-06-28, from: Oberon A2 at CAS
+
+
+<p data-sourcepos="1:1-1:739" dir="auto">The example I made was pretty artificial and I don&#39;t think it is a good idea to mark errors (only) for very special situations. If at all, we might issue a warning when a local variable is returned by reference because this is a case that can easily happen. But, to be honest, I am not that happy with this kind of incomplete solution either. The concept of return by reference is inherently dangerous and we will have to live with it or get rid of the concept altogether. I prefer the former because I cannot stand having getters and setters all over the place when an assignment operator shall be overloaded -- here I prefer the C++ way over the Java way. (Niklaus Wirth would not have admitted a return by reference in the first place).</p>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/144#note_192635>
+
+---
+
+## Sols 4226-4228: A Powerful Balancing Act
+
+date: 2024-06-28, from: NASA breaking news
+
+Earth planning date: Tuesday, June 25, 2024 As documented in a previous blog last week, we continue to juggle power constraints as we focus on analyzing our newest drilled sample on Mars: “Mammoth Lakes 2.” Today, the star of the show is a planned dropoff to SAM (Sample Analysis at Mars instrument suite) and evolved […] 
+
+<https://science.nasa.gov/blogs/sols-4226-4228-a-powerful-balancing-act/>
+
+---
+
+## Interesting Rock Textures Galore at Bright Angel
+
+date: 2024-06-28, from: NASA breaking news
+
+Upon the rover’s arrival at Bright Angel, it was so exciting to see all the interesting features in the rocks of this interval! In particular, these rocks contain an abundance of veins and nodules. Veins are linear features containing mineral crystals that often form thin plates or sheets that cut through the rocks and across […] 
+
+<https://science.nasa.gov/blogs/interesting-rock-textures-galore-at-bright-angel/>
+
+---
+
+## Wordle Kitty to the rescue
+
+date: 2024-06-28, from: Dave Winer's Scripting News
+
+<p>After tonight's debate, how about <a href="https://www.google.com/search?q=%22Wordle+Kitty%22">Wordle Kitty</a> to cheer us up? <span class="spOldSchoolEmoji">😄</span></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/27/wordleKittyDebate.png"></center>Wordle Kitty on the debate stage.</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/27/wordleKittyPan.png"></center>Wordle Kitty doesn't want to <a href="https://en.wikipedia.org/wiki/Peter_Pan">grow up</a>. </div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/27/wordleKittyPlayingInTheBand.png"></center>Wordle Kitty <a href="https://www.youtube.com/watch?v=Qe6sJMjy4T0">playing in the band</a>. </div></p>
+ 
+
+<http://scripting.com/2024/06/27/024829.html?title=wordleKittyToTheRescue>
+
+---
+
+## Full Circle Magazine 206
+
+date: 2024-06-28, from: Full Circle Magazine
+
+<p>This month:</p>
+<ul>
+<li>Command &amp; Conquer</li>
+<li>How-To : Python, Stable Diffusion and Latex</li>
+<li>Graphics : Inkscape</li>
+<li>Review : Kubuntu 24.04 and Wo-We Mini PC</li>
+<li>Book Review : The Linux Devops Handbook</li>
+<li>UbPorts Touch</li>
+<li>My Opinion : Non-Snap Ubuntu&rsquo;s</li>
+<li>Ubuntu Games - Cat Games</li>
+</ul>
+<p>plus: News, Micro This, Q&amp;A, The Daily Waddle, and more.</p>
+<p><strong>Other Languages</strong></p>
+<ul>
+<li><a href="https://dl.fullcirclemagazine.org/issue206_fr.pdf">French PDF</a></li>
+</ul> 
+
+<https://fullcirclemagazine.org/magazines/issue-206/>
 
 ---
 
@@ -1147,7 +1472,7 @@ We don't know, is the honest answer. But the 5% figure seems to be a myth.
 
 date: 2024-06-26, from: Doc Searls (at Harvard), New Old Blog
 
-It was a derecho, or something like one. The gust front you see in the third image here looks a lot like the storm front in the image above (via Weatherbug, storm tracker view). I&#8217;d experienced one twelve years ago, in Arlington, Mass. It felt like a two minute hurricane, and when it was over, [&#8230;] 
+It was a derecho, or something like one. The gust front you see in the third image here — —looks a lot like the storm front in the top image above (via Weatherbug, storm tracker view). I&#8217;d experienced one twelve years ago, in Arlington, Mass. It felt like a two minute hurricane, and when it [&#8230;] 
 
 <https://doc.searls.com/2024/06/25/a-very-local-storm/>
 

@@ -1,11 +1,143 @@
 ---
 title: going electric 2024.26
-updated: 2024-06-27 17:05:35
+updated: 2024-06-28 08:34:07
 ---
 
 # going electric 2024.26
 
-(date: 2024-06-27 17:05:35)
+(date: 2024-06-28 08:34:07)
+
+---
+
+## Cheaper Polestar 3 With Rear-Wheel Drive, More Range Added To Lineup
+
+date: 2024-06-28, from: Inside EVs News
+
+The single-motor Polestar 3 is here with more range for less money. 
+
+<https://insideevs.com/news/724803/polestar3-long-range-rwd-price/>
+
+---
+
+## Rivian Eyes Profit In Q4 With Upgraded EVs And Billions In Cash
+
+date: 2024-06-28, from: Inside EVs News
+
+We also discuss Toyota’s self-driving plans in China and why some experts think $25,000 is a tough target for the electric Jeep Renegade. 
+
+<https://insideevs.com/news/724900/rivian-profitability-in-q4-2024/>
+
+---
+
+## Weirdly, This Honda Scooter Patent Has a Gas Pedal
+
+date: 2024-06-28, from: Ride Apart, Electric Motorcycle News
+
+Could it get more people on two wheels? 
+
+<https://www.rideapart.com/news/724818/honda-gas-pedal-scooter-patent/>
+
+---
+
+## Jeep says a $25,000 Renegade EV is coming to the US, but can it deliver?
+
+date: 2024-06-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Jeep-25000-Renegade-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rugged SUV maker <a href="https://electrek.co/guides/jeep/">Jeep</a> officially announced plans to launch a Renegade EV in the US for under $25,000. However, industry experts believe the low starting price point may be hard to hit. Can Jeep deliver an electric Renegade for under $25K?</p>
+
+
+
+ <a href="https://electrek.co/2024/06/28/jeep-says-25000-renegade-ev-coming-can-it-deliver/#more-369530" data-post-id="369530" data-layer-pagetype="post" data-layer-postcategory="electric-jeep,jeep" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/28/jeep-says-25000-renegade-ev-coming-can-it-deliver/>
+
+---
+
+## This Polaris RZR Is Hiding a Secret: It's Tesla-Powered
+
+date: 2024-06-28, from: Ride Apart, Electric Motorcycle News
+
+Time for all the torque.  
+
+<https://www.rideapart.com/news/724809/polaris-rzr-tesla-swap-utv-watch/>
+
+---
+
+## You Could Buy the Same UTV Sold to the Russian Military, Right Here in the US
+
+date: 2024-06-28, from: Ride Apart, Electric Motorcycle News
+
+Mil-spec? 
+
+<https://www.rideapart.com/news/724801/aodes-utv-russian-military-china/>
+
+---
+
+## Ford CEO Jim Farley posts an insightful ode to electric vehicles as a ‘lifelong petrol head’
+
+date: 2024-06-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Ford-CEO-Jim-Farley-F-150-Lightning.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/ford/">Ford Motor Company</a> CEO Jim Farley recently posted an opinion piece to social media, sharing a fresh and inspiring perspective about his newfound love for electric vehicles. As a self-described “lifelong petrol head,” Farley definitely found his niche by heading one of the world’s most prominent automakers. Given his foresight into the future of electrification, it’s easy to see why he’s CEO, and better still, he has the data to back his statements up.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/28/ford-ceo-jim-farley-posts-ode-to-electric-vehicles-as-lifelong-petrol-head/#more-369519" data-post-id="369519" data-layer-pagetype="post" data-layer-postcategory="ford,ford-f-150-lightning,ford-mach-e" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/28/ford-ceo-jim-farley-posts-ode-to-electric-vehicles-as-lifelong-petrol-head/>
+
+---
+
+## Look At These Cool Accessories The Honda Monkey Is Getting, But Only In Japan
+
+date: 2024-06-28, from: Ride Apart, Electric Motorcycle News
+
+New colors, too, of course. 
+
+<https://www.rideapart.com/news/724815/honda-monkey-oem-accessories-2024/>
+
+---
+
+## Wheel-E Podcast: Huffy drift trike, CA fast e-bike laws, more
+
+date: 2024-06-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes Huffy bringing back its fun Green Machine drift trike in a powerful new form, Tern launching its new Quick Haul Long, taking a look at Rattan’s Pinus, Key Biscayne banning electric bikes, Mahle’s new lightweight e-bike system, and more.</p>
+
+
+
+ <a href="https://electrek.co/2024/06/28/wheel-e-podcast-huffy-drift-trike-ca-fast-e-bike-laws-more/#more-369516" data-post-id="369516" data-layer-pagetype="post" data-layer-postcategory="podcast,wheel-e-podcast" data-layer-viewtype="unknown" class="more-link">more…</a> 
+
+<https://electrek.co/2024/06/28/wheel-e-podcast-huffy-drift-trike-ca-fast-e-bike-laws-more/>
+
+---
+
+## 2026 Genesis Electrified G80 Packs Bigger Battery, 27-Inch Screen
+
+date: 2024-06-28, from: Inside EVs News
+
+The updated battery-powered sedan debuted in its home country of South Korea with a longer wheelbase and more niceties inside. 
+
+<https://insideevs.com/news/724837/2026-genesis-electrified-g80-facelift-specs-battery-interior/>
+
+---
+
+## These Motorcycle Stunt Riders Are Hosting a Travel Show, and It Looks Awesome
+
+date: 2024-06-28, from: Ride Apart, Electric Motorcycle News
+
+A raw, unfiltered ride around the US, which serves as a roadmap for your next adventure. 
+
+<https://www.rideapart.com/news/724797/always-anywhere-youtube-series/>
+
+---
+
+## 'Project 2025' Wants to Sell Off All Public Land, Pretends It's For Housing Crisis
+
+date: 2024-06-28, from: Ride Apart, Electric Motorcycle News
+
+None of this would solve housing issues, but it would line their pockets more. 
+
+<https://www.rideapart.com/news/724792/project-2025-public-lands-blm-sell-off-william-perry-pendley/>
 
 ---
 
