@@ -1,11 +1,11 @@
 ---
 title: socal north 2024.26
-updated: 2024-06-28 18:42:10
+updated: 2024-06-29 13:06:49
 ---
 
 # socal north 2024.26
 
-(date: 2024-06-28 18:42:10)
+(date: 2024-06-29 13:06:49)
 
 ---
 
@@ -200,7 +200,7 @@ The oil industry’s decision will mean that state rules protecting homes and sc
 
 date: 2024-06-27, from: The Sundail (CSUN Student Newspaper)
 
-ultrices neque ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna neque viverra justo nec ultrices dui sapien eget mi proin sed... 
+ 
 
 <https://sundial.csun.edu/182323/news/uvalde/>
 
@@ -265,6 +265,7 @@ And after a year as a mainstay of Cronin’s 2023-2024 lineup, former UCLA men�
 
 date: 2024-06-27, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated June 29 at 10:19 a.m.</em>
 We write as members of the UCLA community to state our refusal to participate in the investigation being conducted by 21st Century Policing Solutions on the police response to demonstrations and protests occurring in solidarity with the struggle to end Israel&#8217;s ongoing genocidal attack on Palestinians in the Gaza Strip. 
 
 <https://dailybruin.com/2024/06/27/op-ed-21st-century-policing-solutions-investigation-is-a-sham-shielding-uc-police/>

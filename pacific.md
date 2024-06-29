@@ -1,11 +1,11 @@
 ---
 title: pacific 2024.26
-updated: 2024-06-28 18:42:10
+updated: 2024-06-29 13:06:50
 ---
 
 # pacific 2024.26
 
-(date: 2024-06-28 18:42:10)
+(date: 2024-06-29 13:06:50)
 
 ---
 
@@ -323,6 +323,18 @@ date: 2024-06-28, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/06/28/hawaii-news/asteroid-to-make-close-approach-to-earth/>
+
+---
+
+## Huawei’s Harmony aims to end China’s reliance on Windows, Android
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>SHENZHEN, China &#8212; Packed into a small room, a drone, bipedal robot, supermarket checkout and other devices showcase a vision of China&#8217;s software future - one where an operating system developed by national champion Huawei has replaced Windows and Android.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/nation-world-news/huaweis-harmony-aims-to-end-chinas-reliance-on-windows-android/>
 
 ---
 

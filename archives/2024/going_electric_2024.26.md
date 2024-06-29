@@ -1,11 +1,11 @@
 ---
 title: going electric 2024.26
-updated: 2024-06-28 18:42:15
+updated: 2024-06-29 13:06:56
 ---
 
 # going electric 2024.26
 
-(date: 2024-06-28 18:42:15)
+(date: 2024-06-29 13:06:56)
 
 ---
 
@@ -112,6 +112,10 @@ date: 2024-06-28, from: Electrek Feed
 
 
 <p>Today’s Podcast is sponsored by the <a href="https://www.americansolarchallenge.org/the-competition/2024-american-solar-challenge/">Electrek American Solar Challenge 2024</a>.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Electrek_6-28-24.mp3"></audio></figure>
 
 
 
