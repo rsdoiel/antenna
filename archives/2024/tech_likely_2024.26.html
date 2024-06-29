@@ -36,7 +36,956 @@
 An experiment in personal news aggregation.
 </div>
 <h1 id="tech-likely-2024.26">tech likely 2024.26</h1>
-<p>(date: 2024-06-28 08:34:03)</p>
+<p>(date: 2024-06-28 18:42:11)</p>
+<hr />
+<h2 id="connecting-the-laptop-to-the-server-via-nncp">2024-06-28
+Connecting the laptop to the server via NNCP</h2>
+<p>date: 2024-06-28, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-06-28-connecting-the-laptop-to-the-server-via-nncp">
+2024-06-28 Connecting the laptop to the server via NNCP
+</h1>
+<p>
+First, install the <code>nncp</code> package on both systems. In
+addition to that, install the <code>openbsd-inetd</code> package on the
+server. (In the following passages, I’m connected as <code>root</code>
+to the server.)
+</p>
+<p>
+Generate new configs on the systems that are missing
+<code>/etc/nncp.hjson</code>.
+</p>
+<pre><code>nncp-cfgnew &gt; /etc/nncp.hjson
+chown nncp:nncp /etc/nncp.hjson
+chmod 660 /etc/nncp.hjson
+</code></pre>
+<p>
+Examine the file using a text editor. Each system needs to know the
+public keys of the other.
+</p>
+<p>
+So, on the laptop, I need to add to add the public keys of the server. I
+also want to specify that I’m going to call the node on a regular basis
+and that files sent to me from that node should be saved in my
+“incoming” directory. I also want to accept mail.
+</p>
+<pre><code>    sibirocobombus: {
+      id:       ...
+      exchpub:  ...
+      signpub:  ...
+      noisepub: ...
+      incoming: &quot;/home/alex/incoming/sibirocobombus&quot;
+      exec: {
+        sendmail: [&quot;/usr/sbin/sendmail&quot;]
+      }
+      addrs: {
+        internet: &quot;alexschroeder.ch:5400&quot;
+      }
+      calls: [
+        {
+          cron: &quot;12 * * * *&quot;
+        }
+      ]
+    }
+</code></pre>
+<p>
+And on the server, I need to add the public keys of the laptop. I also
+want to save incoming files from the laptop. And I want to accept mail.
+</p>
+<pre><code>    melanobombus: {
+      id:       ...
+      exchpub:  ...
+      signpub:  ...
+      noisepub: ...
+      incoming: &quot;/home/alex/incoming&quot;
+      exec: {
+        sendmail: [&quot;/usr/sbin/sendmail&quot;]
+      }
+    }
+</code></pre>
+<p>
+Note how the laptop calls the server but the server does not call the
+laptop!
+</p>
+<p>
+Let’s make sure those directories exist:
+</p>
+<pre><code>mkdir ~/incoming
+ssh sibirocobombus mkdir incoming
+</code></pre>
+<p>
+Let’s create a file and send it from the laptop to the server using
+<code>nncp-file</code>:
+</p>
+<pre><code>echo Hello &gt; hello.txt
+sudo -u nncp nncp-file hello.txt sibirocobombus:
+</code></pre>
+<p>
+Check the log using <code>nncp-log</code>:
+</p>
+<pre><code>nncp-log | tail -n 1
+2024-06-28T21:36:02Z File hello.txt (282 B) is sent to sibirocobombus:hello.txt
+</code></pre>
+<p>
+Let’s connect to the server and check:
+</p>
+<pre><code>ssh sibirocobombus ls incoming
+</code></pre>
+<p>
+Nothing has arrived!
+</p>
+<p>
+Let’s call the server using <code>nncp-call</code>:
+</p>
+<pre><code>sudo -u nncp nncp-call sibirocobombus
+2024-06-28T22:07:36Z ERROR Calling sibirocobombus (alexschroeder.ch:5400): dial tcp [2a02:418:6a04:178:209:50:237:1]:5400: connect: connection refused
+</code></pre>
+<p>
+Oops. It’s not running? That’s right, I need to run
+<code>nncp-daemon</code> on the server side.
+</p>
+<p>
+Add the following to <code>/etc/inetd.conf</code> on the server to
+accept NNCP connections on port 5400:
+</p>
+<pre><code>5400 stream  tcp6    nowait  nncp    /usr/local/bin/nncp-daemon  nncp-daemon -quiet -ucspi
+</code></pre>
+<p>
+Reload it:
+</p>
+<pre><code>systemctl reload openbsd-inetd
+</code></pre>
+<p>
+Try again on the laptop:
+</p>
+<pre><code>sudo -u nncp nncp-call sibirocobombus
+2024-06-28T22:14:13Z We have got for sibirocobombus: 1 packets, 486 B
+2024-06-28T22:14:13Z ERROR SP with sibirocobombus (nice MAX): reading: EOF
+2024-06-28T22:14:13Z ERROR Connection to sibirocobombus (alexschroeder.ch:5400): EOF
+</code></pre>
+<p>
+Back to the server:
+</p>
+<pre><code>nncp-log
+2024-06-28T22:15:25Z ERROR SP nice MAX: waiting for first message: unknown peer: ...
+2024-06-28T22:15:25Z Connected to unknown
+</code></pre>
+<p>
+Strange! That id listed there matches my laptop’s <code>noisepub</code>.
+Checking the <code>/etc/nncp.hjson</code> on the server again, I see
+that pasted the wrong pubkeys… 🤦 Fix that and try again…
+</p>
+<pre><code>sudo -u nncp nncp-call sibirocobombus
+2024-06-28T22:19:31Z We have got for sibirocobombus: 1 packets, 486 B
+2024-06-28T22:19:31Z Connection to sibirocobombus (alexschroeder.ch:5400)
+2024-06-28T22:19:31Z Tx QAROTFMX25ZPQOT5..I6JKH75EC2DMSSZQ 486 B/486 B 100% (0 B/sec)
+2024-06-28T22:19:31Z Packet QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ is sent
+2024-06-28T22:19:42Z Finished call with sibirocobombus (0:0:11): 32 KiB received (32 KiB/sec), 33 KiB transferred (33 KiB/sec)
+</code></pre>
+<p>
+Looking good! Check for the file on the server:
+</p>
+<pre><code>ssh sibirocobombus ls incoming
+</code></pre>
+<p>
+It’s not there!
+</p>
+<p>
+Let’s investigate on the server:
+</p>
+<pre><code>nncp-log
+2024-06-28T22:19:31Z Packet QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ (486 B) (nice B): 0%
+2024-06-28T22:19:31Z melanobombus has got for us: 1 packets, 486 B
+2024-06-28T22:19:31Z Connection with melanobombus (PIPE)
+2024-06-28T22:19:31Z Got packet QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ 100% (486 B / 486 B): done
+2024-06-28T22:19:42Z Finished call with melanobombus (0:0:11): 33 KiB received (33 KiB/sec), 32 KiB transferred (32 KiB/sec)
+</code></pre>
+<p>
+This looks good, so we have the packet! And we can confirm this using
+<code>nncp-stat</code>:
+</p>
+<pre><code>nncp-stat
+melanobombus
+    nice:   B | Rx:      486 B,   1 pkts | Tx:        0 B,   0 pkts
+self
+</code></pre>
+<p>
+What needs to happen now is “tossing” using <code>nncp-toss</code>. This
+is, “processing” the packet and thereby delivering it.
+</p>
+<pre><code>sudo -u nncp nncp-toss
+2024-06-28T22:24:28Z ERROR Tossing file melanobombus/QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ (6 B): hello.txt: mktemp: open /home/alex/incoming/nncpfile17dd4b56c39f64d4: permission denied
+</code></pre>
+<p>
+That’s right, the incoming file should be writable by more people…
+</p>
+<pre><code>chgrp nncp /home/alex/incoming
+chmod g+w /home/alex/incoming
+</code></pre>
+<p>
+Try again!
+</p>
+<pre><code>sudo -u nncp nncp-toss
+2024-06-28T22:26:35Z Rx file QAROTFMX25ZPQOT5..I6JKH75EC2DMSSZQ 6 B/6 B 100% (0 B/sec)
+2024-06-28T22:26:36Z Got file hello.txt (6 B) from melanobombus
+</code></pre>
+<p>
+It worked:
+</p>
+<pre><code>ls -l /home/alex/incoming/
+total 4
+-rw-r--r-- 1 nncp nncp 6 29. Jun 00:26 hello.txt
+
+cat /home/alex/incoming/hello.txt 
+Hello
+</code></pre>
+<p>
+🥳
+</p>
+<p>
+Those ownerships still need fixing. 🤨
+</p>
+<p>
+I need to think about
+<a href="https://nncp.mirrors.quux.org/Administration.html">admin
+issues</a>, clearly.
+</p>
+<p>
+I need to set up regular <code>nncp-call</code> on the laptop; I need to
+set up regular <code>nncp-toss</code> on the server.
+</p>
+<p>
+It would be nice to switch from <code>inetd</code> to
+<code>systemd</code> perhaps? Surely they have written a replacement for
+it. They have written replacements for everything! 😬
+</p>
+<p>
+Next up, sending email back and forth!
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Administration">#Administration</a>
+<a class="tag" href="/search/?q=%23NNCP">#NNCP</a>
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-06-28-nncp"
+class="uri">https://alexschroeder.ch/view/2024-06-28-nncp</a></p>
+<hr />
+<h2 id="microsoft-all-content-on-the-web-is-fair-use">Microsoft: all
+content on the web is fair use</h2>
+<p>date: 2024-06-28, from: OS News</p>
+<p>When someone tells you who they are, believe them. Microsoft’s AI
+chief Mustafa Suleyman: With respect to content that is already on the
+open web, the social contract of that content since the ’90s has been
+that it is fair use. Anyone can copy it, recreate with it, reproduce
+with it. That has been freeware, if you like. That’s been the
+understanding. ↫ Mustafa Suleyman This is absolute bullshit from the
+first word to the very last. None of this is true – not even in the
+slightest. Content on the web is not free for the taking by anyone,
+especially not to be chewed up and regurgitated verbatim by spicy
+autocomplete tools. There is no “social contract” to that effect. In
+fact, when I go to any of Microsoft’s website, documents, videos, or any
+other content they publish online, on the open web, and scroll to the
+very bottom of the page, it’s all got the little copyright symbol or
+similar messaging. Once again, this underlines how entitled Silicon
+Valley techbros really are. If we violate even a gram of Microsoft’s
+copyrights, we’d have their lawyers on our ass in weeks – but when
+Microsoft itself needs to violate copyright and licensing on an
+automated, industrial scale, for massive profits, everything is suddenly
+peace, love, and fair use. Men in Silicon Valley just do not understand
+consent. At all. And they show this time and time again. Meanwhile, the
+Internet Archive has to deal with crap like this: The lawsuit is about
+the longstanding and widespread library practice of controlled digital
+lending, which is how we lend the books we own to our patrons. As a
+result of the publishers’ lawsuit, more than 500,000 books have been
+removed from our lending library. ↫ Chris Freeland at the Internet
+Archive Blogs Controlled lending without a profit motive is deemed
+illegal, but violating copyright and licensing on an automated,
+industrial scale is fair use. Make it make sense. Make it make
+sense.</p>
+<p><a
+href="https://www.osnews.com/story/140088/microsoft-all-content-on-the-web-is-fair-use/"
+class="uri">https://www.osnews.com/story/140088/microsoft-all-content-on-the-web-is-fair-use/</a></p>
+<hr />
+<h2 id="apple-ii-graphics-more-than-you-wanted-to-know">Apple II
+graphics: more than you wanted to know</h2>
+<p>date: 2024-06-28, from: OS News</p>
+<p>The Apple ][ is one of the most iconic vintage computers of all time.
+But since Wozniak’s monster lasted all the way until 1993 (1995 if you
+could the IIe card, which I won’t count until I get one), it can be easy
+to forget that in 1977, it was a video extravaganza. The competitors–
+even much bigger and established companies like Commodore and Tandy–
+generally only had text modes, let alone pixel-addressable graphics, and
+they certainly didn’t have sixteen colors. (Gray and grey are different
+colors, right?) ↫ Nicole Branagan If there’s ever anything you wanted to
+know about how graphics work on the Apple II, this is the place to go.
+It’s an incredibly detailed and illustrated explanation of how the
+machine renders and displays graphics, and an excellent piece of writing
+to boot. I’m a little jealous.</p>
+<p><a
+href="https://www.osnews.com/story/140086/apple-ii-graphics-more-than-you-wanted-to-know/"
+class="uri">https://www.osnews.com/story/140086/apple-ii-graphics-more-than-you-wanted-to-know/</a></p>
+<hr />
+<h2 id="this-week-in-the-indieweb">This Week in the IndieWeb</h2>
+<p>date: 2024-06-28, from: This week in Indie Web</p>
+<h1>
+<a href="https://indieweb.org/this-week/2024-06-28.html">June 21-28,
+2024</a>
+</h1>
+<h2 id="recent-events">
+Recent Events
+</h2>
+<p>
+From
+<a href="https://events.indieweb.org/archive">events.indieweb.org/archive</a>:
+</p>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/06/homebrew-website-club-europe-london-7EeVR8ATRtpk" class="u-url">Homebrew
+Website Club Europe/London</a>
+</div>
+<time class="dt-start" datetime="2024-06-26T19:00:00+00:00">Wednesday,
+June 26 at 7:00pm</time><br>
+<div class="e-summary" style="font-style: italic">
+<p>
+Join us online in Zoom for demos of personal sites, recent
+breakthroughs, discussions about the independent web, and meet IndieWeb
+community members! Homebrew Website club is for all levels and areas of
+IndieWeb interest, whether curious, creative, a coder, or all the above.
+</p>
+</div>
+<div>
+<img src="https://indieweb.org/this-week/images/2024-06-28/774c8ad0f3baa3bf5a873dadf4f84fcd51c8648b.jpg" style="width:100%" class="u-photo">
+</div>
+</div>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/06/homebrew-website-club-edinburgh-1210iock7v5d" class="u-url">Homebrew
+Website Club Edinburgh</a>
+</div>
+<time class="dt-start" datetime="2024-06-25T18:00:00+00:00">Tuesday,
+June 25 at 6:00pm</time><br>
+<ul>
+<li>
+EDINBURGH, Scotland: Costa Coffee (Upstairs)
+</li>
+</ul>
+</div>
+<h2 id="upcoming-events">
+Upcoming Events
+</h2>
+<p>
+From <a href="https://events.indieweb.org/">events.indieweb.org</a>:
+</p>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/07/bonus-online-homebrew-website-club-writing-edition-i8jny55Dngyd" class="u-url">Bonus
+Online Homebrew Website Club - Writing Edition</a>
+</div>
+<time class="dt-start" datetime="2024-07-01T20:00:00+02:00">Monday, July
+1 at 8:00pm</time><br>
+<div class="e-summary" style="font-style: italic">
+<p>
+The Homebrew Website Club to discuss the writing and writing-related
+topics. If you write on the web, whenever this is short message,
+detailed blog posts, reviews, rantings or fiction, come join us.
+</p>
+</div>
+</div>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/07/front-end-study-hall-006-SSFMWaLFzMng" class="u-url">Front
+End Study Hall #006</a>
+</div>
+<time class="dt-start" datetime="2024-07-02T18:00:00+01:00">Tuesday,
+July 2 at 6:00pm</time><br>
+<div class="e-summary" style="font-style: italic">
+<p>
+Front End Study Hall is an HTML + CSS focused group meeting, held on
+Zoom to learn from each other about how to make code do what we want.
+</p>
+<p>
+Come prepared to teach and learn!
+</p>
+</div>
+</div>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/07/homebrew-website-club-nürnberg-digital-festival-edition-MpDAKz0jW4Cn" class="u-url">Homebrew
+Website Club - Nürnberg Digital Festival Edition</a>
+</div>
+<time class="dt-start" datetime="2024-07-03T18:00:00+02:00">Wednesday,
+July 3 at 6:00pm</time><br>
+<ul>
+<li>
+NÜRNBERG, Bayern: LEONARDO – Zentrum für Kreativität und Innovation
+</li>
+</ul>
+<div class="e-summary" style="font-style: italic">
+<p>
+HWC Nuremberg is a in-person meeting for everybody who is interested in
+setting up a personal website and talk about web-related issues.
+</p>
+</div>
+</div>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/07/homebrew-website-club-europe-london-1MGOh2nqIkCp" class="u-url">Homebrew
+Website Club Europe/London</a>
+</div>
+<time class="dt-start" datetime="2024-07-03T19:00:00+01:00">Wednesday,
+July 3 at 7:00pm</time><br>
+<div class="e-summary" style="font-style: italic">
+<p>
+Join us online in Zoom for demos of personal sites, recent
+breakthroughs, discussions about the independent web, and meet IndieWeb
+community members! Homebrew Website club is for all levels and areas of
+IndieWeb interest, whether curious, creative, a coder, or all the above.
+</p>
+</div>
+</div>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/07/homebrew-website-club-pacific-H6HjYtrlWMkn" class="u-url">Homebrew
+Website Club - Pacific</a>
+</div>
+<p><time class="dt-start" datetime="2024-07-03T18:00:00-07:00">Wednesday,
+July 3 at 6:00pm</time><br></p>
+</div>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/07/homebrew-website-club-nuremberg-germany-mSA17SBkPqdw" class="u-url">Homebrew
+Website Club - Nuremberg/Germany</a>
+</div>
+<time class="dt-start" datetime="2024-07-10T18:00:00+02:00">Wednesday,
+July 10 at 6:00pm</time><br>
+<ul>
+<li>
+NÜRNBERG, Bayern: LEONARDO – Zentrum für Kreativität und Innovation
+</li>
+</ul>
+<div class="e-summary" style="font-style: italic">
+<p>
+HWC Nuremberg is a in-person meeting for everybody who is interested in
+setting up a personal website and talk about web-related issues.
+</p>
+</div>
+</div>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/07/send-a-friend-a-webmention-day-Yg7gsfhZDigm" class="u-url">Send
+a Friend a Webmention Day</a>
+</div>
+<p><time class="dt-start" datetime="2024-07-30T00:00:00+00:00">Tuesday,
+July 30</time><br></p>
+</div>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/08/homebrew-website-club-nuremberg-germany-vxakxQ2PARVz" class="u-url">Homebrew
+Website Club - Nuremberg/Germany</a>
+</div>
+<time class="dt-start" datetime="2024-08-14T18:00:00+02:00">Wednesday,
+August 14 at 6:00pm</time><br>
+<ul>
+<li>
+NÜRNBERG, Bayern: LEONARDO – Zentrum für Kreativität und Innovation
+</li>
+</ul>
+<div class="e-summary" style="font-style: italic">
+<p>
+HWC Nuremberg is a in-person meeting for everybody who is interested in
+setting up a personal website and talk about web-related issues.
+</p>
+</div>
+</div>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/08/xoxo-2024-Q7X4mFWNaZYa" class="u-url">XOXO
+2024</a>
+</div>
+<time class="dt-start" datetime="2024-08-22T00:00:00+00:00">August
+22</time> -
+<time class="dt-end" datetime="2024-08-24T00:00:00+00:00">August
+24</time><br>
+<ul>
+<li>
+PORTLAND, Oregon: Revolution Hall
+</li>
+</ul>
+</div>
+<div class="h-event" style="margin-bottom: 1em;">
+<div class="p-name" style="font-size: 1.3em; font-weight: bold;">
+<a href="https://events.indieweb.org/2024/08/indiewebcamp-portland-2024-8bucXDlLqR0k" class="u-url">IndieWebCamp
+Portland 2024</a>
+</div>
+<time class="dt-start" datetime="2024-08-25T00:00:00+00:00">Sunday,
+August 25</time><br>
+<ul>
+<li>
+PORTLAND, Oregon: TBD
+</li>
+</ul>
+<div class="e-summary" style="font-style: italic">
+<p>
+A one day IndieWebCamp Portland 2024 is planned for August 25th, the day
+after the XOXO conference and festival, pending confirmation of a venue!
+If you’re in Portland and have a suggested venue please get in touch via
+the IndieWeb chat!
+</p>
+</div>
+</div>
+<h2 id="new-community-members">
+New Community Members
+</h2>
+<p>
+From
+<a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=2">IndieWeb
+Wiki: New User Pages</a>:
+</p>
+<h3>
+<a href="https://indieweb.org/User%3AZacharykai.net">User:Zacharykai.net</a>
+</h3>
+<p style="font-size:0.8em;">
+Created by Zacharykai.net on Friday
+</p>
+<h2 id="new-wiki-pages">
+Top New Wiki Pages
+</h2>
+<p>
+From
+<a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb
+Wiki: New Pages</a>:
+</p>
+<h3>
+<a href="https://indieweb.org/handshake">handshake</a>
+</h3>
+<p>
+handshake is a type of post, typically a short note, that has some text,
+then a handshake emoji (🤝), and some more text, indicating two things
+or parties who are different, yet seemingly agree or collaborate on
+something in common.
+</p>
+<p style="font-size:0.8em;">
+Created by [tantek] on Wednesday with 4 more edits by loqi.me and
+tantek.com
+</p>
+<h2 id="new-event-notes">
+New Event Notes
+</h2>
+<p>
+From
+<a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb
+Wiki: New Pages</a>:
+</p>
+<p>
+<b>Homebrew Website Club Europe/London:</b>
+<a href="https://indieweb.org/events/2024-06-26-hwc-europe">2024-06-26</a>
+</p>
+<h2 id="changed-wiki-pages">
+Top Edited Wiki Pages
+</h2>
+<p>
+From
+<a href="https://indieweb.org/wiki/index.php?namespace=0&title=Special%3ARecentChanges">IndieWeb
+Wiki: Recent Changes</a>:
+</p>
+<ul>
+<li>
+<b><a href="https://indieweb.org/colophon">colophon</a></b>
+<a href="https://indieweb.org/wiki/index.php?title=colophon&amp;action=historysubmit&amp;diff=95972&amp;oldid=95577">2
+edits</a> by zacharykai.net and tantek.com
+</li>
+<li>
+<b><a href="https://indieweb.org/git">git</a></b>
+<a href="https://indieweb.org/wiki/index.php?title=git&amp;action=historysubmit&amp;diff=95970&amp;oldid=92718">2
+edits</a> by loqi.me
+</li>
+<li>
+<b><a href="https://indieweb.org/discuss">discuss</a></b>
+<a href="https://indieweb.org/wiki/index.php?title=discuss&amp;action=historysubmit&amp;diff=95965&amp;oldid=95797">2
+edits</a> by trainedmonkey.com and bw3.dev
+</li>
+<li>
+<b><a href="https://indieweb.org/URL_shortener">URL shortener</a></b>
+<a href="https://indieweb.org/wiki/index.php?title=URL+shortener&amp;action=historysubmit&amp;diff=95961&amp;oldid=84589">2
+edits</a> by loqi.me and tantek.com
+</li>
+<li>
+<b><a href="https://indieweb.org/site-deaths">site-deaths</a></b>
+<a href="https://indieweb.org/wiki/index.php?title=site-deaths&amp;action=historysubmit&amp;diff=95951&amp;oldid=95600">2
+edits</a> by loqi.me
+</li>
+<li>
+<b><a href="https://indieweb.org/.bit">.bit</a></b>
+<a href="https://indieweb.org/wiki/index.php?title=.bit&amp;action=historysubmit&amp;diff=95946&amp;oldid=89706">2
+edits</a> by gregorlove.com and martymcgui.re
+</li>
+<li>
+<b><a href="https://indieweb.org/indielogin.com">indielogin.com</a></b>
+<a href="https://indieweb.org/wiki/index.php?title=indielogin.com&amp;action=historysubmit&amp;diff=95922&amp;oldid=71750">2
+edits</a> by paulrobertlloyd.com
+</li>
+<li>
+<b><a href="https://indieweb.org/search">search</a></b>
+<a href="https://indieweb.org/wiki/index.php?title=search&amp;action=historysubmit&amp;diff=95920&amp;oldid=95708">2
+edits</a> by loqi.me and tantek.com
+</li>
+</ul>
+<p><a href="https://indieweb.org/this-week/2024-06-28.html"
+class="uri">https://indieweb.org/this-week/2024-06-28.html</a></p>
+<hr />
+<h2 id="testing-new-raspberry-pi-5-cases---7-to-79">Testing new
+Raspberry Pi 5 Cases - $7 to $79</h2>
+<p>date: 2024-06-28, from: Jeff Geerling blog</p>
+<p><span
+class="field field--name-title field--type-string field--label-hidden">Testing
+new Raspberry Pi 5 Cases - $7 to $79</span></p>
+<pre><code>        &lt;div class=&quot;clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;p&gt;Since the Pi 5&#39;s launch, a number of Pi case redesigns have launched, and there are a few new entrants with something to offer. Like Fractal&#39;s &#39;Baby North&#39;... which, unfortunately, is only a prototype designed for their displays at Computex, and is not being planned for sale. At least not for now! I&#39;ll write more about this case later in this post.&lt;/p&gt;</code></pre>
+<p>
+<img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/fractal-baby-north-raspberry-pi-5-case.jpeg" alt="Fractal Baby North - Raspberry Pi 5 Case">
+</p>
+<p>
+The Pi 5’s thermals are close enough to the Pi 4 that old cooling
+solutions work okay, but the port layout and inclusion of a power button
+means at least minimal redesigns are necessary.
+</p>
+<p>
+Here are a few of the Pi 5 cases I’ve been testing (most for over a
+month, in various places), and my thoughts on each.
+</p>
+<h2>
+Raspberry Pi 5 Case (official)
+</h2>
+<p>
+The
+<a href="https://www.raspberrypi.com/products/raspberry-pi-5-case/">official
+case for the Raspberry Pi 5</a> is like a saltine cracker.
+</p>
+</div>
+<pre><code>  &lt;span class=&quot;field field--name-uid field--type-entity-reference field--label-hidden&quot;&gt;&lt;span&gt;Jeff Geerling&lt;/span&gt;&lt;/span&gt;</code></pre>
+<p><span
+class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-06-28T16:04:30-05:00" title="Friday, June 28, 2024 - 16:04" class="datetime">June
+28, 2024</time> </span></p>
+<p><a
+href="https://www.jeffgeerling.com/blog/2024/testing-new-raspberry-pi-5-cases-7-79"
+class="uri">https://www.jeffgeerling.com/blog/2024/testing-new-raspberry-pi-5-cases-7-79</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-06-28, from: Dave Winer’s Scripting
+News)</p>
+<p>A
+<a href="http://scripting.com/2024/06/28/weNeededBidenToHelpUsRelaxAboutHim.m4a">podcast</a>
+about the debate. We needed one thing from Biden, to believe he’s got
+this. It didn’t happen. Okay what’s next.</p>
+<p><a href="http://scripting.com/2024/06/28.html#a205456"
+class="uri">http://scripting.com/2024/06/28.html#a205456</a></p>
+<hr />
+<h2 id="rcs-in-ios-18-beta">RCS in iOS 18 Beta</h2>
+<p>date: 2024-06-28, from: Michael Tsai</p>
+<p>Ryan Haines: Then, it was time to jump into an RCS-powered future,
+and by that, I mean flipping a toggle in the Settings app. Seriously,
+that’s all there is to it right now for beta testers on the most recent
+build.From there, it was time to send my first RCS text message on an
+iPhone, […]</p>
+<p><a href="https://mjtsai.com/blog/2024/06/28/rcs-in-ios-18-beta/"
+class="uri">https://mjtsai.com/blog/2024/06/28/rcs-in-ios-18-beta/</a></p>
+<hr />
+<h2 id="removing-archives-of-comedy-central-and-mtv-news">Removing
+Archives of Comedy Central and MTV News</h2>
+<p>date: 2024-06-28, from: Michael Tsai</p>
+<p>Rick Porter: A pop-up window on the Comedy Central site reads, “While
+episodes of most Comedy Central series are no longer available on this
+website, you can watch Comedy Central through your TV provider. You can
+also sign up for Paramount+ to watch many seasons of Comedy Central
+shows.”[…]As noted by LateNighter, the cleaning out […]</p>
+<p><a
+href="https://mjtsai.com/blog/2024/06/28/removing-archives-of-comedy-central-and-mtv-news/"
+class="uri">https://mjtsai.com/blog/2024/06/28/removing-archives-of-comedy-central-and-mtv-news/</a></p>
+<hr />
+<h2 id="longevity-by-design">Longevity, by Design</h2>
+<p>date: 2024-06-28, from: Michael Tsai</p>
+<p>Joe Rossignol: Apple today published a lengthy whitepaper that
+highlights the company’s approach to device repairability and longevity.
+In the document, Apple revealed that iPhones will better support
+third-party displays and batteries later in 2024.[…]First, Apple said
+True Tone will work with third-party iPhone displays later this
+year[…][…]Second, Apple said battery health metrics such as […]</p>
+<p><a href="https://mjtsai.com/blog/2024/06/28/longevity-by-design/"
+class="uri">https://mjtsai.com/blog/2024/06/28/longevity-by-design/</a></p>
+<hr />
+<h2 id="porting-google-sheets-calculations-to-wasmgc">Porting Google
+Sheets Calculations to WasmGC</h2>
+<p>date: 2024-06-28, from: Michael Tsai</p>
+<p>Michael Thomas and Thomas Steiner Thomas Steiner (via Hacker News):
+The Google Sheets calculation engine was originally written in Java and
+launched in 2006. In the early days of the product, all calculation
+happened on the server. However, from 2013, the engine has run in the
+browser using JavaScript. This was originally accomplished through
+Google […]</p>
+<p><a
+href="https://mjtsai.com/blog/2024/06/28/porting-google-sheets-calculations-to-wasmgc/"
+class="uri">https://mjtsai.com/blog/2024/06/28/porting-google-sheets-calculations-to-wasmgc/</a></p>
+<hr />
+<h2
+id="nasa-awards-contract-for-infrared-telescope-facility-operations">NASA
+Awards Contract for Infrared Telescope Facility Operations</h2>
+<p>date: 2024-06-28, from: NASA breaking news</p>
+<p>NASA has selected the University of Hawaii in Honolulu to maintain
+and operate the agency’s Infrared Telescope Facility (IRTF) on Mauna Kea
+in Hilo, Hawaii. The Management and Operations of NASA’s IRTF is a
+hybrid firm-fixed-price contract with an
+indefinite-delivery/indefinite-quantity provision. The contract has a
+maximum potential value of approximately $85.5 million, with a base
+[…]</p>
+<p><a
+href="https://www.nasa.gov/news-release/nasa-awards-contract-for-infrared-telescope-facility-operations/"
+class="uri">https://www.nasa.gov/news-release/nasa-awards-contract-for-infrared-telescope-facility-operations/</a></p>
+<hr />
+<h2 id="python-apps-rejected-from-app-store">Python Apps Rejected From
+App Store</h2>
+<p>date: 2024-06-28, from: Michael Tsai</p>
+<p>Joe Brockmeier (via Hacker News): The problem at hand is that Apple’s
+macOS App Store is automatically rejecting apps that contain the string
+“itms-services”. That is the URL scheme for apps that want to ask
+Apple’s iTunes Store to install another app. […] That string is in the
+urllib parser in Python’s standard library, though […]</p>
+<p><a
+href="https://mjtsai.com/blog/2024/06/28/python-apps-rejected-from-app-store/"
+class="uri">https://mjtsai.com/blog/2024/06/28/python-apps-rejected-from-app-store/</a></p>
+<hr />
+<h2 id="rounded-quick-look-corners">Rounded Quick Look Corners</h2>
+<p>date: 2024-06-28, from: Michael Tsai</p>
+<p>Robin Allen (via Hacker News): For whatever reason, QuickLook will
+now remove the corners of your images before showing them to you.It
+doesn’t matter if they’re photos, game assets, or UI elements you’re
+designing. Everything will be rounded off before you see it.[…]We can
+click through these views and get info about them, including their
+[…]</p>
+<p><a
+href="https://mjtsai.com/blog/2024/06/28/rounded-quick-look-corners/"
+class="uri">https://mjtsai.com/blog/2024/06/28/rounded-quick-look-corners/</a></p>
+<hr />
+<h2 id="mac-marketshare-in-q1-2024">Mac Marketshare in Q1 2024</h2>
+<p>date: 2024-06-28, from: Michael Tsai</p>
+<p>Ben Lovejoy (via Hacker News): Mac shipments are estimated to have
+grown from 1.7M in the first quarter of 2023 to 2.1M in the same quarter
+this year. That represents year-on-year growth of 22%, giving Apple a
+14.2% share of the US PC market.The launch of the new M3-powered MacBook
+Air models in March were […]</p>
+<p><a
+href="https://mjtsai.com/blog/2024/06/28/mac-marketshare-in-q1-2024/"
+class="uri">https://mjtsai.com/blog/2024/06/28/mac-marketshare-in-q1-2024/</a></p>
+<hr />
+<h2 id="moaan-inkpalm-plus">Moaan InkPalm Plus</h2>
+<p>date: 2024-06-28, from: Michael Tsai</p>
+<p>John Moltz (Hacker News): A post on Mastodon got boosted into my feed
+that touted the Xiaomi Moaan InkPalm 5 which sells for about $95. Now
+you’re talking my kind of cheap. Looking into the Moaan lineup, I then
+found the InkPalm Plus which features a slightly larger screen, more
+storage and a more up-to-date […]</p>
+<p><a href="https://mjtsai.com/blog/2024/06/28/moaan-inkpalm-plus/"
+class="uri">https://mjtsai.com/blog/2024/06/28/moaan-inkpalm-plus/</a></p>
+<hr />
+<h2 id="starlink-mini">Starlink Mini</h2>
+<p>date: 2024-06-28, from: Michael Tsai</p>
+<p>Chris Wedel (via Hacker News): However, since I first began using
+these low-orbit satellites to power my internet, not only has the price
+gone up $30 per month, but the speeds and reliability have degraded
+significantly. I’ve talked to others in my area who use Starlink, and
+since January, we’ve experienced frequent downtime and fluctuating
+[…]</p>
+<p><a href="https://mjtsai.com/blog/2024/06/28/starlink-mini/"
+class="uri">https://mjtsai.com/blog/2024/06/28/starlink-mini/</a></p>
+<hr />
+<h2 id="nasa-announces-winners-of-inaugural-human-lander-challenge">NASA
+Announces Winners of Inaugural Human Lander Challenge</h2>
+<p>date: 2024-06-28, from: NASA breaking news</p>
+<p>NASA’s 2024 Human Lander Challenge (HuLC) Forum brought 12 university
+teams from across the United States to Huntsville, Alabama, near the
+agency’s Marshall Space Flight Center, to showcase their innovative
+concepts for addressing the complex issue of managing lunar dust. The 12
+finalists, selected in March 2024, presented their final presentations
+to a panel of […]</p>
+<p><a
+href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-of-inaugural-human-lander-challenge/"
+class="uri">https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-of-inaugural-human-lander-challenge/</a></p>
+<hr />
+<h2 id="debate-notes">Debate notes</h2>
+<p>date: 2024-06-28, from: Dave Karpf’s blog</p>
+<p>It was a bad night. But at least its over. …Right?</p>
+<p><a href="https://davekarpf.substack.com/p/debate-notes"
+class="uri">https://davekarpf.substack.com/p/debate-notes</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Miguel">@Miguel</span> de
+Icaza Mastondon feed</strong> (date: 2024-06-28, from: Miguel de Icaza
+Mastondon feed)</p>
+<p>
+Godot Community Poll:
+</p>
+<p>
+<a href="https://godotengine.org/article/godot-community-poll-2024/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span
+class="invisible">https://</span><span
+class="ellipsis">godotengine.org/article/godot-</span><span
+class="invisible">community-poll-2024/</span></a>
+</p>
+<p><a href="https://mastodon.social/@Migueldeicaza/112695880071492018"
+class="uri">https://mastodon.social/@Migueldeicaza/112695880071492018</a></p>
+<hr />
+<h2 id="the-maze-is-afoot">The Maze is Afoot</h2>
+<p>date: 2024-06-28, from: NASA breaking news</p>
+<p>This labyrinth – with a silhouette of the fictional detective
+Sherlock Holmes at its center – is used as a calibration target for the
+cameras and laser that are part of SHERLOC (Scanning Habitable
+Environments with Raman &amp; Luminescence for Organics and Chemicals),
+one of the instruments aboard NASA’s Perseverance Mars rover. The image
+was […]</p>
+<p><a href="https://www.nasa.gov/image-article/the-maze-is-afoot/"
+class="uri">https://www.nasa.gov/image-article/the-maze-is-afoot/</a></p>
+<hr />
+<h2
+id="nasa-opportunities-fuel-growth-and-entrepreneurship-for-bronco-space-club-students">NASA
+Opportunities Fuel Growth and Entrepreneurship for Bronco Space Club
+Students</h2>
+<p>date: 2024-06-28, from: NASA breaking news</p>
+<p>NASA’s public competitions can catalyze big changes – not just for
+the agency but also for participants. Bronco Space, the CubeSat
+laboratory at California State Polytechnic University in Pomona,
+California, matured more than just space technology as a result of
+winning funds from NASA’s TechLeap Prize competition. It grew from its
+roots in a broom […]</p>
+<p><a
+href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-opportunities-fuel-growth-and-entrepreneurship-for-bronco-space-club-students/"
+class="uri">https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-opportunities-fuel-growth-and-entrepreneurship-for-bronco-space-club-students/</a></p>
+<hr />
+<h2 id="true-grit">True Grit</h2>
+<p>date: 2024-06-28, updated: 2024-06-28, from: One Foot Tsunami</p>
+<p><a href="https://onefoottsunami.com/2024/06/28/true-grit/"
+class="uri">https://onefoottsunami.com/2024/06/28/true-grit/</a></p>
+<hr />
+<h2
+id="its-not-unusual-to-port-the-linux-vector-packet-processor-vpp-to-freebsd">It’s
+not unusual to port the Linux Vector Packet Processor (VPP) to
+FreeBSD</h2>
+<p>date: 2024-06-28, from: OS News</p>
+<p>The Vector Packet Processor (VPP) is a framework for moving packets
+around at high rates. Its core concept is handling packets in groups
+known as “vectors,” which allows for the native use of vector processor
+instructions for packet classification and processing in different CPU
+architectures — currently amd64 and arm64. VPP can process packets at
+incredibly high rates and competes with many dedicated forwarding
+appliances. This is achieved using userspace networking that bypasses
+the host’s normal network stack. This article describes the porting of
+VPP to FreeBSD and working with the upstream VPP project to include
+FreeBSD as a supported target. ↫ Tom Jones It’s not unusual for me to
+link to something a little over my head, and this is another example of
+something I know y’all will like, but I don’t really understand
+fully.</p>
+<p><a
+href="https://www.osnews.com/story/140084/its-not-unusual-to-port-the-linux-vector-packet-processor-vpp-to-freebsd/"
+class="uri">https://www.osnews.com/story/140084/its-not-unusual-to-port-the-linux-vector-packet-processor-vpp-to-freebsd/</a></p>
+<hr />
+<h2 id="a-blogroll-lab">A blogroll lab</h2>
+<p>date: 2024-06-28, from: Dave Winer’s Scripting News</p>
+<p>
+I wanted to see what was out there in blogrolls, so I wrote an app that
+started from my own blogroll, and looked for feeds I was subscribed to
+that also had blogrolls, following the
+<a href="https://opml.org/blogroll.opml">conventions</a> we outlined in
+March.
+</p>
+<p>
+It then starts at each of the blogrolls I found in my list, and did the
+same thing with them, until I ran out of lists to look at.
+</p>
+<p>
+And the whole thing runs again a few minutes later.
+</p>
+<p>
+It found a bunch of them, so then I threw together a simple user
+interface that lets you click on the title of a blogroll in a list in
+the left panel, and view the actual blogroll in the right panel. Here’s
+a screen shot.
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/06/28/blogrollbrowser.png">
+</center>
+Screen shot of the Blogroll Browser.
+</div>
+</p>
+<p>
+You can see it at
+<a href="https://browse.blogroll.social/?blogrollUrl=https%3A%2F%2Ffeedland.social%2Fopml%3Fscreenname%3Ddavewiner%26catname%3Dblogroll&blogrollTitle=davewiner%2Fblogroll">browser.blogroll.social</a>.
+</p>
+<p>
+A caveat – what you see here is just an experiment. I don’t expect this
+app to be up for any period of time. It’s here just to learn from. Part
+of a bootstrap perhaps.
+</p>
+<p>
+PS: Cross-posted on
+<a href="https://dave.micro.blog/2024/06/28/a-blogroll-lab.html">micro.blog</a>.
+</p>
+<p><a
+href="http://scripting.com/2024/06/28/170235.html?title=aBlogrollLab"
+class="uri">http://scripting.com/2024/06/28/170235.html?title=aBlogrollLab</a></p>
+<hr />
+<h2 id="summer">2024-06-28 Summer</h2>
+<p>date: 2024-06-28, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-06-28-summer">
+2024-06-28 Summer
+</h1>
+<p>
+Time to post more pictures…
+</p>
+<p>
+<img loading="lazy" src="2024-06-28-flowers-1.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-2.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-3.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-4.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-5.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-6.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-7.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-8.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-9.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-10.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-11.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-12.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-13.jpg" alt="" />
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-06-28-flowers"
+class="uri">https://alexschroeder.ch/view/2024-06-28-flowers</a></p>
+<hr />
+<h2 id="in-space-production-applications-news">In Space Production
+Applications News</h2>
+<p>date: 2024-06-28, from: NASA breaking news</p>
+<p>Technological innovations make headlines every day, and NASA’s In
+Space Production Applications (InSPA) Portfolio of awards are driving
+these innovations into the future. InSPA awards help U.S. companies
+demonstrate in-space manufacturing of their products and move them to
+market, propelling U.S. industry toward the development of a
+sustainable, scalable, and profitable non-NASA demand for services and
+products […]</p>
+<p><a href="https://www.nasa.gov/missions/station/inspa-news/"
+class="uri">https://www.nasa.gov/missions/station/inspa-news/</a></p>
+<hr />
+<h2 id="responsible-inventing">Responsible Inventing</h2>
+<p>date: 2024-06-28, updated: 2024-06-28, from: Tantek Çelik’s blog</p>
+<p><a href="https://tantek.com/2024/180/b1/responsible-inventing"
+class="uri">https://tantek.com/2024/180/b1/responsible-inventing</a></p>
+<hr />
+<h2
+id="nasa-my-library-and-partners-engage-millions-in-eclipse-training-and-preparation">NASA@
+My Library and Partners Engage Millions in Eclipse Training and
+Preparation</h2>
+<p>date: 2024-06-28, from: NASA breaking news</p>
+<p>The Space Science Institute, with funding from the NASA Science
+Mission Directorate and Gordon and Betty Moore Foundation, provided
+unprecedented training, support, and supplies to 15,000 libraries in the
+U.S. and territories in support of public engagement during the 2023 and
+2024 eclipses. From September 2022 to September 2024, these efforts
+included: One public library […]</p>
+<p><a
+href="https://science.nasa.gov/learning-resources/science-activation/nasa-my-library-and-partners-engage-millions-in-eclipse-training-and-preparation/"
+class="uri">https://science.nasa.gov/learning-resources/science-activation/nasa-my-library-and-partners-engage-millions-in-eclipse-training-and-preparation/</a></p>
 <hr />
 <h2 id="the-need-for-a-president-that-speaks-ai-natively">The need for a
 President that speaks AI natively</h2>
@@ -831,6 +1780,13 @@ PDF</a>
 </ul>
 <p><a href="https://fullcirclemagazine.org/magazines/issue-206/"
 class="uri">https://fullcirclemagazine.org/magazines/issue-206/</a></p>
+<hr />
+<h2 id="the-steam-deck-ships-with-wireguard">The Steam Deck ships with
+WireGuard</h2>
+<p>date: 2024-06-28, from: Ze Iaso’s blog</p>
+<p>One less install required!</p>
+<p><a href="https://xeiaso.net/notes/2024/steam-deck-wireguard/"
+class="uri">https://xeiaso.net/notes/2024/steam-deck-wireguard/</a></p>
 <hr />
 <h2
 id="windows-10-will-be-covered-by-0patch-a-third-party-paid-patching-service">Windows
@@ -3747,11 +4703,11 @@ class="uri">https://mjtsai.com/blog/2024/06/24/always-allow-safari-bookmarklets/
 <h2 id="icloud-drive-dropbox-and-proton-drive">iCloud Drive, Dropbox,
 and Proton Drive</h2>
 <p>date: 2024-06-24, from: Michael Tsai</p>
-<p>Ryan Christoffel (AppleInsider): The problem is, Apple
+<p>Ryan Christoffel (AppleInsider, MacRumors): The problem is, Apple
 “intelligently” decides which files can remain stored in local cache,
 and will make decisions to remove certain downloads without telling you.
 So when you need to access a given file—say, on an airplane with no
-connection—you might find that the file has been sent back to the cloud
+connection—you might find that the file has been sent back to the
 […]</p>
 <p><a
 href="https://mjtsai.com/blog/2024/06/24/icloud-drive-dropbox-and-proton-drive/"

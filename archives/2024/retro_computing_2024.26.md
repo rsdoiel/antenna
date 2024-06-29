@@ -1,11 +1,21 @@
 ---
 title: retro computing 2024.26
-updated: 2024-06-28 08:34:07
+updated: 2024-06-28 18:42:14
 ---
 
 # retro computing 2024.26
 
-(date: 2024-06-28 08:34:07)
+(date: 2024-06-28 18:42:14)
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2024-06-28, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 9: Any Port in a Storm 
+
+<https://www.filfre.net/2024/06/this-week-on-the-analog-antiquarian/>
 
 ---
 

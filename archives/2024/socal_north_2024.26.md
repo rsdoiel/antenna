@@ -1,11 +1,136 @@
 ---
 title: socal north 2024.26
-updated: 2024-06-28 08:34:00
+updated: 2024-06-28 18:42:10
 ---
 
 # socal north 2024.26
 
-(date: 2024-06-28 08:34:00)
+(date: 2024-06-28 18:42:10)
+
+---
+
+## Ballot measure madness: How California lawmakers are scrambling the November list
+
+date: 2024-06-28, updated: 2024-06-28, from: The LAist
+
+In late deals with Gov. Newsom and legislative leaders, proponents are pulling measures off the Nov. 5 ballot. But the Legislature may add others by next week. 
+
+<https://laist.com/news/politics/ballot-measure-madness-how-california-lawmakers-are-scrambling-the-november-list>
+
+---
+
+## Avalon VFW Post forced to close
+
+date: 2024-06-28, from: Catalina Islander
+
+As Catalina Island prepares to join the rest of the country in celebrating America’s Independence, Avalon will need to adjust a little bit, as a regular participant of its celebration has been lost. The Avalon chapter of the Veterans of Foreign War (VFW) Post is closing its doors, in a manner of speaking. It has [&#8230;] 
+
+<https://thecatalinaislander.com/avalon-vfw-post-forced-to-close/>
+
+---
+
+## Beyond the Statute: Lack of health care for incarcerated people constitutes a public health crisis
+
+date: 2024-06-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#8220;Beyond the Statute&#8221; is a series created by Sierra Benayon-Abraham, an assistant Opinion editor and third-year public health student. In these columns, she will be exploring various public health policies, laws and experiences that different marginalized communities encounter, along with the truths behind them. 
+
+<https://dailybruin.com/2024/06/28/beyond-the-statute-lack-of-health-care-for-incarcerated-people-constitutes-a-public-health-crisis/>
+
+---
+
+## Avalon 4th of July schedule of events
+
+date: 2024-06-28, from: Catalina Islander
+
+The USC Marching band free concert will be on July 3 on the Wrigley Stage. 10-11 a.m. House Judging 11-12 p.m. Golf Cart Judging on Lower Descanso. This year’s Theme is Avalon’s Golden Age of Avalon: Swinging into the 20s and 30s. Noon-12:30 p.m. Parade line up: No entrance through Casino way After 12:45 p.m. [&#8230;] 
+
+<https://thecatalinaislander.com/avalon-4th-of-july-schedule-of-events/>
+
+---
+
+## Big Ten Preview: Michigan State
+
+date: 2024-06-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA is just weeks away from joining the Big Ten. After 96 years and 123 national championships in the Pac-12, the Bruins are at the forefront of the Big Ten&#8217;s West Coast expansion. 
+
+<https://dailybruin.com/2024/06/28/big-ten-preview-michigan-state/>
+
+---
+
+## Council appoints new planners
+
+date: 2024-06-28, from: Catalina Islander
+
+The Avalon City Council appointed new members to the Planning Commission at last week’s council meeting. The vote was 4-0 with Councilmember Yesenia De La Rosa absent. Current terms for the Planning Commission end on June 30 of this year, according to the staff report by Administrative Analyst/Deputy City Clerk Devin Hart. Returning planners are: [&#8230;] 
+
+<https://thecatalinaislander.com/council-appoints-new-planners/>
+
+---
+
+## Catalina Realtors, Hamilton Cove RE, Bravo’s Landscaping win
+
+date: 2024-06-28, from: Catalina Islander
+
+The start of the second round of CoEd Softball began with Catalina Realtors taking on Coyote Joe’s. Catalina Realtors was up first, and used five base hits to score three. Coyote Joe’s answered back with two runs off a base hit, a walk and a double from Ryan Hinkley. Catalina Realtors added another three runs [&#8230;] 
+
+<https://thecatalinaislander.com/catalina-realtors-hamilton-cove-re-bravos-landscaping-win/>
+
+---
+
+## Conservancy announces hunting season for 2024
+
+date: 2024-06-28, from: Catalina Islander
+
+In response to requests from the public to increase recreational hunting opportunities on Catalina Island, the Conservancy will host a 2024 hunting season beginning July 22. The California Fish and Game Commission recently approved up to 1,000 tags for the 2024 season – twice the number allotted in previous years. The tags will be allocated [&#8230;] 
+
+<https://thecatalinaislander.com/conservancy-announces-hunting-season-for-2024/>
+
+---
+
+## Filing Period for 2024 City Council Election Opens Monday, July 15
+
+date: 2024-06-28, from: City of Santa Clarita
+
+<p>The City’s 2024 General Municipal Election, consolidated with the Los Angeles County Presidential General Election, will be held on November 5, 2024. This will be the first by-district election in the City, with two district seats up for election. Registered voters in the City of Santa Clarita District 1 and District 3 will have the [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/06/28/filing-period-for-2024-city-council-election-opens-monday-july-15/">Filing Period for 2024 City Council Election Opens Monday, July 15</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/06/28/filing-period-for-2024-city-council-election-opens-monday-july-15/>
+
+---
+
+## US Supreme Court Enforces Ban on People Sleeping Outdoors
+
+date: 2024-06-28, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/07/us-supreme-court-building-2225766_1280.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/07/us-supreme-court-building-2225766_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/07/us-supreme-court-building-2225766_1280.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/07/us-supreme-court-building-2225766_1280.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/07/us-supreme-court-building-2225766_1280.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/07/us-supreme-court-building-2225766_1280.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/07/us-supreme-court-building-2225766_1280.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/07/us-supreme-court-building-2225766_1280.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/07/us-supreme-court-building-2225766_1280.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2023/07/us-supreme-court-building-2225766_1280.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; The United States Supreme Court made a decision today to allow cities to enforce bans on homeless people sleeping outdoors on the same day data from [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/06/28/us-supreme-court-enforces-ban-on-people-sleeping-outdoors/">US Supreme Court Enforces Ban on People Sleeping Outdoors</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/06/28/us-supreme-court-enforces-ban-on-people-sleeping-outdoors/>
+
+---
+
+## Fishing Derby sees 27 kids haul in 134 fish
+
+date: 2024-06-28, from: Catalina Islander
+
+The return of the summer kids Fishing Derby had a big day on June 26. A total of 27 kids from Avalon, San Clemente, Dana Point, San Diego, Oregon to Idaho participated, and as a group the young anglers hauled in 134 fish. 10 and under most fish Caught – 1st-Logan Henry, Avalon 11. 2nd-Jonathon [&#8230;] 
+
+<https://thecatalinaislander.com/fishing-derby-sees-27-kids-haul-in-134-fish/>
+
+---
+
+## Supreme Court says prosecutors improperly charged some Jan. 6 defendants
+
+date: 2024-06-28, updated: 2024-06-28, from: The LAist
+
+The statute is also the basis for one of the four obstruction counts brought against former President Donald Trump in the criminal case currently pending against him in federal court in Washington. 
+
+<https://laist.com/news/politics/supreme-court-says-prosecutors-improperly-charged-some-jan-6-defendants>
 
 ---
 
@@ -13,7 +138,7 @@ updated: 2024-06-28 08:34:00
 
 date: 2024-06-28, updated: 2024-06-28, from: The LAist
 
-Why so many Democrats are ringing the fire alarms after the first general-election presidential debate of 2024. 
+Why so many Democrats are ringing the fire alarms after the first general election presidential debate of 2024. 
 
 <https://laist.com/news/politics/analysis-4-takeaways-from-the-first-presidential-debate>
 
@@ -29,7 +154,7 @@ Supporters of the change said the test was designed for older students and wasn�
 
 ---
 
-## Federal money for student internet is gone. Here’s how LAUSD is keeping families connected
+## LAUSD extends home internet program for a year after federal funding ends. What then?
 
 date: 2024-06-28, updated: 2024-06-28, from: The LAist
 
@@ -217,7 +342,7 @@ UCLA officially joins the Big Ten on Aug. 2. After 96 years and 123 national cha
 
 date: 2024-06-27, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="544" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?fit=1024%2C544&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?resize=300%2C159&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?resize=1024%2C544&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?resize=768%2C408&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?resize=1536%2C816&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?resize=1200%2C638&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?resize=1568%2C833&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?resize=400%2C213&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?resize=706%2C375&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?fit=1024%2C544&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="544" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?fit=1024%2C544&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?resize=300%2C159&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?resize=1024%2C544&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?resize=768%2C408&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?resize=1536%2C816&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?resize=1200%2C638&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?resize=1568%2C833&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?resize=400%2C213&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?resize=706%2C375&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Heat_SN_02-scaled-e1719466510439.jpeg?fit=1024%2C544&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Puede que el verano haya comenzado hace solo una semana, pero las temperaturas en el Valle de San Fernando ya han aumentado significativamente. El fin de semana pasado, el Departamento [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/06/26/mantenerse-seguro-y-fresco-frente-al-calor-extremo/">Mantenerse Seguro y Fresco Frente al Calor Extremo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -242,7 +367,7 @@ date: 2024-06-27, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-06-27, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="683" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?resize=1365%2C2048&amp;ssl=1 1365w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?resize=1200%2C1800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?resize=706%2C1059&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="683" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?resize=1365%2C2048&amp;ssl=1 1365w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?resize=1200%2C1800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?resize=706%2C1059&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Children-in-Pool_elsol.jpg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Ahora que ha llegado el verano, muchas personas, incluidos los niños, disfrutarán nadando para refrescarse del cálido sol de California en piscinas, parques acuáticos, lagos y el océano. Sin embargo, [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/06/26/antes-de-refrescarse-en-una-piscina-lago-o-en-el-oceano-protejase-contra-lo-que-pueda-estar-al-acecho-en-el-agua/">Antes de Refrescarse en una Piscina, Lago o en el Océano, Protéjase Contra lo que Pueda estar al Acecho en el Agua</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -279,7 +404,7 @@ date: 2024-06-27, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-06-27, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/IMG_8281-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Trans individuals are often “misgendered or retraumatized” when dealing with law enforcement officers, said a community leader at a public forum that explored hate against LGBTQ+ communities. &#160; &#160; &#160; [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/06/26/lgbtq-anti-hate-awareness-forum-shares-services-and-explores-challenges-2/">LGBTQ+ Anti-Hate Awareness Forum Shares Services and Explores Challenges</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -304,7 +429,7 @@ date: 2024-06-27, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-06-27, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="768" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=1568%2C2091&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=2000%2C2667&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="768" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=1568%2C2091&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=2000%2C2667&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/PXL_20240623_014922276-scaled.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Por tercer año consecutivo, el Mercado al Aire Libre de San Fernando, con temática de Pride, celebró a los miembros de la comunidad LGBTQ+.&#160; Tal vez a medida que las [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/06/26/se-celebra-el-tercer-mercado-anual-al-aire-libre-de-san-fernando-con-tematica-de-pride/">Se Celebra el Tercer Mercado Anual al Aire Libre de San Fernando con Temática de Pride</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -317,7 +442,7 @@ date: 2024-06-27, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-06-27, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?w=1599&amp;ssl=1 1599w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?w=1599&amp;ssl=1 1599w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/06/Baseball-001.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Los equipos de béisbol del Departamento de Policía de Los Ángeles (LAPD) y el Departamento del Sheriff de Los Ángeles (LASD) continuaron una tradición de juego de 23 años con [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/06/26/los-equipos-de-beisbol-del-lapd-y-el-lasd-honran-al-fallecido-diputado-de-lasd-freddy-flores/">Los Equipos de Béisbol del LAPD y el LASD Honran al Fallecido Diputado de LASD Freddy Flores</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

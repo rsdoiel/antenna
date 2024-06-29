@@ -1,11 +1,165 @@
 ---
 title: weather 2024.26
-updated: 2024-06-28 08:34:04
+updated: 2024-06-28 18:42:12
 ---
 
 # weather 2024.26
 
-(date: 2024-06-28 08:34:04)
+(date: 2024-06-28 18:42:12)
+
+---
+
+## CPHC Central North Pacific Outlook
+
+date: 2024-06-28, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC HFOTWOCP ALL<br />
+TTAA00 PHFO DDHHMM<br />
+<br />
+Tropical Weather Outlook<br />
+NWS Central Pacific Hurricane Center Honolulu HI<br />
+200 PM HST Fri Jun 28 2024<br />
+<br />
+For the central North Pacific...between 140W and 180W:<br />
+<br />
+No tropical cyclones are expected during the next 7 days.<br />
+<br />
+$$<br />
+Forecaster Kino<br />
+NNNN<br />
+<br />
+</div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-06-28, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Fri, 28 Jun 2024 23:44:16 GMT 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-06-28, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 PM EDT Fri Jun 28 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems: <br>The National Hurricane Center is issuing advisories on newly formed <br>Tropical Depression Two, located over the central tropical Atlantic <br>Ocean. <br><br>1. Northwestern Caribbean/Southwestern Gulf of Mexico (AL94): <br>A broad area of low pressure over the northwestern Caribbean Sea <br>continues to produce widespread but disorganized shower and <br>thunderstorm activity. Development of this low is not anticipated <br>before it moves inland over the Yucatan Peninsula on Saturday. The <br>system is then forecast to move west-northwestward, emerging over <br>the Bay of Campeche Saturday night or early Sunday, where conditions <br>appear generally conducive for further development. A tropical <br>depression could form before the system moves inland again early <br>next week over Mexico. Regardless of development, heavy rainfall <br>associated with the area of low pressure will affect portions of <br>Central America and Mexico through early next week.<br>* Formation chance through 48 hours...medium...40 percent.<br>* Formation chance through 7 days...medium...40 percent.<br><br />
+2. Eastern Tropical Atlantic:<br>A tropical wave located several hundred miles south-southwest of the <br>Cabo Verde Islands is producing an area of disorganized showers and <br>thunderstorms.  Environmental conditions appear generally conducive <br>for additional development of this system, and a tropical depression <br>could form by the middle of next week while it moves generally <br>westward at 15 to 20 mph across the eastern and central tropical <br>Atlantic. <br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...medium...40 percent.<br><br />
+<br>Public Advisories on Tropical Depression Two are issued under WMO <br>header WTNT32 KNHC and under AWIPS header MIATCPAT2. <br>Forecast/Advisories on Tropical Depression Two are issued under WMO <br>header WTNT22 KNHC and under AWIPS header MIATCMAT2.<br><br>Forecaster Papin<br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## NHC Eastern North Pacific Outlook
+
+date: 2024-06-28, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_2d0_resize.gif" alt="Eastern North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_7d0_resize.gif" alt="Eastern North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOEP ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>500 PM PDT Fri Jun 28 2024<br><br>For the eastern North Pacific...east of 140 degrees west longitude:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Papin<br>NNNN<br><br></div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2024-06-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0441 PM CDT Fri Jun 28 2024
+
+Valid 301200Z - 061200Z
+
+An upper-level trough is expected to move from the Pacific Northwest
+onto the northern Plains this weekend into mid-next week.
+Upper-level ridging will be suppressed over the West restricting
+monsoonal moisture to portions of Arizona, New Mexico, and Colorado,
+east of the Continental Divide. Zonal flow aloft will linger over
+central/northern portions of the Intermountain West through mid-next
+week, with upper-level ridging building over the West late next
+week.
+
+...Day 3/Sunday - Day 6/Wednesday: Great Basin/vicinity...
+Ahead of a cold front, dry and windy conditions will develop from
+central Nevada extending northeast into central Wyoming on Day
+3/Sunday. Elevated to locally critical conditions are expected in
+these areas, with portions of the Great Basin having a second
+consecutive day of elevated to locally critical fire weather. Dry
+and breezy conditions are also possible from the eastern Sierra into
+portions of the Mojave Desert due to downslope winds.
+
+Isolated mixed wet/dry thunderstorms are likely from far northeast
+California across far northern Nevada, southeast Oregon, and
+southwest Idaho Day 3/Sunday. Post-frontal dry and breezy conditions
+are likely behind the cold front and in the vicinity of potential
+dry thunderstorm development as well. Better chances and coverage of
+thunderstorms are expected from central Idaho through western
+Montana, but these storms are likely to be stronger and wetter with
+fuels not as critical in these areas. 
+
+Dry and breezy post-frontal conditions are likely to continue in
+portions of the western/northern Great Basin Day 4/Monday, with a
+relatively narrow band of pre-frontal dry and breezy conditions
+possible from northern Arizona into southern Wyoming. However,
+forecast guidance has not coalesced around areas with potential
+critical winds/RH and receptive fuels yet.
+
+Another cold frontal passage is likely to bring dry and breezy
+conditions to portions of the northern/central Great Basin Day
+5/Tuesday - Day 6/Wednesday, with dry and breezy conditions possible
+along portions of the Cascade Gaps on Day 4/Monday - Day 5/Tuesday.
+However, the timing and strength remain uncertain precluding
+probabilities for critical conditions at this time. 
+
+...Day 4/Monday - Day 5/Tuesday: Sacramento Valley/vicinity...
+A thermal trough is likely to extend from the Desert Southwest
+through California leading to above normal temperatures and poor RH
+recovery along and near this feature Day 3/Sunday into early next
+week and again late in the outlook period. Gusty northerly winds are
+possible in portions of northern California, especially in/around
+the Sacramento Valley overnight through the morning of Day 4/Monday
+- Day 5/Tuesday.
+
+..Nauslar.. 06/28/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/exper/fire_wx/>
 
 ---
 
@@ -188,97 +342,6 @@ overnight, with severe gusts the main concern.
  
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-06-28, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Fri, 28 Jun 2024 12:16:48 GMT 
-
-<https://www.nhc.noaa.gov/gis/>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-06-28, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Fri Jun 28 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Western Caribbean/Southwestern Gulf of Mexico (AL94):<br>A broad area of low pressure over the western Caribbean Sea <br>associated with a tropical wave continues to produce widespread <br>shower and thunderstorm activity. Development of this system is not <br>expected today while it moves west-northwestward at around 15 mph, <br>and an Air Force reconnaissance mission planned for today has been <br>canceled. The disturbance is then expected to move westward over the <br>Yucatan Peninsula and emerge over the Bay of Campeche late Saturday <br>or early Sunday, at which point some development will be possible. <br>Regardless of development, heavy rainfall associated with the <br>tropical wave will affect portions of Central America and Mexico <br>through the weekend. <br>* Formation chance through 48 hours...low...30 percent.<br>* Formation chance through 7 days...low...30 percent.<br><br />
-2. Central Tropical Atlantic (AL95):<br>A low pressure system located about 1500 miles east-southeast of the <br>Windward Islands is gradually becoming better defined.  Showers and <br>thunderstorms are also showing signs of organization, and a tropical <br>depression or tropical storm will likely form later today or on <br>Saturday. This system is expected to move westward at 15 to 20 mph <br>and approach the Lesser Antilles by the end of the weekend. <br>Interests there should monitor the progress of this system.  For <br>more information, including gale warnings, see High Seas Forecasts <br>issued by the National Weather Service.<br>* Formation chance through 48 hours...high...90 percent.<br>* Formation chance through 7 days...high...90 percent.<br><br />
-3. Eastern Tropical Atlantic:<br>A tropical wave centered several hundred miles south-southwest of <br>the Cabo Verde Islands is producing disorganized showers and <br>thunderstorms.  Some slow development of this system is possible <br>next week while it moves generally westward across the central <br>and western tropical Atlantic at 15 to 20 mph. <br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...low...20 percent.<br><br />
-<br>High Seas Forecasts issued by the National Weather Service<br>can be found under AWIPS header NFDHSFAT1, WMO header FZNT01 <br>KWBC, and online at ocean.weather.gov/shtml/NFDHSFAT1.php<br><br>Forecaster Cangialosi/Zelinsky<br></div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2024-06-28, from: Eastern Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ABPZ20 KNHC 281124<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 500 AM PDT Fri Jun 28 2024<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- Tropical cyclone formation is not expected during the next 7 days.<br />
- <br />
- $$<br />
- Forecaster D. Zelinsky<br />
-  
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## Central Pacific Tropical Weather Outlook
-
-date: 2024-06-28, from: Central Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ACPN50 PHFO 281100<br />
- TWOCP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS Central Pacific Hurricane Center Honolulu HI<br />
- 200 AM HST Fri Jun 28 2024<br />
- <br />
- For the central North Pacific...between 140W and 180W:<br />
- <br />
- No tropical cyclones are expected during the next 7 days.<br />
- <br />
- $$<br />
- Forecaster Jelsema<br />
-  
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-06-28, from: Central Pacific Basin Tropical Cyclones
-
-No tropical cyclones as of Fri, 28 Jun 2024 12:16:48 GMT 
-
-<https://www.nhc.noaa.gov/>
 
 ---
 
@@ -1172,66 +1235,6 @@ capable of locally damaging wind gusts.
  
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
-
----
-
-## SPC Day 3-8 Fire Weather Outlook
-
-date: 2024-06-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3-8 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0231 PM CDT Thu Jun 27 2024
-
-Valid 291200Z - 051200Z
-
-Confidence in widespread critical fire weather conditions remains
-limited through the extended period, though some fire weather
-concerns are anticipated over the upcoming weekend across the Great
-Basin as an upper trough (recently noted over the northeast Pacific
-in water-vapor imagery) approaches the West Coast. Heading into next
-week, upper-level ridging is anticipated over the West, which may
-lead to a period of relatively weak winds, but warm/dry conditions
-favorable for curing fuels. Elsewhere across the CONUS, recent
-rainfall and/or precipitation chances should limit critical fire
-weather potential. 
-
-...D3/Saturday and D4/Sunday - Great Basin...
-Surface pressure falls are anticipated across central NV on D3/Sat
-afternoon ahead of the approaching upper trough. Increasing
-southerly flow emanating out of the Mojave desert should advect dry
-air northward into eastern NV into western UT and support areas of
-dry/windy conditions. Ensemble guidance continues to show only a
-modest signal for critical fire weather conditions, but most
-solutions suggest winds approaching 15 mph are likely with RH in the
-teens. This dry air mass will continue to spread northeast into
-northern UT and southwest WY by D4/Sun afternoon. A consolidating
-cyclone in the northern High Plains should bolster gradient winds
-across eastern NV into UT and WY ahead of an approaching cold front.
-The anticipation of a deepening cyclone, combined with at least one
-preceding day of warm/dry weather, lends higher confidence in the
-potential for critical fire weather conditions for Sunday afternoon.
-However, much of the risk area has recently received rainfall and/or
-may see rainfall over the next 24 hours. As such, fuel dryness may
-be modulated to some degree. This concern precludes higher risk
-probabilities, but rainfall and fuel trends will continue to be
-monitored. 
-
-Beyond D4/Sunday, elevated fire weather conditions may emerge each
-day across the northern Great Basin as a zonal flow regime becomes
-established. However, confidence in critical conditions is too
-limited for additional risk probabilities.
-
-..Moore.. 06/27/2024
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/exper/fire_wx/>
 
 ---
 

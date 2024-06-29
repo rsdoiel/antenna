@@ -1,11 +1,41 @@
 ---
 title: mid central 2024.26
-updated: 2024-06-28 08:34:02
+updated: 2024-06-28 18:42:10
 ---
 
 # mid central 2024.26
 
-(date: 2024-06-28 08:34:02)
+(date: 2024-06-28 18:42:10)
+
+---
+
+## Klassy speaks on Name, Image and Likeness at introductory press conference
+
+date: 2024-06-28, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+New director of athletics, Garrett Klassy, was welcomed by the playing of the Fight Song performed by the Bulldog marching band at his introductory press conference.  On Friday, June 28 media, faculty members and family filled up the seats inside the Josephine Auditorium in the Duncan Athletics Building. “This is honestly the greatest day of... 
+
+<https://fscollegian.com/2024/06/klassy-speaks-on-name-image-and-likeness-at-introductory-press-conference/>
+
+---
+
+## 2024 ARRL Field Day Wrap Up
+
+date: 2024-06-28, from: Amateur Radio Relay League News
+
+<p>It was a successful 2024 ARRL Field Day, despite severe weather and extreme temperatures impacting much of the country. Social media has hundreds of photos and stories from the United States. By Wednesday morning, nearly 2200 log entries had been received, with more arriving hourly. Just a reminder, the deadline for entries is July 23, 2024. Check out the ARRL Field Day website for the latest u...</p> 
+
+<http://www.arrl.org/news/view/2024-arrl-field-day-wrap-up>
+
+---
+
+## ARRL and Momobeam Introduce Dual-band Beam Antenna for 6- and 10-Meters
+
+date: 2024-06-28, from: Amateur Radio Relay League News
+
+<p>ARRL  The National Association for Amateur Radio® has a new product to help radio amateurs get active and on the air.</p><p>As Solar Cycle 25 continues to increase HF radio propagation on the upper bands, ARRL has partnered with the Italian antenna manufacturer Momobeam to design a dualband beam antenna to help take full advantage of the exciting opportunities for distant contacts. The ARRL Dual-band ...</p> 
+
+<http://www.arrl.org/news/view/arrl-and-momobeam-introduce-dual-band-beam-antenna-for-6-and-10-meters>
 
 ---
 

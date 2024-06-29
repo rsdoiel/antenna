@@ -1,11 +1,124 @@
 ---
 title: central coast 2024.26
-updated: 2024-06-28 08:34:02
+updated: 2024-06-28 18:42:11
 ---
 
 # central coast 2024.26
 
-(date: 2024-06-28 08:34:02)
+(date: 2024-06-28 18:42:11)
+
+---
+
+## Santa Barbara XFactor Baseball Club Shines, Takes Second at Cooperstown All-Star Village Tournament
+
+date: 2024-06-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/xfactor-cooperstown.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/xfactor-cooperstown.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/xfactor-cooperstown.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/xfactor-cooperstown.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/xfactor-cooperstown.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/xfactor-cooperstown.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/xfactor-cooperstown.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/xfactor-cooperstown.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/xfactor-cooperstown.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/xfactor-cooperstown.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/xfactor-cooperstown.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Santa Barbara XFactor Baseball Club earned a second-place finish at the highly competitive Cooperstown All-Star Village Tournament in Cooperstown, New York this week. The tournament consists of 68 12U [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-xfactor-baseball-club-shines-takes-second-at-cooperstown-all-star-village-tournament/">Santa Barbara XFactor Baseball Club Shines, Takes Second at Cooperstown All-Star Village Tournament</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-xfactor-baseball-club-shines-takes-second-at-cooperstown-all-star-village-tournament/>
+
+---
+
+## FEMA Issues New Flood Insurance Rate Map For Parts of County
+
+date: 2024-06-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara County residents are being advised to attend an open house event to discuss local flood risk and updates to the Flood Insurance Rate Map (FIRM) issued by FEMA. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/fema-issues-new-flood-insurance-rate-map-for-parts-of-county/">FEMA Issues New Flood Insurance Rate Map For Parts of County </a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/fema-issues-new-flood-insurance-rate-map-for-parts-of-county/>
+
+---
+
+## Goleta’s $7 Million Pavement Project Getting Underway in July
+
+date: 2024-06-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The city of Goleta will begin an estimated $7 million of pavement rehabilitation construction in mid-July. The road segments included were approved for the 2023 Pavement Rehabilitation Project. The project [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goletas-7-million-pavement-project-getting-underway-in-july/">Goleta&#8217;s $7 Million Pavement Project Getting Underway in July</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goletas-7-million-pavement-project-getting-underway-in-july/>
+
+---
+
+## Supreme Court Gives Cities in California More Power to Crack Down on Homeless Camps
+
+date: 2024-06-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Noozhawk republishes news articles from CalMatters on state and local policy issues that impact Santa Barbara County readers.  The U.S. Supreme Court today granted cities more power to arrest, cite and fine [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/supreme-court-gives-cities-in-california-more-power-to-crack-down-on-homeless-camps/">Supreme Court Gives Cities in California More Power to Crack Down on Homeless Camps</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/supreme-court-gives-cities-in-california-more-power-to-crack-down-on-homeless-camps/>
+
+---
+
+## FARO Center Offers Resources for People Experiencing Homelessness
+
+date: 2024-06-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The city of Santa Barbara, in partnership with the Santa Barbara Alliance for Community Transformation (SB ACT), has announced the opening of the Fostering Access, Resilience, and Opportunity (FARO) Center. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/faro-center-offers-resources-for-people-experiencing-homelessness/">FARO Center Offers Resources for People Experiencing Homelessness</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/faro-center-offers-resources-for-people-experiencing-homelessness/>
+
+---
+
+## Venture Inside Workshops of Local Artists During Open Studios Tour
+
+date: 2024-06-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="724" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062824-FScorzelli-2000.gif?fit=1024%2C724&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Francis Scorzelli, a contemporary abstract artist who works in oil and mixed media, stands with his arms folded in front of a large brightly colored painting. (Courtesy photo)" decoding="async" loading="lazy" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Tickets to the Santa Barbara Studio Artists’ 23rd annual Open Studios Tour — Saturday, Aug. 31-Monday, Sept. 2 (Labor Day weekend) — are now available online at www.santabarbarastudiorartists.com. The SBSA’s [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/venture-inside-workshops-of-local-artists-during-open-studios-tour/">Venture Inside Workshops of Local Artists During Open Studios Tour</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/venture-inside-workshops-of-local-artists-during-open-studios-tour/>
+
+---
+
+## Fire Causes Major Damage to Montecito Home
+
+date: 2024-06-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="620" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062824-Montecito-house-fire-dawlish-ph-2.jpg?fit=1024%2C620&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The Montecito Fire Department responded to a house fire Thursday evening after a neighbor reported smoke coming out of the house. No one was home, but a family pet was found dead." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062824-Montecito-house-fire-dawlish-ph-2.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062824-Montecito-house-fire-dawlish-ph-2.jpg?resize=300%2C182&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062824-Montecito-house-fire-dawlish-ph-2.jpg?resize=1024%2C620&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062824-Montecito-house-fire-dawlish-ph-2.jpg?resize=768%2C465&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062824-Montecito-house-fire-dawlish-ph-2.jpg?resize=1536%2C930&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062824-Montecito-house-fire-dawlish-ph-2.jpg?resize=2048%2C1240&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062824-Montecito-house-fire-dawlish-ph-2.jpg?resize=1200%2C727&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062824-Montecito-house-fire-dawlish-ph-2.jpg?resize=1568%2C949&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062824-Montecito-house-fire-dawlish-ph-2.jpg?resize=2000%2C1211&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062824-Montecito-house-fire-dawlish-ph-2.jpg?resize=400%2C242&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062824-Montecito-house-fire-dawlish-ph-2.jpg?resize=706%2C427&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/062824-Montecito-house-fire-dawlish-ph-2.jpg?fit=1024%2C620&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Montecito firefighters responded to a structure fire Thursday evening in the 200 block of Dawlish Place after smoke was reported coming out of a home. The fire department was alerted [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/structure-fire-damages-montecito-home/">Fire Causes Major Damage to Montecito Home</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/structure-fire-damages-montecito-home/>
+
+---
+
+## Dos Pueblos LL 10U All-Stars Advance to District Semifinals with 6-2 Win Over Ventura LL
+
+date: 2024-06-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/dpll-10u-628.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/dpll-10u-628.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/dpll-10u-628.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/dpll-10u-628.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/dpll-10u-628.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/dpll-10u-628.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/dpll-10u-628.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/dpll-10u-628.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/dpll-10u-628.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/dpll-10u-628.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/dpll-10u-628.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Dos Pueblos LL 10 All-Stars punched their ticket to the District 63 Semifinals with a 6-2 victory over Ventura LL on Thursday. Ventura LL struck first, jumping out to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dos-pueblos-ll-10u-all-stars-advance-to-district-semifinals-with-6-2-win-over-ventura-ll/">Dos Pueblos LL 10U All-Stars Advance to District Semifinals with 6-2 Win Over Ventura LL</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dos-pueblos-ll-10u-all-stars-advance-to-district-semifinals-with-6-2-win-over-ventura-ll/>
+
+---
+
+## Ruth Thayer Schaeffer of Goleta, 1938-2024
+
+date: 2024-06-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="688" height="1024" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ruthie-Schaeffer-Photo.jpg?fit=688%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Ruth Thayer Schaeffer" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ruthie-Schaeffer-Photo.jpg?w=821&amp;ssl=1 821w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ruthie-Schaeffer-Photo.jpg?resize=202%2C300&amp;ssl=1 202w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ruthie-Schaeffer-Photo.jpg?resize=688%2C1024&amp;ssl=1 688w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ruthie-Schaeffer-Photo.jpg?resize=768%2C1143&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ruthie-Schaeffer-Photo.jpg?resize=400%2C595&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ruthie-Schaeffer-Photo.jpg?resize=706%2C1051&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/Ruthie-Schaeffer-Photo.jpg?fit=688%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Ruth Thayer Schaeffer, 85, a Goleta resident for nearly 50 years, passed away at home on June 21, 2024 as a consequence of vascular dementia. Despite her age, Ruthie remained [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ruth-thayer-schaeffer-of-goleta-1938-2024/">Ruth Thayer Schaeffer of Goleta, 1938-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ruth-thayer-schaeffer-of-goleta-1938-2024/>
 
 ---
 

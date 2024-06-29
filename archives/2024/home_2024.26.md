@@ -1,11 +1,21 @@
 ---
 title: home 2024.26
-updated: 2024-06-28 08:34:06
+updated: 2024-06-28 18:42:14
 ---
 
 # home 2024.26
 
-(date: 2024-06-28 08:34:06)
+(date: 2024-06-28 18:42:14)
+
+---
+
+## Pride Month profile — CDFA’s Siobhan Reid: a transition journey
+
+date: 2024-06-28, from: Calfifornia Dept. Aggriculture blog
+
+As Pride Month nears an end, CDFA presents Q&#38;A with Siobhan Reid, a five-year employee with the agency’s IT service desk. Siobhan discusses some of the dynamics of gender transition in the workplace as well as personally.&#160; How long has &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27959">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27959>
 
 ---
 

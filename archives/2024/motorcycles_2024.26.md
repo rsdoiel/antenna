@@ -1,11 +1,21 @@
 ---
 title: motorcycles 2024.26
-updated: 2024-06-28 08:34:06
+updated: 2024-06-28 18:42:14
 ---
 
 # motorcycles 2024.26
 
-(date: 2024-06-28 08:34:06)
+(date: 2024-06-28 18:42:14)
+
+---
+
+## The Moto Guzzi Open House returns, together with the Città della Moto Guzzi rally
+
+date: 2024-06-28, from: Cycle World News
+
+From 12 to 15 September, Mandello del Lario once again opens its doors to Moto Guzzi fans and motorbike enthusiasts from all over the globe. 
+
+<https://www.cycleworld.com/the-wire/moto-guzzi-open-house-returns-together-with-citta-della-moto-guzzi-rally/>
 
 ---
 

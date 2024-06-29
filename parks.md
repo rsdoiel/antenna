@@ -1,19 +1,19 @@
 ---
 title: parks 2024.26
-updated: 2024-06-28 08:34:06
+updated: 2024-06-28 18:42:14
 ---
 
 # parks 2024.26
 
-(date: 2024-06-28 08:34:06)
+(date: 2024-06-28 18:42:14)
 
 ---
 
-## Easing trauma with public lands and resources
+## BLM’s Fort Stanton Cave focus of talk at Smokey Bear Days
 
-date: 2024-06-27, from: Bureau of Land Management, blog
+date: 2024-06-28, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/blm-seeks-input-proposed-management-updates-southern-oregon" hreflang="en">BLM seeks input on proposed management updates in southern Oregon</a></h2></div>
+<div class="field contact-block -title"><h1>BLM’s Fort Stanton Cave focus of talk at Smokey Bear Days</h1></div>
       
 
 
@@ -21,20 +21,8 @@ date: 2024-06-27, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Publication Date:</strong> </div>
-              <div><time datetime="2024-06-06T12:00:00Z">Thu, 06/06/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-            <div class="field contact-block -body"><figure role="group" class="align-center">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cc6b2997-b76c-4710-a0c7-bfd1a309f3b8" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+            <div class="field contact-block -body"><figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="91749650-5d08-4e1f-a965-fe5fcc87756c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -43,7 +31,7 @@ date: 2024-06-27, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Lakeview_sagebrush_landscape.png?itok=yJACxwvS" width="640" height="480" alt="The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-001.jpg?itok=RsDRLTEu" width="640" height="427" alt="Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days." typeof="foaf:Image">
 
 
 </div>
@@ -51,86 +39,90 @@ date: 2024-06-27, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM.</figcaption>
+<figcaption>Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days.</figcaption>
 </figure>
 
 
-<p>&nbsp;</p>
+<p>This year’s Smokey Bear Days featured two days of events, food and music, as well as talks about the nearby Fort Stanton Cave by Knutt Peterson, a cave and karst specialist for the Bureau of Land Management Roswell Field Office.</p>
 
-<p><strong>LAKEVIEW, Ore. </strong>— The Bureau of Land Management is seeking public comment on a Draft Environmental Impact Statement (EIS) for amending the&nbsp;<a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="c8ec45bf-6708-4c48-8c95-bded76d11290" href="https://www.blm.gov/sites/default/files/Lakeview_RMP_Text_Appendices.pdf" target="_blank" title="2003 Lakeview Resource Management Plan">2003 Lakeview Resource Management Plan</a>, which would update the management of 3.2 million acres of BLM-managed public lands in Lake and Harney counties. The amendment, which has been prepared to respond to a <a href="https://eplanning.blm.gov/public_projects/lup/87435/116985/142662/20100610_57-1_AmendRemand_SettleAgree_web.pdf" target="_blank" title="2010 court settlement">2010 court settlement</a>, addresses the management of public lands for wilderness characteristics, recreation, and grazing.</p>
+<p>Peterson gave two talks on May 4 at the Capitan Public Library, highlighting educational outreach and scientific projects in the cave, recreation opportunities at the BLM’s Fort Stanton-Snowy River Cave National Conservation Area, and BLM’s sinkhole cleanup activities in the area. He included many photos, maps and informational slides to illustrate the talks.</p>
 
-<p aria-hidden="true">“We welcome the public’s insight and input into how we can appropriately balance the management of these lands,<strong>” said Jami Ludwig, BLM Lakeview Field Manager.</strong> “This plan will help guide BLM’s management of this landscape for the next 20 years.”</p>
+<p>Firefighters found the original Smokey Bear cub near Capitan in 1950, and the U.S. Forest Service’s Smokey Bear Ranger District surrounds much of Capitan and the BLM’s Fort Stanton-Snowy River Cave National Conservation Area. The village holds the celebration every five years. In addition to Peterson’s talks, the BLM staffed an informational table May 3 and 4.</p>
 
-<p>As directed by the 2010 settlement, the BLM’s draft EIS and plan amendment consider a wide-range of management options for lands with wilderness characteristics, grazing, and outdoor recreation, including off-highway vehicle use. Public comments received on this draft will help inform the development of a final plan, which could combine management approaches from several of the draft alternatives, if appropriate.</p>
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f88fbe93-56c5-41ab-86ad-aec88478015c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
-<p>The BLM plans to host an in-person public meeting in Lakeview and two virtual public meetings during the comment period to discuss and answer questions about the plan. The BLM will announce these meetings at least 15 days in advance through the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register">BLM National NEPA Register</a>, public notices, media releases, social media, and/or mailings.</p>
 
-<p>A Notice of Availability will publish in tomorrow’s <em>Federal Register</em> to open a 90-day comment period. Project information is available at the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register 2">BLM National NEPA Register</a> where written comments may be submitted via the “Participate Now” option (preferred) by Sept. 4, 2024. Comments may also be submitted to <a href="mailto:BLM_OR_LV_RMP_Team@blm.gov" title="send email">BLM_OR_LV_RMP_Team@blm.gov</a><u>,</u>&nbsp;or delivered to BLM Lakeview District, 1301 South G Street, Lakeview, OR 97630</p>
 
-<p>For more information, please contact Michael Collins at 541-947-6112.</p>
 
-<hr>
-<h2>Public meetings</h2>
+  
 
-<p><strong>July 15, 2024 (Virtual Meeting)</strong></p>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-006.jpg?itok=caxd6lxr" width="640" height="427" alt="Smokey Bear himself stops by the Bureau of Land Management table during Smokey Bear Days in Capitan, N.M., May 3." typeof="foaf:Image">
 
-<p>5:00 – 7:00 p.m. (PT)</p>
 
-<p>Brief presentation at 5:00 p.m., followed&nbsp;by question and answer.</p>
-
-<p>Register at:&nbsp;<a href="https://blm.zoomgov.com/webinar/register/WN_RmlA5WJ5S7u54hitBm2cOw#/registration" target="_blank" title="july 15 meeting">https://bit.ly/45xUI59</a></p>
-
-<p><strong>July 16, 2024</strong></p>
-
-<p>5:00 – 7:00 p.m. (PT) Come any time.</p>
-
-<p>Christmas Valley @ Community Hall</p>
-
-<p>(87345 Holly Lane)</p>
-
-<p><strong>July 18, 2024</strong></p>
-
-<p>5:00 – 7:00 p.m. (PT) Come any time.</p>
-
-<p>Lakeview District Office</p>
-
-<p>(1301 South G Street)</p>
-
-<p><strong>July 22, 2024</strong></p>
-
-<p>5:00 – 7:30 p.m. (PT)</p>
-
-<p>Brief presentation at 5:00 p.m.,&nbsp;followed by question and answer.</p>
-
-<p>Register at:&nbsp;<a href="https://blm.zoomgov.com/webinar/register/WN_THcYqrkXSDymLCZwuqBUdQ#/registration" target="_blank" title="july 22 meeting">https://bit.ly/4cowT1V</a></p>
-
-<hr>
-<p>&nbsp;</p>
-<iframe src="https://storymaps.arcgis.com/stories/d9fe856e65ea427eb0cf2e9d961e88bf" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </div>
       
+</div>
+</div>
+
+<figcaption>Smokey Bear himself stops by the Bureau of Land Management table during Smokey Bear Days in Capitan, N.M., May 3.</figcaption>
+</figure>
+
+
+<p>Fort Stanton Cave, which receives its name from the nearby historic military fort run by the State of New Mexico, includes more than 44 miles of mapped passage, and is the 10th longest cave in the United States and the 62nd longest cave in the world, Peterson said.</p>
+
+<p>“It has more mapped passage than Carlsbad Caverns,” Peterson told visitors at the 11:15 a.m. talk May 4. “If you’ve been in Carlsbad Caverns, [Fort Stanton Cave] is a bigger cave. There may be bigger rooms [at Carlsbad Caverns]. There may be more formations there, but as far as extent of passage, this one is much bigger. This is just as spectacular in its own way.”</p>
+
+<p>The Snowy River Passage, within Fort Stanton Cave, is composed of white calcite deposited by water that sometimes flows through the cave, Peterson said. When traveling on Snowy River Passage, which is about 13 miles long, cavers must wear elbow and kneepads because the surface of the formation is extremely abrasive.</p>
+
+<p>The BLM has kept Fort Stanton Cave closed to recreational caving for about 10 years due to white-nose syndrome, a contagious fungal infection that kills about 90% of bats it infects, it is only open for educational and scientific use.</p>
+
+<p>The BLM limits entries into the cave to 350 a year, Peterson said. About 100 of those entries are for youths entering the cave for educational purposes, and the rest are for scientific entries.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="c1f31099-209a-481c-ac92-31b3f739ed7b" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -fiscal-year">
-    <div><strong>Fiscal Year:</strong> </div>
-              <div>2024</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-002.jpg?itok=hEk8d-gM" width="640" height="444" alt="Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days." typeof="foaf:Image">
 
 
+</div>
+      
+</div>
+</div>
+
+<figcaption>Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days.</figcaption>
+</figure>
 
 
+<p>The BLM’s educational outreach program features Caver Quest Academy, in partnership with the nonprofit Public Lands Interpretive Association, which teaches local seventh graders about Fort Stanton Cave in the classroom, includes a realistic video game about caving, and culminates in a trip to the cave for many of them, Peterson said.</p>
 
-  
+<p>In terms of scientific entries, scientists monitor bats, the cave’s climate and soil contents, Peterson said. They also continue to map the cave and restore it from damage due to past recreational use.</p>
 
-  <div class="field contact-block -organization">
-    <div><strong>Organization:</strong> </div>
-              <div>Bureau of land Management</div>
-          </div>
+<p>The Roswell Field Office is a leader in white-nose decontamination, Peterson said. &nbsp;The use of dedicated gear at Fort Stanton Cave also helps stop the potential for the human spread of white-nose syndrome to and from the cave. Every time cavers use the Fort Stanton Cave gear, Peterson and others wash and decontaminate it.</p>
 
+<p>“Because we can ‘decon’ large quantities of gear we’ve taken the ‘decon’ station to major caving events around the country and talk about decontaminating cave gear,” Peterson said.</p>
+
+<p>Although Fort Stanton Cave is closed to recreation, the rest of the NCA has many other recreational opportunities, Peterson said.</p>
+
+<p>The NCA includes two campgrounds, Cave Campground and Rob Jaggers Campground, and 70 miles of trails that are open to hikers, equestrians and mountain bikers, Peterson said. There are also opportunities for visiting cultural and historical sites, picnicking, hunting, wildlife viewing, nature study and photography.</p>
+
+<p>The BLM also has a program that removes trash from sinkholes in the Sacramento Gypsum Plains north of Capitan, Peterson said. Most of the projects involve volunteers, but some are too large and require the BLM to hire contractors to remove trash.</p>
+
+<p>Looking to the future of Fort Stanton Cave, Peterson said the BLM plans to continue exploration, restoration and public outreach efforts as much as possible.</p>
+
+<p>To learn more about Caver Quest Academy, visit <a href="https://publiclands.org/pages/caver-quest-academy-project">https://publiclands.org/pages/caver-quest-academy-project</a><br>
+&nbsp;</p>
+</div>
+      
 
 
 
@@ -140,8 +132,9 @@ date: 2024-06-27, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
-          <div><a href="https://www.blm.gov/region/lakeview-do" hreflang="en">Lakeview DO</a></div>
+              <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/pecos-do" hreflang="en">Pecos DO</a></div>
+          <div><a href="https://www.blm.gov/region/roswell-fo" hreflang="en">Roswell FO</a></div>
               </div>
       </div>
 
@@ -151,13 +144,24 @@ date: 2024-06-27, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -tag">
-    <div><strong>Tag:</strong> </div>
-          <div>
-              <div><a href="https://www.blm.gov/tag/eis" hreflang="en">EIS</a></div>
-          <div><a href="https://www.blm.gov/tag/planning-and-nepa" hreflang="en">Planning and NEPA</a></div>
-              </div>
-      </div>
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/science" hreflang="en">Science</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-06-28T12:00:00Z">Fri, 06/28/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
 
 
@@ -166,8 +170,8 @@ date: 2024-06-27, from: Bureau of Land Management, blog
   
 
   <div class="field contact-block -office">
-    <div><strong>District/Field Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/lakeview-district-office" hreflang="en">Lakeview District Office</a></div>
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/roswell-field-office" hreflang="en">Roswell Field Office</a></div>
           </div>
 
 
@@ -176,50 +180,38 @@ date: 2024-06-27, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -contact">
-    <div><strong>Contact:</strong> </div>
-          <div>
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48968/edit" hreflang="en">Fort-Stanton-Talk-002</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
               <div>
-
-  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-  <div class="field contact-block -label">
-    <div><strong>Name:</strong> </div>
-              <div>Lisa McNee</div>
+                    <div><a href="https://www.blm.gov/tag/caves-and-karsts" hreflang="en">Caves and Karsts</a></div>
+              <div><a href="https://www.blm.gov/tag/education" hreflang="en">Education</a></div>
+              <div><a href="https://www.blm.gov/tag/fort-stanton-snowy-river-cave-national-conservation-area" hreflang="en">Fort Stanton - Snowy River Cave National Conservation Area</a></div>
+                    </div>
           </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -email">
-    <div><strong>Email:</strong> </div>
-              <div>lmcnee@blm.gov</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -phone">
-    <div><strong>Phone:</strong> </div>
-              <div>541-947-6811</div>
-          </div>
-
-      </div>
-</div>
-              </div>
-      </div>
+  </div>
 
 
 
@@ -230,9 +222,264 @@ date: 2024-06-27, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/new-mexico" hreflang="en">New Mexico</a></div>
               </div>
-      </div> 
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48970/edit" hreflang="en">Fort-Stanton-Talk-006</a></div>
+          </div> 
+
+<https://www.blm.gov/blog/2024-06-28/blms-fort-stanton-cave-focus-talk-smokey-bear-days>
+
+---
+
+## Grand Canyon National Park to lift Stage 2 Fire Restrictions Monday, July 1
+
+date: 2024-06-28, from: Press Releases
+
+Effective on Monday, July 1 at 8 a.m., Stage 2 fire restrictions are rescinded for the entire Grand Canyon National Park. Increased monsoonal activity throughout northern Arizona has significantly lowered the fire danger risk within the last week.
+
+Grand Canyon National Park will remain in Stage 1 fire restrictions which requires that a campfire always be in a designated fire ring within a maintained campground. https://www.nps.gov/grca/learn/news/stage-2-fire-restrictions-lifted-july-2024.htm 
+
+<https://www.nps.gov/grca/learn/news/stage-2-fire-restrictions-lifted-july-2024.htm>
+
+---
+
+## Easing trauma with public lands and resources
+
+date: 2024-06-27, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>BLM’s Fort Stanton Cave focus of talk at Smokey Bear Days</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="91749650-5d08-4e1f-a965-fe5fcc87756c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-001.jpg?itok=RsDRLTEu" width="640" height="427" alt="Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days.</figcaption>
+</figure>
+
+
+<p>This year’s Smokey Bear Days featured two days of events, food and music, as well as talks about the nearby Fort Stanton Cave by Knutt Peterson, a cave and karst specialist for the Bureau of Land Management Roswell Field Office.</p>
+
+<p>Peterson gave two talks on May 4 at the Capitan Public Library, highlighting educational outreach and scientific projects in the cave, recreation opportunities at the BLM’s Fort Stanton-Snowy River Cave National Conservation Area, and BLM’s sinkhole cleanup activities in the area. He included many photos, maps and informational slides to illustrate the talks.</p>
+
+<p>Firefighters found the original Smokey Bear cub near Capitan in 1950, and the U.S. Forest Service’s Smokey Bear Ranger District surrounds much of Capitan and the BLM’s Fort Stanton-Snowy River Cave National Conservation Area. The village holds the celebration every five years. In addition to Peterson’s talks, the BLM staffed an informational table May 3 and 4.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f88fbe93-56c5-41ab-86ad-aec88478015c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-006.jpg?itok=caxd6lxr" width="640" height="427" alt="Smokey Bear himself stops by the Bureau of Land Management table during Smokey Bear Days in Capitan, N.M., May 3." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Smokey Bear himself stops by the Bureau of Land Management table during Smokey Bear Days in Capitan, N.M., May 3.</figcaption>
+</figure>
+
+
+<p>Fort Stanton Cave, which receives its name from the nearby historic military fort run by the State of New Mexico, includes more than 44 miles of mapped passage, and is the 10th longest cave in the United States and the 62nd longest cave in the world, Peterson said.</p>
+
+<p>“It has more mapped passage than Carlsbad Caverns,” Peterson told visitors at the 11:15 a.m. talk May 4. “If you’ve been in Carlsbad Caverns, [Fort Stanton Cave] is a bigger cave. There may be bigger rooms [at Carlsbad Caverns]. There may be more formations there, but as far as extent of passage, this one is much bigger. This is just as spectacular in its own way.”</p>
+
+<p>The Snowy River Passage, within Fort Stanton Cave, is composed of white calcite deposited by water that sometimes flows through the cave, Peterson said. When traveling on Snowy River Passage, which is about 13 miles long, cavers must wear elbow and kneepads because the surface of the formation is extremely abrasive.</p>
+
+<p>The BLM has kept Fort Stanton Cave closed to recreational caving for about 10 years due to white-nose syndrome, a contagious fungal infection that kills about 90% of bats it infects, it is only open for educational and scientific use.</p>
+
+<p>The BLM limits entries into the cave to 350 a year, Peterson said. About 100 of those entries are for youths entering the cave for educational purposes, and the rest are for scientific entries.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="c1f31099-209a-481c-ac92-31b3f739ed7b" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-002.jpg?itok=hEk8d-gM" width="640" height="444" alt="Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days.</figcaption>
+</figure>
+
+
+<p>The BLM’s educational outreach program features Caver Quest Academy, in partnership with the nonprofit Public Lands Interpretive Association, which teaches local seventh graders about Fort Stanton Cave in the classroom, includes a realistic video game about caving, and culminates in a trip to the cave for many of them, Peterson said.</p>
+
+<p>In terms of scientific entries, scientists monitor bats, the cave’s climate and soil contents, Peterson said. They also continue to map the cave and restore it from damage due to past recreational use.</p>
+
+<p>The Roswell Field Office is a leader in white-nose decontamination, Peterson said. &nbsp;The use of dedicated gear at Fort Stanton Cave also helps stop the potential for the human spread of white-nose syndrome to and from the cave. Every time cavers use the Fort Stanton Cave gear, Peterson and others wash and decontaminate it.</p>
+
+<p>“Because we can ‘decon’ large quantities of gear we’ve taken the ‘decon’ station to major caving events around the country and talk about decontaminating cave gear,” Peterson said.</p>
+
+<p>Although Fort Stanton Cave is closed to recreation, the rest of the NCA has many other recreational opportunities, Peterson said.</p>
+
+<p>The NCA includes two campgrounds, Cave Campground and Rob Jaggers Campground, and 70 miles of trails that are open to hikers, equestrians and mountain bikers, Peterson said. There are also opportunities for visiting cultural and historical sites, picnicking, hunting, wildlife viewing, nature study and photography.</p>
+
+<p>The BLM also has a program that removes trash from sinkholes in the Sacramento Gypsum Plains north of Capitan, Peterson said. Most of the projects involve volunteers, but some are too large and require the BLM to hire contractors to remove trash.</p>
+
+<p>Looking to the future of Fort Stanton Cave, Peterson said the BLM plans to continue exploration, restoration and public outreach efforts as much as possible.</p>
+
+<p>To learn more about Caver Quest Academy, visit <a href="https://publiclands.org/pages/caver-quest-academy-project">https://publiclands.org/pages/caver-quest-academy-project</a><br>
+&nbsp;</p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/pecos-do" hreflang="en">Pecos DO</a></div>
+          <div><a href="https://www.blm.gov/region/roswell-fo" hreflang="en">Roswell FO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/science" hreflang="en">Science</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-06-28T12:00:00Z">Fri, 06/28/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/roswell-field-office" hreflang="en">Roswell Field Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48968/edit" hreflang="en">Fort-Stanton-Talk-002</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/caves-and-karsts" hreflang="en">Caves and Karsts</a></div>
+              <div><a href="https://www.blm.gov/tag/education" hreflang="en">Education</a></div>
+              <div><a href="https://www.blm.gov/tag/fort-stanton-snowy-river-cave-national-conservation-area" hreflang="en">Fort Stanton - Snowy River Cave National Conservation Area</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/new-mexico" hreflang="en">New Mexico</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48970/edit" hreflang="en">Fort-Stanton-Talk-006</a></div>
+          </div> 
 
 <https://www.blm.gov/blog/2024-06-27/easing-trauma-public-lands-and-resources>
 
@@ -242,7 +489,7 @@ date: 2024-06-27, from: Bureau of Land Management, blog
 
 date: 2024-06-27, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/blm-seeks-input-proposed-management-updates-southern-oregon" hreflang="en">BLM seeks input on proposed management updates in southern Oregon</a></h2></div>
+<div class="field contact-block -title"><h1>BLM’s Fort Stanton Cave focus of talk at Smokey Bear Days</h1></div>
       
 
 
@@ -250,20 +497,8 @@ date: 2024-06-27, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Publication Date:</strong> </div>
-              <div><time datetime="2024-06-06T12:00:00Z">Thu, 06/06/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-            <div class="field contact-block -body"><figure role="group" class="align-center">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cc6b2997-b76c-4710-a0c7-bfd1a309f3b8" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+            <div class="field contact-block -body"><figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="91749650-5d08-4e1f-a965-fe5fcc87756c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -272,7 +507,7 @@ date: 2024-06-27, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Lakeview_sagebrush_landscape.png?itok=yJACxwvS" width="640" height="480" alt="The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-001.jpg?itok=RsDRLTEu" width="640" height="427" alt="Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days." typeof="foaf:Image">
 
 
 </div>
@@ -280,86 +515,90 @@ date: 2024-06-27, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM.</figcaption>
+<figcaption>Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days.</figcaption>
 </figure>
 
 
-<p>&nbsp;</p>
+<p>This year’s Smokey Bear Days featured two days of events, food and music, as well as talks about the nearby Fort Stanton Cave by Knutt Peterson, a cave and karst specialist for the Bureau of Land Management Roswell Field Office.</p>
 
-<p><strong>LAKEVIEW, Ore. </strong>— The Bureau of Land Management is seeking public comment on a Draft Environmental Impact Statement (EIS) for amending the&nbsp;<a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="c8ec45bf-6708-4c48-8c95-bded76d11290" href="https://www.blm.gov/sites/default/files/Lakeview_RMP_Text_Appendices.pdf" target="_blank" title="2003 Lakeview Resource Management Plan">2003 Lakeview Resource Management Plan</a>, which would update the management of 3.2 million acres of BLM-managed public lands in Lake and Harney counties. The amendment, which has been prepared to respond to a <a href="https://eplanning.blm.gov/public_projects/lup/87435/116985/142662/20100610_57-1_AmendRemand_SettleAgree_web.pdf" target="_blank" title="2010 court settlement">2010 court settlement</a>, addresses the management of public lands for wilderness characteristics, recreation, and grazing.</p>
+<p>Peterson gave two talks on May 4 at the Capitan Public Library, highlighting educational outreach and scientific projects in the cave, recreation opportunities at the BLM’s Fort Stanton-Snowy River Cave National Conservation Area, and BLM’s sinkhole cleanup activities in the area. He included many photos, maps and informational slides to illustrate the talks.</p>
 
-<p aria-hidden="true">“We welcome the public’s insight and input into how we can appropriately balance the management of these lands,<strong>” said Jami Ludwig, BLM Lakeview Field Manager.</strong> “This plan will help guide BLM’s management of this landscape for the next 20 years.”</p>
+<p>Firefighters found the original Smokey Bear cub near Capitan in 1950, and the U.S. Forest Service’s Smokey Bear Ranger District surrounds much of Capitan and the BLM’s Fort Stanton-Snowy River Cave National Conservation Area. The village holds the celebration every five years. In addition to Peterson’s talks, the BLM staffed an informational table May 3 and 4.</p>
 
-<p>As directed by the 2010 settlement, the BLM’s draft EIS and plan amendment consider a wide-range of management options for lands with wilderness characteristics, grazing, and outdoor recreation, including off-highway vehicle use. Public comments received on this draft will help inform the development of a final plan, which could combine management approaches from several of the draft alternatives, if appropriate.</p>
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f88fbe93-56c5-41ab-86ad-aec88478015c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
-<p>The BLM plans to host an in-person public meeting in Lakeview and two virtual public meetings during the comment period to discuss and answer questions about the plan. The BLM will announce these meetings at least 15 days in advance through the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register">BLM National NEPA Register</a>, public notices, media releases, social media, and/or mailings.</p>
 
-<p>A Notice of Availability will publish in tomorrow’s <em>Federal Register</em> to open a 90-day comment period. Project information is available at the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register 2">BLM National NEPA Register</a> where written comments may be submitted via the “Participate Now” option (preferred) by Sept. 4, 2024. Comments may also be submitted to <a href="mailto:BLM_OR_LV_RMP_Team@blm.gov" title="send email">BLM_OR_LV_RMP_Team@blm.gov</a><u>,</u>&nbsp;or delivered to BLM Lakeview District, 1301 South G Street, Lakeview, OR 97630</p>
 
-<p>For more information, please contact Michael Collins at 541-947-6112.</p>
 
-<hr>
-<h2>Public meetings</h2>
+  
 
-<p><strong>July 15, 2024 (Virtual Meeting)</strong></p>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-006.jpg?itok=caxd6lxr" width="640" height="427" alt="Smokey Bear himself stops by the Bureau of Land Management table during Smokey Bear Days in Capitan, N.M., May 3." typeof="foaf:Image">
 
-<p>5:00 – 7:00 p.m. (PT)</p>
 
-<p>Brief presentation at 5:00 p.m., followed&nbsp;by question and answer.</p>
-
-<p>Register at:&nbsp;<a href="https://blm.zoomgov.com/webinar/register/WN_RmlA5WJ5S7u54hitBm2cOw#/registration" target="_blank" title="july 15 meeting">https://bit.ly/45xUI59</a></p>
-
-<p><strong>July 16, 2024</strong></p>
-
-<p>5:00 – 7:00 p.m. (PT) Come any time.</p>
-
-<p>Christmas Valley @ Community Hall</p>
-
-<p>(87345 Holly Lane)</p>
-
-<p><strong>July 18, 2024</strong></p>
-
-<p>5:00 – 7:00 p.m. (PT) Come any time.</p>
-
-<p>Lakeview District Office</p>
-
-<p>(1301 South G Street)</p>
-
-<p><strong>July 22, 2024</strong></p>
-
-<p>5:00 – 7:30 p.m. (PT)</p>
-
-<p>Brief presentation at 5:00 p.m.,&nbsp;followed by question and answer.</p>
-
-<p>Register at:&nbsp;<a href="https://blm.zoomgov.com/webinar/register/WN_THcYqrkXSDymLCZwuqBUdQ#/registration" target="_blank" title="july 22 meeting">https://bit.ly/4cowT1V</a></p>
-
-<hr>
-<p>&nbsp;</p>
-<iframe src="https://storymaps.arcgis.com/stories/d9fe856e65ea427eb0cf2e9d961e88bf" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </div>
       
+</div>
+</div>
+
+<figcaption>Smokey Bear himself stops by the Bureau of Land Management table during Smokey Bear Days in Capitan, N.M., May 3.</figcaption>
+</figure>
+
+
+<p>Fort Stanton Cave, which receives its name from the nearby historic military fort run by the State of New Mexico, includes more than 44 miles of mapped passage, and is the 10th longest cave in the United States and the 62nd longest cave in the world, Peterson said.</p>
+
+<p>“It has more mapped passage than Carlsbad Caverns,” Peterson told visitors at the 11:15 a.m. talk May 4. “If you’ve been in Carlsbad Caverns, [Fort Stanton Cave] is a bigger cave. There may be bigger rooms [at Carlsbad Caverns]. There may be more formations there, but as far as extent of passage, this one is much bigger. This is just as spectacular in its own way.”</p>
+
+<p>The Snowy River Passage, within Fort Stanton Cave, is composed of white calcite deposited by water that sometimes flows through the cave, Peterson said. When traveling on Snowy River Passage, which is about 13 miles long, cavers must wear elbow and kneepads because the surface of the formation is extremely abrasive.</p>
+
+<p>The BLM has kept Fort Stanton Cave closed to recreational caving for about 10 years due to white-nose syndrome, a contagious fungal infection that kills about 90% of bats it infects, it is only open for educational and scientific use.</p>
+
+<p>The BLM limits entries into the cave to 350 a year, Peterson said. About 100 of those entries are for youths entering the cave for educational purposes, and the rest are for scientific entries.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="c1f31099-209a-481c-ac92-31b3f739ed7b" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -fiscal-year">
-    <div><strong>Fiscal Year:</strong> </div>
-              <div>2024</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-002.jpg?itok=hEk8d-gM" width="640" height="444" alt="Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days." typeof="foaf:Image">
 
 
+</div>
+      
+</div>
+</div>
+
+<figcaption>Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days.</figcaption>
+</figure>
 
 
+<p>The BLM’s educational outreach program features Caver Quest Academy, in partnership with the nonprofit Public Lands Interpretive Association, which teaches local seventh graders about Fort Stanton Cave in the classroom, includes a realistic video game about caving, and culminates in a trip to the cave for many of them, Peterson said.</p>
 
-  
+<p>In terms of scientific entries, scientists monitor bats, the cave’s climate and soil contents, Peterson said. They also continue to map the cave and restore it from damage due to past recreational use.</p>
 
-  <div class="field contact-block -organization">
-    <div><strong>Organization:</strong> </div>
-              <div>Bureau of land Management</div>
-          </div>
+<p>The Roswell Field Office is a leader in white-nose decontamination, Peterson said. &nbsp;The use of dedicated gear at Fort Stanton Cave also helps stop the potential for the human spread of white-nose syndrome to and from the cave. Every time cavers use the Fort Stanton Cave gear, Peterson and others wash and decontaminate it.</p>
 
+<p>“Because we can ‘decon’ large quantities of gear we’ve taken the ‘decon’ station to major caving events around the country and talk about decontaminating cave gear,” Peterson said.</p>
+
+<p>Although Fort Stanton Cave is closed to recreation, the rest of the NCA has many other recreational opportunities, Peterson said.</p>
+
+<p>The NCA includes two campgrounds, Cave Campground and Rob Jaggers Campground, and 70 miles of trails that are open to hikers, equestrians and mountain bikers, Peterson said. There are also opportunities for visiting cultural and historical sites, picnicking, hunting, wildlife viewing, nature study and photography.</p>
+
+<p>The BLM also has a program that removes trash from sinkholes in the Sacramento Gypsum Plains north of Capitan, Peterson said. Most of the projects involve volunteers, but some are too large and require the BLM to hire contractors to remove trash.</p>
+
+<p>Looking to the future of Fort Stanton Cave, Peterson said the BLM plans to continue exploration, restoration and public outreach efforts as much as possible.</p>
+
+<p>To learn more about Caver Quest Academy, visit <a href="https://publiclands.org/pages/caver-quest-academy-project">https://publiclands.org/pages/caver-quest-academy-project</a><br>
+&nbsp;</p>
+</div>
+      
 
 
 
@@ -369,8 +608,9 @@ date: 2024-06-27, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
-          <div><a href="https://www.blm.gov/region/lakeview-do" hreflang="en">Lakeview DO</a></div>
+              <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/pecos-do" hreflang="en">Pecos DO</a></div>
+          <div><a href="https://www.blm.gov/region/roswell-fo" hreflang="en">Roswell FO</a></div>
               </div>
       </div>
 
@@ -380,13 +620,24 @@ date: 2024-06-27, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -tag">
-    <div><strong>Tag:</strong> </div>
-          <div>
-              <div><a href="https://www.blm.gov/tag/eis" hreflang="en">EIS</a></div>
-          <div><a href="https://www.blm.gov/tag/planning-and-nepa" hreflang="en">Planning and NEPA</a></div>
-              </div>
-      </div>
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/science" hreflang="en">Science</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-06-28T12:00:00Z">Fri, 06/28/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
 
 
@@ -395,8 +646,8 @@ date: 2024-06-27, from: Bureau of Land Management, blog
   
 
   <div class="field contact-block -office">
-    <div><strong>District/Field Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/lakeview-district-office" hreflang="en">Lakeview District Office</a></div>
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/roswell-field-office" hreflang="en">Roswell Field Office</a></div>
           </div>
 
 
@@ -405,50 +656,38 @@ date: 2024-06-27, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -contact">
-    <div><strong>Contact:</strong> </div>
-          <div>
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48968/edit" hreflang="en">Fort-Stanton-Talk-002</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
               <div>
-
-  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-  <div class="field contact-block -label">
-    <div><strong>Name:</strong> </div>
-              <div>Lisa McNee</div>
+                    <div><a href="https://www.blm.gov/tag/caves-and-karsts" hreflang="en">Caves and Karsts</a></div>
+              <div><a href="https://www.blm.gov/tag/education" hreflang="en">Education</a></div>
+              <div><a href="https://www.blm.gov/tag/fort-stanton-snowy-river-cave-national-conservation-area" hreflang="en">Fort Stanton - Snowy River Cave National Conservation Area</a></div>
+                    </div>
           </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -email">
-    <div><strong>Email:</strong> </div>
-              <div>lmcnee@blm.gov</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -phone">
-    <div><strong>Phone:</strong> </div>
-              <div>541-947-6811</div>
-          </div>
-
-      </div>
-</div>
-              </div>
-      </div>
+  </div>
 
 
 
@@ -459,9 +698,20 @@ date: 2024-06-27, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/new-mexico" hreflang="en">New Mexico</a></div>
               </div>
-      </div> 
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48970/edit" hreflang="en">Fort-Stanton-Talk-006</a></div>
+          </div> 
 
 <https://www.blm.gov/blog/2024-05-01/who-runs-blms-remote-automatic-weather-stations>
 
@@ -481,7 +731,7 @@ The staff at Grand Canyon National Park and Grand Canyon Conservancy are proud t
 
 date: 2024-06-26, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/blm-seeks-input-proposed-management-updates-southern-oregon" hreflang="en">BLM seeks input on proposed management updates in southern Oregon</a></h2></div>
+<div class="field contact-block -title"><h1>BLM’s Fort Stanton Cave focus of talk at Smokey Bear Days</h1></div>
       
 
 
@@ -489,20 +739,8 @@ date: 2024-06-26, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Publication Date:</strong> </div>
-              <div><time datetime="2024-06-06T12:00:00Z">Thu, 06/06/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-            <div class="field contact-block -body"><figure role="group" class="align-center">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cc6b2997-b76c-4710-a0c7-bfd1a309f3b8" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+            <div class="field contact-block -body"><figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="91749650-5d08-4e1f-a965-fe5fcc87756c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -511,7 +749,7 @@ date: 2024-06-26, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Lakeview_sagebrush_landscape.png?itok=yJACxwvS" width="640" height="480" alt="The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-001.jpg?itok=RsDRLTEu" width="640" height="427" alt="Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days." typeof="foaf:Image">
 
 
 </div>
@@ -519,86 +757,90 @@ date: 2024-06-26, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM.</figcaption>
+<figcaption>Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days.</figcaption>
 </figure>
 
 
-<p>&nbsp;</p>
+<p>This year’s Smokey Bear Days featured two days of events, food and music, as well as talks about the nearby Fort Stanton Cave by Knutt Peterson, a cave and karst specialist for the Bureau of Land Management Roswell Field Office.</p>
 
-<p><strong>LAKEVIEW, Ore. </strong>— The Bureau of Land Management is seeking public comment on a Draft Environmental Impact Statement (EIS) for amending the&nbsp;<a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="c8ec45bf-6708-4c48-8c95-bded76d11290" href="https://www.blm.gov/sites/default/files/Lakeview_RMP_Text_Appendices.pdf" target="_blank" title="2003 Lakeview Resource Management Plan">2003 Lakeview Resource Management Plan</a>, which would update the management of 3.2 million acres of BLM-managed public lands in Lake and Harney counties. The amendment, which has been prepared to respond to a <a href="https://eplanning.blm.gov/public_projects/lup/87435/116985/142662/20100610_57-1_AmendRemand_SettleAgree_web.pdf" target="_blank" title="2010 court settlement">2010 court settlement</a>, addresses the management of public lands for wilderness characteristics, recreation, and grazing.</p>
+<p>Peterson gave two talks on May 4 at the Capitan Public Library, highlighting educational outreach and scientific projects in the cave, recreation opportunities at the BLM’s Fort Stanton-Snowy River Cave National Conservation Area, and BLM’s sinkhole cleanup activities in the area. He included many photos, maps and informational slides to illustrate the talks.</p>
 
-<p aria-hidden="true">“We welcome the public’s insight and input into how we can appropriately balance the management of these lands,<strong>” said Jami Ludwig, BLM Lakeview Field Manager.</strong> “This plan will help guide BLM’s management of this landscape for the next 20 years.”</p>
+<p>Firefighters found the original Smokey Bear cub near Capitan in 1950, and the U.S. Forest Service’s Smokey Bear Ranger District surrounds much of Capitan and the BLM’s Fort Stanton-Snowy River Cave National Conservation Area. The village holds the celebration every five years. In addition to Peterson’s talks, the BLM staffed an informational table May 3 and 4.</p>
 
-<p>As directed by the 2010 settlement, the BLM’s draft EIS and plan amendment consider a wide-range of management options for lands with wilderness characteristics, grazing, and outdoor recreation, including off-highway vehicle use. Public comments received on this draft will help inform the development of a final plan, which could combine management approaches from several of the draft alternatives, if appropriate.</p>
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f88fbe93-56c5-41ab-86ad-aec88478015c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
-<p>The BLM plans to host an in-person public meeting in Lakeview and two virtual public meetings during the comment period to discuss and answer questions about the plan. The BLM will announce these meetings at least 15 days in advance through the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register">BLM National NEPA Register</a>, public notices, media releases, social media, and/or mailings.</p>
 
-<p>A Notice of Availability will publish in tomorrow’s <em>Federal Register</em> to open a 90-day comment period. Project information is available at the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register 2">BLM National NEPA Register</a> where written comments may be submitted via the “Participate Now” option (preferred) by Sept. 4, 2024. Comments may also be submitted to <a href="mailto:BLM_OR_LV_RMP_Team@blm.gov" title="send email">BLM_OR_LV_RMP_Team@blm.gov</a><u>,</u>&nbsp;or delivered to BLM Lakeview District, 1301 South G Street, Lakeview, OR 97630</p>
 
-<p>For more information, please contact Michael Collins at 541-947-6112.</p>
 
-<hr>
-<h2>Public meetings</h2>
+  
 
-<p><strong>July 15, 2024 (Virtual Meeting)</strong></p>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-006.jpg?itok=caxd6lxr" width="640" height="427" alt="Smokey Bear himself stops by the Bureau of Land Management table during Smokey Bear Days in Capitan, N.M., May 3." typeof="foaf:Image">
 
-<p>5:00 – 7:00 p.m. (PT)</p>
 
-<p>Brief presentation at 5:00 p.m., followed&nbsp;by question and answer.</p>
-
-<p>Register at:&nbsp;<a href="https://blm.zoomgov.com/webinar/register/WN_RmlA5WJ5S7u54hitBm2cOw#/registration" target="_blank" title="july 15 meeting">https://bit.ly/45xUI59</a></p>
-
-<p><strong>July 16, 2024</strong></p>
-
-<p>5:00 – 7:00 p.m. (PT) Come any time.</p>
-
-<p>Christmas Valley @ Community Hall</p>
-
-<p>(87345 Holly Lane)</p>
-
-<p><strong>July 18, 2024</strong></p>
-
-<p>5:00 – 7:00 p.m. (PT) Come any time.</p>
-
-<p>Lakeview District Office</p>
-
-<p>(1301 South G Street)</p>
-
-<p><strong>July 22, 2024</strong></p>
-
-<p>5:00 – 7:30 p.m. (PT)</p>
-
-<p>Brief presentation at 5:00 p.m.,&nbsp;followed by question and answer.</p>
-
-<p>Register at:&nbsp;<a href="https://blm.zoomgov.com/webinar/register/WN_THcYqrkXSDymLCZwuqBUdQ#/registration" target="_blank" title="july 22 meeting">https://bit.ly/4cowT1V</a></p>
-
-<hr>
-<p>&nbsp;</p>
-<iframe src="https://storymaps.arcgis.com/stories/d9fe856e65ea427eb0cf2e9d961e88bf" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </div>
       
+</div>
+</div>
+
+<figcaption>Smokey Bear himself stops by the Bureau of Land Management table during Smokey Bear Days in Capitan, N.M., May 3.</figcaption>
+</figure>
+
+
+<p>Fort Stanton Cave, which receives its name from the nearby historic military fort run by the State of New Mexico, includes more than 44 miles of mapped passage, and is the 10th longest cave in the United States and the 62nd longest cave in the world, Peterson said.</p>
+
+<p>“It has more mapped passage than Carlsbad Caverns,” Peterson told visitors at the 11:15 a.m. talk May 4. “If you’ve been in Carlsbad Caverns, [Fort Stanton Cave] is a bigger cave. There may be bigger rooms [at Carlsbad Caverns]. There may be more formations there, but as far as extent of passage, this one is much bigger. This is just as spectacular in its own way.”</p>
+
+<p>The Snowy River Passage, within Fort Stanton Cave, is composed of white calcite deposited by water that sometimes flows through the cave, Peterson said. When traveling on Snowy River Passage, which is about 13 miles long, cavers must wear elbow and kneepads because the surface of the formation is extremely abrasive.</p>
+
+<p>The BLM has kept Fort Stanton Cave closed to recreational caving for about 10 years due to white-nose syndrome, a contagious fungal infection that kills about 90% of bats it infects, it is only open for educational and scientific use.</p>
+
+<p>The BLM limits entries into the cave to 350 a year, Peterson said. About 100 of those entries are for youths entering the cave for educational purposes, and the rest are for scientific entries.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="c1f31099-209a-481c-ac92-31b3f739ed7b" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -fiscal-year">
-    <div><strong>Fiscal Year:</strong> </div>
-              <div>2024</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-002.jpg?itok=hEk8d-gM" width="640" height="444" alt="Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days." typeof="foaf:Image">
 
 
+</div>
+      
+</div>
+</div>
+
+<figcaption>Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days.</figcaption>
+</figure>
 
 
+<p>The BLM’s educational outreach program features Caver Quest Academy, in partnership with the nonprofit Public Lands Interpretive Association, which teaches local seventh graders about Fort Stanton Cave in the classroom, includes a realistic video game about caving, and culminates in a trip to the cave for many of them, Peterson said.</p>
 
-  
+<p>In terms of scientific entries, scientists monitor bats, the cave’s climate and soil contents, Peterson said. They also continue to map the cave and restore it from damage due to past recreational use.</p>
 
-  <div class="field contact-block -organization">
-    <div><strong>Organization:</strong> </div>
-              <div>Bureau of land Management</div>
-          </div>
+<p>The Roswell Field Office is a leader in white-nose decontamination, Peterson said. &nbsp;The use of dedicated gear at Fort Stanton Cave also helps stop the potential for the human spread of white-nose syndrome to and from the cave. Every time cavers use the Fort Stanton Cave gear, Peterson and others wash and decontaminate it.</p>
 
+<p>“Because we can ‘decon’ large quantities of gear we’ve taken the ‘decon’ station to major caving events around the country and talk about decontaminating cave gear,” Peterson said.</p>
+
+<p>Although Fort Stanton Cave is closed to recreation, the rest of the NCA has many other recreational opportunities, Peterson said.</p>
+
+<p>The NCA includes two campgrounds, Cave Campground and Rob Jaggers Campground, and 70 miles of trails that are open to hikers, equestrians and mountain bikers, Peterson said. There are also opportunities for visiting cultural and historical sites, picnicking, hunting, wildlife viewing, nature study and photography.</p>
+
+<p>The BLM also has a program that removes trash from sinkholes in the Sacramento Gypsum Plains north of Capitan, Peterson said. Most of the projects involve volunteers, but some are too large and require the BLM to hire contractors to remove trash.</p>
+
+<p>Looking to the future of Fort Stanton Cave, Peterson said the BLM plans to continue exploration, restoration and public outreach efforts as much as possible.</p>
+
+<p>To learn more about Caver Quest Academy, visit <a href="https://publiclands.org/pages/caver-quest-academy-project">https://publiclands.org/pages/caver-quest-academy-project</a><br>
+&nbsp;</p>
+</div>
+      
 
 
 
@@ -608,8 +850,9 @@ date: 2024-06-26, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
-          <div><a href="https://www.blm.gov/region/lakeview-do" hreflang="en">Lakeview DO</a></div>
+              <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/pecos-do" hreflang="en">Pecos DO</a></div>
+          <div><a href="https://www.blm.gov/region/roswell-fo" hreflang="en">Roswell FO</a></div>
               </div>
       </div>
 
@@ -619,13 +862,24 @@ date: 2024-06-26, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -tag">
-    <div><strong>Tag:</strong> </div>
-          <div>
-              <div><a href="https://www.blm.gov/tag/eis" hreflang="en">EIS</a></div>
-          <div><a href="https://www.blm.gov/tag/planning-and-nepa" hreflang="en">Planning and NEPA</a></div>
-              </div>
-      </div>
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/science" hreflang="en">Science</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-06-28T12:00:00Z">Fri, 06/28/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
 
 
@@ -634,8 +888,8 @@ date: 2024-06-26, from: Bureau of Land Management, blog
   
 
   <div class="field contact-block -office">
-    <div><strong>District/Field Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/lakeview-district-office" hreflang="en">Lakeview District Office</a></div>
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/roswell-field-office" hreflang="en">Roswell Field Office</a></div>
           </div>
 
 
@@ -644,50 +898,38 @@ date: 2024-06-26, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -contact">
-    <div><strong>Contact:</strong> </div>
-          <div>
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48968/edit" hreflang="en">Fort-Stanton-Talk-002</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
               <div>
-
-  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-  <div class="field contact-block -label">
-    <div><strong>Name:</strong> </div>
-              <div>Lisa McNee</div>
+                    <div><a href="https://www.blm.gov/tag/caves-and-karsts" hreflang="en">Caves and Karsts</a></div>
+              <div><a href="https://www.blm.gov/tag/education" hreflang="en">Education</a></div>
+              <div><a href="https://www.blm.gov/tag/fort-stanton-snowy-river-cave-national-conservation-area" hreflang="en">Fort Stanton - Snowy River Cave National Conservation Area</a></div>
+                    </div>
           </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -email">
-    <div><strong>Email:</strong> </div>
-              <div>lmcnee@blm.gov</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -phone">
-    <div><strong>Phone:</strong> </div>
-              <div>541-947-6811</div>
-          </div>
-
-      </div>
-</div>
-              </div>
-      </div>
+  </div>
 
 
 
@@ -698,9 +940,20 @@ date: 2024-06-26, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/new-mexico" hreflang="en">New Mexico</a></div>
               </div>
-      </div> 
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48970/edit" hreflang="en">Fort-Stanton-Talk-006</a></div>
+          </div> 
 
 <https://www.blm.gov/blog/2024-06-26/bil-funding-will-benefit-stephens-kangaroo-rat-and-other-species-habitat-california>
 
@@ -710,7 +963,7 @@ date: 2024-06-26, from: Bureau of Land Management, blog
 
 date: 2024-06-26, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/blm-seeks-input-proposed-management-updates-southern-oregon" hreflang="en">BLM seeks input on proposed management updates in southern Oregon</a></h2></div>
+<div class="field contact-block -title"><h1>BLM’s Fort Stanton Cave focus of talk at Smokey Bear Days</h1></div>
       
 
 
@@ -718,20 +971,8 @@ date: 2024-06-26, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Publication Date:</strong> </div>
-              <div><time datetime="2024-06-06T12:00:00Z">Thu, 06/06/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-            <div class="field contact-block -body"><figure role="group" class="align-center">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cc6b2997-b76c-4710-a0c7-bfd1a309f3b8" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+            <div class="field contact-block -body"><figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="91749650-5d08-4e1f-a965-fe5fcc87756c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -740,7 +981,7 @@ date: 2024-06-26, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Lakeview_sagebrush_landscape.png?itok=yJACxwvS" width="640" height="480" alt="The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-001.jpg?itok=RsDRLTEu" width="640" height="427" alt="Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days." typeof="foaf:Image">
 
 
 </div>
@@ -748,86 +989,90 @@ date: 2024-06-26, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM.</figcaption>
+<figcaption>Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days.</figcaption>
 </figure>
 
 
-<p>&nbsp;</p>
+<p>This year’s Smokey Bear Days featured two days of events, food and music, as well as talks about the nearby Fort Stanton Cave by Knutt Peterson, a cave and karst specialist for the Bureau of Land Management Roswell Field Office.</p>
 
-<p><strong>LAKEVIEW, Ore. </strong>— The Bureau of Land Management is seeking public comment on a Draft Environmental Impact Statement (EIS) for amending the&nbsp;<a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="c8ec45bf-6708-4c48-8c95-bded76d11290" href="https://www.blm.gov/sites/default/files/Lakeview_RMP_Text_Appendices.pdf" target="_blank" title="2003 Lakeview Resource Management Plan">2003 Lakeview Resource Management Plan</a>, which would update the management of 3.2 million acres of BLM-managed public lands in Lake and Harney counties. The amendment, which has been prepared to respond to a <a href="https://eplanning.blm.gov/public_projects/lup/87435/116985/142662/20100610_57-1_AmendRemand_SettleAgree_web.pdf" target="_blank" title="2010 court settlement">2010 court settlement</a>, addresses the management of public lands for wilderness characteristics, recreation, and grazing.</p>
+<p>Peterson gave two talks on May 4 at the Capitan Public Library, highlighting educational outreach and scientific projects in the cave, recreation opportunities at the BLM’s Fort Stanton-Snowy River Cave National Conservation Area, and BLM’s sinkhole cleanup activities in the area. He included many photos, maps and informational slides to illustrate the talks.</p>
 
-<p aria-hidden="true">“We welcome the public’s insight and input into how we can appropriately balance the management of these lands,<strong>” said Jami Ludwig, BLM Lakeview Field Manager.</strong> “This plan will help guide BLM’s management of this landscape for the next 20 years.”</p>
+<p>Firefighters found the original Smokey Bear cub near Capitan in 1950, and the U.S. Forest Service’s Smokey Bear Ranger District surrounds much of Capitan and the BLM’s Fort Stanton-Snowy River Cave National Conservation Area. The village holds the celebration every five years. In addition to Peterson’s talks, the BLM staffed an informational table May 3 and 4.</p>
 
-<p>As directed by the 2010 settlement, the BLM’s draft EIS and plan amendment consider a wide-range of management options for lands with wilderness characteristics, grazing, and outdoor recreation, including off-highway vehicle use. Public comments received on this draft will help inform the development of a final plan, which could combine management approaches from several of the draft alternatives, if appropriate.</p>
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f88fbe93-56c5-41ab-86ad-aec88478015c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
-<p>The BLM plans to host an in-person public meeting in Lakeview and two virtual public meetings during the comment period to discuss and answer questions about the plan. The BLM will announce these meetings at least 15 days in advance through the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register">BLM National NEPA Register</a>, public notices, media releases, social media, and/or mailings.</p>
 
-<p>A Notice of Availability will publish in tomorrow’s <em>Federal Register</em> to open a 90-day comment period. Project information is available at the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register 2">BLM National NEPA Register</a> where written comments may be submitted via the “Participate Now” option (preferred) by Sept. 4, 2024. Comments may also be submitted to <a href="mailto:BLM_OR_LV_RMP_Team@blm.gov" title="send email">BLM_OR_LV_RMP_Team@blm.gov</a><u>,</u>&nbsp;or delivered to BLM Lakeview District, 1301 South G Street, Lakeview, OR 97630</p>
 
-<p>For more information, please contact Michael Collins at 541-947-6112.</p>
 
-<hr>
-<h2>Public meetings</h2>
+  
 
-<p><strong>July 15, 2024 (Virtual Meeting)</strong></p>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-006.jpg?itok=caxd6lxr" width="640" height="427" alt="Smokey Bear himself stops by the Bureau of Land Management table during Smokey Bear Days in Capitan, N.M., May 3." typeof="foaf:Image">
 
-<p>5:00 – 7:00 p.m. (PT)</p>
 
-<p>Brief presentation at 5:00 p.m., followed&nbsp;by question and answer.</p>
-
-<p>Register at:&nbsp;<a href="https://blm.zoomgov.com/webinar/register/WN_RmlA5WJ5S7u54hitBm2cOw#/registration" target="_blank" title="july 15 meeting">https://bit.ly/45xUI59</a></p>
-
-<p><strong>July 16, 2024</strong></p>
-
-<p>5:00 – 7:00 p.m. (PT) Come any time.</p>
-
-<p>Christmas Valley @ Community Hall</p>
-
-<p>(87345 Holly Lane)</p>
-
-<p><strong>July 18, 2024</strong></p>
-
-<p>5:00 – 7:00 p.m. (PT) Come any time.</p>
-
-<p>Lakeview District Office</p>
-
-<p>(1301 South G Street)</p>
-
-<p><strong>July 22, 2024</strong></p>
-
-<p>5:00 – 7:30 p.m. (PT)</p>
-
-<p>Brief presentation at 5:00 p.m.,&nbsp;followed by question and answer.</p>
-
-<p>Register at:&nbsp;<a href="https://blm.zoomgov.com/webinar/register/WN_THcYqrkXSDymLCZwuqBUdQ#/registration" target="_blank" title="july 22 meeting">https://bit.ly/4cowT1V</a></p>
-
-<hr>
-<p>&nbsp;</p>
-<iframe src="https://storymaps.arcgis.com/stories/d9fe856e65ea427eb0cf2e9d961e88bf" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </div>
       
+</div>
+</div>
+
+<figcaption>Smokey Bear himself stops by the Bureau of Land Management table during Smokey Bear Days in Capitan, N.M., May 3.</figcaption>
+</figure>
+
+
+<p>Fort Stanton Cave, which receives its name from the nearby historic military fort run by the State of New Mexico, includes more than 44 miles of mapped passage, and is the 10th longest cave in the United States and the 62nd longest cave in the world, Peterson said.</p>
+
+<p>“It has more mapped passage than Carlsbad Caverns,” Peterson told visitors at the 11:15 a.m. talk May 4. “If you’ve been in Carlsbad Caverns, [Fort Stanton Cave] is a bigger cave. There may be bigger rooms [at Carlsbad Caverns]. There may be more formations there, but as far as extent of passage, this one is much bigger. This is just as spectacular in its own way.”</p>
+
+<p>The Snowy River Passage, within Fort Stanton Cave, is composed of white calcite deposited by water that sometimes flows through the cave, Peterson said. When traveling on Snowy River Passage, which is about 13 miles long, cavers must wear elbow and kneepads because the surface of the formation is extremely abrasive.</p>
+
+<p>The BLM has kept Fort Stanton Cave closed to recreational caving for about 10 years due to white-nose syndrome, a contagious fungal infection that kills about 90% of bats it infects, it is only open for educational and scientific use.</p>
+
+<p>The BLM limits entries into the cave to 350 a year, Peterson said. About 100 of those entries are for youths entering the cave for educational purposes, and the rest are for scientific entries.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="c1f31099-209a-481c-ac92-31b3f739ed7b" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -fiscal-year">
-    <div><strong>Fiscal Year:</strong> </div>
-              <div>2024</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-002.jpg?itok=hEk8d-gM" width="640" height="444" alt="Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days." typeof="foaf:Image">
 
 
+</div>
+      
+</div>
+</div>
+
+<figcaption>Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days.</figcaption>
+</figure>
 
 
+<p>The BLM’s educational outreach program features Caver Quest Academy, in partnership with the nonprofit Public Lands Interpretive Association, which teaches local seventh graders about Fort Stanton Cave in the classroom, includes a realistic video game about caving, and culminates in a trip to the cave for many of them, Peterson said.</p>
 
-  
+<p>In terms of scientific entries, scientists monitor bats, the cave’s climate and soil contents, Peterson said. They also continue to map the cave and restore it from damage due to past recreational use.</p>
 
-  <div class="field contact-block -organization">
-    <div><strong>Organization:</strong> </div>
-              <div>Bureau of land Management</div>
-          </div>
+<p>The Roswell Field Office is a leader in white-nose decontamination, Peterson said. &nbsp;The use of dedicated gear at Fort Stanton Cave also helps stop the potential for the human spread of white-nose syndrome to and from the cave. Every time cavers use the Fort Stanton Cave gear, Peterson and others wash and decontaminate it.</p>
 
+<p>“Because we can ‘decon’ large quantities of gear we’ve taken the ‘decon’ station to major caving events around the country and talk about decontaminating cave gear,” Peterson said.</p>
+
+<p>Although Fort Stanton Cave is closed to recreation, the rest of the NCA has many other recreational opportunities, Peterson said.</p>
+
+<p>The NCA includes two campgrounds, Cave Campground and Rob Jaggers Campground, and 70 miles of trails that are open to hikers, equestrians and mountain bikers, Peterson said. There are also opportunities for visiting cultural and historical sites, picnicking, hunting, wildlife viewing, nature study and photography.</p>
+
+<p>The BLM also has a program that removes trash from sinkholes in the Sacramento Gypsum Plains north of Capitan, Peterson said. Most of the projects involve volunteers, but some are too large and require the BLM to hire contractors to remove trash.</p>
+
+<p>Looking to the future of Fort Stanton Cave, Peterson said the BLM plans to continue exploration, restoration and public outreach efforts as much as possible.</p>
+
+<p>To learn more about Caver Quest Academy, visit <a href="https://publiclands.org/pages/caver-quest-academy-project">https://publiclands.org/pages/caver-quest-academy-project</a><br>
+&nbsp;</p>
+</div>
+      
 
 
 
@@ -837,8 +1082,9 @@ date: 2024-06-26, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
-          <div><a href="https://www.blm.gov/region/lakeview-do" hreflang="en">Lakeview DO</a></div>
+              <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/pecos-do" hreflang="en">Pecos DO</a></div>
+          <div><a href="https://www.blm.gov/region/roswell-fo" hreflang="en">Roswell FO</a></div>
               </div>
       </div>
 
@@ -848,13 +1094,24 @@ date: 2024-06-26, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -tag">
-    <div><strong>Tag:</strong> </div>
-          <div>
-              <div><a href="https://www.blm.gov/tag/eis" hreflang="en">EIS</a></div>
-          <div><a href="https://www.blm.gov/tag/planning-and-nepa" hreflang="en">Planning and NEPA</a></div>
-              </div>
-      </div>
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/science" hreflang="en">Science</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-06-28T12:00:00Z">Fri, 06/28/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
 
 
@@ -863,8 +1120,8 @@ date: 2024-06-26, from: Bureau of Land Management, blog
   
 
   <div class="field contact-block -office">
-    <div><strong>District/Field Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/lakeview-district-office" hreflang="en">Lakeview District Office</a></div>
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/roswell-field-office" hreflang="en">Roswell Field Office</a></div>
           </div>
 
 
@@ -873,50 +1130,38 @@ date: 2024-06-26, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -contact">
-    <div><strong>Contact:</strong> </div>
-          <div>
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48968/edit" hreflang="en">Fort-Stanton-Talk-002</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
               <div>
-
-  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-  <div class="field contact-block -label">
-    <div><strong>Name:</strong> </div>
-              <div>Lisa McNee</div>
+                    <div><a href="https://www.blm.gov/tag/caves-and-karsts" hreflang="en">Caves and Karsts</a></div>
+              <div><a href="https://www.blm.gov/tag/education" hreflang="en">Education</a></div>
+              <div><a href="https://www.blm.gov/tag/fort-stanton-snowy-river-cave-national-conservation-area" hreflang="en">Fort Stanton - Snowy River Cave National Conservation Area</a></div>
+                    </div>
           </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -email">
-    <div><strong>Email:</strong> </div>
-              <div>lmcnee@blm.gov</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -phone">
-    <div><strong>Phone:</strong> </div>
-              <div>541-947-6811</div>
-          </div>
-
-      </div>
-</div>
-              </div>
-      </div>
+  </div>
 
 
 
@@ -927,9 +1172,20 @@ date: 2024-06-26, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/new-mexico" hreflang="en">New Mexico</a></div>
               </div>
-      </div> 
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48970/edit" hreflang="en">Fort-Stanton-Talk-006</a></div>
+          </div> 
 
 <https://www.blm.gov/blog/2024-06-26/invasive-species-and-blm-fire>
 
@@ -939,7 +1195,7 @@ date: 2024-06-26, from: Bureau of Land Management, blog
 
 date: 2024-06-25, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/blm-seeks-input-proposed-management-updates-southern-oregon" hreflang="en">BLM seeks input on proposed management updates in southern Oregon</a></h2></div>
+<div class="field contact-block -title"><h1>BLM’s Fort Stanton Cave focus of talk at Smokey Bear Days</h1></div>
       
 
 
@@ -947,20 +1203,8 @@ date: 2024-06-25, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Publication Date:</strong> </div>
-              <div><time datetime="2024-06-06T12:00:00Z">Thu, 06/06/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-            <div class="field contact-block -body"><figure role="group" class="align-center">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cc6b2997-b76c-4710-a0c7-bfd1a309f3b8" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+            <div class="field contact-block -body"><figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="91749650-5d08-4e1f-a965-fe5fcc87756c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -969,7 +1213,7 @@ date: 2024-06-25, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Lakeview_sagebrush_landscape.png?itok=yJACxwvS" width="640" height="480" alt="The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-001.jpg?itok=RsDRLTEu" width="640" height="427" alt="Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days." typeof="foaf:Image">
 
 
 </div>
@@ -977,86 +1221,90 @@ date: 2024-06-25, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM.</figcaption>
+<figcaption>Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days.</figcaption>
 </figure>
 
 
-<p>&nbsp;</p>
+<p>This year’s Smokey Bear Days featured two days of events, food and music, as well as talks about the nearby Fort Stanton Cave by Knutt Peterson, a cave and karst specialist for the Bureau of Land Management Roswell Field Office.</p>
 
-<p><strong>LAKEVIEW, Ore. </strong>— The Bureau of Land Management is seeking public comment on a Draft Environmental Impact Statement (EIS) for amending the&nbsp;<a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="c8ec45bf-6708-4c48-8c95-bded76d11290" href="https://www.blm.gov/sites/default/files/Lakeview_RMP_Text_Appendices.pdf" target="_blank" title="2003 Lakeview Resource Management Plan">2003 Lakeview Resource Management Plan</a>, which would update the management of 3.2 million acres of BLM-managed public lands in Lake and Harney counties. The amendment, which has been prepared to respond to a <a href="https://eplanning.blm.gov/public_projects/lup/87435/116985/142662/20100610_57-1_AmendRemand_SettleAgree_web.pdf" target="_blank" title="2010 court settlement">2010 court settlement</a>, addresses the management of public lands for wilderness characteristics, recreation, and grazing.</p>
+<p>Peterson gave two talks on May 4 at the Capitan Public Library, highlighting educational outreach and scientific projects in the cave, recreation opportunities at the BLM’s Fort Stanton-Snowy River Cave National Conservation Area, and BLM’s sinkhole cleanup activities in the area. He included many photos, maps and informational slides to illustrate the talks.</p>
 
-<p aria-hidden="true">“We welcome the public’s insight and input into how we can appropriately balance the management of these lands,<strong>” said Jami Ludwig, BLM Lakeview Field Manager.</strong> “This plan will help guide BLM’s management of this landscape for the next 20 years.”</p>
+<p>Firefighters found the original Smokey Bear cub near Capitan in 1950, and the U.S. Forest Service’s Smokey Bear Ranger District surrounds much of Capitan and the BLM’s Fort Stanton-Snowy River Cave National Conservation Area. The village holds the celebration every five years. In addition to Peterson’s talks, the BLM staffed an informational table May 3 and 4.</p>
 
-<p>As directed by the 2010 settlement, the BLM’s draft EIS and plan amendment consider a wide-range of management options for lands with wilderness characteristics, grazing, and outdoor recreation, including off-highway vehicle use. Public comments received on this draft will help inform the development of a final plan, which could combine management approaches from several of the draft alternatives, if appropriate.</p>
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f88fbe93-56c5-41ab-86ad-aec88478015c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
-<p>The BLM plans to host an in-person public meeting in Lakeview and two virtual public meetings during the comment period to discuss and answer questions about the plan. The BLM will announce these meetings at least 15 days in advance through the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register">BLM National NEPA Register</a>, public notices, media releases, social media, and/or mailings.</p>
 
-<p>A Notice of Availability will publish in tomorrow’s <em>Federal Register</em> to open a 90-day comment period. Project information is available at the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register 2">BLM National NEPA Register</a> where written comments may be submitted via the “Participate Now” option (preferred) by Sept. 4, 2024. Comments may also be submitted to <a href="mailto:BLM_OR_LV_RMP_Team@blm.gov" title="send email">BLM_OR_LV_RMP_Team@blm.gov</a><u>,</u>&nbsp;or delivered to BLM Lakeview District, 1301 South G Street, Lakeview, OR 97630</p>
 
-<p>For more information, please contact Michael Collins at 541-947-6112.</p>
 
-<hr>
-<h2>Public meetings</h2>
+  
 
-<p><strong>July 15, 2024 (Virtual Meeting)</strong></p>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-006.jpg?itok=caxd6lxr" width="640" height="427" alt="Smokey Bear himself stops by the Bureau of Land Management table during Smokey Bear Days in Capitan, N.M., May 3." typeof="foaf:Image">
 
-<p>5:00 – 7:00 p.m. (PT)</p>
 
-<p>Brief presentation at 5:00 p.m., followed&nbsp;by question and answer.</p>
-
-<p>Register at:&nbsp;<a href="https://blm.zoomgov.com/webinar/register/WN_RmlA5WJ5S7u54hitBm2cOw#/registration" target="_blank" title="july 15 meeting">https://bit.ly/45xUI59</a></p>
-
-<p><strong>July 16, 2024</strong></p>
-
-<p>5:00 – 7:00 p.m. (PT) Come any time.</p>
-
-<p>Christmas Valley @ Community Hall</p>
-
-<p>(87345 Holly Lane)</p>
-
-<p><strong>July 18, 2024</strong></p>
-
-<p>5:00 – 7:00 p.m. (PT) Come any time.</p>
-
-<p>Lakeview District Office</p>
-
-<p>(1301 South G Street)</p>
-
-<p><strong>July 22, 2024</strong></p>
-
-<p>5:00 – 7:30 p.m. (PT)</p>
-
-<p>Brief presentation at 5:00 p.m.,&nbsp;followed by question and answer.</p>
-
-<p>Register at:&nbsp;<a href="https://blm.zoomgov.com/webinar/register/WN_THcYqrkXSDymLCZwuqBUdQ#/registration" target="_blank" title="july 22 meeting">https://bit.ly/4cowT1V</a></p>
-
-<hr>
-<p>&nbsp;</p>
-<iframe src="https://storymaps.arcgis.com/stories/d9fe856e65ea427eb0cf2e9d961e88bf" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </div>
       
+</div>
+</div>
+
+<figcaption>Smokey Bear himself stops by the Bureau of Land Management table during Smokey Bear Days in Capitan, N.M., May 3.</figcaption>
+</figure>
+
+
+<p>Fort Stanton Cave, which receives its name from the nearby historic military fort run by the State of New Mexico, includes more than 44 miles of mapped passage, and is the 10th longest cave in the United States and the 62nd longest cave in the world, Peterson said.</p>
+
+<p>“It has more mapped passage than Carlsbad Caverns,” Peterson told visitors at the 11:15 a.m. talk May 4. “If you’ve been in Carlsbad Caverns, [Fort Stanton Cave] is a bigger cave. There may be bigger rooms [at Carlsbad Caverns]. There may be more formations there, but as far as extent of passage, this one is much bigger. This is just as spectacular in its own way.”</p>
+
+<p>The Snowy River Passage, within Fort Stanton Cave, is composed of white calcite deposited by water that sometimes flows through the cave, Peterson said. When traveling on Snowy River Passage, which is about 13 miles long, cavers must wear elbow and kneepads because the surface of the formation is extremely abrasive.</p>
+
+<p>The BLM has kept Fort Stanton Cave closed to recreational caving for about 10 years due to white-nose syndrome, a contagious fungal infection that kills about 90% of bats it infects, it is only open for educational and scientific use.</p>
+
+<p>The BLM limits entries into the cave to 350 a year, Peterson said. About 100 of those entries are for youths entering the cave for educational purposes, and the rest are for scientific entries.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="c1f31099-209a-481c-ac92-31b3f739ed7b" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -fiscal-year">
-    <div><strong>Fiscal Year:</strong> </div>
-              <div>2024</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-002.jpg?itok=hEk8d-gM" width="640" height="444" alt="Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days." typeof="foaf:Image">
 
 
+</div>
+      
+</div>
+</div>
+
+<figcaption>Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days.</figcaption>
+</figure>
 
 
+<p>The BLM’s educational outreach program features Caver Quest Academy, in partnership with the nonprofit Public Lands Interpretive Association, which teaches local seventh graders about Fort Stanton Cave in the classroom, includes a realistic video game about caving, and culminates in a trip to the cave for many of them, Peterson said.</p>
 
-  
+<p>In terms of scientific entries, scientists monitor bats, the cave’s climate and soil contents, Peterson said. They also continue to map the cave and restore it from damage due to past recreational use.</p>
 
-  <div class="field contact-block -organization">
-    <div><strong>Organization:</strong> </div>
-              <div>Bureau of land Management</div>
-          </div>
+<p>The Roswell Field Office is a leader in white-nose decontamination, Peterson said. &nbsp;The use of dedicated gear at Fort Stanton Cave also helps stop the potential for the human spread of white-nose syndrome to and from the cave. Every time cavers use the Fort Stanton Cave gear, Peterson and others wash and decontaminate it.</p>
 
+<p>“Because we can ‘decon’ large quantities of gear we’ve taken the ‘decon’ station to major caving events around the country and talk about decontaminating cave gear,” Peterson said.</p>
+
+<p>Although Fort Stanton Cave is closed to recreation, the rest of the NCA has many other recreational opportunities, Peterson said.</p>
+
+<p>The NCA includes two campgrounds, Cave Campground and Rob Jaggers Campground, and 70 miles of trails that are open to hikers, equestrians and mountain bikers, Peterson said. There are also opportunities for visiting cultural and historical sites, picnicking, hunting, wildlife viewing, nature study and photography.</p>
+
+<p>The BLM also has a program that removes trash from sinkholes in the Sacramento Gypsum Plains north of Capitan, Peterson said. Most of the projects involve volunteers, but some are too large and require the BLM to hire contractors to remove trash.</p>
+
+<p>Looking to the future of Fort Stanton Cave, Peterson said the BLM plans to continue exploration, restoration and public outreach efforts as much as possible.</p>
+
+<p>To learn more about Caver Quest Academy, visit <a href="https://publiclands.org/pages/caver-quest-academy-project">https://publiclands.org/pages/caver-quest-academy-project</a><br>
+&nbsp;</p>
+</div>
+      
 
 
 
@@ -1066,8 +1314,9 @@ date: 2024-06-25, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
-          <div><a href="https://www.blm.gov/region/lakeview-do" hreflang="en">Lakeview DO</a></div>
+              <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/pecos-do" hreflang="en">Pecos DO</a></div>
+          <div><a href="https://www.blm.gov/region/roswell-fo" hreflang="en">Roswell FO</a></div>
               </div>
       </div>
 
@@ -1077,13 +1326,24 @@ date: 2024-06-25, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -tag">
-    <div><strong>Tag:</strong> </div>
-          <div>
-              <div><a href="https://www.blm.gov/tag/eis" hreflang="en">EIS</a></div>
-          <div><a href="https://www.blm.gov/tag/planning-and-nepa" hreflang="en">Planning and NEPA</a></div>
-              </div>
-      </div>
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/science" hreflang="en">Science</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-06-28T12:00:00Z">Fri, 06/28/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
 
 
@@ -1092,8 +1352,8 @@ date: 2024-06-25, from: Bureau of Land Management, blog
   
 
   <div class="field contact-block -office">
-    <div><strong>District/Field Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/lakeview-district-office" hreflang="en">Lakeview District Office</a></div>
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/roswell-field-office" hreflang="en">Roswell Field Office</a></div>
           </div>
 
 
@@ -1102,50 +1362,38 @@ date: 2024-06-25, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -contact">
-    <div><strong>Contact:</strong> </div>
-          <div>
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48968/edit" hreflang="en">Fort-Stanton-Talk-002</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
               <div>
-
-  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-  <div class="field contact-block -label">
-    <div><strong>Name:</strong> </div>
-              <div>Lisa McNee</div>
+                    <div><a href="https://www.blm.gov/tag/caves-and-karsts" hreflang="en">Caves and Karsts</a></div>
+              <div><a href="https://www.blm.gov/tag/education" hreflang="en">Education</a></div>
+              <div><a href="https://www.blm.gov/tag/fort-stanton-snowy-river-cave-national-conservation-area" hreflang="en">Fort Stanton - Snowy River Cave National Conservation Area</a></div>
+                    </div>
           </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -email">
-    <div><strong>Email:</strong> </div>
-              <div>lmcnee@blm.gov</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -phone">
-    <div><strong>Phone:</strong> </div>
-              <div>541-947-6811</div>
-          </div>
-
-      </div>
-</div>
-              </div>
-      </div>
+  </div>
 
 
 
@@ -1156,9 +1404,20 @@ date: 2024-06-25, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/new-mexico" hreflang="en">New Mexico</a></div>
               </div>
-      </div> 
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48970/edit" hreflang="en">Fort-Stanton-Talk-006</a></div>
+          </div> 
 
 <https://www.blm.gov/blog/2024-06-25/blm-utah-west-desert-district-donates-water-tender-north-tooele-fire-district>
 
@@ -1168,7 +1427,7 @@ date: 2024-06-25, from: Bureau of Land Management, blog
 
 date: 2024-06-24, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/blm-seeks-input-proposed-management-updates-southern-oregon" hreflang="en">BLM seeks input on proposed management updates in southern Oregon</a></h2></div>
+<div class="field contact-block -title"><h1>BLM’s Fort Stanton Cave focus of talk at Smokey Bear Days</h1></div>
       
 
 
@@ -1176,20 +1435,8 @@ date: 2024-06-24, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Publication Date:</strong> </div>
-              <div><time datetime="2024-06-06T12:00:00Z">Thu, 06/06/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-            <div class="field contact-block -body"><figure role="group" class="align-center">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cc6b2997-b76c-4710-a0c7-bfd1a309f3b8" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+            <div class="field contact-block -body"><figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="91749650-5d08-4e1f-a965-fe5fcc87756c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -1198,7 +1445,7 @@ date: 2024-06-24, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Lakeview_sagebrush_landscape.png?itok=yJACxwvS" width="640" height="480" alt="The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-001.jpg?itok=RsDRLTEu" width="640" height="427" alt="Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days." typeof="foaf:Image">
 
 
 </div>
@@ -1206,86 +1453,90 @@ date: 2024-06-24, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM.</figcaption>
+<figcaption>Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days.</figcaption>
 </figure>
 
 
-<p>&nbsp;</p>
+<p>This year’s Smokey Bear Days featured two days of events, food and music, as well as talks about the nearby Fort Stanton Cave by Knutt Peterson, a cave and karst specialist for the Bureau of Land Management Roswell Field Office.</p>
 
-<p><strong>LAKEVIEW, Ore. </strong>— The Bureau of Land Management is seeking public comment on a Draft Environmental Impact Statement (EIS) for amending the&nbsp;<a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="c8ec45bf-6708-4c48-8c95-bded76d11290" href="https://www.blm.gov/sites/default/files/Lakeview_RMP_Text_Appendices.pdf" target="_blank" title="2003 Lakeview Resource Management Plan">2003 Lakeview Resource Management Plan</a>, which would update the management of 3.2 million acres of BLM-managed public lands in Lake and Harney counties. The amendment, which has been prepared to respond to a <a href="https://eplanning.blm.gov/public_projects/lup/87435/116985/142662/20100610_57-1_AmendRemand_SettleAgree_web.pdf" target="_blank" title="2010 court settlement">2010 court settlement</a>, addresses the management of public lands for wilderness characteristics, recreation, and grazing.</p>
+<p>Peterson gave two talks on May 4 at the Capitan Public Library, highlighting educational outreach and scientific projects in the cave, recreation opportunities at the BLM’s Fort Stanton-Snowy River Cave National Conservation Area, and BLM’s sinkhole cleanup activities in the area. He included many photos, maps and informational slides to illustrate the talks.</p>
 
-<p aria-hidden="true">“We welcome the public’s insight and input into how we can appropriately balance the management of these lands,<strong>” said Jami Ludwig, BLM Lakeview Field Manager.</strong> “This plan will help guide BLM’s management of this landscape for the next 20 years.”</p>
+<p>Firefighters found the original Smokey Bear cub near Capitan in 1950, and the U.S. Forest Service’s Smokey Bear Ranger District surrounds much of Capitan and the BLM’s Fort Stanton-Snowy River Cave National Conservation Area. The village holds the celebration every five years. In addition to Peterson’s talks, the BLM staffed an informational table May 3 and 4.</p>
 
-<p>As directed by the 2010 settlement, the BLM’s draft EIS and plan amendment consider a wide-range of management options for lands with wilderness characteristics, grazing, and outdoor recreation, including off-highway vehicle use. Public comments received on this draft will help inform the development of a final plan, which could combine management approaches from several of the draft alternatives, if appropriate.</p>
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f88fbe93-56c5-41ab-86ad-aec88478015c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
-<p>The BLM plans to host an in-person public meeting in Lakeview and two virtual public meetings during the comment period to discuss and answer questions about the plan. The BLM will announce these meetings at least 15 days in advance through the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register">BLM National NEPA Register</a>, public notices, media releases, social media, and/or mailings.</p>
 
-<p>A Notice of Availability will publish in tomorrow’s <em>Federal Register</em> to open a 90-day comment period. Project information is available at the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register 2">BLM National NEPA Register</a> where written comments may be submitted via the “Participate Now” option (preferred) by Sept. 4, 2024. Comments may also be submitted to <a href="mailto:BLM_OR_LV_RMP_Team@blm.gov" title="send email">BLM_OR_LV_RMP_Team@blm.gov</a><u>,</u>&nbsp;or delivered to BLM Lakeview District, 1301 South G Street, Lakeview, OR 97630</p>
 
-<p>For more information, please contact Michael Collins at 541-947-6112.</p>
 
-<hr>
-<h2>Public meetings</h2>
+  
 
-<p><strong>July 15, 2024 (Virtual Meeting)</strong></p>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-006.jpg?itok=caxd6lxr" width="640" height="427" alt="Smokey Bear himself stops by the Bureau of Land Management table during Smokey Bear Days in Capitan, N.M., May 3." typeof="foaf:Image">
 
-<p>5:00 – 7:00 p.m. (PT)</p>
 
-<p>Brief presentation at 5:00 p.m., followed&nbsp;by question and answer.</p>
-
-<p>Register at:&nbsp;<a href="https://blm.zoomgov.com/webinar/register/WN_RmlA5WJ5S7u54hitBm2cOw#/registration" target="_blank" title="july 15 meeting">https://bit.ly/45xUI59</a></p>
-
-<p><strong>July 16, 2024</strong></p>
-
-<p>5:00 – 7:00 p.m. (PT) Come any time.</p>
-
-<p>Christmas Valley @ Community Hall</p>
-
-<p>(87345 Holly Lane)</p>
-
-<p><strong>July 18, 2024</strong></p>
-
-<p>5:00 – 7:00 p.m. (PT) Come any time.</p>
-
-<p>Lakeview District Office</p>
-
-<p>(1301 South G Street)</p>
-
-<p><strong>July 22, 2024</strong></p>
-
-<p>5:00 – 7:30 p.m. (PT)</p>
-
-<p>Brief presentation at 5:00 p.m.,&nbsp;followed by question and answer.</p>
-
-<p>Register at:&nbsp;<a href="https://blm.zoomgov.com/webinar/register/WN_THcYqrkXSDymLCZwuqBUdQ#/registration" target="_blank" title="july 22 meeting">https://bit.ly/4cowT1V</a></p>
-
-<hr>
-<p>&nbsp;</p>
-<iframe src="https://storymaps.arcgis.com/stories/d9fe856e65ea427eb0cf2e9d961e88bf" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </div>
       
+</div>
+</div>
+
+<figcaption>Smokey Bear himself stops by the Bureau of Land Management table during Smokey Bear Days in Capitan, N.M., May 3.</figcaption>
+</figure>
+
+
+<p>Fort Stanton Cave, which receives its name from the nearby historic military fort run by the State of New Mexico, includes more than 44 miles of mapped passage, and is the 10th longest cave in the United States and the 62nd longest cave in the world, Peterson said.</p>
+
+<p>“It has more mapped passage than Carlsbad Caverns,” Peterson told visitors at the 11:15 a.m. talk May 4. “If you’ve been in Carlsbad Caverns, [Fort Stanton Cave] is a bigger cave. There may be bigger rooms [at Carlsbad Caverns]. There may be more formations there, but as far as extent of passage, this one is much bigger. This is just as spectacular in its own way.”</p>
+
+<p>The Snowy River Passage, within Fort Stanton Cave, is composed of white calcite deposited by water that sometimes flows through the cave, Peterson said. When traveling on Snowy River Passage, which is about 13 miles long, cavers must wear elbow and kneepads because the surface of the formation is extremely abrasive.</p>
+
+<p>The BLM has kept Fort Stanton Cave closed to recreational caving for about 10 years due to white-nose syndrome, a contagious fungal infection that kills about 90% of bats it infects, it is only open for educational and scientific use.</p>
+
+<p>The BLM limits entries into the cave to 350 a year, Peterson said. About 100 of those entries are for youths entering the cave for educational purposes, and the rest are for scientific entries.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="c1f31099-209a-481c-ac92-31b3f739ed7b" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -fiscal-year">
-    <div><strong>Fiscal Year:</strong> </div>
-              <div>2024</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-002.jpg?itok=hEk8d-gM" width="640" height="444" alt="Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days." typeof="foaf:Image">
 
 
+</div>
+      
+</div>
+</div>
+
+<figcaption>Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days.</figcaption>
+</figure>
 
 
+<p>The BLM’s educational outreach program features Caver Quest Academy, in partnership with the nonprofit Public Lands Interpretive Association, which teaches local seventh graders about Fort Stanton Cave in the classroom, includes a realistic video game about caving, and culminates in a trip to the cave for many of them, Peterson said.</p>
 
-  
+<p>In terms of scientific entries, scientists monitor bats, the cave’s climate and soil contents, Peterson said. They also continue to map the cave and restore it from damage due to past recreational use.</p>
 
-  <div class="field contact-block -organization">
-    <div><strong>Organization:</strong> </div>
-              <div>Bureau of land Management</div>
-          </div>
+<p>The Roswell Field Office is a leader in white-nose decontamination, Peterson said. &nbsp;The use of dedicated gear at Fort Stanton Cave also helps stop the potential for the human spread of white-nose syndrome to and from the cave. Every time cavers use the Fort Stanton Cave gear, Peterson and others wash and decontaminate it.</p>
 
+<p>“Because we can ‘decon’ large quantities of gear we’ve taken the ‘decon’ station to major caving events around the country and talk about decontaminating cave gear,” Peterson said.</p>
+
+<p>Although Fort Stanton Cave is closed to recreation, the rest of the NCA has many other recreational opportunities, Peterson said.</p>
+
+<p>The NCA includes two campgrounds, Cave Campground and Rob Jaggers Campground, and 70 miles of trails that are open to hikers, equestrians and mountain bikers, Peterson said. There are also opportunities for visiting cultural and historical sites, picnicking, hunting, wildlife viewing, nature study and photography.</p>
+
+<p>The BLM also has a program that removes trash from sinkholes in the Sacramento Gypsum Plains north of Capitan, Peterson said. Most of the projects involve volunteers, but some are too large and require the BLM to hire contractors to remove trash.</p>
+
+<p>Looking to the future of Fort Stanton Cave, Peterson said the BLM plans to continue exploration, restoration and public outreach efforts as much as possible.</p>
+
+<p>To learn more about Caver Quest Academy, visit <a href="https://publiclands.org/pages/caver-quest-academy-project">https://publiclands.org/pages/caver-quest-academy-project</a><br>
+&nbsp;</p>
+</div>
+      
 
 
 
@@ -1295,8 +1546,9 @@ date: 2024-06-24, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
-          <div><a href="https://www.blm.gov/region/lakeview-do" hreflang="en">Lakeview DO</a></div>
+              <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/pecos-do" hreflang="en">Pecos DO</a></div>
+          <div><a href="https://www.blm.gov/region/roswell-fo" hreflang="en">Roswell FO</a></div>
               </div>
       </div>
 
@@ -1306,13 +1558,24 @@ date: 2024-06-24, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -tag">
-    <div><strong>Tag:</strong> </div>
-          <div>
-              <div><a href="https://www.blm.gov/tag/eis" hreflang="en">EIS</a></div>
-          <div><a href="https://www.blm.gov/tag/planning-and-nepa" hreflang="en">Planning and NEPA</a></div>
-              </div>
-      </div>
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/science" hreflang="en">Science</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-06-28T12:00:00Z">Fri, 06/28/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
 
 
@@ -1321,8 +1584,8 @@ date: 2024-06-24, from: Bureau of Land Management, blog
   
 
   <div class="field contact-block -office">
-    <div><strong>District/Field Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/lakeview-district-office" hreflang="en">Lakeview District Office</a></div>
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/roswell-field-office" hreflang="en">Roswell Field Office</a></div>
           </div>
 
 
@@ -1331,50 +1594,38 @@ date: 2024-06-24, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -contact">
-    <div><strong>Contact:</strong> </div>
-          <div>
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48968/edit" hreflang="en">Fort-Stanton-Talk-002</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
               <div>
-
-  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-  <div class="field contact-block -label">
-    <div><strong>Name:</strong> </div>
-              <div>Lisa McNee</div>
+                    <div><a href="https://www.blm.gov/tag/caves-and-karsts" hreflang="en">Caves and Karsts</a></div>
+              <div><a href="https://www.blm.gov/tag/education" hreflang="en">Education</a></div>
+              <div><a href="https://www.blm.gov/tag/fort-stanton-snowy-river-cave-national-conservation-area" hreflang="en">Fort Stanton - Snowy River Cave National Conservation Area</a></div>
+                    </div>
           </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -email">
-    <div><strong>Email:</strong> </div>
-              <div>lmcnee@blm.gov</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -phone">
-    <div><strong>Phone:</strong> </div>
-              <div>541-947-6811</div>
-          </div>
-
-      </div>
-</div>
-              </div>
-      </div>
+  </div>
 
 
 
@@ -1385,9 +1636,20 @@ date: 2024-06-24, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/new-mexico" hreflang="en">New Mexico</a></div>
               </div>
-      </div> 
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48970/edit" hreflang="en">Fort-Stanton-Talk-006</a></div>
+          </div> 
 
 <https://www.blm.gov/blog/2024-06-24/youth-group-celebrates-25-years-public-land-projects>
 
@@ -1397,7 +1659,7 @@ date: 2024-06-24, from: Bureau of Land Management, blog
 
 date: 2024-06-24, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h2><a href="https://www.blm.gov/press-release/blm-seeks-input-proposed-management-updates-southern-oregon" hreflang="en">BLM seeks input on proposed management updates in southern Oregon</a></h2></div>
+<div class="field contact-block -title"><h1>BLM’s Fort Stanton Cave focus of talk at Smokey Bear Days</h1></div>
       
 
 
@@ -1405,20 +1667,8 @@ date: 2024-06-24, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -release-date">
-    <div><strong>Publication Date:</strong> </div>
-              <div><time datetime="2024-06-06T12:00:00Z">Thu, 06/06/2024 - 12:00 pm UTC</time>
-</div>
-          </div>
-
-
-
-
-
-  
-
-            <div class="field contact-block -body"><figure role="group" class="align-center">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cc6b2997-b76c-4710-a0c7-bfd1a309f3b8" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+            <div class="field contact-block -body"><figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="91749650-5d08-4e1f-a965-fe5fcc87756c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -1427,7 +1677,7 @@ date: 2024-06-24, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Lakeview_sagebrush_landscape.png?itok=yJACxwvS" width="640" height="480" alt="The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-001.jpg?itok=RsDRLTEu" width="640" height="427" alt="Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days." typeof="foaf:Image">
 
 
 </div>
@@ -1435,86 +1685,90 @@ date: 2024-06-24, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>The sagebrush landscape of the BLM Lakeview District. Photo by Lisa McNee, BLM.</figcaption>
+<figcaption>Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days.</figcaption>
 </figure>
 
 
-<p>&nbsp;</p>
+<p>This year’s Smokey Bear Days featured two days of events, food and music, as well as talks about the nearby Fort Stanton Cave by Knutt Peterson, a cave and karst specialist for the Bureau of Land Management Roswell Field Office.</p>
 
-<p><strong>LAKEVIEW, Ore. </strong>— The Bureau of Land Management is seeking public comment on a Draft Environmental Impact Statement (EIS) for amending the&nbsp;<a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="c8ec45bf-6708-4c48-8c95-bded76d11290" href="https://www.blm.gov/sites/default/files/Lakeview_RMP_Text_Appendices.pdf" target="_blank" title="2003 Lakeview Resource Management Plan">2003 Lakeview Resource Management Plan</a>, which would update the management of 3.2 million acres of BLM-managed public lands in Lake and Harney counties. The amendment, which has been prepared to respond to a <a href="https://eplanning.blm.gov/public_projects/lup/87435/116985/142662/20100610_57-1_AmendRemand_SettleAgree_web.pdf" target="_blank" title="2010 court settlement">2010 court settlement</a>, addresses the management of public lands for wilderness characteristics, recreation, and grazing.</p>
+<p>Peterson gave two talks on May 4 at the Capitan Public Library, highlighting educational outreach and scientific projects in the cave, recreation opportunities at the BLM’s Fort Stanton-Snowy River Cave National Conservation Area, and BLM’s sinkhole cleanup activities in the area. He included many photos, maps and informational slides to illustrate the talks.</p>
 
-<p aria-hidden="true">“We welcome the public’s insight and input into how we can appropriately balance the management of these lands,<strong>” said Jami Ludwig, BLM Lakeview Field Manager.</strong> “This plan will help guide BLM’s management of this landscape for the next 20 years.”</p>
+<p>Firefighters found the original Smokey Bear cub near Capitan in 1950, and the U.S. Forest Service’s Smokey Bear Ranger District surrounds much of Capitan and the BLM’s Fort Stanton-Snowy River Cave National Conservation Area. The village holds the celebration every five years. In addition to Peterson’s talks, the BLM staffed an informational table May 3 and 4.</p>
 
-<p>As directed by the 2010 settlement, the BLM’s draft EIS and plan amendment consider a wide-range of management options for lands with wilderness characteristics, grazing, and outdoor recreation, including off-highway vehicle use. Public comments received on this draft will help inform the development of a final plan, which could combine management approaches from several of the draft alternatives, if appropriate.</p>
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f88fbe93-56c5-41ab-86ad-aec88478015c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
-<p>The BLM plans to host an in-person public meeting in Lakeview and two virtual public meetings during the comment period to discuss and answer questions about the plan. The BLM will announce these meetings at least 15 days in advance through the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register">BLM National NEPA Register</a>, public notices, media releases, social media, and/or mailings.</p>
 
-<p>A Notice of Availability will publish in tomorrow’s <em>Federal Register</em> to open a 90-day comment period. Project information is available at the <a href="https://eplanning.blm.gov/eplanning-ui/project/114300/510" target="_blank" title="BLM National NEPA Register 2">BLM National NEPA Register</a> where written comments may be submitted via the “Participate Now” option (preferred) by Sept. 4, 2024. Comments may also be submitted to <a href="mailto:BLM_OR_LV_RMP_Team@blm.gov" title="send email">BLM_OR_LV_RMP_Team@blm.gov</a><u>,</u>&nbsp;or delivered to BLM Lakeview District, 1301 South G Street, Lakeview, OR 97630</p>
 
-<p>For more information, please contact Michael Collins at 541-947-6112.</p>
 
-<hr>
-<h2>Public meetings</h2>
+  
 
-<p><strong>July 15, 2024 (Virtual Meeting)</strong></p>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-006.jpg?itok=caxd6lxr" width="640" height="427" alt="Smokey Bear himself stops by the Bureau of Land Management table during Smokey Bear Days in Capitan, N.M., May 3." typeof="foaf:Image">
 
-<p>5:00 – 7:00 p.m. (PT)</p>
 
-<p>Brief presentation at 5:00 p.m., followed&nbsp;by question and answer.</p>
-
-<p>Register at:&nbsp;<a href="https://blm.zoomgov.com/webinar/register/WN_RmlA5WJ5S7u54hitBm2cOw#/registration" target="_blank" title="july 15 meeting">https://bit.ly/45xUI59</a></p>
-
-<p><strong>July 16, 2024</strong></p>
-
-<p>5:00 – 7:00 p.m. (PT) Come any time.</p>
-
-<p>Christmas Valley @ Community Hall</p>
-
-<p>(87345 Holly Lane)</p>
-
-<p><strong>July 18, 2024</strong></p>
-
-<p>5:00 – 7:00 p.m. (PT) Come any time.</p>
-
-<p>Lakeview District Office</p>
-
-<p>(1301 South G Street)</p>
-
-<p><strong>July 22, 2024</strong></p>
-
-<p>5:00 – 7:30 p.m. (PT)</p>
-
-<p>Brief presentation at 5:00 p.m.,&nbsp;followed by question and answer.</p>
-
-<p>Register at:&nbsp;<a href="https://blm.zoomgov.com/webinar/register/WN_THcYqrkXSDymLCZwuqBUdQ#/registration" target="_blank" title="july 22 meeting">https://bit.ly/4cowT1V</a></p>
-
-<hr>
-<p>&nbsp;</p>
-<iframe src="https://storymaps.arcgis.com/stories/d9fe856e65ea427eb0cf2e9d961e88bf" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </div>
       
+</div>
+</div>
+
+<figcaption>Smokey Bear himself stops by the Bureau of Land Management table during Smokey Bear Days in Capitan, N.M., May 3.</figcaption>
+</figure>
+
+
+<p>Fort Stanton Cave, which receives its name from the nearby historic military fort run by the State of New Mexico, includes more than 44 miles of mapped passage, and is the 10th longest cave in the United States and the 62nd longest cave in the world, Peterson said.</p>
+
+<p>“It has more mapped passage than Carlsbad Caverns,” Peterson told visitors at the 11:15 a.m. talk May 4. “If you’ve been in Carlsbad Caverns, [Fort Stanton Cave] is a bigger cave. There may be bigger rooms [at Carlsbad Caverns]. There may be more formations there, but as far as extent of passage, this one is much bigger. This is just as spectacular in its own way.”</p>
+
+<p>The Snowy River Passage, within Fort Stanton Cave, is composed of white calcite deposited by water that sometimes flows through the cave, Peterson said. When traveling on Snowy River Passage, which is about 13 miles long, cavers must wear elbow and kneepads because the surface of the formation is extremely abrasive.</p>
+
+<p>The BLM has kept Fort Stanton Cave closed to recreational caving for about 10 years due to white-nose syndrome, a contagious fungal infection that kills about 90% of bats it infects, it is only open for educational and scientific use.</p>
+
+<p>The BLM limits entries into the cave to 350 a year, Peterson said. About 100 of those entries are for youths entering the cave for educational purposes, and the rest are for scientific entries.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="c1f31099-209a-481c-ac92-31b3f739ed7b" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
 
 
 
 
   
 
-  <div class="field contact-block -fiscal-year">
-    <div><strong>Fiscal Year:</strong> </div>
-              <div>2024</div>
-          </div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-06/Fort-%20Satnton-Talk-002.jpg?itok=hEk8d-gM" width="640" height="444" alt="Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days." typeof="foaf:Image">
 
 
+</div>
+      
+</div>
+</div>
+
+<figcaption>Knutt Peterson, a cave specialist with the Bureau of Land Management Roswell Field Office, gives a talk about Fort Stanton Cave at the Capitan Public Library, Capitan, N.M., May 4, during the village’s Smokey Bear Days.</figcaption>
+</figure>
 
 
+<p>The BLM’s educational outreach program features Caver Quest Academy, in partnership with the nonprofit Public Lands Interpretive Association, which teaches local seventh graders about Fort Stanton Cave in the classroom, includes a realistic video game about caving, and culminates in a trip to the cave for many of them, Peterson said.</p>
 
-  
+<p>In terms of scientific entries, scientists monitor bats, the cave’s climate and soil contents, Peterson said. They also continue to map the cave and restore it from damage due to past recreational use.</p>
 
-  <div class="field contact-block -organization">
-    <div><strong>Organization:</strong> </div>
-              <div>Bureau of land Management</div>
-          </div>
+<p>The Roswell Field Office is a leader in white-nose decontamination, Peterson said. &nbsp;The use of dedicated gear at Fort Stanton Cave also helps stop the potential for the human spread of white-nose syndrome to and from the cave. Every time cavers use the Fort Stanton Cave gear, Peterson and others wash and decontaminate it.</p>
 
+<p>“Because we can ‘decon’ large quantities of gear we’ve taken the ‘decon’ station to major caving events around the country and talk about decontaminating cave gear,” Peterson said.</p>
+
+<p>Although Fort Stanton Cave is closed to recreation, the rest of the NCA has many other recreational opportunities, Peterson said.</p>
+
+<p>The NCA includes two campgrounds, Cave Campground and Rob Jaggers Campground, and 70 miles of trails that are open to hikers, equestrians and mountain bikers, Peterson said. There are also opportunities for visiting cultural and historical sites, picnicking, hunting, wildlife viewing, nature study and photography.</p>
+
+<p>The BLM also has a program that removes trash from sinkholes in the Sacramento Gypsum Plains north of Capitan, Peterson said. Most of the projects involve volunteers, but some are too large and require the BLM to hire contractors to remove trash.</p>
+
+<p>Looking to the future of Fort Stanton Cave, Peterson said the BLM plans to continue exploration, restoration and public outreach efforts as much as possible.</p>
+
+<p>To learn more about Caver Quest Academy, visit <a href="https://publiclands.org/pages/caver-quest-academy-project">https://publiclands.org/pages/caver-quest-academy-project</a><br>
+&nbsp;</p>
+</div>
+      
 
 
 
@@ -1524,8 +1778,9 @@ date: 2024-06-24, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/oregon-washington" hreflang="en">Oregon-Washington</a></div>
-          <div><a href="https://www.blm.gov/region/lakeview-do" hreflang="en">Lakeview DO</a></div>
+              <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/pecos-do" hreflang="en">Pecos DO</a></div>
+          <div><a href="https://www.blm.gov/region/roswell-fo" hreflang="en">Roswell FO</a></div>
               </div>
       </div>
 
@@ -1535,13 +1790,24 @@ date: 2024-06-24, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -tag">
-    <div><strong>Tag:</strong> </div>
-          <div>
-              <div><a href="https://www.blm.gov/tag/eis" hreflang="en">EIS</a></div>
-          <div><a href="https://www.blm.gov/tag/planning-and-nepa" hreflang="en">Planning and NEPA</a></div>
-              </div>
-      </div>
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/science" hreflang="en">Science</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-06-28T12:00:00Z">Fri, 06/28/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
 
 
 
@@ -1550,8 +1816,8 @@ date: 2024-06-24, from: Bureau of Land Management, blog
   
 
   <div class="field contact-block -office">
-    <div><strong>District/Field Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/lakeview-district-office" hreflang="en">Lakeview District Office</a></div>
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/roswell-field-office" hreflang="en">Roswell Field Office</a></div>
           </div>
 
 
@@ -1560,50 +1826,38 @@ date: 2024-06-24, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -contact">
-    <div><strong>Contact:</strong> </div>
-          <div>
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48968/edit" hreflang="en">Fort-Stanton-Talk-002</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
               <div>
-
-  <div class="paragraph paragraph--type--contact paragraph--view-mode--default">
-          
-
-
-
-
-  
-
-  <div class="field contact-block -label">
-    <div><strong>Name:</strong> </div>
-              <div>Lisa McNee</div>
+                    <div><a href="https://www.blm.gov/tag/caves-and-karsts" hreflang="en">Caves and Karsts</a></div>
+              <div><a href="https://www.blm.gov/tag/education" hreflang="en">Education</a></div>
+              <div><a href="https://www.blm.gov/tag/fort-stanton-snowy-river-cave-national-conservation-area" hreflang="en">Fort Stanton - Snowy River Cave National Conservation Area</a></div>
+                    </div>
           </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -email">
-    <div><strong>Email:</strong> </div>
-              <div>lmcnee@blm.gov</div>
-          </div>
-
-
-
-
-
-  
-
-  <div class="field contact-block -phone">
-    <div><strong>Phone:</strong> </div>
-              <div>541-947-6811</div>
-          </div>
-
-      </div>
-</div>
-              </div>
-      </div>
+  </div>
 
 
 
@@ -1614,9 +1868,20 @@ date: 2024-06-24, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/oregon-washington" hreflang="en">Oregon-Washington</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/new-mexico" hreflang="en">New Mexico</a></div>
               </div>
-      </div> 
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/48970/edit" hreflang="en">Fort-Stanton-Talk-006</a></div>
+          </div> 
 
 <https://www.blm.gov/blog/2024-06-24/unleashing-science-cadastral-classroom-investigation-field-exercise>
 

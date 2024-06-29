@@ -36,7 +36,404 @@
 An experiment in personal news aggregation.
 </div>
 <h1 id="columns-2024.26">columns 2024.26</h1>
-<p>(date: 2024-06-28 08:34:04)</p>
+<p>(date: 2024-06-28 18:42:12)</p>
+<hr />
+<h2 id="connecting-the-laptop-to-the-server-via-nncp">2024-06-28
+Connecting the laptop to the server via NNCP</h2>
+<p>date: 2024-06-28, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-06-28-connecting-the-laptop-to-the-server-via-nncp">
+2024-06-28 Connecting the laptop to the server via NNCP
+</h1>
+<p>
+First, install the <code>nncp</code> package on both systems. In
+addition to that, install the <code>openbsd-inetd</code> package on the
+server. (In the following passages, I’m connected as <code>root</code>
+to the server.)
+</p>
+<p>
+Generate new configs on the systems that are missing
+<code>/etc/nncp.hjson</code>.
+</p>
+<pre><code>nncp-cfgnew &gt; /etc/nncp.hjson
+chown nncp:nncp /etc/nncp.hjson
+chmod 660 /etc/nncp.hjson
+</code></pre>
+<p>
+Examine the file using a text editor. Each system needs to know the
+public keys of the other.
+</p>
+<p>
+So, on the laptop, I need to add to add the public keys of the server. I
+also want to specify that I’m going to call the node on a regular basis
+and that files sent to me from that node should be saved in my
+“incoming” directory. I also want to accept mail.
+</p>
+<pre><code>    sibirocobombus: {
+      id:       ...
+      exchpub:  ...
+      signpub:  ...
+      noisepub: ...
+      incoming: &quot;/home/alex/incoming/sibirocobombus&quot;
+      exec: {
+        sendmail: [&quot;/usr/sbin/sendmail&quot;]
+      }
+      addrs: {
+        internet: &quot;alexschroeder.ch:5400&quot;
+      }
+      calls: [
+        {
+          cron: &quot;12 * * * *&quot;
+        }
+      ]
+    }
+</code></pre>
+<p>
+And on the server, I need to add the public keys of the laptop. I also
+want to save incoming files from the laptop. And I want to accept mail.
+</p>
+<pre><code>    melanobombus: {
+      id:       ...
+      exchpub:  ...
+      signpub:  ...
+      noisepub: ...
+      incoming: &quot;/home/alex/incoming&quot;
+      exec: {
+        sendmail: [&quot;/usr/sbin/sendmail&quot;]
+      }
+    }
+</code></pre>
+<p>
+Note how the laptop calls the server but the server does not call the
+laptop!
+</p>
+<p>
+Let’s make sure those directories exist:
+</p>
+<pre><code>mkdir ~/incoming
+ssh sibirocobombus mkdir incoming
+</code></pre>
+<p>
+Let’s create a file and send it from the laptop to the server using
+<code>nncp-file</code>:
+</p>
+<pre><code>echo Hello &gt; hello.txt
+sudo -u nncp nncp-file hello.txt sibirocobombus:
+</code></pre>
+<p>
+Check the log using <code>nncp-log</code>:
+</p>
+<pre><code>nncp-log | tail -n 1
+2024-06-28T21:36:02Z File hello.txt (282 B) is sent to sibirocobombus:hello.txt
+</code></pre>
+<p>
+Let’s connect to the server and check:
+</p>
+<pre><code>ssh sibirocobombus ls incoming
+</code></pre>
+<p>
+Nothing has arrived!
+</p>
+<p>
+Let’s call the server using <code>nncp-call</code>:
+</p>
+<pre><code>sudo -u nncp nncp-call sibirocobombus
+2024-06-28T22:07:36Z ERROR Calling sibirocobombus (alexschroeder.ch:5400): dial tcp [2a02:418:6a04:178:209:50:237:1]:5400: connect: connection refused
+</code></pre>
+<p>
+Oops. It’s not running? That’s right, I need to run
+<code>nncp-daemon</code> on the server side.
+</p>
+<p>
+Add the following to <code>/etc/inetd.conf</code> on the server to
+accept NNCP connections on port 5400:
+</p>
+<pre><code>5400 stream  tcp6    nowait  nncp    /usr/local/bin/nncp-daemon  nncp-daemon -quiet -ucspi
+</code></pre>
+<p>
+Reload it:
+</p>
+<pre><code>systemctl reload openbsd-inetd
+</code></pre>
+<p>
+Try again on the laptop:
+</p>
+<pre><code>sudo -u nncp nncp-call sibirocobombus
+2024-06-28T22:14:13Z We have got for sibirocobombus: 1 packets, 486 B
+2024-06-28T22:14:13Z ERROR SP with sibirocobombus (nice MAX): reading: EOF
+2024-06-28T22:14:13Z ERROR Connection to sibirocobombus (alexschroeder.ch:5400): EOF
+</code></pre>
+<p>
+Back to the server:
+</p>
+<pre><code>nncp-log
+2024-06-28T22:15:25Z ERROR SP nice MAX: waiting for first message: unknown peer: ...
+2024-06-28T22:15:25Z Connected to unknown
+</code></pre>
+<p>
+Strange! That id listed there matches my laptop’s <code>noisepub</code>.
+Checking the <code>/etc/nncp.hjson</code> on the server again, I see
+that pasted the wrong pubkeys… 🤦 Fix that and try again…
+</p>
+<pre><code>sudo -u nncp nncp-call sibirocobombus
+2024-06-28T22:19:31Z We have got for sibirocobombus: 1 packets, 486 B
+2024-06-28T22:19:31Z Connection to sibirocobombus (alexschroeder.ch:5400)
+2024-06-28T22:19:31Z Tx QAROTFMX25ZPQOT5..I6JKH75EC2DMSSZQ 486 B/486 B 100% (0 B/sec)
+2024-06-28T22:19:31Z Packet QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ is sent
+2024-06-28T22:19:42Z Finished call with sibirocobombus (0:0:11): 32 KiB received (32 KiB/sec), 33 KiB transferred (33 KiB/sec)
+</code></pre>
+<p>
+Looking good! Check for the file on the server:
+</p>
+<pre><code>ssh sibirocobombus ls incoming
+</code></pre>
+<p>
+It’s not there!
+</p>
+<p>
+Let’s investigate on the server:
+</p>
+<pre><code>nncp-log
+2024-06-28T22:19:31Z Packet QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ (486 B) (nice B): 0%
+2024-06-28T22:19:31Z melanobombus has got for us: 1 packets, 486 B
+2024-06-28T22:19:31Z Connection with melanobombus (PIPE)
+2024-06-28T22:19:31Z Got packet QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ 100% (486 B / 486 B): done
+2024-06-28T22:19:42Z Finished call with melanobombus (0:0:11): 33 KiB received (33 KiB/sec), 32 KiB transferred (32 KiB/sec)
+</code></pre>
+<p>
+This looks good, so we have the packet! And we can confirm this using
+<code>nncp-stat</code>:
+</p>
+<pre><code>nncp-stat
+melanobombus
+    nice:   B | Rx:      486 B,   1 pkts | Tx:        0 B,   0 pkts
+self
+</code></pre>
+<p>
+What needs to happen now is “tossing” using <code>nncp-toss</code>. This
+is, “processing” the packet and thereby delivering it.
+</p>
+<pre><code>sudo -u nncp nncp-toss
+2024-06-28T22:24:28Z ERROR Tossing file melanobombus/QAROTFMX25ZPQOT5DEQQC7JE7EN3UD2FZIJNI6JKH75EC2DMSSZQ (6 B): hello.txt: mktemp: open /home/alex/incoming/nncpfile17dd4b56c39f64d4: permission denied
+</code></pre>
+<p>
+That’s right, the incoming file should be writable by more people…
+</p>
+<pre><code>chgrp nncp /home/alex/incoming
+chmod g+w /home/alex/incoming
+</code></pre>
+<p>
+Try again!
+</p>
+<pre><code>sudo -u nncp nncp-toss
+2024-06-28T22:26:35Z Rx file QAROTFMX25ZPQOT5..I6JKH75EC2DMSSZQ 6 B/6 B 100% (0 B/sec)
+2024-06-28T22:26:36Z Got file hello.txt (6 B) from melanobombus
+</code></pre>
+<p>
+It worked:
+</p>
+<pre><code>ls -l /home/alex/incoming/
+total 4
+-rw-r--r-- 1 nncp nncp 6 29. Jun 00:26 hello.txt
+
+cat /home/alex/incoming/hello.txt 
+Hello
+</code></pre>
+<p>
+🥳
+</p>
+<p>
+Those ownerships still need fixing. 🤨
+</p>
+<p>
+I need to think about
+<a href="https://nncp.mirrors.quux.org/Administration.html">admin
+issues</a>, clearly.
+</p>
+<p>
+I need to set up regular <code>nncp-call</code> on the laptop; I need to
+set up regular <code>nncp-toss</code> on the server.
+</p>
+<p>
+It would be nice to switch from <code>inetd</code> to
+<code>systemd</code> perhaps? Surely they have written a replacement for
+it. They have written replacements for everything! 😬
+</p>
+<p>
+Next up, sending email back and forth!
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Administration">#Administration</a>
+<a class="tag" href="/search/?q=%23NNCP">#NNCP</a>
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-06-28-nncp"
+class="uri">https://alexschroeder.ch/view/2024-06-28-nncp</a></p>
+<hr />
+<h2 id="about-last-night">About Last Night</h2>
+<p>date: 2024-06-28, from: Dan Rather’s Steady</p>
+<p>There is no sugarcoating Biden’s bad night</p>
+<p><a href="https://steady.substack.com/p/about-last-night"
+class="uri">https://steady.substack.com/p/about-last-night</a></p>
+<hr />
+<h2 id="testing-new-raspberry-pi-5-cases---7-to-79">Testing new
+Raspberry Pi 5 Cases - $7 to $79</h2>
+<p>date: 2024-06-28, from: Jeff Geerling blog</p>
+<p><span
+class="field field--name-title field--type-string field--label-hidden">Testing
+new Raspberry Pi 5 Cases - $7 to $79</span></p>
+<pre><code>        &lt;div class=&quot;clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;p&gt;Since the Pi 5&#39;s launch, a number of Pi case redesigns have launched, and there are a few new entrants with something to offer. Like Fractal&#39;s &#39;Baby North&#39;... which, unfortunately, is only a prototype designed for their displays at Computex, and is not being planned for sale. At least not for now! I&#39;ll write more about this case later in this post.&lt;/p&gt;</code></pre>
+<p>
+<img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/fractal-baby-north-raspberry-pi-5-case.jpeg" alt="Fractal Baby North - Raspberry Pi 5 Case">
+</p>
+<p>
+The Pi 5’s thermals are close enough to the Pi 4 that old cooling
+solutions work okay, but the port layout and inclusion of a power button
+means at least minimal redesigns are necessary.
+</p>
+<p>
+Here are a few of the Pi 5 cases I’ve been testing (most for over a
+month, in various places), and my thoughts on each.
+</p>
+<h2>
+Raspberry Pi 5 Case (official)
+</h2>
+<p>
+The
+<a href="https://www.raspberrypi.com/products/raspberry-pi-5-case/">official
+case for the Raspberry Pi 5</a> is like a saltine cracker.
+</p>
+</div>
+<pre><code>  &lt;span class=&quot;field field--name-uid field--type-entity-reference field--label-hidden&quot;&gt;&lt;span&gt;Jeff Geerling&lt;/span&gt;&lt;/span&gt;</code></pre>
+<p><span
+class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-06-28T16:04:30-05:00" title="Friday, June 28, 2024 - 16:04" class="datetime">June
+28, 2024</time> </span></p>
+<p><a
+href="https://www.jeffgeerling.com/blog/2024/testing-new-raspberry-pi-5-cases-7-79"
+class="uri">https://www.jeffgeerling.com/blog/2024/testing-new-raspberry-pi-5-cases-7-79</a></p>
+<hr />
+<h2 id="friday-squid-blogging-new-squid-species">Friday Squid Blogging:
+New Squid Species</h2>
+<p>date: 2024-06-28, updated: 2024-06-28, from: Bruce Schneier blog</p>
+<p>
+A new squid species—of the Gonatidae family—was
+<a href="https://www.mbari.org/news/mbaris-advanced-underwater-robots-discover-deep-sea-squid-that-broods-giant-eggs/">discovered</a>.
+The video shows her holding a brood of very large eggs.
+</p>
+<p>
+Research
+<a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4319">paper</a>.
+</p>
+<p><a
+href="https://www.schneier.com/blog/archives/2024/06/friday-squid-blogging-new-squid-species-3.html"
+class="uri">https://www.schneier.com/blog/archives/2024/06/friday-squid-blogging-new-squid-species-3.html</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-06-28, from: Dave Winer’s Scripting
+News)</p>
+<p>A
+<a href="http://scripting.com/2024/06/28/weNeededBidenToHelpUsRelaxAboutHim.m4a">podcast</a>
+about the debate. We needed one thing from Biden, to believe he’s got
+this. It didn’t happen. Okay what’s next.</p>
+<p><a href="http://scripting.com/2024/06/28.html#a205456"
+class="uri">http://scripting.com/2024/06/28.html#a205456</a></p>
+<hr />
+<h2 id="what-do-democrats-and-all-sane-people-in-america-do-now">What do
+Democrats — and all sane people in America — do now?</h2>
+<p>date: 2024-06-28, from: Robert Reich’s blog</p>
+<p>Stay the course or seek an emergency replacement for Biden?</p>
+<p><a
+href="https://robertreich.substack.com/p/what-do-democrats-and-all-sane-people"
+class="uri">https://robertreich.substack.com/p/what-do-democrats-and-all-sane-people</a></p>
+<hr />
+<h2 id="a-blogroll-lab">A blogroll lab</h2>
+<p>date: 2024-06-28, from: Dave Winer’s Scripting News</p>
+<p>
+I wanted to see what was out there in blogrolls, so I wrote an app that
+started from my own blogroll, and looked for feeds I was subscribed to
+that also had blogrolls, following the
+<a href="https://opml.org/blogroll.opml">conventions</a> we outlined in
+March.
+</p>
+<p>
+It then starts at each of the blogrolls I found in my list, and did the
+same thing with them, until I ran out of lists to look at.
+</p>
+<p>
+And the whole thing runs again a few minutes later.
+</p>
+<p>
+It found a bunch of them, so then I threw together a simple user
+interface that lets you click on the title of a blogroll in a list in
+the left panel, and view the actual blogroll in the right panel. Here’s
+a screen shot.
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/06/28/blogrollbrowser.png">
+</center>
+Screen shot of the Blogroll Browser.
+</div>
+</p>
+<p>
+You can see it at
+<a href="https://browse.blogroll.social/?blogrollUrl=https%3A%2F%2Ffeedland.social%2Fopml%3Fscreenname%3Ddavewiner%26catname%3Dblogroll&blogrollTitle=davewiner%2Fblogroll">browser.blogroll.social</a>.
+</p>
+<p>
+A caveat – what you see here is just an experiment. I don’t expect this
+app to be up for any period of time. It’s here just to learn from. Part
+of a bootstrap perhaps.
+</p>
+<p>
+PS: Cross-posted on
+<a href="https://dave.micro.blog/2024/06/28/a-blogroll-lab.html">micro.blog</a>.
+</p>
+<p><a
+href="http://scripting.com/2024/06/28/170235.html?title=aBlogrollLab"
+class="uri">http://scripting.com/2024/06/28/170235.html?title=aBlogrollLab</a></p>
+<hr />
+<h2 id="summer">2024-06-28 Summer</h2>
+<p>date: 2024-06-28, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-06-28-summer">
+2024-06-28 Summer
+</h1>
+<p>
+Time to post more pictures…
+</p>
+<p>
+<img loading="lazy" src="2024-06-28-flowers-1.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-2.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-3.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-4.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-5.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-6.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-7.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-8.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-9.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-10.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-11.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-12.jpg" alt="" />
+<img loading="lazy" src="2024-06-28-flowers-13.jpg" alt="" />
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-06-28-flowers"
+class="uri">https://alexschroeder.ch/view/2024-06-28-flowers</a></p>
+<hr />
+<h2 id="june-27-2024">June 27, 2024</h2>
+<p>date: 2024-06-28, from: Heather Cox Richardson blog</p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/june-27-2024-fa6"
+class="uri">https://heathercoxrichardson.substack.com/p/june-27-2024-fa6</a></p>
+<hr />
+<h2 id="the-dysfunctional-state">The Dysfunctional State</h2>
+<p>date: 2024-06-28, from: Tracy Durnell Blog</p>
+<p>Step one: stuff the judiciary. Step two: stuff the Supreme Court.
+Step three: run all existing and future Federal policy through the
+backlogged, unqualified judiciary to grind governance to a halt. Step
+four: profit!   Under a conservative Court, there is no such thing as
+precedent. They are shameless in their corruption, gleeful in their
+[…]</p>
+<p><a
+href="https://tracydurnell.com/2024/06/28/the-dysfunctional-state/"
+class="uri">https://tracydurnell.com/2024/06/28/the-dysfunctional-state/</a></p>
 <hr />
 <h2 id="biden">2024-06-28 Biden</h2>
 <p>date: 2024-06-28, from: Alex Schroeder’s Blog</p>
@@ -183,7 +580,7 @@ digital hunts in keynote. Using place holders. They have […]</p>
 <p><a href="https://johnjohnston.info/blog/keynote-scavenger-hunt/"
 class="uri">https://johnjohnston.info/blog/keynote-scavenger-hunt/</a></p>
 <hr />
-<h2 id="june-27-2024">June 27, 2024</h2>
+<h2 id="june-27-2024-1">June 27, 2024</h2>
 <p>date: 2024-06-28, from: Heather Cox Richardson blog</p>
 <p>Tonight was the first debate between President Joe Biden and
 presumptive Republican presidential nominee Donald Trump, and by far the

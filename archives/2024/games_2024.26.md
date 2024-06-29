@@ -1,11 +1,111 @@
 ---
 title: games 2024.26
-updated: 2024-06-28 08:34:05
+updated: 2024-06-28 18:42:13
 ---
 
 # games 2024.26
 
-(date: 2024-06-28 08:34:05)
+(date: 2024-06-28 18:42:13)
+
+---
+
+## Kalki 2898 AD has the ultimate recipe for a sci-fi epic: Star Wars + Hindu myth + RRR
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24188449/kalki-2898-ad-indian-sci-fi-epic-amitabh-bachchan>
+
+---
+
+## Furiosa, Netflix’s A Family Affair, The Boy and the Heron, and every movie new to streaming this week
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/6/28/24181922/new-movies-family-affair-netflix-boy-and-the-heron-furiosa-mad-max>
+
+---
+
+## Sir Moore questline walkthrough for Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24188315/sir-moore-sote-behind-remain-sad-forager-brood-cookbook>
+
+---
+
+## How to beat Messmer the Impaler in Elden Ring: Shadow of the Erdtree
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24184831/messmer-location-weakness-strategy-how-to-beat-sote-dlc>
+
+---
+
+## New DLC weapon locations in Elden Ring Shadow of the Erdtree
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180256/all-new-dlc-weapon-locations>
+
+---
+
+## All DLC boss locations in Elden Ring Shadow of the Erdtree
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order>
+
+---
+
+## Box sets and 4K Blu-rays from the Criterion Collection are on sale
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24188281/criterion-collection-4k-blu-ray-movies-barnes-and-noble-deal-sale>
+
+---
+
+## Dropout’s surprise new show is a slumber party hosted by drag star Monét X Change
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24188221/dropout-monet-x-change-slumber-party-show>
+
+---
+
+## Megan Thee Stallion goes full weeb in ‘Otaku Hot Girl’
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24188110/megan-thee-stallion-otaku-hot-girl-jujutsu-kaisen-yuji-itadori-gojo>
+
+---
+
+## The best cozy games to play right now
+
+date: 2024-06-28, updated: 2024-06-28, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/what-to-play/24151983/best-cozy-games-play-nintendo-switch-steam-playstation-xbox-pc>
 
 ---
 
@@ -136,26 +236,6 @@ date: 2024-06-27, updated: 2024-06-27, from: Polygon Website
  
 
 <https://www.polygon.com/elden-ring-shadow-erdtree-guide/24182737/walkthrough-where-to-go-after-critical-path-main-story-sote>
-
----
-
-## New DLC boss locations in Elden Ring Shadow of the Erdtree
-
-date: 2024-06-27, updated: 2024-06-27, from: Polygon Website
-
- 
-
-<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order>
-
----
-
-## New DLC weapon locations in Elden Ring Shadow of the Erdtree
-
-date: 2024-06-27, updated: 2024-06-27, from: Polygon Website
-
- 
-
-<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180256/all-new-dlc-weapon-locations>
 
 ---
 
@@ -576,16 +656,6 @@ date: 2024-06-24, updated: 2024-06-24, from: Polygon Website
  
 
 <https://www.polygon.com/24184946/nosferatu-trailer-release-date-cast-remake>
-
----
-
-## How to beat Messmer the Impaler in Elden Ring: Shadow of the Erdtree
-
-date: 2024-06-24, updated: 2024-06-24, from: Polygon Website
-
- 
-
-<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24184831/messmer-location-weakness-strategy-how-to-beat-sote-dlc>
 
 ---
 

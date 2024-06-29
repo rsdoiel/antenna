@@ -1,11 +1,68 @@
 ---
 title: writing 2024.26
-updated: 2024-06-28 08:34:04
+updated: 2024-06-28 18:42:12
 ---
 
 # writing 2024.26
 
-(date: 2024-06-28 08:34:04)
+(date: 2024-06-28 18:42:12)
+
+---
+
+## Why Feedback Is Vital for Every Screenwriter
+
+date: 2024-06-28, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/why-feedback-is-vital-for-every-screenwriter" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Person%20Writing%20on%20Note%20Beside%20Gray%20Laptop%20Computer.jpeg" alt="A man in a button up shirt writing in a notebook while working on a laptop; Why Feedback Is Vital for Every Screenwriter" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>Getting feedback on what you’ve written is&nbsp;vital to the screenwriting process. You will likely </span><a href="https://blog.finaldraft.com/the-differences-between-a-rewrite-and-a-polish"><span>rewrite your script</span></a><span> a few times after reading it. However, after you’re happy with what you wrote and decide </span><a href="https://blog.finaldraft.com/youve-finished-your-screenplay.-now-what"><span>your script is finished</span></a><span>, it’s still a good idea to get feedback</span><span>from different people—both people you know and industry professionals—and be open to any constructive criticism or notes they have.</span></p> 
+
+<https://blog.finaldraft.com/why-feedback-is-vital-for-every-screenwriter>
+
+---
+
+## 🐾 No animals were harmed in the making of this newsletter
+
+date: 2024-06-28, from: Interesting, a blog on writing
+
+Some even got belly scritches during its editing. 
+
+<https://inneresting.substack.com/p/no-animals-were-harmed-in-the-making>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-28, from: Neil Gaiman @ BlueSky)
+
+It's a hard-scamming account -- the first I've seen on Bluesky. Please report to Bluesky then Block. This is my only account here.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kvzglavzsg2m>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-06-28, from: Neil Gaiman @ BlueSky)
+
+Definitely a fake account. Report and block...
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kvzfzex6gg2q>
+
+---
+
+## Charles Payseur Reviews Short Fiction: Subterranean, Worlds of Possibility, Flash Fiction Online, and Zooscape
+
+date: 2024-06-28, from: Locus Magazine
+
+<p>Subterranean 8/27/23, 4/21/24
+Worlds of Possibility 4/24
+Flash Fiction Online 4/24
+Zooscape 4/15/24</p>
+<p>Subterranean has been releasing individual short stories for a while now, and I recently had the chance to catch up, including with <strong>Josiah Bancroft</strong>’s rather charming 2023 story “<strong>The Small Hands of Chokedamp</strong>”, which focuses on Captain Isolde Wilby, the inaugural head of the Office of Ensorcelled Investiga­tions. Though Wilby had hoped the platform  <a href="https://locusmag.com/2024/06/charles-payseur-reviews-short-fiction-subterranean-worlds-of-possibility-flash-fiction-online-and-zooscape/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/06/charles-payseur-reviews-short-fiction-subterranean-worlds-of-possibility-flash-fiction-online-and-zooscape/>
 
 ---
 
@@ -27,19 +84,6 @@ I don't know. But there are 32 up at https://www.neilgaiman.com/Neil's_Work/Inte
 [contains quote post or other embedded content] 
 
 <https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kvyihefcr52w>
-
----
-
-## Why Feedback Is Vital for Every Screenwriter
-
-date: 2024-06-27, from: Final Draft blog
-
-<div class="hs-featured-image-wrapper"> 
- <a href="https://blog.finaldraft.com/why-feedback-is-vital-for-every-screenwriter" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Person%20Writing%20on%20Note%20Beside%20Gray%20Laptop%20Computer.jpeg" alt="A man in a button up shirt writing in a notebook while working on a laptop; Why Feedback Is Vital for Every Screenwriter" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
-</div> 
-<p><span>Getting feedback on what you’ve written is&nbsp;vital to the screenwriting process. You will likely </span><a href="https://blog.finaldraft.com/the-differences-between-a-rewrite-and-a-polish"><span>rewrite your script</span></a><span> a few times after reading it. However, after you’re happy with what you wrote and decide </span><a href="https://blog.finaldraft.com/youve-finished-your-screenplay.-now-what"><span>your script is finished</span></a><span>, it’s still a good idea to get feedback</span><span>from different people—both people you know and industry professionals—and be open to any constructive criticism or notes they have.</span></p> 
-
-<https://blog.finaldraft.com/why-feedback-is-vital-for-every-screenwriter>
 
 ---
 

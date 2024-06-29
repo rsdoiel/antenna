@@ -1,11 +1,66 @@
 ---
 title: pacific 2024.26
-updated: 2024-06-28 08:34:01
+updated: 2024-06-28 18:42:10
 ---
 
 # pacific 2024.26
 
-(date: 2024-06-28 08:34:01)
+(date: 2024-06-28 18:42:10)
+
+---
+
+## Culinary institutes unite for workforce development program in Hawaiʻi
+
+date: 2024-06-28, from: University of Hawaiʻi News
+
+<p>The program begins this fall launching a multi-year collaboration to invest in <span aria-label="Hawaii">Hawai&#699;i</span>’s culinary future.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/28/culinary-institutes-unite/">Culinary institutes unite for workforce development program in Hawaiʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/28/culinary-institutes-unite/>
+
+---
+
+## UH-discovered asteroid to make close approach to Earth, no impact risk
+
+date: 2024-06-28, from: University of Hawaiʻi News
+
+<p>Asteroid 2024 <abbr>MK</abbr> was discovered on June 19 by the <abbr>NASA</abbr>-funded <abbr>UH</abbr>’s Asteroid Terrestrial-impact Last Alert Survey telescope in Sutherland, South Africa.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/28/asteroid-2024-mk-atlas-telescope/"><abbr>UH</abbr>-discovered asteroid to make close approach to Earth, no impact risk</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/28/asteroid-2024-mk-atlas-telescope/>
+
+---
+
+## UH alum: Tsunami survivor gives back to Lahaina survivors
+
+date: 2024-06-28, from: University of Hawaiʻi News
+
+<p>Miku Narisawa helped launch a program to bring students affected by the Lahaina wildfires to regions in Japan that have recovered from the 2011 earthquake and tsunami.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/28/tsunami-survivor-gives-back-to-lahaina-survivors/"><abbr>UH</abbr> alum: Tsunami survivor gives back to Lahaina survivors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/28/tsunami-survivor-gives-back-to-lahaina-survivors/>
+
+---
+
+## State lawmakers experience UH Mānoa’s innovation, strategic plans
+
+date: 2024-06-28, from: University of Hawaiʻi News
+
+<p>The <abbr>UH</abbr> M&#257;noa Talk Story: Campus Tour invited new state legislators to discover and support the university’s academic and research spaces on June 26.</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/28/state-lawmakers-campus-tour/">State lawmakers experience <abbr>UH</abbr> Mānoa’s innovation, strategic plans</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/28/state-lawmakers-campus-tour/>
+
+---
+
+## Vacation rental crackdown may lower condo prices in Maui County
+
+date: 2024-06-28, from: University of Hawaiʻi News
+
+<p>If enacted, the policy could expand Maui's long-term residential housing supply by 13&#37;</p>
+The post <a href="https://www.hawaii.edu/news/2024/06/28/vacation-rental-proposal-maui-county/">Vacation rental crackdown may lower condo prices in Maui County</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/06/28/vacation-rental-proposal-maui-county/>
 
 ---
 
@@ -244,6 +299,30 @@ date: 2024-06-28, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/06/28/hawaii-news/pride-festival-returns-but-no-parade-this-year-in-downtown-hilo/>
+
+---
+
+## Kona man dies in head-on traffic crash near Puuanahulu
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>Police say a 21-year-old Kailua-Kona man died early this morning in a two-vehicle head-on crash near Puuanahulu.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/hawaii-news/kona-man-dies-in-head-on-traffic-crash-near-puuanahulu/>
+
+---
+
+## Asteroid to make close approach to Earth
+
+date: 2024-06-28, from: Hawaii Tribune Harold
+
+
+				<p>An asteroid discovered this month by a University of Hawaii-operated telescope will narrowly miss the Earth tonight.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/06/28/hawaii-news/asteroid-to-make-close-approach-to-earth/>
 
 ---
 
@@ -569,6 +648,36 @@ date: 2024-06-27, from: Marshal Islands Journal
  
 
 <https://marshallislandsjournal.com/nuclear-suit-vetoed-in-us/>
+
+---
+
+## It’s a No-Brainer: Reach for Olive Oil and Your Cognitive Health May Get a Boost
+
+date: 2024-06-27, updated: 2024-06-27, from: Marianas Variety
+
+(BPT) - National Alzheimer’s &amp; Brain Awareness Month presents an opportunity not only to shine a spotlight on cognitive issues but also to check on progress toward wellness goals. Simple dietary adjustments can help keep goals on track, and savvy shopping and easy ingredient swaps can improve overall health while boosting cognitive health — and olive oil is a key component. 
+
+<https://www.mvariety.com/online_features/health_and_wellness/it-s-a-no-brainer-reach-for-olive-oil-and-your-cognitive-health-may-get/article_75729b34-6de0-589b-ab35-263004a73d05.html>
+
+---
+
+## Are you digitally impatient? New online shopping survey finds we all are
+
+date: 2024-06-27, updated: 2024-06-27, from: Marianas Variety
+
+(BPT) - By Lisa Grayston, general manager of commerce, Coveo 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/are-you-digitally-impatient-new-online-shopping-survey-finds-we-all-are/article_f382e728-481f-56b2-9066-d424c3261769.html>
+
+---
+
+## Video calls to games: Strong home Wi-Fi all summer long
+
+date: 2024-06-27, updated: 2024-06-27, from: Marianas Variety
+
+(BPT) - Summer's in and school’s out! Now that your kids are out of school or back from college for the summer, your Wi-Fi network could be getting a workout. When everyone in the house is trying to stream movies and shows, game online or take video calls from home across a ton of connected devices, the demand on your network has never been greater. 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/video-calls-to-games-strong-home-wi-fi-all-summer-long/article_63cd03ec-2edc-5abf-86ee-5134d4fc51e0.html>
 
 ---
 
