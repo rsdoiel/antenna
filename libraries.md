@@ -1,77 +1,109 @@
 ---
 title: libraries 2024.26
-updated: 2024-06-29 13:06:54
+updated: 2024-06-30 11:36:56
 ---
 
 # libraries 2024.26
 
-(date: 2024-06-29 13:06:54)
+(date: 2024-06-30 11:36:56)
 
 ---
 
-## Mental Health Awareness — Overcoming Imposter Syndrome: A Fireside Chat with Sarah Durrant, Lead from Within (Parts 3 & 4)
+## Code for Model-Free Nonlinear Feedback Optimization
 
-date: 2024-06-28, from: Scholarly Kitchen
+date: 2024-07-01, from: ETH Zurich, recently added
 
-<p>A fireside chat with Sarah Durrant; independent coach and transformational teacher, on the subject of Imposter Syndrome. Today, parts 3 &#038; 4.</p>
-<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/06/28/mental-health-awareness-overcoming-imposter-syndrome-a-fireside-chat-with-sarah-durrant-lead-from-within-parts-3-4/">Mental Health Awareness &#8212; Overcoming Imposter Syndrome: A Fireside Chat with Sarah Durrant, Lead from Within (Parts 3 &#038; 4)</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
- 
+He, Zhiyu 
 
-<https://scholarlykitchen.sspnet.org/2024/06/28/mental-health-awareness-overcoming-imposter-syndrome-a-fireside-chat-with-sarah-durrant-lead-from-within-parts-3-4/>
+<http://hdl.handle.net/20.500.11850/646002>
 
 ---
 
-## Mental Health Awareness — Overcoming Imposter Syndrome: A Fireside Chat with Sarah Durrant, Lead from Within (Parts 1 & 2)
+## Numerical investigation of crack propagation regimes in snow fracture experiments
 
-date: 2024-06-27, from: Scholarly Kitchen
+date: 2024-07-01, from: ETH Zurich, recently added
 
-<p>A fireside chat with Sarah Durrant; independent coach and transformational teacher, on the subject of Imposter Syndrome. Today, parts 1 &#038; 2.</p>
-<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/06/27/mental-health-awareness-overcoming-imposter-syndrome-a-fireside-chat-with-sarah-durrant-lead-from-within/">Mental Health Awareness &#8212; Overcoming Imposter Syndrome: A Fireside Chat with Sarah Durrant, Lead from Within (Parts 1 &#038; 2)</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
- 
+Bobillier, Grégoire; Bergfeld, Bastian; Dual, Jürg; Gaume, Johan; van Herwijnen, Alec; Schweizer, Jürg 
 
-<https://scholarlykitchen.sspnet.org/2024/06/27/mental-health-awareness-overcoming-imposter-syndrome-a-fireside-chat-with-sarah-durrant-lead-from-within/>
+<http://hdl.handle.net/20.500.11850/670459>
 
 ---
 
-## Guest Post — At the Nature Picket
+## Unraveling patterns, causes, and nature-based remediation strategy for non-grain production on farmland in hilly regions
 
-date: 2024-06-26, from: Scholarly Kitchen
+date: 2024-07-01, from: ETH Zurich, recently added
 
-<p>The strike at Springer Nature raises questions about how editorial work is valued.</p>
-<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/06/26/guest-post-at-the-nature-picket/">Guest Post &#8212; At the Nature Picket</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
- 
+Zhang, Tianzhu; Zhang, Fengrong; Li, Jian; Xie, Zhen; Chang, Yuyang 
 
-<https://scholarlykitchen.sspnet.org/2024/06/26/guest-post-at-the-nature-picket/>
+<http://hdl.handle.net/20.500.11850/672200>
 
 ---
 
-## Short and sweet: the “RDM Guidelines” for ETH researches explained
+## Regulating greenhouse gas dynamics in tidal wetlands: Impacts of salinity gradients and water pollution
 
-date: 2024-06-25, from: ETH Zurich Research Archives
+date: 2024-07-01, from: ETH Zurich, recently added
 
-In a series of short videos, we explain the most important aspects of the “RDM Guidelines” quickly and easily – for good scientific practice and FAIR data. Read more<img src="https://analytics.library.ethz.ch/piwik.php?idsite=1&amp;rec=1&amp;url=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Fshort-and-sweet-the-rdm-guidelines-for-eth-researches-explained%2F&amp;action_name=Short+and+sweet%3A+the+%E2%80%9CRDM+Guidelines%E2%80%9D+for+ETH+researches+explained&amp;urlref=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" /> 
+Ho L.; Barthel M.; Pham K.; Bodé S.; Van Colen C.; Moens T.; Six J.; Boeckx P.; Goethals P. 
 
-<https://rc-blog.ethz.ch/en/short-and-sweet-the-rdm-guidelines-for-eth-researches-explained/>
-
----
-
-## Day in Review (June 24-27)
-
-date: 2024-06-25, from: Association of Research Libraries News
-
-<p>Last Updated on June 27, 2024, 10:37 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, June 25 &#124; Wednesday, June 26 Note: Day...</p>
-<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-june-24-27/">Day in Review (June 24-27)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
- 
-
-<https://www.arl.org/day-in-review/day-in-review-june-24-27/>
+<http://hdl.handle.net/20.500.11850/678456>
 
 ---
 
-## Aurora Floyd, by M. E. Braddon
+## Abandon the NAC in α-synuclein
 
-date: 2024-06-24, from: Standard Ebooks, new releaases
+date: 2024-07-01, from: ETH Zurich, recently added
 
-After her marriage to a Yorkshire landowner, a young woman is oppressed by the consequences of a youthful indiscretion. 
+Goedert, Michel; Goedert, Christian; Outeiro, Tiago F.; Riek, Roland; Schröder, Gunnar F.; Spillantini, Maria Grazia 
 
-<https://standardebooks.org/ebooks/m-e-braddon/aurora-floyd>
+<http://hdl.handle.net/20.500.11850/678457>
+
+---
+
+## Instantly detecting absence seizures
+
+date: 2024-07-01, from: ETH Zurich, recently added
+
+Davidhi F.; Costa F.; Ramantani G.; Sarnthein J. 
+
+<http://hdl.handle.net/20.500.11850/678458>
+
+---
+
+## An effort to distinguish the effects of cloud cover and aerosols on the decadal variations of surface solar radiation in the Northern Hemisphere
+
+date: 2024-07-01, from: ETH Zurich, recently added
+
+Jiao B.; Su Y.; Li Z.; Liao L.; Li Q.; Wild M. 
+
+<http://hdl.handle.net/20.500.11850/679525>
+
+---
+
+## Hyaluronic acid/PEO electrospun tube reduces tendon adhesion to levels comparable to native tendons – An in vitro and in vivo study
+
+date: 2024-07-01, from: ETH Zurich, recently added
+
+Miescher, Iris; Schaffner, Nicola; Rieber, Julia Sarah; Meier Bürgisser, Gabriella; Ongini, Esteban; Yang, Yao; Milionis, Athanasios; Vogel, Viola; Snedeker, Jess Gerrit; Calcagni, Maurizio; Buschmann, Johanna Emilie Else 
+
+<http://hdl.handle.net/20.500.11850/679839>
+
+---
+
+## The Coming of Bill, by P. G. Wodehouse
+
+date: 2024-06-30, from: Standard Ebooks, new releaases
+
+A domineering author of books on eugenics and hygiene makes a match between her niece and an idle artist, intending them to raise a son according to her principles, regardless of the consequences. 
+
+<https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill>
+
+---
+
+## Learning-Based Excavator Automation
+
+date: 2024-06-30, from: ETH Zurich, recently added
+
+Egli, Pascal 
+
+<http://hdl.handle.net/20.500.11850/679546>
 

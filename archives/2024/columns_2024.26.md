@@ -1,1563 +1,356 @@
 ---
 title: columns 2024.26
-updated: 2024-06-29 13:06:52
+updated: 2024-06-30 11:36:55
 ---
 
 # columns 2024.26
 
-(date: 2024-06-29 13:06:52)
+(date: 2024-06-30 11:36:55)
 
 ---
 
-## Debate Post-Mortem | The Coffee Klatch, June 29, 2024 (and sorry for the glitch if anyone received this earlier)
+## May I have a word with you?
 
-date: 2024-06-28, from: Robert Reich's blog
+date: 2024-06-30, from: Robert Reich's blog
 
-with yours truly and Heather Lofthouse 
+Friends, I want to try to reassure you about this country. I know that you&#8217;re worried and upset. You have every reason to be. Donald Trump is a vile human being, and he got away with a tsunami of lies Thursday night. Joe Biden didn&#8217;t come across with the vitality he needed to show. 
 
-<https://robertreich.substack.com/p/debate-post-mortem-the-coffee-klatch>
+<https://robertreich.substack.com/p/may-i-have-a-word-with-you>
 
 ---
 
-## About Last Night
+## Connecting the laptop to the server using UUCP
 
-date: 2024-06-28, from: Dan Rather's Steady
+date: 2024-06-30, from: Alex Schroeder's Blog
 
-There is no sugarcoating Biden&#8217;s bad night 
+<h1 id="connecting-the-laptop-to-the-server-using-uucp">Connecting the laptop to the server using UUCP</h1>
 
-<https://steady.substack.com/p/about-last-night>
+<p>I recently <a href="2024-06-15-uucp">connected my server to another server via UUCP</a>.
+Now I&rsquo;m thinking that perhaps I&rsquo;d like to connect my laptop as another node to it.
+I probably don&rsquo;t need it, because I <a href="2024-06-28-nncp">connected the laptop to the server via NNCP</a>.
+But still. Perhaps <a class="account" href="https://social.sdfeu.org/@lkh" title="@lkh@social.sdfeu.org">@lkh</a> still wants to do stuff via UUCP.
+Perhaps it is the completionist in me.</p>
 
----
-
-## Testing new Raspberry Pi 5 Cases - $7 to $79
-
-date: 2024-06-28, from: Jeff Geerling blog
-
-<span class="field field--name-title field--type-string field--label-hidden">Testing new Raspberry Pi 5 Cases - $7 to $79</span>
-
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Since the Pi 5's launch, a number of Pi case redesigns have launched, and there are a few new entrants with something to offer. Like Fractal's 'Baby North'... which, unfortunately, is only a prototype designed for their displays at Computex, and is not being planned for sale. At least not for now! I'll write more about this case later in this post.</p>
-
-<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/fractal-baby-north-raspberry-pi-5-case.jpeg" alt="Fractal Baby North - Raspberry Pi 5 Case"></p>
-
-<p>The Pi 5's thermals are close enough to the Pi 4 that old cooling solutions work okay, but the port layout and inclusion of a power button means at least minimal redesigns are necessary.</p>
-
-<p>Here are a few of the Pi 5 cases I've been testing (most for over a month, in various places), and my thoughts on each.</p>
-
-<h2>Raspberry Pi 5 Case (official)</h2>
-
-<p>The <a href="https://www.raspberrypi.com/products/raspberry-pi-5-case/">official case for the Raspberry Pi 5</a> is like a saltine cracker.</p></div>
-      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
-<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-06-28T16:04:30-05:00" title="Friday, June 28, 2024 - 16:04" class="datetime">June 28, 2024</time>
-</span> 
-
-<https://www.jeffgeerling.com/blog/2024/testing-new-raspberry-pi-5-cases-7-79>
-
----
-
-## Friday Squid Blogging: New Squid Species
-
-date: 2024-06-28, updated: 2024-06-28, from: Bruce Schneier blog
-
-<p>A new squid species&#8212;of the Gonatidae family&#8212;was <a href="https://www.mbari.org/news/mbaris-advanced-underwater-robots-discover-deep-sea-squid-that-broods-giant-eggs/">discovered</a>. The video shows her holding a brood of very large eggs.</p>
-<p>Research <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4319">paper</a>.</p>
- 
-
-<https://www.schneier.com/blog/archives/2024/06/friday-squid-blogging-new-squid-species-3.html>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-06-28, from: Dave Winer's Scripting News)
-
-A <a href="http://scripting.com/2024/06/28/weNeededBidenToHelpUsRelaxAboutHim.m4a">podcast</a> about the debate. We needed one thing from Biden, to believe he's got this. It didn't happen. Okay what's next. 
-
-<http://scripting.com/2024/06/28.html#a205456>
-
----
-
-## What do Democrats — and all sane people in America — do now?
-
-date: 2024-06-28, from: Robert Reich's blog
-
-Stay the course or seek an emergency replacement for Biden? 
-
-<https://robertreich.substack.com/p/what-do-democrats-and-all-sane-people>
-
----
-
-## A blogroll lab
-
-date: 2024-06-28, from: Dave Winer's Scripting News
-
-<p>I wanted to see what was out there in blogrolls, so I wrote an app that started from my own blogroll, and looked for feeds I was subscribed to that also had blogrolls, following the <a href="https://opml.org/blogroll.opml">conventions</a> we outlined in March.</p>
-<p>It then starts at each of the blogrolls I found in my list, and did the same thing with them, until I ran out of lists to look at.</p>
-<p>And the whole thing runs again a few minutes later. </p>
-<p>It found a bunch of them, so then I threw together a simple user interface that lets you click on the title of a blogroll in a list in the left panel, and view the actual blogroll in the right panel. Here's a screen shot.</p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/28/blogrollbrowser.png"></center>Screen shot of the Blogroll Browser.</div></p>
-<p>You can see it at <a href="https://browse.blogroll.social/?blogrollUrl=https%3A%2F%2Ffeedland.social%2Fopml%3Fscreenname%3Ddavewiner%26catname%3Dblogroll&blogrollTitle=davewiner%2Fblogroll">browser.blogroll.social</a>.</p>
-<p>A caveat -- what you see here is just an experiment. I don't expect this app to be up for any period of time. It's here just to learn from. Part of a bootstrap perhaps.</p>
-<p>PS: Cross-posted on <a href="https://dave.micro.blog/2024/06/28/a-blogroll-lab.html">micro.blog</a>.</p>
- 
-
-<http://scripting.com/2024/06/28/170235.html?title=aBlogrollLab>
-
----
-
-## June 27, 2024
-
-date: 2024-06-28, from: Heather Cox Richardson blog
-
- 
-
-<https://heathercoxrichardson.substack.com/p/june-27-2024-fa6>
-
----
-
-## The Dysfunctional State
-
-date: 2024-06-28, from: Tracy Durnell Blog
-
-Step one: stuff the judiciary. Step two: stuff the Supreme Court. Step three: run all existing and future Federal policy through the backlogged, unqualified judiciary to grind governance to a halt. Step four: profit! &#160; Under a conservative Court, there is no such thing as precedent. They are shameless in their corruption, gleeful in their [&#8230;] 
-
-<https://tracydurnell.com/2024/06/28/the-dysfunctional-state/>
-
----
-
-## 2024-06-28 Biden
-
-date: 2024-06-28, from: Alex Schroeder's Blog
-
-<h1 id="2024-06-28-biden">2024-06-28 Biden</h1>
-
-<p>When I see all this talk about Biden and the US elections I keep thinking: almost all that matters is that Biden has a vice president that can take over as soon as things break down. I still remember thinking when Biden got elected: this guy has nothing; he is the most boring and conflict averse choice. And this was exactly what the US needed. And it’s what the US still needs. A boring candidate whose administration gets stuff done.</p>
-
-<p>Of course, the US also needs a lot of other things: reforms, policy changes, and on and on. And you can have both! Do not vote for the fascist and keep the criticism up. So I can say: racism, Israel, Ukraine, immigration, gerrymandering, gun control, Snowden… work on all these things!! Do it! But just because I’m unhappy about the lack of progress does not mean you should abstain or vote for a fascist.</p>
-
-<p>The fact that both candidates are old white men is a shame, yes of course! But it is not a reason to hand power to the fascists.</p>
-
-<p>And often things can get done at the local level. The Swiss based their constitution on the US constitution (senate, congress, states, federalism) and I know that what is impossible to achieve at the national level can sometimes be achieved at the state level, and what cannot be achieved at the state level can be achieved at the city level, in the community, in the library, at the bar, at home.</p>
-
-<p>Wherever things are not first past the post you can kick Democrats where it hurts and beat them. And then, perhaps, one day, things will get better.</p>
-
-<p>Then again, here in Switzerland percentages go up and down here and there and yet one feels that nothing really changes. It’s hard and people aren’t as social I would prefer them to be.</p>
-
-<p>I do like flowers and trees and birds and amphibians and bees and ants and marine mammals and bison and many other things, though. The help me through the dark times.</p>
-
-<p><a class="tag" href="/search/?q=%23USA">#USA</a></p> 
-
-<https://alexschroeder.ch/view/2024-06-28-biden>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-06-28, from: Dave Winer's Scripting News)
-
-<a href="https://www.youtube.com/watch?v=10Rw7tf3QzM">Today's song</a>: "Respect yourself, respect yourself, respect yourself." 
-
-<http://scripting.com/2024/06/28.html#a141344>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-06-28, from: Dave Winer's Scripting News)
-
-I've started a FAQ for <a href="https://this.how/whyVoteForBiden/">why we should vote for Biden</a> in November. I would have liked to have been looking at this list last night at the debate, to remind myself that even if the President had trouble explaining it in words, there were still good reasons to vote for him. 
-
-<http://scripting.com/2024/06/28.html#a134751>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-06-28, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/28/cherryCokeZero.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I don't want to write about last night's debate. But if I did, I'd say there's nothing to be done, we just have to let this play out. Even if Biden were to step aside, that would just open the convention and there are lots of Democrats who would see this as their opportunity to be the FDR or Lincoln of the 21st century. There would be no nominee until after the convention, maybe it wouldn't be so bad for the Democrats to have everyone's full attention for a few months. There will be lots of polls, that's for sure. In the meantime, I'm going to try to enjoy the summer, it's beautiful here in the mountains north of the city, and I have some software to finish. And of course I will vote for Democrats straight down the line in the coming election. 
-
-<http://scripting.com/2024/06/28.html#a133023>
-
----
-
-## The 2024 Trump-Biden Debate
-
-date: 2024-06-28, from: Wait but why blog
-
-<p>Jeez</p>
-<p>The post <a href="https://waitbutwhy.com/2024/06/debate2024.html">The 2024 Trump-Biden Debate</a> appeared first on <a href="https://waitbutwhy.com">Wait But Why</a>.</p>
- 
-
-<https://waitbutwhy.com/2024/06/debate2024.html>
-
----
-
-## James Bamford on Section 702 Extension
-
-date: 2024-06-28, updated: 2024-06-28, from: Bruce Schneier blog
-
-<p>Longtime NSA-watcher James Bamford has a <a href="https://www.thenation.com/article/world/nsa-warrantless-surveillance/tnamp/">long article</a> on the reauthorization of Section 702 of the Foreign Intelligence Surveillance Act (FISA).</p>
- 
-
-<https://www.schneier.com/blog/archives/2024/06/james-bamford-on-section-702-extension.html>
-
----
-
-## Bookmarked: How France Adopts An Open Source-Based Education Strategy
-
-date: 2024-06-28, from: John's World Wide Wall Display
-
-Kauffmann said that France has never officially embraced big tech in schools, which makes the project easier, and that the public generally is skeptic towards monopolies and the abuse of private data. The country is thus undergoing a cultural shift in the digital education sector, promoting the use of free, open, and interoperable code, data, [&#8230;] 
-
-<https://johnjohnston.info/blog/bookmarked-how-france-adopts-an-open-source-based-education-strategy/>
-
----
-
-## Keynote Scavenger Hunt
-
-date: 2024-06-28, from: John's World Wide Wall Display
-
-<div><img width="620" height="465" src="https://johnjohnston.info/blog/wp-content/uploads/2024/06/scavenger-hunt-620x465.jpg" class="attachment-medium size-medium u-featured wp-post-image" alt="Grass in the foreground 2 blurred people behind" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://johnjohnston.info/blog/wp-content/uploads/2024/06/scavenger-hunt-620x465.jpg 620w, https://johnjohnston.info/blog/wp-content/uploads/2024/06/scavenger-hunt-768x576.jpg 768w, https://johnjohnston.info/blog/wp-content/uploads/2024/06/scavenger-hunt-668x501.jpg 668w, https://johnjohnston.info/blog/wp-content/uploads/2024/06/scavenger-hunt.jpg 1024w" sizes="(max-width: 620px) 100vw, 620px" data-attachment-id="19411" data-permalink="https://johnjohnston.info/blog/keynote-scavenger-hunt/scavenger-hunt/" data-orig-file="https://johnjohnston.info/blog/wp-content/uploads/2024/06/scavenger-hunt.jpg" data-orig-size="1024,768" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="scavenger-hunt" data-image-description="" data-image-caption="" data-medium-file="https://johnjohnston.info/blog/wp-content/uploads/2024/06/scavenger-hunt-620x465.jpg" data-large-file="https://johnjohnston.info/blog/wp-content/uploads/2024/06/scavenger-hunt.jpg" /></div>My last day of term plan yesterday was a scavenger hunt, Capture the Flag and tidy our MakerSpace. The scavenger hunt was made in Keynote, a slide for each challenge. I&#8217;ve recently read Digital Scavenger Hunts – DigiLearnFalk which shows how to make really attractive one-slide digital hunts in keynote. Using place holders. They have [&#8230;] 
-
-<https://johnjohnston.info/blog/keynote-scavenger-hunt/>
-
----
-
-## June 27, 2024 
-
-date: 2024-06-28, from: Heather Cox Richardson blog
-
-Tonight was the first debate between President Joe Biden and presumptive Republican presidential nominee Donald Trump, and by far the most striking thing about the debate was the overwhelming focus among pundits immediately afterward about Biden&#8217;s appearance and soft, hoarse voice as he rattled off statistics and events. Virtually unmentioned was the fact that Trump lied and rambled incoherently, ignored questions to say whatever he wanted; refused to acknowledge the events of January 6, 2021; and refused to commit to accepting the result of the 2024 presidential election, finally saying he would accept it only if it met his standards for fairness. 
-
-<https://heathercoxrichardson.substack.com/p/june-27-2024>
-
----
-
-## Debunking myth #5: “The market doesn’t play favorites.”
-
-date: 2024-06-28, from: Robert Reich's blog
-
-BUNK! 
-
-<https://robertreich.substack.com/p/debunking-myth-5-the-market-doesnt>
-
----
-
-## Election Countdown, 130 Days to Go: A Bad Night for America.
-
-date: 2024-06-28, from: James Fallows, Substack
-
-Let me count the ways. 
-
-<https://fallows.substack.com/p/election-countdown-130-days-to-go>
-
----
-
-## Final thoughts on tonight’s debate
-
-date: 2024-06-28, from: Robert Reich's blog
-
-Friends, Thanks for joining Heather and me tonight. It was a painful evening. Let me leave you with these quotes: &#8220;The great masses of the people &#8230; will more easily fall victim to a big lie than to a small one.&#8221; &#8212; Adolf Hitler, Mein Kampf &#8220;If you tell a lie big enough and keep repeating it, people will eventually come to believe it. The lie can be maintained only for such time as the State can shield the people from the political, economic and/or military consequences of the lie. It thus becomes vitally important for the State to use all of its powers to repress dissent, for the truth is the mortal enemy of the lie, and thus by extension, the truth is the greatest enemy of the State.&#8221; &#8212; attributed to Joseph Goebbels 
-
-<https://robertreich.substack.com/p/final-thoughts-on-tonights-debate>
-
----
-
-## Wordle Kitty to the rescue
-
-date: 2024-06-28, from: Dave Winer's Scripting News
-
-<p>After tonight's debate, how about <a href="https://www.google.com/search?q=%22Wordle+Kitty%22">Wordle Kitty</a> to cheer us up? <span class="spOldSchoolEmoji">😄</span></p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/27/wordleKittyDebate.png"></center>Wordle Kitty on the debate stage.</div></p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/27/wordleKittyPan.png"></center>Wordle Kitty doesn't want to <a href="https://en.wikipedia.org/wiki/Peter_Pan">grow up</a>. </div></p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/27/wordleKittyPlayingInTheBand.png"></center>Wordle Kitty <a href="https://www.youtube.com/watch?v=Qe6sJMjy4T0">playing in the band</a>. </div></p>
- 
-
-<http://scripting.com/2024/06/27/024829.html?title=wordleKittyToTheRescue>
-
----
-
-## Friday 28 June, 2024
-
-date: 2024-06-27, from: John Naughton's online diary
-
-En féte I came on this the other evening in the village where we stay. No idea what the event was celebrating (Footnote for shutterbugs I would have liked to get in closer without being obtrusive, so what really bothered &#8230; <a href="https://memex.naughtons.org/friday-28-june-2024/39584/">Continue reading <span class="meta-nav">&#8594;</span></a> 
-
-<https://memex.naughtons.org/friday-28-june-2024/39584/>
-
----
-
-##  I Will Fucking Piledrive You If You Mention AI Again. &#8220;&#8230;spending half... 
-
-date: 2024-06-27, updated: 2024-06-27, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044890-i-will-fucking-piledrive->
-
----
-
-##  &#8220;I Shrink 10x Every 21s Until I&#8217;m an Atom&#8221; 
-
-date: 2024-06-27, updated: 2024-06-27, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/i-shrink-10x-every-21s-until-im-an-atom>
-
----
-
-##  Paramount has taken offline the entire MTV News archive as well as... 
-
-date: 2024-06-27, updated: 2024-06-27, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044888-paramount-has-taken-offli>
-
----
-
-##  The Biden administration&#8217;s successes (clean energy, infrastructure investment, workers&#8217; rights, making gov&#8217;t... 
-
-date: 2024-06-27, updated: 2024-06-27, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044887-the-biden-administrations>
-
----
-
-##  Diary Comics, January 2024 
-
-date: 2024-06-27, updated: 2024-06-27, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/diary-comics-january-2024>
-
----
-
-## The subscription problem
-
-date: 2024-06-27, from: Dave Winer's Scripting News
-
-<p>Yesterday I did a <a href="http://scripting.com/2024/06/26.html#a225814">podcast</a> in my new <a href="https://this.how/scriptingNewsPodcast/">podcast-only feed</a> that explained how RSS had its moment between 2002 and 2006. The big event in 2002 was support from the NY Times, and in 2006 it was the advent of Twitter. </p>
-<ul>
-<li>The <a href="https://scripting.wordpress.com/2006/02/09/how-the-ny-times-came-to-support-rss/">NY Times support</a> gave us the news flow of one of the greatest and most respected news orgs. The entire news publishing industry followed, with incredible speed. It was an amazing time. Woodstock on the web. Everyone who was anyone was there.  </li>
-<li>Inbetween, <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> got the rep of being too hard for average people. The <i>only</i> reason for this deserved reputation is that subscription was a mess. Every website had to figure it out for themselves, and every feed reader acted as if they were the only feed reader in the world. RSS, which could have been the foundation of something very much like Twitter, never got out the corner of the market where it was totally adored, by people who were motivated enough to tolerate the awful state of subscribing.</li>
-<li>This was not in any way an insolvable problem. But it required something that the developers of the open web weren't able to do, work together. The W3C and IETF were busy trying to replace RSS, they were offended that it had been developed independently, even though their pitch for XML was that you could develop your own formats. It seemed they didn't believe their own hype? So not only did they not do do anything to help, they actively worked to undermine the success of RSS. That didn't work, fortunately. </li>
-<li>By the time <a href="https://en.wikipedia.org/wiki/Google_Reader">Google Reader</a> came along in 2005, it was too late for cooperation. Google dominated, and they didn't want to do anything to build an open news ecosystem.</li>
-<li><img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/27/followButton.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">When Twitter arrived in 2006, it had control of every aspect of user interface in their corporate platform, and were thus able to completely solve the subscription problem. Every feed had a button that said Follow. Click the button and you were following that feed. The button changed to Unfollow. That is was whole user interface right there. So easy anyone could use it.</li>
-</ul>
-<p>This story must sound familliar, in 2024 -- because it's all happening <a href="https://www.goodreads.com/quotes/468991-all-of-this-has-happened-before-and-it-will-all">again</a>. This time it's Facebook playing the role of Twitter, and Mastodon playing the role of RSS. And Mastodon has gotten a deserved reputation as being only for techie types. And the solution in 2024 is the same as it was in 2002 -- working together to make subscription easy. A one-click Follow button that works. One button for site-makers to put on their pages. And users leaning back and clicking away without a care in the world (at least about the software).</p>
-<p>The <a href="http://scripting.com/2024/06/26/theFediverseIsDoomedUnlessSubscriptionGetsEasyFast.m4a">podcast</a> is only 12 minutes long. Go have a listen and then think about whether or not you want to solve this problem for the fediverse. It can include non-ActivityPub systems btw, like Bluesky and even feed readers! We can all share the same subscription protocol. But it cannot be distributed. It must be centralized. </p>
- 
-
-<http://scripting.com/2024/06/27/175207.html?title=theSubscriptionProblem>
-
----
-
-##  Asking AI to generate a video of the Tour de France. 1.... 
-
-date: 2024-06-27, updated: 2024-06-27, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044885-asking-ai-to-generate-a>
-
----
-
-## June 26, 2024
-
-date: 2024-06-27, from: Heather Cox Richardson blog
-
- 
-
-<https://heathercoxrichardson.substack.com/p/june-26-2024-5e4>
-
----
-
-## European Commission Launches Investigation Against Microsoft for Integrating Teams With Office
-
-date: 2024-06-27, updated: 2024-06-27, from: Daring Fireball
-
- 
-
-<https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3446>
-
----
-
-##  15 Years of Plant Time Lapse Videos 
-
-date: 2024-06-27, updated: 2024-06-27, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/15-years-of-plant-time-lapse-videos>
-
----
-
-## Sponsorship Openings at Daring Fireball and the Talk Show, Summer 2024 Edition
-
-date: 2024-06-27, updated: 2024-06-27, from: Daring Fireball
-
- 
-
-<https://daringfireball.net/2024/03/sponsorship_openings_early_2024>
-
----
-
-##  One Million Checkboxes. I love these sorts of minimal collaborative thingies. (Are... 
-
-date: 2024-06-27, updated: 2024-06-27, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044884-one-million-checkboxes-i->
-
----
-
-##  Calm Down — Your Phone Isn&#8217;t Listening to Your Conversations. It&#8217;s Just... 
-
-date: 2024-06-27, updated: 2024-06-27, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044883-calm-down-your-phone>
-
----
-
-## 2024-06-27 Keep your own archives
-
-date: 2024-06-27, from: Alex Schroeder's Blog
-
-<h1 id="2024-06-27-keep-your-own-archives">2024-06-27 Keep your own archives</h1>
-
-<p>In these days of copyright maximalism I often think of all the fragments by ancient authors that we only know because they were quoted extensively by others.</p>
-
-<p>We should not expect the web to stay up, the links to stay fresh, the posts to remain available. No, it’s entropy all the way: technology comes and goes, servers come and go, pages are written and get deleted, people are born and die, and everything they ever built is pulled down as capitalism keeps eating us and our works.</p>
-
-<p>Here’s my wish: link if you can but quote extensively and fight copyright maximalism. Save our culture! Some of our works might survive into the far future and the quotes they bear are the life boats of our thoughts.</p>
-
-<p>I still need to get into the habit of archiving web posts I like. I&rsquo;m very unhappy about that. I started saving all the PDFs I liked, read, skimmed or intended to read, just in case I need find them again. It&rsquo;s a start, but not enough.</p>
-
-<p>It hurts my brain that Sophocles was so prolific, so famous, so beloved – and we got seven plays out of a hundred and twenty. 😭 And that’s one of the authors with complete plays available. All pre-Socratic philosophy relies on testimonia. 😭 😭</p>
-
-<p>Thanks to <a class="account" href="https://floss.social/@alcinnz" title="@alcinnz@floss.social">@alcinnz</a> and <a class="account" href="https://fosstodon.org/@Greta" title="@Greta@fosstodon.org">@Greta</a> for the conversation back in 2023.</p>
-
-<p>This message is brought to you not only by the film studios cancelling shows they already produced in order to save on taxes, nor by studios dumping TV archives, nor by search engines letting the USENET archive deteriorate, nor by the copyright owners eager to prey on any that would restore old movies that are rotting away due to age, hoping to leech any value somebody else might create, nor by thoughts of a generation of people entrusting their culture to the Internet where companies fail and servers die and nothing of value survives the coming apocalypse. No. It&rsquo;s because the artifacts of our lives and our culture are no longer made of clay and stone to last for a thousand years, nor paper or wood to last for centuries, and we&rsquo;ve handed them over to corporations that don&rsquo;t care. All they care for is profit.</p>
-
-<p>We need to take back what we can.</p>
-
-<p>We need to keep our own archives.</p>
-
-<p><a class="tag" href="/search/?q=%23Copyright">#Copyright</a></p> 
-
-<https://alexschroeder.ch/view/2024-06-27-keep-archives>
-
----
-
-## Security Analysis of the EU’s Digital Wallet
-
-date: 2024-06-27, updated: 2024-06-27, from: Bruce Schneier blog
-
-<p>A group of cryptographers have <a href="https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/issues/200">analyzed</a> the eiDAS 2.0 regulation (electronic identification and trust services) that defines the new EU Digital Identity Wallet.</p>
- 
-
-<https://www.schneier.com/blog/archives/2024/06/security-analysis-of-the-eus-digital-wallet.html>
-
----
-
-## long term curl versions
-
-date: 2024-06-27, from: Daniel Stenberg Blog
-
-In the curl project we ship new releases based on the master branch of our git repository, in a clean and linear commit history. We have never maintained an old branch for long term or stability etc. Instead we promise to not break user behavior nor the ABI or API. All users should be able &#8230; <a href="https://daniel.haxx.se/blog/2024/06/27/long-term-curl-versions/" class="more-link">Continue reading <span class="screen-reader-text">long term curl versions</span> <span class="meta-nav">&#8594;</span></a> 
-
-<https://daniel.haxx.se/blog/2024/06/27/long-term-curl-versions/>
-
----
-
-## Announcing our debate watchalong in real time, tonight, on this page, starting 5:45 PT/8:45 ET
-
-date: 2024-06-27, from: Robert Reich's blog
-
-Please join us! 
-
-<https://robertreich.substack.com/p/the-first-presidential-debate-of>
-
----
-
-## June 26, 2024
-
-date: 2024-06-27, from: Heather Cox Richardson blog
-
-Today President Joe Biden pardoned more than 2000 former military personnel who had been convicted of engaging in consensual sex under a gay sex ban in the military that has since been repealed. People covered under the pardon can apply to have their military discharges corrected and to recover the pay and benefits the convictions cost them. &#8220;[M]aintaining the finest fighting force in the world&#8230;means making sure that every member of our military feels safe and respected,&#8221; Biden said in a statement. 
-
-<https://heathercoxrichardson.substack.com/p/june-26-2024>
-
----
-
-## The Talk Show: ‘150 Million Calculator Apps’
-
-date: 2024-06-27, updated: 2024-06-27, from: Daring Fireball
-
- 
-
-<https://daringfireball.net/thetalkshow/2024/06/26/ep-403>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-06-26, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/26/feedlandSmall.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="http://scripting.com/2024/06/26/theFediverseIsDoomedUnlessSubscriptionGetsEasyFast.m4a">Podcast</a>: The Fediverse is doomed unless subscription gets easy, fast. Twitter kicked butt when it came out in 2006 and the butt it kicked was the <i>feed</i>iverse. Why? Because it was too damned hard and unnecessarily complicated to subscribe to a feed. In Twitter there was a button on each feed page that said Subscribe. Click the button and you're subscribed. That's it. May sound like a small matter, but it's not. Listen wherever you get your podcasts. I've been dying to say that. 12 minutes. 
-
-<http://scripting.com/2024/06/26.html#a225814>
-
----
-
-## (Midweek Edition) Field Notes 06.26.2024
-
-date: 2024-06-26, from: Om Malik blog
-
-On My Mind I recently shared on Threads the following:&#160; “Social Media is like a mirror that makes objects appear bigger than they really are. It amplifies what was already there.”&#160; To expound on it a bit further, what I mean is that no matter what we do, somehow we let our true selves out. &#8230; 
-
-<https://om.co/2024/06/26/midweek-edition-field-notes-06-26-2024/>
-
----
-
-##  The White Death 
-
-date: 2024-06-26, updated: 2024-06-26, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/the-white-death>
-
----
-
-##  Loved Caity Weaver&#8217;s Letter of Recommendation for the only reality show I&#8217;ve... 
-
-date: 2024-06-26, updated: 2024-06-26, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044880-loved-caity-weavers-lette>
-
----
-
-##  llama.ttf is a font that includes an LLM and an inference engine... 
-
-date: 2024-06-26, updated: 2024-06-26, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044879-llamattf-is-a-font-that>
-
----
-
-##  Some Obvious Travel Advice 
-
-date: 2024-06-26, updated: 2024-06-26, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/some-obvious-travel-advice>
-
----
-
-## Wavelength Is Shutting Down at the End of July
-
-date: 2024-06-26, updated: 2024-06-26, from: Daring Fireball
-
- 
-
-<https://www.wavelength.app/>
-
----
-
-##  Updated advice about lightning safety when you&#8217;re outdoors, including &#8220;hiding in a... 
-
-date: 2024-06-26, updated: 2024-06-26, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044878-updated-advice-about-ligh>
-
----
-
-## AI Poetry Camera? Seriously?
-
-date: 2024-06-26, from: Om Malik blog
-
-Some days randomly remind you of the uniqueness of the place you call home. Yesterday was one of those days. I met Ryan Mather, who works for Sudowrite*, for coffee. He was in town for the Figma Design Conference. We chatted about writing, books, and how I use “AI” in my process. We discussed what &#8230; 
-
-<https://om.co/2024/06/26/a-poetic-ai-camera/>
-
----
-
-##  New Order&#8217;s Iconic Blue Monday Played on Vintage Casio Instruments 
-
-date: 2024-06-26, updated: 2024-06-26, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/new-orders-iconic-blue-monday-played-on-vintage-casio-instruments>
-
----
-
-## June 25, 2024
-
-date: 2024-06-26, from: Heather Cox Richardson blog
-
- 
-
-<https://heathercoxrichardson.substack.com/p/june-25-2024-687>
-
----
-
-## Human Insight + LLM Grunt Work = Creative Publishing Solution
-
-date: 2024-06-26, from: Jonudell blog
-
-Here&#8217;s the latest installment in the series on working with LLMS: https://thenewstack.io/human-insight-llm-grunt-work-creative-publishing-solution/ Although streamlined publishing of screenshots is nice, the biggest win comes from reviewing and revising in Google Docs; which, for better and worse, has become the defacto collaboration standard for many of us. I am ridiculously pleased with this solution. The rest of &#8230; <a href="https://blog.jonudell.net/2024/06/26/human-insight-llm-grunt-work-creative-publishing-solution/" class="more-link">Continue reading <span class="screen-reader-text">Human Insight + LLM Grunt Work = Creative Publishing Solution</span></a> 
-
-<https://blog.jonudell.net/2024/06/26/human-insight-llm-grunt-work-creative-publishing-solution/>
-
----
-
-##  Pros And Cons Of Displaying The 10 Commandments In Every Classroom. &#8220;PRO:... 
-
-date: 2024-06-26, updated: 2024-06-26, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044876-pros-and-cons-of-displayi>
-
----
-
-## Wordle Kitty prevails!
-
-date: 2024-06-26, from: Dave Winer's Scripting News
-
-<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/26/wordleGrid.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Wordle Kitty hunkers down in an epic battle with Wordle Monkey on stage at Carnegie Hall in NYC for the honor of kittens everywhere. She ultimately prevails, but not without a brush with disaster! The NY Times judges her performance as merely “great!”</p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/26/kittenAbides.png"></center>The Kitten Abides!</div></p>
- 
-
-<http://scripting.com/2024/06/26/144307.html?title=wordleKittyPrevails>
-
----
-
-##  Former Tennessee Abortion Clinic Workers & Volunteers Speak Out Against the State&#8217;s Abortion Ban 
-
-date: 2024-06-26, updated: 2024-06-26, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/former-tennessee-abortion-clinic-workers-volunteers-speak-out-against-the-states-abortion-ban>
-
----
-
-##  Unhoused participants in the Denver Basic Income Project used their $1000/mo to... 
-
-date: 2024-06-26, updated: 2024-06-26, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044873-unhoused-participants-in->
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-06-26, from: Dave Winer's Scripting News)
-
-Summary of yesterday's news: You should now be able to subscribe to my podcasts. Use the search function in your favorite podcast client and look for <i>Scripting News.</i> This is what it <a href="https://imgs.scripting.com/2024/06/26/applePodcastClientForScriptingNews.png">looks like</a> in Apple Podcasts, for example. 
-
-<http://scripting.com/2024/06/26.html#a130215>
-
----
-
-## The US Is Banning Kaspersky
-
-date: 2024-06-26, updated: 2024-06-25, from: Bruce Schneier blog
-
-<p><a href="https://www.wired.com/story/us-bans-kaspersky-software/?redirectURL=https%3A%2F%2Fwww.wired.com%2Fstory%2Fus-bans-kaspersky-software%2F">This move</a> has been coming for a long time.</p>
-<blockquote><p>The Biden administration on Thursday said it’s <a>banning the company</a> from selling its products to new US-based customers starting on July 20, with the company only allowed to provide software updates to existing customers through September 29. The ban&#8212;­the first such action under authorities given to the Commerce Department in 2019­&#8212;follows <a href="https://www.wired.com/story/wired-awake-140917/">years of warnings</a> from the US intelligence community about Kaspersky being a national security threat because Moscow could allegedly commandeer its all-seeing antivirus software to spy on its customers...</p></blockquote> 
-
-<https://www.schneier.com/blog/archives/2024/06/the-us-is-banning-kaspersky.html>
-
----
-
-## Office Hours: Who will win tomorrow’s debate?
-
-date: 2024-06-26, from: Robert Reich's blog
-
-And why? 
-
-<https://robertreich.substack.com/p/office-hours-tomorrows-debate>
-
----
-
-## 2024-06-22 Lieu for niche search
-
-date: 2024-06-26, from: Alex Schroeder's Blog
-
-<h1 id="2024-06-22-lieu-for-niche-search">2024-06-22 Lieu for niche search</h1>
-
-<p>“Let me google it for you” was a bad reply back in the days; these days telling somebody “to google something” is insulting because we all know how aggravating it is to spend time and energy against privacy invasions and sifting through the AI slop and the grifters. Life is short and there’s no time for this.</p>
-
-<p>I try to err on the side of caution and always add links to stuff if I can. I’m preparing for the total breakdown of search as we know it.</p>
-
-<p>Some days Internet search feels like we’re at the capitalist optimum where everything is as painful as possible but not prohibitive. Can’t live without it (to find those link farms, advice sites, public archives) but also can’t find the private websites and blogs.</p>
-
-<p>Is it true that Reddit managed to replace all the blogs or is it true that we just can’t find them any more.
-The real problem is the loss of trust all around.</p>
-
-<p><a class="account" href="https://merveilles.town/@vesto" title="@vesto@merveilles.town">@vesto</a> reminded me that there was a solution in &ldquo;the realm of curating human-scale websites&rdquo;: <a href="https://lieu.cblgh.org/">Lieu</a>.</p>
-
-<p>And indeed, it looks like a great starting place!</p>
-
-<p>I&rsquo;m thinking that perhaps I can somehow use blog planets as sources for topic-specific search engines.
-I could use the blogs on <a href="https://planet.emacslife.com/">Planet Emacslife</a> to build an Emacs search engine and the blogs of <a href="https://campaignwiki.org/rpg/">RPG Planet</a> to build an RPG search engine.</p>
-
-<p>It seems quite doable!</p>
-
-<p>The ethics remain complicated, of course. Would I want search engine developers to scrape my site? Usually I just notice them when their bots misbehave so I&rsquo;m pretty averse to the entire situation. The search engine makers also being ad sellers and ads being a poison for our society doesn&rsquo;t help. The search engine makers being AI fans and AI energy and water requirements being cited as the reasons to keep fossil power plants running and to build nuclear power plants doesn&rsquo;t help. AI also resulting in me having to read texts that other people didn&rsquo;t bother to write adds injury to insult.</p>
-
-<p>In any case… perhaps there is a way to have ethical search and not drown in the AI slob: Hand curated websites (taken from the planets), no ads, no income (and therefore necessarily small in scope).</p>
-
-<p>I started experimenting. Using <code>webringSelector = &quot;#sidebar li a:nth-child(2) [href]&quot;</code> in the <code>lieu.toml</code> file seemes to get the links of RPG blogs, for example.</p>
-
-<p>One thing I find disturbing is that lieu uses Colly to scrape the web and <a href="https://github.com/gocolly/colly/issues/614">Colly ignores robots.txt by default</a>. I managed to lock the crawler out of my site in less than a second. Yikes!</p>
-
-<p>And the sad part is that if I add <code>c.IgnoreRobotsTxt = false</code> to the code, it seems to have no effect. Does anybody know more about how to control this?</p>
-
-<p><a class="tag" href="/search/?q=%23Search">#Search</a></p>
-
-<p>The following branches are probably temporary:</p>
-
-<p><a href="https://github.com/kensanata/lieu/tree/unix-domain-socket">unix-domain-socket</a>:
-This can be used by systemd to start the server connected to a Unix
-domain socket. Using a server like nginx or Apache as a front-end
-allows them to communicate with the server via the Unix domain socket.
-In that case, no port is required.</p>
-
-<p><a href="https://github.com/kensanata/lieu/tree/robots-txt">robots-txt</a>:
-This is where I try to enable <code>robots.txt</code> handling again – but I&rsquo;m failing at it.</p>
-
-<p>Then again, perhaps the ethics of it all make it untenable for me – is this really something I need? If it isn’t, perhaps I’d be better off doing something else.</p>
-
-<p><strong>2024-06-26</strong>. Perhaps it&rsquo;d be easier to search feeds. People already publish feeds. The feeds already contain the content they are willing to share. The feed is already limited to web pages and doesn&rsquo;t include web applications.</p> 
-
-<https://alexschroeder.ch/view/2024-06-22-lieu>
-
----
-
-## Notes on Tajikistan
-
-date: 2024-06-26, from: Tracy Durnell Blog
-
-I&#8217;ve recognized in recent years the gaps in my understanding of some parts of the world &#8212; &#8220;the stans,&#8221; as the author puts it, are one such region. I watched a documentary of a guy walking through the Caucasus Mountains a few years ago, Soviet Seasons taught me some things, and Trevor the Food Ranger [&#8230;] 
-
-<https://tracydurnell.com/2024/06/25/notes-on-tajikistan/>
-
----
-
-## June 25, 2024 
-
-date: 2024-06-26, from: Heather Cox Richardson blog
-
-These days, reality is undermining the political power of the mythological image of the American cowboy. In the years after World War II, that image helped to sell the idea that a government that regulated business, provided a basic safety net, promoted infrastructure, and protected civil rights for Black and Brown Americans and for women was cruising perilously close to communism. The cowboy image suggested that a true American was an individualist man who worked hard to provide for and to protect his homebound wife and children, with a gun if necessary, and wanted only for the government to leave him and his business alone. 
-
-<https://heathercoxrichardson.substack.com/p/june-25-2024>
-
----
-
-## Process reveals personality
-
-date: 2024-06-26, from: Tracy Durnell Blog
-
-I enjoy reading blogging about blogging for many reasons: learning how other people think seeing how other people work discussing a craft / format I enjoy sharing an interest/ hobby with others refining our understanding of blogging and its place in the modern and future Internet being reminded to do maintenance on my own site [&#8230;] 
-
-<https://tracydurnell.com/2024/06/25/process-reveals-personality/>
-
----
-
-## A very local storm
-
-date: 2024-06-26, from: Doc Searls (at Harvard), New Old Blog
-
-It was a derecho, or something like one. The gust front you see in the third image here — —looks a lot like the storm front in the top image above (via Weatherbug, storm tracker view). I&#8217;d experienced one twelve years ago, in Arlington, Mass. It felt like a two minute hurricane, and when it [&#8230;] 
-
-<https://doc.searls.com/2024/06/25/a-very-local-storm/>
-
----
-
-## Open Repositories 2024 Trip Report: Göteborg
-
-date: 2024-06-26, updated: 2024-06-26, from: Peter Sefton's Blog
-
- 
-
-<https://ptsefton.com/2024/06/26/open-repositories-2024-trip/>
-
----
-
-## I love seeing car YouTubers drop their networks
-
-date: 2024-06-25, from: Matt Haughey blog
-
-<p>There&apos;s been a trend lately in car-youtuber-land, one where you hear a host on camera say they&apos;re going to start a new channel of their own, and later they post a detailed video on how they quit their former employer, which was usually a car-related YouTube</p> 
-
-<https://a.wholelottanothing.org/i-love-seeing-car-youtubers-drop-their-networks/>
-
----
-
-## Wednesday 26 June, 2024
-
-date: 2024-06-25, from: John Naughton's online diary
-
-Brief encounter Quote of the Day “We look at the present through a rear view mirror. We march backwards into the future.” Marshall McLuhan Musical alternative to the morning’s radio news Bach &#124; Wachet auf from Cantata No 140 &#124; &#8230; <a href="https://memex.naughtons.org/wednesday-26-june-2024/39578/">Continue reading <span class="meta-nav">&#8594;</span></a> 
-
-<https://memex.naughtons.org/wednesday-26-june-2024/39578/>
-
----
-
-## If You See Crazy, Report Crazy
-
-date: 2024-06-25, from: Dan Rather's Steady
-
-Coverage of the presidential candidates is disparate and dangerous 
-
-<https://steady.substack.com/p/if-you-see-crazy-report-crazy>
-
----
-
-##  Flying With My Dad 
-
-date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/flying-with-my-dad-1>
-
----
-
-##  End Legal Slavery in the United States (i.e. forced prison labor). &#8220;It&#8217;s... 
-
-date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044872-end-legal-slavery-in-the>
-
----
-
-##  We Can and Should Address Racial Disparities. &#8220;Most of the programs that... 
-
-date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044869-we-can-and-should-address>
-
----
-
-##  Riding With the Street Demon 
-
-date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/riding-with-the-street-demon>
-
----
-
-##  AC Lamberty writes about how his tastes (and experience of masculinity) changed... 
-
-date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044871-ac-lamberty-writes-about->
-
----
-
-##  Super Mario Bros, the Typewriter Edition 
-
-date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
+<p>For reference, see <a href="https://www.bortzmeyer.org/uucp-over-ssh.pdf">UUCP over SSH</a> by <a class="account" href="https://mastodon.gougere.fr/@bortzmeyer" title="@bortzmeyer@mastodon.gougere.fr">@bortzmeyer</a>.
+Since we&rsquo;re using SSH, there will be a key pair, and since we&rsquo;re using UUCP, we&rsquo;ll still a username and password.
+I know, why aren&rsquo;t we using NNCP.</p>
 
- 
+<p>Generate the key pair.</p>
 
-<https://kottke.org/24/06/super-mario-bros-the-typewriter-edition>
+<pre><code>cd /var/spool/uucp
+sudo mkdir .ssh
+sudo chown uucp:uucp .ssh
+cd .ssh
+sudo -u uucp ssh-keygen -C &quot;uucp@melanobombus&quot; -f id_rsa
+</code></pre>
 
----
-
-## Remote shell to a Raspberry Pi at 39,000 ft
-
-date: 2024-06-25, from: Jeff Geerling blog
-
-<span class="field field--name-title field--type-string field--label-hidden">Remote shell to a Raspberry Pi at 39,000 ft</span>
-
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>For a few weeks I've been beta testing remote shell, the latest addition to Raspberry Pi Connect. Just a couple hours ago I was on a flight home from the new Micro Center in Charlotte.</p>
-
-<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/remote-shell-laptop-airplane.jpeg" alt="Pi Connect Remote Shell in airplane on laptop"></p>
-
-<p>One huge problem with VNC or remote desktop is how flaky it is if you have limited bandwidth or an unstable connection, like on an airplane.</p>
-
-<p>It takes forever to start a screen sharing session, and the airplane's flaky WiFi usually causes the session to lock up, meaning you can't do much at all.</p>
-
-<p>Remote <em>terminal</em> access, just relaying text commands, is the best solution for that problem. And sure, I have a VPN I could use with SSH to get to my Pi, but <a href="https://www.raspberrypi.com/news/raspberry-pi-connect-remote-shell-access-and-support-for-older-devices/">Raspberry Pi Connect just added support for remote shell access</a>.</p></div>
-      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
-<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-06-25T12:24:51-05:00" title="Tuesday, June 25, 2024 - 12:24" class="datetime">June 25, 2024</time>
-</span> 
-
-<https://www.jeffgeerling.com/blog/2024/remote-shell-raspberry-pi-39000-ft>
-
----
-
-##  The record industry is suing a pair of AI music-making companies over... 
-
-date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044868-the-record-industry-is-su>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-06-25, from: Dave Winer's Scripting News)
-
-The page on <a href="https://feedland.com/?feedurl=http%3A%2F%2Fscripting.com%2Fpodcast.xml">feedland.com</a> and <a href="https://feedland.org/?feedurl=http%3A%2F%2Fscripting.com%2Fpodcast.xml">feedland.org</a>. 
-
-<http://scripting.com/2024/06/25.html#a160522>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-06-25, from: Dave Winer's Scripting News)
-
-The <a href="https://podcasts.apple.com/us/podcast/scripting-news/id1753971770">Apple Podcasts</a> page for the podcast feed. 
-
-<http://scripting.com/2024/06/25.html#a160418>
-
----
-
-## Microsoft Edge Has an ‘Enhanced Security’ Mode That Disables the JIT
-
-date: 2024-06-25, updated: 2024-06-25, from: Daring Fireball
-
- 
-
-<https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-just-got-a-super-duper-secure-mode-upgrade/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-06-25, from: Dave Winer's Scripting News)
-
-And the <a href="https://this.how/scriptingNewsPodcast/">FAQ</a> for the feed, linked to in the feed. 
-
-<http://scripting.com/2024/06/25.html#a154605>
-
----
-
-## June 24, 2024
-
-date: 2024-06-25, from: Heather Cox Richardson blog
-
- 
-
-<https://heathercoxrichardson.substack.com/p/june-24-2024-263>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-06-25, from: Dave Winer's Scripting News)
-
-Here's the new Scripting News <a href="http://scripting.com/podcast.xml">podcast-only feed</a>. 
-
-<http://scripting.com/2024/06/25.html#a153612>
-
----
-
-## Why I love Underdogs
-
-date: 2024-06-25, from: Om Malik blog
-
-That was quite a night. Not surprisingly, I woke up late this morning. I simply couldn’t sleep because I was buzzing from what I had just witnessed—and I still am. On paper, it was a wild game of the fast-paced T20 version of cricket. But it was more than that. It was ambition and desire &#8230; 
-
-<https://om.co/2024/06/25/why-i-love-underdogs/>
-
----
-
-##  Oreo Kintsugi 
-
-date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/oreo-kintsugi>
-
----
-
-## Reuters: Amazon Is Considering $5 Monthly Charge for Improved Alexa
-
-date: 2024-06-25, updated: 2024-06-26, from: Daring Fireball
-
- 
-
-<https://www.reuters.com/technology/amazon-mulls-5-10-monthly-price-tag-unprofitable-alexa-service-ai-revamp-2024-06-21/>
-
----
-
-## Gurman Just Pantsed the WSJ on Their Report About Apple and Meta Working on an AI Deal
-
-date: 2024-06-25, updated: 2024-06-25, from: Daring Fireball
-
- 
-
-<https://www.bloomberg.com/news/articles/2024-06-24/apple-spurned-idea-of-iphone-ai-partnership-with-meta-months-ago>
-
----
-
-##  US Surgeon General Vivek Murthy declares gun violence a public health crisis.... 
-
-date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044866-us-surgeon-general-vivek->
-
----
-
-##  &#8220;Since Texas&#8217; ban on abortion went into effect, infant deaths in the... 
-
-date: 2024-06-25, updated: 2024-06-25, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044865-since-texas-ban-on-aborti>
-
----
-
-## The podcast-only feed, part 1
-
-date: 2024-06-25, from: Dave Winer's Scripting News
-
-<p>I'm getting my podcast-only feed for Scripting News ready. </p>
-<p>It's going to be an Apple-compliant podcast feed. </p>
-<p>Of course when it came time to do the logo I went to my reasonably-priced graphics consultant, ChatGPT. It came breathtakingly close on the first attempt, but it repeated part of the story. Every time I asked it to fix a problem, it created another problem, and the image brightness was reduced, not just in terms of pixels but also the creativity of the image. Of course it isn't really creative. I know. Yadda yadda. </p>
-<p>Finally I got something that I could live with that I liked but was imperfect. I decided that since the motto of my blog is "It's even worse than it appears" that an obvious imperfection is totally consistent with the philosophy, and we move onward. As they say, still diggin!</p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/25/scriptingNewsInlineImageVersion.png"></center>It's even worse than *@#) appears.</div></p>
-<p>The prompt for the image: "I'm sure you're aware of my blog, Scripting News, scripting.com. I am doing a new podcast feed for the blog. This feed is designed to get through Apple's submission process so it can be listed in their podcast database. One of the requirements is a 3000 by 3000 image that serves as a logo for the podcast. I need something simple and bold that says 'Scripting News podcast' and then 'With Dave Winer and friends' and 'It's even worse than it appears.' On a background of corn fields in Iowa viewed from the air."</p>
- 
-
-<http://scripting.com/2024/06/25/134922.html?title=thePodcastonlyFeedPart1>
-
----
-
-## The podcast-only logo
-
-date: 2024-06-25, from: Dave Winer's Scripting News
-
-<p>How the logo for the podcast-only feed was designed.</p>
-<p>I turned to ChatGPT of course. It came breathtakingly close on the first attempt, but it repeated part of the story. Every time I asked it to fix a problem, it created another problem, and the image brightness was reduced, not just in terms of pixels but also the creativity of the image. Of course it isn't really creative. I know. Yadda yadda. </p>
-<p>Finally I got something that I could live with that I liked but was imperfect. I decided that since the motto of my blog is "It's even worse than it appears" that an obvious imperfection is totally consistent with the philosophy, and we move onward. As they say, still diggin!</p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/25/scriptingNewsInlineImageVersion.png"></center>It's even worse th*@#it appears.</div></p>
-<p>The prompt for the image: "I'm sure you're aware of my blog, Scripting News, scripting.com. I am doing a new podcast feed for the blog. This feed is designed to get through Apple's submission process so it can be listed in their podcast database. One of the requirements is a 3000 by 3000 image that serves as a logo for the podcast. I need something simple and bold that says 'Scripting News podcast' and then 'With Dave Winer and friends' and 'It's even worse than it appears.' On a background of corn fields in Iowa viewed from the air."</p>
- 
-
-<http://scripting.com/2024/06/25/134922.html?title=thePodcastonlyLogo>
-
----
-
-## Breaking the M-209
-
-date: 2024-06-25, updated: 2024-06-25, from: Bruce Schneier blog
-
-<p>Interesting <a href="https://dspace.ut.ee/server/api/core/bitstreams/f707e86c-a7d6-421b-b904-267439ee1cee/content">paper</a> about a German cryptanalysis machine that helped break the US <a href="https://www.cryptomuseum.com/crypto/hagelin/m209/">M-209</a> mechanical ciphering machine.</p>
-<p>The paper contains a good description of how the M-209 works.</p>
- 
-
-<https://www.schneier.com/blog/archives/2024/06/breaking-the-m-209.html>
-
----
-
-## Valuing the future
-
-date: 2024-06-25, from: Enlightenment Economics blog
-
-Discounting the Future: The Ascendancy of a Political Technology by Liliana Doganova is an interesting read. I don&#8217;t entirely agree with its perspective, which is that the concept of discounted cash flow or net present value is inherently damaging to &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2024/06/valuing-the-future/">Continue reading <span class="meta-nav">&#8594;</span></a> 
-
-<http://www.enlightenmenteconomics.com/blog/index.php/2024/06/valuing-the-future/>
-
----
-
-## The taxing difference
-
-date: 2024-06-25, from: Robert Reich's blog
-
-Trump&#8217;s and Biden&#8217;s tax policies need more coverage because they&#8217;re opposites. Biden&#8217;s is progressive. Trump&#8217;s is regressive. 
-
-<https://robertreich.substack.com/p/the-taxing-difference>
-
----
-
-## June 24, 2024 
-
-date: 2024-06-25, from: Heather Cox Richardson blog
-
-Two years ago today, on June 24, 2022, the U.S. Supreme Court handed down the Dobbs v. Jackson Women&#8217;s Health Organization decision, overturning the 1973 Roe v. Wade decision that recognized a woman&#8217;s right to terminate a pregnancy. The vote was 6&#8211;3. 
-
-<https://heathercoxrichardson.substack.com/p/june-24-2024>
-
----
-
-## Briefly on Julian Assange
-
-date: 2024-06-25, from: Jessica Smith's blog
-
-<p>So, Viv and I were in the car this morning when we heard about the Assange plea deal.</p>
-<p>Viv: omg, finally! I only hope he&rsquo;ll now give up hacking 😔<br>
-Me: Hmm, or maybe he should give up non-consensual sex. That&rsquo;s where he went wrong, isn&rsquo;t it?<br>
-Viv: &hellip;true</p>
-<p>I mean, fuck. I know this prosecution has been politically motivated, purely to punish him for his role exposing Western war crimes. The charges he&rsquo;s accepted a plea deal over are the US &ldquo;espionage&rdquo; ones, after all, not the Swedish sexual assault ones, which were dropped long ago. And I don&rsquo;t support politically-motivated prosecutions of people who expose war crimes. But I&rsquo;ve also never been comfortable with any kind of personalised &ldquo;I support Assange&rdquo; sentiment, as if he were a righteous martyr, rather than &ldquo;I support exposing those who commit war crimes&rdquo;.</p>
-<p>Back in my student activist days, I once got stuck doing a stall where we were trying to get signatures on a petition calling for Assange&rsquo;s charges to be dropped (and this was back when they were the sexual assault charges, not the espionage ones). The organiser of the stall knew full well the attitude I was going to take to this, so he gave me a stack of leaflets and told me to hand them out around Campus Centre. I took the stack, went upstairs, dropped them all straight in the bin, then chilled out in the cafeteria for an hour before reporting back. I think he knew that&rsquo;s what I was going to do, too, lol. I didn&rsquo;t get scolded for skipping out on nearly the whole stall, which I usually would&rsquo;ve been.</p>
-<p>Anyway, Assange is married now, so maybe he has straightened himself out. I don&rsquo;t know. I think it&rsquo;s good there&rsquo;s a resolution at last to the political prosecution (although I would note, cynically, that so many years have passed that the &ldquo;deterrence&rdquo; objective has already been achieved, and the, uh, short-term memory of the political establishment means no one cares what happened during the War on Terror any more, anyway). But Assange himself is still an asshole.</p> 
-
-<https://www.jayeless.net/2024/06/assange-plea-deal.html>
-
----
+<p>The file <code>uucp-key.pub</code> now has the public key.</p>
 
-## Wordle Kitty on top of the world
+<p>On the server (!), add a line to <code>/var/spool/uucp/.ssh/authorized_keys</code>, replacing the public key:</p>
 
-date: 2024-06-25, from: Dave Winer's Scripting News
+<pre><code>restrict,command=&quot;/usr/sbin/uucico -u Umelanobombus -l&quot; ssh-rsa KEY_FROM_ID_RSA_PUB uucp@dwalin
+</code></pre>
 
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/24/wordleKittyImpressive.png"></center>Another impressive day for Wordle Kitty! </div></p>
- 
+<p>We will be using the username <code>Umelanobombus</code> to connect to the server.
+This is not a real user!</p>
 
-<http://scripting.com/2024/06/24/025057.html?title=wordleKittyOnTopOfTheWorld>
+<p>On the server, save username and password in <code>/etc/uucp/passwd</code>.</p>
 
----
-
-## [Sponsor] WorkOS
-
-date: 2024-06-25, updated: 2024-06-25, from: Daring Fireball
-
- 
-
-<https://workos.com/?utm_source=daringfireball&utm_medium=display&utm_campaign=q12024>
-
----
-
-## European Commission Dings Apple Over Anti-Steering Provisions in App Store, and Opens New Investigations Into Core Technology Fee, Sideloading Protections, and the Eligibility Requirements to Offer an Alternative Marketplace
-
-date: 2024-06-24, updated: 2024-06-25, from: Daring Fireball
-
- 
-
-<https://ec.europa.eu/commission/presscorner/detail/en/IP_24_3433>
-
----
-
-##  A Genealogy of Technology and Power Since 1500 
-
-date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/a-genealogy-of-technology-and-power-since-1500>
-
----
-
-## ★ Apple Disables WebKit’s JIT in Lockdown Mode, Offering a Hint Why BrowserEngineKit Is Complex and Restricted
-
-date: 2024-06-24, updated: 2024-06-25, from: Daring Fireball
-
-To put it in Steven Sinofsky’s terms, gatekeeping is a fundamental aspect of Apple’s brand promise with iOS. 
-
-<https://daringfireball.net/2024/06/apple_disables_webkits_jit_in_lockdown_mode>
-
----
-
-##  I knew the western US had become drier, but I hadn&#8217;t realized... 
-
-date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044862-i-knew-the-western-us>
-
----
-
-##  The Art Book for Children 
-
-date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/the-art-book-for-children>
-
----
-
-##  I am enjoying the empathetic trajectory of the Charli XCX and Lorde... 
-
-date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044863-i-am-enjoying-the-empathe>
-
----
-
-##  Observers have reported a large red spot on Jupiter since the 1660s.... 
-
-date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044861-observers-have-reported-a>
-
----
-
-##  How to Give Away a Fortune 
-
-date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/how-to-give-away-a-fortune>
-
----
-
-##  How do actors memorize their lines? &#8220;Actors engage in elaborative rehearsal, focusing... 
-
-date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044732-how-do-actors-memorize-th>
-
----
-
-##  Anxiety in Inside Out 2 Is Too Real 
-
-date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
-
- 
+<pre><code>Umelanobombus *secret*
+</code></pre>
 
-<https://kottke.org/24/06/anxiety-in-inside-out-2-is-too-real>
+<p>On the laptop, save system name, username and the same password in <code>/etc/uucp/call</code>.</p>
 
----
-
-## June 23, 2024
-
-date: 2024-06-24, from: Heather Cox Richardson blog
-
- 
-
-<https://heathercoxrichardson.substack.com/p/june-23-2024-5fd>
-
----
-
-## Quick productivity tip: Renaming lots of files in MacOS Finder
-
-date: 2024-06-24, from: Chris Heilmann's blog
-
-When you select several files in Finder and choose &#8220;rename&#8221; from the context menu, you can batch rename them. You can search and replace text, add to beginning or end or even generate numbered file names. Sadly, there&#8217;s no Regular Expressions support. Check the screencast to see it in action: 
-
-<https://christianheilmann.com/2024/06/24/quick-productivity-tip-renaming-lots-of-files-in-macos-finder/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-06-24, from: Dave Winer's Scripting News)
-
-<a href="https://mastodon.social/@davew/112671576365142333">Heard</a> an interview show on NPR where they went to laundromats and asked people about the upcoming election. Big surprise they say pretty much exactly what they say on the news about the candidates, all of it <a href="https://en.wikipedia.org/wiki/False_balance#:~:text=False%20balance%2C%20known%20colloquially%20as,viewpoints%20than%20the%20evidence%20supports.">bothsidesisms</a> and no mention of the fascism coming our way if we go one direction. It's all everyone's fault, so why bother voting, is mostly what they say. SMH in disbelief. 
-
-<http://scripting.com/2024/06/24.html#a152539>
-
----
-
-##  Explore present and future climate zones for dozens of global cities. &#8220;With... 
-
-date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044857-explore-present-and-futur>
-
----
-
-##  Great news about HIV protection: &#8220;Results from a large clinical trial in... 
-
-date: 2024-06-24, updated: 2024-06-24, from: Jason Kittke's blog
-
- 
-
-<https://kottke.org/24/06/0044860-great-news-about-hiv-prev>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-06-24, from: Dave Winer's Scripting News)
-
-Today's song: <a href="https://www.youtube.com/watch?v=tQjxIvcGGdE">Bell Bottom Blues</a>. "It's all wrong but it's all right." 
+<pre><code>sibirocobombus Umelanobombus *secret*
+</code></pre>
 
-<http://scripting.com/2024/06/24.html#a124427>
+<p>Now we have both levels: the public and private keys that allow the <code>uucp</code> user to connect via <code>ssh</code> – and the username and password that is used by <code>uucp</code>.</p>
 
----
-
-**@Dave Winer's Scripting News** (date: 2024-06-24, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/03/12/macpaint.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If you think you understand the significance of RSS, I bet you don't. Please listen to the <a href="http://scripting.com/2024/06/23/howRssStartedTheRealStory.m4a">14-minute podcast</a> I <a href="http://scripting.com/2024/06/23.html#a201841">posted</a> yesterday for the real story. We should learn from this and not repeat the same mistake, and of course until the real story is out, we can't learn from it. Let's get it right on the Wikipedia page. It isn't about Guha or Libby, me, or whoever. It's really about the power of Netscape and the early web news publishing companies that supported RSS, and the blogging systems that jumped on board (including my own products) and then two years later, the NYT coming on board, followed by the entire news industry. A bunch of nerds arguing on a mail list is <i>not</i> the story. With the benefit of well over twenty years hindsight this should, by now, be kind of obvious. 
-
-<http://scripting.com/2024/06/24.html#a123814>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-06-24, from: Dave Winer's Scripting News)
-
-<a href="https://www.threads.net/@davew/post/C8mUXGiMODB">Threads could</a> make it a lot easier for us to cross-post to their system, esp since they say they will support ActivityPub. As it is there are too many hoops to jump through imho. I think basically they all want you to use their UI's which amounts to writing in <a href="http://scripting.com/2024/01/14/031201.html">tiny little textboxes</a> of course. 
-
-<http://scripting.com/2024/06/24.html#a123121>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-06-24, from: Dave Winer's Scripting News)
-
-I <a href="https://mastodon.social/@davew/112671088952473981">want</a> to be able to run Frontier on the new Macs, but was disappointed that VMware doesn’t work and had given up on the idea. But I just learned that UTM might work. Here’s the <a href="https://chatgpt.com/share/38d87439-9a34-402d-9c46-7a047e7e2866">transcript</a> of my inquiry. Wondering if <a href="https://mastodon.social/@davew/112671088952473981">anyone has had good experience</a> using UTM to run older Mac software on Apple CPUs. 
-
-<http://scripting.com/2024/06/24.html#a123002>
-
----
+<p>Define our own name in <code>/etc/uucp/config</code> on the laptop.</p>
 
-## Paul Nakasone Joins OpenAI’s Board of Directors
+<pre><code>nodename	melanobombus
+</code></pre>
 
-date: 2024-06-24, updated: 2024-06-22, from: Bruce Schneier blog
+<p>Let&rsquo;s add the system to <code>/etc/uucp/sys</code>.
+That is, on the laptop, define the server we&rsquo;re going to call.
+Since I already know that sibirocobombus will report itself as <code>campaignwiki</code>, I&rsquo;m setting up an <code>alias</code>.
+The <code>chat</code> script waits for the &ldquo;Password:&rdquo; prompt and then sends it.
+Note that this chat script is much shorter than the one used in &ldquo;UUCP over SSH&rdquo;, linked above.
+Apparently there&rsquo;s no &ldquo;Login:&rdquo; prompt on my server so I had to change it.</p>
 
-<p>Former NSA Director Paul Nakasone has <a href="https://www.washingtonpost.com/technology/2024/06/13/openai-board-paul-nakasone-nsa/">joined</a> the board of OpenAI.</p>
- 
+<pre><code>system sibirocobombus
+alias campaignwiki
+call-login *
+call-password *
+time any
+chat Password: \P
+chat-timeout 30
+protocol i
+port ssh_campaignwiki
+</code></pre>
 
-<https://www.schneier.com/blog/archives/2024/06/paul-nakasone-joins-openais-board-of-directors.html>
+<p>Add the new port to <code>etc/uucp/port</code>.
+Note that I&rsquo;m listening to incoming <code>ssh</code> connections on a non-standard port so I have to provide.
+Also note that here we&rsquo;re defining the <code>uucp</code> &ldquo;port&rdquo; with a non-standard <code>ssh</code> &ldquo;port&rdquo;.
+Just in case you&rsquo;re not already confused.</p>
 
----
-
-## Why I’m scared sh*tless about Thursday
-
-date: 2024-06-24, from: Robert Reich's blog
-
-On being 78. 
-
-<https://robertreich.substack.com/p/why-im-scared-shtless-about-thursday>
-
----
-
-## 2024-06-23 Adjudicating the difficulty
+<pre><code>port ssh_campaignwiki
+type pipe
+command /usr/bin/ssh -a -x -q -p 882 uucp@campaignwiki.org
+reliable true
+protocol etyig
+</code></pre>
 
-date: 2024-06-24, from: Alex Schroeder's Blog
+<p>Before doing our first test, make sure that the server is a &ldquo;known host&rdquo; on the laptop, for the <code>uucp</code> user.
+Note how I am not using <code>-q</code> because I want to see the prompt!</p>
 
-<h1 id="2024-06-23-adjudicating-the-difficulty">2024-06-23 Adjudicating the difficulty</h1>
+<p>The password to give on the prompt is the one in <code>/etc/uucp/call</code>.</p>
 
-<p>I was listening in on an exchange between <a class="account" href="https://tabletop.social/@phf" title="@phf@tabletop.social">@phf</a> and <a class="account" href="https://dice.camp/@kyonshi" title="@kyonshi@dice.camp">@kyonshi</a>. They were talking about <a href="Traveller">Traveller</a> and Peter noted that he didn&rsquo;t like the &ldquo;somewhat mysterious difficulty classes of some tests&rdquo;. I don&rsquo;t like this, either! It&rsquo;s exhausting. I feel drained when I do it.</p>
+<pre><code>sudo -u uucp ssh -p 882 uucp@campaignwiki.org
+The authenticity of host '[campaignwiki.org]:882 ([2a02:418:6a04:178:209:50:237:1]:882)' can't be established.
+ED25519 key fingerprint is SHA256:ups6Q5G8Ab5QT/cTnrv5FpdmdvVtK09ZG8j1ToEBV9c.
+This key is not known by any other names.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added '[campaignwiki.org]:882' (ED25519) to the list of known hosts.
+PTY allocation request failed on channel 0
+Password: *secret*
+Shere=campaignwiki
+^C
+</code></pre>
 
-<p>I started thinking about this for a while and maybe the following provides for an interesting way to talk about rules in role-playing games.</p>
+<p>Let&rsquo;s add the laptop to <code>/etc/uucp/sys</code> on the server.
+Since the server is never going to call the laptop, no credentials and no port is required.</p>
 
-<p>Note that the problem shows up in many places. For example, I don&rsquo;t like &ldquo;the ladder&rdquo; in <a href="Fudge">Fudge</a> and <a href="Fate">Fate</a> games where I as the referee need decide whether opponents are &ldquo;good&rdquo; or &ldquo;very good&rdquo; at fighting the player characters. For me, this is the same problem, except it happens behind the screen. Player&rsquo;s don&rsquo;t know about this.</p>
+<pre><code>system melanobombus
+called-login Umelanobombus
+local-send /
+local-receive /var/spool/uucppublic
+remote-send /
+remote-receive /var/spool/uucppublic
+time any
+forward ANY
+protocol i
+</code></pre>
 
-<p>Using classic D&amp;D or similar rules and running a megadungeon is comparatively easy, because the monster hit dice are tied to dungeon levels. Once I know the dungeon level, I can pick appropriate monsters and their stats automatically determine &ldquo;the difficulty classes of some tests.&rdquo; This might be one of the reasons that makes it easier to run D&amp;D with self-made dungeons.</p>
+<p>Let&rsquo;s test it!</p>
 
-<p>So this is the first solution to the problem of having to assign difficulties to rolls: The game can have a small number of actions that require a dice roll. Each roll has clear conditions of success. The referee doesn&rsquo;t have to assess the difficulty as soon as the situation is established. D&amp;D would be an example of this kind of game. You roll to hit, to do damage, to save, and all the target numbers are known once the monster is on the table. In classic D&amp;D, traps have only one difficulty setting so thieves only need to know a single number. Hidden doors are either concealed or secret. Those are the two difficult settings for finding the hidden door and thus the referee only needs to know two numbers (1-in-6 or 2-in-6). Of course it breaks down sometimes when a module tells you that a particular door is harder to find (&ldquo;1-in-8&rdquo;) or that a lock is harder to pick (&ldquo;add 20% to the check&rdquo;). But generally speaking, as a referee, very little thought is required. The trade-of is that characters don&rsquo;t have many &ldquo;skills&rdquo;. They have their attack rolls, their saves, the thieves skills, some other d6 abilities like opening doors and listening, but that&rsquo;s it.</p>
+<p>On the client:</p>
 
-<p>As soon as skills are introduced, the situations in which dice can be rolled explodes. One way to solve the problem of having to decide the difficulty of every single roll is to a provide a long list of examples from which to extrapolate. I haven&rsquo;t played any game that does that well. Zweihänder provides seven example uses of the skill, one for each difficulty rating. That is amazing.</p>
+<pre><code>echo hallo &gt; hallo.txt
+uucp hallo.txt 'sibirocobombus!~/'
+</code></pre>
 
-<p>A game that has a single roll for every skill (great idea) but then provides a lot of help adjudicating the rolls in general isn&rsquo;t helping. I found this to be the case for the few Basic Role-Playing, Warhammer Fantasy Roleplay, Rolemaster and HARP games I tried. I didn&rsquo;t try many of them. I just checked HARP again and there are examples for some of the skills and not for others, so I&rsquo;d have to play it again to remember whether this was even a problem.</p>
+<p>Let&rsquo;s check the log.</p>
 
-<p>Perhaps one possible solution is to just ignore difficulties and to assume all skill rolls at the default difficulty to be appropriate for adventures. As far as I can remember, this is how we often played these games.</p>
+<p>This is what it looks like when things don&rsquo;t work:</p>
 
-<p>Mongoose Traveller isn&rsquo;t helping, either. There, the target number is always an eight. Almost all the modifiers appear to obvious and well explained, but with the Task Difficulty Dice Modifiers the &ldquo;somewhat mysterious difficulty classes of some tests&rdquo; is back.</p>
+<pre><code>uulog|tail
+uucp sibirocobombus alex (2024-06-30 18:02:27.50 9274) Queuing send of /home/alex/hallo.txt to ~/
+uucico sibirocobombus - (2024-06-30 18:02:27.50 9275) Calling system sibirocobombus (port ssh_campaignwiki)
+uucico sibirocobombus - (2024-06-30 18:02:31.51 9275) ERROR: Line disconnected
+</code></pre>
 
-<p>Classic Traveller is worse it leans into the referee making up the roll. Sometimes an examples of a skill is provided (&ldquo;navigation expertise can be used as a DM of +1 per level on a throw to determine the needed information&rdquo;) but most of the time it&rsquo;s simply a description of where the skill might be applicable and it&rsquo;s up to the referee to call for an appropriate throw, if at all. At the very beginning, skills are explained as follows: &ldquo;The acquired skills table provides four basic types of results: characteristic alterations (such as +1 strength), weapons expertise (such as blade combat), transport skills (such as ATV), and basic skills (such as navigation).&rdquo; That is to say, sometimes the skill simply means that something can be done. The example that comes to mind is how to recover from serious wounds: &ldquo;Recovery is dependent on medical attention (a medical facility and an individual with medical-3 skill; recuperation to full strength without medical attention is not possible).&rdquo; The medic doesn&rsquo;t have to roll at all. Having the skill is all that counts.</p>
+<p>You can try to replace <code>-q</code> with <code>-v</code> in <code>/etc/uucp/port</code> in order to see what <code>ssh</code> has to say.</p>
 
-<p>This brings me to the last category: negotiation. This what I learned from Burning Wheel: Before a roll is made, players declare what they want and the referee determines the difficulty of the roll and explains the consequences of failure. Then players decide whether they want to make the roll. Implicitly, they can change their mind, declare a different goal and see whether they like the odds and consequences better. I like this a lot.</p>
+<p>If you try again, the log says that the system is not ready to try again:</p>
 
-<p>Of course, turning every skill roll into a negotiation can be tiresome. If people remember what the previous result of similar negotiations was, the system takes on aspects of case law. As soon as the people of the table realize that a similar situation was resolved using this or that, and there are no circumstances that warrant a change, then the negotiation is skipped.</p>
+<pre><code>uucp sibirocobombus alex (2024-06-30 18:04:47.94 9454) Queuing send of /home/alex/hallo.txt to ~/
+uucico sibirocobombus - (2024-06-30 18:04:47.94 9455) Retry time not reached
+</code></pre>
 
-<p>Then again, a long lists of conditions and modifiers can also take on aspects of case law.</p>
+<p>Force a call and check the log again.</p>
 
-<p>So perhaps this is what I think all these rules texts evolve into: Any rule system where referees set the difficulty imply a system where players can enter a short negotiation. In order to avoid future negotiations, the table remembers the outcomes and uses them as shortcuts for future situations.</p>
+<pre><code>sudo -u uucp uucico -S sibirocobombus
+</code></pre>
 
-<p>Once you know this, the approach by some games to simply do a fixed difficulty roll such as 50% rate of success makes sense if you assume that there is some sort of negotiation and case law powering it all. Sometimes the penalty of failure is scorn and insults, sometimes it&rsquo;s death. It depends on the situation but there&rsquo;s always a way to negotiate for the two outcomes that seem acceptable to the table.</p>
+<p>You might be specifying the wrong login, or using the wrong chat script.
+On the server, the log might look as follows:</p>
 
-<p>I haven&rsquo;t found a perfect solution, for me. I like it both ways. A game like <a href="Halberds_and_Helmets">Halberts &amp; Helmets</a> is much like D&amp;D where as a game like <a href="Halberts">Halberts</a> is one where all effects outside of combat have to be negotiated but it&rsquo;s not as wild and free as Classic Traveller.</p>
+<pre><code>uulog|tail
+uucico - - (2024-06-30 17:56:42.92 1245805) Incoming call (login Umelanobombus port stdin)
+uucico - - (2024-06-30 17:56:49.12 1245805) ERROR: Line disconnected
+uucico - - (2024-06-30 18:02:30.70 1247584) ERROR: Bad login
+uucico - - (2024-06-30 18:07:25.26 1248690) ERROR: Bad login
+</code></pre>
 
-<p><a class="tag" href="/search/?q=%23RPG">#RPG</a></p> 
-
-<https://alexschroeder.ch/view/2024-06-23-difficulty>
-
----
-
-## June 23, 2024
-
-date: 2024-06-24, from: Heather Cox Richardson blog
-
-On Thursday, Moody&#8217;s Analytics, which evaluates risk, performance, and financial modeling, compared the economic promises of President Joe Biden and presumptive Republican nominee Donald Trump. Authors Mark Zandi, Brendan LaCerda, and Justin Begley concluded that while a second Biden presidency would see cooling inflation and continued economic growth of 2.1%, a Trump presidency would be an economic disaster. 
-
-<https://heathercoxrichardson.substack.com/p/june-23-2024>
-
----
+<p>Check the passwords:</p>
 
-## The Name ‘Siddhartha’
-
-date: 2024-06-24, from: Jessica Smith's blog
-
-<p>Since Vivian was a teenager, apparently, it&rsquo;s been his long-held dream to name a son Siddhartha and call him Sid for short, so as to honour both his Hindu heritage <em>and</em> Syd Barrett, his rock &rsquo;n&rsquo; roll idol. Pretty much as soon as Viv told me this dream, I poured cold water on it. Honestly, I did not believe that &ldquo;Siddhartha&rdquo; was a name that actual, real-life human beings are given. Vivian insisted it was, so after a few years of back-and-forth, I finally deigned to search the internet to see if I could find any actual, real-life human beings with this name. The result was that every single &ldquo;Siddhartha&rdquo; I found was a French speaker (of Indian heritage) – professionals living in cities like Lyon, Geneva, Montreal&hellip; so of course I took this back to Vivian and said all accusatorily, &ldquo;You want to give our child a French name!&rdquo;</p>
-<p>This turns out to be a really good way to wind him up – I can say this, because he&rsquo;s compelled me to make the same argument repeatedly since – because he starts whining, &ldquo;Nooooo, it&rsquo;s an Indian name!&rdquo; and I tell him that random LinkedIn profiles on the internet don&rsquo;t lie, and our child is not getting a French name.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> It&rsquo;s really funny how worked up he gets about it. Anyway.</p>
-<p>Now that we&rsquo;re actually <em>having</em> a child, of course, we&rsquo;re having all these discussions again, even though we don&rsquo;t know Baby&rsquo;s sex yet. &ldquo;Sid&rdquo; has been Viv&rsquo;s pet name for the growing creature in my belly, and I do often go along with it, although I also point out regularly that that&rsquo;s <em>never</em> going to be their actual name.</p>
-<p>&ldquo;That&rsquo;s okay,&rdquo; he jokes, &ldquo;when you die in childbirth, there&rsquo;ll be no one to stop me putting whatever I want on the birth certificate.&rdquo;</p>
-<p>&ldquo;Ha-ha,&rdquo; I retort, &ldquo;I hope you&rsquo;re not gambling on those odds.&rdquo;</p>
-<p>For what it&rsquo;s worth, we <em>have</em> started putting together an <em>actual</em> shortlist, consisting of names that are Indian in origin, but are either <em>also</em> English/Irish names <em>or</em>, at least, don&rsquo;t sound markedly foreign in English. This is what Viv said he really liked about the whole &ldquo;Siddhartha&rdquo;/&ldquo;Sid&rdquo; thing, and I think <em>that&rsquo;s</em> a fair enough goal&hellip; just not the actual name &ldquo;Siddhartha&rdquo;. Un­for­tun­ately, Viv&rsquo;s next favourite name isn&rsquo;t so much &ldquo;an Irish name&rdquo; as &ldquo;the Irish word for &lsquo;bread&rsquo;&rdquo;, but we&rsquo;ll get there.</p>
-<div class="footnotes" role="doc-endnotes">
-<hr>
 <ol>
-<li id="fn:1">
-<p>Actually, as far as <em>girls&rsquo;</em> names go there are a number of French-origin names I like – I&rsquo;m talking ones well-assimilated into English though – but regardless, I think I have to stand on my principles now.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
+<li><code>/etc/uucp/call</code> on the laptop says what username and password to use</li>
+<li><code>/etc/uucp/passwd</code> on the server says what username and password to accept, separated by a TAB (!)</li>
 </ol>
-</div> 
 
-<https://www.jayeless.net/2024/06/the-name-siddhartha.html>
+<p>Check the system:</p>
 
----
+<ol>
+<li><code>/etc/uucp/config</code> on the laptop says what the client is called</li>
+<li><code>/etc/uucp/sys</code> on the laptop says what the server is called and how to connect to it, using what port</li>
+<li><code>/etc/uucp/port</code> on the laptop describes that port</li>
+<li><code>/etc/uucp/sys</code> on the server says what the client is called, what username to expect</li>
+</ol>
 
-## Twenty year celebration: Site update number three
+<p>Check the login again, by going through it by hand.
+Check whether the chat script would have worked.</p>
 
-date: 2024-06-24, updated: 2024-06-24, from: Peter Sefton's Blog
+<pre><code>sudo -u uucp ssh -p 882 uucp@campaignwiki.org
+PTY allocation request failed on channel 0
+Password: *secret*
+Shere=campaignwiki
+^C
+</code></pre>
 
- 
+<p>When calling the server, specify a high debugging level:</p>
 
-<https://ptsefton.com/2024/06/24/update/>
+<pre><code>sudo -u uucp uucico -x 11 -S sibirocobombus
+</code></pre>
 
----
+<p>To look at the debug output.
+Here&rsquo;s an example where I mistyped the nodename in <code>/etc/uucp/config</code> on the laptop:</p>
 
-## ★ WWDC 2024: Apple Intelligence
+<pre><code>sudo uulog -D
+uucico - - (2024-06-30 19:06:09.74 14487) DEBUG: usysdep_detach: Forked; old PID 14486, new pid 14487
+uucico sibirocobombus - (2024-06-30 19:06:09.75 14487) DEBUG: fsysdep_get_work_init: Found C.NPBZaHpAACZk
+uucico sibirocobombus - (2024-06-30 19:06:09.75 14487) DEBUG: fsysdep_get_work_init: Found C.NPDpxIuAACce
+uucico sibirocobombus - (2024-06-30 19:06:09.75 14487) DEBUG: fconn_open: Opening port ssh_campaignwiki (default speed)
+uucico sibirocobombus - (2024-06-30 19:06:09.75 14487) Calling system sibirocobombus (port ssh_campaignwiki)
+uucico sibirocobombus - (2024-06-30 19:06:09.75 14487) DEBUG: Forking /usr/bin/ssh -a -x -v -p 882 uucp@campaignwiki.org
+uucico sibirocobombus - (2024-06-30 19:06:09.75 14487) DEBUG: icexpect: Looking for 5 &quot;word:&quot;
+uucico sibirocobombus - (2024-06-30 19:06:09.75 14487) DEBUG: icexpect: Got &quot;Password:&quot; (found it)
+uucico sibirocobombus - (2024-06-30 19:06:10.32 14487) DEBUG: fcsend: Writing password &quot;*secret*\r&quot;
+uucico sibirocobombus - (2024-06-30 19:06:10.32 14487) DEBUG: zget_uucp_cmd: Got &quot;\020Shere=campaignwiki\000&quot;
+uucico sibirocobombus - (2024-06-30 19:06:10.33 14487) Login successful
+uucico sibirocobombus - (2024-06-30 19:06:10.33 14487) DEBUG: fsend_uucp_cmd: Sending &quot;Smelanobobus -R -N047&quot;
+uucico sibirocobombus - (2024-06-30 19:06:10.33 14487) DEBUG: fconn_write: Writing 23 &quot;\020Smelanobobus -R -N047\000&quot;
+uucico sibirocobombus - (2024-06-30 19:06:10.33 14487) DEBUG: zget_uucp_cmd: Got &quot;\020RYou are unknown to me\000&quot;
+uucico sibirocobombus - (2024-06-30 19:06:10.33 14487) ERROR: Handshake failed (You are unknown to me)
+uucico sibirocobombus - (2024-06-30 19:06:10.33 14487) DEBUG: fconn_close: Closing connection
+uucico sibirocobombus - (2024-06-30 19:06:10.43 14487) DEBUG: Call failed: 4 (Handshake failed)
+</code></pre>
 
-date: 2024-06-23, updated: 2024-06-25, from: Daring Fireball
+<p>If everything worked, however, the log on the client says:</p>
 
-Apple is focusing on what it can do that no one else can on Apple devices, and not really even trying to compete against ChatGPT *et al.* for world-knowledge context. They’re focusing on unique differentiation, and eschewing commoditization. 
+<pre><code>uulog
+uucico sibirocobombus - (2024-06-30 19:18:07.77 15159) Calling system sibirocobombus (port ssh_campaignwiki)
+uucico sibirocobombus - (2024-06-30 19:18:08.40 15159) Login successful
+uucico sibirocobombus - (2024-06-30 19:18:08.41 15159) Handshake successful (protocol 'i' sending packet/window 1024/16 receiving 1024/16)
+uucico sibirocobombus alex (2024-06-30 19:18:08.42 15159) Sending /home/alex/hallo.txt (6 bytes)
+uucico sibirocobombus alex (2024-06-30 19:18:08.42 15159) Sending /home/alex/hallo.txt (6 bytes)
+uucico sibirocobombus - (2024-06-30 19:18:08.42 15159) Protocol 'i' packets: sent 9, resent 0, received 7
+uucico sibirocobombus - (2024-06-30 19:18:08.42 15159) Call complete (0 seconds 12 bytes 0 bps)
+</code></pre>
 
-<https://daringfireball.net/2024/06/wwdc24_apple_intelligence>
+<p>The log on the server says:</p>
 
----
+<pre><code>uucico - - (2024-06-30 19:18:08.89 1265032) Incoming call (login Umelanobombus port stdin)
+uucico melanobombus - (2024-06-30 19:18:08.90 1265032) Handshake successful (protocol 'i' sending packet/window 1024/16 receiving 1024/16)
+uucico melanobombus alex (2024-06-30 19:18:08.90 1265032) Receiving /var/spool/uucppublic/hallo.txt (6 bytes)
+uucico melanobombus alex (2024-06-30 19:18:08.90 1265032) Receiving /var/spool/uucppublic/hallo.txt (6 bytes)
+uucico melanobombus - (2024-06-30 19:18:08.91 1265032) Protocol 'i' packets: sent 6, resent 0, received 8
+uucico melanobombus - (2024-06-30 19:18:08.91 1265032) Call complete (0 seconds 12 bytes 0 bps)
+</code></pre>
 
-## Monday 24 June, 2024
+<p>And the file is in the public area:</p>
 
-date: 2024-06-23, from: John Naughton's online diary
+<pre><code>ls /var/spool/uucppublic/
+hallo.txt
+</code></pre>
 
-Unplanned obsolescence A lovingly cared-for Harley seen in a French village the other day. En passant, isn’t it amazing how humans tamed the internal combustion engine so that we could ride around comfortably while being propelled by a controlled series &#8230; <a href="https://memex.naughtons.org/monday-24-june-2024/39567/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+<p>And in the other direction, send a similar file to <code>alex@melanobombus</code>.</p>
 
-<https://memex.naughtons.org/monday-24-june-2024/39567/>
+<pre><code>uuto hallo.txt 'melanobombus!alex'
+</code></pre>
 
----
+<p>On the laptop:</p>
 
-**@Dave Winer's Scripting News** (date: 2024-06-23, from: Dave Winer's Scripting News)
+<pre><code>sudo -u uucp uucico -S sibirocobombus
+uupick
+from campaignwiki: file hallo.txt ?
+m .
+</code></pre>
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/23/scriptingNewsAd.gif" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm going to start a new podcast-only feed, and <a href="http://scripting.com/2024/06/23/howRssStartedTheRealStory.m4a">this will be first episode</a>. 14 minutes. It tells the story of RSS as a remarkable coming-together of tech, news, publishing and blogging. The first burst came from Netscape and four leading web pubs, Salon, Red Herring Wired and Motley Fool. As a leading blogger and developer of blogging tools, I jumped on board as soon as I heard of it, as did the people at Blogger. RSS was an instant standard with a great installed base, and retained its simplicity. You have no idea how remarkable that is. It grew like a weed. An installed base developed. There was confusion for a couple of years, between 2000 and 2002, about what RSS was, but the market stayed with the format specified by Netscape in 1999. Then in 2002, at UserLand we did a deal with the NY Times to get their news flowing through RSS, and in the next year, the <i>entire news world supported RSS.</i> That's the story. You can write all about who did what in a background story, but the big story, the miracle, mostly remains untold. What matters is an open format took root and retained its simplicity. And it pays to understand why it was not a strong enough foundation to be successful, first because the vendors didn't work with each other, and then because Twitter made subscription one click, where it was ridiculous how hard it was to subscribe to a feed in RSS. We should learn from this, and not repeat the same mistakes, and of course until the real story is out there, we can't learn from it. This is a 14-minute podcast. I cut off the last five minutes because I got lost in the weeds. All of this is documented in the archive of this blog and the sites it points to. And if there's interest I'll happily talk about it in a future podcast. 
+<p>And I have it!</p>
 
-<http://scripting.com/2024/06/23.html#a201841>
+<p>Don&rsquo;t fogert the warning in the <code>uuto</code> documentation:</p>
 
----
+<blockquote>
+<p>Note that `uuto&rsquo; does not provide any security – any user on the remote system can examine the files.</p>
+</blockquote>
 
-**@Dave Winer's Scripting News** (date: 2024-06-23, from: Dave Winer's Scripting News)
+<p>We really should have used NNCP! 😄</p>
 
-I saw a <a href="https://www.caranddriver.com/tesla/cybertruck">Tesla truck</a> parked in Woodstock yesterday. I wasn't prepared for how big it was. It's an impressive looking machine. 
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23UUCP">#UUCP</a></p> 
 
-<http://scripting.com/2024/06/23.html#a194645>
-
----
-
-## (Weekend Edition) Field Notes: June 23, 2024
-
-date: 2024-06-23, from: Om Malik blog
-
-On My Mind This past week, I devoted time to “personal maintenance,” undergoing the usual array of medical tests necessary to preempt potential health issues. Additionally, I faced a dreaded dental surgery — which, despite the use of lasers and sedatives, did not necessarily mean less pain or discomfort. As a result, my writing, reading, &#8230; 
-
-<https://om.co/2024/06/23/weekend-edition-field-notes-june-23-2024/>
-
----
-
-## Gibraltar, United Kingdom
-
-date: 2024-06-23, from: mrusme blog
-
-"Gibraltar is a British Overseas Territory and city located at the southern
-tip of the Iberian Peninsula. It has an area of 6.7 km2 (2.6 sq mi) and is
-bordered to the north by Spain (Campo de Gibraltar)." 
-
-<https://xn--gckvb8fzb.com/travel/uk/gibraltar/>
-
----
-
-## Property Progress: Septic Tank Removal
-
-date: 2024-06-23, updated: 2024-06-23, from: Russell Graves, Syonyk's Project Blog
-
- 
-
-<https://www.sevarg.net/2024/06/23/septic-tank-removal/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-06-23, from: Dave Winer's Scripting News)
-
-<div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/06/23/wordleKitty.png"></center>The splendor of Wordle Kitty.</div> 
-
-<http://scripting.com/2024/06/23.html#a141922>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-06-23, from: Dave Winer's Scripting News)
-
-There's a new star in the kittyverse, <a href="https://imgs.scripting.com/2024/06/23/wordleKitty.png">Wordle Kitty</a>. I let her do my Wordle-play. Today, she was <a href="https://www.facebook.com/photo.php?fbid=2272846162922776&set=a.113966572144090&type=3&notif_id=1719149825702718&notif_t=feedback_reaction_generic&ref=notif">feeling</a> a little under the weather so Wordle Kitty checked into the town urgent care center where they gave her some medicine which gave her the strength for a “splendid” performance at the days Wordle puzzle. So while she’s feeling a bit ill under it all is a feeling of splendor and the usual over the top cuteness! :-) 
-
-<http://scripting.com/2024/06/23.html#a141451>
-
----
-
-## Does personal AI require Big Compute?
-
-date: 2024-06-23, from: Doc Searls (at Harvard), New Old Blog
-
-I don&#8217;t think it does. Not for everything. We already have personal AI for autocomplete. Do we need Big Compute for a personal AI to tell us which pieces within our Amazon orders are in which line items in our Visa statements? (Different items in a shipment often appear inside different charges on a card.) [&#8230;] 
-
-<https://doc.searls.com/2024/06/23/does-personal-ai-require-big-compute/>
+<https://alexschroeder.ch/view/2024-06-30-nncp>
 
 ---
 
-## ‘Ring of Fire’
+**@Dave Winer's Scripting News** (date: 2024-06-30, from: Dave Winer's Scripting News)
 
-date: 2024-06-23, from: Dan Rather's Steady
+<a href="https://imgs.scripting.com/2024/06/30/threadsActivity.png">This is how much</a> of the activity on <a href="https://www.threads.net/@davew/post/C80thldsb0m">Threads</a>, for me at least, comes from the fediverse. 
+
+<http://scripting.com/2024/06/30.html#a160219>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-30, from: Dave Winer's Scripting News)
+
+There's a new <a href="https://github.com/scripting/opml.org/issues/22#issuecomment-2198599127">version</a> of the <a href="https://browser.blogroll.social/">Blogroll Browser</a> this morning. 
+
+<http://scripting.com/2024/06/30.html#a153245>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-06-30, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/30/podcastLogo.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Today's <a href="http://scripting.com/2024/06/30/myOpenVoicemailToALongtimeFriendAboutTheNYTimes.m4a">podcast</a>, what we need from Biden, and how we need journalism to get out of the way. Biden has a base. He should communicate directly with us. Joe, tell us you saw what we saw. A snake oil salesman. A con man. A loser. A criminal. We heard the tape of him blackmailing the Secretary of State of Georgia. He wanted the military to shoot Black Lives Matter protestors. Did he sell our secrets to Putin and others? He did all kinds of horrible stuff that the press has forgotten to talk about. The biggest problem here isn't Biden's age, though it is a problem, it's the controlling nature of our journalism, and the lack of any oversight. They can't be criticized because all we have are our individual voices, with no organization. We keep paying the price. This podcast is in the form of a voicemail to an old friend, <a href="https://en.wikipedia.org/wiki/Jeff_Jarvis">Jeff Jarvis</a>, who I introduce at the beginning of the podcast. We share the same frustrations, I can see it in his posts on various social media networks. I'd like to elevate our discourse. And in the meantime, imho, it's a pretty good story. <i>10 minutes.</i>  <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2024/06/30.html#a140456>
+
+---
+
+## ‘Born in the U.S.A.’
+
+date: 2024-06-30, from: Dan Rather's Steady
 
 A Reason To Smile 
 
-<https://steady.substack.com/p/ring-of-fire>
+<https://steady.substack.com/p/born-in-the-usa>
 
 ---
 
-## 
-                bevelbar + infofeld2 get a long overdue revamp
-            
+## Sunday caption contest: What?
 
-date: 2024-06-23, updated: 2024-06-23, from: Uninformative blog
+date: 2024-06-30, from: Robert Reich's blog
+
+And last week's winner 
+
+<https://robertreich.substack.com/p/sunday-caption-contest-what>
+
+---
+
+## June 29, 2024 
+
+date: 2024-06-30, from: Heather Cox Richardson blog
+
+There are many things I would like to write, but I am home, finally, after many months on the road, and it has been a long week. I am going to bed. Tomorrow, I will be out in my kayak in the place where I took this photograph, no matter what the skies decide to throw at me. 
+
+<https://heathercoxrichardson.substack.com/p/june-29-2024>
+
+---
+
+## When the future doesn’t work anymore
+
+date: 2024-06-30, from: Tracy Durnell Blog
 
  
 
-<https://www.uninformativ.de/blog/postings/2024-06-23/0/POSTING-en.html>
+<https://tracydurnell.com/2024/06/29/when-the-future-doesnt-work-anymore/>
 
 ---
 
-## Sunday caption contest: End of Round 1
+**@Dave Winer's Scripting News** (date: 2024-06-30, from: Dave Winer's Scripting News)
 
-date: 2024-06-23, from: Robert Reich's blog
+Challenging questions: Why don't journalists cover the Biden base? Do they even consider the possibility that there is one? Or do they think they are the base? I thought they weren't supposed to care who the nominees are? Why do they feel entitled to say one candidate should withdraw but not the other? Have any of them even thought this through? 
 
-And last week&#8217;s winner 
-
-<https://robertreich.substack.com/p/sunday-caption-contest-end-of-round>
-
----
-
-## June 22, 2024 
-
-date: 2024-06-23, from: Heather Cox Richardson blog
-
-This year my brother&#8217;s aluminum skiff had a stowaway. A mouse had clung tight to its perch in the bow eye during the trip from the boat&#8217;s winter berth in the front yard to the town landing, bouncing on a trailer. It continued to hold on as my brother and nephew launched the skiff and crossed the choppy harbor to a mooring. 
-
-<https://heathercoxrichardson.substack.com/p/june-22-2024>
+<http://scripting.com/2024/06/29.html#a024446>
 
