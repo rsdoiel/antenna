@@ -1,11 +1,81 @@
 ---
 title: games 2024.27
-updated: 2024-07-01 18:17:08
+updated: 2024-07-02 08:55:02
 ---
 
 # games 2024.27
 
-(date: 2024-07-01 18:17:08)
+(date: 2024-07-02 08:55:02)
+
+---
+
+## All DLC map fragment locations in Elden Ring Shadow of the Erdtree
+
+date: 2024-07-02, updated: 2024-07-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24178008/map-fragment-locations-all-where-to-find-dlc-sote>
+
+---
+
+## Where to unlock all optional dungeons in FFXIV
+
+date: 2024-07-02, updated: 2024-07-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24172146/dungeon-list-unlock-quests-optional>
+
+---
+
+## New Resident Evil in the works, with the man responsible for reinventing the series at the helm
+
+date: 2024-07-02, updated: 2024-07-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24190672/resident-evil-9-capcom>
+
+---
+
+## When does Zenless Zone Zero release?
+
+date: 2024-07-02, updated: 2024-07-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/zenless-zone-zero-guides/2024/7/1/24189925/release-time-launch-preload-zzz>
+
+---
+
+## The best action movies of the year so far
+
+date: 2024-07-02, updated: 2024-07-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24091121/best-action-movies-2024-watch>
+
+---
+
+## The next Barbenheimer? A date change tees up Wickiator
+
+date: 2024-07-02, updated: 2024-07-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24190600/wicked-gladiator-2-release-dates-barbenheimer-wickiator>
+
+---
+
+## Can cake hat Pikachu be shiny in Pokémon Go?
+
+date: 2024-07-02, updated: 2024-07-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/pokemon-go-guide/24189900/can-pikachu-cake-hat-be-shiny>
 
 ---
 
@@ -76,16 +146,6 @@ date: 2024-07-01, updated: 2024-07-01, from: Polygon Website
  
 
 <https://www.polygon.com/elden-ring-shadow-erdtree-guide/24187054/abyssal-woods-location-get-to>
-
----
-
-## When does Zenless Zone Zero release?
-
-date: 2024-07-01, updated: 2024-07-01, from: Polygon Website
-
- 
-
-<https://www.polygon.com/zenless-zone-zero-guides/2024/7/1/24189925/release-time-launch-preload-zzz>
 
 ---
 

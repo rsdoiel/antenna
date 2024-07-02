@@ -1,11 +1,477 @@
 ---
 title: columns 2024.27
-updated: 2024-07-01 18:17:07
+updated: 2024-07-02 08:55:01
 ---
 
 # columns 2024.27
 
-(date: 2024-07-01 18:17:07)
+(date: 2024-07-02 08:55:01)
+
+---
+
+## [Sponsor] BriefLook
+
+date: 2024-07-02, updated: 2024-07-02, from: Daring Fireball
+
+ 
+
+<https://brieflook.app/?dfrss>
+
+---
+
+## July 1, 2024
+
+date: 2024-07-02, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/july-1-2024-5ef>
+
+---
+
+## My plan for Biden re Supreme Court
+
+date: 2024-07-02, from: Dave Winer's Scripting News
+
+<p><i>This is a lightly edited version of a <a href="https://www.threads.net/@davew/post/C864lCsuwbK">post</a> on Threads. </i></p>
+<p>I understand why the Dems don't want to be the first to use the new rule passed down by the Supreme Court, but I think they should consider:</p>
+<ol>
+<li>Arrest the members of the Supreme Court who just voted for the new rule about presidential immunity.</li>
+<li>Nominate six replacements, sorry no Repubs this time.</li>
+<li>The Senate ratifies them.</li>
+<li>Once they're installed, they hold an emergency session to restore Roe v Wade, and to undo all the other crazy BS they did and then revoke the new rule, and re-assert the rule of law that especially applies to the president.</li>
+<li>And I don't know what they do with the ones they arrested but frankly I don't care. Leave them in jail until they figure it out.</li>
+<li>And I it's about time Trump was arrested and held without bail, so he can't do any more damage to the US, while awaiting trial. </li>
+</ol>
+ 
+
+<http://scripting.com/2024/07/02/150747.html?title=myPlanForBidenReSupremeCourt>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-02, from: Dave Winer's Scripting News)
+
+Listen to <a href="https://podcasts.apple.com/us/podcast/i-dissent-biden-declares-war-on-supreme-court-trump-7-2-24/id1633301179?i=1000660868719">today's Countdown</a> podcast. I was cheering out loud during the first segment. When you read this <a href="https://www.threads.net/@davew/post/C864lCsuwbK">post</a>, you'll see why. I tried listening to the NYT Daily podcast today, but it made me hate them all over again, starting with saying how great a week it has been for Trump. You can say that, imho, but you have to say right after that, that it was a terrible week for the rest of us. Because any good news for Trump is awful news for everyone else. And I do mean everyone, including the people who plan to vote for him again. 
+
+<http://scripting.com/2024/07/02.html#a150249>
+
+---
+
+## X Window System At 40
+
+date: 2024-07-02, from: David Rosenthal's blog
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjugloP1HPLwtxYvoylM9isbZ44FMNJOxviLxZTji8sGYsOm1mWnlscBHWBWG0YPcfJdHxjdMUnHqe77GllQtr4qSKA1IH3M0UknGk3HuCgLrckoLtrsR7w25_xvbcBY4BIhpNNz-N2Aw8dS98pssJHBfSdkA0c-NNNSJMEfwzfpqPp5LJyfHzrZ5QwLPy4/s2048/X11R1.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1536" data-original-width="2048" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjugloP1HPLwtxYvoylM9isbZ44FMNJOxviLxZTji8sGYsOm1mWnlscBHWBWG0YPcfJdHxjdMUnHqe77GllQtr4qSKA1IH3M0UknGk3HuCgLrckoLtrsR7w25_xvbcBY4BIhpNNz-N2Aw8dS98pssJHBfSdkA0c-NNNSJMEfwzfpqPp5LJyfHzrZ5QwLPy4/w200-h150/X11R1.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">X11R1 on Sun<br /><a href="https://en.wikipedia.org/wiki/X_Window_System#/media/File:X11R1.jpg">Techfury90 CC0</a></td></tr></tbody></table>
+I apologize that this post is a little late. On 19<sup>th</sup> June the X Window System celebrated its 40th birthday. Wikipedia has a comprehensive <a href="https://en.wikipedia.org/wiki/X_Window_System#History">history of the system</a> including the e-mail Bob Scheifler sent announcing the first release:<br />
+<small>
+<pre>From: rws@mit-bold (Robert W. Scheifler)
+To: window@athena
+Subject: window system X
+Date: 19 June 1984 0907-EDT (Tuesday)
+
+I've spent the last couple weeks writing a window
+system for the VS100. I stole a fair amount of code
+from W, surrounded it with an asynchronous rather
+than a synchronous interface, and called it X. Overall
+performance appears to be about twice that of W. The
+code seems fairly solid at this point, although there are
+still some deficiencies to be fixed up.
+
+We at LCS have stopped using W, and are now
+actively building applications on X. Anyone else using
+W should seriously consider switching. This is not the
+ultimate window system, but I believe it is a good
+starting point for experimentation. Right at the moment
+there is a CLU (and an Argus) interface to X; a C
+interface is in the works. The three existing
+applications are a text editor (TED), an Argus I/O
+interface, and a primitive window manager. There is
+no documentation yet; anyone crazy enough to
+volunteer? I may get around to it eventually.
+
+Anyone interested in seeing a demo can drop by
+NE43-531, although you may want to call 3-1945
+first. Anyone who wants the code can come by with a
+tape. Anyone interested in hacking deficiencies, feel
+free to get in touch.
+</pre>
+</small>
+Scheifler was right that it was a "good starting point for experimentation", but it wasn't really a usable window system until version 11 was released on 15<sup>th</sup> September 1987. I was part of the team that burned the midnight oil at MIT to get that release out, but my involvement started in late 1985.<br />
+<br />
+Below the fold are some reflections on my contributions, some thoughts on the astonishing fact that the code is still widely deployed after 40 years, and some ideas on why it has been so hard to replace.<br />
+<span><a name='more'></a></span>
+<br />
+<h3>Involvement</h3>
+I arrived at Sun in September 1985 to work with James Gosling on a window system for Sun's workstations. We had worked together developing the window system for Carnegie-Mellon's <a href="https://dl.acm.org/doi/10.1145/5666.5671">Andrew</a> project. We both realized that, if Unix and Unix workstations like Sun's were to succeed, they had to have a widely adopted window system. Ideally, we thought, it would have three key attributes:<br />
+<ul>
+  <li>An <b>imaging model</b> at a higher level than simply a grid of pixels, so that applications didn't have to adapt to varying screen resolutions. The clear favorite was <a href="https://en.wikipedia.org/wiki/PostScript">Adobe PostScript</a>'s, which had appeared on the Apple LaserWriter in <a href="https://en.wikipedia.org/wiki/PostScript#History">January 1985</a>.</li>
+  <li><b>Networking</b>, so that applications could run wherever it made sense with their user interface where the user was. In the mid-80s both workstations and networks were slow, running a window system was a big load on a Motorola 68000. Having two CPUs working on an application, the client-server model, helped.</li>
+  <li><b>Programmability</b>, because it was hard to provide a good user experience if there was a slow network round-trip required for each response to a user action. If the window system were programmable, the code that responded to the user's actions could run on the user's workstation, eliminating the network round-trip.</li>
+</ul>
+Gosling had left C-MU some months earlier. He was adamant that it was possible to implement PostScript on a 68000 fast enough to be a window system. Adding networking, mouse and keyboard extensions to PostScript would satisfy all three of our requirements. Because Adobe's PostScript in the 68000-based LaserWriter was notoriously slow I was skeptical, but I should have known better than to doubt his coding skills. A couple of months later when Gosling showed me a prototype PostScript interpreter running incredibly fast on a <a href="https://en.wikipedia.org/wiki/Sun-1">Sun/1</a>, I was convinced to join him on what became the <a href="https://en.wikipedia.org/wiki/NeWS">NeWS project</a>.<br />
+<br />
+Once at Sun I realized that it was more important for the company that the Unix world standardized on a single window system than that the standard be Sun's NeWS system. At C-MU I had already looked into X as an alternative to the Andrew window system, so I knew it was the obvious alternative to NeWS. Although most of my time was spent developing NeWS, I rapidly ported X version 10 to the Sun/1, likely the second port to non-DEC hardware. It worked, but I had to kludge several areas that depended on DEC-specific hardware. The worst was the completely DEC-specific keyboard support.<br />
+<br />
+Because it was clear that a major redesign of X was needed to make it portable and in particular to make it work well on Sun hardware, Gosling and I worked with the teams at DEC SRC and WRL on the design of X version 11. Gosling provided significant input on the imaging model, and I designed the keyboard support. As the implementation evolved I maintained the Sun port and did a lot of testing and bug fixing. All of which led to my trip to Boston to pull all-nighters at MIT finalizing the release.<br />
+<br />
+My involvement continued after the first release. I was the editor and main author of the X Inter-Client Communications Conventions Manual (ICCCM) that forms Part III of Robert Scheifler and Jim Gettys' <a href="https://search.worldcat.org/title/29985888"><i>X Window System</i></a>. A user's X environment consists of a set of client applications, an X server managing displays and input devices, and a <b>window manager</b> application implementing a user interface that allows the user to allocate the server's resources such as windows to the clients. The window manager needs to communicate the resource allocations to the clients, and the clients need to communicate between themselves to support, for example, cut-and-paste. The <a href="https://search.worldcat.org/title/29985888">ICCCM explains its scope thus</a>:<br />
+<blockquote>
+Being a good citizen in the X Version 11 world involves adhering to conventions that govern inter-client communications in the following ares:<br />
+<ul>
+<li>Selection mechanism</li>
+<li>Cut buffers</li>
+<li>Window manager</li>
+<li>Session manager</li>
+<li>Manipulation of shared resources</li>
+<li>Device color characterization</li>
+</ul>
+This part of the book proposes suitable conventions without attempting to enforce any particular user interface.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://imgs.xkcd.com/comics/code_lifespan.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="307" data-original-width="377" height="163" src="https://imgs.xkcd.com/comics/code_lifespan.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://xkcd.com/2730">xkcd 2730</a><br /></td></tr></tbody></table>
+There is a certain justice in <a href="https://web.mit.edu/~simsong/www/ugh.pdf">The UNIX-HATERS Handbook</a>'s description of my efforts:<br />
+<blockquote>
+one of the most amazing pieces of literature to come out of the X Consortium is the “Inter Client Communication Conventions Manual,” ...  It describes protocols that X clients must use to communicate with each other via the X server, including diverse topics like window management, selections, keyboard and colormap focus, and session management.  In short, it tries to cover everything the X designers forgot and tries to fix everything they got wrong. But it was too late—by the time ICCCM was published, people were already writing window managers and toolkits, so each new version of the ICCCM was forced to bend over backwards to be backward compatible with the mistakes of the past.
+</blockquote>
+<a href="https://en.wikipedia.org/wiki/James_H._Morris">Jim Morris</a>, who ran the <a href="http://www.cmu.edu/corporate/news/2007/features/andrew/index.shtml">Andrew project at C-MU</a>, 
+was very wise about what we were getting into: "We're either going to have a disaster, or a success disaster". He often added: "And I know which I prefer!". Jim was exaggerating to make two points:<br />
+<ul>
+<li>Being a success didn't mean the problems were over, it meant a different set of problems.</li>
+<li>Ignoring the problems of success was a good way of preventing it.</li>
+</ul>
+X11 was definitely a "success disaster".<br />
+<h3>Why X not NeWS?</h3>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUwPK1UJfagQeXNTr2AO-VJ8lrgCDca3mNsUigCXEHVePFdW3O6R420R55rng4of42q2v7hjb0PMikk5DvUHTCHdFLd6yYMLwn2U7oOAslEEIsZwAR4EM3RSx-E6Q_kq0SsYAJDl4VZgg7jC4xYZJEZo07KIqbnksk9sI_WuM1bZp-_zrutJQyEWMCLoYY/s790/HyperTIESAuthoring.jpeg" style="clear: right; display: block; margin-left: auto; margin-right: auto; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="644" data-original-width="790" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUwPK1UJfagQeXNTr2AO-VJ8lrgCDca3mNsUigCXEHVePFdW3O6R420R55rng4of42q2v7hjb0PMikk5DvUHTCHdFLd6yYMLwn2U7oOAslEEIsZwAR4EM3RSx-E6Q_kq0SsYAJDl4VZgg7jC4xYZJEZo07KIqbnksk9sI_WuM1bZp-_zrutJQyEWMCLoYY/s200/HyperTIESAuthoring.jpeg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">NeWS <a href="https://en.wikipedia.org/wiki/NeWS#/media/File:HyperTIESAuthoring.jpg">Xardox<br />Public Domain</a></td></tr></tbody></table>
+NeWS was amazing technology, providing each of our requirements with usable performance on a 68000. Its interpreter was a clean-room implementation of PostScript from the "Blue Book", with extensions that provided cooperative multi-threading, networking, arbitrary-shaped translucent windows, and a fully object-oriented toolkit. Steve Jobs agreed with us that PostScript was the right imaging model, although the <a href="https://en.wikipedia.org/wiki/Display_PostScript">Display PostScript</a> interpreter he licensed from Adobe for the <a href="https://en.wikipedia.org/wiki/NeXTSTEP">NextSTEP</a> window system was far more restricted. The overwhelming success of <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a> has validated our argument for programmability. So why did X11 take over the world? My view is that there are three main arguments, any one of which would have been decisive:<br />
+<ul>
+<li>We and Jobs were wrong about the imaging model, for at least two reasons. First, early on pixels were in short supply and applications needed to make the best use of the few they were assigned. They didn't want to delegate control to the PostScript interpreter. Second, later on came GPUs with 3D imaging models. The idea of a one-size-fits-all model became obsolete. The reason that Wayland should replace X11 is that it is agnostic to the application's choice of imaging model.</li>
+<li>Although we were right about the need for programmability, PostScript was the wrong language. Even back in 1985 Gosling and I were veteran programmers, with experience in many languages including not just C and Assembler, but also <a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">LISP</a>, <a href="https://en.wikipedia.org/wiki/Prolog">Prolog</a> and <a href="https://en.wikipedia.org/wiki/Smalltalk">Smalltalk</a>. We didn't find PostScript's <a href="https://en.wikipedia.org/wiki/Stack-oriented_programming">stack-based</a> language intimidating. But already by that time Darwinian evolution had focused CS education on C-like languages, so the majority of application programmers were intimidated. And NeWS wasn't just <i>stack-oriented</i>, it was also <i>object-oriented</i> and <i>multi-threaded</i>, and none of these were optional, making it even more intimidating. In a sense NeWS was an echo of the success of Sun in the early days — a bunch of really good engineers building the system <i>they</i> wanted to use, not one for the mass market.</li>
+<li>A major reason for Sun's early success was that they in effect open-sourced the <a href="https://en.wikipedia.org/wiki/Network_File_System">Network File System</a>.  X11 was open source under the MIT license.  I, and some of the other Sun engineers, understood that NeWS could not displace X11 as the Unix standard window system without being equally open source.  But Sun's management looked at NeWS and saw superior technology, an extension of the PostScript that Adobe was selling, and couldn't bring themselves to give it away.  But they also couldn't ignore the fact that X11 was popular with their customer base, who could run the MIT X11 environment any time they wanted.  The result was the ghastly kludge called the <a href="https://en.wikipedia.org/wiki/Xnews_(X11_server)">Xnews server</a>, a monument to the inability of Sun to follow McNealy's "all the wood behind one arrow" dictum. Wikipedia <a href="https://en.wikipedia.org/wiki/Xnews_(X11_server)">correctly notes that</a>:<br />
+<blockquote>
+This seriously degraded the NeWS interpreter performance and was not considered a very good X11 server either.
+</blockquote></li>
+</ul>
+<h3>Longevity</h3>
+The anniversary bought forth several commentaries on its extraordinary longevity, including:<br />
+<ul>
+<li>Richard Speed's <a href="https://www.theregister.com/2024/06/21/x_window_system_is_40/"><i>The X Window System is still hanging on at 40</i></a> is aptly subtitled "Never underestimate the stickiness of legacy technology" and concludes:<br /> <blockquote> <a href="https://www.theregister.com/2022/06/22/the_x_window_system_just/">In 2022, we wondered</a> if "Wayland has what it takes to replace X." Two years later, the question is still open, although the direction of travel is clear. Yet the stickiness of "it just works" is not to be underestimated, and we would not be surprised if the 50th anniversary rolls around and there is still someone clinging to X11 for that one old app that won't run properly on anything else.
+</blockquote>
+This is very likely. In order to displace X11, Wayland had to be <a href="https://en.wikipedia.org/wiki/Wayland_(protocol)#Compatibility_with_X">compatible with it</a> via the <a href="https://en.wikipedia.org/wiki/XWayland">XWayland</a> server. So there is little motivation to rewrite existing applications to use Wayland directly.</li>
+<li>Kevin Purdy's <a href="https://arstechnica.com/gadgets/2024/06/the-x-window-system-is-40-archaic-as-heck-and-still-relevant/"><i>40 years later, X Window System is far more relevant than anyone could guess</i></a> starts:<br />
+<blockquote>
+Often times, when I am researching something about computers or coding that has been around a very long while, I will come across a document on a university website that tells me more about that thing than any Wikipedia page or archive ever could.<br />
+<br />
+It's usually a PDF, though sometimes a plaintext file, on a .edu subdirectory that starts with a username preceded by a tilde (~) character. This is typically a document that a professor, faced with the same questions semester after semester, has put together to save the most time possible and get back to their work. I recently found such a document inside Princeton University's astrophysics department: "<a href="https://www.astro.princeton.edu/~strauss/AST303/Xintro.pdf">An Introduction to the X Window System</a>," written by <a href="https://web.astro.princeton.edu/people/robert-lupton">Robert Lupton</a>.<br />
+<br />
+X Window System, which <a href="https://www.talisman.org/x-debut.shtml">turned 40 years old earlier this week</a>, was something you had to know how to use to work with space-facing instruments back in the early 1980s, when <a href="https://en.wikipedia.org/wiki/VT100">VT100s</a>, <a href="https://en.wikipedia.org/wiki/VAX-11">VAX-11/750s</a>, and Sun Microsystems boxes would share space at college computer labs. As the member of the AstroPhysical Sciences Department at Princeton who knew the most about computers back then, it fell to Lupton to fix things and take questions.
+</blockquote>
+I really like <a href="https://arstechnica.com/gadgets/2024/06/the-x-window-system-is-40-archaic-as-heck-and-still-relevant/">Lupton's assessment</a>:<br />
+<blockquote>
+"It worked, at least relative to the other options we had," Lupton said. He noted that Princeton's systems were not "heavily networked in those days," such that the network traffic issues some had with X weren't an issue then. "People weren't expecting a lot of GUIs, either; they were expecting command lines, maybe a few buttons... it was the most portable version of a window system, running on both a VAX and the Suns at the time... it wasn't bad."
+</blockquote>
+Purdy quotes Evan Jenkins from <a href="https://arstechnica.com/information-technology/2011/03/the-linux-graphics-stack-from-x-to-wayland/"><i>thirteen years ago</i></a>:<br />
+<blockquote>
+X is the oldest lady at the dance, and she insists on dancing with everyone. X has millions of lines of source, but most of it was written long ago, when there were no GPUs, and no specialized transistors to do programmable shading or rotation and translation of vertexes. The hardware had no notion of oversampling and interpolation to reduce aliasing, nor was it capable of producing extremely precise color spaces. The time has come for the old lady to take a chair.
+</blockquote></li>
+</ul>
+There hasn't been an official release of X11 for <i>twelve years</i>, but it is proving very hard to kill off.<br /> 
+
+<https://blog.dshr.org/2024/07/x-window-system-at-40.html>
+
+---
+
+##  Ohhhhh coooool, a grinning foreskin robot. A team recently &#8220;unveiled a technique... 
+
+date: 2024-07-02, updated: 2024-07-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044893-ohhhhh-coooool-a-grinning>
+
+---
+
+##  Supreme Court: Zero Days Since Last Incident 
+
+date: 2024-07-02, updated: 2024-07-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/supreme-court-zero-days-since-last-incident>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-02, from: Dave Winer's Scripting News)
+
+<a href="https://www.uscourts.gov/educational-resources/educational-activities/chief-justice-roberts-statement-nomination-process#:~:text=I%20will%20be%20open%20to,not%20to%20pitch%20or%20bat.">Chief Justice John Roberts</a>: “I will decide every case based on the record, according to the rule of law, without fear or favor, to the best of my ability, and I will remember that it's my job to call balls and strikes, and not to pitch or bat.” 
+
+<http://scripting.com/2024/07/02.html#a113412>
+
+---
+
+## 2024-06-28 Biden
+
+date: 2024-07-02, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-28-biden">2024-06-28 Biden</h1>
+
+<p>When I see all this talk about Biden and the US elections I keep thinking: almost all that matters is that Biden has a vice president that can take over as soon as things break down. I still remember thinking when Biden got elected: this guy has nothing; he is the most boring and conflict averse choice. And this was exactly what the US needed. And it’s what the US still needs. A boring candidate whose administration gets stuff done.</p>
+
+<p>Of course, the US also needs a lot of other things: reforms, policy changes, and on and on. And you can have both! Do not vote for the fascist and keep the criticism up. So I can say: racism, Israel, Ukraine, immigration, gerrymandering, gun control, Snowden… work on all these things!! Do it! But just because I’m unhappy about the lack of progress does not mean you should abstain or vote for a fascist.</p>
+
+<p>The fact that both candidates are old white men is a shame, yes of course! But it is not a reason to hand power to the fascists.</p>
+
+<p>And often things can get done at the local level. The Swiss based their constitution on the US constitution (senate, congress, states, federalism) and I know that what is impossible to achieve at the national level can sometimes be achieved at the state level, and what cannot be achieved at the state level can be achieved at the city level, in the community, in the library, at the bar, at home.</p>
+
+<p>Wherever things are not first past the post you can kick Democrats where it hurts and beat them. And then, perhaps, one day, things will get better.</p>
+
+<p>Then again, here in Switzerland percentages go up and down here and there and yet one feels that nothing really changes. It’s hard and people aren’t as social I would prefer them to be.</p>
+
+<p>I do like flowers and trees and birds and amphibians and bees and ants and marine mammals and bison and many other things, though. The help me through the dark times.</p>
+
+<p><a class="tag" href="/search/?q=%23USA">#USA</a></p>
+
+<p><strong>2024-07-02</strong>. I found following <a class="account" href="https://hachyderm.io/@mekkaokereke" title="@mekkaokereke@hachyderm.io">@mekkaokereke</a> eye to be quite interesting.
+He says stuff like the following:</p>
+
+<blockquote>
+<p>A quote from the Biden Trump debate. Which candidate said this, Trump or Biden?</p>
+
+<p>&ldquo;I put more – we put more police on the street than any administration has. He wants to cut the cops.&rdquo;</p>
+
+<p>As a reminder, Biden is the candidate that needs more Black men to vote for him, or he is likely to lose the election.</p>
+
+<p>As a reminder, Biden is the one that pushed for and passed the 80s crime bill.</p>
+
+<p>As a reminder, Biden is the one that instructed cities to transfer ~$1B of Covid relief funds to police budgets.</p>
+
+<p>Y&rsquo;all are betting the future of the free world on Biden being able to say and do stuff like this, and then still get 95% of the votes of Black men? Seriously? That&rsquo;s the strategy?</p>
+
+<p>Man, lemme go ahead and prepare for this next Trump term then, because that strategy is awful.</p>
+
+<p>How did y&rsquo;all ever think that would work?</p>
+</blockquote>
+
+<p>Note how he isn&rsquo;t in favour of Trump.
+But he sure isn&rsquo;t in favour of Biden, either.
+The message that I&rsquo;m hearing: Democrats, do better!
+And by &ldquo;do better&rdquo;, I mean: Do better for the constituents that you expect to vote for you.</p>
+
+<p>This is what all the austerity has led to:
+People hate the current government and don&rsquo;t see anybody else to trust and vote for.</p>
+
+<p>This is not about poor misguided undesirables voting for Trump.
+This is about the Democrats not doing enough for the people that aren&rsquo;t voting.</p> 
+
+<https://alexschroeder.ch/view/2024-06-28-biden>
+
+---
+
+## Public Surveillance of Bars
+
+date: 2024-07-02, updated: 2024-07-01, from: Bruce Schneier blog
+
+<p>This <a href="https://sfstandard.com/2024/06/29/2night-live-stream-bars-privacy-concerns/">article about an app</a> that lets people remotely view bars to see if they&#8217;re crowded or not is filled with commentary&#8212;on both sides&#8212;about privacy and openness.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/07/public-surveillance-of-bars.html>
+
+---
+
+## 2024-07-02 SSH hardening
+
+date: 2024-07-02, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-02-ssh-hardening">2024-07-02 SSH hardening</h1>
+
+<p>Today I decided to harden my SSH server configuration and did the one thing you should never do: I logged out before testing the new configuration and promptly locked myself.
+Don&rsquo;t be like me.</p>
+
+<p>Here&rsquo;s what I wanted to do: Positron Security&rsquo;s <a href="https://www.sshaudit.com/">SSH Configuration Auditor</a> gave me a B+ grade and there were <a href="https://www.sshaudit.com/hardening_guides.html#debian_12">some suggestions</a>. I had already implemented some of them because a long time ago I had followed <a href="https://disknotifier.com/blog/simple-ssh-security/">a different SSH hardening guide</a>.</p>
+
+<p>The thing that broke my setup is that the new hardening guide specified the following:</p>
+
+<pre><code>RequiredRSASize 3072
+</code></pre>
+
+<p>The effect was that I could no longer log in:</p>
+
+<pre><code>alex@alexschroeder.ch: Permission denied (publickey).
+</code></pre>
+
+<p>That&rsquo;s because I have passwords disabled. You can only get in via public key. And my public key wasn&rsquo;t good enough: it has 2048 bits:</p>
+
+<pre><code>ssh-keygen -lf .ssh/id_rsa
+2048 SHA256:************/****************************** alex@Megabombus.local (RSA)
+</code></pre>
+
+<p>So what I had to do:</p>
+
+<ul>
+<li>Visit the hosting provider&rsquo;s website</li>
+<li>Enable VNC</li>
+<li>Open a &ldquo;NoVNC&rdquo; window</li>
+<li>Enable login using passwords without having access to Shift or Control keys (wtf?)</li>
+</ul>
+
+<p>That meant commenting these two in <code>/etc/ssh/sshd_config</code>:</p>
+
+<pre><code>PermitRootLogin prohibit-password
+PasswordAuthentication no
+</code></pre>
+
+<p>Restarted <code>sshd</code> on the server:</p>
+
+<pre><code>systemctl restart sshd
+</code></pre>
+
+<p>I already had an <code>ed25519</code> identity:</p>
+
+<pre><code>ls .ssh/id* 
+.ssh/id_ed25519  .ssh/id_ed25519.pub  .ssh/id_rsa  .ssh/id_rsa.pub
+</code></pre>
+
+<p>I probably created them using the following:</p>
+
+<pre><code>ssh-keygen -t ed25519
+</code></pre>
+
+<p>I used <code>ssh-copy</code> to copy them to the server:</p>
+
+<pre><code>ssh-copy-id -i .ssh/id_ed25519 sibirocobombus
+</code></pre>
+
+<p>And I added the correct setting to my <code>.ssh/config</code>:</p>
+
+<pre><code>Host sibirocobombus
+  HostName alexschroeder.ch
+  Port 882
+  User alex
+  IdentityFile ~/.ssh/id_ed25519
+</code></pre>
+
+<p>I use the <code>ssh</code> config file all the time!</p>
+
+<p>This allowed me to uncomment these two in <code>/etc/ssh/sshd_config</code> again:</p>
+
+<pre><code>PermitRootLogin prohibit-password
+PasswordAuthentication no
+</code></pre>
+
+<p>I restarted <code>sshd</code> on the server:</p>
+
+<pre><code>systemctl restart sshd
+</code></pre>
+
+<p>Note to self: Should I ever need to check the server fingerprints, see <a href="ssh">ssh</a>.</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-02-ssh-hardening>
+
+---
+
+## 2024-07-02 The importance of moderation
+
+date: 2024-07-02, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-02-the-importance-of-moderation">2024-07-02 The importance of moderation</h1>
+
+<p><a class="account" href="https://idiomdrottning.org/users/Sandra" title="@Sandra@idiomdrottning.org">@Sandra</a> recently wrote <a href="https://idiomdrottning.org/usenet">Usenet had to die</a>, arguing that Usenet was wasteful, everybody carrying a copy of everybody else, including spam and binaries.
+I agree with all the points made. The idea that there is one global network of groups, with everybody carrying all the groups and everybody being allowed to post led to the downfall of Usenet.</p>
+
+<p>Having recently hooked my laptop and server server to a handful of other servers using UUCP, NNCP and NNTP for file copies, mail and news, I just want to emphasize that the same technology can be used to build a different net.</p>
+
+<ul>
+<li>UUCP doesn&rsquo;t have to be anonymous. Calling systems can be required to have a username and password.</li>
+<li>NNTP doesn&rsquo;t have to be anonymous. Systems can be known peers based on IP numbers and users can be required to authenticate themselves.</li>
+<li>Servers don&rsquo;t have to mirror all the groups. Systems can be selective in what they accept and in what they pass on.</li>
+</ul>
+
+<p>The spam problem arises when two systems &ldquo;trust&rdquo; each other and peer messages but one of the systems doesn&rsquo;t act on abuse and moderation reports.
+Perhaps Usenet generated too much of a workload for system administrators so they stopped following up on those reports.
+Perhaps some servers had become too big to ban.</p>
+
+<p>I think we have the exact same problems with fedi.
+Some instances seem too big to defederate from.</p>
+
+<p>Unfortunately, individual blocking doesn&rsquo;t work.
+If my posts end up on an unmoderated server because somebody I like is following me, the post shows up in the federated feed on that server and all the other users that I don&rsquo;t like can comment and those comments are sent back to me.
+I can block them all individually or block the large instance including my small number of friends.
+That instance has become too big to ban.</p>
+
+<p>To come back to net news:
+From my point of view, the protocols are not to blame for the downfall of Usenet.
+It was the lack of moderation that killed Usenet.
+It was the ease of setting up web forums and being able to moderate them that made Usenet irrelevant.
+In the end, to all these people federation was not as important as moderation.</p>
+
+<p>Administrators were unwilling to drop the groups that were overrun with people that needed moderation.
+This is a problem on all platforms with groups, e.g. Reddit.</p>
+
+<p>Administrators were unwilling to ban the instances that didn&rsquo;t moderate their users.
+This is a problem on all federated platforms, e.g. Mail.</p>
+
+<p>Administrators were unwilling to create new groups for people in their niches.
+At least nobody seems to be making that mistake again.
+IRC, Reddit, Discord – they all demonstrated that ad-hoc group formation and self-moderation was viable.</p>
+
+<p>This is why I think moderation, group forming and selectivity of federation are the most important quality of a platform.</p>
+
+<p>We can have a small network of servers offering mail and news exchange, like in the old days.
+The problem is unmoderated growth.</p>
+
+<p><a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-02-moderation>
+
+---
+
+## Andrew Mellon’s humongous donation to Donald Trump
+
+date: 2024-07-02, from: Robert Reich's blog
+
+The best evidence yet for why we need to tax wealth 
+
+<https://robertreich.substack.com/p/andrew-mellons-humongous-donation>
+
+---
+
+## July 1, 2024 
+
+date: 2024-07-02, from: Heather Cox Richardson blog
+
+Today the United States Supreme Court overthrew the central premise of American democracy: that no one is above the law. It decided that the president of the United States, possibly the most powerful person on earth, has &#8220;absolute immunity&#8221; from criminal prosecution for crimes committed as part of the official acts at the core of presidential powers. The court also said it should be presumed that the president also has immunity for other official acts as well, unless that prosecution would not intrude on the authority of the executive branch. 
+
+<https://heathercoxrichardson.substack.com/p/july-1-2024>
+
+---
+
+## Dev Digest 122 – Cracks in the polyfill
+
+date: 2024-07-02, from: Chris Heilmann's blog
+
+Hello and join me to learn about removing malicious code, what the web is up to and why there are some cool new careers in AI. News and articles First things first: if you use Polyfill.io delete it immediately from your server! The &#8211; by now pretty unnecessary library &#8211; has been acquired and is [&#8230;] 
+
+<https://christianheilmann.com/2024/07/02/dev-digest-122-cracks-in-the-polyfill/>
+
+---
+
+## Figma AI Is a Rip-Off Engine
+
+date: 2024-07-02, updated: 2024-07-02, from: Daring Fireball
+
+ 
+
+<https://x.com/asallen/status/1807675146020454808>
+
+---
+
+## Systems: How the Ultra-Wealthy Think About Money
+
+date: 2024-07-02, updated: 2024-07-02, from: Anil Dash blog
+
+ 
+
+<https://anildash.com/2024/07/02/money-flows/>
 
 ---
 

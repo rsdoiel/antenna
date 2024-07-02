@@ -1,11 +1,63 @@
 ---
 title: writing 2024.27
-updated: 2024-07-01 18:17:08
+updated: 2024-07-02 08:55:01
 ---
 
 # writing 2024.27
 
-(date: 2024-07-01 18:17:08)
+(date: 2024-07-02 08:55:01)
+
+---
+
+## Niall Harrison Reviews Elephants in Bloom by Cécile Cristofari
+
+date: 2024-07-02, from: Locus Magazine
+
+<p><strong>Elephants in Bloom</strong>, Cécile Cristofari (NewCon Press 978-1-91495-367-5, 240pp, £26.99, hc) Janu­ary 2024. Cover by Enrique Meseguer.</p>
+<p>Cécile Cristofari’s debut collection <strong>El­ephants in Bloom </strong>is, as debut collections so often are, exciting but uneven. Perhaps my favourite story, “Soaring, the World on Their Shoulders” (2020), demonstrates the combination of imagination and precision that she can bring to bear. What begins as a relatively standard dystopian setting, with France voting  <a href="https://locusmag.com/2024/07/niall-harrison-reviews-elephants-in-bloom-by-cecile-cristofari/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/07/niall-harrison-reviews-elephants-in-bloom-by-cecile-cristofari/>
+
+---
+
+## The Comedic Premise with Simon Rich
+
+date: 2024-07-02, from: John August blog
+
+John welcomes Simon Rich (Man Seeking Woman, Miracle Workers) to look at how he crafts a comedic premise. Using his work on SNL, his time writing Inside Out at Pixar and his plethora of short stories, they look at how he develops a funny idea into a story with narrative and emotional punch. We also [&#8230;]
+The post <a href="https://johnaugust.com/2024/the-comedic-premise-with-simon-rich">The Comedic Premise with Simon Rich</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/the-comedic-premise-with-simon-rich>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-07-02, from: Neil Gaiman @ BlueSky)
+
+I trust everyone has been keeping up with these. They always make me smile.
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kwckiufsk42o>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-07-02, from: Neil Gaiman @ BlueSky)
+
+Today I saw what I suspect to be my first Spectrum Pursuit Vehicle in the wilds of Woodstock. 
+
+Now keeping a weather eye out for Mysterons. 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kwbgjmj7lj2n>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-07-02, from: Neil Gaiman @ BlueSky)
+
+It does!
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kwbboidw3w2c>
 
 ---
 

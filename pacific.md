@@ -1,11 +1,534 @@
 ---
 title: pacific 2024.27
-updated: 2024-07-01 18:17:05
+updated: 2024-07-02 08:54:58
 ---
 
 # pacific 2024.27
 
-(date: 2024-07-01 18:17:05)
+(date: 2024-07-02 08:54:58)
+
+---
+
+## Rebuilding begins in Lahaina wildfire impact zone
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>LAHAINA &#8212; Walls are going up on Lahaina resident Gene Milne&#8217;s Malanai Street property &#8212; the first under construction in the Lahaina wildfire impact zone, where the historic town was destroyed Aug. 8 in the deadliest U.S. wildfire in over a century.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/hawaii-news/rebuilding-begins-in-lahaina-wildfire-impact-zone/>
+
+---
+
+## Green signs laws to aid keiki, kupuna
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green on Monday signed 16 bills into law designed to enhance the protection and care of keiki and kupuna and to help ensure safety in Hawaii&#8217;s schools.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/hawaii-news/green-signs-laws-to-aid-keiki-kupuna/>
+
+---
+
+## Let’s Talk Food: A foodie in Honolulu
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>I took my two grandchildren to Honolulu to meet son Reid, who was working in Oahu. They were both so excited to go on this trip that Artemis had her bag ready a week before.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/features/lets-talk-food-a-foodie-in-honolulu/>
+
+---
+
+## Planning commissions support proposal for residential beekeeping
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>A proposal that would allow Big Island beekeepers to work closer to home remains popular among residents and policymakers alike.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/hawaii-news/planning-commissions-support-proposal-for-residential-beekeeping/>
+
+---
+
+## Supreme Court says Trump is partly shielded from prosecution
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court ruled Monday that former President Donald Trump is entitled to substantial immunity from prosecution on charges of trying to overturn the last election, a blockbuster decision in the heat of the 2024 campaign that vastly expanded presidential power.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/nation-world-news/supreme-court-says-trump-is-partly-shielded-from-prosecution/>
+
+---
+
+## Kahuku’s Dan Ige loses unanimous decision as last-minute replacement at UFC 303
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>Kahuku alum Dan Ige lost a unanimous decision to Diego Lopes in a fight that wasn&#8217;t officially made until Saturday afternoon at UFC 303 at T-Mobile Arena in Las Vegas.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/sports/kahukus-dan-ige-loses-unanimous-decision-as-last-minute-replacement-at-ufc-303/>
+
+---
+
+## Klay Thompson to join Mavericks, Warriors get 2 second-round picks in sign-and-trade: Sources
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>Klay Thompson will join the Dallas Mavericks, league sources said Monday, a move that ends his 13-year run as a core member of the Golden State Warriors dynasty.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/sports/klay-thompson-to-join-mavericks-warriors-get-2-second-round-picks-in-sign-and-trade-sources/>
+
+---
+
+## UHH sports: Mizuguchi resigns after successful run with Vulcans tennis, PacWest adds three new schools
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8211; Vulcans Tennis head coach Kallen Mizuguchi has recently resigned after six successful seasons in charge of both the Hawaii Hilo Men&#8217;s and Women&#8217;s Tennis programs.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/sports/uhh-sports-mizuguchi-resigns-after-successful-run-with-vulcans-tennis-pacwest-adds-three-new-schools/>
+
+---
+
+## Wyc Grousbeck, Steve Pagliuca have been solid Celtics owners. Here’s hoping one stays
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; Wyc Grousbeck, who is planning to sell his majority stake in the Boston Celtics, was born in Worcester, raised in Weston and attended Noble and Greenough School in Dedham. He&#8217;s 63, which means he likely rooted for John Havlicek, Bobby Orr and Carl Yastrzemski growing up. And for all we know, he might have been on the old kiddie show &#8220;Rex Trailer&#8217;s Boomtown&#8221; when he was in the sixth grade but hasn&#8217;t gotten around to telling us about it yet.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/sports/wyc-grousbeck-steve-pagliuca-have-been-solid-celtics-owners-heres-hoping-one-stays/>
+
+---
+
+## Honoka‘a High seeking track coach
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>Honoka&#8216;a High seeking track coach</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/sports/honokaa-high-seeking-track-coach/>
+
+---
+
+## There’s no reason to resign ourselves to Biden
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>Though Joe Biden&#8217;s debate performance last week was among the most painful things I&#8217;ve ever witnessed, it at least seemed to offer clarity. Suddenly, even many people who love this president realized that his campaign has become untenable.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/opinion/theres-no-reason-to-resign-ourselves-to-biden/>
+
+---
+
+## PHOTOS: Kona and Hilo battle at Pualani
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>By Conor Langs</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/sports/photos-kona-and-hilo-battle-at-pualani/>
+
+---
+
+## Palm Beach prosecutor painted Epstein victims as prostitutes, grand jury records show
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>MIAMI &#8212; A Palm Beach County prosecutor painted two girls molested by Jeffrey Epstein as prostitutes, drug addicts, thieves and liars in front of a grand jury empaneled in 2006 to review the state&#8217;s criminal case against sex trafficker Jeffrey Epstein.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/nation-world-news/palm-beach-prosecutor-painted-epstein-victims-as-prostitutes-grand-jury-records-show/>
+
+---
+
+## Congress looks to continue Coast Guard’s Pacific expansion
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>The Coast Guard is slated to continue solidifying its Pacific footprint with new funds from Congress as the service plays an increasingly prominent role in Washington&#8217;s regional strategy.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/hawaii-news/congress-looks-to-continue-coast-guards-pacific-expansion/>
+
+---
+
+## The road to a crisis: How Democrats let Biden glide to renomination
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>In the aftermath of Thursday&#8217;s presidential debate, as Jill Biden led President Joe Biden off the stage, former Sen. Claire McCaskill, D-Mo., raised what she called a &#8220;hard and heartbreaking&#8221; question.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/nation-world-news/the-road-to-a-crisis-how-democrats-let-biden-glide-to-renomination/>
+
+---
+
+## US chip dreams will fade without more immigrants
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>Democrats and Republicans worked together to pass the Chips and Science Act &#8212; but their persistent failure to unite behind common-sense, bipartisan reforms to bring more skilled immigrants to the U.S. puts this notable achievement in jeopardy.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/opinion/us-chip-dreams-will-fade-without-more-immigrants/>
+
+---
+
+## Palestinian militants fire rockets into Israel, tanks advance in Gaza
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/GAZA &#8212; The Palestinian militant group Islamic Jihad fired a barrage of rockets into Israel on Monday as fighting raged in Gaza and Israeli tanks advanced deeper in parts of the enclave, residents and officials said.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/nation-world-news/palestinian-militants-fire-rockets-into-israel-tanks-advance-in-gaza/>
+
+---
+
+## Hurricane Beryl ‘extremely dangerous’ as it gains strength in Caribbean
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>PORT OF SPAIN / KINGSTOWN &#8212; Hurricane Beryl unleashed powerful winds over the Eastern Caribbean on Monday, downing power lines and ripping roofs from buildings, as scientists argue that climate change likely added to how quickly the unusually fierce, early storm formed.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/nation-world-news/hurricane-beryl-extremely-dangerous-as-it-gains-strength-in-caribbean/>
+
+---
+
+## Trump ally Steve Bannon begins prison term for contempt
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Steve Bannon, an influential Donald Trump ally, reported to prison on Monday to serve a four-month sentence after he was convicted for defying a congressional subpoena from the committee that probed the Jan. 6, 2021, U.S. Capitol attack.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/nation-world-news/trump-ally-steve-bannon-begins-prison-term-for-contempt/>
+
+---
+
+## Supreme Court declines to rule on tech platforms’ free speech rights
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court sidestepped a definitive resolution on Monday in a pair of cases challenging state laws aimed at curbing the power of social media companies to moderate content. The ruling left in limbo an effort by Republicans who had promoted the legislation as a remedy to what they say is a bias against conservatives.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/nation-world-news/supreme-court-declines-to-rule-on-tech-platforms-free-speech-rights/>
+
+---
+
+## Obituaries for July 2
+
+date: 2024-07-02, from: Hawaii Tribune Harold
+
+
+				<p>Paul David Chang, 69, of Kailua-Kona died June 16 at home. Born in Hilo, he was a land manager for Puuwaawaa Ranch. Services at a later date. Survived by wife, Patricia Warhola of Kailua-Kona; daughter, Grace Chang of Kailua-Kona; son, Glen (Shaniah) Chang of Germany; brother, Lawrence (Paulette) Chang of Waikoloa; a granddaughter; a nephew; cousins. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/02/obituaries/obituaries-for-july-2-12/>
+
+---
+
+## Palau Shelves Airport Runway Expansion Due to High Costs
+
+date: 2024-07-02, from: Island Times
+
+<p>Koror, Palau &#8211; Plans to extend the runway at Palau International Airport to accommodate larger aircraft have been shelved due to prohibitive costs, President Surangel Whipps Jr. announced at a press conference on June 26. President Whipps revealed that the latest cost estimates, presented during the recent Joint Committee Meeting (JCM) with the U.S. military, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-shelves-airport-runway-expansion-due-to-high-costs/">Palau Shelves Airport Runway Expansion Due to High Costs</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-shelves-airport-runway-expansion-due-to-high-costs/>
+
+---
+
+## OPA seeks to meet senators on PPUC investigation, audit
+
+date: 2024-07-02, from: Island Times
+
+<p>The Office of the Public Auditor is seeking a meeting with the Senate Committee on Energy, Public Utilities and Telecommunications regarding its request for an investigation of the Palau Public Utilities Corporation ( PPUC). The committee wants PPUC investigated for the payment to the Asian Development Bank (ADB) of appropriated government funds when the Senate [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/opa-seeks-to-meet-senators-on-ppuc-investigation-audit/">OPA seeks to meet senators on PPUC investigation, audit </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/opa-seeks-to-meet-senators-on-ppuc-investigation-audit/>
+
+---
+
+## Jubilee coaches Palau men
+
+date: 2024-07-02, from: Island Times
+
+<figure><img width="624" height="315" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/jubille-coach.jpg?fit=624%2C315&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/jubille-coach.jpg?w=624&amp;ssl=1 624w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/jubille-coach.jpg?resize=300%2C151&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/jubille-coach.jpg?resize=400%2C202&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/jubille-coach.jpg?fit=624%2C315&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71060" data-permalink="https://islandtimes.org/jubilee-coaches-palau-men/jubille-coach/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/jubille-coach.jpg?fit=624%2C315&amp;ssl=1" data-orig-size="624,315" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="jubille coach" data-image-description="" data-image-caption="&lt;p&gt;During a timeout in play at the Micronesian Games in Majuro, Head Coach Jubilee Kuartei maps a play for the Palau men’s national team. Photo: Hilary Hosia.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/jubille-coach.jpg?fit=300%2C151&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/jubille-coach.jpg?fit=624%2C315&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>(Marshall Islands Journal) The intensity vibe shown in this photo between coach and players is rare. Uniquely, the head coach of the Palau men’s team at the Micronesian Games was a woman, Jubilee Kuartei, a long-time player, coach and the only FIBA-certified female referee in the Micronesia region. The level of undivided attention is proof [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/jubilee-coaches-palau-men/">Jubilee coaches Palau men</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/jubilee-coaches-palau-men/>
+
+---
+
+## Koror Seeks Loan Term Alignment for Economic Recovery
+
+date: 2024-07-02, from: Island Times
+
+<p>Koror, Palau &#8211; Citing the need to fully recover from the economic impact of COVID-19, Koror Governor Eyos Rudimch has requested the national government to align the loan terms for Koror State with those received by the national government from the Asian Development Bank (ADB). The policy-based loan from the national government is intended to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/koror-seeks-loan-term-alignment-for-economic-recovery/">Koror Seeks Loan Term Alignment for Economic Recovery</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/koror-seeks-loan-term-alignment-for-economic-recovery/>
+
+---
+
+## Sen. Rudimch says OPA to audit Palau Stablecoin Project
+
+date: 2024-07-02, from: Island Times
+
+<p>Senator Mark Rudimch said that the Office of the Public Auditor (OPA is pushing through with its plan to conduct a thorough audit of the Palau Stablecoin Pilot Project. Palau has partnered with Ripple to develop strategies for a digital currency and developing strategies for cross-border payments and a USD-backed digital currency for Palau. Rudimch [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/sen-rudimch-says-opa-to-audit-palau-stablecoin-project/">Sen. Rudimch says OPA to audit Palau Stablecoin Project</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/sen-rudimch-says-opa-to-audit-palau-stablecoin-project/>
+
+---
+
+## Building Resilience: Bangikoi Society Launches Youth-to-Youth Program
+
+date: 2024-07-02, from: Island Times
+
+<figure><img width="1024" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/2ECEEE87-D7EC-4DC6-B802-0210990D6C94.jpeg?fit=1024%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/2ECEEE87-D7EC-4DC6-B802-0210990D6C94.jpeg?w=2112&amp;ssl=1 2112w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/2ECEEE87-D7EC-4DC6-B802-0210990D6C94.jpeg?resize=300%2C166&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/2ECEEE87-D7EC-4DC6-B802-0210990D6C94.jpeg?resize=1024%2C567&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/2ECEEE87-D7EC-4DC6-B802-0210990D6C94.jpeg?resize=768%2C425&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/2ECEEE87-D7EC-4DC6-B802-0210990D6C94.jpeg?resize=1536%2C851&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/2ECEEE87-D7EC-4DC6-B802-0210990D6C94.jpeg?resize=2048%2C1135&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/2ECEEE87-D7EC-4DC6-B802-0210990D6C94.jpeg?resize=1200%2C665&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/2ECEEE87-D7EC-4DC6-B802-0210990D6C94.jpeg?resize=1568%2C869&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/2ECEEE87-D7EC-4DC6-B802-0210990D6C94.jpeg?resize=2000%2C1108&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/2ECEEE87-D7EC-4DC6-B802-0210990D6C94.jpeg?resize=400%2C222&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/2ECEEE87-D7EC-4DC6-B802-0210990D6C94.jpeg?resize=706%2C391&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/2ECEEE87-D7EC-4DC6-B802-0210990D6C94.jpeg?fit=1024%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71055" data-permalink="https://islandtimes.org/building-resilience-bangikoi-society-launches-youth-to-youth-program/screenshot/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/2ECEEE87-D7EC-4DC6-B802-0210990D6C94.jpeg?fit=2112%2C1170&amp;ssl=1" data-orig-size="2112,1170" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Screenshot&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;Screenshot&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Screenshot" data-image-description="" data-image-caption="&lt;p&gt;Screenshot&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/2ECEEE87-D7EC-4DC6-B802-0210990D6C94.jpeg?fit=300%2C166&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/2ECEEE87-D7EC-4DC6-B802-0210990D6C94.jpeg?fit=780%2C432&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>The Bangikoi Society, named after the Palauan word for &#8220;butterfly,&#8221; symbolizing transformation in youth, officially launched its youth-to-youth program on July 1st, 2024, at the PCC Assembly Hall. The program aims to address the growing concerns about youth mental health and wellness in Palau, which escalated following the pandemic. Minister Highlights Importance of Mental Resilience [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/building-resilience-bangikoi-society-launches-youth-to-youth-program/">Building Resilience: Bangikoi Society Launches Youth-to-Youth Program</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/building-resilience-bangikoi-society-launches-youth-to-youth-program/>
+
+---
+
+## Chuuk Legislative LeadersLearning Exchange to Palau
+
+date: 2024-07-02, from: Island Times
+
+<figure><img width="1024" height="843" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/chuuk.jpg?fit=1024%2C843&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/chuuk.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/chuuk.jpg?resize=300%2C247&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/chuuk.jpg?resize=1024%2C843&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/chuuk.jpg?resize=768%2C632&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/chuuk.jpg?resize=1200%2C988&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/chuuk.jpg?resize=400%2C329&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/chuuk.jpg?resize=706%2C581&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/chuuk.jpg?fit=1024%2C843&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71049" data-permalink="https://islandtimes.org/chuuk-legislative-leaderslearning-exchange-to-palau/chuuk/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/chuuk.jpg?fit=1249%2C1028&amp;ssl=1" data-orig-size="1249,1028" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="chuuk" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/chuuk.jpg?fit=300%2C247&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/chuuk.jpg?fit=780%2C642&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>In prioritizing the implementation of a Chuuk Protected Areas Network (PAN) program, Chuuk Legislative leaders determined it would be beneficial to come to Palau and to learn from Palau’s successful Protected Area Network program. Having been in operation for over 15 years, the Palau PAN program has grown and evolved to having all 16 states [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/chuuk-legislative-leaderslearning-exchange-to-palau/">Chuuk Legislative LeadersLearning Exchange to Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/chuuk-legislative-leaderslearning-exchange-to-palau/>
+
+---
+
+## Ekei’s Women Organization enjoys a day out with the Daytime Bus Service
+
+date: 2024-07-02, from: Island Times
+
+<figure><img width="600" height="292" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/ekeis-women.jpg?fit=600%2C292&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/ekeis-women.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/ekeis-women.jpg?resize=300%2C146&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/ekeis-women.jpg?resize=400%2C195&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/ekeis-women.jpg?fit=600%2C292&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71041" data-permalink="https://islandtimes.org/ekeis-women-organization-enjoys-a-day-out-with-the-daytime-bus-service/ekeis-women/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/ekeis-women.jpg?fit=600%2C292&amp;ssl=1" data-orig-size="600,292" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="ekei&#8217;s women" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/ekeis-women.jpg?fit=300%2C146&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/ekeis-women.jpg?fit=600%2C292&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>What an exciting day for Ekei&#8217;s Women Organization! On June 27, 2024, the group took a delightful ride on the public bus, heading to the Surangel Supercenter for a day full of shopping and delicious food. Their excitement was contagious, and the bus was filled with joyful singing all the way back to Ernguul Park. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ekeis-women-organization-enjoys-a-day-out-with-the-daytime-bus-service/">Ekei’s Women Organization enjoys a day out with the Daytime Bus Service</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/ekeis-women-organization-enjoys-a-day-out-with-the-daytime-bus-service/>
+
+---
+
+## PPUC Employees Receive Training on Integration of Renewable Energy
+
+date: 2024-07-02, from: Island Times
+
+<figure><img width="1024" height="461" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PPUC-Employees-Receive-Training-on-Integration-of-Renewable-Energy-.jpg?fit=1024%2C461&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PPUC-Employees-Receive-Training-on-Integration-of-Renewable-Energy-.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PPUC-Employees-Receive-Training-on-Integration-of-Renewable-Energy-.jpg?resize=300%2C135&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PPUC-Employees-Receive-Training-on-Integration-of-Renewable-Energy-.jpg?resize=1024%2C461&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PPUC-Employees-Receive-Training-on-Integration-of-Renewable-Energy-.jpg?resize=768%2C346&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PPUC-Employees-Receive-Training-on-Integration-of-Renewable-Energy-.jpg?resize=1200%2C540&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PPUC-Employees-Receive-Training-on-Integration-of-Renewable-Energy-.jpg?resize=400%2C180&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PPUC-Employees-Receive-Training-on-Integration-of-Renewable-Energy-.jpg?resize=706%2C318&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PPUC-Employees-Receive-Training-on-Integration-of-Renewable-Energy-.jpg?fit=1024%2C461&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71039" data-permalink="https://islandtimes.org/ppuc-employees-receive-training-on-integration-of-renewable-energy/ppuc-employees-receive-training-on-integration-of-renewable-energy/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PPUC-Employees-Receive-Training-on-Integration-of-Renewable-Energy-.jpg?fit=1249%2C562&amp;ssl=1" data-orig-size="1249,562" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Desiree Ngirameked&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PPUC Employees Receive Training on Integration of Renewable Energy" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PPUC-Employees-Receive-Training-on-Integration-of-Renewable-Energy-.jpg?fit=300%2C135&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PPUC-Employees-Receive-Training-on-Integration-of-Renewable-Energy-.jpg?fit=780%2C351&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>On June 26-28, 2024, PPUC employees attended a workshop on Pacific Island Renewable Energy Grid Integration hosted by the Hawai’i Natural Energy Institute (HNEI). HNEI aims to support the Republic of Palau reach its renewable energy (RE) targets. The workshop consisted of in-person classroom sessions to identify and scope potential needs for follow-on support that [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ppuc-employees-receive-training-on-integration-of-renewable-energy/">PPUC Employees Receive Training on Integration of Renewable Energy</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/ppuc-employees-receive-training-on-integration-of-renewable-energy/>
+
+---
+
+## We Remember Pioneering Jellyfish Lake Scientist
+
+date: 2024-07-02, from: Island Times
+
+<figure><img width="758" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Bill-Hamner-scaled.jpg?fit=758%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Bill-Hamner-scaled.jpg?w=1896&amp;ssl=1 1896w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Bill-Hamner-scaled.jpg?resize=222%2C300&amp;ssl=1 222w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Bill-Hamner-scaled.jpg?resize=758%2C1024&amp;ssl=1 758w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Bill-Hamner-scaled.jpg?resize=768%2C1037&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Bill-Hamner-scaled.jpg?resize=1138%2C1536&amp;ssl=1 1138w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Bill-Hamner-scaled.jpg?resize=1517%2C2048&amp;ssl=1 1517w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Bill-Hamner-scaled.jpg?resize=1200%2C1620&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Bill-Hamner-scaled.jpg?resize=1568%2C2117&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Bill-Hamner-scaled.jpg?resize=2000%2C2700&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Bill-Hamner-scaled.jpg?resize=400%2C540&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Bill-Hamner-scaled.jpg?resize=706%2C953&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Bill-Hamner-scaled.jpg?fit=758%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71037" data-permalink="https://islandtimes.org/we-remember-pioneering-jellyfish-lake-scientist/bill-hamner/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Bill-Hamner-scaled.jpg?fit=1896%2C2560&amp;ssl=1" data-orig-size="1896,2560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Bill Hamner" data-image-description="" data-image-caption="&lt;p&gt;Dr Bill Hamner preserving a large box jellyfish specimen, Chiropsalmus quadrigatus, collected from Risong Cove in 2001. After pioneering the first research in Palau’s Jellyfish Lake, Bill’s interest in Palau’s marine environment continued for decades.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Bill-Hamner-scaled.jpg?fit=222%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Bill-Hamner-scaled.jpg?fit=758%2C1024&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By Coral Reef Research Foundation “From the shadows at the shore, I drift slowly underwater toward the center of the salt lake, passing through a living wall of golden jellyfish.”☨ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Dr. William (“Bill”) M. Hamner, a world renowned marine scientist with a long history of research work in Palau, passed away on June 6th, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/we-remember-pioneering-jellyfish-lake-scientist/">We Remember Pioneering Jellyfish Lake Scientist</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/we-remember-pioneering-jellyfish-lake-scientist/>
+
+---
+
+## Blue Bay Petroleum Thanks the People of Palau for Supporting the Blue Bay Petroleum Initiative in Partnership with the Palau Conservation Society
+
+date: 2024-07-02, from: Island Times
+
+<figure><img width="384" height="512" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PCSBlueBay.jpg?fit=384%2C512&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PCSBlueBay.jpg?w=384&amp;ssl=1 384w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PCSBlueBay.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PCSBlueBay.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PCSBlueBay.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PCSBlueBay.jpg?fit=384%2C512&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PCSBlueBay.jpg?fit=384%2C512&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71035" data-permalink="https://islandtimes.org/blue-bay-petroleum-thanks-the-people-of-palau-for-supporting-the-blue-bay-petroleum-initiative-in-partnership-with-the-palau-conservation-society/pcsbluebay/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PCSBlueBay.jpg?fit=384%2C512&amp;ssl=1" data-orig-size="384,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PCS&#038;BlueBay" data-image-description="" data-image-caption="&lt;p&gt;PCS Executive Director, Elbuchel Sadang with PCS Board Secretary, Jennifer S. Olegeriil receiving donation check from Vice President of Blue Bay Petroleum Inc., Derrick Wang, and Palau Station Manager, Ralph Moses&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PCSBlueBay.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/PCSBlueBay.jpg?fit=384%2C512&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Koror, Palau — Believing in the same cause is the start of a great partnership, and people believing in it ensures its success. Blue Bay Petroleum has been privileged to partner with the Palau Conservation Society (PCS) on the recent Blue Bay Petroleum initiative “Fuel with a Purpose”. Special thanks go to the patrons who [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/blue-bay-petroleum-thanks-the-people-of-palau-for-supporting-the-blue-bay-petroleum-initiative-in-partnership-with-the-palau-conservation-society/">Blue Bay Petroleum Thanks the People of Palau for Supporting the Blue Bay Petroleum Initiative in Partnership with the Palau Conservation Society</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/blue-bay-petroleum-thanks-the-people-of-palau-for-supporting-the-blue-bay-petroleum-initiative-in-partnership-with-the-palau-conservation-society/>
+
+---
+
+## The Triggers
+
+date: 2024-07-02, from: Island Times
+
+<figure><img width="900" height="900" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/unnamed.jpg?fit=900%2C900&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/unnamed.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/unnamed.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/unnamed.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/unnamed.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/unnamed.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/unnamed.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/unnamed.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/unnamed.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/unnamed.jpg?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/unnamed.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/unnamed.jpg?fit=900%2C900&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71032" data-permalink="https://islandtimes.org/the-triggers/unnamed-23/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/unnamed.jpg?fit=900%2C900&amp;ssl=1" data-orig-size="900,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="unnamed" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/unnamed.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/unnamed.jpg?fit=780%2C780&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Rejection, a profound and often excruciating experience, has the power to evoke a myriad of specific emotions within us. It can stir up hurt feelings, plunging us into depths of loneliness, igniting flames of jealousy, burdening us with guilt and shame, and haunting us with social anxiety and embarrassment. It can cast a shadow of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-triggers/">The Triggers</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/the-triggers/>
+
+---
+
+## UN rights chief calls time on ‘economic violence’ against women and girls
+
+date: 2024-07-02, from: Island Times
+
+<figure><img width="860" height="547" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/545-5450001_people-asking-questions-icon-hd-png-download.png?fit=860%2C547&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/545-5450001_people-asking-questions-icon-hd-png-download.png?w=860&amp;ssl=1 860w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/545-5450001_people-asking-questions-icon-hd-png-download.png?resize=300%2C191&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/545-5450001_people-asking-questions-icon-hd-png-download.png?resize=768%2C488&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/545-5450001_people-asking-questions-icon-hd-png-download.png?resize=400%2C254&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/545-5450001_people-asking-questions-icon-hd-png-download.png?resize=706%2C449&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/545-5450001_people-asking-questions-icon-hd-png-download.png?fit=860%2C547&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71023" data-permalink="https://islandtimes.org/un-rights-chief-calls-time-on-economic-violence-against-women-and-girls/545-5450001_people-asking-questions-icon-hd-png-download/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/545-5450001_people-asking-questions-icon-hd-png-download.png?fit=860%2C547&amp;ssl=1" data-orig-size="860,547" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="545-5450001_people-asking-questions-icon-hd-png-download" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/545-5450001_people-asking-questions-icon-hd-png-download.png?fit=300%2C191&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/545-5450001_people-asking-questions-icon-hd-png-download.png?fit=780%2C496&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>GENEVA, 01 JULY 2024 (UN NEWS CENTRE) &#8212; On Friday, at the UN Human Rights Council&#8217;s (OHCHR) first panel for the annual full-day discussion on women&#8217;s rights, The UN human rights chief Volker Türk on Friday told a Human Rights Council panel that it’s time to eliminate laws and practices that contribute to “economic violence” [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/un-rights-chief-calls-time-on-economic-violence-against-women-and-girls/">UN rights chief calls time on ‘economic violence’ against women and girls</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/un-rights-chief-calls-time-on-economic-violence-against-women-and-girls/>
+
+---
+
+## Head of Japan’s donor agency says enhanced college education key to curbing brain drain in FSM
+
+date: 2024-07-02, from: Island Times
+
+<p>POHNPEI, 01 JULY 2024 (PACIFIC ISLAND TIMES) &#8212; Boosting higher education in the Federated States of Micronesia (FSM) could reduce the young Micronesians&#8217; emigration, according to the head of Japan&#8217;s top donor agency. Akihiko Tanaka, president of the Japan International Cooperation Agency (JICA), made the suggestion during a meeting with FSM President Wesley W. Simina, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/head-of-japans-donor-agency-says-enhanced-college-education-key-to-curbing-brain-drain-in-fsm/">Head of Japan&#8217;s donor agency says enhanced college education key to curbing brain drain in FSM</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/head-of-japans-donor-agency-says-enhanced-college-education-key-to-curbing-brain-drain-in-fsm/>
+
+---
+
+## 600 pigs, 5000 baskets of food for Royal Taumafa Kava ceremony
+
+date: 2024-07-02, from: Island Times
+
+<p>NUKU&#8217;ALOFA, 01 JULY 2024 (TONGA WIRES) &#8212; Before dawn Saturday, the King&#8217;s matapules, who had travelled from near and far, gathered at Pangai Lahi, next to the Royal Palace in Nuku&#8217;alofa, to prepare for a spectacular traditional Taumafa Kava (Royal Kava Ceremony), and not even the rain would dampen their spirits. Starting at 7:00am, the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/600-pigs-5000-baskets-of-food-for-royal-taumafa-kava-ceremony/">600 pigs, 5000 baskets of food for Royal Taumafa Kava ceremony</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/600-pigs-5000-baskets-of-food-for-royal-taumafa-kava-ceremony/>
+
+---
+
+## Beyond Biden and Trump, American politicians are amongst the oldest in the world. Is that good for democracy?
+
+date: 2024-07-02, from: Island Times
+
+<p>By&#160;Casey Briggs (ABC-Australia) How old is too old to be president? As Americans gear up to vote in this year&#8217;s presidential election, it&#8217;s a question that&#8217;s been on a lot of people&#8217;s minds. Especially as the two oldest candidates to ever run for office in the US are running again — breaking the record for [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/beyond-biden-and-trump-american-politicians-are-amongst-the-oldest-in-the-world-is-that-good-for-democracy/">Beyond Biden and Trump, American politicians are amongst the oldest in the world. Is that good for democracy?</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/beyond-biden-and-trump-american-politicians-are-amongst-the-oldest-in-the-world-is-that-good-for-democracy/>
+
+---
+
+## Taiwan Assists Palau in Hosting the 2024 Palau International Marathon (Omal Marathon), Promoting Diversified Tourism Development in Palau
+
+date: 2024-07-02, from: Island Times
+
+<figure><img width="1024" height="655" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/449526316_800539535586850_7904618348003631114_n.jpg?fit=1024%2C655&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/449526316_800539535586850_7904618348003631114_n.jpg?w=1600&amp;ssl=1 1600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/449526316_800539535586850_7904618348003631114_n.jpg?resize=300%2C192&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/449526316_800539535586850_7904618348003631114_n.jpg?resize=1024%2C655&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/449526316_800539535586850_7904618348003631114_n.jpg?resize=768%2C492&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/449526316_800539535586850_7904618348003631114_n.jpg?resize=1536%2C983&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/449526316_800539535586850_7904618348003631114_n.jpg?resize=1200%2C768&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/449526316_800539535586850_7904618348003631114_n.jpg?resize=1568%2C1004&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/449526316_800539535586850_7904618348003631114_n.jpg?resize=400%2C256&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/449526316_800539535586850_7904618348003631114_n.jpg?resize=706%2C452&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/449526316_800539535586850_7904618348003631114_n.jpg?fit=1024%2C655&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71018" data-permalink="https://islandtimes.org/taiwan-assists-palau-in-hosting-the-2024-palau-international-marathon-omal-marathon-promoting-diversified-tourism-development-in-palau/449526316_800539535586850_7904618348003631114_n/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/449526316_800539535586850_7904618348003631114_n.jpg?fit=1600%2C1024&amp;ssl=1" data-orig-size="1600,1024" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="449526316_800539535586850_7904618348003631114_n" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/449526316_800539535586850_7904618348003631114_n.jpg?fit=300%2C192&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/449526316_800539535586850_7904618348003631114_n.jpg?fit=780%2C499&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>To support and continuously promote the Palau Omal International Marathon and integrate it with a sustainable tourism model, the Embassy of ROC (Taiwan) in Palau, represented by Minister Franklin Chen, donated funds on the June 28, 2024 to help Palau organize the 2024 Palau International Marathon. The funds were received by Kadoi Ruluked, Director of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwan-assists-palau-in-hosting-the-2024-palau-international-marathon-omal-marathon-promoting-diversified-tourism-development-in-palau/">Taiwan Assists Palau in Hosting the 2024 Palau International Marathon (Omal Marathon), Promoting Diversified Tourism Development in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/taiwan-assists-palau-in-hosting-the-2024-palau-international-marathon-omal-marathon-promoting-diversified-tourism-development-in-palau/>
+
+---
+
+## Full transcript of Guam Del. James Moylan's congressional address
+
+date: 2024-07-02, from: Pacific Island Times
+
+Delivered before the 37th Guam Legislature on July 1, 2024 at the Guam Congress Building in Hagata, It is a great honor and privilege to... 
+
+<https://www.pacificislandtimes.com/post/full-transcript-of-guam-del-james-moylan-s-congressional-address>
+
+---
+
+## Moylan: Guam missile defense system 'not intended for war games' 
+
+date: 2024-07-02, from: Pacific Island Times
+
+Congressional delegate reports $5 billion in defense spending authorization clinched for Guam projects By Mar-Vic Cagurangan Guam stands... 
+
+<https://www.pacificislandtimes.com/post/moylan-guam-missile-defense-system-not-meant-to-play-war-games>
+
+---
+
+## Governor appoints law student to UH Board of Regents
+
+date: 2024-07-02, from: University of Hawaiʻi News
+
+<p>Joshua Faumuina has been selected to serve as a student <abbr>UH</abbr> regent.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/01/student-regent-faumuina/">Governor appoints law student to <abbr>UH</abbr> Board of Regents</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/01/student-regent-faumuina/>
+
+---
+
+## Rainbow Wahine swim/dive team earn national scholar award
+
+date: 2024-07-02, from: University of Hawaiʻi News
+
+<p>The Rainbow Wahine earned the Scholar All-America Award from the College Swimming and Diving Coaches Association.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/01/rainbow-wahine-swim-dive-team-earn-cscaa-award/">Rainbow Wahine swim/dive team earn national scholar award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/01/rainbow-wahine-swim-dive-team-earn-cscaa-award/>
+
+---
+
+## 4 Vulcans golfers earn academic honors
+
+date: 2024-07-02, from: University of Hawaiʻi News
+
+<p>Nicholas Gomez, Kailey Oki, Elle Otani and Isabella Ranches earned <abbr>CSC</abbr> Academic All-District At-Large Team honors.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/01/vulcans-golfers-earn-csc-honors/">4 Vulcans golfers earn academic honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/01/vulcans-golfers-earn-csc-honors/>
 
 ---
 

@@ -1,11 +1,259 @@
 ---
 title: going electric 2024.27
-updated: 2024-07-01 18:17:10
+updated: 2024-07-02 08:55:04
 ---
 
 # going electric 2024.27
 
-(date: 2024-07-01 18:17:10)
+(date: 2024-07-02 08:55:04)
+
+---
+
+## The Average Electric Vehicle Now Sells For Less Than A Tesla
+
+date: 2024-07-02, from: Inside EVs News
+
+Plus, investors don't care Tesla's Q2 was a bloodbath and how one of the strongest auto unions in the world is dealing with EV job losses 
+
+<https://insideevs.com/news/725266/average-ev-price-less-tesla/>
+
+---
+
+## General Motors Sold A Record Number Of EVs In Q2 2024
+
+date: 2024-07-02, from: Inside EVs News
+
+After a long and painful road, GM's grand Ultium plan is finally paying off. 
+
+<https://insideevs.com/news/725293/gm-ev-sales-q2-2024/>
+
+---
+
+## Tesla's Sales Of Chinese-Made EVs Keep Shrinking
+
+date: 2024-07-02, from: Inside EVs News
+
+In June, sales of Teslas built in China—for that country and for export—were down 24% year-over-year. 
+
+<https://insideevs.com/news/725227/tesla-china-ev-sales-june2024/>
+
+---
+
+## Kia’s EV sales surged to a new record in the US with affordable, long-range models
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Kia-EV9-sales-first-year.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s EV sales in the US doubled in the first half of the year, hitting a new record. After selling over 5,000 EVs for the third straight month, <a href="https://electrek.co/guides/kia/">Kia</a> looks to keep the momentum going in the second half of 2024.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia" data-layer-viewtype="unknown" data-post-id="369941" href="https://electrek.co/2024/07/02/kias-ev-sales-surging-affordable-long-range-models/#more-369941" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/kias-ev-sales-surging-affordable-long-range-models/>
+
+---
+
+## Rivian Deliveries Up Only Slightly In Q2 2024
+
+date: 2024-07-02, from: Inside EVs News
+
+“From an investor perspective, the second quarter’s going to be messy,” CEO RJ Scaringe had warned amid a plant shutdown.  
+
+<https://insideevs.com/news/725285/rivian-q2-sales-2024/>
+
+---
+
+## This KTM Dirt Bike Is Probably More Than You Can Handle, Sorry
+
+date: 2024-07-02, from: Ride Apart, Electric Motorcycle News
+
+If your name isn't Manny Lettenbichler, keep moving.  
+
+<https://www.rideapart.com/news/725169/ktm-300-xc-w-hardenduro-debut-specs/>
+
+---
+
+## 2025 Rivian Owner's Stuck Accelerator Pedal Highlights Floor Mat Issue
+
+date: 2024-07-02, from: Inside EVs News
+
+Rivian owners may want to watch out: floor mats are different on the new cars, and one owner says the accelerator pedal could stick. 
+
+<https://insideevs.com/news/725167/rivian-floor-mat-stuck-pedal/>
+
+---
+
+## Four Three-Row Electric SUVs Raced From Colorado To Vegas. Charging Got Tricky
+
+date: 2024-07-02, from: Inside EVs News
+
+A Tesla Model X, Kia EV9, Rivian R1S and Mercedes EQS SUV compete for the title of ultimate electric family SUV. 
+
+<https://insideevs.com/news/725166/ev-race-colorado-vegas-tesla/>
+
+---
+
+## Kia's U.S. EV Sales More Than Doubled In June And Q2 2024
+
+date: 2024-07-02, from: Inside EVs News
+
+The company hit a new record: almost 30,000 EVs in the first half of the year. 
+
+<https://insideevs.com/news/725262/kia-us-ev-sales-june2024/>
+
+---
+
+## This Super Small, Rotary Combustion Engine Could Power Your Next Motorcycle
+
+date: 2024-07-02, from: Ride Apart, Electric Motorcycle News
+
+It's not a rotary, per se, but the internals do rotate. 
+
+<https://www.rideapart.com/news/725160/avadi-engine-ma-250-rotary-combustion/>
+
+---
+
+## Rivian (RIVN) deliveries remain flat in Q2, but things are looking up in the second half of 2024
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Rivian-costs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Electric vehicle maker <a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) delivered nearly 13,800 EVs in the second quarter of 2024. Although Q2 deliveries remained flat from Q1, Rivian plans to ramp up output in the second half of 2024. Here’s what to expect.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="369948" href="https://electrek.co/2024/07/02/rivian-rivn-deliveries-flat-q2-ramp-up-h2-2024/#more-369948" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/rivian-rivn-deliveries-flat-q2-ramp-up-h2-2024/>
+
+---
+
+## Tesla (TSLA) announces Q2 deliveries: beat expectations
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/Tesla-Model-3-red-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) has officially released its Q2 2024 delivery and production results. The automaker confirmed having delivered 444,000 electric vehicles last quarter.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="369939" href="https://electrek.co/2024/07/02/tesla-tsla-announces-q2-deliveries-beat-expectations/#more-369939" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/tesla-tsla-announces-q2-deliveries-beat-expectations/>
+
+---
+
+## Tesla Beats Sales Slump Estimates In Q2
+
+date: 2024-07-02, from: Inside EVs News
+
+Tesla delivered 443,956 vehicles in Q2 2024 and produced 410,831. Still, sales are down almost 5% from last year.  
+
+<https://insideevs.com/news/724753/tesla-production-deliveries-q2-2024/>
+
+---
+
+## American Airlines invests more in ZeroAvia, commits to purchase 100 hydrogen-electric engines
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/American-Airlines-hydrogen-planes-.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Popular US flight operator American Airlines is continuing its venture into more sustainable air travel by increasing its investment in Hydrogen-electric aviation technology developer <a href="https://electrek.co/guides/zeroavia/">ZeroAvia</a>. Building off a previous Memorandum of Understanding, American has also (conditionally) committed to purchasing 100 hydrogen-electric plane engines from ZeroAvia for regional flights.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="american-airlines,electric-planes,zeroavia" data-layer-viewtype="unknown" data-post-id="369940" href="https://electrek.co/2024/07/02/american-airlines-invests-zeroavia-commits-purchase-hydrogen-electric-engines/#more-369940" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/american-airlines-invests-zeroavia-commits-purchase-hydrogen-electric-engines/>
+
+---
+
+## Honda's New Battery Packs Can Power Your Scooter or Your Home
+
+date: 2024-07-02, from: Ride Apart, Electric Motorcycle News
+
+Meet the Honda Power Pod e: 
+
+<https://www.rideapart.com/news/725164/honda-power-pod-e-generator/>
+
+---
+
+## ‘Game-Changer': Kia EV3 Gets Over 10,000 Reservations In 23 Days
+
+date: 2024-07-02, from: Inside EVs News
+
+What demand problem? Kia's affordable EV3 is already a hit in its home market. 
+
+<https://insideevs.com/news/725226/kia-ev3-reservations-korea/>
+
+---
+
+## Milwaukee Tools Used Forced Prison Labor to Make Tools, Says Lawsuit
+
+date: 2024-07-02, from: Ride Apart, Electric Motorcycle News
+
+A former political prisoner made the claim.  
+
+<https://www.rideapart.com/news/725154/milwaukee-tools-forced-prison-labor-lawsuit/>
+
+---
+
+## There's an Entire Motorcycle Hiding in This Tiny Truck
+
+date: 2024-07-02, from: Ride Apart, Electric Motorcycle News
+
+You want a tiny tipper truck with five speeds and reverse? You got it. 
+
+<https://www.rideapart.com/news/725157/moto-guzzi-ercole-kei-truck/>
+
+---
+
+## Get Ready, BMW Just Teased Its Off-Road R 1300 GS Adventure
+
+date: 2024-07-02, from: Ride Apart, Electric Motorcycle News
+
+Does anyone fancy a 'Long Way Round'? 
+
+<https://www.rideapart.com/news/725138/2025-bmw-r-1300-gs-adventure-motorrad/>
+
+---
+
+## Drone maker DJI shows teaser for first electric bike
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/dji-head-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It sounds a bit out of left field, but there’s not really any other way to interpret a new teaser posted by drone maker <a href="http://dji.com">DJI</a> on the brand’s Instagram. It looks like DJI has an electric bicycle in the works.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="369931" href="https://electrek.co/2024/07/02/drone-maker-dji-shows-teaser-for-first-electric-bike/#more-369931" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/drone-maker-dji-shows-teaser-for-first-electric-bike/>
+
+---
+
+## CASE CE launches all-new, 3.8 ton electric wheel loader (but wait, there’s more!)
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Case-CE-loader.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>CASE CE is responding to <a href="https://electrek.co/2024/06/04/volvo-ce-expands-its-electric-construction-vehicle-line-up/">government regulations that are pushing industries towards a zero-emission future</a> by developing a new line of all-electric equipment – which now includes a new, 3.8 ton compact wheel loader.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="case,electric-construction-equipment" data-layer-viewtype="unknown" data-post-id="369916" href="https://electrek.co/2024/07/01/case-ce-launches-all-new-3-8-ton-electric-wheel-loader-but-wait-theres-more/#more-369916" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/01/case-ce-launches-all-new-3-8-ton-electric-wheel-loader-but-wait-theres-more/>
+
+---
+
+## Volvo Trucks have logged over 50 million battery electric miles (!)
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/volvo_trucks.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Fifty million miles. Eighty million kilometers. Two thousand laps around Carl Sagan’s pale blue dot. However you measure it, there’s no denying it: <strong>Volvo Trucks have driven a whole lot of battery-electric miles</strong>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,volvo-trucks" data-layer-viewtype="unknown" data-post-id="369887" href="https://electrek.co/2024/07/01/volvo-trucks-have-logged-over-50-million-battery-electric-miles/#more-369887" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/01/volvo-trucks-have-logged-over-50-million-battery-electric-miles/>
 
 ---
 

@@ -1,11 +1,91 @@
 ---
 title: motorcycles 2024.27
-updated: 2024-07-01 18:17:09
+updated: 2024-07-02 08:55:03
 ---
 
 # motorcycles 2024.27
 
-(date: 2024-07-01 18:17:09)
+(date: 2024-07-02 08:55:03)
+
+---
+
+## This KTM Dirt Bike Is Probably More Than You Can Handle, Sorry
+
+date: 2024-07-02, from: Ride Apart, Electric Motorcycle News
+
+If your name isn't Manny Lettenbichler, keep moving.  
+
+<https://www.rideapart.com/news/725169/ktm-300-xc-w-hardenduro-debut-specs/>
+
+---
+
+## This Super Small, Rotary Combustion Engine Could Power Your Next Motorcycle
+
+date: 2024-07-02, from: Ride Apart, Electric Motorcycle News
+
+It's not a rotary, per se, but the internals do rotate. 
+
+<https://www.rideapart.com/news/725160/avadi-engine-ma-250-rotary-combustion/>
+
+---
+
+## Honda's New Battery Packs Can Power Your Scooter or Your Home
+
+date: 2024-07-02, from: Ride Apart, Electric Motorcycle News
+
+Meet the Honda Power Pod e: 
+
+<https://www.rideapart.com/news/725164/honda-power-pod-e-generator/>
+
+---
+
+## Milwaukee Tools Used Forced Prison Labor to Make Tools, Says Lawsuit
+
+date: 2024-07-02, from: Ride Apart, Electric Motorcycle News
+
+A former political prisoner made the claim.  
+
+<https://www.rideapart.com/news/725154/milwaukee-tools-forced-prison-labor-lawsuit/>
+
+---
+
+## Gallery: Joey Logano Takes Nashville By Storm
+
+date: 2024-07-02, from: Kickin the Tires blog
+
+NASHVILLE, Tenn. &#8212; Joey Logano stretched his fuel mileage to cover 110 laps in the Ally 400 at Nashville Superspeedway, just enough to drive away with his first victory of&#8230;  
+
+<https://kickinthetires.net/nascar/gallery-joey-logano-takes-nashville-by-storm/>
+
+---
+
+## There's an Entire Motorcycle Hiding in This Tiny Truck
+
+date: 2024-07-02, from: Ride Apart, Electric Motorcycle News
+
+You want a tiny tipper truck with five speeds and reverse? You got it. 
+
+<https://www.rideapart.com/news/725157/moto-guzzi-ercole-kei-truck/>
+
+---
+
+## Get Ready, BMW Just Teased Its Off-Road R 1300 GS Adventure
+
+date: 2024-07-02, from: Ride Apart, Electric Motorcycle News
+
+Does anyone fancy a 'Long Way Round'? 
+
+<https://www.rideapart.com/news/725138/2025-bmw-r-1300-gs-adventure-motorrad/>
+
+---
+
+## 2024 Harley-Davidson Breakout 117
+
+date: 2024-07-02, from: Cycle World News
+
+The Harley-Davidson Breakout 117 has a 117ci Milwaukee-Eight engine and a 240-section rear tire. It’s more than meets the eye—and there’s a lot to meet the eye. 
+
+<https://www.cycleworld.com/harley-davidson/breakout-117/>
 
 ---
 

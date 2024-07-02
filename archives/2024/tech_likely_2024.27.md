@@ -1,11 +1,476 @@
 ---
 title: tech likely 2024.27
-updated: 2024-07-01 18:17:06
+updated: 2024-07-02 08:55:00
 ---
 
 # tech likely 2024.27
 
-(date: 2024-07-01 18:17:06)
+(date: 2024-07-02 08:55:00)
+
+---
+
+## Jgs Font
+
+date: 2024-07-02, from: Tilde.news
+
+<p><a href="https://tilde.news/s/ej887k/jgs_font">Comments</a></p> 
+
+<https://adelfaure.net/tools/jgs/>
+
+---
+
+## The 2028 Los Angeles Olympics: Oklahoma City Edition
+
+date: 2024-07-02, updated: 2024-07-02, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/07/02/the-2028-los-angeles-olympics-oklahoma-city-edition/>
+
+---
+
+## My plan for Biden re Supreme Court
+
+date: 2024-07-02, from: Dave Winer's Scripting News
+
+<p><i>This is a lightly edited version of a <a href="https://www.threads.net/@davew/post/C864lCsuwbK">post</a> on Threads. </i></p>
+<p>I understand why the Dems don't want to be the first to use the new rule passed down by the Supreme Court, but I think they should consider:</p>
+<ol>
+<li>Arrest the members of the Supreme Court who just voted for the new rule about presidential immunity.</li>
+<li>Nominate six replacements, sorry no Repubs this time.</li>
+<li>The Senate ratifies them.</li>
+<li>Once they're installed, they hold an emergency session to restore Roe v Wade, and to undo all the other crazy BS they did and then revoke the new rule, and re-assert the rule of law that especially applies to the president.</li>
+<li>And I don't know what they do with the ones they arrested but frankly I don't care. Leave them in jail until they figure it out.</li>
+<li>And I it's about time Trump was arrested and held without bail, so he can't do any more damage to the US, while awaiting trial. </li>
+</ol>
+ 
+
+<http://scripting.com/2024/07/02/150747.html?title=myPlanForBidenReSupremeCourt>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-02, from: Dave Winer's Scripting News)
+
+Listen to <a href="https://podcasts.apple.com/us/podcast/i-dissent-biden-declares-war-on-supreme-court-trump-7-2-24/id1633301179?i=1000660868719">today's Countdown</a> podcast. I was cheering out loud during the first segment. When you read this <a href="https://www.threads.net/@davew/post/C864lCsuwbK">post</a>, you'll see why. I tried listening to the NYT Daily podcast today, but it made me hate them all over again, starting with saying how great a week it has been for Trump. You can say that, imho, but you have to say right after that, that it was a terrible week for the rest of us. Because any good news for Trump is awful news for everyone else. And I do mean everyone, including the people who plan to vote for him again. 
+
+<http://scripting.com/2024/07/02.html#a150249>
+
+---
+
+##  Ohhhhh coooool, a grinning foreskin robot. A team recently &#8220;unveiled a technique... 
+
+date: 2024-07-02, updated: 2024-07-02, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044893-ohhhhh-coooool-a-grinning>
+
+---
+
+## FreeDOS and FreeBSD prove old code never dies, just gets nifty updates
+
+date: 2024-07-02, updated: 2024-07-02, from: Liam Proven's articles at the Register
+
+<h4>Anniversary time and both are going strong into their 30s</h4>
+      <p>The FreeDOS project celebrates its 1994 beginnings, about a week before Amazon – and just a year after FreeBSD got started.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/02/freedos_30_freebsd_31/>
+
+---
+
+## NASA Shares Use Requirements with Commercial Destination Partners
+
+date: 2024-07-02, from: NASA breaking news
+
+NASA hosted a meeting to share knowledge with companies developing future commercial destinations at the agency’s Johnson Space Center in Houston. The discussion could aid in developing safe, reliable, innovative, and cost-effective space stations. Industry representatives from more than 20 companies attended. The program focused on NASA’s planned use of commercial destinations, draft utilization requirements, [&#8230;] 
+
+<https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-use-requirements-with-commercial-destination-partners/>
+
+---
+
+## NASA’s Webb Captures Celestial Fireworks Around Forming Star
+
+date: 2024-07-02, from: NASA breaking news
+
+The colors within this mid-infrared image reveal details about the central protostar’s behavior. The cosmos seems to come alive with a crackling explosion of pyrotechnics in this new image from NASA’s James Webb Space Telescope. Taken with Webb’s MIRI (Mid-Infrared Instrument), this fiery hourglass marks the scene of a very young object in the process […] 
+
+<https://science.nasa.gov/missions/webb/nasas-webb-captures-celestial-fireworks-around-forming-star/>
+
+---
+
+## With Fifth Busy Beaver, Researchers Approach Computation’s Limits
+
+date: 2024-07-02, from: Quanta Magazine
+
+After decades of uncertainty, a motley team of programmers has proved precisely how complicated simple computer programs can get.            <p>The post <a href="https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/" target="_blank">With Fifth Busy Beaver, Researchers Approach Computation’s Limits</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/>
+
+---
+
+##  Supreme Court: Zero Days Since Last Incident 
+
+date: 2024-07-02, updated: 2024-07-02, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/supreme-court-zero-days-since-last-incident>
+
+---
+
+## fnec ece commented on issue #141 at Felix Oliver Friedrich / Oberon A2
+
+date: 2024-07-02, updated: 2024-07-02, from: Oberon A2 at CAS
+
+
+<p data-sourcepos="1:1-2:63" dir="auto">Your thinking incorrect;
+HotKeys module is not for oberon subsystem usage, just for A2.</p>
+<p data-sourcepos="4:1-5:77" dir="auto">I think you are using latest UnixAos version Rev. 10272 by Günther. In that distribution,
+&#34;SystemTools&#34; module name is not changed by &#34;System&#34; in HotKeys.XML file, so,</p>
+<ul data-sourcepos="7:1-8:0" dir="auto">
+<li data-sourcepos="7:1-8:0">Replace all occurences of &#34;SystemTools&#34; module name with &#34;System&#34; module name in HotKeys.XML file, there are 3 of them.</li>
+</ul>
+<p data-sourcepos="9:2-9:97" dir="auto">After then, KbdMouse module will forvard the key messages to oberon subsystem as it understands.</p>
+ 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/issues/141#note_192892>
+
+---
+
+## Bente Eegholm: Ensuring Space Telescopes Have Stellar Vision
+
+date: 2024-07-02, from: NASA breaking news
+
+Bente Eegholm is an optical engineer working to ensure missions like the Nancy Grace Roman Space Telescope have stellar vision. When it launches by May 2027, the Roman mission will shed light on many astrophysics topics, like dark energy, which are currently shrouded in mystery. Bente’s past work has included Earth-observing missions and the James [&#8230;] 
+
+<https://www.nasa.gov/people-of-nasa/goddard-people/bente-eegholm-ensuring-space-telescopes-have-stellar-vision/>
+
+---
+
+## NASA Stennis Achieves Primary Success for Historic In-Space Mission
+
+date: 2024-07-02, from: NASA breaking news
+
+NASA’s Stennis Space Center and partner Sidus Space Inc. announced primary mission success July 2 for the center’s historic in-space mission – an autonomous systems payload aboard an orbiting satellite. “Our ASTRA (Autonomous Satellite Technology for Resilient Applications) payload is active and operational,” NASA Stennis Center Director John Bailey said. “This is an incredible achievement [&#8230;] 
+
+<https://www.nasa.gov/news-release/success-for-historic-in-space-mission/>
+
+---
+
+## Mission Success: HERA Crew Successfully Completes 45-Day Simulated Journey to Mars
+
+date: 2024-07-02, from: NASA breaking news
+
+Four dedicated explorers—Jason Lee, Stephanie Navarro, Shareef Al Romaithi, and Piyumi Wijesekara—just returned from a 45-day simulated journey&#160;to Mars, testing the boundaries of human endurance and teamwork within NASA’s HERA (Human Exploration Research Analog) habitat at Johnson Space Center in Houston. Their groundbreaking work on HERA’s Campaign 7 Mission 2 contributes to NASA’s efforts to [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/mission-success-hera-crew-successfully-completes-45-day-simulated-journey-to-mars/>
+
+---
+
+## Podcast: It Shipped that Way (v2!)
+
+date: 2024-07-02, from: Accidentally in Code
+
+Returned to the It Shipped That Way podcast to talk about my book. 
+
+<https://cate.blog/2024/07/02/podcast-it-shipped-that-way-v2/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-02, from: Dave Winer's Scripting News)
+
+<a href="https://www.uscourts.gov/educational-resources/educational-activities/chief-justice-roberts-statement-nomination-process#:~:text=I%20will%20be%20open%20to,not%20to%20pitch%20or%20bat.">Chief Justice John Roberts</a>: “I will decide every case based on the record, according to the rule of law, without fear or favor, to the best of my ability, and I will remember that it's my job to call balls and strikes, and not to pitch or bat.” 
+
+<http://scripting.com/2024/07/02.html#a113412>
+
+---
+
+## 2024-06-28 Biden
+
+date: 2024-07-02, from: Alex Schroeder's Blog
+
+<h1 id="2024-06-28-biden">2024-06-28 Biden</h1>
+
+<p>When I see all this talk about Biden and the US elections I keep thinking: almost all that matters is that Biden has a vice president that can take over as soon as things break down. I still remember thinking when Biden got elected: this guy has nothing; he is the most boring and conflict averse choice. And this was exactly what the US needed. And it’s what the US still needs. A boring candidate whose administration gets stuff done.</p>
+
+<p>Of course, the US also needs a lot of other things: reforms, policy changes, and on and on. And you can have both! Do not vote for the fascist and keep the criticism up. So I can say: racism, Israel, Ukraine, immigration, gerrymandering, gun control, Snowden… work on all these things!! Do it! But just because I’m unhappy about the lack of progress does not mean you should abstain or vote for a fascist.</p>
+
+<p>The fact that both candidates are old white men is a shame, yes of course! But it is not a reason to hand power to the fascists.</p>
+
+<p>And often things can get done at the local level. The Swiss based their constitution on the US constitution (senate, congress, states, federalism) and I know that what is impossible to achieve at the national level can sometimes be achieved at the state level, and what cannot be achieved at the state level can be achieved at the city level, in the community, in the library, at the bar, at home.</p>
+
+<p>Wherever things are not first past the post you can kick Democrats where it hurts and beat them. And then, perhaps, one day, things will get better.</p>
+
+<p>Then again, here in Switzerland percentages go up and down here and there and yet one feels that nothing really changes. It’s hard and people aren’t as social I would prefer them to be.</p>
+
+<p>I do like flowers and trees and birds and amphibians and bees and ants and marine mammals and bison and many other things, though. The help me through the dark times.</p>
+
+<p><a class="tag" href="/search/?q=%23USA">#USA</a></p>
+
+<p><strong>2024-07-02</strong>. I found following <a class="account" href="https://hachyderm.io/@mekkaokereke" title="@mekkaokereke@hachyderm.io">@mekkaokereke</a> eye to be quite interesting.
+He says stuff like the following:</p>
+
+<blockquote>
+<p>A quote from the Biden Trump debate. Which candidate said this, Trump or Biden?</p>
+
+<p>&ldquo;I put more – we put more police on the street than any administration has. He wants to cut the cops.&rdquo;</p>
+
+<p>As a reminder, Biden is the candidate that needs more Black men to vote for him, or he is likely to lose the election.</p>
+
+<p>As a reminder, Biden is the one that pushed for and passed the 80s crime bill.</p>
+
+<p>As a reminder, Biden is the one that instructed cities to transfer ~$1B of Covid relief funds to police budgets.</p>
+
+<p>Y&rsquo;all are betting the future of the free world on Biden being able to say and do stuff like this, and then still get 95% of the votes of Black men? Seriously? That&rsquo;s the strategy?</p>
+
+<p>Man, lemme go ahead and prepare for this next Trump term then, because that strategy is awful.</p>
+
+<p>How did y&rsquo;all ever think that would work?</p>
+</blockquote>
+
+<p>Note how he isn&rsquo;t in favour of Trump.
+But he sure isn&rsquo;t in favour of Biden, either.
+The message that I&rsquo;m hearing: Democrats, do better!
+And by &ldquo;do better&rdquo;, I mean: Do better for the constituents that you expect to vote for you.</p>
+
+<p>This is what all the austerity has led to:
+People hate the current government and don&rsquo;t see anybody else to trust and vote for.</p>
+
+<p>This is not about poor misguided undesirables voting for Trump.
+This is about the Democrats not doing enough for the people that aren&rsquo;t voting.</p> 
+
+<https://alexschroeder.ch/view/2024-06-28-biden>
+
+---
+
+## Google Translate now fluent in 110 additional languages from Abkhaz to Zulu
+
+date: 2024-07-02, updated: 2024-07-02, from: Liam Proven's articles at the Register
+
+<h4>Ta shoh scansh mie, son ymmyd</h4>
+      <p>Google is adding more languages to Google Translate – lots more. This time around, 110 of them, including Manx.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/02/google_translate_expansion/>
+
+---
+
+## 2024-07-02 SSH hardening
+
+date: 2024-07-02, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-02-ssh-hardening">2024-07-02 SSH hardening</h1>
+
+<p>Today I decided to harden my SSH server configuration and did the one thing you should never do: I logged out before testing the new configuration and promptly locked myself.
+Don&rsquo;t be like me.</p>
+
+<p>Here&rsquo;s what I wanted to do: Positron Security&rsquo;s <a href="https://www.sshaudit.com/">SSH Configuration Auditor</a> gave me a B+ grade and there were <a href="https://www.sshaudit.com/hardening_guides.html#debian_12">some suggestions</a>. I had already implemented some of them because a long time ago I had followed <a href="https://disknotifier.com/blog/simple-ssh-security/">a different SSH hardening guide</a>.</p>
+
+<p>The thing that broke my setup is that the new hardening guide specified the following:</p>
+
+<pre><code>RequiredRSASize 3072
+</code></pre>
+
+<p>The effect was that I could no longer log in:</p>
+
+<pre><code>alex@alexschroeder.ch: Permission denied (publickey).
+</code></pre>
+
+<p>That&rsquo;s because I have passwords disabled. You can only get in via public key. And my public key wasn&rsquo;t good enough: it has 2048 bits:</p>
+
+<pre><code>ssh-keygen -lf .ssh/id_rsa
+2048 SHA256:************/****************************** alex@Megabombus.local (RSA)
+</code></pre>
+
+<p>So what I had to do:</p>
+
+<ul>
+<li>Visit the hosting provider&rsquo;s website</li>
+<li>Enable VNC</li>
+<li>Open a &ldquo;NoVNC&rdquo; window</li>
+<li>Enable login using passwords without having access to Shift or Control keys (wtf?)</li>
+</ul>
+
+<p>That meant commenting these two in <code>/etc/ssh/sshd_config</code>:</p>
+
+<pre><code>PermitRootLogin prohibit-password
+PasswordAuthentication no
+</code></pre>
+
+<p>Restarted <code>sshd</code> on the server:</p>
+
+<pre><code>systemctl restart sshd
+</code></pre>
+
+<p>I already had an <code>ed25519</code> identity:</p>
+
+<pre><code>ls .ssh/id* 
+.ssh/id_ed25519  .ssh/id_ed25519.pub  .ssh/id_rsa  .ssh/id_rsa.pub
+</code></pre>
+
+<p>I probably created them using the following:</p>
+
+<pre><code>ssh-keygen -t ed25519
+</code></pre>
+
+<p>I used <code>ssh-copy</code> to copy them to the server:</p>
+
+<pre><code>ssh-copy-id -i .ssh/id_ed25519 sibirocobombus
+</code></pre>
+
+<p>And I added the correct setting to my <code>.ssh/config</code>:</p>
+
+<pre><code>Host sibirocobombus
+  HostName alexschroeder.ch
+  Port 882
+  User alex
+  IdentityFile ~/.ssh/id_ed25519
+</code></pre>
+
+<p>I use the <code>ssh</code> config file all the time!</p>
+
+<p>This allowed me to uncomment these two in <code>/etc/ssh/sshd_config</code> again:</p>
+
+<pre><code>PermitRootLogin prohibit-password
+PasswordAuthentication no
+</code></pre>
+
+<p>I restarted <code>sshd</code> on the server:</p>
+
+<pre><code>systemctl restart sshd
+</code></pre>
+
+<p>Note to self: Should I ever need to check the server fingerprints, see <a href="ssh">ssh</a>.</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-02-ssh-hardening>
+
+---
+
+## 2024-07-02 The importance of moderation
+
+date: 2024-07-02, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-02-the-importance-of-moderation">2024-07-02 The importance of moderation</h1>
+
+<p><a class="account" href="https://idiomdrottning.org/users/Sandra" title="@Sandra@idiomdrottning.org">@Sandra</a> recently wrote <a href="https://idiomdrottning.org/usenet">Usenet had to die</a>, arguing that Usenet was wasteful, everybody carrying a copy of everybody else, including spam and binaries.
+I agree with all the points made. The idea that there is one global network of groups, with everybody carrying all the groups and everybody being allowed to post led to the downfall of Usenet.</p>
+
+<p>Having recently hooked my laptop and server server to a handful of other servers using UUCP, NNCP and NNTP for file copies, mail and news, I just want to emphasize that the same technology can be used to build a different net.</p>
+
+<ul>
+<li>UUCP doesn&rsquo;t have to be anonymous. Calling systems can be required to have a username and password.</li>
+<li>NNTP doesn&rsquo;t have to be anonymous. Systems can be known peers based on IP numbers and users can be required to authenticate themselves.</li>
+<li>Servers don&rsquo;t have to mirror all the groups. Systems can be selective in what they accept and in what they pass on.</li>
+</ul>
+
+<p>The spam problem arises when two systems &ldquo;trust&rdquo; each other and peer messages but one of the systems doesn&rsquo;t act on abuse and moderation reports.
+Perhaps Usenet generated too much of a workload for system administrators so they stopped following up on those reports.
+Perhaps some servers had become too big to ban.</p>
+
+<p>I think we have the exact same problems with fedi.
+Some instances seem too big to defederate from.</p>
+
+<p>Unfortunately, individual blocking doesn&rsquo;t work.
+If my posts end up on an unmoderated server because somebody I like is following me, the post shows up in the federated feed on that server and all the other users that I don&rsquo;t like can comment and those comments are sent back to me.
+I can block them all individually or block the large instance including my small number of friends.
+That instance has become too big to ban.</p>
+
+<p>To come back to net news:
+From my point of view, the protocols are not to blame for the downfall of Usenet.
+It was the lack of moderation that killed Usenet.
+It was the ease of setting up web forums and being able to moderate them that made Usenet irrelevant.
+In the end, to all these people federation was not as important as moderation.</p>
+
+<p>Administrators were unwilling to drop the groups that were overrun with people that needed moderation.
+This is a problem on all platforms with groups, e.g. Reddit.</p>
+
+<p>Administrators were unwilling to ban the instances that didn&rsquo;t moderate their users.
+This is a problem on all federated platforms, e.g. Mail.</p>
+
+<p>Administrators were unwilling to create new groups for people in their niches.
+At least nobody seems to be making that mistake again.
+IRC, Reddit, Discord – they all demonstrated that ad-hoc group formation and self-moderation was viable.</p>
+
+<p>This is why I think moderation, group forming and selectivity of federation are the most important quality of a platform.</p>
+
+<p>We can have a small network of servers offering mail and news exchange, like in the old days.
+The problem is unmoderated growth.</p>
+
+<p><a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-02-moderation>
+
+---
+
+## Radar Trends to Watch: July 2024
+
+date: 2024-07-02, from: O'Reilly Radar
+
+Can anything that is programmable have an embedded LLM? Apparently so. llama.ttf is a plain old font that looks like OpenSans—you can download it and install it. We don’t know whether this is a massive vulnerability or a way to embed AI in almost any text-based application. Probably both. It may just be a coincidence, [&#8230;] 
+
+<https://www.oreilly.com/radar/radar-trends-to-watch-july-2024/>
+
+---
+
+## How tech went from free love to pay-per-click
+
+date: 2024-07-02, updated: 2024-07-02, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Devconf.cz</span> FOSS, AI, blockchain, and the cycle of empty nonsense</h4>
+      <p>This year, along with all the usual in-depth technical talks about Linux at Red Hat's Devconf.cz developer conference, there were also several people there to promote AI-linked projects and the tech bros' previous favorites – blockchain projects.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/02/foss_ai_blockchain/>
+
+---
+
+## Get started with MicroPython on Raspberry Pi Pico with our latest book
+
+date: 2024-07-02, from: Raspberry Pi News (.com)
+
+<p>Our book, Get Started with MicroPython on Raspberry Pi Pico, has been revised with coverage of Wi-Fi, Bluetooth Low Energy, and more.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/get-started-micropython-pico-new-book/">Get started with MicroPython on Raspberry Pi Pico with our latest book</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/get-started-micropython-pico-new-book/>
+
+---
+
+## Sols 4232-4233: Going For a Ride, Anyone?
+
+date: 2024-07-02, from: NASA breaking news
+
+Earth planning date: Monday, July 1, 2024 Have you ever wondered what it might look like to ride along with the rover? Probably not as much as we have here on the planning team, where we are looking at the images on a daily basis. I always wish I could walk around there myself, or […] 
+
+<https://science.nasa.gov/blogs/sols-4232-4233-going-for-a-ride-anyone/>
+
+---
+
+## Shared reality
+
+date: 2024-07-02, from: Manu - I write blog
+
+
+                <p>Online interactions are weirdly unique. They happen in shared, digital spaces—forums, chats, comment sections, social media platforms—where it’s easy to forget that more often than not, the people interacting with each other don’t share the same day-to-day reality. And sometimes that doesn’t matter. There are plenty of topics we can chat about that don’t have a connection with our lives. But there are also plenty who do have a connection and a profound one. From food to politics, from everything related to society to cultural norms. We all live in bubbles whether we like it or not. And it’s easy to forget about this fact when interacting online. Every time I stumble on someone making some wild claims about something I have to remind myself that maybe that specific thing appears wild to me because of my circumstances and it might be perfectly normal and reasonable somewhere else. And that’s why when I’m interacting with someone online I try to be both charitable in my interpretations of what others are saying and also generally curious and open-minded. Sometimes asking a question is all it takes to make a bubble pop and help a conversation move to a more interesting place.</p>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/Eny0wqSO82gDriSS>
+
+---
+
+## Piranesi
+
+date: 2024-07-02, updated: 2024-07-02, from: Robin Rendle Essays
+
+ 
+
+<https://robinrendle.com/notes/piranesi/>
 
 ---
 
@@ -16,6 +481,72 @@ date: 2024-07-02, from: Ayjay blog
 Above you see what I believe was the key moment in today’s match between Portugal and Slovenia. After having a penalty saved, astonishingly, by Jan Oblak, Cristiano Ronaldo collapsed in tears, and I mean collapsed: during the break between the two halves of extra time, his shoulders were shaking, he was inconsolable. Several teammates came [&#8230;] 
 
 <https://blog.ayjay.org/on-the-edge/>
+
+---
+
+## Systems: How the Ultra-Wealthy Think About Money
+
+date: 2024-07-02, updated: 2024-07-02, from: Anil Dash
+
+ 
+
+<https://anildash.com/2024/07/02/money-flows/>
+
+---
+
+## Crossmark community consultation: What did we learn?
+
+date: 2024-07-02, from: Crossref Blog
+
+<p>In the first half of this year we’ve been talking to our community about post-publication changes and Crossmark. When a piece of research is published it isn’t the end of the journey—it is read, reused, and sometimes modified. That&rsquo;s why we run Crossmark, as a way to provide notifications of important changes to research made after publication. Readers can see if the resesarch they are looking at has updates by clicking the Crossmark logo. They also see useful information about the editorial process, and links to things like funding and registered clinical trials. All of this contributes to what we call the <a href="https://www.crossref.org/blog/isr-part-one-what-is-our-role-in-preserving-the-integrity-of-the-scholarly-record/" target="_blank">integrity of the scholarly record</a>.</p>
+<div style="text-align:center;margin:10px">
+<figure class="img-responsive"><img src="https://www.crossref.org/images/blog/2024/Crossmark-popup-example.png"
+alt="The Crossmark popup provides information about whether a work is current and other metadata about integrity of the scholarly record." width="75%">
+</figure>
+</div>
+<p>Crossmark has been around a long time and the context around it is constantly changing. It last had a major update in <a href="https://www.crossref.org/blog/get-ready-for-crossmark-2.0/" target="_blank">2016</a> and in <a href="https://www.crossref.org/blog/encouraging-even-greater-reporting-of-corrections-and-retractions/" target="_blank">2020</a> we removed fees for its use.</p>
+<p>The past few years have seen a more intense focus on research integrity, leading to more retractions and calling out large-scale manipulation of editorial processes. At the same time, we haven’t seen an increase in the uptake of Crossmark, which is still used by only a minority of our members. We would like to know why the uptake is low and whether there is more we can do in this area. To dig into this, in the first part of 2024 we reached out to members of our community.</p>
+<h2 id="what-did-we-do">What did we do?</h2>
+<p>We wanted to learn about attitudes towards Crossmark and related aspects of research integrity. This was done in several ways:</p>
+<ul>
+<li>Structured interviews with eight of our members.</li>
+<li>Round tables at Crossref LIVE events in Bogota and Nairobi</li>
+<li>Surveying a selection of our members, which led to 94 responses.</li>
+</ul>
+<p>The topics we asked about were related to how post-publication updates are made and communicated, and which metadata demonstrates good practice.</p>
+<p>We are extremely grateful to the members who contributed. They provided valuable feedback and have helped to shape the future of Crossmark and our approach to the integrity of the scholarly record.</p>
+<h2 id="what-did-we-find">What did we find?</h2>
+<p>Across the various groups there were a few common themes, which fell into several areas.</p>
+<ol>
+<li>
+<p>Communication of updates is highly valued, and seen as the most important role that Crossmark can play. Some of those we spoke to would like readers to see if there is an update as soon as a page opens, without having to open a popup. This could be done by having a logo that changes colour, shape, or size.</p>
+</li>
+<li>
+<p>Conversely, not as much enthusiasm was shown for the metadata assertions. These are additional fields that can be displayed to readers in the Crossmark popup. There wasn’t a strong consensus on which commonly-made assertions are the most important for research integrity.</p>
+</li>
+<li>
+<p>There is diversity in attitudes towards making updates to published works, what research integrity means, and approaches to workflows for updates. Even within a single organisation, a number of different workflows and multiple staff members might be called on to update published research. This makes things complex and means that it can be difficult to fit Crossmark in.</p>
+</li>
+<li>
+<p>There are technical challenges to getting started with Crossmark. Those responsible for implementing Crossmark are often technical staff who struggle with the documentation we provide in English. There is also no plugin for OJS, a widely-used open source editorial software. It is more difficult to deposit Crossmark metadata for books than journal articles, and many article types don’t permit Crossmark metadata at all. On the other hand, those who successfully installed Crossmark found it easy to use and low-maintenance.</p>
+</li>
+</ol>
+<p>Overall, it seems that Crossmark still has an important role to play but there are changes and improvements we can make.</p>
+<h2 id="whats-next">What’s next?</h2>
+<p>Here are the main areas we intend to follow up on in the coming months.</p>
+<h3 id="implementation">Implementation</h3>
+<p>We need to look at how to make implementation more straight-forward. Can we provide multilingual documentation, plugins, run workshops or webinars, or make changes to Crossmark to lower the barrier to entry?</p>
+<h3 id="understanding-workflows">Understanding workflows</h3>
+<p>Can we collaborate with our members and other organisations to reach a better understanding of how to update published works? Are there alternative workflows we need to support? Have we made it too difficult to understand and implement the options we currently have?</p>
+<p>While updates are always likely to be rare, we want to help members understand the benefits of making them. We talked to some members who were proud of never having published a retraction or correction, which left us wondering whether they are missing legitimate opportunities to correct the scholarly record. We also know that for some members and many work types (preprints, for example), updates are made without a separate published notification. Can we better understand the role that the published updates play and communicate updates even if there isn’t a published notice?</p>
+<h3 id="ongoing-feedback">Ongoing feedback</h3>
+<p>Clearly one size doesn’t fit all when it comes to implementing and communicating updates. We need to find ways of keeping in touch with the community to test new solutions with as broad a range of members as possible. We want to avoid catering to a minority and leaving others struggling to find ways to implement a solution.</p>
+<h3 id="custom-metadata">Custom metadata?</h3>
+<p>Is there an ongoing need for metadata assertions? Many of the assertions currently made are possible as standard metadata and others could be included in our deposit schema. We want to consider removing the option to add assertions. This needs more feedback from the community, especially those who currently make use of assertions.</p>
+<h3 id="redesign-the-ui">Redesign the UI</h3>
+<p>Crossmark doesn’t have the recognition with readers we would like. Is there a way we can redesign it to make it more associated with Crossref and accurate metadata? We intend to explore different designs, and test them with members and readers.</p> 
+
+<https://www.crossref.org/blog/crossmark-community-consultation-what-did-we-learn/>
 
 ---
 
@@ -49,6 +580,46 @@ date: 2024-07-01, from: NASA breaking news
 NASA’s near-Earth-object-hunting mission NEOWISE is nearing its conclusion. But its work will carry on with NASA’s next-generation infrared mission: NEO Surveyor. After more than 14 successful years in space, NASA’s NEOWISE (Near-Earth Object Wide-field Infrared Survey Explorer) mission will end on July 31. But while the mission draws to a close, another is taking shape, [&#8230;] 
 
 <https://www.nasa.gov/missions/neowise/nasas-neowise-infrared-heritage-will-live-on/>
+
+---
+
+## SpamSieve 3.0.5
+
+date: 2024-07-01, from: Michael Tsai
+
+SpamSieve 3.0.5 is a maintenance release for my Mac e-mail spam filter. It seems to work great with the current macOS Sequoia beta, though I expect another update will be required when Apple releases the AI-enabled beta of Mail later this summer. Unfortunately, Apple tends to make big changes to Mail through August, so we [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/01/spamsieve-3-0-5/>
+
+---
+
+## Keyboard Shortcut for Contextual Menus in Sequoia
+
+date: 2024-07-01, from: Michael Tsai
+
+Nathan Manceaux-Panot: Haven&#8217;t seen this mentioned yet: in macOS Sequoia, you can open a context menu by pressing &#x2303;&#x23CE;, for the current selection. Very nice&#8212;Windows has had this for ages! The shortcut is Control-Return. I&#8217;m looking forward to this, since I&#8217;ve often made the selection using the keyboard and don&#8217;t want my fingers to leave [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/01/keyboard-shortcut-for-contextual-menus-in-sequoia/>
+
+---
+
+## Stainless Steel Battery Case in iPhone 16
+
+date: 2024-07-01, from: Michael Tsai
+
+Ming-Chi Kuo (tweet, via Hacker News): Increasing the energy density of the battery cells will increase the battery temperature when running. To avoid overheating the battery, Apple uses the stainless steel battery case for the first time as a thermal solution. Stainless steel is not as effective as aluminum in dissipating heat, but it is [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/01/stainless-steel-battery-case-in-iphone-16/>
+
+---
+
+## Microsoft’s Suleyman on AI Scraping
+
+date: 2024-07-01, from: Michael Tsai
+
+Thomas Claburn: Mustafa Suleyman, the CEO of Microsoft AI, said this week that machine-learning companies can scrape most content published online and use it to train neural networks because it&#8217;s essentially &#8220;freeware.&#8221;Shortly afterwards the Center for Investigative Reporting sued OpenAI and its largest investor Microsoft &#8220;for using the nonprofit news organization&#8217;s content without permission or [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/01/microsofts-suleyman-on-ai-scraping/>
 
 ---
 

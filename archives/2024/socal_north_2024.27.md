@@ -1,11 +1,53 @@
 ---
 title: socal north 2024.27
-updated: 2024-07-01 18:17:05
+updated: 2024-07-02 08:54:57
 ---
 
 # socal north 2024.27
 
-(date: 2024-07-01 18:17:05)
+(date: 2024-07-02 08:54:57)
+
+---
+
+## ‘Kitten season’ sounds cute, but it’s one of the toughest times for LA’s cat crusaders
+
+date: 2024-07-02, updated: 2024-07-02, from: The LAist
+
+Summer is one of the most difficult times for volunteers working to save cats and kittens on Los Angeles streets. There are ways you can help. 
+
+<https://laist.com/kitten-season-sounds-cute-but-its-one-of-the-toughest-times-for-las-cat-crusaders>
+
+---
+
+## California voters will decide an anti-crime measure in November. Democrats say this one is better
+
+date: 2024-07-02, updated: 2024-07-02, from: The LAist
+
+The Democrats’ proposal calls for a new felony for drug dealers who cut fentanyl into other drugs and for increased penalties for repeat thieves. 
+
+<https://laist.com/news/politics/california-voters-will-decide-an-anti-crime-measure-in-november-democrats-say-this-one-is-better>
+
+---
+
+## A half-century of poetry in UCLA’s backyard
+
+date: 2024-07-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Alice Oswald never reads.
+Despite being one of the great living poets, Oswald refuses to read in public. Rarely leaving her home in Southern England, she objects to flying and, apparently, dislikes well-lit rooms. 
+
+<https://dailybruin.com/2024/07/01/a-half-century-of-poetry-in-uclas-backyard/>
+
+---
+
+## UCLA tennis players compete professionally in Southern California
+
+date: 2024-07-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Rising senior Kimmi Hance squared off against a familiar face in the W15 Rancho Santa Fe singles semi-final June 22. 
+Standing across the court was rising junior Anne-Christine Lutkemeye &#8211; Hance&#8217;s doubles partner since March. 
+
+<https://dailybruin.com/2024/07/01/ucla-tennis-players-compete-professionally-in-southern-california/>
 
 ---
 

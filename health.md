@@ -1,11 +1,51 @@
 ---
 title: health 2024.27
-updated: 2024-07-01 18:17:10
+updated: 2024-07-02 08:55:04
 ---
 
 # health 2024.27
 
-(date: 2024-07-01 18:17:10)
+(date: 2024-07-02 08:55:04)
+
+---
+
+## Emergence of a clinical Klebsiella pneumoniae harboring an acrAB-tolC in chromosome and carrying the two repetitive tandem core structures for blaKPC-2 and blaCTX-M-65 in a plasmid
+
+date: 2024-07-02, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveThe emergence of clinical Klebsiella pneumoniae strains harboring acrAB-tolC genes in the chromosome, along with the presence of two repetitive tandem core structures for blaKPC-2 and blaCTX-M-65 genes on a plasmid, has presented a significant clinical challenge.MethodsIn order to study the detailed genetic features of K. pneumoniae strain SC35, both the bacterial chromosome and plasmids were sequenced using Illumina and nanopore platforms. Furthermore, bioinformatics methods were employed to analyze the mobile genetic elements associated with antibiotic resistance genes.ResultsK. pneumoniae strain SC35 was found to possess a class A beta-lactamase and demonstrated resistance to all tested antibiotics. This resistance was attributed to the presence of efflux pump genes, specifically acrAB-tolC, on the SC35 chromosome. Additionally, the SC35 plasmid p1 carried the two repetitive tandem core structures for blaKPC-2 and blaCTX-M-65, as well as blaTEM-1 with rmtB, which shared overlapping structures with mobile genetic elements as In413, Tn3, and TnAs3. Through plasmid transfer assays, it was determined that the SC35 plasmid p1 could be successfully transferred with an average conjugation frequency of 6.85 × 10-4.ConclusionThe structure of the SC35 plasmid p1 appears to have evolved in correlation with other plasmids such as pKPC2_130119, pDD01754–2, and F4_plasmid pA. The infectious strain SC35 exhibits no susceptibility to tested antibioticst, thus effective measures should be taken to prevent the spread and epidemic of this strain. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1410921>
+
+---
+
+## 1H-Pyrrole-2,5-dicarboxylic acid, a quorum sensing inhibitor from one endophytic fungus in Areca catechu L., acts as antibiotic accelerant against Pseudomonas aeruginosa
+
+date: 2024-07-02, from: Frontiers in Cellular and Infection Microbiology
+
+Pseudomonas aeruginosa has already been stipulated as a “critical” pathogen, emphasizing the urgent need for researching and developing novel antibacterial agents due to multidrug resistance. Bacterial biofilm formation facilitates cystic fibrosis development and restricts the antibacterial potential of many current antibiotics. The capacity of P. aeruginosa to form biofilms and resist antibiotics is closely correlated with quorum sensing (QS). Bacterial QS is being contemplated as a promising target for developing novel antibacterial agents. QS inhibitors are a promising strategy for treating chronic infections. This study reported that the active compound PT22 (1H-pyrrole-2,5-dicarboxylic acid) isolated from Perenniporia tephropora FF2, one endophytic fungus from Areca catechu L., presents QS inhibitory activity against P. aeruginosa. Combined with gentamycin or piperacillin, PT22 functions as a novel antibiotic accelerant against P. aeruginosa. PT22 (0.50 mg/mL, 0.75 mg/mL, and 1.00 mg/mL) reduces the production of QS-related virulence factors, such as pyocyanin and rhamnolipid, and inhibits biofilm formation of P. aeruginosa PAO1 instead of affecting its growth. The architectural disruption of the biofilms was confirmed by visualization through scanning electron microscopy (SEM) and confocal laser scanning microscopy (CLSM). Real-time quantitative PCR (RT-qPCR) indicated that PT22 significantly attenuated the expression of QS-related genes followed by docking analysis of molecules against QS activator proteins. PT22 dramatically increased the survival rate of Galleria mellonella. PT22 combined with gentamycin or piperacillin presents significant inhibition of biofilm formation and eradication of mature biofilm compared to monotherapy, which was also confirmed by visualization through SEM and CLSM. After being treated with PT22 combined with gentamycin or piperacillin, the survival rates of G. mellonella were significantly increased compared to those of monotherapy. PT22 significantly enhanced the susceptibility of gentamycin and piperacillin against P. aeruginosa PAO1. Our results suggest that PT22 from P. tephropora FF2 as a potent QS inhibitor is a candidate antibiotic accelerant to combat the antibiotic resistance of P. aeruginosa. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1413728>
+
+---
+
+## Investigations of microbiota composition and neuroactive pathways in association with symptoms of stress and depression in a cohort of healthy women
+
+date: 2024-07-02, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundDespite mounting evidence of gut-brain involvement in psychiatric conditions, functional data remain limited, and analyses of other microbial niches, such as the vaginal microbiota, are lacking in relation to mental health. This aim of this study was to investigate if the connections between the gut microbiome and mental health observed in populations with a clinical diagnosis of mental illness extend to healthy women experiencing stress and depressive symptoms. Additionally, this study examined the functional pathways of the gut microbiota according to the levels of psychological symptoms. Furthermore, the study aimed to explore potential correlations between the vaginal microbiome and mental health parameters in young women without psychiatric diagnoses.MethodsIn this cross-sectional study, 160 healthy Danish women (aged 18-40 years) filled out questionnaires with validated scales measuring symptoms of stress and depression and frequency of dietary intake. Fecal and vaginal microbiota samples were collected at the beginning of the menstrual cycle and vaginal samples were also collected at cycle day 8-12 and 18-22. Shotgun metagenomic profiling of the gut and vaginal microbiome was performed. The Kyoto Encyclopedia of Genes and Genomes (KEGG) was used for functional profiling and 56 Gut Brain Modules were analyzed in the fecal samples.ResultsThe relative abundance in the gut of the genera Escherichia, Parabacteroides, and Shigella was higher in women with elevated depressive symptoms. Women with high perceived stress showed a tendency of increased abundance of Escherichia, Shigella, and Blautia. Amongst others, the potentially pathogenic genera, Escherichia and Shigella correlate with alterations in the neuroactive pathways such as the glutamatergic, GABAeric, dopaminergic, and Kynurenine pathways. Vaginosis symptoms were more prevalent in women reporting high levels of stress and depressive symptoms.ConclusionsThe findings of this study support the concept of a microbiota-associated effect on the neuroactive pathways even in healthy young women. This suggest, that targeting the gut microbiome could be a promising approach for future psychiatric interventions. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1324794>
+
+---
+
+## The mechanism of Gejie Zhilao Pill in treating tuberculosis based on network pharmacology and molecular docking verification
+
+date: 2024-07-02, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionGejie Zhilao Pill (GJZLP), a traditional Chinese medicine formula is known for its unique therapeutic effects in treating pulmonary tuberculosis. The aim of this study is to further investigate its underlying mechanisms by utilizing network pharmacology and molecular docking techniques.MethodsUsing TCMSP database the components, potential targets of GJZLP were identified. Animal-derived components were supplemented through the TCMID and BATMAN-TCM databases. Tuberculosis-related targets were collected from the TTD, OMIM, and GeneCards databases. The intersection target was imported into the String database to build the PPI network. The Metascape platform was employed to carry out Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analysis. Heatmaps were generated through an online platform (https://www.bioinformatics.com.cn). Molecular docking was conducted between the core targets and core compounds to explore their binding strengths and patterns at the molecular level.Results61 active ingredients and 118 therapeutic targets were identified. Quercetin, Luteolin, epigallocatechin gallate, and beta-sitosterol showed relatively high degrees in the network. IL6, TNF, JUN, TP53, IL1B, STAT3, AKT1, RELA, IFNG, and MAPK3 are important core targets. GO and KEGG revealed that the effects of GJZLP on tuberculosis mainly involve reactions to bacterial molecules, lipopolysaccharides, and cytokine stimulation. Key signaling pathways include TNF, IL-17, Toll-like receptor and C-type lectin receptor signaling. Molecular docking analysis demonstrated a robust binding affinity between the core compounds and the core proteins. Stigmasterol exhibited the lowest binding energy with AKT1, indicating the most stable binding interaction.DiscussionThis study has delved into the efficacious components and molecular mechanisms of GJZLP in treating tuberculosis, thereby highlighting its potential as a promising therapeutic candidate for the treatment of tuberculosis. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1405627>
 
 ---
 

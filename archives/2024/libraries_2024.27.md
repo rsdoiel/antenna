@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.27
-updated: 2024-07-01 18:17:08
+updated: 2024-07-02 08:55:02
 ---
 
 # libraries 2024.27
 
-(date: 2024-07-01 18:17:08)
+(date: 2024-07-02 08:55:02)
+
+---
+
+## Ask the Fellows: SSP 2024 Annual Meeting
+
+date: 2024-07-02, from: Scholarly Kitchen
+
+<p>We asked the 2024 SSP Fellows, “What was the highlight of attending SSP 2024 for you?”</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/07/02/ask-the-fellows-ssp-2024-annual-meeting/">Ask the Fellows: SSP 2024 Annual Meeting</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/07/02/ask-the-fellows-ssp-2024-annual-meeting/>
 
 ---
 
