@@ -1,11 +1,134 @@
 ---
 title: central coast 2024.27
-updated: 2024-07-01 07:59:48
+updated: 2024-07-01 18:17:06
 ---
 
 # central coast 2024.27
 
-(date: 2024-07-01 07:59:48)
+(date: 2024-07-01 18:17:06)
+
+---
+
+## Santa Barbara Foresters Publish Book Documenting History of Summer Baseball Success
+
+date: 2024-07-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-book.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-book.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-book.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-book.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-book.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-book.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-book.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-book.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-book.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-book.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-book.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Since the team’s inception in 1991, the Santa Barbara Foresters have grown into arguably the greatest summer college baseball team in the nation. The team’s 33-year history, which has never [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-foresters-publish-book-documenting-history-of-summer-baseball-success/">Santa Barbara Foresters Publish Book Documenting History of Summer Baseball Success</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-foresters-publish-book-documenting-history-of-summer-baseball-success/>
+
+---
+
+## Coroner: Pedestrian Struck, Killed on Mesa Was Santa Barbara Man
+
+date: 2024-07-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Authorities on Monday released the name of a pedestrian who died over the weekend after being struck by a hit-and-run driver on the Mesa in Santa Barbara. The victim was [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/coroner-pedestrian-struck-killed-on-mesa-was-santa-barbara-man/">Coroner: Pedestrian Struck, Killed on Mesa Was Santa Barbara Man</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/coroner-pedestrian-struck-killed-on-mesa-was-santa-barbara-man/>
+
+---
+
+## Santa Barbara Talks: Ed Lenvik Says State Street Planning Was ‘Hijacked’ by Restaurants, Bicyclists
+
+date: 2024-07-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Ed Lenvik, a member of the Santa Barbara Historic Landmarks Commission, has a lot to say about State Street. &#8220;The process was hijacked by three distinct groups,&#8221; Lenvik says, on [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-talks-ed-lenvik-says-state-street-planning-was-hijacked-by-restaurants-bicyclists/">Santa Barbara Talks: Ed Lenvik Says State Street Planning Was &#8216;Hijacked&#8217; by Restaurants, Bicyclists</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-talks-ed-lenvik-says-state-street-planning-was-hijacked-by-restaurants-bicyclists/>
+
+---
+
+## 1 Suspect Arrested, Second Sought for 2021 Killing of Teen Found in Los Olivos
+
+date: 2024-07-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>One man has been arrested and a second remains at large for the killing of a teen found in a vehicle near Los Olivos in 2021, Santa Barbara County District [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/1-suspect-arrested-second-sought-for-2021-killing-of-teen-found-in-los-olivos/">1 Suspect Arrested, Second Sought for 2021 Killing of Teen Found in Los Olivos</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/1-suspect-arrested-second-sought-for-2021-killing-of-teen-found-in-los-olivos/>
+
+---
+
+## Prescribed Training Burn July 2 at North Vandenberg Space Force Base
+
+date: 2024-07-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Vandenberg Space Force Base (VSFB) Fire Department will conduct a prescribed burn, for training purposes, of about 10 acres of grassland and coastal sage scrub on Tuesday, July 2, depending [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prescribed-training-burn-july-2-at-north-vandenberg-space-force-base/">Prescribed Training Burn July 2 at North Vandenberg Space Force Base</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prescribed-training-burn-july-2-at-north-vandenberg-space-force-base/>
+
+---
+
+## Rob Raede: Two Tuscan Gems Sparkle as Montalcino’s Hidden Culinary Treasures
+
+date: 2024-07-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/080224-rr-Ladies-day-at-the-cooking-school.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Ladies Day at Montalcino Cooking School at Tuscany’s Locanda Demetra." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/080224-rr-Ladies-day-at-the-cooking-school.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/080224-rr-Ladies-day-at-the-cooking-school.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/080224-rr-Ladies-day-at-the-cooking-school.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/080224-rr-Ladies-day-at-the-cooking-school.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/080224-rr-Ladies-day-at-the-cooking-school.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/080224-rr-Ladies-day-at-the-cooking-school.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/080224-rr-Ladies-day-at-the-cooking-school.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/080224-rr-Ladies-day-at-the-cooking-school.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/080224-rr-Ladies-day-at-the-cooking-school.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/080224-rr-Ladies-day-at-the-cooking-school.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/080224-rr-Ladies-day-at-the-cooking-school.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/080224-rr-Ladies-day-at-the-cooking-school.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/080224-rr-Ladies-day-at-the-cooking-school.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>In a small hilltop town in southern Tuscany, often overlooked by American travelers, two restaurants have perfected the art of the Italian lunch experience, in very different ways. The town? [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/rob-raede-two-tuscan-gems-sparkle-as-montalcinos-hidden-culinary-treasures/">Rob Raede: Two Tuscan Gems Sparkle as Montalcino’s Hidden Culinary Treasures</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/rob-raede-two-tuscan-gems-sparkle-as-montalcinos-hidden-culinary-treasures/>
+
+---
+
+## Three New Staff Members Join Environmental Defense Center
+
+date: 2024-07-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Environmental Defense Center (EDC) has added three new staff members Jeremy Frankel, Matt Campa and Brandi Webber. Frankel, a Goleta native, has joined the EDC legal team as a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/three-new-staff-members-join-environmental-defense-center/">Three New Staff Members Join Environmental Defense Center</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/three-new-staff-members-join-environmental-defense-center/>
+
+---
+
+## Higher Temperatures Expected Across Santa Barbara County During Fourth of July Weekend
+
+date: 2024-07-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Hot dogs, ice cream, and high temperatures are all on the menu this Fourth of July weekend as weather starts heating up across Santa Barbara County. While Santa Barbara will [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/higher-temperatures-expected-across-santa-barbara-county-during-fourth-of-july-weekend/">Higher Temperatures Expected Across Santa Barbara County During Fourth of July Weekend</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/higher-temperatures-expected-across-santa-barbara-county-during-fourth-of-july-weekend/>
+
+---
+
+## Drone Shows, Fireworks & Parades: Everything Santa Barbara County Has in Store for Fourth of July
+
+date: 2024-07-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/070423-courthouse-concert-RC-1.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A Prime Time Band concert at the Santa Barbara County Courthouse is among the free events planned for the Fourth of July this year." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/070423-courthouse-concert-RC-1.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/070423-courthouse-concert-RC-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/070423-courthouse-concert-RC-1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/070423-courthouse-concert-RC-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/070423-courthouse-concert-RC-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/070423-courthouse-concert-RC-1.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/070423-courthouse-concert-RC-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/070423-courthouse-concert-RC-1.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/070423-courthouse-concert-RC-1.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/070423-courthouse-concert-RC-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/070423-courthouse-concert-RC-1.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/070423-courthouse-concert-RC-1.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/070423-courthouse-concert-RC-1.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Now that school is out and the weather is getting warmer, Santa Barbara County communities are preparing for their first festivities of the summer.&#160; For Fourth of July, parades, concerts, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/drone-shows-fireworks-picnics-parades-everything-santa-barbara-county-has-in-store-for-fourth-of-july/">Drone Shows, Fireworks &amp; Parades: Everything Santa Barbara County Has in Store for Fourth of July</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/drone-shows-fireworks-picnics-parades-everything-santa-barbara-county-has-in-store-for-fourth-of-july/>
+
+---
+
+## Dr. Bonnie Franklin: Here’s How to Keep Pets Safe, Calm During Fourth of July Fireworks and Festivities
+
+date: 2024-07-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Fourth of July is upon us with celebrations throughout the day on Thursday, throughout Santa Barbara County. And then there are fireworks at Santa Barbara’s West Beach. We all [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dr-bonnie-franklin-heres-how-to-keep-pets-safe-calm-during-fourth-of-july-fireworks-and-festivities/">Dr. Bonnie Franklin: Here’s How to Keep Pets Safe, Calm During Fourth of July Fireworks and Festivities</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dr-bonnie-franklin-heres-how-to-keep-pets-safe-calm-during-fourth-of-july-fireworks-and-festivities/>
 
 ---
 

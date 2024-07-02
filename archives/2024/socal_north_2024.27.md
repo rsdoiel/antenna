@@ -1,11 +1,85 @@
 ---
 title: socal north 2024.27
-updated: 2024-07-01 07:59:47
+updated: 2024-07-01 18:17:05
 ---
 
 # socal north 2024.27
 
-(date: 2024-07-01 07:59:47)
+(date: 2024-07-01 18:17:05)
+
+---
+
+## 24th BET Awards celebrate Black culture with energetic musical performances
+
+date: 2024-07-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+The 2024 BET Awards dazzled on Sunday night thanks to the combined talents of dozens of Black celebrities.
+The 24th annual ceremony of &#8220;Culture&#8217;s Biggest Night&#8221; was held at the Peacock Theater in Los Angeles and presented awards to several Black superstars for their musical and filmic artistry. 
+
+<https://dailybruin.com/2024/07/01/24th-bet-awards-celebrate-black-culture-with-energetic-musical-performances/>
+
+---
+
+## Big Ten Previews
+
+date: 2024-07-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<https://dailybruin.com/tag/big-ten-previews/>
+
+---
+
+## How campuses across the UC negotiated with pro-Palestine protestors
+
+date: 2024-07-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Draft agreements and negotiation guidance obtained by the Daily Bruin revealed the UC&#8217;s approach to negotiating with pro-Palestine protesters.
+In the wake of Oct. 7, recent protests across the University of California have called for divestment from companies associated with Israel, academic boycotts of Israel studies centers and amnesty for students previously arrested while protesting, among other demands. 
+
+<https://dailybruin.com/2024/07/01/how-campuses-across-the-uc-negotiated-with-pro-palestine-protestors/>
+
+---
+
+## He used to run a nightclub. Now he’s pushing for new laws to fight drink spiking
+
+date: 2024-07-01, updated: 2024-07-01, from: The LAist
+
+Assemblymember Josh Lowenthal, who owns restaurants that serve drinks, has introduced several bills adding requirements for bar owners and drink servers to do more to prevent drink spiking. 
+
+<https://laist.com/news/politics/new-laws-to-fight-drink-spiking>
+
+---
+
+## Pierce powers up for first-ever Powwow
+
+date: 2024-07-01, from: The Round Up (Pierce College Student Newspaper)
+
+<p>With the continuous sounds of drums beating and men singing, regalia-dressed individuals—at their own moments—stepped out of the cool shadows of their tents and into</p>
+<p>The post <a href="https://theroundupnews.com/2024/07/01/pierce-powers-up-for-first-ever-powwow/">Pierce powers up for first-ever Powwow</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/07/01/pierce-powers-up-for-first-ever-powwow/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-powers-up-for-first-ever-powwow>
+
+---
+
+## Why even strong progress sheltering the unhoused in LA can't keep up with our affordable housing crisis
+
+date: 2024-07-01, updated: 2024-07-01, from: The LAist
+
+Homelessness remains high despite record housing placements, officials say, because L.A.’s affordable housing crisis keeps pushing more people onto the streets. 
+
+<https://laist.com/news/housing-homelessness/los-angeles-homeless-count-2024-inflow-eviction-housing-rents-lahsa-prevention>
+
+---
+
+## What you need to know about California's new security deposit cap, including the exceptions
+
+date: 2024-07-01, updated: 2024-07-01, from: The LAist
+
+The California security deposit law, which takes effect this July 1, limits the amount of money that landlords can require as a deposit before move in. Some mom and pop owners will be exempted. 
+
+<https://laist.com/news/housing-homelessness/what-you-need-to-know-about-californias-new-security-deposit-cap-including-the-exceptions>
 
 ---
 
@@ -62,6 +136,16 @@ date: 2024-06-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
  
 
 <https://sanfernandosun.com/2024/06/30/kamala-harris-defends-biden-at-brentwood-fundraiser/>
+
+---
+
+## To bypass state housing requirements, Huntington Beach invokes environmental concerns
+
+date: 2024-06-30, updated: 2024-07-01, from: The LAist
+
+Huntington Beach city council will consider on Tuesday whether to put a measure on the November ballot to require residents to vote on any zoning or land use change that could negatively impact the environment. It takes aim at state mandates to encourage new housing, which offer some exemptions from state environmental laws. 
+
+<https://laist.com/news/housing-homelessness/to-bypass-state-housing-requirements-huntington-beach-invokes-environmental-concerns>
 
 ---
 

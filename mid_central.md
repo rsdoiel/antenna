@@ -1,11 +1,31 @@
 ---
 title: mid central 2024.27
-updated: 2024-07-01 07:59:48
+updated: 2024-07-01 18:17:06
 ---
 
 # mid central 2024.27
 
-(date: 2024-07-01 07:59:48)
+(date: 2024-07-01 18:17:06)
+
+---
+
+## Call for Nominations for ARRL Director and Vice Director
+
+date: 2024-07-01, from: Amateur Radio Relay League News
+
+<p>Attention: Full ARRL members in the Central, Hudson, New England, Northwestern, and Roanoke Divisions. You have the opportunity to choose a Director and Vice Director to represent you for a 3-year term beginning January 1, 2025.</p><p>ARRL is governed by its Board of Directors. A voting Director is chosen by ballot by the full (licensed) ARRL members in each of its 15 Divisions. Vice Directors who ser...</p> 
+
+<http://www.arrl.org/news/view/call-for-nominations-for-arrl-director-and-vice-director-1>
+
+---
+
+## ARRL Systems Service Disruption
+
+date: 2024-07-01, from: Amateur Radio Relay League News
+
+<p><strong>Updated 07/01/2024</strong></p><p>Effective 12:00pm ET / 16:00 UTC we will be returning Logbook of The World® (LoTW®) to service. </p><p>As work progressed on the network, some users encountered LoTW opening briefly during which some 6600 logs were uploaded. The logs were not processed until this weekend as we tested that the interfaces to LoTW were functioning properly.</p><p>We are taking steps to help manage what will li...</p> 
+
+<http://www.arrl.org/news/view/arrl-systems-service-disruption>
 
 ---
 
@@ -37,7 +57,7 @@ date: 2024-07-01, from: EDN Blog
 
 date: 2024-06-30, from: Amateur Radio Relay League News
 
-<p>Amateur Radio is active to provide critical communications for those in the path of Hurricane Beryl. The following information is from Bobby Graves, KB5HAV, the Net Manager of the Hurricane Watch Net.</p><p><strong>Sunday, June 30, 2024, AM update</strong>:</p><p>Overnight, Beryl grew into a strong Category 3 Hurricane. As of 8:00 AM EDT (1200 UTC), Beryl was located about 420 east of Barbados moving to the west or 280 degre...</p> 
+<p>Amateur Radio is active to provide critical communications for those in the path of Hurricane Beryl.</p><p><strong>Monday, July 1, 2024, AM update:</strong><br /><br />This information is from Lloyd Colston, KC5FM:</p><p>As Hurricane Beryl churns toward the Leeward Islands, members of the VOIP Skywarn Net, Auxcomm USA, and the Sunflower System plan for activation during the day Monday.</p><p></p><p>Currently, Beryl is a dangerous Category Four storm ...</p> 
 
 <http://www.arrl.org/news/view/hurricane-beryl-hurricane-watch-net-active>
 

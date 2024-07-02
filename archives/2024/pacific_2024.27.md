@@ -1,11 +1,177 @@
 ---
 title: pacific 2024.27
-updated: 2024-07-01 07:59:48
+updated: 2024-07-01 18:17:05
 ---
 
 # pacific 2024.27
 
-(date: 2024-07-01 07:59:48)
+(date: 2024-07-01 18:17:05)
+
+---
+
+## Native American tribes sing, craft, dance with UH group in Maine
+
+date: 2024-07-02, from: University of Hawaiʻi News
+
+<p>A group from four <abbr>UH</abbr> campuses traveled to Maine to interact with four Indigenous nations.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/01/hawaii-pamaomao-maine/">Native American tribes sing, craft, dance with <abbr>UH</abbr> group in Maine</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/01/hawaii-pamaomao-maine/>
+
+---
+
+## Q&A: Student explores science, policy in Washington
+
+date: 2024-07-02, from: University of Hawaiʻi News
+
+<p><abbr>HIMB</abbr> doctoral student Jacob Snyder explored the intersection of science and policy at the <abbr>AMS</abbr> Summer Policy Colloquium in Washington D.C.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/01/jacob-synder-himb/">Q&A: Student explores science, policy in Washington</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/01/jacob-synder-himb/>
+
+---
+
+## Institute of Education Updates Professional Certificate in Education Policy and Planning (PCEPP)
+
+date: 2024-07-02, from: University of the South Pacific (Fiji)
+
+<p>A classroom filled with children but limited learning and teaching resources, insufficient teachers of whom...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/institute-of-education-updates-professional-certificate-in-education-policy-and-planning-pcepp/">Institute of Education Updates Professional Certificate in Education Policy and Planning (PCEPP)</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/institute-of-education-updates-professional-certificate-in-education-policy-and-planning-pcepp/>
+
+---
+
+## Tapestry of Pacific ambiguities: Political tensions against the backdrop of FestPac celebrations
+
+date: 2024-07-01, from: Pacific Island Times
+
+The focus of the Festival of Pacific Arts, or FestPac, is always culture, and the 13th iteration held in June 2024 in Hawai’i was no... 
+
+<https://www.pacificislandtimes.com/post/tapestry-of-pacific-ambiguities-political-tensions-against-the-backdrop-of-festpac-celebrations>
+
+---
+
+## Pandemic newborns in India more likely to have lower birth weight
+
+date: 2024-07-01, from: University of Hawaiʻi News
+
+<p><abbr>LBW</abbr> is defined as a birth weight less than 2,500 grams or approximately 5.5 lbs.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/01/pandemic-newborns-birth-weight/">Pandemic newborns in India more likely to have lower birth weight</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/01/pandemic-newborns-birth-weight/>
+
+---
+
+## July 2024 anniversaries
+
+date: 2024-07-01, from: University of Hawaiʻi News
+
+<p>The University of <span aria-label="Hawaii">Hawai&#699;i</span> celebrates July 2024 faculty and staff anniversaries.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/01/july-2024-anniversaries/">July 2024 anniversaries</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/01/july-2024-anniversaries/>
+
+---
+
+## 6-30-24 Budweiser Basa Championship - Master Sufa v. Asahi
+
+date: 2024-07-01, updated: 2024-07-01, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/sports/localsports/6-30-24-budweiser-basa-championship---master-sufa-v-asahi/article_563c72c6-36d5-11ef-9a2e-3f9c4b69b648.html>
+
+---
+
+## OPINION ǀ Truth 57: If it Ain’t Broke, Don’t Fix It — KISS!!!
+
+date: 2024-07-01, updated: 2024-07-01, from: Marianas Variety
+
+THE TRUTH of the matter is the fact that WE (the CNMI) have done all we can now do about China and it’s time to “pivot” away our focus to things that NEED to be FIXED!  I do want to commend what I see as a real partnership between MVA Managing Director Mr. Conception and the Governor who are obviously working hard together to revive our Tourism Industry. It is also obvious Mr. Conception knows the industry and knows what he is talking about, but even with that said the Governor and MVA need HELP to turn things around. There is all this talk about China when WE KNOW the casino is dead and America’s relationship with China is on-the-ropes and the last I heard, the CNMI is part of America. Instead of working on things like the casino &amp; China that ain’t broke but indeed “dead &amp; even DONE.” WE need to fix the things we can and control it using the KISS Methodology with our Economy Ambrose M. Bennett — for TRUE, so make sure you read my next Op ed on fixing the broken CC &amp; Hotel. 
+
+<https://www.mvariety.com/views/columnists/opinion-truth-57-if-it-ain-t-broke-don-t-fix-it-kiss/article_29645dd8-376e-11ef-8959-f31ef54f1cd7.html>
+
+---
+
+## Ex-President Duterte’s Senate election bid poses threat to former ally Marcos
+
+date: 2024-07-01, updated: 2024-07-01, from: Marianas Variety
+
+MANILA (Reuters) — The Philippines' dominant Marcos and Duterte political dynasties, uneasy allies for two years, are gearing up for an election showdown that could upset policy stability in the Southeast Asian nation in the coming years. 
+
+<https://www.mvariety.com/news/regional_world/ex-president-duterte-s-senate-election-bid-poses-threat-to-former-ally-marcos/article_7199469e-37b5-11ef-a4b6-87e3d6b00a71.html>
+
+---
+
+## Top Democrats rule out replacing Biden amid calls for him to quit 2024 race
+
+date: 2024-07-01, updated: 2024-07-01, from: Marianas Variety
+
+WASHINGTON (Reuters) — Top Democrats on Sunday ruled out the possibility of replacing President Joe Biden as the Democratic nominee after a feeble debate performance and called on party members to focus instead on the consequences of a second Donald Trump presidency. 
+
+<https://www.mvariety.com/news/national/top-democrats-rule-out-replacing-biden-amid-calls-for-him-to-quit-2024-race/article_d369a706-37b5-11ef-8b02-37614ee7b052.html>
+
+---
+
+## Pacifica Insurance sponsors $75K hole-in-one prize for Joeten Memorial Golf Classic
+
+date: 2024-07-01, updated: 2024-07-01, from: Marianas Variety
+
+Pacifica Insurance Underwriters is proud to be a longtime supporter of the Joeten Daidai Foundation. PIU has committed as a Founder’s Club sponsor for this year’s Joeten Memorial Golf Classic, which benefits the JDF foundation. This year’s tournament will feature a hole-in-one prize of $75,000 sponsored by PIU. Swing to win at Hole #11 and best of luck to all the golfers this coming Saturday, July 6, at LaoLao Bay Golf &amp; Resort. 
+
+<https://www.mvariety.com/sports/localsports/pacifica-insurance-sponsors-75k-hole-in-one-prize-for-joeten-memorial-golf-classic/article_08fb6fca-37b7-11ef-a2e2-0ffc56077c15.html>
+
+---
+
+## MLB roundup: Surging Astros cool off Mets in 11th
+
+date: 2024-07-01, updated: 2024-07-01, from: Marianas Variety
+
+(Reuters) — Trey Cabbage's two-run double capped a five-run 11th inning for the visiting Houston Astros, who moved over .500 for the first time this season with a 10-5 win over the New York Mets on Sunday in the rubber match of a three-game series. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-surging-astros-cool-off-mets-in-11th/article_77629408-37b6-11ef-8441-db95289b6981.html>
+
+---
+
+## Jones, Sablan named Finals and Regular Season MVPs
+
+date: 2024-07-01, updated: 2024-07-01, from: Marianas Variety
+
+ANSON Jones of Asahi, which claimed the 2024 Belau Amateur Softball Association League championship, was named the Finals’ Most Valuable Player at the Dandan baseball field on Sunday. 
+
+<https://www.mvariety.com/sports/localsports/jones-sablan-named-finals-and-regular-season-mvps/article_771208ca-37b7-11ef-8da9-3fd5c313e1d5.html>
+
+---
+
+## ‘I’m free!’ says newly sworn in LGBTQ US citizen
+
+date: 2024-07-01, updated: 2024-07-01, from: Marianas Variety
+
+“I’M free!” said William Arago Abu, a member of the LGBTQ community, after he was sworn in as an American citizen on Monday, July 1. 
+
+<https://www.mvariety.com/news/local/i-m-free-says-newly-sworn-in-lgbtq-us-citizen/article_96646d0c-37b3-11ef-acae-c7801d4dfbfb.html>
+
+---
+
+## 2024 Pride Talks highlight queer experiences
+
+date: 2024-07-01, updated: 2024-07-01, from: Marianas Variety
+
+THE Northern Marianas Humanities Council marked the end of Pride Month on June 28 by hosting its annual Pride Talks panel discussion at Bravo Restaurant in Garapan. 
+
+<https://www.mvariety.com/news/local/2024-pride-talks-highlight-queer-experiences/article_3504c44a-378a-11ef-aa49-d322a9f56716.html>
+
+---
+
+## Bill would authorize CPUC to review seaport charges
+
+date: 2024-07-01, updated: 2024-07-01, from: Marianas Variety
+
+SENATOR Paul A. Manglona has prefiled Senate Bill 23-65, which would authorize the Commonwealth Public Utilities Commission to review charges at CNMI seaports. 
+
+<https://www.mvariety.com/news/local/bill-would-authorize-cpuc-to-review-seaport-charges/article_56999caa-3778-11ef-829d-573365b5f000.html>
 
 ---
 
@@ -266,6 +432,18 @@ date: 2024-07-01, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/07/01/opinion/after-years-of-running-i-quit-and-took-up-pilates-heres-how-that-turned-out/>
+
+---
+
+## Denver man drowns at Kehena
+
+date: 2024-07-01, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Island police are investigating the possible drowning of a 53-year-old man visiting from Colorado Saturday morning at Kehena Beach in lower Puna.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/01/hawaii-news/denver-man-drowns-at-kehena/>
 
 ---
 

@@ -1,11 +1,81 @@
 ---
 title: motorcycles 2024.27
-updated: 2024-07-01 07:59:52
+updated: 2024-07-01 18:17:09
 ---
 
 # motorcycles 2024.27
 
-(date: 2024-07-01 07:59:52)
+(date: 2024-07-01 18:17:09)
+
+---
+
+## “Aprilia Tuareg Queen of Africa” is Online
+
+date: 2024-07-01, from: Cycle World News
+
+Aprilia Tuareg went down in history with one of the most epic performances of recent years in the big African rally raids. 
+
+<https://www.cycleworld.com/the-wire/aprilia-tuareg-queen-of-africa-online/>
+
+---
+
+## Royal Enfield Guerrilla 450 First Details
+
+date: 2024-07-01, from: Cycle World News
+
+It was inevitable that Royal Enfield would utilize its new liquid-cooled 452cc engine platform in other models. The Guerrilla 450 will be the first of them. 
+
+<https://www.cycleworld.com/motorcycle-news/royal-enfield-guerrilla-450-first-details/>
+
+---
+
+## Ongoing Cup rivalry claims Chastain as collateral damage in Nashville
+
+date: 2024-07-01, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer Instead of celebrating the final day of June by smashing watermelon on concrete in the summer heat, or with a podium finish at worst, Ross&#8230;  
+
+<https://kickinthetires.net/nascar/ongoing-cup-rivalry-claims-chastain-as-collateral-damage-in-nashville/>
+
+---
+
+## Kyle Larson Scores Top-10 Finish Amid Nashville Craziness
+
+date: 2024-07-01, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor Despite igniting a late-race pileup and running out of fuel in overtime, Kyle Larson recovered to score a top-10 finish in the Ally 400 at&#8230;  
+
+<https://kickinthetires.net/nascar/larson-scores-top-10-nashville-craziness/>
+
+---
+
+## Was Honda’s Oval-Piston NR500 a Failure?
+
+date: 2024-07-01, from: Cycle World News
+
+Honda’s oval-piston V-4 NR500 racers may not have won a championship, but the concepts that came from it are in wide use today. 
+
+<https://www.cycleworld.com/blogs/ask-kevin/honda-nr500-failure-or-success/>
+
+---
+
+## Harley-Davidson Pan America 1250 Riders Notch Two Wins in Super Hooligan Racing at Ridge Motorsports Park
+
+date: 2024-07-01, from: Cycle World News
+
+KWR/Harley-Davidson rider Cody Wyman and Team Saddlemen/Harley-Davidson rider Jake Lewis each rode race-prepared Harley-Davidson Pan America 1250 Special motorcycles to victory. 
+
+<https://www.cycleworld.com/the-wire/harley-davidson-pan-america-1250-riders-notch-two-wins-in-super-hooligan-racing-at-ridge-motorsports-park/>
+
+---
+
+## This Super Rare Motorcycle Barn Find Is up for Auction, So Buy It Before We Do
+
+date: 2024-07-01, from: Ride Apart, Electric Motorcycle News
+
+You could buy virtually any other production bike for this much cash. 
+
+<https://www.rideapart.com/news/724955/vincent-black-shadow-barn-auction/>
 
 ---
 
@@ -99,7 +169,7 @@ NORWALK, Ohio (June 30, 2024) – Three-time Top Fuel world champion Antron Bro
 
 ---
 
-## This Trike Was Imagined Using AI, and Then Made Out of Wood
+## This Trike Was Designed Using AI, and Then Made Out of Wood
 
 date: 2024-06-30, from: Ride Apart, Electric Motorcycle News
 

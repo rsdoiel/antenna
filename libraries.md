@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.27
-updated: 2024-07-01 07:59:51
+updated: 2024-07-01 18:17:08
 ---
 
 # libraries 2024.27
 
-(date: 2024-07-01 07:59:51)
+(date: 2024-07-01 18:17:08)
 
 ---
 
@@ -98,6 +98,16 @@ date: 2024-07-01, from: ETH Zurich, recently added
 Miescher, Iris; Schaffner, Nicola; Rieber, Julia Sarah; Meier Bürgisser, Gabriella; Ongini, Esteban; Yang, Yao; Milionis, Athanasios; Vogel, Viola; Snedeker, Jess Gerrit; Calcagni, Maurizio; Buschmann, Johanna Emilie Else 
 
 <http://hdl.handle.net/20.500.11850/679839>
+
+---
+
+## Microcontroller Based Particulate Matter Monitors Utilising the Alphasense OPC-N3
+
+date: 2024-07-01, from: ETH Zurich, recently added
+
+Hirsch, Valentin 
+
+<http://hdl.handle.net/20.500.11850/681057>
 
 ---
 

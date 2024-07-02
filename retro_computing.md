@@ -1,11 +1,41 @@
 ---
 title: retro computing 2024.27
-updated: 2024-07-01 07:59:52
+updated: 2024-07-01 18:17:09
 ---
 
 # retro computing 2024.27
 
-(date: 2024-07-01 07:59:52)
+(date: 2024-07-01 18:17:09)
+
+---
+
+## b.log 2024/07/01 - Less power today?, Telephone lines in the air, My registered letter, The world is falling apart.
+
+date: 2024-07-01, from: Richard Murray's blog
+
+Less power today?, Telephone lines in the air, My registered letter, The world is falling apart. 
+
+<https://heyrick.eu/blog/index.php?diary=20240701>
+
+---
+
+## WROCC July 2024 meeting on wednesday - Chris Hughes and Peter Richmond
+
+date: 2024-07-01, from: Icon Bar, RISC OS News
+
+The July 2024 WROCC meeting is another double bill - two talks for the price of one! As usual it takes place on Zoom (Wakefield is anywhere in the world) and kicks off at 7.45pm 
+
+<http://www.iconbar.com/comments/rss/news2080.html>
+
+---
+
+## Debian 12.6 Released with Plenty of Bug Fixes and Updates
+
+date: 2024-07-01, from: Linux Magazine
+
+<p>The sixth update to Debian &quot;Bookworm&quot; is all about security mitigations and making adjustments for some &quot;serious problems.&quot;</p> 
+
+<http://www.linux-magazine.com/Online/News/Debian-12.6-Released-with-Plenty-of-Bug-Fixes-and-Updates>
 
 ---
 
