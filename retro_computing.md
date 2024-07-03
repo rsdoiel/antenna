@@ -1,11 +1,34 @@
 ---
 title: retro computing 2024.27
-updated: 2024-07-02 08:55:03
+updated: 2024-07-03 09:14:45
 ---
 
 # retro computing 2024.27
 
-(date: 2024-07-02 08:55:03)
+(date: 2024-07-03 09:14:45)
+
+---
+
+## Unbuilt Masterpiece: The Call Building
+
+date: 2024-07-03, from: Hooked on the Past blog
+
+<p>I recently contributed to the Frank Lloyd Wright Foundation&#8217;s quarterly magazine for a special issue on Wright&#8217;s high-rises, including the famous Mile-High Illinois. But one design always stood out for me: the beautiful Call Building A fellow Wright enthusiast, Theodore Zheng, a game art designer, reached out to me and after a quick email exchange,... </p>
+<div class="link-more"><a href="http://www.hookedonthepast.com/unbuilt-masterpiece-the-call-building/">Read More</a></div>
+<p>The post <a href="http://www.hookedonthepast.com/unbuilt-masterpiece-the-call-building/">Unbuilt Masterpiece: The Call Building</a> appeared first on <a href="http://www.hookedonthepast.com">Hooked On The Past</a>.</p>
+ 
+
+<http://www.hookedonthepast.com/unbuilt-masterpiece-the-call-building/>
+
+---
+
+## Two meetings coming up – WROCC on Wednesday, developers on Saturday
+
+date: 2024-07-02, from: RiscOS Story
+
+The Wakefield RISC OS Computer Club (WROCC) will be holding their next meeting on Wednesday, 3rd July, at 7:45pm, with a &#8216;Potpourri&#8217; topic &#8211; i.e. a mix of various short talks, rather than one to cover the whole meeting. The first talk will be delivered by Peter Richmond, who will take a look at Draw in a segment entitled &#8216;Things to do with Draw&#8217;. Chris Hughes will then look at the RISC OS Developments&#8217; network stack and Wi-Fi, as well as the latest Beta version of Pinboard 2, covering some&#8230; 
+
+<https://www.riscository.com/2024/wrocc-wednesday-developers-saturday/>
 
 ---
 

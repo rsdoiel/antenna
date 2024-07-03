@@ -1,11 +1,89 @@
 ---
 title: socal north 2024.27
-updated: 2024-07-02 08:54:57
+updated: 2024-07-03 09:14:38
 ---
 
 # socal north 2024.27
 
-(date: 2024-07-02 08:54:57)
+(date: 2024-07-03 09:14:38)
+
+---
+
+## In stunning reversal, Gavin Newsom backs down on crime measure
+
+date: 2024-07-03, updated: 2024-07-03, from: The LAist
+
+The governor withdraws the proposed ballot measure that he and Democratic legislative leaders just announced. He says he ran out of time to add amendments to ensure its success. 
+
+<https://laist.com/news/politics/in-stunning-reversal-gavin-newsom-backs-down-on-crime-measure>
+
+---
+
+## Port of Hueneme Cares About Air Data Just a Click Away
+
+date: 2024-07-02, from: Port Hueneme
+
+<p>Port makes significant investments in air quality monitoring equipment and web-based data-sharing Download Press Release Contact: Letitia Austin Public and Gov’t Relations Manager Laustin@Portofh.org &#160; [Port Hueneme, CA – June&#8230;</p>
+<p>The post <a href="https://www.portofhueneme.org/air-quality-data-available-to-the-public-in-oxnard-and-port-hueneme/">Port of Hueneme Cares About Air Data Just a Click Away</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
+ 
+
+<https://www.portofhueneme.org/air-quality-data-available-to-the-public-in-oxnard-and-port-hueneme/>
+
+---
+
+## Westwood’s Pret A Manger successfully draws in students with fresh food, drinks
+
+date: 2024-07-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+At the corner of Westwood Boulevard and Le Conte Avenue is a brand new coffee shop, bustling with activity from UCLA students and Westwood community members alike. 
+
+<https://dailybruin.com/2024/07/02/westwoods-pret-a-manger-successfully-draws-in-students-with-fresh-food-drinks/>
+
+---
+
+## Stay Cool and Safe During the Fourth of July Holiday
+
+date: 2024-07-02, from: City of Santa Clarita
+
+<p>With an excessive heat warning in effect this week, the City of Santa Clarita strongly urges residents to prioritize heat safety and preparedness during the Fourth of July Parade and the holiday weekend. Residents planning to attend the parade are encouraged to stay hydrated by bringing extra water. Wear lightweight, light-colored and loose-fitting clothing, and [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/07/02/stay-cool-and-safe-during-the-fourth-of-july-holiday/">Stay Cool and Safe During the Fourth of July Holiday</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/07/02/stay-cool-and-safe-during-the-fourth-of-july-holiday/>
+
+---
+
+## Campus entrances to remain restricted for the foreseeable future
+
+date: 2024-07-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Senior University administrators will soon decide whether restrictions will extend into the fall.</p>
+<p>The post <a href="https://dailytrojan.com/2024/07/02/campus-entrances-to-remain-restricted-for-the-foreseeable-future/">Campus entrances to remain restricted for the foreseeable future</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/07/02/campus-entrances-to-remain-restricted-for-the-foreseeable-future/>
+
+---
+
+## Music preview: Summer sound landscape encompasses multiple genres, incoming, revered superstars
+
+date: 2024-07-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+This summer, the diverse sonic landscape of 2024 is set to continue.
+With vibrant releases across multiple genres, listeners are sure to find new songs to soundtrack the memories they&#8217;ll make in the year&#8217;s hottest season. 
+
+<https://dailybruin.com/2024/07/02/music-preview-summer-sound-landscape-encompasses-multiple-genres-incoming-revered-superstars/>
+
+---
+
+## Space Workforce 2030 broadens horizons of diversity in aerospace engineering
+
+date: 2024-07-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated July 2 at 8:12 p.m.</em>
+Space Workforce 2030 is reaching out to students – from elementary schoolers to doctoral candidates – to build a more diverse community of aerospace engineers. 
+
+<https://dailybruin.com/2024/07/02/space-workforce-2030-broadens-horizons-of-diversity-in-aerospace-engineering/>
 
 ---
 
@@ -183,7 +261,7 @@ date: 2024-06-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 ## To bypass state housing requirements, Huntington Beach invokes environmental concerns
 
-date: 2024-06-30, updated: 2024-07-01, from: The LAist
+date: 2024-06-30, updated: 2024-07-02, from: The LAist
 
 Huntington Beach city council will consider on Tuesday whether to put a measure on the November ballot to require residents to vote on any zoning or land use change that could negatively impact the environment. It takes aim at state mandates to encourage new housing, which offer some exemptions from state environmental laws. 
 

@@ -1,11 +1,136 @@
 ---
 title: central coast 2024.27
-updated: 2024-07-02 08:54:59
+updated: 2024-07-03 09:14:40
 ---
 
 # central coast 2024.27
 
-(date: 2024-07-02 08:54:59)
+(date: 2024-07-03 09:14:40)
+
+---
+
+## Goleta City Council Meetings to Have In-person Spanish Interpretation
+
+date: 2024-07-03, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Starting at the next Goleta City Council meeting on July 16, and for all City Council meetings moving forward, there will be in-person simultaneous Spanish interpretation and Spanish agendas. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-city-council-meetings-to-have-in-person-spanish-interpretation/">Goleta City Council Meetings to Have In-person Spanish Interpretation</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goleta-city-council-meetings-to-have-in-person-spanish-interpretation/>
+
+---
+
+## Ron Fink: Supreme Court Clears the Way – to Clear the Way
+
+date: 2024-07-03, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>According to a Cal Matters report published in Noozhawk last week, the U.S. Supreme Court “granted cities more power to arrest, cite and fine people who sleep outside in public [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ron-fink-supreme-court-clears-the-way-to-clear-the-way/">Ron Fink: Supreme Court Clears the Way – to Clear the Way</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ron-fink-supreme-court-clears-the-way-to-clear-the-way/>
+
+---
+
+## Heavenly View
+
+date: 2024-07-03, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061524-POD-Ed-Edick.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Heavenly view at the Santa Barbara Mission." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061524-POD-Ed-Edick.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061524-POD-Ed-Edick.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061524-POD-Ed-Edick.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061524-POD-Ed-Edick.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061524-POD-Ed-Edick.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061524-POD-Ed-Edick.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061524-POD-Ed-Edick.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061524-POD-Ed-Edick.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061524-POD-Ed-Edick.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061524-POD-Ed-Edick.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061524-POD-Ed-Edick.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061524-POD-Ed-Edick.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/06/061524-POD-Ed-Edick.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/heavenly-view/">Heavenly View</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/heavenly-view/>
+
+---
+
+## Santa Barbara Council Adopts Climate Action Plan Outlining Emissions Goals
+
+date: 2024-07-03, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Climate-Action-Plan-Infographic-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara&#039;s top greenhouse gas emissions infographic." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Climate-Action-Plan-Infographic-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Climate-Action-Plan-Infographic-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Climate-Action-Plan-Infographic-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Climate-Action-Plan-Infographic-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Climate-Action-Plan-Infographic-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Climate-Action-Plan-Infographic-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Climate-Action-Plan-Infographic-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Climate-Action-Plan-Infographic-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Climate-Action-Plan-Infographic-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Climate-Action-Plan-Infographic-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara City Councilwoman Kristen Sneddon said she was recently asked about her legacy. Sneddon has served for seven years on the City Council. She could run for mayor one [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-council-adopts-climate-action-plan-outlining-emissions-goals/">Santa Barbara Council Adopts Climate Action Plan Outlining Emissions Goals</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-council-adopts-climate-action-plan-outlining-emissions-goals/>
+
+---
+
+## Shark Alert! ‘Jaws’ the First in Free Summer Cinema Series in Santa Barbara
+
+date: 2024-07-03, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070124-jaws-poster-summer-cinema.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The Summer Cinema series is starting strong with &quot;Jaws&quot; this Friday at the Santa Barbara County Courthouse." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070124-jaws-poster-summer-cinema.jpg?w=1047&amp;ssl=1 1047w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070124-jaws-poster-summer-cinema.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070124-jaws-poster-summer-cinema.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070124-jaws-poster-summer-cinema.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070124-jaws-poster-summer-cinema.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070124-jaws-poster-summer-cinema.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070124-jaws-poster-summer-cinema.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Opening shot: popular seaside town during the Fourth of July holiday. Cut to: beaches jammed with tourists and locals sunning, splashing and swimming. Close up: beautiful woman swims alone outside [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/shark-alert-jaws-the-first-in-santa-barbaras-free-summer-cinema-series/">Shark Alert! &#8216;Jaws&#8217; the First in Free Summer Cinema Series in Santa Barbara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/shark-alert-jaws-the-first-in-santa-barbaras-free-summer-cinema-series/>
+
+---
+
+## Dan McCaslin: More About Rattlesnake Canyon Trail Bench and Signpost Saga
+
+date: 2024-07-03, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062724-Rattlesnake-Canyon-Wilderness-Area-main-sign-dm.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The main sign for the Rattlesnake Canyon Wilderness Area." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062724-Rattlesnake-Canyon-Wilderness-Area-main-sign-dm.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062724-Rattlesnake-Canyon-Wilderness-Area-main-sign-dm.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062724-Rattlesnake-Canyon-Wilderness-Area-main-sign-dm.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062724-Rattlesnake-Canyon-Wilderness-Area-main-sign-dm.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062724-Rattlesnake-Canyon-Wilderness-Area-main-sign-dm.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062724-Rattlesnake-Canyon-Wilderness-Area-main-sign-dm.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062724-Rattlesnake-Canyon-Wilderness-Area-main-sign-dm.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062724-Rattlesnake-Canyon-Wilderness-Area-main-sign-dm.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062724-Rattlesnake-Canyon-Wilderness-Area-main-sign-dm.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/062724-Rattlesnake-Canyon-Wilderness-Area-main-sign-dm.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>We’ve learned more about the Rattlesnake Canyon “bench” issue after a June 25 email from Jazmin LeBlanc, assistant director for Santa Barbara Parks &#38; Recreation. The since-removed bench I photographed [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dan-mccaslin-more-about-the-rattlesnake-canyon-trail-bench-and-signpost-saga/">Dan McCaslin: More About Rattlesnake Canyon Trail Bench and Signpost Saga</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dan-mccaslin-more-about-the-rattlesnake-canyon-trail-bench-and-signpost-saga/>
+
+---
+
+## Tracy Beckerman: A Wolf in Mom’s Clothing
+
+date: 2024-07-03, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>“I think I’m turning into a werewolf,” I told my dermatologist as I sat on the examining table in her office. There were posters on the wall and pamphlets for [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/tracy-beckerman-a-wolf-in-moms-clothing/">Tracy Beckerman: A Wolf in Mom’s Clothing</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/tracy-beckerman-a-wolf-in-moms-clothing/>
+
+---
+
+## Firefly’s Alpha Rocket Skips Tuesday Launch Try; Next Attempt Uncertain
+
+date: 2024-07-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Firefly-Alpha-Noise-of-Summer1-cont-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A Firefly Aerospace Alpha rocket&#039;s payload fairing sports the NASA logo since it will deliver eight CubeSats." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Firefly-Alpha-Noise-of-Summer1-cont-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Firefly-Alpha-Noise-of-Summer1-cont-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Firefly-Alpha-Noise-of-Summer1-cont-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Firefly-Alpha-Noise-of-Summer1-cont-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Firefly-Alpha-Noise-of-Summer1-cont-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Firefly-Alpha-Noise-of-Summer1-cont-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Firefly-Alpha-Noise-of-Summer1-cont-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Firefly-Alpha-Noise-of-Summer1-cont-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Firefly-Alpha-Noise-of-Summer1-cont-2000.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-Firefly-Alpha-Noise-of-Summer1-cont-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Firefly Aerospace won’t try for liftoff of its Alpha rocket on Tuesday night at Vandenberg Space Force Base, and the next try remains up in the air.  “Firefly has decided [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/fireflys-alpha-rocket-skips-tuesday-launch-try-next-attempt-uncertain/">Firefly&#8217;s Alpha Rocket Skips Tuesday Launch Try; Next Attempt Uncertain</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/fireflys-alpha-rocket-skips-tuesday-launch-try-next-attempt-uncertain/>
+
+---
+
+## Crisis-Stabilization Unit Now Operating as Locked Mental Health Facility
+
+date: 2024-07-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara County’s crisis-stabilization unit has reopened, and is designated as a locked mental health facility, so it can accept clients on &#8220;5150&#8221; mental health holds. The hope is to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/countys-crisis-stabilization-unit-now-operating-as-locked-mental-health-facility/">Crisis-Stabilization Unit Now Operating as Locked Mental Health Facility</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/countys-crisis-stabilization-unit-now-operating-as-locked-mental-health-facility/>
+
+---
+
+## Highway 154 Will Partially Reopen This Week
+
+date: 2024-07-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="984" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-caltrans-154-horizontal-drilling.jpg?fit=1024%2C984&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A drill rig installing horizontal dowels on Highway 154 to stabilize the roadway." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-caltrans-154-horizontal-drilling.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-caltrans-154-horizontal-drilling.jpg?resize=300%2C288&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-caltrans-154-horizontal-drilling.jpg?resize=1024%2C984&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-caltrans-154-horizontal-drilling.jpg?resize=768%2C738&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-caltrans-154-horizontal-drilling.jpg?resize=1536%2C1475&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-caltrans-154-horizontal-drilling.jpg?resize=2048%2C1967&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-caltrans-154-horizontal-drilling.jpg?resize=1200%2C1153&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-caltrans-154-horizontal-drilling.jpg?resize=1568%2C1506&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-caltrans-154-horizontal-drilling.jpg?resize=2000%2C1921&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-caltrans-154-horizontal-drilling.jpg?resize=400%2C384&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-caltrans-154-horizontal-drilling.jpg?resize=706%2C678&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070224-caltrans-154-horizontal-drilling.jpg?fit=1024%2C984&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Residents who rely on Highway 154 will see some relief as officials plan to partially reopen the roadway this week. Caltrans announced that it will install a reversible traffic signal [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/highway-154-will-partially-reopen-this-week/">Highway 154 Will Partially Reopen This Week</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/highway-154-will-partially-reopen-this-week/>
 
 ---
 

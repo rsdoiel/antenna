@@ -1,11 +1,35 @@
 ---
 title: libraries 2024.27
-updated: 2024-07-02 08:55:02
+updated: 2024-07-03 09:14:43
 ---
 
 # libraries 2024.27
 
-(date: 2024-07-02 08:55:02)
+(date: 2024-07-03 09:14:43)
+
+---
+
+## Out of Office: Summer Vacation
+
+date: 2024-07-03, from: Scholarly Kitchen
+
+<p>We're out of office until next week. But is anyone really out of office these days?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/07/03/out-of-office-summer-vacation/">Out of Office: Summer Vacation</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/07/03/out-of-office-summer-vacation/>
+
+---
+
+## May/June 2024
+
+date: 2024-07-02, from: Association of Research Libraries News
+
+<p>Last Updated on July 2, 2024, 3:42 pm ET ARL Public Policy Briefing (May/June 2024) This issue includes: Canada’s 2024 Federal Budget Reflects CARL Priorities Right to Repair Canada Book...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/may-june-2024/">May/June 2024</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/may-june-2024/>
 
 ---
 

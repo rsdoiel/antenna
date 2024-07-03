@@ -1,11 +1,111 @@
 ---
 title: games 2024.27
-updated: 2024-07-02 08:55:02
+updated: 2024-07-03 09:14:42
 ---
 
 # games 2024.27
 
-(date: 2024-07-02 08:55:02)
+(date: 2024-07-03 09:14:42)
+
+---
+
+## FFXIV Endwalker Manderville relic weapon guide, quest, and steps
+
+date: 2024-07-03, updated: 2024-07-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23410988/endwalker-relic-weapon-manderville-steps-upgrade-requirements>
+
+---
+
+## The 30 best movies on Netflix right now
+
+date: 2024-07-03, updated: 2024-07-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/21266801/best-movies-on-netflix>
+
+---
+
+## Polygon’s staff-approved collection of bathroom accessories to power up your shower
+
+date: 2024-07-03, updated: 2024-07-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24190021/bathroom-bath-shower-self-care-accessories-gadgets>
+
+---
+
+## Aemond’s nude House of the Dragon scene is about way more than just seeing a penis
+
+date: 2024-07-03, updated: 2024-07-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24191087/house-dragon-nude-scene-aemond-power-king-shit>
+
+---
+
+## Despicable Me 4 has an unusual flaw: too much plot potential
+
+date: 2024-07-03, updated: 2024-07-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24191034/despicable-me-4-review-mega-minions-gru>
+
+---
+
+## Not sure what movie to watch this weekend? Leave a comment, we’ll help
+
+date: 2024-07-03, updated: 2024-07-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/2024/7/3/24190782/best-movies-watch-tonight-best-recommendations-streaming>
+
+---
+
+## How to get the Magneto skin in Fortnite Chapter 5 Season 3
+
+date: 2024-07-03, updated: 2024-07-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/fortnite-guide/24163936/magneto-skin-release-date-how-to-get>
+
+---
+
+## The Dark Side has never been more seductive than Manny Jacinto in The Acolyte
+
+date: 2024-07-03, updated: 2024-07-03, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/star-wars/24191278/star-wars-acolyte-manny-jacinto-is-hot-episode-6>
+
+---
+
+## So we’ve all been saying ‘scadutree’ wrong
+
+date: 2024-07-02, updated: 2024-07-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24191083/how-to-pronounce-scadutree-elden-ring>
+
+---
+
+## Uh-oh, somebody told the Microsoft Flight Sim 2024 devs about LIDAR
+
+date: 2024-07-02, updated: 2024-07-02, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24190684/microsoft-flight-simulator-2024-improvements-lidar-terrain-magic>
 
 ---
 

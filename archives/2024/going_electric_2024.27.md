@@ -1,11 +1,545 @@
 ---
 title: going electric 2024.27
-updated: 2024-07-02 08:55:04
+updated: 2024-07-03 09:14:45
 ---
 
 # going electric 2024.27
 
-(date: 2024-07-02 08:55:04)
+(date: 2024-07-03 09:14:45)
+
+---
+
+## Subaru Solterra U.S. Sales More Than Doubled In June And Q2 2024
+
+date: 2024-07-03, from: Inside EVs News
+
+Solterra's cousins—Toyota bZ4X and Lexus RZ—also surged in Q2. 
+
+<https://insideevs.com/news/725374/subaru-solterra-us-sales-june2024/>
+
+---
+
+## Is Tesla’s energy business finally boosting the stock?
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Megapack-Canada.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s stock (TSLA) is surging right now, and a significant contributor to that surge could arguably be its energy business.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="370226" href="https://electrek.co/2024/07/03/tesla-energy-business-tsla-boosting-stock/#more-370226" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/03/tesla-energy-business-tsla-boosting-stock/>
+
+---
+
+## Hyundai Inster In-Depth Video: A Cheap, Cheerful And Charming EV
+
+date: 2024-07-03, from: Inside EVs News
+
+The YouTube channel Fully Charged Show was pretty impressed by the Inster's utility and interior, despite it being so small and cheap. 
+
+<https://insideevs.com/news/725447/hyundai-inster-video-static/>
+
+---
+
+## Electric Vehicle Sales In Q2 2024 Prove Progress Isn't A Straight Line
+
+date: 2024-07-03, from: Inside EVs News
+
+Let's make sense of where EV sales are at after Q2. Plus, Mercedes' CEO commits to making gas cars "until deep into the 2030s." 
+
+<https://insideevs.com/news/725442/q2-ev-sales-cm/>
+
+---
+
+## XPeng debuts the AI-centric M03 sedan in its new MONA EV lineup, priced below $27,500
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/MONA-M03-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>We have learned new details of <a href="https://electrek.co/guides/xpeng/">XPeng’s</a> new lineup of MONA EVs, beginning with the flagship M03 model. This new AI-centric BEV is promised to deliver its class’s strongest smart driving capabilities and will launch at a starting price below RMB 200,000 ($27,500).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mona,mona-m03,xpeng,xpeng-motors" data-layer-viewtype="unknown" data-post-id="370221" href="https://electrek.co/2024/07/03/xpeng-debuts-ai-centric-m03-sedan-new-mona-ev-lineup-priced-below-27500/#more-370221" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/03/xpeng-debuts-ai-centric-m03-sedan-new-mona-ev-lineup-priced-below-27500/>
+
+---
+
+## Ford’s EV sales surge in Q2, topping GM for second in the US EV market behind Tesla
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Ford-EV-costs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford’s EV sales climbed 61% in the second quarter, carrying the automaker’s growth. With nearly 24,000 electric vehicles sold in Q2, <a href="https://electrek.co/guides/ford/">Ford</a> topped GM again to remain second in the US EV market as it looks to close the gap with Tesla.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="370230" href="https://electrek.co/2024/07/03/fords-ev-sales-surge-q2-close-gap-with-tesla/#more-370230" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/03/fords-ev-sales-surge-q2-close-gap-with-tesla/>
+
+---
+
+## Tesla releases big new software update with more music options, and more
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/11/Tesla-Software-Update-Interior-2.0.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla has started pushing a big new software update with a few more music options, parental controls, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="370227" href="https://electrek.co/2024/07/03/tesla-releases-big-new-software-update-more-music-options/#more-370227" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/03/tesla-releases-big-new-software-update-more-music-options/>
+
+---
+
+## BYD’s aggressive EV price cuts spark backlash in Thailand with up to nearly $10,000 in savings
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/CATL-BYD-EV-battery.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After slashing prices on its electric cars in Thailand, <a href="https://electrek.co/guides/byd/">BYD</a> is facing backlash from buyers. With up to nearly $10,000 in savings, BYD’s latest EV price cuts have sparked an investigation in Thailand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="370216" href="https://electrek.co/2024/07/03/byds-10k-ev-price-cuts-spark-backlash-thailand/#more-370216" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/03/byds-10k-ev-price-cuts-spark-backlash-thailand/>
+
+---
+
+## Volvo EX30 Buyers Are Getting Full Refunds Because Of Glitchy Software
+
+date: 2024-07-03, from: Inside EVs News
+
+Issues ranging from blacked-out screens to failed charging attempts prompted some customers to return their cars. 
+
+<https://insideevs.com/news/725341/volvo-ex30-software-issues-refunds/>
+
+---
+
+## People Actually Want Small Displacement Motorcycles, Triumph Sells 50,000 in a Year
+
+date: 2024-07-03, from: Ride Apart, Electric Motorcycle News
+
+Go small or go home? 
+
+<https://www.rideapart.com/news/725314/triumph-50000-small-displacement-400-motorcycles/>
+
+---
+
+## U.S. Volkswagen ID.4 Sales Continued To Decrease In Q2 2024
+
+date: 2024-07-03, from: Inside EVs News
+
+The sales volume reached the lowest level since the supply crisis in Q2 2022. 
+
+<https://insideevs.com/news/725394/us-volkswagen-id4-sales-2024q2/>
+
+---
+
+## Tesla Cybertruck flipped upside down in one of the first wrecks
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Tesla-Cyebrtruck-flipped.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A Tesla Cybertruck flipped upside down in a crash in Vicksburg, Mississippi – one of the first Cybertruck wrecks.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="370213" href="https://electrek.co/2024/07/03/tesla-cybertruck-flipped-upside-down-wrecks/#more-370213" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/03/tesla-cybertruck-flipped-upside-down-wrecks/>
+
+---
+
+## Toyota U.S. EV Sales Quadrupled In Q2 2024, Setting New Record
+
+date: 2024-07-03, from: Inside EVs News
+
+Plug-in hybrid models also had a great quarter. 
+
+<https://insideevs.com/news/725308/toyota-us-plugin-car-sales-2024q2/>
+
+---
+
+## Candela begins deliveries of its premium Polestar-powered flying electric boats
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/candela-polestar-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Late last year, Candela began production on the Candela C-8 Polestar Edition electric hydrofoil boat. Now, with the announcement of the unique vessel’s first delivery, we’re getting our closest look ever at the premium electric speedboat powered by Polestar’s electric vehicle batteries.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-boats" data-layer-viewtype="unknown" data-post-id="370202" href="https://electrek.co/2024/07/03/candela-begins-deliveries-of-its-premium-polestar-powered-flying-electric-boats/#more-370202" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/03/candela-begins-deliveries-of-its-premium-polestar-powered-flying-electric-boats/>
+
+---
+
+## Fisker Hopes To Sell Remaining Ocean SUVs For $2,500-$16,500 Each In Bulk Deal
+
+date: 2024-07-03, from: Inside EVs News
+
+A leasing firm has agreed to buy around 3,000 Fisker Oceans for up to $46.25 million. 
+
+<https://insideevs.com/news/725340/fisker-inventory-sale-american-lease/>
+
+---
+
+## Motorcycle Legends Descended on Silverstone, Have the Fastest Track Day Ever
+
+date: 2024-07-03, from: Ride Apart, Electric Motorcycle News
+
+Jonathan Rea's YouTube channel gives us a behind-the-scenes look at the Track Day of Legends. 
+
+<https://www.rideapart.com/news/725326/monster-energy-jonathan-rea-track-day-legendss/>
+
+---
+
+## Wrecked Superbike Finds New Life, Gets Turned Into a Sand Weapon
+
+date: 2024-07-03, from: Ride Apart, Electric Motorcycle News
+
+Stunt rider Aaron Colton has lost his mind.  
+
+<https://www.rideapart.com/news/725311/yamaha-r1-superbike-sand-dune-aaron-colton/>
+
+---
+
+## Lewis Hamilton Could Buy Gresini, and It’d Be the Perfect Investment
+
+date: 2024-07-03, from: Ride Apart, Electric Motorcycle News
+
+A legendary motorsport athlete buying a legendary motorsport team. That's something we can get behind. 
+
+<https://www.rideapart.com/news/725189/lewis-hamilton-gresini-motogp-buy-deal-f1/>
+
+---
+
+## F1 Driver Lando Norris Looks 'Very Happy' Modeling This EV Scooter
+
+date: 2024-07-03, from: Ride Apart, Electric Motorcycle News
+
+Did a fly just land in his tea? 
+
+<https://www.rideapart.com/news/725305/lando-norris-mclaren-ev-scooter/>
+
+---
+
+## Drone company DJI unveils new electric bike brand Amflow
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/dji-avinox-e-bike-head-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>After<a href="https://electrek.co/2024/07/02/drone-maker-dji-shows-teaser-for-first-electric-bike/"> teasing the launch</a> of its first two-wheeled product, the drone and camera powerhouse DJI has now unveiled an electric mountain bike under the Amflow brand. Take a look at the new Amflow PL, powered by DJI’s own new drive system.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="370125" href="https://electrek.co/2024/07/03/drone-company-dji-unveils-new-electric-bike-brand-amflow/#more-370125" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/03/drone-company-dji-unveils-new-electric-bike-brand-amflow/>
+
+---
+
+## Hydrogen trucks retreat from Australia as battery electric sales surge
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/retreat.jpg?quality=82&#038;strip=all&#038;w=1280" /></div><p>Hydrogen fuel cell specialists Hyzon have announced plans to quit Australia even as sales of battery electric commercial trucks climb.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="australia,electric-trucks,hydrogen" data-layer-viewtype="unknown" data-post-id="370181" href="https://electrek.co/2024/07/02/hydrogen-trucks-retreat-from-australia-as-battery-electric-sales-surge/#more-370181" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/hydrogen-trucks-retreat-from-australia-as-battery-electric-sales-surge/>
+
+---
+
+## The US just greenlit the offshore wind farm Trump vowed to kill
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/07/orsted-ocean-wind.jpg?quality=82&#038;strip=all&#038;w=1440" /></div><p>Shell-EDF’s Atlantic Shores South is the US’s ninth commercial-scale, offshore wind farm approved under the Biden administration – Trump wants to cancel it. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,egeb,energy-brief,solar,new-jersey,offshore-wind-power,president-biden" data-layer-viewtype="unknown" data-post-id="370153" href="https://electrek.co/2024/07/02/us-offshore-wind-farm-trump-vowed-to-cancel/#more-370153" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/us-offshore-wind-farm-trump-vowed-to-cancel/>
+
+---
+
+## EV sales slump? No one told Blue Bird (BLDB), their stock is soaring!
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/bluebird.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>EV stocks have had a rough couple of months, but Georgia-based bus brand Blue Bird has seen its stock price more than double in the last year as the company’s electric buses make their way to school districts around the country.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="blue-bird,electric-school-buses,stock-price" data-layer-viewtype="unknown" data-post-id="370156" href="https://electrek.co/2024/07/02/ev-sales-slump-no-one-told-blue-bird-bldb-their-stock-is-soaring/#more-370156" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/ev-sales-slump-no-one-told-blue-bird-bldb-their-stock-is-soaring/>
+
+---
+
+## Tesla Needs A Radical Strategy To Turn Around. How About Acting Normal?
+
+date: 2024-07-02, from: Inside EVs News
+
+Tesla's global car deliveries dropped for the second quarter in a row. What would it take to turn things around? 
+
+<https://insideevs.com/news/725330/tesla-q2-deliveries-analysis/>
+
+---
+
+## More Cybertruck delays, GM and Hyundai break records, and a new electric classic
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/waiting.jpg?quality=82&#038;strip=all&#038;w=1244" /></div><p>On today’s episode of <em>Quick Charge</em>, Tesla is delaying Cybertruck deliveries, 3rd time’s a charm for FSD transfers, EV sales are up all over, big trucks go far, and a classic electric Porsche.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,quick-charge,restomods,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="370145" href="https://electrek.co/2024/07/02/more-cybertruck-delays-gm-and-hyundai-break-records-and-a-new-electric-classic/#more-370145" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/more-cybertruck-delays-gm-and-hyundai-break-records-and-a-new-electric-classic/>
+
+---
+
+## China is building a mammoth 8 GW solar farm
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/solar-panels-unsplash.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>State-owned power company China Three Gorges Renewables Group will build an 8 GW solar farm as part of a nearly $11 billion integrated energy project.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,china,coal,egeb,energy-brief,solar,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="370129" href="https://electrek.co/2024/07/02/china-is-building-a-mammoth-8-gw-solar-farm/#more-370129" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/china-is-building-a-mammoth-8-gw-solar-farm/>
+
+---
+
+## Tesla Rolls Out New FSD Version, Beta Testers Say It’s ‘Phenomenal’
+
+date: 2024-07-02, from: Inside EVs News
+
+It still has many flaws, but users say refinements are big over the previous version. 
+
+<https://insideevs.com/news/725309/tesla-fsd-12-4-2-updates-refinement/>
+
+---
+
+## Hispano Suiza will do a hill climb and show off its new 1,114 hp Carmen Sagrera at Goodwood
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Hispano-Suiza-Goodwood-Sagrera-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Boutique electric hypercar developer <a href="https://electrek.co/guides/hispano-suiza/">Hispano Suiza</a> announced it would return to the Goodwood Festival of Speed this month to showcase two of its latest vehicles. One on display will be its newest model, the Carmen Sagrera, which packs four motors that combine for 1,114 horsepower.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="goodwood-festival-of-speed,hispano-suiza,hispano-suiza-carmen" data-layer-viewtype="unknown" data-post-id="370111" href="https://electrek.co/2024/07/02/hispano-suiza-hill-climb-show-new-1114-hp-carmen-sagrera-goodwood/#more-370111" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/hispano-suiza-hill-climb-show-new-1114-hp-carmen-sagrera-goodwood/>
+
+---
+
+## Luxury at sea: First ride on the all-electric TRIDENTE boat from Maserati and Vita Power [Video]
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Maserati-boat-bow-view.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Part of my recent trip to Northern Italy with <a href="https://electrek.co/guides/maserati/">Maserati</a> included a riveting cruise around Lake Maggiore on the all-electric TRIDENTE boat. Designed by Maserati and propelled by Vita Power, this luxury day boat is as swanky as it is fast… and comes with a price tag to match.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-boats,maserati,maserati-tridente,vita" data-layer-viewtype="unknown" data-post-id="369970" href="https://electrek.co/2024/07/02/first-ride-all-electric-tridente-boat-maserati-vita-video/#more-369970" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/first-ride-all-electric-tridente-boat-maserati-vita-video/>
+
+---
+
+## Tesla starts pushing its third ‘one-time’ FSD transfer to boost Q3 demand
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Screenshot-2024-07-02-at-12.40.39 PM-e1719949304559.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s third instance of its ‘one-time-only’ Full Self-Driving transfer scheme is in full effect now, allowing owners to transfer their purchase of FSD capability to a new vehicle on purchases before August 31.</p>
+
+
+
+<p>Tesla is using this as an opportunity to boost demand, rather than doing the right thing by letting owners transfer the still-unreleased software they spent thousands of dollars on.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="full-self-driving-fsd,tesla" data-layer-viewtype="unknown" data-post-id="369823" href="https://electrek.co/2024/07/02/tesla-starts-pushing-its-third-one-time-fsd-transfer-to-boost-q3-demand/#more-369823" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/tesla-starts-pushing-its-third-one-time-fsd-transfer-to-boost-q3-demand/>
+
+---
+
+## Hyundai Ioniq 5 Sales Hit New U.S. Record In Q2 2024
+
+date: 2024-07-02, from: Inside EVs News
+
+Overall, EV total sales increased 33% during the first half of the year. 
+
+<https://insideevs.com/news/725294/hyundai-us-ioniq5-june-2024/>
+
+---
+
+## Tesla Cybertruck Owner's One-Month Review: 'Cheap' Interior, Cool Steering
+
+date: 2024-07-02, from: Inside EVs News
+
+YouTuber Snazzy Labs loves the Cybertruck's steer-by-wire system but isn't a fan of its appearance or "sloppy" interior design. 
+
+<https://insideevs.com/news/725171/tesla-cybertruck-owner-review-youtube/>
+
+---
+
+## GM tops Q2 and first half EV sales records as Chevy Blazer, Equinox EVs roll out
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/Chevy-Blazer-EV-sales.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>GM broke Q2 and first-half EV sales records with new models like the <a href="https://electrek.co/guides/chevy-blazer-ev/">Chevy Blazer</a> and Equinox EVs hitting the market. However, GM’s new electric cars were not the only ones driving growth, as sales of the Cadillac Lyriq and GMC Hummer EVs also surged.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="general-motors,gm" data-layer-viewtype="unknown" data-post-id="370042" href="https://electrek.co/2024/07/02/gm-tops-q2-first-half-ev-sales-records-new-chevy-evs-arrive/#more-370042" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/gm-tops-q2-first-half-ev-sales-records-new-chevy-evs-arrive/>
+
+---
+
+## Clean energy marketplace EnergySage just went US-wide
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/02/pexels-photo-16148900.jpeg?quality=82&#038;strip=all&#038;w=1500" /></div><p>EnergySage today announced its expansion to all 50 states and Washington, D.C., becoming the first clean home energy consumer comparison site to go nationwide.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="370072" href="https://electrek.co/2024/07/02/clean-energy-marketplace-energysage-just-went-us-wide/#more-370072" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/clean-energy-marketplace-energysage-just-went-us-wide/>
+
+---
+
+## Tesla pushes non-Foundation Cybertrucks to ‘late 2024’
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/Toyota-Tesla-Cybertruck.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla Cybertrucks without the $20,000 “Foundation Series” package will now start delivery in “late 2024,” rather than this quarter as previously expected.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="370055" href="https://electrek.co/2024/07/02/tesla-pushes-non-foundation-cybertrucks-to-late-2024/#more-370055" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/tesla-pushes-non-foundation-cybertrucks-to-late-2024/>
+
+---
+
+## Current Classics: electric 911 restomod captures the desired aesthetic
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/porsche_MAIN.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>There’s nothing quite like a classic, air-cooled Porsche 911 for setting the tone — and this Essenza series 2 electric conversion from <a href="https://www.voitures-extravert.com/series-two">Voitures Extravert</a> promises to be better, faster, and stronger than the original. Whether it is or isn’t, it’s certainly got the look.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="porsche,restomods" data-layer-viewtype="unknown" data-post-id="370031" href="https://electrek.co/2024/07/02/current-classics-electric-911-restomod-captures-the-desired-aesthetic/#more-370031" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/current-classics-electric-911-restomod-captures-the-desired-aesthetic/>
+
+---
+
+## Save up to $1,430 during Juiced’s July 4th e-bike sale, Worx Landroid robotic mower lows, 1-day Tesla EV charger adapter sale, more
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/juiced-jetcurrent-pro-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Today’s Green deals are all riding the 4th of July wave to lower prices, headlined by <a href="https://9to5toys.com/2024/07/02/juiced-bikes-launches-sitewide-4th-of-july-sale-with-e-bikes-starting-from-1592-up-to-1430-off/">Juiced’s latest holiday sale</a> that is giving you a 10% off sitewide discount to stack with already-discounted e-bikes and accessories, with a few exceptions – and this will likely be the last pre-release discount on the company’s new JetCurrent Pro Foldable e-bike at $2,159, while <a href="https://9to5toys.com/2024/07/02/juiced-bikes-launches-sitewide-4th-of-july-sale-with-e-bikes-starting-from-1592-up-to-1430-off/">other e-bikes start from $1,592</a>. Next, we have a deal trifecta with <a href="https://9to5toys.com/2024/07/01/save-up-to-600-on-worx-landroid-robotic-lawn-mowers-for-1-8-to-1-2-acre-yards-at-return-lows-from-579/">Worx’s Landroid Robotic Mowers</a> for 1/8-acre to 1/2-acre yards all dropping to their lowest prices, starting from <a href="https://9to5toys.com/2024/07/01/save-up-to-600-on-worx-landroid-robotic-lawn-mowers-for-1-8-to-1-2-acre-yards-at-return-lows-from-579/">$579</a>, as well as a one-day 50% off deal on <a href="https://9to5toys.com/2024/07/02/rexings-ccs-to-tesla-ev-charger-adapter-for-models-s-3-x-and-y-falls-50-to-100-low-for-today-only/">Rexing’s CCS to Tesla EV charger adapter at $100</a>. Plus, all the other hangover Green Deals that are still alive and well – including a further price drop on <a href="https://9to5toys.com/2024/07/02/first-chance-to-save-on-jackerys-upgraded-lifepo4-explorer-240-v2-power-station-at-199/">Jackery’s new Explorer 240 v2 LiFePO4 Portable Power Station</a> to a new low, as well as the first discount on <a href="https://9to5toys.com/2024/07/01/ugreens-48000mah-nexode-portable-charger-and-power-bank-gets-first-discount-to-136-reg-200/">UGREEN’s new Nexode 48,000mAh power bank station</a>. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="370036" href="https://electrek.co/2024/07/02/juiceds-july-4th-e-bike-sale-worx-landroid-robotic-mower-tesla-ev-charger-adapter-more/#more-370036" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/juiceds-july-4th-e-bike-sale-worx-landroid-robotic-mower-tesla-ev-charger-adapter-more/>
+
+---
+
+## Xpeng’s New EV Sedan Is Actually A Hatchback With A Record-Setting Drag Coefficient
+
+date: 2024-07-02, from: Inside EVs News
+
+The $20,000 Tesla Model 3-rivaling Mona M03 has a three-foot-long active air intake and a huge, 22 cubic feet trunk. 
+
+<https://insideevs.com/news/725268/xpeng-mona-m03-most-aerodynamic-ev-sedan/>
+
+---
+
+## A $2-3 billion battery factory for electric trucks just broke ground in Mississippi
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/11/Daimler-North-America-semi-electric-trucks.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Daimler Trucks, Accelera by Cummins, and truck maker PACCAR broke ground on a huge battery cell factory for electric trucks in Mississippi.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-manufacturing,cummins,daimler-trucks,electric-trucks,ev-batteries,inflation-reduction-act,lfp-batteries" data-layer-viewtype="unknown" data-post-id="345504" href="https://electrek.co/2024/07/02/battery-factory-for-electric-trucks-is-headed-to-mississippi/#more-345504" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/battery-factory-for-electric-trucks-is-headed-to-mississippi/>
+
+---
+
+## This Map Reveals The Average EV Fuel Cost Savings Potential By State
+
+date: 2024-07-02, from: Inside EVs News
+
+In some states, the savings are almost three times higher than in others. 
+
+<https://insideevs.com/news/725203/map-ev-fuel-cost-savings-potential/>
+
+---
+
+## Hyundai IONIQ 5 and IONIQ 6 set new Q2 US sales records as EV hot streak continues
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Hyundai-IONIQ-5-Q2-record.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai is showing no signs of slowing down in the US EV market after a record-breaking second quarter. The <a href="https://electrek.co/guides/hyundai-ioniq-5/">Hyundai IONIQ 5</a> and IONIQ 6 both set new Q2 sales records as demand for long-range EVs at an affordable price continues to climb in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5,hyundai-ioniq-6" data-layer-viewtype="unknown" data-post-id="370027" href="https://electrek.co/2024/07/02/hyundai-ioniq-5-new-q2-sales-record-hot-streak/#more-370027" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/hyundai-ioniq-5-new-q2-sales-record-hot-streak/>
+
+---
+
+## BYD secures new EV leasing partner to take on Europe
+
+date: 2024-07-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/BYD-November-sales.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s <a href="https://electrek.co/guides/byd/">BYD</a> has found a new EV leasing partner in Europe as it expands overseas. BYD signed a deal with leading car leasing firm Ayvens to distribute its vehicles across Europe.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="370010" href="https://electrek.co/2024/07/02/byd-secures-new-ev-leasing-partner-europe/#more-370010" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/02/byd-secures-new-ev-leasing-partner-europe/>
+
+---
+
+## Polestar's Sales Are Down Yet Again In Q2 2024
+
+date: 2024-07-02, from: Inside EVs News
+
+Will the launch of the Polestar 3 improve the results? 
+
+<https://insideevs.com/news/725279/polestar-ev-sales-2024q2/>
 
 ---
 

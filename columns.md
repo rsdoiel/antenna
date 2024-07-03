@@ -1,11 +1,367 @@
 ---
 title: columns 2024.27
-updated: 2024-07-02 08:55:01
+updated: 2024-07-03 09:14:41
 ---
 
 # columns 2024.27
 
-(date: 2024-07-02 08:55:01)
+(date: 2024-07-03 09:14:41)
+
+---
+
+## New Open SSH Vulnerability
+
+date: 2024-07-03, updated: 2024-07-03, from: Bruce Schneier blog
+
+<p>It&#8217;s a <a href="https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server">serious one</a>:</p>
+<blockquote><p>The vulnerability, which is a signal handler race condition in OpenSSH&#8217;s server (sshd), allows unauthenticated remote code execution (RCE) as root on glibc-based Linux systems; that presents a significant security risk. This race condition affects sshd in its default configuration.</p>
+<p>[&#8230;]</p>
+<p>This vulnerability, if exploited, could lead to full system compromise where an attacker can execute arbitrary code with the highest privileges, resulting in a complete system takeover, installation of malware, data manipulation, and the creation of backdoors for persistent access. It could facilitate network propagation, allowing attackers to use a compromised system as a foothold to traverse and exploit other vulnerable systems within the organization...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/07/new-open-ssh-vulnerability.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-03, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I added links to my two new podcast feeds to the <a href="http://scripting.com/?tab=about">About page</a> on Scripting News. <a href="https://imgs.scripting.com/2024/07/03/aboutpagescreen.png">Screen shot</a>. 
+
+<http://scripting.com/2024/07/03.html#a132251>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-03, from: Dave Winer's Scripting News)
+
+If something like this happens and you haven't seen it in my linkblog, or on my blog's home page, please post a link to my <a href="https://mastodon.social/@davew">Mastodon account</a>. 
+
+<http://scripting.com/2024/07/03.html#a124511>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-03, from: Dave Winer's Scripting News)
+
+Somehow, even though I watched an hour of news on MSNBC last night, and was on all the social media all day, I didn't hear about Pelosi's comments, and the leaked poll data, until this morning. It wasn't until I looked at the synopsis of Olbermann's podcast that I learned that something had changed. For whatever reason, even though I have made a significant investment in time to stay informed, it isn't working. Fact. 
+
+<http://scripting.com/2024/07/03.html#a124225>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-03, from: Dave Winer's Scripting News)
+
+<a href="https://omny.fm/shows/countdown-with-keith-olbermann/pelosi-suggests-biden-take-test-he-stumbles-anew-7">Olbermann</a> calls on Biden to resign, making Harris the incumbent. 
+
+<http://scripting.com/2024/07/03.html#a123618>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-07-03, from: Jessica Smith's blog)
+
+<p>The cat trap is working. (Alternatively, &ldquo;Hey, check out the box I bought Gidget for Viv&rsquo;s birthday!&rdquo;)</p>
+<img src="https://www.jayeless.net/media/2024/07/gidget-in-box.jpeg" alt="A tabby cat sitting in a cardboard box, making eye contact with the camera." class="u-photo"> 
+
+<https://www.jayeless.net/2024/07/cat-trap.html>
+
+---
+
+## Office Hours: WTF are the Democrats doing?
+
+date: 2024-07-03, from: Robert Reich's blog
+
+Friends, The only time I recall Democrats being in more chaos and upheaval than now was in 1968. That, not incidentally, was when they held their last open convention. If Joe Biden were to drop out, should Dems have another open convention to sort everything out? 
+
+<https://robertreich.substack.com/p/office-hours-wtf-are-the-democrats>
+
+---
+
+## Reasons to use your shell's job control
+
+date: 2024-07-03, updated: 2024-07-03, from: Julia Evans blog
+
+ 
+
+<https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/>
+
+---
+
+## Seattle area indie bookstores
+
+date: 2024-07-03, from: Tracy Durnell Blog
+
+I&#8217;ve always been a library gal rather than a book buyer &#8212; I&#8217;m frugal and benefit from having a due day to actually read things 🤷‍♀️ Mostly I used to buy comics and reference books, but lately I have been buying nonfiction. I had a couple unpleasant experiences* at indie bookstores so I don&#8217;t go [&#8230;] 
+
+<https://tracydurnell.com/2024/07/03/seattle-area-indie-bookstores/>
+
+---
+
+## July 2, 2024
+
+date: 2024-07-03, from: Heather Cox Richardson blog
+
+On July 2, 1776, the Second Continental Congress passed a &#8220;Resolution for Independence&#8221; declaring &#8220;That these United Colonies are, and of right ought to be, free and independent States, that they are absolved from all allegiance to the British Crown, and that all political connection between them and the State of Great Britain is, and ought to be, totally dissolved.&#8221; 
+
+<https://heathercoxrichardson.substack.com/p/july-2-2024>
+
+---
+
+## 24 unexpected hours in NYC
+
+date: 2024-07-03, from: Matt Haughey blog
+
+<p>I&apos;m almost done with research work on <a href="https://unofficialnwsl.stadium.guide/?ref=a.wholelottanothing.org" rel="noreferrer">my upcoming guidebook</a> as my wife and I review the final 14th stadium up in Seattle this coming Sunday. This past weekend we visited arenas furthest from Oregon, flying to Washington DC to catch <a href="https://unofficialnwsl.stadium.guide/audi-field-washington-spirit-vs-nc-courage/?ref=a.wholelottanothing.org" rel="noreferrer">a Spirit match</a> on Saturday then an</p> 
+
+<https://a.wholelottanothing.org/24-unexpected-hours-in-nyc/>
+
+---
+
+## Figma Disables ‘Make Design’ AI-Powered Rip-Off Tool
+
+date: 2024-07-03, updated: 2024-07-03, from: Daring Fireball
+
+ 
+
+<https://techcrunch.com/2024/07/02/figma-disables-its-ai-design-feature-that-appeared-to-be-ripping-off-apples-weather-app/>
+
+---
+
+## Wednesday 3 July, 2024
+
+date: 2024-07-02, from: John Naughton's online diary
+
+Electioneering circa 1755 ‘Chairing the Member’ (from Hogarth’s The Humours of an Election series of 1754-55).  Quote of the Day &#8220;So let&#8217;s give another big tax cut to the super-rich. That&#8217;ll teach bin Laden a lesson he won&#8217;t soon forget.&#8221; &#8230; <a href="https://memex.naughtons.org/wednesday-3-july-2024/39595/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-3-july-2024/39595/>
+
+---
+
+## 2024-07-02 SSH hardening
+
+date: 2024-07-02, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-02-ssh-hardening">2024-07-02 SSH hardening</h1>
+
+<p>Today I decided to harden my SSH server configuration and did the one thing you should never do: I logged out before testing the new configuration and promptly locked myself.
+Don&rsquo;t be like me.</p>
+
+<p>Here&rsquo;s what I wanted to do: Positron Security&rsquo;s <a href="https://www.sshaudit.com/">SSH Configuration Auditor</a> gave me a B+ grade and there were <a href="https://www.sshaudit.com/hardening_guides.html#debian_12">some suggestions</a>. I had already implemented some of them because a long time ago I had followed <a href="https://disknotifier.com/blog/simple-ssh-security/">a different SSH hardening guide</a>.</p>
+
+<p>The thing that broke my setup is that the new hardening guide specified the following:</p>
+
+<pre><code>RequiredRSASize 3072
+</code></pre>
+
+<p>The effect was that I could no longer log in:</p>
+
+<pre><code>alex@alexschroeder.ch: Permission denied (publickey).
+</code></pre>
+
+<p>That&rsquo;s because I have passwords disabled. You can only get in via public key. And my public key wasn&rsquo;t good enough: it has 2048 bits:</p>
+
+<pre><code>ssh-keygen -lf .ssh/id_rsa
+2048 SHA256:************/****************************** alex@Megabombus.local (RSA)
+</code></pre>
+
+<p>So what I had to do:</p>
+
+<ul>
+<li>Visit the hosting provider&rsquo;s website</li>
+<li>Enable VNC</li>
+<li>Open a &ldquo;NoVNC&rdquo; window</li>
+<li>Enable login using passwords without having access to Shift or Control keys (wtf?)</li>
+</ul>
+
+<p>That meant commenting these two in <code>/etc/ssh/sshd_config</code>:</p>
+
+<pre><code>PermitRootLogin prohibit-password
+PasswordAuthentication no
+</code></pre>
+
+<p>Restarted <code>sshd</code> on the server:</p>
+
+<pre><code>systemctl restart sshd
+</code></pre>
+
+<p>I already had an <code>ed25519</code> identity:</p>
+
+<pre><code>ls .ssh/id* 
+.ssh/id_ed25519  .ssh/id_ed25519.pub  .ssh/id_rsa  .ssh/id_rsa.pub
+</code></pre>
+
+<p>I probably created them using the following:</p>
+
+<pre><code>ssh-keygen -t ed25519
+</code></pre>
+
+<p>I used <code>ssh-copy</code> to copy them to the server:</p>
+
+<pre><code>ssh-copy-id -i .ssh/id_ed25519 sibirocobombus
+</code></pre>
+
+<p>And I added the correct setting to my <code>.ssh/config</code>:</p>
+
+<pre><code>Host sibirocobombus
+  HostName alexschroeder.ch
+  Port 882
+  User alex
+  IdentityFile ~/.ssh/id_ed25519
+</code></pre>
+
+<p>I use the <code>ssh</code> config file all the time!</p>
+
+<p>This allowed me to uncomment these two in <code>/etc/ssh/sshd_config</code> again:</p>
+
+<pre><code>PermitRootLogin prohibit-password
+PasswordAuthentication no
+</code></pre>
+
+<p>I restarted <code>sshd</code> on the server:</p>
+
+<pre><code>systemctl restart sshd
+</code></pre>
+
+<p>Note to self: Should I ever need to check the server fingerprints, see <a href="ssh">ssh</a>.</p>
+
+<p>My <code>git</code> server needed the same public key in <code>/home/git/.ssh/authorized_keys</code>.</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-02-ssh-hardening>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-02, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/02/spiced.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">My favorite soft drink these days is <a href="https://preview.us.coca-cola.com/products/coca-cola-flavors/cherry-zero-sugar">Coke Cherry Zero</a>. It's got a really nice taste. Went to the store today, they only had one 12-pack, but they also had a 12-pack of <a href="https://www.coca-cola.com/us/en/brands/coca-cola/products/coca-cola-spiced">Coke Spiced Zero</a>. I decided to give it a try. I had a can at lunch and it's weird but okay I guess, but the belches are strongly flavored and that's <i>realllly</i> weird. It took me a while to figure out where this <a href="https://www.prevention.com/health/a32925734/why-do-my-burps-smell/">belch-breath</a> was coming from. It tastes like I took some very strong medicine. The weirdest soft drink I've ever had. But it kind of grows on you. I'll try another one and let you know how it goes. 
+
+<http://scripting.com/2024/07/02.html#a215018>
+
+---
+
+## The Future of Writing: How AI Will Reshape Our Tools
+
+date: 2024-07-02, from: Om Malik blog
+
+Earlier this morning while reading The Wall Street Journal, I learned that Bruce Bastian, co-creator of WordPerfect, the word-processing software, had died at 76. His life was consequential, as his obituary so eloquently elaborates. I haven&#8217;t thought of WordPerfect for a long time. And probably neither have many others who think of Microsoft Word and &#8230; 
+
+<https://om.co/2024/07/02/from-wordperfect-to-perfect-word-with-ai/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-02, from: Dave Winer's Scripting News)
+
+BTW, this is what the new podcast feed <a href="https://feeder.scripting.com/returnjson?feedurl=http://scripting.com/podcast.xml">looks like</a> viewed in feeder. 
+
+<http://scripting.com/2024/07/02.html#a195405>
+
+---
+
+## Second podcast of two
+
+date: 2024-07-02, from: Dave Winer's Scripting News
+
+<p><a href="http://scripting.com/2024/07/02/twoPodcastTuesdayPodcastPart2.m4a">This</a> is the second of <a href="http://scripting.com/2024/07/02/192636.html">two</a> podcasts for a two-podcast Tuesday, today.</p>
+<p>Very likely there will be another tomorrow. </p>
+<p>So much going on! <span class="spOldSchoolEmoji">😄</span></p>
+<p>25 minutes.</p>
+ 
+
+<http://scripting.com/2024/07/02/193103.html?title=secondPodcastOfTwo>
+
+---
+
+## A two-podcast Tuesday
+
+date: 2024-07-02, from: Dave Winer's Scripting News
+
+<p><a href="http://scripting.com/2024/07/02/twoPodcastTuesdayPodcastPart1.m4a">This</a> is the first of <a href="http://scripting.com/2024/07/02/193103.html">two</a> podcasts for today. </p>
+<p>It started out being one podcast, but I hit the wrong button after 14 minutes and ended up with two audio files instead of one.</p>
+<p>I don't like editing, so you get two for the price of one. :-)</p>
+<p>It's a rambler, starts out with me talking about <a href="https://www.amazon.com/Allow-Me-Retort-Black-Constitution/dp/1620976811">Elie Mystal</a> on abortion and slavery. </p>
+<p>The second podcast explains how we're in a war, and it's about time we recognized it as such. </p>
+<p>We need the Democrats to do what we elected them to do, save the freaking United States, which by the way after yesterday's decision by the Supreme Court, doesn't really exist any longer. We go into that in the second episode. </p>
+<p>It's not enough to win the election. We have to get the Supreme Court back to a semblance of what it was. They're behaving in a way that's inconsistent with the continued existence of the country they're supposed to be part of the government of. </p>
+<p>But we can have a laugh along the way. The world hasn't completely fallen apart, <i>yet.</i> <span class="spOldSchoolEmoji">😄</span> </p>
+<p>14 minutes.</p>
+ 
+
+<http://scripting.com/2024/07/02/192636.html?title=aTwopodcastTuesday>
+
+---
+
+##  Wells Fargo analysts ordered 75 identical burrito bowls from 8 different Chipotles... 
+
+date: 2024-07-02, updated: 2024-07-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044894-wells-fargo-analysts-orde>
+
+---
+
+## Installing Ansible on a RISC-V computer
+
+date: 2024-07-02, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Installing Ansible on a RISC-V computer</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Ansible runs on Python, and Python runs on... well pretty much <em>everything</em>. Including newer RISC-V machines.</p>
+
+<p>But Ansible has a lot of dependencies, and some of these dependencies have caused frustration from time to time on x86 and Arm (so having issues with a dependency is just a way of life when you enter <a href="https://en.wikipedia.org/wiki/Dependency_hell">dependency hell</a>)... but in this case, for the past few months, I've never had luck installing Ansible from PyPI (Python's Package Index) on any RISC-V system, using <code>pip install ansible</code>.</p>
+
+<p>I prefer installing this way (rather than compiling from source or from system packages) because it generally gets the latest version of Ansible, with an easy upgrade/downgrade path. It's also easy to add <code>ansible</code> to a Python <code>requirements.txt</code> file and install it alongside other package dependencies.</p>
+
+<p>Regardless, the <code>cryptography</code> library, which requires a Rust compiler to build if the package is not already built for a particular system, has made it difficult to install Ansible from <code>pip</code>:</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-07-02T13:16:37-05:00" title="Tuesday, July 2, 2024 - 13:16" class="datetime">July 2, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/installing-ansible-on-risc-v-computer>
+
+---
+
+## Upcoming Book on AI and Democracy
+
+date: 2024-07-02, updated: 2024-07-02, from: Bruce Schneier blog
+
+<p>If you&#8217;ve been reading my blog, you&#8217;ve noticed that I have written a lot about AI and democracy, mostly with my co-author Nathan Sanders. I am pleased to announce that we&#8217;re writing a book on the topic.</p>
+<p>This isn&#8217;t a book about deep fakes, or misinformation. This is a book about what happens when AI writes laws, adjudicates disputes, audits bureaucratic actions, assists in political strategy, and advises citizens on what candidates and issues to support. It&#8217;s a book that tries to look into what an AI-assisted democratic system might look like, and then at how to best ensure that we make use of the good parts while avoiding the bad parts...</p> 
+
+<https://www.schneier.com/blog/archives/2024/07/upcoming-book-on-ai-and-democracy.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-02, from: Dave Winer's Scripting News)
+
+I post stuff to <a href="http://scripting.com/2021/09/17/153104.html?title=facebookIsAtLeastEightThings">Facebook</a> that could get inundated with hateful comments. I have a pretty good idea upfront which ones those are. I go ahead and post them. At the first sign of flameage I turn comments off, with a <a href="https://www.facebook.com/dave.winer.12/posts/pfbid0YQnqZuksa8nEHgCsEcvyJ5krLniGoFCrRRB2UHmjsDGosFycKorpskY9KuokgQkNl?comment_id=393461023707630">simple explanation</a>. "I turned off comments here. I didn't want to have a discussion about this, it's just an observation." I think this is totally legit and more people should do it. Really frees you up to say what you see. 
+
+<http://scripting.com/2024/07/02.html#a170415>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-02, from: Dave Winer's Scripting News)
+
+They edited the Constitution the way board members of tech companies design software products, with no idea how it works. 
+
+<http://scripting.com/2024/07/02.html#a164656>
+
+---
+
+##  &#8220;The Last Rave&#8221; 
+
+date: 2024-07-02, updated: 2024-07-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/the-last-rave>
+
+---
+
+## Fearmongering?
+
+date: 2024-07-02, from: Robert Reich's blog
+
+Friends, Apologies for sending you a second letter today, but like many of you, I&#8217;ve been going over Chief Justice John Roberts&#8217;s presidential immunity decision, trying to understand the distinction it sets out between &#8220;official&#8221; acts of a president, which are immune from prosecution, and &#8220;unofficial&#8221; acts, which are not immune. And I wanted to share with you a particularly troubling aspect. 
+
+<https://robertreich.substack.com/p/fearmongering>
 
 ---
 
@@ -49,9 +405,31 @@ date: 2024-07-02, from: Dave Winer's Scripting News
 
 ---
 
+## Plan for Biden re Supreme Court
+
+date: 2024-07-02, from: Dave Winer's Scripting News
+
+<p><i>This is a lightly edited version of a <a href="https://www.threads.net/@davew/post/C864lCsuwbK">post</a> on Threads. </i></p>
+<p>I understand why the Dems don't want to be the first to use the new rule passed by the Supreme Court, but I think they should consider this plan:</p>
+<ol>
+<li>Arrest the members of the Supreme Court who just voted for the new rule about presidential immunity.</li>
+<li>Nominate six replacements, sorry no Repubs this time.</li>
+<li>The Senate ratifies them.</li>
+<li>Once they're installed, they hold an emergency session to restore Roe v Wade, and to undo all the other crazy BS they did and then revoke the new rule, and re-assert the rule of law that <i>especially</i> applies to the president.</li>
+<li>And I don't know what they do with the ones they arrested but frankly I don't care. Leave them in jail until they figure it out.</li>
+<li>And it's about time Trump was arrested and held without bail, so he can't do any more damage to the US while awaiting trial. </li>
+</ol>
+<p><a href="https://www.threads.net/@palafo">Patrick LaForge</a>, a longtime friend who works at the NYT: "I think the distinction here is that the president can't be prosecuted for violations of law but they would still be acts unsupported by law that a court could block or an agency could refuse to carry out. But they sure have created a mess."</p>
+<p><a href="https://www.threads.net/@davew/post/C87TO13pkO_">My response</a>: Maybe starting to do it is enough to get the courts to undo the mess asap.</p>
+ 
+
+<http://scripting.com/2024/07/02/150747.html?title=planForBidenReSupremeCourt>
+
+---
+
 **@Dave Winer's Scripting News** (date: 2024-07-02, from: Dave Winer's Scripting News)
 
-Listen to <a href="https://podcasts.apple.com/us/podcast/i-dissent-biden-declares-war-on-supreme-court-trump-7-2-24/id1633301179?i=1000660868719">today's Countdown</a> podcast. I was cheering out loud during the first segment. When you read this <a href="https://www.threads.net/@davew/post/C864lCsuwbK">post</a>, you'll see why. I tried listening to the NYT Daily podcast today, but it made me hate them all over again, starting with saying how great a week it has been for Trump. You can say that, imho, but you have to say right after that, that it was a terrible week for the rest of us. Because any good news for Trump is awful news for everyone else. And I do mean everyone, including the people who plan to vote for him again. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/02/kitty.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Listen to <a href="https://podcasts.apple.com/us/podcast/i-dissent-biden-declares-war-on-supreme-court-trump-7-2-24/id1633301179?i=1000660868719">today's Countdown</a> podcast. I was cheering out loud during the first segment. When you read this <a href="https://www.threads.net/@davew/post/C864lCsuwbK">post</a>, you'll see why. I tried listening to the NYT Daily podcast today, but it made me hate them all over again, starting with saying how great a week it has been for Trump. You can say that, imho, but you have to say right after that, that it was a terrible week for the rest of us. Because any good news for Trump is awful news for everyone else. And I do mean everyone, including the people who plan to vote for him again. 
 
 <http://scripting.com/2024/07/02.html#a150249>
 
@@ -273,99 +651,6 @@ date: 2024-07-02, updated: 2024-07-01, from: Bruce Schneier blog
  
 
 <https://www.schneier.com/blog/archives/2024/07/public-surveillance-of-bars.html>
-
----
-
-## 2024-07-02 SSH hardening
-
-date: 2024-07-02, from: Alex Schroeder's Blog
-
-<h1 id="2024-07-02-ssh-hardening">2024-07-02 SSH hardening</h1>
-
-<p>Today I decided to harden my SSH server configuration and did the one thing you should never do: I logged out before testing the new configuration and promptly locked myself.
-Don&rsquo;t be like me.</p>
-
-<p>Here&rsquo;s what I wanted to do: Positron Security&rsquo;s <a href="https://www.sshaudit.com/">SSH Configuration Auditor</a> gave me a B+ grade and there were <a href="https://www.sshaudit.com/hardening_guides.html#debian_12">some suggestions</a>. I had already implemented some of them because a long time ago I had followed <a href="https://disknotifier.com/blog/simple-ssh-security/">a different SSH hardening guide</a>.</p>
-
-<p>The thing that broke my setup is that the new hardening guide specified the following:</p>
-
-<pre><code>RequiredRSASize 3072
-</code></pre>
-
-<p>The effect was that I could no longer log in:</p>
-
-<pre><code>alex@alexschroeder.ch: Permission denied (publickey).
-</code></pre>
-
-<p>That&rsquo;s because I have passwords disabled. You can only get in via public key. And my public key wasn&rsquo;t good enough: it has 2048 bits:</p>
-
-<pre><code>ssh-keygen -lf .ssh/id_rsa
-2048 SHA256:************/****************************** alex@Megabombus.local (RSA)
-</code></pre>
-
-<p>So what I had to do:</p>
-
-<ul>
-<li>Visit the hosting provider&rsquo;s website</li>
-<li>Enable VNC</li>
-<li>Open a &ldquo;NoVNC&rdquo; window</li>
-<li>Enable login using passwords without having access to Shift or Control keys (wtf?)</li>
-</ul>
-
-<p>That meant commenting these two in <code>/etc/ssh/sshd_config</code>:</p>
-
-<pre><code>PermitRootLogin prohibit-password
-PasswordAuthentication no
-</code></pre>
-
-<p>Restarted <code>sshd</code> on the server:</p>
-
-<pre><code>systemctl restart sshd
-</code></pre>
-
-<p>I already had an <code>ed25519</code> identity:</p>
-
-<pre><code>ls .ssh/id* 
-.ssh/id_ed25519  .ssh/id_ed25519.pub  .ssh/id_rsa  .ssh/id_rsa.pub
-</code></pre>
-
-<p>I probably created them using the following:</p>
-
-<pre><code>ssh-keygen -t ed25519
-</code></pre>
-
-<p>I used <code>ssh-copy</code> to copy them to the server:</p>
-
-<pre><code>ssh-copy-id -i .ssh/id_ed25519 sibirocobombus
-</code></pre>
-
-<p>And I added the correct setting to my <code>.ssh/config</code>:</p>
-
-<pre><code>Host sibirocobombus
-  HostName alexschroeder.ch
-  Port 882
-  User alex
-  IdentityFile ~/.ssh/id_ed25519
-</code></pre>
-
-<p>I use the <code>ssh</code> config file all the time!</p>
-
-<p>This allowed me to uncomment these two in <code>/etc/ssh/sshd_config</code> again:</p>
-
-<pre><code>PermitRootLogin prohibit-password
-PasswordAuthentication no
-</code></pre>
-
-<p>I restarted <code>sshd</code> on the server:</p>
-
-<pre><code>systemctl restart sshd
-</code></pre>
-
-<p>Note to self: Should I ever need to check the server fingerprints, see <a href="ssh">ssh</a>.</p>
-
-<p><a class="tag" href="/search/?q=%23Administration">#Administration</a></p> 
-
-<https://alexschroeder.ch/view/2024-07-02-ssh-hardening>
 
 ---
 
@@ -951,6 +1236,23 @@ date: 2024-07-01, from: Robert Reich's blog
 Who&#8217;s really behind the Supreme Court&#8217;s attack on the so-called &#8220;administrative state.&#8221; 
 
 <https://robertreich.substack.com/p/the-truth-about-the-administrative>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-07-01, from: Jessica Smith's blog)
+
+<p>Shout out to whoever at this block of flats decided to fly a Canadian flag today (presumably because it is Canada Day). Nationalism isn&rsquo;t really my thing but it still put a, uh, smirk on my face as I walked home from the shops.</p>
+<img src="https://www.jayeless.net/media/2024/07/canadian-flag-over-flats.jpeg" alt="Looking across the road at a building, which looks like a two-storey house at the front and a modern white/dark grey apartment block in the rear. Above one of the rear apartments is a Canadian flag." class="u-photo"> 
+
+<https://www.jayeless.net/2024/07/canada-day-flag.html>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-07-01, from: Jessica Smith's blog)
+
+<p>Caught up with an old friend for lunch today, which has put me in a real good mood :) Need to make sure to do this more often, and not get so caught up in the endless &ldquo;life&rdquo; grind. It&rsquo;d be nice if seeing friends was still as easy as bumping into them at school/wherever, but it&rsquo;s not, so, making the effort is worth it, haha.</p> 
+
+<https://www.jayeless.net/2024/07/lunch-with-an-old-friend.html>
 
 ---
 

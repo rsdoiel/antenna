@@ -1,11 +1,63 @@
 ---
 title: mid central 2024.27
-updated: 2024-07-02 08:54:59
+updated: 2024-07-03 09:14:40
 ---
 
 # mid central 2024.27
 
-(date: 2024-07-02 08:54:59)
+(date: 2024-07-03 09:14:40)
+
+---
+
+## Hurricane Beryl: Hurricane Watch Net Active
+
+date: 2024-07-03, from: Amateur Radio Relay League News
+
+<p><em><strong>Amateur Radio is active to provide critical communications for those in the path of Hurricane Beryl. This page will be updated with the latest information as it comes in. </strong></em></p><p><em>By: John Ross, KD8IDJ, and Sierra Harrop, W5DX</em></p><hr /><p><strong>Wednesday, July 3, 2024, 9:20 AM EDT Update: </strong></p><p>Hurricane Beryl, now a Category 4 storm, continues its track across the central Caribbean Sea moving at 20 mph with winds sustained win...</p> 
+
+<http://www.arrl.org/news/view/hurricane-beryl-hurricane-watch-net-active>
+
+---
+
+## ARRL Headquarters is Closed on Thursday, July 4, for Independence Day
+
+date: 2024-07-03, from: Amateur Radio Relay League News
+
+<p>ARRL  The National Association for Amateur Radio® will be closed on Thursday, July 4, for the Independence Day holiday. There will be no W1AW bulletin or code practice transmissions. ARRL Headquarters will reopen on Friday, July 5, at 8 a.m. EDT.</p> 
+
+<http://www.arrl.org/news/view/arrl-headquarters-is-closed-on-thursday-july-4-for-independence-day>
+
+---
+
+## Peculiar precision full-wave rectifier needs no matched resistors
+
+date: 2024-07-03, from: EDN Blog
+
+<img width="961" height="696" src="https://www.edn.com/wp-content/uploads/PrettyGoodRectifier_Figure3.png?fit=961%2C696" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/PrettyGoodRectifier_Figure3.png?w=961 961w, https://www.edn.com/wp-content/uploads/PrettyGoodRectifier_Figure3.png?w=300 300w, https://www.edn.com/wp-content/uploads/PrettyGoodRectifier_Figure3.png?w=768 768w" sizes="(max-width: 961px) 100vw, 961px" /><p>This design idea shows an unconventional precision full-wave rectifier circuit with a notable lack of matched resistors. </p>
+<p>The post <a href="https://www.edn.com/peculiar-precision-full-wave-rectifier-needs-no-matched-resistors/" data-wpel-link="internal">Peculiar precision full-wave rectifier needs no matched resistors</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/peculiar-precision-full-wave-rectifier-needs-no-matched-resistors/>
+
+---
+
+## ARRL VEC Services Update During Systems Disruption
+
+date: 2024-07-02, from: Amateur Radio Relay League News
+
+<p>ARRL previously reported that we are responding to a serious incident involving access to our network and headquarters-based systems. Several services have been affected, including those administered by the ARRL Volunteer Examiner Coordinator (ARRL VEC).</p><p><strong>Exam Registrations and Materials</strong>. ARRL Volunteer Examiners (VEs) should continue to submit exam registrations and material requests. While we a...</p> 
+
+<http://www.arrl.org/news/view/arrl-vec-services-update-during-systems-disruption>
+
+---
+
+## ARRL Systems Service Disruption
+
+date: 2024-07-02, from: Amateur Radio Relay League News
+
+<p><strong>Updated 07/02/2024</strong></p><p>A comprehensive update on the status of ARRL VEC services is available here.</p><p><strong>Updated 07/01/2024</strong></p><p>Effective 12:00pm ET / 16:00 UTC we will be returning Logbook of The World® (LoTW®) to service. </p><p>As work progressed on the network, some users encountered LoTW opening briefly during which some 6600 logs were uploaded. The logs were not processed until this weekend as we tested that th...</p> 
+
+<http://www.arrl.org/news/view/arrl-systems-service-disruption>
 
 ---
 
@@ -13,7 +65,7 @@ updated: 2024-07-02 08:54:59
 
 date: 2024-07-02, from: EDN Blog
 
-<img width="600" height="315" src="https://www.edn.com/wp-content/uploads/Hero-image-Altair.jpg?fit=600%2C315" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Altair.jpg?w=600 600w, https://www.edn.com/wp-content/uploads/Hero-image-Altair.jpg?w=300 300w" sizes="(max-width: 600px) 100vw, 600px" /><p>Another EDA player is on the horizon, taking a similar path of serial acquisitions to attain design automation software glory.</p>
+<img width="600" height="315" src="https://www.edn.com/wp-content/uploads/Hero-image-Altair.jpg?fit=600%2C315" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Altair.jpg?w=600 600w, https://www.edn.com/wp-content/uploads/Hero-image-Altair.jpg?w=300 300w" sizes="(max-width: 600px) 100vw, 600px" /><p>Another EDA player is on the horizon, taking a similar path of serial acquisitions to attain design automation software glory.</p>
 <p>The post <a href="https://www.edn.com/altair-eying-a-place-in-edas-shifting-landscape/" data-wpel-link="internal">Altair eying a place in EDA&#8217;s shifting landscape</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
@@ -43,16 +95,6 @@ date: 2024-07-01, from: Amateur Radio Relay League News
 
 ---
 
-## ARRL Systems Service Disruption
-
-date: 2024-07-01, from: Amateur Radio Relay League News
-
-<p><strong>Updated 07/01/2024</strong></p><p>Effective 12:00pm ET / 16:00 UTC we will be returning Logbook of The World® (LoTW®) to service. </p><p>As work progressed on the network, some users encountered LoTW opening briefly during which some 6600 logs were uploaded. The logs were not processed until this weekend as we tested that the interfaces to LoTW were functioning properly.</p><p>We are taking steps to help manage what will li...</p> 
-
-<http://www.arrl.org/news/view/arrl-systems-service-disruption>
-
----
-
 ## Implementing AI at the edge: How it works
 
 date: 2024-07-01, from: EDN Blog
@@ -74,14 +116,4 @@ date: 2024-07-01, from: EDN Blog
  
 
 <https://www.edn.com/simple-low-pass-filters-tunable-with-a-single-potentiometer/>
-
----
-
-## Hurricane Beryl: Hurricane Watch Net Active
-
-date: 2024-06-30, from: Amateur Radio Relay League News
-
-<p>Amateur Radio is active to provide critical communications for those in the path of Hurricane Beryl.</p><p><strong>Monday, July 1, 2024, AM update:</strong><br /><br />This information is from Lloyd Colston, KC5FM:</p><p>As Hurricane Beryl churns toward the Leeward Islands, members of the VOIP Skywarn Net, Auxcomm USA, and the Sunflower System plan for activation during the day Monday.</p><p></p><p>Currently, Beryl is a dangerous Category Four storm ...</p> 
-
-<http://www.arrl.org/news/view/hurricane-beryl-hurricane-watch-net-active>
 

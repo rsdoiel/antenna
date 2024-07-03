@@ -1,11 +1,544 @@
 ---
 title: tech likely 2024.27
-updated: 2024-07-02 08:55:00
+updated: 2024-07-03 09:14:41
 ---
 
 # tech likely 2024.27
 
-(date: 2024-07-02 08:55:00)
+(date: 2024-07-03 09:14:41)
+
+---
+
+## Linux Mint 22 beta sprinkles Cinnamon desktop on Ubuntu
+
+date: 2024-07-03, updated: 2024-07-03, from: Liam Proven's articles at the Register
+
+<h4>Taste at your own risk</h4>
+      <p>The Linux Mint project has released the beta version of version 22, codenamed "Wilma" and featuring the latest Cinnamon desktop.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/03/linux_mint_22_beta/>
+
+---
+
+## Dr. Love: a pocket-sized love tester arcade game
+
+date: 2024-07-03, from: Raspberry Pi News (.com)
+
+<p>Dr. Love is a credit card-sized version of those famously reliable love tester machines found in old-fashioned arcades.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/dr-love-a-pocket-sized-love-tester-arcade-game/">Dr. Love: a pocket-sized love tester arcade game</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/dr-love-a-pocket-sized-love-tester-arcade-game/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-03, from: Miguel de Icaza Mastondon feed)
+
+<p>Can not stop laughing at this</p> 
+
+<https://mastodon.social/@Migueldeicaza/112723016258727641>
+
+---
+
+## NASA Announces its Artemis II Backup Crew Member for Moon Mission
+
+date: 2024-07-03, from: NASA breaking news
+
+NASA has selected astronaut Andre Douglas as its backup crew member for the agency’s Artemis II test flight, the first crewed mission under NASA’s Artemis campaign. Douglas will train alongside NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and Canadian Space Agency (CSA) astronaut Jeremy Hansen. In the event a NASA astronaut is unable [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-announces-its-artemis-ii-backup-crew-member-for-moon-mission/>
+
+---
+
+## Frequently Asked Questions about using AI in Windows apps
+
+date: 2024-07-03, from: Windows Developer Blog
+
+<p>The post <a href="https://learn.microsoft.com/en-us/windows/ai/faq">Frequently Asked Questions about using AI in Windows apps</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<https://learn.microsoft.com/en-us/windows/ai/faq>
+
+---
+
+## NASA’s Planetary Radar Tracks Two Large Asteroid Close Approaches
+
+date: 2024-07-03, from: NASA breaking news
+
+The Deep Space Network’s Goldstone planetary radar had a busy few days observing asteroids 2024 MK and 2011 UL21 as they safely passed Earth. Scientists at NASA’s Jet Propulsion Laboratory in Southern California recently tracked two asteroids as they flew by our planet. One turned out to have a little moon orbiting it, while the [&#8230;] 
+
+<https://www.nasa.gov/solar-system/asteroids/near-earth-asteroid/nasas-planetary-radar-tracks-two-large-asteroid-close-approaches/>
+
+---
+
+## Kernel tweaks improve Raspberry Pi performance, efficiency
+
+date: 2024-07-03, updated: 2024-07-03, from: Liam Proven's articles at the Register
+
+<h4>There's a lot of room for improvement in modern computing, from the low end to the very high</h4>
+      <p>Two separate development efforts are improving both Raspberry Pi power management and memory efficiency – one using tools built for massive clusters.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/03/kernel_tweaks_rapsberry_pi/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-03, from: Miguel de Icaza Mastondon feed)
+
+<p>Well this was a fabulous talk, and went into the subtle problems I had struggled with in the past (assume memory bound vs load) and I am now quite happy with my new gained understanding.</p><p>From: <span class="h-card" translate="no"><a href="https://discuss.systems/@steve" class="u-url mention">@<span>steve</span></a></span><br /><a href="https://discuss.systems/@steve/112718139126665166" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">discuss.systems/@steve/1127181</span><span class="invisible">39126665166</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112722835481968443>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-03, from: Miguel de Icaza Mastondon feed)
+
+<p>They now sell Covid-like tests that can do a handful of Flu tests, all in one go.</p><p>Plot twist: only accredited doctor offices can buy it.  </p><p>So a 10 dollar test becomes a 200 dollar test.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112722774871698226>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-03, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I added links to my two new podcast feeds to the <a href="http://scripting.com/?tab=about">About page</a> on Scripting News. <a href="https://imgs.scripting.com/2024/07/03/aboutpagescreen.png">Screen shot</a>. 
+
+<http://scripting.com/2024/07/03.html#a132251>
+
+---
+
+## What Can Tiling Patterns Teach Us?
+
+date: 2024-07-03, from: Quanta Magazine
+
+If you cover a surface with tiles, repetitive patterns always emerge — or do they? In this week’s episode, mathematician Natalie Priebe Frank and co-host Janna Levin discuss how recent breakthroughs in tiling can unlock structural secrets in the natural world.            <p>The post <a href="https://www.quantamagazine.org/what-can-tiling-patterns-teach-us-20240703/" target="_blank">What Can Tiling Patterns Teach Us?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/what-can-tiling-patterns-teach-us-20240703/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-03, from: Dave Winer's Scripting News)
+
+If something like this happens and you haven't seen it in my linkblog, or on my blog's home page, please post a link to my <a href="https://mastodon.social/@davew">Mastodon account</a>. 
+
+<http://scripting.com/2024/07/03.html#a124511>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-03, from: Dave Winer's Scripting News)
+
+Somehow, even though I watched an hour of news on MSNBC last night, and was on all the social media all day, I didn't hear about Pelosi's comments, and the leaked poll data, until this morning. It wasn't until I looked at the synopsis of Olbermann's podcast that I learned that something had changed. For whatever reason, even though I have made a significant investment in time to stay informed, it isn't working. Fact. 
+
+<http://scripting.com/2024/07/03.html#a124225>
+
+---
+
+## Fourth of July Holidays in Space
+
+date: 2024-07-03, from: NASA breaking news
+
+It may seem remarkable that no American spent the Fourth of July holiday in space for the first 21 years of human spaceflight. Not until 1982 and the 35th U.S. human spaceflight did Americans awaken in space on Independence Day, and then bring their spacecraft back to Earth later in the day to a rousing [&#8230;] 
+
+<https://www.nasa.gov/history/fourth-of-july-holidays-in-space-2024/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-03, from: Dave Winer's Scripting News)
+
+<a href="https://omny.fm/shows/countdown-with-keith-olbermann/pelosi-suggests-biden-take-test-he-stumbles-anew-7">Olbermann</a> calls on Biden to resign, making Harris the incumbent. 
+
+<http://scripting.com/2024/07/03.html#a123618>
+
+---
+
+## Man Hunt (1941)
+
+date: 2024-07-03, from: Ayjay blog
+
+In theory, Fritz Lang’s Man Hunt faced the same problem that many other Hollywood films of the same era (Hitchcock’s Foreign Correspondent, for instance) faced: How to be anti-Nazi while maintaining a fig leaf of objectivity — a necessary fig leaf, given the supposed neutrality of the United States. But this movie is about as [&#8230;] 
+
+<https://blog.ayjay.org/man-hunt-1941/>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-07-03, from: Jessica Smith's blog)
+
+<p>The cat trap is working. (Alternatively, &ldquo;Hey, check out the box I bought Gidget for Viv&rsquo;s birthday!&rdquo;)</p>
+<img src="https://www.jayeless.net/media/2024/07/gidget-in-box.jpeg" alt="A tabby cat sitting in a cardboard box, making eye contact with the camera." class="u-photo"> 
+
+<https://www.jayeless.net/2024/07/cat-trap.html>
+
+---
+
+## A vote of thanks to our Trustees
+
+date: 2024-07-03, from: Raspberry Pi (.org)
+
+<p>Tuesday 11 June 2024 will be remembered as one of the most important days in the history of Raspberry Pi. The successful introduction of the Raspberry Pi Foundation&#8217;s commercial subsidiary on the London Stock Exchange is a genuinely remarkable achievement. I want to put on record my huge congratulations and thanks to Eben Upton, Martin&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/a-vote-of-thanks-to-our-trustees/">A vote of thanks to our Trustees</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/a-vote-of-thanks-to-our-trustees/>
+
+---
+
+## R9OS: Plan 9 in Rust
+
+date: 2024-07-03, from: OS News
+
+R9 is a work-in-progress effort to build a Plan 9 kernel to Rust. It was started a couple years back by the maintainers of the Harvey OS distribution of Plan 9, who threw in the towel after &#8220;loss of traction&#8221;. R9 is a reimplementation of the plan9 kernel in Rust. It is not only inspired by but in many ways derived from the original Plan 9 source code. ↫ R9OS GitHub page For now, the project is obviously mostly focused on running in virtual machines, specifically Qemu, in which it can be run using a variety of architectures: aarch64, x86-64 (with or without kvm), and RISC-V. 
+
+<https://www.osnews.com/story/140049/r9os-plan-9-in-rust/>
+
+---
+
+## PgBouncer 1.23.0 released
+
+date: 2024-07-03, from: PostgreSQL News
+
+<p>PgBouncer 1.23.0 has been released. This release contains a number of new features along with a variety of improvements and bug fixes. Highlights are: User name maps can now be used in authentication configuration. In multi-process PgBouncer setups, it is now possible to do rolling restarts. Replication connections can go through PgBouncer.</p>
+<p>See https://www.pgbouncer.org/2024/07/pgbouncer-1-23-0 for more information, the detailed changelog, and download links.</p>
+<p>PgBouncer is a lightweight connection pooler for PostgreSQL.</p> 
+
+<https://www.postgresql.org/about/news/pgbouncer-1230-released-2889/>
+
+---
+
+## The history of Alt+number sequences, and why Alt+9731 sometimes gives you a heart and sometimes a snowman
+
+date: 2024-07-02, from: OS News
+
+Once upon a time, the IBM PC was released. In the IBM PC BIOS, you could enter characters that weren’t present on the keyboard by holding the Alt key and typing the decimal value on the numeric keypad. For example, you could enter ñ by holding Alt and typing Numpad1 Numpad6 Numpad4, then releasing the Alt key. ↫ Raymond Chen Another Raymond Chen story, and this one involves hearts, snowmen, different editing controls, codepages, and more. In other words, just another Tuesday for Chen. 
+
+<https://www.osnews.com/story/140128/the-history-of-altnumber-sequences-and-why-alt9731-sometimes-gives-you-a-heart-and-sometimes-a-snowman/>
+
+---
+
+## LISTEN: The End of Libraries as We Know Them?
+
+date: 2024-07-02, from: Internet Archive Blog
+
+The publishers&#8217; lawsuit against our library is featured in the latest episode of &#8220;Why Is This Happening? The Chris Hayes Podcast.&#8221; Listen in as Brewster Kahle, Internet Archive&#8217;s digital librarian, [&#8230;] 
+
+<https://blog.archive.org/2024/07/02/listen-the-end-of-libraries-as-we-know-them/>
+
+---
+
+## 2024-07-02 SSH hardening
+
+date: 2024-07-02, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-02-ssh-hardening">2024-07-02 SSH hardening</h1>
+
+<p>Today I decided to harden my SSH server configuration and did the one thing you should never do: I logged out before testing the new configuration and promptly locked myself.
+Don&rsquo;t be like me.</p>
+
+<p>Here&rsquo;s what I wanted to do: Positron Security&rsquo;s <a href="https://www.sshaudit.com/">SSH Configuration Auditor</a> gave me a B+ grade and there were <a href="https://www.sshaudit.com/hardening_guides.html#debian_12">some suggestions</a>. I had already implemented some of them because a long time ago I had followed <a href="https://disknotifier.com/blog/simple-ssh-security/">a different SSH hardening guide</a>.</p>
+
+<p>The thing that broke my setup is that the new hardening guide specified the following:</p>
+
+<pre><code>RequiredRSASize 3072
+</code></pre>
+
+<p>The effect was that I could no longer log in:</p>
+
+<pre><code>alex@alexschroeder.ch: Permission denied (publickey).
+</code></pre>
+
+<p>That&rsquo;s because I have passwords disabled. You can only get in via public key. And my public key wasn&rsquo;t good enough: it has 2048 bits:</p>
+
+<pre><code>ssh-keygen -lf .ssh/id_rsa
+2048 SHA256:************/****************************** alex@Megabombus.local (RSA)
+</code></pre>
+
+<p>So what I had to do:</p>
+
+<ul>
+<li>Visit the hosting provider&rsquo;s website</li>
+<li>Enable VNC</li>
+<li>Open a &ldquo;NoVNC&rdquo; window</li>
+<li>Enable login using passwords without having access to Shift or Control keys (wtf?)</li>
+</ul>
+
+<p>That meant commenting these two in <code>/etc/ssh/sshd_config</code>:</p>
+
+<pre><code>PermitRootLogin prohibit-password
+PasswordAuthentication no
+</code></pre>
+
+<p>Restarted <code>sshd</code> on the server:</p>
+
+<pre><code>systemctl restart sshd
+</code></pre>
+
+<p>I already had an <code>ed25519</code> identity:</p>
+
+<pre><code>ls .ssh/id* 
+.ssh/id_ed25519  .ssh/id_ed25519.pub  .ssh/id_rsa  .ssh/id_rsa.pub
+</code></pre>
+
+<p>I probably created them using the following:</p>
+
+<pre><code>ssh-keygen -t ed25519
+</code></pre>
+
+<p>I used <code>ssh-copy</code> to copy them to the server:</p>
+
+<pre><code>ssh-copy-id -i .ssh/id_ed25519 sibirocobombus
+</code></pre>
+
+<p>And I added the correct setting to my <code>.ssh/config</code>:</p>
+
+<pre><code>Host sibirocobombus
+  HostName alexschroeder.ch
+  Port 882
+  User alex
+  IdentityFile ~/.ssh/id_ed25519
+</code></pre>
+
+<p>I use the <code>ssh</code> config file all the time!</p>
+
+<p>This allowed me to uncomment these two in <code>/etc/ssh/sshd_config</code> again:</p>
+
+<pre><code>PermitRootLogin prohibit-password
+PasswordAuthentication no
+</code></pre>
+
+<p>I restarted <code>sshd</code> on the server:</p>
+
+<pre><code>systemctl restart sshd
+</code></pre>
+
+<p>Note to self: Should I ever need to check the server fingerprints, see <a href="ssh">ssh</a>.</p>
+
+<p>My <code>git</code> server needed the same public key in <code>/home/git/.ssh/authorized_keys</code>.</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a></p> 
+
+<https://alexschroeder.ch/view/2024-07-02-ssh-hardening>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-02, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/02/spiced.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">My favorite soft drink these days is <a href="https://preview.us.coca-cola.com/products/coca-cola-flavors/cherry-zero-sugar">Coke Cherry Zero</a>. It's got a really nice taste. Went to the store today, they only had one 12-pack, but they also had a 12-pack of <a href="https://www.coca-cola.com/us/en/brands/coca-cola/products/coca-cola-spiced">Coke Spiced Zero</a>. I decided to give it a try. I had a can at lunch and it's weird but okay I guess, but the belches are strongly flavored and that's <i>realllly</i> weird. It took me a while to figure out where this <a href="https://www.prevention.com/health/a32925734/why-do-my-burps-smell/">belch-breath</a> was coming from. It tastes like I took some very strong medicine. The weirdest soft drink I've ever had. But it kind of grows on you. I'll try another one and let you know how it goes. 
+
+<http://scripting.com/2024/07/02.html#a215018>
+
+---
+
+## Figma AI
+
+date: 2024-07-02, from: Michael Tsai
+
+Emanuel Maiberg (tweet, Hacker News): The design tool Figma has disabled a newly launched AI-powered app design tool after a user showed that it was clearly copying Apple&#8217;s weather app. Figma disabled the feature, named Make Design, after CEO and cofounder of Not Boring Software Andy Allen tweeted images showing that asking it to make [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/02/figma-ai/>
+
+---
+
+## “Filter Unknown Senders” in Messages.app
+
+date: 2024-07-02, from: Michael Tsai
+
+Garrett Murray: I had no idea the &#8220;filter unknown senders&#8221; setting for Messages did much more than it implies. It actually creates a root-level menu that gives you several filter views that are very useful&#8230; why isn&#8217;t this enabled by default? The filters also properly respect your pins and such, and your chosen view is [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/02/filter-unknown-senders-in-messages-app/>
+
+---
+
+## Volunteer Crew to Exit NASA’s Simulated Mars Habitat After 378 Days
+
+date: 2024-07-02, from: NASA breaking news
+
+The four volunteers who have been living and working inside NASA’s first simulated yearlong Mars habitat mission are set to exit their ground-based home on Saturday, July 6. NASA will provide live coverage of the crew’s exit from the habitat at NASA’s Johnson Space Center in Houston at 5 p.m. EDT. NASA will stream the [&#8230;] 
+
+<https://www.nasa.gov/news-release/volunteer-crew-to-exit-nasas-simulated-mars-habitat-after-378-days/>
+
+---
+
+## NASA Awards Launch Services Contract for Space Telescope Mission
+
+date: 2024-07-02, from: NASA breaking news
+
+NASA has selected Space Exploration Technologies Corporation (SpaceX) of Hawthorne, California, to provide launch services for the COSI (Compton Spectrometer and Imager) mission. The firm-fixed-price contract has a value of approximately $69 million, which includes launch services and other mission related costs. The COSI mission currently is targeted to launch August 2027 on a SpaceX [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-space-telescope-mission/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-02, from: Dave Winer's Scripting News)
+
+BTW, this is what the new podcast feed <a href="https://feeder.scripting.com/returnjson?feedurl=http://scripting.com/podcast.xml">looks like</a> viewed in feeder. 
+
+<http://scripting.com/2024/07/02.html#a195405>
+
+---
+
+## NASA’s ECOSTRESS Maps Burn Risk Across Phoenix Streets
+
+date: 2024-07-02, from: NASA breaking news
+
+Roads and sidewalks in some areas get so hot that skin contact could result in second-degree burns. Researchers at NASA’s Jet Propulsion Laboratory in Southern California have mapped scorching pavement in Phoenix where contact with skin — from a fall, for example — can cause serious burns. The image shows land surface temperatures across a [&#8230;] 
+
+<https://www.nasa.gov/missions/ecostress/nasas-ecostress-maps-burn-risk-across-phoenix-streets/>
+
+---
+
+## Second podcast of two
+
+date: 2024-07-02, from: Dave Winer's Scripting News
+
+<p><a href="http://scripting.com/2024/07/02/twoPodcastTuesdayPodcastPart2.m4a">This</a> is the second of <a href="http://scripting.com/2024/07/02/192636.html">two</a> podcasts for a two-podcast Tuesday, today.</p>
+<p>Very likely there will be another tomorrow. </p>
+<p>So much going on! <span class="spOldSchoolEmoji">😄</span></p>
+<p>25 minutes.</p>
+ 
+
+<http://scripting.com/2024/07/02/193103.html?title=secondPodcastOfTwo>
+
+---
+
+## A two-podcast Tuesday
+
+date: 2024-07-02, from: Dave Winer's Scripting News
+
+<p><a href="http://scripting.com/2024/07/02/twoPodcastTuesdayPodcastPart1.m4a">This</a> is the first of <a href="http://scripting.com/2024/07/02/193103.html">two</a> podcasts for today. </p>
+<p>It started out being one podcast, but I hit the wrong button after 14 minutes and ended up with two audio files instead of one.</p>
+<p>I don't like editing, so you get two for the price of one. :-)</p>
+<p>It's a rambler, starts out with me talking about <a href="https://www.amazon.com/Allow-Me-Retort-Black-Constitution/dp/1620976811">Elie Mystal</a> on abortion and slavery. </p>
+<p>The second podcast explains how we're in a war, and it's about time we recognized it as such. </p>
+<p>We need the Democrats to do what we elected them to do, save the freaking United States, which by the way after yesterday's decision by the Supreme Court, doesn't really exist any longer. We go into that in the second episode. </p>
+<p>It's not enough to win the election. We have to get the Supreme Court back to a semblance of what it was. They're behaving in a way that's inconsistent with the continued existence of the country they're supposed to be part of the government of. </p>
+<p>But we can have a laugh along the way. The world hasn't completely fallen apart, <i>yet.</i> <span class="spOldSchoolEmoji">😄</span> </p>
+<p>14 minutes.</p>
+ 
+
+<http://scripting.com/2024/07/02/192636.html?title=aTwopodcastTuesday>
+
+---
+
+## Studying Hurricane Beryl from Space
+
+date: 2024-07-02, from: NASA breaking news
+
+NASA astronaut Matthew Dominick captured this image of Hurricane Beryl in the Caribbean on July 1, 2024, while aboard the International Space Station, and posted it to X. The Category 4 hurricane had winds of about 130 mph (215 kph). Hurricanes – tropical cyclones that form over the Atlantic Ocean or the eastern Pacific Ocean [&#8230;] 
+
+<https://www.nasa.gov/image-article/studying-hurricane-beryl-from-space/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-07-02, from: Tomosino's Mastodon feed)
+
+<p>I'm backing this lovely little animal card game from a local game creator. Do you have a little one that's into animals? Do they love animal facts? What about battling them?</p><p><a href="https://gamefound.com/en/projects/bespoke-games/natturuval" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">gamefound.com/en/projects/besp</span><span class="invisible">oke-games/natturuval</span></a></p> 
+
+<https://tilde.zone/@tomasino/112718451494832438>
+
+---
+
+##  Wells Fargo analysts ordered 75 identical burrito bowls from 8 different Chipotles... 
+
+date: 2024-07-02, updated: 2024-07-02, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044894-wells-fargo-analysts-orde>
+
+---
+
+## Lagniappe for July 2024
+
+date: 2024-07-02, from: NASA breaking news
+
+Explore Lagniappe for July 2024 featuring: Gator Speaks Conversations filled the room with anticipation for the day ahead. NASA’s Stennis Space Center hosted Take Our Children to Work Day on June 27 with a day set aside for children of employees to see up close the work carried out at NASA Stennis by its diverse [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-july-2024/>
+
+---
+
+## How a NASA Engineer Supports the Commercialization of Space
+
+date: 2024-07-02, from: NASA breaking news
+
+Chris Barnett-Woods’ favorite movie growing up – Back to the Future – led him to dream of one day building a DeLorean automobile. Instead, the electrical engineer is doing something never imagined as he helps NASA support the commercialization of space for the benefit of all. “If there is any interest, always apply to work [&#8230;] 
+
+<https://www.nasa.gov/image-article/chris-barnett-woods-nasa-engineer/>
+
+---
+
+## European Commission shoots down Facebook’s “pay or consent” model
+
+date: 2024-07-02, from: OS News
+
+The European Union&#8217;s Digital Markets Act is the gift that keeps on giving. This time, it&#8217;s Facebook&#8217;s turn to be slapped on the fingers with a ruler &#8211; a metric ruler, of course &#8211; because of its malicious compliance with the DMA. Today, the Commission has informed Meta of its preliminary findings that its “pay or consent” advertising model fails to comply with the Digital Markets Act (DMA). In the Commission&#8217;s preliminary view, this binary choice forces users to consent to the combination of their personal data and fails to provide them a less personalised but equivalent version of Meta&#8217;s social networks. ↫ European Commission press release The European Commission&#8217;s preliminary conclusion takes issue with Facebook&#8217;s binary choice between &#8220;pay for zero ads&#8221; and &#8220;full-on tracking and all the ads&#8221;. According to the DMA, Facebook must offer users the option of an equivalent experience with less tracking, and the company doesn&#8217;t offer such an option to users. In addition, Facebook&#8217;s proposal does not allow users to &#8220;exercise their right to freely consent to the combination of their personal data&#8221;. It&#8217;s important to note that this is not some sort of definitive ruling of finding; it&#8217;s preliminary, and Facebook now has the opportunity to state its case and formulate its arguments. If the eventual ruling is that Facebook does not comply, the company is liable for fines up to 10% of its yearly worldwide turnover, which can rise up to 20% for repeated infractions. 
+
+<https://www.osnews.com/story/140126/european-commission-shoots-down-facebooks-pay-or-consent-model/>
+
+---
+
+## Installing Ansible on a RISC-V computer
+
+date: 2024-07-02, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Installing Ansible on a RISC-V computer</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Ansible runs on Python, and Python runs on... well pretty much <em>everything</em>. Including newer RISC-V machines.</p>
+
+<p>But Ansible has a lot of dependencies, and some of these dependencies have caused frustration from time to time on x86 and Arm (so having issues with a dependency is just a way of life when you enter <a href="https://en.wikipedia.org/wiki/Dependency_hell">dependency hell</a>)... but in this case, for the past few months, I've never had luck installing Ansible from PyPI (Python's Package Index) on any RISC-V system, using <code>pip install ansible</code>.</p>
+
+<p>I prefer installing this way (rather than compiling from source or from system packages) because it generally gets the latest version of Ansible, with an easy upgrade/downgrade path. It's also easy to add <code>ansible</code> to a Python <code>requirements.txt</code> file and install it alongside other package dependencies.</p>
+
+<p>Regardless, the <code>cryptography</code> library, which requires a Rust compiler to build if the package is not already built for a particular system, has made it difficult to install Ansible from <code>pip</code>:</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-07-02T13:16:37-05:00" title="Tuesday, July 2, 2024 - 13:16" class="datetime">July 2, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/installing-ansible-on-risc-v-computer>
+
+---
+
+## Interview with Xinchuan Huang
+
+date: 2024-07-02, from: NASA breaking news
+
+Let’s start with your childhood, where you were born, where you&#8217;re from, your young years, your family at the time, what your parents did, and how early it was in your life that you decided you&#8217;d like to pursue a career like the one you&#8217;re pursuing now? I was born in a small town in [&#8230;] 
+
+<https://www.nasa.gov/general/interview-with-xinchuan-huang/>
+
+---
+
+## A Supreme Court Decision with a Body Count
+
+date: 2024-07-02, from: Dave Karpf's blog
+
+The Supreme Court majority are extremist, partisan ideologues. They are not subtle about it. 
+
+<https://davekarpf.substack.com/p/a-supreme-court-decision-with-a-body>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-02, from: Dave Winer's Scripting News)
+
+I post stuff to <a href="http://scripting.com/2021/09/17/153104.html?title=facebookIsAtLeastEightThings">Facebook</a> that could get inundated with hateful comments. I have a pretty good idea upfront which ones those are. I go ahead and post them. At the first sign of flameage I turn comments off, with a <a href="https://www.facebook.com/dave.winer.12/posts/pfbid0YQnqZuksa8nEHgCsEcvyJ5krLniGoFCrRRB2UHmjsDGosFycKorpskY9KuokgQkNl?comment_id=393461023707630">simple explanation</a>. "I turned off comments here. I didn't want to have a discussion about this, it's just an observation." I think this is totally legit and more people should do it. Really frees you up to say what you see. 
+
+<http://scripting.com/2024/07/02.html#a170415>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-02, from: Dave Winer's Scripting News)
+
+They edited the Constitution the way board members of tech companies design software products, with no idea how it works. 
+
+<http://scripting.com/2024/07/02.html#a164656>
+
+---
+
+##  &#8220;The Last Rave&#8221; 
+
+date: 2024-07-02, updated: 2024-07-02, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/the-last-rave>
 
 ---
 
@@ -49,9 +582,31 @@ date: 2024-07-02, from: Dave Winer's Scripting News
 
 ---
 
+## Plan for Biden re Supreme Court
+
+date: 2024-07-02, from: Dave Winer's Scripting News
+
+<p><i>This is a lightly edited version of a <a href="https://www.threads.net/@davew/post/C864lCsuwbK">post</a> on Threads. </i></p>
+<p>I understand why the Dems don't want to be the first to use the new rule passed by the Supreme Court, but I think they should consider this plan:</p>
+<ol>
+<li>Arrest the members of the Supreme Court who just voted for the new rule about presidential immunity.</li>
+<li>Nominate six replacements, sorry no Repubs this time.</li>
+<li>The Senate ratifies them.</li>
+<li>Once they're installed, they hold an emergency session to restore Roe v Wade, and to undo all the other crazy BS they did and then revoke the new rule, and re-assert the rule of law that <i>especially</i> applies to the president.</li>
+<li>And I don't know what they do with the ones they arrested but frankly I don't care. Leave them in jail until they figure it out.</li>
+<li>And it's about time Trump was arrested and held without bail, so he can't do any more damage to the US while awaiting trial. </li>
+</ol>
+<p><a href="https://www.threads.net/@palafo">Patrick LaForge</a>, a longtime friend who works at the NYT: "I think the distinction here is that the president can't be prosecuted for violations of law but they would still be acts unsupported by law that a court could block or an agency could refuse to carry out. But they sure have created a mess."</p>
+<p><a href="https://www.threads.net/@davew/post/C87TO13pkO_">My response</a>: Maybe starting to do it is enough to get the courts to undo the mess asap.</p>
+ 
+
+<http://scripting.com/2024/07/02/150747.html?title=planForBidenReSupremeCourt>
+
+---
+
 **@Dave Winer's Scripting News** (date: 2024-07-02, from: Dave Winer's Scripting News)
 
-Listen to <a href="https://podcasts.apple.com/us/podcast/i-dissent-biden-declares-war-on-supreme-court-trump-7-2-24/id1633301179?i=1000660868719">today's Countdown</a> podcast. I was cheering out loud during the first segment. When you read this <a href="https://www.threads.net/@davew/post/C864lCsuwbK">post</a>, you'll see why. I tried listening to the NYT Daily podcast today, but it made me hate them all over again, starting with saying how great a week it has been for Trump. You can say that, imho, but you have to say right after that, that it was a terrible week for the rest of us. Because any good news for Trump is awful news for everyone else. And I do mean everyone, including the people who plan to vote for him again. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/02/kitty.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Listen to <a href="https://podcasts.apple.com/us/podcast/i-dissent-biden-declares-war-on-supreme-court-trump-7-2-24/id1633301179?i=1000660868719">today's Countdown</a> podcast. I was cheering out loud during the first segment. When you read this <a href="https://www.threads.net/@davew/post/C864lCsuwbK">post</a>, you'll see why. I tried listening to the NYT Daily podcast today, but it made me hate them all over again, starting with saying how great a week it has been for Trump. You can say that, imho, but you have to say right after that, that it was a terrible week for the rest of us. Because any good news for Trump is awful news for everyone else. And I do mean everyone, including the people who plan to vote for him again. 
 
 <http://scripting.com/2024/07/02.html#a150249>
 
@@ -254,99 +809,6 @@ date: 2024-07-02, updated: 2024-07-02, from: Liam Proven's articles at the Regis
 
 ---
 
-## 2024-07-02 SSH hardening
-
-date: 2024-07-02, from: Alex Schroeder's Blog
-
-<h1 id="2024-07-02-ssh-hardening">2024-07-02 SSH hardening</h1>
-
-<p>Today I decided to harden my SSH server configuration and did the one thing you should never do: I logged out before testing the new configuration and promptly locked myself.
-Don&rsquo;t be like me.</p>
-
-<p>Here&rsquo;s what I wanted to do: Positron Security&rsquo;s <a href="https://www.sshaudit.com/">SSH Configuration Auditor</a> gave me a B+ grade and there were <a href="https://www.sshaudit.com/hardening_guides.html#debian_12">some suggestions</a>. I had already implemented some of them because a long time ago I had followed <a href="https://disknotifier.com/blog/simple-ssh-security/">a different SSH hardening guide</a>.</p>
-
-<p>The thing that broke my setup is that the new hardening guide specified the following:</p>
-
-<pre><code>RequiredRSASize 3072
-</code></pre>
-
-<p>The effect was that I could no longer log in:</p>
-
-<pre><code>alex@alexschroeder.ch: Permission denied (publickey).
-</code></pre>
-
-<p>That&rsquo;s because I have passwords disabled. You can only get in via public key. And my public key wasn&rsquo;t good enough: it has 2048 bits:</p>
-
-<pre><code>ssh-keygen -lf .ssh/id_rsa
-2048 SHA256:************/****************************** alex@Megabombus.local (RSA)
-</code></pre>
-
-<p>So what I had to do:</p>
-
-<ul>
-<li>Visit the hosting provider&rsquo;s website</li>
-<li>Enable VNC</li>
-<li>Open a &ldquo;NoVNC&rdquo; window</li>
-<li>Enable login using passwords without having access to Shift or Control keys (wtf?)</li>
-</ul>
-
-<p>That meant commenting these two in <code>/etc/ssh/sshd_config</code>:</p>
-
-<pre><code>PermitRootLogin prohibit-password
-PasswordAuthentication no
-</code></pre>
-
-<p>Restarted <code>sshd</code> on the server:</p>
-
-<pre><code>systemctl restart sshd
-</code></pre>
-
-<p>I already had an <code>ed25519</code> identity:</p>
-
-<pre><code>ls .ssh/id* 
-.ssh/id_ed25519  .ssh/id_ed25519.pub  .ssh/id_rsa  .ssh/id_rsa.pub
-</code></pre>
-
-<p>I probably created them using the following:</p>
-
-<pre><code>ssh-keygen -t ed25519
-</code></pre>
-
-<p>I used <code>ssh-copy</code> to copy them to the server:</p>
-
-<pre><code>ssh-copy-id -i .ssh/id_ed25519 sibirocobombus
-</code></pre>
-
-<p>And I added the correct setting to my <code>.ssh/config</code>:</p>
-
-<pre><code>Host sibirocobombus
-  HostName alexschroeder.ch
-  Port 882
-  User alex
-  IdentityFile ~/.ssh/id_ed25519
-</code></pre>
-
-<p>I use the <code>ssh</code> config file all the time!</p>
-
-<p>This allowed me to uncomment these two in <code>/etc/ssh/sshd_config</code> again:</p>
-
-<pre><code>PermitRootLogin prohibit-password
-PasswordAuthentication no
-</code></pre>
-
-<p>I restarted <code>sshd</code> on the server:</p>
-
-<pre><code>systemctl restart sshd
-</code></pre>
-
-<p>Note to self: Should I ever need to check the server fingerprints, see <a href="ssh">ssh</a>.</p>
-
-<p><a class="tag" href="/search/?q=%23Administration">#Administration</a></p> 
-
-<https://alexschroeder.ch/view/2024-07-02-ssh-hardening>
-
----
-
 ## 2024-07-02 The importance of moderation
 
 date: 2024-07-02, from: Alex Schroeder's Blog
@@ -407,13 +869,13 @@ The problem is unmoderated growth.</p>
 
 date: 2024-07-02, from: O'Reilly Radar
 
-Can anything that is programmable have an embedded LLM? Apparently so. llama.ttf is a plain old font that looks like OpenSans—you can download it and install it. We don’t know whether this is a massive vulnerability or a way to embed AI in almost any text-based application. Probably both. It may just be a coincidence, [&#8230;] 
+Can anything that is programmable have an embedded LLM? Apparently so. llama.ttf is a plain old font that looks like Open Sans—you can download it and install it. We don’t know whether this is a massive vulnerability or a way to embed AI in almost any text-based application. Probably both. It may just be a [&#8230;] 
 
 <https://www.oreilly.com/radar/radar-trends-to-watch-july-2024/>
 
 ---
 
-## How tech went from free love to pay-per-click
+## How tech went from free love to pay-per-day
 
 date: 2024-07-02, updated: 2024-07-02, from: Liam Proven's articles at the Register
 
@@ -1305,6 +1767,23 @@ date: 2024-07-01, from: Status-Q blog
 One of the surprising things about Octopus, the UK company from whom we purchase our gas and electricity, is that, despite growing to the point where they handle about a quarter of UK households, they continue to innovate. For a long time, we&#8217;ve been on the &#8216;Octopus Go&#8217; tariff, which means that for the four <a class="more-link excerpt-link" href="https://statusq.org/archives/2024/07/01/12105/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
 
 <https://statusq.org/archives/2024/07/01/12105/>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-07-01, from: Jessica Smith's blog)
+
+<p>Shout out to whoever at this block of flats decided to fly a Canadian flag today (presumably because it is Canada Day). Nationalism isn&rsquo;t really my thing but it still put a, uh, smirk on my face as I walked home from the shops.</p>
+<img src="https://www.jayeless.net/media/2024/07/canadian-flag-over-flats.jpeg" alt="Looking across the road at a building, which looks like a two-storey house at the front and a modern white/dark grey apartment block in the rear. Above one of the rear apartments is a Canadian flag." class="u-photo"> 
+
+<https://www.jayeless.net/2024/07/canada-day-flag.html>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-07-01, from: Jessica Smith's blog)
+
+<p>Caught up with an old friend for lunch today, which has put me in a real good mood :) Need to make sure to do this more often, and not get so caught up in the endless &ldquo;life&rdquo; grind. It&rsquo;d be nice if seeing friends was still as easy as bumping into them at school/wherever, but it&rsquo;s not, so, making the effort is worth it, haha.</p> 
+
+<https://www.jayeless.net/2024/07/lunch-with-an-old-friend.html>
 
 ---
 

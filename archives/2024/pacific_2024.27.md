@@ -1,11 +1,504 @@
 ---
 title: pacific 2024.27
-updated: 2024-07-02 08:54:58
+updated: 2024-07-03 09:14:39
 ---
 
 # pacific 2024.27
 
-(date: 2024-07-02 08:54:58)
+(date: 2024-07-03 09:14:39)
+
+---
+
+## Demiral double powers Turkey past Austria into Euro 2024 quarterfinals
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>LEIPZIG, Germany &#8212; Turkey&#8217;s Merih Demiral struck in each half and their goalkeeper Mert Gunok pulled off a superb stoppage-time save as they secured a high-octane 2-1 victory over Austria on Tuesday to book their spot in Euro 2024&#8217;s last eight.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/sports/demiral-double-powers-turkey-past-austria-into-euro-2024-quarterfinals/>
+
+---
+
+## Former Campbell and Oklahoma star Jocelyn Alo is eyeing the 2028 L.A. Olympics
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>Some of Jocelyn Alo&#8217;s most prominent career accomplishments took place at Devon Park, perhaps none more notable than her back-to-back NCAA championships as a member of the Oklahoma Sooners women&#8217;s softball team.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/sports/former-campbell-and-oklahoma-star-jocelyn-alo-is-eyeing-the-2028-l-a-olympics/>
+
+---
+
+## HCRA: Puna punches third regatta win of the season
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>Moku O Hawai&#8217;i Outrigger Canoe Racing Association (HCRA) hosted its fourth regatta of the paddling season this past Saturday in Hilo Bay. Puna Canoe Club took home the most medals (26) and points (229) for the third regatta of 2024.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/sports/hcra-puna-punches-third-regatta-win-of-the-season/>
+
+---
+
+## Novak Djokovic cruises into Wimbledon second round in straight sets
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>Novak Djokovic cruised into the second round at Wimbledon, downing Czech qualifier Vit Kopriva in straight sets on Tuesday in London.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/sports/novak-djokovic-cruises-into-wimbledon-second-round-in-straight-sets/>
+
+---
+
+## Kamaka answered call to be in Ige’s corner
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>Kai Kamaka was already back in Dad mode, setting up the toys and getting the food ready in the backyard of his grandmother&#8217;s home in Las Vegas.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/sports/kamaka-answered-call-to-be-in-iges-corner/>
+
+---
+
+## ‘Bronny has earned this,’ JJ Redick says; rookie to sign multiyear contract with Lakers, per sources
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>Lakers rookie Bronny James had a &#8220;surreal&#8221; week since being drafted by Los Angeles with the 55th pick in the 2024 NBA Draft on Thursday, he said alongside Dalton Knecht at the rookies&#8217; introductory news conference Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/sports/bronny-has-earned-this-jj-redick-says-rookie-to-sign-multiyear-contract-with-lakers-per-sources/>
+
+---
+
+## The Sixers have a bona fide big three. How do they match up across the league?
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>PHILADELPHIA &#8212; Has the 76ers&#8217; trio of Joel Embiid, Tyrese Maxey and Paul George become the NBA&#8217;s best big three?</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/sports/the-sixers-have-a-bona-fide-big-three-how-do-they-match-up-across-the-league/>
+
+---
+
+## Removal of Caltech observatory completed
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>The Caltech Submillimeter Observatory has been removed from Maunakea.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/hawaii-news/removal-of-caltech-observatory-completed/>
+
+---
+
+## Biden’s lapses are increasingly common, according to some of those in the room
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>In the weeks and months before President Joe Biden&#8217;s politically devastating performance on the debate stage in Atlanta, several current and former officials and others who encountered him behind closed doors noticed that he increasingly appeared confused or listless, or would lose the thread of conversations.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/nation-world-news/bidens-lapses-are-increasingly-common-according-to-some-of-those-in-the-room/>
+
+---
+
+## Police seek leads in Mountain View murder
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>Police said Tuesday they have not yet identified a suspect in the strangulation death of a 71-year-old woman found dead in her Hawaiian Acres subdivision home almost two weeks ago.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/hawaii-news/police-seek-leads-in-mountain-view-murder/>
+
+---
+
+## Waiakea Uka Park upgrades near completion
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>With an upgrade and expansion in progress, Waiakea Uka Park could be the new social and recreation hub for the upper Hilo community by the end of the year.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/hawaii-news/waiakea-uka-park-upgrades-near-completion/>
+
+---
+
+## Judge ups bail for man in domestic violence case
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>A Hilo judge on Friday more than doubled the bail for a domestic violence suspect.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/hawaii-news/judge-ups-bail-for-man-in-domestic-violence-case/>
+
+---
+
+## Judge delays Trump’s sentencing until Sept. 18 after immunity claim
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The judge in Donald Trump&#8217;s Manhattan criminal case delayed his sentencing until Sept. 18 to weigh whether a new U.S. Supreme Court ruling might imperil the former president&#8217;s conviction, the judge said Tuesday in a letter to prosecutors and defense lawyers.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/nation-world-news/judge-delays-trumps-sentencing-until-sept-18-after-immunity-claim/>
+
+---
+
+## Wall Street indexes end higher, helped by Tesla, megacap growth: Trending news in brief, 7/3
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>Wall Street indexes end higher, helped by Tesla, megacap growth</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/nation-world-news/wall-street-indexes-end-higher-helped-by-tesla-megacap-growth-trending-news-in-brief-7-3/>
+
+---
+
+## New drug approved for early Alzheimer’s slows decline but carries risks
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>The Food and Drug Administration on Tuesday approved a new drug for Alzheimer&#8217;s disease, the latest in a novel class of treatments that has been greeted with hope, disappointment and skepticism.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/nation-world-news/new-drug-approved-for-early-alzheimers-slows-decline-but-carries-risks/>
+
+---
+
+## Elon Musk’s politics may be pushing some buyers away from Tesla
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>Few auto executives are as closely identified with the companies they manage as Elon Musk, the CEO of Tesla, is. And probably none are more prolific in broadcasting their political views on social media.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/nation-world-news/elon-musks-politics-may-be-pushing-some-buyers-away-from-tesla/>
+
+---
+
+## Giuliani loses NY law license: US news in brief, 7/3
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>Giuliani loses NY law license</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/nation-world-news/giuliani-loses-ny-law-license-us-news-in-brief-7-3/>
+
+---
+
+## Deadly Hurricane Beryl causes ‘immense destruction’: World news in brief, 7/3
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>Deadly Hurricane Beryl &#0010;causes &#8216;immense destruction&#8217;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/nation-world-news/deadly-hurricane-beryl-causes-immense-destruction-world-news-in-brief-7-3/>
+
+---
+
+## Obituaries for July 3
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>Vern Leslie Bigsby, 87, of Ocean View died June 21 in Kealakekua. Born in Placerville, Idaho, he was a journeyman lineman, member of International Brotherhood of Electrical Workers Local 125 and Kodiak Elks Club, and loved woodworking, gardening, fishing and golfing. No services. Survived by wife, Louise Bigsby of Ocean View; son, Mike (Sherrie) Bigsby of Utah; daughters, Ross (Dennis) Coulter and Jamie Bigsby of Idaho, Casey Fisher of Arizona; brother, Lynn Bigsby of Ocean View; grandchildren, great-grandchildren and two great-great-grandchildren. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/obituaries/obituaries-for-july-3-10/>
+
+---
+
+## Cash crunch squeezes Kennedy amid costly fight for ballot spots
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>Robert F. Kennedy Jr.&#8217;s independent presidential campaign is spending heavily, amassing steep debts and resorting to layoffs as it becomes almost singularly focused on the costly effort of placing his name on state ballots.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/nation-world-news/cash-crunch-squeezes-kennedy-amid-costly-fight-for-ballot-spots/>
+
+---
+
+## One in three Democrats think Biden should quit the race, Reuters/Ipsos poll finds
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (Reuters) &#8212; One in three Democrats think U.S. President Joe Biden should end his reelection bid following last week&#8217;s debate against Republican Donald Trump, but no prominent elected Democrat does any better than Biden in a hypothetical matchup against Trump, according to a Reuters/Ipsos poll that closed on Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/nation-world-news/one-in-three-democrats-think-biden-should-quit-the-race-reuters-ipsos-poll-finds/>
+
+---
+
+## Democrats go public with panic about Biden amid fears of an electoral debacle
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>Democratic anxiety over President Joe Biden&#8217;s fitness to run for reelection erupted into the open on Tuesday in a spike of panic, as the first sitting member of Congress called on Biden to withdraw and a slew of other prominent officials who have backed the president vented their concerns.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/nation-world-news/democrats-go-public-with-panic-about-biden-amid-fears-of-an-electoral-debacle/>
+
+---
+
+## In a volatile term, a fractured Supreme Court remade America
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Former President Donald Trump had a very good year at the Supreme Court. On Monday, the court ruled that he is substantially immune from prosecution on charges that he tried to subvert the 2020 election. On Friday, the court cast doubt on two of the four charges against him in what remains of that prosecution. And in March, the justices allowed him to seek another term despite a constitutional provision barring insurrectionists from holding office.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/nation-world-news/in-a-volatile-term-a-fractured-supreme-court-remade-america/>
+
+---
+
+## Thousands flee their homes as Israeli forces bomb southern Gaza
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/GAZA &#8212; Israeli forces bombarded several areas of the southern Gaza Strip on Tuesday and thousands of Palestinians fled their homes in what could be part of a final push of Israel&#8217;s intensive military operations in nine months of war.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/nation-world-news/thousands-flee-their-homes-as-israeli-forces-bomb-southern-gaza/>
+
+---
+
+## Golf tourney to benefit Hawaii Island Humane Society
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Island Humane Society is hosting a charity golf tournament fundraiser on Saturday for its facility and programs.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/community/golf-tourney-to-benefit-hawaii-island-humane-society/>
+
+---
+
+## EHCC’s Kipuka camp teaches art forms to kids
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>Keiki ages 6 to 10 last month learned different forms of art during the East Hawaii Cultural Center Kipuka camp.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/hawaii-news/ehccs-kipuka-camp-teaches-art-forms-to-kids/>
+
+---
+
+## Rubber Duckie Race set for Independence Day
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>WAIKOLOA BEACH RESORT &#8212; The Fourth of July is a great day for ducks at Kings&#8217; Shops, where 10,000 of the little yellow bathtub toys vie for prizes in the Great Waikoloa Rubber Duckie Race.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/community/rubber-duckie-race-set-for-independence-day/>
+
+---
+
+## Your Views for July 3
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>Many concerns about&#0010;Keauhou Bay project</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/opinion/your-views-for-july-3-8/>
+
+---
+
+## A shot at better health: Guns now an official public health threat
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. surgeon general is charged with monitoring the public health of the nation. In an advisory issued last week, Surgeon General Dr. Vivek Murthy identified a threat we&#8217;ve long discussed on these pages: gun violence. Murthy pointed out that guns have for a few years been the leading cause of death for children and adolescents in the United States, outpacing even motor vehicles. Tens of thousands of people are killed every year.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/opinion/a-shot-at-better-health-guns-now-an-official-public-health-threat/>
+
+---
+
+## Court supremacy: The Supreme Court appoints itself ultimate expert on governing
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>In an ideologically-split 6-3 ruling Friday, the Supreme Court overruled what&#8217;s known as Chevron deference, a longtime legal principle that held that when administrative statutes are not explicit, federal agencies have latitude to interpret them, particularly when it comes to regulations. It&#8217;s not a widely-known principle but has undergirded the functioning of government for more than 40 years.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/opinion/court-supremacy-the-supreme-court-appoints-itself-ultimate-expert-on-governing/>
+
+---
+
+## Event to celebrate renaming of Kahaki Park
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>The public is invited to a ceremony today to celebrate the renaming of Kahaki Park in Puna to its original place name.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/hawaii-news/event-to-celebrate-renaming-of-kahaki-park/>
+
+---
+
+## Denver man is possible drowning victim at Kehena Beach
+
+date: 2024-07-03, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Island police are investigating the possible drowning of a 53-year-old man visiting from Colorado Saturday morning at Kehena Beach in lower Puna.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/07/03/hawaii-news/denver-man-is-possible-drowning-victim-at-kehena-beach/>
+
+---
+
+## Free training: Media, film, esports, more
+
+date: 2024-07-03, from: University of Hawaiʻi News
+
+<p>Registration is open for free creative industries training through <abbr>UH</abbr> Community Colleges.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/02/free-training-media-film-esports-gjh/">Free training: Media, film, esports, more</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/02/free-training-media-film-esports-gjh/>
+
+---
+
+## Honoring Andayas: Decades of Southeast Asian scholarship at UH Mānoa
+
+date: 2024-07-03, from: University of Hawaiʻi News
+
+<p>Barbara and Leonard Andaya, two esteemed Asian studies professors at <abbr>UH</abbr> Mānoa retire after more than 30 years of teaching.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/02/andaya-southeast-asian-scholarship/">Honoring Andayas: Decades of Southeast Asian scholarship at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/02/andaya-southeast-asian-scholarship/>
+
+---
+
+## Hawaiian Word of the Week: Iulai
+
+date: 2024-07-03, from: University of Hawaiʻi News
+
+<p>Iulai&#8212;July.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/02/hawaiian-word-of-the-week-iulai/">Hawaiian Word of the Week: Iulai</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/02/hawaiian-word-of-the-week-iulai/>
+
+---
+
+## Medical school welcomes Dean Sam Shomaker
+
+date: 2024-07-02, from: University of Hawaiʻi News
+
+<p>Sam Shomaker is the sixth dean of the John A. Burns School of Medicine.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/02/jabsom-welcomes-dean-sam-shomaker/">Medical school welcomes Dean Sam Shomaker</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/02/jabsom-welcomes-dean-sam-shomaker/>
+
+---
+
+## Second observatory removed from Maunakea summit
+
+date: 2024-07-02, from: University of Hawaiʻi News
+
+<p>Site work for the decommissioning of the Caltech Submillimeter Observatory was completed in June.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/02/second-observatory-removed-maunakea/">Second observatory removed from Maunakea summit</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/02/second-observatory-removed-maunakea/>
+
+---
+
+## Certain reef fish provide insight to surviving climate change
+
+date: 2024-07-02, from: University of Hawaiʻi News
+
+<p>Researchers have uncovered surprising survival tactics by coral reef fish who inhabit the Arabian Gulf.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/02/reef-fish-arabian-gulf/">Certain reef fish provide insight to surviving climate change</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/02/reef-fish-arabian-gulf/>
+
+---
+
+##  The chronic underfunding of Micronesia’s ailing healthcare systems
+
+date: 2024-07-02, from: Pacific Island Times
+
+Majuro—One special aspect of my previous job as secretary of Health &#38; Human Services in the Marshall Islands was spending time each day... 
+
+<https://www.pacificislandtimes.com/post/the-chronic-underfunding-of-micronesia-s-ailing-healthcare-systems>
+
+---
+
+## Could limu power future biorefineries? UH project explores
+
+date: 2024-07-02, from: University of Hawaiʻi News
+
+<p>A limu native to Hawaiian waters, <em>Dictyota sp.</em>, contains high-value ingredients in pharmaceutical, nutraceutical, food processing, medical and dental industries.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/02/limu-biorefinery/">Could limu power future biorefineries? <abbr>UH</abbr> project explores</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/02/limu-biorefinery/>
+
+---
+
+## ‘The Forgotten Cancer’ kicks off Quest for a Cure series
+
+date: 2024-07-02, from: University of Hawaiʻi News
+
+<p>Sarcoma, a rare cancer and often overlooked disease affecting connective tissues, is critical to diagnose early.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/02/quest-for-a-cure-kicks-off-july-10/">‘The Forgotten Cancer’ kicks off Quest for a Cure series</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/02/quest-for-a-cure-kicks-off-july-10/>
+
+---
+
+## Where can Hawaiʻi diversify its economy? UHERO finds areas
+
+date: 2024-07-02, from: University of Hawaiʻi News
+
+<p>The study shows <span aria-label="Hawaii">Hawai&#699;i</span> has great potential for ocean-based industries.</p>
+The post <a href="https://www.hawaii.edu/news/2024/07/02/economic-diversification-opportunities-uhero/">Where can Hawaiʻi diversify its economy? <abbr>UHERO</abbr> finds areas</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/07/02/economic-diversification-opportunities-uhero/>
 
 ---
 
@@ -258,6 +751,18 @@ date: 2024-07-02, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/07/02/obituaries/obituaries-for-july-2-12/>
+
+---
+
+## State House District 45-Republican Primary & State House District 37-Democratic Primary
+
+date: 2024-07-02, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Election forums continue on Insights on PBS Hawaiʻi with two contests...</p>
+<p>The post <a href="https://www.pbshawaii.org/50946-2/">State House District 45-Republican Primary &#038; State House District 37-Democratic Primary</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/50946-2/>
 
 ---
 

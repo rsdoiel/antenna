@@ -1,11 +1,141 @@
 ---
 title: motorcycles 2024.27
-updated: 2024-07-02 08:55:03
+updated: 2024-07-03 09:14:44
 ---
 
 # motorcycles 2024.27
 
-(date: 2024-07-02 08:55:03)
+(date: 2024-07-03 09:14:44)
+
+---
+
+## Suzuki GSX-8R vs. Triumph Daytona 660 vs. Yamaha YZF-R7 Photo Gallery
+
+date: 2024-07-03, from: Cycle World News
+
+The middleweight sportbike class has evolved over recent years with more practical offerings than ever before. Suzuki, Triumph, and Yamaha go head-to-head for the title. 
+
+<https://www.cycleworld.com/gallery/suzuki-gsx-8r-vs-triumph-daytona-660-vs-yamaha-yzf-rz-comparison-ride/>
+
+---
+
+## People Actually Want Small Displacement Motorcycles, Triumph Sells 50,000 in a Year
+
+date: 2024-07-03, from: Ride Apart, Electric Motorcycle News
+
+Go small or go home? 
+
+<https://www.rideapart.com/news/725314/triumph-50000-small-displacement-400-motorcycles/>
+
+---
+
+## Motorcycle Legends Descended on Silverstone, Have the Fastest Track Day Ever
+
+date: 2024-07-03, from: Ride Apart, Electric Motorcycle News
+
+Jonathan Rea's YouTube channel gives us a behind-the-scenes look at the Track Day of Legends. 
+
+<https://www.rideapart.com/news/725326/monster-energy-jonathan-rea-track-day-legendss/>
+
+---
+
+## Wrecked Superbike Finds New Life, Gets Turned Into a Sand Weapon
+
+date: 2024-07-03, from: Ride Apart, Electric Motorcycle News
+
+Stunt rider Aaron Colton has lost his mind.  
+
+<https://www.rideapart.com/news/725311/yamaha-r1-superbike-sand-dune-aaron-colton/>
+
+---
+
+## Lewis Hamilton Could Buy Gresini, and It’d Be the Perfect Investment
+
+date: 2024-07-03, from: Ride Apart, Electric Motorcycle News
+
+A legendary motorsport athlete buying a legendary motorsport team. That's something we can get behind. 
+
+<https://www.rideapart.com/news/725189/lewis-hamilton-gresini-motogp-buy-deal-f1/>
+
+---
+
+## F1 Driver Lando Norris Looks 'Very Happy' Modeling This EV Scooter
+
+date: 2024-07-03, from: Ride Apart, Electric Motorcycle News
+
+Did a fly just land in his tea? 
+
+<https://www.rideapart.com/news/725305/lando-norris-mclaren-ev-scooter/>
+
+---
+
+## Yamaha Patents Faux Clutch for Electric MXer
+
+date: 2024-07-03, from: Cycle World News
+
+Most electrics lack a clutch and feature single-speed drives. But Yamaha feels motocross and trials bikes can benefit from the control it gives riders. 
+
+<https://www.cycleworld.com/motorcycle-news/yamaha-patents-faux-clutch-for-electric-mxer/>
+
+---
+
+## NASCAR’s Overtime Rules Are Fine As Is
+
+date: 2024-07-02, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor A NASCAR Cup Series record of five attempts at overtime in the Ally 400 at Nashville Superspeedway is not a reason or a just cause&#8230;  
+
+<https://kickinthetires.net/nascar/nascars-overtime-rules-are-fine-as-is/>
+
+---
+
+## Suzuki GSX-8R vs. Triumph Daytona 660 vs. Yamaha YZF-R7
+
+date: 2024-07-02, from: Cycle World News
+
+The middleweight sportbike class has evolved over recent years with more practical offerings than ever before. Suzuki, Triumph, and Yamaha go head-to-head for the title. 
+
+<https://www.cycleworld.com/motorcycle-reviews/suzuki-gsx-8r-vs-triumph-daytona-660-vs-yamaha-yzf-r7-comparison-test/>
+
+---
+
+## 2025 Ducati DesertX Discovery First Look
+
+date: 2024-07-02, from: Cycle World News
+
+Ducati has released the new DesertX Discovery variant for 2025. The new model adds protection and comfort components to the base DesertX. 
+
+<https://www.cycleworld.com/bikes/ducati-desertx-discovery-first-look/>
+
+---
+
+## Record Breaking Attendance at DGR 2024
+
+date: 2024-07-02, from: Cycle World News
+
+Supported by Triumph Motorcycles for the 11th year, The Distinguished Gentleman’s Ride (DGR), took place simultaneously on Sunday May 19th, 2024 across the world. 
+
+<https://www.cycleworld.com/the-wire/record-breaking-attendance-at-dgr-2024/>
+
+---
+
+## Bagnaia Wins Assen, Inches Closer to Martín
+
+date: 2024-07-02, from: Cycle World News
+
+Francesco Bagnaia took the win at Assen and inched closer to Jorge Martín in the point race for the 2024 MotoGP Championship. 
+
+<https://www.cycleworld.com/motorcycle-racing/assen-motogp-race-report-2024/>
+
+---
+
+## Gaige Herrera Extends Incredible NHRA Record Win Streak to 11 at Norwalk
+
+date: 2024-07-02, from: Cycle World News
+
+Gaige Herrera (1) continued his historic, record-setting performance in the NHRA Pro Stock Motorcycle class by riding his RevZilla/Motul/Vance & Hines Suzuki Gen 3 Hayabusa to the winner’s circle. 
+
+<https://www.cycleworld.com/the-wire/gaige-herrera-extends-incredible-nhra-record-win-streak-to-11-at-norwalk/>
 
 ---
 
