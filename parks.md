@@ -1,19 +1,19 @@
 ---
 title: parks 2024.27
-updated: 2024-07-03 09:14:44
+updated: 2024-07-05 08:27:59
 ---
 
 # parks 2024.27
 
-(date: 2024-07-03 09:14:44)
+(date: 2024-07-05 08:27:59)
 
 ---
 
-## AIMing High: AIM crew gathers soil and vegetation data from the Pryor Mountains in Montana
+## Capitan athletes aid restoration efforts by hauling water into BLM’s Fort Stanton Cave
 
-date: 2024-07-02, from: Bureau of Land Management, blog
+date: 2024-07-03, from: Bureau of Land Management, blog
 
-<div class="field contact-block -title"><h1>AIMing High: AIM crew gathers soil and vegetation data from the Pryor Mountains in Montana</h1></div>
+<div class="field contact-block -title"><h1>Capitan athletes aid restoration efforts by hauling water into BLM’s Fort Stanton Cave</h1></div>
       
 
 
@@ -21,12 +21,8 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><p style="margin-bottom:11px">By truck, UTV, and foot, the Billings Field Office Assessment, Inventory and Monitoring (AIM) Crew recently found its way to an elevation of 5,500 feet in the Pryor Mountains.</p>
-
-<p>Once there, the 3-person crew went into action, using the <a href="https://www.blm.gov/aim">AIM Strategy</a> to collect soil and vegetation data.</p>
-
-<figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="17edfe93-cd91-4cbb-8415-86e6f4789c84" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+            <div class="field contact-block -body"><figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="e43d7640-88ec-436e-8c43-24853ea93114" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -35,7 +31,7 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/20240620_AIM%20in%20Pryor%20Mtns_0081%202x3.jpg?itok=M5eukgNY" width="353" height="530" alt="photo: looking over shoulder of person from the back who is wearing a hoodie and stretching arm over brush-covered hill" typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/capitan-water-hauling-cave-001.jpg?itok=wXjwEdox" width="640" height="427" alt="Capitan High School athletes and two adult leads head into the into the Bureau of Land Management’s Fort Stanton Cave at the Fort Stanton – Snowy River Cave National Conservation Area near Lincoln, N.M., June 3." typeof="foaf:Image">
 
 
 </div>
@@ -43,16 +39,16 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>AIM Crew members Josh Arave and Isaac Odegard lay out a transect to sample vegetation using a method called line-point intercept.</figcaption>
+<figcaption>Capitan High School athletes and two adult leads head into the into the Bureau of Land Management’s Fort Stanton Cave at the Fort Stanton – Snowy River Cave National Conservation Area near Lincoln, N.M., June 3.</figcaption>
 </figure>
 
 
-<p>The AIM strategy provides a set of standards for assessing natural resource conditions and trends on BLM-managed lands. It provides quantitative data and tools to guide and justify policy actions, land uses and adaptive management decisions.</p>
+<p>Fort Stanton Cave restoration crews will have eight volunteer Capitan High School athletes to thank when they’re cleaning formations within the cave this summer.</p>
 
-<p>Gathering this data is no small task, so six years ago the BLM began cooperating with AIM crews from the University of Montana. Most Montana/Dakotas offices have an agreement with UM to collect AIM data.</p>
+<p>Fort Stanton Cave is within the Bureau of Land Management’s Fort Stanton – Snowy River Cave National Conservation Area, and Knutt Peterson, a cave specialist for the BLM Roswell Field Office, coordinated the students, who either belong to the track team or run cross country, to bring 140 liters (37 gallons) of water a mile into the cave for this summer’s restoration projects.</p>
 
 <figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="aa6ceae7-fcb5-4f0d-aa38-a58efe6c9966" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a99fd357-c710-431f-8645-26c2fe4a0f68" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -61,7 +57,7 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/20240620_AIM%20in%20Pryor%20Mtns_0252%202x3.jpg?itok=D_ejZX3m" width="353" height="530" alt="photo: one person crouches to the ground while holding pole vertically, next to another person standing and writing on a clipboard. Blue sky, brush-covered hills. " typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/capitan-water-hauling-cave-002.jpg?itok=hmgeq4IH" width="640" height="427" alt="Knutt Peterson, cave specialist for the BLM Roswell Field Office, holds a briefing before the trip into Fort Stanton Cave." typeof="foaf:Image">
 
 
 </div>
@@ -69,22 +65,18 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>Josh Arave and Francois De Wet record vegetative data using a method called line-point intercept.</figcaption>
+<figcaption>Knutt Peterson, cave specialist for the BLM Roswell Field Office, holds a briefing before the trip into Fort Stanton Cave.</figcaption>
 </figure>
 
 
-<p>“You can never have too much data,” remarked Jason Sprung, Geospatial Ecologist/Monitoring Coordinator for the Billings Field Office. “We use it for everything from grazing lease renewals, wildlife habitat assessments, and resource management planning.”</p>
+<p>The effort not only helps with cave restoration but allows local youths to gain an appreciation for caving. On the first trip in May, Carrin Rich, volunteer restoration coordinator, and Aleksandr Knapowski, a BLM geologist, led the trip, and on June 3, Rich and Minori Yoshida, a volunteer cave restorer, led a second trip.</p>
 
-<p>Early in the season, Sprung often accompanies the crew to provide additional on-the-ground training. He said the Billings crew surveys about 50 plots each season.</p>
+<p>Water is a precious commodity during cave restoration trips, Peterson said. The restoration sites are about a mile into the cave, so running a hose is impossible, and there are not any natural in-cave sources of water, so people need to haul all their water into the cave.</p>
 
-<p>This year’s crew consists of UM students Isaac Odegard (ecology) and Josh Arave (forestry), and Francois De Wet, a wildlife biologist with more than two decades of experience in his native South Africa.</p>
-
-<p>Lauren Sinclair, liaison between the BLM and UM, also accompanied the group to the Pryors. She is a botanist and a key player in overseeing the various crews and ensuring the data is collected properly and consistently.</p>
-
-<p>“We have 15 crews working on BLM lands across Montana, Idaho and Wyoming,” she said.</p>
+<p>While volunteers who participate in cave restoration projects normally bring three to 10 liters of water with them, that amount only lasts about eight hours, Peterson said. The extra water the students bring in allows them to extend their restoration work another four hours on each trip. This cache of water will support restoration trips this season and into the future.</p>
 
 <figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="ce1d9181-1ac1-4883-8c47-7eb7f6f3bd60" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="fce98813-7c16-4b91-9772-2c9faf3e652c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -93,7 +85,7 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/20240620_AIM%20in%20Pryor%20Mtns_0276%203x2.jpg?itok=PngR51xn" width="640" height="427" alt="photo: person in dark clothing kneels on ground next to tape measure" typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/capitan-water-hauling-cave-003.JPG?itok=azYK36rW" width="398" height="530" alt="Capitan High School athletes drag packs of water through the “Hell Hole” passage within Fort Stanton Cave." typeof="foaf:Image">
 
 
 </div>
@@ -101,16 +93,30 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>Isaac Odegard takes soil samples at fixed points along the transect. The samples are tested to determine erodibility.</figcaption>
+<figcaption>Capitan High School athletes drag packs of water through the “Hell Hole” passage within Fort Stanton Cave.</figcaption>
 </figure>
 
 
-<p>The plots are randomly selected by a computer-generated algorithm. On this day, the designated plot was high in the Pryor Mountains on the wild horse range. Although no horses were present, it was evident they had been there.</p>
+<p>The students said hauling the water was hard work, but well worth it.</p>
 
-<p>While two crew members laid out lines and recorded vegetation at evenly spaced points in a method known as line-point intercept, another crew member dug a hole to sample the soil. Normally this would have involved a hole 70 centimeters deep, but solid rock allowed a depth of only 8 centimeters. The soil is shallow but healthy. &nbsp;Despite limited annual precipitation, shallow soils, and generally harsh conditions, plant life in the Pryors is surprisingly diverse. At this plot, the crew identified 31 different species.</p>
+<p>Jewel Joy, a senior, said the experience has made her into a caver.</p>
+
+<p>“I think it’s really fun,” Joy said. “I really want to get into it now. It’s just cool – all the formations, to think about how it formed.”</p>
+
+<p>Tegan Uller, who recently graduated, said hauling the water was tough at times, and his knees were burning from the crawling, but it was a good experience overall. “Besides that, it was really fun,” he said. “I would recommend it.”</p>
+
+<p>Kainin DeSalvo, a sophomore, said he really likes crawling and navigating tight spaces in caves. “Not everybody can do it,” he said.</p>
+
+<p>Rich said she has been caving at Fort Stanton Cave for 10 years and really appreciates the work the students did on the trips.</p>
+
+<p>“They were amazing,” Rich said. “The kids were absolutely amazing. They did great today. Because they’re already teammates as athletes, they have a great teamwork ethic, and they have a good camaraderie among them.”</p>
+
+<p>The work was physically difficult, Rich said, and the students did it happily.</p>
+
+<p>“I think as athletes, they’re used to the suffering,” Rich said. “They’re used to working through pain, so you could push them, and they could get through stuff that I think people who don’t have an athletic background couldn’t necessarily do.”</p>
 
 <figure role="group">
-<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="1de70d96-cd27-4ac5-a3bf-77a6cc159db5" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="e58195cd-002e-4161-855d-29c94301304e" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -119,7 +125,7 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/20240620_AIM%20in%20Pryor%20Mtns_0217%203x2.jpg?itok=u3zh_KI6" width="640" height="427" alt="photo: close up of five small white flowers in dry, red, rocky soil." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/capitan-water-hauling-cave-004.jpg?itok=iVBnEYE1" width="640" height="427" alt="Carrin Rich, front, volunteer restoration coordinator for Fort Stanton Cave, leads Capitan HS athletes into the cave." typeof="foaf:Image">
 
 
 </div>
@@ -127,11 +133,15 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>The Pryors support surprisingly numerous and diverse plant species. Bighorn Fleabane (Erigeron allocotus), a Pryor endemic species, meaning it is found only in the Pryor Mountains of southern Montana.</figcaption>
+<figcaption>Carrin Rich, front, volunteer restoration coordinator for Fort Stanton Cave, leads Capitan HS athletes into the cave.</figcaption>
 </figure>
 
 
-<p>From this vantage point high in the Pryor Mountains, the plot seems small and insignificant. When the data collected here is added to the publicly-available database along with that of hundreds of other plots across the United States, however, it will make an important contribution to public lands management.</p>
+<p>As of June 4, Fort Stanton Cave, at 46.56 miles, is the ninth longest cave in the United States and the 40th longest cave in the world, Peterson said.</p>
+
+<p>Peterson said the BLM had to close Fort Stanton Cave to public recreation trips due to white-nose syndrome, a fungal infection that kills bats, but allows 350 people a year to enter the cave for research and educational purposes.</p>
+
+<p>“This cave has been closed for 10 years, and it’s been essentially a generation that hasn’t seen it or had an opportunity to see it,” Peterson said. “This is one of the ways that we can get kids in under our recreational hiatus. We plan to continue this partnership with local schools into the future.”</p>
 </div>
       
 
@@ -143,8 +153,9 @@ date: 2024-07-02, from: Bureau of Land Management, blog
   <div class="field contact-block -region">
     <div><strong>Region:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/region/eastern-montanadakotas-do" hreflang="en">Eastern Montana/Dakotas DO</a></div>
-          <div><a href="https://www.blm.gov/region/billings-fo" hreflang="en">Billings FO</a></div>
+              <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/pecos-do" hreflang="en">Pecos DO</a></div>
+          <div><a href="https://www.blm.gov/region/roswell-fo" hreflang="en">Roswell FO</a></div>
               </div>
       </div>
 
@@ -157,7 +168,7 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 <div class="blog-topics">
     <div class="field contact-block -blog-topic">
       <div><strong>Blog Topic:</strong> </div>
-                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/geospatial" hreflang="en">Geospatial</a></div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/science" hreflang="en">Science</a></div>
                 </div>
   </div>
 
@@ -169,7 +180,7 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 
   <div class="field contact-block -release-date">
     <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-07-02T12:00:00Z">Tue, 07/02/2024 - 12:00 pm UTC</time>
+              <div><time datetime="2024-07-03T12:00:00Z">Wed, 07/03/2024 - 12:00 pm UTC</time>
 </div>
           </div>
 
@@ -181,7 +192,7 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 
   <div class="field contact-block -office">
     <div><strong>Office:</strong> </div>
-              <div><a href="https://www.blm.gov/office/billings-field-office" hreflang="en">Billings Field Office</a></div>
+              <div><a href="https://www.blm.gov/office/roswell-field-office" hreflang="en">Roswell Field Office</a></div>
           </div>
 
 
@@ -192,7 +203,7 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 
   <div class="field contact-block -thumbnail-image">
     <div><strong>Thumbnail Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/49187/edit" hreflang="en">MT/DKs AIM in the Pryors 20 June 2024</a></div>
+              <div><a href="https://www.blm.gov/media/49319/edit" hreflang="en">capitan-water-hauling-cave-004</a></div>
           </div>
 
 
@@ -203,7 +214,7 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 
   <div class="field contact-block -featured">
     <div><strong>Featured:</strong> </div>
-              <div>On</div>
+              <div>Off</div>
           </div>
 
 
@@ -216,9 +227,7 @@ date: 2024-07-02, from: Bureau of Land Management, blog
     <div class="field contact-block -tag">
       <div><strong>Tag:</strong> </div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/data" hreflang="en">Data</a></div>
-              <div><a href="https://www.blm.gov/tag/geospatial" hreflang="en">Geospatial</a></div>
-              <div><a href="https://www.blm.gov/tag/pryor-mountains-wild-horse-range-hma" hreflang="en">Pryor Mountains Wild Horse Range HMA</a></div>
+                    <div><a href="https://www.blm.gov/tag/fort-stanton-snowy-river-cave-national-conservation-area" hreflang="en">Fort Stanton - Snowy River Cave National Conservation Area</a></div>
                     </div>
           </div>
   </div>
@@ -232,7 +241,161 @@ date: 2024-07-02, from: Bureau of Land Management, blog
   <div class="field contact-block -editorial-access">
     <div><strong>Editorial Access:</strong> </div>
           <div>
-              <div><a href="https://www.blm.gov/editorial-access/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+              <div><a href="https://www.blm.gov/editorial-access/new-mexico" hreflang="en">New Mexico</a></div>
+              </div>
+      </div> 
+
+<https://www.blm.gov/blog/2024-07-03/capitan-athletes-aid-restoration-efforts-hauling-water-blms-fort-stanton-cave>
+
+---
+
+## AIMing High: AIM crew gathers soil and vegetation data from the Pryor Mountains in Montana
+
+date: 2024-07-02, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Capitan athletes aid restoration efforts by hauling water into BLM’s Fort Stanton Cave</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="e43d7640-88ec-436e-8c43-24853ea93114" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/capitan-water-hauling-cave-001.jpg?itok=wXjwEdox" width="640" height="427" alt="Capitan High School athletes and two adult leads head into the into the Bureau of Land Management’s Fort Stanton Cave at the Fort Stanton – Snowy River Cave National Conservation Area near Lincoln, N.M., June 3." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Capitan High School athletes and two adult leads head into the into the Bureau of Land Management’s Fort Stanton Cave at the Fort Stanton – Snowy River Cave National Conservation Area near Lincoln, N.M., June 3.</figcaption>
+</figure>
+
+
+<p>Fort Stanton Cave restoration crews will have eight volunteer Capitan High School athletes to thank when they’re cleaning formations within the cave this summer.</p>
+
+<p>Fort Stanton Cave is within the Bureau of Land Management’s Fort Stanton – Snowy River Cave National Conservation Area, and Knutt Peterson, a cave specialist for the BLM Roswell Field Office, coordinated the students, who either belong to the track team or run cross country, to bring 140 liters (37 gallons) of water a mile into the cave for this summer’s restoration projects.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a99fd357-c710-431f-8645-26c2fe4a0f68" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/capitan-water-hauling-cave-002.jpg?itok=hmgeq4IH" width="640" height="427" alt="Knutt Peterson, cave specialist for the BLM Roswell Field Office, holds a briefing before the trip into Fort Stanton Cave." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Knutt Peterson, cave specialist for the BLM Roswell Field Office, holds a briefing before the trip into Fort Stanton Cave.</figcaption>
+</figure>
+
+
+<p>The effort not only helps with cave restoration but allows local youths to gain an appreciation for caving. On the first trip in May, Carrin Rich, volunteer restoration coordinator, and Aleksandr Knapowski, a BLM geologist, led the trip, and on June 3, Rich and Minori Yoshida, a volunteer cave restorer, led a second trip.</p>
+
+<p>Water is a precious commodity during cave restoration trips, Peterson said. The restoration sites are about a mile into the cave, so running a hose is impossible, and there are not any natural in-cave sources of water, so people need to haul all their water into the cave.</p>
+
+<p>While volunteers who participate in cave restoration projects normally bring three to 10 liters of water with them, that amount only lasts about eight hours, Peterson said. The extra water the students bring in allows them to extend their restoration work another four hours on each trip. This cache of water will support restoration trips this season and into the future.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="fce98813-7c16-4b91-9772-2c9faf3e652c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/capitan-water-hauling-cave-003.JPG?itok=azYK36rW" width="398" height="530" alt="Capitan High School athletes drag packs of water through the “Hell Hole” passage within Fort Stanton Cave." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Capitan High School athletes drag packs of water through the “Hell Hole” passage within Fort Stanton Cave.</figcaption>
+</figure>
+
+
+<p>The students said hauling the water was hard work, but well worth it.</p>
+
+<p>Jewel Joy, a senior, said the experience has made her into a caver.</p>
+
+<p>“I think it’s really fun,” Joy said. “I really want to get into it now. It’s just cool – all the formations, to think about how it formed.”</p>
+
+<p>Tegan Uller, who recently graduated, said hauling the water was tough at times, and his knees were burning from the crawling, but it was a good experience overall. “Besides that, it was really fun,” he said. “I would recommend it.”</p>
+
+<p>Kainin DeSalvo, a sophomore, said he really likes crawling and navigating tight spaces in caves. “Not everybody can do it,” he said.</p>
+
+<p>Rich said she has been caving at Fort Stanton Cave for 10 years and really appreciates the work the students did on the trips.</p>
+
+<p>“They were amazing,” Rich said. “The kids were absolutely amazing. They did great today. Because they’re already teammates as athletes, they have a great teamwork ethic, and they have a good camaraderie among them.”</p>
+
+<p>The work was physically difficult, Rich said, and the students did it happily.</p>
+
+<p>“I think as athletes, they’re used to the suffering,” Rich said. “They’re used to working through pain, so you could push them, and they could get through stuff that I think people who don’t have an athletic background couldn’t necessarily do.”</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="e58195cd-002e-4161-855d-29c94301304e" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-07/capitan-water-hauling-cave-004.jpg?itok=iVBnEYE1" width="640" height="427" alt="Carrin Rich, front, volunteer restoration coordinator for Fort Stanton Cave, leads Capitan HS athletes into the cave." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Carrin Rich, front, volunteer restoration coordinator for Fort Stanton Cave, leads Capitan HS athletes into the cave.</figcaption>
+</figure>
+
+
+<p>As of June 4, Fort Stanton Cave, at 46.56 miles, is the ninth longest cave in the United States and the 40th longest cave in the world, Peterson said.</p>
+
+<p>Peterson said the BLM had to close Fort Stanton Cave to public recreation trips due to white-nose syndrome, a fungal infection that kills bats, but allows 350 people a year to enter the cave for research and educational purposes.</p>
+
+<p>“This cave has been closed for 10 years, and it’s been essentially a generation that hasn’t seen it or had an opportunity to see it,” Peterson said. “This is one of the ways that we can get kids in under our recreational hiatus. We plan to continue this partnership with local schools into the future.”</p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/pecos-do" hreflang="en">Pecos DO</a></div>
+          <div><a href="https://www.blm.gov/region/roswell-fo" hreflang="en">Roswell FO</a></div>
               </div>
       </div>
 
@@ -242,10 +405,85 @@ date: 2024-07-02, from: Bureau of Land Management, blog
 
   
 
-  <div class="field contact-block -teaser-image">
-    <div><strong>Teaser Image:</strong> </div>
-              <div><a href="https://www.blm.gov/media/49190/edit" hreflang="en">MT/DKs AIM in Pryors 20 June 2024</a></div>
-          </div> 
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/science" hreflang="en">Science</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-07-03T12:00:00Z">Wed, 07/03/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/roswell-field-office" hreflang="en">Roswell Field Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/49319/edit" hreflang="en">capitan-water-hauling-cave-004</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/fort-stanton-snowy-river-cave-national-conservation-area" hreflang="en">Fort Stanton - Snowy River Cave National Conservation Area</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/new-mexico" hreflang="en">New Mexico</a></div>
+              </div>
+      </div> 
 
 <https://www.blm.gov/blog/2024-07-02/aiming-high-aim-crew-gathers-soil-and-vegetation-data-pryor-mountains-montana>
 

@@ -1,11 +1,903 @@
 ---
 title: tech likely 2024.27
-updated: 2024-07-03 09:14:41
+updated: 2024-07-05 08:27:56
 ---
 
 # tech likely 2024.27
 
-(date: 2024-07-03 09:14:41)
+(date: 2024-07-05 08:27:56)
+
+---
+
+##  &#8220;What My Adult Autism Diagnosis Finally Explained&#8221; 
+
+date: 2024-07-05, updated: 2024-07-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/what-my-adult-autism-diagnosis-finally-explained>
+
+---
+
+**@Ayjay blog** (date: 2024-07-05, from: Ayjay blog)
+
+Will Baude: The court is motivated by statesmanship, which the country sorely needs today. The problem is that this statesmanship is a form of the kind of outcome-oriented policymaking that the court disparages in other contexts. It trusts states to handle the homelessness crisis but not ballot access for insurrectionists, even though the Constitution trusts [&#8230;] 
+
+<https://blog.ayjay.org/46475-2/>
+
+---
+
+##  A 4000-year-old Minoan structure with labyrinthine walls has been uncovered in Crete.... 
+
+date: 2024-07-05, updated: 2024-07-05, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/07/0044899-a-4000-year-old-minoan-st>
+
+---
+
+## Moving to an RTOS on the RP2040
+
+date: 2024-07-05, from: OS News
+
+I&#8217;ve been working on a bunch of small projects involving microcontrollers. Currently a lot of them are based around the Raspberry Pi Pico boards because I like the development experience of those a lot. They have a decent SDK and cheap hardware to get started and the debugger works with gdb/openocd so it just integrates in all IDEs that support that. One of my current projects is making a fancy hardware controller for a bunch of video equipment I use. The main things that will be controlled are two PTZ cameras (those are cameras that have motors to move them). One stationary camera and the video switching equipment that that&#8217;s hooked up to. ↫ Martijn Braam There&#8217;s more to building something like this than connecting up hardware components &#8211; there&#8217;s also software that needs to be taken care of. In this case, the author is weighing several real-time operating systems for use in the project, namely FreeRTOS, NuttX, and Zephyr. If you&#8217;re working on a similar project, this article may help in choosing the RTOS that&#8217;s right for you. 
+
+<https://www.osnews.com/story/140153/moving-to-an-rtos-on-the-rp2040/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-05, from: Dave Winer's Scripting News)
+
+I hear that cancelling a NYT subscription is wicked hard. That <a href="http://scripting.com/2024/07/04/bullshit2.m4a">alone</a> is making me feel like cancelling. I cancelled their morning email of things I need to know about. It's one thing for them to exclusively report on Biden's age in their space, but my mailbox is mine. Get the fuck out of my mailbox. 
+
+<http://scripting.com/2024/07/05.html#a141207>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-05, from: Dave Winer's Scripting News)
+
+This year I'm thinking how we can boot up a source of news that has the balance we deserve. Now that the Supreme Court is no longer keeping up any pretense of respecting the Constitution, and journalism is either colluding, or preparing for their meeting with a military tribunal in March next year, followed by, if lucky, a re-education camp, we need help knowing what's real and what's <a href="http://scripting.com/2024/07/04/bullshit2.m4a">not</a>. 
+
+<http://scripting.com/2024/07/05.html#a140802>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-05, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="http://scripting.com/images/2024/05/05/marchOnWashington.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Congrats to Threads on a good first year. Looks like I <a href="https://www.threads.net/@davew">signed in</a> on opening day, <a href="http://scripting.com/2023/07/05.html">July 5, 2023</a>. They have done a good job of slipping into the spot previously occupied exclusively by Twitter. 
+
+<http://scripting.com/2024/07/05.html#a140632>
+
+---
+
+## Follow each other on Open Library
+
+date: 2024-07-05, from: Open Library Blog
+
+By Nick Norman, Mek, et al Subscribe to readers with complimentary tastes to receive book recommendations. Over the past few months, we&#8217;ve been rolling out the basic building blocks of the &#8220;Follow&#8221; feature: a way for readers to follow those with similar tastes and to tap into a personalized feed of book recommendations. How does [&#8230;] 
+
+<https://blog.openlibrary.org/2024/07/05/follow-each-other-on-open-library/>
+
+---
+
+## P&B: Anton Podviaznikov
+
+date: 2024-07-05, from: Manu - I write blog
+
+
+                <p>This is the 45th edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have Anton Podviaznikov and his blog, <a href="https://podviaznikov.com">podviaznikov.com</a></p>
+<p>To follow this series <a href="https://peopleandblogs.com">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed">RSS feed</a>.</p>
+<p>If you're enjoying the People and Blogs series and you want to see it grow, consider supporting on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a>.</p>
+<hr />
+<h2>Let's start from the basics: can you introduce yourself?</h2>
+<p>I’m originally from Ukraine, I grew up there and finished university. Moved out in 2010 to explore the world. Since 2014 US was my home base.</p>
+<p>I’m software engineer by trade. It was my education and first I worked as a programmer because it was my career choice. But sometime around 2011 I fell in love with the web and programming. I worked at several startups and few bigger tech companies and also created countless side projects.</p>
+<h2>What's the story behind your blog?</h2>
+<p>I created my personal site around 2013. It is 10+ years old. I think I created it during the period when I was falling in love with programming and ideas behind web and the Internet. I got exposed to them way later in my life than people who grew up in Western Europe or US. I had a lot of personal revelations at that time in my life.</p>
+<h2>What does your creative process look like when it comes to blogging?</h2>
+<p>Super simple. I discovered that writing feels “painful” for me. I really do struggle. The only way that works for me is to remove editing part and also write in the “stream of consciousness style”. I write stuff in one go. I write some essay in Apple Notes and it gets published automatically to my site while I’m writing it. I might reread it some time later and edit few things - but usually I don’t do that and just discover some typos years later.</p>
+<p>Another important thing is that I mostly write on topics I don’t want to think anymore. Writing is the final step of thinking over something for me. I write down about some topic, publish it and then don’t think about that again for a while.</p>
+<h2>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</h2>
+<p>I wrote decent amount of essays on airplanes and trains. They are uncomfortable physically, but I found them to be a great time to write and to speed up the travel, Internet is flaky and I have space to reflect. I also like to write(and program) in coffeeshops. I like noise and I can usually fully block it out.</p>
+<h2>A question for the techie readers: can you run us through your tech stack?</h2>
+<p>I’m software engineer. I always made custom stacks for my personal site. For the past 2 years my website is powered by a small tool I made. It’s a tool that publishes Apple Notes to my site. It’s called Montaigne.</p>
+<h2>Given your experience, if you were to start a blog today, would you do anything differently?</h2>
+<p>I want to say: start even earlier. But that is also difficult because I do feel that I didn’t have much to say before I was 25 yo and also I didn’t discover my “voice”. But I think trying writing helps to discover that voice.</p>
+<p>Write as often as you can. If it’s 5 essays per year - it’s still good. I collected many over the years and sometimes I open some and read and get surprised with some insights I got. It’s a very interesting feeling. </p>
+<p>I feel like even now I don’t capture most of the insights I have during the year. So writing more is always a good advice.</p>
+<p>Write as often as you can. If it’s 5 essays per year - it’s still good. I collected many of the year and sometimes I open some and read and surprised with some insights I got. It’s very interesting feeling. </p>
+<p>I feel like even now I don’t capture huge junk of the insights I have during the year. So writing more is always a good advice.</p>
+<h2>Financial question since the web is obsessed with money: how much does it cost to run your blog? Is it just a cost or does it generate some revenue? And what's your position on people monetising personal blogs?</h2>
+<p>I think people should do what they feel is good for them. If you are in the position where you want/need to monetize - do that. If money is not critical, do not do it. Eg write for yourself first. On top of that there might be some second order unpredictable benefits to writing. Eg someone would reach out to you and would offer a job or collaboration. This is way better than money(if you don’t need them).</p>
+<p>Hard to say how much does it cost to run my site since it runs using the tool that I made. But for other people this tool is free:)</p>
+<h2>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</h2>
+<ul>
+<li><a href="https://tyler.cafe">tyler.cafe</a> - simplicity of the design, color scheme, gradient background. It's so lovely.</li>
+<li><a href="https://brandur.org">brandur.org</a> - site that I check often. It has many great ideas: year scroll control, fragments, sequences etc.</li>
+<li><a href="https://www.ekzhang.com">ekzhang.com</a> - minimalistic but so clear.</li>
+<li><a href="https://destroytoday.com">destroytoday.com</a> - I love the logo, colors, menu. </li>
+<li><a href="https://dennissnellenberg.com/about">dennissnellenberg.com/about</a> - menu and effects are so creative.</li>
+<li><a href="https://macwright.com">macwright.com</a> - one of my all time favorites. Table layouts are so rare an unusual. Everything is so simple and clear.</li>
+<li><a href="https://silviamakesdrawings.com">silviamakesdrawings.com</a> - love the visuals and grid layout and drawings.</li>
+<li><a href="https://joeblu.com">joeblu.com</a> - love the logo and subtle colorful touch in it.</li>
+<li><a href="https://www.beanacre.xyz/bookshelf">beanacre.xyz/bookshelf</a> - this bookshelf is perfect. And the site itself is beautiful. Love the command palette as a menu.</li>
+<li><a href="https://blog.jim-nielsen.com">blog.jim-nielsen.com</a> - another all time favorite. Colors, layouts, small touches — everything works perfectly together. And I'm in love with the stats page <a href="https://blog.jim-nielsen.com/about/">https://blog.jim-nielsen.com/about/</a>.</li>
+<li><a href="https://sikorskyi.com">sikorskyi.com</a> - so simple. Sometimes you don't need anything else.</li>
+<li><a href="https://jadrian.org">jadrian.org</a> - another one page option.</li>
+<li><a href="https://www.juanbuis.com">www.juanbuis.com</a> - I'm at the age when I do like photos of people who I follow.</li>
+<li><a href="https://herman.bearblog.dev">herman.bearblog.dev</a> - minimalistic blog. I want to see more of these.</li>
+<li><a href="https://leerob.io">leerob.io</a> - this one is pretty famous. It has so many features. Not everyone needs those features but it's a good example for inspiration.</li>
+<li><a href="https://miles.land">miles.land</a> - colors and layouts. That is how you express yourself in terms of form.</li>
+<li><a href="https://paco.me">paco.me</a> - Mac OS inspired styling.</li>
+<li><a href="http://nickcammarata.com">nickcammarata.com</a> - moving tree makes it a bit remarkable.</li>
+<li><a href="https://neil.computer">neil.computer</a> - I love this old school aesthetic. I love tables.</li>
+<li><a href="https://harrisonpim.com">harrisonpim.com</a> - modern Notion-like design.</li>
+<li><a href="https://www.liangela.com/journal">liangela.com/journal</a> - personal journals are so powerful and intimate and inspiring.</li>
+<li><a href="https://dustincurtis.com">dustincurtis.com</a> - it's a bit empty now. But it changes often and I've been following it for many years and like the style a lot.</li>
+<li><a href="https://maurits.ch">maurits.ch</a> - beautiful collection of photos.</li>
+<li><a href="https://alistair.sh">alistair.sh</a> - simple modern website that looks like geeky old school one.</li>
+<li><a href="https://www.yihui.work">yihui.work</a> - this one is easy for me because I love full screen 2 columns layouts.</li>
+</ul>
+<h2>Final question: is there anything you want to share with us?</h2>
+<p>Some of my current small tools: <a href="https://montaigne.io/products">montaigne.io/products</a></p>
+<p>Books -&gt; anything by <a href="https://en.wikipedia.org/wiki/Neil_Postman">Neil Postman</a>. He has unbelievable insights about technology on our lives.</p>
+<p>Also <a href="https://press.stripe.com/the-dream-machine">The Dream Machine</a> is an incredible book on the history of computing and early Internet.</p>
+<hr />
+<p>This was the 45th edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Anton. Make sure to <a href="https://podviaznikov.com">follow his blog</a> (<a href="https://podviaznikov.com/feed.xml">RSS</a>) and get in touch with him if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a> and all supporters will be listed here as well as on the <a href="https://peopleandblogs.com">official site</a> of the newsletter.</p>
+<p><a href="https://www.thingelstad.com">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml">RSS</a>) — <a href="https://some.studio">Piet Terheyden</a> — <a href="https://minim.blog">Raul Montala</a> (<a href="http://github.com/rmontala/minim/commits.atom">RSS</a>) — Eleonora — <a href="https://carlbarenbrug.com">Carl Barenbrug</a> (<a href="https://carlbarenbrug.com/feed/rss">RSS</a>) — <a href="https://tangiblelife.net">Steve Ledlow</a> (<a href="https://tangiblelife.net/feed.rss">RSS</a>) — <a href="https://www.feadin.eu">Paolo Ruggeri</a> (<a href="https://www.feadin.eu/en/posts/index.xml">RSS</a>) — <a href="https://thejollyteapot.com">Nicolas Magand</a> (<a href="https://thejollyteapot.com/feed.rss">RSS</a>) — <a href="https://robhope.com">Rob Hope</a> — <a href="https://chrishannah.me">Chris Hannah</a> (<a href="https://chrishannah.me/index.xml">RSS</a>) — <a href="https://blog.pcora.eu">Pedro Corá</a> (<a href="https://blog.pcora.eu/feed.xml">RSS</a>) — <a href="https://colinwalker.blog/">Colin Walker</a> (<a href="https://colinwalker.blog/dailyfeed.xml">RSS</a>) — <a href="https://softlandings.world/">Sixian Lim</a> (<a href="https://www.softlandings.world/feed.rss">RSS</a>) — <a href="https://mattstein.com">Matt Stein</a> (<a href="https://mattstein.com/rss.xml">RSS</a>) — <a href="https://winnielim.org">Winnie Lim</a> (<a href="https://winnielim.org/feed/">RSS</a>) — <a href="https://flamedfury.com/">Flamed</a> (<a href="https://flamedfury.com/feed.xml/">RSS</a>) — <a href="https://skyhold.org">C Jackdaw</a> (<a href="https://journal.miso.town/atom?url=https://skyhold.org/index.html">RSS</a>) — <a href="https://tiv.today">Kevin Humdrum</a> (<a href="https://tiv.today/feed.rss">RSS</a>) — <a href="https://www.doc.cc/">Fabricio Teixeira</a> (<a href="https://www.doc.cc/feed.xml">RSS</a>) — <a href="https://rosalindcroad.com">Rosalind Croad</a> — <a href="https://frankmeeuwsen.com">Frank Meeuwsen</a> (<a href="https://frankmeeuwsen.com/feed.xml">RSS</a>) — <a href="https://www.elmike.me">Mike Walsh</a> (<a href="https://www.elmike.me/feed.xml">RSS</a>) — <a href="https://www.byzero.de/">Markus Heurung</a> — <a href="https://cleverlaziness.xyz/">Juan Villela</a> (<a href="https://cleverlaziness.xyz/posts/index.xml">RSS</a>) — <a href="https://mwarrenarts.com/">Michael Warren</a> (<a href="https://mwarrenarts.com/rss">RSS</a>) — <a href="https://cagrimmett.com/">Chuck Grimmett</a> (<a href="https://cagrimmett.com/feed">RSS</a>) — <a href="https://eatweeds.co.uk">Robin Harford</a> (<a href="https://www.eatweeds.co.uk/feed/">RSS</a>) — <a href="https://bryanmanio.com/">Bryan Maniotakis</a> (<a href="https://bryanmanio.com/feed/">RSS</a>) — <a href="https://bjhess.com/">Barry Hess</a> (<a href="https://bjhess.com/posts_feed">RSS</a>) — <a href="https://chrisjung.xyz">Chris Jung</a> (<a href="https://chrisjung.xyz/feed/rss">RSS</a>) — <a href="https://ivanmoreale.com">Ivan Moreale</a> — <a href="https://islandinthenet.com">Khürt Williams</a> (<a href="https://islandinthenet.com/feed/">RSS</a>) — <a href="https://werd.io/">Ben Werdmuller</a> (<a href="https://werd.io/feed">RSS</a>) — <a href="https://corygibbons.com">Cory Gibbons</a> — <a href="https://www.lkhrs.com/">Luke Harris</a> (<a href="https://www.lkhrs.com/blog/index.xml">RSS</a>) — <a href="https://lars-christian.com/">Lars-Christian Simonsen</a> (<a href="https://lars-christian.com/feed/">RSS</a>) — <a href="https://www.codyschultz.com">Cody Schultz</a> — <a href="https://bradbarrish.com">Brad Barrish</a> (<a href="https://bradbarrish.com/feed/">RSS</a>) — <a href="https://galaiko.rocks">Nikita Galaiko</a> — Erik Blankvoort — <a href="https://jagasantagostino.com">Jaga Santagostino</a> — <a href="https://andzuck.com/">Andrew Zuckerman</a> — <a href="https://www.mattiacompagnucci.com">Mattia Compagnucci</a> (<a href="https://mattiacompagnucci.com/feed.rss">RSS</a>) — <a href="https://tdh.se/">Thord D. Hedengren</a> (<a href="https://tdh.se/feed/feed.xml">RSS</a>) — <a href="https://fabiensauser.ch">Fabien Sauser</a> (<a href="https://fabiensauser.ch/index.xml">RSS</a>) — <a href="http://dizzard.net/">Maxwell Omdal</a> — <a href="https://numericcitizen.me">Numeric Citizen</a> (<a href="https://feedpress.me/numericcitizen-feeds.xml?ref=numericcitizen.me">RSS</a>) — <a href="https://heydingus.net">Jarrod Blundy</a> (<a href="https://heydingus.net/feeds">RSS</a>) — <a href="https://gwtf.it">Andrea Contino</a> (<a href="https://gwtf.it/feed">RSS</a>) — <a href="https://sebastiandedeyne.com/">Sebastian De Deyne</a> (<a href="https://sebastiandedeyne.com/index.xml">RSS</a>) — <a href="https://koolinus.net/blog/">Nicola Losito</a> (<a href="https://koolinus.net/blog/feed/">RSS</a>) — <a href="https://amerpie.lol/">Lou Plummer</a> (<a href="https://amerpie.lol/feed.xml">RSS</a>) — <a href="https://lmika.org/">Leon Mika</a> (<a href="https://lmika.org/feed.xml">RSS</a>) — <a href="http://veronique.ink">Veronique</a> (<a href="https://veronique.ink/feed/">RSS</a>) — <a href="https://surplusjouissance.com">Neil Gorman</a> (<a href="https://www.surplusjouissance.com/rss/">RSS</a>) — <a href="https://reaper.is/">Reaper</a> (<a href="https://reaper.is/rss.xml">RSS</a>) — <a href="https://www.mattrutherford.co.uk/">Matt Rutherford</a> (<a href="https://www.mattrutherford.co.uk/rss/">RSS</a>) — <a href="https://therealadam.com">Adam Keys</a> (<a href="https://therealadam.com/feed.xml">RSS</a>) — <a href="https://aleemshaun.com/">Aleem Ali</a> (<a href="https://aleemshaun.com/feed">RSS</a>) — <a href="https://nikkin.dev/">Nikkin</a> (<a href="https://nikkin.dev/feed.xml">RSS</a>) — <a href="https://jeremyfelt.com/">Jeremy Felt</a> (<a href="https://jeremyfelt.com/feed">RSS</a>) — <a href="https://hansfast.net">Hans</a> (<a href="https://hansfast.net/everything.rss">RSS</a>) — <a href="https://www.markpitblado.me/">Mark Pitblado</a> (<a href="https://www.markpitblado.me/feed.xml">RSS</a>) — <a href="https://www.morelightmorelight.com/">Matt Katz</a> (<a href="https://www.morelightmorelight.com/feed">RSS</a>) — <a href="https://iljapanic.com/">Ilja Panić</a> — <a href="https://odongo.pl">Emmanuel Odongo</a> — <a href="https://kevquirk.com/">Kev Quirk</a> (<a href="https://kevquirk.com/feed">RSS</a>) — <a href="https://artlung.com/">Joe Crawford</a> (<a href="https://artlung.com/feed/">RSS</a>) — <a href="https://www.ismailsevik.com/">İsmail Şevik</a> (<a href="https://www.ismailsevik.com/feeds/posts/default?alt=rss">RSS</a>) — <a href="https://eessoo.co/">Elena Saharova</a> — <a href="https://ruk.ca/">Peter Rukavina</a> (<a href="https://ruk.ca/rss/feedburner.xml">RSS</a>) — <a href="https://jsrn.net">jsrn</a> (<a href="https://jsrn.net/feed.xml">RSS</a>)</p>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale">support on Ko-Fi</a>;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/81wcn2v2huSA8pkD>
+
+---
+
+## re-humanization
+
+date: 2024-07-05, from: Ayjay blog
+
+A couple of years ago I wrote about a shift in my writerly focus from a decade-long inquiry into the enemies of attention to an inquiry into how we might live a human life at a human scale. Those are related themes, of course: identifying and critiquing what Tim Wu calls “the attention merchants” is [&#8230;] 
+
+<https://blog.ayjay.org/re-humanization/>
+
+---
+
+## Oracle releases experimental next-gen kernel build
+
+date: 2024-07-05, updated: 2024-07-05, from: Liam Proven's articles at the Register
+
+<h4>UEK-next is bleeding edge – unlike most CentOS-alikes</h4>
+      <p>Oracle's Linux engineers have released their build of kernel 6.9 for Oracle Linux – and they're already planning for 6.10 and beyond.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/05/oracle_ueknext_6_9/>
+
+---
+
+## Celebrating the AI innovators of tomorrow
+
+date: 2024-07-05, from: Raspberry Pi (.org)
+
+<p>As the Experience AI Challenge has closed for submissions, we would like to thank all the talented young people who participated and submitted their projects this year. The Challenge, created by us in collaboration with Google DeepMind, guides young people under the age of 18, and their mentors, through the process of creating their own&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/celebrating-the-ai-innovators-of-tomorrow/">Celebrating the AI innovators of tomorrow</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/celebrating-the-ai-innovators-of-tomorrow/>
+
+---
+
+## New edition of Code the Classics Volume I on sale now
+
+date: 2024-07-05, from: Raspberry Pi News (.com)
+
+<p>Updated with new tutorials, this new edition of Code the Classics Volume I will get you started writing your own classic games!</p>
+<p>The post <a href="https://www.raspberrypi.com/news/new-edition-of-code-the-classics-volume-i-on-sale-now/">New edition of Code the Classics Volume I on sale now</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/new-edition-of-code-the-classics-volume-i-on-sale-now/>
+
+---
+
+## FLTK 1.4.x Weekly Snapshot (master)
+
+date: 2024-07-05, from: Fast Light Tool Kit
+
+A new weekly snapshot of FLTK 1.4.x (master) is now available 
+
+<https://www.fltk.org/articles.php?L1930>
+
+---
+
+## A moment of morning light
+
+date: 2024-07-05, from: Manu - I write blog
+
+
+                <p>Late nights are overrated. Being up and outside early in the morning is way more enjoyable.</p>
+<figure class="m-o" data-template="with"><div class="m-m"><img class="img" loading="lazy" src="https://manuelmoreale.com/media/pages/thoughts/a-moment-of-morning-light/3c183996fe-1720155224/img_1216.jpeg" style="aspect-ratio:1000 / 1333"></div></figure>                <hr>
+                <p>Thank you for keeping RSS alive. You're awesome.</p>
+                <p><a href="mailto:hello@manuelmoreale.com">Email me</a> ::
+                <a href="https://manuelmoreale.com/guestbook">Sign my guestbook</a> :: 
+                <a href="https://ko-fi.com/manuelmoreale">Support for 1$/month</a> :: 
+                <a href="https://manuelmoreale.com/supporters">See my awesome supporters</a> :: 
+                <a href="https://buttondown.email/peopleandblogs">Subscribe to People and Blogs</a></p>
+             
+
+<https://manuelmoreale.com/@/page/S7NX9JTYIrYa2JPz>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-05, from: Miguel de Icaza Mastondon feed)
+
+<p>Today in America we honor all of the heroes that will take blurry videos of fireworks that will never be played back.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112731389898321113>
+
+---
+
+## David Rosenthal on the X Windowing System’s 40th birthday
+
+date: 2024-07-04, from: OS News
+
+David Rosenthal, one of the primary contributors to the X Windowing System, has published an awesome blog post about the recent 40 year anniversary of X, full of details about the early days of X development, as well as the limitations they had to deal with, the choices they had to make, and the environment in which they were constrained. Once at Sun I realized that it was more important for the company that the Unix world standardized on a single window system than that the standard be Sun&#8217;s NeWS system. At C-MU I had already looked into X as an alternative to the Andrew window system, so I knew it was the obvious alternative to NeWS. Although most of my time was spent developing NeWS, I rapidly ported X version 10 to the Sun/1, likely the second port to non-DEC hardware. It worked, but I had to kludge several areas that depended on DEC-specific hardware. The worst was the completely DEC-specific keyboard support. Because it was clear that a major redesign of X was needed to make it portable and in particular to make it work well on Sun hardware, Gosling and I worked with the teams at DEC SRC and WRL on the design of X version 11. Gosling provided significant input on the imaging model, and I designed the keyboard support. As the implementation evolved I maintained the Sun port and did a lot of testing and bug fixing. All of which led to my trip to Boston to pull all-nighters at MIT finalizing the release. ↫ David Rosenthal They were clearly right. During those days, the UNIX world was using a variety of windowing systems, all tied to various companies and platforms. Standardising virtually the entire UNIX world on X aided in keeping UNIX compatible-ish even in the then-new graphical era, and X&#8217;s enduring existence to this very day is evidence of the fact they made a lot of right choices early on. Rosenthal also explains why one of the main alternatives to X, Sun&#8217;s PostScript-based NeWS, which was also co-developed by Rosenthal, didn&#8217;t win out over X. It had several things working against its adoptions and popularisation, such as Sun requiring a license fee for the source code, its heftier system requirements, and the fact it was more difficult to program for. After trying to create what Rosenthal describes as a &#8220;ghastly kludge&#8221; by combining NeWS and X into Xnews, Sun eventually killed it altogether. Of course, this wouldn&#8217;t be restrospective of X without mentioning Wayland. We and Jobs were wrong about the imaging model, for at least two reasons. First, early on pixels were in short supply and applications needed to make the best use of the few they were assigned. They didn&#8217;t want to delegate control to the PostScript interpreter. Second, later on came GPUs with 3D imaging models. The idea of a one-size-fits-all model became obsolete. The reason that Wayland should replace X11 is that it is agnostic to the application&#8217;s choice of imaging model. ↫ David Rosenthal This is about as close to a blessing from the original X Windowing System developers you&#8217;re ever going to get, but Rosenthal does correctly note that XWayland is a thing, and since not every application is going to be rewritten to support Wayland, X will most likely be around for a long time to come. In fact, he looks towards the future, and predicts that we&#8217;ll definitely be celebrating 50 years of X, and that yes, people will still be using it by then. 
+
+<https://www.osnews.com/story/140149/david-rosenthal-on-the-x-windowsing-systems-40th-birthday/>
+
+---
+
+## Dynamic Type on the Web
+
+date: 2024-07-04, from: furbo.org
+
+This site now supports Dynamic Type on iOS and iPadOS. If you go to System Settings on your iPhone or iPad, and change the setting for Display &#38; Brightness > Text Size, you&#8217;ll see the change reflected on this website. This is a big win for accessibility: many folks make this adjustment on their device [&#8230;] 
+
+<https://furbo.org/2024/07/04/dynamic-type-on-the-web/>
+
+---
+
+## ChatGPT Privacy and Mac Sandbox Containers
+
+date: 2024-07-04, from: Michael Tsai
+
+Tim Hardwick: OpenAI has issued an update to its ChatGPT app for Mac, after a developer discovered the app was locally storing users&#8217; conversations with the chatbot in plain text.Pedro Jos&#233; Pereira Vieito told The Verge&#8217;s Jay Peters: &#8220;I was curious about why OpenAI opted out of using the app sandbox protections and ended up [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/04/chatgpt-privacy-and-mac-sandbox-containers/>
+
+---
+
+## Longstanding CocoaPods Vulnerabities
+
+date: 2024-07-04, from: Michael Tsai
+
+Brandon Vigliarolo: CocoaPods, an open-source dependency manager used in over three million applications coded in Swift and Objective-C, left thousands of packages exposed and ready for takeover for nearly a decade &#x2013; thereby creating opportunities for supply chain attacks on iOS and macOS apps, according to security researchers.[&#8230;]As noted above, the CocoaPods team has patched [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/04/longstanding-cocoapods-vulnerabities/>
+
+---
+
+## AirPods Fast Connect Vulnerability
+
+date: 2024-07-04, from: Michael Tsai
+
+Jonas Dre&#223;ler (via Hacker News): There&#8217;s a security vulnerability (CVE-2024-27867) in the firmware of Apple AirPods. Anyone who knows the Bluetooth MAC address (which is somewhat public) can connect to your AirPods and listen to the microphone or play music. [&#8230;] Fast Connect is a proprietary and US-patented protocol by Apple that creatively uses the [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/04/airpods-fast-connect-vulnerability/>
+
+---
+
+## Chrome’s Entrust Certificate Distrust
+
+date: 2024-07-04, from: Michael Tsai
+
+Chrome Security Team (via Jeff Johnson, Hacker News): Over the past six years, we have observed a pattern of compliance failures, unmet improvement commitments, and the absence of tangible, measurable progress in response to publicly disclosed incident reports. When these factors are considered in aggregate and considered against the inherent risk each publicly-trusted CA poses [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/04/chromes-entrust-certificate-distrust/>
+
+---
+
+## Translation API in iOS 17 and macOS Sequoia
+
+date: 2024-07-04, from: Michael Tsai
+
+Joe Rossignol: In a WWDC 2024 coding video last week, Apple highlighted a recently-introduced API that allows developers to offer built-in Translate app capabilities in their own apps on iOS 17.4, iPadOS 17.4, macOS Sonoma, and later. Apple: Discover how you can translate text across different languages in your app using the new Translation framework. [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/04/translation-api-in-ios-17-and-macos-sequoia/>
+
+---
+
+## Cloudflare lets customers block AI bots, scrapers and crawlers with a single click
+
+date: 2024-07-04, from: OS News
+
+It seems the dislike for machine learning runs deep. In a blog post, Cloudflare has announced that blocking machine learning scrapers is so popular, they decided to just add a feature to the Cloudflare dashboard that will block all machine learning scrapers with a single click. We hear clearly that customers don’t want AI bots visiting their websites, and especially those that do so dishonestly. To help, we’ve added a brand new one-click to block all AI bots. It’s available for all customers, including those on the free tier. To enable it, simply navigate to the Security > Bots section of the Cloudflare dashboard, and click the toggle labeled AI Scrapers and Crawlers. ↫ Cloudflare blog According to Cloudflare, 85% of their customers block machine learning scrapers from taking content from their websites, and that number definitely does not surprise me. People clearly understand that multibillion dollar megacorporations freely scraping every piece of content on the web for their own further obscene enrichment while giving nothing back &#8211; in fact, while charging us for it &#8211; is inherently wrong, and as such, they choose to block them from doing so. Of course, it makes sense for Cloudflare to try and combat junk traffic, so this is one of those cases where the corporate interests of Cloudflare actually line up with the personal interests of its customers, so making blocking machine learning scrapers as easy as possible benefits both parties. I think OSNews, too, makes use of Cloudflare, so I&#8217;m definitely going to ask OSNews&#8217; owner to hit that button. Cloudflare further details that a lot of people are blocking crawlers run by companies like Amazon, Google, and OpenAI, but completely miss far more active crawlers like those run by the Chinese company ByteDance, probably because those companies don&#8217;t dominate the &#8220;AI&#8221; news cycle. Then there&#8217;s the massive number of machine learning crawlers that just straight-up lie about their intentions, trying to hide the fact they&#8217;re machine learning bots. We fear that some AI companies intent on circumventing rules to access content will persistently adapt to evade bot detection. We will continue to keep watch and add more bot blocks to our AI Scrapers and Crawlers rule and evolve our machine learning models to help keep the Internet a place where content creators can thrive and keep full control over which models their content is used to train or run inference on. ↫ Cloudflare blog I find this particularly funny because what&#8217;s happening here is machine learning models being used to block&#8230; Machine learning models. Give it a few more years down the trajectory we&#8217;re currently on, and the internet will just be bots reading content posted by other bots. 
+
+<https://www.osnews.com/story/140146/cloudflare-lets-customers-block-ai-bots-scrapers-and-crawlers-with-a-single-click/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-04, from: Miguel de Icaza Mastondon feed)
+
+<p>Final Cut Pro on iPad is a great source of UI inspiration for iPad apps.</p><p>So many idioms to copy into Godot on iPad.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112729545538926038>
+
+---
+
+## Eight CubeSats Lift Off for NASA on Firefly Aerospace Rocket!
+
+date: 2024-07-04, from: NASA breaking news
+
+As part of NASA’s CubeSat Launch Initiative, Firefly Aerospace launched eight small satellites on July 3 aboard the company’s Alpha rocket. Named “Noise of Summer,” the rocket successfully lifted off from Space Launch Complex 2 at Vandenberg Air Force Base in California at 9:04 p.m. PDT. The CubeSat missions were designed by universities and NASA [&#8230;] 
+
+<https://www.nasa.gov/image-article/eight-cubesats-lift-off-for-nasa-on-firefly-aerospace-rocket/>
+
+---
+
+## Some sanity for C and C++ development on Windows
+
+date: 2024-07-04, from: OS News
+
+The article&#8217;s from 2021, but I think it&#8217;s still worth discussing. A hard reality of C and C++ software development on Windows is that there has never been a good, native C or C++ standard library implementation for the platform. A standard library should abstract over the underlying host facilities in order to ease portable software development. On Windows, C and C++ is so poorly hooked up to operating system interfaces that most portable or mostly-portable software — programs which work perfectly elsewhere — are subtly broken on Windows, particularly outside of the English-speaking world. The reasons are almost certainly political, originally motivated by vendor lock-in, than technical, which adds insult to injury. This article is about what’s wrong, how it’s wrong, and some easy techniques to deal with it in portable software. ↫ Chris Wellons As someone who doesn&#8217;t know how to code or program, articles like these are always difficult to properly parse. I understand the primary problem the article covers, but what I&#8217;m curious about is how much of this problem is personal &#8211; skill issue &#8211; and how much of it is a widely held belief by Windows developers and programmers. I know there&#8217;s quite a few of you in our audience, so I&#8217;d love to hear from you how you feel about this. The author also authored his on fix, something called libwinsane, which I&#8217;m also curious about &#8211; is this the only solution, or are there more options out there? 
+
+<https://www.osnews.com/story/140142/some-sanity-for-c-and-c-development-on-windows/>
+
+---
+
+## It Has No Business in the Mouth
+
+date: 2024-07-04, updated: 2024-07-04, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/07/04/it-has-no-business-in-the-mouth/>
+
+---
+
+## 2024-07-02 The importance of moderation
+
+date: 2024-07-04, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-02-the-importance-of-moderation">2024-07-02 The importance of moderation</h1>
+
+<p><a class="account" href="https://idiomdrottning.org/users/Sandra" title="@Sandra@idiomdrottning.org">@Sandra</a> recently wrote <a href="https://idiomdrottning.org/usenet">Usenet had to die</a>, arguing that Usenet was wasteful, everybody carrying a copy of everybody else, including spam and binaries.
+I agree with all the points made. The idea that there is one global network of groups, with everybody carrying all the groups and everybody being allowed to post led to the downfall of Usenet.</p>
+
+<p>Having recently hooked my laptop and server server to a handful of other servers using UUCP, NNCP and NNTP for file copies, mail and news, I just want to emphasize that the same technology can be used to build a different net.</p>
+
+<ul>
+<li>UUCP doesn&rsquo;t have to be anonymous. Calling systems can be required to have a username and password.</li>
+<li>NNTP doesn&rsquo;t have to be anonymous. Systems can be known peers based on IP numbers and users can be required to authenticate themselves.</li>
+<li>Servers don&rsquo;t have to mirror all the groups. Systems can be selective in what they accept and in what they pass on.</li>
+</ul>
+
+<p>The spam problem arises when two systems &ldquo;trust&rdquo; each other and peer messages but one of the systems doesn&rsquo;t act on abuse and moderation reports.
+Perhaps Usenet generated too much of a workload for system administrators so they stopped following up on those reports.
+Perhaps some servers had become too big to ban.</p>
+
+<p>I think we have the exact same problems with fedi.
+Some instances seem too big to defederate from.</p>
+
+<p>Unfortunately, individual blocking doesn&rsquo;t work.
+If my posts end up on an unmoderated server because somebody I like is following me, the post shows up in the federated feed on that server and all the other users that I don&rsquo;t like can comment and those comments are sent back to me.
+I can block them all individually or block the large instance including my small number of friends.
+That instance has become too big to ban.</p>
+
+<p>To come back to net news:
+From my point of view, the protocols are not to blame for the downfall of Usenet.
+It was the lack of moderation that killed Usenet.
+It was the ease of setting up web forums and being able to moderate them that made Usenet irrelevant.
+In the end, to all these people federation was not as important as moderation.</p>
+
+<p>Administrators were unwilling to drop the groups that were overrun with people that needed moderation.
+This is a problem on all platforms with groups, e.g. Reddit.</p>
+
+<p>Administrators were unwilling to ban the instances that didn&rsquo;t moderate their users.
+This is a problem on all federated platforms, e.g. Mail.</p>
+
+<p>Administrators were unwilling to create new groups for people in their niches.
+At least nobody seems to be making that mistake again.
+IRC, Reddit, Discord – they all demonstrated that ad-hoc group formation and self-moderation was viable.</p>
+
+<p>This is why I think moderation, group forming and selectivity of federation are the most important quality of a platform.</p>
+
+<p>We can have a small network of servers offering mail and news exchange, like in the old days.
+The problem is unmoderated growth.</p>
+
+<p><a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p>
+
+<p><strong>2024-07-04</strong>. I got a long reply by <a class="account" href="https://idiomdrottning.org/users/Sandra" title="@Sandra@idiomdrottning.org">@Sandra</a>, reproduced in its entirety below.</p>
+
+<div style="text-align:center">⁂</div>
+
+<p>Ah, that&rsquo;s not a super new post, it&rsquo;s from September 2023. I dug it
+out again since we were talking about Illuminant, which seems awesome.
+It uses hashtags only as post keywords and instead, if I understand
+things correctly, relies on FEP-1b12 to provide group support.</p>
+
+<blockquote>
+<p>I think we have the exact same problems with fedi. Some instances
+seem too big to defederate from.</p>
+</blockquote>
+
+<p>It&rsquo;s not quite the same thing.</p>
+
+<p>Yes, it&rsquo;s a bad thing that I&rsquo;ve being hesitant to defederate from
+m.soc even though I get more spam from it over Fedi than I&rsquo;ve been
+getting from email fro the past several years.</p>
+
+<p>But I&rsquo;m still only getting individual posts from m.soc or any other
+server. (Which is also why hashtags don&rsquo;t work the way people think.)</p>
+
+<p>On Usenet, the typical behavior would be to carry the whole thing.
+Currently, I get dozens of spam messages from m.soc. If I were to
+mirror the whole thing (which is possible with AP relays, and is what
+would be necessary for hashtags to work like channels, me mirroring
+the entirety of all the non-banned servers), I&rsquo;d have to deal with
+thousands of messages. My server would croak.</p>
+
+<blockquote>
+<p>Unfortunately, individual blocking doesn’t work. If my posts end up
+on an unmoderated server because somebody I like is following me,
+the post shows up in the federated feed on that server and all the
+other users that I don’t like can comment and those comments are
+sent back to me.</p>
+</blockquote>
+
+<p>A problem. But again something that was way worse with usenet because
+on there, not only would I mirror or moderate abusive replies to me. I
+had to mirror abusive replies to <em>everybody</em>.</p>
+
+<p>BTW, I&rsquo;m, for the most part, glad that the servers-that-can-comment
+aren&rsquo;t allowlisted, that it works like email, that I can get comments
+from anyone. The downside of that is having to ban ban ban like crazy,
+but if it didn&rsquo;t work like that I&rsquo;m not sure it even would be
+federated.</p>
+
+<blockquote>
+<p>I can block them all individually or block the large instance
+including my small number of friends. That instance has become too
+big to ban.</p>
+</blockquote>
+
+<p>A problem. But on Usenet, <em>every</em> instance was too big to ban since
+every instance was expected to carry everything.</p>
+
+<p>Individual blocks is one way around it. That&rsquo;s why I, a small instance
+op, while I&rsquo;ve banned many small mainly-abuse instances, my need to
+ban the big sloppily moderated silos like m.soc or threads is a li&rsquo;l
+lower since I don&rsquo;t have hundreds of users to protect, which a midsize
+instance would have. I can absolutely see why midsize &ldquo;safe space&rdquo;
+instances would ban m.soc for example.</p>
+
+<p>Also I &ldquo;silence&rdquo; every instance since I don&rsquo;t have a &ldquo;whole known
+network&rdquo; tab.</p>
+
+<p>Killfiles was a user-level way to mute users on newsgroups. So there
+was <em>some</em> mitigation, but Fedi additionally has several other
+moderation tools like instance bans or silencing.</p>
+
+<p>More fundamentally: ActivityPub is about sending individual posts.
+Usenet was about mirroring entire servers. Those two are not the same.</p>
+
+<blockquote>
+<p>To come back to net news: From my point of view, the protocols are
+not to blame for the downfall of Usenet.</p>
+</blockquote>
+
+<p>The context that I wrote that Usenet post last September was to rant
+about hashtags. (A topic that I&rsquo;m gonna return to every now and then
+until the group/tag situation gets a li&rsquo;l better, which might require
+new UX affordances or perhaps only education.)</p>
+
+<p>That problem, summarized:</p>
+
+<ul>
+<li>Servers can only show you the posts that it has already stumbled
+over, through following or commenting</li>
+<li>So when you browse a hashtag, you only see a very small subset of
+those posts</li>
+<li>Which is fine for organizing a handful of persons posts, like &ldquo;I
+wanna see all of Marie&rsquo;s <code>#tidying</code> posts&rdquo; or &ldquo;I wanna go back and
+take a look at all of my already-followed-friends <code>#mosstodon</code>
+posts&rdquo; or even for filtering out stuff. I.e. it&rsquo;s OK as a tool for
+<em>subsets</em> and <em>intersection</em></li>
+<li>It&rsquo;s a disaster for <em>union</em>, for discovery, for &ldquo;emulating channels&rdquo;
+which people are used to from Tumblr and Twitter, which worked there
+since those are centralized</li>
+<li>For hashtags to work the way people expect them to, servers would
+have to mirror all posts. Like on Usenet.</li>
+<li>There was an effort in that direction early on, with the &ldquo;relay&rdquo;
+system.</li>
+<li>But small servers would croak. <strong>That&rsquo;s</strong> the problem. It&rsquo;d be an
+environmental waste heap.</li>
+</ul>
+
+<p>And that&rsquo;s absolutely a protocol level problem!</p>
+
+<p>A protocol level problem that Usenet had even without hashtags. (Well,
+there was one hashtag: Kibo.)</p>
+
+<p>I&rsquo;ve said a couple of times that servers mirror each other and for the
+sticklers in the audience I&rsquo;ve got to add that not literally <em>every</em>
+server carried <em>every</em> group. For example, some didn&rsquo;t carry
+Anarchists Lunatics Terrorists a.k.a. the <code>alt</code> hierarchy. But that&rsquo;s
+the fundamental intended flow. Group mirroring.</p>
+
+<p><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Usenet_servers_and_clients.svg" alt="Usenet
+architecture" /></p>
+
+<p>So in that way, Usenet is unlike mailing lists, where individual
+messages are sent to individual users. FEP-1b12 group servers on Fedi
+(like PieFed and MBin) are awesome because they get the best of both
+worlds of the &ldquo;only send the relevant posts&rdquo; nature of mailing lists,
+and the &ldquo;we&rsquo;re hosting this post anyway so we only need to store it
+once in the SQL&rdquo; nature of Usenet. As long as one user on a Lemmy
+server is subscribed to <code>@garderning@foo.bar</code>, like an email user
+might be subscribed to a mailing list, it might-as-well display a copy
+of that group since it&rsquo;s getting those messages anyway. It&rsquo;s not
+perfect and we&rsquo;re still paying a hefty &ldquo;decentralization tax&rdquo;, but
+it&rsquo;s more robust than mail and news.</p>
+
+<blockquote>
+<p>It was the lack of moderation that killed Usenet. It was the ease of
+setting up web forums and being able to moderate them that made
+Usenet irrelevant.</p>
+</blockquote>
+
+<p>Naw, Usenet kept puttering along after that, for a while, until the
+cost (and legal danger) of mirroring huge binaries archives which was
+the nail of nails. And that was a protocol level issue.</p>
+
+<p>Fedi absolutely has a moderation problem. That is being addressed although it seems to me that there are still unsolved problems.<br>
+Usenet had a much bigger moderation problem and much of the reason for
+that was on the protocol level. We have instances and instance bans to
+help moderate clusters of users where each instance op helps moderate
+the users on their instance. Moderation is happening on a user level
+which makes much more sense than on a group level. (Someone can be a
+saint on <code>alt.suicide.holiday</code> but a jerk on
+<code>alt.swedish.chef.bork.bork.bork</code> for example.)</p>
+
+<p>But Usenet also has a scalability problem. Resource use. Better
+moderation wouldn&rsquo;t be nearly enough to fix that.</p>
+
+<blockquote>
+<p>Administrators were unwilling to ban the instances that didn’t
+moderate their users. This is a problem on all federated platforms,
+e.g. Mail.</p>
+</blockquote>
+
+<p>Email can&rsquo;t moderate their users since email isn&rsquo;t supposed to be
+world-readable. (With exceptions like mailing lists; we can ban
+someone who sends abusive messages to those.) But even so, instance
+banning is very common on email.</p>
+
+<blockquote>
+<p>We can have a small network of servers offering mail and news
+exchange, like in the old days. The problem is unmoderated growth.</p>
+</blockquote>
+
+<p>Last time I talked about this I got the world&rsquo;s most stubborn reply
+guy on my neck who (since he was on a huge instance) could use
+hashtags to find at least some amount of interesting posts and was
+resistant to change. Since I mentioned scalability issues and how my
+server would croak if it were to try to mirror even <em>one</em> of the big
+instances, he started going on and on about &ldquo;scalability is only for
+capitalists&rdquo;.</p>
+
+<p>Yet another case of Smolnet Wishful Thinking Syndrome. The kind of
+thinking that hates Eternal September more than anything but keeps
+designing protocols that lead to more Eternal Septembers since they&rsquo;re
+about everyone-seeing-everyone and then they resort to technical
+gatekeeping or even bullying to keep people out. Not into it.</p>
+
+<p>My criticism of Usenet&rsquo;s protocol here has nothing to do with
+capitalist scaling, which is about &ldquo;throwing computers at it&rdquo;. Sure,
+that&rsquo;d be one solution to the protocol problems inherent to Usenet and
+relay-laden-ActivityPub.</p>
+
+<p>Real Smolnet scaling is about designing protocols that are about
+connecting people to people (and to topic groups or other
+communities), and in a non-wasteful, mottainai way create small
+overlapping villages instead of one big shout-loud-and-go-viral
+channel.</p>
+
+<p>There are two kinds of protocols. Those where everyone must see
+everything (like Antenna and CAPCOM, and Twitter), and those where
+that&rsquo;s not the case (like ActivityPub and email).</p>
+
+<p>Here are three network layouts:</p>
+
+<p><img loading="lazy" src="https://ellen.idiomdrottning.org/baran_networks.png" alt="Baran networks" /></p>
+
+<p>First we have a centralized network. One hub server and then every
+client is a spoke connected to that center core. The most efficient
+way to organize an &ldquo;everyone-must-see-everything&rdquo; protocol, but
+vulnerable to disasters like meteor strikes, nuclear explosions,
+billionaire takeovers, or earthquakes.</p>
+
+<p>Then we have a decentralized network. Several hubs connected to each
+other, mirroring each other. Usenet worked like that. The hubs need to
+be just as beefy as the ones in a centralized network. This has some
+advantages like redundancy and robustnesss, and it&rsquo;s more politically
+appealing to the anarchists that built the internet. (Not sure why
+since there&rsquo;s still two tiers and a mod group that rules everything
+for everyone.) It can be wasteful. It can handle
+everyone-must-see-everything protocols. It can also really shine when
+everyone <em>doesn&rsquo;t</em> need to see everything, like IRC which is super
+efficient. IRC is a brilliant protocol design that, like a mailing
+list, only sends the messages to a server that that server needs.</p>
+
+<p>Finally we have a distributed network. No hubs. It looks more like a
+mesh where every machine is connected to only a handful of &ldquo;nearby&rdquo;
+machines. This type of network is an absolute disaster for the
+everyone-must-see-everything scenario! Redundant to the point of
+wastefulness. That&rsquo;s a future we must fight tooth and nail! And that&rsquo;s
+exactly where the relay-centered version of ActivityPub was headed,
+and that&rsquo;s what would be &ldquo;needed&rdquo; for hashtags-as-groups-and-discovery
+to &ldquo;work&rdquo;.</p>
+
+<p>Here&rsquo;s where we the grassroots federalized ancom degrowth community
+need to check ourselves before we wreck ourselves because even though
+<a href="https://idiomdrottning.org/energy-is-undercosted" title="Energy is undercosted">energy and e-waste is underpriced</a>, a capitalist for-profit silo
+company would never in a million years set up a system like this
+because it&rsquo;s too wasteful ever for them, while we&rsquo;re liable to do so
+since each instance op only sees their <em>own</em> costs, not the cost for
+the network as a whole. The megacorps are OK with centralization
+because for them, the power consolidation in the first two network
+types is a positive, while for us it&rsquo;s a huge negative so we&rsquo;re drawn
+to the third type, so we need to be really careful and really
+responsible here.</p>
+
+<p>But as bad as this layout is for everyone-must-see-everything, it&rsquo;s
+really awesome for protocols where everyone <em>doesn&rsquo;t</em> need to see
+everything. It&rsquo;s economical, robust, cozy. ActivityPub (without the
+relentless mirroring) is a good fit here. I can follow a handful of
+users and be connected to their instances and only their posts are
+sent to my instance, I don&rsquo;t mirror the entire server. It&rsquo;s actually
+pretty awesome! It&rsquo;s good for moderation too because I only need to
+moderate my &ldquo;neighborhood&rdquo;. Yeah, a &ldquo;neighborhood&rdquo; is the perfect
+analogy for this; neighborhoods that can and overlap but are still
+small and managed. A system set up like that can remain smol and cozy
+even as it invites everyone on Earth. It&rsquo;s great. ActivityPub is
+awesome.</p> 
+
+<https://alexschroeder.ch/view/2024-07-02-moderation>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-04, from: Dave Winer's Scripting News)
+
+Truth be told one of the reasons I added it now was because I wanted a place to use the new <a href="http://scripting.com/2024/07/04/bullshit2.m4a">easter egg</a> Nakedjen recorded for me (and you). 
+
+<http://scripting.com/2024/07/04.html#a132632>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-04, from: Dave Winer's Scripting News)
+
+I added a <a href="https://imgs.scripting.com/2024/07/04/aboutPageAdditionNotSecure.png">section</a> to this site's <a href="http://scripting.com/?tab=about">About page</a> re "Not secure." 
+
+<http://scripting.com/2024/07/04.html#a131956>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-04, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@gmclean/post/C8_TWPPKKVH">Gordon McLean asks</a>: "If I was to move my blog away from WordPress, what platform is simplest?" 
+
+<http://scripting.com/2024/07/04.html#a125750>
+
+---
+
+## It could happen!
+
+date: 2024-07-04, from: Dave Winer's Scripting News
+
+<p>My <a href="http://scripting.com/">blog</a> is also a <a href="http://scripting.com/2024/07/04/aPaneerOfLegitimacy.m4a">podcast</a>. I wonder if anyone else does that. </p>
+<p>The title of this episode is "A peneer of legitimacy," but what I really meant is <a href="https://en.wikipedia.org/wiki/Wood_veneer">veneer</a>. </p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/04/butHerEmails.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I describe a dream where the owner of the NY Times is, in March 2025, being tried by a military tribunal for not sufficiently helping Trump get re-elected as he was told to do. Sulzberger, in his own defense, points out that they covered <a href="https://www.google.com/search?q=Biden%27s+Age">Biden's Age</a>, the official new version of <a href="https://www.google.com/search?q=Hillary%27s+Emails">Hillary's Emails</a>, while ignoring other possible issues. </p>
+<p>The tribunal returns with its verdict and hilarity ensues as the punishment, secret until revealed, is administered. </p>
+<p>The crowd goes crazy! "Too late! Not enough! Go to hell!" </p>
+<p>The host of the show is <a href="https://en.wikipedia.org/wiki/Bart_Simpson">Bart Simpson</a>. </p>
+<p>It could happen.</p>
+<p><i>3 minutes.</i></p>
+ 
+
+<http://scripting.com/2024/07/04/123827.html?title=itCouldHappen>
+
+---
+
+## Experimental Mir-based tiling WM is winning acceptance outside Ubuntopia
+
+date: 2024-07-04, updated: 2024-07-04, from: Liam Proven's articles at the Register
+
+<h4>Miracle-WM takes several more steps forward</h4>
+      <p>The Miracle-WM tiling window manager for Canonical's Mir display server has hit 0.3 – and also reaches places you may not expect to find Canonical code.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/07/04/miracle_wm_030/>
+
+---
+
+## Bullet Points: Ideological Axe-Grinding
+
+date: 2024-07-04, from: Dave Karpf's blog
+
+Liner notes on a couple recent book reviews 
+
+<https://davekarpf.substack.com/p/bullet-points-ideological-axe-grinding>
+
+---
+
+## donkey work
+
+date: 2024-07-04, from: Ayjay blog
+
+John Gregory Dunne, from The Studio:  The Studio was simplicity itself to write. It was mainly a matter of transcribing and rearranging my notes. That there were no surprises—I knew exactly what I was going to do—was for me the problem. Writing is essentially donkey work, manual labor of the mind. What makes it bearable [&#8230;] 
+
+<https://blog.ayjay.org/donkey-work/>
+
+---
+
+## EZ Streamer-Pi lets you live stream from four cameras at once
+
+date: 2024-07-04, from: Raspberry Pi News (.com)
+
+<p>Free EZ Streamer-Pi software from volunteer-run PixCams lets you live stream from up to four cameras using a single Raspberry Pi</p>
+<p>The post <a href="https://www.raspberrypi.com/news/ez-streamer-pi-lets-you-live-stream-from-four-cameras-at-once/">EZ Streamer-Pi lets you live stream from four cameras at once</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/ez-streamer-pi-lets-you-live-stream-from-four-cameras-at-once/>
+
+---
+
+## Controlled Panic
+
+date: 2024-07-04, from: Tedium site
+
+An upcoming iteration of the Linux kernel could take a user-friendly direction: A Linux version of the Blue Screen of Death, complete with QR code. 
+
+<https://feed.tedium.co/link/15204/16733617/linux-kernel-panic-qr-codes>
+
+---
+
+## Sols 4234-4235: And That’s (Nearly) a Wrap on Mammoth Lakes!
+
+date: 2024-07-04, from: NASA breaking news
+
+Earth Planning Date: Wednesday, July 3, 2024 We received the data from our SAM analysis of the Mammoth Lakes sample late Monday afternoon. After chewing over the results, the team declared we are very happy with all of the analyses we’ve done with this sample, and we are ready to move on to greener pastures… […] 
+
+<https://science.nasa.gov/blogs/sols-4234-4235-and-thats-nearly-a-wrap-on-mammoth-lakes/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-03, from: Miguel de Icaza Mastondon feed)
+
+<p>I am still in denial, as I take another sip from my glass of wine</p> 
+
+<https://mastodon.social/@Migueldeicaza/112725081780785566>
+
+---
+
+## Redox secures more funding deals, gives UI small makeover, and more
+
+date: 2024-07-03, from: OS News
+
+Another month, another report from the Redox team. The Rust-based operating system saw another active month, including getting a whole bunch of new funding deals for specific features, such as adding UNIX-style signals to Redox, as well as the further development of Termion, a Redox project that is &#8220;a pure Rust, bindless library for low-level handling, manipulating and reading information about terminals&#8221;. Furthermore, the default user interface Orbital got a small makeover with new colours and a new default wallpaper, and there&#8217;s the usual documentation and website improvements. More substantial are doubling the performance of RedoxFS by improving the speed of block reads and writes, and changes in how the xHCI drivers works to drastically reduce CPU usage. The PCI/PCIe and x86 VirtIO drivers has also been improved, and you can now do userspace debugging using the GNU Debugger from outside the VM. There&#8217;s a lot more, so head on over to read the whole thing. 
+
+<https://www.osnews.com/story/140139/redox-secures-more-funding-deals-gives-ui-small-makeover-and-more/>
+
+---
+
+## How dot matrix printers created text
+
+date: 2024-07-03, from: OS News
+
+The impact printer was a mainstay of the early desktop computing era. Also called “dot matrix printers,” these printers could print low-resolution yet very readable text on a page, and do so quickly and at a low price point. But these printers are a relic of the past; in 2024, you might find them printing invoices or shipping labels, although more frequently these use cases have been replaced by other types of printers such as thermal printers and laser printers.  The heart of the impact printer is the print head. The print head contained a column of pins (9 pins was common) that moved across the page. Software in the printer controlled when to strike these pins through an inked ribbon to place a series of “dots” on a page. By carefully timing the pin strikes with the movement of the print head, the printer could control where each dot was placed. A column of dots might represent the vertical stroke of the letter H, a series of single dots created the horizontal bar, and another column would create the final vertical stroke. ↫ Jim Hall at Technically We Write Our first printer was a dot matrix model, from I think a brand called Star or something similar. Back then, in 1991 or so, a lot of employers in The Netherlands offered programs wherein employees could buy computers through their work, offered at a certain discount. My parents jumped on the opportunity when my mom&#8217;s employer offered such a program, and through it, we bought a brand new 286 machine running MS-DOS and Windows 3.0, and it included said dot matrix printer. There&#8217;s something about the sound and workings of a dot matrix printer that just can&#8217;t be bested by modern ink, laser, or LED printers. The mechanical punching, at such a fast rate it sounded like a tiny Gatling gun, was mesmerising, especially when paired with continuous form paper. Carefully ripping off the perforated edges of the paper after printing was just a nice bonus that entertained me quite a bit as a child. I was surprised to learn that dot matrix printers are still being manufactured and sold today, and even comes in colour. They&#8217;re quite a bit more expensive than other printer types these days, but I have a feeling they&#8217;re aimed at enterprises and certain niches, which probably means they&#8217;re going to be of considerably higher quality than all the other junk printers that clog the market. With a bit more research, it might actually be possible to find a brand new colour dot matrix printer that is a better choice than some of the modern alternatives. The fact that I&#8217;m not contemplating buying a brand new dot matrix printer in 2024, even though I rarely print, is a mildly worrying development. 
+
+<https://www.osnews.com/story/140137/how-dot-matrix-printers-created-text/>
+
+---
+
+## An unexpected journey into Microsoft Defender’s signature world
+
+date: 2024-07-03, from: OS News
+
+Microsoft Defender is the endpoint security solution preinstalled on every Windows machine since Windows 7. It&#8217;s a fairly complex piece of software, addressing both EDR and EPP use cases. As such, Microsoft markets two different products. Microsoft Defender for Endpoint is a cloud based endpoint security solution that combines sensor capabilities with the advantages of a cloud processing. Microsoft Defender Antivirus (MDA), on the other hand, is a modern EPP enabled by default on any fresh Windows installation. MDA is the focus of this analysis. ↫ Retooling If you&#8217;ve ever wanted to know how Microsoft Defender works, this article contains a wealth of detailed information. 
+
+<https://www.osnews.com/story/140135/an-unexpected-journey-into-microsoft-defenders-signature-world/>
+
+---
+
+## Deleting Messages Attachments Everywhere
+
+date: 2024-07-03, from: Michael Tsai
+
+Ryan Jones: Deleting any iMessage media from your device storage (i.e. Mac or iPhone) also deletes it from the cloud forever.Even when:Messages in the Cloud is OnKeep Messages is ForeverYou&#8217;re in local storage managementApple you gotta clarify these message boxes big time! The other parts of System Settings &#x2023; General &#x2023; Storage are about freeing [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/03/deleting-messages-attachments-everywhere/>
+
+---
+
+## Feature Requests for Death
+
+date: 2024-07-03, from: Michael Tsai
+
+Greg Pierce: FB14170572: Add &#8220;Date Deceased&#8221; field to Contact records Louie Mantia: When I worked on iTunes, we briefly discussed inheriting purchased music, but we didn&#8217;t build anything for it. Product teams may never prioritize legacy-related features because they&#8217;re not glamorous. But a team separate from product design and development could develop a strategy for [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/03/feature-requests-for-death/>
+
+---
+
+## On the Origins of .DS_Store
+
+date: 2024-07-03, from: Michael Tsai
+
+Arno Gourdol (2006, via Lobsters): However, we soon started realizing that the Finder backend would be useful outside of the Finder. Therefore, a plan was hatched to someday make it available as a public API. Since I had previously been responsible for naming Icon Services and Navigation Services, we decided to go with Desktop Services [&#8230;] 
+
+<https://mjtsai.com/blog/2024/07/03/on-the-origins-of-ds_store/>
+
+---
+
+## The Marshall Star for July 3, 2024
+
+date: 2024-07-03, from: NASA breaking news
+
+11 Marshall Team Members, 5 Teams Awarded in Space Flight Awareness Ceremony By Jessica Barnett Sixteen individuals and groups from across NASA’s Marshall Space Flight Center were recognized June 27 for going above and beyond in their support of the human space program. Marshall Deputy Director Rae Ann Meyer presented the awards during a special [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-3-2024/>
+
+---
+
+## “No! It’s Not Connected!”
+
+date: 2024-07-03, updated: 2024-07-03, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/07/03/no-its-not-connected/>
+
+---
+
+## Former NASA Chief Astronaut Patrick Forrester Retires
+
+date: 2024-07-03, from: NASA breaking news
+
+July 3, 2024 RELEASE: J24-011 NASA astronaut Patrick G. Forrester retired June 29, after a career spanning 31 years of service and three spaceflights. He went on to become chief of NASA’s Astronaut Office, and most recently served as an advisor to the associate administrator for the Space Operations Mission Directorate at NASA Headquarters in [&#8230;] 
+
+<https://www.nasa.gov/news-release/former-nasa-chief-astronaut-patrick-forrester-retires/>
+
+---
+
+## Orion on the Rise
+
+date: 2024-07-03, from: NASA breaking news
+
+Technicians lift NASA’s Orion spacecraft out of the Final Assembly and System Testing cell on June 28, 2024. The integrated spacecraft, which will be used for the Artemis II mission to orbit the Moon, has been undergoing final rounds of testing and assembly, including end-to-end performance verification of its subsystems and checking for leaks in [&#8230;] 
+
+<https://www.nasa.gov/image-article/orion-on-the-rise/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-07-03, from: Miguel de Icaza Mastondon feed)
+
+<p>In Idaho they now card you for accessing the library</p> 
+
+<https://mastodon.social/@Migueldeicaza/112723465126869587>
 
 ---
 
@@ -116,6 +1008,16 @@ If you cover a surface with tiles, repetitive patterns always emerge — or do t
 
 ---
 
+## Stubs
+
+date: 2024-07-03, from: Rachel Kwon blog
+
+An interesting blog post. I liked this note about trees in Johannesburg by Herman. In our last apartment, the bedroom faced a quiet tree-filled backyard despite the apartment itself being on a major two-way avenue, so I woke up to birds chirping and almost non-existent street noise, and a view of lush greenery. In our current apartment, the bedroom faces a brick wall and a one-way side street adjacent to a one-way main street, so now I have a classic New York wakeup call which is horns honking, garbage trucks rattling, pigeons cooing and flapping, and occasionally people walking. 
+
+<https://kwon.nyc/notes/stubs/>
+
+---
+
 **@Dave Winer's Scripting News** (date: 2024-07-03, from: Dave Winer's Scripting News)
 
 If something like this happens and you haven't seen it in my linkblog, or on my blog's home page, please post a link to my <a href="https://mastodon.social/@davew">Mastodon account</a>. 
@@ -126,7 +1028,7 @@ If something like this happens and you haven't seen it in my linkblog, or on my 
 
 **@Dave Winer's Scripting News** (date: 2024-07-03, from: Dave Winer's Scripting News)
 
-Somehow, even though I watched an hour of news on MSNBC last night, and was on all the social media all day, I didn't hear about Pelosi's comments, and the leaked poll data, until this morning. It wasn't until I looked at the synopsis of Olbermann's podcast that I learned that something had changed. For whatever reason, even though I have made a significant investment in time to stay informed, it isn't working. Fact. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/03/smallerPatrioticKitty.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Somehow, even though I watched an hour of news on MSNBC last night, and was on all the social media all day, I didn't hear about Pelosi's comments, or the leaked poll data, until this morning. It wasn't until I looked at the synopsis of Olbermann's podcast that I learned that something had changed. For whatever reason, even though I have made a significant investment in time to stay informed, it isn't working. Fact. 
 
 <http://scripting.com/2024/07/03.html#a124225>
 
@@ -809,62 +1711,6 @@ date: 2024-07-02, updated: 2024-07-02, from: Liam Proven's articles at the Regis
 
 ---
 
-## 2024-07-02 The importance of moderation
-
-date: 2024-07-02, from: Alex Schroeder's Blog
-
-<h1 id="2024-07-02-the-importance-of-moderation">2024-07-02 The importance of moderation</h1>
-
-<p><a class="account" href="https://idiomdrottning.org/users/Sandra" title="@Sandra@idiomdrottning.org">@Sandra</a> recently wrote <a href="https://idiomdrottning.org/usenet">Usenet had to die</a>, arguing that Usenet was wasteful, everybody carrying a copy of everybody else, including spam and binaries.
-I agree with all the points made. The idea that there is one global network of groups, with everybody carrying all the groups and everybody being allowed to post led to the downfall of Usenet.</p>
-
-<p>Having recently hooked my laptop and server server to a handful of other servers using UUCP, NNCP and NNTP for file copies, mail and news, I just want to emphasize that the same technology can be used to build a different net.</p>
-
-<ul>
-<li>UUCP doesn&rsquo;t have to be anonymous. Calling systems can be required to have a username and password.</li>
-<li>NNTP doesn&rsquo;t have to be anonymous. Systems can be known peers based on IP numbers and users can be required to authenticate themselves.</li>
-<li>Servers don&rsquo;t have to mirror all the groups. Systems can be selective in what they accept and in what they pass on.</li>
-</ul>
-
-<p>The spam problem arises when two systems &ldquo;trust&rdquo; each other and peer messages but one of the systems doesn&rsquo;t act on abuse and moderation reports.
-Perhaps Usenet generated too much of a workload for system administrators so they stopped following up on those reports.
-Perhaps some servers had become too big to ban.</p>
-
-<p>I think we have the exact same problems with fedi.
-Some instances seem too big to defederate from.</p>
-
-<p>Unfortunately, individual blocking doesn&rsquo;t work.
-If my posts end up on an unmoderated server because somebody I like is following me, the post shows up in the federated feed on that server and all the other users that I don&rsquo;t like can comment and those comments are sent back to me.
-I can block them all individually or block the large instance including my small number of friends.
-That instance has become too big to ban.</p>
-
-<p>To come back to net news:
-From my point of view, the protocols are not to blame for the downfall of Usenet.
-It was the lack of moderation that killed Usenet.
-It was the ease of setting up web forums and being able to moderate them that made Usenet irrelevant.
-In the end, to all these people federation was not as important as moderation.</p>
-
-<p>Administrators were unwilling to drop the groups that were overrun with people that needed moderation.
-This is a problem on all platforms with groups, e.g. Reddit.</p>
-
-<p>Administrators were unwilling to ban the instances that didn&rsquo;t moderate their users.
-This is a problem on all federated platforms, e.g. Mail.</p>
-
-<p>Administrators were unwilling to create new groups for people in their niches.
-At least nobody seems to be making that mistake again.
-IRC, Reddit, Discord – they all demonstrated that ad-hoc group formation and self-moderation was viable.</p>
-
-<p>This is why I think moderation, group forming and selectivity of federation are the most important quality of a platform.</p>
-
-<p>We can have a small network of servers offering mail and news exchange, like in the old days.
-The problem is unmoderated growth.</p>
-
-<p><a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p> 
-
-<https://alexschroeder.ch/view/2024-07-02-moderation>
-
----
-
 ## Radar Trends to Watch: July 2024
 
 date: 2024-07-02, from: O'Reilly Radar
@@ -1164,7 +2010,7 @@ date: 2024-07-01, from: Dave Winer's Scripting News
 <p>I just did an approx 40 minute <a href="http://scripting.com/2024/07/01/jeffJarvisDiscusses.m4a">podcast</a> interview and discussion with <a href="https://en.wikipedia.org/wiki/Jeff_Jarvis">Jeff Jarvis</a>. I know Jeff from the early days of blogging. He was one of the best discussion leaders at BloggerCon. And he's an accomplished author and educator. </p>
 <p>We talk about how to organize news for people who are information starved by whatever it is that our news sources are doing, which is really hard to figure out, but in the end (I argue) who cares why, we have a problem to solve, so let's get on with it.</p>
 <p>I talk about the blogging at the Dean campaign in 2004, that's how they got around journalism. I'm sure that's where we have to go, put together what we think would be the Biden blog if the campaign was being run by Joe and Nicco, and I'd be on board, so would Jeff, and we'd help Heather Cox Richardson, and amplify anyone who is making sense and supports democracy. </p>
-<p>It could be funded by the <a href="http://scripting.com/2016/07/01/1342.html">People's PAC</a>, or something like it. It wouldn't take very much money, it's just a blog. But it would have powerful ideas that cut through the bullshit, and great videos, and we'd organize marches where people show up to help people.</p>
+<p>It could be funded by the <a href="http://scripting.com/2016/07/01/1342.html">People's PAC</a>, or something like it. It wouldn't take very much money, it's just a blog. But it would have powerful ideas that cut through the <a href="http://scripting.com/2024/07/03/bullshit.m4a">bullshit</a>, and great videos, and we'd organize marches where people show up to help people.</p>
 <p>And the campaign would never stop, we'd always be organizing.</p>
 <p>This is the discussion I wanted to start. </p>
 <p>Hope you enjoy! :-)</p>
@@ -2553,4 +3399,14 @@ Donate to Redox If you would like to support Redox, please consider donating or 
 Redox currently has a basic implementation of Signals, but this project will allow us to move most of signals code out of the kernel into user-space, and bring us much closer to POSIX compliance. 
 
 <https://www.redox-os.org/news/this-month-240630/>
+
+---
+
+## Setting up Gitea on Kubernetes from scratch
+
+date: 2024-06-30, from: Ze Iaso's blog
+
+ 
+
+<https://xeiaso.net/vods/2024/gitea-k8s/>
 

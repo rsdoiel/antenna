@@ -1,11 +1,113 @@
 ---
 title: mid central 2024.27
-updated: 2024-07-03 09:14:40
+updated: 2024-07-05 08:27:55
 ---
 
 # mid central 2024.27
 
-(date: 2024-07-03 09:14:40)
+(date: 2024-07-05 08:27:55)
+
+---
+
+## FPGAs deliver crypto-agile security
+
+date: 2024-07-04, from: EDN Blog
+
+<img width="800" height="467" src="https://www.edn.com/wp-content/uploads/Lattice-MachXO5D-NX.jpg?fit=800%2C467" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Lattice-MachXO5D-NX.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Lattice-MachXO5D-NX.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Lattice-MachXO5D-NX.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The Lattice MachXO5D-NX family of FPGAs offers crypto-agile algorithms, hardware root-of-trust features, and failsafe remote field updates.</p>
+<p>The post <a href="https://www.edn.com/fpgas-deliver-crypto-agile-security/" data-wpel-link="internal">FPGAs deliver crypto-agile security</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/fpgas-deliver-crypto-agile-security/>
+
+---
+
+## Novel IR light source improves ADAS
+
+date: 2024-07-04, from: EDN Blog
+
+<img width="800" height="436" src="https://www.edn.com/wp-content/uploads/Rohm-VCSELED.jpg?fit=800%2C436" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Rohm-VCSELED.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Rohm-VCSELED.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Rohm-VCSELED.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Leveraging the strengths of VCSELs and LEDs, Rohm’s VCSELED infrared light source aims to advance automotive ADAS technologies.</p>
+<p>The post <a href="https://www.edn.com/novel-ir-light-source-improves-adas/" data-wpel-link="internal">Novel IR light source improves ADAS</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/novel-ir-light-source-improves-adas/>
+
+---
+
+## Video processors assist driver viewing
+
+date: 2024-07-04, from: EDN Blog
+
+<img width="800" height="451" src="https://www.edn.com/wp-content/uploads/indie-Semi-iND880xx.jpg?fit=800%2C451" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/indie-Semi-iND880xx.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/indie-Semi-iND880xx.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/indie-Semi-iND880xx.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Automotive video processors from indie enhance driver visibility in use cases such as surround view systems and electronic mirrors.</p>
+<p>The post <a href="https://www.edn.com/video-processors-assist-driver-viewing/" data-wpel-link="internal">Video processors assist driver viewing</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/video-processors-assist-driver-viewing/>
+
+---
+
+## MCUs pair Cortex-23 core with ReRAM
+
+date: 2024-07-04, from: EDN Blog
+
+<img width="800" height="466" src="https://www.edn.com/wp-content/uploads/Nuvoton-M2L31.jpg?fit=800%2C466" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Nuvoton-M2L31.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Nuvoton-M2L31.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Nuvoton-M2L31.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Nuvoton’s M2L32 MCUs are powered by a 72-MHz Arm Cortex-M23 processor core with up to 512 kbytes of resistive random-access memory (ReRAM).</p>
+<p>The post <a href="https://www.edn.com/mcus-pair-cortex-23-core-with-reram/" data-wpel-link="internal">MCUs pair Cortex-23 core with ReRAM</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/mcus-pair-cortex-23-core-with-reram/>
+
+---
+
+## Image sensors enrich smartphone photography
+
+date: 2024-07-04, from: EDN Blog
+
+<img width="800" height="401" src="https://www.edn.com/wp-content/uploads/Samsung-Isocell-1.jpg?fit=800%2C401" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Samsung-Isocell-1.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Samsung-Isocell-1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Samsung-Isocell-1.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Three ISOCELL image sensors from Samsung bridge the gap between smartphone main and secondary cameras for enhanced imaging across all angles.</p>
+<p>The post <a href="https://www.edn.com/image-sensors-enrich-smartphone-photography/" data-wpel-link="internal">Image sensors enrich smartphone photography</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/image-sensors-enrich-smartphone-photography/>
+
+---
+
+## Sneak diodes and their impact on your designs
+
+date: 2024-07-04, from: EDN Blog
+
+<img width="593" height="320" src="https://www.edn.com/wp-content/uploads/Sneak-Diodes-3.png?fit=593%2C320" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Sneak-Diodes-3.png?w=593 593w, https://www.edn.com/wp-content/uploads/Sneak-Diodes-3.png?w=300 300w" sizes="(max-width: 593px) 100vw, 593px" /><p>Beware of the sneak diodes in op-amp that could has lead to some unfortunate issues in this low frequency clock oscillator. </p>
+<p>The post <a href="https://www.edn.com/sneak-diodes-and-their-impact-on-your-designs/" data-wpel-link="internal">Sneak diodes and their impact on your designs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/sneak-diodes-and-their-impact-on-your-designs/>
+
+---
+
+## New ARRL Section Managers
+
+date: 2024-07-03, from: Amateur Radio Relay League News
+
+<p><span>Nominations for 2024 ARRL Section Managers have been made. All nominees listed ran unopposed and returned their nomination forms by the June 7, 2024, deadline. They have been notified by mail and elected for new terms beginning October 1, 2024.</span></p><p></p><p><b><span>Connecticut: </span></b></p><p><b></b></p><b></b><span>Douglas Sharafanowich, WA1SFH (new)</span><span></span><p></p><p><b><span>Idaho: </span><span><span></span></span></b></p><p><b></b></p><b></b><span>Dan Marler, K7REX</span><span></span><p></p><p><b><span>Minnesota: </span></b><span></span></p><p></p><span>Bill Mitchell, AEØEE</span><span></span><p></p><p><b><span>North Dakota: </span></b><span></span></p><p></p><span>Ralph Fettig, NØRDF</span><span></span><p></p><p><b><span>Ohio: </span></b></p><p><b></b></p><b></b><span>Thomas Sly,...</span> 
+
+<http://www.arrl.org/news/view/new-arrl-section-managers>
+
+---
+
+## ARRL Systems Service Disruption
+
+date: 2024-07-03, from: Amateur Radio Relay League News
+
+<p><strong>Updated 07/03/2024 </strong></p><p>The ARRL Volunteer Examiner Coordinator Program continues to operate during the systems service disruption.</p><p>ARRL Volunteer Examiners (VEs) should continue to submit exam registrations and material requests. While we are unable to post new or revised exam session dates and details to the website, we can ship out exam materials. Please remember that most exam materials are avail...</p> 
+
+<http://www.arrl.org/news/view/arrl-systems-service-disruption>
+
+---
+
+## ARRL Logbook of The World Returns to Service
+
+date: 2024-07-03, from: Amateur Radio Relay League News
+
+<p>ARRL Logbook of The World® (LoTW®) returned to service July 1, 2024. It had been offline as part of a systems service disruption.</p><p>As work progressed on the network, some users encountered LoTW opening briefly during which some 6600 logs were uploaded. The logs were not processed until this weekend as we tested that the interfaces to LoTW were functioning properly.</p><p></p><p>We are taking steps to help mana...</p> 
+
+<http://www.arrl.org/news/view/arrl-logbook-of-the-world-returns-to-service>
 
 ---
 
@@ -33,7 +135,7 @@ date: 2024-07-03, from: Amateur Radio Relay League News
 
 date: 2024-07-03, from: EDN Blog
 
-<img width="961" height="696" src="https://www.edn.com/wp-content/uploads/PrettyGoodRectifier_Figure3.png?fit=961%2C696" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/PrettyGoodRectifier_Figure3.png?w=961 961w, https://www.edn.com/wp-content/uploads/PrettyGoodRectifier_Figure3.png?w=300 300w, https://www.edn.com/wp-content/uploads/PrettyGoodRectifier_Figure3.png?w=768 768w" sizes="(max-width: 961px) 100vw, 961px" /><p>This design idea shows an unconventional precision full-wave rectifier circuit with a notable lack of matched resistors. </p>
+<img width="961" height="696" src="https://www.edn.com/wp-content/uploads/PrettyGoodRectifier_Figure3.png?fit=961%2C696" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/PrettyGoodRectifier_Figure3.png?w=961 961w, https://www.edn.com/wp-content/uploads/PrettyGoodRectifier_Figure3.png?w=300 300w, https://www.edn.com/wp-content/uploads/PrettyGoodRectifier_Figure3.png?w=768 768w" sizes="(max-width: 961px) 100vw, 961px" /><p>This design idea shows an unconventional precision full-wave rectifier circuit with a notable lack of matched resistors. </p>
 <p>The post <a href="https://www.edn.com/peculiar-precision-full-wave-rectifier-needs-no-matched-resistors/" data-wpel-link="internal">Peculiar precision full-wave rectifier needs no matched resistors</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
@@ -48,16 +150,6 @@ date: 2024-07-02, from: Amateur Radio Relay League News
 <p>ARRL previously reported that we are responding to a serious incident involving access to our network and headquarters-based systems. Several services have been affected, including those administered by the ARRL Volunteer Examiner Coordinator (ARRL VEC).</p><p><strong>Exam Registrations and Materials</strong>. ARRL Volunteer Examiners (VEs) should continue to submit exam registrations and material requests. While we a...</p> 
 
 <http://www.arrl.org/news/view/arrl-vec-services-update-during-systems-disruption>
-
----
-
-## ARRL Systems Service Disruption
-
-date: 2024-07-02, from: Amateur Radio Relay League News
-
-<p><strong>Updated 07/02/2024</strong></p><p>A comprehensive update on the status of ARRL VEC services is available here.</p><p><strong>Updated 07/01/2024</strong></p><p>Effective 12:00pm ET / 16:00 UTC we will be returning Logbook of The World® (LoTW®) to service. </p><p>As work progressed on the network, some users encountered LoTW opening briefly during which some 6600 logs were uploaded. The logs were not processed until this weekend as we tested that th...</p> 
-
-<http://www.arrl.org/news/view/arrl-systems-service-disruption>
 
 ---
 

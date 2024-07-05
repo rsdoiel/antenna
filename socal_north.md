@@ -1,11 +1,374 @@
 ---
 title: socal north 2024.27
-updated: 2024-07-03 09:14:38
+updated: 2024-07-05 08:27:53
 ---
 
 # socal north 2024.27
 
-(date: 2024-07-03 09:14:38)
+(date: 2024-07-05 08:27:53)
+
+---
+
+## A brief history of the ‘Valley Girl’ stereotype
+
+date: 2024-07-05, updated: 2024-07-05, from: The LAist
+
+Think you know the origins of the ‘Valley Girl’ accent? Like OMG, as if! We dig into the past to explore how this ear-cringing accent evolved in the San Fernando Valley. 
+
+<https://laist.com/news/la-history/los-angeles-valley-girl-accent-socal-california-english>
+
+---
+
+## TV review: ‘The Bear’ season three executes bittersweet character studies, culinary realities
+
+date: 2024-07-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the newest season of “The Bear,” almost every second counts.
+The third season of FX’s Emmy-winning comedy-drama, which premiered last Wednesday, cooks up another round of character studies served alongside the show’s pressure cooker theme of striving for perfection. 
+
+<https://dailybruin.com/2024/07/04/tv-review-the-bear-season-three-executes-bittersweet-character-studies-culinary-realities/>
+
+---
+
+## Armenian History Month at USC — 100 years in the making
+
+date: 2024-07-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p> A conversation with the people, events and emotions behind the now University-supported month-long celebration of Armenian culture.</p>
+<p>The post <a href="https://dailytrojan.com/2024/07/04/armenian-history-month-at-usc-100-years-in-the-making/">Armenian History Month at USC — 100 years in the making</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/07/04/armenian-history-month-at-usc-100-years-in-the-making/>
+
+---
+
+## Playing with pride
+
+date: 2024-07-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Queer athletes and fans discuss what Pride Month means to them.</p>
+<p>The post <a href="https://dailytrojan.com/2024/07/04/playing-with-pride/">Playing with pride</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/07/04/playing-with-pride/>
+
+---
+
+## USC ups its  profit margins
+
+date: 2024-07-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>During the pandemic, the University saw its first profits in years. With tuition hikes galore and a growing healthcare industry, the trend seems to continue.</p>
+<p>The post <a href="https://dailytrojan.com/2024/07/04/usc-ups-its-profit-margins/">USC ups its  profit margins</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/07/04/usc-ups-its-profit-margins/>
+
+---
+
+## Tiki bars were born in LA. Now, a tiki revival might be underway
+
+date: 2024-07-04, updated: 2024-07-04, from: The LAist
+
+A new documentary called "The Donn of Tiki" sheds light on the appeal, aesthetic, and appropriation of tiki culture. 
+
+<https://laist.com/news/la-history/tiki-bars-were-born-in-la-now-a-tiki-revival-might-be-underway>
+
+---
+
+## LA may be the new Cabo; we can’t let that happen
+
+date: 2024-07-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Shifting climates will change our ecological fabric, but our landscapes will tell if we’ll make it out alive.</p>
+<p>The post <a href="https://dailytrojan.com/2024/07/04/la-may-be-the-new-cabo-we-cant-let-that-happen/">LA may be the new Cabo; we can’t let that happen</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/07/04/la-may-be-the-new-cabo-we-cant-let-that-happen/>
+
+---
+
+## Folt’s five years
+
+date: 2024-07-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>It took mere weeks for the administration’s decisions to tear the community apart. All eyes are on the president to build it back up — but can she?</p>
+<p>The post <a href="https://dailytrojan.com/2024/07/04/folts-five-years/">Folt’s five years</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/07/04/folts-five-years/>
+
+---
+
+## Letter to the Editor: Our queer leaders cannot be collateral
+
+date: 2024-07-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>President Carol Folt, Vice President for Student Life Monique Allard and Assistant Vice Provost for Student Life, Student Equity and Inclusion Naddia Palacios, we charge you with perpetuating homophobic violence.</p>
+<p>The post <a href="https://dailytrojan.com/2024/07/04/letter-to-the-editor-our-queer-leaders-cannot-be-collateral/">Letter to the Editor: Our queer leaders cannot be collateral</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/07/04/letter-to-the-editor-our-queer-leaders-cannot-be-collateral/>
+
+---
+
+## An Open Letter to ‘The Baby-Sitters Club’ as I Begin the Last Episode
+
+date: 2024-07-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Knowing our time is limited, knowing we are down to our final 28 minutes, I want to say some parting words as we stand on the precipice of goodbye.</p>
+<p>The post <a href="https://dailytrojan.com/2024/07/04/an-open-letter-to-the-baby-sitters-club-as-i-begin-the-last-episode/">An Open Letter to &#8216;The Baby-Sitters Club&#8217; as I Begin the Last Episode</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/07/04/an-open-letter-to-the-baby-sitters-club-as-i-begin-the-last-episode/>
+
+---
+
+## Neighborhood Academic Initiative falls short in addressing systemic issues
+
+date: 2024-07-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Despite its impressive successes, NAI neglects large swaths of USC’s surrounding community.</p>
+<p>The post <a href="https://dailytrojan.com/2024/07/04/neighborhood-academic-initiative-falls-short-in-addressing-systemic-issues/">Neighborhood Academic Initiative falls short in addressing systemic issues</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/07/04/neighborhood-academic-initiative-falls-short-in-addressing-systemic-issues/>
+
+---
+
+## HOMETOWNS
+
+date: 2024-07-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/07/04/hometowns/">HOMETOWNS</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/07/04/hometowns/>
+
+---
+
+## From the Editor — Summer 2024
+
+date: 2024-07-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/07/04/from-the-editor-summer-2024/">From the Editor — Summer 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/07/04/from-the-editor-summer-2024/>
+
+---
+
+## The quest to find USC’s smallest major
+
+date: 2024-07-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Sammy Bovitz embarks on a monthslong odyssey to unpack a seemingly simple question.</p>
+<p>The post <a href="https://dailytrojan.com/2024/07/04/the-quest-to-find-uscs-smallest-major/">The quest to find USC’s smallest major</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/07/04/the-quest-to-find-uscs-smallest-major/>
+
+---
+
+## Líderes Latinos Piden un Mayor Compromiso con el Electorado Latino
+
+date: 2024-07-04, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/america-1839860_1280.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/america-1839860_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/america-1839860_1280.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/america-1839860_1280.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/america-1839860_1280.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/america-1839860_1280.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/america-1839860_1280.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/america-1839860_1280.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/america-1839860_1280.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/america-1839860_1280.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Un día después del debate presidencial, las organizaciones sin fines de lucro UnidosUS Action Fund y Mi Familia en Acción, junto con líderes latinos de California, celebraron una conferencia de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/03/lideres-latinos-piden-un-mayor-compromiso-con-el-electorado-latino/">Líderes Latinos Piden un Mayor Compromiso con el Electorado Latino</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/03/lideres-latinos-piden-un-mayor-compromiso-con-el-electorado-latino/>
+
+---
+
+## Tres Legisladoras Latinas Locales Buscan un Cargo más Alto este Otoño
+
+date: 2024-07-04, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="799" height="323" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/LAtinaPoliticians.jpg?fit=799%2C323&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/LAtinaPoliticians.jpg?w=799&amp;ssl=1 799w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/LAtinaPoliticians.jpg?resize=300%2C121&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/LAtinaPoliticians.jpg?resize=768%2C310&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/LAtinaPoliticians.jpg?resize=400%2C162&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/LAtinaPoliticians.jpg?resize=706%2C285&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/LAtinaPoliticians.jpg?fit=799%2C323&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La alcaldesa de la ciudad de San Fernando y su colega más reciente en el concejo municipal se encuentran en un escenario único: servir a sus electores y, al mismo [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/03/tres-legisladoras-latinas-locales-buscan-un-cargo-mas-alto-este-otono/">Tres Legisladoras Latinas Locales Buscan un Cargo más Alto este Otoño</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/03/tres-legisladoras-latinas-locales-buscan-un-cargo-mas-alto-este-otono/>
+
+---
+
+## Horóscopo
+
+date: 2024-07-04, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>ARIES (21 de mar &#8211; 19 de abr) Esta semana, los trabajos que parecen una rutina absoluta pueden o no serlo, pero no dejes que eso te impida sumergirte. Una [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/03/horoscopo-170/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/03/horoscopo-170/>
+
+---
+
+## EVENTOS Locales – Semana de 4 de julio, 2024
+
+date: 2024-07-04, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Julio 5 Sabor &#38; Soul: Afro-Latino Risas de comedia de micrófono abierto Mofongos 5757 Lankershim Blvd. North Hollywood 10 p.m. – 11:50 p.m. Prepárate para una noche llena de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/03/eventos-locales-semana-de-4-de-julio-2024/">EVENTOS Locales &#8211; Semana de 4 de julio, 2024</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/03/eventos-locales-semana-de-4-de-julio-2024/>
+
+---
+
+## La Comunidad del Noreste del Valle Deslumbró con el Tercer Espectáculo Anual de Luces de Drones de Hansen Dam
+
+date: 2024-07-04, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/PXL_20240701_042216863_exported_40059.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/PXL_20240701_042216863_exported_40059.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/PXL_20240701_042216863_exported_40059.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/PXL_20240701_042216863_exported_40059.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/PXL_20240701_042216863_exported_40059.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/PXL_20240701_042216863_exported_40059.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/PXL_20240701_042216863_exported_40059.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/PXL_20240701_042216863_exported_40059.jpg?resize=1568%2C882&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/PXL_20240701_042216863_exported_40059.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/PXL_20240701_042216863_exported_40059.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/PXL_20240701_042216863_exported_40059.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El noreste del Valle de San Fernando celebró el 4 de julio unos días antes, el domingo 30 de junio, pero en lugar de un típico espectáculo de fuegos artificiales, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/03/la-comunidad-del-noreste-del-valle-deslumbro-con-el-tercer-espectaculo-anual-de-luces-de-drones-de-hansen-dam/">La Comunidad del Noreste del Valle Deslumbró con el Tercer Espectáculo Anual de Luces de Drones de Hansen Dam</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/03/la-comunidad-del-noreste-del-valle-deslumbro-con-el-tercer-espectaculo-anual-de-luces-de-drones-de-hansen-dam/>
+
+---
+
+## La Corte Suprema de EE. UU. Aprueba la Prohibición de que las Personas Duerman al Aire Libre en Espacios Públicos
+
+date: 2024-07-04, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/AP24180776341819_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/AP24180776341819_elsol.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/AP24180776341819_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/AP24180776341819_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/AP24180776341819_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/AP24180776341819_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/AP24180776341819_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/AP24180776341819_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/AP24180776341819_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>En respuesta al fallo de la Corte Suprema de EE. UU. del 28 de junio de que las ciudades pueden hacer cumplir las prohibiciones para que las personas sin hogar [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/03/la-corte-suprema-de-ee-uu-aprueba-la-prohibicion-de-que-las-personas-duerman-al-aire-libre-en-espacios-publicos/">La Corte Suprema de EE. UU. Aprueba la Prohibición de que las Personas Duerman al Aire Libre en Espacios Públicos</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/03/la-corte-suprema-de-ee-uu-aprueba-la-prohibicion-de-que-las-personas-duerman-al-aire-libre-en-espacios-publicos/>
+
+---
+
+## El Conteo de Personas Sin Hogar en el Area Metropolitana de Los Ángeles de 2024 Revela Ligeras Tendencias a la Baja
+
+date: 2024-07-04, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Hope-the-Mission_SN_07-scaled-e1720064350671.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Hope-the-Mission_SN_07-scaled-e1720064350671.jpeg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Hope-the-Mission_SN_07-scaled-e1720064350671.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Hope-the-Mission_SN_07-scaled-e1720064350671.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Hope-the-Mission_SN_07-scaled-e1720064350671.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los datos del Conteo de Personas sin Hogar del Área Metropolitana de Los Ángeles de 2024 muestran que el número de personas sin hogar en todo el condado disminuyó ligeramente [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/03/el-conteo-de-personas-sin-hogar-en-el-area-metropolitana-de-los-angeles-de-2024-revela-ligeras-tendencias-a-la-baja/">El Conteo de Personas Sin Hogar en el Area Metropolitana de Los Ángeles de 2024 Revela Ligeras Tendencias a la Baja</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/03/el-conteo-de-personas-sin-hogar-en-el-area-metropolitana-de-los-angeles-de-2024-revela-ligeras-tendencias-a-la-baja/>
+
+---
+
+## Hollywood Reconsidera Cómo Puede Contribuir a la Acción Climática
+
+date: 2024-07-04, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/RLR_1659-scaled.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/RLR_1659-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/RLR_1659-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/RLR_1659-scaled.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/RLR_1659-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/RLR_1659-scaled.jpg?resize=1536%2C1023&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/RLR_1659-scaled.jpg?resize=2048%2C1364&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/RLR_1659-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/RLR_1659-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/RLR_1659-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/RLR_1659-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/RLR_1659-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/RLR_1659-scaled.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/RLR_1659-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/RLR_1659-scaled.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Creadores de Hollywood, celebridades, activistas, líderes comunitarios y ambientalistas, se reunieron para intercambiar ideas y postular cómo utilizar sus talentos y colaborar para la acción climática, en la quinta Cumbre [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/03/hollywood-reconsidera-como-puede-contribuir-a-la-accion-climatica/">Hollywood Reconsidera Cómo Puede Contribuir a la Acción Climática</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/03/hollywood-reconsidera-como-puede-contribuir-a-la-accion-climatica/>
+
+---
+
+## La Votación del Concejo Municipal de Los Ángeles Avanza hacia la Restricción del Césped Artificial y la Reducción de las PFAS en el Suministro de Agua
+
+date: 2024-07-04, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>El Concejo Municipal de Los Ángeles aprobó una moción el viernes 28 de junio para recopilar información y recomendaciones que podrían conducir a la prohibición de nuevas instalaciones de césped [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/03/la-votacion-del-concejo-municipal-de-los-angeles-avanza-hacia-la-restriccion-del-cesped-artificial-y-la-reduccion-de-las-pfas-en-el-suministro-de-agua/">La Votación del Concejo Municipal de Los Ángeles Avanza hacia la Restricción del Césped Artificial y la Reducción de las PFAS en el Suministro de Agua</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/03/la-votacion-del-concejo-municipal-de-los-angeles-avanza-hacia-la-restriccion-del-cesped-artificial-y-la-reduccion-de-las-pfas-en-el-suministro-de-agua/>
+
+---
+
+## Campaña en el Valle Protesta Contra el Papel del Fabricante de Armas en el Suministro a Israel
+
+date: 2024-07-04, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Photo-4_el-sol.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Photo-4_el-sol.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Photo-4_el-sol.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Photo-4_el-sol.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Photo-4_el-sol.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Photo-4_el-sol.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/Photo-4_el-sol.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Una campaña con sede en North Hills, compuesta por diferentes organizaciones, realizó una manifestación frente a Northrop Grumman Innovation Systems en Northridge el miércoles 26 de junio, para protestar por [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/07/03/campana-en-el-valle-protesta-contra-el-papel-del-fabricante-de-armas-en-el-suministro-a-israel/">Campaña en el Valle Protesta Contra el Papel del Fabricante de Armas en el Suministro a Israel</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/07/03/campana-en-el-valle-protesta-contra-el-papel-del-fabricante-de-armas-en-el-suministro-a-israel/>
+
+---
+
+## Accounting details still missing for $3 million in OC taxpayer dollars to feed seniors during pandemic
+
+date: 2024-07-04, updated: 2024-07-04, from: The LAist
+
+A nonprofit at the center of an LAist investigation of O.C. Supervisor Andrew Do missed another deadline to account for over $3 million in taxpayer dollars Do gave the group to feed needy seniors during the pandemic. 
+
+<https://laist.com/news/politics/orange-county-supervisor-andrew-do-nonprofit-audits>
+
+---
+
+## Big Ten Preview: Washington
+
+date: 2024-07-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA is just weeks away from joining the Big Ten. After 96 years and 123 NCAA championships in the Pac-12, the Bruins are at the forefront of the Big Ten&#8217;s West Coast expansion. 
+
+<https://dailybruin.com/2024/07/03/big-ten-preview-washington/>
+
+---
+
+## Concert preview: Five exciting shows arriving to heat up summer in Los Angeles
+
+date: 2024-07-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Summer is heating up with a fiery lineup of talented artists playing shows across Los Angeles.
+From hip-hop hitmakers of yesteryear to former boy band members, with sets from rising Generation-Z artists and acclaimed indie favorites also on the calendar, venues of all sizes across the city will be hosting can’t-miss artists this season. 
+
+<https://dailybruin.com/2024/07/03/concert-preview-five-exciting-shows-arriving-to-heat-up-summer-in-los-angeles/>
+
+---
+
+## The Big I Do Returns with Lavish Giveaways
+
+date: 2024-07-03, from: City of Santa Clarita
+
+<p>Participating Couples Will Have a Chance to Win a Custom Wedding Dress and Suit Are you engaged or planning to propose? Now is the perfect moment! The City of Santa Clarita’s The Big I Do returns on Valentine’s Day, 2025. This exceptional wedding event will see multiple couples exchanging vows simultaneously, followed by a lavish [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/07/03/the-big-i-do-returns-with-lavish-giveaways/">The Big I Do Returns with Lavish Giveaways</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/07/03/the-big-i-do-returns-with-lavish-giveaways/>
+
+---
+
+## Mayor Karen Bass further restricts where affordable housing can be streamlined in LA
+
+date: 2024-07-03, updated: 2024-07-03, from: The LAist
+
+One housing expert says the new changes leave a successful program “functionally gutted.” 
+
+<https://laist.com/news/housing-homelessness/los-angeles-ed-1-changes-mayor-karen-bass-affordable-housing-low-income-streamline-revision>
+
+---
+
+## Plants the Mammoths Ate
+
+date: 2024-07-03, from: California Native Plants Society
+
+<p>Many plants that fed Ice Age animals like Columbian mammoths, camels, and ground sloths remain today.</p>
+<p>The post <a href="https://www.cnps.org/flora-magazine/plants-the-mammoths-ate-25583">Plants the Mammoths Ate</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/flora-magazine/plants-the-mammoths-ate-25583>
+
+---
+
+## Proposed ballot measure would nearly double LA County's Board of Supervisors. That's gone unchanged since 1912
+
+date: 2024-07-03, updated: 2024-07-03, from: The LAist
+
+Right now, each supervisor represents about 2 million people — more than members of Congress and more than some U.S. senators. When the board was created the county's total population was 500,000. 
+
+<https://laist.com/news/politics/proposed-ballot-measure-could-nearly-double-size-of-la-board-of-supervisors>
 
 ---
 

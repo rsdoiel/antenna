@@ -1,11 +1,121 @@
 ---
 title: motorcycles 2024.27
-updated: 2024-07-03 09:14:44
+updated: 2024-07-05 08:27:59
 ---
 
 # motorcycles 2024.27
 
-(date: 2024-07-03 09:14:44)
+(date: 2024-07-05 08:27:59)
+
+---
+
+## LA to Vegas and Nearly Back On One Tank, BMW's New R 1300 GS Adventure Goes Far
+
+date: 2024-07-05, from: Ride Apart, Electric Motorcycle News
+
+Iron butts are now single tanks of fuel long.  
+
+<https://www.rideapart.com/news/725455/2025-bmw-r-1300-gs-adventure-fuel-tank-capacity/>
+
+---
+
+## BMW's R 1300 GS Adventure Crosses Continents Comfortably, Still an Off-Road Beast
+
+date: 2024-07-05, from: Ride Apart, Electric Motorcycle News
+
+This motorcycle is smarter than you.  
+
+<https://www.rideapart.com/news/725457/2025-bmw-r-1300-gs-adventure-specs-motorcycle/>
+
+---
+
+## Return to Chicago presents variety of welcomed challenges for Cup crew chiefs
+
+date: 2024-07-05, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer CHICAGO – One could make the case that NASCAR Cup Series crew chiefs have the most important job in the garage. These master strategists are&#8230;  
+
+<https://kickinthetires.net/nascar/return-to-chicago-presents-wide-range-of-welcomed-challenges-for-cup-crew-chiefs/>
+
+---
+
+## Cardo Packtalk Pro Review
+
+date: 2024-07-05, from: Cycle World News
+
+We rode hundreds of miles with Cardo’s Packtalk Pro to determine if its premium features are a worthy upgrade. 
+
+<https://www.cycleworld.com/motorcycle-gear-and-products/cardo-packtalk-pro-review/>
+
+---
+
+## Take A Look At This Teeny Tiny V-Twin, Appears to Be a Bad Photocopy
+
+date: 2024-07-04, from: Ride Apart, Electric Motorcycle News
+
+Confusingly, it's called the V-5. We assure you it does not have a V-5 engine. 
+
+<https://www.rideapart.com/news/725458/jonway-v5-cruiser-harley-indian/>
+
+---
+
+## Bad Snowfall, Warm Winter Blamed on Trashfire Sales of Snowmobiles
+
+date: 2024-07-04, from: Ride Apart, Electric Motorcycle News
+
+It ain't getting better, folks.  
+
+<https://www.rideapart.com/news/725465/snowmobile-sales-fell-ski-doo-polaris-lynx-arctic-cat/>
+
+---
+
+## 2024 Harley-Davidson Road Glide 3
+
+date: 2024-07-04, from: Cycle World News
+
+Harley’s three-wheeled Road Glide 3 is the classic Glide as we’ve known it, but for how much longer? 
+
+<https://www.cycleworld.com/harley-davidson/road-glide-3/>
+
+---
+
+## For Josh Berry Family, Heritage, History Make Wood Brothers a Great Fit
+
+date: 2024-07-03, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor CONCORD, N.C. – Some of the drivers and fans that are often most knowledgeable about NASCAR’s history are those with short track racing roots. For&#8230;  
+
+<https://kickinthetires.net/nascar/berry-family-history-wood-brothers/>
+
+---
+
+## 2024 Harley-Davidson Fat Boy 114
+
+date: 2024-07-03, from: Cycle World News
+
+Since its introduction in 1990, the Fat Boy has become one of Harley-Davidson’s most iconic cruisers. The 2024 model’s epic proportions continue the legacy. 
+
+<https://www.cycleworld.com/harley-davidson/fat-boy-114/>
+
+---
+
+## Suzuki GSX-8R vs. Triumph Daytona 660 vs. Yamaha YZF-R7
+
+date: 2024-07-03, from: Cycle World News
+
+The middleweight sportbike class has evolved over recent years with more practical offerings than ever before. Suzuki, Triumph, and Yamaha go head-to-head for the title. 
+
+<https://www.cycleworld.com/motorcycle-reviews/suzuki-gsx-8r-vs-triumph-daytona-660-vs-yamaha-yzf-r7-comparison-test/>
+
+---
+
+## ARCA Menards West Series: 2024 Irwindale Doubleheader Race Preview
+
+date: 2024-07-03, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires It&#8217;s been almost a month since the last ARCA Menards West Series race. A race contested on the Sonoma road track in&#8230;  
+
+<https://kickinthetires.net/nascar/arca-west-irwindale-doubleheader-preview/>
 
 ---
 
@@ -86,16 +196,6 @@ date: 2024-07-02, from: Kickin the Tires blog
 By Seth Eggert, Associate Editor A NASCAR Cup Series record of five attempts at overtime in the Ally 400 at Nashville Superspeedway is not a reason or a just cause&#8230;  
 
 <https://kickinthetires.net/nascar/nascars-overtime-rules-are-fine-as-is/>
-
----
-
-## Suzuki GSX-8R vs. Triumph Daytona 660 vs. Yamaha YZF-R7
-
-date: 2024-07-02, from: Cycle World News
-
-The middleweight sportbike class has evolved over recent years with more practical offerings than ever before. Suzuki, Triumph, and Yamaha go head-to-head for the title. 
-
-<https://www.cycleworld.com/motorcycle-reviews/suzuki-gsx-8r-vs-triumph-daytona-660-vs-yamaha-yzf-r7-comparison-test/>
 
 ---
 

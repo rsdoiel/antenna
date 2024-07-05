@@ -1,11 +1,136 @@
 ---
 title: central coast 2024.27
-updated: 2024-07-03 09:14:40
+updated: 2024-07-05 08:27:55
 ---
 
 # central coast 2024.27
 
-(date: 2024-07-03 09:14:40)
+(date: 2024-07-05 08:27:55)
+
+---
+
+## Sunset in San Francisco
+
+date: 2024-07-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/050724-POD-Debbie-Petlow.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sunset in San Francisco." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/050724-POD-Debbie-Petlow.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/050724-POD-Debbie-Petlow.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/050724-POD-Debbie-Petlow.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/050724-POD-Debbie-Petlow.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/050724-POD-Debbie-Petlow.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/050724-POD-Debbie-Petlow.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/050724-POD-Debbie-Petlow.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/050724-POD-Debbie-Petlow.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/050724-POD-Debbie-Petlow.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/050724-POD-Debbie-Petlow.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/050724-POD-Debbie-Petlow.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/050724-POD-Debbie-Petlow.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/050724-POD-Debbie-Petlow.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/sunset-in-san-francisco/">Sunset in San Francisco</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sunset-in-san-francisco/>
+
+---
+
+## Santa Barbara Foresters Fall Behind Early in 4th of July Loss to San Luis Obispo Blues, 9-4
+
+date: 2024-07-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-4th-of-july.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-4th-of-july.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-4th-of-july.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-4th-of-july.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-4th-of-july.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-4th-of-july.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-4th-of-july.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-4th-of-july.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-4th-of-july.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-4th-of-july.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/foresters-4th-of-july.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Santa Barbara Foresters couldn’t come back from an early fireworks show by the San Luis Obispo Blues on Thursday, falling by a score of 9-4 in the annual 4th [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-foresters-fall-behind-early-in-4th-of-july-loss-to-san-luis-obispo-blues-9-4/">Santa Barbara Foresters Fall Behind Early in 4th of July Loss to San Luis Obispo Blues, 9-4</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-foresters-fall-behind-early-in-4th-of-july-loss-to-san-luis-obispo-blues-9-4/>
+
+---
+
+## BizHawk: Vegan Restaurant Mesa Verde in Santa Barbara Closes
+
+date: 2024-07-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-BizHawk-Mesa-Verde-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Vegan restaurant Mesa Verde in Santa Barbara." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-BizHawk-Mesa-Verde-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-BizHawk-Mesa-Verde-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-BizHawk-Mesa-Verde-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-BizHawk-Mesa-Verde-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-BizHawk-Mesa-Verde-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-BizHawk-Mesa-Verde-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-BizHawk-Mesa-Verde-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-BizHawk-Mesa-Verde-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-BizHawk-Mesa-Verde-1-JM.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-BizHawk-Mesa-Verde-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara has lost another vegan restaurant. Mesa Verde on Santa Barbara&#8217;s Mesa closed Monday. The company took to Instagram to spread the news: &#8220;It is with great sadness that [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-vegan-restaurant-mesa-verde-in-santa-barbara-closes/">BizHawk: Vegan Restaurant Mesa Verde in Santa Barbara Closes</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bizhawk-vegan-restaurant-mesa-verde-in-santa-barbara-closes/>
+
+---
+
+## Goleta Puts Old-Fashioned Spin on 4th of July, Santa Barbara Hits the Beach and Montecito Throws a Parade
+
+date: 2024-07-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Fireworks-fo-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The marine layer affected the July 4 fireworks along the Santa Barbara Waterfront Thursday night." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Fireworks-fo-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Fireworks-fo-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Fireworks-fo-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Fireworks-fo-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Fireworks-fo-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Fireworks-fo-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Fireworks-fo-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Fireworks-fo-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Fireworks-fo-2000.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Fireworks-fo-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>As people across the country gathered Thursday for fireworks and hotdogs, Rancho La Patera and Stow House in Goleta offered a more traditional Fourth of July celebration. The Goleta Valley [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-valley-historical-society-puts-old-fashioned-spin-on-4th-of-july-santa-barbara-hits-the-beach/">Goleta Puts Old-Fashioned Spin on 4th of July, Santa Barbara Hits the Beach and Montecito Throws a Parade</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/goleta-valley-historical-society-puts-old-fashioned-spin-on-4th-of-july-santa-barbara-hits-the-beach/>
+
+---
+
+## Solvang Fourth of July Parade Celebrates ‘Life, Liberty and Love’
+
+date: 2024-07-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Solvang-Parade1-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Solvang Fourth of July Parade." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Solvang-Parade1-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Solvang-Parade1-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Solvang-Parade1-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Solvang-Parade1-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Solvang-Parade1-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Solvang-Parade1-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Solvang-Parade1-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Solvang-Parade1-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Solvang-Parade1-js.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070424-Solvang-Parade1-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Floats, cars, gymnasts and dancers displayed their patriotism Thursday for the Solvang Fourth of July Parade.&#160; The parade, organized by the Solvang Rotary Club,&#160;started at 11 a.m. at the Mission [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/solvang-fourth-of-july-parade-celebrates-life-liberty-and-love/">Solvang Fourth of July Parade Celebrates &#8216;Life, Liberty and Love&#8217;</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/solvang-fourth-of-july-parade-celebrates-life-liberty-and-love/>
+
+---
+
+## Santa Barbara County Fair Ready to Let the Magic Begin, July 10-14
+
+date: 2024-07-04, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Let the Magic Begin is the theme for the 2024 Santa Barbara County Fair, July 10-14 at the Santa Maria Fairpark, 937 S. Thornburg St. Concerts have moved to the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-county-fair-ready-to-let-the-magic-begin-july-10-14/">Santa Barbara County Fair Ready to Let the Magic Begin, July 10-14</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-county-fair-ready-to-let-the-magic-begin-july-10-14/>
+
+---
+
+## Lamb Chomps Help Reduce Fire Risk at San Marcos Foothills Preserve
+
+date: 2024-07-04, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Channel Islands Restoration (CIR) has partnered with Cuyama Lamb to begin their annual prescribed sheep grazing program at the San Marcos Foothills Preserve (SMFP), a public grassland in Santa Barbara [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lamb-chomps-help-reduce-fire-risk-at-san-marcos-foothills-preserve/">Lamb Chomps Help Reduce Fire Risk at San Marcos Foothills Preserve</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/lamb-chomps-help-reduce-fire-risk-at-san-marcos-foothills-preserve/>
+
+---
+
+## Captain’s Log: Pull White Seabass Through Weather Windows
+
+date: 2024-07-04, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The wind blows for weeks on end at the Channel Islands in May, June and July, yet there are brief lulls in the weather when boats can comfortably make it [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/captains-log-pull-white-seabass-through-weather-windows/">Captain’s Log: Pull White Seabass Through Weather Windows</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/captains-log-pull-white-seabass-through-weather-windows/>
+
+---
+
+## Seminar Covers Updates on Recovery of Tribal Objects and Remains
+
+date: 2024-07-04, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Ynez Band of Chumash Indians partnered with UCSB for a NAGPRA/CALNAGPRA workshop to help California Native American tribes, museums, institutions and universities navigate recent updates to the Native [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/seminar-covers-updates-on-recovery-of-tribal-objects-and-remains/">Seminar Covers Updates on Recovery of Tribal Objects and Remains</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/seminar-covers-updates-on-recovery-of-tribal-objects-and-remains/>
+
+---
+
+## Santa Barbara Police Arrest Suspected Hit-Run Driver in Pedestrian Death
+
+date: 2024-07-04, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070324-Juan-Lopez-Cliff-Drive-Memorial-jp-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A memorial on Cliff Drive on the Mesa in Santa Barbara marks the area where pedestrian Juan Lopez was struck and killed by a hit-and-run driver on June 29." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070324-Juan-Lopez-Cliff-Drive-Memorial-jp-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070324-Juan-Lopez-Cliff-Drive-Memorial-jp-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070324-Juan-Lopez-Cliff-Drive-Memorial-jp-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070324-Juan-Lopez-Cliff-Drive-Memorial-jp-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070324-Juan-Lopez-Cliff-Drive-Memorial-jp-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070324-Juan-Lopez-Cliff-Drive-Memorial-jp-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070324-Juan-Lopez-Cliff-Drive-Memorial-jp-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070324-Juan-Lopez-Cliff-Drive-Memorial-jp-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070324-Juan-Lopez-Cliff-Drive-Memorial-jp-2000.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/07/070324-Juan-Lopez-Cliff-Drive-Memorial-jp-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Investigators on Thursday arrested the alleged driver in a hit-and-run collision that killed a pedestrian on the Mesa, according to the Santa Barbara Police Department. After days of investigative teamwork [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-police-arrest-suspected-hit-run-driver-in-pedestrian-death/">Santa Barbara Police Arrest Suspected Hit-Run Driver in Pedestrian Death</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-police-arrest-suspected-hit-run-driver-in-pedestrian-death/>
 
 ---
 

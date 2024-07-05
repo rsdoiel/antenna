@@ -1,11 +1,31 @@
 ---
 title: retro computing 2024.27
-updated: 2024-07-03 09:14:45
+updated: 2024-07-05 08:28:00
 ---
 
 # retro computing 2024.27
 
-(date: 2024-07-03 09:14:45)
+(date: 2024-07-05 08:28:00)
+
+---
+
+## b.log 2024/07/04 - Election 2024, Charging time, Lucy.
+
+date: 2024-07-04, from: Richard Murray's blog
+
+Election 2024, Charging time, Lucy. 
+
+<https://heyrick.eu/blog/index.php?diary=20240704>
+
+---
+
+## WROCC July 2024 meeting - Draw/ROD double bill
+
+date: 2024-07-04, from: Icon Bar, RISC OS News
+
+Wakefield's July speakers were Peter Richmond and Chris Hughes 
+
+<http://www.iconbar.com/comments/rss/news2081.html>
 
 ---
 

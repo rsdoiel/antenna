@@ -1,11 +1,32 @@
 ---
 title: libraries 2024.27
-updated: 2024-07-03 09:14:43
+updated: 2024-07-05 08:27:58
 ---
 
 # libraries 2024.27
 
-(date: 2024-07-03 09:14:43)
+(date: 2024-07-05 08:27:58)
+
+---
+
+## Follow each other on Open Library
+
+date: 2024-07-05, from: Open Library Blog
+
+By Nick Norman, Mek, et al Subscribe to readers with complimentary tastes to receive book recommendations. Over the past few months, we&#8217;ve been rolling out the basic building blocks of the &#8220;Follow&#8221; feature: a way for readers to follow those with similar tastes and to tap into a personalized feed of book recommendations. How does [&#8230;] 
+
+<https://blog.openlibrary.org/2024/07/05/follow-each-other-on-open-library/>
+
+---
+
+## Bibliometric study on the adoption of open science measures reveals high scores for both Brazilian and SciELO-indexed journals
+
+date: 2024-07-03, from: SciELO in Perspective
+
+<p>Since 2019, SciELO has advocated for the adoption of open science practices which serve to increase transparency and scientific rigor of published science. A recent study provides a glimpse of the adoption of these measures among Ibero-American publications. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2024/07/03/study-adoption-os-measures-brazilian-and-scielo-indexed-journals/" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/en/2024/07/03/study-adoption-os-measures-brazilian-and-scielo-indexed-journals/">Bibliometric study on the adoption of open science measures reveals high scores for both Brazilian and SciELO-indexed journals</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<https://blog.scielo.org/en/2024/07/03/study-adoption-os-measures-brazilian-and-scielo-indexed-journals/>
 
 ---
 

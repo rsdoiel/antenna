@@ -1,11 +1,111 @@
 ---
 title: games 2024.27
-updated: 2024-07-03 09:14:42
+updated: 2024-07-05 08:27:58
 ---
 
 # games 2024.27
 
-(date: 2024-07-03 09:14:42)
+(date: 2024-07-05 08:27:58)
+
+---
+
+## Cozy Grove: Camp Spirit’s NPCs are a conversation between developer and player
+
+date: 2024-07-05, updated: 2024-07-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24191580/cozy-grove-camp-spirit-npc-inspiration-spry-fox-interview>
+
+---
+
+## Space Cadet is a spiritual successor to Legally Blonde
+
+date: 2024-07-05, updated: 2024-07-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/reviews/24191786/space-cadet-emma-roberts-review>
+
+---
+
+## The mischievous history of Elden Ring’s Patches, FromSoftware’s eternal scamp
+
+date: 2024-07-05, updated: 2024-07-05, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24188317/elden-ring-who-where-is-patches-quest-line-explainer>
+
+---
+
+## Maxxxine isn’t just paying homage to exploitation thrillers… it is one
+
+date: 2024-07-04, updated: 2024-07-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24191973/maxxxine-ti-west-x-trilogy-1980s-exploitation-thrillers>
+
+---
+
+## Latest Elden Ring patch still doesn’t address performance issues
+
+date: 2024-07-04, updated: 2024-07-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24192206/elden-ring-update-1-12-3-patch-notes>
+
+---
+
+## Mothership’s box set gives newbie game masters something to hold on to
+
+date: 2024-07-04, updated: 2024-07-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/tabletop-games/24189914/mothership-ttrpg-review>
+
+---
+
+## Disney abandoned Princess Tiana — until it suddenly needed her help
+
+date: 2024-07-04, updated: 2024-07-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24191797/tianas-bayou-adventure-splash-mountain-song-of-the-south-racism>
+
+---
+
+## Nintendo just dropped 7 NES curios on Switch Online for the holiday weekend
+
+date: 2024-07-04, updated: 2024-07-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/nintendo/24192167/nintendo-switch-online-nes-july-4-2024>
+
+---
+
+## Elden Ring: Shadow of the Erdtree guides and walkthroughs
+
+date: 2024-07-04, updated: 2024-07-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180113/dlc-walkthroughs-guides>
+
+---
+
+## Democratic Socialism Simulator is (tragically, regrettably) still as relevant in 2024
+
+date: 2024-07-04, updated: 2024-07-04, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24191760/democratic-socialism-simulator-2024-election-fourth-of-july>
 
 ---
 

@@ -1,11 +1,33 @@
 ---
 title: home 2024.27
-updated: 2024-07-03 09:14:43
+updated: 2024-07-05 08:27:59
 ---
 
 # home 2024.27
 
-(date: 2024-07-03 09:14:43)
+(date: 2024-07-05 08:27:59)
+
+---
+
+## Plants the Mammoths Ate
+
+date: 2024-07-03, from: California Native Plants Society
+
+<p>Many plants that fed Ice Age animals like Columbian mammoths, camels, and ground sloths remain today.</p>
+<p>The post <a href="https://www.cnps.org/flora-magazine/plants-the-mammoths-ate-25583">Plants the Mammoths Ate</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/flora-magazine/plants-the-mammoths-ate-25583>
+
+---
+
+## California Agriculture has a key role on 4th of July
+
+date: 2024-07-03, from: Calfifornia Dept. Aggriculture blog
+
+California is proud of its agricultural bounty as the Fourth of July approaches! Our state plays a significant role in providing delicious food for all to enjoy during the holiday weekend! • In 2023, California sweet corn growers produced 364 &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27975">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=27975>
 
 ---
 

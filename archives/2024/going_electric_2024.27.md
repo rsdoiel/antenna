@@ -1,11 +1,421 @@
 ---
 title: going electric 2024.27
-updated: 2024-07-03 09:14:45
+updated: 2024-07-05 08:28:01
 ---
 
 # going electric 2024.27
 
-(date: 2024-07-03 09:14:45)
+(date: 2024-07-05 08:28:01)
+
+---
+
+## Tesla is upgrading the Cybertruck’s electric motor
+
+date: 2024-07-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Tesla-Cybertruck-powertrain.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is now upgrading the Cybertruck’s electric motor with a more “efficient and reliable” motor.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="370419" href="https://electrek.co/2024/07/05/tesla-upgrading-cybertrucks-electric-motor/#more-370419" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/05/tesla-upgrading-cybertrucks-electric-motor/>
+
+---
+
+## LA to Vegas and Nearly Back On One Tank, BMW's New R 1300 GS Adventure Goes Far
+
+date: 2024-07-05, from: Ride Apart, Electric Motorcycle News
+
+Iron butts are now single tanks of fuel long.  
+
+<https://www.rideapart.com/news/725455/2025-bmw-r-1300-gs-adventure-fuel-tank-capacity/>
+
+---
+
+## BMW's R 1300 GS Adventure Crosses Continents Comfortably, Still an Off-Road Beast
+
+date: 2024-07-05, from: Ride Apart, Electric Motorcycle News
+
+This motorcycle is smarter than you.  
+
+<https://www.rideapart.com/news/725457/2025-bmw-r-1300-gs-adventure-specs-motorcycle/>
+
+---
+
+## Features Like Tesla FSD That ‘Promise Too Much’ Are ‘A Bad Thing’: Mercedes-Benz
+
+date: 2024-07-05, from: Inside EVs News
+
+Even small mishaps related to so-called self-driving cars can have a big impact on the whole industry. 
+
+<https://insideevs.com/news/725371/tesla-fsd-promise-too-much-bad-thing-mercedes/>
+
+---
+
+## BYD closes in on huge $1 billion EV plant in Turkey as global expansion accelerates
+
+date: 2024-07-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/BYD-SEAL-Australia-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD is closing in on a deal to build a massive $1 billion EV plant in Turkey. The news comes after <a href="https://electrek.co/guides/byd/">BYD</a> opened its first factory in Thailand, with others planned in Brazil and Mexico as it expands in overseas markets.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="370403" href="https://electrek.co/2024/07/05/byd-nears-1-billion-ev-plant-turkey-expansion-accelerates/#more-370403" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/05/byd-nears-1-billion-ev-plant-turkey-expansion-accelerates/>
+
+---
+
+## Tesla vehicles become approved as government vehicles in China
+
+date: 2024-07-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/2024-Tesla-Prices-Model-Y.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla vehicles have become approved as government vehicles in China – a first for a foreign-owned automaker.</p>
+
+
+
+<p>It could open the door for large government sales in the country.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="370407" href="https://electrek.co/2024/07/05/tesla-vehicles-approved-government-vehicles-china/#more-370407" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/05/tesla-vehicles-approved-government-vehicles-china/>
+
+---
+
+## Hyundai’s new IONIQ 9 electric SUV will launch later than expected: Here’s what we know
+
+date: 2024-07-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/11/Hyundai-IONIQ-7-electric-SUV-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s new three-row electric SUV is set to debut later than expected. Although <a href="https://electrek.co/guides/hyundai/">Hyundai</a> was expected to launch the IONIQ 9 this summer, it looks like we may have to wait a little longer.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="370390" href="https://electrek.co/2024/07/05/hyundai-delays-ioniq-9-electric-suv-launch/#more-370390" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/05/hyundai-delays-ioniq-9-electric-suv-launch/>
+
+---
+
+## Crowdfunding gone wrong: Customer sues Delfast for e-bike non-delivery and wins
+
+date: 2024-07-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A New York resident recently took electric bicycle maker Delfast to court over non-delivery of the company’s new electric bicycle model after an apparently successful crowdfunding campaign on Indiegogo failed to result in a delivery.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,indiegogo,lawsuit" data-layer-viewtype="unknown" data-post-id="368045" href="https://electrek.co/2024/07/05/crowdfunding-gone-wrong-customer-sues-delfast-for-e-bike-non-delivery-and-wins/#more-368045" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/05/crowdfunding-gone-wrong-customer-sues-delfast-for-e-bike-non-delivery-and-wins/>
+
+---
+
+## Tesla is not expected to invest into India soon as Musk ghosts officials
+
+date: 2024-07-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/01/Best-selling-electric-vehicles-5.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla is not expected to invest in India anytime soon as a new report states that Elon Musk’s team is ghosting Indian officials about the project.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="370380" href="https://electrek.co/2024/07/04/tesla-not-expected-invest-into-india-soon-musk-ghosts-officials/#more-370380" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/04/tesla-not-expected-invest-into-india-soon-musk-ghosts-officials/>
+
+---
+
+## Save up to $2,899 during EcoFlow Prime Day power station sale, Best Buy July 4th EV deals, Jackery roam kit at new low, more
+
+date: 2024-07-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Prime_Day_KV_US_final.png?w=1600" /></div><p>Happy Independence Day y’all! To celebrate America’s birthday, we’ve got some amazing Green Deals for you at some of the lowest prices we’ve seen – some old, some new, all of them here to give you back major savings! Leading the pack is <a href="https://9to5toys.com/2024/07/03/ecoflows-early-prime-day-sale-takes-2899-off-power-stations-bundles-accessories-more-starting-from-168/">EcoFlow’s Early Prime Day sale</a> that is taking up to $2,899 off the company’s lineup of power stations, bundle packages, accessories, and more – with extra savings opportunities. Next up is <a href="https://9to5toys.com/2024/07/04/best-buy-july-4th-sale-takes-400-off-segway-max-g2-e-scooter-with-apple-find-my-for-900-more-evs-from-380/">Best Buy’s 4th of July EV sale</a> taking up to $900 off e-scooters and e-bikes, with the <a href="https://9to5toys.com/2024/07/04/best-buy-july-4th-sale-takes-400-off-segway-max-g2-e-scooter-with-apple-find-my-for-900-more-evs-from-380/">Segway Ninebot Max G2 Electric Kick Scooter down at $900</a>. Then, there’s the <a href="https://9to5toys.com/2024/07/04/jackerys-new-solar-generator-1000-plus-roam-kit-with-mountable-solar-panels-hits-new-979-low-reg-1399/">Jackery Solar Generator 1000 Plus Roam Kit</a> with mountable solar panels that just hit a new <a href="https://9to5toys.com/2024/07/04/jackerys-new-solar-generator-1000-plus-roam-kit-with-mountable-solar-panels-hits-new-979-low-reg-1399/">$979 low</a>. Plus, all the other hangover Green Deals that are still alive and well, including<a href="https://9to5toys.com/2024/07/03/get-a-free-extra-battery-and-double-your-mileage-with-select-e-bike-purchases-during-aventons-4th-of-july-sale-will-end-soon/"> Aventon’s 4th of July sale</a> that is giving away a free extra battery for doubled mileage along with your purchase of a select e-bike.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="370364" href="https://electrek.co/2024/07/04/ecoflow-prime-day-sale-best-buy-july-4th-ev-deals-jackery-roam-kit-more/#more-370364" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/04/ecoflow-prime-day-sale-best-buy-july-4th-ev-deals-jackery-roam-kit-more/>
+
+---
+
+## The Polestar 4 Is Good. Too Bad The Zeekr 001 Is Better
+
+date: 2024-07-04, from: Inside EVs News
+
+One Geely Group cousin has some tricks that Polestar doesn't, like an 800-volt architecture. 
+
+<https://insideevs.com/news/725282/zeekr-polestar-001-better-china/>
+
+---
+
+## Amazon Electric Vans Ignite In Houston Heat. Rivian Rules Out Battery Fault
+
+date: 2024-07-04, from: Inside EVs News
+
+The Fourth of July week didn’t go as planned for three Rivian Amazon electric delivery vans in Houston. 
+
+<https://insideevs.com/news/725586/rivian-amazon-electric-vans-fire-houston-heat/>
+
+---
+
+## GMC Hummer EV SUV Is One Of The Best EVs. Too Bad It’s For Nobody: Doug DeMuro
+
+date: 2024-07-04, from: Inside EVs News
+
+It’s cool, it’s fast, it can go pretty much anywhere and it’s luxurious. The problem is the Hummer EV’s looks. 
+
+<https://insideevs.com/news/725356/2024-gmc-hummer-ev-review-doug-demuro-video/>
+
+---
+
+## Tesla Cybertruck might have become the best-selling electric pickup truck in the US
+
+date: 2024-07-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/Toyota-Tesla-Cybertruck.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla Cybertruck might have become the best-selling electric pickup truck in the US. If it wasn’t last quarter, it looks like it will be this quarter.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="370359" href="https://electrek.co/2024/07/04/tesla-cybertruck-might-have-become-the-best-selling-electric-pickup-truck-us/#more-370359" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/04/tesla-cybertruck-might-have-become-the-best-selling-electric-pickup-truck-us/>
+
+---
+
+## Take A Look At This Teeny Tiny V-Twin, Appears to Be a Bad Photocopy
+
+date: 2024-07-04, from: Ride Apart, Electric Motorcycle News
+
+Confusingly, it's called the V-5. We assure you it does not have a V-5 engine. 
+
+<https://www.rideapart.com/news/725458/jonway-v5-cruiser-harley-indian/>
+
+---
+
+## Bad Snowfall, Warm Winter Blamed on Trashfire Sales of Snowmobiles
+
+date: 2024-07-04, from: Ride Apart, Electric Motorcycle News
+
+It ain't getting better, folks.  
+
+<https://www.rideapart.com/news/725465/snowmobile-sales-fell-ski-doo-polaris-lynx-arctic-cat/>
+
+---
+
+## Ford U.S. EV Sales Improved In June And Q2 2024
+
+date: 2024-07-04, from: Inside EVs News
+
+It was the second best quarter, although not without challenges. 
+
+<https://insideevs.com/news/725448/ford-us-ev-sales-june2024/>
+
+---
+
+## Tank G100 review: This epic thing is the most motorcycle e-bike I’ve tested yet
+
+date: 2024-07-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/happyrun-g100-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the e-bike world, we often joke that some of the beefier and more massive US-market electric bikes are more like small electric motorcycles. Well, a brand called Happyrun must have heard us and pulled the ol’ “hold my beer!” The result is the <a href="https://happyrunsports.com/collections/tank-g100-ebike">Happyrun Tank G100</a>, which may wear a pair of bicycle pedals but is all motorcycle from the ankles up.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,review" data-layer-viewtype="unknown" data-post-id="368963" href="https://electrek.co/2024/07/04/tank-g100-review-this-epic-thing-is-the-most-motorcycle-e-bike-ive-tested-yet/#more-368963" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/04/tank-g100-review-this-epic-thing-is-the-most-motorcycle-e-bike-ive-tested-yet/>
+
+---
+
+## GM Fined $145.8 Million Over Excess Emissions
+
+date: 2024-07-04, from: Inside EVs News
+
+The company will also forfeit greenhouse gas credits worth hundreds of millions of dollars. 
+
+<https://insideevs.com/news/725485/gm-emissions-fine/>
+
+---
+
+## Mini John Cooper Works Electric: This Is It
+
+date: 2024-07-03, from: Inside EVs News
+
+It’s supposed to be covered in camouflage, but we can see everything, Mini. 
+
+<https://insideevs.com/news/725200/mini-cooper-jcw-ev-official/>
+
+---
+
+## Fisker Ocean Owners Are Lawyering Up To Keep Their Cars Running
+
+date: 2024-07-03, from: Inside EVs News
+
+Without access to software, spare parts and warranty repairs, Oceans could end up in the scrapyard. Owners want to avoid that.  
+
+<https://insideevs.com/news/725463/fisker-ocean-owners-bankruptcy-support/>
+
+---
+
+## Tesla updates, Ford breaks records, Blue Bird takes off, and fancy boats
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/thisisnew.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>In today’s episode of Quick Charge we’ve got serious software upgrades from Tesla, questions about the company’s energy storage business, Ford’s record EV sales, GM’s bananas lease rates on the new Silverado, Blue Bird business news, and some fancy electric boats to take you into the weekend.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="blue-bird,ford,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="370330" href="https://electrek.co/2024/07/03/tesla-updates-ford-breaks-records-blue-bird-takes-off-and-fancy-boats/#more-370330" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/03/tesla-updates-ford-breaks-records-blue-bird-takes-off-and-fancy-boats/>
+
+---
+
+## Tesla launches ‘Military Purchase Program’ with $1,000 discount
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Tesla-Military-Program.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has launched a new ‘Military Purchase Program’ with $1,000 discounts on all Tesla models (except Cybertruck for veterans and active duty military members and their spouses.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="370320" href="https://electrek.co/2024/07/03/tesla-launches-military-purchase-program-discount/#more-370320" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/03/tesla-launches-military-purchase-program-discount/>
+
+---
+
+## Audi U.S. EV Sales Weakened Slightly In Q2 2024
+
+date: 2024-07-03, from: Inside EVs News
+
+The brand awaits a major reinforcement in the form of the Audi Q6 e-tron model. 
+
+<https://insideevs.com/news/725410/audi-us-ev-sales-2024q2/>
+
+---
+
+## Will BYD steal Tesla’s crown to become the world’s largest EV maker in 2024?
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/BYD-Q3-profit.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Despite closing in on Tesla in the second quarter, <a href="https://electrek.co/guides/byd/">BYD</a> was barely edged out for the world’s largest EV maker title. However, a new research report suggests BYD could steal Tesla’s crown by the end of 2024.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,tesla" data-layer-viewtype="unknown" data-post-id="370313" href="https://electrek.co/2024/07/03/byd-top-tesla-worlds-largest-ev-maker-2024/#more-370313" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/03/byd-top-tesla-worlds-largest-ev-maker-2024/>
+
+---
+
+## Honda And Acura Sold 1,873 EVs In Q2 2024
+
+date: 2024-07-03, from: Inside EVs News
+
+The company continued the ramp-up, achieving a 1% EV share in June. 
+
+<https://insideevs.com/news/725424/us-honda-acura-ev-sales-2024q2/>
+
+---
+
+## Alabama just announced its first 13 federally funded EV charging stations
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/loves-travel-stops-mobile-alabama-1200x628-1.jpg?quality=82&#038;strip=all&#038;w=1350" /></div><p>Alabama is handing out $11.2 million in federal grants to install 13 NEVI-compliant EV charging stations – here’s where they’re going.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="370294" href="https://electrek.co/2024/07/03/alabama-just-announced-its-first-13-federally-funded-ev-charging-stations/#more-370294" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/03/alabama-just-announced-its-first-13-federally-funded-ev-charging-stations/>
+
+---
+
+## Save 50% on LG’s smart all-in-one electric washer/ventless dryer, Anker EverFrost cooler lows, Greenworks July 4th deals, more
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/LG-5.0-cubic-foot-HE-smart-all-in-one-electric-washer-and-ventless-dryer-combo.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Headlining today’s Green Deals is one of the best appliance deals we have ever seen, with <a href="https://9to5toys.com/2024/07/02/lgs-smart-all-in-one-electric-washer-and-ventless-dryer-just-hit-a-crazy-1500-all-time-low-50-off-best-price-ever/">LG’s 5.0 Cubic-Foot HE Smart All-in-One Electric Washer and Ventless Dryer</a> now 50% off at <a href="https://9to5toys.com/2024/07/02/lgs-smart-all-in-one-electric-washer-and-ventless-dryer-just-hit-a-crazy-1500-all-time-low-50-off-best-price-ever/">$1,500</a>. It is joined by all three <a href="https://9to5toys.com/2024/07/02/save-300-on-ankers-everfrost-portable-electric-cooler-with-42-hour-battery-at-new-499-low-more-from-649/">Anker EverFrost Portable Electric Cooler models</a> seeing discounts, with the <a href="https://9to5toys.com/2024/07/02/save-300-on-ankers-everfrost-portable-electric-cooler-with-42-hour-battery-at-new-499-low-more-from-649/">EverFrost 30</a> hitting a new <a href="https://9to5toys.com/2024/07/02/save-300-on-ankers-everfrost-portable-electric-cooler-with-42-hour-battery-at-new-499-low-more-from-649/">$499 low</a>. There’s also Best Buy’s 4th of July sale that is taking up to <a href="https://9to5toys.com/2024/07/03/best-buy-july-4th-sale-takes-up-to-1000-off-greenworks-tools-and-accessories-starting-from-20/">$1,000 off Greenworks tools and accessories</a>, with the brand’s popular <a href="https://9to5toys.com/2024/07/03/best-buy-july-4th-sale-takes-up-to-1000-off-greenworks-tools-and-accessories-starting-from-20/">1,900 PSI Electric Pressure Washer Combo Kit</a> dropping to <a href="https://9to5toys.com/2024/07/03/best-buy-july-4th-sale-takes-up-to-1000-off-greenworks-tools-and-accessories-starting-from-20/">$110</a>, with an option to cut the price further to a new <strong>$99</strong> low. Plus, all the other hangover Green Deals that are still alive and well.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="370288" href="https://electrek.co/2024/07/03/lgs-smart-all-in-one-electric-washer-ventless-dryer-anker-everfrost-cooler-greenworks-july-4th-deals-more/#more-370288" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/03/lgs-smart-all-in-one-electric-washer-ventless-dryer-anker-everfrost-cooler-greenworks-july-4th-deals-more/>
+
+---
+
+## Fixing Fisker Oceans Requires Wider Release Of Proprietary Diagnostic Tool
+
+date: 2024-07-03, from: Inside EVs News
+
+The tool is described by a Fisker technician as “compromised and wonky,” but it’s the only way to diagnose Oceans. 
+
+<https://insideevs.com/news/725366/fast-fisker-diagnotstic-tool-release/>
+
+---
+
+## Kia’s sporty EV9 GT electric SUV spotted out in public ahead of its official debut [Video]
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Kia-EV9-GT-spotted-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With “enormous power,” the <a href="https://electrek.co/guides/kia-ev9/">Kia EV9 GT</a> builds on the already impressive electric SUV with high-performance upgrades. Kia’s EV9 GT was spotted out in the wild this week ahead of its official launch. Check it out in the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev9" data-layer-viewtype="unknown" data-post-id="370286" href="https://electrek.co/2024/07/03/kias-sporty-ev9-gt-spotted-official-debut-video/#more-370286" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/03/kias-sporty-ev9-gt-spotted-official-debut-video/>
+
+---
+
+## Nissan Sales Were Down In Q2 2024. But The Ariya Was Up 123%
+
+date: 2024-07-03, from: Inside EVs News
+
+The Ariya isn't a major player in the EV market, but it still outsold the aging Murano. 
+
+<https://insideevs.com/news/725439/nissan-ariya-sales-q2-2024/>
+
+---
+
+## The 2024 Chevy Silverado EV lease price costs more than two Rivian trucks
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/02/magna-chevy-silverado-EV-2024-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The 2024 Chevy Silverado EV lease prices are so expensive that you could lease <em>two</em> Rivian R1T Adventure trucks and still spend less.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet,chevy,chevy-silverado-ev,ev-lease,rivian,rivian-r1t" data-layer-viewtype="unknown" data-post-id="370253" href="https://electrek.co/2024/07/03/2024-chevy-silverado-ev-lease-price-rivian/#more-370253" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/03/2024-chevy-silverado-ev-lease-price-rivian/>
+
+---
+
+## Hyundai and LG open first EV battery cell plant in Indonesia to power up affordable EVs
+
+date: 2024-07-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Hyundai-first-EV-battery-cell-plant.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai opened the first EV battery cell plant in Indonesia with LG Energy Solution as it builds out its global supply chain. The plant will supply cells for over 150,000 competitively-priced <a href="https://electrek.co/guides/hyundai/">Hyundai</a> and Kia EVs, starting with the new Kona Electric.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-kona-electric,hyundai-motor-group" data-layer-viewtype="unknown" data-post-id="370252" href="https://electrek.co/2024/07/03/hyundai-opens-first-battery-cell-plant-indonesia-low-cost-evs/#more-370252" class="more-link">more…</a> 
+
+<https://electrek.co/2024/07/03/hyundai-opens-first-battery-cell-plant-indonesia-low-cost-evs/>
 
 ---
 

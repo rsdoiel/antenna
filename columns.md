@@ -1,11 +1,559 @@
 ---
 title: columns 2024.27
-updated: 2024-07-03 09:14:41
+updated: 2024-07-05 08:27:57
 ---
 
 # columns 2024.27
 
-(date: 2024-07-03 09:14:41)
+(date: 2024-07-05 08:27:57)
+
+---
+
+##  &#8220;What My Adult Autism Diagnosis Finally Explained&#8221; 
+
+date: 2024-07-05, updated: 2024-07-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/what-my-adult-autism-diagnosis-finally-explained>
+
+---
+
+##  A 4000-year-old Minoan structure with labyrinthine walls has been uncovered in Crete.... 
+
+date: 2024-07-05, updated: 2024-07-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/07/0044899-a-4000-year-old-minoan-st>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-05, from: Dave Winer's Scripting News)
+
+I hear that cancelling a NYT subscription is wicked hard. That <a href="http://scripting.com/2024/07/04/bullshit2.m4a">alone</a> is making me feel like cancelling. I cancelled their morning email of things I need to know about. It's one thing for them to exclusively report on Biden's age in their space, but my mailbox is mine. Get the fuck out of my mailbox. 
+
+<http://scripting.com/2024/07/05.html#a141207>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-05, from: Dave Winer's Scripting News)
+
+This year I'm thinking how we can boot up a source of news that has the balance we deserve. Now that the Supreme Court is no longer keeping up any pretense of respecting the Constitution, and journalism is either colluding, or preparing for their meeting with a military tribunal in March next year, followed by, if lucky, a re-education camp, we need help knowing what's real and what's <a href="http://scripting.com/2024/07/04/bullshit2.m4a">not</a>. 
+
+<http://scripting.com/2024/07/05.html#a140802>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-05, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="http://scripting.com/images/2024/05/05/marchOnWashington.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Congrats to Threads on a good first year. Looks like I <a href="https://www.threads.net/@davew">signed in</a> on opening day, <a href="http://scripting.com/2023/07/05.html">July 5, 2023</a>. They have done a good job of slipping into the spot previously occupied exclusively by Twitter. 
+
+<http://scripting.com/2024/07/05.html#a140632>
+
+---
+
+## Resetting timers in Go
+
+date: 2024-07-05, from: Anton Zhiyanov blog
+
+Chances are you are doing it wrong. 
+
+<https://antonz.org/timer-reset/>
+
+---
+
+## Debunking Myth #6: “Global trade is good for everyone!”
+
+date: 2024-07-05, from: Robert Reich's blog
+
+BUNK! 
+
+<https://robertreich.substack.com/p/myth-5-global-trade-is-good-for-everyone>
+
+---
+
+## curl for QNX
+
+date: 2024-07-05, from: Daniel Stenberg Blog
+
+Starting now, there are official curl releases for QNX hosted on the curl.se website. See https://curl.se/qnx. QNX is a commercial real-time operating system and these curl release packages are produced as a result of a business arrangement. The plan is to from now on ship curl tarballs for three different QNX versions, and each archive &#8230; <a href="https://daniel.haxx.se/blog/2024/07/05/curl-for-qnx/" class="more-link">Continue reading <span class="screen-reader-text">curl for QNX</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/07/05/curl-for-qnx/>
+
+---
+
+## July 4, 2024
+
+date: 2024-07-05, from: Heather Cox Richardson blog
+
+Monday, July 1, was a busy day. That morning the Supreme Court handed down a decision in Donald J. Trump v. United States that gives the president absolute immunity for committing crimes while engaging in official acts. On the same day, Trump White House strategist Steve Bannon began a four-month sentence for contempt of Congress at a low-security federal prison in Danbury, Connecticut. Before he began serving his sentence, he swore he would &#8220;be more powerful in prison than I am now.&#8221; 
+
+<https://heathercoxrichardson.substack.com/p/july-4-2024>
+
+---
+
+## Friday 5 July, 2024
+
+date: 2024-07-04, from: John Naughton's online diary
+
+Custodian of the Square Every morning, when we come down to the village, we find this black cat in his observation post, keeping an eye on things. Quote of the Day &#8220;An elderly friend once told me there were four &#8230; <a href="https://memex.naughtons.org/friday-5-july-2024/39606/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-5-july-2024/39606/>
+
+---
+
+## 2024-07-02 The importance of moderation
+
+date: 2024-07-04, from: Alex Schroeder's Blog
+
+<h1 id="2024-07-02-the-importance-of-moderation">2024-07-02 The importance of moderation</h1>
+
+<p><a class="account" href="https://idiomdrottning.org/users/Sandra" title="@Sandra@idiomdrottning.org">@Sandra</a> recently wrote <a href="https://idiomdrottning.org/usenet">Usenet had to die</a>, arguing that Usenet was wasteful, everybody carrying a copy of everybody else, including spam and binaries.
+I agree with all the points made. The idea that there is one global network of groups, with everybody carrying all the groups and everybody being allowed to post led to the downfall of Usenet.</p>
+
+<p>Having recently hooked my laptop and server server to a handful of other servers using UUCP, NNCP and NNTP for file copies, mail and news, I just want to emphasize that the same technology can be used to build a different net.</p>
+
+<ul>
+<li>UUCP doesn&rsquo;t have to be anonymous. Calling systems can be required to have a username and password.</li>
+<li>NNTP doesn&rsquo;t have to be anonymous. Systems can be known peers based on IP numbers and users can be required to authenticate themselves.</li>
+<li>Servers don&rsquo;t have to mirror all the groups. Systems can be selective in what they accept and in what they pass on.</li>
+</ul>
+
+<p>The spam problem arises when two systems &ldquo;trust&rdquo; each other and peer messages but one of the systems doesn&rsquo;t act on abuse and moderation reports.
+Perhaps Usenet generated too much of a workload for system administrators so they stopped following up on those reports.
+Perhaps some servers had become too big to ban.</p>
+
+<p>I think we have the exact same problems with fedi.
+Some instances seem too big to defederate from.</p>
+
+<p>Unfortunately, individual blocking doesn&rsquo;t work.
+If my posts end up on an unmoderated server because somebody I like is following me, the post shows up in the federated feed on that server and all the other users that I don&rsquo;t like can comment and those comments are sent back to me.
+I can block them all individually or block the large instance including my small number of friends.
+That instance has become too big to ban.</p>
+
+<p>To come back to net news:
+From my point of view, the protocols are not to blame for the downfall of Usenet.
+It was the lack of moderation that killed Usenet.
+It was the ease of setting up web forums and being able to moderate them that made Usenet irrelevant.
+In the end, to all these people federation was not as important as moderation.</p>
+
+<p>Administrators were unwilling to drop the groups that were overrun with people that needed moderation.
+This is a problem on all platforms with groups, e.g. Reddit.</p>
+
+<p>Administrators were unwilling to ban the instances that didn&rsquo;t moderate their users.
+This is a problem on all federated platforms, e.g. Mail.</p>
+
+<p>Administrators were unwilling to create new groups for people in their niches.
+At least nobody seems to be making that mistake again.
+IRC, Reddit, Discord – they all demonstrated that ad-hoc group formation and self-moderation was viable.</p>
+
+<p>This is why I think moderation, group forming and selectivity of federation are the most important quality of a platform.</p>
+
+<p>We can have a small network of servers offering mail and news exchange, like in the old days.
+The problem is unmoderated growth.</p>
+
+<p><a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p>
+
+<p><strong>2024-07-04</strong>. I got a long reply by <a class="account" href="https://idiomdrottning.org/users/Sandra" title="@Sandra@idiomdrottning.org">@Sandra</a>, reproduced in its entirety below.</p>
+
+<div style="text-align:center">⁂</div>
+
+<p>Ah, that&rsquo;s not a super new post, it&rsquo;s from September 2023. I dug it
+out again since we were talking about Illuminant, which seems awesome.
+It uses hashtags only as post keywords and instead, if I understand
+things correctly, relies on FEP-1b12 to provide group support.</p>
+
+<blockquote>
+<p>I think we have the exact same problems with fedi. Some instances
+seem too big to defederate from.</p>
+</blockquote>
+
+<p>It&rsquo;s not quite the same thing.</p>
+
+<p>Yes, it&rsquo;s a bad thing that I&rsquo;ve being hesitant to defederate from
+m.soc even though I get more spam from it over Fedi than I&rsquo;ve been
+getting from email fro the past several years.</p>
+
+<p>But I&rsquo;m still only getting individual posts from m.soc or any other
+server. (Which is also why hashtags don&rsquo;t work the way people think.)</p>
+
+<p>On Usenet, the typical behavior would be to carry the whole thing.
+Currently, I get dozens of spam messages from m.soc. If I were to
+mirror the whole thing (which is possible with AP relays, and is what
+would be necessary for hashtags to work like channels, me mirroring
+the entirety of all the non-banned servers), I&rsquo;d have to deal with
+thousands of messages. My server would croak.</p>
+
+<blockquote>
+<p>Unfortunately, individual blocking doesn’t work. If my posts end up
+on an unmoderated server because somebody I like is following me,
+the post shows up in the federated feed on that server and all the
+other users that I don’t like can comment and those comments are
+sent back to me.</p>
+</blockquote>
+
+<p>A problem. But again something that was way worse with usenet because
+on there, not only would I mirror or moderate abusive replies to me. I
+had to mirror abusive replies to <em>everybody</em>.</p>
+
+<p>BTW, I&rsquo;m, for the most part, glad that the servers-that-can-comment
+aren&rsquo;t allowlisted, that it works like email, that I can get comments
+from anyone. The downside of that is having to ban ban ban like crazy,
+but if it didn&rsquo;t work like that I&rsquo;m not sure it even would be
+federated.</p>
+
+<blockquote>
+<p>I can block them all individually or block the large instance
+including my small number of friends. That instance has become too
+big to ban.</p>
+</blockquote>
+
+<p>A problem. But on Usenet, <em>every</em> instance was too big to ban since
+every instance was expected to carry everything.</p>
+
+<p>Individual blocks is one way around it. That&rsquo;s why I, a small instance
+op, while I&rsquo;ve banned many small mainly-abuse instances, my need to
+ban the big sloppily moderated silos like m.soc or threads is a li&rsquo;l
+lower since I don&rsquo;t have hundreds of users to protect, which a midsize
+instance would have. I can absolutely see why midsize &ldquo;safe space&rdquo;
+instances would ban m.soc for example.</p>
+
+<p>Also I &ldquo;silence&rdquo; every instance since I don&rsquo;t have a &ldquo;whole known
+network&rdquo; tab.</p>
+
+<p>Killfiles was a user-level way to mute users on newsgroups. So there
+was <em>some</em> mitigation, but Fedi additionally has several other
+moderation tools like instance bans or silencing.</p>
+
+<p>More fundamentally: ActivityPub is about sending individual posts.
+Usenet was about mirroring entire servers. Those two are not the same.</p>
+
+<blockquote>
+<p>To come back to net news: From my point of view, the protocols are
+not to blame for the downfall of Usenet.</p>
+</blockquote>
+
+<p>The context that I wrote that Usenet post last September was to rant
+about hashtags. (A topic that I&rsquo;m gonna return to every now and then
+until the group/tag situation gets a li&rsquo;l better, which might require
+new UX affordances or perhaps only education.)</p>
+
+<p>That problem, summarized:</p>
+
+<ul>
+<li>Servers can only show you the posts that it has already stumbled
+over, through following or commenting</li>
+<li>So when you browse a hashtag, you only see a very small subset of
+those posts</li>
+<li>Which is fine for organizing a handful of persons posts, like &ldquo;I
+wanna see all of Marie&rsquo;s <code>#tidying</code> posts&rdquo; or &ldquo;I wanna go back and
+take a look at all of my already-followed-friends <code>#mosstodon</code>
+posts&rdquo; or even for filtering out stuff. I.e. it&rsquo;s OK as a tool for
+<em>subsets</em> and <em>intersection</em></li>
+<li>It&rsquo;s a disaster for <em>union</em>, for discovery, for &ldquo;emulating channels&rdquo;
+which people are used to from Tumblr and Twitter, which worked there
+since those are centralized</li>
+<li>For hashtags to work the way people expect them to, servers would
+have to mirror all posts. Like on Usenet.</li>
+<li>There was an effort in that direction early on, with the &ldquo;relay&rdquo;
+system.</li>
+<li>But small servers would croak. <strong>That&rsquo;s</strong> the problem. It&rsquo;d be an
+environmental waste heap.</li>
+</ul>
+
+<p>And that&rsquo;s absolutely a protocol level problem!</p>
+
+<p>A protocol level problem that Usenet had even without hashtags. (Well,
+there was one hashtag: Kibo.)</p>
+
+<p>I&rsquo;ve said a couple of times that servers mirror each other and for the
+sticklers in the audience I&rsquo;ve got to add that not literally <em>every</em>
+server carried <em>every</em> group. For example, some didn&rsquo;t carry
+Anarchists Lunatics Terrorists a.k.a. the <code>alt</code> hierarchy. But that&rsquo;s
+the fundamental intended flow. Group mirroring.</p>
+
+<p><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Usenet_servers_and_clients.svg" alt="Usenet
+architecture" /></p>
+
+<p>So in that way, Usenet is unlike mailing lists, where individual
+messages are sent to individual users. FEP-1b12 group servers on Fedi
+(like PieFed and MBin) are awesome because they get the best of both
+worlds of the &ldquo;only send the relevant posts&rdquo; nature of mailing lists,
+and the &ldquo;we&rsquo;re hosting this post anyway so we only need to store it
+once in the SQL&rdquo; nature of Usenet. As long as one user on a Lemmy
+server is subscribed to <code>@garderning@foo.bar</code>, like an email user
+might be subscribed to a mailing list, it might-as-well display a copy
+of that group since it&rsquo;s getting those messages anyway. It&rsquo;s not
+perfect and we&rsquo;re still paying a hefty &ldquo;decentralization tax&rdquo;, but
+it&rsquo;s more robust than mail and news.</p>
+
+<blockquote>
+<p>It was the lack of moderation that killed Usenet. It was the ease of
+setting up web forums and being able to moderate them that made
+Usenet irrelevant.</p>
+</blockquote>
+
+<p>Naw, Usenet kept puttering along after that, for a while, until the
+cost (and legal danger) of mirroring huge binaries archives which was
+the nail of nails. And that was a protocol level issue.</p>
+
+<p>Fedi absolutely has a moderation problem. That is being addressed although it seems to me that there are still unsolved problems.<br>
+Usenet had a much bigger moderation problem and much of the reason for
+that was on the protocol level. We have instances and instance bans to
+help moderate clusters of users where each instance op helps moderate
+the users on their instance. Moderation is happening on a user level
+which makes much more sense than on a group level. (Someone can be a
+saint on <code>alt.suicide.holiday</code> but a jerk on
+<code>alt.swedish.chef.bork.bork.bork</code> for example.)</p>
+
+<p>But Usenet also has a scalability problem. Resource use. Better
+moderation wouldn&rsquo;t be nearly enough to fix that.</p>
+
+<blockquote>
+<p>Administrators were unwilling to ban the instances that didn’t
+moderate their users. This is a problem on all federated platforms,
+e.g. Mail.</p>
+</blockquote>
+
+<p>Email can&rsquo;t moderate their users since email isn&rsquo;t supposed to be
+world-readable. (With exceptions like mailing lists; we can ban
+someone who sends abusive messages to those.) But even so, instance
+banning is very common on email.</p>
+
+<blockquote>
+<p>We can have a small network of servers offering mail and news
+exchange, like in the old days. The problem is unmoderated growth.</p>
+</blockquote>
+
+<p>Last time I talked about this I got the world&rsquo;s most stubborn reply
+guy on my neck who (since he was on a huge instance) could use
+hashtags to find at least some amount of interesting posts and was
+resistant to change. Since I mentioned scalability issues and how my
+server would croak if it were to try to mirror even <em>one</em> of the big
+instances, he started going on and on about &ldquo;scalability is only for
+capitalists&rdquo;.</p>
+
+<p>Yet another case of Smolnet Wishful Thinking Syndrome. The kind of
+thinking that hates Eternal September more than anything but keeps
+designing protocols that lead to more Eternal Septembers since they&rsquo;re
+about everyone-seeing-everyone and then they resort to technical
+gatekeeping or even bullying to keep people out. Not into it.</p>
+
+<p>My criticism of Usenet&rsquo;s protocol here has nothing to do with
+capitalist scaling, which is about &ldquo;throwing computers at it&rdquo;. Sure,
+that&rsquo;d be one solution to the protocol problems inherent to Usenet and
+relay-laden-ActivityPub.</p>
+
+<p>Real Smolnet scaling is about designing protocols that are about
+connecting people to people (and to topic groups or other
+communities), and in a non-wasteful, mottainai way create small
+overlapping villages instead of one big shout-loud-and-go-viral
+channel.</p>
+
+<p>There are two kinds of protocols. Those where everyone must see
+everything (like Antenna and CAPCOM, and Twitter), and those where
+that&rsquo;s not the case (like ActivityPub and email).</p>
+
+<p>Here are three network layouts:</p>
+
+<p><img loading="lazy" src="https://ellen.idiomdrottning.org/baran_networks.png" alt="Baran networks" /></p>
+
+<p>First we have a centralized network. One hub server and then every
+client is a spoke connected to that center core. The most efficient
+way to organize an &ldquo;everyone-must-see-everything&rdquo; protocol, but
+vulnerable to disasters like meteor strikes, nuclear explosions,
+billionaire takeovers, or earthquakes.</p>
+
+<p>Then we have a decentralized network. Several hubs connected to each
+other, mirroring each other. Usenet worked like that. The hubs need to
+be just as beefy as the ones in a centralized network. This has some
+advantages like redundancy and robustnesss, and it&rsquo;s more politically
+appealing to the anarchists that built the internet. (Not sure why
+since there&rsquo;s still two tiers and a mod group that rules everything
+for everyone.) It can be wasteful. It can handle
+everyone-must-see-everything protocols. It can also really shine when
+everyone <em>doesn&rsquo;t</em> need to see everything, like IRC which is super
+efficient. IRC is a brilliant protocol design that, like a mailing
+list, only sends the messages to a server that that server needs.</p>
+
+<p>Finally we have a distributed network. No hubs. It looks more like a
+mesh where every machine is connected to only a handful of &ldquo;nearby&rdquo;
+machines. This type of network is an absolute disaster for the
+everyone-must-see-everything scenario! Redundant to the point of
+wastefulness. That&rsquo;s a future we must fight tooth and nail! And that&rsquo;s
+exactly where the relay-centered version of ActivityPub was headed,
+and that&rsquo;s what would be &ldquo;needed&rdquo; for hashtags-as-groups-and-discovery
+to &ldquo;work&rdquo;.</p>
+
+<p>Here&rsquo;s where we the grassroots federalized ancom degrowth community
+need to check ourselves before we wreck ourselves because even though
+<a href="https://idiomdrottning.org/energy-is-undercosted" title="Energy is undercosted">energy and e-waste is underpriced</a>, a capitalist for-profit silo
+company would never in a million years set up a system like this
+because it&rsquo;s too wasteful ever for them, while we&rsquo;re liable to do so
+since each instance op only sees their <em>own</em> costs, not the cost for
+the network as a whole. The megacorps are OK with centralization
+because for them, the power consolidation in the first two network
+types is a positive, while for us it&rsquo;s a huge negative so we&rsquo;re drawn
+to the third type, so we need to be really careful and really
+responsible here.</p>
+
+<p>But as bad as this layout is for everyone-must-see-everything, it&rsquo;s
+really awesome for protocols where everyone <em>doesn&rsquo;t</em> need to see
+everything. It&rsquo;s economical, robust, cozy. ActivityPub (without the
+relentless mirroring) is a good fit here. I can follow a handful of
+users and be connected to their instances and only their posts are
+sent to my instance, I don&rsquo;t mirror the entire server. It&rsquo;s actually
+pretty awesome! It&rsquo;s good for moderation too because I only need to
+moderate my &ldquo;neighborhood&rdquo;. Yeah, a &ldquo;neighborhood&rdquo; is the perfect
+analogy for this; neighborhoods that can and overlap but are still
+small and managed. A system set up like that can remain smol and cozy
+even as it invites everyone on Earth. It&rsquo;s great. ActivityPub is
+awesome.</p> 
+
+<https://alexschroeder.ch/view/2024-07-02-moderation>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-04, from: Dave Winer's Scripting News)
+
+Truth be told one of the reasons I added it now was because I wanted a place to use the new <a href="http://scripting.com/2024/07/04/bullshit2.m4a">easter egg</a> Nakedjen recorded for me (and you). 
+
+<http://scripting.com/2024/07/04.html#a132632>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-04, from: Dave Winer's Scripting News)
+
+I added a <a href="https://imgs.scripting.com/2024/07/04/aboutPageAdditionNotSecure.png">section</a> to this site's <a href="http://scripting.com/?tab=about">About page</a> re "Not secure." 
+
+<http://scripting.com/2024/07/04.html#a131956>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-07-04, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@gmclean/post/C8_TWPPKKVH">Gordon McLean asks</a>: "If I was to move my blog away from WordPress, what platform is simplest?" 
+
+<http://scripting.com/2024/07/04.html#a125750>
+
+---
+
+## It could happen!
+
+date: 2024-07-04, from: Dave Winer's Scripting News
+
+<p>My <a href="http://scripting.com/">blog</a> is also a <a href="http://scripting.com/2024/07/04/aPaneerOfLegitimacy.m4a">podcast</a>. I wonder if anyone else does that. </p>
+<p>The title of this episode is "A peneer of legitimacy," but what I really meant is <a href="https://en.wikipedia.org/wiki/Wood_veneer">veneer</a>. </p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/04/butHerEmails.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I describe a dream where the owner of the NY Times is, in March 2025, being tried by a military tribunal for not sufficiently helping Trump get re-elected as he was told to do. Sulzberger, in his own defense, points out that they covered <a href="https://www.google.com/search?q=Biden%27s+Age">Biden's Age</a>, the official new version of <a href="https://www.google.com/search?q=Hillary%27s+Emails">Hillary's Emails</a>, while ignoring other possible issues. </p>
+<p>The tribunal returns with its verdict and hilarity ensues as the punishment, secret until revealed, is administered. </p>
+<p>The crowd goes crazy! "Too late! Not enough! Go to hell!" </p>
+<p>The host of the show is <a href="https://en.wikipedia.org/wiki/Bart_Simpson">Bart Simpson</a>. </p>
+<p>It could happen.</p>
+<p><i>3 minutes.</i></p>
+ 
+
+<http://scripting.com/2024/07/04/123827.html?title=itCouldHappen>
+
+---
+
+## July 3, 2024
+
+date: 2024-07-04, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/july-3-2024>
+
+---
+
+## Honestly, how old is too old?
+
+date: 2024-07-04, from: Robert Reich's blog
+
+Thoughts on turning 78 
+
+<https://robertreich.substack.com/p/how-old-is-too-old-0a8>
+
+---
+
+## July 3, 2024 
+
+date: 2024-07-04, from: Heather Cox Richardson blog
+
+And on July 4, 1776, the Second Continental Congress adopted the Declaration of Independence, declaring: &#8220;We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable rights, that among these are Life, Liberty and the Pursuit of Happiness.&#8221; 
+
+<https://heathercoxrichardson.substack.com/p/july-3-2024-aea>
+
+---
+
+## Finding common ground
+
+date: 2024-07-04, from: Tracy Durnell Blog
+
+Shared reality by Manu Moreale &#8230;it’s easy to forget that more often than not, the people interacting with each other [online] don’t share the same day-to-day reality. + Common future by Mandy Brown [Y]ou can’t do this work alone or at a remove; you have to be in the dirt with your comrades. It’s through [&#8230;] 
+
+<https://tracydurnell.com/2024/07/03/finding-common-ground/>
+
+---
+
+## A better dream
+
+date: 2024-07-04, from: Tracy Durnell Blog
+
+There is no cultural framework where help flows toward working parents but not from them. Where we are beholden to no one but entitled to support. Where we only have to associate with people we choose to at our leisure. Where there’s always someone to pick up slack for us and manage whatever we find [&#8230;] 
+
+<https://tracydurnell.com/2024/07/03/a-better-dream/>
+
+---
+
+## For The Good of The Country
+
+date: 2024-07-04, from: Dan Rather's Steady
+
+Biden must make the most important decision of his career 
+
+<https://steady.substack.com/p/for-the-good-of-the-country>
+
+---
+
+## Stuck in space 
+
+date: 2024-07-03, from: Robert Reich's blog
+
+Astronauts and Democrats 
+
+<https://robertreich.substack.com/p/stuck-in-space>
+
+---
+
+## wcurl is here
+
+date: 2024-07-03, from: Daniel Stenberg Blog
+
+Users tell us that remembering what curl options to use when they just want to download the contents of a URL is hard. This is one often repeated reason why some users reach for wget instead of curl on the command line. It downloads the data from the URL without you needing to provide any &#8230; <a href="https://daniel.haxx.se/blog/2024/07/03/wcurl-is-here/" class="more-link">Continue reading <span class="screen-reader-text">wcurl is here</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/07/03/wcurl-is-here/>
+
+---
+
+## Field Notes 07.03.2024
+
+date: 2024-07-03, from: Om Malik blog
+
+On My Mind On the eve of our Independence Day, I can’t help but think of our current political challenges. It doesn’t matter which side of the political aisle you walk. After all, the reality of our collective future doesn’t change, one way or the other. The challenges facing our society, economy and country don’t &#8230; 
+
+<https://om.co/2024/07/03/field-notes-07-03-2024/>
+
+---
+
+## July 2, 2024
+
+date: 2024-07-03, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/july-2-2024-b98>
 
 ---
 
@@ -40,7 +588,7 @@ If something like this happens and you haven't seen it in my linkblog, or on my 
 
 **@Dave Winer's Scripting News** (date: 2024-07-03, from: Dave Winer's Scripting News)
 
-Somehow, even though I watched an hour of news on MSNBC last night, and was on all the social media all day, I didn't hear about Pelosi's comments, and the leaked poll data, until this morning. It wasn't until I looked at the synopsis of Olbermann's podcast that I learned that something had changed. For whatever reason, even though I have made a significant investment in time to stay informed, it isn't working. Fact. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/07/03/smallerPatrioticKitty.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Somehow, even though I watched an hour of news on MSNBC last night, and was on all the social media all day, I didn't hear about Pelosi's comments, or the leaked poll data, until this morning. It wasn't until I looked at the synopsis of Olbermann's podcast that I learned that something had changed. For whatever reason, even though I have made a significant investment in time to stay informed, it isn't working. Fact. 
 
 <http://scripting.com/2024/07/03.html#a124225>
 
@@ -107,7 +655,7 @@ On July 2, 1776, the Second Continental Congress passed a &#8220;Resolution for 
 
 date: 2024-07-03, from: Matt Haughey blog
 
-<p>I&apos;m almost done with research work on <a href="https://unofficialnwsl.stadium.guide/?ref=a.wholelottanothing.org" rel="noreferrer">my upcoming guidebook</a> as my wife and I review the final 14th stadium up in Seattle this coming Sunday. This past weekend we visited arenas furthest from Oregon, flying to Washington DC to catch <a href="https://unofficialnwsl.stadium.guide/audi-field-washington-spirit-vs-nc-courage/?ref=a.wholelottanothing.org" rel="noreferrer">a Spirit match</a> on Saturday then an</p> 
+<p>I&apos;m almost done with research work on <a href="https://unofficialnwsl.stadium.guide/?ref=a.wholelottanothing.org" rel="noreferrer">my upcoming guidebook</a> as my wife and I review the final 14th stadium up in Seattle on Sunday. This past weekend we visited the fields furthest from Oregon, flying to Washington DC to catch <a href="https://unofficialnwsl.stadium.guide/audi-field-washington-spirit-vs-nc-courage/?ref=a.wholelottanothing.org" rel="noreferrer">a Spirit match</a> on Saturday then an</p> 
 
 <https://a.wholelottanothing.org/24-unexpected-hours-in-nyc/>
 
@@ -519,7 +1067,7 @@ was very wise about what we were getting into: "We're either going to have a dis
 X11 was definitely a "success disaster".<br />
 <h3>Why X not NeWS?</h3>
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUwPK1UJfagQeXNTr2AO-VJ8lrgCDca3mNsUigCXEHVePFdW3O6R420R55rng4of42q2v7hjb0PMikk5DvUHTCHdFLd6yYMLwn2U7oOAslEEIsZwAR4EM3RSx-E6Q_kq0SsYAJDl4VZgg7jC4xYZJEZo07KIqbnksk9sI_WuM1bZp-_zrutJQyEWMCLoYY/s790/HyperTIESAuthoring.jpeg" style="clear: right; display: block; margin-left: auto; margin-right: auto; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="644" data-original-width="790" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUwPK1UJfagQeXNTr2AO-VJ8lrgCDca3mNsUigCXEHVePFdW3O6R420R55rng4of42q2v7hjb0PMikk5DvUHTCHdFLd6yYMLwn2U7oOAslEEIsZwAR4EM3RSx-E6Q_kq0SsYAJDl4VZgg7jC4xYZJEZo07KIqbnksk9sI_WuM1bZp-_zrutJQyEWMCLoYY/s200/HyperTIESAuthoring.jpeg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">NeWS <a href="https://en.wikipedia.org/wiki/NeWS#/media/File:HyperTIESAuthoring.jpg">Xardox<br />Public Domain</a></td></tr></tbody></table>
-NeWS was amazing technology, providing each of our requirements with usable performance on a 68000. Its interpreter was a clean-room implementation of PostScript from the "Blue Book", with extensions that provided cooperative multi-threading, networking, arbitrary-shaped translucent windows, and a fully object-oriented toolkit. Steve Jobs agreed with us that PostScript was the right imaging model, although the <a href="https://en.wikipedia.org/wiki/Display_PostScript">Display PostScript</a> interpreter he licensed from Adobe for the <a href="https://en.wikipedia.org/wiki/NeXTSTEP">NextSTEP</a> window system was far more restricted. The overwhelming success of <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a> has validated our argument for programmability. So why did X11 take over the world? My view is that there are three main arguments, any one of which would have been decisive:<br />
+NeWS was amazing technology, providing each of our requirements with usable performance on a 68000. Its interpreter was a clean-room implementation of PostScript from the "<strike>Blue</strike>Red Book", with extensions that provided cooperative multi-threading, networking, arbitrary-shaped translucent windows, and a fully object-oriented toolkit. Steve Jobs agreed with us that PostScript was the right imaging model, although the <a href="https://en.wikipedia.org/wiki/Display_PostScript">Display PostScript</a> interpreter he licensed from Adobe for the <a href="https://en.wikipedia.org/wiki/NeXTSTEP">NextSTEP</a> window system was far more restricted. The overwhelming success of <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a> has validated our argument for programmability. So why did X11 take over the world? My view is that there are three main arguments, any one of which would have been decisive:<br />
 <ul>
 <li>We and Jobs were wrong about the imaging model, for at least two reasons. First, early on pixels were in short supply and applications needed to make the best use of the few they were assigned. They didn't want to delegate control to the PostScript interpreter. Second, later on came GPUs with 3D imaging models. The idea of a one-size-fits-all model became obsolete. The reason that Wayland should replace X11 is that it is agnostic to the application's choice of imaging model.</li>
 <li>Although we were right about the need for programmability, PostScript was the wrong language. Even back in 1985 Gosling and I were veteran programmers, with experience in many languages including not just C and Assembler, but also <a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">LISP</a>, <a href="https://en.wikipedia.org/wiki/Prolog">Prolog</a> and <a href="https://en.wikipedia.org/wiki/Smalltalk">Smalltalk</a>. We didn't find PostScript's <a href="https://en.wikipedia.org/wiki/Stack-oriented_programming">stack-based</a> language intimidating. But already by that time Darwinian evolution had focused CS education on C-like languages, so the majority of application programmers were intimidated. And NeWS wasn't just <i>stack-oriented</i>, it was also <i>object-oriented</i> and <i>multi-threaded</i>, and none of these were optional, making it even more intimidating. In a sense NeWS was an echo of the success of Sun in the early days — a bunch of really good engineers building the system <i>they</i> wanted to use, not one for the mass market.</li>
@@ -654,62 +1202,6 @@ date: 2024-07-02, updated: 2024-07-01, from: Bruce Schneier blog
 
 ---
 
-## 2024-07-02 The importance of moderation
-
-date: 2024-07-02, from: Alex Schroeder's Blog
-
-<h1 id="2024-07-02-the-importance-of-moderation">2024-07-02 The importance of moderation</h1>
-
-<p><a class="account" href="https://idiomdrottning.org/users/Sandra" title="@Sandra@idiomdrottning.org">@Sandra</a> recently wrote <a href="https://idiomdrottning.org/usenet">Usenet had to die</a>, arguing that Usenet was wasteful, everybody carrying a copy of everybody else, including spam and binaries.
-I agree with all the points made. The idea that there is one global network of groups, with everybody carrying all the groups and everybody being allowed to post led to the downfall of Usenet.</p>
-
-<p>Having recently hooked my laptop and server server to a handful of other servers using UUCP, NNCP and NNTP for file copies, mail and news, I just want to emphasize that the same technology can be used to build a different net.</p>
-
-<ul>
-<li>UUCP doesn&rsquo;t have to be anonymous. Calling systems can be required to have a username and password.</li>
-<li>NNTP doesn&rsquo;t have to be anonymous. Systems can be known peers based on IP numbers and users can be required to authenticate themselves.</li>
-<li>Servers don&rsquo;t have to mirror all the groups. Systems can be selective in what they accept and in what they pass on.</li>
-</ul>
-
-<p>The spam problem arises when two systems &ldquo;trust&rdquo; each other and peer messages but one of the systems doesn&rsquo;t act on abuse and moderation reports.
-Perhaps Usenet generated too much of a workload for system administrators so they stopped following up on those reports.
-Perhaps some servers had become too big to ban.</p>
-
-<p>I think we have the exact same problems with fedi.
-Some instances seem too big to defederate from.</p>
-
-<p>Unfortunately, individual blocking doesn&rsquo;t work.
-If my posts end up on an unmoderated server because somebody I like is following me, the post shows up in the federated feed on that server and all the other users that I don&rsquo;t like can comment and those comments are sent back to me.
-I can block them all individually or block the large instance including my small number of friends.
-That instance has become too big to ban.</p>
-
-<p>To come back to net news:
-From my point of view, the protocols are not to blame for the downfall of Usenet.
-It was the lack of moderation that killed Usenet.
-It was the ease of setting up web forums and being able to moderate them that made Usenet irrelevant.
-In the end, to all these people federation was not as important as moderation.</p>
-
-<p>Administrators were unwilling to drop the groups that were overrun with people that needed moderation.
-This is a problem on all platforms with groups, e.g. Reddit.</p>
-
-<p>Administrators were unwilling to ban the instances that didn&rsquo;t moderate their users.
-This is a problem on all federated platforms, e.g. Mail.</p>
-
-<p>Administrators were unwilling to create new groups for people in their niches.
-At least nobody seems to be making that mistake again.
-IRC, Reddit, Discord – they all demonstrated that ad-hoc group formation and self-moderation was viable.</p>
-
-<p>This is why I think moderation, group forming and selectivity of federation are the most important quality of a platform.</p>
-
-<p>We can have a small network of servers offering mail and news exchange, like in the old days.
-The problem is unmoderated growth.</p>
-
-<p><a class="tag" href="/search/?q=%23Social_Media">#Social Media</a></p> 
-
-<https://alexschroeder.ch/view/2024-07-02-moderation>
-
----
-
 ## Andrew Mellon’s humongous donation to Donald Trump
 
 date: 2024-07-02, from: Robert Reich's blog
@@ -795,7 +1287,7 @@ date: 2024-07-01, from: Dave Winer's Scripting News
 <p>I just did an approx 40 minute <a href="http://scripting.com/2024/07/01/jeffJarvisDiscusses.m4a">podcast</a> interview and discussion with <a href="https://en.wikipedia.org/wiki/Jeff_Jarvis">Jeff Jarvis</a>. I know Jeff from the early days of blogging. He was one of the best discussion leaders at BloggerCon. And he's an accomplished author and educator. </p>
 <p>We talk about how to organize news for people who are information starved by whatever it is that our news sources are doing, which is really hard to figure out, but in the end (I argue) who cares why, we have a problem to solve, so let's get on with it.</p>
 <p>I talk about the blogging at the Dean campaign in 2004, that's how they got around journalism. I'm sure that's where we have to go, put together what we think would be the Biden blog if the campaign was being run by Joe and Nicco, and I'd be on board, so would Jeff, and we'd help Heather Cox Richardson, and amplify anyone who is making sense and supports democracy. </p>
-<p>It could be funded by the <a href="http://scripting.com/2016/07/01/1342.html">People's PAC</a>, or something like it. It wouldn't take very much money, it's just a blog. But it would have powerful ideas that cut through the bullshit, and great videos, and we'd organize marches where people show up to help people.</p>
+<p>It could be funded by the <a href="http://scripting.com/2016/07/01/1342.html">People's PAC</a>, or something like it. It wouldn't take very much money, it's just a blog. But it would have powerful ideas that cut through the <a href="http://scripting.com/2024/07/03/bullshit.m4a">bullshit</a>, and great videos, and we'd organize marches where people show up to help people.</p>
 <p>And the campaign would never stop, we'd always be organizing.</p>
 <p>This is the discussion I wanted to start. </p>
 <p>Hope you enjoy! :-)</p>
