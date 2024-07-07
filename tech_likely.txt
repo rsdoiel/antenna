@@ -212,6 +212,13 @@ https://blog.gtk.org/feed/ "~Gtk Developer blog"
 https://wilw.dev/feeds "~Wil Webberly blog"
 https://feed.tedium.co/ "~Tedium site"
 
+#https://vlcn.io/blog "~Vulcan Labs blog" # No RSS feed :-(
+https://mattweidner.com/feed.xml "~Matt Weidner blog" # Local-First blogger
+
+https://maggieappleton.com/rss.xml "~Maggie Appleton blog"
+#https://thesephist.com/index.xml "~The Sephist blog"
+
+
 #
 # Publications
 #

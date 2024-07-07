@@ -224,7 +224,7 @@ https://www.authorsalliance.org/category/blog/feed/ "~Authors Union blogs"
 #https://www.bitscope.com/blog/feed.xml "~BitScope"
 #moved to news2.txt
 #https://www.blackpepperpaperie.com/blog-feed.xml "~Black Pepper Paperie blog"
-https://www.bunniestudios.com/blog/?feed=rss2 "~Bunnie's Studio Blog"
+https://www.bunniestudios.com/blog/feed/ "~Bunnie's Studio Blog"
 #https://www.cjemicros.co.uk/blog "~CJE Micro (RISC OS machines)"
 https://www.cjemicros.co.uk/blog/?feed=comments-rss2 "~CJE Risc Micro Blog"
 https://www.crl.edu/impact/feed "~Center for Research Libraries, Impact"
@@ -312,6 +312,8 @@ http://feeds.feedburner.com/Kilianvalkhofcom "~Kilian Valkhof's blog" curl/8.5.0
 https://www.htmhell.dev/feed_tips.xml "~HTMH(ell) newsletter, improving the web toolbox"
 https://openrss.org/rss "~Open RSS Blog"
 https://willnorris.com/atom.xml "~Will Norris blog"
+#https://vlcn.io/blog "~Vulcan Labs blog" # No RSS feed :-(
+https://mattweidner.com/feed.xml "~Matt Weidner blog" # Local-First blogger
 
 #
 # Programming language blogs
@@ -369,6 +371,7 @@ https://www.lagq.com/news?format=RSS "~L.A.G.Q. news" curl/8.5.0
 #
 https://timkellogg.me/blog/atom.xml "~Tom Kellog blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://maggieappleton.com/rss.xml "~Maggie Appleton blog"
+https://thesephist.com/index.xml "~The Sephist blog"
 https://www.oneusefulthing.org/feed "~One Useful Thing"
 https://webcurios.co.uk/feed/ "~Web Curios blog"
 https://feed.tedium.co/ "~Tedium feed"
